@@ -4,13 +4,16 @@ description: "A SKU única do Office 365 E5 está disponível no CSP e inclui Co
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: fcf1f8e1b783291658ec6e0b43e6d3ced9dca63e
-ms.openlocfilehash: e29ac5ae1cb977b64f863b33f4cc67ff7b8ea2c2
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: afa65e5501eb9bcaa521229cef3b9d33a58e1efe
 
 ---
 
 # Consultoria para parceiros do Office 365: disponibilidade da SKU única do Office 365 E5 no CSP
 
+**Aplicável a**
+
+-  Partner Center
 
 A partir de 5 de outubro de 2016, a SKU única do Office 365 Enterprise E5 está disponível no CSP. Como parte dessa alteração, a SKU do Office 365 Enterprise E5 inclui Conferência PSTN (onde o serviço Conferência PSTN está disponível).
 
@@ -213,6 +216,6 @@ Para obter mais detalhes, visite o site do [Drumbeat](https://drumbeat.office.co
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

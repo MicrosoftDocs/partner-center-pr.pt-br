@@ -4,13 +4,16 @@ description: "A Microsoft apresenta o Dynamics 365, a mais nova geração de apl
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 1d17213d3b591056d6af2dd1855d6c52a17801f5
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: f19e46da31a7e479ebd3b1cd368ca7646c3c55b7
 
 ---
 
 # Migrar assinaturas do Dynamics AX para o Dynamics 365
 
+**Aplicável a**
+
+-  Partner Center
 
 A Microsoft apresenta o Dynamics 365, a mais nova geração de aplicativos de negócios inteligentes que permitem que sua organização cresça, evolua e transforme-se para atender às necessidades de seus clientes e aproveitar novas oportunidades. Como parte do novo produto, a Microsoft apresenta novos planos de assinatura do Microsoft Dynamics para clientes em 1º de novembro de 2016, que são semelhantes, mas não idênticos aos seus planos atuais.
 
@@ -118,6 +121,6 @@ Depois que o cliente aceitar você como seu provedor indireto, as etapas de prov
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

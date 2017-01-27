@@ -4,13 +4,17 @@ description: "Um cliente pode querer trabalhar com vários parceiros no programa
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: ec77054e39c7cc1868deb502e041784539c5da2f
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 9680b98863cd10d314e05941572ca46a8388ef3d
 
 ---
 
 # Vários parceiros
 
+**Aplicável a**
+
+-  Partner Center
+-  Partner Center do Microsoft Cloud Germany
 
 Um cliente pode querer trabalhar com vários parceiros no programa Provedor de Soluções na Nuvem especializados em serviços diferentes. Por exemplo, um parceiro para o Office 365 e um outro parceiro para o Microsoft Azure. Ou, em uma única assinatura do Office 365, um parceiro para o Exchange Online e outro para o SharePoint Online.
 
@@ -35,6 +39,6 @@ A funcionalidade de vários parceiros não:
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

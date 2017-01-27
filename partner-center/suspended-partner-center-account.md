@@ -4,40 +4,50 @@ description: "Saiba como restaurar uma conta suspensa do Partner Center, por que
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: baafd51417845f4edd627a5fd71aceb6456ce3f5
+ms.sourcegitcommit: 7e12c613050af1c76caa3fd87a5098ee501c0d9c
+ms.openlocfilehash: e749e49fe70d4f20d1d428d9c0ad9ede5751ae1d
 
 ---
 
 # Restaurar uma conta suspensa do Partner Center
 
+Este artigo explica o que fazer se sua conta do Partner Center for suspensa.
 
-Saiba como restaurar uma conta suspensa do Partner Center, por que acontece a suspensão da conta de parceiro e como você pode usar sua conta durante a suspensão.
+**Aplicável a**
 
-## <a href="" id="suspendedpartnercenteraccounts"></a>Como acontecem as suspensões de conta do Partner Center
+-  Partner Center
+-  Partner Center do Microsoft Cloud Germany
+
+>**Importante**<br>
+Enquanto sua conta do Partner Center estiver suspensa, você poderá continuar a gerenciar suas implantações, as licenças e os serviços existentes. No entanto, você não conseguirá autorizar ou revender novas licenças ou serviços até que sua conta tenha boa reputação novamente.
+
+## Por que as contas do Partner Center são suspensas?
+
+A Microsoft suspenderá uma conta do Partner Center por um dos seguintes motivos:
+
+- Quando o valor de cobrança atual está em atraso há mais de 60 dias 
+- Quando é detectado um abuso significativo da conta
+- Quando problemas afetam as operações do provedor indireto e causam impacto negativo em sua conta (somente para revendedores indiretos)
+
+## O que fazer se sua conta estiver suspensa
+
+Se você sabe que sua conta está atualizada, envie uma solicitação de suporte com o suporte do Partner Center para descobrir por que sua conta foi suspensa. 
+
+Se você não tiver certeza se sua conta está atualizada, selecione **Cobrança** no menu **Painel** para verificar sua conta. A página de cobrança mostra seu histórico de cobrança e as tendências, o saldo devido do mês atual, links para sua fatura e arquivos de reconciliação, além de seu pagamento mais recente.
+
+Se sua conta estiver vencida, siga as instruções de sua fatura para organizar o pagamento e, em seguida, envie uma solicitação de suporte para solicitar que sua conta seja restaurada. 
+
+**Para enviar uma solicitação de certificado**
+
+1.  No menu **Painel**, selecione **Solicitações de suporte > Solicitações do Partner Center**.
+2.  Selecione **Nova solicitação**. 
+3.  Preencha o formulário e depois selecione **Enviar**. Um representante do suporte do Partner Center entrará em contato com você para explicar por que sua conta foi suspensa e como reativá-la.
 
 
-A Microsoft pode suspender uma conta do Partner Center pelos seguintes motivos:
-
--   Quando o valor de cobrança atual está em atraso há 60 dias
--   Quando é detectado um abuso significativo da conta
--   Eventos externos que podem afetar a operação da conta, como desastres naturais
-
-**Se sua conta de parceiro for suspensa**
-
--   Envie imediatamente uma solicitação de suporte e verifique seus registros de pagamento. Quando sua conta do Partner Center for suspensa, você poderá continuar a gerenciar suas implantações, as licenças e serviços existentes. Durante a suspensão, você não poderá ativar novas licenças ou serviços até que o valor devido total seja pago ou os eventos sejam resolvidos por meio de uma solicitação de suporte.
-
-    Caso você precise resolver a suspensão por meio de pagamento, use os métodos normais para efetuar seu pagamento e, em seguida, entre em contato com o Partner Center por meio de uma solicitação de suporte para pedir a reativação. Depois que a Microsoft verificar o pagamento, essa solicitação será usada como a notificação para reativar a conta do Partner Center.
-
- 
-
- 
 
 
 
 
-
-
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -4,13 +4,17 @@ description: "Para obter uma exibição detalhada em itens de linha de cada enca
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 8024efe9149ff224a8b2c7d76f46b664df328a3a
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 
 ---
 
 # Usar os arquivos de reconciliação
 
+**Aplicável a**
+
+-  Partner Center
+-  Partner Center do Microsoft Cloud Germany
 
 Para obter uma exibição detalhada em itens de linha de cada encargo em um ciclo de cobrança, baixe os arquivos de reconciliação do painel do Partner Center. Os detalhes incluem encargos por assinaturas de cada cliente e eventos detalhados (como a adição de assentos a uma assinatura no meio do período).
 
@@ -503,6 +507,6 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

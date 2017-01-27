@@ -4,15 +4,20 @@ description: "Se os usuários se esquecerem da senha, você poderá atribuir a e
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 6b62003ef9ca7c8d40141a3adaaca5f704eb7fa6
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: c585d9826293a6d843a636791c38e3c0a46c4b87
 
 ---
 
-# Redefinir a senha do usuário
+# Redefinir a senha de usuário
 
+**Aplicável a**
 
-Se os usuários se esquecerem da senha, você poderá atribuir a eles uma nova senha temporária. Eles poderão usá-la na próxima vez que entrarem no Partner Center.
+-  Partner Center
+   
+>**Observação** Se você estiver se registrado no programa CSP (Provedor de Solução na Nuvem) no Microsoft Cloud Germany, consulte [Gerenciamento de usuários no Partner Center do Microsoft Cloud Germany](user-management-in-partner-center-for-microsoft-cloud-germany.md) para obter informações sobre como redefinir a senha do usuário.
+
+Se os usuários se esquecerem das senhas deles, atribua a eles uma senha temporária. Eles poderão usá-la na próxima vez que entrarem no Partner Center.
 
 **Redefina uma senha do usuário como um administrador**
 
@@ -25,7 +30,8 @@ Se os usuários se esquecerem da senha, você poderá atribuir a eles uma nova s
 
 **Redefina sua própria senha**
 
-1.  Entre no Partner Center. Em seguida, selecione seu nome na parte superior da tela e escolha **Meu perfil**.
+1.  Entre no Partner Center. Em seguida, selecione seu nome na parte superior da tela e selecione **Meu perfil**.
+
 2.  Você pode ver suas próprias funções e instruções para alterar sua senha.
 
  
@@ -37,6 +43,6 @@ Se os usuários se esquecerem da senha, você poderá atribuir a eles uma nova s
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

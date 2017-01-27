@@ -4,13 +4,17 @@ description: "A Microsoft publica muitos documentos de que os parceiros CSP prec
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 739f93ca5b2752196247554d7a0b593e895a6f89
+ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
+ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
 
 ---
 
 # Listas de preços, ofertas e contratos de CSP
 
+**Aplicável a**
+
+-  Partner Center
+-  Partner Center do Microsoft Cloud Germany
 
 A Microsoft publica muitos documentos de que os parceiros CSP precisam para decidir se devem inscrever-se no programa, registrar novos clientes, vender produtos e serviços Microsoft para clientes e reconciliar sua conta.
 
@@ -39,24 +43,26 @@ Este guia define requisitos para revender produtos aos clientes como um parceiro
 
 A Microsoft exige que os parceiros assinem este contrato para participar do programa de Provedor de Solução na Nuvem. Selecione o guia apropriado para o mercado em que você pretende vender.
 
-[Contrato de revendedor de nuvem da Microsoft – América do Norte, América Central, América do Sul e Caribe](http://go.microsoft.com/fwlink/p/?LinkId=617094)
+[Contrato de revendedor do Microsoft Cloud – América do Norte, América Central, América do Sul e Caribe](http://go.microsoft.com/fwlink/p/?LinkId=617094)
 
-[Contrato de revendedor de nuvem da Microsoft – Ásia, Austrália e Pacífico](http://go.microsoft.com/fwlink/p/?LinkId=617095)
+[Contrato de revendedor do Microsoft Cloud – Ásia, Austrália e Pacífico](http://go.microsoft.com/fwlink/p/?LinkId=617095)
 
-[Contrato de revendedor de nuvem da Microsoft – Europa, Oriente Médio e África](http://go.microsoft.com/fwlink/p/?LinkId=617096)
+[Contrato de revendedor do Microsoft Cloud – Europa, Oriente Médio e África](http://go.microsoft.com/fwlink/p/?LinkId=617096)
 
-[Contrato de revendedor de nuvem da Microsoft – Japão](http://go.microsoft.com/fwlink/p/?LinkId=617097)
+[Contrato de revendedor do Microsoft Cloud – Japão](http://go.microsoft.com/fwlink/p/?LinkId=617097)
 
-[Contrato de revendedor de nuvem da Microsoft – Coreia](http://go.microsoft.com/fwlink/p/?LinkId=617098)
+[Contrato de revendedor do Microsoft Cloud – Coreia](http://go.microsoft.com/fwlink/p/?LinkId=617098)
 
-[Contrato de revendedor de nuvem da Microsoft – Taiwan](http://go.microsoft.com/fwlink/p/?LinkId=617099)
+[Contrato de revendedor do Microsoft Cloud – Taiwan](http://go.microsoft.com/fwlink/p/?LinkId=617099)
+
+[Contrato de revendedor do Microsoft Cloud - Microsoft Cloud Germany](https://go.microsoft.com/fwlink/p/?linkid=831385)
 
 ## <a href="" id="customeragreementtemplate"></a>Modelo de contrato do cliente
 
 
 Os parceiros são responsáveis por garantir que os clientes compreendam e aceitem os termos e condições da Microsoft, incluindo o uso aceitável dos produtos e serviços da Microsoft. Fornecemos aos parceiros um modelo para o material que eles devem cobrir quando inscreverem um novo cliente.
 
-[Modelo de contrato do cliente](http://go.microsoft.com/fwlink/p/?LinkId=617101)
+[Modelos de contrato do cliente](agreements.md)
 
 ## Preço
 
@@ -83,6 +89,6 @@ Para parceiros CSP que usam a API de registro de uso CREST, a Microsoft também 
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

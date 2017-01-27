@@ -1,18 +1,22 @@
 ---
 title: Criar uma nova assinatura | Partner Center
-description: "Depois de criar um registro de seu cliente no Partner Center, você pode vender a ele assinaturas de produtos no catálogo."
+description: "Depois de criar um registro de seu cliente no Partner Center, você poderá vender a ele assinaturas de produtos no catálogo."
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 57f9cd6572f656cd43594a606d39942b5fdc724e
-ms.openlocfilehash: 97e37370a2b9fa32121761a06e9aef1441334f2c
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: e23594a9bb9371cb1af1a2ff9047ef559050def0
 
 ---
 
 # Criar uma nova assinatura
 
+**Aplicável a**
 
-Depois de criar um registro de seu cliente no Partner Center, você pode vender a ele assinaturas de produtos no catálogo.
+-  Partner Center
+-  Partner Center do Microsoft Cloud Germany
+
+Depois de criar um registro de seu cliente no Partner Center, você poderá vender a ele assinaturas de produtos no catálogo.
 
 **Criar uma nova assinatura**
 
@@ -20,15 +24,17 @@ Depois de criar um registro de seu cliente no Partner Center, você pode vender 
 2.  Selecione **Adicionar assinatura**.
 3.  Verifique a assinatura que você deseja adicionar e insira o número de licenças. Em seguida, clique em **Enviar** a ordem.
 4.  Depois que a assinatura for adicionada, abra-a clicando no nome dela na lista de assinaturas. Nesta página de edição, você pode selecionar as licenças de complemento, se estiverem disponíveis.
-5.  Na página de edição, você também pode alterar a quantidade de licenças ou suspender a assinatura.
+5.  Na página Editar, você também pode alterar a quantidade de licenças ou suspender a assinatura.
 
-**Permitir que o cliente gerencie sua assinatura do Azure**
+**Permitir que os clientes gerenciem suas assinaturas do Azure**
 
-1.  Como administrador de CSP, crie uma assinatura do Azure para o cliente (consulte **Criar uma nova assinatura** acima).
-2.  Use a função Administrar em nome de (AOBO) no Portal do Azure do cliente na página **Gerenciamento de serviços** ou na lista de clientes. (Como parte da função AOBO, a URL contém um locatário de destino, para que o Portal do Azure saiba que o usuário pertence ao locatário CSP, mas está acessando o cliente.)
-3.  Na lista de assinaturas, selecione a assinatura do Azure do cliente.
-4.  Atribua uma função a qualquer um dos usuários do cliente para que ele possa criar e gerenciar recursos em sua assinatura. (Embora os usuários do cliente possam gerenciar recursos em sua assinatura, o parceiro ainda é financeiramente responsável.)
+Depois de criar uma assinatura do Microsoft Azure para um cliente, você poderá permitir que ele gerencie a assinatura. Para fazer isso, você precisará fazer logon no Portal de Gerenciamento do Microsoft Azure. 
 
+1.  Para abrir o Portal do Azure do cliente, expanda a listagem do cliente em sua lista de clientes ou selecione o nome do cliente e, em seguida, selecione **Portal de Gerenciamento do Microsoft Azure**.
+    
+    **Observação** Se receber uma solicitação para fazer logon no Portal do Azure, talvez você não tenha privilégios administrativos delegados. Selecione **Solicite um relacionamento** para convidar o cliente para identificar você como seu Parceiro de Registro. Depois que o cliente aceitar seu convite, você receberá automaticamente os privilégios administrativos delegados. 
+2.  No Portal do Azure, abra a lista de assinaturas do cliente e selecione a assinatura do Azure do cliente.
+3.  Atribua uma função a qualquer um dos usuários do cliente para que ele possa criar e gerenciar recursos em sua assinatura.
 
  
 
@@ -37,6 +43,6 @@ Depois de criar um registro de seu cliente no Partner Center, você pode vender 
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

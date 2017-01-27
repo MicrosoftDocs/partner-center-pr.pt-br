@@ -4,13 +4,17 @@ description: Os parceiros podem suspender ou cancelar uma assinatura se solicita
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: a8987c51c4abff165a5fd7fb529fb9066ce48bdd
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: c77f1fb97f3951182e3bf50fd9b037603e6106b8
 
 ---
 
 # Suspender uma assinatura
 
+**Aplicável a**
+
+-  Partner Center
+-  Partner Center do Microsoft Cloud Germany
 
 Os parceiros podem suspender ou cancelar uma assinatura se solicitado pelo cliente ou em casos de fraude ou falta de pagamento.
 
@@ -25,6 +29,6 @@ Quando você alterar o status de uma assinatura para **Suspensa**, os usuários 
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -4,15 +4,21 @@ description: "Antes de se inscrever no programa Provedor de Soluções na Nuvem,
 ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: bc49a7d800839a02bee99c99d67068d6f7ceb403
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
 
 ---
 
-# Inscrever-se no programa CSP
+# Inscrever-se no programa Provedor de Soluções na Nuvem
 
+**Aplicável a**
 
-Antes de se inscrever no programa Provedor de Soluções na Nuvem, saiba mais sobre os [Requisitos do programa CSP]( http://go.microsoft.com/fwlink/p/?LinkId=617116).
+-  Partner Center
+
+>**Observação**<br>
+Para obter informações sobre como se inscrever no programa Provedor de Soluções na Nuvem do Microsoft Cloud Germany, consulte [registrar no programa Provedor de Soluções na Nuvem do Microsoft Cloud Germany](enroll-in-csp-for-microsoft-cloud-germany.md) e [Partner Center do Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md).
+
+Antes de se inscrever no programa CSP (Provedor de Soluções na Nuvem), saiba mais sobre os [Requisitos do programa CSP]( http://go.microsoft.com/fwlink/p/?LinkId=617116).
 
 Para saber mais sobre o contrato de parceiros e outros requisitos do programa, consulte [Contratos, listas de preços e ofertas de CSP](csp-documents-and-learning-resources.md).
 
@@ -59,6 +65,6 @@ Observe que seu endereço de email autenticado pelo Azure AD existente já está
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

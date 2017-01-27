@@ -1,16 +1,20 @@
 ---
-title: "Não pagamento, fraude ou uso indevido | Partner Center"
+title: "não pagamento, fraude ou uso indevido | Partner Center"
 description: "Você é responsável financeiramente por compras fraudulentas dos seus clientes e/ou falta de pagamento de serviços comprados pelo cliente. Portanto, recomendamos que você implemente controles para redução de risco de detecção e prevenção de fraudes."
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: f54d9f51b8aa61ebc2207d43857143eb42d54eb6
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 6375910eab5b8aa0e64dc67fd772f564044e88a6
 
 ---
 
 # Não pagamento, fraude ou uso indevido
 
+**Aplicável a**
+
+-  Partner Center
+-  Partner Center do Microsoft Cloud Germany
 
 Você é responsável financeiramente por compras fraudulentas dos seus clientes e/ou falta de pagamento de serviços comprados pelo cliente. Portanto, recomendamos que você implemente controles para redução de risco de detecção e prevenção de fraudes. Você é responsável por decidir se estende o crédito para um cliente.
 
@@ -62,6 +66,6 @@ Se a Microsoft detectar atividade do parceiro ou do cliente que confirmarmos ou 
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

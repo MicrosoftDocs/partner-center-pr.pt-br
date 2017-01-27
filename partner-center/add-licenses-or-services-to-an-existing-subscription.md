@@ -4,13 +4,16 @@ description: "Se seu cliente precisar de mais usuários do que os fornecidos pel
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: d1aabc63e68b01f997345b13f2cb615904a027be
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: 69a1975e40a15e4a17a71b06ac741b4641e5b903
 
 ---
 
 # Adicionar licenças ou serviços a uma assinatura existente
 
+**Aplicável a**
+
+-  Partner Center
 
 Se seu cliente precisar de mais usuários do que os fornecidos pela assinatura atual ou de uma versão diferente com serviços adicionais, você poderá atualizar a assinatura. Para saber mais, consulte [Alternar para um plano diferente do Office 365 for Business](http://go.microsoft.com/fwlink/p/?LinkId=723577).
 
@@ -95,6 +98,6 @@ Para saber mais sobre o impacto disso na cobrança, consulte os detalhes sobre c
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

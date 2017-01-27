@@ -4,13 +4,17 @@ description: "Para ver uma lista das ofertas disponíveis nos programas Provedor
 ms.assetid: 09521B01-BFDF-42B4-A4C0-039D3AFFF994
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 442d93092accd4458f749eb91a006576913fb941
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 683a2e17425b08aa13aebf4a81eaaf10eef0eb97
 
 ---
 
-# Ver as ofertas e os preços
+# Ver ofertas e preços
 
+**Aplicável a**
+
+-  Partner Center
+-  Partner Center do Microsoft Cloud Germany
 
 Para ver uma lista das ofertas disponíveis nos programas Provedor de Soluções na Nuvem, juntamente com preços para parceiros, vá para o menu Painel e escolha **Preços e ofertas**.
 
@@ -39,6 +43,6 @@ Para parceiros CSP que usam os SDKs do Partner Center, a Microsoft também publi
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

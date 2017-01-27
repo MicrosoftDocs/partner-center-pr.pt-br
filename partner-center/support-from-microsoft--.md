@@ -4,13 +4,17 @@ description: "Quando você encontrar problemas com um serviço Microsoft ou com 
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: d39eb07b6c26908a956b8db6c7e1e5da349fe445
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 2be8a2651af3207fd2bb3349b0146a651a8afdb7
 
 ---
 
 # Suporte da Microsoft
 
+**Aplicável a**
+
+-  Partner Center
+-  Partner Center do Microsoft Cloud Germany
 
 Quando você encontrar problemas com um serviço Microsoft ou com o Partner Center, poderá encaminhá-los para a Microsoft para obter ajuda e controlar os problemas até que eles sejam resolvidos.
 
@@ -31,6 +35,6 @@ Quando você encontrar problemas com um serviço Microsoft ou com o Partner Cent
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -4,13 +4,17 @@ description: "Os logs de atividades fornecem informações sobre transações e 
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: eafa7a85ecea207bbdbd01809bdc4c47d0b8fd97
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: ea46cfc0ba8c4acd580334ac76abcb704bc7e6c7
 
 ---
 
 # Exibir logs de atividades do cliente
 
+**Aplicável a**
+
+-  Partner Center
+-  Partner Center do Microsoft Cloud Germany
 
 Os logs de atividades fornecem informações sobre transações e ações de gerenciamento de parceiros para clientes. Os logs de transações fornecem informações detalhadas sobre a transação, incluindo as assinaturas compradas. Você também pode exportar logs de atividades para um formato de arquivo de valores separados por vírgula (.csv) compatível com o Excel.
 
@@ -42,6 +46,6 @@ Os logs de atividades fornecem registros de ações de parceiros em contas de cl
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

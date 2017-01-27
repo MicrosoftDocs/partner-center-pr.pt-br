@@ -4,13 +4,17 @@ Description: "Como parceiro revendedor, você deve criar uma conta para cada um 
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 738ecefeb1bbcc2b98157fdeba60b7bdaae85d51
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 2ae199d7accec066d8437da095f7649d8655c915
 
 ---
 
 # Contas de clientes
 
+**Aplicável a**
+
+-  Partner Center
+-  Partner Center do Microsoft Cloud Germany
 
 Como parceiro revendedor, você deve criar uma conta para cada um de seus clientes no Partner Center. A conta do cliente será seu ponto de partida para a venda de assinaturas, cobrança e o fornecimento de suporte.
 
@@ -33,6 +37,6 @@ Como parceiro revendedor, você deve criar uma conta para cada um de seus client
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 
