@@ -4,13 +4,16 @@ description: "Depois de comprar uma nova assinatura para um cliente, você pode 
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 71b89bc6ee19183cb311f2a4d434397e1e41ad5f
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: 0102f9bf590627c3a27c045022b4de025e5a8f64
 
 ---
 
 # Tarefas de gerenciamento de usuários para contas de cliente
 
+**Aplicável a**
+
+-  Partner Center
 
 Este tópico fornece instruções para tarefas de gerenciamento de contas de cliente:
 
@@ -87,6 +90,6 @@ Se precisar restaurar essa conta dentro de 30 dias, você pode encontrá-lo na g
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

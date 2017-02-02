@@ -4,17 +4,32 @@ description: "A Microsoft atrai milhões de clientes em potencial qualificados p
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 1b1eb67c279511fa8cff391140e00145b186601d
+ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
+ms.openlocfilehash: 75733451e0011d9e0a8a2f8a1ab7b13349e956b5
 
 ---
 
 # Criar um perfil de marketing
 
+**Aplicável a**
+
+-  Partner Center
 
 A Microsoft atrai milhões de clientes em potencial qualificados para nossas propriedades da Web a cada ano. Podemos ajudá-lo a ampliar sua participação no mercado distribuindo suas soluções para os clientes. As indicações da Microsoft ajudarão você a conectar-se com clientes procurando por soluções exclusivas para atender às suas necessidades comerciais. Para participar, crie um perfil de marketing no Partner Center.
 
 Se você tiver uma conta do Pinpoint, [importe seu perfil de marketing do Pinpoint no Partner Center](importing-pinpoint-profiles-into-partner-center.md).
+
+**Informações importantes para parceiros gerenciar perfis no Pinpoint**
+
+Como você deve saber, a Microsoft está trabalhando arduamente para criar uma experiência nova e aprimorada a fim de que parceiros publiquem e mantenham seus perfis. Por fim, todos os perfis de parceiro serão migrados para essa nova experiência, e o Pinpoint será colocado offline ainda em 2017.
+
+Agradecemos sua paciência enquanto nós concluímos esta atualização. Forneceremos atualizações e orientações durante o processo. Enquanto isso, observe o seguinte:
+
+-   Se seu perfil estiver listado em [manage.pinpoint.com](https://go.microsoft.com/fwlink/?linkid=838399) e você quiser modificá-lo, [faça logon](https://go.microsoft.com/fwlink/?linkid=838394) nessa ferramenta.
+-   Se você estiver inscrito no Programa [Provedor de Serviços de Nuvem](https://go.microsoft.com/fwlink/?linkid=838395) (CSP), faça logon no [Partner Center](https://go.microsoft.com/fwlink/?linkid=838396). Você pode criar um novo perfil ou importar seu perfil do Pinpoint. Observe que todas as alterações em seu perfil devem ser feitas antes de importá-lo. Consulte as informações abaixo para obter detalhes.
+-   Se você não conseguir modificar seu perfil, entre em contato com o [Atendimento ao cliente regional](https://go.microsoft.com/fwlink/?linkid=838398). 
+
+**Avaliações de cliente:** como parte da transição planejada do Pinpoint para o Partner Center, a antiga funcionalidade de listagem de avaliação de cliente foi desativada e os parceiros não podem mais acessar as avaliações de cliente. Foi enviada uma comunicação a todos os parceiros afetados por meio do contato de email designado antes da remoção da funcionalidade e das avaliações relacionadas. O plano atual é para substituí-la por um sistema mais robusto e confiável no futuro.
 
 **Criar um perfil de marketing**
 
@@ -76,6 +91,6 @@ Se você tiver uma conta do Pinpoint, [importe seu perfil de marketing do Pinpoi
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

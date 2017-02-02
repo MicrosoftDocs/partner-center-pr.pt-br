@@ -4,15 +4,19 @@ description: "Solicitar uma relação é usado para os cenários Vários parceir
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: c438e5ba3589ce93e46f6bab688a9e2a634dcabe
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: ef7587951a9aa8cdefb70f9ff229b6f4c5b9d6fa
 
 ---
 
-# Solicitar uma relação com um cliente
+# Solicitar um relacionamento com um cliente
 
+**Aplicável a**
 
-Solicitar uma relação é usado para os cenários [Vários parceiros](multipartner.md) e [Vários canais](multichannel.md). Também será útil se um cliente remover seus privilégios de administrador delegado e você precisar restaurá-los para fornecer provisionamento ou suporte.
+-  Partner Center
+-  Partner Center do Microsoft Cloud Germany
+
+Solicitar um relacionamento é usado para os cenários [Vários parceiros](multipartner.md) e [Vários canais](multichannel.md). Também será útil se um cliente remover seus privilégios de administrador delegado e você precisar restaurá-los para fornecer provisionamento ou suporte.
 
 Observe que esse processo apenas adiciona privilégios de administrador delegado. A menos que o parceiro tenha sido o revendedor CSP original da assinatura, ele não receberá uma cobrança dessas assinaturas, nem pode adicionar ou remover assentos, solicitar complementos, fazer a transição, migrar assinaturas ou alterar o registro de parceiro.
 
@@ -41,6 +45,6 @@ Para restabelecer privilégios de administrador delegado que o cliente tenha rem
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

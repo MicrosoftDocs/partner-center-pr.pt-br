@@ -1,16 +1,20 @@
 ---
 title: "Ler sua cobrança | Partner Center"
 description: "Sua fatura é um resumo de todos os encargos (entre programa, produtos e clientes) para o período atual mensal. Está disponível no painel do Partner Center."
-ms.assetid: 
+ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 472bdfc06bc531d70c97e5192658fb6fd41990e3
-ms.openlocfilehash: c625c4605be40c34aefb24eed246d34f63d5a0b4
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
 
 ---
 
 # Ler sua cobrança
 
+**Aplicável a**
+
+-  Partner Center
+-  Partner Center do Microsoft Cloud Germany
 
 Sua fatura é um resumo de todos os encargos (entre programa, produtos e clientes) para o período atual mensal. Está disponível no painel do Partner Center.
 
@@ -39,7 +43,7 @@ Para obter detalhes por itens sobre os encargos, use os arquivos de reconciliaç
 </tr>
 <tr class="even">
 <td>Cobrar de</td>
-<td>O endereço onde podemos enviar sua fatura. (Esse é o endereço de pessoa jurídica associado à verificação da empresa e não pode ser alterado.)</td>
+<td>O endereço onde podemos enviar sua fatura. Para alterar esse endereço, edite seu perfil da conta do Partner Center.</td>
 </tr>
 <tr class="odd">
 <td>Encargos recorrentes</td>
@@ -98,8 +102,8 @@ Para obter detalhes por itens sobre os encargos, use os arquivos de reconciliaç
 <td>O endereço do site para acessar o atendimento ao cliente.</td>
 </tr>
 <tr class="even">
-<td>Endereço do destinatário do serviço</td>
-<td>O endereço onde o serviço é usado. Para alterar esse endereço, edite seu perfil da conta do Partner Center.</td>
+<td>Destinatário do serviço</td>
+<td>O endereço onde o serviço é usado. (Esse é o endereço de pessoa jurídica associado à verificação da empresa e não pode ser alterado.)</td>
 </tr>
 </tbody>
 </table>
@@ -115,6 +119,6 @@ Para obter detalhes por itens sobre os encargos, use os arquivos de reconciliaç
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

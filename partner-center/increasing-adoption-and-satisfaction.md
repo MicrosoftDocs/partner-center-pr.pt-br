@@ -4,13 +4,16 @@ description: "Nossos parceiros usam muitos métricas para avaliar se seus negóc
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: b1c82f315a00ac275af576d084fca1b43e666716
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
 
 ---
 
 # Aumentar a adoção e a satisfação
 
+**Aplicável a**
+
+-  Partner Center
 
 Nossos parceiros usam muitos métricas para avaliar se seus negócios estão crescendo e onde concentrar o investimento. O Partner Center pode ajudar informando se e como os clientes estão usando as licenças adquiridas. Essas informações estão disponíveis para os produtos do Office (inclusive OneDrive for Business, que é contabilizado com o SharePoint).
 
@@ -83,6 +86,6 @@ Se forem apresentados muitos pedidos de Ajuda e Perguntas de instrução, os nú
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

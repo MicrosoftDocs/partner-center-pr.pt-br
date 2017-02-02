@@ -4,13 +4,17 @@ description: "Use estas instruções para consolidar locatários para países/re
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 5d4b1acaa23f37df8fe66166f932956526e75271
+ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
+ms.openlocfilehash: cc87659cd0412876a29a2f8fe48d005a84026509
 
 ---
 
 # Consolidação de locatários de autorização regional do CSP
 
+**Aplicável a**
+
+-  Partner Center
+-  Partner Center do Microsoft Cloud Germany
 
 \[Algumas informações dizem respeito a produtos de pré-lançamento que poderão ser substancialmente modificados antes do lançamento comercial. A Microsoft não fornece nenhuma garantia, expressa ou implícita, com relação às informações fornecidas aqui.\]
 
@@ -159,6 +163,6 @@ Com o log de atividades, os parceiros podem ver um registro de todas as alteraç
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

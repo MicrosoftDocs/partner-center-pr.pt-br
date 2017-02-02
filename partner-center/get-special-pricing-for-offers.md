@@ -4,13 +4,16 @@ Description: "A Microsoft fornece preços especiais e reduzidos para grupos de c
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 8dba4037c4d9703922b05a9d52eef93c914f49bc
+ms.sourcegitcommit: f5fcec2df909ef089846cd7b443a890c7ac2f067
+ms.openlocfilehash: a34d5b83982cc54d2cd045358d254f5482447285
 
 ---
 
-# Obter preço especial para ofertas
+# Obter o preço especial para ofertas
 
+**Aplicável a**
+
+-  Partner Center
 
 A Microsoft fornece preços especiais e reduzidos para grupos de clientes selecionados, como para uso educacional, sem fins lucrativos e governamental ou para conjuntos muito grandes de clientes. Os revendedores devem ser certificados para poder ter acesso a esses preços. O cliente também deve estar qualificado para o preço especial.
 
@@ -56,6 +59,6 @@ A Microsoft fornece preços especiais e reduzidos para grupos de clientes seleci
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

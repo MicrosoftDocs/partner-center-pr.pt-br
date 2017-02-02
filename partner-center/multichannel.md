@@ -4,13 +4,17 @@ description: "Uma opção no programa Provedor de Soluções na Nuvem é um parc
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 226e0e53f85528f1daa50639d22deb6be30f35c1
-ms.openlocfilehash: 20cc074152cb8b2bdbb6a2b055f144d0b20927de
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 6f0444d2df562453e21ff973549262782b31ef22
 
 ---
 
 # Vários canais
 
+**Aplicável a**
+
+-  Partner Center
+-  Partner Center do Microsoft Cloud Germany
 
 Uma opção no programa Provedor de Soluções na Nuvem é um parceiro manipular todo o ciclo de vida de a assinatura do cliente: vendas, provisionamento, suporte e renovação. Mas, em muitos casos, os clientes já têm assinaturas de que eles precisam para provisionar ou dar suporte, já compradas em um canal diferente.
 
@@ -61,6 +65,6 @@ O suporte a vários canais se aplica quando o cliente:
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

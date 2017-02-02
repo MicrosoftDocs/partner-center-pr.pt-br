@@ -4,13 +4,17 @@ description: "Como o Provedor de Soluções na Nuvem é um canal de vendas conce
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 9fd2f33c50c767e55e93295f39d9603afacf4ae4
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 1fccfc4eb713fc0c79fe027f4e788b41b05a9117
 
 ---
 
 # Impostos e isenções fiscais
 
+**Aplicável a**
+
+-  Partner Center
+-  Partner Center do Microsoft Cloud Germany
 
 Como o Provedor de Soluções na Nuvem é um canal de vendas concentrado na revenda de produtos do parceiro, a Microsoft nem sempre precisa cobrar impostos sobre vendas em faturas de parceiros. As regras variam de acordo com o país/região. Os parceiros devem trabalhar com seu consultor de impostos para protocolar as isenções fiscais apropriadas com base em seus locais e na localização de seus clientes. Para marcar sua conta de revendedor da Microsoft como não tributada, o parceiro deve enviar esses certificados de isenção para a Microsoft.
 
@@ -75,6 +79,6 @@ Como o Provedor de Soluções na Nuvem é um canal de vendas concentrado na reve
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

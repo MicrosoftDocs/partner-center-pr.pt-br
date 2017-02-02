@@ -4,13 +4,17 @@ description: "Em geral, esperamos que todas as comunicações com o cliente venh
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: da25e037b1eaebc4327eb643a7b5717ae1301a41
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 2f30083f5acf278a651baaae5318938fe72cadaa
 
 ---
 
 # Comunicação com o cliente da Microsoft
 
+**Aplicável a**
+
+-  Partner Center
+-  Partner Center do Microsoft Cloud Germany
 
 Em geral, esperamos que todas as comunicações com o cliente venham do parceiro CSP (Provedor de Soluções na Nuvem). Porque você possui a relação de cobrança do cliente, a Microsoft não enviará comunicações diretamente aos seus clientes relacionadas às suas assinaturas.
 
@@ -27,6 +31,6 @@ Para os clientes que já possuem relações comerciais com a Microsoft, a Micros
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

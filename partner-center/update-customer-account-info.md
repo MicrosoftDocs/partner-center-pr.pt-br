@@ -4,13 +4,17 @@ description: "No Partner Center, você pode atualizar as informações de cobran
 ms.assetid: 7ECE7165-0B0D-4183-845F-9F7B62056207
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 7fa9220ee66fc207f34dbcc4782247ba88701232
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 7150ff922dd87b50dc67d8c00ebc6db1c4036b6d
 
 ---
 
 # Atualizar informações da conta do cliente
 
+**Aplicável a**
+
+-  Partner Center
+-  Partner Center do Microsoft Cloud Germany
 
 No Partner Center, você pode atualizar as informações de cobrança do cliente e outros detalhes da empresa.
 
@@ -18,7 +22,7 @@ No Partner Center, você pode atualizar as informações de cobrança do cliente
 
 1.  No menu **Painel**, selecione **Clientes**. Em seguida, escolha o cliente na lista
 2.  No menu do cliente, selecione **Conta**, em seguida, **Editar**.
-3.  Depois de fazer suas alterações, clique em **Enviar**.
+3.  Depois de fazer suas alterações, selecione **Enviar**.
 
  
 
@@ -29,6 +33,6 @@ No Partner Center, você pode atualizar as informações de cobrança do cliente
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -1,18 +1,22 @@
 ---
 title: Atualizar seu perfil de parceiro | Partner Center
-description: "Na primeira vez que você entrar no Partner Center como um administrador, verifique se seus detalhes de suporte estão corretos, protocole isenções de impostos se apropriado e examine as informações de contato em seus perfis."
+description: "Na primeira vez em que você entrar no Partner Center como um administrador, verifique se seus detalhes de suporte estão corretos, protocole isenções de impostos se apropriado e examine as informações de contato em seus perfis."
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 87dcec53f175eb554cb69823a2c0056454ec808a
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: f0a49eca7d0146d60714b9f30fb20ababee6775f
 
 ---
 
 # Atualizar seu perfil de parceiro
 
+**Aplicável a**
 
-Na primeira vez que você entrar no Partner Center como um administrador, verifique se seus detalhes de suporte estão corretos, protocole isenções de impostos se apropriado e examine as informações de contato em seus perfis.
+-  Partner Center
+-  Partner Center do Microsoft Cloud Germany
+
+Na primeira vez em que você entrar no Partner Center como um administrador, verifique se seus detalhes de suporte estão corretos, protocole isenções de impostos se apropriado e examine as informações de contato em seus perfis.
 
 **Atualizar seus detalhes de suporte**
 
@@ -38,6 +42,6 @@ Na primeira vez que você entrar no Partner Center como um administrador, verifi
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -4,15 +4,19 @@ description: "O catálogo lista todos os produtos e complementos da Microsoft di
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 4484ae1e2c38f1e41aecde5e9e261b9f32997ae1
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: c4e1f1813add283f67669cc8ea0cc88fb0bb4610
 
 ---
 
 # Personalizar o catálogo
 
+**Aplicável a**
 
-O catálogo lista todos os produtos e complementos da Microsoft disponíveis para os parceiros vender. Essas ofertas são agrupadas por segmentos de clientes (como Empresa, Pequena Empresa ou Governo). Para facilitar para os agentes de vendas selecionarem as ofertas que sua organização usa mais, o administrador pode escolher ofertas para destacar na parte superior da lista. Esse recurso também é útil quando você estiver trabalhando em incentivos específicos ou quiser mostrar novas ofertas para seus agentes.
+-  Partner Center
+-  Partner Center do Microsoft Cloud Germany
+
+O catálogo lista os produtos e os complementos da Microsoft disponíveis para você oferecer aos clientes. Essas ofertas são agrupadas por segmentos de clientes, incluindo empresas, pequenas empresas ou governo. Para facilitar o acesso às ofertas que sua organização mais usa ou para mostrar novas ofertas para seus agentes de vendas, você pode fixar até cinco ofertas na parte superior da lista de catálogos.
 
 **Personalizar o catálogo**
 
@@ -28,6 +32,6 @@ O catálogo lista todos os produtos e complementos da Microsoft disponíveis par
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

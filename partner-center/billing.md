@@ -4,13 +4,17 @@ Description: "Como parceiro Provedor de Soluções na Nuvem, você pagará à Mi
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: a13018b21665f0dccb88bc462d535d4f4547c978
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
 
 ---
 
 # Cobrança
 
+**Aplicável a**
+
+-  Partner Center
+-  Partner Center do Microsoft Cloud Germany
 
 Como parceiro Provedor de Soluções na Nuvem, você pagará à Microsoft 60 dias em atraso pelas assinaturas baseadas em licença e em uso de seus clientes.
 
@@ -24,7 +28,7 @@ Para sua cobrança, vá para o menu **Painel** e selecione **Cobrança**. Essa p
 ## Cobrança
 
 
-[Leia sua cobrança](read-your-bill.md)
+[Ler sua cobrança](read-your-bill.md)
 
 [Usar os arquivos de reconciliação](use-the-reconciliation-files.md)
 
@@ -195,6 +199,6 @@ O Azure opera no modelo "pré-pago", em que você só será cobrado pelos servi�
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

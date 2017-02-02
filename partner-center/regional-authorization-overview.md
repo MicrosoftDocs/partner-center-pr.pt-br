@@ -4,8 +4,8 @@ description: "Com a autorização regional, os parceiros com empresas internacio
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 4e069db47de242d8aa3807bc238c5f213c26a1fd
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
 ---
 
@@ -18,8 +18,9 @@ Com a autorização regional, os parceiros com empresas internacionais agora pod
 
 Anteriormente, com a exceção da União Europeia/EFTA, os parceiros precisavam ter uma entidade física em cada país onde eles queriam fazer transações. Isso significa que os parceiros precisavam ter vários locatários configurados no Partner Center, com várias datas de cobrança e outras configurações. Em regiões como a América Latina, os parceiros não podiam trabalhar facilmente com clientes em países ou regiões vizinhos e, em alguns casos, eles ficavam completamente restritos.
 
-## Planejamento
+>**Observação**<br> Se você está inscrito no [CSP do Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md) e vende para os clientes da União Europeia e países/regiões da EFTA, não será possível consolidar seu locatário do Partner Center do Microsoft Cloud Germany com seus outros locatários.  
 
+## Planejamento
 
 Os parceiros têm várias opções para consolidar seus locatários regionais, conforme descrito a seguir.
 
@@ -143,9 +144,6 @@ Se você quiser consolidar locatários, recomendamos o seguinte:
 
 -   **Vários países/regiões, mas apenas uma transação.** Se você for realizar transações em vários países/regiões, recomendamos centralizar no locatário com o maior número de estações. Você deve cancelar as assinaturas nos países/regiões onde você tem quantidades menores de estações.
 
-    **Observação**  Leia as diretrizes de cancelamento de assinatura em [Consolidação de locatários de autorização regional do CSP](csp-regional-authorization-tenant-consolidation.md) antes de cancelar todas as assinaturas.
-
-     
 
 ## Informações do país/região
 
@@ -161,6 +159,9 @@ Considere o seguinte antes de começar a consolidar locatários:
 -   **Se a localização de seu destino de venda da Microsoft for um país/região da lista a seguir**, seu território incluirá clientes localizados em qualquer país/região da lista a seguir: Argentina, Bahamas, Barbados, Belize, Bolívia, Bermuda, Ilhas Cayman, Chile, Colômbia, Costa Rica, Curaçao, República Dominicana, Equador, El Salvador, Guatemala, Honduras, Jamaica, México, Nicarágua, Panamá, Paraguai, Peru, Porto Rico, São Cristóvão e Névis, Trinidad e Tobago, Uruguai, Venezuela, Ilhas Virgens.
 
 -   **Se a localização de seu destino de venda da Microsoft for um país/região da lista a seguir**, seu território incluirá clientes localizados em qualquer país/região da lista a seguir: Áustria, Bélgica, Bulgária, Croácia, Chipre, República Tcheca, Dinamarca, Estônia, Ilhas Faroés, Finlândia, França, Alemanha, Grécia, Hungria, Islândia, Irlanda, Itália, Letônia, Liechtenstein, Lituânia, Luxemburgo, Malta, Mônaco, Países Baixos, Noruega, Polônia, Portugal, Romênia, Eslováquia, Eslovênia, Espanha, Suécia, Suíça, Reino Unido
+
+    >**Observação**<br> Se você está inscrito no [CSP do Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md) e vende para os clientes da União Europeia e países/regiões da EFTA, não será possível consolidar seu locatário do Partner Center do Microsoft Cloud Germany com seus outros locatários.  
+
 
 -   **Se a localização de seu destino de venda da Microsoft for um país/região da lista a seguir**, seu território incluirá clientes localizados em qualquer país/região da lista a seguir: Afeganistão, Albânia, Argélia, Armênia, Azerbaijão, Bahrein, Belarus, Bósnia e Herzegovina, Egito, Geórgia, Iraque, Israel, Jordânia, Cazaquistão, Kuwait, Quirguistão, Líbano, Líbia, República da Macedônia (ARIM), Moldávia, Mongólia, Montenegro, Marrocos, Omã, Paquistão, Autoridade Palestina, Catar, Arábia Saudita, Sérvia, África do Sul, Tadjiquistão, Tunísia, Turquia, Turcomenistão, Ucrânia, Emirados Árabes Unidos, Uzbequistão, Iêmen, Zimbábue
 
@@ -191,6 +192,6 @@ Considere o seguinte antes de começar a consolidar locatários:
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 
