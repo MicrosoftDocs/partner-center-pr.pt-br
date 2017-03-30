@@ -3,13 +3,11 @@ title: "Atribuir licenças a vários usuários ou revogá-las | Partner Center"
 description: "Você pode atribuir licenças e serviços a um usuário ou a vários usuários ao mesmo tempo em uma conta de cliente e revogar atribuições de licença para os usuários."
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
 ms.openlocfilehash: 205b43157d2f51f6d21c7ff75bb20b92044e80db
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Atribuir licenças a vários usuários ou revogá-las
+# <a name="assign-or-revoke-licenses-to-multiple-users"></a>Atribuir licenças a vários usuários ou revogá-las
 
 **Aplicável a**
 
@@ -19,7 +17,7 @@ Você pode atribuir licenças e serviços a um usuário ou a vários usuários a
 
 O Partner Center rastreia e mostra todos os direitos de licença de propriedade do cliente.
 
-## Nesta seção
+## <a name="in-this-section"></a>Nesta seção
 
 
 -   [Atribuir licenças a vários usuários](#assign-licenses-to-groups)
@@ -74,7 +72,7 @@ O Partner Center rastreia e mostra todos os direitos de licença de propriedade 
 6.  Em **Atribuir e revogar licenças**, desmarque as caixas de seleção dos produtos atribuídos aos usuários. Por exemplo, se todos os usuários selecionados tiverem licenças do Office 365 Enterprise e você quiser revogá-las, marque a caixa de seleção para desmarcá-la.
 7.  Selecione **Salvar**.
 
-## Tópicos relacionados
+## <a name="related-topics"></a>Tópicos relacionados
 
 
 [Atribua licenças a um usuário](assign-licenses-to-users.md)
@@ -83,11 +81,5 @@ O Partner Center rastreia e mostra todos os direitos de licença de propriedade 
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,18 +3,16 @@ title: Relate problemas com o Partner Center | Partner Center
 description: "Como relatar problemas com o Partner Center e coletar informações de diagnóstico para nossa equipe de suporte."
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 671be5c70498194b0fb8081afd9ada750b732690
-ms.openlocfilehash: 539ed7d366713060aa1d559512f31462f7f0aace
-
+ms.openlocfilehash: 33e8c3191f433b7b414cb682e93cc10ce57c2447
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Relatar problemas com o Partner Center
+# <a name="report-problems-with-partner-center"></a>Relatar problemas com o Partner Center
 
 **Aplicável a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud Germany
+-  Partner Center do Microsoft Cloud Alemanha
 
 Entre em contato com o suporte do Partner Center se você encontrar problemas com o Partner Center, incluindo bugs ou interrupções de serviço.
 
@@ -33,26 +31,20 @@ Se ocorrer um erro enquanto você estiver em uma página do Partner Center, voc�
 >**Observação**<br>
 Em páginas do Partner Center que incluem **/pcv/** na URL, você pode abrir a ferramenta manualmente para coletar essas informações.
 
-1.  Acesse a página que está com problema.
+1.    Acesse a página que está com problema.
 
-2.  Pressione **Ctrl + Alt + D** para abrir a ferramenta de diagnóstico de cliente do Partner Center.
+2.    Pressione **Ctrl + Alt + D** para abrir a ferramenta de diagnóstico de cliente do Partner Center.
 
 Você pode visualizar as informações de diagnóstico e salvá-las em um arquivo que você pode anexar em sua solicitação de suporte. Para nos enviar as informações:
 
-1.  Examine as informações do arquivo antes de enviá-las porque elas podem conter dados pessoalmente identificáveis que talvez você queira remover. 
+1.    Examine as informações do arquivo antes de enviá-las porque elas podem conter dados pessoalmente identificáveis que talvez você queira remover. 
 
     >**Observação**<br>
     Em alguns navegadores, a seção **Modo de Exibição de Página** na parte inferior da página **Visualização** pode aparecer vazia. Isso está correto.
 
-2.  Siga as instruções que aparecem na tela para salvar o arquivo.
+2.    Siga as instruções que aparecem na tela para salvar o arquivo.
 
-3.  Anexe o arquivo à sua solicitação de suporte do Partner Center.
+3.    Anexe o arquivo à sua solicitação de suporte do Partner Center.
 
 O suporte do Partner Center talvez precise executar essa ferramenta várias vezes para obter as informações mais atualizadas.
-
-
-
-
-<!--HONumber=Jan17_HO3-->
-
 

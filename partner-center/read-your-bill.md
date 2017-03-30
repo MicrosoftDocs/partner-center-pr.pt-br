@@ -3,24 +3,22 @@ title: "Ler sua cobrança | Partner Center"
 description: "Sua fatura é um resumo de todos os encargos (entre programa, produtos e clientes) para o período atual mensal. Está disponível no painel do Partner Center."
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Ler sua cobrança
+# <a name="read-your-bill"></a>Ler sua cobrança
 
 **Aplicável a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud Germany
+-  Partner Center do Microsoft Cloud Alemanha
 
 Sua fatura é um resumo de todos os encargos (entre programa, produtos e clientes) para o período atual mensal. Está disponível no painel do Partner Center.
 
 Para obter detalhes por itens sobre os encargos, use os arquivos de reconciliação acompanhantes. Os arquivos de reconciliação contêm os IDs de clientes e assinaturas que você usará para criar as faturas dos clientes. Para obter mais informações, consulte [Como usar os arquivos de reconciliação](use-the-reconciliation-files.md).
 
-## Definições do arquivo de fatura
+## <a name="invoice-file-definitions"></a>Definições do arquivo de fatura
 
 
 <table>
@@ -114,11 +112,5 @@ Para obter detalhes por itens sobre os encargos, use os arquivos de reconciliaç
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

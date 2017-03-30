@@ -3,18 +3,16 @@ title: Adicionar um novo cliente | Partner Center
 description: "Antes de vender assinaturas, gerenciar cobranças ou fornecer suporte, você precisa criar um registro de seu cliente no Partner Center. Esse registro deverá incluir as informações de contato deles e um domínio do Azure AD."
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 7066cdc60202a842502ca6a7f2e979c14280750b
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Adicionar um novo cliente
+# <a name="add-a-new-customer"></a>Adicionar um novo cliente
 
 **Aplicável a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud Germany
+-  Partner Center do Microsoft Cloud Alemanha
 
 Antes de vender assinaturas, gerenciar cobranças ou fornecer suporte, você precisa criar um registro de seu cliente no Partner Center. Esse registro deverá incluir as informações de contato deles e um domínio do Azure AD.
 
@@ -34,11 +32,5 @@ Para revisar os dados do cliente mais tarde, o que inclui a possibilidade de adi
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

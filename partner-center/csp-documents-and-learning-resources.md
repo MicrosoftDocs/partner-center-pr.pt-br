@@ -3,22 +3,20 @@ title: "Listas de preços, ofertas e contratos de CSP | Partner Center"
 description: "A Microsoft publica muitos documentos de que os parceiros CSP precisam para decidir se devem inscrever-se no programa, registrar novos clientes, vender produtos e serviços Microsoft para clientes e reconciliar sua conta."
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
 ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Listas de preços, ofertas e contratos de CSP
+# <a name="csp-agreements-price-lists-and-offers"></a>Listas de preços, ofertas e contratos de CSP
 
 **Aplicável a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud Germany
+-  Partner Center do Microsoft Cloud Alemanha
 
 A Microsoft publica muitos documentos de que os parceiros CSP precisam para decidir se devem inscrever-se no programa, registrar novos clientes, vender produtos e serviços Microsoft para clientes e reconciliar sua conta.
 
-## Nesta seção
+## <a name="in-this-section"></a>Nesta seção
 
 
 -   [Guia do programa](#programguide)
@@ -55,7 +53,7 @@ A Microsoft exige que os parceiros assinem este contrato para participar do prog
 
 [Contrato de revendedor do Microsoft Cloud – Taiwan](http://go.microsoft.com/fwlink/p/?LinkId=617099)
 
-[Contrato de revendedor do Microsoft Cloud - Microsoft Cloud Germany](https://go.microsoft.com/fwlink/p/?linkid=831385)
+[Contrato de revendedor do Microsoft Cloud - Microsoft Cloud Alemanha](https://go.microsoft.com/fwlink/p/?linkid=831385)
 
 ## <a href="" id="customeragreementtemplate"></a>Modelo de contrato do cliente
 
@@ -64,7 +62,7 @@ Os parceiros são responsáveis por garantir que os clientes compreendam e aceit
 
 [Modelos de contrato do cliente](agreements.md)
 
-## Preço
+## <a name="pricing"></a>Preço
 
 
 Você pode baixar os detalhes de preço para parceiros na página **Vendas**. Há duas listas de preço separadas, uma para serviços baseados em licença, incluindo Office 365, Enterprise Mobility Suite e Microsoft Dynamics CRM, e outra para serviços baseados em uso, incluindo Microsoft Azure.
@@ -73,7 +71,7 @@ A lista de preços com base em licença é atualizada mensalmente, e a Microsoft
 
 Os preços de serviços com base em uso são dinâmicos e mudam constantemente.
 
-## Ofertas
+## <a name="offers"></a>Ofertas
 
 
 Os parceiros CSP podem vender Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM e Microsoft Azure. Para obter mais informações sobre quais pacotes de produto e SKUs estão disponíveis para venda nessas famílias de produtos, a Microsoft publica a Matriz de ofertas para revendedores de serviços na nuvem na página **Vendas**. Este documento é atualizado mensalmente.
@@ -84,11 +82,5 @@ Para parceiros CSP que usam a API de registro de uso CREST, a Microsoft também 
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

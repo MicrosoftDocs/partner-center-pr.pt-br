@@ -3,22 +3,19 @@ title: Exibir logs de atividades do cliente | Partner Center
 description: "Os logs de atividades fornecem informações sobre transações e ações de gerenciamento de parceiros para clientes."
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
-ms.openlocfilehash: ea46cfc0ba8c4acd580334ac76abcb704bc7e6c7
-
+ms.openlocfilehash: 5f6c4eb0574bbe73a41a38a1312f0da4240d531e
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Exibir logs de atividades do cliente
+# <a name="view-customer-activity-logs"></a>Exibir logs de atividades do cliente
 
 **Aplicável a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud Germany
+-  Partner Center do Microsoft Cloud Alemanha
 
 Os logs de atividades fornecem informações sobre transações e ações de gerenciamento de parceiros para clientes. Os logs de transações fornecem informações detalhadas sobre a transação, incluindo as assinaturas compradas. Você também pode exportar logs de atividades para um formato de arquivo de valores separados por vírgula (.csv) compatível com o Excel.
 
-<a href="" id="activitylogs"></a>
 Os logs de atividades fornecem registros de ações de parceiros em contas de cliente e transações de produtos. Você também pode exportar os logs de atividades para um arquivo .csv.
 
 **Exibir e exportar logs de atividades**
@@ -41,11 +38,5 @@ Os logs de atividades fornecem registros de ações de parceiros em contas de cl
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -1,24 +1,22 @@
 ---
 title: "Solicitar uma relação com um cliente | Partner Center"
-description: "Solicitar uma relação é usado para os cenários Vários parceiros e Vários canais. Também será útil se um cliente remover seus privilégios de administrador delegado e você precisar restaurá-los para fornecer provisionamento ou suporte."
+description: "Solicitar um relacionamento é usado para os cenários vários parceiros e vários canais. Também será útil se um cliente remover seus privilégios de administrador e você precisar restaurá-los para fornecer provisionamento ou suporte."
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: ef7587951a9aa8cdefb70f9ff229b6f4c5b9d6fa
-
+ms.openlocfilehash: 11c855af950c58423aaf9155d4fe64ceacf1ce6e
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Solicitar um relacionamento com um cliente
+# <a name="request-a-relationship-with-a-customer"></a>Solicitar um relacionamento com um cliente
 
 **Aplicável a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud Germany
+-  Partner Center do Microsoft Cloud Alemanha
 
-Solicitar um relacionamento é usado para os cenários [Vários parceiros](multipartner.md) e [Vários canais](multichannel.md). Também será útil se um cliente remover seus privilégios de administrador delegado e você precisar restaurá-los para fornecer provisionamento ou suporte.
+Solicitar um relacionamento é usado para os cenários [vários parceiros](multipartner.md) e [vários canais](multichannel.md). Também será útil se um cliente remover seus privilégios de administrador e você precisar restaurá-los para fornecer provisionamento ou suporte.
 
-Observe que esse processo apenas adiciona privilégios de administrador delegado. A menos que o parceiro tenha sido o revendedor CSP original da assinatura, ele não receberá uma cobrança dessas assinaturas, nem pode adicionar ou remover assentos, solicitar complementos, fazer a transição, migrar assinaturas ou alterar o registro de parceiro.
+Observe que esse processo apenas adiciona privilégios de administrador delegado. A menos que o parceiro tenha sido o revendedor CSP (Provedor de Solução na Nuvem) original da assinatura, ele não receberá uma cobrança dessas assinaturas, nem pode adicionar ou remover assentos, solicitar complementos, fazer a transição, migrar assinaturas ou alterar o registro de parceiro.
 
 <a href="" id="requestarelationship"></a>
 **Solicitar um relacionamento**
@@ -40,11 +38,5 @@ Para restabelecer privilégios de administrador delegado que o cliente tenha rem
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

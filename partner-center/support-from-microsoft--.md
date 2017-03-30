@@ -3,18 +3,16 @@ title: Suporte da Microsoft | Partner Center
 description: "Quando você encontrar problemas com um serviço Microsoft ou com o Partner Center, poderá encaminhá-los para a Microsoft para obter ajuda e controlar os problemas até que eles sejam resolvidos."
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 2be8a2651af3207fd2bb3349b0146a651a8afdb7
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Suporte da Microsoft
+# <a name="support-from-microsoft"></a>Suporte da Microsoft
 
 **Aplicável a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud Germany
+-  Partner Center do Microsoft Cloud Alemanha
 
 Quando você encontrar problemas com um serviço Microsoft ou com o Partner Center, poderá encaminhá-los para a Microsoft para obter ajuda e controlar os problemas até que eles sejam resolvidos.
 
@@ -30,11 +28,5 @@ Quando você encontrar problemas com um serviço Microsoft ou com o Partner Cent
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

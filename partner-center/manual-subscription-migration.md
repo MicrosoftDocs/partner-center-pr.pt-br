@@ -3,13 +3,11 @@ title: Migrar assinaturas do Dynamics AX para o Dynamics 365 | Partner Center
 description: "A Microsoft apresenta o Dynamics 365, a mais nova geração de aplicativos de negócios inteligentes que permitem que sua organização cresça, evolua e transforme-se para atender às necessidades de seus clientes e aproveitar novas oportunidades."
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: f19e46da31a7e479ebd3b1cd368ca7646c3c55b7
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Migrar assinaturas do Dynamics AX para o Dynamics 365
+# <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrar assinaturas do Dynamics AX para o Dynamics 365
 
 **Aplicável a**
 
@@ -59,7 +57,7 @@ A linha de produtos Microsoft Dynamics AX foi desativada, em vigor a partir de 1
 
 A partir de 1º de novembro de 2016, o plano Microsoft Dynamics CRM Online atual estará desativado. Consulte [Informações importantes para clientes do CRM Online](https://go.microsoft.com/fwlink/?linkid=831667) para saber mais sobre as novas opções de licenciamento.
 
-## Transição dos clientes para novos planos do produto
+## <a name="transition-customers-to-new-product-plans"></a>Transição dos clientes para novos planos do produto
 
 
 A Microsoft oferece continuamente novos produtos e serviços para revendedores e provedores. Nesses casos, talvez o revendedor precise fazer o upgrade dos clientes para novos serviços ou migrar as assinaturas de SKUs que serão encerradas em breve. A migração dos clientes de SKUs antigas para as mais recentes requer a seguinte sequência:
@@ -70,8 +68,7 @@ A Microsoft oferece continuamente novos produtos e serviços para revendedores e
 
 Nos procedimentos a seguir, você migrará um cliente do Dynamics AX7 Enterprise para o Dynamics 365 for Operations.
 
-<a href="" id="purchasenewsubsc"></a>
-O revendedor precisa migrar o cliente com uma assinatura existente do Dynamics AX Enterprise para o Dynamics 365 for Operations. A primeira etapa é comprar o Dynamics 365 for Operations.
+<a href="" id="purchasenewsubsc"></a>O revendedor precisa migrar o cliente com uma assinatura existente do Dynamics AX Enterprise para o Dynamics 365 for Operations. A primeira etapa é comprar o Dynamics 365 for Operations.
 
 **Comprar a nova assinatura**
 
@@ -80,8 +77,7 @@ O revendedor precisa migrar o cliente com uma assinatura existente do Dynamics A
 
     Agora seu cliente deve ter assinaturas novas e antigas: neste exemplo, o antigo Dynamics AX Enterprise, e a nova assinatura de "destino", Dynamics 365 for Operations, Enterprise Edition.
 
-<a href="" id="reassignlicenses"></a>
-A próxima etapa é reatribuir todas as licenças de usuário existentes para a nova assinatura.
+<a href="" id="reassignlicenses"></a> A próxima etapa é reatribuir todas as licenças de usuário existentes para a nova assinatura.
 
 **Reatribuir licenças de usuário**
 
@@ -91,8 +87,7 @@ A próxima etapa é reatribuir todas as licenças de usuário existentes para a 
 4.  Selecione **Enviar**. Uma página de confirmação lista as novas atribuições de licença.
 5.  Siga as mesmas etapas com outros usuários do cliente que precisam de reatribuição de licença.
 
-<a href="" id="cancelsubscriptions"></a>
-Depois de migrar as licenças de usuário para o novo serviço, você pode cancelar com segurança a assinatura antiga no nível superior do cliente.
+<a href="" id="cancelsubscriptions"></a> Depois de migrar as licenças de usuário para o novo serviço, você pode cancelar com segurança a assinatura antiga no nível superior do cliente.
 
 **Cancelar a assinatura antiga**
 
@@ -102,7 +97,7 @@ Depois de migrar as licenças de usuário para o novo serviço, você pode cance
 
 A assinatura antiga será suspensa e a nova assinatura será ativada. A assinatura suspensa será desprovisionada automaticamente após 120 dias. O cliente não pagará custos adicionais pela assinatura antiga.
 
-## Considerações adicionais
+## <a name="additional-considerations"></a>Considerações adicionais
 
 
 Se o cliente for migrar do Programa Open Channel para o Programa de Serviços na Nuvem para mais provisionamento de assinaturas, você também precisará migrar as assinaturas existentes dele:
@@ -116,11 +111,5 @@ Depois que o cliente aceitar você como seu provedor indireto, as etapas de prov
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

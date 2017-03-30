@@ -3,13 +3,11 @@ title: "Obter preço especial para ofertas | Partner Center"
 Description: "A Microsoft fornece preços especiais e reduzidos para grupos de clientes selecionados, como para uso educacional, sem fins lucrativos e governamental ou para conjuntos muito grandes de clientes."
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: f5fcec2df909ef089846cd7b443a890c7ac2f067
 ms.openlocfilehash: a34d5b83982cc54d2cd045358d254f5482447285
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Obter o preço especial para ofertas
+# <a name="get-special-pricing-for-offers"></a>Obter o preço especial para ofertas
 
 **Aplicável a**
 
@@ -54,11 +52,5 @@ A Microsoft fornece preços especiais e reduzidos para grupos de clientes seleci
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

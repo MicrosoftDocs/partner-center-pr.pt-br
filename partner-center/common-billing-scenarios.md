@@ -3,22 +3,20 @@ title: "Cenários comuns de cobrança | Partner Center"
 description: "Este tópico explica o que você deve esperar ver em sua fatura depois de adicionar novas assinaturas, ajustar o número de estações em uma assinatura ou cancelar uma assinatura. As assinaturas baseadas em uso e em licença serão afetadas de forma diferente."
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 5ac69f33ca78be1eca2af439a48d6d0904a4cfc5
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Cenários comuns de cobrança
+# <a name="common-billing-scenarios"></a>Cenários comuns de cobrança
 
 **Aplicável a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud Germany
+-  Partner Center do Microsoft Cloud Alemanha
 
 Este tópico explica o que você deve esperar ver em sua fatura depois de adicionar novas assinaturas, ajustar o número de estações em uma assinatura ou cancelar uma assinatura. As assinaturas baseadas em uso e em licença serão afetadas de forma diferente.
 
-## Nesta seção
+## <a name="in-this-section"></a>Nesta seção
 
 
 -   [Cobrança baseada em uso](#usagebased)
@@ -138,11 +136,5 @@ Reversão da cobrança antecipada para todo o período mensal de 15 de julho a 1
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

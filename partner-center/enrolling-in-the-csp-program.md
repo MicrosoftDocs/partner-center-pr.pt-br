@@ -3,24 +3,23 @@ title: Inscrever-se no programa CSP | Partner Center
 description: "Antes de se inscrever no programa Provedor de Soluções na Nuvem, saiba mais sobre os Requisitos do programa CSP."
 ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
-ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
-
+ms.openlocfilehash: 88fd35cea2e44d905bec63a7963c886dbd27c07f
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Inscrever-se no programa Provedor de Soluções na Nuvem
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscrever-se no programa Provedor de Soluções na Nuvem
 
 **Aplicável a**
 
 -  Partner Center
 
 >**Observação**<br>
-Para obter informações sobre como se inscrever no programa Provedor de Soluções na Nuvem do Microsoft Cloud Germany, consulte [registrar no programa Provedor de Soluções na Nuvem do Microsoft Cloud Germany](enroll-in-csp-for-microsoft-cloud-germany.md) e [Partner Center do Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md).
+Para obter informações sobre como se inscrever no programa Provedor de Soluções na Nuvem do Microsoft Cloud Alemanha, consulte [registrar no programa Provedor de Soluções na Nuvem do Microsoft Cloud Alemanha](enroll-in-csp-for-microsoft-cloud-germany.md) e [Partner Center do Microsoft Cloud Alemanha](partner-center-for-microsoft-cloud-germany.md).
 
-Antes de se inscrever no programa CSP (Provedor de Soluções na Nuvem), saiba mais sobre os [Requisitos do programa CSP]( http://go.microsoft.com/fwlink/p/?LinkId=617116).
+Antes de se inscrever no programa CSP (Provedor de Soluções na Nuvem), saiba mais sobre os [Requisitos do programa CSP]( http://go.microsoft.com/fwlink/p/?LinkId=617116). Para saber mais sobre o contrato de parceiros e outros requisitos do programa, consulte [Contratos, listas de preços e ofertas de CSP](csp-documents-and-learning-resources.md). 
 
-Para saber mais sobre o contrato de parceiros e outros requisitos do programa, consulte [Contratos, listas de preços e ofertas de CSP](csp-documents-and-learning-resources.md).
+>**Importante**<br>
+Um parceiro CSP não revende serviços online para outro parceiro CSP no momento. A Microsoft examina continuamente as políticas e os recursos de todos os programas. Quaisquer anúncios sobre as versões de recurso serão anunciados por meio dos canais de comunicação normais, incluindo o Partner Center.  
 
 Saiba como se qualificar para incentivos do programa CSP, participar da plataforma de incentivos e ganhar fundos de incentivos. Consulte [Detalhes do programa](https://go.microsoft.com/fwlink/?linkid=831533).
 
@@ -49,7 +48,7 @@ O programa Provedor de Soluções na Nuvem está disponível para empresas com e
 
  
 
-## Conta do Partner Center
+## <a name="partner-center-account"></a>Conta do Partner Center
 
 
 O Partner Center exige que o administrador para sua empresa tenha um endereço de email autenticado pelo Azure AD. O administrador pode usar qualquer uma de suas contas de email comercial existentes de um serviço em nuvem da Microsoft, incluindo o Office 365, o Azure AD, o Microsoft Intune, os serviços do Enterprise Mobility, etc. O processo para se tornar um revendedor transformará esse endereço de email no email de administrador de uma conta de revendedor.
@@ -60,11 +59,5 @@ Observe que seu endereço de email autenticado pelo Azure AD existente já está
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

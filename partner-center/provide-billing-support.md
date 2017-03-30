@@ -3,18 +3,16 @@ title: "Fornecer suporte para a cobrança | Partner Center"
 description: "Você tem a relação de cobrança com seus clientes e oferece suporte completo a qualquer pergunta relacionada à cobrança de seus clientes."
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 3806b7b4934c0af85573936dc6d978bf09bdbf18
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Fornecer suporte para a cobrança
+# <a name="provide-billing-support"></a>Fornecer suporte para a cobrança
 
 **Aplicável a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud Germany
+-  Partner Center do Microsoft Cloud Alemanha
 
 Você tem a relação de cobrança com seus clientes e oferece suporte completo a qualquer pergunta relacionada à cobrança de seus clientes.
 
@@ -48,11 +46,5 @@ Você tem a relação de cobrança com seus clientes e oferece suporte completo 
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

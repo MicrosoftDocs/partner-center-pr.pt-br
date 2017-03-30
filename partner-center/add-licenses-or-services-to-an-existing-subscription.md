@@ -3,13 +3,11 @@ title: "Adicionar licenças ou serviços a uma assinatura existente | Partner Ce
 description: "Se seu cliente precisar de mais usuários do que os fornecidos pela assinatura atual ou de uma versão diferente com serviços adicionais, você poderá atualizar a assinatura."
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
 ms.openlocfilehash: 69a1975e40a15e4a17a71b06ac741b4641e5b903
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Adicionar licenças ou serviços a uma assinatura existente
+# <a name="add-licenses-or-services-to-an-existing-subscription"></a>Adicionar licenças ou serviços a uma assinatura existente
 
 **Aplicável a**
 
@@ -93,11 +91,5 @@ Para saber mais sobre o impacto disso na cobrança, consulte os detalhes sobre c
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

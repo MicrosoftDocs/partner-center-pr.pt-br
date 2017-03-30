@@ -3,13 +3,11 @@ title: "Verificar a integridade do serviço | Partner Center"
 description: "Uma das primeiras coisas que você pode fazer quando um cliente estiver tendo problemas com um serviço é verificar a integridade do serviço."
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 0db8a0954aae1a590dbad2c948ad9209792249aa
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Verificar a integridade do serviço
+# <a name="check-service-health"></a>Verificar a integridade do serviço
 
 **Aplicável a**
 
@@ -33,11 +31,5 @@ Se o problema persistir após o fim da interrupção de serviço, envie uma soli
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

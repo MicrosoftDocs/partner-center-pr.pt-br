@@ -3,18 +3,16 @@ title: Relatar problemas em nome de um cliente | Partner Center
 Description: "Se o cliente está tendo um problema de serviço que você não consegue resolver e que atende aos critérios descritos em Encaminhar problemas para a Microsoft, abra um tíquete de suporte para ele."
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 9a1a18a0d24cbb328ebb9bc99f5ed3b63047a0c2
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Relatar problemas em nome de um cliente
+# <a name="report-problems-on-behalf-of-a-customer"></a>Relatar problemas em nome de um cliente
 
 **Aplicável a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud Germany
+-  Partner Center do Microsoft Cloud Alemanha
 
 Se o cliente está tendo um problema de serviço que você não consegue resolver e que atende aos critérios descritos em [Encaminhar problemas para a Microsoft](escalate-problems-to-microsoft.md), abra um tíquete de suporte para ele. Esse processo também é útil para encaminhar problemas ou controvérsias relativos a cobrança e preocupações com fraude.
 
@@ -45,7 +43,7 @@ Se o cliente está tendo um problema de serviço que você não consegue resolve
 
     3.  Mais tarde, examine as solicitações de serviço do cliente indo para o Centro de Administração do Office 365 e selecionando **Ver todos os tíquetes de suporte**.
 
-## Perguntas frequentes
+## <a name="faq"></a>Perguntas frequentes
 
 
 **O que é incluído como parte do direito a suporte?**
@@ -87,11 +85,5 @@ Caso entre diretamente no Centro de Administração do Office 365, você verá o
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

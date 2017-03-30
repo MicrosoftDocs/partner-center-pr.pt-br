@@ -3,13 +3,11 @@ title: "Tarefas de gerenciamento de usuários para contas de cliente | Partner C
 description: "Depois de comprar uma nova assinatura para um cliente, você pode atribuir licenças a usuários específicos."
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
 ms.openlocfilehash: 0102f9bf590627c3a27c045022b4de025e5a8f64
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Tarefas de gerenciamento de usuários para contas de cliente
+# <a name="user-management-tasks-for-customer-accounts"></a>Tarefas de gerenciamento de usuários para contas de cliente
 
 **Aplicável a**
 
@@ -74,7 +72,7 @@ Se precisar restaurar essa conta dentro de 30 dias, você pode encontrá-lo na g
 
     Todas as contas de usuário selecionadas reaparecerão na página **Usuários e licenças**.
 
-## Tópicos relacionados
+## <a name="related-topics"></a>Tópicos relacionados
 
 
 [Atribuir licenças a vários usuários ou revogá-las](bulk-license-provisioning-for-multiple-users.md)
@@ -85,11 +83,5 @@ Se precisar restaurar essa conta dentro de 30 dias, você pode encontrá-lo na g
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

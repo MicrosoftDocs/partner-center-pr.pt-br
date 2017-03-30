@@ -3,13 +3,11 @@ title: "Transição do Pinpoint para o Partner Center | Partner Center"
 Description: "Se você vir essa página, as informações descritas aqui explicam como fazer a transição do Pinpoint para o Partner Center."
 ms.assetid: 2ba05c48-5817-4078-bdb3-44e42d484c54
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
 ms.openlocfilehash: c604ab4f027119d10c4903431455c97c484eb831
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Transição do Pinpoint para o Partner Center
+# <a name="transition-from-pinpoint-to-partner-center"></a>Transição do Pinpoint para o Partner Center
 
 **Aplicável a**
 
@@ -46,7 +44,7 @@ Você só conseguirá **Editar** ou **Excluir** as listagens de **Soluções** q
 
 Para obter mais informações sobre perfis de marketing do Partner Center e ver os resultados de sua importação de perfil do Pinpoint, [acesse a página principal de perfis do Partner Center](https://partnercenter.microsoft.com/pcv/publishing). Para obter mais informações sobre a criação de perfis de marketing no Pinpoint, consulte [Criar um perfil de marketing da empresa](create-a-marketing-profile.md).)
 
-## Tópicos relacionados
+## <a name="related-topics"></a>Tópicos relacionados
 
 
 [Criar um perfil de marketing da empresa](create-a-marketing-profile.md)
@@ -57,11 +55,5 @@ Para obter mais informações sobre perfis de marketing do Partner Center e ver 
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

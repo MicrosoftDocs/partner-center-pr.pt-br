@@ -3,13 +3,11 @@ title: Criar um perfil de marketing | Partner Center
 description: "A Microsoft atrai milhões de clientes em potencial qualificados para nossas propriedades da Web a cada ano."
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
 ms.openlocfilehash: 75733451e0011d9e0a8a2f8a1ab7b13349e956b5
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Criar um perfil de marketing
+# <a name="create-a-marketing-profile"></a>Criar um perfil de marketing
 
 **Aplicável a**
 
@@ -37,7 +35,7 @@ Agradecemos sua paciência enquanto nós concluímos esta atualização. Fornece
 2.  Na guia **Perfis**, selecione **Adicionar um perfil de marketing**.
 3.  Atualize as informações sobre sua empresa, incluindo as informações de contato, as qualidades que destacam sua experiência comercial e uma descrição que atenda às *Diretrizes de perfil* abaixo.
 
-## Diretrizes de perfil
+## <a name="profile-guidelines"></a>Diretrizes de perfil
 
 
 -   Seu perfil pode conter até 2.500 caracteres, mas perfis sucintos geralmente são mais eficazes.
@@ -54,7 +52,7 @@ Agradecemos sua paciência enquanto nós concluímos esta atualização. Fornece
 
 -   Palavras-chave que os clientes inserem para pesquisar têm maior importância. Inclua palavras-chave que descrevam com precisão suas ofertas comerciais, bem como terminologia do setor que os clientes possam usar para procurar por soluções.
 
-## Dez dicas para um ótimo perfil
+## <a name="ten-tips-for-a-great-profile"></a>Dez dicas para um ótimo perfil
 
 
 1.  **Conheça seu público** Escreva como se você estivesse falando com o cliente, não para sua equipe interna ou para a Microsoft.
@@ -77,7 +75,7 @@ Agradecemos sua paciência enquanto nós concluímos esta atualização. Fornece
 
 10. **Mantenha seu perfil atualizado** Mantenha seu perfil em sincronia com a presença de sua empresa na Web. Com cada lançamento de software ou serviço, atualize o perfil e o site, garantindo uma experiência perfeita ao cliente.
 
-## Tópicos relacionados
+## <a name="related-topics"></a>Tópicos relacionados
 
 
 [Transição do Pinpoint para o Partner Center](importing-pinpoint-profiles-into-partner-center.md)
@@ -86,11 +84,5 @@ Agradecemos sua paciência enquanto nós concluímos esta atualização. Fornece
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

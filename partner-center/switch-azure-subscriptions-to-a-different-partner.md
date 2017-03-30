@@ -3,13 +3,11 @@ title: Mudar assinaturas do Azure para outro parceiro | Partner Center
 description: "Um cliente pode mudar o parceiro do programa Provedor de Soluções na Nuvem que usa para os serviços do Microsoft Azure. No entanto, esse é um processo manual que exige ações do parceiro e do cliente."
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Mudar assinaturas do Azure para outro parceiro
+# <a name="switch-azure-subscriptions-to-a-different-partner"></a>Mudar assinaturas do Azure para outro parceiro
 
 **Aplicável a**
 
@@ -77,11 +75,5 @@ Um cliente pode mudar o parceiro do programa Provedor de Soluções na Nuvem que
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

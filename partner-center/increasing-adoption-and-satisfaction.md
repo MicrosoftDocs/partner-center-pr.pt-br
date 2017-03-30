@@ -3,13 +3,11 @@ title: "Aumentar a adoção e a satisfação | Partner Center"
 description: "Nossos parceiros usam muitos métricas para avaliar se seus negócios estão crescendo e onde concentrar o investimento. O Partner Center pode ajudar informando se e como os clientes estão usando as licenças adquiridas."
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Aumentar a adoção e a satisfação
+# <a name="increase-adoption-and-satisfaction"></a>Aumentar a adoção e a satisfação
 
 **Aplicável a**
 
@@ -19,7 +17,7 @@ Nossos parceiros usam muitos métricas para avaliar se seus negócios estão cre
 
 Você pode ver dados de todos os seus clientes por meio do programa Provedor de Soluções na Nuvem. Observe que alguns clientes podem comprar licenças de outros parceiros ou diretamente da Microsoft — nesse caso, você verá o total de licenças em todos os parceiros. Para ver apenas suas próprias licenças, vá para assinaturas do cliente.
 
-## Localize dados de licença e do usuário
+## <a name="find-license-and-user-data"></a>Localize dados de licença e do usuário
 
 
 **Para um único cliente**
@@ -51,7 +49,7 @@ Terminologia:
 
     -   Se alguns clientes estiverem usando o Yammer muito além do que eles têm direito de acordo com a licença, isso poderá causar uma distorção significativa nos dados.
 
-## Próximas etapas
+## <a name="next-steps"></a>Próximas etapas
 
 
 Se forem apresentados muitos pedidos de Ajuda e Perguntas de instrução, os números de adoção em sua conta forem baixos ou você estiver procurando oportunidades de vendas, convém considerar a oferta de cursos de treinamento. Ensinando seus clientes como usar melhor o software de solução na nuvem que compraram, você tem mais chances de ver um aumento em produtividade e satisfação, e uma redução nas necessidades de suporte.
@@ -81,11 +79,5 @@ Se forem apresentados muitos pedidos de Ajuda e Perguntas de instrução, os nú
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

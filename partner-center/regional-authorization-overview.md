@@ -3,13 +3,11 @@ title: "Autorização regional do CSP | Partner Center"
 description: "Com a autorização regional, os parceiros com empresas internacionais agora podem gerenciar mais facilmente clientes em diferentes regiões e países do mundo todo."
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Autorização regional do CSP
+# <a name="csp-regional-authorization"></a>Autorização regional do CSP
 
 
 \[Algumas informações dizem respeito a produtos de pré-lançamento que poderão ser substancialmente modificados antes do lançamento comercial. A Microsoft não fornece nenhuma garantia, expressa ou implícita, com relação às informações fornecidas aqui.\]
@@ -18,13 +16,13 @@ Com a autorização regional, os parceiros com empresas internacionais agora pod
 
 Anteriormente, com a exceção da União Europeia/EFTA, os parceiros precisavam ter uma entidade física em cada país onde eles queriam fazer transações. Isso significa que os parceiros precisavam ter vários locatários configurados no Partner Center, com várias datas de cobrança e outras configurações. Em regiões como a América Latina, os parceiros não podiam trabalhar facilmente com clientes em países ou regiões vizinhos e, em alguns casos, eles ficavam completamente restritos.
 
->**Observação**<br> Se você está inscrito no [CSP do Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md) e vende para os clientes da União Europeia e países/regiões da EFTA, não será possível consolidar seu locatário do Partner Center do Microsoft Cloud Germany com seus outros locatários.  
+>**Observação**<br> Se você está inscrito no [CSP do Microsoft Cloud Alemanha](partner-center-for-microsoft-cloud-germany.md) e vende para os clientes da União Europeia e países/regiões da EFTA, não será possível consolidar seu locatário do Partner Center do Microsoft Cloud Alemanha com seus outros locatários.  
 
-## Planejamento
+## <a name="planning"></a>Planejamento
 
 Os parceiros têm várias opções para consolidar seus locatários regionais, conforme descrito a seguir.
 
-### Locatários separados para países ou regiões individuais
+### <a name="separate-tenants-for-single-regions-or-countries"></a>Locatários separados para países ou regiões individuais
 
 A consolidação de locatários é opcional. Os parceiros podem continuar a gerenciar seus clientes internacionais com locatários separados, conforme mostrado na tabela a seguir.
 
@@ -67,7 +65,7 @@ A consolidação de locatários é opcional. Os parceiros podem continuar a gere
 
  
 
-## Um locatário para vários países ou regiões
+## <a name="one-tenant-for-multiple-regions-or-countries"></a>Um locatário para vários países ou regiões
 
 
 Os parceiros podem optar por consolidar suas operações de vários locatários CSP para um único locatário CSP.
@@ -99,7 +97,7 @@ Os parceiros podem optar por consolidar suas operações de vários locatários 
 
  
 
-## Alguns locatários para alguns países ou regiões
+## <a name="some-tenants-for-some-regions-or-countries"></a>Alguns locatários para alguns países ou regiões
 
 
 Os parceiros podem optar por consolidar suas operações de vários locatários CSP para alguns locatários CSP.
@@ -135,7 +133,7 @@ Os parceiros podem optar por consolidar suas operações de vários locatários 
 
  
 
-## Consolidando locatários
+## <a name="consolidating-tenants"></a>Consolidando locatários
 
 
 Se você quiser consolidar locatários, recomendamos o seguinte:
@@ -145,7 +143,7 @@ Se você quiser consolidar locatários, recomendamos o seguinte:
 -   **Vários países/regiões, mas apenas uma transação.** Se você for realizar transações em vários países/regiões, recomendamos centralizar no locatário com o maior número de estações. Você deve cancelar as assinaturas nos países/regiões onde você tem quantidades menores de estações.
 
 
-## Informações do país/região
+## <a name="countryregion-information"></a>Informações do país/região
 
 
 Considere o seguinte antes de começar a consolidar locatários:
@@ -160,7 +158,7 @@ Considere o seguinte antes de começar a consolidar locatários:
 
 -   **Se a localização de seu destino de venda da Microsoft for um país/região da lista a seguir**, seu território incluirá clientes localizados em qualquer país/região da lista a seguir: Áustria, Bélgica, Bulgária, Croácia, Chipre, República Tcheca, Dinamarca, Estônia, Ilhas Faroés, Finlândia, França, Alemanha, Grécia, Hungria, Islândia, Irlanda, Itália, Letônia, Liechtenstein, Lituânia, Luxemburgo, Malta, Mônaco, Países Baixos, Noruega, Polônia, Portugal, Romênia, Eslováquia, Eslovênia, Espanha, Suécia, Suíça, Reino Unido
 
-    >**Observação**<br> Se você está inscrito no [CSP do Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md) e vende para os clientes da União Europeia e países/regiões da EFTA, não será possível consolidar seu locatário do Partner Center do Microsoft Cloud Germany com seus outros locatários.  
+    >**Observação**<br> Se você está inscrito no [CSP do Microsoft Cloud Alemanha](partner-center-for-microsoft-cloud-germany.md) e vende para os clientes da União Europeia e países/regiões da EFTA, não será possível consolidar seu locatário do Partner Center do Microsoft Cloud Alemanha com seus outros locatários.  
 
 
 -   **Se a localização de seu destino de venda da Microsoft for um país/região da lista a seguir**, seu território incluirá clientes localizados em qualquer país/região da lista a seguir: Afeganistão, Albânia, Argélia, Armênia, Azerbaijão, Bahrein, Belarus, Bósnia e Herzegovina, Egito, Geórgia, Iraque, Israel, Jordânia, Cazaquistão, Kuwait, Quirguistão, Líbano, Líbia, República da Macedônia (ARIM), Moldávia, Mongólia, Montenegro, Marrocos, Omã, Paquistão, Autoridade Palestina, Catar, Arábia Saudita, Sérvia, África do Sul, Tadjiquistão, Tunísia, Turquia, Turcomenistão, Ucrânia, Emirados Árabes Unidos, Uzbequistão, Iêmen, Zimbábue
@@ -187,11 +185,5 @@ Considere o seguinte antes de começar a consolidar locatários:
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

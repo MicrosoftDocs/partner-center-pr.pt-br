@@ -36,7 +36,7 @@
 # [Trabalhar com outros parceiros](work-with-other-partners.md)
 ## [Vários canais](multichannel.md)
 ## [Vários parceiros](multipartner.md)
-## [Solicitar uma relação com um cliente](request-a-relationship-with-a-customer.md)
+## [Solicitar um relacionamento com um cliente](request-a-relationship-with-a-customer.md)
 # [Suporte da Microsoft](support-from-microsoft--.md)
 ## [Verifique a integridade do serviço](check-service-health.md)
 ## [Relate problemas com o Partner Center](report-problems-with-partner-center.md)
@@ -49,12 +49,7 @@
 ## [Suporte autônomo do cliente](customer-self-support.md)
 ## [Encaminhar problemas para a Microsoft](escalate-problems-to-microsoft.md)
 # [Modelos de contrato do cliente](agreements.md)
-# [Partner Center do Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md)
-## [Registrar-se no Partner Center do Microsoft Cloud Germany](enroll-in-csp-for-microsoft-cloud-germany.md)
-## [Gerenciamento de usuários e licenças no Partner Center do Microsoft Cloud Germany](user-management-in-partner-center-for-microsoft-cloud-germany.md)
-
-
-
-<!--HONumber=Jan17_HO2-->
-
+# [Partner Center do Microsoft Cloud Alemanha](partner-center-for-microsoft-cloud-germany.md)
+## [Registrar-se no Partner Center do Microsoft Cloud Alemanha](enroll-in-csp-for-microsoft-cloud-germany.md)
+## [Gerenciamento de usuários e licenças no Partner Center do Microsoft Cloud Alemanha](user-management-in-partner-center-for-microsoft-cloud-germany.md)
 

@@ -3,18 +3,16 @@ title: Criar uma nova assinatura | Partner Center
 description: "Depois de criar um registro de seu cliente no Partner Center, você poderá vender a ele assinaturas de produtos no catálogo."
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: e23594a9bb9371cb1af1a2ff9047ef559050def0
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Criar uma nova assinatura
+# <a name="create-a-new-subscription"></a>Criar uma nova assinatura
 
 **Aplicável a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud Germany
+-  Partner Center do Microsoft Cloud Alemanha
 
 Depois de criar um registro de seu cliente no Partner Center, você poderá vender a ele assinaturas de produtos no catálogo.
 
@@ -38,11 +36,5 @@ Depois de criar uma assinatura do Microsoft Azure para um cliente, você poderá
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

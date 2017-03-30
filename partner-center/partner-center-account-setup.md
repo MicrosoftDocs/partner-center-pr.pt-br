@@ -3,13 +3,11 @@ title: Gerenciar sua conta do Partner Center | Partner Center
 description: "Depois de ser aceito no programa de Provedor de Solução na Nuvem, você ou seu administrador terá que configurar a conta da empresa no Partner Center."
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 04f7b861800653c0a8948432a9e1323a1acb169a
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Gerenciar sua conta do Partner Center
+# <a name="manage-your-partner-center-account"></a>Gerenciar sua conta do Partner Center
 
 **Aplicável a**
 
@@ -35,11 +33,5 @@ Depois de ser aceito no programa de Provedor de Solução na Nuvem, você ou seu
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

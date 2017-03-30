@@ -3,18 +3,16 @@ title: "Consolidação de locatários de autorização regional do CSP | Partner
 description: "Use estas instruções para consolidar locatários para países/regiões diferentes."
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
 ms.openlocfilehash: cc87659cd0412876a29a2f8fe48d005a84026509
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Consolidação de locatários de autorização regional do CSP
+# <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidação de locatários de autorização regional do CSP
 
 **Aplicável a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud Germany
+-  Partner Center do Microsoft Cloud Alemanha
 
 \[Algumas informações dizem respeito a produtos de pré-lançamento que poderão ser substancialmente modificados antes do lançamento comercial. A Microsoft não fornece nenhuma garantia, expressa ou implícita, com relação às informações fornecidas aqui.\]
 
@@ -24,14 +22,14 @@ Use estas instruções para consolidar locatários para países/regiões diferen
 
  
 
-## Preparar para a migração
+## <a name="prepare-for-migration"></a>Preparar para a migração
 
 
 -   Faça logon em <https://partnercenter.microsoft.com> com a conta de transição (existente) e anote todos os clientes e todos os serviços provisionados para esses clientes.
 
 ![lista de clientes regionais](images/regionalcustomer1.png)
 
-## Migrar contas de clientes
+## <a name="migrate-customer-accounts"></a>Migrar contas de clientes
 
 
 1.  Faça logon em <https://partnercenter.microsoft.com> com a conta de transição (nova) e navegue até a lista de clientes do painel do Partner Center.
@@ -46,7 +44,7 @@ Use estas instruções para consolidar locatários para países/regiões diferen
 
 Os clientes aparecerão na lista de clientes do parceiro após o envio do contrato, um por um.
 
-## Migrando assinaturas baseadas em uso do Office 365 e não Azure
+## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Migrando assinaturas baseadas em uso do Office 365 e não Azure
 
 
 1.  Depois que o cliente assinar o contrato, você poderá recriar as assinaturas dele em seu locatário parceiro centralizado.
@@ -73,7 +71,7 @@ Antes de prosseguir para a próxima seção, certifique-se de que todas as assin
 
  
 
-## Desabilitando as assinaturas do Office 365 na conta de parceiro de origem da transição
+## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Desabilitando as assinaturas do Office 365 na conta de parceiro de origem da transição
 
 
 Desabilitar a assinatura de CSP sob as contas de parceiros de **destino da transição** impede qualquer cobrança futura. Você não precisa desabilitar manualmente as assinaturas do Azure, elas são desativadas automaticamente durante o processo de migração.
@@ -93,7 +91,7 @@ Desabilitar a assinatura de CSP sob as contas de parceiros de **destino da trans
 
 5.  Selecione o próximo cliente na lista e repita o processo para desabilitar todas as assinaturas.
 
-## Migrando assinaturas baseadas em uso do Azure
+## <a name="migrating-azure-usage-based-subscriptions"></a>Migrando assinaturas baseadas em uso do Azure
 
 
 Observe que assinaturas de CSP baseadas em uso do Azure não precisam ser migradas manualmente como no caso das assinaturas de CSP do Office 365. O suporte do Microsoft Azure pode migrar as assinaturas do Azure, bem como todos os serviços ou recursos implantados, das contas de revendedor CSP de **origem da transição** para a conta de revendedor CSP de **destino da transição**. Não haverá qualquer interrupção do serviço para o cliente durante a transição.
@@ -110,7 +108,7 @@ Observe que assinaturas de CSP baseadas em uso do Azure não precisam ser migrad
 
 6.  Repita essas etapas para todas as assinaturas em todos os seus clientes para impedir encargos futuros nas contas de **origem da transição**. O parceiro receberá uma fatura final com um crédito pelo número de dias não utilizados entre o dia de cancelamento e o último dia do período de cobrança. Nenhuma fatura futura será gerada após esse período de cobrança final.
 
-### Observações
+### <a name="notes"></a>Observações
 
 -   Desabilitar a assinatura da conta CSP de **origem da transição** não afeta o serviço do cliente final contanto que o serviço tenha sido provisionado pela conta CSP de **destino da transição** antes de desabilitar.
 
@@ -122,7 +120,7 @@ Observe que assinaturas de CSP baseadas em uso do Azure não precisam ser migrad
 
      
 
-### Simplificar a migração usando Exportar
+### <a name="simplify-migration-using-export"></a>Simplificar a migração usando Exportar
 
 Usando a **função Exportar**, você pode capturar as assinaturas que serão usadas em sua nova estrutura consolidada:
 
@@ -134,11 +132,11 @@ Usando a **função Exportar**, você pode capturar as assinaturas que serão us
 
 4.  Use essa lista para recriar as assinaturas em seu novo locatário consolidado.
 
-### Registro de API
+### <a name="api-registration"></a>Registro de API
 
 Para obter mais informações sobre o registro de API [consulte esta página](https://msdn.microsoft.com/en-us/library/partnercenter/mt267552.aspx).
 
-## Log de atividades do Partner Center
+## <a name="partner-center-activity-log"></a>Log de atividades do Partner Center
 
 
 Com o log de atividades, os parceiros podem ver um registro de todas as alterações feitas em seu locatário que afetam o cliente. Isso ajuda a parceiros a controlar as alterações em um locatário do cliente.
@@ -158,11 +156,5 @@ Com o log de atividades, os parceiros podem ver um registro de todas as alteraç
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

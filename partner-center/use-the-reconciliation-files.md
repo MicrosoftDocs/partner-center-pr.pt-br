@@ -3,27 +3,18 @@ title: "Usar os arquivos de reconciliação | Partner Center"
 description: "Para obter uma exibição detalhada em itens de linha de cada encargo em um ciclo de cobrança, baixe os arquivos de reconciliação do painel do Partner Center."
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
-
+ms.openlocfilehash: 851230d50a7fd9805964a287104c55f13ad28cd2
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Usar os arquivos de reconciliação
+# <a name="use-the-reconciliation-files"></a>Usar os arquivos de reconciliação
 
 **Aplicável a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud Germany
+-  Partner Center do Microsoft Cloud Alemanha
 
 Para obter uma exibição detalhada em itens de linha de cada encargo em um ciclo de cobrança, baixe os arquivos de reconciliação do painel do Partner Center. Os detalhes incluem encargos por assinaturas de cada cliente e eventos detalhados (como a adição de assentos a uma assinatura no meio do período).
-
-## Nesta seção
-
-
--   [Discriminar por parceiro](#itemizebypartner)
--   [Arquivos de reconciliação baseados em licença](#licencebasedfiles)
--   [Arquivos de reconciliação baseados em uso](#usagebasedfiles)
 
 ## <a href="" id="itemizebypartner"></a>Discriminar por parceiro
 
@@ -44,7 +35,7 @@ Os parceiros no modelo indireto podem usar esses campos adicionais nos arquivos 
 <tbody>
 <tr class="odd">
 <td>ID do MPN</td>
-<td><p>A ID do MPN do parceiro CSP (direto ou indireto).</p></td>
+<td><p>A ID do Microsoft Partner Network (MPN) do parceiro CSP (direta ou indireta).</p></td>
 </tr>
 <tr class="even">
 <td>ID do MPN do revendedor</td>
@@ -83,9 +74,9 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 <td>8ddd03642-test-test-test-46b58d356b4e</td>
 </tr>
 <tr class="odd">
-<td>CustomerNumber</td>
-<td><p>Identificador exclusivo do cliente na plataforma de cobrança da Microsoft. Pode ser útil para identificar o cliente ao entrar em contato com o suporte, mas não para reconciliação.</p></td>
-<td>123456789</td>
+<td>CustomerID</td>
+<td><p>ID exclusiva da Microsoft, no formato GUID, usada para identificar o cliente.</p></td>
+<td>12ABCD34-001A-BCD2-987C-3210ABCD5678</td>
 </tr>
 <tr class="even">
 <td>OrderID</td>
@@ -106,12 +97,14 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 </tr>
 <tr class="odd">
 <td>OfferID</td>
-<td><p>ID exclusivo da oferta. ID padrão da oferta de acordo com a lista de preços.</p></td>
-<td>306855</td>
+<td><p>ID exclusivo da oferta. ID padrão da oferta de acordo com a lista de preços.</p>
+<p><b>Observação</b>: esse valor não coincide com a ID de oferta da lista de preços. Veja DurableOfferID abaixo.</p></td>
+<td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
-<td><p>ID exclusivo da oferta durável, conforme definido na tabela de preços.</p></td>
+<td><p>ID exclusiva da oferta durável, conforme definido na tabela de preços.</p>
+<p><b>Observação</b>: esse valor corresponde à ID de oferta da lista de preços.</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
@@ -148,70 +141,8 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>O tipo de encargo ou ajuste.</p>
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Encargos:</td>
-<td><ul>
-<li>PURCHASE_FEE: encargo inicial de uma assinatura</li>
-<li>CYCLE_FEE: encargos periódicos de uma assinatura</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>ConvertResources</td>
-<td><ul>
-<li>CANCEL_USAGEFEE: taxa de uso de acesso com o cancelamento para uso não pago durante o período de cobrança atual</li>
-<li>CYCLE_USAGEFEE: taxa de uso de acesso para o período atual de cobrança</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Proporcionais:</td>
-<td><ul>
-<li>PURCHASE_PRORATE: taxas proporcionais após a compra</li>
-<li>CANCEL_PRORATE: reembolso proporcional para a parte não utilizada do serviço após o cancelamento</li>
-<li>ACTIVATION_PRORATE: taxas proporcionais da ativação até o final do período de cobrança</li>
-<li>RENEW_PRORATE: taxas proporcionais após a renovação da assinatura</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>InstanceProrates:</td>
-<td><ul>
-<li>CANCEL_INSTANCEPRORATE: encargos proporcionais reembolsados para o cliente quando os assentos associados são alterados</li>
-<li>CYCLE_INSTANCEPRORATE: encargos proporcionais cobrados do cliente quando os assentos associados são alterados</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Créditos:</td>
-<td><ul>
-<li>CREDIT: crédito aplicado a um método de pagamento</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>Deslocamentos:</td>
-<td><ul>
-<li>OFFSET_LINEITEM: reembolso parcial ou integral para um item de linha</li>
-<li>ONE_TIME_REFUND: reembolso único processado para o cliente</li>
-<li>TAX_REFUND: reembolso devido para a validação do certificado de isenção de imposto</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Descontos:</td>
-<td><ul>
-<li>ACTIVATION_DISCOUNT: desconto aplicado quando a assinatura é ativada</li>
-<li>CYCLE_DISCOUNT: desconto aplicado em encargos periódicos</li>
-<li>RENEW_DISCOUNT: desconto aplicado quando a assinatura é renovada</li>
-<li>CANCEL_DISCOUNT: encargos aplicados quando os descontos são cancelados</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-<p> </p></td>
-<td></td>
+<td><p>O tipo de encargo ou ajuste. Consulte <a href="#charge_types">mapeando encargos entre uma fatura e o arquivo de reconciliação</a></p></td>
+<td><p>Consulte <a href="#charge_types">mapeando encargos entre uma fatura e o arquivo de reconciliação</a></p></td>
 </tr>
 <tr class="odd">
 <td>UnitPrice</td>
@@ -268,10 +199,24 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 <td><p>ID do MPN do revendedor de registro da assinatura. Consulte [Discriminar por parceiro](#itemizebypartner).</p></td>
 <td>4390934</td>
 </tr>
+<tr class="even">
+<td>DomainName</td>
+<td><p>Nome de domínio do cliente, usado para ajudar a identificar o cliente.</p></td>
+<td>example.onmicrosoft.com</td>
+</tr>
+<tr class="odd">
+<td>SubscriptionName</td>
+<td><p>Apelido da Inscrição. Se nenhum apelido for especificado, o Partner Center usa o OfferName.</p></td>
+<td>PROJETO ONLINE</td>
+</tr>
+<tr class="even">
+<td>SubscriptionDescription</td>
+<td><p>O nome da oferta de serviço comprada pelo cliente, conforme definido na tabela de preços. (Este é um campo idêntico ao nome da oferta).</p></td>
+<td>PROJETO ONLINE PREMIUM SEM PROJETO CLIENTE</td>
+</tr>
 </tbody>
 </table>
 
- 
 
 ## <a href="" id="usagebasedfiles"></a>Campos de arquivo baseado em uso
 
@@ -347,7 +292,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tr>
 <tr class="even">
 <td>SubscriptionName</td>
-<td><p>Nome da oferta do serviço</p></td>
+<td><p>Apelido da oferta do serviço.</p></td>
 <td>Microsoft Azure</td>
 </tr>
 <tr class="odd">
@@ -455,8 +400,8 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>Descrição do tipo de item de linha.</p></td>
-<td>TAXA DE USO DE ACESSO PARA O CICLO ATUAL</td>
+<td><p>O tipo de encargo ou ajuste. Consulte <a href="#charge_types">mapeando encargos entre uma fatura e o arquivo de reconciliação</a></p></td>
+<td><p>Consulte <a href="#charge_types">mapeando encargos entre uma fatura e o arquivo de reconciliação</a></p></td>
 </tr>
 <tr class="odd">
 <td>CustomerBillableAccount</td>
@@ -493,20 +438,235 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 <td><p>O número de conexões ServiceBus que foram provisionados e utilizados em um dia específico.</p></td>
 <td>Por exemplo: se você tivesse uma conexão individualmente provisionada durante um mês de 30 dias, a coluna Informação do Serviço 1 lerá "1,000000 conexões/30 dias". Se você tinha um pacote de 25 conexões ServiceBus provisionadas e você utilizou 1 durante o dia, sua declaração de uso diário para esse dia indicaria "25 conexões/30 dias – Usado: 1,000000".</td>
 </tr>
+<tr class="even">
+<td>CustomerID</td>
+<td><p>ID exclusiva da Microsoft, no formato GUID, usada para identificar o cliente.</p></td>
+<td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
+</tr>
+<tr class="odd">
+<td>DomainName</td>
+<td><p>Nome de domínio do cliente, usado para ajudar a identificar o cliente.</p></td>
+<td>example.onmicrosoft.com</td></tr>
 </tbody>
 </table>
 
- 
-
- 
-
- 
 
 
+## <a href="" id="charge_types"></a>Mapeando encargos entre uma fatura e o arquivo de reconciliação
+
+Sua fatura fornece um resumo dos encargos, enquanto seu arquivo de reconciliação fornece uma divisão detalhada das transações de item de linha, incluindo os tipos de carga.
+
+Para fazer referência cruzada das quantidades de carga entre o arquivo de reconciliação e fatura, você pode usar opções de filtro do Microsoft Excel para filtrar por tipos de cobrança no arquivo de reconciliação para mapear os encargos de fatura em um conjunto de detalhamentos de cobrança no arquivo de reconciliação.
+
+A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos de encargo associados que podem aparecer nos arquivos de reconciliação. 
+
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Descrição do encargo da fatura</strong></p>
+</td>
+<td>
+<p><strong>Descrição do encargo do arquivo de reconciliação (coluna ChargeType)</strong></p>
+</td>
+<td>
+<p><strong>O que é este encargo?</strong></p>
+</td>
+<td>
+<p><strong>Como é possível mapear esses tipos de encargo na fatura?</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="8">
+<p><strong>Encargos recorrentes</strong></p>
+</td>
+<td>
+<p>Cancelar ocorrência proporcional</p>
+</td>
+<td>
+<p>Os encargos proporcionais reembolsados para o cliente quando os assentos associados são alterados</p>
+</td>
+<td rowspan="8">
+<p>No arquivo baseado em licença, some a coluna <strong>Quantidade</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Taxa do ciclo</p>
+</td>
+<td>
+<p>Encargos periódicos de uma assinatura</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Percorrer ocorrência proporcional</p>
+</td>
+<td>
+<p>Os encargos proporcionais cobrados do cliente quando os assentos associados são alterados</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Taxas proporcionais durante o cancelamento</p>
+</td>
+<td>
+<p>Reembolso proporcional para a parte não utilizada do serviço após o cancelamento</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Taxas proporcionais durante a compra</p>
+</td>
+<td>
+<p>Taxas proporcionais após a compra</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Taxa de compra</p>
+</td>
+<td>
+<p>Encargo inicial de uma assinatura</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Taxa proporcional ao renovar</p>
+</td>
+<td>
+<p>Taxas proporcionais após a renovação da assinatura</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Taxa de renovação</p>
+</td>
+<td>
+<p>Cobrança para renovação de uma assinatura</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Outros produtos e serviços</strong></p>
+</td>
+<td>
+<p>Taxas proporcionais ao ativar</p>
+</td>
+<td>
+<p>Taxas proporcionais da ativação até o final do período de cobrança</p>
+</td>
+<td>
+<p>No arquivo baseado em licença, some a coluna <strong>Quantidade</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p><strong>Tarifas de uso</strong></p>
+</td>
+<td>
+<p>Avaliar a taxa de uso ao cancelar</p>
+</td>
+<td>
+<p>Taxa de uso de acesso com o cancelamento para uso não pago durante o período de cobrança atual</p>
+</td>
+<td rowspan="2">
+<p>No arquivo baseado em uso, some a coluna <strong>PretaxCharges</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Avalie a taxa de uso para o ciclo atual</p>
+</td>
+<td>
+<p>Taxa de uso de acesso para o período atual de cobrança</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Créditos &amp; Ajustes</strong></p>
+</td>
+<td>
+<p>Deslocando um item de linha</p>
+</td>
+<td>
+<p>Reembolso parcial ou integral para um item de linha, incluindo os impostos</p>
+</td>
+<td>
+<p>No arquivo baseado em licença, some a coluna <strong>TotalForCustomer</strong></p>
+<p>No arquivo baseado em uso, some a coluna <strong>PostTaxTotal</strong></p>
+</td>
+</tr>
 
 
-
-
-<!--HONumber=Jan17_HO2-->
-
-
+<tr>
+<td rowspan="4">
+<p><strong>Outros descontos</strong></br>
+<em>(com base em uso)</em></p>
+</td>
+<td>
+<p>Desconto de ativação</p>
+</td>
+<td>
+<p>Desconto aplicado quando a assinatura é ativada</p>
+</td>
+<td rowspan="4">
+<p>No arquivo baseado em uso, some a coluna <strong>PretaxCharges</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Desconto de ciclo</p>
+</td>
+<td>
+<p>Desconto aplicado em cobranças periódicas</p>
+</td>
+</tr><tr>
+<td>
+<p>Desconto de renovação</p>
+</td>
+<td>
+<p>Desconto aplicado quando a assinatura é renovada</p>
+</td>
+</tr><tr>
+<td>
+<p>Desconto de cancelamento</p>
+</td>
+<td>
+<p>Encargos aplicados quando descontos são cancelados</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Outros descontos</strong></br>
+<em>(com base em licença)</em></p>
+</td>
+<td>
+<p><em>Podem ser aplicados a vários tipos de cobrança</em></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+<td>
+<p>No arquivo baseado em licença, some a coluna <strong>TotalOtherDiscount</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Impostos</strong>&nbsp;ou&nbsp;<strong>IVA</strong></p>
+</td>
+<td>
+<p><em>Podem ser aplicados a vários tipos de cobrança</em></p>
+<p><em>Exceção: "Deslocamento de um item de linha" já inclui impostos. Consulte Créditos &amp;Ajustes, acima.</em></p>
+</td>
+<td>
+<p>Impostos ou impostos sobre valor agregado (IVA)</p>
+</td>
+<td>
+<p>No arquivo baseado em licença, some a coluna <strong>Imposto</strong></p>
+<p>No arquivo baseado em uso, some a coluna <strong>TaxAmount</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>

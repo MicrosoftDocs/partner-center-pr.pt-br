@@ -3,19 +3,17 @@ title: "Redefinir a senha do usuário | Partner Center"
 description: "Se os usuários se esquecerem da senha, você poderá atribuir a eles uma nova senha temporária. Eles poderão usá-la na próxima vez que entrarem no Partner Center."
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: c585d9826293a6d843a636791c38e3c0a46c4b87
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Redefinir a senha de usuário
+# <a name="reset-a-user-password"></a>Redefinir a senha de usuário
 
 **Aplicável a**
 
 -  Partner Center
    
->**Observação** Se você estiver se registrado no programa CSP (Provedor de Solução na Nuvem) no Microsoft Cloud Germany, consulte [Gerenciamento de usuários no Partner Center do Microsoft Cloud Germany](user-management-in-partner-center-for-microsoft-cloud-germany.md) para obter informações sobre como redefinir a senha do usuário.
+>**Observação** Se você estiver se registrado no programa CSP (Provedor de Solução na Nuvem) no Microsoft Cloud Alemanha, consulte [Gerenciamento de usuários no Partner Center do Microsoft Cloud Alemanha](user-management-in-partner-center-for-microsoft-cloud-germany.md) para obter informações sobre como redefinir a senha do usuário.
 
 Se os usuários se esquecerem das senhas deles, atribua a eles uma senha temporária. Eles poderão usá-la na próxima vez que entrarem no Partner Center.
 
@@ -38,11 +36,5 @@ Se os usuários se esquecerem das senhas deles, atribua a eles uma senha tempor�
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

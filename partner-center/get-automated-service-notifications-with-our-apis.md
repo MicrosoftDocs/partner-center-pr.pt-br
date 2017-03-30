@@ -3,13 +3,11 @@ title: "Automatizar as notificações de serviço com nossas APIs | Partner Cent
 description: "O Office 365 e o Microsoft Azure fornecem uma API que os parceiros podem usar para recuperar em tempo real a integridade do serviço, comunicações do centro de mensagens e eventos planejados de manutenção."
 ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
 ms.openlocfilehash: 42b29f9cf8c450560284fea39efd0638672f32b1
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Automatizar as notificações de serviço com nossas APIs
+# <a name="get-automated-service-notifications-with-our-apis"></a>Automatizar as notificações de serviço com nossas APIs
 
 **Aplicável a**
 
@@ -27,11 +25,5 @@ API REST do Azure Insights: [código](http://go.microsoft.com/fwlink/p/?LinkId=6
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 
