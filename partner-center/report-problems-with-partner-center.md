@@ -39,7 +39,7 @@ Você pode visualizar as informações de diagnóstico e salvá-las em um arquiv
 
 1.    Examine as informações do arquivo antes de enviá-las porque elas podem conter dados pessoalmente identificáveis que talvez você queira remover. 
 
-    >**Observação**<br>
+    >**Observação**<br />
     Em alguns navegadores, a seção **Modo de Exibição de Página** na parte inferior da página **Visualização** pode aparecer vazia. Isso está correto.
 
 2.    Siga as instruções que aparecem na tela para salvar o arquivo.
