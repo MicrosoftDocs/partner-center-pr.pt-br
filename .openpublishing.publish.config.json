@@ -8,13 +8,25 @@
       "build_source_folder": "partner-center",
       "build_output_subfolder": "partner-center",
       "locale": "pt-br",
-      "version": 0,
       "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content"
       }
+    },
+    {
+      "docset_name": "partner-china-dynamic",
+      "build_source_folder": "china",
+      "build_output_subfolder": "partner-china-dynamic",
+      "locale": "pt-br",
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
     }
   ],
   "notification_subscribers": [],
@@ -30,10 +42,13 @@
       "branch_mapping": {}
     },
     {
-      "path_to_root": "_themes.MSDN.Modern",
-      "url": "https://github.com/Microsoft/templates.msdn.msft.pt-br",
-      "branch": "master",
-      "branch_mapping": {}
+      "path_to_root": "_repo.en-us",
+      "url": "https://cpubwin.visualstudio.com/DefaultCollection/partner/_git/partner",
+      "branch": "live",
+      "branch_mapping": {
+        "live": "live",
+        "master": "master"
+      }
     }
   ],
   "need_generate_pdf_url_template": false
