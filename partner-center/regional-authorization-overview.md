@@ -3,9 +3,11 @@ title: "Autorização regional do CSP | Partner Center"
 description: "Com a autorização regional, os parceiros com empresas internacionais agora podem gerenciar mais facilmente clientes em diferentes regiões e países do mundo todo."
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
-ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: f79c2f0a56f88faf554543fa2bb0a0ab504e0614
+ms.sourcegitcommit: a905afc18ffc20e3469933fa005336f1e9b520f4
+ms.translationtype: HT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 06/07/2017
 ---
 # <a name="csp-regional-authorization"></a>Autorização regional do CSP
 
@@ -154,22 +156,22 @@ Considere o seguinte antes de começar a consolidar locatários:
 
 -   **Se a localização de seu destino de venda da Microsoft for o Brasil**, seu território incluirá clientes localizados no Brasil.
 
--   **Se a localização de seu destino de venda da Microsoft for um país/região da lista a seguir**, seu território incluirá clientes localizados em qualquer país/região da lista a seguir: Argentina, Bahamas, Barbados, Belize, Bolívia, Bermuda, Ilhas Cayman, Chile, Colômbia, Costa Rica, Curaçao, República Dominicana, Equador, El Salvador, Guatemala, Honduras, Jamaica, México, Nicarágua, Panamá, Paraguai, Peru, Porto Rico, São Cristóvão e Névis, Trinidad e Tobago, Uruguai, Venezuela, Ilhas Virgens.
+-   **Se seu local de venda da Microsoft for um país/região na lista a seguir**, seu território inclui clientes localizados em qualquer país/região na lista a seguir: Anguila, Antígua e Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolívia, Bonaire, Ilhas Cayman, Chile, Colômbia, Costa Rica, Curaçao, República Dominicana, Equador, El Salvador, Guiana Francesa, Guadalupe, Guatemala, Honduras, Jamaica, Martinica, México, Nicarágua, Panamá, Paraguai, Peru, Porto Rico, São Cristóvão e Névis, Santa Lúcia, Saint Martin, São Vicente e Granadinas, Saint Maarten, Suriname, Trinidade e Tobago, Ilhas Turks e Caicos, Uruguai, Venezuela, Ilhas Virgens Americanas.
 
--   **Se a localização de seu destino de venda da Microsoft for um país/região da lista a seguir**, seu território incluirá clientes localizados em qualquer país/região da lista a seguir: Áustria, Bélgica, Bulgária, Croácia, Chipre, República Tcheca, Dinamarca, Estônia, Ilhas Faroés, Finlândia, França, Alemanha, Grécia, Hungria, Islândia, Irlanda, Itália, Letônia, Liechtenstein, Lituânia, Luxemburgo, Malta, Mônaco, Países Baixos, Noruega, Polônia, Portugal, Romênia, Eslováquia, Eslovênia, Espanha, Suécia, Suíça, Reino Unido
+-   **Se a localização de seu destino de venda da Microsoft for um país/região da lista a seguir**, seu território incluirá clientes localizados em qualquer país/região da lista a seguir: Andorra, Áustria, Bélgica, Bulgária, Croácia, Chipre, República Tcheca, Dinamarca, Estônia, Ilhas Faroés, Finlândia, França, Alemanha, Grécia, Groenlândia, Hungria, Islândia, Irlanda, Ilha de Man, Itália, Jersey, Letônia, Liechtenstein, Lituânia, Luxemburgo, Madagascar, Malaui, Mali, Malta, Mayotte, Mônaco, Países Baixos, Nova Caledônia, Noruega, Polônia, Portugal, Romênia, San Marino, Eslováquia, Eslovênia, Espanha, Suécia, Suíça, Reino Unido, Cidade do Vaticano.
 
     >**Observação**<br> Se você está inscrito no [CSP do Microsoft Cloud Alemanha](partner-center-for-microsoft-cloud-germany.md) e vende para os clientes da União Europeia e países/regiões da EFTA, não será possível consolidar seu locatário do Partner Center do Microsoft Cloud Alemanha com seus outros locatários.  
 
 
--   **Se a localização de seu destino de venda da Microsoft for um país/região da lista a seguir**, seu território incluirá clientes localizados em qualquer país/região da lista a seguir: Afeganistão, Albânia, Argélia, Armênia, Azerbaijão, Bahrein, Belarus, Bósnia e Herzegovina, Egito, Geórgia, Iraque, Israel, Jordânia, Cazaquistão, Kuwait, Quirguistão, Líbano, Líbia, República da Macedônia (ARIM), Moldávia, Mongólia, Montenegro, Marrocos, Omã, Paquistão, Autoridade Palestina, Catar, Arábia Saudita, Sérvia, África do Sul, Tadjiquistão, Tunísia, Turquia, Turcomenistão, Ucrânia, Emirados Árabes Unidos, Uzbequistão, Iêmen, Zimbábue
+-   **Se a localização de seu destino de venda da Microsoft for um país/região da lista a seguir**, seu território incluirá clientes localizados em qualquer país/região da lista a seguir: Afeganistão, Albânia, Argélia, Armênia, Azerbaijão, Bahrein, Belarus, Benin, Bósnia e Herzegovina, Burundi, Comoros, Egito, Polinésia Francesa, Geórgia, Iraque, Israel, Jordânia, Cazaquistão, Kuwait, Quirguistão, Líbano, Líbia, República da Macedônia (ARIM), Moldávia, Mongólia, Montenegro, Marrocos, Moçambique, Omã, Paquistão, Autoridade Palestina, Catar, Reunião, Arábia Saudita, Sérvia, Seicheles, África do Sul, Tadjiquistão, Togo, Tunísia, Turquia, Turcomenistão, Ucrânia, Emirados Árabes Unidos, Uzbequistão, Iêmen, Zimbábue.
 
--   **Se a localização de seu destino de venda da Microsoft for um país/região da lista a seguir**, seu território incluirá clientes localizados em qualquer país/região da lista a seguir: Angola, Botsuana, Camarões, Cabo Verde, Costa do Marfim, Etiópia, Gana, Quênia, Maurício, Namíbia, Nigéria, Ruanda, Senegal, Tanzânia, Uganda, Zâmbia
+-   **Se a localização de seu destino de venda da Microsoft for um país/região da lista a seguir**, seu território incluirá clientes localizados em qualquer país/região da lista a seguir: Angola, Botsuana, Camarões, Cabo Verde, Costa do Marfim, Etiópia, Gana, Quênia, Maurício, Namíbia, Nigéria, Ruanda, Senegal, Tanzânia, Uganda, Zâmbia.
 
 -   **Se a localização de seu destino de venda da Microsoft for a Rússia**, seu território incluirá clientes localizados na Rússia.
 
--   **Se a localização de seu destino de venda da Microsoft for um país/região da lista a seguir**, seu território incluirá clientes localizados em qualquer país/região da lista a seguir: Bangladesh, Brunei Darussalam, RAE de Hong Kong, Indonésia, Malásia, RAE de Macau, Nepal, Filipinas, Cingapura, Sri Lanka, Tailândia, Vietnã
+-   **Se a localização de seu destino de venda da Microsoft for um país/região da lista a seguir**, seu território incluirá clientes localizados em qualquer país/região da lista a seguir: Bangladesh, Butão, Brunei Darussalam, Camboja, RAE de Hong Kong, Indonésia, Laos, RAE de Macau, Malásia, Maldivas, Ilhas Marshall, Myanmar, Nepal, Papua Nova-Guiné, Filipinas, Cingapura, Sri Lanka, Tailândia, Timor-Leste, Tonga, Vietnã.
 
--   **Se a localização de seu destino de venda da Microsoft for um país/região da lista a seguir**, seu território incluirá clientes localizados em qualquer país/região da lista a seguir: Austrália ou Fiji
+-   **Se a localização de seu destino de venda da Microsoft for um país/região da lista a seguir**, seu território incluirá clientes localizados em qualquer país/região da lista a seguir: Austrália ou Fiji.
 
 -   **Se a localização de seu destino de venda da Microsoft for a Nova Zelândia**, seu território incluirá clientes localizados na Nova Zelândia.
 
@@ -181,7 +183,28 @@ Considere o seguinte antes de começar a consolidar locatários:
 
 -   **Se a localização de seu destino de venda da Microsoft for Taiwan**, seu território incluirá clientes localizados em Taiwan.
 
- 
+## <a name="billing-currencies-by-country"></a>Moedas de cobrança por país
+
+Sua localização geográfica determina a moeda na qual você será cobrado, conforme mostrado na tabela a seguir. Observe que, por conta de implicações fiscais e legais, se desejar usar uma moeda de cobrança diferente, você precisará criar um novo locatário e especificar essa moeda. 
+
+| Moeda | País |
+| ---- | ---- |
+| USD | Albânia, Anguila, Antígua e Barbuda, Argentina, Armênia, Aruba, Azerbaijão, Bahamas, Bahrein, Bangladesh, Barbados, Belarus, Belize, Benin, Bermuda, Bolívia, Bonaire, Brasil, Brunei, Burundi, Camarões, Ilhas Cayman, Chile, Colômbia, Comores, Costa Rica, Curaçao, República Dominicana, Equador, Egito, El Salvador, Fiji, Guiana Francesa, Polinésia Francesa, Geórgia, Gana, Guatemala, Honduras, RAE de Hong Kong, Indonésia, Iraque, Israel, Jamaica, Cazaquistão, Quênia, Kuwait, Quirguistão, Líbano, RAE de Macau, Madagascar, Malaui, Malásia, Mali, Maurício, Mayotte, México, Marrocos, Namíbia, Nova Caledônia, Nicarágua, Nigéria, Omã, Paquistão, Panamá, Paraguai, Peru, Filipinas, Porto Rico, Catar, Reunião, Ruanda, Santa Lúcia, Saint Martin, São Vicente e Granadinas, Arábia Saudita, Sérvia, Seicheles, Cingapura, Saint Maarten, África do Sul, Sri Lanka, Suriname, Tanzânia, Tailândia, Timor-Leste, Togo, Trinidade e Tobago, Tunísia, Turquia, Ilhas Turks e Caicos, Ilhas Virgens Americanas, Ucrânia, Emirados Árabes Unidos, Estados Unidos, Uruguai, Venezuela, Vietnã  | 
+| TWD | Taiwan |
+| SEK | Suécia |
+| INR | Índia |
+| RUB | Rússia |
+| NZD | Nova Zelândia |
+| NOK | Noruega |
+| KRW | Coreia |
+| JPY | Japão |
+| GBP | Ilha de Man, Jersey, Reino Unido |
+| EUR | Andorra, Áustria, Bélgica, Croácia, República Tcheca, Estônia, Ilhas Faroés, Finlândia, França, Alemanha, Grécia, Hungria, Islândia, Irlanda, Itália, Letônia, Liechtenstein, Lituânia, Luxemburgo/Bélgica, Países Baixos, Polônia, Portugal, Romênia, San Marino, Eslováquia, Eslovênia, Espanha |
+| DKK | Dinamarca |
+| CHF | Suíça |
+| CAD | Canadá |
+| AUD | Austrália, Ilhas Marshall, Papua Nova-Guiné, Tonga |
+
 
  
 

@@ -2,9 +2,10 @@
 title: "Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Cloud Alemanha | Partner Center do Microsoft Cloud Alemanha"
 description: "Antes de se inscrever no programa Provedor de Soluções na Nuvem do Microsoft Cloud Alemanha, saiba mais sobre os requisitos do programa CSP."
 author: MaggiePucciEvans
-ms.openlocfilehash: c804ca7136be7b34ef48e06ee36ef2899f3030f9
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d7251d597357573010e589bfea8ed6bae1a91630
+ms.sourcegitcommit: a9d2fc656bec004a0c229bd855d2e661773c05c7
+ms.translationtype: HT
+ms.contentlocale: pt-BR
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Cloud Alemanha
 
@@ -32,7 +33,7 @@ Para criar uma conta do Partner Center e se inscrever no CSP do Microsoft Cloud 
 
 ### <a name="step-1---create-an-account-for-partner-center-for-microsoft-cloud-germany"></a>Etapa 1 - Criar uma conta do Partner Center do Microsoft Cloud Alemanha 
 
-1.  Dispare o processo de inscrição. 
+1.  Para se inscrever no CSP da Microsoft Cloud Germany, vá para [https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow) e selecione **Entrar**. 
 
 2.  Entre com as credenciais de administrador global da conta do Microsoft Cloud Alemanha da sua empresa para o Office 365, o Microsoft Azure ou o Microsoft Dynamics. Se sua empresa não tiver uma conta para esses portais, selecione **Criar uma** para se inscrever em uma.
 

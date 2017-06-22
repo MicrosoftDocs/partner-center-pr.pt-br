@@ -3,16 +3,18 @@ title: "Consolidação de locatários de autorização regional do CSP | Partner
 description: "Use estas instruções para consolidar locatários para países/regiões diferentes."
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
-ms.openlocfilehash: cc87659cd0412876a29a2f8fe48d005a84026509
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: fe08fcfbb555b4913fa747d538abf08a18658e09
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: pt-BR
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidação de locatários de autorização regional do CSP
 
 **Aplicável a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud Alemanha
+-  Partner Center for Microsoft Cloud for US Government
+-  Partner Center for Microsoft Cloud Germany
 
 \[Algumas informações dizem respeito a produtos de pré-lançamento que poderão ser substancialmente modificados antes do lançamento comercial. A Microsoft não fornece nenhuma garantia, expressa ou implícita, com relação às informações fornecidas aqui.\]
 

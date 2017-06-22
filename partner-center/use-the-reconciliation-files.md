@@ -3,16 +3,18 @@ title: "Usar os arquivos de reconciliação | Partner Center"
 description: "Para obter uma exibição detalhada em itens de linha de cada encargo em um ciclo de cobrança, baixe os arquivos de reconciliação do painel do Partner Center."
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: MaggiePucciEvans
-ms.openlocfilehash: 851230d50a7fd9805964a287104c55f13ad28cd2
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 7a059bfa12655334b02a76af17608569e4f42a41
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: pt-BR
 ---
 # <a name="use-the-reconciliation-files"></a>Usar os arquivos de reconciliação
 
 **Aplicável a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud Alemanha
+-  Partner Center for Microsoft Cloud for US Government
+-  Partner Center for Microsoft Cloud Germany
 
 Para obter uma exibição detalhada em itens de linha de cada encargo em um ciclo de cobrança, baixe os arquivos de reconciliação do painel do Partner Center. Os detalhes incluem encargos por assinaturas de cada cliente e eventos detalhados (como a adição de assentos a uma assinatura no meio do período).
 

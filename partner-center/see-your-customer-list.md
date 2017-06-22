@@ -3,16 +3,18 @@ title: Gerenciar sua lista de clientes | Partner Center
 description: "Os registros de clientes estão entre seus ativos de informação mais importantes no Partner Center."
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
-ms.openlocfilehash: 0a6ed78cb9b04160e7e220074c5aa3c682ba81ec
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: f5ca9d3bfde754e617eda5b172e19683469fcfe2
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: pt-BR
 ---
 # <a name="manage-your-customer-list"></a>Gerenciar sua lista de clientes
 
 **Aplicável a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud Alemanha
+-  Partner Center for Microsoft Cloud for US Government
+-  Partner Center for Microsoft Cloud Germany
 
 Os registros de clientes estão entre seus ativos de informação mais importantes no Partner Center. Você pode pesquisar seu banco de dados de contas de clientes, exportar o banco de dados de clientes inteiro ou exportar um subconjunto para um formato de arquivo de valores separados por vírgula (.csv) compatível com o Excel. Você também pode exportar as informações de assinaturas do cliente para um arquivo .csv.
 

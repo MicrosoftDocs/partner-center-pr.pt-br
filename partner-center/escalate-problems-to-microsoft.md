@@ -3,16 +3,18 @@ title: Encaminhar problemas para a Microsoft | Partner Center
 description: "Espera-se que você resolva os problemas em nome de seus clientes."
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
-ms.openlocfilehash: 51e095c5f0b7c0c8c1305905ccdb4b20683d386b
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 1875758bbaeb1b19efe0132d7b4157586479a81d
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: pt-BR
 ---
 # <a name="escalate-problems-to-microsoft"></a>Encaminhar problemas para a Microsoft
 
 **Aplicável a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud Alemanha
+-  Partner Center for Microsoft Cloud for US Government
+-  Partner Center for Microsoft Cloud Germany
 
 Espera-se que você resolva os problemas em nome de seus clientes. Seus primeiros passos devem ser [verificar a integridade do serviço](check-service-health.md) para problemas existentes e documentados. Se isso não resolver o problema do cliente, você então pode usar seus privilégios de administrador para solucionar problemas com software, definições e configuração.
 

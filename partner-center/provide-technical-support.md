@@ -3,16 +3,18 @@ title: "Fornecer suporte técnico | Partner Center"
 description: "Como parceiro do Provedor de Soluções na Nuvem, você tem Privilégios de Administrador Delegado que dão acesso aos ambientes dos seus clientes."
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
-ms.openlocfilehash: 655493ec64f138f84423700309e419b98c04df81
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: f9252b0cde71b1265458f374eec1470f29ddb433
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: pt-BR
 ---
 # <a name="provide-technical-support"></a>Fornecer suporte técnico
 
 **Aplicável a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud Alemanha
+-  Partner Center for Microsoft Cloud for US Government
+-  Partner Center for Microsoft Cloud Germany
 
 Como parceiro do Provedor de Soluções na Nuvem, você tem Privilégios de Administrador Delegado que dão acesso aos ambientes dos seus clientes. Esses privilégios permitem oferecer suporte, configurar e gerenciar assinaturas de seus clientes diretamente.
 

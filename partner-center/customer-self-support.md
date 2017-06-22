@@ -3,16 +3,18 @@ title: "Suporte autônomo do cliente | Partner Center"
 description: "Suporte autônomo do cliente"
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
-ms.openlocfilehash: d32bba4fafb0f1b6dde3cc8d10b4312f0cb4b977
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 87dfdd4e3a56c60282f5a386011a23d3445b3001
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: pt-BR
 ---
 # <a name="customer-self-support"></a>Suporte autônomo do cliente
 
 **Aplicável a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud Alemanha
+-  Partner Center for Microsoft Cloud for US Government
+-  Partner Center for Microsoft Cloud Germany
 
 Os clientes podem entrar no Centro de administração do Microsoft Office 365 ou no Portal de Gerenciamento do Azure e gerenciar suas próprias contas:
 

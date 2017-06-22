@@ -3,9 +3,11 @@ title: "Adicionar licenças ou serviços a uma assinatura existente | Partner Ce
 description: "Se seu cliente precisar de mais usuários do que os fornecidos pela assinatura atual ou de uma versão diferente com serviços adicionais, você poderá atualizar a assinatura."
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
-ms.openlocfilehash: 69a1975e40a15e4a17a71b06ac741b4641e5b903
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: f33841361b10a4fb2358aafc13342689ec0780ef
+ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.translationtype: HT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 06/09/2017
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Adicionar licenças ou serviços a uma assinatura existente
 
@@ -76,7 +78,7 @@ As assinaturas poderão ser atualizadas se estas condições forem atendidas:
 
 -   O cliente não pode ter as assinaturas para as quais você esteja tentando fazer a atualização.
 
-É possível, nos dois últimos casos, que o cliente possa ter adquirido essas assinaturas ou serviços de outro parceiro ou outro canal, e ele não poderá comprá-los de você, a menos que ele cancele os existentes primeiro. Para saber mais, consulte [Vários canais](multichannel.md).
+É possível, nos dois últimos casos, que o cliente possa ter adquirido essas assinaturas ou serviços de outro parceiro ou outro canal, e ele não poderá comprá-los de você, a menos que ele cancele os existentes primeiro. Para obter mais informações, consulte [multi-canal](multichannel.md).
 
 Para saber mais sobre o impacto disso na cobrança, consulte os detalhes sobre como cancelar uma assinatura e adicionar uma nova assinatura em [Cenários comuns de cobrança](common-billing-scenarios.md).
 

@@ -1,11 +1,13 @@
 ---
 title: Criar um perfil de marketing | Partner Center
-description: "A Microsoft atrai milhões de clientes em potencial qualificados para nossas propriedades da Web a cada ano."
+description: Atraia mais clientes em potencial, criando um perfil de marketing no Partner Center.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
-author: MaggiePucciEvans
-ms.openlocfilehash: 75733451e0011d9e0a8a2f8a1ab7b13349e956b5
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+author: KPacquer
+ms.openlocfilehash: 04e436d61636b0f47683f3ac9644484bb8bfe3d7
+ms.sourcegitcommit: 9aa0f56faca663a2cac715dd1795abf137acdf5c
+ms.translationtype: HT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 06/06/2017
 ---
 # <a name="create-a-marketing-profile"></a>Criar um perfil de marketing
 
@@ -13,76 +15,92 @@ translationtype: HT
 
 -  Partner Center
 
-A Microsoft atrai milhões de clientes em potencial qualificados para nossas propriedades da Web a cada ano. Podemos ajudá-lo a ampliar sua participação no mercado distribuindo suas soluções para os clientes. As indicações da Microsoft ajudarão você a conectar-se com clientes procurando por soluções exclusivas para atender às suas necessidades comerciais. Para participar, crie um perfil de marketing no Partner Center.
+Como um parceiro da Microsoft qualificado, você pode criar um perfil de marketing para demonstrar seus negócios a clientes que estão procurando suas soluções exclusivas e seus conhecimentos para atender às necessidades de negócios.
 
-Se você tiver uma conta do Pinpoint, [importe seu perfil de marketing do Pinpoint no Partner Center](importing-pinpoint-profiles-into-partner-center.md).
+A Microsoft emprega milhões de clientes todos os anos por meio de marketing, vendas e esforços de serviço. A maioria desses relacionamentos cria oportunidades para nos fornecer indicações a nossos parceiros na forma de oportunidades de vendas. 
 
-**Informações importantes para parceiros gerenciar perfis no Pinpoint**
+Como a primeira etapa para obter esses clientes em potencial, crie um perfil de marketing. Vamos mostrar seu perfil aos clientes que estiverem procurando por parceiros que podem ajudá-los a implementar produtos da Microsoft e soluções, por meio de:
 
-Como você deve saber, a Microsoft está trabalhando arduamente para criar uma experiência nova e aprimorada a fim de que parceiros publiquem e mantenham seus perfis. Por fim, todos os perfis de parceiro serão migrados para essa nova experiência, e o Pinpoint será colocado offline ainda em 2017.
+*  **A experiência de busca [Localizar um parceiro](https://partnercenter.microsoft.com/pcv/search)**. Os clientes em potencial podem pesquisar listas de parceiros por conta própria para localizar os parceiros que atendem aos seus critérios de pesquisa. 
+*  **Referências de vendas da Microsoft e funcionários de serviço**. Os clientes em potencial interessados na implantação de soluções de tecnologia baseada em nuvem contatam a Microsoft para ajudar a encontrar profissionais que podem atender às suas necessidades de negócios. Esses profissionais da Microsoft podem, em seguida, consultar os clientes em potencial para sua empresa.
 
-Agradecemos sua paciência enquanto nós concluímos esta atualização. Forneceremos atualizações e orientações durante o processo. Enquanto isso, observe o seguinte:
+## <a name="create-a-profile"></a>Criar um perfil
 
--   Se seu perfil estiver listado em [manage.pinpoint.com](https://go.microsoft.com/fwlink/?linkid=838399) e você quiser modificá-lo, [faça logon](https://go.microsoft.com/fwlink/?linkid=838394) nessa ferramenta.
--   Se você estiver inscrito no Programa [Provedor de Serviços de Nuvem](https://go.microsoft.com/fwlink/?linkid=838395) (CSP), faça logon no [Partner Center](https://go.microsoft.com/fwlink/?linkid=838396). Você pode criar um novo perfil ou importar seu perfil do Pinpoint. Observe que todas as alterações em seu perfil devem ser feitas antes de importá-lo. Consulte as informações abaixo para obter detalhes.
--   Se você não conseguir modificar seu perfil, entre em contato com o [Atendimento ao cliente regional](https://go.microsoft.com/fwlink/?linkid=838398). 
+Crie um perfil para cada país que onde você está autorizado a fazer negócios.
 
-**Avaliações de cliente:** como parte da transição planejada do Pinpoint para o Partner Center, a antiga funcionalidade de listagem de avaliação de cliente foi desativada e os parceiros não podem mais acessar as avaliações de cliente. Foi enviada uma comunicação a todos os parceiros afetados por meio do contato de email designado antes da remoção da funcionalidade e das avaliações relacionadas. O plano atual é para substituí-la por um sistema mais robusto e confiável no futuro.
+1.  Em [Partner Center](http://go.microsoft.com/fwlink/p/?LinkId=808956), no menu **Painel**, selecione **Indicações** &gt; **Perfis de Marketing** &gt; **[Adicionar um perfil de marketing](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-**Criar um perfil de marketing**
+2.    Na página **Criar um perfil de marketing**, selecione uma região e insira suas informações de perfil, incluindo as seções de informações e competência do parceiro.
 
-1.  No [Partner Center](http://go.microsoft.com/fwlink/p/?LinkId=808956), no menu **Painel**, selecione **Configurações da conta** &gt; **Perfil de marketing**.
-2.  Na guia **Perfis**, selecione **Adicionar um perfil de marketing**.
-3.  Atualize as informações sobre sua empresa, incluindo as informações de contato, as qualidades que destacam sua experiência comercial e uma descrição que atenda às *Diretrizes de perfil* abaixo.
+    Mais tarde, depois de concluir seu primeiro perfil, você poderá criar perfis adicionais com base nesta compilação, selecionando **Cópia de um perfil existente**.
 
-## <a name="profile-guidelines"></a>Diretrizes de perfil
+### <a href="" id="partner_info"></a>Informações do parceiro
 
+Apresente sua empresa, adicionando um logotipo e uma breve descrição e um link para seu site. 
 
--   Seu perfil pode conter até 2.500 caracteres, mas perfis sucintos geralmente são mais eficazes.
+O logotipo pode ser um arquivo GIF, JPG ou PNG, com uma largura máxima de 300 pixels. Recomendamos usar as taxas de proporção quadradas ou longas. Proporções de aspecto alto não são recomendadas.
 
--   Descreva suas qualificações e experiência, ou as de sua empresa.
+Sua descrição pode ter até 1000 caracteres. Dicas para uma ótima descrição: 
 
--   Use o nome legal da empresa.
+*  **Ser breve**, liderar com o que é importante para a primeira ou segunda sentença. Isso deve ser o título que captura a atenção dos clientes. Na experiência Localizar um parceiro de pesquisa, mostramos a primeira ou segunda linha na visualização de resultados da pesquisa.
+*  **Concentre-se em experiências da sua empresa com ofertas específicas da Microsoft**. Os clientes procurando indicações geralmente procuram por parceiros com experiência específica da Microsoft.
+*  **Use marcadores**. Divida informações em listas com marcadores para torná-las mais fáceis de ler.
+*  **Evite jargão**. Use linguagem simples e do dia a dia, nomeie suas ofertas de acordo com o que elas fazem: a necessidade comercial à qual atendem, a tarefa ou o objetivo que elas ajudam os clientes a alcançar.
+*  **Não se preocupe em encher a descrição com palavras-chave de pesquisa**. Os clientes buscam por ferramentas de pesquisa por palavras-chave geradas na seção de experiência do parceiro, não na descrição.
+*  **Mantenha seu perfil atualizado**. Com cada lançamento de software ou serviço, atualize seu perfil, mantendo-o em sincronia com o site da sua empresa.
+*  **Não faça referência a outra empresa parceira da Microsoft pelo nome**, a menos que ela seja uma subsidiária ou afiliada de alguma forma à sua empresa ou que você atualmente tenha um contrato com essa empresa para atuar em parceria e/ou promover uma a outra para oportunidades de trabalho compartilhado.
 
--   Inclua um link para a home page da sua empresa na caixa do site.
+#### <a href="" id="linkedin"></a> Página no LinkedIn de empresa: mais maneiras de se conectar
 
--   Certifique-se de que todas as informações estão atualizadas e precisas.
+Adicione sua página de empresa do LinkedIn para fortalecer suas conexões de clientes em potencial. 
 
--   Não faça referência a outra empresa parceira da Microsoft pelo nome, a menos que ela seja uma subsidiária ou afiliada de alguma forma à sua empresa ou que você atualmente tenha um contrato com essa empresa para atuar em parceria e/ou promover uma a outra para oportunidades de trabalho compartilhado.
+Quando você incluir esse link, os clientes poderão ver rapidamente mais sobre sua organização por meio da plataforma do LinkedIn.
 
--   Palavras-chave que os clientes inserem para pesquisar têm maior importância. Inclua palavras-chave que descrevam com precisão suas ofertas comerciais, bem como terminologia do setor que os clientes possam usar para procurar por soluções.
+Se você ainda não tiver uma página de empresa no LinkedIn, você pode [criá-la agora](https://www.linkedin.com/company-beta/setup/new/).
 
-## <a name="ten-tips-for-a-great-profile"></a>Dez dicas para um ótimo perfil
+### <a name="partner-expertise"></a>Competência do parceiro
 
+As ferramentas de pesquisa do cliente procuram por marcas de experiência. Ao ajustar seu perfil para obter visibilidade, vale a pena passar algum tempo aqui para as otimizar.
 
-1.  **Conheça seu público** Escreva como se você estivesse falando com o cliente, não para sua equipe interna ou para a Microsoft.
+Comece adicionando suas próprias marcas para a seção de competência do parceiro. Você pode adicionar as marcas: 
 
-2.  **Crie uma primeira frase de impacto** Se um cliente não enxergar que você tem as habilidades e os conhecimentos necessários para atender às suas necessidades na primeira ou na segunda sentença, ele procurará pelo próximo parceiro nos resultados da pesquisa.
+*  **Marcas de foco do setor**. Até 5 setores
+*  **Produtos**. Limitado a produtos da Microsoft
+*  **Tipo de serviço** 
+*  **Recursos, habilidades e soluções**. Essas marcas são de forma livre e fornecem a você a capacidade de adicionar palavras-chave de pesquisa exclusivas para seus recursos.
 
-3.  **Seja conciso** As pessoas não leem online, elas passam os olhos. Seja claro e sucinto ao declarar informações reais sobre suas habilidades e seus conhecimentos. Menos é mais.
+Outras marcas usadas em pesquisa:
+*  **[Marcas de competência](https://partner.microsoft.com/membership/competencies)** são uma designação acumulada apresentando funcionalidades da sua empresa.
+*  **Marcas de endosso** são obtidas quando a Microsoft ou seus clientes que trabalharam com você endossam seu trabalho.
 
-4.  **Inclua palavras-chave relevantes** A integração de palavras-chave é a primeira coisa que você pode fazer para otimizar seu perfil para nosso site de pesquisa e mecanismos de pesquisa. As palavras-chave podem ser nomes de produtos da Microsoft, necessidades comerciais, tendências do setor e canais de mercado específicos.
+#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Permitir que a Microsoft endosse minhas áreas de conhecimento
 
-5.  **Mostre que você sabe do que os clientes precisam** Concentre-se nos termos que agregam valor e nos benefícios de sua oferta para o cliente, em vez de processos ou recursos de software.
+Conforme demonstra sucesso com os clientes por meio do Partner Center, ou através da participação em outras certificações da Microsoft ou programas, adicionaremos automaticamente autenticações para seus produtos específicos, serviços e setores contribuindo para esse sucesso. Autenticações são um fator importante nos resultados da pesquisa.
 
-6.  **Use a linguagem ativa** Use enunciados com verbos e ações. Evite linguagem passiva, como "temos fornecido experiência …"
+É recomendável deixar essa configuração marcada. No entanto, se houver produtos para os quais você fornece serviços é melhor não mostrá-los em seu perfil, você pode desmarcar essa caixa de seleção e gerenciar seu perfil manualmente. Essas autenticações ficarão ocultas na sua exibição de clientes, mas você pode adicioná-las ao seu perfil posteriormente a qualquer momento.
 
-7.  **Use marcadores** Quebre informações sequenciadas (a, b, c, d, etc.) em listas com marcadores para facilitar a leitura.
+### <a name="customer-preferences"></a>Preferências do cliente
 
-8.  **Evite jargão** Use linguagem simples do dia a dia, mesmo se você estiver descrevendo algo muito técnico.
+#### <a href="" id="#target_size"></a>Tamanho do alvo
 
-9.  **Seja claro** Evite nomes inteligentes ou fictícios para seus aplicativos ou serviços. Nomeie suas ofertas de acordo com o que elas fazem — a necessidade comercial à qual atendem, a tarefa ou o objetivo que elas ajudam os clientes a alcançar.
+Para ajudar a refinar os tipos de referências que você recebe, você pode adicionar uma preferência para que só funcionem com empresas de alguns tamanhos. Adicionando essas preferências, você optará por recusar indicações de empresas de outros tamanhos.
 
-10. **Mantenha seu perfil atualizado** Mantenha seu perfil em sincronia com a presença de sua empresa na Web. Com cada lançamento de software ou serviço, atualize o perfil e o site, garantindo uma experiência perfeita ao cliente.
+Resultados de pesquisa de cliente usam a capacidade de resposta da sua empresa como um fator. Para ajudá-lo a melhorar sua visibilidade de pesquisas futuras, responda rapidamente às solicitações de cliente.
+
+Recusar as inscrições geradas por empresas que não atendem a seu tamanho de cliente de destino ajudará seus esforços a serem mais responsivos em geral.
+
+### <a href="" id="#locations"></a> Locais
+
+Você pode adicionar até 5 localizações por região. Esses locais aparecem quando os clientes pesquisam por parceiros por proximidade. 
+
+Indica locais que são locais oficiais da empresa e podem ser validados. Selecionar locais que são centrais para os mercados que você serve, e representar melhor a capacidade da sua empresa ao atender.
+
+## <a name="improve-the-visibility-of-your-profile"></a>Melhorar a visibilidade de seu perfil 
+
+*  **[Responder rapidamente às solicitações](responding-to-referrals.md)**. Quando você receber uma referência de cliente, uma resposta mais rápida pode levar a resultados melhores nas páginas de pesquisa para clientes futuros.
+*  **Ser seletivo com suas marcas**.  É melhor ter menos marcas que representam melhor ofertas da sua empresa, soluções, propostas de valor e posição exclusiva onde você pode demonstrar consistentemente sucesso.  Que trará benefícios em futuros resultados de pesquisa.
+*  **Ganhe [marcas de competência](https://partner.microsoft.com/membership/competencies)** por meio da Microsoft para demonstrar suas habilidades em nossos produtos.
+*  **Ganhe marcas de endosso** de clientes que apreciam seu trabalho.
 
 ## <a name="related-topics"></a>Tópicos relacionados
-
-
-[Transição do Pinpoint para o Partner Center](importing-pinpoint-profiles-into-partner-center.md)
-
- 
-
- 
-
-
-
+[Respondendo a indicações](responding-to-referrals.md)

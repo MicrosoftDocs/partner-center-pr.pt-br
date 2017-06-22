@@ -4,8 +4,9 @@ description: "Este tópico explica o que você deve esperar ver em sua fatura de
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 ms.openlocfilehash: 5ac69f33ca78be1eca2af439a48d6d0904a4cfc5
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.sourcegitcommit: b7bc0c63a98c458fb19e16c73c47ad80e2ce9429
+ms.translationtype: HT
+ms.contentlocale: pt-BR
 ---
 # <a name="common-billing-scenarios"></a>Cenários comuns de cobrança
 
