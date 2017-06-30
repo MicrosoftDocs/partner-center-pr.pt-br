@@ -3,11 +3,11 @@ title: Criar um perfil de marketing | Partner Center
 description: Atraia mais clientes em potencial, criando um perfil de marketing no Partner Center.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: 04e436d61636b0f47683f3ac9644484bb8bfe3d7
-ms.sourcegitcommit: 9aa0f56faca663a2cac715dd1795abf137acdf5c
+ms.openlocfilehash: 873963b3d29ff1ebf41e6aee9b8d1faebde7ec09
+ms.sourcegitcommit: 311c8477ab86bcbe742f0a7b2a41f67b0c5c72df
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/06/2017
+ms.lasthandoff: 06/12/2017
 ---
 # <a name="create-a-marketing-profile"></a>Criar um perfil de marketing
 
@@ -22,7 +22,7 @@ A Microsoft emprega milhões de clientes todos os anos por meio de marketing, ve
 Como a primeira etapa para obter esses clientes em potencial, crie um perfil de marketing. Vamos mostrar seu perfil aos clientes que estiverem procurando por parceiros que podem ajudá-los a implementar produtos da Microsoft e soluções, por meio de:
 
 *  **A experiência de busca [Localizar um parceiro](https://partnercenter.microsoft.com/pcv/search)**. Os clientes em potencial podem pesquisar listas de parceiros por conta própria para localizar os parceiros que atendem aos seus critérios de pesquisa. 
-*  **Referências de vendas da Microsoft e funcionários de serviço**. Os clientes em potencial interessados na implantação de soluções de tecnologia baseada em nuvem contatam a Microsoft para ajudar a encontrar profissionais que podem atender às suas necessidades de negócios. Esses profissionais da Microsoft podem, em seguida, consultar os clientes em potencial para sua empresa.
+*  **Referências de vendas da Microsoft e funcionários de serviço**. Os clientes em potencial interessados na implantação de soluções de tecnologia com base em nuvem entram em contato com a Microsoft para ajudar a encontrar profissionais que podem atender às suas necessidades de negócios. Esses profissionais da Microsoft podem, em seguida, consultar os clientes em potencial para sua empresa.
 
 ## <a name="create-a-profile"></a>Criar um perfil
 
@@ -30,7 +30,7 @@ Crie um perfil para cada país que onde você está autorizado a fazer negócios
 
 1.  Em [Partner Center](http://go.microsoft.com/fwlink/p/?LinkId=808956), no menu **Painel**, selecione **Indicações** &gt; **Perfis de Marketing** &gt; **[Adicionar um perfil de marketing](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-2.    Na página **Criar um perfil de marketing**, selecione uma região e insira suas informações de perfil, incluindo as seções de informações e competência do parceiro.
+2.  Na página **Criar um perfil de marketing**, selecione uma região e insira suas informações de perfil, incluindo as seções de informações e competência do parceiro.
 
     Mais tarde, depois de concluir seu primeiro perfil, você poderá criar perfis adicionais com base nesta compilação, selecionando **Cópia de um perfil existente**.
 
@@ -77,17 +77,15 @@ Outras marcas usadas em pesquisa:
 
 Conforme demonstra sucesso com os clientes por meio do Partner Center, ou através da participação em outras certificações da Microsoft ou programas, adicionaremos automaticamente autenticações para seus produtos específicos, serviços e setores contribuindo para esse sucesso. Autenticações são um fator importante nos resultados da pesquisa.
 
-É recomendável deixar essa configuração marcada. No entanto, se houver produtos para os quais você fornece serviços é melhor não mostrá-los em seu perfil, você pode desmarcar essa caixa de seleção e gerenciar seu perfil manualmente. Essas autenticações ficarão ocultas na sua exibição de clientes, mas você pode adicioná-las ao seu perfil posteriormente a qualquer momento.
+É recomendável deixar essa configuração marcada. No entanto, se existirem produtos para os quais você fornece serviços e que não deseja mostrá-los em seu perfil, é possível desmarcar essa caixa de seleção e gerenciar seu perfil manualmente. Essas autenticações ficarão ocultas na sua exibição de clientes, mas você pode adicioná-las ao seu perfil posteriormente a qualquer momento.
 
 ### <a name="customer-preferences"></a>Preferências do cliente
 
 #### <a href="" id="#target_size"></a>Tamanho do alvo
 
-Para ajudar a refinar os tipos de referências que você recebe, você pode adicionar uma preferência para que só funcionem com empresas de alguns tamanhos. Adicionando essas preferências, você optará por recusar indicações de empresas de outros tamanhos.
+Você pode recusar as indicações geradas por empresas que não atendem ao porte do cliente de destino.
 
-Resultados de pesquisa de cliente usam a capacidade de resposta da sua empresa como um fator. Para ajudá-lo a melhorar sua visibilidade de pesquisas futuras, responda rapidamente às solicitações de cliente.
-
-Recusar as inscrições geradas por empresas que não atendem a seu tamanho de cliente de destino ajudará seus esforços a serem mais responsivos em geral.
+Ao recusá-las, você terá mais tempo para fornecer serviços às empresas compatíveis com sua proposta de trabalho.
 
 ### <a href="" id="#locations"></a> Locais
 

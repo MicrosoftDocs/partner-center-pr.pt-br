@@ -3,11 +3,11 @@ title: "Criar contas de usuário e definir permissões | Partner Center"
 description: "O administrador cria uma conta de usuário para cada funcionário de parceiro que precise acessar o Partner Center."
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-ms.openlocfilehash: 920f4590f94fbcc382286b206b532fcb204166be
-ms.sourcegitcommit: b8146a4a959ef26efc09ead1788ff5e264ae121e
+ms.openlocfilehash: 842071dad94251ee498c9dee3e8b689e2e036485
+ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/25/2017
+ms.lasthandoff: 06/19/2017
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Criar contas de usuário e atribuir permissões
 
@@ -65,6 +65,8 @@ A tabela a seguir explica o que cada função pode fazer no Partner Center.
 <td><p><strong>Agente administrador</strong></p></td>
 <td><ul>
 <li><p>Gerenciamento de clientes</p></li>
+<li><p>Adicionar lista de dispositivos ao Partner Center</p></li>
+<p><li>Criar e aplicar perfis aos dispositivos</p></li>
 <li><p>Gerenciamento de assinaturas</p></li>
 <li><p>Solicitações de integridade e serviços para clientes</p></li>
 <li><p>Solicitar privilégios de administrador</p></li>
@@ -82,6 +84,7 @@ A tabela a seguir explica o que cada função pode fazer no Partner Center.
 <td><p><strong>Agente de vendas</strong></p></td>
 <td><ul>
 <li><p>Gerenciamento de clientes</p></li>
+<li><p>Adicionar lista de dispositivos ao Partner Center</p></li>
 <li><p>Gerenciamento de assinaturas</p></li>
 <li><p>Exibir tíquetes de suporte</p></li>
 <li><p>Solicitar uma relação com um cliente</p></li>
