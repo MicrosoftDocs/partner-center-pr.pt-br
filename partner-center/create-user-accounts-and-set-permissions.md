@@ -3,11 +3,11 @@ title: "Criar contas de usuário e definir permissões | Partner Center"
 description: "O administrador cria uma conta de usuário para cada funcionário de parceiro que precise acessar o Partner Center."
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-ms.openlocfilehash: 842071dad94251ee498c9dee3e8b689e2e036485
-ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
+ms.openlocfilehash: bc699214c7919c7cff9788144d472063ba60ad10
+ms.sourcegitcommit: 4a1cd51e5986f47badcde9412a7c7b22718500f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/19/2017
+ms.lasthandoff: 06/26/2017
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Criar contas de usuário e atribuir permissões
 
@@ -32,7 +32,7 @@ Criar contas de usuário para os funcionários que precisam acessar o Partner Ce
 >**Importante**<br>
 Anote as novas informações de login do usuário exibidas nessa página. Certifique-se de copiar e enviar essas informações para o novo usuário, pois você não conseguirá acessá-las novamente mais tarde. <br>
 
->O usuário precisará fazer logon no Partner Center com seu nome de usuário e senha temporários. Quando o usuário entrar no Partner Center pela primeira vez, ele precisará alterar sua senha.    
+>O usuário precisará entrar no Partner Center com seu nome de usuário e senha temporária. Quando o usuário entrar no Partner Center pela primeira vez, ele precisará alterar sua senha.    
 
 
 ### <a href="" id="assignuserpermissions"></a>Atribuir permissões de usuário
@@ -44,6 +44,9 @@ Para cada usuário, você deve selecionar dois níveis de permissão:
 -   Permissões de agente controlam que tipo de dados de cliente e informações de conta o usuário pode ver e alterar.
 
 -   Permissões de administrador controlam o nível de acesso do usuário aos recursos do Partner Center. Essa configuração tem impacto fora do Partner Center, pois um Administrador de cobrança poderá acessar as listas de todos os serviços Microsoft (mesmo aqueles não relacionados a CSP) e um Administrador global poderá acessar contas de usuário e contas de clientes além do CSP.
+
+##<a name="assign-permissions-for-incentives-users"></a>Atribuir permissões para os usuários de incentivos
+Quando você configura seus usuários de incentivos, você pode oferecer a eles a função de administrador de incentivos ou de usuário de incentivos.  O administrador de incentivos pode editar informações bancárias e fiscais, fazer requerimentos de pagamento à Microsoft, bem como gerenciar usuários de incentivos. Os usuários de incentivos podem examinar programas, informações bancárias e fiscais, mas não podem editá-las. Muitas vezes, eles oferecem os programas de incentivos aos clientes. Os usuários e administradores de incentivos podem ter outras funções no Partner Center para a sua organização, mas para trabalhar em programas de incentivos, um usuário deve ser administrador ou usuário de incentivos.
 
 >**Importante** A configuração padrão deve ser sempre **Nenhum administrador**, a menos que a função do usuário exija acesso adicional para concluir as tarefas e dar suporte aos clientes.
 
@@ -148,6 +151,23 @@ A tabela a seguir explica o que cada função pode fazer no Partner Center.
 <td><ul>
 <li><p>Exibir, criar e gerenciar usuários</p></li>
 <li><p>Exibir todos os perfis de parceiros</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>Administrador de incentivos</strong></p></td>
+<td><ul>
+<li><p>Exibir e gerenciar todos os programas de incentivos</p></li>
+<li><p>Editar perfis bancários e fiscais para programas de incentivos</p></li>
+<LI><p>Gerenciar usuários de incentivos</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Usuário de incentivos</strong></p></td>
+<td><ul>
+<li><p>Exibir programas de incentivos</p></li>
+<li><p>Exibir perfis bancários e fiscais</p></li>
 </ul></td>
 <td></td>
 </tr>

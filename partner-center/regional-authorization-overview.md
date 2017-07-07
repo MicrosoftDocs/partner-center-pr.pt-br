@@ -3,11 +3,11 @@ title: "Autorização regional do CSP | Partner Center"
 description: "Com a autorização regional, os parceiros com empresas internacionais agora podem gerenciar mais facilmente clientes em diferentes regiões e países do mundo todo."
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
-ms.openlocfilehash: f79c2f0a56f88faf554543fa2bb0a0ab504e0614
-ms.sourcegitcommit: a905afc18ffc20e3469933fa005336f1e9b520f4
+ms.openlocfilehash: 71beef8899e292bec99fc803ad8aa2cd0ac4b4dc
+ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/07/2017
+ms.lasthandoff: 06/28/2017
 ---
 # <a name="csp-regional-authorization"></a>Autorização regional do CSP
 
@@ -189,7 +189,7 @@ Sua localização geográfica determina a moeda na qual você será cobrado, con
 
 | Moeda | País |
 | ---- | ---- |
-| USD | Albânia, Anguila, Antígua e Barbuda, Argentina, Armênia, Aruba, Azerbaijão, Bahamas, Bahrein, Bangladesh, Barbados, Belarus, Belize, Benin, Bermuda, Bolívia, Bonaire, Brasil, Brunei, Burundi, Camarões, Ilhas Cayman, Chile, Colômbia, Comores, Costa Rica, Curaçao, República Dominicana, Equador, Egito, El Salvador, Fiji, Guiana Francesa, Polinésia Francesa, Geórgia, Gana, Guatemala, Honduras, RAE de Hong Kong, Indonésia, Iraque, Israel, Jamaica, Cazaquistão, Quênia, Kuwait, Quirguistão, Líbano, RAE de Macau, Madagascar, Malaui, Malásia, Mali, Maurício, Mayotte, México, Marrocos, Namíbia, Nova Caledônia, Nicarágua, Nigéria, Omã, Paquistão, Panamá, Paraguai, Peru, Filipinas, Porto Rico, Catar, Reunião, Ruanda, Santa Lúcia, Saint Martin, São Vicente e Granadinas, Arábia Saudita, Sérvia, Seicheles, Cingapura, Saint Maarten, África do Sul, Sri Lanka, Suriname, Tanzânia, Tailândia, Timor-Leste, Togo, Trinidade e Tobago, Tunísia, Turquia, Ilhas Turks e Caicos, Ilhas Virgens Americanas, Ucrânia, Emirados Árabes Unidos, Estados Unidos, Uruguai, Venezuela, Vietnã  | 
+| USD | Albânia, Anguilla, Antígua e Barbuda, Argentina, Armênia, Aruba, Azerbaijão, Bahamas, Bahrein, Bangladesh, Barbados, Belarus, Belize, Benin, Bermuda, Bolívia, Bonaire, Brasil, Brunei, Burundi, Camarões, Ilhas Cayman, Chile, Colômbia, Comores, Costa Rica, Curaçao, República Dominicana, Equador, Egito, El Salvador, Guiana Francesa, Polinésia Francesa, Geórgia, Gana, Guatemala, Honduras, RAE de Hong Kong, Indonésia, Iraque, Israel, Jamaica, Cazaquistão, Quênia, Kuwait, Quirguistão, Líbano, RAE de Macau, Madagascar, Malaui, Malásia, Mali, Maurício, Mayotte, México, Marrocos, Namíbia, Nova Caledônia, Nicarágua, Nigéria, Omã, Paquistão, Panamá, Paraguai, Peru, Filipinas, Porto Rico, Catar, Reunião, Ruanda, Santa Lúcia, Saint Martin, São Vicente e Granadinas, Arábia Saudita, Sérvia, Seicheles, Cingapura, Sint Maarten, África do Sul, Sri Lanka, Suriname, Tanzânia, Tailândia, Timor-Leste, Togo, Trinidade e Tobago, Tunísia, Turquia, Ilhas Turks e Caicos, Ilhas Virgens Americanas, Ucrânia, Emirados Árabes Unidos, Estados Unidos, Uruguai, Venezuela, Vietnã  | 
 | TWD | Taiwan |
 | SEK | Suécia |
 | INR | Índia |
@@ -203,7 +203,7 @@ Sua localização geográfica determina a moeda na qual você será cobrado, con
 | DKK | Dinamarca |
 | CHF | Suíça |
 | CAD | Canadá |
-| AUD | Austrália, Ilhas Marshall, Papua Nova-Guiné, Tonga |
+| AUD | Austrália, Fiji, Ilhas Marshall, Papua Nova-Guiné, Tonga |
 
 
  

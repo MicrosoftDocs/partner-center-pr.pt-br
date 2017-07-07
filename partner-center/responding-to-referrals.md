@@ -3,11 +3,11 @@ title: "Respondendo a indicações | Partner Center"
 description: "Avaliar, negociar e responder a indicações por meio do Partner Center."
 author: KPacquer
 keywords: "referência, RFI, localizar um parceiro"
-ms.openlocfilehash: ec859a9cac94b3e4b3571ba95e2acc0de9a842b1
-ms.sourcegitcommit: 5216c9d8a5aa1cbe825cefe27d35e3f380fa90b4
+ms.openlocfilehash: 4172cc60825d445aa9b119780d22002c6c2ea189
+ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2017
+ms.lasthandoff: 06/28/2017
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>Respondendo a indicações no Partner Center
 
@@ -23,7 +23,7 @@ Iniciar configurando um [perfil de marketing](create-a-marketing-profile.md) par
 
 *  Atividades de marketing da Microsoft
 *  Vendas internas e agentes de serviço da Microsoft
-*  Pesquisas de cliente, usando a ferramenta **Localizar um parceiro**.
+*  Pesquisas de clientes, usando a ferramenta **[Localizar um parceiro](https://partnercenter.microsoft.com/pcv/search)**.
 
 Quando um cliente está interessado em contatar você, ele vai enviar uma solicitação de informações (RFI). 
 

@@ -3,12 +3,21 @@ title: Criar um perfil de marketing | Partner Center
 description: Atraia mais clientes em potencial, criando um perfil de marketing no Partner Center.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: 873963b3d29ff1ebf41e6aee9b8d1faebde7ec09
-ms.sourcegitcommit: 311c8477ab86bcbe742f0a7b2a41f67b0c5c72df
+ms.openlocfilehash: 5b680c5e547f237951085ba619f62d818d612e54
+ms.sourcegitcommit: b6b3c66694cd631a1141d10348e4e063189a7131
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/12/2017
+ms.lasthandoff: 07/01/2017
 ---
+<!--
+FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
+FWLink2: https://go.microsoft.com/fwlink/?linkid=848635: Top of page (duplicate)
+FWLink3: https://go.microsoft.com/fwlink/?linkid=847631: #allow_us_to_endorse_areas_of_expertise
+FWLink4: https://go.microsoft.com/fwlink/?linkid=848063: #customer-preferences
+FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
+ -->
+
+
 # <a name="create-a-marketing-profile"></a>Criar um perfil de marketing
 
 **Aplicável a**
@@ -24,15 +33,19 @@ Como a primeira etapa para obter esses clientes em potencial, crie um perfil de 
 *  **A experiência de busca [Localizar um parceiro](https://partnercenter.microsoft.com/pcv/search)**. Os clientes em potencial podem pesquisar listas de parceiros por conta própria para localizar os parceiros que atendem aos seus critérios de pesquisa. 
 *  **Referências de vendas da Microsoft e funcionários de serviço**. Os clientes em potencial interessados na implantação de soluções de tecnologia com base em nuvem entram em contato com a Microsoft para ajudar a encontrar profissionais que podem atender às suas necessidades de negócios. Esses profissionais da Microsoft podem, em seguida, consultar os clientes em potencial para sua empresa.
 
+**Usuários do Pinpoint, C2PC e Sales Connect**: estamos incorporando essas ferramentas ao Partner Center. Se você usou essas ferramentas no passado, crie um novo perfil de marketing no Partner Center para continuar a gerar e gerenciar suas oportunidades de vendas. Observe que, no momento, não é possível importar perfis dos sites anteriores. 
+
 ## <a name="create-a-profile"></a>Criar um perfil
 
-Crie um perfil para cada país que onde você está autorizado a fazer negócios.
+Crie um perfil para cada região onde você está autorizado a fazer negócios. 
 
-1.  Em [Partner Center](http://go.microsoft.com/fwlink/p/?LinkId=808956), no menu **Painel**, selecione **Indicações** &gt; **Perfis de Marketing** &gt; **[Adicionar um perfil de marketing](https://partnercenter.microsoft.com/pcv/publishing)**.
+1.  Entre no [Partner Center](http://go.microsoft.com/fwlink/p/?LinkId=808956) usando uma [conta de administrador global ou de agente administrador](create-user-accounts-and-set-permissions.md).
 
-2.  Na página **Criar um perfil de marketing**, selecione uma região e insira suas informações de perfil, incluindo as seções de informações e competência do parceiro.
+2.  No menu **Painel**, selecione **Indicações** &gt; **Perfis de Marketing** &gt; **[Adicionar um perfil de marketing](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-    Mais tarde, depois de concluir seu primeiro perfil, você poderá criar perfis adicionais com base nesta compilação, selecionando **Cópia de um perfil existente**.
+3.  Na página **Criar um perfil de marketing**, selecione uma região e insira suas informações de perfil, incluindo as seções de informações e competência do parceiro.
+    
+    Observe que, apesar do Partner Center oferecer suporte a vários idiomas, alguns elementos como a descrição e as marcas de forma livre talvez precisem incluir texto de idiomas diferentes, como indicado neste tópico.
 
 ### <a href="" id="partner_info"></a>Informações do parceiro
 
@@ -49,8 +62,9 @@ Sua descrição pode ter até 1000 caracteres. Dicas para uma ótima descrição
 *  **Não se preocupe em encher a descrição com palavras-chave de pesquisa**. Os clientes buscam por ferramentas de pesquisa por palavras-chave geradas na seção de experiência do parceiro, não na descrição.
 *  **Mantenha seu perfil atualizado**. Com cada lançamento de software ou serviço, atualize seu perfil, mantendo-o em sincronia com o site da sua empresa.
 *  **Não faça referência a outra empresa parceira da Microsoft pelo nome**, a menos que ela seja uma subsidiária ou afiliada de alguma forma à sua empresa ou que você atualmente tenha um contrato com essa empresa para atuar em parceria e/ou promover uma a outra para oportunidades de trabalho compartilhado.
+*  **Para regiões com vários idiomas**, considere a inclusão de texto de vários idiomas na descrição.
 
-#### <a href="" id="linkedin"></a> Página no LinkedIn de empresa: mais maneiras de se conectar
+#### <a href="" id="linkedin"></a> Página da empresa no LinkedIn: mais maneiras de se conectar
 
 Adicione sua página de empresa do LinkedIn para fortalecer suas conexões de clientes em potencial. 
 
@@ -70,7 +84,7 @@ Comece adicionando suas próprias marcas para a seção de competência do parce
 *  **Recursos, habilidades e soluções**. Essas marcas são de forma livre e fornecem a você a capacidade de adicionar palavras-chave de pesquisa exclusivas para seus recursos.
 
 Outras marcas usadas em pesquisa:
-*  **[Marcas de competência](https://partner.microsoft.com/membership/competencies)** são uma designação acumulada apresentando funcionalidades da sua empresa.
+*  **Marcas de competência** são uma designação obtida através da apresentação das habilidades da sua empresa.
 *  **Marcas de endosso** são obtidas quando a Microsoft ou seus clientes que trabalharam com você endossam seu trabalho.
 
 #### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Permitir que a Microsoft endosse minhas áreas de conhecimento
@@ -91,13 +105,19 @@ Ao recusá-las, você terá mais tempo para fornecer serviços às empresas comp
 
 Você pode adicionar até 5 localizações por região. Esses locais aparecem quando os clientes pesquisam por parceiros por proximidade. 
 
-Indica locais que são locais oficiais da empresa e podem ser validados. Selecionar locais que são centrais para os mercados que você serve, e representar melhor a capacidade da sua empresa ao atender.
+Indica locais que são locais oficiais da empresa e podem ser validados. Selecione locais que sejam centrais para os mercados que você serve, e que melhor representem a capacidade de atendimento de sua empresa.
 
-## <a name="improve-the-visibility-of-your-profile"></a>Melhorar a visibilidade de seu perfil 
+Cada local que você adiciona se torna uma página de perfil separada. Quando atualizar páginas de perfil, lembre-se de atualizá-las para cada local.
+
+## <a name="review-your-profile"></a>Revise seu perfil
+
+Depois que você publicar o seu perfil, as atualizações aparecerão nas pesquisas [Encontrar Parceiro](https://partnercenter.microsoft.com/pcv/search) dentro de 24 horas. 
+
+## <a name="improve-the-visibility-of-your-profile"></a>Melhorar a visibilidade do seu perfil 
 
 *  **[Responder rapidamente às solicitações](responding-to-referrals.md)**. Quando você receber uma referência de cliente, uma resposta mais rápida pode levar a resultados melhores nas páginas de pesquisa para clientes futuros.
 *  **Ser seletivo com suas marcas**.  É melhor ter menos marcas que representam melhor ofertas da sua empresa, soluções, propostas de valor e posição exclusiva onde você pode demonstrar consistentemente sucesso.  Que trará benefícios em futuros resultados de pesquisa.
-*  **Ganhe [marcas de competência](https://partner.microsoft.com/membership/competencies)** por meio da Microsoft para demonstrar suas habilidades em nossos produtos.
+*  **Obtenha tags de competência** por meio da Microsoft para demonstrar suas habilidades em nossos produtos.
 *  **Ganhe marcas de endosso** de clientes que apreciam seu trabalho.
 
 ## <a name="related-topics"></a>Tópicos relacionados
