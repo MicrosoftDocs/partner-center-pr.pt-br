@@ -1,38 +1,51 @@
 ---
 title: Trabalhar com outros parceiros | Partner Center
-description: "Um dos benefícios do programa Provedor de Soluções na Nuvem é que ele permite que os parceiros gerenciem a relação com o cliente de ponta a ponta."
-ms.assetid: 28AA1E57-5A1E-445C-9D5D-762428CDC8E5
+description: "Trabalhe com outros parceiros no CSP para atender às necessidades dos clientes que você compartilha."
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: c98b3a723f0bb43607902c40b1af1ee2360202b6
-
+ms.openlocfilehash: 04c5c4c9c9add663865add92bbcc527169ec44a8
+ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.translationtype: HT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 06/09/2017
 ---
+# <a name="work-with-other-partners"></a><span data-ttu-id="48123-103">Trabalhar com outros parceiros</span><span class="sxs-lookup"><span data-stu-id="48123-103">Work with other partners</span></span>
 
-# Trabalhar com outros parceiros
+**<span data-ttu-id="48123-104">Aplicável a</span><span class="sxs-lookup"><span data-stu-id="48123-104">Applies to</span></span>**
 
-**Aplicável a**
+-  <span data-ttu-id="48123-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="48123-105">Partner Center</span></span>
 
--  Partner Center
--  Partner Center do Microsoft Cloud Germany
+<span data-ttu-id="48123-106">O programa Provedor de Soluções na Nuvem (CSP) da Microsoft oferece oportunidades para parceiros trabalharem juntos dessas maneiras.</span><span class="sxs-lookup"><span data-stu-id="48123-106">Microsoft’s Cloud Solution Provider (CSP) program offers opportunities for partners to work together in these ways.</span></span>
 
-Um dos benefícios do programa Provedor de Soluções na Nuvem é que ele permite que os parceiros gerenciem a relação com o cliente de ponta a ponta. No entanto, muitos clientes já tem assinaturas para produtos da Microsoft. Outros funcionam com vários parceiros especializados em diferentes serviços ou produtos. Como um parceiro no programa CSP, você ainda poderá trabalhar com esses clientes usando o suporte a vários canais e vários parceiros no Partner Center.
+## <a name="indirect-provider-indirect-reseller-model"></a><span data-ttu-id="48123-107">Modelo de revenda indireta com fornecedor indireto</span><span class="sxs-lookup"><span data-stu-id="48123-107">Indirect provider-indirect reseller model</span></span>
 
-[Vários parceiros](multipartner.md)
+<span data-ttu-id="48123-108">Neste modelo, também conhecido como o modelo bipartido, os fornecedores indiretos e revendedores indiretos trabalham juntos para vender serviços baseados em nuvem da Microsoft a organizações em múltiplos locais e indústrias.</span><span class="sxs-lookup"><span data-stu-id="48123-108">In this model, also known as the two-tier model, indirect providers and indirect resellers work together to sell Microsoft cloud-based services to organizations in multiple locales, verticals, and industries.</span></span> 
 
-[Vários canais](multichannel.md)
+### <a name="indirect-providers"></a><span data-ttu-id="48123-109">Fornecedores indiretos</span><span class="sxs-lookup"><span data-stu-id="48123-109">Indirect providers</span></span> 
 
-[Solicitar uma relação com um cliente](request-a-relationship-with-a-customer.md)
+<span data-ttu-id="48123-110">Fornecedores indiretos (também conhecidos como distribuidores) compram produtos e inscrições diretamente da Microsoft e depois oferecem essas soluções aos clientes por meio dos revendedores.</span><span class="sxs-lookup"><span data-stu-id="48123-110">Indirect providers (also known as distributors) purchase products and subscriptions directly from Microsoft and then offer these solutions to customers through resellers.</span></span> <span data-ttu-id="48123-111">Trabalhar com revendedores indiretos permite que os fornecedores expandam sua busca e base de clientes.</span><span class="sxs-lookup"><span data-stu-id="48123-111">Working with indirect resellers allows providers to expand their reach and customer base.</span></span> 
 
- 
+<span data-ttu-id="48123-112">Se você for um fornecedor indireto aprovado no CSP, consulte [Parceiro com revendedores indiretos no CSP](indirect-provider-tasks-in-partner-center.md) para saber mais sobre como conectar com revendedores indiretos e clientes.</span><span class="sxs-lookup"><span data-stu-id="48123-112">If you're an approved indirect provider in CSP, see [Partner with indirect resellers in CSP](indirect-provider-tasks-in-partner-center.md) to learn more about connecting with indirect resellers and customers.</span></span> 
 
- 
+### <a name="indirect-resellers"></a><span data-ttu-id="48123-113">Revendedores indiretos</span><span class="sxs-lookup"><span data-stu-id="48123-113">Indirect resellers</span></span> 
 
+<span data-ttu-id="48123-114">Revendedores indiretos trabalham com fornecedores indiretos que têm uma relação direta com a Microsoft e infraestrutura para fornecer suporte ao cliente e cobrança.</span><span class="sxs-lookup"><span data-stu-id="48123-114">Indirect resellers work with indirect providers, who have a direct relationship with Microsoft and have the infrastructure to provide customer support and billing.</span></span> <span data-ttu-id="48123-115">A parceria com fornecedores indiretos permite que os vendedores indiretos trabalhem com fornecedores de tecnologia experientes para ir ao mercado sem ter de fazer um grande investimento de capital, e para oferecer um portfólio mais amplo de soluções da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="48123-115">Partnering with indirect providers allows indirect resellers to work with experienced technology providers to go to market without having to make a large capital investment, and to offer a broader portfolio of Microsoft solutions.</span></span> 
 
+<span data-ttu-id="48123-116">Se você for um revendedor indireto ou se estiver interessado em se inscrever no CSP como um, consulte [Parceria com fornecedores indiretos no CSP](indirect-reseller-tasks-in-partner-center.md) para saber mais sobre como conectar-se com fornecedores indiretos e clientes.</span><span class="sxs-lookup"><span data-stu-id="48123-116">If you're an indirect reseller or if you're interested in enrolling in CSP as an indirect reseller, see [Partner with indirect providers in CSP](indirect-reseller-tasks-in-partner-center.md) to learn more about connecting with indirect providers and customers.</span></span>
 
+<span data-ttu-id="48123-117">Não tem certeza se deseja se inscrever no CSP como um revendedor indireto ou um parceiro direto?</span><span class="sxs-lookup"><span data-stu-id="48123-117">Not sure whether to enroll in CSP as an indirect reseller or as a direct partner?</span></span> <span data-ttu-id="48123-118">Consulte [Explorar o modelo indireto](https://partner.microsoft.com/cloud-solution-provider/indirect) no [Site do Microsoft Partner Network](https://partner.microsoft.com).</span><span class="sxs-lookup"><span data-stu-id="48123-118">See [Explore the indirect model](https://partner.microsoft.com/cloud-solution-provider/indirect) on the [Microsoft Partner Network website](https://partner.microsoft.com).</span></span>   
 
+## <a name="multi-partner-support"></a><span data-ttu-id="48123-119">Suporte multi-parceiro</span><span class="sxs-lookup"><span data-stu-id="48123-119">Multi-partner support</span></span>
 
+<span data-ttu-id="48123-120">O recurso de multi-parceiro do Partner Center oferece suporte a cenários quando um cliente precisa trabalhar com mais de um parceiro.</span><span class="sxs-lookup"><span data-stu-id="48123-120">Partner Center’s multi-partner feature supports scenarios when a customer needs to work with more than one partner.</span></span> <span data-ttu-id="48123-121">Por exemplo, eles podem querer contratar um parceiro por sua experiência em Office 365, mas também contratar um parceiro diferente especializado no Microsoft Azure.</span><span class="sxs-lookup"><span data-stu-id="48123-121">For example, they may want to hire one partner for their expertise in Office 365, but also hire a different partner who specializes in Microsoft Azure.</span></span> <span data-ttu-id="48123-122">Consulte [Suporte ao multi-parceiro](multipartner.md) para obter mais informações.</span><span class="sxs-lookup"><span data-stu-id="48123-122">See [Multi-partner support](multipartner.md) for more information.</span></span>
 
-<!--HONumber=Jan17_HO2-->
+<span data-ttu-id="48123-123">Suporte ao multi-parceiro também está disponível nas ofertas de nuvem nacionais da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="48123-123">Multi-partner support is also available in Microsoft's national cloud offerings.</span></span> 
 
+## <a name="multi-channel-support"></a><span data-ttu-id="48123-124">Suporte multi-canal</span><span class="sxs-lookup"><span data-stu-id="48123-124">Multi-channel support</span></span>
+
+<span data-ttu-id="48123-125">O recurso de multi-canal do Partner Center oferece suporte a cenários quando um cliente deseja contratar um parceiro para provisionar e ajudar em uma inscrição que eles compraram em outro lugar.</span><span class="sxs-lookup"><span data-stu-id="48123-125">Partner Center’s multi-channel feature supports scenarios when a customer wants to hire a partner to provision and support a subscription they purchased elsewhere.</span></span> <span data-ttu-id="48123-126">Consulte [Suporte multi-canal](multichannel.md) para obter mais informações.</span><span class="sxs-lookup"><span data-stu-id="48123-126">See [Multi-channel support](multichannel.md) for more information.</span></span>
+
+<span data-ttu-id="48123-127">O suporte multi-canal também está disponível nas ofertas de nuvem nacionais da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="48123-127">Multi-channel support is also available in Microsoft's national cloud offerings.</span></span>
+
+>**<span data-ttu-id="48123-128">Importante</span><span class="sxs-lookup"><span data-stu-id="48123-128">Important</span></span>**<br>
+<span data-ttu-id="48123-129">Um parceiro no CSP não pode revender serviços on-line a outro parceiro atualmente no CSP.</span><span class="sxs-lookup"><span data-stu-id="48123-129">A partner in CSP cannot resell online services to another partner in CSP currently.</span></span> <span data-ttu-id="48123-130">A Microsoft revisa continuamente as políticas e competências de todos os programas.</span><span class="sxs-lookup"><span data-stu-id="48123-130">Microsoft continuously reviews policies and capabilities of all programs.</span></span> <span data-ttu-id="48123-131">Quaisquer anúncios sobre as versões de recurso serão anunciados por meio dos canais de comunicação normais, incluindo o Partner Center.</span><span class="sxs-lookup"><span data-stu-id="48123-131">Any announcements about feature releases will be announced through the usual communication channels, including Partner Center.</span></span> 
 

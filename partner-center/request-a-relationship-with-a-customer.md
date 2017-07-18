@@ -1,50 +1,45 @@
 ---
 title: "Solicitar uma relação com um cliente | Partner Center"
-description: "Solicitar uma relação é usado para os cenários Vários parceiros e Vários canais. Também será útil se um cliente remover seus privilégios de administrador delegado e você precisar restaurá-los para fornecer provisionamento ou suporte."
+description: "Solicitar um relacionamento é usado para os cenários vários parceiros e vários canais. Também será útil se um cliente remover seus privilégios de administrador e você precisar restaurá-los para fornecer provisionamento ou suporte."
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: ef7587951a9aa8cdefb70f9ff229b6f4c5b9d6fa
-
+ms.openlocfilehash: 529f7d1ae3db3c5e9ea0dc8bec615fc606ec5dcd
+ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
+ms.translationtype: HT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 06/14/2017
 ---
+# <a name="connect-with-customers-in-partner-center"></a><span data-ttu-id="43160-104">Conectar com clientes no Partner Center</span><span class="sxs-lookup"><span data-stu-id="43160-104">Connect with customers in Partner Center</span></span>
 
-# Solicitar um relacionamento com um cliente
+**<span data-ttu-id="43160-105">Aplicável a</span><span class="sxs-lookup"><span data-stu-id="43160-105">Applies to</span></span>**
 
-**Aplicável a**
+-  <span data-ttu-id="43160-106">Partner Center</span><span class="sxs-lookup"><span data-stu-id="43160-106">Partner Center</span></span>
+-  <span data-ttu-id="43160-107">Partner Center for Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="43160-107">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="43160-108">Partner Center for Microsoft Cloud Germany</span><span class="sxs-lookup"><span data-stu-id="43160-108">Partner Center for Microsoft Cloud Germany</span></span>
 
--  Partner Center
--  Partner Center do Microsoft Cloud Germany
+<span data-ttu-id="43160-109">Para gerenciar um serviço ou inscrição de cliente em seu nome, o cliente deve conceder suas permissões de administrador para aquele serviço.</span><span class="sxs-lookup"><span data-stu-id="43160-109">To manage a customer's service or subscription on their behalf, the customer must grant you administrator permissions for that service.</span></span> <span data-ttu-id="43160-110">Para receber permissões de administrador de um cliente, mande um e-mail para eles com uma solicitação de relação de revendedor.</span><span class="sxs-lookup"><span data-stu-id="43160-110">To get administrator permissions from a customer, email them a reseller relationship request.</span></span> <span data-ttu-id="43160-111">Depois do cliente aprovar sua solicitação, você será capaz de entrar no portal de admin do serviço e gerenciar o serviço em nome do cliente.</span><span class="sxs-lookup"><span data-stu-id="43160-111">After the customer approves your request, you'll be able to log on to the service's admin portal and manage the service on the customer's behalf.</span></span> 
 
-Solicitar um relacionamento é usado para os cenários [Vários parceiros](multipartner.md) e [Vários canais](multichannel.md). Também será útil se um cliente remover seus privilégios de administrador delegado e você precisar restaurá-los para fornecer provisionamento ou suporte.
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a><span data-ttu-id="43160-112">Convide um cliente para estabelecer uma relação de revendedor com você</span><span class="sxs-lookup"><span data-stu-id="43160-112">Invite a customer to establish a reseller relationship with you</span></span>
 
-Observe que esse processo apenas adiciona privilégios de administrador delegado. A menos que o parceiro tenha sido o revendedor CSP original da assinatura, ele não receberá uma cobrança dessas assinaturas, nem pode adicionar ou remover assentos, solicitar complementos, fazer a transição, migrar assinaturas ou alterar o registro de parceiro.
+1.  <span data-ttu-id="43160-113">Selecione **Clientes** em seu menu **Painel** e depois selecione **Solicitar uma relação de revenda**.</span><span class="sxs-lookup"><span data-stu-id="43160-113">Select **Customers** from your **Dashboard** menu and then select **Request a reseller relationship**.</span></span>
 
-<a href="" id="requestarelationship"></a>
-**Solicitar um relacionamento**
+2.  <span data-ttu-id="43160-114">Na página seguinte, reveja o rascunho da mensagem de e-mail.</span><span class="sxs-lookup"><span data-stu-id="43160-114">On the next page, review the draft email message.</span></span> <span data-ttu-id="43160-115">Você pode abrir a mensagem rascunho em seu aplicativo de e-mail padrão ou pode copiar a mensagem para sua área de transferência e colá-lo no e-mail.</span><span class="sxs-lookup"><span data-stu-id="43160-115">You can open the draft message in your default email application or you can copy the message to your clipboard and paste it into an email.</span></span> 
 
-1.  No Partner Center, vá para o menu Painel &gt; **Clientes** &gt; **Solicitar uma relação de revendedor**.
-2.  Copie o texto do email. Você pode editar ou excluir os dois primeiros parágrafos, mas o link deve ser deixado como está. A URL do link aplica-se especificamente à sua conta de revendedor e não tem qualquer informação do cliente incluída. Você pode reutilizar o mesmo link sempre que solicitar uma relação.
-3.  Envie-o para o cliente. Para aceitar, eles podem clicar no link do convite e entrar usando uma conta de administrador.
-4.  Em seguida, o cliente pode analisar todos os parceiros de serviços diferentes na página **Relações de Parceiro**, incluindo quais parceiros possuem privilégios de administrador delegado para cada serviço.
+    <span data-ttu-id="43160-116">Você pode editar o texto no e-mail, mas certifique-se de incluir o link, pois ele é personalizado, para vincular o cliente diretamente a sua conta.</span><span class="sxs-lookup"><span data-stu-id="43160-116">You can edit the text in the email, but be sure to include the link as it is personalized to link the customer directly to your account.</span></span> <span data-ttu-id="43160-117">Selecione **Concluído** quando tiver completado essa tarefa.</span><span class="sxs-lookup"><span data-stu-id="43160-117">Select **Done** when you’ve completed this step.</span></span>
 
-    Observe que no modelo de vários canais, os clientes podem ter apenas um parceiro de transações CSP com Privilégios de Administrador Delegado por serviço. Eles também podem ter concedido permissões para outros parceiros que não fazem parte do programa CSP.
+3.  <span data-ttu-id="43160-118">Envie o e-mail para seu cliente.</span><span class="sxs-lookup"><span data-stu-id="43160-118">Send the email to your customer.</span></span>
 
-5.  O parceiro saberá que o cliente aceitou o convite quando o cliente aparecer na lista de clientes do parceiro no Partner Center. Em seguida, o parceiro pode provisionar e gerenciar as assinaturas de CSP do cliente.
+4.  <span data-ttu-id="43160-119">Depois do cliente aceitar seu convite, eles aparecerão em sua página **Clientes**, e você poderá provisionar e gerenciar o serviço para o cliente a partir daí.</span><span class="sxs-lookup"><span data-stu-id="43160-119">After the customer accepts your invitation, they'll appear on your **Customers** page, and you'll be able to provision and manage the service for the customer from there.</span></span>
 
-Os clientes têm a opção de remover privilégios de administrador delegado de qualquer um ou todos os parceiros (inclusive aqueles do programa CSP). Os clientes podem fazer isso em seu próprio portal do administrador. A conta do cliente e o relacionamento comercial ainda se aplicam, a menos que haja renegociação entre o cliente e o parceiro. O parceiro ainda é responsável por fornecer suporte para o cliente e continua a cumprir os termos do contrato de revendedor de nuvem, mesmo depois que um cliente remove as permissões de administrador delegado do parceiro. Nessa situação, se o cliente precisar de ajuda, o parceiro deve ligar para o suporte da Microsoft para abrir uma solicitação de serviço em nome do cliente.
+ >**<span data-ttu-id="43160-120">Observação</span><span class="sxs-lookup"><span data-stu-id="43160-120">Note</span></span>**<br>
+    <span data-ttu-id="43160-121">Em um cenário multi-canal, apenas um parceiro pode ter permissões de administrador para gerenciar um serviço em nome do cliente.</span><span class="sxs-lookup"><span data-stu-id="43160-121">In a multi-channel scenario, only one partner can have administrator permissions to manage a service on the customer's behalf.</span></span> 
 
-Para restabelecer privilégios de administrador delegado que o cliente tenha removido, você pode repetir o processo de solicitar uma relação.
-
- 
-
- 
+5.  <span data-ttu-id="43160-122">Para gerenciar a conta do cliente, serviços, usuários e licenças, expanda o registro do cliente, selecionando a seta para baixo perto de seu nome.</span><span class="sxs-lookup"><span data-stu-id="43160-122">To manage the customer’s account, services, users, and licenses, expand the customer’s record by selecting the down arrow near their name.</span></span>
 
 
+>**<span data-ttu-id="43160-123">Importante</span><span class="sxs-lookup"><span data-stu-id="43160-123">Important</span></span>**<br>
+<span data-ttu-id="43160-124">Os clientes podem reatribuir ou remover permissões de administrador no portal do administrador do serviço.</span><span class="sxs-lookup"><span data-stu-id="43160-124">Customers can reassign or remove administrator permisions in a service's admin portal.</span></span> <span data-ttu-id="43160-125">No entanto, a menos e até que você renegocie seu contrato com o cliente, você continua a ser responsável por fornecer suporte ao cliente e por aderir aos termos do Contrato de revendedor de soluções de Nuvem da Microsoft, mesmo depois de um cliente reatribuir ou remover permissões de administrador.</span><span class="sxs-lookup"><span data-stu-id="43160-125">However, unless and until you renegotiate your agreement with the customer, you continue to be responsible for providing customer support and adhering to the terms of the Cloud Reseller Agreement, even after a customer reassigns or removes administrator permissions.</span></span> <span data-ttu-id="43160-126">Nessa situação, se o cliente precisar de ajuda, você pode ligar para o suporte da Microsoft para abrir uma solicitação de serviço em nome do cliente.</span><span class="sxs-lookup"><span data-stu-id="43160-126">In this situation, if the customer requires help, you can call Microsoft support to open a service request on behalf of the customer.</span></span>
 
+## <a name="related-topics"></a><span data-ttu-id="43160-127">Tópicos relacionados</span><span class="sxs-lookup"><span data-stu-id="43160-127">Related topics</span></span>
 
-
-
-<!--HONumber=Jan17_HO2-->
-
-
+[<span data-ttu-id="43160-128">Remover uma relação</span><span class="sxs-lookup"><span data-stu-id="43160-128">Remove a relationship</span></span>](remove-a-relationship.md)
