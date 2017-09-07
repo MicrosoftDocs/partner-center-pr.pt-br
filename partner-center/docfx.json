@@ -27,7 +27,9 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+      "bilingual_type": "hover over"
+    },
     "fileMetadata": {},
     "template": [],
     "dest": "partner-center"
