@@ -1,82 +1,82 @@
 ---
-title: Inscrever-se no programa CSP | Partner Center
-description: "Antes de se inscrever no programa Provedor de Soluções na Nuvem, saiba mais sobre os Requisitos do programa CSP."
+title: Enroll in the CSP program | Partner Center
+description: Before you enroll in the Cloud Solution Provider program, learn more about the CSP program requirements.
 ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
 author: MaggiePucciEvans
-ms.openlocfilehash: f5e4f345ed3bdf33022e135f17f2f9e908b67457
-ms.sourcegitcommit: a905afc18ffc20e3469933fa005336f1e9b520f4
+ms.openlocfilehash: 36adc9c4b35f5d64dbb3e5f84a03e9348a773384
+ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/07/2017
+ms.lasthandoff: 09/01/2017
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscrever-se no programa Provedor de Soluções na Nuvem
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>Enroll in the Cloud Solution Provider program
 
-**Aplicável a**
+**Applies to**
 
 -  Partner Center
 
->**Observação**<br>
-Para obter informações sobre como se inscrever no programa Provedor de Soluções na Nuvem do Microsoft Cloud Alemanha, consulte [registrar no programa Provedor de Soluções na Nuvem do Microsoft Cloud Alemanha](enroll-in-csp-for-microsoft-cloud-germany.md) e [Partner Center do Microsoft Cloud Alemanha](partner-center-for-microsoft-cloud-germany.md).
+>**Note**<br>
+For information about enrolling in the Cloud Solution Provider program for Microsoft Cloud Germany, see [Enroll in the Cloud Solution Provider program for Microsoft Cloud Germany](enroll-in-csp-for-microsoft-cloud-germany.md) and [Partner Center for Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md).
 
-Antes de se inscrever no programa CSP (Provedor de Soluções na Nuvem), saiba mais sobre os [Requisitos do programa CSP]( http://go.microsoft.com/fwlink/p/?LinkId=617116). Para saber mais sobre o contrato de parceiros e outros requisitos do programa, consulte [Contratos, listas de preços e ofertas de CSP](csp-documents-and-learning-resources.md). 
+Before you enroll in the Cloud Solution Provider (CSP) program, learn more about the [CSP program requirements]( http://go.microsoft.com/fwlink/p/?LinkId=617116). For more information about the partner agreement and other program requirements, see [CSP agreements, price lists, and offers](csp-documents-and-learning-resources.md). 
 
->**Importante**<br>
-Um parceiro CSP não revende serviços online para outro parceiro CSP no momento. Essa restrição se aplica somente ao locatário usado para a realização de transações CSP. Os parceiros CSP que usam um locatário não CSP para seu uso corporativo podem comprar serviços on-line de outro CSP. A Microsoft examina continuamente as políticas e os recursos de todos os programas. Quaisquer anúncios sobre as versões de recurso serão anunciados por meio dos canais de comunicação normais, incluindo o Partner Center.  
+>**Important**<br>
+A CSP partner cannot resell online services to another CSP partner currently. This restriction only applies to the tenant used for conducting CSP transactions. CSP partners that use a non-CSP tenant for their corporate usage can purchase online services from another CSP. Microsoft continuously reviews policies and capabilities of all programs. Any announcements about feature releases will be announced through the usual communication channels, including Partner Center.  
 
-Saiba como se qualificar para incentivos do programa CSP, participar da plataforma de incentivos e ganhar fundos de incentivos. Consulte [Detalhes do programa](https://go.microsoft.com/fwlink/?linkid=831533).
+Learn how to qualify for CSP program incentives, onboard to the incentives platform, and earn incentives funds. See [Program Details](https://go.microsoft.com/fwlink/?linkid=831533).
 
-## <a href="" id="markets"></a>Disponibilidade
+## <a href="" id="markets"></a>Availability
 
 
-O programa Provedor de Soluções na Nuvem está disponível para empresas com escritórios nos seguintes países/regiões. Estes são agrupados por mercado. Os parceiros no programa CSP podem vender para outros países dentro do mesmo mercado mesmo se não tiverem um escritório nesses locais.
+The Cloud Solution Provider program is available to companies with offices in the following countries/regions. These are grouped by market. Partners in the CSP program can sell to other countries within the same market even if they don't have an office in those locations.
 
-| Disponibilidade por mercado                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Availability by market                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Brasil                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Canadá                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Índia                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Japão                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Coreia                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Nova Zelândia                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Rússia                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Brazil                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Canada                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| India                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Japan                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Korea                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| New Zealand                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Russia                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Taiwan                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Estados Unidos                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Austrália, Fiji                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Anguila, Antígua e Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolívia, Bonaire, Ilhas Cayman, Chile, Colômbia, Costa Rica, Curaçao, República Dominicana, Equador, El Salvador, Guiana Francesa, Guadalupe, Guatemala, Honduras, Jamaica, Martinica, México, Nicarágua, Panamá, Paraguai, Peru, Porto Rico, São Cristóvão e Névis, Santa Lúcia, Saint Martin, São Vicente e Granadinas, Saint Maarten, Suriname, Trinidade e Tobago, Ilhas Turks e Caicos, Uruguai, Venezuela, Ilhas Virgens Americanas                                                                                                           |
-| Andorra, Áustria, Bélgica, Bulgaria, Croácia, Chipre, República Tcheca, Dinamarca, Estônia, Finlândia, França, Alemanha, Grécia, Groenlândia, Hungria, Islândia, Irlanda, Ilha de Man, Itália, Jersey, Letônia, Liechtenstein, Lituânia, Luxemburgo, Madagascar, Malaui, Mali, Malta, Mayotte, Mônaco, Países Baixos, Nova Caledônia, Noruega, Polônia, Portugal, Romênia, San Marino, Eslováquia, Eslovênia, Espanha, Suécia, Suíça, Reino Unido, Cidade do Vaticano, Ilhas Faroés                                                                                          |
+| United States                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Australia, Fiji                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Cayman Islands, Chile, Colombia, Costa Rica, Curacao, Dominican Republic, Ecuador, El Salvador, French Guiana, Guadeloupe, Guatemala, Honduras, Jamaica, Martinique, Mexico, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Martin, Saint Vincent and the Grenadines, Sint Maarten, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, U.S. Virgin Islands                                                                                                           |
+| Andorra, Áustria, Bélgica, Bulgária, Croácia, Chipre, República Tcheca, Dinamarca, Estônia, Finlândia, França, Alemanha, Grécia, Groenlândia, Hungria, Islândia, Irlanda, Ilha de Man, Itália, Jersey, Letônia, Liechtenstein, Lituânia, Luxemburgo, Madagascar, Malaui, Mali, Malta, Mayotte, Mônaco, Países Baixos, Nova Caledônia, Noruega, Polônia, Portugal, Romênia, San Marino, Eslováquia, Eslovênia, Espanha, Suécia, Suíça, Reino Unido, Cidade do Vaticano, Ilhas Faroés                                                                                          |
 | Afeganistão, Albânia, Argélia, Armênia, Azerbaijão, Bahrein, Belarus, Benin, Bósnia e Herzegovina, Burundi, Ilhas Comores, Egito, Polinésia Francesa, Geórgia, Iraque, Israel, Jordânia, Cazaquistão, Kuwait, Quirguistão, Líbano, Líbia, Macedônia (ARIM), Moldávia, Mongólia, Montenegro, Marrocos, Moçambique, Omã, Paquistão, Autoridade Palestina, Catar, Reunião, Sérvia, Seicheles, Tadjiquistão, Togo, Tunísia, Turcomenistão, Ucrânia, Emirados Árabes Unidos, Uzbequistão, Arábia Saudita, África do Sul, Turquia, Iêmen, Zimbábue |
-| Angola, Botsuana, Camarões, Cabo Verde, Costa do Marfim, Etiópia, Gana, Quênia, Maurício, Namíbia, Nigéria, Ruanda, Senegal, Tanzânia, Uganda, Zâmbia                                                                                                                                                                                                                                                                                  |
-| Bangladesh, Butão, Brunei Darussalam, Camboja, RAE de Hong Kong, Indonésia, Laos, Malásia, Maldivas, Ilhas Marshall, Myanmar, Nepal, Papua Nova-Guiné, Filipinas, Cingapura, Sri Lanka, Tailândia, Tonga, Vietnã, RAE de Macau                                                                                                                                                                                                                                                                                           |
-## <a name="billing-currencies-by-country"></a>Moedas de cobrança por país
+| Angola, Botswana, Cameroon, Cabo Verde, Côte d'Ivoire, Ethiopia, Ghana, Kenya, Mauritius, Namibia, Nigeria, Rwanda, Senegal, Tanzania, Uganda, Zambia                                                                                                                                                                                                                                                                                  |
+| Bangladesh, Bhutan, Brunei Darussalam, Cambodia, Hong Kong SAR, Indonesia, Laos, Malaysia, Maldives, Marshall Islands, Myanmar, Nepal, Papua New Guinea, Philippines, Singapore, Sri Lanka, Thailand, Tonga, Vietnam, Macao SAR                                                                                                                                                                                                                                                                                           |
+## <a name="billing-currencies-by-country"></a>Billing currencies by country
 
-Sua localização geográfica determina a moeda na qual você será cobrado, conforme mostrado na tabela a seguir. 
+Your geographic location determines the currency in which you are billed, as shown in the following table. 
 
-| Moeda | País |
+| Currency | Country |
 | ---- | ---- |
-| USD | Albânia, Anguila, Antígua e Barbuda, Argentina, Armênia, Aruba, Azerbaijão, Bahamas, Bahrein, Bangladesh, Barbados, Belarus, Belize, Benin, Bermuda, Bolívia, Bonaire, Brasil, Brunei, Burundi, Camarões, Ilhas Cayman, Chile, Colômbia, Comores, Costa Rica, Curaçao, República Dominicana, Equador, Egito, El Salvador, Fiji, Guiana Francesa, Polinésia Francesa, Geórgia, Gana, Guatemala, Honduras, RAE de Hong Kong, Indonésia, Iraque, Israel, Jamaica, Cazaquistão, Quênia, Kuwait, Quirguistão, Líbano, RAE de Macau, Madagascar, Malaui, Malásia, Mali, Maurício, Mayotte, México, Marrocos, Namíbia, Nova Caledônia, Nicarágua, Nigéria, Omã, Paquistão, Panamá, Paraguai, Peru, Filipinas, Porto Rico, Catar, Reunião, Ruanda, Santa Lúcia, Saint Martin, São Vicente e Granadinas, Arábia Saudita, Sérvia, Seicheles, Cingapura, Saint Maarten, África do Sul, Sri Lanka, Suriname, Tanzânia, Tailândia, Timor-Leste, Togo, Trinidade e Tobago, Tunísia, Turquia, Ilhas Turks e Caicos, Ilhas Virgens Americanas, Ucrânia, Emirados Árabes Unidos, Estados Unidos, Uruguai, Venezuela, Vietnã  | 
+| USD | Albania, Anguilla, Antigua and Barbuda, Argentina, Armenia, Aruba, Azerbaijan, Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belize, Benin, Bermuda, Bolivia, Bonaire, Brazil, Brunei, Burundi, Cameroon, Cayman Islands, Chile, Colombia, Comoros, Costa Rica, Curaçao, Dominican Republic, Ecuador, Egypt, El Salvador, Fiji, French Guiana, French Polynesia, Georgia, Ghana, Guatemala, Honduras, Hong Kong SAR, Indonesia, Iraq, Israel, Jamaica, Kazakhstan, Kenya, Kuwait, Kyrgyzstan, Lebanon, Macao SAR, Madagascar, Malawi, Malaysia, Mali, Mauritius, Mayotte, Mexico, Morocco, Namibia, New Caledonia, Nicaragua, Nigeria, Oman, Pakistan, Panama, Paraguay, Peru, Philippines, Puerto Rico, Qatar, Reunion, Rwanda, Saint Lucia, Saint Martin, Saint Vincent and the Grenadines, Saudi Arabia, Serbia, Seychelles, Singapore, Sint Maarten, South Africa, Sri Lanka, Suriname, Tanzania, Thailand, Timor-Leste, Togo, Trinidad and Tobago, Tunisia, Turkey, Turks and Caicos Islands, U.S. Virgin Islands, Ukraine, United Arab Emirates, United States, Uruguay, Venezuela, Vietnam  | 
 | TWD | Taiwan |
-| SEK | Suécia |
-| INR | Índia |
-| RUB | Rússia |
-| NZD | Nova Zelândia |
-| NOK | Noruega |
-| KRW | Coreia |
-| JPY | Japão |
-| GBP | Ilha de Man, Jersey, Reino Unido |
-| EUR | Andorra, Áustria, Bélgica, Croácia, República Tcheca, Estônia, Ilhas Faroés, Finlândia, França, Alemanha, Grécia, Hungria, Islândia, Irlanda, Itália, Letônia, Liechtenstein, Lituânia, Luxemburgo/Bélgica, Países Baixos, Polônia, Portugal, Romênia, San Marino, Eslováquia, Eslovênia, Espanha |
-| DKK | Dinamarca |
-| CHF | Suíça |
-| CAD | Canadá |
-| AUD | Austrália, Ilhas Marshall, Papua Nova-Guiné, Tonga |
+| SEK | Sweden |
+| INR | India |
+| RUB | Russia |
+| NZD | New Zealand |
+| NOK | Norway |
+| KRW | Korea |
+| JPY | Japan |
+| GBP | Isle of Man, Jersey, United Kingdom |
+| EUR | Andorra, Austria, Belgium, Croatia, Czech Republic, Estonia, Faroe Islands, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg/Belgium, Netherlands, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain |
+| DKK | Denmark |
+| CHF | Switzerland |
+| CAD | Canada |
+| AUD | Australia, Marshall Islands, Papua New Guinea, Tonga |
 
  
 
-## <a name="partner-center-account"></a>Conta do Partner Center
+## <a name="partner-center-account"></a>Partner Center account
 
 
-O Partner Center exige que o administrador para sua empresa tenha um endereço de email autenticado pelo Azure AD. O administrador pode usar qualquer uma de suas contas de email comercial existentes de um serviço em nuvem da Microsoft, incluindo o Office 365, o Azure AD, o Microsoft Intune, os serviços do Enterprise Mobility, etc. O processo para se tornar um revendedor transformará esse endereço de email no email de administrador de uma conta de revendedor.
+Partner Center requires that the admin for your company has an email address that is authenticated by Azure AD. The admin can use any of their existing work email accounts from a Microsoft cloud service, including Office 365, Azure AD, Microsoft Intune, Enterprise Mobility Services, etc. The process of becoming a reseller will turn this email address into the admin email for a reseller account.
 
-Observe que seu endereço de email autenticado pelo Azure AD existente já está registrado em um determinado mercado. Se deseja vender em um mercado diferente ou em vários mercados, você deve criar um endereço de email separado registrado em cada mercado e usar esses endereços de email para se inscrever.
+Note that your existing Azure AD-authenticated email address is already registered in a certain market. If you want to sell in a different market, or in multiple markets, you must create a separate email address registered in each market, and use those email addresses to enroll.
 
  
 
