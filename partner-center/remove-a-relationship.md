@@ -1,30 +1,35 @@
 ---
-title: "Remover uma relação com um revendedor ou um cliente | Partner Center"
-description: "Remover uma relação remove qualquer relação comercial fechada do modo de exibição no Partner Center."
+title: "Remova uma relação com um revendedor ou um cliente | Partner Center"
+description: Removing a relationship removes any closed business relationships from your view in Partner Center.
 author: KPacquer
-robots: noindex,nofollow
-ms.openlocfilehash: 979491e1c2cf90d2e7ca5c02d2bc497675c53dba
-ms.sourcegitcommit: 50faeddcd65ae8aa7f9212bbf134b9fbece41c8c
+ms.openlocfilehash: e178318e50b6a2b3bb7a6d7ecf7ec83f6d93b7c3
+ms.sourcegitcommit: 955622c85ff0905647974fc598139579191b55da
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/19/2017
 ---
-# <a name="remove-a-relationship-with-a-reseller-or-a-customer"></a>Remover uma relação de revendedor ou um cliente
+# <a name="remove-a-reseller-relationship-with-a-customer"></a>Remover uma relação de revendedor ou um cliente
 
-**Aplicável ao**
+**Applies to**
 
 -   Partner Center
 
-Parceiros diretos: você pode remover qualquer relação comercial fechado do seu modo de exibição no Partner Center.
+Parceiros diretos: se você não mais está fazendo transações com um cliente, você pode remover a relação no Partner Center. 
 
-## <a name="remove-a-relationship-in-partner-center"></a>Remover um relacionamento no Partner Center
+Este recurso:
+*  Remove o cliente da sua lista de clientes no Partner Center
+*  Remove você da [lista de contatos de suporte disponível](assign-support-contacts.md) para seu cliente
+*  Remove seus privilégios de administrador de delegação para o cliente
+*  Remove a capacidade de você fazer compras em nome do cliente
 
-1.  Suspenda todas as assinaturas ativas. No painel, vá para **Clientes** > selecione um cliente > **Assinaturas** > selecione uma assinatura > **Suspensa**. 
+Para remover a relação, você precisará primeiro suspender todas as assinaturas ativas restantes:
 
-   Repita esse procedimento para cada assinatura ativa.
+1.  Suspenda todas as assinaturas ativas. From the Dashboard, go to **Customers** > select a customer > **Subscriptions** > select a subscription > **Suspended**. 
 
-2.  Remover a relação no Partner Center: no painel, vá para **Clientes** > selecione um cliente > **Conta** > **Remover a relação de revendedor**.
+   Repeat this for each active subscription.
 
-    Observe, se todas as assinaturas ainda estão ativas, o link **Remover a relação de revendedor** ficará inativo. 
+2.  Remove the relationship in Partner Center: From the Dashboard, go to **Customers** > select a customer > **Account** > **Remove reseller relationship**.
 
-Para restabelecer o relacionamento, repita o processo de [solicitçaão de relação](request-a-relationship-with-a-customer.md).
+    Note, if any subscriptions are still active, the **Remove reseller relationship** link will be inactive. 
+
+To re-establish the relationship, repeat the process of [requesting a relationship](request-a-relationship-with-a-customer.md).
