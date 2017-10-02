@@ -3,11 +3,11 @@ title: Simplify device setup with Windows Autopilot | Partner Center
 description: Add a Windows AutoPilot deployment profile in Partner Center to simplify device setup with Windows Autopilot
 author: KPacquer
 keywords: autopilot, windows autopilot, microsoft autopilot, zero-touch deployment, oobe, login screens
-ms.openlocfilehash: a307a1e8f46137ba0f796b2ad2fb059c1d602eac
-ms.sourcegitcommit: 493122887ab9a5524590be12f5e1fedf4a004682
+ms.openlocfilehash: 72cf8a8361a12c545501a452788d231f930c4928
+ms.sourcegitcommit: d9f3e4e8115c0ad44f97041d352b703cda7ba9e5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/28/2017
+ms.lasthandoff: 09/28/2017
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>Simplify device setup with Windows Autopilot 
 
@@ -22,8 +22,8 @@ Windows Autopilot streamlines and secures device setup for new Windows 10 Pro de
 
 ## <a name="requirements"></a>Requirements
 
-*  Dispositivos pré-instalados com Windows 10 Pro Creators Update (versão 1703 ou posterior) ou Windows 10 Pro for Advanced PCs.
-*  Device identifier known as a hardware hash (128 HWH or 4k HWH), which is typically provided by an OEM. You'll use identifiers to assign organization profiles in Partner Center. Depois de setembro de 2017, o hash de hardware não será mais necessário. 
+*  Devices pre-installed with Windows 10 Pro Creators Update (version 1703 or later) or Windows 10 Pro for Advanced PCs.
+*  Device identifier known as a hardware hash (128 HWH or 4k HWH), which is typically provided by an OEM. You'll use identifiers to assign organization profiles in Partner Center. After September 2017 you will no longer need the hardware hash. 
 *  The devices must have access to the internet. When the device can’t connect, it shows the default Windows out-of-box experience (OOBE) screens.
 *  Enrolling the device into an MDM requires Azure Active Directory Premium.
 
@@ -49,9 +49,9 @@ To configure devices, upload a list of the devices into Partner Center, create a
 
 1.  Add the list of devices into Partner Center.
 
-    Agentes de vendas e agentes de administrador têm acesso para adicionar a lista de dispositivos ao Partner Center.
+    Sales agents and admin agents have access to add the list of devices into Partner Center.
     
-    Revendedores indiretos podem trabalhar com seu provedor indireto para adicioná-la.
+    Indirect resellers can work with their indirect provider to add this.
 
     a.  Create a .csv file using the PowerShell script from the topic: [Overview of Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot). This .csv file contains device info including the serial number, OEM name, model name, product ID and device identifier. 
 
@@ -100,4 +100,11 @@ Once you’ve assigned a profile to a device, you can update it, even if you’v
 3. Go to the profile you want to remove and delete it. The profile will be deleted from all devices.
 
 From **Devices**, select the profile. From here, you can modify the existing settings.
+
+## <a name="windows-autopilot-eula-dismissal--important-information"></a>Descarte de EULA do Windows Autopilot – informações importantes
+
+O uso dessa ferramenta permite que você configure instalações individuais do Windows em dispositivos que você gerencia para seus clientes. Se tiver autorização do cliente, você pode optar por suprimir ou ocultar determinadas telas de instalação, que normalmente são apresentadas aos usuários ao configurar o Windows, incluindo a tela de aceitação do EULA. 
+
+Usando essa função, você concorda que suprimir ou ocultar quaisquer telas projetadas para fornecer aos usuários um aviso ou a aceitação dos termos significa que você obteve consentimento e autorização suficientes do cliente para ocultar os termos e que você, em nome do cliente (seja uma organização ou um usuário individual), consente com quaisquer avisos e aceita quaisquer termos aplicáveis ao cliente. Isso inclui o acordo com os termos e condições da licença ou o aviso que seria apresentado ao usuário caso você não o tenha suprimido ou ocultado usando essa ferramenta. Seu cliente não pode usar o software do Windows nesses dispositivos se o cliente não tiver adquirido de forma válida uma licença para o software da Microsoft ou de seus distribuidores licenciados.
+
 
