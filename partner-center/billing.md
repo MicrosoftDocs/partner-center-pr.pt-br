@@ -1,58 +1,59 @@
 ---
-title: "Cobrança | Partner Center"
-Description: "Como parceiro Provedor de Soluções na Nuvem, você pagará à Microsoft 60 dias em atraso pelas assinaturas baseadas em licença e em uso de seus clientes."
+title: Billing | Partner Center
+Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-ms.openlocfilehash: 5ff67803ae0e8e18dad7ea41ec37cfd008a6554d
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
+ms.openlocfilehash: 367df00f26c3336b206cbc06c3d2f09138d7ca1e
+ms.sourcegitcommit: 4c29498e3d6d4038044b4cb2cb19a19e6a586823
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 09/15/2017
 ---
-# <a name="billing"></a>Cobrança
+# <a name="billing"></a>Billing
 
-**Aplicável a**
+**Applies to**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud for US Government
+-  Partner Center for Microsoft Cloud for US Government
 -  Partner Center for Microsoft Cloud Germany
 
-Como parceiro Provedor de Soluções na Nuvem, você pagará à Microsoft 60 dias em atraso pelas assinaturas baseadas em licença e em uso de seus clientes.
+As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
 
-Para sua cobrança, vá para o menu **Painel** e selecione **Cobrança**. Essa página de cobrança mostra seu histórico de cobrança e tendência, o saldo devido do mês atual, links para sua fatura e arquivos de reconciliação, além de seu pagamento mais recente.
+For your bill, go to the **Dashboard** menu, then select **Billing**. This billing page shows your billing history and trend, the balance due for the current month, links to your invoice and reconciliation files, and your most recent payment.
 
--   A Microsoft não tem exigências ou condições sobre como você deve administrar seu sistema de faturas.
--   Para determinar o uso dos clientes, use o ID/nome do cliente e outros campos relevantes dentro dos arquivos de reconciliação.
--   Adicione suas próprias taxas e tarifas para serviços e produtos que você fornece.
--   Envie uma única cobrança para todas os encargos devidos por seu cliente.
+-   Microsoft doesn't have any requirements or conditions about how you handle your own invoicing.
+-   To determine customers' usage, use the customer ID/name and other relevant fields within the reconciliation files.
+-   Add your own fees and charges for services and products that you provide.
+-   Send a single bill for all charges to your customer.
 
-## <a name="billing"></a>Cobrança
+## <a name="billing"></a>Billing
 
+[Perguntas Frequentes sobre os novos recursos de cobrança](faq-about-new-billing-features.md)
 
 [Ler sua cobrança](read-your-bill.md)
 
-[Usar os arquivos de reconciliação](use-the-reconciliation-files.md)
+[Use the reconciliation files](use-the-reconciliation-files.md)
 
-[Impostos e isenções fiscais](tax-and-tax-exemptions.md)
+[Tax and tax exemptions](tax-and-tax-exemptions.md)
 
-[Definir um orçamento de gastos do Azure para seus clientes](set-an-azure-spending-budget-for-your-customers.md)
+[Set an Azure spending budget for your customers](set-an-azure-spending-budget-for-your-customers.md)
 
-[Cenários comuns de cobrança](common-billing-scenarios.md)
+[Common billing scenarios](common-billing-scenarios.md)
 
-[Não pagamento, fraude ou uso indevido](non-payment--fraud--or-misuse.md)
+[Non-payment, fraud, or misuse](non-payment--fraud--or-misuse.md)
 
-[Serviços PSTN](o365-e5-in-csp-advisory.md)
+[PSTN services](o365-e5-in-csp-advisory.md)
 
-## <a name="in-this-section"></a>Nesta seção
+## <a name="in-this-section"></a>In this section
 
 
--   [Noções básicas de cobrança](#billingbasics)
+-   [Billing basics](#billingbasics)
 
--   [Cobrança baseada em licença](#licensebasedbilling)
+-   [License-based billing](#licensebasedbilling)
 
--   [Cobrança baseada em uso](#usagebasedbilling)
+-   [Usage-based billing](#usagebasedbilling)
 
-## <a href="" id="billingbasics"></a>Noções básicas de cobrança
+## <a href="" id="billingbasics"></a>Billing basics
 
 
 <table>
@@ -62,50 +63,50 @@ Para sua cobrança, vá para o menu **Painel** e selecione **Cobrança**. Essa p
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>Datas</td>
+<td>Dates</td>
 <td><ul>
-<li>Sua data de cobrança mensal é o dia do mês selecionado durante o registro. A Microsoft enviará um email de confirmação que inclui sua data de cobrança.</li>
-<li>Você pode encontrar listas de preços com um mês de antecedência, pois são atualizadas mensalmente. Os preços baseados em licença são garantidos pelo termo de assinatura, geralmente 12 meses a partir da data de compra. Os preços baseados em uso podem ser alterados mensalmente. Forneceremos um aviso com 30 dias de antecedência sobre qualquer alteração de preço por meio da publicação da nossa Lista de preços para parceiros.</li>
+<li>Your monthly billing date is the day of the month you selected during enrollment. Microsoft will send a confirmation email that includes your billing date.</li>
+<li>You can find price lists 1 month in advance, as they're updated monthly. License-based prices are guaranteed for the term of the subscription, usually 12 months from the purchase date. Usage-based prices can change on a monthly basis. We will provide 30 days’ notice for any price change through the publication of our Partner Price List.</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Termos de pagamento</td>
+<td>Payment terms</td>
 <td><ul>
-<li>Termos de pagamento - 60 dias corridos.</li>
-<li>Os pagamentos devem ser feitos de acordo com a data de vencimento da fatura (60 dias após a data de cobrança) ou a conta se tornará inadimplente.</li>
-<li>As contas inadimplentes estão sujeitas a suspensão e/ou encerramento do programa Provedor de Soluções na Nuvem. As contas suspensas não podem criar novos clientes ou pedidos, solicitar uma relação de revendedor, aumentar ou diminuir quantidades de assinaturas, solicitar assinaturas de complemento, converter ou realizar a transição de uma assinatura. Além disso, elas estarão limitadas ao gerenciamento de clientes, assinaturas e recursos existentes até que as contas sejam reativadas. Os parceiros podem retomar a funcionalidade total de suas contas suspensas quando quitarem as cobranças pendentes.</li>
+<li>Payment terms - net 60 days.</li>
+<li>Payments must be made by the invoice due date (60 days after the billing date), or the account will be delinquent.</li>
+<li>Delinquent accounts are subject to suspension and/or termination from the Cloud Solution Provider program. Suspended accounts can't create a new customer or order, request a reseller relationship, increase or decrease quantities of subscriptions, order add-on subscriptions, convert or transition a subscription and will be limited to managing existing customers, subscriptions and resources until the account is brought current. Partners can regain full functionality of their suspended accounts when they pay their outstanding bills.</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Regras de cobrança</td>
+<td>Billing rules</td>
 <td><ul>
-<li>Você receberá uma fatura todo mês para o programa CSP.</li>
-<li>As assinaturas baseadas em licença são cobradas de acordo com as licenças adquiridas, e não de licenças usadas.</li>
-<li>As assinaturas por uso do Azure são cobradas com base em taxas limitadas, de acordo com o consumo.</li>
-<li>O preço é garantido por meio do termo da assinatura. Os preços podem mudar na renovação da assinatura.</li>
+<li>You will receive one invoice each month for the CSP program.</li>
+<li>License-based subscriptions are billed based on licenses purchased, not licenses used.</li>
+<li>Azure (usage-based subscriptions) are billed according to metered rates, based on consumption.</li>
+<li>Price is guaranteed through the term of the subscription. Prices may change at subscription renewal.</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Disponibilidade de fatura</td>
+<td>Invoice availability</td>
 <td><ul>
-<li>Você pode ver e baixar suas faturas e seus arquivos de reconciliação na página Cobrança no Partner Center.</li>
+<li>You can view and download your invoices and reconciliation files from the Billing page in the Partner Center.</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Ajustes/créditos/cancelamentos</td>
+<td>Adjustments/Credits/Cancellations</td>
 <td><ul>
-<li>Créditos por testes de contas e integração não estão autorizados. Para evitar encargos de assinatura ou cobrança antecipada de taxa de encerramento quando você estiver executando testes, você pode cancelar a assinatura durante o “período gratuito”. Todas as tarifas de uso por consumo de serviços Azure são de sua responsabilidade.</li>
-<li>Você verá os ajustes e créditos em atraso em sua próxima fatura de cobrança mensal após o crédito ou ajuste ser aplicado.</li>
+<li>Credits for test accounts and integration testing are not authorized. To avoid subscription charges or early termination fee charges when you are performing testing, you can cancel the subscription during the “free period”. All consumption usage charges for Azure services are your responsibility.</li>
+<li>You'll see adjustments and credits in arrears on your next monthly billing invoice after the credit or adjustment is applied.</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Imposto</td>
+<td>Tax</td>
 <td><ul>
-<li>Você pagará imposto com base em seus detalhes, (não dos seus clientes) como a relação de faturamento, que é entre você e a Microsoft.</li>
-<li>Você pode enviar seu ID do contribuinte durante a aceitação ou por meio de uma solicitação de serviço. Você verá as alterações refletidas no seu próximo ciclo de cobrança.</li>
-<li>Para <strong>isenção de impostos sobre vendas e retenção</strong>, você deve enviar a documentação do contribuinte por meio de uma solicitação de serviço. Você verá as alterações e reembolsos apropriados em seu próximo ciclo de cobrança.</li>
-<li>Para <strong>isenção de imposto sobre valor agregado (IVA)</strong>, você deve enviar seu ID de IVA (validado pela Microsoft) por meio de uma solicitação de serviço. Você verá as alterações e reembolsos apropriados em seu próximo ciclo de cobrança.</li>
-<li>Encontre mais detalhes sobre impostos a partir do escritório fiscal local ou de um consultor de impostos.</li>
+<li>You will be taxed based on your details, (not your customers') as the billing relationship is between Microsoft and you.</li>
+<li>You can submit your tax ID during onboarding or via a service request. You'll see the changes reflected on your next billing cycle.</li>
+<li>For <strong>withholding and sales tax exemption</strong>, you must submit tax documentation via a service request. You'll see the changes and appropriate refunds on your next billing cycle.</li>
+<li>For <strong>value added tax (VAT) exemption</strong>, you must submit your VAT ID (validated by Microsoft) via a service request. You'll see the changes and appropriate refunds on your next billing cycle.</li>
+<li>Find further tax details from your local tax office or tax advisor.</li>
 </ul></td>
 </tr>
 </tbody>
@@ -113,7 +114,7 @@ Para sua cobrança, vá para o menu **Painel** e selecione **Cobrança**. Essa p
 
  
 
-## <a href="" id="licensebasedbilling"></a>Cobrança baseada em licença
+## <a href="" id="licensebasedbilling"></a>License-based billing
 
 
 <table>
@@ -123,29 +124,29 @@ Para sua cobrança, vá para o menu **Painel** e selecione **Cobrança**. Essa p
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>Até um mês gratuito como incentivo</td>
+<td>Up to one free month incentive</td>
 <td><ul>
-<li>Você não será cobrado para encargos durante o período inicial da data de início de assinatura até a data de sua próxima cobrança (até um mês completo), independentemente da contagem de assento.</li>
-<li>Isso resulta em reconciliação de cobrança mais simples.</li>
-<li>Todas as assinaturas terão a renovação automática por um novo período de 12 meses com 12 cobranças adiantadas mensais se a assinatura não for cancelada de acordo com os contratos apropriados.</li>
-<li>O período gratuito não se aplica a serviços baseados em uso.</li>
+<li>You are not billed for any charges during the initial period from the subscription start date to the date of your next consolidate bill (up to one full month), regardless of the seat count.</li>
+<li>This results in simpler billing reconciliation.</li>
+<li>All subscriptions auto-renew for a new 12 month period with 12 monthly advanced charges if the subscription is not cancelled in line with the appropriate agreements.</li>
+<li>The free period does not apply to usage-based services.</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Regras de cobrança</td>
+<td>Billing rules</td>
 <td><ul>
-<li>As assinaturas são anuais com renovação automática.</li>
-<li>A cobrança é em 12 pagamentos mensais por assinatura anual.</li>
-<li>Você será cobrado com antecedência pelo próximo período de cobrança pelos serviços baseados em licença, de acordo com o número de licenças no final do período de cobrança anterior.</li>
-<li>Você é cobrado/creditado em atraso de pagamento por alterações no número de licenças (cálculo proporcional com base em dias de licença). Cálculo proporcional usa a seguinte fórmula: [ROUND((ROUND(Preço unitário * Quantidade/Número de dias no mês proporcional, 2) * Número de dias proporcionais) / Quantidade, 2) * Quantidade]</li>
-<li>Pagamentos são cobrados por assentos vendidos (não assentos provisionados).</li>
+<li>Subscriptions are annual and auto-renewed.</li>
+<li>Billing is in 12 monthly payments per annual subscription.</li>
+<li>You are billed in advance for the next billing period for license-based services, based on number of licenses at the end of the prior billing period.</li>
+<li>You are billed/credited in arrears for any changes in the number of licenses(pro-rata calculation based on license-days). Pro-rata calculation uses the following formula: [ROUND((ROUND(Unit Price * Quantity / Number of days in pro-rated Month, 2) * Number of pro-rated days) / Quantity, 2) * Quantity]</li>
+<li>Payments are billed for seats sold (not seats provisioned).</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Ajustes/créditos/cancelamentos</td>
+<td>Adjustments/Credits/Cancellations</td>
 <td><ul>
-<li>Taxas de término antecipado atualmente não são cobradas pelo cancelamento dos serviços baseados em licença.</li>
-<li>Os créditos de cancelamento para serviços baseados em licença são proporcionais aos dias não utilizados para cancelamentos de ciclo médio (bem como pela diminuição de licenças pela fórmula acima).</li>
+<li>Early termination fees are currently not charged for the cancellation of license-based services.</li>
+<li>Cancellation credits for licensed based services are pro-rated for unused days for mid-cycle cancellations (as well as license decreases per the formula above).</li>
 </ul></td>
 </tr>
 </tbody>
@@ -153,10 +154,10 @@ Para sua cobrança, vá para o menu **Painel** e selecione **Cobrança**. Essa p
 
  
 
-## <a href="" id="usagebasedbilling"></a>Cobrança baseada em uso
+## <a href="" id="usagebasedbilling"></a>Usage-based billing
 
 
-O Azure opera no modelo "pré-pago", em que você só será cobrado pelos serviços Azure usados.
+Azure operates in the "pay as you go" model, in which you are only billed for Azure services used.
 
 <table>
 <colgroup>
@@ -165,25 +166,25 @@ O Azure opera no modelo "pré-pago", em que você só será cobrado pelos servi�
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>Regras de cobrança</td>
+<td>Billing rules</td>
 <td><ul>
-<li>A cobrança é iniciada na data do início da assinatura. Não há nenhum "período gratuito" para a cobrança baseada em uso.</li>
-<li>As assinaturas são de mês a mês e renovadas automaticamente de acordo com as novas taxas de serviço limitadas. A cobrança é mensal em atraso de pagamento, de acordo com o uso.</li>
-<li>As taxas de serviço limitadas podem ser alteradas dentro do ciclo de fatura.
+<li>Billing starts on the subscription start date. There is no “free period” for usage-based billing.</li>
+<li>Subscriptions are month-to-month and auto-renew at the new metered service rates. Billing is monthly in arrears, based on usage.</li>
+<li>Metered service rates can change within the invoice cycle.
 <ul>
-<li>Preço aumenta: 30 dias de aviso prévio é fornecido.</li>
-<li>Preço diminui: dia de alteração refletido.</li>
-<li>As assinaturas existentes usam a taxa em vigor no início do ciclo de cobrança.</li>
-<li>As novas assinaturas (criadas no ciclo de cobrança) usam a taxa em vigor na data de criação.</li>
+<li>Price increases: 30 days notice is provided.</li>
+<li>Price decreases: reflected day of change.</li>
+<li>Existing subscriptions use the rate in effect at the beginning of the bill cycle.</li>
+<li>New subscriptions (created within bill cycle) use the rate in effect at the create date.</li>
 </ul></li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Ajustes/créditos/cancelamentos</td>
+<td>Adjustments/Credits/Cancellations</td>
 <td><ul>
-<li>Você verá pagamentos com ajustes em sua próxima fatura de cobrança mensal.</li>
-<li>Taxas de término antecipado atualmente não são cobradas pelo cancelamento dos serviços baseados em uso.</li>
-<li>Você verá créditos de qualquer tipo, incluindo créditos SLAs, em sua próxima fatura de cobrança mensal.</li>
+<li>You'll see payments with adjustments on your next monthly billing invoice.</li>
+<li>Early termination fees are currently not charged for the cancellation of usage-based services.</li>
+<li>You'll see credits of any type, including SLA credits, on your next monthly billing invoice.</li>
 </ul></td>
 </tr>
 </tbody>

@@ -3,11 +3,11 @@ title: Use the reconciliation files | Partner Center
 description: For a detailed line-item view of each charge in a billing cycle, download the reconciliation files from the Partner Center dashboard.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: de93fce5e689093f8e244b3812f682ef48bd47ea
-ms.sourcegitcommit: 493122887ab9a5524590be12f5e1fedf4a004682
+ms.openlocfilehash: 551afa2468e2bd79f1779a82e6ece3725b33237b
+ms.sourcegitcommit: 4c29498e3d6d4038044b4cb2cb19a19e6a586823
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/28/2017
+ms.lasthandoff: 09/15/2017
 ---
 # <a name="use-the-reconciliation-files"></a>Use the reconciliation files
 
@@ -450,12 +450,18 @@ The following fields explain which services were used and the rate.
 <td>DomainName</td>
 <td><p>Customer's domain name, used to help identify the customer.</p></td>
 <td>example.onmicrosoft.com</td></tr>
+</tr>
+<tr class="even">
+<td>Unidade</td>
+<td><p>A unidade do nome do recurso</p></td>
+<td>GB ou HORAS</td>
+</tr>
 </tbody>
 </table>
 
 
 
-## <a href="" id="charge_types"></a>Mapping charges between an invoice and the reconciliation file
+## <a href="" id="charge_types"></a>Mapeando encargos entre uma fatura e o arquivo de reconciliação
 
 Your invoice provides a summary of charges, while your reconciliation file provides a detailed breakdown of line-item transactions, including charge types.
 
