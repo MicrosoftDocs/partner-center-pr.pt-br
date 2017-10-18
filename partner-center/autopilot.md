@@ -1,105 +1,105 @@
 ---
-title: Simplify device setup with Windows Autopilot | Partner Center
-description: Add a Windows AutoPilot deployment profile in Partner Center to simplify device setup with Windows Autopilot
+title: "Simplificar a configuração do dispositivo com o Windows AutoPilot | Partner Center"
+description: "Adicione um perfil de implantação do Windows AutoPilot no Partner Center para simplificar a configuração do dispositivo com o Windows AutoPilot"
 author: KPacquer
-keywords: autopilot, windows autopilot, microsoft autopilot, zero-touch deployment, oobe, login screens
-ms.openlocfilehash: 72cf8a8361a12c545501a452788d231f930c4928
-ms.sourcegitcommit: d9f3e4e8115c0ad44f97041d352b703cda7ba9e5
+keywords: "piloto automático, windows autopilot, piloto automático da microsoft, implantação zero touch, oobe, telas de logon"
+ms.openlocfilehash: 061ee1cedbd3bc849419044bad022ccb12ef9b9f
+ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/28/2017
+ms.lasthandoff: 09/29/2017
 ---
-# <a name="simplify-device-setup-with-windows-autopilot"></a>Simplify device setup with Windows Autopilot 
+# <a name="simplify-device-setup-with-windows-autopilot"></a>Simplificar a configuração do dispositivo com o Windows AutoPilot 
 
-Windows Autopilot streamlines and secures device setup for new Windows 10 Pro devices from first boot in only a few steps. To learn more, see [Overview of Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot).
+O Windows AutoPilot simplifica e protege a configuração de novos dispositivos Windows 10 Pro a partir da primeira inicialização em apenas algumas etapas. Para saber mais, consulte [Visão geral do Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot).
 
-## <a name="features"></a>Features
+## <a name="features"></a>Recursos
 
-*  **Disable local administrator permissions** for the end users setting up devices
-*  **Show an organization's login page**. The organization can predefine a logon page that adds the device as a work device, and joins the device with Azure Active Directory.
-*  **Enroll the device into a Mobile Device Manager (MDM)**, for example: Microsoft Intune, after OOBE is complete.
-*  **Streamline the out-of-box experience (OOBE)** to use just the steps and decisions required, using a Windows AutoPilot Deployment profile. 
+*  **Desativar as permissões de administrador local** para que os usuários finais configurem os dispositivos
+*  **Mostra a página de logon de uma organização**. A organização pode predefinir uma página de logon que adiciona o dispositivo como um dispositivo de trabalho e o associa ao Azure Active Directory.
+*  **Registre o dispositivo em um MDM (Gerenciador de Dispositivos Móveis)**, por exemplo, o Microsoft Intune, após a conclusão da OOBE (configuração inicial pelo usuário).
+*  **Simplifique a OOBE** para usar apenas as etapas e decisões necessárias, usando um perfil de implantação do Windows AutoPilot. 
 
-## <a name="requirements"></a>Requirements
+## <a name="requirements"></a>Requisitos
 
-*  Devices pre-installed with Windows 10 Pro Creators Update (version 1703 or later) or Windows 10 Pro for Advanced PCs.
-*  Device identifier known as a hardware hash (128 HWH or 4k HWH), which is typically provided by an OEM. You'll use identifiers to assign organization profiles in Partner Center. After September 2017 you will no longer need the hardware hash. 
-*  The devices must have access to the internet. When the device can’t connect, it shows the default Windows out-of-box experience (OOBE) screens.
-*  Enrolling the device into an MDM requires Azure Active Directory Premium.
+*  Dispositivos pré-instalados com Windows 10 Pro Creators Update (versão 1703 ou posterior) ou Windows 10 Pro for Advanced PCs.
+*  O identificador de dispositivo conhecido como um hash de hardware (128 HWH ou 4K HWH), que normalmente é fornecido por um OEM. Você usará identificadores para atribuir perfis da organização no Partner Center. Depois de setembro de 2017, o hash de hardware não será mais necessário. 
+*  Os dispositivos devem ter acesso à Internet. Quando o dispositivo não consegue se conectar, ele mostra que as telas padrão da experiência inicial do Windows (OOBE).
+*  O registro do dispositivo em um MDM requer o Azure Active Directory Premium.
 
-## <a name="add-organization-login-pages-to-oobe"></a>Add organization login pages to OOBE
+## <a name="add-organization-login-pages-to-oobe"></a>Adicionar páginas de login da organização à OOBE
 
-To add organization-specific pages, add the devices into your organization’s [Azure AD directory](https://go.microsoft.com/fwlink/?linkid=848958) and create login pages.
+Para adicionar páginas específicas da organização, adicione os dispositivos ao [diretório do Azure AD](https://go.microsoft.com/fwlink/?linkid=848958) da organização e crie páginas de logon.
 
 
-## <a name="remove-windows-pages-from-oobe-with-a-windows-autopilot-deployment-profile"></a>Remove Windows pages from OOBE with a Windows AutoPilot deployment profile
+## <a name="remove-windows-pages-from-oobe-with-a-windows-autopilot-deployment-profile"></a>Remover páginas do Windows da OOBE com um perfil de implantação do Windows AutoPilot
 
-### <a name="examples-of-settings-in-a-windows-autopilot-deployment-profile"></a>Examples of settings in a Windows AutoPilot deployment profile
-*  Skip Privacy Settings in setup
-*  Disable local admin account in setup
-*  Automatically skip pages in setup
-   *  Automatically select setup for work or school
-   *  Skip Cortana, OneDrive, and OEM registration setup pages
+### <a name="examples-of-settings-in-a-windows-autopilot-deployment-profile"></a>Exemplos de configurações em um perfil de implantação do Windows AutoPilot
+*  Ignorar as Configurações de privacidade na instalação
+*  Desabilitar a conta de administrador local na instalação
+*  Ignorar automaticamente as páginas na instalação
+   *  Selecionar automaticamente a configuração para trabalho ou escola
+   *  Ignorar a Cortana, o OneDrive e páginas de configuração de registro OEM
 
-### <a name="add-devices-and-apply-a-profile"></a>Add devices and apply a profile
+### <a name="add-devices-and-apply-a-profile"></a>Adicionar dispositivos e aplicar um perfil
 
-In Partner Center, you can create a Windows AutoPilot deployment profile and apply it to a list of the devices.
+No Partner Center, você pode criar um perfil de implantação do Windows AutoPilot e aplicá-lo a uma lista dos dispositivos.
 
-To configure devices, upload a list of the devices into Partner Center, create a profile that applies to the devices, and apply it.
+Para configurar os dispositivos, envie uma lista dos dispositivos para o Partner Center, crie um perfil que seja aplicável aos dispositivos e aplique-o.
 
-1.  Add the list of devices into Partner Center.
+1.  Adicione a lista de dispositivos ao Partner Center.
 
-    Sales agents and admin agents have access to add the list of devices into Partner Center.
+    Agentes de vendas e agentes de administrador têm acesso para adicionar a lista de dispositivos ao Partner Center.
     
-    Indirect resellers can work with their indirect provider to add this.
+    Revendedores indiretos podem trabalhar com seu provedor indireto para adicioná-la.
 
-    a.  Create a .csv file using the PowerShell script from the topic: [Overview of Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot). This .csv file contains device info including the serial number, OEM name, model name, product ID and device identifier. 
+    a.  Crie um arquivo .csv usando o script do PowerShell do tópico: [Visão geral do Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot). Esse arquivo .csv contém informações do dispositivo, incluindo o número de série, o nome do OEM, o nome do modelo, a ID do produto e o identificador do dispositivo. 
 
-    b.  From the Partner Center dashboard, go to **Customers** > select the customer that’s receiving the devices > **Devices > Add devices**.
+    b.  No painel do Partner Center, vá para **Clientes** > selecione o cliente que está recebendo os dispositivos > **Dispositivos > Adicionar dispositivos**.
 
-    c.  Name the batch of devices, for example, “Contoso Sales Department PCs – April 2017 order.” 
+    c.  Nomeie o lote de dispositivos, por exemplo, "Computadores do departamento de vendas da Contoso – Pedido de abril de 2017". 
 
-    d.  Click **Browse** > select the device info file > **Validate**.
+    d.  Clique em **Procurar** > selecione o arquivo de informações do dispositivo > **Validar**.
 
-    **Note:** If you get an error message after trying to upload the .csv file, check the format of the file. After August, you can use the Hardware Hash only, or the OEM name, serial number, and model in that column order, or the Windows Product ID. You can also use the sample .csv file provided from the link next to **Add devices**.
+    **Observação:** se você receber uma mensagem de erro depois de tentar carregar o arquivo .csv, verifique o formato do arquivo. Depois de agosto, você poderá usar somente o hash de hardware ou o nome do OEM, o número de série e o modelo nessa ordem de colunas ou a ID do produto Windows. Você também pode usar o arquivo .csv de exemplo fornecido a partir do link próximo a **Adicionar dispositivos**.
 
-2.  Create a profile that you can apply to the devices. (Only admin agents have access to create and apply profiles in Partner Center.)
+2.  Crie um perfil que você possa aplicar aos dispositivos. (somente agentes de administrador têm acesso para criar e aplicar perfis no Partner Center.)
 
-    a.  From **Devices**, click **Add new profile**.
+    a.  Em **Dispositivos**, clique em **Adicionar novo perfil**.
 
-    b.  Name the profile, for example, “Contoso Desktop Profile – Skip All OOBE”.
+    b.  Nomeie o perfil, por exemplo, "Perfil de área de trabalho Contoso – Ignorar todo o OOBE".
 
-    c.  Configure the OOBE settings. For example, check **Skip Express Settings in setup**.
+    c.  Defina as configurações de OOBE. Por exemplo, marque **Ignorar as configurações expressas na instalação**.
 
-    d.  Click **Submit**.
+    d.  Clique em **Enviar**.
 
-3.  Apply the profile.
+3.  Aplique o perfil.
 
-    a.  From **Devices**, in the **Assign and delete devices** pane, select the devices that you want to configure. To select an entire batch, click the checkbox next to the batch name (for example, “Contoso Sales Department PCs – March 2017 order”).
+    a.  Em **Dispositivos**, no painel **Atribuir e excluir dispositivos**, selecione os dispositivos que você deseja configurar. Para selecionar um lote completo, clique na caixa de seleção ao lado do nome do lote (por exemplo, "Computadores do departamento de vendas da Contoso – Pedido de março de 2017").
 
-    b.  Click **Apply profile**, and select the profile (for example, “Contoso Desktop Profile – Skip All OOBE”). The devices will show the profile in the Profile column.
+    b.  Clique em **Aplicar perfil** e selecione o perfil (por exemplo, "Perfil de área de trabalho da Contoso – Ignorar todos os OOBE"). Os dispositivos mostrarão o perfil na coluna Perfil.
 
-4.  Optional: Test to see that your profile works.
+4.  Opcional: teste para verificar se o perfil funciona.
 
-    a.  Connect a device to the network, and turn it on.
+    a.  Conecte um dispositivo à rede e ative-o.
 
-    b.  Verify that the appropriate OOBE screens (if any) appear.
+    b.  Verifique se aparecem as telas OOBE apropriadas (se existirem).
 
-    c.  To prepare the device for a new user, complete the OOBE experience, then reset the device to its factory default settings.
+    c.  Para preparar o dispositivo para um novo usuário, conclua a experiência de OOBE e, em seguida, redefina o dispositivo com as configurações padrão de fábrica.
 
 
-## <a name="to-update-or-delete-a-profile"></a>To update or delete a profile 
+## <a name="to-update-or-delete-a-profile"></a>Para atualizar ou excluir um perfil 
 
-Once you’ve assigned a profile to a device, you can update it, even if you’ve already given the device to your customer. When the device connects to the internet, it downloads the latest version of your profile during the OOBE process. If your customer restores their device to its factory default settings, the device will again download the latest updates to your profile. 
+Depois de atribuir um perfil a um dispositivo, você pode atualizá-lo, mesmo se você já deu o dispositivo para o cliente. Quando o dispositivo é conectado à Internet, ele baixa a versão mais recente do perfil durante o processo de OOBE. Se o cliente restaura o dispositivo com as configurações padrão de fábrica, o dispositivo baixará novamente as atualizações mais recentes para seu perfil. 
 
-### <a name="you-can-remove-a-profile-from-a-device"></a>You can remove a profile from a device
-1. Select the device (or batch of devices) you want to remove the profile from. 
+### <a name="you-can-remove-a-profile-from-a-device"></a>Você pode remover um perfil de um dispositivo
+1. Selecione o dispositivo (ou lotes de dispositivos) para remover o perfil. 
 
-2. In **Assign and delete devices** pane, select **Remove profile**.
+2. No painel **Atribuir e excluir dispositivos**, selecione **Remover perfil**.
 
-3. Go to the profile you want to remove and delete it. The profile will be deleted from all devices.
+3. Vá para o perfil que você deseja remover e exclua-o. O perfil será excluído de todos os dispositivos.
 
-From **Devices**, select the profile. From here, you can modify the existing settings.
+Em **Dispositivos**, selecione o perfil. Aqui, você pode modificar as configurações atuais.
 
 ## <a name="windows-autopilot-eula-dismissal--important-information"></a>Descarte de EULA do Windows Autopilot – informações importantes
 

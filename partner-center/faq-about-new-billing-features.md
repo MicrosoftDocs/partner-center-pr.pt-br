@@ -3,11 +3,11 @@ title: "Perguntas Frequentes sobre os novos recursos de cobrança | Partner Cent
 Description: "Veja a seguir perguntas frequentes sobre cobrança anual, avaliação gratuita e recursos de alinhamento de cobrança do Partner Center."
 ms.assetid: 
 author: MaggiePucciEvans
-ms.openlocfilehash: a0ed40409cfb7ea92713e89a3fea39c4b3f836b6
-ms.sourcegitcommit: c11d72ccf5c92c12eb8ba50fccf85820c4112198
+ms.openlocfilehash: ce871392c529cdfc7b11eddcad92f04b7e3054c2
+ms.sourcegitcommit: bf2476ae1163f5b486d7ba12e784904e47e0b85a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2017
+ms.lasthandoff: 09/29/2017
 ---
 # <a name="faq-about-new-billing-features"></a>Perguntas frequentes sobre os novos recursos de cobrança
 
@@ -245,13 +245,13 @@ Esta documentação deve ser lida, e os preparativos devem ser feitos para imple
 - Dynamics 365 Customer Engagement Plan 1  
 - Dynamics 365 for Financials  
 
-**P:** Quando o serviço estará disponível?
+**P:** Quando ela estará disponível?
 
-**R:** Planejamos disponibilizá-lo em setembro de 2018.
+**R:** Planejamos disponibilizá-la em 17 de outubro de 2017.
 
 **P:** Quem poderá participar?
 
-**R:** Todos os parceiros poderão participar, embora, na China, a versão de avaliação gratuita não estará disponível por vários meses. 
+**R:** Todos os parceiros poderão participar, no entanto, na China, a avaliação gratuita não estará disponível por vários meses. 
 
 **P:** O que devo fazer para me preparar?
 
