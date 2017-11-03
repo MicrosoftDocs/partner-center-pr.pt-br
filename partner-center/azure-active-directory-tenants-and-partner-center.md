@@ -3,11 +3,11 @@ title: Contas corporativas e Partner Center | Partner Center
 description: Para criar uma conta do Partner Center, sua empresa deve ter uma conta corporativa.
 author: labrenne
 robots: 
-ms.openlocfilehash: 503d8af5d299a6dd9098fb5f7aafcf998159fb72
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: 75d4f4f9665078ab88911b5d7104eb8f5796f4c9
+ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 10/03/2017
 ---
 # <a name="your-work-account-and-partner-center"></a>Sua conta corporativa e o Partner Center  
 
@@ -17,7 +17,7 @@ ms.lasthandoff: 09/29/2017
 
 # <a name="why-you-need-a-work-account"></a>Por que você precisa de uma conta corporativa
 
-Precisamos vincular a conta corporativa de sua organização à sua nova conta do Partner Center para que os usuários de locatário possam se conectar ao Partner Center com seus nomes de usuário e senhas do Azure AD (conta corporativa).
+Precisamos vincular a conta corporativa de sua organização à sua nova conta do Partner Center para que os usuários da conta possam se conectar ao Partner Center com seus nomes de usuário e senhas da conta corporativa.
 
 Se a sua empresa já tiver uma conta corporativa, você pode vinculá-la à sua conta do Partner Center. 
 
@@ -25,9 +25,9 @@ Se a sua empresa já tiver uma conta corporativa, você pode vinculá-la à sua 
 
 Se a sua empresa não tiver uma conta corporativa, você poderá criar uma gratuitamente durante o processo de inscrição. Selecione **Criar um novo locatário** na página **Entrar no Active Directory do Azure**. Quando você cria um novo locatário do Azure Active Directory, está criando uma nova conta corporativa. O Azure Active Directory é a solução de gerenciamento de identidade de logon único da Microsoft.
 
-## <a name="not-sure-if-your-company-already-has-an-azure-work-account"></a>Não tem certeza se a sua empresa já tem uma conta corporativa do Azure?
+## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Não tem certeza se a sua empresa já tem uma conta corporativa?
 
-Se você não tiver certeza se a empresa tem uma conta corporativa do Azure, siga estas etapas para verificar. Observe que, se você tiver uma assinatura ativa do Microsoft Azure ou Office 365, já tem uma conta corporativa do Azure.
+Se você não tiver certeza se a empresa tem uma conta corporativa, siga estas etapas para verificar. Observe que, se você tiver uma assinatura ativa do Microsoft Azure ou Office 365, já tem uma conta corporativa.
 1.  Entre no portal de administração do Azure em https://ms.portal.azure.com
 2.  Selecione Azure Active Directory no menu e, em seguida, selecione Nomes de Domínio.
 3.  Se você já tiver uma conta corporativa, seu nome de domínio estará listado.
@@ -36,7 +36,7 @@ Se você não tiver certeza se a empresa tem uma conta corporativa do Azure, sig
 
 Se quiser usar uma conta corporativa existente, mas estiver tendo problemas para se conectar, encontre o cenário no diagrama a seguir que melhor corresponda à sua situação e siga as etapas recomendadas. 
 
-![Você tem uma conta corporativa do Azure ou precisa criar uma?](images/onboardingAADFlow.png)
+![Você tem uma conta corporativa ou precisa criar uma?](images/onboardingAADFlow.png)
 
 Para saber mais sobre como adicionar domínios no Azure AD, consulte [Adicionar ou associar um domínio no Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)
 

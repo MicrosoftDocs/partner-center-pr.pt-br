@@ -3,10 +3,11 @@ title: Criar uma nova assinatura | Partner Center
 description: "Depois de criar um registro de seu cliente no Partner Center, você poderá vender a ele assinaturas de produtos no catálogo."
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: MaggiePucciEvans
-ms.openlocfilehash: 7573af36bfe8c1c0a0840bee6840cd4e58610625
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 4bb9bfe2d620ba6a82d1f4960b8bdc497c6fdf16
+ms.sourcegitcommit: 6d8b97724a100fc6861e9ed8d89ec47cc49f195e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
+ms.lasthandoff: 10/17/2017
 ---
 # <a name="create-a-new-subscription"></a>Criar uma nova assinatura
 
@@ -17,6 +18,9 @@ ms.contentlocale: pt-BR
 -  Partner Center for Microsoft Cloud Germany
 
 Depois de criar um registro de seu cliente no Partner Center, você poderá vender a ele assinaturas de produtos no catálogo.
+
+Note que algumas ofertas são limitadas a uma assinatura por cliente. Para ver uma lista de quais ofertas são restritas, visite a página Ofertas e Preços do Partner Center, abra a Matriz de Ofertas e selecione a guia Office_Dynamics_Windows_Intune, Coluna I. 
+
 
 **Criar uma nova assinatura**
 

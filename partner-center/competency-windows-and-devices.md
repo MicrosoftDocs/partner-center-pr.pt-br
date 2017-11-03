@@ -4,11 +4,11 @@ description: "Compartilhe nossa meta de ter o Windows 10 em 1 bilhão de disposi
 author: Daniel Simpson
 robots: noindex,nofollow
 keywords: "competência,competências,Windows and Devices"
-ms.openlocfilehash: cb41a30e8a578471fd0866cfe343a9b8dd11978b
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: f10523cb7b16ac0122198c372ea95ff62c160866
+ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 10/03/2017
 ---
 #<a name="windows-and-devices"></a>Windows and Devices 
 Compartilhe nossa meta de ter o Windows 10 em 1 bilhão de dispositivos. A oportunidade abrange serviços, aplicativos e dispositivos. Esta competência fornece ferramentas, conteúdo e recursos para ajudá-lo a criar e expandir sua prática rentável do Windows 10.
@@ -87,7 +87,7 @@ A opção de parceiro de dispositivos é ideal se você preferir provar suas hab
 
         - Área de foco **Integrador de sistemas**
 
-            - [Exame 70-734](https://www.microsoft.com/en-us/learning/exam-70-734.aspx): Pré-instalação do OEM para Windows 10
+            - [Exame 70-735](https://www.microsoft.com/en-us/learning/exam-70-735.aspx): Fabricação e implantação do OEM para Windows 10
 
     **OU**
 
