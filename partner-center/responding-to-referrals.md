@@ -1,72 +1,72 @@
 ---
-title: Responding to referrals | Partner Center
-description: Evaluate, negotiate, and respond to referrals through Partner Center.
+title: "Respondendo a indicações | Partner Center"
+description: "Avaliar, negociar e responder a indicações por meio do Partner Center."
 author: KPacquer
-keywords: referral, RFI, Find a Partner
+keywords: "referência, RFI, localizar um parceiro"
 ms.openlocfilehash: 4662b270e6684b8b7cf2e3e59cc6d8e797aad086
 ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 07/07/2017
 ---
-# <a name="responding-to-referrals-in-partner-center"></a>Responding to referrals in Partner Center
+# <a name="responding-to-referrals-in-partner-center"></a>Respondendo a indicações no Partner Center
 
-**Applies to**
+**Aplicável a**
 
 -  Partner Center
 
-As a qualified Microsoft partner, you can receive potential business leads through Partner Center referrals. Manage your incoming leads, respond quickly to those that are a good fit, and skip or decline those that aren’t. Review the types of leads that come in. 
+Como um parceiro da Microsoft qualificado, você pode receber empresas em potencial por meio de indicações do Partner Center. Gerenciar seus clientes em potencial recebidos, responder rapidamente àqueles que são uma boa opção e ignorar ou recusar aqueles que não são. Examinar os tipos de clientes em potencial que entram. 
 
-## <a name="referral-management"></a>Referral management
+## <a name="referral-management"></a>Gerenciamento de referência
 
-Start by setting up a [marketing profile](create-a-marketing-profile.md) for each region where you do business. Once your profile is active, we’ll be able to direct customers to your business, through:
+Iniciar configurando um [perfil de marketing](create-a-marketing-profile.md) para cada região onde você faz negócios. Depois que seu perfil está ativo, poderemos direcionar os clientes à sua empresa, por meio de:
 
-*  Microsoft marketing activities
-*  Internal Microsoft sales and service agents
-*  Customer searches, using the **[Find a partner](https://partnercenter.microsoft.com/pcv/search)** tool.
+*  Atividades de marketing da Microsoft
+*  Vendas internas e agentes de serviço da Microsoft
+*  Pesquisas de clientes, usando a ferramenta **[Localizar um parceiro](https://partnercenter.microsoft.com/pcv/search)**.
 
-When a customer is interested in contacting you, they’ll submit a request for information (RFI). 
+Quando um cliente está interessado em contatar você, ele vai enviar uma solicitação de informações (RFI). 
 
-When that happens, we’ll send email to the contact listed in your [marketing profile](create-a-marketing-profile.md) specific to the region and location selected. You can also see incoming RFIs in Partner Center: go to **Dashboard > Referrals > Customer referrals**.
+Quando isso acontecer, enviaremos e-mails para o contato listado em seu [perfil de marketing](create-a-marketing-profile.md) específico à região e local selecionados. Você também pode ver RFIs recebidos no Partner Center: vá para **Painel > Indicações > Indicações de cliente**.
 
-Customers often choose to send the same RFI to multiple companies at the same time. To increase your chance of success, we recommend responding to and accepting or declining new referrals within 24 hours or less.
+Os clientes geralmente optam por enviar o mesmo RFI a várias empresas ao mesmo tempo. Para aumentar as suas chances de sucesso, recomendamos responder e aceitar ou recusar novas referências dentro de 24 horas ou menos.
 
-### <a name="new-referrals"></a>New referrals
+### <a name="new-referrals"></a>Novas indicações
 
-We’ll show you an overview of the RFI. From here, you can decide whether you’re interested in learning more about the referral. 
+Mostraremos a você uma visão geral da RFI. A partir daqui, você pode decidir se tem interesse em aprender mais sobre a referência. 
 
-*  **I’m interested**: We’ll move the referral to **Evaluating**, and you’ll see the full details about the customer and the offer. 
-*  **No thanks**: We’ll archive it as **Skipped**. We’ll notify the customer to choose a different partner.
-*  If you don’t respond within 72 hours, we’ll archive it as **Missed**. We’ll notify the customer to choose a different partner.
+*  **Estou interessado**: Vamos mover a referência para **Avaliando**, e você verá os detalhes completos sobre o cliente e a oferta. 
+*  **Não, obrigado**: O arquivaremos como **Ignorado**. Nós notificaremos o cliente para escolher um outro parceiro.
+*  Se você não responder dentro de 72 horas, vamos arquivá-lo como **Perdido**. Nós notificaremos o cliente para escolher um outro parceiro.
 
-### <a name="evaluating-referrals"></a>Evaluating referrals
+### <a name="evaluating-referrals"></a>Avaliando indicações
 
-Review the details, and contact the customer. Talk to them about their business needs, and determine if you have an offer that can help them. Accept or decline the referral: 
+Examine os detalhes e entre em contato com o cliente. Converse com eles sobre suas necessidades comerciais e determine se você tem uma oferta que pode ajudá-los. Aceitar ou recusar a referência: 
 
-*  **Accept**: Enter the estimated deal value, the estimated closing date, and select **Accept**. We’ll use this information to help you find similar deals. We’ll move the referral to **Negotiating**. This tells us that you plan to actively engage with the customer to address their need.
-*  **Decline**: We’ll archive it as **Declined**. We’ll notify the customer to choose a different partner.
-*  If you don’t respond within 7 days, we’ll archive it as **Expired**. We’ll notify the customer to choose a different partner.
+*  **Aceitar**: insira o valor estimado de negócio, a data de fechamento estimada e selecione **Aceitar**. Usaremos essas informações para ajudá-lo a encontrar ofertas semelhantes. Vamos mover a referência para **Negociando**. Isso nos diz que você pretende ativamente entrar em contato com o cliente para satisfazer a necessidade dele.
+*  **Recusar**: o arquivaremos como **Recusado**. Nós notificaremos o cliente para escolher um outro parceiro.
+*  Se você não responder dentro de 7 dias, vamos arquivá-lo como **Vencido**. Nós notificaremos o cliente para escolher um outro parceiro.
 
-### <a name="negotiating-referrals"></a>Negotiating referrals
+### <a name="negotiating-referrals"></a>Negociar indicações
 
-Work to close the deal with the customer. Let us know if you won or lost the deal, and archive it as **Won** or **Lost**. 
+Trabalho para fechar a negociação com o cliente. Conte-nos se você perdeu ou ganhou a negociação e a arquive como **Ganho** ou **Perdido**. 
 
-### <a name="archived-referrals"></a>Archived referrals
+### <a name="archived-referrals"></a>Indicações arquivadas
 
-Review your past referrals (**won, lost, skipped, missed, declined** or **expired**) at any time. 
+Revise suas indicações antigas (**ganho, perdido, ignorado, falhado, recusado** ou **expirado**) a qualquer momento. 
 
-## <a name="getting-more-referrals"></a>Getting more referrals
+## <a name="getting-more-referrals"></a>Obtendo mais indicações
 
-Here’s some tips to help make sure you’re getting more referrals that are appropriate to your business:
+Veja algumas dicas para ajudar a garantir que você está obtendo mais indicações apropriadas para sua empresa:
 
-*  **Review your contact information in your [marketing profile](create-a-marketing-profile.md)** for each location to make sure that your team gets incoming alerts.
+*  **Revise suas informações de contato em seu [perfil de marketing](create-a-marketing-profile.md)** para cada local para certificar-se de que sua equipe recebe alertas.
 
-*  **Choose keywords and preferences that represent your unique expertise and business model** in your [marketing profile](create-a-marketing-profile.md). Remove keywords that would generate referrals for you’re not interested in. If you’re not interested in dealing with businesses of a certain size, update this preference.
+*  **Escolha palavras-chave e preferências que representem sua experiência exclusiva e o modelo de negócios** em seu [perfil de marketing](create-a-marketing-profile.md). Remova as palavras-chave que gerariam indicações das quais você não se interessaria. Se você não estiver interessado em como lidar com as empresas de um determinado tamanho, atualize essa preferência.
 
-*  **Respond quickly to referrals**. When you respond in a timely fashion to incoming requests, we’ll increase your visibility in future customer search results. Make sure your team responds quickly with your intent.
+*  **Responder rapidamente a indicações**. Quando você responde em tempo hábil solicitações de entrada, aumentaremos sua visibilidade nos resultados de pesquisas futuros. Verifique se sua equipe responde rapidamente com sua intenção.
 
-*  **Be choosy with the deals you accept**. We monitor the types of deals that you accept and decline, and use this information to help find you similar deals. 
+*  **Seja seletivo com os preços que você aceita**. Nós monitoramos os tipos de ofertas que você aceita ou recusa e usamos essas informações para ajudar a localizar ofertas semelhantes. 
 
-   Accepting deals that aren’t a good fit won’t improve your search results and could impact the quality of the leads you receive.
+   Aceitar ofertas que não são uma boa opção não melhora seus resultados de pesquisa e pode afetar a qualidade dos clientes em potencial que você recebe.
 
-*  **Report back the estimated deal sizes, closing dates, and the final status of your deals** (won or lost). We’ll use this info to continue to provide you with quality referrals.
+*  **Relatar o status final de negócios, datas de fechamento e os tamanhos de negócio estimado** (ganho ou perdido). Usaremos essas informações para continuar a fornecer indicações de qualidade.
