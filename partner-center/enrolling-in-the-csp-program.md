@@ -1,86 +1,52 @@
 ---
-title: Enroll in the CSP program | Partner Center
-description: Before you enroll in the Cloud Solution Provider program, learn more about the CSP program requirements.
-ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
-author: MaggiePucciEvans
-ms.openlocfilehash: 779fa79977798de717a05e1188b9a32ce029e19e
-ms.sourcegitcommit: c11d72ccf5c92c12eb8ba50fccf85820c4112198
+title: "Inscrever-se no programa Provedor de Soluções na Nuvem | Partner Center"
+description: "Conheça os diferentes modelos de venda no CSP e decida qual deles funciona melhor para sua empresa"
+author: labrenne
+ms.openlocfilehash: 648be8e9df0c72096278c3b8881cf986721293ab
+ms.sourcegitcommit: 9952a3abf59a561a650d56ee23aed1ef1b94a50c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2017
+ms.lasthandoff: 11/20/2017
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program"></a>Enroll in the Cloud Solution Provider program
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscrever-se no programa Provedor de Soluções na Nuvem
 
-**Applies to**
+**Aplicável ao**---
 
 -  Partner Center
 
->**Note**<br>
-For information about enrolling in the Cloud Solution Provider program for Microsoft Cloud Germany, see [Enroll in the Cloud Solution Provider program for Microsoft Cloud Germany](enroll-in-csp-for-microsoft-cloud-germany.md) and [Partner Center for Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md).
 
-Before you enroll in the Cloud Solution Provider (CSP) program, learn more about the [CSP program requirements]( http://go.microsoft.com/fwlink/p/?LinkId=617116). For more information about the partner agreement and other program requirements, see [CSP agreements, price lists, and offers](csp-documents-and-learning-resources.md). 
+## <a name="get-started"></a>Introdução
 
->**Important**<br>
-A CSP partner cannot resell online services to another CSP partner currently. This restriction only applies to the tenant used for conducting CSP transactions. CSP partners that use a non-CSP tenant for their corporate usage can purchase online services from another CSP. Microsoft continuously reviews policies and capabilities of all programs. Any announcements about feature releases will be announced through the usual communication channels, including Partner Center.  
+Para se inscrever no programa Provedor de Soluções na Nuvem, primeiramente, é necessário ter uma ID do MPN. Ainda não tem uma? Registre-se [aqui](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=).
 
-Learn how to qualify for CSP program incentives, onboard to the incentives platform, and earn incentives funds. See [Program Details](https://go.microsoft.com/fwlink/?linkid=831533).
+Para preencher o formulário de CSP, você precisará de sua ID do MPN, endereço comercial completo, informações bancárias e o email comercial do funcionário que atuará como administrador no Partner Center.
 
-## <a href="" id="markets"></a>Availability
+Decida qual [modelo CSP é melhor](http://partner-l1.microsoft.com/cloud-solution-provider-direct-or-indirect.html?ocid=cx-pcprograms-cspprogram-tellusmorebusiness) para você e preencha o formulário. 
 
+Pode levar vários dias para analisarmos e verificarmos as informações fornecidas por você. Enviaremos um email quando concluirmos nossa análise.
 
-The Cloud Solution Provider program is available to companies with offices in the following countries/regions. These are grouped by market. Partners in the CSP program can sell to other countries within the same market even if they don't have an office in those locations.
+>**Importante**<br> No momento, um parceiro CSP não pode revender serviços online para outro parceiro CSP. Essa restrição se aplica somente ao locatário usado para a realização de transações CSP. Os parceiros CSP que utilizam um locatário não CSP para uso corporativo podem adquirir serviços online de outro parceiro CSP. A Microsoft examina continuamente as políticas e os recursos de todos os programas. Quaisquer novidades sobre os lançamentos de recursos serão anunciadas por meio dos canais de comunicação normais, incluindo o Partner Center.
 
-| Availability by market                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Brazil                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Canada                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| India                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Japan                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Korea                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| New Zealand                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Russia                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Taiwan                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| United States                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Australia, Fiji                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Anguila, Antígua e Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolívia, Bonaire, Saba, Santo Eustáquio, Ilhas Cayman, Chile, Colômbia, Costa Rica, Curaçao, República Dominicana, Equador, El Salvador, Guiana Francesa, Guadalupe, Guatemala, Honduras, Jamaica, Martinica, México, Nicarágua, Panamá, Paraguai, Peru, Porto Rico, São Cristóvão e Névis, Santa Lúcia, Saint Martin, São Vicente e Granadinas, Saint Maarten, Suriname, Trinidad e Tobago, Ilhas Turcos e Caicos, Uruguai, Venezuela, Ilhas Virgens Americanas                                                                                                           |
-| Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Greenland, Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom, Vatican City, Faroe Islands                                                                                          |
-| Afghanistan, Albania, Algeria, Armenia, Azerbaijan, Bahrain, Belarus, Benin, Bosnia and Herzegovina, Burundi, Comoros, Egypt, French Polynesia, Georgia, Iraq, Israel, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Lebanon, Libya, Macedonia (FYROM), Madagascar, Malawi, Mali, Mayotte, Moldova, Mongolia, Montenegro, Morocco, Mozambique, New Caledonia, Oman, Pakistan, Palestinian Authority, Qatar, Reunion, Serbia, Seychelles, Tajikistan, Togo, Tunisia, Turkmenistan, Ukraine, United Arab Emirates, Uzbekistan, Saudi Arabia, South Africa, Turkey, Yemen, Zimbabwe |
-| Angola, Botswana, Cameroon, Cabo Verde, Côte d'Ivoire, Ethiopia, Ghana, Kenya, Mauritius, Namibia, Nigeria, Rwanda, Senegal, Tanzania, Uganda, Zambia                                                                                                                                                                                                                                                                                  |
-| Bangladesh, Bhutan, Brunei Darussalam, Cambodia, Hong Kong SAR, Indonesia, Laos, Malaysia, Maldives, Marshall Islands, Myanmar, Nepal, Papua New Guinea, Philippines, Singapore, Sri Lanka, Thailand, Tonga, Vietnam, Macao SAR                                                                                                                                                                                                                                                                                           |
-## <a name="billing-currencies-by-country"></a>Billing currencies by country
+### <a name="enroll-as-an-indirect-reseller"></a>Inscrever-se como um revendedor indireto
 
-Your geographic location determines the currency in which you are billed, as shown in the following table. 
+1. Depois de se inscrever como um revendedor indireto, você precisa [encontrar um provedor indireto](https://partnercenter.microsoft.com/partner/find-a-provider) com quem trabalhar. Esse provedor enviará clientes para você, gerenciará a aquisição de softwares que poderão ser vendidos e cuidará do suporte e da cobrança de clientes, permitindo que você se concentre no desenvolvimento de sua empresa de revenda.
 
-| Currency | Country |
-| ---- | ---- |
-| USD | Albânia, Anguilla, Antígua e Barbuda, Argentina, Armênia, Aruba, Azerbaijão, Bahamas, Bahrein, Bangladesh, Barbados, Belarus, Belize, Benin, Bermuda, Bolívia, Bonaire, Saba, Santo Eustáquio, Brasil, Brunei, Burundi, Camarões, Ilhas Cayman, Chile, Colômbia, Comores, Costa Rica, Curaçao, República Dominicana, Equador, Egito, El Salvador, Fiji, Guiana Francesa, Polinésia Francesa, Geórgia, Gana, Guatemala, Honduras, RAE de Hong Kong, Indonésia, Iraque, Israel, Jamaica, Cazaquistão, Quênia, Kuwait, Quirguistão, Líbano, RAE de Macau, Madagascar, Malaui, Malásia, Mali, Maurício, Mayotte, México, Marrocos, Namíbia, Nova Caledônia, Nicarágua, Nigéria, Omã, Paquistão, Panamá, Paraguai, Peru, Filipinas, Porto Rico, Catar, Reunião, Ruanda, Santa Lúcia, Saint Martin, São Vicente e Granadinas, Arábia Saudita, Sérvia, Seicheles, Cingapura, Sint Maarten, África do Sul, Sri Lanka, Suriname, Tanzânia, Tailândia, Timor-Leste, Togo, Trinidad e Tobago, Tunísia, Turquia, Ilhas Turcos e Caicos, Ilhas Virgens Americanas, Ucrânia, Emirados Árabes Unidos, Estados Unidos, Uruguai, Venezuela, Vietnã  | 
-| TWD | Taiwan |
-| SEK | Sweden |
-| INR | India |
-| RUB | Russia |
-| NZD | New Zealand |
-| NOK | Norway |
-| KRW | Korea |
-| JPY | Japan |
-| GBP | Isle of Man, Jersey, United Kingdom |
-| EUR | Andorra, Austria, Belgium, Croatia, Czech Republic, Estonia, Faroe Islands, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg/Belgium, Netherlands, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain |
-| DKK | Denmark |
-| CHF | Switzerland |
-| CAD | Canada |
-| AUD | Australia, Marshall Islands, Papua New Guinea, Tonga |
+2. O administrador global deve configurar sua conta no Partner Center. O administrador global pode adicionar os funcionários da organização que trabalharão no Partner Center, atribuir a eles funções e permissões dependendo do trabalho que desempenharão e configurar o perfil da organização.
 
- 
+3. Seus funcionários receberão um email com as senhas temporárias. Eles devem entrar no Partner Center e alterá-las. Depois disso, poderão começar a trabalhar.
 
-## <a name="partner-center-account"></a>Partner Center account
+4. O funcionário que receber a atribuição da função de administrador de perfil de negócios deve configurar seu perfil de negócios para que você possa receber indicações para clientes.
+
+### <a name="enroll-as-a-direct-partner"></a>Inscrever-se como um parceiro direto
+
+Como um parceiro direto, você possui a relação de ponta a ponta com o cliente e com a Microsoft.
+
+- Depois que você se inscrever e atender aos critérios de aceitação como um parceiro direto, o administrador global poderá configurar sua conta, adicionar funcionários, atribuir funções e permissões a eles de acordo com o trabalho de cada um e configurar o perfil da organização. 
+
+- Se desejar continuar trabalhando com seus clientes atuais por meio do Partner Center, você precisará [associá-los](request-a-relationship-with-a-customer.md) à sua conta.  Dessa forma, a Microsoft poderá conectar sua cobrança e faturamento a eles. 
 
 
-Partner Center requires that the admin for your company has an email address that is authenticated by Azure AD. The admin can use any of their existing work email accounts from a Microsoft cloud service, including Office 365, Azure AD, Microsoft Intune, Enterprise Mobility Services, etc. The process of becoming a reseller will turn this email address into the admin email for a reseller account.
 
-Note that your existing Azure AD-authenticated email address is already registered in a certain market. If you want to sell in a different market, or in multiple markets, you must create a separate email address registered in each market, and use those email addresses to enroll.
-
- 
-
- 
 
 
 

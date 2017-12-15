@@ -3,11 +3,12 @@ title: "Ler sua cobrança | Partner Center"
 description: "Sua fatura é um resumo de todos os encargos (entre programa, produtos e clientes) para o período atual mensal. Está disponível no painel do Partner Center."
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-ms.openlocfilehash: 65c3777c0bd35933f2622fc0de105c051001974e
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
+keywords: "cobrança de assinatura, cobrança, cobrança no partner center, ler minha cobrança, fatura, fatura do partner center, fatura do CSP, onde está minha cobrança?"
+ms.openlocfilehash: d24c9ad9ac90597c8e56843a25a69b9108c020d2
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="read-your-bill"></a>Ler sua cobrança
 
@@ -17,9 +18,15 @@ ms.lasthandoff: 07/01/2017
 -  Partner Center for Microsoft Cloud for US Government
 -  Partner Center for Microsoft Cloud Germany
 
-Sua fatura é um resumo de todos os encargos (entre programa, produtos e clientes) para o período atual mensal. Está disponível no painel do Partner Center.
+Acesse o menu **Painel** e selecione **Cobrança** para ver seu histórico de cobrança e tendências, links para sua fatura e arquivo de reconciliação, além de seu pagamento mais recente.
 
-Para obter detalhes por itens sobre os encargos, use os arquivos de reconciliação acompanhantes. Os arquivos de reconciliação contêm os IDs de clientes e assinaturas que você usará para criar as faturas dos clientes. Para obter mais informações, consulte [Como usar os arquivos de reconciliação](use-the-reconciliation-files.md).
+Os parceiros no programa Provedor de Soluções na Nuvem que escolheram a cobrança mensal pagam à Microsoft 60 dias em atraso pelas assinaturas de seus clientes (baseadas em licença e em uso).
+
+>**Observação**<br>
+Sua fatura é um resumo de todos os encargos (entre programa, produtos e clientes) para o período de cobrança atual e é disponibilizada em até quatro (4) dias da data de cobrança selecionada.
+
+
+Para obter detalhes dos encargos por itens, use os arquivos de reconciliação acompanhantes. Os arquivos de reconciliação contêm os IDs de clientes e assinaturas que você usará para criar as faturas dos clientes. Para obter mais informações, consulte [Como usar os arquivos de reconciliação](use-the-reconciliation-files.md).
 
 ## <a name="invoice-file-definitions"></a>Definições do arquivo de fatura
 
@@ -44,7 +51,7 @@ Para obter detalhes por itens sobre os encargos, use os arquivos de reconciliaç
 </tr>
 <tr class="even">
 <td>Cobrar de</td>
-<td>O endereço onde podemos enviar sua fatura. Para alterar esse endereço, edite seu perfil da conta do Partner Center.</td>
+<td>O endereço para onde enviamos sua fatura. Para alterar esse endereço, vá para Configurações da conta > Perfil de cobrança do parceiro. </td>
 </tr>
 <tr class="odd">
 <td>Encargos recorrentes</td>

@@ -1,10 +1,21 @@
 ---
-título: clientes do Office 365 partner admin center: Prepare-se para mover as operações de negócios para o Partner Center | Partner Center descrição: considerações-chave de clientes do Office 365 partner admin center na migração para o Partner Center ms.prod: author: KPacquer
+title: "Clientes do Office 365 Partner Admin Center: suas operações de negócios estão migrando para o Partner Center| Partner Center"
+description: "Principais considerações para clientes do Office 365 Partner Admin Center ao migrar para o Partner Center"
+author: KPacquer
+ms.openlocfilehash: 2ef8450988027c480b60a51f2626bb94c95c1cb3
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+ms.translationtype: HT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 11/10/2017
 ---
+# <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Clientes do Office 365 Partner Admin Center: preparem-se para migrar as operações de negócios para o Partner Center
 
-# <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Clientes do Office 365 partner admin center: Prepare-se para mover as operações de negócios para o Partner Center
+**Aplicável ao** 
 
-Estamos trazendo os recursos do Office 365 partner admin center para o Partner Center para ajudá-lo a gerenciar seus clientes em todo o ciclo de vida de negócios. Além dos recursos que você está acostumado, agora você poderá: 
+- Partner Center
+- Office 365 Partner Admin Center
+
+Estamos trazendo os recursos do Office 365 Partner Admin Center para o Partner Center para ajudá-lo a gerenciar seus clientes em todo o ciclo de vida de negócios. Além dos recursos que você está acostumado, agora você poderá: 
 
 *  Expanda seus negócios por meio de [indicações](referrals.md)e gerencie seus novos clientes conforme eles chegam.
 *  Envie convites de relacionamento aos clientes em seu próprio nome e do seu provedor

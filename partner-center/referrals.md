@@ -1,32 +1,30 @@
 ---
-title: Grow your business with referrals from Microsoft | Partner Center
-description: Generate business leads and get connected to customers who need help implementing Microsoft products and solutions.
+title: "Expanda seus negócios com indicações da Microsoft | Partner Center"
+description: "Gerar clientes em potencial e conectar-se aos que precisam de ajuda para implementar produtos e soluções da Microsoft."
 author: KPacquer
-keywords: referrals, marketing profile, find a partner
-ms.openlocfilehash: f694f846187b99b79e461b0e4d631157f9536087
-ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
+keywords: "indicações, perfil de negócios, encontrar um parceiro"
+ms.openlocfilehash: a654991846cddb86d936b2f79fa1eccb9c6a3d38
+ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2017
+ms.lasthandoff: 11/16/2017
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
-# <a name="grow-your-business-with-referrals-from-microsoft"></a>Grow your business with referrals from Microsoft
+# <a name="grow-your-business-with-referrals-from-microsoft"></a>Expanda seus negócios com indicações da Microsoft
 
-**Applies to**
+**Aplicável a**
 
 -  Partner Center
 
-Customers need expertise like yours to help implement solutions with Microsoft products and technologies. We’d like to get you connected.
+Muitos clientes procuram por especialistas qualificados para ajudar a implementar as soluções de negócios e tecnologia da Microsoft. Aqui na Microsoft, recebemos com frequência solicitações diretas de ajuda dos clientes por meio de nossas atividades de marketing e de nossos agentes de vendas internos. Os clientes também usam a [experiência **Localize um provedor de soluções**](https://www.microsoft.com/solution-providers/search) para encontrar empresas que possam ajudá-los a atender às suas necessidades de negócios. 
 
-We often get direct requests for help from customers through our marketing activities and from our internal Microsoft sales agents. Customers also use the **Find a Partner** tool in Partner Center to search for qualified Microsoft partners. 
+Queremos conectá-lo a clientes que precisem de suas soluções e conhecimentos. A etapa mais importante para começar a receber nossas oportunidades de vendas é [criar um perfil de negócios](create-a-marketing-profile.md) que mostre as ofertas, soluções e conhecimentos da sua empresa. Seu perfil de negócios será listado em todos os locais onde clientes e agentes de vendas internos da Microsoft procuram por parceiros qualificados. 
 
-Grow your business by showcasing your business to these potential customers, and working with them to help them be successful.
+ Depois de publicar seu perfil de negócios, você começará a receber as oportunidades de vendas por meio do recurso Indicações no Partner Center. É importante responder às indicações dentro dos períodos de tempo exigidos para continuar recebendo essas oportunidades e, principalmente, aproveitar ofertas. Consulte [Respondendo a indicações](responding-to-referrals.md) para obter detalhes sobre como gerenciar oportunidades de vendas no Partner Center.  
 
-*  [Create a marketing profile](create-a-marketing-profile.md). Our sales agents and search tools use these profiles to find appropriate partner businesses with the relevant experience to help our customers.
-
-*  [Respond to referrals](responding-to-referrals.md) When customers express an interest in the contacts you have included in your marketing profile. Learn how to track and quickly respond to these customers.
+Boa sorte!
 
 <!-- 
-*  [Analyze your marketing profile](analyze-your-marketing-profile.md) Regularly review and optimize your marketing profile to make sure you’re getting in front of your target customers.
+*  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you’re getting in front of your target customers.
 -->

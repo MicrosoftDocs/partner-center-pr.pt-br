@@ -1,13 +1,13 @@
 ---
-title: Criar um perfil de marketing | Partner Center
-description: Atraia mais clientes em potencial, criando um perfil de marketing no Partner Center.
+title: "Criar um perfil de negócios | Partner Center"
+description: "Atraia mais clientes em potencial criando um perfil de negócios no Partner Center."
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: b4ff498f7c44e4f2fcb49cb5e4c1d659175ac60a
-ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
+ms.openlocfilehash: edcecf3372453e17d85017a93a258919e29d6608
+ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2017
+ms.lasthandoff: 11/22/2017
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -18,22 +18,23 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
  -->
 
 
-# <a name="create-a-marketing-profile"></a>Criar um perfil de marketing
+# <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>Criar um perfil de negócios para obter oportunidades de vendas da Microsoft
 
 **Aplicável a**
 
 -  Partner Center
 
-Como um parceiro da Microsoft qualificado, você pode criar um perfil de marketing para demonstrar seus negócios a clientes que estão procurando suas soluções exclusivas e seus conhecimentos para atender às necessidades de negócios.
+Como um parceiro da Microsoft qualificado, você pode criar um perfil de negócios para mostrar sua empresa a clientes que estejam procurando suas soluções exclusivas e seus conhecimentos para atender às necessidades de negócios.
 
 A Microsoft emprega milhões de clientes todos os anos por meio de marketing, vendas e esforços de serviço. A maioria desses relacionamentos cria oportunidades para nos fornecer indicações a nossos parceiros na forma de oportunidades de vendas. 
 
-Como a primeira etapa para obter esses clientes em potencial, crie um perfil de marketing. Vamos mostrar seu perfil aos clientes que estiverem procurando por parceiros que podem ajudá-los a implementar produtos da Microsoft e soluções, por meio de:
+Para obter esses clientes em potencial, primeiramente você deve criar um perfil de negócios. Vamos mostrar seu perfil aos clientes que estiverem procurando por parceiros que podem ajudá-los a implementar produtos da Microsoft e soluções, por meio de:
 
-*  **A experiência de busca [Localizar um parceiro](https://partnercenter.microsoft.com/pcv/search)**. Os clientes em potencial podem pesquisar listas de parceiros por conta própria para localizar os parceiros que atendem aos seus critérios de pesquisa. 
+*  **A experiência de busca [Localizar um parceiro](https://partnercenter.microsoft.com/pcv/search)**. Os clientes em potencial podem pesquisar listas de parceiros por conta própria para localizar os parceiros que atendem aos seus critérios de pesquisa.
+
 *  **Referências de vendas da Microsoft e funcionários de serviço**. Os clientes em potencial interessados na implantação de soluções de tecnologia com base em nuvem entram em contato com a Microsoft para ajudar a encontrar profissionais que podem atender às suas necessidades de negócios. Esses profissionais da Microsoft podem, em seguida, consultar os clientes em potencial para sua empresa.
 
-**Pinpoint e C2PC**: estamos incorporando essas ferramentas ao Partner Center. Se você usou essas ferramentas no passado, crie um novo perfil de marketing no Partner Center para continuar a gerar e gerenciar suas oportunidades de vendas. Observe que, no momento, não é possível importar perfis dos sites anteriores. 
+**Pinpoint e C2PC**: estamos incorporando essas ferramentas ao Partner Center. Se você já usou essas ferramentas, crie um novo perfil de negócios no Partner Center para continuar a gerar e gerenciar suas oportunidades de vendas. Observe que, no momento, não é possível importar perfis dos sites anteriores. 
 
 ## <a name="create-a-profile"></a>Criar um perfil
 
@@ -41,9 +42,9 @@ Crie um perfil para cada região onde você está autorizado a fazer negócios.
 
 1.  Entre no [Partner Center](http://go.microsoft.com/fwlink/p/?LinkId=808956) usando uma [conta de administrador global ou de agente administrador](create-user-accounts-and-set-permissions.md).
 
-2.  No menu **Painel**, selecione **Indicações** &gt; **Visualizar perfis de marketing** &gt; selecione um país/região > **[Criar um perfil de marketing](https://partnercenter.microsoft.com/pcv/publishing)**.
+2.  No menu **Painel**, selecione **Indicações** &gt; **Exibir perfis de negócios** &gt; selecione um país/região > **[Criar um perfil de negócios](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-3.  Na página **Criar um perfil de marketing**, selecione uma região e insira suas informações de perfil.
+3.  Na página **Criar um perfil de negócios**, selecione uma região e insira suas informações de perfil.
     
     Observe que, apesar do Partner Center oferecer suporte a vários idiomas, alguns elementos como a descrição e as marcas de forma livre talvez precisem incluir texto de idiomas diferentes, como indicado neste tópico.
 

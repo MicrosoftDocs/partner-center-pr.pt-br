@@ -2,11 +2,11 @@
 title: Criar uma conta do Partner Center | Partner Center
 description: "Saiba como gerenciar sua associação do Microsoft Partner Network, ofertas e benefícios no Partner Center."
 author: MaggiePucciEvans
-ms.openlocfilehash: a69cee525d9abdde2b02f6fac3353415a699f3d5
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
+ms.openlocfilehash: 819570228cb86157915bfc00c67e45615bd44ca7
+ms.sourcegitcommit: 6a45b607b9031843b6652e4c7b4f055dd265bb89
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 11/01/2017
 ---
 # <a name="create-a-partner-center-account"></a>Criar uma conta do Partner Center
 
@@ -25,15 +25,15 @@ Depois de criar uma conta do Partner Center, você pode:
 
 -   Adquirir ofertas de benefício de associação, incluindo o Microsoft Action Pack 
 
--   Activate and manage your network membership benefits
+-   Ativar e gerenciar seus benefícios de associação de rede
 
 ## <a name="before-you-begin"></a>Antes de começar
 
 Para criar uma conta no Partner Center, você precisará ter as seguintes informações em mãos. É recomendável coletar estes itens antes de começar:
 
--   Credenciais de administrador global do locatário do Microsoft Azure Active Directory da sua empresa. Se você não tiver certeza se sua empresa já tem um locatário do Azure AD, consulte [Locatários do Azure Active Directory e Partner Center](azure-active-directory-tenants-and-partner-center.md).
+-   Email comercial do administrador global. Se você não tiver certeza de qual é a conta corporativa da sua empresa, consulte [Locatários do Azure Active Directory e Partner Center](azure-active-directory-tenants-and-partner-center.md).
 
-    Se a sua empresa não tiver um locatário do Azure AD, você poderá criar um durante o processo de inscrição. 
+    Se a sua empresa não tiver uma conta corporativa, você poderá criar uma durante o processo de criação da conta. 
 
 -   Endereço, contato principal e nome legal da empresa. Precisamos dessas informações para confirmar que sua empresa possui um perfil estabelecido e que você está autorizado a agir em seu nome. 
 
@@ -41,17 +41,17 @@ Para criar uma conta no Partner Center, você precisará ter as seguintes inform
 
 -   Nome e email corporativo da pessoa que você deseja que atue como seu contato principal. Para ajudar a garantir a segurança e a privacidade da sua empresa, enviaremos um email para seu contato principal para verificar que (1) ele ou ela se inscreveu em uma conta do Partner Center e que (2) este endereço de email pertence à sua empresa. Depois que o contato principal verificar o endereço de email, continuaremos nossa análise das informações fornecidas por você.
 
-We’ll verify this information during the account creation process. 
+Iremos verificar essas informações durante o processo de criação de conta. 
  
 ## <a name="create-a-partner-center-account"></a>Criar uma conta do Partner Center
 
 1.  Veja as informações na página de **Boas-vindas** e selecione **Avançar**.
 
-2.  Entre no locatário do Azure AD da sua empresa como um administrador global. Se você não tiver certeza se sua empresa já tem um locatário do Azure AD, consulte [Locatários do Azure Active Directory e Partner Center](azure-active-directory-tenants-and-partner-center.md).
+2.  Entre com seu email comercial como um administrador global. Se você não tiver certeza de qual é a conta corporativa da sua empresa, consulte [Locatários do Azure Active Directory e Partner Center](azure-active-directory-tenants-and-partner-center.md).
 
-    Selecione **Entrar no Azure AD** se você souber que sua empresa tem um locatário do Azure AD. Na página seguinte, insira as credenciais de administrador global para o locatário da empresa. 
+    Selecione **Entrar no Azure AD** se você souber que sua empresa tem uma conta de email corporativa. Na página seguinte, insira as credenciais de administrador global para o locatário da empresa. 
 
-    Se sua empresa não tiver um locatário do Azure AD, selecione **Criar novo locatário** para configurar um agora. Depois de configurar um locatário do Azure AD, conecte-se usando as credenciais de administrador global para o seu novo locatário.
+    Se a sua empresa não tiver uma conta corporativa, selecione **Criar um novo locatário** para configurar uma agora. Depois de configurar um locatário do Azure AD (conta corporativa), entre usando as credenciais de administrador global para sua nova conta de email corporativa.
 
 3.  Forneça ou atualize o perfil de negócios legais e informações de contato principais da sua empresa e, em seguida, selecione **Inscrever-se agora**. 
 
@@ -59,9 +59,9 @@ We’ll verify this information during the account creation process.
 
     >**Importante**<br> Para ajudar a garantir a segurança e a privacidade da sua empresa, enviaremos um email para seu contato principal para verificar que (1) ele ou ela se inscreveu em uma conta do Partner Center e que (2) este endereço de email pertence à sua empresa. Depois que o contato principal verificar o endereço de email, continuaremos nossa análise das informações fornecidas por você.
 
-4.  Read and accept the terms and conditions in the Microsoft Partner Network agreement. 
+4.  Leia e aceite os termos e condições do contrato do Microsoft Partner Network. 
 
-5.  Verify that you’ve been added to the admin agent group. To finish setting up your account, including adding other users, you must have admin agent permissions. Follow these steps to view or update your permissions:
+5.  Verifique se você foi adicionado ao grupo de agente administrador. Para concluir a configuração de sua conta, incluindo a adição de outros usuários, você deve ter permissões de agente administrador. Siga estas etapas para exibir ou atualizar suas permissões:
 
     a. No menu **Painel**, selecione **Configurações da conta > Gerenciamento de usuário** e selecione seu nome na lista de usuários. 
 

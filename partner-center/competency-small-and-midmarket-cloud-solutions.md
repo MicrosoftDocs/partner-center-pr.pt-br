@@ -1,35 +1,35 @@
 ---
-title: Small and Midmarket Cloud Solutions Competency
-description: The Small and Midmarket Cloud Solutions competency helps you to create your brand as a partner specialized in selling and deploying Office 365 solutions to small and midsized businesses.
+title: "Competência Small and Midmarket Cloud Solutions"
+description: "A competência Small and Midmarket Cloud Solutions ajuda você a criar sua marca como um parceiro especializado em vender e implantar soluções do Office 365 para pequenas e médias empresas."
 author: Daniel Simpson
-keywords: competency, competencies, Small and Midmarket Cloud Solutions
-ms.openlocfilehash: 2eb5c2a643831854cc781d2aa3f93f2a3fb192aa
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
+keywords: "competência, competências, Small and Midmarket Cloud Solutions"
+ms.openlocfilehash: bef3e59db9ed70ecd4cde3ea6878271f25aa50dd
+ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 11/16/2017
 ---
 # <a name="small-and-midmarket-cloud-solutions"></a>Small and Midmarket Cloud Solutions 
-The Small and Midmarket Cloud Solutions competency helps you to create your brand as a partner specialized in selling and deploying Office 365 solutions to small and midsized businesses.
+A competência Small and Midmarket Cloud Solutions ajuda você a criar sua marca como um parceiro especializado em vender e implantar soluções do Office 365 para pequenas e médias empresas.
 
-## <a name="o365-services-option"></a>O365 Services option
-The Office 365 Services option is ideal for partners that sell and provide Office 365 services for their customers. Complete all the steps within the option to attain the Small and Midmarket Cloud Solutions competency.
+## <a name="o365-services-option"></a>Opção de serviços do O365
+A opção de serviços do Office 365 é ideal para parceiros que vendem e fornecem serviços do Office 365 para seus clientes. Conclua todas as etapas da opção para atingir a competência Small and Midmarket Cloud Solutions.
 
 ### <a name="silver"></a>Silver
-1. Your organization must meet the performance thresholds.
+1. Sua organização deve atender aos limites de desempenho.
     
-    - You must have at least 4 net new Office 365 customers in the last 12 months.
-    - For these customers, you have to be associated as Office 365 Delegated Administrator or Transacting Partner or Digital Partner of Record.
-    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
+    - Você deve ter adicionado 4 novos clientes do Office 365 à sua base de clientes nos últimos 12 meses.
+    - Para esses clientes, você precisa estar associado como administrador delegado, parceiro de transações ou parceiro digital de registro do Office 365.
+    - [Saiba mais](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) sobre essas associações.
 
 ### <a name="gold"></a>Gold
-1. Your organization must meet the performance thresholds.
+1. Sua organização deve atender aos limites de desempenho.
 
-    - You must have at least 25 net new Office 365 customers in the last 12 months.
-    - For these customers, you have to be associated as Office 365 Delegated Administrator or Transacting Partner or Digital Partner of Record.
-    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
+    - Você deve ter adicionado 25 novos clientes do Office 365 à sua base de clientes nos últimos 12 meses.
+    - Para esses clientes, você precisa estar associado como administrador delegado, parceiro de transações ou parceiro digital de registro do Office 365.
+    - [Saiba mais](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) sobre essas associações.  
   
-2. Your organization must have **2** individuals pass the exam requirements.
+2. Sua organização deve ter **2** pessoas aprovadas nos requisitos do exame.
 
-    - **2** individuals must each pass the following exam:
-        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
+    - Cada uma das **2** pessoas deve passar no exame a seguir:
+        - [Exame 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Habilitando serviços do Office 365

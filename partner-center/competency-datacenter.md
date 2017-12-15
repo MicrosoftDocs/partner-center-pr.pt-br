@@ -3,11 +3,11 @@ title: "Competência Datacenter"
 description: "A competência Datacenter reconhece parceiros que estão transformando datacenters em soluções mais flexíveis, escalonáveis e econômicas."
 author: Daniel Simpson
 keywords: "competência, competências, Datacenter"
-ms.openlocfilehash: 1af1a00f68d726377017dffbdc96ed636b027576
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: 1a3e4c8b9bb2334e9a500ee7b8c32a184c26124e
+ms.sourcegitcommit: 5d287f46ef841f21e2171498efb2e309662c7965
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 11/21/2017
 ---
 #<a name="datacenter"></a>Datacenter
 A competência Datacenter reconhece parceiros que estão transformando datacenters em soluções mais flexíveis, escalonáveis e econômicas.
@@ -18,14 +18,16 @@ A opção Soluções de Datacenter é ideal se você preferir comprovar suas hab
 
     - Área de foco **System Center** 2012
 
-        - [Exame 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): Monitoramento e operação de uma nuvem privada com o System Center 2012
-        - [Exame 70 247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): Configuração e implementação de uma nuvem particular com o System Center 2012
+        - [Exame 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): Monitoramento e operação de uma nuvem privada com o System Center 2012*
+        - [Exame 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): Configuração e implantação de uma nuvem privada com o System Center 2012*
 
-    - Área de foco **Virtualização**
+\* Desativação em 31 de dezembro de 2017. Esse exame continuará sendo aceito para qualificação de competência até 31 de dezembro de 2018. Você pode se registrar para esse exame até 30 de novembro de 2017.
+
+   - Área de foco **Virtualização**
 
         - [Exame 74 409](https://www.microsoft.com/en-us/learning/exam-74-409.aspx): Server Virtualization with Windows Server Hyper-V and System Center
 
-    - Área de foco do **Windows Server 2012**
+   - Área de foco do **Windows Server 2012**
 
         - [Exame 70 410](https://www.microsoft.com/en-us/learning/exam-70-410.aspx): Instalação e configuração do Windows Server 2012
         - [Exame 70 411](https://www.microsoft.com/en-us/learning/exam-70-411.aspx): Administrando o Windows Server 2012
@@ -34,7 +36,7 @@ A opção Soluções de Datacenter é ideal se você preferir comprovar suas hab
         - [Exame 70 414](https://www.microsoft.com/en-us/learning/exam-70-414.aspx): Implementação de uma infraestrutura de servidor avançada
         - [Exame 70 417](https://www.microsoft.com/en-us/learning/exam-70-417.aspx): Atualizando suas habilidades para MCSA Windows Server 2012
 
-    - Área de foco **Windows Server** 2016
+   - Área de foco **Windows Server** 2016
         - [Exame 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, Storage, and Compute with Windows Server 2016
         - [Exame 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Rede com Windows Server 2016
         - [Exame 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identidade com o Windows Server 2016

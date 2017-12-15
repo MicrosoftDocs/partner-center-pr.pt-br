@@ -1,87 +1,87 @@
 ---
-title: CSP regional authorization tenant consolidation | Partner Center
-description: Use these instructions to consolidate tenants for different country/regions.
+title: "Consolidação de locatários de autorização regional do CSP | Partner Center"
+description: "Use estas instruções para consolidar locatários para países/regiões diferentes."
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
-ms.openlocfilehash: 06709900a4f98c44ef0ae8505928d7c901ee8473
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
+ms.openlocfilehash: 655bcee32824f0a2a8859951edea35b2d56922a8
+ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 11/16/2017
 ---
-# <a name="csp-regional-authorization-tenant-consolidation"></a>CSP regional authorization tenant consolidation
+# <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidação de locatários de autorização regional do CSP
 
-**Applies to**
+**Aplicável a**
 
 -  Partner Center
 -  Partner Center for Microsoft Cloud for US Government
 -  Partner Center for Microsoft Cloud Germany
 
-\[Some information relates to pre-released product which may be substantially modified before it's commercially released. Microsoft makes no warranties, express or implied, with respect to the information provided here.\]
+\[Algumas informações dizem respeito a produtos de pré-lançamento que poderão ser substancialmente modificados antes do lançamento comercial. A Microsoft não fornece nenhuma garantia, expressa ou implícita, com relação às informações fornecidas aqui.\]
 
-Use these instructions to consolidate tenants for different country/regions.
+Use estas instruções para consolidar locatários para países/regiões diferentes.
 
-**Observação**  Você deve estar ciente de todas as assinaturas e números de estações para seus clientes provisionados nas contas de transição. Partners will be re-provisioning those same exact subscriptions with the same seat counts under the new Central CSP account as part of the migration process. Use the export list feature to help create a list of customers to move over to the centralized tenant. Partners choose to consolidate their tenants. Once consolidation is complete, Partners cannot revert to their previous state. Note that customer action is also be required.
+**Observação**  Você deve estar ciente de todas as assinaturas e números de estações para seus clientes provisionados nas contas de transição. Você reprovisionará exatamente as mesmas assinaturas com o mesmo número de estações sob a nova conta de CSP Central como parte do processo de migração. Use o recurso de lista de exportação para ajudar a criar uma lista de clientes para mover para o locatário centralizado. Os parceiros optam por consolidar seus locatários. Quando consolidação for concluída, os parceiros não poderão reverter para seu estado anterior. Observe que a ação do cliente talvez seja necessária.
 
  
 
-## <a name="prepare-for-migration"></a>Prepare for migration
+## <a name="prepare-for-migration"></a>Preparar para a migração
 
 
--   Log on to <https://partnercenter.microsoft.com> with the Transitioning (existing) account and take note of all customers and all of the services provisioned for those customers.
+-   Faça logon em <https://partnercenter.microsoft.com> com a conta de transição (existente) e anote todos os clientes e todos os serviços provisionados para esses clientes.
 
-![regional customer list](images/regionalcustomer1.png)
+![lista de clientes regionais](images/regionalcustomer1.png)
 
-## <a name="migrate-customer-accounts"></a>Migrate customer accounts
+## <a name="migrate-customer-accounts"></a>Migrar contas de clientes
 
 
 1.  Faça logon em <https://partnercenter.microsoft.com> com a conta de transição (nova) e navegue até a lista de clientes do painel do Partner Center.
 
-2.  Select Customer.
+2.  Selecione Clientes.
 
-3.  Clique em **Solicitar uma relação de revendedor**. You are presented with a default email message to present to your customers. This message contains a URL with the org ID unique to your new Partner Center account.
+3.  Clique em **Solicitar uma relação de revendedor**. Será exibida uma mensagem de email padrão para apresentar aos seus clientes. Essa mensagem contém uma URL com a ID da organização exclusiva para sua nova conta do Partner Center.
 
-4.  **Ação do cliente:** Certifique-se de que cada um dos clientes ativos que você deseja migrar visite essa URL. When opening the URL, the customer is prompted to sign in to the Office 365 portal. The customer signs in using the same Org ID that they use to access the Azure and Office 365 admin portals.
+4.  **Ação do cliente:** Certifique-se de que cada um dos clientes ativos que você deseja migrar visite essa URL. Ao abrir a URL, o cliente será solicitado a entrar no portal do Office 365. O cliente entra usando a mesma ID da organização que ele usa para acessar os portais de administrador do Azure e do Office 365.
 
-5.  After signing in, the Global Admin for the customer account is prompted to submit an agreement to give delegated admin privileges to the new CSP account. If they agree, the customer selects the checkbox and agrees to authorize the relationship.
+5.  Ao entrar, o Administrador Global da conta do cliente será solicitado a enviar um contrato para conceder privilégios de administrador delegado à nova conta CSP. Se concordar, o cliente marca a caixa de seleção e concorda em autorizar o relacionamento.
 
-The customers will appear in the partner’s customer list after they have submitted the agreement, one by one.
+Os clientes aparecerão na lista de clientes do parceiro após o envio do contrato, um por um.
 
-## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Migrating Office 365 and non-Azure usage-based subscriptions
+## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Migrando assinaturas baseadas em uso do Office 365 e não Azure
 
 
-1.  Once your customer has signed the agreement, you can recreate their subscriptions under your Centralized Partner Tenant.
+1.  Depois que o cliente assinar o contrato, você poderá recriar as assinaturas dele em seu locatário parceiro centralizado.
 
 2.  No painel do Partner Center, clique em **Clientes** na seção de navegação à esquerda
 
-3.  Open the company name for the customer you want to migrate.
+3.  Abra o nome da empresa do cliente que você deseja migrar.
 
 4.  Clique em **Adicionar assinatura**.
 
-5.  Add the correct subscriptions and seat counts from the catalog. Verificar com as informações fornecidas nas contas de parceiro de **origem da transição**.
+5.  Adicione as assinaturas corretas e os números de estações do catálogo. Verificar com as informações fornecidas nas contas de parceiro de **origem da transição**.
 
-    ![screenshot of customer list](images/regionalcustomer2.png)
+    ![captura de tela da lista de clientes](images/regionalcustomer2.png)
 
 6.  Clique em **Enviar**.
 
 Agora os serviços serão fornecidos para o cliente da conta de parceiro de **destino da transição**.
 
-Repeat these steps to migrate subscriptions for all additional customers.
+Repita essas etapas para migrar assinaturas para todos os outros clientes.
 
-Before proceeding to the next section, ensure all customer subscriptions existing under the **Transitioning From** partner accounts are re-provisioned under the **Transitioning To** partner account.
+Antes de prosseguir para a próxima seção, certifique-se de que todas as assinaturas de cliente existentes nas contas de parceiros de **origem da transição** sejam reprovisionadas sob a conta de parceiro de **destino da transição**.
 
-**Note**  Partners must suspend subscriptions on the **Transitioning From** Partner Tenant account in Partner Center the same day that those subscriptions are transitioned and set up under the **Transitioning To** Partner Tenant account in the Partner Center to ensure double billing does not occur. Support requests will be denied for credits due to any overlap in billing that occurs from not correctly setting the **Transitioning From** subscriptions to disabled.
+**Observação**  Os parceiros devem suspender as assinaturas na conta de locatário parceiro de **origem da transição** no Partner Center no mesmo dia que essas assinaturas são transmitidas e configuradas na conta de locatário parceiro de **destino da transição** no Partner Center para garantir que não haja cobrança dupla. As solicitações de suporte serão negadas para créditos decorrentes de alguma sobreposição de cobranças que ocorra devido à não configuração das assinaturas de **origem da transição** como desabilitadas.
 
  
 
-## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Disabling the Office 365 subscriptions under the Transitioning From partner account
+## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Desabilitando as assinaturas do Office 365 na conta de parceiro de origem da transição
 
 
-Desabilitar a assinatura de CSP sob as contas de parceiros de **destino da transição** impede qualquer cobrança futura. You do not have to manually disable Azure subscriptions, because Azure subscriptions are automatically disabled during the migration process.
+Desabilitar a assinatura de CSP sob as contas de parceiros de **destino da transição** impede qualquer cobrança futura. Você não precisa desabilitar manualmente as assinaturas do Azure, elas são desativadas automaticamente durante o processo de migração.
 
 1.  Faça logon em <https://partnercenter.microsoft.com> com a conta CSP de **origem da transição** e navegue até a lista de clientes.
 
-2.  Open the customer with subscriptions to disable, and then select the first offer to disable.
+2.  Abra o cliente com assinaturas para desabilitar e, em seguida, selecione a primeira oferta a ser desabilitada.
 3.  Defina a assinatura como **suspensa** e clique em **enviar**.
 
     **Observação**  Suspender a assinatura garante que a cobrança dupla não ocorra.
@@ -90,70 +90,70 @@ Desabilitar a assinatura de CSP sob as contas de parceiros de **destino da trans
 
     A assinatura é exibida como **suspensa** na lista de assinaturas.
 
-4.  Repeat these steps for all subscriptions under the customer. Verifique se todas são exibidas como **suspensas**.
+4.  Repita essas etapas para todas as assinaturas sob o cliente. Verifique se todas são exibidas como **suspensas**.
 
-5.  Select the next customer on the list and repeat the process of disabling all subscriptions.
+5.  Selecione o próximo cliente na lista e repita o processo para desabilitar todas as assinaturas.
 
-## <a name="migrating-azure-usage-based-subscriptions"></a>Migrating Azure usage-based subscriptions
+## <a name="migrating-azure-usage-based-subscriptions"></a>Migrando assinaturas baseadas em uso do Azure
 
 
-Note that Azure usage-based CSP subscriptions do not need to be migrated manually as in the case with Office 365 CSP subscriptions. Microsoft Azure Support can migrate the Azure subscriptions as well as all deployed services or resources from the **Transitioning From** CSP reseller accounts to the **Transitioning To** CSP reseller account. There will be no disruption of service to the customer during this transition.
+Observe que assinaturas de CSP baseadas em uso do Azure não precisam ser migradas manualmente como no caso das assinaturas de CSP do Office 365. O suporte do Microsoft Azure pode migrar as assinaturas do Azure, bem como todos os serviços ou recursos implantados, das contas de revendedor CSP de **origem da transição** para a conta de revendedor CSP de **destino da transição**. Não haverá qualquer interrupção do serviço para o cliente durante a transição.
 
-1.  Ensure that the customer accounts that need Azure subscriptions migrated have accepted the agreement to be associated with the new **Transitioning To** CSP account.
-2.  Partners notify Microsoft which customer accounts that have Azure subscriptions are ready to migrate, and provides those customer’s company names.
-3.  Microsoft migrates the Azure usage-based subscriptions and notifies the partner when the migration is complete.
-4.  The partner confirms that the Azure subscription under the **Transitioning From** CSP reseller accounts now shows suspended in the Partner Center under the customer subscriptions section.
-5.  The partner confirms that the Azure subscription under the **Transitioning To** CSP reseller account now shows a status of **active** in the Partner Center under the customer subscriptions section.
+1.  Certifique-se de que as contas de clientes que precisam de assinaturas do Azure migradas aceitem o contrato para serem associadas à nova conta CSP de **destino da transição**.
+2.  Os parceiros notificam a Microsoft quais contas de clientes que têm assinaturas do Azure estão prontas para migrar, fornecendo também os nomes de empresa do cliente.
+3.  A Microsoft migra as assinaturas baseadas em uso do Azure e notifica o parceiro quando a migração é concluída.
+4.  O parceiro confirma se agora a assinatura do Azure sob a conta de revendedor CSP de **origem da transição** é exibida como suspensa no Partner Center, na seção de assinaturas de cliente.
+5.  O parceiro confirma se agora a assinatura do Azure sob a conta de revendedor CSP de **destino da transição** mostra o status de **ativa** no Partner Center, na seção de assinaturas de cliente.
 
-    **Observação**  Desabilitar as assinaturas sob o cliente não altera a aparência do cliente na Lista de clientes. There is currently no option to remove customers from the list. Os parceiros devem evitar readicionar assinaturas para esses clientes a partir da conta de **destino da transição** no futuro.
-
-     
-
-6.  Repita essas etapas para todas as assinaturas em todos os seus clientes para impedir encargos futuros nas contas de **origem da transição**. The partner will receive one final invoice with a credit for the number of unused days between the day of cancellation and the last day of the billing period. No future invoices will generate after that final billing period.
-
-### <a name="notes"></a>Notes
-
--   Disabling the subscription from the **Transitioning From** CSP account does not impact end customer’s service provided the service was provisioned from the **Transitioning To** CSP account prior to the disable.
-
--   Subscriptions cannot be used by the customer and do not generate charges when suspended or cancelled.
-
--   There is currently no way to remove a customer from the Customers list completely.
-
--   **Note**  Partners must suspend subscriptions on the **Transitioning From** Partner Tenant account in Partner Center the same day that those subscriptions are transitioned to and set up under the **Transitioning To** Partner Tenant account in the Partner Center to ensure double billing does not occur. Microsoft will not support requests for credits due to any overlap in billing which occurs from not correctly setting the **Transitioning From** subscriptions to suspended.
+    **Observação**  Desabilitar as assinaturas sob o cliente não altera a aparência do cliente na Lista de clientes. Atualmente, não há uma opção para remover clientes da lista. Os parceiros devem evitar readicionar assinaturas para esses clientes a partir da conta de **destino da transição** no futuro.
 
      
 
-### <a name="simplify-migration-using-export"></a>Simplify migration using Export
+6.  Repita essas etapas para todas as assinaturas em todos os seus clientes para impedir encargos futuros nas contas de **origem da transição**. O parceiro receberá uma fatura final com um crédito pelo número de dias não utilizados entre o dia de cancelamento e o último dia do período de cobrança. Nenhuma fatura futura será gerada após esse período de cobrança final.
+
+### <a name="notes"></a>Observações
+
+-   Desabilitar a assinatura da conta CSP de **origem da transição** não afeta o serviço do cliente final contanto que o serviço tenha sido provisionado pela conta CSP de **destino da transição** antes de desabilitar.
+
+-   A assinaturas não podem ser usadas pelo cliente e não geram encargos quando são suspensas ou canceladas.
+
+-   Atualmente, não há uma maneira de remover completamente um cliente da Lista de clientes.
+
+-   **Observação**  Os parceiros devem suspender as assinaturas na conta de locatário parceiro de **origem da transição** no Partner Center no mesmo dia que essas assinaturas são transmitidas e configuradas na conta de locatário parceiro de **destino da transição** no Partner Center para garantir que não haja cobrança dupla. A Microsoft não dará suporte para solicitações de créditos decorrentes de alguma sobreposição de cobranças que ocorra devido à não configuração das assinaturas de **origem da transição** como suspensas.
+
+     
+
+### <a name="simplify-migration-using-export"></a>Simplificar a migração usando Exportar
 
 Usando a **função Exportar**, você pode capturar as assinaturas que serão usadas em sua nova estrutura consolidada:
 
 1.  Clique em **Clientes** em seu painel para ver a lista de clientes em sua estrutura existente.
 
-2.  Open the desired customer name.
+2.  Abra o nome do cliente desejado.
 
 3.  Na página **Assinaturas**, clique em **Exportar Assinaturas** para exportar os detalhes das assinaturas para um arquivo do Excel.
 
-4.  Use this list to recreate the subscriptions in your new consolidated tenant.
+4.  Use essa lista para recriar as assinaturas em seu novo locatário consolidado.
 
-### <a name="api-registration"></a>API registration
+### <a name="api-registration"></a>Registro de API
 
 Para obter mais informações sobre o registro de API [consulte esta página](https://go.microsoft.com/fwlink/?linkid=847990).
 
-## <a name="partner-center-activity-log"></a>Partner Center Activity log
+## <a name="partner-center-activity-log"></a>Log de atividades do Partner Center
 
 
-With the Activity log, partners can view a record of all customer-affecting changes made on their tenant. This helps partners track changes on a customer tenant.
+Com o log de atividades, os parceiros podem ver um registro de todas as alterações feitas em seu locatário que afetam o cliente. Isso ajuda a parceiros a controlar as alterações em um locatário do cliente.
 
-**View the Activity log**
+**Exibir o log de atividades**
 
 1.  No painel do Partner Center, clique no link **Log de atividades**.
 2.  Na página **Log de atividades**, veja as alterações feitas nas contas de cliente. Para filtrar o log de atividades por data, escolha as datas de **início** e **término** para restringir os registros selecionados no log. Para filtrar por cliente no **Log de atividades**, use a caixa de pesquisa.
 
-**Export the Activity log**
+**Exportar o log de atividades**
 
 -   Clique em **Exportar log** para exportar os dados de seu log de atividades para um arquivo CSV.
 
-    You can also export the customer list and the subscription list of a single customer (from the customer’s subscription page).
+    Você também pode exportar a lista de clientes e a lista de assinaturas de um único cliente (na página de assinaturas do cliente).
 
  
 

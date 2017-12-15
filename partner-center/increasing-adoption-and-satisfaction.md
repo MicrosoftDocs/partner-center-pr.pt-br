@@ -3,9 +3,11 @@ title: "Aumentar a adoção e a satisfação | Partner Center"
 description: "Nossos parceiros usam muitos métricas para avaliar se seus negócios estão crescendo e onde concentrar o investimento. O Partner Center pode ajudar informando se e como os clientes estão usando as licenças adquiridas."
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 8d02f753307991cd740c78db9e751a44358597f6
+ms.sourcegitcommit: a8c51a2aade51c6fd7f134613fad121e89ffd719
+ms.translationtype: HT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 11/21/2017
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Aumentar a adoção e a satisfação
 
@@ -17,7 +19,9 @@ Nossos parceiros usam muitos métricas para avaliar se seus negócios estão cre
 
 Você pode ver dados de todos os seus clientes por meio do programa Provedor de Soluções na Nuvem. Observe que alguns clientes podem comprar licenças de outros parceiros ou diretamente da Microsoft — nesse caso, você verá o total de licenças em todos os parceiros. Para ver apenas suas próprias licenças, vá para assinaturas do cliente.
 
-## <a name="find-license-and-user-data"></a>Localize dados de licença e do usuário
+>**Observação**<br> No momento, mostramos apenas dados do Office 365 e do Dynamics 365. Habilitaremos dados de outros produtos no futuro.
+
+## <a name="find-license-and-user-data"></a>Localizar dados de licença e do usuário
 
 
 **Para um único cliente**

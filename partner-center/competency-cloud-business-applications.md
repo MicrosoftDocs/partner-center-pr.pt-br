@@ -1,15 +1,16 @@
 ---
-title: "Competência de aplicativos de negócios na nuvem"
+title: "Competência de Aplicativos de Negócios na Nuvem"
 description: "A competência de aplicativos de negócios na nuvem é para parceiros especializados em implantação e gerenciamento do Microsoft Dynamics 365 para seus clientes."
 author: Daniel Simpson
 keywords: "competência, competências, aplicativos de negócios na nuvem"
-ms.openlocfilehash: d38847cf292c15334bc850e0782a1af9842f3d33
-ms.sourcegitcommit: 581682c6f2098dc4cf19ca82fcdec90bc6bfe975
+ms.openlocfilehash: 073e31972c8abcfdb176d6ceec65bbda67e8a5f0
+ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/13/2017
+ms.lasthandoff: 11/16/2017
 ---
-#<a name="cloud-business-applications"></a>Aplicativos de negócios na nuvem 
+# <a name="cloud-business-applications"></a>Aplicativos de negócios na nuvem 
+
 A competência de aplicativos de negócios na nuvem é para parceiros especializados em implantação e gerenciamento do Microsoft Dynamics 365 para seus clientes.
 
 - [Opção de compromisso de cliente corporativo](#enterprise-customer-engagement-option)
@@ -24,10 +25,10 @@ A competência Aplicativos de Negócios na Nuvem oferece suporte a parceiros com
 Você também pode celebrar as realizações de um determinado funcionário ao longo do caminho com selos digitais que reconhecem e diferenciam suas conquistas em tempo real. [Saiba mais](https://www.microsoft.com/en-us/learning/badges.aspx).  
 
 
-##<a name="enterprise-customer-engagement-option"></a>Opção de compromisso de cliente corporativo
+## <a name="enterprise-customer-engagement-option"></a>Opção de compromisso de cliente corporativo
 A opção de compromisso de cliente corporativo é ideal para parceiros que interagem com clientes corporativos. Conclua todas as etapas para atingir a competência de aplicativos de negócios na nuvem.
 
-###<a name="silver"></a>Prata
+### <a name="silver"></a>Prata
 1. Sua organização deve atender aos seguintes limites de desempenho.
 
     - **Mercados desenvolvidos**
@@ -50,13 +51,12 @@ A opção de compromisso de cliente corporativo é ideal para parceiros que inte
     
     **E**
     
-    - As mesmas **5** pessoas, ou cinco pessoas diferentes, devem passar em um dos seguintes exames:
+    - As mesmas **5** pessoas devem ser aprovadas em um dos seguintes exames funcionais:
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
-        - MB2-877: Microsoft Dynamics 365 for Field Service (disponível em dezembro de 2017)
-        
+        - [MB2-877](https://www.microsoft.com/en-us/learning/exam-MB2-877.aspx): Microsoft Dynamics 365 for Field Service *Novo exame disponível a partir de dezembro de 2017
 
-###<a name="gold"></a>Ouro
+### <a name="gold"></a>Ouro
 1. Sua organização deve atender aos seguintes limites de desempenho.
 
     - **Mercados desenvolvidos**
@@ -82,13 +82,13 @@ A opção de compromisso de cliente corporativo é ideal para parceiros que inte
     - As mesmas **15** pessoas, ou cinco pessoas diferentes, devem passar em um dos seguintes exames:
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
-        - MB2-877: Microsoft Dynamics 365 for Field Service (disponível em dezembro de 2017)
+        - [MB2-877](https://www.microsoft.com/en-us/learning/exam-MB2-877.aspx): Microsoft Dynamics 365 for Field Service 
 
-##<a name="enterprise-operations-option"></a>Opção de operações corporativas
+## <a name="enterprise-operations-option"></a>Opção de operações corporativas
 
 A opção de operações corporativas é ideal para parceiros interagindo com clientes corporativos, especialmente no Plano de Operações Unificadas do Dynamics 365. Conclua todas as etapas para atingir a competência Aplicativos de Negócios na Nuvem.
 
-###<a name="silver"></a>Prata
+### <a name="silver"></a>Prata
 1. Sua organização deve atender aos seguintes limites de desempenho.
 
     - **Mercados desenvolvidos**
@@ -107,35 +107,21 @@ A opção de operações corporativas é ideal para parceiros interagindo com cl
     - [Saiba mais](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) sobre essas associações.  
 
 2. Sua organização deve ter **5** pessoas aprovadas nos requisitos do exame.
-
-    - As **5** pessoas devem ser aprovadas em todos os seguintes exames técnicos: 
-
-        - MB6-894: Desenvolvimento, extensões e implantação para Finanças e Operações do Dynamics 365, edição Enterprise (disponível em novembro de 2017)
-
-        - 70 534: Arquitetura de Soluções do Microsoft Azure (disponível em novembro de 2017)
-
-    **E**
+ 
+    - As **5** pessoas devem ser aprovadas em todos os exames técnicos a seguir:
+        - [MB6-894](https://www.microsoft.com/en-us/learning/exam-MB6-894.aspx): Desenvolvimento, extensões e implantação para Microsoft Dynamics 365 for Finance and Operations* 
+        - [70-535](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Arquitetura de soluções do Microsoft Azure
     
-    - As mesmas **5** pessoas, ou cinco pessoas diferentes, devem passar em um dos seguintes exames funcionais: (disponíveis em novembro de 2017)
+    **E**
+
+    - As mesmas **5** pessoas, ou 5 pessoas diferentes, devem ser aprovadas em um dos seguintes exames funcionais: 
+        - [MB6-895](https://www.microsoft.com/en-us/learning/exam-MB6-895.aspx): Gerenciamento financeiro no Microsoft Dynamics 365 for Finance and Operations
+        - [MB6-896](https://www.microsoft.com/en-us/learning/exam-mb6-896.aspx): Distribuição e comercialização no Microsoft Dynamics 365 for Finance and Operations
+        - [MB6-897](https://www.microsoft.com/en-us/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail 
         
-        - MB6-895: Gerenciamento de Finanças no Microsoft Dynamics 365 para Finanças e Operações, edição Enterprise (disponível em novembro de 2017)
-        
-        - MB6-896: Distribuição e Comercialização no Microsoft Dynamics 365 para Finanças e Operações, edição Enterprise (disponível em novembro de 2017)
-        
-        - MB6-897: Microsoft Dynamics 365 para Varejo (disponível em novembro de 2017)
+*Novo exame disponível a partir de dezembro de 2017
 
-    **OU**
-
-    - As **5** pessoas devem ser aprovadas em todos os seguintes exames técnicos e funcionais:
-        - [MB6-705]: Microsoft Dynamics AX2012R3 CU8 Installation and Configuration*  
-        - [MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): Finanças do Microsoft Dynamics AX*
-        - [MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): Distribuição e Comercialização do Microsoft Dynamics AX*
-        - [MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Introdução ao Desenvolvimento do Microsoft Dynamics AX*
-        - [70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administrando uma Infraestrutura de banco de dados do Microsoft SQL*
-
-\* Desativação em 31 de dezembro de 2017. Essas provas continuarão sendo aceitas para qualificação de competência até 31 de dezembro de 2018.
-
-###<a name="gold"></a>Ouro
+### <a name="gold"></a>Gold
 
 1. Sua organização deve atender aos seguintes limites de desempenho.
 
@@ -159,24 +145,17 @@ A opção de operações corporativas é ideal para parceiros interagindo com cl
 
    - As **15** pessoas devem ser aprovadas em todos os seguintes exames técnicos: 
 
-        - MB6-894: Desenvolvimento, extensões e implantação para Finanças e Operações do Dynamics 365, edição Enterprise (disponível em novembro de 2017)
+        - MB6-894: Desenvolvimento, extensões e implantação para Dynamics 365 Finance and Operations, edição Enterprise (disponível em novembro de 2017)
 
-        - 70 534: Arquitetura de Soluções do Microsoft Azure (disponível em novembro de 2017)
+    - As **15** pessoas devem ser aprovadas em todos os seguintes exames:
+        - [MB6-894](https://www.microsoft.com/en-us/learning/exam-MB6-894.aspx): Desenvolvimento, extensões e implantação para Microsoft Dynamics 365 for Finance and Operations* 
+        - [70-535](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Arquitetura de soluções do Microsoft Azure 
 
-   **E**
-    
-    - As mesmas **15** pessoas, ou cinco pessoas diferentes, devem passar em um dos seguintes exames funcionais:
-        
-        - MB6-895: Gerenciamento de Finanças no Microsoft Dynamics 365 para Finanças e Operações, edição Enterprise (disponível em novembro de 2017)
-        - MB6-896: Distribuição e Comercialização no Microsoft Dynamics 365 para Finanças e Operações, edição Enterprise (disponível em novembro de 2017)
-        - MB6-897: Microsoft Dynamics 365 para Varejo (disponível em novembro de 2017)
+    **E** 
 
-    **OU**
-    - As **15** pessoas devem ser aprovadas em todos os seguintes exames técnicos e funcionais:
-       - [MB6-705]: Microsoft Dynamics AX2012R3 CU8 Installation and Configuration*  
-       - [MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): Finanças do Microsoft Dynamics AX*
-       - [MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): Distribuição e Comercialização do Microsoft Dynamics AX*
-       - [MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Introdução ao Desenvolvimento do Microsoft Dynamics AX*
-       - [70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administrando uma Infraestrutura de banco de dados do Microsoft SQL*
- 
-\* Desativação em 31 de dezembro de 2017. Continuarão sendo aceitas para qualificação de competência até 31 de dezembro de 2018.
+    - As mesmas **15** pessoas, ou 15 pessoas diferentes, devem ser aprovadas em um dos seguintes exames funcionais: 
+        - [MB6-895](https://www.microsoft.com/en-us/learning/exam-MB6-895.aspx): Gerenciamento financeiro no Microsoft Dynamics 365 for Finance and Operations
+        - [MB6-896](https://www.microsoft.com/en-us/learning/exam-mb6-896.aspx): Distribuição e comercialização no Microsoft Dynamics 365 for Finance and Operations
+        - [MB6-897](https://www.microsoft.com/en-us/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail
+
+*Novo exame disponível a partir de dezembro de 2017

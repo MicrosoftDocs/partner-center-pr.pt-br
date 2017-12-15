@@ -3,11 +3,11 @@ title: "Respondendo a indicações | Partner Center"
 description: "Avaliar, negociar e responder a indicações por meio do Partner Center."
 author: KPacquer
 keywords: "referência, RFI, localizar um parceiro"
-ms.openlocfilehash: 4662b270e6684b8b7cf2e3e59cc6d8e797aad086
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
+ms.openlocfilehash: 43e04eaf34b788ceb41c70fa2a9c1ee08812ea2d
+ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>Respondendo a indicações no Partner Center
 
@@ -19,7 +19,7 @@ Como um parceiro da Microsoft qualificado, você pode receber empresas em potenc
 
 ## <a name="referral-management"></a>Gerenciamento de referência
 
-Iniciar configurando um [perfil de marketing](create-a-marketing-profile.md) para cada região onde você faz negócios. Depois que seu perfil está ativo, poderemos direcionar os clientes à sua empresa, por meio de:
+Comece configurando um [perfil de negócios](create-a-marketing-profile.md) para cada região onde você faz negócios. Depois que seu perfil está ativo, poderemos direcionar os clientes à sua empresa, por meio de:
 
 *  Atividades de marketing da Microsoft
 *  Vendas internas e agentes de serviço da Microsoft
@@ -27,7 +27,7 @@ Iniciar configurando um [perfil de marketing](create-a-marketing-profile.md) par
 
 Quando um cliente está interessado em contatar você, ele vai enviar uma solicitação de informações (RFI). 
 
-Quando isso acontecer, enviaremos e-mails para o contato listado em seu [perfil de marketing](create-a-marketing-profile.md) específico à região e local selecionados. Você também pode ver RFIs recebidos no Partner Center: vá para **Painel > Indicações > Indicações de cliente**.
+Quando isso acontecer, enviaremos emails para o contato listado no [perfil de negócios](create-a-marketing-profile.md) específico à região e ao local selecionados. Você também pode ver RFIs recebidos no Partner Center: vá para **Painel > Indicações > Indicações de cliente**.
 
 Os clientes geralmente optam por enviar o mesmo RFI a várias empresas ao mesmo tempo. Para aumentar as suas chances de sucesso, recomendamos responder e aceitar ou recusar novas referências dentro de 24 horas ou menos.
 
@@ -59,9 +59,9 @@ Revise suas indicações antigas (**ganho, perdido, ignorado, falhado, recusado*
 
 Veja algumas dicas para ajudar a garantir que você está obtendo mais indicações apropriadas para sua empresa:
 
-*  **Revise suas informações de contato em seu [perfil de marketing](create-a-marketing-profile.md)** para cada local para certificar-se de que sua equipe recebe alertas.
+*  **Confira as informações de contato no seu [perfil de negócios](create-a-marketing-profile.md)** de cada local para garantir que sua equipe receba alertas.
 
-*  **Escolha palavras-chave e preferências que representem sua experiência exclusiva e o modelo de negócios** em seu [perfil de marketing](create-a-marketing-profile.md). Remova as palavras-chave que gerariam indicações das quais você não se interessaria. Se você não estiver interessado em como lidar com as empresas de um determinado tamanho, atualize essa preferência.
+*  **Escolha palavras-chave e preferências que representem seus conhecimentos e modelo de negócios exclusivos** em seu [perfil de negócios](create-a-marketing-profile.md). Remova as palavras-chave que gerariam indicações das quais você não se interessaria. Se você não estiver interessado em como lidar com as empresas de um determinado tamanho, atualize essa preferência.
 
 *  **Responder rapidamente a indicações**. Quando você responde em tempo hábil solicitações de entrada, aumentaremos sua visibilidade nos resultados de pesquisas futuros. Verifique se sua equipe responde rapidamente com sua intenção.
 

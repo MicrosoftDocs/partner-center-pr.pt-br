@@ -3,13 +3,13 @@ title: Contas corporativas e Partner Center | Partner Center
 description: Para criar uma conta do Partner Center, sua empresa deve ter uma conta corporativa.
 author: labrenne
 robots: 
-ms.openlocfilehash: 75d4f4f9665078ab88911b5d7104eb8f5796f4c9
-ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
+ms.openlocfilehash: 8885f20d2f5975da8e4585e1bc314697fa04ad6d
+ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/03/2017
+ms.lasthandoff: 11/22/2017
 ---
-# <a name="your-work-account-and-partner-center"></a>Sua conta corporativa e o Partner Center  
+# <a name="your-company-work-account-and-partner-center"></a>Sua conta corporativa e o Partner Center  
 
 **Aplicável ao**
 
@@ -17,7 +17,7 @@ ms.lasthandoff: 10/03/2017
 
 # <a name="why-you-need-a-work-account"></a>Por que você precisa de uma conta corporativa
 
-Precisamos vincular a conta corporativa de sua organização à sua nova conta do Partner Center para que os usuários da conta possam se conectar ao Partner Center com seus nomes de usuário e senhas da conta corporativa.
+Precisamos vincular a conta corporativa da empresa à sua nova conta do Partner Center para que os usuários da conta possam entrar no Partner Center com os nomes de usuário e senhas da conta corporativa.
 
 Se a sua empresa já tiver uma conta corporativa, você pode vinculá-la à sua conta do Partner Center. 
 

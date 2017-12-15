@@ -1,28 +1,33 @@
 ---
 title: "Cobrança | Partner Center"
-Description: "Como parceiro Provedor de Soluções na Nuvem, você pagará à Microsoft 60 dias em atraso pelas assinaturas baseadas em licença e em uso de seus clientes."
+Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-ms.openlocfilehash: 971416c2fc4ac5fdc88cc6f64878bacf0e5b69ad
-ms.sourcegitcommit: c65facdf2eea370598bf9a10880239676e047c04
+ms.openlocfilehash: 1147875ebe6ed9a7cdb95c4d044833c2f9d1ece0
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="billing"></a>Cobrança
 
 **Aplicável a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud for US Government
+-  Partner Center for Microsoft Cloud for US Government
 -  Partner Center for Microsoft Cloud Germany
 
-Como parceiro Provedor de Soluções na Nuvem, você pagará à Microsoft 60 dias em atraso pelas assinaturas baseadas em licença e em uso de seus clientes.
+Acesse o menu **Painel** e selecione **Cobrança** para ver seu histórico de cobrança e tendências, links para a fatura e o arquivo de reconciliação, além do pagamento mais recente.
 
-Para sua cobrança, vá para o menu **Painel** e selecione **Cobrança**. Essa página de cobrança mostra seu histórico de cobrança e tendência, links para sua fatura e arquivos de reconciliação, além de seu pagamento mais recente.
+Os parceiros no programa Provedor de Soluções na Nuvem que escolheram a cobrança mensal pagam à Microsoft 60 dias em atraso pelas assinaturas de seus clientes (baseadas em licença e em uso).
+
+>**Observação**<br>
+Sua fatura é um resumo de todos os encargos (entre programa, produtos e clientes) do período de cobrança atual e é disponibilizada em até quatro (4) dias da data de cobrança selecionada.
+
+Informações importantes sobre a cobrança de clientes:
 
 -   A Microsoft não tem exigências ou condições sobre como você deve administrar seu sistema de faturas.
--   Para determinar o uso dos clientes, use o ID/nome do cliente e outros campos relevantes dentro dos arquivos de reconciliação.
+-   Para determinar o uso de um cliente, use o ID/nome do cliente e outros campos relevantes nos arquivos de reconciliação.
 -   Adicione suas próprias taxas e tarifas para serviços e produtos que você fornece.
 -   Envie uma única cobrança para todas os encargos devidos por seu cliente.
 
@@ -66,7 +71,7 @@ Para sua cobrança, vá para o menu **Painel** e selecione **Cobrança**. Essa p
 <td>Datas</td>
 <td><ul>
 <li>Sua data de cobrança mensal é o dia do mês selecionado durante o registro. A Microsoft enviará um email de confirmação que inclui sua data de cobrança.</li>
-<li>Você pode encontrar listas de preços com um mês de antecedência, pois são atualizadas mensalmente. Os preços baseados em licença são garantidos pelo termo de assinatura, geralmente 12 meses a partir da data de compra. Os preços baseados em uso podem ser alterados mensalmente. Forneceremos um aviso com 30 dias de antecedência sobre qualquer alteração de preço por meio da publicação da nossa Lista de preços para parceiros.</li>
+<li>Você pode encontrar listas de preços com um (1) mês de antecedência, pois são atualizadas mensalmente. Os preços baseados em licença são garantidos durante o período da assinatura, geralmente 12 meses a partir da data de compra. Os preços baseados em uso podem ser alterados mensalmente. Forneceremos um aviso com 30 dias de antecedência sobre qualquer alteração de preço por meio da publicação da nossa Lista de preços para parceiros.</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -89,7 +94,7 @@ Para sua cobrança, vá para o menu **Painel** e selecione **Cobrança**. Essa p
 <tr class="even">
 <td>Disponibilidade de fatura</td>
 <td><ul>
-<li>Você pode ver e baixar suas faturas e seus arquivos de reconciliação na página Cobrança no Partner Center.</li>
+<li>Você pode ver e baixar suas faturas e seus arquivos de reconciliação na página Cobrança no Partner Center. Observe que as faturas mensais estarão disponíveis no Partner Center em até quatro (4) dias da data de cobrança selecionada.</li>
 </ul></td>
 </tr>
 <tr class="odd">
