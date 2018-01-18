@@ -2,11 +2,11 @@
 title: Participe do Microsoft Partner Network| Partner Center
 description: "Adquira o Microsoft Action Pack e obtenha competências no Partner Center"
 author: labrenne
-ms.openlocfilehash: 7ac5c9fc7b66adf7796c23e97be994bffd751799
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: cf9ac91a4d8ad7a642863693c5db2193e12f25d9
+ms.sourcegitcommit: eca4ff8ce011fb5c687b333e5d08d085df2f5dcb
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 12/12/2017
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Participe do Microsoft Partner Network (MPN)
 
@@ -19,7 +19,9 @@ ms.lasthandoff: 11/22/2017
 
  A parceria com a Microsoft proporciona o acesso a novas oportunidades para transformar seus negócios. No Partner Center, é possível adquirir e renovar o Microsoft Action Pack. Além disso, você tem fácil acesso a informações sobre competências e como obtê-las.
 
-## <a name="get-your-mpn-id"></a>Obtenha sua ID do MPN
+ Estamos convidando gradualmente os nossos parceiros a gerenciar sua afiliação ao Partner Center em suas datas de aniversário do MAPS ou de Competência, bem como quando os recursos principais do Partner Center estiverem disponíveis e atenderem comprovadamente as necessidades de seus negócios.  Por enquanto, planeje a renovação e o gerenciamento da sua afiliação ao PMC (Partner Membership Center) até receber um convide para mudar.
+
+## <a name="get-your-mpn-id"></a>Obter sua ID do MPN
 
 Para fazer negócios como um parceiro da Microsoft, você precisa de um número de ID do MPN. Ele indica que você está formalmente inscrito na Microsoft por meio do Microsoft Partner Network. Além disso, a ID do MPN é usada para fazer a inscrição no programa Provedor de Soluções na Nuvem e em outros programas de parceiros.  
 

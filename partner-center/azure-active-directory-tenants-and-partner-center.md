@@ -1,13 +1,14 @@
 ---
 title: Contas corporativas e Partner Center | Partner Center
-description: Para criar uma conta do Partner Center, sua empresa deve ter uma conta corporativa.
+description: "Para criar uma conta do Partner Center, sua empresa deverá ter uma conta de trabalho."
 author: labrenne
+Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: 
-ms.openlocfilehash: 8885f20d2f5975da8e4585e1bc314697fa04ad6d
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: 91ee16676e6525180c5ed4351ca502914d98b65b
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 12/21/2017
 ---
 # <a name="your-company-work-account-and-partner-center"></a>Sua conta corporativa e o Partner Center  
 
@@ -15,17 +16,17 @@ ms.lasthandoff: 11/22/2017
 
 -  Partner Center
 
-# <a name="why-you-need-a-work-account"></a>Por que você precisa de uma conta corporativa
+## <a name="why-you-need-a-work-account"></a>Por que você precisa de uma conta corporativa
 
 Precisamos vincular a conta corporativa da empresa à sua nova conta do Partner Center para que os usuários da conta possam entrar no Partner Center com os nomes de usuário e senhas da conta corporativa.
 
 Se a sua empresa já tiver uma conta corporativa, você pode vinculá-la à sua conta do Partner Center. 
 
-**Observação** Antes de decidir usar uma conta corporativa existente, pense sobre quantos usuários da conta precisarão trabalhar no Partner Center. Se você tiver usuários na conta que não precisam trabalhar no Partner Center, considere criar uma nova conta somente para os usuários que precisem trabalhar no Partner Center.
+>**Observação** Antes de decidir usar uma conta corporativa existente, pense sobre quantos usuários da conta precisarão trabalhar no Partner Center. Se você tiver usuários na conta que não precisam trabalhar no Partner Center, considere criar uma nova conta somente para os usuários que precisem trabalhar no Partner Center.
 
-Se a sua empresa não tiver uma conta corporativa, você poderá criar uma gratuitamente durante o processo de inscrição. Selecione **Criar um novo locatário** na página **Entrar no Active Directory do Azure**. Quando você cria um novo locatário do Azure Active Directory, está criando uma nova conta corporativa. O Azure Active Directory é a solução de gerenciamento de identidade de logon único da Microsoft.
+Se a sua empresa ainda não tiver uma conta de trabalho, você poderá criar uma durante o processo de inscrição. 
 
-## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Não tem certeza se a sua empresa já tem uma conta corporativa?
+## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Não tem certeza se a sua empresa já tem uma conta de trabalho?
 
 Se você não tiver certeza se a empresa tem uma conta corporativa, siga estas etapas para verificar. Observe que, se você tiver uma assinatura ativa do Microsoft Azure ou Office 365, já tem uma conta corporativa.
 1.  Entre no portal de administração do Azure em https://ms.portal.azure.com

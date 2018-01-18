@@ -3,11 +3,11 @@ title: "Usar os arquivos de reconciliação | Partner Center"
 description: "Para obter uma exibição detalhada em itens de linha de cada encargo em um ciclo de cobrança, baixe os arquivos de reconciliação do painel do Partner Center."
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 892204ebcdfe1e1318985f2d50df8af2238bd4c1
-ms.sourcegitcommit: 2436cb77fbefc41cc9cb3e62e8a616b6326c557f
+ms.openlocfilehash: bcb5677d2b1309df0e33e093a3908d55e5792580
+ms.sourcegitcommit: ac370f5d2d5b74e1e4752eaeec6fde73e5328225
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/04/2017
+ms.lasthandoff: 12/15/2017
 ---
 # <a name="use-the-reconciliation-files"></a>Usar os arquivos de reconciliação
 
@@ -149,7 +149,7 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 </tr>
 <tr class="odd">
 <td>UnitPrice</td>
-<td><p>Preço por assento. Isso deve coincidir com a informação armazenada em seu sistema de cobrança durante a reconciliação.</p></td>
+<td><p>Preço por estação, conforme publicado na lista de preços no momento da compra. Isso deve coincidir com a informação armazenada em seu sistema de cobrança durante a reconciliação.</p></td>
 <td>6.82</td>
 </tr>
 <tr class="even">
@@ -492,13 +492,21 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 <p><strong>Encargos recorrentes</strong></p>
 </td>
 <td>
+<p>Taxa de ativação</p>
+</td>
+<td>
+<p>O valor cobrado do cliente quando ele usa a assinatura depois de comprá-la.</p>
+</td>
+<td rowspan="8">
+<p>No arquivo baseado em licença, some a coluna <strong>Quantidade</strong></p>
+</td>
+</tr>
+<tr>
+<td>
 <p>Cancelar ocorrência proporcional</p>
 </td>
 <td>
 <p>Os encargos proporcionais reembolsados para o cliente quando os assentos associados são alterados</p>
-</td>
-<td rowspan="8">
-<p>No arquivo baseado em licença, some a coluna <strong>Quantidade</strong></p>
 </td>
 </tr>
 <tr>

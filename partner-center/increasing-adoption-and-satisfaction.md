@@ -3,11 +3,11 @@ title: "Aumentar a adoção e a satisfação | Partner Center"
 description: "Nossos parceiros usam muitos métricas para avaliar se seus negócios estão crescendo e onde concentrar o investimento. O Partner Center pode ajudar informando se e como os clientes estão usando as licenças adquiridas."
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-ms.openlocfilehash: 8d02f753307991cd740c78db9e751a44358597f6
-ms.sourcegitcommit: a8c51a2aade51c6fd7f134613fad121e89ffd719
+ms.openlocfilehash: cecf3c02ea52e61eb33bb39014b746dc89aa6ca7
+ms.sourcegitcommit: b17c993da73815632ad62d9a8ff0d505673d07b3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/21/2017
+ms.lasthandoff: 12/02/2017
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Aumentar a adoção e a satisfação
 
@@ -47,7 +47,7 @@ Terminologia:
 
     -   Se o cliente teve rotatividade de funcionários e a licença foi transferida para um novo usuário.
 
-    -   Se o cliente tiver duas assinaturas para uma SKU, mas uma está no período de cortesia, desativada ou teve o provisionamento cancelado, os direitos nas duas assinaturas poderão registrar uso ativo durante o período de 28 dias, mas apenas uma será contabilizada no total.
+    -   Se o cliente tiver duas assinaturas para uma SKU, mas uma está no Período de Cortesia, Desabilitada ou Desprovisionada, os direitos nas duas assinaturas poderão registrar uso ativo durante o período de 28 dias, mas apenas uma será contabilizada no total.
 
     -   Se o cliente tiver uma assinatura de avaliação, a atividade será contabilizada, mas a assinatura não será contabilizada no total de direitos.
 

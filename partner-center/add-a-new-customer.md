@@ -3,11 +3,12 @@ title: Adicionar um novo cliente | Partner Center
 description: "Antes de vender assinaturas, gerenciar cobranças ou fornecer suporte, você precisa criar um registro de seu cliente no Partner Center. Esse registro deverá incluir as informações de contato deles e um domínio do Azure AD."
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
-ms.openlocfilehash: c6bb20cdc2dbb7bc6c3a04bb8c01b5cfe685dfe4
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+keywords: cliente, adicionar cliente, conta do cliente, conta do cliente no Partner Center, clientes, adicionar clientes, criar conta do cliente
+ms.openlocfilehash: 222fe2acb5abd09061b83a8ee67540666413d04d
+ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 12/08/2017
 ---
 # <a name="add-a-new-customer"></a>Adicionar um novo cliente
 

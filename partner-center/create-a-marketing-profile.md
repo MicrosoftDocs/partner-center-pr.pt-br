@@ -1,13 +1,14 @@
 ---
 title: "Criar um perfil de negócios | Partner Center"
-description: "Atraia mais clientes em potencial criando um perfil de negócios no Partner Center."
+description: "Crie um perfil de negócios no Partner Center para obter as oportunidades de vendas da Microsoft."
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: edcecf3372453e17d85017a93a258919e29d6608
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+keywords: "pinpoint, indicações, oportunidades de venda, C2PC, perfil de negócios, comercializar sua empresa, localizar um parceiro, localizar um provedor de soluções, perfil de negócios, perfil de marketing"
+ms.openlocfilehash: e4e663d5c148f72f7ad352e21c4178a95e044c5f
+ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 11/28/2017
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -23,30 +24,35 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 **Aplicável a**
 
 -  Partner Center
+-  Parceiros do Microsoft Partner Network
+-  Parceiros do programa Provedor de Soluções na Nuvem
 
 Como um parceiro da Microsoft qualificado, você pode criar um perfil de negócios para mostrar sua empresa a clientes que estejam procurando suas soluções exclusivas e seus conhecimentos para atender às necessidades de negócios.
 
-A Microsoft emprega milhões de clientes todos os anos por meio de marketing, vendas e esforços de serviço. A maioria desses relacionamentos cria oportunidades para nos fornecer indicações a nossos parceiros na forma de oportunidades de vendas. 
+A Microsoft envolve milhões de clientes a cada ano por meio de esforços de marketing, de vendas e de serviço. A maioria desses contratos cria oportunidades para nos fornecer indicações para nossos parceiros na forma de oportunidades de vendas. 
 
-Para obter esses clientes em potencial, primeiramente você deve criar um perfil de negócios. Vamos mostrar seu perfil aos clientes que estiverem procurando por parceiros que podem ajudá-los a implementar produtos da Microsoft e soluções, por meio de:
+Para obter esses clientes em potencial, primeiramente você deve criar um perfil de negócios. Vamos mostrar seu perfil para os clientes que estejam procurando por parceiros que possam ajudá-los a implementar produtos e soluções da Microsoft, por meio de:
 
-*  **A experiência de busca [Localizar um parceiro](https://partnercenter.microsoft.com/pcv/search)**. Os clientes em potencial podem pesquisar listas de parceiros por conta própria para localizar os parceiros que atendem aos seus critérios de pesquisa.
+*  **A experiência de pesquisa [Encontrar um provedor de soluções](https://partnercenter.microsoft.com/pcv/search)**. Os clientes em potencial podem pesquisar listas de parceiros por conta própria para localizar os parceiros que atendam aos critérios de pesquisa.
 
-*  **Referências de vendas da Microsoft e funcionários de serviço**. Os clientes em potencial interessados na implantação de soluções de tecnologia com base em nuvem entram em contato com a Microsoft para ajudar a encontrar profissionais que podem atender às suas necessidades de negócios. Esses profissionais da Microsoft podem, em seguida, consultar os clientes em potencial para sua empresa.
+*  **Referências de vendas da Microsoft e funcionários de serviço**. Os clientes em potencial interessados na implantação de soluções de tecnologia com base em nuvem entram em contato com a Microsoft para ajudar a encontrar profissionais que podem atender às suas necessidades de negócios. Esses profissionais da Microsoft poderão então consultar os clientes em potencial para sua empresa.
 
-**Pinpoint e C2PC**: estamos incorporando essas ferramentas ao Partner Center. Se você já usou essas ferramentas, crie um novo perfil de negócios no Partner Center para continuar a gerar e gerenciar suas oportunidades de vendas. Observe que, no momento, não é possível importar perfis dos sites anteriores. 
+>**Importante**<br>
+Para ajudarmos nossos parceiros a simplificar as operações de negócios, estamos consolidando recursos e funcionalidades que costumavam estar espalhados por vários sites e ferramentas no Partner Center, este site. Como parte desse esforço, movemos todos os recursos relacionados a indicações para o Partner Center e desativamos os sites Pinpoint e C2PC. Se você usava o Pinpoint ou o C2PC no passado para obter e gerenciar indicações da Microsoft, precisará criar um novo perfil de negócios no Partner Center para continuar a obter indicações. Nós não damos mais suporte a perfis desses sites. 
 
 ## <a name="create-a-profile"></a>Criar um perfil
 
-Crie um perfil para cada região onde você está autorizado a fazer negócios. 
+>**Observação** Antes de criar um perfil de negócios, você deve ter uma conta do Partner Center. Se você ainda não tiver uma conta do Partner Center, consulte [Criar uma conta do Partner Center](mpn-create-a-partner-center-account.md) para obter ajuda para criar uma. 
+
+Crie perfis para cada região na qual tenha autorização para fazer negócios. 
 
 1.  Entre no [Partner Center](http://go.microsoft.com/fwlink/p/?LinkId=808956) usando uma [conta de administrador global ou de agente administrador](create-user-accounts-and-set-permissions.md).
 
 2.  No menu **Painel**, selecione **Indicações** &gt; **Exibir perfis de negócios** &gt; selecione um país/região > **[Criar um perfil de negócios](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-3.  Na página **Criar um perfil de negócios**, selecione uma região e insira suas informações de perfil.
+3.  Na página **Criar um perfil de negócios**, selecione uma região e então insira as informações do seu perfil.
     
-    Observe que, apesar do Partner Center oferecer suporte a vários idiomas, alguns elementos como a descrição e as marcas de forma livre talvez precisem incluir texto de idiomas diferentes, como indicado neste tópico.
+    >**Observação** Embora o Partner Center dê suporte a vários idiomas, é possível que alguns elementos, como a descrição e as marcas de forma livre, incluam texto de idiomas diferentes, como observado neste tópico.
 
 ### <a href="" id="partner_info"></a>Informações do parceiro
 

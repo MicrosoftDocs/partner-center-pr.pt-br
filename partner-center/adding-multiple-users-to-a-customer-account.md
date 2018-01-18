@@ -3,11 +3,14 @@ title: "Criar vários usuários para uma conta de cliente | Partner Center"
 description: "Você pode adicionar vários usuários a uma conta do cliente de uma vez, carregando um arquivo de dados em formato de arquivo de valores separados por vírgula (.csv) no Partner Center."
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
-ms.openlocfilehash: cc86d129177760bf19c0b24a96d646c52ffb779c
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+keywords: "upload em massa, adicionar vários usuários a uma conta do cliente, adicionar usuários do cliente, upload em massa de usuários do cliente, conta do cliente, usuários do cliente, usuários"
+ms.openlocfilehash: b360ced878973cde19b1a6aa8470ac4218ea6773
+ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
+ms.translationtype: HT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 12/08/2017
 ---
-# <a name="add-multiple-users-to-a-customer-account"></a>Adicionar vários usuários a uma conta de cliente
+# <a name="add-multiple-users-to-a-customer-account"></a>Adicionar vários usuários a uma conta do cliente
 
 **Aplicável a**
 

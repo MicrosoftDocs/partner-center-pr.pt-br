@@ -2,13 +2,13 @@
 title: "Ganhar competências Microsoft | Partner Center"
 description: "Ganhe competências Prata e Ouro da Microsoft para demonstrar seu conhecimento comprovado no fornecimento de soluções de qualidade em uma área especializada de negócios"
 author: KPacquer
-keywords: "competências, associação prata, associação ouro, mpn, MAPAS, habilidades"
+keywords: "competências, afiliação silver, afiliação gold, mpn, MAPS, proficiência, benefícios, metas de desempenho, metas de habilidades"
 robots: noindex,nofollow
-ms.openlocfilehash: 6323613d785958db9bd511f10ca03988681f1867
-ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
+ms.openlocfilehash: b4ca5bff38a4d2b3e40616c971379e743ad87032
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 12/21/2017
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page

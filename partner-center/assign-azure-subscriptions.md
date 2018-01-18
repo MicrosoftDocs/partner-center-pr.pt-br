@@ -2,12 +2,12 @@
 title: Atribuir assinaturas do Azure no Partner Center | Partner Center
 description: "Agora você pode atribuir assinaturas do Azure aos seus clientes no Partner Center."
 author: Labrenne
-keywords: Azure, assinatura do Azure
-ms.openlocfilehash: b5a2e1afbd0d0fe5941c22cf67d192cec004559e
-ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
+keywords: Azure, assinatura do Azure, assinatura, assinaturas, atribuir assinatura
+ms.openlocfilehash: bdd8973809f01de002f45dd33ade48be0b70ddb3
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/03/2017
+ms.lasthandoff: 12/21/2017
 ---
 # <a name="assign-azure-subscriptions-in-partner-center"></a>Atribuir assinaturas do Azure no Partner Center
 

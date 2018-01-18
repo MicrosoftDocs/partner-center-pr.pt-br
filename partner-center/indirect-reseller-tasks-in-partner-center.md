@@ -3,13 +3,14 @@ title: Parceria com fornecedores indiretos no CSP | Partner Center
 description: "Como um revendedor indireto no CSP, você trabalha com provedores indiretos (também conhecidos como distribuidores), que têm uma relação direta com a Microsoft e podem fornecer suporte e cobrança ao cliente. Isso significa que você não precisa começar por conta própria e, em vez disso, pode trabalhar com um provedor de tecnologia experiente para ajudar a garantir seu sucesso. No modelo de revendedor de provedor (duas camadas), o provedor compra soluções na nuvem e serviços Microsoft que você revende aos clientes."
 ms.prod: 
 author: MaggiePucciEvans
-ms.openlocfilehash: 1ee00b2fae46c49eaf7df2b0f2d6329231f2e4ab
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+keywords: revendedores indiretos, revendedores, provedores indiretos, provedores, parceria, VAR, camada2, camada 2
+ms.openlocfilehash: b55b8c65a0d7e989bed494230101d905befeed50
+ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 11/28/2017
 ---
-# <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Parceria com provedores indiretos no programa provedor de soluções na nuvem
+# <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Fazer parceria com provedores indiretos no programa Provedor de Soluções na Nuvem
 
 A demanda crescente por serviços e soluções baseadas em nuvem oferece muitas oportunidades para os parceiros da Microsoft de todos os tamanhos para criar empresas de solução em nuvem rentáveis. Os parceiros que estão prontos para se inserir no mercado, mas que não querem gerenciar vários fornecedores ou que podem não ter uma infraestrutura de cobrança e suporte de cliente de ponta a ponta, podem inscrever-se no programa de provedor de soluções na nuvem (CSP) da Microsoft como revendedores indiretos.
 
@@ -89,7 +90,7 @@ Observe que pode levar vários dias para revisar e verificar as informações fo
 
 3. Insira o nome completo e endereço de e-mail exclusivo do usuário.
 
-4. Selecione o tipo de agente e o tipo de administador. O acesso ao Partner Center é baseado em função, portanto, você pode atribuir permissões para personalizar o modo de exibição do usuário a fim de mostrar somente os recursos de que ele precisa para completar tarefas específicas. Para obter mais informações sobre o que cada função pode fazer, consulte [Atribuir permissões de usuário](#assignuserpermissions).
+4. Selecione o tipo de agente e o tipo de administrador. O acesso ao Partner Center é baseado em função, portanto, você pode atribuir permissões para personalizar o modo de exibição do usuário a fim de mostrar somente os recursos de que ele precisa para completar tarefas específicas. Para obter mais informações sobre o que cada função pode fazer, consulte [Atribuir permissões de usuário](#assignuserpermissions).
 
 5. Selecione **Adicionar** para criar a conta de usuário. Confirme os detalhes do usuário na próxima página.
 
@@ -184,9 +185,9 @@ Se um provedor indireto quiser se conectar com você no Partner Center, ele vai 
 
 3.  Para confirmar a parceria com o provedor, marque a caixa e selecione **Autorizar provedor indireto**. O provedor agora é listado na sua página **Provedores indiretos** e sua empresa agora é listada na página **Revendedores indiretos** do provedor.
 
-    >**Observação** quando você estabelece uma parceria com um provedor indireto, você está autorizando-o a enviar pedidos e adicionar assinaturas em nome de seus clientes, e você está concedendo a eles acesso de administrador para seu locatário do Azure AD.
+    >**Observação**  Quando você estabelece uma parceria com um provedor indireto, o está autorizando a enviar pedidos e a adicionar assinaturas em nome de seus clientes, além de conceder a ele acesso de administrador à conta de trabalho da sua empresa. Depois que a parceria tiver sido estabelecida com o provedor, você poderá remover o acesso de administrador do provedor à sua conta de trabalho no portal do Office 365. 
 
-4.  Selecione **Provedores indiretos** em seu menu **Painel** para ver uma lista dos provedores com os quais você tem parceria. 
+4.  Selecione **Provedores indiretos** no menu **Painel** para ver uma lista dos provedores com quem você tem uma parceria. 
 
 5.  Selecione **Exibir clientes** para ver uma lista dos clientes que você e o provedor compartilham.
 

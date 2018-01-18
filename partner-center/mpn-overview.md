@@ -3,11 +3,11 @@ title: "Associação do Microsoft Partner Network | Partner Center"
 description: "Saiba mais sobre os benefícios de ingressar no Microsoft Partner Network."
 author: MaggiePucciEvans
 keywords: "parceiro, parceria, MPN, Microsoft Partner Network, action pack, MAPS, assinatura do action pack, benefícios, benefícios do MPN, associação"
-ms.openlocfilehash: f429908c69f154e9a25af3c2688011491d7b4125
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: 55781109f58c424ee7bdbd5be80ca13cc49f612b
+ms.sourcegitcommit: d5d74de145732384470224d79ed34dcdb8714104
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 12/07/2017
 ---
 # <a name="partner-with-microsoft"></a>Faça parceria com a Microsoft
 
@@ -17,15 +17,15 @@ O Microsoft Partner Network oferece três tipos de associação. Cada tipo ofere
 
 -   **Membro do Network** Ao ingressar nesse nível básico e gratuito, você recebe um conjunto de [benefícios básicos de direitos de uso interno](https://partner.microsoft.com/membership/core-benefits) que podem ajudá-lo a economizar tempo e dinheiro enquanto você fortalece seus recursos, melhora o atendimento aos clientes e cria conexões para alcançar seu potencial total de negócios.
 
-    [Saiba mais sobre o Microsoft Partner Network](https://partner.microsoft.com/membership/how-it-works)
+    -   [Saiba mais sobre o Microsoft Partner Network](https://partner.microsoft.com/membership/how-it-works)
 
-    [Participe do Microsoft Partner Network agora](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)
+    -   [Participe do Microsoft Partner Network agora](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)
 
 -   **Action Pack** Adquira o Action Pack, uma assinatura anual acessível, para obter benefícios de rede adicionais, incluindo o acesso a ferramentas de desenvolvedor, suporte, treinamento e software. Nesse nível, você pode aprimorar seus conhecimentos e desenvolver novas habilidades.
 
-    [Saiba mais sobre o Microsoft Action Pack](https://partner.microsoft.com/membership/action-pack)
+    -   [Saiba mais sobre o Microsoft Action Pack](https://partner.microsoft.com/membership/action-pack)
 
-    [Assine o Action Pack agora](mpn-get-action-pack.md)
+    -   [Assine o Action Pack agora](mpn-get-action-pack.md)
 
 -   **Competência** Demonstre seu conhecimento comprovado no fornecimento de soluções de qualidade em uma ou mais áreas especializadas de negócios. As competências da Microsoft são destinadas a prepará-lo para atender às necessidades dos seus clientes e a ser reconhecível para os clientes em potencial. Participe da camada de elite dos parceiros da Microsoft e destaque-se entre seus colegas.
 
