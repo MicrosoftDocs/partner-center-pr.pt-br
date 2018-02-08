@@ -3,11 +3,11 @@ title: "Perguntas Frequentes sobre os novos recursos de cobrança | Partner Cent
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
 ms.assetid: 
 author: MaggiePucciEvans
-ms.openlocfilehash: ddd10efe487effdd2571869f2a4231118f946b8b
-ms.sourcegitcommit: 4b697e2e18426edc95b9165f380b784bb10937ed
+ms.openlocfilehash: 0c468df2176160ca5a1fdf8b90ce5b6f9b669cc2
+ms.sourcegitcommit: bfdbd1b9ff3443febc0ff1903f35d723b83fa970
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/20/2017
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="faq-about-new-billing-features"></a>Perguntas Frequentes sobre os novos recursos de cobrança
 
@@ -312,7 +312,7 @@ Seções:
 
 **P:** Eu verei a avaliação gratuita em minha fatura e no arquivo de reconciliação?
 
--   **R:** Não, as avaliações gratuitas não aparecerão em sua fatura ou no arquivo de reconciliação baseado em licença. Elas aparecerão em sua fatura ou no arquivo de reconciliação baseado em licença depois que você converter uma avaliação gratuita em uma assinatura paga. A assinatura convertida aparecerá na sua fatura e no arquivo de reconciliação baseado em licença da mesma maneira do que qualquer outra assinatura nova. 
+-   **R:** Não, as avaliações gratuitas não aparecerão em sua fatura ou no arquivo de reconciliação baseado em licença. Elas aparecerão em sua fatura ou no arquivo de reconciliação baseado em licença depois que você converter uma avaliação gratuita em uma assinatura paga. A assinatura convertida aparecerá na sua fatura e no arquivo de reconciliação baseado em licença da mesma maneira que qualquer outra assinatura nova.
 
 **P:** As avaliações gratuitas afetam os incentivos?
 
@@ -526,7 +526,7 @@ O parceiro suspende a assinatura em 5 de julho, mas a reativa em 15 de julho. O 
 |-----------------|:-------------|:----------------|:------------|:------|
 |01/07/2018   |31/07/2018   |US$ 30  |1   |US$ 30   |
 |05/07/2018   |31/07/2018   |   -US$ 26,19   |1   |-US$ 26,19|
-|10/07/2018   |31/07/2018   |-US$ 21,34   |1   |US$ 21,34|
+|10/07/2018   |31/07/2018   |-$21,37   |1   |$21,37|
 
 ### <a name="scenario-change-license-quantity"></a>Cenário: alterar a quantidade de licenças 
 
@@ -564,7 +564,7 @@ O arquivo de reconciliação de 15 de junho conterá o seguinte:
 |**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |
 |-----------------|:-------------|:----------------|:------------|:------|
 |01/06/2018   |30/06/2018   |US$ 30   |1   |US$ 30   |
-|10/06/2018   |30/06/2018   |US$ 5   |1   |US$ 5   |
+|10/06/2018   |30/06/2018   |$3,50   |1   |$3,50   |
 
 O arquivo de reconciliação de 15 de julho conterá o seguinte:
 
@@ -578,7 +578,7 @@ O arquivo de reconciliação de 15 de julho conterá o seguinte:
 
 ### <a name="scenario-new-purchase-on-the-29th-30th-or-31st"></a>Cenário: nova compra nos dias 29, 30 ou 31 
 
-A data de cobrança do parceiro é no dia 15. Em 31 de maio, o parceiro compra uma nova assinatura por US$ 30/mês. As assinaturas adquiridas nos dias 29, 30 ou 31 receberão um período gratuito até o início do mês seguinte. Neste exemplo, o cliente obtêm um período gratuito de um dia; o período pago de 12 meses começa em 1º de junho. 
+A data de cobrança do parceiro é no décimo-quinto dia do mês. No dia 29 de maio, o parceiro compra uma nova assinatura (1 licença a $30/mês) com frequência de cobrança mensal. A data de aniversário das assinaturas adquiridas nos dias 29, 30 e 31 usará o dia 1º como padrão. Nesse cenário, a assinatura receberá um período gratuito, do dia 29 de maio até o dia 31 de maio, e a linha de cobrança aparecerá no dia 1º de junho mostrando a cobrança adiantada de um mês.
 
 O arquivo de reconciliação de 15 de junho conterá o seguinte:
 

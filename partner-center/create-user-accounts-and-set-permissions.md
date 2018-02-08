@@ -4,11 +4,11 @@ description: "O administrador cria uma conta de usuário para cada funcionário 
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
-ms.openlocfilehash: 4345db8cf8e383edbb58c269a3b0a948eade9d65
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: 809641e488595e59beb63b0867b4758f3912106e
+ms.sourcegitcommit: fc49a5e334ed37db4ff4c594ecf89a1527a3bd1d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 01/18/2018
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Criar contas de usuário e atribuir permissões
 
@@ -38,7 +38,7 @@ Anote as novas informações de login do usuário exibidas nessa página. Certif
 
 O usuário precisará entrar no Partner Center com seu nome de usuário e senha temporária. Quando o usuário entrar no Partner Center pela primeira vez, ele precisará alterar sua senha. 
 
-
+>**Observação**<br> Se o seu administrador global deixou a organização ou mudou de função e houver a necessidade de adicionar um novo administrador global, você terá que fazer uma solicitação de serviço no [portal MPN](https://partner.microsoft.com/support). O agente de suporte poderá solicitar a promoção de um usuário a administrador global se seu solicitante for capaz de fornecer as informações de identidade pessoal requisitadas e informações adicionais sobre a sua organização.
 
 ## <a name="assign-user-permissions"></a>Atribuir permissões de usuário
 
@@ -59,9 +59,9 @@ As categorias gerais de funções são:
 
 Dentro de cada uma dessas categorias gerais, um usuário pode ter apenas uma função, mas o mesmo usuário também pode ter funções nas outras categorias gerais. 
 
->**Importante** Se um usuário não precisar de uma função específica, então deixará a designação na configuração padrão - **Gerencia a conta da sua organização como**. Os usuários devem ter atribuída pelo menos uma função para trabalhar no Partner Center.
+>**Importante** Se um usuário não precisar de uma função específica, deixe a designação na configuração padrão - **Gerencia a conta da sua organização como**. Os usuários devem ter atribuída pelo menos uma função para trabalhar no Partner Center.
 
-A tabela a seguir explica o que cada função pode fazer no Partner Center. Ao pensar sobre a forma como você deseja atribuir funções, considere o trabalho que um usuário faz em sua organização. Você pode, por exemplo, desejar que o administrador global seja o agente administrativo. A pessoa que lida com seu marketing também pode ser a pessoa que deve gerenciar o perfil de negócios.
+A tabela a seguir explica o que cada função pode fazer no Partner Center. Ao pensar sobre a forma como você deseja atribuir funções, considere o trabalho que um usuário faz em sua organização. Você pode, por exemplo, desejar que o administrador global também seja o agente administrativo. A pessoa que lida com seu marketing também pode ser a pessoa que deve gerenciar o perfil de negócios.
 
 <table>
 <colgroup>
@@ -122,13 +122,6 @@ A tabela a seguir explica o que cada função pode fazer no Partner Center. Ao p
 <li><p>Exibir e gerenciar benefícios</p></li>
 <li><p>Exibir e comprar ofertas do MPN</p></li>
 <li><p>Exibir histórico de pedidos e faturas de ofertas do MPN</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Administrador de gerenciamento de usuários</strong></p></td>
-<td><ul>
-<li><p>Exibir, criar e gerenciar usuários</p></li>
-<li><p>Exibir todos os perfis de parceiros</p></li>
 </ul></td>
 </tr>
 <tr class="even">

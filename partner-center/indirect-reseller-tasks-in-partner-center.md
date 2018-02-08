@@ -4,11 +4,11 @@ description: "Como um revendedor indireto no CSP, você trabalha com provedores 
 ms.prod: 
 author: MaggiePucciEvans
 keywords: revendedores indiretos, revendedores, provedores indiretos, provedores, parceria, VAR, camada2, camada 2
-ms.openlocfilehash: b55b8c65a0d7e989bed494230101d905befeed50
-ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
+ms.openlocfilehash: d3d41a15fc8836a84ba86acc26642a4c49c2e290
+ms.sourcegitcommit: bfdbd1b9ff3443febc0ff1903f35d723b83fa970
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/28/2017
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Fazer parceria com provedores indiretos no programa Provedor de Soluções na Nuvem
 
@@ -102,74 +102,8 @@ Anote as novas informações de login do usuário exibidas nessa página. Certif
 
 ## <a name="assign-user-permissions"></a>Atribuir permissões de usuário
 
-O acesso do Partner Center é baseado em função, portanto, você pode atribuir permissões para personalizar o modo de exibição do usuário e mostrar somente os recursos que o usuário precisa para completar tarefas específicas. 
+O acesso do Partner Center é baseado em função, portanto, você pode atribuir permissões para personalizar o modo de exibição do usuário e mostrar somente os recursos que o usuário precisa para completar tarefas específicas. Para descobrir a melhor forma de atribuir funções, consulte [Criar contas de usuário e definir as permissões](Create-user-accounts-and-set-permissions.md)
 
-Para cada usuário, você deve selecionar dois níveis de permissão ou selecionar **não é um administrador** ou **não é um agente**:
-
--   Permissões de agente controlam que tipo de dados de cliente e informações de conta o usuário pode ver e alterar.
-
--   Permissões de administrador controlam o nível de acesso do usuário aos recursos do Partner Center. Essa configuração tem impacto fora do Partner Center, pois um Administrador de cobrança poderá acessar as listas de todos os serviços Microsoft (mesmo aqueles não relacionados a CSP) e um Administrador global poderá acessar contas de usuário e contas de clientes além do CSP.
-
-A tabela a seguir explica o que cada função pode fazer no Partner Center.
-
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>Função no Partner Center</strong></p></td>
-<td><p><strong>O que eles podem fazer</strong></p></td>
-<td><p><strong>O que eles não podem fazer</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Agente administrador</strong></p></td>
-<td><ul>
-<li><p>Solicitações de integridade e serviços para clientes</p></li>
-<li><p>Solicitar privilégios de administrador</p></li>
-<li><p>Administrar em nome de um cliente</p></li>
-</ul></td>
-<td><ul>
-<li><p>Gerenciamento de usuários</p></li>
-<li><p>Solicitações de serviço para o Partner Center</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Agente de suporte técnico</strong></p></td>
-<td><ul>
-<li><p>Pesquisar e exibir um cliente</p></li>
-<li><p>Integridade do serviço</p></li>
-<li><p>Solicitação de suporte em nome dos clientes (Observação: você deve ser um agente administrador para concluir essa tarefa para assinaturas do Office 365)</p></li>
-<li><p>Gerenciar assinaturas e serviços em nome dos clientes (Observação: você deve ser um agente administrador para concluir essa tarefa para assinaturas do Office 365)</p></li>
-</ul></td>
-<td><ul>
-<li><p>Exibir perfis de parceiros</p></li>
-<li><p>Solicite um relacionamento com um cliente</p></li>
-<li><p>Gerencie clientes em potencial</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong>Administração global</strong></p></td>
-<td><ul>
-<li><p>Pode acessar todas as contas/serviços da Microsoft com todos os privilégios</p></li>
-<li><p>Criar tíquetes de suporte para o Partner Center</p></li>
-<li><p>Exibir, criar e gerenciar usuários de parceiros</p></li>
-<li><p>Aceite a solicitação de parceria de um provedor indireto</p></li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Administrador de gerenciamento de usuário</strong></p></td>
-<td><ul>
-<li><p>Exibir, criar e gerenciar usuários</p></li>
-<li><p>Exibir todos os perfis de parceiros</p></li>
-</ul></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 
 ## <a name="connect-with-an-indirect-provider"></a>Conectar-se com um provedor indireto
 
@@ -197,13 +131,13 @@ Se um provedor indireto quiser se conectar com você no Partner Center, ele vai 
  
 ## <a name="connect-with-customers"></a>Conecte-se com clientes
 
-Para transações com clientes no Partner Center, os clientes devem ter contas do Partner Center e você deve estabelecer relações de revendedor com eles. Para permitir que seu provedor indireto adquira assinaturas e serviços em nome do cliente, o provedor indireto também deve ter uma relação de revendedor com seus clientes. 
+ Para transações com clientes no Partner Center, os clientes devem ter contas do Partner Center e você deve estabelecer relações de revendedor com eles. Para permitir que seu provedor indireto adquira assinaturas e serviços em nome do cliente, o provedor indireto também deve ter uma relação de revendedor com seus clientes. 
 
 ### <a name="connect-with-existing-customers"></a>Conecte-se com clientes
 
 Os clientes com quem você já fez transações por meio de outros portais, como o centro de administração do Office 365 ou o portal de administração do Microsoft Azure, aparecerão na sua lista de clientes no Partner Center depois que você se registrar com êxito como um revendedor indireto. Selecione **Painel** e então **Clientes** para ver sua lista de clientes. 
 
-Se qualquer um dos seus clientes atuais não estiverem na sua lista de clientes, talvez seja necessário estabelecer relações de revendedor com eles. Para fazer isso, você envia por email um convite para se conectar com você no Partner Center, conforme descrito a seguir.
+Ao se conectar a um provedor indireto, você não ganha os clientes do provedor indireto automaticamente. Da mesma forma, os clientes com os quais você trabalha no seu próprio provedor ou por meio do provedor indireto, e não por meio do Partner Center, não aparecerão automaticamente na sua lista de clientes quando você se inscrever no Partner Center. Você precisará estabelecer uma relação de revendedor com os clientes para fazer transações no Partner Center.  Para fazer isso, você envia por email um convite para se conectar com você no Partner Center, conforme descrito a seguir.
 
 #### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Convide um cliente para estabelecer uma relação de revendedor com você
 

@@ -2,11 +2,12 @@
 title: "Programa Provedor de Soluções na Nuvem - vender soluções de nuvem em demanda | Partner Center"
 description: "O Programa Provedor de Soluções na Nuvem pode ajudar você a expandir seus negócios com novos clientes e novos conhecimentos."
 author: labrenne
-ms.openlocfilehash: c3fe4a3dfc80f17eda3c87548d30417ecdd9527a
-ms.sourcegitcommit: 71fcb32b5c5636db5fdeea72ba9ea96a3cd49328
+keywords: "CSP, modelo direto, modelo indireto, revendedor indireto, fornecedor indireto, fornecedor, distribuidor, programa de provedor de soluções na nuvem"
+ms.openlocfilehash: 4ba8be87b3d7e5c92045c7c2c19112219131bdd0
+ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/07/2017
+ms.lasthandoff: 01/17/2018
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programa Provedor de Soluções na Nuvem - vender soluções de nuvem em demanda 
 
