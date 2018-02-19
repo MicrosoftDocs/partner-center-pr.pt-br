@@ -1,14 +1,16 @@
 ---
 title: "Não pagamento, fraude ou uso indevido | Partner Center"
-description: "Você é responsável financeiramente por compras fraudulentas dos seus clientes e/ou falta de pagamento de serviços comprados pelo cliente. Portanto, recomendamos que você implemente controles para redução de risco de detecção e prevenção de fraudes."
+description: "Estratégias para gerenciar os riscos de transações online, incluindo falta de pagamento de bens e serviços e atividade fraudulenta ou uso indevido do cliente."
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
+keywords: "fraude, uso indevido, uso aceitável, política de uso aceitável, falta de pagamento, cliente não paga a conta, risco online, roubo de serviço, abuso do serviço, suspender uma assinatura,"
 author: MaggiePucciEvans
-ms.openlocfilehash: d4b4703901b157324a3a1b9205f9bc2570dd9cb8
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 9513347d1a7d176a074877dc60d164695484c314
+ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
+ms.lasthandoff: 02/01/2018
 ---
-# <a name="non-payment-fraud-or-misuse"></a>Não pagamento, fraude ou uso indevido
+# <a name="non-payment-fraud-or-misuse"></a>Falta de pagamento, fraude ou uso indevido
 
 **Aplicável a**
 
@@ -16,46 +18,62 @@ ms.contentlocale: pt-BR
 -  Partner Center for Microsoft Cloud for US Government
 -  Partner Center for Microsoft Cloud Germany
 
-Você é responsável financeiramente por compras fraudulentas dos seus clientes e/ou falta de pagamento de serviços comprados pelo cliente. Portanto, recomendamos que você implemente controles para redução de risco de detecção e prevenção de fraudes. Você é responsável por decidir se estende o crédito para um cliente.
+Você permanece financeiramente responsável por compras fraudulentas de seus clientes e/ou falta de pagamento de serviços comprados pelo cliente. Portanto, é altamente recomendável que você implemente controles de prevenção contra fraude e atenuação de riscos de detecção.
 
-## <a name="in-this-section"></a>Nesta seção
+## <a name="types-of-online-risk"></a>Tipos de risco online
 
+Para evitar e/ou resolver atividade fraudulenta ou uso indevido, é importante entender os riscos em potencial e desenvolver políticas e práticas que possam reduzir a exposição.
 
--   [Falta de pagamento](#nonpayment)
+#### <a name="risk-exposure-to-be-mitigated"></a>Exposição ao risco a ser atenuada
 
--   [Redução de fraude ou uso indevido](#fraudmisusemitigation)
+- **Roubo de serviço** Clientes que não têm a intenção de pagar por serviços consumidos usando meios de pagamento roubado, fornecendo informações de cobrança falsas e/ou sendo inadimplente com pagamentos pendentes
 
-## <a href="" id="nonpayment"></a>Falta de pagamento
+- **Abuso do serviço** Clientes que usam serviços de nuvem violando a política de uso aceitável da Microsoft
 
+#### <a name="examples-of-possible-fraud-or-service-abuse"></a>Exemplos de possível fraude ou abuso do serviço
+- Spam
+- Pirataria
+- Ataques de DDOS
+- Mineração de bitcoins
+- Distribuição de malware
+- Revenda de assinaturas pirateadas 
 
--   Recomendamos estabelecer uma política de cobrança clara que detalhe para os clientes seu processo de cobrança e quando o acesso à assinatura será afetado.
--   Você pode desabilitar o acesso ou cancelar totalmente as assinaturas de seus clientes por falta de pagamento.
+#### <a name="examples-of-online-transaction-risk"></a>Exemplos de risco de transação online
+- Transações sem o cartão de crédito presente, isto é, transações que não ocorrem pessoalmente
+- Identidades fraudulentas
+- Serviços provisionados e usados antes de o pagamento inicial ser recebido
+- Mercados emergentes/regiões de alto risco por fraude online
+- A capacidade de criminosos automatizarem a criação de conta e compras
 
-## <a href="" id="fraudmisusemitigation"></a>Redução de fraude ou uso indevido
+## <a name="strategies-for-managing-online-risk"></a>Estratégias para gerenciar risco online
 
+Essas recomendações podem ajudá-lo a desenvolver políticas e práticas que podem reduzir a exposição a riscos de transação online pelo ciclo de vida do seu relacionamento com seus clientes.  
 
-Para resolver atividade fraudulenta ou uso incorreto, você tem as seguintes opções:
+#### <a name="when-onboarding-new-customers"></a>Quando integrar novos clientes
+- Estabeleça relacionamentos pessoais com os clientes quando possível, por exemplo, contato por telefone
+- Procure formas melhores de verificar as credenciais e os antecedentes (agências de crédito/relatório comercial) dos clientes 
+- Use a verificação de SMS durante a inscrição para minimizar a exposição a criação de conta e compra robótica
+- Gerenciamento de identidade e controle usando serviços de identidade digital, por exemplo
+- Sistemas rigorosos de detecção de fraudes de cartão de crédito para avaliar a solidez financeira do cliente
+- Estabeleça uma política de arrecadação clara que detalha seus processos de arrecadação e quando o acesso a assinaturas será afetado (você pode desabilitar o acesso ou [suspender a assinatura do cliente](suspend-a-subscription.md) por falta de pagamento)
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Suspender as assinaturas</td>
-<td><p>Você pode suspender as assinaturas por conta própria no Partner Center enquanto investiga o problema. Consulte [Suspender uma assinatura](suspend-a-subscription.md).</p></td>
-</tr>
-<tr class="even">
-<td>Criar um tíquete de serviço</td>
-<td><p>Crie uma solicitação de serviço no Partner Center se tiver outras dúvidas ou preocupações sobre atividades suspeitas. Consulte [Relatar problemas em nome de um cliente](report-problems-on-behalf-of-a-customer.md).</p></td>
-</tr>
-</tbody>
-</table>
+#### <a name="post-purchase-customer-account-management"></a>Gerenciamento de contas de clientes após a compra
+- Trabalhe com os clientes para compreender as necessidades comerciais de uso da nuvem, definindo limites de monitoramento apropriados
+    >**Observação** É possível [definir um orçamento de gasto mensal do Azure](set-an-azure-spending-budget-for-your-customers.md) no Partner Center para monitorar o uso do cliente durante o mês e ser notificado quando os clientes estão atingindo o limite do orçamento.
+- Monitore [logs de atividade do cliente](activity-logs.md) regularmente para ajudar a detectar fraudes logo no início
+- Execute uma ação rápida quando atividades suspeitas são detectadas
+- Evite conceder acesso administrativo completo de clientes para assinaturas sem primeiro implementar controles de atenuação de risco
+- Implemente um processo para receber, examinar, resolver e responder às notificações da Microsoft rapidamente
 
- 
+#### <a name="post-purchase-customer-billing-management"></a>Gerenciamento de cobrança de clientes após a compra
+- Solicite pagamentos antecipados antes de transações iniciais e da cobrança 
+- Não aceite meios de pagamento de alto risco, por exemplo, cartões pré-pagos ou de valor armazenado
+- Monitore pagamentos de cliente e o recebimento de contas de vencimento próximo, aplicando rigorosamente processos por pagamento atrasado ou falta de pagamento
 
-Se a Microsoft detectar atividade do parceiro ou do cliente que confirmarmos ou suspeitarmos que viola a Política de uso aceitável, tomaremos medidas de aplicação. O cliente pode ser suspenso imediatamente, e você será notificado de ações de aplicação ou atualização em suas solicitações pela Microsoft.
+Para mais estratégias mais detalhadas de atenuação de risco online, consulte o [Guia de gerenciamento de risco de transação online.](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)
+
+>**Importante**<br>
+Se a Microsoft detectar atividade do parceiro ou do cliente que confirmarmos ou suspeitarmos que viola a Política de Uso Aceitável, tomaremos medidas de aplicação. O cliente pode ser suspenso imediatamente, e você será notificado de ações de aplicação ou atualização em suas solicitações pela Microsoft.
 
  
 

@@ -4,11 +4,11 @@ description: "Este artigo inclui links para guias do programa Provedor de Soluç
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 keywords: "guias do programa csp, guia de programa, acordos de parceria, contrato do cliente, listas de preço, ofertas"
-ms.openlocfilehash: 98d4a76faff8289a1d5875b9da8ad8f7ba9faa94
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
+ms.openlocfilehash: df704239dfc51f756405e0da19a64bca709b0035
+ms.sourcegitcommit: bd389c848158d41d1a012e246f57eefacec2ea2b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 01/29/2018
 ---
 # <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>Contratos, listas de preços e ofertas do Provedor de Soluções na Nuvem
 
@@ -45,7 +45,7 @@ A Microsoft exige que os parceiros assinem este contrato para participar do prog
 
 [Contrato de revendedor de soluções de Nuvem da Microsoft – Taiwan](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_TAI_ENG_Sep20172_CR.pdf)
 
-[Contrato de revendedor de soluções de Nuvem da Microsoft - Microsoft Cloud Germany](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_EOC_GER_ENG_Sep20172_CR_GermanCloud.pdf)
+[Contrato de revendedor de soluções de Nuvem da Microsoft - Microsoft Cloud Germany](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_ENG_Sep20173_GermanCloud.pdf)
 
 [Contrato de revendedor de soluções de Nuvem da Microsoft - Microsoft Cloud for US Government](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_AOC_USGCC_ENG_Sep20172_CR.pdf)
 

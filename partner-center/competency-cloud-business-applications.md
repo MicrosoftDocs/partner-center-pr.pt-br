@@ -3,11 +3,11 @@ title: "Competência de Aplicativos de Negócios na Nuvem"
 description: "A competência de aplicativos de negócios na nuvem é para parceiros especializados em implantação e gerenciamento do Microsoft Dynamics 365 para seus clientes."
 author: Daniel Simpson
 keywords: "competência, competências, aplicativos de negócios na nuvem"
-ms.openlocfilehash: 073e31972c8abcfdb176d6ceec65bbda67e8a5f0
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
+ms.openlocfilehash: 89459db489bce42c7b91ac1b76bebe6e34c5a705
+ms.sourcegitcommit: 201493cd49b1b65206aa46442677ec1979287358
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 01/25/2018
 ---
 # <a name="cloud-business-applications"></a>Aplicativos de negócios na nuvem 
 
@@ -51,7 +51,7 @@ A opção de compromisso de cliente corporativo é ideal para parceiros que inte
     
     **E**
     
-    - As mesmas **5** pessoas devem ser aprovadas em um dos seguintes exames funcionais:
+    - As mesmas **5** pessoas, ou cinco pessoas diferentes, devem passar em um dos seguintes exames funcionais:
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
         - [MB2-877](https://www.microsoft.com/en-us/learning/exam-MB2-877.aspx): Microsoft Dynamics 365 for Field Service *Novo exame disponível a partir de dezembro de 2017

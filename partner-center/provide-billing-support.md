@@ -3,10 +3,11 @@ title: "Fornecer suporte para a cobrança | Partner Center"
 description: "Você tem a relação de cobrança com seus clientes e oferece suporte completo a qualquer pergunta relacionada à cobrança de seus clientes."
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
-ms.openlocfilehash: d9f550f05d1555781ddd29c8d1eb95297a9e9a53
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 60a8fa1271d73e07f31b7172da31a66f702ce342
+ms.sourcegitcommit: b1cfc52b956a25bd81a449bdce21fe94f4823482
 ms.translationtype: HT
 ms.contentlocale: pt-BR
+ms.lasthandoff: 01/25/2018
 ---
 # <a name="provide-billing-support"></a>Fornecer suporte para a cobrança
 
@@ -36,17 +37,15 @@ Você tem a relação de cobrança com seus clientes e oferece suporte completo 
 ## <a href="" id="billingdisputes"></a>Controvérsias de cobrança
 
 
--   [Relate problemas em nome de um cliente](report-problems-on-behalf-of-a-customer.md) para esclarecer dúvidas ou contestações de cobrança.
+-   [Relate problemas](report-problems-with-partner-center.md) para fazer perguntas sobre cobrança ou abordar controvérsias.
 
 ## <a href="" id="escalatingissues"></a>Encaminhando problemas
 
 
 -   [Encaminhe problemas à Microsoft](escalate-problems-to-microsoft.md) pelo canal de suporte ao parceiro em nome do cliente se você precisar de nossa assistência.
--   Você deve se comunicar e fechar o loop com o cliente depois que o problema for resolvido
+-   Você deve se comunicar e fechar o loop com o cliente depois que o problema for resolvido 
 
  
-
- 
-
+Controvérsias de cobrança Relate problemas (https://msdn.microsoft.com/pt-br/partner-center/report-problems-with-partner-center) para fazer perguntas sobre cobrança ou abordar controvérsias.
 
 

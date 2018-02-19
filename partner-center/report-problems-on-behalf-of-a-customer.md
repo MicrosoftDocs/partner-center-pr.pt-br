@@ -1,12 +1,14 @@
 ---
 title: Relatar problemas em nome de um cliente | Partner Center
-Description: "Se o cliente está tendo um problema de serviço que você não consegue resolver e que atende aos critérios descritos em Encaminhar problemas para a Microsoft, abra um tíquete de suporte para ele."
+Description: If your customer is experiencing a service problem that you can''t resolve, and that meets the criteria described in Escalate problems to Microsoft, file a support ticket for them.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
-ms.openlocfilehash: 8c59c9d67ab06bd515945e613b14b79d21d318b8
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
+ms.openlocfilehash: af69b2fd3ad63e9b926afbb6ffef3cf575c5e997
+ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
+ms.lasthandoff: 02/01/2018
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Relatar problemas em nome de um cliente
 
@@ -26,24 +28,25 @@ Se o cliente está tendo um problema de serviço que você não consegue resolve
 
 3.  Para o serviço com problemas, selecione **Criar ou exibir solicitação de serviço**. Você será redirecionado para o portal do Microsoft Azure ou o Centro de Administração do Office 365.
 
-    **Microsoft Azure**
+**Microsoft Azure**
 
-    1.  Selecione **Nova solicitação de suporte**.
-    2.  Preencha a solicitação de suporte com as informações apropriadas e, em seguida, selecione **Criar**:
+**Observação** Para criar solicitações de serviço para o cliente no Azure, seu provedor indireto deve conceder acesso à conta do Azure do cliente. Isso é diferente de administrar em nome dos clientes para o Office 365.   
+
+1.  Selecione **Nova solicitação de suporte**.
+2.  Preencha a solicitação de suporte com as informações apropriadas e, em seguida, selecione **Criar**:
         -   Na seção **Noções básicas** da solicitação de suporte, certifique-se de selecionar **Provedor de Soluções na Nuvem** no campo **Plano de suporte**.
         -   Na seção de informações **Contato** da solicitação de suporte, insira suas informações, não as informações do cliente.
 
-    3.  Mais tarde, revise as solicitações de serviço do cliente no portal do Microsoft Azure selecionando **Gerenciar solicitações de suporte**.
+3.  Mais tarde, revise as solicitações de serviço do cliente no portal do Microsoft Azure selecionando **Gerenciar solicitações de suporte**.
 
-    **Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite**
 
-    1.  Na seção **Criar uma solicitação de serviço**, escolha a categoria de tópico de suporte apropriada. Talvez seja necessário selecionar **Mais...** para exibir tópicos adicionais.
-    2.  Preencha o formulário de solicitação de serviço e selecione **Enviar**.
-        **Observação**  Certifique-se de incluir suas informações de contato, não as do cliente.
 
-         
+**Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite**
 
-    3.  Mais tarde, examine as solicitações de serviço do cliente indo para o Centro de Administração do Office 365 e selecionando **Ver todos os tíquetes de suporte**.
+1. Na seção **Criar uma solicitação de serviço**, escolha a categoria de tópico de suporte apropriada. Talvez seja necessário selecionar **Mais...** para exibir tópicos adicionais.    
+2. Preencha o formulário de solicitação de serviço e selecione **Enviar**.
+    **Observação**  Certifique-se de incluir suas informações de contato, não as do cliente.
+3. Mais tarde, examine as solicitações de serviço do cliente indo para o Centro de Administração do Office 365 e selecionando **Ver todos os tíquetes de suporte**.
 
 ## <a name="faq"></a>Perguntas frequentes
 

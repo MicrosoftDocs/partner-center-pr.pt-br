@@ -1,13 +1,12 @@
 ---
 title: "Perguntas Frequentes sobre os novos recursos de cobrança | Partner Center"
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
-ms.assetid: 
 author: MaggiePucciEvans
-ms.openlocfilehash: 0c468df2176160ca5a1fdf8b90ce5b6f9b669cc2
-ms.sourcegitcommit: bfdbd1b9ff3443febc0ff1903f35d723b83fa970
+ms.openlocfilehash: 503a1fac539b2cd40e8b95ab458143801c5d0134
+ms.sourcegitcommit: 4964383ea9dcd51d27256a2969a453d67c5ebf0c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/19/2018
+ms.lasthandoff: 02/03/2018
 ---
 # <a name="faq-about-new-billing-features"></a>Perguntas Frequentes sobre os novos recursos de cobrança
 
