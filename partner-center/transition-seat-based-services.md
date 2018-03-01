@@ -1,14 +1,14 @@
 ---
-title: "Mova os clientes de serviços baseados em licença para o programa de serviço de nuvem no Partner Center | Partner Center"
+title: "Mover os clientes de serviços baseados em licença para o programa Provedor de Soluções na Nuvem no Partner Center | Partner Center"
 description: "Você não pode mover automaticamente os clientes e suas assinaturas para o Partner Center, mas você pode movê-los manualmente."
 author: labrenne
-ms.openlocfilehash: bc115ad57614dc48ca8d75e4347f1cd2dbcd9d50
-ms.sourcegitcommit: db945c0cf04f675c4cb71ae3dd1d1737d086e7e2
+ms.openlocfilehash: 43494cb92655dca4c4ed74753ac1c82cf61f73e2
+ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2017
+ms.lasthandoff: 02/09/2018
 ---
-# <a name="moving-license-based-services-customers-to-the-cloud-service-program-on-partner-center"></a>Mover os clientes de serviços baseados em licença para o programa de serviço de nuvem no Partner Center
+# <a name="moving-license-based-services-customers-to-the-cloud-solution-provider-program-on-partner-center"></a>Mover os clientes de serviços baseados em licença para o programa Provedor de Soluções na Nuvem no Partner Center
 
 **Aplicável ao**
 
@@ -16,7 +16,7 @@ ms.lasthandoff: 08/23/2017
 
 Atualmente no Partner Center, você não pode mover automaticamente seus clientes e suas assinaturas de um programa de licenciamento para outro. No entanto, você pode mover clientes individuais manualmente usando recursos de vários canais e vários parceiros no Partner Center. Saiba mais sobre os [recursos CSP Multi-Channel e Multi-Partner](https://microsoft.sharepoint.com/sites/infopedia/pages/layouts/KCDoc.aspx?k=G03KC-1-5871). 
 
-## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-service-program-csp"></a>Mova as assinaturas baseadas em licença de seus clientes para o programa de serviços de nuvem (CSP)
+## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Mova as assinaturas baseadas em licença de seus clientes para o programa Provedor de Soluções na Nuvem (CSP)
 
 1. Selecione Clientes em seu menu **Painel** do Partner Center e depois selecione **Solicitar uma relação de revenda**.
 

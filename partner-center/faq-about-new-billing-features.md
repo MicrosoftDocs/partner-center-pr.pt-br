@@ -1,12 +1,13 @@
 ---
 title: "Perguntas Frequentes sobre os novos recursos de cobrança | Partner Center"
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
+ms.assetid: 
 author: MaggiePucciEvans
-ms.openlocfilehash: 503a1fac539b2cd40e8b95ab458143801c5d0134
-ms.sourcegitcommit: 4964383ea9dcd51d27256a2969a453d67c5ebf0c
+ms.openlocfilehash: cd6e267dd691529998cf43e7a21a3abac066e2d7
+ms.sourcegitcommit: 6eec754e269e8744d4e09df64a690d0c74525dbb
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/03/2018
+ms.lasthandoff: 02/14/2018
 ---
 # <a name="faq-about-new-billing-features"></a>Perguntas Frequentes sobre os novos recursos de cobrança
 
@@ -397,192 +398,271 @@ Antes de implementar o alinhamento da data de cobrança, nós faturamos e cobram
 
 As assinaturas que estiverem no período gratuito em 20 de fevereiro não serão cobradas entre a data da compra até a data de cobrança do parceiro. Além disso, eles não serão cobrados pelo primeiro mês do período pago de 12 meses. Se você usar um arquivo de reconciliação para verificação, lembre-se de que essa cobrança do primeiro mês não estará mais visível no arquivo de reconciliação.  
 
+Não haverá nenhuma alteração nas APIs, no faturamento ou nos incentivos como resultado dessa mudança de lógica de cobrança. Informe suas equipes de vendas e estatísticas sobre essa nova lógica de cobrança e garanta que as operações sejam ajustadas conforme necessário. Veja abaixo perguntas frequentes com cenários de cobrança detalhados.  
 
-**P:** O que está mudando?
 
--   **R:** As assinaturas baseadas em licença não terão mais um período gratuito entre a data da compra e a data de cobrança do parceiro.
+**P1:** O que está mudando com a data de cobrança?
 
-**P:** Quando o período gratuito será removido?
+-   **R:** As assinaturas baseadas em licença não terão mais um período gratuito. Atualmente, há um período gratuito da data da compra até a data de cobrança do parceiro.
+
+**P2:** Quando o período gratuito será removido?
 
 - **R:** A partir de 20 de fevereiro de 2018, novas assinaturas não terão um período gratuito.
 
-**P:** As assinaturas no período gratuito em 20 de fevereiro de 2018 serão afetadas?
+**P3:** Como as assinaturas que estiverem no período gratuito em 20 de fevereiro serão afetadas?
 
-- **R:** O período gratuito continuará até a data de cobrança do parceiro para as assinaturas que já estiverem no período gratuito em 20 de fevereiro de 2018. Além disso, eles não serão cobrados pelo primeiro mês do período pago de 12 meses. Se você usar o arquivo de reconciliação para verificação, lembre-se de que essa cobrança do primeiro mês poderá estar ausente do arquivo de reconciliação. Veja os cenários abaixo para obter uma explicação mais detalhada.
+- **R:** As assinaturas que estiverem no período gratuito em 20 de fevereiro de 2018 ainda receberão um período gratuito da data da compra até a data de cobrança do parceiro. Essas licenças também receberão um "período gratuito estendido" e não serão cobradas pelo primeiro mês do período pago de 12 meses. O "período gratuito estendido" não será aplicável a licenças adicionadas no primeiro mês. Se aumentar a quantidade de licenças no primeiro mês, você será cobrado por essas licenças adicionadas na próxima fatura/reconciliação. Se o arquivo de reconciliação for usado para verificação, esteja ciente de que essa cobrança do primeiro mês poderá estar ausente do arquivo de reconciliação. Veja os cenários abaixo para obter uma explicação mais detalhada.
 
-**P:** Quando começará o período de 12 meses pago?
+**P4:** Quando começará o período pago de 12 meses de uma nova assinatura?
 
-- **R:** No momento, o período pago começa na data de cobrança do parceiro após a data da compra. Quando o período gratuito for eliminado, o período pago para novas assinaturas começará na data da compra.
+- **R:** Atualmente, o período pago começa na data de cobrança do parceiro após a data da compra. A partir de 20 de fevereiro de 2018, o período pago de novas assinaturas começará na data da compra.
 
-**P:** Quando as assinaturas serão renovadas automaticamente?
+**P5:** Quando as assinaturas serão renovadas automaticamente?
 
-- **R:** Atualmente, a renovação automática das assinaturas ocorre 12 meses após a data de cobrança de parceiro seguinte à data da compra. Quando o período gratuito for eliminado, as assinaturas serão renovadas automaticamente 12 meses após a data da compra.
+- **R:** As assinaturas são renovadas automaticamente 12 meses após a data da primeira cobrança. Atualmente, isso significa que a renovação automática das assinaturas ocorrerá 12 meses após a primeira data de cobrança do parceiro seguinte à data da compra. A partir de 20 de fevereiro de 2018, as novas assinaturas serão renovadas automaticamente 12 meses após a data da compra.
 
-**P:** E se eu comprar a assinatura nos dias 29, 30 ou 31?
+**P6:** E se eu comprar a assinatura nos dias 29, 30 ou 31 de um mês?
 
-- **R:** A assinatura será provisionada na data da compra, mas o período pago de 12 meses não será iniciado até a primeira data do mês seguinte.
+- **R:** A assinatura estará disponível a partir da data da compra, mas o período pago de 12 meses não será iniciado até o primeiro dia do mês seguinte.
 
-**P:** Quais ofertas são afetadas por essa alteração?
+**P7:** Quais ofertas são afetadas?
 
-- **R:** Todas as assinaturas baseadas em licença do CSP são afetadas.
+- **R:** A remoção do período gratuito se aplica a todas as assinaturas baseadas em licença do CSP.
 
-**P:** Como essa alteração afeta a fatura e o arquivo de reconciliação?
+**P8:** Como isso afeta a fatura e o arquivo de reconciliação? 
 
-- **R:** Você não verá mais uma 'linha de cobrança $0' que representa o período gratuito.
+- **R:** Você não verá mais a "linha de cobrança $0" na fatura ou no arquivo de reconciliação. Atualmente, a linha de cobrança $0 representa o período gratuito.
 
-**P:** A minha data de cobrança será alterada?
+**P9:** A minha data de cobrança será alterada?
 
-- **R:** Não, você continuará a receber a fatura e o arquivo de reconciliação em sua data de cobrança existente.
+- **R:** Não, você continuará recebendo a fatura e o arquivo de reconciliação em sua data de cobrança existente.
 
-**P:** As datas de início/fim da cobrança mensal serão alteradas para as assinaturas existentes?
+**P10:** As datas de início/fim da cobrança mensal serão alteradas para as assinaturas existentes?
 
-- **R:** Não, as datas de início/fim da cobrança mensal da assinatura continuarão a se alinhar à sua data de cobrança. No entanto, as novas assinaturas serão alinhadas à data da compra. Veja exemplos abaixo.
+- **R:** Não, as datas de início/fim da cobrança mensal das assinaturas existentes continuarão alinhadas à sua data de cobrança. No entanto, as novas assinaturas serão alinhadas à data da compra. Veja exemplos abaixo.
 
-**P:** O cálculo de incentivos será alterado?
+**P11:** O cálculo de incentivos será alterado?
 
-- **R:** Não.
+- **R:** Não, não haverá nenhuma alteração nos cálculos de incentivos.
 
-**P:** As APIs serão alteradas?
+**P12:** Haverá alguma alteração nas APIs?
 
-- **R:** Não.
+- **R:** Não, não haverá nenhuma alteração nas APIs.
 
 ### <a name="common-scenarios"></a>Cenários comuns
 
 
-|**Cenários**   |**Cenário 1: O período gratuito da assinatura termina antes de 20 de fevereiro de 2018**   |**Cenário 2: A assinatura está no período gratuito em 20 de fevereiro de 2018**  | **Cenário 3: A assinatura adquirida em 20 de fevereiro de 2018 ou depois disso**   |
+|**Cenários**   |**Cenário 1: O período gratuito da assinatura termina antes de 20 de fevereiro de 2018**   |**Cenário 2: A assinatura está dentro do período gratuito em 20 de fevereiro de 2018**  | **Cenário 3: Assinatura adquirida em 20 de fevereiro de 2018 ou depois dessa data**   |
 |----------|:------------|:--------------------|:------------|
-|Data da compra |1º de fev.    | 1º de fev.    | 1º de junho     |
-|Data do provisionamento | 1º de fev.   |1º de fev.   |1º de junho   |
-|Data da cobrança   | 15   |25   | 15|
-|Período gratuito   | 1º de fev. - 15 de fev.|1º de fev. - 24 de fev.   |Sem período gratuito|
-|Cobrança do primeiro mês   | 15 de fev. - 14 de março | 25 de fevereiro de 2018 – 24 de março de 2018 Sem cobrança, não aparecerá no arquivo de reconciliação|1º de junho - 30 de junho   |
-|Cobrança do segundo mês   | 15 de março - 14 de abril|25 de março - 24 de abril   |1º de julho - 31 de julho|
-|Período pago começa   | 15 de fev. de 2018 | 25 de março de 2018| 1 de junho de 2018| 
-|Período pago termina | 14 de fev. de 2019   |24 de fev. de 2019   | 31 de maio de 2019  |
-|Data da renovação | 15 de fev. de 2019 |25 de fev. de 2019   |1º de junho de 2019|
+|Data da compra |1º de fev. de 2018    | 1º de fev. de 2018    | 1º de junho de 2018     |
+|Data do provisionamento | 1º de fev. de 2018   |1º de fev. de 2018   |1º de junho de 2018   |
+|Data da cobrança   | Dia 15 de cada mês   |Dia 25 de cada mês   | Dia 15 de cada mês|
+|Período gratuito   | 1º de fevereiro de 2018 - 14 de fevereiro de 2018|1º de fevereiro de 2018 - 24 de fevereiro de 2018   |Sem período gratuito|
+|Cobrança do primeiro mês   | 15 de fevereiro de 2018 - 14 de março de 2018 | A quantidade de licenças em 24 de fevereiro de 2018 receberá um período gratuito estendido até 24 de março de 2018. As licenças adicionadas após 24 de fevereiro de 2018 serão cobradas. |1º de junho de 2018 - 30 de junho de 2018   |
+|Cobrança do segundo mês   | 15 de março de 2018 - 14 de abril de 2018|25 de março de 2018 - 24 de abril de 2018   |1º de julho de 2018 - 31 de julho de 2018|
+|Início do período pago   | 15 de fevereiro de 2018 | 25 de fevereiro de 2018| 1º de junho de 2018| 
+|Fim do período pago | 14 de fevereiro de 2019   |24 de fevereiro de 2019   | 31 de maio de 2019  |
+|Data da renovação | 15 de fevereiro de 2019 |25 de fevereiro de 2019   |1º de junho de 2019|
 
-### <a name="scenario---new-purchase"></a>Cenário - nova compra
+### <a name="scenario-4---new-purchase"></a>Cenário 4 - Nova compra
 
-A data de cobrança do parceiro é no dia 15. Em 1º de junho, o parceiro compra uma nova assinatura por US$ 30/mês. O arquivo de reconciliação de 15 de junho conterá o seguinte:
+A data de cobrança do parceiro é no dia 15 do mês. Em 1º de junho de 2018, o parceiro compra uma nova assinatura. A assinatura custa US$ 30 por licença por mês. 
 
-- Cobrança de US$ 30 pelo primeiro mês (1º de junho - 30 de junho)
+O arquivo de reconciliação de 15 de junho conterá somente as seguintes linhas de cobrança:
 
-|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|01/06/2018   |30/06/2018   |US$ 30   |1   |US$ 30   |
+- Cobrança de US$ 30 pelo período de serviço de 1º de junho - 30 de junho
 
-### <a name="scenario-suspend-and-reactivate-a-subscription-in-less-than-30-days-after-purchase"></a>Cenário: suspender e reativar uma assinatura em menos de 30 dias após a compra
+|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |**Tipo de cobrança** |
+|-----------------|:-------------|:----------------|:------------|:------|--------------|
+|01/06/2018   |30/06/2018   |US$ 30   |1   |US$ 30   |Taxas proporcionais durante a compra |
 
-A data de cobrança do parceiro é no dia 15. Em 1º de junho, o parceiro compra uma nova assinatura por US$ 30/mês. Em 5 de junho, o parceiro suspende a assinatura. Em 10 de junho, o parceiro reativa a assinatura. O arquivo de reconciliação de 15 de junho conterá o seguinte:
+### <a name="scenario-5a-suspend-and-reactivate-before-billing-date"></a>Cenário 5a: Suspensão e reativação antes da data de cobrança
 
-- Cobrança de US$ 30 pelo primeiro mês (1º de junho – 30 de junho) 
-- Crédito de cancelamento de -US$ 30. Observe que a data de início da cobrança é 5 de junho, que é quando o parceiro suspendeu a assinatura. O crédito não é proporcional. O parceiro recebe o crédito de 100% porque suspendeu a assinatura nos primeiros 30 dias.
-- Cobrança de reativação de US$ 30. Observe que a data de início da cobrança é 10 de junho, que é quando o parceiro reativou a assinatura. O valor não é proporcional. Nenhum cancelamento e reativação dentro de 30 dias após a data da compra é proporcional.
+A data de cobrança do parceiro é no dia 15 do mês. Em 1º de junho de 2018, o parceiro compra uma nova assinatura. A assinatura custa US$ 30 por licença por mês. Em 5 de junho de 2018, o parceiro suspende a assinatura. Em 10 de junho de 2018, o parceiro reativa a assinatura. O arquivo de reconciliação de 15 de junho conterá as seguintes linhas de cobrança:
 
+- Cobrança de US$ 30 pelo período de serviço de 1º de junho – 30 de junho. 
+- Crédito de cancelamento de -US$ 30 pelo período de serviço de 5 de junho - 30 de junho. O crédito não é proporcional porque a assinatura foi suspensa nos primeiros 30 dias. 
+- Cobrança de US$ 30 pelo período de serviço de 10 de junho - 30 de junho. A cobrança não é proporcional porque a assinatura foi reativada nos primeiros 30 dias. 
 
-|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|01/06/2018   |30/06/2018   |US$ 30   |1   |US$ 30   |
-|05/06/2018   |30/06/2018   |-US$ 30   |1   |US$ 30   |
-|10/06/2018   |30/06/2018   |US$ 30   |1   |US$ 30   |
+|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |**Tipo de cobrança** |
+|-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
+|01/06/2018   |30/06/2018   |US$ 30   |1   |US$ 30   |Taxas proporcionais durante a compra |
+|05/06/2018   |30/06/2018   |-US$ 30   |1   |US$ 30   |Taxa de cancelamento |
+|10/06/2018   |30/06/2018   |US$ 30   |1   |US$ 30   |Taxa de ativação |
 
+Observe que, quando uma assinatura é suspensa e reativada, a data de renovação automática permanecerá sendo 12 meses da data da compra original.
 
-### <a name="scenario-suspend-a-subscription-in-less-than-30-days-after-purchase-and-reactivate-after-30-days"></a>Cenário: suspender uma assinatura em menos de 30 dias após a compra e reativá-la após os 30 dias
+### <a name="scenario-5b-suspend-and-reactivate-after-billing-date-but-less-than-30-days-from-purchase-date"></a>Cenário 5b: Suspensão e reativação após a data de cobrança, mas com menos de 30 dias da data da compra
 
-A data de cobrança do parceiro é no dia 15. Em 1º de junho, o parceiro compra uma nova assinatura por US$ 30/mês. Em 5 de junho, o parceiro suspende a assinatura. O arquivo de reconciliação de 15 de junho conterá o seguinte:
+A data de cobrança do parceiro é no dia 15 do mês. Em 1º de junho de 2018, o parceiro compra uma nova assinatura. A assinatura custa US$ 30 por licença por mês. Em 20 de junho de 2018, o parceiro suspende a assinatura. Em 25 de junho de 2018, o parceiro reativa a assinatura. O arquivo de reconciliação de 15 de junho conterá as seguintes linhas de cobrança:
 
-|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|01/06/2018   |30/06/2018   |US$ 30   |1   |US$ 30   |
-|05/06/2018   |30/06/2018   |-US$ 30   |1   |US$ 30   |
+- Cobrança de US$ 30 pelo período de serviço de 1º de junho – 30 de junho. 
 
-Em 10 de julho, o parceiro reativa a assinatura. O arquivo de reconciliação de 15 de julho conterá a seguinte alteração:
+|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |**Tipo de cobrança** |
+|-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
+|01/06/2018   |30/06/2018   |US$ 30   |1   |US$ 30   |Taxas proporcionais durante a compra |
 
-- Cobrança de reativação de US$ 21,29. A data de início da cobrança é 10 de julho, que é quando o parceiro reativou a assinatura, e o valor é proporcional, US$ 21,29. Nenhum cancelamento e reativação após os 30 dias após a data da compra é proporcional. 
+O arquivo de reconciliação de 15 de julho conterá as seguintes linhas de cobrança:
+- Crédito de cancelamento de -US$ 30 pelo período de serviço de 20 de junho – 30 de junho. O crédito não é proporcional porque a assinatura foi suspensa nos primeiros 30 dias.
+- Cobrança de US$ 30 pelo período de serviço de 25 de junho – 30 de junho. A cobrança não é proporcional porque a assinatura foi reativada nos primeiros 30 dias.
+- Cobrança de US$ 30 pelo período de serviço de 1º de julho – 31 de julho.
 
-|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|10/07/2018   |31/07/2018   |US$ 21,29   |1   |US$ 21,29   |
+|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |**Tipo de cobrança** |
+|-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
+|20/06/2018   |30/06/2018   |-US$ 30   |1   |-US$ 30   |Taxa de cancelamento |
+|25/06/2018   |30/06/2018   |US$ 30   |1   |US$ 30   |Taxa de ativação |
+|01/07/2018   |31/07/2018   |US$ 30   |1   |US$ 30   |Taxa do ciclo |
 
-A data de renovação da assinatura permanece 1º de junho do ano seguinte, que é de 12 meses a partir da data da compra original.
+### <a name="scenario-5c-suspend-and-reactivate-different-license-quantity-after-billing-date-but-less-than-30-days-from-purchase-date"></a>Cenário 5c: Suspensão e reativação (quantidade de licenças diferente) após a data de cobrança, mas com menos de 30 dias da data da compra
 
-### <a name="scenario-subscription-suspension-and-reactivation-more-than-30-days-after-purchase"></a>Cenário: suspensão e reativação da assinatura com mais de 30 dias após a compra 
-A data de cobrança do parceiro é no décimo-quinto dia do mês. Em 1º de junho, o parceiro compra uma nova assinatura de uma licença por US$ 30 por mês. O arquivo de reconciliação de 15 de junho conterá apenas o seguinte: cobrança de US$30 no primeiro mês (1º de junho – 30 de junho).
+A data de cobrança do parceiro é no dia 15 do mês. Em 1º de junho de 2018, o parceiro compra uma nova assinatura. A assinatura custa US$ 30 por licença por mês. Em 20 de junho de 2018, o parceiro suspende a assinatura. Em 25 de junho de 2018, o parceiro reativa a assinatura com duas licenças. O arquivo de reconciliação de 15 de junho conterá as seguintes linhas de cobrança:
 
-|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|01/06/2018   |30/06/2018   |US$ 30   |1   |US$ 30   |
+- Cobrança de US$ 30 pelo período de serviço de 1º de junho – 30 de junho. 
 
-O parceiro suspende a assinatura em 5 de julho, mas a reativa em 15 de julho. O arquivo de reconciliação de 15 de julho conterá o seguinte:
+|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |**Tipo de cobrança** |
+|-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
+|01/06/2018   |30/06/2018   |US$ 30   |1   |US$ 30   |Taxas proporcionais durante a compra |
 
-- Cobrança de US$ 30 pelo segundo mês (1º de julho – 31 de julho)
+O arquivo de reconciliação de 15 de julho conterá as seguintes linhas de cobrança:
+- Crédito de cancelamento de -US$ 30 pelo período de serviço de 20 de junho – 30 de junho. O crédito não é proporcional porque a assinatura foi suspensa nos primeiros 30 dias.
+- Cobrança de US$ 30 pelo período de serviço de 25 de junho – 30 de junho. A cobrança não é proporcional porque a assinatura foi suspensa nos primeiros 30 dias.
+- Crédito de -US$ 30 pelo período de serviço de 1º de junho – 30 de junho. O parceiro reativou a assinatura com uma quantidade de licenças diferente, o que resulta em um crédito e uma nova cobrança proporcional.
+- Nova cobrança proporcional de US$ 24 pelo período de serviço de 1º de junho – 24 de junho. O parceiro tinha 1 licença durante esse período de serviço. Mesmo que a assinatura tenha sido suspensa de 20 de junho – 24 de junho, o cliente ainda é cobrado por esses dias. O preço unitário é calculado da seguinte forma: (preço mensal/número de dias no período de serviço total)*número de dias no período de serviço proporcional*número de licenças = (30/30)*24*1 = US$ 24.
+- Nova cobrança proporcional de US$ 12 pelo período de serviço de 25 de junho – 30 de junho. O parceiro tinha 2 licenças durante esse período de serviço. O preço unitário é calculado como (30/30)*6*2 = US$ 12.
+- Cobrança de US$ 60 pelo período de serviço de 1º de julho – 31 de julho.
 
-- Crédito de cancelamento de -US$ 26,19. Observe que a data de início da cobrança é 5 de julho, que é quando o parceiro suspendeu a assinatura, e o crédito é proporcional. Nenhum cancelamento e reativação após os 30 dias após a data da compra é proporcional.
+|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |**Tipo de cobrança** |
+|-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
+|20/06/2018   |30/06/2018   |-US$ 30   |1   |-US$ 30   |Taxa de cancelamento |
+|25/06/2018   |30/06/2018   |US$ 30   |1   |US$ 30   |Taxa de ativação |
+|01/06/2018   |30/06/2018   |-US$ 30   |1   |-US$ 30   |Proporcional à instância do ciclo |
+|01/06/2018   |24/06/2018   |US$ 24   |1   |US$ 24   |Proporcional à instância do ciclo |
+|25/06/2018   |30/06/2018   |US$ 6   |2   |US$ 12   |Proporcional à instância do ciclo |
+|01/07/2018   |31/07/2018   |US$ 30   |2   |US$ 60   |Taxa do ciclo |
 
-- Cobrança de reativação de US$ 21,37. Observe que a data de início da cobrança é 10 de julho, que é quando o parceiro reativou a assinatura, e a cobrança é proporcional.
+### <a name="scenario-6-subscription-suspension-less-than-30-days-after-purchase-and-reactivation-more-than-30-days-after-purchase"></a>Cenário 6: Suspensão da assinatura com menos de 30 dias após a compra e reativação com mais de 30 dias após a compra 
 
-|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|01/07/2018   |31/07/2018   |US$ 30  |1   |US$ 30   |
-|05/07/2018   |31/07/2018   |   -US$ 26,19   |1   |-US$ 26,19|
-|10/07/2018   |31/07/2018   |-$21,37   |1   |$21,37|
+A data de cobrança do parceiro é no dia 15 do mês. Em 1º de junho, o parceiro compra uma nova assinatura de uma licença por US$ 30 por mês. Em 5 de junho, o parceiro suspende a assinatura. O arquivo de reconciliação de 15 de junho conterá as seguintes linhas de cobrança:
 
-### <a name="scenario-change-license-quantity"></a>Cenário: alterar a quantidade de licenças 
+- Cobrança de US$ 30 pelo período de serviço de 1º de junho - 30 de junho
+- Crédito de cancelamento de -US$ 30 pelo período de serviço de 5 de junho - 30 de junho. O crédito não é proporcional porque a assinatura foi suspensa nos primeiros 30 dias.
 
-A data de cobrança do parceiro é no dia 15. Em 1º de junho, o parceiro compra uma nova assinatura por US$ 30 por mês. Em 10 de junho, o parceiro aumenta a quantidade de licenças de uma para duas licenças. O arquivo de reconciliação de 15 de junho conterá o seguinte:
+|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |**Tipo de cobrança** |
+|-----------------|:-------------|:----------------|:------------|:------|---------|
+|01/06/2018   |30/06/2018   |US$ 30   |1   |US$ 30   |Taxas proporcionais durante a compra
+|05/06/2018   |30/06/2018   |-US$ 30   |1   |-US$ 30   |Taxa de cancelamento
 
-- Cobrança de US$ 30 pelo primeiro mês (1º de junho – 30 de junho) Mesmo que o parceiro tenha aumentado a quantidade de licenças antes da data de cobrança de 15 de junho, a cobrança não será reconhecida no sistema de cobrança da Microsoft até o dia de aniversário da assinatura, em 1º de julho.
+Em 10 de julho, o parceiro reativa a assinatura. O arquivo de reconciliação de 15 de julho conterá as seguintes linhas de cobrança:
 
-|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|01/06/2018   |30/06/2018   |US$ 30   |1   |US$ 30   |
+- Cobrança de reativação de US$ 21,30 pelo período de serviço de 10 de julho - 31 de julho. Reativações após 30 dias da data da compra resultam em uma cobrança proporcional. 
 
-Em 1º de julho, o dia do aniversário da assinatura, o sistema de cobrança da Microsoft reconhecerá que a quantidade de licenças foi alterada de uma para duas em 10 de junho. O sistema de cobrança irá gerar um crédito e cobranças proporcionais pelo primeiro mês e uma cobrança pelo segundo mês. O arquivo de reconciliação de 15 de julho conterá o seguinte:
+|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |**Tipo de cobrança** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|10/07/2018   |31/07/2018   |US$ 21,30   |1   |US$ 21,30   |Taxa de ativação |
 
-- Crédito de -US$ 30 pelo primeiro mês.
-- Cobrança proporcional de US$ 9 pelo primeiro mês (1º de junho – 9 de junho) por uma licença.
-- Cobrança proporcional de US$ 42 pelo primeiro mês (10 de junho – 30 de junho) por duas licenças.
-- Cobrança de US$ 60 pelo segundo mês (1º de julho – 31 de julho) por 2 licenças.
+O arquivo de reconciliação de 15 de agosto conterá as seguintes linhas de cobrança:
+- Cobrança de US$ 30 pelo período de serviço de 1º de agosto – 31 de agosto.
 
-|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|01/06/2018   |30/06/2018   |-US$ 30   |1   |-US$ 30|
-|01/06/2018   |09/06/2018   |US$ 9   |1   |US$ 9|
-|10/06/2018   |30/06/2018   |US$ 21   |2   |US$ 42|
-|01/07/2018   |31/07/2018   |US$ 30   |2   |US$ 60   |
+|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |**Tipo de cobrança** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|01/08/2018   |31/08/2018   |US$ 30   |1   |US$ 30   |Taxa do ciclo |
 
-### <a name="scenario-add-on-subscriptions"></a>Cenário: assinaturas de complementos
+Observe que, quando uma assinatura é suspensa e reativada, a data de renovação automática permanecerá sendo 12 meses da data da compra original. 
 
-A data de cobrança do parceiro é no dia 15. Em 1º de junho, o parceiro compra uma nova assinatura por US$ 30 por mês. Em 10 de junho, o parceiro compra uma nova assinatura de complemento por US$ 5 por mês. A data de renovação da assinatura do complemento será alinhada à data de renovação da assinatura base, que é 1º de junho. 
+### <a name="scenario-7-subscription-suspension-and-reactivation-more-than-30-days-after-purchase"></a>Cenário 7: Suspensão e reativação da assinatura com mais de 30 dias após a compra 
+A data de cobrança do parceiro é no dia 15 do mês. Em 1º de junho, o parceiro compra uma nova assinatura de uma licença por US$ 30 por mês. 
 
-O arquivo de reconciliação de 15 de junho conterá o seguinte:
+O arquivo de reconciliação de 15 de junho conterá somente as seguintes linhas de cobrança:
 
-- Cobrança de US$ 30 pelo primeiro mês (1º de junho – 30 de junho) Isso é para a assinatura base.
-- Cobrança proporcional de US$ 3,50 pelo primeiro mês (10 de junho – 30 de junho) para a assinatura do complemento. A data de início da cobrança é 10 de junho, que é quando a assinatura do complemento foi comprada, e o valor é proporcional.
+- Cobrança de US$ 30 pelo período de serviço de 1º de junho – 30 de junho.
 
-|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|01/06/2018   |30/06/2018   |US$ 30   |1   |US$ 30   |
-|10/06/2018   |30/06/2018   |$3,50   |1   |$3,50   |
+|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |**Tipo de cobrança** |
+|-----------------|:-------------|:----------------|:------------|:------|---------|
+|01/06/2018   |30/06/2018   |US$ 30   |1   |US$ 30   |Taxas proporcionais durante a compra |
+
+O parceiro suspende a assinatura em 5 de julho, mas a reativa em 15 de julho. O arquivo de reconciliação de 15 de julho conterá as seguintes linhas de cobrança:
+
+- Cobrança de US$ 30 pelo período de serviço de 1º de julho - 31 de julho.
+- Crédito de cancelamento de -US$ 26,14 pelo período de serviço de 5 de julho – 31 de julho. Cancelamentos após 30 dias da data da compra resultam em um crédito proporcional. Cálculo = (preço mensal/dias no período de serviço total) x dias no período de serviço proporcional x quantidade de licenças x (-1) = (30/31) x 27 x 1 x (-1) = -26,14.
+- Cobrança de reativação de US$ 21,30 pelo período de serviço de 10 de julho - 31 de julho. Reativações após 30 dias da data da compra resultam em uma cobrança proporcional. Cálculo = (30/31) x 22 x 1 = 21,30.
+
+|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |**Tipo de cobrança** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|01/07/2018   |31/07/2018   |US$ 30  |1   |US$ 30   |Taxa do ciclo |
+|05/07/2018   |31/07/2018   |   -US$ 26,14   |1   |-US$ 26,14|Taxa de cancelamento |
+|10/07/2018   |31/07/2018   |-US$ 21,30   |1   |US$ 21,30|Taxa de ativação |
+
+O arquivo de reconciliação de 15 de agosto conterá o seguinte:
+- Cobrança de US$ 30 pelo período de serviço de 1º de agosto – 31 de agosto.
+
+|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |**Tipo de cobrança** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|01/08/2018   |31/08/2018   |US$ 30  |1   |US$ 30   |Taxa do ciclo |
+
+### <a name="scenario-8-change-of-license-quantity"></a>Cenário 8: Alteração na quantidade de licenças 
+
+A data de cobrança do parceiro é no dia 15. Em 1º de junho, o parceiro compra uma nova assinatura por US$ 30 por mês. Em 10 de junho, o parceiro aumenta a quantidade de licenças de uma para duas licenças. O arquivo de reconciliação de 15 de junho conterá as seguintes linhas de cobrança:
+
+- Cobrança de US$ 30 pelo período de serviço de 1º de junho – 30 de junho. Mesmo que o parceiro tenha aumentado a quantidade de licenças antes da data de cobrança de 15 de junho, o sistema de cobrança da Microsoft não reconhece a alteração até o dia de aniversário da assinatura, em 1º de julho.
+
+|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |**Tipo de cobrança** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|01/06/2018   |30/06/2018   |US$ 30   |1   |US$ 30   |Taxas proporcionais durante a compra |
+
+Em 1º de julho, o dia do aniversário da assinatura, o sistema de cobrança da Microsoft reconhecerá que a quantidade de licenças foi alterada de uma para duas em 10 de junho. O sistema de cobrança gerará um crédito e novas cobranças proporcionais para o período de serviço de 1º de junho - 9 de junho e 10 de junho - 30 de junho. 
 
 O arquivo de reconciliação de 15 de julho conterá o seguinte:
 
-- Cobrança de US$ 30 pelo segundo mês (1º de julho – 31 de julho) Isso é para a assinatura base.
-- Cobrança de US$ 5 pelo segundo mês (1º de julho – 31 de julho) Isso é para a assinatura do complemento.
+- Crédito de -US$ 30 pelo período de serviço de 1º de junho - 30 de junho.
+- Nova cobrança proporcional de US$ 9 pelo período de serviço de 1º de junho – 9 de junho. Nesse período o cliente tinha 1 licença. Cálculo = (preço mensal/total de dias no período de serviço) x dias no período de serviço proporcional x número de licenças = (30/30) x 9 x 1 = 9.
+- Nova cobrança proporcional de US$ 42 pelo período de serviço de 10 de junho - 30 de junho. Nesse período o cliente tinha 2 licenças. Cálculo = (30/30) x 21 x 2 = 42.
+- Cobrança de US$ 60 pelo período de serviço de 1º de julho – 31 de julho.
 
-|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|01/07/2018   |31/07/2018   |US$ 30   |1   |US$ 30   |
-|01/07/2018   |31/07/2018   |US$ 5   |1   |US$ 5   |
+|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |**Tipo de cobrança** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|01/06/2018   |30/06/2018   |-US$ 30   |1   |-US$ 30|Proporcional à instância do ciclo |
+|01/06/2018   |09/06/2018   |US$ 9   |1   |US$ 9|Proporcional à instância do ciclo |
+|10/06/2018   |30/06/2018   |US$ 21   |2   |US$ 42|Proporcional à instância do ciclo |
+|01/07/2018   |31/07/2018   |US$ 30   |2   |US$ 60   |Taxa do ciclo |
 
-### <a name="scenario-new-purchase-on-the-29th-30th-or-31st"></a>Cenário: nova compra nos dias 29, 30 ou 31 
+### <a name="scenario-9-add-on-subscriptions"></a>Cenário 9: Assinaturas de complementos
 
-A data de cobrança do parceiro é no décimo-quinto dia do mês. No dia 29 de maio, o parceiro compra uma nova assinatura (1 licença a $30/mês) com frequência de cobrança mensal. A data de aniversário das assinaturas adquiridas nos dias 29, 30 e 31 usará o dia 1º como padrão. Nesse cenário, a assinatura receberá um período gratuito, do dia 29 de maio até o dia 31 de maio, e a linha de cobrança aparecerá no dia 1º de junho mostrando a cobrança adiantada de um mês.
+A data de cobrança do parceiro é no dia 15 do mês. Em 1º de junho, o parceiro compra uma nova assinatura de uma licença por US$ 30 por mês. Em 10 de junho, o parceiro compra uma nova assinatura de complemento por US$ 5 por mês. A data de renovação da assinatura de complemento será alinhada à data de renovação da assinatura base, que é 1º de junho. 
 
-O arquivo de reconciliação de 15 de junho conterá o seguinte:
+Em 10 de junho, o parceiro compra uma assinatura de complemento de uma licença por US$ 5 por mês. 
 
-- Cobrança de US$ 30 pelo primeiro mês (1º de junho - 30 de junho)
+O arquivo de reconciliação de 15 de junho conterá as seguintes linhas de cobrança:
 
-|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|01/06/2018   | 30/06/2018   |US$ 30   |1   |US$ 30  |
+- Cobrança de US$ 30 pelo período de serviço de 1º de junho – 30 de junho. Isso é para a assinatura base.
+- Cobrança proporcional de US$ 3,50 pelo período de serviço de 10 de junho – 30 de junho. Isso é para a assinatura de complemento. 
+
+|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |**Tipo de cobrança** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|01/06/2018   |30/06/2018   |US$ 30   |1   |US$ 30   |Taxas proporcionais durante a compra |
+|10/06/2018   |30/06/2018   |$3,50   |1   |US$ 3,50   |Taxas proporcionais durante a compra |
+
+O arquivo de reconciliação de 15 de julho conterá as seguintes linhas de cobrança:
+
+- Cobrança de US$ 30 pelo período de serviço de 1º de julho – 31 de julho. Isso é para a assinatura base.
+- Cobrança de US$ 5 pelo período de serviço de 1º de julho – 31 de julho. Isso é para a assinatura de complemento.
+
+|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |**Tipo de cobrança** |
+|-----------------|:-------------|:----------------|:------------|:------|-------|
+|01/07/2018   |31/07/2018   |US$ 30   |1   |US$ 30   |Taxa do ciclo |
+|01/07/2018   |31/07/2018   |US$ 5   |1   |US$ 5   |Taxa do ciclo |
+
+Observe que a data de renovação automática da assinatura de complemento será 1º de junho de 2019, que se alinha à assinatura base.
+
+### <a name="scenario-10-new-purchase-on-the-29th-30th-or-31st"></a>Cenário 10: Nova compra nos dias 29, 30 ou 31 
+
+A data de cobrança do parceiro é no dia 15 do mês. Em 29 de maio, o parceiro compra uma nova assinatura de uma licença por US$ 30 por mês. As assinaturas compradas nos dias 29, 30 ou 31 terão um período gratuito da data da compra até o dia 1º do mês seguinte. O aniversário da assinatura padrão será no dia 1º. Nesse cenário, a assinatura receberá um período gratuito de 29 de maio até 31 de maio, e o período pago de 12 meses começará em 1º de junho. 
+
+O arquivo de reconciliação de 15 de junho conterá as seguintes linhas de cobrança:
+
+- Cobrança de US$ 30 pelo período de serviço de 1º de junho - 30 de junho.
+
+|**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |**Tipo de cobrança** |
+|-----------------|:-------------|:----------------|:------------|:------|------|
+|01/06/2018   | 30/06/2018   |US$ 30   |1   |US$ 30  |Taxas proporcionais durante a compra |
+
+Observe que a assinatura será renovada automaticamente em 1º de junho de 2019.
