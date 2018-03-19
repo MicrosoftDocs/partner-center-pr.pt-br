@@ -10,7 +10,7 @@ ms.lasthandoff: 08/24/2017
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Use promoções para atrair novos clientes  
 
-**Applies to: Partner Center**
+**Aplicável ao: Partner Center**
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
@@ -32,18 +32,18 @@ Reserve um momento para examinar esses fatos importantes sobre as promoções:
 
 Você pode ver para quais promoções você se qualifica, se houver, na página **Promoções**. Selecione **Promoções** no menu do seu **Painel** para ver uma lista de promoções atuais juntamente com o desconto, tipo de promoção e datas de início e término da assinatura. Se nenhuma promoção estiver disponível, você verá uma mensagem indicando isso. 
 
->**Note**<br>
-You can also see promotions when making a purchase. Quando você seleciona uma assinatura, a porcentagem do desconto aparece na página **Revisão**.
+>**Observação**<br>
+Você também pode ver promoções ao realizar uma compra. Quando você seleciona uma assinatura, a porcentagem do desconto aparece na página **Revisão**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Adquirir assinaturas com desconto
 
-1. On your **Dashboard** menu, select **Customers** and then select the customer who’s buying the subscription. 
+1. No menu do **Painel**, selecione **Clientes** e, em seguida, selecione o cliente que está comprando a assinatura. 
 
-2. Select **Add subscription**.
+2. Selecione **Adicionar assinatura**.
 
 3. Na página **Nova assinatura**, selecione a assinatura à qual a promoção se aplica.
 
-4. Enter the number of licenses the customer needs. 
+4. Insira o número de licenças de que o cliente precisa. 
 
 5. Revise o pedido. Você verá os preços da promoção que será aplicado na coluna **Desconto**.  
 

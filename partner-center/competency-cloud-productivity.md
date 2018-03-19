@@ -1,64 +1,64 @@
 ---
-title: Cloud Productivity Competency
-description: The Cloud Productivity competency is for partners who specialize in enterprise deployments of Office 365. Differentiate your company with this competency as a proven cloud solution provider for customers searching for qualified cloud solution partners.
+title: "Competência Produtividade na Nuvem"
+description: "A competência Produtividade na Nuvem é para parceiros especializados em implantações corporativas do Office 365. Diferencie sua empresa com esta competência como um provedor de soluções na nuvem comprovado para clientes em busca de parceiros de soluções na nuvem qualificados."
 author: Daniel Simpson
-keywords: competency, competencies, Cloud Productivity
+keywords: "competência, competências, Produtividade na Nuvem"
 ms.openlocfilehash: b9616b455fae524af82ce0880b99bcdde5816fa7
 ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 07/07/2017
 ---
-# <a name="cloud-productivity-competency"></a>Cloud Productivity competency
+# <a name="cloud-productivity-competency"></a>Competência Produtividade na Nuvem
 
-The Cloud Productivity competency is for partners who specialize in enterprise deployments of Office 365. Differentiate your company with this competency as a proven cloud solution provider for customers searching for qualified cloud solution partners.
+A competência Produtividade na Nuvem é para parceiros especializados em implantações corporativas do Office 365. Diferencie sua empresa com esta competência como um provedor de soluções na nuvem comprovado para clientes em busca de parceiros de soluções na nuvem qualificados.
 
-## <a name="managed-service-partner-option"></a>Managed Service Partner option
-The Managed Service Partner option is ideal for partners who manage Office 365 environments for their customer as well as provide deployment services. Complete all the steps within the option to attain the Cloud Productivity competency.
+## <a name="managed-service-partner-option"></a>Opção Parceiro de Serviços Gerenciados
+A opção Parceiro de Serviços Gerenciados é ideal para parceiros que gerenciam ambientes do Office 365 para seus clientes e fornecem serviços de implantação. Conclua todas as etapas da opção para obter a competência Produtividade na Nuvem.
 ### <a name="silver"></a>Silver
-1.  Your organization must meet the performance thresholds:
+1.  Sua organização deve atender aos limites de desempenho:
     - **Mercados desenvolvidos** 
         - Os parceiros devem ter implantado 2.000 direitos ativos (usuários ativos)
     - **Mercados em desenvolvimento**
         -  Os parceiros devem ter implantado 1.000 direitos ativos (usuários ativos)
     
-    - As implantações podem ser qualquer carga de trabalho do Microsoft Office 365 (Exchange Online, SharePoint Online, Skype for Business ou Yammer) ou ProPlus. Trial SKUs are not included.     
+    - As implantações podem ser qualquer carga de trabalho do Microsoft Office 365 (Exchange Online, SharePoint Online, Skype for Business ou Yammer) ou ProPlus. SKUs avaliação não incluídas.     
     - Observação: os direitos ativos medem a contagem de usuários ativos em uma carga de trabalho específica 
     - Para esses clientes, você precisa estar associado como administrador delegado, parceiro de transações, parceiro digital de registro ou parceiro Fast Track do Office 365.
     - [Saiba mais](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) sobre essas associações.
 
-2. Your organization must have **1** individual pass the exam requirements.
+2. Sua organização deve ter **1** pessoa aprovada nos requisitos do exame.
 
-    - **1** individual must pass all the following exams:
+    - **1** pessoa deve passar em todos os exames listados a seguir:
 
-        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
-        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
+        - [Exame 70 346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Gerenciamento de identidades e requisitos do Office 365  
+        - [Exame 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Habilitando serviços do Office 365
     
-    **OR**
+    **OU**
 
-    - **1** individual must obtain the following certification:  
+    - **1** pessoa deve obter a certificação a seguir:  
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-office365-certification.aspx): Office 365
 
 ### <a name="gold"></a>Gold
 
-1.  Your organization must meet the performance thresholds. 
+1.  Sua organização deve atender aos limites de desempenho. 
 
-    - Partners must have deployed 4,000 active entitlements (active users).
-    - The deployments can be any Microsoft Office 365 workload (Exchange Online, SharePoint Online, Skype for Business, or Yammer) or ProPlus. Trial SKUs are not included.
+    - Os parceiros devem ter implantado 4.000 direitos ativos (usuários ativos).
+    - As implantações podem ser qualquer carga de trabalho do Microsoft Office 365 (Exchange Online, SharePoint Online, Skype for Business ou Yammer) ou ProPlus. SKUs avaliação não incluídas.
     - Observação: os direitos ativos medem a contagem de usuários ativos em uma carga de trabalho específica
     - Para esses clientes, você precisa estar associado como administrador delegado, parceiro de transações, parceiro digital de registro ou parceiro Fast Track do Office 365.
     - [Saiba mais](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) sobre essas associações.
 
-2.  Your organization must have **2** individuals pass the exam requirements.
+2.  Sua organização deve ter **2** pessoas aprovadas nos requisitos do exame.
 
-    - **2** individuals must pass all the following exams:
+    - As **2** pessoas devem passar em todos os exames listados a seguir:
 
-        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
-        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
+        - [Exame 70 346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Gerenciamento de identidades e requisitos do Office 365  
+        - [Exame 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Habilitando serviços do Office 365
         
-    **OR**
+    **OU**
     
-    - **2** individuals must obtain the following certification:
+    - **2** pessoas devem obter a certificação a seguir:
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-office365-certification.aspx): Office 365
 
 

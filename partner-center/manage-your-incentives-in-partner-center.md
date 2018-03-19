@@ -10,43 +10,43 @@ ms.lasthandoff: 07/07/2017
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>Gerencie seu incentivos no Partner Center 
 
-**Applies to**
+**Aplicável ao**
 
 -  Partner Center
 
-## <a name="partner-incentives"></a>Partner Incentives 
+## <a name="partner-incentives"></a>Incentivos para parceiros 
 
-Whether you are doing business in the cloud, on-premises, or somewhere in between, Partner Incentives support your profitability and growth.
+Você pode estar fazendo negócios na nuvem, no local ou em algum outro lugar, seja como for, os incentivos para parceiros oferecem suporte para seus lucros e crescimento.
 
-## <a name="qualify-for-the-partner-incentives-program"></a>Qualify for the Partner Incentives program
+## <a name="qualify-for-the-partner-incentives-program"></a>Qualificar-se para o programa de incentivos para parceiros
 
-You're eligible for the CSP Incentives Program when you meet the following criteria:
+Você estará qualificado para o programa de incentivos do CSP quando atender aos critérios a seguir:
 
--   Have an active Microsoft Partner Network (MPN) agreement 
--   A valid Cloud Distributor agreement (indirect providers only)
--   A Reseller agreement (direct sellers only)
--   Meet the competency requirement
+-   Tiver um contrato ativo do Microsoft Partner Network (MPN) 
+-   Um contrato de Cloud Distributor válido (somente para provedores indiretos)
+-   Um contrato de revendedor (somente para vendedores diretos)
+-   Atender à exigência de competência
 
-As soon as you become eligible, you will be invited to join the program.
+Assim que você se tornar qualificado, será convidado a participar do programa.
 
-## <a name="one-site-one-sign-in"></a>One site, one sign in
+## <a name="one-site-one-sign-in"></a>Um site, uma conexão
 
-Now that Partner incentives management is available in Partner Center, you can sign up for incentives, access your tax and payment profiles, access your earnings and payment statements, and manage users – all here in Partner Center. 
+Agora que o gerenciamento de incentivos para parceiros está disponível no Partner Center, você pode se inscrever para receber incentivos, acessar seus perfis fiscais e de pagamento, acessar seus lucros e demonstrativos de pagamento e gerenciar usuários – tudo aqui no Partner Center. 
 
-Beginning with already enrolled Partners, we are enabling partners to manage incentives in Partner Center in phases starting in July. Look out for an email from us letting you know that it is time to set up your organization for incentives in Partner Center. 
+Começando com parceiros já registrados, estamos permitindo que os parceiros gerenciem incentivos no Partner Center em fases a partir de julho. Aguarde um email nosso avisando que é hora de configurar a sua organização para receber incentivos no Partner Center. 
 
-Admins, if you have received the email, follow these three easy steps today:
+Administradores, se vocês receberam o email, sigam estas três etapas fáceis hoje:
 
 1.  Entre no Partner Center 
 2.  Seguindo as instruções no email, configure seus usuários de incentivos 
 3.  Conceda credenciais de entrada no Partner Center para os seus novos usuários de incentivos
 
-When the Incentive Admin has received credentials, they can complete the migration of your organization which will enable your organization to manage your incentives here – in Partner center.
+Quando o administrador de incentivos receber as credenciais, ele poderá concluir a migração da sua organização, o que permitirá que ela gerencie seus incentivos aqui – no Partner center.
 
 
-[Create user accounts and assign permissions](create-user-accounts-and-set-permissions.md)
+[Criar contas de usuário e atribuir permissões](create-user-accounts-and-set-permissions.md)
 
-[Reset a user password](reset-a-user-password.md)
+[Redefinir a senha do usuário](reset-a-user-password.md)
 
-[Understand your Incentive payouts](understand-incentive-payouts.md)
+[Entenda seus pagamentos de incentivos](understand-incentive-payouts.md)
 

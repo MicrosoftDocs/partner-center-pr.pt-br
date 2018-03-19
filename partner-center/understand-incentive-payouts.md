@@ -1,5 +1,5 @@
 ---
-title: Understand your incentive payouts | Partner Center
+title: Entenda seus pagamentos de incentivos | Partner Center
 description: Veja os lucros e pagamentos de cada um dos programas de incentivo.
 author: labrenne
 ms.openlocfilehash: 2169f0b57f29b04cda61914a4b3dde1f6b52f43a
@@ -10,13 +10,13 @@ ms.lasthandoff: 07/10/2017
 ---
 #<a name="understand-your-incentive-payouts"></a>Entenda seus pagamentos de incentivos
 
-**Applies to**
+**Aplicável ao**
 
 -  Partner Center
 
 Os usuários e administradores de incentivos obtém uma visão geral dos ganhos e pagamentos que receberam ou estão prestes a receber de seus programas de incentivo.   
 
-##<a name="summary-information-on-earnings-and-payout"></a>Summary information on earnings and payout
+##<a name="summary-information-on-earnings-and-payout"></a>Informações resumidas sobre lucros e pagamentos
 
 Parceiros CSP que são usuários e administradores de incentivos podem ver sua posição financeira nos programas de incentivos de que estão participando em **Resumo de pagamento**. Você pode ver detalhadamente cada área das informações resumidas conforme necessário. 
 
@@ -49,7 +49,7 @@ A tabela de ganhos e pagamentos de produto/programa mostra uma divisão de quant
 
 ## <a name="analyze-incentives-earnings"></a>Analise os lucros de incentivos
 
-Descubra onde sua organização pode ganhar mais por meio dos programas de incentivos e onde você já foi pago. This data makes it clear where you have earned but have not yet been paid.  Understand which programs and activities have been most successful as well as find out which of your locations is earning. By program you can see what the total earnings potential is, the time during which you can participate in the program and when it expires. Cada programa e tipo de lucro terá requisitos e datas de início e fim diferentes. 
+Descubra onde sua organização pode ganhar mais por meio dos programas de incentivos e onde você já foi pago. Esses dados mostram onde você ganhou, mas ainda não foi pago.  Entenda quais programas e atividades foram mais bem-sucedidos e descubra quais dos seus locais estão lucrando. Por programa, você pode ver qual é o potencial de lucros total, o tempo durante o qual você pode participar do programa e quando ele expira. Cada programa e tipo de lucro terá requisitos e datas de início e fim diferentes. 
 
 ## <a name="earning-trends"></a>Tendências de lucros 
 
@@ -96,28 +96,28 @@ As tabelas a seguir descrevem os campos que aparecem nos arquivo .csv de demonst
 
 ## <a name="downloading-earnings-transactions"></a>Baixar transações de lucros 
 
-|**Campo**        |**Definition**     |
+|**Campo**        |**Definição**     |
 |--------------------|:-------------------------------------------------|                                                 
 |IDdeLucro      |Identificador exclusivo criado para cada item de linha de lucro |               
 |Nome do parceiro   | Nome registrado do parceiro no Partner Center                    |
-|MPN/PCN        |MPN ID (Partner's Microsoft Partner Network ID)/ Public Customer Number|
-|Location       | País/região da ID V-Org MPN do parceiro|
+|MPN/PCN        |ID do MPN (ID do parceiro no Microsoft Partner Network)/ Número Público do Cliente|
+|Localização       | País/região da ID V-Org MPN do parceiro|
 |Nome do programa   |Nome do programa de incentivo |
 |Nome do cliente  |   Nome do cliente que comprou a assinatura |
 |Localização do cliente  | País em que o cliente está localizado  |
 |Número do contrato mestre    |Nome do contrato |
-|InvoiceNumber| Número da fatura|
+|NúmerodaFatura| Número da fatura|
 |Número do contrato   |Número do contrato de licença |
 |ID da assinatura    |ID da assinatura |
 |Data de início do contrato   |Data de início do contrato de licença |
 |Data de término do contrato |Data de término do contrato de licença, incluindo renovações e extensões |
 |Data de início da assinatura    |Data de início de uma assinatura|
 |Data de término da assinatura  |Data de término de uma assinatura|
-|Product SKU    |Número SKU de um produto|
+|SKU do produto    |Número SKU de um produto|
 |Nome do produto   |Nome do produto Microsoft|
 |Data da transação   |A data e a hora em que a transação ocorreu (UTC).|
 |Contagem de licenças  |Número de licenças vendidas |
-|Quantity   |Número de unidades vendidas| 
+|Quantidade   |Número de unidades vendidas| 
 |Quantidade anterior |Quantidade de unidades do último período de rendimento |
 |Preço unitário |Preço por unidade vendida| 
 |Valor da transação |A taxa de cálculo é multiplicada com esse valor para calcular os lucros de incentivo|
@@ -128,7 +128,7 @@ As tabelas a seguir descrevem os campos que aparecem nos arquivo .csv de demonst
 |Período de lucro     |Período de lucro baseado no programa |
 |Início do período de lucro   |Início de um período de lucro para um programa (UTC) |
 |Fim do período de lucro |Fim de um período de lucro para um programa (UTC)|
-|Calculation Date   |Quando o lucro é calculado (UTC)|
+|Data de cálculo   |Quando o lucro é calculado (UTC)|
 |Moeda do lucro   |Moeda do valor de lucro |
 |Taxa de câmbio do lucro|Taxa de câmbio usada para converter a moeda da transação em moeda do pagamento.|
 |Moeda de relatório|Moeda usada para relatórios|
@@ -136,7 +136,7 @@ As tabelas a seguir descrevem os campos que aparecem nos arquivo .csv de demonst
 |Taxa de câmbio do relatório|Taxa de câmbio usada para converter a moeda do lucro em moeda do relatório.|
 |Valor do lucro de reembolso  |Valor considerado reembolso (USD) |
 |Valor do lucro coop    |Valor considerado coop. (USD) |
-|ExchangeRateDate   |Data da taxa de câmbio |
+|DatadaTaxadeCâmbio   |Data da taxa de câmbio |
 |ID de pagamento |Um número interno usado para reconciliar incentivos acumulados com pagamentos |
 |StatusdoPagamento  |Mostra se os lucros foram pagos ou se o pagamento ainda está pendente|
 
@@ -145,8 +145,8 @@ As tabelas a seguir descrevem os campos que aparecem nos arquivo .csv de demonst
 |**Nome da coluna**   |**Descrição**   |
 |-------------------|:--------------------|
 |Nome do parceiro|Nome registrado do parceiro no Partner Center|
-|MPN/PCN        |MPN ID (Partner's Microsoft Partner Network ID)/ Public Customer Number|
-|Location       | Country/Region of Partner's MPN V-Org ID|
+|MPN/PCN        |ID do MPN (ID do parceiro no Microsoft Partner Network)/ Número Público do Cliente|
+|Localização       | País/região da ID V-Org MPN do parceiro|
 |Nome do programa   |Nome do programa de incentivo |
 |Tipo de lucro   |Tipo de lucro (reembolso, ajuste) |
 |Moeda do valor de pagamento|   O tipo de moeda usada para pagamento|

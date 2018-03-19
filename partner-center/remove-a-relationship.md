@@ -1,6 +1,6 @@
 ---
 title: "Remova uma relação com um revendedor ou um cliente | Partner Center"
-description: Removing a relationship removes any closed business relationships from your view in Partner Center.
+description: "Remover uma relação remove qualquer relação comercial fechada do modo de exibição no Partner Center."
 author: KPacquer
 ms.openlocfilehash: e178318e50b6a2b3bb7a6d7ecf7ec83f6d93b7c3
 ms.sourcegitcommit: 955622c85ff0905647974fc598139579191b55da
@@ -10,7 +10,7 @@ ms.lasthandoff: 07/19/2017
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>Remover uma relação de revendedor ou um cliente
 
-**Applies to**
+**Aplicável ao**
 
 -   Partner Center
 
@@ -24,12 +24,12 @@ Este recurso:
 
 Para remover a relação, você precisará primeiro suspender todas as assinaturas ativas restantes:
 
-1.  Suspenda todas as assinaturas ativas. From the Dashboard, go to **Customers** > select a customer > **Subscriptions** > select a subscription > **Suspended**. 
+1.  Suspenda todas as assinaturas ativas. No painel, vá para **Clientes** > selecione um cliente > **Assinaturas** > selecione uma assinatura > **Suspensa**. 
 
-   Repeat this for each active subscription.
+   Repita esse procedimento para cada assinatura ativa.
 
-2.  Remove the relationship in Partner Center: From the Dashboard, go to **Customers** > select a customer > **Account** > **Remove reseller relationship**.
+2.  Remover a relação no Partner Center: no painel, vá para **Clientes** > selecione um cliente > **Conta** > **Remover a relação de revendedor**.
 
-    Note, if any subscriptions are still active, the **Remove reseller relationship** link will be inactive. 
+    Observe, se todas as assinaturas ainda estão ativas, o link **Remover a relação de revendedor** ficará inativo. 
 
-To re-establish the relationship, repeat the process of [requesting a relationship](request-a-relationship-with-a-customer.md).
+Para restabelecer o relacionamento, repita o processo de [solicitçaão de relação](request-a-relationship-with-a-customer.md).
