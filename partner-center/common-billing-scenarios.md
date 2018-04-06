@@ -1,14 +1,14 @@
 ---
-title: "Cenários comuns de cobrança | Partner Center"
-description: "Este tópico explica o que você deve esperar ver em sua fatura depois de adicionar novas assinaturas, ajustar o número de licenças em uma assinatura ou cancelar uma assinatura. As assinaturas baseadas em uso e em licença serão afetadas de forma diferente."
+title: Cenários comuns de cobrança | Partner Center
+description: Este tópico explica o que você deve esperar ver em sua fatura depois de adicionar novas assinaturas, ajustar o número de licenças em uma assinatura ou cancelar uma assinatura. As assinaturas baseadas em uso e em licença serão afetadas de forma diferente.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
-Keywords: billing, payments, orders, usage, license-based billing, anniversary date, free period, term, cancellation, renewal, price formula,reconciliation file, recon file
-ms.openlocfilehash: 0bfdf6e5f5a9617413981f0a0758f25e0a0eca54
-ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
+Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
+ms.openlocfilehash: 92c253bb7d73a48eb9b6acc36f54d7f33482c1ad
+ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/09/2018
+ms.lasthandoff: 02/28/2018
 ---
 # <a name="common-billing-scenarios"></a>Cenários comuns de cobrança
 
@@ -43,8 +43,6 @@ Você é cobrado somente pelos serviços usados no período de cobrança anterio
 
 **Dia de Aniversário:** assinaturas com cobrança mensal são alinhadas com a data de cobrança do parceiro e assinaturas com cobrança anual são alinhadas com a data da compra.
 
-**Período Gratuito:** assinaturas com cobrança mensal recebem um período gratuito a partir da data de compra para a próxima data de cobrança do parceiro.
-
 **Período:** todas as assinaturas baseadas em licença têm um período pago de 12 meses. O período pago começa na data da compra para assinaturas de cobranças anuais e na data de cobrança após a data da compra para assinaturas de cobranças mensais.
 
 **Cancelamento:** as assinaturas canceladas nos primeiros 30 dias do período pago serão creditadas 100%. Assinaturas canceladas após 30 dias serão creditadas proporcionalmente.
@@ -56,7 +54,7 @@ Você é cobrado somente pelos serviços usados no período de cobrança anterio
 **Cenário 1: Nova assinatura**
 
 Sua data de cobrança é no 15º dia de cada mês. Em 13 de janeiro, você compra uma nova assinatura com uma licença por US$4/mês e seleciona a cobrança mensal. Em 15 de janeiro, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
-|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Valor |
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço unitário |Quantidade |Valor |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/01/2018         | 14/01/2018   |Valor da Compra   |0,00       |1       |0,00    
 |15/01/2018         |14/02/2018    |Taxa do ciclo   |4,00       |1        |4,00    
@@ -111,7 +109,7 @@ Em 1º de fevereiro, você suspende a assinatura. Em 15 de fevereiro, o arquivo 
 **Cenário 4: Suspender depois de 30 dias**
 
 Sua data de cobrança é no 15º dia de cada mês. Em 13 de janeiro, você compra uma nova assinatura com uma licença por US$4/mês e seleciona a cobrança mensal. Em 15 de janeiro, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
-|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Valor |
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço unitário |Quantidade |Valor |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/01/2018|14/01/2018|Valor da Compra|0,00|1|0,00
 15/01/2018|14/02/2018|Taxa do ciclo|4,00|1|4,00

@@ -1,13 +1,13 @@
 ---
-title: "Perguntas Frequentes sobre os novos recursos de cobrança | Partner Center"
+title: Perguntas Frequentes sobre os novos recursos de cobrança | Partner Center
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
-ms.assetid: 
+ms.assetid: ''
 author: MaggiePucciEvans
-ms.openlocfilehash: cd6e267dd691529998cf43e7a21a3abac066e2d7
-ms.sourcegitcommit: 6eec754e269e8744d4e09df64a690d0c74525dbb
+ms.openlocfilehash: 31c6625226fa24d56861739865c5988c9da260d0
+ms.sourcegitcommit: 770e46901be73dd18f0a95f1f813cbb102b4fd2e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/14/2018
+ms.lasthandoff: 03/15/2018
 ---
 # <a name="faq-about-new-billing-features"></a>Perguntas Frequentes sobre os novos recursos de cobrança
 
@@ -87,9 +87,9 @@ Seções:
 
 -   **R:** Para aproveitar a cobrança anual, há algumas mudanças necessárias para suas APIs. Você pode encontrar informações mais detalhadas nos seguintes artigos:
 
-    - https://partnercenter.microsoft.com/pt-br/partner/developer
+    - https://partnercenter.microsoft.com/en-us/partner/developer
 
-    - https://msdn.microsoft.com/pt-br/library/partnercenter/microsoft.store.partnercenter.models.orders.order.billingcycle.aspx 
+    - https://msdn.microsoft.com/en-us/library/partnercenter/microsoft.store.partnercenter.models.orders.order.billingcycle.aspx 
 
     - Código de exemplo: https://msdn.microsoft.com/en-us/library/partnercenter/mt634667.aspx 
 
@@ -103,9 +103,9 @@ Seções:
 
 -   **R:** Ao adicionar uma nova assinatura, você deverá escolher a frequência de cobrança. Você pode escolher a opção de cobrança anual nesse ponto. Assim que a cobrança anual for selecionada, todas as ofertas disponíveis serão exibidas.
 
-**P:** Se eu escolher a cobrança anual, quando serei faturado?    
+**P:** Se eu escolher a cobrança anual, quando serei cobrado?    
 
--   **R:** Você será cobrado na seguinte data de cobrança. Por exemplo, se a sua data de cobrança for 1º de fevereiro, você sempre será cobrado em 1º de fevereiro. Portanto, se você comprar uma assinatura com cobrança anual em 29 de outubro de 2017 ou em 15 de janeiro de 2018, será cobrado pela assinatura anual de 1º de fevereiro de 2018 em ambos os casos. 
+-   **R:** Você será cobrado na próxima data de cobrança. Por exemplo, se a data de cobrança for o dia 1º e você comprar uma assinatura com cobrança anual no dia 29 de outubro de 2017, você será cobrado no dia 1º de novembro de 2017. Supondo que você não faça nenhuma alteração na licença, você será cobrado no dia 1º de novembro de 2018. Se você fizer uma alteração na licença, você receberá um crédito e uma nova cobrança na data de cobrança seguinte. 
 
 **P:** Posso dividir uma assinatura de forma que uma parte seja cobrada mensalmente e a outra seja cobrada anualmente?  
 
@@ -270,136 +270,129 @@ Seções:
 
 ## <a href="" id="freetrialsfaq"></a>Perguntas frequentes sobre avaliações gratuitas
 
-**P:** O que são avaliações gratuitas?
+**P1:** O que são avaliações gratuitas?
 
 -   **R:** É possível oferecer a seus clientes uma avaliação gratuita de 30 dias de determinados produtos. Isso permite que seus clientes avaliem o produto antes de comprá-lo. As avaliações gratuitas estão disponíveis para os seguintes produtos: 
 
-    - Office 365 Business Premium  
-    - Office 365 E3  
-    - Office 365 E5 com PSTN  
-    - Office 365 E5 sem PSTN  
-    - Enterprise Mobility & Security E5  
-    - Dynamics 365 Customer Engagement Plan 1  
-    - Dynamics 365 for Financials  
+    - Office 365 Business Premium (a partir de 17 de outubro de 2017)
+    - Office 365 E3 (a partir de 17 de outubro de 2017)
+    - Office 365 E5 com PSTN (a partir de 17 de outubro de 2017)
+    - Office 365 E5 sem PSTN (a partir de 17 de outubro de 2017)
+    - Enterprise Mobility & Security E5 (a partir de 17 de outubro de 2017)
+    - Dynamics 365 Customer Engagement Plan 1 (a partir de 17 de outubro de 2017)
+    - Dynamics 365 for Financials (a partir de 17 de outubro de 2017)
+    - Microsoft 365 Business (a partir de 1º de março de 2018)
     
-**P:** O período gratuito está sendo eliminado com a entrega de avaliações gratuitas?
-
--   **R:** Não, as assinaturas com cobrança mensal continuarão tendo um período gratuito. No entanto, não haverá nenhum período gratuito para cobrança anual.
-
-**P:** O alinhamento de cobrança foi adiado até CY18 Q1. Como isso afeta o período gratuito e a cobrança em geral?
-
--   **R:** Novas assinaturas com cobrança mensal continuarão recebendo um período gratuito e sendo alinhadas à data de cobrança do parceiro. As assinaturas com cobrança anual não oferecerão um período gratuito e serão alinhadas com a data de compra. Os parceiros continuarão recebendo seus arquivos de reconciliação e fatura na data de cobrança mensal, o que conterá a atividade de cobrança tanto para assinaturas mensais quanto anuais.
-
-**P:** Quando o período gratuito será removido para assinaturas com frequência de cobrança mensal?
-
--   **A:** CY18 Q1.
-
-**P:** A cobrança anual e as avaliações gratuitas são diferentes em nuvem soberana versus nuvem pública?
+**P2:** A cobrança anual e as avaliações gratuitas são diferentes em nuvem soberana em comparação a nuvem pública?
 
 -   **R:** Não. São iguais. A única diferença serão nas SKUs de avaliação que estão disponíveis no momento da inicialização.
 
-**P:** Quando isso estará disponível para as SKUs listadas acima?
+**P3:** Quem pode participar?
 
--   **R:** 17 de outubro de 2017.
+-   **R:** Todos os parceiros podem participar. No entanto, atualmente não está disponível na China. 
 
-**P:** Quem pode participar?
-
--   **R:** Todos os parceiros podem participar. No entanto, isso não está disponível na China no momento. As avaliações gratuitas estarão disponíveis para clientes e parceiros chineses antes do final de 2017. 
-
-**P:** Quais ações eu devo realizar para poder me beneficiar dessas avaliações gratuitas??
+**P4:** Quais ações eu devo realizar para poder me beneficiar dessas avaliações gratuitas?
 
 -   **R:** Considere a forma como a avaliação gratuita pode ser incorporada ao seu movimento de vendas e o impacto em seus processos internos. Talvez também seja necessário alterar suas APIs para acomodar a conversão de uma avaliação gratuita em uma assinatura paga. Há especificações técnicas detalhadas para as alterações de API na exibição Anúncios no Partner Center.
 
-**P:** Eu verei a avaliação gratuita em minha fatura e no arquivo de reconciliação?
+**P5:** Eu verei a avaliação gratuita em minha fatura e no arquivo de reconciliação?
 
 -   **R:** Não, as avaliações gratuitas não aparecerão em sua fatura ou no arquivo de reconciliação baseado em licença. Elas aparecerão em sua fatura ou no arquivo de reconciliação baseado em licença depois que você converter uma avaliação gratuita em uma assinatura paga. A assinatura convertida aparecerá na sua fatura e no arquivo de reconciliação baseado em licença da mesma maneira que qualquer outra assinatura nova.
 
-**P:** As avaliações gratuitas afetam os incentivos?
+**P6:** As avaliações gratuitas afetam os incentivos?
 
 -   **R:** Não. A versão de avaliação gratuita não tem impacto nos incentivos.
 
-**P:** As avaliações gratuitas estarão disponíveis para outros produtos do Office e CSP no futuro?
+**P7:** As avaliações gratuitas estarão disponíveis para outros produtos do Office no futuro?
 
--   **R:** Ainda não sabemos. Nós fornecemos avaliações gratuitas para esses produtos porque eles são as ofertas de negócios mais abrangentes e populares. É possível que adicionemos outras ofertas de avaliação gratuita no futuro.
+-   **R:** Nós fornecemos avaliações gratuitas para esses produtos porque eles são as ofertas de negócios mais abrangentes e populares. É possível que adicionemos outras ofertas de avaliação gratuita no futuro.
 
-**P:** Um cliente pode ter mais de uma versão de avaliação gratuita?
+**P8:** Um cliente pode ter mais de uma versão de avaliação gratuita?
 
--   **R:** Cada cliente está qualificado para uma avaliação gratuita por oferta disponível.
+-   **R:** Cada cliente está qualificado para receber uma avaliação gratuita por oferta disponível.
 
-**P:** Há algum limite para uma avaliação gratuita?
+**P9:** Há algum limite para uma avaliação gratuita?
 
 -   **R:** Sim. A avaliação contempla até 25 licenças. A contagem de licenças não pode ser alterada durante o período de avaliação. Depois que a avaliação for convertida em uma assinatura paga, você poderá adicionar outras licenças à assinatura.
 
-**P:** A avaliação gratuita é automaticamente convertida em uma assinatura paga?
+**P10:** A avaliação gratuita é automaticamente convertida em uma assinatura paga?
 
 -   **R:** Não. Será necessário converter a assinatura por conta própria, no Partner Center ou por meio da API.
 
-**P:** As avaliações gratuitas podem ser usadas para assinaturas com cobrança mensal e anual?
+**P11:** As avaliações gratuitas podem ser usadas para assinaturas com cobrança mensal e anual?
 
 -   **R:** Sim. Você poderá escolher a frequência de cobrança quando estiver convertendo a avaliação em uma assinatura paga.
 
-**P:** A data de início da assinatura se baseará na data inicial da avaliação gratuita ou na data de conversão em uma assinatura paga? 
+**P12:** A data de início da assinatura se baseará na data inicial da avaliação gratuita ou na data de conversão em uma assinatura paga? 
 
 -   **R:** A data de início se baseia na data de conversão. Se a avaliação gratuita for convertida em uma oferta paga com cobrança anual, a data de renovação da assinatura será de doze meses a partir da data de conversão. Se a avaliação gratuita for convertida em uma oferta paga com cobrança mensal, a data de renovação da assinatura será 12 meses a partir da data de cobrança após a data de conversão.
 
-**P:** Posso adicionar ou remover estações durante a avaliação gratuita?
+**P13:** Posso adicionar ou remover estações durante a avaliação gratuita?
 
 -   **R:** Não. As avaliações gratuitas assumirão como padrão 25 licenças e não poderão ser atualizadas.
 
-**P:** Existem avaliações para ofertas de complementos, como ATP e PSTN?
+**P14:** Existem avaliações para ofertas de complementos, como ATP e PSTN?
 
--   **R:** Não há nenhuma avaliação gratuita para ofertas de complementos.
+-   **R:** No momento, não há nenhuma avaliação gratuita para ofertas de complementos.
 
-**P:** Posso fornecer uma avaliação gratuita para uma oferta que um cliente já possui?
+**P15:** Posso fornecer uma avaliação gratuita para uma oferta que um cliente já possui?
 
 -   **R:** Não. Se o cliente já tiver a oferta, ela não poderá ser usada em uma avaliação gratuita.
 
-**P:** Conseguirei ver todas as minhas ofertas de avaliação pendentes?
+**P16:** Conseguirei ver todas as minhas ofertas de avaliação pendentes?
 
 -   **R:** Sim. A página de cliente lista todas as assinaturas. Isso inclui as assinaturas de avaliação gratuita e as assinaturas pagas.
 
-**P:** Serei notificado sobre a expiração de avaliações gratuitas?
+**P17:** Serei notificado sobre a expiração de avaliações gratuitas?
 
 -   **R:** Não. Você pode acompanhar as datas de validade usando a exibição do cliente no Partner Center ou consultando a API. É recomendável monitorar essas datas com frequência para que você possa executar as ações de acompanhamento apropriadas quando os clientes tomarem uma decisão.
 
-**P:** Se um cliente teve uma avaliação gratuita para uma oferta, ele também poderá usar outra avaliação para uma oferta diferente? 
+**P18:** Se um cliente teve uma avaliação gratuita para uma oferta, ele também poderá usar outra avaliação para uma oferta diferente? 
 
 -   **R:** Sim. Os clientes podem se inscrever em uma avaliação por oferta. Por exemplo, eles podem obter uma avaliação gratuita do Office 365 Business Premium e uma avaliação gratuita do Office 365 E3.
 
-**P:** O que acontece quando a avaliação termina? Eu ou o meu cliente receberemos uma notificação? Quais notificações são exibidas quando tento entrar em uma avaliação expirada?
+**P19:** O que acontece quando a avaliação termina? Eu ou o meu cliente receberemos uma notificação? Quais notificações são exibidas quando tento entrar em uma avaliação expirada?
 
 -   **R:** Depois que uma avaliação expira, o cliente que está tentando fazer login nessa avaliação verá uma mensagem indicando que a avaliação expirou. Não haverá notificações para sinalizar que uma avaliação está prestes a expirar; no entanto, como parceiro, você pode controlar isso por meio da exibição do cliente ou por meio de consultas de API.
 
-**P:** Uma avaliação pode ser estendida?
+**P20:** Uma avaliação pode ser estendida?
 
 -   **R:** Não. Depois de 30 dias, a avaliação deverá ser convertida ou expirará.
 
-**P:** Quando uma avaliação expira, suas informações podem ser acessadas?
+**P21:** Quando uma avaliação expira, suas informações podem ser acessadas?
 
--   **R:** Sim. Os dados são armazenados em linha com os padrões de retenção de dados. Depois que você comprar uma nova assinatura com os mesmos planos de serviço, os dados poderão ser acessados da assinatura recém-ativada.
+-   **R:** Sim. Os dados são armazenados em linha com os padrões de retenção de dados. Depois que você comprar uma nova assinatura com os mesmos planos de serviço, os dados do cliente poderão ser acessados da assinatura recém-ativada.
 
-**P:** Há avaliações gratuitas disponíveis para ofertas governamentais e educacionais?
+**P22:** Há avaliações gratuitas disponíveis para ofertas governamentais e educacionais?
 
--   **R:** Não há avaliações gratuitas para ofertas governamentais e educacionais neste momento.
+-   **R:** Não há avaliações gratuitas para ofertas governamentais e educacionais no momento.
 
-**P:** As avaliações gratuitas do cliente para o programa CSP (Provedor de Soluções na Nuvem) podem ser convertidos em locatários de outros programas, como EA, Open ou MOSP? 
+**P23:** As avaliações gratuitas do cliente para o programa CSP (Provedor de Soluções na Nuvem) podem ser convertidos em locatários de outros programas, como EA, Open ou MOSP? 
 
 -   **R:** Não. As assinaturas não podem ser transferidas do CSP para outro programa.
 
-**P:** Como posso obter suporte para avaliações gratuitas? 
+**P24:** Como posso obter suporte para avaliações gratuitas? 
 
 -   **R:** Envie uma solicitação de serviço por meio do Partner Center.
 
 ## <a href="" id="billingalignmentfaq"></a>Alinhamento de cobrança - encerramento do período gratuito
 
-Em 20 de fevereiro, o Programa CSP implementará o "alinhamento da data de cobrança" para novas assinaturas com frequência de cobrança mensal. Esse "alinhamento da data de cobrança" fornecerá aos parceiros mais flexibilidade e previsibilidade das vendas e da cobrança, bem como do provisionamento e do gerenciamento de assinaturas de clientes. As assinaturas adquiridas antes de 20 de fevereiro obtêm um período gratuito a partir da data da compra até a data de cobrança do parceiro. As assinaturas adquiridas depois de 20 de fevereiro não receberão mais um período gratuito. O período pago de 12 meses será iniciado (alinhado) na data da compra versus a cobrança do parceiro. Os parceiros não verão mais uma 'linha de cobrança $0' que representa o período gratuito no arquivo de reconciliação. Não há nenhuma alteração nas APIs, no faturamento ou nos incentivos.  Os parceiros devem informar suas equipes de vendas e estatísticas sobre essa nova lógica de cobrança e garantir que as operações sejam ajustadas conforme o necessário.  
+A partir do dia 21 de fevereiro de 2018, o Provedor de Soluções na Nuvem (CSP) começará a implementar o “alinhamento da data de cobrança” para novas assinaturas com cobrança mensal. Esse "alinhamento da data de cobrança" fornecerá aos parceiros mais flexibilidade e previsibilidade das vendas e da cobrança, bem como do provisionamento e do gerenciamento de assinaturas de clientes. 
 
-Antes de implementar o alinhamento da data de cobrança, nós faturamos e cobramos na data de aniversário de cobrança de um parceiro, a data em que o parceiro assinou o programa CSP, e não na data de aniversário da assinatura do cliente, a data em que o cliente comprou a assinatura. Após 20 de fevereiro, os parceiros serão cobrados na data de aniversário da assinatura, eliminando esse período gratuito.  Os parceiros continuarão a receber as faturas em sua data de aniversário de cobrança, mas a data de efetivação da fatura será a data de aniversário de assinatura do cliente. 
+**ATUALIZAÇÃO DO DIA 23 DE FEVEREIRO:** Anteriormente anunciamos uma data de implementação de 20 de fevereiro, mas nossa implementação real foi um pouco atrasada e escalonada por categoria de produto.  Analise o catálogo em destaque abaixo em relação à data de implementação por Categoria de Produto. 
 
-As assinaturas que estiverem no período gratuito em 20 de fevereiro não serão cobradas entre a data da compra até a data de cobrança do parceiro. Além disso, eles não serão cobrados pelo primeiro mês do período pago de 12 meses. Se você usar um arquivo de reconciliação para verificação, lembre-se de que essa cobrança do primeiro mês não estará mais visível no arquivo de reconciliação.  
+|**Categoria do Produto**   |**Dia da Implementação**   |
+|-----------------|:-------------|
+|Office  |21 de fevereiro   |
+|Windows, Minecraft   |22 de fevereiro   |
+|Office 365 China   |23 de fevereiro   |
+|Dynamics/Intune   |23 de fevereiro   |
 
-Não haverá nenhuma alteração nas APIs, no faturamento ou nos incentivos como resultado dessa mudança de lógica de cobrança. Informe suas equipes de vendas e estatísticas sobre essa nova lógica de cobrança e garanta que as operações sejam ajustadas conforme necessário. Veja abaixo perguntas frequentes com cenários de cobrança detalhados.  
+As assinaturas adquiridas antes da data de implementação (consulte o catálogo em destaque acima) obtêm um período gratuito a partir da data da compra até a data de cobrança do parceiro. As assinaturas adquiridas após a data da implementação não receberão mais um período gratuito. O período pago de 12 meses será iniciado (alinhado) na data da compra em relação ao parceiro de cobrança. Os parceiros não verão mais uma 'linha de cobrança $0' que representa o período gratuito no arquivo de reconciliação. Não há nenhuma alteração nas APIs, no faturamento ou nos incentivos.  Os parceiros devem informar suas equipes de vendas e estatísticas sobre essa nova lógica de cobrança e garantir que as operações sejam ajustadas conforme o necessário.  
 
+Antes de implementar o alinhamento da data de cobrança, nós faturamos e cobramos na data de aniversário de cobrança de um parceiro, a data em que o parceiro assinou o programa CSP, e não na data de aniversário da assinatura do cliente, a data em que o cliente comprou a assinatura. Após a data de implementação, os parceiros serão cobrados na data de aniversário da assinatura, eliminando esse período gratuito.  Os parceiros continuarão a receber as faturas em sua data de aniversário de cobrança, mas a data de efetivação da fatura será a data de aniversário de assinatura do cliente. 
+
+As assinaturas que estiverem no período gratuito na data de implementação não serão cobradas entre a data da compra até a data de cobrança do parceiro. Além disso, eles não serão cobrados pelo primeiro mês do período pago de 12 meses. Se você usar um arquivo de reconciliação para verificação, lembre-se de que essa cobrança do primeiro mês não estará mais visível no arquivo de reconciliação.  
 
 **P1:** O que está mudando com a data de cobrança?
 
@@ -407,19 +400,26 @@ Não haverá nenhuma alteração nas APIs, no faturamento ou nos incentivos como
 
 **P2:** Quando o período gratuito será removido?
 
-- **R:** A partir de 20 de fevereiro de 2018, novas assinaturas não terão um período gratuito.
+- **R:** A partir da data de implementação listada no catálogo em destaque acima, novas assinaturas não receberão um período gratuito.
 
-**P3:** Como as assinaturas que estiverem no período gratuito em 20 de fevereiro serão afetadas?
+|**Categoria do Produto**   |**Dia da Implementação**   |
+|-----------------|:-------------|
+|Office  |21 de fevereiro   |
+|Windows, Minecraft   |22 de fevereiro   |
+|Office 365 China   |23 de fevereiro   |
+|Dynamics/Intune   |23 de fevereiro   |
 
-- **R:** As assinaturas que estiverem no período gratuito em 20 de fevereiro de 2018 ainda receberão um período gratuito da data da compra até a data de cobrança do parceiro. Essas licenças também receberão um "período gratuito estendido" e não serão cobradas pelo primeiro mês do período pago de 12 meses. O "período gratuito estendido" não será aplicável a licenças adicionadas no primeiro mês. Se aumentar a quantidade de licenças no primeiro mês, você será cobrado por essas licenças adicionadas na próxima fatura/reconciliação. Se o arquivo de reconciliação for usado para verificação, esteja ciente de que essa cobrança do primeiro mês poderá estar ausente do arquivo de reconciliação. Veja os cenários abaixo para obter uma explicação mais detalhada.
+**P3:** Como as assinaturas que estiverem no período gratuito na data de implementação serão afetadas?
+
+- **R:** As assinaturas que estiverem no período gratuito na data de implementação ainda receberão um período gratuito da data da compra até a data de cobrança do parceiro. Essas licenças também receberão um "período gratuito estendido" e não serão cobradas pelo primeiro mês do período pago de 12 meses. O "período gratuito estendido" não será aplicável a licenças adicionadas no primeiro mês. Se aumentar a quantidade de licenças no primeiro mês, você será cobrado por essas licenças adicionadas na próxima fatura/reconciliação. Se o arquivo de reconciliação for usado para verificação, esteja ciente de que essa cobrança do primeiro mês poderá estar ausente do arquivo de reconciliação. Veja os cenários abaixo para obter uma explicação mais detalhada.
 
 **P4:** Quando começará o período pago de 12 meses de uma nova assinatura?
 
-- **R:** Atualmente, o período pago começa na data de cobrança do parceiro após a data da compra. A partir de 20 de fevereiro de 2018, o período pago de novas assinaturas começará na data da compra.
+- **R:** Atualmente, o período pago começa na data de cobrança do parceiro após a data da compra. A partir da data de implementação, o período pago de novas assinaturas começará na data da compra.
 
 **P5:** Quando as assinaturas serão renovadas automaticamente?
 
-- **R:** As assinaturas são renovadas automaticamente 12 meses após a data da primeira cobrança. Atualmente, isso significa que a renovação automática das assinaturas ocorrerá 12 meses após a primeira data de cobrança do parceiro seguinte à data da compra. A partir de 20 de fevereiro de 2018, as novas assinaturas serão renovadas automaticamente 12 meses após a data da compra.
+- **R:** As assinaturas são renovadas automaticamente 12 meses após a data da primeira cobrança. Atualmente, isso significa que a renovação automática das assinaturas ocorrerá 12 meses após a primeira data de cobrança do parceiro seguinte à data da compra. A partir da data de implementação, as novas assinaturas serão renovadas automaticamente 12 meses após a data da compra.
 
 **P6:** E se eu comprar a assinatura nos dias 29, 30 ou 31 de um mês?
 
@@ -452,7 +452,7 @@ Não haverá nenhuma alteração nas APIs, no faturamento ou nos incentivos como
 ### <a name="common-scenarios"></a>Cenários comuns
 
 
-|**Cenários**   |**Cenário 1: O período gratuito da assinatura termina antes de 20 de fevereiro de 2018**   |**Cenário 2: A assinatura está dentro do período gratuito em 20 de fevereiro de 2018**  | **Cenário 3: Assinatura adquirida em 20 de fevereiro de 2018 ou depois dessa data**   |
+|**Cenários**   |**Cenário 1: O período gratuito de assinatura termina antes da data de implementação**   |**Cenário 2: A assinatura está dentro do período gratuito na data da implementação**  | **Cenário 3: A assinatura foi adquirida na ou depois da data de implementação**   |
 |----------|:------------|:--------------------|:------------|
 |Data da compra |1º de fev. de 2018    | 1º de fev. de 2018    | 1º de junho de 2018     |
 |Data do provisionamento | 1º de fev. de 2018   |1º de fev. de 2018   |1º de junho de 2018   |
@@ -525,9 +525,8 @@ A data de cobrança do parceiro é no dia 15 do mês. Em 1º de junho de 2018, o
 
 O arquivo de reconciliação de 15 de julho conterá as seguintes linhas de cobrança:
 - Crédito de cancelamento de -US$ 30 pelo período de serviço de 20 de junho – 30 de junho. O crédito não é proporcional porque a assinatura foi suspensa nos primeiros 30 dias.
-- Cobrança de US$ 30 pelo período de serviço de 25 de junho – 30 de junho. A cobrança não é proporcional porque a assinatura foi suspensa nos primeiros 30 dias.
-- Crédito de -US$ 30 pelo período de serviço de 1º de junho – 30 de junho. O parceiro reativou a assinatura com uma quantidade de licenças diferente, o que resulta em um crédito e uma nova cobrança proporcional.
-- Nova cobrança proporcional de US$ 24 pelo período de serviço de 1º de junho – 24 de junho. O parceiro tinha 1 licença durante esse período de serviço. Mesmo que a assinatura tenha sido suspensa de 20 de junho – 24 de junho, o cliente ainda é cobrado por esses dias. O preço unitário é calculado da seguinte forma: (preço mensal/número de dias no período de serviço total)*número de dias no período de serviço proporcional*número de licenças = (30/30)*24*1 = US$ 24.
+- Cobrança de US$ 30 pelo período de serviço de 25 de junho – 30 de junho. A cobrança de reativação não é proporcional porque a assinatura foi reativada nos primeiros 30 dias. A cobrança também é baseada na quantidade de licenças originais de 1.
+- Crédito de -US$ 6 pelo período de serviço de 25 de junho – 30 de junho. A cobrança de reativação só é feita por 1 licença durante o período de serviço de 25 de junho – 30 de junho quando você tinha 2 licenças. O crédito de -US$ 6 reverte a cobrança incorreta pelo período de serviço de 25 de junho – 30 de junho.
 - Nova cobrança proporcional de US$ 12 pelo período de serviço de 25 de junho – 30 de junho. O parceiro tinha 2 licenças durante esse período de serviço. O preço unitário é calculado como (30/30)*6*2 = US$ 12.
 - Cobrança de US$ 60 pelo período de serviço de 1º de julho – 31 de julho.
 
@@ -535,8 +534,7 @@ O arquivo de reconciliação de 15 de julho conterá as seguintes linhas de cobr
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
 |20/06/2018   |30/06/2018   |-US$ 30   |1   |-US$ 30   |Taxa de cancelamento |
 |25/06/2018   |30/06/2018   |US$ 30   |1   |US$ 30   |Taxa de ativação |
-|01/06/2018   |30/06/2018   |-US$ 30   |1   |-US$ 30   |Proporcional à instância do ciclo |
-|01/06/2018   |24/06/2018   |US$ 24   |1   |US$ 24   |Proporcional à instância do ciclo |
+|25/06/2018   |30/06/2018   |-US$ 6   |1   |-US$ 6   |Proporcional à instância do ciclo |
 |25/06/2018   |30/06/2018   |US$ 6   |2   |US$ 12   |Proporcional à instância do ciclo |
 |01/07/2018   |31/07/2018   |US$ 30   |2   |US$ 60   |Taxa do ciclo |
 
@@ -639,7 +637,7 @@ O arquivo de reconciliação de 15 de junho conterá as seguintes linhas de cobr
 |**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |**Tipo de cobrança** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
 |01/06/2018   |30/06/2018   |US$ 30   |1   |US$ 30   |Taxas proporcionais durante a compra |
-|10/06/2018   |30/06/2018   |$3,50   |1   |US$ 3,50   |Taxas proporcionais durante a compra |
+|10/06/2018   |30/06/2018   |$3,50   |1   |$3,50   |Taxas proporcionais durante a compra |
 
 O arquivo de reconciliação de 15 de julho conterá as seguintes linhas de cobrança:
 

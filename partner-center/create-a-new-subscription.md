@@ -1,16 +1,16 @@
 ---
-title: Criar uma nova assinatura | Partner Center
-description: "Depois de criar um registro de seu cliente no Partner Center, você poderá vender a ele assinaturas de produtos no catálogo."
+title: Criar, suspender ou cancelar assinaturas de cliente | Partner Center
+description: Depois de criar um registro de seu cliente no Partner Center, você poderá vender a ele assinaturas de produtos no catálogo.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
-Keywords: subscription, create new, add subscription,
-ms.openlocfilehash: 22c19d5f8530f4c79bda522e8087379b488f6474
-ms.sourcegitcommit: 86b5aa793bc453219246c667f82dbebc3a37c3eb
+Keywords: subscription, create new, add subscription, suspend, cancel,
+ms.openlocfilehash: d05ac5683a9f8c7f620debc57966247a1b7a50d2
+ms.sourcegitcommit: 8b533bc6cee8d98fee29e5b34f49f52c78a7952c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/03/2018
+ms.lasthandoff: 03/01/2018
 ---
-# <a name="create-a-new-subscription"></a>Criar uma nova assinatura
+# <a name="create-suspend-or-cancel-customer-subscriptions"></a>Criar, suspender ou cancelar assinaturas de cliente
 
 **Aplicável a**
 
@@ -42,18 +42,23 @@ Note que algumas ofertas são limitadas a uma assinatura por cliente. Para ver u
 
 7.  Na página Editar, você também pode alterar a quantidade de licenças ou suspender a assinatura.
 
+## <a name="suspend-or-cancel-a-subscription"></a>Suspender ou cancelar uma assinatura
 
-**Permitir que os clientes gerenciem suas assinaturas do Azure**
+Os parceiros podem suspender ou cancelar uma assinatura se solicitado pelo cliente ou em casos de fraude ou falta de pagamento.
 
-Depois de criar uma assinatura do Microsoft Azure para um cliente, você poderá permitir que ele gerencie a assinatura. Para fazer isso, você precisará fazer logon no Portal de Gerenciamento do Microsoft Azure. 
+Quando você alterar o status de uma assinatura para **Suspensa**, os usuários não poderão entrar nem acessar os serviços. Os administradores ainda podem entrar e acessar os dados.
 
-1.  Para abrir o Portal do Azure do cliente, expanda a listagem do cliente em sua lista de clientes ou selecione o nome do cliente e, em seguida, selecione **Portal de Gerenciamento do Microsoft Azure**.
-    
- >**Observação** <br> Se receber uma solicitação para fazer logon no Portal do Azure, talvez você não tenha privilégios administrativos delegados. Selecione **Solicite um relacionamento** para convidar o cliente para identificar você como seu Parceiro de Registro. Depois que o cliente aceitar seu convite, você receberá automaticamente os privilégios administrativos delegados. 
+**Suspender uma assinatura**
 
-2.  No Portal do Azure, abra a lista de assinaturas do cliente e selecione a assinatura do Azure do cliente.
+1.  No menu **Painel**, selecione **Clientes**, em seguida, escolha um cliente da lista.
+2.  Escolha a assinatura que deseja gerenciar.
+3.  Na seção **Status**, escolha **Suspensa**. Em seguida, **Envie ** suas alterações.
+4.  Todos os dados serão excluídos a menos que a assinatura seja reativada dentro de 90 dias, ou 90 dias mais o número de dias entre o momento em que a conta foi aberta e o primeiro período de cobrança (máximo de 120 dias).
 
-3.  Atribua uma função a qualquer um dos usuários do cliente para que ele possa criar e gerenciar recursos em sua assinatura.
+Ao suspender uma assinatura, a data que você vê abaixo do botão **Suspenso** indica quando a assinatura expiraria automaticamente se você não a reativasse. 
+
+
+
 
  
 

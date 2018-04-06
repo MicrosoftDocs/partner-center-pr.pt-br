@@ -1,35 +1,34 @@
 ---
-title: Mudar assinaturas do Azure para outro parceiro | Partner Center
-description: "Um cliente pode mudar o parceiro do programa Provedor de Soluções na Nuvem que usa para os serviços do Microsoft Azure. No entanto, esse é um processo manual que exige ações do parceiro e do cliente."
+title: Transferir assinaturas do Azure | Partner Center
+description: Um cliente pode mudar o parceiro do programa Provedor de Soluções na Nuvem que usa para os serviços do Microsoft Azure. No entanto, esse é um processo manual que exige ações do parceiro e do cliente.
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: assinatura do Azure, mudar de parceiro, alterar parceiro, obter novo parceiro, outro parceiro
-ms.openlocfilehash: 5bc29e78cb94068a5d7675f6f030bc31e78f40a4
-ms.sourcegitcommit: 4329bcdc9f5e293418f2bfe60445c33acfaba2d0
+ms.openlocfilehash: fa4e7128a052c291f26f9ff47101c85bcd764bc1
+ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/24/2018
+ms.lasthandoff: 02/21/2018
 ---
-# <a name="switch-azure-subscriptions-to-a-different-partner"></a>Transferir assinaturas do Azure para outro parceiro
+# <a name="transfer-azure-subscriptions"></a>Transferir assinaturas do Azure 
 
 **Aplicável a**
 
 -  Partner Center
 
-Um cliente pode mudar o parceiro do programa Provedor de Soluções na Nuvem que usa para os serviços do Microsoft Azure. No entanto, esse é um processo manual que exige ações do parceiro e do cliente.
+Um cliente pode decidir mudar para um parceiro do Provedor de Soluções na Nuvem ou um parceiro para obter os serviços do Microsoft Azure. Trata-se, porém, de um processo manual que exige ações do parceiro e do cliente.
 
-**Observação**  Atualmente, não há um processo automático para os clientes do Azure mudarem do EA, Open ou outros programas de licenciamento para o CSP. Esse é um processo manual que exige ações do parceiro e do cliente. Além disso, não é possível mudar os parceiros para assinaturas de Provedor de Soluções na Nuvem do Office 365, Enterprise Mobility Suite ou Microsoft Dynamics CRM.
+**Observação:** atualmente, não é possível mudar os parceiros para assinaturas de Provedor de Soluções na Nuvem do Office 365, Enterprise Mobility Suite ou Microsoft Dynamics CRM.
 
 
- 
 
 **Mudar de parceiro para assinaturas do Azure**
 
-1.  Para transferir uma assinatura do Azure para um novo parceiro, o cliente deve iniciar o processo e entrar em contato com seu parceiro CSP atual de registro por escrito. 
+1.  Para transferir uma assinatura do Azure para um novo parceiro, o cliente deve iniciar o processo e entrar em contato com seu parceiro atual de registro por escrito. 
 
     >**Observação**<br> É responsabilidade do parceiro atual criar o tíquete de serviço que inicia o processo de transferência. A Microsoft não pode interferir em nome do cliente ou do novo parceiro. O cliente deve planejar trabalhar em conjunto com o parceiro atual para que a transição ocorra sem problemas.
 
-2.  O parceiro CSP da assinatura deve executar as seguintes tarefas:
+2.  O parceiro da assinatura deve executar as seguintes tarefas:
 
     Crie um tíquete de serviço do Azure no Partner Center para solicitar uma transferência de assinatura:
 
@@ -43,7 +42,7 @@ Um cliente pode mudar o parceiro do programa Provedor de Soluções na Nuvem que
 
         Baixe o [formulário de transferência de assinatura de CSP](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip).
 
-3.  Parceiro CSP atual da assinatura: preencha o [formulário de transferência de assinatura de CSP](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip), assine-o e envie-o para o cliente. Para preencher o formulário, você precisará das informações a seguir:
+3.  O parceiro da assinatura: preencha o [formulário de transferência de assinatura de CSP](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip), assine-o e envie-o para o cliente. Para preencher o formulário, você precisará das informações a seguir:
 
     -   Informações de contato do parceiro atual e a ID da Microsoft. No menu Partner Center, selecione **Configurações da conta** &gt; **Perfil de organização**, e use a **ID da Microsoft**, o **Nome da organização** e o **Endereço** listados lá.
 
@@ -51,17 +50,20 @@ Um cliente pode mudar o parceiro do programa Provedor de Soluções na Nuvem que
 
     -   A ID de assinatura a ser transferida. Na listagem de clientes expandida, selecione **Exibir Assinaturas**, em seguida, expanda a assinatura escolhida para ver a **ID de Assinatura**.
 
-4.  Cliente e novo CSP da assinatura:
+    >**Observação**<br> A transferência de uma assinatura resulta em duas IDs de assinaturas que você verá na página **Editar Assinatura** da assinatura transferida: **1**- A ID da assinatura do Partner Center é usada para fins de cobrança. Essa ID aparecerá no arquivo de reconciliação. 
+    **2**- A ID da assinatura do Azure original será mantida e aparecerá no Partner Center, bem como no Portal de Gerenciamento do Azure. **Ao registrar os tíquetes de suporte em log, você precisará usar ambas as IDs.**
+
+4.  O cliente e novo parceiro da assinatura:
 
     Examine o formulário, preencha as informações sobre o novo parceiro e assine-o. Confirme se o novo cliente tem um contrato em vigor. Envie o formulário de volta para o parceiro de registro atual.
 
     *Importante*: se o novo parceiro CSP não tiver uma relação de revendedor com o cliente, ele deverá estabelecer uma antes para a assinatura que será transferida. [Você pode encontrar informações sobre como fazer isso aqui](https://int.msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx).
 
-5.  Parceiro CSP atual:
+5.  Parceiro atual:
 
     Certifique-se de que o formulário inclui informações de contato de ambos parceiros administradores. O Suporte da Microsoft entrará em contato com ambos os administradores para verificar a transferência. Garanta que todas as três assinaturas estejam em vigor e, em seguida, anexe o formulário preenchido à sua solicitação de serviço existente usando a opção **Carregamento de Arquivo**. Um engenheiro de suporte da Microsoft entrará em contato com você dentro de 8 horas úteis para validar o recebimento e a conclusão.
 
-6.  Novo parceiro CSP:
+6.  Novo parceiro:
 
     Atualize as configurações de assinatura do Azure para remover o antigo parceiro da conta. Para ver quais atribuições de função são provisionadas, execute dois Commandlets do Powershell.
 

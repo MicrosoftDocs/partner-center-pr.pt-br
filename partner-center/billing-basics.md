@@ -1,13 +1,13 @@
 ---
-title: "Noções básicas de cobrança | Partner Center"
+title: Noções básicas de cobrança | Partner Center
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
-keywords: "cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções fiscais, arquivos de reconciliação, arquivo de reconciliação"
-ms.openlocfilehash: 59cdd6a3b0024356479ef0da87a87ac79148d316
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
+keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções fiscais, arquivos de reconciliação, arquivo de reconciliação
+ms.openlocfilehash: 6992c2f0a7ac235e8ee62bd82a134631ec35b0db
+ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 02/28/2018
 ---
 # <a name="billing-basics"></a>Noções básicas de cobrança
 
@@ -59,7 +59,6 @@ Agora, além da opção mensal, você tem uma opção de cobrança anual. Consul
 <tr class="odd">
 <td>Ajustes/créditos/cancelamentos</td>
 <td><ul>
-<li>Créditos por testes de contas e integração não estão autorizados. Para evitar encargos de assinatura ou cobrança antecipada de taxa de encerramento quando você estiver executando testes, você pode cancelar a assinatura durante o “período gratuito”. Todas as tarifas de uso por consumo de serviços Azure são de sua responsabilidade.</li>
 <li>Você verá os ajustes e créditos em atraso em sua próxima fatura de cobrança após o crédito ou ajuste ser aplicado.</li>
 </ul></td>
 </tr>
@@ -89,15 +88,6 @@ Agora, além da opção mensal, você tem uma opção de cobrança anual. Consul
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>Até um mês gratuito como incentivo</td>
-<td><ul>
-<li>Novas assinaturas com cobrança mensal continuarão recebendo um período gratuito e sendo alinhadas à data de cobrança do parceiro.</li>
-<LI> As assinaturas com cobrança anual não oferecerão um período gratuito e serão alinhadas com a data de compra. Os parceiros continuarão recebendo seus arquivos de reconciliação e fatura na data de cobrança mensal, o que conterá a atividade de cobrança tanto para assinaturas mensais quanto anuais.
-<li>Todas as assinaturas terão a renovação automática por um novo período de 12 meses com 12 cobranças adiantadas mensais se a assinatura não for cancelada de acordo com os contratos apropriados.</li>
-<li>O período gratuito não se aplica a serviços baseados em uso.</li>
-</ul></td>
-</tr>
-<tr class="even">
 <td>Regras de cobrança</td>
 <td><ul>
 <li>As assinaturas são anuais com renovação automática.</li>
@@ -107,7 +97,7 @@ Agora, além da opção mensal, você tem uma opção de cobrança anual. Consul
 <li>Pagamentos são cobrados por assentos vendidos (não assentos provisionados).</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Ajustes/créditos/cancelamentos</td>
 <td><ul>
 <li>Taxas de término antecipado atualmente não são cobradas pelo cancelamento dos serviços baseados em licença.</li>
@@ -133,7 +123,6 @@ O Azure opera no modelo "pré-pago", em que você só será cobrado pelos servi�
 <tr class="odd">
 <td>Regras de cobrança</td>
 <td><ul>
-<li>A cobrança é iniciada na data do início da assinatura. Não há nenhum "período gratuito" para a cobrança baseada em uso.</li>
 <li>As assinaturas são de mês a mês e renovadas automaticamente de acordo com as novas taxas de serviço limitadas. A cobrança é mensal em atraso de pagamento, de acordo com o uso.</li>
 <li>As taxas de serviço limitadas podem ser alteradas dentro do ciclo de fatura.
 <ul>

@@ -1,13 +1,13 @@
 ---
-title: "Vender assinaturas do Minecraft Education Edition para clientes da área de educação"
-description: "Vender assinaturas do Minecraft Education Edition para clientes da área de educação"
+title: Vender assinaturas do Minecraft Education Edition para clientes da área de educação
+description: Vender assinaturas do Minecraft Education Edition para clientes da área de educação
 author: KPacquer
 keywords: Parceiros Education autorizados
-ms.openlocfilehash: b719fb858abe5e171e4bf785fc2c4b3e4500d7c5
-ms.sourcegitcommit: b17c993da73815632ad62d9a8ff0d505673d07b3
+ms.openlocfilehash: 7404c2d98f8463ab3d1182216de2ada956bc6079
+ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/02/2017
+ms.lasthandoff: 02/21/2018
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vender assinaturas do Minecraft: Education Edition para clientes da área de educação
 
@@ -29,6 +29,37 @@ Você adquire o Minecraft: Education Edition para seu cliente na área de educa�
       b. O administrador acessa a [página de detalhes Minecraft](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6) para baixar o aplicativo e distribuir o aplicativo aos usuários. Para obter instruções detalhadas, consulte [Para administradores de TI - obter o Minecraft: Education Edition: Distribute Minecraft](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft).
     
   Se o administrador de TI da escola não estiver familiarizado com a Microsoft Store para Empresas, oriente-o a consultar a [Visão geral da Microsoft Store para Empresas e da Microsoft Store para Educação](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview). 
+
+## <a name="special-pricing-for-education-offers"></a>Preços especiais para ofertas educacionais
+
+A Microsoft fornece preços especiais e reduzidos para grupos de clientes selecionados, como para uso educacional, sem fins lucrativos e governamental ou para conjuntos muito grandes de clientes. Os revendedores devem ser certificados para poder ter acesso a esses preços. O cliente também deve estar qualificado para o preço especial.
+
+**Verificar suas qualificações de revendedor**
+
+1.  No menu **Painel**, selecione **Configurações da conta**.
+2.  No seu **Perfil de parceiro**, na seção **Informações sobre o programa CSP**, procure pelas **Qualificações do Revendedor**.
+3.  Se você não vir **Qualificações revendedor**, você ainda não foi autorizado a comprar as ofertas especiais.
+
+**Verificar as qualificações do cliente**
+
+1.  No menu **Painel**, selecione **Clientes**. Escolha o cliente na lista.
+2.  No menu do cliente, selecione **Conta**. Na seção **Informações da empresa**, procure por **Special qualifications**.
+3.  Se **Qualificações especiais** estiver definido como **Nenhuma**, mas o cliente na verdade atende às qualificações, você pode **Atualizar** os detalhes para incluí-las.
+
+## <a name="access-education-offers"></a>Acessar ofertas educacionais 
+
+Para ter acesso às ofertas educacionais no CSP, [torne-se um AEP](http://go.microsoft.com/fwlink/p/?LinkId=808781)(Parceiro Educacional Autorizado).
+
+### <a name="purchase-offers-at-education-pricing"></a>Ofertas de compra a preços de educação
+
+1. Você deve ser um [Parceiro Educacional Autorizado](http://go.microsoft.com/fwlink/p/?LinkId=808781).
+O cliente deve atender à definição para o mercado de um [Usuário Educacional Qualificado](http://go.microsoft.com/fwlink/p/?LinkId=808795).
+2. Siga as etapas padrão para [Criar uma nova assinatura](create-a-new-subscription.md). No entanto, quando você selecionar a oferta do catálogo, faça a escolha a partir da guia Educação.
+
+
+
+
+
 
 <!-- ## Purchase through Partner Center API 
 

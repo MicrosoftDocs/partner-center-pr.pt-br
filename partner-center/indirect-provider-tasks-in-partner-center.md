@@ -1,12 +1,12 @@
 ---
 title: Parceria com revendedores indiretos no CSP | Partner Center
-description: "Como um provedor indireto ou distribuidor, você pode estabelecer uma parceria com revendedores indiretos para expandir seu alcance."
+description: Como um provedor indireto ou distribuidor, você pode estabelecer uma parceria com revendedores indiretos para expandir seu alcance.
 author: MaggiePucciEvans
-ms.openlocfilehash: a06ba13e11ce640ca7985090125270b4b62fb447
-ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
+ms.openlocfilehash: cc39be08953c88be2e55f6c53c41c1528f0c7493
+ms.sourcegitcommit: c51de6e6cbb71d11d31af21943583e9e17d66502
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/03/2017
+ms.lasthandoff: 03/12/2018
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Parceria com revendedores indiretos no programa de Provedor de Soluções na Nuvem
 
@@ -72,6 +72,7 @@ Dependendo do nível de acesso e envolvimento que deseja que o revendedor tenha,
 | **Para fazer isso** | **Faça isso** | **Onde** |
 |   ------------------   |   -------   |   -----   |
 | Habilitar o revendedor para gerenciar uma conta do cliente e ter permissões de administrador para gerenciar suas assinaturas | Associar um revendedor para uma conta do cliente ao adicionar um novo cliente | Na página **Novo cliente** |
+|Habilitar o revendedor para gerenciar uma conta de cliente do Azure|Associar um revendedor a uma conta de cliente do Azure ao adicionar um novo cliente|No **Portal de serviço do Azure**, selecione [Configurações de Usuário](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para fornecer permissões de **proprietário locatário** ao revendedor indireto|
 | Dê ao revendedor crédito para incentivos | Associar o revendedor à assinatura (nova ou existente) | Na página **Nova inscrição** |
 | Delegar atendimento ao cliente para assinaturas específicas ao revendedor | Selecione o revendedor da lista **Contato de suporte designados** | Na página de detalhes da assinatura: selecione o cliente em sua página **Clientes** e, em seguida, selecione a assinatura do cliente na página **Assinaturas** |
 

@@ -1,13 +1,13 @@
 ---
 title: Atribuir assinaturas do Azure no Partner Center | Partner Center
-description: "Agora você pode atribuir assinaturas do Azure aos seus clientes no Partner Center."
+description: Agora você pode atribuir assinaturas do Azure a seus clientes no Partner Center. Você também pode habilitá-los para que eles mesmos gerenciem as assinaturas.
 author: Labrenne
-keywords: Azure, assinatura do Azure, assinatura, assinaturas, atribuir assinatura
-ms.openlocfilehash: 3843c3146eefe5c54c763a4b136b9c52367546c5
-ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
+keywords: Azure, assinatura do Azure, assinatura, assinaturas, atribuir assinatura, gerenciar assinatura do Azure
+ms.openlocfilehash: 718ad562fe62e84621d40d289027b71ec7928069
+ms.sourcegitcommit: 8b533bc6cee8d98fee29e5b34f49f52c78a7952c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/01/2018
+ms.lasthandoff: 03/01/2018
 ---
 # <a name="assign-azure-subscriptions-in-partner-center"></a>Atribuir assinaturas do Azure no Partner Center
 
@@ -34,5 +34,17 @@ O provisionamento do Azure é como o provisionamento de assinaturas baseadas em 
 7. Selecione **Adicionar** para adicionar um usuário à assinatura. 
 
 8. Depois de adicionar o usuário à assinatura, você poderá atribuir ao usuário uma função e à conta específica ao qual o usuário terá acesso. 
+
+**Permitir que os clientes gerenciem suas assinaturas do Azure**
+
+Depois de criar uma assinatura do Microsoft Azure para um cliente, você poderá permitir que ele gerencie a assinatura. Para fazer isso, você precisará fazer logon no Portal de Gerenciamento do Microsoft Azure. 
+
+1.  Para abrir o Portal do Azure do cliente, expanda a listagem do cliente em sua lista de clientes ou selecione o nome do cliente e, em seguida, selecione **Portal de Gerenciamento do Microsoft Azure**.
+    
+ >**Observação** <br> Se receber uma solicitação para fazer logon no Portal do Azure, talvez você não tenha privilégios administrativos delegados. Selecione **Solicite um relacionamento** para convidar o cliente para identificar você como seu Parceiro de Registro. Depois que o cliente aceitar seu convite, você receberá automaticamente os privilégios administrativos delegados. 
+
+2.  No Portal do Azure, abra a lista de assinaturas do cliente e selecione a assinatura do Azure do cliente.
+
+3.  Atribua uma função a qualquer um dos usuários do cliente para que ele possa criar e gerenciar recursos em sua assinatura.
 
 
