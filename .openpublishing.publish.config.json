@@ -1,7 +1,5 @@
 {
   "build_entry_point": "op",
-  "need_generate_pdf": false,
-  "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
       "docset_name": "partner-center",
@@ -36,6 +34,7 @@
   ],
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
+  "contribution_branch_mappings": {},
   "dependent_repositories": [
     {
       "path_to_root": "_themes.MSDN.PartnerCenter",
@@ -51,7 +50,17 @@
         "live": "live",
         "master": "master"
       }
+    },
+    {
+      "path_to_root": "_themes",
+      "url": "https://github.com/Microsoft/templates.docs.msft.pt-br",
+      "branch": "master",
+      "branch_mapping": {}
     }
   ],
-  "need_generate_pdf_url_template": false
+  "branch_target_mapping": {},
+  "need_generate_pdf_url_template": false,
+  "targets": {},
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false
 }
