@@ -18,6 +18,8 @@
       "build_source_folder": "china",
       "build_output_subfolder": "partner-china-dynamic",
       "locale": "pt-br",
+      "monikers": [],
+      "moniker_ranges": [],
       "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content",
