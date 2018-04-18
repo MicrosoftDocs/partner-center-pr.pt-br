@@ -6,6 +6,8 @@
       "build_source_folder": "partner-center",
       "build_output_subfolder": "partner-center",
       "locale": "pt-br",
+      "monikers": [],
+      "moniker_ranges": [],
       "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content",
