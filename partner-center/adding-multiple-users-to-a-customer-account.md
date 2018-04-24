@@ -1,14 +1,14 @@
 ---
-title: "Criar vários usuários para uma conta de cliente | Partner Center"
-description: "Você pode adicionar vários usuários a uma conta do cliente de uma vez, carregando um arquivo de dados em formato de arquivo de valores separados por vírgula (.csv) no Partner Center."
+title: Criar vários usuários para uma conta de cliente | Partner Center
+description: Você pode adicionar vários usuários a uma conta do cliente de uma vez, carregando um arquivo de dados em formato de arquivo de valores separados por vírgula (.csv) no Partner Center.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
-keywords: "upload em massa, adicionar vários usuários a uma conta do cliente, adicionar usuários do cliente, upload em massa de usuários do cliente, conta do cliente, usuários do cliente, usuários"
-ms.openlocfilehash: b360ced878973cde19b1a6aa8470ac4218ea6773
-ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
+keywords: upload em massa, adicionar vários usuários a uma conta do cliente, adicionar usuários do cliente, upload em massa de usuários do cliente, conta do cliente, usuários do cliente, usuários
+ms.openlocfilehash: 2c695cd6c6e3b302d91730638358616ca3465188
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/08/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Adicionar vários usuários a uma conta do cliente
 
@@ -16,7 +16,7 @@ ms.lasthandoff: 12/08/2017
 
 -  Partner Center
 
-Você pode adicionar vários usuários a uma conta do cliente de uma vez, carregando um arquivo de dados em formato de arquivo de valores separados por vírgula (.csv) no Partner Center. Você pode baixar um arquivo de dados de exemplo do Partner Center e editá-lo para seu uso, ou pode criar um novo arquivo de dados usando o modelo de dados definido abaixo.
+Você pode adicionar vários usuários a uma conta do cliente de uma vez, carregando um arquivo de dados no formato de arquivo de valores separados por vírgula (.csv) no Painel de Parceiros. Você pode baixar um arquivo de dados de exemplo do Painel de Parceiros e editá-lo para seu uso, ou pode criar um novo arquivo de dados usando o modelo de dados definido abaixo.
 
 ## <a href="" id="creatingtheimportcsvfile"></a>Requisitos de arquivo de dados:
 
@@ -36,7 +36,7 @@ Insira os seguintes dados no arquivo de dados:
 | **Nome da coluna** | **Descrição**                                                              | **Limitação**                             |
 | Nome      | Nome do usuário (campo opcional)                                           | Limite de 50 caracteres                         |
 | Sobrenome       | Sobrenome do usuário (campo opcional)                                            | Limite de 50 caracteres                         |
-| Nome de exibição    | Nome exibido no Partner Center (campo obrigatório)                            | Limite de 50 caracteres                         |
+| Nome de exibição    | Nome exibido no Painel de Parceiros (campo obrigatório)                            | Limite de 50 caracteres                         |
 | Email           | Endereço de email comercial do usuário na empresa do cliente (campo obrigatório)           | Cada usuário deve ter um endereço de email exclusivo |
 | Atualização de status   | Usado para indicar se o novo registro de usuário foi ou não criado com êxito | \*\*Deixar em branco\* \ *                        |
 
@@ -56,13 +56,13 @@ Insira os seguintes dados no arquivo de dados:
 
      
 
-7.  Depois que o Partner Center validar o arquivo, selecione a **localização** geográfica dos novos usuários.
+7.  Depois que o Painel de Parceiros validar o arquivo, selecione a **Localização** geográfica dos novos usuários.
 8.  Selecione **Salvar**.
 9.  Baixe as informações de senha temporária dos usuários.
 
 **IMPORTANTE:** Certifique-se de baixar o arquivo com as senhas temporárias agora, pois não será possível fazer isso mais tarde. Os novos usuários devem fazer logon em suas novas contas usando a respectiva senha temporária.
 
-O Partner Center atribui automaticamente a permissão **Pode usar licenças e serviços** aos novos usuários.
+O Painel de Parceiros atribui automaticamente a permissão **Pode usar licenças e serviços** aos novos usuários.
 
  
 

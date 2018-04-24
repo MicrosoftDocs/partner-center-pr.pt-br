@@ -1,14 +1,14 @@
 ---
-title: "Adicionar licenças ou serviços a uma assinatura existente | Partner Center"
-description: "Se seu cliente precisar de mais licenças do que as fornecidas pela assinatura atual ou de uma versão diferente com serviços adicionais, você poderá fazer upgrade da assinatura."
+title: Adicionar licenças ou serviços a uma assinatura existente | Partner Center
+description: Se seu cliente precisar de mais licenças do que as fornecidas pela assinatura atual ou de uma versão diferente com serviços adicionais, você poderá fazer upgrade da assinatura.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
-keywords: "adicionar licenças à assinatura existente, adicionar estações à assinatura existente, modificar uma assinatura, alterar uma assinatura, comprar mais licenças para um cliente"
-ms.openlocfilehash: c5d5a2e57385a46b6f64d7632593735e026f0dcb
-ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
+keywords: adicionar licenças à assinatura existente, adicionar estações à assinatura existente, modificar uma assinatura, alterar uma assinatura, comprar mais licenças para um cliente
+ms.openlocfilehash: 1f23892efab9e00fa492eb96d894763276bf673a
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/08/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Adicionar licenças ou serviços a uma assinatura existente
 
@@ -88,7 +88,7 @@ Para saber mais sobre o impacto disso na cobrança, consulte os detalhes sobre c
 1.  Para ver se uma assinatura é qualificada para atualização, escolha seu cliente e abra a lista de assinaturas dele.
 2.  Se a assinatura pode ser atualizada, você verá um ícone informativo logo após o nome de assinatura. Passe o mouse sobre esse ícone e selecione **Atualizar agora**.
 3.  Selecione a oferta de nova, em seguida, escolha **Enviar**.
-4.  Pode haver trabalho adicional para a transição de algumas contas de usuário para determinados serviços. Em caso afirmativo, o Partner Center fornece uma lista de contas e serviços que foram afetados. Para obter ajuda, consulte o artigo da base de dados de conhecimento [Problemas ao reatribuir licenças enquanto você alterna planos no Office 365](http://go.microsoft.com/fwlink/p/?LinkId=723576).
+4.  Pode haver trabalho adicional para a transição de algumas contas de usuário para determinados serviços. Em caso afirmativo, o Painel de Parceiros fornece uma lista de contas e serviços que foram afetados. Para obter ajuda, consulte o artigo da base de dados de conhecimento [Problemas ao reatribuir licenças enquanto você alterna planos no Office 365](http://go.microsoft.com/fwlink/p/?LinkId=723576).
 
  
 

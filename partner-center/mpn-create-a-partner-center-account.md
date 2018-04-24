@@ -1,12 +1,12 @@
 ---
 title: Criar uma conta do Partner Center | Partner Center
-description: "Os membros do Microsoft Partner Network precisam criar contas do Partner Center para gerenciar seus benefícios e competências de rede e criar um perfil de negócios."
+description: Os membros do Microsoft Partner Network precisam criar contas do Partner Center para gerenciar seus benefícios e competências de rede e criar um perfil de negócios.
 author: MaggiePucciEvans
-ms.openlocfilehash: 3020524ba6f41af31001a808af1d7a1aa394592a
-ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
+ms.openlocfilehash: 3b1d54e3d95a7ea1bcad0643e685d9313c6ed978
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/28/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="create-a-partner-center-account"></a>Criar uma conta do Partner Center
 
@@ -18,7 +18,7 @@ ms.lasthandoff: 11/28/2017
 
 Este artigo explica como criar uma conta do Partner Center e destina-se a parceiros que estejam migrando as informações de associação de rede de parceiro do Partner Membership Center para o Partner Center. 
 
-Antes de criar uma conta no Partner Center, sua empresa deve ser membro do Microsoft Partner Network. Se não for um membro da rede, você pode [se inscrever agora](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx). [Saiba mais](https://partner.microsoft.com/membership) sobre parceria no Microsoft Partner Network.  
+Antes de criar uma conta no Partner Center, sua empresa deve ser membro do Microsoft Partner Network. Se não for um membro da rede, você pode [se inscrever agora](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx).  [Saiba mais](https://partner.microsoft.com/membership) sobre parceria no Microsoft Partner Network.  
 
 Depois de criar uma conta do Partner Center, você poderá:
 
@@ -64,9 +64,9 @@ Iremos verificar essas informações durante o processo de criação de conta.
 
 5.  Verifique se você foi adicionado ao grupo de agente administrador. Para concluir a configuração de sua conta, incluindo a adição de outros usuários, você deve ter permissões de agente administrador. Siga estas etapas para exibir ou atualizar suas permissões:
 
-    a. No menu **Painel**, selecione **Configurações da conta > Gerenciamento de usuário** e selecione seu nome na lista de usuários. 
+    a. Em seu **Painel**, selecione o ícone **Configurações** e então selecione **Gerenciamento de usuários**.  
 
-    b. Selecione **Agente administrador** se ainda não estiver selecionado e, em seguida, selecione **Atualizar**. 
+    b. Selecione seu nome na lista de usuários e então selecione **Agente administrativo** se ainda não estiver selecionado. Selecione **Atualizar**.  
 
 ## <a name="next-steps"></a>Próximas etapas
 

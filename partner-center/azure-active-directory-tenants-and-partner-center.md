@@ -1,16 +1,16 @@
 ---
 title: Contas corporativas e Partner Center | Partner Center
-description: "Para criar uma conta do Partner Center, sua empresa deverá ter uma conta de trabalho."
+description: Para criar uma conta do Partner Center, sua empresa deverá ter uma conta de trabalho.
 author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
-robots: 
-ms.openlocfilehash: 91ee16676e6525180c5ed4351ca502914d98b65b
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+robots: ''
+ms.openlocfilehash: 347a884c1ea752b892c64d2c1bf9bb40629f8f6e
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
-# <a name="your-company-work-account-and-partner-center"></a>Sua conta corporativa e o Partner Center  
+# <a name="your-company-work-account-and-the-partner-dashboard"></a>Sua conta de trabalho corporativa e o Painel de Parceiros  
 
 **Aplicável ao**
 
@@ -18,11 +18,11 @@ ms.lasthandoff: 12/21/2017
 
 ## <a name="why-you-need-a-work-account"></a>Por que você precisa de uma conta corporativa
 
-Precisamos vincular a conta corporativa da empresa à sua nova conta do Partner Center para que os usuários da conta possam entrar no Partner Center com os nomes de usuário e senhas da conta corporativa.
+Precisamos vincular a conta corporativa da empresa à sua nova conta do Painel de Parceiros para que os usuários da conta possam entrar no Painel de Parceiros com os nomes de usuário e senhas da conta corporativa.
 
-Se a sua empresa já tiver uma conta corporativa, você pode vinculá-la à sua conta do Partner Center. 
+Se a sua empresa já tiver uma conta corporativa, você pode vinculá-la à sua conta do Painel de Parceiros. 
 
->**Observação** Antes de decidir usar uma conta corporativa existente, pense sobre quantos usuários da conta precisarão trabalhar no Partner Center. Se você tiver usuários na conta que não precisam trabalhar no Partner Center, considere criar uma nova conta somente para os usuários que precisem trabalhar no Partner Center.
+>**Observação** Antes de decidir usar uma conta corporativa existente, pense sobre quantos usuários da conta precisarão trabalhar no Painel de Parceiros. Se você tiver usuários na conta que não precisam trabalhar no Painel de Parceiros, considere criar uma nova conta somente para os usuários que precisem trabalhar no Painel de Parceiros.
 
 Se a sua empresa ainda não tiver uma conta de trabalho, você poderá criar uma durante o processo de inscrição. 
 

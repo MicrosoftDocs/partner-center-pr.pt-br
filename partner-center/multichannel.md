@@ -1,13 +1,13 @@
 ---
 title: Multi-canal | Partner Center
-description: "Em alguns casos, os clientes talvez queiram contratar você para provisionar e dar suporte a uma assinatura que eles compraram em outro lugar."
+description: Em alguns casos, os clientes talvez queiram contratar você para provisionar e dar suporte a uma assinatura que eles compraram em outro lugar.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
-ms.openlocfilehash: 2f0354c8e8e0f80bd42af363dc86b829b96b9bbf
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.openlocfilehash: bbba14ec95a99ad2f36cf9173d43fb244d3ca677
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="multi-channel-support"></a>Suporte multi-canal
 
@@ -17,7 +17,7 @@ ms.lasthandoff: 06/09/2017
 -  Partner Center do Microsoft Cloud for US Government
 -  Partner Center for Microsoft Cloud Germany
 
-Recurso multi-canal do Partner Center oferece suporte a cenários em que um cliente quer realizar a contratação de um parceiro para gerenciar e dar suporte a uma assinatura que ele comprou em outro lugar. O suporte multi-canal se aplica quando o cliente:
+O recurso multicanal do Painel de Parceiros oferece suporte a cenários em que um cliente quer realizar a contratação de um parceiro para gerenciar e dar suporte a uma assinatura que ele comprou em outro lugar. O suporte multi-canal se aplica quando o cliente:
 
 -   Já tiver comprado assinaturas da Microsoft diretamente ou através dos programas Advisor, Open ou EA.
 
@@ -45,7 +45,7 @@ Recurso multi-canal do Partner Center oferece suporte a cenários em que um clie
 </table>
 
 >**Importante**<br>
-Um parceiro CSP não revende serviços online para outro parceiro CSP no momento. A Microsoft examina continuamente as políticas e os recursos de todos os programas. Quaisquer anúncios sobre as versões de recurso serão anunciados por meio dos canais de comunicação normais, incluindo o Partner Center. 
+Um parceiro CSP não revende serviços online para outro parceiro CSP no momento. A Microsoft examina continuamente as políticas e os recursos de todos os programas. Quaisquer anúncios sobre as versões de recurso serão anunciados por meio dos canais de comunicação normais, incluindo o Painel de Parceiros. 
 
 ## <a name="see-also"></a>Veja também
 

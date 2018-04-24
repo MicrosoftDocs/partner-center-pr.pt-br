@@ -1,12 +1,12 @@
 ---
 title: Participe do Microsoft Partner Network| Partner Center
-description: "Adquira o Microsoft Action Pack e obtenha competências no Partner Center"
+description: Adquira o Microsoft Action Pack e obtenha competências no Partner Center
 author: labrenne
-ms.openlocfilehash: cf9ac91a4d8ad7a642863693c5db2193e12f25d9
-ms.sourcegitcommit: eca4ff8ce011fb5c687b333e5d08d085df2f5dcb
+ms.openlocfilehash: e4a6ecccb4831075ee7d2852eb9998b0a1eaa3f1
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/12/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Participe do Microsoft Partner Network (MPN)
 
@@ -15,11 +15,11 @@ ms.lasthandoff: 12/12/2017
 -  Partner Center
 -  Microsoft Partner Network
 
-## <a name="new-to-partner-center"></a>Novo no Partner Center
+## <a name="new-to-the-partner-dashboard"></a>Novo no Painel de Parceiros
 
- A parceria com a Microsoft proporciona o acesso a novas oportunidades para transformar seus negócios. No Partner Center, é possível adquirir e renovar o Microsoft Action Pack. Além disso, você tem fácil acesso a informações sobre competências e como obtê-las.
+ A parceria com a Microsoft proporciona o acesso a novas oportunidades para transformar seus negócios. No Painel de Parceiros, é possível adquirir e renovar o Microsoft Action Pack. Além disso, você tem fácil acesso a informações sobre competências e como obtê-las.
 
- Estamos convidando gradualmente os nossos parceiros a gerenciar sua afiliação ao Partner Center em suas datas de aniversário do MAPS ou de Competência, bem como quando os recursos principais do Partner Center estiverem disponíveis e atenderem comprovadamente as necessidades de seus negócios.  Por enquanto, planeje a renovação e o gerenciamento da sua afiliação ao PMC (Partner Membership Center) até receber um convide para mudar.
+ Estamos convidando gradualmente os nossos parceiros a gerenciar sua afiliação ao Painel de Parceiros em suas datas de aniversário do MAPS ou de Competência, bem como quando os recursos principais do Painel de Parceiros estiverem disponíveis e atenderem comprovadamente as necessidades de seus negócios.  Por enquanto, planeje a renovação e o gerenciamento da sua afiliação ao PMC (Partner Membership Center) até receber um convide para mudar.
 
 ## <a name="get-your-mpn-id"></a>Obter sua ID do MPN
 
@@ -51,7 +51,7 @@ Como um membro do Network nesse nível básico e gratuito, você recebe um conju
 |**Para fazer isso**   |**Leia isto**   |
 |------------------|:---------------|
 |Torne-se um parceiro da Microsoft|[Associação: como funciona](https://partner.microsoft.com/membership/how-it-works)|
-Gerenciar sua associação ao Microsoft Partner Network no Partner Center   |[Gerencie sua associação ao Microsoft Partner Network](mpn-overview.md)
+Gerenciar sua associação ao Microsoft Partner Network no Painel de Parceiros   |[Gerencie sua associação ao Microsoft Partner Network](mpn-overview.md)
 |Adquirir o Action Pack   |[Adquira ou renove o Microsoft Action Pack](https://msdn.microsoft.com/partner-center/mpn-get-action-pack)|
 |Obter competências Silver ou Gold   |[Requisitos de competência para associações Silver e Gold](https://msdn.microsoft.com/en-us/partner-center/learn-about-competencies)|
 |Considere a possibilidade de participar do programa Provedor de Soluções na Nuvem|[Provedor de Soluções na Nuvem - vender soluções de nuvem em demanda](csp-overview.md)|

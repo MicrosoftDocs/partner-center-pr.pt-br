@@ -1,14 +1,14 @@
 ---
-title: "Atribuir licenças a vários usuários ou revogá-las | Partner Center"
-description: "Você pode atribuir licenças e serviços a um usuário ou a vários usuários ao mesmo tempo em uma conta de cliente e revogar atribuições de licença para os usuários."
+title: Atribuir licenças a vários usuários ou revogá-las | Partner Center
+description: Você pode atribuir licenças e serviços a um usuário ou a vários usuários ao mesmo tempo em uma conta de cliente e revogar atribuições de licença para os usuários.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 Keywords: assign license, revoke license, assign to multiple users,
-ms.openlocfilehash: 513e2336d831095fcabc408db5fc467d8e909e36
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: e8116e5955fee38b628d72740ffc3d376115aad8
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Atribuir licenças a vários usuários ou revogá-las
 
@@ -18,7 +18,7 @@ ms.lasthandoff: 12/21/2017
 
 Você pode atribuir licenças e serviços a um usuário ou a vários usuários ao mesmo tempo em uma conta de cliente e revogar atribuições de licença para os usuários.
 
-O Partner Center rastreia e mostra todos os direitos de licença de propriedade do cliente.
+O Painel de Parceiros rastreia e mostra todos os direitos de licença de propriedade do cliente.
 
 ## <a name="in-this-section"></a>Nesta seção
 
@@ -55,7 +55,7 @@ O Partner Center rastreia e mostra todos os direitos de licença de propriedade 
 7.  Selecione mais de um produto para os usuários marcando a caixa de seleção de cada produto.
     -   Selecione **Exibir planos de serviço** para qualquer produto, para ver e selecionar os planos de serviço de que os usuários precisam.
 
-8.  Selecione **Salvar**. O Partner Center abrirá uma página de confirmação **Licenças atualizadas** listando os usuários e suas novas licenças.
+8.  Selecione **Salvar**. O Painel de Parceiros abrirá uma página de confirmação **Licenças atualizadas** listando os usuários e suas novas licenças.
 
 **Observação**  Alguns produtos da Microsoft podem não estar disponíveis em determinados locais. Outros produtos dependem de outros produtos ou serviços ou não podem ser atribuídos em conjunto ao mesmo usuário. Depois de salvar, a página de confirmação listará os resultados da atribuição de licença bem-sucedida para todos os usuários e quaisquer erros da atribuição de licença.
 

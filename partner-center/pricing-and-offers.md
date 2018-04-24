@@ -1,12 +1,12 @@
 ---
-title: "Preços e ofertas | Partner Center"
-description: 
+title: Preços e ofertas | Partner Center
+description: ''
 author: labrenne
-ms.openlocfilehash: 64a7b6c3f23a2597bd04398fb553f6049e038925
-ms.sourcegitcommit: 6a45b607b9031843b6652e4c7b4f055dd265bb89
+ms.openlocfilehash: 6ab870da8008d72751956c2f2a103c638ed393f7
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/01/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="pricing-and-offers"></a>Preços e ofertas
 
@@ -14,15 +14,15 @@ ms.lasthandoff: 11/01/2017
 
 -  Partner Center
 
-Para ver as últimas listas de preços e ofertas do programa Provedor de Soluções na Nuvem, acesse **Painel > Preços e ofertas**. Você encontrará listas de preços distintas para serviços baseados em licença, como o Office 365, o Microsoft Dynamics CRM e o Enterprise Mobility Suite, e para serviços baseados em uso, como o Azure. 
+Para ver as últimas listas de preços e ofertas do programa Provedor de Soluções na Nuvem, acesse **Vender > Preços e ofertas**. Você encontrará listas de preços distintas para serviços baseados em licença, como o Office 365, o Microsoft Dynamics CRM e o Enterprise Mobility Suite, e para serviços baseados em uso, como o Azure. 
 
-A lista de ofertas inclui as diferentes famílias de produtos que podem ser compradas por meio do Partner Center. Atualmente, elas incluem o Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM e Microsoft Azure. Essa lista ficará maior.
+A lista de ofertas inclui as diferentes famílias de produtos que podem ser compradas por meio do Painel de Parceiros. Atualmente, elas incluem o Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM e Microsoft Azure. Essa lista ficará maior.
 
 Dentro de cada uma dessas famílias de produtos há diferentes SKUs e pacotes de produtos disponíveis para venda dependendo dos seus negócios. Você pode acessar os últimos detalhes sobre cada um deles usando a Matriz de Ofertas para Revendedores de Serviços na Nuvem que está disponível na página Preços e ofertas.
 
 ## <a name="pricelist-preview-and-change-frequency"></a>Prévia da lista de preços e frequência de alteração 
 
-Serviços baseados em licença incluem uma prévia da lista de preços, fornecida 30 dias antes de quaisquer alterações. Para acessar a prévia da lista de preços, vá para **Painel > Preços e ofertas**. Não há prévia de preços para serviços baseados em uso, pois eles são dinâmicos. A tabela a seguir explica como ler a tabela com a lista de preços.
+Serviços baseados em licença incluem uma prévia da lista de preços, fornecida 30 dias antes de quaisquer alterações. Para acessar a prévia da lista de preços, vá para **Vender > Preços e ofertas**. Não há prévia de preços para serviços baseados em uso, pois eles são dinâmicos. A tabela a seguir explica como ler a tabela com a lista de preços.
 
 |**Item**        |**Definição**      |
 |:-----------   |:-----------   |
@@ -45,8 +45,8 @@ Serviços baseados em licença incluem uma prévia da lista de preços, fornecid
 
 Leia sobre os diferentes pacotes de produtos e SKUs disponíveis para você vender na Matriz de ofertas para revendedores de serviços na nuvem, localizada na página Preços e ofertas. A matriz de ofertas inclui quais ofertas estão disponíveis por localidade. Se um item estiver na lista de preços, mas ainda não estiver listado na matriz de ofertas, isso significa que ele ainda não pode ser adquirido. Assim que ele estiver disponível para compra, a matriz de ofertas será atualizada.
 
-Para parceiros CSP que usam os Software Development Kits (SDKs) do Partner Center. A Microsoft também publica uma lista dos Serviços do Azure no CSP na página Preços e ofertas.
+Para parceiros CSP que usam os Software Development Kits (SDKs) do Painel de Parceiros. A Microsoft também publica uma lista dos Serviços do Azure no CSP na página Preços e ofertas.
 
 ### <a name="offers-matrix-and-pricelist-questions"></a>Perguntas sobre a matriz de ofertas e a lista de preços
 
-Se você tiver dúvidas sobre a lista de preços ou a matriz de ofertas, envie uma solicitação de serviço por meio do Partner Center.
+Se você tiver dúvidas sobre a lista de preços ou a matriz de ofertas, envie uma solicitação de serviço por meio do Painel de Parceiros.

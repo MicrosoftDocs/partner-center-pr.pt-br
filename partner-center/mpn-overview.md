@@ -1,13 +1,13 @@
 ---
-title: "Associação do Microsoft Partner Network | Partner Center"
-description: "Saiba mais sobre os benefícios de ingressar no Microsoft Partner Network."
+title: Associação do Microsoft Partner Network | Partner Center
+description: Saiba mais sobre os benefícios de ingressar no Microsoft Partner Network.
 author: MaggiePucciEvans
-keywords: "parceiro, parceria, MPN, Microsoft Partner Network, action pack, MAPS, assinatura do action pack, benefícios, benefícios do MPN, associação"
-ms.openlocfilehash: 55781109f58c424ee7bdbd5be80ca13cc49f612b
-ms.sourcegitcommit: d5d74de145732384470224d79ed34dcdb8714104
+keywords: parceiro, parceria, MPN, Microsoft Partner Network, action pack, MAPS, assinatura do action pack, benefícios, benefícios do MPN, associação
+ms.openlocfilehash: b6e50f92769aeafa4a06671ef7372b1aac9ac80a
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/07/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="partner-with-microsoft"></a>Faça parceria com a Microsoft
 
@@ -36,15 +36,15 @@ O Microsoft Partner Network oferece três tipos de associação. Cada tipo ofere
     [Saiba mais sobre como obter competências Silver e Gold](https://partner.microsoft.com/membership/competencies)
 
    
-## <a name="get-started-with-partner-center"></a>Introdução ao Partner Center
+## <a name="get-started-with-the-partner-dashboard"></a>Introdução ao Painel de Parceiros
 
-Para facilitar a parceria com a Microsoft e para ajudar a economizar tempo e dinheiro, estamos trabalhando nos bastidores para migrar funcionalidades, recursos e fluxos de trabalho que estão atualmente espalhados em vários sites e ferramentas para o Partner Center, este site. 
+Para facilitar a parceria com a Microsoft e para ajudar a economizar tempo e dinheiro, estamos trabalhando nos bastidores para migrar funcionalidades, recursos e fluxos de trabalho que estão atualmente espalhados em vários sites e ferramentas para o Painel de Parceiros, este site. 
 
-Conforme migramos recursos específicos para o Partner Center, estamos desativando os sites herdados que costumavam abrigá-los. Para continuar a aproveitar esses recursos, você precisará criar uma conta neste site, o Partner Center. 
+Conforme migramos recursos específicos para o Painel de Parceiros, estamos desativando os sites herdados que costumavam abrigá-los. Para continuar a aproveitar esses recursos, você precisará criar uma conta neste site, o Painel de Parceiros. 
 
-Por exemplo, se você recebia e gerenciava indicações no Pinpoint, esse site foi desativado e todos os recursos relacionados a indicações agora estão no Partner Center. Siga as seguintes etapas para começar no Partner Center:   
+Por exemplo, se você recebia e gerenciava indicações no Pinpoint, esse site foi desativado e todos os recursos relacionados a indicações agora estão no Painel de Parceiros. Siga as seguintes etapas para obter uma introdução ao Painel de Parceiros:   
 
--   [Crie uma conta do Partner Center](mpn-create-a-partner-center-account.md)
+-   [Criar uma conta do Painel de Parceiros](mpn-create-a-partner-center-account.md)
 
 -   [Crie um perfil de negócios para obter indicações de clientes](create-a-marketing-profile.md)
 

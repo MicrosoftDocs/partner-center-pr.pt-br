@@ -1,13 +1,13 @@
 ---
-title: "Aumentar a adoção e a satisfação | Partner Center"
-description: "Nossos parceiros usam muitos métricas para avaliar se seus negócios estão crescendo e onde concentrar o investimento. O Partner Center pode ajudar informando se e como os clientes estão usando as licenças adquiridas."
+title: Aumentar a adoção e a satisfação | Partner Center
+description: Nossos parceiros usam muitos métricas para avaliar se seus negócios estão crescendo e onde concentrar o investimento. O Partner Center pode ajudar informando se e como os clientes estão usando as licenças adquiridas.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-ms.openlocfilehash: cecf3c02ea52e61eb33bb39014b746dc89aa6ca7
-ms.sourcegitcommit: b17c993da73815632ad62d9a8ff0d505673d07b3
+ms.openlocfilehash: 1273572052afb076cf34a090f32ba7aca72d6d85
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/02/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Aumentar a adoção e a satisfação
 
@@ -26,11 +26,11 @@ Você pode ver dados de todos os seus clientes por meio do programa Provedor de 
 
 **Para um único cliente**
 
--   Selecione **Clientes** no menu Partner Center, escolha um cliente e, em seguida, selecione **Percepções do cliente**.
+-   Selecione **Clientes** no menu **Painel**, escolha um cliente e, em seguida, selecione **Percepções do cliente**.
 
 **Em seu portfólio**
 
-1.  No **Painel** do Partner Center, role para baixo até a seção **Análises de licença do Office**.
+1.  No **Painel**, selecione **Analisar**.
 2.  Baixe os dados de implantação e uso de todo o seu conjunto de clientes selecionando as opções de **exportação**.
 
 Terminologia:

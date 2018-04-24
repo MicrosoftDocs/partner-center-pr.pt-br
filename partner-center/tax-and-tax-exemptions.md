@@ -1,13 +1,13 @@
 ---
-title: "Impostos e isenções fiscais | Partner Center"
-description: "Como o Provedor de Soluções na Nuvem é um canal de vendas concentrado na revenda de produtos do parceiro, a Microsoft nem sempre precisa cobrar impostos sobre vendas em faturas de parceiros."
+title: Impostos e isenções fiscais | Partner Center
+description: Como o Provedor de Soluções na Nuvem é um canal de vendas concentrado na revenda de produtos do parceiro, a Microsoft nem sempre precisa cobrar impostos sobre vendas em faturas de parceiros.
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
-ms.openlocfilehash: 91a25481aa3074166a2010ef3e309767183829f0
-ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
+ms.openlocfilehash: bc1bee6104c5eb7f540e9379305764d9b040fb6b
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="tax-and-tax-exemptions"></a>Impostos e isenções fiscais
 
@@ -23,7 +23,7 @@ Como o Provedor de Soluções na Nuvem é um canal de vendas concentrado na reve
 
 1.  Procure sua **ID da Microsoft**, no menu Painel &gt; **Configurações da conta** &gt; **Perfil da organização**.
 2.  Procure sua **ID do MPN**, no menu Painel &gt; **Configurações da conta** &gt; **Perfil do parceiro**.
-3.  Crie um novo tíquete de suporte. No menu Painel, selecione **Tíquetes de suporte** &gt; **Tíquetes do Partner Center** &gt; **Novo tíquete**.
+3.  Crie um novo tíquete de suporte. No menu Painel, selecione **Solicitações de serviço** &gt; **Solicitações do Partner Center** &gt; **Nova solicitação**.
 4.  Preencha o formulário. Para o **Tipo de problema**, escolha **Não é possível gerenciar meu perfil**. Na descrição, inclua sua ID do MPN e a ID da Microsoft.
 5.  Depois de enviar o tíquete, a Microsoft enviará um email a você para obter mais informações. Ao responder, anexe a documentação de apoio apropriada para os certificados de isenção de imposto.
 

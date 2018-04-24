@@ -1,14 +1,14 @@
 ---
 title: Exibir logs de atividades do cliente | Partner Center
-description: "Os logs de atividades fornecem informações sobre transações e ações de gerenciamento de parceiros para clientes."
+description: Os logs de atividades fornecem informações sobre transações e ações de gerenciamento de parceiros para clientes.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
-ms.openlocfilehash: b877143abdc07dc0f6e23ef33ee64cd72afda11e
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: ae5ac419d505984f5f955ddaad62acbf19d16dfa
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="view-customer-activity-logs"></a>Exibir logs de atividades do cliente
 
@@ -32,7 +32,7 @@ Os logs de atividades fornecem registros de ações de parceiros em contas de cl
 
     Selecione uma seta para baixo para qualquer log de atividades para ver os detalhes sobre uma ação registrada. Um único log de atividades pode mostrar uma quantidade significativa de dados, como a solicitação de vários produtos.
 
-3.  Selecione **Exportar log**. O Partner Center converte os dados de assinatura do cliente em um arquivo .csv e o carrega na pasta de download padrão em seu computador. As colunas de dados incluem o seguinte:
+3.  Selecione **Exportar log** para copiar os dados de assinatura do cliente em um arquivo .csv e o baixa na pasta de download padrão em seu computador. As colunas de dados incluem o seguinte:
     -   **Cliente afetado** — nome da empresa do cliente;
     -   **Ação** — o nome do produto da assinatura;
     -   **Usuário parceiro** — o parceiro associado à atividade;

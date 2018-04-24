@@ -4,11 +4,11 @@ Description: If your customer is experiencing a service problem that you can''t 
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
-ms.openlocfilehash: af69b2fd3ad63e9b926afbb6ffef3cf575c5e997
-ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
+ms.openlocfilehash: 5e1cbd1a6db707ddb2cecb7c9e8d59bfa828f6be
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/01/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Relatar problemas em nome de um cliente
 
@@ -22,11 +22,11 @@ Se o cliente está tendo um problema de serviço que você não consegue resolve
 
 **Envie uma solicitação de serviço por um cliente**
 
-1.  No menu **Painel**, selecione **Clientes**. Escolha um cliente na lista.
+1.  Do menu **Painel**, selecione **Solicitações de serviço** e então **Solicitação do cliente**. 
 
-2.  No menu do cliente, selecione **Gerenciamento de serviços**.
+2.  Na página Solicitações do cliente, pesquise o cliente desejado.
 
-3.  Para o serviço com problemas, selecione **Criar ou exibir solicitação de serviço**. Você será redirecionado para o portal do Microsoft Azure ou o Centro de Administração do Office 365.
+3.  Do menu suspenso **Nova solicitação**, selecione **Azure** ou **Office 365, Dynamics 365, Enterprise Mobility Suite**. Você será redirecionado para o portal do Microsoft Azure ou o Centro de Administração do Office 365.
 
 **Microsoft Azure**
 

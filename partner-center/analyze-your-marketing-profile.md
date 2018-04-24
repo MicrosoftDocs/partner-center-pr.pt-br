@@ -1,13 +1,13 @@
 ---
-title: "Analisar a eficácia do seu perfil de negócios | Partner Center"
-description: "Avaliar, negociar e responder a indicações por meio do Partner Center."
+title: Analisar a eficácia do seu perfil de negócios | Partner Center
+description: Avaliar, negociar e responder a indicações por meio do Partner Center.
 author: KPacquer
 robots: noindex,nofollow
-ms.openlocfilehash: 508d1ec16a1b58a9bf98dd5bfba013d2d3e04c57
-ms.sourcegitcommit: 6a45b607b9031843b6652e4c7b4f055dd265bb89
+ms.openlocfilehash: 15050124e65f7740a4f76eb075ad7701ed918154
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/01/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>Analisar a eficácia do seu perfil de negócios
 <!-- 
@@ -24,7 +24,7 @@ Depois de divulgar o [perfil de negócios](create-a-marketing-profile.md) da sua
 
 Quando [responder a essas referências](responding-to-referrals.md), você começará a obter dados sobre quantos desses RFIs são transformados em transações de negócios decisivas.
 
-Use esses relatórios ao refinar seus perfis de negócios para gerar mais clientes potenciais e mais clientes potenciais relevantes. Seus dados mostram o desempenho do perfil, analisam tendências e identificam as áreas que exigem ação. No Painel do From the Partner, vá até **Indicações > Páginas de marketing**.
+Use esses relatórios ao refinar seus perfis de negócios para gerar mais clientes potenciais e mais clientes potenciais relevantes. Seus dados mostram o desempenho do perfil, analisam tendências e identificam as áreas que exigem ação. No Painel de Parceiros, vá até **Indicações > Páginas de marketing**.
 
 Esses relatórios mostram o desempenho dos perfis de negócios em todas as regiões. Os relatórios mostram os dados nos últimos 90 dias, agrupados por semanas.
 

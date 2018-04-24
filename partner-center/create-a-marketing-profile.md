@@ -1,14 +1,14 @@
 ---
-title: "Criar um perfil de negócios | Partner Center"
-description: "Crie um perfil de negócios no Partner Center para obter as oportunidades de vendas da Microsoft."
+title: Criar um perfil de negócios | Partner Center
+description: Crie um perfil de negócios no Partner Center para obter as oportunidades de vendas da Microsoft.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-keywords: "pinpoint, indicações, oportunidades de venda, C2PC, perfil de negócios, comercializar sua empresa, localizar um parceiro, localizar um provedor de soluções, perfil de negócios, perfil de marketing"
-ms.openlocfilehash: e4e663d5c148f72f7ad352e21c4178a95e044c5f
-ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
+keywords: pinpoint, indicações, oportunidades de venda, C2PC, perfil de negócios, comercializar sua empresa, localizar um parceiro, localizar um provedor de soluções, perfil de negócios, perfil de marketing
+ms.openlocfilehash: 847b535429620d96b7fffc843904c03190928449
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/28/2017
+ms.lasthandoff: 04/08/2018
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -38,21 +38,19 @@ Para obter esses clientes em potencial, primeiramente você deve criar um perfil
 *  **Referências de vendas da Microsoft e funcionários de serviço**. Os clientes em potencial interessados na implantação de soluções de tecnologia com base em nuvem entram em contato com a Microsoft para ajudar a encontrar profissionais que podem atender às suas necessidades de negócios. Esses profissionais da Microsoft poderão então consultar os clientes em potencial para sua empresa.
 
 >**Importante**<br>
-Para ajudarmos nossos parceiros a simplificar as operações de negócios, estamos consolidando recursos e funcionalidades que costumavam estar espalhados por vários sites e ferramentas no Partner Center, este site. Como parte desse esforço, movemos todos os recursos relacionados a indicações para o Partner Center e desativamos os sites Pinpoint e C2PC. Se você usava o Pinpoint ou o C2PC no passado para obter e gerenciar indicações da Microsoft, precisará criar um novo perfil de negócios no Partner Center para continuar a obter indicações. Nós não damos mais suporte a perfis desses sites. 
+Para ajudarmos nossos parceiros a simplificar as operações de negócios, estamos consolidando recursos e funcionalidades que costumavam estar espalhados por vários sites e ferramentas no Painel de Parceiros este site. Como parte desse esforço, movemos todos os recursos relacionados a indicações para o Painel de Parceiros e desativamos os sites Pinpoint e C2PC. Se você usava o Pinpoint ou o C2PC no passado para obter e gerenciar indicações da Microsoft, precisará criar um novo perfil de negócios no Painel de Parceiros para continuar a obter indicações. Nós não damos mais suporte a perfis desses sites. 
 
 ## <a name="create-a-profile"></a>Criar um perfil
 
->**Observação** Antes de criar um perfil de negócios, você deve ter uma conta do Partner Center. Se você ainda não tiver uma conta do Partner Center, consulte [Criar uma conta do Partner Center](mpn-create-a-partner-center-account.md) para obter ajuda para criar uma. 
+>**Observação** Antes de criar um perfil de negócios, você deve ter uma conta do Painel de Parceiros. Se você ainda não tiver uma conta do Painel de Parceiros, consulte [Criar uma conta do Partner Center](mpn-create-a-partner-center-account.md) para obter ajuda para criar uma. 
 
 Crie perfis para cada região na qual tenha autorização para fazer negócios. 
 
-1.  Entre no [Partner Center](http://go.microsoft.com/fwlink/p/?LinkId=808956) usando uma [conta de administrador global ou de agente administrador](create-user-accounts-and-set-permissions.md).
+1.  No menu **Painel**, selecione **Indicações** &gt; **Perfis de negócios** &gt; selecione um país/região > **[Criar um perfil de negócios](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-2.  No menu **Painel**, selecione **Indicações** &gt; **Exibir perfis de negócios** &gt; selecione um país/região > **[Criar um perfil de negócios](https://partnercenter.microsoft.com/pcv/publishing)**.
-
-3.  Na página **Criar um perfil de negócios**, selecione uma região e então insira as informações do seu perfil.
+2.  Na página **Criar um perfil de negócios**, selecione uma região e então insira as informações do seu perfil.
     
-    >**Observação** Embora o Partner Center dê suporte a vários idiomas, é possível que alguns elementos, como a descrição e as marcas de forma livre, incluam texto de idiomas diferentes, como observado neste tópico.
+    >**Observação** Embora o Painel de Parceiros dê suporte a vários idiomas, é possível que alguns elementos, como a descrição e as marcas de forma livre, incluam texto de idiomas diferentes, como observado neste tópico.
 
 ### <a href="" id="partner_info"></a>Informações do parceiro
 
@@ -98,7 +96,7 @@ Outras marcas usadas em pesquisa:
 
 É recomendável deixar essa configuração marcada. 
 
-Conforme demonstra sucesso com os clientes por meio do Partner Center, ou através da participação em outras certificações da Microsoft ou programas, adicionaremos automaticamente autenticações para seus produtos específicos, serviços e setores contribuindo para esse sucesso. Autenticações são um fator importante nos resultados da pesquisa.
+Conforme demonstra sucesso com os clientes por meio do Painel de Parceiros, ou por meio da participação em outras certificações da Microsoft ou programas, adicionaremos automaticamente autenticações para seus produtos específicos, serviços e setores contribuindo para esse sucesso. Autenticações são um fator importante nos resultados da pesquisa.
 
 No entanto, se existirem produtos para os quais você fornece serviços e que não deseja mostrá-los em seu perfil, é possível desmarcar essa caixa de seleção e gerenciar seu perfil manualmente. Essas autenticações ficarão ocultas na sua exibição de clientes, mas você pode adicioná-las ao seu perfil posteriormente a qualquer momento.
 

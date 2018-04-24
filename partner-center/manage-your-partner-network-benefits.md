@@ -1,12 +1,12 @@
 ---
-title: "Gerenciar seus benefícios do Microsoft Partner Network | Partner Center"
-description: "Como um membro do Microsoft Partner Network, você está qualificado a certos benefícios de associação. Explicar como ativar e gerenciar seus benefícios de associação no Partner Center."
+title: Gerenciar seus benefícios do Microsoft Partner Network | Partner Center
+description: Como um membro do Microsoft Partner Network, você está qualificado a certos benefícios de associação. Explicar como ativar e gerenciar seus benefícios de associação no Partner Center.
 author: MaggiePucciEvans
-ms.openlocfilehash: 2e21313612acc7383cde0333b57b3b6068a7723c
-ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
+ms.openlocfilehash: 7feb6c46834011ef679442a5ce261221e4800067
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/03/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gerenciar seus benefícios de participação do Microsoft Partner Network
 
@@ -14,7 +14,7 @@ ms.lasthandoff: 11/03/2017
 
 -  Partner Center
 
-A participação na Microsoft Partner Network concede a você certos pacotes de benefícios. Antes de poder comprar e ativar os benefícios de associação, sua organização deve ser um membro da Microsoft Partner Network. Se você não for um membro da rede, você pode se inscrever em [https://partner.microsoft.com](https://partner.microsoft.com).
+A participação na Microsoft Partner Network concede a você certos pacotes de benefícios. Antes de poder comprar e ativar os benefícios de associação, sua organização deve ser um membro da Microsoft Partner Network. Se não for um membro da rede, você poderá ingressar em [https://partner.microsoft.com](https://partner.microsoft.com).
 
 >**Observação** Seguir este link o levará para outro site. Retorne para este site, Partner Center, para renovar e atualizar sua participação na rede.
 
@@ -23,11 +23,11 @@ Depois de ingressar ou renovar sua associação na Microsoft Partner Network, vo
 
 ## <a name="manage-your-membership-benefits"></a>Gerencie os benefícios da sua participação
 
-Depois que você comprar um pacote de benefícios, atribua licenças, assinaturas e outros benefícios para os funcionários começarem a usá-los. 
+Depois que você comprar um pacote de benefícios, precisará atribuir licenças, assinaturas e outros benefícios para os funcionários começarem a usá-los. 
 
 Sua assinatura do Action Pack inclui alocações de licenças de software de direitos de uso interno, serviços de nuvem, assinaturas do Visual Studio e suporte. 
 
-Para exibir e gerenciar todos os benefícios de participação que você recebeu, acesse seu menu **Painel** e, em seguida, selecione **Parceria > Benefícios**. A página **Benefícios** é aberta. 
+Para exibir e gerenciar seus benefícios de associação, selecione **Benefícios** de seu menu **Painel**. A página **Benefícios** é aberta. 
 
 #### <a name="manage-software-benefits"></a>Gerenciar benefícios de software
 

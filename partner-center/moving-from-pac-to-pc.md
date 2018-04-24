@@ -3,22 +3,22 @@ title: Mudança do Centro de Administração do Parceiro para o Partner Center
 description: Localizar no Partner Center os recursos que você está acostumado a usar no Centro de Administração do Parceiro
 author: labrenne
 keywords: PAC, administração do Office 365, recursos do PAC
-ms.openlocfilehash: 5ead4e1461050ff093b91ffc836984f77f59400f
-ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
+ms.openlocfilehash: 7bcb12a918cf007a474287183c2aa0956c161431
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/09/2018
+ms.lasthandoff: 04/08/2018
 ---
-# <a name="moving-from-partner-admin-center-pac-to-partner-center"></a>Mudança do PAC (Centro de Administração do Parceiro) para o Partner Center
+# <a name="moving-from-partner-admin-center-pac-to-the-partner-dashboard"></a>Mudança do PAC (Centro de Administração do Parceiro) para o Painel de Parceiros
 
 Aplica-se a:
 - Partner Center
 - Centro de Administração do Parceiro
 
-Bem-vindo ao Partner Center! O Partner Center está evoluindo para o único lugar em que você gerenciará sua parceria com a Microsoft e com seus clientes. No Partner Center, você poderá gerenciar associações, indicações de clientes, incentivos e todos os outros aspectos do Programa Provedor de Soluções na Nuvem (CSP). Você também poderá fazer a maior parte do trabalho realizado no PAC no Partner Center, ainda que alguns dos recursos e ações funcionem de forma diferente. 
+Bem-vindo ao seu Painel de Parceiros! O Painel de Parceiros está evoluindo para o único lugar em que você gerenciará sua parceria com a Microsoft e com seus clientes. No Painel de Parceiros, você poderá gerenciar associações, indicações de clientes, incentivos e todos os outros aspectos do Programa Provedor de Soluções na Nuvem (CSP). Você também poderá fazer a maior parte do trabalho realizado no PAC no Painel de Parceiros, ainda que alguns dos recursos e ações funcionem de forma diferente. 
 
 
-|**Ação**   |**PAC**   |**Partner Center**   |
+|**Ação**   |**PAC**   |**Painel de Parceiros**   |
 |--------------|:--------------|:---------------|
 |A visão geral de alto nível da atividade e dos clientes da sua conta|Tela de Início|Painel|
 |Adquirir novos clientes e fornecer cotações para serviços pagos e de avaliação|Criar seu Negócio -> Enviar cotação|Cotações pagas não estão disponíveis. As avaliações do CSP estão disponíveis se o parceiro consultor tornar-se um revendedor indireto do CSP e associar-se a um fornecedor indireto do CSP que dê suporte a avaliações. |
@@ -31,4 +31,4 @@ Bem-vindo ao Partner Center! O Partner Center está evoluindo para o único luga
 |Exibir integridade do Microsoft Online Services que você gerencia|Integridade do serviço -> Integridade agregada|Painel -> Integridade do serviço|
 
 >Importante<br>
-Você não poderá enviar Cotações Pagas e de Avaliação para os clientes por meio do Partner Center. Além disso, para pesquisar clientes no Partner Center, use o nome do cliente ou o(s) domínio(s) do cliente disponíveis quando você estabeleceu a relação de parceria com o cliente.
+Você não poderá enviar cotações pagas e de avaliação para os clientes por meio do Painel de Parceiros. Além disso, para pesquisar clientes no Painel de Parceiros, use o nome do cliente ou os domínios do cliente disponíveis quando você estabeleceu a relação de parceria com o cliente.

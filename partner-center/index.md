@@ -2,17 +2,17 @@
 title: Bem-vindo ao Microsoft Partner Center
 description: Microsoft Partner Center
 author: labrenne
-ms.openlocfilehash: 049fe3790b02a2755fe493c4eb611f7c0f99d699
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: e1161f019d6cdd5ef5d72e3006f029c60f0f7413
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 04/08/2018
 ---
-# <a name="welcome-to-the-microsoft-partner-center"></a>Bem-vindo ao Microsoft Partner Center
+# <a name="welcome-to-your-partner-dashboard"></a>Bem-vindo ao seu Painel de Parceiros
 
-O Microsoft Partner Center, este site, é onde os parceiros comerciais da Microsoft vêm para desenvolver, gerenciar e expandir seus negócios. (Observe que nem tudo que é discutido nesta página é aplicável a todos os parceiros. Alguns recursos estão sendo disponibilizados em estágios.)
+O Painel de Parceiros da Microsoft, este site, é onde os parceiros comerciais da Microsoft vêm para desenvolver, gerenciar e expandir seus negócios. (Observe que nem tudo que é discutido nesta página é aplicável a todos os parceiros. Alguns recursos estão sendo disponibilizados em estágios.)
 
-## <a name="create-an-account-on-partner-center-to"></a>Crie uma conta no Partner Center para:
+## <a name="create-a-partner-dashboard-account-to"></a>Crie uma conta do Painel de Parceiros para:
 
 -   Gerenciar sua parceria com a Microsoft
     -   Adquirir o Microsoft Action Pack e outros benefícios de associação de direitos de uso interno 
@@ -35,7 +35,7 @@ O Microsoft Partner Center, este site, é onde os parceiros comerciais da Micros
    
 
 >**Importante**<br>
-O Partner Center está constantemente evoluindo para incluir mais recursos e funcionalidades. Descubra as [novidades](whats-new-in-pc.md).
+O Painel de Parceiros está constantemente evoluindo para incluir mais recursos e funcionalidades. Descubra as [novidades](whats-new-in-pc.md).
 
 
 ## <a name="get-started"></a>Introdução
@@ -46,7 +46,7 @@ Inscreva-se no programa de parceria que atende às suas metas e comece a trabalh
 |------------|:-------------|
 |[Participe do Microsoft Partner Network](mpn-overview.md)|Faça parceria com a Microsoft para obter acesso a serviços e softwares de direitos de uso interno, ao Microsoft Action Pack, e obter competências Silver e Gold |
 |[Programa Provedor de Soluções na Nuvem - vender soluções de nuvem em demanda](csp-overview.md) | Qual modelo CSP é ideal para você, onde é possível vender por meio do CSP, o que você pode vender por meio do CSP |
-|[Configure sua conta do Partner Center](partner-center-account-setup.md)|Crie contas de usuário, gerencie perfis e senhas, e personalize o catálogo de produtos |
+|[Configurar sua conta do Painel de Parceiros](partner-center-account-setup.md)|Crie contas de usuário, gerencie perfis e senhas, e personalize o catálogo de produtos |
 |[Configure suas contas de cliente](customer-accounts.md)|Adicione usuários, crie novas contas e veja sua lista de clientes |
 |[Trabalhe com outros parceiros](work-with-other-partners.md)|Encontre parceiros cujos conhecimentos complementem os seus |
 
@@ -57,7 +57,7 @@ Aproveite essas oportunidades para aumentar seus negócios:
 | **Acesse aqui**  |**Para saber mais sobre isso**   |
 |------------|:-------------|
 |[Expanda seus negócios com indicações da Microsoft](referrals.md)|Crie um perfil de negócios para os clientes, então receba e responda a indicações|
-|[Aplicativo Análise do Partner Center para Power BI](power-bi-app-for-direct-partners.md)| Obtenha percepções sobre o desempenho da sua empresa usando o painel familiar do Microsoft Power BI|
+|[App Análise do Parceiro para Power BI](power-bi-app-for-direct-partners.md)| Obtenha percepções sobre o desempenho da sua empresa usando o painel familiar do Microsoft Power BI|
 |[Gerencie assinaturas de clientes](customer-subscriptions.md)|Novas assinaturas, assinaturas de avaliação, atribua licenças, promoções e descontos|
 |[Adicione competências ao seu perfil de negócios](learn-about-competencies.md)|Demonstre conhecimento, saiba mais sobre as opções de competência|
 |[Cobrança](billing.md)|Revise os cenários de cobrança, impostos e taxas, e orçamentos de gastos do Azure. |

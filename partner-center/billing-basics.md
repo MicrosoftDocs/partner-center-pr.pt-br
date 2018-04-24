@@ -3,11 +3,11 @@ title: Noções básicas de cobrança | Partner Center
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções fiscais, arquivos de reconciliação, arquivo de reconciliação
-ms.openlocfilehash: 6992c2f0a7ac235e8ee62bd82a134631ec35b0db
-ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
+ms.openlocfilehash: f06e663e6e3d5dc32efb1423a17f02e19a2425f5
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/28/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="billing-basics"></a>Noções básicas de cobrança
 
@@ -53,7 +53,7 @@ Agora, além da opção mensal, você tem uma opção de cobrança anual. Consul
 <tr class="even">
 <td>Disponibilidade de fatura</td>
 <td><ul>
-<li>Você pode ver e baixar suas faturas e seus arquivos de reconciliação na página Cobrança no Partner Center. Observe que as faturas mensais estarão disponíveis no Partner Center em até quatro (4) dias da data de cobrança selecionada.</li>
+<li>Você pode ver e baixar suas faturas e seus arquivos de reconciliação na página Cobrança no Painel de Parceiros. Observe que as faturas mensais estarão disponíveis no Painel de Parceiros em até quatro (4) dias da data de cobrança selecionada.</li>
 </ul></td>
 </tr>
 <tr class="odd">

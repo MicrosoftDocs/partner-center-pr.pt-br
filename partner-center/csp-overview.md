@@ -1,13 +1,13 @@
 ---
-title: "Programa Provedor de Soluções na Nuvem - vender soluções de nuvem em demanda | Partner Center"
-description: "O Programa Provedor de Soluções na Nuvem pode ajudar você a expandir seus negócios com novos clientes e novos conhecimentos."
+title: Programa Provedor de Soluções na Nuvem - vender soluções de nuvem em demanda | Partner Center
+description: O Programa Provedor de Soluções na Nuvem pode ajudar você a expandir seus negócios com novos clientes e novos conhecimentos.
 author: labrenne
-keywords: "Provedor de Soluções na Nuvem, CSP, serviços baseados na Nuvem, Azure, Office 365, Dynamics, parceiro CSP, vender no CSP, parceiro direto, parceiro CSP direto, revendedor CSP indireto, CSP direto, CSP indireto, modelo direto, modelo indireto, revendedor indireto, provedor indireto, provedor, distribuidor, programa provedor de soluções na nuvem"
-ms.openlocfilehash: 1096e07df5f60c25a0e7b52ba1a2ded5cf8a4a56
-ms.sourcegitcommit: 083ac574b9e30a7b28c86a261f33d7976a4afea5
+keywords: Provedor de Soluções na Nuvem, CSP, serviços baseados na Nuvem, Azure, Office 365, Dynamics, parceiro CSP, vender no CSP, parceiro direto, parceiro CSP direto, revendedor CSP indireto, CSP direto, CSP indireto, modelo direto, modelo indireto, revendedor indireto, provedor indireto, provedor, distribuidor, programa provedor de soluções na nuvem
+ms.openlocfilehash: 1e23de4014e9d3dd85134c17e60dfeacc8acf9d7
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/01/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programa Provedor de Soluções na Nuvem - vender soluções de nuvem em demanda 
 
@@ -24,9 +24,9 @@ O programa Provedor de Soluções na Nuvem (CSP) ajuda você a ir além da reven
 
 ## <a name="which-csp-model-is-best-for-me"></a>Qual modelo CSP é mais adequado para mim?
 
-### <a name="direct-model"></a>Modelo direto
+### <a name="direct-bill-model"></a>Modelo de cobrança direta
 
- No modelo direto, os parceiros compram assinaturas e produtos diretamente da Microsoft e os vendem aos clientes por meio de sua equipe de vendas interna. Os parceiros que já usam, ou estejam dispostos a desenvolver, a infraestrutura adequada de vendas, cobrança e suporte podem escolher o modelo direto de CSP. Os parceiros que melhor se adaptam ao modelo CSP direto devem cumprir estes pré-requisitos:
+ No modelo de cobrança direta, os parceiros compram assinaturas e produtos diretamente da Microsoft e os vendem aos clientes por meio de sua equipe de vendas interna. Os parceiros que já usam, ou estejam dispostos a desenvolver, a infraestrutura adequada de vendas, cobrança e suporte podem escolher o modelo direto de CSP. Os parceiros que melhor se adaptam ao modelo CSP direto devem cumprir estes pré-requisitos:
 - Uma ID ativa do Microsoft Partner Network (MPN) para o local onde deseja vender
 - Infraestrutura existente de suporte ao cliente
 - Infraestrutura existente de cobrança de clientes
@@ -48,7 +48,7 @@ O programa Provedor de Soluções na Nuvem está disponível nas regiões e paí
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>O que posso vender por meio do programa CSP?
 
-Você pode vender a gama completa de [serviços em nuvem da Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), bem como uma variedade de ofertas adicionais que mudam com frequência. Para ver as ofertas do CSP no mês atual, entre no Partner Center e, em seguida, acesse a página [**Preços e ofertas**](https://partnercenter.microsoft.com/pcv/sales).
+Você pode vender a gama completa de [serviços em nuvem da Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), bem como uma variedade de ofertas adicionais que mudam com frequência. Para ver as ofertas do CSP no mês atual, entre no Painel de Parceiros e, em seguida, acesse a página [**Preços e ofertas**](https://partnercenter.microsoft.com/pcv/sales).
 
 ## <a name="see-also"></a>Veja também 
 
@@ -59,5 +59,5 @@ Você pode vender a gama completa de [serviços em nuvem da Microsoft](https://p
 |Vender em nuvens nacionais da Microsoft   | [Aplicar para vender em nuvens nacionais da Microsoft](csp-national-clouds-overview.md)|
 |Onde e o que você pode vender   |[Contratos de mercados e de cliente do Provedor de Soluções na Nuvem da Microsoft](agreements.md)|
 |  | [Estratégias de locatário no CSP](regional-authorization-overview.md)
-|Tarefas de provedor indireto no Partner Center  |[Faça parceria com revendedores indiretos no programa Provedor de Soluções na Nuvem](indirect-provider-tasks-in-partner-center.md)|
-|Tarefas de revendedor indireto no Partner Center   |[Faça parceria com provedores indiretos no programa Provedor de Soluções na Nuvem](indirect-reseller-tasks-in-partner-center.md)|
+|Tarefas de provedor indireto no Painel de Parceiros  |[Faça parceria com revendedores indiretos no programa Provedor de Soluções na Nuvem](indirect-provider-tasks-in-partner-center.md)|
+|Tarefas de revendedor indireto no Painel de Parceiros   |[Faça parceria com provedores indiretos no programa Provedor de Soluções na Nuvem](indirect-reseller-tasks-in-partner-center.md)|

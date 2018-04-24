@@ -1,14 +1,14 @@
 ---
-title: "Consolidação de locatários de autorização regional do CSP | Partner Center"
-description: "Use estas instruções para consolidar locatários para países/regiões diferentes."
+title: Consolidação de locatários de autorização regional do CSP | Partner Center
+description: Use estas instruções para consolidar locatários para países/regiões diferentes.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
-keywords: "migrar provedores, provisionamento, conta de locatário, consolidar locatários"
-ms.openlocfilehash: e895fd049211a3dfcb4db930b75d94906563b700
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
+keywords: migrar provedores, provisionamento, conta de locatário, consolidar locatários
+ms.openlocfilehash: 4a8d1e993c11d379819ef9628db1f2399c6e6b49
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidação de locatários de autorização regional do CSP
 
@@ -29,14 +29,14 @@ Use estas instruções para consolidar locatários para países/regiões diferen
 ## <a name="prepare-for-migration"></a>Preparar para a migração
 
 
--   Faça logon em <https://partnercenter.microsoft.com> com a conta de transição (existente) e anote todos os clientes e todos os serviços provisionados para esses clientes.
+-   Entre no seu **Painel** com a conta de **Transição** (existente) (da qual será feita a transição) e anote todos os clientes e todos os serviços provisionados para esses clientes.
 
 ![lista de clientes regionais](images/regionalcustomer1.png)
 
 ## <a name="migrate-customer-accounts"></a>Migrar contas de clientes
 
 
-1.  Faça logon em <https://partnercenter.microsoft.com> com a conta de transição (nova) e navegue até a lista de clientes do painel do Partner Center.
+1.  Entre no seu **Painel** com a conta de **Transição** (nova) conta (aquela para a qual está sendo feita a transição) e navegue até a lista Clientes de **Clientes**.
 
 2.  Selecione Clientes.
 
@@ -53,7 +53,7 @@ Os clientes aparecerão na lista de clientes do parceiro após o envio do contra
 
 1.  Depois que o cliente assinar o contrato, você poderá recriar as assinaturas dele em seu locatário parceiro centralizado.
 
-2.  No painel do Partner Center, clique em **Clientes** na seção de navegação à esquerda
+2.  No **Painel**, selecione **Clientes**.
 
 3.  Abra o nome da empresa do cliente que você deseja migrar.
 
@@ -80,7 +80,7 @@ Antes de prosseguir para a próxima seção, certifique-se de que todas as assin
 
 Desabilitar a assinatura de CSP sob as contas de parceiros de **destino da transição** impede qualquer cobrança futura. Você não precisa desabilitar manualmente as assinaturas do Azure, elas são desativadas automaticamente durante o processo de migração.
 
-1.  Faça logon em <https://partnercenter.microsoft.com> com a conta CSP de **origem da transição** e navegue até a lista de clientes.
+1.  Entre no **Painel** com a conta CSP de **Origem da Transição** e navegue até a lista de clientes.
 
 2.  Abra o cliente com assinaturas para desabilitar e, em seguida, selecione a primeira oferta a ser desabilitada.
 3.  Defina a assinatura como **suspensa** e clique em **enviar**.
@@ -140,21 +140,6 @@ Usando a **função Exportar**, você pode capturar as assinaturas que serão us
 
 Para obter mais informações sobre o registro de API [consulte esta página](https://go.microsoft.com/fwlink/?linkid=847990).
 
-## <a name="partner-center-activity-log"></a>Log de atividades do Partner Center
-
-
-Com o log de atividades, os parceiros podem ver um registro de todas as alterações feitas em seu locatário que afetam o cliente. Isso ajuda a parceiros a controlar as alterações em um locatário do cliente.
-
-**Exibir o log de atividades**
-
-1.  No painel do Partner Center, clique no link **Log de atividades**.
-2.  Na página **Log de atividades**, veja as alterações feitas nas contas de cliente. Para filtrar o log de atividades por data, escolha as datas de **início** e **término** para restringir os registros selecionados no log. Para filtrar por cliente no **Log de atividades**, use a caixa de pesquisa.
-
-**Exportar o log de atividades**
-
--   Clique em **Exportar log** para exportar os dados de seu log de atividades para um arquivo CSV.
-
-    Você também pode exportar a lista de clientes e a lista de assinaturas de um único cliente (na página de assinaturas do cliente).
 
  
 

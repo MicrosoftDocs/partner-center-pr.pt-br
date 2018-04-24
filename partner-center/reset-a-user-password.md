@@ -1,11 +1,13 @@
 ---
-title: "Redefinir a senha do usuário | Partner Center"
-description: "Se os usuários se esquecerem da senha, você poderá atribuir a eles uma nova senha temporária. Eles poderão usá-la na próxima vez que entrarem no Partner Center."
+title: Redefinir a senha do usuário | Partner Center
+description: Se os usuários se esquecerem da senha, você poderá atribuir a eles uma nova senha temporária. Eles poderão usá-la na próxima vez que entrarem no Partner Center.
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
-ms.openlocfilehash: c585d9826293a6d843a636791c38e3c0a46c4b87
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 5f0c1914bf1627f8175f2db9a31469a08159fce7
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.translationtype: HT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="reset-a-user-password"></a>Redefinir a senha de usuário
 
@@ -19,7 +21,7 @@ Se os usuários se esquecerem das senhas deles, atribua a eles uma senha tempor�
 
 **Redefina uma senha do usuário como um administrador**
 
-1.  No Partner Center, acesse o menu Painel &gt; **Configurações da conta** &gt; **Gerenciamento de usuários**.
+1.  Vá para **Configurações** &gt; **Gerenciamento de usuários**.
 2.  Selecione o usuário na lista.
 
 3.  Escolha **Redefinir senha**, na parte inferior da página.

@@ -4,11 +4,11 @@ description: Um cliente pode mudar o parceiro do programa Provedor de Soluções
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: assinatura do Azure, mudar de parceiro, alterar parceiro, obter novo parceiro, outro parceiro
-ms.openlocfilehash: fa4e7128a052c291f26f9ff47101c85bcd764bc1
-ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
+ms.openlocfilehash: 5aa7bdd710268e6fe251e153c0a83999497f35dd
+ms.sourcegitcommit: d249bea4296f862112e8974706d1dc81c0a20580
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/21/2018
+ms.lasthandoff: 03/30/2018
 ---
 # <a name="transfer-azure-subscriptions"></a>Transferir assinaturas do Azure 
 
@@ -32,7 +32,7 @@ Um cliente pode decidir mudar para um parceiro do Provedor de Soluções na Nuve
 
     Crie um tíquete de serviço do Azure no Partner Center para solicitar uma transferência de assinatura:
 
-    -   No menu do painel do Partner Center, selecione **Clientes**, selecione seu cliente na lista, em seguida, selecione **Gerenciamento de serviço**. Na seção **Tíquetes de suporte**, selecione a lista suspensa **Novo tíquete** e escolha **Microsoft Azure**.
+    -   No menu do painel, selecione **Clientes**, selecione seu cliente na lista, em seguida, selecione **Gerenciamento de serviços**. Na seção **Tíquetes de suporte**, selecione a lista suspensa **Novo tíquete** e escolha **Microsoft Azure**.
 
     -   No portal do Azure, selecione **Nova solicitação de suporte**.
 
@@ -57,7 +57,7 @@ Um cliente pode decidir mudar para um parceiro do Provedor de Soluções na Nuve
 
     Examine o formulário, preencha as informações sobre o novo parceiro e assine-o. Confirme se o novo cliente tem um contrato em vigor. Envie o formulário de volta para o parceiro de registro atual.
 
-    *Importante*: se o novo parceiro CSP não tiver uma relação de revendedor com o cliente, ele deverá estabelecer uma antes para a assinatura que será transferida. [Você pode encontrar informações sobre como fazer isso aqui](https://int.msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx).
+    *Importante*: se o novo parceiro CSP não tiver uma relação de revendedor com o cliente, ele deverá estabelecer uma antes para a assinatura que será transferida. [Você pode encontrar informações sobre como fazer isso aqui](request-a-relationship-with-a-customer.md).
 
 5.  Parceiro atual:
 
