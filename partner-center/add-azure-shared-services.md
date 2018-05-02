@@ -1,8 +1,8 @@
 ---
-title: "Adicionar Serviços Compartilhados do Parceiro Azure | Partner Center"
-description: "Os Parceiros de CSP agora podem adquirir assinaturas do Azure para uso próprio."
+title: Adicionar Serviços Compartilhados do Parceiro Azure | Partner Center
+description: Os Parceiros de CSP agora podem adquirir assinaturas do Azure para uso próprio.
 author: labrenne
-Keywords: "Azure, serviços compartilhados, locatário"
+Keywords: Azure, serviços compartilhados, locatário
 ms.openlocfilehash: 859e4a1b08e26f2370493ad611a6126b74aeaf64
 ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
