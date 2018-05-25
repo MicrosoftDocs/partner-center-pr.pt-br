@@ -2,11 +2,11 @@
 title: Inscrever-se no programa Provedor de Soluções na Nuvem | Partner Center
 description: Conheça os diferentes modelos de venda no CSP e decida qual deles funciona melhor para sua empresa
 author: labrenne
-ms.openlocfilehash: f1f5fcdda8c162ae42fb5d619c8ee04e420b4c8c
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 3fb617c78ac0120c2f1588022441469fa0345708
+ms.sourcegitcommit: f6681a0bd9f09242b3544448573d30f5a0aa1f3c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 04/26/2018
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscrever-se no programa Provedor de Soluções na Nuvem
 
@@ -29,6 +29,7 @@ Pode levar vários dias para analisarmos e verificarmos as informações forneci
 
 ### <a name="enroll-as-an-indirect-reseller"></a>Inscrever-se como um revendedor indireto
 
+
 1. Depois de se inscrever como um revendedor indireto, você precisa [encontrar um provedor indireto](https://partnercenter.microsoft.com/partner/find-a-provider) com quem trabalhar. Esse provedor enviará clientes para você, gerenciará a aquisição de softwares que poderão ser vendidos e cuidará do suporte e da cobrança de clientes, permitindo que você se concentre no desenvolvimento de sua empresa de revenda.
 
 2. O administrador global deve configurar sua conta no Painel de Parceiros. O administrador global pode adicionar os funcionários da organização que trabalharão no Painel de Parceiros, atribuir a eles funções e permissões dependendo do trabalho que desempenharão e configurar o perfil da organização.
@@ -39,7 +40,7 @@ Pode levar vários dias para analisarmos e verificarmos as informações forneci
 
 ### <a name="enroll-as-a-direct-partner"></a>Inscrever-se como um parceiro direto
 
->**Observação**<br> Estamos em processo de atualização de nossos requisitos de registro de parceiro direto e atualmente não estamos aceitando novas inscrições. Planejamos reabrir o processo do inscrição a partir do 2º semestre do ano fiscal de 2018. Considere registrar-se como revendedor indireto.
+>**Observação**<br> Estamos em processo de atualização de nossos requisitos de registro de parceiro direto e atualmente não estamos aceitando novas inscrições. Planejamos reabrir o processo de inscrição em 31 de agosto. Considere registrar-se como revendedor indireto. 
 
 Como um parceiro direto, você possui a relação de ponta a ponta com o cliente e com a Microsoft.
 

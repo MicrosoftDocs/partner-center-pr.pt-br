@@ -3,11 +3,11 @@ title: Usar os arquivos de reconciliação | Partner Center
 description: Para obter uma exibição detalhada em itens de linha de cada encargo em um ciclo de cobrança, baixe os arquivos de reconciliação do painel do Partner Center.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 51716e8abedf83237050cb51bc76e54a954cd28b
-ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
+ms.openlocfilehash: 892138374f5730bdc10bdf07f75d0a8e3ef56bea
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/28/2018
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="use-the-reconciliation-files"></a>Usar os arquivos de reconciliação
 
@@ -204,7 +204,7 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Nome de domínio do cliente, usado para ajudar a identificar o cliente.</p></td>
+<td><p>Nome de domínio do cliente, usado para ajudar a identificar o cliente. Este campo pode aparecer em branco até o segundo ciclo de cobrança.</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -448,7 +448,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Nome de domínio do cliente, usado para ajudar a identificar o cliente.</p></td>
+<td><p>Nome de domínio do cliente, usado para ajudar a identificar o cliente. Este campo pode aparecer em branco até o segundo ciclo de cobrança.</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -459,9 +459,37 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tbody>
 </table>
 
+## <a href="" id="onetimefiles"></a>Campos de arquivo de compra única
+
+|**Campo** |**Definição**|
+|:----------------|:-----------------------------|
+|PartnerId |ID do parceiro, no formato GUID. |
+|CustomerID |ID exclusiva da Microsoft, no formato GUID, usada para identificar o cliente. |
+|CustomerName |Nome da organização do cliente como informado no Partner Center. Isso é muito importante para reconciliar a fatura com as informações de seu sistema. |
+|CustomerDomainName |O nome de domínio do cliente. |
+|CustomerCountry |O país em que o cliente está localizado. |
+|InvoiceNumber |Número da fatura na qual a transação especificada é exibida. |
+|MpnId |ID do MPN do parceiro CSP (direto ou indireto). |
+|ID do MPN do revendedor |Só aparece em arquivos de reconciliação para parceiros no modelo indireto. A ID do MPN do revendedor de registro da reserva. Isso corresponde à ID de revendedor listada para a reserva específica no Partner Center. Se um parceiro CSP vendeu a reserva diretamente para o cliente, sua ID do MPN estará listada duas vezes, como a ID do MPN e a ID do MPN do revendedor. Se um parceiro CSP tiver um revendedor sem ID do MPN, esse valor será definido como a ID do MPN do parceiro. Se o parceiro CSP remover uma ID de revendedor, esse valor será definido como -1. |
+|OrderId |Identificador exclusivo para um pedido na plataforma de cobrança da Microsoft. Pode ser útil para identificar a reserva do Azure ao entrar em contato com o suporte, mas não para reconciliação. |
+|OrderDate |A data em que o pedido foi feito. |
+|ProductId |A ID do produto. |
+|SkuId  |A ID de uma SKU em particular. |
+|AvailabilityId |A ID de uma Disponibilidade em particular. "Disponibilidade" refere-se a se uma SKU em particular está disponível ou não para compra para determinado país, moeda, segmento do setor etc. |
+|SkuName  |O título de uma SKU em particular. |
+|ProductName |O nome do produto. |
+|ChargeType |O tipo de encargo ou ajuste. |
+|UnitPrice |Preço por produto pedido. |
+|Quantidade |Número de produtos pedidos. |
+|Subtotal |Total sem imposto. Verifica se seu subtotal corresponde ao total esperado, em caso de desconto. |
+|TaxTotal |O total de todos os impostos aplicáveis. |
+|Total |O valor total desta compra. |
+|Moeda |Tipo de moeda. Cada entidade de cobrança tem somente uma moeda. Verifique se isso coincide com a primeira fatura e faça o mesmo após grandes atualizações na plataforma de cobrança. |
+|DiscountDetails |Lista detalhada dos descontos relevantes. |
 
 
-## <a href="" id="charge_types"></a>Mapeando encargos entre uma fatura e o arquivo de reconciliação
+
+## <a href="" id="charge_types"></a>Como mapear encargos entre uma fatura e o arquivo de reconciliação
 
 Sua fatura fornece um resumo dos encargos, enquanto seu arquivo de reconciliação fornece uma divisão detalhada das transações de item de linha, incluindo os tipos de carga.
 

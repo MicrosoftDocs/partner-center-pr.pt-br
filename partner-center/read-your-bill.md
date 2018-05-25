@@ -1,14 +1,14 @@
 ---
-title: "Ler sua cobrança | Partner Center"
-description: "Sua fatura é um resumo de todos os encargos (entre programa, produtos e clientes) para o período atual mensal. Está disponível no painel do Partner Center."
+title: Ler sua cobrança | Partner Center
+description: Sua fatura é um resumo de todos os encargos (entre programa, produtos e clientes) para o período atual mensal. Está disponível no painel do Partner Center.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-keywords: "cobrança de assinatura, cobrança, cobrança no partner center, ler minha cobrança, fatura, fatura do partner center, fatura do CSP, onde está minha cobrança?"
-ms.openlocfilehash: d24c9ad9ac90597c8e56843a25a69b9108c020d2
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+keywords: cobrança de assinatura, cobrança, cobrança no partner center, ler minha cobrança, fatura, fatura do partner center, fatura do CSP, onde está minha cobrança?
+ms.openlocfilehash: ce930f95eb14405e46a371fb85fc9af02f39db73
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="read-your-bill"></a>Ler sua cobrança
 
@@ -97,29 +97,44 @@ Para obter detalhes dos encargos por itens, use os arquivos de reconciliação a
 <td>Data da fatura</td>
 <td>A data que você recebe sua fatura.</td>
 </tr>
+
 <tr class="odd">
+<td>Termos de pagamento</td>
+<td>Para as compras únicas, sempre será 60 dias.</td>
+</tr>
+
+
+<tr class="even">
 <td>Data do pagamento</td>
 <td>Seu pagamento deve ser recebido até essa data.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>PO do cliente</td>
 <td>O número da ordem de compra.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Atendimento ao cliente</td>
 <td>O endereço do site para acessar o atendimento ao cliente.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Destinatário do serviço</td>
 <td>O endereço onde o serviço é usado. (Esse é o endereço de pessoa jurídica associado à verificação da empresa e não pode ser alterado.)</td>
 </tr>
 </tbody>
 </table>
 
- 
+## <a name="itemized-list-of-one-time-charges"></a>Lista detalhada de encargos únicos
 
- 
-
+|**Campo** |**Definição**|
+|:----------------|:-----------------------------|
+|Data |Data da compra. |
+|Descrição |Nome do produto. |
+|Quantidade |O número de produtos (reservas, por exemplo) comprados. |
+|Preço unitário |Preço por produto (reserva, por exemplo). |
+|Descontos |Qualquer desconto aplicável. |
+|Valor pré-taxado |Subtotal das compras antes dos impostos. |
+|Imposto sobre vendas |Valor do imposto. |
+|Total |Total a ser pago. |
  
 
 

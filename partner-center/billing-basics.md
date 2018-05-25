@@ -3,11 +3,11 @@ title: Noções básicas de cobrança | Partner Center
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções fiscais, arquivos de reconciliação, arquivo de reconciliação
-ms.openlocfilehash: f06e663e6e3d5dc32efb1423a17f02e19a2425f5
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 87e8dc8620a31ccbcdcd6e6b2987f8d304d62541
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="billing-basics"></a>Noções básicas de cobrança
 
@@ -144,3 +144,32 @@ O Azure opera no modelo "pré-pago", em que você só será cobrado pelos servi�
 </tbody>
 </table>
 
+## <a name="one-time-billing"></a>Cobrança única
+
+Os parceiros do programa Cloud Solution Provider (CSP) podem oferecer a seus clientes instâncias reservadas em máquinas virtuais do Microsoft Azure. Os clientes podem reservar máquinas virtuais com antecedência – para termos de um ano ou três anos – e experimentar uma economia significativa no uso do Azure.   
+
+Seus clientes pagam antecipadamente por Instâncias de VM Reservadas do Azure. Quando você comprar Instâncias de VM Reservadas do Azure em nome de um cliente, ,, receberá faturas e arquivos de reconciliação para esses encargos únicos. 
+
+>[!IMPORTANT]
+>Se você comprar Instâncias de VM Reservadas do Azure para um cliente em um mercado com uma moeda diferente da sua, a moeda de cobrança padrão se baseará no mercado do cliente, não em sua localização. Se você tiver clientes em vários mercados, receberá faturas separadas e arquivos de reconciliação para cada moeda em que os clientes precisam ser cobrados, permitindo que você envie faturas para seus clientes na moeda apropriada. 
+
+Para acessar arquivos de reconciliação e faturas de cobrança única, selecione **Cobrança** do Painel de Parceiros e então selecione **Uma vez**. 
+
+### <a name="manage-your-one-time-billing"></a>Gerenciar a cobrança única
+
+#### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>Exibir o status de cobrança, as faturas e os arquivos de reconhecimento atuais
+
+1.  No seu Painel de Parceiros, selecione **Cobrança** e então **Uma vez** para exibir o status de cobrança. 
+2.  Selecione uma fatura ou um arquivo de reconhecimento para exibir informações mais detalhadas. 
+
+#### <a name="view-a-customers-order-history"></a>Exibir o histórico de pedidos de um cliente
+
+1.  Selecione **Clientes** no menu do painel.
+2.  Na sua página **Clientes**, localize o cliente cujo histórico de pedidos você deseja exibir e, em seguida, selecione a seta para baixo para expandir o registro do cliente. 
+3.  Selecione **Exibir pedidos** para exibir o histórico de pedidos.
+
+#### <a name="create-a-credit-or-void-note"></a>Criar uma nota de crédito ou cancelada
+
+Em algum momento, talvez seja necessário anular uma fatura e então emitir uma nova. Por exemplo, um cliente pode alterar o nome da empresa dele e então receber uma fatura com o nome antigo. 
+
+Para cancelar uma fatura e emitir uma nova, baixe o formulário da página de cobrança, sob ajustes.
