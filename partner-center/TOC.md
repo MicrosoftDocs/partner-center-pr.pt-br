@@ -4,6 +4,7 @@
 ## [Obter o Microsoft Action Pack](mpn-get-action-pack.md)
 ## [Obter a associação Silver ou Gold](learn-about-competencies.md)
 ## [Obter os benefícios da sua associação](manage-your-partner-network-benefits.md)
+## [Renovar suas ofertas do MPN](renew-mpn-offers.md)
 
 
 # [Provedor de Soluções na Nuvem](csp-overview.md)
