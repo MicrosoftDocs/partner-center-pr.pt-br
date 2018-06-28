@@ -3,11 +3,12 @@ title: Perguntas Frequentes sobre os novos recursos de cobrança | Partner Cente
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
 ms.assetid: ''
 author: MaggiePucciEvans
-ms.openlocfilehash: 31c6625226fa24d56861739865c5988c9da260d0
-ms.sourcegitcommit: 770e46901be73dd18f0a95f1f813cbb102b4fd2e
+ms.openlocfilehash: 9cb79ba60c06d273bcf2d6435d9146c4920b3ace
+ms.sourcegitcommit: f1abc58390563a61a3a2678a7420cd54dfbe2d38
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/15/2018
+ms.lasthandoff: 06/01/2018
+ms.locfileid: "1936225"
 ---
 # <a name="faq-about-new-billing-features"></a>Perguntas Frequentes sobre os novos recursos de cobrança
 
@@ -133,7 +134,7 @@ Seções:
 
 -   **R:** Sim. Você pode alterar a quantidade de licenças das suas assinaturas a qualquer momento. A adição de outras licenças não afetará a frequência de cobrança. 
 
-**P:**Posso adicionar licenças com cobrança mensal a uma assinatura existente com cobrança anual? 
+**P:** Posso adicionar licenças com cobrança mensal a uma assinatura existente com cobrança anual? 
 
 -   **R:** Assim que você comprar uma assinatura com cobrança anual, todas as licenças adicionais seguirão a mesma frequência de cobrança. Se então você precisar comprar licenças com cobrança mensal, precisará comprar uma nova assinatura.
 
@@ -661,6 +662,6 @@ O arquivo de reconciliação de 15 de junho conterá as seguintes linhas de cobr
 
 |**Início da cobrança**   |**Encerramento da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |**Tipo de cobrança** |
 |-----------------|:-------------|:----------------|:------------|:------|------|
-|01/06/2018   | 30/06/2018   |US$ 30   |1   |US$ 30  |Taxas proporcionais durante a compra |
+|29/05/2018   | 30/06/2018   |US$ 30   |1   |US$ 30  |Taxas proporcionais durante a compra |
 
 Observe que a assinatura será renovada automaticamente em 1º de junho de 2019.

@@ -4,11 +4,12 @@ description: Notificação sobre o andamento de potencial criptomineração.
 author: v-petand
 Keywords: crypto-mining, cryptocurrency mining, security
 robots: noindex, nofollow
-ms.openlocfilehash: 1e7e695ec19600fd1f32138982c8f609db168cc7
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
+ms.openlocfilehash: 5b96f3d5adf717eae6d4dc739e9678b69300a4b4
+ms.sourcegitcommit: f1abc58390563a61a3a2678a7420cd54dfbe2d38
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 06/01/2018
+ms.locfileid: "1936195"
 ---
 # <a name="partner-dashboard-notification-for-cryptocurrency-mining-activity"></a>Notificação do Painel de Parceiros para atividade de mineração de criptomoedas
 
@@ -42,8 +43,18 @@ Se a atividade for inesperada, considere o seguinte:
 
 3.  Se você precisar descobrir quem criou a assinatura, analise os logs de atividade do Painel de Parceiros.
 
-A detecção de atividades de mineração de criptomoedas se baseia em heurística e pode não ser 100% precisa. Verifique se há sistemas de governança e de monitoramento preparados para proteger contra atividades fraudulentas ou outras atividades não permitidas. Para obter mais informações, consulte [Falta de pagamento, fraude ou uso indevido](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).
+A detecção de atividades de mineração de criptomoedas se baseia em heurística e pode não ser 100% precisa. Verifique se há sistemas de governança e de monitoramento preparados para proteger contra atividades fraudulentas ou outras atividades não permitidas. Para obter mais informações, consulte [Não pagamento, fraude ou uso indevido](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).
 
+Se tiver dúvidas ou preocupações sobre a notificação, você pode usar o procedimento a seguir para abrir uma solicitação de suporte.
+
+1.  No Painel, selecione **Suporte** e, em seguida, selecione **Solicitações do Partner Center**.
+3.  Selecione **Nova solicitação**. 
+4.  No menu suspenso **Tipo de problema**, selecione **Adding or managing customers**.
+5.  No menu suspenso **Impacto**, selecione **Moderado**.
+6.  No campo **Título**, insira **Crypto-mining notification**.
+7.  No campo **Descrição**, insira o nome da assinatura afetada juntamente com suas outras dúvidas ou preocupações. 
+8.  Insira suas informações de contato.
+9.  Selecione **Enviar**.
 
 
 
