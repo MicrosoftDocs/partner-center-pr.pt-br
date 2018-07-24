@@ -1,74 +1,179 @@
 ---
-title: Bem-vindo ao Microsoft Partner Center
-description: Microsoft Partner Center
-author: labrenne
-ms.openlocfilehash: e1161f019d6cdd5ef5d72e3006f029c60f0f7413
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+layout: LandingPage
+hide_bc: true
+title: Comece aqui para obter ajuda com o Painel de Parceiros
+description: Precisa de ajuda para configurar a conta, conectar-se com clientes ou comprar uma assinatura do Action Pack? Encontre as respostas na biblioteca de Ajuda do Painel de Parceiros.
+author: v-chmccl
+ms.topic: landing-page
+searchScope: []
+ms.openlocfilehash: 731362ac654cf8ea3d70985316a881ce81cac5d9
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "1919896"
 ---
-# <a name="welcome-to-your-partner-dashboard"></a>Bem-vindo ao seu Painel de Parceiros
+# <a name="start-here-for-help-with-partner-center-dashboard"></a>Comece aqui para obter ajuda com o Partner Center
 
-O Painel de Parceiros da Microsoft, este site, é onde os parceiros comerciais da Microsoft vêm para desenvolver, gerenciar e expandir seus negócios. (Observe que nem tudo que é discutido nesta página é aplicável a todos os parceiros. Alguns recursos estão sendo disponibilizados em estágios.)
+Precisa de ajuda para configurar a conta, conectar-se com clientes ou comprar uma assinatura do Action Pack? Encontre as respostas na biblioteca de Ajuda do Painel do Partner Center.
 
-## <a name="create-a-partner-dashboard-account-to"></a>Crie uma conta do Painel de Parceiros para:
+Se você já estiver familiarizado com o painel, consulte [novidades](/partner-center/whats-new-in-pc).
 
--   Gerenciar sua parceria com a Microsoft
-    -   Adquirir o Microsoft Action Pack e outros benefícios de associação de direitos de uso interno 
-    -   Desenvolver os conhecimentos da sua empresa em produtos e serviços da Microsoft
-    -   Qualificar-se para status de associação Silver e Gold
+<ul id="products1" class="cardsC cols cols3 panelContent singlePanelContent">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Inscrever-se</h3>
+                        <p><a href="/partner-center/mpn-create-a-partner-center-account">Criar uma conta</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">Gerenciar seu locatário e locais</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Conectar-se com clientes</h3>
+                        <p><a href="/partner-center/customer-accounts">Contas de clientes</a><br /><a href="/partner-center/customer-subscriptions">Vender assinaturas</a><br /><a href="/partner-center/assign-licenses-to-users">Gerenciar licenças</a><br /><a href="/partner-center/billing">Cobrança</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Ampliar seus negócios</h3>
+                        <p><a href="/partner-center/referrals">Perfis de negócios/indicações</a><br /><a href="/partner-center/promotions">Promoções</a><br /><a href="/partner-center/get-special-pricing-for-offers">Vender para setores especializados</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
 
--   Adicionar os funcionários à sua conta e atribuir a eles o nível adequado de acesso
+<ul id="products2" class="cardsF cols cols3 panelContent singlePanelContent">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img alt="" src="https://docs.microsoft.com/media/common/i_portal.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">Faça um tour de seu Painel de Parceiros</a> (entrada obrigatória)</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img alt="" src="https://docs.microsoft.com/media/common/i_vmm-cloud.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Novo! <a href="/partner-center/azure-ri-server-subscriptions">Vender reservas do Azure por meio do CSP</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img alt="" src="https://docs.microsoft.com/media/common/i_form.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3><a href="/partner-center/">Navegar e procurar todos os artigos da Ajuda</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3><a href="/partner-center/mpn-get-action-pack">Baixar o Microsoft Action Pack (MAPS)</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3><a href="/partner-center/partner-center-account-setup">Gerenciar sua conta</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3><a href="https://partnercenter.microsoft.com/pcv/announcements">Comunicados</a> (entrada obrigatória)</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
+<hr />
 
--   Obter oportunidades de vendas qualificadas da Microsoft 
-    -   Divulgar as ofertas da sua empresa para milhares de clientes em potencial
-    -   Gerenciar suas oportunidades de vendas do contato inicial até a hora de fechar o negócio 
-
--   Inscrever-se no programa Provedor de Soluções na Nuvem
-    -   Vender e gerenciar assinaturas de soluções e serviços em nuvem da Microsoft       
-    -   Conectar-se a clientes e gerenciá-los
-    -   Provedores indiretos - conectar-se a revendedores e gerenciá-los    
-    -   Vender para clientes em nuvens nacionais da Microsoft particulares e dedicadas 
-    -   Gerenciar suas faturas da e pagamentos para a Microsoft
-    -   Reconciliar suas faturas para saber quanto cobrar dos clientes
-   
-
->**Importante**<br>
-O Painel de Parceiros está constantemente evoluindo para incluir mais recursos e funcionalidades. Descubra as [novidades](whats-new-in-pc.md).
-
-
-## <a name="get-started"></a>Introdução
-
-Inscreva-se no programa de parceria que atende às suas metas e comece a trabalhar com seus clientes:
-
-| **Acesse aqui**  | **Para saber mais sobre isso**  |
-|------------|:-------------|
-|[Participe do Microsoft Partner Network](mpn-overview.md)|Faça parceria com a Microsoft para obter acesso a serviços e softwares de direitos de uso interno, ao Microsoft Action Pack, e obter competências Silver e Gold |
-|[Programa Provedor de Soluções na Nuvem - vender soluções de nuvem em demanda](csp-overview.md) | Qual modelo CSP é ideal para você, onde é possível vender por meio do CSP, o que você pode vender por meio do CSP |
-|[Configurar sua conta do Painel de Parceiros](partner-center-account-setup.md)|Crie contas de usuário, gerencie perfis e senhas, e personalize o catálogo de produtos |
-|[Configure suas contas de cliente](customer-accounts.md)|Adicione usuários, crie novas contas e veja sua lista de clientes |
-|[Trabalhe com outros parceiros](work-with-other-partners.md)|Encontre parceiros cujos conhecimentos complementem os seus |
-
-## <a name="manage-your-reseller-business"></a>Gerencie sua empresa de revenda
-
-Aproveite essas oportunidades para aumentar seus negócios:
-
-| **Acesse aqui**  |**Para saber mais sobre isso**   |
-|------------|:-------------|
-|[Expanda seus negócios com indicações da Microsoft](referrals.md)|Crie um perfil de negócios para os clientes, então receba e responda a indicações|
-|[App Análise do Parceiro para Power BI](power-bi-app-for-direct-partners.md)| Obtenha percepções sobre o desempenho da sua empresa usando o painel familiar do Microsoft Power BI|
-|[Gerencie assinaturas de clientes](customer-subscriptions.md)|Novas assinaturas, assinaturas de avaliação, atribua licenças, promoções e descontos|
-|[Adicione competências ao seu perfil de negócios](learn-about-competencies.md)|Demonstre conhecimento, saiba mais sobre as opções de competência|
-|[Cobrança](billing.md)|Revise os cenários de cobrança, impostos e taxas, e orçamentos de gastos do Azure. |
-
-## <a name="understand-your-support-options"></a>Conheça suas opções de suporte
-
-Quando o cliente precisa de serviço de suporte técnico ou da conta, você é o primeiro ponto de contato.
-
-Quando você precisa de ajuda com um serviço da Microsoft ou com o Partner Center, estamos aqui para você. 
-
-| **Acesse aqui**  | **Para saber mais sobre isso**  |
-|------------|:-------------|
-|[Atendimento ao cliente](customer-support.md)|Forneça suporte técnico, suporte para cobranças, lide com escalonamentos e ajude os clientes a obter seu próprio suporte|
-|[Suporte da Microsoft](support-from-microsoft.md)|Relate problemas com o Partner Center, relate problemas em nome do cliente|
+<ul id="products3" class="cardsF cols cols3 panelContent singlePanelContent">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img class="x-hidden-focus" alt="" src="https://docs.microsoft.com/media/common/i_support.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Suporte</h3>
+                        <p>Explore outros recursos de suporte, incluindo suporte ao produto, chat, treinamento, blogs e Yammer.<br /><br /><a href="/partner-center/customer-support">Ofereça suporte a seus clientes</a><br /><a href="/partner-center/support-from-microsoft">Obter suporte da Microsoft</a><br /><a href="https://partnercenter.microsoft.com/partner/support">Recursos adicionais</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>

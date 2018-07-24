@@ -3,11 +3,12 @@ title: Dimensionamento de VM do Microsoft Azure para uso máximo de reserva | Pa
 Description: Information on purchasing and managing Azure reservations
 author: v-petand
 keywords: azure, reservas, vm, gerenciar, uso, dimensionamento
-ms.openlocfilehash: 4050780f9d3dc3ad7d3c4ece0d363845ec1efe9c
-ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
+ms.openlocfilehash: 9ddf74d209f9174b4192a9d89b65a41e371f37ae
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/11/2018
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "1883097"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Dimensionamento de VM do Microsoft Azure para uso máximo de reserva do Azure 
 
@@ -119,7 +120,7 @@ Você pode obter dados de uso da reserva com a API de utilização do Azure para
 -   consumptionMeter é a MeterId para a VM que tem o desconto da reserva aplicado a ela.
 -   O ReservationMeter mostra o custo de US$ 0 desde que o desconto da reserva foi aplicado. 
 
-Para obter mais informações, consulte [Obter registros de utilização de um cliente do Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) na [API do Painel de Parceiros](https://docs.microsoft.com/partner-center/develop/).
+Para obter mais informações, consulte [Obter registros de utilização de um cliente do Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) na [API do Partner Center](https://docs.microsoft.com/partner-center/develop/).
 
 >[!IMPORTANT]
 >Os custos de software, como o Microsoft Windows Server, não estão incluídos no preço de uma reserva de VM e aparecerão como itens de linha separados no registro do pedido e em sua fatura. No entanto, se um cliente tiver o Benefício de Uso Híbrido do Azure, os custos de software não serão aplicados. Para obter mais informações, consulte [Custos de software do Windows não incluídos com Instâncias Reservadas](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs).  

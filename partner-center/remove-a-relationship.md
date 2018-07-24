@@ -1,12 +1,13 @@
 ---
-title: "Remova uma relação com um revendedor ou um cliente | Partner Center"
-description: "Remover uma relação remove qualquer relação comercial fechada do modo de exibição no Partner Center."
+title: Remova uma relação com um revendedor ou um cliente | Partner Center
+description: Remover uma relação remove qualquer relação comercial fechada do modo de exibição no Partner Center.
 author: KPacquer
-ms.openlocfilehash: e178318e50b6a2b3bb7a6d7ecf7ec83f6d93b7c3
-ms.sourcegitcommit: 955622c85ff0905647974fc598139579191b55da
+ms.openlocfilehash: eb48bb660fbd6acac91426eff5c0b9f4c8c45729
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 06/22/2018
+ms.locfileid: "2088963"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>Remover uma relação de revendedor ou um cliente
 
@@ -22,7 +23,7 @@ Este recurso:
 *  Remove seus privilégios de administrador de delegação para o cliente
 *  Remove a capacidade de você fazer compras em nome do cliente
 
-Para remover a relação, você precisará primeiro suspender todas as assinaturas ativas restantes:
+Para remover a relação, primeiro você precisará cancelar as reservas do Azure RI, cancelar as compras de software e suspender todas as assinaturas ativas restantes:
 
 1.  Suspenda todas as assinaturas ativas. No painel, vá para **Clientes** > selecione um cliente > **Assinaturas** > selecione uma assinatura > **Suspensa**. 
 

@@ -3,11 +3,12 @@ title: Instâncias de VM reservadas do Azure (RI) + assinaturas de servidor para
 description: Ao trazer Assinaturas do Azure RI e de Servidor para o programa CSP, é melhor permitir que nossos parceiros lidem com a demanda crescente do cliente por soluções mais econômicas para dar suporte a cargas de trabalho persistentes e altamente previsíveis. O programa CSP permite que os parceiros adquiram, provisionem e gerenciem Assinaturas do Azure RI e de Servidor em nome de clientes comerciais por meio do Microsoft Partner Center e do Portal do Azure.
 author: v-petand
 keywords: Azure, assinaturas, VM, reserva, instância reservada
-ms.openlocfilehash: 92b9bc437f383574527a9357239ee2460ebe4f46
-ms.sourcegitcommit: 933caff79bc4bf8855de4347f0bfde11662840f2
+ms.openlocfilehash: a86274f22c2c2cc8c24105e3b8937e6e297bae9d
+ms.sourcegitcommit: 2ce27f09e77eb1f6d7a33e7b154fec3b80ae36d1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 06/19/2018
+ms.locfileid: "2076036"
 ---
 # <a name="azure-reserved-vm-instances-ri--server-subscriptions-for-azure"></a>Instâncias de VM reservadas do Azure (RI) + assinaturas de servidor para Azure
 
@@ -74,6 +75,7 @@ A seguir, uma lista abrangente de recursos para ajudá-lo a se integrar rapidame
 -   [Webinar de Visão Geral das Reservas do Azure](https://commercial-licensing.eventbuilder.com/Reserved_Instances_in_CSP_May_Option_1)
 -   [Guia Operacional de Comércio Moderno](http://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx): guia abrangente que cobre a política e os aspectos operacionais chave, como contratos, pedidos por meio do Partner Center, fatura, detalhes da lista de preço, incentivos, arquivo de reconciliação, API/SDK, Área Restrita e Serviços Compartilhados de Parceiro do Azure.
 -   [Planilha de Vendas](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
+-   [Matriz de Moeda do Cliente e Disponibilidade por País de Ofertas Modernas](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 -   [Módulo de Licenciamento do Azure na Partner University](https://aka.ms/azure_partner_licensing)
 -   [Perguntas frequentes sobre o Azure RI](https://www.yammer.com/cloudpartnercommunity/#/files/133462302)
 -   [Visão geral de preços do Azure](https://azure.microsoft.com/en-us/pricing/#explore-cost)
@@ -90,7 +92,7 @@ A seguir, uma lista abrangente de recursos para ajudá-lo a se integrar rapidame
 O [Benefício Híbrido do Azure](https://azure.microsoft.com/en-us/pricing/hybrid-benefit) ajuda você a obter mais valor de suas licenças do Windows Server e a economizar até 40%* em máquinas virtuais. Você pode usar o benefício com licenças do Windows Server Datacenter e Standard edition cobertas com Software Assurance. Dependendo da edição, você pode converter ou reutilizar as licenças para executar máquinas virtuais do Windows Server no Azure e pagar uma taxa de computação base mais baixa (taxas de máquina virtual do Linux).
 
 Benefício Híbrido do Azure - a nuvem mais econômica para a migração do Windows Server ou do SQL Server:
--   Economize até 82% no Windows Server com Benefício Híbrido do Azure e Instâncias Reservadas
+-   Economize até 80% no Windows Server com Benefício Híbrido do Azure e Instâncias Reservadas
 -   Economize até 30%* em migrações para Banco de Dados SQL do Azure2 com Benefício Híbrido do Azure
 -   Vá em seu próprio ritmo - mova algumas cargas de trabalho ou datacenters inteiros
 -   Maximizar seu investimento atual no Software Assurance

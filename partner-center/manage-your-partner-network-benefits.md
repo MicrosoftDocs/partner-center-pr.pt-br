@@ -1,33 +1,34 @@
 ---
 title: Gerenciar seus benefícios do Microsoft Partner Network | Partner Center
-description: Como um membro do Microsoft Partner Network, você está qualificado a certos benefícios de associação. Explicar como ativar e gerenciar seus benefícios de associação no Partner Center.
+description: Como um membro do Microsoft Partner Network, você está qualificado para comprar certos benefícios de associação. Explica como ativar e gerenciar seus benefícios de associação no painel de parceiros.
 author: MaggiePucciEvans
-ms.openlocfilehash: 7feb6c46834011ef679442a5ce261221e4800067
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+keywords: MPN, benefícios da associação, associação
+ms.openlocfilehash: 650db44e4a240ca8f05ea421dec6ffc15ec8ceb2
+ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2207276"
 ---
-# <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gerenciar seus benefícios de participação do Microsoft Partner Network
+# <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gerencie seus benefícios de associação ao Microsoft Partner Network
 
 **Aplicável a**
 
 -  Partner Center
 
-A participação na Microsoft Partner Network concede a você certos pacotes de benefícios. Antes de poder comprar e ativar os benefícios de associação, sua organização deve ser um membro da Microsoft Partner Network. Se não for um membro da rede, você poderá ingressar em [https://partner.microsoft.com](https://partner.microsoft.com).
+>[!IMPORTANT]
+>Este artigo explica como começar a usar os benefícios de associação ao MPN (Microsoft Partner Network) no painel de parceiros (anteriormente conhecido como Partner Center) – este site. Se ainda não recebeu um convite para mover as informações de sua empresa do PMC (Partner Membership Center) para o painel de parceiros, você deve continuar a gerenciar os benefícios de sua associação à MPN no PMC. [Entre](https://partner.microsoft.com/_login?authType=OpenIdConnect) no PMC agora.   
 
->**Observação** Seguir este link o levará para outro site. Retorne para este site, Partner Center, para renovar e atualizar sua participação na rede.
-
-Depois de ingressar ou renovar sua associação na Microsoft Partner Network, você pode atualizar sua associação e comprar benefícios, incluindo Microsoft Action Pack.
+Ingressando no MPN (Microsoft Partner Network), você obtém acesso a benefícios de associação que podem ajudá-lo a criar e desenvolver seus negócios. Se não for membro do MPN, você poderá ingressar no [site do MPN](https://partner.microsoft.com/membership).
 
 
-## <a name="manage-your-membership-benefits"></a>Gerencie os benefícios da sua participação
+## <a name="manage-your-membership-benefits-in-the-dashboard"></a>Gerenciar os benefícios de sua associação no painel
 
-Depois que você comprar um pacote de benefícios, precisará atribuir licenças, assinaturas e outros benefícios para os funcionários começarem a usá-los. 
+Após comprar um pacote de benefícios de associação, você precisará obter chaves de software e atribuir licenças, assinaturas e outros benefícios para os funcionários começarem a usá-los. 
 
-Sua assinatura do Action Pack inclui alocações de licenças de software de direitos de uso interno, serviços de nuvem, assinaturas do Visual Studio e suporte. 
+Sua assinatura do Action Pack inclui alocações de licenças de software de direitos de uso interno, serviços de nuvem, assinaturas do Visual Studio e suporte. Você pode encontrar detalhes sobre a assinatura do Action Pack no site do [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
-Para exibir e gerenciar seus benefícios de associação, selecione **Benefícios** de seu menu **Painel**. A página **Benefícios** é aberta. 
+Para exibir e gerenciar seus benefícios de associação, acesse a [**página Benefícios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (entrada necessária).
 
 #### <a name="manage-software-benefits"></a>Gerenciar benefícios de software
 
@@ -72,10 +73,11 @@ Se o usuário que deseja atribuir não estiver na lista, você poderá [adiciona
 
     Você pode reatribuir assinaturas sempre removendo um usuário atribuído e, em seguida, atribuindo um usuário diferente. 
 
+#### <a name="manage-technical-benefits"></a>Gerenciar benefícios técnicos
 
-#### <a name="manage-support-benefits"></a>Gerenciar benefícios de suporte
+1. Selecione **Benefícios técnicos** para ver sua lista de benefícios técnicos da Microsoft.
 
-1. Selecione **Suporte** para ver sua lista de benefícios relacionadas ao Suporte da Microsoft. 
+    Os benefícios técnicos podem incluir incidentes de suporte de produtos Microsoft, horas de consultoria de parceiros e serviços de implantação de pré-vendas técnicas.   
 
 2. Encontre o benefício de suporte que você deseja começar a usar e, em seguida, selecione a seta para baixo na extremidade direita da linha para expandir os detalhes do benefício. 
 
@@ -83,11 +85,14 @@ Se o usuário que deseja atribuir não estiver na lista, você poderá [adiciona
    
     a.  Selecione um usuário da lista. Se o usuário que deseja atribuir não estiver na lista, você poderá [adicionar novos usuários](create-user-accounts-and-set-permissions.md) em **Configurações da conta**.
 
-    b.  Forneça um endereço de e-mail para o usuário que for diferente do endereço de e-mail associado à sua conta do Partner Center. 
+    b.  Forneça um endereço de email para o usuário que seja diferente do endereço de email associado à conta do painel de sua empresa. 
     
-    Como uma medida de segurança, enviaremos instruções por e-mail para acessar o suporte técnico da Microsoft nesse endereço de e-mail, além do e-mail da conta do usuário do Partner Center. Observe que pode levar vários dias para ativar esse benefício e as instruções de e-mail ao usuário atribuído.    
+    Como medida de segurança, enviaremos instruções por email para acessar o Suporte ao Produto da Microsoft para esse endereço de email, além do email da conta do painel do usuário. Observe que pode levar vários dias para ativar esse benefício e as instruções de e-mail ao usuário atribuído.    
     
-    c.  Quando terminar de inserir o endereço de e-mail alternativo, selecione **Atribuir usuário**. 
+    c.  Após terminar de inserir o endereço de email alternativo, selecione **Atribuir usuário**. 
+
+4. Você pode usar seu benefício de assistência de pré-vendas técnicas ou horas de consultoria para solicitar assistência técnica durante as fases de pré-vendas, design, implantação e desenvolvimento de aplicativos de suas soluções híbridas e de nuvem. Para solicitar assistência, preencha o [formulário de solicitação](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
+) e selecione **Enviar solicitação**.
 
 
 #### <a name="see-also"></a>Veja também

@@ -4,7 +4,7 @@
 ## [Obter o Microsoft Action Pack](mpn-get-action-pack.md)
 ## [Obter a associação Silver ou Gold](learn-about-competencies.md)
 ## [Obter os benefícios da sua associação](manage-your-partner-network-benefits.md)
-## [Renovar suas ofertas do MPN](renew-mpn-offers.md)
+
 
 
 # [Provedor de Soluções na Nuvem](csp-overview.md)
@@ -71,14 +71,17 @@
 ### [Mover os clientes de serviços baseados em licença para o programa Provedor de Serviços de Nuvem](transition-seat-based-services.md)
 ### [Fazer upgrade de assinaturas do Dynamics AX para o Dynamics 365](manual-subscription-migration.md)
 ### [Migrar inscrições do Office 365 Enterprise E4 para versões do Office 365 mais recentes](migrate-office365-e4-subscriptions-to-newer-versions.md)
+### [Migrar o Skype for Business Online Plano 1 para versões mais novas do Office 365](skype-retiring.md)
 ### [Transferir assinaturas do Azure](switch-azure-subscriptions-to-a-different-partner.md)
 ### [Vender assinaturas do Minecraft: Education Edition](minecraft-subscriptions.md)
+### [Vender para setores especializados](Get-special-pricing-for-offers.md)
 ### [Aumentar a adoção e a satisfação](increasing-adoption-and-satisfaction.md)
 ### [Simplificar a configuração do dispositivo com o Windows Autopilot](autopilot.md)
 
 # Dados e análises do Painel de Parceiros
 ## [Obter e analisar seus dados de negócios](data-analysis-lp.md)
 ## [App Análise do Parceiro para Microsoft Power BI](power-bi-app-for-direct-partners.md)
+## [Comparar seu negócio de CSP com outros parceiros](partner-contributions.md)
 
 # [Trabalhar com outros parceiros](work-with-other-partners.md)
 ## [Tarefas de provedor indireto no Painel de Parceiros](indirect-provider-tasks-in-partner-center.md)
