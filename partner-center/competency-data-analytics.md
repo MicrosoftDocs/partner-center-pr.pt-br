@@ -1,112 +1,119 @@
 ---
-title: "Competência Análise de Dados"
-description: "Se sua organização está no ramo de examinar os dados que ajudam os clientes a descobrir insights mais aprofundados, fazer previsões ou gerar recomendações, a competência Análise de Dados oferece uma plataforma para criar e comprovar suas habilidades."
+title: Competência Análise de Dados
+description: Se sua organização está no ramo de examinar os dados que ajudam os clientes a descobrir insights mais aprofundados, fazer previsões ou gerar recomendações, a competência Análise de Dados oferece uma plataforma para criar e comprovar suas habilidades.
 author: Daniel Simpson
-keywords: "competência,competências,Análise de Dados"
-ms.openlocfilehash: 369bf2e35270a5c7eeb7b1db2c50bac4922580aa
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: competência,competências,Análise de Dados
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 392efa7ef4fc6626d076c8419e68c9b510e7f0cd
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875296"
 ---
-#<a name="data-analytics"></a><span data-ttu-id="879a9-104">Análise de Dados</span><span class="sxs-lookup"><span data-stu-id="879a9-104">Data Analytics</span></span>
-<span data-ttu-id="879a9-105">Se sua organização está no ramo de examinar os dados que ajudam os clientes a descobrir insights mais aprofundados, fazer previsões ou gerar recomendações, a competência Análise de Dados oferece uma plataforma para criar e comprovar suas habilidades.</span><span class="sxs-lookup"><span data-stu-id="879a9-105">If your organization is into the business of examining the data that helps customers to discover deeper insights, make predictions, or generate recommendations, then the Data Analytics competency gives you a platform to build and prove your capabilities.</span></span>
+>[!IMPORTANT]
+><span data-ttu-id="5160e-104">Para saber mais sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="5160e-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
-- [<span data-ttu-id="879a9-106">Opção Especialista em Análise de Dados</span><span class="sxs-lookup"><span data-stu-id="879a9-106">Data Analytics Specialist option</span></span>](#data-analytics-specialist-option)
-- [<span data-ttu-id="879a9-107">Opção Iniciante em Análise de Dados</span><span class="sxs-lookup"><span data-stu-id="879a9-107">Data Analytics Beginners option</span></span>](#data-analytics-beginners-option)
-- [<span data-ttu-id="879a9-108">Opção Power BI</span><span class="sxs-lookup"><span data-stu-id="879a9-108">Power BI option</span></span>](#power-bi-option)
+<!--
+#Data Analytics
+If your organization is into the business of examining the data that helps customers to discover deeper insights, make predictions, or generate recommendations, then the Data Analytics competency gives you a platform to build and prove your capabilities.
 
-##<a name="data-analytics-specialist-option"></a><span data-ttu-id="879a9-109">Opção Especialista em Análise de Dados</span><span class="sxs-lookup"><span data-stu-id="879a9-109">Data Analytics Specialist option</span></span>
-<span data-ttu-id="879a9-110">A opção Especialista em Análise de Dados é ideal se você preferir comprovar suas habilidades passando nos exames em determinada área de especialização.</span><span class="sxs-lookup"><span data-stu-id="879a9-110">The Data Analytics Specialist option is ideal if you prefer to prove your skills by passing exams within a particular Area of Specialization.</span></span> <span data-ttu-id="879a9-111">Conclua todas as etapas da opção para obter a competência Análise de Dados.</span><span class="sxs-lookup"><span data-stu-id="879a9-111">Complete all the steps within the option to attain the Data Analytics competency.</span></span>
+- [Data Analytics Specialist option](#data-analytics-specialist-option)
+- [Data Analytics Beginners option](#data-analytics-beginners-option)
+- [Power BI option](#power-bi-option)
 
-###<a name="silver"></a><span data-ttu-id="879a9-112">Silver</span><span class="sxs-lookup"><span data-stu-id="879a9-112">Silver</span></span>
-1. <span data-ttu-id="879a9-113">Sua organização deve ter **1** pessoa aprovada em todos os exames em qualquer uma das três áreas de foco: **Business Intelligence**, **Análise Avançada** OU **Big Data**, e a pessoa deve passar em uma avaliação.</span><span class="sxs-lookup"><span data-stu-id="879a9-113">Your organization must have **1** individual pass all of the exams in any one of the three focus areas: **Business Intelligence**, **Advanced Analytics**, OR **Big Data**, and the individual must pass an assessment.</span></span>
+##Data Analytics Specialist option
+The Data Analytics Specialist option is ideal if you prefer to prove your skills by passing exams within a particular Area of Specialization. Complete all the steps within the option to attain the Data Analytics competency.
 
-    - <span data-ttu-id="879a9-114">A área de foco **Business Intelligence**</span><span class="sxs-lookup"><span data-stu-id="879a9-114">**Business Intelligence** focus area</span></span>
-        - <span data-ttu-id="879a9-115">[Exame 70 767](https://www.microsoft.com/en-us/learning/exam-70-767.aspx): Implementing a SQL Data Warehouse</span><span class="sxs-lookup"><span data-stu-id="879a9-115">[Exam 70-767](https://www.microsoft.com/en-us/learning/exam-70-767.aspx): Implementing a SQL Data Warehouse</span></span> 
-        - <span data-ttu-id="879a9-116">[Exame 70 768](https://www.microsoft.com/en-us/learning/exam-70-768.aspx): Developing SQL Data Models (Beta)</span><span class="sxs-lookup"><span data-stu-id="879a9-116">[Exam 70-768](https://www.microsoft.com/en-us/learning/exam-70-768.aspx): Developing SQL Data Models (Beta)</span></span>
+###Silver
+1. Your organization must have **1** individual pass all of the exams in any one of the three focus areas: **Business Intelligence**, **Advanced Analytics**, OR **Big Data**, and the individual must pass an assessment.
 
-    - <span data-ttu-id="879a9-117">Área de foco **Análise Avançada**</span><span class="sxs-lookup"><span data-stu-id="879a9-117">**Advanced Analytics** focus area</span></span>
-        - <span data-ttu-id="879a9-118">[Exame 70 773](https://www.microsoft.com/en-us/learning/exam-70-773.aspx): Analyzing Big Data with Microsoft R</span><span class="sxs-lookup"><span data-stu-id="879a9-118">[Exam 70-773](https://www.microsoft.com/en-us/learning/exam-70-773.aspx): Analyzing Big Data with Microsoft R</span></span>
-        - <span data-ttu-id="879a9-119">[Exame 70 774](https://www.microsoft.com/en-us/learning/exam-70-774.aspx): Perform Cloud Data Science with Azure Machine Learning</span><span class="sxs-lookup"><span data-stu-id="879a9-119">[Exam 70-774](https://www.microsoft.com/en-us/learning/exam-70-774.aspx): Perform Cloud Data Science with Azure Machine Learning</span></span>
+    - **Business Intelligence** focus area
+        - [Exam 70-767](https://www.microsoft.com/en-us/learning/exam-70-767.aspx): Implementing a SQL Data Warehouse 
+        - [Exam 70-768](https://www.microsoft.com/en-us/learning/exam-70-768.aspx): Developing SQL Data Models (Beta)
 
-    - <span data-ttu-id="879a9-120">Área de foco **Big Data**</span><span class="sxs-lookup"><span data-stu-id="879a9-120">**Big Data** focus area</span></span>
-        - <span data-ttu-id="879a9-121">[Exame 70 475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solution</span><span class="sxs-lookup"><span data-stu-id="879a9-121">[Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions</span></span>
-        - <span data-ttu-id="879a9-122">[Exame 70 775](https://www.microsoft.com/en-us/learning/exam-70-775.aspx): Perform Data Engineering on Microsoft HD Insight</span><span class="sxs-lookup"><span data-stu-id="879a9-122">[Exam 70-775](https://www.microsoft.com/en-us/learning/exam-70-775.aspx): Perform Data Engineering on Microsoft HD Insight</span></span>
+    - **Advanced Analytics** focus area
+        - [Exam 70-773](https://www.microsoft.com/en-us/learning/exam-70-773.aspx): Analyzing Big Data with Microsoft R
+        - [Exam 70-774](https://www.microsoft.com/en-us/learning/exam-70-774.aspx): Perform Cloud Data Science with Azure Machine Learning
 
-    **<span data-ttu-id="879a9-123">E</span><span class="sxs-lookup"><span data-stu-id="879a9-123">AND</span></span>**
+    - **Big Data** focus area
+        - [Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions
+        - [Exam 70-775](https://www.microsoft.com/en-us/learning/exam-70-775.aspx): Perform Data Engineering on Microsoft HD Insight
 
-    - <span data-ttu-id="879a9-124">A mesma pessoa deve passar na avaliação a seguir:</span><span class="sxs-lookup"><span data-stu-id="879a9-124">The same individual must pass the following assessment:</span></span>
-        - [<span data-ttu-id="879a9-125">Avaliação técnica Fundamentos de análise de dados</span><span class="sxs-lookup"><span data-stu-id="879a9-125">Technical Assessment Data Analytics Foundational</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
+    **AND**
 
-###<a name="gold"></a><span data-ttu-id="879a9-126">Gold</span><span class="sxs-lookup"><span data-stu-id="879a9-126">Gold</span></span>
-1. <span data-ttu-id="879a9-127">Sua organização deve ter **2** pessoas aprovadas em todos os exames em qualquer uma das três áreas de foco: **Business Intelligence**, **Análise Avançada** OU **Big Data**, e as pessoas devem passar em uma avaliação.</span><span class="sxs-lookup"><span data-stu-id="879a9-127">Your organization must have **2** individuals pass all of the exams in any one of the three focus areas: **Business Intelligence**, **Advanced Analytics**, OR **Big Data**, and the individuals must pass an assessment.</span></span>
+    - The same individual must pass the following assessment:
+        - [Technical Assessment Data Analytics Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
 
-    - <span data-ttu-id="879a9-128">A área de foco **Business Intelligence**</span><span class="sxs-lookup"><span data-stu-id="879a9-128">**Business Intelligence** focus area</span></span>
-        - <span data-ttu-id="879a9-129">[Exame 70 767](https://www.microsoft.com/en-us/learning/exam-70-767.aspx): Implementing a SQL Data Warehouse</span><span class="sxs-lookup"><span data-stu-id="879a9-129">[Exam 70-767](https://www.microsoft.com/en-us/learning/exam-70-767.aspx): Implementing a SQL Data Warehouse</span></span> 
-        - <span data-ttu-id="879a9-130">[Exame 70 768](https://www.microsoft.com/en-us/learning/exam-70-768.aspx): Developing SQL Data Models (Beta)</span><span class="sxs-lookup"><span data-stu-id="879a9-130">[Exam 70-768](https://www.microsoft.com/en-us/learning/exam-70-768.aspx): Developing SQL Data Models (Beta)</span></span>
+###Gold
+1. Your organization must have **2** individuals pass all of the exams in any one of the three focus areas: **Business Intelligence**, **Advanced Analytics**, OR **Big Data**, and the individuals must pass an assessment.
 
-    - <span data-ttu-id="879a9-131">Área de foco **Análise Avançada**</span><span class="sxs-lookup"><span data-stu-id="879a9-131">**Advanced Analytics** focus area</span></span>
-        - <span data-ttu-id="879a9-132">[Exame 70 773](https://www.microsoft.com/en-us/learning/exam-70-773.aspx): Analyzing Big Data with Microsoft R</span><span class="sxs-lookup"><span data-stu-id="879a9-132">[Exam 70-773](https://www.microsoft.com/en-us/learning/exam-70-773.aspx): Analyzing Big Data with Microsoft R</span></span>
-        - <span data-ttu-id="879a9-133">[Exame 70 774](https://www.microsoft.com/en-us/learning/exam-70-774.aspx): Perform Cloud Data Science with Azure Machine Learning</span><span class="sxs-lookup"><span data-stu-id="879a9-133">[Exam 70-774](https://www.microsoft.com/en-us/learning/exam-70-774.aspx): Perform Cloud Data Science with Azure Machine Learning</span></span>
+    - **Business Intelligence** focus area
+        - [Exam 70-767](https://www.microsoft.com/en-us/learning/exam-70-767.aspx): Implementing a SQL Data Warehouse 
+        - [Exam 70-768](https://www.microsoft.com/en-us/learning/exam-70-768.aspx): Developing SQL Data Models (Beta)
 
-    - <span data-ttu-id="879a9-134">Área de foco **Big Data**</span><span class="sxs-lookup"><span data-stu-id="879a9-134">**Big Data** focus area</span></span>
-        - <span data-ttu-id="879a9-135">[Exame 70 475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solution</span><span class="sxs-lookup"><span data-stu-id="879a9-135">[Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions</span></span>
-        - <span data-ttu-id="879a9-136">[Exame 70 775](https://www.microsoft.com/en-us/learning/exam-70-775.aspx): Perform Data Engineering on Microsoft HD Insight</span><span class="sxs-lookup"><span data-stu-id="879a9-136">[Exam 70-775](https://www.microsoft.com/en-us/learning/exam-70-775.aspx): Perform Data Engineering on Microsoft HD Insight</span></span>
+    - **Advanced Analytics** focus area
+        - [Exam 70-773](https://www.microsoft.com/en-us/learning/exam-70-773.aspx): Analyzing Big Data with Microsoft R
+        - [Exam 70-774](https://www.microsoft.com/en-us/learning/exam-70-774.aspx): Perform Cloud Data Science with Azure Machine Learning
 
-    **<span data-ttu-id="879a9-137">E</span><span class="sxs-lookup"><span data-stu-id="879a9-137">AND</span></span>**
+    - **Big Data** focus area
+        - [Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions
+        - [Exam 70-775](https://www.microsoft.com/en-us/learning/exam-70-775.aspx): Perform Data Engineering on Microsoft HD Insight
 
-    - <span data-ttu-id="879a9-138">As duas pessoas devem passar na seguinte avaliação:</span><span class="sxs-lookup"><span data-stu-id="879a9-138">Both the individuals must pass the following assessment:</span></span> 
-        - [<span data-ttu-id="879a9-139">Avaliação técnica Fundamentos de análise de dados</span><span class="sxs-lookup"><span data-stu-id="879a9-139">Technical Assessment Data Analytics Foundational</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
+    **AND**
 
-##<a name="data-analytics-beginners-option"></a><span data-ttu-id="879a9-140">Opção Iniciante em Análise de Dados</span><span class="sxs-lookup"><span data-stu-id="879a9-140">Data Analytics Beginners option</span></span>
-<span data-ttu-id="879a9-141">A opção Iniciante em Análise de Dados é ideal se você preferir comprovar suas habilidades sendo aprovado nas avaliações.</span><span class="sxs-lookup"><span data-stu-id="879a9-141">The Data Analytics Beginners option is ideal if you prefer to prove your skills by passing assessments.</span></span> <span data-ttu-id="879a9-142">Conclua todas as etapas da opção para obter a competência Análise de Dados.</span><span class="sxs-lookup"><span data-stu-id="879a9-142">Complete all the steps within to attain the Data Analytics competency.</span></span>
+    - Both the individuals must pass the following assessment: 
+        - [Technical Assessment Data Analytics Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
 
-###<a name="silver"></a><span data-ttu-id="879a9-143">Silver</span><span class="sxs-lookup"><span data-stu-id="879a9-143">Silver</span></span>
-1. <span data-ttu-id="879a9-144">Sua organização deve ter **2** pessoas aprovadas nas avaliações obrigatórias.</span><span class="sxs-lookup"><span data-stu-id="879a9-144">Your organization must have **2** individuals pass the required assessments.</span></span>
+##Data Analytics Beginners option
+The Data Analytics Beginners option is ideal if you prefer to prove your skills by passing assessments. Complete all the steps within to attain the Data Analytics competency.
 
-    - <span data-ttu-id="879a9-145">As **2** pessoas devem passar na seguinte avaliação:</span><span class="sxs-lookup"><span data-stu-id="879a9-145">**2** individuals must pass the following assessment:</span></span>
-        - [<span data-ttu-id="879a9-146">Avaliação técnica Fundamentos de análise de dados</span><span class="sxs-lookup"><span data-stu-id="879a9-146">Technical Assessment Data Analytics Foundational</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
+###Silver
+1. Your organization must have **2** individuals pass the required assessments.
 
-    **<span data-ttu-id="879a9-147">E</span><span class="sxs-lookup"><span data-stu-id="879a9-147">AND</span></span>**
+    - **2** individuals must pass the following assessment:
+        - [Technical Assessment Data Analytics Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
 
-    - <span data-ttu-id="879a9-148">As mesmas **2** pessoas devem passar em uma das avaliações a seguir:</span><span class="sxs-lookup"><span data-stu-id="879a9-148">The same **2** individuals must pass one of the following assessments:</span></span>
-        - [<span data-ttu-id="879a9-149">Avaliação técnica Business intelligence para análise de dados</span><span class="sxs-lookup"><span data-stu-id="879a9-149">Technical Assessment Business Intelligence for Data Analytics</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
-        - [<span data-ttu-id="879a9-150">Avaliação técnica Análise avançada para análise de dados</span><span class="sxs-lookup"><span data-stu-id="879a9-150">Technical Assessment Advanced Analytics for Data Analytics</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=10275&scoId=bweuuySgB_3904778676)
-        - [<span data-ttu-id="879a9-151">Avaliação técnica Big data para análise de dados</span><span class="sxs-lookup"><span data-stu-id="879a9-151">Technical Assessment Big Data for Data Analytics</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14349&scoId=qb5OGFigB_6604778676)
+    **AND**
 
-###<a name="gold"></a><span data-ttu-id="879a9-152">Gold</span><span class="sxs-lookup"><span data-stu-id="879a9-152">Gold</span></span>
-1. <span data-ttu-id="879a9-153">Sua organização deve ter **4** pessoas aprovadas nas avaliações obrigatórias.</span><span class="sxs-lookup"><span data-stu-id="879a9-153">Your organization must have **4** individuals pass the required assessments.</span></span>
+    - The same **2** individuals must pass one of the following assessments:
+        - [Technical Assessment Business Intelligence for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
+        - [Technical Assessment Advanced Analytics for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=10275&scoId=bweuuySgB_3904778676)
+        - [Technical Assessment Big Data for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14349&scoId=qb5OGFigB_6604778676)
 
-    - <span data-ttu-id="879a9-154">As **4** pessoas devem passar na seguinte avaliação:</span><span class="sxs-lookup"><span data-stu-id="879a9-154">**4** individuals must pass the following assessment:</span></span>
-        - [<span data-ttu-id="879a9-155">Avaliação técnica Fundamentos de análise de dados</span><span class="sxs-lookup"><span data-stu-id="879a9-155">Technical Assessment Data Analytics Foundational</span></span> ](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
+###Gold
+1. Your organization must have **4** individuals pass the required assessments.
 
-    **<span data-ttu-id="879a9-156">E</span><span class="sxs-lookup"><span data-stu-id="879a9-156">AND</span></span>**
+    - **4** individuals must pass the following assessment:
+        - [Technical Assessment Data Analytics Foundational ](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
 
-    - <span data-ttu-id="879a9-157">As mesmas **4** pessoas devem passar em uma das avaliações a seguir:</span><span class="sxs-lookup"><span data-stu-id="879a9-157">The same **4** individuals must pass one of the following assessments:</span></span>
-        - [<span data-ttu-id="879a9-158">Avaliação técnica Business intelligence para análise de dados</span><span class="sxs-lookup"><span data-stu-id="879a9-158">Technical Assessment Business Intelligence for Data Analytics</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
-        - [<span data-ttu-id="879a9-159">Avaliação técnica Análise avançada para análise de dados</span><span class="sxs-lookup"><span data-stu-id="879a9-159">Technical Assessment Advanced Analytics for Data Analytics</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=10275&scoId=bweuuySgB_3904778676)
-        - [<span data-ttu-id="879a9-160">Avaliação técnica Big data para análise de dados</span><span class="sxs-lookup"><span data-stu-id="879a9-160">Technical Assessment Big Data for Data Analytics</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14349&scoId=qb5OGFigB_6604778676)
+    **AND**
 
-##<a name="power-bi-option"></a><span data-ttu-id="879a9-161">Opção Power BI</span><span class="sxs-lookup"><span data-stu-id="879a9-161">Power BI option</span></span>
-<span data-ttu-id="879a9-162">A opção Power BI é ideal para você se preferir comprovar suas habilidades implantando estações Power BI e passando em uma avaliação.</span><span class="sxs-lookup"><span data-stu-id="879a9-162">The Power BI option is ideal for you if you prefer to prove your skills by deploying Power BI seats as well as passing an assessment.</span></span> <span data-ttu-id="879a9-163">Conclua todas as etapas da opção para obter a competência Análise de Dados.</span><span class="sxs-lookup"><span data-stu-id="879a9-163">Complete all the steps within to attain the Data Analytics competency.</span></span>
+    - The same **4** individuals must pass one of the following assessments:
+        - [Technical Assessment Business Intelligence for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
+        - [Technical Assessment Advanced Analytics for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=10275&scoId=bweuuySgB_3904778676)
+        - [Technical Assessment Big Data for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14349&scoId=qb5OGFigB_6604778676)
 
-###<a name="silver"></a><span data-ttu-id="879a9-164">Silver</span><span class="sxs-lookup"><span data-stu-id="879a9-164">Silver</span></span>
+##Power BI option
+The Power BI option is ideal for you if you prefer to prove your skills by deploying Power BI seats as well as passing an assessment. Complete all the steps within to attain the Data Analytics competency.
 
-1. <span data-ttu-id="879a9-165">Sua organização deve ter **1** pessoa aprovada na avaliação obrigatória.</span><span class="sxs-lookup"><span data-stu-id="879a9-165">Your organization must have **1** individual pass the required assessment.</span></span>
+###Silver
 
-    - [<span data-ttu-id="879a9-166">Avaliação técnica Business intelligence para análise de dados</span><span class="sxs-lookup"><span data-stu-id="879a9-166">Technical Assessment Business Intelligence for Data Analytics</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
+1. Your organization must have **1** individual pass the required assessment.
+
+    - [Technical Assessment Business Intelligence for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
   
-2. <span data-ttu-id="879a9-167">Sua organização deve atender aos limites de desempenho.</span><span class="sxs-lookup"><span data-stu-id="879a9-167">Your organization must meet the performance thresholds.</span></span>
+2. Your organization must meet the performance thresholds.
 
-    - <span data-ttu-id="879a9-168">Implante 250 estações do Power BI e associe-se como parceiro de registro para assinaturas Power BI para se qualificar.</span><span class="sxs-lookup"><span data-stu-id="879a9-168">Deploy 250 seats of Power BI and be attached as Partner of Record for Power BI subscriptions to qualify.</span></span>
-    - <span data-ttu-id="879a9-169">[Saiba mais](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) sobre essas associações.</span><span class="sxs-lookup"><span data-stu-id="879a9-169">[Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.</span></span>
+    - Deploy 250 seats of Power BI and be attached as Partner of Record for Power BI subscriptions to qualify.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
 
-###<a name="gold"></a><span data-ttu-id="879a9-170">Gold</span><span class="sxs-lookup"><span data-stu-id="879a9-170">Gold</span></span>
-1. <span data-ttu-id="879a9-171">Sua organização deve ter **2** pessoas aprovadas na avaliação obrigatória.</span><span class="sxs-lookup"><span data-stu-id="879a9-171">Your organization must have **2** individuals pass the required assessment.</span></span>
-    - [<span data-ttu-id="879a9-172">Avaliação técnica Business intelligence para análise de dados</span><span class="sxs-lookup"><span data-stu-id="879a9-172">Technical Assessment Business Intelligence for Data Analytics</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
+###Gold
+1. Your organization must have **2** individuals pass the required assessment.
+    - [Technical Assessment Business Intelligence for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
   
-2. <span data-ttu-id="879a9-173">Sua organização deve atender aos limites de desempenho.</span><span class="sxs-lookup"><span data-stu-id="879a9-173">Your organization must meet the performance thresholds.</span></span>
-    - <span data-ttu-id="879a9-174">Implante 1.000 estações do Power BI e associe-se como parceiro de registro para assinaturas Power BI para se qualificar.</span><span class="sxs-lookup"><span data-stu-id="879a9-174">Deploy 1,000 seats of Power BI and be attached as Partner of Record for Power BI subscriptions to qualify.</span></span>
-    - <span data-ttu-id="879a9-175">[Saiba mais](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) sobre essas associações.</span><span class="sxs-lookup"><span data-stu-id="879a9-175">[Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.</span></span>
-
+2. Your organization must meet the performance thresholds.
+    - Deploy 1,000 seats of Power BI and be attached as Partner of Record for Power BI subscriptions to qualify.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
+-->

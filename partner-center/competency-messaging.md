@@ -1,42 +1,49 @@
 ---
-title: "Competência Messaging"
-description: "A competência Messaging reconhece parceiros que obtêm uma vantagem competitiva, reduzem ciclos de vendas e expandem seus negócios apresentando habilidades como provedores de soluções qualificados do Microsoft Exchange."
+title: Competência Messaging
+description: A competência Messaging reconhece parceiros que obtêm uma vantagem competitiva, reduzem ciclos de vendas e expandem seus negócios apresentando habilidades como provedores de soluções qualificados do Microsoft Exchange.
 author: Daniel Simpson
-keywords: "competência,competências,Messaging"
-ms.openlocfilehash: 41a8bd44f5a0dacf49554907dd381e1ec7140a21
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: competência,competências,Messaging
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 0675b73fa5fa6fb6967734645ad298d500bb1f87
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875676"
 ---
-#<a name="messaging"></a><span data-ttu-id="11e64-104">Messaging</span><span class="sxs-lookup"><span data-stu-id="11e64-104">Messaging</span></span>
-<span data-ttu-id="11e64-105">A competência Messaging reconhece parceiros que obtêm uma vantagem competitiva, reduzem ciclos de vendas e expandem seus negócios apresentando habilidades como provedores de soluções qualificados do Microsoft Exchange.</span><span class="sxs-lookup"><span data-stu-id="11e64-105">The Messaging competency recognizes partners who gain a competitive advantage, shorten sales cycles, and grow their business by showcasing skills as a qualified Microsoft Exchange solution provider.</span></span>
+>[!IMPORTANT]
+><span data-ttu-id="5ec19-104">Para saber mais sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="5ec19-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
-##<a name="hybrid-services-partner-option"></a><span data-ttu-id="11e64-106">Opção de parceiro de serviços híbridos</span><span class="sxs-lookup"><span data-stu-id="11e64-106">Hybrid Services Partner option</span></span>
-<span data-ttu-id="11e64-107">Passe nos exames ou certificações e mostre seus conhecimentos dos produtos.</span><span class="sxs-lookup"><span data-stu-id="11e64-107">Put your product knowledge to the test by passing exams or certifications.</span></span>
+<!--
+#Messaging
+The Messaging competency recognizes partners who gain a competitive advantage, shorten sales cycles, and grow their business by showcasing skills as a qualified Microsoft Exchange solution provider.
 
-###<a name="silver"></a><span data-ttu-id="11e64-108">Silver</span><span class="sxs-lookup"><span data-stu-id="11e64-108">Silver</span></span>
-1. <span data-ttu-id="11e64-109">Sua organização deve ter **2** pessoas aprovadas nos requisitos do exame ou da certificação.</span><span class="sxs-lookup"><span data-stu-id="11e64-109">Your organization must have **2** individuals pass the exam or certification requirements.</span></span>
+##Hybrid Services Partner option
+Put your product knowledge to the test by passing exams or certifications.
+
+###Silver
+1. Your organization must have **2** individuals pass the exam or certification requirements.
     
-    - <span data-ttu-id="11e64-110">Cada uma das **2** pessoas deve passar em todos os exames listados a seguir:</span><span class="sxs-lookup"><span data-stu-id="11e64-110">**2** individuals must each pass all the following exams:</span></span>
-        - <span data-ttu-id="11e64-111">[Exame 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Ativando os serviços para o Microsoft Office 365</span><span class="sxs-lookup"><span data-stu-id="11e64-111">[Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365</span></span>
-        - <span data-ttu-id="11e64-112">[Exame 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Projetando e implantando o Microsoft Exchange Server 2016</span><span class="sxs-lookup"><span data-stu-id="11e64-112">[Exam 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016</span></span>
+    - **2** individuals must each pass all the following exams:
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
+        - [Exam 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016
 
-    **<span data-ttu-id="11e64-113">OU</span><span class="sxs-lookup"><span data-stu-id="11e64-113">OR</span></span>**
+    **OR**
 
-     - <span data-ttu-id="11e64-114">**2** pessoas devem passar na certificação a seguir:</span><span class="sxs-lookup"><span data-stu-id="11e64-114">**2** individuals must pass the following certification:</span></span>
-        - <span data-ttu-id="11e64-115">[MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Produtividade</span><span class="sxs-lookup"><span data-stu-id="11e64-115">[MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity</span></span>
+     - **2** individuals must pass the following certification:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
 
-###<a name="gold"></a><span data-ttu-id="11e64-116">Gold</span><span class="sxs-lookup"><span data-stu-id="11e64-116">Gold</span></span>
-1. <span data-ttu-id="11e64-117">Sua organização deve ter **4** pessoas aprovadas nos requisitos do exame ou da certificação.</span><span class="sxs-lookup"><span data-stu-id="11e64-117">Your organization must have **4** individuals pass the exam or certification requirements.</span></span>
+###Gold
+1. Your organization must have **4** individuals pass the exam or certification requirements.
 
-    - <span data-ttu-id="11e64-118">Cada uma das **4** pessoas deve passar em todos os exames listados a seguir:</span><span class="sxs-lookup"><span data-stu-id="11e64-118">**4** individuals must each pass all the following exams:</span></span>
-        - <span data-ttu-id="11e64-119">[Exame 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Ativando os serviços para o Microsoft Office 365</span><span class="sxs-lookup"><span data-stu-id="11e64-119">[Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365</span></span>
-        - <span data-ttu-id="11e64-120">[Exame 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Projetando e implantando o Microsoft Exchange Server 2016</span><span class="sxs-lookup"><span data-stu-id="11e64-120">[Exam 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016</span></span>
+    - **4** individuals must each pass all the following exams:
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
+        - [Exam 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016
 
-    **<span data-ttu-id="11e64-121">OU</span><span class="sxs-lookup"><span data-stu-id="11e64-121">OR</span></span>**
+    **OR**
 
-    - <span data-ttu-id="11e64-122">**4** pessoas devem passar na certificação a seguir:</span><span class="sxs-lookup"><span data-stu-id="11e64-122">**4** individuals must pass the following certification:</span></span>
-        - <span data-ttu-id="11e64-123">[MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Produtividade</span><span class="sxs-lookup"><span data-stu-id="11e64-123">[MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity</span></span>
-
+    - **4** individuals must pass the following certification:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
+-->
 
