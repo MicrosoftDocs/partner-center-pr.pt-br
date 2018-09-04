@@ -3,11 +3,13 @@ title: Noções básicas de cobrança | Partner Center
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções fiscais, arquivos de reconciliação, arquivo de reconciliação
-ms.openlocfilehash: 87e8dc8620a31ccbcdcd6e6b2987f8d304d62541
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 98b4edcbc7c10e73b59f89b74494ae363a306745
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876386"
 ---
 # <a name="billing-basics"></a>Noções básicas de cobrança
 
@@ -168,8 +170,8 @@ Para acessar arquivos de reconciliação e faturas de cobrança única, selecion
 2.  Na sua página **Clientes**, localize o cliente cujo histórico de pedidos você deseja exibir e, em seguida, selecione a seta para baixo para expandir o registro do cliente. 
 3.  Selecione **Exibir pedidos** para exibir o histórico de pedidos.
 
-#### <a name="create-a-credit-or-void-note"></a>Criar uma nota de crédito ou cancelada
+#### <a name="download-a-credit-note"></a>Baixe uma nota de crédito
 
-Em algum momento, talvez seja necessário anular uma fatura e então emitir uma nova. Por exemplo, um cliente pode alterar o nome da empresa dele e então receber uma fatura com o nome antigo. 
-
-Para cancelar uma fatura e emitir uma nova, baixe o formulário da página de cobrança, sob ajustes.
+Se você exercício um crédito completo (Void fatura) e nova cobrança, forneceremos uma nota de crédito para cancelar a fatura original, e também um documento totalmente novo. Você pode solicitar uma crédito/nova cobrança pelos seguintes motivos:
+-   Correções de ordem de compra ou endereço
+-   Fatura gerada e, em seguida, um reembolso de imposto foi aplicado. Você pode solicitar uma crédito/nova cobrança para obter o reembolso de imposto puxado de volta para a fatura original. Isso também é verdadeiro para reembolsos, como você pode solicitar uma crédito/nova cobrança da fatura original e, em seguida, recepção em um reembolso.

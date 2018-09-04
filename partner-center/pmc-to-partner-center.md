@@ -1,16 +1,18 @@
 ---
-title: "Fazer a transição da sua associação MPN do Partner Membership Center para o Partner Center"
-description: "Usuários PMC-agora estamos gerenciando associações MPN por meio do Partner Center. Veja o que fazer."
+title: Fazer a transição da sua associação MPN do Partner Membership Center para o Partner Center
+description: Usuários PMC-agora estamos gerenciando associações MPN por meio do Partner Center. Veja o que fazer.
 author: KPacquer
-keywords: "associação mpn, competências, pmc para partner center"
+keywords: associação mpn, competências, pmc para partner center
 robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
-ms.openlocfilehash: 2349ee30aa54a756e7fdc49c24917807a7443425
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2c9e411ea92a39e33ef515adf69a5dd6886d514d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875856"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>Fazer a transição da sua associação MPN do Partner Membership Center para o Partner Center
 
@@ -43,7 +45,7 @@ O administrador da organização adiciona os funcionários na conta do Partner C
 
 ## <a href="" id="nonadmin_tasks"></a> Tarefas de funcionários: atualizar contas
 
-1.  Obtenha suas informações de acesso no Microsoft Partner Center ou com o seu administrador. Se você não receber as informações de acesso, fale com o administrador da sua organização e solicite o envio diretamente para você. 
+1.  Obtenha suas informações de entrada, do Microsoft Partner Center ou com o seu administrador. Se você não receber as informações de entrada, contate o administrador da sua organização e solicite o envio diretamente para você. 
 
 2.  Conecte-se com sua conta da Microsoft Partner University. No painel do Partner Center, selecione **Atualizar seu perfil** > **Obter acesso à Partner University**.  Depois de se conectar com essa conta, você poderá acessar a Partner University novamente.
 

@@ -1,35 +1,43 @@
 ---
-title: "Competência Small and Midmarket Cloud Solutions"
-description: "A competência Small and Midmarket Cloud Solutions ajuda você a criar sua marca como um parceiro especializado em vender e implantar soluções do Office 365 para pequenas e médias empresas."
+title: Competência Small and Midmarket Cloud Solutions
+description: A competência Small and Midmarket Cloud Solutions ajuda você a criar sua marca como um parceiro especializado em vender e implantar soluções do Office 365 para pequenas e médias empresas.
 author: Daniel Simpson
-keywords: "competência, competências, Small and Midmarket Cloud Solutions"
-ms.openlocfilehash: bef3e59db9ed70ecd4cde3ea6878271f25aa50dd
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
-ms.translationtype: HT
+keywords: competência, competências, Small and Midmarket Cloud Solutions
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: f8034f7d779d2dae13b916f01efa8c10be224bb2
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876186"
 ---
-# <a name="small-and-midmarket-cloud-solutions"></a>Small and Midmarket Cloud Solutions 
-A competência Small and Midmarket Cloud Solutions ajuda você a criar sua marca como um parceiro especializado em vender e implantar soluções do Office 365 para pequenas e médias empresas.
+>[!IMPORTANT]
+>Para saber mais sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-## <a name="o365-services-option"></a>Opção de serviços do O365
-A opção de serviços do Office 365 é ideal para parceiros que vendem e fornecem serviços do Office 365 para seus clientes. Conclua todas as etapas da opção para atingir a competência Small and Midmarket Cloud Solutions.
+<!--
+# Small and Midmarket Cloud Solutions 
+The Small and Midmarket Cloud Solutions competency helps you to create your brand as a partner specialized in selling and deploying Office 365 solutions to small and midsized businesses.
 
-### <a name="silver"></a>Silver
-1. Sua organização deve atender aos limites de desempenho.
+## O365 Services option
+The Office 365 Services option is ideal for partners that sell and provide Office 365 services for their customers. Complete all the steps within the option to attain the Small and Midmarket Cloud Solutions competency.
+
+### Silver
+1. Your organization must meet the performance thresholds.
     
-    - Você deve ter adicionado 4 novos clientes do Office 365 à sua base de clientes nos últimos 12 meses.
-    - Para esses clientes, você precisa estar associado como administrador delegado, parceiro de transações ou parceiro digital de registro do Office 365.
-    - [Saiba mais](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) sobre essas associações.
+    - You must increase your customer base by 4 new Office 365 customers within the previous 12 months.
+    - For these customers, you have to be associated as Office 365 Delegated Administrator or Transacting Partner or Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
 
-### <a name="gold"></a>Gold
-1. Sua organização deve atender aos limites de desempenho.
+### Gold
+1. Your organization must meet the performance thresholds.
 
-    - Você deve ter adicionado 25 novos clientes do Office 365 à sua base de clientes nos últimos 12 meses.
-    - Para esses clientes, você precisa estar associado como administrador delegado, parceiro de transações ou parceiro digital de registro do Office 365.
-    - [Saiba mais](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) sobre essas associações.  
+    - You must increase your customer base by 25 new Office 365 customers within the previous 12 months.
+    - For these customers, you have to be associated as Office 365 Delegated Administrator or Transacting Partner or Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
   
-2. Sua organização deve ter **2** pessoas aprovadas nos requisitos do exame.
+2. Your organization must have **2** individuals pass the exam requirements.
 
-    - Cada uma das **2** pessoas deve passar no exame a seguir:
-        - [Exame 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Habilitando serviços do Office 365
+    - **2** individuals must each pass the following exam:
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
+-->

@@ -4,11 +4,13 @@ description: Sua fatura é um resumo de todos os encargos (entre programa, produ
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: cobrança de assinatura, cobrança, cobrança no partner center, ler minha cobrança, fatura, fatura do partner center, fatura do CSP, onde está minha cobrança?
-ms.openlocfilehash: ce930f95eb14405e46a371fb85fc9af02f39db73
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 70158f70388e4f0c458b22bccea539c36eef3700
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875176"
 ---
 # <a name="read-your-bill"></a>Ler sua cobrança
 
@@ -25,6 +27,7 @@ Os parceiros no programa Provedor de Soluções na Nuvem que escolheram a cobran
 >**Observação**<br>
 Sua fatura é um resumo de todos os encargos (entre programa, produtos e clientes) para o período de cobrança atual e é disponibilizada em até quatro (4) dias da data de cobrança selecionada.
 
+Você receberá uma fatura para baseadas em licença (Office365) e baseadas em uso encargos de (Azure) e uma fatura separada para única (Azure instâncias de VM reservadas) encargos.
 
 Para obter detalhes dos encargos por itens, use os arquivos de reconciliação acompanhantes. Os arquivos de reconciliação contêm os IDs de clientes e assinaturas que você usará para criar as faturas dos clientes. Para obter mais informações, consulte [Como usar os arquivos de reconciliação](use-the-reconciliation-files.md).
 
@@ -54,28 +57,36 @@ Para obter detalhes dos encargos por itens, use os arquivos de reconciliação a
 <td>O endereço para onde enviamos sua fatura. Para alterar esse endereço, vá para Configurações da conta > Perfil de cobrança do parceiro. </td>
 </tr>
 <tr class="odd">
-<td>Encargos recorrentes</td>
+<td>Encargos baseadas em licença</td>
 <td>Os encargos mensais (ou anuais) fixos das licenças baseadas em uso compradas, cobradas antecipadamente pelo serviço. Esse número é a soma de todos os encargos da coluna &quot;Subtotal&quot; no arquivo de reconciliação com base em licença (coluna T).</td>
 </tr>
 <tr class="even">
-<td>Tarifas de uso</td>
+<td>Encargos baseadas em uso</td>
 <td>Uso do Azure, incluindo novos serviços ou aplicativos habilitados e usados durante o mês de cobrança. Esse número é a soma de todos os encargos na coluna &quot;PretaxCharges&quot; no arquivo de reconciliação com base em uso (coluna Z).</td>
 </tr>
 <tr class="odd">
-<td>Créditos e ajustes</td>
-<td>Créditos ou ajustes para alterações de assinaturas (exemplo: aumentos ou diminuição de assento).</td>
-</tr>
-<tr class="even">
-<td>Outros descontos</td>
+<td>Descontos</td>
 <td>Por exemplo, o desconto que o cliente recebe do preço normal da assinatura. Isso é mostrado como um valor simples, não como um preço por unidade ou licença.</td>
 </tr>
 <tr class="odd">
-<td>Impostos</td>
+<td>Créditos</td>
+<td>Créditos ou ajustes para alterações de assinaturas (exemplo: aumentos ou diminuição de assento).</td>
+</tr>
+<tr class="even">
+<tr class="even">
+<td>Subtotal</td>
+<td>Total antes de impostos e encargos de imposto exclusiva e créditos.</td>
+</tr>
+<td>Imposto</td>
 <td>O total de imposto para os encargos atuais como o total no início da seção detalhes na página 2 da fatura. Esse número é a soma de todos os encargos na:
 <ul>
 <li>coluna &quot;TaxAmount&quot; do arquivo de reconciliação com base em uso (coluna AA), e</li>
 <li>coluna &quot;Tax&quot; do arquivo com base em licença (coluna U).</li>
 </ul></td>
+</tr>
+<tr class="odd">
+<td>Outros créditos</td>
+<td>Créditos de imposto exclusivo.</td>
 </tr>
 <tr class="even">
 <td>Total dos encargos atuais</td>
@@ -97,13 +108,10 @@ Para obter detalhes dos encargos por itens, use os arquivos de reconciliação a
 <td>Data da fatura</td>
 <td>A data que você recebe sua fatura.</td>
 </tr>
-
 <tr class="odd">
 <td>Termos de pagamento</td>
 <td>Para as compras únicas, sempre será 60 dias.</td>
 </tr>
-
-
 <tr class="even">
 <td>Data do pagamento</td>
 <td>Seu pagamento deve ser recebido até essa data.</td>

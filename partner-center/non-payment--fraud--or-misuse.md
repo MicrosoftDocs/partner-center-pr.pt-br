@@ -1,14 +1,16 @@
 ---
-title: "Não pagamento, fraude ou uso indevido | Partner Center"
-description: "Estratégias para gerenciar os riscos de transações online, incluindo falta de pagamento de bens e serviços e atividade fraudulenta ou uso indevido do cliente."
+title: Não pagamento, fraude ou uso indevido | Partner Center
+description: Estratégias para gerenciar os riscos de transações online, incluindo falta de pagamento de bens e serviços e atividade fraudulenta ou uso indevido do cliente.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: "fraude, uso indevido, uso aceitável, política de uso aceitável, falta de pagamento, cliente não paga a conta, risco online, roubo de serviço, abuso do serviço, suspender uma assinatura,"
+keywords: fraude, uso indevido, uso aceitável, política de uso aceitável, falta de pagamento, cliente não paga a conta, risco online, roubo de serviço, abuso do serviço, suspender uma assinatura,
 author: MaggiePucciEvans
-ms.openlocfilehash: 9513347d1a7d176a074877dc60d164695484c314
-ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 73e823ae0b5d0254b44af789a3d4203247cb1367
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/01/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876276"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Falta de pagamento, fraude ou uso indevido
 

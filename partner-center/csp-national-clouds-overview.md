@@ -1,13 +1,15 @@
 ---
 title: Aplicar para vender em nuvens nacionais da Microsoft | Partner Center
-description: "Os parceiros da Microsoft no programa Provedor de Soluções na Nuvem podem vender aos clientes inscritos em nuvens nacionais com suporte."
+description: Os parceiros da Microsoft no programa Provedor de Soluções na Nuvem podem vender aos clientes inscritos em nuvens nacionais com suporte.
 author: MaggiePucciEvans
 keywords: nuvens nacionais, Microsoft Cloud Germany, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud China
-ms.openlocfilehash: b900715218818d7e007360fcdcde707f7288049e
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 1650183fd51f1fdc933456fffdf0ef8c3e53b1ed
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875886"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>Inscrever-se para vender em nuvens nacionais da Microsoft
 

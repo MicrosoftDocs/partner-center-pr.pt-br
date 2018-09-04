@@ -4,11 +4,13 @@ description: Depois de criar um registro de seu cliente no Partner Center, você
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
-ms.openlocfilehash: 5bb34d1b98cf8890bcc092c4fe6c8dbe502ed4a1
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 103fb80729c82287136dd3f006cc514d795a91be
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874846"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Criar, suspender ou cancelar assinaturas de cliente
 
@@ -17,6 +19,7 @@ ms.lasthandoff: 04/08/2018
 -  Partner Center
 -  Partner Center for Microsoft Cloud for US Government
 -  Partner Center for Microsoft Cloud Germany
+-  Parceiros CSP
 
 Depois de criar um registro de seu cliente no Painel de Parceiros, você poderá vender a ele assinaturas de produtos no catálogo.
 
@@ -31,10 +34,11 @@ Note que algumas ofertas são limitadas a uma assinatura por cliente. Para ver u
 
 3.  Selecione o tipo de cobrança da assinatura que deseja usar.  Consulte [Perguntas frequentes sobre os novos recursos de cobrança](faq-about-new-billing-features.md) para obter informações que vão ajudar você a se decidir entre a frequência de cobrança mensal e a anual.
  
- >**Observação**<br> Agora você tem a opção de oferecer ao seu cliente uma avaliação gratuita de determinados produtos. Os produtos disponíveis para avaliação estarão disponíveis na guia de avaliações no catálogo. Consulte [Oferecer avaliações de produtos da Microsoft aos seus clientes](offer-your-customers-trials-of-microsoft-products.md).
+ >[!Note]
+ >Você pode oferecer aos clientes assinaturas de avaliação. Produtos disponíveis para avaliação estão na guia de avaliações no catálogo. Consulte [Oferecer avaliações de produtos da Microsoft aos seus clientes](offer-your-customers-trials-of-microsoft-products.md).
 
  
-4. Após selecionar a frequência de cobrança, selecione os produtos para os quais deseja assinaturas no catálogo. A disponibilidade dos produtos depende do tipo de cliente (educação, governo etc.) e da frequência de cobrança que você selecionou. Se um produto não estiver disponível, é possível que o cliente já tenha uma assinatura para esse produto e que só uma seja permitida. Ou talvez você tenha suspendido a assinatura, caso no qual é possível reativá-la em vez de comprar uma nova.
+4. Depois de selecionar a frequência de cobrança, selecione os produtos que você deseja assinaturas para no catálogo. A disponibilidade dos produtos depende do tipo de cliente (educação, governo etc.) e da frequência de cobrança que você selecionou. Se um produto não estiver disponível, é possível que o cliente já tenha uma assinatura para esse produto e que só uma seja permitida. Ou talvez você tenha suspendido a assinatura, caso no qual é possível reativá-la em vez de comprar uma nova.
 
 5. Verifique a assinatura que você deseja adicionar e insira o número de licenças. Em seguida, clique em **Enviar** a ordem.
 

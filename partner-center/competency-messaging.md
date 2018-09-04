@@ -1,42 +1,49 @@
 ---
-title: "Competência Messaging"
-description: "A competência Messaging reconhece parceiros que obtêm uma vantagem competitiva, reduzem ciclos de vendas e expandem seus negócios apresentando habilidades como provedores de soluções qualificados do Microsoft Exchange."
+title: Competência Messaging
+description: A competência Messaging reconhece parceiros que obtêm uma vantagem competitiva, reduzem ciclos de vendas e expandem seus negócios apresentando habilidades como provedores de soluções qualificados do Microsoft Exchange.
 author: Daniel Simpson
-keywords: "competência,competências,Messaging"
-ms.openlocfilehash: 41a8bd44f5a0dacf49554907dd381e1ec7140a21
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: competência,competências,Messaging
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 0675b73fa5fa6fb6967734645ad298d500bb1f87
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875676"
 ---
-#<a name="messaging"></a>Messaging
-A competência Messaging reconhece parceiros que obtêm uma vantagem competitiva, reduzem ciclos de vendas e expandem seus negócios apresentando habilidades como provedores de soluções qualificados do Microsoft Exchange.
+>[!IMPORTANT]
+>Para saber mais sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-##<a name="hybrid-services-partner-option"></a>Opção de parceiro de serviços híbridos
-Passe nos exames ou certificações e mostre seus conhecimentos dos produtos.
+<!--
+#Messaging
+The Messaging competency recognizes partners who gain a competitive advantage, shorten sales cycles, and grow their business by showcasing skills as a qualified Microsoft Exchange solution provider.
 
-###<a name="silver"></a>Silver
-1. Sua organização deve ter **2** pessoas aprovadas nos requisitos do exame ou da certificação.
+##Hybrid Services Partner option
+Put your product knowledge to the test by passing exams or certifications.
+
+###Silver
+1. Your organization must have **2** individuals pass the exam or certification requirements.
     
-    - Cada uma das **2** pessoas deve passar em todos os exames listados a seguir:
-        - [Exame 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Ativando os serviços para o Microsoft Office 365
-        - [Exame 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Projetando e implantando o Microsoft Exchange Server 2016
+    - **2** individuals must each pass all the following exams:
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
+        - [Exam 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016
 
-    **OU**
+    **OR**
 
-     - **2** pessoas devem passar na certificação a seguir:
-        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Produtividade
+     - **2** individuals must pass the following certification:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
 
-###<a name="gold"></a>Gold
-1. Sua organização deve ter **4** pessoas aprovadas nos requisitos do exame ou da certificação.
+###Gold
+1. Your organization must have **4** individuals pass the exam or certification requirements.
 
-    - Cada uma das **4** pessoas deve passar em todos os exames listados a seguir:
-        - [Exame 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Ativando os serviços para o Microsoft Office 365
-        - [Exame 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Projetando e implantando o Microsoft Exchange Server 2016
+    - **4** individuals must each pass all the following exams:
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
+        - [Exam 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016
 
-    **OU**
+    **OR**
 
-    - **4** pessoas devem passar na certificação a seguir:
-        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Produtividade
-
+    - **4** individuals must pass the following certification:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
+-->
 

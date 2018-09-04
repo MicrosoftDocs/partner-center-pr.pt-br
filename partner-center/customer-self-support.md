@@ -1,14 +1,16 @@
 ---
-title: "Suporte autônomo do cliente | Partner Center"
-description: "Suporte autônomo do cliente"
+title: Suporte autônomo do cliente | Partner Center
+description: Suporte autônomo do cliente
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
-keywords: "suporte autônomo do cliente, suporte autônomo"
-ms.openlocfilehash: 0836ce7501dcbf1fadb7f675dab8fc0583a1d4cf
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
-ms.translationtype: HT
+keywords: suporte autônomo do cliente, suporte autônomo
+ms.localizationpriority: medium
+ms.openlocfilehash: 7bfc4a75d384e5691763a6adca24f619bdee0a3b
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874576"
 ---
 # <a name="customer-self-support"></a>Suporte autônomo do cliente
 
@@ -26,7 +28,7 @@ Os clientes podem entrar no Centro de administração do Microsoft Office 365 ou
 
 Para adquirir assinaturas adicionais ou cancelar assinaturas, os clientes devem entrar em contato com seus parceiros de Provedor de Soluções na Nuvem. Os clientes não podem alterar suas próprias assinaturas diretamente com a Microsoft.
 
-Os clientes podem encontrar respostas de autoatendimento a perguntas de Ajuda e Instruções por meio do Centro de Administração Online, do TechNet ou das Comunidades do Microsoft Office 365. Uma lista de recursos dos produtos está disponível na página de [Suporte](https://partnercenter.microsoft.com/partner/support) no Partner Center. Incentivamos os parceiros a indicar esses recursos a seus clientes como uma primeira etapa.
+Quando os clientes precisarem de ajuda com produtos, eles podem encontrar recursos de produtos no [suporte](https://partnercenter.microsoft.com/partner/support). Incentivamos os parceiros a indicar esses recursos a seus clientes como uma primeira etapa.
 
  
 

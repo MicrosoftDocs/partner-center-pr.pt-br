@@ -1,38 +1,47 @@
 ---
-title: "Competência Project e Gerenciamento de Portfólio"
-description: "A competência Project e Gerenciamento de Portfólio reconhece parceiros que demonstram a capacidade de fornecer soluções de gerenciamento de projetos empresariais aos clientes."
+title: Competência Project e Gerenciamento de Portfólio
+description: A competência Project e Gerenciamento de Portfólio reconhece parceiros que demonstram a capacidade de fornecer soluções de gerenciamento de projetos empresariais aos clientes.
 author: Daniel Simpson
-keywords: "competência, competências"
-ms.openlocfilehash: 489825fd6d16c8fa275fdc89691bb9f5ebb4f83b
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: competência, competências
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 8006e86ce2c5b0e4b9c9c4383d14976efc2b46cc
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876026"
 ---
-# <a name="project-and-portfolio-management"></a>Project e Gerenciamento de Portfólio 
-A competência Project e Gerenciamento de Portfólio reconhece parceiros que demonstram a capacidade de fornecer soluções de gerenciamento de projetos empresariais aos clientes.
+>[!IMPORTANT]
+>Para saber mais sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-## <a name="project-and-portfolio-partner-option"></a>Opção de parceiro de Project e Portfólio
-A opção de parceiro de Project e Portfólio é ideal para parceiros que fornecem gerenciamento de projeto e portfólio a toda a empresa, tanto no local quanto em ambientes de nuvem. Conclua todas as etapas da opção para atingir a competência Project e Gerenciamento de Portfólio.
+<!--
 
-###<a name="silver"></a>Silver
-1. Sua organização deve ter **2** pessoas aprovadas nos requisitos do exame.
+# Project and Portfolio Management 
+The Project and Portfolio Management competency recognizes partners who demonstrate the ability to deliver enterprise project management solutions to customers.
 
-    - Cada uma das **2** pessoas deve passar em todos os exames listados a seguir:
+## Project and Portfolio Partner option
+The Project and Portfolio Partner Option is ideal for partners that deliver enterprise-wide project and portfolio management in both on-premises and cloud environments. Complete all the steps within the option to attain the Project and Portfolio Management competency.
 
-        * [74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): Gerenciando projetos com o Microsoft Project
-        * [70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): Gerenciando projetos e portfólios com o Microsoft PPM
+###Silver
+1. Your organization must have **2** individuals pass the exam requirements.
 
-###<a name="gold"></a>Gold
-1. Sua organização deve ter **4** pessoas aprovadas nos requisitos do exame.
+    - **2** individuals must each pass all the following exams:
 
-    - Cada uma das **4** pessoas deve passar em todos os exames listados a seguir:
+        * [74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): Managing Projects with Microsoft Project
+        * [70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): Managing Projects and Portfolios with Microsoft PPM
 
-        * [74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): Gerenciando projetos com o Microsoft Project
-        * [70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): Gerenciando projetos e portfólios com o Microsoft PPM
+###Gold
+1. Your organization must have **4** individuals pass the exam requirements.
 
-    **E** 
+    - **4** individuals must each pass all the following exams:
 
-    - **2** das mesmas **4** pessoas devem passar no exame a seguir:
+        * [74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): Managing Projects with Microsoft Project
+        * [70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): Managing Projects and Portfolios with Microsoft PPM
 
-        *  [70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Gerenciando o Microsoft SharePoint Server 2016
+    **AND** 
+
+    - **2** of the same **4** individuals must each pass the following exam:
+
+        *  [70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016
+-->

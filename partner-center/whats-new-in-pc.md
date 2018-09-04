@@ -1,29 +1,33 @@
 ---
-title: Novidades no Partner Center | Partner Center
-description: "Novos recursos e funcionalidades serão listados aqui."
+title: Novidades no painel de parceiros | Partner Center
+description: Novos recursos e funcionalidades serão listados aqui.
 author: labrenne
-ms.openlocfilehash: 4c64544f6707ce40cd05257817e3292d9af57055
-ms.sourcegitcommit: 73e4360c89adb0e2787b60fb839dec9a9f60e9fd
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 4b30b80779754596d2be566fd0afda26631b5d4b
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/21/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874736"
 ---
-# <a name="whats-new-in-partner-center"></a>Novidades no Partner Center
+# <a name="whats-new-in-partner-dashboard"></a>Novidades no painel de parceiros
 
-**Aplicável ao**
+**Aplica-se a**
 
 -  Partner Center
 
 ## <a name="check-out-new-features-and-capabilities"></a>Confira os novos recursos e funcionalidades 
 
-O Partner Center regularmente adiciona novos recursos para ajudar os parceiros a gerenciar e expandir os negócios.
+Painel de parceiros regularmente adiciona novos recursos para ajudar os parceiros a gerenciar e expandir seus negócios.
 
 
 |**Novidades**   |**Saiba mais**   |
 |----------------------|:-----------------|
-|Parceiros MPN, agora vocês podem adquirir ou renovar a assinatura do Action Pack no Partner Center   | [Adquirir ou renovar uma assinatura do Action Pack](mpn-get-action-pack.md)|
-|Crie ou atualize seu perfil de negócios e obtenha mais indicações para novos negócios   | [Crie um perfil de negócios e obtenha clientes em potencial da Microsoft](referrals.md)|
-|Parceiro direto: obtenha uma representação visual de seus dados corporativos com o aplicativo Análise do Partner Center para Power BI   | [Aplicativo Análise do Partner Center para Power BI](power-bi-app-for-direct-partners.md)   |
-|O Windows AutoPilot simplifica e protege a configuração de novos dispositivos Windows 10 Pro a partir da primeira inicialização em apenas algumas etapas   |[Windows AutoPilot](autopilot.md)   |
-|Todos os parceiros terão a opção de pagamento anual ou mensal para determinadas assinaturas de CSP   |[Perguntas frequentes sobre os novos recursos de cobrança](faq-about-new-billing-features.md)   |
-|Ofereça aos seus clientes avaliações de 30 dias das assinaturas pelas quais eles se interessam   |[Inscreva seu cliente para uma avaliação](offer-your-customers-trials-of-microsoft-products.md)   
+|Oferecer aos seus clientes produtos de software de terceiros que funcionam com produtos da Microsoft que você já vender   | [Ofertas de terceiros](third-party-offers.md)|
+|O programa CSP permite que os parceiros adquiram, provisionem e gerenciem Assinaturas do Azure RI e de Servidor em nome de clientes comerciais por meio do Microsoft Partner Center e do Portal do Azure.|[Instâncias de VM reservadas do Azure (RI) + assinaturas de servidor para Azure](azure-ri-server-subscriptions.md)|
+|Faça um tour pelo painel de parceiros (entrada obrigatória)|[Tour pelo painel de parceiros](https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview)|
+|Parceiros CSP participando do programa de cooperação incentivos agora podem criar e gerenciar declarações no painel|[Criar e gerenciar solicitações de incentivos](create-incentives-claims.md)|
+|Endereço crescente demanda de cliente por soluções mais econômicas dar suporte a cargas de trabalho persistentes e altamente previsíveis vendendo instâncias reservadas do Azure e o Windows Server e o SQL Server assinaturas por meio do programa CSP do Microsoft. Agora você pode adquirir, provisionar e gerenciar assinaturas de servidor em nome dos clientes comerciais por meio do Microsoft Partner Center e o Portal do Azure e instâncias reservadas do Azure, aproveitando o benefício híbrido do Azure.|[Vender assinaturas de software por meio do CSP](csp-software-subscriptions.md)|
+|Descobrir de nova análise de dados ferramentas para melhor controlar suas necessidades e o crescimento dos negócios| [Contribuição do parceiro - mantenha sobre indicadores de desempenho](partner-contributions.md)|
+|Os parceiros CSP agora podem analisar o uso do Azure, esforços de revendedor indireto e taxas de adoção e o uso de licença e assinatura|[Uso de analise Azure](analyze-azure-usage.md) [Analisar desempenho de revendedores indiretos](Analyze-indirect-resellers.md) [Licenças e assinaturas de analisar](analyze-subscriptions-licenses.md)      |
+

@@ -3,11 +3,13 @@ title: Aumentar a adoção e a satisfação | Partner Center
 description: Nossos parceiros usam muitos métricas para avaliar se seus negócios estão crescendo e onde concentrar o investimento. O Partner Center pode ajudar informando se e como os clientes estão usando as licenças adquiridas.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-ms.openlocfilehash: 1273572052afb076cf34a090f32ba7aca72d6d85
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 3b08e68a9c158d024a885521dbac8beaab5323d4
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875606"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Aumentar a adoção e a satisfação
 

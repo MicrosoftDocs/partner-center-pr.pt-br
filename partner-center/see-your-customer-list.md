@@ -1,12 +1,15 @@
 ---
 title: Gerenciar sua lista de clientes | Partner Center
-description: "Os registros de clientes estão entre seus ativos de informação mais importantes no Partner Center."
+description: Os registros de clientes estão entre seus ativos de informação mais importantes no Partner Center.
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
-ms.openlocfilehash: f5ca9d3bfde754e617eda5b172e19683469fcfe2
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8242a5b00af5517aa9b480077201b32bae7b251e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876816"
 ---
 # <a name="manage-your-customer-list"></a>Gerenciar sua lista de clientes
 
@@ -27,6 +30,12 @@ Os logs de atividades também fornecem dados exportáveis sobre transações e a
 2.  Para procurar um cliente, insira o nome do cliente ou nome do domínio na caixa de pesquisa.
 3.  Selecione a **seta para baixo** no final da linha de um cliente para ver a ID da Microsoft dele, bem como os links rápidos de assinaturas e serviços associados.
 
+## <a name="update-a-customers-company-name"></a>Atualizar o nome da empresa do cliente
+
+No menu **Painel**, selecione **Clientes**.
+2.  Para procurar um cliente, insira o nome do cliente ou nome do domínio na caixa de pesquisa.
+3.  Selecione a **seta para baixo** no final da linha de um cliente para ver a ID da Microsoft dele, bem como os links rápidos de assinaturas e serviços associados.
+4.  Sob as informações do cliente **para cobrança** , atualize o nome da empresa. Quando você salvar o novo valor, ele será refletido na lista de clientes. Isso irá alterar apenas o nome da empresa para cobrança e o valor de lista de cliente. Ele não será refletido em qualquer lugar else.
 
 ## <a name="export-your-customer-list"></a>Exportar sua lista de clientes
 

@@ -3,11 +3,13 @@ title: Programa Provedor de Soluções na Nuvem - vender soluções de nuvem em 
 description: O Programa Provedor de Soluções na Nuvem pode ajudar você a expandir seus negócios com novos clientes e novos conhecimentos.
 author: labrenne
 keywords: Provedor de Soluções na Nuvem, CSP, serviços baseados na Nuvem, Azure, Office 365, Dynamics, parceiro CSP, vender no CSP, parceiro direto, parceiro CSP direto, revendedor CSP indireto, CSP direto, CSP indireto, modelo direto, modelo indireto, revendedor indireto, provedor indireto, provedor, distribuidor, programa provedor de soluções na nuvem
-ms.openlocfilehash: 1e23de4014e9d3dd85134c17e60dfeacc8acf9d7
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7075949392621c73d8c5d45f2971c759b1114f9e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875746"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programa Provedor de Soluções na Nuvem - vender soluções de nuvem em demanda 
 
@@ -26,11 +28,22 @@ O programa Provedor de Soluções na Nuvem (CSP) ajuda você a ir além da reven
 
 ### <a name="direct-bill-model"></a>Modelo de cobrança direta
 
- No modelo de cobrança direta, os parceiros compram assinaturas e produtos diretamente da Microsoft e os vendem aos clientes por meio de sua equipe de vendas interna. Os parceiros que já usam, ou estejam dispostos a desenvolver, a infraestrutura adequada de vendas, cobrança e suporte podem escolher o modelo direto de CSP. Os parceiros que melhor se adaptam ao modelo CSP direto devem cumprir estes pré-requisitos:
+ No modelo de cobrança direta, os parceiros compram assinaturas e produtos diretamente da Microsoft e os vendem aos clientes por meio de sua equipe de vendas interna. Os parceiros que já usam, ou estejam dispostos a desenvolver, a infraestrutura adequada de vendas, cobrança e suporte podem escolher o modelo direto de CSP. Os requisitos para se tornar um parceiro direto recentemente foram alterados e entrará em vigor a partir de 31 de agosto de 2018. Parceiros diretos precisará atender aos novos requisitos a partir do seu próximo período de inscrição após 31 de agosto de 2018.
+
+
+#### <a name="new-expanded-requirements"></a>Novos requisitos expandidos:
+
+Suporte
+- Expanda seus recursos de suporte comprando o suporte de nuvem individuais, priorizada com o Microsoft Advanced suporte para o pacote de parceiros. Ou, escolha um suporte Microsoft Premier para o pacote de parceiros para acessar o catálogo completo de serviços proativos, 24/7 elevado quebra/correção suporte e gerenciamento de conta técnica em nuvem, híbrida e local. 
+
+Serviços
+
+- Demonstre que você forneça pelo menos um serviço gerenciado, IP serviço ou aplicativo de solução de cliente. Saiba mais sobre como adicionar serviços gerenciados
+
+- Conheça os recursos de infraestrutura mínima, como cobrança e provisionamento.
+Estamos monitorando desempenho anual para confirmar que os parceiros de cobrança direta que atendam a esses requisitos são demonstrando o crescimento dos negócios estável. Não há nenhum metas de desempenho específicas no lugar no momento, mas Microsoft pode implementar um desempenho barra no futuro. 
+
 - Uma ID ativa do Microsoft Partner Network (MPN) para o local onde deseja vender
-- Infraestrutura existente de suporte ao cliente
-- Infraestrutura existente de cobrança de clientes
-- Fundos para investir em integração técnica e preparação de suporte
 
 
 ### <a name="indirect-model"></a>Modelo indireto

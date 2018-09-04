@@ -1,13 +1,15 @@
 ---
-title: "Respondendo a indicações | Partner Center"
-description: "Avaliar, negociar e responder a indicações por meio do Partner Center."
+title: Respondendo a indicações | Partner Center
+description: Avaliar, negociar e responder a indicações por meio do Partner Center.
 author: KPacquer
-keywords: "referência, RFI, localizar um parceiro"
-ms.openlocfilehash: 43e04eaf34b788ceb41c70fa2a9c1ee08812ea2d
-ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
-ms.translationtype: HT
+keywords: referência, RFI, localizar um parceiro
+ms.localizationpriority: medium
+ms.openlocfilehash: 70ba5b0afac8283806955410e57d459c849ed4f4
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875416"
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>Respondendo a indicações no Partner Center
 

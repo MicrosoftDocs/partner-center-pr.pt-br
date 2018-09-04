@@ -1,14 +1,16 @@
 ---
-title: "Comunicação com o cliente da Microsoft | Partner Center"
-description: "Em geral, esperamos que todas as comunicações com o cliente venham do parceiro CSP (Provedor de Soluções na Nuvem)."
+title: Comunicação com o cliente da Microsoft | Partner Center
+description: Em geral, esperamos que todas as comunicações com o cliente venham do parceiro CSP (Provedor de Soluções na Nuvem).
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: MaggiePucciEvans
-keywords: "comunicação, comunicações do cliente, contato com a Microsoft"
-ms.openlocfilehash: 847c7a61ef13c39fb25c97d4c88568d067d1c465
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
-ms.translationtype: HT
+keywords: comunicação, comunicações do cliente, contato com a Microsoft
+ms.localizationpriority: medium
+ms.openlocfilehash: 3906c4c304c123bbc3332e7ad0be1bd70c3a9efa
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875596"
 ---
 # <a name="customer-communication-from-microsoft"></a>Comunicação com o cliente da Microsoft
 

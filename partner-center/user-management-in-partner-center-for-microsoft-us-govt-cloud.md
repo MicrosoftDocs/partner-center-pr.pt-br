@@ -1,12 +1,14 @@
 ---
-title: "Gerenciamento de usuários e licenças no Partner Center do Microsoft Cloud for US Government | Partner Center do Microsoft Cloud for US Government"
-description: "Não há recursos de gerenciamento de usuários disponíveis no Partner Center do Microsoft Cloud for US Government para atender aos requisitos nacionais, regionais e específicos do setor que regem a coleta e o uso de dados das pessoas. Em vez disso, adicione e gerencie usuários no portal do Azure do Microsoft Cloud for US Government."
+title: Gerenciamento de usuários e licenças no Partner Center do Microsoft Cloud for US Government | Partner Center do Microsoft Cloud for US Government
+description: Não há recursos de gerenciamento de usuários disponíveis no Partner Center do Microsoft Cloud for US Government para atender aos requisitos nacionais, regionais e específicos do setor que regem a coleta e o uso de dados das pessoas. Em vez disso, adicione e gerencie usuários no portal do Azure do Microsoft Cloud for US Government.
 author: MaggiePucciEvans
-ms.openlocfilehash: 96b6bc85a1b6d136814792a2cf138d51a263ef0a
-ms.sourcegitcommit: 22ec01fc379e4c98189f5e1ebf5437b5b16d05de
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 5cf8f4f33043f6130789ea2402067f759fa98343
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/15/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876206"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Gerenciamento de licença e usuários no Partner Center do Microsoft Cloud for US Government
 
@@ -25,12 +27,11 @@ As seguintes tarefas são gerenciadas no portal do administrador do Azure para M
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Como gerenciar usuários no portal do Azure do Microsoft Cloud for US Government
 
-Se estiver conectado ao Partner Center do Microsoft Cloud for US Government, você poderá abrir o portal do Azure do Microsoft Cloud for US Government sem precisar entrar novamente. No entanto, se você precisar fazer logon diretamente no portal do Azure para Microsoft Cloud for US Government, acesse (https://portal.azure.us/) e faça logon usando as credenciais de administrador global do locatário do Azure AD para Microsoft Cloud for US Government.
+Se estiver conectado ao Partner Center do Microsoft Cloud for US Government, você poderá abrir o portal do Azure do Microsoft Cloud for US Government sem precisar entrar novamente. No entanto, se você precisar logon diretamente no portal do Azure para Microsoft Cloud for US Government, acesse (https://portal.azure.us/) e entrar usando credenciais de administrador global para seu locatário do Azure AD para Microsoft Cloud for US Government.
 
 Depois de entrar com êxito no portal do Azure do Microsoft Cloud for US Government, abra sua página de visão geral do Azure Active Directory (Azure AD) e siga as instruções destes tópicos:
 
->**Observação**
- Selecionar os links a seguir levará você a um site diferente. 
+>**Observação** Selecionar os links a seguir levará você a um site diferente. 
 
 -  [**Adicionar novos usuários ao Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 

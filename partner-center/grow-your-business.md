@@ -1,13 +1,15 @@
 ---
-title: "Expandir seus negócios de parceiro da Microsoft | Partner Center"
-description: "Recursos para expandir seus negócios de parceiro da Microsoft. Inclui como obter as oportunidades de vendas (indicações) da Microsoft."
-keywords: "indicações, responder às indicações, clientes em potencial, oportunidades de vendas, perfil de marketing, perfil de negócios, expandir seus negócios, oportunidades de negócios, competências, afiliação silver, afiliação gold, ofertas de avaliação, expansão de mercado, nuvens nacionais"
+title: Expandir seus negócios de parceiro da Microsoft | Partner Center
+description: Recursos para expandir seus negócios de parceiro da Microsoft. Inclui como obter as oportunidades de vendas (indicações) da Microsoft.
+keywords: indicações, responder às indicações, clientes em potencial, oportunidades de vendas, perfil de marketing, perfil de negócios, expandir seus negócios, oportunidades de negócios, competências, afiliação silver, afiliação gold, ofertas de avaliação, expansão de mercado, nuvens nacionais
 author: MaggiePucciEvans
-ms.openlocfilehash: f12f529765ce0b6c6d9b5c69ee84be2fddf0525e
-ms.sourcegitcommit: d5d74de145732384470224d79ed34dcdb8714104
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: cf1244e7671b53c3aa813f493cd7b9bdf90c24d5
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876446"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Expandir seus negócios de parceiro da Microsoft 
 
@@ -32,6 +34,9 @@ Use o Partner Center para:
 | Oferecer a seus clientes assinaturas de avaliação para produtos da Microsoft | Leia [Oferecer aos seus clientes avaliações de produtos da Microsoft](offer-your-customers-trials-of-microsoft-products.md) para aprender a usar assinaturas de avaliação para vender mais para sua base de clientes.| Parceiros CSP |
 | Oferecer aos seus clientes preços promocionais em assinaturas da Microsoft | Ocasionalmente, a Microsoft oferece promoções em assinaturas baseadas em licença, permitindo que você passe a economia para os clientes e expanda seus negócios. Leia [Oferecer aos seus clientes preços promocionais em assinaturas da Microsoft](promotions.md) para saber como. | Parceiros CSP |
 | Vender em mercados adicionais | O canal de vendas do Provedor de Soluções na Nuvem está disponível em muitos países e regiões. Consulte [Mercados de Provedor de Soluções na Nuvem](agreements.md) para examinar a lista. Para obter uma introdução ao canal do Provedor de Soluções na Nuvem, consulte [Visão geral do Provedor de Soluções na Nuvem](csp-overview.md).  | Parceiros CSP |
+Vender para setores especializados como sem fins lucrativos que organizações estejam e educação|[Vender para setores especializados](get-special-pricing-for-offers.md)|Parceiros CSP|
+|Expanda seus negócios pelas muitas atividades disponíveis no programa de cooperação de incentivos. Declarações de arquivo para as atividades por meio do painel.| [Criar e gerenciar solicitações de incentivos](create-incentives-claims.md)|Parceiros CSP|
+|Criar novos pacotes de software, incluindo ofertas de terceiros que funcionam com o software Microsoft que você já estiver vendendo|[Descobrir as ofertas de terceiros](third-party-offers.md)|Parceiros CSP|
 
 ## <a name="see-also"></a>Consulte também
 

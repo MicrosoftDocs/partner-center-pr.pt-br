@@ -4,11 +4,13 @@ description: Se seu cliente precisar de mais licenças do que as fornecidas pela
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 keywords: adicionar licenças à assinatura existente, adicionar estações à assinatura existente, modificar uma assinatura, alterar uma assinatura, comprar mais licenças para um cliente
-ms.openlocfilehash: 1f23892efab9e00fa492eb96d894763276bf673a
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 089baed41e278dff269c622641fa685d684ea4fe
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874866"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Adicionar licenças ou serviços a uma assinatura existente
 

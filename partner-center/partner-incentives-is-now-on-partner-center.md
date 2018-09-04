@@ -1,12 +1,14 @@
 ---
-title: "Os incentivos para parceiros agora estão no Partner Center | Partner Center"
-description: "Os programas de incentivos estimulam os parceiros a desenvolver novas técnicas de marketing, oferecer treinamento e muito mais"
+title: Os incentivos para parceiros agora estão no Partner Center | Partner Center
+description: Os programas de incentivos estimulam os parceiros a desenvolver novas técnicas de marketing, oferecer treinamento e muito mais
 author: labrenne
-ms.openlocfilehash: df329e690c839a8763268479fd52b5797fcc4a4c
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 086f81a07aa4f12f40c7f7d1ca47dc6051cd4e59
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875666"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>Os incentivos para parceiros agora estão no Partner Center 
 

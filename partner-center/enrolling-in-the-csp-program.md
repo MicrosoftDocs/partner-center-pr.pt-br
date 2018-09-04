@@ -2,15 +2,17 @@
 title: Inscrever-se no programa Provedor de Soluções na Nuvem | Partner Center
 description: Conheça os diferentes modelos de venda no CSP e decida qual deles funciona melhor para sua empresa
 author: labrenne
-ms.openlocfilehash: 3fb617c78ac0120c2f1588022441469fa0345708
-ms.sourcegitcommit: f6681a0bd9f09242b3544448573d30f5a0aa1f3c
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 609ef0bd1e280e41cd74088b8a42ffe7771d5ef9
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/26/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876396"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscrever-se no programa Provedor de Soluções na Nuvem
 
-**Aplicável ao**---
+**Aplicável a**
 
 -  Partner Center
 
@@ -21,7 +23,7 @@ Para se inscrever no programa Provedor de Soluções na Nuvem, primeiramente, é
 
 Para preencher o formulário de CSP, você precisará de sua ID do MPN, endereço comercial completo, informações bancárias e o email comercial do funcionário que atuará como administrador no Painel de Parceiros.
 
-Decida qual [modelo CSP é melhor](http://partner-l1.microsoft.com/cloud-solution-provider-direct-or-indirect.html?ocid=cx-pcprograms-cspprogram-tellusmorebusiness) para você e preencha o formulário. 
+Decida qual [modelo CSP é melhor](https://partnercenter.microsoft.com/en-us/cloud-solution-provider/csp-enrollment) para você e preencha o formulário. 
 
 Pode levar vários dias para analisarmos e verificarmos as informações fornecidas por você. Enviaremos um email quando concluirmos nossa análise.
 
@@ -40,15 +42,29 @@ Pode levar vários dias para analisarmos e verificarmos as informações forneci
 
 ### <a name="enroll-as-a-direct-partner"></a>Inscrever-se como um parceiro direto
 
->**Observação**<br> Estamos em processo de atualização de nossos requisitos de registro de parceiro direto e atualmente não estamos aceitando novas inscrições. Planejamos reabrir o processo de inscrição em 31 de agosto. Considere registrar-se como revendedor indireto. 
-
 Como um parceiro direto, você possui a relação de ponta a ponta com o cliente e com a Microsoft.
 
 - Depois que você se inscrever e atender aos critérios de aceitação como um parceiro direto, o administrador global poderá configurar sua conta, adicionar funcionários, atribuir funções e permissões a eles de acordo com o trabalho de cada um e configurar o perfil da organização. 
 
 - Se desejar continuar trabalhando com seus clientes atuais por meio do Painel de Parceiros, você precisará [associá-los](request-a-relationship-with-a-customer.md) à sua conta no Painel de Parceiros.  Dessa forma, a Microsoft poderá conectar sua cobrança e faturamento a eles. 
 
-| Disponibilidade por mercado |
+>**Observação**<br> Os requisitos para se tornar um parceiro direto recentemente foram alterados e entrará em vigor a partir de 31 de agosto de 2018. Parceiros diretos precisará atender aos novos requisitos a partir do seu próximo período de inscrição após 31 de agosto de 2018.
+
+#### <a name="new-expanded-requirements"></a>Novos requisitos expandidos:
+
+Suporte
+- Expanda seus recursos de suporte comprando o suporte de nuvem individuais, priorizada com o Microsoft Advanced suporte para o pacote de parceiros. Ou, escolha um suporte Microsoft Premier para o pacote de parceiros para acessar o catálogo completo de serviços proativos, 24/7 elevado quebra/correção suporte e gerenciamento de conta técnica em nuvem, híbrida e local. 
+
+Serviços
+
+- Demonstre que você forneça pelo menos um serviço gerenciado, IP serviço ou aplicativo de solução de cliente. Saiba mais sobre como adicionar serviços gerenciados
+
+- Conheça os recursos de infraestrutura mínima, como cobrança e provisionamento.
+Estamos monitorando desempenho anual para confirmar que os parceiros de cobrança direta que atendam a esses requisitos são demonstrando o crescimento dos negócios estável. Não há nenhum metas de desempenho específicas no lugar no momento, mas Microsoft pode implementar um desempenho barra no futuro. 
+
+- Uma ID ativa do Microsoft Partner Network (MPN) para o local onde deseja vender
+
+|**Disponibilidade por mercado**|
 |----------------------------------------------------------------------------------------------|
 | Brasil  |
 | Canadá  |
@@ -70,7 +86,7 @@ Como um parceiro direto, você possui a relação de ponta a ponta com o cliente
 
 Sua localização geográfica determina a moeda na qual você será cobrado, conforme mostrado na tabela a seguir. Observe que, por conta de implicações fiscais e legais, se desejar usar uma moeda de cobrança diferente, você precisará criar um novo locatário e especificar essa moeda. 
 
-| Moeda | País |
+| **Moeda** | **País** |
 | ---- | ---- |
 | USD | Albânia e Santo Eustáquio, Anguilla, Antártida, Antígua e Barbuda, Argentina, Armênia, Aruba, Azerbaijão, Bahamas, Bahrein, Bangladesh, Barbados, Belarus, Belize, Benin, Bermuda, Bolívia, Bonaire, Brasil, Território Britânico do Oceano Índico, Brunei, Burundi, Camarões, Ilhas Cayman, República Centro-Africana, Chile, Colômbia, Comores, Costa Rica, Curaçao, República Dominicana, Equador, Egito, El Salvador, Guiné Equatorial, Eritreia, Fiji, Guiana Francesa, Polinésia Francesa, Geórgia, Gana, Guatemala, Guiné-Bissau, Honduras, RAE de Hong Kong, Indonésia, Iraque, Israel, Jamaica, Cazaquistão, Quênia, Kuwait, Quirguistão, Líbano, RAE de Macau, Madagascar, Malaui, Malásia, Mali, Mauritânia, Maurício, Mayotte, México, Marrocos, Namíbia, Nova Caledônia, Nicarágua, Nigéria, Omã, Paquistão, Panamá, Paraguai, Peru, Filipinas, Porto Rico, Catar, Reunião, Ruanda, Saba, Santa Lúcia, Saint Martin, São Vicente e Granadinas, Arábia Saudita, Sérvia, Seicheles, Serra Leoa, Cingapura, Sint Maarten, Somália, África do Sul, Sri Lanka, Suriname, Suazilândia, Tanzânia, Tailândia, Timor-Leste, Togo, Trinidade e Tobago, Tunísia, Turquia, Ilhas Turks e Caicos, Ilhas Virgens Americanas, Ucrânia, Emirados Árabes Unidos, Estados Unidos, Uruguai, Venezuela, Vietnã, Iêmen | 
 | TWD | Taiwan |

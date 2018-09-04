@@ -3,11 +3,13 @@ title: Impostos e isenções fiscais | Partner Center
 description: Como o Provedor de Soluções na Nuvem é um canal de vendas concentrado na revenda de produtos do parceiro, a Microsoft nem sempre precisa cobrar impostos sobre vendas em faturas de parceiros.
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
-ms.openlocfilehash: bc1bee6104c5eb7f540e9379305764d9b040fb6b
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: ae366ba7275eb9192aee1afc44acdf4e8351b55e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874886"
 ---
 # <a name="tax-and-tax-exemptions"></a>Impostos e isenções fiscais
 

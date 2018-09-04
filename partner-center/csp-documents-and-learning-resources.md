@@ -4,11 +4,13 @@ description: Este artigo inclui links para guias do programa Provedor de Soluç�
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 keywords: guias do programa csp, guia de programa, acordos de parceria, contrato do cliente, listas de preço, ofertas
-ms.openlocfilehash: 98d4a76faff8289a1d5875b9da8ad8f7ba9faa94
-ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 792eea1f482eb539aef84b2b3a2c79f7c33d508a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/09/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876426"
 ---
 # <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>Contratos, listas de preços e ofertas do Provedor de Soluções na Nuvem
 
@@ -33,21 +35,21 @@ Examine os requisitos para se tornar um parceiro no programa de provedor de solu
 
 A Microsoft exige que os parceiros assinem este contrato para participar do programa de Provedor de Solução na Nuvem. Examine o guia para o mercado ou nuvem nacional em que você pretende vender.
 
-[Contrato de revendedor de soluções de Nuvem da Microsoft – América do Norte, América Central, América do Sul e Caribe](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_AOC_ENG_Sep20172_CR.pdf)
+[Contrato de revendedor de soluções de Nuvem da Microsoft – América do Norte, América Central, América do Sul e Caribe](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
-[Contrato de revendedor de soluções de Nuvem da Microsoft – Ásia, Austrália e Pacífico](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_APOC_ENG_Sep20172_CR.pdf)
+[Contrato de revendedor de soluções de Nuvem da Microsoft – Ásia, Austrália e Pacífico](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Sep2018_CR.pdf)
 
-[Contrato de revendedor de soluções de Nuvem da Microsoft – Europa, Oriente Médio e África](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_EOC_ENG_Sep20172_CR.pdf)
+[Contrato de revendedor de soluções de Nuvem da Microsoft – Europa, Oriente Médio e África](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
-[Contrato de revendedor de soluções de Nuvem da Microsoft – Japão](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_JPN_ENG_Sep20172_CR.pdf)
+[Contrato de revendedor de soluções de Nuvem da Microsoft – Japão](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
 
-[Contrato de revendedor de soluções de Nuvem da Microsoft – Coreia](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_KOR_ENG_Sep20172_CR.pdf)
+[Contrato de revendedor de soluções de Nuvem da Microsoft – Coreia](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
 
-[Contrato de revendedor de soluções de Nuvem da Microsoft – Taiwan](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_TAI_ENG_Sep20172_CR.pdf)
+[Contrato de revendedor de soluções de Nuvem da Microsoft – Taiwan](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Contrato de revendedor de soluções de Nuvem da Microsoft - Microsoft Cloud Germany](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_EOC_GER_ENG_Sep20172_CR_GermanCloud.pdf)
+[Contrato de revendedor de soluções de Nuvem da Microsoft - Microsoft Cloud Germany](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_GER_ENG_Sep2018_GermanCloud_CR.pdf)
 
-[Contrato de revendedor de soluções de Nuvem da Microsoft - Microsoft Cloud for US Government](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_AOC_USGCC_ENG_Sep20172_CR.pdf)
+[Contrato de revendedor de soluções de Nuvem da Microsoft - Microsoft Cloud for US Government](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Sep2018_CR.pdf)
 
 ## <a href="" id="customeragreementtemplate"></a>Modelos de contrato do cliente
 
@@ -59,11 +61,13 @@ Como um parceiro no CSP, você é responsável por revisar os termos e condiçõ
 ## <a name="pricing"></a>Preço
 
 
-Baixe os detalhes de preços para serviços baseados em licença e uso na página **Preços e ofertas**, disponível em seu menu **Painel**. 
+Baixe os detalhes de compras com base em licença, com base em uso e únicas na página **preços e ofertas** , disponível no menu do **painel** de preços. 
 
 A lista de preços com base em licença é atualizada mensalmente, e a Microsoft lança novos preços 30 dias antes de entrar em vigor. Exemplos de serviços baseados em licença incluem o Office 365, Enterprise Mobility Suite e Microsoft Dynamics CRM. 
 
 Os preços de serviços com base em uso são dinâmicos e mudam frequentemente. Exemplos de serviços baseados em uso incluem o Microsoft Azure.
+
+Preço de compra única também é dinâmico. Exemplos de compras únicas Microsoft Azure instâncias VM reservadas. 
 
 
 ## <a name="offers"></a>Ofertas

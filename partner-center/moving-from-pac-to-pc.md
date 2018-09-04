@@ -3,11 +3,13 @@ title: Mudança do Centro de Administração do Parceiro para o Partner Center
 description: Localizar no Partner Center os recursos que você está acostumado a usar no Centro de Administração do Parceiro
 author: labrenne
 keywords: PAC, administração do Office 365, recursos do PAC
-ms.openlocfilehash: 7bcb12a918cf007a474287183c2aa0956c161431
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f2982e1e517c02a78d01b68f21122eebcabf3bf9
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876246"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-dashboard"></a>Mudança do PAC (Centro de Administração do Parceiro) para o Painel de Parceiros
 

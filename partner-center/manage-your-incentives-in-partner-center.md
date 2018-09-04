@@ -2,11 +2,13 @@
 title: Gerencie seus incentivos no Partner Center | Partner Center
 description: Os programas de incentivos para parceiros da Microsoft oferecem suporte para o lucro e o crescimento dos parceiros
 author: labrenne
-ms.openlocfilehash: 7a924526d90843b44aeb192fed3c2c994be89133
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8141d3cf0796885ff911b75c3898af7065612f06
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875876"
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>Gerencie seu incentivos no Partner Center 
 
@@ -50,3 +52,4 @@ Quando o administrador de incentivos receber as credenciais, ele poderá conclui
 
 [Entenda seus pagamentos de incentivos](understand-incentive-payouts.md)
 
+Para obter mais informações, consulte [Guia de cooperação de incentivos de parceiro](https://assets.microsoft.com/coop-guidebook.pdf)

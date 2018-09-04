@@ -3,18 +3,20 @@ title: Multi-canal | Partner Center
 description: Em alguns casos, os clientes talvez queiram contratar você para provisionar e dar suporte a uma assinatura que eles compraram em outro lugar.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
-ms.openlocfilehash: bbba14ec95a99ad2f36cf9173d43fb244d3ca677
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 4fcb572f7afc9d7f75b8330a23b45eb5696c30e3
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875836"
 ---
 # <a name="multi-channel-support"></a>Suporte multi-canal
 
 **Aplica-se a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud for US Government
+-  Partner Center for Microsoft Cloud for US Government
 -  Partner Center for Microsoft Cloud Germany
 
 O recurso multicanal do Painel de Parceiros oferece suporte a cenários em que um cliente quer realizar a contratação de um parceiro para gerenciar e dar suporte a uma assinatura que ele comprou em outro lugar. O suporte multi-canal se aplica quando o cliente:

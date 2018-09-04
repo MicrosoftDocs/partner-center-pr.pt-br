@@ -3,11 +3,13 @@ title: Expanda seus negócios com indicações da Microsoft | Partner Center
 description: Gerar clientes em potencial e conectar-se aos que precisam de ajuda para implementar produtos e soluções da Microsoft.
 author: KPacquer
 keywords: indicações, perfil de negócios, encontrar um parceiro
-ms.openlocfilehash: b73feb1df95e7ed7cea4c8a39d9be6d986309f84
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: ce9879cd727fd65ae3db1a7ee78b59556662ad53
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874606"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 

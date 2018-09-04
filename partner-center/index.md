@@ -2,20 +2,21 @@
 layout: LandingPage
 hide_bc: true
 title: Comece aqui para obter ajuda com o Painel de Parceiros
-description: Precisa de ajuda para configurar a conta, conectar-se com clientes ou comprar uma assinatura do Action Pack? Encontre as respostas na biblioteca de Ajuda do Painel de Parceiros.
+description: Precisa de ajuda para configurar a conta, conectar-se com clientes ou comprar uma assinatura do Action Pack? Encontre as respostas nesta biblioteca de Ajuda do painel criados especificamente para os parceiros nos programas CSP e MPN.
 author: v-chmccl
 ms.topic: landing-page
 searchScope: []
-ms.openlocfilehash: 731362ac654cf8ea3d70985316a881ce81cac5d9
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f7e53e0731690f2ede4c1d3cf8fae906af8b9e91
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1919896"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876366"
 ---
-# <a name="start-here-for-help-with-partner-center-dashboard"></a>Comece aqui para obter ajuda com o Partner Center
+# <a name="start-here-for-help-with-partner-dashboard"></a>Comece aqui para obter ajuda com o Painel de Parceiros
 
-Precisa de ajuda para configurar a conta, conectar-se com clientes ou comprar uma assinatura do Action Pack? Encontre as respostas na biblioteca de Ajuda do Painel do Partner Center.
+Precisa de ajuda para configurar a conta, conectar-se com clientes ou comprar uma assinatura do Action Pack? Encontre as respostas nesta biblioteca de Ajuda do painel criados especificamente para os parceiros nos programas CSP e MPN.
 
 Se você já estiver familiarizado com o painel, consulte [novidades](/partner-center/whats-new-in-pc).
 
