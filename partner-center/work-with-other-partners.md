@@ -1,12 +1,14 @@
 ---
 title: Trabalhar com outros parceiros | Partner Center
-description: "Trabalhe com outros parceiros no CSP para atender às necessidades dos clientes que você compartilha."
+description: Trabalhe com outros parceiros no CSP para atender às necessidades dos clientes que você compartilha.
 author: MaggiePucciEvans
-ms.openlocfilehash: 04c5c4c9c9add663865add92bbcc527169ec44a8
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: bab729b1a9021d095566395048a4eb7fa3c8d7f8
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877096"
 ---
 # <a name="work-with-other-partners"></a>Trabalhar com outros parceiros
 

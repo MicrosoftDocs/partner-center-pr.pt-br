@@ -4,11 +4,13 @@ description: Você pode adicionar vários usuários a uma conta do cliente de um
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 keywords: upload em massa, adicionar vários usuários a uma conta do cliente, adicionar usuários do cliente, upload em massa de usuários do cliente, conta do cliente, usuários do cliente, usuários
-ms.openlocfilehash: 2c695cd6c6e3b302d91730638358616ca3465188
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: e7a5e7f9c0cebf81373c500dd3a552710fcf845a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876966"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Adicionar vários usuários a uma conta do cliente
 
@@ -54,15 +56,13 @@ Insira os seguintes dados no arquivo de dados:
 
     **Observação**  A maioria dos erros de criação de conta é causada por problemas no arquivo de dados, como falta de informações, endereços de email incorretos ou duplicados ou número excessivo de registros no arquivo.
 
-     
-
 7.  Depois que o Painel de Parceiros validar o arquivo, selecione a **Localização** geográfica dos novos usuários.
 8.  Selecione **Salvar**.
 9.  Baixe as informações de senha temporária dos usuários.
 
 **IMPORTANTE:** Certifique-se de baixar o arquivo com as senhas temporárias agora, pois não será possível fazer isso mais tarde. Os novos usuários devem fazer logon em suas novas contas usando a respectiva senha temporária.
 
-O Painel de Parceiros atribui automaticamente a permissão **Pode usar licenças e serviços** aos novos usuários.
+10. Novos usuários recebem automaticamente permissões de **pode usar licenças e serviços** . 
 
  
 

@@ -4,11 +4,13 @@ description: ''
 ms.assetid: ''
 author: ''
 Keywords: ''
-ms.openlocfilehash: ff96a1e49423a3aeb14a977daa21631df2e2de13
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: b53eaa1b2a7b2904c122dfd38b8f871a4920658d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877236"
 ---
 # <a name="cloud-solution-provider-csp-account-credit-limits"></a>Limites de crédito da conta do CSP (Provedor de Soluções na Nuvem)
 

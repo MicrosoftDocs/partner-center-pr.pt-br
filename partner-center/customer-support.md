@@ -1,52 +1,49 @@
 ---
-title: Suporte ao cliente | Partner Center
-description: "Você é o primeiro ponto de contato para seus clientes e deve fornecer serviços de suporte técnico e de conta aos clientes como: suporte a assinatura e cobrança; ajuda do provisionamento/implantação e configuração de software; resolução de problemas de desempenho, problemas de disponibilidade de serviço, problemas de conectividade do cliente e problemas da área de trabalho do cliente devido a configurações ausentes ou incorretamente feitas, integração com o software incompleta, problemas de permissões ou outros problemas de implantação; gerenciamento de atualizações de software e serviços; respostas para questões de uso. Os Provedores de Soluções na Nuvem devem fornecer uma descrição clara para os clientes sobre como eles receberão suporte. Se você não fornecer suporte telefônico 24 horas, deverá fornecer um contrato de nível de serviço para explicar as opções para seus clientes. A Microsoft não oferece suporte aos clientes CSP."
+title: Fornecer suporte a seus clientes | Partner Center
+description: Os parceiros são necessários para receber solicitações de suporte de clientes, diagnosticar problemas da melhor forma de capacidade do parceiro e, em seguida, resolver problemas que estão no escopo dos limites de suporte de linha de base.
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
-ms.openlocfilehash: ee8ccd7ab7222eedcc3455b91c522f0005f60b9e
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 62a3a469180b084123f409e97f093056d36bfdd9
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877266"
 ---
-# <a name="customer-support"></a>Atendimento ao cliente
+# <a name="providing-support-to-your-customers"></a>Fornecer suporte a seus clientes
 
-**Aplicável a**
+**Aplica-se a**
 
 -  Partner Center
 -  Partner Center for Microsoft Cloud for US Government
 -  Partner Center for Microsoft Cloud Germany
 
-Você é o primeiro ponto de contato para seus clientes e deve fornecer serviços de suporte técnico e de conta aos clientes como:
+## <a name="microsoft-partner-support-guidance"></a>Diretrizes de suporte do Microsoft partner
 
--   Suporte a assinatura e cobrança
+Os parceiros transações no modelo CSP são o consultor confiável para seus clientes e possuem a relação-a ponta, incluindo suporte quando o cliente tiver uma pergunta ou problema. Por meio do suporte a toque parceiros de pontos podem saber mais sobre o cliente e seus negócios, identificar novos serviços e soluções que orientam o valor.
 
--   Ajuda do provisionamento/implantação e configuração de software
+Para atender ao requisito de suporte, o parceiro pode revender suporte de outra entidade, eles podem terceirizar todos ou parte de sua estrutura de suporte e/ou eles podem configurar uma estrutura para oferecer suporte diretamente.  O parceiro pode cobrar ou parte do suporte fornecido para os clientes. O parceiro deve expor para seus clientes o suporte a eles fornecem, as horas de serviço e entre em contato com o método, bem como os preços (se o carregamento de suporte). 
 
--   Resolução de problemas de desempenho, problemas de disponibilidade de serviço, problemas de conectividade do cliente e problemas da área de trabalho do cliente devido a configurações ausentes ou incorretamente feitas, integração com o software incompleta, problemas de permissões ou outros problemas de implantação.
+Os parceiros são necessários para receber solicitações de suporte de clientes, diagnosticar problemas da melhor forma de capacidade do parceiro e, em seguida, resolver problemas que estão no escopo dos limites de suporte de linha de base. Se o parceiro for incapaz de resolver um problema, eles podem encaminhar problemas à Microsoft por meio de veículos suporte a seguir:
 
--   Gerenciamento de atualizações de software e serviços
+- Suporte **comercial** do problema está disponível para todos os parceiros no programa CSP
+-   Suporte **técnico** do problema está disponível por meio de:
+    -   Suporte Premier para parceiros (taxa de base)
+    -   Suporte avançado para parceiros (taxa de base)
+    -   Suporte à nuvem de assinatura (incluído com competência ouro/prata)
 
--   Respostas para questões de uso
+## <a name="providing-billing-subscription-management-and-technical-support"></a>Fornecer suporte técnico, gerenciamento de assinatura e cobrança 
 
-O Provedor de Soluções na Nuvem deve fornecer uma descrição clara para os clientes sobre como eles receberão suporte. Se você não fornecer suporte telefônico 24 horas, deverá fornecer um contrato de nível de serviço para explicar as opções para seus clientes. A Microsoft não oferece suporte aos clientes CSP.
+Cada serviço online tem requisitos específicos e detalhados por fornecer suporte técnico, gerenciamento de assinatura e cobrança aos clientes. Consulte os documentos a seguir para obter mais informações.
 
-## <a href="" id="supportingtrainingcustomers"></a>Suporte e treinamento para clientes
+-   [Assinaturas do Dynamics 365 vendido por meio do CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+
+-   [Assinaturas do Azure vendidas por meio do CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+
+-   [Assinaturas do Office 365 vendido por meio do CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
 
 
-Se forem apresentados muitos pedidos de Ajuda e Perguntas de instrução, os números de adoção em sua conta estiverem baixos ou você estiver procurando por oportunidades de vendas, convém considerar a oferta de cursos de treinamento. Ensinar seus clientes como usar melhor o software de solução na nuvem que compraram permitirá que você veja um aumento na produtividade e na satisfação do cliente, e uma redução nas necessidades de suporte. Para obter sugestões e dicas, consulte [Aumentar a adoção e a satisfação](increasing-adoption-and-satisfaction.md).
-
-## <a name="customer-support"></a>Atendimento ao cliente
-
-
-[Fornecer suporte para a cobrança](provide-billing-support.md)
-
-[Fornecer suporte técnico](provide-technical-support.md)
-
-[Comunicação com o cliente da Microsoft](customer-communication-from-microsoft.md)
-
-[Suporte autônomo do cliente](customer-self-support.md)
-
-[Encaminhar problemas para a Microsoft](escalate-problems-to-microsoft.md)
 
  
 

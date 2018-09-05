@@ -1,13 +1,15 @@
 ---
-title: "Solicitar uma relação com um cliente | Partner Center"
-description: "Solicitar um relacionamento é usado para os cenários vários parceiros e vários canais. Também será útil se um cliente remover seus privilégios de administrador e você precisar restaurá-los para fornecer provisionamento ou suporte."
+title: Solicitar uma relação com um cliente | Partner Center
+description: Solicitar um relacionamento é usado para os cenários vários parceiros e vários canais. Também será útil se um cliente remover seus privilégios de administrador e você precisar restaurá-los para fornecer provisionamento ou suporte.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-ms.openlocfilehash: 65909045a8b3b7fe7d47cf7a44e767a5b93dfdf2
-ms.sourcegitcommit: 7ed78315d2a4f4f60a0bf51ec658e019ff5b7fe3
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: a1c0bb93becbc3290c24a4530aa33fda38fa8942
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877216"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Conectar com clientes no Partner Center
 
@@ -31,9 +33,7 @@ Para gerenciar um serviço ou inscrição de cliente em seu nome, o cliente deve
 
 4.  Depois do cliente aceitar seu convite, eles aparecerão em sua página **Clientes**, e você poderá provisionar e gerenciar o serviço para o cliente a partir daí.
 
- >**Observação**<br>
-    Em um cenário multi-canal, apenas um parceiro pode ter permissões de administrador para gerenciar um serviço em nome do cliente. 
-
+ 
 5.  Para gerenciar a conta do cliente, serviços, usuários e licenças, expanda o registro do cliente, selecionando a seta para baixo perto de seu nome.
 
 

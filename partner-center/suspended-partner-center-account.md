@@ -1,12 +1,15 @@
 ---
 title: Restaurar uma conta suspensa do Partner Center | Partner Center
-description: "Saiba como restaurar uma conta suspensa do Partner Center, por que acontece a suspensão da conta de parceiro e como você pode usar sua conta durante a suspensão."
+description: Saiba como restaurar uma conta suspensa do Partner Center, por que acontece a suspensão da conta de parceiro e como você pode usar sua conta durante a suspensão.
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
-ms.openlocfilehash: b3eecda15bc4dc6363a288a768463acec86aa29f
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: e24b176e5973512afc755d684a08615c6ff06289
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877026"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>Restaurar uma conta suspensa do Partner Center
 
@@ -39,9 +42,9 @@ Se sua conta estiver vencida, siga as instruções de sua fatura para organizar 
 
 **Para enviar uma solicitação de certificado**
 
-1.    No menu **Painel**, selecione **Solicitações de suporte > Solicitações do Partner Center**.
-2.    Selecione **Nova solicitação**. 
-3.    Preencha o formulário e depois selecione **Enviar**. Um representante do suporte do Partner Center entrará em contato com você para explicar por que sua conta foi suspensa e como reativá-la.
+1.  No menu **Painel**, selecione **Solicitações de suporte > Solicitações do Partner Center**.
+2.  Selecione **Nova solicitação**. 
+3.  Preencha o formulário e depois selecione **Enviar**. Um representante do suporte do Partner Center entrará em contato com você para explicar por que sua conta foi suspensa e como reativá-la.
 
 
 

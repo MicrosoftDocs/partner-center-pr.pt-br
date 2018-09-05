@@ -3,12 +3,13 @@ title: Descobrir as ofertas de terceiros que deseja vender | Partner Center
 description: Procure e encontre os tipos de ofertas de terceiros que se adequem bem ao seu portfólio.
 author: labrenne
 keywords: ofertas de terceiros, software para compra, procurar terceiros
-ms.openlocfilehash: f924bc4d38c764ca571148943d287318edb46987
-ms.sourcegitcommit: 393cb5a8c9b71a737dc1a7aa8d1639937470be3d
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: dc7d7c8a0d24f184c2e6a21406a1d5d26c961902
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2204950"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876716"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>Descobrir as ofertas de terceiros que deseja vender
 

@@ -4,11 +4,13 @@ description: Antes de vender assinaturas, gerenciar cobranças ou fornecer supor
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 keywords: cliente, adicionar cliente, conta do cliente, conta do cliente no Partner Center, clientes, adicionar clientes, criar conta do cliente
-ms.openlocfilehash: cb9a6b2b62b838936f214707ddb0a32b3691c167
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 5c157074bc2d64a1f25f27455e0d362c8050d5fe
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876856"
 ---
 # <a name="add-a-new-customer"></a>Adicionar um novo cliente
 

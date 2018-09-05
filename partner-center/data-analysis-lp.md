@@ -1,13 +1,15 @@
 ---
-title: "Dados e análise no Partner Center | Partner Center"
+title: Dados e análise no Partner Center | Partner Center
 description: Use os recursos de dados no Partner Center para compreender melhor sua empresa.
 author: labrenne
-keywords: "dados, análise, análise de dados, power bi"
-ms.openlocfilehash: 81e10c649fa3ab0f7662db915b7f891671b48bbe
-ms.sourcegitcommit: dcaa831710115ac0852131605115b9b6cc67c5d5
-ms.translationtype: HT
+keywords: dados, análise, análise de dados, power bi
+ms.localizationpriority: medium
+ms.openlocfilehash: e76fc54712628808599d63a799d009821c81343b
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/04/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877156"
 ---
 # <a name="get-data-and-analyze-your-business"></a>Obtenha dados e analise seus negócios 
 

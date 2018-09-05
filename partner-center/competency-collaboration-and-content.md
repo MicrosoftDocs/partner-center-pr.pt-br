@@ -1,45 +1,53 @@
 ---
-title: "Competência Colaboração e Conteúdo"
-description: "A competência Colaboração e Conteúdo reconhece parceiros que fornecem soluções do SharePoint que ajudam as empresas a compartilhar, colaborar e melhorar a produtividade."
+title: Competência Colaboração e Conteúdo
+description: A competência Colaboração e Conteúdo reconhece parceiros que fornecem soluções do SharePoint que ajudam as empresas a compartilhar, colaborar e melhorar a produtividade.
 author: Daniel Simpson
-keywords: "competência,competências,Colaboração e Conteúdo"
-ms.openlocfilehash: a924848c5e342ab18ff02c7887e4143f88407530
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: competência,competências,Colaboração e Conteúdo
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: efe413c3aec78d0f1b01f22e3db73cdb1122b2e9
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877066"
 ---
-#<a name="collaboration-and-content"></a>Colaboração e Conteúdo
-A competência Colaboração e Conteúdo reconhece parceiros que fornecem soluções do SharePoint que ajudam as empresas a compartilhar, colaborar e melhorar a produtividade.
+>[!IMPORTANT]
+>Para saber mais sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-##<a name="sharepoint-services-partner-option"></a>Opção Parceiros de Serviços do SharePoint
-Mostre seus conhecimentos dos produtos passando nos exames ou certificações.
+<!--
 
-###<a name="silver"></a>Silver
+#Collaboration and Content
+The Collaboration and Content competency recognizes partners delivering SharePoint solutions that help companies share, collaborate, and improve productivity.
 
-1. Sua organização deve ter **2** pessoas aprovadas nos requisitos do exame ou da certificação.
+##SharePoint Services Partner option
+Put your product knowledge to the test by passing exams or certifications.
 
-    - As **2** pessoas devem passar em todos os exames listados a seguir:
-        - [Exame 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Ativando os serviços para o Microsoft Office 365
-        - [Exame 70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Gerenciamento do Microsoft SharePoint Server 2016
+###Silver
 
-    **OU**
+1. Your organization must have **2** individuals pass either the exam or certification requirements.
 
-    - As **2** pessoas devem passar em uma das seguintes certificações:
-        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Produtividade
+    - **2** individuals must pass all the following exams:
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
+        - [Exam 70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016
+
+    **OR**
+
+    - **2** individuals must pass one of the following certifications:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
         - [MCSD](https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx): App Builder
 
-###<a name="gold"></a>Gold
-1. Sua organização deve ter **4** pessoas aprovadas nos requisitos do exame ou da certificação.
+###Gold
+1. Your organization must have **4** individuals pass either the exam or certification requirements.
 
-    - As **4** pessoas devem passar em todos os exames listados a seguir:
-        - [Exame 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Ativando os serviços para o Microsoft Office 365
-        - [Exame 70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Gerenciamento do Microsoft SharePoint Server 2016
+    - **4** individuals must pass all the following exams:
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
+        - [Exam 70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016
 
-    **OU**
+    **OR**
 
-    - As **4** pessoas devem passar em uma das seguintes certificações:
-        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Produtividade
+    - **4** individuals must pass one of the following certifications:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
         - [MCSD](https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx): App Builder
- 
+ -->
 

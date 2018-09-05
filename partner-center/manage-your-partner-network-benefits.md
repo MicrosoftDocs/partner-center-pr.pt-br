@@ -3,12 +3,13 @@ title: Gerenciar seus benefícios do Microsoft Partner Network | Partner Center
 description: Como um membro do Microsoft Partner Network, você está qualificado para comprar certos benefícios de associação. Explica como ativar e gerenciar seus benefícios de associação no painel de parceiros.
 author: MaggiePucciEvans
 keywords: MPN, benefícios da associação, associação
-ms.openlocfilehash: 650db44e4a240ca8f05ea421dec6ffc15ec8ceb2
-ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2518cc915b658a74372cd34b02e96bbbc1991aa0
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2207276"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876906"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gerencie seus benefícios de associação ao Microsoft Partner Network
 
@@ -25,6 +26,9 @@ Ingressando no MPN (Microsoft Partner Network), você obtém acesso a benefício
 ## <a name="manage-your-membership-benefits-in-the-dashboard"></a>Gerenciar os benefícios de sua associação no painel
 
 Após comprar um pacote de benefícios de associação, você precisará obter chaves de software e atribuir licenças, assinaturas e outros benefícios para os funcionários começarem a usá-los. 
+
+>[!IMPORTANT]
+>Enquanto você não precisa ser um administrador global em sua organização para comprar benefícios, você precisa ser o administrador global para atribuir benefícios para os funcionários.  Se você quiser, você pode se tornar um administrador global, seguindo as instruções em sua [página **benefícios** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (entrada obrigatória). Além disso, sua organização pode já ter um administrador global então certifique-se de verificar com a sua equipe.
 
 Sua assinatura do Action Pack inclui alocações de licenças de software de direitos de uso interno, serviços de nuvem, assinaturas do Visual Studio e suporte. Você pode encontrar detalhes sobre a assinatura do Action Pack no site do [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 

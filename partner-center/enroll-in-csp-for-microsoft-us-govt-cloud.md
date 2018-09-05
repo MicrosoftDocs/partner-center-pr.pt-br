@@ -1,12 +1,14 @@
 ---
-title: "Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Cloud for US Government | Partner Center do Microsoft Cloud for US Government"
-description: "Antes de se inscrever no programa Provedor de Soluções na Nuvem do Microsoft Cloud for US Government, saiba mais sobre os requisitos do programa CSP."
+title: Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Cloud for US Government | Partner Center do Microsoft Cloud for US Government
+description: Antes de se inscrever no programa Provedor de Soluções na Nuvem do Microsoft Cloud for US Government, saiba mais sobre os requisitos do programa CSP.
 author: MaggiePucciEvans
-ms.openlocfilehash: 69e50e7b16c7b39eef68b0e841f21414c1923f14
-ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 75d39cba230966dc8c457c7a4e564714f9ee6c58
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/19/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877196"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Cloud for US Government
 
@@ -64,7 +66,7 @@ O Microsoft Cloud for US Government fornece uma instância separada do Microsoft
 >**Observação**<br>
 Depois de atribuir os usuários a função de Agente administrador, elas poderão acessar a lista de clientes na página **Clientes** e [adicionar novos clientes](add-a-new-customer.md).   
 
-1.  Entre no portal do administrador do Microsoft Azure em https://portal.azure.us/.
+1.  Entrar no portal de administração do Microsoft Azure em https://portal.azure.us/.
 
 2.  Atribua a função de agente administrador para os usuários apropriados em sua organização. Para fazer isso, você precisará adicioná-los ao grupo integrado **AdminAgent**. Consulte [Gerenciar os membros de um grupo no Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) para obter informações sobre como fazer isso.
  

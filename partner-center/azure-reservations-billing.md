@@ -3,11 +3,14 @@ title: Cobrança para reservas do Azure | Partner Center
 Description: Information about billing for Azure reservations.
 author: v-petand
 keywords: Azure RI, instâncias reservadas do azure, reservas, vm, gerenciar, cobrança, compra
-ms.openlocfilehash: c7d18770499b134b59630a33b945f39bf4e741de
-ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
-ms.translationtype: HT
+robots: noindex, nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 1f29c884d155a64ba4d592466a87682313ce9610
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/11/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877406"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Cobrança de Instâncias de VM Reservadas do Microsoft Azure
 
@@ -118,6 +121,6 @@ Para cancelar uma fatura e emitir uma nova, baixe o formulário da página de co
 | Como gerenciar reservas do Azure no seu Painel de Parceiros | [Como gerenciar reservas do Azure no seu Painel de Parceiros](azure-reservations-manage.md)
 |Como comprar reservas do Azure no portal do Azure | [Pagar antecipadamente por máquinas virtuais com Instâncias de VM Reservadas do Azure](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) na Ajuda do Azure |
 |Como gerenciar reservas do Azure no portal do Azure   |[Gerenciar instâncias de VM reservadas](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) na Ajuda do Azure  |
-|Como comprar reservas do Azure usando a API do Partner Center | [Comprar Instâncias de VM Reservadas do Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances) na documentação do desenvolvedor do Partner Center
+|Como comprar reservas do Azure usando a API do Partner Center | [Comprar Instâncias de VM Reservadas do Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) na documentação do desenvolvedor do Partner Center
 
  

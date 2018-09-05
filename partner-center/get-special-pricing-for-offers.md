@@ -3,12 +3,13 @@ title: Vender para setores especializados | Partner Center
 Description: Microsoft provides special, reduced pricing for select groups of customers, including education customers, non-profit customers, and government users.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
-ms.openlocfilehash: a45a362d4d2f6fbd9853ac03c8b034ed1937b99a
-ms.sourcegitcommit: 665f7e1363368ae6f986a252a3aa6e3f0997425e
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: e60dd18ff9066efa72a4a290150faa6b1e7e8252
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/22/2018
-ms.locfileid: "2087636"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877486"
 ---
 # <a name="sell-to-specialized-industries"></a>Vender para setores especializados
 

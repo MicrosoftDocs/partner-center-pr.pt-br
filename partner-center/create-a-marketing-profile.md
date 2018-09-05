@@ -4,11 +4,13 @@ description: Crie um perfil de negócios no Partner Center para obter as oportun
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
 keywords: pinpoint, indicações, oportunidades de venda, C2PC, perfil de negócios, comercializar sua empresa, localizar um parceiro, localizar um provedor de soluções, perfil de negócios, perfil de marketing
-ms.openlocfilehash: 847b535429620d96b7fffc843904c03190928449
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 1a53d9b1dd663b63193295068e6692645247cf0e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877621"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -16,7 +18,7 @@ FWLink2: https://go.microsoft.com/fwlink/?linkid=848635: Top of page (duplicate)
 FWLink3: https://go.microsoft.com/fwlink/?linkid=847631: #allow_us_to_endorse_areas_of_expertise
 FWLink4: https://go.microsoft.com/fwlink/?linkid=848063: #customer-preferences
 FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
- -->
+-->
 
 
 # <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>Criar um perfil de negócios para obter oportunidades de vendas da Microsoft
@@ -58,7 +60,7 @@ Apresente sua empresa, adicionando um logotipo e uma breve descrição e um link
 
 O logotipo pode ser um arquivo GIF, JPG ou PNG, com uma largura máxima de 300 pixels. Recomendamos usar as taxas de proporção quadradas ou longas. Proporções de aspecto alto não são recomendadas.
 
-Sua descrição pode ter até 1000 caracteres. Dicas para uma ótima descrição: 
+Sua descrição pode ter até 2500 caracteres. Dicas para uma ótima descrição: 
 
 *  **Ser breve**, liderar com o que é importante para a primeira ou segunda sentença. Isso deve ser o título que captura a atenção dos clientes. Na experiência Localizar um parceiro de pesquisa, mostramos a primeira ou segunda linha na visualização de resultados da pesquisa.
 *  **Concentre-se em experiências da sua empresa com ofertas específicas da Microsoft**. Os clientes procurando indicações geralmente procuram por parceiros com experiência específica da Microsoft.

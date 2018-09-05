@@ -4,11 +4,13 @@ description: Como um revendedor indireto no CSP, você trabalha com provedores i
 ms.prod: ''
 author: MaggiePucciEvans
 keywords: revendedores indiretos, revendedores, provedores indiretos, provedores, parceria, VAR, camada2, camada 2
-ms.openlocfilehash: ff694f4cdb1b232812618f8b78ffc24238f0947e
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2f148d04b9e65624332bba8a2e687209856aa676
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877206"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Fazer parceria com provedores indiretos no programa Provedor de Soluções na Nuvem
 

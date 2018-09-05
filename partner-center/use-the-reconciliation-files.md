@@ -3,11 +3,13 @@ title: Usar os arquivos de reconciliação | Partner Center
 description: Para obter uma exibição detalhada em itens de linha de cada encargo em um ciclo de cobrança, baixe os arquivos de reconciliação do painel do Partner Center.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 892138374f5730bdc10bdf07f75d0a8e3ef56bea
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f4135bfeb4bf4245f7fc78a4d95946d094390a2a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877546"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar os arquivos de reconciliação
 
@@ -516,8 +518,8 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 </td>
 </tr>
 <tr>
-<td rowspan="8">
-<p><strong>Encargos recorrentes</strong></p>
+<td rowspan="10">
+<p><strong>Encargos baseadas em licença</strong></p>
 </td>
 <td>
 <p>Taxa de ativação</p>
@@ -525,7 +527,7 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 <td>
 <p>O valor cobrado do cliente quando ele usa a assinatura depois de comprá-la.</p>
 </td>
-<td rowspan="8">
+<td rowspan="10">
 <p>No arquivo baseado em licença, some a coluna <strong>Quantidade</strong></p>
 </td>
 </tr>
@@ -586,6 +588,7 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 </td>
 </tr>
 <tr>
+
 <td>
 <p>Taxa de renovação</p>
 </td>
@@ -595,16 +598,10 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 </tr>
 <tr>
 <td>
-<p><strong>Outros produtos e serviços</strong></p>
-</td>
-<td>
 <p>Taxas proporcionais ao ativar</p>
 </td>
 <td>
 <p>Taxas proporcionais da ativação até o final do período de cobrança</p>
-</td>
-<td>
-<p>No arquivo baseado em licença, some a coluna <strong>Quantidade</strong></p>
 </td>
 </tr>
 <tr>
@@ -631,7 +628,7 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 </tr>
 <tr>
 <td>
-<p><strong>Créditos &amp; Ajustes</strong></p>
+<p><strong>Créditos</strong></p>
 </td>
 <td>
 <p>Deslocando um item de linha</p>
@@ -644,12 +641,9 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 <p>No arquivo baseado em uso, some a coluna <strong>PostTaxTotal</strong></p>
 </td>
 </tr>
-
-
 <tr>
 <td rowspan="4">
-<p><strong>Outros descontos</strong></br>
-<em>(com base em uso)</em></p>
+<p><strong>Descontos baseados em uso</strong></p>
 </td>
 <td>
 <p>Desconto de ativação</p>
@@ -657,6 +651,7 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 <td>
 <p>Desconto aplicado quando a assinatura é ativada</p>
 </td>
+
 <td rowspan="4">
 <p>No arquivo baseado em uso, some a coluna <strong>PretaxCharges</strong></p>
 </td>
@@ -668,14 +663,16 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 <td>
 <p>Desconto aplicado em cobranças periódicas</p>
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td>
 <p>Desconto de renovação</p>
 </td>
 <td>
 <p>Desconto aplicado quando a assinatura é renovada</p>
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td>
 <p>Desconto de cancelamento</p>
 </td>
@@ -683,16 +680,17 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 <p>Encargos aplicados quando descontos são cancelados</p>
 </td>
 </tr>
+
+
 <tr>
 <td>
-<p><strong>Outros descontos</strong></br>
-<em>(com base em licença)</em></p>
+<p><strong>Descontos baseados em licença</strong></p>
 </td>
 <td>
 <p><em>Podem ser aplicados a vários tipos de cobrança</em></p>
 </td>
 <td>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td>
 <p>No arquivo baseado em licença, some a coluna <strong>TotalOtherDiscount</strong></p>
@@ -704,7 +702,7 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 </td>
 <td>
 <p><em>Podem ser aplicados a vários tipos de cobrança</em></p>
-<p><em>Exceção: "Deslocamento de um item de linha" já inclui impostos. Consulte Créditos &amp;Ajustes, acima.</em></p>
+<p><em>Exceção: "Deslocamento de um item de linha" já inclui impostos. Consulte créditos, acima.</em></p>
 </td>
 <td>
 <p>Impostos ou impostos sobre valor agregado (IVA)</p>
