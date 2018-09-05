@@ -1,46 +1,48 @@
 ---
-title: "Os relatórios de dados dinâmicos substituem a emissão de relatórios mensais para alguns programas de incentivos | Partner Center"
-description: "Os programas de incentivos OSA Sell e Online Services Usage agora podem obter relatórios de dados dinâmicos."
+title: Os relatórios de dados dinâmicos substituem a emissão de relatórios mensais para alguns programas de incentivos | Partner Center
+description: Os programas de incentivos OSA Sell e Online Services Usage agora podem obter relatórios de dados dinâmicos.
 author: labrenne
-ms.openlocfilehash: 76ba6c508c7f4f7cde0737828258c1964ee6784e
-ms.sourcegitcommit: 2c948321945d0e61153f7d766a1a669782df4a54
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 1ae842761eb1de3c0c75c951033e128691e5029a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/24/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877126"
 ---
-# <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a><span data-ttu-id="7a47f-103">Os relatórios de dados dinâmicos substituem a emissão de relatórios mensais para alguns programas de incentivos</span><span class="sxs-lookup"><span data-stu-id="7a47f-103">Live data reporting replaces monthly reporting for some incentives programs</span></span>
+# <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a><span data-ttu-id="c7ab9-103">Os relatórios de dados dinâmicos substituem a emissão de relatórios mensais para alguns programas de incentivos</span><span class="sxs-lookup"><span data-stu-id="c7ab9-103">Live data reporting replaces monthly reporting for some incentives programs</span></span>
 
-**<span data-ttu-id="7a47f-104">Aplicável ao</span><span class="sxs-lookup"><span data-stu-id="7a47f-104">Applies to</span></span>**
+**<span data-ttu-id="c7ab9-104">Aplicável ao</span><span class="sxs-lookup"><span data-stu-id="c7ab9-104">Applies to</span></span>**
 
--  <span data-ttu-id="7a47f-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="7a47f-105">Partner Center</span></span>
+-  <span data-ttu-id="c7ab9-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="c7ab9-105">Partner Center</span></span>
 
-<span data-ttu-id="7a47f-106">A Microsoft retirou o site Partner Incentive Reporting and Analytics (PIRA) e não publica mais os relatórios de detalhes do programa no PIRA.</span><span class="sxs-lookup"><span data-stu-id="7a47f-106">Microsoft has retired the Partner Incentive Reporting and Analytics (PIRA) site, and no longer publishes the Program Detail Reports to PIRA.</span></span> <span data-ttu-id="7a47f-107">O PIRA foi substituído por um novo portal de relatórios dentro do Partner Incentives Experience (PIE), que oferece um modelo de reconciliação sob demanda de autoatendimento, bem como opções de relatório personalizado.</span><span class="sxs-lookup"><span data-stu-id="7a47f-107">PIRA has been replaced by a new reporting portal within Partner Incentives Experience (PIE) that offers an on-demand, self-serve reconciliation model as well as bespoke reporting options.</span></span> 
+<span data-ttu-id="c7ab9-106">A Microsoft retirou o site Partner Incentive Reporting and Analytics (PIRA) e não publica mais os relatórios de detalhes do programa no PIRA.</span><span class="sxs-lookup"><span data-stu-id="c7ab9-106">Microsoft has retired the Partner Incentive Reporting and Analytics (PIRA) site, and no longer publishes the Program Detail Reports to PIRA.</span></span> <span data-ttu-id="c7ab9-107">O PIRA foi substituído por um novo portal de relatórios dentro do Partner Incentives Experience (PIE), que oferece um modelo de reconciliação sob demanda de autoatendimento, bem como opções de relatório personalizado.</span><span class="sxs-lookup"><span data-stu-id="c7ab9-107">PIRA has been replaced by a new reporting portal within Partner Incentives Experience (PIE) that offers an on-demand, self-serve reconciliation model as well as bespoke reporting options.</span></span> 
 
-<span data-ttu-id="7a47f-108">Atualmente, isso afeta os programas de incentivo OSA Sell e Online Services Usage.</span><span class="sxs-lookup"><span data-stu-id="7a47f-108">Currently, this affects the OSA Sell and Online Services Usage incentives programs.</span></span>
+<span data-ttu-id="c7ab9-108">Atualmente, isso afeta os programas de incentivo OSA Sell e Online Services Usage.</span><span class="sxs-lookup"><span data-stu-id="c7ab9-108">Currently, this affects the OSA Sell and Online Services Usage incentives programs.</span></span>
 
-## <a name="things-to-remember"></a><span data-ttu-id="7a47f-109">Itens a serem lembrados:</span><span class="sxs-lookup"><span data-stu-id="7a47f-109">Things to remember:</span></span> 
+## <a name="things-to-remember"></a><span data-ttu-id="c7ab9-109">Itens a serem lembrados:</span><span class="sxs-lookup"><span data-stu-id="c7ab9-109">Things to remember:</span></span> 
 
-- <span data-ttu-id="7a47f-110">Ajuste, ganhos e dados de pagamento podem ser reconciliados exportando-se para Excel pelo uso de uma nova funcionalidade no PIE.</span><span class="sxs-lookup"><span data-stu-id="7a47f-110">Adjustment, earning, and payment data can be reconciled by exporting to Excel using the new functionality on PIE.</span></span>
+- <span data-ttu-id="c7ab9-110">Ajuste, ganhos e dados de pagamento podem ser reconciliados exportando-se para Excel pelo uso de uma nova funcionalidade no PIE.</span><span class="sxs-lookup"><span data-stu-id="c7ab9-110">Adjustment, earning, and payment data can be reconciled by exporting to Excel using the new functionality on PIE.</span></span>
 
-- <span data-ttu-id="7a47f-111">Todos os demonstrativos anteriormente disponíveis no PIRA serão arquivados no modo de exibição de demonstrativos no novo site.</span><span class="sxs-lookup"><span data-stu-id="7a47f-111">All statements previously available on PIRA will be archived under the Statements view on the new site.</span></span> 
+- <span data-ttu-id="c7ab9-111">Todos os demonstrativos anteriormente disponíveis no PIRA serão arquivados no modo de exibição de demonstrativos no novo site.</span><span class="sxs-lookup"><span data-stu-id="c7ab9-111">All statements previously available on PIRA will be archived under the Statements view on the new site.</span></span> 
 
-- <span data-ttu-id="7a47f-112">Dados dinâmicos que podem ser exportados para o Excel substituíram os demonstrativos mensais do programa.</span><span class="sxs-lookup"><span data-stu-id="7a47f-112">Live data that can be exported to Excel has replaced the monthly program statements.</span></span>
+- <span data-ttu-id="c7ab9-112">Dados dinâmicos que podem ser exportados para o Excel substituíram os demonstrativos mensais do programa.</span><span class="sxs-lookup"><span data-stu-id="c7ab9-112">Live data that can be exported to Excel has replaced the monthly program statements.</span></span>
 
-- <span data-ttu-id="7a47f-113">A página de demonstrativos do PIRA não mostrará dados além de março de 2017.</span><span class="sxs-lookup"><span data-stu-id="7a47f-113">The PIRA Statements page will not show data beyond March, 2017.</span></span>
+- <span data-ttu-id="c7ab9-113">A página de demonstrativos do PIRA não mostrará dados além de março de 2017.</span><span class="sxs-lookup"><span data-stu-id="c7ab9-113">The PIRA Statements page will not show data beyond March, 2017.</span></span>
  
-## <a name="start-using-the-new-reporting-functionality"></a><span data-ttu-id="7a47f-114">Comece a usar a nova funcionalidade de relatório:</span><span class="sxs-lookup"><span data-stu-id="7a47f-114">Start using the new reporting functionality:</span></span> 
+## <a name="start-using-the-new-reporting-functionality"></a><span data-ttu-id="c7ab9-114">Comece a usar a nova funcionalidade de relatório:</span><span class="sxs-lookup"><span data-stu-id="c7ab9-114">Start using the new reporting functionality:</span></span> 
 
-1. <span data-ttu-id="7a47f-115">Baixe e revise os ativos de preparação no MPN [Relatórios de incentivos de parceiro na experiência de incentivos do parceiro](http://aka.ms/osareadiness ).</span><span class="sxs-lookup"><span data-stu-id="7a47f-115">Download and review the readiness assets on MPN [Partner Incentives Reporting on Partner Incentives Experience](http://aka.ms/osareadiness ).</span></span>
+1. <span data-ttu-id="c7ab9-115">Baixe e revise os ativos de preparação no MPN [Relatórios de incentivos de parceiro na experiência de incentivos do parceiro](http://aka.ms/osareadiness ).</span><span class="sxs-lookup"><span data-stu-id="c7ab9-115">Download and review the readiness assets on MPN [Partner Incentives Reporting on Partner Incentives Experience](http://aka.ms/osareadiness ).</span></span>
 
-2. <span data-ttu-id="7a47f-116">Acesse [PIE](https://partnerincentives.microsoft.com/)</span><span class="sxs-lookup"><span data-stu-id="7a47f-116">Go to [PIE](https://partnerincentives.microsoft.com/)</span></span>
+2. <span data-ttu-id="c7ab9-116">Acesse [PIE](https://partnerincentives.microsoft.com/)</span><span class="sxs-lookup"><span data-stu-id="c7ab9-116">Go to [PIE](https://partnerincentives.microsoft.com/)</span></span>
 
-3. <span data-ttu-id="7a47f-117">Faça login no PIE usando sua conta da Microsoft (anteriormente LiveID) associada ao seu Microsoft Partner Network ID (MPN ID) dentro do Partner Membership Center.</span><span class="sxs-lookup"><span data-stu-id="7a47f-117">Log in to PIE using your Microsoft account (previously LiveID) associated to your Microsoft Partner Network ID (MPN ID) within Partner Membership Center.</span></span> <span data-ttu-id="7a47f-118">Selecione **Conta pessoal**, se solicitado a escolher entre **Conta corporativa** e **Conta pessoal**.</span><span class="sxs-lookup"><span data-stu-id="7a47f-118">Select **Personal Account** if asked to choose between **Work Account** and **Personal Account**.</span></span>
+3. <span data-ttu-id="c7ab9-117">Faça login no PIE usando sua conta da Microsoft (anteriormente LiveID) associada ao seu Microsoft Partner Network ID (MPN ID) dentro do Partner Membership Center.</span><span class="sxs-lookup"><span data-stu-id="c7ab9-117">Log in to PIE using your Microsoft account (previously LiveID) associated to your Microsoft Partner Network ID (MPN ID) within Partner Membership Center.</span></span> <span data-ttu-id="c7ab9-118">Selecione **Conta pessoal**, se solicitado a escolher entre **Conta corporativa** e **Conta pessoal**.</span><span class="sxs-lookup"><span data-stu-id="c7ab9-118">Select **Personal Account** if asked to choose between **Work Account** and **Personal Account**.</span></span>
 
-4. <span data-ttu-id="7a47f-119">Clique em **Relatórios** e, em seguida, clique em **Programas**.</span><span class="sxs-lookup"><span data-stu-id="7a47f-119">Click on **Reporting** and then click on **Programs**.</span></span> 
+4. <span data-ttu-id="c7ab9-119">Clique em **Relatórios** e, em seguida, clique em **Programas**.</span><span class="sxs-lookup"><span data-stu-id="c7ab9-119">Click on **Reporting** and then click on **Programs**.</span></span> 
 
-5. <span data-ttu-id="7a47f-120">Selecione o programa de incentivos do qual você deseja os relatórios.</span><span class="sxs-lookup"><span data-stu-id="7a47f-120">Select the incentive program you want reports on.</span></span> 
+5. <span data-ttu-id="c7ab9-120">Selecione o programa de incentivos do qual você deseja os relatórios.</span><span class="sxs-lookup"><span data-stu-id="c7ab9-120">Select the incentive program you want reports on.</span></span> 
 
-6. <span data-ttu-id="7a47f-121">**Ajustes**, o modo de exibição padrão, talvez não tenha dados.</span><span class="sxs-lookup"><span data-stu-id="7a47f-121">**Adjustments**, the default view, may not have data.</span></span>  <span data-ttu-id="7a47f-122">Nesse caso, selecione a visualização **Lucros** ou **Pagamentos**.</span><span class="sxs-lookup"><span data-stu-id="7a47f-122">In that case, select the **Earnings** or **Payments** view.</span></span>
+6. <span data-ttu-id="c7ab9-121">**Ajustes**, o modo de exibição padrão, talvez não tenha dados.</span><span class="sxs-lookup"><span data-stu-id="c7ab9-121">**Adjustments**, the default view, may not have data.</span></span>  <span data-ttu-id="c7ab9-122">Nesse caso, selecione a visualização **Lucros** ou **Pagamentos**.</span><span class="sxs-lookup"><span data-stu-id="c7ab9-122">In that case, select the **Earnings** or **Payments** view.</span></span>
 
 
  

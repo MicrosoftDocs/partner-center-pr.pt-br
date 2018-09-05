@@ -1,52 +1,49 @@
 ---
-title: Suporte ao cliente | Partner Center
-description: "Você é o primeiro ponto de contato para seus clientes e deve fornecer serviços de suporte técnico e de conta aos clientes como: suporte a assinatura e cobrança; ajuda do provisionamento/implantação e configuração de software; resolução de problemas de desempenho, problemas de disponibilidade de serviço, problemas de conectividade do cliente e problemas da área de trabalho do cliente devido a configurações ausentes ou incorretamente feitas, integração com o software incompleta, problemas de permissões ou outros problemas de implantação; gerenciamento de atualizações de software e serviços; respostas para questões de uso. Os Provedores de Soluções na Nuvem devem fornecer uma descrição clara para os clientes sobre como eles receberão suporte. Se você não fornecer suporte telefônico 24 horas, deverá fornecer um contrato de nível de serviço para explicar as opções para seus clientes. A Microsoft não oferece suporte aos clientes CSP."
+title: Fornecer suporte a seus clientes | Partner Center
+description: Os parceiros são necessários para receber solicitações de suporte de clientes, diagnosticar problemas da melhor forma de capacidade do parceiro e, em seguida, resolver problemas que estão no escopo dos limites de suporte de linha de base.
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
-ms.openlocfilehash: ee8ccd7ab7222eedcc3455b91c522f0005f60b9e
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 62a3a469180b084123f409e97f093056d36bfdd9
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877266"
 ---
-# <a name="customer-support"></a><span data-ttu-id="5e4b2-105">Atendimento ao cliente</span><span class="sxs-lookup"><span data-stu-id="5e4b2-105">Customer support</span></span>
+# <a name="providing-support-to-your-customers"></a><span data-ttu-id="408ca-103">Fornecer suporte a seus clientes</span><span class="sxs-lookup"><span data-stu-id="408ca-103">Providing support to your customers</span></span>
 
-**<span data-ttu-id="5e4b2-106">Aplicável a</span><span class="sxs-lookup"><span data-stu-id="5e4b2-106">Applies to</span></span>**
+**<span data-ttu-id="408ca-104">Aplica-se a</span><span class="sxs-lookup"><span data-stu-id="408ca-104">Applies to</span></span>**
 
--  <span data-ttu-id="5e4b2-107">Partner Center</span><span class="sxs-lookup"><span data-stu-id="5e4b2-107">Partner Center</span></span>
--  <span data-ttu-id="5e4b2-108">Partner Center for Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="5e4b2-108">Partner Center for Microsoft Cloud for US Government</span></span>
--  <span data-ttu-id="5e4b2-109">Partner Center for Microsoft Cloud Germany</span><span class="sxs-lookup"><span data-stu-id="5e4b2-109">Partner Center for Microsoft Cloud Germany</span></span>
+-  <span data-ttu-id="408ca-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="408ca-105">Partner Center</span></span>
+-  <span data-ttu-id="408ca-106">Partner Center for Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="408ca-106">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="408ca-107">Partner Center for Microsoft Cloud Germany</span><span class="sxs-lookup"><span data-stu-id="408ca-107">Partner Center for Microsoft Cloud Germany</span></span>
 
-<span data-ttu-id="5e4b2-110">Você é o primeiro ponto de contato para seus clientes e deve fornecer serviços de suporte técnico e de conta aos clientes como:</span><span class="sxs-lookup"><span data-stu-id="5e4b2-110">You are the first point of contact for your customers, and you are expected to provide technical and account support services such as the following to your customers:</span></span>
+## <a name="microsoft-partner-support-guidance"></a><span data-ttu-id="408ca-108">Diretrizes de suporte do Microsoft partner</span><span class="sxs-lookup"><span data-stu-id="408ca-108">Microsoft partner support guidance</span></span>
 
--   <span data-ttu-id="5e4b2-111">Suporte a assinatura e cobrança</span><span class="sxs-lookup"><span data-stu-id="5e4b2-111">Billing and subscription support</span></span>
+<span data-ttu-id="408ca-109">Os parceiros transações no modelo CSP são o consultor confiável para seus clientes e possuem a relação-a ponta, incluindo suporte quando o cliente tiver uma pergunta ou problema.</span><span class="sxs-lookup"><span data-stu-id="408ca-109">Partners transacting in the CSP model are the trusted advisor to their customers and own the relationship end-to-end, including support when their customer has a question or issue.</span></span> <span data-ttu-id="408ca-110">Por meio do suporte a toque parceiros de pontos podem saber mais sobre o cliente e seus negócios, identificar novos serviços e soluções que orientam o valor.</span><span class="sxs-lookup"><span data-stu-id="408ca-110">Through support touch points partners can learn more about the customer, and their business, to identify new services and solutions that drive value.</span></span>
 
--   <span data-ttu-id="5e4b2-112">Ajuda do provisionamento/implantação e configuração de software</span><span class="sxs-lookup"><span data-stu-id="5e4b2-112">Provisioning/deployment help, and software configuration</span></span>
+<span data-ttu-id="408ca-111">Para atender ao requisito de suporte, o parceiro pode revender suporte de outra entidade, eles podem terceirizar todos ou parte de sua estrutura de suporte e/ou eles podem configurar uma estrutura para oferecer suporte diretamente.</span><span class="sxs-lookup"><span data-stu-id="408ca-111">To fulfill the support requirement, the partner may resell support from another entity, they may outsource all or part of their support structure and/or they may set up a structure to provide support directly.</span></span>  <span data-ttu-id="408ca-112">O parceiro pode cobrar ou parte do suporte fornecido para os clientes.</span><span class="sxs-lookup"><span data-stu-id="408ca-112">The partner may charge for all or part of the support provided to customers.</span></span> <span data-ttu-id="408ca-113">O parceiro deve expor para seus clientes o suporte a eles fornecem, as horas de serviço e entre em contato com o método, bem como os preços (se o carregamento de suporte).</span><span class="sxs-lookup"><span data-stu-id="408ca-113">The partner should articulate to their customers the support they will provide, the service hours and contact method, as well as the pricing (if charging for support).</span></span> 
 
--   <span data-ttu-id="5e4b2-113">Resolução de problemas de desempenho, problemas de disponibilidade de serviço, problemas de conectividade do cliente e problemas da área de trabalho do cliente devido a configurações ausentes ou incorretamente feitas, integração com o software incompleta, problemas de permissões ou outros problemas de implantação.</span><span class="sxs-lookup"><span data-stu-id="5e4b2-113">Resolving performance issues, service availability issues, client connectivity problems, and client desktop problems due to missing or mis-configured settings, incomplete software integration, permissions problems, or other deployment issues.</span></span>
+<span data-ttu-id="408ca-114">Os parceiros são necessários para receber solicitações de suporte de clientes, diagnosticar problemas da melhor forma de capacidade do parceiro e, em seguida, resolver problemas que estão no escopo dos limites de suporte de linha de base.</span><span class="sxs-lookup"><span data-stu-id="408ca-114">Partners are required to receive incoming support requests from customers, diagnose issues to the best of the partner’s ability and then resolve issues that are within scope of the baseline support boundaries.</span></span> <span data-ttu-id="408ca-115">Se o parceiro for incapaz de resolver um problema, eles podem encaminhar problemas à Microsoft por meio de veículos suporte a seguir:</span><span class="sxs-lookup"><span data-stu-id="408ca-115">If the partner is unable to resolve an issue, they can escalate issues to Microsoft via the following support vehicles:</span></span>
 
--   <span data-ttu-id="5e4b2-114">Gerenciamento de atualizações de software e serviços</span><span class="sxs-lookup"><span data-stu-id="5e4b2-114">Managing updates for services and software</span></span>
+- <span data-ttu-id="408ca-116">Suporte **comercial** do problema está disponível para todos os parceiros no programa CSP</span><span class="sxs-lookup"><span data-stu-id="408ca-116">**Commercial** issue support is available to all partners in the CSP program</span></span>
+-   <span data-ttu-id="408ca-117">Suporte **técnico** do problema está disponível por meio de:</span><span class="sxs-lookup"><span data-stu-id="408ca-117">**Technical** issue support is available through:</span></span>
+    -   <span data-ttu-id="408ca-118">Suporte Premier para parceiros (taxa de base)</span><span class="sxs-lookup"><span data-stu-id="408ca-118">Premier Support for Partners (fee base)</span></span>
+    -   <span data-ttu-id="408ca-119">Suporte avançado para parceiros (taxa de base)</span><span class="sxs-lookup"><span data-stu-id="408ca-119">Advanced Support for Partners (fee base)</span></span>
+    -   <span data-ttu-id="408ca-120">Suporte à nuvem de assinatura (incluído com competência ouro/prata)</span><span class="sxs-lookup"><span data-stu-id="408ca-120">Signature Cloud Support (included with Gold/Silver competency)</span></span>
 
--   <span data-ttu-id="5e4b2-115">Respostas para questões de uso</span><span class="sxs-lookup"><span data-stu-id="5e4b2-115">Answers to usage questions</span></span>
+## <a name="providing-billing-subscription-management-and-technical-support"></a><span data-ttu-id="408ca-121">Fornecer suporte técnico, gerenciamento de assinatura e cobrança</span><span class="sxs-lookup"><span data-stu-id="408ca-121">Providing billing, subscription management, and technical support</span></span> 
 
-<span data-ttu-id="5e4b2-116">O Provedor de Soluções na Nuvem deve fornecer uma descrição clara para os clientes sobre como eles receberão suporte.</span><span class="sxs-lookup"><span data-stu-id="5e4b2-116">Cloud Solution Providers must provide a clear description to customers of how they will receive support.</span></span> <span data-ttu-id="5e4b2-117">Se você não fornecer suporte telefônico 24 horas, deverá fornecer um contrato de nível de serviço para explicar as opções para seus clientes.</span><span class="sxs-lookup"><span data-stu-id="5e4b2-117">If you do not provide round-the-clock phone support, you must provide a service level agreement to explain the options to your customers.</span></span> <span data-ttu-id="5e4b2-118">A Microsoft não oferece suporte aos clientes CSP.</span><span class="sxs-lookup"><span data-stu-id="5e4b2-118">Microsoft does not provide support to CSP customers.</span></span>
+<span data-ttu-id="408ca-122">Cada serviço online tem requisitos específicos e detalhados por fornecer suporte técnico, gerenciamento de assinatura e cobrança aos clientes.</span><span class="sxs-lookup"><span data-stu-id="408ca-122">Each online service has specific and detailed requirements for providing billing, subscription management, and technical support to customers.</span></span> <span data-ttu-id="408ca-123">Consulte os documentos a seguir para obter mais informações.</span><span class="sxs-lookup"><span data-stu-id="408ca-123">Refer to the following documents for more information.</span></span>
 
-## <span data-ttu-id="5e4b2-119"><a href="" id="supportingtrainingcustomers"></a>Suporte e treinamento para clientes</span><span class="sxs-lookup"><span data-stu-id="5e4b2-119"><a href="" id="supportingtrainingcustomers"></a>Supporting and training your customers</span></span>
+-   [<span data-ttu-id="408ca-124">Assinaturas do Dynamics 365 vendido por meio do CSP</span><span class="sxs-lookup"><span data-stu-id="408ca-124">Dynamics 365 subscriptions sold through CSP</span></span>](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+
+-   [<span data-ttu-id="408ca-125">Assinaturas do Azure vendidas por meio do CSP</span><span class="sxs-lookup"><span data-stu-id="408ca-125">Azure subscriptions sold through CSP</span></span>](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+
+-   [<span data-ttu-id="408ca-126">Assinaturas do Office 365 vendido por meio do CSP</span><span class="sxs-lookup"><span data-stu-id="408ca-126">Office 365 subscriptions sold through CSP</span></span>](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
 
 
-<span data-ttu-id="5e4b2-120">Se forem apresentados muitos pedidos de Ajuda e Perguntas de instrução, os números de adoção em sua conta estiverem baixos ou você estiver procurando por oportunidades de vendas, convém considerar a oferta de cursos de treinamento.</span><span class="sxs-lookup"><span data-stu-id="5e4b2-120">If you are fielding a lot of Help and How-to questions, the adoption numbers on your account are low, or you’re looking for upsell opportunities, you may want to consider training courses.</span></span> <span data-ttu-id="5e4b2-121">Ensinar seus clientes como usar melhor o software de solução na nuvem que compraram permitirá que você veja um aumento na produtividade e na satisfação do cliente, e uma redução nas necessidades de suporte.</span><span class="sxs-lookup"><span data-stu-id="5e4b2-121">By teaching your customers how to better use the cloud solution software they have purchased, you’re more likely to see an increase in productivity and satisfaction, and a decrease in support needs.</span></span> <span data-ttu-id="5e4b2-122">Para obter sugestões e dicas, consulte [Aumentar a adoção e a satisfação](increasing-adoption-and-satisfaction.md).</span><span class="sxs-lookup"><span data-stu-id="5e4b2-122">For suggestions and tips, see [Increase adoption and satisfaction](increasing-adoption-and-satisfaction.md).</span></span>
-
-## <a name="customer-support"></a><span data-ttu-id="5e4b2-123">Atendimento ao cliente</span><span class="sxs-lookup"><span data-stu-id="5e4b2-123">Customer support</span></span>
-
-
-[<span data-ttu-id="5e4b2-124">Fornecer suporte para a cobrança</span><span class="sxs-lookup"><span data-stu-id="5e4b2-124">Provide billing support</span></span>](provide-billing-support.md)
-
-[<span data-ttu-id="5e4b2-125">Fornecer suporte técnico</span><span class="sxs-lookup"><span data-stu-id="5e4b2-125">Provide technical support</span></span>](provide-technical-support.md)
-
-[<span data-ttu-id="5e4b2-126">Comunicação com o cliente da Microsoft</span><span class="sxs-lookup"><span data-stu-id="5e4b2-126">Customer communication from Microsoft</span></span>](customer-communication-from-microsoft.md)
-
-[<span data-ttu-id="5e4b2-127">Suporte autônomo do cliente</span><span class="sxs-lookup"><span data-stu-id="5e4b2-127">Customer self-support</span></span>](customer-self-support.md)
-
-[<span data-ttu-id="5e4b2-128">Encaminhar problemas para a Microsoft</span><span class="sxs-lookup"><span data-stu-id="5e4b2-128">Escalate problems to Microsoft</span></span>](escalate-problems-to-microsoft.md)
 
  
 
