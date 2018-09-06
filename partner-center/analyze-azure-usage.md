@@ -6,15 +6,14 @@ ms.author: mhopkins
 ms.date: 07/12/2018
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
 ms.topic: article
-ms.prod: partner-center
 keywords: dados de negócios
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f0d9b7cb58e5375e4ab4ae3a7a05c7114ad7b3c
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 08ff3c7b4e00c46365713df4ea927ba716a41c0e
+ms.sourcegitcommit: 6ad681d132ab60bf09cd01eba385a9fad7563fa7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875496"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "3405408"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Obter dados sobre o uso de assinaturas do Azure dos seus clientes 
 

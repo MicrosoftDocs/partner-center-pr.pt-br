@@ -6,15 +6,14 @@ ms.author: mhopkins
 ms.date: 07/12/2018
 ms.assetid: 1922FCE8-3A89-44ED-B4E1-BFCD2326BB06
 ms.topic: article
-ms.prod: partner-center
 keywords: dados de negócios
 ms.localizationpriority: medium
-ms.openlocfilehash: 9955c9b6353cfde1cefa12dcaf80a05b7597f8ef
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 73672f7ab037b8d7c3674c2f8ef72700ae6462b5
+ms.sourcegitcommit: 6ad681d132ab60bf09cd01eba385a9fad7563fa7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877466"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "3405418"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>Analisar as assinaturas e licenças 
 

@@ -5,12 +5,12 @@ ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
 ms.localizationpriority: medium
-ms.openlocfilehash: a3c5735a61a867c06268bb2257f3295d49bbe83f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 402920613cb5b45608f9099d250d79809a8d9f5a
+ms.sourcegitcommit: 6ad681d132ab60bf09cd01eba385a9fad7563fa7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874566"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "3405428"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Criar contas de usuário e atribuir permissões
 
@@ -61,6 +61,12 @@ Dentro de cada uma dessas categorias gerais, um usuário pode ter apenas uma fun
 
 >[!Important]
 >Os usuários devem ter atribuída pelo menos uma função para trabalhar no Painel de Parceiros.
+
+
+### <a name="find-your-global-admin"></a>Encontre o administrador global
+
+Às vezes, um usuário pode precisar ter sua função alterada ou um novo usuário pode querer uma atribuição de função específica.  
+Para encontrar um administrador global que pode fazer alterações de função ou atribuir funções a um novo usuário, do **ícone de configurações** na parte superior direita do painel, selecione o **gerenciamento de usuários** e filtro de administrador global. 
 
 Para obter informações específicas sobre as funções e que cada função pode fazer, consulte [atribuir permissões de usuário](permissions-overview.md).
 
