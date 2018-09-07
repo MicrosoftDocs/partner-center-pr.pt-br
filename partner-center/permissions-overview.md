@@ -4,12 +4,12 @@ description: Uma função devem ser atribuído a todos os funcionários que prec
 author: labrenne
 keywords: funções, permissões, administrador, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e6e32b5e65d2d1dc52a5703fc405a14f9d5bc3e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 990d795a6a8b47b061f1853b67243ce21046205b
+ms.sourcegitcommit: 10d2df6a02cfe616e8184632b0676d5fe170ef22
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875986"
+ms.lasthandoff: 09/07/2018
+ms.locfileid: "3630607"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Atribuir permissões e funções de usuários
 
@@ -62,6 +62,7 @@ A tabela a seguir explica o que cada função pode fazer no Painel de Parceiros.
 <td><ul>
 <li><p>Exibir, criar e gerenciar usuários</p></li>
 <li><p>Exibir todos os perfis de parceiros</p></li>
+<li><p>Exibir, criar e gerenciar usuários de parceiros</p></li>
 </ul></td>
 </tr>
 <tr class="even">
