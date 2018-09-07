@@ -1,0 +1,38 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.md"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "partner-china/**",
+          "**/includes/**"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.jpg",
+		  "**/*.pdf"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "partner-china/**",
+          "**/includes/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "uhfHeaderId": "MSDocsHeader-PartnerChina"
+      },
+    "fileMetadata": {},
+    "template": [],
+    "dest": "partner-china"
+  }
+}
