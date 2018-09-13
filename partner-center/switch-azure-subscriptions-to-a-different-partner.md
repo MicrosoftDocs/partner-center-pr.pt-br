@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: assinatura do Azure, mudar de parceiro, alterar parceiro, obter novo parceiro, outro parceiro
 ms.localizationpriority: medium
-ms.openlocfilehash: 21737fd9b9633fb2a1c1fb05daba4d43dd50444d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: bfaf3d96760d8520935f3a872a11f14566eb0a52
+ms.sourcegitcommit: c45611276b62105c170ac3f2f3c8030b889c08f1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877556"
+ms.lasthandoff: 09/13/2018
+ms.locfileid: "3966153"
 ---
 # <a name="transfer-azure-subscriptions"></a>Transferir assinaturas do Azure 
 
@@ -20,9 +20,11 @@ ms.locfileid: "2877556"
 
 Um cliente pode decidir mudar para um parceiro do Provedor de Soluções na Nuvem ou um parceiro para obter os serviços do Microsoft Azure. Trata-se, porém, de um processo manual que exige ações do parceiro e do cliente.
 
-**Observação**  Neste momento apenas direta ou provedores indiretos são capazes de transferir assinaturas.
+>[!Note]  
+>Neste momento apenas direta ou provedores indiretos são capazes de transferir assinaturas.
 
-**Observação:** atualmente, não é possível mudar os parceiros para assinaturas de Provedor de Soluções na Nuvem do Office 365, Enterprise Mobility Suite ou Microsoft Dynamics CRM.
+>[!Note] 
+>Não é possível mudar os parceiros para assinaturas de provedor de soluções de nuvem para assinaturas do Office 365, Enterprise Mobility Suite ou Microsoft Dynamics CRM.
 
 
 
@@ -30,7 +32,8 @@ Um cliente pode decidir mudar para um parceiro do Provedor de Soluções na Nuve
 
 1.  Para transferir uma assinatura do Azure para um novo parceiro, o cliente deve iniciar o processo e entrar em contato com seu parceiro atual de registro por escrito. 
 
-    >**Observação**<br> É responsabilidade do parceiro atual criar o tíquete de serviço que inicia o processo de transferência. A Microsoft não pode interferir em nome do cliente ou do novo parceiro. O cliente deve planejar trabalhar em conjunto com o parceiro atual para que a transição ocorra sem problemas.
+    >[!Note]
+    >É responsabilidade do parceiro atual criar o tíquete de serviço que inicia o processo de transferência. A Microsoft não pode interferir em nome do cliente ou do novo parceiro. O cliente deve planejar trabalhar em conjunto com o parceiro atual para que a transição ocorra sem problemas.
 
 2.  O parceiro da assinatura deve executar as seguintes tarefas:
 
@@ -54,7 +57,8 @@ Um cliente pode decidir mudar para um parceiro do Provedor de Soluções na Nuve
 
     -   A ID de assinatura a ser transferida. Na listagem de clientes expandida, selecione **Exibir Assinaturas**, em seguida, expanda a assinatura escolhida para ver a **ID de Assinatura**.
 
-    >**Observação**<br> A transferência de uma assinatura resulta em duas IDs de assinaturas que você verá na página **Editar Assinatura** da assinatura transferida: **1**- A ID da assinatura do Partner Center é usada para fins de cobrança. 
+     >[!Note]
+     >A transferência de uma assinatura resulta em duas IDs de assinaturas que você verá na página **Editar Assinatura** da assinatura transferida: **1**- A ID da assinatura do Partner Center é usada para fins de cobrança. 
     **2**- A ID da assinatura do Azure original será mantida e aparecerá no Partner Center, bem como no Portal de Gerenciamento do Azure. Essa ID aparecerá no arquivo de reconciliação.  **Ao registrar os tíquetes de suporte em log, você precisará usar ambas as IDs.**
 
 4.  O cliente e novo parceiro da assinatura:
@@ -62,6 +66,9 @@ Um cliente pode decidir mudar para um parceiro do Provedor de Soluções na Nuve
     Examine o formulário, preencha as informações sobre o novo parceiro e assine-o. Confirme se o novo cliente tem um contrato em vigor. Envie o formulário de volta para o parceiro de registro atual.
 
     *Importante*: se o novo parceiro CSP não tiver uma relação de revendedor com o cliente, ele deverá estabelecer uma antes para a assinatura que será transferida. [Você pode encontrar informações sobre como fazer isso aqui](request-a-relationship-with-a-customer.md).
+
+    >[!Note]
+    >O novo parceiro CSP e locatário do cliente devem estar na mesma região. 
 
 5.  Parceiro atual:
 
