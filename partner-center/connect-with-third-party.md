@@ -4,12 +4,12 @@ description: Compre software de terceiros que funcione com produtos da Microsoft
 author: labrenne
 keywords: ofertas de terceiros, software para compra
 ms.localizationpriority: medium
-ms.openlocfilehash: 7efeaee27abf7c08574c7ab81fc4303ffda3221f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: d7ab7e1f8886a63c9b97d3b85dfa51d26464dc06
+ms.sourcegitcommit: 535b52aa23e1250a7294f57d17078c77ee54e0cd
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875516"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "4062158"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Adicionar software de terceiros ao seu portfólio
 
@@ -21,7 +21,7 @@ Agora você pode comprar ofertas de software de terceiros no Partner Center, os 
 
 Atualmente, o Partner Center tem ofertas de terceiros que se integram com o Azure, o Office 365 e o Dynamics. 
 
-## <a name="connecting-with-third-party-partners"></a>Conectando-se com parceiros de terceiros
+## <a name="connect-with-third-party-partners"></a>Conectar-se com parceiros de terceiros
  
 Como um parceiro CSP, você poderá pesquisar as ofertas de software de terceiros. Você pode se conectar a parceiros ISV e criar seu catálogo de produtos. Parceiros ISV também podem procurar parceiros CSP com quem trabalhar. Eles podem procurar pelos tipos de produtos da Microsoft que você vende, bem como analisar seu perfil de negócios. É importante que você mantenha seu perfil de negócios atualizado. Para notificar um parceiro ISV do seu interesse pelo produto dele, clique no botão Estou interessado localizado no identificador do produto e preencha o formulário que aparecer. A Microsoft envia a notificação para o parceiro ISV. Sua resposta é mantida no Partner Center. Da mesma forma, quando um parceiro ISV expressar interesse em trabalhar com você, enviaremos uma notificação por meio do Partner Center. Tente responder dentro de 48 horas.
 
