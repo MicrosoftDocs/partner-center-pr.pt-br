@@ -5,20 +5,18 @@ ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
 ms.localizationpriority: medium
-ms.openlocfilehash: ff329480cec68e45c809016da64f6604c9837bb6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 9757b3c4cc03ea26744f995e4931c94952de2a10
+ms.sourcegitcommit: 082795279b2beb9cecee3072cbabe584cfda1b9c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876586"
+ms.lasthandoff: 09/21/2018
+ms.locfileid: "4121111"
 ---
 # <a name="common-billing-scenarios"></a>Cenários comuns de cobrança
 
 **Aplicável a**
 
--  Partner Center
--  Partner Center for Microsoft Cloud for US Government
--  Partner Center do Microsoft Cloud Alemanha
+-   Cobrança de programa de provedor de soluções de nuvem
 
 Este tópico explica o que você deve esperar ver em sua fatura depois de adicionar novas assinaturas, ajustar o número de licenças de uma assinatura ou cancelar uma assinatura. As assinaturas baseadas em uso e em licença são afetadas de forma diferente.
 
@@ -74,7 +72,7 @@ Sua data de cobrança é no 15º dia de cada mês. Em 13 de janeiro, você compr
 Em 1º de fevereiro, você aumentará sua quantidade de licença de uma para duas. Em 15 de fevereiro, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
 |Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço unitário |Quantidade |Valor |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-| 13/01/2018        |12/02/2018    |Proporcional à Instância do Ciclo   |-4,00       |1        |4,00    
+| 13/01/2018        |12/02/2018    |Proporcional à Instância do Ciclo   |-4,00       |1        |-4,00    
 |13/01/2018         |31/01/2018    | Proporcional à Instância do Ciclo   |2,45       |1        |2,45    
 |01/02/2018         |12/02/2018    | Proporcional à Instância do Ciclo   |1,55       |2        |3,10    
 |13/02/2018         |12/03/2018    | Proporcional à Instância do Ciclo   |4,00       |2        |8,00    
@@ -98,10 +96,10 @@ Sua data de cobrança é no 15º dia de cada mês. Em 13 de janeiro, você compr
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/01/2018         |12/02/2018    |Taxa do Ciclo   |4,00       |1        |4,00    
 
-Em 1º de fevereiro, você suspende a assinatura. Em 15 de fevereiro, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
+Em 1º de fevereiro, você suspende uma assinatura. Em 15 de fevereiro, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
 |Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço unitário |Quantidade |Valor |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|12/02/2018|Taxa de cancelamento|-4,00|1|4,00
+13/01/2018|12/02/2018|Taxa de cancelamento|-4,00|1|-4,00
 
 **Cenário 4: Suspender depois de 30 dias**
 
@@ -128,7 +126,7 @@ Preço unitário = dias no termo de serviço x preço diário x número de licen
 
 Há 12 dias no termo de cancelamento de 01/03/2018 a 12/03/2018. 
 
-Portanto, o preço unitário =-1,716 (14 x 0,14 x(-1)).
+Portanto, o preço unitário = -1,716 (12 x 0,143 x (-1)).
 
 ## <a name="annual-billing-scenarios"></a>Cenários de Cobrança Anual
 
