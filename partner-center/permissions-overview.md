@@ -1,15 +1,15 @@
 ---
 title: Atribuir funções de usuários e permissões | Partner Center
-description: Uma função devem ser atribuído a todos os funcionários que precisam trabalhar no painel de parceiros.
+description: Todos os funcionários que precisam trabalhar no painel de parceiros devem ter atribuído uma função.
 author: labrenne
 keywords: funções, permissões, administrador, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: 990d795a6a8b47b061f1853b67243ce21046205b
-ms.sourcegitcommit: 10d2df6a02cfe616e8184632b0676d5fe170ef22
+ms.openlocfilehash: b020c7b57874859d54c2b9c638302ab74a21b93a
+ms.sourcegitcommit: 6de78bec6b51b3b30052dfd0ad3f9fbdec31abae
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/07/2018
-ms.locfileid: "3630607"
+ms.lasthandoff: 09/26/2018
+ms.locfileid: "4227440"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Atribuir permissões e funções de usuários
 
@@ -17,7 +17,7 @@ ms.locfileid: "3630607"
 
 - Painel de Parceiros
 
-Cada função no painel vem com determinadas permissões que permite ao usuário para realizar tarefas específicas. Qualquer pessoa que funciona no painel deve ser atribuída a uma função.
+Cada função no painel vem com determinadas permissões permitindo que um usuário para realizar tarefas específicas. Qualquer pessoa que funciona no painel deve ser atribuída a uma função.
 
 Dependendo do tamanho da sua organização, alguns usuários podem funcionar em todos os locais ou apenas para um local. 
 
@@ -28,6 +28,8 @@ Por exemplo:
 
 
 A tabela a seguir explica o que cada função pode fazer no Painel de Parceiros. Ao pensar sobre a forma como você deseja atribuir funções, considere o trabalho que um usuário faz em sua organização. Você pode, por exemplo, desejar que o administrador global também seja o agente administrativo. A pessoa que lida com seu marketing também pode ser a pessoa que deve gerenciar o perfil de negócios.
+
+Para obter uma visão geral de funções e permissões, leia [criar contas de usuário e definir permissões](create-user-accounts-and-set-permissions.md).
 
 <table>
 <colgroup>
