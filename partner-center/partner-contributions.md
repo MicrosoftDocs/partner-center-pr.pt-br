@@ -1,22 +1,22 @@
 ---
 title: A contribuição do parceiro - mantenha sobre indicadores de desempenho | Partner Center
-Description: Use partner contributions to understand how your business is growing and succeeding
+Description: Use partner contributions data to understand how your business is growing and succeeding
 Author: labrenne
 keywords: dados de negócios
 ms.localizationpriority: medium
-ms.openlocfilehash: bfdc1f67225ac7ca24fa33d3992b95617d16b321
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 4aafc30e4fed9dbaefff818f1c6a4a2affeb0af2
+ms.sourcegitcommit: 6dc4be68a77b5068dc0c7cb171d017200db76ede
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875526"
+ms.lasthandoff: 10/01/2018
+ms.locfileid: "4242799"
 ---
-# <a name="partner-contribution-stay-on-top-of-your-performance-indicators"></a>Contribuição de parceiros: fique sobre seus indicadores de desempenho
+# <a name="partner-contribution-stay-on-top-of-your-performance-indicators"></a>Contribuição de parceiros: permanecer em cima de seus indicadores de desempenho
 
 **Aplica-se ao**
 - Partner Center
 
-Os dados impulsionam as decisões de negócios. Use as métricas na página de Contribuição de Parceiros para identificar seu êxitos, os êxitos de seus clientes e as áreas que precisam de mais atenção. Você também pode ver como está se saindo em comparação com outros parceiros. Use essas informações ao planejar novas metas de negócios.
+Os dados impulsionam as decisões de negócios. Use as métricas na página de Contribuição de Parceiros para identificar seu êxitos, os êxitos de seus clientes e as áreas que precisam de mais atenção. Use essas informações ao planejar novas metas de negócios.
 
 >[!NOTE]
 >Contribuição do parceiro está disponível somente para os parceiros que vendem o Dynamics 365.
@@ -44,6 +44,9 @@ Estamos monitorando as seguintes métricas:
 
 Cada métrica é exibida por uma barra (1 a 4) representando onde você está em relação a outros parceiros, usando os filtros selecionados (Produto, Carga de trabalho, Local do cliente). Os valores abaixo dessas barras são os intervalos de valores mínimo e máximo (mín. e máx.). Para exibir o intervalo mín. e máx. de cada barra, focalize a barra.  
 
+8. **Mês de atualização de dados**: as métricas são calculadas para os 12 meses até o mês selecionado.
+9. **Tendência de métricas**: tendência mês de 12 à direita em comparação comparada o mês anterior. Setas indicam a direção de tendência. Se você não vir uma seta, a tendência não foi alterada.
+
 >[!NOTE] 
 >- As métricas são acumuladas em todos os clientes durante os 12 meses (TTM), com exceção de "indivíduos certificados"        
 >- As métricas são calculadas com base nos filtros aplicados para Produto, Carga de trabalho e Localização do cliente
@@ -54,19 +57,19 @@ Comentários de você sobre a contribuição do parceiro são bem-vindos. Envie 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
 1. Por que não consigo ver a página de contribuição do parceiro?
-    - A contribuição do parceiro está disponível atualmente apenas para parceiros que vendem o Dynamics 365 com contas MPN ou CSP. Esse recurso não está habilitado para China e Alemanha ainda.
+    - Contribuição do parceiro está atualmente disponível apenas para parceiros que vendem o Dynamics 365 com contas MPN ou CSP. Esse recurso não está habilitado para China e Alemanha ainda.
 2. Sou um parceiro do Dynamics 365, por que não consigo ver os dados de contribuição de parceiros?
       - Você não pode ter uma função de conta MPN ou CSP. Por exemplo: Advisor e DAP ainda não estão habilitados.  
     - Talvez você não tenha a função de usuário apropriado em sua organização para exibir esta página. Entre em contato com seu administrador global.
 
     - Sua organização está localizada na China ou Alemanha.
 
-3. Meu nova receita líquida > 0, mas não tem nenhum dado para os usuários ativos mensais (MAU)?
-    - Para a maioria dos VL ou canal aberto clientes, cobrança aparecerá antes estações sejam provisionadas, portanto, não podemos ver MAU ainda.
+3. Meu nova receita líquida > 0, mas não tem nenhum dado para usuários ativos mensais (MAU)?
+    - Para a maioria dos VL ou canal aberto clientes, cobrança aparecerá antes estações sejam provisionadas para nós não veja MAU ainda.
 
-4.  Por que é meu MAU > 0, mas não têm dados para nova receita líquida?
-    - Para Web Direct ou revendedor, estações sejam provisionadas antes de começa o ciclo de cobrança. Cobrança pode ocorrer um mês, trimestre ou ano posterior com base nas condições da assinatura. Isso também acontece com assinaturas de avaliação, direitos de uso interno e os clientes do governo dos Estados Unidos.
+4.  Por que é meu MAU > 0, mas posso não ter nenhum dado para nova receita líquida?
+    - Para Web Direct ou revendedor, estações sejam provisionadas antes de começa o ciclo de cobrança. Cobrança pode ocorrer um mês, trimestre ou ano mais tarde com base nas condições da assinatura. Isso também acontece com assinaturas de avaliação, direitos de uso interno e os clientes do governo dos Estados Unidos.
 5.  Meus dados de receita não correspondam?
-    - Isso é mais provável devido a associação, diferenças de tempo ou dados de nuvem não DPOR.
-6.  Por que meus dados individuais certificados é baixa?
-    - Mostramos apenas aqueles localizado em uma área de locatário determinado cliente e que passaram 1 ou mais dos 5 exames necessários para a competência de aplicativos de negócios na nuvem, o compromisso do cliente ou o caminho de finanças e operações.   
+    - Isso é mais provável devido a associação DPOR, diferenças de tempo ou dados não na nuvem.
+6.  Por que meus dados certificados individuais é baixa?
+    - Mostramos apenas aqueles localizado em uma área de locatário determinado cliente e que passaram 1 ou mais dos 5 exames necessários para a competência de aplicativos de negócios na nuvem, envolvimento de cliente ou caminho de finanças e operações.   
