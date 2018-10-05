@@ -3,12 +3,12 @@ title: Informações fiscais da organização | Partner Center
 description: Se for apropriado, o ID do IVA deve ser adicionado às informações da sua organização
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 050ea8fc4cdbbddf601114714ff45b312318b196
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 20fef48dcd72de52abe6917c363e5d96f1213072
+ms.sourcegitcommit: a4ac47d85af00696d3b625ecaf448d8ecaf8275d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874636"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4381756"
 ---
 # <a name="organization-tax-information"></a>Informações fiscais da organização
 
@@ -20,9 +20,9 @@ Os impostos sobre compras na Windows Store para Empresas são determinados pelo 
 
 ### <a name="add-your-vat-id"></a>Adicionar seu ID do IVA
 
-1.  No **Painel**, acesse **Parceria**-> **Ofertas**
-2.  Clique em **Adicione seu ID do IVA**
-3.  Digite o ID do IVA da sua organização e clique em **Avançar**.
+1.  No **painel** , vá para **ofertas de associação**-> **disponível**
+2.  Selecione **Adicionar seu ID de IVA**
+3.  Insira a ID de IVA para sua organização, selecione **Adicionar** e, em seguida, selecione **Avançar**.
 
 
 
