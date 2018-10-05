@@ -5,12 +5,12 @@ author: Janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 6ab388f9a178a0bfd3b3d3133da855bcddee9d4f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b24e69d21a50306cbd9bf3495fc55015d5966b17
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877446"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377798"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Aplicativo de gerenciamento de custos do Azure para parceiros CSP do Azure  
 
@@ -41,8 +41,9 @@ Ao registrar um aplicativo Web do Azure Active Directory no Partner Center, voc�
 ## <a name="add-a-secret-key-to-your-app"></a>Adicione uma chave secreta ao seu aplicativo
 1.  No menu suspenso ao lado do botão **Adicionar chave**, selecione uma duração de 1 ou 2 anos.
 2.  Clique em **Adicionar chave**. 
-3.  Copie e salve o valor da chave secreta. Você precisará disso para a versão de avaliação gratuita de 30 dias.
-<br>**Observação**: as chaves secretas do aplicativo são como senhas com datas de vencimento mais longas. Salve o valor da chave em um local seguro para uso futuro.
+3.  Copie e salve o valor da chave secreta. Você precisará disso para a versão de avaliação gratuita de 30 dias.<br>
+> [!NOTE]  
+> As chaves secretas do aplicativo são como senhas com datas de vencimento mais. Salve o valor da chave em um local seguro para uso futuro.
 
 ## <a name="next-steps"></a>Próximas etapas
 Inicie uma [avaliação gratuita de 30 dias](https://go.microsoft.com/fwlink/?linkid=857895).

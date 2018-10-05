@@ -5,12 +5,12 @@ ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: fraude, uso indevido, uso aceitável, política de uso aceitável, falta de pagamento, cliente não paga a conta, risco online, roubo de serviço, abuso do serviço, suspender uma assinatura,
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 73e823ae0b5d0254b44af789a3d4203247cb1367
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7e9184a47c5f12900f9a7acb0d33d5d5c9f1f4fa
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876276"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377698"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Falta de pagamento, fraude ou uso indevido
 
@@ -61,7 +61,8 @@ Essas recomendações podem ajudá-lo a desenvolver políticas e práticas que p
 
 #### <a name="post-purchase-customer-account-management"></a>Gerenciamento de contas de clientes após a compra
 - Trabalhe com os clientes para compreender as necessidades comerciais de uso da nuvem, definindo limites de monitoramento apropriados
-    >**Observação** É possível [definir um orçamento de gasto mensal do Azure](set-an-azure-spending-budget-for-your-customers.md) no Partner Center para monitorar o uso do cliente durante o mês e ser notificado quando os clientes estão atingindo o limite do orçamento.
+    > [!NOTE]  
+    >  Você pode [definir um orçamento de gasto mensal Azure](set-an-azure-spending-budget-for-your-customers.md) no Partner Center para monitorar o uso de cliente durante o mês e ser notificado quando os clientes estão atingindo seu orçamento.
 - Monitore [logs de atividade do cliente](activity-logs.md) regularmente para ajudar a detectar fraudes logo no início
 - Execute uma ação rápida quando atividades suspeitas são detectadas
 - Evite conceder acesso administrativo completo de clientes para assinaturas sem primeiro implementar controles de atenuação de risco
@@ -74,8 +75,8 @@ Essas recomendações podem ajudá-lo a desenvolver políticas e práticas que p
 
 Para mais estratégias mais detalhadas de atenuação de risco online, consulte o [Guia de gerenciamento de risco de transação online.](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)
 
->**Importante**<br>
-Se a Microsoft detectar atividade do parceiro ou do cliente que confirmarmos ou suspeitarmos que viola a Política de Uso Aceitável, tomaremos medidas de aplicação. O cliente pode ser suspenso imediatamente, e você será notificado de ações de aplicação ou atualização em suas solicitações pela Microsoft.
+> [!IMPORTANT]  
+> Se a Microsoft detectar atividade do parceiro ou do cliente que confirmarmos ou suspeitarmos que viola a Política de Uso Aceitável, tomaremos medidas de aplicação. O cliente pode ser suspenso imediatamente, e você será notificado de ações de aplicação ou atualização em suas solicitações pela Microsoft.
 
  
 

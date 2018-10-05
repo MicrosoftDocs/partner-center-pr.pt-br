@@ -3,12 +3,12 @@ title: Parceria com revendedores indiretos no CSP | Partner Center
 description: Como um provedor indireto ou distribuidor, você pode estabelecer uma parceria com revendedores indiretos para expandir seu alcance.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: bdb60386eda7c9b46f7616662cec6775b111ca1d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 3564c7119ea2149703bcb5a6f7f1bb0d5f09d69b
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876766"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377758"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Parceria com revendedores indiretos no programa de Provedor de Soluções na Nuvem
 
@@ -46,7 +46,8 @@ Conclua as seguintes etapas para estabelecer e gerenciar sua parceria com revend
 
 Depois de concluir essas etapas, você pode gerenciar suas parcerias de revendedor na página **Revendedores indiretos** do menu **Painel**.
 
->**Importante**<br> Antes de começar a trabalhar com revendedores, eles devem estar registrados como revendedores indiretos no programa CSP e ter contas do Painel de Parceiros Aponte seu revendedores para [Parceria com provedores indiretos no CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) para obter informações sobre como se inscrever no CSP. 
+> [!IMPORTANT]   
+> Antes de começar a trabalhar com revendedores, eles devem estar registrados como revendedores indiretos no programa CSP e ter contas do Painel de Parceiros Aponte seu revendedores para [Parceria com provedores indiretos no CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) para obter informações sobre como se inscrever no CSP. 
 
 ## <a name="connect-with-indirect-resellers"></a>Conectar-se com revendedores indiretos
 
@@ -59,8 +60,8 @@ Para estabelecer uma parceria, mande uma solicitação de parceria por e-mail ao
 2. Na página **Revendedores indiretos**, selecione **Solicitar uma parceria**. Um rascunho de mensagem de e-mail é exibido.
 
 3. Selecione **Abrir no email** para abri-lo em seu aplicativo de email padrão ou selecione **Copiar para área de transferência** para copiar e colar, em seguida, a mensagem em um e-mail. Selecione **Concluído** ao terminar.
-
-   >**Importante** Você pode editar o texto na mensagem de e-mail, mas não se esqueça de incluir o link conforme ele é personalizado para sua conta do Painel de Parceiros.
+    > [!IMPORTANT]  
+    >  Você pode editar o texto na mensagem de e-mail, mas não se esqueça de incluir o link conforme ele é personalizado para sua conta do painel de parceiros.
 
 4. Depois que o revendedor aceitar sua solicitação de parceria, eles aparecerão na sua lista de revendedores indireto, e você poderá: 
 
@@ -97,8 +98,8 @@ Quando você associa um revendedor de uma nova conta do cliente, você está del
 5.  Se o pedido estiver correto, selecione **Enviar**. Se a ordem estiver incorreta, selecione **Cancelar** para cancelar a operação inteira e recomeçar.
 
 6.  Depois de enviar a ordem, a página **Confirmação** será exibida. Em **Informações de instalação**, o nome de conta de usuário do administrador e a senha temporária são exibidos. Copie as informações de nome e a senha de conta do usuário para que você possa enviá-los para o novo cliente. 
-
-    >**Importante** Certifique-se de anotar o nome de conta de usuário e senha, pois você não poderá acessar essas informações novamente depois de fechar esta página.
+    > [!IMPORTANT]  
+    > Certifique-se de anotar o nome de conta de usuário e senha conforme você não poderá acessar essas informações novamente depois de fechar esta página.
 
 7.  Selecione **Concluído**. O novo cliente aparece em sua lista de clientes, associada com o revendedor indireto. Agora o revendedor tem acesso de administrador para obter informações de conta do cliente e assinaturas e pode gerenciar as assinaturas em nome do cliente.
 

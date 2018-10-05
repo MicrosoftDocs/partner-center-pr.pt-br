@@ -3,12 +3,12 @@ title: Inscrever-se no programa Provedor de Soluções na Nuvem | Partner Center
 description: Conheça os diferentes modelos de venda no CSP e decida qual deles funciona melhor para sua empresa
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 609ef0bd1e280e41cd74088b8a42ffe7771d5ef9
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: dac0ea001011ad4a3b3ee11bb465e793ca6ef323
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876396"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377668"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscrever-se no programa Provedor de Soluções na Nuvem
 
@@ -27,7 +27,8 @@ Decida qual [modelo CSP é melhor](https://partnercenter.microsoft.com/en-us/clo
 
 Pode levar vários dias para analisarmos e verificarmos as informações fornecidas por você. Enviaremos um email quando concluirmos nossa análise.
 
->**Importante**<br> No momento, um parceiro CSP não pode revender serviços online para outro parceiro CSP. Essa restrição se aplica somente ao locatário usado para a realização de transações CSP. Os parceiros CSP que utilizam um locatário não CSP para uso corporativo podem adquirir serviços online de outro parceiro CSP. A Microsoft examina continuamente as políticas e os recursos de todos os programas. Quaisquer novidades sobre os lançamentos de recursos serão anunciadas por meio dos canais de comunicação normais, incluindo o Painel de Parceiros.
+> [!IMPORTANT]  
+> No momento, um parceiro CSP não pode revender serviços online para outro parceiro CSP. Essa restrição se aplica somente ao locatário usado para a realização de transações CSP. Os parceiros CSP que utilizam um locatário não CSP para uso corporativo podem adquirir serviços online de outro parceiro CSP. A Microsoft examina continuamente as políticas e os recursos de todos os programas. Quaisquer novidades sobre os lançamentos de recursos serão anunciadas por meio dos canais de comunicação normais, incluindo o Painel de Parceiros.
 
 ### <a name="enroll-as-an-indirect-reseller"></a>Inscrever-se como um revendedor indireto
 
@@ -48,19 +49,20 @@ Como um parceiro direto, você possui a relação de ponta a ponta com o cliente
 
 - Se desejar continuar trabalhando com seus clientes atuais por meio do Painel de Parceiros, você precisará [associá-los](request-a-relationship-with-a-customer.md) à sua conta no Painel de Parceiros.  Dessa forma, a Microsoft poderá conectar sua cobrança e faturamento a eles. 
 
->**Observação**<br> Os requisitos para se tornar um parceiro direto recentemente foram alterados e entrará em vigor a partir de 31 de agosto de 2018. Parceiros diretos precisará atender aos novos requisitos a partir do seu próximo período de inscrição após 31 de agosto de 2018.
+> [!NOTE]  
+>  Os requisitos para se tornar um parceiro direto recentemente foram alterados e entrará em vigor a partir de 31 de agosto de 2018. Parceiros diretos precisará atender aos novos requisitos a partir do seu próximo período de inscrição após 31 de agosto de 2018.
 
 #### <a name="new-expanded-requirements"></a>Novos requisitos expandidos:
 
 Suporte
-- Expanda seus recursos de suporte comprando o suporte de nuvem individuais, priorizada com o Microsoft Advanced suporte para o pacote de parceiros. Ou, escolha um suporte Microsoft Premier para o pacote de parceiros para acessar o catálogo completo de serviços proativos, 24/7 elevado quebra/correção suporte e gerenciamento de conta técnica em nuvem, híbrida e local. 
+- Expanda seus recursos de suporte comprando o suporte de nuvem individuais, priorizada com Microsoft Advanced suporte para o pacote de parceiros. Ou, escolha um suporte Microsoft Premier para o pacote de parceiros para acessar o catálogo completo de serviços proativos, 24/7 elevado interrupção/correção suporte e gerenciamento de conta técnica em nuvem, híbrida e local. 
 
 Serviços
 
 - Demonstre que você forneça pelo menos um serviço gerenciado, IP serviço ou aplicativo de solução de cliente. Saiba mais sobre como adicionar serviços gerenciados
 
 - Conheça os recursos de infraestrutura mínima, como cobrança e provisionamento.
-Estamos monitorando desempenho anual para confirmar que os parceiros de cobrança direta que atendam a esses requisitos são demonstrando o crescimento dos negócios estável. Não há nenhum metas de desempenho específicas no lugar no momento, mas Microsoft pode implementar um desempenho barra no futuro. 
+Estamos monitorando desempenho anual para confirmar que os parceiros de cobrança direta que atendam a esses requisitos são demonstrando o crescimento dos negócios estável. Não há nenhum metas de desempenho específicas no lugar neste momento, mas Microsoft pode implementar um desempenho barra no futuro. 
 
 - Uma ID ativa do Microsoft Partner Network (MPN) para o local onde deseja vender
 

@@ -4,12 +4,12 @@ description: Se os usuários se esquecerem da senha, você poderá atribuir a el
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: d8b69ed976b8ee24edc9060a7d0d5fd252ea02bd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 02c45caba9b1a3c5452626d728359eaa300f93b8
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876836"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377418"
 ---
 # <a name="reset-a-user-password"></a>Redefinir a senha de usuário
 
@@ -17,7 +17,8 @@ ms.locfileid: "2876836"
 
 -  Partner Center
    
->**Observação** Se você estiver se registrado no programa CSP (Provedor de Solução na Nuvem) no Microsoft Cloud Alemanha, consulte [Gerenciamento de usuários no Partner Center do Microsoft Cloud Alemanha](user-management-in-partner-center-for-microsoft-cloud-germany.md) para obter informações sobre como redefinir a senha do usuário.
+> [!NOTE]  
+>  Se você estiver inscrito no programa provedor de soluções na nuvem (CSP) no Microsoft Cloud Germany, consulte [gerenciamento de usuários no Partner Center do Microsoft Cloud Germany](user-management-in-partner-center-for-microsoft-cloud-germany.md) para obter informações sobre como redefinir a senha do usuário.
 
 Se os usuários se esquecerem das senhas deles, atribua a eles uma senha temporária. Eles poderão usá-la na próxima vez que entrarem no Partner Center.
 

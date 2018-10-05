@@ -3,12 +3,12 @@ title: Partner Center do Microsoft Cloud for US Government | Partner Center do M
 description: O Partner Center para Microsoft Cloud for US Government é o portal de empresas para parceiros da Microsoft que deseja oferecer soluções de nuvem da Microsoft para clientes que trabalham com agências governamentais dentro dos Estados Unidos.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e17f2211e72501fdc72fe077b53d855fc2119759
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: efbcf0ee2c6a7f60d50c07320894c908168a10f2
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875636"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377518"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Partner Center do Microsoft Cloud for US Government
 
@@ -30,8 +30,8 @@ Consulte a ficha técnica do [Microsoft Cloud for US Government](http://download
 
 Uma vez inscrito no Programa de Provedor de Soluções na Nuvem (CSP) para Microsoft Cloud for US Government, você poderá usar o Partner Center para vender soluções específicas de nuvem e serviços para seus clientes do governo dos Estados Unidos. 
 
->**Observação**<br>
-No momento em que este artigo foi publicado, os seguintes recursos do Partner Center ainda não estavam disponíveis no Partner Center do Microsoft Cloud for US Government (desde a publicação, alguns recursos podem ter sido adicionados ao Partner Center e esta lista pode estar desatualizada):
+> [!NOTE]  
+> No momento em que este artigo foi publicado, os seguintes recursos do Partner Center ainda não estavam disponíveis no Partner Center do Microsoft Cloud for US Government (desde a publicação, alguns recursos podem ter sido adicionados ao Partner Center e esta lista pode estar desatualizada):
 
 - Localizar um parceiro
 - Perfis de negócios

@@ -3,12 +3,12 @@ title: Criar uma conta do Partner Center | Partner Center
 description: Os membros do Microsoft Partner Network precisam criar contas do Partner Center para gerenciar seus benefícios e competências de rede e criar um perfil de negócios.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 5687b933923da3e554924e14cfd0dca88a64243e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8dff860f75ef36cdb59c3cae8382c56f834da0ff
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876776"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377768"
 ---
 # <a name="create-a-partner-center-account"></a>Criar uma conta do Partner Center
 
@@ -60,7 +60,8 @@ Iremos verificar essas informações durante o processo de criação de conta.
 
     O contato principal deve ser a pessoa que podemos contatar na empresa sobre seu aplicativo (pode ser você ou outra pessoa da empresa). Também usaremos essas informações para verificar se essa pessoa trabalha na sua empresa e se ela se inscreveu em uma conta do Partner Center.
 
-    >**Importante**<br> Para ajudar a garantir a segurança e a privacidade da sua empresa, enviaremos um email para seu contato principal para verificar que (1) ele ou ela se inscreveu em uma conta do Partner Center e que (2) este endereço de email pertence à sua empresa. Depois que o contato principal verificar o endereço de email, continuaremos nossa análise das informações fornecidas por você.
+    > [!IMPORTANT]  
+    > Para ajudar a garantir a segurança e a privacidade da sua empresa, enviaremos um email para seu contato principal para verificar que (1) ele ou ela se inscreveu em uma conta do Partner Center e que (2) este endereço de email pertence à sua empresa. Depois que o contato principal verificar o endereço de email, continuaremos nossa análise das informações fornecidas por você.
 
 4.  Leia e aceite os termos e condições do contrato do Microsoft Partner Network. 
 

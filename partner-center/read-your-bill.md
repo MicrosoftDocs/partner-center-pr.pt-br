@@ -5,12 +5,12 @@ ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: cobrança de assinatura, cobrança, cobrança no partner center, ler minha cobrança, fatura, fatura do partner center, fatura do CSP, onde está minha cobrança?
 ms.localizationpriority: medium
-ms.openlocfilehash: 70158f70388e4f0c458b22bccea539c36eef3700
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e43a3ea778c60f1009f5cd3489a24f4c9f0b1e4f
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875176"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377538"
 ---
 # <a name="read-your-bill"></a>Ler sua cobrança
 
@@ -24,10 +24,10 @@ Acesse o menu **Painel** e selecione **Cobrança** para ver seu histórico de co
 
 Os parceiros no programa Provedor de Soluções na Nuvem que escolheram a cobrança mensal pagam à Microsoft 60 dias em atraso pelas assinaturas de seus clientes (baseadas em licença e em uso).
 
->**Observação**<br>
-Sua fatura é um resumo de todos os encargos (entre programa, produtos e clientes) para o período de cobrança atual e é disponibilizada em até quatro (4) dias da data de cobrança selecionada.
+> [!NOTE]  
+> Sua fatura é um resumo de todos os encargos (entre programa, produtos e clientes) para o período de cobrança atual e é disponibilizada em até quatro (4) dias da data de cobrança selecionada.
 
-Você receberá uma fatura para baseadas em licença (Office365) e baseadas em uso encargos de (Azure) e uma fatura separada para única (Azure instâncias de VM reservadas) encargos.
+Você receberá uma fatura para baseadas em licença (Office365) e baseadas em uso encargos (Azure) e uma fatura separada para única (Azure instâncias de VM reservadas) encargos.
 
 Para obter detalhes dos encargos por itens, use os arquivos de reconciliação acompanhantes. Os arquivos de reconciliação contêm os IDs de clientes e assinaturas que você usará para criar as faturas dos clientes. Para obter mais informações, consulte [Como usar os arquivos de reconciliação](use-the-reconciliation-files.md).
 

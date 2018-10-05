@@ -5,12 +5,12 @@ ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
 keywords: pinpoint, indicações, oportunidades de venda, C2PC, perfil de negócios, comercializar sua empresa, localizar um parceiro, localizar um provedor de soluções, perfil de negócios, perfil de marketing
 ms.localizationpriority: medium
-ms.openlocfilehash: 1a53d9b1dd663b63193295068e6692645247cf0e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 61a38d6d0f4f56a980bf6bb8ef44be5f6ee6cd46
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877621"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377618"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -39,20 +39,21 @@ Para obter esses clientes em potencial, primeiramente você deve criar um perfil
 
 *  **Referências de vendas da Microsoft e funcionários de serviço**. Os clientes em potencial interessados na implantação de soluções de tecnologia com base em nuvem entram em contato com a Microsoft para ajudar a encontrar profissionais que podem atender às suas necessidades de negócios. Esses profissionais da Microsoft poderão então consultar os clientes em potencial para sua empresa.
 
->**Importante**<br>
-Para ajudarmos nossos parceiros a simplificar as operações de negócios, estamos consolidando recursos e funcionalidades que costumavam estar espalhados por vários sites e ferramentas no Painel de Parceiros este site. Como parte desse esforço, movemos todos os recursos relacionados a indicações para o Painel de Parceiros e desativamos os sites Pinpoint e C2PC. Se você usava o Pinpoint ou o C2PC no passado para obter e gerenciar indicações da Microsoft, precisará criar um novo perfil de negócios no Painel de Parceiros para continuar a obter indicações. Nós não damos mais suporte a perfis desses sites. 
+> [!IMPORTANT]  
+> Para ajudarmos nossos parceiros a simplificar as operações de negócios, estamos consolidando recursos e funcionalidades que costumavam estar espalhados por vários sites e ferramentas no Painel de Parceiros este site. Como parte desse esforço, movemos todos os recursos relacionados a indicações para o Painel de Parceiros e desativamos os sites Pinpoint e C2PC. Se você usava o Pinpoint ou o C2PC no passado para obter e gerenciar indicações da Microsoft, precisará criar um novo perfil de negócios no Painel de Parceiros para continuar a obter indicações. Nós não damos mais suporte a perfis desses sites. 
 
 ## <a name="create-a-profile"></a>Criar um perfil
 
->**Observação** Antes de criar um perfil de negócios, você deve ter uma conta do Painel de Parceiros. Se você ainda não tiver uma conta do Painel de Parceiros, consulte [Criar uma conta do Partner Center](mpn-create-a-partner-center-account.md) para obter ajuda para criar uma. 
+> [!NOTE]  
+>  Antes de criar um perfil de negócios, você deve ter uma conta do painel de parceiros. Se você ainda não tiver uma conta do Painel de Parceiros, consulte [Criar uma conta do Partner Center](mpn-create-a-partner-center-account.md) para obter ajuda para criar uma. 
 
 Crie perfis para cada região na qual tenha autorização para fazer negócios. 
 
 1.  No menu **Painel**, selecione **Indicações** &gt; **Perfis de negócios** &gt; selecione um país/região > **[Criar um perfil de negócios](https://partnercenter.microsoft.com/pcv/publishing)**.
 
 2.  Na página **Criar um perfil de negócios**, selecione uma região e então insira as informações do seu perfil.
-    
-    >**Observação** Embora o Painel de Parceiros dê suporte a vários idiomas, é possível que alguns elementos, como a descrição e as marcas de forma livre, incluam texto de idiomas diferentes, como observado neste tópico.
+    > [!NOTE]  
+    >  Embora o painel de parceiros oferece suporte a vários idiomas, alguns elementos, como a descrição e as marcas de forma livre, talvez precisem incluir texto de idiomas diferentes, como observado neste tópico.
 
 ### <a href="" id="partner_info"></a>Informações do parceiro
 

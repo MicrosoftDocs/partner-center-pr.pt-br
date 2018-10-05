@@ -4,12 +4,12 @@ description: No Partner Center, você pode definir um orçamento mensal por clie
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: adea2e44dcde77ae8f6c020407cd65957fdfd5cd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7e7fd895c3c8e0acda51fb79ab142a7723ecb227
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875366"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377468"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Definir um orçamento de gastos do Azure para seus clientes
 
@@ -29,7 +29,8 @@ Para ajudar os clientes a gerenciar seu gastos do Azure, você pode definir um o
 
 Os dados de gastos do Azure são uma estimativa, os valores de cobrança reais podem variar, e o valor não reflete impostos, créditos, ajustes ou outros encargos que podem ser aplicáveis. Os dados de gastos são atualizados uma vez por dia. Os clientes continuarão a usar — e a serem cobrados por — serviços e recursos do Azure, salvo se você alterar as configurações da conta deles no Portal do Azure. 
 
->**Observação** Esse recurso não está disponível em contas de área restrita ou de Teste em Produção (TIP).
+> [!NOTE]  
+> Esse recurso não está disponível em área restrita ou teste em contas de produção (TIP).
 
 **Ativar as notificações de email**
 1.  No menu Painel, selecione **Gastos do Azure**.

@@ -4,12 +4,12 @@ description: Procure e encontre os tipos de ofertas de terceiros que se adequem 
 author: labrenne
 keywords: ofertas de terceiros, software para compra, procurar terceiros
 ms.localizationpriority: medium
-ms.openlocfilehash: dc7d7c8a0d24f184c2e6a21406a1d5d26c961902
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 6c734282aed8493d68d6ff9e8dc6d732d952c0a8
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876716"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377498"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>Descobrir as ofertas de terceiros que deseja vender
 
@@ -51,7 +51,8 @@ A compra do software de terceiros é realizada da mesma forma que a compra de um
 7.  Depois que a assinatura for adicionada, abra-a clicando no nome dela na lista de assinaturas. 
 8.  Na página **Subscription edit**, você pode alterar a quantidade de licenças ou suspender a assinatura.
 
->**Observação**<br> Você atribui a licença ao cliente no site de administração de terceiros.
+> [!NOTE]  
+>  Você atribui a licença ao cliente no site de administração de terceiros.
 
     
 

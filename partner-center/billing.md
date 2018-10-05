@@ -5,12 +5,12 @@ ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções fiscais, arquivos de reconciliação, arquivo de reconciliação
 ms.localizationpriority: medium
-ms.openlocfilehash: 2bf56f90a6a49184ea2992adf534fde3d2043e7b
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 9e66f9c4060a155f4099f28ef29559d5a6f628ba
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876356"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377738"
 ---
 # <a name="billing"></a>Cobrança
 
@@ -24,8 +24,8 @@ Acesse o menu **Painel** e selecione **Cobrança** para ver seu histórico de co
 
 Os parceiros no programa Provedor de Soluções na Nuvem que optam pela cobrança mensal pagam à Microsoft 60 dias em atraso pelas assinaturas de seus clientes (baseadas em licença e em uso).
 
->**Observação**<br>
-Sua fatura é um resumo de todos os encargos (entre programa, produtos e clientes) do período de cobrança atual e é disponibilizada em até quatro (4) dias da data de cobrança selecionada.
+> [!NOTE]  
+> Sua fatura é um resumo de todos os encargos (entre programa, produtos e clientes) do período de cobrança atual e é disponibilizada em até quatro (4) dias da data de cobrança selecionada.
 
 Informações importantes sobre a cobrança de clientes:
 

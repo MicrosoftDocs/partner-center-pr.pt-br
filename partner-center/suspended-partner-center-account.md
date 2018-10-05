@@ -4,12 +4,12 @@ description: Saiba como restaurar uma conta suspensa do Partner Center, por que 
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e24b176e5973512afc755d684a08615c6ff06289
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: da54c5bdbf9b28eb54d459b0b383b067478b0b6f
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877026"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377548"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>Restaurar uma conta suspensa do Partner Center
 
@@ -21,8 +21,8 @@ Este artigo explica o que fazer se sua conta do Partner Center for suspensa.
 -  Partner Center for Microsoft Cloud for US Government
 -  Partner Center for Microsoft Cloud Germany
 
->**Importante**<br>
-Enquanto sua conta do Partner Center estiver suspensa, você poderá continuar a gerenciar suas implantações, as licenças e os serviços existentes. No entanto, você não conseguirá autorizar ou revender novas licenças ou serviços até que sua conta tenha boa reputação novamente.
+> [!IMPORTANT]  
+> Enquanto sua conta do Partner Center estiver suspensa, você poderá continuar a gerenciar suas implantações, as licenças e os serviços existentes. No entanto, você não conseguirá autorizar ou revender novas licenças ou serviços até que sua conta tenha boa reputação novamente.
 
 ## <a name="why-partner-center-accounts-are-suspended"></a>Por que as contas do Partner Center são suspensas?
 

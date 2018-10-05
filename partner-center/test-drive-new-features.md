@@ -3,12 +3,12 @@ title: Teste os novos recursos do Partner Center
 description: Teste os novos recursos do Partner Center antes que eles sejam lançados e conte-nos sua opinião. Ajude a moldar o futuro do Partner Center!
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 2860e3c2fbcce28030a8b5441b542db9e98cf119
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e07db213f755fe24e98bd6dbfde08d226b09c75f
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876656"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377568"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Teste os novos recursos do Partner Center
 
@@ -22,7 +22,8 @@ Estamos continuamente lançando novos recursos e funcionalidades no Partner Cent
 
 Ficamos felizes em convidá-lo a experimentar os novos recursos antes que eles sejam lançados na comunidade do Partner Center em todo o mundo e a compartilhar seus pensamentos sobre eles. Confira a [página Partner Center Comunicados](https://partnercenter.microsoft.com/pcv/announcements) para obter informações sobre recursos futuros para que você possa começar a planejar como usá-los para aumentar seus negócios. Observe que pode haver vários recursos disponíveis para teste em um determinado momento.
 
->**Importante**<br> Continuamos a corrigir erros e melhorar o desempenho do recurso durante a fase de visualização de quaisquer versões do recurso, o que pode resultar em alterações na forma como o recurso final funciona. Por esses e outros motivos, versões de visualização podem apresentar comportamento imprevisível e não transmitir uma garantia real ou implícita da Microsoft.
+> [!IMPORTANT]  
+> Continuamos a corrigir erros e melhorar o desempenho do recurso durante a fase de visualização de quaisquer versões do recurso, o que pode resultar em alterações na forma como o recurso final funciona. Por esses e outros motivos, versões de visualização podem apresentar comportamento imprevisível e não transmitir uma garantia real ou implícita da Microsoft.
 
 Para cada recurso futuro, você pode:
 
@@ -32,11 +33,13 @@ Para cada recurso futuro, você pode:
 
 -   Consultar nosso prazo estimado para disponibilizar um recurso para visualização e nosso prazo de ativação estimado para quando lançarmos o recurso na comunidade do Partner Center em todo o mundo 
 
-    >**Observação**<br> O termo *prazo de ativação estimado* refere-se à data em que pretendemos disponibilizar o recurso para todos os usuários do Partner Center em todo o mundo. Entretanto, várias coisas podem afetar a data de ativação, incluindo uma decisão de incorporar o feedback que melhora o recurso, e podemos decidir reprogramar a data de ativação ou não lançar uma versão comercial do recurso.  
+    > [!NOTE]  
+>  O termo *prazo de ativação estimado* refere-se à data em que pretendemos disponibilizar o recurso para todos os usuários do Partner Center em todo o mundo. Entretanto, várias coisas podem afetar a data de ativação, incluindo uma decisão de incorporar o feedback que melhora o recurso, e podemos decidir reprogramar a data de ativação ou não lançar uma versão comercial do recurso.  
 
 -   Ativar a visualização de recurso deslizando o interruptor para **On**
 
->**Observação**<br> Somente administradores globais e agentes de administração podem ativar versões de visualização de recurso. No entanto, qualquer um dos seus usuários do Partner Center pode ver e usar os recursos de visualização que tenham permissões aplicáveis.
+> [!NOTE]  
+>  Somente administradores globais e agentes de administração podem ativar versões de visualização de recurso. No entanto, qualquer um dos seus usuários do Partner Center pode ver e usar os recursos de visualização que tenham permissões aplicáveis.
  
 ## <a name="tell-us-what-you-think"></a>Diga-nos o que você acha
 

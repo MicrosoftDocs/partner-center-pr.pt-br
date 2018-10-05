@@ -3,12 +3,12 @@ title: Gerenciamento de usuários e licenças no Partner Center do Microsoft Clo
 description: Não há recursos de gerenciamento de usuários disponíveis no Partner Center do Microsoft Cloud Alemanha para atender aos requisitos nacionais, regionais e específicos do setor que regem a coleta e o uso de dados das pessoas. Em vez disso, adicione e gerencie usuários no portal do Azure do Microsoft Cloud Alemanha.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 4e354fd3f5bf20ef10600a454a94704fe2db0700
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0ee4215c106076d3bc548efa50dd921ae3d5987a
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875766"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377408"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gerenciamento de usuários e licenças no Partner Center do Microsoft Cloud Alemanha
 
@@ -25,8 +25,8 @@ Gerenciamento de usuários do cliente | Centro de administração do Office 365 
 Redefinir a senha do usuário | Portal de administração do Azure do Microsoft Cloud Alemanha
 Gerenciamento de licenças | Centro de administração do Office 365 ou portal de licenciamento do Azure Active Directory do Microsoft Cloud Alemanha
 
->**Observação**<br>
-No momento em que este artigo foi publicado, a documentação sobre como gerenciar licenças de usuário do cliente ainda não estava disponível no portal de administração do Azure ou no portal de administração do Office 365.
+> [!NOTE]  
+> No momento em que este artigo foi publicado, a documentação sobre como gerenciar licenças de usuário do cliente ainda não estava disponível no portal de administração do Azure ou no portal de administração do Office 365.
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Como gerenciar usuários no portal do Azure do Microsoft Cloud Alemanha 
 
@@ -34,7 +34,8 @@ Se estiver conectado ao Partner Center do Microsoft Cloud Alemanha, você poder�
 
 Depois de entrar com êxito no portal do Azure do Microsoft Cloud Alemanha, abra sua página de visão geral do Azure Active Directory (Azure AD) e siga as instruções destes tópicos:
 
->**Observação** Selecionar os links a seguir levará você a um site diferente. 
+> [!NOTE]  
+> Selecionar os links a seguir, você será levado a um site diferente. 
 
 -  [**Adicionar novos usuários ao Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 

@@ -5,12 +5,12 @@ ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
 ms.localizationpriority: medium
-ms.openlocfilehash: 402920613cb5b45608f9099d250d79809a8d9f5a
-ms.sourcegitcommit: 6ad681d132ab60bf09cd01eba385a9fad7563fa7
+ms.openlocfilehash: 038c8b200e7f2bb5731297b8ad8c51986bdfdc44
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/06/2018
-ms.locfileid: "3405428"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377598"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Criar contas de usuário e atribuir permissões
 
@@ -23,22 +23,23 @@ Crie contas de usuário para os funcionários que precisam acessar o painel. Ess
 
 ## <a name="add-a-new-user"></a>Adicionar um novo usuário
 
-1. Clicando no ícone de **configurações** na parte superior direita do painel, selecione o **gerenciamento de usuário**.
+1. Clicando no ícone de **configurações** na parte superior direita do painel, selecione o **gerenciamento de usuários**.
 
 2.  Selecione **Adicionar usuário**.
 
 3.  Insira o nome completo e endereço de email exclusivo do usuário.
 
-4.  Selecione o tipo de agente e/ou o tipo de administrador que deseja atribuir ao usuário. O acesso do Painel de Parceiros é baseado em função, portanto, você pode atribuir permissões para personalizar o modo de exibição do usuário e mostrar somente os recursos que o usuário precisa para completar tarefas específicas.  Se os usuários querem uma atribuição de função, eles podem encontrar os administradores de conta entre em contato com indo para o **gerenciamento de usuários** e filtragem de administrador de conta.
+4.  Selecione o tipo de agente e/ou o tipo de administrador que deseja atribuir ao usuário. O acesso do Painel de Parceiros é baseado em função, portanto, você pode atribuir permissões para personalizar o modo de exibição do usuário e mostrar somente os recursos que o usuário precisa para completar tarefas específicas.  Se os usuários querem uma atribuição de função, eles podem encontrar os administradores de conta entre em contato com indo para **gerenciamento de usuários** e filtragem de administrador de conta.
 
 5.  Selecione **Adicionar** para criar a conta de usuário. Confirme os detalhes do usuário na próxima página.
 
->**Importante**<br>
-Anote as novas informações de login do usuário exibidas nessa página. Certifique-se de copiar e enviar essas informações para o novo usuário, pois você não conseguirá acessá-las novamente mais tarde. 
+> [!IMPORTANT]  
+> Anote as novas informações de login do usuário exibidas nessa página. Certifique-se de copiar e enviar essas informações para o novo usuário, pois você não conseguirá acessá-las novamente mais tarde. 
 
 O usuário precisará entrar no Painel de Parceiros com seu nome de usuário e senha temporária. Quando o usuário entrar no Painel de Parceiros pela primeira vez, ele precisará alterar sua senha. 
 
->**Observação**<br> Se o seu administrador global deixou a organização ou mudou de função e houver a necessidade de adicionar um novo administrador global, você terá que fazer uma solicitação de serviço no [portal MPN](https://partner.microsoft.com/support). O agente de suporte poderá solicitar a promoção de um usuário a administrador global se seu solicitante for capaz de fornecer as informações de identidade pessoal requisitadas e informações adicionais sobre a sua organização.
+> [!NOTE]  
+>  Se o seu administrador global deixou a organização ou mudou de função e houver a necessidade de adicionar um novo administrador global, você terá que fazer uma solicitação de serviço no [portal MPN](https://partner.microsoft.com/support). O agente de suporte poderá solicitar a promoção de um usuário a administrador global se seu solicitante for capaz de fornecer as informações de identidade pessoal requisitadas e informações adicionais sobre a sua organização.
 
 ## <a name="assign-user-permissions"></a>Atribuir permissões de usuário
 

@@ -5,12 +5,12 @@ author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ebc5490d724b49836b0051802038c4ba4c86e20
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f559d6c670a289c46d1e990a55113152ec83d37b
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876076"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377488"
 ---
 # <a name="your-company-work-account-and-the-partner-dashboard"></a>Sua conta de trabalho corporativa e o Painel de Parceiros  
 
@@ -24,7 +24,8 @@ Precisamos vincular a conta corporativa da empresa à sua nova conta do Painel d
 
 Se a sua empresa já tiver uma conta corporativa, você pode vinculá-la à sua conta do Painel de Parceiros. 
 
->**Observação** Antes de decidir usar uma conta corporativa existente, pense sobre quantos usuários da conta precisarão trabalhar no Painel de Parceiros. Se você tiver usuários na conta que não precisam trabalhar no Painel de Parceiros, considere criar uma nova conta somente para os usuários que precisem trabalhar no Painel de Parceiros.
+> [!NOTE]  
+>  Antes de decidir usar uma conta corporativa existente, pense sobre quantos usuários da conta precisarão trabalhar no painel de parceiros. Se você tiver usuários na conta que não precisam trabalhar no Painel de Parceiros, considere criar uma nova conta somente para os usuários que precisem trabalhar no Painel de Parceiros.
 
 Se a sua empresa ainda não tiver uma conta de trabalho, você poderá criar uma durante o processo de inscrição. 
 

@@ -3,12 +3,12 @@ title: Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Clo
 description: Antes de se inscrever no programa Provedor de Soluções na Nuvem do Microsoft Cloud Alemanha, saiba mais sobre os requisitos do programa CSP.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: de500792bc0af3d7e8dac82daef28e16777a27b1
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: db996ad4fdfda05f190abdfe2028d5c8b023e40b
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877496"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377648"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Cloud Alemanha
 
@@ -24,8 +24,8 @@ Para obter mais informações, consulte [Partner Center do Microsoft Cloud Alema
 
 Caso tenha uma conta existente no Partner Center e deseje se registrar no CSP do Microsoft Cloud Alemanha, você deverá criar uma nova conta, separada, para o Partner Center do Microsoft Cloud Alemanha.
 
->**Importante**<br>
-Se você já está inscrito no programa CSP e deseja vender também para os clientes e parceiros dos países/regiões do Microsoft Cloud Alemanha, será preciso criar uma nova conta do Partner Center para esse mercado específico.  
+> [!IMPORTANT]  
+> Se você já está inscrito no programa CSP e deseja vender também para os clientes e parceiros dos países/regiões do Microsoft Cloud Alemanha, será preciso criar uma nova conta do Partner Center para esse mercado específico.  
 
 Para criar uma conta do Partner Center e se inscrever no CSP do Microsoft Cloud Alemanha, você precisará fornecer as seguintes informações (talvez você queira coletar essas informações antes de iniciar o processo de inscrição):
 
@@ -56,8 +56,8 @@ Para criar uma conta do Partner Center e se inscrever no CSP do Microsoft Cloud 
 
 2.  Selecione **Aceitar e continuar**. Pode levar vários dias para que possamos analisar seu aplicativo. Enviaremos um email para você quando concluirmos nossa análise.
 
-    >**Importante**<br>
-    Selecionando **Aceitar e continuar**, você estará confirmando que está autorizado a agir em nome da empresa, e está concordando em permitir que a Microsoft execute uma verificação de crédito em segundo plano antes de analisar o aplicativo de Provedor de Soluções na Nuvem da sua empresa.
+> [!IMPORTANT]  
+> Selecionando **Aceitar e continuar**, você estará confirmando que está autorizado a agir em nome da empresa, e está concordando em permitir que a Microsoft execute uma verificação de crédito em segundo plano antes de analisar o aplicativo de Provedor de Soluções na Nuvem da sua empresa.
 
 ### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-germany"></a>Etapa 3 - Assinar o contrato de revendedor do Microsoft Cloud Alemanha 
 
@@ -69,8 +69,8 @@ Para criar uma conta do Partner Center e se inscrever no CSP do Microsoft Cloud 
 
 O Microsoft Cloud Alemanha fornece uma instância separada do Microsoft Azure, entregue de datacenters alemães com uma rede dedicada operando dentro Alemanha. Para permitir que os administradores gerenciem usuários e licenças no portal do Azure Germany, você precisará atribuir manualmente a função de agente administrador a eles.
 
->**Observação**<br>
-Depois de atribuir os usuários para a função de agente administrador, o menu **Clientes** será exibido no menu Painel, e você poderá acessar a lista de clientes e [adicionar novos clientes](add-a-new-customer.md).   
+> [!NOTE]  
+> Depois de atribuir os usuários para a função de agente administrador, o menu **Clientes** será exibido no menu Painel, e você poderá acessar a lista de clientes e [adicionar novos clientes](add-a-new-customer.md).   
 
 1.  Entrar no portal do Azure Germany em https://portal.microsoftazure.de/.
 

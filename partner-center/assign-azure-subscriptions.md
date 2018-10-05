@@ -4,12 +4,12 @@ description: Agora você pode atribuir assinaturas do Azure a seus clientes no P
 author: Labrenne
 keywords: Azure, assinatura do Azure, assinatura, assinaturas, atribuir assinatura, gerenciar assinatura do Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: cc847b9a0cab253c911141c26c4ab457ad0d98cc
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: cb683e97d5983b3bb8693efb93b91c0569ab0513
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875006"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377558"
 ---
 # <a name="assign-azure-subscriptions-in-the-partner-dashboard"></a>Atribuir assinaturas do Azure no Painel de Parceiros
 
@@ -37,7 +37,8 @@ Depois de criar uma assinatura do Microsoft Azure para um cliente, você poderá
 
 1.  Para abrir o portal do Azure do cliente, expanda a listagem do cliente em sua lista de clientes ou selecione o nome do cliente e, em seguida, selecione **Portal de Gerenciamento do Microsoft Azure**.
     
- >**Observação** <br> Se receber uma solicitação para fazer logon no portal do Azure, talvez você não tenha privilégios administrativos delegados. Selecione **Solicite um relacionamento** para convidar o cliente para identificar você como seu Parceiro de Registro. Depois que o cliente aceitar seu convite, você receberá automaticamente os privilégios administrativos delegados. 
+> [!NOTE]  
+> Se receber uma solicitação para fazer logon no portal do Azure, talvez você não tenha privilégios administrativos delegados. Selecione **Solicite um relacionamento** para convidar o cliente para identificar você como seu Parceiro de Registro. Depois que o cliente aceitar seu convite, você receberá automaticamente os privilégios administrativos delegados. 
 
 2.  No portal do Azure, abra a lista de assinaturas do cliente e selecione a assinatura do Azure do cliente.
 

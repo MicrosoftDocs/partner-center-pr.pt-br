@@ -4,12 +4,12 @@ description: Quando você atualiza sua associação ao Microsoft Partner Network
 author: MaggiePucciEvans
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: a8165a6e7f24437a556ecd72e4e87966b148db0a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b282ab2fc83acbf31c5682f6e66b7bc401b81c06
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875706"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377778"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Atualizar sua associação ao Microsoft Partner Network
 
@@ -46,7 +46,8 @@ Action Pack é uma assinatura anual acessível de serviços, software e suporte 
 
 Para obter mais informações sobre o Microsoft Action Pack, vá para [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
->**Observação** Seguir este link o levará para outro site. Retorne para este site, Partner Center, para assinar o pacote de ação.
+> [!NOTE]  
+> Clicar nesse link, você será levado para outro site. Retorne para este site, Partner Center, para assinar o pacote de ação.
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>Inscrever-se ao Microsoft Action Pack
@@ -75,8 +76,8 @@ Sua assinatura do Action Pack será renovada automaticamente todos os anos nesta
 
 3. Selecione **Desativar a renovação automática** se não quiser que sua assinatura do Action Pack seja renovada automaticamente a cada ano. 
 
-    >**Observação**<br>
-Se você desativar a renovação automática de inscrição, não poderá ativá-la novamente até que você renove a assinatura. Lembraremos você de renovar sua assinatura antes que ela expire.
+   > [!NOTE]  
+> Se você desativar a renovação automática de inscrição, não poderá ativá-la novamente até que você renove a assinatura. Lembraremos você de renovar sua assinatura antes que ela expire.
 
 
 ### <a name="renew-your-action-pack-subscription"></a>Renovar sua assinatura do Action Pack

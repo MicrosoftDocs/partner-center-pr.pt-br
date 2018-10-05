@@ -4,12 +4,12 @@ description: Os registros de clientes estão entre seus ativos de informação m
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8242a5b00af5517aa9b480077201b32bae7b251e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8eeaff75547426440a0a303423cf62444362035a
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876816"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377458"
 ---
 # <a name="manage-your-customer-list"></a>Gerenciar sua lista de clientes
 
@@ -65,8 +65,8 @@ No menu **Painel**, selecione **Clientes**.
     -   **Status**;
     -   **Revendedor** — a ID do revendedor que possui e gerencia a assinatura.
 
->**Observação**<br>
-Para obter mais informações sobre o gerenciamento de assinaturas, consulte [Assinaturas de cliente](customer-subscriptions.md).
+> [!NOTE]  
+> Para obter mais informações sobre o gerenciamento de assinaturas, consulte [Assinaturas de cliente](customer-subscriptions.md).
 
      
 

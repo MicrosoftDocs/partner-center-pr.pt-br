@@ -4,12 +4,12 @@ description: Em alguns casos, os clientes talvez queiram contratar você para pr
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 4fcb572f7afc9d7f75b8330a23b45eb5696c30e3
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0a10d766f9b9f92a26e0c247b3a20dfab1fb50fe
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875836"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377478"
 ---
 # <a name="multi-channel-support"></a>Suporte multi-canal
 
@@ -46,8 +46,8 @@ O recurso multicanal do Painel de Parceiros oferece suporte a cenários em que u
 </tbody>
 </table>
 
->**Importante**<br>
-Um parceiro CSP não revende serviços online para outro parceiro CSP no momento. A Microsoft examina continuamente as políticas e os recursos de todos os programas. Quaisquer anúncios sobre as versões de recurso serão anunciados por meio dos canais de comunicação normais, incluindo o Painel de Parceiros. 
+> [!IMPORTANT]  
+> Um parceiro CSP não revende serviços online para outro parceiro CSP no momento. A Microsoft examina continuamente as políticas e os recursos de todos os programas. Quaisquer anúncios sobre as versões de recurso serão anunciados por meio dos canais de comunicação normais, incluindo o Painel de Parceiros. 
 
 ## <a name="see-also"></a>Veja também
 

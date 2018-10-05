@@ -4,12 +4,12 @@ description: Baixe modelos de contrato do cliente específicos de mercado e idio
 author: Maggie Evans
 keywords: Contratos de nuvem da Microsoft, modelos de contrato de cliente, contratos de cliente do CSP, MCA, MCAs, CSP, onde posso vender por meio do CSP?, países e regiões do CSP, MCAs do CSP em vários idiomas, CSP América do Norte, CSP América Central, CSP América do Sul, CSP Caribe, Microsoft Cloud for US Government do CSP, CSP Microsoft Cloud Alemanha, CSP Oriente Médio, CSP África, CSP Europa, CSP Ásia, CSP Pacífico, CSP MCAs
 ms.localizationpriority: medium
-ms.openlocfilehash: 3cd5615693a7cea51dfc11f1b6039c3a333e979b
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 1248e8f658fc7a851dbc92b2a88d75490fb9b7df
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877506"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377808"
 ---
 # <a name="microsoft-cloud-solution-provider-markets-and-customer-agreements"></a>Contrato de mercados e de cliente do Provedor de Soluções na Nuvem da Microsoft
 
@@ -17,8 +17,8 @@ Este artigo lista os mercados disponíveis atualmente no canal de vendas do Prov
 
 Alguns locais disponibilizam versões do contrato em vários idiomas para atender às preferências de idioma do cliente. Forneça ao cliente a versão que estiver no seu idioma de preferência.
 
->**Observação**<br>
-Os modelos de cliente do Contrato da Microsoft Cloud listados abaixo são válidos a partir de 1º de setembro de 2017 para todas as regiões e todos os idiomas.
+> [!NOTE]  
+> Os modelos de cliente do Contrato da Microsoft Cloud listados abaixo são válidos a partir de 1º de setembro de 2017 para todas as regiões e todos os idiomas.
 
 
 ## <a name="north-america-central-america-south-america-and-the-caribbean"></a>América do Norte, América Central, América do Sul e Caribe

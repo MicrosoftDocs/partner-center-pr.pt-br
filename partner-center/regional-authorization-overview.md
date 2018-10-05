@@ -5,12 +5,12 @@ ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 keywords: Locatário do Azure AD, consolidar seu locatários, estratégia de locatário, locatários no CSP, contas de parceiro no CSP, mercados e regiões do CSP, onde posso vender por meio do CSP?
 ms.localizationpriority: medium
-ms.openlocfilehash: 59c9e17d3238afd775c08513f9ef39cb3fd6d7d7
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 46fbc08562cdddd75cabf9822b1fff84c151f031
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876376"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377628"
 ---
 # <a name="tenant-consolidation-strategies-in-csp"></a>Estratégias de consolidação de locatário no CSP
 
@@ -21,7 +21,8 @@ Com a autorização regional, os parceiros com empresas internacionais agora pod
 
 Anteriormente, com a exceção da União Europeia/EFTA, os parceiros precisavam ter uma entidade física em cada país onde eles queriam fazer transações. Isso significa que os parceiros precisavam ter vários locatários configurados no Partner Center, com várias datas de cobrança e outras configurações. Em regiões como a América Latina, os parceiros não podiam trabalhar facilmente com clientes em países ou regiões vizinhos e, em alguns casos, eles ficavam completamente restritos.
 
->**Observação**<br> Se você está inscrito no [CSP do Microsoft Cloud Alemanha](partner-center-for-microsoft-cloud-germany.md) e vende para os clientes da União Europeia e países/regiões da EFTA, não será possível consolidar seu locatário do Partner Center do Microsoft Cloud Alemanha com seus outros locatários.  
+> [!NOTE]  
+>  Se você está inscrito no [CSP do Microsoft Cloud Alemanha](partner-center-for-microsoft-cloud-germany.md) e vende para os clientes da União Europeia e países/regiões da EFTA, não será possível consolidar seu locatário do Partner Center do Microsoft Cloud Alemanha com seus outros locatários.  
 
 ## <a name="planning"></a>Planejamento
 
@@ -163,7 +164,8 @@ Considere o seguinte antes de começar a consolidar locatários:
 
 -   **Se a localização de seu destino de venda da Microsoft for um país/região da lista a seguir**, seu território incluirá clientes localizados em qualquer país/região da lista a seguir: Ilhas Aland, Andorra, Áustria, Bélgica, Ilha Bouvet, Bulgária, Croácia, Chipre, República Tcheca, Dinamarca, Estônia, Ilhas Faroés, Finlândia, França, Alemanha, Grécia, Gibraltar, Groenlândia, Guernsey, Hungria, Islândia, Irlanda, Ilha de Man, Itália, Jersey, Jan Mayen, Letônia, Liechtenstein, Lituânia, Luxemburgo, Madagascar, Malaui, Mali, Malta, Mayotte, Mônaco, Países Baixos, Nova Caledônia, Noruega, Polônia, Portugal, Romênia, San Marino, Eslováquia, Eslovênia, Espanha, Svalbard, Suécia, Suíça, Reino Unido, Cidade do Vaticano. 
 
-    >**Observação**<br> Se você está inscrito no [CSP do Microsoft Cloud Alemanha](partner-center-for-microsoft-cloud-germany.md) e vende para os clientes da União Europeia e países/regiões da EFTA, não será possível consolidar seu locatário do Partner Center do Microsoft Cloud Alemanha com seus outros locatários.  
+    > [!NOTE]  
+>  Se você está inscrito no [CSP do Microsoft Cloud Alemanha](partner-center-for-microsoft-cloud-germany.md) e vende para os clientes da União Europeia e países/regiões da EFTA, não será possível consolidar seu locatário do Partner Center do Microsoft Cloud Alemanha com seus outros locatários.  
 
 
 -   **Se a localização de seu destino de venda da Microsoft for um país/região da lista a seguir**, seu território incluirá clientes localizados em qualquer país/região da lista a seguir: Afeganistão, Albânia, Argélia, Armênia, Azerbaijão, Bahrein, Belarus, Benin, Bósnia e Herzegovina, Burquina Faso, Burundi, República Centro-Africana, Chade, Congo (República Democrática), Congo, Djibuti, Egito, Guiné Equatorial, Eritreia, Polinésia Francesa, Gabão, Gâmbia, Geórgia, Guiné, Guiné-Bissau, Iraque, Israel, Jordânia, Cazaquistão, Kuwait, Quirguizistão, Líbano, Libéria, Líbia, Madagascar, Malaui, Mali, Mayotte, Moldávia, Mongólia, Montenegro, Marrocos, Nova Caledônia, Níger, Omã, Paquistão, Autoridade Palestina, Catar, República da Macedônia (ARIM), Reunião, Arábia Saudita, Sérvia, Seicheles, Serra Leoa, Somália, África do Sul, Tajiquistão, Togo, Tunísia, Turquia, Turquemenistão, Ucrânia, Emirados Árabes Unidos, Uzbequistão, Iêmen, Zimbábue. 

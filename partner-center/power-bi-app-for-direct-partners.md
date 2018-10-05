@@ -4,12 +4,12 @@ description: Instale o aplicativo do Partner Center para Power BI.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 69250785b9ab27dc0aa41c28c0ef84667506aeaf
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: cba33fde9095850af24f857e4bec84abb83607df
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875166"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377638"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Aplicativo Análise do Partner Center para Power BI (parceiros diretos no CSP)
 
@@ -19,8 +19,8 @@ ms.locfileid: "2875166"
 
 Obtenha uma representação visual de seus dados corporativos com o aplicativo de análise do Partner Center para Power BI. O aplicativo, projetado para parceiros diretos no programa Cloud Solution Provider (CSP), conectado à estrutura familiar do Power BI. 
 
->**Observação**<br>
-Você é um parceiro direto se você fizer negócios diretamente com a Microsoft e com os clientes. 
+> [!NOTE]  
+> Você é um parceiro direto se você fizer negócios diretamente com a Microsoft e com os clientes. 
 
 Instale o aplicativo para obter exibições gráficas de: 
 

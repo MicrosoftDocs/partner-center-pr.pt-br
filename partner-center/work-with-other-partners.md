@@ -3,12 +3,12 @@ title: Trabalhar com outros parceiros | Partner Center
 description: Trabalhe com outros parceiros no CSP para atender às necessidades dos clientes que você compartilha.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: bab729b1a9021d095566395048a4eb7fa3c8d7f8
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7bac4fd3fa01495125aa054c90b79cc777455f98
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877096"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377688"
 ---
 # <a name="work-with-other-partners"></a>Trabalhar com outros parceiros
 
@@ -48,6 +48,6 @@ O recurso de multi-canal do Partner Center oferece suporte a cenários quando um
 
 O suporte multi-canal também está disponível nas ofertas de nuvem nacionais da Microsoft.
 
->**Importante**<br>
-Um parceiro no CSP não pode revender serviços on-line a outro parceiro atualmente no CSP. A Microsoft revisa continuamente as políticas e competências de todos os programas. Quaisquer anúncios sobre as versões de recurso serão anunciados por meio dos canais de comunicação normais, incluindo o Partner Center. 
+> [!IMPORTANT]  
+> Um parceiro no CSP não pode revender serviços on-line a outro parceiro atualmente no CSP. A Microsoft revisa continuamente as políticas e competências de todos os programas. Quaisquer anúncios sobre as versões de recurso serão anunciados por meio dos canais de comunicação normais, incluindo o Partner Center. 
 

@@ -3,12 +3,12 @@ title: Partner Center do Microsoft Cloud Alemanha | Partner Center do Microsoft 
 description: O Partner Center do Microsoft Cloud Alemanha é o portal de negócios para parceiros da Microsoft que querem oferecer soluções na nuvem da Microsoft para clientes em países da UE e da EFTA. o Microsoft Cloud Alemanha garante que os dados do seu cliente residem na Alemanha e um objeto de confiança de dados alemão designado controla o acesso a eles. Os clientes comerciais da UE (União Europeia) e da EFTA (Associação Europeia de Livre Comércio) podem armazenar e gerenciar dados do cliente em conformidade com as leis e os regulamentos alemães aplicáveis, bem como as principais normas internacionais. A Microsoft não pode acessar dados do cliente sem a aprovação e a supervisão do cliente ou do objeto de confiança de dados alemão.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f1640281ee3f14c266d33da54a17aa1968d3fbc
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 53d0b70d8123369f631dc03e139a58432a455528
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876336"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377578"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Partner Center do Microsoft Cloud Alemanha
 
@@ -28,8 +28,8 @@ Consulte a [Folha de dados do Microsoft Cloud Alemanha](http://download.microsof
 
 Depois de se registrar no programa CSP (Provedor de Solução na Nuvem) do Microsoft Cloud Alemanha, você usará o Partner Center para vender soluções na nuvem específicas da Alemanha e serviços para clientes em países/regiões da união Europeia e da EFTA. 
 
->**Observação**<br>
-No momento em que este artigo foi publicado, os seguintes recursos do Partner Center ainda não estavam disponíveis no Partner Center do Microsoft Cloud Alemanha (desde a publicação, alguns recursos podem ter sido adicionados ao Partner Center e esta lista pode estar desatualizada):
+> [!NOTE]  
+> No momento em que este artigo foi publicado, os seguintes recursos do Partner Center ainda não estavam disponíveis no Partner Center do Microsoft Cloud Alemanha (desde a publicação, alguns recursos podem ter sido adicionados ao Partner Center e esta lista pode estar desatualizada):
 
 - Localizar um parceiro
 - Perfis de negócios

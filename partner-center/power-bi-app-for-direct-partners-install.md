@@ -4,12 +4,12 @@ description: Siga as etapas abaixo para visualizar o aplicativo de análise do P
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0164a650fb92e4a445b195f3e7b34f1359759a8c
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8dd91d16ffe5e49271dd3c5fe50e8910299f1a1c
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874756"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377508"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instale e visualize o aplicativo de análise do Partner Center para Microsoft Power BI
 
@@ -39,7 +39,8 @@ Antes de instalar a versão de visualização do aplicativo análises do Partner
 
 4.  Na janela pop-up **Conectar-se a análise do Partner Center**, certifique-se de que o **Método de autenticação** esteja definido como **oAuth2** ou selecione **oAuth2** da lista, se não estiver. 
 
-    >**Observação**<br> Esta janela pode demorar alguns minutos para aparecer.
+    > [!NOTE]  
+>  Esta janela pode demorar alguns minutos para aparecer.
 
 5.  Na página **Conector de análises do Partner Center**, faça logon com as credenciais de administrador global, agente administrador ou administrador de cobrança de locatário do Azure AD da sua empresa, e, em seguida, selecione **Conecte-se**.
  

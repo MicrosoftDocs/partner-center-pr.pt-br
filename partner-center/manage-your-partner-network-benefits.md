@@ -4,12 +4,12 @@ description: Como um membro do Microsoft Partner Network, você está qualificad
 author: MaggiePucciEvans
 keywords: MPN, benefícios da associação, associação
 ms.localizationpriority: medium
-ms.openlocfilehash: 2518cc915b658a74372cd34b02e96bbbc1991aa0
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 5b79073435715c91a6c77da266ec3420c139d8e3
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876906"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377718"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gerencie seus benefícios de associação ao Microsoft Partner Network
 
@@ -70,8 +70,8 @@ Para exibir e gerenciar seus benefícios de associação, acesse a [**página Be
 
 3. Para ativar uma assinatura do Visual Studio, selecione um usuário na lista e, em seguida, selecione **Atribuir usuário**. 
 
-    >**Importante**<br>
-Se o usuário que deseja atribuir não estiver na lista, você poderá [adicionar novos usuários](create-user-accounts-and-set-permissions.md) em **Configurações da conta**.
+> [!IMPORTANT]  
+> Se o usuário que deseja atribuir não estiver na lista, você poderá [adicionar novos usuários](create-user-accounts-and-set-permissions.md) em **Configurações da conta**.
 
 3. Repita esse processo para cada assinatura que desejar atribuir. Os usuários podem gerenciar suas assinaturas no portal do Visual Studio. 
 

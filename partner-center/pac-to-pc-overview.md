@@ -4,12 +4,12 @@ description: A funcionalidade Centro de Administração do Parceiro do Office 36
 author: labrenne
 Keywords: PAC,Office 365 Advisor, advisor, syndication partner, PAC retire, PAC retiring
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d60be7349754a7200a0b8d9762a37a940e0eebb
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: dd0b3e73939f9992e32aa64571ef3fd99a61ef37
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875586"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377588"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-dashboard"></a>O Centro de Administração do Parceiro está mudando para o Painel de Parceiros
 
@@ -17,7 +17,8 @@ ms.locfileid: "2875586"
 
 -  Partner Center
 
->**Observação:** todas as datas foram atualizadas desde a postagem inicial deste artigo.
+> [!NOTE]  
+>  Todas as datas foram atualizadas desde a postagem inicial deste artigo.
 
 O PAC (Centro de Administração do Parceiro) do Office 365 está migrando para o Painel de Parceiros da Microsoft.
 
@@ -36,7 +37,8 @@ Durante abril de 2018, o PAC será desativado e os parceiros do CSP começarão 
 
 Comece a usar [o Painel de Parceiros da Microsoft](https://partnercenter.microsoft.com/) agora para se preparar para a mudança do PAC.  Você usará credenciais iguais às do PAC no Painel de Parceiros. 
 
->**IMPORTANTE** Alguns recursos e funções que estavam disponíveis no PAC não estarão disponíveis no Painel de Parceiros.
+> [!IMPORTANT]  
+> Alguns recursos e funções que estavam disponíveis no PAC não estarão disponíveis no painel de parceiros.
 
  Leia a [Comparação lado a lado](moving-from-pac-to-pc.md) para entender e familiarizar-se com essas alterações.  Você encontrará informações adicionais sobre o gerenciamento de contas, o gerenciamento de clientes, as licenças e assinaturas, os preços e ofertas e mais na [Ajuda do Painel de Parceiros da Microsoft](https://partnercenter.microsoft.com/partner/help).
 

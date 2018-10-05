@@ -4,12 +4,12 @@ description: Recursos para expandir seus negócios de parceiro da Microsoft. Inc
 keywords: indicações, responder às indicações, clientes em potencial, oportunidades de vendas, perfil de marketing, perfil de negócios, expandir seus negócios, oportunidades de negócios, competências, afiliação silver, afiliação gold, ofertas de avaliação, expansão de mercado, nuvens nacionais
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: cf1244e7671b53c3aa813f493cd7b9bdf90c24d5
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e84d24f398fb63e6fe8749ff4112866c4cf75b26
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876446"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377438"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Expandir seus negócios de parceiro da Microsoft 
 
@@ -23,7 +23,8 @@ Use o Partner Center para:
 -   Oferecer preços promocionais de produtos da Microsoft (parceiros CSP)
 -   Vender em mercados adicionais (parceiros CSP)
 
->**Observação** Sua empresa deve estar registrada no Microsoft Partner Network e ter uma conta do Partner Center para tirar proveito desses recursos. Consulte [Ingressar no Microsoft Partner Network](mpn-overview.md) para obter informações sobre como ingressar na rede. Para alguns recursos, você também deve ser um revendedor no programa CSP (Provedor de Soluções na Nuvem). Consulte [visão geral do Provedor de Soluções na Nuvem](csp-overview.md) para obter informações sobre como vender por meio deste programa.
+> [!NOTE]  
+>  Sua empresa deve ser registrada no Microsoft Partner Network e ter uma conta do Partner Center para tirar proveito desses recursos. Consulte [Ingressar no Microsoft Partner Network](mpn-overview.md) para obter informações sobre como ingressar na rede. Para alguns recursos, você também deve ser um revendedor no programa CSP (Provedor de Soluções na Nuvem). Consulte [visão geral do Provedor de Soluções na Nuvem](csp-overview.md) para obter informações sobre como vender por meio deste programa.
 
 ## <a name="resources-to-help-your-business-grow"></a>Recursos para ajudar seus negócios a se expandirem
 

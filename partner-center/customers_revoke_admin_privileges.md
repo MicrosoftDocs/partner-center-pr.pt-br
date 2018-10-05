@@ -2,14 +2,14 @@
 title: Os clientes delegam privilégios administrativos para parceiros | Partner Center
 description: Como um parceiro revendedor, seu cliente pode delegar você para ser seu administrador. Eles também podem remover privilégios.
 author: labrenne
-keywords: privilégios de administrador delegado, administrador em nome de, remover privilégios, DAP, AOBO
+keywords: privilégios de administrador, administrador em nome de, remover privilégios, DAP, AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 8a6d14398bdd9a439bc001ecb3d03bc9d7774937
-ms.sourcegitcommit: 3478fc6fe1a061e5973307fffd039b4bee5d8e1c
+ms.openlocfilehash: 77613468d03d62d1eb8a42e8bc9288458461166d
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/08/2018
-ms.locfileid: "3806674"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377428"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>Os clientes delegam privilégios administrativos para parceiros
 
@@ -37,20 +37,20 @@ Para gerenciar um serviço ou inscrição de cliente em seu nome, o cliente deve
 6.  Para gerenciar a conta do cliente, serviços, usuários e licenças, expanda o registro do cliente, selecionando a seta para baixo perto de seu nome e, em seguida, selecione o portal do administrador para o serviço que você deseja gerenciar.
 
 
->**Importante**<br>
-Os clientes podem reatribuir ou remover permissões de administrador no portal do administrador do serviço. No entanto, a menos e até que você renegocie seu contrato com o cliente, você continua a ser responsável por fornecer suporte ao cliente e por aderir aos termos do Contrato de revendedor de soluções de Nuvem da Microsoft, mesmo depois de um cliente reatribuir ou remover permissões de administrador. Nessa situação, se o cliente precisar de Ajuda, contate o suporte da Microsoft para abrir uma solicitação de serviço em nome do cliente.
+> [!IMPORTANT]  
+> Os clientes podem reatribuir ou remover permissões de administrador no portal do administrador do serviço. No entanto, a menos e até que você renegocie seu contrato com o cliente, você continua a ser responsável por fornecer suporte ao cliente e por aderir aos termos do Contrato de revendedor de soluções de Nuvem da Microsoft, mesmo depois de um cliente reatribuir ou remover permissões de administrador. Nessa situação, se o cliente precisar de Ajuda, contate o suporte da Microsoft para abrir uma solicitação de serviço em nome do cliente.
 
 Os clientes podem saber quais de seus parceiros têm privilégios de administrador para seu locatário no portal de administração do Office 365. Para fazer isso:
 
-1. O cliente precisa fazer logon no portal de administração do Office 365, como um Administrador Global.
+1. O cliente precisa fazer logon no portal de administração do Office 365 como um Administrador Global.
 
 2. Selecione **Configurações** → **Relações de parceiro**.
 
-3. Na página **relações de parceiro** , o cliente verá uma lista de parceiros com quem eles funcionam e aqueles que receberam privilégios de administração para seu locatário.
+3. Na página **relações de parceiro** , o cliente verá uma lista dos parceiros com quem eles funcionam e aqueles que receberam privilégios de administrador delegado para seu locatário.
 
 ## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>Os clientes podem gerenciar os privilégios de administrador delegado de um parceiro 
 
-O cliente pode optar por remover seus privilégios de administrador delegado do seu locatário, mas manter o relacionamento com você para fins de renovação de licença e assinatura. Os clientes gerenciam direitos e permissões para suas contas do Office 365 na página **Relações de parceiro** no centro de administração do Office 365. Nessa página, os clientes podem:
+Seu cliente pode optar por remover seus privilégios de administrador delegado do locatário, mas manter o relacionamento com você para fins de renovação de licença e assinatura. Os clientes gerenciam direitos e permissões para suas contas do Office 365 na página **Relações de parceiro** no centro de administração do Office 365. Nessa página, os clientes podem:
 
 - Ver com quais parceiros eles têm uma relação e quais parceiros têm privilégios de administrador
 
@@ -62,8 +62,8 @@ Para remover os privilégios de administrador delegado de um parceiro:
 2. No painel de detalhes, selecione **Remover administrador delegado**.
 3. No painel de confirmação, selecione **Remover**.
 
->**Importante**<br>
-As atribuições de função do Azure AD para o parceiro são implícitas. Se você tentar listar os membros das funções do Azure AD usando o Portal do Azure AD/PowerShell/Graph, o parceiro não será retornado. Para descobrir se os parceiros estão atribuídos a funções do Azure AD, você deve consultar a página Relações de parceiro no Portal de Administração do Office 365 para saber se privilégios de administração delegada foram concedidos ao parceiro ou não.
+> [!IMPORTANT]  
+> As atribuições de função do Azure AD para o parceiro são implícitas. Se você tentar listar os membros das funções do Azure AD usando o Portal do Azure AD/PowerShell/Graph, o parceiro não será retornado. Para descobrir se os parceiros estão atribuídos a funções do Azure AD, você deve consultar a página Relações de parceiro no Portal de Administração do Office 365 para saber se privilégios de administração delegada foram concedidos ao parceiro ou não.
 
 ## <a name="delegated-admin-privileges-in-azure-ad"></a>Privilégios de administração delegada no Azure AD 
 
@@ -91,7 +91,7 @@ Cada assinatura do Azure tem seu próprio conjunto de funções de gerenciamento
 
 No painel de parceiros, os parceiros CSP podem gerenciar perfis Autopilot para seus clientes sem privilégios de administrador. Saiba como [Simplificar a configuração dos dispositivos com o Windows Autopilot.](https://docs.microsoft.com/partner-center/autopilot)
 
-Você pode fazer depende em qual modelo CSP, você está inscrito no.
+O que você pode fazer depende em qual modelo CSP, você está inscrito no.
 
 |**Operação**   |**Parceiro de cobrança direta e provedor indireto**   |**Revendedor indireto**   |
 |-----------------|-----------------------------------| -----------------------------|
@@ -109,7 +109,8 @@ Você pode fazer depende em qual modelo CSP, você está inscrito no.
 
 - Você não pode gerenciar dispositivos que o cliente tiver adicionado por meio do Microsoft Store para empresas, a Microsoft Store para educação ou o Portal do Microsoft Intune.
 
->**Importante** A experiência de gerenciamento Autopilot atual no painel pode continuar a alterar. No momento em que este artigo foi publicado, as seguintes alterações estão sendo consideradas:
+> [!IMPORTANT]  
+> A experiência de gerenciamento Autopilot atual no painel pode continuar a alterar. No momento em que este artigo foi publicado, as seguintes alterações estão sendo consideradas:
 
   - O parceiro deve receber privilégios de administração delegada do cliente para que o parceiro possa adicionar ou atualizar/remover perfis e aplicar/remover o perfil de qualquer dispositivo no locatário do cliente.
 
