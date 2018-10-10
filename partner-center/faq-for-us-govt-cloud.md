@@ -3,12 +3,12 @@ title: Perguntas frequentes sobre o Partner Center para Microsoft Cloud for US G
 description: Use estas perguntas frequentes para saber mais sobre o programa CSP (Provedor de Soluções na Nuvem) do Microsoft Cloud for US Government. Você também pode entrar em contato com seu gerente de conta para obter informações adicionais.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e2a90125a294959f927b39aa694e8a148deec3f7
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 917731fa0cc8148e3c542d612776b18507e6b11d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876346"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490212"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Perguntas frequentes para o Partner Center do Microsoft Cloud for US Government
 
@@ -23,7 +23,7 @@ Use estas perguntas frequentes para saber mais sobre o programa CSP (Provedor de
 ### <a name="common"></a>Comum
 **O que é o Microsoft Cloud para o Governo dos Estados Unidos?**
 
-Projetado para o governo dos Estados Unidos desde o início, Microsoft Cloud para o governo dos Estados Unidos permite que os clientes do setor público nos Estados Unidos — de grandes agências federais a governos de cidades pequenas — selecionem dentre uma variedade de serviços de computação em nuvem. Para melhor atender às necessidades específicas de seus clientes, a Microsoft fez investimentos significativos em datacenters e dedica-se a estar em conformidade com as políticas estaduais e federais, exigências e requisitos dos EUA. 
+Projetado para governo dos Estados Unidos desde o início, Microsoft Cloud para o governo dos Estados Unidos permite que os clientes do setor público nos Estados Unidos — de grandes agências federais a governos de cidades pequenas — selecionem dentre uma variedade de serviços de computação em nuvem. Para melhor atender às necessidades específicas de seus clientes, a Microsoft fez investimentos significativos em datacenters e dedica-se a estar em conformidade com as políticas estaduais e federais, exigências e requisitos dos EUA. 
 
 **Quem está qualificado para o programa CSP do Microsoft Cloud para o governo dos Estados Unidos?**
 
@@ -105,7 +105,7 @@ Não. Os critérios de cobrança e os requisitos do Programa CSP do Microsoft Cl
 
 **Para os dados hospedados em datacenters comerciais, é possível mudar para o Microsoft Cloud para o Governo dos Estados Unidos?**
 
-Para facilitar e manter a integridade do isolamento do Microsoft Cloud for US Government, não há nenhum mecanismo para transferir os serviços existentes do cliente para o Microsoft Cloud for US Government. Se um cliente ou parceiro tiver o Azure, ele será responsável por qualquer movimentação de dados para um novo ambiente no Microsoft Cloud para o Governo dos Estados Unidos.
+Para facilitar e manter a integridade do isolamento do Microsoft Cloud for US Government, não há nenhum mecanismo para transferir serviços existentes do cliente para Microsoft Cloud for US Government. Se um cliente ou parceiro tiver o Azure, ele será responsável por qualquer movimentação de dados para um novo ambiente no Microsoft Cloud para o Governo dos Estados Unidos.
 
 
 ### <a name="microsoft-cloud-for-us-government-for-azure"></a>Microsoft Cloud for US Government para o Azure
@@ -116,7 +116,7 @@ A nuvem do Azure Governamental oferece uma plataforma de nuvem construída com o
 
 **O programa CSP do Microsoft Cloud para o Governo dos Estados Unidos oferece todos os serviços do Azure?**
 
-Já estão disponíveis a Infraestrutura como Serviço (IaaS), a plataforma fundamental e os serviços de dados. O mapa é atualizado periodicamente e providenciamos documentação semelhante à documentação do CSP Comercial no painel do Partner Center (a autenticação é necessária). Você pode examinar os Serviços do Azure Governamental atualmente disponíveis aqui, mas observe que alguns serviços, como os serviços de computação, rede, armazenamento e serviços de nuvem clássicos não são projetados para funcionar e não funcionam com o CSP.
+Já estão disponíveis a Infraestrutura como Serviço (IaaS), a plataforma fundamental e os serviços de dados. O mapa é atualizado de forma contínua e Providenciamos documentação semelhante à documentação do CSP comercial do Partner Center (autenticação obrigatória). Você pode examinar os Serviços do Azure Governamental atualmente disponíveis aqui, mas observe que alguns serviços, como os serviços de computação, rede, armazenamento e serviços de nuvem clássicos não são projetados para funcionar e não funcionam com o CSP.
 
 **O que é necessário fazer para desenvolver com o programa CSP do Microsoft Cloud para o Governo dos Estados Unidos?**
 
@@ -127,7 +127,7 @@ Para saber mais sobre o desenvolvimento com o Partner Center para o Microsoft Cl
 As APIs e os requisitos de integração do programa CSP do Microsoft Cloud para o Governo dos Estados Unidos são idênticos aos do CSP Comercial. Para saber mais sobre pontos de extremidade no Microsoft Cloud para o governo dos Estados Unidos, consulte [URLs REST do Partner Center](https://msdn.microsoft.com/library/partnercenter/mt490977.aspx).
 
 >[!NOTE]
->As APIs CREST não estarão disponível para o programa CSP para Microsoft Cloud for US Government. Essas APIs estão sendo preteridas no CSP e, portanto, não estarão disponíveis no Microsoft Cloud para o Governo dos Estados Unidos. Para atender aos requisitos regulatórios e de conformidade, as seguintes APIs não estarão disponíveis no programa CSP do Microsoft Cloud para o Governo dos Estados Unidos:
+>As APIs CREST não estarão disponível para o programa CSP do Microsoft Cloud for US Government. Essas APIs estão sendo preteridas no CSP e, portanto, não estarão disponíveis no Microsoft Cloud para o Governo dos Estados Unidos. Para atender aos requisitos regulatórios e de conformidade, as seguintes APIs não estarão disponíveis no programa CSP do Microsoft Cloud para o Governo dos Estados Unidos:
 
 **Gerenciamento de contas de usuário** 
 
@@ -173,7 +173,7 @@ Use os seguintes links para se familiarizar com o programa CSP e saber mais sobr
 
 **Onde posso tirar outras dúvidas?**
 
-Contate seu gerente de conta para obter informações adicionais. Além disso, participe de nosso grupo do Yammer específico do [CSP para o Azure Governamental](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all).
+Para obter informações adicionais, entre em contato com seu gerente de conta. Além disso, participe de nosso grupo do Yammer específico do [CSP para o Azure Governamental](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all).
 
 
 

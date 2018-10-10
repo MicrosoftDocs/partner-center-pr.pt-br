@@ -5,12 +5,12 @@ ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 keywords: migrar provedores, provisionamento, conta de locatário, consolidar locatários
 ms.localizationpriority: medium
-ms.openlocfilehash: 7301786b62169da72f52cf26dd4ad8c755367ff4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b5506927a8786665c55e6e68b2f81bdc6cdf73c1
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875976"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489662"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidação de locatários de autorização regional do CSP
 
@@ -31,14 +31,14 @@ Use estas instruções para consolidar locatários para países/regiões diferen
 ## <a name="prepare-for-migration"></a>Preparar para a migração
 
 
--   Entre no seu **Painel** com a conta de **Transição** (existente) (da qual será feita a transição) e anote todos os clientes e todos os serviços provisionados para esses clientes.
+-   Entre no seu **Partner Center** com a conta de **transição** (existente) (da qual será feita a transição) e anote todos os clientes e todos os serviços provisionados para esses clientes.
 
 ![lista de clientes regionais](images/regionalcustomer1.png)
 
 ## <a name="migrate-customer-accounts"></a>Migrar contas de clientes
 
 
-1.  Entre no seu **Painel** com a conta de **Transição** (nova) conta (aquela para a qual está sendo feita a transição) e navegue até a lista Clientes de **Clientes**.
+1.  Entre no seu **Partner Center** com a **transição** (nova) conta (aquela que está fazendo a transição em) e navegue até a lista de clientes de **clientes**.
 
 2.  Selecione Clientes.
 
@@ -55,7 +55,7 @@ Os clientes aparecerão na lista de clientes do parceiro após o envio do contra
 
 1.  Depois que o cliente assinar o contrato, você poderá recriar as assinaturas dele em seu locatário parceiro centralizado.
 
-2.  No **Painel**, selecione **Clientes**.
+2.  No **Partner Center** , selecione **os clientes**.
 
 3.  Abra o nome da empresa do cliente que você deseja migrar.
 
@@ -82,7 +82,7 @@ Antes de prosseguir para a próxima seção, certifique-se de que todas as assin
 
 Desabilitar a assinatura de CSP sob as contas de parceiros de **destino da transição** impede qualquer cobrança futura. Você não precisa desabilitar manualmente as assinaturas do Azure, elas são desativadas automaticamente durante o processo de migração.
 
-1.  Entre no **Painel** com a conta CSP de **Origem da Transição** e navegue até a lista de clientes.
+1.  Entrar no **Partner Center** com a conta de CSP **Origem da transição** e navegue até a lista de clientes.
 
 2.  Abra o cliente com assinaturas para desabilitar e, em seguida, selecione a primeira oferta a ser desabilitada.
 3.  Defina a assinatura como **suspensa** e clique em **enviar**.
@@ -130,7 +130,7 @@ Observe que assinaturas de CSP baseadas em uso do Azure não precisam ser migrad
 
 Usando a **função Exportar**, você pode capturar as assinaturas que serão usadas em sua nova estrutura consolidada:
 
-1.  Clique em **Clientes** em seu painel para ver a lista de clientes em sua estrutura existente.
+1.  Clique em **clientes** no Partner Center para ver a lista de clientes em sua estrutura existente.
 
 2.  Abra o nome do cliente desejado.
 

@@ -4,12 +4,12 @@ description: A Microsoft apresenta o Dynamics 365, a mais nova geração de apli
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8a8aaf2591b6a67114da7d2226dde7bf94dd06b0
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f5e03825226171b8002b260e1b00a59a5eb53ebb
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876296"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489782"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrar assinaturas do Dynamics AX para o Dynamics 365
 
@@ -78,7 +78,7 @@ O revendedor precisa migrar o cliente com uma assinatura existente do Dynamics A
 
 **Comprar a nova assinatura**
 
-1.  No menu **Painel**, selecione **Clientes**, selecione o cliente para o qual você deseja fazer a migração e escolha **Adicionar Assinaturas**.
+1.  No menu **Partner Center** , selecione **os clientes**, selecione o cliente que você deseja mover e escolha **Adicionar assinaturas**.
 2.  Selecione a assinatura que deseja comprar no catálogo (nesse caso, Dynamics 365 for Operations, Enterprise Edition), insira o número de licenças e escolha **Enviar**.
 
     Agora seu cliente deve ter assinaturas novas e antigas: neste exemplo, o antigo Dynamics AX Enterprise, e a nova assinatura de "destino", Dynamics 365 for Operations, Enterprise Edition.
@@ -87,7 +87,7 @@ O revendedor precisa migrar o cliente com uma assinatura existente do Dynamics A
 
 **Reatribuir licenças de usuário**
 
-1.  No menu **Painel**, selecione **Clientes**, selecione o cliente para o qual deseja fazer a migração e escolha **Usuários e licenças**. A página Usuários e Licenças do cliente será aberta.
+1.  No menu **Partner Center** , selecione **os clientes**, selecione o cliente que você deseja mover e escolha **os usuários e licenças**. A página Usuários e Licenças do cliente será aberta.
 2.  Para reatribuir licenças de usuário, selecione o usuário a ser reatribuído e selecione **Gerenciar licenças**.
 3.  Na página **Gerenciar licenças**, desmarque a caixa de seleção da licença **Dynamics AX Enterprise** e selecione a licença **Dynamics 365 for Operations**.
 4.  Selecione **Enviar**. Uma página de confirmação lista as novas atribuições de licença.
@@ -97,7 +97,7 @@ O revendedor precisa migrar o cliente com uma assinatura existente do Dynamics A
 
 **Cancelar a assinatura antiga**
 
-1.  No menu **Painel**, selecione **Clientes**, selecione o cliente para o qual você deseja fazer a migração e a assinatura que deseja cancelar.
+1.  No menu **Partner Center** , selecione **os clientes**, selecione o cliente que você deseja mover e selecione a assinatura que deseja cancelar.
 2.  Na página de detalhes da assinatura, defina o **Status** da assinatura para **Suspensa**.
 3.  Selecione **Enviar**.
 

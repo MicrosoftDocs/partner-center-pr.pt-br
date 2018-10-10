@@ -4,12 +4,12 @@ description: Em alguns casos, os clientes talvez queiram contratar você para pr
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a10d766f9b9f92a26e0c247b3a20dfab1fb50fe
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 6706d8326de77da1ccfb952d39c294f271b3d3ef
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377478"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489412"
 ---
 # <a name="multi-channel-support"></a>Suporte multi-canal
 
@@ -19,7 +19,7 @@ ms.locfileid: "4377478"
 -  Partner Center for Microsoft Cloud for US Government
 -  Partner Center for Microsoft Cloud Germany
 
-O recurso multicanal do Painel de Parceiros oferece suporte a cenários em que um cliente quer realizar a contratação de um parceiro para gerenciar e dar suporte a uma assinatura que ele comprou em outro lugar. O suporte multi-canal se aplica quando o cliente:
+Recurso de vários canais do Partner Center oferece suporte a cenários quando um cliente quiser contratar um parceiro para gerenciar e dar suporte a uma assinatura que eles compraram em outro lugar. O suporte multi-canal se aplica quando o cliente:
 
 -   Já tiver comprado assinaturas da Microsoft diretamente ou através dos programas Advisor, Open ou EA.
 
@@ -47,7 +47,7 @@ O recurso multicanal do Painel de Parceiros oferece suporte a cenários em que u
 </table>
 
 > [!IMPORTANT]  
-> Um parceiro CSP não revende serviços online para outro parceiro CSP no momento. A Microsoft examina continuamente as políticas e os recursos de todos os programas. Quaisquer anúncios sobre as versões de recurso serão anunciados por meio dos canais de comunicação normais, incluindo o Painel de Parceiros. 
+> Um parceiro CSP não revende serviços online para outro parceiro CSP no momento. A Microsoft examina continuamente as políticas e os recursos de todos os programas. Quaisquer anúncios sobre as versões de recurso serão anunciados por meio dos canais de comunicação, incluindo o Partner Center. 
 
 ## <a name="see-also"></a>Veja também
 

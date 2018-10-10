@@ -4,12 +4,12 @@ description: Avaliar, negociar e responder a indicações por meio do Partner Ce
 author: KPacquer
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: def007588180904b929cd568b43a04548e574cd6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2eae340cdd0b2418b8498f69ea4fd17d76a30b58
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875356"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489332"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>Analisar a eficácia do seu perfil de negócios
 <!-- 
@@ -26,7 +26,7 @@ Depois de divulgar o [perfil de negócios](create-a-marketing-profile.md) da sua
 
 Quando [responder a essas referências](responding-to-referrals.md), você começará a obter dados sobre quantos desses RFIs são transformados em transações de negócios decisivas.
 
-Use esses relatórios ao refinar seus perfis de negócios para gerar mais clientes potenciais e mais clientes potenciais relevantes. Seus dados mostram o desempenho do perfil, analisam tendências e identificam as áreas que exigem ação. No Painel de Parceiros, vá até **Indicações > Páginas de marketing**.
+Use esses relatórios ao refinar seus perfis de negócios para gerar mais clientes potenciais e mais clientes potenciais relevantes. Seus dados mostram o desempenho do perfil, analisam tendências e identificam as áreas que exigem ação. No menu Partner Center, vá para **indicações > páginas de Marketing**.
 
 Esses relatórios mostram o desempenho dos perfis de negócios em todas as regiões. Os relatórios mostram os dados nos últimos 90 dias, agrupados por semanas.
 

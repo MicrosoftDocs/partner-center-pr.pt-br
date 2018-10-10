@@ -4,12 +4,12 @@ description: Nossos parceiros usam muitos métricas para avaliar se seus negóci
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 07061b8223001922b91e7d94b33340f7cd4a6aa1
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 8159d203a64632ff8802af5acdd1cb35a194a2ae
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377608"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489592"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Aumentar a adoção e a satisfação
 
@@ -29,11 +29,11 @@ Você pode ver dados de todos os seus clientes por meio do programa Provedor de 
 
 **Para um único cliente**
 
--   Selecione **Clientes** no menu **Painel**, escolha um cliente e, em seguida, selecione **Percepções do cliente**.
+-   **Os clientes** do **Partner Center**, escolha um cliente, selecione e **percepções do cliente**.
 
 **Em seu portfólio**
 
-1.  No **Painel**, selecione **Analisar**.
+1.  No **Partner Center**, selecione **Analisar**.
 2.  Baixe os dados de implantação e uso de todo o seu conjunto de clientes selecionando as opções de **exportação**.
 
 Terminologia:

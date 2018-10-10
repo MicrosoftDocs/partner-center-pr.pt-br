@@ -4,12 +4,12 @@ description: O catálogo lista todos os produtos e complementos da Microsoft dis
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 604bd206b8f80b990579a12fee019bf8a12689ca
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: ba9d9efd51d4b647e02e7f27b54e4259e90d782f
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874926"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488542"
 ---
 # <a name="customize-the-catalog"></a>Personalizar o catálogo
 
@@ -23,7 +23,7 @@ O catálogo lista os produtos e os complementos da Microsoft disponíveis para v
 
 **Personalizar o catálogo**
 
-1.  Vá para o menu Painel &gt; **Vender** &gt; **Catálogo**.
+1.  Vá para o menu Partner Center &gt; **vender** &gt; **catálogo**.
 2.  Escolha até cinco ofertas para mostrar na parte superior do catálogo.
 
  

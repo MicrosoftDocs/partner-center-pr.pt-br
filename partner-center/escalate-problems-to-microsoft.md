@@ -4,12 +4,12 @@ description: Espera-se que você resolva os problemas em nome de seus clientes.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ffb4a63384a4ee51b485d832ba847315573b633
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7edd9d68e1bf144f9e05d4e5d1243f77a73d721f
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876456"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489372"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Encaminhar problemas para a Microsoft
 
@@ -35,16 +35,16 @@ No entanto, há várias categorias de problemas que você precisa passar para a 
 
 ## <a name="submit-a-support-request"></a>Enviar uma solicitação de suporte
 
-1. No painel, selecione **os clientes**.
-2. Selecione o cliente que precisam de suporte.
+1. No Partner Center, selecione **os clientes**.
+2. Selecione o cliente que precisam do suporte.
 3. Selecione o **gerenciamento de serviços** e **solicitações de serviço**.
 4. Selecione **nova solicitação** e, em seguida, selecione **Microsoft Office 365**.
-5. É exibida para o portal do Office 365 em que você precisa entrar usando suas credenciais do painel de parceiros.
+5. É exibida para o portal do Office 365 em que você precisará entrar usando suas credenciais do Partner Center.
 6. Selecione o **suporte**, a **nova solicitação de serviço** no menu à esquerda.
 7. Selecione o tópico de suporte.
 
 >[!NOTE]
->É importante iniciar no painel para que o relacionamento entre parceiros e clientes é mantido. 
+>É importante iniciar a partir do Partner Center para que a relação entre parceiros e clientes é mantida. 
 
 
 Para obter informações sobre como relatar problemas em nome do cliente, consulte [relatar problemas em nome do cliente](report-problems-on-behalf-of-a-customer.md).

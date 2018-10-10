@@ -1,15 +1,15 @@
 ---
 title: Gerenciar seus benefícios do Microsoft Partner Network | Partner Center
-description: Como um membro do Microsoft Partner Network, você está qualificado para comprar certos benefícios de associação. Explica como ativar e gerenciar seus benefícios de associação no painel de parceiros.
+description: Como um membro do Microsoft Partner Network, você está qualificado para comprar certos benefícios de associação. Explica como ativar e gerenciar seus benefícios de associação no Partner Center.
 author: MaggiePucciEvans
 keywords: MPN, benefícios da associação, associação
 ms.localizationpriority: medium
-ms.openlocfilehash: 5b79073435715c91a6c77da266ec3420c139d8e3
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: a7cd65f2f846357ed9ae98def154bf8e8db94314
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377718"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489792"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gerencie seus benefícios de associação ao Microsoft Partner Network
 
@@ -18,12 +18,12 @@ ms.locfileid: "4377718"
 -  Partner Center
 
 >[!IMPORTANT]
->Este artigo explica como começar a usar os benefícios de associação ao MPN (Microsoft Partner Network) no painel de parceiros (anteriormente conhecido como Partner Center) – este site. Se ainda não recebeu um convite para mover as informações de sua empresa do PMC (Partner Membership Center) para o painel de parceiros, você deve continuar a gerenciar os benefícios de sua associação à MPN no PMC. [Entre](https://partner.microsoft.com/_login?authType=OpenIdConnect) no PMC agora.   
+>Este artigo explica como começar a usar o Microsoft Partner Network (MPN) benefícios de associação no Partner Center (anteriormente conhecido como Partner Center) - este site. Se você ainda não recebeu um convite para mover informações da sua empresa do Partner Membership Center (PMC) para o Partner Center, você deve continuar a gerenciar seus benefícios de associação MPN no PMC. [Entre](https://partner.microsoft.com/_login?authType=OpenIdConnect) no PMC agora.   
 
 Ingressando no MPN (Microsoft Partner Network), você obtém acesso a benefícios de associação que podem ajudá-lo a criar e desenvolver seus negócios. Se não for membro do MPN, você poderá ingressar no [site do MPN](https://partner.microsoft.com/membership).
 
 
-## <a name="manage-your-membership-benefits-in-the-dashboard"></a>Gerenciar os benefícios de sua associação no painel
+## <a name="manage-your-membership-benefits-in-the-partner-center"></a>Gerenciar seus benefícios de associação no Partner Center
 
 Após comprar um pacote de benefícios de associação, você precisará obter chaves de software e atribuir licenças, assinaturas e outros benefícios para os funcionários começarem a usá-los. 
 
@@ -89,9 +89,9 @@ Para exibir e gerenciar seus benefícios de associação, acesse a [**página Be
    
     a.  Selecione um usuário da lista. Se o usuário que deseja atribuir não estiver na lista, você poderá [adicionar novos usuários](create-user-accounts-and-set-permissions.md) em **Configurações da conta**.
 
-    b.  Forneça um endereço de email para o usuário que seja diferente do endereço de email associado à conta do painel de sua empresa. 
+    b.  Forneça um endereço de e-mail para o usuário que for diferente do endereço de e-mail associado à sua conta do Partner Center. 
     
-    Como medida de segurança, enviaremos instruções por email para acessar o Suporte ao Produto da Microsoft para esse endereço de email, além do email da conta do painel do usuário. Observe que pode levar vários dias para ativar esse benefício e as instruções de e-mail ao usuário atribuído.    
+    Como uma medida de segurança, enviaremos instruções por e-mail para acessar o suporte técnico da Microsoft nesse endereço de e-mail, além do e-mail da conta do usuário do Partner Center. Observe que pode levar vários dias para ativar esse benefício e as instruções de e-mail ao usuário atribuído.    
     
     c.  Após terminar de inserir o endereço de email alternativo, selecione **Atribuir usuário**. 
 

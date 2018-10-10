@@ -4,12 +4,12 @@ description: No Partner Center, você pode definir um orçamento mensal por clie
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e7fd895c3c8e0acda51fb79ab142a7723ecb227
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 6f6e0e733aed13174dcf4d318b522723bb425b30
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377468"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488952"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Definir um orçamento de gastos do Azure para seus clientes
 
@@ -33,23 +33,23 @@ Os dados de gastos do Azure são uma estimativa, os valores de cobrança reais p
 > Esse recurso não está disponível em área restrita ou teste em contas de produção (TIP).
 
 **Ativar as notificações de email**
-1.  No menu Painel, selecione **Gastos do Azure**.
+1.  No menu Partner Center, selecione **gastos do Azure**.
 2.  Ative a opção **Obter emails** para ser notificado quando seus clientes usarem 80% ou mais de seu orçamento. Isso ajudará você a ficar de olho na sua conta do Azure. Você pode alterar o endereço de email padrão para um pessoal ou qualquer outro email para receber notificações.
 
 **Defina um orçamento**
-1.  No menu Painel, selecione **Gastos do Azure**.
+1.  No menu Partner Center, selecione **gastos do Azure**.
 2.  Selecione os clientes para os quais você deseja definir um orçamento. 
 3. Insira um valor na caixa **Orçamento mensal** e selecione **Aplicar**.
 4.  Para verificar gastos atuais, retorne a essa página.
 5.  Orçamentos individuais também podem ser definidos em **Assinaturas baseadas no uso** em uma página de gerenciamento de cliente.
 
 **Remova um orçamento**
-1.  No menu Painel, selecione **Gastos do Azure**.
+1.  No menu Partner Center, selecione **gastos do Azure**.
 2.  Selecione os clientes na lista.
 3.  Selecione **Remover orçamento**.
 
 **Veja os custos discriminados**
-1.  No menu Painel, selecione **Clientes**.
+1.  No menu Partner Center, selecione **os clientes**.
 2.  Na lista de clientes, selecione um cliente.
 3.  Em sua página de gerenciamento de clientes, em **Assinaturas baseadas no uso**, escolha uma assinatura. Exiba sua utilização estimada atual e uma lista dos custos discriminados pelo serviço.
 

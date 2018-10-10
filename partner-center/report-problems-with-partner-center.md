@@ -4,12 +4,12 @@ description: Como relatar problemas com o Partner Center e coletar informações
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 373b233fda147f0d282a70322e04ce81e0b8d8a2
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: c7010f70ae6af549aab1a8f1affb926cf261d534
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875286"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489272"
 ---
 # <a name="report-problems-with-partner-center"></a>Relatar problemas com o Partner Center
 
@@ -19,11 +19,11 @@ ms.locfileid: "2875286"
 -  Partner Center for Microsoft Cloud for US Government
 -  Partner Center for Microsoft Cloud Germany
 
-Entre em contato com o Suporte do Painel de Parceiros se você encontrar problemas com o Painel de Parceiros, incluindo bugs ou interrupções de serviço.
+Suporte de contato Partner Center se você encontrar problemas com o Partner Center, incluindo bugs ou interrupções de serviço.
 
-**Relate problemas com o Painel de Parceiros**
+**Relatar um problema com o Partner Center**
 
-1.  Em seu **Painel de Parceiros**, selecione o ícone **Suporte** e selecione **Solicitações do Partner Center**.
+1.  No **Partner Center**, selecione o ícone de **suporte** e, em seguida, selecione **solicitações do Partner Center**.
 
 2.  Selecione **Nova solicitação**.
 
@@ -31,10 +31,10 @@ Entre em contato com o Suporte do Painel de Parceiros se você encontrar problem
 
 **Enviar diagnóstico**
 
-Se ocorrer um erro enquanto você estiver em uma página do Painel de Parceiros, talvez seja solicitado que você colete informações de log. Selecione a **coletar mais informações** no link que aparece na parte superior da página para abrir a ferramenta de diagnóstico de cliente. Essa ferramenta coleta informações que a equipe de suporte de parceiros precisa para determinar a causa do erro. 
+Se ocorrer um erro enquanto você estiver em uma página do Partner Center, você talvez seja solicitado a coletar informações de log. Selecione a **coletar mais informações** no link que aparece na parte superior da página para abrir a ferramenta Diagnóstico de cliente. Essa ferramenta coleta informações que a equipe de suporte de parceiros precisa para determinar a causa do erro. 
 
 >[!NOTE]
->Em páginas do Painel de Parceiros que incluem **/pcv/** na URL, você pode abrir a ferramenta manualmente para coletar essas informações.
+>Em páginas do Partner Center que incluem **/pcv/** na URL, você pode abrir a ferramenta manualmente para coletar essas informações.
 
 1.  Acesse a página que está com problema.
 

@@ -3,12 +3,12 @@ title: Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Clo
 description: Antes de se inscrever no programa Provedor de Soluções na Nuvem do Microsoft Cloud Alemanha, saiba mais sobre os requisitos do programa CSP.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: db996ad4fdfda05f190abdfe2028d5c8b023e40b
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 0ff6e0c0ecbf6ef67ae22f21dca25a0026ae0b59
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377648"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489622"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Cloud Alemanha
 
@@ -70,7 +70,7 @@ Para criar uma conta do Partner Center e se inscrever no CSP do Microsoft Cloud 
 O Microsoft Cloud Alemanha fornece uma instância separada do Microsoft Azure, entregue de datacenters alemães com uma rede dedicada operando dentro Alemanha. Para permitir que os administradores gerenciem usuários e licenças no portal do Azure Germany, você precisará atribuir manualmente a função de agente administrador a eles.
 
 > [!NOTE]  
-> Depois de atribuir os usuários para a função de agente administrador, o menu **Clientes** será exibido no menu Painel, e você poderá acessar a lista de clientes e [adicionar novos clientes](add-a-new-customer.md).   
+> Depois de atribuir os usuários à função de agente administrador, o menu de **clientes** aparecerão no menu Partner Center e você poderá acessar sua lista de clientes e [Adicionar novos clientes](add-a-new-customer.md).   
 
 1.  Entrar no portal do Azure Germany em https://portal.microsoftazure.de/.
 

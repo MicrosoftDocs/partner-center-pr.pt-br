@@ -5,12 +5,12 @@ ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
 keywords: pinpoint, indicações, oportunidades de venda, C2PC, perfil de negócios, comercializar sua empresa, localizar um parceiro, localizar um provedor de soluções, perfil de negócios, perfil de marketing
 ms.localizationpriority: medium
-ms.openlocfilehash: 61a38d6d0f4f56a980bf6bb8ef44be5f6ee6cd46
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 516e898ba6c18458bd85db9517031ca58fcfef8a
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377618"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489762"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -40,20 +40,20 @@ Para obter esses clientes em potencial, primeiramente você deve criar um perfil
 *  **Referências de vendas da Microsoft e funcionários de serviço**. Os clientes em potencial interessados na implantação de soluções de tecnologia com base em nuvem entram em contato com a Microsoft para ajudar a encontrar profissionais que podem atender às suas necessidades de negócios. Esses profissionais da Microsoft poderão então consultar os clientes em potencial para sua empresa.
 
 > [!IMPORTANT]  
-> Para ajudarmos nossos parceiros a simplificar as operações de negócios, estamos consolidando recursos e funcionalidades que costumavam estar espalhados por vários sites e ferramentas no Painel de Parceiros este site. Como parte desse esforço, movemos todos os recursos relacionados a indicações para o Painel de Parceiros e desativamos os sites Pinpoint e C2PC. Se você usava o Pinpoint ou o C2PC no passado para obter e gerenciar indicações da Microsoft, precisará criar um novo perfil de negócios no Painel de Parceiros para continuar a obter indicações. Nós não damos mais suporte a perfis desses sites. 
+> Para ajudarmos nossos parceiros a simplificar as operações de negócios, estamos consolidando recursos e funcionalidades que costumavam estar espalhados por vários sites e ferramentas no Partner Center, este site. Como parte desse esforço, movemos todos os recursos relacionados a indicações para o Partner Center e desativamos os sites Pinpoint e C2PC. Se você usava o Pinpoint ou o C2PC no passado para obter e gerenciar indicações da Microsoft, você precisará criar um novo perfil de negócios no Partner Center para continuar a obter indicações. Nós não damos mais suporte a perfis desses sites. 
 
 ## <a name="create-a-profile"></a>Criar um perfil
 
 > [!NOTE]  
->  Antes de criar um perfil de negócios, você deve ter uma conta do painel de parceiros. Se você ainda não tiver uma conta do Painel de Parceiros, consulte [Criar uma conta do Partner Center](mpn-create-a-partner-center-account.md) para obter ajuda para criar uma. 
+>  Antes de criar um perfil de negócios, você deve ter uma conta do Partner Center. Se você ainda não tiver uma conta do Partner Center, consulte [Criar uma conta do Partner Center](mpn-create-a-partner-center-account.md) para obter ajuda para criar uma. 
 
 Crie perfis para cada região na qual tenha autorização para fazer negócios. 
 
-1.  No menu **Painel**, selecione **Indicações** &gt; **Perfis de negócios** &gt; selecione um país/região > **[Criar um perfil de negócios](https://partnercenter.microsoft.com/pcv/publishing)**.
+1.  No menu **Partner Center** , selecione **indicações** &gt; **perfis de negócios** &gt; selecione um país/região > **[criar um perfil de negócios](https://partnercenter.microsoft.com/pcv/publishing)**.
 
 2.  Na página **Criar um perfil de negócios**, selecione uma região e então insira as informações do seu perfil.
     > [!NOTE]  
-    >  Embora o painel de parceiros oferece suporte a vários idiomas, alguns elementos, como a descrição e as marcas de forma livre, talvez precisem incluir texto de idiomas diferentes, como observado neste tópico.
+    >  Embora o Partner Center oferece suporte a vários idiomas, alguns elementos, como a descrição e as marcas de forma livre, talvez precisem incluir texto de idiomas diferentes, como observado neste tópico.
 
 ### <a href="" id="partner_info"></a>Informações do parceiro
 
@@ -99,7 +99,7 @@ Outras marcas usadas em pesquisa:
 
 É recomendável deixar essa configuração marcada. 
 
-Conforme demonstra sucesso com os clientes por meio do Painel de Parceiros, ou por meio da participação em outras certificações da Microsoft ou programas, adicionaremos automaticamente autenticações para seus produtos específicos, serviços e setores contribuindo para esse sucesso. Autenticações são um fator importante nos resultados da pesquisa.
+Conforme demonstra sucesso com os clientes por meio do Partner Center, ou participação em outras certificações da Microsoft ou programas, adicionaremos automaticamente autenticações para seus produtos específicos, serviços e setores contribuindo para esse sucesso. Autenticações são um fator importante nos resultados da pesquisa.
 
 No entanto, se existirem produtos para os quais você fornece serviços e que não deseja mostrá-los em seu perfil, é possível desmarcar essa caixa de seleção e gerenciar seu perfil manualmente. Essas autenticações ficarão ocultas na sua exibição de clientes, mas você pode adicioná-las ao seu perfil posteriormente a qualquer momento.
 

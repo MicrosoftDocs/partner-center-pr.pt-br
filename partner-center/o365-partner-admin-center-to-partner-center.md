@@ -3,12 +3,12 @@ title: 'Clientes do Office 365 Partner Admin Center: suas operações de negóci
 description: Principais considerações para clientes do Office 365 Partner Admin Center ao migrar para o Partner Center
 author: KPacquer
 ms.localizationpriority: medium
-ms.openlocfilehash: ebed2c963a85edad05440a4d5adb61eb25ceb097
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 6c482565f51ae42b0735832f0c305fc55150032b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876886"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489322"
 ---
 # <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Clientes do Office 365 Partner Admin Center: preparem-se para migrar as operações de negócios para o Partner Center
 
@@ -36,10 +36,10 @@ A conclusão de tarefas no Partner Center é feita de forma diferente do que voc
 | Recursos do Office 365 partner admin center                       | Onde está no Partner Center? | 
 |   -----------------------------------------------  | -------------- |
 | Construa seus negócios: Crie oferta de compra | Trabalhe com seu provedor para vender ofertas aos seus clientes |
-| Construa seus negócios: Solicite permissões de administrador delegado | Painel: Clientes > Solicite um relacionamento com revendedor |
+| Construa seus negócios: Solicite permissões de administrador delegado | Partner Center: Clientes > solicitar uma relação de revendedor |
 | Construa seus negócios: Crie convites de avaliação | Não está disponível. Você ainda pode usar o Office 365 partner admin center para isso |
-| Solicitações de serviço: Lista de cliente: Office 365 admin center | Painel: Clientes > Administre serviços |
-| Solicitações de serviço: Lista de cliente: Solicitações de serviço | Painel: Solicitação de serviço > Solicitações de cliente |
+| Solicitações de serviço: Lista de cliente: Office 365 admin center | Partner Center: Clientes > administrar serviços |
+| Solicitações de serviço: Lista de cliente: Solicitações de serviço | Partner Center: Solicitação de serviço > solicitações de cliente |
 | Solicitações de serviço: Sinalizado | Dasbhoard: Clientes: selecione a estrela ao lado do nome da empresa |
-| Solicitação de serviço > Administração do cliente > Admin em nome de (AOBO) | Painel: Clientes > selecione um cliente > selecione uma assinatura > selecione o revendedor de produto designado |
+| Solicitação de serviço > Administração do cliente > Admin em nome de (AOBO) | Partner Center: Clientes > selecione um cliente > selecione uma assinatura > selecione o revendedor de produto designado |
 

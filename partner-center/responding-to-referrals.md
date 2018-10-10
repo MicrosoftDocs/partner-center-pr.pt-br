@@ -4,12 +4,12 @@ description: Avaliar, negociar e responder a indicações por meio do Partner Ce
 author: KPacquer
 keywords: referência, RFI, localizar um parceiro
 ms.localizationpriority: medium
-ms.openlocfilehash: 70ba5b0afac8283806955410e57d459c849ed4f4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 4467a6404718a21d206980e77a9a84d7f77432dc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875416"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489452"
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>Respondendo a indicações no Partner Center
 
@@ -29,7 +29,7 @@ Comece configurando um [perfil de negócios](create-a-marketing-profile.md) para
 
 Quando um cliente está interessado em contatar você, ele vai enviar uma solicitação de informações (RFI). 
 
-Quando isso acontecer, enviaremos emails para o contato listado no [perfil de negócios](create-a-marketing-profile.md) específico à região e ao local selecionados. Você também pode ver RFIs recebidos no Partner Center: vá para **Painel > Indicações > Indicações de cliente**.
+Quando isso acontecer, enviaremos emails para o contato listado no [perfil de negócios](create-a-marketing-profile.md) específico à região e ao local selecionados. Você também pode ver RFIs recebidos no Partner Center: vá para **Partner Center > indicações > indicações de cliente**.
 
 Os clientes geralmente optam por enviar o mesmo RFI a várias empresas ao mesmo tempo. Para aumentar as suas chances de sucesso, recomendamos responder e aceitar ou recusar novas referências dentro de 24 horas ou menos.
 

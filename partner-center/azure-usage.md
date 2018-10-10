@@ -1,21 +1,21 @@
 ---
-title: Dimensionamento de VM do Microsoft Azure para uso máximo de reserva | Painel de parceiros
+title: Dimensionamento de VM do Microsoft Azure para uso máximo de reserva | Partner Center
 Description: Information on purchasing and managing Azure reservations
 author: v-petand
 keywords: azure, reservas, vm, gerenciar, uso, dimensionamento
 ms.localizationpriority: medium
-ms.openlocfilehash: bb7d022ba45462db313a9f4e16cc47e4550dbef6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 6279ff9e6ecd66af9eb320b2d72a1cdfaad4ccb4
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875776"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489612"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Dimensionamento de VM do Microsoft Azure para uso máximo de reserva do Azure 
 
 **Aplica-se a**
 
--  Painel de parceiros
+-  Partner Center
 -  Portal do Azure
 -  Parceiros no CSP
 
@@ -41,11 +41,11 @@ As instruções para o uso de cada um desses métodos estão listadas a seguir. 
 
 1.  Use o valor do atributo ServiceType desde additionalInfo na resposta da API para identificar o tamanho da VM a ser comprada. 
 
-2.  Para obter mais informações, consulte [obter registros de utilização de um cliente do Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) no [Painel de parceiros API](https://docs.microsoft.com/partner-center/develop/). 
+2.  Para obter mais informações, consulte [Obter registros de utilização de um cliente do Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) na [API do Partner Center](https://docs.microsoft.com/partner-center/develop/). 
 
 **Obter informações de dimensionamento de VM usando o portal do Microsoft Azure**
 
-1.  No painel de parceiros, vá para a página de **clientes** .
+1.  No Partner Center, vá para a página de **clientes** .
 
 2.  Encontre o cliente que deseja comprar reservas de VM do Azure e então selecione a seta para baixo para expandir as informações do cliente. Selecione **Portal de Gerenciamento do Microsoft Azure** para abrir o registro do cliente no portal do Azure. 
 
@@ -89,7 +89,7 @@ As instruções para o uso de cada um desses métodos estão listadas a seguir.
 
 ### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Verificar o uso de reserva do cliente no portal do Microsoft Azure
 
-1.  No painel de parceiros, vá para a página de **clientes** .
+1.  No Partner Center, vá para a página de **clientes** .
 
 2.  Encontre o cliente cujo desconto e uso de reserva você deseja verificar e então selecione a seta para baixo para expandir as informações do cliente. Selecione **Portal de Gerenciamento do Microsoft Azure** para abrir o registro do cliente no portal do Azure. 
 
@@ -130,8 +130,8 @@ Para obter mais informações, consulte [Obter registros de utilização de um c
 |**Para obter informações sobre**   |**Leia isto**    |
 |:-----------------------------|:-----------------|
 |Reservas do Azure na visão geral do CSP  | [Vender Instâncias de VM Reservadas do Microsoft Azure](azure-reservations.md)
-|Como comprar reservas do Azure para seus clientes no painel de parceiros   |[Comprar reservas do Azure](azure-reservations-buying.md)
-| Gerenciar reservas do Azure no painel de parceiros | [Gerenciar reservas do Azure no painel de parceiros](azure-reservations-manage.md)
+|Como comprar reservas do Azure para seus clientes no Partner Center   |[Comprar reservas do Azure](azure-reservations-buying.md)
+| Gerenciar reservas do Azure no Partner Center | [Gerenciar reservas do Azure no Partner Center](azure-reservations-manage.md)
 |Como comprar reservas do Azure no portal do Azure | [Pagar antecipadamente por máquinas virtuais com Instâncias de VM Reservadas do Azure](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) na Ajuda do Azure |
 |Como gerenciar reservas do Azure no portal do Azure   |[Gerenciar instâncias de VM reservadas](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) na Ajuda do Azure  |
 |Como comprar reservas do Azure usando a API do Partner Center | [Comprar Instâncias de VM Reservadas do Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) na documentação do desenvolvedor do Partner Center

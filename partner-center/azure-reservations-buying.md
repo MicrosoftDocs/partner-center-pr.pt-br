@@ -1,36 +1,36 @@
 ---
 title: Comprar reservas do Microsoft Azure em nome dos seus clientes | Partner Center
-Description: Buy Azure reservations on behalf of customers in your Partner Dashboard.
+Description: Buy Azure reservations on behalf of customers in Partner Center.
 author: v-petand
-keywords: Azure, reservas, gerenciar, cobrança, compra
+keywords: Azure, reservas, gerenciar, cobrança, comprar
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a557bdea13e69b9d02a2a6039625d43c8483751
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e318331f779052dedb9fe7ee25351dc66b14b463
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877136"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488762"
 ---
-# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-the-partner-dashboard"></a>Comprar reservas do Microsoft Azure em nome dos seus clientes no painel de parceiros 
+# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-the-partner-center"></a>Comprar reservas do Microsoft Azure em nome dos seus clientes no Partner Center 
 
-**Aplica-se a**
+**Aplicável a**
 
--  Painel de parceiros
+-  Partner Center
 -  Portal do Microsoft Azure
 -  Parceiros no CSP
 
-Siga as etapas abaixo para comprar reservas do Microsoft Azure em nome dos seus clientes no painel de parceiros.
+Siga as etapas abaixo para comprar reservas do Microsoft Azure em nome dos seus clientes no Partner Center.
 
-1. Selecione **Clientes** no menu do painel.  
+1. Selecione **os clientes** no menu Partner Center.  
 
 2. Na sua página **Clientes**, localize o cliente que deseja comprar reservas do Azure e então selecione a seta para baixo para expandir a linha do cliente.  
 
 3. Selecione **Adicionar produtos** e, em seguida, selecione **Azure**. 
     
-4. As reservas do Azure devem estar associadas a uma assinatura do Azure ativa. Selecione a assinatura do cliente à qual deseja adicionar reservas do Azure. Uma lista de instâncias reservadas do Azure aparece. 
+4. As reservas do Azure devem estar associadas a uma assinatura do Azure ativa. Selecione a assinatura do cliente à qual deseja adicionar reservas do Azure. Será exibida uma lista de instâncias reservadas do Azure. 
 
     >[!IMPORTANT] 
-    >Se o cliente ainda não tiver uma assinatura do Azure, selecione **serviços on-line** para adicioná-la agora. 
+    >Se o cliente ainda não tiver uma assinatura do Azure, selecione **Serviços Online** para adicioná-la agora. 
 
 5. Use os filtros para encontrar instâncias reservadas que atendam aos requisitos do cliente.  
 
@@ -57,7 +57,7 @@ Siga as etapas abaixo para comprar reservas do Microsoft Azure em nome dos seus 
 |**Para obter informações sobre**   |**Leia isto**    |
 |:-----------------------------|:-----------------|
 |Reservas do Azure na visão geral do CSP  | [Vender instâncias reservadas do Microsoft Azure](azure-reservations.md) |
-|Como gerenciar reservas do Azure no seu Painel de Parceiros | [Como gerenciar reservas do Azure no seu Painel de Parceiros](azure-reservations-manage.md)
+|Gerenciar reservas do Azure no Partner Center | [Gerenciar reservas do Azure no Partner Center](azure-reservations-manage.md)
 |Determinar o tamanho correto da VM e verificar o uso da VM do cliente   |[Dimensionamento de VM para uso máximo de reserva do Azure](azure-usage.md)   |
 |Como comprar reservas do Azure usando a API do Partner Center | [Comprar Instâncias de VM Reservadas do Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) na documentação do desenvolvedor do Partner Center
 

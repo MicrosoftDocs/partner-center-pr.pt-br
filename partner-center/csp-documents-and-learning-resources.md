@@ -5,12 +5,12 @@ ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 keywords: guias do programa csp, guia de programa, acordos de parceria, contrato do cliente, listas de preço, ofertas
 ms.localizationpriority: medium
-ms.openlocfilehash: 792eea1f482eb539aef84b2b3a2c79f7c33d508a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 06fa6178b5d0c1f655ba412c75ec8b950430b812
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876426"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489632"
 ---
 # <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>Contratos, listas de preços e ofertas do Provedor de Soluções na Nuvem
 
@@ -61,7 +61,7 @@ Como um parceiro no CSP, você é responsável por revisar os termos e condiçõ
 ## <a name="pricing"></a>Preço
 
 
-Baixe os detalhes de compras com base em licença, com base em uso e únicas na página **preços e ofertas** , disponível no menu do **painel** de preços. 
+Baixe os detalhes para compras baseadas em licença, com base no uso e únicas na página **preços e ofertas** , disponível no menu **Partner Center** de preços. 
 
 A lista de preços com base em licença é atualizada mensalmente, e a Microsoft lança novos preços 30 dias antes de entrar em vigor. Exemplos de serviços baseados em licença incluem o Office 365, Enterprise Mobility Suite e Microsoft Dynamics CRM. 
 
@@ -73,7 +73,7 @@ Preço de compra única também é dinâmico. Exemplos de compras únicas Micros
 ## <a name="offers"></a>Ofertas
 
 
-Como um parceiro no CSP, você pode vender Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM e Microsoft Azure aos clientes. Para obter mais informações sobre quais ofertas e pacotes de produto estão disponíveis para venda nessas famílias de produtos, consulte a Matriz de ofertas do CSP na página **Preços e ofertas**, disponível em seu menu **Painel**. Este documento é atualizado mensalmente.
+Como um parceiro no CSP, você pode vender Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM e Microsoft Azure aos clientes. Para obter mais informações sobre quais ofertas e produto pacotes estão disponíveis para venda nessas famílias de produtos, consulte a matriz de ofertas do CSP na página **preços e ofertas** , disponível no menu do **Partner Center** . Este documento é atualizado mensalmente.
 
 Para parceiros CSP que usam a API de registro de uso CREST, a Microsoft também publica uma lista dos Serviços do Azure no CSP na página **Preços e ofertas**.
 

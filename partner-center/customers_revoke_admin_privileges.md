@@ -4,18 +4,18 @@ description: Como um parceiro revendedor, seu cliente pode delegar você para se
 author: labrenne
 keywords: privilégios de administrador, administrador em nome de, remover privilégios, DAP, AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 77613468d03d62d1eb8a42e8bc9288458461166d
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 224ed2ea2485420761c7a5f85db5a7a37fd245af
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377428"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489872"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>Os clientes delegam privilégios administrativos para parceiros
 
 **Aplica-se ao**
 
--  Painel de parceiros
+-  Partner Center
 
 Para gerenciar um serviço ou inscrição de cliente em seu nome, o cliente deve conceder suas permissões de administrador para aquele serviço. Para receber permissões de administrador de um cliente, mande um e-mail para eles com uma solicitação de relação de revendedor. Depois do cliente aprovar sua solicitação, você será capaz de entrar no portal de admin do serviço e gerenciar o serviço em nome do cliente. 
 
@@ -89,7 +89,7 @@ Cada assinatura do Azure tem seu próprio conjunto de funções de gerenciamento
 
 ## <a name="windows-autopilot"></a>Windows Autopilot 
 
-No painel de parceiros, os parceiros CSP podem gerenciar perfis Autopilot para seus clientes sem privilégios de administrador. Saiba como [Simplificar a configuração dos dispositivos com o Windows Autopilot.](https://docs.microsoft.com/partner-center/autopilot)
+No Partner Center, os parceiros CSP podem gerenciar perfis Autopilot para seus clientes sem privilégios de administrador. Saiba como [Simplificar a configuração dos dispositivos com o Windows Autopilot.](https://docs.microsoft.com/partner-center/autopilot)
 
 O que você pode fazer depende em qual modelo CSP, você está inscrito no.
 
@@ -110,7 +110,7 @@ O que você pode fazer depende em qual modelo CSP, você está inscrito no.
 - Você não pode gerenciar dispositivos que o cliente tiver adicionado por meio do Microsoft Store para empresas, a Microsoft Store para educação ou o Portal do Microsoft Intune.
 
 > [!IMPORTANT]  
-> A experiência de gerenciamento Autopilot atual no painel pode continuar a alterar. No momento em que este artigo foi publicado, as seguintes alterações estão sendo consideradas:
+> A experiência de gerenciamento Autopilot atual no Partner Center pode continuar a alterar. No momento em que este artigo foi publicado, as seguintes alterações estão sendo consideradas:
 
   - O parceiro deve receber privilégios de administração delegada do cliente para que o parceiro possa adicionar ou atualizar/remover perfis e aplicar/remover o perfil de qualquer dispositivo no locatário do cliente.
 

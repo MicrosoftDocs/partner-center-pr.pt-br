@@ -4,12 +4,12 @@ description: Assim que você receber sua senha temporária, faça logon no Partn
 author: labrenne
 Keywords: temporary password, change password, reset password
 ms.localizationpriority: medium
-ms.openlocfilehash: 67cea6b454e5af42469a527076a3585e4fa7600d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f2f385defe6c98bddf7bbc46ba70bd05667c2905
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874966"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490182"
 ---
 # <a name="change-your-temporary-password"></a>Alterar sua senha temporária
 
@@ -17,13 +17,13 @@ ms.locfileid: "2874966"
 
 -  Partner Center
 
-Entre no Painel de Parceiros e altere sua senha temporária.
+Entre no Partner Center e altere sua senha temporária.
 
-Assim que você receber sua senha temporária do administrador global, entre no Painel de Parceiros e altere-a. Se você for um administrador de incentivos, fazer isso permitirá que você conclua a migração da inscrição incentivos de sua organização. Se você for um usuário de incentivos, poderá então acessar todos os seus dados de incentivos.
+Assim que você recebe sua senha temporária do administrador global, entre no Partner Center e alterá-lo. Se você for um administrador de incentivos, fazer isso permitirá que você conclua a migração da inscrição incentivos de sua organização. Se você for um usuário de incentivos, poderá então acessar todos os seus dados de incentivos.
 
-1.  No **Painel**, faça logon com sua nova ID de usuário e senha temporária.
+1.  Desde o **Partner Center**, faça logon com sua nova ID de usuário e senha temporária.
 
-2.  Quando fizer logon no Painel de Parceiros pela primeira vez, você receberá uma solicitação para alterar sua senha.
+2.  Quando você entrar no Partner Center pela primeira vez, você será solicitado a alterar sua senha.
 
 Se você perder a senha, o administrador global precisará acessar **Configurações** >  **Todas as configurações** >**Gerenciamento de usuários** para criar uma nova senha temporária para você.
 Para saber mais, consulte [Redefinir a senha do usuário](reset-a-user-password.md) .

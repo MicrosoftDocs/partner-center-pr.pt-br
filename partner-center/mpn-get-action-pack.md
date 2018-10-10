@@ -4,12 +4,12 @@ description: Saiba como obter o Microsoft Action Pack, quer esteja comprando pel
 author: MaggiePucciEvans
 keywords: action pack, MAPS, renovar MAPS, renovar action pack, obter action pack
 ms.localizationpriority: medium
-ms.openlocfilehash: 9fab4b0abe282e12a505c242597345717fad22b6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 585fa5f61339f07282b4caab5f678eb4bce9db65
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876706"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490122"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Comprar pela primeira vez ou renovar uma assinatura do Microsoft Action Pack
 
@@ -36,7 +36,7 @@ Depois que você ingressar com êxito na rede de parceiros, siga as [instruçõe
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>Renovar uma assinatura do Microsoft Action Pack
 
 >[!IMPORTANT]
->Entre agora e o fim do ano civil, estamos migrando o gerenciamento de assinaturas do Action Pack do PMC (Partner Membership Center) para o painel de parceiros – este site. A renovação de sua assinatura do Action Pack pode variar entre agora e naquele período. Portanto, examine cuidadosamente as informações abaixo.  
+>Entre agora e o fim do ano civil, estamos estiver migrando gerenciamento de assinaturas do Action Pack do Partner Membership Center (PMC) para o Partner Center - este site. A renovação de sua assinatura do Action Pack pode variar entre agora e naquele período. Portanto, examine cuidadosamente as informações abaixo.  
 
 ### <a name="check-your-renewal-eligibility"></a>Verificar sua qualificação para renovação
 
@@ -46,15 +46,15 @@ Depois que você ingressar com êxito na rede de parceiros, siga as [instruçõe
 
     - Poderá acompanhar as etapas para renovar sua assinatura no PMC ou
 
-    - Receberá uma mensagem convidando-o a renovar sua assinatura no painel de parceiros – este site
+    - Receberá uma mensagem convidando-o a renovar sua assinatura no Partner Center - este site
 
 >[!IMPORTANT]
->Se você for convidado a renovar sua assinatura no painel de parceiros, observe que mudamos nossa política de janela de renovação, e você só poderá renovar sua assinatura depois que ela expirar. Por exemplo, se sua assinatura expira em 22 de junho, você pode renová-la a partir de 23 de junho e por 30 dias depois disso.       
->Você pode encontrar a data de expiração da assinatura na página [**Ofertas de associação**](https://partnercenter.microsoft.com/pcv/partnership/offers) (é necessário entrar). Se ou quando você estiver qualificado para a renovação no painel de parceiros, siga as etapas abaixo.  
+>Se você for convidado a renovar sua assinatura no Partner Center, observe que mudamos nossa política de janela de renovação, e você pode renovar sua assinatura depois que ela expirar. Por exemplo, se sua assinatura expira em 22 de junho, você pode renová-la a partir de 23 de junho e por 30 dias depois disso.       
+>Você pode encontrar a data de expiração da assinatura na página [**Ofertas de associação**](https://partnercenter.microsoft.com/pcv/partnership/offers) (é necessário entrar). Se ou quando você estiver qualificado para renovar no Partner Center, siga as etapas abaixo.  
 
 
 
-### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-dashboard"></a>Para renovar uma assinatura do Microsoft Action Pack no painel de parceiros
+### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Para renovar uma assinatura do Microsoft Action Pack no Partner Center
 
 1. Acesse a página [**Ofertas de associação**](https://partnercenter.microsoft.com/pcv/partnership/offers) e selecione **Comprado**. Localize o bloco de **Assinatura do Microsoft Action Pack** .  
 

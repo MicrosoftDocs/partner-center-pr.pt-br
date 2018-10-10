@@ -1,23 +1,23 @@
 ---
-title: Declarações de cooperação de incentivos | Painel de parceiros
-description: Envie suas declarações de incentivos, sem precisar ter sua atividade de plano analisada pela primeira vez.
+title: Declarações de cooperação de incentivos | Partner Center
+description: Envie suas declarações de incentivos sem precisar ter sua atividade de plano analisada pela primeira vez.
 author: labrenne
-keywords: declarações de incentivos, cooperação declarações, os fundos cooperativos
+keywords: declarações de incentivos, pedidos de cooperação, fundos cooperativos
 ms.localizationpriority: medium
-ms.openlocfilehash: 195556a849b755d2d274b4a4edc12a455c6f3da6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 65e65c412d38f6386aefb43681cac7bd1febaa34
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874796"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489312"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Visão geral de declarações de cooperação de incentivos
 
-**Aplica-se a**
+**Aplicável a**
 
-- Painel de Parceiros
+- Partner Center
 
-Quando você participar do programa de parceiro incentivos cooperativo Marketing fundos (cooperação) você solicitar reembolsos de fundos acumulados para atividades que você tiver feito que dão suporte a reconhecimento de produto da Microsoft. Enviar uma reivindicação diretamente no painel. Você não precisa ter seu plano de atividade revisado pela Microsoft antes de enviar uma reivindicação. Envie sua reivindicação e a documentação necessária não depois que o prazo de período de declaração que é 45 dias após o final do período de uso. 
+Quando você participar do programa de parceiro incentivos cooperativo Marketing fundos (cooperação) você solicitar reembolsos de fundos acumulados para atividades que você tiver feito que ofereçam suporte a reconhecimento de produto da Microsoft. Enviar uma reivindicação diretamente do Partner Center. Você não precisa ter seu plano de atividade revisado pela Microsoft antes de enviar uma reivindicação. Envie sua reivindicação e a documentação necessária não depois que o prazo de período de declaração que é 45 dias após o final do período de uso. 
 
 Uma declaração bem-sucedida inclui:
 

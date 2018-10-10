@@ -3,12 +3,12 @@ title: Ofertas de terceiros | Partner Center
 description: À medida que sua empresa cresce, você pode desenvolver e aprofundar seu portfólio de ofertas incluindo ofertas de terceiros em seus pacotes de produtos.
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8972c59781276e9c1c839e02f3dd0d196bed7f71
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 087154d9e1729eb80273094edba285ce83cc4b4c
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874586"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490112"
 ---
 # <a name="third-party-offers"></a>Ofertas de terceiros 
 
@@ -16,18 +16,18 @@ ms.locfileid: "2874586"
 
 - Partner Center
 
-As oferta de serviços de terceiros são um novo recurso de comércio no Partner Center que permite que os parceiros de revenda diretos e indiretos que vendem por meio do programa CSP (Provedor de Soluções na Nuvem) possam comercializar, gerenciar e dar suporte a soluções de SaaS de terceiros.  
+Ofertas de terceiros é um recurso no Partner Center fornece direto e parceiros de revendedores indiretos que vendem por meio do programa Cloud Solution Provider (CSP) possam comercializar, gerenciar e dar suporte a soluções de SaaS de terceiros.  
 
 Com Ofertas de terceiros, os parceiros CSP podem não apenas comprar soluções primárias ou da Microsoft, mas também soluções de terceiros ou de Parceiros ISV... tudo por meio de uma única plataforma de comércio e com uma fatura.  À medida que sua empresa cresce, você pode desenvolver e aprofundar seu portfólio de ofertas incluindo Ofertas de terceiros em seus pacotes de produtos. 
 
-Agora será possível encontrar muitos tipos diferentes de Ofertas de terceiros no Partner Center que funcionam com produtos da Microsoft. Seus clientes beneficiam-se com uma seleção maior de soluções diferenciadas que são descobertas, vendidas e administradas facilmente em um só local por você, seu parceiro confiável da Microsoft. Com o Partner Center, é fácil descobrir, transacionar e gerenciar esses serviços para que você possa fornecer soluções e seus benefícios de maneira mais rápida.
+Você pode encontrar diferentes tipos de ofertas de terceiros no Partner Center que funcionam com produtos da Microsoft. Seus clientes beneficiam-se de ter uma seleção maior de soluções diferenciadas que são descobertas, vendidas e administradas facilmente em um só local por você, seu parceiro confiável da Microsoft. Partner Center torna mais fácil descobrir, transacionar e gerenciar esses serviços para que você pode fornecer soluções e seus benefícios mais rápido.
 
-## <a name="microsoft-partners-that-sell-through-our-cloud-solutions-program"></a>Parceiros Microsoft que vendem por meio de nosso Programa de Soluções de Nuvem
+## <a name="microsoft-partners-in-the-cloud-solution-provider-program"></a>Parceiros da Microsoft no programa provedor de soluções de nuvem
 
-Ofertas de terceiros são projetadas para serem fáceis de administrar e comercializar.  Para garantir seu sucesso e a melhor experiência para você e seus clientes, recomendamos a lista de verificação abaixo para começar a lidar com Ofertas de terceiros hoje mesmo:
+Ofertas de terceiros são projetadas para serem fáceis de administrar e comercializar. Para garantir a melhor experiência para você e seus clientes, recomendamos usar a lista de verificação abaixo para começar com ofertas de terceiros:
 
-1. Examine todos os materiais abaixo, começando com o Webinar de Integração e as Perguntas Frequentes
-2. Familiarize-se com o catálogo do Partner Center de ofertas de terceiros
+1. Examine todos os materiais abaixo, começando com a integração Webinar e as perguntas Frequentes
+2. Familiarize-se com as ofertas de terceiros no catálogo do Partner Center
 3. Conecte-se com o ISV para as ofertas de terceiros em que você está interessado
 4. Defina cotas e destinos para seus vendedores
 5. Treine seus vendedores

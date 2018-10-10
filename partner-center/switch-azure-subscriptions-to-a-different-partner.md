@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: assinatura do Azure, mudar de parceiro, alterar parceiro, obter novo parceiro, outro parceiro
 ms.localizationpriority: medium
-ms.openlocfilehash: bfaf3d96760d8520935f3a872a11f14566eb0a52
-ms.sourcegitcommit: c45611276b62105c170ac3f2f3c8030b889c08f1
+ms.openlocfilehash: b579fc3fcebdba3f85265014e13c074b17b0fcdc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "3966153"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488962"
 ---
 # <a name="transfer-azure-subscriptions"></a>Transferir assinaturas do Azure 
 
@@ -39,7 +39,7 @@ Um cliente pode decidir mudar para um parceiro do Provedor de Soluções na Nuve
 
     Crie um tíquete de serviço do Azure no Partner Center para solicitar uma transferência de assinatura:
 
-    -   No menu do painel, selecione **Clientes**, selecione seu cliente na lista, em seguida, selecione **Gerenciamento de serviços**. Na seção **Tíquetes de suporte**, selecione a lista suspensa **Novo tíquete** e escolha **Microsoft Azure**.
+    -   No menu Partner Center, selecione **os clientes**, selecione seu cliente na lista e, em seguida, selecione o **gerenciamento de serviço**. Na seção **Tíquetes de suporte**, selecione a lista suspensa **Novo tíquete** e escolha **Microsoft Azure**.
 
     -   No portal do Azure, selecione **Nova solicitação de suporte**.
 

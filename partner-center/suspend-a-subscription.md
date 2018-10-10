@@ -4,12 +4,12 @@ description: Os parceiros podem suspender ou cancelar uma assinatura se solicita
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 74d36922aad39cb78d959b91109194730fa28cec
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f01e9dc05366376946e7aff256bd643810c6fa59
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875216"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488872"
 ---
 # <a name="suspend-a-subscription"></a>Suspender uma assinatura
 
@@ -25,7 +25,7 @@ Quando você alterar o status de uma assinatura para **Suspensa**, os usuários 
 
 **Suspender uma assinatura**
 
-1.  No menu **Painel**, selecione **Clientes**, em seguida, escolha um cliente da lista.
+1.  No menu **Partner Center** , selecione **clientes**e, em seguida, escolha um cliente na lista.
 2.  Escolha a assinatura que deseja gerenciar.
 3.  Na seção **Status**, escolha **Suspensa**. Em seguida, **Envie ** suas alterações.
 4.  Todos os dados serão excluídos a menos que a assinatura seja reativada dentro de 90 dias, ou 90 dias mais o número de dias entre o momento em que a conta foi aberta e o primeiro período de cobrança (máximo de 120 dias).

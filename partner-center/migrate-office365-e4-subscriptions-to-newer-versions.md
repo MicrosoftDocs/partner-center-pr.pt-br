@@ -3,12 +3,12 @@ title: Migrar assinaturas do Office 365 E4 para versões mais recentes do Office
 description: Edições do Microsoft Office 365 Enterprise E4 estarão desativadas a partir de 7 de abril de 2017. Saiba como migrar suas assinaturas de cliente para versões mais recentes do Office 365.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e6efcc3227f426a9b83c7579534e0b6ad68188da
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 75999aa004ae03d4ec871fc706d757a192105320
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377708"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490172"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrar inscrições do Office 365 E4 para versões do Office 365 mais recentes
 
@@ -65,7 +65,7 @@ Siga estas etapas para migrar a assinatura do Office 365 Enterprise E4 de client
 
 ### <a name="step-1---purchase-the-new-subscription"></a>Etapa 1 - Comprar a nova assinatura
 
-1. No menu **Painel**, selecione **Clientes**, selecione o cliente para o qual você deseja fazer a migração e selecione **Adicionar assinaturas**.
+1. No menu **Partner Center** , selecione **os clientes**, selecione o cliente que você deseja mover e, em seguida, selecione **Adicionar assinaturas**.
 
 2. Selecione a assinatura que deseja comprar no catálogo (nesse caso, uma das opções acima), insira o número de licenças e selecione **Enviar**.
 
@@ -73,7 +73,7 @@ Siga estas etapas para migrar a assinatura do Office 365 Enterprise E4 de client
 
 ### <a name="step-2---reassign-the-customers-users-licenses"></a>Etapa 2 - Reatribuir licenças dos usuários do cliente
 
-1. No menu **Painel**, selecione **Clientes**, selecione o cliente para o qual deseja fazer a migração e selecione **Usuários e licenças**. A página Usuários e Licenças do cliente será aberta.
+1. No menu **Partner Center** , selecione **os clientes**, selecione o cliente que você deseja mover e, em seguida, selecione **os usuários e licenças**. A página Usuários e Licenças do cliente será aberta.
 
 2. Para reatribuir licenças de usuário, selecione o usuário a ser reatribuído e selecione **Gerenciar licenças**.
 
@@ -87,7 +87,7 @@ Depois de migrar as licenças de usuário para o novo serviço, você pode cance
 
 ### <a name="step-3---cancel-the-old-subscription"></a>Etapa 3 - Cancelar a assinatura antiga
 
-1. No menu **Painel**, selecione **Clientes**. Selecione o cliente que você deseja mover e selecione a assinatura que deseja cancelar.
+1. No menu **Partner Center** , selecione **os clientes**. Selecione o cliente que você deseja mover e selecione a assinatura que deseja cancelar.
 
 2. Na página de detalhes da assinatura, defina o status da assinatura para **Suspensa**.
 

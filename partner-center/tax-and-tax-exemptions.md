@@ -4,12 +4,12 @@ description: Como o Provedor de Soluções na Nuvem é um canal de vendas concen
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: ae366ba7275eb9192aee1afc44acdf4e8351b55e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 13bacb79b210050b2392d40c6fa77cb0fe22235d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874886"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489602"
 ---
 # <a name="tax-and-tax-exemptions"></a>Impostos e isenções fiscais
 
@@ -23,9 +23,9 @@ Como o Provedor de Soluções na Nuvem é um canal de vendas concentrado na reve
 
 **Protocole uma isenção de imposto**
 
-1.  Procure sua **ID da Microsoft**, no menu Painel &gt; **Configurações da conta** &gt; **Perfil da organização**.
-2.  Procure sua **ID do MPN**, no menu Painel &gt; **Configurações da conta** &gt; **Perfil do parceiro**.
-3.  Crie um novo tíquete de suporte. No menu Painel, selecione **Solicitações de serviço** &gt; **Solicitações do Partner Center** &gt; **Nova solicitação**.
+1.  Procure sua **ID da Microsoft** no Partner Center &gt; **configurações da conta** &gt; **perfil de organização**.
+2.  Procure sua **ID do MPN** no Partner Center &gt; **configurações da conta** &gt; **perfil de parceiro**.
+3.  Crie um novo tíquete de suporte. No menu Partner Center, selecione **solicitações de serviço** &gt; **solicitações do Partner Center** &gt; **nova solicitação**.
 4.  Preencha o formulário. Para o **Tipo de problema**, escolha **Não é possível gerenciar meu perfil**. Na descrição, inclua sua ID do MPN e a ID da Microsoft.
 5.  Depois de enviar o tíquete, a Microsoft enviará um email a você para obter mais informações. Ao responder, anexe a documentação de apoio apropriada para os certificados de isenção de imposto.
 
@@ -49,7 +49,7 @@ Como o Provedor de Soluções na Nuvem é um canal de vendas concentrado na reve
 <p>A Microsoft não oferece suporte a crédito e nova cobrança, então, antes de vender qualquer assinatura você deve registrar seu número de ID de IVA no Partner Center.</p>
 <p>Envie seu número de ID de IVA à Microsoft</strong></p>
 <ol>
-<li>No Partner Center, vá para o menu Painel &gt; <strong>Configurações da conta</strong> &gt; <strong>Perfil de cobrança do parceiro</strong>.</li>
+<li>No Partner Center, vá para o menu Partner Center &gt; <strong>configurações da conta</strong> &gt; <strong>perfil de cobrança do parceiro</strong>.</li>
 <li>Na seção <strong>Dados financeiros</strong>, selecione <strong>Atualizar</strong>.</li>
 <li>Na <strong>ID de Imposto da Empresa</strong>, especifique o número de ID de IVA.</li>
 </ol></td>

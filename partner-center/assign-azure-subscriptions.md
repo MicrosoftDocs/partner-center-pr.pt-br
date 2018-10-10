@@ -4,22 +4,22 @@ description: Agora você pode atribuir assinaturas do Azure a seus clientes no P
 author: Labrenne
 keywords: Azure, assinatura do Azure, assinatura, assinaturas, atribuir assinatura, gerenciar assinatura do Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: cb683e97d5983b3bb8693efb93b91c0569ab0513
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 3c0c82d60ec5032357ab21421b89c5f578d5fe1d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377558"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489022"
 ---
-# <a name="assign-azure-subscriptions-in-the-partner-dashboard"></a>Atribuir assinaturas do Azure no Painel de Parceiros
+# <a name="assign-azure-subscriptions-in-partner-center"></a>Atribuir assinaturas do Azure no Partner Center
 
 **Aplicável a**
 
 -  Partner Center
  
-## <a name="assign-azure-subcriptions-to-your-customers-in-the-partner-dashboard"></a>Atribuir assinaturas do Azure aos seus clientes no Painel de Parceiros
+## <a name="assign-azure-subcriptions-to-your-customers-in-partner-center"></a>Atribuir assinaturas do Azure aos seus clientes no Partner Center
 
-1. Selecione **Clientes** no seu menu **Painel** e localize o cliente que deseja gerenciar.
+1. Selecione **clientes** em seu menu **Partner Center** e localize o cliente que você deseja gerenciar.
 
 2.  Selecione a seta para baixo no final da linha para expandir o registro do cliente e, em seguida, selecione **Portal de Gerenciamento do Microsoft Azure**. Você será direcionado para o Portal do Azure, onde você pode gerenciar as assinaturas do cliente. 
 

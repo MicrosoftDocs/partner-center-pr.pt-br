@@ -4,12 +4,12 @@ description: Adicione um perfil de implantação do Windows AutoPilot no Partner
 author: KPacquer
 keywords: piloto automático, windows autopilot, piloto automático da microsoft, implantação zero touch, oobe, telas de logon
 ms.localizationpriority: medium
-ms.openlocfilehash: b9fc13accd5d229f66ed425ace68e0df00e14016
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 09dc187347c7d433a5edfd1feb616d0b0275acce
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877576"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489392"
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>Simplificar a configuração do dispositivo com o Windows AutoPilot 
 
@@ -25,7 +25,7 @@ O Windows AutoPilot simplifica e protege a configuração de novos dispositivos 
 ## <a name="requirements"></a>Requisitos
 
 *  Dispositivos pré-instalados com Windows 10 Pro Creators Update (versão 1703 ou posterior) ou Windows 10 Pro for Advanced PCs.
-*  O identificador de dispositivo conhecido como um hash de hardware (128 HWH ou 4K HWH), que normalmente é fornecido por um OEM. Você usará identificadores para atribuir perfis da organização no Painel de Parceiros. 
+*  O identificador de dispositivo conhecido como um hash de hardware (128 HWH ou 4K HWH), que normalmente é fornecido por um OEM. Você usará identificadores para atribuir perfis da organização no Partner Center. 
 *  Os dispositivos devem ter acesso à Internet. Quando o dispositivo não consegue se conectar, ele mostra que as telas padrão da experiência inicial do Windows (OOBE).
 *  O registro do dispositivo em um MDM requer o Azure Active Directory Premium.
 
@@ -45,19 +45,19 @@ Para adicionar páginas específicas da organização, adicione os dispositivos 
 
 ### <a name="add-devices-and-apply-a-profile"></a>Adicionar dispositivos e aplicar um perfil
 
-No seu painel, você pode criar um perfil de implantação do Windows AutoPilot e aplicá-lo a uma lista dos dispositivos.
+Do Partner Center, você pode criar um perfil de implantação do Windows AutoPilot e aplicá-lo a uma lista dos dispositivos.
 
 Para configurar os dispositivos, envie uma lista dos dispositivos para o Painel de Parceiros, crie um perfil que seja aplicável aos dispositivos e aplique-o.
 
 1.  Adicione a lista de dispositivos.
 
-    Agentes de vendas e agentes de administrador têm acesso para adicionar a lista de dispositivos ao Painel de Parceiros.
+    Agentes de vendas e agentes de administrador têm acesso para adicionar a lista de dispositivos ao Partner Center.
     
     Revendedores indiretos podem trabalhar com seu provedor indireto para adicioná-la.
 
     a.  Crie um arquivo .csv usando o script do PowerShell do tópico: [Visão geral do Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot). Esse arquivo .csv contém informações do dispositivo, incluindo o número de série, o nome do OEM, o nome do modelo, a ID do produto e o identificador do dispositivo. 
 
-    b.  No painel, vá para **Clientes** > selecione o cliente que está recebendo os dispositivos > **Dispositivos > Adicionar dispositivos**.
+    b.  No Partner Center, vá para **os clientes** > selecione o cliente que está recebendo os dispositivos > **dispositivos > Adicionar dispositivos**.
 
     c.  Nomeie o lote de dispositivos, por exemplo, "Computadores do departamento de vendas da Contoso – Pedido de abril de 2017". 
 
@@ -65,7 +65,7 @@ Para configurar os dispositivos, envie uma lista dos dispositivos para o Painel 
 
     **Observação:** se você receber uma mensagem de erro depois de tentar carregar o arquivo .csv, verifique o formato do arquivo. Depois de agosto, você poderá usar somente o hash de hardware ou o nome do OEM, o número de série e o modelo nessa ordem de colunas ou a ID do produto Windows. Você também pode usar o arquivo .csv de exemplo fornecido a partir do link próximo a **Adicionar dispositivos**.
 
-2.  Crie um perfil que você possa aplicar aos dispositivos. (Somente agentes de administrador têm acesso para criar e aplicar perfis no Painel de Parceiros).
+2.  Crie um perfil que você possa aplicar aos dispositivos. (Somente agentes de administrador têm acesso para criar e aplicar perfis no Partner Center.)
 
     a.  Em **Dispositivos**, clique em **Adicionar novo perfil**.
 

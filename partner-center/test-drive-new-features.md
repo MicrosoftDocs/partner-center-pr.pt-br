@@ -3,12 +3,12 @@ title: Teste os novos recursos do Partner Center
 description: Teste os novos recursos do Partner Center antes que eles sejam lançados e conte-nos sua opinião. Ajude a moldar o futuro do Partner Center!
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e07db213f755fe24e98bd6dbfde08d226b09c75f
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 38b6652275106dd7258e264f84a9d45259ffab5d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377568"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489462"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Teste os novos recursos do Partner Center
 
@@ -49,7 +49,7 @@ Recomendamos que você compartilhe suas ideias e opiniões sobre uma versão de 
 
 -   Usar o formulário de comentários no canto inferior direito da janela do Partner Center para enviar seus comentários diretamente para nós. 
 
--   Solicitar suporte se você enfrentar problemas com uma visualização do recurso. Para criar uma solicitação de suporte, selecione **Solicitações de suporte >Solicitações do Partner Center** no menu **Painel** e, em seguida, selecione **Nova solicitação** na página **Solicitações do Partner Center**.
+-   Solicitar suporte se você enfrentar problemas com uma visualização do recurso. Para criar uma solicitação de suporte, selecione **solicitações de suporte > solicitações do Partner Center** no menu **Partner Center** e, em seguida, selecione **nova solicitação** na página **solicitações do Partner Center** .
 
 Ajude-nos a capacitar você!
 

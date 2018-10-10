@@ -4,12 +4,12 @@ description: Os registros de clientes estão entre seus ativos de informação m
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8eeaff75547426440a0a303423cf62444362035a
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: f0ab5159f36212ea73effea59bfba98e68023372
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377458"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490162"
 ---
 # <a name="manage-your-customer-list"></a>Gerenciar sua lista de clientes
 
@@ -26,20 +26,20 @@ Os logs de atividades também fornecem dados exportáveis sobre transações e a
 
 ## <a name="search-for-a-customer"></a>Procurar um cliente
 
-1.  No menu **Painel**, selecione **Clientes**.
+1.  No menu **Partner Center** , selecione **os clientes**.
 2.  Para procurar um cliente, insira o nome do cliente ou nome do domínio na caixa de pesquisa.
 3.  Selecione a **seta para baixo** no final da linha de um cliente para ver a ID da Microsoft dele, bem como os links rápidos de assinaturas e serviços associados.
 
 ## <a name="update-a-customers-company-name"></a>Atualizar o nome da empresa do cliente
 
-No menu **Painel**, selecione **Clientes**.
+No menu **Partner Center** , selecione **os clientes**.
 2.  Para procurar um cliente, insira o nome do cliente ou nome do domínio na caixa de pesquisa.
 3.  Selecione a **seta para baixo** no final da linha de um cliente para ver a ID da Microsoft dele, bem como os links rápidos de assinaturas e serviços associados.
 4.  Sob as informações do cliente **para cobrança** , atualize o nome da empresa. Quando você salvar o novo valor, ele será refletido na lista de clientes. Isso irá alterar apenas o nome da empresa para cobrança e o valor de lista de cliente. Ele não será refletido em qualquer lugar else.
 
 ## <a name="export-your-customer-list"></a>Exportar sua lista de clientes
 
-1.  No menu **Painel**, selecione **Clientes**.
+1.  No menu **Partner Center** , selecione **os clientes**.
 2.  Selecione **Exportar clientes**.
 
     O Partner Center converte a lista completa de clientes em um arquivo .csv e o carrega na pasta de download padrão em seu computador. Você também pode exportar os subconjuntos de dados do cliente. As colunas de dados incluem o seguinte:
@@ -56,7 +56,7 @@ No menu **Painel**, selecione **Clientes**.
 
 ## <a name="export-customer-subscription-information"></a>Exportar informações de assinatura de cliente
 
-1.  No menu **Painel**, selecione **Clientes**.
+1.  No menu **Partner Center** , selecione **os clientes**.
 2.  Selecione o **Nome da empresa** de qualquer cliente. A página **Assinaturas** do cliente será aberta, mostrando a lista completa de assinaturas de produtos.
 3.  Selecione **Exportar assinaturas**. O Partner Center converte os dados de assinatura do cliente em um arquivo .csv e o carrega na pasta de download padrão em seu computador. As colunas de dados incluem o seguinte:
     -   **ID da Assinatura**;

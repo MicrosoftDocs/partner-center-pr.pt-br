@@ -4,12 +4,12 @@ description: Os parceiros podem vender assinaturas aos clientes e gerenciá-las 
 author: labrenne
 Keywords: subscriptions, assign license, license, customer satisfaction, Azure subscriptions
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c051f0fbf627c7e7478e18c0b685eb7a45cf879
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 3f39ea37669839f26dbd72894544fddce61e6462
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876486"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489822"
 ---
 # <a name="customer-subscriptions"></a>Assinaturas de clientes
 
@@ -17,16 +17,16 @@ ms.locfileid: "2876486"
 
 -  Partner Center
 
-Na condição de parceiro CSP, uma das suas principais atividades é oferecer assinaturas de produtos da Microsoft a seus clientes. No Painel de Parceiros, você pode gerenciar todas as suas assinaturas para cada cliente. Você pode adicionar assinaturas, adicionar licenças a assinaturas atuais e até mesmo oferecer assinaturas de avaliação para clientes que desejam testar o software. Além disso, por meio das análises que o Painel de Parceiros fornece para entender como seus clientes estão usando o software, você poderá oferecer um suporte melhor a eles.
+Na condição de parceiro CSP, uma das suas principais atividades é oferecer assinaturas de produtos da Microsoft a seus clientes. No Partner Center, você pode gerenciar todas as suas assinaturas para cada cliente. Você pode adicionar assinaturas, adicionar licenças a assinaturas atuais e até mesmo oferecer assinaturas de avaliação para clientes que desejam testar o software. Além disso, usando a análise do Partner Center fornece para entender como seus clientes estão usando o software, você poderá melhor dar suporte a elas.
 
 |**Para fazer isso**   |**Leia isto**   |
 |----------------------|:----------------------|
-|Cria uma assinatura para um cliente atual no Painel de Parceiros ou adicione um novo cliente e depois crie sua assinatura|[Criar uma assinatura](create-a-new-subscription.md)|
+|Criar uma nova assinatura para um cliente existente no Partner Center ou adicione um novo cliente e depois crie sua assinatura|[Criar uma assinatura](create-a-new-subscription.md)|
 |Após a adição da assinatura, você pode atribuir licenças para os funcionários do cliente  |[Atribuir licenças a usuários](assign-licenses-to-users.md)|
 |Você também pode gerenciar atualizações de licenças em massa   |[Atribuir ou revogar licenças para vários usuários](bulk-license-provisioning-for-multiple-users.md)|
 |Conforme o cliente adiciona novos funcionários, você pode acrescentar licenças adicionais às assinaturas existentes   |[Adicionar licenças ou serviços a uma assinatura existente](add-licenses-or-services-to-an-existing-subscription.md)|
 |Como o cliente pode querer testar o software antes de aceitá-lo, ofereça assinaturas de avaliação    |[Oferecer avaliações de produtos da Microsoft aos seus clientes](offer-your-customers-trials-of-microsoft-products.md)|
-|Você pode iniciar o processo de assinatura do Azure no Painel de Parceiros agora mesmo   |[Atribuir assinaturas do Azure no Painel de Parceiros](assign-azure-subscriptions.md)|
+|Você pode iniciar o processo de assinatura do Azure no Partner Center agora mesmo   |[Atribuir assinaturas do Azure no Partner Center](assign-azure-subscriptions.md)|
 |Informe-se sobre os preços especiais das ofertas   |[Aproveitar os preços especiais das ofertas](get-special-pricing-for-offers.md)|
 |Saiba como os clientes estão usando seu software para ajudá-los a serem mais eficientes.   | [Aumentar a adoção e a satisfação](increasing-adoption-and-satisfaction.md)   | 
 

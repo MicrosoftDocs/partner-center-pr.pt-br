@@ -4,12 +4,12 @@ description: Saiba como restaurar uma conta suspensa do Partner Center, por que 
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: da54c5bdbf9b28eb54d459b0b383b067478b0b6f
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: a15745ea4cc789049251fc08077b420cb094a596
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377548"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489472"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>Restaurar uma conta suspensa do Partner Center
 
@@ -36,13 +36,13 @@ A Microsoft suspenderá uma conta do Partner Center por um dos seguintes motivos
 
 Se você sabe que sua conta está atualizada, envie uma solicitação de suporte com o suporte do Partner Center para descobrir por que sua conta foi suspensa. 
 
-Se você não tiver certeza se sua conta está atualizada, selecione **Cobrança** no menu **Painel** para verificar sua conta. A página de cobrança mostra seu histórico de cobrança e as tendências, o saldo devido do mês atual, links para sua fatura e arquivos de reconciliação, além de seu pagamento mais recente.
+Se você não tiver certeza se sua conta está atualizada, selecione a **cobrança** no menu **Partner Center** para verificar sua conta. A página de cobrança mostra seu histórico de cobrança e as tendências, o saldo devido do mês atual, links para sua fatura e arquivos de reconciliação, além de seu pagamento mais recente.
 
 Se sua conta estiver vencida, siga as instruções de sua fatura para organizar o pagamento e, em seguida, envie uma solicitação de suporte para solicitar que sua conta seja restaurada. 
 
 **Para enviar uma solicitação de certificado**
 
-1.  No menu **Painel**, selecione **Solicitações de suporte > Solicitações do Partner Center**.
+1.  No menu **Partner Center** , selecione **solicitações de suporte > solicitações do Partner Center**.
 2.  Selecione **Nova solicitação**. 
 3.  Preencha o formulário e depois selecione **Enviar**. Um representante do suporte do Partner Center entrará em contato com você para explicar por que sua conta foi suspensa e como reativá-la.
 

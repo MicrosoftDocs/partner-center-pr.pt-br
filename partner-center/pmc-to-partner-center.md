@@ -7,12 +7,12 @@ robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c9e411ea92a39e33ef515adf69a5dd6886d514d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f6da4a837ccabc6611e7751a9a22cebbbe998bda
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875856"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490072"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>Fazer a transição da sua associação MPN do Partner Membership Center para o Partner Center
 
@@ -31,7 +31,7 @@ Comece a configurar seus usuários imediatamente para que eles possam continuar 
 
 O administrador da organização adiciona os funcionários na conta do Partner Center individualmente ou usando dados do PMC para criar vários usuários de uma vez:
 
-1.  No painel do Partner Center, selecione **Adicionar novo usuário** para adicionar uma pessoa ou **Configurar sua equipe** (ou adicionar usuários usando dados do PMC) para adicionar vários usuários de uma vez.
+1.  No Partner Center, selecione **Adicionar novo usuário** para adicionar uma pessoa ou **configurar sua equipe** (ou adicionar usuários usando dados do PMC) para adicionar vários usuários ao mesmo tempo.
     
     Siga as instruções na tela para concluir a configuração.
 
@@ -45,16 +45,16 @@ O administrador da organização adiciona os funcionários na conta do Partner C
 
 ## <a href="" id="nonadmin_tasks"></a> Tarefas de funcionários: atualizar contas
 
-1.  Obtenha suas informações de entrada, do Microsoft Partner Center ou com o seu administrador. Se você não receber as informações de entrada, contate o administrador da sua organização e solicite o envio diretamente para você. 
+1.  Obtenha suas informações de entrada, do Microsoft Partner Center ou com o seu administrador. Se você não receber as informações de entrada, fale com o administrador da sua organização e solicite o envio diretamente para você. 
 
-2.  Conecte-se com sua conta da Microsoft Partner University. No painel do Partner Center, selecione **Atualizar seu perfil** > **Obter acesso à Partner University**.  Depois de se conectar com essa conta, você poderá acessar a Partner University novamente.
+2.  Conecte-se com sua conta da Microsoft Partner University. No Partner Center, selecione **atualizar seu perfil** > **acesso Get Partner University**.  Depois de se conectar com essa conta, você poderá acessar a Partner University novamente.
 
-3.  Associar certificações e exames técnicos da Microsoft. No painel do Partner Center, selecione **Atualizar seu perfil** > **Associar exames e certificações**. 
+3.  Associar certificações e exames técnicos da Microsoft. No Partner Center, selecione **atualizar seu perfil** > **associar exames e certificações**. 
 
 4.  Opcional: [Configurar autoatendimento para redefinição de senha](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-update-your-own-password).
 
 ## <a name="checking-team-status-and-receiving-competency-achievements"></a>Verificando o status de equipe e recebendo conquistas de competências
 
-1.  Veja quais funcionários da sua organização conectaram-se com suas contas da Microsoft Partner University e associaram seus exames e certificações: no painel do Partner Center, selecione **Verificar o status da sua equipe**.
+1.  Veja quais funcionários da sua organização conectaram suas contas do Microsoft Partner University e associaram seus exames e certificações: no Partner Center, selecione **Verificar o status da sua equipe**.
 
 2.  **Aguarde 24 horas** depois que um funcionário tiver associado sua conta ou concluído uma meta com base em habilidades. Após esse tempo, o progresso será exibido na seção  **Parceria > Competências**.

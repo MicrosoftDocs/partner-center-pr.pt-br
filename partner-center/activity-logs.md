@@ -5,12 +5,12 @@ ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: c441e8c78886fa53152b85bcfff98a1c6765862a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 79a0dc432e1d5407ffd1cc424019d5994d39ef48
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875896"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488642"
 ---
 # <a name="view-customer-activity-logs"></a>Exibir logs de atividades do cliente
 
@@ -27,7 +27,7 @@ Os logs de atividades fornecem registros de ações de parceiros em contas de cl
 
 **Exibir e exportar logs de atividades**
 
-1.  No menu **Painel**, selecione **Log de atividades**.
+1.  No menu **Partner Center** , selecione o **Log de atividades**.
 2.  Selecione o período do log de atividades nos campos **De** e **até**. A exportação do log de atividades usará como padrão o mês mais recente.
 
     Cada log de atividades fornece um link para a página **Assinaturas** do cliente listado.

@@ -3,12 +3,12 @@ title: Parceria com revendedores indiretos no CSP | Partner Center
 description: Como um provedor indireto ou distribuidor, você pode estabelecer uma parceria com revendedores indiretos para expandir seu alcance.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: f5c5a745ba3ea8f57353529a90d09ee4fae17ccd
-ms.sourcegitcommit: 4175a0670df8c52ae5214fd0672c3fe33071210b
+ms.openlocfilehash: 1ac9099cc1b0805c3af9c77af9df1e8f0bfcc7aa
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/08/2018
-ms.locfileid: "4445458"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490132"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Parceria com revendedores indiretos no programa de Provedor de Soluções na Nuvem
 
@@ -18,7 +18,7 @@ Revendedores novos estão entrando no mercado e buscando maneiras de oferecer su
 
 No modelo de revendedor de provedor indireto (duas camadas), você faz parceria com revendedores indiretos para oferecer soluções de nuvem da Microsoft aos clientes. Compre produtos e assinaturas diretamente da Microsoft e, em seguida, ofereça estas soluções para os clientes por meio de seus revendedores. 
 
-Como um provedor indireto, você usa o Painel de Parceiros para:
+Como um provedor indireto, você usa o Partner Center para:
 
 -   Conecte-se com revendedores indiretos que podem ajudar a expandir o alcance e a base de clientes
 -   Estabelecer parcerias com revendedores indiretos que permitem atender aos clientes comuns
@@ -27,7 +27,7 @@ Como um provedor indireto, você usa o Painel de Parceiros para:
 
 Para obter mais informações sobre o modelo indireto no CSP, consulte [Explorar o modelo indireto](https://partner.microsoft.com/cloud-solution-provider/indirect) no [site do Microsoft Partner Network]( https://partner.microsoft.com). 
 
-## <a name="indirect-provider-tasks-in-the-partner-dashboard"></a>Tarefas de provedor indireto no Painel de Parceiros
+## <a name="indirect-provider-tasks-in-the-partner-center"></a>Tarefas de provedor indireto no Partner Center
 
 Conclua as seguintes etapas para estabelecer e gerenciar sua parceria com revendedores indiretos e clientes. As etapas dois e três são descritas em mais detalhes a seguir.
 
@@ -37,31 +37,31 @@ Conclua as seguintes etapas para estabelecer e gerenciar sua parceria com revend
 
 2.  Conectar-se com revendedores indiretos
 
-    - Antes de poder interagir e transacionar com revendedores, você deve estabelecer parcerias com eles no Painel de Parceiros. <br>
+    - Antes de poder interagir e transacionar com revendedores, você deve estabelecer parcerias com eles no Partner Center. <br>
 
 3.  Conecte-se com clientes
 
     - Associar novos clientes e assinaturas a revendedores
     - Estabelecer relacionamentos de revendedor com seus clientes existentes <br>
 
-Depois de concluir essas etapas, você pode gerenciar suas parcerias de revendedor na página **Revendedores indiretos** do menu **Painel**.
+Depois de concluir essas etapas, você pode gerenciar suas parcerias de revendedor na página **revendedores indiretos** no menu do **Partner Center** .
 
 > [!IMPORTANT]   
-> Antes de começar a trabalhar com revendedores, eles devem estar registrados como revendedores indiretos no programa CSP e ter contas do Painel de Parceiros Aponte seu revendedores para [Parceria com provedores indiretos no CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) para obter informações sobre como se inscrever no CSP. 
+> Antes de começar a trabalhar com revendedores, eles devem estar registrados como revendedores indiretos no programa CSP e tem contas do Partner Center. Aponte seu revendedores para [Parceria com provedores indiretos no CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) para obter informações sobre como se inscrever no CSP. 
 
 ## <a name="connect-with-indirect-resellers"></a>Conectar-se com revendedores indiretos
 
-Para interagir e transacionar com revendedores indiretos no Painel de Parceiros, você deve estabelecer uma parceria com eles. Ter uma parceria com um revendedor indireto permite que você e o revendedor sirvam clientes comuns.
+Para interagir e transacionar com revendedores indiretos no Partner Center, você deve estabelecer uma parceria com eles. Ter uma parceria com um revendedor indireto permite que você e o revendedor sirvam clientes comuns.
 
 Para estabelecer uma parceria, mande uma solicitação de parceria por e-mail ao revendedor. Certifique-se de ter o endereço de e-mail do revendedor à mão antes de começar. 
 
-1. Selecione **Revendedores indiretos** no meu **Painel**. 
+1. Selecione **revendedores indiretos** no seu menu **Partner Center** . 
 
 2. Na página **Revendedores indiretos**, selecione **Solicitar uma parceria**. Um rascunho de mensagem de e-mail é exibido.
 
 3. Selecione **Abrir no email** para abri-lo em seu aplicativo de email padrão ou selecione **Copiar para área de transferência** para copiar e colar, em seguida, a mensagem em um e-mail. Selecione **Concluído** ao terminar.
     > [!IMPORTANT]  
-    >  Você pode editar o texto na mensagem de e-mail, mas não se esqueça de incluir o link conforme ele é personalizado para sua conta do painel de parceiros.
+    >  Você pode editar o texto na mensagem de e-mail, mas não se esqueça de incluir o link conforme ele é personalizado para sua conta do Partner Center.
 
 4. Depois que o revendedor aceitar sua solicitação de parceria, eles aparecerão na sua lista de revendedores indireto, e você poderá: 
 
@@ -82,13 +82,13 @@ Dependendo do nível de acesso e envolvimento que deseja que o revendedor tenha,
 
 ## <a name="connect-with-customers"></a>Conecte-se com clientes
 
-Quando você receber novos clientes, precisará criar contas para eles no Painel de Parceiros. Quando você adiciona uma nova conta do cliente, você pode designar um revendedor específico para gerenciar a conta e administrar assinaturas e serviços em nome de seus clientes. 
+Quando você receber novos clientes, precisará criar contas para eles no Partner Center. Quando você adiciona uma nova conta do cliente, você pode designar um revendedor específico para gerenciar a conta e administrar assinaturas e serviços em nome de seus clientes. 
 
 Quando você associa um revendedor de uma nova conta do cliente, você está delegando o gerenciamento de conta e assinatura ao revendedor. Isso significa que o revendedor tem acesso de administrador a assinaturas e serviços do cliente e pode gerenciá-las em nome do cliente.
 
 ### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Adicionar novos clientes e associá-los a revendedores indiretos
 
-1.  Selecione **Revendedores indiretos** no meu **Painel**. 
+1.  Selecione **revendedores indiretos** no seu menu **Partner Center** . 
 
 2.  Encontre o revendedor indireto que você deseja atribuir aos novos clientes e, em seguida, selecione **Adicionar novo cliente**. Observe que o revendedor indireto já está selecionado para você no formulário de detalhes do cliente. Forneça os detalhes do cliente e, em seguida, selecione **Próximo: assinaturas**. 
 3.  Na página **Nova assinatura**, selecione as assinaturas que o cliente quer comprar e, em seguida, insira o número de licenças que o cliente precisa. 
@@ -107,7 +107,7 @@ Quando você associa um revendedor de uma nova conta do cliente, você está del
 
 Quando os clientes desejarem comprar novas assinaturas, atualizar as existentes ou comprar licenças adicionais, faça essas alterações na conta do cliente. 
 
-1.  Selecione **Clientes** no menu **Painel**. 
+1.  Selecione **clientes** em seu menu **Partner Center** . 
 
 2.  Localizar o cliente cuja conta você deseja alterar. Você pode filtrar a lista por revendedor indireto para limitar suas opções. Expanda o registro do cliente selecionando a seta para baixo e, em seguida, selecione **Adicionar assinatura**.
 

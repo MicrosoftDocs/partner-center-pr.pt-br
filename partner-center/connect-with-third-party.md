@@ -4,12 +4,12 @@ description: Compre software de terceiros que funcione com produtos da Microsoft
 author: labrenne
 keywords: ofertas de terceiros, software para compra
 ms.localizationpriority: medium
-ms.openlocfilehash: d7ab7e1f8886a63c9b97d3b85dfa51d26464dc06
-ms.sourcegitcommit: 535b52aa23e1250a7294f57d17078c77ee54e0cd
+ms.openlocfilehash: 7ea21f8799faaf34703e51f9620f8169364569dc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "4062158"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489842"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Adicionar software de terceiros ao seu portfólio
 
@@ -53,7 +53,7 @@ Na página de detalhes, você encontrará um link para o site do ISV, informaç�
 
 A compra do software de terceiros é igual à compra de um software primário. 
 
-1. No **painel**, selecione **Clientes**
+1. Desde o **Partner Center**, selecione **os clientes**
 2. Selecione **Nova assinatura**
 3. Selecione a cobrança mensal para software de terceiros. As cobranças anuais e de avaliação não estão disponíveis atualmente para terceiros.
 4. Na guia de terceiros, selecione o produto que deseja comprar

@@ -5,12 +5,12 @@ ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 keywords: adicionar licenças à assinatura existente, adicionar estações à assinatura existente, modificar uma assinatura, alterar uma assinatura, comprar mais licenças para um cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 089baed41e278dff269c622641fa685d684ea4fe
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: aa3ca83353b5efece1cb86395f82f6e876deb25b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874866"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489722"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Adicionar licenças ou serviços a uma assinatura existente
 
@@ -90,7 +90,7 @@ Para saber mais sobre o impacto disso na cobrança, consulte os detalhes sobre c
 1.  Para ver se uma assinatura é qualificada para atualização, escolha seu cliente e abra a lista de assinaturas dele.
 2.  Se a assinatura pode ser atualizada, você verá um ícone informativo logo após o nome de assinatura. Passe o mouse sobre esse ícone e selecione **Atualizar agora**.
 3.  Selecione a oferta de nova, em seguida, escolha **Enviar**.
-4.  Pode haver trabalho adicional para a transição de algumas contas de usuário para determinados serviços. Em caso afirmativo, o Painel de Parceiros fornece uma lista de contas e serviços que foram afetados. Para obter ajuda, consulte o artigo da base de dados de conhecimento [Problemas ao reatribuir licenças enquanto você alterna planos no Office 365](http://go.microsoft.com/fwlink/p/?LinkId=723576).
+4.  Pode haver trabalho adicional para a transição de algumas contas de usuário para determinados serviços. Em caso afirmativo, o Partner Center fornece uma lista de contas e serviços que foram afetados. Para obter ajuda, consulte o artigo da base de dados de conhecimento [Problemas ao reatribuir licenças enquanto você alterna planos no Office 365](http://go.microsoft.com/fwlink/p/?LinkId=723576).
 
  
 

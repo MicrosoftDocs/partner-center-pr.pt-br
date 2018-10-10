@@ -8,16 +8,17 @@ ms.assetid: 1922FCE8-3A89-44ED-B4E1-BFCD2326BB06
 ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
-ms.openlocfilehash: 73672f7ab037b8d7c3674c2f8ef72700ae6462b5
-ms.sourcegitcommit: 6ad681d132ab60bf09cd01eba385a9fad7563fa7
+ms.openlocfilehash: 86493059c6894fad96163178df3bd095e9a88420
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/06/2018
-ms.locfileid: "3405418"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489352"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>Analisar as assinaturas e licenças 
 
-**Aplica-se a**
+**Aplicável a**
+
 - Partner Center
 
 Os dados impulsionam as decisões de negócios. Use as métricas na página de **assinatura e análise de licença** para identificar seu êxitos e áreas que precisam de mais atenção. Use essas informações ao planejar novas metas de negócios.
@@ -37,9 +38,9 @@ Esse relatório pode dinamizar com base nos seguintes produtos:
 Estamos monitorando as seguintes métricas:
 
 **Resumo**  
- - **Assinaturas vendido**: contagem de assinaturas criada para o período de tempo especificado  
+ - **Assinaturas vendido**: contagem de assinaturas criado para o período de tempo especificado  
  - **Licenças vendidas**: contagem de licenças vendidas para o período de tempo especificado   
- - **Renovar assinaturas nos 30 dias**: contagem de assinaturas onde o status está ativo para o tempo especificado período e onde é true **renovar automaticamente**
+ - **Renovar assinaturas nos 30 dias**: contagem de assinaturas onde o status está ativo para o tempo especificado e período em que vale **renovar automaticamente**
  - **As assinaturas ativas**: assinaturas onde o status está **ativo**  
  - **Assinaturas Suspended**: contagem de assinaturas suspensas, não há nenhum filtro de data  
 
@@ -55,7 +56,7 @@ Estamos monitorando as seguintes métricas:
  - **Assinaturas Deprovisioned**: contagem de assinaturas desprovisionada ou suspenso por data  
 
 **Assinaturas suspensas**  
- - Lista de todas as assinaturas com um status de **suspensa**, excluindo ofertas de avaliação  
+ - Lista de todas as assinaturas com um status de **Suspended**, excluindo ofertas de avaliação  
   
 **Assinaturas ativas**
  - Lista de todas as assinaturas ativas  

@@ -3,12 +3,12 @@ title: Oferecer avaliações de produtos da Microsoft aos clientes | Partner Cen
 description: Seus clientes podem testar produtos de assinatura da Microsoft durante 30 dias.
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0babc2c529008d7b76250323b5c4ab5f2f18ada1
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 4fb7c8752ee6c7ce322ec735a1b3c41a00f92c75
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875306"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488572"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Ofereça avaliações de produtos da Microsoft aos seus clientes
 
@@ -20,7 +20,7 @@ Uma boa maneira de apresentar novos produtos da Microsoft aos clientes é oferec
 
 ## <a name="sign-your-customer-up-for-a-trial"></a>Inscreva seu cliente para uma avaliação
 
-1.  De **Vender** no Painel, acesse **Catálogo**. 
+1.  No **vender** no Partner Center, vá para o **catálogo**. 
 2.  No catálogo, em **Frequência da cobrança**, clique em **Trial offer**. Isso exibe apenas as avaliações gratuitas e oculta ofertas que não são gratuitas. Avaliações aparecem na guia **Avaliações** no catálogo.
 3.  Selecione a avaliação gratuita que você deseja oferecer e, em seguida, selecione **enviar**. Todas as avaliações são válidas por um período de 30 dias durante o qual você não será cobrado. Você também pode convertê-la para uma assinatura paga a qualquer momento durante a avaliação.
 

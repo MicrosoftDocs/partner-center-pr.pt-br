@@ -5,12 +5,12 @@ ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: dadd034214edabcea3d96c7e86f9c1de609dd3d3
-ms.sourcegitcommit: 4a01f039c35ea327db747732d368f2e530e76f9c
+ms.openlocfilehash: 1f4de4c9159d451c39ffa2b71cc000fda3c82acf
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/25/2018
-ms.locfileid: "4197684"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490042"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Relatar problemas em nome de um cliente
 
@@ -24,7 +24,7 @@ Se o cliente está tendo um problema de serviço que você não consegue resolve
 
 **Envie uma solicitação de serviço por um cliente**
 
-1.  Do menu **Painel**, selecione **Solicitações de serviço** e então **Solicitação do cliente**. 
+1.  No menu **Partner Center** , selecione **solicitações de serviço** e, em seguida, a **solicitação do cliente**. 
 
 2.  Na página Solicitações do cliente, pesquise o cliente desejado.
 

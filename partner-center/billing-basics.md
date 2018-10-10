@@ -4,12 +4,12 @@ Description: Information on basic billing scenarios and the differences between 
 author: labrenne
 keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções fiscais, arquivos de reconciliação, arquivo de reconciliação
 ms.localizationpriority: medium
-ms.openlocfilehash: 98b4edcbc7c10e73b59f89b74494ae363a306745
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 85b1fc90a65ca8c982dd58bc51130488e09e86de
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876386"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490062"
 ---
 # <a name="billing-basics"></a>Noções básicas de cobrança
 
@@ -55,7 +55,7 @@ Agora, além da opção mensal, você tem uma opção de cobrança anual. Consul
 <tr class="even">
 <td>Disponibilidade de fatura</td>
 <td><ul>
-<li>Você pode ver e baixar suas faturas e seus arquivos de reconciliação na página Cobrança no Painel de Parceiros. Observe que as faturas mensais estarão disponíveis no Painel de Parceiros em até quatro (4) dias da data de cobrança selecionada.</li>
+<li>Você pode ver e baixar suas faturas e seus arquivos de reconciliação na página Cobrança no Partner Center. Observe que as faturas mensais estarão disponíveis no Partner Center em até quatro (4) dias da data de cobrança selecionada.</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -155,23 +155,23 @@ Seus clientes pagam antecipadamente por Instâncias de VM Reservadas do Azure. Q
 >[!IMPORTANT]
 >Se você comprar Instâncias de VM Reservadas do Azure para um cliente em um mercado com uma moeda diferente da sua, a moeda de cobrança padrão se baseará no mercado do cliente, não em sua localização. Se você tiver clientes em vários mercados, receberá faturas separadas e arquivos de reconciliação para cada moeda em que os clientes precisam ser cobrados, permitindo que você envie faturas para seus clientes na moeda apropriada. 
 
-Para acessar arquivos de reconciliação e faturas de cobrança única, selecione **Cobrança** do Painel de Parceiros e então selecione **Uma vez**. 
+Para acessar arquivos de reconciliação e faturas de cobrança única, seleciona **a cobrança** do Partner Center e, em seguida, selecione **uma vez**. 
 
 ### <a name="manage-your-one-time-billing"></a>Gerenciar a cobrança única
 
 #### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>Exibir o status de cobrança, as faturas e os arquivos de reconhecimento atuais
 
-1.  No seu Painel de Parceiros, selecione **Cobrança** e então **Uma vez** para exibir o status de cobrança. 
+1.  No Partner Center, selecione **de cobrança** e, em seguida, **uma vez** para exibir o status de cobrança. 
 2.  Selecione uma fatura ou um arquivo de reconhecimento para exibir informações mais detalhadas. 
 
 #### <a name="view-a-customers-order-history"></a>Exibir o histórico de pedidos de um cliente
 
-1.  Selecione **Clientes** no menu do painel.
+1.  Selecione **os clientes** no menu Partner Center.
 2.  Na sua página **Clientes**, localize o cliente cujo histórico de pedidos você deseja exibir e, em seguida, selecione a seta para baixo para expandir o registro do cliente. 
 3.  Selecione **Exibir pedidos** para exibir o histórico de pedidos.
 
 #### <a name="download-a-credit-note"></a>Baixe uma nota de crédito
 
-Se você exercício um crédito completo (Void fatura) e nova cobrança, forneceremos uma nota de crédito para cancelar a fatura original, e também um documento totalmente novo. Você pode solicitar uma crédito/nova cobrança pelos seguintes motivos:
+Se você exercício um crédito completo (Void fatura) e uma nova cobrança, forneceremos uma nota de crédito para cancelar a fatura original, e também um documento totalmente novo. Você pode solicitar uma crédito/nova cobrança pelos seguintes motivos:
 -   Correções de ordem de compra ou endereço
--   Fatura gerada e, em seguida, um reembolso de imposto foi aplicado. Você pode solicitar uma crédito/nova cobrança para obter o reembolso de imposto puxado de volta para a fatura original. Isso também é verdadeiro para reembolsos, como você pode solicitar uma crédito/nova cobrança da fatura original e, em seguida, recepção em um reembolso.
+-   Fatura gerada e, em seguida, um reembolso de imposto foi aplicado. Você pode solicitar uma crédito/nova cobrança para obter o reembolso de imposto puxado volta para a fatura original. Isso também é verdadeiro para reembolsos, como você pode solicitar uma crédito/nova cobrança da fatura original e, em seguida, recepção em um reembolso.

@@ -5,12 +5,12 @@ ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 Keywords: assign license, revoke license, assign to multiple users,
 ms.localizationpriority: medium
-ms.openlocfilehash: 483d0d13415c204106c2269d9cdcd80298e59bc2
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: fafbb038214d31f6e0a3298705128ac3ba1ab722
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877086"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490002"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Atribuir licenças a vários usuários ou revogá-las
 
@@ -20,7 +20,7 @@ ms.locfileid: "2877086"
 
 Você pode atribuir licenças e serviços a um usuário ou a vários usuários ao mesmo tempo em uma conta de cliente e revogar atribuições de licença para os usuários.
 
-O Painel de Parceiros rastreia e mostra todos os direitos de licença de propriedade do cliente.
+o Partner Center rastreia e mostra todos os direitos de licença de propriedade do cliente.
 
 ## <a name="in-this-section"></a>Nesta seção
 
@@ -31,7 +31,7 @@ O Painel de Parceiros rastreia e mostra todos os direitos de licença de proprie
 <a href="" id="assign-licenses-to-groups"></a>
 **Atribuir licenças a vários usuários**
 
-1.  No menu **Painel**, selecione **Clientes** e escolha um cliente da lista.
+1.  No menu **Partner Center** , selecione **os clientes**e, em seguida, escolha um cliente na lista.
 2.  Selecione **Usuários e licenças**.
 3.  Marque a caixa de seleção de dois ou mais usuários na lista. (Para selecionar todos os usuários na página atual, marque a caixa de seleção na parte superior da coluna **Usuários**.)
 
@@ -57,7 +57,7 @@ O Painel de Parceiros rastreia e mostra todos os direitos de licença de proprie
 7.  Selecione mais de um produto para os usuários marcando a caixa de seleção de cada produto.
     -   Selecione **Exibir planos de serviço** para qualquer produto, para ver e selecionar os planos de serviço de que os usuários precisam.
 
-8.  Selecione **Salvar**. O Painel de Parceiros abrirá uma página de confirmação **Licenças atualizadas** listando os usuários e suas novas licenças.
+8.  Selecione **Salvar**. O Partner Center abrirá uma página de confirmação **licenças atualizadas** listando os usuários e suas novas licenças.
 
 **Observação**  Alguns produtos da Microsoft podem não estar disponíveis em determinados locais. Outros produtos dependem de outros produtos ou serviços ou não podem ser atribuídos em conjunto ao mesmo usuário. Depois de salvar, a página de confirmação listará os resultados da atribuição de licença bem-sucedida para todos os usuários e quaisquer erros da atribuição de licença.
 
@@ -66,7 +66,7 @@ O Painel de Parceiros rastreia e mostra todos os direitos de licença de proprie
 <a href="" id="revoking-licenses"></a>
 **Revogando atribuições de licença dos usuários**
 
-1.  No menu **Painel**, selecione **Clientes** e escolha um cliente da lista.
+1.  No menu **Partner Center** , selecione **os clientes**e, em seguida, escolha um cliente na lista.
 2.  Selecione **Usuários e licenças**.
 3.  Marque a caixa de seleção de dois ou mais usuários na lista. (Para selecionar todos os usuários na página atual, marque a caixa de seleção na parte superior da coluna **Usuários**.)
 

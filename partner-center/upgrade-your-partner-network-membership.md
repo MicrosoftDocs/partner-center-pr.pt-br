@@ -4,12 +4,12 @@ description: Quando você atualiza sua associação ao Microsoft Partner Network
 author: MaggiePucciEvans
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b282ab2fc83acbf31c5682f6e66b7bc401b81c06
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 5ff177cf0c4f424892d664e1d089a32ca04b385b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377778"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489702"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Atualizar sua associação ao Microsoft Partner Network
 
@@ -47,12 +47,12 @@ Action Pack é uma assinatura anual acessível de serviços, software e suporte 
 Para obter mais informações sobre o Microsoft Action Pack, vá para [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
 > [!NOTE]  
-> Clicar nesse link, você será levado para outro site. Retorne para este site, Partner Center, para assinar o pacote de ação.
+> Clicar nesse link, você será levado para outro site. Retorne para este site, site do Partner Center, para se inscrever em Action Pack.
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>Inscrever-se ao Microsoft Action Pack
 
-1. No menu **Painel**, selecione **Parceria > Ofertas**. O Microsoft Action Pack está listado em **Ofertas disponíveis**. Selecione **Inscrever-se agora**. 
+1. No menu **Partner Center** , selecione **parceria > ofertas**. O Microsoft Action Pack está listado em **Ofertas disponíveis**. Selecione **Inscrever-se agora**. 
 
 2. Selecione **Avançar** para aceitar os [Termos e condições](https://go.microsoft.com/fwlink/?linkid=842232) para direitos de uso interno concedidos pelo Microsoft Partner Network.  
 
@@ -70,7 +70,7 @@ Sua assinatura do Action Pack será renovada automaticamente todos os anos nesta
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Desativar a renovação automática da assinatura do Action Pack
 
-1. No menu **Painel**, selecione **Parceria > Ofertas**. Microsoft Action Pack é listado em **Ofertas adquiridas**.
+1. No menu **Partner Center** , selecione **parceria > ofertas**. Microsoft Action Pack é listado em **Ofertas adquiridas**.
 
 2. Selecione **Assinatura do Microsoft Action Pack** para exibir os detalhes de assinatura. 
 
@@ -82,7 +82,7 @@ Sua assinatura do Action Pack será renovada automaticamente todos os anos nesta
 
 ### <a name="renew-your-action-pack-subscription"></a>Renovar sua assinatura do Action Pack
 
-1. No menu **Painel**, selecione **Parceria > Ofertas**. Microsoft Action Pack seja listado sob **Ofertas adquiridas**.
+1. No menu **Partner Center** , selecione **parceria > ofertas**. Microsoft Action Pack seja listado sob **Ofertas adquiridas**.
 
 2. Selecione **Assinatura do Microsoft Action Pack** para visualizar os detalhes de assinatura e selecione **Renovar assinaturas** em **Ações**.  
 

@@ -4,18 +4,18 @@ Description: Fulfill the new requirements to be a direct partner in CSP
 author: labrenne
 keywords: CSP, parceiro direto, cobrança direta, requisitos
 ms.localizationpriority: medium
-ms.openlocfilehash: 6df493e50bf225b3a37e0fbdad61baaf944ebe46
-ms.sourcegitcommit: d7fffbb88740a25b3c2e5c9e21e0d36a4493df50
+ms.openlocfilehash: cd2a5e582e982e105bfcf757ca5f02944b316e9d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/04/2018
-ms.locfileid: "4349745"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488692"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>Novos requisitos de parceiro direto de CSP
 
 **Aplicável a**
 
-- Painel de parceiros
+- Partner Center
 
 Transformação digital está evoluindo da maneira que nossos clientes fazem negócios. Para acompanhar e continuar a fornecer serviço extraordinário, podemos deve evoluir, também. Como parte dos nossos esforços em andamento para ajudar a todos os parceiros participando do programa CSP êxito e ampliar, atualizamos os requisitos de registro para parceiros diretos. Esses novos requisitos fortalecem nossos negócios e técnicas relações com parceiros que têm a infraestrutura, dar suporte a funcionalidade e operações seja dimensionado, e estão crescendo para seus clientes base a uma taxa maior que a média.
 

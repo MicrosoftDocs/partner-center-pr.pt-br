@@ -2,26 +2,26 @@
 title: Gerenciar reservas do Azure em nome dos seus clientes | Partner Center
 Description: Purchasing and managing Azure reservations on behalf of your customers.
 author: v-petand
-keywords: Azure, reservas, gerenciar, cobrança, compra
+keywords: Azure, reservas, gerenciar, cobrança, comprar
 ms.localizationpriority: medium
-ms.openlocfilehash: 5025c32da86944f65c548a7e3ef6e61f7275522e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: d2ade5ff37d98a5667df7016cff2044d5001c036
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877396"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489772"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gerenciar reservas do Microsoft Azure em nome dos seus clientes
 
 **Aplica-se a**
 
--  Painel de parceiros
+-  Partner Center
 -  Portal do Microsoft Azure
 -  Parceiros no CSP
 
-Para gerenciar o pós-compra de reservas do Azure dos seus clientes, você vai selecionará o cliente e a reserva que deseja gerenciar em seu painel de parceiros e, em seguida, faça alterações na reserva no portal do Azure. 
+Para gerenciar o pós-compra de reservas do Azure de seus clientes, você vai selecionará o cliente e a reserva que você deseja gerenciar no Partner Center e, em seguida, faça alterações na reserva no portal do Azure. 
 
-1. Para começar, selecione **Clientes** do menu do painel e, em seguida, selecione o cliente cujas reservas você deseja gerenciar. 
+1. Para começar, selecione **os clientes** do seu menu Partner Center e, em seguida, selecione o cliente cujas reservas você deseja gerenciar. 
 
 2. No menu de página de detalhes do cliente, selecione **reservas do Azure** e, em seguida, selecione a reserva específica que você deseja gerenciar.  
 
@@ -48,16 +48,16 @@ Uma troca permite que um cliente receba um reembolso proporcional com base no te
 
 ## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>Solicitar um reembolso ou uma troca em nome de um cliente 
 
-Para enviar uma solicitação de suporte para obter um reembolso ou uma troca em nome dos seus clientes, você selecionará o cliente e a reserva em seu Painel de Parceiros, e então criará a solicitação de suporte no portal do Azure. 
+Para enviar uma solicitação de suporte para um reembolso ou uma troca em nome dos seus clientes, você selecionará o cliente e a reserva no Partner Center e, em seguida, criar a solicitação de suporte no portal do Azure. 
 
 >[!NOTE]
 >Os agentes do Suporte da Microsoft para fornecer a ID da reserva e a ID do pedido da reserva. Você pode encontrar essas informações na página **Propriedades** no portal do Azure. 
 
-1. Para começar, selecione **Clientes** no menu do painel e, em seguida, selecione o cliente que deseja um reembolso. 
+1. Para começar, selecione **os clientes** a partir da ao menu Partner Center e, em seguida, selecione o cliente que deseja um reembolso. 
 
 2. Na página de detalhes do cliente, selecione **Reservas do Azure** e, em seguida, selecione a reserva específica para a o cliente quer reembolso.  
 
-3. Em **ações**, selecione **reembolso** para ir para registro de reserva do cliente no portal do Azure e iniciar uma solicitação de suporte.  
+3. Em **ações**, selecione **reembolsar** para ir para registro de reserva do cliente no portal do Azure e iniciar uma solicitação de suporte.  
 
 4. Na página **Nova solicitação de suporte**, siga as etapas abaixo para solicitar um reembolso. Selecione **Avançar** depois de cada etapa. 
 
@@ -71,7 +71,7 @@ Para enviar uma solicitação de suporte para obter um reembolso ou uma troca em
 |**Para obter informações sobre**   |**Leia isto**    |
 |:-----------------------------|:-----------------|
 |Reservas do Azure na visão geral do CSP  | [Vender instâncias reservadas do Microsoft Azure](azure-reservations.md) |
-|Como comprar reservas do Azure para seus clientes em seu Painel de Parceiros   |[Comprar reservas do Azure](azure-reservations-buying.md) |
+|Como comprar reservas do Azure para seus clientes no Partner Center   |[Comprar reservas do Azure](azure-reservations-buying.md) |
 |Determinar o tamanho correto da VM e verificar o uso da VM do cliente   |[Dimensionamento de VM para uso máximo de reserva do Azure](azure-usage.md)   |
 |Como comprar reservas do Azure usando a API do Partner Center | [Comprar Instâncias de VM Reservadas do Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) na documentação do desenvolvedor do Partner Center
 

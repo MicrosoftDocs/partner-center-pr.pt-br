@@ -1,33 +1,33 @@
 ---
 title: Atribuir funções de usuários e permissões | Partner Center
-description: Todos os funcionários que precisam trabalhar no painel de parceiros devem ter atribuído uma função.
+description: Uma função devem ser atribuído a todos os funcionários que precisam trabalhar no Partner Center.
 author: labrenne
 keywords: funções, permissões, administrador, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: b020c7b57874859d54c2b9c638302ab74a21b93a
-ms.sourcegitcommit: 6de78bec6b51b3b30052dfd0ad3f9fbdec31abae
+ms.openlocfilehash: 31ee676b9025edb82b155f64b9b2f44a3873c38c
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/26/2018
-ms.locfileid: "4227440"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489482"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Atribuir permissões e funções de usuários
 
 **Aplica-se a:**
 
-- Painel de Parceiros
+- Partner Center
 
-Cada função no painel vem com determinadas permissões permitindo que um usuário para realizar tarefas específicas. Qualquer pessoa que funciona no painel deve ser atribuída a uma função.
+Cada função no Partner Center vem com determinadas permissões que permite ao usuário para realizar tarefas específicas. Qualquer pessoa que funciona no Partner Center deve ter atribuída uma função.
 
-Dependendo do tamanho da sua organização, alguns usuários podem funcionar em todos os locais ou apenas para um local. 
+Dependendo do tamanho da sua organização alguns usuários podem funcionar em todos os locais ou apenas para um local. 
 
 Por exemplo:
 
 - O administrador global pode ser o administrador para os negócios legais e um local específico; ou o administrador global pode ser administrador para apenas um dos locais de uma empresa. 
-- Administradores de incentivos podem administrar para um ou mais locais, mas esses locais precisam ser especificado.
+- Administradores de incentivos podem administrar para um ou mais locais, mas nesses locais precisam ser especificados.
 
 
-A tabela a seguir explica o que cada função pode fazer no Painel de Parceiros. Ao pensar sobre a forma como você deseja atribuir funções, considere o trabalho que um usuário faz em sua organização. Você pode, por exemplo, desejar que o administrador global também seja o agente administrativo. A pessoa que lida com seu marketing também pode ser a pessoa que deve gerenciar o perfil de negócios.
+A tabela a seguir explica o que cada função pode fazer no Partner Center. Ao pensar sobre a forma como você deseja atribuir funções, considere o trabalho que um usuário faz em sua organização. Você pode, por exemplo, desejar que o administrador global também seja o agente administrativo. A pessoa que lida com seu marketing também pode ser a pessoa que deve gerenciar o perfil de negócios.
 
 Para obter uma visão geral de funções e permissões, leia [criar contas de usuário e definir permissões](create-user-accounts-and-set-permissions.md).
 
@@ -38,14 +38,14 @@ Para obter uma visão geral de funções e permissões, leia [criar contas de us
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Função no Painel de Parceiros</strong></p></td>
+<td><p><strong>Função no Partner Center</strong></p></td>
 <td><p><strong>O que eles podem fazer</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Administração global</strong></p></td>
 <td><ul>
 <li><p>Pode acessar todas as contas/serviços da Microsoft com todos os privilégios</p></li>
-<li><p>Criar tíquetes de suporte para o Painel de Parceiros</p></li>
+<li><p>Criar tíquetes de suporte para o Partner Center</p></li>
 <li><p>Exibir contratos, listas de preços e ofertas</p></li>
 <li><p>Cobrança</p></li>
 <li><p>Exibir, criar e gerenciar usuários de parceiros</p></li>
@@ -106,7 +106,7 @@ Para obter uma visão geral de funções e permissões, leia [criar contas de us
 <td><p><strong>Administrador de incentivos</strong></p></td>
 <td><ul>
 <li><p>Poderá atribuir funções de incentivos</p></li>
-<li><p>Inicia e gerencia as declarações de incentivos</p></li>
+<li><p>Inicia e gerencia declarações de incentivos</p></li>
 <li><p>Pode exibir e editar todos os aspectos de programas de incentivos</p></li>
 <li><p>Pode exibir detalhes bancários e fiscais</p></li>
 <LI><p>Lucros de desconto e cooperação de modo de exibição</p></li>
@@ -130,7 +130,7 @@ Para obter uma visão geral de funções e permissões, leia [criar contas de us
 <td><p><strong>Agente administrativo</strong></p></td>
 <td><ul>
 <li><p>Gerenciamento de clientes</p></li>
-<li><p>Adicionar lista de dispositivos para o painel de parceiros <</p></li>
+<li><p>Adicionar lista de dispositivos ao Partner Center <</p></li>
 <p><li>Criar e aplicar perfis aos dispositivos</p></li>
 <li><p>Gerenciamento de assinaturas</p></li>
 <li><p>Solicitações de integridade e serviços para clientes</p></li>
@@ -145,7 +145,7 @@ Para obter uma visão geral de funções e permissões, leia [criar contas de us
 <td><p><strong>Agente de vendas</strong></p></td>
 <td><ul>
 <li><p>Gerenciamento de clientes</p></li>
-<li><p>Adicionar lista de dispositivos ao Painel de Parceiros</p></li>
+<li><p>Adicionar lista de dispositivos ao Partner Center</p></li>
 <li><p>Gerenciamento de assinaturas</p></li>
 <li><p>Exibir tíquetes de suporte</p></li>
 <li><p>Solicitar uma relação com um cliente</p></li>

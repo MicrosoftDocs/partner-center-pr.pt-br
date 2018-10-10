@@ -4,12 +4,12 @@ description: Recursos para expandir seus negócios de parceiro da Microsoft. Inc
 keywords: indicações, responder às indicações, clientes em potencial, oportunidades de vendas, perfil de marketing, perfil de negócios, expandir seus negócios, oportunidades de negócios, competências, afiliação silver, afiliação gold, ofertas de avaliação, expansão de mercado, nuvens nacionais
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e84d24f398fb63e6fe8749ff4112866c4cf75b26
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 19a518e32ed352adf4363fc6a7ae84fb5a00e5ca
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377438"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489652"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Expandir seus negócios de parceiro da Microsoft 
 
@@ -36,7 +36,7 @@ Use o Partner Center para:
 | Oferecer aos seus clientes preços promocionais em assinaturas da Microsoft | Ocasionalmente, a Microsoft oferece promoções em assinaturas baseadas em licença, permitindo que você passe a economia para os clientes e expanda seus negócios. Leia [Oferecer aos seus clientes preços promocionais em assinaturas da Microsoft](promotions.md) para saber como. | Parceiros CSP |
 | Vender em mercados adicionais | O canal de vendas do Provedor de Soluções na Nuvem está disponível em muitos países e regiões. Consulte [Mercados de Provedor de Soluções na Nuvem](agreements.md) para examinar a lista. Para obter uma introdução ao canal do Provedor de Soluções na Nuvem, consulte [Visão geral do Provedor de Soluções na Nuvem](csp-overview.md).  | Parceiros CSP |
 Vender para setores especializados como sem fins lucrativos que organizações estejam e educação|[Vender para setores especializados](get-special-pricing-for-offers.md)|Parceiros CSP|
-|Expanda seus negócios pelas muitas atividades disponíveis no programa de cooperação de incentivos. Declarações de arquivo para as atividades por meio do painel.| [Criar e gerenciar solicitações de incentivos](create-incentives-claims.md)|Parceiros CSP|
+|Expanda seus negócios pelas muitas atividades disponíveis no programa de cooperação de incentivos. Declarações de arquivo para as atividades por meio do Partner Center.| [Criar e gerenciar solicitações de incentivos](create-incentives-claims.md)|Parceiros CSP|
 |Criar novos pacotes de software, incluindo ofertas de terceiros que funcionam com o software Microsoft que você já estiver vendendo|[Descobrir as ofertas de terceiros](third-party-offers.md)|Parceiros CSP|
 
 ## <a name="see-also"></a>Consulte também

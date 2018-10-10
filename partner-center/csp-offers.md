@@ -1,23 +1,23 @@
 ---
 title: Ofertas de parceiro no programa provedor de soluções na nuvem | Partner Center
-description: Saiba mais sobre ofertas disponíveis para parceiros que vendem por meio do programa de provedor de soluções de nuvem.
+description: Saiba mais sobre ofertas disponíveis para parceiros que vendem por meio do programa Cloud Solution Provider.
 author: maggiepuccievans
-keywords: Cloud Solution Provider, programa de provedor de soluções na nuvem, CSP, adicionar um produto, vender aos clientes, ofertas de parceiros, ofertas CSP, serviços baseados em nuvem, Azure, Office 365, Dynamics, parceiro CSP, vender no CSP, Azure RI, instâncias de máquina virtual, Azure reservadas do Azure reservas, serviços on-line, software de assinatura, AHUB, SQL Server no Azure, Windows Server no Azure, assinaturas de cliente
+keywords: Cloud Solution Provider, programa de provedor de soluções na nuvem, CSP, adicionar um produto, vender aos clientes, ofertas de parceiros, ofertas CSP, serviços baseados em nuvem, Azure, Office 365, Dynamics, parceiro CSP, vender no CSP, Azure RI, instâncias de máquina virtual, Azure reservadas do Azure reservas, serviços online, software de assinatura, AHUB, SQL Server no Azure, Windows Server no Azure, assinaturas de cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 81df6683b96c2aa4c158a61312ce1834c7b43185
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: cdc2e3a4b86724c3403c112c03b3e407ee45fb42
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875616"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488902"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Ofertas de parceiro no programa provedor de soluções de nuvem 
 
-**Aplica-se a**
+**Aplicável a**
 
 -  Parceiros CSP
 
-Os parceiros da Microsoft no programa Cloud Solution Provider (CSP) tem um catálogo crescente de ofertas disponíveis para eles. Você pode vender a gama completa de [serviços em nuvem da Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), bem como uma variedade de ofertas adicionais que mudam com frequência. Para ver que as ofertas do CSP no mês atual, entre no painel e, em seguida, vá para a página de [**preços e ofertas**](https://partnercenter.microsoft.com/pcv/sales) .  
+Os parceiros da Microsoft no programa Cloud Solution Provider (CSP) tem um catálogo crescente de ofertas disponíveis para eles. Você pode vender a gama completa de [serviços em nuvem da Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), bem como uma variedade de ofertas adicionais que mudam com frequência. Para ver as ofertas do CSP no mês atual, entre no Partner Center e, em seguida, acesse a página [**Preços e ofertas**](https://partnercenter.microsoft.com/pcv/sales).  
 
 Ainda não registrados no programa provedor de soluções de nuvem? Visite o [Provedor de soluções de nuvem](https://partner.microsoft.com/cloud-solution-provider) para obter mais detalhes sobre como se registrar. 
 
@@ -45,11 +45,11 @@ No momento, você pode vender os seguintes tipos de produtos e serviços para se
 
 Para comprar produtos e serviços em nome dos seus clientes CSP, selecione os itens que o cliente quer, adicioná-los ao carrinho, que cria uma ordem e, em seguida, examine e pagar o pedido. As etapas detalhadas estão abaixo.
 
-1. Selecione **os clientes** no menu do painel e, em seguida, localize o cliente que deseja comprar com você. 
+1. Selecione **os clientes** no menu Partner Center e localize o cliente que deseja comprar com você. 
 
-2. Selecione a seta para baixo no final da linha do cliente para expandir o registro do cliente e, em seguida, selecione **Adicionar produtos**. A partir daqui, está criando um pedido. Um pedido pode incluir vários itens de tipos diferentes, mas eles devem ser para o mesmo cliente.
+2. Selecione a seta para baixo no final da linha do cliente para expandir o registro do cliente e, em seguida, selecione **Adicionar produtos**. A partir daqui, estiver criando um pedido. Um pedido pode incluir vários itens de tipos diferentes, mas eles devem ser para o mesmo cliente.
 
-3. Na página **Adicionar produtos** , selecione do **Azure**, **serviços on-line**ou **Software**.
+3. Na página **Adicionar produtos** , selecione do **Azure**, **Serviços Online**ou **Software**.
 
 4. Ajuste os filtros disponíveis para localizar mais facilmente os produtos que você está procurando. Para ver a lista completa de que está disponível, defina filtros aplicáveis a **qualquer**. 
 
@@ -57,7 +57,7 @@ Para comprar produtos e serviços em nome dos seus clientes CSP, selecione os it
 
 6. Repita as etapas 4 e 5 até ter adicionado todos os itens necessários ao carrinho. Selecione **Revisão** para verificar se seu pedido está correto.  
 
-7. Na página **analisar suas ordens** , verificar ou alterar os produtos e a quantidade e, em seguida, selecione a **comprar** para a ordem de compra. 
+7. Na página **analisar suas ordens** , verificar ou alterar os produtos e a quantidade e, em seguida, selecione **comprar** para a ordem de compra. 
 
 8. Os detalhes do seu pedido, incluindo o número do pedido, são exibidos na próxima página. Selecione **Concluído** para ir para sua página **Histórico de pedidos**. 
 

@@ -4,12 +4,12 @@ Description: Skype for Business Online Plan 1 subscriptions is retiring.
 Author: labrenne
 keywords: Planos do Skype for Business, Skype desativado, Office 365
 ms.localizationpriority: medium
-ms.openlocfilehash: 82bafe918ba56fd834b1b468d6b787d52d2b90cd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8d41ded7a2315cb8a69871f43d41bad391db9885
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875456"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489802"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrar assinaturas do Skype for Business Online Plano 1 para versões mais novas do Office 365
 
@@ -51,13 +51,13 @@ A Microsoft oferece continuamente novos produtos e serviços para nossos parceir
 
 ### <a name="migrate-your-customers-to-new-plans"></a>Migrar seus clientes para novos planos
 
-1. Para comprar a nova assinatura, no **menu Painel**, selecione **Clientes**, selecione o cliente que você deseja migrar e selecione **Adicionar assinaturas**.
+1. Para comprar a nova assinatura, no **menu Partner Center**, selecione **os clientes**, selecione o cliente que você deseja mover e, em seguida, selecione **Adicionar assinaturas**.
 
 2. Selecione a assinatura que deseja comprar no catálogo (nesse caso, uma das opções acima), insira o número de licenças e selecione **Enviar**. 
 
 Agora seu cliente deve ter assinaturas antigas e novas: a assinatura antiga do Skype for Business Online Plano 1 e a nova "de destino", por exemplo, Opção 1 - Office 365 Enterprise F1.
 
-3. Para reatribuir licenças dos usuários do cliente, no menu **Painel**, selecione **Clientes**, selecione o cliente que você está migrando e selecione **Usuários e licenças**. A página Usuários e Licenças do cliente será aberta.
+3. Para reatribuir licenças dos usuários do cliente, no menu **Partner Center** , selecione **os clientes**, selecione o cliente está movendo e, em seguida, selecione **os usuários e licenças**. A página Usuários e Licenças do cliente será aberta.
 
 4. Para reatribuir a licença do usuário, selecione o usuário a ser reatribuído e selecione **Gerenciar licenças**.
 
@@ -67,7 +67,7 @@ Agora seu cliente deve ter assinaturas antigas e novas: a assinatura antiga do S
 
 Depois de migrar a licença do usuário para o novo serviço, você pode cancelar com segurança a assinatura desativada no nível do cliente.
 
-7. No menu **Painel**, selecione **Clientes**. Selecione o cliente cuja assinatura você está cancelando.
+7. No menu **Partner Center** , selecione **os clientes**. Selecione o cliente cuja assinatura você está cancelando.
 
 8. Na página de detalhe da assinatura, defina o status da assinatura como **Suspensa**.
 

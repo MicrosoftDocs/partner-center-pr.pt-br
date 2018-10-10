@@ -3,12 +3,12 @@ title: Os incentivos para parceiros agora estão no Partner Center | Partner Cen
 description: Os programas de incentivos estimulam os parceiros a desenvolver novas técnicas de marketing, oferecer treinamento e muito mais
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 086f81a07aa4f12f40c7f7d1ca47dc6051cd4e59
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: ef254f1630cdfb90d16971d31e4688b50c82b614
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875666"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488732"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>Os incentivos para parceiros agora estão no Partner Center 
 
@@ -32,11 +32,11 @@ Quando você ingressar no programa, estará qualificado para os lucros de reembo
 
 ## <a name="one-site-one-log-on"></a>Um site, um logon
 
-Agora que o programa de incentivos para parceiros da Microsoft foi movido para o Partner Center, você poderá fazer todo o trabalho de administrador, incluindo gerenciar usuários, trabalhar em nome dos clientes, inscrever-se para certificações e incentivos, relatar lucros de incentivos e receber pagamentos. Todos os seus dados de incentivos estão disponíveis no **Painel** de incentivos. Os dados de incentivos são atualizados diariamente.
+Agora que o programa de incentivos para parceiros da Microsoft foi movido para o Partner Center, você poderá fazer todo o trabalho de administrador, incluindo gerenciar usuários, trabalhar em nome dos clientes, inscrever-se para certificações e incentivos, relatar lucros de incentivos e receber pagamentos. Todos os seus dados de incentivos está disponível para você no seus incentivos **Do Partner Center**. Os dados de incentivos são atualizados diariamente.
  
 ## <a name="set-your-users-up-in-partner-center"></a>Configure seus usuários no Partner Center
  
-Primeiramente, você deve terminar de preencher sua conta no Partner Center configurando os usuários de incentivos. Você recebeu um email com uma lista dos usuários de incentivos da sua organização. Quando o administrador de incentivos da sua organização concluir a configuração do usuário, todos os seus dados de incentivos aparecerão no **Painel** de incentivos.
+Primeiramente, você deve terminar de preencher sua conta no Partner Center configurando os usuários de incentivos. Você recebeu um email com uma lista dos usuários de incentivos da sua organização. Quando o administrador de incentivos para sua organização concluir a configuração do usuário, todos os seus dados de incentivos aparecerão a incentivos **Do Partner Center**.
 
 **Veja também**
 

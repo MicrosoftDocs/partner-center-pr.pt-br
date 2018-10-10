@@ -5,12 +5,12 @@ ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: 103fb80729c82287136dd3f006cc514d795a91be
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: effdae8468e30be689acc265d9ae64b5d93c93ef
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874846"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489102"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Criar, suspender ou cancelar assinaturas de cliente
 
@@ -21,14 +21,14 @@ ms.locfileid: "2874846"
 -  Partner Center for Microsoft Cloud Germany
 -  Parceiros CSP
 
-Depois de criar um registro de seu cliente no Painel de Parceiros, você poderá vender a ele assinaturas de produtos no catálogo.
+Depois de criar um registro de seu cliente no Partner Center, você pode vendê-los assinaturas de produtos no catálogo.
 
-Note que algumas ofertas são limitadas a uma assinatura por cliente. Para ver uma lista das ofertas restritas, visite a página Preços e Ofertas do Painel de Parceiros. 
+Note que algumas ofertas são limitadas a uma assinatura por cliente. Para ver uma lista das ofertas restritas, visite a página Ofertas e Preços do Partner Center. 
 
 
 **Criar uma nova assinatura**
 
-1.  No menu **Painel**, selecione **Clientes** e escolha um cliente da lista.
+1.  No menu **Partner Center** , selecione **clientes**e, em seguida, escolha um cliente na lista.
 
 2.  Selecione **Nova assinatura**.
 
@@ -54,7 +54,7 @@ Quando você alterar o status de uma assinatura para **Suspensa**, os usuários 
 
 **Suspender uma assinatura**
 
-1.  No menu **Painel**, selecione **Clientes**, em seguida, escolha um cliente da lista.
+1.  No menu **Partner Center** , selecione **clientes**e, em seguida, escolha um cliente na lista.
 2.  Escolha a assinatura que deseja gerenciar.
 3.  Na seção **Status**, escolha **Suspensa**. Em seguida, **Envie ** suas alterações.
 4.  Todos os dados serão excluídos a menos que a assinatura seja reativada dentro de 90 dias, ou 90 dias mais o número de dias entre o momento em que a conta foi aberta e o primeiro período de cobrança (máximo de 120 dias).

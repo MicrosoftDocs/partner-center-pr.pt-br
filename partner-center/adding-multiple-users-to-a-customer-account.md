@@ -5,12 +5,12 @@ ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 keywords: upload em massa, adicionar vários usuários a uma conta do cliente, adicionar usuários do cliente, upload em massa de usuários do cliente, conta do cliente, usuários do cliente, usuários
 ms.localizationpriority: medium
-ms.openlocfilehash: e7a5e7f9c0cebf81373c500dd3a552710fcf845a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 123c2c7b80398a860aa894449052502d41409c85
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876966"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488812"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Adicionar vários usuários a uma conta do cliente
 
@@ -18,7 +18,7 @@ ms.locfileid: "2876966"
 
 -  Partner Center
 
-Você pode adicionar vários usuários a uma conta do cliente de uma vez, carregando um arquivo de dados no formato de arquivo de valores separados por vírgula (.csv) no Painel de Parceiros. Você pode baixar um arquivo de dados de exemplo do Painel de Parceiros e editá-lo para seu uso, ou pode criar um novo arquivo de dados usando o modelo de dados definido abaixo.
+Você pode adicionar vários usuários a uma conta do cliente uma vez, carregando um arquivo de dados no formato de arquivo de valores separados por vírgula (. csv) no Partner Center. Você pode baixar um arquivo de dados de exemplo do Partner Center e editá-lo para seu uso, ou você pode criar um novo arquivo de dados usando o modelo de dados definido abaixo.
 
 ## <a href="" id="creatingtheimportcsvfile"></a>Requisitos de arquivo de dados:
 
@@ -38,7 +38,7 @@ Insira os seguintes dados no arquivo de dados:
 | **Nome da coluna** | **Descrição**                                                              | **Limitação**                             |
 | Nome      | Nome do usuário (campo opcional)                                           | Limite de 50 caracteres                         |
 | Sobrenome       | Sobrenome do usuário (campo opcional)                                            | Limite de 50 caracteres                         |
-| Nome de exibição    | Nome exibido no Painel de Parceiros (campo obrigatório)                            | Limite de 50 caracteres                         |
+| Nome de exibição    | Nome exibido no Partner Center (campo obrigatório)                            | Limite de 50 caracteres                         |
 | Email           | Endereço de email comercial do usuário na empresa do cliente (campo obrigatório)           | Cada usuário deve ter um endereço de email exclusivo |
 | Atualização de status   | Usado para indicar se o novo registro de usuário foi ou não criado com êxito | \*\*Deixar em branco\* \ *                        |
 
@@ -48,7 +48,7 @@ Insira os seguintes dados no arquivo de dados:
 
 <a href="" id="creatingtheaccounts"></a>
 1.  Crie um arquivo de valores separados por vírgula (.csv) com os dados descritos acima. Salve o arquivo para que você possa usá-lo em uma etapa posterior.
-2.  No menu **Painel**, selecione **Clientes** e escolha um cliente da lista.
+2.  No menu **Partner Center** , selecione **clientes**e, em seguida, escolha um cliente na lista.
 3.  Selecione **Carregar usuários**.
 4.  Em **Carregar informações do usuário**, selecione **Procurar**.
 5.  No seletor de arquivo, selecione seu arquivo de dados e, em seguida, selecione **Abrir**.
@@ -56,7 +56,7 @@ Insira os seguintes dados no arquivo de dados:
 
     **Observação**  A maioria dos erros de criação de conta é causada por problemas no arquivo de dados, como falta de informações, endereços de email incorretos ou duplicados ou número excessivo de registros no arquivo.
 
-7.  Depois que o Painel de Parceiros validar o arquivo, selecione a **Localização** geográfica dos novos usuários.
+7.  Depois que o Partner Center validar o arquivo, selecione a **localização** geográfica dos novos usuários.
 8.  Selecione **Salvar**.
 9.  Baixe as informações de senha temporária dos usuários.
 

@@ -4,12 +4,12 @@ description: Agora é possível descobrir e comprar softwares de terceiros para 
 author: labrenne
 Keywords: ISV, third-party, third party, 3rd party, details pages, vertical software, software publisher
 ms.localizationpriority: medium
-ms.openlocfilehash: 8076104d1707ed4441340f82c34ff7d587938778
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 5b98707f1d14ea689f718f386c09e0f3ebbc558c
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877436"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489992"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Adicionar softwares de terceiros ao seu portfólio
 
@@ -46,9 +46,9 @@ Se você estiver interessado em fazer a compra, mas ainda tem dúvidas ou deseja
 
 ## <a name="purchase-the-third-party-software"></a>Comprar o software de terceiros
 
-A compra do software de terceiros é realizada da mesma forma que você compra um software primário. 
+A compra do software de terceiros é realizada da mesma forma que a compra de um software primário. 
 
-1.  No **Painel**, selecione **Clientes**.
+1.  Desde o **Partner Center**, selecione **os clientes**.
 2.  Selecione **Nova assinatura**.
 3.  Selecione a cobrança mensal para software de terceiros. As cobranças anuais e de avaliação não estão disponíveis atualmente para terceiros.
 4.  Na guia **Terceiros**, selecione o produto que deseja comprar.

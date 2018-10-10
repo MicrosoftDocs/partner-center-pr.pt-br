@@ -1,25 +1,25 @@
 ---
-title: Notificação do Painel de Parceiros para atividade de criptomineração | Painel de Parceiros
+title: Notificação da Central de parceiros para atividade de criptomineração | Partner Center
 description: Notificação sobre o andamento de potencial criptomineração.
 author: v-petand
 Keywords: crypto-mining, cryptocurrency mining, security
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f8dec91ae62b27c031739e59848118395ab52f7f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 93f4031d8e084c206ee21ff96b6c16a4c0d2ea0e
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876226"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488922"
 ---
-# <a name="partner-dashboard-notification-for-cryptocurrency-mining-activity"></a>Notificação do Painel de Parceiros para atividade de mineração de criptomoedas
+# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notificação da Central de parceiros para atividade de mineração de mineração
 
 **Aplica-se a**
 
--  Painel de Parceiros
+-  Partner Center
 -  Parceiros CSP
 
-Você pode ter recebido a seguinte notificação do Painel de Parceiros sobre mineração de criptomoedas:
+Você pode ter recebido a seguinte notificação Partner Center sobre mineração de criptomoedas:
  
 ![](images/crypto1.png)
 
@@ -42,13 +42,13 @@ Se a atividade for inesperada, considere o seguinte:
 
 2.  Para começar, entenda como os recursos foram criados. Isso pode exigir que você analise os logs do Gerenciamento de Recursos do Azure para atividades de provisionamento de recursos.
 
-3.  Se você precisar descobrir quem criou a assinatura, analise os logs de atividade do Painel de Parceiros.
+3.  Se você precisar descobrir quem criou a assinatura, analise os logs de atividades do Partner Center.
 
 A detecção de atividades de mineração de criptomoedas se baseia em heurística e pode não ser 100% precisa. Verifique se há sistemas de governança e de monitoramento preparados para proteger contra atividades fraudulentas ou outras atividades não permitidas. Para obter mais informações, consulte [Não pagamento, fraude ou uso indevido](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).
 
 Se tiver dúvidas ou preocupações sobre a notificação, você pode usar o procedimento a seguir para abrir uma solicitação de suporte.
 
-1.  No Painel, selecione **Suporte** e, em seguida, selecione **Solicitações do Partner Center**.
+1.  No Partner Center, selecione **suporte** e, em seguida, selecione **solicitações do Partner Center**.
 3.  Selecione **Nova solicitação**. 
 4.  No menu suspenso **Tipo de problema**, selecione **Adding or managing customers**.
 5.  No menu suspenso **Impacto**, selecione **Moderado**.

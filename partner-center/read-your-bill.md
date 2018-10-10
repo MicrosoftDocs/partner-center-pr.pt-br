@@ -1,16 +1,16 @@
 ---
 title: Ler sua cobrança | Partner Center
-description: Sua fatura é um resumo de todos os encargos (entre programa, produtos e clientes) para o período atual mensal. Está disponível no painel do Partner Center.
+description: Sua fatura é um resumo de todos os encargos (entre programa, produtos e clientes) para o período atual mensal. Ele está disponível no Partner Center.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: cobrança de assinatura, cobrança, cobrança no partner center, ler minha cobrança, fatura, fatura do partner center, fatura do CSP, onde está minha cobrança?
 ms.localizationpriority: medium
-ms.openlocfilehash: e43a3ea778c60f1009f5cd3489a24f4c9f0b1e4f
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 81262c11ab402dcd1748f9f8fde5cdeceac0f4f9
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377538"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489402"
 ---
 # <a name="read-your-bill"></a>Ler sua cobrança
 
@@ -20,7 +20,7 @@ ms.locfileid: "4377538"
 -  Partner Center for Microsoft Cloud for US Government
 -  Partner Center for Microsoft Cloud Germany
 
-Acesse o menu **Painel** e selecione **Cobrança** para ver seu histórico de cobrança e tendências, links para sua fatura e arquivo de reconciliação, além de seu pagamento mais recente.
+Para sua cobrança, vá para o menu **Partner Center** e, em seguida, selecione a **cobrança** para ver seu histórico de cobrança e tendências, links para sua fatura e arquivo de reconciliação, além de seu pagamento mais recente.
 
 Os parceiros no programa Provedor de Soluções na Nuvem que escolheram a cobrança mensal pagam à Microsoft 60 dias em atraso pelas assinaturas de seus clientes (baseadas em licença e em uso).
 
