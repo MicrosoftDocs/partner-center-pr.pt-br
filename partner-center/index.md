@@ -1,24 +1,24 @@
 ---
 layout: LandingPage
 hide_bc: true
-title: Comece aqui para obter ajuda com o Painel de Parceiros
-description: Precisa de ajuda para configurar a conta, conectar-se com clientes ou comprar uma assinatura do Action Pack? Encontre as respostas nesta biblioteca de Ajuda do painel criados especificamente para os parceiros nos programas CSP e MPN.
+title: Comece aqui para obter ajuda com o Partner Center
+description: Precisa de ajuda para configurar a conta, conectar-se com clientes ou comprar uma assinatura do Action Pack? Encontre que as respostas nesse Partner Center ajudam biblioteca criada especificamente para os parceiros nos programas CSP e MPN.
 author: v-chmccl
 ms.topic: landing-page
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: f7e53e0731690f2ede4c1d3cf8fae906af8b9e91
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e36908da6d71b9f10b2fe80af21a22b4c9083cd5
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876366"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489672"
 ---
-# <a name="start-here-for-help-with-partner-dashboard"></a>Comece aqui para obter ajuda com o Painel de Parceiros
+# <a name="start-here-for-help-with-partner-center"></a>Comece aqui para obter ajuda com o Partner Center
 
-Precisa de ajuda para configurar a conta, conectar-se com clientes ou comprar uma assinatura do Action Pack? Encontre as respostas nesta biblioteca de Ajuda do painel criados especificamente para os parceiros nos programas CSP e MPN.
+Precisa de ajuda para configurar a conta, conectar-se com clientes ou comprar uma assinatura do Action Pack? Encontre que as respostas nesse Partner Center ajudam biblioteca criada especificamente para os parceiros nos programas CSP e MPN.
 
-Se você já estiver familiarizado com o painel, consulte [novidades](/partner-center/whats-new-in-pc).
+Se você já estiver familiarizado com o Partner Center, consulte [o que há de novo](/partner-center/whats-new-in-pc).
 
 <ul id="products1" class="cardsC cols cols3 panelContent singlePanelContent">
     <li>
@@ -85,7 +85,7 @@ Se você já estiver familiarizado com o painel, consulte [novidades](/partner-c
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">Faça um tour de seu Painel de Parceiros</a> (entrada obrigatória)</h3>
+                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">Faça um tour do Partner Center</a> (entrada obrigatória)</h3>
                     </div>
                 </div>
             </div>
