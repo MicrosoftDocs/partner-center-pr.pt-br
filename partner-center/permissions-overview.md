@@ -4,12 +4,12 @@ description: Uma função devem ser atribuído a todos os funcionários que prec
 author: labrenne
 keywords: funções, permissões, administrador, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: 31ee676b9025edb82b155f64b9b2f44a3873c38c
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: be506932a445c427bc3d4249bcab3f07ee1b14ff
+ms.sourcegitcommit: 820ec1ca260b185980ad53f103b95d79eb2c21c1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489482"
+ms.lasthandoff: 10/11/2018
+ms.locfileid: "4528363"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Atribuir permissões e funções de usuários
 
@@ -17,14 +17,14 @@ ms.locfileid: "4489482"
 
 - Partner Center
 
-Cada função no Partner Center vem com determinadas permissões que permite ao usuário para realizar tarefas específicas. Qualquer pessoa que funciona no Partner Center deve ter atribuída uma função.
+Cada função no Partner Center vem com determinadas permissões que permite ao usuário para realizar tarefas específicas. Qualquer pessoa que funciona no Partner Center deve ser atribuída a uma função.
 
 Dependendo do tamanho da sua organização alguns usuários podem funcionar em todos os locais ou apenas para um local. 
 
 Por exemplo:
 
 - O administrador global pode ser o administrador para os negócios legais e um local específico; ou o administrador global pode ser administrador para apenas um dos locais de uma empresa. 
-- Administradores de incentivos podem administrar para um ou mais locais, mas nesses locais precisam ser especificados.
+- Administradores de incentivos podem administrar para um ou mais locais, mas esses locais precisam ser especificado.
 
 
 A tabela a seguir explica o que cada função pode fazer no Partner Center. Ao pensar sobre a forma como você deseja atribuir funções, considere o trabalho que um usuário faz em sua organização. Você pode, por exemplo, desejar que o administrador global também seja o agente administrativo. A pessoa que lida com seu marketing também pode ser a pessoa que deve gerenciar o perfil de negócios.
@@ -108,7 +108,7 @@ Para obter uma visão geral de funções e permissões, leia [criar contas de us
 <li><p>Poderá atribuir funções de incentivos</p></li>
 <li><p>Inicia e gerencia declarações de incentivos</p></li>
 <li><p>Pode exibir e editar todos os aspectos de programas de incentivos</p></li>
-<li><p>Pode exibir detalhes bancários e fiscais</p></li>
+<li><p>Pode exibir e editar detalhes bancários e fiscais</p></li>
 <LI><p>Lucros de desconto e cooperação de modo de exibição</p></li>
 <LI><p>Suporte de acesso</p></li>
 <LI><p>Disputa pagamentos de incentivos</p></li>
