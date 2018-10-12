@@ -2,14 +2,14 @@
 title: Gerenciar reservas do Azure em nome dos seus clientes | Partner Center
 Description: Purchasing and managing Azure reservations on behalf of your customers.
 author: v-petand
-keywords: Azure, reservas, gerenciar, cobrança, comprar
+keywords: Azure, reservas, gerenciar, cobrança, compra
 ms.localizationpriority: medium
-ms.openlocfilehash: d2ade5ff37d98a5667df7016cff2044d5001c036
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 6b3fb1aed57b39976556851c007590743a805671
+ms.sourcegitcommit: 1321f23b1a5be48a0a5dae6d52fd123ec9bacee2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489772"
+ms.lasthandoff: 10/12/2018
+ms.locfileid: "4562268"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gerenciar reservas do Microsoft Azure em nome dos seus clientes
 
@@ -19,7 +19,7 @@ ms.locfileid: "4489772"
 -  Portal do Microsoft Azure
 -  Parceiros no CSP
 
-Para gerenciar o pós-compra de reservas do Azure de seus clientes, você vai selecionará o cliente e a reserva que você deseja gerenciar no Partner Center e, em seguida, faça alterações na reserva no portal do Azure. 
+Para gerenciar o pós-compra de reservas do Azure dos seus clientes, você vai selecionará o cliente e a reserva que você deseja gerenciar no Partner Center e, em seguida, faça alterações na reserva no portal do Azure. 
 
 1. Para começar, selecione **os clientes** do seu menu Partner Center e, em seguida, selecione o cliente cujas reservas você deseja gerenciar. 
 
@@ -42,6 +42,16 @@ Quando os negócios dos seus clientes precisarem mudar, eles podem querer cancel
 
 Os clientes podem cancelar uma reserva a qualquer momento (até US$50.000 por ano). O cancelamento permite que o cliente devolva os meses restantes de uma reserva do Azure para a Microsoft por uma taxa de término antecipado. O saldo restante proporcional, menos a taxa, será reembolsado à compra original do cliente. 
 
+Veja a seguir para obter detalhes de cancelamento e taxas.
+
+|**Data de cancelamento**<br> (dias)   |**Utilização**    |**Crédito**  |**Encerramento**<br> taxa    |**Limite de reembolso** | 
+|:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
+|Menos de 5                       | Não          | 100%       | Não                              | US $ 50.000   |
+|Menos de 5                       | Sim         | Proporcional  | Não                              | US $ 50.000   |
+|Mais de 5                        | Não          | Proporcional  | 12%                             | US $ 50.000   |
+|Mais de 5                        | Sim         | Proporcional  | 12%                             | US $ 50.000   |
+
+
 **Como funcionam as trocas** 
 
 Uma troca permite que um cliente receba um reembolso proporcional com base no tempo restante da reserva e aplique o valor do reembolso a uma nova reserva.   
@@ -53,11 +63,11 @@ Para enviar uma solicitação de suporte para um reembolso ou uma troca em nome 
 >[!NOTE]
 >Os agentes do Suporte da Microsoft para fornecer a ID da reserva e a ID do pedido da reserva. Você pode encontrar essas informações na página **Propriedades** no portal do Azure. 
 
-1. Para começar, selecione **os clientes** a partir da ao menu Partner Center e, em seguida, selecione o cliente que deseja um reembolso. 
+1. Para começar, selecione **os clientes** no menu Partner Center e, em seguida, selecione o cliente que deseja um reembolso. 
 
 2. Na página de detalhes do cliente, selecione **Reservas do Azure** e, em seguida, selecione a reserva específica para a o cliente quer reembolso.  
 
-3. Em **ações**, selecione **reembolsar** para ir para registro de reserva do cliente no portal do Azure e iniciar uma solicitação de suporte.  
+3. Em **ações**, selecione **reembolso** para ir para registro de reserva do cliente no portal do Azure e iniciar uma solicitação de suporte.  
 
 4. Na página **Nova solicitação de suporte**, siga as etapas abaixo para solicitar um reembolso. Selecione **Avançar** depois de cada etapa. 
 
