@@ -4,12 +4,12 @@ Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
 author: v-petand
 keywords: Azure, reservas, gerenciar, cobrança, compra, Azure RI, instâncias reservadas do Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: c580553aa484611790b2c83bab968025c0bb1379
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 2d0787466c99810b4d4c73c15b97631bc54c257c
+ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489752"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "4658112"
 ---
 # <a name="sell-microsoft-azure-reserved-instances"></a>Vender instâncias reservadas do Microsoft Azure 
 
@@ -27,7 +27,8 @@ Os parceiros no programa Cloud Solution Provider (CSP) podem oferecer a seus cli
 -   Gerenciar o uso de instâncias reservadas no nível do departamento organizacional ou individual 
 
 > [!NOTE]  
-> Instâncias reservadas do Azure não estão disponíveis nos seguintes mercados:  
+> Reservas do Azure não estão disponíveis atualmente nos seguintes mercados:
+  
 > * Argentina
 > * Azerbaijão
 > * Belarus
