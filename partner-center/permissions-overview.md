@@ -1,30 +1,30 @@
 ---
 title: Atribuir funções de usuários e permissões | Partner Center
-description: Uma função devem ser atribuído a todos os funcionários que precisam trabalhar no Partner Center.
+description: Todos os funcionários que precisam trabalhar no Partner Center devem ser atribuído a uma função.
 author: labrenne
 keywords: funções, permissões, administrador, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: be506932a445c427bc3d4249bcab3f07ee1b14ff
-ms.sourcegitcommit: 820ec1ca260b185980ad53f103b95d79eb2c21c1
+ms.openlocfilehash: 71dfdb260fe6baac83c01fbf79e260470f875539
+ms.sourcegitcommit: b9001747beb744d6a95aad68017e50816fcda58b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/11/2018
-ms.locfileid: "4528363"
+ms.lasthandoff: 10/25/2018
+ms.locfileid: "5541464"
 ---
-# <a name="assign-users-roles-and-permissions"></a>Atribuir permissões e funções de usuários
+# <a name="assign-users-roles-and-permissions"></a>Atribuir funções e permissões de usuário
 
 **Aplica-se a:**
 
 - Partner Center
 
-Cada função no Partner Center vem com determinadas permissões que permite ao usuário para realizar tarefas específicas. Qualquer pessoa que funciona no Partner Center deve ser atribuída a uma função.
+Cada função no Partner Center vem com determinadas permissões permitindo que um usuário para realizar tarefas específicas. Todas as pessoas que funciona no Partner Center devem ter atribuída uma função.
 
-Dependendo do tamanho da sua organização alguns usuários podem funcionar em todos os locais ou apenas para um local. 
+Dependendo do tamanho da sua organização, alguns usuários podem funcionar em todos os locais ou apenas para um único local. 
 
 Por exemplo:
 
 - O administrador global pode ser o administrador para os negócios legais e um local específico; ou o administrador global pode ser administrador para apenas um dos locais de uma empresa. 
-- Administradores de incentivos podem administrar para um ou mais locais, mas esses locais precisam ser especificado.
+- Administradores de incentivos podem administrar para um ou mais locais, mas precisam ser especificados nesses locais.
 
 
 A tabela a seguir explica o que cada função pode fazer no Partner Center. Ao pensar sobre a forma como você deseja atribuir funções, considere o trabalho que um usuário faz em sua organização. Você pode, por exemplo, desejar que o administrador global também seja o agente administrativo. A pessoa que lida com seu marketing também pode ser a pessoa que deve gerenciar o perfil de negócios.
@@ -99,17 +99,16 @@ Para obter uma visão geral de funções e permissões, leia [criar contas de us
 <li><p>Criar novos locais</p></li>
 <li><p>Registrar locais em programas (exceções são CSP e programas de revendedor indireto)</p></li>
 <li><p>Gerenciar perfis relacionados a eles administram as contas de local</p></li>
-<li><p>Atribui o administrador do MPN, administrador de perfil de negócios, administrador de indicações, administrador de incentivos, funções de usuário de incentivos aos usuários</p></li>
+<li><p>Atribuir a outros administradores de contas, administrador do MPN, administrador de perfil de negócios, administrador de indicações, administrador de incentivos e funções de usuário de incentivo para os usuários</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Administrador de incentivos</strong></p></td>
 <td><ul>
-<li><p>Poderá atribuir funções de incentivos</p></li>
-<li><p>Inicia e gerencia declarações de incentivos</p></li>
+<li><p>Inicia e gerencia as declarações de incentivos</p></li>
 <li><p>Pode exibir e editar todos os aspectos de programas de incentivos</p></li>
 <li><p>Pode exibir e editar detalhes bancários e fiscais</p></li>
-<LI><p>Lucros de desconto e cooperação de modo de exibição</p></li>
+<LI><p>Lucros de reembolso e cooperação de modo de exibição</p></li>
 <LI><p>Suporte de acesso</p></li>
 <LI><p>Disputa pagamentos de incentivos</p></li>
 </ul></td>
@@ -120,8 +119,8 @@ Para obter uma visão geral de funções e permissões, leia [criar contas de us
 <li><p>Pode exibir programas de incentivos</p></li>
 <li><p>Pode exibir e iniciar declarações de incentivos</p></li>
 <li><p>Pode exibir detalhes bancários e fiscais</p></li>
-<li><p>Lucros de desconto e cooperação de modo de exibição</p></li>
-<LI><p>Lucros de desconto e cooperação de modo de exibição</p></li>
+<li><p>Lucros de reembolso e cooperação de modo de exibição</p></li>
+<LI><p>Lucros de reembolso e cooperação de modo de exibição</p></li>
 <LI><p>Suporte de acesso</p></li>
 <LI><p>Disputa pagamentos de incentivos</p></li>
 </ul></td>
