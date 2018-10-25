@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: assinatura do Azure, mudar de parceiro, alterar parceiro, obter novo parceiro, outro parceiro
 ms.localizationpriority: medium
-ms.openlocfilehash: b579fc3fcebdba3f85265014e13c074b17b0fcdc
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 5c4f1b5df62d800f2c3ac14137dd85743e928e90
+ms.sourcegitcommit: 5c8ea8aaa94f79cd2fc031b2b40a0cc363c5d3c7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488962"
+ms.lasthandoff: 10/25/2018
+ms.locfileid: "5511387"
 ---
 # <a name="transfer-azure-subscriptions"></a>Transferir assinaturas do Azure 
 
@@ -21,10 +21,9 @@ ms.locfileid: "4488962"
 Um cliente pode decidir mudar para um parceiro do Provedor de Soluções na Nuvem ou um parceiro para obter os serviços do Microsoft Azure. Trata-se, porém, de um processo manual que exige ações do parceiro e do cliente.
 
 >[!Note]  
->Neste momento apenas direta ou provedores indiretos são capazes de transferir assinaturas.
+>Neste momento apenas Direct ou provedores indiretos são capazes de transferir assinaturas.
 
->[!Note] 
->Não é possível mudar os parceiros para assinaturas de provedor de soluções de nuvem para assinaturas do Office 365, Enterprise Mobility Suite ou Microsoft Dynamics CRM.
+>[!Note]Não é possível mudar os parceiros para assinaturas de provedor de soluções de nuvem para assinaturas do Office 365, Enterprise Mobility Suite ou Microsoft Dynamics CRM.
 
 
 
@@ -68,7 +67,7 @@ Um cliente pode decidir mudar para um parceiro do Provedor de Soluções na Nuve
     *Importante*: se o novo parceiro CSP não tiver uma relação de revendedor com o cliente, ele deverá estabelecer uma antes para a assinatura que será transferida. [Você pode encontrar informações sobre como fazer isso aqui](request-a-relationship-with-a-customer.md).
 
     >[!Note]
-    >O novo parceiro CSP e locatário do cliente devem estar na mesma região. 
+    >O novo parceiro CSP e locatário do cliente devem estar no mesmo país. 
 
 5.  Parceiro atual:
 
@@ -95,9 +94,9 @@ Um cliente pode decidir mudar para um parceiro do Provedor de Soluções na Nuve
     -  No menu do cliente, selecione **Gerenciamento de serviços**. 
     -  Em **Microsoft Azure**, clique no link para ir para o **Portal de Gerenciamento do Microsoft Azure**.
 
- 
+ 
 
- 
+ 
 
 
 
