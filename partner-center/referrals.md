@@ -1,17 +1,20 @@
 ---
 title: Expanda seus negócios com indicações da Microsoft | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Gerar clientes em potencial e conectar-se aos que precisam de ajuda para implementar produtos e soluções da Microsoft.
 author: KPacquer
+ms.author: kenpacq
 keywords: indicações, perfil de negócios, encontrar um parceiro
 ms.localizationpriority: medium
-ms.openlocfilehash: d06f2a6d435c9db5bc9b4d54ceb95cdeafc956b8
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: c4241c70591d6747f9e5994c43119740d6819791
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489232"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794819"
 ---
-<!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
+<!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Expanda seus negócios com indicações da Microsoft
 
@@ -23,7 +26,7 @@ Muitos clientes procuram por especialistas qualificados para ajudar a implementa
 
 Queremos conectá-lo a clientes que precisem de suas soluções e conhecimentos. A etapa mais importante para começar a receber nossas oportunidades de vendas é [criar um perfil de negócios](create-a-marketing-profile.md) que mostre as ofertas, soluções e conhecimentos da sua empresa. Seu perfil de negócios será listado em todos os locais onde clientes e agentes de vendas internos da Microsoft procuram por parceiros qualificados. 
 
- Depois de publicar seu perfil de negócios, você começará a receber as oportunidades de vendas por meio do recurso indicações no Partner Center. É importante responder às indicações dentro dos períodos de tempo exigidos para continuar recebendo essas oportunidades e, principalmente, aproveitar ofertas. Consulte a [responder a indicações](responding-to-referrals.md) para obter detalhes sobre como gerenciar vendas oportunidades no Partner Center.  
+ Depois de publicar seu perfil de negócios, você começará a receber as oportunidades de vendas por meio do recurso indicações no Partner Center. É importante responder às indicações dentro dos períodos de tempo exigidos para continuar recebendo essas oportunidades e, principalmente, aproveitar ofertas. Consulte a [responder a indicações](responding-to-referrals.md) para obter detalhes sobre como gerenciar as vendas oportunidades no Partner Center.  
 
 Boa sorte!
 

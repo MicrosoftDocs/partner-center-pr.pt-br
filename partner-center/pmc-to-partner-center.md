@@ -1,18 +1,21 @@
 ---
 title: Fazer a transição da sua associação MPN do Partner Membership Center para o Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Usuários PMC-agora estamos gerenciando associações MPN por meio do Partner Center. Veja o que fazer.
 author: KPacquer
+ms.author: kenpacq
 keywords: associação mpn, competências, pmc para partner center
 robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: f6da4a837ccabc6611e7751a9a22cebbbe998bda
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: ba6b58a035445824d8a0a3266fbd240fc9c4aa6e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490072"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794949"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>Fazer a transição da sua associação MPN do Partner Membership Center para o Partner Center
 
@@ -45,7 +48,7 @@ O administrador da organização adiciona os funcionários na conta do Partner C
 
 ## <a href="" id="nonadmin_tasks"></a> Tarefas de funcionários: atualizar contas
 
-1.  Obtenha suas informações de entrada, do Microsoft Partner Center ou com o seu administrador. Se você não receber as informações de entrada, fale com o administrador da sua organização e solicite o envio diretamente para você. 
+1.  Obtenha suas informações de login, do Microsoft Partner Center ou com o seu administrador. Se você não receber as informações de login, contate o administrador da sua organização e solicite o envio diretamente para você. 
 
 2.  Conecte-se com sua conta da Microsoft Partner University. No Partner Center, selecione **atualizar seu perfil** > **acesso Get Partner University**.  Depois de se conectar com essa conta, você poderá acessar a Partner University novamente.
 

@@ -1,15 +1,18 @@
 ---
 title: Instâncias de VM reservadas do Azure (RI) + assinaturas de servidor para Azure | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Ao trazer Assinaturas do Azure RI e de Servidor para o programa CSP, é melhor permitir que nossos parceiros lidem com a demanda crescente do cliente por soluções mais econômicas para dar suporte a cargas de trabalho persistentes e altamente previsíveis. O programa CSP permite que os parceiros adquiram, provisionem e gerenciem Assinaturas do Azure RI e de Servidor em nome de clientes comerciais por meio do Microsoft Partner Center e do Portal do Azure.
 author: v-petand
+ms.author: v-petand
 keywords: Azure, assinaturas, VM, reserva, instância de reservados
 ms.localizationpriority: medium
-ms.openlocfilehash: 4880e74519be2d334b3782c089790bcc89f18462
-ms.sourcegitcommit: c702328f342401e7baed501a14cd7c85077da7d1
+ms.openlocfilehash: cc33e605af7930484b196051565781f4d4c3f17e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/26/2018
-ms.locfileid: "5591912"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797029"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 

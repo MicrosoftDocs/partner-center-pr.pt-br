@@ -1,15 +1,18 @@
 ---
 title: Disponibilidade da SKU única do Office 365 E5 no CSP | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: A SKU única do Office 365 E5 está disponível no CSP e inclui Conferência PSTN.
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: cce364069f6710d81435f8d973cd187c98543f96
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: a16a02f64e1f87d5b5db44f8987a79f1f373459d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876286"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795649"
 ---
 # <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Consultoria para parceiros do Office 365: disponibilidade da SKU única do Office 365 E5 no CSP
 
@@ -89,7 +92,7 @@ Clientes de conferência
 
 Complemento PSTN
 
- 
+ 
 
 **Após o lançamento da SKU única do Office 365 Ent. E5**
 
@@ -143,7 +146,7 @@ Conferência PSTN do Skype for Business para E5 sem clientes de Conferência PST
 
 Complemento PSTN
 
- 
+ 
 
 ## <a href="" id="invoices-and-partner-reconciliation-files-"></a>Faturas e arquivos de reconciliação de parceiros
 
@@ -197,7 +200,7 @@ Um exemplo de reconciliação de parceiros:
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="additional-resources"></a>Recursos adicionais
 
@@ -210,9 +213,9 @@ Para obter mais detalhes, visite o site do [Drumbeat](https://drumbeat.office.co
 
 -   **Perguntas frequentes sobre licenciamento do Office 365 E5 e do Skype for Business**
 
- 
+ 
 
- 
+ 
 
 
 

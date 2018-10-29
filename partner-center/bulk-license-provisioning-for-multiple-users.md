@@ -1,16 +1,19 @@
 ---
 title: Atribuir licenças a vários usuários ou revogá-las | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Você pode atribuir licenças e serviços a um usuário ou a vários usuários ao mesmo tempo em uma conta de cliente e revogar atribuições de licença para os usuários.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: assign license, revoke license, assign to multiple users,
 ms.localizationpriority: medium
-ms.openlocfilehash: fafbb038214d31f6e0a3298705128ac3ba1ab722
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 4a5e81d78a8e07b6fc5c5d3b13a6e2d9ebeecd4c
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490002"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795349"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Atribuir licenças a vários usuários ou revogá-las
 
@@ -59,9 +62,9 @@ o Partner Center rastreia e mostra todos os direitos de licença de propriedade 
 
 8.  Selecione **Salvar**. O Partner Center abrirá uma página de confirmação **licenças atualizadas** listando os usuários e suas novas licenças.
 
-**Observação**  Alguns produtos da Microsoft podem não estar disponíveis em determinados locais. Outros produtos dependem de outros produtos ou serviços ou não podem ser atribuídos em conjunto ao mesmo usuário. Depois de salvar, a página de confirmação listará os resultados da atribuição de licença bem-sucedida para todos os usuários e quaisquer erros da atribuição de licença.
+**Observação**alguns produtos da Microsoft podem não estar disponíveis em determinados locais. Outros produtos dependem de outros produtos ou serviços ou não podem ser atribuídos em conjunto ao mesmo usuário. Depois de salvar, a página de confirmação listará os resultados da atribuição de licença bem-sucedida para todos os usuários e quaisquer erros da atribuição de licença.
 
- 
+ 
 
 <a href="" id="revoking-licenses"></a>
 **Revogando atribuições de licença dos usuários**
@@ -82,9 +85,9 @@ o Partner Center rastreia e mostra todos os direitos de licença de propriedade 
 
 [Atribua licenças a um usuário](assign-licenses-to-users.md)
 
- 
+ 
 
- 
+ 
 
 
 

@@ -1,15 +1,18 @@
 ---
 title: Alterar sua senha temporária | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Assim que você receber sua senha temporária, faça logon no Partner Center e altere-a.
 author: labrenne
+ms.author: labrenne
 Keywords: temporary password, change password, reset password
 ms.localizationpriority: medium
-ms.openlocfilehash: f2f385defe6c98bddf7bbc46ba70bd05667c2905
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 7128107fe4be216b4e4adc094792c7329edc2ab8
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490182"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796909"
 ---
 # <a name="change-your-temporary-password"></a>Alterar sua senha temporária
 
@@ -29,9 +32,9 @@ Se você perder a senha, o administrador global precisará acessar **Configuraç
 Para saber mais, consulte [Redefinir a senha do usuário](reset-a-user-password.md) .
 
 
- 
+ 
 
- 
+ 
 
 
 

@@ -1,19 +1,22 @@
 ---
 title: Competência de integração de aplicativos
+ms.topic: article
+ms.date: 10/29/2018
 description: A competência de integração de aplicativos reconhece parceiros e desenvolvedores que integram aplicativos exclusivos e soluções em diversos produtos no ecossistema da Microsoft.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: competência, competências, integração de aplicativos
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: a5c69706898ff791f56a86a4c0f2f32dfb2199d4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 5acf238ddb323e7031253e5b9176b8ac6841c0ec
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876686"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797309"
 ---
 >[!IMPORTANT]
->Para saber mais sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Para saber sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 

@@ -1,15 +1,18 @@
 ---
 title: Encaminhar problemas para a Microsoft | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Espera-se que você resolva os problemas em nome de seus clientes.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7edd9d68e1bf144f9e05d4e5d1243f77a73d721f
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: e1573615252cf40b34297be8666aa56d3b2b1f94
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489372"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797219"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Encaminhar problemas para a Microsoft
 
@@ -36,22 +39,22 @@ No entanto, há várias categorias de problemas que você precisa passar para a 
 ## <a name="submit-a-support-request"></a>Enviar uma solicitação de suporte
 
 1. No Partner Center, selecione **os clientes**.
-2. Selecione o cliente que precisam do suporte.
+2. Selecione o cliente que precisam o suporte.
 3. Selecione o **gerenciamento de serviços** e **solicitações de serviço**.
 4. Selecione **nova solicitação** e, em seguida, selecione **Microsoft Office 365**.
-5. É exibida para o portal do Office 365 em que você precisará entrar usando suas credenciais do Partner Center.
+5. É exibida para o portal do Office 365 em que você precisa entrar usando suas credenciais do Partner Center.
 6. Selecione o **suporte**, a **nova solicitação de serviço** no menu à esquerda.
 7. Selecione o tópico de suporte.
 
 >[!NOTE]
->É importante iniciar a partir do Partner Center para que a relação entre parceiros e clientes é mantida. 
+>É importante iniciar a partir do Partner Center para que a relação entre o parceiro e do cliente seja mantida. 
 
 
 Para obter informações sobre como relatar problemas em nome do cliente, consulte [relatar problemas em nome do cliente](report-problems-on-behalf-of-a-customer.md).
 
- 
+ 
 
- 
+ 
 
 
 

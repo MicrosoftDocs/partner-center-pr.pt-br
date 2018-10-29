@@ -1,16 +1,19 @@
 ---
 title: Criar, suspender ou cancelar assinaturas de cliente | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Depois de criar um registro de seu cliente no Partner Center, você poderá vender a ele assinaturas de produtos no catálogo.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
-author: Labrenne
+author: labrenne
+ms.author: labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: effdae8468e30be689acc265d9ae64b5d93c93ef
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 951d0be7ea1cc17fb61213a25f26a3c558249496
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489102"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796399"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Criar, suspender ou cancelar assinaturas de cliente
 
@@ -21,7 +24,7 @@ ms.locfileid: "4489102"
 -  Partner Center for Microsoft Cloud Germany
 -  Parceiros CSP
 
-Depois de criar um registro de seu cliente no Partner Center, você pode vendê-los assinaturas de produtos no catálogo.
+Depois de criar um registro de seu cliente no Partner Center, você poderá vendê-los assinaturas de produtos no catálogo.
 
 Note que algumas ofertas são limitadas a uma assinatura por cliente. Para ver uma lista das ofertas restritas, visite a página Ofertas e Preços do Partner Center. 
 
@@ -38,7 +41,7 @@ Note que algumas ofertas são limitadas a uma assinatura por cliente. Para ver u
  >Você pode oferecer aos clientes assinaturas de avaliação. Produtos disponíveis para avaliação estão na guia de avaliações no catálogo. Consulte [Oferecer avaliações de produtos da Microsoft aos seus clientes](offer-your-customers-trials-of-microsoft-products.md).
 
  
-4. Depois de selecionar a frequência de cobrança, selecione os produtos que você deseja assinaturas para no catálogo. A disponibilidade dos produtos depende do tipo de cliente (educação, governo etc.) e da frequência de cobrança que você selecionou. Se um produto não estiver disponível, é possível que o cliente já tenha uma assinatura para esse produto e que só uma seja permitida. Ou talvez você tenha suspendido a assinatura, caso no qual é possível reativá-la em vez de comprar uma nova.
+4. Depois de selecionar a frequência de cobrança, selecione os produtos que para deseja assinaturas no catálogo. A disponibilidade dos produtos depende do tipo de cliente (educação, governo etc.) e da frequência de cobrança que você selecionou. Se um produto não estiver disponível, é possível que o cliente já tenha uma assinatura para esse produto e que só uma seja permitida. Ou talvez você tenha suspendido a assinatura, caso no qual é possível reativá-la em vez de comprar uma nova.
 
 5. Verifique a assinatura que você deseja adicionar e insira o número de licenças. Em seguida, clique em **Enviar** a ordem.
 
@@ -64,7 +67,7 @@ Ao suspender uma assinatura, a data que você vê abaixo do botão **Suspenso** 
 
 
 
- 
+ 
 
 
 

@@ -1,16 +1,19 @@
 ---
 title: Cenários comuns de cobrança | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Este tópico explica o que você deve esperar ver em sua fatura depois de adicionar novas assinaturas, ajustar o número de licenças em uma assinatura ou cancelar uma assinatura. As assinaturas baseadas em uso e em licença serão afetadas de forma diferente.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
 ms.localizationpriority: medium
-ms.openlocfilehash: 9757b3c4cc03ea26744f995e4931c94952de2a10
-ms.sourcegitcommit: 082795279b2beb9cecee3072cbabe584cfda1b9c
+ms.openlocfilehash: df555040c02f3317445efd391d84684f1a7e6dac
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/21/2018
-ms.locfileid: "4121111"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795629"
 ---
 # <a name="common-billing-scenarios"></a>Cenários comuns de cobrança
 

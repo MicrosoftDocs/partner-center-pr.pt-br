@@ -1,15 +1,18 @@
 ---
 title: Migrar as assinaturas do Skype for Business Online Plano 1 para versões mais recentes do Office 365 | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 Description: Skype for Business Online Plan 1 subscriptions is retiring.
-Author: labrenne
+author: labrenne
+ms.author: labrenne
 keywords: Planos do Skype for Business, Skype desativado, Office 365
 ms.localizationpriority: medium
-ms.openlocfilehash: 8d41ded7a2315cb8a69871f43d41bad391db9885
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 339fe2b2558b520013752515afc8ae53358aac68
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489802"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797159"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrar assinaturas do Skype for Business Online Plano 1 para versões mais novas do Office 365
 
@@ -51,7 +54,7 @@ A Microsoft oferece continuamente novos produtos e serviços para nossos parceir
 
 ### <a name="migrate-your-customers-to-new-plans"></a>Migrar seus clientes para novos planos
 
-1. Para comprar a nova assinatura, no **menu Partner Center**, selecione **os clientes**, selecione o cliente que você deseja mover e, em seguida, selecione **Adicionar assinaturas**.
+1. Para adquirir a nova assinatura, no **menu Partner Center**, selecione **os clientes**, selecione o cliente que você deseja mover e, em seguida, selecione **Adicionar assinaturas**.
 
 2. Selecione a assinatura que deseja comprar no catálogo (nesse caso, uma das opções acima), insira o número de licenças e selecione **Enviar**. 
 

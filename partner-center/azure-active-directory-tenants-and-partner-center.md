@@ -1,16 +1,19 @@
 ---
 title: Contas corporativas e Partner Center | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Para criar uma conta do Partner Center, sua empresa deverá ter uma conta de trabalho.
 author: labrenne
+ms.author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 6a9187e62d29409ad44dcc58c2da7f54a3c0fc69
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: aa256ad84b598d011ca25b7470342381148ecf2a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489742"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796389"
 ---
 # <a name="your-company-work-account-and-the-partner-center"></a>Sua conta corporativa e o Partner Center  
 

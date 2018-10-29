@@ -1,15 +1,18 @@
 ---
 title: Transição do Pinpoint para o Partner Center | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 Description: If you see this page, the information here describes how to transition from Pinpoint to Partner Center.
 ms.assetid: 2ba05c48-5817-4078-bdb3-44e42d484c54
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b4250f0a1e8cc438bf4b61bfec5d0661511aef86
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 49045d191a7058f5b261deec823657308008420d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877386"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794759"
 ---
 # <a name="transition-from-pinpoint-to-partner-center"></a>Transição do Pinpoint para o Partner Center
 

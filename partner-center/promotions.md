@@ -1,14 +1,17 @@
 ---
 title: Use promoções para atrair novos clientes | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Como um parceiro da Microsoft no programa provedor de soluções na nuvem, você pode adquirir assinaturas no preço da promoção e repassar a economia para seus clientes.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fa719f0824e525a2c63b58970b3385c63056a135
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 011f825d6cd4c47e793dd63fb8b1dcf61979453d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488982"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795049"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Use promoções para atrair novos clientes  
 
@@ -32,7 +35,7 @@ Reserve um momento para examinar esses fatos importantes sobre as promoções:
 
 ## <a name="see-available-promotions"></a>Consultar promoções disponíveis
 
-Você pode ver para quais promoções você se qualifica, se houver, na página **Promoções**. Selecione **promoções** do menu **Partner Center** para ver uma lista de promoções atuais juntamente com o desconto, tipo de promoção e datas de início e término da assinatura. Se nenhuma promoção estiver disponível, você verá uma mensagem indicando isso. 
+Você pode ver para quais promoções você se qualifica, se houver, na página **Promoções**. Selecione **promoções** no menu do **Partner Center** para ver uma lista de promoções atuais juntamente com o desconto, tipo de promoção e datas de início e término da assinatura. Se nenhuma promoção estiver disponível, você verá uma mensagem indicando isso. 
 
 > [!NOTE]  
 > Você também pode ver promoções ao realizar uma compra. Quando você seleciona uma assinatura, a porcentagem do desconto aparece na página **Revisão**.

@@ -1,23 +1,23 @@
 ---
 title: Analisar o uso do Azure | Partner Center
+ms.date: 07/12/2018
 Description: Get data about the usage of your customers' Azure subscriptions.
 Author: Xansky
 ms.author: mhopkins
-ms.date: 07/12/2018
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
 ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
-ms.openlocfilehash: 08ff3c7b4e00c46365713df4ea927ba716a41c0e
-ms.sourcegitcommit: 6ad681d132ab60bf09cd01eba385a9fad7563fa7
+ms.openlocfilehash: e5ed6ce99a8319ce2e86b8522f1bdf40ccf5b2f9
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/06/2018
-ms.locfileid: "3405408"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795656"
 ---
-# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Obter dados sobre o uso de assinaturas do Azure dos seus clientes 
+# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Obter dados sobre o uso de assinaturas do Azure de seus clientes 
 
-**Aplica-se a**
+**Aplicável a**
 - Partner Center
 
 Os dados impulsionam as decisões de negócios. Use as métricas na página de **uso do Azure** para identificar seu êxitos e áreas que precisam de mais atenção. Use essas informações ao planejar novas metas de negócios.

@@ -1,14 +1,17 @@
 ---
 title: Inscrever-se no programa Provedor de Soluções na Nuvem | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Conheça os diferentes modelos de venda no CSP e decida qual deles funciona melhor para sua empresa
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: dee2136344959b3a22816f9db7ee26d9743eb54a
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 35a23762cb187eb9277a88c8ac54abf694a823b5
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489922"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796589"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscrever-se no programa Provedor de Soluções na Nuvem
 
@@ -21,7 +24,7 @@ ms.locfileid: "4489922"
 
 Para se inscrever no programa Provedor de Soluções na Nuvem, primeiramente, é necessário ter uma ID do MPN. Ainda não tem uma? Registre-se [aqui](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=).
 
-Ao preencher o formulário de CSP, você precisará sua ID do MPN, endereço comercial completo, informações bancárias e o email do funcionário que atuará como administrador no Partner Center.
+Ao preencher o formulário de CSP, será necessário sua ID do MPN, endereço comercial completo, informações bancárias e o email do funcionário que atuará como administrador no Partner Center.
 
 Decida qual [modelo CSP é melhor](https://partnercenter.microsoft.com/en-us/cloud-solution-provider/csp-enrollment) para você e preencha o formulário. 
 
@@ -35,7 +38,7 @@ Pode levar vários dias para analisarmos e verificarmos as informações forneci
 
 1. Depois de se inscrever como um revendedor indireto, você precisa [encontrar um provedor indireto](https://partnercenter.microsoft.com/partner/find-a-provider) com quem trabalhar. Esse provedor enviará clientes para você, gerenciará a aquisição de softwares que poderão ser vendidos e cuidará do suporte e da cobrança de clientes, permitindo que você se concentre no desenvolvimento de sua empresa de revenda.
 
-2. O administrador global deve configurar sua conta no Partner Center. O administrador global pode adicionar da sua organização os funcionários que trabalharão no Partner Center, atribuir funções e permissões dependendo do trabalho que desempenharão e configurar o perfil de organização.
+2. O administrador global deve configurar sua conta no Partner Center. O administrador global pode adicionar da sua organização funcionários que trabalharão no Partner Center, atribuir funções e permissões dependendo do trabalho que desempenharão e configurar o perfil de organização.
 
 3. Seus funcionários receberão um email com as senhas temporárias. Eles devem entrar no Partner Center e altere sua senha. Depois disso, poderão começar a trabalhar.
 
@@ -55,14 +58,14 @@ Como um parceiro direto, você possui a relação de ponta a ponta com o cliente
 #### <a name="new-expanded-requirements"></a>Novos requisitos expandidos:
 
 Suporte
-- Expanda seus recursos de suporte comprando o suporte de nuvem individuais, priorizada com Microsoft Advanced suporte para o pacote de parceiros. Ou, escolha um suporte Microsoft Premier para o pacote de parceiros para acessar o catálogo completo de serviços proativos, 24/7 elevado interrupção/correção suporte e gerenciamento de conta técnica em nuvem, híbrida e local. 
+- Expanda seus recursos de suporte comprando o suporte de nuvem individuais, priorizada com o Microsoft Advanced suporte para o pacote de parceiros. Ou, escolha um suporte Microsoft Premier para o pacote de parceiros para acessar o catálogo completo de serviços proativos, com privilégios elevados. 24/7 interrupção/correção suporte e gerenciamento de conta técnica em nuvem, híbrida e local. 
 
 Serviços
 
-- Demonstre que você forneça pelo menos um serviço gerenciado, IP serviço ou aplicativo de solução de cliente. Saiba mais sobre como adicionar serviços gerenciados
+- Demonstre que você forneça pelo menos um serviço gerenciado, IP serviço ou aplicativo de solução do cliente. Saiba mais sobre como adicionar serviços gerenciados
 
 - Conheça os recursos de infraestrutura mínima, como cobrança e provisionamento.
-Estamos monitorando desempenho anual para confirmar que os parceiros de cobrança direta que atendam a esses requisitos são demonstrando o crescimento dos negócios estável. Não há nenhum metas de desempenho específicas no lugar neste momento, mas Microsoft pode implementar um desempenho barra no futuro. 
+Estamos monitorando desempenho anual para confirmar que os parceiros de cobrança direta que atendam a esses requisitos são demonstrando o crescimento dos negócios estável. Não há nenhuma metas de desempenho específicas no lugar neste momento, mas a Microsoft pode implementar um desempenho da barra no futuro. 
 
 - Uma ID ativa do Microsoft Partner Network (MPN) para o local onde deseja vender
 

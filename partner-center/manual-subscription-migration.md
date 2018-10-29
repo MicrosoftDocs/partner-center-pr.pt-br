@@ -1,15 +1,18 @@
 ---
 title: Migrar assinaturas do Dynamics AX para o Dynamics 365 | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: A Microsoft apresenta o Dynamics 365, a mais nova geração de aplicativos de negócios inteligentes que permitem que sua organização cresça, evolua e transforme-se para atender às necessidades de seus clientes e aproveitar novas oportunidades.
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f5e03825226171b8002b260e1b00a59a5eb53ebb
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: e992a3cdfc0bbb01a303a8b00bfeda3cf60d1882
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489782"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797129"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrar assinaturas do Dynamics AX para o Dynamics 365
 
@@ -42,7 +45,7 @@ A linha de produtos Microsoft Dynamics AX foi desativada, em vigor a partir de 1
 |Tarefa/autoatendimento|Microsoft Dynamics 365 for Team Members|
 |Dispositivo|Microsoft Dynamics 365 for Operations Device|
 
-## <a name="microsoft-dynamics-crm-online-licensing-changes"></a>Alterações de licenciamento do Microsoft Dynamics CRM Online 
+## <a name="microsoft-dynamics-crm-online-licensing-changes"></a>Alterações de licenciamento do Microsoft Dynamics CRM Online 
 
 **Microsoft Dynamics CRM Online**
 
@@ -113,9 +116,9 @@ Se o cliente for migrar do Programa Open Channel para o Programa de Serviços na
 
 Depois que o cliente aceitar você como seu provedor indireto, as etapas de provisionamento serão basicamente as mesmas que foram descritas acima: você compra a nova assinatura e depois atribui as licenças de usuário. A única diferença envolve o cancelamento de assinaturas antigas. Um novo provedor não pode suspender/cancelar assinaturas adquiridas por meio de outros canais. Se o cliente tiver adquirido assinaturas anteriores em outro canal de vendas, como o Open Channel, ele precisará cancelá-las por meio desse canal.
 
- 
+ 
 
- 
+ 
 
 
 

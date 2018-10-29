@@ -1,16 +1,19 @@
 ---
 title: Ler sua cobrança | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Sua fatura é um resumo de todos os encargos (entre programa, produtos e clientes) para o período atual mensal. Ele está disponível no Partner Center.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: cobrança de assinatura, cobrança, cobrança no partner center, ler minha cobrança, fatura, fatura do partner center, fatura do CSP, onde está minha cobrança?
 ms.localizationpriority: medium
-ms.openlocfilehash: 81262c11ab402dcd1748f9f8fde5cdeceac0f4f9
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 8505e0cc42bd294f6c6645ed02c1c5529cffff54
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489402"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795689"
 ---
 # <a name="read-your-bill"></a>Ler sua cobrança
 
@@ -27,7 +30,7 @@ Os parceiros no programa Provedor de Soluções na Nuvem que escolheram a cobran
 > [!NOTE]  
 > Sua fatura é um resumo de todos os encargos (entre programa, produtos e clientes) para o período de cobrança atual e é disponibilizada em até quatro (4) dias da data de cobrança selecionada.
 
-Você receberá uma fatura para baseadas em licença (Office365) e baseadas em uso encargos (Azure) e uma fatura separada para única (Azure instâncias de VM reservadas) encargos.
+Você receberá uma fatura para baseadas em licença (Office365) e baseadas em uso encargos de (Azure) e uma fatura separada para única (Azure instâncias de VM reservadas) encargos.
 
 Para obter detalhes dos encargos por itens, use os arquivos de reconciliação acompanhantes. Os arquivos de reconciliação contêm os IDs de clientes e assinaturas que você usará para criar as faturas dos clientes. Para obter mais informações, consulte [Como usar os arquivos de reconciliação](use-the-reconciliation-files.md).
 
@@ -75,7 +78,7 @@ Para obter detalhes dos encargos por itens, use os arquivos de reconciliação a
 <tr class="even">
 <tr class="even">
 <td>Subtotal</td>
-<td>Total antes de impostos e encargos de imposto exclusiva e créditos.</td>
+<td>Total antes de impostos e encargos de impostos exclusivos e créditos.</td>
 </tr>
 <td>Imposto</td>
 <td>O total de imposto para os encargos atuais como o total no início da seção detalhes na página 2 da fatura. Esse número é a soma de todos os encargos na:
@@ -86,7 +89,7 @@ Para obter detalhes dos encargos por itens, use os arquivos de reconciliação a
 </tr>
 <tr class="odd">
 <td>Outros créditos</td>
-<td>Créditos de imposto exclusivo.</td>
+<td>Créditos de imposto exclusivos.</td>
 </tr>
 <tr class="even">
 <td>Total dos encargos atuais</td>
@@ -143,7 +146,7 @@ Para obter detalhes dos encargos por itens, use os arquivos de reconciliação a
 |Valor pré-taxado |Subtotal das compras antes dos impostos. |
 |Imposto sobre vendas |Valor do imposto. |
 |Total |Total a ser pago. |
- 
+ 
 
 
 

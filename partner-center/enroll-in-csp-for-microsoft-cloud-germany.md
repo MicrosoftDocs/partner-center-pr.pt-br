@@ -1,14 +1,17 @@
 ---
 title: Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Cloud Alemanha | Partner Center do Microsoft Cloud Alemanha
+ms.topic: article
+ms.date: 10/29/2018
 description: Antes de se inscrever no programa Provedor de Soluções na Nuvem do Microsoft Cloud Alemanha, saiba mais sobre os requisitos do programa CSP.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ff6e0c0ecbf6ef67ae22f21dca25a0026ae0b59
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 7ed0b90395e3a15dd03963891dbadc9b1feebeec
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489622"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796969"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Cloud Alemanha
 

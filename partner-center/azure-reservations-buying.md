@@ -1,15 +1,18 @@
 ---
 title: Comprar reservas do Microsoft Azure em nome dos seus clientes | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 Description: Buy Azure reservations on behalf of customers in Partner Center.
 author: v-petand
+ms.author: v-petand
 keywords: Azure, reservas, gerenciar, cobrança, compra
 ms.localizationpriority: medium
-ms.openlocfilehash: 79c6fcfea47787165e958096f23bc14a97b9b85c
-ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
+ms.openlocfilehash: 0cc6c3632b16af99c3becb9d00a81a283ab2ab5c
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "4658102"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797189"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Comprar reservas do Microsoft Azure em nome dos seus clientes no Partner Center 
 
@@ -31,7 +34,7 @@ Siga as etapas abaixo para comprar reservas do Microsoft Azure em nome dos seus 
 
     b. Escolha **reservas** na lista de **tipo de** produto.
 
-    c. Escolha o tipo de reserva que do cliente quer na lista **tipo de reservas** .
+    c. Escolha o tipo de reserva que o cliente quer na lista **tipo de reservas** .
 
 4. As reservas do Azure devem estar associadas a uma assinatura do Azure ativa. Escolha a assinatura do cliente que deseja adicionar reservas do Azure da lista de **assinatura do cliente** . 
 
@@ -48,7 +51,7 @@ Siga as etapas abaixo para comprar reservas do Microsoft Azure em nome dos seus 
 
     a. Verificar ou alterar a quantidade de instâncias reservadas.
 
-    b. Selecione o escopo da reserva. O escopo da reserva pode abranger uma ou várias assinaturas (escopo compartilhado). Se você analisar a reserva em uma única assinatura, o desconto da reserva é aplicado a somente nesta assinatura. Se você selecionar compartilhada, o desconto da reserva é aplicado a todas as assinaturas no contexto de cobrança do cliente. 
+    b. Selecione o escopo da reserva. O escopo da reserva pode abranger uma ou várias assinaturas (escopo compartilhado). Se você definir o escopo a reserva em uma única assinatura, o desconto da reserva é aplicado a somente nesta assinatura. Se você selecionar compartilhada, o desconto da reserva é aplicado a todas as assinaturas no contexto de cobrança do cliente. 
 
      >[!NOTE]
     >Se você optar por para limitar o escopo da reserva para uma única assinatura do Azure, talvez seja necessário aumentar a cota de vCPU da assinatura. Para aumentar a cota de vCPU da assinatura, você precisará criar uma solicitação de suporte no portal do Azure. Siga as instruções [neste tópico](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) para criar a solicitação.    
@@ -66,7 +69,7 @@ Siga as etapas abaixo para comprar reservas do Microsoft Azure em nome dos seus 
 |**Para obter informações sobre**   |**Leia isto**    |
 |:-----------------------------|:-----------------|
 |Reservas do Azure na visão geral do CSP  | [Vender instâncias reservadas do Microsoft Azure](azure-reservations.md) |
-|Gerenciar reservas do Azure no Partner Center | [Gerenciar reservas do Azure no Partner Center](azure-reservations-manage.md)
+|Como gerenciar reservas do Azure no Partner Center | [Como gerenciar reservas do Azure no Partner Center](azure-reservations-manage.md)
 |Determinar o tamanho correto da VM e verificar o uso da VM do cliente   |[Dimensionamento de VM para uso máximo de reserva do Azure](azure-usage.md)   |
 |Como comprar reservas do Azure usando a API do Partner Center | [Comprar Instâncias de VM Reservadas do Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) na documentação do desenvolvedor do Partner Center
 

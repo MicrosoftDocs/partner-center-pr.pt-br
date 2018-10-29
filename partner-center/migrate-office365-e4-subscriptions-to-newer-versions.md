@@ -1,14 +1,17 @@
 ---
 title: Migrar assinaturas do Office 365 E4 para versões mais recentes do Office 365 | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Edições do Microsoft Office 365 Enterprise E4 estarão desativadas a partir de 7 de abril de 2017. Saiba como migrar suas assinaturas de cliente para versões mais recentes do Office 365.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 75999aa004ae03d4ec871fc706d757a192105320
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 1dc3957d6abe4069f3868d49e92a458d20e7fbec
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490172"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796099"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrar inscrições do Office 365 E4 para versões do Office 365 mais recentes
 
@@ -21,7 +24,7 @@ O plano do Office 365 Enterprise E4 está desativado desde 7 de abril de 2017. V
 Quando as assinaturas E4 terminarem, elas serão canceladas. Para garantir a continuidade dos clientes, você deve fazer a transição de clientes com assinaturas E4 vencidas para uma opção de SKU com suporte, listada abaixo. É recomendável mover os clientes para novas assinaturas antes da data de término anual da assinatura, para evitar possíveis interrupções de serviço para os clientes. 
 
 > [!NOTE]  
->  Tanto o Office 365 Enterprise E4 comercial quanto o governamental de SKUs está desativados.
+>  Office 365 Enterprise E4 comercial e governamental de SKUs está desativados.
  
 Na página de detalhes da assinatura, o status da assinatura E4 foi alterado para "Expira em [data]" de "Renovação automática em [data]". 
 
@@ -97,7 +100,7 @@ A assinatura antiga será suspensa e a nova assinatura será ativada. A assinatu
 
 
 
- 
+ 
 
 
 

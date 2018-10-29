@@ -1,16 +1,19 @@
 ---
 title: Criar um perfil de negócios | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Crie um perfil de negócios no Partner Center para obter as oportunidades de vendas da Microsoft.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
+ms.author: kenpacq
 keywords: pinpoint, indicações, oportunidades de venda, C2PC, perfil de negócios, comercializar sua empresa, localizar um parceiro, localizar um provedor de soluções, perfil de negócios, perfil de marketing
 ms.localizationpriority: medium
-ms.openlocfilehash: 516e898ba6c18458bd85db9517031ca58fcfef8a
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 174fe0a530fd72a17541d5b2a0bdffc9e16d53d6
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489762"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797249"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page

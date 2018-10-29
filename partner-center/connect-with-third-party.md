@@ -1,15 +1,18 @@
 ---
 title: Adicionar software de terceiros ao seu portfólio  | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Compre software de terceiros que funcione com produtos da Microsoft
 author: labrenne
+ms.author: labrenne
 keywords: ofertas de terceiros, software para compra
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ea21f8799faaf34703e51f9620f8169364569dc
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 42aacee4f5d9612f3b55bd1774f9c96b71be8eda
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489842"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795759"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Adicionar software de terceiros ao seu portfólio
 

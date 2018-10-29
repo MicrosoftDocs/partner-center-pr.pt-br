@@ -1,16 +1,19 @@
 ---
 title: Relatar problemas em nome de um cliente | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 Description: If your customer is experiencing a service problem that you can''t resolve, and that meets the criteria described in Escalate problems to Microsoft, file a support ticket for them.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f4de4c9159d451c39ffa2b71cc000fda3c82acf
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 1b2698c45a996394e0bbd24bc759e807c4957942
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490042"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795609"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Relatar problemas em nome de um cliente
 
@@ -34,9 +37,9 @@ Se o cliente está tendo um problema de serviço que você não consegue resolve
 
 **Observação** Quando você precisa criar uma solicitação de serviço para o cliente no Azure, lembre-se do seguinte:
 
-- Criar solicitações de serviço para o cliente no Azure, seu provedor indireto deve conceder que acesso à conta do Azure do cliente. Isso é diferente de administrar em nome dos clientes para o Office 365. 
+- Para criar solicitações de serviço para o cliente no Azure, seu provedor indireto deve conceder que acesso à conta do Azure do cliente. Isso é diferente de administrar em nome dos clientes para o Office 365. 
 
-- Embora o administrador de suporte técnico no Partner Center não é possível criar solicitações de serviço no portal de serviço do Azure, o que eles podem fazer é criar um grupo de suporte no portal de serviço do Azure e conceder permissões desse grupo para registrar as solicitações de suporte.
+- Embora o administrador de suporte técnico no Partner Center não é possível criar solicitações de serviço no portal de serviço do Azure, o que eles podem fazer é criar um grupo de suporte no portal de serviço do Azure e esse grupo dar permissões para registrar as solicitações de suporte.
 
 1.  Selecione **Nova solicitação de suporte**.
 2.  Preencha a solicitação de suporte com as informações apropriadas e, em seguida, selecione **Criar**:
@@ -92,9 +95,9 @@ Seu direito de suporte CSP não abrange sua própria assinatura de parceiro, por
 
 Caso entre diretamente no Centro de Administração do Office 365, você verá o centro em seu próprio contexto, não no contexto do cliente. Portanto, você só deve entrar diretamente no Centro de Administração do Office 365 quando estiver criando uma solicitação de serviço para suas próprias assinaturas.
 
-**Como posso obter suporte adicional do Dynamics 365?**
+**Como obter suporte adicional do Dynamics 365?**
 
- Se você estiver tendo problemas relacionados ao: Dynamics 365 plano assinaturas, licenciamento, cobrança, finanças e operações, IURs ou exige suporte técnico adicional:
+ Se você estiver tendo problemas relacionados ao: Dynamics 365 plano assinaturas, licenciamento, cobrança, finanças e operações, IURs ou você exige suporte técnico adicional:
  
 Contate o [suporte do Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 

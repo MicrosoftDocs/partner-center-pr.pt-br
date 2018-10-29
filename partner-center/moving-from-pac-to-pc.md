@@ -1,15 +1,18 @@
 ---
 title: Mudança do Centro de Administração do Parceiro para o Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Localizar no Partner Center os recursos que você está acostumado a usar no Centro de Administração do Parceiro
 author: labrenne
+ms.author: labrenne
 keywords: PAC, administração do Office 365, recursos do PAC
 ms.localizationpriority: medium
-ms.openlocfilehash: 9d154a0196d61116a0e478d92140c8cf7b2ff6da
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 0e53c39414d203be5045fd1b1ab52c6e3a2cd036
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490092"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794989"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Mudança do Centro de administração (PAC) para o Partner Center
 
@@ -29,7 +32,7 @@ Bem-vindo ao Partner Center! o Partner Center está evoluindo para o único luga
 |Gerenciar assinaturas de clientes|Gerenciamento de Clientes -> Lista de clientes -> selecione o cliente|Partner Center -> clientes -> selecione o cliente ou adicione o cliente à lista de **Favoritos** , alternando a estrela na lista de clientes –, em seguida, selecione a relação de **Favoritos** e ir diretamente para **Gerenciar assinaturas** para seu cliente.|
 |Administrar serviços em nome do seu cliente|Gerenciamento de Clientes -> selecione o cliente -> selecione o botão Administrar|Partner Center -> clientes -> selecione administrar serviços na lista suspensa-> selecione o serviço ou adicione o cliente à lista de **Favoritos** , alternando a estrela na lista de clientes –, em seguida, selecione a relação de **Favoritos** e vão diretamente para **Administrar serviços** serviços necessários.|
 |Criar solicitações de serviço para o cliente|Solicitações de serviço -> selecione o cliente -> selecione o botão + | Serviço -> Partner Center solicitações de cliente -> solicitações -> selecione cliente -> nova solicitação|
-|Gerenciar solicitações de atendimento ao cliente| Solicitações de serviço -> selecione o cliente|Serviço -> Partner Center solicitações -> solicitações -> selecione o cliente ou adicione a solicitação de serviço à lista de **Favoritos** , alternando a estrela na solicitações de exibição de cliente – depois selecione a relação de **Favoritos** , selecione o cliente o guia de **solicitações de suporte** e ir direto para a solicitação de serviço – ou exibir atualizações diretamente dos **Favoritos**.|
+|Gerenciar solicitações de atendimento ao cliente| Solicitações de serviço -> selecione o cliente|Serviço -> Partner Center solicitações -> solicitações -> selecione o cliente ou adicione a solicitação de serviço à lista de **Favoritos** , alternando a estrela na solicitações exibir para o cliente – depois selecione a relação aos **Favoritos** , selecione o cliente o guia de **solicitações de suporte** e ir direto para a solicitação de serviço – ou exibir atualizações diretamente dos **Favoritos**.|
 |Exibir integridade do Microsoft Online Services que você gerencia|Integridade do serviço -> Integridade agregada|Integridade do serviço -> Partner Center|
 
 >Importante<br>

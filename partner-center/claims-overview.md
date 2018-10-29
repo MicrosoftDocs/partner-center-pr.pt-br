@@ -1,15 +1,18 @@
 ---
 title: Declarações de cooperação de incentivos | Partner Center
-description: Envie suas declarações de incentivos sem precisar ter sua atividade de plano analisada pela primeira vez.
+ms.topic: article
+ms.date: 10/29/2018
+description: Envie suas declarações de incentivos, sem precisar ter sua atividade de plano revisadas pela primeira vez.
 author: labrenne
+ms.author: labrenne
 keywords: declarações de incentivos, pedidos de cooperação, fundos cooperativos
 ms.localizationpriority: medium
-ms.openlocfilehash: 65e65c412d38f6386aefb43681cac7bd1febaa34
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 93a77d4655a938d1c95503629b093bb44ae5681f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489312"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797149"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Visão geral de declarações de cooperação de incentivos
 
@@ -17,7 +20,7 @@ ms.locfileid: "4489312"
 
 - Partner Center
 
-Quando você participar do programa de parceiro incentivos cooperativo Marketing fundos (cooperação) você solicitar reembolsos de fundos acumulados para atividades que você tiver feito que ofereçam suporte a reconhecimento de produto da Microsoft. Enviar uma reivindicação diretamente do Partner Center. Você não precisa ter seu plano de atividade revisado pela Microsoft antes de enviar uma reivindicação. Envie sua reivindicação e a documentação necessária não depois que o prazo de período de declaração que é 45 dias após o final do período de uso. 
+Quando você participar do programa de parceiro incentivos cooperativo Marketing fundos (cooperação) você declará reembolsos de fundos acumulados para atividades que você tiver feito que ofereçam suporte a reconhecimento de produto da Microsoft. Você enviar uma reivindicação diretamente do Partner Center. Você não precisa ter seu plano de atividade revisado pela Microsoft antes de enviar uma reivindicação. Envie sua reivindicação e a documentação necessária não mais tarde do que o prazo de período de declaração que é 45 dias após o final do período de uso. 
 
 Uma declaração bem-sucedida inclui:
 

@@ -1,15 +1,18 @@
 ---
 title: Simplificar a configuração do dispositivo com o Windows AutoPilot | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Adicione um perfil de implantação do Windows AutoPilot no Partner Center para simplificar a configuração do dispositivo com o Windows AutoPilot
 author: KPacquer
+ms.author: kenpacq
 keywords: piloto automático, windows autopilot, piloto automático da microsoft, implantação zero touch, oobe, telas de logon
 ms.localizationpriority: medium
-ms.openlocfilehash: 09dc187347c7d433a5edfd1feb616d0b0275acce
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 2c8e8953fbb79493a3704c9c8ea6982928c3fe92
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489392"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796649"
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>Simplificar a configuração do dispositivo com o Windows AutoPilot 
 

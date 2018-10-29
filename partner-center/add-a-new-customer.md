@@ -1,16 +1,19 @@
 ---
 title: Adicionar um novo cliente | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Antes de vender assinaturas, gerenciar cobranças ou fornecer suporte, você precisa criar um registro de seu cliente no Partner Center. Esse registro deverá incluir as informações de contato deles e um domínio do Azure AD.
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: cliente, adicionar cliente, conta do cliente, conta do cliente no Partner Center, clientes, adicionar clientes, criar conta do cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: abe2e5f39718ddebb69d875febe3d06637b7ebc2
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 8b28c2b1200b03747ad9560434c2e69555c16580
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490202"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794839"
 ---
 # <a name="add-a-new-customer"></a>Adicionar um novo cliente
 
@@ -21,7 +24,7 @@ ms.locfileid: "4490202"
 -  Partner Center for Microsoft Cloud Germany
 
 
-Antes de você pode vender assinaturas, gerenciar cobranças ou fornecer suporte, você precisará criar uma conta para seu cliente no Partner Center. Esse registro deverá incluir as informações de contato deles e um domínio do Azure AD.
+Antes que você pode vender assinaturas, gerenciar cobranças ou fornecer suporte, você precisará criar uma conta para o cliente no Partner Center. Esse registro deverá incluir as informações de contato deles e um domínio do Azure AD.
 
 Para clientes que já possuem contas de cliente e inscrições por meio de um cenário [multi-canal](multichannel.md) ou [Multi-parceiro](multipartner.md), você pode [Solicitar uma relação com um cliente](request-a-relationship-with-a-customer.md), em vez de seguir as etapas aqui.
 
@@ -39,9 +42,9 @@ Para clientes que já possuem contas de cliente e inscrições por meio de um ce
 
 Para revisar os dados do cliente mais tarde, o que inclui a possibilidade de adicionar licenças de complementos às assinaturas, consulte os detalhes em [Criar uma nova assinatura](create-a-new-subscription.md).
 
- 
+ 
 
- 
+ 
 
 
 

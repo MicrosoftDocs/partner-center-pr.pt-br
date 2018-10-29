@@ -1,15 +1,18 @@
 ---
 title: Gerenciar seus benefícios do Microsoft Partner Network | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Como um membro do Microsoft Partner Network, você está qualificado para comprar certos benefícios de associação. Explica como ativar e gerenciar seus benefícios de associação no Partner Center.
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: MPN, benefícios da associação, associação
 ms.localizationpriority: medium
-ms.openlocfilehash: a7cd65f2f846357ed9ae98def154bf8e8db94314
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 09612dd127ad2bc17031c53a124a4536ba4a6661
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489792"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796379"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gerencie seus benefícios de associação ao Microsoft Partner Network
 
@@ -28,7 +31,7 @@ Ingressando no MPN (Microsoft Partner Network), você obtém acesso a benefício
 Após comprar um pacote de benefícios de associação, você precisará obter chaves de software e atribuir licenças, assinaturas e outros benefícios para os funcionários começarem a usá-los. 
 
 >[!IMPORTANT]
->Enquanto você não precisa ser um administrador global em sua organização para comprar benefícios, você precisa ser o administrador global para atribuir benefícios para os funcionários.  Se você quiser, você pode se tornar um administrador global, seguindo as instruções em sua [página **benefícios** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (entrada obrigatória). Além disso, sua organização pode já ter um administrador global então certifique-se de verificar com a sua equipe.
+>Enquanto você não precisa ser um administrador global em sua organização para comprar benefícios, você precisa ser o administrador global para atribuir benefícios para os funcionários.  Se você quiser, você pode se tornar um administrador global, seguindo as instruções em sua [página **benefícios** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (entrada obrigatória). Além disso, sua organização talvez já tenha um administrador global então não deixe de verificar com a sua equipe.
 
 Sua assinatura do Action Pack inclui alocações de licenças de software de direitos de uso interno, serviços de nuvem, assinaturas do Visual Studio e suporte. Você pode encontrar detalhes sobre a assinatura do Action Pack no site do [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 

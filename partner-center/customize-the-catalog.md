@@ -1,15 +1,18 @@
 ---
 title: Personalizar o catálogo | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: O catálogo lista todos os produtos e complementos da Microsoft disponíveis para os parceiros vender.
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ba9d9efd51d4b647e02e7f27b54e4259e90d782f
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 626f25e3f56949d658c6ab7ff1fdf1fb1ffdd2ad
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488542"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797046"
 ---
 # <a name="customize-the-catalog"></a>Personalizar o catálogo
 
@@ -26,9 +29,9 @@ O catálogo lista os produtos e os complementos da Microsoft disponíveis para v
 1.  Vá para o menu Partner Center &gt; **vender** &gt; **catálogo**.
 2.  Escolha até cinco ofertas para mostrar na parte superior do catálogo.
 
- 
+ 
 
- 
+ 
 
 
 

@@ -1,27 +1,27 @@
 ---
 title: Analisar as assinaturas e licenças | Partner Center
+ms.date: 07/12/2018
 Description: Get data about your subscriptions and licenses.
 Author: Xansky
 ms.author: mhopkins
-ms.date: 07/12/2018
 ms.assetid: 1922FCE8-3A89-44ED-B4E1-BFCD2326BB06
 ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
-ms.openlocfilehash: 86493059c6894fad96163178df3bd095e9a88420
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 048cbe3384d1721136afe6d6f165e8e408b6d25a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489352"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795179"
 ---
-# <a name="analyze-subscriptions-and-licenses"></a>Analisar as assinaturas e licenças 
+# <a name="analyze-subscriptions-and-licenses"></a>Analisar assinaturas e licenças 
 
 **Aplicável a**
 
 - Partner Center
 
-Os dados impulsionam as decisões de negócios. Use as métricas na página de **assinatura e análise de licença** para identificar seu êxitos e áreas que precisam de mais atenção. Use essas informações ao planejar novas metas de negócios.
+Os dados impulsionam as decisões de negócios. Use as métricas na página de **assinatura e análises de licença** para identificar seu êxitos e áreas que precisam de mais atenção. Use essas informações ao planejar novas metas de negócios.
 
 > [!NOTE]
 > Análise de licença de assinatura está disponível apenas para parceiros no programa provedor de soluções de nuvem.
@@ -38,9 +38,9 @@ Esse relatório pode dinamizar com base nos seguintes produtos:
 Estamos monitorando as seguintes métricas:
 
 **Resumo**  
- - **Assinaturas vendido**: contagem de assinaturas criado para o período de tempo especificado  
+ - **Assinaturas vendido**: contagem de assinaturas criada para o período de tempo especificado  
  - **Licenças vendidas**: contagem de licenças vendidas para o período de tempo especificado   
- - **Renovar assinaturas nos 30 dias**: contagem de assinaturas onde o status está ativo para o tempo especificado e período em que vale **renovar automaticamente**
+ - **Renovar assinaturas em 30 dias**: contagem de assinaturas onde o status está ativo para o tempo especificado e período em que vale **renovar automaticamente**
  - **As assinaturas ativas**: assinaturas onde o status está **ativo**  
  - **Assinaturas Suspended**: contagem de assinaturas suspensas, não há nenhum filtro de data  
 
@@ -62,9 +62,9 @@ Estamos monitorando as seguintes métricas:
  - Lista de todas as assinaturas ativas  
 
 **Conversões de assinatura de avaliação**  
- - **Conversão de avaliação**: contagem de todas as assinaturas **ativas** em que a avaliação pago para conversão de ocorreu durante o período de tempo especificado  
+ - **Conversão de avaliação**: contagem de todas as assinaturas **ativas** em que a avaliação pago para conversão ocorreu durante o período de tempo especificado  
 
 **Assinaturas de avaliação terminando em 30 dias**  
- - Lista de avaliações que foram iniciadas, onde a data de término é dentro de 30 dias, e há uma data de início pagos associada com a assinatura  
+ - Lista de avaliações que foram iniciadas, onde a data de término é dentro de 30 dias, e há uma data de início paga associada com a assinatura  
 
   

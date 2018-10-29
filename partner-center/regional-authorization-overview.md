@@ -1,16 +1,19 @@
 ---
 title: Autorização regional do CSP | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Com a autorização regional, os parceiros com empresas internacionais agora podem gerenciar mais facilmente clientes em diferentes regiões e países do mundo todo.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: Locatário do Azure AD, consolidar seu locatários, estratégia de locatário, locatários no CSP, contas de parceiro no CSP, mercados e regiões do CSP, onde posso vender por meio do CSP?
 ms.localizationpriority: medium
-ms.openlocfilehash: 46fbc08562cdddd75cabf9822b1fff84c151f031
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 351fbad0bfc818b16ca7a40eccedefb4dfea9307
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377628"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796629"
 ---
 # <a name="tenant-consolidation-strategies-in-csp"></a>Estratégias de consolidação de locatário no CSP
 
@@ -69,7 +72,7 @@ A consolidação de locatários é opcional. Os parceiros podem continuar a gere
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="one-tenant-for-multiple-regions-or-countries"></a>Um locatário para vários países ou regiões
 
@@ -101,7 +104,7 @@ Os parceiros podem optar por consolidar suas operações de vários locatários 
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="some-tenants-for-some-regions-or-countries"></a>Alguns locatários para alguns países ou regiões
 
@@ -137,7 +140,7 @@ Os parceiros podem optar por consolidar suas operações de vários locatários 
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="consolidating-tenants"></a>Consolidando locatários
 
@@ -211,7 +214,7 @@ Sua localização geográfica determina a moeda na qual você será cobrado, con
 | AUD | Austrália, Ilha Christmas, Ilha Norfolk, Ilhas Cocos (Keeling), Ilhas Cook, Fiji, Ilhas Heard e McDonald, Kiribati, Ilhas Marshall, Nauru, Niue, Ilha Norfolk, Ilhas Marianas do Norte, Palau, Papua Nova-Guiné, Ilhas Pitcairn, Ilhas Salomão, Tokelau, Tonga, Tuvalu, Ilhas Wallis e Futuna. |
 
 
- 
+ 
 
 
 

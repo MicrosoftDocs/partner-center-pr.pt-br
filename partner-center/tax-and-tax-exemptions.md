@@ -1,15 +1,18 @@
 ---
 title: Impostos e isenções fiscais | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Como o Provedor de Soluções na Nuvem é um canal de vendas concentrado na revenda de produtos do parceiro, a Microsoft nem sempre precisa cobrar impostos sobre vendas em faturas de parceiros.
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 13bacb79b210050b2392d40c6fa77cb0fe22235d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 609a70503eb0418a04cf345d4d1d0a176e39445a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489602"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796000"
 ---
 # <a name="tax-and-tax-exemptions"></a>Impostos e isenções fiscais
 
@@ -24,7 +27,7 @@ Como o Provedor de Soluções na Nuvem é um canal de vendas concentrado na reve
 **Protocole uma isenção de imposto**
 
 1.  Procure sua **ID da Microsoft** no Partner Center &gt; **configurações da conta** &gt; **perfil de organização**.
-2.  Procure sua **ID do MPN** no Partner Center &gt; **configurações da conta** &gt; **perfil de parceiro**.
+2.  Procure sua **ID do MPN** no Partner Center &gt; **configurações da conta** &gt; **perfil do parceiro**.
 3.  Crie um novo tíquete de suporte. No menu Partner Center, selecione **solicitações de serviço** &gt; **solicitações do Partner Center** &gt; **nova solicitação**.
 4.  Preencha o formulário. Para o **Tipo de problema**, escolha **Não é possível gerenciar meu perfil**. Na descrição, inclua sua ID do MPN e a ID da Microsoft.
 5.  Depois de enviar o tíquete, a Microsoft enviará um email a você para obter mais informações. Ao responder, anexe a documentação de apoio apropriada para os certificados de isenção de imposto.
@@ -71,11 +74,11 @@ Como o Provedor de Soluções na Nuvem é um canal de vendas concentrado na reve
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

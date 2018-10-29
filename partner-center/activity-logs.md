@@ -1,16 +1,19 @@
 ---
 title: Exibir logs de atividades do cliente | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Os logs de atividades fornecem informações sobre transações e ações de gerenciamento de parceiros para clientes.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: 79a0dc432e1d5407ffd1cc424019d5994d39ef48
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 40bcbde087fda68428c50d1f840a44a87bdebbc3
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488642"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794849"
 ---
 # <a name="view-customer-activity-logs"></a>Exibir logs de atividades do cliente
 
@@ -41,9 +44,9 @@ Os logs de atividades fornecem registros de ações de parceiros em contas de cl
     -   **Status** — fornece os dados associados à atividade, como uma ID do Pedido. Varia de acordo com o tipo de ação;
     -   **Informações adicionais** — os dados das transações do log de atividades. Por exemplo, se a ação for um pedido do cliente, esse campo listará o conteúdo da compra.
 
- 
+ 
 
- 
+ 
 
 
 

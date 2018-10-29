@@ -1,16 +1,19 @@
 ---
 title: Parceria com fornecedores indiretos no CSP | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Como um revendedor indireto no CSP, você trabalha com provedores indiretos (também conhecidos como distribuidores), que têm uma relação direta com a Microsoft e podem fornecer suporte e cobrança ao cliente. Isso significa que você não precisa começar por conta própria e, em vez disso, pode trabalhar com um provedor de tecnologia experiente para ajudar a garantir seu sucesso. No modelo de revendedor de provedor (duas camadas), o provedor compra soluções na nuvem e serviços Microsoft que você revende aos clientes.
 ms.prod: ''
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: revendedores indiretos, revendedores, provedores indiretos, provedores, parceria, VAR, camada2, camada 2
 ms.localizationpriority: medium
-ms.openlocfilehash: 9446b5ffa0a33716172232fc3b337cbe26225cfa
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 3c17ab635ac95cc53d8900c12335823fcabd75eb
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490012"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795489"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Fazer parceria com provedores indiretos no programa Provedor de Soluções na Nuvem
 
@@ -125,7 +128,7 @@ Se um provedor indireto quiser se conectar com você no Partner Center, ele vai 
     > [!NOTE]  
     > Quando você estabelece uma parceria com um provedor indireto, você está autorizando a enviar pedidos e adicionar assinaturas em nome dos seus clientes, e você está concedendo a eles acesso de administrador à conta de trabalho da sua empresa. Depois que a parceria tiver sido estabelecida com o provedor, você poderá remover o acesso de administrador do provedor à sua conta de trabalho no portal do Office 365. 
 
-4.  Selecione seu menu **Partner Center** para ver uma lista dos provedores com que tem uma parceria **provedores indiretos** . 
+4.  Selecione **provedores indiretos** no seu menu **Partner Center** para ver uma lista dos provedores com que você tem uma parceria. 
 
 5.  Selecione **Exibir clientes** para ver uma lista dos clientes que você e o provedor compartilham.
 
@@ -139,7 +142,7 @@ Se um provedor indireto quiser se conectar com você no Partner Center, ele vai 
 
 ### <a name="connect-with-existing-customers"></a>Conecte-se com clientes
 
-Os clientes que você já fez transações com por meio de outros portais, como o Centro de administração do parceiro do Office 365 ou portal de administração do Microsoft Azure, aparecerão na sua lista de clientes no Partner Center depois que você se registrar com êxito como um revendedor indireto. Selecione **clientes** em seu menu **Partner Center** para ver sua lista de clientes. 
+Os clientes que você já fez transações com por meio de outros portais, como o Centro de administração Office 365 ou portal de administração do Microsoft Azure, aparecerão na sua lista de clientes no Partner Center depois que você se registrar com êxito como um revendedor indireto. Selecione **clientes** em seu menu **Partner Center** para ver sua lista de clientes. 
 
 Ao se conectar a um provedor indireto, você não ganha os clientes do provedor indireto automaticamente. Da mesma forma, os clientes que com os quais por conta própria ou por meio de seu provedor indireto, mas não por meio do Partner Center, você trabalha não aparecerão automaticamente na sua lista de clientes quando você se inscrever no Partner Center. Você precisará estabelecer uma relação de revendedor com os clientes para fazer transações no Partner Center.  Para fazer isso, você envia por email um convite para se conectar com você no Partner Center, conforme descrito a seguir.
 

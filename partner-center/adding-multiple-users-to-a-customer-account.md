@@ -1,16 +1,19 @@
 ---
 title: Criar vários usuários para uma conta de cliente | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Você pode adicionar vários usuários a uma conta do cliente de uma vez, carregando um arquivo de dados em formato de arquivo de valores separados por vírgula (.csv) no Partner Center.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: upload em massa, adicionar vários usuários a uma conta do cliente, adicionar usuários do cliente, upload em massa de usuários do cliente, conta do cliente, usuários do cliente, usuários
 ms.localizationpriority: medium
-ms.openlocfilehash: 123c2c7b80398a860aa894449052502d41409c85
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 12bb42d4e1dcf5003ac8790be777c483f216fd6f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488812"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795669"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Adicionar vários usuários a uma conta do cliente
 
@@ -18,7 +21,7 @@ ms.locfileid: "4488812"
 
 -  Partner Center
 
-Você pode adicionar vários usuários a uma conta do cliente uma vez, carregando um arquivo de dados no formato de arquivo de valores separados por vírgula (. csv) no Partner Center. Você pode baixar um arquivo de dados de exemplo do Partner Center e editá-lo para seu uso, ou você pode criar um novo arquivo de dados usando o modelo de dados definido abaixo.
+Você pode adicionar vários usuários a uma conta do cliente uma vez, carregando um arquivo de dados no formato de arquivo de valores separados por vírgula (. csv) ao Partner Center. Você pode baixar um arquivo de dados de exemplo do Partner Center e editá-lo para seu uso, ou você pode criar um novo arquivo de dados usando o modelo de dados definido abaixo.
 
 ## <a href="" id="creatingtheimportcsvfile"></a>Requisitos de arquivo de dados:
 
@@ -42,7 +45,7 @@ Insira os seguintes dados no arquivo de dados:
 | Email           | Endereço de email comercial do usuário na empresa do cliente (campo obrigatório)           | Cada usuário deve ter um endereço de email exclusivo |
 | Atualização de status   | Usado para indicar se o novo registro de usuário foi ou não criado com êxito | \*\*Deixar em branco\* \ *                        |
 
- 
+ 
 
 ### <a href="" id="createmultipleuseraccounts"></a>Para criar várias contas de usuário
 
@@ -54,7 +57,7 @@ Insira os seguintes dados no arquivo de dados:
 5.  No seletor de arquivo, selecione seu arquivo de dados e, em seguida, selecione **Abrir**.
 6.  Selecione **Validar**.
 
-    **Observação**  A maioria dos erros de criação de conta é causada por problemas no arquivo de dados, como falta de informações, endereços de email incorretos ou duplicados ou número excessivo de registros no arquivo.
+    **Observação**a maioria dos erros de criação de conta é causada por problemas no arquivo de dados, como falta de informações, endereços de email incorretos ou duplicados ou número excessivo de registros no arquivo.
 
 7.  Depois que o Partner Center validar o arquivo, selecione a **localização** geográfica dos novos usuários.
 8.  Selecione **Salvar**.
@@ -64,9 +67,9 @@ Insira os seguintes dados no arquivo de dados:
 
 10. Novos usuários recebem automaticamente permissões de **pode usar licenças e serviços** . 
 
- 
+ 
 
- 
+ 
 
 
 

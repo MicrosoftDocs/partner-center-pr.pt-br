@@ -1,15 +1,18 @@
 ---
 title: Assinaturas de clientes | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Os parceiros podem vender assinaturas aos clientes e gerenciá-las por meio do Partner Center.
 author: labrenne
+ms.author: labrenne
 Keywords: subscriptions, assign license, license, customer satisfaction, Azure subscriptions
 ms.localizationpriority: medium
-ms.openlocfilehash: 3f39ea37669839f26dbd72894544fddce61e6462
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: b6f8d22a620fee619d864cc13cc5d110ddfc5c47
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489822"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795459"
 ---
 # <a name="customer-subscriptions"></a>Assinaturas de clientes
 
@@ -21,7 +24,7 @@ Na condição de parceiro CSP, uma das suas principais atividades é oferecer as
 
 |**Para fazer isso**   |**Leia isto**   |
 |----------------------|:----------------------|
-|Criar uma nova assinatura para um cliente existente no Partner Center ou adicione um novo cliente e depois crie sua assinatura|[Criar uma assinatura](create-a-new-subscription.md)|
+|Criar uma nova assinatura para um cliente atual no Partner Center ou adicione um novo cliente e depois crie sua assinatura|[Criar uma assinatura](create-a-new-subscription.md)|
 |Após a adição da assinatura, você pode atribuir licenças para os funcionários do cliente  |[Atribuir licenças a usuários](assign-licenses-to-users.md)|
 |Você também pode gerenciar atualizações de licenças em massa   |[Atribuir ou revogar licenças para vários usuários](bulk-license-provisioning-for-multiple-users.md)|
 |Conforme o cliente adiciona novos funcionários, você pode acrescentar licenças adicionais às assinaturas existentes   |[Adicionar licenças ou serviços a uma assinatura existente](add-licenses-or-services-to-an-existing-subscription.md)|
@@ -62,9 +65,9 @@ Na condição de parceiro CSP, uma das suas principais atividades é oferecer as
 
 
 
- 
+ 
 
- 
+ 
 
 
 

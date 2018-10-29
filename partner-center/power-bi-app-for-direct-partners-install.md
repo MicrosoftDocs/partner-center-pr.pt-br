@@ -1,15 +1,18 @@
 ---
 title: Instale e visualize o aplicativo de análise do Partner Center para Microsoft Power BI | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Siga as etapas abaixo para visualizar o aplicativo de análise do Partner Center para Power BI (para parceiros diretos no CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8dd91d16ffe5e49271dd3c5fe50e8910299f1a1c
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: f176b71072a67043df2ffe59b004b0ae8411dd4a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377508"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795529"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instale e visualize o aplicativo de análise do Partner Center para Microsoft Power BI
 

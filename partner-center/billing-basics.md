@@ -1,15 +1,18 @@
 ---
 title: Noções básicas de cobrança | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
+ms.author: labrenne
 keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções fiscais, arquivos de reconciliação, arquivo de reconciliação
 ms.localizationpriority: medium
-ms.openlocfilehash: 85b1fc90a65ca8c982dd58bc51130488e09e86de
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: ebab84673a5651cb40223ef9d1483eb1d0322e51
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490062"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797099"
 ---
 # <a name="billing-basics"></a>Noções básicas de cobrança
 
@@ -77,7 +80,7 @@ Agora, além da opção mensal, você tem uma opção de cobrança anual. Consul
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="license-based-billing"></a>Cobrança baseada em licença
 
@@ -109,7 +112,7 @@ Agora, além da opção mensal, você tem uma opção de cobrança anual. Consul
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="usage-based-billing"></a>Cobrança baseada em uso
 
@@ -172,6 +175,6 @@ Para acessar arquivos de reconciliação e faturas de cobrança única, selecion
 
 #### <a name="download-a-credit-note"></a>Baixe uma nota de crédito
 
-Se você exercício um crédito completo (Void fatura) e uma nova cobrança, forneceremos uma nota de crédito para cancelar a fatura original, e também um documento totalmente novo. Você pode solicitar uma crédito/nova cobrança pelos seguintes motivos:
+Que você exercício um crédito completo (Void fatura) e uma nova cobrança, forneceremos uma nota de crédito para cancelar a fatura original, e também um documento totalmente novo. Você pode solicitar uma crédito/nova cobrança pelos seguintes motivos:
 -   Correções de ordem de compra ou endereço
--   Fatura gerada e, em seguida, um reembolso de imposto foi aplicado. Você pode solicitar uma crédito/nova cobrança para obter o reembolso de imposto puxado volta para a fatura original. Isso também é verdadeiro para reembolsos, como você pode solicitar uma crédito/nova cobrança da fatura original e, em seguida, recepção em um reembolso.
+-   Fatura gerada e, em seguida, um reembolso de imposto foi aplicado. Você pode solicitar uma crédito/nova cobrança para obter o reembolso de imposto puxado de volta para a fatura original. Isso também é verdadeiro para reembolsos, como você pode solicitar uma crédito/nova cobrança da fatura original e, em seguida, recepção em um reembolso.

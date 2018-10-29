@@ -1,16 +1,18 @@
 ---
 title: Limites de crédito da conta do CSP (Provedor de Soluções na Nuvem) | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: ''
 ms.assetid: ''
 author: ''
 Keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: b53eaa1b2a7b2904c122dfd38b8f871a4920658d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0e6e3f562cc9a8f6f1e8ad78f1fa0c7103b962a3
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877236"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795130"
 ---
 # <a name="cloud-solution-provider-csp-account-credit-limits"></a>Limites de crédito da conta do CSP (Provedor de Soluções na Nuvem)
 

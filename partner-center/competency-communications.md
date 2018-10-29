@@ -1,19 +1,22 @@
 ---
 title: Competência Comunicações
+ms.topic: article
+ms.date: 10/29/2018
 description: A competência Comunicações reconhece parceiros que fornecem soluções inovadoras e personalizadas do Skype for Business.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: competência,competências,Comunicações
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b202d8a1f134748f18b66edae1bae4b44e00aaef
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0b52e39fee9abfe8e869d48c073ac42cb69637c1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877226"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794629"
 ---
 >[!IMPORTANT]
->Para saber mais sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Para saber sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 #Communications

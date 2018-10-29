@@ -1,16 +1,19 @@
 ---
 title: Listas de preços, ofertas e contratos de CSP | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Este artigo inclui links para guias do programa Provedor de Soluções na Nuvem, contratos de parceiro, contratos do cliente, listas de preços e ofertas.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: guias do programa csp, guia de programa, acordos de parceria, contrato do cliente, listas de preço, ofertas
 ms.localizationpriority: medium
-ms.openlocfilehash: e4a60b05a1f7c3341e51e83c6f34bf2081c72de5
-ms.sourcegitcommit: 011fb13f8b595f16d8be4a2948da60a8f3971e0a
+ms.openlocfilehash: a03d8b1a5cdf734831278984a6127951e7d664de
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "4657306"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796059"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guia do programa de provedor de soluções de nuvem, contratos, listas de preços e ofertas
 
@@ -59,31 +62,31 @@ Contrato da Microsoft Cloud [modelos de cliente](agreements.md)
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Emenda sigilo Professional para o contrato do Microsoft Cloud (Alemanha)
 
-Na Alemanha, o código de justiça (seção 203) e os códigos de conduta profissionais exigem que certas relações de cliente devem ser mantidas em segredo, por exemplo, a relação entre pacientes e seus médicos médicos e a relação entre advogado e seus clientes. Esses grupos causada pelo trabalho possuem garantir sigilo profissional. Para esses e outros profissões comprar serviços baseados em nuvem de provedores de soluções de nuvem, o provedor de serviços de nuvem deve concluir um contrato por escrito com o cliente que garante o sigilo profissional. 
+Na Alemanha, o código de justiça (seção 203) e os códigos de profissionais de conduta exigem que certos relacionamentos cliente devem ser mantidas em segredo, por exemplo, a relação entre pacientes e seus médicos médicos e a relação entre advogado e seus clientes. Esses grupos causada pelo trabalho possuem garantir sigilo profissional. Para essas e outras profissões comprar serviços baseados em nuvem de provedores de soluções de nuvem, o provedor de serviços de nuvem deve concluir um contrato por escrito com o cliente que garante sigilo profissional. 
 
-Se você fizer negócios na Alemanha, você talvez precise fornecer essa alteração de sigilo profissional aos seus clientes além do contrato de nuvem da Microsoft.
+Se você fizer negócios na Alemanha, você talvez precise fornecer esse emenda sigilo profissional para seus clientes além do contrato de nuvem da Microsoft.
 
-[Emenda de sigilo profissional de contrato Microsoft Cloud Alemanha (em inglês)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+[Emenda de sigilo profissional contrato Microsoft Cloud Alemanha (em inglês)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
-[Emenda de sigilo profissional de contrato Microsoft Cloud Alemanha (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+[Emenda de sigilo profissional contrato Microsoft Cloud Alemanha (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
 
 ## <a name="pricing"></a>Preço
 
 
-Baixe os detalhes de compras baseadas em licença, com base no uso e únicas na página **preços e ofertas** , disponível no menu **Partner Center** de preços. 
+Baixe os detalhes para compras baseadas em licença, com base no uso e únicas na página **preços e ofertas** , disponível no menu **Partner Center** de preços. 
 
 A lista de preços com base em licença é atualizada mensalmente, e a Microsoft lança novos preços 30 dias antes de entrar em vigor. Exemplos de serviços baseados em licença incluem o Office 365, Enterprise Mobility Suite e Microsoft Dynamics CRM. 
 
 Os preços de serviços com base em uso são dinâmicos e mudam frequentemente. Exemplos de serviços baseados em uso incluem o Microsoft Azure.
 
-Preço de compra única também é dinâmico. Reservas do Microsoft Azure e assinaturas correspondentes do Windows Server e SQL software são exemplos de compras únicas. 
+Preço de compra única também é dinâmico. Reservas do Microsoft Azure e assinaturas correspondentes para o Windows Server e SQL software são exemplos de compras únicas. 
 
 
 ## <a name="offers"></a>Ofertas
 
 
-Como um parceiro no CSP, você pode vender uma ampla variedade de produtos Microsoft, serviços e soluções, incluindo o Office 365, Enterprise Mobility Suite, Microsoft Dynamics e Microsoft Azure. Para obter mais informações sobre quais ofertas estão disponíveis para venda nessas famílias de produtos, consulte a matriz de ofertas do CSP na página **preços e ofertas** , disponível no menu do **Partner Center** . Este documento é atualizado mensalmente.
+Como um parceiro no CSP, você pode vender uma ampla variedade de soluções, incluindo o Office 365, Enterprise Mobility Suite, Microsoft Dynamics e Microsoft Azure, serviços e produtos Microsoft. Para obter mais informações sobre quais ofertas estão disponíveis para venda nessas famílias de produtos, consulte a matriz de ofertas do CSP na página **preços e ofertas** , disponível no menu do **Partner Center** . Este documento é atualizado mensalmente.
 
 Para parceiros CSP que usam a API de registro de uso CREST, a Microsoft também publica uma lista dos Serviços do Azure no CSP na página **Preços e ofertas**.
 

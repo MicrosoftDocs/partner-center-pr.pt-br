@@ -1,14 +1,17 @@
 ---
 title: Participe do Microsoft Partner Network| Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Adquira o Microsoft Action Pack e obtenha competências no Partner Center
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 23f6b0d0f8bcc680a4bfc3ae63ea0297186942ed
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 4fa391339dcf3660dc283a7478fbcb11654756b2
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489712"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796989"
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Participe do Microsoft Partner Network (MPN)
 
@@ -17,11 +20,11 @@ ms.locfileid: "4489712"
 -  Partner Center
 -  Microsoft Partner Network
 
-## <a name="new-to-the-partner-center"></a>Novo no Partner Center
+## <a name="new-to-the-partner-center"></a>Novo ao Partner Center
 
  A parceria com a Microsoft proporciona o acesso a novas oportunidades para transformar seus negócios. No Partner Center, você pode adquirir e renovar o Microsoft Action Pack e você tem fácil acesso a informações sobre competências e como obtê-las.
 
- Estamos convidando gradualmente os parceiros a gerenciar sua afiliação no Partner Center em seus mapas ou de competência datas de aniversário, bem como quando os recursos principais do Partner Center estiverem disponíveis e atenderem comprovadamente as necessidades de seus negócios.  Por enquanto, planeje a renovação e o gerenciamento da sua afiliação ao PMC (Partner Membership Center) até receber um convide para mudar.
+ Estamos convidando gradualmente os parceiros a gerenciar sua afiliação no Partner Center em seus MAPS ou de competência datas de aniversário, bem como quando os recursos principais do Partner Center estiverem disponíveis e atenderem comprovadamente as necessidades de seus negócios.  Por enquanto, planeje a renovação e o gerenciamento da sua afiliação ao PMC (Partner Membership Center) até receber um convide para mudar.
 
 ## <a name="get-your-mpn-id"></a>Obter sua ID do MPN
 

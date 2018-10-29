@@ -1,15 +1,18 @@
 ---
 title: Restaurar uma conta suspensa do Partner Center | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Saiba como restaurar uma conta suspensa do Partner Center, por que acontece a suspensão da conta de parceiro e como você pode usar sua conta durante a suspensão.
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a15745ea4cc789049251fc08077b420cb094a596
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: c0d55c0b8400c011b77c2be030e12686a0eadd6b
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489472"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796189"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>Restaurar uma conta suspensa do Partner Center
 

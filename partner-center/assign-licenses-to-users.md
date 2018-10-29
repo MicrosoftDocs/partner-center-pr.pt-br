@@ -1,16 +1,19 @@
 ---
 title: Tarefas de gerenciamento de usuários para contas de cliente | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Depois de comprar uma nova assinatura para um cliente, você pode atribuir licenças a usuários específicos.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
 ms.localizationpriority: medium
-ms.openlocfilehash: 153ed656ff217241079439e8b48c46c8d18ba144
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 2145455a063d1e21f6943abfc9d2f8905ed78a1e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489812"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797239"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Tarefas de gerenciamento de usuários para contas de cliente
 
@@ -77,7 +80,7 @@ Se precisar restaurar essa conta, você pode encontrá-la na guia **Usuários ex
 <a href="" id="restoreuseraccounts"></a>
 **Restaurar contas de usuário excluídas**
 
-1.  No menu **Partner Center** , selecione **os clientes**e escolha o cliente na lista.
+1.  No menu **Partner Center** , selecione **clientes**e, em seguida, escolha o cliente na lista.
 
 2.  Selecione **Usuários e licenças**.
 
@@ -94,9 +97,9 @@ Se precisar restaurar essa conta, você pode encontrá-la na guia **Usuários ex
 
 [Criar vários usuários para uma conta de cliente](adding-multiple-users-to-a-customer-account.md)
 
- 
+ 
 
- 
+ 
 
 
 

@@ -1,15 +1,18 @@
 ---
 title: Comprar ou renovar o Microsoft Action Pack | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Saiba como obter o Microsoft Action Pack, quer esteja comprando pela primeira vez ou renovando.
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: action pack, MAPS, renovar MAPS, renovar action pack, obter action pack
 ms.localizationpriority: medium
-ms.openlocfilehash: 585fa5f61339f07282b4caab5f678eb4bce9db65
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: b466785fee076966d94af78558736b99628afc3f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490122"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795039"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Comprar pela primeira vez ou renovar uma assinatura do Microsoft Action Pack
 
@@ -49,7 +52,7 @@ Depois que você ingressar com êxito na rede de parceiros, siga as [instruçõe
     - Receberá uma mensagem convidando-o a renovar sua assinatura no Partner Center - este site
 
 >[!IMPORTANT]
->Se você for convidado a renovar sua assinatura no Partner Center, observe que mudamos nossa política de janela de renovação, e você pode renovar sua assinatura depois que ela expirar. Por exemplo, se sua assinatura expira em 22 de junho, você pode renová-la a partir de 23 de junho e por 30 dias depois disso.       
+>Se você for convidado a renovar sua assinatura no Partner Center, observe que mudamos nossa política de janela de renovação e você poderá renovar sua assinatura depois que ela expirar. Por exemplo, se sua assinatura expira em 22 de junho, você pode renová-la a partir de 23 de junho e por 30 dias depois disso.       
 >Você pode encontrar a data de expiração da assinatura na página [**Ofertas de associação**](https://partnercenter.microsoft.com/pcv/partnership/offers) (é necessário entrar). Se ou quando você estiver qualificado para renovar no Partner Center, siga as etapas abaixo.  
 
 

@@ -1,17 +1,20 @@
 ---
-title: A contribuição do parceiro - mantenha sobre indicadores de desempenho | Partner Center
+title: A contribuição do parceiro - mantenha sobre os indicadores de desempenho | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 Description: Use partner contributions data to understand how your business is growing and succeeding
-Author: labrenne
+author: labrenne
+ms.author: labrenne
 keywords: dados de negócios
 ms.localizationpriority: medium
-ms.openlocfilehash: 4aafc30e4fed9dbaefff818f1c6a4a2affeb0af2
-ms.sourcegitcommit: 6dc4be68a77b5068dc0c7cb171d017200db76ede
+ms.openlocfilehash: be46ca6cb4efa54bcb29874465e79ca89f7799e8
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "4242799"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796859"
 ---
-# <a name="partner-contribution-stay-on-top-of-your-performance-indicators"></a>Contribuição de parceiros: permanecer em cima de seus indicadores de desempenho
+# <a name="partner-contribution-stay-on-top-of-your-performance-indicators"></a>Contribuição de parceiros: mantenha o controle de seus indicadores de desempenho
 
 **Aplica-se ao**
 - Partner Center
@@ -19,7 +22,7 @@ ms.locfileid: "4242799"
 Os dados impulsionam as decisões de negócios. Use as métricas na página de Contribuição de Parceiros para identificar seu êxitos, os êxitos de seus clientes e as áreas que precisam de mais atenção. Use essas informações ao planejar novas metas de negócios.
 
 >[!NOTE]
->Contribuição do parceiro está disponível somente para os parceiros que vendem o Dynamics 365.
+>Contribuição do parceiro está atualmente disponível apenas para os parceiros que vendem o Dynamics 365.
 
 Estamos monitorando as seguintes métricas:
 
@@ -59,17 +62,17 @@ Comentários de você sobre a contribuição do parceiro são bem-vindos. Envie 
 1. Por que não consigo ver a página de contribuição do parceiro?
     - Contribuição do parceiro está atualmente disponível apenas para parceiros que vendem o Dynamics 365 com contas MPN ou CSP. Esse recurso não está habilitado para China e Alemanha ainda.
 2. Sou um parceiro do Dynamics 365, por que não consigo ver os dados de contribuição de parceiros?
-      - Você não pode ter uma função de conta MPN ou CSP. Por exemplo: Advisor e DAP ainda não estão habilitados.  
-    - Talvez você não tenha a função de usuário apropriado em sua organização para exibir esta página. Entre em contato com seu administrador global.
+      - Você não pode ter um papel de conta MPN ou CSP. Por exemplo: Advisor e DAP ainda não estão habilitados.  
+    - Você talvez não tenha a função de usuário apropriado em sua organização para exibir esta página. Entre em contato com o administrador global.
 
     - Sua organização está localizada na China ou Alemanha.
 
 3. Meu nova receita líquida > 0, mas não tem nenhum dado para usuários ativos mensais (MAU)?
-    - Para a maioria dos VL ou canal aberto clientes, cobrança aparecerá antes estações sejam provisionadas para nós não veja MAU ainda.
+    - Para a maioria dos VL ou canal aberto clientes, de cobrança aparecerá antes estações sejam provisionadas, portanto, não podemos ver MAU ainda.
 
 4.  Por que é meu MAU > 0, mas posso não ter nenhum dado para nova receita líquida?
-    - Para Web Direct ou revendedor, estações sejam provisionadas antes de começa o ciclo de cobrança. Cobrança pode ocorrer um mês, trimestre ou ano mais tarde com base nas condições da assinatura. Isso também acontece com assinaturas de avaliação, direitos de uso interno e os clientes do governo dos Estados Unidos.
-5.  Meus dados de receita não correspondam?
+    - Para Web Direct ou revendedor, estações sejam provisionadas antes de começa o ciclo de cobrança. Cobrança pode ocorrer um mês, trimestre ou ano mais tarde, com base nas condições da assinatura. Isso também acontece com assinaturas de avaliação, direitos de uso interno e os clientes do governo dos Estados Unidos.
+5.  Meus dados de receita não correspondem?
     - Isso é mais provável devido a associação DPOR, diferenças de tempo ou dados não na nuvem.
-6.  Por que meus dados certificados individuais é baixa?
-    - Mostramos apenas aqueles localizado em uma área de locatário determinado cliente e que passaram 1 ou mais dos 5 exames necessários para a competência de aplicativos de negócios na nuvem, envolvimento de cliente ou caminho de finanças e operações.   
+6.  Por que meus dados individuais certificados é baixa?
+    - Mostramos apenas aqueles localizado em uma área de locatário determinado cliente e que passaram 1 ou mais dos 5 exames necessários para a competência de aplicativos de negócios na nuvem, o compromisso do cliente ou o caminho de finanças e operações.   

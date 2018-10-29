@@ -1,15 +1,18 @@
 ---
 title: Gerenciar reservas do Azure em nome dos seus clientes | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 Description: Purchasing and managing Azure reservations on behalf of your customers.
 author: v-petand
+ms.author: v-petand
 keywords: Azure, reservas, gerenciar, cobrança, compra
 ms.localizationpriority: medium
-ms.openlocfilehash: 6b3fb1aed57b39976556851c007590743a805671
-ms.sourcegitcommit: 1321f23b1a5be48a0a5dae6d52fd123ec9bacee2
+ms.openlocfilehash: 20286d269a3074f89ca1368c26992feb03f9d182
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/12/2018
-ms.locfileid: "4562268"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795449"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gerenciar reservas do Microsoft Azure em nome dos seus clientes
 
@@ -19,7 +22,7 @@ ms.locfileid: "4562268"
 -  Portal do Microsoft Azure
 -  Parceiros no CSP
 
-Para gerenciar o pós-compra de reservas do Azure dos seus clientes, você vai selecionará o cliente e a reserva que você deseja gerenciar no Partner Center e, em seguida, faça alterações na reserva no portal do Azure. 
+Para gerenciar o pós-compra de reservas do Azure dos seus clientes, você vai selecionará o cliente e a reserva que você deseja gerenciar no Partner Center e, em seguida, faça as alterações na reserva no portal do Azure. 
 
 1. Para começar, selecione **os clientes** do seu menu Partner Center e, em seguida, selecione o cliente cujas reservas você deseja gerenciar. 
 
@@ -44,7 +47,7 @@ Os clientes podem cancelar uma reserva a qualquer momento (até US$50.000 por an
 
 Veja a seguir para obter detalhes de cancelamento e taxas.
 
-|**Data de cancelamento**<br> (dias)   |**Utilização**    |**Crédito**  |**Encerramento**<br> taxa    |**Limite de reembolso** | 
+|**Data de cancelamento**<br> (dias)   |**Utilização**    |**Crédito**  |**Término antecipado**<br> taxa    |**Limite de reembolso** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
 |Menos de 5                       | Não          | 100%       | Não                              | US $ 50.000   |
 |Menos de 5                       | Sim         | Proporcional  | Não                              | US $ 50.000   |
@@ -67,7 +70,7 @@ Para enviar uma solicitação de suporte para um reembolso ou uma troca em nome 
 
 2. Na página de detalhes do cliente, selecione **Reservas do Azure** e, em seguida, selecione a reserva específica para a o cliente quer reembolso.  
 
-3. Em **ações**, selecione **reembolso** para ir para registro de reserva do cliente no portal do Azure e iniciar uma solicitação de suporte.  
+3. Em **ações**, selecione **reembolsar** para ir para registro de reserva do cliente no portal do Azure e iniciar uma solicitação de suporte.  
 
 4. Na página **Nova solicitação de suporte**, siga as etapas abaixo para solicitar um reembolso. Selecione **Avançar** depois de cada etapa. 
 

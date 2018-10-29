@@ -1,15 +1,18 @@
 ---
 title: Visão geral de reservas do Microsoft Azure | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
 author: v-petand
+ms.author: v-petand
 keywords: Azure, reservas, gerenciar, cobrança, compra, Azure RI, instâncias reservadas do Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d0787466c99810b4d4c73c15b97631bc54c257c
-ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
+ms.openlocfilehash: abf8b1aa01168786ff95cd91fe4853e3f7e34e9d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "4658112"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797229"
 ---
 # <a name="sell-microsoft-azure-reserved-instances"></a>Vender instâncias reservadas do Microsoft Azure 
 
@@ -19,7 +22,7 @@ ms.locfileid: "4658112"
 -  Portal do Microsoft Azure
 -  Parceiros no CSP
 
-Os parceiros no programa Cloud Solution Provider (CSP) podem oferecer a seus clientes instâncias do Microsoft Azure reservadas. Os clientes podem obter uma economia significativa quando reservam antecipadamente. Instâncias reservadas do Azure oferecem aos clientes simplicidade e flexibilidade das seguintes maneiras:
+Os parceiros no programa Cloud Solution Provider (CSP) podem oferecer a seus clientes instâncias do Microsoft Azure reservadas. Os clientes podem obter uma economia significativa quando reservam com antecedência. Instâncias reservadas do Azure oferecem aos clientes simplicidade e flexibilidade das seguintes maneiras:
 
 -   Um ou três termos de reserva 
 -   Fácil de começar; instalação foi concluída em segundos 
@@ -73,7 +76,7 @@ Antes de comprar reservas Azure em nome dos seus clientes, analise as informaç�
 |**Para obter informações sobre**   |**Leia isto**    |
 |:-----------------------------|:-----------------|
 |Como comprar reservas do Azure para seus clientes no Partner Center   |[Comprar reservas do Azure](azure-reservations-buying.md)
-|Gerenciar reservas do Azure no Partner Center | [Gerenciar reservas do Azure no Partner Center](azure-reservations-manage.md)
+|Como gerenciar reservas do Azure no Partner Center | [Como gerenciar reservas do Azure no Partner Center](azure-reservations-manage.md)
 |Determinar o tamanho correto da VM e verificar o uso da VM do cliente   |[Dimensionamento de VM para uso máximo de reserva do Azure](azure-usage.md)   |
 |Como comprar reservas do Azure usando a API do Partner Center | [Comprar Instâncias de VM Reservadas do Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) na documentação do desenvolvedor do Partner Center
 

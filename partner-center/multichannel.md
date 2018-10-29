@@ -1,15 +1,18 @@
 ---
 title: Multi-canal | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Em alguns casos, os clientes talvez queiram contratar você para provisionar e dar suporte a uma assinatura que eles compraram em outro lugar.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6706d8326de77da1ccfb952d39c294f271b3d3ef
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 9d8f5b58e539d214f0b9b11ff6ba06c447ac81d0
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489412"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795739"
 ---
 # <a name="multi-channel-support"></a>Suporte multi-canal
 
@@ -55,11 +58,11 @@ Recurso de vários canais do Partner Center oferece suporte a cenários quando u
 
 Se você tiver um revendedor indireto, consulte [Parceria com fornecedores indiretos](indirect-reseller-tasks-in-partner-center.md)
 
-Se você tiver um fornecedor indireto, consulte [Parceria com revendedores indiretos](indirect-provider-tasks-in-partner-center.md) 
+Se você tiver um fornecedor indireto, consulte [Parceria com revendedores indiretos](indirect-provider-tasks-in-partner-center.md) 
 
- 
+ 
 
- 
+ 
 
 
 

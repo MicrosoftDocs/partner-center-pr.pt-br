@@ -1,29 +1,32 @@
 ---
 title: Criar e gerenciar uma declaração de incentivos | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Declarações de cooperação iniciar incentivos do Partner Center.
 author: labrenne
+ms.author: labrenne
 keywords: declarações de incentivos, pedidos de cooperação, fundos cooperativos
 ms.localizationpriority: medium
-ms.openlocfilehash: 9d8b9f970dd5dc70ad0d518bea6c1ab0b0ebffde
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 5727110ff44b7d10c0729ae02289666920c3f636
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488782"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796789"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>Criar e gerenciar uma declaração de incentivos
 
 **Aplicável a**
 - Partner Center
 
-Você pode iniciar uma declaração no Partner Center. 
+Você pode iniciar uma declaração dentro do Partner Center. 
 
-1. **Incentivos** no Partner Center, selecione **declarações**.
+1. No **incentivos** no Partner Center, selecione **declarações**.
 2.  Se você já tiver uma declaração no processo, a página de visão geral de declarações mostra informações sobre o status de declarações existentes e fundos aprovados, declarado e totais.
 3.  Para criar uma nova declaração, selecione **criar uma declaração**.
-4.  Quando você preencher o formulário inicial e selecionou Enviar, você poderá adicionar faturas, do CRS, provas documentos e métricas de sucesso. Você também pode adicionar informações adicionais, se necessário.
+4.  Quando você preencher o formulário inicial e selecionou Enviar, você poderá adicionar faturas, do CRS, prova documentos e métricas de sucesso. Você também pode adicionar informações adicionais, se necessário.
 
-A página de detalhes de declarações permite que você solicite outras pessoas em sua organização para carregar documentação para o formulário. Para cada um dos documentos de suporte que você carrega, você pode fornecer detalhes explicativos. 
+A página de detalhes de declarações permite que você solicite outras pessoas em sua organização para carregar a documentação para o formulário. Para cada um dos documentos de suporte que você carrega, você pode fornecer detalhes explicativos. 
 
 ### <a name="manage-your-claims"></a>Gerenciar suas declarações
 

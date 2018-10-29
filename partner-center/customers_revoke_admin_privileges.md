@@ -1,15 +1,18 @@
 ---
 title: Os clientes delegam privilégios administrativos para parceiros | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Como um parceiro revendedor, seu cliente pode delegar você para ser seu administrador. Eles também podem remover privilégios.
 author: labrenne
+ms.author: labrenne
 keywords: privilégios de administrador, administrador em nome de, remover privilégios, DAP, AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 224ed2ea2485420761c7a5f85db5a7a37fd245af
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: cb53cf35eafd40e929c30ee74b2f7e98b3e4332a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489872"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795729"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>Os clientes delegam privilégios administrativos para parceiros
 
@@ -40,9 +43,9 @@ Para gerenciar um serviço ou inscrição de cliente em seu nome, o cliente deve
 > [!IMPORTANT]  
 > Os clientes podem reatribuir ou remover permissões de administrador no portal do administrador do serviço. No entanto, a menos e até que você renegocie seu contrato com o cliente, você continua a ser responsável por fornecer suporte ao cliente e por aderir aos termos do Contrato de revendedor de soluções de Nuvem da Microsoft, mesmo depois de um cliente reatribuir ou remover permissões de administrador. Nessa situação, se o cliente precisar de Ajuda, contate o suporte da Microsoft para abrir uma solicitação de serviço em nome do cliente.
 
-Os clientes podem saber quais de seus parceiros têm privilégios de administrador para seu locatário no portal de administração do Office 365. Para fazer isso:
+Seus clientes podem saber quais de seus parceiros têm privilégios de administrador para seu locatário no portal de administração do Office 365. Para fazer isso:
 
-1. O cliente precisa fazer logon no portal de administração do Office 365 como um Administrador Global.
+1. O cliente precisa fazer logon no portal de administração do Office 365, como um Administrador Global.
 
 2. Selecione **Configurações** → **Relações de parceiro**.
 
@@ -91,7 +94,7 @@ Cada assinatura do Azure tem seu próprio conjunto de funções de gerenciamento
 
 No Partner Center, os parceiros CSP podem gerenciar perfis Autopilot para seus clientes sem privilégios de administrador. Saiba como [Simplificar a configuração dos dispositivos com o Windows Autopilot.](https://docs.microsoft.com/partner-center/autopilot)
 
-O que você pode fazer depende em qual modelo CSP, você está inscrito no.
+Você pode fazer depende em qual modelo CSP, você está inscrito no.
 
 |**Operação**   |**Parceiro de cobrança direta e provedor indireto**   |**Revendedor indireto**   |
 |-----------------|-----------------------------------| -----------------------------|
@@ -107,7 +110,7 @@ O que você pode fazer depende em qual modelo CSP, você está inscrito no.
 
 - Você pode gerenciar dispositivos de cliente que você ou outro parceiro adicionados. 
 
-- Você não pode gerenciar dispositivos que o cliente tiver adicionado por meio do Microsoft Store para empresas, a Microsoft Store para educação ou o Portal do Microsoft Intune.
+- Você não pode gerenciar dispositivos que seu cliente tiver adicionado por meio do Microsoft Store para empresas, a Microsoft Store para educação ou o Portal do Microsoft Intune.
 
 > [!IMPORTANT]  
 > A experiência de gerenciamento Autopilot atual no Partner Center pode continuar a alterar. No momento em que este artigo foi publicado, as seguintes alterações estão sendo consideradas:

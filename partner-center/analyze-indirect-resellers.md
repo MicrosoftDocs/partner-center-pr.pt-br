@@ -1,23 +1,23 @@
 ---
 title: Analisar o desempenho de revendedores indiretos | Partner Center
+ms.date: 07/12/2018
 Description: Get data about the performance of your indirect resellers.
 Author: Xansky
 ms.author: mhopkins
-ms.date: 07/12/2018
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
 ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
-ms.openlocfilehash: f275972e91e30a6e4cc58a6b13d509088af810ce
-ms.sourcegitcommit: 6ad681d132ab60bf09cd01eba385a9fad7563fa7
+ms.openlocfilehash: bc0e38a516e77fbbbaf75d07f4f6344001bf1229
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/06/2018
-ms.locfileid: "3405438"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795839"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>Analisar o desempenho de revendedores indiretos 
 
-**Aplica-se a**
+**Aplicável a**
 - Partner Center
 
 Os dados impulsionam as decisões de negócios. Use as métricas na página de **análise de revendedor** para identificar seu êxitos, seus revendedores indiretos e as áreas que precisam de mais atenção. Use essas informações ao planejar novas metas de negócios.
@@ -30,13 +30,13 @@ Estamos monitorando as seguintes métricas:
 **Resumo**  
  - **Revendedores total**: contagem de revendedores ativas no último dia da assinatura  
  - **Revendedores novos**: contagem de novos revendedores indiretos para o período de tempo especificado  
- - **Revendedores ativos**: contagem de revendedores indiretos em que a ID do MPN é pelo menos 1 assinatura, e o status da assinatura não for desprovisionado  
+ - **Revendedores Active**: contagem de revendedores indiretos em que a ID do MPN é pelo menos 1 assinatura, e o status da assinatura não for desprovisionado  
  - **Revendedores de transação**: contagem de revendedores indiretos com uma assinatura vendido no período de tempo especificado  
 
 **Revendedores por mercado**  
  - Revendedores total por localização geográfica  
 
-**Revendedores superior por assinaturas vendidas**
+**Revendedores superiores por assinaturas vendidas**
  - Uma lista de revendedores, classificados pela quantidade de assinaturas que eles vendeu  
 
 **Principais produtos por contagem de assinatura**  

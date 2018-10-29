@@ -1,16 +1,19 @@
 ---
 title: Não pagamento, fraude ou uso indevido | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Estratégias para gerenciar os riscos de transações online, incluindo falta de pagamento de bens e serviços e atividade fraudulenta ou uso indevido do cliente.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: fraude, uso indevido, uso aceitável, política de uso aceitável, falta de pagamento, cliente não paga a conta, risco online, roubo de serviço, abuso do serviço, suspender uma assinatura,
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e9184a47c5f12900f9a7acb0d33d5d5c9f1f4fa
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: ccfcae0f6a31078e1c298ea6ee0293801c0f6b66
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377698"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795419"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Falta de pagamento, fraude ou uso indevido
 
@@ -78,9 +81,9 @@ Para mais estratégias mais detalhadas de atenuação de risco online, consulte 
 > [!IMPORTANT]  
 > Se a Microsoft detectar atividade do parceiro ou do cliente que confirmarmos ou suspeitarmos que viola a Política de Uso Aceitável, tomaremos medidas de aplicação. O cliente pode ser suspenso imediatamente, e você será notificado de ações de aplicação ou atualização em suas solicitações pela Microsoft.
 
- 
+ 
 
- 
+ 
 
 
 

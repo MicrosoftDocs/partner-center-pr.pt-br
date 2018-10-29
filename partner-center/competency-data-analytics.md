@@ -1,19 +1,22 @@
 ---
 title: Competência Análise de Dados
+ms.topic: article
+ms.date: 10/29/2018
 description: Se sua organização está no ramo de examinar os dados que ajudam os clientes a descobrir insights mais aprofundados, fazer previsões ou gerar recomendações, a competência Análise de Dados oferece uma plataforma para criar e comprovar suas habilidades.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: competência,competências,Análise de Dados
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 392efa7ef4fc6626d076c8419e68c9b510e7f0cd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0adaa5e091614abadf0eebccd3b46459be1a4fdf
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875296"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796219"
 ---
 >[!IMPORTANT]
->Para saber mais sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Para saber sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 #Data Analytics

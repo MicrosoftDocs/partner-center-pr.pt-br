@@ -1,16 +1,19 @@
 ---
 title: Cobrança | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções fiscais, arquivos de reconciliação, arquivo de reconciliação
 ms.localizationpriority: medium
-ms.openlocfilehash: 0407d176dcf7b7cc7f33403c4575a8a59b15b02d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 21946e6c3504dae35dc96585878e7714b976ad3a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489292"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796359"
 ---
 # <a name="billing"></a>Cobrança
 

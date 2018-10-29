@@ -1,15 +1,18 @@
 ---
 title: Programa Provedor de Soluções na Nuvem - vender soluções de nuvem em demanda | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: O Programa Provedor de Soluções na Nuvem pode ajudar você a expandir seus negócios com novos clientes e novos conhecimentos.
 author: labrenne
+ms.author: labrenne
 keywords: Provedor de Soluções na Nuvem, CSP, serviços baseados na Nuvem, Azure, Office 365, Dynamics, parceiro CSP, vender no CSP, parceiro direto, parceiro CSP direto, revendedor CSP indireto, CSP direto, CSP indireto, modelo direto, modelo indireto, revendedor indireto, provedor indireto, provedor, distribuidor, programa provedor de soluções na nuvem
 ms.localizationpriority: medium
-ms.openlocfilehash: 62cfa7e131f22ed5d7c3ac0e26ff14f71ac047f3
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 0e8f55bc76d8bda8494b83794184f928d680f68f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488742"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795209"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programa Provedor de Soluções na Nuvem - vender soluções de nuvem em demanda 
 
@@ -18,7 +21,7 @@ ms.locfileid: "4488742"
 -  Partner Center
 
 O programa Provedor de Soluções na Nuvem (CSP) ajuda você a ir além da revenda de licenças para se envolver mais nos negócios do cliente.
- 
+ 
 - Envolvimento mais aprofundado com seus clientes – reuniões regulares com os clientes ajudam a desenvolver um melhor entendimento de seus negócios e de suas necessidades.
 - Aumente seus lucros – a oferta de serviços aprimorados de cobrança e suporte, seja por conta própria ou por meio de um provedor indireto, possibilita novos fluxos de receita.  
 - Agregue valor – você poderá oferecer aos clientes soluções específicas do setor fornecidas com produtos da Microsoft.
@@ -34,14 +37,14 @@ O programa Provedor de Soluções na Nuvem (CSP) ajuda você a ir além da reven
 #### <a name="new-expanded-requirements"></a>Novos requisitos expandidos:
 
 Suporte
-- Expanda seus recursos de suporte comprando o suporte de nuvem individuais, priorizada com Microsoft Advanced suporte para o pacote de parceiros. Ou, escolha um suporte Microsoft Premier para o pacote de parceiros para acessar o catálogo completo de serviços proativos, 24/7 elevado interrupção/correção suporte e gerenciamento de conta técnica em nuvem, híbrida e local. 
+- Expanda seus recursos de suporte comprando o suporte de nuvem individuais, priorizada com o Microsoft Advanced suporte para o pacote de parceiros. Ou, escolha um suporte Microsoft Premier para o pacote de parceiros para acessar o catálogo completo de serviços proativos, com privilégios elevados. 24/7 interrupção/correção suporte e gerenciamento de conta técnica em nuvem, híbrida e local. 
 
 Serviços
 
-- Demonstre que você forneça pelo menos um serviço gerenciado, IP serviço ou aplicativo de solução de cliente. Saiba mais sobre como adicionar serviços gerenciados
+- Demonstre que você forneça pelo menos um serviço gerenciado, IP serviço ou aplicativo de solução do cliente. Saiba mais sobre como adicionar serviços gerenciados
 
 - Conheça os recursos de infraestrutura mínima, como cobrança e provisionamento.
-Estamos monitorando desempenho anual para confirmar que os parceiros de cobrança direta que atendam a esses requisitos são demonstrando o crescimento dos negócios estável. Não há nenhum metas de desempenho específicas no lugar neste momento, mas Microsoft pode implementar um desempenho barra no futuro. 
+Estamos monitorando desempenho anual para confirmar que os parceiros de cobrança direta que atendam a esses requisitos são demonstrando o crescimento dos negócios estável. Não há nenhuma metas de desempenho específicas no lugar neste momento, mas a Microsoft pode implementar um desempenho da barra no futuro. 
 
 - Uma ID ativa do Microsoft Partner Network (MPN) para o local onde deseja vender
 

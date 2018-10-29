@@ -1,14 +1,17 @@
 ---
 title: Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Cloud for US Government | Partner Center do Microsoft Cloud for US Government
+ms.topic: article
+ms.date: 10/29/2018
 description: Antes de se inscrever no programa Provedor de Soluções na Nuvem do Microsoft Cloud for US Government, saiba mais sobre os requisitos do programa CSP.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 2b4aff04574a4c16fbfe0ba28e1e7603857d3796
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 557eaa97a65acb7fff2698625acb95ab5c3717f6
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377658"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796329"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Cloud for US Government
 

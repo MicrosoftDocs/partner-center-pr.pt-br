@@ -1,19 +1,22 @@
 ---
 title: Competência de Aplicativos de Negócios na Nuvem
+ms.topic: article
+ms.date: 10/29/2018
 description: A competência de aplicativos de negócios na nuvem é para parceiros especializados em implantação e gerenciamento do Microsoft Dynamics 365 para seus clientes.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: competência, competências, aplicativos de negócios na nuvem
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 217f988b6a7003cc1cdabeb3f8663eeaa619b362
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2e48aa911f554757f75c53c0ebd1301709f06f36
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876696"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794569"
 ---
 >[!IMPORTANT]
->Para saber mais sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Para saber sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 
