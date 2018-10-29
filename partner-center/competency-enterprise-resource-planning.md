@@ -1,19 +1,22 @@
 ---
 title: Competência Enterprise Resource Planning
+ms.topic: article
+ms.date: 10/29/2018
 description: Torne-se um parceiro da Microsoft provando a qualidade da sua organização em desenvolver e implantar soluções Dynamics para necessidades de planejamento de recursos empresariais.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: competência,competências,Enterprise Resource Planning
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 581dbe631117776c9f437a1d23d70f1a983c1a3d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f0c69dafa24a61923fbc69521cdc87a89ad87c70
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875656"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795539"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="fa6a0-104">Para saber mais sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="fa6a0-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="cb237-104">Para saber sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="cb237-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Enterprise Resource Planning 

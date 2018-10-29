@@ -1,19 +1,22 @@
 ---
 title: Competência Produtividade na Nuvem
+ms.topic: article
+ms.date: 10/29/2018
 description: A competência Produtividade na Nuvem é para parceiros especializados em implantações corporativas do Office 365. Diferencie sua empresa com esta competência como um provedor de soluções na nuvem comprovado para clientes em busca de parceiros de soluções na nuvem qualificados.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: competência, competências, Produtividade na Nuvem
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 4d6915bc270500c926d17f10b6d6c0734a360c05
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 86a423236440dbcf25b7974c1d24ba7f0a14fa2f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874936"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794639"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="b4b82-105">Para saber mais sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="b4b82-105">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="74820-105">Para saber sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="74820-105">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 # Cloud Productivity competency
@@ -38,12 +41,12 @@ The Managed Service Partner option is ideal for partners who manage Office 365 e
 
     - **1** individual must pass all the following exams:
 
-        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
+        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
         - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
     
     **OR**
 
-    - **1** individual must obtain the following certification:  
+    - **1** individual must obtain the following certification:  
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-office365-certification.aspx): Office 365
 
 ### Gold
@@ -60,7 +63,7 @@ The Managed Service Partner option is ideal for partners who manage Office 365 e
 
     - **2** individuals must pass all the following exams:
 
-        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
+        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
         - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
         
     **OR**

@@ -1,19 +1,22 @@
 ---
 title: Competência Colaboração e Conteúdo
+ms.topic: article
+ms.date: 10/29/2018
 description: A competência Colaboração e Conteúdo reconhece parceiros que fornecem soluções do SharePoint que ajudam as empresas a compartilhar, colaborar e melhorar a produtividade.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: competência,competências,Colaboração e Conteúdo
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: efe413c3aec78d0f1b01f22e3db73cdb1122b2e9
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 70250f8c8be14a0d6de91ddf32f26fd51424b0e1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877066"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795959"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="eef11-104">Para saber mais sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="eef11-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="f7375-104">Para saber sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="f7375-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

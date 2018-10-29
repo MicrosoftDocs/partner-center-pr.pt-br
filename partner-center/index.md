@@ -2,21 +2,22 @@
 layout: LandingPage
 hide_bc: true
 title: Comece aqui para obter ajuda com o Partner Center
-description: Precisa de ajuda para configurar a conta, conectar-se com clientes ou comprar uma assinatura do Action Pack? Encontre que as respostas nesse Partner Center ajudam biblioteca criada especificamente para os parceiros nos programas CSP e MPN.
-author: v-chmccl
 ms.topic: landing-page
+ms.date: 10/29/2018
+description: Precisa de ajuda para configurar a conta, conectar-se com clientes ou comprar uma assinatura do Action Pack? Encontre as respostas neste Partner Center ajudar a biblioteca criada especificamente para os parceiros nos programas CSP e MPN. 
+author: v-chmccl
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: e36908da6d71b9f10b2fe80af21a22b4c9083cd5
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 5677ad5ea93cef313aa2b7373e75c9621d0a4e48
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489672"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795909"
 ---
 # <a name="start-here-for-help-with-partner-center"></a>Comece aqui para obter ajuda com o Partner Center
 
-Precisa de ajuda para configurar a conta, conectar-se com clientes ou comprar uma assinatura do Action Pack? Encontre que as respostas nesse Partner Center ajudam biblioteca criada especificamente para os parceiros nos programas CSP e MPN.
+Precisa de ajuda para configurar a conta, conectar-se com clientes ou comprar uma assinatura do Action Pack? Encontre as respostas neste Partner Center ajudar a biblioteca criada especificamente para os parceiros nos programas CSP e MPN.
 
 Se você já estiver familiarizado com o Partner Center, consulte [o que há de novo](/partner-center/whats-new-in-pc).
 

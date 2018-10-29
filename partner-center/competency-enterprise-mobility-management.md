@@ -1,19 +1,22 @@
 ---
 title: Competência Enterprise Mobility Management
+ms.topic: article
+ms.date: 10/29/2018
 description: A competência Enterprise Mobility Management é para parceiros que se destacam como especialistas em soluções de gerenciamento de mobilidade seguras e avançadas para grandes empresas.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: competência,competências,Enterprise Mobility Management
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: e6c5fd30a82992d41a22b4892d27ec4709b4b931
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7e41399862cc725b15853f365e96c2f8f715c88b
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876066"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796239"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="dc175-104">Para saber mais sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="dc175-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="78bdf-104">Para saber sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="78bdf-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

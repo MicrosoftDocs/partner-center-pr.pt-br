@@ -1,16 +1,19 @@
 ---
 title: Transferir assinaturas do Azure | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Um cliente pode mudar o parceiro do programa Provedor de Soluções na Nuvem que usa para os serviços do Microsoft Azure. No entanto, esse é um processo manual que exige ações do parceiro e do cliente.
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: assinatura do Azure, mudar de parceiro, alterar parceiro, obter novo parceiro, outro parceiro
 ms.localizationpriority: medium
-ms.openlocfilehash: 5c4f1b5df62d800f2c3ac14137dd85743e928e90
-ms.sourcegitcommit: 5c8ea8aaa94f79cd2fc031b2b40a0cc363c5d3c7
+ms.openlocfilehash: f91716aa6ebf2c2b8f2867f1bad61947ad3776e0
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2018
-ms.locfileid: "5511387"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796689"
 ---
 # <a name="transfer-azure-subscriptions"></a><span data-ttu-id="472c4-105">Transferir assinaturas do Azure</span><span class="sxs-lookup"><span data-stu-id="472c4-105">Transfer Azure subscriptions</span></span> 
 
