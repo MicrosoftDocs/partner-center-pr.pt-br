@@ -1,7 +1,7 @@
-# [Sobre o Painel de Parceiros da Microsoft](index.md)
+# [Sobre o Microsoft Partner Center](index.md)
 
 # [Associação ao Partner Network](mpn-overview.md)
-## [Criar uma conta do Painel de Parceiros](mpn-create-a-partner-center-account.md)
+## [Crie uma conta do Partner Center](mpn-create-a-partner-center-account.md)
 ## Ofertas de associação
 ### [Action Pack](mpn-get-action-pack.md)
 ### [Renovar suas ofertas](renew-mpn-offers.md)
@@ -18,13 +18,13 @@
 ## [Modelos de contrato de cliente](agreements.md)
 
 ## [Aplicar para venda em nuvens nacionais](csp-national-clouds-overview.md)
-### [Painel de Parceiros para Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
-### [Painel de Parceiros para Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md)
+### [Partner Center para Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
+### [Partner Center do Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md)
 
-# [Gerenciar sua conta do Painel de Parceiros](partner-center-account-setup.md)
-## [Contas de trabalho e o Painel de Parceiros](azure-active-directory-tenants-and-partner-center.md)
+# [Gerencie sua conta do Partner Center](partner-center-account-setup.md)
+## [Contas corporativas e o Partner Center](azure-active-directory-tenants-and-partner-center.md)
 ## [Atualize seu perfil de parceiro](update-your-partner-profile.md)
-## [Restaurar uma conta suspensa do Painel de Parceiros](suspended-partner-center-account.md)
+## [Restaurar uma conta suspensa do Partner Center](suspended-partner-center-account.md)
 ## [Criar contas de usuário](create-user-accounts-and-set-permissions.md)
 ## [Atribuir funções e permissões de usuário](permissions-overview.md)
 ## [Verificar a propriedade de seu domínio](become-global-admin.md)
@@ -73,7 +73,7 @@
 ## [Serviços online (Assinaturas)](customer-subscriptions.md)
 ### [Criar, suspender ou cancelar assinaturas de cliente](create-a-new-subscription.md)
 ### [Oferecer avaliações de produtos da Microsoft aos seus clientes](offer-your-customers-trials-of-microsoft-products.md)
-### [Atribuir assinaturas do Azure no Painel de Parceiros](assign-azure-subscriptions.md)
+### [Atribuir assinaturas do Azure no Partner Center](assign-azure-subscriptions.md)
 ### [Atribuir licenças a usuários](assign-licenses-to-users.md)
 ### [Adicionar licenças ou serviços a uma assinatura atual](add-licenses-or-services-to-an-existing-subscription.md)
 ### [Atribuir ou revogar licenças para vários usuários](bulk-license-provisioning-for-multiple-users.md)
@@ -88,21 +88,21 @@
 ### [Migrar o Skype for Business Online Plano 1 para versões mais novas do Office 365](skype-retiring.md)
 ### [Transferir assinaturas do Azure](switch-azure-subscriptions-to-a-different-partner.md)
 
-# Dados e análises do Painel de Parceiros
+# Análises e dados do Partner Center
 ## [Obter e analisar seus dados de negócios](data-analysis-lp.md)
-## [App Análise do Parceiro para Microsoft Power BI](power-bi-app-for-direct-partners.md)
+## [Aplicativo Análise do Partner Center para Microsoft Power BI](power-bi-app-for-direct-partners.md)
 ## [Contribuição de parceiros: mantenha o controle de seus indicadores de desempenho](partner-contributions.md)
 ## [Obter dados sobre o uso de assinaturas do Azure de seus clientes](analyze-azure-usage.md)
 ## [Analisar o desempenho de revendedores indiretos](analyze-indirect-resellers.md)
 ## [Analisar assinaturas e licenças](analyze-subscriptions-licenses.md)
 
 # [Trabalhar com outros parceiros](work-with-other-partners.md)
-## [Tarefas de provedor indireto no Painel de Parceiros](indirect-provider-tasks-in-partner-center.md)
-## [Tarefas de revendedor indireto no Painel de Parceiros](indirect-reseller-tasks-in-partner-center.md)
+## [Tarefas de fornecedor indireto no Partner Center](indirect-provider-tasks-in-partner-center.md)
+## [Tarefas de revendedor indireto no Partner Center](indirect-reseller-tasks-in-partner-center.md)
 
 
 # [Obter suporte da Microsoft](support-from-microsoft.md)
-## [Relatar problemas com o Painel de Parceiros](report-problems-with-partner-center.md)
+## [Relate problemas com o Partner Center](report-problems-with-partner-center.md)
 ## [Relatar problemas em nome de um cliente](report-problems-on-behalf-of-a-customer.md)
 ## [Automatize as notificações de serviço com nossas APIs](get-automated-service-notifications-with-our-apis.md)
 
