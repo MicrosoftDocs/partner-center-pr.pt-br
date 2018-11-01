@@ -7,12 +7,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1d2d8bc96d33a182227cfda65e8095c20ffb3c44
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 118094c56549306b6ec659c6827362c07d6bd750
+ms.sourcegitcommit: 917e4b1ff2f8ae0d12e581dc2d098151eda7b8c0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795949"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "5917976"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Conectar com clientes no Partner Center
 
@@ -20,28 +20,45 @@ ms.locfileid: "5795949"
 
 -  Partner Center
 -  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
+-  Partner Center do Microsoft Cloud Germany
 
-Para gerenciar um serviço ou inscrição de cliente em seu nome, o cliente deve conceder suas permissões de administrador para aquele serviço. Para receber permissões de administrador de um cliente, mande um e-mail para eles com uma solicitação de relação de revendedor. Depois do cliente aprovar sua solicitação, você será capaz de entrar no portal de admin do serviço e gerenciar o serviço em nome do cliente. 
+Se você deseja gerenciar o serviço ou a assinatura em nome do cliente, o cliente deve conceder permissões de administrador para esse serviço ou a assinatura. O procedimento a seguir mostra como solicitar essa permissão por email. Depois que o cliente aprovar sua solicitação, você poderá fazer logon no portal do administrador do serviço e gerenciar o serviço em nome do cliente. 
+
+Se você só deseja estabelecer uma relação de revendedor com um cliente e gerenciar assinaturas de CSP Azure que você provisionar, não é necessário obter permissões de administrador.
+
+Observe que a opção para não solicitar permissões não está disponível para os parceiros operando no Microsoft Cloud para o governo ou Microsoft Cloud Alemanha. Para saber mais, consulte [os clientes delegam privilégios administrativos para parceiros](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges).
+
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Convide um cliente para estabelecer uma relação de revendedor com você
 
 1.  Selecione **clientes** em seu menu **Partner Center** e, em seguida, selecione **solicitar uma relação de revendedor**.
 
-2.  Na página seguinte, reveja o rascunho da mensagem de e-mail. Você pode abrir a mensagem rascunho em seu aplicativo de e-mail padrão ou pode copiar a mensagem para sua área de transferência e colá-lo no e-mail. 
+2.  Para solicitar permissões de administrador desse cliente, selecione **incluir privilégios de administrador delegado para o Azure Active Directory e o Office 365**. Para estabelecer a relação sem solicitar permissões de administrador, desmarque essa opção. 
+
+3.  Na página seguinte, reveja o rascunho da mensagem de e-mail. Você pode abrir a mensagem rascunho em seu aplicativo de e-mail padrão ou pode copiar a mensagem para sua área de transferência e colá-lo no e-mail. 
 
     Você pode editar o texto no e-mail, mas certifique-se de incluir o link, pois ele é personalizado, para vincular o cliente diretamente a sua conta. Selecione **Concluído** quando tiver completado essa tarefa.
 
 3.  Envie o e-mail para seu cliente.
 
-4.  Depois do cliente aceitar seu convite, eles aparecerão em sua página **Clientes**, e você poderá provisionar e gerenciar o serviço para o cliente a partir daí.
+5.  Depois do cliente aceitar seu convite, eles aparecerão em sua página **Clientes**, e você poderá provisionar e gerenciar o serviço para o cliente a partir daí.
 
  
-5.  Para gerenciar a conta do cliente, serviços, usuários e licenças, expanda o registro do cliente, selecionando a seta para baixo perto de seu nome.
+6.  Para gerenciar a conta do cliente, serviços, usuários e licenças, expanda o registro do cliente, selecionando a seta para baixo perto de seu nome.
 
 
 > [!IMPORTANT]  
 > Os clientes podem reatribuir ou remover permissões de administrador no portal do administrador do serviço. No entanto, a menos e até que você renegocie seu contrato com o cliente, você continua a ser responsável por fornecer suporte ao cliente e por aderir aos termos do Contrato de revendedor de soluções de Nuvem da Microsoft, mesmo depois de um cliente reatribuir ou remover permissões de administrador. Nessa situação, se o cliente precisar de ajuda, você pode ligar para o suporte da Microsoft para abrir uma solicitação de serviço em nome do cliente.
+
+## <a name="changes-to-the-customer-invitation-experience"></a>Alterações à experiência de convite do cliente
+A experiência do cliente para aceitar um convite de relação de revendedor de um parceiro de provedor de soluções de nuvem está mudando em 1º de novembro de 2018. Para obter detalhes sobre as alterações, consulte a tabela a seguir. Para obter detalhes sobre a nova experiência na Microsoft Store para empresas, consulte [Trabalhando com provedores de soluções na Microsoft Store para empresas](https://docs.microsoft.com/en-us/microsoft-store/work-with-partner-microsoft-store-business).
+
+|  | Onde um cliente aceitar um convite de revendedor criado antes de 1º de novembro de 2018 | Onde um cliente aceitar um convite de revendedor criado antes de 1º de novembro de 2018 |
+|---------|---------|---------
+| Clientes na nuvem pública | Portal de administração do Microsoft Office | Microsoft Store para Empresas |
+| Os clientes no Partner Center do Microsoft Cloud Alemanha | Portal de administração do Microsoft Office | Portal de administração do Microsoft Office |
+| Clientes no Partner Center do Microsoft Cloud for US Government | Portal de administração do Microsoft Office | Portal de administração do Microsoft Office |
+
 
 ## <a name="related-topics"></a>Tópicos relacionados
 
