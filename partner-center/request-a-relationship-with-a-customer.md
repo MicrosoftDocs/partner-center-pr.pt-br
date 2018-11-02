@@ -7,20 +7,18 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 118094c56549306b6ec659c6827362c07d6bd750
-ms.sourcegitcommit: 917e4b1ff2f8ae0d12e581dc2d098151eda7b8c0
+ms.openlocfilehash: 5211d68b79a1a67cd17c8974edd360999c10fb8d
+ms.sourcegitcommit: 6b781672d91f7ede942a9044a41e785dcf63f807
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 11/01/2018
-ms.locfileid: "5917976"
+ms.locfileid: "5962389"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Conectar com clientes no Partner Center
 
 **Aplicável a**
 
 -  Partner Center
--  Partner Center for Microsoft Cloud for US Government
--  Partner Center do Microsoft Cloud Germany
 
 Se você deseja gerenciar o serviço ou a assinatura em nome do cliente, o cliente deve conceder permissões de administrador para esse serviço ou a assinatura. O procedimento a seguir mostra como solicitar essa permissão por email. Depois que o cliente aprovar sua solicitação, você poderá fazer logon no portal do administrador do serviço e gerenciar o serviço em nome do cliente. 
 
