@@ -1,63 +1,76 @@
 ---
-title: Fazer a transição da sua associação MPN do Partner Membership Center para o Partner Center
+title: Fazer a transição de sua associação de rede do Partner Membership Center para o Partner Center
 ms.topic: article
-ms.date: 10/29/2018
-description: Usuários PMC-agora estamos gerenciando associações MPN por meio do Partner Center. Veja o que fazer.
-author: KPacquer
-ms.author: kenpacq
+ms.date: 11/14/2018
+description: Como fazer a transição de sua conta de associação do Partner Membership Center para o Partner Center.
+author: maggiepuccievans
+ms.author: maggiepuccievans
 keywords: associação mpn, competências, pmc para partner center
-robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: ba6b58a035445824d8a0a3266fbd240fc9c4aa6e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9af70ed292b89b36e8940ed7d32bf7508b7e8cb1
+ms.sourcegitcommit: 7a68540d64d17c4d9139da4f94d679f9d91b67c4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794949"
+ms.lasthandoff: 11/15/2018
+ms.locfileid: "7011396"
 ---
-# <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a><span data-ttu-id="7bed9-105">Fazer a transição da sua associação MPN do Partner Membership Center para o Partner Center</span><span class="sxs-lookup"><span data-stu-id="7bed9-105">Transition your MPN membership from Partner Membership Center to Partner Center</span></span>
+# <a name="transition-your-partner-membership-account-from-partner-membership-center-to-partner-center"></a><span data-ttu-id="bcca7-104">Fazer a transição de sua conta de associação de parceiro do Partner Membership Center para o Partner Center</span><span class="sxs-lookup"><span data-stu-id="bcca7-104">Transition your partner membership account from Partner Membership Center to Partner Center</span></span>
 
-**<span data-ttu-id="7bed9-106">Aplicável ao</span><span class="sxs-lookup"><span data-stu-id="7bed9-106">Applies to</span></span>**
--  <span data-ttu-id="7bed9-107">Partner Center</span><span class="sxs-lookup"><span data-stu-id="7bed9-107">Partner Center</span></span>
+**<span data-ttu-id="bcca7-105">Aplica-se ao</span><span class="sxs-lookup"><span data-stu-id="bcca7-105">Applies to</span></span>**
 
-<span data-ttu-id="7bed9-108">Usuários do Partner Membership Center: agora estamos gerenciando novas associações e renovações do Microsoft Partner Network (MPN) por meio do Partner Center.</span><span class="sxs-lookup"><span data-stu-id="7bed9-108">Partner Membership Center users: We're now managing Microsoft Partner Network (MPN) new memberships and renewals through Partner Center.</span></span>  
+- <span data-ttu-id="bcca7-106">Partner Center</span><span class="sxs-lookup"><span data-stu-id="bcca7-106">Partner Center</span></span>
+- <span data-ttu-id="bcca7-107">Parceiros do MPN</span><span class="sxs-lookup"><span data-stu-id="bcca7-107">MPN partners</span></span>
 
-<span data-ttu-id="7bed9-109">Se você se inscreveu no MPN por meio do Partner Membership Center, poderá ver seus benefícios atuais no PMC até que a associação do ano atual termine, mesmo que você já tenha renovado.</span><span class="sxs-lookup"><span data-stu-id="7bed9-109">If you've subscribed to MPN through Partner Membership Center, you'll be able to review your current benefits in PMC until the current year’s membership ends, even if you’ve already renewed.</span></span> 
+## <a name="partner-membership-center-being-retired"></a><span data-ttu-id="bcca7-108">Partner Membership Center está sendo desativado</span><span class="sxs-lookup"><span data-stu-id="bcca7-108">Partner Membership Center being retired</span></span>
 
-<span data-ttu-id="7bed9-110">Quando você se registrar novamente no MPN, sua nova associação começará imediatamente, mas a data de término da sua associação MPN será adiada para um ano depois da data de expiração da sua associação MPN atual.</span><span class="sxs-lookup"><span data-stu-id="7bed9-110">When you re-enroll in MPN, your new membership will begin immediately, but your end date of your MPN membership will be pushed forward to be one year after your current MPN membership is due to expire.</span></span> <span data-ttu-id="7bed9-111">Isso lhe dará um período de sobreposição em que você poderá acessar ambos os sistemas.</span><span class="sxs-lookup"><span data-stu-id="7bed9-111">This will give you a period of overlap where you can access both systems.</span></span>
+<span data-ttu-id="bcca7-109">Durante os próximos meses, nós vai convidando parceiros para mover suas contas de associação de parceiro da associação PMC (Partner Center) para uma nova plataforma, o Partner Center.</span><span class="sxs-lookup"><span data-stu-id="bcca7-109">During the next several months, we'll be inviting partners to move their partner membership accounts from the Partner Membership Center (PMC) to a new platform, the Partner Center.</span></span> <span data-ttu-id="bcca7-110">Partner Center é o destino único para gerenciar seu relacionamento comercial com a Microsoft.</span><span class="sxs-lookup"><span data-stu-id="bcca7-110">Partner Center is the single destination to manage your business relationship with Microsoft.</span></span> <span data-ttu-id="bcca7-111">Consulte [preparação de gerenciamento de associação](https://partner.microsoft.com/support/partner-center-help) no [site do parceiro](https://partner.microsoft.com/commercial) para obter mais informações.</span><span class="sxs-lookup"><span data-stu-id="bcca7-111">See [Membership management readiness](https://partner.microsoft.com/support/partner-center-help) on the [Partner website](https://partner.microsoft.com/commercial) for more information.</span></span>
 
-<span data-ttu-id="7bed9-112">Comece a configurar seus usuários imediatamente para que eles possam continuar a acessar a Partner University e para que sua organização possa receber os créditos por exames técnicos e certificações para ajudar a [obter conquistas em Competências Microsoft](competencies.md).</span><span class="sxs-lookup"><span data-stu-id="7bed9-112">Start setting up your users right away so that they can continue to access Partner University, and so that your organization can receive credit for technical exams and certifications to help [earn Microsoft Competency achievements](competencies.md).</span></span> 
+<span data-ttu-id="bcca7-112">Depois que sua conta de associação é transmitida com êxito, você irá gerenciar os detalhes da conta, incluindo (quando aplicável) benefícios, competências, incentivos, ofertas e programas no Partner Center.</span><span class="sxs-lookup"><span data-stu-id="bcca7-112">After your membership account is successfully transitioned, you'll manage your account details, including (where applicable) benefits, competencies, incentives, offers, and programs in Partner Center.</span></span> <span data-ttu-id="bcca7-113">Você também poderá obter e gerenciar as oportunidades de vendas da Microsoft e se inscrever no programa provedor de soluções de nuvem no Partner Center.</span><span class="sxs-lookup"><span data-stu-id="bcca7-113">You'll also be able to get and manage sales leads from Microsoft and enroll in the Cloud Solution Provider program in Partner Center.</span></span>
 
-## <a name="admin-tasks-add-employee-accounts"></a><span data-ttu-id="7bed9-113">Tarefas do administrador: adicionar contas de funcionários</span><span class="sxs-lookup"><span data-stu-id="7bed9-113">Admin tasks: add employee accounts</span></span>
+## <a name="prepare-now-for-a-smooth-transition"></a><span data-ttu-id="bcca7-114">Preparar-se agora para uma transição suave</span><span class="sxs-lookup"><span data-stu-id="bcca7-114">Prepare now for a smooth transition</span></span>
 
-<span data-ttu-id="7bed9-114">O administrador da organização adiciona os funcionários na conta do Partner Center individualmente ou usando dados do PMC para criar vários usuários de uma vez:</span><span class="sxs-lookup"><span data-stu-id="7bed9-114">The organization's admin adds employees into the Partner Center account, either by adding them individually, or by using PMC data to create multiple users at once:</span></span>
+<span data-ttu-id="bcca7-115">Os parceiros serão convidados a mover para o Partner Center quando temos os recursos necessários e recursos prontos para garantir uma transição suave.</span><span class="sxs-lookup"><span data-stu-id="bcca7-115">Partners will be invited to move to Partner Center when we have the necessary features and capabilities ready to ensure a smooth transition.</span></span> <span data-ttu-id="bcca7-116">Recomendamos que você executar o tempo para analisar informações da sua empresa no PMC e siga nossas etapas recomendadas para ajudar a garantir uma transição suave de conta.</span><span class="sxs-lookup"><span data-stu-id="bcca7-116">We strongly encourage you to take the time now to review your company's information in PMC and follow our recommended steps to help ensure a smooth account transition.</span></span>
 
-1.  <span data-ttu-id="7bed9-115">No Partner Center, selecione **Adicionar novo usuário** para adicionar uma pessoa ou **configurar sua equipe** (ou adicionar usuários usando dados do PMC) para adicionar vários usuários ao mesmo tempo.</span><span class="sxs-lookup"><span data-stu-id="7bed9-115">From Partner Center, select **Add new user** to add an individual, or **Set up your team** (or Add users using PMC data) to add multiple users at once.</span></span>
-    
-    <span data-ttu-id="7bed9-116">Siga as instruções na tela para concluir a configuração.</span><span class="sxs-lookup"><span data-stu-id="7bed9-116">Follow the on-screen instructions to complete setup.</span></span>
+### <a name="pmc-to-partner-center-step-by-step-guide"></a><span data-ttu-id="bcca7-117">PMC guia passo a passo do Partner Center</span><span class="sxs-lookup"><span data-stu-id="bcca7-117">PMC to Partner Center step-by-step guide</span></span>
 
-2.  <span data-ttu-id="7bed9-117">Se você estiver criando uma conta individual, envie as informações de logon (nome de usuário e senha temporária) diretamente para o usuário.</span><span class="sxs-lookup"><span data-stu-id="7bed9-117">If you're creating an individual account, send the sign-on info (username and temporary password) directly to the user.</span></span>
+<span data-ttu-id="bcca7-118">Nós preparado a abrangentes e detalhadas [PMC guia de transição do Partner Center](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf) para orientá-lo por meio de cada etapa do processo para uma transição de conta bem-sucedida.</span><span class="sxs-lookup"><span data-stu-id="bcca7-118">We've prepared the comprehensive and detailed [PMC to Partner Center transition guide](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf) to walk you through every step of the way to a successful account transition.</span></span>
 
-    <span data-ttu-id="7bed9-118">Se você estiver configurando várias contas com base nos dados do PMC, enviaremos automaticamente um email para cada usuário com as suas informações de logon.</span><span class="sxs-lookup"><span data-stu-id="7bed9-118">If you're setting up multiple accounts based on data from PMC, we'll automatically send each user an email that includes their sign-on info.</span></span> <span data-ttu-id="7bed9-119">Você também poderá baixar um arquivo que contém essas mesmas informações, que você poderá usar caso um dos seus funcionários precise dessas informações novamente.</span><span class="sxs-lookup"><span data-stu-id="7bed9-119">You'll also be able to download a file that contains this same information, which you can use in case one of your employees needs this information again.</span></span>
+>[!IMPORTANT]
+><span data-ttu-id="bcca7-119">Há vários pré-requisitos chave incluídos neste guia que levará um tempo para concluir.</span><span class="sxs-lookup"><span data-stu-id="bcca7-119">There are several key prerequisites included in this guide that will take time to complete.</span></span> <span data-ttu-id="bcca7-120">Encorajamos você a revisá-los e iniciar o trabalho para concluí-los assim que possível.</span><span class="sxs-lookup"><span data-stu-id="bcca7-120">We encourage you to review them and start the work to complete them as soon as possible.</span></span>
 
-    <span data-ttu-id="7bed9-120">A senha temporária é válida por 90 dias.</span><span class="sxs-lookup"><span data-stu-id="7bed9-120">The temporary password is good for 90 days.</span></span> <span data-ttu-id="7bed9-121">Se o usuário não entrar, remova a conta e adicione-o novamente.</span><span class="sxs-lookup"><span data-stu-id="7bed9-121">If the user doesn't log in, remove the account and add them in again.</span></span>
+### <a name="video-resources"></a><span data-ttu-id="bcca7-121">Recursos de vídeo</span><span class="sxs-lookup"><span data-stu-id="bcca7-121">Video resources</span></span>
 
-3.  <span data-ttu-id="7bed9-122">Opcional: Configure as contas individuais para [habilitar autoatendimento de senha](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started), incluindo a escolha de que tipo de perguntas de segurança os usuários devem responder.</span><span class="sxs-lookup"><span data-stu-id="7bed9-122">Optional: Set up the individual accounts to [enable password self-service](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started), including choosing what types of security questions the users should answer.</span></span> 
+<span data-ttu-id="bcca7-122">Além do [PMC guia de transição do Partner Center](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf), criamos esses vídeos curtos sobre as diversas fases da fazer a transição de sua conta.</span><span class="sxs-lookup"><span data-stu-id="bcca7-122">In addition to the [PMC to Partner Center transition guide](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf), we've created these short videos about the different phases of transitioning your account.</span></span> 
 
-## <a href="" id="nonadmin_tasks"></a> <span data-ttu-id="7bed9-123">Tarefas de funcionários: atualizar contas</span><span class="sxs-lookup"><span data-stu-id="7bed9-123">Employees tasks: Update accounts</span></span>
+- [<span data-ttu-id="bcca7-123">Descobrir seu painel do Partner Center</span><span class="sxs-lookup"><span data-stu-id="bcca7-123">Discover your Partner Center dashboard</span></span>](https://partner.microsoft.com/support/partner-center-help)
+ 
+  <span data-ttu-id="bcca7-124">Saiba mais sobre os recursos e ferramentas disponíveis no Partner Center para aproveitar ao máximo sua parceria.</span><span class="sxs-lookup"><span data-stu-id="bcca7-124">Learn about the resources and tools available in Partner Center to make the most of your partnership.</span></span>
 
-1.  <span data-ttu-id="7bed9-124">Obtenha suas informações de login, do Microsoft Partner Center ou com o seu administrador. Se você não receber as informações de login, contate o administrador da sua organização e solicite o envio diretamente para você.</span><span class="sxs-lookup"><span data-stu-id="7bed9-124">Get your sign-in info, either from Microsoft Partner Center or from your admin. If you don't receive the sign-in info, contact your organization's admin to ask them to resend it directly to you.</span></span> 
+- [<span data-ttu-id="bcca7-125">Mais fáceis de contas de vários locais</span><span class="sxs-lookup"><span data-stu-id="bcca7-125">Multi-location accounts made easy</span></span>](https://partner.microsoft.com/support/partner-center-help)
+ 
+  <span data-ttu-id="bcca7-126">Se você gerencia escritórios em várias regiões, veja como configurar sua conta de vários local e controlar tudo de um local de fácil de usar.</span><span class="sxs-lookup"><span data-stu-id="bcca7-126">If you manage offices across multiple geographies, here’s how to set up your multi-location account and control everything from one easy-to-use site.</span></span>
 
-2.  <span data-ttu-id="7bed9-125">Conecte-se com sua conta da Microsoft Partner University.</span><span class="sxs-lookup"><span data-stu-id="7bed9-125">Connect your Microsoft Partner University account.</span></span> <span data-ttu-id="7bed9-126">No Partner Center, selecione **atualizar seu perfil** > **acesso Get Partner University**.</span><span class="sxs-lookup"><span data-stu-id="7bed9-126">From Partner Center, select **Update your profile** > **Get Partner University access**.</span></span>  <span data-ttu-id="7bed9-127">Depois de se conectar com essa conta, você poderá acessar a Partner University novamente.</span><span class="sxs-lookup"><span data-stu-id="7bed9-127">After you've connected this account, you'll be able to access Partner University again.</span></span>
+- [<span data-ttu-id="bcca7-127">Fazer a contagem de treinamento e exames</span><span class="sxs-lookup"><span data-stu-id="bcca7-127">Make your training and exams count</span></span>](https://partner.microsoft.com/support/partner-center-help)
 
-3.  <span data-ttu-id="7bed9-128">Associar certificações e exames técnicos da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="7bed9-128">Associate Microsoft technical exams and certifications.</span></span> <span data-ttu-id="7bed9-129">No Partner Center, selecione **atualizar seu perfil** > **associar exames e certificações**.</span><span class="sxs-lookup"><span data-stu-id="7bed9-129">From Partner Center, select **Update your profile** > **Associate exams and certifications**.</span></span> 
+  <span data-ttu-id="bcca7-128">Conectar-se as credenciais de aprendizado de seus funcionários ao seu perfil de negócios para garantir o acesso contínuo a Partner University e para se qualificar para competências.</span><span class="sxs-lookup"><span data-stu-id="bcca7-128">Connect your employees' learning credentials to your business profile to ensure continued access to Partner University and to qualify for competencies.</span></span>
 
-4.  <span data-ttu-id="7bed9-130">Opcional: [Configurar autoatendimento para redefinição de senha](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-update-your-own-password).</span><span class="sxs-lookup"><span data-stu-id="7bed9-130">Optional: [Set up password reset self-service](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-update-your-own-password).</span></span>
+## <a name="see-also"></a><span data-ttu-id="bcca7-129">Consulte também</span><span class="sxs-lookup"><span data-stu-id="bcca7-129">See also</span></span>
 
-## <a name="checking-team-status-and-receiving-competency-achievements"></a><span data-ttu-id="7bed9-131">Verificando o status de equipe e recebendo conquistas de competências</span><span class="sxs-lookup"><span data-stu-id="7bed9-131">Checking team status and receiving competency achievements</span></span>
+<span data-ttu-id="bcca7-130">Depois que você tiver transmitidas com êxito sua conta do PMC, examine estes artigos para obter mais familiarizado com o Partner Center.</span><span class="sxs-lookup"><span data-stu-id="bcca7-130">After you've successfully transitioned your account from PMC, review these articles to get more familiar with Partner Center.</span></span>
 
-1.  <span data-ttu-id="7bed9-132">Veja quais funcionários da sua organização conectaram suas contas do Microsoft Partner University e associaram seus exames e certificações: no Partner Center, selecione **Verificar o status da sua equipe**.</span><span class="sxs-lookup"><span data-stu-id="7bed9-132">See which employees from your organization have connected their Microsoft Partner University accounts and associated their exams and certifications: From Partner Center, select **Check your team’s status**.</span></span>
+-   [<span data-ttu-id="bcca7-131">Criar um perfil de negócios para obter oportunidades de vendas da Microsoft</span><span class="sxs-lookup"><span data-stu-id="bcca7-131">Create a business profile to get sales leads from Microsoft</span></span>](create-a-marketing-profile.md)
 
-2.  <span data-ttu-id="7bed9-133">**Aguarde 24 horas** depois que um funcionário tiver associado sua conta ou concluído uma meta com base em habilidades.</span><span class="sxs-lookup"><span data-stu-id="7bed9-133">**Wait 24 hours** after an employee has associated their account or completed a skill-based goal.</span></span> <span data-ttu-id="7bed9-134">Após esse tempo, o progresso será exibido na seção  **Parceria > Competências**.</span><span class="sxs-lookup"><span data-stu-id="7bed9-134">After this time, the progress displays in the  **Partnership > Competencies** section.</span></span>
+-   [<span data-ttu-id="bcca7-132">Adicionar novos usuários de conta e atribuir permissões a eles</span><span class="sxs-lookup"><span data-stu-id="bcca7-132">Add new account users and assign permissions to them</span></span>](create-user-accounts-and-set-permissions.md)
+
+-   [<span data-ttu-id="bcca7-133">Adquirir ou renovar uma assinatura do Microsoft Action Pack</span><span class="sxs-lookup"><span data-stu-id="bcca7-133">Purchase or renew a subscription to Microsoft Action Pack</span></span>](mpn-get-action-pack.md)
+
+-   [<span data-ttu-id="bcca7-134">Gerenciar os benefícios da sua associação</span><span class="sxs-lookup"><span data-stu-id="bcca7-134">Manage your membership benefits</span></span>](manage-your-partner-network-benefits.md)
+
+-   [<span data-ttu-id="bcca7-135">Saiba mais sobre os requisitos de competência para a parceria Gold e Silver</span><span class="sxs-lookup"><span data-stu-id="bcca7-135">Learn about competency requirements for Gold and Silver membership</span></span>](https://partner.microsoft.com/membership/competencies)
+
+
+
+
+
