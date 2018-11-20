@@ -5,23 +5,23 @@ ms.date: 10/29/2018
 description: Declarações de cooperação iniciar incentivos do Partner Center.
 author: labrenne
 ms.author: labrenne
-keywords: declarações de incentivos, pedidos de cooperação, fundos cooperativos
+keywords: declarações de incentivos, cooperação declarações, os fundos cooperativos
 ms.localizationpriority: medium
-ms.openlocfilehash: 5727110ff44b7d10c0729ae02289666920c3f636
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 1050494694e66d673c866cbd260c9e33f1897018
+ms.sourcegitcommit: ecee11d731f3d47f2513839a4b2b98011eb95f55
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796789"
+ms.lasthandoff: 11/19/2018
+ms.locfileid: "7331015"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>Criar e gerenciar uma declaração de incentivos
 
-**Aplicável a**
+**Aplica-se ao**
 - Partner Center
 
-Você pode iniciar uma declaração dentro do Partner Center. 
+Você pode iniciar uma declaração de incentivos de dentro do Partner Center. 
 
-1. No **incentivos** no Partner Center, selecione **declarações**.
+1. No **incentivos** no painel do Partner Center, selecione **declarações**.
 2.  Se você já tiver uma declaração no processo, a página de visão geral de declarações mostra informações sobre o status de declarações existentes e fundos aprovados, declarado e totais.
 3.  Para criar uma nova declaração, selecione **criar uma declaração**.
 4.  Quando você preencher o formulário inicial e selecionou Enviar, você poderá adicionar faturas, do CRS, prova documentos e métricas de sucesso. Você também pode adicionar informações adicionais, se necessário.
