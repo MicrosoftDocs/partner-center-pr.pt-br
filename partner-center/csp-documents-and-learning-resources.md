@@ -8,16 +8,16 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: guias do programa csp, guia de programa, acordos de parceria, contrato do cliente, listas de preço, ofertas
 ms.localizationpriority: medium
-ms.openlocfilehash: a03d8b1a5cdf734831278984a6127951e7d664de
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: be48f5c91d146b0906b3c5927f74531b84bfc14c
+ms.sourcegitcommit: 02e7bc8b736bbd412afff9eb9f7f39b9f74e6941
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796059"
+ms.lasthandoff: 11/21/2018
+ms.locfileid: "7460953"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guia do programa de provedor de soluções de nuvem, contratos, listas de preços e ofertas
 
-**Aplicável a**
+**Aplica-se ao**
 
 -  Partner Center
 -  Partner Center for Microsoft Cloud for US Government
@@ -49,8 +49,6 @@ A Microsoft exige que os parceiros assinem este contrato para participar do prog
 
 [Contrato de revendedor de soluções de Nuvem da Microsoft – Taiwan](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Contrato de revendedor de soluções de Nuvem da Microsoft - Microsoft Cloud Germany](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_GER_ENG_Sep2018_GermanCloud_CR.pdf)
-
 [Contrato de revendedor de soluções de Nuvem da Microsoft - Microsoft Cloud for US Government](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Sep2018_CR.pdf)
 
 
@@ -62,13 +60,13 @@ Contrato da Microsoft Cloud [modelos de cliente](agreements.md)
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Emenda sigilo Professional para o contrato do Microsoft Cloud (Alemanha)
 
-Na Alemanha, o código de justiça (seção 203) e os códigos de profissionais de conduta exigem que certos relacionamentos cliente devem ser mantidas em segredo, por exemplo, a relação entre pacientes e seus médicos médicos e a relação entre advogado e seus clientes. Esses grupos causada pelo trabalho possuem garantir sigilo profissional. Para essas e outras profissões comprar serviços baseados em nuvem de provedores de soluções de nuvem, o provedor de serviços de nuvem deve concluir um contrato por escrito com o cliente que garante sigilo profissional. 
+Na Alemanha, o código de justiça (seção 203) e os códigos de conduta profissionais exigem que certas relações de cliente devem ser mantidas em segredo, por exemplo, a relação entre pacientes e seus médicos médicos e a relação entre advogado e seus clientes. Esses grupos causada pelo trabalho possuem garantir sigilo profissional. Para esses e outros profissões comprar serviços baseados em nuvem de provedores de soluções de nuvem, o provedor de serviços de nuvem deve concluir um contrato por escrito com o cliente que garante sigilo profissional. 
 
-Se você fizer negócios na Alemanha, você talvez precise fornecer esse emenda sigilo profissional para seus clientes além do contrato de nuvem da Microsoft.
+Se você fizer negócios na Alemanha, você talvez precise fornecer essa alteração de sigilo profissional para seus clientes além do contrato de nuvem da Microsoft.
 
-[Emenda de sigilo profissional contrato Microsoft Cloud Alemanha (em inglês)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+[Alteração de sigilo profissional de contrato Microsoft Cloud Alemanha (em inglês)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
-[Emenda de sigilo profissional contrato Microsoft Cloud Alemanha (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+[Alteração de sigilo profissional de contrato Microsoft Cloud Alemanha (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
 
 ## <a name="pricing"></a>Preço
