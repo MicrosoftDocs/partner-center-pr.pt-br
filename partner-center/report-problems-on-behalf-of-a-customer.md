@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b2698c45a996394e0bbd24bc759e807c4957942
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 1907212ff56bed8b3e3345c51bbf79770f2699c8
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795609"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683765"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Relatar problemas em nome de um cliente
 
@@ -21,7 +21,7 @@ ms.locfileid: "5795609"
 
 -  Partner Center
 -  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
+
 
 Se o cliente está tendo um problema de serviço que você não consegue resolver e que atende aos critérios descritos em [Encaminhar problemas para a Microsoft](escalate-problems-to-microsoft.md), abra um tíquete de suporte para ele. Esse processo também é útil para encaminhar problemas ou controvérsias relativos a cobrança e preocupações com fraude.
 
@@ -35,7 +35,7 @@ Se o cliente está tendo um problema de serviço que você não consegue resolve
 
 **Microsoft Azure**
 
-**Observação** Quando você precisa criar uma solicitação de serviço para o cliente no Azure, lembre-se do seguinte:
+**Observação** Quando você precisar criar uma solicitação de serviço para o cliente no Azure, lembre-se do seguinte:
 
 - Para criar solicitações de serviço para o cliente no Azure, seu provedor indireto deve conceder que acesso à conta do Azure do cliente. Isso é diferente de administrar em nome dos clientes para o Office 365. 
 
@@ -95,9 +95,9 @@ Seu direito de suporte CSP não abrange sua própria assinatura de parceiro, por
 
 Caso entre diretamente no Centro de Administração do Office 365, você verá o centro em seu próprio contexto, não no contexto do cliente. Portanto, você só deve entrar diretamente no Centro de Administração do Office 365 quando estiver criando uma solicitação de serviço para suas próprias assinaturas.
 
-**Como obter suporte adicional do Dynamics 365?**
+**Como posso obter suporte adicional do Dynamics 365?**
 
- Se você estiver tendo problemas relacionados ao: Dynamics 365 plano assinaturas, licenciamento, cobrança, finanças e operações, IURs ou você exige suporte técnico adicional:
+ Se você estiver tendo problemas relacionados a: Dynamics 365 plano assinaturas, licenciamento, cobrança, finanças e operações, IURs ou você exige suporte técnico adicional:
  
 Contate o [suporte do Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 

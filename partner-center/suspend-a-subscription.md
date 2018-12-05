@@ -7,12 +7,12 @@ ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 041dc7e1849f0dfd9334159a57a9714396358df9
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b89b8182c8a15026ca91e321e97e3b75ac42a7ee
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796119"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683515"
 ---
 # <a name="suspend-a-subscription"></a>Suspender uma assinatura
 
@@ -20,7 +20,7 @@ ms.locfileid: "5796119"
 
 -  Partner Center
 -  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
+
 
 Os parceiros podem suspender ou cancelar uma assinatura se solicitado pelo cliente ou em casos de fraude ou falta de pagamento.
 

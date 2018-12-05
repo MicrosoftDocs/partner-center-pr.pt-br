@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções fiscais, arquivos de reconciliação, arquivo de reconciliação
 ms.localizationpriority: medium
-ms.openlocfilehash: 21946e6c3504dae35dc96585878e7714b976ad3a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b8041b6fb5ae913786bf7e755d11e727e636f518
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796359"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683445"
 ---
 # <a name="billing"></a>Cobrança
 
@@ -21,9 +21,9 @@ ms.locfileid: "5796359"
 
 -  Partner Center
 -  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
-
-Para sua cobrança, vá para o menu **Partner Center** e, em seguida, selecione a **cobrança** para ver seu histórico de cobrança e tendências, links para sua fatura e arquivo de reconciliação, além de seu pagamento mais recente.
+ 
+ 
+Para sua cobrança, vá para o menu **Partner Center** e, em seguida, selecione a **cobrança** para ver seu histórico de cobrança e tendências, links para sua fatura e arquivo de reconciliação e seu pagamento mais recente.
 
 Os parceiros no programa Provedor de Soluções na Nuvem que optam pela cobrança mensal pagam à Microsoft 60 dias em atraso pelas assinaturas de seus clientes (baseadas em licença e em uso).
 

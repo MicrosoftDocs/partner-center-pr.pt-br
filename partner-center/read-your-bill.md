@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cobrança de assinatura, cobrança, cobrança no partner center, ler minha cobrança, fatura, fatura do partner center, fatura do CSP, onde está minha cobrança?
 ms.localizationpriority: medium
-ms.openlocfilehash: 8505e0cc42bd294f6c6645ed02c1c5529cffff54
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 070d0c78acf9b8af016e1a1d46040fb5de780e97
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795689"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683785"
 ---
 # <a name="read-your-bill"></a>Ler sua cobrança
 
@@ -21,9 +21,9 @@ ms.locfileid: "5795689"
 
 -  Partner Center
 -  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
 
-Para sua cobrança, vá para o menu **Partner Center** e, em seguida, selecione a **cobrança** para ver seu histórico de cobrança e tendências, links para sua fatura e arquivo de reconciliação, além de seu pagamento mais recente.
+
+Para sua cobrança, vá para o menu **Partner Center** e, em seguida, selecione a **cobrança** para ver seu histórico de cobrança e tendências, links para sua fatura e arquivo de reconciliação e seu pagamento mais recente.
 
 Os parceiros no programa Provedor de Soluções na Nuvem que escolheram a cobrança mensal pagam à Microsoft 60 dias em atraso pelas assinaturas de seus clientes (baseadas em licença e em uso).
 
@@ -78,7 +78,7 @@ Para obter detalhes dos encargos por itens, use os arquivos de reconciliação a
 <tr class="even">
 <tr class="even">
 <td>Subtotal</td>
-<td>Total antes de impostos e encargos de impostos exclusivos e créditos.</td>
+<td>Total antes de impostos e encargos imposto exclusivos e créditos.</td>
 </tr>
 <td>Imposto</td>
 <td>O total de imposto para os encargos atuais como o total no início da seção detalhes na página 2 da fatura. Esse número é a soma de todos os encargos na:

@@ -7,12 +7,12 @@ ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e1573615252cf40b34297be8666aa56d3b2b1f94
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: d759001b2cbaf8cab5f5b6e501dd0635b7adb11b
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797219"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683545"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Encaminhar problemas para a Microsoft
 
@@ -20,7 +20,7 @@ ms.locfileid: "5797219"
 
 -  Partner Center
 -  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
+
 
 Espera-se que você resolva os problemas em nome de seus clientes. Seus primeiros passos devem ser [verificar a integridade do serviço](check-service-health.md) para problemas existentes e documentados. Se isso não resolver o problema do cliente, você então pode usar seus privilégios de administrador para solucionar problemas com software, definições e configuração.
 
@@ -39,8 +39,8 @@ No entanto, há várias categorias de problemas que você precisa passar para a 
 ## <a name="submit-a-support-request"></a>Enviar uma solicitação de suporte
 
 1. No Partner Center, selecione **os clientes**.
-2. Selecione o cliente que precisam o suporte.
-3. Selecione o **gerenciamento de serviços** e **solicitações de serviço**.
+2. Selecione o cliente que precisam de suporte.
+3. Selecione o **gerenciamento de serviço** e **solicitações de serviço**.
 4. Selecione **nova solicitação** e, em seguida, selecione **Microsoft Office 365**.
 5. É exibida para o portal do Office 365 em que você precisa entrar usando suas credenciais do Partner Center.
 6. Selecione o **suporte**, a **nova solicitação de serviço** no menu à esquerda.

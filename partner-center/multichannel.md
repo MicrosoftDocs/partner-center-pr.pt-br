@@ -7,12 +7,12 @@ ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 9d8f5b58e539d214f0b9b11ff6ba06c447ac81d0
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 6dce06b0c65c3ac85318b1c04b5a8b490d620e55
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795739"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683665"
 ---
 # <a name="multi-channel-support"></a>Suporte multi-canal
 
@@ -20,7 +20,7 @@ ms.locfileid: "5795739"
 
 -  Partner Center
 -  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
+
 
 Recurso de vários canais do Partner Center oferece suporte a cenários quando um cliente quiser contratar um parceiro para gerenciar e dar suporte a uma assinatura que eles compraram em outro lugar. O suporte multi-canal se aplica quando o cliente:
 

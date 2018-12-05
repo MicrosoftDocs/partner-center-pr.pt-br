@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: suporte autônomo do cliente, suporte autônomo
 ms.localizationpriority: medium
-ms.openlocfilehash: 46525d10888ec910ac86421dc018b6d8ff1f68ab
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: ac6e78057dc8499ad2e46713afe6ade4b4c8ca1e
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794769"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683475"
 ---
 # <a name="customer-self-support"></a>Suporte autônomo do cliente
 
@@ -21,7 +21,7 @@ ms.locfileid: "5794769"
 
 -  Partner Center
 -  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
+
 
 Os clientes podem entrar no Centro de administração do Microsoft Office 365 ou no Portal de Gerenciamento do Azure e gerenciar suas próprias contas:
 
@@ -31,7 +31,7 @@ Os clientes podem entrar no Centro de administração do Microsoft Office 365 ou
 
 Para adquirir assinaturas adicionais ou cancelar assinaturas, os clientes devem entrar em contato com seus parceiros de Provedor de Soluções na Nuvem. Os clientes não podem alterar suas próprias assinaturas diretamente com a Microsoft.
 
-Quando os clientes precisarem de ajuda com produtos, eles podem encontrar recursos de produto no [suporte](https://partnercenter.microsoft.com/partner/support). Incentivamos os parceiros a indicar esses recursos a seus clientes como uma primeira etapa.
+Quando os clientes precisarem de ajuda com produtos, eles podem encontrar recursos de produtos no [suporte](https://partnercenter.microsoft.com/partner/support). Incentivamos os parceiros a indicar esses recursos a seus clientes como uma primeira etapa.
 
  
 

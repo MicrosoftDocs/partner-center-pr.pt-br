@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b5fbab84c30743e4d91b32bf4cbd2bb8b950992
-ms.sourcegitcommit: b433061dff8f667c81b623c33417fb490d8e3b4a
+ms.openlocfilehash: 188f6fe28277cfab624d407bb47157f2dce7e854
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/04/2018
-ms.locfileid: "6022241"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683815"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar os arquivos de reconciliação
 
@@ -20,7 +20,7 @@ ms.locfileid: "6022241"
 
 -  Partner Center
 -  Partner Center for Microsoft Cloud for US Government
--  Partner Center do Microsoft Cloud Germany
+
 
 Para uma exibição detalhada do item de linha de cada encargo em um ciclo de cobrança, baixe os arquivos de reconciliação do Partner Center. Os detalhes incluem encargos por assinaturas de cada cliente e eventos detalhados (como a adição de assentos a uma assinatura no meio do período).
 

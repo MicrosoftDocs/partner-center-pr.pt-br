@@ -7,12 +7,12 @@ ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 430fe97ffac1f517e9086afb077b0f126e98ae3c
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 949536273e4b07778f4a9fac4f4779858573fc1f
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796106"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683695"
 ---
 # <a name="manage-your-customer-list"></a>Gerenciar sua lista de clientes
 
@@ -20,7 +20,7 @@ ms.locfileid: "5796106"
 
 -  Partner Center
 -  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
+
 
 Os registros de clientes estão entre seus ativos de informação mais importantes no Partner Center. Você pode pesquisar seu banco de dados de contas de clientes, exportar o banco de dados de clientes inteiro ou exportar um subconjunto para um formato de arquivo de valores separados por vírgula (.csv) compatível com o Excel. Você também pode exportar as informações de assinaturas do cliente para um arquivo .csv.
 

@@ -7,12 +7,12 @@ ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c0d55c0b8400c011b77c2be030e12686a0eadd6b
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: ae2ce5ec0ac117d0adcb9e9b0f63e2c43e906bb7
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796189"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683465"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>Restaurar uma conta suspensa do Partner Center
 
@@ -22,7 +22,7 @@ Este artigo explica o que fazer se sua conta do Partner Center for suspensa.
 
 -  Partner Center
 -  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
+
 
 > [!IMPORTANT]  
 > Enquanto sua conta do Partner Center estiver suspensa, você poderá continuar a gerenciar suas implantações, as licenças e os serviços existentes. No entanto, você não conseguirá autorizar ou revender novas licenças ou serviços até que sua conta tenha boa reputação novamente.
@@ -39,7 +39,7 @@ A Microsoft suspenderá uma conta do Partner Center por um dos seguintes motivos
 
 Se você sabe que sua conta está atualizada, envie uma solicitação de suporte com o suporte do Partner Center para descobrir por que sua conta foi suspensa. 
 
-Se você não tiver certeza se sua conta está atualizada, selecione a **cobrança** no menu **Partner Center** para verificar sua conta. A página de cobrança mostra seu histórico de cobrança e as tendências, o saldo devido do mês atual, links para sua fatura e arquivos de reconciliação, além de seu pagamento mais recente.
+Se você não tiver certeza se sua conta está atualizada, selecione a opção **de cobrança** no menu **Partner Center** para verificar sua conta. A página de cobrança mostra seu histórico de cobrança e as tendências, o saldo devido do mês atual, links para sua fatura e arquivos de reconciliação, além de seu pagamento mais recente.
 
 Se sua conta estiver vencida, siga as instruções de sua fatura para organizar o pagamento e, em seguida, envie uma solicitação de suporte para solicitar que sua conta seja restaurada. 
 

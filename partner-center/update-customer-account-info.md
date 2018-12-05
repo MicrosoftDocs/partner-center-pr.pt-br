@@ -7,12 +7,12 @@ ms.assetid: 7ECE7165-0B0D-4183-845F-9F7B62056207
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 54dda52acddff804c2bd3b4017d6041aa0a34720
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 5ba40901453620d98fad2195fad3bb8f6dd4773c
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795079"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683655"
 ---
 # <a name="update-customer-account-info"></a>Atualizar informações da conta do cliente
 
@@ -20,7 +20,7 @@ ms.locfileid: "5795079"
 
 -  Partner Center
 -  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
+
 
 No Partner Center, você pode atualizar as informações de cobrança do cliente e outros detalhes da empresa.
 

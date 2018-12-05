@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cliente, adicionar cliente, conta do cliente, conta do cliente no Partner Center, clientes, adicionar clientes, criar conta do cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b28c2b1200b03747ad9560434c2e69555c16580
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 72b02ad430bc0ce434e3de25380ef043e59ac08d
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794839"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683685"
 ---
 # <a name="add-a-new-customer"></a>Adicionar um novo cliente
 
@@ -21,10 +21,10 @@ ms.locfileid: "5794839"
 
 -  Partner Center
 -  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
 
 
-Antes que você pode vender assinaturas, gerenciar cobranças ou fornecer suporte, você precisará criar uma conta para o cliente no Partner Center. Esse registro deverá incluir as informações de contato deles e um domínio do Azure AD.
+
+Antes que você pode vender assinaturas, gerenciar cobranças ou fornecer suporte, você precisará criar uma conta para seu cliente no Partner Center. Esse registro deverá incluir as informações de contato deles e um domínio do Azure AD.
 
 Para clientes que já possuem contas de cliente e inscrições por meio de um cenário [multi-canal](multichannel.md) ou [Multi-parceiro](multipartner.md), você pode [Solicitar uma relação com um cliente](request-a-relationship-with-a-customer.md), em vez de seguir as etapas aqui.
 

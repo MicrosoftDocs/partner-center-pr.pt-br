@@ -7,12 +7,12 @@ ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 85e7f076cbb9b3a1b082edb020cf8134a844a733
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 46ac1cd60496338bbcdac7cf0258a2d4adfc9754
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795319"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683675"
 ---
 # <a name="report-problems-with-partner-center"></a>Relatar problemas com o Partner Center
 
@@ -20,7 +20,7 @@ ms.locfileid: "5795319"
 
 -  Partner Center
 -  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
+
 
 Suporte de contato Partner Center se você encontrar problemas com o Partner Center, incluindo bugs ou interrupções de serviço.
 
@@ -30,11 +30,11 @@ Suporte de contato Partner Center se você encontrar problemas com o Partner Cen
 
 2.  Selecione **Nova solicitação**.
 
-3.  Preencha o formulário e depois selecione **Enviar**. Um representante do suporte de parceiros entrará com você.
+3.  Preencha o formulário e depois selecione **Enviar**. Um representante de suporte de parceiros entrará com você.
 
 **Enviar diagnóstico**
 
-Se ocorrer um erro enquanto você estiver em uma página do Partner Center, você talvez seja solicitado a coletar informações de log. Selecione a **coletar mais informações** no link que aparece na parte superior da página para abrir a ferramenta de diagnóstico de cliente. Essa ferramenta coleta informações que a equipe de suporte de parceiros precisa para determinar a causa do erro. 
+Se ocorrer um erro enquanto você estiver em uma página do Partner Center, você talvez seja solicitado a coletar informações de log. Selecione a **coletar mais informações** no link que aparece na parte superior da página para abrir a ferramenta de diagnóstico do cliente. Essa ferramenta coleta informações que a equipe de suporte de parceiros precisa para determinar a causa do erro. 
 
 >[!NOTE]
 >Em páginas do Partner Center que incluem **/pcv/** na URL, você pode abrir a ferramenta manualmente para coletar essas informações.

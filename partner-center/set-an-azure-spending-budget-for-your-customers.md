@@ -7,12 +7,12 @@ ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 98b6a4839b599a43ba6c10506468be7dbd064d43
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 3158679d8a435a8252ad7dfb60d5cccc5cfa2f1f
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794979"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683435"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Definir um orçamento de gastos do Azure para seus clientes
 
@@ -20,7 +20,6 @@ ms.locfileid: "5794979"
 
 -  Partner Center
 -  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
 
 Para ajudar os clientes a gerenciar seu gastos do Azure, você pode definir um orçamento de gastos mensal, para que a conta do Azure não seja maior do que eles previam. Definir um orçamento de gastos do Azure permite que você compare ao orçamento de gastos do Azure dos clientes com o orçamento durante o mês. Com esse recurso, você pode: 
 

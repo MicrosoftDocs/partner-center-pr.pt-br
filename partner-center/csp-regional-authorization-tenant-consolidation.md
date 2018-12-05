@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: migrar provedores, provisionamento, conta de locatário, consolidar locatários
 ms.localizationpriority: medium
-ms.openlocfilehash: 6285b9dfe88052939a50d6675a190f3e5419cdbb
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 83b5040f1562ef44c5cb17b5a2676387237b2794
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797279"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683795"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidação de locatários de autorização regional do CSP
 
@@ -21,7 +21,7 @@ ms.locfileid: "5797279"
 
 -  Partner Center
 -  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
+
 
 \[Algumas informações dizem respeito a produtos de pré-lançamento que poderão ser substancialmente modificados antes do lançamento comercial. A Microsoft não fornece nenhuma garantia, expressa ou implícita, com relação às informações fornecidas aqui.\]
 
@@ -41,7 +41,7 @@ Use estas instruções para consolidar locatários para países/regiões diferen
 ## <a name="migrate-customer-accounts"></a>Migrar contas de clientes
 
 
-1.  Entre no seu **Partner Center** com a **transição** (nova) conta (aquela estão fazendo a transição em) e navegue até a lista de clientes de **clientes**.
+1.  Entre no seu **Partner Center** com a **transição** (nova) conta (aquele que está fazendo a transição em) e navegue até a lista de clientes de **clientes**.
 
 2.  Selecione Clientes.
 
@@ -58,7 +58,7 @@ Os clientes aparecerão na lista de clientes do parceiro após o envio do contra
 
 1.  Depois que o cliente assinar o contrato, você poderá recriar as assinaturas dele em seu locatário parceiro centralizado.
 
-2.  No **Partner Center** , selecione **os clientes**.
+2.  Do **Partner Center** , selecione **os clientes**.
 
 3.  Abra o nome da empresa do cliente que você deseja migrar.
 
@@ -76,7 +76,7 @@ Repita essas etapas para migrar assinaturas para todos os outros clientes.
 
 Antes de prosseguir para a próxima seção, certifique-se de que todas as assinaturas de cliente existentes nas contas de parceiros de **origem da transição** sejam reprovisionadas sob a conta de parceiro de **destino da transição**.
 
-**Observação**os parceiros devem suspender as assinaturas na **Origem da transição** locatário parceiro conta no Partner Center no mesmo dia que essas assinaturas são transmitidas e configuradas na conta de locatário parceiro **Destino da transição** no o Partner Center para garantir que a cobrança dupla não ocorre. As solicitações de suporte serão negadas para créditos decorrentes de alguma sobreposição de cobranças que ocorra devido à não configuração das assinaturas de **origem da transição** como desabilitadas.
+**Observação**os parceiros devem suspender as assinaturas na **Origem da transição** locatário parceiro conta no Partner Center no mesmo dia que essas assinaturas são transmitidas e configuradas na conta de locatário parceiro **Destino da transição** no o Partner Center para garantir que a cobrança dupla não ocorrerá. As solicitações de suporte serão negadas para créditos decorrentes de alguma sobreposição de cobranças que ocorra devido à não configuração das assinaturas de **origem da transição** como desabilitadas.
 
  
 
@@ -85,7 +85,7 @@ Antes de prosseguir para a próxima seção, certifique-se de que todas as assin
 
 Desabilitar a assinatura de CSP sob as contas de parceiros de **destino da transição** impede qualquer cobrança futura. Você não precisa desabilitar manualmente as assinaturas do Azure, elas são desativadas automaticamente durante o processo de migração.
 
-1.  Entrar no **Partner Center** com a conta CSP **Origem da transição** e navegue até a lista de clientes.
+1.  Entrar no **Partner Center** com a conta de CSP **Origem da transição** e navegue até a lista de clientes.
 
 2.  Abra o cliente com assinaturas para desabilitar e, em seguida, selecione a primeira oferta a ser desabilitada.
 3.  Defina a assinatura como **suspensa** e clique em **enviar**.
@@ -125,7 +125,7 @@ Observe que assinaturas de CSP baseadas em uso do Azure não precisam ser migrad
 
 -   Atualmente, não há uma maneira de remover completamente um cliente da Lista de clientes.
 
--   **Observação**os parceiros devem suspender as assinaturas na **Origem da transição** locatário parceiro conta no Partner Center no mesmo dia que essas assinaturas são transmitidas e configuradas na conta **Destino da transição** locatário parceiro no Partner Center para garantir que não haja cobrança dupla. A Microsoft não dará suporte para solicitações de créditos decorrentes de alguma sobreposição de cobranças que ocorra devido à não configuração das assinaturas de **origem da transição** como suspensas.
+-   **Observação**os parceiros devem suspender as assinaturas na **Origem da transição** locatário parceiro conta no Partner Center no mesmo dia que essas assinaturas são transmitidas e configuradas na conta **Fazendo a transição para** o locatário do parceiro no Partner Center para garantir que não haja cobrança dupla. A Microsoft não dará suporte para solicitações de créditos decorrentes de alguma sobreposição de cobranças que ocorra devido à não configuração das assinaturas de **origem da transição** como suspensas.
 
      
 
