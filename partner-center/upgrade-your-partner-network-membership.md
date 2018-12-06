@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 62b14af53723cd8e28a1a5253e953f08fc03c867
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 800e816ad882b11721f26f7c219997de7a33e416
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795709"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776470"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Atualizar sua associação ao Microsoft Partner Network
 
@@ -50,7 +50,7 @@ Action Pack é uma assinatura anual acessível de serviços, software e suporte 
 Para obter mais informações sobre o Microsoft Action Pack, vá para [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
 > [!NOTE]  
-> Clicar nesse link, você será levado para outro site. Retorne para este site, site do Partner Center, para se inscrever em Action Pack.
+> Clicar nesse link, você será levado para outro site. Retorne para este site, site do Partner Center, para assinar Action Pack.
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>Inscrever-se ao Microsoft Action Pack
@@ -79,7 +79,7 @@ Sua assinatura do Action Pack será renovada automaticamente todos os anos nesta
 
 3. Selecione **Desativar a renovação automática** se não quiser que sua assinatura do Action Pack seja renovada automaticamente a cada ano. 
 
-   > [!NOTE]  
+> [!NOTE]  
 > Se você desativar a renovação automática de inscrição, não poderá ativá-la novamente até que você renove a assinatura. Lembraremos você de renovar sua assinatura antes que ela expire.
 
 

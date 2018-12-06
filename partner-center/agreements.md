@@ -2,18 +2,19 @@
 title: Modelos de contrato da Microsoft Cloud do cliente | Partner Center
 ms.topic: article
 ms.date: 11/03/2018
-description: Encontre e Baixe versões específicas de idioma e região do contrato de nuvem da Microsoft para analisar com seus clientes.
+description: Encontre e Baixe versões específicas de idioma e região do contrato de nuvem da Microsoft para examinar com seus clientes.
 author: Maggie Evans
+ms.author: evensma
 keywords: Contratos de nuvem da Microsoft, modelos de contrato de cliente, contratos de cliente do CSP, MCA, MCAs, CSP, onde posso vender por meio do CSP?, países e regiões do CSP, MCAs do CSP em vários idiomas, CSP América do Norte, CSP América Central, CSP América do Sul, CSP Caribe, Microsoft Cloud for US Government do CSP, CSP Microsoft Cloud Alemanha, CSP Oriente Médio, CSP África, CSP Europa, CSP Ásia, CSP Pacífico, CSP MCAs
 ms.localizationpriority: medium
-ms.openlocfilehash: 670c3657b3865eac97eff4b07b1a333d119b382e
-ms.sourcegitcommit: deea6667687f1c15b1f56ae71c0600533ad63c77
+ms.openlocfilehash: a664c2bd9486f2f3b32dc09a7d47d32eb9913ed0
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/14/2018
-ms.locfileid: "6715277"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776530"
 ---
-# <a name="microsoft-cloud-agreements-by-region-and-language"></a>Contratos de nuvem da Microsoft por região e idioma
+# <a name="microsoft-cloud-agreements-by-region-and-language"></a>Contratos do Microsoft Cloud por região e idioma
 
 **Aplicável a**
 
@@ -22,11 +23,11 @@ ms.locfileid: "6715277"
 Antes de colocar um pedido em nome do cliente, o cliente deve aceitar e assinar o contrato de nuvem da Microsoft.
 
 >[!IMPORTANT]
-> A partir de 7 de novembro de 2018, será necessário confirmar que um cliente aceitou o contrato de nuvem da Microsoft, fornecendo informações sobre a pessoa que assinou. Consulte a [Confirmar a aceitação do cliente do contrato de nuvem da Microsoft](confirm-consent.md) para obter mais detalhes.
+> A partir de 7 de novembro de 2018, você precisará confirmar que um cliente aceitou o contrato de nuvem da Microsoft, fornecendo informações sobre a pessoa que assinou. Para obter mais detalhes, consulte [Confirmar a aceitação do cliente do contrato de nuvem da Microsoft](confirm-consent.md) .
 
 Contratos de nuvem da Microsoft são específicos à região e estão disponíveis em vários idiomas. Encontre o local e o idioma preferencial do cliente em uma das listas abaixo para baixar o contrato correto.
 
-Se você não tiver certeza de quais regiões e mercados que você pode vender, encontrar o local da sua empresa nessa lista: [moedas e mercados regionais do programa de provedor de soluções de nuvem](regional-authorization-overview.md).
+Se você não tiver certeza quais regiões e mercados que você pode vender, encontrar o local da sua empresa nessa lista: [moedas e mercados regionais do programa de provedor de soluções de nuvem](regional-authorization-overview.md).
 
 <!--November 3, 2018. I think we can get rid of this note, but leaving it commented out in case we need to reinstate it. (MaggieE)
 
@@ -119,13 +120,13 @@ Se você não tiver certeza de quais regiões e mercados que você pode vender, 
 - Geórgia: [inglês](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - Alemanha: [inglês](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf), [alemão](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_Sep20172_CR.pdf)
     
-    Na Alemanha, o código de justiça (seção 203) e os códigos de conduta profissionais exigem que certas relações de cliente devem ser mantidas em segredo, por exemplo, a relação entre pacientes e seus médicos médicos e a relação entre advogado e seus clientes. Esses grupos causada pelo trabalho possuem garantir sigilo profissional. Para esses e outros profissões comprar serviços baseados em nuvem de provedores de soluções de nuvem, o provedor de serviços de nuvem deve concluir um contrato por escrito com o cliente que garante sigilo profissional.
+    Na Alemanha, o código de justiça (seção 203) e os códigos de profissionais de conduta exigem que certos relacionamentos cliente devem ser mantidas em segredo, por exemplo, a relação entre pacientes e seus médicos médicos e a relação entre advogado e seus clientes. Esses grupos causada pelo trabalho possuem garantir sigilo profissional. Para essas e outras profissões comprar serviços baseados em nuvem de provedores de soluções de nuvem, o provedor de serviços de nuvem deve concluir um contrato por escrito com o cliente que garante o sigilo profissional.
 
-    Se você fizer negócios na Alemanha, você talvez precise fornecer essa alteração de sigilo profissional para seus clientes além do contrato de nuvem da Microsoft.
+    Se você fizer negócios na Alemanha, você talvez precise fornecer esse emenda sigilo profissional para seus clientes além do contrato de nuvem da Microsoft.
 
-    - [Alteração de sigilo profissional de contrato Microsoft Cloud Alemanha (em inglês)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+    - [Emenda de sigilo profissional contrato Microsoft Cloud Alemanha (em inglês)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
-     - [Alteração de sigilo profissional de contrato Microsoft Cloud Alemanha (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+     - [Emenda de sigilo profissional contrato Microsoft Cloud Alemanha (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
 - Gibraltar: [inglês](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - Grécia: [inglês](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf), [grego](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GRE_Sep20172_CR.pdf)

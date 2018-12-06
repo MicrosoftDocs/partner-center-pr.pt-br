@@ -1,24 +1,24 @@
 ---
 title: Requisitos de competência para associações Gold e Silver da Microsoft | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 12/5/2018
 description: Saiba mais sobre os requisitos de competência para obter níveis de associação Gold e Silver.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: competências, participação silver, participação gold, mpn, MAPS, habilidades, Microsoft Partner Network, associação de rede
 ms.localizationpriority: medium
-ms.openlocfilehash: 7c739e3e7142eee7dcc0ec4906e2dbc89fc671d4
-ms.sourcegitcommit: bf952686358864cb268f71d039c682ee2a50ba68
+ms.openlocfilehash: 152f5186471572a3dafbf3a273867e1d64aafa69
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797384"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776450"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Requisitos de competência para associações Gold e Silver da Microsoft
 
 **Aplicável ao**
 
--  Partner Center
+- Partner Center
 
 Demonstre seu conhecimento comprovado no fornecimento de soluções de qualidade em uma ou mais áreas especializadas de negócios. As competências da Microsoft são projetadas para prepará-lo para atender às necessidades dos seus clientes e para ajudá-lo a atrair novos clientes que estejam procurando por provedores de soluções certificados pela Microsoft. Participe da camada de elite dos parceiros da Microsoft e destaque-se entre seus colegas.
 
@@ -26,8 +26,13 @@ Demonstre seu conhecimento comprovado no fornecimento de soluções de qualidade
 
 - Obtenha uma **associação Gold** para demonstrar sua altíssima competência dentro de uma área de solução específica da Microsoft
 
-Leia sobre o que é necessário para ganhar participação Silver e Gold nas seguintes áreas de experiência:
+Saiba mais sobre o que é necessário para ganhar participação Silver e Gold nas seguintes áreas de Conhecimento:
 
+<!-- Removed the ISV competency row as per Sarah Hodge on 12/5/18 
+
+[ISV competency](https://partner.microsoft.com/en-us/membership/isv-competency)| Azure, SQL Server 2016,  Dynamics 365, Office 365, Windows Server 2019, System Center 2016|
+
+-->
 
 | Competências  | Tecnologias |
 |   ------------------   |   -------   |
@@ -45,8 +50,8 @@ Leia sobre o que é necessário para ganhar participação Silver e Gold nas seg
 | [Competência DevOps](https://partner.microsoft.com/membership/devops-competency)| Microsoft Visual Studio, Visual Studio Team Foundation Server (TFS) 2012, ciclo de vida de software, certificações scrum |
 | [Competência Enterprise Mobility Management](https://partner.microsoft.com/membership/enterprise-mobility-management-competency)| Mobilidade corporativa + Segurança (EMS), Microsoft Intune, Azure Information Protection, Azure Active Directory Premium (AADP), Mobile Device Management, identidade e gestão de acesso, proteção de informações, aplicativo da nuvem |
 | [Competência Enterprise Resource Planning](https://partner.microsoft.com/membership/enterprise-resource-planning-competency)| Dynamics AX/GP/SL/NAV/365, Enterprise Resource Planning (ERP), bancos de dados SQL Server 2012  |
-|[Competência de ISV](https://partner.microsoft.com/en-us/membership/isv-competency)| Azure, SQL Server 2016, Dynamics 365, o Office 365, Windows Server 2019, System Center 2016| 
 | [Competência Messaging](https://partner.microsoft.com/membership/messaging-competency)| Office 365, Exchange Server 2016 |
 | [Competência Project e Gerenciamento de Portfólio](https://partner.microsoft.com/membership/project-portfolio-management-competency)| Microsoft Project, Project e Gerenciamento de Portfólio (PPM), SharePoint Server 2016|
 | [Competência em Small and Midmarket Cloud Solutions](https://partner.microsoft.com/membership/small-midmarket-cloud-solutions-competency)| Office 365 |
 | [Competência Windows and Devices](https://partner.microsoft.com/membership/windows-and-devices-competency)| Windows 10, Windows 10 IoT, plataforma Universal do Windows, Surface Hub, Skype, Office 365 para empresas de 2015, implantação corporativa |
+|
