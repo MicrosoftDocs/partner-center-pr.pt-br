@@ -7,30 +7,37 @@ fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: f176b71072a67043df2ffe59b004b0ae8411dd4a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: e4eaecc151f8cc4e5e45bbfa7d02236fb1444a24
+ms.sourcegitcommit: 3eb069edf36bdb61518c0c7cc2ccaf2d8dde4adb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795529"
+ms.lasthandoff: 11/07/2018
+ms.locfileid: "6131695"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instale e visualize o aplicativo de análise do Partner Center para Microsoft Power BI
 
 **Aplicável ao**
 
--   Partner Center
+- Partner Center
 
 ## <a name="before-you-begin"></a>Antes de começar
 
+Selecione o aplicativo que é mais relevante para seus negócios da lista de aplicativos disponíveis do Power BI a seguir:
+- [Parceiro direto](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
+
+- [Parceiro indireto](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
+
+- [Revendedor Indireto](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
+
 Antes de instalar a versão de visualização do aplicativo análises do Partner Center, certifique-se de que você atende aos seguintes requisitos.
 
--   Você é um parceiro direto no programa provedor de soluções na nuvem e no Partner Center. Você é um parceiro direto se você fizer negócios diretamente com a Microsoft e com os clientes.
+- Você pode escolher o aplicativo Power BI correto para sua empresa.
 
--   Você tem uma assinatura ativa Microsoft Power BI Professional ou Microsoft Power BI Premium.
+- Você tem uma assinatura ativa Microsoft Power BI Professional ou Microsoft Power BI Premium.
 
--   Você pode se conectar no Power BI.
+- Você pode se conectar no Power BI.
 
--   Você pode se conectar como um administrador global, agente administrador ou administrador de cobrança para [locatário do Active Directory do Azure (Azure AD) da sua empresa](azure-active-directory-tenants-and-partner-center.md).
+- Você pode se conectar como um administrador global, agente administrador ou administrador de cobrança para [locatário do Active Directory do Azure (Azure AD) da sua empresa](azure-active-directory-tenants-and-partner-center.md).
 
 ## <a name="to-install-the-app"></a>Para instalar o aplicativo
 
