@@ -1,19 +1,20 @@
 ---
 title: Analisar as assinaturas e licenças | Partner Center
 ms.date: 07/12/2018
-Description: Get data about your subscriptions and licenses.
+Description: Use the metrics in the Subscription and license analytics page to identify your successes and areas that need more attention.
 Author: Xansky
 ms.author: mhopkins
 ms.assetid: 1922FCE8-3A89-44ED-B4E1-BFCD2326BB06
 ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
-ms.openlocfilehash: 048cbe3384d1721136afe6d6f165e8e408b6d25a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 60ab45e6c50e7e3b6ab312c4c64dfeb3aacb53d9
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795179"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917458"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>Analisar assinaturas e licenças 
 
@@ -21,7 +22,7 @@ ms.locfileid: "5795179"
 
 - Partner Center
 
-Os dados impulsionam as decisões de negócios. Use as métricas na página de **assinatura e análises de licença** para identificar seu êxitos e áreas que precisam de mais atenção. Use essas informações ao planejar novas metas de negócios.
+Os dados impulsionam as decisões de negócios. Use as métricas na página de **assinatura e análise de licença** para identificar seu êxitos e áreas que precisam de mais atenção. Use essas informações ao planejar novas metas de negócios.
 
 > [!NOTE]
 > Análise de licença de assinatura está disponível apenas para parceiros no programa provedor de soluções de nuvem.
@@ -38,9 +39,9 @@ Esse relatório pode dinamizar com base nos seguintes produtos:
 Estamos monitorando as seguintes métricas:
 
 **Resumo**  
- - **Assinaturas vendido**: contagem de assinaturas criada para o período de tempo especificado  
+ - **Assinaturas vendido**: contagem de assinaturas criado para o período de tempo especificado  
  - **Licenças vendidas**: contagem de licenças vendidas para o período de tempo especificado   
- - **Renovar assinaturas em 30 dias**: contagem de assinaturas onde o status está ativo para o tempo especificado e período em que vale **renovar automaticamente**
+ - **Renovar assinaturas em 30 dias**: contagem de assinaturas onde o status está ativo para o tempo especificado e período em que é verdadeiro **renovar automaticamente**
  - **As assinaturas ativas**: assinaturas onde o status está **ativo**  
  - **Assinaturas Suspended**: contagem de assinaturas suspensas, não há nenhum filtro de data  
 

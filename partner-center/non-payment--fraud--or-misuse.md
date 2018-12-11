@@ -8,12 +8,13 @@ keywords: fraude, uso indevido, uso aceitável, política de uso aceitável, fal
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ccfcae0f6a31078e1c298ea6ee0293801c0f6b66
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c5a78af8e58b61ff5b0ed469eefdd172cf329306
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795419"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917588"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Falta de pagamento, fraude ou uso indevido
 
@@ -21,7 +22,8 @@ ms.locfileid: "5795419"
 
 -  Partner Center
 -  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
+
+
 
 Você permanece financeiramente responsável por compras fraudulentas de seus clientes e/ou falta de pagamento de serviços comprados pelo cliente. Portanto, é altamente recomendável que você implemente controles de prevenção contra fraude e atenuação de riscos de detecção.
 

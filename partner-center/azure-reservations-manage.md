@@ -2,17 +2,18 @@
 title: Gerenciar reservas do Azure em nome dos seus clientes | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-Description: Managing Azure reservations on behalf of your customers.
+Description: To manage your customers’ Azure reservations post-purchase, you’ll select the customer and reservation you want to manage in Partner Center, and then make changes to the reservation in the Azure portal.
 author: v-petand
 ms.author: v-petand
 keywords: Azure, reservas, gerenciar, cobrança, comprar, cancelar, exchange, taxa de término antecipado
 ms.localizationpriority: medium
-ms.openlocfilehash: fde21951dacab70a9f9b03d853647aabcc40d9af
-ms.sourcegitcommit: 7a68540d64d17c4d9139da4f94d679f9d91b67c4
+ms.custom: seodec18
+ms.openlocfilehash: 7096efb34f8c72d3c8dc724332dd031a180d0636
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "7011406"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917708"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gerenciar reservas do Microsoft Azure em nome dos seus clientes
 
@@ -22,7 +23,7 @@ ms.locfileid: "7011406"
 -  Portal do Microsoft Azure
 -  Parceiros no CSP
 
-Para gerenciar o pós-compra de reservas do Azure de seus clientes, você vai selecionará o cliente e a reserva que você deseja gerenciar no Partner Center e, em seguida, faça alterações na reserva no portal do Azure. 
+Para gerenciar o pós-compra de reservas do Azure dos seus clientes, você vai selecionará o cliente e a reserva que você deseja gerenciar no Partner Center e, em seguida, faça alterações na reserva no portal do Azure. 
 
 1. Para começar, selecione **os clientes** no menu Partner Center e, em seguida, selecione o cliente cujas reservas você deseja gerenciar. 
 
@@ -40,19 +41,19 @@ Para gerenciar o pós-compra de reservas do Azure de seus clientes, você vai se
  
 ## <a name="cancel-or-exchange-a-reservation"></a>Cancelar ou trocar uma reserva 
 
-Se a qualquer momento negócios do cliente mudam, eles podem querer cancelar uma reserva e obter um reembolso ou troca valor de reembolso proporcional da reserva a ser usado em relação ao preço de uma nova reserva.
+Se a qualquer momento negócios do cliente mudam, eles podem querer cancelar uma reserva e obter um reembolso ou troca um reembolso proporcional valor a ser usado em relação ao preço de uma nova reserva.
 
-Em ambos os cenários, Microsoft reembolsos a quantidade para você, para que você pode gerenciar as transações financeiras resultantes com seus clientes. Microsoft não entre em contato com os clientes diretamente sobre cobrança, cancelamentos ou reembolsos.   
+Em ambos os cenários, Microsoft reembolsos a quantidade para você, para que, em seguida, você pode gerenciar as transações financeiras resultantes com seus clientes. Microsoft não entre em contato com os clientes diretamente sobre cobrança, cancelamentos ou reembolsos.   
  
 
 **Como funcionam os cancelamentos**
 
-Os clientes podem solicitar para cancelar uma reserva a qualquer momento (valor de reembolso limitado a US $50.000 por ano). Cancelar uma reserva permite que o cliente devolva a quantidade dos meses restantes de uma reserva do Azure para uma taxa de término antecipado. O saldo restante proporcional, menos a taxa de término antecipado, será reembolsado à sua conta para que você pode reembolsar a conta do cliente. 
+Os clientes podem solicitar para cancelar uma reserva a qualquer momento (valor do reembolso coberta em US $50.000 por ano). Cancelar uma reserva permite que o cliente devolva a quantidade dos meses restantes de uma reserva do Azure para uma taxa de término antecipado. O saldo restante proporcional, menos a taxa de término antecipado, será reembolsado à sua conta para que você pode reembolsar a conta do cliente. 
 
 Veja a seguir para obter detalhes de cancelamento e taxas.
 
 
-|**Data de cancelamento**<br> (dias)   |**Utilização**    |**Crédito**  |**Encerramento**<br> taxa    |**Limite de reembolso** | 
+|**Data de cancelamento**<br> (dias)   |**Utilização**    |**Crédito**  |**Término antecipado**<br> taxa    |**Limite de reembolso** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
 |5 ou menos                         | Não          | 100%       | Não                              | US $ 50.000   |
 |5 ou menos                         | Sim         | Proporcional  | Não                              | US $ 50.000   |

@@ -1,19 +1,20 @@
 ---
 title: Analisar o uso do Azure | Partner Center
 ms.date: 07/12/2018
-Description: Get data about the usage of your customers' Azure subscriptions.
+Description: Use Partner Center to get data about the usage of your customers' Azure subscriptions.
 Author: Xansky
 ms.author: mhopkins
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
 ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
-ms.openlocfilehash: e5ed6ce99a8319ce2e86b8522f1bdf40ccf5b2f9
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 2a1311cb163d5e7f12e7649b56e74e240f0caca1
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795656"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917408"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Obter dados sobre o uso de assinaturas do Azure de seus clientes 
 
@@ -33,7 +34,7 @@ Estamos monitorando as seguintes métricas:
  - **Os clientes sem uso**: número de clientes sem o uso do Azure no período de tempo especificado  
 
 **Clientes de 5 principais na categoria**  
- -  Os clientes de 5 principais para a categoria especificada  
+ -  Os clientes superior a 5 para a categoria especificada  
 
 **Assinaturas sem uso**  
  -  Lista de assinaturas de sepcific sem o uso do Azure no período de tempo especificado  

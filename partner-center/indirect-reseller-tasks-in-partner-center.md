@@ -2,18 +2,19 @@
 title: Parceria com fornecedores indiretos no CSP | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Como um revendedor indireto no CSP, você trabalha com provedores indiretos (também conhecidos como distribuidores), que têm uma relação direta com a Microsoft e podem fornecer suporte e cobrança ao cliente. Isso significa que você não precisa começar por conta própria e, em vez disso, pode trabalhar com um provedor de tecnologia experiente para ajudar a garantir seu sucesso. No modelo de revendedor de provedor (duas camadas), o provedor compra soluções na nuvem e serviços Microsoft que você revende aos clientes.
+description: Como um revendedor indireto no CSP, você trabalha com provedores indiretos (também conhecidos como distribuidores), que têm uma relação direta com a Microsoft e podem fornecer suporte e cobrança ao cliente.
 ms.prod: ''
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: revendedores indiretos, revendedores, provedores indiretos, provedores, parceria, VAR, camada2, camada 2
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c17ab635ac95cc53d8900c12335823fcabd75eb
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c82e2dffbed0807894c8bd161281bc8e7da23a24
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795489"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917488"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Fazer parceria com provedores indiretos no programa Provedor de Soluções na Nuvem
 
@@ -96,7 +97,7 @@ Observe que pode levar vários dias para revisar e verificar as informações fo
 
 3. Insira o nome completo e endereço de e-mail exclusivo do usuário.
 
-4. Selecione o tipo de agente e o tipo de administrador. O acesso ao Partner Center é baseado em função, portanto, você pode atribuir permissões para personalizar o modo de exibição do usuário a fim de mostrar somente os recursos de que ele precisa para completar tarefas específicas. Para obter mais informações sobre o que cada função pode fazer, consulte [Atribuir permissões de usuário](#assignuserpermissions).
+4. Selecione o tipo de agente e o tipo de administrador. O acesso ao Partner Center é baseado em função, portanto, você pode atribuir permissões para personalizar o modo de exibição do usuário a fim de mostrar somente os recursos de que ele precisa para completar tarefas específicas. Para obter mais informações sobre o que cada função pode fazer, consulte [Atribuir permissões de usuário](#assign-user-permissions).
 
 5. Selecione **Adicionar** para criar a conta de usuário. Confirme os detalhes do usuário na próxima página.
 

@@ -2,17 +2,18 @@
 title: Comprar reservas do Microsoft Azure em nome dos seus clientes | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-Description: Buy Azure reservations on behalf of customers in Partner Center.
+Description: You can buy Azure reservations on behalf of your customers in Partner Center.
 author: v-petand
 ms.author: v-petand
 keywords: Azure, reservas, gerenciar, cobrança, compra
 ms.localizationpriority: medium
-ms.openlocfilehash: 2022018629bd54140a3d9aeca93a4523102c366e
-ms.sourcegitcommit: 282861f9063fe525bc54f8bbab96656563491b26
+ms.custom: seodec18
+ms.openlocfilehash: 6ce50f5269c95ba923b81a062c6f43a94bbff945
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "6075257"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917548"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Comprar reservas do Microsoft Azure em nome dos seus clientes no Partner Center 
 
@@ -30,7 +31,7 @@ Examine as informações importantes abaixo antes de comprar reservas do Azure e
   
 -   Custos de assinatura de software como o software de banco de dados SQL ou SUSE Linux não estão incluídos nos preços da reserva do Azure
 
--   Preço comercial da Microsoft para você não inclui impostos, a menos que seu local é Austrália ou Brasil. Se o local for Austrália ou Brasil, o preço comercial para você inclui os impostos apropriados 
+-   Preço comercial da Microsoft para que você não inclui impostos, a menos que seu local for o Brasil. Se o local for Brasil, o preço comercial para você inclui os impostos apropriados 
  
 -   Os agentes de suporte técnico e de vendas precisam de acesso explícito à assinatura do Azure para que eles possam comprá-la ou gerenciá-la no portal do Azure e nas solicitações de suporte de arquivo, inclusive para trocas e reembolsos, em nome do cliente  
 
@@ -122,13 +123,13 @@ Siga as etapas abaixo para comprar reservas do Microsoft Azure em nome dos seus 
     - Selecione o escopo da reserva. O escopo da reserva pode abranger uma ou várias assinaturas (escopo compartilhado). Se você definir o escopo a reserva em uma única assinatura, o desconto da reserva é aplicado a somente nesta assinatura. Se você selecionar compartilhada, o desconto da reserva é aplicado a todas as assinaturas no contexto de cobrança do cliente. 
 
       >[!NOTE] 
-      >Se você optar por para limitar o escopo da reserva para uma única assinatura do Azure, talvez seja necessário aumentar a cota de vCPU da assinatura. Para aumentar a cota de vCPU da assinatura, você precisará criar uma solicitação de suporte no portal do Azure. Siga as instruções [neste tópico](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) para criar a solicitação.    
+      >Se você optar por limitar o escopo da reserva para uma única assinatura do Azure, talvez seja necessário aumentar a cota de vCPU da assinatura. Para aumentar a cota de vCPU da assinatura, você precisará criar uma solicitação de suporte no portal do Azure. Siga as instruções [neste tópico](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) para criar a solicitação.    
 
     - Se você for um parceiro de provedor, selecione o revendedor que você deseja associar o produto.
 
 9. Selecione **Comprar** para fazer o pedido. Os detalhes do seu pedido, incluindo o número do pedido, são exibidos na página de **confirmação** . Selecione **Concluído** para ir para sua página **Histórico de pedidos**. 
 
-10. Gerenciar reservas do cliente no portal do Azure, encontre o cliente em sua página **clientes** e, em seguida, selecione a seta para baixo para expandir a linha do cliente. Selecione **Portal de Gerenciamento do Microsoft Azure** para abrir o registro do cliente no portal do Azure.
+10. Para gerenciar a reserva do cliente no portal do Azure, encontre o cliente em sua página **clientes** e, em seguida, selecione a seta para baixo para expandir a linha do cliente. Selecione **Portal de Gerenciamento do Microsoft Azure** para abrir o registro do cliente no portal do Azure.
 
 ## <a name="azure-reservations-resources"></a>Recursos de reservas do Azure
 |**Para obter informações sobre**   |**Leia isto**    |

@@ -2,18 +2,19 @@
 title: Suporte autônomo do cliente | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Suporte autônomo do cliente
+description: Os clientes podem entrar no Centro de administração do Microsoft Office 365 ou portal de gerenciamento do Azure próprios e gerenciar suas próprias contas. Para adquirir assinaturas adicionais ou cancelar assinaturas, os clientes devem entrar em contato com seus parceiros de Provedor de Soluções na Nuvem.
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: suporte autônomo do cliente, suporte autônomo
 ms.localizationpriority: medium
-ms.openlocfilehash: ac6e78057dc8499ad2e46713afe6ade4b4c8ca1e
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.custom: seodec18
+ms.openlocfilehash: 62a4486419183544ba6720c6e23a096fe4dd3841
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683475"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917578"
 ---
 # <a name="customer-self-support"></a>Suporte autônomo do cliente
 

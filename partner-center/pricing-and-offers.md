@@ -2,16 +2,17 @@
 title: Preços e ofertas | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: ''
+description: A lista de ofertas inclui as diferentes famílias de produtos que podem ser compradas por meio do Partner Center e suas informações de preços.
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ed75fd7ec41577856dccf06e41c3319b495d9624
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: f8b1b700433feaaf1427b90868aa0180fa665e0e
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796409"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917698"
 ---
 # <a name="pricing-and-offers"></a>Preços e ofertas
 
@@ -54,4 +55,4 @@ Para parceiros CSP que usam o Partner Center Software Development Kits (SDKs). A
 
 ### <a name="offers-matrix-and-pricelist-questions"></a>Perguntas sobre a matriz de ofertas e a lista de preços
 
-Se você tiver dúvidas sobre a matriz de lista de preços ou oferta, envie uma solicitação de serviço por meio do Partner Center.
+Se você tiver dúvidas sobre a matriz de lista de preços ou a oferta, envie uma solicitação de serviço por meio do Partner Center.

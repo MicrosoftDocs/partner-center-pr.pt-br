@@ -2,35 +2,36 @@
 title: Mercados globais do CSP | Partner Center
 ms.topic: article
 ms.date: 11/03/2018
-description: Veja onde você pode vender ofertas CSP, com base no local da sua empresa.
+description: Consulte os países e regiões em que você pode vender ofertas CSP, com base no local da sua empresa.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: Mercados CSP, regiões, onde i vender por meio do CSP, ofertas do CSP, regiões, vendem soluções de nuvem, CSP global
+keywords: CSP mercados, regiões, onde i vender por meio do CSP, ofertas do CSP, regiões, vendem soluções de nuvem, CSP global
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e561b68a083d7a5839aaebe6aa9f03f4f7e9c93
-ms.sourcegitcommit: b433061dff8f667c81b623c33417fb490d8e3b4a
+ms.custom: seodec18
+ms.openlocfilehash: 19a48a5ffc0ab9a3d2555c47cbf67c0376d771bf
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/04/2018
-ms.locfileid: "6022226"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917668"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Mercados regionais de programa de provedor de soluções de nuvem e moedas
 
-Localização da sua empresa determina sua participação no mercado. Sua participação no mercado inclui as regiões e/ou países/regiões onde você pode vender ofertas do CSP.
+Localização da sua empresa determina sua participação no mercado. Seu mercado inclui as regiões e/ou países/regiões onde você pode vender ofertas do CSP.
 
-Por exemplo, se sua empresa está localizada nos Estados Unidos, você pode vender ofertas do CSP para os clientes nos EUA e em Ilhas territórios dos EUA. Se sua empresa está localizada no Brasil, você pode vender ofertas CSP aos clientes somente no Brasil. Se sua empresa está localizada na região África, você pode vender ofertas do CSP para clientes em todos os países/18 regiões na região África.
+Por exemplo, se sua empresa está localizada nos Estados Unidos, você pode vender ofertas do CSP para os clientes nos EUA e em Ilhas territórios dos EUA. Se sua empresa está localizada no Brasil, você pode vender ofertas do CSP para os clientes somente no Brasil. Se sua empresa está localizada na região África, você pode vender ofertas do CSP para clientes em todos os 18 países na região África.
 
 Antes de você pode solicitar que ofertas do CSP em nome do cliente, o cliente deve assinar o contrato de nuvem da Microsoft. Você pode encontrar o contrato da Microsoft Cloud aplicáveis para seu país/região [aqui](agreements.md).
 
 >[!IMPORTANT]
-> A partir de 7 de novembro de 2018, será necessário confirmar que um cliente aceitou o contrato de nuvem da Microsoft, fornecendo informações sobre a pessoa que assinou. Consulte a [Confirmar a aceitação do cliente do contrato de nuvem da Microsoft](confirm-consent.md) para obter mais detalhes.
+> A partir de 7 de novembro de 2018, você precisará confirmar que um cliente aceitou o contrato de nuvem da Microsoft, fornecendo informações sobre a pessoa que assinou. Para obter mais detalhes, consulte [Confirmar a aceitação do cliente do contrato de nuvem da Microsoft](confirm-consent.md) .
 
 Para determinar onde você pode vender ofertas CSP, encontre o local da sua empresa em uma das listas abaixo.
 
 ## <a name="africa-region-and-market"></a>Mercado e região África
 
-Se o local da sua empresa estiver na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
+Se o local da sua empresa está na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
 
 | País/Região           | Moeda |
 | ------------------------ |:--------:|
@@ -85,7 +86,7 @@ Se o local da sua empresa estiver na lista a seguir, você pode vender ofertas d
 
 ## <a name="asia-and-pacific-region-and-market"></a>Mercado e região Ásia e Pacífico
 
-Se o local da sua empresa estiver na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
+Se o local da sua empresa está na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
 
 | País/Região     | Moeda |
 | --------------     |:--------:|
@@ -111,7 +112,7 @@ Se o local da sua empresa estiver na lista a seguir, você pode vender ofertas d
 
 ## <a name="australia-region-and-market"></a>Mercado e região Austrália
 
-Se o local da sua empresa estiver na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
+Se o local da sua empresa está na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
 
 |  País/Região        | Moeda |
 |  --------------        |:--------:|
@@ -151,7 +152,7 @@ Se o local da sua empresa for o Brasil, você pode vender ofertas do CSP para cl
 
 ## <a name="canada-region-and-market"></a>Mercado e Canadá região
 
-Se o local da sua empresa estiver na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
+Se o local da sua empresa está na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
 
 |  País/Região | Moeda |
 |  -------------- |:--------:|
@@ -161,7 +162,7 @@ Se o local da sua empresa estiver na lista a seguir, você pode vender ofertas d
 
 ## <a name="europe-region-and-market"></a>Mercado e região Europa
 
-Se o local da sua empresa estiver na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
+Se o local da sua empresa está na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
 
 |  País/Região | Moeda  |
 |  -------------- |:--------:|
@@ -214,7 +215,7 @@ Se o local da sua empresa estiver na lista a seguir, você pode vender ofertas d
 
 ## <a name="india-region-and-market"></a>Mercado e região da Índia
 
-Se o local da sua empresa for a Índia, você pode vender ofertas CSP aos clientes na Índia.
+Se o local da sua empresa for a Índia, você pode vender ofertas do CSP para os clientes na Índia.
 
 |  País/Região | Moeda |
 |  -------------- |:--------:|
@@ -223,7 +224,7 @@ Se o local da sua empresa for a Índia, você pode vender ofertas CSP aos client
 
 ## <a name="japan-region-and-market"></a>Mercado e região do Japão
 
-Se o local da sua empresa for o Japão, você pode vender ofertas do CSP para clientes no Japão.
+Se o local da sua empresa estiver no Japão, você pode vender ofertas do CSP para clientes no Japão.
 
 |  País/Região | Moeda |
 |  -------------- |:--------:|
@@ -232,7 +233,7 @@ Se o local da sua empresa for o Japão, você pode vender ofertas do CSP para cl
 
 ## <a name="korea-republic-of-region-and-market"></a>Coreia, República da região e o mercado
 
-Se o local da sua empresa for a Coreia, República da, você pode vender ofertas CSP aos clientes na Coreia, República da.
+Se o local da sua empresa for a Coreia, República da, você pode vender ofertas do CSP para os clientes na Coreia, República da.
 
 |  País/Região    | Moeda |
 |  --------------    |:--------:|
@@ -241,7 +242,7 @@ Se o local da sua empresa for a Coreia, República da, você pode vender ofertas
 
 ## <a name="latin-america-and-the-caribbean-region-and-market"></a>América Latina e a região Caribe e mercado
 
-Se o local da sua empresa estiver na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
+Se o local da sua empresa está na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
 
 |  País/Região | Moeda |
 |  -------------- |:--------:|
@@ -300,9 +301,9 @@ Se o local da sua empresa estiver na lista a seguir, você pode vender ofertas d
 |  Ilhas Virgens Americanas| USD |
 |
 
-## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Mercado e região Oriente Médio, Europa Central e Europa Leste dos EUA
+## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Mercado e região Leste dos EUA Europa, Europa Central e Oriente Médio
 
-Se o local da sua empresa estiver na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
+Se o local da sua empresa está na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
 
 |  País/Região | Moeda |
 |  -------------- |:--------:|
@@ -336,7 +337,7 @@ Se o local da sua empresa estiver na lista a seguir, você pode vender ofertas d
 |  Moçambique     |          |
 |  Omã           |   USD    |
 |  Paquistão       |   USD    |
-|  Palestinian Territory, Occupied |        |
+|  Território Palestino ocupado |        |
 |  Catar          |   USD    |
 |  Arábia Saudita   |   USD    |
 |  Sérvia         |   USD    |
@@ -355,7 +356,7 @@ Se o local da sua empresa estiver na lista a seguir, você pode vender ofertas d
 
 ## <a name="new-zealand-region-and-market"></a>Mercado e região da Nova Zelândia
 
-Se o local da sua empresa estiver na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
+Se o local da sua empresa está na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
 
 |  País/Região | Moeda |
 |  -------------- |:--------:|
@@ -367,16 +368,16 @@ Se o local da sua empresa estiver na lista a seguir, você pode vender ofertas d
 
 ## <a name="russia-region-and-market"></a>Mercado e região Rússia
 
-Se o local da sua empresa for a Rússia, você pode vender ofertas CSP aos clientes na Rússia.
+Se o local da sua empresa for a Rússia, você pode vender ofertas do CSP para os clientes na Rússia.
 
 |  País/Região | Moeda |
 |  -------------- |:--------:|
 |  Rússia         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan region and market
+## <a name="taiwan-region-and-market"></a>Mercado e região de Taiwan
 
-If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
+Se o local da sua empresa for Taiwan, você pode vender ofertas do CSP para clientes em Taiwan.
 
 |  País/Região | Moeda |
 |  -------------- |:--------:|
@@ -385,7 +386,7 @@ If your company's location is Taiwan, you can sell CSP offers to customers in Ta
 
 ## <a name="united-states-region-and-market"></a>Mercado e região dos Estados Unidos
 
-Se o local da sua empresa estiver na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
+Se o local da sua empresa está na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
 
 |  País/Região       | Moeda |
 |  -------------        |:--------:|

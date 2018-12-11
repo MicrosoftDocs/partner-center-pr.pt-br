@@ -2,28 +2,29 @@
 title: Contas corporativas e Partner Center | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Para criar uma conta do Partner Center, sua empresa deverá ter uma conta de trabalho.
+description: Para criar uma conta do Partner Center, sua empresa deverá ter uma conta de trabalho. Se você tiver uma assinatura ativa do Microsoft Azure ou Office 365, você já tiver uma conta corporativa.
 author: labrenne
 ms.author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: aa256ad84b598d011ca25b7470342381148ecf2a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 529d6f3930c74e75043c87f13b21aa69461c26ad
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796389"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917518"
 ---
-# <a name="your-company-work-account-and-the-partner-center"></a>Sua conta corporativa e o Partner Center  
+# <a name="your-company-work-account-and-partner-center"></a>Sua conta corporativa e o Partner Center  
 
-**Aplicável a**
+**Aplicável ao**
 
 -  Partner Center
 
 ## <a name="why-you-need-a-work-account"></a>Por que você precisa de uma conta corporativa
 
-Precisamos vincular a conta corporativa da empresa à sua nova conta do Partner Center, para que os usuários da conta possam entrar Partner Center com seus nomes de usuário de conta de trabalho e senhas.
+Precisamos vincular a conta corporativa da empresa à sua nova conta do Partner Center para que os usuários da conta possam entrar no Partner Center com os nomes de usuário e senhas da conta corporativa.
 
 Se a sua empresa já tiver uma conta corporativa, você pode vinculá-la à sua conta do Partner Center. 
 
@@ -47,7 +48,7 @@ Se quiser usar uma conta corporativa existente, mas estiver tendo problemas para
 
 Para saber mais sobre como adicionar domínios no Azure AD, consulte [Adicionar ou associar um domínio no Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)
 
-# <a name="about-microsoft-azure"></a>Sobre o Microsoft Azure
+## <a name="about-microsoft-azure"></a>Sobre o Microsoft Azure
 
 O Microsoft Azure é uma plataforma de nuvem pública que as empresas podem usar para compilar, implantar e gerenciar aplicativos em uma rede global de datacenters gerenciados pela Microsoft. As empresas usam o Azure para criar uma infraestrutura de TI virtual com funções virtuais ou serviços, em vez de computadores físicos. 
 
