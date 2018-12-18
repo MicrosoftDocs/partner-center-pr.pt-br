@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1907212ff56bed8b3e3345c51bbf79770f2699c8
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: d128075199f30399641019e37740a8d9a34207f1
+ms.sourcegitcommit: e26f8fa7d88f0ae10d4ef62f7a853114cc565cda
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683765"
+ms.lasthandoff: 12/18/2018
+ms.locfileid: "8973896"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Relatar problemas em nome de um cliente
 
@@ -48,8 +48,22 @@ Se o cliente está tendo um problema de serviço que você não consegue resolve
 
 3.  Mais tarde, revise as solicitações de serviço do cliente no portal do Microsoft Azure selecionando **Gerenciar solicitações de suporte**.
 
+Talvez seja necessário criar uma solicitação de suporte para um cliente quando você não tiver permissões de administrador para esse cliente. Isso pode acontecer em um destes dois cenários: 
+ 
+-   Você não solicitar privilégios de administrador quando você o relacionamento estabelecido pela primeira vez.
+-   Você gerenciar assinaturas do Azure e não um cliente outros, que não exige que você tenha permissões administrativas.
+ 
+Em qualquer um desses casos, você pode usar o procedimento a seguir para criar uma solicitação de suporte. 
 
+1.  Copie o nome de domínio do cliente da sua página da conta no Partner Center.
 
+2.  Vá para https://portal.azure.com/[customerdomainname]. 
+
+3.  Selecione a assinatura do Azure que requer suporte.
+
+4.  Selecione a **nova solicitação de suporte**e, em seguida, siga os prompts para criar a solicitação. 
+
+ 
 **Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite**
 
 1. Na seção **Criar uma solicitação de serviço**, escolha a categoria de tópico de suporte apropriada. Talvez seja necessário selecionar **Mais...** para exibir tópicos adicionais.    
