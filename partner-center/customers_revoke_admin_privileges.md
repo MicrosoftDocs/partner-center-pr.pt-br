@@ -1,18 +1,18 @@
 ---
 title: Os clientes delegam privilégios administrativos para parceiros | Partner Center
 ms.topic: article
-ms.date: 12/7/2018
+ms.date: 12/18/2018
 description: Como um parceiro revendedor, seu cliente pode delegar você para ser seu administrador. Eles também podem remover privilégios.
 author: labrenne
 ms.author: labrenne
 keywords: privilégios de administrador, administrador em nome de, remover privilégios, DAP, AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: bb92bca26c3b6c73750a5bc02f2833172006d0ff
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 92b23c15285db651abab326c18f5b25feaffdb6c
+ms.sourcegitcommit: 90d656ed3a4d056a0506f7b5e2b1b8c728f58c46
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917498"
+ms.lasthandoff: 12/19/2018
+ms.locfileid: "8976813"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>Os clientes delegam privilégios administrativos para parceiros
 
