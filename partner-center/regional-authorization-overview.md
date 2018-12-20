@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: CSP mercados, regiões, onde i vender por meio do CSP, ofertas do CSP, regiões, vendem soluções de nuvem, CSP global
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 19a48a5ffc0ab9a3d2555c47cbf67c0376d771bf
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 456a37e965d7594e29df47437dedb587bff46db3
+ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917668"
+ms.lasthandoff: 12/20/2018
+ms.locfileid: "8980620"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Mercados regionais de programa de provedor de soluções de nuvem e moedas
 
@@ -27,7 +27,7 @@ Antes de você pode solicitar que ofertas do CSP em nome do cliente, o cliente d
 >[!IMPORTANT]
 > A partir de 7 de novembro de 2018, você precisará confirmar que um cliente aceitou o contrato de nuvem da Microsoft, fornecendo informações sobre a pessoa que assinou. Para obter mais detalhes, consulte [Confirmar a aceitação do cliente do contrato de nuvem da Microsoft](confirm-consent.md) .
 
-Para determinar onde você pode vender ofertas CSP, encontre o local da sua empresa em uma das listas abaixo.
+Para determinar onde você pode vender ofertas CSP, encontre o local da sua empresa em uma das listas abaixo. Você deve ter uma ID ativa do Microsoft Partner Network (MPN) para o local em que você deseja vender.  
 
 ## <a name="africa-region-and-market"></a>Mercado e região África
 
@@ -337,7 +337,7 @@ Se o local da sua empresa está na lista a seguir, você pode vender ofertas do 
 |  Moçambique     |          |
 |  Omã           |   USD    |
 |  Paquistão       |   USD    |
-|  Palestinian Territory, Occupied |        |
+|  Território Palestino ocupado |        |
 |  Catar          |   USD    |
 |  Arábia Saudita   |   USD    |
 |  Sérvia         |   USD    |
@@ -375,9 +375,9 @@ Se o local da sua empresa for a Rússia, você pode vender ofertas do CSP para o
 |  Rússia         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan region and market
+## <a name="taiwan-region-and-market"></a>Mercado e região de Taiwan
 
-If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
+Se o local da sua empresa for Taiwan, você pode vender ofertas do CSP para clientes em Taiwan.
 
 |  País/Região | Moeda |
 |  -------------- |:--------:|
