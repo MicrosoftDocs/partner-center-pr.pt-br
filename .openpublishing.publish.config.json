@@ -14,36 +14,44 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "docs"
+      "build_entry_point": "docs",
+      "version": 0
     },
     {
       "docset_name": "partner-china-dynamic",
       "build_source_folder": "china",
       "build_output_subfolder": "partner-china-dynamic",
       "locale": "pt-br",
-      "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "docs"
+      "build_entry_point": "op"
     }
   ],
-  "notification_subscribers": [],
+  "notification_subscribers": [
+    "evansma@microsoft.com"
+  ],
   "branches_to_filter": [
     "",
     "live-sxs"
   ],
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
+  "need_preview_pull_request": true,
   "contribution_branch_mappings": {},
   "dependent_repositories": [
     {
       "path_to_root": "_themes.MSDN.PartnerCenter",
-      "url": "https://github.com/Microsoft/templates.msdn.partnercenter",
+      "url": "https://github.com/Microsoft/templates.msdn.partnercenter.pt-br",
+      "branch": "master",
+      "branch_mapping": {}
+    },
+    {
+      "path_to_root": "_themes",
+      "url": "https://github.com/Microsoft/templates.docs.msft.pt-br",
       "branch": "master",
       "branch_mapping": {}
     },
@@ -55,12 +63,6 @@
         "live": "live",
         "master": "master"
       }
-    },
-    {
-      "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft.pt-br",
-      "branch": "master",
-      "branch_mapping": {}
     }
   ],
   "branch_target_mapping": {},
