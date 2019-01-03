@@ -8,16 +8,16 @@ ms.author: labrenne
 keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções fiscais, arquivos de reconciliação, arquivo de reconciliação
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 96a859fda2ba8641c701888c4a865b1a1278c268
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: eebf3573cdb6724497bb7933d7edc08879dc8e5e
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917597"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990938"
 ---
 # <a name="billing-overview"></a>Visão geral de cobrança
 
-**Aplicável a**
+**Aplica-se a**
 
 -  Partner Center
 -  Parceiros no programa CSP
@@ -37,7 +37,7 @@ Dependendo dos produtos, soluções e serviços que você compra em nome dos seu
 
     Ao comprar reservas do Azure ou outras assinaturas de software, você paga antecipadamente por um termo previamente configurado. Porque você está pagando antecipadamente, você está cobrado em uma quantia. 
     
-Se você optou por ser cobrados mensalmente ou se você comprou produtos baseados em uso são cobrados mensalmente, sua data de cobrança mensal é o dia do mês selecionado quando você criou sua conta do CSP no Partner Center. Depois que você criou com êxito sua conta do CSP, a Microsoft enviará um email de confirmação que inclui sua data de cobrança.
+Se você optou por ser cobrados mensalmente ou se você comprou produtos baseados em uso são cobrados mensalmente, sua data de cobrança mensal é o dia do mês selecionado quando você criou sua conta do CSP no Partner Center. Depois que você criou com êxito sua conta do CSP, a Microsoft enviará um email de confirmação que inclui sua data de cobrança. Depois de criados, essa data não pode ser alterada. 
 
 ## <a name="pricing-and-invoicing"></a>Preços e faturamento
 Você pode encontrar listas de preços com um (1) mês de antecedência, pois são atualizadas mensalmente. Os preços baseados em licença são garantidos durante o período da assinatura, geralmente 12 meses a partir da data de compra. Os preços baseados em uso podem ser alterados mensalmente. 

@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
 ms.localizationpriority: medium
-ms.openlocfilehash: df555040c02f3317445efd391d84684f1a7e6dac
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b4dbfe0b325f4ab9741ae4510fa8e651d7216ac9
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795629"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990958"
 ---
 # <a name="common-billing-scenarios"></a>Cenários comuns de cobrança
 
@@ -32,6 +32,8 @@ Este tópico explica o que você deve esperar ver em sua fatura depois de adicio
 ## <a href="" id="usagebased"></a>Cobrança baseada em uso
 
 As assinaturas baseadas em uso são cobradas mensalmente, em atrasos de pagamento, no dia do aniversário da assinatura. Por exemplo, se a data de aniversário da assinatura for o dia 15, você será cobrado em 15 de janeiro pelo termo de serviço entre 15 de dezembro e 14 de janeiro. Você será cobrado em 15 de fevereiro pelo termo de serviço entre 15 de janeiro e 14 de fevereiro etc. Os encargos gerados no dia do aniversário da assinatura serão exibidos no arquivo de reconciliação e na fatura a seguir.
+
+Ocasionalmente, você pode observar que alguns encargos de uso não estiverem na sua fatura, ou se o uso de um mês anterior é cobrado na fatura do mês atual. Isso não é um erro; Isso simplesmente significa que o serviço foi marca depois que os serviços ocorreram. Uso relatado dentro de 24 horas do final do ciclo de cobrança aparecerão na fatura do próximo mês. 
 
 As assinaturas baseadas em uso podem ser suspensas a qualquer momento. 
 

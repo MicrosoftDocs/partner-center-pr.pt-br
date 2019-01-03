@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cobrança de assinatura, cobrança, cobrança no partner center, ler minha cobrança, fatura, fatura do partner center, fatura do CSP, onde está minha cobrança?
 ms.localizationpriority: medium
-ms.openlocfilehash: 070d0c78acf9b8af016e1a1d46040fb5de780e97
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: a6c4ef705e7f66d2e40bd117e3d674d2f06acb76
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683785"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990928"
 ---
 # <a name="read-your-bill"></a>Ler sua cobrança
 
@@ -57,7 +57,7 @@ Para obter detalhes dos encargos por itens, use os arquivos de reconciliação a
 </tr>
 <tr class="even">
 <td>Cobrar de</td>
-<td>O endereço para onde enviamos sua fatura. Para alterar esse endereço, vá para Configurações da conta > Perfil de cobrança do parceiro. </td>
+<td>O endereço para onde enviamos sua fatura. Para alterar o nome da empresa ou o endereço, edite seu perfil de cobrança do Partner Center. </td>
 </tr>
 <tr class="odd">
 <td>Encargos baseadas em licença</td>
@@ -105,11 +105,11 @@ Para obter detalhes dos encargos por itens, use os arquivos de reconciliação a
 </tr>
 <tr class="odd">
 <td>Período de cobrança</td>
-<td>Os parceiros CSP são cobrados mensalmente ou anualmente.</td>
+<td>O período mensal levando à data da fatura. Esse é o período durante o qual serviços baseados em uso são consumidos e serviços baseados em licença são reconciliados para os ajustes de crédito ou as alterações na contagem de licença.</td>
 </tr>
 <tr class="even">
 <td>Data da fatura</td>
-<td>A data que você recebe sua fatura.</td>
+<td>Sua data de cobrança ou a data de aniversário no qual sua fatura é gerada cada mês.</td>
 </tr>
 <tr class="odd">
 <td>Termos de pagamento</td>
@@ -129,7 +129,7 @@ Para obter detalhes dos encargos por itens, use os arquivos de reconciliação a
 </tr>
 <tr class="odd">
 <td>Destinatário do serviço</td>
-<td>O endereço onde o serviço é usado. (Esse é o endereço de pessoa jurídica associado à verificação da empresa e não pode ser alterado.)</td>
+<td>O endereço onde o serviço é usado. (Isso é o endereço legal da empresa associado à empresa jurídica).</td>
 </tr>
 </tbody>
 </table>
