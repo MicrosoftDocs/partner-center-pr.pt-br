@@ -12,8 +12,9 @@
 
 # [Provedor de Soluções na Nuvem](csp-overview.md)
 ## [Inscreva-se no programa Provedor de Soluções na Nuvem](enrolling-in-the-csp-program.md)
-## [Novos requisitos de parceiros diretos CSP](direct-partner-new-requirements.md) 
-## [Inscrever-se como um fornecedor de painel de controle](enroll-as-cpv.md)
+## [Novos requisitos de parceiros diretos no CSP](direct-partner-new-requirements.md) 
+## [Inscrever-se como um Fornecedor de Painel de Controle](enroll-as-cpv.md)
+###[Você deve habilitar a Autenticação Multifator (MFA) em seu locatário para obter acesso a esta página](enable-mfa.md)
 ## [Contratos, listas de preços e ofertas do CSP](csp-documents-and-learning-resources.md)
 ## [Moedas e mercados regionais do CSP](regional-authorization-overview.md)
 ## [Contratos do Microsoft Cloud por região e idioma](agreements.md)
