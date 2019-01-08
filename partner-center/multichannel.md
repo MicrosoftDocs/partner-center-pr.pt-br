@@ -7,12 +7,12 @@ ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6dce06b0c65c3ac85318b1c04b5a8b490d620e55
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 8b35332e27b90488f76132d115dd66ddb0c8d8d6
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683665"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995600"
 ---
 # <a name="multi-channel-support"></a>Suporte multi-canal
 
@@ -37,13 +37,13 @@ Recurso de vários canais do Partner Center oferece suporte a cenários quando u
 <tbody>
 <tr class="odd">
 <td><p><strong>Serviços baseados em licença</strong></p></td>
-<td><p>Para dar suporte a contas de vários canais, você deve solicitar permissões do cliente para gerenciar as assinaturas dele. Consulte [Solicitar uma relação de revendedor com um cliente](request-a-relationship-with-a-customer.md) para obter informações sobre como fazer isso.</p></td>
+<td><p>Para dar suporte a contas de vários canais, você deve solicitar permissões do cliente para gerenciar as assinaturas dele. Consulte <a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">Solicitar uma relação de revendedor com um cliente</a> para obter informações sobre como fazer isso.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Serviços com base em uso</strong></p></td>
 <td>
-<p>Para um cliente que já tem uma assinatura do Microsoft Azure de outro canal, como Advisor, Open ou EA, você precisa criar uma nova assinatura do Azure no Partner Center, inserir manualmente os detalhes da assinatura e, em seguida, cancelar os serviços individuais ou a assinatura inteira.</p>
-<p>Por exemplo, para um cliente que já tem uma assinatura do Microsoft Azure de outro parceiro, você pode alternar os serviços do Azure para o outro parceiro. Para obter mais informações, consulte [Alternar assinaturas do Azure para um parceiro diferente](switch-azure-subscriptions-to-a-different-partner.md).</p>
+<p>Para um cliente que já tem uma assinatura do Microsoft Azure de outro canal, como Advisor, Open, ou EA, você & #39; ll necessárias para criar uma nova assinatura do Azure no Partner Center, inserir manualmente os detalhes da assinatura e, em seguida, cancelar a pessoa serviços ou a assinatura inteira.</p>
+<p>Por exemplo, para um cliente que já tem uma assinatura do Microsoft Azure de outro parceiro, você pode alternar os serviços do Azure para o outro parceiro. Para obter mais informações, consulte <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Alternar assinaturas do Azure para um parceiro diferente</a>.</p>
 </td>
 </tr>
 </tbody>
@@ -60,9 +60,9 @@ Se você tiver um revendedor indireto, consulte [Parceria com fornecedores indir
 
 Se você tiver um fornecedor indireto, consulte [Parceria com revendedores indiretos](indirect-provider-tasks-in-partner-center.md) 
 
- 
+ 
 
- 
+ 
 
 
 

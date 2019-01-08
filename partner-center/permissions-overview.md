@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: funções, permissões, administrador, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: ad20423242868751665ddb40d204edd17eb8bc1e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: d05656a219cda8a68ded396a7f19b7bb4e5f9cdc
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795099"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995910"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Atribuir funções e permissões de usuário
 
@@ -20,9 +20,9 @@ ms.locfileid: "5795099"
 
 - Partner Center
 
-Cada função no Partner Center vem com determinadas permissões permitindo que um usuário para realizar tarefas específicas. Todas as pessoas que funciona no Partner Center devem ter atribuída uma função.
+Cada função no Partner Center vem com determinadas permissões permitindo que um usuário para executar tarefas específicas. Todas as pessoas que funciona no Partner Center devem ser atribuída a uma função.
 
-Dependendo do tamanho da sua organização, alguns usuários podem funcionar em todos os locais ou apenas para um único local. 
+Dependendo do tamanho da sua organização, alguns usuários podem funcionar em todos os locais ou apenas para um local. 
 
 Por exemplo:
 
@@ -102,7 +102,7 @@ Para obter uma visão geral de funções e permissões, leia [criar contas de us
 <li><p>Criar novos locais</p></li>
 <li><p>Registrar locais em programas (exceções são CSP e programas de revendedor indireto)</p></li>
 <li><p>Gerenciar perfis relacionados a eles administram as contas de local</p></li>
-<li><p>Atribuir a outros administradores de contas, administrador do MPN, administrador de perfil de negócios, administrador de indicações, administrador de incentivos e funções de usuário de incentivo para os usuários</p></li>
+<li><p>Atribuir a outros administradores de conta, administrador do MPN, administrador de perfil de negócios, administrador de indicações, administrador de incentivos e funções de usuário de incentivos aos usuários</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -132,7 +132,7 @@ Para obter uma visão geral de funções e permissões, leia [criar contas de us
 <td><p><strong>Agente administrativo</strong></p></td>
 <td><ul>
 <li><p>Gerenciamento de clientes</p></li>
-<li><p>Adicionar lista de dispositivos ao Partner Center <</p></li>
+<li><p>Adicionar lista de dispositivos ao Partner Center&lt;</p></li>
 <p><li>Criar e aplicar perfis aos dispositivos</p></li>
 <li><p>Gerenciamento de assinaturas</p></li>
 <li><p>Solicitações de integridade e serviços para clientes</p></li>

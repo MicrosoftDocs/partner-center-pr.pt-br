@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: dados de negócios
 ms.localizationpriority: medium
-ms.openlocfilehash: be46ca6cb4efa54bcb29874465e79ca89f7799e8
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 704b7123a8eceea9e16692d9e5413875d9f6d92d
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796859"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995820"
 ---
 # <a name="partner-contribution-stay-on-top-of-your-performance-indicators"></a>Contribuição de parceiros: mantenha o controle de seus indicadores de desempenho
 
@@ -22,7 +22,7 @@ ms.locfileid: "5796859"
 Os dados impulsionam as decisões de negócios. Use as métricas na página de Contribuição de Parceiros para identificar seu êxitos, os êxitos de seus clientes e as áreas que precisam de mais atenção. Use essas informações ao planejar novas metas de negócios.
 
 >[!NOTE]
->Contribuição do parceiro está atualmente disponível apenas para os parceiros que vendem o Dynamics 365.
+>Contribuição do parceiro está disponível somente para os parceiros que vendem o Dynamics 365.
 
 Estamos monitorando as seguintes métricas:
 
@@ -62,17 +62,16 @@ Comentários de você sobre a contribuição do parceiro são bem-vindos. Envie 
 1. Por que não consigo ver a página de contribuição do parceiro?
     - Contribuição do parceiro está atualmente disponível apenas para parceiros que vendem o Dynamics 365 com contas MPN ou CSP. Esse recurso não está habilitado para China e Alemanha ainda.
 2. Sou um parceiro do Dynamics 365, por que não consigo ver os dados de contribuição de parceiros?
-      - Você não pode ter um papel de conta MPN ou CSP. Por exemplo: Advisor e DAP ainda não estão habilitados.  
-    - Você talvez não tenha a função de usuário apropriado em sua organização para exibir esta página. Entre em contato com o administrador global.
-
+    - Você não pode ter uma função de conta MPN ou CSP. Por exemplo: Advisor e DAP ainda não estão habilitados.  
+    - Talvez você não tenha a função de usuário apropriado em sua organização para exibir esta página. Entre em contato com seu administrador global.
     - Sua organização está localizada na China ou Alemanha.
 
 3. Meu nova receita líquida > 0, mas não tem nenhum dado para usuários ativos mensais (MAU)?
-    - Para a maioria dos VL ou canal aberto clientes, de cobrança aparecerá antes estações sejam provisionadas, portanto, não podemos ver MAU ainda.
+    - Para a maioria dos VL ou canal aberto clientes, cobrança aparecerá antes estações sejam provisionadas, portanto, não podemos ver MAU ainda.
 
-4.  Por que é meu MAU > 0, mas posso não ter nenhum dado para nova receita líquida?
-    - Para Web Direct ou revendedor, estações sejam provisionadas antes de começa o ciclo de cobrança. Cobrança pode ocorrer um mês, trimestre ou ano mais tarde, com base nas condições da assinatura. Isso também acontece com assinaturas de avaliação, direitos de uso interno e os clientes do governo dos Estados Unidos.
-5.  Meus dados de receita não correspondem?
-    - Isso é mais provável devido a associação DPOR, diferenças de tempo ou dados não na nuvem.
-6.  Por que meus dados individuais certificados é baixa?
-    - Mostramos apenas aqueles localizado em uma área de locatário determinado cliente e que passaram 1 ou mais dos 5 exames necessários para a competência de aplicativos de negócios na nuvem, o compromisso do cliente ou o caminho de finanças e operações.   
+4. Por que é meu MAU > 0, mas não têm dados para a nova receita líquida?
+   - Para Web Direct ou revendedor, estações sejam provisionadas antes de começa o ciclo de cobrança. Cobrança pode ocorrer um mês, trimestre ou ano posterior com base nas condições da assinatura. Isso também acontece com assinaturas de avaliação, direitos de uso interno e os clientes do governo dos Estados Unidos.
+5. Meus dados de receita não correspondem?
+   - Isso é mais provável devido a associação DPOR, diferenças de tempo ou dados não na nuvem.
+6. Por que meus dados individuais certificados é baixa?
+   - Mostramos apenas aqueles localizado em uma área de locatário determinado cliente e que passaram 1 ou mais dos 5 exames necessários para a competência de aplicativos de negócios na nuvem, envolvimento de clientes ou caminho de finanças e operações.   

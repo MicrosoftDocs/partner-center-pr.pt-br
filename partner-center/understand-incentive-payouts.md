@@ -6,22 +6,22 @@ description: Veja os lucros e pagamentos de cada um dos programas de incentivo.
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c3905fd1841426cd70416599a48be1a9660bae2
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 3cf700332c22fc75605b9eacc3af05997f7a387d
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795939"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995950"
 ---
-#<a name="incentive-payouts-overview"></a>Visão geral de pagamentos de incentivos
+# <a name="incentive-payouts-overview"></a>Visão geral de pagamentos de incentivos
 
-**Aplicável a**
+**Aplica-se ao**
 
 -  Partner Center
 
 Os usuários e administradores de incentivos obtém uma visão geral dos ganhos e pagamentos que receberam ou estão prestes a receber de seus programas de incentivo.   
 
-##<a name="summary-information-on-earnings-and-payout"></a>Informações resumidas sobre lucros e pagamentos
+## <a name="summary-information-on-earnings-and-payout"></a>Informações resumidas sobre lucros e pagamentos
 
 Parceiros CSP que são usuários e administradores de incentivos podem ver sua posição financeira nos programas de incentivos de que estão participando em **Resumo de pagamento**. Você pode ver detalhadamente cada área das informações resumidas conforme necessário. 
 

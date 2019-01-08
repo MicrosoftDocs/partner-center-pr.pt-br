@@ -4,12 +4,12 @@ description: Pré-configure experiência de out-of-box do dispositivo com perfis
 author: maggiepuccievans
 keywords: piloto automático, o windows autopilot, piloto automático da microsoft, implantação zero touch, oobe, telas de logon, out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: 7df979042799954c5b43a2adef1915941db02e57
-ms.sourcegitcommit: 90d656ed3a4d056a0506f7b5e2b1b8c728f58c46
+ms.openlocfilehash: 70740212f433ad6eb4f2f04d63708fff436024ad
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/19/2018
-ms.locfileid: "8976803"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995930"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personalizar a experiência de out-of-box do dispositivo com perfis do Windows Autopilot
 
@@ -64,14 +64,15 @@ No Partner Center, você pode criar perfis de implantação do Windows Autopilot
 4. Insira o nome e a descrição do perfil e, em seguida, defina as configurações de OOBE. Escolha:  
 
    - Ignorar configurações de privacidade na instalação
-   
+
    - Desabilitar a conta de administrador local na instalação
-   
+  
    - Ignorar automaticamente as páginas na instalação<br>
         (Inclui *Selecionar automaticamente a configuração para trabalho ou escola* e *Ignorar Cortana, OneDrive e OEM páginas de configuração de registro*)
-   
+  
    - Ignorar contrato de licença de usuário final (EULA)<br> 
-       >[!IMPORTANT] Consulte o [descarte de EULA do Windows Autopilot](#windows-autopilot-eula-dismissal) abaixo para obter informações importantes a serem consideradas sobre ignorar a página do EULA durante a instalação do Windows.
+       >[!IMPORTANT] 
+       >Consulte o [descarte de EULA do Windows Autopilot](#windows-autopilot-eula-dismissal) abaixo para obter informações importantes a serem consideradas sobre ignorar a página do EULA durante a instalação do Windows.
 
 5. Selecione **Enviar** quando terminado.
 
@@ -104,8 +105,8 @@ Depois de criar um perfil Autopilot para um cliente, você pode aplicá-lo a dis
 
 3. Em **aplicar perfis aos dispositivos** selecione os dispositivos que você deseja remover o perfil e, em seguida, selecione **Remover perfil**.
 
-  >[!NOTE]
-  >Remover um perfil de um dispositivo não exclui o perfil de sua lista. Se você deseja excluir um perfil, siga as instruções na [atualização ou excluir um perfil Autopilot](#update-or-delete-an-autopilot-profile).
+   >[!NOTE]
+   >Remover um perfil de um dispositivo não exclui o perfil de sua lista. Se você deseja excluir um perfil, siga as instruções na [atualização ou excluir um perfil Autopilot](#update-or-delete-an-autopilot-profile).
 
 ### <a name="update-or-delete-an-autopilot-profile"></a>Atualizar ou excluir um perfil Autopilot
 

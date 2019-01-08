@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 19544d00aa0a040b4dcf1a4733714dc80b4e745e
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: fe930a85f59420548863831a6e4fd311de09c6bc
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683805"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8996010"
 ---
 # <a name="faq-about-new-billing-features"></a>Perguntas Frequentes sobre os novos recursos de cobrança
 
@@ -242,17 +242,17 @@ Seções:
 
 **P:** Quem você pode contatar se tiver dúvidas sobre incentivos?
 
--   **R:** Contate a equipe regional de suporte a incentivos apropriada:
+- **R:** Contate a equipe regional de suporte a incentivos apropriada:
 
-    - América do Norte: ocina@microsoft.com
+  - América do Norte: ocina@microsoft.com
 
-    - América Latina e Brasil: ocilatam@microsoft.com
+  - América Latina e Brasil: ocilatam@microsoft.com
 
-    - EMEA: ociemea@microsoft.com
+  - EMEA: ociemea@microsoft.com
 
-    - APOAC (exceto o Japão): ociapgc@microsoft.com
+  - APOAC (exceto o Japão): ociapgc@microsoft.com
 
-    - Japão: ocijp@microsoft.com
+  - Japão: ocijp@microsoft.com
 
 
 **P:** O que acontece se eu suspender minha assinatura? 

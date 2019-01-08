@@ -7,12 +7,12 @@ ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b18ebfc5e376478ebdadab51993af78ea92fe97e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bdf3e14a5d55a465bbc60809ed3ecd1e79ab5db5
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795249"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995830"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Aumentar a adoção e a satisfação
 
@@ -70,24 +70,24 @@ Se forem apresentados muitos pedidos de Ajuda e Perguntas de instrução, os nú
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problema:</strong> a taxa de adoção do usuário é baixa, e muitas licenças não estão sendo usadas.</p>
+<td><p><strong>Problema:</strong> A taxa de adoção do usuário é baixa e muitas licenças & #39; t sendo usado.</p>
 <p><strong>O que considerar:</strong> os clientes podem não entender o valor que o software pode oferecer. Eles precisam de ajuda para conhecer as maneiras de incorporá-lo em seu dia para simplificar tarefas que já estão fazendo, ou para habilitar novos tipos de produtividade.</p>
 <p><strong>O que tentar:</strong> estudos de caso, depoimentos de usuários sobre cenários específicos, blogs de tutorial ou vídeos.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Problema:</strong> há um grande volume de chamadas de suporte de ajuda e perguntas de instrução.</p>
 <p><strong>O que considerar:</strong> os clientes podem ser novos no software, na versão do produto ou na tarefa.</p>
-<p><strong>O que tentar:</strong> você pode usar uma estratégia dupla de oferta de treinamento (pessoalmente ou online) para aumentar a experiência geral do cliente, e também promover algumas das opções de autoatendimento disponíveis aos clientes.</p>
-<p>É possível recriar seu site de suporte para incluir também as opções de autoatendimento descritas no tópico [Autoatendimento do cliente](customer-self-support.md) além de suas informações de contato de suporte.</p></td>
+<p><strong>o que tentar:</strong> Você pode usar uma estratégia dupla de oferta de treinamento (pessoalmente ou online) para aumentar o cliente & #39; s experiência geral, e também promover algumas das opções de autoatendimento disponíveis aos clientes.</p>
+<p>É possível recriar seu site de suporte para incluir também as opções de autoatendimento descritas no tópico <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Autoatendimento do cliente</a> além de suas informações de contato de suporte.</p></td>
 </tr>
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

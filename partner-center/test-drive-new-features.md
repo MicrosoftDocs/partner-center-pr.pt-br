@@ -6,12 +6,12 @@ description: Teste os novos recursos do Partner Center antes que eles sejam lan�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 96fe21302e2d4e5a06f7b6c970b95b8739673ac7
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cd09ce1c9896d730f78f6c983e756fc8e8437af6
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797119"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995730"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Teste os novos recursos do Partner Center
 
@@ -30,16 +30,16 @@ Ficamos felizes em convidá-lo a experimentar os novos recursos antes que eles s
 
 Para cada recurso futuro, você pode:
 
--   Ler mais sobre o recurso e decidir se deseja experimentar selecionando **Saiba mais** na descrição do recurso 
+- Ler mais sobre o recurso e decidir se deseja experimentar selecionando **Saiba mais** na descrição do recurso 
 
--   Encontrar instruções sobre como testar o recurso
+- Encontrar instruções sobre como testar o recurso
 
--   Consultar nosso prazo estimado para disponibilizar um recurso para visualização e nosso prazo de ativação estimado para quando lançarmos o recurso na comunidade do Partner Center em todo o mundo 
+- Consulte nosso estimado para disponibilizar um recurso de visualização e nossa destino data para quando lançarmos o recurso a comunidade do Partner Center em todo o mundo.
 
-    > [!NOTE]  
+> [!NOTE]  
 >  O termo *prazo de ativação estimado* refere-se à data em que pretendemos disponibilizar o recurso para todos os usuários do Partner Center em todo o mundo. Entretanto, várias coisas podem afetar a data de ativação, incluindo uma decisão de incorporar o feedback que melhora o recurso, e podemos decidir reprogramar a data de ativação ou não lançar uma versão comercial do recurso.  
 
--   Ativar a visualização de recurso deslizando o interruptor para **On**
+- Ativar a visualização de recurso deslizando o interruptor para **On**
 
 > [!NOTE]  
 >  Somente administradores globais e agentes de administração podem ativar versões de visualização de recurso. No entanto, qualquer um dos seus usuários do Partner Center pode ver e usar os recursos de visualização que tenham permissões aplicáveis.

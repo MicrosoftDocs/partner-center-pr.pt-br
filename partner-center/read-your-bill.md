@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cobrança de assinatura, cobrança, cobrança no partner center, ler minha cobrança, fatura, fatura do partner center, fatura do CSP, onde está minha cobrança?
 ms.localizationpriority: medium
-ms.openlocfilehash: a6c4ef705e7f66d2e40bd117e3d674d2f06acb76
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: b1d70425a38872ae7d4a4f6f69b1f5072b2d603b
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990928"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995870"
 ---
 # <a name="read-your-bill"></a>Ler sua cobrança
 
@@ -146,7 +146,7 @@ Para obter detalhes dos encargos por itens, use os arquivos de reconciliação a
 |Valor pré-taxado |Subtotal das compras antes dos impostos. |
 |Imposto sobre vendas |Valor do imposto. |
 |Total |Total a ser pago. |
- 
+ 
 
 
 

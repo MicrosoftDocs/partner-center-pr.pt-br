@@ -6,12 +6,12 @@ description: Os programas de incentivos para parceiros da Microsoft oferecem sup
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 46d86931792d94baddaf79cdef72f77960ea35dd
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 3232f52f3c04d61fb57fdada40a98612341972fc
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797169"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995640"
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>Gerencie seu incentivos no Partner Center 
 

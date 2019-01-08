@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: migrar provedores, provisionamento, conta de locatário, consolidar locatários
 ms.localizationpriority: medium
-ms.openlocfilehash: 83b5040f1562ef44c5cb17b5a2676387237b2794
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 695f8298e13680532b63ec24a27d56984bd59c89
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683795"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995880"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidação de locatários de autorização regional do CSP
 
@@ -27,9 +27,9 @@ ms.locfileid: "8683795"
 
 Use estas instruções para consolidar locatários para países/regiões diferentes.
 
-**Observação**você deve estar ciente de todas as assinaturas e estações para seus clientes provisionados das contas de transição. Você reprovisionará exatamente as mesmas assinaturas com o mesmo número de estações sob a nova conta de CSP Central como parte do processo de migração. Use o recurso de lista de exportação para ajudar a criar uma lista de clientes para mover para o locatário centralizado. Os parceiros optam por consolidar seus locatários. Quando consolidação for concluída, os parceiros não poderão reverter para seu estado anterior. Observe que a ação do cliente talvez seja necessária.
+**Observação**  Você deve estar ciente de todas as assinaturas e números de estações para seus clientes provisionados nas contas de transição. Você reprovisionará exatamente as mesmas assinaturas com o mesmo número de estações sob a nova conta de CSP Central como parte do processo de migração. Use o recurso de lista de exportação para ajudar a criar uma lista de clientes para mover para o locatário centralizado. Os parceiros optam por consolidar seus locatários. Quando consolidação for concluída, os parceiros não poderão reverter para seu estado anterior. Observe que a ação do cliente talvez seja necessária.
 
- 
+
 
 ## <a name="prepare-for-migration"></a>Preparar para a migração
 
@@ -66,7 +66,7 @@ Os clientes aparecerão na lista de clientes do parceiro após o envio do contra
 
 5.  Adicione as assinaturas corretas e os números de estações do catálogo. Verificar com as informações fornecidas nas contas de parceiro de **origem da transição**.
 
-    ![captura de tela da lista de clientes](images/regionalcustomer2.png)
+![lista de clientes](images/regionalcustomer2.png)
 
 6.  Clique em **Enviar**.
 
@@ -76,9 +76,9 @@ Repita essas etapas para migrar assinaturas para todos os outros clientes.
 
 Antes de prosseguir para a próxima seção, certifique-se de que todas as assinaturas de cliente existentes nas contas de parceiros de **origem da transição** sejam reprovisionadas sob a conta de parceiro de **destino da transição**.
 
-**Observação**os parceiros devem suspender as assinaturas na **Origem da transição** locatário parceiro conta no Partner Center no mesmo dia que essas assinaturas são transmitidas e configuradas na conta de locatário parceiro **Destino da transição** no o Partner Center para garantir que a cobrança dupla não ocorrerá. As solicitações de suporte serão negadas para créditos decorrentes de alguma sobreposição de cobranças que ocorra devido à não configuração das assinaturas de **origem da transição** como desabilitadas.
+**Observação**  Os parceiros devem suspender as assinaturas na conta de locatário parceiro de **origem da transição** no Partner Center no mesmo dia que essas assinaturas são transmitidas e configuradas na conta de locatário parceiro de **destino da transição** no Partner Center para garantir que não haja cobrança dupla. As solicitações de suporte serão negadas para créditos decorrentes de alguma sobreposição de cobranças que ocorra devido à não configuração das assinaturas de **origem da transição** como desabilitadas.
 
- 
+
 
 ## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Desabilitando as assinaturas do Office 365 na conta de parceiro de origem da transição
 
@@ -90,11 +90,13 @@ Desabilitar a assinatura de CSP sob as contas de parceiros de **destino da trans
 2.  Abra o cliente com assinaturas para desabilitar e, em seguida, selecione a primeira oferta a ser desabilitada.
 3.  Defina a assinatura como **suspensa** e clique em **enviar**.
 
-    **Observação**suspender a assinatura garante que não haja cobrança dupla.
+ >[! **Observação**] Suspender a assinatura garante que não haja cobrança dupla.
 
-     
 
-    A assinatura é exibida como **suspensa** na lista de assinaturas.
+
+~~~
+The Subscription shows **suspended** on the subscriptions list.
+~~~
 
 4.  Repita essas etapas para todas as assinaturas sob o cliente. Verifique se todas são exibidas como **suspensas**.
 
@@ -111,9 +113,9 @@ Observe que assinaturas de CSP baseadas em uso do Azure não precisam ser migrad
 4.  O parceiro confirma se agora a assinatura do Azure sob a conta de revendedor CSP de **origem da transição** é exibida como suspensa no Partner Center, na seção de assinaturas de cliente.
 5.  O parceiro confirma se agora a assinatura do Azure sob a conta de revendedor CSP de **destino da transição** mostra o status de **ativa** no Partner Center, na seção de assinaturas de cliente.
 
-    **Observação**desabilitar as assinaturas sob o cliente não altera a aparência do cliente na lista de clientes. Atualmente, não há uma opção para remover clientes da lista. Os parceiros devem evitar readicionar assinaturas para esses clientes a partir da conta de **destino da transição** no futuro.
+>[! **Observação**] Desabilitar as assinaturas sob o cliente não altera a aparência do cliente na lista de clientes. Atualmente, não há uma opção para remover clientes da lista. Os parceiros devem evitar readicionar assinaturas para esses clientes a partir da conta de **destino da transição** no futuro.
 
-     
+
 
 6.  Repita essas etapas para todas as assinaturas em todos os seus clientes para impedir encargos futuros nas contas de **origem da transição**. O parceiro receberá uma fatura final com um crédito pelo número de dias não utilizados entre o dia de cancelamento e o último dia do período de cobrança. Nenhuma fatura futura será gerada após esse período de cobrança final.
 
@@ -125,9 +127,9 @@ Observe que assinaturas de CSP baseadas em uso do Azure não precisam ser migrad
 
 -   Atualmente, não há uma maneira de remover completamente um cliente da Lista de clientes.
 
--   **Observação**os parceiros devem suspender as assinaturas na **Origem da transição** locatário parceiro conta no Partner Center no mesmo dia que essas assinaturas são transmitidas e configuradas na conta **Fazendo a transição para** o locatário do parceiro no Partner Center para garantir que não haja cobrança dupla. A Microsoft não dará suporte para solicitações de créditos decorrentes de alguma sobreposição de cobranças que ocorra devido à não configuração das assinaturas de **origem da transição** como suspensas.
+-   **Observação**  Os parceiros devem suspender as assinaturas na conta de locatário parceiro de **origem da transição** no Partner Center no mesmo dia que essas assinaturas são transmitidas e configuradas na conta de locatário parceiro de **destino da transição** no Partner Center para garantir que não haja cobrança dupla. A Microsoft não dará suporte para solicitações de créditos decorrentes de alguma sobreposição de cobranças que ocorra devido à não configuração das assinaturas de **origem da transição** como suspensas.
 
-     
+
 
 ### <a name="simplify-migration-using-export"></a>Simplificar a migração usando Exportar
 
@@ -146,9 +148,9 @@ Usando a **função Exportar**, você pode capturar as assinaturas que serão us
 Para obter mais informações sobre o registro de API [consulte esta página](https://go.microsoft.com/fwlink/?linkid=847990).
 
 
- 
 
- 
+
+
 
 
 

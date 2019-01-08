@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 50af14ab0e8edf6cd4576be6615cd7238b23bd99
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: dac94723d8939f83628dfc8cd0992ab3516fa5a1
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990988"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995940"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar os arquivos de reconciliação
 
@@ -57,7 +57,7 @@ Os parceiros no modelo indireto podem usar esses campos adicionais nos arquivos 
 </tbody>
 </table>
 
- 
+ 
 
 ## <a href="" id="licensebasedfiles"></a> Campos de arquivos baseado em licença
 
@@ -179,7 +179,7 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 </tr>
 <tr class="even">
 <td>Imposto</td>
-<td><p>Valor do imposto cobrado, com base nas regras fiscais do mercado e em circunstâncias específicas.</p></td>
+<td><p>Valor do imposto cobrado, com base em seu mercado & #39; s regras fiscais e em circunstâncias específicas.</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -194,7 +194,7 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Nome da organização do cliente como informado no Partner Center. Isso é muito importante para reconciliar a fatura com as informações de seu sistema.</p></td>
+<td><p>Cliente & #39; o nome da organização s como informado no Partner Center. Isso é muito importante para reconciliar a fatura com as informações de seu sistema.</p></td>
 <td>Cliente de teste A</td>
 </tr>
 <tr class="even">
@@ -204,12 +204,12 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>ID do MPN do revendedor de registro da assinatura. Consulte [Discriminar por parceiro](#itemizebypartner).</p></td>
+<td><p>ID do MPN do revendedor de registro da assinatura. Consulte <a href="#itemizebypartner" data-raw-source="[Itemize by partner](#itemizebypartner)">Discriminar por parceiro</a>.</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Nome de domínio do cliente, usado para ajudar a identificar o cliente. Isso não deve ser usado para identificar exclusivamente o cliente como o cliente/parceiro pode atualizar o domínio banidos/padrão através do portal do O365. Este campo pode aparecer em branco até o segundo ciclo de cobrança.</p></td>
+<td><p>Cliente & #39; o nome de domínio s, usado para ajudar a identificar o cliente. Isso não deve ser usado para identificar exclusivamente o cliente como o cliente/parceiro pode atualizar o domínio banidos/padrão através do portal do O365. Este campo pode aparecer em branco até o segundo ciclo de cobrança.</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -262,7 +262,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Nome da organização do cliente como informado no Partner Center. Isso é muito importante para reconciliar a fatura com as informações de seu sistema.</p></td>
+<td><p>Cliente & #39; o nome da organização s como informado no Partner Center. Isso é muito importante para reconciliar a fatura com as informações de seu sistema.</p></td>
 <td>Cliente de teste A</td>
 </tr>
 <tr class="even">
@@ -272,7 +272,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>ID do MPN do revendedor de registro da assinatura. Consulte [Discriminar por parceiro](#itemizebypartner).</p></td>
+<td><p>ID do MPN do revendedor de registro da assinatura. Consulte <a href="#itemizebypartner" data-raw-source="[Itemize by partner](#itemizebypartner)">Discriminar por parceiro</a>.</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
@@ -383,7 +383,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>Valor do imposto cobrado, com base nas regras fiscais do mercado e em circunstâncias específicas.</p></td>
+<td><p>Valor do imposto cobrado, com base em seu mercado & #39; s regras fiscais e em circunstâncias específicas.</p></td>
 <td>U$ 0,08</td>
 </tr>
 <tr class="even">
@@ -453,7 +453,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Nome de domínio do cliente, usado para ajudar a identificar o cliente. Este campo pode aparecer em branco até o segundo ciclo de cobrança.</p></td>
+<td><p>Cliente & #39; o nome de domínio s, usado para ajudar a identificar o cliente. Este campo pode aparecer em branco até o segundo ciclo de cobrança.</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -705,7 +705,7 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 </td>
 <td>
 <p><em>Podem ser aplicados a vários tipos de cobrança</em></p>
-<p><em>Exceção: "Deslocamento de um item de linha" já inclui impostos. Consulte créditos, acima.</em></p>
+<p><em>Exceção: &quot;deslocamento de um item de linha&quot; já inclui impostos. Consulte créditos, acima.</em></p>
 </td>
 <td>
 <p>Impostos ou impostos sobre valor agregado (IVA)</p>

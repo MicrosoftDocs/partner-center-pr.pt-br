@@ -6,12 +6,12 @@ description: Os programas de incentivos estimulam os parceiros a desenvolver nov
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bd6427f035c7cb4107073ab7039a3b1823025968
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 61138645f20a24ba7eacd17546983715a0045669
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797299"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995630"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>Os incentivos para parceiros agora estão no Partner Center 
 
@@ -27,18 +27,18 @@ Você pode estar fazendo negócios na nuvem, no local ou em algum outro lugar, s
 
 Você poderá ingressar no programa de incentivos para parceiros da Microsoft se for um parceiro CSP participando ativamente como um revendedor.
 Quando você ingressar no programa, estará qualificado para os lucros de reembolso e cooperação. Para se inscrever no programa de incentivos, você precisa: 
--   Ter um contrato ativo do Microsoft Partner Network (MPN).  
--   Provedores indiretos devem ter um contrato de Cloud Distributor válido.
--   Revendedores diretos devem possuir um contrato de revendedor.
--   Se você for um parceiro revendedor indireto, deve estar no MPN. Revendedores indiretos receberão um convite para o programa de incentivos depois de concluir sua primeira transação. 
--   Ter pelo menos uma das competências da Microsoft. Veja a lista das atuais [competências da Microsoft] (competencies.md).
+- Ter um contrato ativo do Microsoft Partner Network (MPN).  
+- Provedores indiretos devem ter um contrato de Cloud Distributor válido.
+- Revendedores diretos devem possuir um contrato de revendedor.
+- Se você for um parceiro revendedor indireto, deve estar no MPN. Revendedores indiretos receberão um convite para o programa de incentivos depois de concluir sua primeira transação. 
+- Ter pelo menos uma das competências da Microsoft. Ver uma lista das atuais [competências da Microsoft](competencies.md).
 
 ## <a name="one-site-one-log-on"></a>Um site, um logon
 
 Agora que o programa de incentivos para parceiros da Microsoft foi movido para o Partner Center, você poderá fazer todo o trabalho de administrador, incluindo gerenciar usuários, trabalhar em nome dos clientes, inscrever-se para certificações e incentivos, relatar lucros de incentivos e receber pagamentos. Todos os seus dados de incentivos está disponível para você, seu incentivos **Do Partner Center**. Os dados de incentivos são atualizados diariamente.
- 
+ 
 ## <a name="set-your-users-up-in-partner-center"></a>Configure seus usuários no Partner Center
- 
+ 
 Primeiramente, você deve terminar de preencher sua conta no Partner Center configurando os usuários de incentivos. Você recebeu um email com uma lista dos usuários de incentivos da sua organização. Quando o administrador de incentivos para sua organização concluir a configuração do usuário, todos os seus dados de incentivos aparecerão a incentivos **Do Partner Center**.
 
 **Veja também**

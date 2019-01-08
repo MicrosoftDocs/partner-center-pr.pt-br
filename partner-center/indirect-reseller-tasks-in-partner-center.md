@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: revendedores indiretos, revendedores, provedores indiretos, provedores, parceria, VAR, camada2, camada 2
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c82e2dffbed0807894c8bd161281bc8e7da23a24
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: cc76d93cb0cdc581943e1785967c7b489bdd5ef9
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917488"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995990"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Fazer parceria com provedores indiretos no programa Provedor de Soluções na Nuvem
 
@@ -63,7 +63,7 @@ Observe que pode levar vários dias para revisar e verificar as informações fo
 
 3.  Entre com as informações da sua conta. Selecione **Login** e insira o nome de usuário e senha que você usa para fazer login como um administrador global para o Office 365, Microsoft Azure ou Microsoft Dynamics CRM. 
 
-    Se você não tiver uma conta corporativa, selecione **Criar uma** para configurar uma agora. Depois de configurar uma conta corporativa, faça login usando as credenciais da sua nova conta.
+Se você não tiver uma conta corporativa, selecione **Criar uma** para configurar uma agora. Depois de configurar uma conta corporativa, faça login usando as credenciais da sua nova conta.
 
 4.  Examine as informações sobre como associar seu ID do Microsoft Partner Network (ID de MPN) com sua nova conta do Partner Center. Precisamos vincular o ID de MPN da sua organização com sua nova conta do Partner Center para que você possa gerenciar seus benefícios de associação e incentivos no Partner Center. Selecione **Entrar**.
 
@@ -73,21 +73,21 @@ Observe que pode levar vários dias para revisar e verificar as informações fo
 
 7.  Selecione o perfil de organização com a ID de MPN vinculada a incentivos, benefícios da participação e competências para que nós possamos mover essas informações à sua conta do Partner Center. Selecione **Continuar**.
 
-    Se a ID de MPN que você deseja usar não estiver listada nesta página, selecione **Cancelar** e faça login novamente com o nome de usuário e senha para o perfil de organização que você deseja usar. 
-    > [!IMPORTANT]  
-    > Selecione a ID do MPN associado a um perfil de organização ativo que está localizado no mesmo país/região como seu locatário Azure AD.
+Se a ID de MPN que você deseja usar não estiver listada nesta página, selecione **Cancelar** e faça login novamente com o nome de usuário e senha para o perfil de organização que você deseja usar. 
+> [!IMPORTANT]  
+> Selecione a ID do MPN associado a um perfil de organização ativo que está localizado no mesmo país/região como seu locatário Azure AD.
 
 8.  Forneça ou atualize o perfil de negócios legais da organização, informações de contato principais e informações de suporte ao cliente da sua organização. Selecione **Registre-se agora**.
 
-    O contato principal deve ser a pessoa em sua organização que podemos contatar sobre seu aplicativo (pode ser você ou outra pessoa em sua organização). Observe que não aceitamos endereços de email de serviços de email baseado na Web, como Gmail, Yahoo! Mail, iCloud Mail, AOL Mail ou o email do Outlook. 
-    > [!IMPORTANT]  
-    > Para ajudar a garantir a segurança e privacidade da sua organização, nós enviaremos um e-mail para seu contato principal para verificar que (1) ele ou ela se inscreveu em uma conta do Partner Center e que (2) este endereço de e-mail pertence à sua organização. Depois que o contato principal verificar seu endereço de e-mail, continuaremos nossa análise das informações fornecida por você. Nós enviaremos atualizações do status de inscrição ao contato principal.
+O contato principal deve ser a pessoa em sua organização que podemos contatar sobre seu aplicativo (pode ser você ou outra pessoa em sua organização). Observe que não aceitamos endereços de email de serviços de email baseado na Web, como Gmail, Yahoo! Mail, iCloud Mail, AOL Mail ou o email do Outlook. 
+> [!IMPORTANT]  
+> Para ajudar a garantir a segurança e privacidade da sua organização, nós enviaremos um e-mail para seu contato principal para verificar que (1) ele ou ela se inscreveu em uma conta do Partner Center e que (2) este endereço de e-mail pertence à sua organização. Depois que o contato principal verificar seu endereço de e-mail, continuaremos nossa análise das informações fornecida por você. Nós enviaremos atualizações do status de inscrição ao contato principal.
 
 9.  Quando sua conta do Partner Center estiver pronta para uso, verifique se que você foi adicionado ao grupo do agente administrador. Para concluir a configuração de sua conta, incluindo a adição de outros usuários, você deve ter permissões de agente administrador. Siga estas etapas para exibir ou atualizar suas permissões:
 
-    a.  No **Partner Center**, selecione o ícone de **configurações** e, em seguida, selecione o **gerenciamento de usuários**.  
+a.  No **Partner Center**, selecione o ícone de **configurações** e, em seguida, selecione o **gerenciamento de usuários**.  
 
-    b.  Selecione seu nome na lista de usuários e então selecione **Agente administrativo** se ainda não estiver selecionado. Selecione **Atualizar**.   
+b.  Selecione seu nome na lista de usuários e então selecione **Agente administrativo** se ainda não estiver selecionado. Selecione **Atualizar**.   
 
 ## <a name="add-a-new-user"></a>Adicionar um novo usuário
 
@@ -102,10 +102,10 @@ Observe que pode levar vários dias para revisar e verificar as informações fo
 5. Selecione **Adicionar** para criar a conta de usuário. Confirme os detalhes do usuário na próxima página.
 
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > Anote as novas informações de login do usuário exibidas nessa página. Certifique-se de copiar e enviar essas informações para o novo usuário, pois você não conseguirá acessá-las novamente mais tarde. <br>
-
->O usuário precisará entrar no Partner Center com seu nome de usuário e senha temporária. Quando o usuário entra no Partner Center pela primeira vez, ele precisará alterar sua senha.        
+> 
+> O usuário precisará entrar no Partner Center com seu nome de usuário e senha temporária. Quando o usuário entra no Partner Center pela primeira vez, ele precisará alterar sua senha.        
 
 ## <a name="assign-user-permissions"></a>Atribuir permissões de usuário
 
@@ -126,20 +126,20 @@ Se um provedor indireto quiser se conectar com você no Partner Center, ele vai 
 
 3.  Para confirmar a parceria com o provedor, marque a caixa e selecione **Autorizar provedor indireto**. O provedor agora é listado na sua página **Provedores indiretos** e sua empresa agora é listada na página **Revendedores indiretos** do provedor.
 
-    > [!NOTE]  
-    > Quando você estabelece uma parceria com um provedor indireto, você está autorizando a enviar pedidos e adicionar assinaturas em nome dos seus clientes, e você está concedendo a eles acesso de administrador à conta de trabalho da sua empresa. Depois que a parceria tiver sido estabelecida com o provedor, você poderá remover o acesso de administrador do provedor à sua conta de trabalho no portal do Office 365. 
+> [!NOTE]  
+> Quando você estabelece uma parceria com um provedor indireto, você está autorizando a enviar pedidos e adicionar assinaturas em nome dos seus clientes, e você está concedendo a eles acesso de administrador à conta de trabalho da sua empresa. Depois que a parceria tiver sido estabelecida com o provedor, você poderá remover o acesso de administrador do provedor à sua conta de trabalho no portal do Office 365. 
 
 4.  Selecione **provedores indiretos** no seu menu **Partner Center** para ver uma lista dos provedores com que você tem uma parceria. 
 
 5.  Selecione **Exibir clientes** para ver uma lista dos clientes que você e o provedor compartilham.
 
 6.  Selecione **Convidar novos clientes** para solicitar um novo cliente e autorizar relações de revendedor com você e seu provedor indireto. Certifique-se de ter o endereço de e-mail do cliente à mão para que você possa enviar e-mail de convite.  
-    > [!IMPORTANT]  
-    > Seu provedor indireto precisa ter uma relação de revendedor com seus clientes para enviar pedidos no nome dele. 
+> [!IMPORTANT]  
+> Seu provedor indireto precisa ter uma relação de revendedor com seus clientes para enviar pedidos no nome dele. 
  
 ## <a name="connect-with-customers"></a>Conecte-se com clientes
 
- Para transações com clientes no Partner Center, os clientes devem ter contas do Partner Center e você deve estabelecer relações de revendedor com eles. Para permitir que seu provedor indireto adquira assinaturas e serviços em nome do cliente, o provedor indireto também deve ter uma relação de revendedor com seus clientes. 
+Para transações com clientes no Partner Center, os clientes devem ter contas do Partner Center e você deve estabelecer relações de revendedor com eles. Para permitir que seu provedor indireto adquira assinaturas e serviços em nome do cliente, o provedor indireto também deve ter uma relação de revendedor com seus clientes. 
 
 ### <a name="connect-with-existing-customers"></a>Conecte-se com clientes
 
@@ -153,7 +153,7 @@ Ao se conectar a um provedor indireto, você não ganha os clientes do provedor 
 
 2.  Na próxima página, examine a mensagem de rascunho de e-mail. Você pode abrir a mensagem de rascunho por e-mail ou pode copiar a mensagem na área de transferência e colá-la em um e-mail. 
 
-    Você pode editar o texto no email, mas não se esqueça de incluir o link conforme ele é personalizado para vincular o cliente diretamente à sua conta. Selecione **Concluído** quando tiver completado essa tarefa.
+Você pode editar o texto no email, mas não se esqueça de incluir o link conforme ele é personalizado para vincular o cliente diretamente à sua conta. Selecione **Concluído** quando tiver completado essa tarefa.
 
 3.  Envie o e-mail para seu cliente.
 
@@ -182,7 +182,7 @@ Para obter as permissões de administrador para gerenciar assinaturas e serviço
 
 3.  Na próxima página, examine a mensagem de rascunho de e-mail. Você pode abrir a mensagem de rascunho por e-mail ou pode copiar a mensagem na área de transferência e colá-la em um e-mail. 
 
-    Você pode editar o texto no email, mas não se esqueça de incluir o link conforme ele é personalizado para vincular o cliente diretamente à sua conta e à conta de seu fornecedor. Selecione **Concluído** quando tiver completado essa tarefa.
+Você pode editar o texto no email, mas não se esqueça de incluir o link conforme ele é personalizado para vincular o cliente diretamente à sua conta e à conta de seu fornecedor. Selecione **Concluído** quando tiver completado essa tarefa.
 
 4.  Depois que o cliente autoriza você e seu provedor a ser seus revendedores de registro, você terá permissões de administrador para gerenciar suas assinaturas, as licenças e os usuários em seu nome e seu provedor indireto serão capaz de enviar pedidos no nome dele.
 

@@ -7,12 +7,12 @@ fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e4eaecc151f8cc4e5e45bbfa7d02236fb1444a24
-ms.sourcegitcommit: 3eb069edf36bdb61518c0c7cc2ccaf2d8dde4adb
+ms.openlocfilehash: ef641484ada5332a7129e13f8d7bbd8f1d269f96
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/07/2018
-ms.locfileid: "6131695"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995550"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instale e visualize o aplicativo de análise do Partner Center para Microsoft Power BI
 
@@ -45,16 +45,16 @@ Antes de instalar a versão de visualização do aplicativo análises do Partner
 
 2. Em **Já tem uma conta?**, selecione **Conecte-se**. 
 
-3.  Na próxima página, digite seu nome de usuário e senha do Partner Power BI e, em seguida, selecione **Conecte-se**. 
+3. Na próxima página, digite seu nome de usuário e senha do Partner Power BI e, em seguida, selecione **Conecte-se**. 
 
-4.  Na janela pop-up **Conectar-se a análise do Partner Center**, certifique-se de que o **Método de autenticação** esteja definido como **oAuth2** ou selecione **oAuth2** da lista, se não estiver. 
+4. Na janela pop-up **Conectar-se a análise do Partner Center**, certifique-se de que o **Método de autenticação** esteja definido como **oAuth2** ou selecione **oAuth2** da lista, se não estiver. 
 
-    > [!NOTE]  
+> [!NOTE]  
 >  Esta janela pode demorar alguns minutos para aparecer.
 
-5.  Na página **Conector de análises do Partner Center**, faça logon com as credenciais de administrador global, agente administrador ou administrador de cobrança de locatário do Azure AD da sua empresa, e, em seguida, selecione **Conecte-se**.
+5. Na página **Conector de análises do Partner Center**, faça logon com as credenciais de administrador global, agente administrador ou administrador de cobrança de locatário do Azure AD da sua empresa, e, em seguida, selecione **Conecte-se**.
  
-6.  Quando solicitado para acesso, selecione **Aceitar**. 
+6. Quando solicitado para acesso, selecione **Aceitar**. 
 
 Depois que o serviço de análise do Partner Center estiver conectado com o Power BI, os dados começam a ser carregados. Dependendo da quantidade de dados, isso pode levar até 10 minutos. 
 

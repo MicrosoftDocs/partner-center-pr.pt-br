@@ -7,12 +7,12 @@ ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: dc017fdf17950187694bff1cb3e9ce389a50009d
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: bf0145b9e82d14d51486f7063329b971451c2fcd
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683735"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995800"
 ---
 # <a name="tax-and-tax-exemptions"></a>Impostos e isenções fiscais
 
@@ -48,7 +48,7 @@ Como o Provedor de Soluções na Nuvem é um canal de vendas concentrado na reve
 </tr>
 <tr class="even">
 <td>União Europeia</td>
-<td><p>Nos estados membros da União Europeia, os parceiros devem fornecer seu número de ID de IVA válido reverter o encargo e a cobrança adequada. O número do IVA deve ser [aceito como válido](http://go.microsoft.com/fwlink/p/?LinkId=808160).</p>
+<td><p>Nos estados membros da União Europeia, os parceiros devem fornecer seu número de ID de IVA válido reverter o encargo e a cobrança adequada. O número do IVA deve ser <a href="http://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](http://go.microsoft.com/fwlink/p/?LinkId=808160)">aceito como válido</a>.</p>
 <p>A Microsoft não oferece suporte a crédito e nova cobrança, então, antes de vender qualquer assinatura você deve registrar seu número de ID de IVA no Partner Center.</p>
 <p>Envie seu número de ID de IVA à Microsoft</strong></p>
 <ol>
@@ -74,11 +74,11 @@ Como o Provedor de Soluções na Nuvem é um canal de vendas concentrado na reve
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 
