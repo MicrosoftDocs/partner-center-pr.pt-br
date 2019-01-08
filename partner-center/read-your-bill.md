@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cobrança de assinatura, cobrança, cobrança no partner center, ler minha cobrança, fatura, fatura do partner center, fatura do CSP, onde está minha cobrança?
 ms.localizationpriority: medium
-ms.openlocfilehash: a6c4ef705e7f66d2e40bd117e3d674d2f06acb76
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: b1d70425a38872ae7d4a4f6f69b1f5072b2d603b
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990928"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995870"
 ---
 # <a name="read-your-bill"></a><span data-ttu-id="8e079-105">Ler sua cobrança</span><span class="sxs-lookup"><span data-stu-id="8e079-105">Read your bill</span></span>
 
@@ -146,7 +146,7 @@ ms.locfileid: "8990928"
 |<span data-ttu-id="8e079-182">Valor pré-taxado</span><span class="sxs-lookup"><span data-stu-id="8e079-182">Pre-tax amount</span></span> |<span data-ttu-id="8e079-183">Subtotal das compras antes dos impostos.</span><span class="sxs-lookup"><span data-stu-id="8e079-183">Sub-total of the purchases before taxes.</span></span> |
 |<span data-ttu-id="8e079-184">Imposto sobre vendas</span><span class="sxs-lookup"><span data-stu-id="8e079-184">Sales tax</span></span> |<span data-ttu-id="8e079-185">Valor do imposto.</span><span class="sxs-lookup"><span data-stu-id="8e079-185">Tax amount.</span></span> |
 |<span data-ttu-id="8e079-186">Total</span><span class="sxs-lookup"><span data-stu-id="8e079-186">Total</span></span> |<span data-ttu-id="8e079-187">Total a ser pago.</span><span class="sxs-lookup"><span data-stu-id="8e079-187">Total to be paid.</span></span> |
- 
+ 
 
 
 

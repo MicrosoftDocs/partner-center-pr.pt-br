@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c5a78af8e58b61ff5b0ed469eefdd172cf329306
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 8a4915f8ae0ad0d0b72f0e8b50f803fb8f84c17e
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917588"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995900"
 ---
 # <a name="non-payment-fraud-or-misuse"></a><span data-ttu-id="f845b-104">Falta de pagamento, fraude ou uso indevido</span><span class="sxs-lookup"><span data-stu-id="f845b-104">Non-payment, fraud, or misuse</span></span>
 
@@ -83,9 +83,9 @@ ms.locfileid: "8917588"
 > [!IMPORTANT]  
 > <span data-ttu-id="f845b-149">Se a Microsoft detectar atividade do parceiro ou do cliente que confirmarmos ou suspeitarmos que viola a Política de Uso Aceitável, tomaremos medidas de aplicação.</span><span class="sxs-lookup"><span data-stu-id="f845b-149">If Microsoft detects partner or customer activity that we confirm or suspect violates the Acceptable Use policy, we will take enforcement steps.</span></span> <span data-ttu-id="f845b-150">O cliente pode ser suspenso imediatamente, e você será notificado de ações de aplicação ou atualização em suas solicitações pela Microsoft.</span><span class="sxs-lookup"><span data-stu-id="f845b-150">The customer could be immediately suspended, and you'll be notified of enforcement actions or updated on your requests by Microsoft.</span></span>
 
- 
+ 
 
- 
+ 
 
 
 
