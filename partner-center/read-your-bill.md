@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cobrança de assinatura, cobrança, cobrança no partner center, ler minha cobrança, fatura, fatura do partner center, fatura do CSP, onde está minha cobrança?
 ms.localizationpriority: medium
-ms.openlocfilehash: b1d70425a38872ae7d4a4f6f69b1f5072b2d603b
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: aec344eb7e4ed6e0a4d5e7e506c9bcf195654293
+ms.sourcegitcommit: 9eadb7ff6c38a08c694710a8c14b899d0f48059a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995870"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "8997335"
 ---
 # <a name="read-your-bill"></a>Ler sua cobrança
 
@@ -28,7 +28,7 @@ Para sua cobrança, vá para o menu **Partner Center** e, em seguida, selecione 
 Os parceiros no programa Provedor de Soluções na Nuvem que escolheram a cobrança mensal pagam à Microsoft 60 dias em atraso pelas assinaturas de seus clientes (baseadas em licença e em uso).
 
 > [!NOTE]  
-> Sua fatura é um resumo de todos os encargos (entre programa, produtos e clientes) para o período de cobrança atual e é disponibilizada em até quatro (4) dias da data de cobrança selecionada.
+> Sua fatura é um resumo de todos os encargos – entre o programa, produtos e clientes – para o período de cobrança atual e está disponível em duas (2) dias da data de cobrança selecionada no horário UTC. Por exemplo, se você tiver um 12 de setembro data de cobrança, o processo de geração da fatura começar a 12:00 AM UTC no 13º e concluir por 12:00 AM UTC no dia 14. Se você não vir sua fatura por UTC 11:59 PM no dia 15, você está fora de seu contrato de nível de serviço e deve enviar uma solicitação de serviço. 
 
 Você receberá uma fatura para baseadas em licença (Office365) e baseadas em uso encargos de (Azure) e uma fatura separada para única (Azure instâncias de VM reservadas) encargos.
 
