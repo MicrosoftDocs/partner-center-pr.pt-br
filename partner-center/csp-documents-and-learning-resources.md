@@ -8,16 +8,16 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: guias do programa csp, guia de programa, acordos de parceria, contrato do cliente, listas de preço, ofertas
 ms.localizationpriority: medium
-ms.openlocfilehash: 9318834c508629285265a4c2267e8ada10896db8
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: a58edd5c7643c5c72f12672d1e289d4266b2af23
+ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683775"
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "9000046"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guia do programa de provedor de soluções de nuvem, contratos, listas de preços e ofertas
 
-**Aplicável a**
+**Aplica-se ao**
 
 -  Partner Center
 -  Partner Center for Microsoft Cloud for US Government
@@ -31,6 +31,9 @@ Examine as informações neste artigo para entender os requisitos para a partici
 Examine os requisitos para se tornar um parceiro no programa de provedor de soluções na nuvem.
 
 [Guia do programa para parceiros de Provedor de Soluções na Nuvem](http://go.microsoft.com/fwlink/p/?LinkId=617100)
+
+>[!Note]
+>Você deve exigir uma letra de status de certificação ou confirmação, você pode solicitar ao [contatar o suporte](https://partner.microsoft.com/pcv/servicerequests/create).
 
 ## <a name="cloud-solution-provider-partner-agreement"></a>Contrato de parceiro do Provedor de Solução na Nuvem
 

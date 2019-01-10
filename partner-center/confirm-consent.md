@@ -7,19 +7,19 @@ author: v-petand
 ms.author: v-petand
 keywords: cliente, os clientes, consentimento
 ms.localizationpriority: medium
-ms.openlocfilehash: baab5e0fb3ac01284b210a2059b006ee2e17f921
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 356782420046cb8b49ac4e05981becd253d7049a
+ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795279"
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "9000026"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Confirmar aceitação do cliente do contrato de nuvem da Microsoft
 
-**Aplicável a**
+**Aplica-se ao**
 -  Partner Center
 
-Como um parceiro, você precisará obter aceitação do cliente do contrato de nuvem da Microsoft antes de você pode solicitar produtos da Microsoft e serviços para esse cliente. Para ajudar melhor os parceiros atender aos requisitos de conformidade, Microsoft solicita que os parceiros para confirmar a aceitação, fornecendo os seguintes detalhes sobre a pessoa que aceitem o contrato: 
+Como um parceiro, você precisará obter aceitação do cliente do contrato de nuvem da Microsoft antes de você pode solicitar produtos da Microsoft e serviços para esse cliente. Para ajudar melhor os parceiros atender aos requisitos de conformidade, Microsoft solicita que os parceiros para confirmar a aceitação, fornecendo os seguintes detalhes em relação à pessoa que aceitem o contrato: 
 
 -   Nome
 
@@ -64,19 +64,22 @@ Para saber mais, consulte a [confirmação de aceitação de cliente do contrato
 ### <a name="confirm-customer-acceptance-for-a-new-customer"></a>Confirmar aceitação do cliente para um novo cliente
 
 Use o procedimento a seguir para confirmar a aceitação do cliente enquanto você cria um novo locatário do cliente no Partner Center. Observe que você deve ser um agente administrador ou agente de vendas para fazer isso. 
-1.  Selecione **os clientes**e, em seguida, o **novo cliente**.
+1.  Selecione **os clientes**e, em seguida, o **novo cliente** e, em seguida, selecione **as informações de conta**.
 
 2.  Insira as informações sobre a **empresa** e **contato principal**.
+
+![Informações da empresa](images/mca/mca1.png)
 
 3.  Sob o **contrato de nuvem da Microsoft**, selecione **o cliente aceitou o contrato de nuvem da Microsoft mais recente**. 
 
 4.  Em **Data de aceitação do contrato**, insira a data adequada. Você não pode defini-lo para uma data futura.
 
-5.  Insira os detalhes do usuário que fornecido a aceitação. 
+5.  Insira os detalhes do usuário que é fornecido a aceitação. 
 
-    Por padrão, as informações de usuário de contato principal são exibidas. Se isso não estiver correto, selecione a **atualização** e, em seguida, insira o **nome**, **Sobrenome**, **endereço de Email**, e **número de telefone* (opcional da pessoa que aceitem o contrato).
+![Adicionar data de aceitação](images/mca/MCA3.png)
 
-    **Observação:** Antes de confirmação do cliente aceitação se torna obrigatória, que você pode ignorar confirmação não selecionar a opção que **o cliente aceitou o contrato da Microsoft cloud mais recente**e, em seguida, selecionando **Avançar**.
+Por padrão, as informações de usuário de contato principal são exibidas. Se isso não estiver correto, selecione a **atualização** e, em seguida, insira o **nome**, **Sobrenome**, **endereço de Email**, e **número de telefone* (opcional da pessoa que aceitem o contrato).
+
 
 6.  Selecione **Avançar** para continuar com as etapas restantes para criar o locatário do cliente.
 
@@ -86,9 +89,11 @@ Você deve ser um agente administrador ou agente de vendas para fazer isso.
 
 1.  Selecione **clientes**e, em seguida, localize e selecione o cliente que você deseja ver. 
 
-2.  Selecione a **conta**.
+2.  Selecione **as informações de conta**.
 
 3.  Sob o **contrato da Microsoft cloud**, selecione a **atualização**.
+
+![Update](images/mca/mca4.png)
 
 4.  Insira o **nome**, **Sobrenome**, **endereço de Email**e **número de telefone** (opcional do usuário que aceitem o contrato).
 
@@ -106,7 +111,6 @@ Se você tentar criar uma nova ordem para um cliente existente que você não ti
 
 3.  Selecione **Salvar e continuar**.
 
-**Observação:** Antes de confirmação de aceitação do cliente se torna obrigatória, você pode ignorar confirmação selecionando **Cancelar**.
 
 ### <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a>Recuperar a confirmação de aceitação do cliente para um cliente existente
 
@@ -114,7 +118,7 @@ Você pode recuperar a confirmação de aceitação do cliente para um cliente e
 
 1.  Selecione **clientes**e, em seguida, localize e selecione o cliente que você deseja ver. 
 
-2.  Selecione a **conta**.
+2.  Selecione **as informações de conta**.
 
 3.  Sob o **contrato de nuvem da Microsoft**, você verá ou não confirmação foi fornecida para este cliente.
 

@@ -7,12 +7,12 @@ keywords: indicações, responder às indicações, clientes em potencial, oport
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c0c4dcb50a5805b0ef3a1e7f698b030a61818cc
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.openlocfilehash: 0a654ac3a549d420d1684abe2174a5951026e242
+ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776480"
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "9000036"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Expandir seus negócios de parceiro da Microsoft 
 
@@ -41,4 +41,4 @@ Use o Partner Center para:
 Vender para setores especializados como sem fins lucrativos que organizações estejam e educação|[Vender para setores especializados](get-special-pricing-for-offers.md)|Parceiros CSP|
 |Expanda seus negócios pelas muitas atividades disponíveis no programa de cooperação de incentivos. Declarações de arquivo para as atividades por meio do Partner Center.| [Criar e gerenciar as reivindicações de incentivos](create-incentives-claims.md)|Parceiros CSP|
 |Criar novos pacotes de software, incluindo ofertas de terceiros que funcionam com o software Microsoft que você já estiver vendendo|[Descobrir as ofertas de terceiros](third-party-offers.md)|Parceiros CSP|
-|
+|Sua empresa é uma estrela em vender e gerenciamento do Azure? Aplicar para se inscrever no programa provedor de serviços do Azure especialista em Microsoft|[Programa de provedor de serviços especialista em Microsoft Azure](azure-expert-msp.md)|Parceiros CSP|
