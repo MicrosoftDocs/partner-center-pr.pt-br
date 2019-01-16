@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: cobrança direta, transição, revendedor indireto
-ms.openlocfilehash: a4a09a4302775fb34cf45f37aed152a765e75ff8
-ms.sourcegitcommit: fe4e7cb7effea3343aec1be96a64323022822e84
+ms.openlocfilehash: f99a6bcffc3b8279ffebd00c0a6f4d834f7b4939
+ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/14/2019
-ms.locfileid: "9004622"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "9011103"
 ---
 ## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>Transição do parceiro direto do provedor de soluções na nuvem (CSP) para o revendedor indireto do CSP 
 
@@ -153,6 +153,8 @@ Gerenciar seus clientes de cobrança direta e seus clientes do revendedor indire
 
 ## <a name="enroll-for-indirect-reseller-incentives"></a>Inscrever-se para receber incentivos revendedor indireto 
 
-Depois que você se inscrever-se com êxito como revendedor indireto no locatário parceiro cobrança direta existente, você receberá um convite para inscrever incentivo revendedor indireto dentro de 30 dias. O convite se baseia no parceiro de conta MPN que está associado ao seu locatário do parceiro CSP. O convite será enviado para o endereço de email associado com a conta do MPN do parceiro. 
+Depois que você se inscrever-se com êxito como um revendedor indireto no locatário parceiro cobrança direta existente, você receberá um convite para inscrever incentivo revendedor indireto dentro de 30 dias. O convite se baseia no parceiro de conta MPN que está associado ao seu locatário do parceiro CSP. O convite será enviado para o endereço de email associado com a conta do MPN do parceiro. 
 
 Você também está qualificados para se inscrever para programas de incentivo de cobrança direta com esse mesmo locatário parceiro. Você deve gerenciar os programas separadamente.
+
+Consulte também [informações adicionais sobre como se tornar um revendedor indireto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) e o [cobrança direta ao revendedor indireto perguntas frequentes sobre](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).

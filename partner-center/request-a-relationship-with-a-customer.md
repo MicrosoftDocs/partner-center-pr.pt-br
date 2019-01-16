@@ -7,12 +7,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 21f94c78227c75124a1835b463aac3ad8fc38eb5
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.openlocfilehash: 5441f38621dc4f498dc869789f416c4910518690
+ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776540"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "9011093"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Conectar com clientes no Partner Center
 
@@ -28,6 +28,8 @@ Observe que a opção para não solicitar permissões não está disponível par
 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Convide um cliente para estabelecer uma relação de revendedor com você
+
+Observe que você pode solicitar uma relação de revendedor com um cliente de dentro do seu país ou sua região de mesmo.
 
 1.  Selecione **clientes** em seu menu **Partner Center** e, em seguida, selecione **solicitar uma relação de revendedor**.
 
