@@ -1,178 +1,183 @@
 {
     "redirections": [
-        {
+  {
     "source_path": "china/add-a-new-customer.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/customer-accounts/2016/10/24/5068.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/add-a-new-customer",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/enroll-in-csp-for-microsoft-cloud-germany.md",
+    "redirect_url": "https://docs.microsoft.com/en-us/partner-center/partner-center-for-microsoft-cloud-germany",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/add-licenses-or-services-to-an-existing-subscription.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/customer-subscriptions/2016/10/24/5062.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/add-licenses-or-services-to-an-existing-subscription",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/assign-licenses-to-users.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/customer-subscriptions/2016/10/24/5108.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/assign-licenses-to-users",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/billing.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/billing/2016/10/24/5129.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/billing",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/check-service-health.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/customer-subscriptions/2016/10/24/5065.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/check-service-health",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/common-billing-scenarios.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/billing/2016/10/24/5088.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/common-billing-scenarios",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/create-a-new-subscription.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/customer-subscriptions/2016/10/24/5056.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/create-a-new-subscription",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/create-user-accounts-and-set-permissions.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/partner-center-account-setup/2016/10/24/5015.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/create-user-accounts-and-set-permissions",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/csp-program-guide-and-agreements.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/csp-program-guide-and-agreements/2016/10/24/5009.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/csp-program-guide-and-agreements",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/customer-accounts.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/customer-accounts/2016/10/24/5126.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/customer-accounts",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/customer-self-support.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/customer-support/2016/10/24/5040.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/customer-self-support",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/customer-subscriptions.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/customer-subscriptions/2016/10/24/5123.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/customer-subscriptions",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/customer-support.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/customer-support/2016/10/24/5116.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/customer-support",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/customize-the-catalog.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/partner-center-account-setup/2016/10/24/5152.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/customize-the-catalog",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/develop-for-partner-center.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/develop-for-partner-center/2016/10/24/5013.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/develop-for-partner-center",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/enrolling-in-the-csp-program.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/enrolling-in-the-csp-program/2016/10/24/5011.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/enrolling-in-the-csp-program",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/index.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/5005.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/index",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/multichannel.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/work-with-other-partners/2016/10/24/5049.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/multichannel",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/multipartner.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/work-with-other-partners/2016/10/24/5052.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/multipartner",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/non-payment-fraud-or-misuse.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/billing/2016/10/24/5089.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/non-payment-fraud-or-misuse",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/partner-center-account-setup.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/partner-center-account-setup/2016/10/24/5133.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/partner-center-account-setup",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/provide-billing-support.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/customer-support/2016/10/24/5037.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/provide-billing-support",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/provide-technical-support.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/customer-support/2016/10/24/5039.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/provide-technical-support",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/read-your-bill.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/billing/2016/10/24/5007.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/read-your-bill",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/report-problems-on-behalf-of-a-customer.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/customer-support/2016/10/24/5047.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/report-problems-on-behalf-of-a-customer",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/report-problems-with-partner-center.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/customer-support/2016/10/24/5044.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/report-problems-with-partner-center",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/request-a-relationship-with-a-customer.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/work-with-other-partners/2016/10/24/5055.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/request-a-relationship-with-a-customer",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/reset-a-user-password.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/partner-center-account-setup/2016/10/24/5148.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/reset-a-user-password",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/see-offers-and-pricing.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/see-offers-and-pricing/2018/07/04/5012.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/see-offers-and-pricing",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/see-your-customer-list.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/customer-accounts/2016/10/24/5075.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/see-your-customer-list",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/suspend-a-subscription.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/customer-subscriptions/2016/10/24/5058.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/suspend-a-subscription",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/update-customer-account-info.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/customer-accounts/2016/10/24/5077.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/update-customer-account-info",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/update-your-partner-profile.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/partner-center-account-setup/2016/10/24/5014.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/update-your-partner-profile",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/use-the-reconciliation-files.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/billing/2016/10/24/5083.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/use-the-reconciliation-files",
     "redirect_document_id": "FALSE"
   },
   {
     "source_path": "china/work-with-other-partners.md",
-    "redirect_url": "http://www.21vbluecloud.com/partner-china/work-with-other-partners/2016/10/24/5119.html",
+    "redirect_url": "https://www.21vbluecloud.com/partner-china/work-with-other-partners",
     "redirect_document_id": "FALSE"
   }
     ]
