@@ -8,12 +8,12 @@ ms.author: v-petand
 keywords: azure, reservas, vm, gerenciar, uso, dimensionamento
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 04a027bf50739434f9a6d155eb8a31f4074185a7
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 344eb01f363c7a79ca27082e3eeb1531889f134b
+ms.sourcegitcommit: 15d8b6de2b8a4c7d01852f5ed3603338d4281b00
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917538"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "9014813"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a><span data-ttu-id="2703c-103">Dimensionamento de VM do Microsoft Azure para uso máximo de reserva do Azure</span><span class="sxs-lookup"><span data-stu-id="2703c-103">Microsoft Azure VM sizing for maximum reservation usage</span></span> 
 
@@ -120,7 +120,7 @@ ms.locfileid: "8917538"
 
 <span data-ttu-id="2703c-161">Você pode obter dados de uso da reserva com a API de utilização do Azure para verificar se o cliente está recebendo o desconto da reserva e para ver a quais VMs (máquinas virtuais) o desconto é aplicado.</span><span class="sxs-lookup"><span data-stu-id="2703c-161">You can get reservation usage data with the Azure utilization API to verify that the customer is getting the reservation discount and to see which VMs (virtual machines) the discount is applied to.</span></span> <span data-ttu-id="2703c-162">Compare o Exemplo A ao Exemplo B para saber como verificar o uso da reserva de um cliente.</span><span class="sxs-lookup"><span data-stu-id="2703c-162">Compare Example A to Example B to see how to verify a customer’s reservation usage.</span></span> 
 
-![Exemplos de uso de reserva](images\usage5.png)
+![Exemplos de uso de reserva](images/usage5.png)
 
 -   <span data-ttu-id="2703c-164">A reservationId identifica a reserva do Azure que foi usada para aplicar o desconto à VM.</span><span class="sxs-lookup"><span data-stu-id="2703c-164">The reservationId identifies the Azure reservation that was used to apply the discount to the VM.</span></span>
 -   <span data-ttu-id="2703c-165">consumptionMeter é a MeterId para a VM que tem o desconto da reserva aplicado a ela.</span><span class="sxs-lookup"><span data-stu-id="2703c-165">consumptionMeter is the MeterId for the VM that has the reservation discount applied to it.</span></span>
