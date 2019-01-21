@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: cobrança direta, transição, revendedor indireto
-ms.openlocfilehash: f99a6bcffc3b8279ffebd00c0a6f4d834f7b4939
-ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
+ms.openlocfilehash: da130f87825c9e5c81bf87de6e8cde49e5148577
+ms.sourcegitcommit: ebba5c5d0fb1603f787a40003995e168f80ff797
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "9011103"
+ms.lasthandoff: 01/21/2019
+ms.locfileid: "9015722"
 ---
 ## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>Transição do parceiro direto do provedor de soluções na nuvem (CSP) para o revendedor indireto do CSP 
 
@@ -39,7 +39,7 @@ Você será capaz de se inscrever no programa de revendedor indireto usando seu 
 4. Selecione Registre-se agora. Sua empresa de revenda indireta usará o locatário do AAD mesmo que você usa para sua empresa direta.
 
 >[!Note]
->A opção de se registrar como um revendedor indireto usando seu locatário do AAD de cobrança direta só está disponível para direcionar os parceiros de cobrança que são identificados de descarregamento de cobrança direta. 
+>Inicialmente, esse novo recurso de transição estarão disponível para parceiros com setembro em datas de aniversário de dezembro. Se você não "t tem uma data de aniversário entre setembro e dezembro, você não verá a funcionalidade no momento. Parceiros com datas de aniversário depois de dezembro de 2018 serão notificados posteriormente depois que o recurso é habilitado para os parceiros.
 
 
 5. Quando o registro for aprovado, entre Partner Center novamente.
@@ -54,7 +54,7 @@ Quando você tiver aceitado o contrato de revendedor indireto, observe que o per
 ![Contrato de revendedor indireto](images/direct/direct3.png)
 
 >[!Important] 
->Depois de se inscrever com êxito como um revendedor indireto usando seu locatário existente de parceiro de cobrança direta, não há nenhuma opção de reversão para remover os recursos de revendedor indireto. Antes de prosseguir com o registro, certifique-se de que você deseja fazer a transição para um revendedor indireto.
+>Depois que você se registrar como um revendedor indireto usando o novo recurso, não há nenhuma opção para reverter para um locatário única cobrança direta. Certifique-se de que você avaliar totalmente suas necessidades de negócios antes de registrar como um revendedor indireto.
 
 ## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>Enquanto você fazer a transição do direct ao revendedor indireto
 
