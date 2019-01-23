@@ -7,14 +7,14 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: cobrança direta, transição, revendedor indireto
-ms.openlocfilehash: da130f87825c9e5c81bf87de6e8cde49e5148577
-ms.sourcegitcommit: ebba5c5d0fb1603f787a40003995e168f80ff797
+ms.openlocfilehash: 8a114829c5460bf169938e69de65a69996dc4010
+ms.sourcegitcommit: 8ab406beefbfd0965ed35d8dfe064b682162a5fa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/21/2019
-ms.locfileid: "9015722"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "9024908"
 ---
-## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>Transição do parceiro direto do provedor de soluções na nuvem (CSP) para o revendedor indireto do CSP 
+## <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transição de provedor de soluções na nuvem (CSP) direcionar parceiro de cobrança para o revendedor indireto do CSP 
 
 **Aplica-se a:**
  - Parceiros CSP

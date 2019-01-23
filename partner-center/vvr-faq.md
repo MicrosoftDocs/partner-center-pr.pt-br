@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: cupons de treinamento, garantia de software, treinamento, validar comprovantes, comprovantes de reserva
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ca745281ed0e37ee6ec2e72df4ede4def17bcc7
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 457f2c7e0e43f03bac0f861ae3f4ec87a1173d0f
+ms.sourcegitcommit: 8ab406beefbfd0965ed35d8dfe064b682162a5fa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015329"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "9024868"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Perguntas Frequentes: Usando a ferramenta de resgate e validação de comprovantes 
 
@@ -33,12 +33,12 @@ A partir do dia 31 de março de 2019, todos os parceiros gerenciará seus compro
 
 **Minha empresa tem migradas do PMC, mas ainda não usamos os programas DPS/SATV nos últimos 18 meses.**
 
-- Contate a [equipe de suporte do PMC](proghelp@microsoft.com). 
+- Contate a [equipe de suporte do PMC](mailto:proghelp@microsoft.com). 
 
 
 **Minha empresa tem migrados do PMC para Partner Center. Será necessário fazer nada específico para funcionar em VVR?** 
 
-- Você poderá usar o VVR no Partner Center.  Para usar o VVR, o administrador de parceiros MPN pode entrar no Partner Center usando seu email da conta de trabalho. Se você deseja adicionar novos usuários, o administrador global ou o administrador do MPN pode fazer isso. Se você tiver acesso ao Partner Center, vá para o **gerenciamento de acesso**, selecione **os usuários**e filtrar **administrador do MPN**. Isso lhe dará uma lista dos administradores MPN da sua empresa.  
+- Você poderá usar o VVR no Partner Center.  Para usar o VVR, o administrador de parceiros MPN pode entrar no Partner Center usando seu email da conta de trabalho. Se você deseja adicionar novos usuários, o administrador global pode fazer isso. Se você tiver acesso ao Partner Center, vá para o **gerenciamento de acesso**, selecione **os usuários**e filtrar **administrador do MPN** do **administrador global**. Isso lhe dará uma lista de MPN e administradores globais da sua empresa.  
 
 **Quero apenas alguns usuários possam acessar VVR**
 
@@ -49,5 +49,5 @@ A partir do dia 31 de março de 2019, todos os parceiros gerenciará seus compro
 - Partner Center exige que você faça logon com uma conta de trabalho (AAD).  CHIP atualmente usa a conta pessoal para logon (MSA ou Live ID).  Ao navegar da VVR no Partner Center para o CHIP, você terá que entrar no CHIP usando seu MSA ou Live ID que está registrado com CHIP.
 
 Para obter informações sobre como se registrar no SATV, leia [programa Software Assurance treinamento comprovantes (SATV) no Partner Center](software-assurance-satv.md).
-
-Para obter informações sobre como se registrar nos programas de Software Assurance DPS, leia [os programas de Software Assurance no Partner Center](software-assurance-dps.md).
+ <!--
+For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->
