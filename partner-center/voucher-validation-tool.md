@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: training, voucher tool, validate voucher, software assurance claims, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: e1c8f12b2e3683aff69383d58e265d5ed895c2ed
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 3ee3449cc4ebde4417bd1b30c3f944ebdbb47d55
+ms.sourcegitcommit: a05b0ee016812cf33febf83d896a20cd39fcd8e1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015330"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "9025330"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>Use a ferramenta de validação de comprovantes e resgate no Partner Center para validar, reservar e resgatar comprovantes 
 
@@ -47,11 +47,13 @@ Quando você tiver reservado um comprovantes de sua lista de comprovantes, você
 ## <a name="redeem-a-voucher"></a>Resgatar um comprovantes
 
 Depois que você já reservou um comprovantes, ele pode ser resgatar. 
+
 1. Na sua lista de comprovantes reservados, selecione o comprovante que deseja resgatar. 
-2. Atualizar a lista de participantes, se necessário e selecione **Update**.
-3. Agora, você verá uma lista de comprovantes **Redeemed** .
+2. Agora, você verá uma lista de comprovantes **Redeemed** .
+
 4. Para criar uma declaração, selecione **criar uma declaração**ou, na página de detalhes de comprovantes, selecione **criar uma declaração**.
-5. Selecionando **criar uma declaração** leva você para a ferramenta de pagamento on-line do Software Assurance comprovantes benefício (SAVB) para Microsoft da fatura.
+
+5. Selecionando **criar uma declaração** leva você para a [Ferramenta de pagamento Online do Software Assurance comprovantes benefício (SAVB)](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) para Microsoft da fatura.
 
 
 ### <a name="cancel-a-voucher"></a>Cancelar uma comprovantes
