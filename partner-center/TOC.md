@@ -12,8 +12,9 @@
 
 # [Provedor de Soluções na Nuvem](csp-overview.md)
 ## [Inscreva-se no programa Provedor de Soluções na Nuvem](enrolling-in-the-csp-program.md)
-## [Novos requisitos de parceiros diretos no CSP](direct-partner-new-requirements.md) 
-## [Inscrever-se como um Fornecedor de Painel de Controle](enroll-as-cpv.md)
+## [Novos requisitos de parceiro direto do CSP](direct-partner-new-requirements.md) 
+## [Faça a transição do parceiro direto do Provedor de Soluções na Nuvem (CSP) para o revendedor indireto do CSP](transition-direct-to-indirect.md)
+## [Inscreva-se como um Fornecedor de Painel de Controle](enroll-as-cpv.md)
 ###[Você deve habilitar a Autenticação Multifator (MFA) em seu locatário para obter acesso a esta página](enable-mfa.md)
 ## [Contratos, listas de preços e ofertas do CSP](csp-documents-and-learning-resources.md)
 ## [Moedas e mercados regionais do CSP](regional-authorization-overview.md)
@@ -42,10 +43,10 @@
 ## [Solicitações de incentivos](claims-overview.md)
 ### [Criar e gerenciar as reivindicações de incentivos](create-incentives-claims.md)
 ### [Requisitos básicos para reivindicações de incentivos](core-requirements.md)
-### [Visão geral de pagamento de reivindicações de incentivos](incentives-payouts.md)
+### [Visão geral de pagamento para reivindicações de incentivos](incentives-payouts.md)
+## [Programa de Provedor de serviços de especialista no Microsoft Azure](azure-expert-msp.md)
 
-
-# [Cobrança e impostos](billing.md)
+# [Cobrança e taxas](billing.md)
 ## [Visão geral de cobrança do CSP](billing-basics.md)
 ## [Perguntas frequentes sobre os novos recursos de cobrança](faq-about-new-billing-features.md)
 ## [Ler sua cobrança](read-your-bill.md)
