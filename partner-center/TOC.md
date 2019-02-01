@@ -1,26 +1,28 @@
-# [Saiba mais sobre o Microsoft Partner Center](index.md)
+# [Sobre o Microsoft Partner Center](index.md)
 
 # [Associação ao Partner Network](mpn-overview.md)
-## [Transição do PMC para o Partner Center](pmc-to-partner-center.md)
-## [Criar uma conta do Partner Center](mpn-create-a-partner-center-account.md)
+## [Crie uma conta do Partner Center](mpn-create-a-partner-center-account.md)
 ## Ofertas de associação
 ### [Action Pack](mpn-get-action-pack.md)
 ### [Renovar suas ofertas](renew-mpn-offers.md)
 ## [Competências](learn-about-competencies.md)
 ## [Benefícios](manage-your-partner-network-benefits.md)
-
+## [Programas de Software Assurance](software-assurance-lp.md)
+### [Programa Software Assurance Training Voucher (SATV) no Partner Center](software-assurance-satv.md)
+### [Usar a ferramenta de validação de comprovantes e resgate no Partner Center para validar, reservar e resgatar comprovantes](voucher-validation-tool.md)
+### [Perguntas frequentes: Como usar a ferramenta de resgate e validação de comprovantes](vvr-faq.md)
+### [Serviços de planejamento do Software Assurance no Partner Center ](software-assurance-dps.md)
 
 # [Provedor de Soluções na Nuvem](csp-overview.md)
 ## [Inscreva-se no programa Provedor de Soluções na Nuvem](enrolling-in-the-csp-program.md)
 ## [Novos requisitos de parceiro direto do CSP](direct-partner-new-requirements.md) 
-## [Faça a transição do parceiro direto do Provedor de Soluções na Nuvem (CSP) para o revendedor indireto do CSP](transition-direct-to-indirect.md)
-## [Inscreva-se como um Fornecedor de Painel de Controle](enroll-as-cpv.md)
-###[Você deve habilitar a Autenticação Multifator (MFA) em seu locatário para obter acesso a esta página](enable-mfa.md)
+##[Transição de Provedor de Soluções na Nuvem (CSP) direcionar parceiro de cobrança para o revendedor indireto do CSP](transition-direct-to-indirect.md)
 ## [Contratos, listas de preços e ofertas do CSP](csp-documents-and-learning-resources.md)
-## [Moedas e mercados regionais do CSP](regional-authorization-overview.md)
-## [Contratos do Microsoft Cloud por região e idioma](agreements.md)
+## [Visão geral de autorização regional do CSP](regional-authorization-overview.md)
+## [Consolidação de locatários de autorização regional do CSP](csp-regional-authorization-tenant-consolidation.md)
+## [Modelos de contrato de cliente](agreements.md)
 
-## [Nuvens nacionais](csp-national-clouds-overview.md)
+## [Aplicar para venda em nuvens nacionais](csp-national-clouds-overview.md)
 ### [Partner Center para Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
 ### [Partner Center do Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md)
 
@@ -43,11 +45,10 @@
 ## [Solicitações de incentivos](claims-overview.md)
 ### [Criar e gerenciar as reivindicações de incentivos](create-incentives-claims.md)
 ### [Requisitos básicos para reivindicações de incentivos](core-requirements.md)
-### [Visão geral de pagamento para reivindicações de incentivos](incentives-payouts.md)
-## [Programa de Provedor de serviços de especialista no Microsoft Azure](azure-expert-msp.md)
+### [Visão geral de pagamento de reivindicações de incentivos](incentives-payouts.md)
 
-# [Cobrança e taxas](billing.md)
-## [Visão geral de cobrança do CSP](billing-basics.md)
+
+# [Cobrança e impostos](billing.md)
 ## [Perguntas frequentes sobre os novos recursos de cobrança](faq-about-new-billing-features.md)
 ## [Ler sua cobrança](read-your-bill.md)
 ## [Usar os arquivos de reconciliação](use-the-reconciliation-files.md)
@@ -84,12 +85,10 @@
 ### [Mover os clientes de serviços baseados em licença para o programa Provedor de Serviços de Nuvem](transition-seat-based-services.md)
 ### [Vender assinaturas do Minecraft: Education Edition](minecraft-subscriptions.md)
 ### [Vender para setores especializados](Get-special-pricing-for-offers.md)
-### [Vender a GCC do Office 365 Government para clientes do governo qualificados](csp-gcc-overview.md)
 ### [Aumentar a adoção e a satisfação](increasing-adoption-and-satisfaction.md)
 ### [Simplificar a configuração de dispositivos com o Windows Autopilot](autopilot.md)
-##  Ofertas de upgrade ou de transferência para versões mais recentes
-### [Migrar o Dynamics 365 e o Customer Engagement Plan de Basic (ofertas qualificadas) para versões mais recentes](manual-subscription-migration.md)
-### [Migrar as ofertas do Dynamics 365 Business Edition para versões mais recentes](migrate-dynamics-365-to-new.md)
+##  Ofertas de upgrade ou transferência para versões mais recentes
+### [Fazer upgrade de assinaturas do Dynamics AX para o Dynamics 365](manual-subscription-migration.md)
 ### [Migrar inscrições do Office 365 Enterprise E4 para versões do Office 365 mais recentes](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ### [Migrar o Skype for Business Online Plano 1 para versões mais novas do Office 365](skype-retiring.md)
 ### [Transferir assinaturas do Azure](switch-azure-subscriptions-to-a-different-partner.md)
