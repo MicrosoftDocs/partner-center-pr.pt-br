@@ -6,12 +6,12 @@ description: Conheça os diferentes modelos de venda no CSP e decida qual deles 
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 60604fd121c3cf47e85e57bb903e2b4dd2fac96c
-ms.sourcegitcommit: af4378ef9410319adffb938c5a042722ab260ad9
+ms.openlocfilehash: 3962eae9086afb3fa2247e18df7124c9b602b70c
+ms.sourcegitcommit: fb8329bee6e8548770539ab9876fcbc942bd2aab
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "9001696"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "9042580"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscrever-se no programa Provedor de Soluções na Nuvem
 
@@ -20,7 +20,7 @@ ms.locfileid: "9001696"
 - Programa Provedor de Soluções na Nuvem  
 
 
-## <a name="get-started"></a>Comece agora
+## <a name="get-started"></a>Introdução
 
 A demanda crescente por serviços e soluções baseadas em nuvem oferece muitas oportunidades para os parceiros da Microsoft de todos os tamanhos para criar empresas de solução em nuvem rentáveis. Os parceiros que estão prontos para se inserir no mercado, mas que não querem gerenciar vários fornecedores ou que podem não ter uma infraestrutura de cobrança e suporte de cliente de ponta a ponta, podem inscrever-se no programa de provedor de soluções na nuvem (CSP) da Microsoft como revendedores indiretos.
 
@@ -71,6 +71,15 @@ Como um parceiro direto, você possui a relação de ponta a ponta com o cliente
 |**Contas a receber** |A infraestrutura organizacional para gerenciar o cliente de cobrança e provisionamento. 
 
 
+Depois que você examine os requisitos mínimos, você deve preencher um questionário de validação rápida para confirmar sua qualificação. 
+
+[Avaliação de provedor de soluções de nuvem](https://partner.microsoft.com/cloud-solution-provider/assessment)
+
+- Depois que você se inscrever e atender aos critérios de aceitação como um parceiro direto, o administrador global poderá configurar sua conta, adicionar funcionários, atribuir funções e permissões a eles de acordo com o trabalho de cada um e configurar o perfil da organização.
+
+- Se você tiver trabalhado com os clientes que você deseja continuar a trabalhar com por meio do Partner Center, você precisará [associá-los](request-a-relationship-with-a-customer.md) à sua conta no Partner Center. Dessa forma, a Microsoft poderá conectar sua cobrança e faturamento a eles. 
+
+Para obter informações sobre como fazer a transição de um parceiro de cobrança direta para um revendedor indireto, leia [a transição de parceiro de cobrança direta de provedor de soluções na nuvem (CSP) ao revendedor indireto do CSP](transition-direct-to-indirect.md)
 
 ## <a name="csp-regional-markets-and-currencies"></a>Moedas e mercados regionais do CSP
 
