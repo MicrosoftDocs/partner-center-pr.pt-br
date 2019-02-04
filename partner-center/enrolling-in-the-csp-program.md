@@ -6,12 +6,12 @@ description: Conheça os diferentes modelos de venda no CSP e decida qual deles 
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3962eae9086afb3fa2247e18df7124c9b602b70c
-ms.sourcegitcommit: fb8329bee6e8548770539ab9876fcbc942bd2aab
+ms.openlocfilehash: 56a67d5843394e05007f54683ad4baec93033eb7
+ms.sourcegitcommit: 09ec3a0f1bcf90b52199447314f6905c91dc15e3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "9042580"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043505"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscrever-se no programa Provedor de Soluções na Nuvem
 
@@ -56,28 +56,26 @@ Para saber mais sobre o que é necessário para venda no programa CSP, como um r
 
 
 
-### <a name="enroll-as-a-direct-partner"></a>Inscrever-se como um parceiro direto
+### <a name="enroll-as-a-direct-bill-partner"></a>Inscrever-se como um parceiro de cobrança direta
 
-Como um parceiro direto, você possui a relação de ponta a ponta com o cliente e com a Microsoft. Atualizamos os requisitos de registro para parceiros de cobrança direta a partir de 31 de agosto de 2018. Esses novos requisitos ajudará a acelerar o crescimento dos negócios com o modelo de registro correto do CSP e fortalecer suas relações de cliente com serviços de valor agregado e suporte. 
+Como um parceiro de cobrança direta, você possui a relação de ponta a ponta com o cliente e com a Microsoft. Atualizamos os requisitos de registro para parceiros de cobrança direta a partir de 31 de agosto de 2018. Esses novos requisitos ajudará a acelerar o crescimento dos negócios com o modelo de registro correto do CSP e fortalecer suas relações de cliente com serviços de valor agregado e suporte. 
 
 ### <a name="minimum-requirements"></a>Requisitos mínimos
 
 |**Requisito**|                             |
 |--------------------------------|--------------------------------------------------------------|
-|**ID do MPN**   |Uma ID ativa do Microsoft Partner Network (MPN) para o local de negócios.   |
+|**ID do MPN**   |Uma ID ativa do Microsoft Partner Network (MPN) para o local de negócios.    |
 |**Endosso**   |A autoridade para aceitar e assinar contratos legais em nome de sua organização.|
-|**Suporte**   |Suporte a capacidade de fornecer o primeiro nível de produto de nuvem para seus clientes.|
+|**Suporte**   |Suporte a capacidade de fornecer o primeiro nível de produto de nuvem para seus clientes. Um plano de suporte da Microsoft, avançada suporte para parceiros (ASfP) ou o suporte Premier para parceiros (PSfP), dependendo de suas necessidades. [Planos de suporte de comparação](https://partner.microsoft.com/en-US/support/partnersupport). |
 |**Serviço gerenciado**   |Pelo menos um serviço gerenciado, IP serviço ou aplicativo de solução do cliente. Saiba mais sobre como adicionar [Serviços gerenciados](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider).|
 |**Contas a receber** |A infraestrutura organizacional para gerenciar o cliente de cobrança e provisionamento. 
 
 
-Depois que você examine os requisitos mínimos, você deve preencher um questionário de validação rápida para confirmar sua qualificação. 
+Depois que você examine os requisitos mínimos acima, você deve preencher um questionário de validação rápida para confirmar sua qualificação. 
 
-[Avaliação de provedor de soluções de nuvem](https://partner.microsoft.com/cloud-solution-provider/assessment)
+[Questionário de provedor de soluções de nuvem](https://partner.microsoft.com/cloud-solution-provider/assessment)
 
-- Depois que você se inscrever e atender aos critérios de aceitação como um parceiro direto, o administrador global poderá configurar sua conta, adicionar funcionários, atribuir funções e permissões a eles de acordo com o trabalho de cada um e configurar o perfil da organização.
-
-- Se você tiver trabalhado com os clientes que você deseja continuar a trabalhar com por meio do Partner Center, você precisará [associá-los](request-a-relationship-with-a-customer.md) à sua conta no Partner Center. Dessa forma, a Microsoft poderá conectar sua cobrança e faturamento a eles. 
+Avaliação do questionário determina sua qualificação para se inscrever no programa CSP cobrança direta. Depois que tiver confirmado por meio do questionário que atendem aos critérios de cobrança direta e enviaram o formulário de inscrição, executamos uma análise de negócios da sua empresa, incluindo uma verificação de crédito. Se você for um crédito aprovado, você precisará confirmar a compra de plano de um ASfP ou PSfP e, finalmente, aceite o contrato de termos de cobrança direta para começar a transações com clientes como um parceiro de cobrança direta.
 
 Para obter informações sobre como fazer a transição de um parceiro de cobrança direta para um revendedor indireto, leia [a transição de parceiro de cobrança direta de provedor de soluções na nuvem (CSP) ao revendedor indireto do CSP](transition-direct-to-indirect.md)
 
