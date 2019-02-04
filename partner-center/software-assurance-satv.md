@@ -7,14 +7,14 @@ author: labrenne
 ms.author: labrenne
 keywords: cupons de treinamento, garantia de software, treinamento, inscrever-se no SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0183f63272c06a9b2bcfeffd89b319258c657bfb
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 305ee8fad4de9f9928dd07ee49dd4f4703d0bcc1
+ms.sourcegitcommit: b62cbe79eaa01ccb55a8a2f7875eba1640a186dd
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015328"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043583"
 ---
-# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programa do Software Assurance treinamento comprovantes (SATV) no Partner Center
+# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programa Software Assurance Training Voucher (SATV) no Partner Center
 
 Expanda seus negócios registrando-se em programas de parceiros de Software Assurance. Microsoft compensa parceiros de fornecimento de treinamento, planejamento e outros serviços para clientes corporativos que tenham o Software Assurance. 
 
@@ -22,7 +22,7 @@ Como um parceiro de treinamento aprovados software assurance, Microsoft compensa
 
 Se você não estiver familiarizado com os serviços de treinamento do Software Assurance, consulte [Cupons de treinamento do Software Assurance](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/default.aspx)
 
-## <a name="get-started"></a>Comece agora
+## <a name="get-started"></a>Introdução
 
 Se você for iniciante no serviços de treinamento do Software Assurance, siga todas as etapas abaixo. Se você já estiver ativo no programa de comprovantes de treinamento e suas informações de conta de parceiro foi movidas para o Partner Center, comece na etapa quatro (4) abaixo. 
 
@@ -72,7 +72,7 @@ Leva até 24 horas para nossos sistemas refletir que você ativamente estiver in
 
 ## <a name="reserve-and-redeem-training-vouchers"></a>Reservar e resgatar cupons de treinamento
 
-Você agora é capazes de reservar e resgatar comprovantes e começar treinamento para clientes. Administrador do MPN da sua empresa tem acesso para a ferramenta de validação de comprovantes e resgate (VVR) no Partner Center e pode adicionar usuários que precisam trabalhar na ferramenta. Para obter mais informações sobre o VVR, leia [os comprovantes gerenciar a ferramenta de resgate e validação de comprovantes](voucher-validation-tool).
+Você agora é capazes de reservar e resgatar comprovantes e começar treinamento para clientes. Administrador do MPN da sua empresa tem acesso para a ferramenta de validação de comprovantes e resgate (VVR) no Partner Center e pode adicionar usuários que precisam trabalhar na ferramenta. Para obter mais informações sobre o VVR, leia [os comprovantes gerenciar a ferramenta de resgate e validação de comprovantes](voucher-validation-tool.md).
 
 >[!Note]
 >A ferramenta VVR foi movido para o Partner Center. A partir de março de 2019, o site da ferramenta VVR antigo será desativado.
