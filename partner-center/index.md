@@ -4,21 +4,21 @@ hide_bc: true
 title: Comece aqui para obter ajuda com o Partner Center
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: Ajuda do Partner Center para expandir seus negócios no programa provedor de soluções na nuvem da Microsoft. Configurar sua conta, conectar-se com clientes, comprar uma assinatura do Action Pack e encontrar mais informações para parceiros nos programas CSP e MPN. 
+description: Partner Center pode ajudar você a expandir seus negócios no programa provedor de soluções de nuvem da Microsoft (CSP). Configurar sua conta, conectar-se com clientes, comprar uma assinatura do Action Pack e encontrar mais informações para parceiros nos programas CSP e MPN. 
 author: labrenne
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f15360e6d1c8f03a856fc97e78e854d2496a4e9
-ms.sourcegitcommit: c937b024b2151c8ed5a69a354b731fd2db44a570
+ms.openlocfilehash: d2070ff75dfa1197349b2cfdf55e5b06aeb4d8ea
+ms.sourcegitcommit: b62cbe79eaa01ccb55a8a2f7875eba1640a186dd
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/29/2019
-ms.locfileid: "9035466"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043563"
 ---
-# <a name="partner-center-help"></a>Ajuda do Partner Center
+# <a name="welcome-to-partner-center"></a>Bem-vindo ao Partner Center
 
-Tem dúvidas sobre as práticas recomendadas para gerenciar sua conta, conectando-se com clientes, comprar uma assinatura do Action Pack, se inscrever em um programa de incentivos? Encontre que as respostas no Partner Center biblioteca da Ajuda.
+Microsoft Partner Center é o único local para gerenciar sua relação de ponta a ponta com a Microsoft. Ele tem ferramentas e recursos para ajudá-lo a fazer transações e expandir seus negócios, incluindo opções de associação, indicações de cliente e o programa de provedor de soluções na nuvem (CSP). Saiba mais sobre as práticas recomendadas para gerenciar sua conta, conectando-se com clientes, comprar uma assinatura do Action Pack e se inscrever em um programa de incentivos na biblioteca de Ajuda do Partner Center.
 
 
 <ul id="products1" class="cardsF cols cols3 panelContent singlePanelContent">
@@ -27,7 +27,7 @@ Tem dúvidas sobre as práticas recomendadas para gerenciar sua conta, conectand
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
-                        <div class="cardImage bgdAccent1">
+                        <div class="cardImage">
                             <img alt="" src="images/message-icon.png" data-linktype="external">
                         </div>
                     </div>
@@ -45,7 +45,7 @@ Tem dúvidas sobre as práticas recomendadas para gerenciar sua conta, conectand
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
-                        <div class="cardImage bgdAccent1">
+                        <div class="cardImage">
                             <img alt="" src="images/yammer-logo.png" data-linktype="external">
                         </div>
                     </div>
