@@ -3,16 +3,16 @@ title: Vender assinaturas do Minecraft Education Edition para clientes da área 
 ms.topic: article
 ms.date: 10/29/2018
 description: Vender assinaturas do Minecraft Education Edition para clientes da área de educação qualificados.
-author: KPacquer
-ms.author: kenpacq
-keywords: Parceiros Education autorizados
+author: labrenne
+ms.author: labrenne
+keywords: Parceiros Education autorizados, educação, vender para educação, escolas
 ms.localizationpriority: medium
-ms.openlocfilehash: aa86e62d19d3f83ad828afbc8cd1c9880a6c93c3
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 04014dc307744c9eda7038a3e820cd49957fc15c
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796579"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062324"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vender assinaturas do Minecraft: Education Edition para clientes da área de educação
 
@@ -28,7 +28,7 @@ Os parceiros que trabalham com instituições de ensino podem oferecer assinatur
  
 ## <a name="buy-minecraft-education-edition-on-behalf-of-your-customer"></a>Comprar o **Minecraft: Education Edition** em nome de seu cliente
 
-Siga as etapas abaixo para comprar **Minecraft: Education Edition** assinaturas no [Partner Center](https://partnercenter.microsoft.com/pcv/dashboard/overview
+Siga as etapas abaixo para comprar **Minecraft: Education Edition** as assinaturas no [Partner Center](https://partnercenter.microsoft.com/pcv/dashboard/overview
 ) (entrada obrigatória):
 
   1.  Selecione **os clientes** a partir do menu Partner Center.

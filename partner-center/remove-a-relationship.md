@@ -3,15 +3,15 @@ title: Remova uma relação com um revendedor ou um cliente | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Remover uma relação remove qualquer relação comercial fechada do modo de exibição no Partner Center.
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2134a8ba118960dabe235d07675b3e340cc2ba16
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 3697d32af38e0f9cd496a84d442fb05390f63101
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995670"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062264"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>Remover uma relação de revendedor ou um cliente
 
@@ -28,11 +28,11 @@ Este recurso:
 *  Remove a capacidade de você fazer compras em nome do cliente
 
 Para remover a relação, primeiro você precisará cancelar as reservas do Azure RI, cancelar as compras de software e suspender todas as assinaturas ativas restantes:
-1. Suspenda todas as assinaturas ativas. No Partner Center, vá para **os clientes** > selecione um cliente > **assinaturas** > selecione uma assinatura > **suspensa**. 
+1. Suspenda todas as assinaturas ativas. No Partner Center, vá para **clientes** gt _ selecione um cliente gt _ **assinaturas** gt _ selecione uma assinatura gt _ **suspensa**. 
 
    Repita esse procedimento para cada assinatura ativa.
 
-2. Remover a relação no Partner Center: do Partner Center, vá para **os clientes** > selecione um cliente > **conta** > **Remover a relação de revendedor**.
+2. Remover a relação no Partner Center: no Partner Center, vá para **clientes** gt _ selecione um cliente gt _ **conta** > **Remover a relação de revendedor**.
 
    Observe, se todas as assinaturas ainda estão ativas, o link **Remover a relação de revendedor** ficará inativo. 
 

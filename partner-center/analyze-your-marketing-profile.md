@@ -3,16 +3,16 @@ title: Analisar a eficácia do seu perfil de negócios | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Avaliar, negociar e responder a indicações por meio do Partner Center.
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: afd718f98cdd7f54b7a2ea0731ece90c7e338f30
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: e621ecb2c57b150b35aa363a19a35747a88a3931
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796769"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062254"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>Analisar a eficácia do seu perfil de negócios
 <!-- 
@@ -29,7 +29,7 @@ Depois de divulgar o [perfil de negócios](create-a-marketing-profile.md) da sua
 
 Quando [responder a essas referências](responding-to-referrals.md), você começará a obter dados sobre quantos desses RFIs são transformados em transações de negócios decisivas.
 
-Use esses relatórios ao refinar seus perfis de negócios para gerar mais clientes potenciais e mais clientes potenciais relevantes. Seus dados mostram o desempenho do perfil, analisam tendências e identificam as áreas que exigem ação. No menu Partner Center, vá para **indicações > páginas de Marketing**.
+Use esses relatórios ao refinar seus perfis de negócios para gerar mais clientes potenciais e mais clientes potenciais relevantes. Seus dados mostram o desempenho do perfil, analisam tendências e identificam as áreas que exigem ação. No menu Partner Center, vá para **páginas de Marketing gt _ indicações**.
 
 Esses relatórios mostram o desempenho dos perfis de negócios em todas as regiões. Os relatórios mostram os dados nos últimos 90 dias, agrupados por semanas.
 

@@ -4,15 +4,15 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Para uma exibição detalhada do item de linha de cada encargo em um ciclo de cobrança, baixe os arquivos de reconciliação do Partner Center.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: dac94723d8939f83628dfc8cd0992ab3516fa5a1
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 361a2b56b9256a6155927848e8fbd6de5311a7a0
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995940"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062374"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar os arquivos de reconciliação
 
@@ -179,7 +179,7 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 </tr>
 <tr class="even">
 <td>Imposto</td>
-<td><p>Valor do imposto cobrado, com base em seu mercado & #39; s regras fiscais e em circunstâncias específicas.</p></td>
+<td><p>Valor do imposto cobrado, com base no seu market& #39; s regras de fiscais e em circunstâncias específicas.</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -194,7 +194,7 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Cliente & #39; o nome da organização s como informado no Partner Center. Isso é muito importante para reconciliar a fatura com as informações de seu sistema.</p></td>
+<td><p>Customer& #39; o nome da organização s como informado no Partner Center. Isso é muito importante para reconciliar a fatura com as informações de seu sistema.</p></td>
 <td>Cliente de teste A</td>
 </tr>
 <tr class="even">
@@ -209,7 +209,7 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Cliente & #39; o nome de domínio s, usado para ajudar a identificar o cliente. Isso não deve ser usado para identificar exclusivamente o cliente como o cliente/parceiro pode atualizar o domínio banidos/padrão através do portal do O365. Este campo pode aparecer em branco até o segundo ciclo de cobrança.</p></td>
+<td><p>Customer& #39; o nome de domínio s, usado para ajudar a identificar o cliente. Isso não deve ser usado para identificar exclusivamente o cliente como o cliente/parceiro pode atualizar o domínio banidos/padrão através do portal do O365. Este campo pode aparecer em branco até o segundo ciclo de cobrança.</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -262,7 +262,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Cliente & #39; o nome da organização s como informado no Partner Center. Isso é muito importante para reconciliar a fatura com as informações de seu sistema.</p></td>
+<td><p>Customer& #39; o nome da organização s como informado no Partner Center. Isso é muito importante para reconciliar a fatura com as informações de seu sistema.</p></td>
 <td>Cliente de teste A</td>
 </tr>
 <tr class="even">
@@ -383,7 +383,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>Valor do imposto cobrado, com base em seu mercado & #39; s regras fiscais e em circunstâncias específicas.</p></td>
+<td><p>Valor do imposto cobrado, com base no seu market& #39; s regras de fiscais e em circunstâncias específicas.</p></td>
 <td>U$ 0,08</td>
 </tr>
 <tr class="even">
@@ -453,7 +453,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Cliente & #39; o nome de domínio s, usado para ajudar a identificar o cliente. Este campo pode aparecer em branco até o segundo ciclo de cobrança.</p></td>
+<td><p>Customer& #39; o nome de domínio s, usado para ajudar a identificar o cliente. Este campo pode aparecer em branco até o segundo ciclo de cobrança.</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">

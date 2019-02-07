@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Quando você configura assinaturas de serviços Microsoft para seus clientes, convém atribuir o suporte técnico desses produtos a um revendedor designado, em vez de fornecer o suporte por conta própria.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 keywords: agente de ajuda, suporte, atribuir contato de suporte, contato de suporte designado
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c1bcb937a6020e1e6508c6f53e2790680b625051
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 89b5d6bc493e1de970425bb35bbabb90cc963510
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917248"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062344"
 ---
 # <a name="assign-support-contacts"></a>Atribuir contatos de suporte
 

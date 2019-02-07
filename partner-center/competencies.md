@@ -3,17 +3,17 @@ title: Ganhar competências Microsoft | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Ganhe competências Prata e Ouro da Microsoft para demonstrar seu conhecimento comprovado no fornecimento de soluções de qualidade em uma área especializada de negócios
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 keywords: competências, afiliação silver, afiliação gold, mpn, MAPS, proficiência, benefícios, metas de desempenho, metas de habilidades
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 98b8c837001ee8b24288f658d6fe0355fc91fc40
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 10b0b28e3df005df7503c410f98166bd166d9523
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796889"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062334"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -58,15 +58,15 @@ As **metas com base em habilidades** incluem:
 
 Algumas competências têm várias maneiras para atingir o nível Silver ou Gold.
 
-Para verificar seu progresso em uma competência, no Partner Center Partner Center, vá para o **parceria > competências**. 
+Para verificar o progresso em uma competência, no Partner Center Partner Center, vá para a **parceria gt _ competências**. 
 
 ### <a href="" id="associating_achievements"></a>Faça com que seus funcionários se conectem para concluir metas com base em habilidades
 
-1.  Adicione contas de usuário para os funcionários em sua organização. Desde o [Partner Center](http://partnercenter.microsoft.com), vá para **configurações da conta > Adicionar usuário**. (Os usuários do PMC podem adicionar vários usuários por vez, selecionando **Adicionar usuários usando dados do PMC**.)
+1.  Adicione contas de usuário para os funcionários em sua organização. Desde o [Partner Center](http://partnercenter.microsoft.com), vá para a **conta settings gt _ Adicionar usuário**. (Os usuários do PMC podem adicionar vários usuários por vez, selecionando **Adicionar usuários usando dados do PMC**.)
 
     Depois que as contas de usuário forem criadas, enviaremos a elas um novo nome de usuário e senha, e você será solicitado a baixar um arquivo de log que contém as informações para ajudar a restaurar o nome de usuário e senha conforme necessário. Você também pode [configurar as contas de usuário para que os usuários possam redefinir as senhas por si próprios](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started).
 
-2. Peça aos funcionários em sua organização para se conectarem e associarem a conta da Microsoft (MSA) à conta de usuário. (Desde o [Partner Center](http://partnercenter.microsoft.com), vá para **configurações de conta**). Os funcionários podem usar as mesmas ou diferentes MSAs para associar seus exames técnicos e certificações e suas contas por meio da Microsoft Partner University.
+2. Peça aos funcionários em sua organização para se conectarem e associarem a conta da Microsoft (MSA) à conta de usuário. (Desde o [Partner Center](http://partnercenter.microsoft.com), vá para **configurações da conta**). Os funcionários podem usar as mesmas ou diferentes MSAs para associar seus exames técnicos e certificações e suas contas por meio do Microsoft Partner University.
 
 3.  **Aguarde 24 horas** depois que um funcionário tiver associado sua conta ou concluído uma meta com base em habilidades. Após esse tempo, o progresso será exibido na seção **Competências**.
 
