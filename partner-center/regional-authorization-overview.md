@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: CSP mercados, regiões, onde i vender por meio do CSP, ofertas do CSP, regiões, vendem soluções de nuvem, CSP global
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 456a37e965d7594e29df47437dedb587bff46db3
-ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
+ms.openlocfilehash: 081ce3c20dfd0572f267a2483eaf7fed5babc05c
+ms.sourcegitcommit: 004edfd8633620e6b0e0558d818e0dbf32be9e88
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/20/2018
-ms.locfileid: "8980620"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "9065603"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Mercados regionais de programa de provedor de soluções de nuvem e moedas
 
@@ -28,6 +28,14 @@ Antes de você pode solicitar que ofertas do CSP em nome do cliente, o cliente d
 > A partir de 7 de novembro de 2018, você precisará confirmar que um cliente aceitou o contrato de nuvem da Microsoft, fornecendo informações sobre a pessoa que assinou. Para obter mais detalhes, consulte [Confirmar a aceitação do cliente do contrato de nuvem da Microsoft](confirm-consent.md) .
 
 Para determinar onde você pode vender ofertas CSP, encontre o local da sua empresa em uma das listas abaixo. Você deve ter uma ID ativa do Microsoft Partner Network (MPN) para o local em que você deseja vender.  
+
+## <a name="for-unsupported-countries"></a>Países ou regiões sem suporte
+
+Se seu país não for compatível, estabelecer o cliente relação CSP usando a URL de administração do Office. 
+
+- Os parceiros de cobrança direta usar a seguinte url: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0. Substitua **partnertenantguid** por sua ID de locatário. 
+
+- A URL para revendedores indiretos é: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid. Você substituirá **IRtenantguid** com sua ID de locatário. Substitua **IRMPNID** com sua ID do MPN e **IPtenantguid** com sua id de locatário de provedor indireto.
 
 ## <a name="africa-region-and-market"></a>Mercado e região África
 
@@ -337,7 +345,7 @@ Se o local da sua empresa está na lista a seguir, você pode vender ofertas do 
 |  Moçambique     |          |
 |  Omã           |   USD    |
 |  Paquistão       |   USD    |
-|  Palestinian Territory, Occupied |        |
+|  Território Palestino ocupado |        |
 |  Catar          |   USD    |
 |  Arábia Saudita   |   USD    |
 |  Sérvia         |   USD    |
@@ -375,9 +383,9 @@ Se o local da sua empresa for a Rússia, você pode vender ofertas do CSP para o
 |  Rússia         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan region and market
+## <a name="taiwan-region-and-market"></a>Mercado e região de Taiwan
 
-If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
+Se o local da sua empresa for Taiwan, você pode vender ofertas do CSP para clientes em Taiwan.
 
 |  País/Região | Moeda |
 |  -------------- |:--------:|
