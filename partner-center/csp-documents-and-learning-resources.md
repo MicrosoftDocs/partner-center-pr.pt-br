@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: guias do programa csp, guia de programa, acordos de parceria, contrato do cliente, listas de preço, ofertas
 ms.localizationpriority: medium
-ms.openlocfilehash: a58edd5c7643c5c72f12672d1e289d4266b2af23
-ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
+ms.openlocfilehash: 56d18f008237b7d9959afc545f28e67f9b4f72b2
+ms.sourcegitcommit: ba76262db7a479b188f22de823b882f70cdf61c8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "9000046"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "9075179"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guia do programa de provedor de soluções de nuvem, contratos, listas de preços e ofertas
 
@@ -41,7 +41,7 @@ A Microsoft exige que os parceiros assinem este contrato para participar do prog
 
 [Contrato de revendedor de soluções de Nuvem da Microsoft – América do Norte, América Central, América do Sul e Caribe](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
-[Contrato de revendedor de soluções de Nuvem da Microsoft – Ásia, Austrália e Pacífico](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Sep2018_CR.pdf)
+[Contrato de revendedor de soluções de Nuvem da Microsoft – Ásia, Austrália e Pacífico](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
 [Contrato de revendedor de soluções de Nuvem da Microsoft – Europa, Oriente Médio e África](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
@@ -51,7 +51,7 @@ A Microsoft exige que os parceiros assinem este contrato para participar do prog
 
 [Contrato de revendedor de soluções de Nuvem da Microsoft – Taiwan](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Contrato de revendedor de soluções de Nuvem da Microsoft - Microsoft Cloud for US Government](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Sep2018_CR.pdf)
+[Contrato de revendedor de soluções de Nuvem da Microsoft - Microsoft Cloud for US Government](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
 
 ## <a name="microsoft-cloud-agreement-templates"></a>Modelos de contrato do Microsoft Cloud
