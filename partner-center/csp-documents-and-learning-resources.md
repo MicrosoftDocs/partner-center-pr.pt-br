@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: guias do programa csp, guia de programa, acordos de parceria, contrato do cliente, listas de preço, ofertas
 ms.localizationpriority: medium
-ms.openlocfilehash: 56d18f008237b7d9959afc545f28e67f9b4f72b2
-ms.sourcegitcommit: ba76262db7a479b188f22de823b882f70cdf61c8
+ms.openlocfilehash: 3ce6421c103f0f52113dc41ffc3427e7222ceb36
+ms.sourcegitcommit: a9e9b1d1f77922e7aa8a2f900a5ac3ade439dff8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "9075179"
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "9079254"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guia do programa de provedor de soluções de nuvem, contratos, listas de preços e ofertas
 
@@ -56,9 +56,9 @@ A Microsoft exige que os parceiros assinem este contrato para participar do prog
 
 ## <a name="microsoft-cloud-agreement-templates"></a>Modelos de contrato do Microsoft Cloud
 
-Como um parceiro no CSP, você é responsável por revisar os termos e condições da Microsoft, incluindo o uso aceitável dos produtos e serviços Microsoft, com seus clientes. Siga o link abaixo para localizar o contrato da Microsoft Cloud você precisará revisar com novos clientes. 
+Como um parceiro no CSP, você é responsável por revisar os termos e condições da Microsoft, incluindo o uso aceitável dos produtos e serviços Microsoft, com seus clientes. Vá para [modelos de cliente](agreements.md) do contrato da Microsoft Cloud para encontrar o contrato da Microsoft Cloud você precisará revisar com novos clientes. 
 
-Contrato da Microsoft Cloud [modelos de cliente](agreements.md)
+
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Emenda sigilo Professional para o contrato do Microsoft Cloud (Alemanha)
 
