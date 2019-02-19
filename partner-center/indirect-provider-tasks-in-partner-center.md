@@ -6,12 +6,12 @@ description: Como um provedor indireto ou distribuidor, você pode estabelecer u
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 4bbab6f297f96ee12edc032b7f55f7f749933ecc
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 471445521361630ec73ae7490fa363d1bbf19284
+ms.sourcegitcommit: 48684194c75e5ca9df225745b2263a18f2c18943
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795189"
+ms.lasthandoff: 02/19/2019
+ms.locfileid: "9081350"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Parceria com revendedores indiretos no programa de Provedor de Soluções na Nuvem
 
@@ -75,12 +75,65 @@ Para estabelecer uma parceria, mande uma solicitação de parceria por e-mail ao
 
 Dependendo do nível de acesso e envolvimento que deseja que o revendedor tenha, convém levar uma ou mais das ações descritas abaixo.
 
+Para as assinaturas existentes, se você decidir trabalhar com um revendedor indireto, você pode atualizar os detalhes da assinatura para incluir o revendedor indireto.
+
+- Na página de detalhes da assinatura, no campo de **revendedor (ID do MPN)** , adicione o revendedor que você deseja trabalhar com. Isso garante que o revendedor receberá os incentivos apropriados.
+
 | **Para fazer isso** | **Faça isso** | **Onde** |
 |   ------------------   |   -------   |   -----   |
 | Habilitar o revendedor para gerenciar uma conta do cliente e ter permissões de administrador para gerenciar suas assinaturas | Associar um revendedor para uma conta do cliente ao adicionar um novo cliente | Na página **Novo cliente** |
 |Habilitar o revendedor para gerenciar uma conta de cliente do Azure|Associar um revendedor a uma conta de cliente do Azure ao adicionar um novo cliente|No **Portal de serviço do Azure**, selecione [Configurações de Usuário](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para fornecer permissões de **proprietário locatário** ao revendedor indireto|
 | Dê ao revendedor crédito para incentivos | Associar o revendedor à assinatura (nova ou existente) | Na página **Nova inscrição** |
 | Delegar atendimento ao cliente para assinaturas específicas ao revendedor | Selecione o revendedor da lista **Contato de suporte designados** | Na página de detalhes da assinatura: selecione o cliente em sua página **Clientes** e, em seguida, selecione a assinatura do cliente na página **Assinaturas** |
+
+Hoje em dia, provedores indiretos podem usar o painel do Partner Center para pedido e, opcionalmente, escolha um revendedor indireto como o PartnerOnRecord. Se eles não selecionar um revendedor indireto, vamos tratar isso como uma transação de nível 1 e incentivar o provedor indireto como tal. Se eles escolher uma, vamos tratar a ordem como transação de camada 2 e incentivar o provedor indireto e o revendedor indireto adequadamente:
+
+ 
+
+Há também uma experiência onde um provedor indireto também pode atualizar o PartnerOnRecord para as assinaturas existentes:
+
+ 
+
+Você sabe se tivermos documentação existente no indireto como provedores devem gerenciar o PartnerOnRecord configuração por favor?
+O motivo pelo qual que posso fazer isso é porque parece ser um conjunto significativo de transações de camada 2 que não foram configuradas corretamente pelos provedores indiretos, resultando em pagamento de incentivos incorreto. Passar do tempo, os parceiros realizado isso e iniciado indo para a Microsoft para obter um backpay incentivo. Se não tivermos cobertura de documentação nessa área, eu queria obter sua ajuda reunir um.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## <a name="connect-with-customers"></a>Conecte-se com clientes
