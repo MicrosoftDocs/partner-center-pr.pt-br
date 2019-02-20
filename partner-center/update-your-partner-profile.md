@@ -1,14 +1,17 @@
 ---
 title: Atualizar seu perfil de parceiro | Partner Center
 description: Na primeira vez em que você entrar como um administrador, verifique se seus detalhes de suporte estão corretos, arquive isenções de impostos se apropriado e examine as informações de contato em seus perfis.
+MS.Topic: article
+Date: 02/19/29
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
-ms.openlocfilehash: 5fb7852cfb393793dee00127d5397bd1dc55ef11
-ms.sourcegitcommit: 09ec3a0f1bcf90b52199447314f6905c91dc15e3
+MS.Author: evansma
+ms.openlocfilehash: 1e341d9209f59121d16c82a5b3bff752019e691c
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "9043495"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083379"
 ---
 # <a name="update-your-partner-profile"></a><span data-ttu-id="09bfe-103">Atualizar seu perfil de parceiro</span><span class="sxs-lookup"><span data-stu-id="09bfe-103">Update your partner profile</span></span>
 

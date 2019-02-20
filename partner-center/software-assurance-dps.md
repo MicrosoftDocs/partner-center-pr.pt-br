@@ -1,18 +1,18 @@
 ---
 title: Planejamento do Software Assurance serviços no Partner Center | Partner Center
 ms.topic: article
-ms.date: 1/21/19
+ms.date: 01/21/19
 description: Inscrever-se em serviços de planejamento para fornecer o planejamento da implantação de pré-lançamento para clientes corporativos
 author: labrenne
 ms.author: labrenne
 Keywords: pre-deployment, planning, software assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 2998f96ed74fce0eaa3a7b390152837d73b3679b
-ms.sourcegitcommit: e571a701aca40384dbc4928f3a5d3c64736fd5d8
+ms.openlocfilehash: 52a9c71444042cc5de7064ab56f1afd13e3d1338
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "9066013"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083409"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a><span data-ttu-id="95509-103">Serviços de planejamento do Software Assurance no Partner Center</span><span class="sxs-lookup"><span data-stu-id="95509-103">Software Assurance Planning Services in Partner Center</span></span>
 
