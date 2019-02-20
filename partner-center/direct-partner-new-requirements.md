@@ -1,19 +1,19 @@
 ---
 title: CSP direcionar novos requisitos de parceiro | Partner Center
 ms.topic: article
-ms.date: 1/14/2018
+ms.date: 01/14/2018
 Description: If you are currently enrolled in the CSP program as a direct partner, you should prepare to meet these updated support and services requirements.
 program.author: labrenne
 ms.author: labrenne
 keywords: CSP, parceiro direto, cobrança direta, requisitos
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 44410ba70f12e995fa5975bb60e443fd9fb154c0
-ms.sourcegitcommit: c74dad6d7c4775980ed8ca8f0ad3800a2cd07fd7
+ms.openlocfilehash: 80b3f5353c2fab8e0b4049c886407414eeba4771
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/15/2019
-ms.locfileid: "9079747"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083349"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>Novos requisitos de parceiro direto do CSP
 
