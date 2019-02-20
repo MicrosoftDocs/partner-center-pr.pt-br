@@ -5,14 +5,14 @@ ms.date: 10/29/2018
 Description: As a partner, you need to obtain your customer’s acceptance of the Microsoft Cloud Agreement before you can order Microsoft products and services for that customer. To better help partners meet compliance requirements, Microsoft asks partners to confirm acceptance by providing certain details regarding the person who accepted the agreement.
 author: v-petand
 ms.author: v-petand
-keywords: cliente, os clientes, consentimento
+keywords: cliente, clientes, consentir, MCA, contrato de nuvem da Microsoft, modelos de contrato do cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 356782420046cb8b49ac4e05981becd253d7049a
-ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
+ms.openlocfilehash: 0cadf9462152786fd5cb5c70f7bd787caf85658b
+ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "9000026"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083189"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Confirmar aceitação do cliente do contrato de nuvem da Microsoft
 
@@ -31,7 +31,7 @@ Como um parceiro, você precisará obter aceitação do cliente do contrato de n
 
 -   Data de aceitação
 
-Para saber mais, consulte a [confirmação de aceitação de cliente do contrato da Microsoft Cloud perguntas frequentes](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq).
+Para saber mais, consulte a confirmação de aceitação de cliente do contrato da Microsoft Cloud [Perguntas frequentes](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq).
 
 ## <a name="schedule"></a>Agendar
 
@@ -63,7 +63,8 @@ Para saber mais, consulte a [confirmação de aceitação de cliente do contrato
 
 ### <a name="confirm-customer-acceptance-for-a-new-customer"></a>Confirmar aceitação do cliente para um novo cliente
 
-Use o procedimento a seguir para confirmar a aceitação do cliente enquanto você cria um novo locatário do cliente no Partner Center. Observe que você deve ser um agente administrador ou agente de vendas para fazer isso. 
+Use o procedimento a seguir para confirmar a aceitação do cliente enquanto você cria um novo locatário do cliente no Partner Center. Observe que você deve ser um agente administrador ou agente de vendas para fazer isso.
+ 
 1.  Selecione **os clientes**e, em seguida, o **novo cliente** e, em seguida, selecione **as informações de conta**.
 
 2.  Insira as informações sobre a **empresa** e **contato principal**.
@@ -79,7 +80,6 @@ Use o procedimento a seguir para confirmar a aceitação do cliente enquanto voc
 ![Adicionar data de aceitação](images/mca/MCA3.png)
 
 Por padrão, as informações de usuário de contato principal são exibidas. Se isso não estiver correto, selecione a **atualização** e, em seguida, insira o **nome**, **Sobrenome**, **endereço de Email**, e **número de telefone* (opcional da pessoa que aceitem o contrato).
-
 
 6.  Selecione **Avançar** para continuar com as etapas restantes para criar o locatário do cliente.
 

@@ -6,12 +6,12 @@ description: Use estas perguntas frequentes para saber mais sobre o programa CSP
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e51866d5207335ed9391fea08b1f5df2780b05c4
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 8da6afb92a42f04463a34ecb3506fcf9146e15cd
+ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797179"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083209"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Perguntas frequentes para o Partner Center do Microsoft Cloud for US Government
 
@@ -24,6 +24,7 @@ ms.locfileid: "5797179"
 Use estas perguntas frequentes para saber mais sobre o programa CSP (Provedor de Soluções na Nuvem) do Microsoft Cloud for US Government. Você também pode entrar em contato com seu gerente de conta para obter informações adicionais. 
 
 ### <a name="common"></a>Comum
+
 **O que é o Microsoft Cloud para o Governo dos Estados Unidos?**
 
 Projetado para o governo dos Estados Unidos desde o início, Microsoft Cloud para o governo dos Estados Unidos permite que os clientes do setor público nos Estados Unidos — de grandes agências federais a governos de cidades pequenas — selecionem dentre uma variedade de serviços de computação em nuvem. Para melhor atender às necessidades específicas de seus clientes, a Microsoft fez investimentos significativos em datacenters e dedica-se a estar em conformidade com as políticas estaduais e federais, exigências e requisitos dos EUA. 
@@ -68,9 +69,9 @@ O MCRA do Microsoft Cloud para o Governo dos Estados Unidos é diferente do MCRA
 
 -   O Adendo para Nuvem do Governo dos Estados Unidos contém responsabilidades adicionais do parceiro para transações de serviços de Nuvem do Governo dos Estados Unidos.
 
--   O Anexo A contém o MCA (Contrato do Microsoft Cloud) que deve ser incorporado a cada contrato de serviços de Nuvem do Governo dos Estados Unidos firmado entre o CSP e seu cliente.
+-   O anexo A contém o contrato da Microsoft Cloud (contrato da Microsoft Cloud) que deve ser incorporado a cada contrato de serviços de nuvem governo dos Estados Unidos firmado entre o CSP e seu cliente do.
 
-*O MCA (Contrato do Microsoft Cloud) apresentado como o Anexo A no MCRA*
+*Contrato da Microsoft Cloud (contrato da Microsoft Cloud) apresentado como anexo A no MCRA*
 
 Os CSPs são requisitados a incorporar o Anexo A nos contratos do governo firmados entre CSPs e os clientes que compram o Microsoft Cloud para o Governo dos Estados Unidos. O contrato está publicado no Partner Center e está disponível em inglês.
 
@@ -88,7 +89,7 @@ O MCDA do Microsoft Cloud para o Governo dos Estados Unidos é diferente do MCDA
 
 -   O Adendo do Microsoft Cloud para o Governo dos Estados Unidos contém responsabilidades adicionais do parceiro para transações de serviços de Nuvem do Governo dos Estados Unidos.
 
--   O Anexo A contém o MCA (Contrato do Microsoft Cloud) que precisa ser incorporado a cada contrato de serviços de Nuvem do Governo dos Estados Unidos firmado entre o CSP e seus clientes.
+-   O anexo A contém o contrato da Microsoft Cloud (contrato da Microsoft Cloud) que precisa ser incorporado a cada contrato de serviços de nuvem governo dos Estados Unidos firmado entre o CSP e seus clientes do.
 
 **Quais são as qualificações para vender o Microsoft Cloud para o Governo dos Estados Unidos?**
 
@@ -108,7 +109,7 @@ Não. Os critérios de cobrança e os requisitos do Programa CSP do Microsoft Cl
 
 **Para os dados hospedados em datacenters comerciais, é possível mudar para o Microsoft Cloud para o Governo dos Estados Unidos?**
 
-Para facilitar e manter a integridade do isolamento do Microsoft Cloud for US Government, não há nenhum mecanismo para transferir os serviços existentes do cliente para o Microsoft Cloud for US Government. Se um cliente ou parceiro tiver o Azure, ele será responsável por qualquer movimentação de dados para um novo ambiente no Microsoft Cloud para o Governo dos Estados Unidos.
+Para facilitar e manter a integridade do isolamento do Microsoft Cloud for US Government, não há nenhum mecanismo para transferir serviços existentes do cliente para Microsoft Cloud for US Government. Se um cliente ou parceiro tiver o Azure, ele será responsável por qualquer movimentação de dados para um novo ambiente no Microsoft Cloud para o Governo dos Estados Unidos.
 
 
 ### <a name="microsoft-cloud-for-us-government-for-azure"></a>Microsoft Cloud for US Government para o Azure
