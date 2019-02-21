@@ -4,18 +4,13 @@ hide_bc: true
 title: Comece aqui para obter ajuda com o Partner Center
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: Partner Center pode ajudar você a expandir seus negócios no programa provedor de soluções de nuvem da Microsoft (CSP). Configurar sua conta, conectar-se com clientes, comprar uma assinatura do Action Pack e encontrar mais informações para parceiros nos programas CSP e MPN. 
+description: "Partner Center pode ajudar você a expandir seus negócios no programa provedor de soluções de nuvem da Microsoft (CSP). Configurar sua conta, conectar-se com clientes, comprar uma assinatura do Action Pack e encontrar mais informações para parceiros nos programas CSP e MPN.\_"
 author: labrenne
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 2dbf6aed32caa3b9dd9cfa3047762a4a945ba833
-ms.sourcegitcommit: 9db33fec9bee98b270d5a6d457dad628481bbcd7
-ms.translationtype: MT
-ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "9066046"
 ---
+
 # <a name="welcome-to-partner-center"></a>Bem-vindo ao Partner Center
 
 Microsoft Partner Center é o único local para gerenciar sua relação de ponta a ponta com a Microsoft. Ele tem ferramentas e recursos para ajudá-lo a fazer transações e expandir seus negócios, incluindo opções de associação, indicações de cliente e o programa de provedor de soluções na nuvem (CSP). Saiba mais sobre as práticas recomendadas para gerenciar sua conta, conectando-se com clientes, comprar uma assinatura do Action Pack e se inscrever em um programa de incentivos na biblioteca de Ajuda do Partner Center.
@@ -28,7 +23,7 @@ Microsoft Partner Center é o único local para gerenciar sua relação de ponta
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/message-icon.png" data-linktype="external">
+                            <img alt="Message icon" src="images/message-icon.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -46,7 +41,7 @@ Microsoft Partner Center é o único local para gerenciar sua relação de ponta
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/yammer-logo.png" data-linktype="external">
+                            <img alt="Yammer logo" src="images/yammer-logo.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -64,7 +59,7 @@ Microsoft Partner Center é o único local para gerenciar sua relação de ponta
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/i_api.png" data-linktype="external">
+                            <img alt="API icon" src="images/i_api.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -129,7 +124,7 @@ Microsoft Partner Center é o único local para gerenciar sua relação de ponta
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
+                            <img alt="Get started icon" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -146,7 +141,7 @@ Microsoft Partner Center é o único local para gerenciar sua relação de ponta
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
+                            <img alt="Connection icon" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -163,7 +158,7 @@ Microsoft Partner Center é o único local para gerenciar sua relação de ponta
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
+                            <img alt="Scenario icon" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -186,7 +181,7 @@ Microsoft Partner Center é o único local para gerenciar sua relação de ponta
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_get-started.svg" data-linktype="external">
+                            <img alt="Get started icon" src="https://docs.microsoft.com/media/common/i_get-started.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -202,7 +197,7 @@ Microsoft Partner Center é o único local para gerenciar sua relação de ponta
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_api-reference.svg" data-linktype="external">
+                            <img alt="API icon" src="https://docs.microsoft.com/media/common/i_api-reference.svg" data-linktype="external">
                         </div>
                     </div>                
                     <div class="cardText">
@@ -218,7 +213,7 @@ Microsoft Partner Center é o único local para gerenciar sua relação de ponta
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com//media/common/i_benefits.svg" data-linktype="external">
+                            <img alt="Benefits icon" src="https://docs.microsoft.com//media/common/i_benefits.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
