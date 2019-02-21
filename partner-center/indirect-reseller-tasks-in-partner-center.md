@@ -9,16 +9,16 @@ ms.author: evansma
 keywords: revendedores indiretos, revendedores, provedores indiretos, provedores, parceria, VAR, camada2, camada 2
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cc76d93cb0cdc581943e1785967c7b489bdd5ef9
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: f544b5d97cf1f828a4f7dbdddd1cb1947ab28f34
+ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995990"
+ms.lasthandoff: 02/21/2019
+ms.locfileid: "9086744"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Fazer parceria com provedores indiretos no programa Provedor de Soluções na Nuvem
 
-A demanda crescente por serviços e soluções baseadas em nuvem oferece muitas oportunidades para os parceiros da Microsoft de todos os tamanhos para criar empresas de solução em nuvem rentáveis. Os parceiros que estão prontos para se inserir no mercado, mas que não querem gerenciar vários fornecedores ou que podem não ter uma infraestrutura de cobrança e suporte de cliente de ponta a ponta, podem inscrever-se no programa de provedor de soluções na nuvem (CSP) da Microsoft como revendedores indiretos.
+A demanda crescente por serviços e soluções baseadas em nuvem oferece muitas oportunidades para os parceiros da Microsoft de todos os tamanhos para criar empresas de solução em nuvem rentáveis. Os parceiros que estão prontos para inserir ele mercado, mas que não querem gerenciar vários fornecedores ou que podem não ter uma infraestrutura de gerenciamento de relacionamento do cliente de ponta a ponta colocar, podem se registrar no programa de provedor de soluções na nuvem (CSP) da Microsoft como indireto revendedores.
 
 Como um revendedor indireto no CSP, você trabalha com provedores indiretos (também conhecidos como distribuidores), que têm uma relação direta com a Microsoft e podem fornecer suporte e cobrança ao cliente. Isso significa que você não precisa começar por conta própria e, em vez disso, pode trabalhar com um provedor de tecnologia experiente para ajudar a garantir seu sucesso. No modelo de revendedor de provedor (duas camadas), o provedor compra soluções na nuvem e serviços Microsoft que você revende aos clientes.
 

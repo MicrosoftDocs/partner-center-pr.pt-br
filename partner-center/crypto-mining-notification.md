@@ -8,12 +8,12 @@ ms.author: v-petand
 Keywords: crypto-mining, cryptocurrency mining, security
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: cfc9dd5592b9b4da631f316f8b5d56ee965e6e51
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 4cd56641a44cab84796ae051584e1e1cca63d3ff
+ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796159"
+ms.lasthandoff: 02/21/2019
+ms.locfileid: "9086714"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notificação da Central de parceiros para atividade de mineração de mineração
 
@@ -24,7 +24,7 @@ ms.locfileid: "5796159"
 
 Você pode ter recebido a seguinte notificação Partner Center sobre mineração de criptomoedas:
  
-![](images/crypto1.png)
+![Imagem de notificação de segurança no Partner Center](images/crypto1.png)
 
 A finalidade dessa notificação é informá-lo de que detectamos mineração de criptomoedas em uma ou mais das suas assinaturas do Azure na semana passada. A mineração de criptomoedas não significa necessariamente que houve uma atividade fraudulenta. No entanto, é incomum porque o custo da execução da mineração de criptomoedas no Azure tende a superar qualquer recompensa financeira em potencial. Para proteger-se contra fraude financeira que possa afetar você ou seu cliente, considere as seguintes etapas:
 
@@ -37,7 +37,7 @@ A finalidade dessa notificação é informá-lo de que detectamos mineração de
 Se a atividade for esperada, retorne à página de detalhes da assinatura do Azure do cliente e confirme se a mineração de criptomoedas é legítima. 
 
 
-![](images/crypto2.png)
+![Imagem da página de detalhes de assinatura do Azure do cliente](images/crypto2.png)
 
 Se a atividade for inesperada, considere o seguinte:
 
