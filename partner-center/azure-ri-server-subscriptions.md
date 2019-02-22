@@ -7,12 +7,12 @@ author: v-petand
 ms.author: v-petand
 keywords: Azure, assinaturas, VM, reserva, instância de reservados
 ms.localizationpriority: medium
-ms.openlocfilehash: e17fc04ad5428229af7c2b61368cf03890612822
-ms.sourcegitcommit: 2e6c5b00099f948f61e535129905712d79ed67a7
+ms.openlocfilehash: 697dd035682da4743e79cab3f0f222e4791dc636
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/01/2018
-ms.locfileid: "8382932"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098833"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -65,28 +65,28 @@ A seguir, uma lista abrangente de recursos para ajudá-lo a se integrar rapidame
 
 **Preparação de vendas**
 
-- [Reservas do Azure e assinaturas de servidor com o Azure híbrido visão geral do benefício (atualizado)](http://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
-- [Planilha de Vendas](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
-- [Perguntas Frequentes do parceiro para reservas do Azure (atualizado)](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
-- [Perguntas Frequentes do parceiro para reservas do Azure e o banco de dados SQL](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
-- [Banco de dados SQL Azure visão geral (novo)](http://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
+- [Reservas do Azure e assinaturas de servidor com o Azure híbrido visão geral do benefício (atualizado)](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
+- [Planilha de Vendas](https://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
+- [Perguntas Frequentes do parceiro para reservas do Azure (atualizado)](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
+- [Perguntas Frequentes do parceiro para reservas do Azure e o banco de dados SQL](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
+- [Banco de dados SQL Azure visão geral (novo)](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
 - [Visão geral de preços do Azure](https://azure.microsoft.com/pricing/#explore-cost)
 - [Calculadora de Preços do Azure](https://azure.microsoft.com/pricing/calculator/)
-- Reservas do Azure preço lista – Consulte a lista de preços de instâncias reservadas do Microsoft Azure na página do Partner Center [preços e ofertas](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) .
-- Assinaturas de servidor de preço lista – Consulte a lista de preços de assinaturas de Software na página do Partner Center [preços e ofertas](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) .
+- Reservas do Azure preço lista – Consulte a lista de preços de instâncias reservadas do Microsoft Azure na página do Partner Center [oferece & de preços](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) .
+- Assinaturas de servidor de preço lista – Consulte a lista de preços de assinaturas de Software na página do Partner Center [oferece & de preços](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) .
 
 **Treinamento**
 
 - [Novembro de 2018 comercial licenciamento preparação seminários na Web](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcommercial-licensing.eventbuilder.com%2F%3Flandingpageid%3DV0Bx6L&data=02%7C01%7Cv-oumaki%40microsoft.com%7C96e24687952242e1ff0c08d62ada13f3%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636743513471330495&sdata=DjPAKnW%2BpVekRS3Zngy2uwAkTpU4z1O%2Fh56NuTOmCzM%3D&reserved=0) abrangendo Serviços Online do CSP, CSP Azure e uma atualização de licenciamento geral (incluindo o Azure)
-- [Agosto SQL DB reservado capacidade e flexibilidade de tamanho de instância - licenciamento Webinar](https://commercial-licensing.eventbuilder.com/view?eventid=d0t9g4)
+- [Agosto SQL DB reservado flexibilidade de tamanho de instância de capacidade & - Webinar de licenciamento](https://commercial-licensing.eventbuilder.com/view?eventid=d0t9g4)
 - [Julho de 2018 assinaturas de servidor no CSP Webinar](https://commercial-licensing.eventbuilder.com/Server_Subscriptions_in_CSP_P2_July)
 - [Maio de 2018 Webinar de visão geral de reservas do Azure](https://commercial-licensing.eventbuilder.com/Reserved_Instances_in_CSP_May_Option_1)
 - [Módulo de Licenciamento do Azure na Partner University](https://aka.ms/azure_partner_licensing)
 
 **Operações**
 
-- [Guia de operações de comércio moderno](http://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (atualizado): uma guia abrangente que cobre chave a política e os aspectos operacionais, como contratos, pedidos por meio do Partner Center, fatura, preço detalhes da lista, incentivos, arquivo de reconciliação, API/SDK, área restrita e serviços compartilhados do parceiro do Azure.
-- [Matriz de Moeda do Cliente e Disponibilidade por País de Ofertas Modernas](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
+- [Guia de operações de comércio moderno](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (atualizado): uma guia abrangente que cobre chave a política e os aspectos operacionais, como contratos, pedidos por meio do Partner Center, fatura, preço detalhes da lista, incentivos, arquivo de reconciliação, API/SDK, área restrita e serviços compartilhados do parceiro do Azure.
+- [Matriz de Moeda do Cliente e Disponibilidade por País de Ofertas Modernas](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [Vender instâncias reservadas do Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=872806)
 - [Comprar reservas do Microsoft Azure em nome dos seus clientes](https://go.microsoft.com/fwlink/?linkid=872807)
 - [Gerenciar reservas do Azure em nome dos seus clientes](https://go.microsoft.com/fwlink/?linkid=872808)

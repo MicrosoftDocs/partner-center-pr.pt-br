@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d1652493791aedac27aaaa3dcfb03adcd15b67e
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: fdeaaa855e8cf1ff906569703d2bfde363a762ae
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995960"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098843"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Relatar problemas em nome de um cliente
 
@@ -105,7 +105,7 @@ Não, o suporte por telefone não é oferecido neste programa.
 
 Caso entre no portal do Microsoft Azure diretamente, você verá o centro em seu próprio contexto, não no contexto do cliente. Portanto, você só deve entrar diretamente no portal do Microsoft Azure quando estiver criando uma solicitação de serviço para suas próprias assinaturas.
 
-Seu direito de suporte CSP não abrange sua própria assinatura de parceiro, portanto, ao criar uma solicitação de serviço que diga respeito à sua própria assinatura de parceiro, você deverá informar sua qualificação válida ao plano de suporte. Exemplos incluem ID de contrato MPN, Premier ou um plano de suporte do Azure. Consulte as [Perguntas frequentes sobre o suporte do Azure](http://go.microsoft.com/fwlink/?LinkId=717532).
+Seu direito de suporte CSP não abrange sua própria assinatura de parceiro, portanto, ao criar uma solicitação de serviço que diga respeito à sua própria assinatura de parceiro, você deverá informar sua qualificação válida ao plano de suporte. Exemplos incluem ID de contrato MPN, Premier ou um plano de suporte do Azure. Consulte as [Perguntas frequentes sobre o suporte do Azure](https://go.microsoft.com/fwlink/?LinkId=717532).
 
 **O que acontece se eu entrar no portal do Centro de Administração do Office 365 e ignorar o Partner Center?**
 
@@ -113,7 +113,7 @@ Caso entre diretamente no Centro de Administração do Office 365, você verá o
 
 **Como posso obter suporte adicional do Dynamics 365?**
 
-Se você estiver tendo problemas relacionados a: Dynamics 365 plano assinaturas, licenciamento, cobrança, finanças e operações, IURs ou você exige suporte técnico adicional:
+Se você estiver tendo problemas relacionados a: Dynamics 365 plano assinaturas, licenciamento, cobrança, finanças & operações, IURs ou se você solicitar suporte técnico adicional:
  
 Contate o [suporte do Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 

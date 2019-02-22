@@ -6,12 +6,12 @@ description: Os programas de incentivos OSA Sell e Online Services Usage agora p
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 815f0a9f7b88d1498381c5135c72eacdd2c8943a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bc9047e21beafb9973723260b437353bbe291603
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796179"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098713"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>Os relatórios de dados dinâmicos substituem a emissão de relatórios mensais para alguns programas de incentivos
 
@@ -35,7 +35,7 @@ Atualmente, isso afeta os programas de incentivo OSA Sell e Online Services Usag
  
 ## <a name="start-using-the-new-reporting-functionality"></a>Comece a usar a nova funcionalidade de relatório: 
 
-1. Baixe e revise os ativos de preparação no MPN [Relatórios de incentivos de parceiro na experiência de incentivos do parceiro](http://aka.ms/osareadiness ).
+1. Baixe e revise os ativos de preparação no MPN [Relatórios de incentivos de parceiro na experiência de incentivos do parceiro](https://aka.ms/osareadiness ).
 
 2. Acesse [PIE](https://partnerincentives.microsoft.com/)
 

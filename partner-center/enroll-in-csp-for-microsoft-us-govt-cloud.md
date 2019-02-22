@@ -6,18 +6,18 @@ description: Antes de se inscrever no programa Provedor de Soluções na Nuvem d
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 557eaa97a65acb7fff2698625acb95ab5c3717f6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9e6aa5187dc52ddd753681a4e14bbaec32ce2420
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796329"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098813"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Cloud for US Government
 
 **Aplica-se a**
 
--  Partner Center do Microsoft Cloud for US Government
+-  Partner Center para Microsoft Cloud for US Government
 
 Os parceiros da Microsoft agora podem vender soluções de nuvem da Microsoft e serviços para entidades federais, estaduais, locais e tribais dos EUA por meio do programa CSP (Provedor de Soluções na Nuvem) para Microsoft Cloud for US Government. 
 
@@ -25,7 +25,7 @@ A Microsoft Cloud for US Government fornece uma instância privada, dedicada e i
 
 ## <a name="before-you-begin"></a>Antes de começar
 
-Antes de você poder se inscrever no programa CSP da Microsoft Cloud for US Government, precisamos verificar se sua empresa atende aos requisitos de venda para entidades do governo dos Estados Unidos. Antes de você iniciar o processo de inscrição, preencha o [formulário de Validação da Microsoft Government Cloud](http://azuregov.microsoft.com/csp) para que possamos verificar a qualificação da empresa. Depois de verificar a qualificação da empresa, forneceremos um locatário do Azure Active Directory (Azure AD) específico para a Microsoft Cloud for US Government.  
+Antes de você poder se inscrever no programa CSP da Microsoft Cloud for US Government, precisamos verificar se sua empresa atende aos requisitos de venda para entidades do governo dos Estados Unidos. Antes de você iniciar o processo de inscrição, preencha o [formulário de Validação da Microsoft Government Cloud](https://azuregov.microsoft.com/csp) para que possamos verificar a qualificação da empresa. Depois de verificar a qualificação da empresa, forneceremos um locatário do Azure Active Directory (Azure AD) específico para a Microsoft Cloud for US Government.  
 
 Para criar uma conta do Partner Center e se inscrever no CSP do Microsoft Cloud for US Government, você precisará fornecer as seguintes informações (talvez você queira coletar essas informações antes de iniciar o processo de inscrição):
 
@@ -42,7 +42,7 @@ Para criar uma conta do Partner Center e se inscrever no CSP do Microsoft Cloud 
 
 1.  Inicie o processo de inscrição [aqui](https://partnercenter.microsoft.com/register/resellerusgjoinnow). 
 
-2.  Entre com as credenciais de administrador global de locatário do Azure AD da organização para Microsoft Cloud for US Government. Se sua organização não tiver uma conta para esse portal, você pode solicitar uma ao preencher o [Formulário da Microsoft Government Cloud Validation](http://azuregov.microsoft.com/csp).
+2.  Entre com as credenciais de administrador global de locatário do Azure AD da organização para Microsoft Cloud for US Government. Se sua organização não tiver uma conta para esse portal, você pode solicitar uma ao preencher o [Formulário da Microsoft Government Cloud Validation](https://azuregov.microsoft.com/csp).
 
 
 ### <a name="step-2---apply-to-participate-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Etapa 2 - Inscrever-se para participar do programa de Provedor de Soluções na Nuvem para Microsoft Cloud for US Government

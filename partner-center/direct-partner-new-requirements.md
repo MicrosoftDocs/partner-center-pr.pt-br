@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: CSP, parceiro direto, cobrança direta, requisitos
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 80b3f5353c2fab8e0b4049c886407414eeba4771
-ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
+ms.openlocfilehash: 9eaa4eae326bda4ed37fa750d588df961b573822
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083349"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098693"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>Novos requisitos de parceiro direto do CSP
 
@@ -45,4 +45,4 @@ Avaliação do questionário determina sua qualificação para se inscrever no p
 
 Se você decidir mover de uma empresa de cobrança direta para empresas de revendedor indireto, há várias etapas que você precisará tomar. Para saber mais sobre a transição, leia a [transição do provedor de soluções na nuvem (CSP) de parceiro direto ao revendedor indireto do CSP](transition-direct-to-indirect.md). 
 
-Consulte também [informações adicionais sobre como se tornar um revendedor indireto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) e o [cobrança direta ao revendedor indireto perguntas frequentes sobre](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).
+Consulte também [informações adicionais sobre como se tornar um revendedor indireto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) e o [cobrança direta ao revendedor indireto perguntas frequentes sobre](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).

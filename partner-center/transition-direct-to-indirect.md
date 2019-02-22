@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: cobrança direta, transição, revendedor indireto
-ms.openlocfilehash: b8e7f4f13f3c3ef3bf0525f22ea74f80df8ed0d7
-ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
+ms.openlocfilehash: 54fa20acfd84cf1a2fadba9aa323b94d3ab356a3
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083369"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098793"
 ---
 **Aplica-se a:**
  - Parceiros CSP
@@ -157,4 +157,4 @@ Depois que você se inscrever-se com êxito como um revendedor indireto no locat
 
 Você também está qualificados para se inscrever para programas de incentivo de cobrança direta com esse mesmo locatário parceiro. Você deve gerenciar os programas separadamente.
 
-Consulte também [informações adicionais sobre como se tornar um revendedor indireto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) e o [cobrança direta ao revendedor indireto perguntas frequentes sobre](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).
+Consulte também [informações adicionais sobre como se tornar um revendedor indireto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) e o [cobrança direta ao revendedor indireto perguntas frequentes sobre](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).

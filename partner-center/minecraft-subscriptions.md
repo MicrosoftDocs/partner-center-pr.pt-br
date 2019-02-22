@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: Parceiros Education autorizados, educação, vender para educação, escolas
 ms.localizationpriority: medium
-ms.openlocfilehash: 04014dc307744c9eda7038a3e820cd49957fc15c
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: e71c28f1fcf9b47fffea21eddfa2ab6a2e4313ab
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062324"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098753"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vender assinaturas do Minecraft: Education Edition para clientes da área de educação
 
@@ -23,7 +23,7 @@ ms.locfileid: "9062324"
 Os parceiros que trabalham com instituições de ensino podem oferecer assinaturas do **Minecraft: Education Edition** a eles. Você compra a assinatura em nome do cliente no Partner Center e, em seguida, o cliente baixa o software da [Microsoft Store para educação](https://educationstore.microsoft.com). 
 
 >[!IMPORTANT]
->Para vender ofertas educacionais a clientes educacionais, você deve ser registrado no programa CSP (Provedor de Soluções na Nuvem) e ser um [AEP (Revendedor Educacional Autorizado)](https://www.mepn.com). Além disso, seu cliente deve ser um [Usuário Educacional Qualificado](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).  
+>Para vender ofertas educacionais a clientes educacionais, você deve ser registrado no programa CSP (Provedor de Soluções na Nuvem) e ser um [AEP (Revendedor Educacional Autorizado)](https://www.mepn.com). Além disso, seu cliente deve ser um [Usuário Educacional Qualificado](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).  
 
  
 ## <a name="buy-minecraft-education-edition-on-behalf-of-your-customer"></a>Comprar o **Minecraft: Education Edition** em nome de seu cliente
