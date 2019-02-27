@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: funções, permissões, administrador, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: d811cb76b03b1784eaf926052e6a00151b2fc347
-ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
+ms.openlocfilehash: cc0e37601b16033bf31faaf5056ca0389d6f5cf6
+ms.sourcegitcommit: 7961476a8fed7cd56a09c6edc8dd1e2dd7f46465
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/21/2019
-ms.locfileid: "9086724"
+ms.lasthandoff: 02/27/2019
+ms.locfileid: "9117209"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Atribuir funções e permissões de usuário
 
@@ -74,7 +74,7 @@ CPVs desenvolver aplicativos para uso por parceiros de provedor de soluções na
 
 |**Função** | **Você pode fazer**|
 |----------------------------|:----------------------------|
-|Administrador do MPN|•CAN adicionar usuários não locatário
+|Administrador de parceiros do MPN|•CAN adicionar usuários não locatário
 ||• Exibir, criar e gerenciar solicitações de serviço do parceiro
 ||• Exibição legal, organização, empresas e perfis do MPN
 ||• Exibir detalhes do usuário e seus dados de habilidades
@@ -82,8 +82,9 @@ CPVs desenvolver aplicativos para uso por parceiros de provedor de soluções na
 ||• Exibir e gerenciar benefícios
 ||• Exibição e compra de ofertas do MPN
 ||• Exibição MPN histórico de pedidos e faturas de ofertas
-||• Pode exibir dados de contribuição de parceiros
+||• Exibir dados de contribuição de parceiros
 ||• Podem funcionar na ferramenta de validação de comprovantes|
+||-Exibir a análise de dados do cliente
 |Conta de administrador| • Pode adicionar usuários não locatário
 ||• Adicionar ou excluir locais
 ||-Gerenciar perfis relacionados às contas de que administrador para você são 
