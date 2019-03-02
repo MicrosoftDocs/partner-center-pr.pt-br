@@ -1,19 +1,19 @@
 ---
 title: Listas de preços, ofertas e contratos de CSP | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/01/2019
 description: Este artigo inclui links para guias do programa Provedor de Soluções na Nuvem, contratos de parceiro, contratos do cliente, listas de preços e ofertas.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: guias do programa csp, guia de programa, acordos de parceria, contrato do cliente, listas de preço, ofertas
 ms.localizationpriority: medium
-ms.openlocfilehash: 4300da2261618474e44f28fd8aba0dbf50817313
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: edb36fa2764f4853d1d99653859a716be1c958d1
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098763"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122233"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guia do programa de provedor de soluções de nuvem, contratos, listas de preços e ofertas
 
@@ -81,6 +81,7 @@ Os preços de serviços com base em uso são dinâmicos e mudam frequentemente. 
 
 Preço de compra única também é dinâmico. Reservas do Microsoft Azure e assinaturas correspondentes para o Windows Server e SQL software são exemplos de compras únicas. 
 
+Para informações sobre o Azure Marketplace ofertas de preços, vá para **Marketplace** no menu de navegação à esquerda do Partner Center. Selecione um produto para ver informações sobre o fornecedor, SKUs e preço. Os preços para esses produtos do Azure Marketplace podem ser alterados com frequência. Em muito breve, forneceremos uma opção para exportar uma lista de todos os dados de preços, atualizadas diariamente. Nós vai também habilitar o acesso aos dados de preço por meio de APIs atual. Depois que essas opções estão disponíveis, vamos atualizar essa página com mais informações sobre como usá-los.
 
 ## <a name="offers"></a>Ofertas
 
@@ -88,5 +89,7 @@ Preço de compra única também é dinâmico. Reservas do Microsoft Azure e assi
 Como um parceiro no CSP, você pode vender uma ampla variedade de soluções, incluindo o Office 365, Enterprise Mobility Suite, Microsoft Dynamics e Microsoft Azure, serviços e produtos Microsoft. Para obter mais informações sobre quais ofertas estão disponíveis para venda nessas famílias de produtos, consulte a matriz de ofertas do CSP na página **preços e ofertas** , disponível no menu do **Partner Center** . Este documento é atualizado mensalmente.
 
 Para parceiros CSP que usam a API de registro de uso CREST, a Microsoft também publica uma lista dos Serviços do Azure no CSP na página **Preços e ofertas**.
+
+Para saber mais sobre ofertas do Azure Marketplace publicadas por fornecedores de Software independentes (ISVs), visite a página de **Marketplace** no menu de navegação à esquerda. Atualmente, somente os tipos de produto SaaS (software como serviço) podem ser comprados no Partner Center. Você precisará visitar o portal do Azure para adquirir outros tipos de ofertas do Azure Marketplace.
 
 

@@ -2,18 +2,18 @@
 title: Cobrança | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
+Description: Como parceiro Provedor de Soluções na Nuvem, você pagará à Microsoft 60 dias em atraso pelas assinaturas baseadas em licença e em uso de seus clientes.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções fiscais, arquivos de reconciliação, arquivo de reconciliação
 ms.localizationpriority: medium
-ms.openlocfilehash: b8041b6fb5ae913786bf7e755d11e727e636f518
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 1d742b014e531539eaf89cffcbbe08b0232a2161
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683445"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122173"
 ---
 # <a name="billing"></a>Cobrança
 
@@ -42,6 +42,7 @@ Informações importantes sobre a cobrança de clientes:
 |:-----------------------------|:-----------------|
 |Noções básicas sobre cobrança, pagamentos, faturas e muito mais   |[Noções básicas de cobrança](billing-basics.md)
 |Muitos recursos de cobrança novos, como cobrança anual   |[Perguntas frequentes sobre os novos recursos de cobrança](faq-about-new-billing-features.md)|
+|Tipos de cobrança   |[Noções básicas sobre os tipos de cobrança no Partner Center](billing-different-types.md)   |
 |A chave para a leitura da sua cobrança   |[Ler sua cobrança](read-your-bill.md)   |
 |Como ler e usar seu arquivo de reconciliação   |[Usar os arquivos de reconciliação](use-the-reconciliation-files.md)|
 |Cenários comuns de cobrança (descubra mais cenários de cobrança em [Perguntas frequentes sobre os novos recursos de cobrança](faq-about-new-billing-features.md))|[Cenários comuns de cobrança](common-billing-scenarios.md)|
