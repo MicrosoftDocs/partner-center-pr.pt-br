@@ -49,7 +49,9 @@
 
 
 # [Cobrança e impostos](billing.md)
-## [Perguntas frequentes sobre os novos recursos de cobrança](faq-about-new-billing-features.md)
+## [Perguntas frequentes sobre cobrança](faq-about-new-billing-features.md)
+## [Noções básicas de cobrança](billing-basics.md)
+## [Noções básicas sobre os tipos de cobrança no Partner Center](billing-different-types.md)
 ## [Ler sua cobrança](read-your-bill.md)
 ## [Usar os arquivos de reconciliação](use-the-reconciliation-files.md)
 ## [Impostos e isenções fiscais](tax-and-tax-exemptions.md)
@@ -78,6 +80,7 @@
 ## [Serviços online (Assinaturas)](customer-subscriptions.md)
 ### [Criar, suspender ou cancelar assinaturas de cliente](create-a-new-subscription.md)
 ### [Oferecer avaliações de produtos da Microsoft aos seus clientes](offer-your-customers-trials-of-microsoft-products.md)
+### [Vender assinaturas de produtos do Azure Marketplace](sell-marketplace-products.md)
 ### [Atribuir assinaturas do Azure no Partner Center](assign-azure-subscriptions.md)
 ### [Atribuir licenças a usuários](assign-licenses-to-users.md)
 ### [Adicionar licenças ou serviços a uma assinatura atual](add-licenses-or-services-to-an-existing-subscription.md)
