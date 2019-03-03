@@ -2,7 +2,7 @@
   "build_entry_point": "op",
   "docsets_to_publish": [
     {
-      "docset_name": "partner-center",
+      "docset_name": "partner-center-pr",
       "build_source_folder": "partner-center",
       "build_output_subfolder": "partner-center",
       "locale": "pt-br",
@@ -18,7 +18,7 @@
       "version": 0
     },
     {
-      "docset_name": "partner-china-dynamic",
+      "docset_name": "partner-center-china-dynamic",
       "build_source_folder": "china",
       "build_output_subfolder": "partner-china-dynamic",
       "locale": "pt-br",
@@ -57,7 +57,7 @@
     },
     {
       "path_to_root": "_repo.en-us",
-      "url": "https://cpubwin.visualstudio.com/DefaultCollection/partner/_git/partner",
+      "url": "https://github.com/microsoftdocs/partner-center-pr",
       "branch": "live",
       "branch_mapping": {
         "live": "live",
