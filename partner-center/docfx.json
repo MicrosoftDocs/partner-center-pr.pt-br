@@ -1,0 +1,45 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.jpg"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "uhfHeaderId": "MSDocsHeader-Partner-Center",
+      "titleSuffix": "Partner Center",
+      "breadcrumb_path": "/partner-center/breadcrumb/toc.json",
+      "extendBreadcrumb": true,
+      "ms.service": "partner-dashboard"
+    },
+    "fileMetadata": {},
+    "template": [],
+    "dest": "partner-center",
+    "markdownEngineName": "markdig"
+  }
+}
