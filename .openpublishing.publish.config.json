@@ -35,7 +35,7 @@
     "evansma@microsoft.com"
   ],
   "branches_to_filter": [
-    "",
+    "live",
     "live-sxs"
   ],
   "continue_with_document_error": true,
