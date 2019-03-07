@@ -164,6 +164,16 @@
     "source_path": "china/work-with-other-partners.md",
     "redirect_url": "https://www.21vbluecloud.com/partner-china/work-with-other-partners",
     "redirect_document_id": "FALSE"
-  }
+  },
+  {
+    "source_path": "partner-center/third-party-offers.md",
+    "redirect_url": "/partner-center/sell-marketplace-products",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/third-party-help.md",
+    "redirect_url": "/partner-center/sell-marketplace-products",
+    "redirect_document_id": "FALSE"
+  },
     ]
 }
