@@ -2,22 +2,22 @@
 title: Comprar reservas do Microsoft Azure em nome dos seus clientes | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-Description: You can buy Azure reservations on behalf of your customers in Partner Center.
-author: v-petand
+Description: Você pode comprar reservas do Azure em nome de seus clientes no Partner Center.
+author: LauraBrenner
 ms.author: v-petand
-keywords: Azure, reservas, gerenciar, cobrança, compra
+keywords: azure, reservas, gerenciar, cobrança, comprar
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 6ce50f5269c95ba923b81a062c6f43a94bbff945
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 8ee2fcf44d66001d3c8a7323467bda22bc5b2b6b
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917548"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584709"
 ---
-# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Comprar reservas do Microsoft Azure em nome dos seus clientes no Partner Center 
+# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Comprar reservas do Microsoft Azure em nome de seus clientes no Partner Center 
 
-**Aplicável a**
+**Aplica-se a**
 
 -  Partner Center
 -  Portal do Microsoft Azure
@@ -25,13 +25,13 @@ ms.locfileid: "8917548"
 
 ## <a name="before-you-begin"></a>Antes de começar
 
-Examine as informações importantes abaixo antes de comprar reservas do Azure em nome dos seus clientes.
+Examine as informações importantes abaixo antes de comprar reservas do Azure em nome de seus clientes.
 
 -   Os clientes já devem ter uma assinatura do Azure ativa antes que você possa comprar reservas em nome deles
   
--   Custos de assinatura de software como o software de banco de dados SQL ou SUSE Linux não estão incluídos nos preços da reserva do Azure
+-   Os custos de assinatura de software, como software de banco de dados SQL ou SUSE Linux não estão incluídos nos preços de reserva do Azure
 
--   Preço comercial da Microsoft para que você não inclui impostos, a menos que seu local for o Brasil. Se o local for Brasil, o preço comercial para você inclui os impostos apropriados 
+-   Preços comercial da Microsoft para que você não incluem os impostos, a menos que sua localização é Brasil. Se o local é Brasil, o preço comercial a você inclui os impostos apropriados 
  
 -   Os agentes de suporte técnico e de vendas precisam de acesso explícito à assinatura do Azure para que eles possam comprá-la ou gerenciá-la no portal do Azure e nas solicitações de suporte de arquivo, inclusive para trocas e reembolsos, em nome do cliente  
 
@@ -41,36 +41,36 @@ Examine as informações importantes abaixo antes de comprar reservas do Azure e
 
 -   Se um cliente quiser transferir uma assinatura do Azure do Direct ou EA para o CSP, as reservas não serão transferidas. 
 
-## <a name="azure-reservations-unavailable-markets"></a>Mercados indisponível reservas do Azure
+## <a name="azure-reservations-unavailable-markets"></a>Mercados de reservas do Azure indisponível
 
 >[!IMPORTANT] 
->Reservas do Azure *não estão* disponíveis nos seguintes mercados:  
+>Azure reservas *não são* disponível nos seguintes mercados:  
 >  
 > | Mercados indisponíveis | &nbsp; | &nbsp; |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | Ilhas Aland                  | Groenlândia                         | Palau                                    |
 > | Samoa Americana                 | Granada                           | Papua Nova-Guiné                         |
 > | Andorra                        | Guadalupe                        | Ilhas Pitcairn                         |
-> | Anguila                       | Guam                              | Reunião                                  |
+> | Anguilla                       | Guam                              | Reunião                                  |
 > | Antártida                     | Guernsey                          | Federação Russa                       |
 > | Antígua e Barbuda            | Guiné                            | Saba                                     |
 > | Aruba                          | Guiné-Bissau                     | São Bartolomeu                         |
 > | Azerbaijão                     | Guiana                            | Santa Lúcia                              |
 > | Belarus                        | Haiti                             | Saint Martin                             |
-> | Benim                          | Ilhas Heard e McDonald | São Pedro e Miquelon                |
+> | Benin                          | Ilhas Heard e McDonald | São Pedro e Miquelon                |
 > | Butão                         | Índia                             | São Vicente e Granadinas         |
 > | Bonaire                        | Ilha de Man                       | Samoa                                    |
 > | Ilha Bouvet                  | Jan Mayen                         | San Marino                               |
-> | Brasil                         | Jersey                            | São Tomé e Príncipe                    |
+> | Brasil                         | Jersey                            | São Tomé and Príncipe                    |
 > | Território Britânico do Oceano Índico | Cazaquistão                        | Seicheles                               |
 > | Ilhas Virgens Britânicas         | Kiribati                          | Serra Leoa                             |
-> | Burquina Faso                   | Coreia, República da                | Sint Eustatius                           |
+> | Burquina Faso                   | Coreia, República da                | Santo Eustáquio                           |
 > | Burundi                        | Kosovo                            | Sint Maarten                             |
 > | Camboja                       | Laos                              | Ilhas Salomão                          |
 > | República Centro-Africana       | Lesoto                           | Somália                                  |
-> | Chade                           | Libéria                           | Ilhas Geórgia do Sul e Sandwich do Sul |
+> | Chade                           | Libéria                           | Geórgia do Sul e Ilhas Sandwich do Sul |
 > | China                          | Madagascar                        | Sudão do Sul                              |
-> | Ilha Christmas               | Maláui                            | Santa Helena, Ascensão e Tristão da Cunha   |
+> | Ilha Christmas               | Malaui                            | Santa Helena, Ascensão e Tristão da Cunha   |
 > | Ilhas Cocos (Keeling)        | Maldivas                          | Suriname                                 |
 > | Ilhas Comores                        | Máli                              | Svalbard                                 |
 > | Congo                          | Ilhas Marshall                  | Suazilândia                                |
@@ -79,64 +79,64 @@ Examine as informações importantes abaixo antes de comprar reservas do Azure e
 > | Djibuti                       | Mayotte                           | Togo                                     |
 > | Dominica                       | Micronésia                        | Tokelau                                  |
 > | Guiné Equatorial              | Montserrat                        | Tonga                                    |
-> | Eritreia                        | Moçambique                        | Ilhas Turks e Caicos                 |
+> | Eritreia                        | Moçambique                        | Ilhas Turcos e Caicos                 |
 > | Ilhas Malvinas               | Myanmar                           | Tuvalu                                   |
-> | Guiana Francesa                  | Nauru                             | Ilhas Menores Distantes dos EUA                    |
+> | Guiana Francesa                  | Nauru                             | Territórios Insulares Ilhas menores distantes                    |
 > | Polinésia Francesa               | Nova Caledônia                     | Ucrânia                                  |
-> | Territórios Franceses do Sul    | Níger                             | Vanuatu                                  |
+> | Territórios Austrais Franceses    | Níger                             | Vanuatu                                  |
 > | Gabão                          | Niue                              | Cidade do Vaticano                             |
 > | Gâmbia                         | Ilha Norfolk                    | Wallis e Futuna                        |
 > | Gibraltar                      | Ilhas Marianas do Norte          | Iêmen                                    |
 > |
 
-## <a name="purchase-azure-reservations"></a>Comprar reservas do Azure
+## <a name="purchase-azure-reservations"></a>Adquirir reservas do Azure
 
-Siga as etapas abaixo para comprar reservas do Microsoft Azure em nome dos seus clientes no Partner Center.
+Siga as etapas abaixo para comprar reservas do Microsoft Azure em nome de seus clientes no Partner Center.
 
-1. Selecione **os clientes** no menu Partner Center.  
+1. Selecione **clientes** no menu do Partner Center.  
 
 2. Na sua página **Clientes**, localize o cliente que deseja comprar reservas do Azure e então selecione a seta para baixo para expandir a linha do cliente.  
 
-3. Selecione **Adicionar produtos** e, em seguida, selecione **Azure**. 
+3. Selecione **Adicionar produtos** e então selecione **Azure**. 
 
-    a. Escolha o segmento de mercado do cliente na lista de **segmento** .
+    a. Escolha o segmento de mercado do cliente da **segmento** lista.
 
-    b. Escolha **reservas** na lista de **tipo de** produto.
+    b. Escolher **reservas** do produto **tipo** lista.
 
-    c. Escolha o tipo de reserva que o cliente quer na lista **tipo de reservas** .
+    c. Escolha o tipo de reserva para o cliente quer a partir de **tipo de reservas** lista.
 
-4. As reservas do Azure devem estar associadas a uma assinatura do Azure ativa. Escolha a assinatura do cliente que deseja adicionar reservas do Azure da lista de **assinatura do cliente** . 
+4. As reservas do Azure devem estar associadas a uma assinatura do Azure ativa. Escolha a assinatura do cliente que você deseja adicionar reservas do Azure a partir de **assinatura de cliente** lista. 
 
    >[!IMPORTANT]
-   >Se o cliente ainda não tiver uma assinatura ativa do Azure, selecione **Serviços Online** para adicioná-la agora. 
+   >Se o cliente ainda não tiver uma assinatura do Azure Active Directory, selecione **serviços on-line** para adicionar uma agora. 
 
-5. Use os filtros para encontrar reservas do Azure em máquinas virtuais que atendem aos requisitos do cliente.  
+5. Use os filtros para localizar as reservas do Azure em máquinas virtuais que atendem aos requisitos do cliente.  
 
-6. Depois que você encontrar o reservation(s) que você deseja comprar, insira o número de instâncias reservadas o cliente precisa na **quantidade** e, em seguida, selecione **Adicionar ao carrinho**.  
+6. Depois de localizar o reservation(s) que você deseja comprar, insira o número de instâncias reservadas, o cliente precisará na **quantidade** e, em seguida, selecione **adicionar ao carrinho**.  
 
 7. Repita as etapas 5 e 6 até ter adicionado todos os itens necessários para o pedido. Selecione **Revisão** para verificar se seu pedido está correto.  
 
-8. Na página **analisar suas ordens** , você pode: 
+8. Na página **Examine seus pedidos**, você pode: 
 
     - Verificar ou alterar a quantidade de instâncias reservadas.
 
-    - Selecione o escopo da reserva. O escopo da reserva pode abranger uma ou várias assinaturas (escopo compartilhado). Se você definir o escopo a reserva em uma única assinatura, o desconto da reserva é aplicado a somente nesta assinatura. Se você selecionar compartilhada, o desconto da reserva é aplicado a todas as assinaturas no contexto de cobrança do cliente. 
+    - Selecionar o escopo da reserva. O escopo da reserva pode abranger uma ou várias assinaturas (escopo compartilhado). Se você definir o escopo de reserva para uma assinatura única, o desconto de reserva é aplicado a essa assinatura apenas. Se você selecionar compartilhada, o desconto da reserva é aplicado a todas as assinaturas no contexto de cobrança do cliente. 
 
       >[!NOTE] 
-      >Se você optar por limitar o escopo da reserva para uma única assinatura do Azure, talvez seja necessário aumentar a cota de vCPU da assinatura. Para aumentar a cota de vCPU da assinatura, você precisará criar uma solicitação de suporte no portal do Azure. Siga as instruções [neste tópico](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) para criar a solicitação.    
+      >Se você optar por limitar o escopo da reserva a uma única assinatura do Azure, talvez você precise aumentar a cota de vCPU da assinatura. Para aumentar a cota de vCPU da assinatura, você precisará criar uma solicitação de suporte no portal do Azure. Siga as instruções [neste tópico](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) para criar a solicitação.    
 
-    - Se você for um parceiro de provedor, selecione o revendedor que você deseja associar o produto.
+    - Se você for um parceiro de provedor, selecione o revendedor que você deseja associar ao produto.
 
-9. Selecione **Comprar** para fazer o pedido. Os detalhes do seu pedido, incluindo o número do pedido, são exibidos na página de **confirmação** . Selecione **Concluído** para ir para sua página **Histórico de pedidos**. 
+9. Selecione **Comprar** para fazer o pedido. Os detalhes do seu pedido, incluindo o número do pedido, são exibidos na **confirmar** página. Selecione **Concluído** para ir para sua página **Histórico de pedidos**. 
 
-10. Para gerenciar a reserva do cliente no portal do Azure, encontre o cliente em sua página **clientes** e, em seguida, selecione a seta para baixo para expandir a linha do cliente. Selecione **Portal de Gerenciamento do Microsoft Azure** para abrir o registro do cliente no portal do Azure.
+10. Para gerenciar a reserva do cliente no portal do Azure, encontrar o cliente em seu **clientes** página e, em seguida, selecione a seta para baixo para expandir a linha do cliente. Selecione **Portal de Gerenciamento do Microsoft Azure** para abrir o registro do cliente no portal do Azure.
 
 ## <a name="azure-reservations-resources"></a>Recursos de reservas do Azure
 |**Para obter informações sobre**   |**Leia isto**    |
 |:-----------------------------|:-----------------|
-|Reservas do Azure na visão geral do CSP  | [Vender instâncias reservadas do Microsoft Azure](azure-reservations.md) |
-|Como gerenciar reservas do Azure no Partner Center | [Como gerenciar reservas do Azure no Partner Center](azure-reservations-manage.md)
-|Determinar o tamanho correto da VM e verificar o uso da VM do cliente   |[Dimensionamento de VM para uso máximo de reserva do Azure](azure-usage.md)   |
+|Reservas do Azure na visão geral do CSP  | [Vende instâncias reservadas do Microsoft Azure](azure-reservations.md) |
+|Gerenciando reservas do Azure no Partner Center | [Gerenciando reservas do Azure no Partner Center](azure-reservations-manage.md)
+|Determinar o tamanho correto da VM e verificar o uso da VM do cliente   |[Dimensionamento da VM para uso de máximo de reserva do Azure](azure-usage.md)   |
 |Como comprar reservas do Azure usando a API do Partner Center | [Comprar Instâncias de VM Reservadas do Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) na documentação do desenvolvedor do Partner Center
 |
 

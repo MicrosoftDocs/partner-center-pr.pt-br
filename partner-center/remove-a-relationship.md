@@ -3,19 +3,19 @@ title: Remova uma relação com um revendedor ou um cliente | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Remover uma relação remove qualquer relação comercial fechada do modo de exibição no Partner Center.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3697d32af38e0f9cd496a84d442fb05390f63101
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 02ce021614081caf088358513c4a7b5c7fe26a10
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062264"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587899"
 ---
-# <a name="remove-a-reseller-relationship-with-a-customer"></a>Remover uma relação de revendedor ou um cliente
+# <a name="remove-a-reseller-relationship-with-a-customer"></a>Remover uma relação de revendedor com um cliente
 
-**Aplicável ao**
+**Aplica-se a**
 
 -   Partner Center
 
@@ -28,11 +28,11 @@ Este recurso:
 *  Remove a capacidade de você fazer compras em nome do cliente
 
 Para remover a relação, primeiro você precisará cancelar as reservas do Azure RI, cancelar as compras de software e suspender todas as assinaturas ativas restantes:
-1. Suspenda todas as assinaturas ativas. No Partner Center, vá para **clientes** gt _ selecione um cliente gt _ **assinaturas** gt _ selecione uma assinatura gt _ **suspensa**. 
+1. Suspenda todas as assinaturas ativas. Do Partner Center, vá para **clientes** > selecione um cliente > **assinaturas** > selecione uma assinatura > **Suspended**. 
 
    Repita esse procedimento para cada assinatura ativa.
 
-2. Remover a relação no Partner Center: no Partner Center, vá para **clientes** gt _ selecione um cliente gt _ **conta** > **Remover a relação de revendedor**.
+2. Remova a relação no Partner Center: Do Partner Center, vá para **clientes** > selecione um cliente > **conta** > **Remover relação de revendedor**.
 
    Observe, se todas as assinaturas ainda estão ativas, o link **Remover a relação de revendedor** ficará inativo. 
 

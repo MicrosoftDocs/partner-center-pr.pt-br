@@ -3,20 +3,20 @@ title: Adicionar software de terceiros ao seu portfólio  | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Compre software de terceiros que funcione com produtos da Microsoft
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: ofertas de terceiros, software para compra
 ms.localizationpriority: medium
-ms.openlocfilehash: 42aacee4f5d9612f3b55bd1774f9c96b71be8eda
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: fb378c5fded17bd7f8f7c35d375278097fc32098
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795759"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586809"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Adicionar software de terceiros ao seu portfólio
 
-Aplicável ao:
+Aplica-se a:
 
 -Partner Center
 
@@ -56,7 +56,7 @@ Na página de detalhes, você encontrará um link para o site do ISV, informaç�
 
 A compra do software de terceiros é igual à compra de um software primário. 
 
-1. Desde o **Partner Center**, selecione **os clientes**
+1. Dos **Partner Center**, selecione **clientes**
 2. Selecione **Nova assinatura**
 3. Selecione a cobrança mensal para software de terceiros. As cobranças anuais e de avaliação não estão disponíveis atualmente para terceiros.
 4. Na guia de terceiros, selecione o produto que deseja comprar

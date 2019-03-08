@@ -3,20 +3,20 @@ title: Competência Produtividade na Nuvem
 ms.topic: article
 ms.date: 10/29/2018
 description: A competência Produtividade na Nuvem é para parceiros especializados em implantações corporativas do Office 365. Diferencie sua empresa com esta competência como um provedor de soluções na nuvem comprovado para clientes em busca de parceiros de soluções na nuvem qualificados.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: competência, competências, Produtividade na Nuvem
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 86a423236440dbcf25b7974c1d24ba7f0a14fa2f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: f0aabf09435dbb1f08ddd79f6fac5075860c3033
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794639"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585489"
 ---
 >[!IMPORTANT]
->Para saber sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Para saber mais sobre os requisitos para obter essa competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 # Cloud Productivity competency

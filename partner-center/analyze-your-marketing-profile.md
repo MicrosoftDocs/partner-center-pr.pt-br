@@ -3,23 +3,23 @@ title: Analisar a eficácia do seu perfil de negócios | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Avaliar, negociar e responder a indicações por meio do Partner Center.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: e621ecb2c57b150b35aa363a19a35747a88a3931
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 1bc4282bb4864a7b3a009ab367d384ced519a5b8
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062254"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584509"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>Analisar a eficácia do seu perfil de negócios
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**Aplicável ao**
+**Aplica-se a**
 
 -  Partner Center
 
@@ -29,20 +29,20 @@ Depois de divulgar o [perfil de negócios](create-a-marketing-profile.md) da sua
 
 Quando [responder a essas referências](responding-to-referrals.md), você começará a obter dados sobre quantos desses RFIs são transformados em transações de negócios decisivas.
 
-Use esses relatórios ao refinar seus perfis de negócios para gerar mais clientes potenciais e mais clientes potenciais relevantes. Seus dados mostram o desempenho do perfil, analisam tendências e identificam as áreas que exigem ação. No menu Partner Center, vá para **páginas de Marketing gt _ indicações**.
+Use esses relatórios ao refinar seus perfis de negócios para gerar mais clientes potenciais e mais clientes potenciais relevantes. Seus dados mostram o desempenho do perfil, analisam tendências e identificam as áreas que exigem ação. No menu do Partner Center, vá para **referências > páginas de Marketing**.
 
 Esses relatórios mostram o desempenho dos perfis de negócios em todas as regiões. Os relatórios mostram os dados nos últimos 90 dias, agrupados por semanas.
 
-*  **Tendências**: mostra os últimos 90 dias, agrupados por semanas. dados semanais dos últimos 90 dias e a % de alterações do período anterior para as métricas a seguir:
+*  **Tendências**: Mostra os últimos 90 dias, agrupados por semanas. dados semanais dos últimos 90 dias e a % de alterações do período anterior para as métricas a seguir:
 
-   * **Exibições de página de marketing**: quantas vezes as pessoas visualizaram seu perfil de negócios
-   * **Cliques no botão de contato**: número de vezes que as pessoas selecionaram seu perfil de negócios na página **Encontrar um Parceiro**. Talvez isso não reflita quantas vezes as pessoas deram prosseguimento na criação de uma solicitação de informações (RFI).
-   * **A RFI é aceita**: número de vezes que você [aceitou indicações de cliente](responding-to-referrals.md) depois que eles enviaram uma solicitação de informações (RFI).
+   * **Exibições de página de marketing**: Quantas vezes as pessoas exibidos seu perfil de negócios
+   * **Entre em contato com cliques de botão**: Número de vezes que as pessoas selecionadas seu perfil de negócios do **encontre um parceiro** página. Talvez isso não reflita quantas vezes as pessoas deram prosseguimento na criação de uma solicitação de informações (RFI).
+   * **RFI é aceito**: Número de vezes que você [aceita as referências de cliente](responding-to-referrals.md) depois que elas enviou uma solicitação para obter informações (RFI).
 
 
-*  **Exibições de página**: mostra dados de tendência semanais nos últimos 90 dias.
+*  **Exibições de página**: Mostra os dados de tendência semanal para os últimos 90 dias.
    *  **Exibições de página de marketing por clientes**
-   *  **RFIs enviadas por clientes**
+   *  **RFIs enviados pelos clientes**
 
 Consulte os termos de pesquisa que os clientes estão usando para encontrar seu perfil. Esses relatórios mostram os dados semanais nos últimos 90 dias.
 

@@ -1,77 +1,77 @@
 ---
-title: A contribuição do parceiro - mantenha sobre os indicadores de desempenho | Partner Center
+title: Contribuição de parceiros - mantenha o controle de seus indicadores de desempenho | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-Description: Use partner contributions data to understand how your business is growing and succeeding
-author: labrenne
+Description: Usar dados de contribuições de parceiro para entender como sua empresa está crescendo e êxito
+author: LauraBrenner
 ms.author: labrenne
 keywords: dados de negócios
 ms.localizationpriority: medium
-ms.openlocfilehash: 704b7123a8eceea9e16692d9e5413875d9f6d92d
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 765f37a031098d65460e2cc603eb3d4efb8e4ea3
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995820"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587359"
 ---
 # <a name="partner-contribution-stay-on-top-of-your-performance-indicators"></a>Contribuição de parceiros: mantenha o controle de seus indicadores de desempenho
 
-**Aplica-se ao**
+**Aplica-se a**
 - Partner Center
 
 Os dados impulsionam as decisões de negócios. Use as métricas na página de Contribuição de Parceiros para identificar seu êxitos, os êxitos de seus clientes e as áreas que precisam de mais atenção. Use essas informações ao planejar novas metas de negócios.
 
 >[!NOTE]
->Contribuição do parceiro está disponível somente para os parceiros que vendem o Dynamics 365.
+>A colaborador de parceiros está disponível somente para os parceiros que vendem o Dynamics 365.
 
 Estamos monitorando as seguintes métricas:
 
-**Desempenho do parceiro**
+**Desempenho de parceiro**
 
-1. **Receita**: nova receita líquida em todos os tipos de licença (EA, CSP, Web, Direta), distribuídos para o produto e os filtros que você selecionou
-2. **Novos clientes adicionados**: número de clientes que você está adicionando.
-3. **Net pago estações adiciona**: número de novas estações pagas que você adicionou para o produto e filtro que selecionou.  Número líquido de clientes adicionados = (estações adicionadas) – (estações perdidas) 
+1. **Receita**: Receita líquida do novo em todos os tipos de licença (EA, CSP, Web, Direct), revertida para o produto e os filtros selecionados
+2. **Novos clientes adicionados**: Número de clientes que você está adicionando.
+3. **NET estações pagas adiciona**: O número de novas estações pagas você adicionou para o produto e filtrar você ter selecionado.  Número líquido de clientes adicionados = (estações adicionadas) – (estações perdidas) 
 
-**Capacidade do parceiro**
-4. **Indivíduos certificados**: esforços investidos no treinamento de sua base de consultores. Essa é a contagem de pessoas que passaram em um ou mais dos cinco exames que contam para a carga de trabalho que você selecionou. Soma de todos os indivíduos associados a você, em todos os seus locais de negócios.
-5. **Instâncias de produção**: implantações concluídas com êxito. Esse é o instantâneo mais recente das instâncias de produção disponíveis.
+**Capacidade de parceiro**
+4. **Certified indivíduos**: Os esforços investiram em sua base de consultor de treinamento. Essa é a contagem de pessoas que passaram em um ou mais dos cinco exames que contam para a carga de trabalho que você selecionou. Soma de todos os indivíduos associados a você, em todos os seus locais de negócios.
+5. **Instâncias de produção**: Implantações de foi concluída com êxito. Esse é o instantâneo mais recente das instâncias de produção disponíveis.
 
 **Sucesso do cliente**
 
-6.  **Usuários ativos mensais (MAU)**: aumentando o uso ativo do produto.
+6.  **Usuários ativos mensais (MAU)**: Aumentar o uso ativo do produto.
 (Número de usuários exclusivos que executaram uma ação intencional no TTM)/12
-7. **MAU vs. estações atribuídas**: aumentando o uso ativo para o produto, em comparação com o que os clientes pretendiam implantar. "(MAU)/(contagem atual de estações atribuídas)". As estações atribuídas incluem licenças que foram implantadas para contas de usuário específicas.  Inclui apenas assinaturas ativas e de cortesia. 
+7. **MAU versus atribuído-estações**: Aumento do uso de Active Directory para o produto em comparação comparado o que os clientes deve implantar. "(MAU)/(contagem atual de estações atribuídas)". As estações atribuídas incluem licenças que foram implantadas para contas de usuário específicas.  Inclui apenas assinaturas ativas e de cortesia. 
 
 
 **Medida**
 
 Cada métrica é exibida por uma barra (1 a 4) representando onde você está em relação a outros parceiros, usando os filtros selecionados (Produto, Carga de trabalho, Local do cliente). Os valores abaixo dessas barras são os intervalos de valores mínimo e máximo (mín. e máx.). Para exibir o intervalo mín. e máx. de cada barra, focalize a barra.  
 
-8. **Mês de atualização de dados**: as métricas são calculadas para os 12 meses até o mês selecionado.
-9. **Tendência de métricas**: tendência mês de 12 à direita em comparação comparada o mês anterior. Setas indicam a direção de tendência. Se você não vir uma seta, a tendência não foi alterada.
+8. **Atualização de dados do mês**: Métrica são computadas para os próximos 12 meses até o mês selecionado.
+9. **Tendência de métricas**: Tendência de 12 meses à direita em comparação comparada o mês anterior. As setas indicam a direção de tendência. Se você não vir uma seta, a tendência não foi alterado.
 
 >[!NOTE] 
 >- As métricas são acumuladas em todos os clientes durante os 12 meses (TTM), com exceção de "indivíduos certificados"        
 >- As métricas são calculadas com base nos filtros aplicados para Produto, Carga de trabalho e Localização do cliente
 >- Os dados de métricas são coletados somente para os clientes que escolheram você como seu DPOR (parceiro de registro digital). 
 
-Comentários de você sobre a contribuição do parceiro são bem-vindos. Envie para PCPCI@microsoft.com.  
+Seus comentários sobre a contribuição de parceiros são bem-vindos. Envie para PCPCI@microsoft.com.  
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
-1. Por que não consigo ver a página de contribuição do parceiro?
-    - Contribuição do parceiro está atualmente disponível apenas para parceiros que vendem o Dynamics 365 com contas MPN ou CSP. Esse recurso não está habilitado para China e Alemanha ainda.
-2. Sou um parceiro do Dynamics 365, por que não consigo ver os dados de contribuição de parceiros?
-    - Você não pode ter uma função de conta MPN ou CSP. Por exemplo: Advisor e DAP ainda não estão habilitados.  
-    - Talvez você não tenha a função de usuário apropriado em sua organização para exibir esta página. Entre em contato com seu administrador global.
-    - Sua organização está localizada na China ou Alemanha.
+1. Por que não consigo ver a página Contribuição de parceiros?
+    - A contribuição de parceiros está disponível somente para parceiros que vendem o Dynamics 365 com contas MPN ou CSP. Esse recurso ainda não está habilitado para a China e a Alemanha.
+2. Sou um parceiro Dynamics 365, por que não consigo ver os dados da Contribuição de parceiros?
+    - Talvez você não tenha uma função de conta CSP ou MPN. Por exemplo: O Supervisor e DAP não são habilitados ainda.  
+    - Talvez você não tenha a função de usuário apropriada em sua organização para exibir essa página. Entre em contato com o administrador global.
+    - Sua organização está localizada na China ou na Alemanha.
 
-3. Meu nova receita líquida > 0, mas não tem nenhum dado para usuários ativos mensais (MAU)?
-    - Para a maioria dos VL ou canal aberto clientes, cobrança aparecerá antes estações sejam provisionadas, portanto, não podemos ver MAU ainda.
+3. Minha Nova Receita Líquida > 0, mas não tenho dados para MAU (Usuários Ativos Mensalmente)?
+    - Para a maioria dos clientes de canal VL ou Open, a cobrança aparece antes que as estações sejam provisionadas, portanto não podemos ver o MAU ainda.
 
-4. Por que é meu MAU > 0, mas não têm dados para a nova receita líquida?
-   - Para Web Direct ou revendedor, estações sejam provisionadas antes de começa o ciclo de cobrança. Cobrança pode ocorrer um mês, trimestre ou ano posterior com base nas condições da assinatura. Isso também acontece com assinaturas de avaliação, direitos de uso interno e os clientes do governo dos Estados Unidos.
+4. Por que meu MAU > 0, mas não tenho dados para a Nova Receita Líquida?
+   - Para Web Direta ou Revendedor, as estações são provisionadas antes do início do ciclo de cobrança. A cobrança pode ocorrer por mês, trimestre ou ano mais tarde, com base nas termos da assinatura. Isso também ocorre com as Assinaturas de Avaliação, os Direitos de Uso Interno e os clientes do governamentais.
 5. Meus dados de receita não correspondem?
-   - Isso é mais provável devido a associação DPOR, diferenças de tempo ou dados não na nuvem.
-6. Por que meus dados individuais certificados é baixa?
-   - Mostramos apenas aqueles localizado em uma área de locatário determinado cliente e que passaram 1 ou mais dos 5 exames necessários para a competência de aplicativos de negócios na nuvem, envolvimento de clientes ou caminho de finanças e operações.   
+   - Isso é mais provável devido à associação DPOR, diferenças de tempo ou dados que não estão na nuvem.
+6. Por que meus dados individuais certificados são baixos?
+   - Mostramos apenas aqueles localizados em uma determinada área de locatário de cliente e de quem passou em um ou mais dos cinco exames necessários para o caminho de Competência de Apps Comerciais na Nuvem, Customer Engagement ou Finance & Ops.   

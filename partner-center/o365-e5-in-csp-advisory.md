@@ -8,15 +8,15 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: a16a02f64e1f87d5b5db44f8987a79f1f373459d
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795649"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585329"
 ---
-# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Consultoria para parceiros do Office 365: disponibilidade da SKU única do Office 365 E5 no CSP
+# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Consultoria de parceiro do Office 365: Disponibilidade de única SKU do Office 365 E5 no CSP
 
-**Aplicável a**
+**Aplica-se a**
 
 -  Partner Center
 
@@ -53,9 +53,9 @@ Após o lançamento em 5 de outubro, algumas SKUs mostrarão o mesmo nome de exi
 
 ### <a name="skus-appearing-on-the-csp-price-list-by-date-and-pstn-availability"></a>As SKUs que aparecem na tabela de preços do CSP por data e disponibilidade do serviço PSTN
 
-**Antes do lançamento da SKU única do Office 365 Ent. E5**
+**Antes de Ent único do Office 365. E5 Inicialização de única SKU**
 
-**Nome de exibição da oferta**
+**Nome de exibição de oferta**
 
 **ID da oferta**
 
@@ -94,9 +94,9 @@ Complemento PSTN
 
  
 
-**Após o lançamento da SKU única do Office 365 Ent. E5**
+**Após o lançamento de Ent único do Office 365. E5 Inicialização de única SKU**
 
-**Nome de exibição da oferta**
+**Nome de exibição de oferta**
 
 **ID da oferta**
 
@@ -110,21 +110,21 @@ Complemento PSTN
 
 **a044b16a-1861-4308-8086-a3a3b506fac2**
 
-**28,40**
+**28.40**
 
-**35,00**
+**35.00**
 
-**Nova SKU única**
+**Nova SKU único**
 
-**Office 365 Enterprise E5 sem Conferência PSTN**
+**O Office 365 Enterprise E5 sem conferência PSTN**
 
 **02c07b64-2cd3-4667-b014-561192fc5d1a**
 
-**28,40**
+**28.40**
 
-**35,00**
+**35.00**
 
-**Nova SKU única para membros não PSTN**
+**Nova SKU único para membros não-PSTN**
 
 Office 365 Enterprise E5 sem Conferência PSTN
 
@@ -148,7 +148,7 @@ Complemento PSTN
 
  
 
-## <a href="" id="invoices-and-partner-reconciliation-files-"></a>Faturas e arquivos de reconciliação de parceiros
+## <a href="" id="invoices-and-partner-reconciliation-files-"></a>As faturas e arquivos de reconciliação de parceiro
 
 
 O arquivo de reconciliação e faturas do CSP fornecem itens de linha separados para os componentes PSTN e não PSTN da SKU única do Office 365 Enterprise E5. Os dois itens de linha têm nomes idênticos e IDs idênticas, mas cada item de linha tem um preço unitário exclusivo (exemplo: US$ 28,40 e US$ 2,00). Isso separa o componente Conferência do Skype for Business da oferta do Office 365, portanto, você pode aplicar impostos corretamente.
@@ -168,14 +168,14 @@ Um exemplo de reconciliação de parceiros:
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>ID_oferta_durável</strong></td>
-<td><strong>Nome_Oferta</strong></td>
-<td><strong>Data_Início_Assinatura</strong></td>
-<td><strong>Data_Término_Assinatura</strong></td>
-<td><strong>Data_Início_Encargos</strong></td>
-<td><strong>Data_Término_Encargos</strong></td>
-<td><strong>Tipo_Encargo</strong></td>
-<td><strong>Preço_Unitário</strong></td>
+<td><strong>Durable_offer_ID</strong></td>
+<td><strong>Offer_Name</strong></td>
+<td><strong>Subscription_Start_Date</strong></td>
+<td><strong>Subscription_End_Date</strong></td>
+<td><strong>Charge_Start_Date</strong></td>
+<td><strong>Charge_End_Date</strong></td>
+<td><strong>Charge_Type</strong></td>
+<td><strong>Unit_Price</strong></td>
 </tr>
 <tr class="even">
 <td><p>a044b16a-1861-4308-8086-a3a3b506fac2</p></td>
@@ -207,11 +207,11 @@ Um exemplo de reconciliação de parceiros:
 
 Para obter mais detalhes, visite o site do [Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx). Recursos específicos do Office 365 Enterprise E5 estão localizados na [página do Office 365 E5](https://drumbeat.office.com/partner/pages/e5.aspx) na guia **Comercializar e vender**:
 
--   **Licenciamento do Office 365 Enterprise E5**
+-   **O Office 365 Enterprise E5 licenciamento**
 
--   **Visão geral do licenciamento de serviços PSTN do Skype for Business**
+-   **Visão geral do licenciamento de serviços do Skype for Business PSTN**
 
--   **Perguntas frequentes sobre licenciamento do Office 365 E5 e do Skype for Business**
+-   **Office 365 E5 e Skype for Business, perguntas frequentes sobre licenciamento**
 
  
 

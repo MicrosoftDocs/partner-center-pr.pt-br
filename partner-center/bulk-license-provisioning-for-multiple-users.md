@@ -6,18 +6,18 @@ description: Você pode atribuir licenças e serviços a um usuário ou a vário
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: assign license, revoke license, assign to multiple users,
+Keywords: atribuir licença, revogar a licença, atribuir a vários usuários,
 ms.localizationpriority: medium
 ms.openlocfilehash: 4a5e81d78a8e07b6fc5c5d3b13a6e2d9ebeecd4c
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795349"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584249"
 ---
-# <a name="assign-or-revoke-licenses-to-multiple-users"></a>Atribuir licenças a vários usuários ou revogá-las
+# <a name="assign-or-revoke-licenses-to-multiple-users"></a>Atribua licenças a vários usuários ou revogue-as
 
-**Aplicável a**
+**Aplica-se a**
 
 -  Partner Center
 
@@ -29,12 +29,12 @@ o Partner Center rastreia e mostra todos os direitos de licença de propriedade 
 
 
 -   [Atribuir licenças a vários usuários](#assign-licenses-to-groups)
--   [Revogando atribuições de licença dos usuários](#revoking-licenses)
+-   [Revogar as atribuições de licença de usuário](#revoking-licenses)
 
 <a href="" id="assign-licenses-to-groups"></a>
 **Atribuir licenças a vários usuários**
 
-1.  No menu **Partner Center** , selecione **os clientes**e, em seguida, escolha um cliente na lista.
+1.  Dos **Partner Center** menu, selecione **clientes**e, em seguida, escolha um cliente da lista.
 2.  Selecione **Usuários e licenças**.
 3.  Marque a caixa de seleção de dois ou mais usuários na lista. (Para selecionar todos os usuários na página atual, marque a caixa de seleção na parte superior da coluna **Usuários**.)
 
@@ -60,16 +60,16 @@ o Partner Center rastreia e mostra todos os direitos de licença de propriedade 
 7.  Selecione mais de um produto para os usuários marcando a caixa de seleção de cada produto.
     -   Selecione **Exibir planos de serviço** para qualquer produto, para ver e selecionar os planos de serviço de que os usuários precisam.
 
-8.  Selecione **Salvar**. O Partner Center abrirá uma página de confirmação **licenças atualizadas** listando os usuários e suas novas licenças.
+8.  Selecione **Salvar**. O Partner Center abre uma **licenças atualizadas** listando os usuários e suas novas licenças de página de confirmação.
 
-**Observação**alguns produtos da Microsoft podem não estar disponíveis em determinados locais. Outros produtos dependem de outros produtos ou serviços ou não podem ser atribuídos em conjunto ao mesmo usuário. Depois de salvar, a página de confirmação listará os resultados da atribuição de licença bem-sucedida para todos os usuários e quaisquer erros da atribuição de licença.
+**Observação**  alguns produtos da Microsoft podem não estar disponíveis em determinados locais. Outros produtos dependem de outros produtos ou serviços ou não podem ser atribuídos em conjunto ao mesmo usuário. Depois de salvar, a página de confirmação listará os resultados da atribuição de licença bem-sucedida para todos os usuários e quaisquer erros da atribuição de licença.
 
  
 
 <a href="" id="revoking-licenses"></a>
-**Revogando atribuições de licença dos usuários**
+**Revogar as atribuições de licença de usuário**
 
-1.  No menu **Partner Center** , selecione **os clientes**e, em seguida, escolha um cliente na lista.
+1.  Dos **Partner Center** menu, selecione **clientes**e, em seguida, escolha um cliente da lista.
 2.  Selecione **Usuários e licenças**.
 3.  Marque a caixa de seleção de dois ou mais usuários na lista. (Para selecionar todos os usuários na página atual, marque a caixa de seleção na parte superior da coluna **Usuários**.)
 
@@ -83,7 +83,7 @@ o Partner Center rastreia e mostra todos os direitos de licença de propriedade 
 ## <a name="related-topics"></a>Tópicos relacionados
 
 
-[Atribua licenças a um usuário](assign-licenses-to-users.md)
+[Atribuir licenças a um usuário](assign-licenses-to-users.md)
 
  
 

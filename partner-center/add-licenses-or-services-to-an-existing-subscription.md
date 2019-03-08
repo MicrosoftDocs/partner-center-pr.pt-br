@@ -9,15 +9,15 @@ ms.author: evansma
 keywords: adicionar licenças à assinatura existente, adicionar estações à assinatura existente, modificar uma assinatura, alterar uma assinatura, comprar mais licenças para um cliente
 ms.localizationpriority: medium
 ms.openlocfilehash: b76a0d4fd5bf8829c6e2426174f5873f30757315
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098773"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585429"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Adicionar licenças ou serviços a uma assinatura existente
 
-**Aplicável a**
+**Aplica-se a**
 
 -  Partner Center
 
@@ -41,7 +41,7 @@ As atualizações a seguir têm suporte no Provedor de Soluções na Nuvem:
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office365Business</td>
+<td>Office 365 Business</td>
 <td><ul>
 <li>Office 365 Business Premium¹</li>
 <li>Office 365 ProPlus</li>
@@ -50,14 +50,14 @@ As atualizações a seguir têm suporte no Provedor de Soluções na Nuvem:
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office365BusinessPremium</td>
+<td>Office 365 Business Premium</td>
 <td><ul>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office365BusinessEssentials</td>
+<td>Office 365 Business Essentials</td>
 <td><ul>
 <li>Office 365 Business Premium¹</li>
 <li>Office 365 Enterprise E1</li>
@@ -67,7 +67,7 @@ As atualizações a seguir têm suporte no Provedor de Soluções na Nuvem:
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office365BusinessIndia e Office365BusinessEssentialsIndia podem ser atualizados para Office365BusinessPremiumIndia, não para Office365BusinessPremium.</p></td>
+<td><p>¹ Índia de negócios do office 365 e Office 365 Business Essentials Índia podem ser atualizado para o Office 365 Business Premium na Índia, não para o Office 365 Business Premium.</p></td>
 </tr>
 </tbody>
 </table>
@@ -93,7 +93,7 @@ Para saber mais sobre o impacto disso na cobrança, consulte os detalhes sobre c
 1.  Para ver se uma assinatura é qualificada para atualização, escolha seu cliente e abra a lista de assinaturas dele.
 2.  Se a assinatura pode ser atualizada, você verá um ícone informativo logo após o nome de assinatura. Passe o mouse sobre esse ícone e selecione **Atualizar agora**.
 3.  Selecione a oferta de nova, em seguida, escolha **Enviar**.
-4.  Pode haver trabalho adicional para a transição de algumas contas de usuário para determinados serviços. Em caso afirmativo, o Partner Center fornece uma lista de contas e serviços que foram afetados. Para obter ajuda, consulte o artigo da base de dados de conhecimento [Problemas ao reatribuir licenças enquanto você alterna planos no Office 365](https://go.microsoft.com/fwlink/p/?LinkId=723576).
+4.  Pode haver trabalho adicional para a transição de algumas contas de usuário para determinados serviços. Nesse caso, o Partner Center fornece uma lista de contas e serviços que foram afetados. Para obter ajuda, consulte o artigo da base de dados de conhecimento [Problemas ao reatribuir licenças enquanto você alterna planos no Office 365](https://go.microsoft.com/fwlink/p/?LinkId=723576).
 
  
 

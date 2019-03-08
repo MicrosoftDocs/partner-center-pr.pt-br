@@ -3,20 +3,20 @@ title: Informações fiscais da organização | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Os impostos sobre compras na Windows Store para Empresas são determinados pelo seu endereço comercial. As empresas nesses países/regiões podem fornecer seu número de IVA ou equivalente local.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2a7d06a812098812b8edef274e7ca2b7de2f5c44
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 68473522176eba2bc3afdfe8625428da117c9f33
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917478"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584069"
 ---
 # <a name="organization-tax-information"></a>Informações fiscais da organização
 
-**Aplicável ao**
+**Aplica-se a**
 
 -  Partner Center
 
@@ -24,9 +24,9 @@ Os impostos sobre compras na Windows Store para Empresas são determinados pelo 
 
 ### <a name="add-your-vat-id"></a>Adicionar seu ID do IVA
 
-1.  Do **Partner Center** , vá para **ofertas de associação**-> **disponível**
-2.  Selecione **Adicionar seu ID de IVA**
-3.  Insira a ID de IVA para sua organização, selecione **Adicionar** e, em seguida, selecione **Avançar**.
+1.  Dos **Partner Center** acesse **associação oferece**-> **disponível**
+2.  Selecione **adicionar sua ID do IVA**
+3.  Insira a ID de IVA da sua organização, selecione **Add** e, em seguida, selecione **próxima**.
 
 
 

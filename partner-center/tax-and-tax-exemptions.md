@@ -8,27 +8,27 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 58c11c47a5d3e069fcbcea1a234cf6cf548a8006
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098803"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585299"
 ---
 # <a name="tax-and-tax-exemptions"></a>Impostos e isenções fiscais
 
-**Aplicável a**
+**Aplica-se a**
 
 -  Partner Center
--  Partner Center for Microsoft Cloud for US Government
+-  Partner Center para Microsoft Cloud for US Government
 
 
 Como o Provedor de Soluções na Nuvem é um canal de vendas concentrado na revenda de produtos do parceiro, a Microsoft nem sempre precisa cobrar impostos sobre vendas em faturas de parceiros. As regras variam de acordo com o país/região. Os parceiros devem trabalhar com seu consultor de impostos para protocolar as isenções fiscais apropriadas com base em seus locais e na localização de seus clientes. Para marcar sua conta de revendedor da Microsoft como não tributada, o parceiro deve enviar esses certificados de isenção para a Microsoft.
 
-**Protocole uma isenção de imposto**
+**Arquivo de uma isenção de imposto**
 
-1.  Procure sua **ID da Microsoft** no Partner Center &gt; **configurações da conta** &gt; **perfil de organização**.
-2.  Procure sua **ID do MPN** no Partner Center &gt; **configurações da conta** &gt; **perfil do parceiro**.
-3.  Crie um novo tíquete de suporte. No menu Partner Center, selecione **solicitações de serviço** &gt; **solicitações do Partner Center** &gt; **nova solicitação**.
+1.  Pesquisar seus **ID da Microsoft** no Partner Center &gt; **configurações de conta** &gt; **perfil organização**.
+2.  Pesquisar seus **ID do MPN** no Partner Center &gt; **configurações de conta** &gt; **perfil do parceiro**.
+3.  Crie um novo tíquete de suporte. No menu do Partner Center, selecione **solicitações de serviço** &gt; **solicita do Partner Center** &gt; **nova solicitação**.
 4.  Preencha o formulário. Para o **Tipo de problema**, escolha **Não é possível gerenciar meu perfil**. Na descrição, inclua sua ID do MPN e a ID da Microsoft.
 5.  Depois de enviar o tíquete, a Microsoft enviará um email a você para obter mais informações. Ao responder, anexe a documentação de apoio apropriada para os certificados de isenção de imposto.
 
@@ -52,7 +52,7 @@ Como o Provedor de Soluções na Nuvem é um canal de vendas concentrado na reve
 <p>A Microsoft não oferece suporte a crédito e nova cobrança, então, antes de vender qualquer assinatura você deve registrar seu número de ID de IVA no Partner Center.</p>
 <p>Envie seu número de ID de IVA à Microsoft</strong></p>
 <ol>
-<li>No Partner Center, vá para o menu Partner Center &gt; <strong>configurações da conta</strong> &gt; <strong>perfil de cobrança do parceiro</strong>.</li>
+<li>No Partner Center, vá para o menu do Partner Center &gt; <strong>configurações de conta</strong> &gt; <strong>perfil de cobrança do parceiro</strong>.</li>
 <li>Na seção <strong>Dados financeiros</strong>, selecione <strong>Atualizar</strong>.</li>
 <li>Na <strong>ID de Imposto da Empresa</strong>, especifique o número de ID de IVA.</li>
 </ol></td>

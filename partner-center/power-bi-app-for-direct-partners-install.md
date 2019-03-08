@@ -4,34 +4,34 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Siga as etapas abaixo para visualizar o aplicativo de análise do Partner Center para Power BI (para parceiros diretos no CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ef641484ada5332a7129e13f8d7bbd8f1d269f96
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: d51c7afa2ebe69218aeb926c46425bcbd4245cb0
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995550"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585859"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instale e visualize o aplicativo de análise do Partner Center para Microsoft Power BI
 
-**Aplicável ao**
+**Aplica-se a**
 
 - Partner Center
 
 ## <a name="before-you-begin"></a>Antes de começar
 
-Selecione o aplicativo que é mais relevante para seus negócios da lista de aplicativos disponíveis do Power BI a seguir:
+Selecione o aplicativo que é mais relevante para o seu negócio na lista a seguir de aplicativos do Power BI disponíveis:
 - [Parceiro direto](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
 
 - [Parceiro indireto](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
 
-- [Revendedor Indireto](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
+- [Revendedores indiretos](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
 
 Antes de instalar a versão de visualização do aplicativo análises do Partner Center, certifique-se de que você atende aos seguintes requisitos.
 
-- Você pode escolher o aplicativo Power BI correto para sua empresa.
+- Escolha o aplicativo do Power BI correto para a sua empresa.
 
 - Você tem uma assinatura ativa Microsoft Power BI Professional ou Microsoft Power BI Premium.
 
@@ -62,4 +62,4 @@ Depois que carregamento de dados é concluído, você pode começar a usar o pai
 
 ## <a name="next-steps"></a>Próximas etapas
 
-[Visualize seus dados de negócio com o aplicativo de análise do Partner Center para Microsoft Power BI](power-bi-app-for-direct-partners-use.md)
+[Exibir seus dados de negócios com o aplicativo de análise do Partner Center para Microsoft Power BI](power-bi-app-for-direct-partners-use.md)

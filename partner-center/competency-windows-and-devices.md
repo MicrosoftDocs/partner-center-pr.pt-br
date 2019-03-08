@@ -3,20 +3,20 @@ title: Competência Windows and Devices
 ms.topic: article
 ms.date: 10/29/2018
 description: Compartilhe nossa meta de ter o Windows 10 em 1 bilhão de dispositivos. A oportunidade abrange serviços, aplicativos e dispositivos. Esta competência fornece ferramentas, conteúdo e recursos para ajudá-lo a criar e expandir sua prática rentável do Windows 10.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 robots: noindex,nofollow
 keywords: competência,competências,Windows and Devices
 ms.localizationpriority: medium
-ms.openlocfilehash: 12798d8a500cde7a3fb35d806064277fd2b8c6a6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 634aedeafc118cd661f11cb927944499feda46af
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795579"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584609"
 ---
 >[!IMPORTANT]
->Para saber sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Para saber mais sobre os requisitos para obter essa competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 

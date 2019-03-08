@@ -8,23 +8,23 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 0094b7f8b6314e776d5d4db6a19c49eb2ff0f4e1
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683485"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583999"
 ---
 # <a name="multi-partner-support"></a>Suporte multi-parceiro
 
-**Aplicável a**
+**Aplica-se a**
 
 -  Partner Center
--  Partner Center for Microsoft Cloud for US Government
+-  Partner Center para Microsoft Cloud for US Government
 
 
-Recurso de multi-parceiro do Partner Center oferece suporte a cenários quando um cliente deseja trabalhar com mais de um parceiro. Por exemplo, um cliente pode querer contratar um parceiro por sua experiência em Office 365, mas contratar um parceiro diferente com especialização em Microsoft Azure.
+Recurso de múltiplos parceiro do Partner Center dá suporte a cenários, quando um cliente deseja trabalhar com mais de um parceiro. Por exemplo, um cliente pode querer contratar um parceiro por sua experiência em Office 365, mas contratar um parceiro diferente com especialização em Microsoft Azure.
 
-Para usar o recurso de vários parceiro no Partner Center, convide o cliente para dar a você privilégios administrativos delegados. Consulte [Solicitar uma relação com um cliente](request-a-relationship-with-a-customer.md) para obter informações sobre como estabelecer uma relação com um cliente que já está trabalhando com um parceiro.
+Para usar o recurso de múltiplos parceiro no Partner Center, convidar o cliente para lhe dar privilégios de administrativas delegados. Consulte [Solicitar uma relação com um cliente](request-a-relationship-with-a-customer.md) para obter informações sobre como estabelecer uma relação com um cliente que já está trabalhando com um parceiro.
 
 A funcionalidade de vários parceiros não:
 
@@ -37,7 +37,7 @@ A funcionalidade de vários parceiros não:
 -   Mudar o parceiro de registro para uma inscrição
 
 > [!IMPORTANT]  
-> Um parceiro CSP não revende serviços online para outro parceiro CSP no momento. A Microsoft examina continuamente as políticas e os recursos de todos os programas. Quaisquer anúncios sobre as versões de recurso serão anunciados por meio dos canais de comunicação, incluindo o Partner Center.  
+> Um parceiro CSP não revende serviços online para outro parceiro CSP no momento. A Microsoft revisa continuamente as políticas e competências de todos os programas. Quaisquer anúncios sobre lançamentos de recursos serão anunciados por meio dos canais de comunicação comum, incluindo o Partner Center.  
 
  
 

@@ -3,19 +3,19 @@ title: Entenda seus pagamentos de incentivos | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Veja os lucros e pagamentos de cada um dos programas de incentivo.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3cf700332c22fc75605b9eacc3af05997f7a387d
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: c7c40434f8d762507623ac4ee4b84d4c7b42616a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995950"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585379"
 ---
-# <a name="incentive-payouts-overview"></a>Visão geral de pagamentos de incentivos
+# <a name="incentive-payouts-overview"></a>Visão geral de pagamentos incentivos
 
-**Aplica-se ao**
+**Aplica-se a**
 
 -  Partner Center
 
@@ -106,12 +106,12 @@ As tabelas a seguir descrevem os campos que aparecem nos arquivo .csv de demonst
 |IDdeLucro      |Identificador exclusivo criado para cada item de linha de lucro |               
 |Nome do parceiro   | Nome registrado do parceiro no Partner Center                    |
 |MPN/PCN        |ID do MPN (ID do parceiro no Microsoft Partner Network)/ Número Público do Cliente|
-|Localização       | País/região da ID V-Org MPN do parceiro|
+|Location       | País/região da ID V-Org MPN do parceiro|
 |Nome do programa   |Nome do programa de incentivo |
 |Nome do cliente  |   Nome do cliente que comprou a assinatura |
 |Localização do cliente  | País em que o cliente está localizado  |
 |Número do contrato mestre    |Nome do contrato |
-|NúmerodaFatura| Número da fatura|
+|InvoiceNumber| Número da fatura|
 |Número do contrato   |Número do contrato de licença |
 |ID da assinatura    |ID da assinatura |
 |Data de início do contrato   |Data de início do contrato de licença |
@@ -151,7 +151,7 @@ As tabelas a seguir descrevem os campos que aparecem nos arquivo .csv de demonst
 |-------------------|:--------------------|
 |Nome do parceiro|Nome registrado do parceiro no Partner Center|
 |MPN/PCN        |ID do MPN (ID do parceiro no Microsoft Partner Network)/ Número Público do Cliente|
-|Localização       | País/região da ID V-Org MPN do parceiro|
+|Location       | País/região da ID V-Org MPN do parceiro|
 |Nome do programa   |Nome do programa de incentivo |
 |Tipo de lucro   |Tipo de lucro (reembolso, ajuste) |
 |Moeda do valor de pagamento|   O tipo de moeda usada para pagamento|

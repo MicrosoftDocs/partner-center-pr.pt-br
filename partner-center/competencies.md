@@ -3,17 +3,17 @@ title: Ganhar competências Microsoft | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Ganhe competências Prata e Ouro da Microsoft para demonstrar seu conhecimento comprovado no fornecimento de soluções de qualidade em uma área especializada de negócios
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: competências, afiliação silver, afiliação gold, mpn, MAPS, proficiência, benefícios, metas de desempenho, metas de habilidades
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 23abe1e491eab6eb4811bf7d87095b2a525e65bc
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: d0c78aa6c84cc1385e7c3ddeef5d434e91e1740a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098783"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586119"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -29,7 +29,7 @@ ms.locfileid: "9098783"
 
 # <a name="competencies"></a>Competências
 
-**Aplicável a**
+**Aplica-se a**
 -  Partner Center
 
 Conquistar competências Microsoft mostra sua experiência comprovada no fornecimento de soluções de qualidade. Participe da camada de elite dos Parceiros da Microsoft e destaque-se entre seus colegas. Use-as para: 
@@ -38,9 +38,9 @@ Conquistar competências Microsoft mostra sua experiência comprovada no forneci
 
 *  **Demonstrar seu conhecimento comprovado**. [Tenha mais indicações de negócios](referrals.md) mostrando aos clientes em potencial que você pode atender às suas necessidades por uma linha de negócios específica.
 
-## <a href="" id="attainment_paths"></a> Caminhos de competências
+## <a href="" id="attainment_paths"></a> Caminhos de competência
 
-[Requisitos de competência para participação silver e gold](learn-about-competencies.md)
+[Requisitos de competência para associação silver e gold](learn-about-competencies.md)
 
 ## <a name="earn-competencies"></a>Ganhar competências
 
@@ -58,15 +58,15 @@ As **metas com base em habilidades** incluem:
 
 Algumas competências têm várias maneiras para atingir o nível Silver ou Gold.
 
-Para verificar o progresso em uma competência, no Partner Center Partner Center, vá para a **parceria gt _ competências**. 
+Para verificar seu progresso em uma competência, do Partner Center Partner Center, vá para o **parceria > competências**. 
 
-### <a href="" id="associating_achievements"></a>Faça com que seus funcionários se conectem para concluir metas com base em habilidades
+### <a href="" id="associating_achievements"></a>Obter seus funcionários conectados às metas de baseado em habilidades concluídas
 
-1.  Adicione contas de usuário para os funcionários em sua organização. Desde o [Partner Center](https://partnercenter.microsoft.com), vá para a **conta settings gt _ Adicionar usuário**. (Os usuários do PMC podem adicionar vários usuários por vez, selecionando **Adicionar usuários usando dados do PMC**.)
+1.  Adicione contas de usuário para os funcionários em sua organização. Dos [Partner Center](https://partnercenter.microsoft.com), acesse **configurações de conta > Adicionar usuário**. (Os usuários do PMC podem adicionar vários usuários por vez, selecionando **Adicionar usuários usando dados do PMC**.)
 
     Depois que as contas de usuário forem criadas, enviaremos a elas um novo nome de usuário e senha, e você será solicitado a baixar um arquivo de log que contém as informações para ajudar a restaurar o nome de usuário e senha conforme necessário. Você também pode [configurar as contas de usuário para que os usuários possam redefinir as senhas por si próprios](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started).
 
-2. Peça aos funcionários em sua organização para se conectarem e associarem a conta da Microsoft (MSA) à conta de usuário. (Desde o [Partner Center](https://partnercenter.microsoft.com), vá para **configurações da conta**). Os funcionários podem usar as mesmas ou diferentes MSAs para associar seus exames técnicos e certificações e suas contas por meio do Microsoft Partner University.
+2. Peça aos funcionários em sua organização para se conectarem e associarem a conta da Microsoft (MSA) à conta de usuário. (Da [Partner Center](https://partnercenter.microsoft.com), acesse **configurações de conta**.) Os funcionários podem usar as MSAs iguais ou diferentes para associar seus exames técnicos da Microsoft e certificações e suas contas por meio do Microsoft Partner University.
 
 3.  **Aguarde 24 horas** depois que um funcionário tiver associado sua conta ou concluído uma meta com base em habilidades. Após esse tempo, o progresso será exibido na seção **Competências**.
 
@@ -84,13 +84,13 @@ Para comprar o pacote de benefícios Silver, você só precisa demonstrar habili
 
 Para comprar o pacote de benefícios Gold, você só precisa demonstrar habilidades do nível Gold em um caminho. Após o upgrade para Gold, serão exibidas as competências de nível Silver e Gold que você atingiu em seu perfil de negócios. 
 
-### <a href="" id="maintain_membership"></a> Manter e renovar a associação
+### <a href="" id="maintain_membership"></a> Manter e renovação de associação
 
 Para renovar sua associação, é preciso continuar demonstrando habilidades em produtos e serviços Microsoft. O status de sua assinatura permanece até o final do ano em que você a comprou.
 
 Conquistas expiradas podem fazer com que você não se qualifique para fazer upgrade ou renovar suas associações de parceiros no mesmo nível. 
 
-Se você receber o alerta: **"Uma recente alteração em sua obtenção de competência colocou sua qualificação de renovação de associação em risco"**, isso significa que uma ou mais de suas conquistas de competência correm o risco de expirar. 
+Se você receber o alerta: **"Uma alteração recente para sua realização de competência tem colocar sua qualificação de renovação de associação em risco"**, isso significa que um ou mais das suas realizações de competência é com risco de vencimento. 
 
 Isso geralmente ocorre quando um funcionário que ajuda a organização a cumprir os requisitos de certificação ou exame para uma conquista de competência deixa a organização. 
 
@@ -100,4 +100,4 @@ Para renovar ou fazer upgrade de sua participação no mesmo nível, é necessá
 
 ## <a name="related-topics"></a>Tópicos relacionados
 
-[Requisitos de competência para participação silver e gold](learn-about-competencies.md)
+[Requisitos de competência para associação silver e gold](learn-about-competencies.md)

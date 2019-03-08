@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Crie um perfil de negócios no Partner Center para obter as oportunidades de vendas da Microsoft.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: pinpoint, indicações, oportunidades de venda, C2PC, perfil de negócios, comercializar sua empresa, localizar um parceiro, localizar um provedor de soluções, perfil de negócios, perfil de marketing
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e6357bcbecf32ef312b6efbdaa8082d29a48d87
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 26497b52702a1be6797a4d2e3b77d9ab0f73d47a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062354"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587329"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -26,7 +26,7 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 
 # <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>Criar um perfil de negócios para obter oportunidades de vendas da Microsoft
 
-**Aplicável a**
+**Aplica-se a**
 
 -  Partner Center
 -  Parceiros do Microsoft Partner Network
@@ -43,20 +43,20 @@ Para obter esses clientes em potencial, primeiramente você deve criar um perfil
 *  **Referências de vendas da Microsoft e funcionários de serviço**. Os clientes em potencial interessados na implantação de soluções de tecnologia com base em nuvem entram em contato com a Microsoft para ajudar a encontrar profissionais que podem atender às suas necessidades de negócios. Esses profissionais da Microsoft poderão então consultar os clientes em potencial para sua empresa.
 
 > [!IMPORTANT]  
-> Para ajudarmos nossos parceiros a simplificar as operações de negócios, estamos consolidando recursos e funcionalidades que costumavam estar espalhados por vários sites e ferramentas no Partner Center, este site. Como parte desse esforço, movemos todos os recursos relacionados a indicações para o Partner Center e desativamos os sites Pinpoint e C2PC. Se você usava o Pinpoint ou o C2PC no passado para obter e gerenciar indicações da Microsoft, você precisará criar um novo perfil de negócios no Partner Center para continuar a obter indicações. Nós não damos mais suporte a perfis desses sites. 
+> Para ajudar nossos parceiros para simplificar as operações de negócios, estamos consolidando recursos e funcionalidades que costumava ser distribuídos em vários sites e ferramentas no Partner Center, este site. Como parte desse esforço, nós movido todos os recursos relacionados a referências para o Centro de parceiros e desativado os sites e C2PC de Pinpoint. Se você usou o Pinpoint ou C2PC no passado para obter e gerenciar as referências da Microsoft, você precisará criar um novo perfil de negócios no Partner Center para continuar a obter referências. Nós não damos mais suporte a perfis desses sites. 
 
 ## <a name="create-a-profile"></a>Criar um perfil
 
 > [!NOTE]  
->  Antes de criar um perfil de negócios, você deve ter uma conta do Partner Center. Se você ainda não tiver uma conta do Partner Center, consulte [Criar uma conta do Partner Center](mpn-create-a-partner-center-account.md) para obter ajuda para criar uma. 
+>  Antes de criar um perfil comercial, você deve ter uma conta no Partner Center. Se você ainda não tiver uma conta do Partner Center, consulte [Criar uma conta do Partner Center](mpn-create-a-partner-center-account.md) para obter ajuda para criar uma. 
 
 Crie perfis para cada região na qual tenha autorização para fazer negócios. 
 
-1.  No menu **Partner Center** , selecione **indicações** &gt; **perfis de negócios** &gt; selecione um país/região gt _ **[criar um perfil de negócios](https://partnercenter.microsoft.com/pcv/publishing)**.
+1.  Dos **Partner Center** menu, selecione **referências** &gt; **perfis de negócios** &gt; selecione um país/região >  **[ Criar um perfil comercial](https://partnercenter.microsoft.com/pcv/publishing)**.
 
 2.  Na página **Criar um perfil de negócios**, selecione uma região e então insira as informações do seu perfil.
     > [!NOTE]  
-    >  Embora o Partner Center oferece suporte a vários idiomas, alguns elementos, como a descrição e as marcas de forma livre, talvez precisem incluir texto de idiomas diferentes, como observado neste tópico.
+    >  Enquanto o Partner Center dá suporte a vários idiomas, alguns elementos, como a descrição e marcas de forma livre, talvez seja necessário incluir o texto em linguagens diferentes, conforme indicado neste tópico.
 
 ### <a href="" id="partner_info"></a>Informações do parceiro
 
@@ -75,7 +75,7 @@ Sua descrição pode ter até 2500 caracteres. Dicas para uma ótima descrição
 *  **Não faça referência a outra empresa parceira da Microsoft pelo nome**, a menos que ela seja uma subsidiária ou afiliada de alguma forma à sua empresa ou que você atualmente tenha um contrato com essa empresa para atuar em parceria e/ou promover uma a outra para oportunidades de trabalho compartilhado.
 *  **Para regiões com vários idiomas**, considere a inclusão de texto de vários idiomas na descrição.
 
-#### <a href="" id="linkedin"></a> Página da empresa no LinkedIn: mais maneiras de se conectar
+#### <a href="" id="linkedin"></a> Página de empresa do LinkedIn: mais maneiras de se conectar
 
 Adicione sua página de empresa do LinkedIn para fortalecer suas conexões de clientes em potencial. 
 
@@ -98,17 +98,17 @@ Outras marcas usadas em pesquisa:
 *  **Marcas de competência** são uma designação obtida através da apresentação das habilidades da sua empresa.
 *  **Marcas de endosso** são obtidas quando a Microsoft ou seus clientes que trabalharam com você endossam seu trabalho.
 
-#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Permitir que a Microsoft endosse minhas áreas de conhecimento
+#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Permitir que a Microsoft endosse Minhas áreas de especialização
 
 É recomendável deixar essa configuração marcada. 
 
-Conforme demonstra sucesso com os clientes por meio do Partner Center, ou participação em outras certificações da Microsoft ou programas, adicionaremos automaticamente autenticações para seus produtos específicos, serviços e setores contribuindo para esse sucesso. Autenticações são um fator importante nos resultados da pesquisa.
+Conforme você demonstrar o sucesso com os clientes por meio do Partner Center ou participar de outras certificações da Microsoft ou programas, adicionaremos automaticamente endossos para seus produtos específicos, serviços e setores que contribuem para esse sucesso. Autenticações são um fator importante nos resultados da pesquisa.
 
 No entanto, se existirem produtos para os quais você fornece serviços e que não deseja mostrá-los em seu perfil, é possível desmarcar essa caixa de seleção e gerenciar seu perfil manualmente. Essas autenticações ficarão ocultas na sua exibição de clientes, mas você pode adicioná-las ao seu perfil posteriormente a qualquer momento.
 
 ### <a name="customer-preferences"></a>Preferências do cliente
 
-#### <a href="" id="#target_size"></a>Tamanho do alvo
+#### <a href="" id="#target_size"></a>Tamanho de destino
 
 Você pode recusar as indicações geradas por empresas que não atendem ao porte do cliente de destino.
 
@@ -140,4 +140,4 @@ Depois que você publicar o seu perfil, as atualizações aparecerão nas pesqui
 *  **Ganhe marcas de endosso** de clientes que apreciam seu trabalho.
 
 ## <a name="related-topics"></a>Tópicos relacionados
-[Respondendo a indicações](responding-to-referrals.md)
+[Respondendo a referências](responding-to-referrals.md)

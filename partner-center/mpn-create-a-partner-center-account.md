@@ -7,15 +7,15 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 93b8eb679731025cd7ded38abf6e071c5b797893
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796199"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587589"
 ---
 # <a name="create-a-partner-center-account"></a>Criar uma conta do Partner Center
 
-**Aplicável ao**
+**Aplica-se a**
 
 -   Partner Center
 -   Membros do Microsoft Partner Network
@@ -29,7 +29,7 @@ Depois de criar uma conta do Partner Center, você poderá:
 
 -   [Comprar ou renovar uma assinatura do Microsoft Action Pack](mpn-get-action-pack.md)
 
--   [Criar um perfil de negócios para obter oportunidades de vendas da Microsoft](create-a-marketing-profile.md)
+-   [Criar um perfil comercial para obter as oportunidades de vendas da Microsoft](create-a-marketing-profile.md)
 
 -   [Obter e gerenciar as oportunidades de vendas da Microsoft](responding-to-referrals.md)
 
@@ -70,18 +70,18 @@ Iremos verificar essas informações durante o processo de criação de conta.
 
 5.  Verifique se você foi adicionado ao grupo de agente administrador. Para concluir a configuração de sua conta, incluindo a adição de outros usuários, você deve ter permissões de agente administrador. Siga estas etapas para exibir ou atualizar suas permissões:
 
-    a. No **Partner Center**, selecione o ícone de **configurações** e, em seguida, selecione o **gerenciamento de usuários**.  
+    a. No seu **Partner Center**, selecione o **configurações** ícone e, em seguida, selecione **gerenciamento de usuário**.  
 
     b. Selecione seu nome na lista de usuários e então selecione **Agente administrativo** se ainda não estiver selecionado. Selecione **Atualizar**.  
 
 ## <a name="next-steps"></a>Próximas etapas
 
--   [Adicionar usuários à conta e atribuir permissões a eles](create-user-accounts-and-set-permissions.md)
+-   [Adicionar usuários de conta e atribuir permissões a eles](create-user-accounts-and-set-permissions.md)
 
--   [Adquirir ou renovar uma assinatura do Microsoft Action Pack](mpn-get-action-pack.md)
+-   [Comprar ou renovar uma assinatura do Microsoft Action Pack](mpn-get-action-pack.md)
 
--   [Gerenciar os benefícios da sua associação](manage-your-partner-network-benefits.md)
+-   [Gerenciar seus benefícios de associação](manage-your-partner-network-benefits.md)
 
--   [Saiba mais sobre os requisitos de competência para a parceria Gold e Silver](https://partner.microsoft.com/membership/competencies)
+-   [Saiba mais sobre os requisitos de competência Gold e Silver associação](https://partner.microsoft.com/membership/competencies)
 
--   [Criar um perfil de negócios para obter oportunidades de vendas da Microsoft](create-a-marketing-profile.md)
+-   [Criar um perfil comercial para obter as oportunidades de vendas da Microsoft](create-a-marketing-profile.md)

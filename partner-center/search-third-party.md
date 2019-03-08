@@ -3,20 +3,20 @@ title: Descobrir as ofertas de terceiros que deseja vender | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Procure e encontre os tipos de ofertas de terceiros que se adequem bem ao seu portfólio.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: ofertas de terceiros, software para compra, procurar terceiros
 ms.localizationpriority: medium
-ms.openlocfilehash: abf30139174d44f385b49219420ddcffcba6cf2a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cde02b44d728e7c5d32295ce730ee71bfc41d1e4
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796959"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585449"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>Descobrir as ofertas de terceiros que deseja vender
 
-**Aplicável ao**
+**Aplica-se a**
 
 -  Partner Center
 
@@ -45,7 +45,7 @@ Se você estiver interessado em comprar o software, mas ainda tiver dúvidas ou 
 
 A compra do software de terceiros é realizada da mesma forma que a compra de um software primário. 
 
-1. Desde o **Partner Center**, selecione **os clientes**
+1. Dos **Partner Center**, selecione **clientes**
 2. Selecione **Nova assinatura**
 3. Para obter instruções detalhadas, consulte [Criar, suspender ou cancelar assinaturas de cliente](create-a-new-subscription.md).
 4.  Selecione a cobrança mensal para software de terceiros. As cobranças anuais e de avaliação não estão disponíveis atualmente para terceiros.

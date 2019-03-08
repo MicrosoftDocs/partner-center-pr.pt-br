@@ -3,20 +3,20 @@ title: Competência Plataforma de Dados
 ms.topic: article
 ms.date: 10/29/2018
 description: A competência Plataforma de Dados reconhece parceiros que desejam criar e desenvolver plataformas de banco de dados versáteis e potentes para administrar seus negócios.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: competência,competências,plataforma de dados
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 90b655a6844a69b537b9fabb44adb120b4f961ad
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b2c85185910c859ed69706fb7ab2778ab0e47cbb
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797269"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586439"
 ---
 >[!IMPORTANT]
->Para saber sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Para saber mais sobre os requisitos para obter essa competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 

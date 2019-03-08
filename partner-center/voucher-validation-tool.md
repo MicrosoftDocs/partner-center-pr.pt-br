@@ -1,84 +1,84 @@
 ---
-title: Usar a ferramenta de validação de comprovantes no Partner Center para cupons de treinamento e outros | Partner Center
+title: Use a ferramenta de validação de comprovante no Partner Center de comprovantes de treinamento e outros | Partner Center
 ms.topic: article
 ms.date: 12/20/2018
-description: Agora você pode reivindicar cupons de treinamento e programas de garantia de software no Partner Center
-author: labrenne
+description: Agora você pode solicitar vouchers para treinamento e programas de garantia de software no Partner Center
+author: LauraBrenner
 ms.author: labrenne
-Keywords: training, voucher tool, validate voucher, software assurance claims, DPS, SATV
+Keywords: treinamento, ferramenta de comprovante, valide o comprovante, declarações de garantia de software, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: ede912569436c159b2dcc1661298e712f9b2065e
-ms.sourcegitcommit: daa8de3e6a269b28e77e097792ac35d70fa26461
+ms.openlocfilehash: 6cf844129bb1d684b10de2d4ff69f976235aef57
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/26/2019
-ms.locfileid: "9030066"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587829"
 ---
-# <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>Use a ferramenta de validação de comprovantes e resgate no Partner Center para validar, reservar e resgatar comprovantes 
+# <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>Usar a ferramenta de validação de comprovantes e resgate no Partner Center para validar, reservar e resgatar comprovantes 
 
 **Aplica-se a:**
 
 - Partner Center
 
-Como um parceiro de Software Assurance qualificado, para treinamento ou serviços de planejamento da implantação, Microsoft compensa você fornecer esses serviços para clientes corporativos em troca de comprovantes obtêm com o Software Assurance.
+Como um parceiro qualificado do Software Assurance, para treinamento ou serviços de planejamento da implantação, o Microsoft compensa a você para fornecer esses serviços para clientes corporativos em troca de comprovantes que é obtida com o Software Assurance.
 
-Quando o cliente recebe um comprovantes, você precisará validar e reserve-o. Você pode ter feito esse trabalho na ferramenta de validação de comprovantes e resgate (VVR) no passado. Hoje traz juntos em um site – Partner Center – todas as ferramentas e sites, incluindo a ferramenta VVR, parceiros usados para visitar a fazer negócios com a Microsoft com o objetivo de tornar seu trabalho simplificado e mais eficiente.
+Quando o cliente recebe um comprovante, você precisará validar e reservá-lo. Talvez você tenha feito desse trabalho na ferramenta de validação de comprovante e resgate (VVR) no passado. Hoje estamos reunindo em um site – Partner Center – todas as ferramentas e os sites, incluindo a ferramenta VVR, usados para visitar os parceiros para fazer negócios com a Microsoft com o objetivo de tornar seu trabalho simplificado e mais eficiente.
 
-## <a name="validate-and-reserve-a-voucher"></a>Validar e reserve um comprovantes
+## <a name="validate-and-reserve-a-voucher"></a>Validar e reservar um comprovante
 
-O administrador de comprovantes cliente lhe dará um comprovantes de treinamento. Você pode reservar o comprovantes para fornecer serviços para seu cliente.
+Seu administrador de comprovante de cliente, você terá um comprovante de treinamento. Você pode reservar o comprovante para fornecer serviços para o seu cliente.
 
-1. Na página de visão geral de comprovantes, selecione **Validar e reserva** de uma ação de lista suspensa na parte superior da página. Isso abre o formulário de **comprovantes validar** .
-2. No formulário, insira o número de comprovantes e email do administrador comprovantes.
-3. Selecione **Validar comprovantes** para garantir que o número de comprovantes ainda é válido.
-4. Selecione **comprovantes reservar** e aceitar os termos do programa e condições. O cliente é notificado por email que você reservou o comprovantes.
+1. Na página de visão geral do comprovante, selecione **validar e reservar** da ação de lista suspensa na parte superior da página. Isso abre o **comprovante validar** formulário.
+2. No formulário, insira o número do comprovante e email do administrador do comprovante.
+3. Selecione **comprovante validar** para garantir que o comprovante número ainda é válido.
+4. Selecione **comprovante de reserva** e aceite os termos do programa e condições. O cliente é notificado por email que você reservou o comprovante.
 
-Selecione **Exportar para Excel** ação lista suspensa, exportar uma lista de todos os comprovantes disponíveis e/ou reservadas.
+Selecione **exportar para o Excel** da ação de lista suspensa, para exportar uma lista de todos os comprovantes disponíveis e/ou reservadas.
 
-### <a name="voucher-details-page"></a>Página de detalhes de comprovantes
+### <a name="voucher-details-page"></a>Página de detalhes do comprovante
 
-Depois de validar um comprovantes, você verá a página de detalhes da reserva. Selecione o serviço, por exemplo, treinamento, o cliente quiser na **lista do curso de modo de exibição**.
-As datas de curso devem estar dentro do período de tempo da comprovantes. Comprovantes expiram 180 dias depois que eles são reservados.
+Após validar um comprovante, você verá a página de detalhes de reserva. Selecione o serviço, por exemplo, treinamento, seu cliente quer partir **exibir a lista de curso**.
+As datas do curso devem ficar dentro do período de tempo do comprovante. Os vouchers expirarem 180 dias depois que elas estão reservadas.
 
-### <a name="modify-a-voucher"></a>Modificar um comprovantes
+### <a name="modify-a-voucher"></a>Modificar um comprovante
 
-Quando você tiver reservado um comprovantes de sua lista de comprovantes, você pode atualizar o email participante e resgatar a comprovantes. Para atualizar a lista de participantes, por exemplo, para adicionar participantes ou alterar endereços de email para um curso, selecione **Atualizar email participante**. Selecione a **notificação por Email** de uma ação de lista suspensa para permitir que o cliente saiba que atualizamos a lista de participantes.
+Quando você tiver reservado um comprovante de sua lista de comprovante, você pode atualizar o email de participante e resgatar o voucher. Para atualizar a lista de participantes, por exemplo, para adicionar participantes ou alterar os endereços de email para um curso, selecione **atualizar o email de participante**. Selecione **notificação por Email** da ação de lista suspensa para informar o cliente atualizou a lista de participantes.
 
-## <a name="redeem-a-voucher"></a>Resgatar um comprovantes
+## <a name="redeem-a-voucher"></a>Redeem a voucher
 
-Depois que você já reservou um comprovantes, ele pode ser resgatar. 
+Depois que você reservou um comprovante, poderá resgatá-lo. 
 
-1. Na sua lista de comprovantes reservados, selecione o comprovante que deseja resgatar. 
-2. Agora, você verá uma lista de comprovantes **Redeemed** .
+1. Na lista de comprovantes reservadas, selecione o comprovante que você deseja resgatar. 
+2. Agora, você verá uma lista dos **Redeemed** comprovantes.
 
-4. Para criar uma declaração, selecione **criar uma declaração**ou, na página de detalhes de comprovantes, selecione **criar uma declaração**.
+4. Para criar uma declaração, selecione **criar uma declaração**, ou, na página de detalhes do comprovante, selecione **criar uma declaração**.
 
-5. Selecionando **criar uma declaração** leva você para a [Ferramenta de pagamento Online do Software Assurance comprovantes benefício (SAVB)](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) para Microsoft da fatura.
+5. Selecionando **criar uma declaração** levará você para o [ferramenta de pagamento Online do Software Assurance comprovante benefício (SAVB)](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) para faturar a Microsoft.
 
 
-### <a name="cancel-a-voucher"></a>Cancelar uma comprovantes
+### <a name="cancel-a-voucher"></a>Cancelar um comprovante
 
-Há vários motivos, que talvez seja necessário cancelar a reserva de comprovantes:
+Há vários motivos, que você talvez precise cancelar a reserva de comprovante:
 
-- A oferta ou o programa foi alterado de quando o comprovantes foi originalmente reservado.
+- A oferta ou o programa foi alterado de quando o comprovante originalmente foi reservado.
 
-- O envolvimento não ocorrerá.
+- O engagement não ocorrerá.
 
-- O cliente quer usar um outro parceiro para o envolvimento de comprovantes.
+- O cliente quiser usar outro parceiro para seu compromisso com o comprovante.
 
-**Para cancelar a reserva de um comprovantes**:
+**Cancelar a reserva de um comprovante**:
 
-1. Selecione os comprovantes de sua lista de comprovantes reservadas que você deseja cancelar.
+1. Selecione o comprovante de sua lista de comprovantes reservados que você deseja cancelar.
 
-2. Você também pode adicionar o número de comprovantes na caixa de pesquisa para localizá-lo rapidamente. 
+2. Você também pode adicionar o número do comprovante na caixa de pesquisa rapidamente localizá-lo. 
 
-3. Selecione **Cancelar reserva**. Isso excluirá a reserva comprovantes do VVR, colocando o comprovantes volta em um status **atribuído** e tornando-qualificado para reserva futura.
+3. Selecione **cancelar a reserva**. Isso excluirá a reserva de comprovante do VVR, colocando o comprovante de volta em uma **atribuído** status e tornando qualificado para o futura reserva.
 
->[! Observação:] se você cancelar uma reserva de comprovantes e Software Assurance do cliente cobertura expira, o comprovantes continuarão a ser válido até a data de validade. Comprovantes expiram 180 dias após sua criação.
+>[! Observação:] se você cancelar uma reserva de comprovante e Software Assurance do cliente expira cobertura, o comprovante continuará sejam válidos até sua data de vencimento. Os vouchers expiram 180 dias após sua criação.
 
-Para obter informações adicionais sobre a ferramenta VVR, leia a [perguntas Frequentes](vvr-faq.md).
+Para obter informações adicionais sobre a ferramenta VVR, leia as [perguntas frequentes sobre](vvr-faq.md).
 
-Para obter informações sobre como se registrar no SATV, leia [programa Software Assurance treinamento comprovantes (SATV) no Partner Center](software-assurance-satv.md).
+Para obter informações sobre como se registrar no SATV, leia [programa Software Assurance treinamento comprovante (SATV) no Partner Center](software-assurance-satv.md).
 
-Para obter informações sobre como se registrar nos programas de Software Assurance DPS, leia [os programas de Software Assurance no Partner Center](software-assurance-dps.md)
+Para obter informações sobre como registrar em programas de Software Assurance DPS, leia [programas de Software Assurance no Partner Center](software-assurance-dps.md)
 

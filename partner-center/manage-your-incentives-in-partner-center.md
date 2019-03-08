@@ -3,19 +3,19 @@ title: Gerencie seus incentivos no Partner Center | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Os programas de incentivos para parceiros da Microsoft oferecem suporte para o lucro e o crescimento dos parceiros
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3232f52f3c04d61fb57fdada40a98612341972fc
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 644ac2020551e199ff20f520a8ac3c68ddbece54
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995640"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586989"
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>Gerencie seu incentivos no Partner Center 
 
-**Aplicável ao**
+**Aplica-se a**
 
 -  Partner Center
 
@@ -51,8 +51,8 @@ Quando o administrador de incentivos receber as credenciais, ele poderá conclui
 
 [Criar contas de usuário e atribuir permissões](create-user-accounts-and-set-permissions.md)
 
-[Redefinir a senha do usuário](reset-a-user-password.md)
+[Redefinir uma senha de usuário](reset-a-user-password.md)
 
-[Entenda seus pagamentos de incentivos](understand-incentive-payouts.md)
+[Entender seus pagamentos incentivo](understand-incentive-payouts.md)
 
-Para obter mais informações, consulte [Guia de cooperação de incentivos de parceiro](https://assets.microsoft.com/coop-guidebook.pdf)
+Para obter mais informações, consulte o [Guia de cooperação de incentivos para parceiros](https://assets.microsoft.com/coop-guidebook.pdf)

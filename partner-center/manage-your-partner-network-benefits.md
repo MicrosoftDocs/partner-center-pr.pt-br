@@ -2,36 +2,36 @@
 title: Gerenciar seus benefícios do Microsoft Partner Network | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Como um membro do Microsoft Partner Network, você está qualificado para comprar certos benefícios de associação. Explica como ativar e gerenciar seus benefícios de associação no Partner Center.
+description: Como um membro do Microsoft Partner Network, você está qualificado para comprar certos benefícios de associação. Explica como ativar e gerenciar seus benefícios da participação no Partner Center.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, benefícios da associação, associação
 ms.localizationpriority: medium
 ms.openlocfilehash: 09612dd127ad2bc17031c53a124a4536ba4a6661
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796379"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584699"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gerencie seus benefícios de associação ao Microsoft Partner Network
 
-**Aplicável a**
+**Aplica-se a**
 
 -  Partner Center
 
 >[!IMPORTANT]
->Este artigo explica como começar a usar o Microsoft Partner Network (MPN) benefícios de associação no Partner Center (anteriormente conhecido como Partner Center) - este site. Se você ainda não recebeu um convite para mover informações da sua empresa do Partner Membership Center (PMC) para o Partner Center, você deve continuar a gerenciar seus benefícios de associação MPN no PMC. [Entre](https://partner.microsoft.com/_login?authType=OpenIdConnect) no PMC agora.   
+>Este artigo explica como começar a usar seu Microsoft Partner Network (MPN) benefícios de participação no Partner Center (anteriormente conhecido como o Partner Center) - este site. Se você ainda não recebeu um convite para mover informações de sua empresa do Centro de associação de parceiro (PMC) para o Centro de parceiros, você deve continuar a gerenciar seus benefícios de associação MPN no PMC. [Entre](https://partner.microsoft.com/_login?authType=OpenIdConnect) no PMC agora.   
 
 Ingressando no MPN (Microsoft Partner Network), você obtém acesso a benefícios de associação que podem ajudá-lo a criar e desenvolver seus negócios. Se não for membro do MPN, você poderá ingressar no [site do MPN](https://partner.microsoft.com/membership).
 
 
-## <a name="manage-your-membership-benefits-in-the-partner-center"></a>Gerenciar seus benefícios de associação no Partner Center
+## <a name="manage-your-membership-benefits-in-the-partner-center"></a>Gerenciar seus benefícios da participação no Partner Center
 
 Após comprar um pacote de benefícios de associação, você precisará obter chaves de software e atribuir licenças, assinaturas e outros benefícios para os funcionários começarem a usá-los. 
 
 >[!IMPORTANT]
->Enquanto você não precisa ser um administrador global em sua organização para comprar benefícios, você precisa ser o administrador global para atribuir benefícios para os funcionários.  Se você quiser, você pode se tornar um administrador global, seguindo as instruções em sua [página **benefícios** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (entrada obrigatória). Além disso, sua organização talvez já tenha um administrador global então não deixe de verificar com a sua equipe.
+>Embora não seja necessário ser um administrador global em sua organização para comprar benefícios, você precisará ser o administrador global para atribuir benefícios aos funcionários.  Se quiser, você poderá se tornar um administrador global seguindo as instruções em sua [página **Benefícios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (é necessário iniciar sessão). Além disso, é possível que sua organização já tenha um administrador global, então certifique-se de verificar com sua equipe.
 
 Sua assinatura do Action Pack inclui alocações de licenças de software de direitos de uso interno, serviços de nuvem, assinaturas do Visual Studio e suporte. Você pode encontrar detalhes sobre a assinatura do Action Pack no site do [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
@@ -102,10 +102,10 @@ Para exibir e gerenciar seus benefícios de associação, acesse a [**página Be
 ) e selecione **Enviar solicitação**.
 
 
-#### <a name="see-also"></a>Veja também
+#### <a name="see-also"></a>Consulte também
 
 [Adicionar usuários e atribuir permissões a eles](create-user-accounts-and-set-permissions.md)
 
-[Adquirir ou renovar uma assinatura do Microsoft Action Pack](mpn-get-action-pack.md)
+[Comprar ou renovar uma assinatura do Microsoft Action Pack](mpn-get-action-pack.md)
 
 

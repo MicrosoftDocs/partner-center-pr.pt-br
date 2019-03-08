@@ -8,18 +8,18 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 3158679d8a435a8252ad7dfb60d5cccc5cfa2f1f
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683435"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587579"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Definir um orçamento de gastos do Azure para seus clientes
 
-**Aplicável a**
+**Aplica-se a**
 
 -  Partner Center
--  Partner Center for Microsoft Cloud for US Government
+-  Partner Center para Microsoft Cloud for US Government
 
 Para ajudar os clientes a gerenciar seu gastos do Azure, você pode definir um orçamento de gastos mensal, para que a conta do Azure não seja maior do que eles previam. Definir um orçamento de gastos do Azure permite que você compare ao orçamento de gastos do Azure dos clientes com o orçamento durante o mês. Com esse recurso, você pode: 
 
@@ -32,26 +32,26 @@ Para ajudar os clientes a gerenciar seu gastos do Azure, você pode definir um o
 Os dados de gastos do Azure são uma estimativa, os valores de cobrança reais podem variar, e o valor não reflete impostos, créditos, ajustes ou outros encargos que podem ser aplicáveis. Os dados de gastos são atualizados uma vez por dia. Os clientes continuarão a usar — e a serem cobrados por — serviços e recursos do Azure, salvo se você alterar as configurações da conta deles no Portal do Azure. 
 
 > [!NOTE]  
-> Esse recurso não está disponível em área restrita ou teste em contas de produção (TIP).
+> Esse recurso não está disponível na área restrita ou teste nas contas de produção (TIP).
 
-**Ativar as notificações de email**
-1.  No menu Partner Center, selecione **gastos do Azure**.
+**Ative as notificações por email**
+1.  No menu do Partner Center, selecione **gastos do Azure**.
 2.  Ative a opção **Obter emails** para ser notificado quando seus clientes usarem 80% ou mais de seu orçamento. Isso ajudará você a ficar de olho na sua conta do Azure. Você pode alterar o endereço de email padrão para um pessoal ou qualquer outro email para receber notificações.
 
 **Defina um orçamento**
-1.  No menu Partner Center, selecione **gastos do Azure**.
+1.  No menu do Partner Center, selecione **gastos do Azure**.
 2.  Selecione os clientes para os quais você deseja definir um orçamento. 
 3. Insira um valor na caixa **Orçamento mensal** e selecione **Aplicar**.
 4.  Para verificar gastos atuais, retorne a essa página.
 5.  Orçamentos individuais também podem ser definidos em **Assinaturas baseadas no uso** em uma página de gerenciamento de cliente.
 
-**Remova um orçamento**
-1.  No menu Partner Center, selecione **gastos do Azure**.
+**Remover um orçamento**
+1.  No menu do Partner Center, selecione **gastos do Azure**.
 2.  Selecione os clientes na lista.
 3.  Selecione **Remover orçamento**.
 
-**Veja os custos discriminados**
-1.  No menu Partner Center, selecione **os clientes**.
+**Consulte os custos discriminados**
+1.  No menu do Partner Center, selecione **clientes**.
 2.  Na lista de clientes, selecione um cliente.
 3.  Em sua página de gerenciamento de clientes, em **Assinaturas baseadas no uso**, escolha uma assinatura. Exiba sua utilização estimada atual e uma lista dos custos discriminados pelo serviço.
 

@@ -6,18 +6,18 @@ description: Depois de comprar uma nova assinatura para um cliente, você pode a
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
+Keywords: gerenciamento de cliente, conta, criar conta, licenças, atribuir licença, gerenciamento de usuário, senha, redefinição de senha, alterar senha
 ms.localizationpriority: medium
 ms.openlocfilehash: 2145455a063d1e21f6943abfc9d2f8905ed78a1e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797239"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586749"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Tarefas de gerenciamento de usuários para contas de cliente
 
-**Aplicável a**
+**Aplica-se a**
 
 -  Partner Center
 
@@ -32,7 +32,7 @@ Você pode [atribuir assinaturas a vários usuários](bulk-license-provisioning-
 <a href="" id="createuseraccounts"></a>
 **Criar contas de usuário para um cliente**
 
-1.  No menu **Partner Center** , selecione **os clientes**. Escolha um cliente na lista.
+1.  Dos **Partner Center** menu, selecione **clientes**. Escolha um cliente na lista.
 
 2.  No menu do cliente, selecione **Usuários e licenças**.
 
@@ -47,7 +47,7 @@ Você pode [atribuir assinaturas a vários usuários](bulk-license-provisioning-
 <a href="" id="userlicensing"></a>
 **Adicionar ou remover licenças de usuário para um cliente**
 
-1.  No menu **Partner Center** , selecione **os clientes**. Escolha o cliente na lista.
+1.  Dos **Partner Center** menu, selecione **clientes**. Escolha o cliente na lista.
 
 2.  No menu do cliente, selecione **Usuários e licenças**.
 
@@ -58,7 +58,7 @@ Você pode [atribuir assinaturas a vários usuários](bulk-license-provisioning-
 <a href="" id="resetpassword"></a>
 **Redefinir a senha do usuário para um cliente**
 
-1.  No menu **Partner Center** , selecione **os clientes**. Escolha o cliente na lista.
+1.  Dos **Partner Center** menu, selecione **clientes**. Escolha o cliente na lista.
 
 2.  No menu do cliente, selecione **Usuários e licenças**. Escolha o usuário na lista.
 
@@ -69,7 +69,7 @@ Você pode [atribuir assinaturas a vários usuários](bulk-license-provisioning-
 <a href="" id="deleteuseraccounts"></a>
 **Excluir contas de usuário para um cliente**
 
-1.  No menu **Partner Center** , selecione **os clientes**. Escolha o cliente na lista.
+1.  Dos **Partner Center** menu, selecione **clientes**. Escolha o cliente na lista.
 
 2.  No menu do cliente, selecione **Usuários e licenças**. Escolha o usuário na lista.
 
@@ -78,13 +78,13 @@ Você pode [atribuir assinaturas a vários usuários](bulk-license-provisioning-
 Se precisar restaurar essa conta, você pode encontrá-la na guia **Usuários excluídos** da lista **Usuários e licenças** do cliente. Você tem 30 dias para restaurar um usuário excluído.
 
 <a href="" id="restoreuseraccounts"></a>
-**Restaurar contas de usuário excluídas**
+**Restaurar as contas de usuário excluído**
 
-1.  No menu **Partner Center** , selecione **clientes**e, em seguida, escolha o cliente na lista.
+1.  Dos **Partner Center** menu, selecione **clientes**, em seguida, escolha o cliente da lista.
 
 2.  Selecione **Usuários e licenças**.
 
-3.  Selecione a guia **Usuários excluídos ( )**. Ela deve mostrar **(1)** ou mais quando houver usuários excluídos que possam ser restaurados.
+3.  Selecione a guia **Usuários excluídos ( )**. Ela deverá conter **(1)** ou mais quando há usuários excluídos que podem ser restaurados.
 
 4.  Marque uma ou mais caixas de seleção dos usuários excluídos e selecione **Restaurar**.
 
@@ -93,7 +93,7 @@ Se precisar restaurar essa conta, você pode encontrá-la na guia **Usuários ex
 ## <a name="related-topics"></a>Tópicos relacionados
 
 
-[Atribuir licenças a vários usuários ou revogá-las](bulk-license-provisioning-for-multiple-users.md)
+[Atribuir ou revogar licenças para vários usuários](bulk-license-provisioning-for-multiple-users.md)
 
 [Criar vários usuários para uma conta de cliente](adding-multiple-users-to-a-customer-account.md)
 

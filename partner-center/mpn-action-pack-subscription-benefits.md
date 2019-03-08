@@ -8,11 +8,11 @@ ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
 ms.openlocfilehash: bd5b12c4cf8eaa24cd322f98ab1054e6786a42a3
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795479"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585419"
 ---
 # <a name="get-action-pack-subscription-details-on-the-microsoft-partner-networkhttpspartnermicrosoftcommembershipinternal-use-software-site"></a>Obtenha detalhes sobre a assinatura do Action Pack no site do [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software). 
 
@@ -20,6 +20,6 @@ Os benefícios da assinatura do Microsoft Action Pack incluem o software mais re
 
 Consulte [Acelere seus negócios](https://partner.microsoft.com/membership/internal-use-software) no site do Microsoft Partner Network para obter detalhes sobre quais benefícios estão incluídos em uma assinatura do Action Pack.   
 
-Para obter informações sobre como comprar uma assinatura do Action Pack pela primeira vez ou sobre como renovar uma assinatura do Action Pack você comprou anteriormente, consulte [Obter Action Pack](mpn-get-action-pack.md) neste site - site do Partner Center - biblioteca de Ajuda.
+Para obter informações sobre como comprar uma assinatura do Action Pack pela primeira vez ou sobre como renovar uma assinatura do Action Pack você comprou anteriormente, consulte [obter Action Pack](mpn-get-action-pack.md) neste site - site Partner Center - biblioteca de Ajuda.
 
 

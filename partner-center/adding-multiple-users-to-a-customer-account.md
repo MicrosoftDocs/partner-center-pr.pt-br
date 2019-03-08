@@ -9,21 +9,21 @@ ms.author: evansma
 keywords: upload em massa, adicionar vários usuários a uma conta do cliente, adicionar usuários do cliente, upload em massa de usuários do cliente, conta do cliente, usuários do cliente, usuários
 ms.localizationpriority: medium
 ms.openlocfilehash: 12bb42d4e1dcf5003ac8790be777c483f216fd6f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795669"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584239"
 ---
-# <a name="add-multiple-users-to-a-customer-account"></a>Adicionar vários usuários a uma conta do cliente
+# <a name="add-multiple-users-to-a-customer-account"></a>Adicionar vários usuários a uma conta de cliente
 
-**Aplicável a**
+**Aplica-se a**
 
 -  Partner Center
 
-Você pode adicionar vários usuários a uma conta do cliente uma vez, carregando um arquivo de dados no formato de arquivo de valores separados por vírgula (. csv) ao Partner Center. Você pode baixar um arquivo de dados de exemplo do Partner Center e editá-lo para seu uso, ou você pode criar um novo arquivo de dados usando o modelo de dados definido abaixo.
+Você pode adicionar vários usuários para uma conta de cliente ao mesmo tempo, carregando um arquivo de dados no formato de arquivo de valores separados por vírgula (. csv) para o Centro de parceiros. Você pode baixar um arquivo de dados de exemplo do Partner Center e, em seguida, editá-lo para seu uso, ou você pode criar um novo arquivo de dados usando o modelo de dados definido abaixo.
 
-## <a href="" id="creatingtheimportcsvfile"></a>Requisitos de arquivo de dados:
+## <a href="" id="creatingtheimportcsvfile"></a>Requisitos do arquivo de dados
 
 
 Para adicionar vários usuários a uma conta de cliente usando o processo de upload em massa, você precisará atender aos seguintes requisitos:
@@ -41,9 +41,9 @@ Insira os seguintes dados no arquivo de dados:
 | **Nome da coluna** | **Descrição**                                                              | **Limitação**                             |
 | Nome      | Nome do usuário (campo opcional)                                           | Limite de 50 caracteres                         |
 | Sobrenome       | Sobrenome do usuário (campo opcional)                                            | Limite de 50 caracteres                         |
-| Nome de exibição    | Nome exibido no Partner Center (campo obrigatório)                            | Limite de 50 caracteres                         |
+| Nome de exibição    | Nome exibido no centro do parceiro (campo obrigatório)                            | Limite de 50 caracteres                         |
 | Email           | Endereço de email comercial do usuário na empresa do cliente (campo obrigatório)           | Cada usuário deve ter um endereço de email exclusivo |
-| Atualização de status   | Usado para indicar se o novo registro de usuário foi ou não criado com êxito | \*\*Deixar em branco\* \ *                        |
+| Atualização de status   | Usado para indicar se o novo registro de usuário foi ou não criado com êxito | \*\*Deixe em branco\*\*                        |
 
  
 
@@ -51,21 +51,21 @@ Insira os seguintes dados no arquivo de dados:
 
 <a href="" id="creatingtheaccounts"></a>
 1.  Crie um arquivo de valores separados por vírgula (.csv) com os dados descritos acima. Salve o arquivo para que você possa usá-lo em uma etapa posterior.
-2.  No menu **Partner Center** , selecione **clientes**e, em seguida, escolha um cliente na lista.
+2.  Dos **Partner Center** menu, selecione **clientes**, em seguida, escolha um cliente da lista.
 3.  Selecione **Carregar usuários**.
 4.  Em **Carregar informações do usuário**, selecione **Procurar**.
 5.  No seletor de arquivo, selecione seu arquivo de dados e, em seguida, selecione **Abrir**.
 6.  Selecione **Validar**.
 
-    **Observação**a maioria dos erros de criação de conta é causada por problemas no arquivo de dados, como falta de informações, endereços de email incorretos ou duplicados ou número excessivo de registros no arquivo.
+    **Observação**  a maioria dos erros de criação de conta são causados por problemas de arquivo de dados, incluindo ausentes informações, endereços de email malformado ou duplicados ou muitos registros no arquivo.
 
-7.  Depois que o Partner Center validar o arquivo, selecione a **localização** geográfica dos novos usuários.
+7.  Depois que o Partner Center valida o arquivo, selecione o geográfico **local** para os novos usuários.
 8.  Selecione **Salvar**.
 9.  Baixe as informações de senha temporária dos usuários.
 
-**IMPORTANTE:** Certifique-se de baixar o arquivo com as senhas temporárias agora, pois não será possível fazer isso mais tarde. Os novos usuários devem fazer logon em suas novas contas usando a respectiva senha temporária.
+**IMPORTANTE:** Certifique-se de baixar o arquivo com as senhas temporárias agora você não poderá fazer isso mais tarde. Os novos usuários devem fazer logon em suas novas contas usando a respectiva senha temporária.
 
-10. Novos usuários recebem automaticamente permissões de **pode usar licenças e serviços** . 
+10. Os novos usuários recebem automaticamente permissões de **Pode usar licenças e serviços**. 
 
  
 

@@ -6,18 +6,18 @@ description: Uma das primeiras coisas que você pode fazer quando um cliente est
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: health, service health,service problems
+Keywords: integridade, a integridade do serviço, problemas de serviço
 ms.localizationpriority: medium
 ms.openlocfilehash: 81e4cb9ed1d866f52767a4fe2a5065d0e595d79d
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797109"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584519"
 ---
 # <a name="check-service-health"></a>Verificar a integridade do serviço
 
-**Aplicável a**
+**Aplica-se a**
 
 -  Partner Center
 
@@ -25,7 +25,7 @@ Uma das primeiras coisas que você pode fazer quando um cliente estiver tendo pr
 
 **Verificar a integridade do serviço**
 
-1.  No menu **Partner Center** , selecione a **integridade do serviço**. 
+1.  Dos **Partner Center** menu, selecione **integridade do serviço**. 
 
 2.  Você verá todos os serviços exibidos, juntamente com indicações se algum não estiver íntegro. 
 

@@ -1,42 +1,42 @@
 ---
-title: Declarações de cooperação de incentivos | Partner Center
+title: Declarações de cooperação incentivos | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Envie suas declarações de incentivos, sem precisar ter sua atividade de plano revisadas pela primeira vez.
-author: labrenne
+description: Envie suas reivindicações de incentivos sem precisar ter seu plano de atividade examinado primeiro.
+author: LauraBrenner
 ms.author: labrenne
-keywords: declarações de incentivos, pedidos de cooperação, fundos cooperativos
+keywords: reivindicações de incentivos, reivindicações de cooperação, fundos de cooperação
 ms.localizationpriority: medium
-ms.openlocfilehash: 93a77d4655a938d1c95503629b093bb44ae5681f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bb750b740280d7ee66132b999c1cc24707cd2885
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797149"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584179"
 ---
-# <a name="incentives-co-op-claims-overview"></a>Visão geral de declarações de cooperação de incentivos
+# <a name="incentives-co-op-claims-overview"></a>Visão geral de reivindicações de cooperação de incentivos
 
-**Aplicável a**
+**Aplica-se a**
 
 - Partner Center
 
-Quando você participar do programa de parceiro incentivos cooperativo Marketing fundos (cooperação) você declará reembolsos de fundos acumulados para atividades que você tiver feito que ofereçam suporte a reconhecimento de produto da Microsoft. Você enviar uma reivindicação diretamente do Partner Center. Você não precisa ter seu plano de atividade revisado pela Microsoft antes de enviar uma reivindicação. Envie sua reivindicação e a documentação necessária não mais tarde do que o prazo de período de declaração que é 45 dias após o final do período de uso. 
+Quando participar do programa Fundo de Marketing Cooperativo de Incentivos de Parceiro (Cooperação), você solicitará reembolsos de fundos ganhos por atividades de suporte ao reconhecimento do produto da Microsoft concluídas. Você envia uma reivindicação diretamente do Partner Center. Você não precisa ter seu plano de atividade examinado pela Microsoft antes de enviar uma reivindicação. Envie sua reivindicação e a documentação necessária até o prazo final do período de reivindicação , que é 45 dias após o término do período de uso. 
 
-Uma declaração bem-sucedida inclui:
+Uma reivindicação bem-sucedida inclui:
 
-- Documentação que demonstra que você atendeu aos requisitos de core para a atividade
-- Faturas de fornecedores de terceiros, com que você trabalha
-- Instrução de certificação e relatório (SAC) para qualquer trabalho interno concluído
-- A documentação apropriada (prova de execução) que prova você concluir a atividade 
+- Documentação que demonstra que você cumpriu os principais requisitos para a atividade
+- Faturas de fornecedores terceirizados com quem você trabalha
+- Declaração e Relatório de Certificação (SACs) para qualquer trabalho interno concluído
+- A documentação apropriada (comprovação de execução) que prova que você concluiu a atividade 
 
 >[!NOTE]
->A Microsoft se reserva o direito de solicitar comprovação original de documentos de execução (POE). Manter todos os seus documentos originais por um período de 24 meses a partir da data de atividade. 
+>A Microsoft se reserva o direito de solicitar os documentos originais de comprovação de execução (POE). Mantenha todos os seus documentos originais por um período de 24 meses após a data da atividade. 
 
 |**Para fazer isso**   |**Leia isto**   |
 |-----------------|:--------------------------------------|
-|Enviar uma reivindicação e incluir a documentação correta|[Criar e gerenciar uma declaração de atividade do programa de incentivos](create-incentives-claims.md)|
-|Depois que você sumitted a declaração, gerenciar solicitações de documetation adicionais|[Criar e gerenciar uma declaração de atividade do programa de incentivos](create-incentives-claims.md)  |
-|Verifique se que você conhece os requisitos de core para a declaração de atividade|[Saber os requisitos de núcleo de declarações de incentivos](core-requirements.md)   |
-|Saiba mais que detalhes do programa de incentivos completos|[Guia de cooperação de incentivos de parceiro](https://assets.microsoft.com/coop-guidebook.pdf)
+|Enviar uma reivindicação e incluir a documentação correta|[Criar e gerenciar uma declaração de atividade do programa incentivos](create-incentives-claims.md)|
+|Depois que você tiver enviado a reivindicação, gerenciar solicitações de documentação adicional|[Criar e gerenciar uma declaração de atividade do programa incentivos](create-incentives-claims.md)  |
+|Conhecer os principais requisitos para a reivindicação de atividade|[Conhecer os principais requisitos de declarações de incentivos](core-requirements.md)   |
+|Conhecer os detalhes completos do programa de incentivos|[Guia de cooperação incentivos aos parceiros](https://assets.microsoft.com/coop-guidebook.pdf)
                                                                                  
                                    

@@ -1,21 +1,21 @@
 ---
-title: Entenda seus pagamentos de incentivos | Partner Center
+title: Entender seus pagamentos incentivos | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Seus lucros e agenda de pagamento de incentivos serão úteis para planejamento futuro.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 535181676cc03c8e696c613e8a907705c40a8fd5
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: bcac1e3fbeefc2186881ba9403263daa2832f618
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995692"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587349"
 ---
 # <a name="understand-your-incentive-payouts"></a>Entenda seus pagamentos de incentivos
 
-**Aplicável ao**
+**Aplica-se a**
 
 -  Partner Center
 
@@ -29,7 +29,7 @@ Os dados de incentivos serão atualizados diariamente. Os gráficos e tabelas re
 Você pode ver detalhes dos lucros e pagamentos de cada um dos programas de incentivos. Rastrear a linha do tempo entre lucros e pagamentos será útil no planejamento para futuras necessidades de recursos e muito mais. Você também pode descobrir quais locais são mais bem-sucedidos ou mais ativos em programas de incentivos. 
 
 ## <a name="drill-down-on-incentives-earnings"></a>Veja detalhes dos lucros de incentivos
-Descubra onde sua organização pode ganhar mais por meio dos programas de incentivos e onde você já foi pago. Esses dados mostram onde você ganhou, mas ainda não foi pago.  Entenda quais programas e atividades foram mais bem-sucedidos e descubra quais dos seus locais estão lucrando. Por programa, você pode ver qual é o potencial de lucros total, o tempo durante o qual você pode participar do programa e quando ele expira. Cada programa e tipo de lucro terá requisitos diferentes, datas e limites máximos. 
+Descubra onde sua organização pode ganhar mais por meio dos programas de incentivos e onde você já foi pago. Esses dados mostram onde você ganhou, mas ainda não foi pago.  Entenda quais programas e atividades foram mais bem-sucedidos e descubra quais dos seus locais estão lucrando. Por programa, você pode ver qual é o potencial de lucros total, o tempo durante o qual você pode participar do programa e quando ele expira. Cada programa e o tipo de ganhar terá requisitos diferentes, as datas e os limites de ganhos máximo. 
 
 ## <a name="drill-down-on-incentive-payouts"></a>Veja detalhes dos pagamentos de incentivos
 Para obter outra perspectiva sobre renda de incentivos, Pagamentos mostra o quanto você recebeu e os detalhes de pagamentos futuros. Você pode obter demonstrativos para cada um dos programas nos quais você foi pago para que possa ver os detalhes da transação, como os impostos que são retidos. Você pode ver mais detalhes dos pagamentos mensais e anuais por transação.

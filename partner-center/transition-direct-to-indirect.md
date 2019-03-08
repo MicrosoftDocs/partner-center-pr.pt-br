@@ -1,18 +1,18 @@
 ---
-title: Transição de provedor de soluções na nuvem (CSP) direcionar parceiro de cobrança para o revendedor indireto do CSP | Partner Center
+title: Transição do provedor de solução de nuvem (CSP) direcionar o parceiro de cobrança para revendedores indiretos do CSP | Partner Center
 ms.topic: article
-ms.date: 12/18/2018
-description: Entender como será feita a transição de parceiro de cobrança direta ao revendedor indireto
-author: labrenne
+ms.date: 03/04/2019
+description: Entender como você fará a transição de parceiro direto de cobrança para revendedores indiretos
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-keywords: cobrança direta, transição, revendedor indireto
-ms.openlocfilehash: 54fa20acfd84cf1a2fadba9aa323b94d3ab356a3
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+keywords: bill direto, transição, revendedores indiretos
+ms.openlocfilehash: 52995c301dba6a5ce347cbd9153f8c6ccaf88873
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098793"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587679"
 ---
 **Aplica-se a:**
  - Parceiros CSP
@@ -20,141 +20,180 @@ ms.locfileid: "9098793"
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transição de Provedor de Soluções na Nuvem (CSP) direcionar parceiro de cobrança para o revendedor indireto do CSP 
 
 >[!Note] 
->Este artigo destina-se a parceiros de cobrança direta que decidiram fazer a transição para revendedores indiretos. 
+>Este artigo destina-se a parceiros de fatura direta que optou por fazer a transição para revendedores indiretos. 
 
-Você será capaz de se inscrever no programa de revendedor indireto usando seu locatário existente de cobrança direta. 
+Você poderá registrar no programa de revendedor indireto usando seu locatário de fatura direta existente. 
 
 ## <a name="get-started"></a>Introdução
 
 1. Verifique se o perfil do parceiro no Partner Center e ID do MPN são atuais.
 
-2. Entre Partner Center como o administrador global para o locatário de cobrança direta que estão fazendo a transição para o revendedor indireto.
+2. Entrar no Centro de parceiros como o administrador global para o locatário de fatura direto que estão fazendo a transição para revendedores indiretos.
 
 ![Visão geral](images/direct/direct1.png) 
 
-3. Examine os detalhes do parceiro no formulário de inscrição.
+3. Examine os detalhes do parceiro no formulário de registro.
 
-![Registrar-se agora](images/direct/direct2a.png) 
+![Inscreva-se agora](images/direct/direct2a.png) 
 
-4. Selecione Registre-se agora. Sua empresa de revenda indireta usará o locatário do AAD mesmo que você usa para sua empresa direta.
-
->[!Note]
->Inicialmente, esse novo recurso de transição estarão disponível para parceiros com setembro em datas de aniversário de dezembro. Se você não "t tem uma data de aniversário entre setembro e dezembro, você não verá a funcionalidade no momento. Parceiros com datas de aniversário depois de dezembro de 2018 serão notificados posteriormente depois que o recurso é habilitado para os parceiros.
-
-
-5. Quando o registro for aprovado, entre Partner Center novamente.
+4. Selecione Registrar agora. Sua empresa indireta revendedor usará o mesmo locatário do AAD que você pode usar para a sua empresa direta.
 
 >[!Note]
-> Enquanto a aprovação é geralmente imediata, pode levar até cinco dias úteis. Depois de aprovado, você receberá uma notificação para o endereço de email que você especificou em contato principal no formulário de inscrição. Você também pode verificar o status da inscrição em **configurações** → **Configurações parceiro** → **Perfil de parceiro** → informações sobre o programa. 
+>Inicialmente, essa nova funcionalidade de transição estará disponível para parceiros com setembro para datas de aniversário de dezembro. Se você não o "t têm uma data de aniversário entre setembro e dezembro, você não verá o recurso no momento. Parceiros com datas de vencimento depois de dezembro de 2018 serão notificados posteriormente quando o recurso está habilitado para os parceiros.
 
-6. Na sua página de **Visão geral** , você verá o contrato de revendedor indireto. Selecione **Aceitar e continuar**. Isso permite que os recursos de revendedor indireto.
 
-Quando você tiver aceitado o contrato de revendedor indireto, observe que o perfil do parceiro identifica como **os dois** uma cobrança direta e o revendedor indireto.
+5. Quando seu registro for aprovado, entre no Partner Center novamente.
 
-![Contrato de revendedor indireto](images/direct/direct3.png)
+>[!Note]
+> Enquanto a aprovação, geralmente é imediata, ele pode levar até cinco dias úteis. Após a aprovação, você receberá uma notificação para o endereço de email que você especificou em contato principal no formulário de registro. Você também pode verificar seu status de registro sob **as configurações** → **configurações do parceiro** → **perfil de parceiro** informações do programa →. 
+
+6. Em seu **visão geral** página, você verá o contrato de revendedor indireta. Selecione **Aceitar e continuar**. Isso permite que os recursos de revendedor indireta.
+
+Quando você aceitou o contrato de revendedor indireta, observe que o perfil do parceiro identifica você como **ambos** uma fatura direta e indireto revendedor.
+
+![Contrato de revendedor indireta](images/direct/direct3.png)
 
 >[!Important] 
->Depois que você se registrar como um revendedor indireto usando o novo recurso, não há nenhuma opção para reverter para um locatário única cobrança direta. Certifique-se de que você avaliar totalmente suas necessidades de negócios antes de registrar como um revendedor indireto.
+>Depois de registrar como um revendedor indireto usando o novo recurso, não há nenhuma opção para reverter para um locatário somente fatura - direto. Certifique-se de que você avalie totalmente suas necessidades de negócios antes de registrar como um revendedor indireto.
 
-## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>Enquanto você fazer a transição do direct ao revendedor indireto
+## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>Ao fazer a transição de direct para revendedores indiretos
 
-Durante essa fase, que você continuará a gerenciar a assinatura de seus clientes diretos precisa incluindo o processo de cobrança. Você também pode começar a aceitar os clientes do seu provedor indireto e operando como um revendedor indireto.
+Durante essa fase, que você continuará a gerenciar a assinatura de seus clientes diretos precisa incluindo o processo de cobrança. Você também pode começar a aceitar clientes do seu provedor indireto e operam como um revendedor indireto.
 
-![Você é um revendedor indireto e cobrança direta](images/direct/direct4.png)
+![São um bill diretos e indireto revendedor](images/direct/direct4.png)
 
-## <a name="find-an-indirect-provider"></a>Localizar um provedor indireto
+## <a name="find-an-indirect-provider"></a>Encontre um provedor indireto
 
-Depois de registrar, um link para provedores indiretos aparecerão na sua na navegação esquerda. Como um revendedor indireto estabelecerá uma relação com um provedor indireto que, em seguida, pode manipular sua cobrança, comprar produtos para seus clientes e dar suporte a infraestrutura.
+Após o registro, um link para provedores indiretos aparecerá na barra de navegação à esquerda. Como um revendedor indireto estabelecerá uma relação com um provedor indireto que, em seguida, pode lidar com sua cobrança, compra produtos para seus clientes e dão suporte à infraestrutura.
 
 Diferentes provedores indiretos oferecem suporte e serviços diferentes, portanto, você deve avaliar os provedores na sua região para determinar quais deles atendem melhor às suas necessidades. Em geral, a maioria dos provedores irá: 
 
 - Fornecer treinamento e assistência técnica
 - Ajudar a comercializar seus produtos e serviços 
-- Gerenciar os termos de financiamento e crédito 
+- Gerenciar seus termos de financiamento e crédito 
 
-Pesquise a lista de [provedores indiretos Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider)de oficial.
+Pesquise a lista de oficial [provedores indiretos do Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider).
 
-Saiba mais, leia a [parceria com fornecedores indiretos](indirect-reseller-tasks-in-partner-center.md)
+Saber mais, leia [parcerias com provedores indiretos](indirect-reseller-tasks-in-partner-center.md)
 
-## <a name="accept-a-partnership-invitation-from-your-indirect-provider"></a>Aceitar um convite de parceria de seu provedor indireto
+## <a name="accept-a-partnership-invitation-from-your-indirect-provider"></a>Aceitar um convite de parceria do seu provedor indireto
 
-Quando você encontrar um provedor indireto a parceria com a, estabelece uma parceria com o provedor indireto no Partner Center.
+Quando você encontrar um provedor indireto parceria com a, estabelece uma parceria com o provedor indireto no Partner Center.
 
-O provedor indireto que você selecionar enviará por email um link do convite de parceria que levará você para o convite no Partner Center. Certifique-se de que o administrador global entra no Partner Center e segue o link do convite. Ao aceitar o convite, o nome do provedor aparecerão na sua lista de provedor indireto.
+O provedor indireto selecionado enviará por email um link de convite de parceria que você será levado para seu convite no Partner Center. Certifique-se de que o administrador global entra no Partner Center e segue o link de convite. Quando você aceita o convite, o nome do provedor aparecerá na sua lista de provedores indiretos.
 
-## <a name="acquire-new-customers-as-indirect-reseller"></a>Adquirir novos clientes como revendedor indireto
+## <a name="acquire-new-customers-as-indirect-reseller"></a>Adquirir novos clientes, como revendedor indireto
 
-Você e seu provedor indireto precisam ter relações de revendedor com os clientes. Isso permite que você gerenciar assinaturas e serviços em nome do cliente. Para adquirir um novo cliente que tem um locatário do Azure AD existente, você pode convidar o cliente para estabelecer uma relação de revendedor com você e seu provedor ao mesmo tempo. 
+Você e seu provedor indireto precisam ter relações de revendedor com clientes. Isso permite que você gerencie as assinaturas e serviços em seu nome de um cliente. Para adquirir um novo cliente que tenha um locatário existente do Azure AD, é possível convidar o cliente para estabelecer uma relação de revendedor com você e seu provedor ao mesmo tempo. 
 
-Para criar um convite de revendedor indireto:
+Para criar um convite de revendedores indiretos:
 
-1. Selecione **provedores indiretos** na sua navegação de esquerdo do Partner Center. 
+1. Selecione **provedores indiretos** do seu centro de parceiro deixado o painel de navegação. 
 
-2. Selecione **Convidar novos clientes** para convidar um cliente a estabelecer uma relação de revendedor com você e a provedor indireto ao mesmo tempo. O provedor precisa ter uma relação de revendedor com seu cliente, para que eles possam enviar pedidos em nome do cliente quando quiserem comprar novas assinaturas ou adicionar novas licenças a assinaturas existentes.
+2. Selecione **Convidar novos clientes** para convidar um cliente a estabelecer uma relação de revendedor com você e a provedor indireto ao mesmo tempo. O provedor precisa ter uma relação de revendedor com seu cliente, para que eles possam enviar pedidos em nome do seu cliente quando o cliente deseja comprar assinaturas novas ou adicionar novas licenças a assinaturas existentes.
 
-3. Na próxima página, examine a mensagem de rascunho de e-mail. Você pode abrir a mensagem de rascunho por email, ou você pode copiar a mensagem para sua área de transferência e colá-lo em um email.
+3. Na página seguinte, reveja o rascunho da mensagem de e-mail. Você pode abrir a mensagem do rascunho no email, ou você pode copiar a mensagem para a área de transferência e cole-o em um email.
 
-4. Edite o texto no email para dizer que você precisa, mas não se esqueça de incluir o link conforme ele é personalizado para conectar o cliente diretamente à sua conta e a conta de seu fornecedor. Em seguida, selecione **feito**.
+4. Edite o texto no email para dizer o que você precisa, mas não se esqueça de incluir o link como ele é personalizado para conectar-se o cliente diretamente para sua conta e a conta do seu provedor. Em seguida, selecione **feito**.
 
 5. Depois que o cliente autoriza você e seu provedor a ser seus revendedores de registro, você terá permissões de administrador para gerenciar suas assinaturas, as licenças e os usuários em seu nome e seu provedor indireto serão capaz de enviar pedidos no nome dele.
 6. Para gerenciar a conta do cliente, serviços, usuários e licenças, expanda o registro do cliente, selecionando a seta para baixo perto de seu nome. 
 
-Ao contrário de parceiros de cobrança direta, revendedores indiretos não podem criar locatários do Azure AD para seus novos clientes no Partner Center. Seu provedor criará o locatário e especifica como o revendedor indireto para este cliente. Isso garante que o cliente aparecerá em sua lista de clientes no Partner Center.
+Ao contrário de parceiros de fatura direto, revendedores indiretos não é possível criar locatários do Azure AD para seus novos clientes no Partner Center. Seu provedor de cria o locatário e especifica como o revendedor indireto para este cliente. Isso garante que o cliente será exibido na lista de cliente no Partner Center.
 
 >[!Note]
->Você não poderá usar a funcionalidade de cobrança direta para criar compras para clientes que você adquire como um revendedor indireto.
+>Você não poderá usar sua capacidade de fatura direto para criar as compras para adquirir como um revendedor indireto de clientes.
 
-## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>Mover os clientes de cobrança direta para seu provedor indireto
+## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>Mover os clientes de fatura direto ao seu provedor indireto
 
-Seu provedor indireto não consigam enviar pedidos para os clientes existentes de cobrança direta até que eles têm uma relação de revendedor com eles. Para estabelecer a relação de revendedor entre seus clientes existentes e seu provedor indireto, convide o cliente usando um convite de revendedor indireto. 
+Seu provedor indireto não pode enviar pedidos para os clientes existentes de fatura direto até que tenham uma relação de revendedor com eles. Para estabelecer a relação de revendedor entre os clientes existentes e seu provedor indireto, convide o cliente usando um convite de revendedor indireta. 
 
-1. Selecione **provedores indiretos** na sua navegação de esquerdo do Partner Center.
+1. Selecione **provedores indiretos** do seu centro de parceiro deixado o painel de navegação.
 
-2. Selecione **Convidar novos clientes** para convidar um cliente para estabelecer uma relação de revendedor com você e o provedor indireto ao mesmo tempo. O provedor precisa ter uma relação de revendedor com seu cliente, para que eles possam enviar pedidos em nome do cliente quando quiserem comprar novas assinaturas ou adicionar novas licenças a assinaturas existentes.
+2. Selecione **convidar novos clientes** para convidar um cliente para estabelecer uma relação de revendedor com você e o provedor indireto ao mesmo tempo. O provedor precisa ter uma relação de revendedor com seu cliente, para que eles possam enviar pedidos em nome do seu cliente quando o cliente deseja comprar assinaturas novas ou adicionar novas licenças a assinaturas existentes.
 
-3. Na próxima página, examine a mensagem de rascunho de e-mail. Você pode abrir a mensagem de rascunho por email, ou você pode copiar a mensagem para sua área de transferência e colá-lo em um email. 
+3. Na página seguinte, reveja o rascunho da mensagem de e-mail. Você pode abrir a mensagem do rascunho no email, ou você pode copiar a mensagem para a área de transferência e cole-o em um email. 
 
-4. Edite o texto no email para dizer que você precisa, mas não se esqueça de incluir o link conforme ele é personalizado para conectar o cliente diretamente à sua conta e a conta de seu fornecedor. Em seguida, selecione **feito**.  
+4. Edite o texto no email para dizer o que você precisa, mas não se esqueça de incluir o link como ele é personalizado para conectar-se o cliente diretamente para sua conta e a conta do seu provedor. Em seguida, selecione **feito**.  
 
 5. Depois que o cliente autoriza você e seu provedor a ser seus revendedores de registro, você terá permissões de administrador para gerenciar suas assinaturas, as licenças e os usuários em seu nome e seu provedor indireto serão capaz de enviar pedidos no nome dele.
 
 6. Para gerenciar a conta do cliente, serviços, usuários e licenças, expanda o registro do cliente, selecionando a seta para baixo perto de seu nome.
 
 >[!Note]
->Atualmente, Microsoft Store para empresas não permite que um cliente para aceitar o convite de revendedor indireto de um parceiro de cobrança direta existente. Microsoft Store para empresas oferecer suporte a isso em um futuro próximo. Até lá, continue a enviar pedidos para os clientes existentes de cobrança direta usando sua capacidade de cobrança direta.
+>Atualmente, a Microsoft Store para empresas não permite que um cliente aceitar o convite de revendedor indireto de um parceiro de cobrança direta existente. A Microsoft Store para empresas oferecem esse suporte em um futuro próximo. Até lá, continue para enviar pedidos para os clientes existentes de fatura direta usando sua capacidade de fatura direto.
 
-## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>Gerenciar seus clientes de cobrança direta e seus clientes do revendedor indireto
+## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>Gerenciamento de seus clientes diretos fatura e seus clientes indiretos do revendedor
 
-Gerenciar seus clientes de cobrança direta e seus clientes do revendedor indireto diferente. 
+Gerencie seus clientes de fatura direto e seus clientes indiretos revendedor diferente. 
 
-**Direcionar os clientes de cobrança (coisas que você não fazer como um revendedor indireto)**
+**Direcionar os clientes de fatura (coisas que você não terá como um revendedor indireto)**
 
 - Criar pedidos de produtos
 - Gerenciar reservas do Azure
 - Gerenciar seu histórico de pedidos
-- Software de compra
+- Comprar o software
 - Cobrar os clientes diretamente
 
-**Clientes do revendedor indireto**
+**Clientes indiretos do revendedor**
 
-- Produtos de pedidos de seu provedor indireto para seus clientes
+- Seu provedor indireto ordena os produtos para seus clientes
 - Gerenciar usuários e licenças dos clientes
-- Manipular renovações de assinatura
+- Manipular renovações de assinaturas
 
-**Para identificar os clientes que você adquiriu como um parceiro de cobrança direta**
+**Para identificar os clientes que adquiriram como um parceiro de cobrança direta**
 
 1. Selecione **clientes**
 
 2. Selecione um cliente para exibir seus detalhes
 
-3. Se esse cliente é aquele que você adquiriu como um parceiro de cobrança direta, você verá opções para **Adicionar** ou **Exibir produtos** e você verá suas assinaturas.
+3. Se esse cliente é um adquirido como um parceiro direto de fatura, você verá opções para **adicione** ou **exibir produtos** e você verá suas assinaturas.
 
-4. Se o cliente tiver uma relação de revendedor indireto com você, essas opções não estarão disponíveis.
+4. Se o cliente tem uma relação indireta revendedor com você, essas opções não estarão disponíveis.
 
-## <a name="enroll-for-indirect-reseller-incentives"></a>Inscrever-se para receber incentivos revendedor indireto 
+## <a name="what-happens-when-your-direct-bill-capabilities-have-been-restricted"></a>O que acontece quando seus recursos de fatura direto foram restritos
 
-Depois que você se inscrever-se com êxito como um revendedor indireto no locatário parceiro cobrança direta existente, você receberá um convite para inscrever incentivo revendedor indireto dentro de 30 dias. O convite se baseia no parceiro de conta MPN que está associado ao seu locatário do parceiro CSP. O convite será enviado para o endereço de email associado com a conta do MPN do parceiro. 
+Se você optou por fazer a transição para revendedores indiretos e ter um registro duplo como ambos direcionam fatura e revendedores indiretos, ou você não tiver feito uma decisão explícita ainda se inscrever como um revendedor indireto, direcionar os parceiros de fatura que não atendem aos novos requisitos para o CSP programa de parceiro direto fatura será informado pela Microsoft quando seus recursos de cobrança direta será restritos. 
 
-Você também está qualificados para se inscrever para programas de incentivo de cobrança direta com esse mesmo locatário parceiro. Você deve gerenciar os programas separadamente.
+No seu **perfil do parceiro** sob **informações de programa** você verá que o status do provedor de soluções de nuvem do Microsoft foi alterada para **restrito**.
 
-Consulte também [informações adicionais sobre como se tornar um revendedor indireto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) e o [cobrança direta ao revendedor indireto perguntas frequentes sobre](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).
+## <a name="affected-direct-bill-capabilities"></a>Afetados recursos direto de fatura
+
+Quando seus recursos de fatura direto foram restritos, você não pode fazer novas compras para seus clientes no Partner Center. Isso inclui: 
+
+- Assinaturas do Azure
+- Assinaturas de licença
+- Adicionando novos complementos para assinaturas existentes baseados em licença
+- Fazer compras ocasionais de produtos de software e reserva como assinaturas de software, software permanente e instâncias de máquina de Virtual reservada do Azure.
+
+Você também não é possível adquirir novas assinaturas do Azure para seu próprio uso usando a oferta de serviços compartilhados do parceiro do Azure no programa CSP. 
+
+Além das novas compras, você não pode acessar os seguintes recursos de fatura direto no Partner Center: 
+- Não é possível criar novos locatários do cliente. O **criar cliente** opção sob **clientes** no Partner Center não estará disponível. 
+
+- Não é possível gerar convites para os clientes que solicitarem uma relação de revendedor direto. O **solicitar uma relação de revendedor** opção sob **clientes** no Partner Center não estará disponível. 
+
+Assinaturas de fatura direto existentes não são afetadas. Eles permanecem válidos e renovado automaticamente. Você continuará a ser cobrados diretamente pela Microsoft, até que eles são cancelados. Você ainda pode gerenciar as assinaturas existentes das seguintes maneiras: 
+
+- Suspender as assinaturas existentes 
+
+- Ajustar a contagem de estações de assinaturas existentes baseados em licença 
+
+- Ajuste a contagem de estações de complementos existentes a uma assinatura. Observação: Você ccan't adicionar novos complementos para assinaturas existentes, conforme eles são tratados como novas compras. 
+
+- Implantar novos recursos do Azure e gerenciar recursos do Azure existentes em assinaturas existentes do Azure. Isso inclui produtos que estão disponíveis por meio do Azure marketplace e assinaturas do Visual Studio. 
+
+>[!Note] 
+>Se você já tiver registrado seu locatário de parceiro direto fatura como revendedor indireto, será possível enviar convites para os clientes que solicitarem uma relação indireta revendedor em vez de fatura direta. 
+
+- Você não pode criar um novo locatário de área restrita. Cada locatário de parceiro direto fatura pode criar um locatário de área restrita para fins de integração da API de fatura direto. Se você ainda não tiver criado anteriormente, você não terá permissão para fazê-lo após você direcionar a funcionalidade de parceiro de fatura foi restringida. 
+
+## <a name="enroll-for-indirect-reseller-incentives"></a>Inscrever-se para incentivos de revendedor indireta 
+
+Depois que você tiver registrado com êxito como um revendedor indireto em seu locatário existente do parceiro direto de fatura, você receberá um convite para se registrar incentivo ao revendedor indireta dentro de 30 dias. O convite baseia-se no parceiro de conta da MPN que está atualmente associado com seu locatário do parceiro CSP. O convite será enviado ao endereço de email associado com o parceiro de conta da MPN. 
+
+Você também está qualificado para se registrar programas de incentivo de fatura direto com o mesmo locatário do parceiro. Você deve gerenciar os programas separadamente.
+
+Consulte também [informações adicionais sobre como se tornar um revendedor indireto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) e o [bill direto para revendedores indiretos perguntas frequentes sobre](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).
+
+

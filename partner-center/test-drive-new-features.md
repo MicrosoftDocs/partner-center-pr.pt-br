@@ -6,12 +6,12 @@ description: Teste os novos recursos do Partner Center antes que eles sejam lan�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: cd09ce1c9896d730f78f6c983e756fc8e8437af6
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 9bcf606a18d93acd532a9a3225ab01f1ba2f23ef
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995730"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585879"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Teste os novos recursos do Partner Center
 
@@ -26,7 +26,7 @@ Estamos continuamente lançando novos recursos e funcionalidades no Partner Cent
 Ficamos felizes em convidá-lo a experimentar os novos recursos antes que eles sejam lançados na comunidade do Partner Center em todo o mundo e a compartilhar seus pensamentos sobre eles. Confira a [página Partner Center Comunicados](https://partnercenter.microsoft.com/pcv/announcements) para obter informações sobre recursos futuros para que você possa começar a planejar como usá-los para aumentar seus negócios. Observe que pode haver vários recursos disponíveis para teste em um determinado momento.
 
 > [!IMPORTANT]  
-> Continuamos a corrigir erros e melhorar o desempenho do recurso durante a fase de visualização de quaisquer versões do recurso, o que pode resultar em alterações na forma como o recurso final funciona. Por esses e outros motivos, versões de visualização podem apresentar comportamento imprevisível e não transmitir uma garantia real ou implícita da Microsoft.
+> Continuamos a corrigir erros e melhorar o desempenho de recurso durante a fase de visualização de quaisquer versões de recurso, o que pode resultar em alterações de como funciona o recurso final. Por esses e outros motivos, versões de visualização podem apresentar comportamento imprevisível e não transmitir uma garantia real ou implícita da Microsoft.
 
 Para cada recurso futuro, você pode:
 
@@ -34,7 +34,7 @@ Para cada recurso futuro, você pode:
 
 - Encontrar instruções sobre como testar o recurso
 
-- Consulte nosso estimado para disponibilizar um recurso de visualização e nossa destino data para quando lançarmos o recurso a comunidade do Partner Center em todo o mundo.
+- Consulte nosso data de destino para fazer um recurso disponível para visualização e nosso data prevista do ar quando lançaremos o recurso para a comunidade do Partner Center em todo o mundo.
 
 > [!NOTE]  
 >  O termo *prazo de ativação estimado* refere-se à data em que pretendemos disponibilizar o recurso para todos os usuários do Partner Center em todo o mundo. Entretanto, várias coisas podem afetar a data de ativação, incluindo uma decisão de incorporar o feedback que melhora o recurso, e podemos decidir reprogramar a data de ativação ou não lançar uma versão comercial do recurso.  
@@ -52,7 +52,7 @@ Recomendamos que você compartilhe suas ideias e opiniões sobre uma versão de 
 
 -   Usar o formulário de comentários no canto inferior direito da janela do Partner Center para enviar seus comentários diretamente para nós. 
 
--   Solicitar suporte se você enfrentar problemas com uma visualização do recurso. Para criar uma solicitação de suporte, selecione **solicitações de suporte > solicitações do Partner Center** no menu **Partner Center** e, em seguida, selecione **nova solicitação** na página **solicitações do Partner Center** .
+-   Solicitar suporte se você enfrentar problemas com uma visualização do recurso. Para criar uma solicitação de suporte, selecione **solicitações de suporte > Partner Center solicita** da **Partner Center** menu e, em seguida, selecione **nova solicitação** sobre o **Partner Center solicita** página.
 
 Ajude-nos a capacitar você!
 

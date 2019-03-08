@@ -2,49 +2,49 @@
 title: Mercados globais do CSP | Partner Center
 ms.topic: article
 ms.date: 11/03/2018
-description: Consulte os países e regiões em que você pode vender ofertas CSP, com base no local da sua empresa.
+description: Consulte os países e regiões em que você pode vender ofertas do CSP, com base na localização da sua empresa.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: CSP mercados, regiões, onde i vender por meio do CSP, ofertas do CSP, regiões, vendem soluções de nuvem, CSP global
+keywords: Mercados CSP, territórios, onde pode i vender por meio do CSP, CSP oferece, regiões, vendem soluções de nuvem, global CSP
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 081ce3c20dfd0572f267a2483eaf7fed5babc05c
-ms.sourcegitcommit: 004edfd8633620e6b0e0558d818e0dbf32be9e88
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "9065603"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588069"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Mercados regionais de programa de provedor de soluções de nuvem e moedas
 
-Localização da sua empresa determina sua participação no mercado. Seu mercado inclui as regiões e/ou países/regiões onde você pode vender ofertas do CSP.
+Local da empresa determina seu mercado. Seu mercado inclui os países em que você pode vender ofertas CSP e/ou regiões.
 
-Por exemplo, se sua empresa está localizada nos Estados Unidos, você pode vender ofertas do CSP para os clientes nos EUA e em Ilhas territórios dos EUA. Se sua empresa está localizada no Brasil, você pode vender ofertas do CSP para os clientes somente no Brasil. Se sua empresa está localizada na região África, você pode vender ofertas do CSP para clientes em todos os 18 países na região África.
+Por exemplo, se sua empresa está localizada nos Estados Unidos, você pode vender CSP oferece aos clientes nos EUA e nos Estados Unidos Ilhas menores distantes. Se sua empresa estiver localizada no Brasil, você pode vender o CSP oferece aos clientes somente no Brasil. Se sua empresa está localizada na região da África, você pode vender o CSP oferece aos clientes em todos os 18 países na região da África.
 
-Antes de você pode solicitar que ofertas do CSP em nome do cliente, o cliente deve assinar o contrato de nuvem da Microsoft. Você pode encontrar o contrato da Microsoft Cloud aplicáveis para seu país/região [aqui](agreements.md).
+Antes de você pode ordenar que CSP oferece em nome de um cliente, o cliente deve assinar o contrato de nuvem da Microsoft. Você pode encontrar o contrato aplicável de nuvem da Microsoft para seu país/região [aqui](agreements.md).
 
 >[!IMPORTANT]
-> A partir de 7 de novembro de 2018, você precisará confirmar que um cliente aceitou o contrato de nuvem da Microsoft, fornecendo informações sobre a pessoa que assinou. Para obter mais detalhes, consulte [Confirmar a aceitação do cliente do contrato de nuvem da Microsoft](confirm-consent.md) .
+> Iniciando no dia 7 de novembro de 2018, você precisará confirmar que um cliente aceitou o contrato de nuvem da Microsoft, fornecendo informações sobre a pessoa que assinou. Ver [confirmar a aceitação do cliente do contrato de nuvem da Microsoft](confirm-consent.md) para obter mais detalhes.
 
-Para determinar onde você pode vender ofertas CSP, encontre o local da sua empresa em uma das listas abaixo. Você deve ter uma ID ativa do Microsoft Partner Network (MPN) para o local em que você deseja vender.  
+Para determinar onde você pode vender ofertas do CSP, encontre o local da sua empresa em um das listas abaixo. Você deve ter uma ID ativa do Microsoft Partner Network (MPN) para o local em que você deseja vender na.  
 
-## <a name="for-unsupported-countries"></a>Países ou regiões sem suporte
+## <a name="for-unsupported-countries"></a>Para países sem suporte
 
-Se seu país não for compatível, estabelecer o cliente relação CSP usando a URL de administração do Office. 
+Se não há suporte para o seu país, estabelecer o relação CSP usando a URL de administração do Office do cliente. 
 
-- Os parceiros de cobrança direta usar a seguinte url: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0. Substitua **partnertenantguid** por sua ID de locatário. 
+- Parceiros de fatura diretos usam a seguinte url: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0. Substitua **partnertenantguid** com sua ID de locatário. 
 
-- A URL para revendedores indiretos é: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid. Você substituirá **IRtenantguid** com sua ID de locatário. Substitua **IRMPNID** com sua ID do MPN e **IPtenantguid** com sua id de locatário de provedor indireto.
+- É a URL para revendedores indiretos: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid. Você substituirá **IRtenantguid** com sua ID de locatário. Substitua **IRMPNID** pela sua ID do MPN e substitua **IPtenantguid** com sua id de locatário do provedor indireto.
 
-## <a name="africa-region-and-market"></a>Mercado e região África
+## <a name="africa-region-and-market"></a>Entrada no mercado e a região da África
 
-Se o local da sua empresa está na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
+Se o local da sua empresa está na lista abaixo, você pode vender CSP oferece aos clientes em todos os locais na lista.
 
-| País/Região           | Moeda |
+| País/região           | Currency |
 | ------------------------ |:--------:|
 | Angola                   |          |
-| Benim                    |   USD    |
+| Benin                    |   USD    |
 | Botsuana                 |          |
 | Burquina Faso             |   USD    |
 | Burundi                  |   USD    |
@@ -69,7 +69,7 @@ Se o local da sua empresa está na lista a seguir, você pode vender ofertas do 
 | Quênia                    |   USD    |
 | Libéria                  |   USD    |
 | Madagascar               |   USD    |
-| Maláui                   |   USD    |
+| Malaui                   |   USD    |
 | Máli                     |   USD    |
 | Maurício                |   USD    |
 | Mayotte                  |   USD    |
@@ -79,7 +79,7 @@ Se o local da sua empresa está na lista a seguir, você pode vender ofertas do 
 | Nigéria                  |   USD    |
 | Reunião                  |   USD    |
 | Ruanda                   |   USD    |
-| São Tomé e Príncipe    |   USD    |
+| São Tomé and Príncipe    |   USD    |
 | Senegal                  |          |
 | Seicheles               |   USD    |
 | Serra Leoa             |   USD    |
@@ -92,11 +92,11 @@ Se o local da sua empresa está na lista a seguir, você pode vender ofertas do 
 | Zâmbia                   |          |
 |
 
-## <a name="asia-and-pacific-region-and-market"></a>Mercado e região Ásia e Pacífico
+## <a name="asia-and-pacific-region-and-market"></a>Entrada no mercado e a região da Ásia e Pacífico
 
-Se o local da sua empresa está na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
+Se o local da sua empresa está na lista abaixo, você pode vender CSP oferece aos clientes em todos os locais na lista.
 
-| País/Região     | Moeda |
+| País/região     | Currency |
 | --------------     |:--------:|
 |  Bangladesh        |   USD    |
 |  Butão            |          |
@@ -118,18 +118,18 @@ Se o local da sua empresa está na lista a seguir, você pode vender ofertas do 
 |  Vietnã           |   USD    |
 |
 
-## <a name="australia-region-and-market"></a>Mercado e região Austrália
+## <a name="australia-region-and-market"></a>Entrada no mercado e a região da Austrália
 
-Se o local da sua empresa está na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
+Se o local da sua empresa está na lista abaixo, você pode vender CSP oferece aos clientes em todos os locais na lista.
 
-|  País/Região        | Moeda |
+|  País/região        | Currency |
 |  --------------        |:--------:|
 |  Austrália             |   AUD    |
 |  Ilha Christmas      |   AUD    |
 |  Ilhas Cocos (Keeling)|   AUD   |
 |  Ilhas Cook          |   AUD    |
 |  Fiji                  |   AUD    |
-|  Territórios Franceses do Sul| AUD |
+|  Territórios Austrais Franceses| AUD |
 |  Guam                  |  AUD     |
 |  Ilhas Heard e McDonald| AUD |
 |  Kiribati              |   AUD    |
@@ -149,71 +149,71 @@ Se o local da sua empresa está na lista a seguir, você pode vender ofertas do 
 |  Wallis e Futuna     |   AUD    |
 |
 
-## <a name="brazil-region-and-market"></a>Mercado e região Brasil
+## <a name="brazil-region-and-market"></a>Entrada no mercado e Brasil região
 
-Se o local da sua empresa for o Brasil, você pode vender ofertas do CSP para clientes no Brasil.
+Se o local da sua empresa for Brasil, você pode vender CSP oferece aos clientes no Brasil.
 
-|  País/Região | Moeda |
+|  País/região | Currency |
 |  -------------- |:--------:|
 |  Brasil         |   USD    |
 |
 
-## <a name="canada-region-and-market"></a>Mercado e Canadá região
+## <a name="canada-region-and-market"></a>Entrada no mercado e a região do Canadá
 
-Se o local da sua empresa está na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
+Se o local da sua empresa está na lista abaixo, você pode vender CSP oferece aos clientes em todos os locais na lista.
 
-|  País/Região | Moeda |
+|  País/região | Currency |
 |  -------------- |:--------:|
 |  Canadá         |   CAD    |
 |  São Pedro e Miquelon|  CAD   |
 |
 
-## <a name="europe-region-and-market"></a>Mercado e região Europa
+## <a name="europe-region-and-market"></a>Entrada no mercado e a região da Europa
 
-Se o local da sua empresa está na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
+Se o local da sua empresa está na lista abaixo, você pode vender CSP oferece aos clientes em todos os locais na lista.
 
-|  País/Região | Moeda  |
+|  País/região | Currency  |
 |  -------------- |:--------:|
-|  Ilhas Aland  |   Euro    |
-|  Andorra        |   Euro    |
-|  Áustria        |   Euro    |
-|  Bélgica        |   Euro    |
-|  Ilha Bouvet  |   Euro    |
+|  Ilhas Aland  |   EUR    |
+|  Andorra        |   EUR    |
+|  Áustria        |   EUR    |
+|  Bélgica        |   EUR    |
+|  Ilha Bouvet  |   EUR    |
 |  Bulgária       |          |
-|  Croácia        |   Euro    |
+|  Croácia        |   EUR    |
 |  Chipre         |          |
-|  República Tcheca |   Euro    |
+|  República Tcheca |   EUR    |
 |  Dinamarca        |   DKK    |
-|  Estônia        |   Euro    |
-|  Ilhas Faroés  |   Euro    |
-|  Finlândia        |   Euro    |
-|  França         |   Euro    |
-|  Alemanha        |   Euro    |
+|  Estônia        |   EUR    |
+|  Ilhas Faroés  |   EUR    |
+|  Finlândia        |   EUR    |
+|  França         |   EUR    |
+|  Alemanha        |   EUR    |
 |  Gibraltar      |   GBP    |
-|  Grécia         |   Euro    |
+|  Grécia         |   EUR    |
 |  Groenlândia      |          |
 |  Guernsey       |   GBP    |
-|  Hungria        |   Euro    |
-|  Islândia        |   Euro    |
-|  Irlanda        |   Euro    |
+|  Hungria        |   EUR    |
+|  Islândia        |   EUR    |
+|  Irlanda        |   EUR    |
 |  Ilha de Man    |   GBP    |
-|  Itália          |   Euro    |
+|  Itália          |   EUR    |
 |  Jersey         |   GBP    |
-|  Letônia         |   Euro    |
-|  Liechtenstein  |   Euro    |
-|  Lituânia      |   Euro    |
-|  Luxemburgo     |   Euro    |
+|  Letônia         |   EUR    |
+|  Liechtenstein  |   EUR    |
+|  Lituânia      |   EUR    |
+|  Luxemburgo     |   EUR    |
 |  Malta          |          |
 |  Mônaco         |          |
-|  Países Baixos    |   Euro    |
+|  Países Baixos    |   EUR    |
 |  Noruega         |   NOK    |
-|  Polônia         |   Euro    |
-|  Portugal       |   Euro    |
-|  Romênia        |   Euro    |
-|  San Marino     |   Euro    |
-|  Eslováquia       |   Euro    |
-|  Eslovênia       |   Euro    |
-|  Espanha          |   Euro    |
+|  Polônia         |   EUR    |
+|  Portugal       |   EUR    |
+|  Romênia        |   EUR    |
+|  San Marino     |   EUR    |
+|  Eslováquia       |   EUR    |
+|  Eslovênia       |   EUR    |
+|  Espanha          |   EUR    |
 |  Svalbard e Jan Mayen|NOK|
 |  Suécia         |   SEK    |
 |  Suíça    |   CHF    |
@@ -221,40 +221,40 @@ Se o local da sua empresa está na lista a seguir, você pode vender ofertas do 
 |  Cidade do Vaticano   |          |
 |
 
-## <a name="india-region-and-market"></a>Mercado e região da Índia
+## <a name="india-region-and-market"></a>Entrada no mercado e a região da Índia
 
-Se o local da sua empresa for a Índia, você pode vender ofertas do CSP para os clientes na Índia.
+Se o local da sua empresa é a Índia, você pode vender CSP oferece aos clientes na Índia.
 
-|  País/Região | Moeda |
+|  País/região | Currency |
 |  -------------- |:--------:|
 |  Índia          |   INR    |
 |
 
-## <a name="japan-region-and-market"></a>Mercado e região do Japão
+## <a name="japan-region-and-market"></a>Entrada no mercado e a região do Japão
 
-Se o local da sua empresa estiver no Japão, você pode vender ofertas do CSP para clientes no Japão.
+Se o local da sua empresa é Japão, você pode vender CSP oferece aos clientes no Japão.
 
-|  País/Região | Moeda |
+|  País/região | Currency |
 |  -------------- |:--------:|
 |  Japão          |   JPY    |
 |
 
-## <a name="korea-republic-of-region-and-market"></a>Coreia, República da região e o mercado
+## <a name="korea-republic-of-region-and-market"></a>Coreia, República da região e mercado
 
-Se o local da sua empresa for a Coreia, República da, você pode vender ofertas do CSP para os clientes na Coreia, República da.
+Se o local da sua empresa é Coreia, República da, você pode vender CSP oferece aos clientes na Coreia, República da.
 
-|  País/Região    | Moeda |
+|  País/região    | Currency |
 |  --------------    |:--------:|
 |  Coreia, República da|   KRW    |
 |
 
-## <a name="latin-america-and-the-caribbean-region-and-market"></a>América Latina e a região Caribe e mercado
+## <a name="latin-america-and-the-caribbean-region-and-market"></a>América Latina e Caribe região e mercado
 
-Se o local da sua empresa está na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
+Se o local da sua empresa está na lista abaixo, você pode vender CSP oferece aos clientes em todos os locais na lista.
 
-|  País/Região | Moeda |
+|  País/região | Currency |
 |  -------------- |:--------:|
-|  Anguila       |   USD    |
+|  Anguilla       |   USD    |
 |  Antártida     |   USD    |
 |  Antígua e Barbuda| USD  |
 |  Argentina      |   USD    |
@@ -298,22 +298,22 @@ Se o local da sua empresa está na lista a seguir, você pode vender ofertas do 
 |  Santa Lúcia    |   USD    |
 |  Saint Martin   |   USD    |
 |  São Vicente e Granadinas| USD |
-|  Sint Eustatius |   USD    |
+|  Santo Eustáquio |   USD    |
 |  Sint Maarten   |   USD    |
-|  Ilhas Geórgia do Sul e Sandwich do Sul| USD|
+|  Geórgia do Sul e Ilhas Sandwich do Sul| USD|
 |  Suriname       |   USD    |
 |  Trinidad e Tobago|USD   |
-|  Ilhas Turks e Caicos| USD|
+|  Ilhas Turcos e Caicos| USD|
 |  Uruguai        |   USD    |
 |  Venezuela      |   USD    |
 |  Ilhas Virgens Americanas| USD |
 |
 
-## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Mercado e região Leste dos EUA Europa, Europa Central e Oriente Médio
+## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Entrada no mercado e a região Europa Oriental, Europa Central e Oriente Médio
 
-Se o local da sua empresa está na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
+Se o local da sua empresa está na lista abaixo, você pode vender CSP oferece aos clientes em todos os locais na lista.
 
-|  País/Região | Moeda |
+|  País/região | Currency |
 |  -------------- |:--------:|
 |  Afeganistão    |          |
 |  Albânia        |   USD    |
@@ -336,7 +336,7 @@ Se o local da sua empresa está na lista a seguir, você pode vender ofertas do 
 |  Líbano        |   USD    |
 |  Lesoto        |   USD    |
 |  Líbia          |          |
-|  República da Macedônia|   |
+|  Macedônia, República da|   |
 |  Mauritânia     |   USD    |
 |  Moldova        |          |
 |  Mongólia       |          |
@@ -345,28 +345,28 @@ Se o local da sua empresa está na lista a seguir, você pode vender ofertas do 
 |  Moçambique     |          |
 |  Omã           |   USD    |
 |  Paquistão       |   USD    |
-|  Palestinian Territory, Occupied |        |
+|  Território Palestino, ocupado |        |
 |  Catar          |   USD    |
 |  Arábia Saudita   |   USD    |
 |  Sérvia         |   USD    |
 |  África do Sul   |   USD    |
 |  Suazilândia      |   USD    |
-|  Tajiquistão     |          |
+|  Tadjiquistão     |          |
 |  Tunísia        |   USD    |
 |  Turquia         |   USD    |
-|  Turquemenistão   |          |
+|  Turcomenistão   |          |
 |  Ucrânia        |   USD    |
 |  Emirados Árabes Unidos| USD |
-|  Usbequistão     |          |
+|  Uzbequistão     |          |
 |  Iêmen          |   USD    |
 |  Zimbábue       |          |
 |
 
-## <a name="new-zealand-region-and-market"></a>Mercado e região da Nova Zelândia
+## <a name="new-zealand-region-and-market"></a>Entrada no mercado e a região da Nova Zelândia
 
-Se o local da sua empresa está na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
+Se o local da sua empresa está na lista abaixo, você pode vender CSP oferece aos clientes em todos os locais na lista.
 
-|  País/Região | Moeda |
+|  País/região | Currency |
 |  -------------- |:--------:|
 |  Samoa Americana |   NZD    |
 |  Nova Zelândia    |   NZD    |
@@ -374,30 +374,30 @@ Se o local da sua empresa está na lista a seguir, você pode vender ofertas do 
 |  Vanuatu        |   NZD    |
 |
 
-## <a name="russia-region-and-market"></a>Mercado e região Rússia
+## <a name="russia-region-and-market"></a>Entrada no mercado e região Rússia
 
-Se o local da sua empresa for a Rússia, você pode vender ofertas do CSP para os clientes na Rússia.
+Se o local da sua empresa for Rússia, você pode vender CSP oferece aos clientes na Rússia.
 
-|  País/Região | Moeda |
+|  País/região | Currency |
 |  -------------- |:--------:|
 |  Rússia         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan region and market
+## <a name="taiwan-region-and-market"></a>Entrada no mercado e a região de Taiwan
 
-If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
+Se o local da sua empresa é Taiwan, você pode vender o CSP oferece aos clientes em Taiwan.
 
-|  País/Região | Moeda |
+|  País/região | Currency |
 |  -------------- |:--------:|
 |  Taiwan         |   TWD    |
 |
 
-## <a name="united-states-region-and-market"></a>Mercado e região dos Estados Unidos
+## <a name="united-states-region-and-market"></a>Entrada no mercado e a região dos Estados Unidos
 
-Se o local da sua empresa está na lista a seguir, você pode vender ofertas do CSP para clientes em todos os locais na lista.
+Se o local da sua empresa está na lista abaixo, você pode vender CSP oferece aos clientes em todos os locais na lista.
 
-|  País/Região       | Moeda |
+|  País/região       | Currency |
 |  -------------        |:--------:|
 |  Estados Unidos        |   USD    |
-|  Ilhas Menores Distantes dos EUA|   USD    |
+|  Territórios Insulares Ilhas menores distantes|   USD    |
 |

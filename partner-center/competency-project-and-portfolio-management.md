@@ -3,20 +3,20 @@ title: Competência Project e Gerenciamento de Portfólio
 ms.topic: article
 ms.date: 10/29/2018
 description: A competência Project e Gerenciamento de Portfólio reconhece parceiros que demonstram a capacidade de fornecer soluções de gerenciamento de projetos empresariais aos clientes.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: competência, competências
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 570f1eef7840f5a4944a21c95b2302615ba68edb
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 276595d07e43cc7e12976dc9140d6726bb49d2d6
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795469"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586789"
 ---
 >[!IMPORTANT]
->Para saber sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Para saber mais sobre os requisitos para obter essa competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 

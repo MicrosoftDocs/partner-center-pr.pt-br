@@ -8,15 +8,15 @@ ms.author: evansma
 keywords: action pack, MAPS, renovar MAPS, renovar action pack, obter action pack
 ms.localizationpriority: medium
 ms.openlocfilehash: b466785fee076966d94af78558736b99628afc3f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795039"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587879"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Comprar pela primeira vez ou renovar uma assinatura do Microsoft Action Pack
 
-**Aplica-se ao**
+**Aplica-se a**
 
 -  Partner Center
 -  Partner Membership Center
@@ -39,7 +39,7 @@ Depois que você ingressar com êxito na rede de parceiros, siga as [instruçõe
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>Renovar uma assinatura do Microsoft Action Pack
 
 >[!IMPORTANT]
->Entre agora e o fim do ano civil, estamos estiver migrando gerenciamento de assinaturas do Action Pack do Partner Membership Center (PMC) para o Partner Center - este site. A renovação de sua assinatura do Action Pack pode variar entre agora e naquele período. Portanto, examine cuidadosamente as informações abaixo.  
+>Entre agora e no final do ano civil, estamos movendo o gerenciamento de assinaturas do Action Pack do Centro de associação de parceiro (PMC) para o Centro de parceiro - este site. A renovação de sua assinatura do Action Pack pode variar entre agora e naquele período. Portanto, examine cuidadosamente as informações abaixo.  
 
 ### <a name="check-your-renewal-eligibility"></a>Verificar sua qualificação para renovação
 
@@ -49,17 +49,17 @@ Depois que você ingressar com êxito na rede de parceiros, siga as [instruçõe
 
     - Poderá acompanhar as etapas para renovar sua assinatura no PMC ou
 
-    - Receberá uma mensagem convidando-o a renovar sua assinatura no Partner Center - este site
+    - Receber uma mensagem convidando-o para renovar sua assinatura no Partner Center - este site
 
 >[!IMPORTANT]
->Se você for convidado a renovar sua assinatura no Partner Center, observe que mudamos nossa política de janela de renovação e você poderá renovar sua assinatura depois que ela expirar. Por exemplo, se sua assinatura expira em 22 de junho, você pode renová-la a partir de 23 de junho e por 30 dias depois disso.       
->Você pode encontrar a data de expiração da assinatura na página [**Ofertas de associação**](https://partnercenter.microsoft.com/pcv/partnership/offers) (é necessário entrar). Se ou quando você estiver qualificado para renovar no Partner Center, siga as etapas abaixo.  
+>Se você for convidado a renovar sua assinatura no Partner Center, observe que alteramos a nossa política de renovação da janela e você pode renovar sua assinatura somente depois que ele expire. Por exemplo, se sua assinatura expira em 22 de junho, você pode renová-la a partir de 23 de junho e por 30 dias depois disso.       
+>Você pode encontrar a data de expiração da assinatura na página [**Ofertas de associação**](https://partnercenter.microsoft.com/pcv/partnership/offers) (é necessário entrar). Se ou quando você está qualificado para renovar no Partner Center, siga as etapas abaixo.  
 
 
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Para renovar uma assinatura do Microsoft Action Pack no Partner Center
 
-1. Acesse a página [**Ofertas de associação**](https://partnercenter.microsoft.com/pcv/partnership/offers) e selecione **Comprado**. Localize o bloco de **Assinatura do Microsoft Action Pack** .  
+1. Acesse a página [**Ofertas de associação**](https://partnercenter.microsoft.com/pcv/partnership/offers) e selecione **Comprado**. Localize o bloco **Assinatura do Microsoft Action Pack**.  
 
 2. Selecione **Renovar assinatura** e então selecione seu método de pagamento. Você pode pagar usando um cartão de crédito ou uma transferência bancária eletrônica.
 
@@ -111,13 +111,13 @@ Para verificar o status de sua solicitação de serviço, selecione **Solicitaç
  
 ## <a name="next-steps"></a>Próximas etapas
 
--   [Comece a usar seus benefícios de assinatura do Action Pack](manage-your-partner-network-benefits.md)
+-   [Começar a usar seus benefícios do Action Pack](manage-your-partner-network-benefits.md)
 
--   [Saiba mais sobre os níveis de associação de competência Silver e Gold](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
+-   [Saiba mais sobre níveis de associação de competência Silver e Gold](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
 
 -   [Adicionar usuários e atribuir permissões a eles](create-user-accounts-and-set-permissions.md)
 
--   [Criar um perfil de negócios para obter oportunidades de vendas da Microsoft](create-a-marketing-profile.md)
+-   [Criar um perfil comercial para obter as oportunidades de vendas da Microsoft](create-a-marketing-profile.md)
 
 
 

@@ -2,18 +2,18 @@
 title: Visão geral de cobrança | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
-author: labrenne
+Description: Obter informações sobre cenários básicos de cobrança e as diferenças entre a cobrança baseados em uso e licença
+author: LauraBrenner
 ms.author: labrenne
 keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções fiscais, arquivos de reconciliação, arquivo de reconciliação
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: eebf3573cdb6724497bb7933d7edc08879dc8e5e
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: 917b04e9aba40aaf8dbfa27960e7baed7f39819d
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990938"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584669"
 ---
 # <a name="billing-overview"></a>Visão geral de cobrança
 
@@ -22,27 +22,27 @@ ms.locfileid: "8990938"
 -  Partner Center
 -  Parceiros no programa CSP
 
-Dependendo dos produtos, soluções e serviços que você compra em nome dos seus clientes, você será cobrado por essas compras em uma ou mais das seguintes maneiras:
+Dependendo da produtos, soluções e serviços que você compra em nome de seus clientes, você será cobrado por essas compras em uma ou mais das seguintes maneiras:
 -   [Cobrança baseada em licença](#licensebasedbilling)
 
-    Ao comprar produtos ou serviços online que exigem licenças, você está cobrado por cada licença que você comprou (não no uso de licença). Você pode optar por ser cobrado uma vez por mês ou uma vez por ano. Se seus negócios mudam, você pode alternar de um para o outro e novamente. 
+    Quando você compra produtos ou serviços online que exigem licenças, você será cobrado para cada licença que você comprou (não em uso de licença). Você pode optar por ser cobrado uma vez por mês ou uma vez por ano. Se suas necessidades comerciais mudarem, você pode alternar de um para outro e vice-versa. 
     
-    Para obter mais informações sobre mensal versus a cobrança anual, consulte a cobrança [perguntas Frequentes](https://docs.microsoft.com/en-us/partner-center/faq-about-new-billing-features).
+    Para obter mais informações sobre mensal versus cobranças anuais, consulte a cobrança [perguntas frequentes sobre](https://docs.microsoft.com/en-us/partner-center/faq-about-new-billing-features).
 
--   [Cobrança baseada em uso](#usagebasedbilling)
+-   [Cobrança com base no uso](#usagebasedbilling)
 
-    Ao comprar serviços on-line como assinaturas do Azure, você está cobrado por taxas mensal de uso. Cobrança mensal só está disponível para produtos baseados em uso. Serviços baseados em uso, como Azure, são cobrados de acordo com taxas limitadas, com base no consumo.
+    Quando você compra online services, como as assinaturas do Azure, você será cobrado por taxas de uso mensal. A cobrança mensal só está disponível para produtos com base no uso. Serviços baseados em uso, como o Azure, são cobrados de acordo com as taxas limitadas, com base no consumo.
 
--   [Cobrança única](#onetimebilling)
+-   [Cobrança de uso única](#onetimebilling)
 
-    Ao comprar reservas do Azure ou outras assinaturas de software, você paga antecipadamente por um termo previamente configurado. Porque você está pagando antecipadamente, você está cobrado em uma quantia. 
+    Quando você comprar reservas do Azure ou outras assinaturas de software, você paga antecipadamente por um período predefinido. Porque você está pagando com antecedência, você será cobrado em uma quantia. 
     
-Se você optou por ser cobrados mensalmente ou se você comprou produtos baseados em uso são cobrados mensalmente, sua data de cobrança mensal é o dia do mês selecionado quando você criou sua conta do CSP no Partner Center. Depois que você criou com êxito sua conta do CSP, a Microsoft enviará um email de confirmação que inclui sua data de cobrança. Depois de criados, essa data não pode ser alterada. 
+Se você tiver escolhido será cobrado mensalmente, ou se você comprou com base no uso de produtos que são cobrados mensalmente, sua data de cobrança mensal é o dia do mês em que você selecionou quando criou sua conta do CSP no Partner Center. Depois que você criou com êxito sua conta do CSP, a Microsoft enviará um email de confirmação que inclui sua data de cobrança. Depois de criado, essa data não pode ser alterada. 
 
 ## <a name="pricing-and-invoicing"></a>Preços e faturamento
-Você pode encontrar listas de preços com um (1) mês de antecedência, pois são atualizadas mensalmente. Os preços baseados em licença são garantidos durante o período da assinatura, geralmente 12 meses a partir da data de compra. Os preços baseados em uso podem ser alterados mensalmente. 
+Você pode encontrar listas de preços com um (1) mês de antecedência, pois são atualizadas mensalmente. Os preços baseados em licença são garantidos pelo termo de assinatura, geralmente 12 meses a partir da data de compra. Os preços baseados em uso podem ser alterados mensalmente. 
 
-Os preços para assinaturas de software, serviços e produtos são garantidos por meio da duração da assinatura, no entanto, os preços podem mudar quando você renovar.
+Os preços para produtos, serviços e assinaturas de software são garantidos por meio da duração da assinatura, no entanto, os preços podem ser alteradas quando você renovar.
 
 Você verá os ajustes e créditos em atraso em sua próxima fatura de cobrança após o crédito ou ajuste ser aplicado.
 
@@ -50,99 +50,99 @@ Você pode ver e baixar suas faturas e seus arquivos de reconciliação na pági
 
 ## <a name="payment-terms"></a>Termos de pagamento
 
-Termos de pagamento são net 60 dias. As faturas devem ser pagas pelo fatura data de vencimento (60 dias após a data de cobrança), ou sua conta se tornará inadimplente, que pode afetar sua inscrição no CSP. Você pode retomar a funcionalidade total de suas contas suspensas quando você paga passado quantidade de vencimento.
+Condições de pagamento são net 60 dias. Notas fiscais devem ser pagas pela nota fiscal data de conclusão (60 dias após a data de cobrança) ou sua conta será efetuada, que pode causar impacto em seu registro no CSP. Você pode recuperar a funcionalidade completa de suas contas suspensas quando você paga passado quantidade devida.
 
-### <a name="tax"></a>Imposto
+### <a name="tax"></a>Tax
 
-Você é sobrecarregados com base em seus detalhes, (não dos seus clientes) como a relação de cobrança é entre você e a Microsoft. Você pode enviar seu ID do contribuinte durante o processo de instalação de conta ou enviando uma solicitação de suporte mais tarde. Você verá as alterações refletidas no seu próximo ciclo de cobrança.
+Você é sobrecarregados com base em seus detalhes, (não dos seus clientes) como a relação de cobrança é entre você e a Microsoft. Você pode enviar a ID de imposto durante o processo de configuração de conta ou enviando uma solicitação de suporte mais tarde. Você verá as alterações refletidas no seu próximo ciclo de cobrança.
 
--   Para isenção de imposto sobre vendas e retenção, você deve enviar a documentação do contribuinte por meio de uma solicitação de suporte. Você verá as alterações e reembolsos apropriados em seu próximo ciclo de cobrança.
+-   Para garantia de imposto e isenção de imposto sobre vendas, você deve enviar a documentação de imposto por meio de uma solicitação de suporte. Você verá as alterações e reembolsos apropriados em seu próximo ciclo de cobrança.
 
--   Para isenção de imposto sobre valor agregado (IVA), você deve enviar seu ID de IVA (validado pela Microsoft) por meio de uma solicitação de serviço. Você verá as alterações e reembolsos apropriados em seu próximo ciclo de cobrança.
+-   Para o valor adicionado isenção de IVA (imposto), você deve enviar sua ID de IVA (validado pela Microsoft) por meio de uma solicitação de serviço. Você verá as alterações e reembolsos apropriados em seu próximo ciclo de cobrança.
 
-Você pode encontrar mais detalhes fiscais do escritório fiscal local ou consultor de imposto.
+É possível encontrar mais detalhes de imposto do seu office imposto local ou um consultor de impostos.
 
 ## <a href="" id="licensebasedbilling"></a>Cobrança baseada em licença
 
-Quando você compra um produto baseado em licença em nome do cliente, você pode optar por ser cobrados mensalmente ou anualmente. Se você quiser alterar a frequência de cobrança em um momento posterior, use o procedimento a seguir. 
+Quando você comprar um produto de licença baseada em nome de um cliente, você pode escolher a ser cobrados mensalmente ou anualmente. Se você quiser alterar a frequência de cobrança em um momento posterior, use o procedimento a seguir. 
 
-Alternar de cobrança mensal para cobrança anual é útil se você tiver várias assinaturas que são cobradas mensalmente e você deseja alinhá-los até uma data de cobrança comuns. Alternar de cobrança anual para cobrança mensal é útil em adaptar suas datas de faturamento aos seus clientes individuais. 
+Alternar de cobrança mensal a ter cobrança anual é útil se você tiver várias assinaturas que são cobradas mensalmente e você desejar para alinhá-los em uma data de cobrança comuns. Alternar de cobrança anual para cobrança mensal é útil em adaptar suas datas de faturamento aos seus clientes individuais. 
 
-Quando você alterar a frequência de cobrança, o termo anual é atualizado para refletir que a data em que você alterou a frequência de cobrança e uma nova data de renovação são estabelecidas. 
+Quando você altera a frequência de cobrança, o termo anual é atualizado para refletir que a data em que você alterou a frequência de cobrança e uma nova data de renovação são estabelecidas. 
 
-Você pode alterar a frequência de cobrança sempre que seus negócios mudam. 
+Você pode alterar a frequência da cobrança sempre que suas necessidades comerciais mudarem. 
 
 ### <a name="billing-rules-for-annual-billing"></a>Regras de cobrança para cobrança anual
 
 -   As assinaturas são anuais com renovação automática.
 
--   A cobrança é em 12 pagamentos mensais ou um pagamento anual por assinatura anual.
+-   A cobrança é feita em 12 pagamentos mensais ou um anual por assinatura anual.
 
 -   Você será cobrado com antecedência pelo próximo período de cobrança pelos serviços baseados em licença, de acordo com o número de licenças no final do período de cobrança anterior.
 
 -   Você é cobrado/creditado em atraso de pagamento por alterações no número de licenças (cálculo proporcional com base em dias de licença). Cálculo proporcional usa a seguinte fórmula: [ROUND((ROUND(Preço unitário * Quantidade/Número de dias no mês proporcional, 2) * Número de dias proporcionais) / Quantidade, 2) * Quantidade]
 
--   Pagamentos são cobrados para licenças vendidas (não licenças provisionadas).
+-   Os pagamentos são cobrados pelo licenças vendidas (não licenças provisionadas).
 
 ### <a name="to-change-the-billing-frequency-of-an-online-service"></a>Para alterar a frequência de cobrança de um serviço online
 
-1.  Selecione **os clientes** no menu Partner Center e, em seguida, selecione o cliente com a assinatura que deseja alterar. 
+1.  Selecione **clientes** no menu do Partner Center e em seguida, selecione o cliente com a assinatura que você deseja alterar. 
 
-2.  Na página de assinaturas do cliente, selecione a assinatura que deseja alterar. 
+2.  Na página de assinaturas do cliente, selecione a assinatura que você deseja alterar. 
 
-3.  Na página de detalhes, sob a **frequência de cobrança**, selecione **mensal** ou **anual**. Você verá uma página de confirmação com informações importantes sobre como alterar a frequência de cobrança, bem como uma lista as assinaturas prestes a ser alterado. 
+3.  Na página de detalhes, sob **frequência de cobrança**, selecione **mensal** ou **anual**. Você verá uma página de confirmação com informações importantes sobre como alterar a frequência da cobrança, bem como uma lista das inscrições prestes a ser alterado. 
 
-4.  Selecione **Okey** para fazer a alteração, ou **Cancelar** para desfazer a ele. 
+4.  Selecione **Okey** para fazer a alteração, ou **Cancelar** desfazê-lo. 
 
 ### <a name="adjustmentscreditscancellations"></a>Ajustes/créditos/cancelamentos
 
-A Microsoft não cobrará taxas de término antecipado para cancelamento dos serviços baseados em licença. 
+Microsoft não cobra tarifas de término antecipado de cancelamento de serviços baseados em licença. 
 
 Os créditos de cancelamento para serviços baseados em licença são proporcionais aos dias não utilizados para cancelamentos de ciclo médio (bem como pela diminuição de licenças pela fórmula acima).
 
-## <a href="" id="usagebasedbilling"></a>Cobrança baseada em uso
+## <a href="" id="usagebasedbilling"></a>Cobrança com base no uso
 
-Alguns produtos e serviços Microsoft usam um modelo de cobrança "pré-pago", na qual você será cobrado somente pelos serviços usados. Por exemplo, o Microsoft Azure usa esse modelo. 
+Alguns serviços e produtos da Microsoft usam um modelo de cobrança "pré-pago", na qual você será cobrado apenas para os serviços usados. Por exemplo, o Microsoft Azure usa esse modelo. 
 
 ### <a name="billing-rules"></a>Regras de cobrança
--   As assinaturas são mês a mês e renovadas automaticamente com as novas taxas de serviço limitadas. Você está cobrado mensalmente para uso do mês anterior.
+-   As assinaturas são o mês a mês e renovar automaticamente com as novas taxas de serviço limitado. Você será cobrado mensalmente para uso do mês anterior.
 
 -   As taxas de serviço limitadas podem ser alteradas dentro do ciclo de fatura. 
 
-    -   Aumentos de preço: é fornecido um aviso prévio de 30 dias.
+    -   Aumentos de preço: Aviso de 30 dias é fornecido.
 
     -   Preço diminui: dia de alteração refletido.
 
     -   As assinaturas existentes usam a taxa em vigor no início do ciclo de cobrança.
 
-    -   Novas assinaturas, quando criado dentro do mesmo ciclo de cobrança, usam a taxa em vigor na data que criá-las. 
+    -   Novas assinaturas, quando criado no mesmo ciclo de cobrança, usam a taxa em vigor na data em que você criá-los. 
 
 ### <a name="adjustmentscreditscancellations"></a>Ajustes/créditos/cancelamentos
 
 Você verá pagamentos com ajustes em sua próxima fatura de cobrança mensal.
 
-A Microsoft não cobrará taxas de término antecipado para cancelamento dos serviços baseados em uso. 
+Microsoft não cobra tarifas de término antecipado de cancelamento de serviços baseados em uso. 
 
 Você verá créditos de qualquer tipo, incluindo créditos SLAs, em sua próxima fatura de cobrança mensal.
 
-## <a href="" id="onetimebilling"></a>Cobrança única
+## <a href="" id="onetimebilling"></a>Cobrança de uso única
 
-Você pode adquirir assinaturas de software e reservas do Azure com antecedência, para termos de um a três anos. Quando você compra antecipadamente, você está cobrado por custo inteiro em uma quantia de um. Esse tipo de cobrança é chamado de cobrança única.
+Você pode comprar assinaturas de software e reservas do Azure com antecedência, para termos de um ou três anos. Quando você adquire com antecedência, você será cobrado por todo o custo em uma quantia de um. Esse tipo de cobrança é chamado de cobrança de uso única.
 
 >[!IMPORTANT]
->Se você comprar reservas do Azure e/ou assinaturas de software para um cliente em um local com uma moeda diferente da sua, o padrão de moeda de cobrança é baseado no local do cliente, não em sua localização. Se você tiver clientes em vários locais, você receberá faturas separadas e arquivos de reconciliação para clientes cada moeda precisam ser cobrados, permitindo que você faturas para seus clientes na moeda apropriada. 
+>Se você comprar reservas do Azure e/ou assinaturas de software para um cliente em um local com uma moeda diferente do seu, o padrão de moeda de cobrança se baseia o local do cliente, não sua localização. Se você tiver clientes em vários locais, você recebe faturas separadas e arquivos de reconciliação para cada cliente moeda precisam ser cobrados em, permitindo que você os clientes na moeda apropriada de nota fiscal. 
 
 ### <a name="manage-your-one-time-billing"></a>Gerenciar a cobrança única
 
-**Exibir o status de cobrança, as faturas e os arquivos de reconhecimento atuais**
+**Exibir seu status atual de cobrança, faturas e arquivos de reconhecimento**
 
-1.  No Partner Center, selecione **de cobrança** e, em seguida, **uma vez** para exibir o status de cobrança. 
+1.  No Centro de parceiro, selecione **cobrança** e, em seguida **uma vez** para exibir seu status de cobrança. 
 
 2.  Selecione uma fatura ou um arquivo de reconhecimento para exibir informações mais detalhadas. 
 
-**Exibir o histórico de pedidos de um cliente**
+**Exibir o histórico de pedidos do cliente**
 
-1.  Selecione **os clientes** no menu Partner Center.
+1.  Selecione **clientes** no menu do Partner Center.
 
 2.  Na sua página **Clientes**, localize o cliente cujo histórico de pedidos você deseja exibir e, em seguida, selecione a seta para baixo para expandir o registro do cliente. 
 
@@ -150,8 +150,8 @@ Você pode adquirir assinaturas de software e reservas do Azure com antecedênci
 
 **Baixe uma nota de crédito**
 
-Se você precisar solicitar um crédito ou uma nova cobrança, forneceremos uma nota de crédito para cancelar a fatura original. Você pode solicitar uma crédito/nova cobrança pelos seguintes motivos:
+Se você precisar solicitar um crédito ou rebill, daremos uma nota de crédito para cancelar a fatura original. Você pode solicitar um crédito/rebill pelos seguintes motivos:
 
--   Correções de ordem de compra ou endereço
+-   Correções de ordem de compra ou de endereço
 
--   Fatura gerada e, em seguida, um reembolso de imposto foi aplicado. Você pode solicitar uma crédito/nova cobrança para obter o reembolso de imposto puxado de volta para a fatura original. Isso também é verdadeiro para reembolsos, como você pode solicitar uma crédito/nova cobrança da fatura original e, em seguida, recepção em um reembolso.
+-   A fatura foi gerada e então um reembolso de imposto foi aplicado. Você pode solicitar um crédito/nova cobrança para fazer o reembolso de imposto retroceder à fatura original. Isso também é verdadeiro para reembolsos, já que você pode solicitar um crédito/nova cobrança da fatura original e então obter um reembolso.

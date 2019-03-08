@@ -1,53 +1,53 @@
 ---
-title: Perguntas Frequentes de ferramenta de validação de comprovantes | Partner Center
+title: Perguntas frequentes sobre a ferramenta de validação de comprovante | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Validar e reserve comprovantes no Partner Center
-author: labrenne
+description: Validar e reservar comprovantes no Partner Center
+author: LauraBrenner
 ms.author: labrenne
-keywords: cupons de treinamento, garantia de software, treinamento, validar comprovantes, comprovantes de reserva
+keywords: comprovantes de treinamento, garantia de software, treinamento, validar comprovantes, comprovante de reserva
 ms.localizationpriority: medium
-ms.openlocfilehash: 457f2c7e0e43f03bac0f861ae3f4ec87a1173d0f
-ms.sourcegitcommit: 8ab406beefbfd0965ed35d8dfe064b682162a5fa
+ms.openlocfilehash: 98ca652900afd38ed022801a9cb7ec4c2b917180
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "9024868"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584449"
 ---
-# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Perguntas Frequentes: Usando a ferramenta de resgate e validação de comprovantes 
+# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>PERGUNTAS FREQÜENTES: Usando a ferramenta de validação de comprovante e o resgate 
 
 **Aplica-se a**
 
 - Partner Center
 
-A ferramenta de validação de comprovantes e resgate foi movido para o [Partner Center](https://partner.microsoft.com/en-us/pcv/dashboard/overview). A seguir estão que alguns dos parceiros perguntas mais comuns têm. 
+A ferramenta de validação de comprovante e resgate foi movido para [Partner Center](https://partner.microsoft.com/en-us/pcv/dashboard/overview). A seguir estão que alguns dos parceiros de perguntas mais comuns têm. 
 
-**Para parceiros que foram migrados para o Partner Center**
+**Para os parceiros que foram migrados para o Centro de parceiros**
 
- Todos os parceiros a partir do dia 31 de março de 2019, serão necessário gerenciar seus comprovantes no Partner Center. Somente o administrador do MPN pode acessar VVR. Para usar o VVR, o administrador de parceiros MPN pode entrar no Partner Center usando seu email da conta de trabalho. Se você não souber o administrador do MPN da sua empresa, peça ao contato de programa VVR principal da sua empresa.  Se você tiver acesso ao Partner Center, vá para o **gerenciamento de acesso**, selecione **os usuários**e filtrar **administrador do MPN** . Isso lhe dará uma lista dos administradores MPN da sua empresa.  
+ Todos os parceiros começando em 31 de março de 2019, serão necessário gerenciar seus comprovantes no Partner Center. Somente o administrador da MPN pode acessar VVR. Para usar o VVR, o administrador de parceiro da MPN pode entrar no Centro de parceiro usando seu email da conta de trabalho. Se você não souber o admin do MPN da sua empresa, peça ao contato de programa VVR principal da sua empresa.  Se você tiver acesso ao Partner Center, vá para **gerenciamento de acesso**, selecione **usuários**e filtrar **MPN admin** . Isso dará a você uma lista de administradores do MPN da sua empresa.  
 
-**Para parceiros ainda no [Partner Membership Center](https://partner.microsoft.com/)**
+**Para parceiros ainda em [Partner Membership Center](https://partner.microsoft.com/)**
 
-A partir do dia 31 de março de 2019, todos os parceiros gerenciará seus comprovantes no Partner Center. Somente o administrador do MPN pode acessar VVR. Para usar a ferramenta VVR no Partner Center, sua empresa precisará concluir a migração do PMC para Partner Center. Depois que a migração for concluída, usar VVR, o administrador de parceiros MPN pode fazer logon Partner Center, usando o email da conta de trabalho. Se você não souber o administrador da sua empresa, entre em contato com o contato principal do programa VVR para sua empresa.  
-
-
-**Minha empresa tem migradas do PMC, mas ainda não usamos os programas DPS/SATV nos últimos 18 meses.**
-
-- Contate a [equipe de suporte do PMC](mailto:proghelp@microsoft.com). 
+Começando em 31 de março de 2019, todos os parceiros gerenciarão suas comprovantes no Partner Center. Somente o administrador da MPN pode acessar VVR. Para usar a ferramenta VVR no Partner Center, sua empresa precisará concluir a migração do PMC Partner Center. Depois que a migração estiver concluída, use VVR, o administrador de parceiro da MPN pode entrar no Centro de parceiro, usando seu email da conta de trabalho. Se você não souber o administrador da empresa, entre em contato com o contato principal do programa VVR para sua empresa.  
 
 
-**Minha empresa tem migrados do PMC para Partner Center. Será necessário fazer nada específico para funcionar em VVR?** 
+**Minha empresa migrou do PMC, mas ainda não usamos os programas DPS/SATV nos últimos 18 meses.**
 
-- Você poderá usar o VVR no Partner Center.  Para usar o VVR, o administrador de parceiros MPN pode entrar no Partner Center usando seu email da conta de trabalho. Se você deseja adicionar novos usuários, o administrador global pode fazer isso. Se você tiver acesso ao Partner Center, vá para o **gerenciamento de acesso**, selecione **os usuários**e filtrar **administrador do MPN** do **administrador global**. Isso lhe dará uma lista de MPN e administradores globais da sua empresa.  
+- Entre em contato com o [equipe de suporte do PMC](mailto:proghelp@microsoft.com). 
 
-**Quero apenas alguns usuários possam acessar VVR**
 
-- Somente o administrador do MPN pode acessar VVR. Acesso ao Partner Center é determinado pelas funções e permissões. Seu administrador do MPN ou o administrador global pode determinar quem usa VVR, conferindo a essas permissões para os usuários que precisam trabalhar na ferramenta.
+**Minha empresa migrou do PMC Partner Center. Será necessário fazer nada específico para funcionar em VVR?** 
 
-**Quero acessar o portal CHIP de VVR**
+- Você poderá usar VVR no Partner Center.  Para usar o VVR, o administrador de parceiro da MPN pode entrar no Centro de parceiro usando seu email da conta de trabalho. Se você quiser adicionar novos usuários, o administrador global pode fazer isso. Se você tiver acesso ao Partner Center, vá para **gerenciamento de acesso**, selecione **usuários**e filtrar **MPN admin** de **administrador global**. Isso dará a você uma lista de sua empresa MPN e os administradores globais.  
 
-- Partner Center exige que você faça logon com uma conta de trabalho (AAD).  CHIP atualmente usa a conta pessoal para logon (MSA ou Live ID).  Ao navegar da VVR no Partner Center para o CHIP, você terá que entrar no CHIP usando seu MSA ou Live ID que está registrado com CHIP.
+**Eu quero apenas alguns usuários para poder acessar VVR**
 
-Para obter informações sobre como se registrar no SATV, leia [programa Software Assurance treinamento comprovantes (SATV) no Partner Center](software-assurance-satv.md).
+- Somente o administrador da MPN pode acessar VVR. Acesso do Partner Center é determinado pelas funções e permissões. O administrador do MPN ou o administrador global pode determinar quem usa VVR fornecendo essas permissões aos usuários que precisam trabalhar na ferramenta.
+
+**Eu quero acessar o portal do CHIP do VVR**
+
+- Partner Center exige que você faça logon com uma conta de trabalho (AAD).  CHIP atualmente usa a conta pessoal para logon (MSA ou Live ID).  Durante a navegação de VVR no Partner Center para o CHIP, precisará entrar usando sua MSA ou Live ID que está registrado com o CHIP de CHIP.
+
+Para obter informações sobre como se registrar no SATV, leia [programa Software Assurance treinamento comprovante (SATV) no Partner Center](software-assurance-satv.md).
  <!--
 For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->

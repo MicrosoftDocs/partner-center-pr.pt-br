@@ -9,32 +9,32 @@ ms.author: evansma
 keywords: cliente, adicionar cliente, conta do cliente, conta do cliente no Partner Center, clientes, adicionar clientes, criar conta do cliente
 ms.localizationpriority: medium
 ms.openlocfilehash: 72b02ad430bc0ce434e3de25380ef043e59ac08d
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683685"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586239"
 ---
-# <a name="add-a-new-customer"></a>Adicionar um novo cliente
+# <a name="add-a-new-customer"></a>Adicione um novo cliente
 
-**Aplicável a**
+**Aplica-se a**
 
 -  Partner Center
--  Partner Center for Microsoft Cloud for US Government
+-  Partner Center para Microsoft Cloud for US Government
 
 
 
-Antes que você pode vender assinaturas, gerenciar cobranças ou fornecer suporte, você precisará criar uma conta para seu cliente no Partner Center. Esse registro deverá incluir as informações de contato deles e um domínio do Azure AD.
+Antes de você pode vender assinaturas, gerenciar a cobrança ou oferecem suporte, você precisa criar uma conta para seu cliente no Partner Center. Esse registro deverá incluir as informações de contato deles e um domínio do Azure AD.
 
 Para clientes que já possuem contas de cliente e inscrições por meio de um cenário [multi-canal](multichannel.md) ou [Multi-parceiro](multipartner.md), você pode [Solicitar uma relação com um cliente](request-a-relationship-with-a-customer.md), em vez de seguir as etapas aqui.
 
-**Adicionar um novo cliente**
+**Adicione um novo cliente**
 
-1.  No menu **Partner Center** , selecione **os clientes**. Em seguida, selecione **Adicionar cliente**.
+1.  Dos **Partner Center** menu, selecione **clientes**. Em seguida, selecione **Adicionar cliente**.
 
-2.  Na página **Informações da conta**, preencha os detalhes da empresa e as informações do contato principal. Selecione **Próximo: Assinaturas**.
+2.  Sobre o **informações de conta** página, conclua os detalhes da empresa e informações de contato primárias e, em seguida, selecione **Avançar: Assinaturas**.
 
-3.  Na página **Assinaturas**, escolha as ofertas corretas, insira o número de licenças e selecione **Próxima: Revisão**.
+3.  Sobre o **assinaturas** página, escolha as ofertas corretas, insira o número de licenças e, em seguida, selecione **Avançar: Revisão**.
 
 4.  Na página **Revisão**, confira as informações, clique em **Editar**, caso seja necessário fazer alterações na conta ou nas ofertas, e clique em **Enviar**.
 

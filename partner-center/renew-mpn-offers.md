@@ -3,27 +3,27 @@ title: Renovar suas ofertas do MPN | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Sua janela de renovação da assinatura de ofertas do MPN começa no aniversário da data da compra, mais um dia.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, Microsoft Action Pack, MAPS, renovação de competência, data de renovação
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3fb82e65d6ae4d3caa3f4574015f6ee980bc309a
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: e3008352b141625a974c78c11615161b29334eb1
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917398"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586889"
 ---
 # <a name="renew-your-mpn-offers"></a>Renovar suas ofertas do MPN
 
-**Aplicável ao**
+**Aplica-se a**
 
 - Partner Center
 
 Sua janela de renovação da assinatura de ofertas do MPN começa no aniversário da data da compra, mais um dia. Por exemplo, se você comprou o Microsoft Action Pack em 1º de setembro de 2018, a janela de renovação começa em 2 de setembro de 2019. Você pode renovar sua assinatura no Partner Center.
 
-No **Partner Center**, selecione **ofertas de associação**.
+Partir **Partner Center**, selecione **associação oferece**.
 Na guia **Comprado**, para cada uma das suas ofertas compradas, você poderá ver:
 
 - Sua data de validade

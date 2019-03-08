@@ -3,26 +3,26 @@ title: Atribuir assinaturas do Azure no Partner Center | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Agora você pode atribuir assinaturas do Azure a seus clientes no Partner Center. Você também pode habilitá-los para que eles mesmos gerenciem as assinaturas.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, assinatura do Azure, assinatura, assinaturas, atribuir assinatura, gerenciar assinatura do Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: 5438803bf25fb40267cbecbdcbe25ed6e6a44cfa
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 974589437392ceb77e90e6cfbd382a4676180545
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796039"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586369"
 ---
 # <a name="assign-azure-subscriptions-in-partner-center"></a>Atribuir assinaturas do Azure no Partner Center
 
-**Aplicável a**
+**Aplica-se a**
 
 -  Partner Center
  
 ## <a name="assign-azure-subcriptions-to-your-customers-in-partner-center"></a>Atribuir assinaturas do Azure aos seus clientes no Partner Center
 
-1. Selecione **clientes** em seu menu **Partner Center** e localize o cliente que você deseja gerenciar.
+1. Selecione **clientes** de seu **Partner Center** menu e localize o cliente que você deseja gerenciar.
 
 2.  Selecione a seta para baixo no final da linha para expandir o registro do cliente e, em seguida, selecione **Portal de Gerenciamento do Microsoft Azure**. Você será direcionado para o Portal do Azure, onde você pode gerenciar as assinaturas do cliente. 
 
@@ -34,7 +34,7 @@ ms.locfileid: "5796039"
 
 7. Depois de adicionar o usuário à assinatura, você poderá atribuir ao usuário uma função e à conta específica ao qual o usuário terá acesso. 
 
-**Permitir que os clientes gerenciem suas assinaturas do Azure**
+**Permitir que os clientes gerenciar suas assinaturas do Azure**
 
 Depois de criar uma assinatura do Microsoft Azure para um cliente, você poderá permitir que ele gerencie a assinatura. Para fazer isso, você precisará fazer logon no portal de Gerenciamento do Microsoft Azure. 
 

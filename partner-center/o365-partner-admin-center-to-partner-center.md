@@ -3,19 +3,19 @@ title: 'Clientes do Office 365 Partner Admin Center: suas operações de negóci
 ms.topic: article
 ms.date: 10/29/2018
 description: Principais considerações para clientes do Office 365 Partner Admin Center ao migrar para o Partner Center
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 73c92447cf7f27a6266d6802c3b42526fc9669bc
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 1e2a63828c7fd875c737a650633439a43ab325ed
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062304"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587369"
 ---
-# <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Clientes do Office 365 Partner Admin Center: preparem-se para migrar as operações de negócios para o Partner Center
+# <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Clientes do Office 365 partner admin center: Prepare-se para mover as operações de negócios Partner Center
 
-**Aplicável ao** 
+**Aplica-se a** 
 
 - Partner Center
 - Office 365 Partner Admin Center
@@ -38,11 +38,11 @@ A conclusão de tarefas no Partner Center é feita de forma diferente do que voc
 
 | Recursos do Office 365 partner admin center                       | Onde está no Partner Center? | 
 |   -----------------------------------------------  | -------------- |
-| Construa seus negócios: Crie oferta de compra | Trabalhe com seu provedor para vender ofertas aos seus clientes |
-| Construa seus negócios: Solicite permissões de administrador delegado | Partner Center: Clientes gt _ solicitar uma relação de revendedor |
-| Construa seus negócios: Crie convites de avaliação | Não está disponível. Você ainda pode usar o Office 365 partner admin center para isso |
-| Solicitações de serviço: Lista de cliente: Office 365 admin center | Partner Center: Administrar serviços clientes gt _ |
-| Solicitações de serviço: Lista de cliente: Solicitações de serviço | Partner Center: Solicitações de cliente gt _ solicitação de serviço |
-| Solicitações de serviço: Sinalizado | Dasbhoard: Clientes: selecione a estrela ao lado do nome da empresa |
-| Solicitação de serviço > Administração do cliente > Admin em nome de (AOBO) | Partner Center: Selecione gt _ de clientes um gt _ cliente Selecione uma assinatura gt _ o revendedor de produto designado |
+| Crie seus negócios: Criar oferta de compra | Trabalhe com seu provedor para vender ofertas aos seus clientes |
+| Crie seus negócios: Solicitar permissões de administrador delegado | Partner Center: Os clientes > solicitar uma relação de revendedor |
+| Crie seus negócios: Criar convites de avaliação | Não está disponível. Você ainda pode usar o Office 365 partner admin center para isso |
+| Solicitações de serviço: Lista de clientes: Centro de administração do Office 365 | Partner Center: Os clientes > administrar serviços |
+| Solicitações de serviço: Lista de clientes: Solicitações de serviço | Partner Center: Solicitação de serviço > solicitações de cliente |
+| Solicitações de serviço: Sinalizados | Dasbhoard: Os clientes: selecione a estrela ao lado do nome da empresa |
+| Solicitação de serviço > Administração do cliente > Admin em nome de (AOBO) | Partner Center: Os clientes > selecione um cliente > selecione uma assinatura > selecione o revendedor do produto designado |
 

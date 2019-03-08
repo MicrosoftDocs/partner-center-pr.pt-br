@@ -2,37 +2,37 @@
 title: Ler sua cobrança | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Sua fatura é um resumo de todos os encargos (entre programa, produtos e clientes) para o período atual mensal. Ele está disponível no Partner Center.
+description: Sua fatura é um resumo de todos os encargos (entre programa, produtos e clientes) para o período atual mensal. Ele está disponível no Centro de parceiros.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: cobrança de assinatura, cobrança, cobrança no partner center, ler minha cobrança, fatura, fatura do partner center, fatura do CSP, onde está minha cobrança?
 ms.localizationpriority: medium
 ms.openlocfilehash: aec344eb7e4ed6e0a4d5e7e506c9bcf195654293
-ms.sourcegitcommit: 9eadb7ff6c38a08c694710a8c14b899d0f48059a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/09/2019
-ms.locfileid: "8997335"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584539"
 ---
 # <a name="read-your-bill"></a>Ler sua cobrança
 
-**Aplicável a**
+**Aplica-se a**
 
 -  Partner Center
--  Partner Center for Microsoft Cloud for US Government
+-  Partner Center para Microsoft Cloud for US Government
 
 
-Para sua cobrança, vá para o menu **Partner Center** e, em seguida, selecione a **cobrança** para ver seu histórico de cobrança e tendências, links para sua fatura e arquivo de reconciliação e seu pagamento mais recente.
+Para sua conta, vá para o **Partner Center** menu e, em seguida, selecione **cobrança** para ver seu histórico de cobrança e tendências, links para seu arquivo de reconciliação de nota fiscal e o pagamento mais recente.
 
 Os parceiros no programa Provedor de Soluções na Nuvem que escolheram a cobrança mensal pagam à Microsoft 60 dias em atraso pelas assinaturas de seus clientes (baseadas em licença e em uso).
 
 > [!NOTE]  
-> Sua fatura é um resumo de todos os encargos – entre o programa, produtos e clientes – para o período de cobrança atual e está disponível em duas (2) dias da data de cobrança selecionada no horário UTC. Por exemplo, se você tiver um 12 de setembro data de cobrança, o processo de geração da fatura começar a 12:00 AM UTC no 13º e concluir por 12:00 AM UTC no dia 14. Se você não vir sua fatura por UTC 11:59 PM no dia 15, você está fora de seu contrato de nível de serviço e deve enviar uma solicitação de serviço. 
+> Sua fatura é um resumo de todos os encargos, entre o programa, produtos e clientes – para o período de cobrança atual e está disponível dentro de dois (2) dias após sua data de cobrança selecionada na hora UTC. Por exemplo, se você tiver um 12 de setembro data de cobrança, o processo de geração de nota fiscal começam em 12:00 AM UTC em que a 13 e conclua, 12:00 AM UTC no dia 14. Se você não vir a fatura por 11:59 PM UTC no dia 15, você está fora do seu contrato de nível de serviço e deve emitir uma solicitação de serviço. 
 
-Você receberá uma fatura para baseadas em licença (Office365) e baseadas em uso encargos de (Azure) e uma fatura separada para única (Azure instâncias de VM reservadas) encargos.
+Você receberá uma fatura para encargos baseados em licença (Office365) e baseados em uso (Azure) e uma fatura separada para encargos (instâncias de VM reservadas do Azure).
 
-Para obter detalhes dos encargos por itens, use os arquivos de reconciliação acompanhantes. Os arquivos de reconciliação contêm os IDs de clientes e assinaturas que você usará para criar as faturas dos clientes. Para obter mais informações, consulte [Como usar os arquivos de reconciliação](use-the-reconciliation-files.md).
+Para obter detalhes por itens sobre os encargos, use os arquivos de reconciliação acompanhantes. Os arquivos de reconciliação contêm os IDs de clientes e assinaturas que você usará para criar as faturas dos clientes. Para obter mais informações, consulte [Como usar os arquivos de reconciliação](use-the-reconciliation-files.md).
 
 ## <a name="invoice-file-definitions"></a>Definições do arquivo de fatura
 
@@ -57,14 +57,14 @@ Para obter detalhes dos encargos por itens, use os arquivos de reconciliação a
 </tr>
 <tr class="even">
 <td>Cobrar de</td>
-<td>O endereço para onde enviamos sua fatura. Para alterar o nome da empresa ou o endereço, edite seu perfil de cobrança do Partner Center. </td>
+<td>O endereço onde podemos enviar sua fatura. Para alterar o nome da empresa ou o endereço, edite seu perfil de cobrança do Partner Center. </td>
 </tr>
 <tr class="odd">
-<td>Encargos baseadas em licença</td>
+<td>Cobranças baseada em licença</td>
 <td>Os encargos mensais (ou anuais) fixos das licenças baseadas em uso compradas, cobradas antecipadamente pelo serviço. Esse número é a soma de todos os encargos da coluna &quot;Subtotal&quot; no arquivo de reconciliação com base em licença (coluna T).</td>
 </tr>
 <tr class="even">
-<td>Encargos baseadas em uso</td>
+<td>Encargos baseados em uso</td>
 <td>Uso do Azure, incluindo novos serviços ou aplicativos habilitados e usados durante o mês de cobrança. Esse número é a soma de todos os encargos na coluna &quot;PretaxCharges&quot; no arquivo de reconciliação com base em uso (coluna Z).</td>
 </tr>
 <tr class="odd">
@@ -78,9 +78,9 @@ Para obter detalhes dos encargos por itens, use os arquivos de reconciliação a
 <tr class="even">
 <tr class="even">
 <td>Subtotal</td>
-<td>Total antes de impostos e encargos imposto exclusivos e créditos.</td>
+<td>Total antes de impostos e encargos e créditos sem imposto.</td>
 </tr>
-<td>Imposto</td>
+<td>Tax</td>
 <td>O total de imposto para os encargos atuais como o total no início da seção detalhes na página 2 da fatura. Esse número é a soma de todos os encargos na:
 <ul>
 <li>coluna &quot;TaxAmount&quot; do arquivo de reconciliação com base em uso (coluna AA), e</li>
@@ -89,7 +89,7 @@ Para obter detalhes dos encargos por itens, use os arquivos de reconciliação a
 </tr>
 <tr class="odd">
 <td>Outros créditos</td>
-<td>Créditos de imposto exclusivos.</td>
+<td>Créditos sem imposto.</td>
 </tr>
 <tr class="even">
 <td>Total dos encargos atuais</td>
@@ -105,11 +105,11 @@ Para obter detalhes dos encargos por itens, use os arquivos de reconciliação a
 </tr>
 <tr class="odd">
 <td>Período de cobrança</td>
-<td>O período mensal levando à data da fatura. Esse é o período durante o qual serviços baseados em uso são consumidos e serviços baseados em licença são reconciliados para os ajustes de crédito ou as alterações na contagem de licença.</td>
+<td>O período do mês levam à data da nota fiscal. Esse é o período durante o qual baseada no uso de serviços são consumidos e serviços baseados em licença são reconciliados para os ajustes de crédito ou alterações na contagem de licenças.</td>
 </tr>
 <tr class="even">
 <td>Data da fatura</td>
-<td>Sua data de cobrança ou a data de aniversário no qual sua fatura é gerada cada mês.</td>
+<td>Sua data de cobrança ou a data de vencimento no qual sua fatura é gerada mensalmente.</td>
 </tr>
 <tr class="odd">
 <td>Termos de pagamento</td>
@@ -129,7 +129,7 @@ Para obter detalhes dos encargos por itens, use os arquivos de reconciliação a
 </tr>
 <tr class="odd">
 <td>Destinatário do serviço</td>
-<td>O endereço onde o serviço é usado. (Isso é o endereço legal da empresa associado à empresa jurídica).</td>
+<td>O endereço onde o serviço é usado. (Isso é o endereço da empresa legais associado com a habilitação de empresa).</td>
 </tr>
 </tbody>
 </table>

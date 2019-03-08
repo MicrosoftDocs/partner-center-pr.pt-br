@@ -8,40 +8,40 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 46ac1cd60496338bbcdac7cf0258a2d4adfc9754
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683675"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587749"
 ---
-# <a name="report-problems-with-partner-center"></a>Relatar problemas com o Partner Center
+# <a name="report-problems-with-partner-center"></a>Relate problemas com o Partner Center
 
-**Aplicável a**
+**Aplica-se a**
 
 -  Partner Center
--  Partner Center for Microsoft Cloud for US Government
+-  Partner Center para Microsoft Cloud for US Government
 
 
-Suporte de contato Partner Center se você encontrar problemas com o Partner Center, incluindo bugs ou interrupções de serviço.
+Se você encontrar problemas com o Centro de parceiros, incluindo bugs ou interrupções de serviço de suporte do contato Partner Center.
 
-**Relatar um problema com o Partner Center**
+**Relatar um problema com o Centro de parceiros**
 
-1.  No **Partner Center**, selecione o ícone de **suporte** e, em seguida, selecione **solicitações do Partner Center**.
+1.  No seu **Partner Center**, selecione o **suporte** ícone e, em seguida, selecione **solicita do Partner Center**.
 
 2.  Selecione **Nova solicitação**.
 
-3.  Preencha o formulário e depois selecione **Enviar**. Um representante de suporte de parceiros entrará com você.
+3.  Preencha o formulário e depois selecione **Enviar**. Um representante do Suporte do Parceiro entrará em contato com você.
 
-**Enviar diagnóstico**
+**Enviar o diagnóstico**
 
-Se ocorrer um erro enquanto você estiver em uma página do Partner Center, você talvez seja solicitado a coletar informações de log. Selecione a **coletar mais informações** no link que aparece na parte superior da página para abrir a ferramenta de diagnóstico do cliente. Essa ferramenta coleta informações que a equipe de suporte de parceiros precisa para determinar a causa do erro. 
+Se ocorrer um erro enquanto você estiver em uma página do Partner Center, você talvez seja solicitado a coletar informações de log. Selecione **Coletar mais informações** no link que aparece na parte superior da página para abrir a ferramenta Diagnóstico do Cliente. Essa ferramenta coleta informações de que a equipe de Suporte do Parceiro precisa para determinar a causa do erro. 
 
 >[!NOTE]
 >Em páginas do Partner Center que incluem **/pcv/** na URL, você pode abrir a ferramenta manualmente para coletar essas informações.
 
 1.  Acesse a página que está com problema.
 
-2.  Pressione **Ctrl + Alt + D** para abrir a ferramenta Diagnóstico de cliente.
+2.  Pressione **Ctrl+Alt+D** para abrir a ferramenta Diagnóstico de Cliente.
 
 Você pode visualizar as informações de diagnóstico e salvá-las em um arquivo que você pode anexar em sua solicitação de suporte. Para nos enviar as informações:
 
@@ -54,5 +54,5 @@ Você pode visualizar as informações de diagnóstico e salvá-las em um arquiv
 
 5.  Anexe o arquivo à sua solicitação de suporte.
 
-Suporte de parceiro pode solicitar para executar essa ferramenta várias vezes para obter as informações mais atualizadas.
+O Suporte do Parceiro pode solicitar que você execute essa ferramenta várias vezes para obter as informações mais atualizadas.
 

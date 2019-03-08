@@ -8,15 +8,15 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: bdf3e14a5d55a465bbc60809ed3ecd1e79ab5db5
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995830"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586719"
 ---
-# <a name="increase-adoption-and-satisfaction"></a>Aumentar a adoção e a satisfação
+# <a name="increase-adoption-and-satisfaction"></a>Aumente a adoção e a satisfação
 
-**Aplicável a**
+**Aplica-se a**
 
 -  Partner Center
 
@@ -27,16 +27,16 @@ Você pode ver dados de todos os seus clientes por meio do programa Provedor de 
 > [!NOTE]  
 >  No momento, mostramos apenas dados do Office 365 e do Dynamics 365. Habilitaremos dados de outros produtos no futuro.
 
-## <a name="find-license-and-user-data"></a>Localizar dados de licença e do usuário
+## <a name="find-license-and-user-data"></a>Localize dados de licença e do usuário
 
 
 **Para um único cliente**
 
--   **Os clientes** do **Partner Center**, escolha um cliente, selecione e **percepções do cliente**.
+-   Selecione **clientes** da **Partner Center**, escolha um cliente e selecione **Customer insights**.
 
 **Em seu portfólio**
 
-1.  No **Partner Center**, selecione **Analisar**.
+1.  Sobre o **Partner Center**, selecione **analisar**.
 2.  Baixe os dados de implantação e uso de todo o seu conjunto de clientes selecionando as opções de **exportação**.
 
 Terminologia:
@@ -70,14 +70,14 @@ Se forem apresentados muitos pedidos de Ajuda e Perguntas de instrução, os nú
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problema:</strong> A taxa de adoção do usuário é baixa e muitas licenças & #39; t sendo usado.</p>
+<td><p><strong>Problema:</strong> A taxa de adoção do usuário é baixa e muitas são inválidas de licenças&#39;t que está sendo usado.</p>
 <p><strong>O que considerar:</strong> os clientes podem não entender o valor que o software pode oferecer. Eles precisam de ajuda para conhecer as maneiras de incorporá-lo em seu dia para simplificar tarefas que já estão fazendo, ou para habilitar novos tipos de produtividade.</p>
-<p><strong>O que tentar:</strong> estudos de caso, depoimentos de usuários sobre cenários específicos, blogs de tutorial ou vídeos.</p></td>
+<p><strong>O que tente:</strong> estudos de caso, depoimentos de usuários sobre cenários específicos, blogs de tutorial ou vídeos.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Problema:</strong> há um grande volume de chamadas de suporte de ajuda e perguntas de instrução.</p>
 <p><strong>O que considerar:</strong> os clientes podem ser novos no software, na versão do produto ou na tarefa.</p>
-<p><strong>o que tentar:</strong> Você pode usar uma estratégia dupla de oferta de treinamento (pessoalmente ou online) para aumentar o cliente & #39; s experiência geral, e também promover algumas das opções de autoatendimento disponíveis aos clientes.</p>
+<p><strong>O que tente:</strong> Você pode usar uma estratégia de dupla da oferta de treinamento (pessoalmente ou online) para aumentar o cliente&#39;s a experiência geral, ao promover também algumas das opções de autoatendimento disponíveis para clientes.</p>
 <p>É possível recriar seu site de suporte para incluir também as opções de autoatendimento descritas no tópico <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Autoatendimento do cliente</a> além de suas informações de contato de suporte.</p></td>
 </tr>
 </tbody>

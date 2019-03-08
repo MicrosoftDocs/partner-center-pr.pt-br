@@ -2,27 +2,27 @@
 title: Preços e ofertas | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: A lista de ofertas inclui as diferentes famílias de produtos que podem ser compradas por meio do Partner Center e suas informações de preços.
-author: labrenne
+description: A lista de ofertas inclui as famílias de produtos diferentes que podem ser adquiridas por meio do Partner Center e suas informações de preços.
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 91ea3fefc6888c14060360a98bbd2373ff905d7a
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: c71bbd0b5945c3e958aa22bc1fb1b7589bcca36a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995750"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586729"
 ---
 # <a name="pricing-and-offers"></a>Preços e ofertas
 
-**Aplicável ao**
+**Aplica-se a**
 
 -  Partner Center
 
 Para ver as últimas listas de preços e ofertas do programa Provedor de Soluções na Nuvem, acesse **Vender > Preços e ofertas**. Você encontrará listas de preços distintas para serviços baseados em licença, como o Office 365, o Microsoft Dynamics CRM e o Enterprise Mobility Suite, e para serviços baseados em uso, como o Azure. 
 
-A lista de ofertas inclui as diferentes famílias de produtos que podem ser compradas por meio do Partner Center. Atualmente, elas incluem o Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM e Microsoft Azure. Essa lista ficará maior.
+A lista de ofertas inclui as famílias de produtos diferentes que podem ser adquiridas por meio do Partner Center. Atualmente, elas incluem o Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM e Microsoft Azure. Essa lista ficará maior.
 
 Dentro de cada uma dessas famílias de produtos há diferentes SKUs e pacotes de produtos disponíveis para venda dependendo dos seus negócios. Você pode acessar os últimos detalhes sobre cada um deles usando a Matriz de Ofertas para Revendedores de Serviços na Nuvem que está disponível na página Preços e ofertas.
 
@@ -32,7 +32,7 @@ Serviços baseados em licença incluem uma prévia da lista de preços, fornecid
 
 |**Item**        |**Definição**      |
 |:-----------   |:-----------   |
-|ADD   |Um novo item na lista de preços|
+|ADICIONAR   |Um novo item na lista de preços|
 |CHG   |Alterações na lista de preços, por exemplo, alterações na descrição de SKU|
 |DEL   |Um item removido da lista de preços|
 |UNC   |Itens inalterados da lista de preços do mês anterior   |
@@ -55,4 +55,4 @@ Para parceiros CSP que usam o Partner Center Software Development Kits (SDKs). A
 
 ### <a name="offers-matrix-and-pricelist-questions"></a>Perguntas sobre a matriz de ofertas e a lista de preços
 
-Se você tiver dúvidas sobre a matriz de lista de preços ou a oferta, envie uma solicitação de serviço por meio do Partner Center.
+Se você tiver dúvidas sobre a matriz de pricelist ou oferta, envie uma solicitação de serviço por meio do Partner Center.

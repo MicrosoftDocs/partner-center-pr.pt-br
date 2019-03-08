@@ -4,21 +4,21 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Quando você configura assinaturas de serviços Microsoft para seus clientes, convém atribuir o suporte técnico desses produtos a um revendedor designado, em vez de fornecer o suporte por conta própria.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: agente de ajuda, suporte, atribuir contato de suporte, contato de suporte designado
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 89b5d6bc493e1de970425bb35bbabb90cc963510
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 5dbfe3ef49840983b037a6716fad0674e28df4e9
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062344"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584389"
 ---
-# <a name="assign-support-contacts"></a>Atribuir contatos de suporte
+# <a name="assign-support-contacts"></a>Atribua contatos de suporte
 
-**Aplicável a**
+**Aplica-se a**
 
 -  Partner Center
 
@@ -33,7 +33,7 @@ Isso pode ser usado para cenários de [multi-parceiros](multipartner.md) e [mult
 
 1.  Comece por [solicitar uma relação](request-a-relationship-with-a-customer.md) com seu revendedor de produto designado. Negocie um contrato de suporte com eles para lidar com suporte técnico.
 
-2.  No menu **Partner Center** , selecione **os clientes**, em seguida, selecione um cliente e selecione uma assinatura, por exemplo, o Office 365 Business Premium.
+2.  Dos **Partner Center** menu, selecione **clientes**, em seguida, selecione um cliente e selecione uma assinatura, por exemplo, o Office 365 Business Premium.
 
 3.  Em **Contato de suporte designado**, selecione o revendedor de produto designado e, em seguida, clique em **Enviar**. 
 

@@ -2,23 +2,23 @@
 title: Contas corporativas e Partner Center | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Para criar uma conta do Partner Center, sua empresa deverá ter uma conta de trabalho. Se você tiver uma assinatura ativa do Microsoft Azure ou Office 365, você já tiver uma conta corporativa.
-author: labrenne
+description: Para criar uma conta do Partner Center, sua empresa deverá ter uma conta de trabalho. Se você tiver uma assinatura ativa para o Microsoft Azure ou Office 365, você já tiver uma conta de trabalho.
+author: LauraBrenner
 ms.author: labrenne
-Keywords: work account, email, tenant, Azure tenant, create account, domain name
+Keywords: trabalho de conta, o email, o locatário, o locatário do Azure, criar conta, nome de domínio
 robots: ''
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 529d6f3930c74e75043c87f13b21aa69461c26ad
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: ef953d161fe15d8a950bdbbe70bac72ac9318ec3
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917518"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584679"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>Sua conta corporativa e o Partner Center  
 
-**Aplicável ao**
+**Aplica-se a**
 
 -  Partner Center
 
@@ -29,7 +29,7 @@ Precisamos vincular a conta corporativa da empresa à sua nova conta do Partner 
 Se a sua empresa já tiver uma conta corporativa, você pode vinculá-la à sua conta do Partner Center. 
 
 > [!NOTE]  
->  Antes de decidir usar uma conta corporativa existente, pense sobre quantos usuários da conta precisarão trabalhar no Partner Center. Se você tiver usuários na conta que não precisa trabalhar no Partner Center, considere criar uma nova conta somente para os usuários que precisem trabalhar no Partner Center.
+>  Antes de decidir usar uma conta de trabalho existente, pense sobre quantos usuários na conta terá de trabalhar no Partner Center. Se você tiver usuários na conta que não precisa trabalhar no Partner Center, considere a criação de uma nova conta para somente aos usuários que terá de trabalhar no Partner Center.
 
 Se a sua empresa ainda não tiver uma conta de trabalho, você poderá criar uma durante o processo de inscrição. 
 

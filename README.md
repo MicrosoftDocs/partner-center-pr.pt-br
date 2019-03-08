@@ -1,37 +1,37 @@
-# You've added your first ReadMe file!
-A README.md file is intended to quickly orient readers to what your project can do.  New to Markdown? [Learn more](https://go.microsoft.com/fwlink/p/?LinkId=524306&clcid=0x409)
+# <a name="youve-added-your-first-readme-file"></a>Você adicionou seu primeiro arquivo Leiame!
+Um arquivo README.md destina-se a orientar rapidamente os leitores para o seu projeto pode ser feito.  Novo no Markdown? [Saiba mais](https://go.microsoft.com/fwlink/p/?LinkId=524306&clcid=0x409)
 
-## Edit this ReadMe and commit your change to a topic branch
-In Git, branches are cheap.  You should use them whenever you're making changes to your repository.  Edit this file by clicking on the edit icon.
+## <a name="edit-this-readme-and-commit-your-change-to-a-topic-branch"></a>Editar este arquivo Leiame e confirme a alteração para uma ramificação de tópico
+No Git, os branches são baratos.  Você deve usá-los sempre que você estiver fazendo alterações em seu repositório.  Edite esse arquivo, clicando no ícone de edição.
 
-Then make some changes to this ReadMe file.
+Em seguida, fazer algumas alterações para este arquivo Leiame.
 
-> Make some **edits** to _this_ blockquote
+> Fazer com que alguns **edições** à _isso_ blockquote
 
-When you are done, click the dropdown arrow next to the save button - that will allow you to commit your changes to a new branch.
+Quando você terminar, clique na seta suspensa ao lado de salvamento botão – o que permitirá que você confirme suas alterações para um novo branch.
 
-## Create a pull request to contribute your changes back into master
-Pull requests are the way to move changes from a topic branch back into the master branch.
+## <a name="create-a-pull-request-to-contribute-your-changes-back-into-master"></a>Crie uma solicitação de pull para contribuir com suas alterações novamente no mestre
+As solicitações pull são a maneira de mover as alterações de uma ramificação de tópico de volta para o branch mestre.
 
-Click on the **Pull Requests** page in the **CODE** hub, then click "New Pull Request" to create a new pull request from your topic branch to the master branch.
+Clique no **solicitações de Pull** página na **código** hub, em seguida, clique em "Nova solicitação de Pull" para criar uma nova solicitação de pull de sua ramificação de tópico para o branch mestre.
 
-When you are done adding details, click "Create Pull request". Once a pull request is sent, reviewers can see your changes, recommend modifications, or even push follow-up commits.
+Quando você terminar a adição de detalhes, clique em "Solicitação de Pull de criar". Depois que uma solicitação de pull for enviada, os revisores podem ver suas alterações, recomendável modificações ou até mesmo enviar por push confirmações de acompanhamento.
 
-First time creating a pull request?  [Learn more](https://go.microsoft.com/fwlink/?LinkId=533211&clcid=0x409)
+Criar uma solicitação de pull-se pela primeira vez?  [Saiba mais](https://go.microsoft.com/fwlink/?LinkId=533211&clcid=0x409)
 
-### Congratulations! You've completed the grand tour of the CODE hub!
+### <a name="congratulations-youve-completed-the-grand-tour-of-the-code-hub"></a>Parabéns! Você concluiu o tour geral do hub de código!
 
-# Next steps
+# <a name="next-steps"></a>Próximas etapas
 
-If you haven't already done so, [install Git](https://git-scm.com/downloads) (as well as [Git Credential Manager](https://java.visualstudio.com/Downloads/gitcredentialmanager/Index) for Linux or Mac OS)
+Se você ainda não fez isso, [instalar o Git](https://git-scm.com/downloads) (bem como [Git Credential Manager](https://java.visualstudio.com/Downloads/gitcredentialmanager/Index) para Linux ou Mac OS)
 
-Choose and install one of these supported IDEs:
+Escolher e instalar uma dessas IDEs com suporte:
 * [Visual Studio](https://go.microsoft.com/fwlink/?LinkId=309297&clcid=0x409&slcid=0x409)
-* [Android Studio](https://developer.android.com/studio) (with [Team Services Plugin](https://java.visualstudio.com/Downloads/intellijplugin/Index))
-* [Eclipse](https://www.eclipse.org/downloads) (with [Team Explorer Everywhere](https://java.visualstudio.com/Downloads/eclipseplugin/Index))
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/download) (with [Team Services Plugin](https://java.visualstudio.com/Downloads/intellijplugin/Index))
-* [Visual Studio Code](https://code.visualstudio.com/Download) (with [Team Services Extension](https://java.visualstudio.com/Downloads/visualstudiocode/Index))
+* [Android Studio](https://developer.android.com/studio) (com [plug-in do Team Services](https://java.visualstudio.com/Downloads/intellijplugin/Index))
+* [Eclipse](https://www.eclipse.org/downloads) (com [Team Explorer Everywhere](https://java.visualstudio.com/Downloads/eclipseplugin/Index))
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/download) (com [plug-in do Team Services](https://java.visualstudio.com/Downloads/intellijplugin/Index))
+* [Visual Studio Code](https://code.visualstudio.com/Download) (com [extensão de serviços de equipe](https://java.visualstudio.com/Downloads/visualstudiocode/Index))
 
-Then clone this repo to your local machine to get started with your own project.
+Em seguida, clone este repositório em seu computador local para começar com seu próprio projeto.
   
-Happy coding!
+Boa codificação!

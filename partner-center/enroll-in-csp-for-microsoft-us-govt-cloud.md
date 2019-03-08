@@ -6,12 +6,12 @@ description: Antes de se inscrever no programa Provedor de Soluções na Nuvem d
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e6aa5187dc52ddd753681a4e14bbaec32ce2420
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: 0df1f72cdb0b062774accfd15299f046dac19031
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098813"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585639"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Cloud for US Government
 
@@ -69,9 +69,9 @@ O Microsoft Cloud for US Government fornece uma instância separada do Microsoft
 > [!NOTE]  
 > Depois de atribuir os usuários a função de Agente administrador, elas poderão acessar a lista de clientes na página **Clientes** e [adicionar novos clientes](add-a-new-customer.md).   
 
-1.  Entrar no portal de administração do Microsoft Azure em https://portal.azure.us/.
+1.  Inicie sessão no portal de administração do Microsoft Azure em https://portal.azure.us/.
 
-2.  Atribua a função de agente administrador para os usuários apropriados em sua organização. Para fazer isso, você precisará adicioná-los ao grupo integrado **AdminAgent**. Consulte [Gerenciar os membros de um grupo no Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) para obter informações sobre como fazer isso.
+2.  Atribua a função de Agente Administrador para os usuários apropriados em sua organização. Para fazer isso, você precisará adicioná-los ao grupo integrado **AdminAgent**. Consulte [Gerenciar os membros de um grupo no Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) para obter informações sobre como fazer isso.
  
 ## <a name="connect-with-us"></a>Fale conosco
 
@@ -81,8 +81,8 @@ O Microsoft Cloud for US Government fornece uma instância separada do Microsoft
 
 ## <a name="related-topics"></a>Tópicos relacionados
 
--  [Partner Center do Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
+-  [Centro de parceiros de nuvem da Microsoft para o governo dos EUA](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [Gerenciamento de licença e usuários no Partner Center do Microsoft Cloud for US Government](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
+-  [Gerenciamento de usuários e licenças no Partner Center para o Microsoft Cloud para o governo dos EUA](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
 
 

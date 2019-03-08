@@ -2,22 +2,22 @@
 title: Migrar as assinaturas do Skype for Business Online Plano 1 para versões mais recentes do Office 365 | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-Description: Transition customers with expiring Skype for Business Online Plan 1 subscriptions to a supported SKU option. We recommend moving customers to new subscriptions before the subscription’s yearly end date.
-author: labrenne
+Description: A transição de clientes com o Skype prestes a expirar para assinaturas de negócios Online plano 1 para uma opção de SKU com suporte. É recomendável mover os clientes para novas assinaturas antes da data de término da assinatura anual.
+author: LauraBrenner
 ms.author: labrenne
 keywords: Planos do Skype for Business, Skype desativado, Office 365
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c1e4f4611c6fe3c317339af1a036194031f3d095
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 74df419f8cbd416da494bd87d873f5315d6a9b70
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917618"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586099"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrar assinaturas do Skype for Business Online Plano 1 para versões mais novas do Office 365
 
-**Aplica-se ao**
+**Aplica-se a**
 
 - Partner Center
 
@@ -36,7 +36,7 @@ Com os novos planos, seus os clientes podem aproveitar novos recursos e funciona
 
 - Opção 1: Office 365 Enterprise F1
 - Opção 2: Microsoft 365 Enterprise F1
-- Opção 3: outros planos do Office 365
+- Opção 3: Outros planos do Office 365
 
 |**Recurso**    |**Opção 1**   |**Opção 2**   |**Opção 3**   |
 |:-----------------|:-----------------|:-------------|:------------|
@@ -55,13 +55,13 @@ A Microsoft oferece continuamente novos produtos e serviços para nossos parceir
 
 ### <a name="migrate-your-customers-to-new-plans"></a>Migrar seus clientes para novos planos
 
-1. Para comprar a nova assinatura, no **menu Partner Center**, selecione **os clientes**, selecione o cliente que você deseja mover e, em seguida, selecione **Adicionar assinaturas**.
+1. Para adquirir a nova assinatura, do **menu do Partner Center**, selecione **clientes**, selecione o cliente que você deseja mover e, em seguida, selecione **adicionar assinaturas**.
 
 2. Selecione a assinatura que deseja comprar no catálogo (nesse caso, uma das opções acima), insira o número de licenças e selecione **Enviar**. 
 
 Agora seu cliente deve ter assinaturas antigas e novas: a assinatura antiga do Skype for Business Online Plano 1 e a nova "de destino", por exemplo, Opção 1 - Office 365 Enterprise F1.
 
-3. Para reatribuir licenças dos usuários do cliente, no menu **Partner Center** , selecione **os clientes**, selecione o cliente está movendo e, em seguida, selecione **os usuários e licenças**. A página Usuários e Licenças do cliente será aberta.
+3. Para reatribuir as licenças de usuários do cliente, do **Partner Center** menu, selecione **clientes**, selecione o cliente estiver movendo e, em seguida, selecione **usuários e licenças** . A página Usuários e Licenças do cliente será aberta.
 
 4. Para reatribuir a licença do usuário, selecione o usuário a ser reatribuído e selecione **Gerenciar licenças**.
 
@@ -71,7 +71,7 @@ Agora seu cliente deve ter assinaturas antigas e novas: a assinatura antiga do S
 
 Depois de migrar a licença do usuário para o novo serviço, você pode cancelar com segurança a assinatura desativada no nível do cliente.
 
-7. No menu **Partner Center** , selecione **os clientes**. Selecione o cliente cuja assinatura você está cancelando.
+7. Dos **Partner Center** menu, selecione **clientes**. Selecione o cliente cuja assinatura você está cancelando.
 
 8. Na página de detalhe da assinatura, defina o status da assinatura como **Suspensa**.
 

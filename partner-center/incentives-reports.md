@@ -3,19 +3,19 @@ title: Os relatórios de dados dinâmicos substituem a emissão de relatórios m
 ms.topic: article
 ms.date: 10/29/2018
 description: Os programas de incentivos OSA Sell e Online Services Usage agora podem obter relatórios de dados dinâmicos.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bc9047e21beafb9973723260b437353bbe291603
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: 37458d9c6343fc27d3745a478c24c581eb06c03c
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098713"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583839"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>Os relatórios de dados dinâmicos substituem a emissão de relatórios mensais para alguns programas de incentivos
 
-**Aplicável ao**
+**Aplica-se a**
 
 -  Partner Center
 

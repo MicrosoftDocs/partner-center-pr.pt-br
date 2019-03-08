@@ -3,25 +3,25 @@ title: Adicionar Serviços Compartilhados do Parceiro Azure | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Os Serviços Compartilhados do Parceiro Azure são um novo tipo de oferta para parceiros no programa CSP, permitindo que os parceiros adquiram assinaturas do Azure para uso próprio.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
-Keywords: Azure, shared services, tenant
+Keywords: Azure, serviços compartilhados, locatário
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 51f235cfc840ab60e90fbbce44cb239b82273ce1
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: ad0d7fcaa1a4a8f65f26dd2a3e826f44b10be80a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917628"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586979"
 ---
 # <a name="add-azure-partner-shared-services"></a>Adicionar Serviços Compartilhados do Parceiro Azure
 
-**Aplicável a**
+**Aplica-se a**
 
 -  Partner Center
 
-Os Serviços Compartilhados do Parceiro Azure são um novo tipo de oferta para parceiros no programa CSP, permitindo que os parceiros adquiram assinaturas do Azure para uso próprio.  Ele gera a oportunidade para os parceiros usarem um método uniforme de compra, rastreamento e gerenciamento do Azure, além da capacidade de consolidar seus contratos de licenciamento e revenda do Azure com a Microsoft. Com os Serviços Compartilhados do Parceiro Azure, agora os parceiros têm a mesma flexibilidade para usar assinaturas do Azure no CSP que eles têm nos programas Microsoft Enterprise Agreement e Web Direct, abrindo cenários como: criação de ambientes de desenvolvimento e teste, implantação de cargas de trabalho internas e hospedagem de serviços compartilhados ou aplicativos de multilocatários.  
+Os Serviços Compartilhados do Parceiro Azure são um novo tipo de oferta para parceiros no programa CSP, permitindo que os parceiros adquiram assinaturas do Azure para uso próprio.  Ele cria a oportunidade para parceiros ao usar um método uniforme para compra, acompanhamento e gerenciamento do Azure além da capacidade para consolidar seu Azure licenciamento e revenda contratos com a Microsoft. Com os Serviços Compartilhados do Parceiro Azure, agora os parceiros têm a mesma flexibilidade para usar assinaturas do Azure no CSP que eles têm nos programas Microsoft Enterprise Agreement e Web Direct, abrindo cenários como: criação de ambientes de desenvolvimento e teste, implantação de cargas de trabalho internas e hospedagem de serviços compartilhados ou aplicativos de multilocatários.  
 
 ## <a name="create-the-shared-services-tenant"></a>Criar o locatário de serviços compartilhados
 

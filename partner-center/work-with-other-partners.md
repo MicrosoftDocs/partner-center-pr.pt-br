@@ -7,15 +7,15 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 641acf32646b193622ca4dce59f75970568af9b4
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794879"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583959"
 ---
 # <a name="work-with-other-partners"></a>Trabalhar com outros parceiros
 
-**Aplicável a**
+**Aplica-se a**
 
 -  Partner Center
 
@@ -25,7 +25,7 @@ O programa Provedor de Soluções na Nuvem (CSP) da Microsoft oferece oportunida
 
 Neste modelo, também conhecido como o modelo bipartido, os fornecedores indiretos e revendedores indiretos trabalham juntos para vender serviços baseados em nuvem da Microsoft a organizações em múltiplos locais e indústrias. 
 
-### <a name="indirect-providers"></a>Fornecedores indiretos 
+### <a name="indirect-providers"></a>Provedores indiretos 
 
 Fornecedores indiretos (também conhecidos como distribuidores) compram produtos e inscrições diretamente da Microsoft e depois oferecem essas soluções aos clientes por meio dos revendedores. Trabalhar com revendedores indiretos permite que os fornecedores expandam sua busca e base de clientes. 
 
@@ -45,7 +45,7 @@ O recurso de multi-parceiro do Partner Center oferece suporte a cenários quando
 
 Suporte ao multi-parceiro também está disponível nas ofertas de nuvem nacionais da Microsoft. 
 
-## <a name="multi-channel-support"></a>Suporte multi-canal
+## <a name="multi-channel-support"></a>Suporte multicanal
 
 O recurso de multi-canal do Partner Center oferece suporte a cenários quando um cliente deseja contratar um parceiro para provisionar e ajudar em uma inscrição que eles compraram em outro lugar. Consulte [Suporte multi-canal](multichannel.md) para obter mais informações.
 

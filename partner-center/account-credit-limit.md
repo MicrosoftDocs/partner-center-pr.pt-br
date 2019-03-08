@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Quando você se torna um parceiro no programa CSP, sua organização recebe um limite de crédito que permite a você comprar software para vender a seus clientes enquanto aguarda o pagamento dos clientes.
 ms.assetid: ''
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
-keywords: limite de crédito, adquirir, aumento do limite, linha de crédito
+keywords: limite de crédito, compras, aumento de limite, linha de crédito
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 29ea91d24e141deb843f7ba00e438f882a092fff
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 5183e3787f3573b0d7f2bd2f318fa48ef68c3922
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917388"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586179"
 ---
 # <a name="cloud-solution-provider-csp-account-credit-limits"></a>Limites de crédito da conta do CSP (Provedor de Soluções na Nuvem)
 

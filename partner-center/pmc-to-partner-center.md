@@ -1,8 +1,8 @@
 ---
-title: Fazer a transição de sua associação de rede do Partner Membership Center para o Partner Center
+title: Fazer a transição de sua associação de rede do Partner Membership Center Partner Center
 ms.topic: article
 ms.date: 11/14/2018
-description: Como fazer a transição de sua conta de associação do Partner Membership Center para o Partner Center.
+description: Como fazer a transição de sua conta de associação de Partner Membership Center Partner Center.
 author: maggiepuccievans
 ms.author: maggiepuccievans
 keywords: associação mpn, competências, pmc para partner center
@@ -10,65 +10,65 @@ fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
 ms.openlocfilehash: 9af70ed292b89b36e8940ed7d32bf7508b7e8cb1
-ms.sourcegitcommit: 7a68540d64d17c4d9139da4f94d679f9d91b67c4
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "7011396"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587099"
 ---
-# <a name="transition-your-partner-membership-account-from-partner-membership-center-to-partner-center"></a>Fazer a transição de sua conta de associação de parceiro do Partner Membership Center para o Partner Center
+# <a name="transition-your-partner-membership-account-from-partner-membership-center-to-partner-center"></a>Fazer a transição de sua conta de associação de parceiro do Partner Membership Center Partner Center
 
-**Aplica-se ao**
+**Aplica-se a**
 
 - Partner Center
 - Parceiros do MPN
 
 ## <a name="partner-membership-center-being-retired"></a>Partner Membership Center está sendo desativado
 
-Durante os próximos meses, nós vai convidando parceiros para mover suas contas de associação de parceiro da associação PMC (Partner Center) para uma nova plataforma, o Partner Center. Partner Center é o destino único para gerenciar seu relacionamento comercial com a Microsoft. Consulte [preparação de gerenciamento de associação](https://partner.microsoft.com/support/partner-center-help) no [site do parceiro](https://partner.microsoft.com/commercial) para obter mais informações.
+Durante os próximos meses, podemos irá convidando parceiros para mover suas contas de associação de parceiro da Central de associação de parceiro (PMC) para uma nova plataforma, o Centro de parceiros. Partner Center é o único destino para gerenciar sua relação de negócios com a Microsoft. Consulte [prontidão de gerenciamento de participação](https://partner.microsoft.com/support/partner-center-help) sobre o [site parceiro](https://partner.microsoft.com/commercial) para obter mais informações.
 
-Depois que sua conta de associação é transmitida com êxito, você irá gerenciar os detalhes da conta, incluindo (quando aplicável) benefícios, competências, incentivos, ofertas e programas no Partner Center. Você também poderá obter e gerenciar as oportunidades de vendas da Microsoft e se inscrever no programa provedor de soluções de nuvem no Partner Center.
+Depois que sua conta de associação é transferida com êxito, você gerenciará os detalhes da conta, incluindo (quando aplicável) benefícios, competências, incentivos, ofertas e programas no Partner Center. Você também poderá obter e gerenciar as oportunidades de vendas da Microsoft e registrar no programa de provedor de soluções de nuvem no Partner Center.
 
 ## <a name="prepare-now-for-a-smooth-transition"></a>Preparar-se agora para uma transição suave
 
-Os parceiros serão convidados a mover para o Partner Center quando temos os recursos necessários e recursos prontos para garantir uma transição suave. Recomendamos que você executar o tempo para analisar informações da sua empresa no PMC e siga nossas etapas recomendadas para ajudar a garantir uma transição suave de conta.
+Parceiros serão convidados a mover-se ao Partner Center quando temos os recursos necessários e recursos prontos para garantir uma transição suave. Recomendamos que você dedicar algum tempo agora para examinar as informações da sua empresa no PMC e siga nosso etapas recomendadas para ajudar a garantir uma transição suave de conta.
 
 ### <a name="pmc-to-partner-center-step-by-step-guide"></a>PMC guia passo a passo do Partner Center
 
-Nós preparado a abrangentes e detalhadas [PMC guia de transição do Partner Center](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf) para orientá-lo por meio de cada etapa do processo para uma transição de conta bem-sucedida.
+Criamos preparado o abrangente e detalhada [PMC guia de transição do Partner Center](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf) para orientá-lo através de cada etapa do processo para uma transição bem-sucedida de conta.
 
 >[!IMPORTANT]
->Há vários pré-requisitos chave incluídos neste guia que levará um tempo para concluir. Encorajamos você a revisá-los e iniciar o trabalho para concluí-los assim que possível.
+>Existem vários pré-requisitos de chave incluídos neste guia que levará tempo para ser concluída. Incentivamos você a examiná-los e iniciar o trabalho para concluí-las assim que possível.
 
 ### <a name="video-resources"></a>Recursos de vídeo
 
-Além do [PMC guia de transição do Partner Center](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf), criamos esses vídeos curtos sobre as diversas fases da fazer a transição de sua conta. 
+Além de [PMC guia de transição do Partner Center](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf), criamos esses vídeos curtos sobre as diferentes fases da transição da sua conta. 
 
 - [Descobrir seu painel do Partner Center](https://partner.microsoft.com/support/partner-center-help)
  
-  Saiba mais sobre os recursos e ferramentas disponíveis no Partner Center para aproveitar ao máximo sua parceria.
+  Saiba mais sobre os recursos e ferramentas disponíveis no Partner Center para tirar o máximo proveito de sua parceria.
 
-- [Mais fáceis de contas de vários locais](https://partner.microsoft.com/support/partner-center-help)
+- [Contas de vários locais, ficou mais fácil](https://partner.microsoft.com/support/partner-center-help)
  
-  Se você gerencia escritórios em várias regiões, veja como configurar sua conta de vários local e controlar tudo de um local de fácil de usar.
+  Se você gerenciar escritórios em várias regiões geográficas, aqui está como configurar sua conta de vários local e controlar tudo de um site fácil de usar.
 
-- [Fazer a contagem de treinamento e exames](https://partner.microsoft.com/support/partner-center-help)
+- [Verifique sua contagem de treinamentos e exames](https://partner.microsoft.com/support/partner-center-help)
 
-  Conectar-se as credenciais de aprendizado de seus funcionários ao seu perfil de negócios para garantir o acesso contínuo a Partner University e para se qualificar para competências.
+  Conecte-se as credenciais de aprendizado dos funcionários ao seu perfil de negócios para garantir o acesso contínuo a Universidade do parceiro e para se qualificar para competências.
 
 ## <a name="see-also"></a>Consulte também
 
-Depois que você tiver transmitidas com êxito sua conta do PMC, examine estes artigos para obter mais familiarizado com o Partner Center.
+Depois que você com êxito após fazer a transição de sua conta do PMC, consulte estes artigos para se familiarizar mais com o Partner Center.
 
--   [Criar um perfil de negócios para obter oportunidades de vendas da Microsoft](create-a-marketing-profile.md)
+-   [Criar um perfil comercial para obter as oportunidades de vendas da Microsoft](create-a-marketing-profile.md)
 
 -   [Adicionar novos usuários de conta e atribuir permissões a eles](create-user-accounts-and-set-permissions.md)
 
--   [Adquirir ou renovar uma assinatura do Microsoft Action Pack](mpn-get-action-pack.md)
+-   [Comprar ou renovar uma assinatura do Microsoft Action Pack](mpn-get-action-pack.md)
 
--   [Gerenciar os benefícios da sua associação](manage-your-partner-network-benefits.md)
+-   [Gerenciar seus benefícios de associação](manage-your-partner-network-benefits.md)
 
--   [Saiba mais sobre os requisitos de competência para a parceria Gold e Silver](https://partner.microsoft.com/membership/competencies)
+-   [Saiba mais sobre os requisitos de competência Gold e Silver associação](https://partner.microsoft.com/membership/competencies)
 
 
 

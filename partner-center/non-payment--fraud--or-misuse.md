@@ -10,18 +10,18 @@ ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 8a4915f8ae0ad0d0b72f0e8b50f803fb8f84c17e
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995900"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584379"
 ---
-# <a name="non-payment-fraud-or-misuse"></a>Falta de pagamento, fraude ou uso indevido
+# <a name="non-payment-fraud-or-misuse"></a>Não pagamento, fraude ou uso indevido
 
-**Aplicável a**
+**Aplica-se a**
 
 -  Partner Center
--  Partner Center for Microsoft Cloud for US Government
+-  Partner Center para Microsoft Cloud for US Government
 
 
 
@@ -67,7 +67,7 @@ Essas recomendações podem ajudá-lo a desenvolver políticas e práticas que p
 #### <a name="post-purchase-customer-account-management"></a>Gerenciamento de contas de clientes após a compra
 - Trabalhe com os clientes para compreender as necessidades comerciais de uso da nuvem, definindo limites de monitoramento apropriados
     > [!NOTE]  
-    >  Você pode [definir um orçamento de gasto mensal Azure](set-an-azure-spending-budget-for-your-customers.md) no Partner Center para monitorar o uso de cliente durante o mês e ser notificado quando os clientes estão atingindo seu orçamento.
+    >  Você pode [defina um mensal de gastos do Azure orçamento](set-an-azure-spending-budget-for-your-customers.md) no Partner Center para monitorar o uso do cliente durante o mês e ser notificado quando os clientes estão próximas seu orçamento.
 - Monitore [logs de atividade do cliente](activity-logs.md) regularmente para ajudar a detectar fraudes logo no início
 - Execute uma ação rápida quando atividades suspeitas são detectadas
 - Evite conceder acesso administrativo completo de clientes para assinaturas sem primeiro implementar controles de atenuação de risco
