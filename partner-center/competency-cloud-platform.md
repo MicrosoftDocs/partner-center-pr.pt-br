@@ -3,20 +3,20 @@ title: Competência Plataforma de Nuvem
 ms.topic: article
 ms.date: 10/29/2018
 description: A competência Plataforma de Nuvem foi elaborada para os parceiros lucrarem com a demanda crescente de soluções de infraestrutura e software como serviço (SaaS) baseadas no Microsoft Azure.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: competência,competências,Plataforma de Nuvem
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: ae31be9420e3fdc0c09e6747bd73c38a955e79d3
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 362e829a1d408d7bc63c1e776077d28442eb75c2
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795749"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586229"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="ff056-104">Para saber sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="ff056-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="11631-104">Para saber mais sobre os requisitos para obter essa competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="11631-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Cloud Platform

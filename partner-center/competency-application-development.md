@@ -3,20 +3,20 @@ title: Competência de desenvolvimento de aplicativo
 ms.topic: article
 ms.date: 10/29/2018
 description: Habilite o fornecimento de software mais rápido e as melhorias contínuas. Junte-se aos nossos mais de 60 mil parceiros desenvolvedores de aplicativos para diferenciar seu negócio e se estabelecer como um Parceiro da Microsoft obtendo a competência de desenvolvimento de aplicativos.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: competência, competências, aplicativos de negócios na nuvem, desenvolvimento de aplicativos
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: c367960a24cdf278991cc74cd5354c8886d67694
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 5a0123f1ec9052f409ad9964cf9c1761f9df7bb2
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795029"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583889"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="f367f-105">Para saber sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="f367f-105">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="572f8-105">Para saber mais sobre os requisitos para obter essa competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="572f8-105">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

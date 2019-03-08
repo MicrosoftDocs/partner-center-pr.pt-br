@@ -1,7 +1,7 @@
 ---
-title: Analisar as assinaturas e licenças | Partner Center
+title: Analisar assinaturas e licenças | Partner Center
 ms.date: 07/12/2018
-Description: Use the metrics in the Subscription and license analytics page to identify your successes and areas that need more attention.
+Description: Use as métricas na página de análise de licença e assinatura para identificar seus êxitos e as áreas que precisam de mais atenção.
 Author: Xansky
 ms.author: mhopkins
 ms.assetid: 1922FCE8-3A89-44ED-B4E1-BFCD2326BB06
@@ -9,63 +9,63 @@ ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 60ab45e6c50e7e3b6ab312c4c64dfeb3aacb53d9
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: d1db5bd56c172a36afa6cb90f0ab5c798e6ba95b
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917458"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584529"
 ---
-# <a name="analyze-subscriptions-and-licenses"></a><span data-ttu-id="9d1be-103">Analisar assinaturas e licenças</span><span class="sxs-lookup"><span data-stu-id="9d1be-103">Analyze subscriptions and licenses</span></span> 
+# <a name="analyze-subscriptions-and-licenses"></a><span data-ttu-id="0719f-104">Analisar assinaturas e licenças</span><span class="sxs-lookup"><span data-stu-id="0719f-104">Analyze subscriptions and licenses</span></span> 
 
-**<span data-ttu-id="9d1be-104">Aplicável a</span><span class="sxs-lookup"><span data-stu-id="9d1be-104">Applies to</span></span>**
+<span data-ttu-id="0719f-105">**Aplica-se a**</span><span class="sxs-lookup"><span data-stu-id="0719f-105">**Applies to**</span></span>
 
-- <span data-ttu-id="9d1be-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="9d1be-105">Partner Center</span></span>
+- <span data-ttu-id="0719f-106">Partner Center</span><span class="sxs-lookup"><span data-stu-id="0719f-106">Partner Center</span></span>
 
-<span data-ttu-id="9d1be-106">Os dados impulsionam as decisões de negócios.</span><span class="sxs-lookup"><span data-stu-id="9d1be-106">Data drives business decisions.</span></span> <span data-ttu-id="9d1be-107">Use as métricas na página de **assinatura e análise de licença** para identificar seu êxitos e áreas que precisam de mais atenção.</span><span class="sxs-lookup"><span data-stu-id="9d1be-107">Use the metrics in the **Subscription and license analytics** page to identify your successes and areas that need more attention.</span></span> <span data-ttu-id="9d1be-108">Use essas informações ao planejar novas metas de negócios.</span><span class="sxs-lookup"><span data-stu-id="9d1be-108">Use this information as you plan new business goals.</span></span>
+<span data-ttu-id="0719f-107">Os dados impulsionam as decisões de negócios.</span><span class="sxs-lookup"><span data-stu-id="0719f-107">Data drives business decisions.</span></span> <span data-ttu-id="0719f-108">Use as métricas na página **Análise de assinatura e licença** para identificar seu êxitos e as áreas que precisam de mais atenção.</span><span class="sxs-lookup"><span data-stu-id="0719f-108">Use the metrics in the **Subscription and license analytics** page to identify your successes and areas that need more attention.</span></span> <span data-ttu-id="0719f-109">Use essas informações ao planejar novas metas de negócios.</span><span class="sxs-lookup"><span data-stu-id="0719f-109">Use this information as you plan new business goals.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="9d1be-109">Análise de licença de assinatura está disponível apenas para parceiros no programa provedor de soluções de nuvem.</span><span class="sxs-lookup"><span data-stu-id="9d1be-109">Subscription license analytics is available only for partners in the Cloud Solution Provider program.</span></span>
+> <span data-ttu-id="0719f-110">A análise de licença de assinatura está disponível somente para parceiros no programa Provedor de Soluções na Nuvem.</span><span class="sxs-lookup"><span data-stu-id="0719f-110">Subscription license analytics is available only for partners in the Cloud Solution Provider program.</span></span>
 
 
-<span data-ttu-id="9d1be-110">Esse relatório pode dinamizar com base nos seguintes produtos:</span><span class="sxs-lookup"><span data-stu-id="9d1be-110">This report can pivot based on the following products:</span></span>
+<span data-ttu-id="0719f-111">Esse relatório pode ser dinâmico com base nos produtos a seguir:</span><span class="sxs-lookup"><span data-stu-id="0719f-111">This report can pivot based on the following products:</span></span>
 
- - <span data-ttu-id="9d1be-111">**Dynamics 365**: dados do Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="9d1be-111">**Dynamics 365**: Dynamics 365 data</span></span>  
- - <span data-ttu-id="9d1be-112">**EMS**: dados de serviços de gerenciamento corporativo</span><span class="sxs-lookup"><span data-stu-id="9d1be-112">**EMS**: Enterprise Management Services data</span></span>  
- - <span data-ttu-id="9d1be-113">**Microsoft 365**: dados do Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="9d1be-113">**Microsoft 365**: Microsoft 365 data</span></span>  
- - <span data-ttu-id="9d1be-114">**Office 365**: dados do Office 365</span><span class="sxs-lookup"><span data-stu-id="9d1be-114">**Office 365**: Office 365 data</span></span>  
+ - <span data-ttu-id="0719f-112">**Dynamics 365**: Dados do Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="0719f-112">**Dynamics 365**: Dynamics 365 data</span></span>  
+ - <span data-ttu-id="0719f-113">**EMS**: Dados de serviços de gerenciamento corporativo</span><span class="sxs-lookup"><span data-stu-id="0719f-113">**EMS**: Enterprise Management Services data</span></span>  
+ - <span data-ttu-id="0719f-114">**Microsoft 365**: Dados do Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="0719f-114">**Microsoft 365**: Microsoft 365 data</span></span>  
+ - <span data-ttu-id="0719f-115">**Office 365**: Dados do Office 365</span><span class="sxs-lookup"><span data-stu-id="0719f-115">**Office 365**: Office 365 data</span></span>  
 
 
-<span data-ttu-id="9d1be-115">Estamos monitorando as seguintes métricas:</span><span class="sxs-lookup"><span data-stu-id="9d1be-115">We are tracking the following metrics:</span></span>
+<span data-ttu-id="0719f-116">Estamos monitorando as seguintes métricas:</span><span class="sxs-lookup"><span data-stu-id="0719f-116">We are tracking the following metrics:</span></span>
 
-**<span data-ttu-id="9d1be-116">Resumo</span><span class="sxs-lookup"><span data-stu-id="9d1be-116">Summary</span></span>**  
- - <span data-ttu-id="9d1be-117">**Assinaturas vendido**: contagem de assinaturas criado para o período de tempo especificado</span><span class="sxs-lookup"><span data-stu-id="9d1be-117">**Subscriptions sold**: Count of subscriptions created for the specified time period</span></span>  
- - <span data-ttu-id="9d1be-118">**Licenças vendidas**: contagem de licenças vendidas para o período de tempo especificado</span><span class="sxs-lookup"><span data-stu-id="9d1be-118">**Licenses sold**: Count of licenses sold for the specified time period</span></span>   
- - <span data-ttu-id="9d1be-119">**Renovar assinaturas em 30 dias**: contagem de assinaturas onde o status está ativo para o tempo especificado e período em que é verdadeiro **renovar automaticamente**</span><span class="sxs-lookup"><span data-stu-id="9d1be-119">**Subscriptions renewing in 30 days**: Count of subscriptions where the status is active for the specified time period and where **Autorenew** is true</span></span>
- - <span data-ttu-id="9d1be-120">**As assinaturas ativas**: assinaturas onde o status está **ativo**</span><span class="sxs-lookup"><span data-stu-id="9d1be-120">**Active subscriptions**: Subscriptions where the status is **Active**</span></span>  
- - <span data-ttu-id="9d1be-121">**Assinaturas Suspended**: contagem de assinaturas suspensas, não há nenhum filtro de data</span><span class="sxs-lookup"><span data-stu-id="9d1be-121">**Suspended subscriptions**: Count of suspended subscriptions, there is no date filter</span></span>  
+<span data-ttu-id="0719f-117">**Resumo**</span><span class="sxs-lookup"><span data-stu-id="0719f-117">**Summary**</span></span>  
+ - <span data-ttu-id="0719f-118">**Assinaturas vendidas**: Contagem de assinaturas criado para o período de tempo especificado</span><span class="sxs-lookup"><span data-stu-id="0719f-118">**Subscriptions sold**: Count of subscriptions created for the specified time period</span></span>  
+ - <span data-ttu-id="0719f-119">**Licenças vendidas**: Contagem de licenças vendido para o período de tempo especificado</span><span class="sxs-lookup"><span data-stu-id="0719f-119">**Licenses sold**: Count of licenses sold for the specified time period</span></span>   
+ - <span data-ttu-id="0719f-120">**Assinaturas que se renovarão em 30 dias**: Contagem de assinaturas em que o status é ativo durante o tempo especificado e do período em que **renovação automática** é verdadeiro</span><span class="sxs-lookup"><span data-stu-id="0719f-120">**Subscriptions renewing in 30 days**: Count of subscriptions where the status is active for the specified time period and where **Autorenew** is true</span></span>
+ - <span data-ttu-id="0719f-121">**Assinaturas ativas**: As assinaturas em que o status é **Active Directory**</span><span class="sxs-lookup"><span data-stu-id="0719f-121">**Active subscriptions**: Subscriptions where the status is **Active**</span></span>  
+ - <span data-ttu-id="0719f-122">**Suspenso assinaturas**: Contagem de assinaturas suspensas, não há nenhum filtro de data</span><span class="sxs-lookup"><span data-stu-id="0719f-122">**Suspended subscriptions**: Count of suspended subscriptions, there is no date filter</span></span>  
 
-**<span data-ttu-id="9d1be-122">Detalhamento de produto</span><span class="sxs-lookup"><span data-stu-id="9d1be-122">Product breakdown</span></span>**  
- - <span data-ttu-id="9d1be-123">**Contagem de assinatura**: Top 5 produtos classificados por assinaturas vendidas</span><span class="sxs-lookup"><span data-stu-id="9d1be-123">**Subscription count**: Top 5 products sorted by subscriptions sold</span></span>  
- - <span data-ttu-id="9d1be-124">**Contagem de licenças**: Top 5 produtos por classificados licenças vendidas</span><span class="sxs-lookup"><span data-stu-id="9d1be-124">**License count**: Top 5 products by sorted licenses sold</span></span>
+<span data-ttu-id="0719f-123">**Análise do produto**</span><span class="sxs-lookup"><span data-stu-id="0719f-123">**Product breakdown**</span></span>  
+ - <span data-ttu-id="0719f-124">**Contagem de assinaturas**: Classificado por assinaturas os 5 principais produtos vendidos</span><span class="sxs-lookup"><span data-stu-id="0719f-124">**Subscription count**: Top 5 products sorted by subscriptions sold</span></span>  
+ - <span data-ttu-id="0719f-125">**Contagem de licenças**: 5 principais produtos por licenças classificados vendidos</span><span class="sxs-lookup"><span data-stu-id="0719f-125">**License count**: Top 5 products by sorted licenses sold</span></span>
 
-**<span data-ttu-id="9d1be-125">Retenção de assinatura</span><span class="sxs-lookup"><span data-stu-id="9d1be-125">Subscription Retention</span></span>**
- - <span data-ttu-id="9d1be-126">**Assinaturas Renewed**: assinaturas que renovada nos últimos 30 dias</span><span class="sxs-lookup"><span data-stu-id="9d1be-126">**Renewed subscriptions**: Subscriptions that renewed in the last 30 days</span></span>  
+<span data-ttu-id="0719f-126">**Retenção de assinatura**</span><span class="sxs-lookup"><span data-stu-id="0719f-126">**Subscription Retention**</span></span>
+ - <span data-ttu-id="0719f-127">**Renovado assinaturas**: Assinaturas renovadas nos últimos 30 dias</span><span class="sxs-lookup"><span data-stu-id="0719f-127">**Renewed subscriptions**: Subscriptions that renewed in the last 30 days</span></span>  
 
-**<span data-ttu-id="9d1be-127">Variação de assinatura</span><span class="sxs-lookup"><span data-stu-id="9d1be-127">Subscription churn</span></span>**  
- - <span data-ttu-id="9d1be-128">**Novas assinaturas**: contagem de novas assinaturas para o período de tempo, excluindo ofertas de avaliação</span><span class="sxs-lookup"><span data-stu-id="9d1be-128">**New subscriptions**: count of new subscriptions for the time period, excluding trial offers</span></span>  
- - <span data-ttu-id="9d1be-129">**Assinaturas Deprovisioned**: contagem de assinaturas desprovisionada ou suspenso por data</span><span class="sxs-lookup"><span data-stu-id="9d1be-129">**Deprovisioned subscriptions**: Count of subscriptions deprovisioned or suspended by date</span></span>  
+<span data-ttu-id="0719f-128">**Variação de assinatura**</span><span class="sxs-lookup"><span data-stu-id="0719f-128">**Subscription churn**</span></span>  
+ - <span data-ttu-id="0719f-129">**Novas assinaturas**: contagem de novas assinaturas no período de tempo, excluindo ofertas de avaliação</span><span class="sxs-lookup"><span data-stu-id="0719f-129">**New subscriptions**: count of new subscriptions for the time period, excluding trial offers</span></span>  
+ - <span data-ttu-id="0719f-130">**Desprovisionada assinaturas**: Contagem de assinaturas desprovisionada ou suspenso por data</span><span class="sxs-lookup"><span data-stu-id="0719f-130">**Deprovisioned subscriptions**: Count of subscriptions deprovisioned or suspended by date</span></span>  
 
-**<span data-ttu-id="9d1be-130">Assinaturas suspensas</span><span class="sxs-lookup"><span data-stu-id="9d1be-130">Suspended subscriptions</span></span>**  
- - <span data-ttu-id="9d1be-131">Lista de todas as assinaturas com um status de **Suspended**, excluindo ofertas de avaliação</span><span class="sxs-lookup"><span data-stu-id="9d1be-131">List of all subscriptions with a status of **Suspended**, excluding trial offers</span></span>  
+<span data-ttu-id="0719f-131">**Assinaturas suspensas**</span><span class="sxs-lookup"><span data-stu-id="0719f-131">**Suspended subscriptions**</span></span>  
+ - <span data-ttu-id="0719f-132">Lista de todas as assinaturas com o status **Suspensa**, excluindo as ofertas de avaliação</span><span class="sxs-lookup"><span data-stu-id="0719f-132">List of all subscriptions with a status of **Suspended**, excluding trial offers</span></span>  
   
-**<span data-ttu-id="9d1be-132">Assinaturas ativas</span><span class="sxs-lookup"><span data-stu-id="9d1be-132">Active subscriptions</span></span>**
- - <span data-ttu-id="9d1be-133">Lista de todas as assinaturas ativas</span><span class="sxs-lookup"><span data-stu-id="9d1be-133">List of all active subscriptions</span></span>  
+<span data-ttu-id="0719f-133">**Assinaturas ativas**</span><span class="sxs-lookup"><span data-stu-id="0719f-133">**Active subscriptions**</span></span>
+ - <span data-ttu-id="0719f-134">Lista de todas as assinaturas ativas</span><span class="sxs-lookup"><span data-stu-id="0719f-134">List of all active subscriptions</span></span>  
 
-**<span data-ttu-id="9d1be-134">Conversões de assinatura de avaliação</span><span class="sxs-lookup"><span data-stu-id="9d1be-134">Trial subscription conversions</span></span>**  
- - <span data-ttu-id="9d1be-135">**Conversão de avaliação**: contagem de todas as assinaturas **ativas** em que a avaliação pago para conversão ocorreu durante o período de tempo especificado</span><span class="sxs-lookup"><span data-stu-id="9d1be-135">**Trial conversion**: Count of all **Active** subscriptions where trial paid to conversion occurred during the specified time period</span></span>  
+<span data-ttu-id="0719f-135">**Conversões de assinatura de avaliação**</span><span class="sxs-lookup"><span data-stu-id="0719f-135">**Trial subscription conversions**</span></span>  
+ - <span data-ttu-id="0719f-136">**Conversão de avaliação**: Contagem de todos os **Active** assinaturas em que a versão de avaliação pagas para conversão ocorreram durante o período de tempo especificado</span><span class="sxs-lookup"><span data-stu-id="0719f-136">**Trial conversion**: Count of all **Active** subscriptions where trial paid to conversion occurred during the specified time period</span></span>  
 
-**<span data-ttu-id="9d1be-136">Assinaturas de avaliação terminando em 30 dias</span><span class="sxs-lookup"><span data-stu-id="9d1be-136">Trial subscriptions ending in 30 days</span></span>**  
- - <span data-ttu-id="9d1be-137">Lista de avaliações que foram iniciadas, onde a data de término é dentro de 30 dias, e há uma data de início paga associada com a assinatura</span><span class="sxs-lookup"><span data-stu-id="9d1be-137">List of trials that were started, where the end date is within 30 days, and there is no paid start date associated with the subscription</span></span>  
+<span data-ttu-id="0719f-137">**Assinaturas de avaliação termina em 30 dias**</span><span class="sxs-lookup"><span data-stu-id="0719f-137">**Trial subscriptions ending in 30 days**</span></span>  
+ - <span data-ttu-id="0719f-138">Lista de avaliações que foram iniciadas, onde a data de término ocorre dentro de 30 dias, e não há uma data de início pago associada com a assinatura</span><span class="sxs-lookup"><span data-stu-id="0719f-138">List of trials that were started, where the end date is within 30 days, and there is no paid start date associated with the subscription</span></span>  
 
   

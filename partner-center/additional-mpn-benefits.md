@@ -2,15 +2,15 @@
 title: Benefícios adicionais do MPN | Partner Center
 ms.topic: article
 ms.date: 12/20/2018
-description: Vários parceiros de programas têm acesso a agora no Partner Center
-keywords: competências, Azure, software assurance, VVT, treinamento, serviços de planejamento
-author: labrenne
+description: Vários parceiros de programas têm acesso ao now no Partner Center
+keywords: competências, treinamento do Azure, software assurance, VVT, serviços de planejamento
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 269d23a01096d0ed7d748f98f0d7e48b11673449
-ms.sourcegitcommit: 0d5f57633e3a227318976f29cfdd488217ac0f40
+ms.openlocfilehash: 81d60a603dd6d0f3da61490ca8f459731f4203a6
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8991121"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586219"
 ---

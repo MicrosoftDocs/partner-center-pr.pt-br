@@ -3,20 +3,20 @@ title: Competência Small and Midmarket Cloud Solutions
 ms.topic: article
 ms.date: 10/29/2018
 description: A competência Small and Midmarket Cloud Solutions ajuda você a criar sua marca como um parceiro especializado em vender e implantar soluções do Office 365 para pequenas e médias empresas.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: competência, competências, Small and Midmarket Cloud Solutions
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f7533c113f1daa8a088b2d0c74402f16f661b48
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 1d273e9011871edc9f65c41ae234264a28360c42
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796849"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583919"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="4b0cd-104">Para saber sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="4b0cd-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="10ff9-104">Para saber mais sobre os requisitos para obter essa competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="10ff9-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 # Small and Midmarket Cloud Solutions 

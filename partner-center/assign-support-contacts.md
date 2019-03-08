@@ -4,47 +4,47 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Quando você configura assinaturas de serviços Microsoft para seus clientes, convém atribuir o suporte técnico desses produtos a um revendedor designado, em vez de fornecer o suporte por conta própria.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: agente de ajuda, suporte, atribuir contato de suporte, contato de suporte designado
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 89b5d6bc493e1de970425bb35bbabb90cc963510
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 5dbfe3ef49840983b037a6716fad0674e28df4e9
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062344"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584389"
 ---
-# <a name="assign-support-contacts"></a><span data-ttu-id="f38f9-104">Atribuir contatos de suporte</span><span class="sxs-lookup"><span data-stu-id="f38f9-104">Assign support contacts</span></span>
+# <a name="assign-support-contacts"></a><span data-ttu-id="3c8a3-104">Atribua contatos de suporte</span><span class="sxs-lookup"><span data-stu-id="3c8a3-104">Assign support contacts</span></span>
 
-**<span data-ttu-id="f38f9-105">Aplicável a</span><span class="sxs-lookup"><span data-stu-id="f38f9-105">Applies to</span></span>**
+<span data-ttu-id="3c8a3-105">**Aplica-se a**</span><span class="sxs-lookup"><span data-stu-id="3c8a3-105">**Applies to**</span></span>
 
--  <span data-ttu-id="f38f9-106">Partner Center</span><span class="sxs-lookup"><span data-stu-id="f38f9-106">Partner Center</span></span>
+-  <span data-ttu-id="3c8a3-106">Partner Center</span><span class="sxs-lookup"><span data-stu-id="3c8a3-106">Partner Center</span></span>
 
-<span data-ttu-id="f38f9-107">Quando você configura assinaturas de serviços Microsoft para seus clientes, convém atribuir o suporte técnico desses produtos a um revendedor designado, em vez de fornecer o suporte por conta própria.</span><span class="sxs-lookup"><span data-stu-id="f38f9-107">When you set up subscriptions for Microsoft services for your customers, you may want to assign the technical support for these products to a designated reseller, rather than providing the support yourself.</span></span>
+<span data-ttu-id="3c8a3-107">Quando você configura assinaturas de serviços Microsoft para seus clientes, convém atribuir o suporte técnico desses produtos a um revendedor designado, em vez de fornecer o suporte por conta própria.</span><span class="sxs-lookup"><span data-stu-id="3c8a3-107">When you set up subscriptions for Microsoft services for your customers, you may want to assign the technical support for these products to a designated reseller, rather than providing the support yourself.</span></span>
 
-<span data-ttu-id="f38f9-108">Depois de configurar o suporte a contatos, os clientes veem informações do seu contato de suporte atribuído nas páginas de suporte do produto.</span><span class="sxs-lookup"><span data-stu-id="f38f9-108">After you set up support contacts, customers see your assigned support contact's information on the product support pages.</span></span> <span data-ttu-id="f38f9-109">Por exemplo, quando os clientes do Office 365 precisarem de suporte, eles podem ir para a página Office.com, fazer logon com suas credenciais de administrador, selecionar o bloco **Admin** e, na seção **Suporte**, consultar o suporte atribuído a informações de contato.</span><span class="sxs-lookup"><span data-stu-id="f38f9-109">For example, when Office 365 customers need support, they can go into the Office.com page, log in with their admin credentials, select the **Admin** tile, and under the **Support** section, see the assigned support contact information.</span></span>
+<span data-ttu-id="3c8a3-108">Depois de configurar o suporte a contatos, os clientes veem informações do seu contato de suporte atribuído nas páginas de suporte do produto.</span><span class="sxs-lookup"><span data-stu-id="3c8a3-108">After you set up support contacts, customers see your assigned support contact's information on the product support pages.</span></span> <span data-ttu-id="3c8a3-109">Por exemplo, quando os clientes do Office 365 precisarem de suporte, eles podem ir para a página Office.com, fazer logon com suas credenciais de administrador, selecionar o bloco **Admin** e, na seção **Suporte**, consultar o suporte atribuído a informações de contato.</span><span class="sxs-lookup"><span data-stu-id="3c8a3-109">For example, when Office 365 customers need support, they can go into the Office.com page, log in with their admin credentials, select the **Admin** tile, and under the **Support** section, see the assigned support contact information.</span></span>
 
-<span data-ttu-id="f38f9-110">Isso pode ser usado para cenários de [multi-parceiros](multipartner.md) e [multi-canais](multichannel.md).</span><span class="sxs-lookup"><span data-stu-id="f38f9-110">This can be used for [multi-partner](multipartner.md) and [multi-channel](multichannel.md) scenarios.</span></span> 
+<span data-ttu-id="3c8a3-110">Isso pode ser usado para cenários de [multi-parceiros](multipartner.md) e [multi-canais](multichannel.md).</span><span class="sxs-lookup"><span data-stu-id="3c8a3-110">This can be used for [multi-partner](multipartner.md) and [multi-channel](multichannel.md) scenarios.</span></span> 
 
 <a href="" id="assigncontacts"></a>
-## <a name="assign-contacts"></a><span data-ttu-id="f38f9-111">Atribuir contatos</span><span class="sxs-lookup"><span data-stu-id="f38f9-111">Assign contacts</span></span>
+## <a name="assign-contacts"></a><span data-ttu-id="3c8a3-111">Atribuir contatos</span><span class="sxs-lookup"><span data-stu-id="3c8a3-111">Assign contacts</span></span>
 
-1.  <span data-ttu-id="f38f9-112">Comece por [solicitar uma relação](request-a-relationship-with-a-customer.md) com seu revendedor de produto designado.</span><span class="sxs-lookup"><span data-stu-id="f38f9-112">Start by [requesting a relationship](request-a-relationship-with-a-customer.md) with your designated product reseller.</span></span> <span data-ttu-id="f38f9-113">Negocie um contrato de suporte com eles para lidar com suporte técnico.</span><span class="sxs-lookup"><span data-stu-id="f38f9-113">Negotiate a support agreement with them for handling technical support.</span></span>
+1.  <span data-ttu-id="3c8a3-112">Comece por [solicitar uma relação](request-a-relationship-with-a-customer.md) com seu revendedor de produto designado.</span><span class="sxs-lookup"><span data-stu-id="3c8a3-112">Start by [requesting a relationship](request-a-relationship-with-a-customer.md) with your designated product reseller.</span></span> <span data-ttu-id="3c8a3-113">Negocie um contrato de suporte com eles para lidar com suporte técnico.</span><span class="sxs-lookup"><span data-stu-id="3c8a3-113">Negotiate a support agreement with them for handling technical support.</span></span>
 
-2.  <span data-ttu-id="f38f9-114">No menu **Partner Center** , selecione **os clientes**, em seguida, selecione um cliente e selecione uma assinatura, por exemplo, o Office 365 Business Premium.</span><span class="sxs-lookup"><span data-stu-id="f38f9-114">From the **Partner Center** menu, select **Customers**, then select a customer, then select a subscription, for example, Office 365 Business Premium.</span></span>
+2.  <span data-ttu-id="3c8a3-114">Dos **Partner Center** menu, selecione **clientes**, em seguida, selecione um cliente e selecione uma assinatura, por exemplo, o Office 365 Business Premium.</span><span class="sxs-lookup"><span data-stu-id="3c8a3-114">From the **Partner Center** menu, select **Customers**, then select a customer, then select a subscription, for example, Office 365 Business Premium.</span></span>
 
-3.  <span data-ttu-id="f38f9-115">Em **Contato de suporte designado**, selecione o revendedor de produto designado e, em seguida, clique em **Enviar**.</span><span class="sxs-lookup"><span data-stu-id="f38f9-115">In  **Designated support contact**, select the designated product reseller, and then click **Submit**.</span></span> 
+3.  <span data-ttu-id="3c8a3-115">Em **Contato de suporte designado**, selecione o revendedor de produto designado e, em seguida, clique em **Enviar**.</span><span class="sxs-lookup"><span data-stu-id="3c8a3-115">In  **Designated support contact**, select the designated product reseller, and then click **Submit**.</span></span> 
 
-    <span data-ttu-id="f38f9-116">Observações:</span><span class="sxs-lookup"><span data-stu-id="f38f9-116">Notes:</span></span> 
+    <span data-ttu-id="3c8a3-116">Observações:</span><span class="sxs-lookup"><span data-stu-id="3c8a3-116">Notes:</span></span> 
     
-    *  <span data-ttu-id="f38f9-117">Para novas assinaturas, o suporte designado usa padrões para o provedor indireto.</span><span class="sxs-lookup"><span data-stu-id="f38f9-117">For new subscriptions, the designated support contact defaults to the indirect provider.</span></span> <span data-ttu-id="f38f9-118">Você também pode alterar isso para um revendedor indireto que tem privilégios de administrador de delegação (DAP).</span><span class="sxs-lookup"><span data-stu-id="f38f9-118">You can also change this to an indirect reseller that has delegation admin privileges.</span></span>
+    *  <span data-ttu-id="3c8a3-117">Para novas assinaturas, o suporte designado usa padrões para o provedor indireto.</span><span class="sxs-lookup"><span data-stu-id="3c8a3-117">For new subscriptions, the designated support contact defaults to the indirect provider.</span></span> <span data-ttu-id="3c8a3-118">Você também pode alterar isso para um revendedor indireto que tem privilégios de administrador de delegação (DAP).</span><span class="sxs-lookup"><span data-stu-id="3c8a3-118">You can also change this to an indirect reseller that has delegation admin privileges.</span></span>
     
-    *  <span data-ttu-id="f38f9-119">Se o nome do revendedor não aparecer na lista de contatos de suporte disponível, adicione-o nela por [solicitação de uma relação](request-a-relationship-with-a-customer.md).</span><span class="sxs-lookup"><span data-stu-id="f38f9-119">If your reseller's name doesn't appear in the list of available support contacts, add them in by [requesting a relationship](request-a-relationship-with-a-customer.md).</span></span> <span data-ttu-id="f38f9-120">Depois que a relação for estabelecida, eles devem aparecer na lista.</span><span class="sxs-lookup"><span data-stu-id="f38f9-120">After the relationship is established, they should appear in the list.</span></span>  
+    *  <span data-ttu-id="3c8a3-119">Se o nome do revendedor não aparecer na lista de contatos de suporte disponível, adicione-o nela por [solicitação de uma relação](request-a-relationship-with-a-customer.md).</span><span class="sxs-lookup"><span data-stu-id="3c8a3-119">If your reseller's name doesn't appear in the list of available support contacts, add them in by [requesting a relationship](request-a-relationship-with-a-customer.md).</span></span> <span data-ttu-id="3c8a3-120">Depois que a relação for estabelecida, eles devem aparecer na lista.</span><span class="sxs-lookup"><span data-stu-id="3c8a3-120">After the relationship is established, they should appear in the list.</span></span>  
 
-4.  <span data-ttu-id="f38f9-121">Analise que as alterações estão corretas e, em seguida, selecione **Fechar**.</span><span class="sxs-lookup"><span data-stu-id="f38f9-121">Review that the changes are correct, and then select **Close**.</span></span>
+4.  <span data-ttu-id="3c8a3-121">Analise que as alterações estão corretas e, em seguida, selecione **Fechar**.</span><span class="sxs-lookup"><span data-stu-id="3c8a3-121">Review that the changes are correct, and then select **Close**.</span></span>
 
-## <a name="related-topics"></a><span data-ttu-id="f38f9-122">Tópicos relacionados</span><span class="sxs-lookup"><span data-stu-id="f38f9-122">Related topics</span></span>
+## <a name="related-topics"></a><span data-ttu-id="3c8a3-122">Tópicos relacionados</span><span class="sxs-lookup"><span data-stu-id="3c8a3-122">Related topics</span></span>
 
-[<span data-ttu-id="f38f9-123">Remover uma relação com um cliente</span><span class="sxs-lookup"><span data-stu-id="f38f9-123">Remove a relationship with a customer</span></span>](remove-a-relationship.md)
+[<span data-ttu-id="3c8a3-123">Remover uma relação com um cliente</span><span class="sxs-lookup"><span data-stu-id="3c8a3-123">Remove a relationship with a customer</span></span>](remove-a-relationship.md)

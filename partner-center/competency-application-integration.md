@@ -3,20 +3,20 @@ title: Competência de integração de aplicativos
 ms.topic: article
 ms.date: 10/29/2018
 description: A competência de integração de aplicativos reconhece parceiros e desenvolvedores que integram aplicativos exclusivos e soluções em diversos produtos no ecossistema da Microsoft.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: competência, competências, integração de aplicativos
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 5acf238ddb323e7031253e5b9176b8ac6841c0ec
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 988274508a65bafdf3789e71fa2bd3ad278c7065
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797309"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584059"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="a115e-104">Para saber sobre os requisitos para obtenção esta competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="a115e-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="e3bbc-104">Para saber mais sobre os requisitos para obter essa competência, visite o [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="e3bbc-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 
