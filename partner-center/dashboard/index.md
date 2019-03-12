@@ -1,22 +1,19 @@
 ---
 layout: HubPage
 hide_bc: true
-title: Documentação de serviços de painel para desenvolvedores e parceiros
-description: Se você entra no painel para publicar aplicativos, obter dados dos aplicativos da área de trabalho, obter certificação de hardware, publicar drivers no Windows Update ou realizar transações como revendedor, esta documentação é para você.
-author: v-chmccl
+title: Documentação do desenvolvedor e dos serviços do Partner Center
+ms.date: 10/29/2018
+description: 'Se você entra no Partner Center para publicar aplicativos, obter dados para os aplicativos da área de trabalho, obter certificação de hardware, publicar drivers no Windows Update ou realizar transações como revendedor, esta documentação é para você.'
+author: LauraBrenner
+ms.author: labrenne
 ms.topic: hub-page
 searchScope: []
-ms.openlocfilehash: 28b65a154611020de02ceb15145fcf6271d34df3
-ms.sourcegitcommit: 052c3a98216ad30a27fcd813de740fb54e8d8da7
-ms.translationtype: HT
-ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2018
-ms.locfileid: "1978553"
 ---
+
 <div id="main" class="v2">
     <div class="container">
-        <h1>Documentação de serviços de painel</h1>
-        <p>Se você usa o painel para publicar aplicativos e jogos, obter dados dos aplicativos da área de trabalho, obter certificação de hardware, publicar drivers no Windows Update ou realizar transações como revendedor, esta documentação é para você.</p>
+        <h1>Documentação de serviços do Partner Center</h1>
+        <p>Se você usa o Partner Center para publicar aplicativos e jogos, obter dados para os aplicativos da área de trabalho, obter certificação de hardware, publicar drivers no Windows Update ou realizar transações como revendedor, esta documentação é para você.</p>
         <ul class="pivots" style="list-style:none;margin:0;">
             <li>
                 <a href="#products"></a>
@@ -36,7 +33,7 @@ ms.locfileid: "1978553"
                                                 </div>
                                                 <div class="cardText">
                                                     <h3>Desenvolvedores de aplicativos e jogos do Windows</h3>
-                                                    <p>Publique seus aplicativos e jogos na Microsoft Store. Encontre maneiras de alcançar mais clientes, melhorar sua produtividade, e promover e monetizar seus produtos.</p>
+                                                    <p>Publique seus aplicativos e jogos na Microsoft Store. Encontre maneiras de alcançar mais clientes e melhorar sua produtividade, além de promover e monetizar seus produtos.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -55,7 +52,7 @@ ms.locfileid: "1978553"
                                                 </div>
                                                 <div class="cardText">
                                                     <h3>Desenvolvedores de aplicativos da área de trabalho</h3>
-                                                    <p>Saiba como obter dados de telemetria detalhados e relatórios de análise para ver o desempenho dos seus aplicativos da área de trabalho.</p>
+                                                    <p>Saiba como obter relatórios de análise e dados de telemetria detalhados para ver como está o desempenho dos seus aplicativos da área de trabalho.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -92,8 +89,8 @@ ms.locfileid: "1978553"
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>Parceiros CSP e MPN</h3>
-                                                    <p>Saiba como usar o painel para criar, gerenciar e expandir sua empresa de revenda e parceria da Microsoft.</p>
+                                                    <h3>CSP e parceiros do MPN</h3>
+                                                    <p>Saiba como usar o Partner Center para criar, gerenciar e expandir seu negócio de revenda e a parceria com a Microsoft.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -111,8 +108,8 @@ ms.locfileid: "1978553"
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>APIs e SDKs de desenvolvedor</h3>
-                                                    <p>Use APIs para integrar o cliente, os pedidos, a cobrança e os sistemas de suporte com o Painel de Parceiros da Microsoft.</p>
+                                                    <h3>SDKs e APIs do desenvolvedor</h3>
+                                                    <p>Use APIs para integrar clientes, pedidos, cobranças e sistemas de suporte ao Partner Center da Microsoft.</p>
                                                 </div>
                                             </div>
                                         </div>

@@ -4,8 +4,8 @@ hide_bc: true
 title: Comece aqui para obter ajuda com o Partner Center
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: "Partner Center pode ajudar você a expandir seus negócios no programa provedor de soluções de nuvem da Microsoft (CSP). Configurar sua conta, conectar-se com clientes, comprar uma assinatura do Action Pack e encontrar mais informações para parceiros nos programas CSP e MPN.\_"
-author: labrenne
+description: "O Partner Center pode ajudar você a expandir seu negócio no programa de CSP (Provedor de Soluções na Nuvem) da Microsoft. Configure sua conta, conecte-se com clientes, compre uma assinatura do Action Pack e encontre mais informações para parceiros nos programas de CSP e MPN.\_"
+author: LauraBrenner
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
@@ -13,7 +13,7 @@ ms.localizationpriority: medium
 
 # <a name="welcome-to-partner-center"></a>Bem-vindo ao Partner Center
 
-Microsoft Partner Center é o único local para gerenciar sua relação de ponta a ponta com a Microsoft. Ele tem ferramentas e recursos para ajudá-lo a fazer transações e expandir seus negócios, incluindo opções de associação, indicações de cliente e o programa de provedor de soluções na nuvem (CSP). Saiba mais sobre as práticas recomendadas para gerenciar sua conta, conectando-se com clientes, comprar uma assinatura do Action Pack e se inscrever em um programa de incentivos na biblioteca de Ajuda do Partner Center.
+O Microsoft Partner Center é o local completo para o gerenciamento do seu relacionamento de ponta a ponta com a Microsoft. Ele oferece ferramentas e recursos para ajudar você a realizar transações e expandir seu negócio, incluindo opções de associação, indicações de cliente e o programa de CSP (Provedor de Soluções na Nuvem). Saiba mais sobre as práticas recomendadas para gerenciar sua conta, conectar-se com clientes, comprar uma assinatura do Action Pack e registrar-se em um programa de incentivos na biblioteca de ajuda do Partner Center.
 
 
 <ul id="products1" class="cardsF cols cols3 panelContent singlePanelContent">
@@ -28,8 +28,8 @@ Microsoft Partner Center é o único local para gerenciar sua relação de ponta
                     </div>
                     <div class="cardText">
                         <h3>Anúncios</h3>
-                        <p>Entre no painel do Partner Center para descobrir se atrase alterações significativas e notícias.</p>
-                        <p><a href="https://partner.microsoft.com/pcv/announcements"><b>Entre agora</b></a></p>
+                        <p>Entre no painel do Partner Center para saber as últimas notícias e alterações.</p>
+                        <p><a href="https://partner.microsoft.com/pcv/announcements"><b>Entrar agora</b></a></p>
                     </div>
                 </div>
             </div>
@@ -46,7 +46,7 @@ Microsoft Partner Center é o único local para gerenciar sua relação de ponta
                     </div>
                     <div class="cardText">
                         <h3>Yammer</h3>
-                        <p>Manter contato por meio de nossa comunidade do Yammer.</p>
+                        <p>Mantenha contato pela nossa comunidade do Yammer.</p>
                         <p><a href="https://go.microsoft.com/fwlink/p/?linkid=851605"><b>Ingresse na comunidade</b></a></p>
                     </div>
                 </div>
@@ -63,9 +63,9 @@ Microsoft Partner Center é o único local para gerenciar sua relação de ponta
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>API e o SDK do programa de usuários pioneiros</h3>
-                        <p>Obter acesso a workshops, novos recursos e o suporte de especialistas no assunto.</p>
-                        <p><a href="/partner-center/develop/early-adopter-program"><b>Comece agora</b></a></p>
+                        <h3>Programa de Usuário Pioneiro de API e SDK</h3>
+                        <p>Obtenha acesso a workshops, novos recursos e suporte de especialistas no assunto.</p>
+                        <p><a href="/partner-center/develop/early-adopter-program"><b>Introdução</b></a></p>
                     </div>
                 </div>
             </div>
@@ -74,15 +74,15 @@ Microsoft Partner Center é o único local para gerenciar sua relação de ponta
 </ul>
 
 <h2>Novidades</h2>
-<p>Obter as informações mais recentes sobre novos recursos, benefícios, ofertas e oportunidades para aumentar seus negócios.</p>
+<p>Obtenha as últimas informações sobre novos recursos, benefícios, ofertas e oportunidades para expandir seu negócio.</p>
 <ul id="products1" class="cardsZ cols cols3 panelContent singlePanelContent">
     <li>
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/software-assurance-lp">
-                        <h3>Programas de Software Assurance</h3>
-                        <p>Agora você pode se inscrever no treinamento do Software Assurance e serviços de implantação no Partner Center.</p></a>
+                        <h3>Programas do Software Assurance</h3>
+                        <p>Agora você pode se registrar no treinamento do Software Assurance e nos serviços de implantação no Partner Center.</p></a>
                     </div>
                 </div>
             </div>
@@ -93,8 +93,8 @@ Microsoft Partner Center é o único local para gerenciar sua relação de ponta
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/voucher-validation-tool">
-                        <h3>Ferramenta de validação de comprovantes e resgate</h3>
-                        <p>Declaração e resgatar comprovantes que dão suporte às necessidades de negócios e desenvolvimento dos seus clientes.</p></a>
+                        <h3>Ferramenta de Validação e Resgate de Comprovante</h3>
+                        <p>Solicite e resgate os comprovantes que dão suporte às necessidades de negócios e de desenvolvimento de seus clientes.</p></a>
                     </div>
                 </div>
             </div>
@@ -105,8 +105,8 @@ Microsoft Partner Center é o único local para gerenciar sua relação de ponta
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/responding-to-referrals#new-referrals">
-                        <h3>Gerenciar seus indicações de forma mais eficiente</h3>
-                        <p>Melhoramos como você pode revisar da RFI indicação e aceite ou recuse-los.</p></a>
+                        <h3>Gerencie suas indicações com mais eficiência</h3>
+                        <p>Melhoramos a maneira de revisar os RFIs de indicações e de aceitar ou recusá-los.</p></a>
                     </div>
                 </div>
             </div>
@@ -115,7 +115,7 @@ Microsoft Partner Center é o único local para gerenciar sua relação de ponta
 </ul>
 
 
-<h2>Trabalhar no Partner Center</h2>
+<h2>Trabalhando no Partner Center</h2>
 
 <ul id="products1" class="cardsC cols cols3 panelContent singlePanelContent">
     <li>
@@ -128,8 +128,8 @@ Microsoft Partner Center é o único local para gerenciar sua relação de ponta
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Inscrever-se</h3>
-                        <p><a href="/partner-center/mpn-create-a-partner-center-account">Criar uma conta</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">Gerenciar seu locatário e locais</a></p>
+                        <h3>Inscreva-se</h3>
+                        <p><a href="/partner-center/mpn-create-a-partner-center-account">Criar uma conta</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">Gerenciar seu locatário e seus locais</a></p>
                     </div>
                 </div>
             </div>
@@ -162,7 +162,7 @@ Microsoft Partner Center é o único local para gerenciar sua relação de ponta
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Ampliar seus negócios</h3>
+                        <h3>Amplie seus negócios</h3>
                         <p><a href="/partner-center/referrals">Perfis de negócios/indicações</a><br /><a href="/partner-center/promotions">Promoções</a><br /><a href="/partner-center/get-special-pricing-for-offers">Vender para setores especializados</a></p>
                     </div>
                 </div>
@@ -185,7 +185,7 @@ Microsoft Partner Center é o único local para gerenciar sua relação de ponta
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="/partner-center/mpn-get-action-pack">Baixar o Microsoft Action Pack (MAPS)</a></h3>
+                        <h3><a href="/partner-center/mpn-get-action-pack">Obter o MAPS (Microsoft Action Pack)</a></h3>
                     </div>
                 </div>
             </div>
@@ -201,7 +201,7 @@ Microsoft Partner Center é o único local para gerenciar sua relação de ponta
                         </div>
                     </div>                
                     <div class="cardText">
-                        <h3><a href="/partner-center/develop/">Referência de API/SDK do Centro de parceiro</a></h3>
+                        <h3><a href="/partner-center/develop/">Referência de API/SDK do Partner Center</a></h3>
                     </div>
                 </div>
             </div>
@@ -217,7 +217,7 @@ Microsoft Partner Center é o único local para gerenciar sua relação de ponta
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx">Não é um parceiro? Participe do Microsoft Partner Network agora.</a></h3>
+                        <h3><a href="https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx">Você ainda não é parceiro? Ingresse no Microsoft Partner Network agora mesmo.</a></h3>
                     </div>
                 </div>
             </div>
