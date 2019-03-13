@@ -17,7 +17,7 @@
         "files": [
           "**/*.png",
           "**/*.jpg",
-		  "**/*.pdf"
+          "**/*.pdf"
         ],
         "exclude": [
           "**/obj/**",
@@ -29,10 +29,17 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "uhfHeaderId": "MSDocsHeader-PartnerChina"
-      },
+      "uhfHeaderId": "MSDocsHeader-PartnerChina",
+      "_op_documentIdPathDepotMapping": {
+        "./": {
+          "depot_name": "Azure.partner-china-redirect",
+          "folder_relative_path_in_docset": "./"
+        }
+      }          
+    },
     "fileMetadata": {},
     "template": [],
-    "dest": "partner-china"
+    "dest": "partner-china",
+    "markdownEngineName": "markdig"
   }
 }
