@@ -1,1 +1,46 @@
-
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.md"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "partner-china/**",
+          "**/includes/**"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.jpg",
+          "**/*.pdf"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "partner-china/**",
+          "**/includes/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "bilingual_type": "hover over",
+      "uhfHeaderId": "MSDocsHeader-PartnerChina",
+      "_op_documentIdPathDepotMapping": {
+        "./": {
+          "depot_name": "Azure.partner-china-redirect",
+          "folder_relative_path_in_docset": "./"
+        }
+      }          
+    },
+    "fileMetadata": {},
+    "template": [],
+    "dest": "partner-china",
+    "markdownEngineName": "markdig"
+  }
+}
