@@ -41,7 +41,8 @@
   ],
   "branches_to_filter": [
     "live",
-    "live-sxs"
+    "master",
+    "master-sxs"
   ],
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
