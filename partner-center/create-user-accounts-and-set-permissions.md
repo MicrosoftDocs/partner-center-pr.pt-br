@@ -8,18 +8,14 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: funções, permissões, adicionam o usuário, atribuir função, admin, agente,
 ms.localizationpriority: medium
-ms.openlocfilehash: dcdf7d11d90acffd4a9302ce37bd56de3a242d60
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: a314a3c551b360eb777bd0db180388aa85f2e7f8
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583809"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682454"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Criar contas de usuário e atribuir permissões
-
-**Aplica-se a**
-
--  Partner Center
 
 Crie contas de usuário para os funcionários que precisam acessar o Centro de parceiros. Essas tarefas devem ser realizadas pelo administrador de gerenciamento de usuários, pelo administrador de contas ou pelo administrador global. 
 
@@ -44,27 +40,38 @@ O usuário precisará entrar no Centro de parceiros com seu nome de usuário e s
 > [!NOTE]  
 >  Se o seu administrador global deixou a organização ou mudou de função e houver a necessidade de adicionar um novo administrador global, você terá que fazer uma solicitação de serviço no [portal MPN](https://partner.microsoft.com/support). O agente de suporte poderá solicitar a promoção de um usuário a administrador global se seu solicitante for capaz de fornecer as informações de identidade pessoal requisitadas e informações adicionais sobre a sua organização.
 
-## <a name="assign-user-permissions"></a>Atribuir permissões de usuário
+## <a name="assign-user-roles"></a>Atribuir funções de usuário
 
-O acesso do Partner Center é baseado em função. As permissões que você atribuir a um usuário personalizam o modo de exibição do usuário para mostrar somente os recursos de que o usuário precisa para concluir suas tarefas específicas. 
-
-Para trabalhar no Partner Center, você deve ter uma função atribuída.  Há dois tipos gerais de funções: Os administradores e agentes.
-
-- Permissões de administrador controlam o nível de acesso do usuário aos recursos do Partner Center. Essa configuração não tem impacto fora do Partner Center – um administrador de cobrança pode acessar listas para todos os serviços da Microsoft (mesmo aqueles não relacionado ao CSP) e um administrador global pode acessar as contas de usuário e contas de clientes, bem além do CSP.
-
-- As permissões de agente controlam quais tipos de dados de cliente e informações de conta que o usuário pode ver e alterar.
-    
-As categorias gerais de funções são: 
-- Funções de administrador
-- Funções de agente
-- Funções de incentivos
-- Funções de indicação e marketing
-
-
-Dentro de cada uma dessas categorias gerais, um usuário pode ter apenas uma função, mas o mesmo usuário também pode ter funções nas outras categorias gerais. 
+Para trabalhar no Partner Center, você deve ter uma função atribuída.  Atualmente, as funções incluem funções de locatário do Active Directory do Azure, funções de provedor de solução de nuvem (CSP) e funções de empresa não AAD. Uma empresa individual pode ter uma necessidade de todas essas funções.
 
 >[!Important]
 >Indivíduos devem estar listados em seu locatário acesse o Partner Center. As atribuições de função fornecem acesso adicional.
+
+
+**As funções de locatário do AAD incluem**:
+- Administração global
+- Usuário administrador
+
+**As funções CSP incluem**:
+- Agente administrador
+- Administrador de cobrança
+- Agente de vendas
+- Agente de suporte técnico
+
+**Funções que gerenciam a associação do MPN e a empresa (não-AAD)**
+- Administrador de parceiros do MPN
+- Administrador da conta
+- Administrador de indicações
+- Administrador de perfis de negócios
+- Incentivos administrador e usuário
+
+**Fornecedor do painel de controle é uma função de CSP e não-AAD**.
+- Administração global
+
+**Usuário convidado** devem fazer parte do locatário do AAD e pode ter qualquer função não AAD.
+
+Para obter informações específicas sobre as funções e sobre o que cada uma pode fazer, consulte [Atribuir permissões de usuário](permissions-overview.md).
+
 
 
 ### <a name="find-your-global-admin"></a>Localize o administrador global
@@ -72,7 +79,7 @@ Dentro de cada uma dessas categorias gerais, um usuário pode ter apenas uma fun
 Às vezes, talvez seja necessário que um usuário tem sua função alterada ou um novo usuário pode uma atribuição de função específica.  
 Para localizar um administrador global que pode fazer alterações de função ou atribuir funções a um novo usuário, a partir o **ícone de configurações** na parte superior direita do Partner Center, selecione **gerenciamento de usuário** e filtro de administrador global. 
 
-Para obter informações específicas sobre as funções e sobre o que cada uma pode fazer, consulte [Atribuir permissões de usuário](permissions-overview.md).
+
 
 
 

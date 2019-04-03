@@ -1,17 +1,17 @@
 ---
 title: Parceria com revendedores indiretos no CSP | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/29/2019
 description: Como um provedor indireto ou distribuidor, você pode estabelecer uma parceria com revendedores indiretos para expandir seu alcance.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 471445521361630ec73ae7490fa363d1bbf19284
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 0eb5afdf04655e52fe493d9039d4aa11fbca5a4b
+ms.sourcegitcommit: 29dd7a49981f998800279ee9f8c489a0e41fb371
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584369"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "58656387"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Faça parceria com revendedores indiretos no programa Provedor de Soluções na Nuvem
 
@@ -86,16 +86,7 @@ Para assinaturas existentes, se você optar por trabalhar com um revendedor indi
 | Dê ao revendedor crédito para incentivos | Associar o revendedor à assinatura (nova ou existente) | Na página **Nova inscrição** |
 | Delegar atendimento ao cliente para assinaturas específicas ao revendedor | Selecione o revendedor da lista **Contato de suporte designados** | Na página de detalhes da assinatura: Selecione o cliente de sua **clientes** página e, em seguida, selecione a assinatura a partir do cliente **assinaturas** página |
 
-Hoje em dia, provedores indiretos podem usar o painel da Central de parceiro para fazer pedido e, opcionalmente, selecione um revendedor indireto, como o PartnerOnRecord. Se eles não fizerem um revendedor indireto, podemos tratar isso como uma transação de camada 1 e incentivize como tal, o provedor indireto. Se eles escolhem um, podemos tratar a ordem como transações de camada 2 e incentivize o provedor indireto e revendedores indiretos adequadamente:
 
- 
-
-Também há uma experiência em que um provedor indireto também pode atualizar o PartnerOnRecord para as assinaturas existentes:
-
- 
-
-Você sabe se temos documentação existente sobre como indireta provedores devem gerenciar o PartnerOnRecord definindo por favor?
-O motivo pelo qual isso é porque parece haver um grande conjunto significativo de transações de camada 2 que não foram configurados corretamente por provedores indiretos, resultando em pagamento incentivo incorreto. Passar do tempo, os parceiros percebeu isso e iniciado contatando a Microsoft para obter um backpay no incentivo. Se não há cobertura de documentação nessa área, eu gostaria de obter sua ajuda para juntar uma.
 
 
 

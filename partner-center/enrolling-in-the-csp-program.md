@@ -1,17 +1,17 @@
 ---
 title: Inscrever-se no programa Provedor de Soluções na Nuvem | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/20/2019
 description: Conheça os diferentes modelos de venda no CSP e decida qual deles funciona melhor para sua empresa
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: be6d8c7f1dba4fb332cd0a1313ea4560dbdf0362
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 48dbb30558b635a4a87b9d952897e61ec6451a5c
+ms.sourcegitcommit: 9bf271e05d7114e4c954a8102471b74323a3dafc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586129"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "58320729"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscrever-se no programa Provedor de Soluções na Nuvem
 
@@ -19,44 +19,43 @@ ms.locfileid: "57586129"
 
 - Programa Provedor de Soluções na Nuvem  
 
-
 ## <a name="get-started"></a>Introdução
 
 A demanda crescente por serviços e soluções baseadas em nuvem oferece muitas oportunidades para os parceiros da Microsoft de todos os tamanhos para criar empresas de solução em nuvem rentáveis. Os parceiros que estão prontos para se inserir no mercado, mas que não querem gerenciar vários fornecedores ou que podem não ter uma infraestrutura de cobrança e suporte de cliente de ponta a ponta, podem inscrever-se no programa de provedor de soluções na nuvem (CSP) da Microsoft como revendedores indiretos.
 
 Para se inscrever no programa Provedor de Soluções na Nuvem, primeiramente, é necessário ter uma ID do MPN. Ainda não tiver uma? Registre-se [aqui](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=).
 
-Quando você preenche o aplicativo do CSP, você precisará sua ID do MPN, endereço de negócios completa, informações bancárias e o email de trabalho para o funcionário que atuará como o administrador do Partner Center.
+Para concluir o aplicativo do CSP, você precisará MPN ID da sua empresa, endereço de negócios completa, informações bancárias e o email de trabalho para o funcionário que atuará como o administrador do Partner Center.
 
-1. Entrar no Centro de parceiros com seu email de trabalho (credenciais de locatário do AAD)
+1. Entrar no Centro de parceiros com seu email de trabalho (ou seja, suas credenciais de locatário do Azure AD).
 
-2. Criar o perfil do parceiro e associar sua id do MPN ao seu perfil.
+2. Criar o perfil do parceiro e associar sua ID do MPN ao seu perfil.
 Pode levar vários dias para analisarmos e verificarmos as informações fornecidas por você. Enviaremos um email quando concluirmos nossa análise.
 
 3. Depois de verificar suas informações, aceite o contrato de termos de revendedor indireta de Microsoft.
 
 > [!IMPORTANT]  
-> No momento, um parceiro CSP não pode revender serviços online para outro parceiro CSP. Essa restrição se aplica somente ao locatário usado para a realização de transações CSP. Parceiros CSP que usem um locatário não csp para seus negócios corporativos podem comprar serviços online no outro parceiro CSP. A Microsoft examina continuamente as políticas e os recursos de todos os programas. Qualquer notícias sobre lançamentos de recursos serão anunciadas por meio dos canais de comunicação comum incluindo [Partner Center](https://partner.microsoft.com/en-us/pcv/announcements).
+> Um parceiro no programa CSP não pode revender serviços on-line para o outro parceiro no programa CSP no momento. A Microsoft analisa continuamente as políticas e os recursos de todos os programas. Qualquer notícias sobre lançamentos de recursos ou alterações de política serão anunciadas por meio dos canais de comunicação comum, incluindo [anúncios do Partner Center](https://partner.microsoft.com/en-us/pcv/announcements).
 
-### <a name="find-an-indirect-provider"></a>Encontrar um provedor indireto
+## <a name="enroll-as-an-indirect-reseller"></a>Inscrever-se como um revendedor indireto
 
-Como um revendedor indireto no CSP, você trabalha com provedores indiretos (também conhecidos como distribuidores), que têm uma relação direta com a Microsoft e podem fornecer suporte e cobrança ao cliente. Isso significa que você não precisa começar por conta própria e, em vez disso, pode trabalhar com um provedor de tecnologia experiente para ajudar a garantir seu sucesso. No modelo de revendedor de provedor (duas camadas), o provedor compra soluções na nuvem e serviços Microsoft que você revende aos clientes.
+Se você estiver registrando no programa como um revendedores indiretos CSP, você não compra produtos diretamente do ou ser faturada diretamente pela Microsoft. Em vez disso, você trabalhará com provedores indiretos (também conhecido como distribuidores) que diretamente com a Microsoft.
 
-Diferentes provedores indiretos oferecem suporte e serviços diferentes, portanto, você deve avaliar os provedores na sua região para determinar quais deles atendem melhor às suas necessidades. Em geral, a maioria dos provedores irá: 
+Em parceria com um provedor indireto significa que você não precisa ter a infraestrutura no local para a entrada no mercado ou para comprar diretamente da Microsoft, mas em vez disso, pode trabalhar com um provedor de tecnologia experiente para ajudar a garantir seu sucesso. No modelo de revendedor do provedor, o provedor de compra de soluções de nuvem e serviços da Microsoft e depende de você implantar e os produtos de serviço.
 
-• Fornecer assistência e treinamento técnico
+Diferentes provedores indiretos oferecem suporte e serviços diferentes, portanto, você deve avaliar os provedores na sua região para determinar quais deles atendem melhor às suas necessidades. Em geral, a maioria dos provedores irá:
 
-• Ajuda comercializar seus produtos e serviços 
+- Fornecer treinamento e assistência técnica
 
-• Ajudam você a estabelecer os termos de financiamento e crédito
+- Ajudar a comercializar seus produtos e serviços
+
+- Ajudar a estabelecer termos de financiamento e crédito
 
 Se você não estiver trabalhando com um provedor (também conhecido como um distribuidor), você pode [pesquisar a lista de provedores de Microsoft oficiais](https://partnercenter.microsoft.com/partner/find-a-provider) para encontrar um.
 
-Para saber mais sobre o que é necessário para venda no programa CSP, como um revendedor indireto, consulte [Começar como um revendedor indireto](https://partner.microsoft.com/cloud-solution-provider/whats-required) no [site Microsoft Partner Network](https://partner.microsoft.com/). 
+Para obter mais informações sobre o que é necessário para participar do programa CSP como um revendedor indireto, consulte [comece a usar como um revendedor indireto](https://partner.microsoft.com/cloud-solution-provider/whats-required) sobre o [site Microsoft Partner Network](https://partner.microsoft.com/). 
 
-
-
-### <a name="enroll-as-a-direct-bill-partner"></a>Registrar como um parceiro de cobrança direta
+## <a name="enroll-as-a-direct-bill-partner"></a>Registrar como um parceiro de cobrança direta
 
 Como parceiro direto de fatura, você possui o relacionamento de ponta a ponta com o cliente e com a Microsoft. Atualizamos os requisitos de registro para os parceiros de fatura direta a partir de 31 de agosto de 2018. Esses novos requisitos ajudarão você a acelerar o desenvolvimento dos seus negócios com o modelo de inscrição no CSP e fortalecer seu relacionamento com os clientes com serviços e suporte de valor agregado. 
 
@@ -66,23 +65,28 @@ Como parceiro direto de fatura, você possui o relacionamento de ponta a ponta c
 |--------------------------------|--------------------------------------------------------------|
 |**ID DO MPN**   |Uma ID do Microsoft Partner Network (MPN) ativa para o local de sua empresa.    |
 |**Endorsement**   |A autoridade de aceitar e assinar contratos legais em nome de sua organização.|
-|**Suporte**   |A capacidade de fornecer o primeiro nível de produto em nuvem dão suporte aos seus clientes. Um plano de suporte da Microsoft, seja o Suporte Avançado para Parceiros (ASfP) ou o Suporte Premier para Parceiros (PSfP), dependendo das necessidades de suporte de seus clientes. [Compare os planos de suporte](https://partner.microsoft.com/en-US/support/partnersupport). |
+|**Suporte**   |A capacidade de fornecer o primeiro nível de produto em nuvem dão suporte aos seus clientes. <br>Um plano de suporte da Microsoft, seja o Suporte Avançado para Parceiros (ASfP) ou o Suporte Premier para Parceiros (PSfP), dependendo das necessidades de suporte de seus clientes. [Compare os planos de suporte](https://partner.microsoft.com/en-US/support/partnersupport).<br> IMPORTANTE: Você deve passar uma verificação de crédito antes de adquirir um plano de suporte. Enviaremos um email a você quando você passou a verificação de crédito. |
 |**Serviço gerenciado**   |Pelo menos um serviço gerenciado, serviço IP ou aplicativo de solução de cliente. Saiba mais sobre como adicionar [serviços gerenciados](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider).|
-|**Contas a receber** |A infraestrutura organizacional no local para gerenciar a cobrança e o provisionamento do cliente. 
+|**Contas a receber** |A infraestrutura organizacional no local para gerenciar a cobrança e o provisionamento do cliente.
 
+### <a name="verify-direct-bill-eligibility"></a>Verificar qualificação de fatura direto
 
-Depois de examinar os requisitos mínimos acima, você deve preencher um questionário de validação rápida para confirmar sua qualificação. 
+Se você ainda não fez isso, examine os requisitos mínimos acima para certificar-se de que pode atender às e conclusão o [questionário de provedor de soluções de nuvem](https://partner.microsoft.com/cloud-solution-provider/assessment).
 
-[Questionário de provedor de soluções de nuvem](https://partner.microsoft.com/cloud-solution-provider/assessment)
+Usamos suas respostas às perguntas na forma para nos ajudar a determinar sua qualificação para registrar-se no programa CSP como um parceiro de cobrança direta.
 
-Avaliação do questionário determina sua elegibilidade para registrar-se no programa CSP direto de fatura. Depois de confirmar, por meio de questionário que atendem aos critérios de fatura direto e ter enviado o formulário de registro, executamos uma análise de negócios da sua empresa, incluindo uma verificação de crédito. Se você for um crédito aprovado, você precisará confirmar a compra de um ASfP ou PSfP plano e, finalmente, aceite o contrato de termos de fatura direto para começar a transacionar com clientes como um parceiro de cobrança direta.
+Depois que podemos verificar que sua empresa atende os requisitos de qualificação para registrar como um parceiro de fatura direto, e você concluiu o aplicativo de registro, vamos examinar e verificar as informações de negócios fornecida no processo de registro. Como parte dessa revisão, vamos verificar o crédito de sua empresa. Informaremos você por email quando sua empresa tiver passado a verificação de crédito.
 
-Para obter informações sobre a transição de um parceiro da fatura direto para um revendedor indireto, leia [transição do provedor de solução de nuvem (CSP) direcionar o parceiro de cobrança para revendedores indiretos do CSP](transition-direct-to-indirect.md)
+>[!IMPORTANT]
+>Verificação de crédito de sua empresa pode levar vários dias ou mais para ser concluído. Durante esse tempo, é importante que você não pode adquirir um plano de suporte da Microsoft. Você deve adquirir um plano de suporte da Microsoft somente depois que podemos ter informado que você passou a verificação de crédito.
+
+### <a name="transition-from-direct-bill-to-indirect-reseller"></a>A transição da fatura direta para revendedores indiretos
+
+Como o programa CSP continua a evoluir e expandir, talvez você prefira participar como um revendedor indireto em vez de um parceiro de cobrança direta. Você pode fazer a transição seu locatário de fatura direto para o modelo de revendedor indireta no Partner Center.
+
+Ver [transição do provedor de solução de nuvem (CSP) direcionar o parceiro de cobrança para revendedores indiretos do CSP](transition-direct-to-indirect.md) para obter informações sobre a transição de um parceiro da fatura direto para um revendedor indireto.
 
 ## <a name="csp-regional-markets-and-currencies"></a>Moedas e mercados regionais do CSP
 
-Local da empresa determina seu mercado. Seu mercado inclui os países em que você pode vender ofertas CSP e/ou regiões. Ver os locais de colocação no mercado e moedas usadas no [mercados regionais do programa de provedor de soluções de nuvem e moedas](regional-authorization-overview.md)
-
-
-
+Local da empresa determina seu mercado. Seu mercado inclui os países em que você pode vender ofertas CSP e/ou regiões. Ver [provedor de soluções de nuvem programa regional mercados e moedas](regional-authorization-overview.md) para locais de colocação no mercado e moedas.
 

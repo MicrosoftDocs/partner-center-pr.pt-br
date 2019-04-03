@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ce9b7cd9ead08b7709c68a0e967d64e9f2a32bd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 9997b01c76dacb736baa33f458def0b820753f1d
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585129"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682504"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar os arquivos de reconciliação
 
@@ -642,7 +642,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 
 <tr class="odd">
 <td>AlternateID</td>
-<td><p>Um identificador alternativo para uma ID.</p></td>
+<td><p>Um identificador alternativo para uma ID de pedido.</p></td>
 </tr>
 </tbody>
 </table>

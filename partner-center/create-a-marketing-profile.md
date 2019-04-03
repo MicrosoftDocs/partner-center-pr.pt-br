@@ -1,19 +1,19 @@
 ---
 title: Criar um perfil de negócios | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/26/2019
 description: Crie um perfil de negócios no Partner Center para obter as oportunidades de vendas da Microsoft.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: pinpoint, indicações, oportunidades de venda, C2PC, perfil de negócios, comercializar sua empresa, localizar um parceiro, localizar um provedor de soluções, perfil de negócios, perfil de marketing
 ms.localizationpriority: medium
-ms.openlocfilehash: 26497b52702a1be6797a4d2e3b77d9ab0f73d47a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: a4931fa37b607d9e1d2921154e345f65250a6a20
+ms.sourcegitcommit: a7b7cd2d436003eed7fc9136146d061342b4677d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587329"
+ms.lasthandoff: 03/26/2019
+ms.locfileid: "58462510"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -38,25 +38,25 @@ A Microsoft envolve milhões de clientes a cada ano por meio de esforços de mar
 
 Para obter esses clientes em potencial, primeiramente você deve criar um perfil de negócios. Vamos mostrar seu perfil para os clientes que estejam procurando por parceiros que possam ajudá-los a implementar produtos e soluções da Microsoft, por meio de:
 
-*  **A experiência de pesquisa [Encontrar um provedor de soluções](https://partnercenter.microsoft.com/pcv/search)**. Os clientes em potencial podem pesquisar listas de parceiros por conta própria para localizar os parceiros que atendam aos critérios de pesquisa.
+- **A experiência de pesquisa [Encontrar um provedor de soluções](https://www.microsoft.com/solution-providers/home)**. Os clientes em potencial podem pesquisar listas de parceiros por conta própria para localizar os parceiros que atendam aos critérios de pesquisa.
 
-*  **Referências de vendas da Microsoft e funcionários de serviço**. Os clientes em potencial interessados na implantação de soluções de tecnologia com base em nuvem entram em contato com a Microsoft para ajudar a encontrar profissionais que podem atender às suas necessidades de negócios. Esses profissionais da Microsoft poderão então consultar os clientes em potencial para sua empresa.
+- **Referências de vendas da Microsoft e funcionários de serviço**. Os clientes em potencial interessados na implantação de soluções de tecnologia com base em nuvem entram em contato com a Microsoft para ajudar a encontrar profissionais que podem atender às suas necessidades de negócios. Esses profissionais da Microsoft poderão então consultar os clientes em potencial para sua empresa.
 
 > [!IMPORTANT]  
-> Para ajudar nossos parceiros para simplificar as operações de negócios, estamos consolidando recursos e funcionalidades que costumava ser distribuídos em vários sites e ferramentas no Partner Center, este site. Como parte desse esforço, nós movido todos os recursos relacionados a referências para o Centro de parceiros e desativado os sites e C2PC de Pinpoint. Se você usou o Pinpoint ou C2PC no passado para obter e gerenciar as referências da Microsoft, você precisará criar um novo perfil de negócios no Partner Center para continuar a obter referências. Nós não damos mais suporte a perfis desses sites. 
+> Para ajudarmos nossos parceiros a simplificar as operações de negócios, estamos consolidando recursos e funcionalidades que costumavam estar espalhados por vários sites e ferramentas no Partner Center, este site. Como parte desse esforço, movemos todos os recursos relacionados a indicações para o Partner Center e desativamos os sites Pinpoint e C2PC. Se você usava o Pinpoint ou o C2PC no passado para obter e gerenciar indicações da Microsoft, precisará criar um novo perfil de negócios no Partner Center para continuar a obter indicações. Nós não damos mais suporte a perfis desses sites. 
 
 ## <a name="create-a-profile"></a>Criar um perfil
 
 > [!NOTE]  
->  Antes de criar um perfil comercial, você deve ter uma conta no Partner Center. Se você ainda não tiver uma conta do Partner Center, consulte [Criar uma conta do Partner Center](mpn-create-a-partner-center-account.md) para obter ajuda para criar uma. 
+> Antes de criar um perfil comercial, você deve ter uma conta no Partner Center. Se você ainda não tiver uma conta do Partner Center, consulte [Criar uma conta do Partner Center](mpn-create-a-partner-center-account.md) para obter ajuda para criar uma. 
 
 Crie perfis para cada região na qual tenha autorização para fazer negócios. 
 
-1.  Dos **Partner Center** menu, selecione **referências** &gt; **perfis de negócios** &gt; selecione um país/região >  **[ Criar um perfil comercial](https://partnercenter.microsoft.com/pcv/publishing)**.
+1. Dos **Partner Center** menu, selecione **referências** &gt; **perfis de negócios** &gt; selecione um país/região >  **[ Criar um perfil comercial](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-2.  Na página **Criar um perfil de negócios**, selecione uma região e então insira as informações do seu perfil.
-    > [!NOTE]  
-    >  Enquanto o Partner Center dá suporte a vários idiomas, alguns elementos, como a descrição e marcas de forma livre, talvez seja necessário incluir o texto em linguagens diferentes, conforme indicado neste tópico.
+2. Na página **Criar um perfil de negócios**, selecione uma região e então insira as informações do seu perfil.
+   > [!NOTE]  
+   >  Enquanto o Partner Center dá suporte a vários idiomas, alguns elementos, como a descrição e marcas de forma livre, talvez seja necessário incluir o texto em linguagens diferentes, conforme indicado neste tópico.
 
 ### <a href="" id="partner_info"></a>Informações do parceiro
 
@@ -66,14 +66,14 @@ O logotipo pode ser um arquivo GIF, JPG ou PNG, com uma largura máxima de 300 p
 
 Sua descrição pode ter até 2500 caracteres. Dicas para uma ótima descrição: 
 
-*  **Ser breve**, liderar com o que é importante para a primeira ou segunda sentença. Isso deve ser o título que captura a atenção dos clientes. Na experiência Localizar um parceiro de pesquisa, mostramos a primeira ou segunda linha na visualização de resultados da pesquisa.
-*  **Concentre-se em experiências da sua empresa com ofertas específicas da Microsoft**. Os clientes procurando indicações geralmente procuram por parceiros com experiência específica da Microsoft.
-*  **Use marcadores**. Divida informações em listas com marcadores para torná-las mais fáceis de ler.
-*  **Evite jargão**. Use linguagem simples e do dia a dia, nomeie suas ofertas de acordo com o que elas fazem: a necessidade comercial à qual atendem, a tarefa ou o objetivo que elas ajudam os clientes a alcançar.
-*  **Não se preocupe em encher a descrição com palavras-chave de pesquisa**. Os clientes buscam por ferramentas de pesquisa por palavras-chave geradas na seção de experiência do parceiro, não na descrição.
-*  **Mantenha seu perfil atualizado**. Com cada lançamento de software ou serviço, atualize seu perfil, mantendo-o em sincronia com o site da sua empresa.
-*  **Não faça referência a outra empresa parceira da Microsoft pelo nome**, a menos que ela seja uma subsidiária ou afiliada de alguma forma à sua empresa ou que você atualmente tenha um contrato com essa empresa para atuar em parceria e/ou promover uma a outra para oportunidades de trabalho compartilhado.
-*  **Para regiões com vários idiomas**, considere a inclusão de texto de vários idiomas na descrição.
+-  **Ser breve**, liderar com o que é importante para a primeira ou segunda sentença. Isso deve ser o título que captura a atenção dos clientes. Na experiência Localizar um parceiro de pesquisa, mostramos a primeira ou segunda linha na visualização de resultados da pesquisa.
+-  **Concentre-se em experiências da sua empresa com ofertas específicas da Microsoft**. Os clientes procurando indicações geralmente procuram por parceiros com experiência específica da Microsoft.
+-  **Use marcadores**. Divida informações em listas com marcadores para torná-las mais fáceis de ler.
+-  **Evite jargão**. Use linguagem simples e do dia a dia, nomeie suas ofertas de acordo com o que elas fazem: a necessidade comercial à qual atendem, a tarefa ou o objetivo que elas ajudam os clientes a alcançar.
+-  **Não se preocupe em encher a descrição com palavras-chave de pesquisa**. Os clientes buscam por ferramentas de pesquisa por palavras-chave geradas na seção de experiência do parceiro, não na descrição.
+-  **Mantenha seu perfil atualizado**. Com cada lançamento de software ou serviço, atualize seu perfil, mantendo-o em sincronia com o site da sua empresa.
+-  **Não faça referência a outra empresa parceira da Microsoft pelo nome**, a menos que ela seja uma subsidiária ou afiliada de alguma forma à sua empresa ou que você atualmente tenha um contrato com essa empresa para atuar em parceria e/ou promover uma a outra para oportunidades de trabalho compartilhado.
+-  **Para regiões com vários idiomas**, considere a inclusão de texto de vários idiomas na descrição.
 
 #### <a href="" id="linkedin"></a> Página de empresa do LinkedIn: mais maneiras de se conectar
 
@@ -89,20 +89,20 @@ As ferramentas de pesquisa Localizar um parceiro procuram por marcas de experiê
 
 Comece adicionando suas próprias marcas para a seção de competência do parceiro. Você pode adicionar as marcas: 
 
-*  **Marcas de foco do setor**. Até 5 setores
-*  **Produtos**. Limitado a produtos da Microsoft
-*  **Tipo de serviço** 
-*  **Recursos, habilidades e soluções**. Essas marcas são de forma livre e fornecem a você a capacidade de adicionar palavras-chave de pesquisa exclusivas para seus recursos.
+-  **Marcas de foco do setor**
+-  **Produtos**. Limitado a produtos da Microsoft
+-  **Tipo de serviço**
+-  **Recursos, habilidades e soluções**. Essas marcas são de forma livre e fornecem a você a capacidade de adicionar palavras-chave de pesquisa exclusivas para seus recursos.
 
 Outras marcas usadas em pesquisa:
-*  **Marcas de competência** são uma designação obtida através da apresentação das habilidades da sua empresa.
-*  **Marcas de endosso** são obtidas quando a Microsoft ou seus clientes que trabalharam com você endossam seu trabalho.
+-  **Marcas de competência** são uma designação obtida através da apresentação das habilidades da sua empresa.
+-  **Marcas de endosso** são obtidas quando a Microsoft ou seus clientes que trabalharam com você endossam seu trabalho.
 
 #### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Permitir que a Microsoft endosse Minhas áreas de especialização
 
 É recomendável deixar essa configuração marcada. 
 
-Conforme você demonstrar o sucesso com os clientes por meio do Partner Center ou participar de outras certificações da Microsoft ou programas, adicionaremos automaticamente endossos para seus produtos específicos, serviços e setores que contribuem para esse sucesso. Autenticações são um fator importante nos resultados da pesquisa.
+Conforme demonstra sucesso com os clientes por meio do Partner Center, ou através da participação em outras certificações da Microsoft ou programas, adicionaremos automaticamente autenticações para seus produtos específicos, serviços e setores contribuindo para esse sucesso. Autenticações são um fator importante nos resultados da pesquisa.
 
 No entanto, se existirem produtos para os quais você fornece serviços e que não deseja mostrá-los em seu perfil, é possível desmarcar essa caixa de seleção e gerenciar seu perfil manualmente. Essas autenticações ficarão ocultas na sua exibição de clientes, mas você pode adicioná-las ao seu perfil posteriormente a qualquer momento.
 
@@ -114,9 +114,9 @@ Você pode recusar as indicações geradas por empresas que não atendem ao port
 
 Ao recusá-las, você terá mais tempo para fornecer serviços às empresas compatíveis com sua proposta de trabalho.
 
-### <a href="" id="#locations"></a> Locais
+#### <a href="" id="#locations"></a> Locais
 
-Você pode adicionar até 5 localizações por região. Esses locais aparecem quando os clientes pesquisam por parceiros por proximidade. 
+Você pode adicionar até 5 localizações por região. Esses locais aparecem quando os clientes pesquisam por parceiros por proximidade.
 
 Indica locais que são locais oficiais da empresa e podem ser validados. Selecione locais que sejam centrais para os mercados que você serve, e que melhor representem a capacidade de atendimento de sua empresa.
 
@@ -130,14 +130,14 @@ Se você estiver em 5 locais principais e precisar alterar um, **Exclua** um loc
 
 ## <a name="review-your-profile"></a>Revise seu perfil
 
-Depois que você publicar o seu perfil, as atualizações aparecerão nas pesquisas [Encontrar Parceiro](https://partnercenter.microsoft.com/pcv/search) dentro de 24 horas. 
+Depois de publicar seu perfil, as atualizações aparecem na [encontrar um provedor de soluções](https://www.microsoft.com/solution-providers/home) pesquisas dentro de 24 horas.
 
 ## <a name="improve-the-visibility-of-your-profile"></a>Melhorar a visibilidade do seu perfil 
 
-*  **[Responder rapidamente às solicitações](responding-to-referrals.md)**. Quando você receber uma referência de cliente, uma resposta mais rápida pode levar a resultados melhores nas páginas de pesquisa para clientes futuros.
-*  **Ser seletivo com suas marcas**.  É melhor ter menos marcas que representam melhor ofertas da sua empresa, soluções, propostas de valor e posição exclusiva onde você pode demonstrar consistentemente sucesso.  Que trará benefícios em futuros resultados de pesquisa.
-*  **Obtenha tags de competência** por meio da Microsoft para demonstrar suas habilidades em nossos produtos.
-*  **Ganhe marcas de endosso** de clientes que apreciam seu trabalho.
+- **[Responder rapidamente às solicitações](responding-to-referrals.md)**. Quando você receber uma referência de cliente, uma resposta mais rápida pode levar a resultados melhores nas páginas de pesquisa para clientes futuros.
+- **Ser seletivo com suas marcas**.  É melhor ter menos marcas que representam melhor ofertas da sua empresa, soluções, propostas de valor e posição exclusiva onde você pode demonstrar consistentemente sucesso.  Que trará benefícios em futuros resultados de pesquisa.
+- **Obtenha tags de competência** por meio da Microsoft para demonstrar suas habilidades em nossos produtos.
+- **Ganhe marcas de endosso** de clientes que apreciam seu trabalho.
 
 ## <a name="related-topics"></a>Tópicos relacionados
 [Respondendo a referências](responding-to-referrals.md)

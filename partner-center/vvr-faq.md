@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: comprovantes de treinamento, garantia de software, treinamento, validar comprovantes, comprovante de reserva
 ms.localizationpriority: medium
-ms.openlocfilehash: 98ca652900afd38ed022801a9cb7ec4c2b917180
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 17062a089a9c080eef2bd83a0589d09b2c3068db
+ms.sourcegitcommit: 283aff5f4251e09fbc92c2cd7467cab598ed91c0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584449"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "58863984"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>PERGUNTAS FREQÜENTES: Usando a ferramenta de validação de comprovante e o resgate 
 
@@ -48,6 +48,9 @@ Começando em 31 de março de 2019, todos os parceiros gerenciarão suas comprov
 
 - Partner Center exige que você faça logon com uma conta de trabalho (AAD).  CHIP atualmente usa a conta pessoal para logon (MSA ou Live ID).  Durante a navegação de VVR no Partner Center para o CHIP, precisará entrar usando sua MSA ou Live ID que está registrado com o CHIP de CHIP.
 
+**Como acessar a ferramenta VVR minha empresa?**
+
+- Para acessar a ferramenta VVR, sua empresa precisa se inscrever no programa SATV ou o programa de DPS de SA.
 Para obter informações sobre como se registrar no SATV, leia [programa Software Assurance treinamento comprovante (SATV) no Partner Center](software-assurance-satv.md).
  <!--
 For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->

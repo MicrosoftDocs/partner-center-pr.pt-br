@@ -1,18 +1,18 @@
 ---
 title: Vender assinaturas de produtos do Azure Marketplace | Partner Center
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 03/27/2019
 description: Você pode usar o Centro de parceiros para vender seus clientes de assinaturas de Software como serviço (SaaS) produtos publicados no Azure Marketplace por fornecedores de Software independentes (ISVs).
 author: JnHs
 ms.author: jenhayes
 keywords: assinaturas, mercado, por terceiros, o ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 074527f791cad6b0234994fc3985d9657f5acccd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 98229a93d5ca4ba165fcfe7fc03a084c32c630b2
+ms.sourcegitcommit: f9c930479a5d7b594a968d4f7cffb81aef8abc59
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587709"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "58508953"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>Vender assinaturas de produtos do Azure Marketplace
 
@@ -32,5 +32,4 @@ Para exibir todas as ofertas disponíveis, selecione **Marketplace** no menu de 
 
 Aquisição de assinaturas para produtos de SaaS do Azure Marketplace segue o mesmo processo de aquisição de assinaturas para produtos da Microsoft. Para obter mais informações, consulte [criar uma nova assinatura](create-a-new-subscription.md). Observe que algumas ofertas podem não estar disponíveis para os clientes, dependendo se o ISV é compatível com país/região de cobrança do cliente ou outros fatores.
 
-Em breve, permitiremos que você usar APIs do Partner Center para gerenciar assinaturas do Azure Marketplace para seus clientes. 
-
+Você também pode usar [APIs do Partner Center](https://docs.microsoft.com/en-us/partner-center/develop/) para gerenciar assinaturas do Azure Marketplace para seus clientes.

@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, benefícios da associação, associação
 ms.localizationpriority: medium
-ms.openlocfilehash: 09612dd127ad2bc17031c53a124a4536ba4a6661
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 60af091fdfe47d51d5e7b669f66cb8d0610286bb
+ms.sourcegitcommit: f5dbd07185059aa5faddf1c5daa556f634ce97ee
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584699"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "57988210"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gerencie seus benefícios de associação ao Microsoft Partner Network
 
@@ -21,7 +21,7 @@ ms.locfileid: "57584699"
 -  Partner Center
 
 >[!IMPORTANT]
->Este artigo explica como começar a usar seu Microsoft Partner Network (MPN) benefícios de participação no Partner Center (anteriormente conhecido como o Partner Center) - este site. Se você ainda não recebeu um convite para mover informações de sua empresa do Centro de associação de parceiro (PMC) para o Centro de parceiros, você deve continuar a gerenciar seus benefícios de associação MPN no PMC. [Entre](https://partner.microsoft.com/_login?authType=OpenIdConnect) no PMC agora.   
+>Este artigo explica como começar a usar seus benefícios de participação do Microsoft Partner Network (MPN) no Partner Center - este site. Se você ainda não recebeu um convite para mover informações de sua empresa do Centro de associação de parceiro (PMC) para o Centro de parceiros, você deve continuar a gerenciar seus benefícios de associação MPN no PMC. [Entre](https://partner.microsoft.com/_login?authType=OpenIdConnect) no PMC agora.   
 
 Ingressando no MPN (Microsoft Partner Network), você obtém acesso a benefícios de associação que podem ajudá-lo a criar e desenvolver seus negócios. Se não for membro do MPN, você poderá ingressar no [site do MPN](https://partner.microsoft.com/membership).
 

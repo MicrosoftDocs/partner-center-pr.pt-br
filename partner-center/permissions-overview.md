@@ -1,18 +1,18 @@
 ---
 title: Atribuir funções e permissões de usuários | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 3/5/19
 description: Todos os funcionários que precisam para trabalhar no Partner Center devem ser atribuído a uma função.
 author: LauraBrenner
 ms.author: labrenne
 keywords: funções, permissões, administrador, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: 038a2d6f4d58bbd9a71a2b241ee68982e0e7ef0a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 66923c8a5d4912d178ef483a883f08f40ed8378b
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587739"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682484"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Atribuir funções e permissões de usuário
 
@@ -37,6 +37,7 @@ Os tipos de acesso que os usuários têm Partner Center, as funções e permiss�
 |Usuário administrador   | • Exibir, criar e gerenciar usuários
 ||• Exibir todos os perfis de parceiros
 ||• Exibir, criar e gerenciar os usuários do parceiro  |
+|Administrador de cobrança | -Exibir, criar e gerenciar arquivos recon, faturas e cobrança|
 |Usuário padrão|  Exibir meu perfil   |
 |Agente administrador | • Gerenciamento de cliente
 ||• Adicionar lista de dispositivos para o Centro de parceiros <
@@ -61,7 +62,7 @@ Os tipos de acesso que os usuários têm Partner Center, as funções e permiss�
 ||• Ajuda resolver problemas de cliente com o gerenciamento de cobrança ou assinatura
 ||• Suporte a solicitação em nome dos clientes (Observação: Você deve ser um agente de administrador para concluir essa tarefa para assinaturas do Office 365)
 ||• Gerenciar assinaturas e cobrança problemas em nome dos clientes (Observação: Você deve ser um agente de administrador para concluir essa tarefa para assinaturas do Office 365)|
-|
+
 ### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>Fornecedor do painel de controle (CPV). (Função do CSP e função de não-AAD)
 CPVs desenvolver aplicativos para uso pelos parceiros de provedor de solução de nuvem (CSP) para que eles possam integrar seus sistemas com APIs do Partner Center. 
 
@@ -90,6 +91,17 @@ CPVs desenvolver aplicativos para uso pelos parceiros de provedor de solução d
 ||-Gerenciar perfis relacionados às contas que você é administrador 
 ||• Atribuir funções para usuários no locatário para funções do AAD não 
 ||• Registrar locais em programas
+
+## <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Usuário convidado (deve ser adicionado ao locatário do AAD)
+
+|**Usuário convidado**   | **Funções**|
+|---------------------------|:--------------------|
+||Administrador de parceiros do MPN|
+||Contas de administrador|
+||Administrador de incentivos|
+||Administrador de perfis de negócios|
+||Administrador de referências|
+
 
 ## <a name="manage-referrals-non-aad-roles"></a>Gerenciar as referências (funções de não-AAD)
 

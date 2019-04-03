@@ -1,19 +1,19 @@
 ---
 title: Criar, suspender ou cancelar assinaturas de cliente | Partner Center
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 03/11/2019
 description: Depois de criar um registro de seu cliente no Partner Center, você poderá vender a ele assinaturas de produtos no catálogo.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
-Keywords: assinatura, crie um novo, adicionar uma assinatura, suspender, cancelar,
+Keywords: assinatura, crie um novo, Adicionar assinatura, suspender e cancelar a suspensão
 ms.localizationpriority: medium
-ms.openlocfilehash: e264ddca2c3b6452493dda0beff80a5637db0455
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: e66e3944e9be7c08bd0dab35f09bde42e4ba33f6
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584399"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756913"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Criar, suspender ou cancelar assinaturas de cliente
 
@@ -56,7 +56,7 @@ Os parceiros podem suspender ou cancelar uma assinatura se solicitado pelo clien
 
 ### <a name="suspend-a-subscription"></a>Suspenda uma assinatura
 
-Quando você alterar o status de uma assinatura para **Suspensa**, os usuários não poderão entrar nem acessar os serviços. Os administradores ainda podem entrar e acessar os dados.
+Quando você alterar o status de uma assinatura para **Suspensa**, os usuários não poderão entrar nem acessar os serviços.
 
 1.  No menu do Partner Center, selecione **clientes**, em seguida, escolha um cliente da lista.
 2.  Escolha a assinatura que deseja gerenciar.

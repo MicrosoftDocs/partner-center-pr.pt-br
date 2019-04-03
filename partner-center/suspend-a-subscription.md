@@ -1,18 +1,18 @@
 ---
 title: Suspender uma assinatura | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/11/2018
 description: Os parceiros podem suspender ou cancelar uma assinatura se solicitado pelo cliente ou em casos de fraude ou falta de pagamento.
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b89b8182c8a15026ca91e321e97e3b75ac42a7ee
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: acf9a30f10f5d0608843cd2e3e088ac9f6bb1559
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585309"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756883"
 ---
 # <a name="suspend-a-subscription"></a>Suspenda uma assinatura
 
@@ -24,7 +24,7 @@ ms.locfileid: "57585309"
 
 Os parceiros podem suspender ou cancelar uma assinatura se solicitado pelo cliente ou em casos de fraude ou falta de pagamento.
 
-Quando você alterar o status de uma assinatura para **Suspensa**, os usuários não poderão entrar nem acessar os serviços. Os administradores ainda podem entrar e acessar os dados.
+Quando você alterar o status de uma assinatura para **Suspensa**, os usuários não poderão entrar nem acessar os serviços.
 
 **Suspender uma assinatura**
 

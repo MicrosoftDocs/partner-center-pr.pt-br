@@ -1,30 +1,27 @@
 ---
-title: Respondendo a indicações | Partner Center
+title: Responder às referências | Partner Center
 ms.topic: article
-ms.date: 01/17/2019
+ms.date: 03/11/2019
 description: Como um parceiro da Microsoft qualificado, você pode avaliar negociar e responder às referências por meio do Partner Center.
 author: LauraBrenner
 ms.author: labrenne
 keywords: referência, RFI, localizar um parceiro
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 43b3245d7877156012ee9f1998a3049fe246d387
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: a9cabe4772fa60a3b56433998da81030916279f8
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585849"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756893"
 ---
-# <a name="responding-to-referrals"></a>Respondendo a indicações
+# <a name="respond-to-referrals"></a>Responda a indicações
 
 **Aplica-se a**
 
 -  Partner Center
 
 Como um parceiro da Microsoft qualificado, você pode receber potenciais de negócios por meio de referências. No Partner Center, você pode gerenciar clientes potenciais de entrada, responder rapidamente às que são uma boa opção, e ignorar ou recusar aquelas que não são. 
-
-> [!IMPORTANT]
-> Fizemos algumas atualizações para o gerenciamento de referência experiência e estão no processo de distribuí-las para todos os parceiros. Até que sua conta está configurada para usar a nova experiência, algumas coisas podem funcionar de maneira um pouco diferente. Essas diferenças são destacadas abaixo. 
 
 ## <a name="referral-management"></a>Gerenciamento de referência
 
@@ -48,9 +45,6 @@ Examine os detalhes e fique à vontade para contatar o cliente se você quiser s
 *  **Recusar**: Podemos vai arquivá-la como **recusadas** e notificar o cliente para escolher outro parceiro.
 
 Se você não responder dentro do período de tempo alocado (no momento de 14 dias), podemos irá arquivá-la como **expirado** e notificar o cliente para escolher outro parceiro.
-
-> [!NOTE]
-> O processo descrito acima reflete a nova experiência. Se sua conta não está usando essa experiência, você verá uma **New** seção em vez de **caixa de entrada**. Para referências de novo, você terá 72 horas para escolher **estou interessado** (que move a referência para um separado **avaliando** seção e mostra mais detalhes) ou **não, Obrigado**(que arquiva de referência). Se você selecionar **estou interessado**, você terá sete dias para aceitar a referência.
 
 ### <a name="active-referrals"></a>Referências de Active Directory
 

@@ -6,12 +6,12 @@ description: Trabalhe com outros parceiros no CSP para atender às necessidades 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 641acf32646b193622ca4dce59f75970568af9b4
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: a1fcf2a9121a53b6c2b299ac7ad484cd9f552c9e
+ms.sourcegitcommit: 9bf271e05d7114e4c954a8102471b74323a3dafc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583959"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "58320719"
 ---
 # <a name="work-with-other-partners"></a>Trabalhar com outros parceiros
 
@@ -25,7 +25,7 @@ O programa Provedor de Soluções na Nuvem (CSP) da Microsoft oferece oportunida
 
 Neste modelo, também conhecido como o modelo bipartido, os fornecedores indiretos e revendedores indiretos trabalham juntos para vender serviços baseados em nuvem da Microsoft a organizações em múltiplos locais e indústrias. 
 
-### <a name="indirect-providers"></a>Provedores indiretos 
+### <a name="indirect-providers"></a>Provedores indiretos
 
 Fornecedores indiretos (também conhecidos como distribuidores) compram produtos e inscrições diretamente da Microsoft e depois oferecem essas soluções aos clientes por meio dos revendedores. Trabalhar com revendedores indiretos permite que os fornecedores expandam sua busca e base de clientes. 
 
@@ -52,5 +52,4 @@ O recurso de multi-canal do Partner Center oferece suporte a cenários quando um
 O suporte multi-canal também está disponível nas ofertas de nuvem nacionais da Microsoft.
 
 > [!IMPORTANT]  
-> Um parceiro no CSP não pode revender serviços on-line a outro parceiro atualmente no CSP. A Microsoft revisa continuamente as políticas e competências de todos os programas. Quaisquer anúncios sobre as versões de recurso serão anunciados por meio dos canais de comunicação normais, incluindo o Partner Center. 
-
+> Um parceiro no programa CSP não pode revender serviços on-line para o outro parceiro no programa CSP no momento. A Microsoft analisa continuamente as políticas e os recursos de todos os programas. Qualquer notícias sobre lançamentos de recursos ou alterações de política serão anunciadas por meio dos canais de comunicação comum, incluindo [anúncios do Partner Center](https://partner.microsoft.com/en-us/pcv/announcements).

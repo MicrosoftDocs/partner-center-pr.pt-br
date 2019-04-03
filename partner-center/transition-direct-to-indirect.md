@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: bill direto, transição, revendedores indiretos
-ms.openlocfilehash: 52995c301dba6a5ce347cbd9153f8c6ccaf88873
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: c8173bbb8878448271a35178fd3f77016a6ba129
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587679"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682474"
 ---
 **Aplica-se a:**
  - Parceiros CSP
@@ -120,8 +120,6 @@ Seu provedor indireto não pode enviar pedidos para os clientes existentes de fa
 
 6. Para gerenciar a conta do cliente, serviços, usuários e licenças, expanda o registro do cliente, selecionando a seta para baixo perto de seu nome.
 
->[!Note]
->Atualmente, a Microsoft Store para empresas não permite que um cliente aceitar o convite de revendedor indireto de um parceiro de cobrança direta existente. A Microsoft Store para empresas oferecem esse suporte em um futuro próximo. Até lá, continue para enviar pedidos para os clientes existentes de fatura direta usando sua capacidade de fatura direto.
 
 ## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>Gerenciamento de seus clientes diretos fatura e seus clientes indiretos do revendedor
 
@@ -173,20 +171,24 @@ Além das novas compras, você não pode acessar os seguintes recursos de fatura
 
 - Não é possível gerar convites para os clientes que solicitarem uma relação de revendedor direto. O **solicitar uma relação de revendedor** opção sob **clientes** no Partner Center não estará disponível. 
 
-Assinaturas de fatura direto existentes não são afetadas. Eles permanecem válidos e renovado automaticamente. Você continuará a ser cobrados diretamente pela Microsoft, até que eles são cancelados. Você ainda pode gerenciar as assinaturas existentes das seguintes maneiras: 
+>[!Note] 
+>Se você já tiver registrado seu locatário de parceiro direto fatura como revendedor indireto, será possível enviar convites para os clientes que solicitarem uma relação indireta revendedor em vez de fatura direta. 
+
+- Você não pode criar um novo locatário de área restrita. Cada locatário de parceiro direto fatura pode criar um locatário de área restrita para fins de integração da API de fatura direto. Se você ainda não tiver criado anteriormente, você não terá permissão para fazê-lo após você direcionar a funcionalidade de parceiro de fatura foi restringida. 
+
+## <a name="whats-not-affected"></a>O que não é afetado
+
+Assinaturas de fatura direto existentes não são afetadas. Eles permanecem válidos e renovado automaticamente. Você continuará a ser cobrados diretamente pela Microsoft, até que você cancelá-las. 
+
+Continue a gerenciar as assinaturas existentes das seguintes maneiras: 
 
 - Suspender as assinaturas existentes 
 
 - Ajustar a contagem de estações de assinaturas existentes baseados em licença 
 
-- Ajuste a contagem de estações de complementos existentes a uma assinatura. Observação: Você ccan't adicionar novos complementos para assinaturas existentes, conforme eles são tratados como novas compras. 
+- Ajuste a contagem de estações de complementos existentes a uma assinatura. Observação: Não é possível adicionar novos complementos para assinaturas existentes, como complementos são tratados como novas compras. 
 
 - Implantar novos recursos do Azure e gerenciar recursos do Azure existentes em assinaturas existentes do Azure. Isso inclui produtos que estão disponíveis por meio do Azure marketplace e assinaturas do Visual Studio. 
-
->[!Note] 
->Se você já tiver registrado seu locatário de parceiro direto fatura como revendedor indireto, será possível enviar convites para os clientes que solicitarem uma relação indireta revendedor em vez de fatura direta. 
-
-- Você não pode criar um novo locatário de área restrita. Cada locatário de parceiro direto fatura pode criar um locatário de área restrita para fins de integração da API de fatura direto. Se você ainda não tiver criado anteriormente, você não terá permissão para fazê-lo após você direcionar a funcionalidade de parceiro de fatura foi restringida. 
 
 ## <a name="enroll-for-indirect-reseller-incentives"></a>Inscrever-se para incentivos de revendedor indireta 
 
