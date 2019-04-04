@@ -1,18 +1,18 @@
 ---
 title: Requisitos básicos de declarações de cooperação incentivos | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 4/3/19
 description: Cada tipo de atividade no programa de cooperação de incentivos terá seus próprios requisitos básicos
 author: LauraBrenner
 ms.author: labrenne
 keywords: reivindicações de incentivos, reivindicações de cooperação, fundos de cooperação, requisitos básicos
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ee679c4bb590ef85223f2ff8f5781fe0c61d0cb
-ms.sourcegitcommit: 5386f0ee9705ec8a0b5796745bf96c5bf54a803c
+ms.openlocfilehash: f3fb1a30f08d4d27c766ec4f922b0434c89367ea
+ms.sourcegitcommit: 272b2448180294b36bee4dea38b94559bbcde26c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "58641489"
+ms.lasthandoff: 04/03/2019
+ms.locfileid: "58897972"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>Requisitos básicos para reivindicações de cooperação de incentivos
 
@@ -24,16 +24,23 @@ Cada tipo de atividade para a qual você envia uma reivindicação de incentivos
 
 As tabelas a seguir descrevem os requisitos básicos e os requisitos de comunicações para cada uma das atividades aceitas. 
 
+## <a name="demand-generation"></a>Geração de demanda
+ As atividades incluem publicidade digital e tradicional, com amplo alcance que amplia o marketing e promoção de ofertas da Microsoft. Tamanho de público-alvo e os resultados devem ser mensuráveis.
+
+
 |**Atividade**   |**Requisitos básicos**   |**Requisitos de comunicação**|**Métricas**  |**Despesas qualificadas** |
 |--------------------------------------|:---------------------------------|---------|--------|----------|
-|**Geração de demanda**      |Marca da empresa e informações de contato, conteúdo da Microsoft    |         |
-|Anúncio impresso |                 |Cópia da peça de comunicação final (com base no anúncio) mostrando requisitos básicos específicos do programa|Alcançar a estimados cliente (ou parceiro)|Posicionamento de mídia de terceiros; material impresso; Serviços de marketing e criativos de agência de taxa incluindo taxas de agência|
+        |
+|Anúncio impresso |Marca da empresa e informações de contato, conteúdo da Microsoft |Cópia da peça de comunicação final (com base no anúncio) mostrando requisitos básicos específicos do programa|Alcançar a estimados cliente (ou parceiro)|Posicionamento de mídia de terceiros; material impresso; Serviços de marketing e criativos de agência de taxa incluindo taxas de agência|
 |Anúncio digital|            |Captura de tela de anúncio digital E URL da página de aterrissagem, mostrando os requisitos básicos específicos do programa|Resumo dos resultados (por exemplo, clique no relatório)|Posicionamento de mídia de terceiros; Taxa – agência: Serviços de marketing e criativos, incluindo as taxas de agência|  
 |Mala direta, email e sms|             |1) Cópia de peça da comunicação final mostrando requisitos básicos específicos do programa 2) A Comprovação de Distribuição pode incluir envelope de remessa carimbado ou outra comprovação de correspondência (mala direta), email final mostrando o cabeçalho datado ou outra comprovação de envio (email) ou foto de mensagem de telefone (SMS)|   Alcançar a estimados cliente (ou parceiro)   |Aquisição de •Database • • de material impresso postagem; Taxa – agência: Serviços de marketing e criativos, incluindo as taxas de agência|
 |Site e mecanismo de pesquisa do parceiro||URL e/ou capturas de tela da página (s) de site que mostra a URL; instrução do contrato de serviço ou de trabalho para o projeto SEO (apenas para a atividade SEO)|Resumo dos resultados (por exemplo, um clique por meio de relatórios)|Taxa – agência: Serviços de marketing, incluindo taxas de agência; Desenvolvimento/programação: Programação e taxas de desenvolvimento; Taxa – SEO: Taxas de otimização e manutenção|
 |Conteúdo sindicalizado da Microsoft||URL e/ou capturas de tela de páginas que mostra a URL do site|Resumo dos resultados (por exemplo, clique no relatório)|Os custos reais até USD18, 750 por período de uso para: taxa - agência servicews, incluindo as taxas de agência; de marketing programação e taxas de desenvolvimento; posicionamento de mídia|
 |Campanha digital multitoque|     |Todas as Provas de Execução como detalhado na página da atividade aplicável são necessárias.  - Anúncio Digital - Email Direto - Otimização do Site e do Mecanismo de Pesquisa do Parceiro - Telemarketing||• O posicionamento da mídia terceiros taxa – agência: Serviços de marketing e criativos, incluindo taxas de agência; Aquisição de banco de dados; •Programming/desenvolvimento: Programação e taxas de desenvolvimento; Taxa – SEO: Otimização e as taxas de manutenção; Taxa - encargos de centro de chamada de terceiros
 
+## <a name="market-development"></a>Desenvolvimento de mercado
+
+ As atividades incluem o recrutamento de cliente e educação, bem como atividades de desenvolvimento de colocação no mercado e business ainda mais o reconhecimento, preferências e vendas de ofertas da Microsoft. Normalmente, essas atividades de marketing são projetadas para um público de cliente específico.
 
 |**Atividade**           | **Requisitos básicos**    | **Requisitos de comunicações**|**Métricas** |**Despesas qualificadas**| 
                                                 |----------------------------------|:----------------------------|:-----------|:-----------|:--------------------|   
@@ -45,17 +52,18 @@ As tabelas a seguir descrevem os requisitos básicos e os requisitos de comunica
 |Especialista no local|Serviços com 100% de foco em produtos da Microsoft| Exemplo dos resultados finais (com base no que é descrito na forma Champ no local)||Real custa até 100% para a superfície e 50% para todos os outros programas de fundos de cooperação acumulado por período de uso para: Taxas – serviços: Serviços fornecidos pelo Champ no local de recurso (s)|
 |Prova de conceito|Conteúdo da Microsoft|Cópia de materiais desenvolvidos para dados de pesquisa de mercado ou explication conceito: White paper, o desenvolvimento de estudo de caso, a pesquisa de mercado, experiência de imersão do cliente - experiência de imersão de cliente da Microsoft (CIE) é uma despesa research qualificados. As taxas de serviço qualificadas podem incluir a configuração de um centro de demonstração de tecnologia e os serviços de implantação, incluindo instalação , configuração, migração de dados, testes ou configuração do sistema voltados para o cliente. As despesas de programação/desenvolvimento podem incluir o desenvolvimento de sistema de API.|Materiais impressos: Pesquisa: White paper, o desenvolvimento de estudo de caso, a pesquisa de mercado, experiência de imersão do cliente; Programação / desenvolvimento; Taxa – agência: Serviços de marketing, incluindo taxas de agência; Taxa – serviço:  Trabalho serviços fornecidos pelo fornecedor de parceiro ou de terceiros para dar suporte a prova de conceito|
 |A configuração da web de compra de funcionário para os clientes||URL inicial a captura de tela ou página das páginas do site. Não qualificado para a superfície de adicionar|Taxa – agência: Serviços de marketing, incluindo taxas de agência; Desenvolvimento/programação: Programação e taxas de desenvolvimento; Taxa – serviço:  Trabalho serviços fornecidos pelo fornecedor de terceiros ou de parceiro para dar suporte a configuração de web|
-                                                                                 
-                                                                                                                                                                                                     
-                                                                                                                                                            
+
+##  <a name="partner-readiness"></a>Preparação do parceiro
+
+Atividades para o parceiro da equipe de suporte técnico e de vendas internas e inclui as despesas específicas relacionadas ao treinamento que ajuda a desenvolver competências de vendas e técnico do parceiro no Microsoft.
 
 |           **Atividade**           | **Requisitos básicos**                                                                  |                    **Requisitos de comunicações**                   |**Métricas**|**Despesas qualificadas**|
 |----------------------------------|:---------------------------------------------------------------------------------------|------------------------------------------------------------------------|-----------------|--------------|
-|      **Disponibilidade do parceiro**       |  Atividades para o parceiro da equipe de suporte técnico e de vendas internas e inclui as despesas específicas relacionadas ao treinamento que ajuda a desenvolver competências de vendas e técnico do parceiro no Microsoft.|                                                                                      |                                                                        |
+|
 |        Participação no MPN         |Fatura original da Microsoft|                                                                                        |                                                                        |Taxa – registro anual: As taxas de registro anual do MPN • placa e DVD (definido pela primeira vez): Placa de associação da MPN e o primeiro conjunto de DVDs • Kit de ferramentas de benefício adicional|
-|   Ensino e exames da Microsoft    | Código do curso/código do exame em [Microsoft Learning](https://partner.microsoft.com/training) | Nota fiscal de terceiros com o código de curso e a data de conclusão ou fatura com o código de exame e data de conclusão|Lista de Atendee e custo da pessoa por|– Taxa de exame: Taxas de exames da Microsoft para as certificações e competências; Taxa – treinamento / ensino: Taxas de ensino da Microsoft para as certificações e competências, incluindo as despesas de treinamento sob demanda; treinamento de soluções de ISV terceiros – despesas de ensino para treinamento em soluções de terceiros que podem ser demonstradas utilizar ou residir em aplicativos da Microsoft e plataformas; Taxa – renovação MCT: Taxa de renovação de Microsoft Certified Trainer (nenhuma métrica necessária)|
+|   Ensino e exames da Microsoft    | Código do curso/código do exame em [Microsoft Learning](https://partner.microsoft.com/training) | Nota fiscal de terceiros com o código de curso e a data de conclusão ou fatura com o código de exame e data de conclusão|Lista de participantes e o custo da pessoa por|– Taxa de exame: Taxas de exames da Microsoft para as certificações e competências; Taxa – treinamento / ensino: Taxas de ensino da Microsoft para as certificações e competências, incluindo as despesas de treinamento sob demanda; treinamento de soluções de ISV terceiros – despesas de ensino para treinamento em soluções de terceiros que podem ser demonstradas utilizar ou residir em aplicativos da Microsoft e plataformas; Taxa – renovação MCT: Taxa de renovação de Microsoft Certified Trainer (nenhuma métrica necessária)|
                                                                        |
-| Treinamento interno e dias de desconto | 100% de conteúdo da Microsoft para o período de tempo do dia ou espaço de evento reivindicado               | 1) Agenda de treinamento ou Programa de Eventos 2) Conteúdo de apresentação da Microsoft |Número de atendees|Taxa – treinamento / ensino / registro / digital treinamento plataforma ou treinamento digital formatação; Sinalização / exibir / impresso materiais; Brindes promocionais; Taxa – agência: marketing serviços, incluindo as taxas de agência; Taxa – palestrante externo; Taxa – instalação e aluguel de equipamento; Buffet (exceto álcool)|
+| Treinamento interno e dias de desconto | 100% de conteúdo da Microsoft para o período de tempo do dia ou espaço de evento reivindicado               | 1) Agenda de treinamento ou Programa de Eventos 2) Conteúdo de apresentação da Microsoft |Número de participantes|Taxa – treinamento / ensino / registro / digital treinamento plataforma ou treinamento digital formatação; Sinalização / exibir / impresso materiais; Brindes promocionais; Taxa – agência: marketing serviços, incluindo as taxas de agência; Taxa – palestrante externo; Taxa – instalação e aluguel de equipamento; Buffet (exceto álcool)|
 | Conferências hospedadas pela Microsoft   | Conferências hospedado pela Microsoft. As despesas de passagem aérea/hotel são limitadas até USD 5.000 por pessoa conferência, limitada aos 3 participantes, com um limite total de USD 45.000 para despesas de tarifa/hotel passagem aérea/train por período por programa. * De hospedagem pode ter concessões diferentes.|Cópia de confirmação de convite ou registro de conferência/evento mostrando evidência dessa conferência é hospedada pela Microsoft; Roteiro de transporte com datas de viagem (viagem – apenas as despesas de passagem aérea)| | Taxa – registro: para até 3 participantes por conferência; viagem – passagem aérea/Hotel: Transporte (tarifa de passagem aérea ou treinar e os impostos aplicáveis) e hotel (sala taxa única e os impostos aplicáveis); Observação: Viagem – despesas de passagem aérea/hotel são limitadas até USD 5.000 por pessoa conferência, limitada aos 3 participantes, com um limite total de USD 45.000 para despesas de tarifa/hotel passagem aérea/train por período por programa. Hospedagem pode ter concessões diferentes.|                                           
 |Unidades de propagação/demonstração do produto| Você pode solicitar até 10% de fundos de cooperação provisionados total ou US $ 3.000 o que for maior ou por período de programa. Parceiros de PC e o Hub de superfície não tem nenhuma declaração limitar.|Especificações de sistemas para unidades de demonstração criadas internamente. Prova de entrega para a unidade de demonstração de terceiros. Prova de unidade de demonstração de terceiros|
 
