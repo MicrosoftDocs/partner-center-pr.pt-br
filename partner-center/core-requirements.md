@@ -1,18 +1,18 @@
 ---
 title: Requisitos básicos de declarações de cooperação incentivos | Partner Center
 ms.topic: article
-ms.date: 4/3/19
+ms.date: 4/4/2019
 description: Cada tipo de atividade no programa de cooperação de incentivos terá seus próprios requisitos básicos
 author: LauraBrenner
 ms.author: labrenne
 keywords: reivindicações de incentivos, reivindicações de cooperação, fundos de cooperação, requisitos básicos
 ms.localizationpriority: medium
-ms.openlocfilehash: f3fb1a30f08d4d27c766ec4f922b0434c89367ea
-ms.sourcegitcommit: 272b2448180294b36bee4dea38b94559bbcde26c
+ms.openlocfilehash: c5a48d7624baf3fd4b0a2100625c7b463f2f2413
+ms.sourcegitcommit: 6e30c3fd5445d805c88fbdd2c2cebce989114091
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/03/2019
-ms.locfileid: "58897972"
+ms.lasthandoff: 04/04/2019
+ms.locfileid: "59019429"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>Requisitos básicos para reivindicações de cooperação de incentivos
 
@@ -20,9 +20,9 @@ ms.locfileid: "58897972"
 
 - Partner Center
 
-Cada tipo de atividade para a qual você envia uma reivindicação de incentivos tem requisitos básicos que você precisa anteder e que você demonstra em seus documentos de prova de execução. Em alguns casos, há tipos de comunicações definidos que também são obrigatórios.
+Cada tipo de atividade para a qual você envia uma reivindicação de incentivos tem requisitos básicos que você precisa anteder e que você demonstra em seus documentos de prova de execução. Em alguns casos, há tipos definidos de comunicação e as métricas que também são necessárias.
 
-As tabelas a seguir descrevem os requisitos básicos e os requisitos de comunicações para cada uma das atividades aceitas. 
+As tabelas a seguir descrevem os requisitos básicos de cada uma das atividades aceitas. 
 
 ## <a name="demand-generation"></a>Geração de demanda
  As atividades incluem publicidade digital e tradicional, com amplo alcance que amplia o marketing e promoção de ofertas da Microsoft. Tamanho de público-alvo e os resultados devem ser mensuráveis.
@@ -33,7 +33,7 @@ As tabelas a seguir descrevem os requisitos básicos e os requisitos de comunica
         |
 |Anúncio impresso |Marca da empresa e informações de contato, conteúdo da Microsoft |Cópia da peça de comunicação final (com base no anúncio) mostrando requisitos básicos específicos do programa|Alcançar a estimados cliente (ou parceiro)|Posicionamento de mídia de terceiros; material impresso; Serviços de marketing e criativos de agência de taxa incluindo taxas de agência|
 |Anúncio digital|            |Captura de tela de anúncio digital E URL da página de aterrissagem, mostrando os requisitos básicos específicos do programa|Resumo dos resultados (por exemplo, clique no relatório)|Posicionamento de mídia de terceiros; Taxa – agência: Serviços de marketing e criativos, incluindo as taxas de agência|  
-|Mala direta, email e sms|             |1) Cópia de peça da comunicação final mostrando requisitos básicos específicos do programa 2) A Comprovação de Distribuição pode incluir envelope de remessa carimbado ou outra comprovação de correspondência (mala direta), email final mostrando o cabeçalho datado ou outra comprovação de envio (email) ou foto de mensagem de telefone (SMS)|   Alcançar a estimados cliente (ou parceiro)   |Aquisição de •Database • • de material impresso postagem; Taxa – agência: Serviços de marketing e criativos, incluindo as taxas de agência|
+|Mala direta, email e sms|             |Prova de 1) cópia de parte final de comunicação que mostra os requisitos específicos do programa core 2) de distribuição pode incluir envio carimbado envelope ou outros prova de mala direta (mala direta), o email final mostrando cabeçalho datado ou outra prova de enviando (email), ou foto de telefone SMS (mensagem)|   Alcançar a estimados cliente (ou parceiro)   |Aquisição de •Database • • de material impresso postagem; Taxa – agência: Serviços de marketing e criativos, incluindo as taxas de agência|
 |Site e mecanismo de pesquisa do parceiro||URL e/ou capturas de tela da página (s) de site que mostra a URL; instrução do contrato de serviço ou de trabalho para o projeto SEO (apenas para a atividade SEO)|Resumo dos resultados (por exemplo, um clique por meio de relatórios)|Taxa – agência: Serviços de marketing, incluindo taxas de agência; Desenvolvimento/programação: Programação e taxas de desenvolvimento; Taxa – SEO: Taxas de otimização e manutenção|
 |Conteúdo sindicalizado da Microsoft||URL e/ou capturas de tela de páginas que mostra a URL do site|Resumo dos resultados (por exemplo, clique no relatório)|Os custos reais até USD18, 750 por período de uso para: taxa - agência servicews, incluindo as taxas de agência; de marketing programação e taxas de desenvolvimento; posicionamento de mídia|
 |Campanha digital multitoque|     |Todas as Provas de Execução como detalhado na página da atividade aplicável são necessárias.  - Anúncio Digital - Email Direto - Otimização do Site e do Mecanismo de Pesquisa do Parceiro - Telemarketing||• O posicionamento da mídia terceiros taxa – agência: Serviços de marketing e criativos, incluindo taxas de agência; Aquisição de banco de dados; •Programming/desenvolvimento: Programação e taxas de desenvolvimento; Taxa – SEO: Otimização e as taxas de manutenção; Taxa - encargos de centro de chamada de terceiros
