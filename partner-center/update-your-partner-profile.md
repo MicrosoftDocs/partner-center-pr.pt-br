@@ -2,33 +2,34 @@
 title: Atualizar seu perfil de parceiro | Partner Center
 description: Na primeira vez em que você entrar como um administrador, verifique se seus detalhes de suporte estão corretos, arquive isenções de impostos se apropriado e examine as informações de contato em seus perfis.
 MS.Topic: article
-Date: 02/19/29
+Date: 02/19/2019
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
-MS.Author: evansma
-ms.openlocfilehash: 1e341d9209f59121d16c82a5b3bff752019e691c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.author: evansma
+ms.localizationpriority: medium
+ms.openlocfilehash: ff8f149adda67ae911870ead8f3c03ab35f5f1be
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587459"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430095"
 ---
 # <a name="update-your-partner-profile"></a>Atualize seu perfil de parceiro
 
 
 Na primeira vez em que você entrar no Partner Center como um administrador, verifique se seus detalhes de suporte estão corretos, protocole isenções de impostos se apropriado e examine as informações de contato em seus perfis. Se sua organização tiver mais de um local, revise seus dados de localização quanto à precisão.
 
-**Atualizar os detalhes de suporte**
+**Atualizar seus detalhes de suporte**
 
 1.  Vá para **as configurações** &gt; **exibir todas as configurações** &gt; **perfil do parceiro**.
 2.  Na seção **Suporte**, selecione **Atualizar**.
 3.  Se algum cliente seu entrar em contato com a Microsoft em busca de suporte, ela o encaminhará para o site, o email e informações de contato que você incluir em seu perfil de suporte.
 
-**Isenções de imposto de arquivo**
+**Protocole isenções de impostos**
 
 -   Decida se isenções de impostos se aplicam a você e, em caso afirmativo, protocole-as antes de adicionar clientes ou assinaturas. Consulte [Impostos e isenções fiscais](tax-and-tax-exemptions.md).
 
-**Verifique suas informações de perfil**
+**Verifique as informações de seu perfil**
 
 1.  Vá para **as configurações** &gt; **exibir todas as configurações** . 
 2.  Revise seu **Perfil do parceiro**, **Perfil de cobrança do parceiro** e **Perfil organizacional**.

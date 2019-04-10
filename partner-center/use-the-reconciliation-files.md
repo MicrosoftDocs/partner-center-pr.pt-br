@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9997b01c76dacb736baa33f458def0b820753f1d
-ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
+ms.openlocfilehash: 0d986ca81e77578ecbb79b909d8f2a8afc4777e4
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "57682504"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430195"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar os arquivos de reconciliação
 
@@ -23,6 +23,22 @@ ms.locfileid: "57682504"
 
 
 Para uma exibição detalhada do item de linha de cada carga, em um ciclo de cobrança, baixe os arquivos de reconciliação do Partner Center. Os detalhes incluem encargos por assinaturas de cada cliente e eventos detalhados (como a adição de assentos a uma assinatura no meio do período).
+
+## <a name="formatting-issues"></a>Problemas de formatação
+
+Ocasionalmente, seu arquivo de reconhecimento pode ter problemas de formatação. (Isso pode acontecer, por exemplo, se a localidade EN-US não for usada.) Siga as etapas abaixo para corrigir esses problemas. 
+
+<ol>
+<li>Abra o arquivo. csv no Excel e selecione a primeira coluna. Na faixa de opções, selecione <strong>dados</strong>e, em seguida, selecione <strong>texto para colunas</strong>.</li>
+
+<li>Na conversão de texto ao Assistente de colunas, selecione <strong>delimitada por tipo de arquivo</strong>e, em seguida, selecione <strong>próxima</strong>.</li> 
+
+<li>No campo dos delimitadores, selecione <strong>vírgula</strong>. Se <strong>guia</strong> é estiver selecionado, você pode deixá-lo. Selecione <strong>Avançar</strong>.</li>
+
+<li>No campo de formato de dados de coluna, selecione <strong>data: MDY</strong>e, em seguida, selecione <strong>próxima</strong>.</li> 
+
+<li>No campo de formato de dados de coluna, selecione <strong>texto</strong> para o valor de todas as colunas e, em seguida, selecione <strong>concluir</strong>.</li>
+</ol>
 
 ## <a href="" id="itemizebypartner"></a>Discriminar pelo parceiro
 
@@ -72,7 +88,7 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Coluna</strong></td>
+<td><strong>Column</strong></td>
 <td><strong>Descrição</strong></td>
 <td><strong>Valor de exemplo</strong></td>
 </tr>
@@ -241,7 +257,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Coluna</strong></td>
+<td><strong>Column</strong></td>
 <td><strong>Descrição</strong></td>
 <td><strong>Valor de exemplo</strong></td>
 </tr>
@@ -902,21 +918,21 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 <tbody>
 <tr>
 <td>
-<p><strong>Descrição de encargo de fatura</strong></p>
+<p><strong>Descrição do encargo da fatura</strong></p>
 </td>
 <td>
-<p><strong>Descrição de cobrança de arquivo de reconciliação (ChargeType coluna)</strong></p>
+<p><strong>Descrição do encargo do arquivo de reconciliação (coluna ChargeType)</strong></p>
 </td>
 <td>
-<p><strong>O que é a cobrança?</strong></p>
+<p><strong>O que é este encargo?</strong></p>
 </td>
 <td>
-<p><strong>Como faço para mapear esses ChargeTypes à fatura?</strong></p>
+<p><strong>Como é possível mapear esses tipos de encargo na fatura?</strong></p>
 </td>
 </tr>
 <tr>
 <td rowspan="10">
-<p><strong>Encargos de licença</strong></p>
+<p><strong>Cobranças baseada em licença</strong></p>
 </td>
 <td>
 <p>Taxa de ativação</p>
@@ -1003,7 +1019,7 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 </tr>
 <tr>
 <td rowspan="2">
-<p><strong>Encargos de uso</strong></p>
+<p><strong>Tarifas de uso</strong></p>
 </td>
 <td>
 <p>Avaliar a taxa de uso ao cancelar</p>
@@ -1040,7 +1056,7 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 </tr>
 <tr>
 <td rowspan="4">
-<p><strong>Descontos com base no uso</strong></p>
+<p><strong>Descontos baseados em uso</strong></p>
 </td>
 <td>
 <p>Desconto de ativação</p>
@@ -1081,10 +1097,10 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 
 <tr>
 <td>
-<p><strong>Descontos de licença</strong></p>
+<p><strong>Descontos baseados em licença</strong></p>
 </td>
 <td>
-<p><em>Pode ser aplicado a vários tipos de custo</em></p>
+<p><em>Podem ser aplicados a vários tipos de cobrança</em></p>
 </td>
 <td>
 <p></p>
@@ -1098,8 +1114,8 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 <p><strong>Impostos</strong>&nbsp;ou&nbsp;<strong>IVA</strong></p>
 </td>
 <td>
-<p><em>Pode ser aplicado a vários tipos de custo</em></p>
-<p><em>Exceção: &quot;Deslocamento de um item de linha&quot; já inclui os impostos. Ver créditos, acima.</em></p>
+<p><em>Podem ser aplicados a vários tipos de cobrança</em></p>
+<p><em>Exceção: &quot;Deslocamento de um item de linha&quot; já inclui os impostos. Veja Créditos, acima.</em></p>
 </td>
 <td>
 <p>Impostos ou impostos sobre valor agregado (IVA)</p>

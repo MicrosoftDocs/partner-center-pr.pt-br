@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 01594dab5515d2373cffef581dcdd6a786afea14
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 6b0e9ba672bb22d4b72c58d5a344bbd736f243f9
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585339"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430175"
 ---
 # <a name="manage-your-partner-center-account"></a>Gerencie sua conta do Partner Center
 
@@ -31,11 +31,13 @@ Você ou seu administrador também criará contas de usuário para qualquer pess
 
 ## <a name="resources-to-help-you-manage-your-partner-center-account"></a>Recursos que ajudam a gerenciar sua conta do Partner Center
 
-|**Para fazer isso**   |**Leia isto**   |
+|**Para fazer isto**   |**Leia isto**   |
 |-----------------------|:-----------------------|
-|Certifique-se de que o perfil da sua empresa está atualizado   |[Atualizar seu perfil do parceiro](update-your-partner-profile.md)|
+|Certifique-se de que o perfil da sua empresa está atualizado   |[Atualize seu perfil de parceiro](update-your-partner-profile.md)|
 |Todos em sua empresa que precisa para trabalhar no Partner Center devem ser atribuídos a funções. Cada função tem permissões e tarefas específicas à disposição.|[Criar contas de usuário e definir permissões](create-user-accounts-and-set-permissions.md)|
-|Se um funcionário esquecer a senha e você precisar redefini-la  |[Redefinir uma senha de usuário](reset-a-user-password.md)|
+|Examine as permissões que envolve a cada função|[Atribuir funções e permissões de usuário](permissions-overview.md)
+|Gerenciar locais de sua empresa|[Gerencie sua conta de parceiro: Locais](manage-locations.md)
+|Se um funcionário esquecer a senha e você precisar redefini-la  |[Redefinir a senha de usuário](reset-a-user-password.md)|
 |Verifique se sua empresa está disponível no mercado para que os clientes possam encontrar você   |[Criar um perfil de negócios](create-a-marketing-profile.md)|
 |Organize seu catálogo para que os produtos mais importantes estejam na parte superior da lista   |[Personalize o catálogo](customize-the-catalog.md)|
 |Mantenha-se atualizado em termos de preços e ofertas atuais   |[Preços e ofertas](pricing-and-offers.md)|

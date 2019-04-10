@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: reivindicações de incentivos, reivindicações de cooperação, fundos de cooperação
 ms.localizationpriority: medium
-ms.openlocfilehash: bb750b740280d7ee66132b999c1cc24707cd2885
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 15d7f1c09eb3df619876d8f88bb50ec11114ebc4
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584179"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430105"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Visão geral de reivindicações de cooperação de incentivos
 
@@ -20,7 +20,7 @@ ms.locfileid: "57584179"
 
 - Partner Center
 
-Quando participar do programa Fundo de Marketing Cooperativo de Incentivos de Parceiro (Cooperação), você solicitará reembolsos de fundos ganhos por atividades de suporte ao reconhecimento do produto da Microsoft concluídas. Você envia uma reivindicação diretamente do Partner Center. Você não precisa ter seu plano de atividade examinado pela Microsoft antes de enviar uma reivindicação. Envie sua reivindicação e a documentação necessária até o prazo final do período de reivindicação , que é 45 dias após o término do período de uso. 
+Quando você participa de uma das Incentives Microsoft programas (como o parceiro incentivos cooperativo Marketing fundo, o programa de Supervisor de serviços Online ou o programa ISV do Dynamics), você os reembolsos de declaração de fundos acumulados para atividades que tiver feito isso suporte a reconhecimento de produto da Microsoft. Você envia uma reivindicação diretamente do Partner Center. Você não precisa ter seu plano de atividade examinado pela Microsoft antes de enviar uma reivindicação. Envie sua reivindicação e a documentação necessária até o prazo final do período de reivindicação , que é 45 dias após o término do período de uso. 
 
 Uma reivindicação bem-sucedida inclui:
 
@@ -32,11 +32,12 @@ Uma reivindicação bem-sucedida inclui:
 >[!NOTE]
 >A Microsoft se reserva o direito de solicitar os documentos originais de comprovação de execução (POE). Mantenha todos os seus documentos originais por um período de 24 meses após a data da atividade. 
 
-|**Para fazer isso**   |**Leia isto**   |
+|**Para fazer isto**   |**Leia isto**   |
 |-----------------|:--------------------------------------|
-|Enviar uma reivindicação e incluir a documentação correta|[Criar e gerenciar uma declaração de atividade do programa incentivos](create-incentives-claims.md)|
-|Depois que você tiver enviado a reivindicação, gerenciar solicitações de documentação adicional|[Criar e gerenciar uma declaração de atividade do programa incentivos](create-incentives-claims.md)  |
-|Conhecer os principais requisitos para a reivindicação de atividade|[Conhecer os principais requisitos de declarações de incentivos](core-requirements.md)   |
-|Conhecer os detalhes completos do programa de incentivos|[Guia de cooperação incentivos aos parceiros](https://assets.microsoft.com/coop-guidebook.pdf)
+|Enviar uma reivindicação e incluir a documentação correta|[Criar e gerenciar uma reivindicação de atividade do programa de incentivos](create-incentives-claims.md)|
+|Depois que você tiver enviado a reivindicação, gerenciar solicitações de documentação adicional|[Criar e gerenciar uma reivindicação de atividade do programa de incentivos](create-incentives-claims.md)  |
+|Conhecer os principais requisitos para a reivindicação de atividade|[Conhecer os requisitos básicos para reivindicações de incentivos](core-requirements.md)   |
+|Conhecer os detalhes completos do programa de incentivos|[Guia de cooperação de incentivos do parceiro](https://assets.microsoft.com/coop-guidebook.pdf)
+|Enviar uma declaração de taxa de venda OSA ou declaração de associação de receita de ISV |[Envie suas declarações OSA no Partner Center](submit-osa-claim.md)|
                                                                                  
                                    
