@@ -7,14 +7,14 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: declarações de incentivos, declarações de cooperação, os fundos de cooperação, OSA, ISV, associação de receita
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d043d59c5ef96e42587d36e128e7d1f556c9c5b
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.openlocfilehash: d07e0e4cab70bc4725b3f90ca0b4664971014cab
+ms.sourcegitcommit: 1dccb3fd6b1ea08cabc8251b8a0eb7fe68c39f51
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "59430628"
+ms.lasthandoff: 04/16/2019
+ms.locfileid: "59619302"
 ---
-#<a name="submit-your-osa-claims-in-partner-center"></a>Envie suas declarações OSA no Partner Center
+# <a name="submit-your-osa-claims-in-partner-center"></a>Enviar solicitações de OSA no Partner Center
 
 **Aplica-se a**
 
@@ -28,17 +28,17 @@ Antes de criar e enviar uma reivindicação, você precisará atender aos seguin
 -   **Tenha suas informações de banco e imposto** inserido no Partner Center. 
 -   **Atender aos requisitos de certificação e a receita de qualificação de venda OSA**. (Para obter detalhes, consulte o guia de venda de OSA, localizado na seção OSA em aka.ms/partnerincentives). Isso não é aplicável para ISVs buscando somente a associação de receita. 
 
-##<a name="submitting-your-claim"></a>Enviando sua declaração
+## <a name="submitting-your-claim"></a>Enviando sua declaração
 
 Você terá 90 dias a partir da data da transação para enviar sua declaração. Se você enviar sua declaração de mais de 90 dias após uma transação, você não ganha o incentivo de venda dessa venda. 
 
 Se você for um parceiro ISV e suas soluções ajudou a influenciar o cliente para escolher uma solução do Microsoft Dynamics 365, você também está qualificado para a declaração de associação de receita.   
 
-##<a name="payment-schedule"></a>Plano de pagamento
+## <a name="payment-schedule"></a>Plano de pagamento
 
 Você receberá o pagamento para declarações de incentivos aprovada dentro de 45 dias após o término do período de rendimentos. Você tem 90 dias após o término do período de rendimentos para contestar um pagamento. Para obter informações sobre cálculos de pagamento e métodos, consulte o guia de venda de OSA, localizado na seção OSA em aka.ms/partnerincentives.
 
-##<a name="maintaining-your-program-eligibility"></a>Manter a sua qualificação do programa
+## <a name="maintaining-your-program-eligibility"></a>Manter a sua qualificação do programa
 
 Microsoft avalia qualificação mensal para os serviços Advisor vender incentivo para ganhar, cálculo e pagamento Online. Você deve atender aos critérios de qualificação específico antes Microsoft pode aprovar e pagamentos incentivos de versão. Para obter detalhes, consulte o guia de venda de OSA, localizado na seção OSA em aka.ms/partnerincentives.
 
@@ -60,7 +60,9 @@ Conclua as seguintes etapas para enviar uma declaração de incentivo no Partner
 
 5.  Selecione a assinatura que você deseja associar com esta declaração e, em seguida, selecione **continuar**.
 
->[! NOTAS] verificar se o nome e a região geográfica estão corretas antes de selecionar uma assinatura. 
+>[!NOTES]
+
+>Verifique se o nome e a região geográfica estão corretas antes de selecionar uma assinatura. 
 
 >As assinaturas que estão associadas a outros supervisores de serviço online são marcadas com um triângulo amarelo. Você ainda pode optar por associar a eles. 
 
@@ -76,7 +78,7 @@ Você pode ver o status de sua declaração na caixa de status da página de ass
 
 Para exibir seus dados de ganhos e pagamentos, consulte pagamentos e emissão de relatórios. 
  
-#<a name="submit-an-isv-revenue-association-claim"></a>Enviar uma declaração de associação de receita de ISV
+# <a name="submit-an-isv-revenue-association-claim"></a>Enviar uma declaração de associação de receita de ISV
 
 1.  Na página de visão geral, sob **todos os programas de incentivo**, selecione **OSA**.
 
@@ -86,7 +88,9 @@ Para exibir seus dados de ganhos e pagamentos, consulte pagamentos e emissão de
 
 4.  Selecione as assinaturas que você deseja associar a essa declaração e, em seguida, selecione **continuar**.
 
->[! NOTAS] verificar se o nome e a região geográfica estão corretas antes de selecionar uma assinatura. 
+>[!NOTES]
+
+>Verifique se o nome e a região geográfica estão corretas antes de selecionar uma assinatura. 
 
 >Assinaturas associadas à sua empresa já não podem ser associadas novamente.  
 
