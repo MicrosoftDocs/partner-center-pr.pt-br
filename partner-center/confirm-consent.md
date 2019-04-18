@@ -1,23 +1,29 @@
 ---
 title: Confirmar a aceitação do cliente do Contrato do Microsoft Cloud | Partner Center
 ms.topic: article
-ms.date: 04/5/2019
+ms.date: 04/16/2019
 Description: Como um parceiro, você precisa obter a aceitação do cliente do Contrato do Microsoft Cloud antes de você poder encomendar produtos e serviços Microsoft e serviços para o cliente. A melhor ajuda parceiros atende aos requisitos de conformidade, a Microsoft solicita parceiros para confirmar a aceitação fornecendo determinados detalhes sobre a pessoa que aceitou o contrato.
 author: LauraBrenner
 ms.author: v-petand
 keywords: cliente, clientes, consentir, MCA, contrato do Microsoft Cloud, modelos de contrato do cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 28bc7c1dea842f9fbfc2778dfad1a8e5615a6bd7
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.openlocfilehash: 9dad303b419f3dadd33f4937933638c60c45994b
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "59430125"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "59652248"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Confirmar a aceitação do cliente do Contrato do Microsoft Cloud
 
 **Aplica-se a**
 -  Partner Center
+
+> [!NOTE]
+> Partner Center em que a nuvem pública da Microsoft somente no momento, há suporte para o recurso de contrato. Não é aplicável a:
+> * Partner Center operado pela 21Vianet
+> * Partner Center do Microsoft Cloud Germany
+> * Partner Center para Microsoft Cloud for US Government
 
 Como um parceiro, você precisa obter a aceitação do cliente do Contrato do Microsoft Cloud antes de você poder encomendar produtos e serviços Microsoft e serviços para o cliente. Para ajudar mais os parceiros a atender os requisitos de conformidade, a Microsoft solicita que os parceiros confirmem a aceitação fornecendo os detalhes a seguir em relação à pessoa que aceitou o contrato: 
 
@@ -27,7 +33,7 @@ Como um parceiro, você precisa obter a aceitação do cliente do Contrato do Mi
 
 -   Endereço de email
 
--   Número do telefone
+-   Número de telefone (opcional)
 
 -   Data da aceitação
 
@@ -49,8 +55,6 @@ Confirmação da aceitação do cliente pode ser feita por meio do Partner Cente
 
 -   [Confirme se o consentimento do cliente](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
 
-
-A confirmação da aceitação do cliente só é compatível com a Nuvem Pública da Microsoft.
 
 Isso se aplica a ambientes de área restrita e de produção.
 
