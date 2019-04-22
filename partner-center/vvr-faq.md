@@ -8,13 +8,13 @@ ms.author: labrenne
 keywords: comprovantes de treinamento, garantia de software, treinamento, validar comprovantes, comprovante de reserva
 ms.localizationpriority: medium
 ms.openlocfilehash: 17062a089a9c080eef2bd83a0589d09b2c3068db
-ms.sourcegitcommit: 283aff5f4251e09fbc92c2cd7467cab598ed91c0
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/02/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "58863984"
 ---
-# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>PERGUNTAS FREQÜENTES: Usando a ferramenta de validação de comprovante e o resgate 
+# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Perguntas frequentes: usando a ferramenta Voucher Validation and Redemption 
 
 **Aplica-se a**
 

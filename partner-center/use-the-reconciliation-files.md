@@ -8,10 +8,10 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 0d986ca81e77578ecbb79b909d8f2a8afc4777e4
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430195"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar os arquivos de reconciliação
@@ -88,7 +88,7 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Column</strong></td>
+<td><strong>Coluna</strong></td>
 <td><strong>Descrição</strong></td>
 <td><strong>Valor de exemplo</strong></td>
 </tr>
@@ -257,7 +257,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Column</strong></td>
+<td><strong>Coluna</strong></td>
 <td><strong>Descrição</strong></td>
 <td><strong>Valor de exemplo</strong></td>
 </tr>
@@ -918,21 +918,21 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 <tbody>
 <tr>
 <td>
-<p><strong>Descrição do encargo da fatura</strong></p>
+<p><strong>Descrição de encargo de fatura</strong></p>
 </td>
 <td>
-<p><strong>Descrição do encargo do arquivo de reconciliação (coluna ChargeType)</strong></p>
+<p><strong>Descrição de cobrança de arquivo de reconciliação (ChargeType coluna)</strong></p>
 </td>
 <td>
-<p><strong>O que é este encargo?</strong></p>
+<p><strong>O que é a cobrança?</strong></p>
 </td>
 <td>
-<p><strong>Como é possível mapear esses tipos de encargo na fatura?</strong></p>
+<p><strong>Como faço para mapear esses ChargeTypes à fatura?</strong></p>
 </td>
 </tr>
 <tr>
 <td rowspan="10">
-<p><strong>Cobranças baseada em licença</strong></p>
+<p><strong>Encargos de licença</strong></p>
 </td>
 <td>
 <p>Taxa de ativação</p>
@@ -1019,7 +1019,7 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 </tr>
 <tr>
 <td rowspan="2">
-<p><strong>Tarifas de uso</strong></p>
+<p><strong>Encargos de uso</strong></p>
 </td>
 <td>
 <p>Avaliar a taxa de uso ao cancelar</p>
@@ -1056,7 +1056,7 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 </tr>
 <tr>
 <td rowspan="4">
-<p><strong>Descontos baseados em uso</strong></p>
+<p><strong>Descontos com base no uso</strong></p>
 </td>
 <td>
 <p>Desconto de ativação</p>
@@ -1097,10 +1097,10 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 
 <tr>
 <td>
-<p><strong>Descontos baseados em licença</strong></p>
+<p><strong>Descontos de licença</strong></p>
 </td>
 <td>
-<p><em>Podem ser aplicados a vários tipos de cobrança</em></p>
+<p><em>Pode ser aplicado a vários tipos de custo</em></p>
 </td>
 <td>
 <p></p>
@@ -1114,8 +1114,8 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 <p><strong>Impostos</strong>&nbsp;ou&nbsp;<strong>IVA</strong></p>
 </td>
 <td>
-<p><em>Podem ser aplicados a vários tipos de cobrança</em></p>
-<p><em>Exceção: &quot;Deslocamento de um item de linha&quot; já inclui os impostos. Veja Créditos, acima.</em></p>
+<p><em>Pode ser aplicado a vários tipos de custo</em></p>
+<p><em>Exceção: &quot;Deslocamento de um item de linha&quot; já inclui os impostos. Ver créditos, acima.</em></p>
 </td>
 <td>
 <p>Impostos ou impostos sobre valor agregado (IVA)</p>

@@ -9,10 +9,10 @@ ms.author: evansma
 keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções fiscais, arquivos de reconciliação, arquivo de reconciliação
 ms.localizationpriority: medium
 ms.openlocfilehash: 4b087b231cd0a81ac03bf5aa19ba72b9a9695465
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430115"
 ---
 # <a name="billing"></a>Cobrança
@@ -40,15 +40,15 @@ Informações importantes sobre a cobrança de clientes:
 ## <a name="billing-resources"></a>Recursos de cobrança
 |**Para obter informações sobre**   |**Leia isto**    |
 |:-----------------------------|:-----------------|
-|Noções básicas sobre cobrança, pagamentos, faturas e muito mais   |[Noções básicas de cobrança](billing-basics.md)
-|Muitos recursos de cobrança novos, como cobrança anual   |[Perguntas frequentes sobre os novos recursos de cobrança](faq-about-new-billing-features.md)|
-|Tipos de cobrança   |[Noções básicas sobre os tipos de cobrança no Partner Center](billing-different-types.md)   |
-|A chave para a leitura da sua cobrança   |[Ler sua cobrança](read-your-bill.md)   |
+|Noções básicas sobre cobrança, pagamentos, faturas e muito mais   |[Noções básicas sobre cobrança](billing-basics.md)
+|Muitos recursos de cobrança novos, como cobrança anual   |[Perguntas Frequentes sobre os novos recursos de cobrança](faq-about-new-billing-features.md)|
+|Tipos de cobrança   |[Entendendo os tipos de cobrança no Partner Center](billing-different-types.md)   |
+|A chave para a leitura da sua cobrança   |[Ler sua fatura](read-your-bill.md)   |
 |Como ler e usar seu arquivo de reconciliação   |[Usar os arquivos de reconciliação](use-the-reconciliation-files.md)|
 |Cenários comuns de cobrança (descubra mais cenários de cobrança em [Perguntas frequentes sobre os novos recursos de cobrança](faq-about-new-billing-features.md))|[Cenários comuns de cobrança](common-billing-scenarios.md)|
-|Suas responsabilidades fiscais   | [Impostos e isenções fiscais](tax-and-tax-exemptions.md)|
+|Suas responsabilidades fiscais   | [Impostos e isenções de imposto](tax-and-tax-exemptions.md)|
 |Orçamento baseado em uso    |[Definir um orçamento de gastos do Azure para seus clientes](set-an-azure-spending-budget-for-your-customers.md)|
-|O que fazer em caso de não pagamento, fraude ou uso indevido   |[Não pagamento, fraude ou uso indevido](non-payment--fraud--or-misuse.md)|
+|O que fazer em caso de não pagamento, fraude ou uso indevido   |[Falta de pagamento, fraude ou uso indevido](non-payment--fraud--or-misuse.md)|
 
 
 

@@ -8,10 +8,10 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: ff8f149adda67ae911870ead8f3c03ab35f5f1be
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430095"
 ---
 # <a name="update-your-partner-profile"></a>Atualize seu perfil de parceiro
@@ -19,17 +19,17 @@ ms.locfileid: "59430095"
 
 Na primeira vez em que você entrar no Partner Center como um administrador, verifique se seus detalhes de suporte estão corretos, protocole isenções de impostos se apropriado e examine as informações de contato em seus perfis. Se sua organização tiver mais de um local, revise seus dados de localização quanto à precisão.
 
-**Atualizar seus detalhes de suporte**
+**Atualizar os detalhes de suporte**
 
 1.  Vá para **as configurações** &gt; **exibir todas as configurações** &gt; **perfil do parceiro**.
 2.  Na seção **Suporte**, selecione **Atualizar**.
 3.  Se algum cliente seu entrar em contato com a Microsoft em busca de suporte, ela o encaminhará para o site, o email e informações de contato que você incluir em seu perfil de suporte.
 
-**Protocole isenções de impostos**
+**Isenções de imposto de arquivo**
 
 -   Decida se isenções de impostos se aplicam a você e, em caso afirmativo, protocole-as antes de adicionar clientes ou assinaturas. Consulte [Impostos e isenções fiscais](tax-and-tax-exemptions.md).
 
-**Verifique as informações de seu perfil**
+**Verifique suas informações de perfil**
 
 1.  Vá para **as configurações** &gt; **exibir todas as configurações** . 
 2.  Revise seu **Perfil do parceiro**, **Perfil de cobrança do parceiro** e **Perfil organizacional**.

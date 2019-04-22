@@ -8,10 +8,10 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 86397bcbf16935499049c842d5b3fd32caeb2261
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430165"
 ---
 # <a name="tax-and-tax-exemptions"></a>Impostos e isenções fiscais
@@ -24,7 +24,7 @@ ms.locfileid: "59430165"
 
 Como o Provedor de Soluções na Nuvem é um canal de vendas concentrado na revenda de produtos do parceiro, a Microsoft nem sempre precisa cobrar impostos sobre vendas em faturas de parceiros. As regras variam de acordo com o país/região. Os parceiros devem trabalhar com seu consultor de impostos para protocolar as isenções fiscais apropriadas com base em seus locais e na localização de seus clientes. Para marcar sua conta de revendedor da Microsoft como não tributada, o parceiro deve enviar esses certificados de isenção para a Microsoft.
 
-**Protocole uma isenção de imposto**
+**Arquivo de uma isenção de imposto**
 
 1.  Pesquisar seus **ID da Microsoft** no Partner Center &gt; **configurações de conta** &gt; **perfil organização**.
 2.  Pesquisar seus **ID do MPN** no Partner Center &gt; **configurações de conta** &gt; **perfil do parceiro**.
