@@ -73,7 +73,7 @@ Examine as informações importantes abaixo antes de comprar reservas do Azure e
 > | Ilha Christmas               | Malaui                            | Santa Helena, Ascensão e Tristão da Cunha   |
 > | Ilhas Cocos (Keeling)        | Maldivas                          | Suriname                                 |
 > | Ilhas Comores                        | Máli                              | Svalbard                                 |
-> | Congo                          | Ilhas Marshall                  | Suazilândia                                |
+> | República do Congo                          | Ilhas Marshall                  | Suazilândia                                |
 > | Congo (República Democrática)                    | Martinica                        | Taiwan                                   |
 > | Ilhas Cook                   | Mauritânia                        | Timor-Leste                              |
 > | Djibuti                       | Mayotte                           | Togo                                     |

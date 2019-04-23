@@ -53,7 +53,7 @@ Se o local da sua empresa está na lista abaixo, você pode vender CSP oferece a
 | República Centro-Africana |   USD    |
 | Chade                     |   USD    |
 | Ilhas Comores                  |   USD    |
-| Congo                    |   USD    |
+| República do Congo                    |   USD    |
 | Congo (República Democrática)              |   USD    |
 | Côte d’Ivoire            |          |
 | Djibuti                 |   USD    |
@@ -105,7 +105,7 @@ Se o local da sua empresa está na lista abaixo, você pode vender CSP oferece a
 |  Hong Kong         |   USD    |
 |  Indonésia         |   USD    |
 |  Laos              |          |
-|  Macau             |   USD    |
+|  RAE de Macau             |   USD    |
 |  Malásia          |   USD    |
 |  Maldivas          |          |
 |  Myanmar           |          |
@@ -185,7 +185,7 @@ Se o local da sua empresa está na lista abaixo, você pode vender CSP oferece a
 |  República Tcheca |   EUR    |
 |  Dinamarca        |   DKK    |
 |  Estônia        |   EUR    |
-|  Ilhas Faroés  |   EUR    |
+|  Ilhas Faroe  |   EUR    |
 |  Finlândia        |   EUR    |
 |  França         |   EUR    |
 |  Alemanha        |   EUR    |
@@ -336,7 +336,7 @@ Se o local da sua empresa está na lista abaixo, você pode vender CSP oferece a
 |  Líbano        |   USD    |
 |  Lesoto        |   USD    |
 |  Líbia          |          |
-|  Macedônia, República da|   |
+|  Macedônia do Norte|   |
 |  Mauritânia     |   USD    |
 |  Moldova        |          |
 |  Mongólia       |          |
