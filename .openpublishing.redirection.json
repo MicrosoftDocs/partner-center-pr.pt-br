@@ -175,5 +175,115 @@
     "redirect_url": "/partner-center/sell-marketplace-products",
     "redirect_document_id": "FALSE"
   },
+  {
+    "source_path": "partner-center/connect-with-third-party.md",
+    "redirect_url": "/partner-center/sell-marketplace-products",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/search-third-party.md",
+    "redirect_url": "/partner-center/sell-marketplace-products",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/competencies.md",
+    "redirect_url": "/partner-center/learn-about-competencies",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/competency-application-development.md",
+    "redirect_url": "https://partner.microsoft.com/membership/competencies",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/competency-application-integration.md",
+    "redirect_url": "https://partner.microsoft.com/membership/competencies",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/competency-cloud-business-applications.md",
+    "redirect_url": "https://partner.microsoft.com/membership/competencies",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/competency-cloud-customer-relationship-management.md",
+    "redirect_url": "https://partner.microsoft.com/membership/competencies",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/competency-cloud-platform.md",
+    "redirect_url": "https://partner.microsoft.com/membership/competencies",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/competency-cloud-productivity.md",
+    "redirect_url": "https://partner.microsoft.com/membership/competencies",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/competency-collaboration-and-content.md",
+    "redirect_url": "https://partner.microsoft.com/membership/competencies",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/competency-communications.md",
+    "redirect_url": "https://partner.microsoft.com/membership/competencies",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/competency-data-analytics.md",
+    "redirect_url": "https://partner.microsoft.com/membership/competencies",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/competency-data-platform.md",
+    "redirect_url": "https://partner.microsoft.com/membership/competencies",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/competency-datacenter.md",
+    "redirect_url": "https://partner.microsoft.com/membership/competencies",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/competency-devops.md",
+    "redirect_url": "https://partner.microsoft.com/membership/competencies",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/competency-enterprise-mobility-management.md",
+    "redirect_url": "https://partner.microsoft.com/membership/competencies",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/competency-enterprise-resource-planning.md",
+    "redirect_url": "https://partner.microsoft.com/membership/competencies",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/competency-messaging.md",
+    "redirect_url": "https://partner.microsoft.com/membership/competencies",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/competency-project-and-portfolio-management.md",
+    "redirect_url": "https://partner.microsoft.com/membership/competencies",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/competency-small-and-midmarket-cloud-solutions.md",
+    "redirect_url": "https://partner.microsoft.com/membership/competencies",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/competency-windows-and-devices.md",
+    "redirect_url": "https://partner.microsoft.com/membership/competencies",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/suspend-a-subscription.md",
+    "redirect_url": "/partner-center/create-a-new-subscription#suspend-a-subscription",
+    "redirect_document_id": "FALSE"
+  }
     ]
 }
