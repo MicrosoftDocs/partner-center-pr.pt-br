@@ -1,19 +1,19 @@
 ---
 title: Criar vários usuários para uma conta de cliente | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Você pode adicionar vários usuários a uma conta do cliente de uma vez, carregando um arquivo de dados em formato de arquivo de valores separados por vírgula (.csv) no Partner Center.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: upload em massa, adicionar vários usuários a uma conta do cliente, adicionar usuários do cliente, upload em massa de usuários do cliente, conta do cliente, usuários do cliente, usuários
 ms.localizationpriority: medium
-ms.openlocfilehash: 12bb42d4e1dcf5003ac8790be777c483f216fd6f
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: b113736330b201ed6a4d1c6b8915e844b80fe5d5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584239"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134526"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Adicionar vários usuários a uma conta de cliente
 
@@ -60,7 +60,7 @@ Insira os seguintes dados no arquivo de dados:
     **Observação**  a maioria dos erros de criação de conta são causados por problemas de arquivo de dados, incluindo ausentes informações, endereços de email malformado ou duplicados ou muitos registros no arquivo.
 
 7.  Depois que o Partner Center valida o arquivo, selecione o geográfico **local** para os novos usuários.
-8.  Selecione **Salvar**.
+8.  Clique em **Salvar**.
 9.  Baixe as informações de senha temporária dos usuários.
 
 **IMPORTANTE:** Certifique-se de baixar o arquivo com as senhas temporárias agora você não poderá fazer isso mais tarde. Os novos usuários devem fazer logon em suas novas contas usando a respectiva senha temporária.

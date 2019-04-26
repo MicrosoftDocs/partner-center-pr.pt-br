@@ -1,17 +1,17 @@
 ---
 title: Use promoções para atrair novos clientes | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Como um parceiro da Microsoft no programa provedor de soluções na nuvem, você pode adquirir assinaturas no preço da promoção e repassar a economia para seus clientes.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 011f825d6cd4c47e793dd63fb8b1dcf61979453d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: eb925008e19a1512cfb43b340d4ecfa6c16f0e0d
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587429"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134656"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Use promoções para atrair novos clientes  
 

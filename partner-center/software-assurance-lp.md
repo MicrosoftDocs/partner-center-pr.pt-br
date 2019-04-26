@@ -7,11 +7,11 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 9a2f0fcb90ed13af3f885325f2211523df5c981e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587609"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133846"
 ---
 # <a name="participate-in-software-assurance-programs"></a>Participar dos programas de Software Assurance
 
@@ -20,7 +20,7 @@ Participação nos programas de Software Assurance, incluindo o Software Assuran
 |**Para saber mais sobre**   |**Leia isto**   |
 |--------------------------|:------------------|
 |Registrar no programa Software Assurance treinamento comprovantes (SATV)|[Programa de comprovantes de treinamento de garantia (SATV) de software no Partner Center](software-assurance-satv.md)|
-|Usando a ferramenta de validação de comprovante e o resgate|[Usar a ferramenta de validação de comprovante e resgate no Partner Center para validar, reservar e comprovantes de resgate](voucher-validation-tool.md)|
+|usando a ferramenta Voucher Validation and Redemption|[Usar a ferramenta de Validação e Resgate de Comprovante no Partner Center para validar, reservar e resgatar comprovantes](voucher-validation-tool.md)|
 |Registrar no planejamento dos serviços de Software Assurance|[Serviços de planejamento do Software Assurance no Partner Center](software-assurance-dps.md) 
 
 

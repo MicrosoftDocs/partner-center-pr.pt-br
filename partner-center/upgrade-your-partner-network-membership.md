@@ -1,18 +1,18 @@
 ---
 title: Atualizar sua associação do Microsoft Partner Network | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Quando você atualiza sua associação ao Microsoft Partner Network, você está qualificado para benefícios exclusivos de associação. Saiba como encontrar e comprar ofertas disponíveis.
 author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 5322b85cf8fb57d1c8cc203d39a3412f3e119772
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: c7d6639ef747c0089e89565680e96a22408770cb
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587669"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132856"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Atualizar sua associação ao Microsoft Partner Network
 

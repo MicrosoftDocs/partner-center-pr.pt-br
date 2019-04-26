@@ -6,11 +6,11 @@ description: Práticas recomendadas e requisitos para fornecer suporte aos seus 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: adce46be7073164bd285146bf8058bfa41a32709
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585779"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132536"
 ---
 # <a name="customer-support"></a>Atendimento ao cliente
 
@@ -48,9 +48,9 @@ Requisitos de suporte para os mais recentes, consulte o [guia de programação d
 
 **Consulte também**
 
--   [Fornecemos suporte técnico](provide-technical-support.md)
+-   [Fornecer suporte técnico](provide-technical-support.md)
 -   [Fornecer suporte de cobrança](provide-billing-support.md)
--   [Autosuporte ao cliente](customer-self-support.md)
+-   [Autoatendimento ao cliente](customer-self-support.md)
 
  
 ### <a name="escalate-a-customer-issue-to-21vianet"></a>Expandir um problema do cliente para 21Vianet 

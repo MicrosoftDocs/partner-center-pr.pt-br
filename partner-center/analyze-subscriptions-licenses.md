@@ -9,12 +9,12 @@ ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: d1db5bd56c172a36afa6cb90f0ab5c798e6ba95b
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 5ca4987d4af50bca8d2c298e325d5810e7d17033
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584529"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134876"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>Analisar assinaturas e licenças 
 

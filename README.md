@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 94eb23f854a85fa08ed01a0ccdaff8e546911d78
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132936"
+---
 # <a name="youve-added-your-first-readme-file"></a>Você adicionou seu primeiro arquivo Leiame!
 Um arquivo README.md destina-se a orientar rapidamente os leitores para o seu projeto pode ser feito.  Novo no Markdown? [Saiba mais](https://go.microsoft.com/fwlink/p/?LinkId=524306&clcid=0x409)
 

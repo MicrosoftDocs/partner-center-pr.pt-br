@@ -1,18 +1,18 @@
 ---
 title: Mudança do Centro de Administração do Parceiro para o Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Localizar no Partner Center os recursos que você está acostumado a usar no Centro de Administração do Parceiro
 author: LauraBrenner
 ms.author: labrenne
 keywords: PAC, administração do Office 365, recursos do PAC
 ms.localizationpriority: medium
-ms.openlocfilehash: 7200f93a25f74903805d095bbd821e07758873ab
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 2c6131dec100f438895cfa7d4f8fea5f6d66dacb
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584129"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134306"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Mover do Centro de administração do parceiro (PAC) para o Centro de parceiros
 

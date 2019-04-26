@@ -1,17 +1,17 @@
 ---
 title: Os incentivos para parceiros agora estão no Partner Center | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Os programas de incentivos estimulam os parceiros a desenvolver novas técnicas de marketing, oferecer treinamento e muito mais
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8387fd08a6826b0984e491d34ceba76266af59ab
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: eb1e6dcfb32970a634a393d8ce33c1a6128458e5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587509"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134166"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>Os incentivos para parceiros agora estão no Partner Center 
 

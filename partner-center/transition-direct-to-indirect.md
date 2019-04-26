@@ -8,11 +8,11 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: bill direto, transição, revendedores indiretos
 ms.openlocfilehash: c8173bbb8878448271a35178fd3f77016a6ba129
-ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "57682474"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134121"
 ---
 **Aplica-se a:**
  - Parceiros CSP

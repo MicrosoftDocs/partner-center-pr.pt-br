@@ -8,12 +8,12 @@ author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b3b3f5fe29830e786206e31927d015acc0ec7a7d
-ms.sourcegitcommit: 319b6f8850d95e2b10e6367312f9365e079a1c88
-ms.translationtype: MT
+ms.openlocfilehash: f1bbc53a1fa923e67c370e908fc209147a3eb69c
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "59533840"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135077"
 ---
 # <a name="consolidate-your-company-accounts"></a>Consolidar suas contas da empresa
 
@@ -35,4 +35,4 @@ No PMC, era possível para cada local para ter seus próprio competências, seus
 
 No Partner Center, porque todas as contas local serão consolidadas em uma conta, os benefícios e competências são consolidadas também. 
 
-Para obter informações sobre as diferenças entre o Partner Center e o PMC leia [movendo do PMC Partner Center](pmc-pc-map.md)
+Para obter informações sobre as diferenças entre o Partner Center e o PMC leia [movendo do PMC Partner Center](pmc-to-partner-center.md)

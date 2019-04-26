@@ -6,11 +6,11 @@ description: Depois de criar um registro de seu cliente no Partner Center, você
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 74e6b922ce8c745ca91f8ce4c0fa849bf41774a9
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584019"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132266"
 ---
 # <a name="create-a-new-subscription"></a>Crie uma nova assinatura
 

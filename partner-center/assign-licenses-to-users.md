@@ -1,19 +1,19 @@
 ---
 title: Tarefas de gerenciamento de usuários para contas de cliente | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Depois de comprar uma nova assinatura para um cliente, você pode atribuir licenças a usuários específicos.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: gerenciamento de cliente, conta, criar conta, licenças, atribuir licença, gerenciamento de usuário, senha, redefinição de senha, alterar senha
 ms.localizationpriority: medium
-ms.openlocfilehash: 2145455a063d1e21f6943abfc9d2f8905ed78a1e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: a66c1fe8965ecbc2d432efaf0a3e732b6ecd792b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586749"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134866"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Tarefas de gerenciamento de usuários para contas de cliente
 
@@ -93,7 +93,7 @@ Se precisar restaurar essa conta, você pode encontrá-la na guia **Usuários ex
 ## <a name="related-topics"></a>Tópicos relacionados
 
 
-[Atribuir ou revogar licenças para vários usuários](bulk-license-provisioning-for-multiple-users.md)
+[Atribuir ou revogar licenças de vários usuários](bulk-license-provisioning-for-multiple-users.md)
 
 [Criar vários usuários para uma conta de cliente](adding-multiple-users-to-a-customer-account.md)
 

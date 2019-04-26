@@ -8,11 +8,11 @@ ms.author: labrenne
 Keywords: treinamento, ferramenta de comprovante, valide o comprovante, declarações de garantia de software, DPS, SATV
 ms.localizationpriority: medium
 ms.openlocfilehash: 6cf844129bb1d684b10de2d4ff69f976235aef57
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587829"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132646"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>Usar a ferramenta de validação de comprovantes e resgate no Partner Center para validar, reservar e resgatar comprovantes 
 

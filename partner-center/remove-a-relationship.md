@@ -1,17 +1,17 @@
 ---
 title: Remova uma relação com um revendedor ou um cliente | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Remover uma relação remove qualquer relação comercial fechada do modo de exibição no Partner Center.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 02ce021614081caf088358513c4a7b5c7fe26a10
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 0d5548a2784b7952174165df80516758e58ab633
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587899"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134096"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>Remover uma relação de revendedor com um cliente
 

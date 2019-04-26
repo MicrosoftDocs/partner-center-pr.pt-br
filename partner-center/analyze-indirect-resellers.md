@@ -9,12 +9,12 @@ ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c16025637c80f7219da3655c5cc8fa051f7fe01e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: c86640d0334063b8daaffd3c447597a57b9662dd
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587299"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134896"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>Analisar o desempenho de revendedores indiretos 
 

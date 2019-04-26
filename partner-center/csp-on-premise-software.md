@@ -1,19 +1,19 @@
 ---
 title: Vender software local por meio do CSP | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Venda software local por meio do CSP.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Provedor de Soluções na Nuvem, CSP, serviços baseados na Nuvem, Azure, Office 365, Dynamics, parceiro CSP, vender no CSP, parceiro direto, parceiro CSP direto, revendedor CSP indireto, CSP direto, CSP indireto, modelo direto, modelo indireto, revendedor indireto, provedor indireto, provedor, distribuidor, programa provedor de soluções na nuvem
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: fde92419bf0cfbe0095502e5b0684d1c86545b70
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: d02b1ff64aa529c4f36dc50e16187bb48fa88bab
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584599"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134796"
 ---
 # <a name="sell-on-premise-software-through-csp"></a>Vender software local por meio do CSP
 

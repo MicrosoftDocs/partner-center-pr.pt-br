@@ -6,11 +6,11 @@ description: Revendedores de provedor de soluções de nuvem na China podem forn
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d3e32af7f96f2261e3e03550dd5519258a58dec6
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584289"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132623"
 ---
 # <a name="provide-technical-support"></a>Forneça suporte técnico
 
@@ -52,8 +52,8 @@ Você pode executar algumas tarefas administrativas em nome de seus clientes no 
 **Consulte também**
 
 -   [Fornecer suporte de cobrança](provide-billing-support.md)
--   [Autosuporte ao cliente](customer-self-support.md)
--   [Suporte ao cliente](customer-support.md)
+-   [Autoatendimento ao cliente](customer-self-support.md)
+-   [Atendimento ao cliente](customer-support.md)
 
 
  

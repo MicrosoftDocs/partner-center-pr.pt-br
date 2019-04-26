@@ -6,11 +6,11 @@ description: Depois de criar uma nova assinatura para um cliente, você pode cri
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: c79e2dd52440f19bc09d530a98448f0f778ef771
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584009"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132096"
 ---
 # <a name="assign-licenses-to-users"></a>Atribua licenças a usuários
 

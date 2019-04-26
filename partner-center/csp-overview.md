@@ -1,18 +1,18 @@
 ---
 title: Programa Provedor de Soluções na Nuvem - vender soluções de nuvem em demanda | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: O Programa Provedor de Soluções na Nuvem pode ajudar você a expandir seus negócios com novos clientes e novos conhecimentos.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Provedor de Soluções na Nuvem, CSP, serviços baseados na Nuvem, Azure, Office 365, Dynamics, parceiro CSP, vender no CSP, parceiro direto, parceiro CSP direto, revendedor CSP indireto, CSP direto, CSP indireto, modelo direto, modelo indireto, revendedor indireto, provedor indireto, provedor, distribuidor, programa provedor de soluções na nuvem
 ms.localizationpriority: medium
-ms.openlocfilehash: 1840d87626bef935347218b44d44c3d44607722d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 12bc6a32dd6b1890e66076b280dba4d38588eee5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584189"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134746"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programa Provedor de Soluções na Nuvem - vender soluções de nuvem em demanda 
 
@@ -75,6 +75,6 @@ Você pode vender a gama completa de [serviços em nuvem da Microsoft](https://p
 |:---------------------------|:--------------------|
 |Requisitos para cada modelo CSP   | [Programa de provedor de soluções de nuvem](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |Vender em nuvens nacionais da Microsoft   | [Aplicar para vender em nuvens nacionais da Microsoft](csp-national-clouds-overview.md)|
-|Modelos de cliente do contrato do Microsoft Cloud   |[Contratos de nuvem da Microsoft por região e idioma](agreements.md)|
+|Modelos de cliente do contrato do Microsoft Cloud   |[Contratos do Microsoft Cloud por região e idioma](agreements.md)|
 |Tarefas de provedor indireto no Partner Center  |[Parcerias com revendedores indiretos no programa de provedor de soluções de nuvem](indirect-provider-tasks-in-partner-center.md)|
 |Tarefas de revendedor indireta no Partner Center   |[Parcerias com provedores indiretos no programa de provedor de soluções de nuvem](indirect-reseller-tasks-in-partner-center.md)|

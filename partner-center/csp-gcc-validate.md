@@ -1,17 +1,17 @@
 ---
 title: Critérios de qualificação de parceiros e clientes do Office 365 Government GCC | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Procedimentos para validação de parceiros e clientes para o Office 365 Government GCC para CSP.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a7aa26c44e09285b2d6cdb69d83f756e15493497
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: eeb6cc3bc4c34d9006da46b86af4b80c83e18406
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586949"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134846"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Critérios de qualificação de parceiros e clientes do Office 365 Government GCC para CSP
 
@@ -40,7 +40,7 @@ Os parceiros e clientes do Office 365 Government GCC para CSP serão validados p
 2.  Serve clientes do governo dos EUA por meio de GSA ou outros veículos de contrato
 
 **Critérios do cliente**
-1.  Entidade governamental dos EUA em sua capacidade governamental. Por exemplo:
+1.  Entidade governamental dos EUA em sua capacidade governamental. Por exemplo: 
  
     -  Agência federal (por exemplo, bureau, agência, departamento ou outra entidade do governo dos Estados Unidos)
     -   Entidade estadual/local 

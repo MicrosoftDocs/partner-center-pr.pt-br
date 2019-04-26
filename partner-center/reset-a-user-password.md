@@ -1,18 +1,18 @@
 ---
 title: Redefinir a senha do usuário | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Se os usuários se esquecerem da senha, você poderá atribuir a eles uma nova senha temporária. Eles poderão usá-la na próxima vez que entrarem no Partner Center.
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a7643907f809fdb1fcfe58199ae98c32272416dd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: efb357b1b9157155fdf5cf7f9ee59afa2c8b9abc
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587699"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133907"
 ---
 # <a name="reset-a-user-password"></a>Redefinir a senha de usuário
 

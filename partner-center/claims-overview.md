@@ -1,18 +1,18 @@
 ---
 title: Declarações de cooperação incentivos | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Envie suas reivindicações de incentivos sem precisar ter seu plano de atividade examinado primeiro.
 author: LauraBrenner
 ms.author: labrenne
 keywords: reivindicações de incentivos, reivindicações de cooperação, fundos de cooperação
 ms.localizationpriority: medium
-ms.openlocfilehash: 15d7f1c09eb3df619876d8f88bb50ec11114ebc4
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.openlocfilehash: c1ba6ca1fcc624958355761b5d36ffafb9dface2
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430105"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135346"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Visão geral de reivindicações de cooperação de incentivos
 
@@ -38,6 +38,6 @@ Uma reivindicação bem-sucedida inclui:
 |Depois que você tiver enviado a reivindicação, gerenciar solicitações de documentação adicional|[Criar e gerenciar uma declaração de atividade do programa incentivos](create-incentives-claims.md)  |
 |Conhecer os principais requisitos para a reivindicação de atividade|[Conhecer os principais requisitos de declarações de incentivos](core-requirements.md)   |
 |Conhecer os detalhes completos do programa de incentivos|[Guia de cooperação incentivos aos parceiros](https://assets.microsoft.com/coop-guidebook.pdf)
-|Enviar uma declaração de taxa de venda OSA ou declaração de associação de receita de ISV |[Envie suas declarações OSA no Partner Center](submit-osa-claim.md)|
+|Enviar uma declaração de taxa de venda OSA ou declaração de associação de receita de ISV |[Enviar solicitações de OSA no Partner Center](submit-osa-claim.md)|
                                                                                  
                                    

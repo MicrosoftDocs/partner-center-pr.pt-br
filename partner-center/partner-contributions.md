@@ -1,18 +1,18 @@
 ---
 title: Contribuição de parceiros - mantenha o controle de seus indicadores de desempenho | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Usar dados de contribuições de parceiro para entender como sua empresa está crescendo e êxito
 author: LauraBrenner
 ms.author: labrenne
 keywords: dados de negócios
 ms.localizationpriority: medium
-ms.openlocfilehash: 765f37a031098d65460e2cc603eb3d4efb8e4ea3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e6281e31e0049cb865e212485b6f5cf030516135
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587359"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134167"
 ---
 # <a name="partner-contribution-stay-on-top-of-your-performance-indicators"></a>Contribuição de parceiros: mantenha o controle de seus indicadores de desempenho
 
@@ -62,7 +62,7 @@ Seus comentários sobre a contribuição de parceiros são bem-vindos. Envie par
 1. Por que não consigo ver a página Contribuição de parceiros?
     - A contribuição de parceiros está disponível somente para parceiros que vendem o Dynamics 365 com contas MPN ou CSP. Esse recurso ainda não está habilitado para a China e a Alemanha.
 2. Sou um parceiro Dynamics 365, por que não consigo ver os dados da Contribuição de parceiros?
-    - Talvez você não tenha uma função de conta CSP ou MPN. Por exemplo: O Supervisor e DAP não são habilitados ainda.  
+    - Talvez você não tenha uma função de conta CSP ou MPN. Por exemplo:  O Supervisor e DAP não são habilitados ainda.  
     - Talvez você não tenha a função de usuário apropriada em sua organização para exibir essa página. Entre em contato com o administrador global.
     - Sua organização está localizada na China ou na Alemanha.
 

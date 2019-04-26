@@ -1,18 +1,18 @@
 ---
 title: Fornecer suporte para a cobrança | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Você tem a relação de cobrança com seus clientes e oferece suporte completo a qualquer pergunta relacionada à cobrança de seus clientes.
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 9744dee5696ffd6ccd2fc0f7a32e4b2f53e80722
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: fdc7bdf8dc79bba7e3328fb19a4bdbd9a78d904b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586289"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133966"
 ---
 # <a name="provide-billing-support"></a>Fornecer suporte para a cobrança
 

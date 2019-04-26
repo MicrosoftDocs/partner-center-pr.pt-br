@@ -1,19 +1,19 @@
 ---
 title: Gerenciar sua conta do Partner Center | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Gerencie perfil da sua organização, bancário e informações de imposto e usuários no Partner Center.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 6b0e9ba672bb22d4b72c58d5a344bbd736f243f9
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.openlocfilehash: e08328258964509a7d01a4e4624d01025cc8449e
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430175"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134236"
 ---
 # <a name="manage-your-partner-center-account"></a>Gerencie sua conta do Partner Center
 

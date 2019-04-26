@@ -1,18 +1,18 @@
 ---
 title: Disponibilidade da SKU única do Office 365 E5 no CSP | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: A SKU única do Office 365 E5 está disponível no CSP e inclui Conferência PSTN.
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a16a02f64e1f87d5b5db44f8987a79f1f373459d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e31c7e5ab11e16d1176a0872d0e3dd70e31103a4
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585329"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134326"
 ---
 # <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Consultoria de parceiro do Office 365: Disponibilidade de única SKU do Office 365 E5 no CSP
 
@@ -86,9 +86,9 @@ Clientes de conferência
 
 64c8233d-29d5-47c1-91b2-773226487213
 
-2,00
+2.00
 
-2,00
+2.00
 
 Complemento PSTN
 
@@ -140,9 +140,9 @@ Conferência PSTN do Skype for Business para E5 sem clientes de Conferência PST
 
 64c8233d-29d5-47c1-91b2-773226487213
 
-2,00
+2.00
 
-2,00
+2.00
 
 Complemento PSTN
 
@@ -195,7 +195,7 @@ Um exemplo de reconciliação de parceiros:
 <td><p>11/08/2016 0:00</p></td>
 <td><p>10/09/2016 0:00</p></td>
 <td><p>Taxa do ciclo</p></td>
-<td><p>2,00</p></td>
+<td><p>2.00</p></td>
 </tr>
 </tbody>
 </table>

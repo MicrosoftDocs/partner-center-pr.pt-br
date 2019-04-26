@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: declarações de incentivos, declarações de cooperação, os fundos de cooperação, OSA, ISV, associação de receita, o nome de domínio, ID de diretório
 ms.localizationpriority: medium
 ms.openlocfilehash: 1a267de71c050ede872feaf6e1b24588fba74792
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430629"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135646"
 ---
 #<a name="find-your-customers-domain-name-and-directory-id"></a>Localizar o nome de domínio do seu cliente e a ID de diretório
 

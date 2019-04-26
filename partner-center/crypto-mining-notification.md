@@ -1,19 +1,19 @@
 ---
 title: Notificação do Partner Center para a atividade de mineração crypto | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Notificação sobre o andamento de potencial criptomineração.
 author: LauraBrenner
 ms.author: v-petand
 Keywords: mineração de criptomoeda crypto-mining, segurança
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: cac28b394ee0593e5f1e313cb14e7b6dfa45520a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: b2a9a93d71b6464c0e3b2932b9da366e1bbbb845
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587489"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135041"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notificação do Partner Center para a atividade de mineração de criptomoeda
 

@@ -1,17 +1,17 @@
 ---
 title: Gerenciamento de usuários e licenças no Partner Center do Microsoft Cloud for US Government | Partner Center do Microsoft Cloud for US Government
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Não há recursos de gerenciamento de usuários disponíveis no Partner Center do Microsoft Cloud for US Government para atender aos requisitos nacionais, regionais e específicos do setor que regem a coleta e o uso de dados das pessoas. Em vez disso, adicione e gerencie usuários no portal do Azure do Microsoft Cloud for US Government.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f92b466f20c894be8c1cd6768409edb9aa80103f
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: a1ab4524d5a5d13f5f704a4f4760ef9c163f9a02
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584149"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132926"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Gerenciamento de licença e usuários no Partner Center do Microsoft Cloud for US Government
 

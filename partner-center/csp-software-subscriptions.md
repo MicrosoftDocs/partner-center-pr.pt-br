@@ -9,11 +9,11 @@ keywords: Provedor de Soluções na Nuvem, CSP, Serviços baseados na nuvem, Azu
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 5454fe66de5f91406bf97185796dcc5bbbcaee08
-ms.sourcegitcommit: d7dbf7169864141b1cd5e3a75f0759c7da03a01e
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "58307027"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134736"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vender assinaturas de software por meio do CSP
 

@@ -1,17 +1,17 @@
 ---
 title: Perguntas frequentes sobre o Partner Center para Microsoft Cloud for US Government | Perguntas frequentes sobre o Partner Center para Microsoft Cloud for US Government
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Use estas perguntas frequentes para saber mais sobre o programa CSP (Provedor de Soluções na Nuvem) do Microsoft Cloud for US Government. Você também pode entrar em contato com seu gerente de conta para obter informações adicionais.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3738ea042532e4479f60203b3ca58cd902a29435
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 1f8d5f39c2ac00049c9e63de21f18afa6bed8b18
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586139"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135436"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Perguntas frequentes sobre o Partner Center para Microsoft Cloud for US Government
 

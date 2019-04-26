@@ -6,11 +6,11 @@ description: Solicitar uma relação de revendedor é usado para cenários de mu
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 7e4a5edb51521beedfda33aecb88e215375e0d86
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583969"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132516"
 ---
 # <a name="request-a-reseller-relationship-with-a-customer"></a>Solicitar uma relação de revendedor com um cliente
 

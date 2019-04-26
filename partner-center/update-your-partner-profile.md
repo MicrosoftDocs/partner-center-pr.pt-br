@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: ff8f149adda67ae911870ead8f3c03ab35f5f1be
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430095"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132886"
 ---
 # <a name="update-your-partner-profile"></a>Atualize seu perfil de parceiro
 

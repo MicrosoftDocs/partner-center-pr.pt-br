@@ -6,11 +6,11 @@ description: Como atualizar o perfil do parceiro no Partner Center.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 4b7090ba6692627c5f2532b3231c818c8bc51453
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586199"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132216"
 ---
 # <a name="update-your-partner-profile"></a>Atualize seu perfil de parceiro
 

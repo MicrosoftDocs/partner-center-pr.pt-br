@@ -1,19 +1,19 @@
 ---
 title: Criar e gerenciar uma declaração de incentivos | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Declarações de cooperação incentivos iniciação do Partner Center. Você pode ver todas as atividades da sua reivindicação no Histórico.
 author: LauraBrenner
 ms.author: labrenne
 keywords: reivindicações de incentivos, reivindicações de cooperação, fundos de cooperação
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c48761825888e646b689328772de400181d9a362
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: adccedd89123a2dbe40500cba11c63f832e6c8f5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586409"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134956"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>Criar e gerenciar uma reivindicação de incentivos
 

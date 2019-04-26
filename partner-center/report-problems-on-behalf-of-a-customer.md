@@ -9,11 +9,11 @@ ms.author: evansma
 Keywords: solicitação de serviço, o tíquete de serviço, suporte, suporte de qualificação, administrar em nome, administrar em nome do Azure
 ms.localizationpriority: medium
 ms.openlocfilehash: af024782202bc2127b76277b29049e3d34f17215
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584489"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134056"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Relatar problemas em nome de um cliente
 

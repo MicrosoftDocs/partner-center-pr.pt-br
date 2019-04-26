@@ -1,19 +1,19 @@
 ---
 title: Verificar a integridade do serviço | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Uma das primeiras coisas que você pode fazer quando um cliente estiver tendo problemas com um serviço é verificar a integridade do serviço.
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: integridade, a integridade do serviço, problemas de serviço
 ms.localizationpriority: medium
-ms.openlocfilehash: 81e4cb9ed1d866f52767a4fe2a5065d0e595d79d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 8557073973b59ebe8129cc0dcf58999b43186aed
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584519"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135326"
 ---
 # <a name="check-service-health"></a>Verificar a integridade do serviço
 

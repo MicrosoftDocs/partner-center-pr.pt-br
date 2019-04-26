@@ -1,19 +1,19 @@
 ---
 title: Adicionar licenças ou serviços a uma assinatura existente | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Se seu cliente precisar de mais licenças do que as fornecidas pela assinatura atual ou de uma versão diferente com serviços adicionais, você poderá fazer upgrade da assinatura.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: adicionar licenças à assinatura existente, adicionar estações à assinatura existente, modificar uma assinatura, alterar uma assinatura, comprar mais licenças para um cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: b76a0d4fd5bf8829c6e2426174f5873f30757315
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 0f8ec69595c81a60c26153640274b6b29b1f9fc1
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585429"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134536"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Adicionar licenças ou serviços a uma assinatura existente
 

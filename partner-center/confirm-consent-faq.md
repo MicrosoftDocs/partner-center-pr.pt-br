@@ -1,18 +1,18 @@
 ---
 title: Perguntas frequentes sobre confirmação de aceitação de cliente do Contrato do Microsoft Cloud | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Perguntas Frequentes para confirmação de aceitação do cliente
 author: LauraBrenner
 ms.author: v-petand
 keywords: clientes, clientes, o consentimento, perguntas Frequentes, MCA, contrato do Microsoft Cloud
 ms.localizationpriority: medium
-ms.openlocfilehash: 6f95de539e056c086e921d7b4eda62f3cbffa30e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 52f38191aefa722b96ca5f104e9af023952bd7d7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587399"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135006"
 ---
 # <a name="microsoft-cloud-agreement-customer-acceptance-confirmation-frequently-asked-questions"></a>Perguntas frequentes sobre confirmação de aceitação de cliente do Contrato do Microsoft Cloud
 
@@ -57,7 +57,7 @@ Não há nenhum processo de notificação.
 
 **Por que a Microsoft está exigindo parceiros confirmar que os clientes tiverem aceitado o contrato de nuvem da Microsoft?** 
 
-O contrato de nuvem da Microsoft protege os parceiros, clientes e Microsoft, fornecendo os direitos de uso do cliente, termos e condições concedidas para pedidos de produtos e serviços do Microsoft Cloud. 
+O Contrato do Microsoft Cloud protege os parceiros, os clientes e a Microsoft fornecendo direitos de uso do cliente, termos e condições concedidos para pedidos de serviços e produtos do Microsoft Cloud. 
 
 A execução adequada do contrato de nuvem da Microsoft protege os nossos parceiros, clientes e Microsoft, assegura o alinhamento mútuo sobre vários tópicos importantes como, mas não limitado a segurança, privacidade e proteção de dados. O processo de confirmação garante a transparência e o alinhamento e permite que a Microsoft ajudar a melhor os clientes que precisam responder imediatamente a consultas normativas.
 

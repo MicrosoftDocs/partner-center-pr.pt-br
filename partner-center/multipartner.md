@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: b7843049ad4fd79dc4331262ed034ee05bd2281f
-ms.sourcegitcommit: 9bf271e05d7114e4c954a8102471b74323a3dafc
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "58320739"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134286"
 ---
 # <a name="multi-partner-support"></a>Suporte multi-parceiro
 

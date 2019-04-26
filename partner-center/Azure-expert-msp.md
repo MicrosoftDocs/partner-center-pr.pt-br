@@ -9,11 +9,11 @@ Keywords: Vendas do Azure, especialista em programas, programas de parceria
 robots: ''
 ms.localizationpriority: medium
 ms.openlocfilehash: 4ad3ba4a5f8646b70ff2c8bd8aee950ff5c30339
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584209"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134546"
 ---
 # <a name="azure-expert-managed-services-provider-program"></a>Programa de provedor de serviços gerenciados do especialista do Azure
 

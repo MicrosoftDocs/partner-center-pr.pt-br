@@ -1,19 +1,19 @@
 ---
 title: Gerenciar reservas do Azure em nome dos seus clientes | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Para gerenciar a pós-compra de de reservas do Azure dos seus clientes, você vai selecionar o cliente e a reserva que você deseja gerenciar no Partner Center e, em seguida, fazer alterações à reserva no portal do Azure.
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure, reservas, gerenciar, cobrança, compra, cancelar, exchange, taxa de rescisão antecipada
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: de1846b6259764b40059ece1d311e5f63587a525
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: bdd79c7c88f6ad553f1a8733e17d434dfbaf2a99
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584499"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134786"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gerenciar reservas do Microsoft Azure em nome dos seus clientes
 

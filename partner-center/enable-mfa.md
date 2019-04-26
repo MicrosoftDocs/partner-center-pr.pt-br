@@ -9,11 +9,11 @@ ms.author: labrenne
 Keywords: integridade, a integridade do serviço, problemas de serviço
 ms.localizationpriority: medium
 ms.openlocfilehash: b04440e11f3f04ca68e56e440585bb9da55f8a27
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586579"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135566"
 ---
 # <a name="you-must-enable-multi-factor-authentication-mfa-on-your-tenant-to-gain-access-to-partner-center"></a>Você deve habilitar a autenticação multifator (MFA) em seu locatário para obter acesso ao Partner Center
 

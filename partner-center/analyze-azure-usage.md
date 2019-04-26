@@ -9,12 +9,12 @@ ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8cfb26dd5658648cb0859f557984d47a51125076
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 9bd76a51664b18a8b3cea1e4163415480186fd86
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586259"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62131867"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Obter dados sobre o uso de assinaturas do Azure de seus clientes 
 

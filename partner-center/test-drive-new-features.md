@@ -1,17 +1,17 @@
 ---
 title: Teste os novos recursos do Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Teste os novos recursos do Partner Center antes que eles sejam lançados e conte-nos sua opinião. Ajude a moldar o futuro do Partner Center!
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 9bcf606a18d93acd532a9a3225ab01f1ba2f23ef
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 95e27b6f52e3a01030569416a7f715e072fd5de7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585879"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133996"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Teste os novos recursos do Partner Center
 

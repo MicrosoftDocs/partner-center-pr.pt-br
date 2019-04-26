@@ -6,11 +6,11 @@ description: Você tem a relação de cobrança com seus clientes e oferece supo
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: a345a5594fd0f8cc58910863a7162b96eec37f17
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585759"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132446"
 ---
 # <a name="provide-billing-support"></a>Fornecer suporte para a cobrança
 
@@ -31,7 +31,7 @@ Para disputas de cobrança ou outros problemas de cobrança que você não conse
 
 **Consulte também**
 
--   [Não-pagamento, fraude ou uso indevido](non-payment-fraud-or-misuse.md)
--   [Fornecemos suporte técnico](provide-technical-support.md)
--   [Suporte ao cliente](customer-support.md)
+-   [Falta de pagamento, fraude ou uso indevido](non-payment-fraud-or-misuse.md)
+-   [Fornecer suporte técnico](provide-technical-support.md)
+-   [Atendimento ao cliente](customer-support.md)
 

@@ -8,11 +8,11 @@ ms.author: evansma
 keywords: Provedor de Soluções na Nuvem, programa provedor de soluções na nuvem, CSP, adicionar um produto, vender para clientes, ofertas de parceiro, ofertas de CSP, serviços baseados em nuvem, Azure, Office 365, Dynamics, parceiro CSP, vender no CSP, Azure RI, instâncias de máquina virtual reservadas do Azure, reservas do Azure, serviços online, software de assinatura, AHUB, SQL Server no Azure, Windows Server no Azure, assinaturas de cliente
 ms.localizationpriority: medium
 ms.openlocfilehash: ea246701f57615064a87abb37cecafbb0d9151dc
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586709"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134806"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Ofertas de parceiro no programa Provedor de Soluções na Nuvem 
 

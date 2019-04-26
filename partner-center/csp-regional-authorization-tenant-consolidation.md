@@ -1,19 +1,19 @@
 ---
 title: Consolidação de locatários de autorização regional do CSP | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Use estas instruções para consolidar locatários para países/regiões diferentes.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: migrar provedores, provisionamento, conta de locatário, consolidar locatários
 ms.localizationpriority: medium
-ms.openlocfilehash: 183b5f518a57fdaf27badce5927a2ea09a5ec89c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: c2226fea4523b5f34a2cb1b5fcfcde88048dda82
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587549"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134761"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidação de locatários de autorização regional do CSP
 
