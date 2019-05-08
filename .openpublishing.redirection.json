@@ -284,6 +284,12 @@
     "source_path": "partner-center/suspend-a-subscription.md",
     "redirect_url": "/partner-center/create-a-new-subscription#suspend-a-subscription",
     "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/incentives-payouts.md",
+    "redirect_url": "/partner-center/understand-incentives-payouts.md",
+    "redirect_document_id": "FALSE"
   }
-    ]
+  ]
 }
+        
