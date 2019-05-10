@@ -86,7 +86,7 @@ A seguir, uma lista abrangente de recursos para ajudá-lo a se integrar rapidame
 **Operações**
 
 - [Guia de operações de comércio moderno](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (atualizado):  Um guia abrangente que abrangem a política de chave e os aspectos operacionais, como contratos, ordenação por meio do Partner Center, nota fiscal, detalhes da lista de preços, incentivos, arquivo de reconciliação, API/SDK, área restrita e serviços compartilhados do parceiro do Azure.
-- [Matriz de Moeda do Cliente e Disponibilidade por País de Ofertas Modernas](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
+- [Matriz de Moeda do Cliente e Disponibilidade por País/Região de Ofertas Modernas](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [Vende instâncias reservadas do Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=872806)
 - [Comprar Reservas do Microsoft Azure em nome de seus clientes](https://go.microsoft.com/fwlink/?linkid=872807)
 - [Gerenciar reservas do Azure em nome de seus clientes](https://go.microsoft.com/fwlink/?linkid=872808)

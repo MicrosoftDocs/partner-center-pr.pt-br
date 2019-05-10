@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: c3de548b5986db66d103129e40fdacbe5ca4bff8
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.openlocfilehash: 38bdae28d49553e39827375b1ab1c1376e3378b3
+ms.sourcegitcommit: 17d030d87530d4c9832e8be7aeff37821941d343
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134581"
+ms.lasthandoff: 05/03/2019
+ms.locfileid: "65035519"
 ---
 # <a name="welcome-to-partner-center"></a>Bem-vindo ao Partner Center
 
@@ -85,9 +85,9 @@ O Microsoft Partner Center é o local completo para o gerenciamento do seu relac
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
-                    <div class="cardText"><a href="/partner-center/software-assurance-lp">
-                        <h3>Programas do Software Assurance</h3>
-                        <p>Agora você pode se registrar no treinamento do Software Assurance e nos serviços de implantação no Partner Center.</p></a>
+                    <div class="cardText"><a href="/partner-center/move-pmc-pc-map">
+                        <h3>Mudança do PMC para o PC</h3>
+                        <p>Descubra como preparar sua empresa para a mudança para o Partner Center</p></a>
                     </div>
                 </div>
             </div>
@@ -97,9 +97,9 @@ O Microsoft Partner Center é o local completo para o gerenciamento do seu relac
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
-                    <div class="cardText"><a href="/partner-center/voucher-validation-tool">
-                        <h3>Ferramenta de Validação e Resgate de Comprovante</h3>
-                        <p>Solicite e resgate os comprovantes que dão suporte às necessidades de negócios e de desenvolvimento de seus clientes.</p></a>
+                    <div class="cardText"><a href="/partner-center/Azure-expert-msp">
+                        <h3>Programa do provedor de serviços gerenciados do Azure Expert</h3>
+                        <p>Sua empresa é uma superstar em vendas e suporte ao Azure? Consulte sobre a inscrição no programa MSP do Azure Expert</p></a>
                     </div>
                 </div>
             </div>
@@ -134,7 +134,7 @@ O Microsoft Partner Center é o local completo para o gerenciamento do seu relac
                     </div>
                     <div class="cardText">
                         <h3>Inscreva-se</h3>
-                        <p><a href="/partner-center/mpn-create-a-partner-center-account">Criar uma conta</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">Gerenciar seu locatário e seus locais</a></p>
+                        <p><a href="/partner-center/manage-locations">Gerencie seus locais</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">Gerencie seu locatário</a></p>
                     </div>
                 </div>
             </div>
@@ -151,7 +151,7 @@ O Microsoft Partner Center é o local completo para o gerenciamento do seu relac
                     </div>
                     <div class="cardText">
                         <h3>Conectar-se com clientes</h3>
-                        <p><a href="/partner-center/customer-accounts">Contas de clientes</a><br /><a href="/partner-center/customer-subscriptions">Vender assinaturas</a><br /><a href="/partner-center/assign-licenses-to-users">Gerenciar licenças</a><br /><a href="/partner-center/billing">Cobrança</a></p>
+                        <p><a href="/partner-center/csp-offers">Compre produtos para clientes</a><br /><a href="/partner-center/customer-subscriptions">Vender assinaturas</a><br /><a href="/partner-center/assign-licenses-to-users">Gerenciar licenças</a><br /><a href="/partner-center/billing">Cobrança</a></p>
                     </div>
                 </div>
             </div>
