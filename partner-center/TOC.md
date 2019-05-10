@@ -51,7 +51,7 @@
 ## [Solicitações de incentivos](claims-overview.md)
 ### [Criar e gerenciar as solicitações de incentivos](create-incentives-claims.md)
 ### [Requisitos básicos de solicitações de incentivos](core-requirements.md)
-### [Visão geral de pagamento de solicitações de incentivos](incentives-payouts.md)
+### [Entender seus pagamentos de incentivo](understand-incentive-payouts.md)
 ### [Enviar solicitações de OSA no Partner Center](submit-osa-claim.md)
 
 
