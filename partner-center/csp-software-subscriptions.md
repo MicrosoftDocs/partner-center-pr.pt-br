@@ -1,25 +1,25 @@
 ---
 title: Vender assinaturas de software por meio do CSP | Partner Center
 ms.topic: article
-ms.date: 03/20/2019
+ms.date: 05/13/2019
 description: Agora você pode adquirir, provisionar e gerenciar instâncias reservadas do Azure e assinaturas de servidor em nome dos clientes comerciais por meio do Microsoft Partner Center e do Portal do Azure tirando proveito do Benefício Híbrido do Azure.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Provedor de Soluções na Nuvem, CSP, Serviços baseados na nuvem, Azure, Azure RI, Windows Server, SQL Server, assinaturas de software
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5454fe66de5f91406bf97185796dcc5bbbcaee08
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2a38ace2eb565ca0264d9d4154b4a9876f434494
+ms.sourcegitcommit: 2524f327d8e6213cc7d40d196c0963204f0668e6
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134736"
+ms.lasthandoff: 05/23/2019
+ms.locfileid: "66176192"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vender assinaturas de software por meio do CSP
 
-Trazendo reservas do Azure e o Windows Server e o SQL Server assinaturas para o programa CSP da Microsoft, a Microsoft está melhor permitindo seus parceiros para solucionar o rápido crescimento demanda do cliente por soluções mais econômicas dar suporte a altamente previsível e cargas de trabalho de nuvem persistentes. 
+Com reservas do Azure e assinaturas de servidor (Windows Server e as assinaturas do SQL Server), os parceiros a lata de programa CSP melhor a demanda do cliente em rápido crescimento para soluções mais econômicas dar suporte a altamente previsível e persistente de endereço cargas de trabalho de nuvem. 
 
-Agora você pode adquirir, provisionar e gerenciar reservas do Azure e assinaturas de servidor em nome dos clientes comerciais por meio do Microsoft Partner Center e o Portal do Azure, tirando proveito do benefício híbrido do Azure. 
+Agora você pode adquirir, provisionar e gerenciar reservas do Azure e assinaturas de servidor em nome dos clientes comerciais por meio do Partner Center e o Portal do Azure, tirando proveito do benefício híbrido do Azure. 
 
 O Benefício Híbrido do Azure ajuda você a obter mais valor de suas licenças do Windows Server e a economizar até 40% em máquinas virtuais. Você pode usar o benefício com licenças do Windows Server Datacenter e Standard edition cobertas com Software Assurance. Dependendo da edição, você pode converter ou reutilizar suas licenças para executar máquinas virtuais do Windows Server no Azure e pagar uma taxa mais baixa de base de computação (máquina virtual Linux com as tarifas, por exemplo).
 
@@ -59,6 +59,16 @@ Depois de comprar a assinatura de software, siga as etapas abaixo para baixá-lo
 
 >[!NOTE]
 >Esse link expirará após duas semanas ou 50 downloads, o que ocorrer primeiro. Depois que o link expirar, retorne a essa página e selecione **Obter chaves e downloads** novamente para habilitar outras duas semanas ou 50 downloads. Você pode fazer isso quantas vezes precisar. 
+
+## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Exibir a atividade de acesso à chave de software e downloads de software
+Para fins de conformidade ou auditoria, você precisa verificar uma lista de usuários que seja acessado chaves de software de assinatura de servidor ou baixado software da assinatura do servidor. Use o procedimento a seguir para acessar essas informações. 
+
+>[!NOTE]
+>Você deve ser um Administrador Global, administrador da conta, administrador de referência ou admin de conteúdo de Marketing para ver esses logs de atividade. 
+
+1.  No Centro de parceiro, selecione o ícone de engrenagem no canto superior direito. 
+2.  No menu, selecione **log de atividades**.
+3.  Insira o intervalo de datas para a atividade que você deseja ver. O log de atividades exibirá uma lista de usuários que tiver acessado chaves de software ou que fez o download do software durante o tempo especificado por você. 
 
 ## <a name="cancel-a-purchase"></a>Cancelar uma compra
 
