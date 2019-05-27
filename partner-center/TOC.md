@@ -17,6 +17,9 @@
 ### [Usar a ferramenta de Validação e Resgate de Comprovante no Partner Center para validar, reservar e resgatar comprovantes](voucher-validation-tool.md)
 ### [Perguntas frequentes: usando a ferramenta de Validação e Resgate de Comprovante](vvr-faq.md)
 ### [Serviços de planejamento do Software Assurance no Partner Center](software-assurance-dps.md)
+## Faturas e impostos
+### [Faturas e impostos no Microsoft Partner Network](mpn-view-print-maps-invoice.md)
+
 
 # [Provedor de Soluções na Nuvem](csp-overview.md)
 ## [Registrar no programa de Provedor de Soluções na Nuvem](enrolling-in-the-csp-program.md)
