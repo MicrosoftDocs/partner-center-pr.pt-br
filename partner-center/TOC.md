@@ -7,6 +7,7 @@
 ### [Visualização rápida das diferenças entre o PMC e o PC](move-pmc-pc-map.md)
 ### [Guia para mover suas várias empresas para o Partner Center](move-multiple-companies.md)
 ### [Consolidação de suas empresas](consolidate-accounts.md)
+
 ## Ofertas de associação
 ### [Action Pack](mpn-get-action-pack.md)
 ### [Renovar suas ofertas](renew-mpn-offers.md)
@@ -36,6 +37,7 @@
 
 # [Gerenciar sua conta do Partner Center](partner-center-account-setup.md)
 ## [Contas corporativas e o Partner Center](azure-active-directory-tenants-and-partner-center.md)
+## [A estrutura da conta no Partner Center](account-structure.md)
 ## [Atualizar seu perfil de parceiro](update-your-partner-profile.md)
 ## [Locais](manage-locations.md)
 ## [Restaurar uma conta suspensa no Partner Center](suspended-partner-center-account.md)
