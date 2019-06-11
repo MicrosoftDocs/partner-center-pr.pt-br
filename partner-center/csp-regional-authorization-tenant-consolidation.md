@@ -8,12 +8,13 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: migrar provedores, provisionamento, conta de locatário, consolidar locatários
 ms.localizationpriority: medium
-ms.openlocfilehash: c2226fea4523b5f34a2cb1b5fcfcde88048dda82
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+robots: noindex,nofollow
+ms.openlocfilehash: 5e83b9720393356268f59d42b4210c427a3b3bc6
+ms.sourcegitcommit: 5e67a2540b0ff9eb248e5dc41b9d9ad1fc900b36
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134761"
+ms.lasthandoff: 06/10/2019
+ms.locfileid: "66819940"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidação de locatários de autorização regional do CSP
 
