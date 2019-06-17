@@ -1,18 +1,18 @@
 ---
 title: A estrutura da conta no Partner Center | Partner Center
 ms.topic: article
-ms.date: 05/31/2019
+ms.date: 06/13/2019
 description: Sua empresa tem dois níveis de contas no partner center.
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 3956ec4ef0f835733c25557ca1d3e20fc9a5537e
-ms.sourcegitcommit: 034e5293a85e0214afaf9382378d2e18d15320c4
+ms.openlocfilehash: ba3fad0a8b9dddf0162b3dfa3ae202a235f4eb24
+ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "66458886"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67131715"
 ---
 # <a name="the-account-structure-in-partner-center"></a>A estrutura da conta no Partner Center
 
@@ -28,7 +28,7 @@ Sua empresa tem dois níveis de contas no Partner Center.
 
 ### <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>A segunda conta de nível é a conta de local chamada local de parceiro de conta (CCP).
 
-O PGA pode ter locais da empresa adicionais sob ele. Cada local tem seu próprio ID do MPN.  Usar o local do ID do MPN para negócios transacionais, como o programa de provedor de soluções na nuvem, para registrar-se no programas incentivos, adicionar um DPOR e o pagamento. 
+O PGA pode ter locais da empresa adicionais sob ele. Cada local tem sua própria ID MPN ou o local de parceiro de conta (CCP). Você pode usar o local do ID do MPN para negócios transacionais e registro em programas de incentivo.
 
 - Cada conta de local de parceiro pode ter seu próprio endereço legal e contato principal. Locais também podem compartilhar o endereço legal com a conta global ou com outros locais.
 - Exibir a lista de contas do parceiro local de configurações do parceiro -> locais.

@@ -9,12 +9,12 @@ Keywords: trabalho de conta, o email, o locatário, o locatário do Azure, criar
 robots: ''
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 079f927c3acd8f773680bfa9f4e47592f68a24f9
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: f668ea5ebdb97d2cf02febb94584b6cf707e3bca
+ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134717"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67131702"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>Sua conta corporativa e o Partner Center  
 
@@ -26,23 +26,32 @@ ms.locfileid: "62134717"
 
 Precisamos vincular a conta corporativa da empresa à sua nova conta do Partner Center para que os usuários da conta possam entrar no Partner Center com os nomes de usuário e senhas da conta corporativa.
 
-Se a sua empresa já tiver uma conta corporativa, você pode vinculá-la à sua conta do Partner Center. 
+## <a name="the-work-account-email-address"></a>O endereço de email da conta de trabalho
+
+Sua conta corporativa ou um email de trabalho é o endereço de email fornecido por sua empresa. Um email da conta de trabalho geralmente está no formato you@yourcompany.com. Endereços de email pessoal, como Hotmail, Gmail etc não são email de trabalho e não pode ser usado para sua conta no Partner Center. 
+
+Se você tiver mais de um endereço de email de trabalho válido, use aquela que está associada a sua sede corporativa, em vez do departamento regional, por exemplo, use seu email de contoso.com, em vez do endereço de contoso.uk.
 
 > [!NOTE]  
 >  Antes de decidir usar uma conta de trabalho existente, pense sobre quantos usuários na conta terá de trabalhar no Partner Center. Se você tiver usuários na conta que não precisa trabalhar no Partner Center, considere a criação de uma nova conta para somente aos usuários que terá de trabalhar no Partner Center.
 
-Se a sua empresa ainda não tiver uma conta de trabalho, você poderá criar uma durante o processo de inscrição. 
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Não tem certeza se a sua empresa já tem uma conta de trabalho?
 
 Se você não tiver certeza se a empresa tem uma conta corporativa, siga estas etapas para verificar. Observe que, se você tiver uma assinatura ativa do Microsoft Azure ou Office 365, já tem uma conta corporativa.
+
 1.  Entre no portal de administração do Azure em https://ms.portal.azure.com
 2.  Selecione Azure Active Directory no menu e, em seguida, selecione Nomes de Domínio.
 3.  Se você já tiver uma conta corporativa, seu nome de domínio estará listado.
 
-## <a name="using-an-existing-work-account"></a>Usando uma conta corporativa existente
+Se a sua empresa ainda não tiver uma conta de trabalho, você poderá criar uma durante o processo de inscrição.
 
-Se quiser usar uma conta corporativa existente, mas estiver tendo problemas para se conectar, encontre o cenário no diagrama a seguir que melhor corresponda à sua situação e siga as etapas recomendadas. 
+O diagrama a seguir fornece as etapas para vários cenários típicos:
+
+- determinar se você tem uma conta de trabalho 
+- determinar como entrar em sua conta de trabalho 
+- determinar se é necessário criar uma nova conta de trabalho
+
 
 ![Você tem uma conta corporativa ou precisa criar uma?](images/onboardingAADFlow.png)
 

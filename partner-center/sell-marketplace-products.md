@@ -1,18 +1,18 @@
 ---
 title: Vender assinaturas de produtos do Azure Marketplace | Partner Center
 ms.topic: article
-ms.date: 04/04/2019
+ms.date: 06/10/2019
 description: Você pode usar o Centro de parceiros para vender seus clientes de assinaturas de Software como serviço (SaaS) produtos publicados no Azure Marketplace por fornecedores de Software independentes (ISVs).
 author: JnHs
 ms.author: jenhayes
 keywords: assinaturas, mercado, por terceiros, o ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: a086ab3a58e926d33c118690e7b171ba4f0fd18b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: d870bfef7d967e8f5b890fadfe86f527e558cda5
+ms.sourcegitcommit: a9916e90efbb21bff250effd36a213420889633c
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133826"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67045074"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>Vender assinaturas de produtos do Azure Marketplace
 
@@ -46,6 +46,9 @@ Observe que alguns oferece o que você vê na **Marketplace** página pode não 
 > Você também pode usar [APIs do Partner Center](https://docs.microsoft.com/partner-center/develop/) para criar assinaturas do Azure Marketplace para seus clientes. Para obter mais informações, consulte [criar uma assinatura para produtos do Azure Marketplace](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).
 
 Com as assinaturas para produtos do Azure Marketplace, você tem a opção de [cancelar a assinatura](https://docs.microsoft.com/partner-center/create-a-new-subscription#cancel-a-subscription) dentro do período de cancelamento (24 horas para as assinaturas mensais ou 14 dias para as assinaturas anuais). Você também pode [escolha se deseja ou não automaticamente renovar a assinatura](https://docs.microsoft.com/partner-center/create-a-new-subscription#choose-whether-to-automatically-renew-an-azure-marketplace-subscription).
+
+> [!NOTE]
+> Para [produtos do Azure Marketplace](sell-marketplace-products.md), atribuição de licença e a ativação é gerenciada por meio do Software ISV (fornecedor independente) que publicou o produto.
 
 ## <a name="access-billing-info-for-marketplace-products"></a>Acessar informações de cobrança para produtos do Marketplace
 
