@@ -6,12 +6,12 @@ description: Coisas a considerar antes de mudar o seu negócio de PMC Partner Ce
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 68761169088d8590b3330d72927d38ba2ab77a77
-ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
-ms.translationtype: HT
+ms.openlocfilehash: 16c29bdccd4c4853fcc28ed4f2752270415449b1
+ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "67131986"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "67145352"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Preparar para a movimentação do Centro de associação de parceiro (PMC) Partner Center
 
@@ -113,6 +113,14 @@ Sim, competências não serão afetadas pela mudança Partner Center. Se você o
  **Meus benefícios (incluindo os benefícios da nuvem, suporte técnico, benefícios do software, Visual Studio) serão alterados após passarmos?**
 
  Seus benefícios qualificados não serão alterado. Se você observar as discrepâncias, entre em contato com [suporte](https://partner.microsoft.com/support).
+
+ **Nossas contas da Microsoft que tenham as alocações de benefícios do Visual Studio ser cumpridas?**
+
+ Sim. Benefícios do Wisual Studio alocados para as MSAs serão respeitados e mantidos. Eles também serão preservados após a renovação no Partner Center. No entanto, se você remover uma alocação de MSA uma vez migradas no Partner Center, ele não pode ser adicionado novamente ao Partner Center.
+
+Somente o administrador do MPN pode adicionar as alocações de benefício do Visual Studio para contas corporativas no locatário do AD do Azure da empresa.
+
+O administrador global para vários locatários do AAD quando todos os locatários estão associados à conta do Partner Center, pode adicionar usuários em todos os locatários esses em benefícios do Visual Studio e alocações de baseada no uso do Azure. 
 
  **Como podemos gerenciar nossos associações MCP e nosso acesso Universidade do parceiro?**
 
