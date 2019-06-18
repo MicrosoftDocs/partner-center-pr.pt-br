@@ -6,12 +6,12 @@ description: Coisas a considerar antes de mudar o seu negócio de PMC Partner Ce
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 16c29bdccd4c4853fcc28ed4f2752270415449b1
-ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
+ms.openlocfilehash: fe65ad021538cf9c6fd267476bf410208abbe746
+ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "67145352"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "67157327"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Preparar para a movimentação do Centro de associação de parceiro (PMC) Partner Center
 
@@ -116,11 +116,13 @@ Sim, competências não serão afetadas pela mudança Partner Center. Se você o
 
  **Nossas contas da Microsoft que tenham as alocações de benefícios do Visual Studio ser cumpridas?**
 
- Sim. Benefícios do Wisual Studio alocados para as MSAs serão respeitados e mantidos. Eles também serão preservados após a renovação no Partner Center. No entanto, se você remover uma alocação de MSA uma vez migradas no Partner Center, ele não pode ser adicionado novamente ao Partner Center.
 
-Somente o administrador do MPN pode adicionar as alocações de benefício do Visual Studio para contas corporativas no locatário do AD do Azure da empresa.
+ Sim. Benefícios do Studio Visual alocados para as MSAs serão respeitados e mantidos. Eles também serão preservados após a renovação no Partner Center. No entanto, se você remover uma alocação de MSA uma vez migradas no Partner Center, ele não pode ser adicionado novamente ao Partner Center.
 
-O administrador global para vários locatários do AAD quando todos os locatários estão associados à conta do Partner Center, pode adicionar usuários em todos os locatários esses em benefícios do Visual Studio e alocações de baseada no uso do Azure. 
+No Partner Center, um parceiro pode adicionar contas de trabalho e contas de usuários convidados que são MSA do mesmo locatário em que o parceiro é MPN administrador no locatário do AD do Azure. Se o parceiro seja um administrador global em vários locatários do AD do Azure e todos esses locatários estão associados à mesma conta do Partner Center, o parceiro é permitido para adicionar usuários em todos os locatários esses para os benefícios do Visual Studio e alocações de baseada no uso do Azure.
+
+Embora podem ser atribuídos a usuários convidados com base no uso de assinaturas do Visual Studio pelo administrador global ou administrador do MPN, os usuários convidados não podem entrar Partner Center usando sua MSA. Usuários convidados podem, no entanto, entrar no Azure e o Visual Studio para validar e usar os benefícios de atribuído.
+
 
  **Como podemos gerenciar nossos associações MCP e nosso acesso Universidade do parceiro?**
 
