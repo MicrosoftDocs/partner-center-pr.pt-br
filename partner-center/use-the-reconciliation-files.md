@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8e7b17cb39f266c404d7873dc17e471741d52b32
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2d5792ad8f1a01c94336b208c825b10a269ae054
+ms.sourcegitcommit: 47a91bb6d961630f154fde738075b73ff84a829e
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132776"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67193421"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar os arquivos de reconciliação
 
@@ -39,6 +39,10 @@ Ocasionalmente, seu arquivo de reconhecimento pode ter problemas de formatação
 
 <li>No campo de formato de dados de coluna, selecione <strong>texto</strong> para o valor de todas as colunas e, em seguida, selecione <strong>concluir</strong>.</li>
 </ol>
+
+## <a name="downloading-a-large-recon-file"></a>Baixar um arquivo grande de reconhecimento
+
+Arquivos de reconhecimento podem ficar muito grandes e, às vezes, são difíceis de fazer o download. Para um script do PowerShell ajudar a fazer o download de arquivos grandes de recon, consulte [itens de linha de nota fiscal Get](https://docs.microsoft.com/en-us/partner-center/develop/get-invoiceline-items).
 
 ## <a href="" id="itemizebypartner"></a>Discriminar pelo parceiro
 
@@ -891,7 +895,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tr>
 
 <tr class="odd">
-<td>Marcas</td>
+<td>tags</td>
 <td><p>Marcas que você atribui ao medidor na ordem para agrupar registros de cobrança. Por exemplo, você pode usar marcas para distribuir os custos entre os departamentos que usam o medidor.</p></td>
 </tr>
 
@@ -1017,6 +1021,8 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 <p>Taxas proporcionais da ativação até o final do período de cobrança</p>
 </td>
 </tr>
+
+
 <tr>
 <td rowspan="2">
 <p><strong>Encargos de uso</strong></p>
@@ -1039,6 +1045,7 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 <p>Taxa de uso de acesso para o período atual de cobrança</p>
 </td>
 </tr>
+
 <tr>
 <td>
 <p><strong>Créditos</strong></p>

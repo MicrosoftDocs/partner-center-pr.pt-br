@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: crédito de retenção de imposto, créditos de imposto, formulário de crédito alemão imposto, crédito de formulário de imposto
 ms.localizationpriority: medium
-ms.openlocfilehash: 35ed5d1a5da2699df9660bcce1806772fd75a6a0
-ms.sourcegitcommit: ece130080e67ce92bfc86b3892e33320cb13e49b
+ms.openlocfilehash: ace9d1cca5db0a6aba83a0eb9856374b39d56b62
+ms.sourcegitcommit: f55f9389bc1feacb1a3acc1725ab5edabadf090a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "66410968"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67207573"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Verifique se que você estiver creditado para retenção de imposto
 
@@ -49,7 +49,8 @@ Preencher esse [formulário](https://query.prod.cms.rt.microsoft.com/cms/api/am/
 2. Selecione **solicitações de suporte do parceiro**.
 3. Selecione **nova solicitação** e, em **detalhes**, selecione **ajudar com o arquivo de reconciliação, pagamento ou nota fiscal de parceiro.**
 4. Quando você envia a solicitação de serviço, certifique-se de anexar o formulário de crédito de imposto e cópias digitais dos certificados de imposto.
-5. Entraremos em contato diretamente por email ou telefone.
+5. Se você estiver enviando um certificado de imposto diferente do inglês por meio de uma solicitação de serviço em inglês, uma tradução do certificado de imposto é necessária.
+6. Entraremos em contato diretamente por email ou telefone.
 
 Usando o **pagamento de pagamento de fatura** método, depois que o imposto sobre certificados são recebidos e validados com êxito, o saldo resultante na sua fatura será limpa em aproximadamente uma semana. 
 
