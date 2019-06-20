@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ffc8ee2fa589168925aa2c20230df5978c209554
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 8123141a2a283bc646613a0dbcf69f8903a101a8
+ms.sourcegitcommit: 1dfaa862741d9af918886f9f1133a0602546d145
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134226"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "67262972"
 ---
 # <a name="organization-tax-information"></a>Informações fiscais da organização
 
@@ -24,11 +24,9 @@ Os impostos sobre compras na Windows Store para Empresas são determinados pelo 
 
 ### <a name="add-your-vat-id"></a>Adicionar seu ID do IVA
 
-1.  Dos **Partner Center** acesse **associação oferece**-> **disponível**
-2.  Selecione **adicionar sua ID do IVA**
-3.  Insira a ID de IVA da sua organização, selecione **Add** e, em seguida, selecione **próxima**.
-
-
+1.  Dos **Partner Center** acesse **configurações de conta**-> **perfil de cobrança do parceiro**.
+2.  Na seção **Dados financeiros**, selecione **Atualizar**.
+3.  No **ID de imposto da empresa** , insira seu número de ID de IVA.
 
 
 
