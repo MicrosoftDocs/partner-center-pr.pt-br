@@ -6,12 +6,12 @@ description: Coisas a considerar antes de mudar o seu negócio de PMC Partner Ce
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fe65ad021538cf9c6fd267476bf410208abbe746
-ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
+ms.openlocfilehash: fc3b457af07c4433d2b311f066cbeb240243ee0c
+ms.sourcegitcommit: 09b3f69db956717e59709ee4c78bc9e879844adc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "67157327"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "67279882"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Preparar para a movimentação do Centro de associação de parceiro (PMC) Partner Center
 
@@ -136,17 +136,22 @@ Embora podem ser atribuídos a usuários convidados com base no uso de assinatur
 
  Sim, não há nenhuma alteração ao parceiro de registro. Saiba mais sobre [vincular sua ID de parceiro a seus clientes](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).
 
-**Há um impacto sobre incentivos?**
+**Há um impacto sobre incentivos por causa a mudança para o Partner Center?**
 
-Não, há nenhum impacto sobre incentivos. Além disso, se sua empresa tiver várias contas no PMC, quando você move Partner Center essas contas são consolidadas em uma conta global, não há nenhum impacto para o parceiro de incentivos com base no registro.
+Não há nenhum impacto sobre incentivos se você tiver movido a sua conta sem consolidar locais. Se sua empresa tiver várias contas no PMC e, quando você move Partner Center decidir consolidar em uma conta global, não haverá nenhuma perda de incentivos, mas pode haver um atraso de pagamento de incentivo. Se você não mover todas as suas contas do PMC tem sido envolvidas em programas de incentivos, você pode parar a obtenção de incentivos que estão vinculados a essas contas.
+
 
 **Quais são as funções de usuário incentivos no Partner Center?** 
 
 Funções incentivos no Partner Center são baseados na localização e incluem incentivos administrador e usuário incentivos. Para obter mais informações sobre o que podem fazer essas funções, consulte [atribuir funções de usuários e permissões](permissions-overview.md).
 
-**Incentivos podem ser gerenciados no nível global e local?**
+**Os usuários de incentivos podem ser atribuídos no nível global e local?**
 
  Sim. Você pode atribuir um administrador incentivos para ser o administrador incentivos para todos os locais ou cada local pode ter seu próprio administrador de incentivos.
+
+ **Incentivos podem ser pagos no nível global ou local?**
+
+ Incentivos são pagos somente no nível do local.
 
 **Sobre as referências, quantos perfis de negócios podemos criar?**
 
