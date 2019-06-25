@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d5792ad8f1a01c94336b208c825b10a269ae054
-ms.sourcegitcommit: 47a91bb6d961630f154fde738075b73ff84a829e
+ms.openlocfilehash: fca9897720412a77ac39c86ba31db411c58c2cb0
+ms.sourcegitcommit: 1f9078d422af5f8514d79a6ab9c3444500abfe27
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "67193421"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "67343463"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar os arquivos de reconciliação
 
@@ -1022,6 +1022,61 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 </td>
 </tr>
 
+
+
+<tr>
+<td rowspan="5">
+<p><strong>Encargos de uso únicos</strong></p>
+
+</td>
+<td>
+<p>Novo</p>
+</td>
+<td>
+<p>Usado quando uma nova compra é criada</p>
+</td>
+
+<p></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>addQuantity</p>
+</td>
+<td>
+<p>Usado em ambos os o reembolso na compra original e a nova quantidade depois aumento</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>removeQuantity</p>
+</td>
+<td>
+<p>Usado em ambos os o reembolso na compra original e a nova quantidade após a redução</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>Cancel</p>
+</td>
+<td>
+<p>Usado quando uma assinatura é cancelada</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>Converter</p>
+</td>
+<td>
+<p>Usado quando uma licença é atualizada, mas o número de estações permanece inalterado</p>
+</td>
+</tr>
 
 <tr>
 <td rowspan="2">

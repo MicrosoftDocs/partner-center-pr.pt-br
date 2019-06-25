@@ -1,0 +1,162 @@
+### YamlMime:Tutorial
+title: Implementando os requisitos de segurança de parceiro
+metadata:
+  title: Implementando os requisitos de segurança de parceiro
+  description: Neste tutorial, você aprenderá sobre os requisitos de segurança de parceiro e como preenchê-las.
+  audience: Partners
+  level: Beginner
+  ms.date: 06/24/2019
+  displayType: two-column
+  ms.custom: mvc
+  ms.openlocfilehash: 08a558f53c5f2f2c58141cdb66912e93b76fb21b
+  ms.sourcegitcommit: ca7f000a58575fa9a089693256c095120dde3c5d
+  ms.translationtype: MT
+  ms.contentlocale: pt-BR
+  ms.lasthandoff: 06/24/2019
+  ms.locfileid: "67347005"
+items:
+- title: Introdução
+  durationInMinutes: 5
+  content: >
+    Segurança e privacidade de clientes e parceiros são as principais prioridades para a Microsoft. Podemos continuar a ver um número crescente de ataques de segurança mais sofisticados, relacionadas principalmente às identidades comprometidas. Como os controles de prevenção desempenham um papel importante em uma estratégia geral de defesa para impedir ataques de segurança, começaremos aplicando um conjunto de requisitos de segurança obrigatórios para ajudar a proteger seus clientes e parceiros.
+
+
+    Este tutorial você aprenderá mais sobre os requisitos de segurança de parceiro, como cumpri-los e o impacto para os usuários no seu diretório de parceiros.
+- title: Quais são os requisitos de segurança de parceiro?
+  durationInMinutes: 1
+  content: >
+    Todos os parceiros que estão participando no programa Cloud Solution Provider, fornecedores de painel de controle e parceiros do Advisor são necessárias para impor a autenticação multifator (MFA) para cada usuário em seu locatário do parceiro. Isso pode ser feito habilitando duas [diretivas de linha de base do Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection). Diretivas de linha de base são um conjunto de políticas predefinidas que ajudam a proteger as organizações contra vários ataques comuns. Esses ataques comuns podem incluir phishing, reprodução e spray de senha. Diretivas de linha de base estão disponíveis em todas as edições do Azure Active Directory. Microsoft está disponibilizando essas políticas de proteção de linha de base para todas as pessoas porque ataques baseados em identidade tem sido aumentando ao longo dos últimos anos.
+
+
+    As políticas de linha de dois base devem ser habilitadas são descritas na tabela a seguir.
+
+
+    |**Política**| |
+
+    |-----|-----|
+
+    |**Exigir MFA para administradores**|Habilitando a exigir MFA para os administradores política, exigirá que os usuários nas funções de administrador registrar para MFA usando o aplicativo autenticador. Depois que o registro de MFA for concluído, os administradores precisarão executar a MFA toda vez que entrarem no.|
+
+    |**Proteção do usuário final**|Proteção do usuário final é uma política de linha de base MFA com base em risco que protege todos os usuários em um diretório. A habilitação dessa política requer que todos os usuários se registrar para MFA usando o aplicativo autenticador. Os usuários podem ignorar o prompt de registro MFA por 14 dias, após o qual eles serão impedidos de entrar até que eles se registrar para MFA. Depois de registrado para MFA, os usuários serão solicitados para o MFA somente durante as tentativas de entrada arriscadas. Contas de usuário comprometidas são bloqueadas até que a senha é redefinida e eventos de risco foram ignorados.|
+
+
+    Quando essas políticas são habilitadas, cada usuário será capaz de utilizar o Azure MFA sem custo adicional. Se você estiver usando uma solução de terceiros, são necessárias para impor o MFA para cada usuário ao acessar serviços de nuvem Commercial da Microsoft.
+
+
+    > [!IMPORTANT]
+
+    > Uma vez que a MFA será imposta para todos os usuários no diretório de parceiros, haverá um impacto em qualquer automação ou integração que utiliza as credenciais do usuário. Para resolver esse impacto, que você precisará modificar a forma como sua automação ou integração conecta-se aos serviços de nuvem comercial da Microsoft. Se o serviço que você está se conectando ao dá suporte à autenticação baseada em token e, em seguida, é recomendável que você implemente a [estrutura de modelo de aplicativo seguro](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).
+- title: Como habilitar a exigir MFA para política de linha de base de administradores?
+  durationInMinutes: 5
+  content: >
+    O *exigir MFA para o administrador* política de linha de base exige o MFA para as seguintes funções de diretório, consideradas as mais privilegiadas funções do Azure AD:
+
+
+    - Administrador global
+
+    - Administrador do SharePoint
+
+    - Administrador do Exchange
+
+    - Administrador de acesso condicional
+
+    - Administrador de segurança
+
+    - Administrador de assistência técnica / administrador de senha
+
+    - Administrador de cobrança
+
+    - Usuário administrador
+
+
+    Após a habilitação da exigir MFA para os administradores política, as funções de nove administrador acima precisará se registrar para MFA usando o aplicativo autenticador. Depois que o registro de MFA for concluído, os administradores precisarão executar a MFA toda vez que entrar.
+
+
+    Se sua organização tiver essas contas em uso no código ou scripts, considere a possibilidade de substituí-los com [identidades gerenciadas](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).
+
+
+    Para habilitar essa política e proteger seus administradores:
+
+
+    1. Entrar para o **portal do Azure** como um Administrador Global, administrador de segurança ou administrador de acesso condicional.
+
+    2. Navegue até **do Azure Active Directory** > **acesso condicional**.
+
+    3. Na lista de políticas, selecione **política de linha de base: Exigir MFA para os administradores**.
+
+    4. Definir **habilitar política** à **usar a política imediatamente**.
+
+    5. Clique em **salvar**.
+
+      ![Exigir MFA para administradores](../images/security/baseline-policy-require-mfa-for-admins.png)
+
+    > [!WARNING]
+
+    > Antes de habilitar essa política, certifique-se de que os usuários não estiver usando protocolos de autenticação herdados. Consulte o artigo [como: Autenticação herdados do bloco para o Azure AD com acesso condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) para obter mais informações.
+
+
+    > [!IMPORTANT]
+
+    > Há um problema conhecido, o que afeta a capacidade de aproveitar recebeu os privilégios administrativos para se conectar ao Exchange Online PowerShell quando for aplicada a MFA. Ver [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) para obter mais informações.
+
+
+    Depois de habilitar a *exigir MFA para que os administradores* política de linha de base, os usuários que são membros das funções de administrador acima encontrarão uma nova experiência de quando eles entrarem no. As figuras a seguir são o que os usuários afetados por essa política terão
+
+      ![Prompt para obter mais informações](../images/security/baseline-require-more-info.png)
+
+      ![Validação de segurança adicionais](../images/security/baseline-security-verification-setup.png)
+
+      ![Configurar aplicativo móvel](../images/security/baseline-configure-mobile-app.png)
+
+      ![Instalação de validação de segurança adicional foi concluída](../images/security/baseline-security-verification-setup-completed.png)
+
+      ![Validação de segurança adicional verificada](../images/security/baseline-security-verification-confirmed.png)
+
+    Depois que o usuário tiver concluído o acima, que eles poderão entrar ao serviço de nuvem da Microsoft, que eles estavam tentando acessar.
+- title: Como para habilitar a política de linha de base de proteção do usuário final?
+  durationInMinutes: 5
+  content: >-
+    A política de linha de base do usuário final proteção protege todos os usuários em um diretório. A habilitação dessa política requer que todos os usuários se registrar para MFA do Azure dentro de 14 dias. Depois de registrado, os usuários serão solicitados para o MFA somente durante as tentativas de entrada arriscadas, esse comportamento será alterado para locatários de parceiro no futuro. Contas de usuário comprometidas serão bloqueadas até que a redefinição de senha e corre o risco de exoneração.
+
+
+    A política **política de linha de base: Proteção do usuário final** vem pré-configurada e aparecerá na parte superior quando você navega até a folha de acesso condicional no portal do Azure.
+
+
+    Para habilitar essa política e proteger os usuários:
+
+
+    1. Entrar para o **portal do Azure** como um Administrador Global, administrador de segurança ou administrador de acesso condicional.
+
+    2. Navegue até **do Azure Active Directory** > **acesso condicional**.
+
+    3. Na lista de políticas, selecione **política de linha de base: Proteção do usuário final (versão prévia)**.
+
+    4. Definir **habilitar política** à **usar a política imediatamente**.
+
+    5. Clique em **salvar**.
+
+      ![Proteção do usuário final](../images/security/baseline-policy-end-user-protection.png)
+
+    > [!WARNING]
+
+    > Antes de habilitar essa política, certifique-se de que os usuários não estiver usando protocolos de autenticação herdados. Consulte o artigo [como: Autenticação herdados do bloco para o Azure AD com acesso condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) para obter mais informações.
+
+
+    > [!IMPORTANT]
+
+    > Há um problema conhecido, o que afeta a capacidade de aproveitar recebeu os privilégios administrativos para se conectar ao Exchange Online PowerShell quando for aplicada a MFA. Ver [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) para obter mais informações.
+
+
+    Depois que tiver habilitado as *proteção do usuário final* política de linha de base, todos os usuários encontrarão uma nova experiência de quando eles entrarem no. As figuras a seguir são os usuários que terão
+
+      ![Prompt para obter mais informações](../images/security/baseline-require-more-info.png)
+
+      ![Validação de segurança adicionais](../images/security/baseline-security-verification-setup.png)
+
+      ![Configurar aplicativo móvel](../images/security/baseline-configure-mobile-app.png)
+
+      ![Instalação de validação de segurança adicional foi concluída](../images/security/baseline-security-verification-setup-completed.png)
+
+      ![Validação de segurança adicional verificada](../images/security/baseline-security-verification-confirmed.png)
+
+    Depois que o usuário tiver concluído os itens acima, eles poderão entrar ao serviço de nuvem da Microsoft, que eles estavam tentando acessar. Observação até que os requisitos de segurança de parceiro são impostos, os usuários que não são cobertos pela *exigir MFA para que os administradores* política de linha de base somente será solicitada para MFA com base em risco.
