@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: funções, permissões, administrador, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: 66923c8a5d4912d178ef483a883f08f40ed8378b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 65a2f7f373fc57f86cfffa73aafd3b7095fe2c04
+ms.sourcegitcommit: be8086534ec73937f2be9bcc495c2627423c50f6
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133896"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "67396735"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Atribuir funções e permissões de usuário
 
@@ -24,7 +24,7 @@ Você configurou o perfil de parceiro, incluindo nome legal e endereço, detalhe
 Os tipos de acesso que os usuários têm Partner Center, as funções e permissões que você conceda a você determinar. As funções estão relacionadas aos programas de que sua empresa está envolvida no. Por exemplo, se sua empresa é uma empresa de provedor de solução de nuvem (CSP), você não somente terá o Azure AD padrão funções de gerenciamento como administrador global do locatário, mas será necessário a funções específicas para o programa CSP. Cada programa tem funções específicas a ela.
 
 >[!Note]
-> As funções de locatário do Azure Active Directory (AAD) incluem administrador global, administrador de usuários e funções CSP. Funções do AAD não incluem MPN admin, administrador de perfil de negócios, administração de indicação, incentivo administrador e usuário incentivo. 
+> As funções de locatário do Azure Active Directory (AAD) incluem administrador global, administrador de usuários e funções CSP. Funções do AAD não são essas funções que não gerencia o locatário e elas incluem MPN admin, administrador de perfil de negócios, administração de indicação, incentivo administrador e usuário incentivo. 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Gerenciar transações comerciais no Partner Center (Azure AD e as funções do CSP)
 
@@ -52,6 +52,7 @@ Os tipos de acesso que os usuários têm Partner Center, as funções e permiss�
 |Agente de vendas | • Gerenciamento de cliente
 ||• Adicionar lista de dispositivos para o Centro de parceiros
 ||• Gerenciamento de assinatura
+||• Exibir preço de lista e oferece
 ||• Tíquetes de suporte de modo de exibição
 ||• Solicitação uma relação com um cliente
 ||• Gerenciar clientes potenciais
@@ -71,7 +72,18 @@ CPVs desenvolver aplicativos para uso pelos parceiros de provedor de solução d
 |Administração global| Exibir e gerenciar seu perfil CPV|
 ||Exibir e gerenciar qualquer um dos seus usuários que precisam de acesso aos recursos de CPV|
 
-## <a name="manage-mpn-membership-and-your-company-non-aad-roles"></a>Gerenciar a associação da MPN e sua empresa (funções de não-AAD)
+### <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Usuário convidado (deve ser adicionado ao locatário do AAD)
+
+|**Usuário convidado**   | **Funções**|
+|---------------------------|:--------------------|
+||Administrador de parceiros do MPN|
+||Contas de administrador|
+||Administrador de incentivos|
+||Administrador de perfis de negócios|
+||Administrador de referências|
+
+
+## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>Gerenciar a associação da MPN e sua empresa (funções de não-AAD: essas funções de gerenciam os negócios da empresa em vez de locatário)
 
 |**Função** | **O que você pode fazer**|
 |----------------------------|:----------------------------|
@@ -92,28 +104,19 @@ CPVs desenvolver aplicativos para uso pelos parceiros de provedor de solução d
 ||• Atribuir funções para usuários no locatário para funções do AAD não 
 ||• Registrar locais em programas
 
-## <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Usuário convidado (deve ser adicionado ao locatário do AAD)
 
-|**Usuário convidado**   | **Funções**|
-|---------------------------|:--------------------|
-||Administrador de parceiros do MPN|
-||Contas de administrador|
-||Administrador de incentivos|
-||Administrador de perfis de negócios|
-||Administrador de referências|
-
-
-## <a name="manage-referrals-non-aad-roles"></a>Gerenciar as referências (funções de não-AAD)
+## <a name="manage-referrals"></a>Gerenciar indicações 
 
 |**Função**|**O que você pode fazer**|
 |-----------------------------|:------------------------|
 |Administrador de referências       |• Exibir, criar e gerenciar perfis de negócios
 ||• Receber e gerenciar as referências
-||• Exibir, criar e gerenciar solicitações de serviço do parceiro|
-|Administrador de perfis de negócios   |•View, criar e gerenciar um perfil comercial 
+||• Exibir, criar e gerenciar as referências de venda conjunta|
+||• Exibir, criar e gerenciar solicitações de serviço do parceiro
+|Administrador de perfis de negócios   |• Exibir, criar e gerenciar um perfil comercial 
 ||• Exibir, criar e gerenciar solicitações de serviço do parceiro|
 
-## <a name="manage-incentives--non-aad-roles"></a>Gerenciar incentivos (funções de não-AAD)
+## <a name="manage-incentives"></a>Gerenciar incentivos 
 
 |**Função** | **O que você pode fazer**|
 |------------------------------|:-------------------------|

@@ -7,12 +7,12 @@ ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 97b8120be91bbeb058597854a7114e98d2e3d0ae
-ms.sourcegitcommit: fa077891067952b3039383897ea53ce7cde03939
+ms.openlocfilehash: 72ded8ab9aa9546a4407e7729c16770fae893832
+ms.sourcegitcommit: d99b3cdca6edbc478e2ac6e2927541448bf8190b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "67333993"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "67407868"
 ---
 # <a name="request-an-sla-credit-from-microsoft"></a>Solicitar uma crédito de SLA da Microsoft 
 
@@ -34,7 +34,7 @@ Para solicitar uma crédito de SLA, você precisará fornecer as seguintes infor
 
 - As assinaturas afetadas foram compradas por meio do CSP? Sim/Não
 
-A ID do incidente de interrupção (por exemplo, EX25194) é encontrada na página de integridade do serviço no Centro de administração do Microsoft 365. Números de incidentes são precedidos de uma 2 letras que indica o serviço afetado, tais como:
+A ID de incidente de interrupção (por exemplo, EX25194) é encontrada na página de integridade do serviço no Centro de administração do Microsoft 365. Números de incidentes são precedidos de uma 2 letras que indica o serviço afetado, tais como:
 
 EX - Exchange Online
 
@@ -51,6 +51,17 @@ SP - SharePoint Online
 Vai ser - Enterprise Yammer
 
 MO - erro no Portal
+
+## <a name="submit-a-request"></a>Enviar uma solicitação
+
+Envie sua solicitação de crédito no Partner Center.
+
+1. No painel do Partner Center, selecione **suporte** da barra de navegação à esquerda.
+
+2. Selecione **solicitações de suporte de parceiro** e, em seguida, selecione **CSP - clientes, pedidos e as solicitações de crédito de serviços de assinaturas/cliente**.
+
+3. Envie sua solicitação de crédito de SLA.
+
 
 
 
