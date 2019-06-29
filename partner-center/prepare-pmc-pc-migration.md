@@ -6,12 +6,12 @@ description: Coisas a considerar antes de mudar o seu negócio de PMC Partner Ce
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fc3b457af07c4433d2b311f066cbeb240243ee0c
-ms.sourcegitcommit: 09b3f69db956717e59709ee4c78bc9e879844adc
+ms.openlocfilehash: 0f1df50c5fa94707ac733a91b0d981b6821de8c0
+ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "67279882"
+ms.lasthandoff: 06/29/2019
+ms.locfileid: "67468021"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Preparar para a movimentação do Centro de associação de parceiro (PMC) Partner Center
 
@@ -58,9 +58,11 @@ A função de administrador global do MPN no PMC poderia fazer o seguinte:
 
 Quando o administrador global do MPN é movida para o Centro de parceiros a função é chamada do administrador de parceiro da MPN que tenha permissões diferentes e tarefas do que o administrador global do Partner Center. Para obter mais informações sobre funções e permissões no Partner Center, leia [atribuir funções de usuários e permissões](permissions-overview.md)
 
-**Funções de usuário no Partner Center**
+**Funções de usuário, incluindo funções de usuário convidado no Partner Center**
 
 Partner Center tem tipos diferentes de funções de acordo com os tipos de trabalho precisa ser feito. Há funções como administrador global que são funções do Azure AD. Algumas funções são específica para programas como o programa de provedor de serviços de nuvem ou incentivos e há funções que são específicas para MPN. Para descobrir quais são todas as funções do Partner Center, leia [atribuir funções de usuários e permissões](permissions-overview.md).
+
+
 
 **O que acontece com as funções de meus usuários quando eles são movidos do PMC Partner Center?**
 
@@ -84,6 +86,9 @@ Você pode decidir migrar para o Centro de parceiros usando locatários separado
 Sim, no Partner Center, você pode vincular vários locatários do AD do Azure a única conta no Partner Center.
 Saiba mais aqui. 
 
+**Há restrições à adição de vários locatários do AD do Azure para uma única conta do Partner Center?**
+
+Se o locatário do AD do Azure já está associado a uma conta existente do Partner Center, ele não pode ser associado a novas contas do Partner Center usando o recurso de multilocação. Outra maneira de pensar que ele é um locatário do AD do Azure só pode ser associado a uma conta no Partner Center, mas uma conta no Partner Center pode ter vários locatários associados a ele.
 
 ## <a name="microsoft-partner-network-mpn-membership-migration"></a>Migração de associação do Microsoft Partner Network (MPN) 
 
