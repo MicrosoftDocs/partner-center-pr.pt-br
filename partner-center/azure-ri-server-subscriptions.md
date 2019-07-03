@@ -1,18 +1,18 @@
 ---
 title: Instâncias de VM reservadas do Azure (RI) + assinaturas de servidor para Azure | Partner Center
 ms.topic: article
-ms.date: 6/5/2019
+ms.date: 7/2/2019
 description: Ao trazer Assinaturas do Azure RI e de Servidor para o programa CSP, é melhor permitir que nossos parceiros lidem com a demanda crescente do cliente por soluções mais econômicas para dar suporte a cargas de trabalho persistentes e altamente previsíveis. O programa CSP permite que os parceiros adquiram, provisionem e gerenciem Assinaturas do Azure RI e de Servidor em nome de clientes comerciais por meio do Microsoft Partner Center e do Portal do Azure.
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure, assinaturas, VM, reserva, da instância reservada
 ms.localizationpriority: medium
-ms.openlocfilehash: aa9fbdad29b79a65a7542d283ea08b47c7c092f3
-ms.sourcegitcommit: 97418ed4882400155099b73bde4b69075434933a
+ms.openlocfilehash: 17455913cbe6aef75cbea61ca26a979682a61147
+ms.sourcegitcommit: 1d5f3fbf9bb53bc7f42cefbbedb2d7f3f3bc66eb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "66736058"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "67509961"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -45,6 +45,7 @@ Com uma combinação sem igual de preço atraente e flexibilidade de implantaç�
 -   Instância gerenciada do SQL
 -   Azure Cosmos DB
 -   Azure SQL Data Warehouse
+-   Serviços de aplicativos
 
 #### <a name="server-subscriptions"></a>Assinaturas de servidor
 -   Windows Server
@@ -54,6 +55,10 @@ Com uma combinação sem igual de preço atraente e flexibilidade de implantaç�
 #### <a name="linux-isv-annual-subscriptions"></a>Assinaturas anuais do ISV do Linux
 -   SUSE Linux
 -   Red Hat Enterprise Linux
+-   Azure Red Hat OpenShift
+
+#### <a name="isv-annual-subscriptions"></a>Assinaturas anuais do ISV
+-   Solução de VMware do Azure por CloudSimple
 
 ## <a name="getting-started"></a>Introdução
 
@@ -119,4 +124,4 @@ O [Benefício Híbrido do Azure](https://azure.microsoft.com/pricing/hybrid-bene
 
 Consulte também [Perguntas frequentes sobre o Benefício Híbrido do Azure](https://azure.microsoft.com/en-us/pricing/hybrid-benefit/faq/)
 
-* A economia real pode variar com base no uso, tipo de instância ou região.
+\* A economia real pode variar com base no uso, tipo de instância ou região.
