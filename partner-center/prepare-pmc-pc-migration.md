@@ -6,12 +6,12 @@ description: Coisas a considerar antes de mudar o seu negócio de PMC Partner Ce
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0f1df50c5fa94707ac733a91b0d981b6821de8c0
-ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
+ms.openlocfilehash: 5dbdf09b00cf4f188cc82542182ebff39a4d7e39
+ms.sourcegitcommit: 2e41cd8c74e806f52f9250788d63473160b10e62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/29/2019
-ms.locfileid: "67468021"
+ms.lasthandoff: 07/04/2019
+ms.locfileid: "67563037"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Preparar para a movimentação do Centro de associação de parceiro (PMC) Partner Center
 
@@ -132,6 +132,11 @@ Embora podem ser atribuídos a usuários convidados com base no uso de assinatur
  **Como podemos gerenciar nossos associações MCP e nosso acesso Universidade do parceiro?**
 
  Não há nenhuma alteração para as associações de MCP mover do PMC. No entanto, qualquer novo novos funcionários depois de mover para o Partner Center precisará ser associado no Partner Center. Todas as suas permissões de Universidade do parceiro para os usuários existentes permanecerão mas quaisquer novos funcionários devem ir para [o Centro de treinamento](https://partner.microsoft.com/training) para obter informações sobre como obter acesso a Universidade do parceiro.
+
+ **Como exibir informações de MCP depois de mover para o Partner Center?**
+
+Selecione **competências** na navegação à esquerda no painel. Dos **competências** página você é capaz de baixar o relatório de habilidades. O relatório de habilidades listará os usuários que adquiriram habilidades relevantes para as competências e os programas no Partner Center. Se os usuários ganharam habilidades, mas essas técnicas não são relevantes para as competências que você está trabalhando em direção, eles não serão listados no relatório.
+
 
  **Referências do cliente são usadas no Partner Center?**
 
