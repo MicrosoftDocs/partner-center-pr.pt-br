@@ -286,6 +286,11 @@
     "redirect_document_id": "FALSE"
   },
   {
+    "source_path": "partner-center/partner-contributions.md",
+    "redirect_url": "/partner-center/partner-contribution-indicators.md",
+    "redirect_document_id": "FALSE"
+  },
+  {
     "source_path": "partner-center/incentives-payouts.md",
     "redirect_url": "/partner-center/understand-incentives-payouts.md",
     "redirect_document_id": "FALSE"
