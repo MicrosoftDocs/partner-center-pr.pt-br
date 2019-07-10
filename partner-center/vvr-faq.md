@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: comprovantes de treinamento, garantia de software, treinamento, validar comprovantes, comprovante de reserva
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e244140fd0283a50ef7dc64584748524e84ebb0
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 210218d027af2cb0e02556593e3a6212124e28f6
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132577"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674225"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Perguntas frequentes: usando a ferramenta Voucher Validation and Redemption 
 
@@ -51,6 +51,9 @@ Começando em 31 de março de 2019, todos os parceiros gerenciarão suas comprov
 **Como acessar a ferramenta VVR minha empresa?**
 
 - Para acessar a ferramenta VVR, sua empresa precisa se inscrever no programa SATV ou o programa de DPS de SA.
+
+Leia as perguntas Frequentes mais detalhadas sobre o [fluxo de trabalho de ferramenta de validação comprovante](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o).
+
 Para obter informações sobre como se registrar no SATV, leia [programa Software Assurance treinamento comprovante (SATV) no Partner Center](software-assurance-satv.md).
- <!--
-For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->
+
+Para obter informações sobre como registrar em programas de Software Assurance DPS, leia [programas de Software Assurance no Partner Center](software-assurance-dps.md).

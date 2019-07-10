@@ -1,19 +1,19 @@
 ---
 title: Criar contas de usuário e definir permissões | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 07/08/2019
 description: O administrador cria uma conta de usuário para cada funcionário de parceiro que precise acessar o Partner Center.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: funções, permissões, adicionam o usuário, atribuir função, admin, agente,
 ms.localizationpriority: medium
-ms.openlocfilehash: 3829a18a78cb50797b7ca2bfd862c82d93d92248
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: de8b4e793f50d00a1d528d44b8dece7b9f7c9263
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134976"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674230"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Criar contas de usuário e atribuir permissões
 
@@ -28,7 +28,7 @@ Crie contas de usuário para os funcionários que precisam acessar o Centro de p
 
 3.  Insira o nome completo e endereço de email exclusivo do usuário.
 
-4.  Selecione o tipo de agente e/ou o tipo de administrador que deseja atribuir ao usuário. O acesso do Partner Center é baseado em função, portanto, você pode atribuir permissões para personalizar o modo de exibição do usuário e mostrar somente os recursos que o usuário precisa para completar tarefas específicas.  Se os usuários quiserem uma atribuição de função, eles poderão encontrar os administradores de contas com quem devem entrar em contato acessando **Gerenciamento de usuários** e filtrando por administrador de contas.
+4.  Selecione o tipo de agente e/ou o tipo de administrador que deseja atribuir ao usuário. O acesso do Partner Center é baseado em função, portanto, você pode atribuir permissões para personalizar o modo de exibição do usuário e mostrar somente os recursos que o usuário precisa para completar tarefas específicas.  Se os usuários querem uma atribuição de função, ele pode encontrar os administradores globais, entre em contato com acessando **gerenciamento de usuário** e filtragem de administrador global.
 
 5.  Selecione **Adicionar** para criar a conta de usuário. Confirme os detalhes do usuário na próxima página.
 
@@ -39,6 +39,11 @@ O usuário precisará entrar no Centro de parceiros com seu nome de usuário e s
 
 > [!NOTE]  
 >  Se o seu administrador global deixou a organização ou mudou de função e houver a necessidade de adicionar um novo administrador global, você terá que fazer uma solicitação de serviço no [portal MPN](https://partner.microsoft.com/support). O agente de suporte poderá solicitar a promoção de um usuário a administrador global se seu solicitante for capaz de fornecer as informações de identidade pessoal requisitadas e informações adicionais sobre a sua organização.
+
+### <a name="find-your-global-admin"></a>Localize o administrador global
+
+Às vezes, talvez seja necessário que um usuário tem sua função alterada ou um novo usuário pode uma atribuição de função específica.  
+Para localizar um administrador global que pode fazer alterações de função ou atribuir funções a um novo usuário, a partir o **ícone de configurações** na parte superior direita do Partner Center, selecione **gerenciamento de usuário** e filtro de administrador global. 
 
 ## <a name="assign-user-roles"></a>Atribuir funções de usuário
 
@@ -72,12 +77,16 @@ Para trabalhar no Partner Center, você deve ter uma função atribuída.  Atual
 
 Para obter informações específicas sobre as funções e sobre o que cada uma pode fazer, consulte [Atribuir permissões de usuário](permissions-overview.md).
 
+## <a name="associate-a-users-microsoft-learn-account-in-partner-center"></a>Associar uma conta de usuário Microsoft Learn no Partner Center
 
+Para poder ver o treinamento e os usuários estão levando na direção de competências de roteiros de aprendizagem, eles precisam associar sua ID de MCP para sua conta no Partner Center. Como administrador global, quando você adiciona novos usuários, certifique-se para lembrá-los para associar sua ID de MCP para sua conta. 
 
-### <a name="find-your-global-admin"></a>Localize o administrador global
+### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a>Como associar sua ID de MCP para sua conta no Partner Center
 
-Às vezes, talvez seja necessário que um usuário tem sua função alterada ou um novo usuário pode uma atribuição de função específica.  
-Para localizar um administrador global que pode fazer alterações de função ou atribuir funções a um novo usuário, a partir o **ícone de configurações** na parte superior direita do Partner Center, selecione **gerenciamento de usuário** e filtro de administrador global. 
+1. No painel da Central de parceiro, selecione a **sua conta** ícone no canto direito do dashboard e, em seguida, selecione **meu perfil**.
+
+2. Sob **seu aprendizado** você poderá associar sua conta do Microsoft Learning e também se conectar sua conta da Microsoft a Universidade do parceiro.
+
 
 
 

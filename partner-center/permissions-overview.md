@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: funções, permissões, administrador, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: 65a2f7f373fc57f86cfffa73aafd3b7095fe2c04
-ms.sourcegitcommit: be8086534ec73937f2be9bcc495c2627423c50f6
+ms.openlocfilehash: 658106548596a5fa7d02d29c0065a23caeacb83d
+ms.sourcegitcommit: 59825cb626e12dfe5eb2d28e836b4573368d705e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "67396735"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67690848"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Atribuir funções e permissões de usuário
 
@@ -34,13 +34,14 @@ Os tipos de acesso que os usuários têm Partner Center, as funções e permiss�
 |      |• Criar tíquetes de suporte para o Centro de parceiros
 ||• Exibir contratos, listas de preços e ofertas
 ||• Exibir, criar e gerenciar os usuários do parceiro|
-|Usuário administrador   | • Exibir, criar e gerenciar usuários
+||  Exibir, criar e gerenciar arquivos recon, faturas e cobrança
+|Administrador de gerenciamento de usuário   | • Exibir, criar e gerenciar usuários
 ||• Exibir todos os perfis de parceiros
 ||• Exibir, criar e gerenciar os usuários do parceiro  |
 |Administrador de cobrança | -Exibir, criar e gerenciar arquivos recon, faturas e cobrança|
 |Usuário padrão|  Exibir meu perfil   |
 |Agente administrador | • Gerenciamento de cliente
-||• Adicionar lista de dispositivos para o Centro de parceiros <
+||• Adicionar lista de dispositivos para o Centro de parceiros
 ||• Criar e aplicar perfis de dispositivos
 ||• Gerenciamento de assinatura
 ||• Integridade e o serviço de solicitações de clientes
@@ -87,20 +88,19 @@ CPVs desenvolver aplicativos para uso pelos parceiros de provedor de solução d
 
 |**Função** | **O que você pode fazer**|
 |----------------------------|:----------------------------|
-|Administrador de parceiros do MPN|•CAN adicionar usuários de locatário não
-||• Exibir, criar e gerenciar solicitações de serviço do parceiro
-||• Exibir legal, organização, negócios e perfis do MPN
+|Administrador de parceiros do MPN|• Exibir, criar e gerenciar solicitações de serviço do parceiro||
+||• Exibir legal, da empresa, negócios e perfis do MPN
 ||• Exibir detalhes do usuário e seus dados de habilidades
 ||• Exibir competências
 ||• Exibir e gerenciar os benefícios
 ||Compra e o modo de exibição • o MPN oferece
 ||• Exibir MPN oferece notas fiscais e histórico de pedidos
-||• Exibir dados de contribuição de parceiro
+||• Exibir dados de indicador de contribuição de parceiro
 ||• Podem trabalhar na ferramenta de validação de comprovante|
 ||-Exibir a análise de dados do cliente
-|Administrador da conta| • Pode adicionar usuários de locatário não
-||• Adicionar ou excluir locais
-||-Gerenciar perfis relacionados às contas que você é administrador 
+|| Exibir outras funções de usuário dentro da empresa, mas não é possível atribuir funções
+|Administrador da conta| Adicionar locais
+|| Gerenciar perfis relacionados às contas que você é administrador 
 ||• Atribuir funções para usuários no locatário para funções do AAD não 
 ||• Registrar locais em programas
 
@@ -128,7 +128,6 @@ CPVs desenvolver aplicativos para uso pelos parceiros de provedor de solução d
 ||• Os pagamentos incentivos de controvérsias|
 |Usuário de incentivos|• Podem exibir programas incentivos
 ||• Pode exibir e iniciar as declarações de incentivos
-||• Ganhos de reembolso e cooperação do modo de exibição
 ||• Ganhos de reembolso e cooperação do modo de exibição
 ||• Suporte a acesso
 

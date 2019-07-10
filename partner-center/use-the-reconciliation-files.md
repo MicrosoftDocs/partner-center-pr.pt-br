@@ -1,18 +1,18 @@
 ---
 title: Usar os arquivos de reconciliação | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 07/08/2019
 description: Para uma exibição detalhada do item de linha de cada carga, em um ciclo de cobrança, baixe os arquivos de reconciliação do Partner Center.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fca9897720412a77ac39c86ba31db411c58c2cb0
-ms.sourcegitcommit: 1f9078d422af5f8514d79a6ab9c3444500abfe27
+ms.openlocfilehash: 83be47cd9963d7e5f14b6c670cd57a8ab1d54011
+ms.sourcegitcommit: 66afdaa662cfad217e29ba1f9e3a9ffd4349112f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "67343463"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67694926"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar os arquivos de reconciliação
 
@@ -834,10 +834,6 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 <td><p>O serviço de plataforma do Azure que você usou.</p></td>
 </tr>
 
-<tr class="odd">
-<td>Grupo de Recursos</td>
-<td><p>O grupo de recursos no qual o medidor implantado está sendo executado.</p></td>
-</tr>
 
 <tr class="even">
 <td>URI de recurso</td>
@@ -892,11 +888,6 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 <tr class="even">
 <td>Informações do serviço 2</td>
 <td><p>Um campo herdado que captura os metadados específicos do serviço opcional.</p></td>
-</tr>
-
-<tr class="odd">
-<td>tags</td>
-<td><p>Marcas que você atribui ao medidor na ordem para agrupar registros de cobrança. Por exemplo, você pode usar marcas para distribuir os custos entre os departamentos que usam o medidor.</p></td>
 </tr>
 
 <tr class="even">

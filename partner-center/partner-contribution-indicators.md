@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f6064b31744ff432dc97887eec22dce142c223f7
-ms.sourcegitcommit: bd83621eb29fafbda341ad41814a9ae5c1e78b00
+ms.openlocfilehash: 579676ccd7331011a0613825028dee070539d414
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/08/2019
-ms.locfileid: "67622554"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674271"
 ---
 ## <a name="partner-contribution-indicators"></a>Indicadores de contribuição de parceiro
 
@@ -56,9 +56,9 @@ Os parceiros podem receber o máximo de pontos de uma determinada métrica se el
 |Novo deploments grandes|20|Para **o envolvimento do cliente**, se uma assinatura paga cruza a 250 limite mensal de usuários ativos nos últimos 12 meses, o parceiro associado obtém crédito para todos os as envolvimento do cliente instâncias de produção (organizações) em Esse locatário. Para **finanças e operações**, se qualquer assinatura paga cruza o limite de usuários ativos mensais 100 nos últimos 12 meses, o parceiro associado obtém crédito para todas as finanças e operações produção instâncias (organizações) em que o locatário. Usuários ativos mensais são contados no nível da assinatura e somente as assinaturas pagas são consideradas. Usuários ativos mensais são calculados no final de cada mês. Uma assinatura é considerada tiver ultrapassado o limite de usuários ativos mensais se ele estava abaixo do limite especificado 13 meses atrás e ultrapassou o limite, pelo menos uma vez nos 12 meses à direita. Quando um locatário tiver várias assinaturas, cada um associado com parceiros diferentes, todos os parceiros obtém crédito para todas as instâncias de produção no locatário, na categoria de produto aplicável, desde que seus respectivos assinaturas pagas cross necessários Limite de usuários ativos mensais.|À direita de 12 meses|
 |Crescimento de usuários ativos mensais|25|Comparação entre atual contagem de vs de usuários ativos mensais o número de usuários ativos mensais 13 meses atrás. Usuários ativos mensais são contados no nível da assinatura e somente as assinaturas pagas são consideradas. Usuários ativos mensais são calculados no final de cada mês. Para **o envolvimento do cliente**, um parceiro de mercado desenvolvidos deve ter uma linha de base de pelo menos 250 usuários ativos mensais em produção e emergentes no mercado do parceiro no mínimo 150 usuários ativos mensalmente em sua base de clientes todo 13 meses Há seja qualificado para todos os pontos. Para **finanças e operações**, um parceiro de mercado desenvolvidos deve ter uma linha de base de pelo menos 100 usuários ativos mensais em produção e emergentes no mercado de parceiro pelo menos 50 usuários ativos mensalmente em sua base de clientes todo 13 meses Há seja qualificado para todos os pontos.|À direita de 12 meses|
 
-## <a name="customer-to-partner-association"></a>Cliente a associação de parceiro
+## <a name="customer-to-partner-association"></a>Associação de parceiro de cliente
 
-Você receberá o crédito de receita líquida do novo, Net cliente adiciona, novas implantações de grandes e crescimento mensal de usuário ativa para um determinado cliente, dentro dos limites da definição de métrica, se e somente se você for o (solicitadas parceiro de registro (CPOR) ou o parceiro Digital de registro DPOR) para uma assinatura paga que pertencem ao locatário do cliente.
+Você receberá o crédito de receita líquida do novo, Net cliente adiciona, novas implantações grandes e crescimento mensal de usuário ativa para um determinado cliente, dentro dos limites da definição de métrica, somente se você for o solicitadas parceiro de registro (CPOR) ou do registro DPOR (parceiro) para uma assinatura paga que pertencem ao locatário do cliente.
 
 Um parceiro se torna o CPOR se inserirem associação com um cliente no nível de assinatura por meio de incentivo do Dynamics 365 Solution Advisor OSA (Online).
 
