@@ -46,6 +46,7 @@
 ## [Restaurar uma conta suspensa no Partner Center](suspended-partner-center-account.md)
 ## [Criar contas de usuário](create-user-accounts-and-set-permissions.md)
 ## [Atribuir permissões e funções de usuários](permissions-overview.md)
+## [Associar sua conta da Microsoft Learn ao Partner Center](ms-learn-associate.md)
 ## [Verificar sua propriedade do domínio](become-global-admin.md)
 ## [Redefinir uma senha de usuário](reset-a-user-password.md)
 ## [Redefinir minha senha](reset-my-pasword.md)
@@ -116,7 +117,7 @@
 # Análise e dados do Partner Center
 ## [Obter e analisar seus dados corporativos](data-analysis-lp.md)
 ## [Aplicativo de Análise de parceiro para o Microsoft Power BI](power-bi-app-for-direct-partners.md)
-## [Contribuição de parceiro: acompanhe seus indicadores de desempenho](partner-contributions.md)
+## [Indicadores de contribuição de parceiros](partner-contribution-indicators.md)
 ## [Obter dados sobre o uso das assinaturas do Azure de seus clientes](analyze-azure-usage.md)
 ## [Analisar o desempenho de revendedores indiretos](analyze-indirect-resellers.md)
 ## [Analisar as assinaturas e licenças](analyze-subscriptions-licenses.md)
