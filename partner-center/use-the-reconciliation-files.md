@@ -2,17 +2,17 @@
 title: Usar os arquivos de reconciliação | Partner Center
 ms.topic: article
 ms.date: 07/08/2019
-description: Para uma exibição detalhada do item de linha de cada carga, em um ciclo de cobrança, baixe os arquivos de reconciliação do Partner Center.
+description: Para obter uma exibição detalhada de item de linha de cada encargo em um ciclo de cobrança, baixe os arquivos de reconciliação do Partner Center.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 83be47cd9963d7e5f14b6c670cd57a8ab1d54011
-ms.sourcegitcommit: 66afdaa662cfad217e29ba1f9e3a9ffd4349112f
+ms.openlocfilehash: fda8724b389913e49e01d64941622cf366516bf6
+ms.sourcegitcommit: 9156f3a7711fae5e0f9a2c5f29e74e8791836c8e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "67694926"
+ms.lasthandoff: 07/11/2019
+ms.locfileid: "67818974"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar os arquivos de reconciliação
 
@@ -22,29 +22,29 @@ ms.locfileid: "67694926"
 -  Partner Center para Microsoft Cloud for US Government
 
 
-Para uma exibição detalhada do item de linha de cada carga, em um ciclo de cobrança, baixe os arquivos de reconciliação do Partner Center. Os detalhes incluem encargos por assinaturas de cada cliente e eventos detalhados (como a adição de assentos a uma assinatura no meio do período).
+Para obter uma exibição detalhada de item de linha de cada encargo em um ciclo de cobrança, baixe os arquivos de reconciliação do Partner Center. Os detalhes incluem encargos por assinaturas de cada cliente e eventos detalhados (como a adição de assentos a uma assinatura no meio do período).
 
 ## <a name="formatting-issues"></a>Problemas de formatação
 
-Ocasionalmente, seu arquivo de reconhecimento pode ter problemas de formatação. (Isso pode acontecer, por exemplo, se a localidade EN-US não for usada.) Siga as etapas abaixo para corrigir esses problemas. 
+Ocasionalmente, seu arquivo reconhecimento pode ter problemas de formatação. (Isso pode acontecer, por exemplo, se a localidade EN-US não for usada.) Siga as etapas abaixo para corrigir esses problemas. 
 
 <ol>
 <li>Abra o arquivo. csv no Excel e selecione a primeira coluna. Na faixa de opções, selecione <strong>dados</strong>e, em seguida, selecione <strong>texto para colunas</strong>.</li>
 
-<li>Na conversão de texto ao Assistente de colunas, selecione <strong>delimitada por tipo de arquivo</strong>e, em seguida, selecione <strong>próxima</strong>.</li> 
+<li>No assistente converter texto em colunas, selecione <strong>tipo de arquivo delimitado</strong>e, em seguida, selecione <strong>Avançar</strong>.</li> 
 
-<li>No campo dos delimitadores, selecione <strong>vírgula</strong>. Se <strong>guia</strong> é estiver selecionado, você pode deixá-lo. Selecione <strong>Avançar</strong>.</li>
+<li>No campo delimitadores, selecione <strong>vírgula</strong>. Se a <strong>guia</strong> já estiver selecionada, você poderá deixá-la. Selecione <strong>Avançar</strong>.</li>
 
-<li>No campo de formato de dados de coluna, selecione <strong>data: MDY</strong>e, em seguida, selecione <strong>próxima</strong>.</li> 
+<li>No campo formato de dados da coluna, <strong>selecione Data: MDY</strong>e, em seguida, selecione <strong>Avançar</strong>.</li> 
 
-<li>No campo de formato de dados de coluna, selecione <strong>texto</strong> para o valor de todas as colunas e, em seguida, selecione <strong>concluir</strong>.</li>
+<li>No campo formato de dados da coluna, selecione <strong>texto</strong> para todas as colunas de valor e, em seguida, selecione <strong>concluir</strong>.</li>
 </ol>
 
-## <a name="downloading-a-large-recon-file"></a>Baixar um arquivo grande de reconhecimento
+## <a name="downloading-a-large-recon-file"></a>Baixando um arquivo reconhecimento grande
 
-Arquivos de reconhecimento podem ficar muito grandes e, às vezes, são difíceis de fazer o download. Para um script do PowerShell ajudar a fazer o download de arquivos grandes de recon, consulte [itens de linha de nota fiscal Get](https://docs.microsoft.com/en-us/partner-center/develop/get-invoiceline-items).
+Os arquivos reconhecimento podem crescer muito e, às vezes, são difíceis de baixar. Para obter um script do PowerShell para ajudar a baixar arquivos grandes do reconhecimento, consulte [obter itens de linha da fatura](https://docs.microsoft.com/en-us/partner-center/develop/get-invoiceline-items).
 
-## <a href="" id="itemizebypartner"></a>Discriminar pelo parceiro
+## <a href="" id="itemizebypartner"></a>Discriminar por parceiro
 
 
 Os parceiros no modelo indireto podem usar esses campos adicionais nos arquivos de reconciliação baseados em uso e em licença para discriminar por revendedor.
@@ -69,7 +69,7 @@ Os parceiros no modelo indireto podem usar esses campos adicionais nos arquivos 
 <td>ID do MPN do revendedor</td>
 <td><p>Só aparece em arquivos de reconciliação para parceiros no modelo indireto.</p>
 <p>A ID do MPN do revendedor de registro da assinatura. Isso corresponde à ID de revendedor listada para a assinatura específica no Partner Center.</p>
-<p>modo de exibição eTo ou atualização revendedor, no menu do Partner Center, selecione <strong>clientes</strong>, em seguida, escolha o cliente da lista. No menu do cliente, selecione <strong>Assinaturas</strong>, escolha a assinatura na lista. Selecione <strong>Atualizar</strong> para alterar o <strong>Revendedor (ID do MPN)</strong>.</p>
+<p>eTo exibir ou atualizar o revendedor, no menu do centro de parceiros, selecione <strong>clientes</strong>e, em seguida, escolha o cliente na lista. No menu do cliente, selecione <strong>Assinaturas</strong>, escolha a assinatura na lista. Selecione <strong>Atualizar</strong> para alterar o <strong>Revendedor (ID do MPN)</strong>.</p>
 <p>Se um parceiro CSP vendeu a assinatura diretamente para o cliente, sua ID do MPN estará listada duas vezes, como a ID do MPN e a ID do MPN do revendedor.</p>
 <p>Se um parceiro CSP tiver um revendedor sem ID do MPN, esse valor será definido como a ID do MPN do parceiro.</p>
 <p>Se o parceiro CSP remover uma ID de revendedor, esse valor será definido como -1.</p></td>
@@ -79,7 +79,7 @@ Os parceiros no modelo indireto podem usar esses campos adicionais nos arquivos 
 
  
 
-## <a href="" id="licensebasedfiles"></a> Campos de arquivo de licença
+## <a href="" id="licensebasedfiles"></a>Campos de arquivo com base em licença
 
 
 Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Syndication\_Partner\_Subscription\_Number do arquivo de reconciliação com a ID de Assinatura do Partner Center.
@@ -126,7 +126,7 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 <tr class="odd">
 <td>OfferID</td>
 <td><p>ID exclusivo da oferta. ID padrão da oferta de acordo com a lista de preços.</p>
-<p><b>Observação</b>: Esse valor não corresponde a ID da oferta da lista de preços. Veja DurableOfferID abaixo.</p></td>
+<p><b>Observação</b>: Esse valor não corresponde à ID da oferta da lista de preços. Veja DurableOfferID abaixo.</p></td>
 <td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
@@ -148,7 +148,7 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 </tr>
 <tr class="odd">
 <td>SubscriptionEndDate</td>
-<td><p>A data de término da assinatura: + x dias após a data de início (para alinhar com data de cobrança do parceiro) ou 12 meses a partir da data de renovação de 12 meses.</p>
+<td><p>A data de término da assinatura: 12 meses + x dias após a data de início (para alinhar com a data de cobrança do parceiro) ou 12 meses a partir da data de renovação.</p>
 <p>Na renovação, os preços são atualizados com a tabela de preços atual. Um comunicado ao cliente pode ser necessário antes da renovação automática.</p>
 <p>A hora é sempre o início do dia, 0:00.</p></td>
 <td>1/2/2015 0:00</td>
@@ -189,7 +189,7 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 </tr>
 <tr class="even">
 <td>TotalOtherDiscount</td>
-<td><p>Valor de desconto aplicado a esses encargos. IUR ou novas assinaturas qualificadas para incentivo também conterão um valor de desconto nessa coluna.</p></td>
+<td><p>Valor de desconto aplicado a esses encargos. As licenças de produto incluídas com uma competência ou mapas ou novas assinaturas qualificadas para um incentivo também conterão um valor de desconto nesta coluna.</p></td>
 <td>2.32</td>
 </tr>
 <tr class="odd">
@@ -199,7 +199,7 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 </tr>
 <tr class="even">
 <td>Tax</td>
-<td><p>Encargo de valor, com base em seu mercado de imposto&#39;regras de imposto de s e as circunstâncias específicas.</p></td>
+<td><p>Valor do imposto, com base nas regras&#39;de imposto de s do mercado e em circunstâncias específicas.</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -214,7 +214,7 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Cliente&#39;nome da organização s conforme relatado no Partner Center. Isso é muito importante para reconciliar a fatura com as informações de seu sistema.</p></td>
+<td><p>Nome&#39;da organização do cliente como relatado no Partner Center. Isso é muito importante para reconciliar a fatura com as informações de seu sistema.</p></td>
 <td>Cliente de teste A</td>
 </tr>
 <tr class="even">
@@ -229,7 +229,7 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Cliente&#39;nome de domínio s, usado para ajudar a identificar o cliente. Isso não deve ser usado para identificar exclusivamente o cliente, assim como o cliente/parceiro pode atualizar o domínio intuitivo/padrão por meio do portal do O365. Este campo pode aparecer em branco até o segundo ciclo de cobrança.</p></td>
+<td><p>Nome&#39;de domínio do cliente, usado para ajudar a identificar o cliente. Isso não deve ser usado para identificar exclusivamente o cliente, pois o cliente/parceiro pode atualizar o domínio intuitivo/padrão por meio do portal do O365. Este campo pode aparecer em branco até o segundo ciclo de cobrança.</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -246,7 +246,7 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 </table>
 
 
-## <a href="" id="usagebasedfiles"></a>Campos de arquivo baseada em uso
+## <a href="" id="usagebasedfiles"></a>Campos de arquivo com base no uso
 
 
 Para reconciliar seus encargos com o uso de seu cliente, compare ResellerID/ResellerName/ResellerBillableAccount do arquivo de reconciliação com o nome do cliente e a ID da assinatura do Partner Center.
@@ -282,7 +282,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Cliente&#39;nome da organização s conforme relatado no Partner Center. Isso é muito importante para reconciliar a fatura com as informações de seu sistema.</p></td>
+<td><p>Nome&#39;da organização do cliente como relatado no Partner Center. Isso é muito importante para reconciliar a fatura com as informações de seu sistema.</p></td>
 <td>Cliente de teste A</td>
 </tr>
 <tr class="even">
@@ -360,7 +360,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Region</td>
+<td>Região</td>
 <td><p>A região a qual o uso se aplica. Usado principalmente para atribuir as taxas de transferências de dados, já que as taxas variam de acordo com a região.</p></td>
 <td>Pacífico Asiático, Europa, América Latina e América do Norte</td>
 </tr>
@@ -403,7 +403,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>Encargo de valor, com base em seu mercado de imposto&#39;regras de imposto de s e as circunstâncias específicas.</p></td>
+<td><p>Valor do imposto, com base nas regras&#39;de imposto de s do mercado e em circunstâncias específicas.</p></td>
 <td>U$ 0,08</td>
 </tr>
 <tr class="even">
@@ -464,7 +464,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>O número de conexões ServiceBus que foram provisionados e utilizados em um dia específico.</p></td>
-<td>Por exemplo: se você tivesse uma conexão individualmente provisionada durante um mês de 30 dias, a coluna Informação do Serviço 1 lerá "1,000000 conexões/30 dias". Se você tivesse um pacote de 25 de conexões de barramento de serviço provisionado e você tinha utilizou 1 durante o dia, sua instrução de uso diário para esse dia indicaria "25 conexões / 30 dias – usado: 1.000000”.</td>
+<td>Por exemplo: se você tivesse uma conexão individualmente provisionada durante um mês de 30 dias, a coluna Informação do Serviço 1 lerá "1,000000 conexões/30 dias". Se você tiver um pacote de 25 pacotes de conexões do ServiceBus provisionado e tiver utilizado 1 durante esse dia, sua instrução de uso diário para esse dia indicaria "25 conexões/30 dias – usado: 1, 0 ".</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
@@ -473,7 +473,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Cliente&#39;nome de domínio s, usado para ajudar a identificar o cliente. Este campo pode aparecer em branco até o segundo ciclo de cobrança.</p></td>
+<td><p>Nome&#39;de domínio do cliente, usado para ajudar a identificar o cliente. Este campo pode aparecer em branco até o segundo ciclo de cobrança.</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -484,7 +484,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tbody>
 </table>
 
-## <a href="" id="marketplacefilefields"></a>Campos de arquivo únicos e recorrentes
+## <a href="" id="marketplacefilefields"></a>Campos de arquivo de uso único e recorrente
 
 <table>
 <colgroup>
@@ -502,12 +502,12 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 
 <tr class="odd">
 <td>PartnerID</td>
-<td><p>Identificador exclusivo do locatário Microsoft Azure Active Directory para uma entidade específica de cobrança, no formato GUID. Não é necessário para reconciliação, mas pode ser uma informação útil. O mesmo em todas as linhas.</p></td>
+<td><p>Identificador de locatário de Microsoft Azure Active Directory exclusivo para uma entidade de cobrança específica, no formato GUID. Não é necessário para reconciliação, mas pode ser uma informação útil. O mesmo em todas as linhas.</p></td>
 </tr>
 
 <tr class="even">
-<td>Id do cliente</td>
-<td><p>Microsoft Azure Active Directory locatário ID exclusiva, no formato GUID, usado para identificar o cliente.</p></td>
+<td>ID do cliente</td>
+<td><p>ID de locatário de Microsoft Azure Active Directory exclusiva, no formato GUID, usada para identificar o cliente.</p></td>
 </tr>
 
 <tr class="odd">
@@ -517,7 +517,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 
 <tr class="even">
 <td>CustomerDomainName</td>
-<td><p>Nome de domínio do cliente, usado para ajudar a identificar o cliente. Isso não deve ser usado para identificar exclusivamente o cliente, assim como o cliente/parceiro pode atualizar o domínio intuitivo/padrão por meio do portal do O365. Este campo pode aparecer em branco até o segundo ciclo de cobrança.</p></td>
+<td><p>Nome de domínio do cliente, usado para ajudar a identificar o cliente. Isso não deve ser usado para identificar exclusivamente o cliente, pois o cliente/parceiro pode atualizar o domínio intuitivo/padrão por meio do portal do O365. Este campo pode aparecer em branco até o segundo ciclo de cobrança.</p></td>
 </tr>
 
 <tr class="odd">
@@ -536,13 +536,13 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tr>
 
 <tr class="even">
-<td>Reseller MpnId</td>
+<td>MpnId do revendedor</td>
 <td><p>ID do MPN do revendedor de registro da assinatura.</p></td>
 </tr>
 
 <tr class="odd">
 <td>ID do Pedido</td>
-<td><p>Identificador exclusivo para um pedido na plataforma de comércio do Microsoft. Pode ser útil para identificar o pedido ao entrar em contato com o suporte, mas não para reconciliação.</p></td>
+<td><p>Identificador exclusivo de um pedido na plataforma Microsoft Commerce. Pode ser útil para identificar o pedido ao entrar em contato com o suporte, mas não para reconciliação.</p></td>
 </tr>
 
 <tr class="even">
@@ -577,12 +577,12 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 
 <tr class="even">
 <td>PublisherName</td>
-<td><p>O nome do publicador do produto.</p></td>
+<td><p>O nome do editor do produto.</p></td>
 </tr>
 
 <tr class="odd">
 <td>PublisherID</td>
-<td><p>ID exclusiva para esse publicador.</p></td>
+<td><p>ID exclusiva para este Publicador.</p></td>
 </tr>
 
 <tr class="even">
@@ -592,7 +592,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 
 <tr class="odd">
 <td>ID da assinatura</td>
-<td><p>Identificador exclusivo para uma assinatura da plataforma de comércio do Microsoft. Pode ser útil para identificar a assinatura ao entrar em contato com o suporte, mas não para reconciliação. Esse não é o mesmo que o ID da assinatura no Partner Admin Console.</p></td>
+<td><p>Identificador exclusivo de uma assinatura na plataforma Microsoft Commerce. Pode ser útil para identificar a assinatura ao entrar em contato com o suporte, mas não para reconciliação. Esse não é o mesmo que o ID da assinatura no Partner Admin Console.</p></td>
 </tr>
 
 <tr class="even">
@@ -607,7 +607,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 
 <tr class="even">
 <td>Termo e Billingcycle</td>
-<td><p>A vigência e o ciclo de cobrança para a compra. Por exemplo, "1 ano, mês."</p></td>
+<td><p>O tamanho do termo e o ciclo de cobrança da compra. Por exemplo, "1 ano, mensalmente."</p></td>
 </tr>
 
 <tr class="odd">
@@ -617,12 +617,12 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 
 <tr class="even">
 <td>Preço unitário</td>
-<td><p>O preço como publicado no pricelist no momento da compra. Isso deve coincidir com a informação armazenada em seu sistema de cobrança durante a reconciliação.</p></td>
+<td><p>O preço como publicado na tabela de preços no momento da compra. Isso deve coincidir com a informação armazenada em seu sistema de cobrança durante a reconciliação.</p></td>
 </tr>
 
 <tr class="odd">
-<td>Preço unitário efetiva</td>
-<td><p>O preço unitário depois de fazer ajustes.</p></td>
+<td>Preço unitário efetivo</td>
+<td><p>O preço unitário após os ajustes terem sido feitos.</p></td>
 </tr>
 
 <tr class="even">
@@ -632,12 +632,12 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 
 <tr class="odd">
 <td>Tipo de unidade</td>
-<td><p>O tipo de unidade que está sendo comprado.</p></td>
+<td><p>O tipo de unidade que está sendo adquirida.</p></td>
 </tr>
 
 <tr class="even">
 <td>DiscountDetails</td>
-<td><p>Obter uma explicação de qualquer desconto aplicável.</p></td>
+<td><p>Uma explicação de qualquer desconto aplicável.</p></td>
 </tr>
 
 <tr class="odd">
@@ -646,7 +646,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tr>
 
 <tr class="even">
-<td>Total de impostos</td>
+<td>Total do imposto</td>
 <td><p>Valor do imposto cobrado, com base nas regras fiscais do mercado e em circunstâncias específicas.</p></td>
 </tr>
 
@@ -661,14 +661,14 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tr>
 
 <tr class="odd">
-<td>AlternateID</td>
+<td>Uma alternateid</td>
 <td><p>Um identificador alternativo para uma ID de pedido.</p></td>
 </tr>
 </tbody>
 </table>
 
 
-## <a href="" id="dailyratedusagefields"></a>Campos de arquivo de uso classificada como diária
+## <a href="" id="dailyratedusagefields"></a>Campos de arquivo de uso com classificação diária
 
 
 <table>
@@ -720,7 +720,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tr>
 
 <tr class="even">
-<td>Revendedor MPNID</td>
+<td>MPNID do revendedor</td>
 <td><p>ID do MPN do revendedor de registro da assinatura. Não disponível para a atividade atual.</p></td>
 </tr>
 
@@ -751,12 +751,12 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 
 <tr class="even">
 <td>PublisherName</td>
-<td><p>O nome do publicador.</p></td>
+<td><p>O nome do Publicador.</p></td>
 </tr>
 
 <tr class="odd">
 <td>PublisherID</td>
-<td><p>A ID do publicador, no formato GUID. Não disponível para a atividade atual.</p></td>
+<td><p>A ID do Publicador, no formato GUID. Não disponível para a atividade atual.</p></td>
 </tr>
 
 <tr class=”even">
@@ -795,18 +795,18 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tr>
 
 <tr class="odd">
-<td>Id do medidor</td>
+<td>ID do medidor</td>
 <td><p>A ID do medidor que está sendo usado.</p></td>
 </tr>
 
 <tr class="even">
-<td>Medir subcategoria</td>
-<td><p>O tipo de serviço do Azure que pode afetar a tarifa.</p></td>
+<td>Subcategoria do medidor</td>
+<td><p>O tipo de serviço do Azure que pode afetar a taxa.</p></td>
 </tr>
 
 <tr class="odd">
 <td>Nome do medidor</td>
-<td><p>A unidade de medida para o medidor sendo consumido.</p></td>
+<td><p>A unidade de medida para o medidor que está sendo consumido.</p></td>
 </tr>
 
 <tr class="even">
@@ -826,12 +826,12 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 
 <tr class="odd">
 <td>Local do recurso</td>
-<td><p>O datacenter em que o medidor está sendo executado.</p></td>
+<td><p>O datacenter em que o medidor está em execução.</p></td>
 </tr>
 
 <tr class="even">
 <td>Serviço consumido</td>
-<td><p>O serviço de plataforma do Azure que você usou.</p></td>
+<td><p>O serviço da plataforma do Azure que você usou.</p></td>
 </tr>
 
 
@@ -847,7 +847,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 
 <tr class="even">
 <td>Preço unitário</td>
-<td><p>Preço por licença, como publicado no pricelist no momento da compra. Isso deve coincidir com a informação armazenada em seu sistema de cobrança durante a reconciliação.</p></td>
+<td><p>Preço por licença, conforme publicado na tabela de preços no momento da compra. Isso deve coincidir com a informação armazenada em seu sistema de cobrança durante a reconciliação.</p></td>
 </tr>
 
 <tr class="odd">
@@ -857,49 +857,49 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 
 <tr class="even">
 <td>Tipo de unidade</td>
-<td><p>O tipo de unidade, que o medidor é cobrado. Não disponível para a atividade atual.</p></td>
+<td><p>O tipo de unidade em que o medidor é cobrado. Não disponível para a atividade atual.</p></td>
 </tr>
 
 <tr class="odd">
-<td>Imposto de versão anterior de cobrança</td>
-<td><p>Quantidade total antes dos impostos.</p></td>
+<td>Pré-imposto de cobrança</td>
+<td><p>Valor total antes dos impostos.</p></td>
 </tr>
 
 <tr class="even">
 <td>Moeda de cobrança</td>
-<td><p>A moeda na região de geográfica do cliente</p></td>
+<td><p>A moeda na região geográfica do cliente</p></td>
 </tr>
 
 <tr class="odd">
-<td>Preço total pretax</td>
-<td><p>O preço antes de impostos forem adicionados.</p></td>
+<td>Preço custo total</td>
+<td><p>O preço antes da adição de impostos.</p></td>
 </tr>
 
 <tr class="even">
-<td>Preços de moeda</td>
-<td><p>A moeda no pricelist.</p></td>
+<td>Moeda de preços</td>
+<td><p>A moeda na tabela de preços.</p></td>
 </tr>
 
 <tr class="odd">
-<td>Informações do serviço 1</td>
+<td>Informações de serviço 1</td>
 <td><p>O número de conexões ServiceBus que foram provisionados e utilizados em um dia específico.</p></td>
 </tr>
 
 <tr class="even">
-<td>Informações do serviço 2</td>
-<td><p>Um campo herdado que captura os metadados específicos do serviço opcional.</p></td>
+<td>Informações de serviço 2</td>
+<td><p>Um campo herdado que captura metadados específicos do serviço opcionais.</p></td>
 </tr>
 
 <tr class="even">
 <td>Informações adicionais</td>
-<td><p>Informações adicionais não são abordadas em outras colunas.</p></td>
+<td><p>Quaisquer informações adicionais não abordadas em outras colunas.</p></td>
 </tr>
 
 </tbody>
 </table>
 
 
-## <a href="" id="charge_types"></a>Encargos de mapeamento entre uma nota fiscal e o arquivo de reconciliação
+## <a href="" id="charge_types"></a>Mapeando cobranças entre uma fatura e o arquivo de reconciliação
 
 Sua fatura fornece um resumo dos encargos, enquanto seu arquivo de reconciliação fornece uma divisão detalhada das transações de item de linha, incluindo os tipos de carga.
 
@@ -913,21 +913,21 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 <tbody>
 <tr>
 <td>
-<p><strong>Descrição de encargo de fatura</strong></p>
+<p><strong>Descrição da cobrança da fatura</strong></p>
 </td>
 <td>
-<p><strong>Descrição de cobrança de arquivo de reconciliação (ChargeType coluna)</strong></p>
+<p><strong>Descrição do encargo do arquivo de reconciliação (coluna Chargetype)</strong></p>
 </td>
 <td>
-<p><strong>O que é a cobrança?</strong></p>
+<p><strong>Qual é essa cobrança?</strong></p>
 </td>
 <td>
-<p><strong>Como faço para mapear esses ChargeTypes à fatura?</strong></p>
+<p><strong>Como fazer mapear esses ChargeTypes para a fatura?</strong></p>
 </td>
 </tr>
 <tr>
 <td rowspan="10">
-<p><strong>Encargos de licença</strong></p>
+<p><strong>Encargos baseados em licença</strong></p>
 </td>
 <td>
 <p>Taxa de ativação</p>
@@ -976,7 +976,7 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 <p>Taxas proporcionais durante a compra</p>
 </td>
 <td>
-<p>O tipo de encargo para uma assinatura ao usar cobranças anuais</p>
+<p>O tipo de encargo para uma assinatura ao usar a cobrança anual</p>
 </td>
 </tr>
 <tr>
@@ -1017,7 +1017,7 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 
 <tr>
 <td rowspan="5">
-<p><strong>Encargos de uso únicos</strong></p>
+<p><strong>Encargos de uso único</strong></p>
 
 </td>
 <td>
@@ -1032,10 +1032,10 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 </tr>
 <tr>
 <td>
-<p>addQuantity</p>
+<p>addquantity</p>
 </td>
 <td>
-<p>Usado em ambos os o reembolso na compra original e a nova quantidade depois aumento</p>
+<p>Usado tanto no reembolso da compra original quanto na nova quantidade após o aumento</p>
 </td>
 </tr>
 
@@ -1045,7 +1045,7 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 <p>removeQuantity</p>
 </td>
 <td>
-<p>Usado em ambos os o reembolso na compra original e a nova quantidade após a redução</p>
+<p>Usado tanto no reembolso da compra original quanto na nova quantidade após a diminuição</p>
 </td>
 </tr>
 
@@ -1094,7 +1094,7 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 
 <tr>
 <td>
-<p><strong>Créditos</strong></p>
+<p><strong>Crédito</strong></p>
 </td>
 <td>
 <p>Deslocando um item de linha</p>
@@ -1150,10 +1150,10 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 
 <tr>
 <td>
-<p><strong>Descontos de licença</strong></p>
+<p><strong>Descontos baseados em licença</strong></p>
 </td>
 <td>
-<p><em>Pode ser aplicado a vários tipos de custo</em></p>
+<p><em>Pode ser aplicado a vários tipos de cobrança</em></p>
 </td>
 <td>
 <p></p>
@@ -1167,8 +1167,8 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 <p><strong>Impostos</strong>&nbsp;ou&nbsp;<strong>IVA</strong></p>
 </td>
 <td>
-<p><em>Pode ser aplicado a vários tipos de custo</em></p>
-<p><em>Exceção: &quot;Deslocamento de um item de linha&quot; já inclui os impostos. Ver créditos, acima.</em></p>
+<p><em>Pode ser aplicado a vários tipos de cobrança</em></p>
+<p><em>Exception &quot;Deslocar um item&quot; de linha já inclui impostos. Consulte créditos, acima.</em></p>
 </td>
 <td>
 <p>Impostos ou impostos sobre valor agregado (IVA)</p>
