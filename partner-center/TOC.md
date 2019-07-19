@@ -146,6 +146,7 @@
 
 # Segurança
 ## [Requisitos de segurança de parceiros](partner-security-requirements.md)
+## [Perguntas frequentes sobre requisitos de segurança de parceiros](partner-security-requirements-faq.md)
 
 # Tutoriais
 ## [Implementando os requisitos de segurança de parceiros](tutorials/partner-security-requirements.yml)
