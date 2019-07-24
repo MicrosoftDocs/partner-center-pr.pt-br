@@ -1,19 +1,19 @@
 ---
-title: Responder às referências | Partner Center
+title: Responder às referências | Centro de parceiros
 ms.topic: article
-ms.date: 05/23/2019
-description: Como um parceiro da Microsoft qualificado, você pode avaliar negociar e responder às referências por meio do Partner Center.
-author: LauraBrenner
-ms.author: labrenne
+ms.date: 07/12/2019
+description: Como um parceiro qualificado da Microsoft, você pode avaliar, negociar e responder às referências por meio do Partner Center.
+author: JnHs
+ms.author: jenhayes
 keywords: referência, RFI, localizar um parceiro
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 390dfc47fb091dcbece992d6a62c32afea1eb0a2
-ms.sourcegitcommit: 2524f327d8e6213cc7d40d196c0963204f0668e6
+ms.openlocfilehash: cb97ca8bfdd20976b9cef75594f6bd13c330595b
+ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/23/2019
-ms.locfileid: "66176175"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "67854536"
 ---
 # <a name="respond-to-referrals"></a>Responda a indicações
 
@@ -21,7 +21,7 @@ ms.locfileid: "66176175"
 
 -  Partner Center
 
-Como um parceiro da Microsoft qualificado, você pode receber potenciais de negócios por meio de referências. No Partner Center, você pode gerenciar clientes potenciais de entrada, responder rapidamente às que são uma boa opção, e ignorar ou recusar aquelas que não são. 
+Como um parceiro qualificado da Microsoft, você pode receber leads de negócios potenciais por meio de referências. No Partner Center, você pode gerenciar clientes potenciais de entrada, responder rapidamente aos que são uma boa opção e ignorar ou recusar os que não são. 
 
 ## <a name="referral-management"></a>Gerenciamento de referência
 
@@ -29,42 +29,45 @@ Comece configurando um [perfil de negócios](create-a-marketing-profile.md) para
 
 *  Atividades de marketing da Microsoft
 *  Vendas internas e agentes de serviço da Microsoft
-*  Cliente de pesquisa, usando o **[provedor de soluções](https://www.microsoft.com/solution-providers/home)** ferramenta de pesquisa.
+*  Pesquisa de cliente, usando a ferramenta de pesquisa do **[provedor de soluções](https://www.microsoft.com/solution-providers/home)** .
 
-Quando um cliente está interessado em aprender mais sobre suas soluções e serviços, eles irá contatá-lo, enviando uma solicitação de informações (RFI). O contato listado no seu [perfil comercial](create-a-marketing-profile.md) específicos para a região e o local selecionado receberá um email gerado pelo sistema. Você também pode ver a entrada RFIs no Partner Center acessando **referências > contratos > caixa de entrada**.
+Quando um cliente estiver interessado em aprender mais sobre suas soluções e serviços, ele entrará em contato com você enviando uma solicitação de informações (RFI). O contato listado em seu [perfil comercial](create-a-marketing-profile.md) específico para a região e local selecionados receberá um email gerado pelo sistema. Você também pode ver RFIs de entrada no Partner Center acessando **referências > compromissos > caixa de entrada**.
 
-Os clientes geralmente optam por enviar o mesmo RFI a várias empresas ao mesmo tempo. Para aumentar a sua chance de sucesso, é recomendável aceitar ou recusar novas referências do engagement dentro de 24 horas ou menos.
+Os clientes geralmente optam por enviar o mesmo RFI a várias empresas ao mesmo tempo. Para aumentar sua chance de sucesso, recomendamos aceitar ou recusar novas referências de compromisso dentro de 24 horas ou menos.
 
 ### <a name="new-referrals"></a>Novas indicações
 
-No seu **caixa de entrada**, mostraremos a você uma visão geral da RFI. A partir daqui, você pode decidir se você estiver interessado na referência.
+Em sua **caixa de entrada**, mostraremos uma visão geral do RFI. A partir daqui, você pode decidir se está interessado na referência.
 
-Examine os detalhes e fique à vontade para contatar o cliente se você quiser saber mais sobre suas necessidades de negócios. Em seguida, aceitar ou recusar a referência:
+Examine os detalhes e fique à vontade para entrar em contato com o cliente se você quiser saber mais sobre suas necessidades comerciais. Em seguida, aceite ou recuse a referência:
 
-*  **Aceitar**: Insira um nome para o contrato, o valor de negócio estimado e o período de tempo estimado de compra. Você também deve fornecer informações na **anotações** campo explicar mais sobre o que o cliente está procurando. Você pode, opcionalmente, insira sua ID de CRM aqui (somente para referência) e adicionar contatos adicionais da sua empresa. Quando tiver terminado, selecione **próxima**. Vamos examinar a referência ao **Active**, que significa que você planeja se envolver ativamente com o cliente para atender suas necessidades. Também usaremos essas informações para ajudá-lo a encontrar lida semelhantes no futuro.
-*  **Recusar**: Selecione o motivo pelo qual você está diminuindo o engagement e adicione as observações que você deseja incluir e, em seguida, selecione **fechar engagement**. Podemos vai arquivá-la como **recusadas** e notificar o cliente para escolher outro parceiro.
+*  **Aceitar**: Insira um nome para o envolvimento, o valor de negócio estimado e o período de tempo de compra estimado. Você também deve fornecer informações no campo **observações** para explicar mais sobre o que o cliente está procurando. Opcionalmente, você pode inserir sua ID do CRM aqui (somente para sua referência) e adicionar outros contatos de sua empresa. Quando tiver terminado, selecione **Avançar**. Moveremos a referência para **ativo**, o que significa que você planeja envolver ativamente o cliente para atender às suas necessidades. Também usaremos essas informações para ajudá-lo a encontrar acordos semelhantes no futuro.
+*  **Recusar**: Selecione o motivo pelo qual você está recusando o envolvimento e adicione as anotações que deseja incluir e, em seguida, selecione **fechar compromisso**. Vamos arquivá-lo  como recusado e notificar o cliente para escolher um parceiro diferente.
 
-Se você não responder dentro do período de tempo alocado (no momento de 14 dias), podemos irá arquivá-la como **expirado** e notificar o cliente para escolher outro parceiro.
+Se você não responder dentro do período de tempo alocado (no momento, 14 dias), arquivaremos-  o como expirado e notificaremos o cliente para escolher um parceiro diferente.
 
 > [!TIP]
-> Um cliente tem a opção para solicitar explicitamente que parceiros interessados contate-os diretamente. Se esse for o caso, você verá um alerta na parte superior da página com um ícone de chamas. É altamente recomendável contatar entre em contato com o cliente assim que possível para melhorar suas chances de ganhar o compromisso. Depois de 72 horas, a referência continuará a estar ativo, mas o ícone e uma mensagem serão alterado. Você ainda deve contatar o cliente se você estiver interessado em saber de referência.
+> Um cliente tem a opção de solicitar explicitamente que os parceiros interessados os contatem diretamente. Se esse for o caso, você verá um alerta na parte superior da página com um ícone chama. É altamente recomendável entrar em contato com o cliente o mais rápido possível para melhorar suas chances de ganhar o envolvimento. Após 72 horas, a referência continuará ativa, mas o ícone e a mensagem serão alterados. Você ainda deve entrar em contato com o cliente se estiver interessado em obter a referência.
 
-### <a name="active-referrals"></a>Referências de Active Directory
+### <a name="active-referrals"></a>Referências ativas
 
-Trabalho para fechar a negociação com o cliente. Quando tiver terminado, selecione **ganhou** ou **Lost** para relatar o resultado, portanto, podemos arquivá-lo adequadamente.
+Trabalho para fechar a negociação com o cliente. Quando tiver terminado, selecione **ganha** ou **perdido** para relatar o resultado para que possamos arquivá-lo adequadamente.
 
-Se você quiser alterar qualquer uma das informações de que você forneceu para uma referência ativa, selecione **Editar engagement**. Em seguida, você pode atualizar o nome do contrato, data de compra estimado, valor estimado, observações e/ou seu ID. CRM
+> [!TIP]
+> Para determinadas soluções qualificadas, depois de selecionar **ganha** , você será solicitado a fornecer informações adicionais para registrar seu negócio. A Microsoft revisará as informações fornecidas aqui e poderá solicitar detalhes adicionais durante o processo de revisão.
 
-Você também pode selecionar **adicionar contato** para fornecer o nome, número de telefone e endereços de email de quaisquer outras pessoas que estão trabalhando no projeto.
+Se você quiser alterar qualquer uma das informações que forneceu para uma referência ativa, selecione **Editar compromisso**. Em seguida, você pode atualizar o nome do Engagement, a data de compra estimada, o valor estimado, as observações e/ou a ID do CRM.
+
+Você também pode selecionar **Adicionar contato** para fornecer o nome, o número de telefone e os endereços de email de outras pessoas que estão trabalhando no envolvimento.
 
 
 ### <a name="archived-referrals"></a>Indicações arquivadas
 
-Examine suas últimas indicações (**venceu, perdido, recusado** e **expirado**) a qualquer momento. 
+Examine as referências anteriores (**ganha, perdida, recusadas** e **expiradas**) a qualquer momento. 
 
 ## <a name="getting-more-referrals"></a>Obtendo mais indicações
 
-Aqui estão algumas dicas para ajudá-lo a obter mais referências que são apropriadas para o seu negócio:
+Aqui estão algumas dicas para ajudá-lo a obter mais referências apropriadas para seus negócios:
 
 *  **Escolha palavras-chave e preferências que representem seus conhecimentos e modelo de negócios exclusivos** em seu [perfil de negócios](create-a-marketing-profile.md). Remova as palavras-chave que gerariam indicações das quais você não se interessaria. Se você não estiver interessado em como lidar com as empresas de um determinado tamanho, atualize essa preferência.
 
