@@ -2,7 +2,7 @@
 
 # [Associação ao Partner Network](mpn-overview.md)
 ## [Criar uma conta do Partner Center](mpn-create-a-partner-center-account.md)
-## [Como obter um endereço de email de trabalho](buy-email-domain.md)
+## [Como obter um email de trabalho](buy-email-domain.md)
 ## Mover do PMC para o Partner Center
 ### [Preparar para migrar do Partner Membership Center para o Partner Center](prepare-pmc-pc-migration.md)
 ### [Guia para mudar do PMC para o Partner Center](guide-to-migration.md)
@@ -14,6 +14,7 @@
 ### [Action Pack](mpn-get-action-pack.md)
 ### [Renovar suas ofertas](renew-mpn-offers.md)
 ## [Competências](learn-about-competencies.md)
+## [Programa Provedor de serviços gerenciados de Especialistas do Azure](azure-expert-msp.md)
 ## [Benefícios](manage-your-partner-network-benefits.md)
 ## [Programas do Software Assurance](software-assurance-lp.md)
 ### [Programa SATV (Comprovante de Treinamento do Software Assurance) no Partner Center](software-assurance-satv.md)
@@ -35,7 +36,13 @@
 
 ## [Inscrever-se para vender em nuvens nacionais](csp-national-clouds-overview.md)
 ### [Partner Center do Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
+### [Perguntas frequentes sobre o Microsoft Cloud for US Government](faq-for-us-govt-cloud.md)
 ### [Partner Center for Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md) (Partner Center do Microsoft Cloud Alemanha)
+### [Registrar-se no CSP para o Microsoft Cloud for US Government](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+### [Vender o Office 365 Government GCC para CSP](csp-gcc-overview.md)
+### [Critérios de qualificação de parceiros e clientes do Office 365 Government GCC](csp-gcc-validate.md)
+### [Gerenciamento de usuários e licenças no Partner Center do Microsoft Cloud Germany](user-management-in-partner-center-for-microsoft-cloud-germany.md)
+### [Gerenciamento de usuários e licenças no Partner Center do Microsoft Cloud for US Government](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
 
 # [Gerenciar sua conta do Partner Center](partner-center-account-setup.md)
 ## [Contas corporativas e o Partner Center](azure-active-directory-tenants-and-partner-center.md)
@@ -43,6 +50,7 @@
 ## [Verifique as informações da conta](verification-responses.md)
 ## [Atualizar seu perfil de parceiro](update-your-partner-profile.md)
 ## [Locais](manage-locations.md)
+## [Registrar-se como um fornecedor do Painel de Controle](enroll-as-cpv.md)
 ## [Restaurar uma conta suspensa no Partner Center](suspended-partner-center-account.md)
 ## [Criar contas de usuário](create-user-accounts-and-set-permissions.md)
 ## [Atribuir permissões e funções de usuários](permissions-overview.md)
@@ -87,6 +95,7 @@
 ## [Adicione um novo cliente](add-a-new-customer.md)
 ## [Solicite uma relação de revendedor com um cliente](request-a-relationship-with-a-customer.md)
 ## [Remover um relacionamento de revendedor com um cliente](remove-a-relationship.md)
+## [Os clientes delegam ou revogam privilégios administrativos de parceiros](customers_revoke_admin_privileges.md) 
 ## [Consultar a lista de clientes](see-your-customer-list.md)
 ## [Atualizar informações da conta de cliente](update-customer-account-info.md)
 ## [Crie vários usuários para um cliente](adding-multiple-users-to-a-customer-account.md)
@@ -100,6 +109,7 @@
 ## [Assinaturas de software](csp-software-subscriptions.md)
 ## [Serviços online (assinaturas)](customer-subscriptions.md)
 ### [Criar, suspender ou cancelar assinaturas de clientes](create-a-new-subscription.md)
+### [Usar promoções para atrair novos clientes](promotions.md)
 ### [Oferecer aos clientes avaliações de produtos da Microsoft](offer-your-customers-trials-of-microsoft-products.md)
 ### [Vender assinaturas de produtos do Azure Marketplace](sell-marketplace-products.md)
 ### [Atribuir assinaturas do Azure no Partner Center](assign-azure-subscriptions.md)
@@ -125,11 +135,14 @@
 ## [Analisar o desempenho de revendedores indiretos](analyze-indirect-resellers.md)
 ## [Analisar as assinaturas e licenças](analyze-subscriptions-licenses.md)
 ## [Análise do Microsoft Learn](ms-learn-analytics.md)
+## [Aplicativo Análise do Partner Center para Power BI](power-bi-app-for-direct-partners-use.md)
+## [Instalar e visualizar o aplicativo Análise do Partner Center para Microsoft Power BI](power-bi-app-for-direct-partners-install.md)
 
 # [Trabalhe com outros parceiros](work-with-other-partners.md)
 ## [Tarefas de provedor indireto no Partner Center](indirect-provider-tasks-in-partner-center.md)
 ## [Tarefas de revendedor indireto no Partner Center](indirect-reseller-tasks-in-partner-center.md)
-
+## [Suporte multicanal](multichannel.md)
+## [Suporte a vários parceiros](multipartner.md)
 
 # [Obter suporte da Microsoft](support-from-microsoft.md)
 ## [Relate problemas com o Partner Center](report-problems-with-partner-center.md)
