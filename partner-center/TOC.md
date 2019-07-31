@@ -107,6 +107,7 @@
 ### [Dimensionamento da VM para uso máximo de reserva](azure-usage.md)
 ### [Comprar Reservas do Microsoft Azure em nome de seus clientes](azure-reservations-buying.md)
 ### [Gerenciar Reservas do Microsoft Azure em nome de seus clientes](azure-reservations-manage.md)
+### [Instâncias de VM reservadas do Azure (RI) + assinaturas de servidor](azure-ri-server-subscriptions.md)
 ## [Assinaturas de software](csp-software-subscriptions.md)
 ## [Serviços online (assinaturas)](customer-subscriptions.md)
 ### [Criar, suspender ou cancelar assinaturas de clientes](create-a-new-subscription.md)
