@@ -5,14 +5,14 @@ ms.date: 5/7/2019
 description: Saiba mais sobre os requisitos de competência para obter níveis de associação Gold e Silver.
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: competências, associação Prata, ouro associação, mpn, mapas, proficiência, Microsoft Partner Network, associação de rede avançado especializações
+keywords: competências, associação Silver, associação Gold, MPN, mapas, proficiência, Microsoft Partner Network, associação de rede, especializações avançadas
 ms.localizationpriority: medium
-ms.openlocfilehash: 480f14df79f5899a24b23947528b44a7aa3b73ba
-ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
+ms.openlocfilehash: efc69215010e1ad32ae63c81556979f18f157f07
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "67549525"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820646"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Requisitos de competência para associações Gold e Silver da Microsoft
 
@@ -23,10 +23,10 @@ Demonstre seu conhecimento comprovado no fornecimento de soluções de qualidade
 
 - Obtenha uma **associação Gold** para demonstrar sua altíssima competência dentro de uma área de solução específica da Microsoft
 
-Saiba mais sobre [que é necessário para ganhar associação Silver e Gold](https://partner.microsoft.com/membership/competencies)
+Saiba mais sobre [o que é necessário para conquistar a associação Silver e ouro](https://partner.microsoft.com/membership/competencies)
 
-Saiba mais sobre [notas fiscais e os impostos de competências](mpn-view-print-maps-invoice.md)
+Saiba mais sobre [faturas e impostos para competências](mpn-view-print-maps-invoice.md)
 
 ## <a name="advanced-specializations"></a>Especializações avançadas
 
-Vão além da sua competência gold com uma especialização avançada. Eles fornecem um meio para você apresentar a experiência comprovada e verificável em um produto, a área da solução ou o serviço. Os clientes poderão ver sua competência Gold e sua especialização avançada em seu perfil de negócios no diretório de parceiros. Para receber uma marca de especialização avançada, sua empresa totalmente deve atender a um conjunto de critérios publicados e ser validada pela Microsoft. [Saiba mais](https://partner.microsoft.com/en-us/membership/competencies#tab-content-2). 
+Vá além de sua competência ouro com uma especialização avançada. Eles fornecem um meio para você demonstrar conhecimento comprovado e verificável em um produto, área de solução ou serviço. Os clientes poderão ver sua competência ouro e sua especialização avançada em seu perfil de negócios no diretório de parceiros. Para receber uma marca de Especialização avançada, sua empresa deve atender totalmente a um conjunto de critérios publicados e ser validada pela Microsoft. [Saiba mais](https://partner.microsoft.com/membership/competencies#tab-content-2). 

@@ -6,12 +6,12 @@ description: O que pensar antes de mover seus negócios do PMC para o Partner Ce
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 411093a885abf2144df218d8ef28a07a10f09061
-ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
+ms.openlocfilehash: d6db2dcb5ac53e29d907c09ca2b16d123b21c07f
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "67854529"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820575"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Prepare-se para a migração do Partner Membership Center (PMC) para o Partner Center
 
@@ -29,7 +29,7 @@ No Partner Center, você usará seu email de trabalho para entrar em sua conta, 
 - Sua conta corporativa:john@contoso.com
 - Sua conta pessoal:John@outlook.com
 
-Seu email de trabalho faz parte do seu locatário do Azure Active Directory. Para ter uma conta no Partner Center, você precisa ter um locatário do AAD. Para obter mais informações sobre Azure Active Directory, leia [criar seu diretório no Azure ad](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
+Seu email de trabalho faz parte do seu locatário do Azure Active Directory. Para ter uma conta no Partner Center, você precisa ter um locatário do AAD. Para obter mais informações sobre Azure Active Directory, leia [criar seu diretório no Azure ad](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
 
 **Quando você passa para o Partner Center da PMC, qual conta você deve entrar no Partner Center com se você tiver um locatário do AAD com a Microsoft (para o Office 365, por exemplo) e também tiver um locatário para seu negócio CSP?**
 
@@ -66,7 +66,7 @@ O Partner Center tem diferentes tipos de funções, dependendo dos tipos de trab
 
 **O que acontece com as funções dos meus usuários quando elas se movem do PMC para o Partner Center?**
 
-Exceto para o administrador global do MPN ou o contato do programa principal que realiza a migração, todos os usuários no PMC perderão suas funções de administrador. O indivíduo que conclui a migração precisará atribuir funções no Partner Center. As funções no Partner Center diferem das do PMC. Leia [atribuir funções e permissões de usuários] (permissões-overview.md e [migrando do PMC para o Partner Center](https://docs.microsoft.com/en-us/partner-center/move-pmc-pc-map#user-roles) para obter mais informações sobre as funções de usuário no Partner Center.
+Exceto para o administrador global do MPN ou o contato do programa principal que realiza a migração, todos os usuários no PMC perderão suas funções de administrador. O indivíduo que conclui a migração precisará atribuir funções no Partner Center. As funções no Partner Center diferem das do PMC. Leia [atribuir funções e permissões de usuários] (permissões-overview.md e [migrando do PMC para o Partner Center](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles) para obter mais informações sobre as funções de usuário no Partner Center.
 
 
 **Qual é a diferença entre meu perfil de empresa e meu perfil comercial?**

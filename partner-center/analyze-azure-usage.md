@@ -1,24 +1,25 @@
 ---
 title: Analisar o uso do Azure | Partner Center
-ms.date: 07/12/2018
+ms.date: 08/02/2019
 Description: Use o Partner Center para obter dados sobre o uso de assinaturas do Azure de seus clientes.
-Author: Xansky
-ms.author: mhopkins
+author: LauraBrenner
+ms.author: labrenne
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
 ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9bd76a51664b18a8b3cea1e4163415480186fd86
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 0cdf48f959591f11994b0538532fadbcb4f11a89
+ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62131867"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "68781979"
 ---
-# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Obter dados sobre o uso de assinaturas do Azure de seus clientes 
+# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Obter dados sobre o uso de assinaturas do Azure de seus clientes
 
-**Aplica-se a**
+Aplica-se a:
+
 - Partner Center
 
 Os dados impulsionam as decisões de negócios. Use as métricas na página **Uso do Azure** para identificar seu êxitos e as áreas que precisam de mais atenção. Use essas informações ao planejar novas metas de negócios.
@@ -28,24 +29,33 @@ Os dados impulsionam as decisões de negócios. Use as métricas na página **Us
 
 Estamos monitorando as seguintes métricas:
 
-**Resumo**  
- - **Total de assinaturas do Azure é vendido**: Número de assinaturas vendidas no período de tempo especificado  
- - **Os clientes com o uso de**: Número de clientes com o uso do Azure no período de tempo especificado  
- - **Os clientes sem uso**: Número de clientes sem o uso do Azure no período de tempo especificado  
+## <a name="summary"></a>Resumo
 
-**5 principais clientes na categoria**  
- -  Os cinco principais clientes para a categoria especificada  
+- **Total de assinaturas do Azure vendidas**: Número de assinaturas vendidas no período de tempo especificado  
+- **Clientes com uso**: Número de clientes com uso do Azure no período de tempo especificado  
+- **Clientes sem uso**: Número de clientes sem uso do Azure no período de tempo especificado  
 
-**Assinaturas sem uso**  
- -  Lista de assinaturas específicas que não usaram o Azure no período de tempo especificado  
+## <a name="top-5-customers-in-category"></a>Cinco principais clientes na categoria
 
-**Variação de assinatura do Azure**  
- - **Assinaturas ativas**: Contagem de assinaturas ativas por data  
- - **Desprovisionada assinaturas**: Contagem de assinaturas desprovisionada ou suspenso por data  
+- Os cinco principais clientes para a categoria especificada  
 
-**Contagem de clientes**
- - Novos clientes adquiridos durante o período de tempo especificado  
+## <a name="azure-subscriptions-at-risk"></a>Assinaturas do Azure em risco
 
-**Retenção de assinatura do Azure**  
- - O número de assinaturas que foram renovadas.   
-  
+Esta seção indica o risco de rotatividade prevista para assinaturas do Azure. Essas informações podem ser usadas por parceiros para se envolver com clientes e minimizar a rotatividade
+
+## <a name="subscriptions-without-usage"></a>Assinaturas sem uso
+
+- Lista de assinaturas específicas sem uso do Azure no período de tempo especificado  
+
+## <a name="azure-subscription-churn"></a>Variação da assinatura do Azure
+
+- **Assinaturas ativas**: Contagem de assinaturas ativas por data  
+- **Assinaturas**desprovisionadas: Contagem de assinaturas desprovisionadas ou suspensas por data  
+
+## <a name="customer-count"></a>Contagem de clientes
+
+- Novos clientes adquiridos durante o período de tempo especificado  
+
+## <a name="azure-subscription-retention"></a>Retenção de assinatura do Azure
+
+- O número de assinaturas que foram renovadas.

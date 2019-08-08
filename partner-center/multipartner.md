@@ -7,12 +7,12 @@ ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b7843049ad4fd79dc4331262ed034ee05bd2281f
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2b54241dfc734edbfa9c708ab0b942f67b4767c1
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134286"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820616"
 ---
 # <a name="multi-partner-support"></a>Suporte multi-parceiro
 
@@ -21,9 +21,9 @@ ms.locfileid: "62134286"
 -  Partner Center
 -  Partner Center para Microsoft Cloud for US Government
 
-Recurso de múltiplos parceiro do Partner Center dá suporte a cenários, quando um cliente deseja trabalhar com mais de um parceiro. Por exemplo, um cliente pode querer contratar um parceiro por sua experiência em Office 365, mas contratar um parceiro diferente com especialização em Microsoft Azure.
+O recurso de vários parceiros do Partner Center dá suporte a cenários quando um cliente deseja trabalhar com mais de um parceiro. Por exemplo, um cliente pode querer contratar um parceiro por sua experiência em Office 365, mas contratar um parceiro diferente com especialização em Microsoft Azure.
 
-Para usar o recurso de múltiplos parceiro no Partner Center, convidar o cliente para lhe dar privilégios de administração delegados. Consulte [Solicitar uma relação com um cliente](request-a-relationship-with-a-customer.md) para obter informações sobre como estabelecer uma relação com um cliente que já está trabalhando com um parceiro.
+Para usar o recurso de vários parceiros no Partner Center, convide o cliente para fornecer privilégios de administração delegados. Consulte [Solicitar uma relação com um cliente](request-a-relationship-with-a-customer.md) para obter informações sobre como estabelecer uma relação com um cliente que já está trabalhando com um parceiro.
 
 A funcionalidade de vários parceiros não:
 
@@ -36,4 +36,4 @@ A funcionalidade de vários parceiros não:
 - Mudar o parceiro de registro para uma inscrição
 
 > [!IMPORTANT]  
-> Um parceiro no programa CSP não pode revender serviços on-line para o outro parceiro no programa CSP no momento. A Microsoft analisa continuamente as políticas e os recursos de todos os programas. Qualquer notícias sobre lançamentos de recursos ou alterações de política serão anunciadas por meio dos canais de comunicação comum, incluindo [anúncios do Partner Center](https://partner.microsoft.com/en-us/pcv/announcements).
+> Um parceiro no programa CSP não pode revender serviços online para outro parceiro no programa CSP atualmente. A Microsoft revisa continuamente as políticas e os recursos de todos os programas. Qualquer notícia sobre lançamentos de recursos ou alterações de política será anunciada por meio dos canais de comunicação usuais, incluindo comunicados do [Partner Center](https://partner.microsoft.com/pcv/announcements).

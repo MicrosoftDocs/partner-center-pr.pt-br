@@ -1,26 +1,26 @@
 ---
-title: Programas de garantia de software | Partner Center
+title: Programas do Software Assurance | Centro de parceiros
 ms.topic: article
-ms.date: 01/14/19
-description: Registrar-se no e gerenciar os programas de Software Assurance no Partner Center
+ms.date: 01/14/2019
+description: Inscrever-se e gerenciar programas do Software Assurance no Partner Center
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9a2f0fcb90ed13af3f885325f2211523df5c981e
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: ad6ac1d360e958ae75b3c14467928d77ec1b547d
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133846"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708851"
 ---
-# <a name="participate-in-software-assurance-programs"></a>Participar dos programas de Software Assurance
+# <a name="participate-in-software-assurance-programs"></a>Participar de programas de Software Assurance
 
-Participação nos programas de Software Assurance, incluindo o Software Assurance treinamento comprovantes (SATV) e serviços de planejamento, fornece uma oportunidade para expandir seu negócio com clientes corporativos da Microsoft. Como um parceiro de comprovantes de treinamento do Software Assurance, Microsoft compensarão para fornecer treinamento em sala de aula ministrado por instrutor, técnico desenvolvido por especialistas da Microsoft. Como um parceiro de serviços de planejamento, Microsoft compensarão para levar os compromissos de planejamento da implementação predefinida. Por meio de ambos os programas, você ganha a oportunidade de definir seu negócio em relação à concorrência, se tornar um consultor confiável e oferecer serviços de acompanhamento para o seu cliente. Registro em programas e gerenciamento de comprovantes relacionados do Software Assurance é feito por meio do Partner Center.
+A participação nos programas de Software Assurance, incluindo comprovantes de treinamento de Software Assurance (SATV) e serviços de planejamento, oferece a você uma oportunidade de aumentar seus negócios com os clientes corporativos da Microsoft. Como parceiro de comprovantes de treinamento do Software Assurance, a Microsoft compensará você a fornecer treinamento de sala de aula técnico ministrado por instrutor desenvolvido por especialistas da Microsoft. Como parceiro de serviços de planejamento, a Microsoft compensará você a liderar compromissos predefinidos de planejamento de implementação. Por meio de ambos os programas, você tem a oportunidade de definir seus negócios fora da competição, se tornar um conselheiro confiável e oferecer serviços de acompanhamento ao seu cliente. O registro nos programas e no gerenciamento de comprovantes do Software Assurance relacionados é feito por meio do Partner Center.
 
-|**Para saber mais sobre**   |**Leia isto**   |
+|**Para saber mais sobre**   |**Leia este**   |
 |--------------------------|:------------------|
-|Registrar no programa Software Assurance treinamento comprovantes (SATV)|[Programa de comprovantes de treinamento de garantia (SATV) de software no Partner Center](software-assurance-satv.md)|
+|Registro no programa SATV (comprovantes de treinamento do Software Assurance)|[Programa de SATV (comprovantes de treinamento do Software Assurance) no Partner Center](software-assurance-satv.md)|
 |usando a ferramenta Voucher Validation and Redemption|[Usar a ferramenta de Validação e Resgate de Comprovante no Partner Center para validar, reservar e resgatar comprovantes](voucher-validation-tool.md)|
-|Registrar no planejamento dos serviços de Software Assurance|[Serviços de planejamento do Software Assurance no Partner Center](software-assurance-dps.md) 
+|Registrando-se nos serviços de planejamento do Software Assurance|[Serviços de planejamento do Software Assurance no Partner Center](software-assurance-dps.md) 
 
 

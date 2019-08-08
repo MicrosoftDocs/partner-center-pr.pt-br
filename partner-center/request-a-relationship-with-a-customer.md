@@ -7,12 +7,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7777b281948f560666be154e4618b788782a474f
-ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
+ms.openlocfilehash: 099f38fa6acf523f7627434c7b320c37b46e63e1
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "68376431"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820495"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Conectar com clientes no Partner Center
 
@@ -24,7 +24,7 @@ Se você quiser gerenciar o serviço ou a assinatura de um cliente em seu nome, 
 
 Se você quiser estabelecer uma relação de revendedor com um cliente e gerenciar somente as assinaturas do Azure que você provisiona, não será necessário obter permissões de administrador.
 
-Observe que a opção de não solicitar permissões não está disponível para parceiros que operam em Microsoft Cloud para o governo dos EUA ou Microsoft Cloud Alemanha. Para saber mais, confira [clientes delegar privilégios de administração para parceiros](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges).
+Observe que a opção de não solicitar permissões não está disponível para parceiros que operam em Microsoft Cloud para o governo dos EUA ou Microsoft Cloud Alemanha. Para saber mais, confira [clientes delegar privilégios de administração para parceiros](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges).
 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Convide um cliente para estabelecer uma relação de revendedor com você

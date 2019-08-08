@@ -1,28 +1,28 @@
 ---
-title: Notificação do Partner Center para a atividade de mineração crypto | Partner Center
+title: Notificação do Partner Center para atividade de mineração de criptografia | Centro de parceiros
 ms.topic: article
 ms.date: 03/15/2019
 description: Notificação sobre o andamento de potencial criptomineração.
 author: LauraBrenner
-ms.author: v-petand
-Keywords: mineração de criptomoeda crypto-mining, segurança
+ms.author: labrenne
+Keywords: criptografia-mineração, mineração de criptomoeda, segurança
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b2a9a93d71b6464c0e3b2932b9da366e1bbbb845
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: febce4039e1634fb5e82d083f83e2c11ef47040f
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135041"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708844"
 ---
-# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notificação do Partner Center para a atividade de mineração de criptomoeda
+# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notificação do Partner Center para atividade de mineração de criptomoeda
 
 **Aplica-se a**
 
 -  Partner Center
 -  Parceiros CSP
 
-Você deve ter recebido a notificação sobre mineração de criptomoeda Partner Center a seguir:
+Você pode ter recebido a seguinte notificação do Partner Center sobre a mineração de criptomoeda:
  
 ![Imagem de notificação de segurança no Partner Center](images/crypto1.png)
 
@@ -37,7 +37,7 @@ A finalidade dessa notificação é informá-lo de que detectamos mineração de
 Se a atividade for esperada, retorne à página de detalhes da assinatura do Azure do cliente e confirme se a mineração de criptomoedas é legítima. 
 
 
-![Imagem da página de detalhes de assinatura do Azure do cliente](images/crypto2.png)
+![Imagem da página de detalhes da assinatura do Azure do cliente](images/crypto2.png)
 
 Se a atividade for inesperada, considere o seguinte:
 
@@ -51,7 +51,7 @@ A detecção de atividades de mineração de criptomoedas se baseia em heurísti
 
 Se tiver dúvidas ou preocupações sobre a notificação, você pode usar o procedimento a seguir para abrir uma solicitação de suporte.
 
-1.  No Centro de parceiro, selecione **suporte** e, em seguida, selecione **solicita do Partner Center**.
+1.  No Partner Center, selecione **suporte** e, em seguida, selecione **solicitações do Partner Center**.
 3.  Selecione **Nova solicitação**. 
 4.  No menu suspenso **Tipo de problema**, selecione **Adding or managing customers**.
 5.  No menu suspenso **Impacto**, selecione **Moderado**.

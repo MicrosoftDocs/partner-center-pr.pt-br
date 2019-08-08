@@ -2,18 +2,18 @@
 title: Cobrança para reservas do Azure | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
-Description: Informações sobre a cobrança do Azure reservas.
+Description: Informações sobre cobrança para reservas do Azure.
 author: LauraBrenner
-ms.author: v-petand
+ms.author: labrenne
 keywords: Azure RI, instâncias reservadas do azure, reservas, vm, gerenciar, cobrança, compra
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b99cb2a72d69cd33f9267a956f921aa65dedd482
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: a3edec135f6636429551f21a1125e68ed5a9cfa3
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135416"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708706"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Cobrança de Instâncias de VM Reservadas do Microsoft Azure
 
@@ -30,7 +30,7 @@ Seus clientes pagam antecipadamente por Instâncias de VM Reservadas do Azure. Q
 >[!IMPORTANT]
 >Se você comprar Instâncias de VM Reservadas do Azure para um cliente em um mercado com uma moeda diferente da sua, a moeda de cobrança padrão se baseará no mercado do cliente, não em sua localização. Se você tiver clientes em vários mercados, receberá faturas separadas e arquivos de reconciliação para cada moeda em que os clientes precisam ser cobrados, permitindo que você envie faturas para seus clientes na moeda apropriada. 
 
-Para acessar arquivos de reconciliação e notas fiscais de encargo único, selecione **cobrança** no Partner Center e selecione **uma vez**. 
+Para acessar faturas de cobrança única e arquivos de reconciliação, selecione **cobrança** no Partner Center e selecione **uma vez**. 
 
 Para obter informações mais gerais sobre a cobrança no programa Provedor de Soluções na Nuvem, consulte [Noções básicas de cobrança](billing-basics.md).
 
@@ -54,11 +54,11 @@ Para obter informações mais gerais sobre a cobrança no programa Provedor de S
 |Data do pagamento |Seu pagamento deve ser recebido até essa data. |
 
 
-**Lista detalhada dos encargos de uso únicos**
+**Lista discriminada de encargos de uso único**
 
 |**Campo** |**Definição**|
 |:----------------|:-----------------------------|
-|Data |Data da compra. |
+|Date |Data da compra. |
 |Descrição |Nome do produto. |
 |Quantidade |O número de produtos (reservas, por exemplo) comprados. |
 |Preço unitário |Preço por produto (reserva, por exemplo). |
@@ -101,12 +101,12 @@ Para obter informações mais gerais sobre a cobrança no programa Provedor de S
 
 ### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>Exibir o status de cobrança, as faturas e os arquivos de reconhecimento atuais
 
-1.  No Centro de parceiro, selecione **cobrança** e, em seguida **uma vez** para exibir seu status de cobrança. 
+1.  No Partner Center, selecione **cobrança** e, em seguida, **uma vez** para exibir o status de cobrança. 
 2.  Selecione uma fatura ou um arquivo de reconhecimento para exibir informações mais detalhadas. 
 
 ### <a name="view-a-customers-order-history"></a>Exibir o histórico de pedidos de um cliente
 
-1.  Selecione **clientes** no menu do Partner Center.
+1.  Selecione **clientes** no menu do centro de parceiros.
 2.  Na sua página **Clientes**, localize o cliente cujo histórico de pedidos você deseja exibir e, em seguida, selecione a seta para baixo para expandir o registro do cliente. 
 3.  Selecione **Exibir pedidos** para exibir o histórico de pedidos.
 
@@ -117,10 +117,10 @@ Em algum momento, talvez seja necessário anular uma fatura e então emitir uma 
 Para cancelar uma fatura e emitir uma nova, baixe o formulário da página de cobrança, sob ajustes.
 
 ## <a name="azure-reservations-resources"></a>Recursos de reservas do Azure
-|**Para obter informações sobre**   |**Leia isto**    |
+|**Para obter informações sobre**   |**Leia este**    |
 |:-----------------------------|:-----------------|
-|Reservas do Azure na visão geral do CSP  | [Vende instâncias VM reservadas do Azure da Microsoft](azure-reservations.md)
-|Comprar reservas do Azure para seus clientes no Partner Center   |[Comprar reservas do Azure](azure-reservations-buying.md)
+|Reservas do Azure na visão geral do CSP  | [Vender Microsoft Azure instâncias de VM reservadas](azure-reservations.md)
+|Comprando reservas do Azure para seus clientes no Partner Center   |[Comprar reservas do Azure](azure-reservations-buying.md)
 | Gerenciando reservas do Azure no Partner Center | [Gerenciando reservas do Azure no Partner Center](azure-reservations-manage.md)
 |Como comprar reservas do Azure no portal do Azure | [Pagar antecipadamente por máquinas virtuais com Instâncias de VM Reservadas do Azure](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) na Ajuda do Azure |
 |Como gerenciar reservas do Azure no portal do Azure   |[Gerenciar instâncias de VM reservadas](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) na Ajuda do Azure  |

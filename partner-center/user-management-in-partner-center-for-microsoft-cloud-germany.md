@@ -6,12 +6,12 @@ description: Não há recursos de gerenciamento de usuários disponíveis no Par
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: edd1bf143b591d375b2d911459629110799a1426
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 884146657aa84fa1d5f28801d5ad2a4d83c1359a
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132686"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820537"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gerenciamento de usuários e licenças no Partner Center do Microsoft Cloud Germany
 
@@ -40,7 +40,7 @@ Se estiver conectado ao Partner Center do Microsoft Cloud Germany, você poderá
 Depois de entrar com êxito no portal do Azure do Microsoft Cloud Germany, abra sua página de visão geral do Azure Active Directory (Azure AD) e siga as instruções destes tópicos:
 
 > [!NOTE]  
-> Selecionar os links abaixo, você será levado para um site diferente. 
+> Selecionar os links abaixo irá levá-lo para um site diferente. 
 
 -  [Adicionar novos usuários ao Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
@@ -50,7 +50,7 @@ Depois de entrar com êxito no portal do Azure do Microsoft Cloud Germany, abra 
 
 **Tópicos relacionados**
 
--  [Microsoft Azure Alemanha](https://azure.microsoft.com/en-us/global-infrastructure/germany/)
+-  [Microsoft Azure Alemanha](https://azure.microsoft.com/global-infrastructure/germany/)
 
 -  [Partner Center for Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md) (Partner Center do Microsoft Cloud Alemanha)
 

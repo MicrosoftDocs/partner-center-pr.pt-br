@@ -1,20 +1,20 @@
 ---
 title: Analisar o desempenho de revendedores indiretos | Partner Center
-ms.date: 07/12/2018
-Description: Obter dados sobre o desempenho de seus revendedores indiretos para identificar os sucessos, bem como áreas que talvez precisem de mais atenção.
-Author: Xansky
-ms.author: mhopkins
+ms.date: 08/02/2019
+Description: Obtenha dados sobre o desempenho de seus revendedores indiretos para identificar sucessos, bem como áreas que podem precisar de mais atenção.
+author: LauraBrenner
+ms.author: labrenne
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
 ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c86640d0334063b8daaffd3c447597a57b9662dd
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: c46a155b99087f6d6019db4ed81247c269883ae2
+ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134896"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "68781987"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>Analisar o desempenho de revendedores indiretos 
 
@@ -29,10 +29,10 @@ Os dados impulsionam as decisões de negócios. Use as métricas na página **An
 Estamos monitorando as seguintes métricas:
 
 **Resumo**  
- - **Total de revendedores**: Contagem dos revendedores ativos no último dia da assinatura  
- - **Novo revendedores**: Contagem dos revendedores indiretos novo para o período de tempo especificado  
- - **Revendedores Active**: Contagem de revendedores indiretos onde o MPNID é pelo menos 1 assinatura, e o status da assinatura não for desprovisionado  
- - **Transacionar revendedores**: Contagem dos revendedores indiretos com uma assinatura é vendido em período de tempo especificado  
+ - **Total**de revendedores: Contagem de revendedores ativos no último dia da assinatura  
+ - **Novos**revendedores: Contagem de novos revendedores indiretos para o período de tempo especificado  
+ - **Revendedores ativos**: Contagem de revendedores indiretos em que o MPNID é pelo menos 1 assinatura e onde o status da assinatura não é desprovisionado  
+ - **Transagindo**revendedores: Contagem de revendedores indiretos com uma assinatura vendida no período de tempo especificado  
 
 **Revendedores por mercado**  
  - Total de revendedores por localização geográfica  
@@ -41,22 +41,22 @@ Estamos monitorando as seguintes métricas:
  - Uma lista de revendedores, classificados pela quantidade de assinaturas vendidas por eles  
 
 **Principais produtos por contagem de assinaturas**  
- - **Dynamics 365**: Produtos do Dynamics 365 classificados por assinaturas vendidos  
- - **EMS**: Número de assinaturas de serviços de gerenciamento corporativo vendidos  
- - **Microsoft 365**: Número de assinaturas do Microsoft 365 vendidos  
- - **Office 365**: Produtos do Office 365 classificados por assinaturas vendidos  
+ - **Dynamics 365**: Produtos Dynamics 365 classificados por assinaturas vendidas  
+ - **EMS**: Número de assinaturas de serviços de gerenciamento corporativos vendidas  
+ - **Microsoft 365**: Número de assinaturas de Microsoft 365 vendidas  
+ - **Office 365**: Produtos do Office 365 classificados por assinaturas vendidas  
 
 **Novas assinaturas**  
  - O número de novas assinaturas adicionadas por data  
 
 **Variação de assinatura**  
  - **Novas assinaturas**: Contagem de novas assinaturas adicionadas por data  
- - **Desprovisionada assinaturas**: Contagem de assinaturas desprovisionada ou suspenso por data  
+ - **Assinaturas**desprovisionadas: Contagem de assinaturas desprovisionadas ou suspensas por data  
 
-**Novos detalhes do revendedor**  
- - **Nome do revendedor**: Nomes dos revendedores indiretos  
- - **Local**: Mercados onde os revendedores indiretos operam  
- - **Assinaturas**: Número de assinaturas que o revendedor vendeu.  
+**Detalhes do novo revendedor**  
+ - **Nome**do revendedor: Nomes de revendedores indiretos  
+ - **Local**: Mercados em que os revendedores indiretos operam  
+ - **Assinaturas**: Número de assinaturas vendidas pelo revendedor  
  - **Licenças**: Número total de licenças que o revendedor vendeu em todas as assinaturas  
   
   

@@ -6,12 +6,12 @@ description: Trabalhe com outros parceiros no CSP para atender às necessidades 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5c8fbd890ff6fe048ab2f9d7ca49bfd27946540f
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 772544e474a15e11f64a315c3e6e5b04ec58d52c
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132956"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820545"
 ---
 # <a name="work-with-other-partners"></a>Trabalhar com outros parceiros
 
@@ -52,4 +52,4 @@ O recurso de multi-canal do Partner Center oferece suporte a cenários quando um
 O suporte multi-canal também está disponível nas ofertas de nuvem nacionais da Microsoft.
 
 > [!IMPORTANT]  
-> Um parceiro no programa CSP não pode revender serviços on-line para o outro parceiro no programa CSP no momento. A Microsoft analisa continuamente as políticas e os recursos de todos os programas. Qualquer notícias sobre lançamentos de recursos ou alterações de política serão anunciadas por meio dos canais de comunicação comum, incluindo [anúncios do Partner Center](https://partner.microsoft.com/en-us/pcv/announcements).
+> Um parceiro no programa CSP não pode revender serviços online para outro parceiro no programa CSP atualmente. A Microsoft revisa continuamente as políticas e os recursos de todos os programas. Qualquer notícia sobre lançamentos de recursos ou alterações de política será anunciada por meio dos canais de comunicação usuais, incluindo comunicados do [Partner Center](https://partner.microsoft.com/pcv/announcements).
