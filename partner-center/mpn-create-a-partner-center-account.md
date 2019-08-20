@@ -1,17 +1,17 @@
 ---
 title: Criar uma conta do Partner Center | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 08/12/2019
 description: Os membros do Microsoft Partner Network precisam criar contas do Partner Center para gerenciar seus benefícios e competências de rede e criar um perfil de negócios.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: bf6fbc44d7f35590ea39e554e15be6a1963b4766
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.openlocfilehash: 5144f6e303a4afeccc6ccf74e966d8beba41f947
+ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134346"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "68958748"
 ---
 # <a name="create-a-partner-center-account"></a>Criar uma conta do Partner Center
 
@@ -23,13 +23,13 @@ ms.locfileid: "62134346"
 
 Este artigo explica como criar uma conta do Partner Center e destina-se a parceiros que estejam migrando as informações de associação de rede de parceiro do Partner Membership Center para o Partner Center. 
 
-Antes de criar uma conta no Partner Center, sua empresa deve ser membro do Microsoft Partner Network. Se não for um membro da rede, você pode [se inscrever agora](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx).  [Saiba mais](https://partner.microsoft.com/membership) sobre parceria no Microsoft Partner Network.  
+Antes de criar uma conta no Partner Center, sua empresa deve ser membro do Microsoft Partner Network. Se não for um membro da rede, você pode [se inscrever agora](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx).  [Saiba mais](https://partner.microsoft.com/membership) sobre parceria no Microsoft Partner Network. Depois de criar uma conta do Partner Center, Assista a este vídeo rápido para[Descobrir seu painel](https://vimeo.com/290338211).
 
-Depois de criar uma conta do Partner Center, você poderá:
+### <a name="some-next-steps"></a>Algumas próximas etapas
 
 -   [Comprar ou renovar uma assinatura do Microsoft Action Pack](mpn-get-action-pack.md)
 
--   [Criar um perfil comercial para obter as oportunidades de vendas da Microsoft](create-a-marketing-profile.md)
+-   [Criar um perfil de negócios para obter oportunidades de vendas da Microsoft](create-a-marketing-profile.md)
 
 -   [Obter e gerenciar as oportunidades de vendas da Microsoft](responding-to-referrals.md)
 
@@ -70,18 +70,18 @@ Iremos verificar essas informações durante o processo de criação de conta.
 
 5.  Verifique se você foi adicionado ao grupo de agente administrador. Para concluir a configuração de sua conta, incluindo a adição de outros usuários, você deve ter permissões de agente administrador. Siga estas etapas para exibir ou atualizar suas permissões:
 
-    a. No seu **Partner Center**, selecione o **configurações** ícone e, em seguida, selecione **gerenciamento de usuário**.  
+    a. Em seu **Partner Center**, selecione o ícone **Configurações** e então selecione **Gerenciamento de usuários**.  
 
     b. Selecione seu nome na lista de usuários e então selecione **Agente administrativo** se ainda não estiver selecionado. Selecione **Atualizar**.  
 
 ## <a name="next-steps"></a>Próximas etapas
 
--   [Adicionar usuários de conta e atribuir permissões a eles](create-user-accounts-and-set-permissions.md)
+-   [Adicionar usuários à conta e atribuir permissões a eles](create-user-accounts-and-set-permissions.md)
 
--   [Comprar ou renovar uma assinatura do Microsoft Action Pack](mpn-get-action-pack.md)
+-   [Adquirir ou renovar uma assinatura do Microsoft Action Pack](mpn-get-action-pack.md)
 
--   [Gerenciar seus benefícios de associação](manage-your-partner-network-benefits.md)
+-   [Gerencie os benefícios da sua participação](manage-your-partner-network-benefits.md)
 
--   [Saiba mais sobre os requisitos de competência Gold e Silver associação](https://partner.microsoft.com/membership/competencies)
+-   [Saiba mais sobre os requisitos de competência para a parceria Gold e Silver](https://partner.microsoft.com/membership/competencies)
 
--   [Criar um perfil comercial para obter as oportunidades de vendas da Microsoft](create-a-marketing-profile.md)
+-   [Criar um perfil de negócios para obter oportunidades de vendas da Microsoft](create-a-marketing-profile.md)
