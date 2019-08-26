@@ -4,6 +4,8 @@
 ## [Criar uma conta do Partner Center](mpn-create-a-partner-center-account.md)
 ## [Como obter um email de trabalho](buy-email-domain.md)
 ## [O Centro de Administração do Parceiro está migrando para o Partner Center](pac-to-pc-overview.md)
+### [Migrando do PAC (Centro de Administração do Parceiro) para o Partner Center](moving-from-pac-to-pc.md)
+## [Parceiros do centro de administração do parceiro do Office 365: suas operações de negócios estão migrando para o Partner Center](o365-partner-admin-center-to-partner-center.md)
 ## Migrar do Partner Membership Center para o Partner Center
 ### [Preparar para migrar do Partner Membership Center para o Partner Center](prepare-pmc-pc-migration.md)
 ### [Guia para mudar do PMC para o Partner Center](guide-to-migration.md)
@@ -24,6 +26,7 @@
 ### [Serviços de planejamento do Software Assurance no Partner Center](software-assurance-dps.md)
 ## Faturas e impostos
 ### [Faturas e impostos no Microsoft Partner Network](mpn-view-print-maps-invoice.md)
+## [Test drive dos novos recursos](test-drive-new-features.md)
 
 
 # [Provedor de Soluções na Nuvem](csp-overview.md)
@@ -77,6 +80,7 @@
 ### [Requisitos básicos de solicitações de incentivos](core-requirements.md)
 ### [Entender seus pagamentos de incentivo](understand-incentive-payouts.md)
 ### [Enviar solicitações de OSA no Partner Center](submit-osa-claim.md)
+### [Como localizar o nome de domínio e a ID de diretório do cliente para uma solicitação de incentivos](find-customer-domain-name.md)
 
 
 # [Cobrança e impostos](billing.md)
@@ -100,6 +104,7 @@
 ## [Remover um relacionamento de revendedor com um cliente](remove-a-relationship.md)
 ## [Os clientes delegam ou revogam privilégios administrativos de parceiros](customers_revoke_admin_privileges.md) 
 ## [Consultar a lista de clientes](see-your-customer-list.md)
+## [Exibir logs de atividades do cliente](activity-logs.md)
 ## [Atualizar informações da conta de cliente](update-customer-account-info.md)
 ## [Crie vários usuários para um cliente](adding-multiple-users-to-a-customer-account.md)
 ## [Atribuir contatos de suporte](assign-support-contacts.md)
