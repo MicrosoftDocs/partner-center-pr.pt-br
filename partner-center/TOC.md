@@ -72,6 +72,7 @@
 ## [Indicações](referrals.md)
 ### [Criar um perfil de negócios](create-a-marketing-profile.md)
 ### [Responda a indicações](responding-to-referrals.md)
+### [Registrar suas ofertas](register-deals.md)
 ### [Venda conjunta com a Microsoft](co-sell-with-microsoft.md)
 ### [Obtenha insights de referência](referral-insights.md)
 ### [Analise seu perfil de negócios](analyze-your-marketing-profile.md)
@@ -96,7 +97,6 @@
 ## [Definir um orçamento de gastos do Azure para seus clientes](set-an-azure-spending-budget-for-your-customers.md)
 ## [Cenários comuns de cobrança](common-billing-scenarios.md)
 ## [Falta de pagamento, fraude ou uso indevido](non-payment--fraud--or-misuse.md)
-## [Serviços PSTN](o365-e5-in-csp-advisory.md)
 
 # [Conectar-se com clientes](customer-accounts.md)
 ## [Adicione um novo cliente](add-a-new-customer.md)
