@@ -1,8 +1,8 @@
 ---
-title: Indicadores de contribuição do parceiro | Centro de parceiros
+title: Indicadores de contribuição de parceiros | Partner Center
 ms.topic: article
 ms.date: 07/17/2019
-description: Dados que mostram como sua empresa está fazendo com o engajamento do cliente do Dynamics 365 ou Finanças e operações do Dynamics 365
+description: Dados que mostram como a empresa está se saindo com o Dynamics 365 Customer Engagement ou o Dynamics 365 for Finance and Operations
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, desempenho, sucesso do cliente, medições, Dynamics 365
 author: MaggiePucciEvans
@@ -10,65 +10,65 @@ ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 8a54db5e03c2cc683c913781427bc3d4ebac1af8
-ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
-ms.translationtype: MT
+ms.sourcegitcommit: 435634c55c3d20a42083c0a58d96c7f6b8ec0a6d
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/18/2019
+ms.lasthandoff: 08/28/2019
 ms.locfileid: "68313959"
 ---
-## <a name="partner-contribution-indicators"></a>Indicadores de contribuição do parceiro
+## <a name="partner-contribution-indicators"></a>Indicadores de contribuição de parceiros
 
-Os indicadores de contribuição do parceiro (PCI) são um conjunto de medidas holísticas de desempenho, capacidade e sucesso do cliente com o Dynamics 365.
+Os PCIs (indicadores de contribuição do parceiro) são um conjunto de medidas holísticas de desempenho, capacidade e sucesso do cliente com o Dynamics 365.
 
-## <a name="scoring"></a>Classificação
+## <a name="scoring"></a>Pontuação
 
-O PCI usa uma escala de 100 pontos para fornecer uma indicação de 12 meses à direita do seu sucesso com o compromisso com o cliente do Dynamics 365 ou as operações e finanças do Dynamics 365. Abaixo estão os pontos máximos que você pode ganhar para cada uma das sete medidas em PCI.
+O PCI usa uma escala de 100 pontos para fornecer uma indicação do seu sucesso nos últimos 12 meses com o compromisso com o Dynamics 365 Customer Engagement ou o Dynamics 365 for Finance and Operations. Abaixo estão os pontos máximos que você pode ganhar para cada uma das sete medidas no PCI.
 
-![Classificação](images/pci1.png)
+![Pontuação](images/pci1.png)
 
 ### <a name="thresholds"></a>Limites
 
-Cada métrica de PCI tem limites definidos pela Microsoft que podem ganhar os pontos máximos da sua empresa. Esses limites diferem no envolvimento do cliente e nas operações de & de finanças. Os limites também são diferentes para os parceiros que operam em mercados desenvolvidos versus aqueles que operam exclusivamente em mercados emergentes. Se um parceiro tiver um ou mais clientes em um mercado desenvolvido, os limites de mercado desenvolvidos serão aplicados. Para que os limites de mercado emergentes sejam aplicados, o parceiro deve ter todos os seus clientes com base em mercados emergentes. (A categorização de mercado desenvolvida ou emergente de um país baseia-se nas definições de Microsoft Partner Network aqui.)
+Cada métrica de PCI tem limites definidos pela Microsoft que podem fazer com que sua empresa ganhe o máximo possível de pontos. Esses limites diferem no Customer Engagement e no Finance and Operations. Os limites também são diferentes entre os parceiros que operam em mercados desenvolvidos e aqueles que operam exclusivamente em mercados emergentes. Se um parceiro tiver um ou mais clientes em um mercado desenvolvido, os limites de mercados desenvolvidos serão aplicados. Para que os limites de mercados emergentes sejam aplicados, o parceiro deverá ter todos os clientes dele localizados em mercados emergentes. (A categorização de um país como mercado desenvolvido ou emergente baseia-se nas definições da Microsoft Partner Network contidas aqui.)
 
-Os parceiros podem obter o máximo de pontos para uma determinada métrica se atenderem ou excederem os limites indicados abaixo. Os pontos parciais podem ser obtidos para todas as métricas, exceto para o crescimento funcional do consultor, por exemplo, um parceiro de mercado desenvolvido com $150000 em nova receita líquida ganhará metade ($ 150000/$ 300000) do máximo de 10 pontos.
+Os parceiros podem obter o máximo de pontos para uma determinada métrica se atingirem ou excederem os limites indicados abaixo. É possível obter pontos parciais para todas as métricas, exceto para o crescimento funcional do consultor, por exemplo, um parceiro de mercado desenvolvido com nova receita líquida de US$ 150.000 ganhará metade (US$ 150.000/US$ 300.000) do máximo de 10 pontos.
 
-### <a name="customer-engagement-thresholds"></a>Limites do engajamento do cliente
+### <a name="customer-engagement-thresholds"></a>Limites do Customer Engagement
 
 ![limites do Engagement](images/pci3.png)
 
-### <a name="finance-and-operations-thresholds"></a>Limites de finanças e operações
+### <a name="finance-and-operations-thresholds"></a>Limites do Finance and Operations
 
-![Finanças e operações](images/pci4.png)
+![Finance and Operations](images/pci4.png)
 
-### <a name="developed-and-emerging-markets-functional-consultant-growth"></a>Crescimento de consultor funcional de mercados emergentes e desenvolvidas 
+### <a name="developed-and-emerging-markets-functional-consultant-growth"></a>Crescimento de consultor funcional de mercados emergentes e desenvolvidos 
 
-![](images/pci6.png)
-Mercados![desenvolvidas e emergentes desenvolvidos e mercados emergentes](images/pci7.png)
+![Mercados emergentes e desenvolvidos](images/pci6.png)
+![Mercados emergentes e desenvolvidos](images/pci7.png)
 
 ## <a name="detailed-definitions-for-each-of-the-pci-metrics"></a>Definições detalhadas para cada uma das métricas de PCI
 
 
-|**Medidas**   |**Faixas**   |**Definição**   |**Período de avaliação**|
+|**Métrica**   |**Pontos**   |**Definição**   |**Período de avaliação**|
 |---------------|:--------------------------|:-------------------|:----------|
-|Nova receita líquida|10|Líquida nova receita cobrada em todos os canais de vendas de produtos especificados. Calculado como cobranças menos créditos e agregados em mais de 12 meses.
-||| - Os produtos de **envolvimento do cliente** incluem vendas, atendimento ao cliente, serviço de campo, automação do serviço de projeto, marketing, vendas de relações da Microsoft, talento e membro da equipe empresarial. -
-||| Os produtos **Finanças e operações** incluem Finanças e operações, varejo, talento e membro da equipe empresarial. os canais de vendas incluem o EA (Enterprise Agreement), o CSP (provedor de soluções de nuvem) e o Web Direct. Enterprise Agreement receita inclui apenas a receita do primeiro ano do contrato. A receita recorrente do segundo e do terceiro ano não está incluída.|12 meses à direita|
-|Adições de clientes net|10|Clientes de rede adicionados em todos os canais de vendas. Calculado mensalmente como clientes adicionaram menos clientes perdidos e agregados em mais de 12 meses. Uma adição de cliente é quando um cliente não tem unidades iniciadas pagas em um mês anterior, mas sim no mês atual. Um cliente perdido é quando um cliente paga unidades iniciadas em um mês anterior, mas não no mês atual. Os canais de vendas incluem, por exemplo, EA (Enterprise Agreement), CSP (provedor de soluções de nuvem) e Web Direct. Quando um parceiro diferente estiver associado a um cliente em um caso de rotatividade e reaquisição, o parceiro mais atual receberá o crédito.|12 meses à direita|
-|Consultores funcionais|15 |Número de indivíduos que contêm uma certificação de consultor funcional atualmente ativa. **Envolvimento do cliente** A certificação de consultor funcional requer um indivíduo para passar MB200 e MB210 ou MB220 ou MB230 ou MB240 ou MB6-898. **Finanças e operações** A certificação de consultor funcional requer um indivíduo para passar MB300 e MB310 ou MB320 ou MB330 ou MB6897 ou MB6-898.|Instantâneo atual|
-|Crescimento funcional do consultor|15|Comparação entre o número de indivíduos que contêm uma certificação de consultor funcional ativo no momento versus o número de indivíduos que mantêm uma certificação de consultor funcional ativa em **31 de dezembro de 2019**. **Nenhum ponto parcial concedido**. O crescimento deve atender ou exceder os limites indicados na tabela 3 para os parceiros de mercado desenvolvidos e a tabela 4 para parceiros de mercado emergentes.|Instantâneo atual vs. 31 de dezembro de 2019|
-|Desenvolvedores|5|Para o **envolvimento do cliente**, esse é o número de pessoas que mantêm uma certificação ativa no momento para MB2-716. Para **Finanças e operações**, esse é o número de pessoas que mantêm uma certificação ativa no momento para MB6-894.|Instantâneo atual|
-|Novas implantações grandes|20|Para o **envolvimento do cliente**, se qualquer assinatura paga cruzar o limite de um usuário ativo mensal de 250 nos últimos 12 meses, o parceiro associado receberá o crédito de todas as instâncias de produção do envolvimento do cliente (organizações) sob esse locatário. Para **Finanças e operações**, se qualquer assinatura paga cruzar o limite de usuários ativos mensais de 100 nos últimos 12 meses, o parceiro associado receberá crédito por todas as instâncias de produção de finanças e operações (projetos de CS) nesse locatário. Os usuários ativos mensais são contados no nível da assinatura e somente as assinaturas pagas são consideradas. Os usuários ativos mensais são calculados ao final de cada mês. Uma assinatura é considerada como tendo ultrapassado o limite de usuários ativos mensais se ele estava abaixo do limite especificado há 13 meses atrás e ultrapassou o limite pelo menos uma vez nos 12 meses à direita. Quando um locatário tem várias assinaturas, cada uma associada a parceiros diferentes, todos os parceiros obtêm crédito para todas as instâncias de produção no locatário, na categoria de produto aplicável, desde que suas assinaturas pagas associadas cruzem o necessário Limite de usuários ativos mensais.|12 meses à direita|
-|Crescimento mensal ativo do usuário|25|Comparação entre a contagem atual de usuários ativos mensais versus a contagem de usuários ativos mensais há 13 meses. Os usuários ativos mensais são contados no nível da assinatura e somente as assinaturas pagas são consideradas. Os usuários ativos mensais são calculados ao final de cada mês. Para o **envolvimento do cliente**, um parceiro de mercado desenvolvido deve ter uma linha de base de pelo menos 250 usuários ativos mensais em produção e um parceiro de mercado emergente de pelo menos 150 usuários ativos mensais, em toda a sua base de clientes em 13 meses atrás para ser qualificado para qualquer faixas. Para **Finanças e operações**, um parceiro de mercado desenvolvido deve ter uma linha de base de pelo menos 100 usuários ativos mensais em produção e um parceiro de mercado emergente de pelo menos 50 usuários ativos mensais em toda a base de clientes 13 meses atrás para serem qualificados para qualquer faixas.|12 meses à direita|
+|Nova receita líquida|10|Nova receita líquida cobrada em todos os canais de vendas de produtos especificados. Calculada como cobranças menos créditos e agregada por 12 meses.
+||| Os produtos do - **Customer Engagement** incluem Vendas, Atendimento ao Cliente, Serviço de Campo, Automação do Serviço de Projeto, Marketing, Vendas de Relações da Microsoft, Talento e Integrante da Equipe da Empresa. -
+||| Os produtos do **Finance and Operations** incluem Finance and Operations, Varejo, Talento e Integrante da Equipe da Empresa. Os canais de vendas incluem, por exemplo, o EA (Contrato Enterprise), o CSP (Provedor de Soluções na Nuvem) e o Web Direct. A receita do Contrato Enterprise inclui apenas a receita do primeiro ano do contrato. A receita recorrente do segundo e do terceiro anos não está incluída.|Últimos 12 meses|
+|Ganhos líquidos de clientes|10|Ganhos líquidos de clientes em todos os canais de vendas. Calculado mensalmente como clientes ganhos menos clientes perdidos e agregado por 12 meses. Um ganho de cliente é quando um cliente não tem unidades iniciadas pagas em um mês anterior, mas sim no mês atual. Uma perda de cliente é quando um cliente tem unidades iniciadas pagas em um mês anterior, mas não no mês atual. Os canais de vendas incluem, por exemplo, EA (Contrato Enterprise), CSP (Provedor de Soluções na Nuvem) e Web Direct. Quando um parceiro diferente está associado a um cliente em um caso de rotatividade e reaquisição, o parceiro mais atual receberá o crédito.|Últimos 12 meses|
+|Consultores funcionais|15 |Número de indivíduos que contêm uma certificação de consultor funcional atualmente ativa. A certificação de consultor funcional do **Customer Engagement** requer que um indivíduo seja aprovado em MB200 E MB210 OU MB220 OU MB230 OU MB240 OU MB6-898. A certificação de consultor funcional do **Finance and Operations** requer que um indivíduo seja aprovado em MB300 E MB310 OU MB320 OU MB330 OU MB6897 OU MB6-898.|Instantâneo atual|
+|Crescimento de consultores funcionais|15|Comparação entre o número de indivíduos que mantêm uma certificação de consultor funcional ativo no momento versus o número de indivíduos com uma certificação de consultor funcional ativa em **31 de dezembro de 2019**. **Nenhum ponto parcial concedido**. O crescimento precisa atingir ou exceder os limites indicados na Tabela 3 para parceiros de mercados desenvolvidos e na Tabela 4 para parceiros de mercados emergentes.|Instantâneo atual vs. 31 de dezembro de 2019|
+|Desenvolvedores|5|Para o **Customer Engagement**, esse é o número de pessoas que mantêm uma certificação ativa no momento para MB2-716. Para o **Finance and Operations**, esse é o número de pessoas que mantêm uma certificação ativa no momento para MB6-894.|Instantâneo atual|
+|Novas implantações grandes|20|Para o **Customer Engagement**, se alguma assinatura paga exceder o limite de 250 usuários ativos mensais nos últimos 12 meses, o parceiro associado receberá o crédito de todas as instâncias de produção (organizações) do Customer Engagement sob esse locatário. Para o **Finance and Operations**, se alguma assinatura paga exceder o limite de 100 usuários ativos mensais nos últimos 12 meses, o parceiro associado receberá o crédito de todas as instâncias de produção (projetos de CS) do Finance and Operations sob esse locatário. Os usuários ativos mensais são contados no nível da assinatura e somente as assinaturas pagas são consideradas. Os usuários ativos mensais são calculados ao final de cada mês. Uma assinatura será considerada como tendo ultrapassado o limite de usuários ativos mensais se ele estiver abaixo do limite especificado há 13 meses atrás e ultrapassado o limite pelo menos uma vez nos últimos 12 meses. Quando um locatário tiver várias assinaturas, cada uma delas associada a parceiros diferentes, todos os parceiros receberão crédito para todas as instâncias de produção no locatário, na categoria de produto aplicável, desde que as assinaturas pagas associadas desses parceiros ultrapassem o limite necessário de usuários ativos mensais.|Últimos 12 meses|
+|Crescimento de usuários ativos mensais|25|Comparação entre a contagem atual de usuários ativos mensais versus a contagem de usuários ativos mensais há 13 meses. Os usuários ativos mensais são contados no nível da assinatura e somente as assinaturas pagas são consideradas. Os usuários ativos mensais são calculados ao final de cada mês. Para o **Customer Engagement**, um parceiro de mercado desenvolvido precisa ter uma linha de base de pelo menos 250 usuários ativos mensais em produção (número que para um parceiro de mercado emergente deve ser de pelo menos 150 usuários ativos mensais) em toda a sua base de clientes, 13 meses atrás, para ser elegível a algum ponto. Para o **Finance and Operations**, um parceiro de mercado desenvolvido deve ter uma linha de base de pelo menos 100 usuários ativos mensais em produção (número que para um parceiro de mercado emergente deve ser de pelo menos 50 usuários ativos mensais) em toda a sua base de clientes, 13 meses atrás, para ser elegível a algum ponto.|Últimos 12 meses|
 
-## <a name="customer-to-partner-association"></a>Associação de cliente para parceiro
+## <a name="customer-to-partner-association"></a>Associação de cliente a parceiro
 
-Você recebe crédito por novas receitas líquidas, adições de clientes da net, novas implantações grandes e crescimento mensal ativo do usuário para um determinado cliente, dentro dos limites da definição da métrica, somente se você for o CSP (provedor de soluções de nuvem), o CPOR (parceiro de registro) de reivindicação, ou parceiro digital de registro (DPOR (DPOR) para uma assinatura paga que pertence ao locatário do cliente.
+Você receberá crédito por novas receitas líquidas, ganhos líquidos de clientes, novas implantações grandes e crescimento de usuários ativos mensais para um determinado cliente, dentro dos limites da definição da métrica, somente se você for o CSP (Provedor de Soluções na Nuvem), o CPOR (parceiro de registro reclamante) ou DPOR (parceiro de registro digital) para uma assinatura paga que pertence ao locatário do cliente.
 
-Um parceiro se tornará o CPOR se tiver estabelecido a associação com um cliente no nível de assinatura por meio do incentivo do OSA (Supervisor de solução online) do Dynamics 365.
+Um parceiro se tornará o CPOR se tiver estabelecido uma associação com um cliente no nível de assinatura por meio do incentivo de OSA (Supervisor de Solução Online) do Dynamics 365.
 
-Um parceiro se tornará o DPOR se tiver estabelecido a associação com um cliente no nível de assinatura dentro do produto.
+Um parceiro se tornará o DPOR se tiver estabelecido uma associação com um cliente no nível de assinatura no produto.
 
-Quando CPOR e DPOR existem para uma determinada assinatura, o CPOR recebe todo o crédito das métricas de PCI associadas à assinatura.
+Quando o CPOR e o DPOR existem para uma determinada assinatura, o CPOR recebe todo o crédito pelas métricas de PCI associadas a ela.
 
 ## <a name="how-to-read-the-charts"></a>Como ler os gráficos
 
