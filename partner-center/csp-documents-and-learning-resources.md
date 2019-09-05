@@ -1,19 +1,19 @@
 ---
 title: Listas de preços, ofertas e contratos de CSP | Partner Center
 ms.topic: article
-ms.date: 03/27/2019
+ms.date: 08/29/2019
 description: Este artigo inclui links para guias do programa Provedor de Soluções na Nuvem, contratos de parceiro, contratos do cliente, listas de preços e ofertas.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: guias de programa csp, guia de programa, acordos de parceria, contrato do cliente, listas de preço, ofertas
 ms.localizationpriority: medium
-ms.openlocfilehash: bd6c0a4aa17c8163a2ffbade8ef337e9320e0389
-ms.sourcegitcommit: c14db60f552f6e8349170b6ca825dbd073965c03
+ms.openlocfilehash: 9c566b43a0624a90bad746852e971a316b085005
+ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "69993980"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "70259911"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Contratos, listas de preços, ofertas e guia de programa do Provedor de Soluções na Nuvem
 
@@ -33,24 +33,6 @@ Examine os requisitos para se tornar um parceiro no programa de Provedor de Solu
 
 >[!Note]
 >Se você precisar de uma carta de negócios confirmando ou certificando seu status como um parceiro da Microsoft aprovado no programa de Provedor de Soluções na Nuvem, [entre em contato com o suporte](https://partner.microsoft.com/pcv/servicerequests/create) para solicitar um.
-
-## <a name="cloud-solution-provider-partner-agreement"></a>Contrato de parceiro do Provedor de Soluções na Nuvem
-
-A Microsoft exige que os parceiros assinem este contrato para participar do programa de Provedor de Solução na Nuvem. Examine o guia para o mercado ou nuvem nacional em que você pretende vender.
-
-[Contrato de revendedor de soluções de Nuvem da Microsoft – América do Norte, América Central, América do Sul e Caribe](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g7eT)
-
-[Contrato de revendedor de soluções de Nuvem da Microsoft – Ásia, Austrália e Pacífico](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
-
-[Contrato de revendedor de soluções de Nuvem da Microsoft – Europa, Oriente Médio e África](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
-
-[Contrato de revendedor de soluções de Nuvem da Microsoft – Japão](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ9)
-
-[Contrato de revendedor de soluções de Nuvem da Microsoft – Coreia do Sul](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gf2k)
-
-[Contrato de revendedor de soluções de Nuvem da Microsoft – Taiwan](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ8)
-
-[Contrato de revendedor de soluções de Nuvem da Microsoft – Microsoft Cloud for US Government](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gcrx)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Contrato da Microsoft Cloud: modelos de cliente
 
