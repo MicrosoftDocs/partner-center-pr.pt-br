@@ -1,18 +1,18 @@
 ---
 title: Requisitos de segurança do parceiro | Partner Center
 ms.topic: article
-ms.date: 08/05/2019
+ms.date: 08/30/2019
 description: Saiba mais sobre os requisitos de segurança para consultores e parceiros que participam do programa de Provedor de Soluções na Nuvem.
 author: isaiahwilliams
 ms.author: iswillia
 keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor do painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
 ms.localizationpriority: medium
-ms.openlocfilehash: 40f5ac3e1481c0b630fc7e22e680409b1ca80926
-ms.sourcegitcommit: a5d5bd83e20649e9f02d2d82d682f87bb28a0265
+ms.openlocfilehash: c95ec38f928ca4032ffecebaf25f23e87d10c079
+ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "68912635"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "70215645"
 ---
 # <a name="partner-security-requirements"></a>Requisitos de segurança de parceiros
 
@@ -258,7 +258,7 @@ Os usuários com uma licença Azure AD Premium podem restaurar o acesso com a re
 Confirme se o usuário foi bloqueado pela política examinando os logs de entrada do usuário.
 
 1. Um administrador precisa entrar no **portal do Azure** e navegar até **Azure Active Directory** > **Usuários** > clicar no nome do usuário e navegar até as Credenciais.
-2. Para iniciar a redefinição de senha em um usuário bloqueado, um administrador precisa navegar até **** Azure Active Directory > **Usuários sinalizados para risco**
+2. Para iniciar a redefinição de senha em um usuário bloqueado, um administrador precisa navegar até **Azure Active Directory** > **Usuários sinalizados para risco**
 3. Clique no usuário, cuja conta está bloqueada, para exibir informações sobre a atividade de entrada recente do usuário.
 4. Clique em Redefinir Senha para atribuir uma senha temporária que deve ser alterada no próximo logon.
 5. Clique em Ignorar todos os eventos para redefinir a classificação de risco do usuário.
