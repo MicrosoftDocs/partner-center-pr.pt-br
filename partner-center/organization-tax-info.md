@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 8123141a2a283bc646613a0dbcf69f8903a101a8
 ms.sourcegitcommit: 1dfaa862741d9af918886f9f1133a0602546d145
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 06/19/2019
 ms.locfileid: "67262972"

@@ -9,7 +9,7 @@ keywords: Provedor de Soluções na Nuvem, programa provedor de soluções na nu
 ms.localizationpriority: medium
 ms.openlocfilehash: 88739f2a46efca2a60e3c9f841263554980bc329
 ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 08/06/2019
 ms.locfileid: "68820456"

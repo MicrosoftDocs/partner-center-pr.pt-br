@@ -8,7 +8,7 @@ ms.author: jenhayes
 ms.localizationpriority: medium
 ms.openlocfilehash: 8f53c002ea3d1fd1a670031a18c58d93bf259c21
 ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 07/12/2019
 ms.locfileid: "67854497"
