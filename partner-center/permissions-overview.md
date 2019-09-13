@@ -9,7 +9,7 @@ keywords: funções, permissões, administrador, agente
 ms.localizationpriority: medium
 ms.openlocfilehash: 744ce84c47d3adaf21d8f7b790001737d6489cdb
 ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 08/01/2019
 ms.locfileid: "68708865"

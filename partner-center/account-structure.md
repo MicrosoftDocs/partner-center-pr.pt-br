@@ -9,7 +9,7 @@ keywords: ''
 ms.localizationpriority: medium
 ms.openlocfilehash: ba3fad0a8b9dddf0162b3dfa3ae202a235f4eb24
 ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 06/13/2019
 ms.locfileid: "67131715"

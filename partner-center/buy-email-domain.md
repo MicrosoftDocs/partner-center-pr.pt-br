@@ -8,7 +8,7 @@ ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 17f9ccd948f6a4cbf8cd2068a31e720c790f986f
 ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 06/14/2019
 ms.locfileid: "67146067"

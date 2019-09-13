@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.openlocfilehash: 5e83b9720393356268f59d42b4210c427a3b3bc6
 ms.sourcegitcommit: 5e67a2540b0ff9eb248e5dc41b9d9ad1fc900b36
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 06/10/2019
 ms.locfileid: "66819940"

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: f668ea5ebdb97d2cf02febb94584b6cf707e3bca
 ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 06/13/2019
 ms.locfileid: "67131702"

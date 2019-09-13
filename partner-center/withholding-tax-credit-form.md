@@ -10,7 +10,7 @@ keywords: crédito de retenção de imposto, créditos de imposto, formulário d
 ms.localizationpriority: medium
 ms.openlocfilehash: ace9d1cca5db0a6aba83a0eb9856374b39d56b62
 ms.sourcegitcommit: f55f9389bc1feacb1a3acc1725ab5edabadf090a
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 06/18/2019
 ms.locfileid: "67207573"

@@ -9,7 +9,7 @@ ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 8fee297df2e768609cf9480370d56e59af5b249a
 ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 07/03/2019
 ms.locfileid: "67549502"
