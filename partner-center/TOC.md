@@ -31,6 +31,7 @@
 
 # [Provedor de Soluções na Nuvem](csp-overview.md)
 ## [Registrar no programa de Provedor de Soluções na Nuvem](enrolling-in-the-csp-program.md)
+## [Contrato de Parceiro da Microsoft para parceiros CSP](microsoft-partner-agreement.md)
 ## [Novos requisitos do parceiro direto do CSP](direct-partner-new-requirements.md)
 ## [Contratos do Microsoft Cloud por região e idioma](agreements.md)
 ## [Transição do parceiro de fatura direto do CSP (Provedor de Soluções na Nuvem) para o revendedor indireto do CSP](transition-direct-to-indirect.md)
