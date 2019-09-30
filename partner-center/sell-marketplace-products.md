@@ -62,7 +62,7 @@ Ao visitar o site do Editor usando este link, você verá quais informações ou
 
 ## <a name="access-billing-info-for-commercial-marketplace-products"></a>Acessar informações de cobrança para produtos do Marketplace comercial
 
-Para produtos do Marketplace comercial, o período de cobrança começa no primeiro dia do mês e termina no último dia do mês do calendário. Disponibilizaremos sua fatura no oitavo dia do mês seguinte. Você pode acessar essas notas fiscais no Partner Center ou usando as APIs do Partner Center.
+Para produtos do Marketplace comercial, o período de cobrança começa no primeiro dia do mês e termina no último dia do mês do calendário. Disponibilizaremos sua fatura no oitavo dia do mês seguinte. Você pode acessar essas faturas no Partner Center ou usando as APIs do Partner Center.
 
 Para obter mais informações, consulte [Entendendo os tipos de cobrança no Partner Center](https://docs.microsoft.com/partner-center/billing-different-types#billing-for-one-time-and-select-recurring-charges).
 
