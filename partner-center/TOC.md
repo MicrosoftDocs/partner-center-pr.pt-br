@@ -28,7 +28,6 @@
 ### [Faturas e impostos no Microsoft Partner Network](mpn-view-print-maps-invoice.md)
 ## [Test drive dos novos recursos](test-drive-new-features.md)
 
-
 # [Provedor de Soluções na Nuvem](csp-overview.md)
 ## [Registrar no programa de Provedor de Soluções na Nuvem](enrolling-in-the-csp-program.md)
 ## [Contrato de Parceiro da Microsoft para parceiros CSP](microsoft-partner-agreement.md)
@@ -39,7 +38,6 @@
 ## [Mercados e moedas regionais do CSP](regional-authorization-overview.md)
 ## [Confirmar a aceitação do cliente do Contrato do Microsoft Cloud](confirm-consent.md)
 ## [Confirmar a aceitação do cliente do Contrato de Cliente da Microsoft (versão prévia)](confirm-customer-agreement.md)
-
 
 ## [Inscrever-se para vender em nuvens nacionais](csp-national-clouds-overview.md)
 ### [Partner Center do Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
@@ -84,7 +82,6 @@
 ### [Entender seus pagamentos de incentivo](understand-incentive-payouts.md)
 ### [Enviar solicitações de OSA no Partner Center](submit-osa-claim.md)
 ### [Como localizar o nome de domínio e a ID de diretório do cliente para uma solicitação de incentivos](find-customer-domain-name.md)
-
 
 # [Cobrança e impostos](billing.md)
 ## [Perguntas frequentes sobre cobrança](faq-about-new-billing-features.md)
@@ -169,10 +166,10 @@
 ## [Autoatendimento ao cliente](customer-self-support.md)
 ## [Encalonar os problemas à Microsoft](escalate-problems-to-microsoft.md)
 
-# Segurança
-## [Requisitos de segurança de parceiros](partner-security-requirements.md)
-## [Perguntas frequentes sobre requisitos de segurança de parceiros](partner-security-requirements-faq.md)
-## [Status de conformidade de segurança de parceiros](partner-security-compliance.md)
+# Requisitos de segurança
+## [Visão geral](partner-security-requirements.md)
+## [Status de conformidade](partner-security-compliance.md)
+## [Perguntas frequentes](partner-security-requirements-faq.md)
 
 # Tutoriais
 ## [Implementando os requisitos de segurança de parceiros](tutorials/partner-security-requirements.yml)
