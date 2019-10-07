@@ -78,7 +78,7 @@
 ## [Solicitações de incentivos](claims-overview.md)
 ### [Criar e gerenciar as solicitações de incentivos](create-incentives-claims.md)
 ### [Requisitos básicos de solicitações de incentivos](core-requirements.md)
-### [Acessar sua página de pagamento de incentivos](incentives-unified-user-guide.md)
+### [Entender suas informações de pagamento](incentives-unified-user-guide.md)
 ### [Entender seus pagamentos de incentivo](understand-incentive-payouts.md)
 ### [Enviar solicitações de OSA no Partner Center](submit-osa-claim.md)
 ### [Como localizar o nome de domínio e a ID de diretório do cliente para uma solicitação de incentivos](find-customer-domain-name.md)
