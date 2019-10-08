@@ -78,10 +78,12 @@
 ## [Solicitações de incentivos](claims-overview.md)
 ### [Criar e gerenciar as solicitações de incentivos](create-incentives-claims.md)
 ### [Requisitos básicos de solicitações de incentivos](core-requirements.md)
+
+
 ### [Entender suas informações de pagamento](incentives-unified-user-guide.md)
-### [Entender seus pagamentos de incentivo](understand-incentive-payouts.md)
-### [Enviar solicitações de OSA no Partner Center](submit-osa-claim.md)
-### [Como localizar o nome de domínio e a ID de diretório do cliente para uma solicitação de incentivos](find-customer-domain-name.md)
+
+### [Acessar sua página de pagamento de incentivos](incentives-unified-user-guide.md)
+
 
 # [Cobrança e impostos](billing.md)
 ## [Perguntas frequentes sobre cobrança](faq-about-new-billing-features.md)
@@ -168,7 +170,7 @@
 
 # Requisitos de segurança
 ## [Visão geral](partner-security-requirements.md)
-## [Status de conformidade](partner-security-compliance.md)
+## [Status de requisitos](partner-security-compliance.md)
 ## [Perguntas frequentes](partner-security-requirements-faq.md)
 
 # Tutoriais
