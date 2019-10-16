@@ -7,14 +7,14 @@ ms.prod: ''
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: revendedores indiretos, revendedores, provedores indiretos, provedores, parceria, VAR, camada2, camada 2
-ms.localizationpriority: medium
+ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 5f424bc779bf86bfc278f969d4bbf0ea72729182
-ms.sourcegitcommit: 4276856f46d8d53c4878ba9d176c10e9607366b8
+ms.openlocfilehash: f412b94fd700fe429a7128a6226874fe47fe7776
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "68935483"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318875"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Faça parceria com provedores indiretos no programa Provedor de Soluções na Nuvem
 

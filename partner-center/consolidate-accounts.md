@@ -1,19 +1,19 @@
 ---
 title: Consolidando as contas da sua empresa | Partner Center
 ms.topic: article
-ms.date: 08/15/2019
+ms.date: 09/25/2019
 description: Quando sua empresa passa para o Partner Center, todas as suas contas são consolidadas em uma conta
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
-ms.localizationpriority: medium
+ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: f5c3bb2455ce7bea4b0baeeff2bddf101b3e5c83
-ms.sourcegitcommit: c27cf7a8ca7f87a1a2daef57f8bebe40e2503c98
+ms.openlocfilehash: 9aaab99a89fea5239b2296a8374b1d03515445d5
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/15/2019
-ms.locfileid: "69489687"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318669"
 ---
 # <a name="consolidate-your-company-accounts"></a>Consolide as contas da empresa
 

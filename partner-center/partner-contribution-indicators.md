@@ -1,22 +1,22 @@
 ---
 title: Indicadores de contribuição de parceiros | Partner Center
 ms.topic: article
-ms.date: 07/17/2019
+ms.date: 10/04/2019
 description: Dados que mostram como a empresa está se saindo com o Dynamics 365 Customer Engagement ou o Dynamics 365 for Finance and Operations
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, desempenho, sucesso do cliente, medições, Dynamics 365
 author: MaggiePucciEvans
 ms.author: evansma
-ms.localizationpriority: medium
+ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 8a54db5e03c2cc683c913781427bc3d4ebac1af8
-ms.sourcegitcommit: 435634c55c3d20a42083c0a58d96c7f6b8ec0a6d
+ms.openlocfilehash: c0c8f9f721aa0cadfc311ecec5eb6349576fb26a
+ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/28/2019
-ms.locfileid: "68313959"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "71997831"
 ---
-## <a name="partner-contribution-indicators"></a>Indicadores de contribuição de parceiros
+# <a name="partner-contribution-indicators"></a>Indicadores de contribuição de parceiros
 
 Os PCIs (indicadores de contribuição do parceiro) são um conjunto de medidas holísticas de desempenho, capacidade e sucesso do cliente com o Dynamics 365.
 
