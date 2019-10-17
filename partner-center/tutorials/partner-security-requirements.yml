@@ -1,5 +1,5 @@
 ### YamlMime:Tutorial
-title: <span data-ttu-id="2f1d7-101">Implementar os requisitos de segurança de parceiros</span><span class="sxs-lookup"><span data-stu-id="2f1d7-101">Implementing the partner security requirements</span></span>
+title: Implementar os requisitos de segurança de parceiros
 metadata:
   title: Implementar os requisitos de segurança de parceiros
   description: Neste tutorial, você aprenderá sobre os requisitos de segurança do parceiro e como atendê-los.
@@ -8,98 +8,93 @@ metadata:
   ms.date: 06/24/2019
   displayType: two-column
   ms.custom: mvc
-  ms.openlocfilehash: 0870db76a162e4bc85e101a03c992da5c2ba22d3
-  ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
+  ms.openlocfilehash: 72ecb3cff206887143cff52c2a4102096dbaa783
+  ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
   ms.translationtype: HT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 07/18/2019
-  ms.locfileid: "68313955"
+  ms.lasthandoff: 10/16/2019
+  ms.locfileid: "72425216"
 items:
-- title: <span data-ttu-id="2f1d7-104">Introdução</span><span class="sxs-lookup"><span data-stu-id="2f1d7-104">Introduction</span></span>
+- title: Introdução
   durationInMinutes: 5
   content: >
-    <span data-ttu-id="2f1d7-105">A segurança e a privacidade de clientes e parceiros são as prioridades da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-105">Security and privacy of customers and partners are top priorities for Microsoft.</span></span> <span data-ttu-id="2f1d7-106">Continuamos vendo um crescente número de ataques de segurança mais sofisticados, principalmente relacionados a identidades comprometidas.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-106">We continue to see an increasing number of more sophisticated security attacks, primarily related to compromised identities.</span></span> <span data-ttu-id="2f1d7-107">Como os controles de prevenção desempenham uma função fundamental na estratégia global de defesa para frustrar os ataques de segurança, passaremos a impor um conjunto de requisitos de segurança obrigatórios para ajudar a proteger os parceiros e seus clientes.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-107">As preventive controls play a key role in an overall defense strategy to thwart security attacks, we will start enforcing a set of mandatory security requirements to help protect partners and their customers.</span></span>
+    A segurança e a privacidade de clientes e parceiros são as prioridades da Microsoft. Continuamos vendo um crescente número de ataques de segurança mais sofisticados, principalmente relacionados a identidades comprometidas. Como os controles de prevenção desempenham uma função fundamental na estratégia global de defesa para frustrar os ataques de segurança, passaremos a impor um conjunto de requisitos de segurança obrigatórios para ajudar a proteger os parceiros e seus clientes.
 
 
-    <span data-ttu-id="2f1d7-108">Usando este tutorial, você aprenderá mais sobre os requisitos de segurança do parceiro, como atendê-los e o impacto nos usuários em seu diretório de parceiros.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-108">Through this tutorial you will learn more about the partner security requirements, how to fulfill them, and the impact to users in your partner directory.</span></span>
-- title: <span data-ttu-id="2f1d7-109">Quais são os requisitos de segurança de parceiros?</span><span class="sxs-lookup"><span data-stu-id="2f1d7-109">What are the partner security requirements?</span></span>
+    Usando este tutorial, você aprenderá mais sobre os requisitos de segurança do parceiro, como atendê-los e o impacto nos usuários em seu diretório de parceiros.
+- title: Quais são os requisitos de segurança de parceiros?
   durationInMinutes: 1
   content: >
-    <span data-ttu-id="2f1d7-110">Todos os parceiros que estão participando do programa Provedor de Soluções na Nuvem, os Fornecedores do Painel de Controle e os parceiros do Advisor devem impor a MFA (Autenticação Multifator) para cada usuário em seu locatário de parceiro.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-110">All partners who are participating in the Cloud Solution Provider program, Control Panel Vendors, and Advisor partners are required to enforce Multi-Factor Authentication (MFA) for each user in their partner tenant.</span></span> <span data-ttu-id="2f1d7-111">Isso pode ser feito habilitando duas [políticas de linha de base do Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).</span><span class="sxs-lookup"><span data-stu-id="2f1d7-111">This can be done by enabling two [Azure Active Directory baseline policies](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).</span></span> <span data-ttu-id="2f1d7-112">As políticas de linha de base são um conjunto de políticas predefinidas que ajudam a proteger as empresas contra muitos ataques comuns.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-112">Baseline policies are a set of predefined policies that help protect organizations against many common attacks.</span></span> <span data-ttu-id="2f1d7-113">Esses ataques comuns podem incluir pulverização, reprodução e phishing de senha.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-113">These common attacks can include password spray, replay, and phishing.</span></span> <span data-ttu-id="2f1d7-114">As políticas de linha de base estão disponíveis em todas as edições do Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-114">Baseline policies are available in all editions of Azure Active Directory.</span></span> <span data-ttu-id="2f1d7-115">A Microsoft está disponibilizando essas políticas de proteção de linha de base para todos, pois o volume de ataques baseados em identidade vem aumentando nos últimos anos.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-115">Microsoft is making these baseline protection policies available to everyone because identity-based attacks have been on the rise over the last few years.</span></span>
+    Todos os parceiros que estão participando do programa Provedor de Soluções na Nuvem, os Fornecedores do Painel de Controle e os parceiros do Advisor devem impor a MFA (Autenticação Multifator) para cada usuário em seu locatário de parceiro. Isso pode ser feito habilitando duas [políticas de linha de base do Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection). As políticas de linha de base são um conjunto de políticas predefinidas que ajudam a proteger as empresas contra muitos ataques comuns. Esses ataques comuns podem incluir pulverização, reprodução e phishing de senha. As políticas de linha de base estão disponíveis em todas as edições do Azure Active Directory. A Microsoft está disponibilizando essas políticas de proteção de linha de base para todos, pois o volume de ataques baseados em identidade vem aumentando nos últimos anos.
 
 
-    <span data-ttu-id="2f1d7-116">As duas políticas de linha de base que devem ser habilitadas são descritas na tabela a seguir.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-116">The two baseline policies that should be enabled are described in the table below.</span></span>
+    As duas políticas de linha de base que devem ser habilitadas são descritas na tabela a seguir.
 
 
-    |<span data-ttu-id="2f1d7-117">**Política**</span><span class="sxs-lookup"><span data-stu-id="2f1d7-117">**Policy**</span></span>| |
+    |**Política**| |
 
     |-----|-----|
 
-    |<span data-ttu-id="2f1d7-118">**Exigir MFA para administradores**</span><span class="sxs-lookup"><span data-stu-id="2f1d7-118">**Require MFA for admins**</span></span>|<span data-ttu-id="2f1d7-119">Habilitar a política de Exigir MFA para administradores fará com que os usuários nas funções de administrador se registrem na MFA usando o aplicativo autenticador.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-119">Enabling the Require MFA for admins policy, will require users in the administrator roles  to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="2f1d7-120">Depois que o registro de MFA for concluído, os administradores precisarão executar a MFA sempre que entrarem.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-120">Once MFA registration is complete, administrators will need to perform MFA every time they sign-in.</span></span>|
+    |**Exigir MFA para administradores**|Habilitar a política de Exigir MFA para administradores fará com que os usuários nas funções de administrador se registrem na MFA usando o aplicativo autenticador. Depois que o registro de MFA for concluído, os administradores precisarão executar a MFA sempre que entrarem.|
 
-    |<span data-ttu-id="2f1d7-121">**Proteção do usuário final**</span><span class="sxs-lookup"><span data-stu-id="2f1d7-121">**End user protection**</span></span>|<span data-ttu-id="2f1d7-122">A proteção do usuário final é uma política de linha de base da MFA baseada em risco que protege todos os usuários em um diretório.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-122">End user protection is a risk-based MFA baseline policy that protects all users in a directory.</span></span> <span data-ttu-id="2f1d7-123">A habilitação dessa política exige que todos os usuários se registrem na MFA usando o aplicativo autenticador.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-123">Enabling this policy requires all users to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="2f1d7-124">Os usuários podem ignorar o prompt de registro de MFA por 14 dias, após o qual eles serão impedidos de entrar até que se registrem na MFA.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-124">Users can ignore the MFA registration prompt for 14 days, after which they will be blocked from signing in until they register for MFA.</span></span> <span data-ttu-id="2f1d7-125">Depois de registrado para MFA, os usuários serão solicitados a receber MFA somente durante tentativas de inserção de credenciais arriscadas.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-125">Once registered for MFA, users will be prompted for MFA only during risky sign-in attempts.</span></span> <span data-ttu-id="2f1d7-126">As contas de usuário comprometidas são bloqueadas até que a senha seja redefinida e os eventos de risco tenham sido ignorados.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-126">Compromised user accounts are blocked until their password is reset and risk events have been dismissed.</span></span>|
+    |**Proteção do usuário final**|A proteção do usuário final é uma política de linha de base da MFA baseada em risco que protege todos os usuários em um diretório. A habilitação dessa política exige que todos os usuários se registrem na MFA usando o aplicativo autenticador. Os usuários podem ignorar o prompt de registro de MFA por 14 dias, após o qual eles serão impedidos de entrar até que se registrem na MFA. Depois de registrado para MFA, os usuários serão solicitados a receber MFA somente durante tentativas de inserção de credenciais arriscadas. As contas de usuário comprometidas são bloqueadas até que a senha seja redefinida e os eventos de risco tenham sido ignorados.|
 
 
-    <span data-ttu-id="2f1d7-127">Quando essas políticas estiverem habilitadas, cada usuário poderá utilizar o MFA do Azure sem custo adicional.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-127">When these policies are enabled, each user will be able to utilize Azure MFA at no additional cost.</span></span> <span data-ttu-id="2f1d7-128">Se você estiver usando uma solução de terceiros, você deverá impor a MFA para cada usuário ao acessar os serviços de nuvem comercial da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-128">If you are using a third-party solution, then you are required to enforce MFA for each user when accessing Microsoft Commercial cloud services.</span></span>
+    Quando essas políticas estiverem habilitadas, cada usuário poderá utilizar o MFA do Azure sem custo adicional. Se você estiver usando uma solução de terceiros, você deverá impor a MFA para cada usuário ao acessar os serviços de nuvem comercial da Microsoft.
 
 
     > [!IMPORTANT]
 
-    > <span data-ttu-id="2f1d7-129">Como a MFA será imposta para cada usuário no diretório de parceiros, haverá um impacto em qualquer automação ou integração que utiliza credenciais do usuário.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-129">Since MFA will be enforced for every user in the partner directory, there will be an impact to any automation or integration that utilizes user credentials.</span></span> <span data-ttu-id="2f1d7-130">Para resolver esse impacto, será necessário modificar a maneira como a automação ou a integração se conecta aos serviços de nuvem comercial da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-130">To address this impact you will need to modify the way your automation or integration connects to Microsoft commercial cloud services.</span></span> <span data-ttu-id="2f1d7-131">Se o serviço ao qual você estiver se conectando oferecer suporte à autenticação baseada em token, será recomendável implementar a [estrutura do Modelo de Aplicativo Seguro](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).</span><span class="sxs-lookup"><span data-stu-id="2f1d7-131">If the service you are connecting to supports token based authentication, then it is recommended that you implement the [Secure Application Model framework](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).</span></span>
-- title: <span data-ttu-id="2f1d7-132">Como faço para habilitar a política de linha de base Exigir MFA para administradores?</span><span class="sxs-lookup"><span data-stu-id="2f1d7-132">How do I enable the Require MFA for admins baseline policy?</span></span>
+    > Como a MFA será imposta para cada usuário no diretório de parceiros, haverá um impacto em qualquer automação ou integração que utiliza credenciais do usuário. Para resolver esse impacto, será necessário modificar a maneira como a automação ou a integração se conecta aos serviços de nuvem comercial da Microsoft. Se o serviço ao qual você estiver se conectando oferecer suporte à autenticação baseada em token, será recomendável implementar a [estrutura do Modelo de Aplicativo Seguro](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).
+- title: Como faço para habilitar a política de linha de base Exigir MFA para administradores?
   durationInMinutes: 5
   content: >
-    <span data-ttu-id="2f1d7-133">A política de linha de base *Exigir MFA para administrador* requer a MFA para as funções de diretório a seguir, consideradas como as funções do Azure AD mais privilegiadas:</span><span class="sxs-lookup"><span data-stu-id="2f1d7-133">The *Require MFA for admin* baseline policy requires MFA for the following directory roles, considered to be the most privileged Azure AD roles:</span></span>
+    A política de linha de base *Exigir MFA para administrador* requer a MFA para as funções de diretório a seguir, consideradas como as funções do Azure AD mais privilegiadas:
 
 
-    - <span data-ttu-id="2f1d7-134">Administrador global</span><span class="sxs-lookup"><span data-stu-id="2f1d7-134">Global administrator</span></span>
+    - Administrador global
 
-    - <span data-ttu-id="2f1d7-135">Administrador do SharePoint</span><span class="sxs-lookup"><span data-stu-id="2f1d7-135">SharePoint administrator</span></span>
+    - Administrador do SharePoint
 
-    - <span data-ttu-id="2f1d7-136">Administradores do Exchange</span><span class="sxs-lookup"><span data-stu-id="2f1d7-136">Exchange administrator</span></span>
+    - Administradores do Exchange
 
-    - <span data-ttu-id="2f1d7-137">Administrador de acesso condicional</span><span class="sxs-lookup"><span data-stu-id="2f1d7-137">Conditional access administrator</span></span>
+    - Administrador de acesso condicional
 
-    - <span data-ttu-id="2f1d7-138">Administrador de segurança</span><span class="sxs-lookup"><span data-stu-id="2f1d7-138">Security administrator</span></span>
+    - Administrador de segurança
 
-    - <span data-ttu-id="2f1d7-139">Administrador de assistência técnica/administrador de senha</span><span class="sxs-lookup"><span data-stu-id="2f1d7-139">Helpdesk administrator / Password administrator</span></span>
+    - Administrador de assistência técnica/administrador de senha
 
-    - <span data-ttu-id="2f1d7-140">Administrador de cobrança</span><span class="sxs-lookup"><span data-stu-id="2f1d7-140">Billing administrator</span></span>
+    - Administrador de cobrança
 
-    - <span data-ttu-id="2f1d7-141">Administrador do usuário</span><span class="sxs-lookup"><span data-stu-id="2f1d7-141">User administrator</span></span>
-
-
-    <span data-ttu-id="2f1d7-142">Ao habilitar a política de Exigir MFA para administradores, as nove funções de administrador acima exigirá o registro para MFA usando o aplicativo autenticador.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-142">Upon enabling the Require MFA for admins policy, the above nine administrator roles will be required to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="2f1d7-143">Depois que o registro de MFA for concluído, os administradores precisarão executar a MFA sempre que entrarem.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-143">Once MFA registration is complete, administrators will need to perform MFA every single time they sign-in.</span></span>
+    - Administrador do usuário
 
 
-    <span data-ttu-id="2f1d7-144">Se sua empresa tiver essas contas em uso em scripts ou código, considere substituí-las [por identidades gerenciadas](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).</span><span class="sxs-lookup"><span data-stu-id="2f1d7-144">If your organization has these accounts in use in scripts or code, consider replacing them with [managed identities](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).</span></span>
+    Ao habilitar a política de Exigir MFA para administradores, as nove funções de administrador acima exigirá o registro para MFA usando o aplicativo autenticador. Depois que o registro de MFA for concluído, os administradores precisarão executar a MFA sempre que entrarem.
 
 
-    <span data-ttu-id="2f1d7-145">Para habilitar essa política e proteger seus administradores:</span><span class="sxs-lookup"><span data-stu-id="2f1d7-145">To enable this policy and protect your administrators:</span></span>
+    Se sua empresa tiver essas contas em uso em scripts ou código, considere substituí-las [por identidades gerenciadas](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).
 
 
-    1. <span data-ttu-id="2f1d7-146">Entre no **portal do Azure** como administrador global, administrador de segurança ou administrador de acesso condicional.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-146">Sign in to the **Azure portal** as a Global Administrator, Security Administrator, or Conditional Access Administrator.</span></span>
+    Para habilitar essa política e proteger seus administradores:
 
-    2. <span data-ttu-id="2f1d7-147">Navegue até o **Azure Active Directory** > **Acesso Condicional**.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-147">Browse to **Azure Active Directory** > **Conditional Access**.</span></span>
 
-    3. <span data-ttu-id="2f1d7-148">Na lista de políticas, selecione a **política de linha de base: Exigir a MFA para Administradores**.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-148">In the list of policies, select **Baseline policy: Require MFA for admins**.</span></span>
+    1. Entre no **portal do Azure** como administrador global, administrador de segurança ou administrador de acesso condicional.
 
-    4. <span data-ttu-id="2f1d7-149">Defina **Habilitar política** para **Usar política imediatamente**.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-149">Set **Enable policy** to **Use policy immediately**.</span></span>
+    2. Navegue até o **Azure Active Directory** > **Acesso Condicional**.
 
-    5. <span data-ttu-id="2f1d7-150">Clique em  **Salvar**.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-150">Click **Save**.</span></span>
+    3. Na lista de políticas, selecione a **política de linha de base: Exigir a MFA para Administradores**.
+
+    4. Defina **Habilitar política** para **Usar política imediatamente**.
+
+    5. Clique em  **Salvar**.
 
 
     > [!WARNING]
 
-    > <span data-ttu-id="2f1d7-151">Antes de habilitar essa política, verifique se os usuários não estão usando protocolos de autenticação herdados.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-151">Before you enable this policy, make sure your users are not using legacy authentication protocols.</span></span> <span data-ttu-id="2f1d7-152">Confira o artigo [Como bloquear a autenticação herdada no Azure AD com Acesso Condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) para obter mais informações.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-152">See the article [How to: Block legacy authentication to Azure AD with Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) for more information.</span></span>
+    > Antes de habilitar essa política, verifique se os usuários não estão usando protocolos de autenticação herdados. Confira o artigo [Como bloquear a autenticação herdada no Azure AD com Acesso Condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) para obter mais informações.
 
 
-    > [!IMPORTANT]
-
-    > <span data-ttu-id="2f1d7-153">Há um problema conhecido que afeta sua capacidade de usar privilégios administrativos delegados para conectar-se ao PowerShell do Exchange Online quando a MFA está imposta.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-153">There is a known issue, that impacts your ability to leverage delegated administrative privileges to connect to Exchange Online PowerShell when MFA is enforced.</span></span> <span data-ttu-id="2f1d7-154">Confira [PowerShell do Exchange Online](../partner-security-requirements.md#exchange-online-powershell) para obter mais informações.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-154">See [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) for more information.</span></span>
-
-
-    <span data-ttu-id="2f1d7-155">Depois de habilitar a política de linha de base *Exigir MFA para administradores*, os usuários que são membros das funções de administrador acima encontrarão uma nova experiência quando entrarem.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-155">Once you have enable the *Require MFA for admins* baseline policy, users who are a member of the above administrator roles will encounter a new experience when they sign-in.</span></span> <span data-ttu-id="2f1d7-156">As figuras a seguir são o que os usuários afetados por esta política enfrentarão</span><span class="sxs-lookup"><span data-stu-id="2f1d7-156">The following figures are what users impacted by this policy will experience</span></span>
+    Depois de habilitar a política de linha de base *Exigir MFA para administradores*, os usuários que são membros das funções de administrador acima encontrarão uma nova experiência quando entrarem. As figuras a seguir são o que os usuários afetados por esta política enfrentarão
 
       ![Solicitar mais informações](../images/security/baseline-require-more-info.png)
 
@@ -111,41 +106,36 @@ items:
 
       ![Validação de segurança adicional verificada](../images/security/baseline-security-verification-confirmed.png)
 
-    <span data-ttu-id="2f1d7-162">Depois que o usuário tiver concluído os requisitos acima, ele poderá entrar no serviço de nuvem da Microsoft que estava tentando acessar.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-162">After the user has completed the above they will be able to sign-in to the Microsoft cloud service they were attempting to access.</span></span>
-- title: <span data-ttu-id="2f1d7-163">Como faço para habilitar a política de linha de base de proteção do usuário final?</span><span class="sxs-lookup"><span data-stu-id="2f1d7-163">How do I enable the End user protection baseline policy?</span></span>
+    Depois que o usuário tiver concluído os requisitos acima, ele poderá entrar no serviço de nuvem da Microsoft que estava tentando acessar.
+- title: Como faço para habilitar a política de linha de base de proteção do usuário final?
   durationInMinutes: 5
   content: >-
-    <span data-ttu-id="2f1d7-164">A política de linha de base de proteção do usuário final protege todos os usuários em um diretório.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-164">The End user protection baseline policy protects all users in a directory.</span></span> <span data-ttu-id="2f1d7-165">A habilitação dessa política exige que todos os usuários se registrem na MFA do Azure em até 14 dias.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-165">Enabling this policy requires all users to register for Azure MFA within 14 days.</span></span> <span data-ttu-id="2f1d7-166">Depois de registrados, os usuários serão solicitados a receber MFA somente durante tentativas de entradas arriscadas; esse comportamento mudará para locatários de parceiros no futuro.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-166">Once registered, users will be prompted for MFA only during risky sign-in attempts, this behavior will change for partner tenants in the future.</span></span> <span data-ttu-id="2f1d7-167">Contas de usuário comprometidas são bloqueadas até a redefinição de senha e risco de demissão.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-167">Compromised user accounts are blocked until password reset and risk dismissal.</span></span>
+    A política de linha de base de proteção do usuário final protege todos os usuários em um diretório. A habilitação dessa política exige que todos os usuários se registrem na MFA do Azure em até 14 dias. Depois de registrados, os usuários serão solicitados a receber MFA somente durante tentativas de entradas arriscadas; esse comportamento mudará para locatários de parceiros no futuro. Contas de usuário comprometidas são bloqueadas até a redefinição de senha e risco de demissão.
 
 
-    <span data-ttu-id="2f1d7-168">A **Política de linha de base: proteção de usuário final** vem pré-configurado e aparecerá na parte superior quando você navegar para a folha Acesso Condicional no portal do Azure.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-168">The policy **Baseline policy: End user protection** comes pre-configured and will show up at the top when you navigate to the Conditional Access blade in Azure portal.</span></span>
+    A **Política de linha de base: proteção de usuário final** vem pré-configurado e aparecerá na parte superior quando você navegar para a folha Acesso Condicional no portal do Azure.
 
 
-    <span data-ttu-id="2f1d7-169">Para habilitar essa política e proteger seus usuários:</span><span class="sxs-lookup"><span data-stu-id="2f1d7-169">To enable this policy and protect your users:</span></span>
+    Para habilitar essa política e proteger seus usuários:
 
 
-    1. <span data-ttu-id="2f1d7-170">Entre no **portal do Azure** como administrador global, administrador de segurança ou administrador de acesso condicional.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-170">Sign in to the **Azure portal** as a Global Administrator, Security Administrator, or Conditional Access Administrator.</span></span>
+    1. Entre no **portal do Azure** como administrador global, administrador de segurança ou administrador de acesso condicional.
 
-    2. <span data-ttu-id="2f1d7-171">Navegue até o **Azure Active Directory** > **Acesso Condicional**.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-171">Browse to **Azure Active Directory** > **Conditional Access**.</span></span>
+    2. Navegue até o **Azure Active Directory** > **Acesso Condicional**.
 
-    3. <span data-ttu-id="2f1d7-172">Na lista de políticas, selecione a **política de linha de base: Proteção do usuário final (visualização)**.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-172">In the list of policies, select **Baseline policy: End user protection (preview)**.</span></span>
+    3. Na lista de políticas, selecione a **política de linha de base: Proteção do usuário final (visualização)**.
 
-    4. <span data-ttu-id="2f1d7-173">Defina **Habilitar política** para **Usar política imediatamente**.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-173">Set **Enable policy** to **Use policy immediately**.</span></span>
+    4. Defina **Habilitar política** para **Usar política imediatamente**.
 
-    5. <span data-ttu-id="2f1d7-174">Clique em  **Salvar**.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-174">Click **Save**.</span></span>
+    5. Clique em  **Salvar**.
 
 
     > [!WARNING]
 
-    > <span data-ttu-id="2f1d7-175">Antes de habilitar essa política, verifique se os usuários não estão usando protocolos de autenticação herdados.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-175">Before you enable this policy, make sure your users are not using legacy authentication protocols.</span></span> <span data-ttu-id="2f1d7-176">Confira o artigo [Como bloquear a autenticação herdada no Azure AD com Acesso Condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) para obter mais informações.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-176">See the article [How to: Block legacy authentication to Azure AD with Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) for more information.</span></span>
+    > Antes de habilitar essa política, verifique se os usuários não estão usando protocolos de autenticação herdados. Confira o artigo [Como bloquear a autenticação herdada no Azure AD com Acesso Condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) para obter mais informações.
 
 
-    > [!IMPORTANT]
-
-    > <span data-ttu-id="2f1d7-177">Há um problema conhecido que afeta sua capacidade de usar privilégios administrativos delegados para conectar-se ao PowerShell do Exchange Online quando a MFA está imposta.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-177">There is a known issue, that impacts your ability to leverage delegated administrative privileges to connect to Exchange Online PowerShell when MFA is enforced.</span></span> <span data-ttu-id="2f1d7-178">Confira [PowerShell do Exchange Online](../partner-security-requirements.md#exchange-online-powershell) para obter mais informações.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-178">See [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) for more information.</span></span>
-
-
-    <span data-ttu-id="2f1d7-179">Depois de ter habilitado a política de linha de base *Proteção do usuário final*, todos os usuários encontrarão uma nova experiência quando entrarem.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-179">Once you have enabled the *End user protection* baseline policy, all users will encounter a new experience when they sign-in.</span></span> <span data-ttu-id="2f1d7-180">As figuras a seguir são o que os usuários enfrentarão</span><span class="sxs-lookup"><span data-stu-id="2f1d7-180">The following figures are what users will experience</span></span>
+    Depois de ter habilitado a política de linha de base *Proteção do usuário final*, todos os usuários encontrarão uma nova experiência quando entrarem. As figuras a seguir são o que os usuários enfrentarão
 
       ![Solicitar mais informações](../images/security/baseline-require-more-info.png)
 
@@ -157,4 +147,4 @@ items:
 
       ![Validação de segurança adicional verificada](../images/security/baseline-security-verification-confirmed.png)
 
-    <span data-ttu-id="2f1d7-186">Depois que o usuário tiver concluído os requisitos acima, ele poderá entrar no serviço de nuvem da Microsoft que estava tentando acessar.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-186">After the user has completed the above, they will be able to sign-in to the Microsoft cloud service they were attempting to access.</span></span> <span data-ttu-id="2f1d7-187">Observe que, até que os requisitos de segurança do parceiro sejam impostos, os usuários que não forem cobertos pela política de linha de base *Exigir MFA para administradores* só serão consultados para a MFA com base no risco.</span><span class="sxs-lookup"><span data-stu-id="2f1d7-187">Note until the partner security requirements are enforced, users who are not covered by the *Require MFA for admins* baseline policy will only be prompted for MFA based on risk.</span></span>
+    Depois que o usuário tiver concluído os requisitos acima, ele poderá entrar no serviço de nuvem da Microsoft que estava tentando acessar. Observe que, até que os requisitos de segurança do parceiro sejam impostos, os usuários que não forem cobertos pela política de linha de base *Exigir MFA para administradores* só serão consultados para a MFA com base no risco.
