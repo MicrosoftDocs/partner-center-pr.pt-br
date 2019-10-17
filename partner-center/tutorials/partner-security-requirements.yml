@@ -8,12 +8,12 @@ metadata:
   ms.date: 06/24/2019
   displayType: two-column
   ms.custom: mvc
-  ms.openlocfilehash: 0870db76a162e4bc85e101a03c992da5c2ba22d3
-  ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
+  ms.openlocfilehash: 72ecb3cff206887143cff52c2a4102096dbaa783
+  ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
   ms.translationtype: HT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 07/18/2019
-  ms.locfileid: "68313955"
+  ms.lasthandoff: 10/16/2019
+  ms.locfileid: "72425216"
 items:
 - title: Introdução
   durationInMinutes: 5
@@ -94,11 +94,6 @@ items:
     > Antes de habilitar essa política, verifique se os usuários não estão usando protocolos de autenticação herdados. Confira o artigo [Como bloquear a autenticação herdada no Azure AD com Acesso Condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) para obter mais informações.
 
 
-    > [!IMPORTANT]
-
-    > Há um problema conhecido que afeta sua capacidade de usar privilégios administrativos delegados para conectar-se ao PowerShell do Exchange Online quando a MFA está imposta. Confira [PowerShell do Exchange Online](../partner-security-requirements.md#exchange-online-powershell) para obter mais informações.
-
-
     Depois de habilitar a política de linha de base *Exigir MFA para administradores*, os usuários que são membros das funções de administrador acima encontrarão uma nova experiência quando entrarem. As figuras a seguir são o que os usuários afetados por esta política enfrentarão
 
       ![Solicitar mais informações](../images/security/baseline-require-more-info.png)
@@ -138,11 +133,6 @@ items:
     > [!WARNING]
 
     > Antes de habilitar essa política, verifique se os usuários não estão usando protocolos de autenticação herdados. Confira o artigo [Como bloquear a autenticação herdada no Azure AD com Acesso Condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) para obter mais informações.
-
-
-    > [!IMPORTANT]
-
-    > Há um problema conhecido que afeta sua capacidade de usar privilégios administrativos delegados para conectar-se ao PowerShell do Exchange Online quando a MFA está imposta. Confira [PowerShell do Exchange Online](../partner-security-requirements.md#exchange-online-powershell) para obter mais informações.
 
 
     Depois de ter habilitado a política de linha de base *Proteção do usuário final*, todos os usuários encontrarão uma nova experiência quando entrarem. As figuras a seguir são o que os usuários enfrentarão
