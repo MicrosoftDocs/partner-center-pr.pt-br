@@ -1,19 +1,19 @@
 ---
 title: Comprar reservas do Microsoft Azure em nome dos seus clientes | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 10/15/2019
 Description: Você pode comprar reservas do Azure em nome de seus clientes no Partner Center.
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, reservas, gerenciar, cobrança, comprar
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5d42c62c10d1717868b7b22f7a63ffc2311a3f70
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: fb75358e9b193a1568926eec220aef4c9fcc6f0f
+ms.sourcegitcommit: 582415b3c61557e80dfd17e09b5122210bfd0a9b
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708772"
+ms.lasthandoff: 10/17/2019
+ms.locfileid: "72530971"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Comprar Microsoft Azure reservas em nome de seus clientes no Partner Center 
 
@@ -27,6 +27,8 @@ ms.locfileid: "68708772"
 
 Examine as informações importantes abaixo antes de comprar as reservas do Azure em nome de seus clientes.
 
+- Se e quando o cliente assina o novo contrato de cliente da Microsoft, [confirme a aceitação do cliente do contrato do cliente da Microsoft](confirm-customer-agreement.md), você deve comprar as reservas do Azure no plano do Azure. Para obter mais informações, leia [comprar Azure Plan](purchase-azure-plan.md).
+
 -   Os clientes já devem ter uma assinatura do Azure ativa antes que você possa comprar reservas em nome deles
   
 -   Os custos de assinatura de software, como o banco de dados SQL ou o software SUSE Linux, não estão incluídos nos preços de reserva do Azure
@@ -37,7 +39,7 @@ Examine as informações importantes abaixo antes de comprar as reservas do Azur
 
 -   Se você for um provedor indireto e comprar reservas do Azure por meio do portal do Azure, o Parceiro Registrado (revendedor indireto) é herdado da assinatura do Azure CSP selecionado. 
 
--   O Parceiro Registrado para reservas do Azure não poderá ser alterado após a compra. Você pode cancelar a reserva existente e comprar uma nova com o novo Parceiro Registrado. 
+-   O parceiro de registro para reservas do Azure não pode ser alterado após a compra. Você pode cancelar a reserva existente e comprar uma nova com o novo Parceiro Registrado. 
 
 -   Se um cliente quiser transferir uma assinatura do Azure do Direct ou EA para o CSP, as reservas não serão transferidas. 
 
@@ -48,46 +50,43 @@ Examine as informações importantes abaixo antes de comprar as reservas do Azur
 >  
 > | Mercados indisponíveis | &nbsp; | &nbsp; |
 > |--------------------------------|-----------------------------------|------------------------------------------|
-> | Ilhas Aland                  | Groenlândia                         | Palau                                    |
-> | Samoa Americana                 | Granada                           | Papua Nova-Guiné                         |
-> | Andorra                        | Guadalupe                        | Ilhas Pitcairn                         |
-> | Anguilla                       | Guam                              | Reunião                                  |
-> | Antártida                     | Guernsey                          | Federação Russa                       |
-> | Antígua e Barbuda            | Guiné                            | Saba                                     |
-> | Aruba                          | Guiné-Bissau                     | São Bartolomeu                         |
-> | Azerbaijão                     | Guiana                            | Santa Lúcia                              |
-> | Belarus                        | Haiti                             | Saint Martin                             |
-> | Benin                          | Ilhas Heard e McDonald | São Pedro e Miquelon                |
-> | Butão                         | Índia                             | São Vicente e Granadinas         |
-> | Bonaire                        | Ilha de Man                       | Samoa                                    |
-> | Ilha Bouvet                  | Jan Mayen                         | San Marino                               |
-> | Brasil                         | Jersey                            | São Tomé and Príncipe                    |
-> | Território Britânico do Oceano Índico | Cazaquistão                        | Seicheles                               |
-> | Ilhas Virgens Britânicas         | Kiribati                          | Serra Leoa                             |
-> | Burquina Faso                   | Coreia, República da                | Santo Eustáquio                           |
-> | Burundi                        | Kosovo                            | Sint Maarten                             |
-> | Camboja                       | Laos                              | Ilhas Salomão                          |
-> | República Centro-Africana       | Lesoto                           | Somália                                  |
-> | Chade                           | Libéria                           | Ilhas Geórgia do Sul e Sandwich do Sul |
-> | China                          | Madagascar                        | Sudão do Sul                              |
-> | Ilha Christmas               | Malaui                            | Santa Helena, ascensão e Tristão da Cunha   |
-> | Ilhas Cocos (Keeling)        | Maldivas                          | Suriname                                 |
-> | Ilhas Comores                        | Máli                              | Svalbard                                 |
-> | República do Congo                          | Ilhas Marshall                  | Suazilândia                                |
-> | Congo (República Democrática)                    | Martinica                        | Taiwan                                   |
-> | Ilhas Cook                   | Mauritânia                        | Timor-Leste                              |
-> | Djibuti                       | Mayotte                           | Togo                                     |
-> | Dominica                       | Micronésia                        | Tokelau                                  |
-> | Guiné Equatorial              | Montserrat                        | Tonga                                    |
-> | Eritreia                        | Moçambique                        | Ilhas Turcos e Caicos                 |
-> | Ilhas Malvinas               | Myanmar                           | Tuvalu                                   |
-> | Guiana Francesa                  | Nauru                             | Territórios Insulares Territórios insulares                    |
-> | Polinésia Francesa               | Nova Caledônia                     | Ucrânia                                  |
-> | Territórios Austrais Franceses    | Níger                             | Vanuatu                                  |
-> | Gabão                          | Niue                              | Cidade do Vaticano                             |
-> | Gâmbia                         | Ilha Norfolk                    | Wallis e Futuna                        |
-> | Gibraltar                      | Ilhas Marianas do Norte          | Iêmen                                    |
-> |
+> | Ilhas Aland     | Groenlândia     | Papua Nova-Guiné     |
+> | Samoa Americana     | Granada     | Ilhas Pitcairn     |
+> | Andorra     | Guadalupe     | Reunião     |
+> | Anguilla     | Guam     | Saba   |
+> | Antártida     | Guernsey     | São Bartolomeu   |
+> | Antígua e Barbuda       | Guiné     | Santa Lúcia   |
+> | Aruba       | Guiné-Bissau     | Saint Martin   |
+> | Azerbaijão       | Guiana     | São Pedro e Miquelon   |
+> | Benin     | Haiti       | São Vicente e Granadinas     |
+> | Butão     | Ilhas Heard e McDonald       | Samoa     |
+> | Bonaire     | Ilha de Man     | São Marinho     |
+> | Ilha Bouvet     | Jan Mayen     | São Tomé and Príncipe   |
+> | Território Britânico do Oceano Índico       | Jersey     | Seicheles   |
+> | Ilhas Virgens Britânicas     | Kiribati       | Serra Leoa   |
+> | Burquina Faso     | Kosovo     | Santo Eustáquio     |
+> | Burundi     | Laos     | Sint Maarten     |
+> | Camboja     | Lesoto     | Ilhas Salomão     |
+> | República Centro-Africana     | Libéria     | Somália     |
+> | Chade     | Madagascar     | Ilhas Geórgia do Sul e Sandwich do Sul     |
+> | China     | Maláui     | Sudão do Sul     |
+> | Ilha Christmas     | Maldivas     | Santa Helena, ascensão e Tristão da Cunha     |
+> | Ilhas Cocos (Keeling)     | Máli     | Suriname     |
+> | Ilhas Comores     | Ilhas Marshall     | Svalbard     |
+> | Congo     | Martinica     | Suazilândia     |
+> | Congo (República Democrática)     | Mauritânia     | Timor-Leste   |
+> | Ilhas Cook     | Mayotte     | Togo   |
+> | Djibuti     | Micronésia     | Tokelau   |
+> | Dominica     | Montserrat     | Tonga   |
+> | Guiné Equatorial     | Moçambique     | Ilhas Turcos e Caicos   |
+> | Eritreia     | Myanmar     | Tuvalu   |
+> | Ilhas Malvinas     | Nauru     | Territórios Insulares dos EUA   |
+> | Guiana Francesa     | Nova Caledônia     | Vanuatu   |
+> | Polinésia Francesa     | Níger     | Cidade do Vaticano   |
+> | Territórios Austrais Franceses     | Niue     | Wallis e Futuna   |
+> | Gabão     | Ilha Norfolk     | Iêmen   |
+> | Gâmbia     | Ilhas Marianas do Norte     |    |
+> | Gibraltar     | Palau       |    |
 
 ## <a name="purchase-azure-reservations"></a>Comprar reservas do Azure
 
@@ -108,7 +107,7 @@ Siga as etapas abaixo para comprar Microsoft Azure reservas em nome de seus clie
 4. As reservas do Azure devem estar associadas a uma assinatura do Azure ativa. Escolha a assinatura do cliente para a qual você deseja adicionar as reservas do Azure da lista de **assinaturas do cliente** . 
 
    >[!IMPORTANT]
-   >Se o cliente ainda não tiver uma assinatura ativa do Azure, selecione **serviços online** para adicionar um agora. 
+   >Se o cliente ainda não tiver uma assinatura ativa do Azure, selecione **Azure** para adicionar uma agora. 
 
 5. Use os filtros para encontrar reservas do Azure em máquinas virtuais que atendam aos requisitos do seu cliente.  
 
@@ -123,9 +122,15 @@ Siga as etapas abaixo para comprar Microsoft Azure reservas em nome de seus clie
     - Selecionar o escopo da reserva. O escopo da reserva pode abranger uma ou várias assinaturas (escopo compartilhado). Se você delimitar a reserva para uma única assinatura, o desconto de reserva será aplicado somente a essa assinatura. Se você selecionar compartilhada, o desconto da reserva é aplicado a todas as assinaturas no contexto de cobrança do cliente. 
 
       >[!NOTE] 
-      >Se você optar por limitar o escopo da reserva a uma única assinatura do Azure, talvez seja necessário aumentar a cota de vCPU da assinatura. Para aumentar a cota de vCPU da assinatura, você precisará criar uma solicitação de suporte no portal do Azure. Siga as instruções [neste tópico](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) para criar a solicitação.    
+      >Se você optar por limitar o escopo da reserva a uma única assinatura do Azure, talvez seja necessário aumentar a cota de vCPU da assinatura. Para aumentar a cota de vCPU da assinatura, você precisará criar uma solicitação de suporte no portal do Azure. Siga as instruções [neste tópico](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) para criar a solicitação. 
+
+      >[!NOTE]   
+      >Se o seu cliente estiver sob o plano do Azure, o **escopo** será definido como **compartilhado**. 
 
     - Se você for um parceiro de provedor, selecione o revendedor que você deseja associar ao produto.
+    
+    - Se a sua reserva do Azure oferecer suporte à opção de plano de cobrança, você poderá selecionar a frequência de cobrança como mensal no menu suspenso. 
+    - Se sua reserva do Azure não oferecer suporte à opção de plano de cobrança, sua frequência de cobrança usa como padrão uma cobrança de uma vez. 
 
 9. Selecione **Comprar** para fazer o pedido. Os detalhes do seu pedido, incluindo o número do pedido, são exibidos na página **confirmar** . Selecione **Concluído** para ir para sua página **Histórico de pedidos**. 
 

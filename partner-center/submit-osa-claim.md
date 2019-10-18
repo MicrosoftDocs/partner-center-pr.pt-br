@@ -1,18 +1,18 @@
 ---
-title: Envie suas declarações OSA no Partner Center | Partner Center
+title: Envie suas declarações OSA no Partner Center | Centro de parceiros
 ms.topic: article
-ms.date: 3/14/2019
-description: Enviar uma declaração de taxa de venda OSA ou declaração de associação de receita de ISV
+ms.date: 10/04/2019
+description: Enviar uma declaração de taxa de venda de OSA ou declaração de associação de receita de ISV
 author: LauraBrenner
 ms.author: labrenne
-keywords: declarações de incentivos, declarações de cooperação, os fundos de cooperação, OSA, ISV, associação de receita
+keywords: créditos de incentivos, declarações de cooperação, fundos de cooperação, OSA, ISV, associação de receita
 ms.localizationpriority: medium
-ms.openlocfilehash: d07e0e4cab70bc4725b3f90ca0b4664971014cab
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: b61b1da0a7faa3008996785dd092b2e1bae12b8e
+ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133910"
+ms.lasthandoff: 10/16/2019
+ms.locfileid: "72425171"
 ---
 # <a name="submit-your-osa-claims-in-partner-center"></a>Enviar solicitações de OSA no Partner Center
 
@@ -20,82 +20,82 @@ ms.locfileid: "62133910"
 
 -  Partner Center
 
-Como um parceiro de OSA ou ISV do Dynamics, você pode enviar suas declarações no Partner Center. 
+Como um parceiro OSA ou o Dynamics ISV, você pode enviar suas declarações no Partner Center. 
 
-Antes de criar e enviar uma reivindicação, você precisará atender aos seguintes requisitos: 
--   **Inscrever-se no Microsoft Partner Network**, e ter um contrato ativo do MPN. Para registrar-se no Microsoft Partner Network, visite o site do parceiro. 
--   **Ser um consultor de software do Microsoft Dynamics certificado** com um Active Directory Microsoft Dynamics Certified Software Advisor contrato (CSA). 
--   **Tenha suas informações de banco e imposto** inserido no Partner Center. 
--   **Atender aos requisitos de certificação e a receita de qualificação de venda OSA**. (Para obter detalhes, consulte o guia de venda de OSA, localizado na seção OSA em aka.ms/partnerincentives). Isso não é aplicável para ISVs buscando somente a associação de receita. 
+Para poder criar e enviar uma declaração, você precisará atender aos seguintes requisitos: 
+-   **Ser registrado no Microsoft Partner Network**e ter um contrato de MPN ativo. Para se registrar no Microsoft Partner Network, visite o site do parceiro. 
+-   **Seja um Microsoft Dynamics Software Advisor certificado** com um CSA (contrato do Microsoft Dynamics Certified Software Advisor) ativo. 
+-   **Suas informações bancárias e de impostos foram** inseridas no Partner Center. 
+-   **Atenda aos requisitos de receita e certificação de qualificação do OSA**. (Para obter detalhes, consulte o guia de venda do OSA, localizado na seção OSA em aka.ms/partnerincentives.) Isso não se aplica aos ISVs que buscam somente a associação de receita. 
 
 ## <a name="submitting-your-claim"></a>Enviando sua declaração
 
-Você terá 90 dias a partir da data da transação para enviar sua declaração. Se você enviar sua declaração de mais de 90 dias após uma transação, você não ganha o incentivo de venda dessa venda. 
+Você terá 90 dias a partir da data da transação para enviar sua declaração. Se você enviar sua declaração mais de 90 dias após uma transação, não receberá o incentivo de venda dessa venda. 
 
-Se você for um parceiro ISV e suas soluções ajudou a influenciar o cliente para escolher uma solução do Microsoft Dynamics 365, você também está qualificado para a declaração de associação de receita.   
+Se você for um parceiro de ISV e suas soluções ajudarem a influenciar o cliente a escolher uma solução do Microsoft Dynamics 365, também será elegível para reivindicar a associação de receita.   
 
 ## <a name="payment-schedule"></a>Plano de pagamento
 
-Você receberá o pagamento para declarações de incentivos aprovada dentro de 45 dias após o término do período de rendimentos. Você tem 90 dias após o término do período de rendimentos para contestar um pagamento. Para obter informações sobre cálculos de pagamento e métodos, consulte o guia de venda de OSA, localizado na seção OSA em aka.ms/partnerincentives.
+Você receberá o pagamento de declarações de incentivos aprovadas dentro de 45 dias após o término do período de conquista. Você tem 90 dias após o final do período de conquista para contestar um pagamento. Para obter informações sobre os cálculos e métodos de pagamento, consulte o guia de venda do OSA, localizado na seção OSA em aka.ms/partnerincentives.
 
-## <a name="maintaining-your-program-eligibility"></a>Manter a sua qualificação do programa
+## <a name="maintaining-your-program-eligibility"></a>Mantendo a elegibilidade do programa
 
-Microsoft avalia qualificação mensal para os serviços Advisor vender incentivo para ganhar, cálculo e pagamento Online. Você deve atender aos critérios de qualificação específico antes Microsoft pode aprovar e pagamentos incentivos de versão. Para obter detalhes, consulte o guia de venda de OSA, localizado na seção OSA em aka.ms/partnerincentives.
+A Microsoft avalia a qualificação mensal para o incentivo de venda do supervisor de serviços online para ganhar, calcular e pagamento. Você deve atender a critérios de qualificação específicos antes que a Microsoft possa aprovar e liberar pagamentos de incentivos. Para obter detalhes, consulte o guia de venda do OSA, localizado na seção OSA em aka.ms/partnerincentives.
 
-#<a name="submit-an-osa-sell-fee-claim"></a>Enviar um OSA vender a declaração de taxa
+## <a name="submit-an-osa-sell-fee-claim"></a>Enviar uma declaração de taxa de venda de OSA
 
-Conclua as seguintes etapas para enviar uma declaração de incentivo no Partner Center.  
+Conclua as etapas a seguir para enviar uma declaração de incentivo no Partner Center.  
 
 >[!NOTE]
 
->Se sua empresa possui vários locais, certifique-se de usar a ID do MPN para o office localizado na mesma região geográfica que seu cliente. 
+>Se sua empresa tiver vários locais, certifique-se de usar a ID do MPN para o escritório localizado na mesma região geográfica que o cliente. 
 
-1.  Na página de visão geral, sob **todos os programas de incentivo**, selecione **OSA**.
+1.  Na página Visão geral, em **todos os programas de incentivo**, selecione **OSA**.
 
-2.  Na página de OSA, selecione **declaração...** e, em seguida, selecione **taxa incentivo**.
+2.  Na página OSA, selecione **reivindicação...** e, em seguida, selecione **taxa de incentivos**.
 
-3.  Insira o nome de domínio do seu cliente e a ID de diretório e, em seguida, selecione **continuar**. 
+3.  Insira o nome de domínio e a ID de diretório do seu cliente e, em seguida, selecione **continuar**. 
 
-4.  Selecione o produto, o cliente adquirido e, em seguida, selecione **continuar**. 
+4.  Selecione o produto que o cliente comprou e, em seguida, selecione **continuar**. 
 
-5.  Selecione a assinatura que você deseja associar com esta declaração e, em seguida, selecione **continuar**.
+5.  Selecione a assinatura que você deseja associar a essa declaração e, em seguida, selecione **continuar**.
 
->[!NOTES]
+>[!NOTE]
 
->Verifique se o nome e a região geográfica estão corretas antes de selecionar uma assinatura. 
+>Verifique se o nome e a região geográfica estão corretos antes de selecionar uma assinatura. 
 
->As assinaturas que estão associadas a outros supervisores de serviço online são marcadas com um triângulo amarelo. Você ainda pode optar por associar a eles. 
+>As assinaturas associadas a outros consultores de serviços online são marcadas com um triângulo amarelo. Você ainda pode optar por associá-los a eles. 
 
->Assinaturas associadas à sua empresa já não podem ser associadas novamente.  
+>As assinaturas já associadas à sua empresa não podem ser associadas novamente.  
 
-6.  Insira as informações de contato para o cliente e sua empresa, a declaração de nome e, em seguida, selecione **Criar declaração**. 
+6.  Insira as informações de contato para seu cliente e sua empresa, nomeie a declaração e, em seguida, selecione **criar declaração**. 
 
-7.  Na página de inscrição, carregue a documentação de prova de execução (POE) para o **prova de execução** caixa. Você pode usar o modelo POE ou documentos POE do processo de pré-vendas. 
+7.  Na página assinatura, carregue a documentação da POE (prova de execução) na caixa **prova de execução** . Você pode usar os documentos modelo POE ou POE do processo de pré-venda. 
 
-8.  Selecione **declaração de envio**.    
+8.  Selecione **Enviar declaração**.    
 
-Você pode ver o status de sua declaração na caixa de status da página de assinatura. Se forem necessárias informações adicionais, você será notificado lá também.
+Você pode ver o status da sua declaração na caixa status da página de assinatura. Se forem necessárias informações adicionais, você também será notificado ali.
 
-Para exibir seus dados de ganhos e pagamentos, consulte pagamentos e emissão de relatórios. 
+Para exibir seus dados de ganhos e pagamentos, consulte pagamentos e relatórios. 
  
-# <a name="submit-an-isv-revenue-association-claim"></a>Enviar uma declaração de associação de receita de ISV
+## <a name="submit-an-isv-revenue-association-claim"></a>Enviar uma declaração de associação de receita de ISV
 
-1.  Na página de visão geral, sob **todos os programas de incentivo**, selecione **OSA**.
+1.  Na página Visão geral, em **todos os programas de incentivo**, selecione **OSA**.
 
-2.  Na página de OSA, selecione **declaração...** e, em seguida, selecione **associação de receita de ISV**.
+2.  Na página OSA, selecione **declaração...** e, em seguida, selecione **Associação de receita de ISV**.
 
-3.  Insira o nome de domínio do seu cliente e a ID de diretório, selecione o produto ou produtos o cliente adquirido e, em seguida, selecione **continuar**. 
+3.  Insira o nome de domínio e a ID de diretório do seu cliente, selecione o produto ou os produtos adquiridos pelo cliente e selecione **continuar**. 
 
 4.  Selecione as assinaturas que você deseja associar a essa declaração e, em seguida, selecione **continuar**.
 
->[!NOTES]
+>[!NOTE]
 
->Verifique se o nome e a região geográfica estão corretas antes de selecionar uma assinatura. 
+>Verifique se o nome e a região geográfica estão corretos antes de selecionar uma assinatura. 
 
->Assinaturas associadas à sua empresa já não podem ser associadas novamente.  
+>As assinaturas já associadas à sua empresa não podem ser associadas novamente.  
 
-5.  Insira as informações para o **nome do vendedor de solução Dynamics**, **Customer name**, e **nome do ISV/solução de produto**e, em seguida, insira um nome para a declaração. 
+5.  Insira as informações para o **nome do vendedor da solução dinâmica**, o **nome do cliente**e o **nome do produto/solução ISV**e, em seguida, insira um nome para a declaração. 
 
-6.  Selecione **Criar declaração**. 
+6.  Selecione **criar declaração**. 
 
-Você pode ver o status de sua declaração na caixa de status da página de assinatura. Se forem necessárias informações adicionais, você será notificado lá também.
+Você pode ver o status da sua declaração na caixa status da página de assinatura. Se forem necessárias informações adicionais, você também será notificado ali.

@@ -1,20 +1,20 @@
 ---
 title: Confirmar a aceitação do cliente do contrato do cliente da Microsoft |Partner Center
 ms.topic: article
-ms.date: 08/28/2019
+ms.date: 09/30/2019
 Description: Como parceiro, você precisa obter a aceitação do cliente do contrato do cliente da Microsoft antes de poder solicitar produtos e serviços da Microsoft para esse cliente. Para ajudar melhor os parceiros a atender aos requisitos de conformidade, a Microsoft solicita que os parceiros confirmem a aceitação fornecendo determinados detalhes sobre a pessoa que aceitou o contrato.
 author: LauraBrenner
 ms.author: labrenne
 keywords: cliente, clientes, consentimento, MCA, contrato de Microsoft Cloud, contrato de cliente da Microsoft, modelos de contrato de cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 291d9fa48795067357888d5c0fa25027c3478705
-ms.sourcegitcommit: 282c72dbe419152e6b9dc73137acc538d0185649
-ms.translationtype: HT
+ms.openlocfilehash: 5247ab8ced05edbb05d2ed690f2375541d2b43aa
+ms.sourcegitcommit: 4b8cad9f24229767dd44fa9418fe57e10d74f390
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "70144333"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "71704182"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-preview"></a>Confirmar a aceitação do cliente do Contrato de Cliente da Microsoft (versão prévia)
+# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confirmar a aceitação do cliente do contrato do cliente da Microsoft
 
 Atualmente, antes que um parceiro CSP possa fazer o pedido em nome de um cliente, o cliente deve aceitar e assinar **o contrato**de Microsoft Cloud aplicável. Em seguida, o parceiro deve confirmar a aceitação do cliente fornecendo informações sobre o assinante à Microsoft. Caso a confirmação não seja fornecida:
 - Você não conseguirá criar novos pedidos para esse cliente.
@@ -28,12 +28,15 @@ Em 1º de outubro de 2019, a Microsoft apresentará o **contrato do cliente da M
 |------------|------------|--------------------------------|
 |1º de agosto de 2019|Visualização de UX disponível na área restrita|Os parceiros podem confirmar a aceitação do cliente do contrato de cliente da Microsoft usando o painel do Partner Center no ambiente de área restrita do CSP. Os parceiros com acesso ao ambiente de área restrita do CSP visualizam as alterações na experiência do usuário. Parceiros sem acesso à área restrita podem aprender sobre as alterações neste tópico.|
 |3 de setembro de 2019|A visualização da API está disponível na área restrita.|O parceiro pode confirmar a aceitação do cliente do contrato do cliente da Microsoft usando a API do Partner Center no ambiente de área restrita do CSP. Os parceiros de API podem usar essa oportunidade para visualizar as alterações de API e começar a trabalhar na integração de API para dar suporte ao novo contrato.|
-|13 de setembro de 2019|A versão prévia do SDK do .NET está disponível na área restrita.|O parceiro pode confirmar a aceitação do cliente do Contrato de Cliente da Microsoft usando o SDK do .NET do Partner Center no ambiente de área restrita do CSP. Os parceiros de API podem usar essa oportunidade para visualizar as alterações no SDK do .NET e começar a trabalhar na integração de API para oferecer suporte ao novo contrato.|
+|20 de setembro de 2019|A versão prévia do SDK do .NET está disponível na área restrita.|O parceiro pode confirmar a aceitação do cliente do Contrato de Cliente da Microsoft usando o SDK do .NET do Partner Center no ambiente de área restrita do CSP. Os parceiros de API podem usar essa oportunidade para visualizar as alterações no SDK do .NET e começar a trabalhar na integração de API para oferecer suporte ao novo contrato.|
 |1º de outubro de 2019|Contrato de cliente da Microsoft disponível em produção|A Microsoft apresenta o contrato do cliente da Microsoft ao programa CSP para substituir o contrato de Microsoft Cloud. Os parceiros podem confirmar a aceitação do cliente do contrato de cliente da Microsoft usando o painel do Partner Center e a API em produção. O contrato de Microsoft Cloud permanece com suporte no programa de parceiro CSP. No entanto, os parceiros são aconselhados a começar a migrar para o contrato do cliente da Microsoft. As novas compras e as alterações na contagem de estações para assinaturas existentes exigirão a confirmação do parceiro do contrato do cliente da Microsoft ou do contrato de Microsoft Cloud. Certas ofertas novas (por exemplo, o novo plano do Azure) exigirão a confirmação do contrato do cliente da Microsoft.|
 |31 de janeiro de 2020|Contrato de Microsoft Cloud removido da produção|O contrato de Microsoft Cloud não é mais aceito no programa de parceiro CSP. As novas compras e as alterações na contagem de estações para assinaturas existentes exigirão que o parceiro forneça a confirmação do contrato com o cliente da Microsoft. Esse requisito se aplica a novos clientes e clientes existentes que podem ter aceitado anteriormente o contrato de Microsoft Cloud.|
 
-## <a name="confirm-customer-acceptance-using-partner-center-api"></a>Confirmar a aceitação do cliente usando a API do Partner Center
-A partir de 3 de setembro de 2019, a API para os parceiros confirmarem a aceitação do Contrato de Cliente da Microsoft pelo cliente estará disponível para versão prévia no ambiente de área restrita do CSP. Para obter detalhes sobre a API, confira:
+## <a name="access-microsoft-customer-agreement-template"></a>Acessar o modelo de contrato do cliente Microsoft
+Os parceiros podem baixar manualmente a versão mais recente do modelo de contrato do cliente da Microsoft [aqui](https://aka.ms/customeragreement). Observe que o contrato do cliente da Microsoft é específico ao país. Ao solicitar o modelo de contrato do cliente da Microsoft, certifique-se de selecionar o país correto com base no local do cliente. 
+
+## <a name="confirm-customer-acceptance-using-partner-center-apisdk"></a>Confirmar a aceitação do cliente usando a API/SDK do Partner Center
+Os parceiros podem usar a API/SDK do Partner Center para confirmar a aceitação do cliente do contrato do cliente da Microsoft. Para obter detalhes sobre a API/SDK, consulte:
 
 - [Obter metadados do Contrato de Cliente da Microsoft](https://docs.microsoft.com/partner-center/develop/get-customer-agreement-metadata)
 
@@ -45,7 +48,7 @@ A partir de 3 de setembro de 2019, a API para os parceiros confirmarem a aceita�
 
 
 ## <a name="confirm-customer-acceptance-in-partner-center"></a>Confirmar a aceitação do cliente no Partner Center
-A partir de 1º de agosto de 2019, a experiência do usuário para os parceiros confirmarem a aceitação do Contrato de Cliente da Microsoft pelo cliente está disponível para versão prévia no ambiente de área restrita do CSP.
+Os parceiros podem confirmar a aceitação do cliente do contrato de cliente da Microsoft no Partner Center para novos clientes e clientes existentes.
 
 ### <a name="confirm-customer-acceptance-for-new-customers"></a>Confirmar a aceitação do cliente para novos clientes
 
@@ -90,5 +93,3 @@ Você pode recuperar a confirmação de que um cliente existente aceitou o contr
 2. Selecione **Informações da Conta**.
 
 3. Em **contrato de cliente da Microsoft**, veja se a confirmação tem ou não foi fornecida por este cliente.
-
-

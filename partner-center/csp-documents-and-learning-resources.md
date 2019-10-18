@@ -1,19 +1,19 @@
 ---
 title: Listas de preços, ofertas e contratos de CSP | Partner Center
 ms.topic: article
-ms.date: 08/29/2019
+ms.date: 09/23/2019
 description: Este artigo inclui links para guias do programa Provedor de Soluções na Nuvem, contratos de parceiro, contratos do cliente, listas de preços e ofertas.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: guias de programa csp, guia de programa, acordos de parceria, contrato do cliente, listas de preço, ofertas
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c566b43a0624a90bad746852e971a316b085005
-ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
-ms.translationtype: HT
+ms.openlocfilehash: 03f6730f8b52e17c044e67f1ced982fbbabab59d
+ms.sourcegitcommit: 8a494949f5c4efdcf33b01760d2ae10405f1daae
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "70259911"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "71204637"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Contratos, listas de preços, ofertas e guia de programa do Provedor de Soluções na Nuvem
 
@@ -33,6 +33,10 @@ Examine os requisitos para se tornar um parceiro no programa de Provedor de Solu
 
 >[!Note]
 >Se você precisar de uma carta de negócios confirmando ou certificando seu status como um parceiro da Microsoft aprovado no programa de Provedor de Soluções na Nuvem, [entre em contato com o suporte](https://partner.microsoft.com/pcv/servicerequests/create) para solicitar um.
+
+### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Termos de oferta adicionais para o contrato de parceiro da Microsoft
+
+[Guia de termos de oferta complementar para assinaturas de serviços online e autorização de canal de software](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Contrato da Microsoft Cloud: modelos de cliente
 

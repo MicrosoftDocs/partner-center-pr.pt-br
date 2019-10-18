@@ -7,12 +7,12 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 71dce0a25d025a167e223f0b1cbc86c6f0262a84
-ms.sourcegitcommit: df8e92aa233bd7d0cecb300cafc2306d4d52dc2b
-ms.translationtype: HT
+ms.openlocfilehash: 3eb6879e1681ec46d445b6f5ea3791ae8f022ad4
+ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/06/2019
-ms.locfileid: "70737614"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "70921484"
 ---
 # <a name="microsoft-partner-agreement-for-csp-partners"></a>Contrato de Parceiro da Microsoft para parceiros CSP 
 
@@ -21,6 +21,11 @@ O Contrato de Parceiro da Microsoft fornece aos parceiros um contrato simples, u
 Os parceiros do programa de Provedor de Soluções na Nuvem, incluindo provedores indiretos, revendedores indiretos e parceiros de cobrança direta, poderão concluir a assinatura online no Partner Center. Os parceiros de provedores indiretos e de cobrança direta que operam na nuvem governamental também poderão assinar o MPA no Partner Center.
 
 Você precisa assinar o Contrato de Parceiro da Microsoft antes de 31 de janeiro de 2020 para continuar participando do programa CSP. O Partner Center lembrará você de que agora é possível assinar o contrato no Partner Center facilmente. 
+
+## <a name="microsoft-customer-agreement"></a>Contrato com o cliente da Microsoft
+
+A aceitação do cliente do contrato do cliente da Microsoft (MCuA) será necessária no CSP para compras de serviços do Azure por meio de um plano do Azure e para todas as outras ofertas no CSP adquiridas após 31 de janeiro de 2020. Leia [confirmar a aceitação do cliente do contrato do cliente da Microsoft (versão prévia)](confirm-customer-agreement.md)
+ 
 
 
 

@@ -1,71 +1,71 @@
 ---
-title: Verifique se você estiver creditado para retenção de imposto | Partner Center
+title: Verifique se você está creditado na retenção de imposto | Centro de parceiros
 ms.topic: article
 ms.date: 05/28/2019
-description: Você precisará de seu formulário de crédito de retenção de imposto e o certificado de retenção de imposto para abrir uma solicitação de serviço.
+description: Você precisará do formulário de crédito de imposto sobre retenção e do certificado de retenção de imposto para abrir uma solicitação de serviço.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: LauraBrenner
 ms.author: labrenne
-keywords: crédito de retenção de imposto, créditos de imposto, formulário de crédito alemão imposto, crédito de formulário de imposto
+keywords: crédito de retenção de imposto, créditos de impostos, formulário de crédito de imposto alemão, crédito de imposto de formulário
 ms.localizationpriority: medium
-ms.openlocfilehash: ace9d1cca5db0a6aba83a0eb9856374b39d56b62
-ms.sourcegitcommit: f55f9389bc1feacb1a3acc1725ab5edabadf090a
-ms.translationtype: HT
+ms.openlocfilehash: e386bc2eda01cef16173569f4b5288c4bba2d02a
+ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "67207573"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "70921460"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Verifique se que você estiver creditado para retenção de imposto
+# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Verifique se você está creditado para a retenção de imposto
 
 >[!Note]
->Este tópico aborda como abrir uma solicitação de serviço usando a retenção de imposto global ou no formulário de retenção de imposto para a Alemanha.
+>Este tópico aborda como abrir uma solicitação de serviço usando o formulário de imposto de retenção global ou o formulário de imposto de retenção para a Alemanha.
 
-Para sua conta a ser creditado para retenção de imposto, você precisa preencher o formulário de crédito de retenção de imposto. O formulário fornece à Microsoft com a nota fiscal, valor pago à Microsoft, o valor de retenção de imposto, percentual de retenção de imposto, o tipo de pagamento e a empresa que é pago se diferentes da Microsoft.  
+Para que sua conta seja creditada para a retenção de imposto, você precisará concluir o formulário de crédito da retenção de imposto. O formulário fornece à Microsoft a fatura, o valor pago à Microsoft, o valor da retenção de imposto, a porcentagem de retenção de imposto, o tipo de pagamento e a empresa que foi paga se for diferente da Microsoft.  
 
-## <a name="global-withholding-tax-credit-form"></a>Formulário de crédito global de retenção de imposto
+## <a name="global-withholding-tax-credit-form"></a>Formulário de crédito de imposto retido na fonte global
 
-Preencher esse [formulário](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311) completamente e incluí-lo junto com a cópia digital do seu certificado de retenção de imposto que você recebeu da sua agência imposto local quando você envia sua solicitação no Partner Center.
+Preencha esse [formulário](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311) completamente e inclua-o junto com a cópia digital do seu certificado de retenção de imposto que você recebeu de sua agência de impostos local ao enviar sua solicitação no Partner Center.
 >[!IMPORTANT]
->O total no certificado de retenção de imposto deve coincidir com os detalhes de suporte na forma de crédito de retenção de imposto. Sua conta não será creditada, a menos que recebemos este formulário, juntamente com a cópia digital do certificado de retenção de imposto.
+>O total no certificado de retenção de imposto deve corresponder aos detalhes de suporte no formulário de crédito da retenção de imposto. Sua conta não será creditada a menos que recebamos esse formulário junto com a cópia digital do certificado de imposto retido na fonte.
 
 ### <a name="before-opening-the-service-request"></a>Antes de abrir a solicitação de serviço:
 
-- Verifique se o formulário inclui seu nome da empresa e o país e o formulário é assinado e datado com precisão. Aqui estão os formulários de crédito de imposto: Para [Alemanha](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) e [todos os outros países](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311).
+- Verifique se o formulário inclui o nome e o país da sua empresa, o número do certificado da retenção de imposto e se o formulário está assinado e com data de precisão. Aqui estão os formulários de crédito tributário: para a [Alemanha](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) e [todos os outros países](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311).
 
-- Registre com precisão a % de quantidade adequada de retenção de imposto com base em suas informações de autoridade de imposto de local.
+- Registre com precisão o valor de imposto retido na fonte adequado com base nas informações de sua autoridade de imposto local.
 
-- Certifique-se de que a quantidade total no formulário de imposto de crédito corresponde os totais de faturas que estiver enviando. 
+- Certifique-se de que o valor total no formulário de crédito fiscal corresponda aos totais das notas fiscais que você está enviando. 
 
-- Depois que você pronto essa informação, criar a solicitação de serviço.
+- Quando você tiver essas informações prontas, crie a solicitação de serviço.
 
-## <a name="cloud-solution-provider-partners"></a>Parceiros de provedor de soluções de nuvem
+## <a name="cloud-solution-provider-partners"></a>Parceiros do provedor de soluções na nuvem
 
 >[!Note]
->Essas informações são para parceiros de fatura direto e indiretos provedores apenas. Revendedores indiretos devem funcionar por meio de seus provedores indiretos.
+>Essas informações são apenas para parceiros de cobrança direta e provedores indiretos. Revendedores indiretos devem funcionar por meio de seus provedores indiretos.
 
-### <a name="how-to-submit-the-tax-credit-form-and-the-certificates"></a>Como enviar o formulário de imposto de crédito e os certificados
+### <a name="how-to-submit-the-tax-credit-form-and-the-certificates"></a>Como enviar o formulário de crédito fiscal e os certificados
 
-1. Selecione o **ponto de interrogação** **(?)**  no uppor canto direito do painel no Partner Center.
+1. Selecione o **ponto de interrogação** **(?)** no canto direito uppor do seu painel no Partner Center.
 2. Selecione **solicitações de suporte do parceiro**.
-3. Selecione **nova solicitação** e, em **detalhes**, selecione **ajudar com o arquivo de reconciliação, pagamento ou nota fiscal de parceiro.**
-4. Quando você envia a solicitação de serviço, certifique-se de anexar o formulário de crédito de imposto e cópias digitais dos certificados de imposto.
-5. Se você estiver enviando um certificado de imposto diferente do inglês por meio de uma solicitação de serviço em inglês, uma tradução do certificado de imposto é necessária.
-6. Entraremos em contato diretamente por email ou telefone.
+3. Selecione **nova solicitação** e, em **detalhes**, selecione **ajuda com nota fiscal do parceiro, pagamento ou arquivo de reconciliação.**
+4. Ao enviar a solicitação de serviço, lembre-se de anexar o formulário de crédito fiscal e as cópias digitais dos certificados de imposto.
+5. Se você estiver enviando um certificado de imposto que não esteja em inglês por meio de uma solicitação de serviço em inglês, uma tradução do certificado de imposto será necessária.
+6. Entraremos em contato com você diretamente por email ou telefone.
 
-Usando o **pagamento de pagamento de fatura** método, depois que o imposto sobre certificados são recebidos e validados com êxito, o saldo resultante na sua fatura será limpa em aproximadamente uma semana. 
+Usando o método de pagamento de pagamento de **Nota Fiscal** , depois que os certificados de imposto são recebidos e validados com êxito, o saldo restante em sua fatura será limpo em aproximadamente uma semana. 
 
-Os certificados de imposto devem ser para somente notas fiscais de Microsoft. Se você tiver outras empresas que incluem os certificados, especifique a quantidade, de modo que podemos pode excluir o valor do nosso processamento interno, mas ainda tenha visibilidade total para o que incluem os certificados de total. 
+Os certificados de imposto devem ser apenas para faturas da Microsoft. Se você tiver outras empresas que os certificados incluem, especifique o valor, de modo que possamos excluir o valor em nosso processamento interno, mas ainda terá visibilidade total do que o total de certificados inclui. 
 
 ## <a name="instructions-for-completing-the-withholding-tax-credit-form-for-germany"></a>Instruções para concluir o formulário de crédito de retenção de imposto para a Alemanha
 
-Preencha a [formulário de crédito de retenção de imposto](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) completamente e enviá-lo junto com a cópia digitalizada do certificado após o envio da sua solicitação no Partner Center ou em seu Portal do Azure/O365/CRM/Intune retenção de imposto. 
+Preencha o [formulário de crédito da retenção de imposto](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) por completo e envie-o junto com a cópia digitalizada do certificado de retenção de imposto após o envio de sua solicitação no Partner Center ou no portal do Azure/O365/CRM/Intune. 
 
-Além disso, as cópias impressas dos certificados para retenção de imposto de email:
+Além disso, envie o Hardcopies dos certificados de retenção de imposto para:
 
-ATTN: Gannon de Marianne de equipe do EOC imposto
+ATTN: equipe de impostos do EOC Marianne Gannon
 
-Microsoft EMEA Operations Centre
+Centro de operações da EMEA da Microsoft
 
-Um único local da Microsoft, Sul County Business Park
+Um local da Microsoft, parque de negócios do condado do Sul
 
 Leopardstown, Dublin 18, Irlanda

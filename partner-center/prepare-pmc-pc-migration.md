@@ -6,12 +6,12 @@ description: O que pensar antes de mover seus negócios do PMC para o Partner Ce
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d6db2dcb5ac53e29d907c09ca2b16d123b21c07f
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: bbce4677e88c82cb3f2826fb37823d2746d12e61
+ms.sourcegitcommit: f54b679ce5058793a52795c6f93b0e98311805e1
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820575"
+ms.lasthandoff: 09/17/2019
+ms.locfileid: "71060498"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Prepare-se para a migração do Partner Membership Center (PMC) para o Partner Center
 
@@ -26,14 +26,19 @@ Uma conta corporativa do Azure é uma representação virtual dedicada e isolada
 Sua conta de trabalho hospeda seus usuários do Azure AD e as informações sobre eles-seus emails, senhas, dados de perfil, permissões e assim por diante. A conta corporativa também contém grupos, aplicativos e outras informações pertencentes a uma empresa e sua segurança. Para obter mais informações, consulte...
 
 No Partner Center, você usará seu email de trabalho para entrar em sua conta, não seu email pessoal.
-- Sua conta corporativa:john@contoso.com
-- Sua conta pessoal:John@outlook.com
+- Sua conta corporativa: john@contoso.com
+- Sua conta pessoal: John@outlook.com
 
 Seu email de trabalho faz parte do seu locatário do Azure Active Directory. Para ter uma conta no Partner Center, você precisa ter um locatário do AAD. Para obter mais informações sobre Azure Active Directory, leia [criar seu diretório no Azure ad](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
 
 **Quando você passa para o Partner Center da PMC, qual conta você deve entrar no Partner Center com se você tiver um locatário do AAD com a Microsoft (para o Office 365, por exemplo) e também tiver um locatário para seu negócio CSP?**
 
 Você pode entrar no Partner Center com a conta do CSP ou sua conta de email do MPN work. Se você optar por entrar usando seu email de trabalho do CSP, a navegação à esquerda no painel exibirá as informações do programa MPN e do CSP. Se você entrar com seu email de locatário do Azure AD MPN, verá apenas as informações do programa MPN. As funções de usuário diferem entre MPN e CSP, portanto, se você usar a mesma conta para os negócios do MPN e do CSP, certifique-se de atribuir funções de usuário de forma adequada. Para obter informações sobre funções de usuário, leia [atribuir funções de usuário e permissões](permissions-overview.md).
+
+**Se você não quiser usar seu locatário existente do Azure AD do Office 365 para o Partner Center, poderá criar um novo locatário antes de migrar do PMC.**
+
+Pode haver muitos motivos pelos quais você não deseja usar um locatário do Azure AD existente para configurar sua conta do Partner Center. Antes de começar a migrar para o Partner Center, acesse o [portal do Azure](https://ms.portal.azure.com/#home) para criar um novo locatário do Azure AD. Siga as orientações em [criar um novo locatário no Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant). Depois de criar o novo locatário, use este locatário do AAD para configurar sua conta do Partner Center quando você passar do PMC para o Partner Center. Você deve ser um administrador global para criar o locatário. Use esse novo diretório para migrar para o Partner Center.
+
 
 **Qual é a diferença entre a função de administrador global do AAD e a função de administrador global do PMC MPN?**
 
@@ -122,11 +127,11 @@ Sim, o compentencies não será afetado pela mudança para o Partner Center. Se 
  **As nossas contas da Microsoft que têm as alocações de benefícios do Visual Studio serão respeitadas?**
 
 
- Sim. Os benefícios do Visual Studio alocados para o MSAs serão respeitados e mantidos. Eles também serão preservados após a renovação no Partner Center. No entanto, se você remover uma alocação de MSA uma vez migrada no Partner Center, ela não poderá ser adicionada novamente ao Partner Center.
+ Sim. Os benefícios do Visual Studio alocados para o MSAs serão respeitados e mantidos. Eles também serão preservados após a renovação no Partner Center. No entanto, se você remover uma alocação de MSA uma vez que ela já tenha sido migrada no Partner Center, ela não poderá ser adicionada novamente ao Partner Center.
 
-No Partner Center, um parceiro pode adicionar contas de trabalho e contas de usuário convidado que são MSA do mesmo locatário em que o parceiro é MPN admin no locatário do Azure AD. Se o parceiro for um administrador global em vários locatários do Azure AD e todos esses locatários estiverem associados à mesma conta do Partner Center, o parceiro poderá adicionar usuários em todos esses locatários aos benefícios do Visual Studio e às alocações baseadas no uso do Azure.
+No Partner Center, um parceiro pode adicionar contas corporativas e contas de usuário convidado que são MSA por meio do mesmo locatário em que o parceiro é administrador MPN no locatário do Azure AD. Se o parceiro for um administrador global em vários locatários do Azure AD e todos esses locatários estiverem associados à mesma conta do Partner Center, o parceiro poderá adicionar usuários em todos esses locatários aos benefícios do Visual Studio e às alocações baseadas em uso do Azure.
 
-Embora os usuários convidados possam receber assinaturas baseadas em uso do Visual Studio pelo administrador do MPN ou pelo administrador global, os usuários convidados não podem entrar no Partner Center usando o MSA. No entanto, os usuários convidados podem entrar no Azure e no Visual Studio para validar e usar seus benefícios atribuídos.
+Embora os usuários convidados possam receber assinaturas baseadas em uso do Visual Studio pelo administrador do MPN ou pelo administrador global, os usuários convidados não podem entrar no Partner Center usando as respectivas MSAs. No entanto, os usuários convidados podem entrar no Azure e no Visual Studio para validar e usar os respectivos benefícios atribuídos.
 
 
  **Como devemos gerenciar nossas associações do MCP e nosso acesso do Partner University?**

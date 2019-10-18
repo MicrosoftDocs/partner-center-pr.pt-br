@@ -7,18 +7,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migração, mover para o Partner Center
 ms.localizationpriority: medium
-ms.openlocfilehash: d25ec40acd22e2baae577b250d2924b2c9b1e6e0
-ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
-ms.translationtype: HT
+ms.openlocfilehash: b7cc7104d648eff3a5461d950345c283a307ea6c
+ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "70259924"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "70921472"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Migração do PMC para o Partner Center
 
 Estamos tornando mais fácil para você fazer negócios conosco, introduzindo um único site (Partner Center) que serve como um ponto central de envolvimento. Você descobrirá que tudo o que fazia no PMC (Partner Membership Center) pode ser realizado em seu painel no Partner Center. 
 
-Você também pode fazer muito mais, tudo sem sair de um único site da Web. No entanto, alguns dos recursos e a terminologia podem parecer diferentes. Para atenuar as preocupações iniciais sobre onde as coisas estão e o que são, faça o tour pelo site do seu painel.
+Você também pode fazer muito mais, tudo sem sair de um único site da Web. No entanto, alguns dos recursos e a terminologia podem parecer diferentes. Para reduzir as preocupações iniciais sobre onde e quais são as coisas, certifique-se de fazer o Tour do site do seu painel.
 
 Esta tabela apresenta algumas das diferenças entre o PMC e o Partner Center.
 
@@ -34,7 +34,7 @@ Esta tabela apresenta algumas das diferenças entre o PMC e o Partner Center.
 |----------------------|:-----------------------------|
 |Sede mais localizações – cada uma avaliada separadamente. A avaliação de competências foi feita no nível local|Uma empresa global, sua PGA (conta global do parceiro), incluindo locais, avaliada como um todo; dados de desempenho e habilidades agregados no nível de PGA; inclui várias exibições de perfil para programas como Perfil de parceiro e perfil de negócios para referências e marketing. Para obter mais informações, veja [A estrutura de conta no Partner Center](https://docs.microsoft.com/partner-center/account-structure.md).|
 
-## <a name="sign-in"></a>Entrar
+## <a name="sign-in"></a>Entre
 
 |**PMC**   |**Partner Center**|
 |----------------------|:-----------------------------|
@@ -80,7 +80,7 @@ Esta tabela apresenta algumas das diferenças entre o PMC e o Partner Center.
 |PDD  |Benefícios|
 |CHIP, ICP, PIE | Incentivos|
 ||Indicações|
-|Insights do Parceiro| Análise|
+|Insights do Parceiro| Análises|
 |Ferramenta de Validação e Resgate de Comprovante| Ferramenta de Validação e Resgate de Comprovante|
 |           |Programas de Provedor de Soluções na Nuvem|
 

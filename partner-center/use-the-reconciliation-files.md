@@ -7,19 +7,19 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8fae84790aa84b3c5a006d65a632668a33ac24a7
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: cbc982fa5bf6848cb77a2de2dcdaa7660c422888
+ms.sourcegitcommit: 30f946b3c5c2c30a5ee3276037385ea97e644781
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820560"
+ms.lasthandoff: 10/03/2019
+ms.locfileid: "71931575"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar os arquivos de reconciliação
 
 **Aplica-se a**
 
 -  Partner Center
--  Partner Center para Microsoft Cloud for US Government
+-  Partner Center do Microsoft Cloud for US Government
 
 
 Para obter uma exibição detalhada de item de linha de cada encargo em um ciclo de cobrança, baixe os arquivos de reconciliação do Partner Center. Os detalhes incluem encargos por assinaturas de cada cliente e eventos detalhados (como a adição de assentos a uma assinatura no meio do período).
@@ -35,7 +35,7 @@ Ocasionalmente, seu arquivo reconhecimento pode ter problemas de formatação. (
 
 <li>No campo delimitadores, selecione <strong>vírgula</strong>. Se a <strong>guia</strong> já estiver selecionada, você poderá deixá-la. Selecione <strong>Avançar</strong>.</li>
 
-<li>No campo formato de dados da coluna, <strong>selecione Data: MDY</strong>e, em seguida, selecione <strong>Avançar</strong>.</li> 
+<li>No campo formato de dados da coluna, selecione <strong>Data: MDY</strong>e, em seguida, selecione <strong>Avançar</strong>.</li> 
 
 <li>No campo formato de dados da coluna, selecione <strong>texto</strong> para todas as colunas de valor e, em seguida, selecione <strong>concluir</strong>.</li>
 </ol>
@@ -92,12 +92,12 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Coluna</strong></td>
+<td><strong>Pilha</strong></td>
 <td><strong>Descrição</strong></td>
 <td><strong>Valor de exemplo</strong></td>
 </tr>
 <tr class="even">
-<td>PartnerID</td>
+<td>PartnerId</td>
 <td><p>Identificador exclusivo de uma entidade de cobrança específica, em formato GUID. Não é necessário para reconciliação, mas pode ser uma informação útil. O mesmo em todas as linhas.</p></td>
 <td>8ddd03642-test-test-test-46b58d356b4e</td>
 </tr>
@@ -126,13 +126,13 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 <tr class="odd">
 <td>OfferID</td>
 <td><p>ID exclusivo da oferta. ID padrão da oferta de acordo com a lista de preços.</p>
-<p><b>Observação</b>: Esse valor não corresponde à ID da oferta da lista de preços. Veja DurableOfferID abaixo.</p></td>
+<p><b>Observação</b>: esse valor não coincide com a ID de oferta da lista de preços. Veja DurableOfferID abaixo.</p></td>
 <td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
-<td><p>ID exclusivo da oferta durável, conforme definido na tabela de preços.</p>
-<p><b>Observação</b>: Esse valor corresponde à ID da oferta da lista de preços.</p></td>
+<td><p>ID exclusiva da oferta durável, conforme definido na tabela de preços.</p>
+<p><b>Observação</b>: esse valor corresponde à ID de oferta da lista de preços.</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
@@ -148,7 +148,7 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 </tr>
 <tr class="odd">
 <td>SubscriptionEndDate</td>
-<td><p>A data de término da assinatura: 12 meses + x dias após a data de início (para alinhar com a data de cobrança do parceiro) ou 12 meses a partir da data de renovação.</p>
+<td><p>A data do término da assinatura: 12 meses + x dias após a data de início (para se alinhar com a data de cobrança do parceiro) ou 12 meses a partir da data de renovação.</p>
 <p>Na renovação, os preços são atualizados com a tabela de preços atual. Um comunicado ao cliente pode ser necessário antes da renovação automática.</p>
 <p>A hora é sempre o início do dia, 0:00.</p></td>
 <td>1/2/2015 0:00</td>
@@ -178,12 +178,12 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 <td>6.82</td>
 </tr>
 <tr class="even">
-<td>Quantidade</td>
+<td>Quantity</td>
 <td><p>Número de assentos. Isso deve coincidir com a informação armazenada em seu sistema de cobrança durante a reconciliação.</p></td>
 <td>2</td>
 </tr>
 <tr class="odd">
-<td>Valor</td>
+<td>Amount</td>
 <td><p>Preço total por quantidade. Útil para verificar se o cálculo do valor coincide com a forma como você calcula isso para seus clientes.</p></td>
 <td>13.32</td>
 </tr>
@@ -261,7 +261,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Coluna</strong></td>
+<td><strong>Pilha</strong></td>
 <td><strong>Descrição</strong></td>
 <td><strong>Valor de exemplo</strong></td>
 </tr>
@@ -360,7 +360,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Região</td>
+<td>Region</td>
 <td><p>A região a qual o uso se aplica. Usado principalmente para atribuir as taxas de transferências de dados, já que as taxas variam de acordo com a região.</p></td>
 <td>Pacífico Asiático, Europa, América Latina e América do Norte</td>
 </tr>
@@ -464,7 +464,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>O número de conexões ServiceBus que foram provisionados e utilizados em um dia específico.</p></td>
-<td>Por exemplo: se você tivesse uma conexão individualmente provisionada durante um mês de 30 dias, a coluna Informação do Serviço 1 lerá "1,000000 conexões/30 dias". Se você tiver um pacote de 25 pacotes de conexões do ServiceBus provisionado e tiver utilizado 1 durante esse dia, sua instrução de uso diário para esse dia indicaria "25 conexões/30 dias – usado: 1, 0 ".</td>
+<td>Por exemplo: se você tivesse uma conexão individualmente provisionada durante um mês de 30 dias, a coluna Informação do Serviço 1 lerá "1,000000 conexões/30 dias". Se você tinha um pacote de 25 conexões ServiceBus provisionadas e você utilizou 1 durante o dia, sua declaração de uso diário para esse dia indicaria "25 conexões/30 dias – Usado: 1,000000".</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
@@ -499,9 +499,8 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </thead>
 <tbody>
 
-
 <tr class="odd">
-<td>PartnerID</td>
+<td>PartnerId</td>
 <td><p>Identificador de locatário de Microsoft Azure Active Directory exclusivo para uma entidade de cobrança específica, no formato GUID. Não é necessário para reconciliação, mas pode ser uma informação útil. O mesmo em todas as linhas.</p></td>
 </tr>
 
@@ -531,7 +530,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tr>
 
 <tr class="odd">
-<td>MpnID</td>
+<td>MpnId</td>
 <td><p>ID do MPN do parceiro CSP.</p></td>
 </tr>
 
@@ -626,7 +625,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tr>
 
 <tr class="even">
-<td>Quantidade</td>
+<td>Quantity</td>
 <td><p>Número de unidades. Isso deve coincidir com a informação armazenada em seu sistema de cobrança durante a reconciliação.</p></td>
 </tr>
 
@@ -664,6 +663,12 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 <td>Uma alternateid</td>
 <td><p>Um identificador alternativo para uma ID de pedido.</p></td>
 </tr>
+
+<tr class="even">
+<td>BillingFrequency</td>
+<td><p> Exibe mensalmente quando a cobrança mensal está habilitada. Caso contrário, em branco. </p></td>
+</tr>
+
 </tbody>
 </table>
 
@@ -685,7 +690,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 <tbody>
 
 <tr class="odd">
-<td>PartnerID</td>
+<td>PartnerId</td>
 <td><p>ID do parceiro, no formato GUID.</p></td>
 </tr>
 
@@ -851,7 +856,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tr>
 
 <tr class="odd">
-<td>Quantidade</td>
+<td>Quantity</td>
 <td><p>Número de licenças. Isso deve coincidir com a informação armazenada em seu sistema de cobrança durante a reconciliação.</p></td>
 </tr>
 
@@ -949,7 +954,7 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 </tr>
 <tr>
 <td>
-<p>Taxa do ciclo</p>
+<p>Taxa do Ciclo</p>
 </td>
 <td>
 <p>Encargos periódicos de uma assinatura</p>
@@ -1032,7 +1037,7 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 </tr>
 <tr>
 <td>
-<p>addquantity</p>
+<p>addQuantity</p>
 </td>
 <td>
 <p>Usado tanto no reembolso da compra original quanto na nova quantidade após o aumento</p>
@@ -1052,7 +1057,7 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 </tr>
 <tr>
 <td>
-<p>Cancel</p>
+<p>Cancelar</p>
 </td>
 <td>
 <p>Usado quando uma assinatura é cancelada</p>
@@ -1168,7 +1173,7 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 </td>
 <td>
 <p><em>Pode ser aplicado a vários tipos de cobrança</em></p>
-<p><em>Exception &quot;Deslocar um item&quot; de linha já inclui impostos. Consulte créditos, acima.</em></p>
+<p><em>Exceção: &quot;Offset um item de linha &quot; já inclui impostos. Consulte créditos, acima.</em></p>
 </td>
 <td>
 <p>Impostos ou impostos sobre valor agregado (IVA)</p>

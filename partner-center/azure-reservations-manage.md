@@ -8,19 +8,19 @@ ms.author: labrenne
 keywords: Azure, reservas, gerenciar, cobrança, compra, cancelamento, troca, taxa de encerramento antecipado
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 56802383a363afabc84932afd099bdb4c0a85a66
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.openlocfilehash: b7e9726acbba54daf8404fdf4a3d2b4961c5123a
+ms.sourcegitcommit: 4b8cad9f24229767dd44fa9418fe57e10d74f390
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708763"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "71704155"
 ---
-# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gerenciar reservas do Microsoft Azure em nome dos seus clientes
+# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gerenciar Reservas do Microsoft Azure em nome de seus clientes       
 
 **Aplica-se a**
 
 -  Partner Center
--  Portal do Microsoft Azure
+-  Portal do Microsoft Azure 
 -  Parceiros no CSP
 
 Para gerenciar as reservas do Azure de seus clientes após a compra, você selecionará o cliente e a reserva que deseja gerenciar no Partner Center e, em seguida, fará alterações na reserva no portal do Azure. 
@@ -31,7 +31,7 @@ Para gerenciar as reservas do Azure de seus clientes após a compra, você selec
 
 3. Em **Ações**, selecione **Gerenciar** para ir para registro de reserva do cliente no portal do Azure. Na página de detalhes da reserva, siga as etapas abaixo para concluir tarefas.  
 
-    | **Não**   | **To**    |
+    | **Não**   | **Para**    |
     |:-----------------------------|:-----------------|
     | **Visão geral**   | Exiba detalhes da reserva de um cliente, incluindo data de validade, escopo e dados de utilização. **OBSERVAÇÃO** Selecione **Reembolso** para criar uma solicitação de suporte para obter um reembolso proporcional. Selecione **Trocar** para criar uma solicitação de suporte para trocar a parte não utilizada do seu termo de reserva.  
     | **Controle de acesso (IAM)**   | Gerencie o acesso às informações de reserva do cliente.|
@@ -85,7 +85,7 @@ Para arquivar uma solicitação de suporte para um reembolso ou troca em nome de
 
     |**Etapa**                    |**Seleções**    |
     |:---------------------------|:-----------------|
-    |**1 noções básicas**                |Tipo de problema: Horas.  |
+    |**1 noções básicas**                |Tipo de problema: Cobrança.  |
     |**2 problema**               |Tipo de problema: Gerenciamento de reserva. Categoria: Trocas e reembolsos. |
     |**3 informações de contato**   |Selecione suas preferências e insira as informações necessárias. 
 

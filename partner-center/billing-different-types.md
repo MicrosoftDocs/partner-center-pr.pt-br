@@ -1,19 +1,19 @@
 ---
 title: Noções básicas sobre os tipos de cobrança no Partner Center | Partner Center
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 10/04/2019
 Description: Informações sobre diferentes tipos de cobrança, períodos de cobrança e datas de cobrança
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: cobrança, pagamentos, pedidos, arquivos de reconciliação, arquivo de reconhecimento
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 38ad28fb74968d351d6031e21446f02d22f7e4fa
-ms.sourcegitcommit: ba0b0eea3dbc028ec162f58b841ba9e3588f1dca
-ms.translationtype: HT
+ms.openlocfilehash: 28a5405a033061e5665d0f1e5f937cd3951f09b9
+ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "70134619"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "71997840"
 ---
 # <a name="understanding-the-types-of-billing-in-partner-center"></a>Entendendo os tipos de cobrança no Partner Center
 
@@ -160,3 +160,23 @@ Nesse cenário, você compra uma assinatura do SaaS do medidor personalizado no 
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|:-----:|
 |10/06/2019 (você tem uma licença) |Bronze     |10/06/2019   |10/06/2019         |US$ 10        |1         |US$ 10            |Novo      |
 |10/06/2019 (você tem 0 licenças) |Bronze    | 10/06/2019    |10/06/2019        |US$ 10        |1       | US$ -10       |CancelImmediate  |
+
+## <a name="billing-under-the-azure-plan"></a>Cobrança no plano do Azure
+
+- **Data da nota fiscal**: a nota fiscal e o arquivo de reconciliação estarão disponíveis no painel do Partner Center/API pelo oitavo (meia-noite UTC).
+
+- **Período de cobrança da fatura**: o período de cobrança da nota fiscal está alinhado ao mês do calendário, por exemplo, 10/1-10/31, 11/1-11/30).
+
+- **Períodos de serviço de cobrança**: as cobranças serão alinhadas ao mês civil. Por exemplo, se o parceiro cobrado adicionar serviços do Azure por meio de um plano do Azure em 10/15 e o cliente iniciar o consumo de serviços do Azure em 10/15, o parceiro cobrado receberá fatura/reconhecimento em 11/8 para consumo de cliente pelo período de serviço 10/15-10/31. A fatura do próximo mês que será gerada em 12/8 contém todos os encargos para o período de serviço 11/1-11/31.
+
+- **Termo de pagamento de fatura**: net 60 dias.
+
+- **Moeda da nota fiscal**: os parceiros continuarão sendo cobrados na moeda atribuída do country's do cliente. Por exemplo, se o parceiro cobrado estiver na Irlanda com clientes do Reino Unido, da Noruega e da Alemanha, o parceiro cobrado receberá uma nota fiscal/reconhecimento de GBP, NOK e EUR.
+
+- **Incentivos para parceiros**: pago 45 dias a partir do final do mês da nota fiscal.
+
+Para obter informações sobre o plano do Azure, consulte:
+
+- [Plano do Azure-visão geral](azure-plan-get-started.md)
+
+- [Plano do Azure – cobrança](azure-plan-billing.md)

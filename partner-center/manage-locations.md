@@ -1,40 +1,54 @@
 ---
-title: Gerenciar sua conta de parceiro - locais | Partner Center
+title: Gerenciar sua conta de parceiro-locais | Centro de parceiros
 ms.topic: article
 ms.date: 03/27/2019
-description: Gerenciar locais de sua empresa no Partner Center
+description: Gerenciar os locais da sua empresa no Partner Center
 author: LauraBrenner
 ms.author: labrenne
 keywords: conta de parceiro, locais
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e6d5b2e4d314cc852c1c52ba4561b39bf6faa94
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 16b0649ec68aa4915a6aa3ad59b260cadfc63012
+ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134426"
+ms.lasthandoff: 10/09/2019
+ms.locfileid: "72171248"
 ---
-# <a name="manage-your-partner-account-locations"></a>Gerencie sua conta de parceiro: Locais
+# <a name="manage-your-partner-account-locations"></a>Gerenciar sua conta de parceiro: locais
 
-As IDs do MPN local identificar cada local específico da sua empresa. Você usa o ID do MPN local para registrar-se no programas de incentivo para transações de negócios do provedor de solução de nuvem (CSP), para adicionar novas assinaturas e outras transações de negócios. A ID do MPN da empresa é usado para atividades não transacional, como solicitações de suporte.
+As IDs de MPN de local identificam cada local específico de sua empresa. Você usa a ID MPN do local para registrar em programas de incentivo, para a empresa do CSP (provedor de soluções na nuvem), para adicionar novas assinaturas e outras transações de negócios. A ID de MPN da empresa é usada para atividades não transacionais, como solicitações de suporte.
 
 **Este é um cenário típico:** 
 
-Uma empresa parceira pode ter um negócio CSP e uma empresa de publicação. Seus negócios CSP podem estar localizado em várias localidades e seus negócios pub podem estar localizado em outras localidades. Seus negócios legal registrado tem uma ID do MPN que é usado para gerenciar todos os negócios não transacional, como adicionar usuários ou registro em log solicitações de suporte. 
+Uma empresa parceira pode ter um negócio de CSP e um negócio de publicação. Seu negócio de CSP pode estar localizado em várias localidades e sua empresa de pub pode estar localizada em outras localidades. Sua empresa jurídica registrada tem uma ID de MPN, que é usada para gerenciar todos os negócios não transacionais, como adicionar usuários ou registrar solicitações de suporte. 
 
-Cada um dos seus locais tem uma ID do MPN que é usado para negócios transacionais, como programas CSP ou incentivos. Pagamentos estão vinculados a locais específicos.
+Cada um de seus locais tem uma ID MPN, que é usada para negócios transacionais, como o CSP ou os programas de incentivos. Os pagamentos são vinculados a locais específicos.
 
-Os usuários podem ter funções que se cruzam locais. Por exemplo, o administrador incentivos poderia ter essa função para todos os locais na Europa.
+Os usuários podem ter funções que cruzam locais. Por exemplo, o administrador de incentivos poderia ter essa função para todos os locais na Europa.
 
 **Para adicionar um local**
 
-1. Dos **ícone de definição**, selecione o **configurações do parceiro**. 
+1. No **ícone de configuração**, selecione as **configurações de parceiro**. 
 
 2. Selecione **locais.**
 
-3. Selecione **adicionar uma localização**.  
+3. Selecione **Adicionar um local**.  
 
-4. No **adicionar uma localização** página, insira os detalhes do endereço do local que você deseja adicionar à sua empresa, bem como um contato principal para o local.
+4. Na página **Adicionar um local** , insira os detalhes do endereço do local que você deseja adicionar à sua empresa, bem como um contato principal para o local.
 
-Observação: Depois que um local é adicionado no Partner Center, ele não pode ser removido.
+Observação: depois que um local for adicionado no Partner Center, ele não poderá ser removido.
+
+**Alterar local da sede legal**
+
+1. Na página **locais** , verifique a lista de locais para garantir que o local desejado como sua entidade legal esteja listado. Se não estiver, adicione-o.
+
+![atualizar local comercial](images/updatepartnerprofile2.png)
+
+2. Selecione **perfil de parceiro** e, em seguida, selecione **Atualizar perfil comercial legal**
+
+![atualizar local comercial](images/updatepartnerprofile1.png)
+
+3. Selecione a região e a entidade legal e **envie** -a.
+
+![atualizar local comercial](images/updatepartnerprofile3.png)
 
