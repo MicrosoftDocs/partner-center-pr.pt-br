@@ -1,18 +1,18 @@
 ---
 title: Perguntas frequentes sobre os requisitos de segurança de parceiros | Partner Center
 ms.topic: article
-ms.date: 08/30/2019
+ms.date: 09/27/2019
 description: Perguntas frequentes sobre os requisitos de segurança de parceiros
 author: isaiahwilliams
 ms.author: iswillia
 keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor do painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
-ms.localizationpriority: medium
-ms.openlocfilehash: 353e38853edb29d9fdea6692db34a239a31b2382
-ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
+ms.localizationpriority: high
+ms.openlocfilehash: e9471ae8dd0e478540e30a879d010ffb0c1f1bc0
+ms.sourcegitcommit: c388fae97437b727edeb0de3712bd2822010ecd6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "70215659"
+ms.lasthandoff: 09/30/2019
+ms.locfileid: "71678300"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Perguntas frequentes sobre os requisitos de segurança de parceiros
 
@@ -145,6 +145,9 @@ A Microsoft fornece a MFA sem nenhum custo por meio da implementação das polí
 ### <a name="if-i-already-have-an-mfa-solution-what-actions-do-i-need-to-take"></a>Se eu já tiver uma solução de MFA, quais ações precisarei executar?
 
 Por meio desses requisitos de segurança, será exigido que os usuários de um locatário de parceiro sejam autenticados usando a MFA ao acessar os serviços de nuvem comercial da Microsoft. Uma solução de terceiros pode ser usada para atender a esses requisitos. A Microsoft não fornece mais testes de validação a provedores de identidade independentes para compatibilidade com o Azure Active Directory. Se você quiser testar seu produto quanto à interoperabilidade, consulte estas [orientações](https://www.microsoft.com/download/details.aspx?id=56843).
+
+> [!IMPORTANT]
+> Se você estiver usando uma solução de terceiros, será importante verificar se a solução está emitindo a declaração da AMR (referência de método de autenticação) que inclui o valor da MFA. Confira [Teste dos Requisitos de Segurança do Parceiro](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements) para obter detalhes sobre como validar sua solução de terceiros que está emitindo a declaração esperada.
 
 ### <a name="what-verification-method-can-i-use-to-authenticate-mfa"></a>Qual método de verificação eu posso usar para autenticar com a MFA?
 
@@ -314,6 +317,18 @@ A autenticação somente por aplicativo não é afetada, pois as credenciais de 
 ### <a name="as-a-cpv-can-i-leverage-the-app-only-authentication-style-to-get-access-tokens"></a>Como um CPV, eu posso aproveitar o estilo de autenticação somente por aplicativo para obter tokens de acesso?
 
 Não, os Fornecedores de Painel de Controle não podem utilizar o estilo de autenticação somente por aplicativo para solicitar tokens de acesso em nome do parceiro. Eles devem implementar o Modelo de Aplicativo Seguro, que utiliza o estilo de autenticação por aplicativo + usuário.
+
+## <a name="enforcement"></a>Imposição
+
+### <a name="i-am-using-a-third-party-mfa-solution-and-i-am-being-blocked-what-should-i-do"></a>Estou usando uma solução de MFA de terceiros e estou sendo bloqueado, o que devo fazer?
+
+Para validar se a conta que está acessando os recursos foi desafiada pela autenticação multifator, verificaremos a declaração da [referência do método de autenticação](https://tools.ietf.org/html/rfc8176) para ver se a MFA está listada. Algumas soluções de terceiros não emitem essa declaração ou não incluem o valor da MFA. Se a declaração estiver ausente ou se o valor da MFA não estiver listado, não haverá como determinar se a conta autenticada foi desafiada pela autenticação multifator. Será necessário trabalhar com o fornecedor da solução de terceiros a fim de determinar quais ações precisam ser adotadas para que a solução emita a declaração da referência do método de autenticação.
+
+Confira [Teste dos Requisitos de Segurança do Parceiro](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements?view=partnercenterps-2.0) caso não tenha certeza se a sua solução de terceiros está – ou não – emitindo a declaração esperada.
+
+### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>A MFA está me impedindo de oferecer suporte ao meu cliente usando o AOBO, o que devo fazer?
+
+A imposição técnica dos requisitos de segurança do parceiro verificará se a conta autenticada foi desafiada pela autenticação multifator. Em caso negativo, você será redirecionado para a página de logon e receberá uma solicitação para autenticar novamente. Se o domínio não for federado, após a autenticação bem-sucedida você será solicitado a configurar a autenticação multifator. Ao concluir essa operação, você poderá gerenciar seus clientes usando o AOBO. Se o domínio for federado, será necessário garantir que a conta está sendo desafiada pela autenticação multifator.
 
 ## <a name="key-resources"></a>Principais recursos
 

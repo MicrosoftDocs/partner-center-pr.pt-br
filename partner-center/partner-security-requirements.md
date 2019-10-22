@@ -1,18 +1,18 @@
 ---
 title: Requisitos de segurança do parceiro | Partner Center
 ms.topic: article
-ms.date: 08/30/2019
+ms.date: 09/25/2019
 description: Saiba mais sobre os requisitos de segurança para consultores e parceiros que participam do programa de Provedor de Soluções na Nuvem.
 author: isaiahwilliams
 ms.author: iswillia
 keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor do painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
-ms.localizationpriority: medium
-ms.openlocfilehash: c95ec38f928ca4032ffecebaf25f23e87d10c079
-ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
+ms.localizationpriority: high
+ms.openlocfilehash: ea155cf760850def85146d8c4e7e847fab5d7213
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "70215645"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318485"
 ---
 # <a name="partner-security-requirements"></a>Requisitos de segurança de parceiros
 
@@ -136,15 +136,15 @@ A política *Exigir MFA para administrador* requer MFA para as funções de dire
 
 Ao habilitar a política de Exigir MFA para administradores, as nove funções de administrador acima exigirá o registro para MFA usando o aplicativo autenticador. Depois que o registro de MFA for concluído, os administradores precisarão executar a MFA sempre que entrarem.
 
-Se sua empresa tiver essas contas em uso em scripts ou código, considere substituí-las [por identidades gerenciadas](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).
+Se sua empresa tiver essas contas em uso em scripts ou código, considere substituí-las [por identidades gerenciadas](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).
 
 Para habilitar essa política e proteger seus administradores:
 
-1. Entre no **portal do Azure** como administrador global, administrador de segurança ou administrador de acesso condicional.
+1. Entre no **portal do Azure** como administrador global, administrador de segurança ou administrador de acesso condicional.
 2. Navegue até o **Azure Active Directory** > **Acesso Condicional**.
 3. Na lista de políticas, selecione a **política de linha de base: Exigir a MFA para Administradores**.
 4. Defina **Habilitar política** para **Usar política imediatamente**.
-5. Clique em  **Salvar**.
+5. Clique em **Salvar**.
 
 > [!WARNING]
 > Antes de habilitar essa política, verifique se os usuários não estão usando protocolos de autenticação herdados. Com a implementação desta política, a autenticação herdada será bloqueada.
@@ -160,11 +160,11 @@ A **Política de linha de base: proteção de usuário final** vem pré-configur
 
 Para habilitar essa política e proteger seus usuários:
 
-1. Entre no **portal do Azure** como administrador global, administrador de segurança ou administrador de acesso condicional.
+1. Entre no **portal do Azure** como administrador global, administrador de segurança ou administrador de acesso condicional.
 2. Navegue até o **Azure Active Directory** > **Acesso Condicional**.
 3. Na lista de políticas, selecione a **política de linha de base: Proteção do usuário final (visualização)** .
 4. Defina **Habilitar política** para **Usar política imediatamente**.
-5. Clique em  **Salvar**.
+5. Clique em **Salvar**.
 
 > [!WARNING]
 > Antes de habilitar essa política, verifique se os usuários não estão usando protocolos de autenticação herdados. Com a implementação desta política, a autenticação herdada será bloqueada.
