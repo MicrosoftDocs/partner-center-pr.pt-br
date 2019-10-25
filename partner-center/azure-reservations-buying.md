@@ -78,7 +78,7 @@ Examine as informações importantes abaixo antes de comprar as reservas do Azur
 > | Ilhas Cook     | Mayotte     | Togo   |
 > | Djibuti     | Micronésia     | Tokelau   |
 > | Dominica     | Montserrat     | Tonga   |
-> | Guiné Equatorial     | Moçambique     | Ilhas Turcos e Caicos   |
+> | Guiné Equatorial     | Moçambique     | Ilhas Turcas e Caicos   |
 > | Eritreia     | Myanmar     | Tuvalu   |
 > | Ilhas Malvinas     | Nauru     | Territórios Insulares dos EUA   |
 > | Guiana Francesa     | Nova Caledônia     | Vanuatu   |

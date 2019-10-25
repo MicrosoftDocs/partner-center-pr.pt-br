@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 081ce3c20dfd0572f267a2483eaf7fed5babc05c
 ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "62134046"
@@ -303,7 +303,7 @@ Se o local da sua empresa está na lista abaixo, você pode vender CSP oferece a
 |  Geórgia do Sul e Ilhas Sandwich do Sul| USD|
 |  Suriname       |   USD    |
 |  Trinidad e Tobago|USD   |
-|  Ilhas Turcos e Caicos| USD|
+|  Ilhas Turcas e Caicos| USD|
 |  Uruguai        |   USD    |
 |  Venezuela      |   USD    |
 |  Ilhas Virgens Americanas| USD |
