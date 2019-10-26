@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: crédito de retenção de imposto, créditos de impostos, formulário de crédito de imposto alemão, crédito de imposto de formulário
 ms.localizationpriority: medium
-ms.openlocfilehash: e386bc2eda01cef16173569f4b5288c4bba2d02a
-ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.openlocfilehash: 6d13c823297c2f681d0608a16d21a314cf9c4e1a
+ms.sourcegitcommit: e528ce5b05b89b19ba8cf2e48518f57067de9a2b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "70921460"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "72892404"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Verifique se você está creditado para a retenção de imposto
 
@@ -46,15 +46,20 @@ Preencha esse [formulário](https://query.prod.cms.rt.microsoft.com/cms/api/am/b
 ### <a name="how-to-submit-the-tax-credit-form-and-the-certificates"></a>Como enviar o formulário de crédito fiscal e os certificados
 
 1. Selecione o **ponto de interrogação** **(?)** no canto direito uppor do seu painel no Partner Center.
-2. Selecione **solicitações de suporte do parceiro**.
-3. Selecione **nova solicitação** e, em **detalhes**, selecione **ajuda com nota fiscal do parceiro, pagamento ou arquivo de reconciliação.**
+
+2. Selecione **CSP**.
+
+3. Em **CSP – cobrança e pagamentos**, selecione o tipo de problema- **retenção de imposto** e selecione **Sim**. 
+
 4. Ao enviar a solicitação de serviço, lembre-se de anexar o formulário de crédito fiscal e as cópias digitais dos certificados de imposto.
+
 5. Se você estiver enviando um certificado de imposto que não esteja em inglês por meio de uma solicitação de serviço em inglês, uma tradução do certificado de imposto será necessária.
+
 6. Entraremos em contato com você diretamente por email ou telefone.
 
 Usando o método de pagamento de pagamento de **Nota Fiscal** , depois que os certificados de imposto são recebidos e validados com êxito, o saldo restante em sua fatura será limpo em aproximadamente uma semana. 
 
-Os certificados de imposto devem ser apenas para faturas da Microsoft. Se você tiver outras empresas que os certificados incluem, especifique o valor, de modo que possamos excluir o valor em nosso processamento interno, mas ainda terá visibilidade total do que o total de certificados inclui. 
+Os certificados de imposto devem ser apenas para faturas da Microsoft. Se houver outras empresas incluídas nos certificados, especifique o valor para que possamos excluí-lo em nosso processamento interno, mas ainda assim tenha visibilidade total sobre o que o total de certificados inclui. 
 
 ## <a name="instructions-for-completing-the-withholding-tax-credit-form-for-germany"></a>Instruções para concluir o formulário de crédito de retenção de imposto para a Alemanha
 
