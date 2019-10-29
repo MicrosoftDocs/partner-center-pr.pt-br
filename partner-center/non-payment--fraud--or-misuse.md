@@ -1,7 +1,7 @@
 ---
 title: Não pagamento, fraude ou uso indevido | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 10/25/2019
 description: Estratégias para gerenciar os riscos de transações online, incluindo falta de pagamento de bens e serviços e atividade fraudulenta ou uso indevido do cliente.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: fraude, uso indevido, uso aceitável, política de uso aceitável, falta de pagamento, cliente não paga a conta, risco online, roubo de serviço, abuso do serviço, suspender uma assinatura,
@@ -9,19 +9,19 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 12fa863cfecc2e0190e1bfeb842b608ffd3bbaf2
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2e8ab123b4b735f685c7caf1ba740c04c93fd134
+ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134266"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "72978732"
 ---
-# <a name="non-payment-fraud-or-misuse"></a>Não pagamento, fraude ou uso indevido
+# <a name="non-payment-fraud-or-misuse"></a>Falta de pagamento, fraude ou uso indevido
 
 **Aplica-se a**
 
 -  Partner Center
--  Partner Center para Microsoft Cloud for US Government
+-  Partner Center do Microsoft Cloud for US Government
 
 
 
@@ -67,7 +67,7 @@ Essas recomendações podem ajudá-lo a desenvolver políticas e práticas que p
 #### <a name="post-purchase-customer-account-management"></a>Gerenciamento de contas de clientes após a compra
 - Trabalhe com os clientes para compreender as necessidades comerciais de uso da nuvem, definindo limites de monitoramento apropriados
     > [!NOTE]  
-    >  Você pode [defina um mensal de gastos do Azure orçamento](set-an-azure-spending-budget-for-your-customers.md) no Partner Center para monitorar o uso do cliente durante o mês e ser notificado quando os clientes estão próximas seu orçamento.
+    >  Você pode [definir um orçamento de gastos do Azure mensal](set-an-azure-spending-budget-for-your-customers.md) no Partner Center para monitorar o uso do cliente durante o mês e ser notificado quando os clientes estiverem próximos do orçamento.
 - Monitore [logs de atividade do cliente](activity-logs.md) regularmente para ajudar a detectar fraudes logo no início
 - Execute uma ação rápida quando atividades suspeitas são detectadas
 - Evite conceder acesso administrativo completo de clientes para assinaturas sem primeiro implementar controles de atenuação de risco
@@ -83,7 +83,7 @@ Para mais estratégias mais detalhadas de atenuação de risco online, consulte 
 > [!IMPORTANT]  
 > Se a Microsoft detectar atividade do parceiro ou do cliente que confirmarmos ou suspeitarmos que viola a Política de Uso Aceitável, tomaremos medidas de aplicação. O cliente pode ser suspenso imediatamente, e você será notificado de ações de aplicação ou atualização em suas solicitações pela Microsoft.
 
- 
+ Para obter informações sobre segurança e autenticação multifator, leia [requisitos de segurança do parceiro](partner-security-requirements.md)
 
  
 

@@ -1,47 +1,36 @@
 ---
 title: Criar uma conta do Partner Center | Partner Center
 ms.topic: article
-ms.date: 08/12/2019
+ms.date: 10/25/2019
 description: Os membros do Microsoft Partner Network precisam criar contas do Partner Center para gerenciar seus benefícios e competências de rede e criar um perfil de negócios.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5144f6e303a4afeccc6ccf74e966d8beba41f947
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: 58dd482f3fe9e9b02159c2900bb2c857ee967540
+ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958748"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "72978765"
 ---
 # <a name="create-a-partner-center-account"></a>Criar uma conta do Partner Center
 
-**Aplica-se a**
+**Funções apropriadas**
 
--   Partner Center
--   Membros do Microsoft Partner Network
-
-
-Este artigo explica como criar uma conta do Partner Center e destina-se a parceiros que estejam migrando as informações de associação de rede de parceiro do Partner Membership Center para o Partner Center. 
+- Administração global
+- Agente administrativo
 
 Antes de criar uma conta no Partner Center, sua empresa deve ser membro do Microsoft Partner Network. Se não for um membro da rede, você pode [se inscrever agora](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx).  [Saiba mais](https://partner.microsoft.com/membership) sobre parceria no Microsoft Partner Network. Depois de criar uma conta do Partner Center, Assista a este vídeo rápido para[Descobrir seu painel](https://vimeo.com/290338211).
-
-### <a name="some-next-steps"></a>Algumas próximas etapas
-
--   [Comprar ou renovar uma assinatura do Microsoft Action Pack](mpn-get-action-pack.md)
-
--   [Criar um perfil de negócios para obter oportunidades de vendas da Microsoft](create-a-marketing-profile.md)
-
--   [Obter e gerenciar as oportunidades de vendas da Microsoft](responding-to-referrals.md)
 
 ## <a name="before-you-begin"></a>Antes de começar
 
 Para criar uma conta no Partner Center, você precisará ter as seguintes informações em mãos. É recomendável coletar estes itens antes de começar:
 
--   Email de trabalho do administrador global. Se não souber ao certo qual é a conta de trabalho da sua empresa, consulte [A conta de trabalho da sua empresa e o Partner Center](azure-active-directory-tenants-and-partner-center.md).
+-   Email de trabalho do administrador global.
 
-    Se a sua empresa ainda não tiver uma conta de trabalho, você poderá criar uma durante o processo de criação da conta. 
+-   Se você não tiver certeza do que é a conta corporativa da sua empresa, consulte [a conta corporativa corporativa e o Partner Center](azure-active-directory-tenants-and-partner-center.md) se sua empresa não tiver uma conta corporativa, você poderá criar uma durante o processo de criação da conta. 
 
--   Endereço, contato principal e nome legal da empresa. Precisamos dessas informações para confirmar que sua empresa possui um perfil estabelecido e que você está autorizado a agir em seu nome. 
+-   O nome e o endereço de negócios legais da sua empresa.  
 
 -   Autoridade para assinar contratos legais. Você precisa ter autorização para assinar contratos legais em nome da empresa, pois você será solicitado a fazer isso durante o processo de registro.
 
@@ -53,11 +42,11 @@ Iremos verificar essas informações durante o processo de criação de conta.
 
 1.  Examine as informações da página **Inicial** e então selecione **Avançar**.
 
-2.  Entre na conta de trabalho da sua empresa como um administrador global. Se não souber ao certo qual é a conta de trabalho da sua empresa, consulte [A conta de trabalho da sua empresa e o Partner Center](azure-active-directory-tenants-and-partner-center.md).
+2.  Entre na conta de trabalho da sua empresa como um administrador global. Se você não tiver certeza do que é a conta corporativa da sua empresa, consulte [a conta corporativa corporativa e o Partner Center](azure-active-directory-tenants-and-partner-center.md).
 
     Selecione **Entrar** se souber que a sua empresa tem uma conta de email de trabalho. Na próxima página, insira as credenciais de administrador global para a conta de trabalho da sua empresa. 
 
-    Se a sua empresa não tiver uma conta de trabalho, selecione **Criar uma** para configurar uma agora. Depois de criar uma conta de trabalho, entre usando as credenciais de administrador global para a conta de trabalho que você acabou de criar.
+    Se a sua empresa não tiver uma conta de trabalho, selecione **Criar uma** para configurar uma agora. Depois de criar uma conta de trabalho, entre usando suas credenciais de administrador global para a conta de trabalho que você acabou de criar.
 
 3.  Forneça ou atualize o perfil de negócios legal da sua empresa e as informações do contato principal e então selecione **Inscrever-se agora**. 
 
@@ -70,9 +59,9 @@ Iremos verificar essas informações durante o processo de criação de conta.
 
 5.  Verifique se você foi adicionado ao grupo de agente administrador. Para concluir a configuração de sua conta, incluindo a adição de outros usuários, você deve ter permissões de agente administrador. Siga estas etapas para exibir ou atualizar suas permissões:
 
-    a. Em seu **Partner Center**, selecione o ícone **Configurações** e então selecione **Gerenciamento de usuários**.  
+    a. No [painel](https://partner.microsoft.com/en-us/dashboard/home**)do Partner Center, selecione o ícone **configurações** e, em seguida, selecione **Gerenciamento de usuários**.  
 
-    b. Selecione seu nome na lista de usuários e então selecione **Agente administrativo** se ainda não estiver selecionado. Selecione **Atualizar**.  
+    b. Selecione seu nome na lista de usuários e então selecione **Agente administrador** se ainda não estiver selecionado. Selecione **Atualizar**.  
 
 ## <a name="next-steps"></a>Próximas etapas
 
@@ -85,3 +74,5 @@ Iremos verificar essas informações durante o processo de criação de conta.
 -   [Saiba mais sobre os requisitos de competência para a parceria Gold e Silver](https://partner.microsoft.com/membership/competencies)
 
 -   [Criar um perfil de negócios para obter oportunidades de vendas da Microsoft](create-a-marketing-profile.md)
+
+-   [Obter e gerenciar as oportunidades de vendas da Microsoft](responding-to-referrals.md)
