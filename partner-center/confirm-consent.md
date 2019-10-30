@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: cliente, clientes, consentimento, MCA, contrato de Microsoft Cloud, modelos de contrato de cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: fc82d3156dd50c3ad05b141f1715634031cad202
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 13bd3ee03a346448ca8131713420cf75e555195b
+ms.sourcegitcommit: cb736d4ec766d2af41d8c6102d13563169386438
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820521"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "73045646"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Confirmar a aceitação do cliente do Contrato do Microsoft Cloud
 
@@ -23,7 +23,10 @@ ms.locfileid: "68820521"
 > O recurso de contrato atualmente tem suporte do Partner Center na nuvem pública da Microsoft. Não é aplicável a:
 > * Partner Center operado pela 21Vianet
 > * Partner Center do Microsoft Cloud Germany
-> * Partner Center para Microsoft Cloud for US Government
+> * Partner Center do Microsoft Cloud for US Government
+
+>[!NOTE]
+>Este contrato é válido até 31 de janeiro de 2020. Após essa data, todos os clientes, existentes e novos, devem assinar o novo contrato do cliente da Microsoft. Para saber mais, leia [confirmar a aceitação do cliente do contrato do cliente da Microsoft](confirm-customer-agreement.md).
 
 Como um parceiro, você precisa obter a aceitação do cliente do Contrato do Microsoft Cloud antes de você poder encomendar produtos e serviços Microsoft e serviços para o cliente. Para ajudar mais os parceiros a atender os requisitos de conformidade, a Microsoft solicita que os parceiros confirmem a aceitação fornecendo os detalhes a seguir em relação à pessoa que aceitou o contrato: 
 
@@ -45,7 +48,7 @@ Se a confirmação não for fornecida por um determinado cliente:
 
 -   Você não conseguirá criar novos pedidos para esse cliente.
 
--   Você não poderá alterar a contagem de estações de assinaturas baseadas em estação existentes para esse cliente.
+-   Você não poderá alterar a contagem de estações de assinaturas baseadas em assentos existentes para esse cliente.
 
 A confirmação da aceitação do cliente pode ser feita por meio do Partner Center ou da API do Partner Center. Para fazer isso por meio da API do Partner Center, consulte os seguintes tópicos: 
 
@@ -84,10 +87,10 @@ Por padrão, as informações de usuário do contato principal são exibidas. Se
 Você deve ser um Agente administrativo ou Agente de vendas para fazer isso.
 
 1. Selecione **Clientes** e então localize e selecione o cliente que você deseja ver.
-2. Selecione **informações da conta**.
+2. Selecione **Informações da Conta**.
 3. Em **Contrato do Microsoft Cloud**, selecione **Atualizar**.
 
-![Atualização](images/mca/mca4.png)
+![Atualizar](images/mca/mca4.png)
 
 4. Insira o **Nome**, **Sobrenome**, **Email** e **Número de telefone** (opcional) do usuário que aceitou o contrato.
 5. Em **Data de aceitação do contrato**, insira a data apropriada. Você não pode definir isso como uma data futura.
@@ -106,5 +109,5 @@ Se tentar criar um novo pedido para um cliente existente que não confirmou ante
 Você pode recuperar a confirmação da aceitação do cliente para um cliente existente que você forneceu anteriormente usando o procedimento abaixo. Você deve ser um Agente administrativo ou Agente de vendas para fazer isso.
 
 1. Selecione **Clientes** e então localize e selecione o cliente que você deseja ver.
-2. Selecione **informações da conta**.
+2. Selecione **Informações da Conta**.
 3. Em **Contrato do Microsoft Cloud**, você verá se a confirmação foi fornecida ou não para este cliente.
