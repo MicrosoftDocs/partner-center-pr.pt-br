@@ -1,5 +1,5 @@
 ---
-title: Declarações de cooperação incentivos | Partner Center
+title: Incentivos a reivindicações de cooperação | Centro de parceiros
 ms.topic: article
 ms.date: 03/15/2019
 description: Envie suas reivindicações de incentivos sem precisar ter seu plano de atividade examinado primeiro.
@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: reivindicações de incentivos, reivindicações de cooperação, fundos de cooperação
 ms.localizationpriority: medium
-ms.openlocfilehash: c1ba6ca1fcc624958355761b5d36ffafb9dface2
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 27210ea58352259152c0922aa3a1e1c3c6d95e4d
+ms.sourcegitcommit: 014669c26592a3ab35c2aa7f3ff615f5f1091752
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135346"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73083876"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Visão geral de reivindicações de cooperação de incentivos
 
@@ -20,7 +20,7 @@ ms.locfileid: "62135346"
 
 - Partner Center
 
-Quando você participa de uma das Incentives Microsoft programas (como o parceiro incentivos cooperativo Marketing fundo, o programa de Supervisor de serviços Online ou o programa ISV do Dynamics), você os reembolsos de declaração de fundos acumulados para atividades que tiver feito isso suporte a reconhecimento de produto da Microsoft. Você envia uma reivindicação diretamente do Partner Center. Você não precisa ter seu plano de atividade examinado pela Microsoft antes de enviar uma reivindicação. Envie sua reivindicação e a documentação necessária até o prazo final do período de reivindicação , que é 45 dias após o término do período de uso. 
+Quando você participa de um dos programas de incentivos da Microsoft (como o parceiro, o financiamento de marketing cooperativo, o programa Online Services Advisor ou o programa do Dynamics ISV), você alega reembolsos de fundos acumulados para atividades que você fez dê suporte ao reconhecimento de produtos da Microsoft. Você envia uma declaração diretamente do Partner Center. Você não precisa ter seu plano de atividade examinado pela Microsoft antes de enviar uma reivindicação. Envie sua reivindicação e a documentação necessária até o prazo final do período de reivindicação , que é 45 dias após o término do período de uso. 
 
 Uma reivindicação bem-sucedida inclui:
 
@@ -34,10 +34,10 @@ Uma reivindicação bem-sucedida inclui:
 
 |**Para fazer isso**   |**Leia isto**   |
 |-----------------|:--------------------------------------|
-|Enviar uma reivindicação e incluir a documentação correta|[Criar e gerenciar uma declaração de atividade do programa incentivos](create-incentives-claims.md)|
-|Depois que você tiver enviado a reivindicação, gerenciar solicitações de documentação adicional|[Criar e gerenciar uma declaração de atividade do programa incentivos](create-incentives-claims.md)  |
-|Conhecer os principais requisitos para a reivindicação de atividade|[Conhecer os principais requisitos de declarações de incentivos](core-requirements.md)   |
-|Conhecer os detalhes completos do programa de incentivos|[Guia de cooperação incentivos aos parceiros](https://assets.microsoft.com/coop-guidebook.pdf)
-|Enviar uma declaração de taxa de venda OSA ou declaração de associação de receita de ISV |[Enviar solicitações de OSA no Partner Center](submit-osa-claim.md)|
+|Enviar uma reivindicação e incluir a documentação correta|[Criar e gerenciar uma declaração de atividade do programa de incentivos](create-incentives-claims.md)|
+|Depois que você tiver enviado a reivindicação, gerenciar solicitações de documentação adicional|[Criar e gerenciar uma declaração de atividade do programa de incentivos](create-incentives-claims.md)  |
+|Conhecer os principais requisitos para a reivindicação de atividade|[Conhecer os principais requisitos de incentivos de declarações](core-requirements.md)   |
+|Conhecer os detalhes completos do programa de incentivos|[Incentivos para parceiros Guidebook de cooperação](https://assets.microsoft.com/coop-guidebook.pdf)
+|Criar uma associação de cliente e enviar uma declaração |[Criar uma associação de cliente usando o modelo CPOR](submit-osa-claim.md)|
                                                                                  
                                    

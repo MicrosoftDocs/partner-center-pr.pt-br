@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: comprovantes de treinamento, software assurance, treinamento, inscrição no SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 03fb0c9a9391bc3e5ebcf99cfd77aa7de8a74f51
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 0b5b91efea2814582e64e147cf3bf9f7c22bdd89
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425180"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73142021"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programa SATV (Software Assurance Training Voucher) no Partner Center
 
@@ -37,7 +37,7 @@ Este artigo explica como concluir cada etapa.
 
 ## <a name="confirm-program-eligibility"></a>Confirmar elegibilidade para o programa
 
-Antes de poder se registrar no programa SATV, você deve primeiro concluir os requisitos para a opção de aprendizado da Microsoft Partner Network, que substitui a competência do Microsoft Learning. Saiba como começar a usar a [Opção de aprendizado.](https://partner.microsoft.com/en-us/membership/learning-partners)
+Antes de poder se registrar no programa SATV, você deve primeiro concluir os requisitos para a opção de aprendizado da Microsoft Partner Network, que substitui a competência do Microsoft Learning. Saiba como começar a usar a [Opção de aprendizado.](https://partner.microsoft.com/membership/learning-partners)
 
 Você pode verificar a elegibilidade da sua empresa, incluindo requisitos aplicáveis de competência e avaliação no Partner Center. Siga as instruções na [etapa 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) do fluxo de trabalho do SATV para obter mais detalhes e capturas de tela.
 

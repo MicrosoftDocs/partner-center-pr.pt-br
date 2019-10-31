@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, fatura, mapas, isenção de imposto, IVA, ID de IVA
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b972aa9261d319c55d26abcc32e33af5546550a
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 42006ee073db1481fffa42b5cc4e3982526cf720
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978768"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73141996"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Faturas e impostos no Microsoft Partner Network
 
@@ -26,7 +26,7 @@ Use as etapas abaixo para exibir ou baixar a nota fiscal final de um pedido rela
 
 Você deve ser um administrador global ou administrador de parceiro MPN para executar este procedimento. 
 
-1.  Entre no [Partner Center](https://partner.microsoft.com/en-us/dashboard/home) com sua conta corporativa e selecione **MPN** no menu à esquerda.
+1.  Entre no [Partner Center](https://partner.microsoft.com/dashboard/home) com sua conta corporativa e selecione **MPN** no menu à esquerda.
 
 4.  Na lista suspensa, selecione **ofertas de associação** para ver as ofertas disponíveis para compra, bem como as notas fiscais disponíveis para o ano atual de registro. Para exibir as notas fiscais dos anos anteriores, selecione **expirado**.
 
@@ -45,7 +45,7 @@ Você deve ser um administrador global ou administrador de parceiro MPN para exe
 
 ## <a name="send-microsoft-your-vat-id-number"></a>Envie seu número de ID de IVA à Microsoft
 
-1.  No [painel](https://partner.microsoft.com/en-us/dashboard/home)do Partner Center, selecione **ofertas de associação**e, em seguida, selecione **disponível**. 
+1.  No [painel](https://partner.microsoft.com/dashboard/home)do Partner Center, selecione **ofertas de associação**e, em seguida, selecione **disponível**. 
 
 2.  Selecione **adicionar sua ID de IVA**. 
 

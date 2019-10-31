@@ -1,101 +1,95 @@
 ---
-title: Envie suas declarações OSA no Partner Center | Centro de parceiros
+title: Criar uma associação de cliente usando o modelo CPOR | Centro de parceiros
 ms.topic: article
-ms.date: 10/04/2019
-description: Enviar uma declaração de taxa de venda de OSA ou declaração de associação de receita de ISV
+ms.date: 10/29/2019
+description: Criar uma associação de cliente usando o modelo CPOR
 author: LauraBrenner
 ms.author: labrenne
-keywords: créditos de incentivos, declarações de cooperação, fundos de cooperação, OSA, ISV, associação de receita
+keywords: créditos de incentivos, declarações de cooperação, fundos de cooperação, OSU, OSA, ISV, associação de receita
 ms.localizationpriority: medium
-ms.openlocfilehash: b61b1da0a7faa3008996785dd092b2e1bae12b8e
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 9acac203d44e3942f9a07bc5af90528e558bce39
+ms.sourcegitcommit: 014669c26592a3ab35c2aa7f3ff615f5f1091752
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425171"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73083864"
 ---
-# <a name="submit-your-osa-claims-in-partner-center"></a>Enviar solicitações de OSA no Partner Center
-
 **Aplica-se a**
 
 -  Partner Center
 
-Como um parceiro OSA ou o Dynamics ISV, você pode enviar suas declarações no Partner Center. 
+# <a name="create-a-customer-association-using-the-cpor-model"></a>Criar uma associação de cliente usando o modelo CPOR
 
-Para poder criar e enviar uma declaração, você precisará atender aos seguintes requisitos: 
--   **Ser registrado no Microsoft Partner Network**e ter um contrato de MPN ativo. Para se registrar no Microsoft Partner Network, visite o site do parceiro. 
--   **Seja um Microsoft Dynamics Software Advisor certificado** com um CSA (contrato do Microsoft Dynamics Certified Software Advisor) ativo. 
--   **Suas informações bancárias e de impostos foram** inseridas no Partner Center. 
--   **Atenda aos requisitos de receita e certificação de qualificação do OSA**. (Para obter detalhes, consulte o guia de venda do OSA, localizado na seção OSA em aka.ms/partnerincentives.) Isso não se aplica aos ISVs que buscam somente a associação de receita. 
+Em 1º de outubro de 2019, a Microsoft começou a usar o modelo de CPOR (parceiro de registro) para gerenciar as associações que você tem com os clientes do Microsoft 365 e do Dynamics 365 com relação à venda do OSA (comunicado de serviços online), OSU (uso de serviços online)- Incentivos de OSU e de aplicativos de negócios. Microsoft 365
 
-## <a name="submitting-your-claim"></a>Enviando sua declaração
+Quando você envia sua declaração, a Microsoft a valida. Poderemos solicitar mais informações neste ponto. Também notificaremos o cliente sobre sua solicitação de associação. Os clientes têm cinco dias úteis para recusar. Se eles não recusarem, sua associação com esse locatário e carga de trabalho específicos será oficial. Neste ponto, você terá acesso aos dados de uso do cliente. 
 
-Você terá 90 dias a partir da data da transação para enviar sua declaração. Se você enviar sua declaração mais de 90 dias após uma transação, não receberá o incentivo de venda dessa venda. 
+Você precisará das seguintes informações para concluir uma declaração:
 
-Se você for um parceiro de ISV e suas soluções ajudarem a influenciar o cliente a escolher uma solução do Microsoft Dynamics 365, também será elegível para reivindicar a associação de receita.   
+- A **ID de MPN** da sua entidade que faz a declaração
 
-## <a name="payment-schedule"></a>Plano de pagamento
+- O **nome de domínio** do cliente [encontra isso](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
-Você receberá o pagamento de declarações de incentivos aprovadas dentro de 45 dias após o término do período de conquista. Você tem 90 dias após o final do período de conquista para contestar um pagamento. Para obter informações sobre os cálculos e métodos de pagamento, consulte o guia de venda do OSA, localizado na seção OSA em aka.ms/partnerincentives.
+- A **ID do diretório** ou a **ID de locatário** do cliente [encontra esta](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
-## <a name="maintaining-your-program-eligibility"></a>Mantendo a elegibilidade do programa
+- A **área da solução**, como Business Applications ou Microsoft 365
 
-A Microsoft avalia a qualificação mensal para o incentivo de venda do supervisor de serviços online para ganhar, calcular e pagamento. Você deve atender a critérios de qualificação específicos antes que a Microsoft possa aprovar e liberar pagamentos de incentivos. Para obter detalhes, consulte o guia de venda do OSA, localizado na seção OSA em aka.ms/partnerincentives.
+- A **atividade** que você realizou e o tipo de declaração que deseja fazer, como pré-vendas, uso ou associação de receita
 
-## <a name="submit-an-osa-sell-fee-claim"></a>Enviar uma declaração de taxa de venda de OSA
+- O nome do **contato**do seu cliente, o título e o endereço de email
 
-Conclua as etapas a seguir para enviar uma declaração de incentivo no Partner Center.  
+- Para o Dynamics 365, você também precisa fornecer o nome do **contato técnico** do cliente, o título e o endereço de email
+
+- O **nome de contato** e o endereço de email da sua própria empresa
+
+- Você criará um **nome** para esta declaração
+
+- Os **produtos** ou as cargas de trabalho que você está reivindicando
+
+- **Poe (prova de execução)** , como uma declaração de trabalho assinada pelo cliente. Você também pode baixar um modelo POE para usar o.
+
+- Para parceiros que alegam somente Associação de receita: **nome do vendedor da solução Dynamics**, **nome do cliente**e **nome do produto/solução ISV**. 
+
+Você também deve entender os seguintes pontos:
+- Se você tiver clientes Microsoft 365 existentes, será necessário reassociá-los com aqueles que deseja continuar a obter incentivos de OSU usando esse processo.
+- Se você tiver associações existentes com os clientes do Dynamics 365 ou Power BI, essas associações permanecerão válidas até a expiração de suas assinaturas.
+- Um cliente pode ter vários parceiros, mas cada carga de trabalho (para Microsoft 365 OSU) ou assinatura (para OSA-vendê e OSU-Business Applications) só pode ser associada a um parceiro.
+
+## <a name="create-a-customer-association"></a>Criar uma associação de cliente
+1.  No painel do Partner Center, em **incentivos**, selecione **visão geral**e, em seguida, selecione **associações de cliente**. 
+
+2.  Na parte superior da página associações do cliente, selecione **+ Associação de cliente**.
+
+3.  Selecione a **ID de MPN** do local do parceiro a ser associado ao cliente e, em seguida, adicione o nome de domínio do cliente e a ID do diretório. [Onde estão eles?](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+
+Selecione **Continuar**.
+
+4.  Selecione a **área da solução** e a **atividade**. 
+
+>[!Note]
+
+>Se você selecionar Business Applications, selecione **uso e/ou pré-vendas**ou associação de **receita**e, em seguida, selecione **continuar**. 
+
+>Se você selecionar a associação de receita, você será solicitado a fornecer informações ligeiramente diferentes das que estão listadas abaixo. 
+
+5.  Insira as informações apropriadas na página **associar cliente** e, em seguida, selecione **criar declaração**.
+
+6.  Selecione os produtos associados a essa associação de cliente e selecione **continuar**.
+
+7.  Preencha as informações de contato do cliente e as informações de contato da sua empresa. Todos os campos são necessários. 
+
+>[!Note]
+
+Se o seu produto for o Dynamics 365 e o produto escolhido tiver várias assinaturas para esse cliente específico, você também precisará inserir a ID da assinatura.
+
+8.  Forneça a sua POE (prova de execução). Você pode arrastá-lo para a caixa, navegar até sua própria documentação de suporte ou usar um modelo selecionando **baixar modelo**. 
+
+9.  Adicione e salve comentários, se desejar, e selecione **Enviar declaração**. Enviaremos um email para o cliente solicitando aprovação da sua associação de cliente. 
 
 >[!NOTE]
 
->Se sua empresa tiver vários locais, certifique-se de usar a ID do MPN para o escritório localizado na mesma região geográfica que o cliente. 
+>Depois de enviar sua associação de cliente, você não poderá editá-la. 
 
-1.  Na página Visão geral, em **todos os programas de incentivo**, selecione **OSA**.
+O status da sua associação de cliente aparece no campo **status** . 
 
-2.  Na página OSA, selecione **reivindicação...** e, em seguida, selecione **taxa de incentivos**.
-
-3.  Insira o nome de domínio e a ID de diretório do seu cliente e, em seguida, selecione **continuar**. 
-
-4.  Selecione o produto que o cliente comprou e, em seguida, selecione **continuar**. 
-
-5.  Selecione a assinatura que você deseja associar a essa declaração e, em seguida, selecione **continuar**.
-
->[!NOTE]
-
->Verifique se o nome e a região geográfica estão corretos antes de selecionar uma assinatura. 
-
->As assinaturas associadas a outros consultores de serviços online são marcadas com um triângulo amarelo. Você ainda pode optar por associá-los a eles. 
-
->As assinaturas já associadas à sua empresa não podem ser associadas novamente.  
-
-6.  Insira as informações de contato para seu cliente e sua empresa, nomeie a declaração e, em seguida, selecione **criar declaração**. 
-
-7.  Na página assinatura, carregue a documentação da POE (prova de execução) na caixa **prova de execução** . Você pode usar os documentos modelo POE ou POE do processo de pré-venda. 
-
-8.  Selecione **Enviar declaração**.    
-
-Você pode ver o status da sua declaração na caixa status da página de assinatura. Se forem necessárias informações adicionais, você também será notificado ali.
-
-Para exibir seus dados de ganhos e pagamentos, consulte pagamentos e relatórios. 
- 
-## <a name="submit-an-isv-revenue-association-claim"></a>Enviar uma declaração de associação de receita de ISV
-
-1.  Na página Visão geral, em **todos os programas de incentivo**, selecione **OSA**.
-
-2.  Na página OSA, selecione **declaração...** e, em seguida, selecione **Associação de receita de ISV**.
-
-3.  Insira o nome de domínio e a ID de diretório do seu cliente, selecione o produto ou os produtos adquiridos pelo cliente e selecione **continuar**. 
-
-4.  Selecione as assinaturas que você deseja associar a essa declaração e, em seguida, selecione **continuar**.
-
->[!NOTE]
-
->Verifique se o nome e a região geográfica estão corretos antes de selecionar uma assinatura. 
-
->As assinaturas já associadas à sua empresa não podem ser associadas novamente.  
-
-5.  Insira as informações para o **nome do vendedor da solução dinâmica**, o **nome do cliente**e o **nome do produto/solução ISV**e, em seguida, insira um nome para a declaração. 
-
-6.  Selecione **criar declaração**. 
-
-Você pode ver o status da sua declaração na caixa status da página de assinatura. Se forem necessárias informações adicionais, você também será notificado ali.
+Selecione **histórico** para exibir o histórico de uma associação de cliente.
