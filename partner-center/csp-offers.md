@@ -1,18 +1,18 @@
 ---
 title: Ofertas de parceiro no programa Provedor de Soluções na Nuvem | Partner Center
 ms.topic: article
-ms.date: 05/01/2019
+ms.date: 10/28/2019
 description: Saiba mais sobre as ofertas disponíveis para parceiros que vendem por meio do programa Provedor de Soluções na Nuvem.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Provedor de Soluções na Nuvem, programa provedor de soluções na nuvem, CSP, adicionar um produto, vender para clientes, ofertas de parceiro, ofertas de CSP, serviços baseados em nuvem, Azure, Office 365, Dynamics, parceiro CSP, vender no CSP, Azure RI, instâncias de Máquinas Virtuais reservadas do Azure, reservas do Azure, serviços online, software de assinatura, AHUB, SQL Server no Azure, Windows Server no Azure, assinaturas de cliente
 ms.localizationpriority: high
-ms.openlocfilehash: a77e41742689221b77d06d7732b86f367148ab13
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 062c64254ab731bd9396201268aad61ff6b3b74f
+ms.sourcegitcommit: cb736d4ec766d2af41d8c6102d13563169386438
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318448"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "73045632"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Ofertas de parceiro no programa Provedor de Soluções na Nuvem 
 
@@ -23,6 +23,9 @@ ms.locfileid: "71318448"
 Os parceiros da Microsoft no programa CSP (Provedor de Soluções na Nuvem) têm um catálogo cada vez maior de ofertas disponíveis para eles. Você pode vender a gama completa de [serviços em nuvem da Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), bem como uma variedade de ofertas adicionais que mudam com frequência. Para ver as ofertas do CSP no mês atual, entre no Partner Center e, em seguida, acesse a página [**Preços e ofertas**](https://partnercenter.microsoft.com/pcv/sales).  
 
 Ainda não se registrou no programa Provedor de Soluções na Nuvem? Visite [Provedor de Soluções na Nuvem](https://partner.microsoft.com/cloud-solution-provider) para obter mais detalhes sobre como se registrar. 
+
+>[!NOTE]
+>A partir de 31 de janeiro de 2020, todos os clientes precisarão ter assinado o Contrato de Cliente da Microsoft. Isso inclui seus clientes existentes e novos. Para saber mais, leia [Confirmar a aceitação pelo cliente do Contrato de Cliente da Microsoft](confirm-customer-agreement.md)
 
 ## <a name="what-you-can-sell-through-csp"></a>O que você pode vender por meio do CSP
 

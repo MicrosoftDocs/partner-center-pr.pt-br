@@ -1,18 +1,18 @@
 ---
 title: Comprar ou renovar suas ofertas de benefício | Partner Center
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 10/25/2019
 description: Saiba como obter o Microsoft Action Pack, quer esteja comprando pela primeira vez ou renovando.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, MAPS, renovar MAPS, renovar action pack, obter action pack
 ms.localizationpriority: high
-ms.openlocfilehash: c4e1f58bd703c1809f1d315a8cc2d8c61fee8fa3
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 544059c06d0e4dd0714ac2fd29b8d2e4291deda1
+ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318850"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "72978739"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Comprar pela primeira vez ou renovar uma assinatura do Microsoft Action Pack ou as competências silver ou gold
 
@@ -21,7 +21,7 @@ ms.locfileid: "71318850"
 -  Partner Center
 -  Partner Membership Center
 
-Agora, no painel do Partner Center, você pode comprar ou renovar suas ofertas de benefício, incluindo a assinatura do Microsoft Action Pack e as competências prata e ouro. 
+Agora, no [painel](https://docs.microsoft.com/partner-center/) do Partner Center, você pode comprar ou renovar suas ofertas de benefício, incluindo a assinatura do Microsoft Action Pack e as competências silver e gold. 
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Comprar o Microsoft Action Pack pela primeira vez
 
@@ -36,23 +36,13 @@ Torne-se um [parceiro de competência](https://partner.microsoft.com/membership/
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>Renovar uma assinatura do Microsoft Action Pack
 
 >[!IMPORTANT]
->Agora você gerencia sua assinatura do Action Pack no Partner Center – este site. 
+>Agora você gerencia sua assinatura do Action Pack no Partner Center.
 
 ### <a name="check-your-renewal-eligibility"></a>Verificar sua qualificação para renovação
 
-1. Entre no [PMC (Partner Membership Center)](https://partner.microsoft.com/_login?authType=OpenIdConnect).
-
-2. Após entrar com êxito, você:
-
-    - Poderá acompanhar as etapas para renovar sua assinatura no PMC ou
-
-    - Receberá uma mensagem convidando-o a renovar sua assinatura no Partner Center – este site
-
 >[!IMPORTANT]
 >Se você for convidado a renovar sua assinatura no Partner Center, observe que mudamos nossa política de janela de renovação, e você só poderá renovar sua assinatura depois que ela expirar. Por exemplo, se sua assinatura expira em 22 de junho, você pode renová-la a partir de 23 de junho e por 30 dias depois disso.       
->Você pode encontrar a data de validade da assinatura na página [**Ofertas de associação**](https://partnercenter.microsoft.com/pcv/partnership/offers) (é necessário entrar). Se ou quando você estiver qualificado para a renovação no Partner Center, siga as etapas abaixo.  
-
-
+>Você pode encontrar a data de validade da assinatura na página [**Ofertas de associação**](https://partnercenter.microsoft.com/pcv/partnership/offers) (é necessário entrar). Quando você estiver qualificado para a renovação no Partner Center, siga as etapas abaixo.  
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Para renovar uma assinatura do Microsoft Action Pack no Partner Center
 
