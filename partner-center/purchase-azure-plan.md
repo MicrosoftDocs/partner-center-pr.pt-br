@@ -38,7 +38,7 @@ O parceiro deve confirmar se o cliente examinou e aceitou os termos do Contrato 
 ### <a name="to-confirm"></a>Confirmar 
 
 1. Na página de **Conta**, do cliente, selecione **Atualizar** ao lado do **Contrato de Cliente da Microsoft**  
-2. Preencha as informações sobre o indivíduo na empresa do cliente que aceitou o MCuA.
+2. Preencha as informações sobre o indivíduo na empresa do cliente que aceitou o MCA.
 3. Selecione **Salvar e continuar**.  
 
 ## <a name="review-and-buy"></a>Examinar e comprar
