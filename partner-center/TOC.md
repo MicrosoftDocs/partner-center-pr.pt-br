@@ -18,7 +18,9 @@
 ### [Renovar suas ofertas](renew-mpn-offers.md)
 ## [Competências](learn-about-competencies.md)
 ## [Programa Provedor de serviços gerenciados de Especialistas do Azure](azure-expert-msp.md)
-## [Benefícios](manage-your-partner-network-benefits.md)
+## Benefícios
+### [Visão geral dos benefícios](manage-your-partner-network-benefits.md)
+### [Benefícios de entrada no mercado](mpn-learn-about-go-to-market-benefits.md)
 ## [Programas do Software Assurance](software-assurance-lp.md)
 ### [Programa SATV (Comprovante de Treinamento do Software Assurance) no Partner Center](software-assurance-satv.md)
 ### [Usar a ferramenta de Validação e Resgate de Comprovante no Partner Center para validar, reservar e resgatar comprovantes](voucher-validation-tool.md)
