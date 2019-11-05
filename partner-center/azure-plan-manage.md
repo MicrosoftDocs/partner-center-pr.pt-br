@@ -1,18 +1,18 @@
 ---
 title: Gerenciar assinaturas e recursos no âmbito do plano do Azure | Partner Center
 ms.topic: article
-ms.date: 10/04/2019
-description: Comprar várias assinaturas do Azure sem precisar enviar pedidos separados para cada assinatura
+ms.date: 11/01/2019
+description: Comprar várias assinaturas do Azure no âmbito do plano do Azure
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 5aa39cbecc7f468329c9a5234dd975c776a63ea6
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: c86dee497df6701be0b0c1a734d37823ec51ca9c
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997868"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428494"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Gerenciar assinaturas e recursos no âmbito do plano do Azure
 
@@ -23,7 +23,7 @@ Ao fazer a transição de um cliente para o plano do Azure, você recebe direito
 
  Os parceiros podem obter controle operacional 24x7 e gerenciamento dos recursos do Azure de um cliente no CSP usando diferentes opções fornecidas por meio do recurso de RBAC (controle de acesso baseado em função). 
 
-- **AOBO (Administrador em nome de)** – Com o recurso AOBO, qualquer usuário com a função de agente de administrador no locatário do parceiro terá acesso de proprietário do RBAC às assinaturas do Azure que você criar por meio do programa CSP.
+- **AOBO (Administrador em nome de)** – Com o recurso [AOBO](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO), qualquer usuário com a função de agente administrativo no locatário do parceiro terá acesso de proprietário do RBAC às assinaturas do Azure que você criar por meio do programa CSP.
 
 - **Azure Lighthouse**: O AOBO não permite a flexibilidade de criar grupos distintos que funcionem com clientes diferentes ou para habilitar funções diferentes para grupos ou usuários. Usando o Azure Lighthouse, você pode atribuir diferentes grupos a diferentes clientes ou funções. Como os usuários terão o nível apropriado de acesso por meio do gerenciamento de recursos delegado do Azure, você poderá reduzir o número de usuários que têm a função de Agente Administrador (e, portanto, ter acesso total por meio do AOBO). Isso ajuda a melhorar a segurança limitando o acesso desnecessário aos recursos de seus clientes. Isso também proporciona mais flexibilidade para gerenciar vários clientes em escala. Para obter mais informações, leia [Azure Lighthouse e o programa Provedor de Soluções na Nuvem](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider).
 
@@ -39,8 +39,8 @@ A tabela a seguir mostra os métodos usados para associar sua ID de parceiro a v
 |-----------------|:------------------------|:------------------|
 |AOBO   |O parceiro direto do CSP ou o provedor indireto cria a assinatura para o cliente, tornando o parceiro direto do CSP ou provedor indireto o proprietário padrão da assinatura por meio do AOBO. O parceiro direto do CSP ou o provedor indireto concede acesso indireto ao revendedor à assinatura usando o AOBO.|Automático (não requer esforço do parceiro)|
 |Azure Lighthouse|O parceiro cria uma nova [oferta de Serviços Gerenciados no Marketplace](https://docs.microsoft.com/azure/lighthouse/concepts/managed-services-offers). Esta oferta é aceita na assinatura do CSP e o parceiro obtém acesso à assinatura do CSP.|Automático (não requer esforço do parceiro)|
-|Azure Lighthouse|O parceiro implanta o [modelo ARM](https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer) na assinatura do Azure|O parceiro precisa associar a ID do MPN ao usuário ou à entidade de serviço no locatário do parceiro. Para obter mais informações – [Vincular ID do Parceiro](https://docs.microsoft.com/en-us/azure/billing/billing-partner-admin-link-started).|
-|Diretório ou usuário convidado|O parceiro cria um novo usuário ou entidade de serviço no diretório do cliente e fornece acesso à assinatura do CSP para o usuário. O parceiro cria um novo usuário ou entidade de serviço no diretório do cliente. O parceiro adiciona o usuário a um grupo e dá acesso à assinatura do CSP para o grupo.|O parceiro precisa associar a ID do MPN ao usuário ou à entidade de serviço no locatário do cliente. Para obter mais informações – [Vincular ID do Parceiro](https://docs.microsoft.com/en-us/azure/billing/billing-partner-admin-link-started).|
+|Azure Lighthouse|O parceiro implanta o [modelo ARM](https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer) na assinatura do Azure|O parceiro precisa associar a ID do MPN ao usuário ou à entidade de serviço no locatário do parceiro. Para obter mais informações – [Vincular ID do Parceiro](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).|
+|Diretório ou usuário convidado|O parceiro cria um novo usuário ou entidade de serviço no diretório do cliente e fornece acesso à assinatura do CSP para o usuário. O parceiro cria um novo usuário ou entidade de serviço no diretório do cliente. O parceiro adiciona o usuário a um grupo e dá acesso à assinatura do CSP para o grupo.|O parceiro precisa associar a ID do MPN ao usuário ou à entidade de serviço no locatário do cliente. Para obter mais informações – [Vincular ID do Parceiro](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).|
 
 ## <a name="confirm-that-you-have-admin-access"></a>Confirme se você tem acesso de administrador
 
@@ -72,7 +72,12 @@ O acesso baseado em função difere do acesso de administrador. As funções del
 
 Para ver as funções qualificadas para obter o PEC, leia [Funções e permissões para o crédito ganho pelo parceiro](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QuW2).
 
+
+
+
 **Para saber mais**
+
+- [Revogar e restabelecer privilégios de administrador para assinaturas do Azure CSP](revoke-reinstate-csp.md)
 
 - [Crédito ganho pelo parceiro – visão geral](partner-earned-credit.md)
 

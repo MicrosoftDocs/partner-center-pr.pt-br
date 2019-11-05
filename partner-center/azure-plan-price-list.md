@@ -1,19 +1,19 @@
 ---
 title: Lista de preços do plano do Azure | Partner Center
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 11/01/2019
 description: Como ver a lista de preços para assinaturas no plano do Azure
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 64f7b6930f31afc63397ae3ed0e0dba2357b0f1e
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 53e5327b505de1c1860e44b477aca21b5aef2d2b
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171285"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428544"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Lista de preços da nova experiência de comércio no CSP para Azure 
 
@@ -54,10 +54,9 @@ A lista de preços da nova experiência de comércio do Azure no CSP é publicad
 
     - **Taxas de câmbio**: as taxas de câmbio estarão disponíveis para download no dia anterior ao 1º dia do mês, às 18:00 PST. Por exemplo, se você quiser as taxas de novembro, baixe as taxas no dia 31 de outubro. As taxas de câmbio do mês anterior também estarão disponíveis.
 
-    - **Serviços qualificados**: o crédito ganho pelo parceiro é aplicável aos serviços listados nos **preços de consumo do plano do Azure**, que os parceiros podem exportar da página de preços do plano do Azure. Observe que há exceções que incluem, dentre outras coisas, reservas de terceiros e do Azure.
-
 - Os preços das listas de preços são diretos. Alguns parceiros podem estar qualificados para receber o crédito ganho pelo parceiro. Para obter informações sobre como o crédito ganho pelo parceiro é calculado, leia [Como o crédito ganho pelo parceiro é calculado e pago](partner-earned-credit-explanation.md).
 
+- **Serviços qualificados**: O crédito ganho pelo parceiro é aplicável aos serviços listados nos **preços de consumo do plano do Azure**, que os parceiros podem exportar da página de [preços do plano do Azure](https://partner.microsoft.com/commerce/sales). Observe que há exceções que incluem, mas não se limitam a, produtos de terceiros identificados como "De Terceiros" na coluna Marcas da lista de preços de consumo do plano do Azure, reservas do plano do Azure.
 
 ## <a name="price-list-data"></a>Dados da lista de preços
 

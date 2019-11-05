@@ -1,23 +1,23 @@
 ---
 title: Migrar para o plano do Azure – introdução | Partner Center
 ms.topic: article
-ms.date: 10/15/2019
-description: ''
+ms.date: 11/01/2019
+description: Comprar assinaturas na nova experiência de comércio para o Azure
 author: LauraBrenner
 ms.author: labrenne
-Keywords: ''
+Keywords: Azure, plano do Azure, comprar assinaturas, assinaturas
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: eb46255403297539c17145b82ecf096699abe390
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 23dddf8f521d035a99b685b359fffd00247467e9
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171274"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428450"
 ---
 # <a name="move-to-azure-plan---get-started"></a>Migrar para o plano do Azure – introdução
 
-A Microsoft introduziu uma nova experiência de comércio no CSP para parceiros do Azure que assinaram o Contrato de Parceiro da Microsoft. Com essa nova experiência de comércio, os parceiros terão acesso aos serviços do Azure com tarifas pagas conforme o uso para clientes sob o Contrato de Cliente da Microsoft. 
+A Microsoft introduziu uma nova experiência de comércio no Partner Center.  Com essa nova experiência de comércio, os parceiros terão acesso aos serviços do Azure com tarifas pagas conforme o uso para clientes sob o Contrato de Cliente da Microsoft. 
 
 Este plano simplifica a experiência de compra – você pode ter várias assinaturas do Azure em um único plano do Azure. Você não precisa mais enviar um pedido separado por assinatura do Azure. E, nesta nova experiência de comércio para o Azure, nós nos alinhamos a um único princípio de preço global, permitindo aos parceiros CSP oferecer o Azure com os preços publicados. 
 
@@ -25,7 +25,7 @@ As necessidades de transformação digital de nossos clientes exigem novas habil
 
 ## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>Verifique se os clientes assinaram o Contrato de Cliente da Microsoft
 
-A partir de 1º de outubro de 2019, o Contrato de Cliente da Microsoft – um contrato permanente que simplifica e agiliza a experiência de compra do cliente com um processo totalmente digital – estará disponível para os clientes assinarem digitalmente. Todos os clientes que desejam aproveitar a nova experiência de comércio no CSP para o Azure devem assinar o Contrato de Cliente da Microsoft.
+Desde 1º de outubro de 2019, o Contrato de Cliente da Microsoft – um contrato permanente que simplifica e agiliza a experiência de compra do cliente com um processo totalmente digital – está disponível para os clientes assinarem digitalmente. Todos os clientes que desejam aproveitar a nova experiência de comércio no CSP para o Azure devem assinar o Contrato de Cliente da Microsoft.
 
 Para todos os detalhes, leia [Confirmar a aceitação pelo cliente do Contrato de Cliente da Microsoft](confirm-customer-agreement.md)
 

@@ -1,18 +1,18 @@
 ---
 title: Comprar o plano do Azure | Partner Center
 ms.topic: article
-ms.date: 10/01/2019
-description: Comprar várias assinaturas do Azure sem precisar enviar pedidos separados para cada assinatura
+ms.date: 11/01/2019
+description: Comprar várias assinaturas do Azure no âmbito do plano do Azure
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 0eead95dc6847dd1eca8f54d7a6e15f8312f9481
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 6415235db3e0307e9185e69c1b8beee48512c792
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171200"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428529"
 ---
 # <a name="purchase-the-azure-plan"></a>Comprar o plano do Azure
 
@@ -30,10 +30,11 @@ A maneira como você adquire o plano do Azure é semelhante à compra de qualque
 
 ![Adquirir](images/azure/Azurepurchase1.png)
 
-O parceiro deve confirmar se o cliente examinou e aceitou os termos do Contrato de Cliente da Microsoft. Para obter mais informações sobre como o parceiro pode fazer isso, leia [Confirmar a aceitação pelo cliente do Contrato de Cliente da Microsoft](https://docs.microsoft.com/en-us/partner-center/confirm-customer-agreement). Esses recursos estão disponíveis na [galeria de recursos](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
+O parceiro deve confirmar se o cliente examinou e aceitou os termos do Contrato de Cliente da Microsoft. Para obter mais informações sobre como o parceiro pode fazer isso, leia [Confirmar a aceitação pelo cliente do Contrato de Cliente da Microsoft](https://docs.microsoft.com/partner-center/confirm-customer-agreement). Esses recursos estão disponíveis na [galeria de recursos](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
 
-1. Confirmação
-2. Convidando o cliente para assinar o Contrato de Cliente da Microsoft diretamente com a Microsoft. 
+**Para confirmar, você pode:**
+1. confirmar digitalmente ou
+2. convidar o cliente para assinar o Contrato de Cliente da Microsoft diretamente com a Microsoft. 
 
 ### <a name="to-confirm"></a>Confirmar 
 
@@ -66,7 +67,7 @@ As reservas do Azure devem estar associadas a um plano do Azure ativo. Escolha o
 
 Observe que o escopo da reserva só pode ser definido como **Compartilhado**, no momento. 
 
-![scopeshared](images/azure/scopeshared.png)
+![scopeshared](images/azure/addprods1.png)
 
 Para gerenciar a reserva do cliente no portal do Azure: 
 
@@ -78,7 +79,7 @@ Para gerenciar a reserva do cliente no portal do Azure:
 
 Na página **Assinaturas**, na seção com base no uso, expanda **plano do Azure** para ver as assinaturas do Azure associadas no âmbito plano do Azure.
 
-![Exibição](images/azure/viewlist.png)
+![Exibição](images/azure/addprods2.png) 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Adicionar assinaturas e configurar recursos

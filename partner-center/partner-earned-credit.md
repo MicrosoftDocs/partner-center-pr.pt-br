@@ -7,20 +7,18 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: a4074382d9cacbc363150db55fab62634150ebfd
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: e09e1421fd0ed1a126a43452d090009c0fb13412
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171169"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428433"
 ---
 # <a name="partner-earned-credit---overview"></a>Crédito ganho pelo parceiro – visão geral
-
 
 O Crédito ganho pelo parceiro na nova experiência de comércio no CSP é um modelo de negócios que realiza um preço do Azure uniforme simplificado nos veículos de Go-To-Market da Microsoft, ao mesmo tempo em que incentiva um ecossistema de parceiros que fornece serviços gerenciados com valor agregado. O Crédito ganho pelo parceiro também ajuda a eliminar qualquer competição de margens. 
 
 Com milhares de serviços no Azure e várias opções de compra, os preços podem ser desafiadores para muitos clientes e parceiros. Na nova experiência de comércio do Azure, nós nos alinhamos a princípios de preços globais únicos aplicáveis a todas as nossas iniciativas relacionadas. Os parceiros CSP podem oferecer o Azure pelos preços publicados. Isso fornece maior transparência para seus clientes e amplia a confiança. 
-
 
 As necessidades de transformação digital de nossos clientes estão alterando a natureza do valor que os parceiros oferecem. Muitos clientes procuram parceiros que forneçam serviços além da transação a fim de tornar o percurso da nuvem mais suave e ajudar a consumir os serviços do Azure com eficiência. Esses serviços têm natureza contínua e incluem o monitoramento da propriedade do Azure, o gerenciamento de políticas e governança, o ajuste fino das configurações, o suporte técnico e uma série de outros serviços. 
 
@@ -66,11 +64,12 @@ Saiba mais sobre como expandir seu [portfólio de serviços gerenciados com o Az
 Esses serviços envolvem um nível apropriado de acesso para parceiros no ambiente do Azure do cliente e o nosso sistema de comércio medirá os detalhes de acesso para calcular os créditos ganhos pelo parceiro.  
 
 >[!Note]
-
 >Os clientes terão a opção de remover todos os acessos concedidos aos parceiros. Os parceiros não devem forçar os clientes a atribuir o acesso apropriado com o único propósito de conquistar créditos ganhos pelo parceiro da Microsoft – o não cumprimento desse requisito pode desqualificar o parceiro para pleitear créditos ganhos pelo parceiro.
 
 **Para saber mais**
-- [Como o crédito ganho pelo parceiro é calculado e pago]
+
+- [Como o crédito ganho pelo parceiro é calculado e pago](partner-earned-credit-explanation.md)
+
 - [Gerenciar assinaturas e recursos no âmbito do plano do Azure](azure-plan-manage.md)
 
 - [Lista de preços para a nova experiência de comércio do Azure no CSP](azure-plan-price-list.md)
