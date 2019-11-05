@@ -7,12 +7,12 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: piloto automático, piloto automático do Windows, Microsoft AutoPilot, implantação Zero Touch, OOBE, telas de logon, pronto para uso
 ms.localizationpriority: medium
-ms.openlocfilehash: 213ed9e45e0109eaa88d7575249272ba403dfcfd
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: 7861efa8c0fd7e03488ba3f222fcb3a476c06cc2
+ms.sourcegitcommit: 76c34fd8dc544cea93496079df68759a1da9098c
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708750"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "73544048"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personalizar a experiência inicial de um dispositivo com os perfis do Windows AutoPilot
 
@@ -113,7 +113,7 @@ Depois de criar um perfil de AutoPilot para um cliente, você pode aplicá-lo ao
 3. Em **aplicar perfis a dispositivos** , selecione os dispositivos dos quais você deseja remover o perfil e, em seguida, selecione **remover Perfil**.
 
    >[!NOTE]
-   >A remoção de um perfil de um dispositivo não exclui o perfil da sua lista. Se você quiser excluir um perfil, siga as instruções em [atualizar ou excluir um perfil](#update-or-delete-an-autopilot-profile)do AutoPilot.
+   >A remoção de um perfil de um dispositivo não exclui o perfil da sua lista. Se você quiser excluir um perfil, siga as instruções em [atualizar ou excluir um perfil do AutoPilot](#update-or-delete-an-autopilot-profile).
 
 ### <a name="update-or-delete-an-autopilot-profile"></a>Atualizar ou excluir um perfil do AutoPilot
 
@@ -158,6 +158,27 @@ Siga as instruções abaixo para adicionar dispositivos à conta de um cliente n
 5. Carregue o arquivo. csv e, em seguida, selecione **salvar**.
 
 Se você receber uma mensagem de erro ao tentar carregar o arquivo. csv, verifique o formato do arquivo. Você pode usar somente o hash de hardware ou o nome do OEM, o número de série e o modelo (na ordem da coluna) ou a ID do produto do Windows. Você também pode usar o arquivo. csv de exemplo fornecido no link ao lado de **Adicionar dispositivos** para criar uma lista de dispositivos.
+
+Seu arquivo. csv deve ser semelhante a este:
+
+> **Número de série do dispositivo, ID do produto do Windows, hash de hardware, nome do fabricante, modelo do dispositivo**
+
+> **{serialNumber},,, Microsoft Corporation, laptop Surface**
+
+Observe que "nome do fabricante" e "modelo do dispositivo" diferenciam maiúsculas de minúsculas.
+
+Se você não souber qual valor deve ser colocado para o nome do fabricante e o modelo do dispositivo, poderá executá-lo no dispositivo para reunir os valores corretos:
+
+<pre><code>md c:\\HWID
+
+Set-Location c:\\HWID
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Unrestricted
+
+Install-Script -Name Get-WindowsAutoPilotInfo
+
+Get-WindowsAutoPilotInfo.ps1 -OutputFile AutoPilotHWID.csv -Partner -Force
+</code></pre>
 
 ## <a name="windows-autopilot-eula-dismissal"></a>Descartar EULA do Windows AutoPilot
 
