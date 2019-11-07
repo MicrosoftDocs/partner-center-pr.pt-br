@@ -2,17 +2,19 @@
 title: Programa SATV (Software Assurance Training Voucher) no Partner Center | Partner Center
 ms.topic: article
 ms.date: 10/11/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Registre-se no programa de treinamento do Software Assurance
 author: LauraBrenner
 ms.author: labrenne
 keywords: comprovantes de treinamento, software assurance, treinamento, inscrição no SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0b5b91efea2814582e64e147cf3bf9f7c22bdd89
-ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
+ms.openlocfilehash: 60d60ecb5dca320bc0fc0da2908db95bd200a7be
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73142021"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651594"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programa SATV (Software Assurance Training Voucher) no Partner Center
 
@@ -22,7 +24,7 @@ Como um parceiro de treinamento do Software Assurance aprovado, a Microsoft comp
 
 ## <a name="get-started"></a>Introdução
 
-Se você for iniciante nos serviços de treinamento do Software Assurance, siga todas as etapas abaixo. Se você já estiver ativo no programa de comprovante de treinamento, comece na etapa quatro (4) abaixo. 
+Se você for novo nos serviços de treinamento do Software Assurance, siga todas as etapas abaixo. Se você já estiver ativo no programa de comprovante de treinamento, comece na etapa quatro (4) abaixo. 
 
 1. Confirmar elegibilidade para o programa
 2. Inscrever-se no programa de treinamento
@@ -39,11 +41,11 @@ Este artigo explica como concluir cada etapa.
 
 Antes de poder se registrar no programa SATV, você deve primeiro concluir os requisitos para a opção de aprendizado da Microsoft Partner Network, que substitui a competência do Microsoft Learning. Saiba como começar a usar a [Opção de aprendizado.](https://partner.microsoft.com/membership/learning-partners)
 
-Você pode verificar a elegibilidade da sua empresa, incluindo requisitos aplicáveis de competência e avaliação no Partner Center. Siga as instruções na [etapa 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) do fluxo de trabalho do SATV para obter mais detalhes e capturas de tela.
+Você pode verificar a qualificação da sua empresa, incluindo requisitos aplicáveis de competência e avaliação no Partner Center. Siga as instruções na [etapa 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) do fluxo de trabalho do SATV para obter mais detalhes e capturas de tela.
 
 ## <a name="enroll-in-the-training-program"></a>Inscrever-se no programa de treinamento
 
-Após sua empresa atender aos requisitos de elegibilidade e os participantes do programa tiverem sido aprovados o curso de treinamento de conformidade, você estará pronto para assinar o contrato e registrar-se no programa Software Assurance Training Voucher. Certifique-se de examinar todas as [políticas do programa SATV](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)e siga as instruções na [etapa 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) do fluxo de trabalho para concluir o processo de registro do SATV no Partner Center.   
+Depois que sua empresa atender aos requisitos de qualificação e os participantes do programa tiverem aprovado o curso de treinamento de conformidade, você estará pronto para assinar o contrato e o registro do programa de comprovante do Software Assurance Training. Certifique-se de examinar todas as [políticas do programa SATV](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)e siga as instruções na [etapa 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) do fluxo de trabalho para concluir o processo de registro do SATV no Partner Center.   
 
 
 ## <a name="confirm-course-eligibility"></a>Confirmar elegibilidade para o curso

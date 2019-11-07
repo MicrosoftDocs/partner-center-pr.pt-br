@@ -2,18 +2,20 @@
 title: Vender assinaturas de software por meio do CSP | Partner Center
 ms.topic: article
 ms.date: 05/13/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Agora você pode adquirir, provisionar e gerenciar instâncias reservadas do Azure e assinaturas de servidor em nome dos clientes comerciais por meio do Microsoft Partner Center e do Portal do Azure tirando proveito do Benefício Híbrido do Azure.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Provedor de Soluções na Nuvem, CSP, Serviços baseados na nuvem, Azure, Azure RI, Windows Server, SQL Server, assinaturas de software
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 60ea2b3b5d497e60b243112748780c2f20c59735
-ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
-ms.translationtype: HT
+ms.openlocfilehash: 7dd7d672c231c641e0385be0cff89f19483383f9
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "68376418"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653483"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vender assinaturas de software por meio do CSP
 
@@ -106,4 +108,4 @@ Siga as etapas abaixo para cancelar uma compra:
 
 8.  Se você precisar anexar um arquivo por qualquer motivo, selecione **Adicionar arquivos**. Esta etapa é opcional. 
 
-9.  Quando terminar, selecione **Enviar**.
+9.  Quando tiver terminado, selecione **Enviar**.

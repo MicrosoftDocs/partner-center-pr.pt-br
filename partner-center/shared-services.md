@@ -2,26 +2,28 @@
 title: Adicionar Serviços Compartilhados do Parceiro Azure | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Os Serviços Compartilhados do Parceiro Azure são um novo tipo de oferta para parceiros no programa CSP, permitindo que os parceiros adquiram assinaturas do Azure para uso próprio.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, serviços compartilhados, locatário
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: bfdb82d0698f2e0aba3f5284a53fe22010efc0da
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 10d2effe05bb6472a7253d094b8e25c17b9c21eb
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134921"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651675"
 ---
-# <a name="add-azure-partner-shared-services"></a>Adicionar Serviços Compartilhados do Parceiro Azure
+# <a name="add-azure-partner-shared-services"></a>Adicionar os Serviços Compartilhados com Parceiros do Azure
 
 **Aplica-se a**
 
 -  Partner Center
 
-Os Serviços Compartilhados do Parceiro Azure são um novo tipo de oferta para parceiros no programa CSP, permitindo que os parceiros adquiram assinaturas do Azure para uso próprio.  Ele cria a oportunidade para parceiros ao usar um método uniforme para compra, acompanhamento e gerenciamento do Azure além da capacidade para consolidar seu Azure licenciamento e revenda contratos com a Microsoft. Com os Serviços Compartilhados do Parceiro Azure, agora os parceiros têm a mesma flexibilidade para usar assinaturas do Azure no CSP que eles têm nos programas Microsoft Enterprise Agreement e Web Direct, abrindo cenários como: criação de ambientes de desenvolvimento e teste, implantação de cargas de trabalho internas e hospedagem de serviços compartilhados ou aplicativos de multilocatários.  
+Os Serviços Compartilhados do Parceiro Azure são um novo tipo de oferta para parceiros no programa CSP, permitindo que os parceiros adquiram assinaturas do Azure para uso próprio.  Ele cria a oportunidade para que os parceiros usem um método uniforme para comprar, controlar e gerenciar o Azure além da capacidade de consolidar o licenciamento do Azure e revender contratos com a Microsoft. Com os Serviços Compartilhados do Parceiro Azure, agora os parceiros têm a mesma flexibilidade para usar assinaturas do Azure no CSP que eles têm nos programas Microsoft Enterprise Agreement e Web Direct, abrindo cenários como: criação de ambientes de desenvolvimento e teste, implantação de cargas de trabalho internas e hospedagem de serviços compartilhados ou aplicativos de multilocatários.  
 
 ## <a name="create-the-shared-services-tenant"></a>Criar o locatário de serviços compartilhados
 
@@ -39,13 +41,13 @@ Os Serviços Compartilhados do Parceiro Azure são um novo tipo de oferta para p
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>Sobre a oferta dos Serviços Compartilhados/Internos do Azure
 
-- A assinatura do Azure – Serviços Compartilhados/Internos é um novo tipo de oferta do Azure no CSP acessada por meio do Partner Center que os parceiros obtém para seu próprio uso do Azure. 
+- A assinatura Azure-Serviços Compartilhados/Internos é um novo tipo de oferta do Azure no CSP acessado por meio do Partner Center que os parceiros obtêm para seu próprio uso do Azure. 
 
-- A oferta Azure - Serviços Compartilhados/Internos não está qualificada para descontos e incentivos.
+- A oferta de Azure-Serviços Compartilhados/Internos não está qualificada para descontos e incentivos.
 
 - A oferta Azure - Serviços Compartilhados/Internos só pode ser aplicada ao locatário de serviços compartilhados.
 
-- O uso principal da assinatura do Azure – Serviços Compartilhados/Internos é para que você possa usar o Azure para seus próprios fins de desenvolvimento. O locatário compartilhado que você usa para provisionar esta oferta não pode ser usado para outros serviços como o Office 365 ou estações do Dynamics. 
+- O uso principal para a assinatura Azure-Serviços Compartilhados/Internos é para que você possa usar o Azure para suas próprias finalidades de desenvolvimento. O locatário compartilhado que você usa para provisionar esta oferta não pode ser usado para outros serviços como o Office 365 ou estações do Dynamics. 
 
 - Você pode cancelar a assinatura como qualquer outra assinatura. Acesse as **configurações** > **Exibir todas as configurações** > **Serviços compartilhados**. Selecione a assinatura do Azure - Serviços Compartilhados/Internos e cancele-a.
 
@@ -57,19 +59,19 @@ Você encontrará o consumo do Azure em sua fatura do CSP e no arquivo de reconc
 
 Para ver o novo arquivo de definição de preços dos Serviços Compartilhados do Parceiro Azure, acesse **Vender** > **Preços e ofertas** e selecione a lista de preços do mês atual. Nas próximas semanas, também será lançada uma API de tabela de tarifas específica.
 
-## <a name="marketplace-offers-and-azure-partner-shared-services"></a>As ofertas do Marketplace e serviços compartilhados do parceiro do Azure
+## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Ofertas do Marketplace e serviços compartilhados de parceiros do Azure
 
-A partir de 1º de março de 2019, o Azure Partner Shared Services (APSS) não oferece suporte a ofertas do Marketplace.   
+A partir de 1º de março de 2019, o APSS (serviços compartilhados de parceiros do Azure) não oferece mais suporte a ofertas do Marketplace.   
 
-|**Suporte do Marketplace**   |**APSS compatível antes de 1 de março de 2019**|**Após 1 de março de 2019**|
+|**Suporte do Marketplace**   |**APSS com suporte antes de 1º de março de 2019**|**Após 1º de março de 2019**|
 |---------------------------|:----------------------------|:-------------------|
-|Traga sua própria licença (BYOL) e serviços gratuitos   | Sim   | Não|
-|Outras ofertas do marketplace de terceiros   | Não   |Não|
+|BYOL (traga sua própria licença) e serviços gratuitos   | Sim   | Não|
+|Outras ofertas de Marketplace de terceiros   | Não   |Não|
 
 
-Parceiros que tem BYOL ou livre serviços implantados usando APSS não serão afetados; No entanto após 1 de março de 2019 eles não poderão adquirir nova BYOL ou serviços gratuitos. 
+Os parceiros que têm serviços BYOL ou gratuitos implantados usando o APSS não serão afetados; no entanto, após 1º de março de 2019, eles não poderão comprar novos BYOL ou serviços gratuitos. 
 
-Para tirar proveito de todo o catálogo de ofertas do Marketplace disponíveis (não apenas serviços gratuitos e BYOL) é recomendável que os parceiros CSP implantem serviços compartilhados usando assinaturas web direct do Azure.  Parceiros CSP que implantaram 3ª parte BYOL e liberam recursos do Marketplace do serviço anteriormente e deseja continuar a usá-los e implantar mais 3ª parte ofertas são incentivadas a migrar a assinatura APSS para diretos da web [migrando Assinaturas do Azure existentes](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
+Para aproveitar o catálogo completo das ofertas do Marketplace disponíveis (não apenas BYOL e serviços gratuitos), recomendamos que os parceiros CSP implantem serviços compartilhados usando assinaturas do Azure Direct Web.  Os parceiros CSP que implantaram BYOL de terceiros e recursos de serviço gratuitos do Marketplace anteriormente e desejavam continuar a usá-los e implantar mais ofertas de terceiros são incentivados a migrar a assinatura do APSS para a Web Direct [migrando o Azure existente Assinaturas](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
 
-Parceiros que planejam continuar a usar assinatura APSS após 1º de março de 2019 e deseja implantar novo participante 3ª [serviços BYOL](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) ou serviços gratuitos, siga as instruções de ISVs para implantá-las em suas assinaturas APSS.
+Os parceiros, que planejam continuar usando a assinatura do APSS após 1º de março de 2019 e desejam implantar novos [serviços de BYOL](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) de terceiros ou serviços gratuitos, podem seguir as instruções de ISVs para implantá-los em suas assinaturas do APSS.
 

@@ -2,19 +2,21 @@
 title: FAQ da ferramenta de validação de comprovante | Centro de parceiros
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Validar e reservar comprovantes no Partner Center
 author: LauraBrenner
 ms.author: labrenne
 keywords: comprovantes de treinamento, Software Assurance, treinamento, validar comprovantes, comprovante de reserva
 ms.localizationpriority: medium
-ms.openlocfilehash: ce1908e74169c3de4d2cd6d2d43ece379bf9d439
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 02da186de1918625068b08d82fee17892074159e
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820503"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651061"
 ---
-# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Perguntas Frequentes: usando a ferramenta Voucher Validation and Redemption 
+# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Perguntas frequentes: Como usar a ferramenta de resgate e validação de comprovantes 
 
 **Aplica-se a**
 
@@ -52,8 +54,8 @@ A partir de 31 de março de 2019, todos os parceiros irão gerenciar seus compro
 
 - Para acessar a ferramenta VVR, sua empresa precisa se registrar no programa SATV ou no programa SA DPS.
 
-Leia as perguntas frequentes mais detalhadas sobre o [fluxo de trabalho da ferramenta de validação](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)de comprovante.
+Leia as perguntas frequentes mais detalhadas sobre o [fluxo de trabalho da ferramenta de validação de comprovante](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o).
 
-Para obter informações sobre como se registrar no SATV, leia programa de comprovante de [treinamento do Software Assurance (SATV) no Partner Center](software-assurance-satv.md).
+Para obter informações sobre como se registrar no SATV, leia [programa de comprovante de treinamento do Software Assurance (SATV) no Partner Center](software-assurance-satv.md).
 
 Para obter informações sobre como se registrar nos programas de DPS do Software Assurance, leia [programas do Software Assurance no Partner Center](software-assurance-dps.md).

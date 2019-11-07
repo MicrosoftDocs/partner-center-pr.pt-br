@@ -2,16 +2,18 @@
 title: Testar os novos recursos do Partner Center
 ms.topic: article
 ms.date: 08/22/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Teste os novos recursos do Partner Center antes que eles sejam lançados e conte-nos sua opinião. Ajude a moldar o futuro do Partner Center!
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fb4f10e7536cbe41fa7455caf340b1748cef2916
-ms.sourcegitcommit: c14db60f552f6e8349170b6ca825dbd073965c03
-ms.translationtype: HT
+ms.openlocfilehash: 6e480d29a5dd1cfedd90d479b107bf3f56f4f3ce
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "69993944"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651211"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Testar os novos recursos do Partner Center
 
@@ -21,7 +23,7 @@ ms.locfileid: "69993944"
 
 ## <a name="help-shape-the-future-of-partner-center"></a>Ajude a moldar o futuro do Partner Center!
 
-Estamos continuamente lançando novos recursos e funcionalidades no Partner Center e queremos seus comentários! 
+Estamos continuamente lançando novos recursos e funcionalidades para o Partner Center e queremos seus comentários! 
 
 Convidamos você a experimentar os novos recursos antes que eles sejam lançados na comunidade do Partner Center em todo o mundo e a compartilhar seus pensamentos sobre eles. Confira a [página de Comunicados do Partner Center](https://partnercenter.microsoft.com/pcv/announcements) para obter informações sobre recursos futuros para que você possa começar a planejar como usá-los para aumentar seus negócios. Observe que pode haver vários recursos disponíveis para teste em um determinado momento.
 
@@ -37,20 +39,20 @@ Convidamos você a experimentar os novos recursos antes que eles sejam lançados
 >  Somente administradores globais e agentes de administração podem ativar versões prévias de recursos. No entanto, qualquer um dos seus usuários do Partner Center pode ver e usar versões prévias de recursos que tenham as permissões aplicáveis.
 
 > [!IMPORTANT]  
-> Continuamos a corrigir erros e melhorar o desempenho de recurso durante a fase de visualização de quaisquer versões de recurso, o que pode resultar em alterações de como funciona o recurso final. Por esses e outros motivos, versões prévias podem apresentar comportamento imprevisível e não transmitem uma garantia real ou legal da Microsoft.
+> Continuamos a corrigir erros e melhorar o desempenho do recurso durante a fase de visualização de quaisquer versões do recurso, o que pode resultar em alterações na forma como o recurso final funciona. Por esses e outros motivos, versões prévias podem apresentar comportamento imprevisível e não transmitem uma garantia real ou legal da Microsoft.
 
-- Confira nosso prazo estimado para disponibilizar um recurso para versão prévia e nosso prazo de ativação estimado para quando lançarmos o recurso na comunidade do Partner Center em todo o mundo
+- Veja nossa data de destino para disponibilizar um recurso para visualização e nossa data de início de destino para quando lançarmos o recurso na Comunidade do Partner Center mundial
 
 > [!NOTE]  
->  O termo *prazo de ativação estimado* refere-se à data em que pretendemos disponibilizar o recurso para todos os usuários do Partner Center em todo o mundo. Entretanto, várias coisas podem afetar a data de ativação, incluindo uma decisão de incorporar os comentários que melhoram o recurso, e podemos decidir reprogramar a data de ativação ou não lançar uma versão comercial do recurso.  
+>  Pela *data de início de destino*, queremos dizer a data em que estamos planejando disponibilizar o recurso para todos os usuários mundiais do Partner Center. Entretanto, várias coisas podem afetar a data de ativação, incluindo uma decisão de incorporar os comentários que melhoram o recurso, e podemos decidir reprogramar a data de ativação ou não lançar uma versão comercial do recurso.  
 
 
  
 ## <a name="tell-us-what-you-think"></a>Diga-nos o que você acha
 
-Nossa missão em tudo o que desenvolvemos para o Partner Center é capacitar você a alcançar mais. Queremos concentrar nossos esforços em recursos e funcionalidades que ajudam você a expandir seus negócios, portanto, convidamos você a experimentar os novos recursos e compartilhar seus comentários sobre eles antes que sejam lançados na comunidade do Partner Center em todo o mundo. 
+Nossa missão em tudo o que desenvolvemos para o Partner Center é capacitar você a alcançar mais. Queremos concentrar nossos esforços em recursos e funcionalidades que o ajudarão a crescer seus negócios, portanto, convidamos você a experimentar novos recursos e compartilhar seus comentários sobre eles antes que eles sejam lançados para a comunidade mundial de parceiros do Partner Center. 
 
-Recomendamos que você compartilhe suas ideias e opiniões sobre uma versão prévia específica ou sobre o Partner Center como um todo, e sugira novos recursos que você gostaria que fossem adicionados ao site. Para nos fornecer comentários, você pode:  
+Incentivamos você a compartilhar suas ideias e pensamentos sobre uma versão de visualização específica ou sobre o Partner Center como um todo e para sugerir novos recursos que você gostaria de ver adicionados ao site. Para nos fornecer comentários, você pode:  
 
 -   usar o formulário de comentários no canto inferior direito da janela do Partner Center para enviar seus comentários diretamente para nós; 
 

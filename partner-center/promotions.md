@@ -2,16 +2,18 @@
 title: Use promoções para atrair novos clientes | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Como um parceiro da Microsoft no programa provedor de soluções na nuvem, você pode adquirir assinaturas no preço da promoção e repassar a economia para seus clientes.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: eb925008e19a1512cfb43b340d4ecfa6c16f0e0d
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: c63283038a4bc8eb7738567f6316df37911d3361
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134656"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652143"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Use promoções para atrair novos clientes  
 
@@ -19,7 +21,7 @@ ms.locfileid: "62134656"
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
-Ocasionalmente, a Microsoft oferece promoções em assinaturas baseadas em licença, permitindo que você passe a economia para os clientes e expanda seus negócios. 
+Ocasionalmente, a Microsoft oferece promoções em assinaturas baseadas em licença, permitindo que você repasse a economia para os clientes e expanda seus negócios. 
 
 A Microsoft oferece dois tipos de promoções; as disponíveis para todos os parceiros elegíveis no programa Provedor de Soluções na Nuvem (CSP), e as disponíveis somente para parceiros em uma determinada região geográfica.
 
@@ -27,7 +29,7 @@ Os preços das promoções são automaticamente aplicados ao seu preço líquido
 
 Reserve um momento para examinar esses fatos importantes sobre as promoções:
 
--   O preço com desconto de uma assinatura se aplica somente à duração da assinatura. Quando uma assinatura com desconto expira, o preço de renovação da assinatura reverte para o preço na lista de preços. Isso significa que todas as assinaturas configuradas para renovação automática serão renovadas pelo preço em vigor. Você pode encontrar a lista de preços na página **Preços e ofertas**. 
+-   O preço da promoção de uma assinatura se aplica somente durante a assinatura. Quando uma assinatura comprada com preços promocionais expira, o preço da assinatura de renovação é revertido para o preço na lista de preços. Isso significa que todas as assinaturas configuradas para renovação automática serão renovadas pelo preço em vigor. Você pode encontrar a lista de preços na página **Preços e ofertas**. 
 
 -   Se uma assinatura é qualificada para várias promoções, a promoção com a porcentagem mais alta é aplicada automaticamente.
 
@@ -35,14 +37,14 @@ Reserve um momento para examinar esses fatos importantes sobre as promoções:
 
 ## <a name="see-available-promotions"></a>Consultar promoções disponíveis
 
-Você pode ver para quais promoções você se qualifica, se houver, na página **Promoções**. Selecione **promoções** de seu **Partner Center** menu para ver uma lista de promoções atuais, junto com o desconto, tipo de promoção e datas de início e término para a assinatura. Se nenhuma promoção estiver disponível, você verá uma mensagem indicando isso. 
+Você pode ver a quais promoções você está qualificado, se houver, na sua página de **promoções** . Selecione **promoções** no menu do **centro de parceiros** para ver uma lista de promoções atuais, juntamente com o desconto, o tipo de promoção e as datas de início e término da assinatura. Se nenhuma promoção estiver disponível, você verá uma mensagem indicando isso. 
 
 > [!NOTE]  
 > Você também pode ver promoções ao realizar uma compra. Quando você seleciona uma assinatura, a porcentagem do desconto aparece na página **Revisão**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Adquirir assinaturas com desconto
 
-1. Em seu **Partner Center** menu, selecione **clientes** e, em seguida, selecione o cliente que é como comprar a assinatura. 
+1. No menu do **Partner Center** , selecione **clientes** e, em seguida, selecione o cliente que está comprando a assinatura. 
 
 2. Selecione **Adicionar assinatura**.
 

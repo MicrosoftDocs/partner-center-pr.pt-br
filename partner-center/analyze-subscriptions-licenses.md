@@ -1,6 +1,8 @@
 ---
 title: Analisar assinaturas e licenças | Partner Center
 ms.date: 08/02/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Use as métricas na página assinatura e análise de licença para identificar seus sucessos e áreas que precisam de mais atenção.
 author: LauraBrenner
 ms.author: labrenne
@@ -9,14 +11,14 @@ ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 29d597b66c16d7f0da29caa023c1da7ba23f9616
-ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
-ms.translationtype: HT
+ms.openlocfilehash: 8c2469a780870df40792eb229ef4d0546e79645d
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "68781997"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651175"
 ---
-# <a name="analyze-subscriptions-and-licenses"></a>Analisar assinaturas e licenças 
+# <a name="analyze-subscriptions-and-licenses"></a>Analisar as assinaturas e as licenças 
 
 **Aplica-se a**
 
@@ -30,31 +32,31 @@ Os dados impulsionam as decisões de negócios. Use as métricas na página **An
 
 Esse relatório pode ser dinâmico com base nos produtos a seguir:
 
- - **Dynamics 365**: Dados do Dynamics 365  
- - **EMS**: Dados do Enterprise Management Services  
- - **Microsoft 365**: Microsoft 365 dados  
- - **Office 365**: Dados do Office 365  
+ - **Dynamics 365**: dados do Dynamics 365  
+ - **EMS**: dados de Serviços de Gerenciamento Empresarial  
+ - **Microsoft 365**: dados do Microsoft 365  
+ - **Office 365**: dados do Office 365  
 
 
 Estamos monitorando as seguintes métricas:
 
 **Resumo**  
- - **Assinaturas vendidas**: Contagem de assinaturas criadas para o período de tempo especificado  
- - **Licenças vendidas**: Contagem de licenças vendidas para o período de tempo especificado   
- - **Assinaturas renovadas em 30 dias**: Contagem de assinaturas em que o status está ativo para o período de tempo especificado e em que a **renovação** renovar é verdadeira
- - **Assinaturas ativas**: Assinaturas em que o status está **ativo**  
- - **Assinaturas suspensas**: Contagem de assinaturas suspensas, não há nenhum filtro de data  
+ - **Assinaturas vendidas**: contagem de assinaturas criadas no período de tempo especificado  
+ - **Licenças vendidas**: contagem de licenças vendidas no período de tempo especificado   
+ - **Renovação de assinaturas em 30 dias**: contagem das assinaturas onde o status é ativo para o período de tempo especificado e onde **Renovar automaticamente** é verdadeiro
+ - **Assinaturas ativas**: assinaturas onde o status é **Ativa**  
+ - **Assinaturas suspensas**: contagem das assinaturas suspensas, não há filtro de datas  
 
 **Divisão do produto**  
- - **Contagem de assinaturas**: 5 principais produtos classificados por assinaturas vendidas  
- - **Contagem de licenças**: 5 principais produtos por licenças classificadas vendidas
+ - **Contagem de assinaturas**: cinco principais produtos classificados por assinaturas vendidas  
+ - **Contagem de licenças**: cinco principais produtos classificados por licenças vendidas
 
 **Retenção de assinatura**
- - **Assinaturas**renovadas: Assinaturas renovadas nos últimos 30 dias  
+ - **Assinaturas renovadas**: assinaturas renovadas nos últimos 30 dias  
 
 **Variação de assinatura**  
  - **Novas assinaturas**: contagem de novas assinaturas no período de tempo, excluindo ofertas de avaliação  
- - **Assinaturas**desprovisionadas: Contagem de assinaturas desprovisionadas ou suspensas por data  
+ - **Assinaturas desprovisionadas**: contagem das assinaturas desprovisionadas ou suspensas por data  
 
 **Assinaturas suspensas**  
  - Lista de todas as assinaturas com o status **Suspensa**, excluindo as ofertas de avaliação  
@@ -63,7 +65,7 @@ Estamos monitorando as seguintes métricas:
  - Lista de todas as assinaturas ativas  
 
 **Conversões de assinatura de avaliação**  
- - **Conversão de avaliação**: Contagem de todas as assinaturas ativas em que a avaliação paga à conversão ocorreu durante o período de tempo especificado  
+ - **Conversão de avaliação**: contagem de todas as assinaturas **Ativas** onde a conversão de avaliação para paga ocorreu durante o período de tempo especificado  
 
 **Assinaturas de avaliação terminando em 30 dias**  
  - Lista de avaliações que foram iniciadas, onde a data de término ocorre dentro de 30 dias, e não há uma data de início pago associada com a assinatura  

@@ -1,64 +1,66 @@
 ---
-title: Solicitar uma crédito de SLA da Microsoft | Partner Center
+title: Solicitar um crédito de SLA da Microsoft | Centro de parceiros
 ms.topic: article
 ms.date: 06/21/2019
-description: Se um serviço sofrer uma interrupção, você pode solicitar uma crédito de SLA para o seu cliente.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Se um serviço sofrer uma interrupção, você poderá solicitar um crédito de SLA para o cliente.
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 72ded8ab9aa9546a4407e7729c16770fae893832
-ms.sourcegitcommit: d99b3cdca6edbc478e2ac6e2927541448bf8190b
-ms.translationtype: HT
+ms.openlocfilehash: 6a04d8e179f48f60c71b2e0e5c723c9d821de797
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/27/2019
-ms.locfileid: "67407868"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651693"
 ---
-# <a name="request-an-sla-credit-from-microsoft"></a>Solicitar uma crédito de SLA da Microsoft 
+# <a name="request-an-sla-credit-from-microsoft"></a>Solicitar um crédito de SLA da Microsoft 
 
-Se um serviço que você está fornecendo aos clientes sofre uma interrupção, será possível solicitar um crédito da Microsoft. Créditos do contrato de nível de serviço (SLA) são determinados com base no qual o serviço foi afetado (por exemplo, se o cliente tem um pacote do O365 e SharePoint só estava inoperante, o crédito de SLA é aprovado para o SharePoint apenas, não para o plano inteiro).
+Se um serviço que você está fornecendo para seus clientes tiver uma interrupção, você poderá solicitar um crédito da Microsoft. Os créditos de Contrato de Nível de Serviço (SLA) são determinados com base em qual serviço foi afetado (ou seja, se o cliente tem um pacote O365 e apenas o SharePoint estava inativo, o crédito SLA é aprovado somente para o SharePoint, não para todo o plano).
 
-Os créditos são estabelecidas proporcionalmente com base no serviço afetado e a duração da interrupção. Para ver os tipos de cenários que se qualificam para os créditos de SLA, leia as [documento do SLA de consolidado de serviços Online](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37). Essas informações se aplicam aos serviços vendidos por meio do programa Cloud Solution Provider, muito.
+Os créditos são classificados pelo pro com base no serviço afetado e na duração da interrupção. Para ver os tipos de cenários que se qualificam para créditos de SLA, leia o [documento SLA consolidado de serviços online](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37). Essas informações também se aplicam a serviços vendidos por meio do programa provedor de soluções na nuvem.
 
 >[!Note]
->**MUITO IMPORTANTE!** O parceiro CSP, o indireto provedor ou o parceiro direto de fatura, (não o cliente final ou o revendedor indireto) deve enviar uma declaração e todas as informações necessárias no final do mês seguinte ao mês no qual ocorreu o incidente. Por exemplo, se o incidente ocorreu no dia 15 de fevereiro, podemos deve receber a declaração e todas as informações necessárias até 31 de março. 
+>**MUITO IMPORTANTE!** O parceiro CSP, o provedor indireto ou o parceiro de cobrança direto (não o cliente final ou o revendedor indireto) deve enviar uma declaração e todas as informações necessárias ao final do mês do calendário após o mês em que o incidente ocorreu. Por exemplo, se o incidente ocorreu em 15 de fevereiro, devemos receber a declaração e todas as informações necessárias até 31 de março. 
 
 ## <a name="required-information"></a>Informações necessárias
 
 
-Para solicitar uma crédito de SLA, você precisará fornecer as seguintes informações: 
+Para solicitar um crédito de SLA, você precisa fornecer as seguintes informações: 
 
-- GUID de locatário do cliente: 
+- GUID do locatário do cliente: 
 
-- Interrupção incidente #: (veja abaixo)
+- Incidente de interrupção n º: (veja abaixo)
 
-- As assinaturas afetadas foram compradas por meio do CSP? Sim/Não
+- As assinaturas afetadas foram adquiridas por meio do CSP? Sim/Não
 
-A ID de incidente de interrupção (por exemplo, EX25194) é encontrada na página de integridade do serviço no Centro de administração do Microsoft 365. Números de incidentes são precedidos de uma 2 letras que indica o serviço afetado, tais como:
+A ID do incidente de interrupção (como EX25194) é encontrada na página integridade do serviço no centro de administração do Microsoft 365. Os números de incidentes são precedidos por uma abreviação de duas letras que indica o serviço afetado, como:
 
-EX - Exchange Online
+EX-Exchange Online
 
-FO - proteção do Exchange Online
+FO-Exchange Online Protection
 
-SB - Skype for Business Online (formalmente o Lync Online)
+SB-Skype for Business online (o Lync Online formalmente)
 
-Sistema operacional – assinatura do Office
+Assinatura do sistema operacional-Office
 
 PB-Power BI para Office 365
 
-SP - SharePoint Online
+SP-SharePoint Online
 
-Vai ser - Enterprise Yammer
+YA-Yammer Enterprise
 
-MO - erro no Portal
+MO-erro do portal
 
 ## <a name="submit-a-request"></a>Enviar uma solicitação
 
 Envie sua solicitação de crédito no Partner Center.
 
-1. No painel do Partner Center, selecione **suporte** da barra de navegação à esquerda.
+1. No painel do Partner Center, selecione **suporte** na barra de navegação à esquerda.
 
-2. Selecione **solicitações de suporte de parceiro** e, em seguida, selecione **CSP - clientes, pedidos e as solicitações de crédito de serviços de assinaturas/cliente**.
+2. Selecione **solicitações de suporte do parceiro** e, em seguida, selecione **CSP – clientes, pedidos e assinaturas/solicitações de crédito de atendimento ao cliente**.
 
 3. Envie sua solicitação de crédito de SLA.
 

@@ -2,17 +2,19 @@
 title: Aplicativo de análise do Partner Center para Power BI | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Use o aplicativo de análise do Partner Center para Power BI (parceiros diretos no CSP)
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 085fcb059a11b487c69ba64d9c411b173ed48c6b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 4db94f32b035be52dea575d4f731d981beb8c1b8
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134566"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652230"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Visualize seus dados de negócio com o aplicativo de análise do Partner Center para Microsoft Power BI
 
@@ -49,120 +51,120 @@ Obtenha uma representação visual de seus dados corporativos com o aplicativo d
 
 ### <a name="business-insights-report"></a>Relatório de ideias de negócios
 
--  **Locatários do cliente**: Número de Azure distinto de clientes que adquiriram assinaturas de locatários do AD
+-  **Locatários do cliente**: Número de locatários Azure distintos de clientes que adquiriram assinaturas
 
--  **Novo (últimos 30 dias)**: Novos clientes, adquirir pelo menos uma assinatura nos últimos 30 dias
+-  **Novo (últimos 30 dias)** : Novos clientes comprando pelo menos uma assinatura nos últimos 30 dias
 
--  **Variação (últimos 30 dias)**: Os clientes sem qualquer "ativo", "na cortesia" ou "desabilitadas" assinaturas
+-  **Rotatividade (últimos 30 dias)** : clientes sem nenhuma assinatura "ativa", "em cortesia" ou "desabilitada"
 
-- **Novo (últimas 24 horas)**: Novos clientes, adquirir pelo menos uma assinatura nas últimas 24 horas
+- **Novo (últimas 24 horas)** : Novos clientes comprando pelo menos uma assinatura nos últimas 24 horas
 
-- **Custo mensal estimado nos últimos 12 meses**: Mês a tendência de mês do valor da nota fiscal antes do imposto de estimado em dólares agregados mensalmente durante o período dos últimos 12 meses
+- **Custo mensal estimado nos últimos 12 meses**: Tendência mês a mês do valor pré-taxado em dólar estimado para a fatura agregado mensalmente durante o período dos últimos 12 meses
 
-- **Custo estimado por produto nos últimos 12 meses**: Produtos vendidos classificados pela quantidade de dólar de nota fiscal de antes do imposto estimado agregados durante o período dos últimos 12 meses. Isso indicará os principais produtos que contribuem para a maior parte da receita.
+- **Custo mensal por produto estimado nos últimos 12 meses**: Produtos vendidos classificados pelo valor pré-taxado em dólar estimado para a fatura agregado mensalmente durante o período dos últimos 12 meses. Isso indicará os principais produtos que contribuem para a maior parte da receita.
 
-- **Os clientes nos últimos 12 meses**: Mês a tendência de mês de novos clientes e rotatividade de clientes agregados mensalmente durante o período dos últimos 12 meses
+- **Clientes nos últimos 12 meses**: Tendência mês a mês de novos clientes e clientes de variação agregados mensalmente durante o período de últimos 12 meses
 
-- **Custo por cliente estimado nos últimos 12 meses**: Clientes classificados pela quantidade de dólar de nota fiscal de antes do imposto estimado agregados durante o período dos últimos 12 meses. Isso indicará os principais clientes que contribuem para a maior parte da receita.
+- **Custo mensal por cliente estimado nos últimos 12 meses**: Clientes classificados pelo valor pré-taxado em dólar estimado para a fatura agregado mensalmente durante o período dos últimos 12 meses. Isso indicará os principais clientes que contribuem para a maior parte da receita.
 
-- **Contagem de clientes por produto**: Os produtos vendidos classificados por clientes associados. Isso indicará principais produtos vendidos para a maioria dos clientes. 
+- **Contagem de cliente por produto**: Produtos vendidos classificados por clientes associados. Isso indicará principais produtos vendidos para a maioria dos clientes. 
 
 
 ### <a name="subscription-insights-report"></a>Relatório de ideias de assinatura 
 
 - **Status da assinatura**:
 
-    - Ativa: As assinaturas que pertencem a "ativo" ou "na cortesia" estado
+    - Ativo: assinaturas pertencentes ao estado "ativo" ou "em carência"
 
-    - Suspenso: Assinaturas que pertencem ao estado "desabilitado"
+    - Suspenso: assinaturas que pertencem ao estado "desabilitado"
 
-    - Desconfigurados: Assinaturas que pertencem ao status de "expirado" ou "desconfigurado"
+    - Desprovisionado: assinaturas que pertencem ao status "desprovisionado" ou "expirado"
 
 - **Status de expiração**:
 
-    - Expirado: As assinaturas que já expiraram (onde a data de término da assinatura está no passado)
+    - Expirado: Assinaturas que já expiraram (onde a data de término da assinatura está no passado)
 
-    - Expirar após 30 dias: Assinaturas que irá expirar após 30 dias (em que data de término da assinatura é após 30 dias)
+    - Expiram após 30 dias: Assinaturas que expirarão após 30 dias (onde data de término da assinatura é depois dos próximos 30 dias)
 
-    - Expirando em 30 dias: Assinaturas que irá expirar nos próximos 30 dias (em que data de término da assinatura é entre hoje e próximos 30 dias)
+    - Expiram em 30 dias: Assinaturas que expirarão nos próximos 30 dias (onde data de término da assinatura é entre hoje e os próximos 30 dias)
 
--  **Total de assinaturas**: Assinaturas "ativo", "na cortesia" ou "desabilitado" status
+-  **Total de assinaturas**: assinaturas no status "ativo", "em carência" ou "desabilitado"
 
-- **Novo (últimos 30 dias)**: Novas assinaturas adquiridas por clientes nos últimos 30 dias
+- **Novo (últimos 30 dias)** : Novas assinaturas compradas por clientes nos últimos 30 dias
 
-- **Novo (últimas 24 horas)**: Novas assinaturas adquiridas por clientes nas últimas 24 horas
+- **Novo (últimas 24 horas)** : Novas assinaturas compradas por clientes nas últimas 24 horas
 
-- **Expirando em 30 dias**: Assinaturas que irá expirar nos próximos 30 dias
+- **Expira em 30 dias**: Assinaturas que expirarão nos próximos 30 dias
 
-- **Variação (últimos 30 dias)**: As assinaturas que foram provisionadas desprovisionar ou suspenso (desabilitado) nos últimos 30 dias
+- **Rotatividade (últimos 30 dias)** : Assinaturas que tiveram o provisionamento cancelado ou que foram suspensas (desabilitadas) nos últimos 30 dias
 
 - **Distribuição por tipos de assinatura**: % distribuição do total de assinaturas por licença com base e o uso com base no tipo de assinatura
 
-- **Contagem de assinatura ativa por produto**: Os produtos vendidos classificados pela contagem de assinaturas ativas
+- **Contagem de assinatura ativa por produto**: Produtos vendidos classificados por contagem de assinaturas ativas
 
-- **As assinaturas nos últimos 12 meses**: Mês a tendência de mês de novas assinaturas e assinaturas de variação agregados mensalmente durante o período dos últimos 12 meses
+- **Assinaturas nos últimos 12 meses**: Tendência mês a mês de novas assinaturas e assinaturas com rotatividade agregadas mensalmente durante o período de últimos 12 meses
 
-- **Detalhes de assinatura de cliente**: Exibição detalhada dos clientes, assinaturas e ofertas 
+- **Detalhes de assinatura do cliente**: Visualização detalhada dos clientes, assinaturas e ofertas 
 
 
 ### <a name="license-insights-report"></a>Relatório de ideias de licença:
 
-- **Total de licenças**: Número total de licenças agregada entre todas as assinaturas de licença com base em
+- **Total de licenças**: Número total de licenças agregadas em todas as assinaturas com base na licença
 
-- **Novo (últimos 30 dias)**: Adição de licença nos últimos 30 dias
+- **Novo (últimos 30 dias)** : Adição de licenças nos últimos 30 dias
 
-- **Variação (últimos 30 dias)**: Redução de licença nos últimos 30 dias
+- **Rotatividade (últimos 30 dias)** : Redução de licenças nos últimos 30 dias
 
-- **Novo (últimas 24 horas)**: Adição de licença nas últimas 24 horas
+- **Novo (últimas 24 horas)** : Adição de licenças nas últimas 24 horas
 
-- **Licenças nos últimos 90 dias**: Mês a tendência de mês de adições de licença e reduções agregados mensalmente durante o período dos últimos 90 dias
+- **Licenças nos últimos 90 dias**: Tendência mês a mês de adições e reduções de licença agregadas mensalmente durante o período dos últimos 90 dias
 
-- **Contagem de licença ativa por produto**: Os produtos vendidos classificados pela contagem de licenças do Active Directory
+- **Contagem de licença ativa por produto**: Produtos vendidos classificados por contagem de licenças ativas
 
-- **Contagem de licença ativa por cliente**: Os clientes classificados por classificados pela contagem de licença do Active Directory
+- **Contagem de licença ativa por cliente**: Clientes classificados por contagem de licenças ativas
 
-- **Detalhes do evento de licença de cliente nos últimos 90 dias**: Exibição detalhada dos clientes, assinaturas e eventos de assinatura, incluindo o evento data, nome do evento, quantidade e alteração na quantidade.
+- **Detalhes do evento de licença de cliente nos últimos 90 dias**: Visualização detalhada de clientes, assinaturas e eventos de assinatura, incluindo eventos data, nome do evento, quantidade e alteração na quantidade.
 
 
 ### <a name="licenses-usage-report"></a>Relatório de uso de licenças:
 
-- **Licenças atribuídas pelo produto**: Os produtos vendidos classificados pela contagem de atribuição de licença
+- **Licenças atribuídas por produto**: Produtos vendidos classificados por contagem de atribuição
 
-- **Licenças em uso por produto**: Os produtos vendidos classificados pela contagem de uso de licença
+- **Licenças em uso por produto**: Produtos vendidos classificados por contagem de uso de licença
 
 - **Distribuição de cliente de licenças atribuídas**: distribuição % do total de clientes desfeitos em classificações de faixas de 20% por % de atribuição de licença
 
 - **Distribuição de cliente de licenças em uso**: distribuição % do total de clientes desfeitos em classificações de faixas de 20% por % de uso de licença
 
-- **Licenças atribuídas pelo cliente**: Exibição detalhada das licenças vendidas e licenças atribuídas por clientes e produtos
+- **Licenças atribuídas pelo cliente**: Visualização detalhada de licenças vendidas e licenças atribuídas por cliente e produto
 
-- **Licenças em uso pelo cliente**: Exibição detalhada de licenças vendidas e licenças em uso por clientes e produtos
+- **Licenças em uso por cliente**: Visualização detalhada de licenças em uso por cliente e produto
 
 
 ### <a name="azure-insights-report"></a>Relatório de ideias do Azure:
 
-- **Os clientes com base no uso nos últimos 12 meses**: Mês a tendência de mês de uso novo com base em clientes e formados clientes com base no uso agregados mensalmente durante o período dos últimos 12 meses
+- **Clientes baseado no uso nos últimos 12 meses**: Tendência mês a mês de novos clientes e clientes com rotatividade baseados no uso agregados mensalmente durante o período de últimos 12 meses
 
-- **As assinaturas com base no uso nos últimos 12 meses**: Mês a tendência de mês de uso novo com base em assinaturas e formados assinaturas com base no uso agregadas mensalmente durante o período dos últimos 12 meses
+- **Assinaturas baseado no uso nos últimos 12 meses**: Tendência mês a mês de novas assinaturas e assinaturas com rotatividade baseados no uso agregados mensalmente durante o período de últimos 12 meses
 
-- **Custo estimado do uso do cliente nos últimos 60 dias**: Os clientes com base no uso classificados pela quantidade de dólar de nota fiscal de antes do imposto estimado agregados durante o período de 60 dias. Isso indicará os principais clientes com base no uso que contribuem para a maior parte da receita.
+- **Custo mensal de uso por cliente estimado nos últimos 60 dias**: Clientes com base no uso classificados pelo valor pré-taxado em dólar estimado para a fatura agregado mensalmente durante o período dos últimos 60 dias. Isso indicará os principais clientes com base no uso que contribuem para a maior parte da receita.
 
-- **Custo estimado do uso por categoria nos últimos 60 dias**: Categorias de medidor de uso com base em assinaturas classificadas pela quantidade de dólar da nota fiscal antes do imposto de estimado agregada durante o período de 60 dias.
+- **Custo mensal de uso por categoria estimado nos últimos 60 dias**: Categorias de medição com base no uso de assinaturas classificadas pelo valor pré-taxado em dólar estimado para a fatura agregado mensalmente durante o período dos últimos 60 dias.
 
-- **Custo estimado do uso por assinatura nos últimos 60 dias**: Assinaturas com base no uso pela quantidade de dólar de nota fiscal de antes do imposto estimado agregados durante o período de 60 dias.
+- **Custo mensal de uso por assinatura estimado nos últimos 60 dias**: Assinaturas com base no uso classificados pelo valor pré-taxado em dólar estimado para a fatura agregado mensalmente durante o período dos últimos 60 dias.
 
-- **Cliente estimado custo de uso pela alocação de gastos**: Clientes classificados pelo percentual de uso atual gastos excedendo o limite de orçamento (100%).
+- **Custos estimados de uso de cliente por orçamento de gastos**: Clientes classificados por percentual de seu orçamento de gastos com uso atual excedendo o limite (100%).
 
 
 ### <a name="azure-resource-usage-report"></a>Relatório de uso de recurso Azure:
 
-- **Uso de recursos do Azure por dia para o período selecionado**: Unidades diárias de consumo para cada recurso medido em cada uso com base em assinatura para o período selecionado dentro dos últimos 60 dias.
+- **Uso de recursos Azure por dia nos período selecionado**: Unidades de consumo diárias para cada recurso medido em cada uso baseado na assinatura para o período selecionado nos últimos 60 dias.
 
-- **Estimada do custo de uso de recursos do Azure para o período selecionado**: Custo estimado com base em cartão de avaliação mais recente para cada recurso medido em cada assinatura com base no uso para o período selecionado dentro dos últimos 60 dias. 
+- **Custo estimado de uso de recursos Azure no período selecionado**: Custo estimado baseado na última tabela de taxa para cada recurso medido baseado na assinatura para o período selecionado dos últimos 60 dias. 
 
 ## <a name="see-also"></a>Consulte também
 
-[Análise do Partner Center para visão geral do aplicativo do Power BI](power-bi-app-for-direct-partners.md)
+[Visão geral do aplicativo Partner Center Analytics for Power BI app](power-bi-app-for-direct-partners.md)
 
 
-[Instalar e visualizar o aplicativo de análise do Partner Center para Microsoft Power BI](power-bi-app-for-direct-partners-install.md)
+[Instalar e visualizar o aplicativo Análise do Partner Center para Microsoft Power BI](power-bi-app-for-direct-partners-install.md)

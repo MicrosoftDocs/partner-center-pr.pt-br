@@ -2,24 +2,26 @@
 title: Suporte da Microsoft | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
-description: Quando você encontrar problemas com um serviço Microsoft ou com o Partner Center, poderá encaminhá-los para a Microsoft para obter ajuda e controlar os problemas até que eles sejam resolvidos.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Quando você encontrar problemas com um serviço Microsoft ou com o Partner Center, poderá encaminhá-los para a Microsoft para obter ajuda e monitorar os problemas até que eles sejam resolvidos.
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3e2c191b974347aed5716629e53b7d6f99700b7c
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: acc7d380ce5323c9d85859a5aa766c3c166622dc
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133850"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651562"
 ---
 # <a name="support-from-microsoft"></a>Suporte da Microsoft
 
 **Aplica-se a**
 
 -  Partner Center
--  Partner Center para Microsoft Cloud for US Government
+-  Partner Center do Microsoft Cloud for US Government
 
 
 Se você encontrar problemas com um serviço Microsoft ou com o Partner Center, poderá encaminhá-los para a Microsoft para obter ajuda e monitorá-los até que eles sejam resolvidos.
@@ -32,7 +34,7 @@ Se você encontrar problemas com um serviço Microsoft ou com o Partner Center, 
 
 [Obter notificações de serviço automatizadas com nossas APIs](get-automated-service-notifications-with-our-apis.md)
 
-[Suporte de benefícios da Microsoft](https://partner.microsoft.com/support/contact-support)
+[Suporte aos benefícios da Microsoft](https://partner.microsoft.com/support/contact-support)
 
  
 

@@ -2,21 +2,23 @@
 title: Serviços de planejamento do Software Assurance no Partner Center | Centro de parceiros
 ms.topic: article
 ms.date: 01/21/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Registre-se no Planning Services para fornecer planejamento de pré-implantação para clientes corporativos
 author: LauraBrenner
 ms.author: labrenne
 Keywords: pré-implantação, planejamento, Software Assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 18c59996829e592edd1f137d9b19311f34158ef0
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: 36913950ae7b8b2b9cdde025bfa66f20dec374a7
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708889"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651627"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Serviços de planejamento do Software Assurance no Partner Center
 
-Amplie seus negócios registrando-se nos programas de serviços de planejamento do Software Assurance. A Microsoft compensa os parceiros para fornecer treinamento, planejamento e outros serviços para clientes corporativos com Software Assurance.
+Amplie seus negócios registrando-se nos programas de serviços de planejamento do Software Assurance. A Microsoft compensa os parceiros para fornecer treinamento, planejamento e outros serviços para clientes corporativos que tenham Software Assurance.
 
 Como parceiro de serviços de planejamento aprovado, a Microsoft compensa você para fornecer compromissos de planejamento de pré-implantação para clientes empresariais. Participar deste programa pode ajudá-lo a atrair mais clientes, se tornar seu parceiro de planejamento confiável e levar a contratos de clientes adicionais.
 
@@ -100,8 +102,8 @@ Siga as etapas em [gerenciar comprovantes na ferramenta de Desamortização e de
 Depois de reservar um comprovante, você pode resgatar. 
 
 1. Na lista de comprovantes reservados, selecione os comprovantes que deseja resgatar. 
-2. Agora, você verá uma lista de comprovantes resgatados.
-3. Selecione as caixas de seleção ao lado dos comprovantes desejados e clique em **resgatar**os comprovantes selecionados.
+2. Agora, você verá uma lista de comprovantes **resgatados** .
+3. Selecione as caixas de seleção ao lado dos comprovantes desejados e clique em **resgatar os comprovantes selecionados**.
 4. Na página confirmar resgate do comprovante, revise as informações de comprovante quanto à precisão e selecione **Sim** para resgatar o comprovante.
 
 5. Para criar uma declaração, selecione **criar uma declaração**ou, na página detalhes do comprovante, selecione **criar uma declaração**.

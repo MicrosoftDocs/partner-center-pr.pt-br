@@ -2,17 +2,19 @@
 title: Transição do parceiro de cobrança direto do CSP (provedor de soluções na nuvem) para o revendedor indireto do CSP | Centro de parceiros
 ms.topic: article
 ms.date: 10/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Entenda como você fará a transição do parceiro de cobrança direto para o revendedor indireto
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: fatura direta, transição, revendedor indireto
-ms.openlocfilehash: 7633d5bff8316315304b97ea1a418c223043b581
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: 29a0f4951cac271d0b74a9a5fc3685c5ffb96b32
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997820"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651237"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transição do parceiro de fatura direto do CSP (Provedor de Soluções na Nuvem) para o revendedor indireto do CSP 
 
@@ -46,7 +48,7 @@ Você poderá se registrar no programa revendedor indireto usando seu locatário
 5. Quando seu registro for aprovado, entre no Partner Center novamente.
 
 >[!Note]
-> Embora a aprovação seja normalmente imediata, pode levar até cinco dias úteis. Depois de aprovado, você receberá uma notificação para o endereço de email especificado em contato principal no formulário de registro. Você também pode verificar o status do registro em **configurações** → **parceiro configurações** → **perfil parceiro** → informações do programa. 
+> Embora a aprovação seja normalmente imediata, pode levar até cinco dias úteis. Depois de aprovado, você receberá uma notificação para o endereço de email especificado em contato principal no formulário de registro. Você também pode verificar seu status de registro em **configurações** > **configurações de parceiro** > perfil de **parceiro** > informações do programa. 
 
 6. Na página de **visão geral** , você verá o contrato de revendedor indireto. Selecione **Aceitar e continuar**. Isso habilita os recursos indiretos do revendedor.
 
@@ -97,8 +99,8 @@ Para criar um convite de revendedor indireto:
 
 4. Edite o texto no email para dizer o que você precisa, mas certifique-se de incluir o link como ele é personalizado para conectar o cliente diretamente à sua conta e à conta do provedor. Em seguida, selecione **concluído**.
 
-5. Depois que o cliente autorizar você e seu provedor a ser seus revendedores de registro, você terá permissões de administrador para gerenciar suas assinaturas, as licenças e os usuários em seu nome e seu provedor indireto serão capaz de enviar pedidos no nome dele.
-6. Para gerenciar a conta, os serviços, os usuários e as licenças do cliente, expanda o registro do cliente selecionando a seta para baixo perto do nome dele. 
+5. Depois que o cliente autorizar você e seu provedor a ser seus revendedores de registro, você terá permissões de administrador para gerenciar suas assinaturas, licenças e usuários em seu nome, e seu provedor indireto poderá enviar pedidos em seu nome.
+6. Para gerenciar a conta, os serviços, os usuários e as licenças do cliente, expanda o registro do cliente selecionando a seta para baixo próximo ao nome. 
 
 Ao contrário dos parceiros de cobrança direto, os revendedores indiretos não podem criar locatários do Azure AD para seus novos clientes no Partner Center. Seu provedor criará o locatário e especificará você como o revendedor indireto para esse cliente. Isso garante que o cliente será exibido na sua lista de clientes no Partner Center.
 
@@ -117,9 +119,9 @@ Seu provedor indireto não pode enviar pedidos para seus clientes de fatura dire
 
 4. Edite o texto no email para dizer o que você precisa, mas certifique-se de incluir o link como ele é personalizado para conectar o cliente diretamente à sua conta e à conta do provedor. Em seguida, selecione **concluído**.  
 
-5. Depois que o cliente autorizar você e seu provedor a ser seus revendedores de registro, você terá permissões de administrador para gerenciar suas assinaturas, as licenças e os usuários em seu nome e seu provedor indireto serão capaz de enviar pedidos no nome dele.
+5. Depois que o cliente autorizar você e seu provedor a ser seus revendedores de registro, você terá permissões de administrador para gerenciar suas assinaturas, licenças e usuários em seu nome, e seu provedor indireto poderá enviar pedidos em seu nome.
 
-6. Para gerenciar a conta, os serviços, os usuários e as licenças do cliente, expanda o registro do cliente selecionando a seta para baixo perto do nome dele.
+6. Para gerenciar a conta, os serviços, os usuários e as licenças do cliente, expanda o registro do cliente selecionando a seta para baixo próximo ao nome.
 
 
 ## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>Gerenciando seus clientes de cobrança direta e seus clientes indiretos do revendedor

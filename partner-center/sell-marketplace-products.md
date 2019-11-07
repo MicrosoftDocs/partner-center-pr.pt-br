@@ -2,17 +2,19 @@
 title: Vender assinaturas de produtos do marketplace comercial | Partner Center
 ms.topic: article
 ms.date: 08/16/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Você pode usar o Partner Center para vender suas assinaturas de clientes para produtos de software como serviço (SaaS) publicados no Marketplace comercial por fornecedores de software independentes (ISVs).
 author: JnHs
 ms.author: jenhayes
 keywords: assinaturas, Marketplace, terceiros, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 1338ad86572fad40aabce74688f33f6544a3ec1a
-ms.sourcegitcommit: e84322e2cb6f3f559de93c98a16ab19531a2f95c
-ms.translationtype: HT
+ms.openlocfilehash: bf3ad75f4bac84163efb4a67009a5d4d7f2261d5
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/19/2019
-ms.locfileid: "69578795"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651632"
 ---
 # <a name="sell-subscriptions-to-commercial-marketplace-products"></a>Venda de assinaturas para produtos do marketplace comercial
 
@@ -32,7 +34,7 @@ Para obter mais informações sobre o Marketplace comercial, [consulte perguntas
 Para exibir todas as ofertas do **Marketplace** comercial disponíveis, selecione Marketplace no menu de navegação à esquerda. Por padrão, você verá produtos de todos os tipos e categorias. Você pode filtrar por tipo e/ou categoria ou usar a caixa de pesquisa para procurar palavras-chave específicas. Selecione um produto para ver informações sobre o editor e as SKUs disponíveis, incluindo se um período de avaliação gratuita é oferecido ou não.
 
 > [!NOTE]
-> Alguns produtos que estão disponíveis no marketplace comercial podem não ser mostrados aqui. Os ISVs podem decidir se devem ou não oferecer seus produtos aos parceiros do CSP (provedor de soluções na nuvem) no Partner Center. Se você vir um produto no marketplace comercial que você gostaria de oferecer aos seus clientes por meio do Partner Center, encontre as informações de contato do editor na lista de produtos e informe que você está interessado.
+> Alguns produtos que estão disponíveis no marketplace comercial podem não ser mostrados aqui. Os ISVs podem decidir se devem ou não oferecer seus produtos aos parceiros do CSP (provedor de soluções na nuvem) no Partner Center. Se você vir um produto no mercado comercial que você gostaria de oferecer aos seus clientes por meio do Partner Center, encontre as informações de contato do editor na lista de produtos e informe que você está interessado.
 
 Os preços dos produtos do marketplace comercial podem ser alterados com frequência. Para obter informações de preços atuais para todos os produtos do Marketplace comercial, selecione **Exportar lista de preço** no canto superior direito da página do **Marketplace**. Isso gerará uma planilha com todos os dados de preço. As informações de preço são atualizadas todos os dias, para que você possa verificá-las sempre que desejar obter os preços atuais.
 
@@ -56,9 +58,9 @@ Com assinaturas para produtos do Azure Marketplace, você tem a opção de [canc
 
 ## <a name="license-activation-for-commercial-marketplace-products"></a>Ativação de licença para produtos do Marketplace comercial
 
-Para tipos de oferta de SaaS (software como serviço), a atribuição e a ativação de licenças são gerenciadas por meio do ISV (fornecedor independente de software) que publicou o produto. Para concluir esse processo, você precisará acessar o site do editor, usando um link personalizado com um código de autorização que permite que o editor identifique sua compra específica. Você pode encontrar esse link na página de confirmação que aparece depois de comprar uma oferta de SaaS e na página **Assinaturas** (na linha dessa oferta). Você também pode [usar as APIs do Partner Center para recuperar esse link](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item).
+Para tipos de oferta de SaaS (software como serviço), a atribuição e a ativação de licenças são gerenciadas por meio do ISV (fornecedor independente de software) que publicou o produto. Para concluir esse processo, você precisará visitar o site do editor, usando um link personalizado com um código de autorização que permite que o Publicador identifique sua compra específica. Você pode encontrar esse link na página de confirmação que aparece depois de comprar uma oferta de SaaS e na página **Assinaturas** (na linha dessa oferta). Você também pode [usar as APIs do Partner Center para recuperar esse link](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item).
 
-Ao visitar o site do Editor usando este link, você verá quais informações ou ações adicionais são necessárias para provisionar e atribuir licenças ou concluir o processo de instalação. As etapas necessárias podem variar dependendo do Editor e da oferta. Você é responsável por enviar todas as informações necessárias (ou enviar a URL para o cliente para fornecer essas informações diretamente). Depois que as informações necessárias forem fornecidas, o Editor provisionará e atribuirá as licenças apropriadas. A cobrança da assinatura será iniciada somente depois que as licenças tiverem sido atribuídas com êxito.
+Ao visitar o site do Publicador usando este link, você verá quais informações ou ações adicionais são necessárias para provisionar e atribuir licenças ou concluir o processo de instalação. As etapas necessárias podem variar dependendo do Editor e da oferta. Você é responsável por enviar todas as informações necessárias (ou enviar a URL para o cliente para fornecer essas informações diretamente). Depois que as informações necessárias forem fornecidas, o Editor provisionará e atribuirá as licenças apropriadas. A cobrança da assinatura será iniciada somente depois que as licenças tiverem sido atribuídas com êxito.
 
 ## <a name="access-billing-info-for-commercial-marketplace-products"></a>Acessar informações de cobrança para produtos do Marketplace comercial
 

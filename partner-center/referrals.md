@@ -2,17 +2,19 @@
 title: Expanda seus negócios com indicações da Microsoft | Partner Center
 ms.topic: article
 ms.date: 08/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Gere leads comerciais e conecte-se a clientes que precisam de ajuda para implementar produtos e soluções Microsoft.
 author: LauraBrenner
 ms.author: labrenne
 keywords: indicações, perfil de negócios, encontrar um parceiro
 ms.localizationpriority: medium
-ms.openlocfilehash: de46c7546ea424c313d0f8216db86d515e851da1
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: a213c9b3a031b355f045b8fc976fac1dcc27e756
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958733"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652154"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -31,5 +33,5 @@ Queremos conectá-lo a clientes que precisem de suas soluções e conhecimentos.
 Para começar, assista a este breve vídeo, [Otimize seu perfil de negócios](https://player.vimeo.com/video/252788046).  
 
 <!-- 
-*  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you’re getting in front of your target customers.
+*  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you're getting in front of your target customers.
 -->

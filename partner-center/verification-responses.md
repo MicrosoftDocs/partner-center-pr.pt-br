@@ -1,38 +1,40 @@
 ---
-title: Verifique suas informações de conta | Partner Center
+title: Verificar as informações da sua conta | Centro de parceiros
 ms.topic: article
 ms.date: 06/12/2019
-description: Como responder a solicitações de atualização de verificação da Microsoft
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Como responder às solicitações de atualização de verificação da Microsoft
 author: LauraBrenner
 ms.author: labrenne
-Keywords: verificação, verificar, rejeitada, a atualização de perfil do parceiro
+Keywords: verificação, verificação, rejeitada, atualização de perfil de parceiro
 ms.localizationpriority: medium
-ms.openlocfilehash: 6b9f52b55048bd6d3173469e1e1a45f94ca004e6
-ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
-ms.translationtype: HT
+ms.openlocfilehash: 8a7b77d8a263d71235dd30e74669b39244ec11d2
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "67160602"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651144"
 ---
-# <a name="verify-your-account-information"></a>Verifique suas informações de conta
+# <a name="verify-your-account-information"></a>Verifique as informações da sua conta
 
-Ao criar sua conta no partner center, a Microsoft verifica as informações da conta, como seu endereço comercial e os detalhes de contato primário. Durante esse processo Microsoft pode enviar email para seu contato principal para informá-lo sobre a documentação de status e a solicitação de verificação adicional. 
+Quando seu primeiro criar sua conta no Partner Center, a Microsoft verificará as informações da sua conta, como seu endereço comercial e os detalhes de contato primário. Durante esse processo, a Microsoft pode enviar email para seu contato principal para informá-los sobre o status e solicitar a documentação de verificação adicional. 
 
 >[!Note]
->Para garantir que o email é recebido, certifique-se de sinalizar email da Microsoft.com como um domínio "seguro" e verifique as pastas de email de lixo.
+>Para garantir que o email seja recebido, não deixe de sinalizar o email do Microsoft.com como um domínio "seguro" e verifique as pastas de lixo eletrônico.
 
-Você pode seguir o status em andamento do processo de verificação em sua página de perfil do parceiro no seu painel. Dos **as configurações** ícone, selecione **configurações do parceiro**e, em seguida, selecione **perfil do parceiro.**
+Você pode seguir o status em andamento do processo de verificação em sua página de perfil de parceiro em seu painel. No ícone de **configurações** , selecione **configurações de parceiro**e, em seguida, selecione perfil de **parceiro.**
 
 ## <a name="what-is-verified-and-how-to-respond"></a>O que é verificado e como responder
 
-|**Tipo de verificação**   |**Descrição do que é verificado e como**   |**O que fazer se rejeitada**   |
+|**Tipo de verificação**   |**Descrição do que é verificado e como**   |**O que fazer se rejeitado**   |
 |----------------------------|:-----------------------------------|:--------------------------------------|
-|Propriedade de email   |Propriedade email verifica se o endereço de email de contato principal é válido.  O endereço de email de contato principal deve ser uma conta de trabalho que é monitorada e pode enviar/receber email.  Os parceiros não devem usar: (1) um endereço de email pessoal não associado ao domínio da empresa. (2) uma locatário entrada do usuário não associada ao email, por exemplo, jsmith@testcompany.onmicrosoft.com   |Se você não receber a mensagem de verificação de propriedade de email em um dia útil, clique no link na página de perfil do parceiro para a mensagem enviada novamente ou contate o suporte.|
-|Emprego |Verificação de emprego confirma que o contato principal é um funcionário da empresa registro por terem um endereço de email ativo em um domínio de email de propriedade da empresa.|Se a verificação de emprego é rejeitada, o contato principal pode fornecer documentação ou uma fonte online, confirmando que o domínio de email do contato está sob a propriedade de seu empregador.|
-|Negócios   |Verificação de negócios confirma que a empresa de registro é uma entidade de negócios legítimo e, no endereço usado para o registro.|Se houver falha na verificação de negócios, o contato principal será solicitado a fornecer a documentação oficial (por exemplo, um registro de negócios ou certificado de registro de imposto ou recebimento) do país natal ou o município confirmando que a empresa é a empresa autorizado para fazer negócios com esse nome de entidade e está localizado no endereço de registro.|
+|Propriedade de email   |A propriedade de email verifica se o endereço de email do contato primário é válido.  O endereço de email de contato primário deve ser uma conta de trabalho monitorada e pode enviar/receber email.  Os parceiros não devem usar: (1) um endereço de email pessoal não associado ao domínio da empresa. (2) uma entrada de usuário de locatário não associada ao email, por exemplo, jsmith@testcompany.onmicrosoft.com   |Se você não receber a mensagem de verificação de propriedade de email dentro de um dia útil, clique no link na página perfil do parceiro para que a mensagem seja enviada novamente ou contate o suporte.|
+|Profissional |A verificação de emprego confirma que o contato principal é um funcionário da empresa de registro em virtude de ter um endereço de email ativo em um domínio de email de propriedade da empresa.|Se a verificação de emprego for rejeitada, o contato principal poderá fornecer documentação ou uma fonte online confirmando que o domínio de email do contato está sob a propriedade de seu empregador.|
+|Business   |A verificação de negócios confirma que a empresa de registro é uma entidade de negócios autêntica e no endereço usado para o registro.|Se a verificação de negócios falhar, o contato principal será solicitado a fornecer documentação oficial (como um registro de negócios ou certificado ou recebimento de registro de imposto) do país da empresa ou do município confirmando que a empresa está autorizado a fazer negócios sob esse nome de entidade e está localizado no endereço de registro.|
 
-## <a name="when-verification-concludes"></a>Quando a verificação é concluído
+## <a name="when-verification-concludes"></a>Quando a verificação for concluída
 
-Quando o processo de verificação for concluído, o status de verificação do seu locatário em sua página de perfil do parceiro será alterado de "pendente" para "autorizado" e o processo de etapas com exibidas nessa página de status desaparecerá.
+Depois que o processo de verificação for concluído, o status da verificação do seu locatário na página de perfil do parceiro será alterado de "pendente" para "autorizado", e as etapas do processo com status exibido na página desaparecerão.
 
-O contato principal provavelmente receberá um email da Microsoft dentro de alguns dias úteis depois que a verificação for concluída, solicitando informações financeiras relacionadas para o estágio de avaliação de crédito do registro.
+O contato principal provavelmente receberá um email da Microsoft dentro de alguns dias úteis depois que a verificação for concluída solicitando informações financeiras relacionadas ao estágio de análise de crédito do registro.

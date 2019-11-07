@@ -2,20 +2,22 @@
 title: Prepare-se para sua mudança do Partner Membership Center para o Partner Center | Centro de parceiros
 ms.topic: article
 ms.date: 06/13/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: O que pensar antes de mover seus negócios do PMC para o Partner Center
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bbce4677e88c82cb3f2826fb37823d2746d12e61
-ms.sourcegitcommit: f54b679ce5058793a52795c6f93b0e98311805e1
+ms.openlocfilehash: 8ad7b761c69cfa1f320eb9427806f5b1803e84e6
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/17/2019
-ms.locfileid: "71060498"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652186"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Prepare-se para a migração do Partner Membership Center (PMC) para o Partner Center
 
-Estamos movendo o gerenciamento de associação do Partner Membership Center (PMC) para o Partner Center – o único destino para gerenciar seu relacionamento de negócios com a Microsoft. Queremos que sua mudança para o Partner Center seja a mais eficiente e fácil possível. Identificamos algumas áreas em que o Partner Center difere da PMC e achamos que você desejará entender e se preparar para elas antes de fazer a movimentação.
+Estamos movendo o gerenciamento de associação do Partner Membership Center (PMC) para o Partner Center-o único destino para gerenciar seu relacionamento de negócios com a Microsoft. Queremos que sua mudança para o Partner Center seja a mais eficiente e fácil possível. Identificamos algumas áreas em que o Partner Center difere da PMC e achamos que você desejará entender e se preparar para elas antes de fazer a movimentação.
 
 ## <a name="account-and-identity-setup"></a>Configuração de conta e identidade
 
@@ -127,7 +129,7 @@ Sim, o compentencies não será afetado pela mudança para o Partner Center. Se 
  **As nossas contas da Microsoft que têm as alocações de benefícios do Visual Studio serão respeitadas?**
 
 
- Sim. Os benefícios do Visual Studio alocados para o MSAs serão respeitados e mantidos. Eles também serão preservados após a renovação no Partner Center. No entanto, se você remover uma alocação de MSA uma vez que ela já tenha sido migrada no Partner Center, ela não poderá ser adicionada novamente ao Partner Center.
+ Sim. Os benefícios do Visual Studio alocados para o MSAs serão respeitados e mantidos. Eles também serão preservados após a renovação no Partner Center. No entanto, se você remover uma alocação de MSA uma vez migrada no Partner Center, ela não poderá ser adicionada novamente ao Partner Center.
 
 No Partner Center, um parceiro pode adicionar contas corporativas e contas de usuário convidado que são MSA por meio do mesmo locatário em que o parceiro é administrador MPN no locatário do Azure AD. Se o parceiro for um administrador global em vários locatários do Azure AD e todos esses locatários estiverem associados à mesma conta do Partner Center, o parceiro poderá adicionar usuários em todos esses locatários aos benefícios do Visual Studio e às alocações baseadas em uso do Azure.
 

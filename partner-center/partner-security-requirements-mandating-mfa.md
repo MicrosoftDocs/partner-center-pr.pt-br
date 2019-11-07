@@ -2,17 +2,19 @@
 title: Obrigando a MFA para seu locatário do parceiro | Centro de parceiros
 ms.topic: article
 ms.date: 09/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Detalhes sobre a MFA de reobrigar seus requisitos de segurança de locatário do parceiro
 author: isaiahwilliams
 ms.author: iswillia
 keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor do painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f68d4628bd6212b800ea926c6c3b9f412e3d5cc
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: f9319fc50c722df0e87f729444bb23654b75e910
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997785"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652512"
 ---
 # <a name="mandating-mfa-for-your-partner-tenant"></a>Obrigando a MFA para seu locatário de parceiro
 
@@ -36,7 +38,7 @@ A intenção desse recurso é ajudar os parceiros a proteger o acesso aos recurs
 Determinadas páginas no painel do Partner Center serão protegidas por MFA, incluindo:
 
 * Todas as páginas na guia **clientes** .
-* Todas as páginas na guia de **solicitações de clientes do → de suporte** .
+* Todas as páginas na guia **suporte > solicitações do cliente** .
 
 Se você tentar acessar qualquer uma dessas páginas e não tiver concluído a verificação de MFA anteriormente, será necessário fazer isso.
 
@@ -212,7 +214,7 @@ Um parceiro implementou o MFA para seus usuários usando uma solução MFA de te
 Para enviar uma solicitação de exceção técnica:
 
 1. Faça logon no Partner Center como administrador global ou agente de administração.
-2. Crie uma nova solicitação de serviço de parceiro navegando para **dar suporte** a **solicitações de suporte de parceiros** → e clicando em **nova solicitação**.
+2. Crie uma nova solicitação de serviço de parceiro navegando até **suporte** > **solicitações de suporte de parceiro** e clicando em **nova solicitação**.
 4. No tópico **MFA e modelo de aplicativo seguro** , selec **Enviar solicitação de exceção técnica** como o tipo de problema.
 6. Forneça detalhes solicitados para enviar uma solicitação de serviço para exceção técnica e clique em **Enviar**.
 

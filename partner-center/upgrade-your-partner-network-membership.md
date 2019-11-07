@@ -2,17 +2,19 @@
 title: Atualizar sua associação do Microsoft Partner Network | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Quando você atualiza sua associação ao Microsoft Partner Network, você está qualificado para benefícios exclusivos de associação. Saiba como encontrar e comprar ofertas disponíveis.
 author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: c7d6639ef747c0089e89565680e96a22408770cb
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: f48dcd8b5ac4a83d6f9b99c71f0d243ad78ad274
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132856"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651171"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Atualizar sua associação ao Microsoft Partner Network
 
@@ -20,19 +22,19 @@ ms.locfileid: "62132856"
 
 -  Partner Center
 
-Programa de parceria da Microsoft oferece as três opções de associação a seguir, com benefícios adicionais para ajudar você a alcançar seus objetivos de negócios.
+O programa de parceria da Microsoft oferece as três opções de associação a seguir, com benefícios incrementais para ajudá-lo a atingir suas metas de negócios.
 
 - **Associação de rede.** O principal nível de participação, oferecendo benefícios básicos para conexões de treinamento, suporte e cliente. Você deve ser um membro de rede para atualizar sua associação.
 
 - **Associação de assinatura do Microsoft Action Pack.** Uma assinatura anual acessível servindo parceiras de pequeno e médio porte. Inclui os benefícios de nível básico que vêm com a associação à rede básica mais alocações de assinaturas de serviço de direitos de uso interno, licenças de software e suporte.
 
-- **Competências de Microsoft.** Uma designação acumulada apresentando funcionalidades da sua empresa. Inclui benefícios de nível básico, outros direitos de uso interno, elegibilidade para incentivos de parceiro, suporte adicional e horas de consultoria.
+- **Competências da Microsoft.** Uma designação ganha mostrando os recursos da sua empresa. Inclui benefícios de nível básico, outros direitos de uso interno, elegibilidade para incentivos de parceiro, suporte adicional e horas de consultoria.
 
-  - Competência Prata – funcionalidade consistente, experiência e compromisso
+  - Recursos consistentes de competência prateada, experiência e compromisso
 
-  - Competência Ouro – funcionalidade altíssima dentro de uma área específica de solução da Microsoft
+  - Competência Gold – o melhor recurso de classe em uma área de solução específica da Microsoft
 
-Depois de ingressar no Microsoft Partner Network, você está qualificado a atualizar sua associação e comprar ofertas de benefício de associação exclusivas. Para saber mais sobre a participação no Microsoft Partner Network, acesse [https://partner.microsoft.com](https://partner.microsoft.com).
+Depois de ingressar no Microsoft Partner Network, você estará qualificado para atualizar sua associação e comprar ofertas de benefício de associação exclusivas. Para saber mais sobre a participação no Microsoft Partner Network, acesse [https://partner.microsoft.com](https://partner.microsoft.com).
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Adquirir uma assinatura do Microsoft Action Pack
@@ -50,22 +52,22 @@ Action Pack é uma assinatura anual acessível de serviços, software e suporte 
 Para obter mais informações sobre no Microsoft Action Pack, acesse [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
 > [!NOTE]  
-> Seguir esse link levará você para outro site. Retornar a este site, o site do Partner Center, para assinar o Action Pack.
+> Após este link, você será levado para outro site. Retorne a este site, o site do Partner Center, para assinar Action Pack.
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>Inscrever-se ao Microsoft Action Pack
 
-1. Sobre o **Partner Center** menu, selecione **parceria > oferece**. O Microsoft Action Pack está listado em **Ofertas disponíveis**. Selecione **Inscrever-se agora**. 
+1. No menu do **centro de parceiros** , selecione **parceria > ofertas**. O Microsoft Action Pack está listado em **Ofertas disponíveis**. Selecione **Inscrever-se agora**. 
 
 2. Selecione **Avançar** para aceitar os [Termos e condições](https://go.microsoft.com/fwlink/?linkid=842232) para direitos de uso interno concedidos pelo Microsoft Partner Network.  
 
 3. Selecione **Avançar** para adicionar detalhes de pagamento. 
 
-4. Selecione **começar! Adicionar uma forma de pagamento** se você precisa inserir os detalhes de pagamento. 
+4. Selecione **Introdução! Adicionar uma forma de pagamento** se precisar inserir detalhes de pagamento. 
 
 5. Insira os detalhes de pagamento e selecione **Avançar**.
 
-6. Examine os detalhes de seu pedido e, em seguida, selecione **Comprar** quando você estiver pronto para comprar o Action Pack. Seu cartão de crédito será cobrado imediatamente.
+6. Examine os detalhes do pedido e, em seguida, selecione **comprar** quando estiver pronto para comprar Action Pack. Seu cartão de crédito será cobrado imediatamente.
 
 7. Sua ordem foi confirmada. Selecione **Fechar**.
 
@@ -73,19 +75,19 @@ Sua assinatura do Action Pack será renovada automaticamente todos os anos nesta
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Desativar a renovação automática da assinatura do Action Pack
 
-1. Sobre o **Partner Center** menu, selecione **parceria > oferece**. Microsoft Action Pack é listado em **Ofertas adquiridas**.
+1. No menu do **centro de parceiros** , selecione **parceria > ofertas**. Microsoft Action Pack é listado em **Ofertas adquiridas**.
 
 2. Selecione **Assinatura do Microsoft Action Pack** para exibir os detalhes de assinatura. 
 
 3. Selecione **Desativar a renovação automática** se não quiser que sua assinatura do Action Pack seja renovada automaticamente a cada ano. 
 
 > [!NOTE]  
-> Se você desativar a renovação automática de inscrição, não poderá ativá-la novamente até que você renove a assinatura. Enviaremos um lembrete para que você renove sua assinatura antes que ela expire.
+> Se você desativar a renovação automática da assinatura, não poderá ativá-la novamente até renovar a assinatura. Lembraremos você de renovar antes que sua assinatura expire.
 
 
 ### <a name="renew-your-action-pack-subscription"></a>Renovar sua assinatura do Action Pack
 
-1. Sobre o **Partner Center** menu, selecione **parceria > oferece**. Microsoft Action Pack é listado em **Ofertas adquiridas**.
+1. No menu do **centro de parceiros** , selecione **parceria > ofertas**. Microsoft Action Pack é listado em **Ofertas adquiridas**.
 
 2. Selecione **Assinatura do Microsoft Action Pack** para visualizar os detalhes de assinatura e selecione **Renovar assinaturas** em **Ações**.  
 
@@ -95,11 +97,11 @@ Sua assinatura do Action Pack será renovada automaticamente todos os anos nesta
 
 5. Selecione **Avançar** para adicionar detalhes de pagamento. 
 
-6. Selecione **começar! Adicionar uma forma de pagamento** se você precisa inserir os detalhes de pagamento. 
+6. Selecione **Introdução! Adicionar uma forma de pagamento** se precisar inserir detalhes de pagamento. 
 
 7. Insira os detalhes de pagamento e selecione **Avançar**.
 
-8. Examine os detalhes de seu pedido e, em seguida, selecione **Comprar** quando você estiver pronto para comprar o Action Pack. Seu cartão de crédito será cobrado imediatamente.
+8. Examine os detalhes do pedido e, em seguida, selecione **comprar** quando estiver pronto para comprar Action Pack. Seu cartão de crédito será cobrado imediatamente.
 
 9. Sua ordem foi confirmada. Selecione **Fechar**.
 

@@ -2,18 +2,20 @@
 title: Registre suas negociações | Partner Center
 ms.topic: article
 ms.date: 08/28/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Para determinadas soluções qualificadas, depois que você selecionar Ganhas, você deverá fornecer mais informações para registrar sua negociação. A Microsoft revisará as informações que você fornecer e poderá solicitar detalhes adicionais durante o processo de revisão.
 author: JnHs
 ms.author: jenhayes
 keywords: registro da negociação
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3ea6fbc9cb341359435ae2e4765f68fc9414bd8a
-ms.sourcegitcommit: ba0b0eea3dbc028ec162f58b841ba9e3588f1dca
-ms.translationtype: HT
+ms.openlocfilehash: 03e2ef23923d76b833d64346614286a39826e71b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "70143772"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652056"
 ---
 # <a name="register-your-deals"></a>Registre suas negociações
 
@@ -33,17 +35,17 @@ Para registrar uma nova negociação, acesse **Indicações > Registros de negoc
 
 Na página **Nova negociação**, forneça as seguintes informações.
 
-- **Detalhes do cliente**: insira o **Nome da empresa** do seu cliente e selecione **País/região** dele(a). Em seguida, insira a **Cidade** e o **Estado/província** dele(a).
-- **Solução**: selecione a solução que será usada para a negociação. Se você não vir a solução correta listada, entre em contato com o suporte.
-- **Tipo de contrato**: especifique se esse é um **Novo** contrato ou uma **Renovação** de um contrato anterior.
-- **Valor total o contrato**: o valor total esperado do envolvimento. Isso deve incluir todas as tarifas de software e de serviço, mas não os custos de hardware. Selecione a moeda adequada.
-- **Valor da solução**: o valor total da solução de nuvem que será usada para a negociação. Inclua todos os valores associados às tarifas de software e de manutenção, mas não inclua itens reembolsáveis, valores de personalização não recorrentes ou valores de licença do CSP associados diretamente pagos pela Microsoft.
-- **Implantado em**: selecione **Azure** ou **Outro**.
-- **Onde a solução será implantada?** : selecione o **Locatário do cliente** ou o **Locatário do parceiro**.
-- **Data de início do contrato**: a data na qual o contrato iniciará.
-- **Data de término do contrato**: se o contrato terminar em uma data específica, selecione **Tem uma data de término** e forneça a data. Caso contrário, selecione **Perpétua**.
-- **Data de assinatura do contrato**: a data em que o contrato final foi assinado por sua organização e pelo cliente.
-- **Contato de registro**: o **Nome**, **Sobrenome**, **Número de telefone** e **Email** de uma pessoa em sua organização que poderemos entrar em contato se precisarmos de mais detalhes sobre qualquer uma das informações fornecidas aqui.
+- **Detalhes do cliente**: Insira o **nome da empresa** para o cliente e selecione seu **país/região**. Em seguida, insira a **Cidade** e o **Estado/província** dele(a).
+- **Solução**: selecione a solução que será usada para o negócio. Se você não vir a solução correta listada, entre em contato com o suporte.
+- **Tipo de contrato**: especifique se este é um **novo** contrato ou uma **renovação** de um contrato anterior.
+- **Valor total do contrato**: o valor total esperado para o envolvimento. Isso deve incluir todas as tarifas de software e de serviço, mas não os custos de hardware. Selecione a moeda adequada.
+- **Valor da solução**: o valor total da solução de nuvem que será usada para o negócio. Inclua todos os valores associados às tarifas de software e de manutenção, mas não inclua itens reembolsáveis, valores de personalização não recorrentes ou valores de licença do CSP associados diretamente pagos pela Microsoft.
+- **Implantado em**: selecione o **Azure** ou **outro**.
+- **Onde a solução será implantada?** : selecione o **locatário do cliente** ou o **locatário do parceiro**.
+- **Data de início do contrato**: a data em que o contrato será iniciado.
+- **Data de término do contrato**: se o contrato terminar em uma data específica, selecione **tem uma data de término** e forneça essa data. Caso contrário, selecione **Perpétua**.
+- **Data de inscrição do contrato**: a data em que o contrato final foi assinado por sua organização e pelo cliente.
+- **Contato de registro**: **nome**, **sobrenome**, número de **telefone**e **email** para uma pessoa em sua organização que podemos contatar se precisar de mais detalhes sobre qualquer uma das informações fornecidas aqui.
 
 Quando você tiver concluído todas as seções da página, selecione **Registrar**. O registro da negociação será movido para a página **Em andamento**. Em seguida, a Microsoft revisará as informações fornecidas.
 

@@ -2,17 +2,19 @@
 title: Relate problemas com o Partner Center | Partner Center
 ms.topic: article
 ms.date: 10/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Como relatar problemas com o Partner Center e coletar informações de diagnóstico para nossa equipe de suporte.
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f1f7473f78226a06f06862d466e79b75dfb3b609
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: ba571a8d0810919353b01a5199c77af3dbbb3075
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425193"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651721"
 ---
 # <a name="report-problems-with-partner-center"></a>Relate problemas com o Partner Center
 
@@ -39,7 +41,7 @@ Contate o suporte do Partner Center se você encontrar problemas com o Partner C
 
 **Enviar diagnóstico**
 
-Se ocorrer um erro enquanto você estiver em uma página do Partner Center, você talvez seja solicitado a coletar informações de log. Selecione **Coletar mais informações** no link que aparece na parte superior da página para abrir a ferramenta Diagnóstico do Cliente. Essa ferramenta coleta informações de que a equipe de Suporte do Parceiro precisa para determinar a causa do erro. 
+Se ocorrer um erro enquanto você estiver em uma página do Partner Center, você poderá ser solicitado a coletar informações de log. Selecione **Coletar mais informações** no link que aparece na parte superior da página para abrir a ferramenta Diagnóstico do Cliente. Essa ferramenta coleta informações de que a equipe de Suporte do Parceiro precisa para determinar a causa do erro. 
 
 >[!NOTE]
 >Em páginas do Partner Center que incluem **/pcv/** na URL, você pode abrir a ferramenta manualmente para coletar essas informações.

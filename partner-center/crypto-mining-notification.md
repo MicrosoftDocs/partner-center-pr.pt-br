@@ -2,18 +2,20 @@
 title: Notificação do Partner Center para atividade de mineração de criptografia | Centro de parceiros
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Notificação sobre o andamento de potencial criptomineração.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: criptografia-mineração, mineração de criptomoeda, segurança
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: febce4039e1634fb5e82d083f83e2c11ef47040f
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: 7f9f138a55cf7e61e46e2e876263fdd577410c96
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708844"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651123"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notificação do Partner Center para atividade de mineração de criptomoeda
 

@@ -2,26 +2,28 @@
 title: Partner Center do Microsoft Cloud for US Government | Partner Center do Microsoft Cloud for US Government
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: O Partner Center para Microsoft Cloud for US Government é o portal de empresas para parceiros da Microsoft que deseja oferecer soluções de nuvem da Microsoft para clientes que trabalham com agências governamentais dentro dos Estados Unidos.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 971591037f37242550029b0eb908a076559359a9
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 1309f14555ff30a91a42d26bc1781315a7bba536
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820600"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652691"
 ---
-# <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Partner Center para Microsoft Cloud for US Government
+# <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Partner Center do Microsoft Cloud for US Government
 
 **Aplica-se a**
 
--  Partner Center para Microsoft Cloud for US Government
+-  Partner Center do Microsoft Cloud for US Government
 
-## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>Microsoft Cloud para o governo dos EUA: Atendendo aos requisitos de proteção de dados 
+## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>Microsoft Cloud for US Government: atendendo aos requisitos de proteção de dados 
 
-Projetado para governo dos Estados Unidos do zero, a Microsoft Cloud for US Government nos permite entidades de federal, estaduais, locais ou tribais dos EUA selecionem uma gama de serviços de computação de nuvem da Microsoft. Para melhor atender às necessidades específicas do setor público, a Microsoft fez investimentos significativos em data centers e dedica-se a estar em conformidade com a proteção de dados e as políticas, exigências e requisitos estaduais e federais dos EUA. O Partner Center para Microsoft Cloud for US Government permite que os parceiros revendam serviços em nuvem da Microsoft para esses clientes.
+Projetado para governo dos Estados Unidos do zero, a Microsoft Cloud for US Government nos permite entidades de federal, estaduais, locais ou tribais dos EUA selecionem uma gama de serviços de computação de nuvem da Microsoft. Para solucionar melhor as necessidades específicas dos clientes do setor público, a Microsoft fez um investimento significativo em data centers e é dedicada a atender à conformidade de proteção de dados com políticas federais e estaduais, mandatos e requisitos dos EUA. O Partner Center para Microsoft Cloud for US Government permite que os parceiros revendam serviços em nuvem da Microsoft para esses clientes.
 
 Observe que alguns dos recursos disponíveis no Partner Center ainda não estão disponíveis no Partner Center para Microsoft Cloud for US Government.
 
@@ -29,7 +31,7 @@ A Microsoft Cloud for US Government fornece uma instância separada do [Microsof
 
 Consulte a ficha técnica do [Microsoft Cloud for US Government](https://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF) para obter mais informações.
 
-## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>Partner Center para Microsoft Cloud para o governo dos EUA: Vendendo soluções de nuvem para entidades do governo dos EUA
+## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>O Partner Center da Microsoft Cloud for US Government: venda de soluções de nuvem para entidades do governo dos Estados Unidos.
 
 Uma vez inscrito no Programa de Provedor de Soluções na Nuvem (CSP) para Microsoft Cloud for US Government, você poderá usar o Partner Center para vender soluções específicas de nuvem e serviços para seus clientes do governo dos Estados Unidos. 
 
@@ -43,7 +45,7 @@ Uma vez inscrito no Programa de Provedor de Soluções na Nuvem (CSP) para Micro
 - Análise de licença
 - Percepções do cliente
 - Configurações e modelo do revendedor/provedor indireto
-- Verificar a integridade do serviço
+- Verificar integridade do serviço
 - ISV (Fornecedor Independente de Software)
 - Qualificação especial do cliente
 
