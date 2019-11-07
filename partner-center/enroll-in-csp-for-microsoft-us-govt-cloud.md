@@ -2,22 +2,24 @@
 title: Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Cloud for US Government | Partner Center do Microsoft Cloud for US Government
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Antes de se inscrever no programa Provedor de Soluções na Nuvem do Microsoft Cloud for US Government, saiba mais sobre os requisitos do programa CSP.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 226aa0829080f46706a0934176e229f3e7d3117b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: de6f51d1dff5017ac6f046552acbea30c9cb4384
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135576"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653210"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Cloud for US Government
 
 **Aplica-se a**
 
--  Partner Center para Microsoft Cloud for US Government
+-  Partner Center do Microsoft Cloud for US Government
 
 Os parceiros da Microsoft agora podem vender soluções de nuvem da Microsoft e serviços para entidades federais, estaduais, locais e tribais dos EUA por meio do programa CSP (Provedor de Soluções na Nuvem) para Microsoft Cloud for US Government. 
 
@@ -83,6 +85,6 @@ O Microsoft Cloud for US Government fornece uma instância separada do Microsoft
 
 -  [Partner Center do Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [Gerenciamento de usuários e licenças no Partner Center para o Microsoft Cloud para o governo dos EUA](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
+-  [Gerenciamento de usuários e licenças no Partner Center do Microsoft Cloud for US Government](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
 
 

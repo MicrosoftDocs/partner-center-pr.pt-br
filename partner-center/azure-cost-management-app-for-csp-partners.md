@@ -2,18 +2,20 @@
 title: Azure Cost Management by Cloudyn para parceiros CSP | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Azure Cost Management by Cloudyn requer acesso provisionado à API do Partner Center.
 author: Janet
 ms.author: janet
 Keywords: Aplicativo de gerenciamento de custos do Azure, gerenciar custos, aplicativos Web
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 27ff91d9d42f08e44f812663f3d4409e1080d580
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: a746522d3470a8b97b845ed723fae87455e33e5e
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820305"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653864"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Aplicativo de gerenciamento de custos do Azure para parceiros CSP do Azure  
 
@@ -36,9 +38,9 @@ O Cloudyn é um aplicativo Web que permite que você acompanhe e gerencie quanto
 ## <a name="register-your-web-app-in-the-partner-center"></a>Registre seu aplicativo Web no Partner Center
 Ao registrar um aplicativo Web do Azure Active Directory no Partner Center, você habilita o acesso à API do Partner Center. 
 1.  Entre no [Partner Center](https://partnercenter.microsoft.com/pcv/dashboard/overview) usando uma [conta de administrador global ou de agente administrador](create-user-accounts-and-set-permissions.md).
-2.  No **Partner Center**, selecione **configurações** &gt; de conta **[Gerenciamento de aplicativos](https://partnercenter.microsoft.com/pcv/apiintegration/appmanagement)** .
+2.  No **Partner Center**, selecione **configurações de conta** &gt; **[Gerenciamento de aplicativos](https://partnercenter.microsoft.com/pcv/apiintegration/appmanagement)** .
 3.  Na seção **Aplicativo Web**, clique em **Adicionar novo aplicativo web**.
-<br> **Observação**: Se você já tiver criado um aplicativo Web, poderá ignorar a etapa 3.
+<br> **Observação**: se você tiver criado anteriormente um aplicativo web, pode pular a etapa 3.
 4.  Copie e salve o GUID da **ID do Comércio** e o GUID da **ID do Aplicativo** para seu aplicativo web. Você precisará das duas IDs para usar o versão de avaliação gratuita de 30 dias do aplicativo Azure Cost Management.
 
 ## <a name="add-a-secret-key-to-your-app"></a>Adicione uma chave secreta ao seu aplicativo

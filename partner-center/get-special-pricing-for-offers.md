@@ -2,17 +2,19 @@
 title: Vender para setores especializados | Partner Center
 ms.topic: article
 ms.date: 05/14/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: A Microsoft fornece preços especiais e reduzidos para selecionar grupos de clientes, incluindo clientes educativos, clientes sem fins lucrativos e usuários do governo.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 10b4cf8f261c9d9af4be5aa7c91cc6e81663bfba
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 8405018cd33b36efcbeb936672afcab78273f6e8
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820440"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653072"
 ---
 # <a name="sell-to-specialized-industries"></a>Vender para setores especializados
 
@@ -26,9 +28,9 @@ A Microsoft fornece preços especiais e reduzidos para grupos de clientes seleci
 
 |**Preços especiais**   |**Qualificações necessárias do revendedor**   |**Qualificações necessárias para o cliente**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Educação   |Torne-se um [Revendedor Educacional Autorizado](https://www.mepn.com).   | Deve ser um [Usuário Educacional Qualificado](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
-|Governo   |Para vender o Azure, registre-se usando o [formulário de validação de nuvem do governo dos EUA da Microsoft](https://azuregov.microsoft.com/csp). Para vender assinaturas baseadas em licença ao governo, não há qualificação necessária.|   Nenhum|
-|Sem fins lucrativos  |Nenhum<br>Deve ter um locatário do Azure Active Directory sem fins lucrativos.<br>Saiba mais sobre [ofertas especiais sem fins lucrativos](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Inscreva-se por meio do [programa sem fins lucrativos da Microsoft](https://nonprofit.microsoft.com/#/register) para ser qualificado.   |
+|Education   |Torne-se um [Revendedor Educacional Autorizado](https://www.mepn.com).   | Deve ser um [Usuário Educacional Qualificado](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
+|Governo   |Para vender o Azure, registre-se usando o [formulário de validação de nuvem do governo dos EUA da Microsoft](https://azuregov.microsoft.com/csp). Para vender assinaturas baseadas em licença ao governo, não há qualificação necessária.|   Nenhuma|
+|Sem fins lucrativos  |Nenhuma<br>Deve ter um locatário do Azure Active Directory sem fins lucrativos.<br>Saiba mais sobre [ofertas especiais sem fins lucrativos](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Inscreva-se por meio do [programa sem fins lucrativos da Microsoft](https://nonprofit.microsoft.com/#/register) para ser qualificado.   |
 
 
 ## <a name="check-your-reseller-qualifications"></a>Verificar suas qualificações de revendedor
@@ -51,7 +53,7 @@ Quando você e seu cliente estiverem qualificados para um programa de ofertas es
 
 ## <a name="see-also"></a>Consulte também
 
-[Vender assinaturas do Minecraft: Assinaturas do Education Edition para clientes educativos](minecraft-subscriptions.md)
+[Vender Minecraft: assinaturas do Education Edition para clientes educativos](minecraft-subscriptions.md)
 
 [Partner Center para Microsoft Cloud do governo dos EUA](partner-center-for-microsoft-us-govt-cloud.md)
 

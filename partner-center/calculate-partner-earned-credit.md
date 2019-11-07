@@ -2,17 +2,19 @@
 title: Como o crédito ganho do parceiro é calculado | Centro de parceiros
 ms.topic: article
 ms.date: 09/17/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Como o aspecto de crédito obtido pelo parceiro do Azure Plan é calculado
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: eb0dd5ef22632a85ca0227cc9e988a88263e9ddf
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 402ee0e2084191c7d4f592dd91480be8e1bd0341
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318775"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653715"
 ---
 # <a name="how-the-partner-earned-credit-pec-is-calculated"></a>Como o PEC (crédito ganho) do parceiro é calculado
 

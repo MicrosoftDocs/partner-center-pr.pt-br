@@ -2,18 +2,20 @@
 title: Criar, suspender ou cancelar assinaturas de cliente | Centro de parceiros
 ms.topic: article
 ms.date: 08/16/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Depois de criar um registro de seu cliente no Partner Center, você poderá vender a ele assinaturas de produtos no catálogo.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
 Keywords: assinatura, criar nova, adicionar assinatura, suspender, cancelar, suspensão
 ms.localizationpriority: medium
-ms.openlocfilehash: a79260cf2be62a5cd3d5a340f6c363ebe0200b76
-ms.sourcegitcommit: e84322e2cb6f3f559de93c98a16ab19531a2f95c
-ms.translationtype: HT
+ms.openlocfilehash: 764936d8025cd4aa18e1909a8da2b288c8381a37
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/19/2019
-ms.locfileid: "69578783"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653594"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Criar, suspender ou cancelar assinaturas de clientes
 
@@ -35,9 +37,9 @@ Note que algumas ofertas são limitadas a uma assinatura por cliente. Para ver u
 2. Selecione **Adicionar assinatura**.
 
 3. Para ver apenas determinados tipos de assinaturas, faça seleções nos filtros disponíveis:
-   - **Publicador**: Escolha a **Microsoft** para ver apenas as ofertas da Microsoft, ou o **Parceiro** para ver os produtos do Marketplace comercial publicados por ISVs.
-   - **Tipo de cobrança**: Selecione o tipo de cobrança da assinatura que deseja usar: **Licença** ou **uso**. Consulte [as perguntas frequentes sobre](faq-about-new-billing-features.md) novos recursos de cobrança para obter informações que o ajudarão a decidir entre a frequência de cobrança mensal e anual.
-   - **Categoria**: Escolha **Enterprise**, **Small business**, ou **Trial**. Para obter informações sobre assinaturas de avaliação, consulte [oferecer a seus clientes avaliações de produtos da Microsoft](offer-your-customers-trials-of-microsoft-products.md).
+   - **Publicador**: escolha a **Microsoft** para ver apenas as ofertas da Microsoft ou o **parceiro** para ver os produtos do Marketplace comercial publicados por ISVs.
+   - **Tipo de cobrança**: selecione o tipo de cobrança de assinatura que você deseja usar: **licença** ou **uso**. Consulte [as perguntas frequentes sobre](faq-about-new-billing-features.md) novos recursos de cobrança para obter informações que o ajudarão a decidir entre a frequência de cobrança mensal e anual.
+   - **Categoria**: escolha **Enterprise**, **Small Business**ou **Trial**. Para obter informações sobre assinaturas de avaliação, consulte [oferecer a seus clientes avaliações de produtos da Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
 4. Selecione os produtos para os quais você deseja comprar assinaturas. Observe que os produtos que você vê dependem do tipo de segmento de cliente (educação, governo, etc.) e dos filtros que você aplicou. Se um produto não estiver disponível, talvez o cliente já tenha uma assinatura para esse produto e só seja permitido um. Ou você pode ter suspenso a assinatura nesse caso, você pode reativá-la em vez de comprar uma nova.
 
@@ -54,13 +56,13 @@ Depois que uma assinatura tiver sido adquirida, você poderá revisá-la ou edit
 
 Os parceiros podem suspender ou cancelar uma assinatura se solicitado pelo cliente ou em casos de fraude ou falta de pagamento.
 
-### <a name="suspend-a-subscription"></a>Suspenda uma assinatura
+### <a name="suspend-a-subscription"></a>Suspender uma assinatura
 
 Quando você alterar o status de uma assinatura para **Suspensa**, os usuários não poderão entrar nem acessar os serviços.
 
 1.  No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
 2.  Escolha a assinatura que deseja gerenciar.
-3.  Na seção **Status**, escolha **Suspensa**. Em seguida, clique em **Enviar**  para enviar suas alterações.
+3.  Na seção **Status**, escolha **Suspensa**. Em seguida, **Envie**  suas alterações.
 4.  Todos os dados serão excluídos, a menos que a assinatura seja reativada dentro de 90 dias ou 90 dias mais o número de dias entre a hora em que a conta foi aberta e o primeiro período de cobrança (máximo de 120 dias).
 
 Quando você suspende uma assinatura, a data que você vê abaixo **do** botão suspenso indica quando a assinatura expirará automaticamente se você não a reativar. Para obter mais informações, [consulte perguntas frequentes sobre novos recursos de cobrança](faq-about-new-billing-features.md).
@@ -76,7 +78,7 @@ Após esse período, você não verá mais a opção de cancelar a assinatura.
 
 1.  No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
 2.  Escolha a assinatura que deseja gerenciar.
-3.  Na seção **status** , escolha **cancelar**. Em seguida, clique em **Enviar**  para enviar suas alterações.
+3.  Na seção **status** , escolha **cancelar**. Em seguida, **Envie**  suas alterações.
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>Escolha se deseja renovar automaticamente uma assinatura do Marketplace comercial
 
@@ -86,7 +88,7 @@ Para impedir que uma assinatura do Marketplace comercial ativa renove automatica
 
 1.  No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
 2.  Escolha a assinatura que deseja gerenciar.
-3.  Na seção **status**, desmarque a caixa **renovação automática**. Em seguida, clique em **Enviar**  para enviar suas alterações.
+3.  Na seção **status**, desmarque a caixa **renovação automática**. Em seguida, **Envie**  suas alterações.
 
 
  

@@ -2,17 +2,19 @@
 title: Usar os arquivos de reconciliação | Partner Center
 ms.topic: article
 ms.date: 07/08/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Para obter uma exibição detalhada de item de linha de cada encargo em um ciclo de cobrança, baixe os arquivos de reconciliação do Partner Center.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: cbc982fa5bf6848cb77a2de2dcdaa7660c422888
-ms.sourcegitcommit: 30f946b3c5c2c30a5ee3276037385ea97e644781
+ms.openlocfilehash: 7b27e99e5c0dc55fad3b06cc22316e8282dbe35c
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "71931575"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653979"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar os arquivos de reconciliação
 
@@ -71,7 +73,7 @@ Os parceiros no modelo indireto podem usar esses campos adicionais nos arquivos 
 <p>A ID do MPN do revendedor de registro da assinatura. Isso corresponde à ID de revendedor listada para a assinatura específica no Partner Center.</p>
 <p>eTo exibir ou atualizar o revendedor, no menu do centro de parceiros, selecione <strong>clientes</strong>e, em seguida, escolha o cliente na lista. No menu do cliente, selecione <strong>Assinaturas</strong>, escolha a assinatura na lista. Selecione <strong>Atualizar</strong> para alterar o <strong>Revendedor (ID do MPN)</strong>.</p>
 <p>Se um parceiro CSP vendeu a assinatura diretamente para o cliente, sua ID do MPN estará listada duas vezes, como a ID do MPN e a ID do MPN do revendedor.</p>
-<p>Se um parceiro CSP tiver um revendedor sem ID do MPN, esse valor será definido como a ID do MPN do parceiro.</p>
+<p>Se um parceiro CSP tiver um revendedor sem ID MPN, esse valor será definido como a ID de MPN do parceiro em vez disso.</p>
 <p>Se o parceiro CSP remover uma ID de revendedor, esse valor será definido como -1.</p></td>
 </tr>
 </tbody>
@@ -97,7 +99,7 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 <td><strong>Valor de exemplo</strong></td>
 </tr>
 <tr class="even">
-<td>PartnerId</td>
+<td>PartnerID</td>
 <td><p>Identificador exclusivo de uma entidade de cobrança específica, em formato GUID. Não é necessário para reconciliação, mas pode ser uma informação útil. O mesmo em todas as linhas.</p></td>
 <td>8ddd03642-test-test-test-46b58d356b4e</td>
 </tr>
@@ -183,7 +185,7 @@ Para reconciliar seus encargos com os pedidos de seu cliente, compare o campo Sy
 <td>2</td>
 </tr>
 <tr class="odd">
-<td>Amount</td>
+<td>Valor</td>
 <td><p>Preço total por quantidade. Útil para verificar se o cálculo do valor coincide com a forma como você calcula isso para seus clientes.</p></td>
 <td>13.32</td>
 </tr>
@@ -342,8 +344,8 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 <td>ServiceType</td>
 <td><p>O tipo específico de serviço do Windows Azure.</p></td>
 <td><ul>
-<li>Service Bus – Individual ou pacote</li>
-<li>Banco de dados SQL Azure – Edição empresa ou Web</li>
+<li>Barramento de serviço-individual ou pacote</li>
+<li>Banco de dados do SQL Azure-Business ou Web Edition</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -464,7 +466,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>O número de conexões ServiceBus que foram provisionados e utilizados em um dia específico.</p></td>
-<td>Por exemplo: se você tivesse uma conexão individualmente provisionada durante um mês de 30 dias, a coluna Informação do Serviço 1 lerá "1,000000 conexões/30 dias". Se você tinha um pacote de 25 conexões ServiceBus provisionadas e você utilizou 1 durante o dia, sua declaração de uso diário para esse dia indicaria "25 conexões/30 dias – Usado: 1,000000".</td>
+<td>Por exemplo: se você tivesse uma conexão provisionada individualmente durante um mês de 30 dias, a informação de serviço 1 lerá "1, 0 conexões/30 dias". Se você tiver um pacote de 25 pacotes de conexões do ServiceBus provisionado e tiver utilizado 1 durante esse dia, sua instrução de uso diário para esse dia indicaria "25 conexões/30 dias-usado: 1, 0".</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
@@ -500,7 +502,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 <tbody>
 
 <tr class="odd">
-<td>PartnerId</td>
+<td>PartnerID</td>
 <td><p>Identificador de locatário de Microsoft Azure Active Directory exclusivo para uma entidade de cobrança específica, no formato GUID. Não é necessário para reconciliação, mas pode ser uma informação útil. O mesmo em todas as linhas.</p></td>
 </tr>
 
@@ -561,7 +563,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 
 <tr class="odd">
 <td>AvailabilityId</td>
-<td><p>A ID de uma Disponibilidade em particular. "Disponibilidade" refere-se a se uma SKU em particular está disponível ou não para compra para determinado país, moeda, segmento do setor etc.</p></td>
+<td><p>A ID de uma Disponibilidade em particular. "Disponibilidade" refere-se a uma SKU específica que está ou não disponível para compra de determinado país, moeda, segmento do setor, etc.</p></td>
 </tr>
 
 <tr class="even">
@@ -690,7 +692,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 <tbody>
 
 <tr class="odd">
-<td>PartnerId</td>
+<td>PartnerID</td>
 <td><p>ID do parceiro, no formato GUID.</p></td>
 </tr>
 
@@ -746,7 +748,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 
 <tr class="even">
 <td>AvailabilityId</td>
-<td><p>A ID de uma Disponibilidade em particular. "Disponibilidade" refere-se a se uma SKU em particular está disponível ou não para compra para determinado país, moeda, segmento do setor etc.</p></td>
+<td><p>A ID de uma Disponibilidade em particular. "Disponibilidade" refere-se a uma SKU específica que está ou não disponível para compra de determinado país, moeda, segmento do setor, etc.</p></td>
 </tr>
 
 <tr class="odd">
@@ -764,7 +766,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 <td><p>A ID do Publicador, no formato GUID. Não disponível para a atividade atual.</p></td>
 </tr>
 
-<tr class=”even">
+<tr class="even">
 <td>Descrição da assinatura</td>
 <td><p>O nome da oferta de serviço comprada pelo cliente, conforme definido na tabela de preços. (Este é um campo idêntico ao nome da oferta).</p></td>
 </tr>
@@ -910,7 +912,7 @@ Sua fatura fornece um resumo dos encargos, enquanto seu arquivo de reconciliaç�
 
 Para fazer referência cruzada das quantidades de carga entre o arquivo de reconciliação e fatura, você pode usar opções de filtro do Microsoft Excel para filtrar por tipos de cobrança no arquivo de reconciliação para mapear os encargos de fatura em um conjunto de detalhamentos de cobrança no arquivo de reconciliação.
 
-Os arquivos de reconciliação, tanto os baseados em licença quanto os baseados em uso, mostram apenas encargos e transações relacionadas ao uso (unidades consumidas e encargos relacionados). Créditos únicos, descontos ou reembolsos que aparecem na fatura como "Ajustes" não são mostrados no arquivo de reconciliação.
+Os arquivos de reconciliação, tanto os baseados em licença quanto os baseados em uso, mostram apenas encargos e transações relacionadas ao uso (unidades consumidas e encargos relacionados). Créditos, descontos ou reembolsos que aparecem na fatura como "ajustes" não são mostrados no arquivo de reconciliação.
 
 A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos de encargo associados que podem aparecer nos arquivos de reconciliação. 
 
@@ -978,7 +980,7 @@ A tabela a seguir mostra os mapeamentos entre uma seção da fatura e os tipos d
 </tr>
 <tr>
 <td>
-<p>Taxas proporcionais durante a compra</p>
+<p>Taxas proporcionais na compra</p>
 </td>
 <td>
 <p>O tipo de encargo para uma assinatura ao usar a cobrança anual</p>

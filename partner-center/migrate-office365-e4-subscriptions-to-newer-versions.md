@@ -2,18 +2,20 @@
 title: Migrar assinaturas do Office 365 E4 para versões mais recentes do Office 365 | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Edições do Microsoft Office 365 Enterprise E4 estarão desativadas a partir de 7 de abril de 2017. Saiba como migrar suas assinaturas de cliente para versões mais recentes do Office 365.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e14ffbfaeaec64e8ccf3612cba9ed0f27aa31968
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: dab5bd048fc04cbf6cc46507dc8f3ecc7bb6d6ce
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134376"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654315"
 ---
-# <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migre assinaturas do Office 365 E4 para versões do Office 365 mais recentes
+# <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrar inscrições do Office 365 E4 para versões do Office 365 mais recentes
 
 **Aplica-se a**
 
@@ -21,10 +23,10 @@ ms.locfileid: "62134376"
 
 O plano do Office 365 Enterprise E4 está desativado desde 7 de abril de 2017. Você não pode comprar novas assinaturas do Office 365 E4 após essa data, e assinaturas E4 existentes não serão renovadas automaticamente quando expirarem.
 
-Quando as assinaturas E4 terminarem, elas serão canceladas. Para garantir a continuidade dos clientes, você deve fazer a transição de clientes com assinaturas E4 vencidas para uma opção de SKU com suporte, listada abaixo. É recomendável mover os clientes para as novas assinaturas antes da data de término da assinatura anual, para evitar possíveis interrupções de serviço. 
+Quando as assinaturas E4 terminarem, elas serão canceladas. Para garantir a continuidade dos clientes, você deve fazer a transição de clientes com assinaturas E4 vencidas para uma opção de SKU com suporte, listada abaixo. É recomendável mover os clientes para novas assinaturas antes da data de término anual da assinatura para evitar qualquer interrupção de serviço para os clientes. 
 
 > [!NOTE]  
->  Office 365 Enterprise E4 comerciais e governamentais SKUs são desativados.
+>  Os SKUs comerciais e governamentais do Office 365 Enterprise E4 são desativados.
  
 Na página de detalhes da assinatura, o status da assinatura E4 foi alterado para "Expira em [data]" de "Renovação automática em [data]". 
 
@@ -40,7 +42,7 @@ Você pode optar por manter a mesma funcionalidade com E4 ou deixar seus cliente
 
 - Opção 2: Office 365 Enterprise E3 + Skype for Business Cloud PBX
 
-- Opção 3: Office 365 Enterprise E3 + Skype para negócios Plus CAL (preço e a funcionalidade de paridade com E4)
+- Opção 3: Office 365 Enterprise E3 + Skype for Business Plus CAL (preço e paridade funcional com E4)
 
 - Opção 4: Office 365 Enterprise E3
 
@@ -68,15 +70,15 @@ Siga estas etapas para migrar a assinatura do Office 365 Enterprise E4 de client
 
 ### <a name="step-1---purchase-the-new-subscription"></a>Etapa 1 - Comprar a nova assinatura
 
-1. Dos **Partner Center** menu, selecione **clientes**, selecione o cliente que você deseja mover e, em seguida, selecione **adicionar assinaturas**.
+1. No menu do **centro de parceiros** , selecione **clientes**, selecione o cliente que você deseja mover e, em seguida, selecione **adicionar assinaturas**.
 
 2. Selecione a assinatura que deseja comprar no catálogo (nesse caso, uma das opções acima), insira o número de licenças e selecione **Enviar**.
 
-   Seu cliente deve ter agora tanto assinaturas antigas quanto novas, a assinatura do Office 365 Enterprise E4 antiga e a de "alvo" nova, por exemplo, Opção 1 - Office 365 Enterprise E5.
+   Seu cliente agora deve ter assinaturas antigas e novas, a antiga assinatura do Office 365 Enterprise E4 e a nova assinatura de "destino", por exemplo, a opção 1-Office 365 Enterprise e5.
 
 ### <a name="step-2---reassign-the-customers-users-licenses"></a>Etapa 2 - Reatribuir licenças dos usuários do cliente
 
-1. Dos **Partner Center** menu, selecione **clientes**, selecione o cliente que você deseja mover e, em seguida, selecione **usuários e licenças**. A página Usuários e Licenças do cliente será aberta.
+1. No menu do **centro de parceiros** , selecione **clientes**, selecione o cliente que você deseja mover e, em seguida, selecione **usuários e licenças**. A página usuários e licenças do cliente é aberta.
 
 2. Para reatribuir licenças de usuário, selecione o usuário a ser reatribuído e selecione **Gerenciar licenças**.
 
@@ -90,7 +92,7 @@ Depois de migrar as licenças de usuário para o novo serviço, você pode cance
 
 ### <a name="step-3---cancel-the-old-subscription"></a>Etapa 3 - Cancelar a assinatura antiga
 
-1. Dos **Partner Center** menu, selecione **clientes**. Selecione o cliente que você deseja mover e selecione a assinatura que deseja cancelar.
+1. No menu do **centro de parceiros** , selecione **clientes**. Selecione o cliente que você deseja mover e selecione a assinatura que deseja cancelar.
 
 2. Na página de detalhes da assinatura, defina o status da assinatura para **Suspensa**.
 

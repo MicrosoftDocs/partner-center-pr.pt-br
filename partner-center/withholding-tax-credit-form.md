@@ -2,18 +2,20 @@
 title: Verifique se você está creditado na retenção de imposto | Centro de parceiros
 ms.topic: article
 ms.date: 05/28/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Você precisará do formulário de crédito de imposto sobre retenção e do certificado de retenção de imposto para abrir uma solicitação de serviço.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: LauraBrenner
 ms.author: labrenne
 keywords: crédito de retenção de imposto, créditos de impostos, formulário de crédito de imposto alemão, crédito de imposto de formulário
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d13c823297c2f681d0608a16d21a314cf9c4e1a
-ms.sourcegitcommit: e528ce5b05b89b19ba8cf2e48518f57067de9a2b
+ms.openlocfilehash: 654e4f32be1e86ce455c7d0409469bab37473f8b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "72892404"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653945"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Verifique se você está creditado para a retenção de imposto
 
@@ -49,7 +51,7 @@ Preencha esse [formulário](https://query.prod.cms.rt.microsoft.com/cms/api/am/b
 
 2. Selecione **CSP**.
 
-3. Em **CSP – cobrança e pagamentos**, selecione o tipo de problema- **retenção de imposto** e selecione **Sim**. 
+3. Em **CSP-cobrança e pagamentos**, selecione o tipo de problema- **retenção de imposto** e selecione **Sim**. 
 
 4. Ao enviar a solicitação de serviço, lembre-se de anexar o formulário de crédito fiscal e as cópias digitais dos certificados de imposto.
 

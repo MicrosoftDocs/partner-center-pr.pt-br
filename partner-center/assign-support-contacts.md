@@ -2,6 +2,8 @@
 title: Atribuir contatos de suporte | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Quando você configura assinaturas de serviços Microsoft para seus clientes, convém atribuir o suporte técnico desses produtos a um revendedor designado, em vez de fornecer o suporte por conta própria.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: LauraBrenner
@@ -9,14 +11,14 @@ ms.author: labrenne
 keywords: agente de ajuda, suporte, atribuir contato de suporte, contato de suporte designado
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7e5478e5598fe5f1acc11fe0dde49e9ffd019394
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 9d5318bd9cc33db50d2cc78fc4e31d10e2dbabd2
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134826"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653920"
 ---
-# <a name="assign-support-contacts"></a>Atribua contatos de suporte
+# <a name="assign-support-contacts"></a>Atribuir contatos de suporte
 
 **Aplica-se a**
 
@@ -33,7 +35,7 @@ Isso pode ser usado para cenários de [multi-parceiros](multipartner.md) e [mult
 
 1.  Comece por [solicitar uma relação](request-a-relationship-with-a-customer.md) com seu revendedor de produto designado. Negocie um contrato de suporte com eles para lidar com suporte técnico.
 
-2.  Dos **Partner Center** menu, selecione **clientes**, em seguida, selecione um cliente e selecione uma assinatura, por exemplo, o Office 365 Business Premium.
+2.  No menu do **centro de parceiros** , selecione **clientes**, em seguida, selecione um cliente e, em seguida, selecione uma assinatura, por exemplo, Office 365 Business Premium.
 
 3.  Em **Contato de suporte designado**, selecione o revendedor de produto designado e, em seguida, clique em **Enviar**. 
 

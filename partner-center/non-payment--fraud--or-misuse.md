@@ -2,6 +2,8 @@
 title: Não pagamento, fraude ou uso indevido | Partner Center
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Estratégias para gerenciar os riscos de transações online, incluindo falta de pagamento de bens e serviços e atividade fraudulenta ou uso indevido do cliente.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: fraude, uso indevido, uso aceitável, política de uso aceitável, falta de pagamento, cliente não paga a conta, risco online, roubo de serviço, abuso do serviço, suspender uma assinatura,
@@ -9,12 +11,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2e8ab123b4b735f685c7caf1ba740c04c93fd134
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 4cda8426d29fd2bf290cac2d7478bcb08641c5c3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978732"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652970"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Falta de pagamento, fraude ou uso indevido
 
@@ -35,7 +37,7 @@ Para evitar e/ou resolver atividade fraudulenta ou uso indevido, é importante e
 
 - **Roubo de serviço** Clientes que não têm a intenção de pagar por serviços consumidos usando meios de pagamento roubado, fornecendo informações de cobrança falsas e/ou sendo inadimplente com pagamentos pendentes
 
-- **Abuso do serviço** Clientes que usam serviços de nuvem violando a política de uso aceitável da Microsoft
+- **Abuso de serviço** Clientes que usam serviços de nuvem violando a política de uso aceitável da Microsoft
 
 #### <a name="examples-of-possible-fraud-or-service-abuse"></a>Exemplos de possível fraude ou abuso do serviço
 - Spam

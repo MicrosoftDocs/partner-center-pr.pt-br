@@ -2,24 +2,26 @@
 title: Fornecer suporte para a cobrança | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Você tem a relação de cobrança com seus clientes e oferece suporte completo a qualquer pergunta relacionada à cobrança de seus clientes.
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8fee297df2e768609cf9480370d56e59af5b249a
-ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
-ms.translationtype: HT
+ms.openlocfilehash: 2df2429b37f9260de5f8e1b16a143555bc473760
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "67549502"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654144"
 ---
 # <a name="provide-billing-support"></a>Fornecer suporte para a cobrança
 
 **Aplica-se a**
 
 -  Partner Center
--  Partner Center para Microsoft Cloud for US Government
+-  Partner Center do Microsoft Cloud for US Government
 
 
 Você possui a relação de cobrança com seus clientes e é responsável por responder a dúvidas relacionadas à cobrança de seus clientes.
@@ -35,9 +37,9 @@ Os parceiros que estejam fazendo transações no modelo CSP são os consultores 
 Para atender ao requisito de suporte, o parceiro pode revender suporte de outra entidade, pode terceirizar parte ou toda a estrutura de suporte e/ou pode configurar uma estrutura para fornecer suporte diretamente.  O parceiro pode cobrar por todo ou parte do suporte fornecido aos clientes. O parceiro deve expor para seus clientes o suporte que será fornecido, as horas de atendimento e o método de contato, bem como o preço (se estiver cobrando pelo suporte). 
 
 >[!Note]
->Se você não for um CSP e tiver perguntas sobre cobrança do cliente, consulte o portal específico para os produtos adequados ou serviços.
+>Se você não for um CSP e tiver dúvidas sobre a cobrança do cliente, consulte o portal específico para obter os produtos ou serviços apropriados.
 
-Os parceiros devem receber solicitações de suporte dos clientes, diagnosticar problemas para a melhor capacidade do parceiro e então resolver os problemas que estejam no escopo dos limites de suporte de linha de base. Se o parceiro for incapaz de resolver um problema, poderá encaminhá-lo à Microsoft por meio dos seguintes veículos de suporte:
+Os parceiros são obrigados a receber solicitações de suporte recebidas de clientes, diagnosticar problemas para o melhor da capacidade do parceiro e, em seguida, resolver problemas que estão dentro do escopo dos limites de suporte de linha de base. Se o parceiro for incapaz de resolver um problema, poderá encaminhá-lo à Microsoft por meio dos seguintes veículos de suporte:
 
 - O suporte a problemas **comerciais** está disponível para todos os parceiros do programa CSP
 -   O suporte a problemas **técnicos** está disponível por meio de:
@@ -53,6 +55,6 @@ Cada serviço online tem requisitos específicos e detalhados para fornecer supo
 
 -   [Assinaturas do Azure vendidas por meio do CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [Assinaturas do Office 365 vendidos por meio do CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+-   [Assinaturas do Office 365 vendidas por meio do CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
 

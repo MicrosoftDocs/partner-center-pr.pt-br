@@ -2,17 +2,19 @@
 title: Acessar sua página de pagamentos de incentivos | Centro de parceiros
 ms.topic: article
 ms.date: 10/17/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
 description: Entenda suas informações de pagamento
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Incentivos, pagamento
 ms.localizationpriority: medium
-ms.openlocfilehash: e9db0d0a76732ee02e4f9e288d87548112f4d016
-ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
+ms.openlocfilehash: 7b9bc2a1ff8a2b52a5e7b72d468537e5016e34a1
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73141984"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654356"
 ---
 # <a name="access-your-incentives-payouts-page"></a>Acessar sua página de pagamentos de incentivos
 

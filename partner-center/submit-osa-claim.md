@@ -2,17 +2,19 @@
 title: Criar uma associação de cliente usando o modelo CPOR | Centro de parceiros
 ms.topic: article
 ms.date: 10/29/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Criar uma associação de cliente usando o modelo CPOR
 author: LauraBrenner
 ms.author: labrenne
 keywords: créditos de incentivos, declarações de cooperação, fundos de cooperação, OSU, OSA, ISV, associação de receita
 ms.localizationpriority: medium
-ms.openlocfilehash: 9acac203d44e3942f9a07bc5af90528e558bce39
-ms.sourcegitcommit: 014669c26592a3ab35c2aa7f3ff615f5f1091752
+ms.openlocfilehash: 052e41e1d61a1287550147530371c7e558a6ee69
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73083864"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654036"
 ---
 **Aplica-se a**
 

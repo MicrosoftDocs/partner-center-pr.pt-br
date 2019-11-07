@@ -3,16 +3,18 @@ title: Personalizar a experiência inicial no uso do dispositivo com os perfis d
 description: Preconfigure a experiência inicial de um dispositivo com perfis do AutoPilot.
 ms.topic: article
 ms.date: 03/18/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: maggiepuccievans
 ms.author: evansma
 keywords: piloto automático, piloto automático do Windows, Microsoft AutoPilot, implantação Zero Touch, OOBE, telas de logon, pronto para uso
 ms.localizationpriority: medium
-ms.openlocfilehash: 7861efa8c0fd7e03488ba3f222fcb3a476c06cc2
-ms.sourcegitcommit: 76c34fd8dc544cea93496079df68759a1da9098c
+ms.openlocfilehash: 6ad6482c68da6c964414be3b7f036835934f049e
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "73544048"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653910"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personalizar a experiência inicial de um dispositivo com os perfis do Windows AutoPilot
 

@@ -2,19 +2,21 @@
 title: Aumentar a adoção e a satisfação | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Nossos parceiros usam muitos métricas para avaliar se seus negócios estão crescendo e onde concentrar o investimento. O Partner Center pode ajudar informando se e como os clientes estão usando as licenças adquiridas.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b188ff4c859d91d58ba27700de9853df375950ec
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: b143a97afb65b1444831152e40eaccb90580dc05
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134486"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653345"
 ---
-# <a name="increase-adoption-and-satisfaction"></a>Aumente a adoção e a satisfação
+# <a name="increase-adoption-and-satisfaction"></a>Aumentar a adoção e a satisfação
 
 **Aplica-se a**
 
@@ -27,16 +29,16 @@ Você pode ver dados de todos os seus clientes por meio do programa Provedor de 
 > [!NOTE]  
 >  No momento, mostramos apenas dados do Office 365 e do Dynamics 365. Habilitaremos dados de outros produtos no futuro.
 
-## <a name="find-license-and-user-data"></a>Localize dados de licença e do usuário
+## <a name="find-license-and-user-data"></a>Localizar dados de licença e do usuário
 
 
 **Para um único cliente**
 
--   Selecione **clientes** da **Partner Center**, escolha um cliente e selecione **Customer insights**.
+-   Selecione **clientes** na **central de parceiros**, escolha um cliente e, em seguida, selecione **Customer insights**.
 
 **Em seu portfólio**
 
-1.  Sobre o **Partner Center**, selecione **analisar**.
+1.  No **Partner Center**, selecione **analisar**.
 2.  Baixe os dados de implantação e uso de todo o seu conjunto de clientes selecionando as opções de **exportação**.
 
 Terminologia:
@@ -62,7 +64,7 @@ Terminologia:
 ## <a name="next-steps"></a>Próximas etapas
 
 
-Se forem apresentados muitos pedidos de Ajuda e Perguntas de instrução, os números de adoção em sua conta forem baixos ou você estiver procurando oportunidades de vendas, convém considerar a oferta de cursos de treinamento. Ensinando seus clientes como usar melhor o software de solução na nuvem que compraram, você tem mais chances de ver um aumento em produtividade e satisfação, e uma redução nas necessidades de suporte.
+Se você estiver conferindo muitas perguntas de ajuda e instruções, os números de adoção em sua conta estão baixos ou você está procurando oportunidades de venda, talvez queira considerar a possibilidade de oferecer cursos de treinamento. Ao ensinar seus clientes a usar melhor o software de solução de nuvem que eles compraram, é mais provável que você veja um aumento na produtividade e na satisfação e uma redução nas necessidades de suporte.
 
 <table>
 <colgroup>
@@ -70,14 +72,14 @@ Se forem apresentados muitos pedidos de Ajuda e Perguntas de instrução, os nú
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problema:</strong> A taxa de adoção do usuário é baixa e muitas são inválidas de licenças&#39;t que está sendo usado.</p>
-<p><strong>O que considerar:</strong> os clientes podem não entender o valor que o software pode oferecer. Eles precisam de ajuda para conhecer as maneiras de incorporá-lo em seu dia para simplificar tarefas que já estão fazendo, ou para habilitar novos tipos de produtividade.</p>
-<p><strong>O que tente:</strong> estudos de caso, depoimentos de usuários sobre cenários específicos, blogs de tutorial ou vídeos.</p></td>
+<td><p><strong>Problema:</strong> A taxa de adoção do usuário é baixa e muitas licenças&#39;não estão sendo usadas.</p>
+<p><strong>O que considerar:</strong> os clientes podem não entender o valor que o software pode oferecer. Eles precisam de ajuda para prever as maneiras como podem incorporá-lo em seu dia para simplificar as tarefas que já estão fazendo ou para permitir novos tipos de produtividade.</p>
+<p><strong>O que tentar:</strong> estudos de caso, depoimentos de usuários sobre cenários específicos, blogs de tutorial ou vídeos.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Problema:</strong> há um grande volume de chamadas de suporte de ajuda e perguntas de instrução.</p>
 <p><strong>O que considerar:</strong> os clientes podem ser novos no software, na versão do produto ou na tarefa.</p>
-<p><strong>O que tente:</strong> Você pode usar uma estratégia de dupla da oferta de treinamento (pessoalmente ou online) para aumentar o cliente&#39;s a experiência geral, ao promover também algumas das opções de autoatendimento disponíveis para clientes.</p>
+<p><strong>O que tentar:</strong> Você pode usar uma estratégia dupla de treinamento de oferta (pessoalmente ou online) para aumentar a&#39;experiência geral do cliente e, ao mesmo tempo, promover algumas das opções de autoatendimento disponíveis para os clientes.</p>
 <p>É possível recriar seu site de suporte para incluir também as opções de autoatendimento descritas no tópico <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Autoatendimento do cliente</a> além de suas informações de contato de suporte.</p></td>
 </tr>
 </tbody>

@@ -2,17 +2,19 @@
 title: Guia de migração do PMC para o Partner Center | Centro de parceiros
 ms.topic: article
 ms.date: 04/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: O que saber ao migrar sua empresa do PMC para o Partner Center
 author: LauraBrenner
 ms.author: labrenne
-keywords: PMC, migração, migrando para o Partner Center
+keywords: PMC, migração, mover para o Partner Center
 ms.localizationpriority: medium
-ms.openlocfilehash: f8e0b1fa4b31608ed4031832018c0a003abf0ae9
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: a39c4114758004ff4291bc577182fd8ba469149b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708913"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653094"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guia de migração do PMC para o Partner Center
 
@@ -35,7 +37,7 @@ A movimentação começa no PMC. Seu administrador global receberá um convite p
 
 **Quando estiver pronto**
 
-Selecione introdução em seu convite. Você será levado para a página de entrada do Partner Center.
+Selecione **introdução** em seu convite. Você será levado para a página de entrada do Partner Center.
 
 ![Introdução](images/migration/getstarted.jpg)
 
@@ -68,7 +70,7 @@ Quando o novo locatário do Azure AD for criado, você poderá convidar seus fun
 ![Convidar funcionários](images/migration/invite.png)
 
 
-Se você tiver entrado com um locatário do AAD existente, seus funcionários terão se movido com você. Nesse caso, atribua suas funções de funcionários que determinam o que elas podem fazer no Partner Center. Observação: As funções no Partner Center são diferentes das funções no PMC. Para obter mais informações, consulte [migrando do PMC para o Partner Center](move-pmc-pc-map.md).
+Se você tiver entrado com um locatário do AAD existente, seus funcionários terão se movido com você. Nesse caso, atribua suas funções de funcionários que determinam o que elas podem fazer no Partner Center. Observação: as funções no Partner Center são diferentes das funções em PMC. Para obter mais informações, consulte [migrando do PMC para o Partner Center](move-pmc-pc-map.md).
 
 ## <a name="verify-your-domain-and-become-a-global-admin"></a>Verifique seu domínio e torne-se um administrador global  
 
@@ -94,8 +96,8 @@ Faça o Tour do seu painel. Aqui está onde você pode gerenciar sua associaçã
 - [Criar contas de usuário](create-user-accounts-and-set-permissions.md)
 - [Atribuir funções e permissões de usuário](permissions-overview.md)
 - [Gerenciar seus programas de associação](renew-mpn-offers.md)
-- [Criar o perfil comercial da sua empresa](create-a-marketing-profile.md)
-- [Conectar-se com clientes por meio de referências](responding-to-referrals.md)
+- [Criar perfil de negócios da sua empresa](create-a-marketing-profile.md)
+- [Conectar-se com clientes por meio de indicações](responding-to-referrals.md)
 
 ## <a name="see-also"></a>Consulte também
 

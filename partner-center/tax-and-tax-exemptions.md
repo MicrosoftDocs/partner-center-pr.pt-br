@@ -2,33 +2,35 @@
 title: Impostos e isenções fiscais | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Como o Provedor de Soluções na Nuvem é um canal de vendas concentrado na revenda de produtos do parceiro, a Microsoft nem sempre precisa cobrar impostos sobre vendas em faturas de parceiros.
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5d0e998a53c6c1b4ab61b18c077b35bb888dd8c0
-ms.sourcegitcommit: 1dfaa862741d9af918886f9f1133a0602546d145
-ms.translationtype: HT
+ms.openlocfilehash: 06163368802263c49631d1eafabe5d18bf66b44b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "67262976"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654016"
 ---
 # <a name="tax-and-tax-exemptions"></a>Impostos e isenções fiscais
 
 **Aplica-se a**
 
 -  Partner Center
--  Partner Center para Microsoft Cloud for US Government
+-  Partner Center do Microsoft Cloud for US Government
 
 
 Como o Provedor de Soluções na Nuvem é um canal de vendas concentrado na revenda de produtos do parceiro, a Microsoft nem sempre precisa cobrar impostos sobre vendas em faturas de parceiros. As regras variam de acordo com o país/região. Os parceiros devem trabalhar com seu consultor de impostos para protocolar as isenções fiscais apropriadas com base em seus locais e na localização de seus clientes. Para marcar sua conta de revendedor da Microsoft como não tributada, o parceiro deve enviar esses certificados de isenção para a Microsoft.
 
-**Arquivo de uma isenção de imposto**
+**Arquivar uma isenção de imposto**
 
-1.  Pesquisar seus **ID da Microsoft** no Partner Center &gt; **configurações de conta** &gt; **perfil organização**.
-2.  Pesquisar seus **ID do MPN** no Partner Center &gt; **configurações de conta** &gt; **perfil do parceiro**.
-3.  Crie um novo tíquete de suporte. No menu do Partner Center, selecione **solicitações de serviço** &gt; **solicita do Partner Center** &gt; **nova solicitação**.
+1.  Pesquise sua **ID da Microsoft** no Partner Center &gt; **configurações de conta** &gt; perfil da **organização**.
+2.  Procure sua **ID do MPN** no partner Center &gt; **configurações da conta** &gt; perfil do **parceiro**.
+3.  Crie um novo tíquete de suporte. No menu do centro de parceiros, selecione **solicitações de serviço** &gt; **as solicitações do Partner Center** &gt; **nova solicitação**.
 4.  Preencha o formulário. Para o **Tipo de problema**, escolha **Não é possível gerenciar meu perfil**. Na descrição, inclua sua ID do MPN e a ID da Microsoft.
 5.  Depois de enviar o tíquete, a Microsoft enviará um email a você para obter mais informações. Ao responder, anexe a documentação de apoio apropriada para os certificados de isenção de imposto.
 
@@ -51,7 +53,7 @@ Como o Provedor de Soluções na Nuvem é um canal de vendas concentrado na reve
 <p>A Microsoft não oferece suporte a crédito e nova cobrança, então, antes de vender qualquer assinatura você deve registrar seu número de ID de IVA no Partner Center.</p>
 <p>Envie seu número de ID de IVA à Microsoft</strong></p>
 <ol>
-<li>No Partner Center, vá para o menu do Partner Center &gt; <strong>configurações de conta</strong> &gt; <strong>perfil de cobrança do parceiro</strong>.</li>
+<li>No Partner Center, acesse o menu do Partner Center &gt; <strong>configurações da conta</strong> &gt; perfil de cobrança do <strong>parceiro</strong>.</li>
 <li>Na seção <strong>Dados financeiros</strong>, selecione <strong>Atualizar</strong>.</li>
 <li>Na <strong>ID de Imposto da Empresa</strong>, especifique o número de ID de IVA.</li>
 </ol></td>
@@ -59,11 +61,11 @@ Como o Provedor de Soluções na Nuvem é um canal de vendas concentrado na reve
 <tr class="odd">
 <td>África do Sul</td>
 <td><p>
-Microsoft agora se aplica o standard IVA (imposto) no conteúdo digital e os serviços adquiridos por parceiros na África do Sul. Para excluir o IVA de suas faturas e gerenciá-la, use o procedimento a seguir para atualizar seu perfil de cobrança de parceiro.
+Agora, a Microsoft aplica o imposto sobre valor agregado padrão (IVA) ao conteúdo digital e aos serviços adquiridos por parceiros na África do Sul. Para excluir o IVA de suas faturas e gerenciá-lo por conta própria, use o procedimento a seguir para atualizar seu perfil de cobrança de parceiro.
 </p>
 <p>Envie seu número de ID de IVA à Microsoft</strong></p>
 <ol>
-<li>No Partner Center, vá para o menu do Partner Center &gt; <strong>configurações de conta</strong> &gt; <strong>perfil de cobrança do parceiro</strong>.</li>
+<li>No Partner Center, acesse o menu do Partner Center &gt; <strong>configurações da conta</strong> &gt; perfil de cobrança do <strong>parceiro</strong>.</li>
 <li>Na seção <strong>Dados financeiros</strong>, selecione <strong>Atualizar</strong>.</li>
 <li>Na <strong>ID de Imposto da Empresa</strong>, especifique o número de ID de IVA.</li>
 </ol></td>
@@ -72,11 +74,11 @@ Microsoft agora se aplica o standard IVA (imposto) no conteúdo digital e os ser
 <td>Turquia</td>
 <td>
 <p>
-Microsoft agora se aplica o standard IVA (imposto) no conteúdo digital e os serviços adquiridos por parceiros na Turquia. Para excluir o IVA de suas faturas e gerenciá-la, use o procedimento a seguir para atualizar seu perfil de cobrança de parceiro.
+A Microsoft agora aplica o imposto sobre valor agregado padrão (IVA) ao conteúdo digital e aos serviços adquiridos por parceiros na Turquia. Para excluir o IVA de suas faturas e gerenciá-lo por conta própria, use o procedimento a seguir para atualizar seu perfil de cobrança de parceiro.
 </p>
 <p>Envie seu número de ID de IVA à Microsoft</strong></p>
 <ol>
-<li>No Partner Center, vá para o menu do Partner Center &gt; <strong>configurações de conta</strong> &gt; <strong>perfil de cobrança do parceiro</strong>.</li>
+<li>No Partner Center, acesse o menu do Partner Center &gt; <strong>configurações da conta</strong> &gt; perfil de cobrança do <strong>parceiro</strong>.</li>
 <li>Na seção <strong>Dados financeiros</strong>, selecione <strong>Atualizar</strong>.</li>
 <li>Na <strong>ID de Imposto da Empresa</strong>, especifique o número de ID de IVA.</li>
 </ol></td>

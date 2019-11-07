@@ -1,6 +1,8 @@
 ---
 title: Analisar o uso do Azure | Partner Center
 ms.date: 08/02/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Use o Partner Center para obter dados sobre o uso de assinaturas do Azure de seus clientes.
 author: LauraBrenner
 ms.author: labrenne
@@ -9,14 +11,14 @@ ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0cdf48f959591f11994b0538532fadbcb4f11a89
-ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
-ms.translationtype: HT
+ms.openlocfilehash: b4c85cc591dfe43feb6a442de1b239520b56fe45
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "68781979"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653376"
 ---
-# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Obter dados sobre o uso de assinaturas do Azure de seus clientes
+# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Obter dados sobre o uso das assinaturas do Azure de seus clientes
 
 Aplica-se a:
 
@@ -31,9 +33,9 @@ Estamos monitorando as seguintes métricas:
 
 ## <a name="summary"></a>Resumo
 
-- **Total de assinaturas do Azure vendidas**: Número de assinaturas vendidas no período de tempo especificado  
-- **Clientes com uso**: Número de clientes com uso do Azure no período de tempo especificado  
-- **Clientes sem uso**: Número de clientes sem uso do Azure no período de tempo especificado  
+- **Total de assinaturas do Azure vendidas**: número de assinaturas vendidas no período de tempo especificado  
+- **Clientes com uso**: número de clientes que usaram o Azure no período de tempo especificado  
+- **Clientes sem uso**: número de clientes que não usaram o Azure no período de tempo especificado  
 
 ## <a name="top-5-customers-in-category"></a>Cinco principais clientes na categoria
 
@@ -49,8 +51,8 @@ Esta seção indica o risco de rotatividade prevista para assinaturas do Azure. 
 
 ## <a name="azure-subscription-churn"></a>Variação da assinatura do Azure
 
-- **Assinaturas ativas**: Contagem de assinaturas ativas por data  
-- **Assinaturas**desprovisionadas: Contagem de assinaturas desprovisionadas ou suspensas por data  
+- **Assinaturas ativas**: contagem de assinaturas ativas por data  
+- **Assinaturas desprovisionadas**: contagem das assinaturas desprovisionadas ou suspensas por data  
 
 ## <a name="customer-count"></a>Contagem de clientes
 

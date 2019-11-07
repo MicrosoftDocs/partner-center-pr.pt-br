@@ -2,18 +2,20 @@
 title: Gerenciar reservas do Azure em nome dos seus clientes | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Para gerenciar as reservas do Azure de seus clientes após a compra, você selecionará o cliente e a reserva que deseja gerenciar no Partner Center e, em seguida, fará alterações na reserva no portal do Azure.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, reservas, gerenciar, cobrança, compra, cancelamento, troca, taxa de encerramento antecipado
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b7e9726acbba54daf8404fdf4a3d2b4961c5123a
-ms.sourcegitcommit: 4b8cad9f24229767dd44fa9418fe57e10d74f390
+ms.openlocfilehash: b15e0396fce4f9a738b1b34049f0e9560f847f19
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "71704155"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653819"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gerenciar Reservas do Microsoft Azure em nome de seus clientes       
 
@@ -27,16 +29,16 @@ Para gerenciar as reservas do Azure de seus clientes após a compra, você selec
 
 1. Para começar, selecione **clientes** no menu do centro de parceiros e, em seguida, selecione o cliente cujas reservas você deseja gerenciar. 
 
-2. No menu da página de detalhes do cliente, selecione **Reservas do Azure** e, em seguida, selecione a reserva específica que você deseja gerenciar.  
+2. No menu da página de detalhes do cliente, selecione **reservas do Azure** e, em seguida, selecione a reserva específica que você deseja gerenciar.  
 
-3. Em **Ações**, selecione **Gerenciar** para ir para registro de reserva do cliente no portal do Azure. Na página de detalhes da reserva, siga as etapas abaixo para concluir tarefas.  
+3. Em **ações**, selecione **gerenciar** para ir para o registro de reserva do cliente no portal do Azure. Na página de detalhes da reserva, siga as etapas abaixo para concluir tarefas.  
 
     | **Não**   | **Para**    |
     |:-----------------------------|:-----------------|
-    | **Visão geral**   | Exiba detalhes da reserva de um cliente, incluindo data de validade, escopo e dados de utilização. **OBSERVAÇÃO** Selecione **Reembolso** para criar uma solicitação de suporte para obter um reembolso proporcional. Selecione **Trocar** para criar uma solicitação de suporte para trocar a parte não utilizada do seu termo de reserva.  
+    | **Visão geral**   | Exibir detalhes da reserva de um cliente, incluindo data de expiração, escopo e dados de utilização. **OBSERVAÇÃO** Selecione **Reembolso** para criar uma solicitação de suporte para obter um reembolso proporcional. Selecione **Trocar** para criar uma solicitação de suporte para trocar a parte não utilizada do seu termo de reserva.  
     | **Controle de acesso (IAM)**   | Gerencie o acesso às informações de reserva do cliente.|
-    | **Configuração**   | Altere o escopo da reserva e/ou a assinatura do Azure a qual a reserva está associada.    |
-    | **Propriedades**   | Exiba as propriedades da reserva e copie para a área de transferência a ID da reserva e a ID do pedido da reserva. **OBSERVAÇÃO** O suporte pode solicitar a ID da reserva e a ID do pedido da reserva quando você solicitar suporte em nome de um cliente.    |
+    | **Configuração**   | Altere o escopo da reserva e/ou a assinatura do Azure à qual a reserva está associada.    |
+    | **Propriedades**   | Exiba as propriedades da reserva e copie para a área de transferência a ID da reserva e a ID do pedido de reserva. **OBSERVAÇÃO** O suporte pode solicitar a ID da reserva e a ID do pedido da reserva quando você solicitar suporte em nome de um cliente.    |
     | **Nova solicitação de suporte**    | Solicite ajuda do Suporte da Microsoft.   |
  
 ## <a name="cancel-or-exchange-a-reservation"></a>Cancelar ou trocar uma reserva 
@@ -73,13 +75,13 @@ O valor de reembolso rateado é creditado em sua conta para que você possa ofer
 Para arquivar uma solicitação de suporte para um reembolso ou troca em nome de seus clientes, você selecionará o cliente e a reserva no Partner Center e criará a solicitação de suporte no portal do Azure. 
 
 >[!NOTE]
->Os agentes do Suporte da Microsoft para fornecer a ID da reserva e a ID do pedido da reserva. Você pode encontrar essas informações na página **Propriedades** no portal do Azure. 
+>Os agentes do Suporte da Microsoft para fornecer a ID da reserva e a ID do pedido da reserva. Você pode encontrar essas informações na página de **Propriedades** da reserva no portal do Azure. 
 
 1. Para começar, selecione **clientes** no menu do centro de parceiros e, em seguida, selecione o cliente que deseja um reembolso. 
 
-2. Na página de detalhes do cliente, selecione **Reservas do Azure** e, em seguida, selecione a reserva específica para a o cliente quer reembolso.  
+2. Na página de detalhes do cliente, selecione **reservas do Azure** e, em seguida, selecione a reserva específica que o cliente deseja reembolsar.  
 
-3. Em **Ações**, selecione **Reembolso** para ir para registro de reserva do cliente no portal do Azure e inicie uma solicitação de suporte.  
+3. Em **ações**, selecione **reembolso** para ir para o registro de reserva do cliente no portal do Azure e iniciar uma solicitação de suporte.  
 
 4. Na página **Nova solicitação de suporte**, siga as etapas abaixo para solicitar um reembolso. Selecione **Avançar** depois de cada etapa. 
 
@@ -92,7 +94,7 @@ Para arquivar uma solicitação de suporte para um reembolso ou troca em nome de
 5.  Selecione **Criar** ao terminar.
 
 ## <a name="azure-reservations-resources"></a>Recursos de reservas do Azure
-|**Para obter informações sobre**   |**Leia este**    |
+|**Para obter informações sobre**   |**Leia isto**    |
 |:-----------------------------|:-----------------|
 |Reservas do Azure na visão geral do CSP  | [Vender Microsoft Azure instâncias reservadas](azure-reservations.md) |
 |Comprando reservas do Azure para seus clientes no Partner Center   |[Comprar reservas do Azure](azure-reservations-buying.md) |

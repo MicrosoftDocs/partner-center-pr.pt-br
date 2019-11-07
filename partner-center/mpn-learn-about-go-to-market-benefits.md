@@ -2,17 +2,19 @@
 title: Saiba mais sobre os benefícios do Microsoft Partner Network entrar no mercado | Centro de parceiros
 ms.topic: article
 ms.date: 10/31/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: Como membro Microsoft Partner Network, você pode estar qualificado para determinados benefícios de entrada no mercado. Saiba mais sobre os diferentes níveis de benefícios disponíveis para o mercado e como ativá-los e gerenciá-los no Partner Center.
 author: MicheleHope
 ms.author: v-mihope
 keywords: MPN, benefícios de associação, associação, benefícios para o mercado, lançamento no mercado, ir para mercado, GTM, associação Gold, associação Silver
 ms.localizationpriority: medium
-ms.openlocfilehash: 2fc160c0f98b13c8f3576e518dfdb625162beeb1
-ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
+ms.openlocfilehash: e1a71bc69982e4ff86b8442fc1dd3ec20fc486ea
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73413585"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653253"
 ---
 # <a name="explore-your-mpn-go-to-market-gtm-membership-benefits"></a>Explore seus benefícios de associação do GTM (MPN go-to-Market)
 
@@ -41,7 +43,7 @@ Seus benefícios do GTM são diferentes com base no seu nível específico de as
 Todos os membros do MPN têm acesso a determinados benefícios de GTM padrão. Isso inclui acesso a ativos de marketing prontos para uso, uma plataforma de habilitação de vendas e marketing digital sob demanda. Pode haver ainda mais benefícios do GTM disponíveis para parceiros que obtêm competências Silver ou ouro.
 
 >[!NOTE]
->Os benefícios do GTM estão sujeitos a adições e alterações. Acesse a [página Microsoft Partner Network ir](https://partner.microsoft.com/en-us/membership/go-to-market) para o mercado para saber mais sobre os benefícios mais recentes do GTM disponíveis pelo nível de competência.
+>Os benefícios do GTM estão sujeitos a adições e alterações. Acesse a [página Microsoft Partner Network ir](https://partner.microsoft.com/membership/go-to-market) para o mercado para saber mais sobre os benefícios mais recentes do GTM disponíveis pelo nível de competência.
 
 Os benefícios adicionais do GTM estão disponíveis para aqueles com níveis de competência **prata** :
 
@@ -63,7 +65,7 @@ Os benefícios adicionais do GTM estão disponíveis para aqueles com níveis de
 
 Para exibir seus benefícios do GTM:
 
-1. Entre no [painel]( https://docs.microsoft.com/en-us/partner-center/)do Partner Center.
+1. Entre no [painel]( https://docs.microsoft.com/partner-center/)do Partner Center.
 
 2. No menu à esquerda, selecione **MPN**. Em seguida, siga um destes procedimentos:
 

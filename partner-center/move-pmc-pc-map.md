@@ -2,17 +2,19 @@
 title: Migração do PMC para o Partner Center | Partner Center
 ms.topic: article
 ms.date: 06/14/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Entenda as diferenças e semelhanças entre o PMC e o Partner Center
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migração, mover para o Partner Center
 ms.localizationpriority: medium
-ms.openlocfilehash: b7cc7104d648eff3a5461d950345c283a307ea6c
-ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.openlocfilehash: 9a6beaa331d762f47530441a91dc203ed01c78e2
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "70921472"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653272"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Migração do PMC para o Partner Center
 
@@ -84,7 +86,7 @@ Esta tabela apresenta algumas das diferenças entre o PMC e o Partner Center.
 |Ferramenta de Validação e Resgate de Comprovante| Ferramenta de Validação e Resgate de Comprovante|
 |           |Programas de Provedor de Soluções na Nuvem|
 
-Os benefícios do Visual Studio alocados para o MSAs serão respeitados e mantidos. Eles também serão preservados após a renovação no Partner Center. No entanto, se você remover uma alocação de MSA uma vez que ela já tenha sido migrada no Partner Center, ela não poderá ser adicionada novamente ao Partner Center.
+Os benefícios do Visual Studio alocados para o MSAs serão respeitados e mantidos. Eles também serão preservados após a renovação no Partner Center. No entanto, se você remover uma alocação de MSA uma vez migrada no Partner Center, ela não poderá ser adicionada novamente ao Partner Center.
 
 No Partner Center, um parceiro pode adicionar contas corporativas e contas de usuário convidado, que são MSA, por meio do mesmo locatário em que o parceiro é administrador MPN no locatário do Azure AD. Se o parceiro for um administrador global em vários locatários do Azure AD e todos esses locatários estiverem associados à mesma conta do Partner Center, o parceiro poderá adicionar usuários em todos esses locatários aos benefícios do Visual Studio e às alocações baseadas em uso do Azure.
 

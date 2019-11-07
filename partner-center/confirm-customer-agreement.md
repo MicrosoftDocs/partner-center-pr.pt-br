@@ -2,22 +2,24 @@
 title: Confirmar a aceitação do cliente do contrato do cliente da Microsoft |Partner Center
 ms.topic: article
 ms.date: 09/30/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Como parceiro, você precisa obter a aceitação do cliente do contrato do cliente da Microsoft antes de poder solicitar produtos e serviços da Microsoft para esse cliente. Para ajudar melhor os parceiros a atender aos requisitos de conformidade, a Microsoft solicita que os parceiros confirmem a aceitação fornecendo determinados detalhes sobre a pessoa que aceitou o contrato.
 author: LauraBrenner
 ms.author: labrenne
 keywords: cliente, clientes, consentimento, MCA, contrato de Microsoft Cloud, contrato de cliente da Microsoft, modelos de contrato de cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 5247ab8ced05edbb05d2ed690f2375541d2b43aa
-ms.sourcegitcommit: 4b8cad9f24229767dd44fa9418fe57e10d74f390
+ms.openlocfilehash: 8a4b28db2884f833b6df9ee0dd08f262afdb0888
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "71704182"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653650"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confirmar a aceitação do cliente do contrato do cliente da Microsoft
 
-Atualmente, antes que um parceiro CSP possa fazer o pedido em nome de um cliente, o cliente deve aceitar e assinar **o contrato**de Microsoft Cloud aplicável. Em seguida, o parceiro deve confirmar a aceitação do cliente fornecendo informações sobre o assinante à Microsoft. Caso a confirmação não seja fornecida:
-- Você não conseguirá criar novos pedidos para esse cliente.
+Atualmente, antes que um parceiro CSP possa fazer o pedido em nome de um cliente, o cliente deve aceitar e assinar o **contrato de Microsoft Cloud**aplicável. Em seguida, o parceiro deve confirmar a aceitação do cliente fornecendo informações sobre o assinante à Microsoft. Caso a confirmação não seja fornecida:
+- Você não poderá criar novos pedidos para esse cliente.
 - Você não poderá alterar a contagem de estações de assinaturas baseadas em assentos existentes para esse cliente.
 
 Para obter detalhes sobre como confirmar a aceitação de um cliente do contrato de Microsoft Cloud usando o painel do Partner Center ou a API, confira [confirmar a aceitação do cliente do contrato de Microsoft Cloud](confirm-consent.md).

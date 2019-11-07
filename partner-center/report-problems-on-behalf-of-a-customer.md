@@ -2,18 +2,20 @@
 title: Relatar problemas em nome de um cliente | Partner Center
 ms.topic: article
 ms.date: 08/16/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Se o cliente está tendo um problema de serviço que você não consegue resolver e que atende aos critérios descritos em Encaminhar problemas para a Microsoft, abra um tíquete de suporte para ele.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: solicitação de serviço, tíquete de serviço, suporte, direito de suporte, Aobo, AOBO do Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f01713dcafd0a24c8b7fb5d8a8af33bdf5ff781
-ms.sourcegitcommit: e84322e2cb6f3f559de93c98a16ab19531a2f95c
-ms.translationtype: HT
+ms.openlocfilehash: f0dc490ab72c87ccb1b6aa22aa84a66529820408
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/19/2019
-ms.locfileid: "69578778"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654121"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Relatar problemas em nome de um cliente
 
@@ -67,7 +69,7 @@ Em qualquer um desses casos, você pode usar o procedimento a seguir para criar 
  
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite
 
-1. Na seção **Criar uma solicitação de serviço**, escolha a categoria de tópico de suporte apropriada. Talvez seja necessário selecionar **Mais...** para exibir tópicos adicionais.    
+1. Na seção **Criar uma solicitação de serviço**, escolha a categoria de tópico de suporte apropriada. Talvez seja necessário selecionar **mais..** . para exibir tópicos adicionais.    
 2. Preencha o formulário de solicitação de serviço e selecione **Enviar**.
 
    > [!TIP]
@@ -103,9 +105,9 @@ Nossos tempos de resposta iniciais dependem da gravidade do incidente enviado. A
 
 Os tempos de resposta iniciais para **incidentes de suporte técnico** são:
 
--   Impacto crítico (severidade A): 2 horas (perda significativa ou degradação de serviços. Serviços de produção inativos).
--   Impacto moderado (severidade B): 4 horas (perda moderada ou degradação de serviços. Serviços de produção parcialmente afetados.)
--   Impacto mínimo (severidade C): 8 horas (perda mínima ou degradação de serviços. Serviços ainda disponíveis ou nenhum serviço de produção afetado).
+-   Impacto crítico (gravidade A): 2 horas (perda significativa ou degradação de serviços. Serviços de produção inativos).
+-   Impacto moderado (gravidade B): 4 horas (Perda moderada ou degradação de serviços. Serviços de produção parcialmente afetados.)
+-   Impacto mínimo (gravidade C): 8 horas (Perda mínima ou degradação de serviços. Serviços ainda disponíveis ou nenhum serviço de produção afetado).
 
 Os tempos de resposta iniciais são apenas para suporte em inglês. É fornecido suporte no idioma local durante o horário comercial.
 Para incidentes que ficam dentro dos limites da qualificação de suporte, mas não são considerados incidentes de interrupção-correção, o tempo de resposta inicial pode ser até um dia útil.
@@ -126,7 +128,7 @@ Caso entre diretamente no Centro de Administração do Office 365, você verá o
 
 **Como obter suporte adicional ao Dynamics 365?**
 
-Se você estiver tendo problemas relacionados a: Assinaturas de Plano do Dynamics 365, Licenciamento, Cobrança, Finanças e licenças do produto Dynamics 365 ou se precisar de mais suporte técnico:
+Se você estiver tendo problemas relacionados a: assinaturas do plano do Dynamics 365, licenciamento, cobrança, Finanças & operações, licenças de produto do Dynamics 365 ou precisar de mais suporte técnico:
  
 Contate o [Suporte do Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 

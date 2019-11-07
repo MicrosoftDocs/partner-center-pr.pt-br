@@ -2,18 +2,20 @@
 title: Visão geral da cobrança | Centro de parceiros
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Informações sobre cenários de cobrança básicos e as diferenças entre a cobrança baseada em licença e em uso
 author: LauraBrenner
 ms.author: labrenne
 keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções fiscais, arquivos de reconciliação, arquivo de reconciliação
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e13f3d24e649cf17daa1e3218c3376c8fc6e4faa
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 13c2ecd5efcd3b2917a98b218c568b080a2a7833
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820369"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653755"
 ---
 # <a name="billing-overview"></a>Visão geral da cobrança
 
@@ -40,7 +42,7 @@ Dependendo dos produtos, das soluções e dos serviços que você comprar em nom
 Se você optou por ser cobrado mensalmente ou se comprou produtos com base no uso que são cobrados mensalmente, sua data de cobrança mensal é o dia do mês que você selecionou quando criou sua conta do CSP no Partner Center. Depois de criar com êxito sua conta do CSP, a Microsoft enviará um email de confirmação que inclui a data de cobrança. Depois de criada, essa data não pode ser alterada. 
 
 ## <a name="pricing-and-invoicing"></a>Preços e faturamento
-Você pode encontrar listas de preços com um (1) mês de antecedência, pois são atualizadas mensalmente. Os preços baseados em licença são garantidos pelo termo de assinatura, geralmente 12 meses a partir da data de compra. Os preços baseados em uso podem ser alterados mensalmente. 
+Você pode encontrar listas de preços com um (1) mês de antecedência, pois são atualizadas mensalmente. Os preços baseados em licença são garantidos durante o período da assinatura, geralmente 12 meses a partir da data de compra. Os preços baseados em uso podem ser alterados mensalmente. 
 
 Os preços de produtos, serviços e assinaturas de software são garantidos por meio da duração da assinatura, no entanto, os preços podem mudar quando você renova.
 
@@ -109,7 +111,7 @@ Alguns produtos e serviços da Microsoft usam um modelo de cobrança "pré-pago"
 
 -   As taxas de serviço limitadas podem ser alteradas dentro do ciclo de fatura. 
 
-    -   Aumentos de preço: o aviso de 30 dias é fornecido.
+    -   Aumentos de preço: é fornecido um aviso prévio de 30 dias.
 
     -   Preço diminui: dia de alteração refletido.
 
@@ -144,7 +146,7 @@ Você pode adquirir assinaturas de software e reservas do Azure com antecedênci
 
 1.  Selecione **clientes** no menu do centro de parceiros.
 
-2.  Na sua página **Clientes**, localize o cliente cujo histórico de pedidos você deseja exibir e, em seguida, selecione a seta para baixo para expandir o registro do cliente. 
+2.  Na página de seus **clientes** , localize o cliente cujo histórico de pedidos você deseja exibir e, em seguida, selecione a seta para baixo para expandir o registro do cliente. 
 
 3.  Selecione **Exibir pedidos** para exibir o histórico de pedidos.
 

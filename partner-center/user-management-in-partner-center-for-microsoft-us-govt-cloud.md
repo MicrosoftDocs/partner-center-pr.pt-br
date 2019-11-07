@@ -2,24 +2,26 @@
 title: Gerenciamento de usuários e licenças no Partner Center do Microsoft Cloud for US Government | Partner Center do Microsoft Cloud for US Government
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Não há recursos de gerenciamento de usuários disponíveis no Partner Center do Microsoft Cloud for US Government para atender aos requisitos nacionais, regionais e específicos do setor que regem a coleta e o uso de dados das pessoas. Em vez disso, adicione e gerencie usuários no portal do Azure do Microsoft Cloud for US Government.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a1ab4524d5a5d13f5f704a4f4760ef9c163f9a02
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: c9cf088adae26ac0dd34088273caeb0023091a6f
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132926"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653962"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Gerenciamento de licença e usuários no Partner Center do Microsoft Cloud for US Government
 
 **Aplica-se a**
 
--  Partner Center para Microsoft Cloud for US Government
+-  Partner Center do Microsoft Cloud for US Government
 
-As seguintes tarefas são gerenciadas no portal de administração do Microsoft Azure para Microsoft Cloud para o governo dos EUA:
+As tarefas a seguir são gerenciadas no portal de administração do Microsoft Azure para Microsoft Cloud para o governo dos EUA:
 
 - Gerenciamento de usuários do parceiro
 
@@ -35,7 +37,7 @@ Se estiver conectado ao Partner Center do Microsoft Cloud for US Government, voc
 Depois de entrar com êxito no portal do Azure do Microsoft Cloud for US Government, abra sua página de visão geral do Azure Active Directory (Azure AD) e siga as instruções destes tópicos:
 
 > [!NOTE]  
-> Selecionar os links abaixo, você será levado para um site diferente. 
+> Selecionar os links abaixo irá levá-lo para um site diferente. 
 
 -  [**Adicionar novos usuários ao Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
@@ -45,6 +47,6 @@ Depois de entrar com êxito no portal do Azure do Microsoft Cloud for US Governm
 
 **Tópicos relacionados**
 
--  [**Centro de parceiros de nuvem da Microsoft para o governo dos EUA**](partner-center-for-microsoft-us-govt-cloud.md)
+-  [**Partner Center para Microsoft Cloud do governo dos EUA**](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [**Registrar no programa de provedor de soluções de nuvem para o Microsoft Cloud para o governo dos EUA**](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+-  [**Registre-se no programa do provedor de soluções na nuvem para Microsoft Cloud para o governo dos EUA**](enroll-in-csp-for-microsoft-us-govt-cloud.md)

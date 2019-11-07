@@ -2,18 +2,20 @@
 title: Tarefas de gerenciamento de usuários para contas de cliente | Partner Center
 ms.topic: article
 ms.date: 06/10/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Depois de comprar uma nova assinatura para um cliente, você pode atribuir licenças a usuários específicos.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: gerenciamento de cliente, conta, criar conta, licenças, atribuir licença, gerenciamento de usuário, senha, redefinição de senha, alterar senha
+Keywords: gerenciamento de clientes, conta, criar conta, licenças, atribuir licença, gerenciamento de usuários, senha, Redefinir senha, alterar senha
 ms.localizationpriority: medium
-ms.openlocfilehash: fa8aabcc668630906fa2c9b3a88abbaee8a89693
-ms.sourcegitcommit: a9916e90efbb21bff250effd36a213420889633c
-ms.translationtype: HT
+ms.openlocfilehash: 67e134978f30adbbe397cb09f34eae9892b18f08
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "67044993"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654394"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Tarefas de gerenciamento de usuários para contas de cliente
 
@@ -23,7 +25,7 @@ ms.locfileid: "67044993"
 
 Você pode criar e excluir novos usuários em uma conta do cliente e, se for necessário, restaurar uma ou mais contas de usuário excluídas anteriormente dentro de um prazo de 30 dias. As atribuições de assinatura anteriores do usuário também serão restauradas (supondo que suas alocações anteriores estejam disponíveis).
 
-Quando você compra novas assinaturas para um cliente, o cliente deve fornecer uma lista de todos os usuários que precisam de contas, suas permissões de usuário, e quais serviços a cada usuário precisa.  
+Quando você adquire novas assinaturas para um cliente, o cliente deve fornecer uma lista de todos os usuários que precisarão de contas, suas permissões de usuário e os serviços de que cada usuário precisa.  
 
 Você pode [atribuir assinaturas a vários usuários](bulk-license-provisioning-for-multiple-users.md) ao mesmo tempo. Basta importar os nomes usando um [arquivo de planilha .csv compatível com o Excel](adding-multiple-users-to-a-customer-account.md).
 
@@ -31,7 +33,7 @@ Você pode [atribuir assinaturas a vários usuários](bulk-license-provisioning-
 
 ## <a name="create-user-accounts-for-a-customer"></a>Criar contas de usuário para um cliente
 
-1.  Dos **Partner Center** menu, selecione **clientes**. Escolha um cliente na lista.
+1.  No menu do **centro de parceiros** , selecione **clientes**. Escolha um cliente na lista.
 
 2.  No menu do cliente, selecione **Usuários e licenças**.
 
@@ -47,7 +49,7 @@ Você pode [atribuir assinaturas a vários usuários](bulk-license-provisioning-
 
 ## <a name="add-or-remove-user-licenses-for-a-customer"></a>Adicionar ou remover licenças de usuário para um cliente
 
-1.  Dos **Partner Center** menu, selecione **clientes**. Escolha o cliente na lista.
+1.  No menu do **centro de parceiros** , selecione **clientes**. Escolha o cliente na lista.
 
 2.  No menu do cliente, selecione **Usuários e licenças**.
 
@@ -56,13 +58,13 @@ Você pode [atribuir assinaturas a vários usuários](bulk-license-provisioning-
 4.  Selecione **Gerenciar licenças**. Faça suas alterações e selecione **Salvar**.
 
 > [!NOTE]
-> Para [produtos do Azure Marketplace](sell-marketplace-products.md), atribuição de licença e a ativação é gerenciada por meio do Software ISV (fornecedor independente) que publicou o produto.
+> Para [produtos do Azure Marketplace](sell-marketplace-products.md), a atribuição e a ativação de licenças são gerenciadas por meio do ISV (fornecedor independente de software) que publicou o produto.
 
 <a href="" id="resetpassword"></a>
 
 ## <a name="reset-a-users-password-for-a-customer"></a>Redefinir a senha do usuário para um cliente
 
-1.  Dos **Partner Center** menu, selecione **clientes**. Escolha o cliente na lista.
+1.  No menu do **centro de parceiros** , selecione **clientes**. Escolha o cliente na lista.
 
 2.  No menu do cliente, selecione **Usuários e licenças**. Escolha o usuário na lista.
 
@@ -74,7 +76,7 @@ Você pode [atribuir assinaturas a vários usuários](bulk-license-provisioning-
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Excluir contas de usuário para um cliente
 
-1.  Dos **Partner Center** menu, selecione **clientes**. Escolha o cliente na lista.
+1.  No menu do **centro de parceiros** , selecione **clientes**. Escolha o cliente na lista.
 
 2.  No menu do cliente, selecione **Usuários e licenças**. Escolha o usuário na lista.
 
@@ -86,11 +88,11 @@ Se precisar restaurar essa conta, você pode encontrá-la na guia **Usuários ex
 
 ## <a name="restore-deleted-user-accounts"></a>Restaurar contas de usuário excluídas
 
-1.  Dos **Partner Center** menu, selecione **clientes**, em seguida, escolha o cliente da lista.
+1.  No menu do **centro de parceiros** , selecione **clientes**e, em seguida, escolha o cliente na lista.
 
 2.  Selecione **Usuários e licenças**.
 
-3.  Selecione a guia **Usuários excluídos ( )** . Ela deverá conter **(1)** ou mais quando há usuários excluídos que podem ser restaurados.
+3.  Selecione a guia **Usuários excluídos ( )** . Ela deve mostrar **(1)** ou mais quando houver usuários excluídos que possam ser restaurados.
 
 4.  Marque uma ou mais caixas de seleção dos usuários excluídos e selecione **Restaurar**.
 

@@ -1,52 +1,54 @@
 ---
-title: Se tornar um administrador global para sua empresa | Partner Center
+title: Torne-se um administrador global para sua empresa | Centro de parceiros
 ms.topic: article
 ms.date: 03/15/2019
-description: Para fazer muitas das tarefas no Partner Center, primeiro você precisa verificar a propriedade de seu domínio. Muitas tarefas no Partner Center exigem um administrador global. Se sua empresa ainda não tiver uma, você pode se tornar um.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Para realizar muitas das tarefas no Partner Center, primeiro você precisa verificar a propriedade do seu domínio. Muitas tarefas no Partner Center exigem um administrador global. Se sua empresa ainda não tiver uma, você poderá se tornar uma.
 author: LauraBrenner
 ms.author: labrenne
-keywords: domínio, a verificação de domínio, verifique se o domínio, administrador global, as funções de usuário, permissões
-ms.openlocfilehash: 55f69cb82789fa3b97bfe122b460ba9a129c37b7
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+keywords: domínio, verificação de domínio, verificar domínio, administrador global, funções de usuário, permissões
+ms.openlocfilehash: 4605061d3251883e160e7daa4a1fc957ab998c55
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135406"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653765"
 ---
-# <a name="verify-your-domain-ownership"></a>Verificar a propriedade de seu domínio
+# <a name="verify-your-domain-ownership"></a>Verificar sua propriedade do domínio
 
 **Aplica-se a:**
 
 - Partner Center
 
-Quando sua empresa primeiro se autentica no Partner Center, é provável que seus funcionários serão não foram atribuídos as funções necessárias para começar a trabalhar no Partner Center. Para trabalhar no Partner Center todos precisam ter uma função, que inclui permissões, atribuídas a eles.  
+Quando sua empresa entra pela primeira vez no Partner Center, é provável que os seus funcionários não tenham recebido as funções necessárias para começar a trabalhar no Partner Center. Para trabalhar no Partner Center, todos precisam ter uma função, que inclui permissões, atribuídas a eles.  
 
-Você precisa verificar a propriedade do seu domínio, de modo que você pode comprar os benefícios da sua empresa está qualificada para, adicionar novos usuários e atribuir a eles funções ou realizar outras tarefas no Partner Center. 
+Você precisa verificar a propriedade do seu domínio para poder comprar os benefícios para os quais sua empresa está qualificada, adicionar novos usuários e atribuir funções a eles ou realizar outras tarefas no Partner Center. 
 
 >[!Note]
->Por exemplo, um administrador global da sua empresa é aquele que gerencia os serviços de nuvem. Se sua empresa tem um administrador global, mas você não estiver seguro de que ele é, do **ícone de configurações** na parte superior direita do Partner Center, selecione **gerenciamento de usuário**. Localizar os administradores globais, entre em contato com indo para gerenciamento de usuário e a filtragem de administrador global.
+>Por exemplo, um administrador global em sua empresa é aquele que gerencia serviços de nuvem. Se sua empresa tiver um administrador global, mas você não tiver certeza de quem é, no ícone de **configurações** na parte superior direita do Partner Center, selecione gerenciamento de **usuários**. Localize administradores globais para contato acessando gerenciamento e filtragem de usuários no administrador global.
 
-## <a name="verify-your-domain-ownership"></a>Verificar a propriedade de seu domínio
+## <a name="verify-your-domain-ownership"></a>Verificar sua propriedade do domínio
 
-1. No Partner Center, do **associação oferece** página, selecione **tornam-se um administrador global**. 
+1. No Partner Center, na página de **ofertas de associação** , selecione **tornar-se um administrador global**. 
 
-2. Sobre o **verificar a propriedade de domínio** cópia da página o TXT valores da tabela. Observe que o domínio já está selecionado para você.
+2. Na página **verificar Propriedade do domínio** , copie os valores txt da tabela. Observe que seu domínio já está selecionado para você.
 
-3. Entrar no seu domínio. 
+3. Entre no seu domínio. 
 
-4. Siga as etapas no seu domínio fornece para colar os valores TXT para o formulário DNS.  Isso nos permite verificar se você possui o domínio que você está tentando trabalhar a partir.
+4. Siga as etapas que o seu domínio fornece para colar os valores TXT no formulário DNS.  Isso nos permite verificar se você é o proprietário do domínio do qual está tentando trabalhar.
 
-5. Retorne ao Partner Center e selecione **Okey, adicionei o registro**
+5. Retorne ao Partner Center e selecione **OK, adicionei o registro**
 
-6. Depois que a verificação for concluída, você precisa sair. Entre novamente para atualizar seu status. 
+6. Após a conclusão da verificação, você precisará sair. Entre novamente para atualizar seu status. 
 
-Verificando a propriedade do seu domínio também o torna um administrador global. Estas são algumas das permissões que vêm com a função de administrador global:
+A verificação da Propriedade do seu domínio também o torna um administrador global. Algumas das permissões que acompanham a função de administrador global são:
 
 - Pode acessar todas as contas/serviços da Microsoft com todos os privilégios 
-- Criar tíquetes de suporte para o Centro de parceiros
+- Criar tíquetes de suporte para o Partner Center
 - Exibir contratos, listas de preços e ofertas
 - Cobrança
-- Exibir, criar e gerenciar usuários dos parceiros
+- Exibir, criar e gerenciar usuários de parceiros
 - Comprar e gerenciar serviços de nuvem
 
 Para obter mais informações sobre funções e permissões, consulte [criar contas de usuário](create-user-accounts-and-set-permissions.md). 

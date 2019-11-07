@@ -2,16 +2,18 @@
 title: Exibir suas informações de pagamentos de incentivos | Centro de parceiros
 ms.topic: article
 ms.date: 06/03/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
 description: Veja os lucros e pagamentos de cada um dos programas de incentivo.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2a4d69fbe4f4618ebad1f8641f8d07e6563f28fd
-ms.sourcegitcommit: e73d8a1d74ed4ea87a5330b00fe119222bc2c3da
+ms.openlocfilehash: 3a616fabb87793bb5433eb1d56c9d20923df6e01
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "71093061"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653992"
 ---
 # <a name="view-your-incentives-payments-information"></a>Exibir suas informações de pagamentos de incentivos
 
@@ -33,7 +35,7 @@ Para abrir uma das páginas de incentivos:
 ## <a name="payments-page"></a>Página de pagamentos
 Os totais nesta página representam todas as IDs de MPN que você usa. Você pode filtrar por ID de participante, programa, ID de pagamento e tipo de conquista. Os valores são fornecidos em dólares americanos. O valor pago também é exibido em pagar para moeda. 
 
-|**Rede**   |**Descrição**    |
+|**Área**   |**Descrição**    |
 |------------------|:-------------------------------------|
 |Total pago neste ano        |O total combinado pago a você neste ano, em dólares americanos, para todas as suas IDs de MPN.                                      |
 |Próximo pagamento estimado      |O próximo pagamento seguinte chegando a você (mesmo se houver outros em breve) em dólares americanos.                                     |

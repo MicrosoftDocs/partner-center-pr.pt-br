@@ -2,18 +2,20 @@
 title: Centro de parceiros – visão geral das reservas de Microsoft Azure | Centro de parceiros
 ms.topic: article
 ms.date: 11/05/2018
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Os parceiros no CSP (programa de provedor de soluções na nuvem) podem oferecer aos seus clientes Microsoft Azure reservas.
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, reservas, gerenciar, cobrança, compra, Azure RI, Instâncias Reservadas do Azure
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a16726127705acde1bfcee23a5fe2b8c5ccafee7
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: 757e4c6136c5911dfc7eec2a6afa461bc4e465c0
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708800"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653802"
 ---
 # <a name="partner-center---sell-microsoft-azure-reservations"></a>Centro de parceiros-venda Microsoft Azure reservas
 
@@ -44,7 +46,7 @@ As reservas do Azure podem atrair clientes das seguintes maneiras:
 
 ## <a name="azure-reservations-resources"></a>Recursos de reservas do Azure
 
-|**Para obter informações sobre**   |**Leia este**    |
+|**Para obter informações sobre**   |**Leia isto**    |
 |:-----------------------------|:-----------------|
 | Documentação de reservas do Azure para seus clientes | [O que são as reservas do Azure?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 |Comprando reservas do Azure para seus clientes no Partner Center   |[Comprar reservas do Azure](azure-reservations-buying.md)

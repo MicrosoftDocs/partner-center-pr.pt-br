@@ -2,17 +2,19 @@
 title: Guia de migração de várias empresas do PMC para o Partner Center | Partner Center
 ms.topic: article
 ms.date: 08/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: O que saber quando você migrar várias empresas do PMC para o Partner Center
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migração, mover para o Partner Center
 ms.localizationpriority: medium
-ms.openlocfilehash: c0a03412a9b72c3e4c7784511720ea716f6f3abf
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: 41f6b9cefb8abc3325c156f465c2a630955b0ec3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958762"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654343"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>Mover suas várias empresas para o Partner Center
 
@@ -20,7 +22,7 @@ Ao mover a conta da empresa do PMC para o Partner Center, você pode estar moven
 
 ## <a name="move-your-additional-accounts-into-partner-center"></a>Mova suas contas adicionais para o Partner Center 
 
-Como você já moveu uma conta da empresa para o PC, ao entrar, informaremos qual conta já está no Partner Center. 
+Como você já moveu uma conta da empresa para o PC, quando entrar, informaremos qual conta já está no Partner Center. 
 
 
 Se, após a migração, você descobrir que a conta da empresa incorreta foi designada como o negócio jurídico, você pode alterar isso.

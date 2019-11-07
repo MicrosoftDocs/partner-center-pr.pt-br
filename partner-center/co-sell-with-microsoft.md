@@ -2,18 +2,20 @@
 title: Venda conjunta com a Microsoft | Centro de parceiros
 ms.topic: article
 ms.date: 07/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Como um parceiro qualificado da Microsoft, você tem a oportunidade de fazer uma venda conjunta com a Microsoft. Essa colaboração ajuda você a tirar soluções para o mercado, impulsionar a receita conjunta e garantir o sucesso do cliente.
 author: JnHs
 ms.author: jenhayes
-keywords: referência, RFI, localizar um parceiro
+keywords: indicação, RFI, localizar um parceiro
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cda97f98e4d050ff4a48f78760518eb6f5b22cd4
-ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
-ms.translationtype: HT
+ms.openlocfilehash: e24475dfcad3b5a6732233aeafb6761e9a91e099
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "67856481"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653676"
 ---
 # <a name="co-sell-with-microsoft"></a>Venda conjunta com a Microsoft
 
@@ -46,16 +48,16 @@ Depois de clicar em **selecionar**, você será solicitado a inserir o nome, o n
 Na próxima tela, você precisará fornecer detalhes sobre o envolvimento para o qual deseja fazer a venda conjunta com a Microsoft.
 
 Na seção **detalhes do Engagement** , insira o seguinte:
-- **Nome**do engajamento: Insira um nome que descreva este cliente e envolvimento. A equipe da Microsoft verá esse nome ao revisar os detalhes do seu envolvimento, portanto, não deixe de usar a linguagem clara e a profissional.
-- **ID DO CRM**: Se desejar, insira o número de ID que você está usando em seu sistema CRM.
-- **Data de fechamento estimada**: A data aproximada em que você espera fechar esse negócio.
-- **Valor estimado**: O valor total esperado para o envolvimento. Certifique-se de selecionar a moeda apropriada.
+- **Nome do engajamento**: Insira um nome que descreva este cliente e envolvimento. A equipe da Microsoft verá esse nome ao revisar os detalhes do seu envolvimento, portanto, não deixe de usar a linguagem clara e a profissional.
+- **ID do CRM**: se desejar, insira o número de ID que você está usando em seu sistema CRM.
+- **Data de fechamento estimada**: a data aproximada em que você espera fechar esse negócio.
+- **Valor estimado**: o valor total esperado para o envolvimento. Selecione a moeda adequada.
 
 No campo **observações** , explique o que o cliente está interessado e como sua solução pode ajudá-los.
 
  Em seguida, na seção **contato do parceiro** , insira o nome, o número de telefone e o email para o contato principal em sua empresa que está trabalhando neste compromisso.
 
-Por fim, na seção **Adicionar soluções** , selecione a solução que será usada para o envolvimento. Se você não vir a solução certa listada, entre em contato com o suporte.
+Por fim, na seção **Adicionar soluções** , selecione a solução que será usada para o envolvimento. Se você não vir a solução correta listada, entre em contato com o suporte.
 
 Selecione **Avançar** para passar para a próxima etapa.
 

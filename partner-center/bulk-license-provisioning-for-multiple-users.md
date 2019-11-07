@@ -2,20 +2,22 @@
 title: Atribuir licenças a vários usuários ou revogá-las | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Você pode atribuir licenças e serviços a um usuário ou a vários usuários ao mesmo tempo em uma conta de cliente e revogar atribuições de licença para os usuários.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: atribuir licença, revogar a licença, atribuir a vários usuários,
+Keywords: atribuir licença, revogar licença, atribuir a vários usuários,
 ms.localizationpriority: medium
-ms.openlocfilehash: e4917f4881b0dcca2e13f17dd116ff5faad0d0b9
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: d55a73e295210df7527b2b29fd0a70d4b976f930
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135336"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653729"
 ---
-# <a name="assign-or-revoke-licenses-to-multiple-users"></a>Atribua licenças a vários usuários ou revogue-as
+# <a name="assign-or-revoke-licenses-to-multiple-users"></a>Atribuir ou revogar licenças para vários usuários
 
 **Aplica-se a**
 
@@ -23,18 +25,18 @@ ms.locfileid: "62135336"
 
 Você pode atribuir licenças e serviços a um usuário ou a vários usuários ao mesmo tempo em uma conta de cliente e revogar atribuições de licença para os usuários.
 
-o Partner Center rastreia e mostra todos os direitos de licença de propriedade do cliente.
+o Partner Center rastreia e mostra todos os direitos de licença de Propriedade do cliente.
 
 ## <a name="in-this-section"></a>Nesta seção
 
 
 -   [Atribuir licenças a vários usuários](#assign-licenses-to-groups)
--   [Revogar as atribuições de licença de usuário](#revoking-licenses)
+-   [Revogando atribuições de licença de usuários](#revoking-licenses)
 
 <a href="" id="assign-licenses-to-groups"></a>
-**Atribuir licenças a vários usuários**
+**atribuir licenças a vários usuários**
 
-1.  Dos **Partner Center** menu, selecione **clientes**e, em seguida, escolha um cliente da lista.
+1.  No menu do **centro de parceiros** , selecione **clientes**e, em seguida, escolha um cliente na lista.
 2.  Selecione **Usuários e licenças**.
 3.  Marque a caixa de seleção de dois ou mais usuários na lista. (Para selecionar todos os usuários na página atual, marque a caixa de seleção na parte superior da coluna **Usuários**.)
 
@@ -60,16 +62,16 @@ o Partner Center rastreia e mostra todos os direitos de licença de propriedade 
 7.  Selecione mais de um produto para os usuários marcando a caixa de seleção de cada produto.
     -   Selecione **Exibir planos de serviço** para qualquer produto, para ver e selecionar os planos de serviço de que os usuários precisam.
 
-8.  Clique em **Salvar**. O Partner Center abre uma **licenças atualizadas** listando os usuários e suas novas licenças de página de confirmação.
+8.  Selecione **Salvar**. O Partner Center abre uma página de confirmação de **licenças atualizadas** listando os usuários e suas novas licenças.
 
 **Observação**  alguns produtos da Microsoft podem não estar disponíveis em determinados locais. Outros produtos dependem de outros produtos ou serviços ou não podem ser atribuídos em conjunto ao mesmo usuário. Depois de salvar, a página de confirmação listará os resultados da atribuição de licença bem-sucedida para todos os usuários e quaisquer erros da atribuição de licença.
 
  
 
 <a href="" id="revoking-licenses"></a>
-**Revogar as atribuições de licença de usuário**
+**revogando atribuições de licença de usuários**
 
-1.  Dos **Partner Center** menu, selecione **clientes**e, em seguida, escolha um cliente da lista.
+1.  No menu do **centro de parceiros** , selecione **clientes**e, em seguida, escolha um cliente na lista.
 2.  Selecione **Usuários e licenças**.
 3.  Marque a caixa de seleção de dois ou mais usuários na lista. (Para selecionar todos os usuários na página atual, marque a caixa de seleção na parte superior da coluna **Usuários**.)
 
@@ -78,7 +80,7 @@ o Partner Center rastreia e mostra todos os direitos de licença de propriedade 
 4.  Depois de selecionar os usuários, escolha o link **Usuários Selecionados**. A lista exibida mostra apenas os usuários selecionados.
 5.  Selecione o link **Gerenciar licenças**.
 6.  Em **Atribuir e revogar licenças**, desmarque as caixas de seleção dos produtos atribuídos aos usuários. Por exemplo, se todos os usuários selecionados tiverem licenças do Office 365 Enterprise e você quiser revogá-las, marque a caixa de seleção para desmarcá-la.
-7.  Clique em **Salvar**.
+7.  Selecione **Salvar**.
 
 ## <a name="related-topics"></a>Tópicos relacionados
 

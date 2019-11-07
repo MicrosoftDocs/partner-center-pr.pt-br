@@ -2,17 +2,19 @@
 title: Solicitar uma relação com um cliente | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
-description: Solicitar um relacionamento é usado para os cenários vários parceiros e vários canais. Também será útil se um cliente remover seus privilégios de administrador delegado e você precisar restaurá-los para fornecer provisionamento ou suporte.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Solicitar um relacionamento é usado para os cenários vários parceiros e vários canais. Também será útil se um cliente remover seus privilégios de administrador e você precisar restaurá-los para fornecer provisionamento ou suporte.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 099f38fa6acf523f7627434c7b320c37b46e63e1
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 97ec1f5b346482a6865c7ce99500766b15459c9a
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820495"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654105"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Conectar com clientes no Partner Center
 
@@ -31,20 +33,20 @@ Observe que a opção de não solicitar permissões não está disponível para 
 
 Observe que você pode solicitar uma relação de revendedor com um cliente de dentro do seu país ou da mesma região.
 
-1.  Selecione **clientes** no menu do **Partner Center** e, em seguida, selecione **solicitar uma relação de revendedor**.
+1.  Selecione **Clientes** em seu menu **Partner Center** e depois selecione **Solicitar uma relação de revendedor**.
 
 2.  Para solicitar permissões de administrador deste cliente, selecione **incluir privilégios de administração delegada para Azure Active Directory e Office 365**. Para estabelecer a relação sem solicitar permissões de administrador, desmarque essa opção. 
 
-3.  Na página seguinte, reveja o rascunho da mensagem de e-mail. Você pode abrir a mensagem rascunho em seu aplicativo de e-mail padrão ou pode copiar a mensagem para sua área de transferência e colá-lo no e-mail. 
+3.  Na próxima página, reveja o rascunho da mensagem de email. Você pode abrir a mensagem rascunho em seu aplicativo de e-mail padrão ou pode copiar a mensagem para sua área de transferência e colá-lo no e-mail. 
 
-    Você pode editar o texto no e-mail, mas certifique-se de incluir o link, pois ele é personalizado, para vincular o cliente diretamente a sua conta. Selecione **Concluído** quando tiver completado essa tarefa.
+    Você pode editar o texto no email, mas certifique-se de incluir o link, pois ele é personalizado, para vincular o cliente diretamente à sua conta. Selecione **concluído** quando você concluiu esta etapa.
 
-3.  Envie o e-mail para seu cliente.
+3.  Envie o email para seu cliente.
 
 5.  Depois do cliente aceitar seu convite, eles aparecerão em sua página **Clientes**, e você poderá provisionar e gerenciar o serviço para o cliente a partir daí.
 
  
-6.  Para gerenciar a conta do cliente, serviços, usuários e licenças, expanda o registro do cliente, selecionando a seta para baixo perto de seu nome.
+6.  Para gerenciar a conta, os serviços, os usuários e as licenças do cliente, expanda o registro do cliente selecionando a seta para baixo próximo ao nome.
 
 
 > [!IMPORTANT]  
