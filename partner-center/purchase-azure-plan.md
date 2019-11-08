@@ -1,18 +1,18 @@
 ---
 title: Comprar o plano do Azure | Partner Center
 ms.topic: article
-ms.date: 11/01/2019
+ms.date: 11/03/2019
 description: Comprar várias assinaturas do Azure no âmbito do plano do Azure
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 6415235db3e0307e9185e69c1b8beee48512c792
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 2fefc10c0b5043e6617f4cea9e9c0245a8532321
+ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428529"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "73595927"
 ---
 # <a name="purchase-the-azure-plan"></a>Comprar o plano do Azure
 
@@ -53,7 +53,7 @@ Você retorna à página **Adicionar um produto**, na qual você pode ver que o 
   
 Você também pode comprar reservas do Microsoft Azure no âmbito do plano do Azure, em nome de seus clientes no Partner Center.
 
-1. No menu do Partner Center, em seu painel, selecione **Clientes**. Localize o cliente que deseja comprar reservas do Azure e, em seguida, selecione a seta para baixo para expandir a linha do cliente. 
+1. No menu do Partner Center em seu [painel](https://partner.microsoft.com/dashboard/), selecione **Clientes**. Localize o cliente que deseja comprar reservas do Azure e, em seguida, selecione a seta para baixo para expandir a linha do cliente. 
 
 2. Selecione **Adicionar produtos** e, em seguida, selecione **Azure**. 
 - Escolha o segmento de mercado do cliente na lista de **Segmentos**. 

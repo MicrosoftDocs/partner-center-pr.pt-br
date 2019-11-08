@@ -1,24 +1,30 @@
 ---
 title: Plano do Azure – Cobrança | Partner Center
 ms.topic: article
-ms.date: 11/01/2019
+ms.date: 11/03/2019
 description: Descreve a estrutura de arquivos de reconciliação e de fatura para o plano do Azure
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 9b68361f80be0e5c68f707aa578f78cabcdee3e5
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: f7b2e22fb4cc0c424ad18278df644d289944ca01
+ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428491"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "73595934"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nova experiência de comércio no CSP – Cobrança do Azure 
 
+**Funções apropriadas:**
 
-A cobrança no âmbito do plano do Azure é uma experiência de cobrança simplificada usando uma data de cobrança única alinhada e um período de cobrança baseado no mês civil. Para obter informações sobre a plataforma de cobrança, leia [Guia operacional de comércio moderno do Partner Center](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx).
+- Administrador de cobrança
+- Agente administrador
+- Administração global
+
+
+A cobrança no âmbito do plano do Azure é uma experiência de cobrança simplificada usando uma data de cobrança única alinhada e um período de cobrança baseado no mês civil. Para obter informações sobre a plataforma de cobrança, leia a [Visão geral sobre cobrança](billing-basics.md).
 
 ## <a name="summary-of-billing-essentials"></a>Resumo dos conceitos básicos de cobrança
 
