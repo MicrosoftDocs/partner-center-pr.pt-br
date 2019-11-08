@@ -1,7 +1,7 @@
 ---
 title: Usar os arquivos de reconciliação | Partner Center
 ms.topic: article
-ms.date: 07/08/2019
+ms.date: 11/07/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Para obter uma exibição detalhada de item de linha de cada encargo em um ciclo de cobrança, baixe os arquivos de reconciliação do Partner Center.
@@ -9,12 +9,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b27e99e5c0dc55fad3b06cc22316e8282dbe35c
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 217d5e9c068a07b51f74333f605daca8ab573c9a
+ms.sourcegitcommit: 8425d3435892651e3e6cb1147cd3b268b2b1869b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653979"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "73753856"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar os arquivos de reconciliação
 
@@ -23,6 +23,10 @@ ms.locfileid: "73653979"
 -  Partner Center
 -  Partner Center do Microsoft Cloud for US Government
 
+**Funções apropriadas**
+
+- Administrador de cobrança
+- Administração global
 
 Para obter uma exibição detalhada de item de linha de cada encargo em um ciclo de cobrança, baixe os arquivos de reconciliação do Partner Center. Os detalhes incluem encargos por assinaturas de cada cliente e eventos detalhados (como a adição de assentos a uma assinatura no meio do período).
 
@@ -637,7 +641,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 </tr>
 
 <tr class="even">
-<td>DiscountDetails</td>
+<td>PriceAdjustmentDescription</td>
 <td><p>Uma explicação de qualquer desconto aplicável.</p></td>
 </tr>
 
@@ -670,7 +674,26 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 <td>BillingFrequency</td>
 <td><p> Exibe mensalmente quando a cobrança mensal está habilitada. Caso contrário, em branco. </p></td>
 </tr>
-
+<tr class="odd">
+<td>BillableQuantity</td>
+<td><p> Representa o total de unidades adquiridas ou consumidas. </p></td>
+</tr>
+<tr class="even">
+<td>pricingCurrency</td>
+<td><p> Lista o preço do recurso ou oferta</p></td>
+</tr>
+<tr class="odd">
+<td>PCToBCExchangeRate </td>
+<td><p> Taxa de câmbio aplicada para moeda de preço para a moeda de cobrança (clientes)</p></td>
+</tr>
+<tr class="even">
+<td>PCToBCExchangeRateDate </td>
+<td><p> Data em que a moeda de preço para a taxa de câmbio da moeda de cobrança é determinada.</p></td>
+</tr>
+<tr class="odd">
+<td>MeterDescription </td>
+<td><p> Descrição do medidor para item de linha de consumo</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -897,9 +920,29 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 <td><p>Um campo herdado que captura metadados específicos do serviço opcionais.</p></td>
 </tr>
 
-<tr class="even">
+<tr class="odd">
 <td>Informações adicionais</td>
 <td><p>Quaisquer informações adicionais não abordadas em outras colunas.</p></td>
+</tr>
+<tr class="even">
+<td>EffectiveUnitPrice</td>
+<td><p> Valor real cobrado por unidade (isso inclui descontos, crédito acumulado etc.).</p></td>
+</tr>
+<tr class="odd">
+<td>PCToBCExchangeRate </td>
+<td><p>Taxa de câmbio aplicada para moeda de preço para a moeda de cobrança (clientes).</p></td>
+</tr>
+<tr class="even">
+<td>PCToBCExchangeRateDate </td>
+<td><p>Data em que a moeda de preço para a taxa de câmbio da moeda de cobrança é determinada.</p></td>
+</tr>
+<tr class="odd">
+<td>EntitlementID</td>
+<td><p>Representa a assinatura do Azure.</p></td>
+</tr>
+<tr class="even">
+<td>EntitlementDescription</td>
+<td><p>Representa o nome da assinatura do Azure.</p></td>
 </tr>
 
 </tbody>
