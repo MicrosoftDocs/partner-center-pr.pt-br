@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cliente, adicionar cliente, conta do cliente, conta do cliente no Partner Center, clientes, adicionar clientes, criar conta do cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: b8ffc01816e7f50ada49d87a82b8d7fbc72a78dd
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: d33588fb599f0f74ddb2e9f0e267b9e423ccbead
+ms.sourcegitcommit: d50d4ae13ba4c6c4a19a7f2af8f9f5a42be6dbfc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653401"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "73840207"
 ---
 # <a name="add-a-new-customer"></a>Adicionar um novo cliente
 
@@ -35,9 +35,9 @@ Antes de poder vender assinaturas, gerenciar a cobrança ou fornecer suporte a u
 
 2. Na página **informações da conta** , insira os detalhes do cliente e as informações de contato principal e verifique se o cliente aceitou e assinou o [contrato de Microsoft Cloud](agreements.md)mais recente.
 
-    >[!IMPORTANT]
-      > Desde 7 de novembro de 2018, você precisa confirmar que um cliente aceitou o Contrato do Microsoft Cloud fornecendo informações sobre a pessoa que o assinou. Confira [Confirmar a aceitação do Contrato do Microsoft Cloud por um cliente](confirm-consent.md) para obter mais detalhes.
-
+>[!IMPORTANT] 
+> Em 1º de outubro de 2019, a Microsoft introduziu o **contrato do cliente da Microsoft** para o programa CSP para substituir o contrato de Microsoft Cloud. Para facilitar a migração dos parceiros para o novo contrato, haverá suporte para o Contrato do Microsoft Cloud atual no programa CSP até 31 de janeiro de 2020. Leia sobre o [contrato do cliente da Microsoft e como confirmar o consentimento](confirm-customer-consent.md)
+  
 3. Se você for um provedor indireto, selecione o revendedor indireto que você deseja associar às assinaturas deste cliente na lista.
 
 4. Selecione **Avançar: assinaturas** quando terminar de inserir todas as informações necessárias.
