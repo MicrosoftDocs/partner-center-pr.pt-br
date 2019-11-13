@@ -1,22 +1,22 @@
 ---
 title: Obrigando a MFA para seu locatário do parceiro | Centro de parceiros
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 11/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Detalhes sobre a MFA de reobrigar seus requisitos de segurança de locatário do parceiro
+description: Detalhes sobre como obrigar a autenticação multifator (MFA) para seus requisitos de segurança de locatário do parceiro
 author: isaiahwilliams
 ms.author: iswillia
 keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor do painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
 ms.localizationpriority: medium
-ms.openlocfilehash: f9319fc50c722df0e87f729444bb23654b75e910
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9241e7fd7f9812e2c456eac70065e185a9cf8d61
+ms.sourcegitcommit: 0f14e29540c6814f01395924223b495cc5299954
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652512"
+ms.lasthandoff: 11/13/2019
+ms.locfileid: "73983347"
 ---
-# <a name="mandating-mfa-for-your-partner-tenant"></a>Obrigando a MFA para seu locatário de parceiro
+# <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Obrigar a autenticação multifator (MFA) para seu locatário do parceiro
 
 **Aplica-se a**
 
@@ -28,9 +28,9 @@ ms.locfileid: "73652512"
 
 Esses parceiros serão solicitados a concluir a verificação de MFA para as seguintes áreas:
 
-- [Painel do Partner Center](#partner-center-dashboard)
-- [API do Partner Center](#partner-center-api)
-- [Administração delegada de parceiro](#partner-delegated-administration)
+- [Painel do Partner Center](#partner-center-dashboard) (direcionamento de H1 CY2020)
+- [API do Partner Center](#partner-center-api) (direcionamento para H1 CY2020)
+- [Administração delegada de parceiro](#partner-delegated-administration) (a partir de 18 de novembro de 2019)
 
 A intenção desse recurso é ajudar os parceiros a proteger o acesso aos recursos do cliente contra o comprometimento de credenciais.
 
