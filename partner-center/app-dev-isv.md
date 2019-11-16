@@ -9,37 +9,37 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: competências, ISV, desenvolvimento de aplicativos
 ms.localizationpriority: medium
-ms.openlocfilehash: 254d4158ffc64b163e974a1d4cf43a69c0555740
-ms.sourcegitcommit: 1d3fad847dfa46ca709f4411f466827769328c83
+ms.openlocfilehash: d32936a6611d476628c655edd97bc8bf7a219d06
+ms.sourcegitcommit: 921e7ac2f9ee2a2b670903ff175fe8b17fb2f0a9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "73849702"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "74117226"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>A isenção de requisitos de exames one-time para a competência de desenvolvimento de aplicativos
 
-**Funções aplicáveis**
+**Rôles applicables**
 
-- Administração global
-- Administrador de parceiros do MPN
+- Administrateur global
+- Administrateur partenaire MPN
 
 Se você tiver obtido a competência do ISV agora desativada e um dos cenários a seguir se aplicar a você, estamos oferecendo à sua empresa uma isenção de requisitos de exame único para a [competência de desenvolvimento de aplicativos](https://partner.microsoft.com/membership/application-development-competency)Gold ou prata. 
 
 Parceiros com uma competência de ISV:
 
-- **Sua competência de ISV expirou** – sua isenção de requisitos de exame único estará disponível no Partner Center a partir de 12 de novembro de 2019. Você terá até 30 dias para obter a oferta. 
+- **Sua competência de ISV expirou** – sua isenção de requisitos de exame único estará disponível no Partner Center a partir de 22 de novembro de 2019. Você terá 30 dias para aproveitar a oferta. 
 
-- **Sua associação de competência está em sua janela de renovação** – a isenção de requisitos de exames one-time estará disponível no Partner Center a partir de 12 de novembro de 2019. Você terá 30 dias para obter a oferta. 
+- **Sua associação de competência está em sua janela de renovação** – a isenção de requisitos de exames one-time estará disponível no Partner Center a partir de 22 de novembro de 2019. Você terá 30 dias para aproveitar a oferta. 
 
 - **Sua associação de competência está relacionada à renovação nos próximos meses** – sua isenção de requisitos de exame único estará disponível para você quando for hora de renovar. Nesse momento, você terá 30 dias para obter a oferta.
 
-Parceiros com competência de desenvolvimento de aplicativos obtidos por meio do caminho de certificação IP:
+Parceiros com competência de desenvolvimento de aplicativos obtidos por meio do caminho de IP de certificado:
 
-- **Se você tiver uma listagem do Microsoft Commercial Marketplace**, a isenção de requisitos de exames one-time estará disponível no momento da renovação da sua competência. Nesse momento, você terá 30 dias para obter a oferta.
+- **Se você tiver uma listagem do Microsoft Commercial Marketplace**, a isenção de requisitos de exames one-time estará disponível no momento da renovação da sua competência. Nesse momento, você terá 30 dias para aproveitar a oferta.
 
-- **Se você não tiver uma listagem do [Microsoft Commercial Marketplace](https://azure.microsoft.com/overview/commercial-marketplace/)** , publique sua solução dentro de 90 dias após o recebimento dessa comunicação e você estará qualificado para a isenção de requisitos de exame único.
+- **Se você não tiver uma listagem do [Microsoft Commercial Marketplace](https://azure.microsoft.com/overview/commercial-marketplace/)** , publique sua solução de fevereiro de 2020 para estar qualificada para a isenção de requisitos de exame único.
 
-## <a name="how-to-get-your-offer"></a>Como obter sua oferta
+## <a name="how-to-take-advantage-of-your-offer"></a>Como aproveitar sua oferta
 
 1. No menu do centro de parceiros em seu painel, selecione **competências**.
 2. Na lista de competências disponíveis, o desenvolvimento de aplicativos está marcado como **concluído**.
@@ -54,11 +54,11 @@ Esta oferta está disponível por meio do Partner Center.
 
 Se você precisar de assistência para obter sua oferta ou se tiver dúvidas sobre sua elegibilidade para esta oferta, entre em contato com o [suporte do parceiro](https://partner.microsoft.com/Support). 
 
-## <a name="frequently-asked-questions"></a>Perguntas frequentes
+## <a name="frequently-asked-questions"></a>Forum Aux Questions
 
 **Como fazer saber se minha empresa está qualificada para esta oferta?**
 
-As empresas parceiras elegíveis para esta oferta foram notificadas por email e no Partner Center, com informações sobre como obter a oferta. Os parceiros qualificados incluem aqueles que obteram a competência ISV agora desativada e aqueles que obtiveram a competência do desenvolvimento de aplicativos por meio do caminho de IP certificado. 
+As empresas parceiras elegíveis para esta oferta foram notificadas por email e no Partner Center, com informações sobre como obter a oferta. Os parceiros qualificados incluem aqueles que obtiveram a competência ISV agora desativada e aqueles que obtiveram a competência do desenvolvimento de aplicativos por meio do caminho de IP do certificado. 
 
 **Quais são os benefícios da competência de desenvolvimento de aplicativos?**
 
@@ -68,6 +68,6 @@ Você pode examinar os benefícios de competência do desenvolvimento de aplicat
 
 **Como posso obter essa oferta se minha empresa não tivesse a competência de ISV?**
 
-Esta oferta está disponível somente para parceiros qualificados – aqueles que tiveram a competência do ISV ou a competência do desenvolvimento de aplicativos por meio do caminho de IP certificado. Estamos considerando ativamente soluções abrangentes de curto prazo e de longo prazo para o fornecimento de ISVs e compartilharão mais detalhes em breve. 
+Esta oferta está disponível somente para parceiros qualificados – aqueles que tiveram a competência do ISV ou a competência do desenvolvimento de aplicativos por meio do caminho de IP do certificado. Estamos considerando ativamente soluções abrangentes de curto prazo e de longo prazo para o fornecimento de ISVs e compartilharão mais detalhes em breve. 
 
 
