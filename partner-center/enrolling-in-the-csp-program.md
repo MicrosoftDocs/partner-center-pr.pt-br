@@ -2,16 +2,18 @@
 title: Inscrever-se no programa Provedor de Soluções na Nuvem | Partner Center
 ms.topic: article
 ms.date: 03/20/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Conheça os diferentes modelos de venda no CSP e decida qual deles funciona melhor para sua empresa
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 2f9c0aeb67b287caa65c2e807c5fc237f0ea7037
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 5b13ee39b514da197abd64eb64b6086c6ce11ecc
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318842"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653195"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscrever-se no programa Provedor de Soluções na Nuvem
 
@@ -21,7 +23,7 @@ ms.locfileid: "71318842"
 
 ## <a name="get-started"></a>Introdução
 
-A demanda crescente por serviços e soluções baseadas em nuvem oferece muitas oportunidades para os parceiros da Microsoft de todos os tamanhos para criar empresas de solução em nuvem rentáveis. Os parceiros que estão prontos para se inserir no mercado, mas que não querem gerenciar vários fornecedores ou que podem não ter uma infraestrutura de cobrança e suporte de cliente de ponta a ponta, podem inscrever-se no programa de provedor de soluções na nuvem (CSP) da Microsoft como revendedores indiretos.
+A demanda crescente por serviços e soluções baseadas em nuvem oferece muitas oportunidades para os parceiros da Microsoft de todos os tamanhos para criar empresas de solução em nuvem rentáveis. Os parceiros que estão prontos para se inserir no mercado, mas que não querem gerenciar vários fornecedores ou que podem não ter uma infraestrutura de gerenciamento de relacionamento com o cliente de ponta a ponta, podem inscrever-se no programa de CSP (Provedor de Soluções na Nuvem) da Microsoft como revendedores indiretos.
 
 Para se inscrever no programa Provedor de Soluções na Nuvem, primeiramente, é necessário ter uma ID do MPN. Ainda não tem uma? Registre-se [aqui](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=).
 
@@ -51,7 +53,7 @@ Diferentes provedores indiretos oferecem suporte e serviços diferentes, portant
 
 - Ajudar a estabelecer termos de financiamento e crédito
 
-Se você não estiver trabalhando com um provedor (também conhecido como um distribuidor), você pode [pesquisar a lista de provedores de Microsoft oficiais](https://partnercenter.microsoft.com/partner/find-a-provider) para encontrar um.
+Se você ainda não estiver trabalhando com um provedor (também conhecido como um distribuidor), poderá [pesquisar a lista de provedores de Microsoft oficiais](https://partnercenter.microsoft.com/partner/find-a-provider) para encontrar um.
 
 Para saber mais sobre o que é necessário para participar do programa CSP, como um revendedor indireto, consulte [Começar como um revendedor indireto](https://partner.microsoft.com/cloud-solution-provider/whats-required) no [site Microsoft Partner Network](https://partner.microsoft.com/). 
 

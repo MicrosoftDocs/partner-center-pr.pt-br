@@ -2,17 +2,19 @@
 title: Perguntas frequentes sobre novos recursos de cobrança | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Veja a seguir perguntas frequentes sobre os recursos de cobrança anual e avaliação gratuita do Partner Center.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
-ms.openlocfilehash: 6f9e3468cd9030be24d66709f3d36aa63b941d2b
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: db43e1904e5299ca552cb4f294f801e2cb94da24
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318818"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653124"
 ---
 # <a name="faq-about-new-billing-features"></a>Perguntas frequentes sobre novos recursos de cobrança
 
@@ -82,7 +84,7 @@ Seções:
 
 **P:** Quais ofertas terão a opção de cobrança anual?
 
--   **R:** A maioria das assinaturas baseadas em licença tem a opção de cobrança mensal ou anual. As assinaturas baseadas em uso só apresentam a opção de cobrança mensal. Você poderá identificar as frequências de cobrança disponíveis para cada oferta usando a coluna J da matriz de ofertas. Você pode encontrar a matriz de ofertas na seção “Consulte as ofertas e os preços” no Partner Center. .
+-   **R:** A maioria das assinaturas baseadas em licença tem a opção de cobrança mensal ou anual. As assinaturas baseadas em uso só apresentam a opção de cobrança mensal. Você poderá identificar as frequências de cobrança disponíveis para cada oferta usando a coluna J da matriz de ofertas. Você pode encontrar a matriz de ofertas na seção "Consulte as ofertas e os preços" no Partner Center. .
 
 **P:** A cobrança anual é feita por assinatura ou por licença?       
 
@@ -130,7 +132,7 @@ Seções:
 
 **P:** Um cliente pode ter várias assinaturas da mesma oferta e cada uma com frequências de cobrança diferentes?    
 
--   **R:** Depende da oferta. Há algumas ofertas restritas a uma assinatura por cliente. Se a oferta não estiver restrita, o cliente poderá ter várias assinaturas da mesma oferta com diferentes frequências de cobrança. Você pode encontrar os detalhes de todos os limites e restrições de oferta na coluna I da matriz de ofertas. Você pode encontrar a matriz de ofertas na seção “Consulte as ofertas e os preços” no Partner Center.
+-   **R:** Depende da oferta. Há algumas ofertas restritas a uma assinatura por cliente. Se a oferta não estiver restrita, o cliente poderá ter várias assinaturas da mesma oferta com diferentes frequências de cobrança. Você pode encontrar os detalhes de todos os limites e restrições de oferta na coluna I da matriz de ofertas. Você pode encontrar a matriz de ofertas na seção "Consulte as ofertas e os preços" no Partner Center.
 
 <a href="" id="changingyoursubscription"></a>**Alteração de sua assinatura**
 
@@ -199,7 +201,7 @@ Seções:
 
 **P:** Como a compra, a alteração ou o cancelamento de uma assinatura anual aparecem na Coluna P dos arquivos de uso?
 
--   **R:** A cobrança da compra inicial é exibida como "Taxas proporcionais na compra". As alterações de licença que resultam em crédito e nova cobrança aparecem como "Proporcional à instância do ciclo". Os créditos de cancelamento aparecem como "Taxa de cancelamento".
+-   **R:** A cobrança da compra inicial é exibida como "Tarifas proporcionais na compra". As alterações de licença que resultam em crédito e nova cobrança aparecem como "Proporcional à instância do ciclo". Os créditos de cancelamento aparecem como "Tarifa de cancelamento".
 
 **P:** Quando uma assinatura anual é cancelada, como ela aparece no arquivo de reconciliação?   
 
@@ -269,7 +271,7 @@ Seções:
 
     - O parceiro compra uma assinatura em 1º de janeiro = linha de cobrança criada para o período de serviço de 01/01 – 31/01.
     - Suspende a assinatura em 25 de janeiro = linha de cobrança de crédito criada para o período de serviço de 01/01 – 31/01.
-    - Reativa em 29 de janeiro = linha de cobrança criada para o período de serviço de 29/01 – 31/01.
+    - Reativa em 29 de janeiro = linha de cobrança criada para o período de serviço de 29/01 – 31/1.
 
 
 
@@ -350,7 +352,7 @@ Seções:
 
 **P17:** Serei notificado sobre a expiração de avaliações gratuitas?
 
--   **R:** Não. Você pode acompanhar as datas de validade usando a exibição do cliente no Partner Center ou consultando a API. É recomendável monitorar essas datas com frequência para que você possa executar as ações de acompanhamento apropriadas quando os clientes tomarem uma decisão.
+-   **R:** Não. Você pode acompanhar as datas de validade usando a exibição do cliente no Partner Center ou consultando a API. É recomendável monitorar essas datas com frequência para que você possa executar as ações de acompanhamento apropriadas quando os clientes precisarem tomar uma decisão.
 
 **P18:** Se um cliente teve uma avaliação gratuita para uma oferta, ele também poderá usar outra avaliação para uma oferta diferente? 
 
@@ -382,7 +384,7 @@ Seções:
 
 ## <a href="" id="billingalignmentfaq"></a>Alinhamento de cobrança – encerramento do período gratuito
 
-A partir do dia 21 de fevereiro de 2018, o Provedor de Soluções na Nuvem (CSP) começará a implementar o “alinhamento da data de cobrança” para novas assinaturas com cobrança mensal. Esse "alinhamento da data de cobrança" fornecerá aos parceiros mais flexibilidade e previsibilidade das vendas e da cobrança, bem do provisionamento e do gerenciamento de assinaturas de clientes. 
+A partir do dia 21 de fevereiro de 2018, o programa CSP (Provedor de Soluções na Nuvem) começará a implementar o "alinhamento da data de cobrança" para novas assinaturas com frequência da cobrança mensal. Esse "alinhamento da data de cobrança" fornecerá aos parceiros mais flexibilidade e previsibilidade das vendas e da cobrança, bem do provisionamento e do gerenciamento de assinaturas de clientes. 
 
 **ATUALIZAÇÃO 23 DE FEVEREIRO:**  Anteriormente anunciamos uma data de implementação de 20 de fevereiro, mas nossa implementação real foi um pouco atrasada e escalonada por categoria de produto.  Analise o catálogo em destaque abaixo em relação à data de implementação por Categoria de Produto. 
 
@@ -393,7 +395,7 @@ A partir do dia 21 de fevereiro de 2018, o Provedor de Soluções na Nuvem (CSP)
 |Office 365 China   |23 de fevereiro   |
 |Dynamics/Intune   |23 de fevereiro   |
 
-As assinaturas adquiridas antes da data de implementação (consulte o catálogo em destaque acima) obtêm um período gratuito a partir da data da compra até a data de cobrança do parceiro. As assinaturas adquiridas após a data da implementação não receberão mais um período gratuito. O período pago de 12 meses será iniciado (alinhado) na data da compra em relação ao parceiro de cobrança. Os parceiros não verão mais uma 'linha de cobrança $0' que representa o período gratuito no arquivo de reconciliação. Não há nenhuma alteração nas APIs, no faturamento ou nos incentivos.  Os parceiros devem informar suas equipes de vendas e estatísticas sobre essa nova lógica de cobrança e garantir que as operações sejam ajustadas conforme o necessário.  
+As assinaturas adquiridas antes da data de implementação (consulte o catálogo em destaque acima) obtêm um período gratuito a partir da data da compra até a data de cobrança do parceiro. As assinaturas adquiridas após a data da implementação não receberão mais um período gratuito. O período pago de 12 meses será iniciado (alinhado) na data da compra em relação ao parceiro de cobrança. Os parceiros não verão mais uma 'linha de cobrança US$ 0' que representa o período gratuito no arquivo de reconciliação. Não há nenhuma alteração nas APIs, no faturamento ou nos incentivos.  Os parceiros devem informar suas equipes de vendas e estatísticas sobre essa nova lógica de cobrança e garantir que as operações sejam ajustadas conforme o necessário.  
 
 Antes de implementar o alinhamento da data de cobrança, nós faturamos e cobramos na data de aniversário de cobrança de um parceiro, a data em que o parceiro assinou o programa CSP, e não na data de aniversário da assinatura do cliente, a data em que o cliente comprou a assinatura. Após a data de implementação, os parceiros serão cobrados na data de aniversário da assinatura, eliminando esse período gratuito.  Os parceiros continuarão a receber as faturas em sua data de aniversário de cobrança, mas a data de efetivação da fatura será a data de aniversário de assinatura do cliente. 
 
@@ -436,7 +438,7 @@ As assinaturas que estiverem no período gratuito na data de implementação nã
 
 **P8:** Como isso afeta a fatura e o arquivo de reconciliação? 
 
-- **R:** Você não verá mais a "linha de cobrança $0" na fatura ou no arquivo de reconciliação. Atualmente, a linha de cobrança US$ 0 representa o período gratuito.
+- **R:** Você não verá mais a "linha de cobrança US$ 0" na fatura ou no arquivo de reconciliação. Atualmente, a linha de cobrança US$ 0 representa o período gratuito.
 
 **P9:** A minha data de cobrança será alterada?
 
@@ -531,8 +533,8 @@ A data de cobrança do parceiro é no dia 15 do mês. Em 1º de junho de 2018, o
 O arquivo de reconciliação de 15 de julho conterá as seguintes linhas de cobrança:
 - Crédito de cancelamento de -US$ 30 pelo período de serviço de 20 de junho – 30 de junho. O crédito não é proporcional porque a assinatura foi suspensa nos primeiros 30 dias.
 - Cobrança de US$ 30 pelo período de serviço de 25 de junho – 30 de junho. A cobrança de reativação não é proporcional porque a assinatura foi reativada nos primeiros 30 dias. A cobrança também é baseada na quantidade de licenças originais de 1.
-- Crédito de -US$ 6 pelo período de serviço de 25 de junho – 30 de junho. A cobrança de reativação só é feita por 1 licença durante o período de serviço de 25 de junho – 30 de junho quando você tinha 2 licenças. O crédito de -US$ 6 reverte a cobrança incorreta pelo período de serviço de 25 de junho – 30 de junho.
-- Nova cobrança proporcional de US$ 12 pelo período de serviço de 25 de junho – 30 de junho. O parceiro tinha 2 licenças durante esse período de serviço. O preço unitário é calculado como (30/30)*6*2 = US$ 12.
+- Crédito de -US$ 6 pelo período de serviço de 25 de junho – 30 de junho. A cobrança de reativação só é feita por uma licença durante o período de serviço de 25/06 – 30/06 quando você tinha duas licenças. O crédito de -US$ 6 reverte a cobrança incorreta pelo período de serviço de 25 de junho – 30 de junho.
+- Nova cobrança proporcional de US$ 12 pelo período de serviço de 25 de junho a 30 de junho. O parceiro tinha 2 licenças durante esse período de serviço. O preço unitário é calculado como (30/30)*6*2 = US$ 12.
 - Cobrança de US$ 60 pelo período de serviço de 1º de julho – 31 de julho.
 
 |**Início da cobrança**   |**Término da cobrança**   |**Preço unitário**   |**Quantidade**   |**Valor**   |**Tipo de cobrança** |
@@ -617,7 +619,7 @@ Em 1º de julho, o dia do aniversário da assinatura, o sistema de cobrança da 
 O arquivo de reconciliação de 15 de julho conterá o seguinte:
 
 - Crédito de -US$ 30 pelo período de serviço de 1º de junho – 30 de junho.
-- Nova cobrança proporcional de US$9 pelo período de serviço de 1 de junho – 9 de junho. Nesse período o cliente tinha 1 licença. Cálculo = (preço mensal/total de dias no período de serviço) x dias no período de serviço proporcional x número de licenças = (30/30) x 9 x 1 = 9.
+- Nova cobrança proporcional de US$ 9 pelo período de serviço de 1º de junho a 9 de junho. Nesse período o cliente tinha 1 licença. Cálculo = (preço mensal/total de dias no período de serviço) x dias no período de serviço proporcional x número de licenças = (30/30) x 9 x 1 = 9.
 - Nova cobrança proporcional de US$ 42 pelo período de serviço de 10 de junho – 30 de junho. Nesse período o cliente tinha 2 licenças. Cálculo = (30/30) x 21 x 2 = 42.
 - Cobrança de US$ 60 pelo período de serviço de 1º de julho – 31 de julho.
 

@@ -2,6 +2,8 @@
 title: Indicadores de contribuição de parceiros | Partner Center
 ms.topic: article
 ms.date: 10/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Dados que mostram como a empresa está se saindo com o Dynamics 365 Customer Engagement ou o Dynamics 365 for Finance and Operations
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, desempenho, sucesso do cliente, medições, Dynamics 365
@@ -9,12 +11,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: c0c8f9f721aa0cadfc311ecec5eb6349576fb26a
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: d8f1e0d368b1477733cb2310cc126a2b6fc7d730
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997831"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654271"
 ---
 # <a name="partner-contribution-indicators"></a>Indicadores de contribuição de parceiros
 

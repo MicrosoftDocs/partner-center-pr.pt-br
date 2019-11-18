@@ -2,17 +2,19 @@
 title: Comprar ou renovar suas ofertas de benefício | Partner Center
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: Saiba como obter o Microsoft Action Pack, quer esteja comprando pela primeira vez ou renovando.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, MAPS, renovar MAPS, renovar action pack, obter action pack
 ms.localizationpriority: high
-ms.openlocfilehash: 544059c06d0e4dd0714ac2fd29b8d2e4291deda1
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: ef1ad6e37fd15274ce6e2272dcd8e563738f263a
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978739"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654294"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Comprar pela primeira vez ou renovar uma assinatura do Microsoft Action Pack ou as competências silver ou gold
 
@@ -69,7 +71,7 @@ Sua assinatura do Action Pack será renovada automaticamente todos os anos nesta
 2. Selecione **Desativar a renovação automática** se não quiser que sua assinatura do Action Pack seja renovada automaticamente a cada ano. 
 
     >[!NOTE]
-    >Se você desativar a renovação automática de inscrição, não poderá ativá-la novamente até que você renove a assinatura. Enviaremos um lembrete para que você renove sua assinatura antes que ela expire.
+    >Se você desativar a renovação automática da assinatura, não poderá ativá-la novamente até que você renove a assinatura. Enviaremos um lembrete para que você renove sua assinatura antes que ela expire.
 
 
 ## <a name="cancel-your-action-pack-subscription"></a>Cancelar sua assinatura do Action Pack

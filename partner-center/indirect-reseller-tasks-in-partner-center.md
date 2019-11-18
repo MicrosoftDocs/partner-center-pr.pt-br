@@ -2,6 +2,8 @@
 title: Parceria com provedores indiretos no CSP | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Como um revendedor indireto no CSP, você trabalha com provedores indiretos (também conhecidos como distribuidores), que têm uma relação direta com a Microsoft e podem fornecer suporte e cobrança ao cliente.
 ms.prod: ''
 author: MaggiePucciEvans
@@ -9,16 +11,16 @@ ms.author: evansma
 keywords: revendedores indiretos, revendedores, provedores indiretos, provedores, parceria, VAR, camada2, camada 2
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: f412b94fd700fe429a7128a6226874fe47fe7776
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: d290893113b156ce8582e44463a32aaf0cfbe5fe
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318875"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654335"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Faça parceria com provedores indiretos no programa Provedor de Soluções na Nuvem
 
-A demanda crescente por serviços e soluções baseadas em nuvem oferece muitas oportunidades para os parceiros da Microsoft de todos os tamanhos para criar empresas de solução em nuvem rentáveis. Os parceiros que estão prontos para se inserir no mercado, mas que não querem gerenciar vários fornecedores ou que podem não ter uma infraestrutura de cobrança e suporte de cliente de ponta a ponta, podem inscrever-se no programa de provedor de soluções na nuvem (CSP) da Microsoft como revendedores indiretos.
+A demanda crescente por serviços e soluções baseadas em nuvem oferece muitas oportunidades para os parceiros da Microsoft de todos os tamanhos para criar empresas de solução em nuvem rentáveis. Os parceiros que estão prontos para se inserir no mercado, mas que não querem gerenciar vários fornecedores ou que podem não ter uma infraestrutura de gerenciamento de relacionamento com o cliente de ponta a ponta, podem inscrever-se no programa de CSP (Provedor de Soluções na Nuvem) da Microsoft como revendedores indiretos.
 
 Como um revendedor indireto no CSP, você trabalha com provedores indiretos (também conhecidos como distribuidores), que têm uma relação direta com a Microsoft e podem fornecer suporte e cobrança ao cliente. Isso significa que você não precisa começar por conta própria e, em vez disso, pode trabalhar com um provedor de tecnologia experiente para ajudar a garantir seu sucesso. No modelo de revendedor de provedor (duas camadas), o provedor compra soluções na nuvem e serviços Microsoft que você revende aos clientes.
 
@@ -28,7 +30,7 @@ Diferentes provedores indiretos oferecem suporte e serviços diferentes, portant
 -   Ajudar a comercializar seus produtos e serviços 
 -   Ajudar a estabelecer termos de financiamento e crédito
 
-Se você não estiver trabalhando com um provedor (também conhecido como um distribuidor), você pode [pesquisar a lista de provedores de Microsoft oficiais](https://partnercenter.microsoft.com/partner/find-a-provider) para encontrar um.
+Se você ainda não estiver trabalhando com um provedor (também conhecido como um distribuidor), poderá [pesquisar a lista de provedores de Microsoft oficiais](https://partnercenter.microsoft.com/partner/find-a-provider) para encontrar um.
 
 
 Para saber mais sobre o que é necessário para venda no programa CSP, como um revendedor indireto, consulte [Começar como um revendedor indireto](https://partner.microsoft.com/cloud-solution-provider/whats-required) no [site Microsoft Partner Network](https://partner.microsoft.com/). 
@@ -44,16 +46,16 @@ Para saber mais sobre o que é necessário para venda no programa CSP, como um r
 Se você for iniciante no CSP, precisará se inscrever no programa como um revendedor indireto e criar uma conta no Partner Center. Para fazer isso, você precisará fornecer as seguintes informações durante o processo de inscrição. É recomendável coletar estes itens antes de começar:
 
 -   **Credenciais de administrador global para sua conta corporativa**<br>
-Você precisará fornecer o nome de usuário e senha que usa para fazer login no Office 365, Microsoft Azure ou Microsoft Dynamics CRM. Se ainda não tiver uma conta corporativa, você pode criar uma durante o processo de inscrição. Se você não sabe se já tem uma conta corporativa, consulte [Contas corporativas e o Partner Center](azure-active-directory-tenants-and-partner-center.md).
+Você precisará fornecer o nome de usuário e a senha que usa para entrar no Office 365, Microsoft Azure ou Microsoft Dynamics CRM. Se ainda não tiver uma conta corporativa, você poderá criar uma durante o processo de inscrição. Se você não sabe se já tem uma conta corporativa, consulte [Contas corporativas e o Partner Center](azure-active-directory-tenants-and-partner-center.md).
 
 
 -   **O nome de usuário e senha que você usa para efetuar login no site Partner Membership Center**<br>
 Usamos essas informações para vincular o ID do Microsoft Partner Network da sua organização (ID de MPN) com sua nova conta do Partner Center para que você possa gerenciar seus dados no Partner Center e os benefícios de associação.
 
--   **Nome legal da empresa, endereço, contato principal e detalhes de suporte da sua organização**<br>
+-   **Nome comercial legal, endereço, contato principal e detalhes de suporte da sua organização**<br>
 Precisamos dessas informações para confirmar que sua organização tem um perfil estabelecido com a Microsoft e que você está autorizado a agir em seu nome.
  
-Observe que pode levar vários dias para analisar e verificar as informações fornecidas por você. Enviaremos um e-mail para seu contato principal quando concluirmos nossa análise.
+Observe que pode levar vários dias para analisar e verificar as informações fornecidas por você. Enviaremos um email para seu contato principal quando concluirmos nossa análise.
 
 ### <a name="get-started"></a>Introdução
 
@@ -71,17 +73,17 @@ Se você não tiver uma conta corporativa, selecione **Criar uma** para configur
 
 6.  Insira a senha de sua conta do Partner Membership Center e, em seguida, selecione **Entrar**.
 
-7.  Selecione o perfil de organização com o ID de MPN vinculado a incentivos, benefícios da associação e competências para que nós possamos mover essas informações à sua conta do Partner Center. Selecione **Continuar**.
+7.  Selecione o perfil da organização com a ID de MPN vinculado a incentivos, benefícios da associação e competências para que nós possamos mover essas informações à sua conta do Partner Center. Selecione **Continuar**.
 
 Se o ID de MPN que você deseja usar não estiver listada nesta página, selecione **Cancelar** e faça login novamente com o nome de usuário e senha para o perfil de organização que você deseja usar. 
 > [!IMPORTANT]  
-> Selecione o ID do MPN associado a um perfil de organização ativo que está localizado no mesmo país/região como seu locatário Azure AD.
+> Selecione a ID do MPN associada a um perfil da organização ativo que está localizado no mesmo país/região como seu locatário Azure AD.
 
 8.  Forneça ou atualize o perfil de negócios jurídico da organização, informações de contato principais e informações de suporte ao cliente da sua organização. Selecione **Registrar agora**.
 
 O contato principal deve ser a pessoa em sua organização que podemos contatar sobre seu aplicativo (pode ser você ou outra pessoa em sua organização). Observe que não aceitamos endereços de email de serviços de email baseado na Web, como Gmail, Yahoo! Mail, iCloud Mail, AOL Mail ou o email do Outlook. 
 > [!IMPORTANT]  
-> Para ajudar a garantir a segurança e privacidade da sua organização, nós enviaremos um e-mail para seu contato principal para verificar que (1) ele ou ela se inscreveu em uma conta do Partner Center e que (2) este endereço de e-mail pertence à sua organização. Depois que o contato principal verificar o endereço de email, continuaremos nossa análise das informações fornecidas por você. Nós enviaremos atualizações do status de inscrição ao contato principal.
+> Para ajudar a garantir a segurança e privacidade da sua organização, nós enviaremos um email para seu contato principal para verificar que (1) ele ou ela se inscreveu em uma conta do Partner Center e que (2) este endereço de email pertence à sua organização. Depois que o contato principal verificar o endereço de email, continuaremos nossa análise das informações fornecidas por você. Nós enviaremos atualizações do status de inscrição ao contato principal.
 
 9.  Quando sua conta do Partner Center estiver pronta para uso, verifique se que você foi adicionado ao grupo do agente administrador. Para concluir a configuração de sua conta, incluindo a adição de outros usuários, você deve ter permissões de agente administrador. Siga estas etapas para exibir ou atualizar suas permissões:
 
@@ -114,9 +116,9 @@ O acesso do Partner Center é baseado em função, portanto, você pode atribuir
 
 ## <a name="connect-with-an-indirect-provider"></a>Conectar-se com um provedor indireto
 
-Trabalhar com um provedor indireto permite que você ofereça uma seleção mais ampla de serviços de nuvem da Microsoft e soluções para seus clientes. Provedores indiretos têm os sistemas e a infraestrutura no lugar certo para oferecer um nível robusto de cobrança de cliente e suporte, para que você possa se concentrar em suas soluções de tecnologia e contratos com clientes. 
+Trabalhar com um provedor indireto permite que você ofereça uma seleção mais ampla das soluções e dos serviços baseados em nuvem da Microsoft para seus clientes. Provedores indiretos têm os sistemas e a infraestrutura no lugar certo para oferecer um nível robusto de cobrança de cliente e suporte, para que você possa se concentrar em suas soluções de tecnologia e contratos com clientes. 
 
-Se você não estiver trabalhando com um provedor (também conhecido como um distribuidor), você pode [pesquisar a lista de provedores de Microsoft oficiais](https://partnercenter.microsoft.com/partner/find-a-provider) para encontrar um. Quando você encontrar um provedor que deseja associar, contate-o diretamente para discutir sobre seus programas de revendedor, níveis de suporte e termos. Se você e o provedor quiserem trabalhar juntos, você precisará conectar suas contas no Partner Center. 
+Se você ainda não estiver trabalhando com um provedor (também conhecido como um distribuidor), poderá [pesquisar a lista de provedores de Microsoft oficiais](https://partnercenter.microsoft.com/partner/find-a-provider) para encontrar um. Quando você encontrar um provedor que deseja associar, contate-o diretamente para discutir sobre seus programas de revendedor, níveis de suporte e termos. Se você e o provedor quiserem trabalhar juntos, você precisará conectar suas contas no Partner Center. 
 
 Se um provedor indireto quiser se conectar com você no Partner Center, ele vai disparar o fluxo de trabalho a seguir:
 
@@ -127,13 +129,13 @@ Se um provedor indireto quiser se conectar com você no Partner Center, ele vai 
 3.  Para confirmar a parceria com o provedor, marque a caixa e selecione **Autorizar provedor indireto**. O provedor agora está listado na página **Provedores indiretos** e sua empresa agora está listada na página **Revendedores indiretos** do provedor.
 
 > [!NOTE]  
-> Quando você estabelece uma parceria com um provedor indireto, o está autorizando a enviar pedidos e a adicionar assinaturas em nome de seus clientes, além de conceder a ele acesso de administrador à conta de trabalho da sua empresa. Depois que a parceria tiver sido estabelecida com o provedor, você poderá remover o acesso de administrador do provedor à sua conta de trabalho no portal do Office 365. 
+> Quando você estabelece uma parceria com um provedor indireto, o está autorizando a enviar pedidos e a adicionar assinaturas em nome de seus clientes, além de conceder a ele acesso de administrador à conta corporativa da sua empresa. Depois que a parceria tiver sido estabelecida com o provedor, você poderá remover o acesso de administrador do provedor à sua conta de trabalho no portal do Office 365. 
 
 4.  Selecione **Provedores indiretos** no menu **Partner Center** para ver uma lista dos provedores com quem você tem uma parceria. 
 
 5.  Selecione **Exibir clientes** para ver uma lista dos clientes que você e o provedor compartilham.
 
-6.  Selecione **Convidar novos clientes** para solicitar um novo cliente e autorizar relações de revendedor com você e seu provedor indireto. Certifique-se de ter o endereço de email do cliente à mão para que você possa enviar email de convite.  
+6.  Selecione **Convidar novos clientes** para solicitar um novo cliente e autorizar relações de revendedor com você e seu provedor indireto. Tenha o endereço de email do cliente à mão para que você possa enviar o email de convite.  
 > [!IMPORTANT]  
 > Seu provedor indireto precisa ter uma relação de revendedor com seus clientes para enviar pedidos no nome dele. 
  
@@ -153,7 +155,7 @@ Ao se conectar a um provedor indireto, você não ganha automaticamente os clien
 
 2.  Na próxima página, reveja o rascunho da mensagem de email. Você pode abrir a mensagem de rascunho por email ou pode copiar a mensagem na área de transferência e colá-la em um email. 
 
-Você pode editar o texto no email, mas certifique-se de incluir o link, pois ele é personalizado, para vincular o cliente diretamente à sua conta. Selecione **Concluído** quando tiver completado essa tarefa.
+Você pode editar o texto no email, mas certifique-se de incluir o link, pois ele é personalizado, para vincular o cliente diretamente à sua conta. Selecione **Concluído** quando tiver completado essa etapa.
 
 3.  Envie o email para seu cliente.
 
@@ -170,21 +172,21 @@ Quando você obter novos clientes, precisará se conectar com eles no Partner Ce
 -   Indicações da Microsoft
 -   Provedores indiretos
 
-Para gerenciar assinaturas e serviços em nome de um cliente, você precisa ter uma relação de revendedor com eles. Para permitir que seu provedor indireto envie pedidos em nome do cliente, o provedor indireto também deve ter uma relação de revendedor com eles.
+Para gerenciar assinaturas e serviços em nome de um cliente, você precisa ter uma relação de revendedor com ele. Para permitir que seu provedor indireto envie pedidos em nome do cliente, o provedor indireto também deve ter uma relação de revendedor com ele.
 
-Para obter as permissões de administrador para gerenciar assinaturas e serviços de um novo cliente **e** permitir que seu provedor indireto envie novos pedidos em nome dele, você pode convidar o cliente para estabelecer uma relação de revendedor com você e seu provedor ao mesmo tempo. 
+Para obter as permissões de administrador a fim de gerenciar assinaturas e serviços de um novo cliente **e** permitir que seu provedor indireto envie novos pedidos em nome dele, você pode convidar o cliente para estabelecer uma relação de revendedor com você e seu provedor ao mesmo tempo. 
 
 #### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-with-your-indirect-provider-at-the-same-time"></a>Convide um novo cliente para estabelecer relações de revendedor com você e seu provedor indireto ao mesmo tempo
 
 1.  Selecione **Provedores indiretos** no seu **menu do Partner Center**.
 
-2.  Selecione **Convidar novos clientes** para convidar um cliente a estabelecer uma relação de revendedor com você e a provedor indireto ao mesmo tempo. O provedor precisa ter uma relação de revendedor com seu cliente para que eles possam enviar pedidos em nome do cliente quando quiserem comprar novas assinaturas ou adicionar novas licenças a assinaturas existentes.
+2.  Selecione **Convidar novos clientes** para convidar um cliente a estabelecer uma relação de revendedor com você e a provedor indireto ao mesmo tempo. O provedor precisa ter uma relação de revendedor com seu cliente para que o provedor possa enviar pedidos em nome do cliente quando quiser comprar novas assinaturas ou adicionar novas licenças a assinaturas existentes.
 
 3.  Na próxima página, reveja o rascunho da mensagem de email. Você pode abrir a mensagem de rascunho por email ou pode copiar a mensagem na área de transferência e colá-la em um email. 
 
-Você pode editar o texto no email, mas não se esqueça de incluir o link já que ele é personalizado para vincular o cliente diretamente à sua conta e à conta de seu fornecedor. Selecione **Concluído** quando tiver completado essa tarefa.
+Você pode editar o texto no email, mas não se esqueça de incluir o link, já que ele é personalizado para vincular o cliente diretamente à sua conta e à conta de seu provedor. Selecione **Concluído** quando tiver completado essa etapa.
 
-4.  Depois que o cliente autorizar você e seu provedor a ser seus revendedores de registro, você terá permissões de administrador para gerenciar suas assinaturas, as licenças e os usuários em seu nome e seu provedor indireto serão capaz de enviar pedidos no nome dele.
+4.  Depois que o cliente autorizar você e seu provedor a ser seus revendedores de registro, você terá permissões de administrador para gerenciar as assinaturas, as licenças e os usuários em nome dele e seu provedor indireto será capaz de enviar pedidos em nome dele.
 
 5.  Para gerenciar a conta, os serviços, os usuários e as licenças do cliente, expanda o registro do cliente selecionando a seta para baixo perto do nome dele.
 

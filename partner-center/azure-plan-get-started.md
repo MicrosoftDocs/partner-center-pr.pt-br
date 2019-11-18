@@ -1,25 +1,27 @@
 ---
 title: Migrar para o plano do Azure – introdução | Partner Center
 ms.topic: article
-ms.date: 11/01/2019
+ms.date: 11/07/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Comprar assinaturas na nova experiência de comércio para o Azure
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, plano do Azure, comprar assinaturas, assinaturas
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 23dddf8f521d035a99b685b359fffd00247467e9
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 0e74d12aeb2daab30530a35326bcdaba5c07214d
+ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428450"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73661132"
 ---
 # <a name="move-to-azure-plan---get-started"></a>Migrar para o plano do Azure – introdução
 
-A Microsoft introduziu uma nova experiência de comércio no Partner Center.  Com essa nova experiência de comércio, os parceiros terão acesso aos serviços do Azure com tarifas pagas conforme o uso para clientes sob o Contrato de Cliente da Microsoft. 
+A Microsoft introduziu uma nova experiência de comércio no Partner Center.  Com essa nova experiência de comércio, os parceiros terão acesso aos serviços do Azure com tarifas pagas conforme o uso para clientes sob o Contrato de Cliente da Microsoft.
 
-Este plano simplifica a experiência de compra – você pode ter várias assinaturas do Azure em um único plano do Azure. Você não precisa mais enviar um pedido separado por assinatura do Azure. E, nesta nova experiência de comércio para o Azure, nós nos alinhamos a um único princípio de preço global, permitindo aos parceiros CSP oferecer o Azure com os preços publicados. 
+Este plano simplifica a experiência de compra – você pode ter várias assinaturas do Azure em um único plano do Azure. Você não precisa mais enviar um pedido separado por assinatura do Azure. E, nesta nova experiência de comércio para o Azure, nós nos alinhamos a um único princípio de preço global, permitindo aos parceiros CSP oferecer o Azure com os preços publicados.
 
 As necessidades de transformação digital de nossos clientes exigem novas habilidades dos parceiros. Muitos clientes procuram parceiros que forneçam serviços além da transação a fim de tornar o percurso da nuvem mais suave e ajudar a consumir os serviços do Azure com eficiência. Os parceiros da Microsoft desempenham uma função fundamental em todos os estágios do ciclo de vida do cliente. Esses tipos de serviços de parceiros têm natureza contínua e incluem o monitoramento da propriedade do Azure, o gerenciamento de políticas e governança, o ajuste fino das configurações, o suporte técnico e uma série de outros serviços. Eles exigem que o parceiro esteja intimamente familiarizado com o ambiente do Azure do cliente e tenha governança e controle adequados e contínuos sobre os recursos subjacentes que gerenciam. Os parceiros de cobrança que fornecerem esse gerenciamento de operações de nuvem 24x7 estarão qualificados para um **Crédito ganho pelo parceiro para serviços gerenciados** por esse trabalho.
 
@@ -31,21 +33,21 @@ Para todos os detalhes, leia [Confirmar a aceitação pelo cliente do Contrato d
 
 ## <a name="security-and-access-control-practices"></a>Práticas de segurança e controle de acesso
 
-Para ajudar a proteger parceiros e clientes, estamos introduzindo um conjunto de requisitos de segurança obrigatórios para consultores, fornecedores do painel de controle e parceiros que participam do programa de Provedor de Soluções na Nuvem. 
+Para ajudar a proteger parceiros e clientes, estamos introduzindo um conjunto de requisitos de segurança obrigatórios para consultores, fornecedores do painel de controle e parceiros que participam do programa de Provedor de Soluções na Nuvem.
 
-Os parceiros que não implementarem os requisitos de segurança obrigatórios não poderão fazer transações no programa de Provedor de Soluções na Nuvem nem gerenciar locatários de clientes que utilizam direitos de administrador delegado, pois esses requisitos são impostos. Estamos no processo de estabelecer uma data de imposição técnica para os requisitos e notificaremos a data aos parceiros com informações detalhadas. 
+Os parceiros que não implementarem os requisitos de segurança obrigatórios não poderão fazer transações no programa de Provedor de Soluções na Nuvem nem gerenciar locatários de clientes que utilizam direitos de administrador delegado, pois esses requisitos são impostos. Estamos no processo de estabelecer uma data de imposição técnica para os requisitos e notificaremos a data aos parceiros com informações detalhadas.
 
-## <a name="actions-to-take-to-implement-mfa"></a>Ações a serem tomadas para implementar o MFA 
+## <a name="actions-to-take-to-implement-mfa"></a>Ações a serem tomadas para implementar o MFA
 
 Considerando a natureza altamente privilegiada de um parceiro, precisamos garantir que cada usuário tenha um desafio de MFA para cada autenticação única. Para fazer isso, devemos adotar uma das seguintes opções:
 
-- Implementar o Azure AD Premium e garantir a imposição da MFA (autenticação multifator) para cada usuário 
-- Implementar as políticas de proteção de linha de base 
-- Implementar a solução de terceiros e garantir que a MFA seja imposta para cada usuário 
+- Implementar o Azure AD Premium e garantir a imposição da MFA (autenticação multifator) para cada usuário
+- Implementar os [padrões de segurança do Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
+- Implementar a solução de terceiros e garantir que a MFA seja imposta para cada usuário
 
-A partir de 1º de agosto de 2019, todos os parceiros são obrigados a impor a autenticação multifator a todos os usuários, incluindo as contas de serviço, em seu locatário de parceiro. Informações detalhadas sobre esses requisitos de segurança podem ser encontradas em [Requisitos de segurança de parceiros](https://docs.microsoft.com/partner-center/partner-security-requirements). 
+A partir de 1º de agosto de 2019, todos os parceiros são obrigados a impor a autenticação multifator a todos os usuários, incluindo as contas de serviço, em seu locatário de parceiro. Informações detalhadas sobre esses requisitos de segurança podem ser encontradas em [Requisitos de segurança de parceiros](https://docs.microsoft.com/partner-center/partner-security-requirements).
 
-A Microsoft recomenda que os parceiros usem o RBAC de forma adequada, seguindo as melhores práticas habilitadas por meio dos [Recursos do Azure Active Directory Privileged Identity Management](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure ). 
+A Microsoft recomenda que os parceiros usem o RBAC de forma adequada, seguindo as melhores práticas habilitadas por meio dos [Recursos do Azure Active Directory Privileged Identity Management](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure).
 
 ## <a name="read-more-about-the-azure-plan"></a>Leia mais sobre o plano do Azure
 
@@ -58,16 +60,7 @@ A Microsoft recomenda que os parceiros usem o RBAC de forma adequada, seguindo a
 - Os cálculos do PEC (crédito ganho pelo parceiro) e as funções e permissões qualificadas para obter créditos ganhos pelo parceiro estão disponíveis na lista de preços do Painel do Partner Center (requer credenciais).
 
 - [Como o crédito ganho pelo parceiro é determinado – detalhes](partner-earned-credit-explanation.md)
-
 - [Lista de preços do plano do Azure explicada](azure-plan-price-list.md)
-
 - [Transferir seu cliente para o plano do Azure](azure-plan-transition.md)
-
 - [Gerenciar assinaturas e recursos no âmbito do plano do Azure](azure-plan-manage.md)
-
 - [A lista completa de países/regiões em que o plano do Azure está disponível](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)
-
- 
-
-
-

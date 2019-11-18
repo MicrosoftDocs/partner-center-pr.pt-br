@@ -2,18 +2,20 @@
 title: Lista de preços do plano do Azure | Partner Center
 ms.topic: article
 ms.date: 11/01/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Como ver a lista de preços para assinaturas no plano do Azure
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 53e5327b505de1c1860e44b477aca21b5aef2d2b
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 00649bb67de199409e1c36457dbaf5a915c8354c
+ms.sourcegitcommit: e55fd7b82b90683ac34ab60c284fd6abacbde568
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428544"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73710141"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Lista de preços da nova experiência de comércio no CSP para Azure 
 
@@ -23,22 +25,16 @@ A lista de preços da nova experiência de comércio do Azure no CSP é publicad
 
 1. No menu do Partner Center, à esquerda, selecione **Vender** e, em seguida, selecione **Marketplace**.
 
-2. Ao lado de **Tipo de exportação**, selecione **Preço de consumo do plano do Azure**.
+2. Em preços do plano do Azure, selecione o país para o qual você deseja obter preços.
 
-3. Ao lado de **Preço para a data**, selecione a data desejada – por exemplo, **Atual**. Observação: você também pode selecionar **Taxas de câmbio** para exportar as taxas de câmbio atuais.
+3. Ao lado de **Tipo de exportação**, selecione **Preço de consumo do plano do Azure**, **Preços de reservas do plano do Azure** ou **Taxas de câmbio**. Observação: As **Taxas de câmbio** não são específicas do país.
 
-![Preços do Azure 2](images/azure/pricelist2.jpg)
-
-4. Em **Marketplace**, selecione o **Tipo** e a **Categoria** do produto ou pesquise por um produto. Os produtos disponíveis com base na sua pesquisa são exibidos.
-
-![pricing](images/azure/Azurepricelist1.jpg)
-
-5. Em seguida, selecione **Exportar lista de preços do plano do Azure** para baixar os preços do plano do Azure referentes ao(s) produto(s) selecionado(s).
+3. Ao lado de **Preço para a data**, selecione a data desejada – por exemplo, **Atual**. 
 
 
-![exportar lista de preços](images/azure/pricelist1.png)
+![específico do país](images/azure/pricingnew.png)
 
-
+Observação: Você pode exportar duas listas de preços diferentes: Preços do plano do Azure e Preços de terceiros do Marketplace. 
 
 ## <a name="azure-price-list-specifics"></a>Especificações da lista de preços do Azure
 

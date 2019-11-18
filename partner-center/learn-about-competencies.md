@@ -2,17 +2,19 @@
 title: Requisitos de competência para associações Gold e Silver da Microsoft | Partner Center
 ms.topic: article
 ms.date: 10/29/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Saiba mais sobre os requisitos de competência para obter níveis de associação Gold e Silver.
 author: LauraBrenner
 ms.author: labrenne
 keywords: competências, associação silver, associação gold, mpn, MAPS, proficiência, Microsoft Partner Network, associação de rede, especializações avançadas
 ms.localizationpriority: high
-ms.openlocfilehash: d6991a6df1800b279aefb553188af79d3dd33ec2
-ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
+ms.openlocfilehash: 4ebdeff79ad61cf37806f0c76620920a304c3fe4
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73413362"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653323"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Informações sobre as competências silver e gold e as especializações avançadas da Microsoft
 

@@ -1,17 +1,19 @@
 ---
 title: Status dos requisitos de segurança do parceiro | Partner Center
 ms.date: 10/11/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Mantenha-se atualizado com a conformidade da sua empresa com os requisitos de MFA.
 author: LauraBrenner
 ms.author: labrenne
 keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor do painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
 ms.localizationpriority: high
-ms.openlocfilehash: 3ca0bcda7be69f0785207f29fbbab20d2402e780
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 52a87b80c68ec44263a7e402ea458b918aa952df
+ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425107"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73661114"
 ---
 # <a name="partner-security-requirements-status"></a>Status dos requisitos de segurança do parceiro
 
@@ -31,7 +33,7 @@ A partir de 1º de agosto de 2019, todos os parceiros são obrigados a impor a a
 Queremos garantir que cada usuário tenha um desafio de MFA para toda autenticação única. Para fazer isso, devemos adotar uma das seguintes opções:
 
 - Implementar o Azure AD Premium e garantir que a MFA seja imposta para cada usuário
-- Implementar as políticas de proteção de linha de base
+- Implementar os [padrões de segurança do Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 - Implementar uma solução de terceiros para garantir que a MFA seja imposta para cada usuário
 
 ## <a name="partner-security-requirements-status"></a>Status dos requisitos de segurança do parceiro
@@ -39,7 +41,7 @@ Queremos garantir que cada usuário tenha um desafio de MFA para toda autentica�
 Este relatório pode ajudá-lo a verificar o status dos requisitos de segurança, fornecendo uma maneira de enxergar claramente os pontos a serem melhorados. O acompanhamento é atualizado regularmente.
 
 >[!NOTE]
->O relatório de status dos requisitos de segurança do parceiro é compatível apenas com o Partner Center. Ele não está disponível no Microsoft Cloud for US Government ou no Microsoft Cloud Germany. É altamente recomendável que todos os parceiros que negociam em uma nuvem soberana (21Vianet, governo dos EUA e Alemanha) adotem esses novos requisitos de segurança imediatamente. No entanto, esses parceiros não precisam atender aos novos requisitos de segurança em vigor em 1º de agosto de 2019. Futuramente, a Microsoft fornecerá detalhes adicionais sobre a imposição desses requisitos de segurança para nuvens soberanas. 
+>O relatório de status dos requisitos de segurança do parceiro é compatível apenas com o Partner Center. Ele não está disponível no Microsoft Cloud for US Government nem no Microsoft Cloud Alemanha. É altamente recomendável que todos os parceiros que negociam em uma nuvem soberana (21Vianet, governo dos EUA e Alemanha) adotem esses novos requisitos de segurança imediatamente. No entanto, esses parceiros não precisam atender aos novos requisitos de segurança em vigor em 1º de agosto de 2019. Futuramente, a Microsoft fornecerá detalhes adicionais sobre a imposição desses requisitos de segurança para nuvens soberanas.
 
 Cada vez que seus funcionários entram no Partner Center para trabalhar ou, por meio de APIs, obter ou enviar dados por meio do Partner Center, seu status de segurança é desafiado e acompanhado. Também estão incluídos no acompanhamento de status de segurança os seus aplicativos e todos os aplicativos de fornecedor do painel de controle. O status exibido é referente aos 7 dias anteriores.
 
@@ -93,7 +95,7 @@ Entenda se a sua implementação atual da MFA abrange todas as contas de usuári
 Entenda se a implementação atual só impõe a MFA em condições específicas. Algumas soluções de MFA fornecem a flexibilidade de impor a MFA somente quando determinadas condições são atendidas. Por exemplo, quando o usuário está acessando de um dispositivo desconhecido ou de um local desconhecido. Um usuário que está habilitado para a MFA, mas que não precisa concluir a verificação de MFA ao acessar o Partner Center poderá fazer com que as métricas sejam diferentes de 100%.
 
 >[!NOTE]
->Para parceiros que implementaram a MFA usando a política de linha de base de proteção do usuário final do Azure AD, é importante observar que a proteção do usuário final é uma política baseada em risco. Os usuários cobertos pela política serão solicitados a realizar a MFA somente durante tentativas de entrada arriscadas (por exemplo, quando o usuário estiver entrando de um local diferente). Além disso, os usuários sujeitos à política têm até 14 dias para se registrarem para a MFA. Os usuários que não concluíram o registro da MFA não serão desafiados pela verificação de MFA durante esse período de 14 dias. Portanto, espera-se que as métricas não sejam iguais a 100% para parceiros que implementaram a MFA usando a política de linha de base de proteção do usuário final do Azure AD.
+>Para parceiros que implementaram a MFA usando os padrões de segurança do Azure AD, é importante observar que, para nenhuma conta de usuário administrador, a autenticação multifator será imposta com base em risco. Os usuários deverão realizar a MFA somente durante tentativas de entrada arriscadas (por exemplo, quando o usuário estiver entrando de um local diferente). Além disso, os usuários terão até 14 dias para se registrarem para a MFA. Os usuários que não concluíram o registro da MFA não serão desafiados pela verificação de MFA durante esse período de 14 dias. Portanto, espera-se que as métricas não sejam iguais a 100% para parceiros que implementaram a MFA usando os padrões de segurança do Azure AD.
 
 ### <a name="are-you-using-3rd-party-mfa-solution"></a>Você está usando uma solução de MFA de terceiros?
 

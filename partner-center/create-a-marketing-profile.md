@@ -2,18 +2,20 @@
 title: Criar um perfil de negócios | Partner Center
 ms.topic: article
 ms.date: 10/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Crie um perfil de negócios no Partner Center para aproveitar as vendas potenciais da Microsoft.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: pinpoint, indicações, vendas potenciais, C2PC, perfil de empresa, comercializar sua empresa, localizar um parceiro, localizar um provedor de soluções, perfil de negócios, perfil de marketing
 ms.localizationpriority: high
-ms.openlocfilehash: 8f18bb460495fc6f95af92e6510827ff13d0b8bc
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: 75c38b5844f60fc21326c546ac97db9868ab0e02
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997854"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653605"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -95,16 +97,16 @@ Comece adicionando suas próprias marcações na seção de Competência do Parc
 -  **Recursos, habilidades e funcionalidades**. Essas marcações são de forma livre e fornecem a você a capacidade de adicionar palavras-chave de pesquisa exclusivas para seus recursos.
 
 Outras marcações usadas em pesquisa:
--  **Marcações de Competência** são uma designação obtida através da apresentação das habilidades da sua empresa.
+-  **Marcações de competência** são uma designação obtida através da apresentação das habilidades da sua empresa.
 -  **Marcações de endosso** são obtidas quando a Microsoft ou seus clientes que trabalharam com você endossam seu trabalho.
 
 #### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Permitir que a Microsoft endosse minhas áreas de conhecimento
 
 É recomendável deixar essa configuração marcada. 
 
-Conforme demonstra sucesso com os clientes por meio do Partner Center ou através da participação em outras certificações da Microsoft ou programas, adicionaremos automaticamente endossos para seus produtos específicos, serviços e setores contribuindo para esse sucesso. Os endossos são um fator importante nos resultados da pesquisa.
+Conforme demonstra sucesso com os clientes por meio do Partner Center ou por meio da participação em outras certificações da Microsoft ou programas, adicionaremos automaticamente endossos para seus produtos específicos, serviços e setores contribuindo para esse sucesso. Os endossos são um fator importante nos resultados da pesquisa.
 
-No entanto, se existirem produtos para os quais você fornece serviços e que não deseja mostrá-los em seu perfil, é possível desmarcar essa caixa de seleção e gerenciar seu perfil manualmente. Esses endossos ficarão ocultos na sua exibição de clientes, mas você poderá adicioná-los ao seu perfil posteriormente, a qualquer momento.
+No entanto, se existirem produtos para os quais você fornece serviços que não deseja que sejam mostrados em seu perfil, será possível desmarcar essa caixa de seleção e gerenciar seu perfil manualmente. Esses endossos ficarão ocultos na sua exibição de clientes, mas você poderá adicioná-los ao seu perfil posteriormente, a qualquer momento.
 
 ### <a name="customer-preferences"></a>Preferências do cliente
 
