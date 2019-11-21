@@ -1,20 +1,20 @@
 ---
 title: Incentivos a reivindicações de cooperação | Centro de parceiros
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Envie suas reivindicações de incentivos sem precisar ter seu plano de atividade examinado primeiro.
+description: Saiba como enviar suas declarações de incentivos sem o pré-requisito para que seu plano de atividade seja revisado.
 author: LauraBrenner
 ms.author: labrenne
 keywords: reivindicações de incentivos, reivindicações de cooperação, fundos de cooperação
 ms.localizationpriority: medium
-ms.openlocfilehash: 9f389f57051f49163e9c08d67391e374bbc87d67
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a13da629dad56afd62e9898df8cd6ba8f2f5c603
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653690"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253405"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Visão geral de reivindicações de cooperação de incentivos
 

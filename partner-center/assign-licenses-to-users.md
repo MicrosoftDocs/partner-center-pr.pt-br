@@ -1,29 +1,29 @@
 ---
 title: Tarefas de gerenciamento de usuários para contas de cliente | Partner Center
 ms.topic: article
-ms.date: 06/10/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Depois de comprar uma nova assinatura para um cliente, você pode atribuir licenças a usuários específicos.
+description: Saiba como criar contas de usuário para um cliente, adicionar ou remover licenças de usuário, redefinir senhas de usuário, excluir contas de usuário ou restaurá-las.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: gerenciamento de clientes, conta, criar conta, licenças, atribuir licença, gerenciamento de usuários, senha, Redefinir senha, alterar senha
 ms.localizationpriority: medium
-ms.openlocfilehash: 67e134978f30adbbe397cb09f34eae9892b18f08
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: fb2e616a6bf7dbfa5072ff1617dc37ad76831b8c
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654394"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253350"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Tarefas de gerenciamento de usuários para contas de cliente
 
 **Aplica-se a**
 
--  Partner Center
+- Partner Center
 
-Você pode criar e excluir novos usuários em uma conta do cliente e, se for necessário, restaurar uma ou mais contas de usuário excluídas anteriormente dentro de um prazo de 30 dias. As atribuições de assinatura anteriores do usuário também serão restauradas (supondo que suas alocações anteriores estejam disponíveis).
+Você pode criar e excluir novos usuários na conta de um cliente. Você também pode restaurar uma ou mais contas de usuário que você excluiu anteriormente dentro de 30 dias da exclusão. As atribuições de assinatura anteriores do usuário também serão restauradas (supondo que suas alocações anteriores estejam disponíveis).
 
 Quando você adquire novas assinaturas para um cliente, o cliente deve fornecer uma lista de todos os usuários que precisarão de contas, suas permissões de usuário e os serviços de que cada usuário precisa.  
 
@@ -33,44 +33,52 @@ Você pode [atribuir assinaturas a vários usuários](bulk-license-provisioning-
 
 ## <a name="create-user-accounts-for-a-customer"></a>Criar contas de usuário para um cliente
 
-1.  No menu do **centro de parceiros** , selecione **clientes**. Escolha um cliente na lista.
+1. Entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center.
 
-2.  No menu do cliente, selecione **Usuários e licenças**.
+2. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
 
-3.  Para cada usuário, selecione **Adicionar usuário** e preencha as informações, incluindo permissões e licenças. **Salve** suas alterações.
+3. No menu do cliente, selecione **Usuários e licenças**.
 
-4.  Grave o nome de usuário e a senha temporária para enviar para o usuário.
+4. Para cada usuário, selecione **Adicionar usuário** e preencha as informações, incluindo permissões e licenças. **Salve** suas alterações.
 
-5.  Se você estiver adicionando vários usuários individualmente, use **Adicionar outro usuário**.
+5. Grave o nome de usuário e a senha temporária para enviar para o usuário.
 
-6. Você também pode adicionar vários usuários simultaneamente. Basta [importar um arquivo de planilha .csv compatível com o Excel](adding-multiple-users-to-a-customer-account.md). Se estiver adicionando vários usuários simultaneamente usando a opção Adicionar outro usuário ou importando um arquivo de planilha .csv compatível com o Excel, você poderá esperar até concluir todo o conjunto antes de enviar por email ou imprimir os nomes e senhas a partir da tela de confirmação.
+6. Se você estiver adicionando vários usuários individualmente, use **Adicionar outro usuário**.
+
+7. Você também pode adicionar vários usuários simultaneamente. Basta [importar um arquivo de planilha .csv compatível com o Excel](adding-multiple-users-to-a-customer-account.md). Se estiver adicionando vários usuários simultaneamente usando a opção Adicionar outro usuário ou importando um arquivo de planilha .csv compatível com o Excel, você poderá esperar até concluir todo o conjunto antes de enviar por email ou imprimir os nomes e senhas a partir da tela de confirmação.
 
 <a href="" id="userlicensing"></a>
 
 ## <a name="add-or-remove-user-licenses-for-a-customer"></a>Adicionar ou remover licenças de usuário para um cliente
 
-1.  No menu do **centro de parceiros** , selecione **clientes**. Escolha o cliente na lista.
+As etapas a seguir se aplicam à adição ou remoção de licenças de usuário para produtos Microsoft. Para adicionar ou remover licenças de usuário para assinaturas SaaS baseadas em licença no Marketplace comercial, consulte [Adicionar ou remover licenças para uma assinatura de SaaS](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription).
 
-2.  No menu do cliente, selecione **Usuários e licenças**.
+1. Entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center.
 
-3.  Escolha um ou mais usuários da lista. Se, por exemplo, o cliente acabou de adquirir novas licenças e você quiser atribuí-las às pessoas que não as têm ainda, use a opção **Filtrar usuários por...** para encontrar o grupo correto.
+2. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
 
-4.  Selecione **Gerenciar licenças**. Faça suas alterações e selecione **Salvar**.
+3. No menu do cliente, selecione **Usuários e licenças**.
+
+4. Escolha um ou mais usuários da lista. Se, por exemplo, o cliente acabou de adquirir novas licenças e você quiser atribuí-las às pessoas que não as têm ainda, use a opção **Filtrar usuários por...** para encontrar o grupo correto.
+
+5. Selecione **Gerenciar licenças**. Faça suas alterações e selecione **Salvar**.
 
 > [!NOTE]
-> Para [produtos do Azure Marketplace](sell-marketplace-products.md), a atribuição e a ativação de licenças são gerenciadas por meio do ISV (fornecedor independente de software) que publicou o produto.
+> Para [produtos do Azure Marketplace](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer), a atribuição e a ativação de licenças são gerenciadas por meio do ISV (fornecedor independente de software) que publicou o produto.
 
 <a href="" id="resetpassword"></a>
 
 ## <a name="reset-a-users-password-for-a-customer"></a>Redefinir a senha do usuário para um cliente
 
-1.  No menu do **centro de parceiros** , selecione **clientes**. Escolha o cliente na lista.
+1. Entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center.
 
-2.  No menu do cliente, selecione **Usuários e licenças**. Escolha o usuário na lista.
+2. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
 
-3.  Na parte inferior da tela, selecione **Redefinir senha**. 
+3.  No menu do cliente, selecione **Usuários e licenças**. Escolha o usuário na lista.
 
-4.  Envie a nova senha temporária ao usuário.
+4.  Na parte inferior da tela, selecione **Redefinir senha**. 
+
+5.  Envie a nova senha temporária ao usuário.
 
 <a href="" id="deleteuseraccounts"></a>
 

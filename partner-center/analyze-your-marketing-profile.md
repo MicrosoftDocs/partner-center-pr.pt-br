@@ -1,19 +1,19 @@
 ---
 title: Analisar seu perfil de negócios | Centro de parceiros
 ms.topic: article
-ms.date: 07/12/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Veja como você está bem capturando a atenção dos clientes-alvo e gerando referências.
+description: Saiba como usar a página de informações de perfil de negócios para ver como você está capturando a atenção dos clientes de destino e gerando referências.
 author: JnHs
 ms.author: jenhayes
 ms.localizationpriority: medium
-ms.openlocfilehash: 7eff3b7f27a12111fe0a48b95c2346ee5d9cf98d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 33763800e8da6d6c082aeccc67acddc01653313a
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653937"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253125"
 ---
 # <a name="analyze-your-business-profile"></a>Analisar seu perfil de negócios
 <!-- 

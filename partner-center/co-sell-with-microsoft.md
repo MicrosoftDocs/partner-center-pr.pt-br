@@ -1,21 +1,21 @@
 ---
 title: Venda conjunta com a Microsoft | Centro de parceiros
 ms.topic: article
-ms.date: 07/12/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Como um parceiro qualificado da Microsoft, você tem a oportunidade de fazer uma venda conjunta com a Microsoft. Essa colaboração ajuda você a tirar soluções para o mercado, impulsionar a receita conjunta e garantir o sucesso do cliente.
+description: Como um parceiro qualificado da Microsoft, você pode comercializar com a Microsoft. Saiba como definir compromissos, convidar a Microsoft para colaborar ou exibir compromissos enviados.
 author: JnHs
 ms.author: jenhayes
-keywords: indicação, RFI, localizar um parceiro
+keywords: referência, RFI, localizar um parceiro
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e24475dfcad3b5a6732233aeafb6761e9a91e099
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: ce7fe09c57729517c9ecae124cdcb68e2ea84628
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653676"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253450"
 ---
 # <a name="co-sell-with-microsoft"></a>Venda conjunta com a Microsoft
 

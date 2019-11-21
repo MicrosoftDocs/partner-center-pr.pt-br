@@ -1,23 +1,23 @@
 ---
 title: Gerenciar reservas do Azure em nome dos seus clientes | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Para gerenciar as reservas do Azure de seus clientes após a compra, você selecionará o cliente e a reserva que deseja gerenciar no Partner Center e, em seguida, fará alterações na reserva no portal do Azure.
+Description: Saiba como gerenciar reservas do Azure em nome de um cliente, incluindo como cancelar uma reserva, trocar uma reserva ou solicitar um reembolso.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, reservas, gerenciar, cobrança, compra, cancelamento, troca, taxa de encerramento antecipado
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b15e0396fce4f9a738b1b34049f0e9560f847f19
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: b71457f0bd75008db9ed704784a39b082983501d
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653819"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252634"
 ---
-# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gerenciar Reservas do Microsoft Azure em nome de seus clientes       
+# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gerenciar reservas do Microsoft Azure em nome dos seus clientes       
 
 **Aplica-se a**
 
@@ -33,7 +33,7 @@ Para gerenciar as reservas do Azure de seus clientes após a compra, você selec
 
 3. Em **ações**, selecione **gerenciar** para ir para o registro de reserva do cliente no portal do Azure. Na página de detalhes da reserva, siga as etapas abaixo para concluir tarefas.  
 
-    | **Não**   | **Para**    |
+    | **Não**   | **To**    |
     |:-----------------------------|:-----------------|
     | **Visão geral**   | Exibir detalhes da reserva de um cliente, incluindo data de expiração, escopo e dados de utilização. **OBSERVAÇÃO** Selecione **Reembolso** para criar uma solicitação de suporte para obter um reembolso proporcional. Selecione **Trocar** para criar uma solicitação de suporte para trocar a parte não utilizada do seu termo de reserva.  
     | **Controle de acesso (IAM)**   | Gerencie o acesso às informações de reserva do cliente.|

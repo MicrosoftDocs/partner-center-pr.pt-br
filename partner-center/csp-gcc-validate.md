@@ -1,19 +1,19 @@
 ---
 title: Critérios de qualificação de parceiros e clientes do Office 365 Government GCC | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Procedimentos para validação de parceiros e clientes para o Office 365 Government GCC para CSP.
+description: Conheça as etapas para parceiros de cobrança direto (revendedores diretos, provedores indiretos) para validar parceiros e clientes para o GCC do Office 365 governamental para CSP.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ba7bf7c788e6dc90f68b7f46e5105be60c2c99ca
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 418aaa8624a7a22945dbbdb2d410dd061bab4586
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653545"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253533"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Critérios de qualificação de parceiros e clientes do Office 365 Government GCC para CSP
 

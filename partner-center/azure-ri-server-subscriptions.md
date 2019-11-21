@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 7/30/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Ao trazer Assinaturas do Azure RI e de Servidor para o programa CSP, é melhor permitir que nossos parceiros lidem com a demanda crescente do cliente por soluções mais econômicas para dar suporte a cargas de trabalho persistentes e altamente previsíveis. O programa CSP permite que os parceiros adquiram, provisionem e gerenciem Assinaturas do Azure RI e de Servidor em nome de clientes comerciais por meio do Microsoft Partner Center e do Portal do Azure.
+description: Saiba mais sobre as oportunidades do provedor de soluções na nuvem para adquirir, provisionar e gerenciar reservas do Azure e assinaturas de servidor para seus clientes.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, assinaturas, VM, reserva, instância reservada
 ms.localizationpriority: medium
-ms.openlocfilehash: e745a52e1f80164ae13d1d4b0fe058775b1074b3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e9a5e6c7a28a20b0b168616f39db591b5dd90649
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653796"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253227"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -112,15 +112,15 @@ A seguir, uma lista abrangente de recursos para ajudá-lo a se integrar rapidame
 
 **Operações**
 
-- [Guia de operações do comércio moderno](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (atualizado): um guia abrangente que abrange a política de chave e os aspectos operacionais, como contratos, pedidos por meio do Partner Center, fatura, detalhes da lista de preços, incentivos, arquivo de reconciliação, API/SDK, área restrita e Serviços compartilhados de parceiros do Azure.
-- [Matriz de Moeda do Cliente e Disponibilidade por País de Ofertas Modernas](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
+- [Guia de operações do comércio moderno](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (atualizado): um guia abrangente que abrange a política de chave e os aspectos operacionais, como contratos, pedidos por meio do Partner Center, fatura, detalhes da lista de preços, incentivos, arquivo de reconciliação, API/SDK, sandbox e serviços compartilhados de parceiros do Azure.
+- [Matriz de Moeda do Cliente e Disponibilidade por País/Região de Ofertas Modernas](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [Vender Microsoft Azure instâncias reservadas](https://go.microsoft.com/fwlink/?linkid=872806)
 - [Comprar Reservas do Microsoft Azure em nome de seus clientes](https://go.microsoft.com/fwlink/?linkid=872807)
 - [Gerenciar reservas do Azure em nome de seus clientes](https://go.microsoft.com/fwlink/?linkid=872808)
 - [Cobrança para reservas do Azure](https://go.microsoft.com/fwlink/?linkid=872809)
 - [Dimensionamento da VM para uso máximo de reserva](https://go.microsoft.com/fwlink/?linkid=872810)
 - [API do Partner Center (API/SDK)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances)
-- [Serviços de área de trabalho remota](https://docs.microsoft.com/windows-server/remote/remote-desktop-services/welcome-to-rds)
+- [Serviços de Área de Trabalho Remota](https://docs.microsoft.com/windows-server/remote/remote-desktop-services/welcome-to-rds)
 
 ## <a name="azure-hybrid-benefit"></a>Benefício Híbrido do Azure
 

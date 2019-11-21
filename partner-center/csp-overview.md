@@ -1,26 +1,27 @@
 ---
 title: Programa Provedor de Soluções na Nuvem - vender soluções de nuvem em demanda | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: O Programa Provedor de Soluções na Nuvem pode ajudar você a expandir seus negócios com novos clientes e novos conhecimentos.
+description: Saiba mais sobre os benefícios e modelos diferentes no programa de provedor de soluções na nuvem para ajudar sua empresa a crescer com novos clientes e nova experiência.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Provedor de Soluções na Nuvem, CSP, serviços baseados na Nuvem, Azure, Office 365, Dynamics, parceiro CSP, vender no CSP, parceiro direto, parceiro CSP direto, revendedor CSP indireto, CSP direto, CSP indireto, modelo direto, modelo indireto, revendedor indireto, provedor indireto, provedor, distribuidor, programa provedor de soluções na nuvem
 ms.localizationpriority: medium
-ms.openlocfilehash: 4bcbbc33c4992d2cf4500438c2a2340cfee23060
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a00c95c4a24fea9fd76779bb970375906af999c4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653512"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252825"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programa Provedor de Soluções na Nuvem - vender soluções de nuvem em demanda 
 
 **Aplica-se a**
 
--  Partner Center
+- Partner Center
+- Parceiros no programa CSP
 
 O CSP (programa de provedor de soluções na nuvem) ajuda você a ir além de revender licenças para estar mais envolvido no negócio do seu cliente.
  

@@ -1,20 +1,20 @@
 ---
 title: Como o crédito ganho do parceiro é calculado | Centro de parceiros
 ms.topic: article
-ms.date: 09/17/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Como o aspecto de crédito obtido pelo parceiro do Azure Plan é calculado
+description: Saiba como o aspecto de crédito de parceiro (PEC) do Azure Plan é calculado. Isso inclui requisitos de qualificação para parceiros e provedores indiretos.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 402ee0e2084191c7d4f592dd91480be8e1bd0341
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 59cbc822e886b031a49c281334e8287580311408
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653715"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253414"
 ---
 # <a name="how-the-partner-earned-credit-pec-is-calculated"></a>Como o PEC (crédito ganho) do parceiro é calculado
 
@@ -36,7 +36,7 @@ Os parceiros que possuem o gerenciamento de operações de ti 24x7 de partes ou 
 
 - O PEC é calculado diariamente e pode ser exibido no arquivo reconhecimento diário. Um parceiro (provedor ou revendedor (por meio de seu provedor) deve ter acesso ao dia inteiro (24x7) para garantir que eles ganhem o PEC.
 
-- O PEC é obtido para o nível de recurso do Azure. Se o parceiro tiver acesso válido na assinatura ou no nível do grupo de recursos, cada recurso que role para a entidade mais alta receberá o PEC. 
+- O PEC é obtido no nível de recurso do Azure. Se o parceiro tiver acesso válido na assinatura ou no nível do grupo de recursos, cada recurso que role para a entidade mais alta receberá o PEC. 
 
 - O PEC será incluído na nota fiscal mensal do parceiro. A nota fiscal é uma rede de encargos. Os detalhes são mostrados no arquivo reconhecimento da nota fiscal.
 

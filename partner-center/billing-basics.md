@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Informações sobre cenários de cobrança básicos e as diferenças entre a cobrança baseada em licença e em uso
+Description: Aprenda cenários de cobrança básicos no Partner Center para assinaturas e reservas do Azure e as diferenças entre a cobrança baseada em licença e em uso.
 author: LauraBrenner
 ms.author: labrenne
 keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções fiscais, arquivos de reconciliação, arquivo de reconciliação
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 13c2ecd5efcd3b2917a98b218c568b080a2a7833
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2087b75419e0f5235e1efcc67ecdd8f203f382c1
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653755"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253206"
 ---
 # <a name="billing-overview"></a>Visão geral da cobrança
 
@@ -42,7 +42,7 @@ Dependendo dos produtos, das soluções e dos serviços que você comprar em nom
 Se você optou por ser cobrado mensalmente ou se comprou produtos com base no uso que são cobrados mensalmente, sua data de cobrança mensal é o dia do mês que você selecionou quando criou sua conta do CSP no Partner Center. Depois de criar com êxito sua conta do CSP, a Microsoft enviará um email de confirmação que inclui a data de cobrança. Depois de criada, essa data não pode ser alterada. 
 
 ## <a name="pricing-and-invoicing"></a>Preços e faturamento
-Você pode encontrar listas de preços com um (1) mês de antecedência, pois são atualizadas mensalmente. Os preços baseados em licença são garantidos durante o período da assinatura, geralmente 12 meses a partir da data de compra. Os preços baseados em uso podem ser alterados mensalmente. 
+Você pode encontrar listas de preços com um (1) mês de antecedência, pois são atualizadas mensalmente. Os preços baseados em licença são garantidos pelo termo de assinatura, geralmente 12 meses a partir da data de compra. Os preços baseados em uso podem ser alterados mensalmente. 
 
 Os preços de produtos, serviços e assinaturas de software são garantidos por meio da duração da assinatura, no entanto, os preços podem mudar quando você renova.
 

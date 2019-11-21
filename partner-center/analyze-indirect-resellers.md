@@ -1,9 +1,9 @@
 ---
 title: Analisar o desempenho de revendedores indiretos | Partner Center
-ms.date: 08/02/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Obtenha dados sobre o desempenho de seus revendedores indiretos para identificar sucessos, bem como áreas que podem precisar de mais atenção.
+Description: Saiba como usar a análise para descobrir como seus revendedores indiretos estão fazendo, tanto seus sucessos quanto suas áreas que podem precisar de mais atenção.
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
@@ -11,16 +11,17 @@ ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ef7a20a669481b3724fd98a5fdb62feaea4ede74
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 188961444e4ec2f20fe305179b9f00673d7e371f
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653922"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253381"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>Analisar o desempenho de revendedores indiretos 
 
 **Aplica-se a**
+
 - Partner Center
 
 Os dados impulsionam as decisões de negócios. Use as métricas na página **Análise do revendedor** para identificar seu êxitos, os êxitos de seus clientes e as áreas que precisam de mais atenção. Use essas informações ao planejar novas metas de negócios.

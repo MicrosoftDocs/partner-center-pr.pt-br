@@ -1,27 +1,27 @@
 ---
 title: A isenção de requisitos de exames one-time para a competência do desenvolvimento de aplicativos | Centro de parceiros
 ms.topic: article
-ms.date: 11/08/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: A isenção de requisitos de exames one-time para a competência de desenvolvimento de aplicativos
+description: Para parceiros com uma competência anterior de ISV, saiba como obter uma isenção de requisitos de exame único para a competência do desenvolvimento de aplicativos
 author: LauraBrenner
 ms.author: labrenne
 keywords: competências, ISV, desenvolvimento de aplicativos
 ms.localizationpriority: medium
-ms.openlocfilehash: d32936a6611d476628c655edd97bc8bf7a219d06
-ms.sourcegitcommit: 921e7ac2f9ee2a2b670903ff175fe8b17fb2f0a9
-ms.translationtype: MT
+ms.openlocfilehash: de86b5d849e0ae8027a766559c38ebec8668f48b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "74117226"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253363"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>A isenção de requisitos de exames one-time para a competência de desenvolvimento de aplicativos
 
-**Rôles applicables**
+**Funções aplicáveis**
 
-- Administrateur global
-- Administrateur partenaire MPN
+- Administração global
+- Administrador de parceiros do MPN
 
 Se você tiver obtido a competência do ISV agora desativada e um dos cenários a seguir se aplicar a você, estamos oferecendo à sua empresa uma isenção de requisitos de exame único para a [competência de desenvolvimento de aplicativos](https://partner.microsoft.com/membership/application-development-competency)Gold ou prata. 
 
@@ -54,7 +54,7 @@ Esta oferta está disponível por meio do Partner Center.
 
 Se você precisar de assistência para obter sua oferta ou se tiver dúvidas sobre sua elegibilidade para esta oferta, entre em contato com o [suporte do parceiro](https://partner.microsoft.com/Support). 
 
-## <a name="frequently-asked-questions"></a>Forum Aux Questions
+## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
 **Como fazer saber se minha empresa está qualificada para esta oferta?**
 

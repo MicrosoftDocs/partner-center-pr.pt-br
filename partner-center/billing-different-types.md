@@ -1,21 +1,21 @@
 ---
 title: Noções básicas sobre os tipos de cobrança no Partner Center | Partner Center
 ms.topic: article
-ms.date: 10/04/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Informações sobre diferentes tipos de cobrança, períodos de cobrança e datas de cobrança
+Description: Saiba mais sobre diferentes tipos de cobrança, períodos de cobrança e datas de cobrança que você pode ver no Partner Center.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: cobrança, pagamentos, pedidos, arquivos de reconciliação, arquivo de reconhecimento
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b5991e5134d56684fb1ef43db5785d904fc9c15a
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 539d3150e571c33114feee2d316611d7ac324f24
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653745"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253199"
 ---
 # <a name="understanding-the-types-of-billing-in-partner-center"></a>Entendendo os tipos de cobrança no Partner Center
 

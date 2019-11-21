@@ -1,29 +1,29 @@
 ---
 title: Consolidação de locatários de autorização regional do CSP | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Use estas instruções para consolidar locatários para países/regiões diferentes.
+description: Use estas instruções para consolidar locatários para países/regiões diferentes. Isso inclui etapas para migrar contas de cliente e assinaturas de cliente.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: migrar provedores, provisionamento, conta de locatário, consolidar locatários
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: 1a48c8ef8d4f3fd7348a80899253c8071235c317
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 52663d9f98f66f271702b29965f620fa9563115f
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653501"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253596"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidação de locatários de autorização regional do CSP
 
 **Aplica-se a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud for US Government
+-  Partner Center para Microsoft Cloud for US Government
 
 
 \[algumas informações estão relacionadas ao produto de pré-lançamento que pode ser substancialmente modificado antes de ser lançado comercialmente. A Microsoft não oferece nenhuma garantia, expressa ou implícita, em relação às informações fornecidas aqui.\]

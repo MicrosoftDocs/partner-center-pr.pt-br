@@ -1,28 +1,28 @@
 ---
 title: Exibir logs de atividades do cliente | Partner Center
 ms.topic: article
-ms.date: 08/23/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Os logs de atividades fornecem informações sobre transações e ações de gerenciamento de parceiros para clientes.
+description: Saiba como exibir e exportar logs de atividade para obter informações sobre transações de conta de cliente e outras atividades de gerenciamento de parceiros relacionadas ao cliente.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: logs de atividades, assinatura, assinaturas, pagamentos, cobrança, transações
 ms.localizationpriority: medium
-ms.openlocfilehash: 370844941c65dfd2018cb8958525192e1c04d25b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: b9c1c2e6cc97fc923707ba8c2cbab42117c9c259
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653363"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252711"
 ---
 # <a name="view-customer-activity-logs"></a>Exibir logs de atividades do cliente
 
 **Aplica-se a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud for US Government
+-  Partner Center para Microsoft Cloud for US Government
 
 
 Os logs de atividades fornecem informações sobre transações e ações de gerenciamento de parceiros para clientes. Os logs de transações fornecem informações detalhadas sobre a transação, incluindo as assinaturas compradas. Você também pode exportar logs de atividades para um formato de arquivo de valores separados por vírgula (.csv) compatível com o Excel.
@@ -44,7 +44,7 @@ Os logs de atividades fornecem registros de ações de parceiros em contas de cl
     -   **Ação** – a ação tomada pelo cliente, tal como "criou uma referência";
     -   **Usuário parceiro** — o parceiro associado à atividade.
 
-4.  Selecione **Exportar log** para copiar os dados de assinatura do cliente em um arquivo .csv e baixe-o na pasta de download padrão em seu computador.
+4.  Selecione **Exportar log** para copiar os dados de assinatura do cliente em um arquivo .csv e o baixa na pasta de download padrão em seu computador.
     
  
 

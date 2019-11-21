@@ -1,9 +1,9 @@
 ---
 title: Analisar o uso do Azure | Partner Center
-ms.date: 08/02/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Use o Partner Center para obter dados sobre o uso de assinaturas do Azure de seus clientes.
+Description: Saiba como usar o Partner Center para obter dados sobre o uso de assinaturas do Azure de seus clientes.
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
@@ -11,14 +11,14 @@ ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b4c85cc591dfe43feb6a442de1b239520b56fe45
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 89d76cf3945c5831f6ab2fd1fe77c8df1b9c233e
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653376"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253388"
 ---
-# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Obter dados sobre o uso das assinaturas do Azure de seus clientes
+# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Obter dados sobre o uso de assinaturas do Azure de seus clientes
 
 Aplica-se a:
 
@@ -27,7 +27,7 @@ Aplica-se a:
 Os dados impulsionam as decisões de negócios. Use as métricas na página **Uso do Azure** para identificar seu êxitos e as áreas que precisam de mais atenção. Use essas informações ao planejar novas metas de negócios.
 
 > [!NOTE]
-> Uso do Azure a análise está disponível somente para parceiros no programa Provedor de Soluções na Nuvem.
+> A análise de uso do Azure está disponível somente para parceiros no programa de provedor de soluções na nuvem.
 
 Estamos monitorando as seguintes métricas:
 

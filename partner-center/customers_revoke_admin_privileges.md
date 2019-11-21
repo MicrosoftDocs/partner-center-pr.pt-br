@@ -1,20 +1,20 @@
 ---
 title: Os clientes delegam privilégios administrativos para parceiros | Partner Center
 ms.topic: article
-ms.date: 12/18/2018
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Como parceiro revendedor, seu cliente pode delegá-lo como administrador. Eles também podem remover privilégios.
+description: Saiba como pedir aos clientes para delegar permissões de administrador a um revendedor ou remover as mesmas permissões e como usar as permissões.
 author: LauraBrenner
 ms.author: labrenne
 keywords: privilégios de administrador delegados, admin em nome de, remover privilégios, DAP, AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 35777dbdaa8ce77f4a1e7154447b37cd62772bc6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8f49fa5c4b320d05c6c6a9049b41170457bb394f
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653431"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253478"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>Os clientes delegam privilégios administrativos para parceiros
 
@@ -28,14 +28,14 @@ Para gerenciar um serviço ou inscrição de cliente em seu nome, o cliente deve
 
 1.  Selecione **clientes** e, em seguida, selecione **solicitar uma relação de revendedor**.
 
-2.  Na próxima página, reveja o rascunho da mensagem de email. Você pode abrir a mensagem rascunho em seu aplicativo de e-mail padrão ou pode copiar a mensagem para sua área de transferência e colá-lo no e-mail. 
+2.  Na página seguinte, reveja o rascunho da mensagem de e-mail. Você pode abrir a mensagem rascunho em seu aplicativo de e-mail padrão ou pode copiar a mensagem para sua área de transferência e colá-lo no e-mail. 
 
     >[!IMPORTANT]
-    >Você pode editar o texto no email, mas certifique-se de incluir o link, pois ele é personalizado, para vincular o cliente diretamente à sua conta. 
+    >Você pode editar o texto no e-mail, mas certifique-se de incluir o link, pois ele é personalizado, para vincular o cliente diretamente a sua conta. 
     
 3.  Selecione **concluído** quando você concluiu esta etapa.
 
-4.  Envie o email para seu cliente.
+4.  Envie o e-mail para seu cliente.
 
 5.  Depois do cliente aceitar seu convite, eles aparecerão em sua página **Clientes**, e você poderá provisionar e gerenciar o serviço para o cliente a partir daí.
 

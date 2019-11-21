@@ -1,27 +1,27 @@
 ---
 title: Contas de clientes | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Como parceiro revendedor, você deve criar uma conta para cada um de seus clientes no Partner Center. A conta do cliente será seu ponto de partida para a venda de assinaturas, cobrança e o fornecimento de suporte.
+Description: Encontre recursos para parceiros revendedores no Partner Center. Isso inclui a necessidade de criar contas de clientes antes de vender assinaturas, faturas ou oferecer suporte.
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6e933cb42187589f44846ca68aee0f2f7afa9e34
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 40fb278c360b7cbedf779d3528e85a5a88a19544
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653476"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253567"
 ---
 # <a name="customer-accounts"></a>Contas de clientes
 
 **Aplica-se a**
 
 -  Partner Center
--  Partner Center do Microsoft Cloud for US Government
+-  Partner Center para Microsoft Cloud for US Government
 
 
 Como parceiro de revendedor, você deve fazer uma conta para cada um de seus clientes no Partner Center. A conta do cliente será seu ponto de partida para a venda de assinaturas, cobrança e o fornecimento de suporte. Você precisa fazer uma conta do Partner Center para cada um de seus clientes, incluindo os clientes que você tinha antes de passar para o Partner Center.

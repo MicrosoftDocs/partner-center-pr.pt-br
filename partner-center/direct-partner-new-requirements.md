@@ -1,21 +1,21 @@
 ---
 title: Novos requisitos para parceiros diretos CSP | Partner Center
 ms.topic: article
-ms.date: 03/20/2018
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Se você estiver atualmente inscrito no programa CSP como um parceiro direto, você deve se preparar para atender a esses requisitos de suporte e serviços atualizados.
+Description: Se você for um parceiro direto no programa CSP, poderá saber mais sobre os requisitos de suporte e serviços atualizados e como atendê-los.
 author: LauraBrenner
 ms.author: labrenne
 keywords: CSP, parceiro direto, cobrança direta, requisitos
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ccc337138c62f2f2a1258f183a30e0ca09652f53
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 64015b298618ef7292433f0aedb5016ef83c1905
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653218"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253586"
 ---
 # <a name="csp-direct-bill-partner-new-requirements"></a>Novos requisitos para parceiros de cobrança direta do CSP
 
