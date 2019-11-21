@@ -11,13 +11,13 @@ metadata:
   author: LauraBrenner
   ms.author: labrenne
   manager: evansma
-  ms.date: 11/05/2019
-  ms.openlocfilehash: 4976296092b1c40e3b1ac77c8591a620a1c5c43c
-  ms.sourcegitcommit: 8425d3435892651e3e6cb1147cd3b268b2b1869b
+  ms.date: 11/20/2019
+  ms.openlocfilehash: 6b543cf8fcc25122b0c2ec48a3bd60202772f29a
+  ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
   ms.translationtype: HT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 11/07/2019
-  ms.locfileid: "73753866"
+  ms.lasthandoff: 11/20/2019
+  ms.locfileid: "74253692"
 highlightedContent:
   items:
   - title: Entre para ver os comunicados mais recentes
@@ -29,9 +29,9 @@ highlightedContent:
   - title: Participe do Programa de Usuário Pioneiro de API e SDK
     itemType: deploy
     url: https://docs.microsoft.com/partner-center/develop/early-adopter-program
-  - title: Novo contrato com o cliente Microsoft
-    itemType: concept
-    url: confirm-customer-agreement.md
+  - title: Visão geral do Marketplace comercial
+    itemType: whats-new
+    url: csp-commercial-marketplace-overview.md
   - title: Práticas recomendadas de segurança e autenticação multifator
     itemType: overview
     url: partner-security-requirements.md
@@ -57,9 +57,9 @@ conceptualContent:
       text: Veja mais
   - title: Conecte-se com clientes
     links:
-    - url: csp-offers.md
+    - url: confirm-customer-agreement.md
       itemType: how-to-guide
-      text: Venda outros produtos e serviços
+      text: Novo contrato com o cliente Microsoft
     - url: assign-licenses-to-users.md
       itemType: how-to-guide
       text: Gerencie licenças de clientes
