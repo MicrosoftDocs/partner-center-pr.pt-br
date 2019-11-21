@@ -1,27 +1,27 @@
 ---
-title: Acessar sua página de pagamentos de incentivos | Centro de parceiros
+title: Access your incentives payouts page | Partner Center
 ms.topic: article
-ms.date: 10/17/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Entenda suas informações de pagamento
+description: Learn about accessing your payout information. This applies to Windows app and game payments as well as MPN incentive payouts.
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: Incentivos, pagamento
+keywords: Incentives, payout
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b9bc2a1ff8a2b52a5e7b72d468537e5016e34a1
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 246c3eaa95fe88cdd42c1eb85548065d29828bfc
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654356"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253704"
 ---
-# <a name="access-your-incentives-payouts-page"></a>Acessar sua página de pagamentos de incentivos
+# <a name="access-your-incentives-payouts-page"></a>Access your incentives payouts page
 
-As informações de ajuda do pagamento que se aplicam a você depende de qual programa de parceiro você está trabalhando. Para ver a página apropriada para você, selecione o link correspondente abaixo:
+The payout help information that applies to you depends on which partner program you're working in. To see the page appropriate for you, select the corresponding link below:
 
-- Para pagamentos de jogos e de aplicativo do Windows, consulte [Resumo de pagamento](https://docs.microsoft.com/windows/uwp/publish/payout-summary) na documentação do desenvolvedor do Windows.
+- For Windows app and game payments, see [Payout summary](https://docs.microsoft.com/windows/uwp/publish/payout-summary) in the Windows developer documentation.
 
-- Para pagamentos de incentivo Microsoft Partner Network (MPN), consulte [exibir suas informações de pagamentos de incentivo](understand-incentive-payouts.md) na documentação de incentivos do MPN.
+- For Microsoft Partner Network (MPN) incentive payouts, see [View your incentive payments information](understand-incentive-payouts.md) in the MPN incentives documentation.
 
-- As informações sobre os pagamentos do Marketplace comercial para fornecedores independentes de software (ISVs) serão adicionadas em breve.
+- Information about Commercial Marketplace payments for Independent Software Vendors (ISVs) will be added soon.

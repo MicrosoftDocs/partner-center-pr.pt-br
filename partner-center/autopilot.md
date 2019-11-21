@@ -1,175 +1,175 @@
 ---
-title: Personalizar a experiência inicial no uso do dispositivo com os perfis do Windows AutoPilot | Centro de parceiros
-description: Preconfigure a experiência inicial de um dispositivo com perfis do AutoPilot.
+title: Customize a device's out-of-box experience with Windows Autopilot profiles | Partner Center
 ms.topic: article
-ms.date: 03/18/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
+description: Learn how to customize or pre-configure a new device's out-of-box experience with Autopilot profiles before you deliver the device to the customer.
 author: maggiepuccievans
 ms.author: evansma
-keywords: piloto automático, piloto automático do Windows, Microsoft AutoPilot, implantação Zero Touch, OOBE, telas de logon, pronto para uso
+keywords: autopilot, windows autopilot, microsoft autopilot, zero-touch deployment, oobe, login screens, out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: 6ad6482c68da6c964414be3b7f036835934f049e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a07c18fda7de0aa5854fb46a91bea692c033d51c
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653910"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253326"
 ---
-# <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personalizar a experiência inicial de um dispositivo com os perfis do Windows AutoPilot
+# <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Customize a device's out-of-box experience with Windows Autopilot profiles
 
 **Aplica-se a**
 
-- CSP direto-parceiros de cobrança, provedores indiretos e revendedores indiretos
+- CSP direct-bill partners, indirect providers, and indirect resellers
 
-Se você gerenciar dispositivos de clientes, talvez seja necessário personalizar a OOBE (experiência inicial do usuário) para os usuários do cliente. Você pode pré-configurar novos dispositivos com os perfis do Windows AutoPilot antes de entregar os dispositivos aos clientes e aplicar novos perfis a dispositivos que os clientes já adquiriram. 
+If you manage customer devices, you may need to customize the out-of-box experience (OOBE) for the customer's users. You can pre-configure new devices with Windows Autopilot profiles before delivering the devices to customers and apply new profiles to devices customers have already purchased. 
 
-Observe que os OEMs começaram a incluir um rótulo de remessa no fora da caixa de dispositivo do piloto automático que mostra a **ID de chave do produto (PKID)** do dispositivo.  Este código de barras legível e unidimensional fornece aos parceiros downstream uma maneira de registrar dispositivos para o AutoPilot sem precisar unboxr os dispositivos e coletar a ID do dispositivo por meios alternativos.
+Note that OEMs have started including a shipping label on the outside of the Autopilot device box that shows the device's **Product Key ID (PKID)** .  This 1-dimensional, readable barcode provides downstream partners with a way to register devices for Autopilot without having to unbox the device(s) and harvest the device ID by alternative means.
 
-Este artigo explica como criar e aplicar perfis do AutoPilot a dispositivos no Partner Center.
+This article explains how to create and apply Autopilot profiles to devices in Partner Center.
 
-Se você ainda não estiver familiarizado com o piloto automático, revise as informações nestes artigos:
+If you're not already familiar with Autopilot, review the information in these articles:
 
 - [Visão geral do Windows Autopilot.](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
-- [Guia de referência de implantação do AutoPilot](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
+- [Autopilot deployment reference guide](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>Visão geral
 
-Com o recurso de piloto automático do Windows no Partner Center, você pode criar perfis personalizados para aplicar aos dispositivos do cliente. As seguintes configurações de perfil estavam disponíveis no momento em que este artigo foi publicado:
+With the Windows Autopilot feature in Partner Center, you can create custom profiles to apply to customer devices. The following profile settings were available at the time this article was published:
 
-- Ignore as configurações de privacidade. Essa configuração opcional do perfil de piloto automático permite que as organizações não perguntem sobre as configurações de privacidade durante o processo OOBE.
+- Skip privacy settings. This optional Autopilot profile setting enables organizations to not ask about privacy settings during the OOBE process.
 
-- Desabilite a criação da conta de administrador local no dispositivo. As organizações podem decidir se o usuário que está configurando o dispositivo deve ter acesso de administrador quando o processo for concluído.
+- Disable local admin account creation on the device. Organizations can decide whether the user setting up the device should have administrator access once the process is complete.
 
-- Configurar automaticamente o dispositivo para trabalho ou escola. Todos os dispositivos registrados com o piloto automático serão considerados dispositivos corporativos ou de estudante automaticamente, portanto, essa pergunta não será feita durante o processo OOBE.
+- Automatically set up device for work or school. All devices registered with Autopilot will automatically be considered work or school devices, so this question will not be asked during the OOBE process.
 
-- Ignore as páginas de configuração de registro do Cortana, do OneDrive e do OEM. Todos os dispositivos registrados com o AutoPilot irão ignorar automaticamente essas páginas durante o processo de OOBE (experiência inicial do uso).
+- Skip Cortana, OneDrive, and OEM registration setup pages. All devices registered with Autopilot will automatically skip these pages during the out-of-box experience (OOBE) process.
 
-- Ignorar contrato de licença de usuário final (EULA). A partir do Windows 10 versão 1709, as organizações podem decidir ignorar a página de EULA apresentada durante o processo OOBE. Consulte o [contrato de EULA do Windows AutoPilot](#windows-autopilot-eula-dismissal) abaixo para obter informações importantes a serem consideradas para ignorar a página de EULA durante a instalação do Windows.
+- Skip End User License Agreement (EULA). Starting in Windows 10 version 1709, organizations can decide to skip the EULA page presented during the OOBE process. See [Windows Autopilot EULA dismissal](#windows-autopilot-eula-dismissal) below for important information to consider about skipping the EULA page during Windows setup.
 
-As seguintes permissões e limitações de gerenciamento de perfil e dispositivo se aplicam:
+The following profile and device management permissions and limitations apply:
 
-- Os parceiros CSP podem continuar a gerenciar perfis de AutoPilot para clientes existentes com os quais têm relações de revendedores, mesmo que os clientes tenham removido os privilégios de administração delegada do parceiro.
+- CSP partners can continue to manage Autopilot profiles for existing customers with whom they have reseller relationships, even if the customers have removed the partner's delegated administration privileges.
 
-- Você pode gerenciar dispositivos existentes para seus clientes que você adicionou.
+- You can manage existing devices for your customers that you have added.
 
-- Você não pode gerenciar dispositivos que seu cliente carregou para Microsoft Store para empresas ou para o portal de Microsoft Intune.
+- You can't manage devices your customer has uploaded to Microsoft Store for Business or the Microsoft Intune Portal.
 
-## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>Criar e gerenciar perfis do AutoPilot no Partner Center
+## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>Create and manage Autopilot profiles in Partner Center
 
-No Partner Center, você pode criar perfis de implantação do Windows AutoPilot e aplicá-los a dispositivos.
+In Partner Center, you can create Windows Autopilot deployment profiles and apply them to devices.
 
 >[!NOTE]
->Somente agentes admin podem criar e aplicar perfis.
+>Only admin agents can create and apply profiles.
 
-### <a name="create-a-new-autopilot-profile"></a>Criar um novo perfil do AutoPilot
+### <a name="create-a-new-autopilot-profile"></a>Create a new Autopilot profile
 
-1. Selecione **clientes** no menu do centro de parceiros e, em seguida, selecione o cliente para o qual você está criando o perfil do AutoPilot.
+1. Select **Customers** from the Partner Center menu and then select the customer you're creating the Autopilot profile for.
 
-2. Na página de detalhes do cliente, selecione **dispositivos**.
+2. On the customer's detail page, select **Devices**.
 
-3. Em **perfis do Windows AutoPilot** , selecione **Adicionar novo perfil**.
+3. Under **Windows Autopilot profiles** select **Add new profile**.
 
-4. Insira o nome e a descrição do perfil e defina as configurações do OOBE. Escolha entre:  
+4. Enter the profile's name and description and then configure the OOBE settings. Choose from:  
 
-   - Ignorar as configurações de privacidade na instalação
+   - Skip privacy settings in setup
 
    - Desabilitar a conta de administrador local na instalação
   
    - Ignorar automaticamente as páginas na instalação<br>
-        (Inclui *selecionar automaticamente a instalação para trabalho ou escola* e *ignorar as páginas de configuração de registro do Cortana, onedrive e OEM*)
+        (Includes *Automatically select setup for work or school* and *Skip Cortana, OneDrive, and OEM registration setup pages*)
   
-   - Ignorar contrato de licença de usuário final (EULA)<br> 
+   - Skip end user license agreement (EULA)<br> 
        >[!IMPORTANT] 
-       >Consulte o [contrato de EULA do Windows AutoPilot](#windows-autopilot-eula-dismissal) abaixo para obter informações importantes a serem consideradas para ignorar a página de EULA durante a instalação do Windows.
+       >See [Windows Autopilot EULA dismissal](#windows-autopilot-eula-dismissal) below for important information to consider about skipping the EULA page during Windows setup.
 
 5. Selecione **Enviar** quando terminado.
 
-### <a name="apply-an-autopilot-profile-to-customer-devices"></a>Aplicar um perfil do AutoPilot aos dispositivos do cliente
+### <a name="apply-an-autopilot-profile-to-customer-devices"></a>Apply an Autopilot profile to customer devices
 
 >[!NOTE]
->As instruções a seguir pressupõem que você já adicionou os dispositivos do cliente ao Partner Center e que pode acessar sua lista de dispositivos. Se você ainda não tiver adicionado os dispositivos do cliente, siga as instruções em [Adicionar dispositivos à conta de um cliente](#add-devices-to-a-customers-account) e siga as etapas abaixo.
+>The instructions below assume that you've already added the customer's devices to Partner Center and that you can access their device list. If you haven't already added the customer's devices, follow the instructions in [Add devices to a customer's account](#add-devices-to-a-customers-account) and then follow the steps below.
 
-Depois de criar um perfil de AutoPilot para um cliente, você pode aplicá-lo aos dispositivos do cliente.
+After you create an Autopilot profile for a customer, you can apply it to the customer's devices.
 
-1. Selecione **clientes** no menu do centro de parceiros e, em seguida, selecione o cliente para o qual você criou o perfil do AutoPilot.
+1. Select **Customers** from the Partner Center menu and then select the customer you created the Autopilot profile for.
 
-2. Na página de detalhes do cliente, selecione **dispositivos**.
+2. On the customer's detail page, select **Devices**.
 
-3. Em **aplicar perfis a dispositivos** , selecione os dispositivos ou grupos de dispositivos aos quais você deseja adicionar perfis e, em seguida, selecione **aplicar perfil**. O perfil que você acabou de aplicar aparece na coluna **perfil** .
+3. Under **Apply profiles to devices** select the devices or device groups you want to add profiles to and then select **Apply profile**. The profile you just applied appears in the **Profile** column.
 
-4. Siga as etapas abaixo para verificar se o perfil será aplicado com êxito ao dispositivo.
+4. Follow the steps below to verify that the profile will be applied successfully to the device.
 
-    a.  Conecte um dispositivo à rede e ligue-o.
+    a.  Connect a device to the network and turn it on.
 
     b.  Verifique se aparecem as telas OOBE apropriadas (se existirem).
 
-    c.  Quando o processo OOBE for interrompido, redefina o dispositivo para as configurações padrão de fábrica para prepará-lo para um novo usuário.
+    c.  When the OOBE process stops, reset the device to its factory default settings to prepare it for a new user.
 
-### <a name="remove-an-autopilot-profile-from-a-customers-device"></a>Remover um perfil do AutoPilot do dispositivo de um cliente
+### <a name="remove-an-autopilot-profile-from-a-customers-device"></a>Remove an Autopilot profile from a customer's device
 
-1. Selecione **clientes** no menu do centro de parceiros e, em seguida, selecione o cliente para o qual você criou o perfil do AutoPilot.
+1. Select **Customers** from the Partner Center menu and then select the customer you created the Autopilot profile for.
 
-2. Na página de detalhes do cliente, selecione **dispositivos**.
+2. On the customer's detail page, select **Devices**.
 
-3. Em **aplicar perfis a dispositivos** , selecione os dispositivos dos quais você deseja remover o perfil e, em seguida, selecione **remover Perfil**.
+3. Under **Apply profiles to devices** select the devices you want to remove the profile from and then select **Remove profile**.
 
    >[!NOTE]
-   >A remoção de um perfil de um dispositivo não exclui o perfil da sua lista. Se você quiser excluir um perfil, siga as instruções em [atualizar ou excluir um perfil do AutoPilot](#update-or-delete-an-autopilot-profile).
+   >Removing a profile from a device does not delete the profile from your list. If you want to delete a profile, follow the instructions in [Update or delete an Autopilot profile](#update-or-delete-an-autopilot-profile).
 
-### <a name="update-or-delete-an-autopilot-profile"></a>Atualizar ou excluir um perfil do AutoPilot
+### <a name="update-or-delete-an-autopilot-profile"></a>Update or delete an Autopilot profile
 
-Se um cliente quiser alterar a experiência inicial do usuário depois que você enviou os dispositivos para eles, você poderá alterar o perfil no Partner Center.
+If a customer wants to change the out-of-box experience after you've shipped the devices to them, you can change the profile in Partner Center.
 
-Quando o dispositivo do cliente se conecta à Internet, ele baixa a versão mais recente do perfil durante o processo OOBE. Além disso, sempre que um cliente restaurar um dispositivo para suas configurações padrão de fábrica, o dispositivo baixará novamente a versão mais recente do perfil durante o processo OOBE.
+When the customer's device connects to the internet, it will download the latest profile version during the OOBE process. Also, any time a customer restores a device to its factory default settings, the device will again download the latest profile version during the OOBE process.
 
-1. Selecione **clientes** no menu do Partner Center e, em seguida, selecione o cliente que deseja alterar um perfil do AutoPilot.
+1. Select **Customers** from the Partner Center menu and then select the customer who wants you to change an Autopilot profile.
 
-2. Na página de detalhes do cliente, selecione **dispositivos**.
+2. On the customer's detail page, select **Devices**.
 
-3. Em **perfis do Windows AutoPilot** , selecione o perfil que você precisa atualizar. Faça as alterações necessárias e, em seguida, selecione **Enviar**.
+3. Under **Windows Autopilot profiles** select the profile you need to update. Make the required changes and then select **Submit**.
 
-Para excluir esse perfil, selecione **excluir perfil** no canto superior direito da página.
+To delete this profile, select **Delete profile** from the upper right corner of the page.
 
-### <a name="add-devices-to-a-customers-account"></a>Adicionar dispositivos à conta de um cliente
+### <a name="add-devices-to-a-customers-account"></a>Add devices to a customer's account
 
 >[!NOTE]
->Agentes de vendas e agentes de Administração podem adicionar dispositivos à conta de um cliente.
+>Sales agents and admin agents can add devices to a customer's account.
 
-Antes de aplicar perfis de AutoPilot personalizados a dispositivos de cliente, você deve ser capaz de acessar a lista de dispositivos do cliente.
+Before you can apply custom Autopilot profiles to customer devices, you must be able to access the customer's device list.
 
-Se você planeja usar o nome do OEM, o número de série e a combinação de modelos, esteja atento a essas limitações:
+If you plan to use the OEM name, serial number, and model combination, be aware of these limitations:
 
-- Essa tupla funciona apenas para dispositivos mais recentes (hashes de 4K, por exemplo) e não tem suporte para hashes 128B (RS2 e dispositivos anteriores).
+- This tuple works only for newer devices (4k hashes, for example) and is not supported for 128b hashes (RS2 and prior devices).
 
-- O registro de tupla diferencia maiúsculas de minúsculas e, portanto, os dados no arquivo devem corresponder ao modelo e aos nomes dos fabricantes ***exatamente*** como fornecidos pelo provedor OEM (provedor de hardware).
+- The tuple registration is case sensitive, so the data in the file must match the model and manufacturer names ***exactly*** as provided by the OEM provider (hardware provider).
 
-Siga as instruções abaixo para adicionar dispositivos à conta de um cliente no Partner Center.
+Follow the instructions below to add devices to a customer's account in Partner Center.
 
-1. Selecione **clientes** no menu do centro de parceiros e, em seguida, selecione o cliente cujos dispositivos você deseja gerenciar.
+1. Select **Customers** from the Partner Center menu and then select the customer whose devices you want to manage.
 
-2. Na página de detalhes do cliente, selecione **dispositivos**.
+2. On the customer's detail page, select **Devices**.
 
-3. Em **aplicar perfis a dispositivos** , selecione **Adicionar dispositivos**.
+3. Under **Apply profiles to devices** select **Add devices**.
 
-4. Insira um nome para a lista de dispositivos e, em seguida, selecione **procurar** para carregar a lista do cliente (no formato de arquivo. csv) para o centro de parceiros.
+4. Enter a name for the device list and then select **Browse** to upload the customer's list (in .csv file format) to Partner Center.
 
     >[!NOTE]
-    >Você deve ter recebido esse arquivo. csv com a compra do dispositivo. Se você não recebeu um arquivo. csv, você pode criar um por conta própria seguindo as etapas em [adicionando dispositivos ao Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell).  
+    >You should have received this .csv file with your device purchase. If you didn't receive a .csv file, you can create one yourself by following the steps in [Adding devices to Windows Autopilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell).  
 
-5. Carregue o arquivo. csv e, em seguida, selecione **salvar**.
+5. Upload the .csv file and then select **Save**.
 
-Se você receber uma mensagem de erro ao tentar carregar o arquivo. csv, verifique o formato do arquivo. Você pode usar somente o hash de hardware ou o nome do OEM, o número de série e o modelo (na ordem da coluna) ou a ID do produto do Windows. Você também pode usar o arquivo. csv de exemplo fornecido no link ao lado de **Adicionar dispositivos** para criar uma lista de dispositivos.
+If you get an error message while trying to upload the .csv file, check the format of the file. You can use the hardware hash only, or the OEM name, serial number, and model (in that column order), or the Windows Product ID. You can also use the sample .csv file provided from the link next to **Add devices** to create a device list.
 
-Seu arquivo. csv deve ser semelhante a este:
+Your .csv file should look something like this:
 
-> **Número de série do dispositivo, ID do produto do Windows, hash de hardware, nome do fabricante, modelo do dispositivo**
+> **Device Serial Number,Windows Product ID,Hardware Hash,Manufacturer name,Device model**
 
-> **{serialNumber},,, Microsoft Corporation, laptop Surface**
+> **{serialNumber},,,Microsoft Corporation,Surface Laptop**
 
-Observe que "nome do fabricante" e "modelo do dispositivo" diferenciam maiúsculas de minúsculas.
+Note that "Manufacturer name" and "Device model" are case-sensitive.
 
-Se você não souber qual valor deve ser colocado para o nome do fabricante e o modelo do dispositivo, poderá executá-lo no dispositivo para reunir os valores corretos:
+If you don't know what value to put for Manufacturer name and Device Model, you can run this on the device to gather the correct values:
 
 <pre><code>md c:\\HWID
 
@@ -182,10 +182,10 @@ Install-Script -Name Get-WindowsAutoPilotInfo
 Get-WindowsAutoPilotInfo.ps1 -OutputFile AutoPilotHWID.csv -Partner -Force
 </code></pre>
 
-## <a name="windows-autopilot-eula-dismissal"></a>Descartar EULA do Windows AutoPilot
+## <a name="windows-autopilot-eula-dismissal"></a>Windows Autopilot EULA dismissal
 
-### <a name="important-information"></a>INFORMAÇÕES IMPORTANTES
+### <a name="important-information"></a>IMPORTANT INFORMATION
 
-O Windows Autopilot permite configurar instalações personalizadas do Windows em dispositivos que você gerencia para seus clientes. Se autorizado a fazer isso pelo cliente, você poderá suprimir ou ocultar determinadas telas de configuração que normalmente são apresentadas aos usuários durante a configuração do Windows, incluindo a tela de aceitação do EULA (contrato de licença de usuário final).
+Windows Autopilot allows you to configure customized installations of Windows on devices you manage for your customers. If authorized to do so by the customer, you can suppress or hide certain set-up screens that are normally presented to users when setting up Windows, including the EULA (End User License Agreement) acceptance screen.
 
-Ao usar essa função, você concorda que suprimir ou ocultar todas as telas projetadas para fornecer aos usuários aviso ou aceitação de termos significa que você obteve consentimento e autorização suficientes de seu cliente para ocultar os termos e, em nome de seu cliente (seja uma organização ou um usuário individual como o caso), seja o consentimento de quaisquer avisos e aceite os termos aplicáveis ao cliente. Isso inclui o acordo com os termos e condições da licença ou o aviso que seria apresentado ao usuário caso você não o tenha suprimido ou ocultado usando essa ferramenta. Seu cliente não pode usar o software do Windows nesses dispositivos se o cliente não tiver adquirido de forma válida uma licença para o software da Microsoft ou de seus distribuidores licenciados.
+By using this function, you agree that suppressing or hiding any screens that are designed to provide users with notice or acceptance of terms means that you have obtained sufficient consent and authorization from your customer to hide terms, and that you, on behalf of your customer (whether an organization or an individual user as the case may be), consent to any notices and accept any terms that are applicable to your customer. Isso inclui o acordo com os termos e condições da licença ou o aviso que seria apresentado ao usuário caso você não o tenha suprimido ou ocultado usando essa ferramenta. Seu cliente não pode usar o software do Windows nesses dispositivos se o cliente não tiver adquirido de forma válida uma licença para o software da Microsoft ou de seus distribuidores licenciados.
