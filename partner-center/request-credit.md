@@ -1,70 +1,66 @@
 ---
-title: Solicitar um crédito de SLA da Microsoft | Centro de parceiros
+title: Request an SLA credit from Microsoft | Partner Center
 ms.topic: article
-ms.date: 06/21/2019
+ms.date: 11/21/2019
+description: Request an SLA credit from Microsoft if they experience a service outage.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Se um serviço sofrer uma interrupção, você poderá solicitar um crédito de SLA para o cliente.
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6a04d8e179f48f60c71b2e0e5c723c9d821de797
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a3eb79b78b3edb052d85cc7461d9fd50a115eb43
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651693"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384901"
 ---
-# <a name="request-an-sla-credit-from-microsoft"></a><span data-ttu-id="560e2-103">Solicitar um crédito de SLA da Microsoft</span><span class="sxs-lookup"><span data-stu-id="560e2-103">Request an SLA credit from Microsoft</span></span> 
+# <a name="request-an-sla-credit-from-microsoft"></a><span data-ttu-id="f1648-103">Request an SLA credit from Microsoft</span><span class="sxs-lookup"><span data-stu-id="f1648-103">Request an SLA credit from Microsoft</span></span> 
 
-<span data-ttu-id="560e2-104">Se um serviço que você está fornecendo para seus clientes tiver uma interrupção, você poderá solicitar um crédito da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="560e2-104">If a service you are providing for your customers has an outage, you are able to request a credit from Microsoft.</span></span> <span data-ttu-id="560e2-105">Os créditos de Contrato de Nível de Serviço (SLA) são determinados com base em qual serviço foi afetado (ou seja, se o cliente tem um pacote O365 e apenas o SharePoint estava inativo, o crédito SLA é aprovado somente para o SharePoint, não para todo o plano).</span><span class="sxs-lookup"><span data-stu-id="560e2-105">Service Level Agreement (SLA) credits are determined based on which service was impacted (i.e. if the customer has an O365 suite and only SharePoint was down, the SLA credit is approved for SharePoint only, not for the entire plan).</span></span>
+<span data-ttu-id="f1648-104">You're able to request **service-level agreement (SLA) credits** from Microsoft if a service that you're providing for your customers has an outage.</span><span class="sxs-lookup"><span data-stu-id="f1648-104">You're able to request **service-level agreement (SLA) credits** from Microsoft if a service that you're providing for your customers has an outage.</span></span>
 
-<span data-ttu-id="560e2-106">Os créditos são classificados pelo pro com base no serviço afetado e na duração da interrupção.</span><span class="sxs-lookup"><span data-stu-id="560e2-106">Credits are pro-rated based on the service affected and the duration of the outage.</span></span> <span data-ttu-id="560e2-107">Para ver os tipos de cenários que se qualificam para créditos de SLA, leia o [documento SLA consolidado de serviços online](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37).</span><span class="sxs-lookup"><span data-stu-id="560e2-107">To see the types of scenarios that qualify for SLA credits, read the [Online Services Consolidated SLA document](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37).</span></span> <span data-ttu-id="560e2-108">Essas informações também se aplicam a serviços vendidos por meio do programa provedor de soluções na nuvem.</span><span class="sxs-lookup"><span data-stu-id="560e2-108">This information applies to services sold through the Cloud Solution Provider program, too.</span></span>
+## <a name="sla-credit-calculation"></a><span data-ttu-id="f1648-105">SLA credit calculation</span><span class="sxs-lookup"><span data-stu-id="f1648-105">SLA credit calculation</span></span>
 
->[!Note]
-><span data-ttu-id="560e2-109">**MUITO IMPORTANTE!**</span><span class="sxs-lookup"><span data-stu-id="560e2-109">**VERY IMPORTANT!**</span></span> <span data-ttu-id="560e2-110">O parceiro CSP, o provedor indireto ou o parceiro de cobrança direto (não o cliente final ou o revendedor indireto) deve enviar uma declaração e todas as informações necessárias ao final do mês do calendário após o mês em que o incidente ocorreu.</span><span class="sxs-lookup"><span data-stu-id="560e2-110">The CSP partner, either the indirect provider or the direct bill partner, (not the end customer or the indirect reseller) must submit a claim and all required information by the end of the calendar month following the month in which the incident occurred.</span></span> <span data-ttu-id="560e2-111">Por exemplo, se o incidente ocorreu em 15 de fevereiro, devemos receber a declaração e todas as informações necessárias até 31 de março.</span><span class="sxs-lookup"><span data-stu-id="560e2-111">For example, if the incident occurred on February 15, we must receive the claim and all required information by March 31.</span></span> 
+<span data-ttu-id="f1648-106">SLA credits from Microsoft are determined based on which service(s) were impacted.</span><span class="sxs-lookup"><span data-stu-id="f1648-106">SLA credits from Microsoft are determined based on which service(s) were impacted.</span></span> <span data-ttu-id="f1648-107">For example, if your customer has an Office 365 suite but only experienced a SharePoint outage, the SLA credit is approved only for SharePoint and not the customer's entire plan.</span><span class="sxs-lookup"><span data-stu-id="f1648-107">For example, if your customer has an Office 365 suite but only experienced a SharePoint outage, the SLA credit is approved only for SharePoint and not the customer's entire plan.</span></span>
 
-## <a name="required-information"></a><span data-ttu-id="560e2-112">Informações necessárias</span><span class="sxs-lookup"><span data-stu-id="560e2-112">Required information</span></span>
+<span data-ttu-id="f1648-108">*Credits are pro-rated based on the service affected and the duration of the outage.*</span><span class="sxs-lookup"><span data-stu-id="f1648-108">*Credits are pro-rated based on the service affected and the duration of the outage.*</span></span> <span data-ttu-id="f1648-109">To see the types of scenarios that qualify for SLA credits, see the [Online Services Consolidated SLA document](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37).</span><span class="sxs-lookup"><span data-stu-id="f1648-109">To see the types of scenarios that qualify for SLA credits, see the [Online Services Consolidated SLA document](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37).</span></span> <span data-ttu-id="f1648-110">This information applies to services sold through the Cloud Solution Provider program, too.</span><span class="sxs-lookup"><span data-stu-id="f1648-110">This information applies to services sold through the Cloud Solution Provider program, too.</span></span>
 
+## <a name="request-an-sla-credit"></a><span data-ttu-id="f1648-111">Request an SLA credit</span><span class="sxs-lookup"><span data-stu-id="f1648-111">Request an SLA credit</span></span>
 
-<span data-ttu-id="560e2-113">Para solicitar um crédito de SLA, você precisa fornecer as seguintes informações:</span><span class="sxs-lookup"><span data-stu-id="560e2-113">To request an SLA credit, you need to provide the following information:</span></span> 
+<span data-ttu-id="f1648-112">*The Cloud Solution Provider (CSP) partner must submit the claim and all required information by the end of the calendar month following the month in which the incident occurred.*</span><span class="sxs-lookup"><span data-stu-id="f1648-112">*The Cloud Solution Provider (CSP) partner must submit the claim and all required information by the end of the calendar month following the month in which the incident occurred.*</span></span> <span data-ttu-id="f1648-113">For example, if the incident occurred on February 15th, Microsoft must receive the claim and all required information by March 31st.</span><span class="sxs-lookup"><span data-stu-id="f1648-113">For example, if the incident occurred on February 15th, Microsoft must receive the claim and all required information by March 31st.</span></span> <span data-ttu-id="f1648-114">End customers and indirect resellers can't submit SLA credit claims; either the indirect provider or direct bill partner must submit claims on their behalf.</span><span class="sxs-lookup"><span data-stu-id="f1648-114">End customers and indirect resellers can't submit SLA credit claims; either the indirect provider or direct bill partner must submit claims on their behalf.</span></span>
 
-- <span data-ttu-id="560e2-114">GUID do locatário do cliente:</span><span class="sxs-lookup"><span data-stu-id="560e2-114">Customer tenant GUID:</span></span> 
+### <a name="required-information"></a><span data-ttu-id="f1648-115">Required information</span><span class="sxs-lookup"><span data-stu-id="f1648-115">Required information</span></span>
 
-- <span data-ttu-id="560e2-115">Incidente de interrupção n º: (veja abaixo)</span><span class="sxs-lookup"><span data-stu-id="560e2-115">Outage Incident#: (see below)</span></span>
+<span data-ttu-id="f1648-116">Before you [submit an SLA credit request](#submit-sla-credit-request) to Microsoft, you must gather the following information to include in your support ticket:</span><span class="sxs-lookup"><span data-stu-id="f1648-116">Before you [submit an SLA credit request](#submit-sla-credit-request) to Microsoft, you must gather the following information to include in your support ticket:</span></span>
 
-- <span data-ttu-id="560e2-116">As assinaturas afetadas foram adquiridas por meio do CSP?</span><span class="sxs-lookup"><span data-stu-id="560e2-116">Were the impacted subscriptions purchased via CSP?</span></span> <span data-ttu-id="560e2-117">Sim/Não</span><span class="sxs-lookup"><span data-stu-id="560e2-117">Yes/No</span></span>
+- <span data-ttu-id="f1648-117">The customer tenant's GUID</span><span class="sxs-lookup"><span data-stu-id="f1648-117">The customer tenant's GUID</span></span>
+- <span data-ttu-id="f1648-118">The [outage incident identifier](#outage-incident-identifier)?</span><span class="sxs-lookup"><span data-stu-id="f1648-118">The [outage incident identifier](#outage-incident-identifier)?</span></span>
+- <span data-ttu-id="f1648-119">Were the impacted subscriptions purchased through CSP?</span><span class="sxs-lookup"><span data-stu-id="f1648-119">Were the impacted subscriptions purchased through CSP?</span></span> <span data-ttu-id="f1648-120">(*yes* or *no*)</span><span class="sxs-lookup"><span data-stu-id="f1648-120">(*yes* or *no*)</span></span>
 
-<span data-ttu-id="560e2-118">A ID do incidente de interrupção (como EX25194) é encontrada na página integridade do serviço no centro de administração do Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="560e2-118">The Outage Incident ID (such as EX25194) is found on the Service Health page in the Microsoft 365 admin center.</span></span> <span data-ttu-id="560e2-119">Os números de incidentes são precedidos por uma abreviação de duas letras que indica o serviço afetado, como:</span><span class="sxs-lookup"><span data-stu-id="560e2-119">Incident numbers are preceded with a 2-letter abbreviation that indicates the service affected, such as:</span></span>
+#### <a name="outage-incident-identifier"></a><span data-ttu-id="f1648-121">Outage incident identifier</span><span class="sxs-lookup"><span data-stu-id="f1648-121">Outage incident identifier</span></span>
 
-<span data-ttu-id="560e2-120">EX-Exchange Online</span><span class="sxs-lookup"><span data-stu-id="560e2-120">EX - Exchange Online</span></span>
+<span data-ttu-id="f1648-122">You can find the identifier for the outage incident on the **Service Health** page in the Microsoft 365 admin center.</span><span class="sxs-lookup"><span data-stu-id="f1648-122">You can find the identifier for the outage incident on the **Service Health** page in the Microsoft 365 admin center.</span></span> <span data-ttu-id="f1648-123">The **Outage Incident ID** is a number preceded by a two-letter abbreviation that indicates the affected service (for example, *EX25194* for an Exchange Online outage).</span><span class="sxs-lookup"><span data-stu-id="f1648-123">The **Outage Incident ID** is a number preceded by a two-letter abbreviation that indicates the affected service (for example, *EX25194* for an Exchange Online outage).</span></span> <span data-ttu-id="f1648-124">The follow table describes common service abbreviations:</span><span class="sxs-lookup"><span data-stu-id="f1648-124">The follow table describes common service abbreviations:</span></span>
 
-<span data-ttu-id="560e2-121">FO-Exchange Online Protection</span><span class="sxs-lookup"><span data-stu-id="560e2-121">FO - Exchange Online Protection</span></span>
+| <span data-ttu-id="f1648-125">Two-letter abbreviation</span><span class="sxs-lookup"><span data-stu-id="f1648-125">Two-letter abbreviation</span></span> | <span data-ttu-id="f1648-126">Microsoft service</span><span class="sxs-lookup"><span data-stu-id="f1648-126">Microsoft service</span></span> |
+| ----------------------- | ----------------- |
+| <span data-ttu-id="f1648-127">EX</span><span class="sxs-lookup"><span data-stu-id="f1648-127">EX</span></span> | <span data-ttu-id="f1648-128">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="f1648-128">Exchange Online</span></span> |
+| <span data-ttu-id="f1648-129">FO</span><span class="sxs-lookup"><span data-stu-id="f1648-129">FO</span></span> | <span data-ttu-id="f1648-130">Exchange Online Protection</span><span class="sxs-lookup"><span data-stu-id="f1648-130">Exchange Online Protection</span></span> |
+| <span data-ttu-id="f1648-131">SB</span><span class="sxs-lookup"><span data-stu-id="f1648-131">SB</span></span> | <span data-ttu-id="f1648-132">Skype for Business Online (formerly Lync Online)</span><span class="sxs-lookup"><span data-stu-id="f1648-132">Skype for Business Online (formerly Lync Online)</span></span> |
+| <span data-ttu-id="f1648-133">SO</span><span class="sxs-lookup"><span data-stu-id="f1648-133">OS</span></span> | <span data-ttu-id="f1648-134">Assinatura do Office</span><span class="sxs-lookup"><span data-stu-id="f1648-134">Office Subscription</span></span> |
+| <span data-ttu-id="f1648-135">PB</span><span class="sxs-lookup"><span data-stu-id="f1648-135">PB</span></span> | <span data-ttu-id="f1648-136">Power BI for Office 365</span><span class="sxs-lookup"><span data-stu-id="f1648-136">Power BI for Office 365</span></span> |
+| <span data-ttu-id="f1648-137">SP</span><span class="sxs-lookup"><span data-stu-id="f1648-137">SP</span></span> | <span data-ttu-id="f1648-138">SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="f1648-138">SharePoint Online</span></span> |
+| <span data-ttu-id="f1648-139">YA</span><span class="sxs-lookup"><span data-stu-id="f1648-139">YA</span></span> | <span data-ttu-id="f1648-140">Yammer Enterprise</span><span class="sxs-lookup"><span data-stu-id="f1648-140">Yammer Enterprise</span></span> |
+| <span data-ttu-id="f1648-141">MO</span><span class="sxs-lookup"><span data-stu-id="f1648-141">MO</span></span> | <span data-ttu-id="f1648-142">Portal error</span><span class="sxs-lookup"><span data-stu-id="f1648-142">Portal error</span></span> |
 
-<span data-ttu-id="560e2-122">SB-Skype for Business online (o Lync Online formalmente)</span><span class="sxs-lookup"><span data-stu-id="560e2-122">SB - Skype for Business Online (formally Lync Online)</span></span>
+### <a name="submit-sla-credit-request"></a><span data-ttu-id="f1648-143">Submit SLA credit request</span><span class="sxs-lookup"><span data-stu-id="f1648-143">Submit SLA credit request</span></span>
 
-<span data-ttu-id="560e2-123">Assinatura do sistema operacional-Office</span><span class="sxs-lookup"><span data-stu-id="560e2-123">OS - Office Subscription</span></span>
+<span data-ttu-id="f1648-144">To submit your SLA credit request to Microsoft through the Partner Center dashboard:</span><span class="sxs-lookup"><span data-stu-id="f1648-144">To submit your SLA credit request to Microsoft through the Partner Center dashboard:</span></span>
 
-<span data-ttu-id="560e2-124">PB-Power BI para Office 365</span><span class="sxs-lookup"><span data-stu-id="560e2-124">PB -Power BI for Office 365</span></span>
-
-<span data-ttu-id="560e2-125">SP-SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="560e2-125">SP - SharePoint Online</span></span>
-
-<span data-ttu-id="560e2-126">YA-Yammer Enterprise</span><span class="sxs-lookup"><span data-stu-id="560e2-126">YA - Yammer Enterprise</span></span>
-
-<span data-ttu-id="560e2-127">MO-erro do portal</span><span class="sxs-lookup"><span data-stu-id="560e2-127">MO - Portal Error</span></span>
-
-## <a name="submit-a-request"></a><span data-ttu-id="560e2-128">Enviar uma solicitação</span><span class="sxs-lookup"><span data-stu-id="560e2-128">Submit a request</span></span>
-
-<span data-ttu-id="560e2-129">Envie sua solicitação de crédito no Partner Center.</span><span class="sxs-lookup"><span data-stu-id="560e2-129">Submit your credit request on Partner Center.</span></span>
-
-1. <span data-ttu-id="560e2-130">No painel do Partner Center, selecione **suporte** na barra de navegação à esquerda.</span><span class="sxs-lookup"><span data-stu-id="560e2-130">From your Partner Center dashboard, select **Support** from the left nav.</span></span>
-
-2. <span data-ttu-id="560e2-131">Selecione **solicitações de suporte do parceiro** e, em seguida, selecione **CSP – clientes, pedidos e assinaturas/solicitações de crédito de atendimento ao cliente**.</span><span class="sxs-lookup"><span data-stu-id="560e2-131">Select **Partner support requests** and then select **CSP - customers, orders, and subscriptions/Customer services credit requests**.</span></span>
-
-3. <span data-ttu-id="560e2-132">Envie sua solicitação de crédito de SLA.</span><span class="sxs-lookup"><span data-stu-id="560e2-132">Submit your SLA credit request.</span></span>
-
-
-
-
-
+1. <span data-ttu-id="f1648-145">Sign in to the Partner Center dashboard.</span><span class="sxs-lookup"><span data-stu-id="f1648-145">Sign in to the Partner Center dashboard.</span></span>
+2. <span data-ttu-id="f1648-146">In the left-hand menu, choose **Service requests**, then select **Partner support requests**.</span><span class="sxs-lookup"><span data-stu-id="f1648-146">In the left-hand menu, choose **Service requests**, then select **Partner support requests**.</span></span>
+3. <span data-ttu-id="f1648-147">On the **Partner request** page, choose **New request**.</span><span class="sxs-lookup"><span data-stu-id="f1648-147">On the **Partner request** page, choose **New request**.</span></span>
+4. <span data-ttu-id="f1648-148">On the **Start the request** page, find the section **CSP - customers, orders and subscriptions**.</span><span class="sxs-lookup"><span data-stu-id="f1648-148">On the **Start the request** page, find the section **CSP - customers, orders and subscriptions**.</span></span> <span data-ttu-id="f1648-149">In this section, choose **Select an issue type**, then select **Customer services credit requests**.</span><span class="sxs-lookup"><span data-stu-id="f1648-149">In this section, choose **Select an issue type**, then select **Customer services credit requests**.</span></span>
+5. <span data-ttu-id="f1648-150">On the **Recommended solutions** page, under **Do you need more help?** , choose **Yes**.</span><span class="sxs-lookup"><span data-stu-id="f1648-150">On the **Recommended solutions** page, under **Do you need more help?**, choose **Yes**.</span></span>
+6. <span data-ttu-id="f1648-151">On the **Details** page, fill out the **Issue details** section.</span><span class="sxs-lookup"><span data-stu-id="f1648-151">On the **Details** page, fill out the **Issue details** section.</span></span> <span data-ttu-id="f1648-152">In the **Details** text box, be sure to enter the [required information](#required-information) that you gathered earlier.</span><span class="sxs-lookup"><span data-stu-id="f1648-152">In the **Details** text box, be sure to enter the [required information](#required-information) that you gathered earlier.</span></span>
+7. <span data-ttu-id="f1648-153">Choose **Submit** to send in your SLA credit request.</span><span class="sxs-lookup"><span data-stu-id="f1648-153">Choose **Submit** to send in your SLA credit request.</span></span>
