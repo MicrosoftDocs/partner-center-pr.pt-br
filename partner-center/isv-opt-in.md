@@ -1,40 +1,40 @@
 ---
-title: Ofertas "exclusivas" do Marketplace | Centro de parceiros
+title: Marketplace "exclusive" offers | Partner Center
 ms.topic: article
-ms.date: 11/14/2019
+ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: O ISV pode escolher os parceiros do CSP com os quais trabalhar, tornando suas ofertas exclusivas.
+description: ISV can choose CSP partners to work with by making their offers exclusive.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3e148fa4faacd7ad9a7561e4d073f4d3bcb36401
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: b62a685dcbce5a462b182ad3015e19ae03bb6ce2
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096940"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384770"
 ---
-# <a name="marketplace-exclusive-offers"></a>Ofertas exclusivas do Marketplace
+# <a name="marketplace-exclusive-offers"></a>Marketplace exclusive offers
 
-Os ISVs têm a opção de disponibilizar suas ofertas para um número selecionado de parceiros CSP. Todos os parceiros CSP ainda poderão exibir todas as ofertas de ISV no Marketplace do Partner Center, mas as ofertas marcadas exclusivas só poderão ser adquiridas pelos parceiros que o ISV tiver selecionado. Se uma oferta não for indicada como "exclusiva", todos os parceiros poderão comprá-la.
+ISVs have the option of making their offers available to a select number of CSP partners. All CSP partners will still be able to view all ISV offers in the Partner Center Marketplace but offers marked Exclusive will only be able to be purchased by the partners who the ISV has selected. If an offer is not indicated as “Exclusive” all partners can purchase it.
 
-Os parceiros CSP identificados por ISVs podem:
+CSP partners who are identified by ISVs can:
 
-- Comprar ofertas exclusivas por meio do Partner Center Marketplace
-- Exportar lista de preços
+- Purchase exclusive offers through Partner Center marketplace
+- Export price list
 
-## <a name="how-do-you-gain-access-to-exclusive-offers"></a>Como obter acesso a ofertas exclusivas?
+## <a name="how-do-you-gain-access-to-exclusive-offers"></a>How do you gain access to exclusive offers?
 
-Quando um ISV publica uma oferta no Marketplace, ele tem a oportunidade de indicar quem pode comprá-la. 
+When an ISV publishes an offer on the Marketplace, they have the opportunity to indicate who can purchase it. 
 
-Suas opções são:
+Their options are:
 
-- Todos os parceiros CSP podem comprar
-- Determinar quais parceiros podem comprar
-- Não disponível para parceiros CSP
+- All CSP partners can purchase
+- Determine which partners can purchase
+- Not available to CSP partners
 
-Para saber mais sobre a experiência do ISV no Marketplace, leia [provedores de soluções de nuvem](https://docs.microsoft.com/en-us/azure/marketplace/cloud-solution-providers).
+To learn more about the ISV experience in Marketplace, read [Cloud Solution Providers](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).
 
-Para obter mais informações sobre o Marketplace, leia [visão geral do Marketplace comercial para provedores de soluções de nuvem](https://docs.microsoft.partner-center/commercial-marketplace-overview.md).
+For more information on the Marketplace, read [Commercial marketplace overview for Cloud Solution Providers](https://docs.microsoft.partner-center/commercial-marketplace-overview.md).

@@ -1,0 +1,153 @@
+---
+title: Cenários comuns de cobrança | Partner Center
+ms.topic: article
+ms.date: 11/21/2019
+description: Common billing scenarios in Partner Center for annual billing (such as adding new subscriptions, adding licenses before your billing date, change license quantity, and suspending and reactivating subscriptions).
+ms.assetid: ''
+author: MaggiePucciEvans
+ms.author: evansma
+Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
+ms.localizationpriority: medium
+ms.openlocfilehash: 91b8e318e2122f9510b160339984cc0743c318ee
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.translationtype: MT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74389624"
+---
+# <a name="annual-billing-scenarios"></a>Annual billing scenarios
+
+These example [common billing scenarios](common-billing-scenarios.md) are applicable if you use annual billing in Partner Center.
+
+## <a name="new-annual-subscription"></a>New annual subscription
+
+Sua data de cobrança é no 15º dia de cada mês. Em 13 de janeiro, você compra uma nova assinatura com uma licença por US$4/mês e seleciona a cobrança anual. Em 15 de janeiro, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
+
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço unitário |Quantity |Valor |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13/01/2018|12/01/2019|Taxas proporcionais na compra|48,00|1|48,00
+
+## <a name="add-license-after-subscription-anniversary-date-but-before-billing-date"></a>Add license after subscription anniversary date but before billing date
+
+Você compra uma nova assinatura dia 11/02/17 com uma licença por US$ 211,20/ano. O aniversário da sua assinatura é definido como o dia 11 de cada mês. O sistema de cobrança da Microsoft cria as seguintes linhas de cobrança:
+
+- Cobrança de US$ 211,20 pelo período de 11/02/17 a 10/02/18.
+
+Em 12/02/17, você compra uma segunda licença. Sua data de cobrança é 14/02/17. Os arquivos de fatura e reconciliação são gerados. O arquivo de reconciliação conterá as seguintes linhas de cobrança:
+
+|Data de Início da Cobrança  |Data de Término da Cobrança  |Tipo de Cobrança  |Preço unitário |Quantity | Valor |
+|      :---:   |      :---:   |      :---:   |      :---:   |:---:   |:---:   |
+|11/02/2017 |10/02/2018 |Taxas proporcionais na compra |211,20 |1 | 211,20 |
+
+No aniversário da sua assinatura, 11/03/17, o sistema de cobrança da Microsoft cria as seguintes linhas de cobrança para o aumento de licença em 12/02/17:
+
+- $211.20 credit for period 2/11/17 – 2/10/18.
+- Cobrança proporcional por licença de US$ 0,58 por 1 licença pelo período de 11/02/17 a 11/02/17.
+- Cobrança proporcional por licença de US$ 15,62 por 2 licenças pelo período de 12/02/17 a 10/03/17.
+- Cobrança proporcional por licença de US$ 195,00 por 2 licenças pelo período de 11/03/2017 a 10/02/2018.
+
+Em 11/02/17, você compra um assinatura. Em 12/02/17, você adiciona uma licença. Sua data de cobrança é 14/02/17. Em 11/02/18, sua assinatura é renovada.
+
+A próxima data de cobrança é 14/03/17, e os arquivos de fatura e reconciliação são gerados. O arquivo de reconciliação conterá as seguintes linhas de cobrança:
+
+|Data de Início da Cobrança  |Data de Término da Cobrança  |Tipo de Cobrança  |Preço unitário |Quantity | Valor |
+|      :---:   |      :---:   |      :---:   |      :---:   |:---:   |:---:   |
+|11/02/2017 |10/02/2018 |Proporcional à Instância do Ciclo |-211,20 |1 |-211,20 |
+|11/02/2017 |11/02/2017 |Proporcional à Instância do Ciclo |0,58 |1 |0,58 |
+|12/02/2017 |10/03/2017 |Proporcional à Instância do Ciclo |15,62 |2 |31,25 |
+|11/03/2017 |10/02/2018 |Proporcional à Instância do Ciclo |195,00 |2 |390,00 |
+
+Em 11/02/18, a assinatura será renovada por outro período de 12 meses.
+
+## <a name="change-license-quantity"></a>Change license quantity
+
+Sua data de cobrança é no 15º dia de cada mês. Em 13 de janeiro, você compra uma nova assinatura com uma licença por US$4/mês e seleciona a cobrança anual. Em 15 de janeiro, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
+
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço unitário |Quantity |Valor |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13/01/2018|12/01/2019|Taxas proporcionais na compra|48,00|1|48,00
+
+Em 1º de fevereiro, você aumentará sua quantidade de licença de uma para duas. Em 15 de fevereiro, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
+
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço unitário |Quantity |Valor |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13/01/2018|12/01/2019|Proporcional à Instância do Ciclo|-48,00|1|-48,00
+13/01/2018|31/01/2018|Proporcional à Instância do Ciclo|2,47|1|2,47
+01/02/2018|12/01/2019|Proporcional à Instância do Ciclo|44,98|2|89,96
+
+O preço anual é 48,00, que equivale ao preço diário de 0,13 (48,00/365).
+
+Preço unitário = dias no termo de serviço x preço diário x número de licenças.
+
+Há dias 19 no período de serviço de 13/01/2018 – 31/01/2018.
+
+Portanto, o preço unitário = 2,47 (19 x 0,13 x 1)
+
+Há dias 346 no período de serviço de 01/02/2018 – 12/01/2019.
+
+Portanto, o preço unitário = 44,98 (346 x 0,13 x 2)
+
+## <a name="suspend-before-30-days"></a>Suspend before 30 days
+
+Sua data de cobrança é no 15º dia de cada mês. Em 13 de janeiro, você compra uma nova assinatura com uma licença por US$4/mês e seleciona a cobrança anual. Em 15 de janeiro, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
+
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço unitário |Quantity |Valor |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13/01/2018|12/01/2019|Taxas proporcionais na compra|48,00|1|48,00
+
+Em 1º de fevereiro, você suspende sua assinatura. Em 15 de fevereiro, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
+
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço unitário |Quantity |Valor |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13/01/2018|12/01/2019|Taxa de cancelamento|-48,00|1|-48,00
+
+## <a name="suspend-after-30-days"></a>Suspend after 30 days
+
+Sua data de cobrança é no 15º dia de cada mês. Em 13 de janeiro, você compra uma nova assinatura com uma licença por US$4/mês e seleciona a cobrança anual. Em 15 de janeiro, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
+
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço unitário |Quantity |Valor |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13/01/2018|12/01/2019|Taxas proporcionais na compra|48,00|1|48,00
+
+Em 15 de fevereiro, o arquivo de reconciliação baseado em licenças não conterá nenhuma linha de cobrança para essa assinatura.
+Em 1º de março, você suspende sua assinatura. Em 15 de março, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
+
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço unitário |Quantity |Valor |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+01/03/2018|12/01/2019|Taxa de cancelamento|-41,34|1|-41,34
+
+O preço anual é 48,00, que equivale ao preço diário de 0,13 (48,00/365).
+
+Preço unitário = dias no termo de serviço x preço diário x número de licenças.
+
+Há dias 318 no período de serviço de 01/03/2018 – 12/01/2019.
+
+Portanto, o preço unitário = 41,34 (318 x 0,13 x 1). Como isso é um crédito, o preço unitário é de -41,34.
+
+## <a name="suspend-and-reactivate"></a>Suspend and reactivate
+
+Sua data de cobrança é no 15º dia de cada mês. Em 13 de janeiro, você compra uma nova assinatura com uma licença por US$4/mês e seleciona a cobrança anual. Em 15 de janeiro, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
+
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço unitário |Quantity |Valor |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13/01/2018|12/01/2019|Taxas proporcionais na compra|48,00|1|48,00
+
+Em 1º de fevereiro, você suspende sua assinatura. Em 15 de fevereiro, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
+
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço unitário |Quantity |Valor |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13/01/2018|12/01/2019|Taxa de cancelamento|-48,00|1|-48,00
+
+Em 1º de março, você reativa sua assinatura. Em 15 de março, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
+
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço unitário |Quantity |Valor |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+01/03/2018|12/01/2019|Taxas proporcionais na compra|41,34|1|41,34
+
+O preço anual é 48,00, que equivale ao preço diário de 0,13 (48,00/365).
+
+Preço unitário = dias no termo de serviço x preço diário x número de licenças.
+
+Há dias 318 no período de serviço de 01/03/2018 – 12/01/2019.
+
+Portanto, o preço unitário = 41,34 (318 x 0,13 x 1).

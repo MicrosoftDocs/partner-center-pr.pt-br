@@ -1,7 +1,5 @@
 ---
-title: Verify your partner profile  | Partner Center
-MS.Topic: article
-Date: 08/06/2019
+title: Verifique o perfil do parceiro
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Na primeira vez em que você entrar como um administrador, verifique se os dados de suporte estão corretos, arquive isenções de impostos, se apropriado, e analise as informações de contato em seus perfis.
@@ -9,12 +7,12 @@ ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e30d035cfdcd8f939200af33150dce22a354d360
-ms.sourcegitcommit: 90e44b1453e52fc92d08aaa5904de1a5e6d32f67
+ms.openlocfilehash: eef07d41028039be989b2c3169269b3290c72524
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "74189059"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384781"
 ---
 # <a name="verify-your-partner-profile"></a>Verifique o perfil do parceiro
 

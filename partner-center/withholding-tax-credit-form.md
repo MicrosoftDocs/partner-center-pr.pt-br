@@ -1,78 +1,115 @@
 ---
-title: Verifique se você está creditado na retenção de imposto | Centro de parceiros
+title: Make sure you are credited for withholding tax | Partner Center
 ms.topic: article
-ms.date: 05/28/2019
+ms.date: 11/07/2019
+description: How to make sure your Partner Center account is credited for withholding tax.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Você precisará do formulário de crédito de imposto sobre retenção e do certificado de retenção de imposto para abrir uma solicitação de serviço.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: LauraBrenner
 ms.author: labrenne
-keywords: crédito de retenção de imposto, créditos de impostos, formulário de crédito de imposto alemão, crédito de imposto de formulário
+keywords: withholding tax credit, tax credits, german tax credit form, form tax credit
 ms.localizationpriority: medium
-ms.openlocfilehash: 654e4f32be1e86ce455c7d0409469bab37473f8b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8f25c570f8a71a261e815891545acf48e0a8fe08
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653945"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384860"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Verifique se você está creditado para a retenção de imposto
+# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Make sure you are credited for withholding tax
 
->[!Note]
->Este tópico aborda como abrir uma solicitação de serviço usando o formulário de imposto de retenção global ou o formulário de imposto de retenção para a Alemanha.
+Aplica-se a:
 
-Para que sua conta seja creditada para a retenção de imposto, você precisará concluir o formulário de crédito da retenção de imposto. O formulário fornece à Microsoft a fatura, o valor pago à Microsoft, o valor da retenção de imposto, a porcentagem de retenção de imposto, o tipo de pagamento e a empresa que foi paga se for diferente da Microsoft.  
+- Partner Center
 
-## <a name="global-withholding-tax-credit-form"></a>Formulário de crédito de imposto retido na fonte global
+This topic explains how to make sure that you are credited for withholding tax in Partner Center. It explains how to open a service request using the global withholding tax form or the withholding tax form for Germany.
 
-Preencha esse [formulário](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311) completamente e inclua-o junto com a cópia digital do seu certificado de retenção de imposto que você recebeu de sua agência de impostos local ao enviar sua solicitação no Partner Center.
->[!IMPORTANT]
->O total no certificado de retenção de imposto deve corresponder aos detalhes de suporte no formulário de crédito da retenção de imposto. Sua conta não será creditada a menos que recebamos esse formulário junto com a cópia digital do certificado de imposto retido na fonte.
+> [!IMPORTANT]
+> Microsoft must receive your **withholding tax credit form** and a copy of your **withholding tax certificate** for your account to be credited for withholding tax.
 
-### <a name="before-opening-the-service-request"></a>Antes de abrir a solicitação de serviço:
+## <a name="withholding-tax-credit-form"></a>Withholding tax credit form
 
-- Verifique se o formulário inclui o nome e o país da sua empresa, o número do certificado da retenção de imposto e se o formulário está assinado e com data de precisão. Aqui estão os formulários de crédito tributário: para a [Alemanha](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) e [todos os outros países](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311).
+- Ensure the form includes your company name and country, the withholding tax certificate number, and the form is signed and dated accurately. Here are the tax credit forms: For [Germany](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) and [All other countries](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311).
 
-- Registre com precisão o valor de imposto retido na fonte adequado com base nas informações de sua autoridade de imposto local.
+The withholding tax credit form provides Microsoft with the following information:
 
-- Certifique-se de que o valor total no formulário de crédito fiscal corresponda aos totais das notas fiscais que você está enviando. 
+- Invoice(s)
+- Amount paid to Microsoft
+- Valor da retenção de impostos
+- Withholding tax percentage
+- Type of payment
+- Company that was paid (if other than Microsoft)
 
-- Quando você tiver essas informações prontas, crie a solicitação de serviço.
+- Once you have this information ready, create the service request.
 
-## <a name="cloud-solution-provider-partners"></a>Parceiros do provedor de soluções na nuvem
+You'll need to fill out your **withholding tax credit form** before creating your support request. You will include this form with your support request.
 
->[!Note]
->Essas informações são apenas para parceiros de cobrança direta e provedores indiretos. Revendedores indiretos devem funcionar por meio de seus provedores indiretos.
+Fill out the appropriate form for your country or region:
 
-### <a name="how-to-submit-the-tax-credit-form-and-the-certificates"></a>Como enviar o formulário de crédito fiscal e os certificados
+- [**Global withholding tax credit form**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311) (all countries, excluding Germany)
+- [**Germany withholding tax credit form**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo)
 
-1. Selecione o **ponto de interrogação** **(?)** no canto direito uppor do seu painel no Partner Center.
+Make sure that your form is accurate before submitting it to Microsoft:
 
-2. Selecione **CSP**.
+1. Select the **question mark** **(?)** in the uppor right corner of your dashboard in Partner Center.
 
-3. Em **CSP-cobrança e pagamentos**, selecione o tipo de problema- **retenção de imposto** e selecione **Sim**. 
+2. Select **CSP**.
 
-4. Ao enviar a solicitação de serviço, lembre-se de anexar o formulário de crédito fiscal e as cópias digitais dos certificados de imposto.
+3. Under **CSP - billing and payments**, select the issue type - **Withholding tax** and select **Yes**. 
 
-5. Se você estiver enviando um certificado de imposto que não esteja em inglês por meio de uma solicitação de serviço em inglês, uma tradução do certificado de imposto será necessária.
+4. When you submit the service request be sure to attach the tax credit form and digital copies of the tax certificates.
 
-6. Entraremos em contato com você diretamente por email ou telefone.
+5. If you are submitting a non-English tax certificate via an English service request, a translation of the tax certificate is required.
 
-Usando o método de pagamento de pagamento de **Nota Fiscal** , depois que os certificados de imposto são recebidos e validados com êxito, o saldo restante em sua fatura será limpo em aproximadamente uma semana. 
+6. We will contact you directly by email or phone.
 
-Os certificados de imposto devem ser apenas para faturas da Microsoft. Se houver outras empresas incluídas nos certificados, especifique o valor para que possamos excluí-lo em nosso processamento interno, mas ainda assim tenha visibilidade total sobre o que o total de certificados inclui. 
+- Include your **company name** and **country** on the form.
+- Accurate **sign** and **date** the form.
+- Record the proper **withholding tax amount percentage** on the form, based on your local tax authority's information.
+- Make sure that the **total amount** on the form matches the totals from the invoices you are submitting.
 
-## <a name="instructions-for-completing-the-withholding-tax-credit-form-for-germany"></a>Instruções para concluir o formulário de crédito de retenção de imposto para a Alemanha
+## <a name="include-withholding-tax-certificates"></a>Include withholding tax certificates
 
-Preencha o [formulário de crédito da retenção de imposto](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) por completo e envie-o junto com a cópia digitalizada do certificado de retenção de imposto após o envio de sua solicitação no Partner Center ou no portal do Azure/O365/CRM/Intune. 
+The tax certificates should be for Microsoft invoices only. If there are other companies included in the certificates, please specify the amount so that we can exclude it in our internal processing, but still have full visibility to what the total certificates include. 
 
-Além disso, envie o Hardcopies dos certificados de retenção de imposto para:
+You'll need to include a **digital copy** of your **withholding tax certificates** along with your support request. You received this certificate from your local tax agency when you submitted your request in Partner Center.
 
-ATTN: equipe de impostos do EOC Marianne Gannon
+The total in the withholding tax certificate must match the supporting detail in the withholding tax credit form.
 
-Centro de operações da EMEA da Microsoft
+Fill out the [withholding tax credit form](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) completely and send it along with the scanned copy of the Withholding Tax Certificate upon submission of your request in Partner Center or your Azure/O365/CRM/Intune Portal. 
 
-Um local da Microsoft, parque de negócios do condado do Sul
+If you are submitting a **non-English language tax certificate** through an **English language service request**, you must include a **translation** of the tax certificate.
 
-Leopardstown, Dublin 18, Irlanda
+The tax certificates should be for **Microsoft invoices only**. If you have **other companies** that the certificates include, specify the amount such that we can exclude the amount in our internal processing, but still have full visibility to what the total certificates include.
+
+## <a name="create-a-service-request"></a>Create a service request
+
+The following information applies *only* to partners in the **Cloud Solution Provider (CSP) program**. These include only **direct bill partners** and **indirect providers**. **Indirect resellers** must work with their **indirect providers** instead.
+
+1. Sign in to the dashboard in Partner Center.
+2. On the left-hand menu in the dashboard, choose **Support**, then select **Partner support requests**.
+3. Choose **New request**.
+4. On the **Start the request** page, under **CSP - billing and payments**, choose **Select an issue type**. Select **withholding tax** as your issue type.
+5. On the **Recommended solutions** page, review the information. Then, under **Do you need more help?** , choose **Yes**.
+6. On the **Details** page, fill out all required fields under **Issue details**.
+7. Upload your [**withholding tax credit form**](#withholding-tax-credit-form) using the last field in the form.
+8. Upload your [**withholding tax certificate**](#include-withholding-tax-certificates) and, if applicable, a translation of the certificate.
+9. Choose **Submit** to send in your support request. Microsoft will then contact you directly by email or phone. 
+10. If you are in **Germany**, see [special instructions for Germany](#germany-tax-withholding) to mail in mandatory **hard copies** of your withholding tax certificate.
+
+Using the **invoice-pay payment** method, once tax certificates are received and validated successfully, the remaining balance on your invoice will clear in approximately one week.
+
+After your tax certificates are received and validated successfully by Microsoft, use the **invoice-pay payment** method. The remaining balance on your invoice will clear in approximately one week.
+
+## <a name="germany-tax-withholding"></a>Germany tax withholding
+
+For Germany *only*, follow the same normal steps to:
+
+1. [Fill out your Germany withholding tax credit form](#withholding-tax-credit-form)
+2. [Include your withholding tax certificates](#include-withholding-tax-certificates)
+3. [Create a Partner Center support request](#create-a-service-request) with the withholding tax credit form and withholding tax certificates attached.
+
+Then, mail hard copies of your withholding tax certificates to the following address:
+
+> ATTN: EOC Tax Team Marianne Gannon Microsoft EMEA Operations Centre One Microsoft Place, South County Business Park Leopardstown, Dublin 18, Ireland

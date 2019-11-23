@@ -4,55 +4,55 @@ ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como adicionar um novo registro de cliente no Partner Center. Em seguida, você pode vender as assinaturas de cliente, gerenciar a cobrança ou fornecer suporte ao cliente.
+description: Learn how to add a new customer record in Partner Center. Then, you can sell the customer subscriptions, manage billing, or provide customer support.
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: cliente, adicionar cliente, conta do cliente, conta do cliente no Partner Center, clientes, adicionar clientes, criar conta do cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 8452bc7040eab835bc5d068d0595bce48f8d2c0a
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 5eab35aa23934b35320d9067bf305ce306e9c141
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253145"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384611"
 ---
-# <a name="add-a-new-customer"></a>Adicione um novo cliente
+# <a name="add-a-new-customer"></a>Adicionar um novo cliente
 
 **Aplica-se a**
 
 -  Partner Center
--  Partner Center para Microsoft Cloud for US Government
+-  Partner Center do Microsoft Cloud for US Government
 
-Antes de poder vender assinaturas, gerenciar a cobrança ou fornecer suporte a um cliente, você precisa adicioná-las à sua lista de clientes no Partner Center.
+Before you can sell subscriptions, manage billing, or provide support to a customer, you need to add them to your list of customers in Partner  Center.
 
 >[!NOTE]
->Para clientes existentes, incluindo aqueles que já têm registros de clientes no Partner Center por meio de um cenário de [vários canais](multichannel.md) ou [multiparceiro](multipartner.md) , você pode [solicitar uma relação com eles](request-a-relationship-with-a-customer.md), em vez de seguir as etapas aqui.
+>For existing customers, including those who already have customer records in Partner Center through a [multi-channel](multichannel.md) or [Multipartner](multipartner.md) scenario, you can [Request a relationship with them](request-a-relationship-with-a-customer.md), instead of following the steps here.
 
-### <a name="to-add-a-new-customer-in-partner-center"></a>Para adicionar um novo cliente no Partner Center
+### <a name="to-add-a-new-customer-in-partner-center"></a>To add a new customer in Partner Center
 
-1. Selecione **clientes** no menu do centro de parceiros e, em seguida, selecione **Adicionar cliente**.
+1. Select **Customers** from the Partner Center menu, and then select **Add customer**.
 
-2. Na página **informações da conta** , insira os detalhes do cliente e as informações de contato principal e verifique se o cliente aceitou e assinou o [contrato de Microsoft Cloud](agreements.md)mais recente.
+2. On the **Account info** page, enter the customer's details and primary contact information and verify that the customer has accepted and signed the latest [Microsoft Cloud Agreement](agreements.md).
 
 >[!IMPORTANT] 
-> Em 1º de outubro de 2019, a Microsoft introduziu o **contrato do cliente da Microsoft** para o programa CSP para substituir o contrato de Microsoft Cloud. Para facilitar a migração dos parceiros para o novo contrato, haverá suporte para o Contrato do Microsoft Cloud atual no programa CSP até 31 de janeiro de 2020. Leia sobre o [contrato do cliente da Microsoft e como confirmar o consentimento](confirm-customer-consent.md)
+> On October 1st, 2019, Microsoft introduced the **Microsoft Customer Agreement** to the CSP program to replace the Microsoft Cloud Agreement. Para facilitar a migração dos parceiros para o novo contrato, haverá suporte para o Contrato do Microsoft Cloud atual no programa CSP até 31 de janeiro de 2020. Read about the [Microsoft Customer Agreement and how to confirm consent](confirm-customer-agreement.md)
   
-3. Se você for um provedor indireto, selecione o revendedor indireto que você deseja associar às assinaturas deste cliente na lista.
+3. If you're an indirect provider, select the indirect reseller you want to associate with this customer's subscriptions from the list.
 
-4. Selecione **Avançar: assinaturas** quando terminar de inserir todas as informações necessárias.
+4. Select **Next: Subscriptions** when you're finished entering all required information.
 
-5. Na página **assinaturas** , selecione as ofertas que seu cliente deseja comprar de você, insira o número de licenças e, em seguida, selecione **Avançar: revisão**.
+5. On the **Subscriptions** page, select the offer(s) your customer wants to buy from you, enter the number of licenses, and then select **Next: Review**.
 
-6. Na página **revisão** , verifique a precisão das entradas e, em seguida, selecione **Enviar** se as informações estiverem corretas.
+6. On the **Review** page, check your entries for accuracy and then select **Submit** if the information is correct.
 
     >[!NOTE]
-    >Se precisar alterar os detalhes do cliente, selecione **Atualizar** na seção **informações da conta** . Se você precisar alterar as ofertas selecionadas, selecione **Atualizar** na seção **assinaturas** .
+    >If you need to change any customer details, select **Update** in the **Account info** section. If you need to change the offers you selected, select **Update** in the **Subscriptions** section.
 
-7. Selecione **concluído** quando tiver terminado de adicionar as informações do cliente e comprado as assinaturas necessárias.
+7. Select **Done** when you've finished adding the customer information and purchased the required subscriptions.
 
 ## <a name="see-also"></a>Consulte também
 
-- Consulte [ofertas de parceiros no programa do provedor de soluções na nuvem](csp-offers.md) para obter mais informações sobre o que você pode vender aos clientes por meio do programa provedor de soluções na nuvem.
+- See [Partner offers in the Cloud Solution Provider program](csp-offers.md) for more information about what you can sell to customers through the Cloud Solution Provider program.
 
-- Consulte [conectar-se com clientes](customer-accounts.md) para obter mais informações sobre como associar um novo cliente à sua conta de parceiro no Partner Center.
+- See [Connect with customers](customer-accounts.md) for more information about associating a new customer to your partner account in Partner Center.

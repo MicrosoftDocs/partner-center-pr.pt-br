@@ -1,70 +1,66 @@
 ---
-title: Solicitar um crédito de SLA da Microsoft | Centro de parceiros
+title: Request an SLA credit from Microsoft | Partner Center
 ms.topic: article
-ms.date: 06/21/2019
+ms.date: 11/21/2019
+description: Request an SLA credit from Microsoft if they experience a service outage.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Se um serviço sofrer uma interrupção, você poderá solicitar um crédito de SLA para o cliente.
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6a04d8e179f48f60c71b2e0e5c723c9d821de797
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a3eb79b78b3edb052d85cc7461d9fd50a115eb43
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651693"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384901"
 ---
-# <a name="request-an-sla-credit-from-microsoft"></a>Solicitar um crédito de SLA da Microsoft 
+# <a name="request-an-sla-credit-from-microsoft"></a>Request an SLA credit from Microsoft 
 
-Se um serviço que você está fornecendo para seus clientes tiver uma interrupção, você poderá solicitar um crédito da Microsoft. Os créditos de Contrato de Nível de Serviço (SLA) são determinados com base em qual serviço foi afetado (ou seja, se o cliente tem um pacote O365 e apenas o SharePoint estava inativo, o crédito SLA é aprovado somente para o SharePoint, não para todo o plano).
+You're able to request **service-level agreement (SLA) credits** from Microsoft if a service that you're providing for your customers has an outage.
 
-Os créditos são classificados pelo pro com base no serviço afetado e na duração da interrupção. Para ver os tipos de cenários que se qualificam para créditos de SLA, leia o [documento SLA consolidado de serviços online](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37). Essas informações também se aplicam a serviços vendidos por meio do programa provedor de soluções na nuvem.
+## <a name="sla-credit-calculation"></a>SLA credit calculation
 
->[!Note]
->**MUITO IMPORTANTE!** O parceiro CSP, o provedor indireto ou o parceiro de cobrança direto (não o cliente final ou o revendedor indireto) deve enviar uma declaração e todas as informações necessárias ao final do mês do calendário após o mês em que o incidente ocorreu. Por exemplo, se o incidente ocorreu em 15 de fevereiro, devemos receber a declaração e todas as informações necessárias até 31 de março. 
+SLA credits from Microsoft are determined based on which service(s) were impacted. For example, if your customer has an Office 365 suite but only experienced a SharePoint outage, the SLA credit is approved only for SharePoint and not the customer's entire plan.
 
-## <a name="required-information"></a>Informações necessárias
+*Credits are pro-rated based on the service affected and the duration of the outage.* To see the types of scenarios that qualify for SLA credits, see the [Online Services Consolidated SLA document](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37). This information applies to services sold through the Cloud Solution Provider program, too.
 
+## <a name="request-an-sla-credit"></a>Request an SLA credit
 
-Para solicitar um crédito de SLA, você precisa fornecer as seguintes informações: 
+*The Cloud Solution Provider (CSP) partner must submit the claim and all required information by the end of the calendar month following the month in which the incident occurred.* For example, if the incident occurred on February 15th, Microsoft must receive the claim and all required information by March 31st. End customers and indirect resellers can't submit SLA credit claims; either the indirect provider or direct bill partner must submit claims on their behalf.
 
-- GUID do locatário do cliente: 
+### <a name="required-information"></a>Required information
 
-- Incidente de interrupção n º: (veja abaixo)
+Before you [submit an SLA credit request](#submit-sla-credit-request) to Microsoft, you must gather the following information to include in your support ticket:
 
-- As assinaturas afetadas foram adquiridas por meio do CSP? Sim/Não
+- The customer tenant's GUID
+- The [outage incident identifier](#outage-incident-identifier)?
+- Were the impacted subscriptions purchased through CSP? (*yes* or *no*)
 
-A ID do incidente de interrupção (como EX25194) é encontrada na página integridade do serviço no centro de administração do Microsoft 365. Os números de incidentes são precedidos por uma abreviação de duas letras que indica o serviço afetado, como:
+#### <a name="outage-incident-identifier"></a>Outage incident identifier
 
-EX-Exchange Online
+You can find the identifier for the outage incident on the **Service Health** page in the Microsoft 365 admin center. The **Outage Incident ID** is a number preceded by a two-letter abbreviation that indicates the affected service (for example, *EX25194* for an Exchange Online outage). The follow table describes common service abbreviations:
 
-FO-Exchange Online Protection
+| Two-letter abbreviation | Microsoft service |
+| ----------------------- | ----------------- |
+| EX | Exchange Online |
+| FO | Exchange Online Protection |
+| SB | Skype for Business Online (formerly Lync Online) |
+| SO | Assinatura do Office |
+| PB | Power BI for Office 365 |
+| SP | SharePoint Online |
+| YA | Yammer Enterprise |
+| MO | Portal error |
 
-SB-Skype for Business online (o Lync Online formalmente)
+### <a name="submit-sla-credit-request"></a>Submit SLA credit request
 
-Assinatura do sistema operacional-Office
+To submit your SLA credit request to Microsoft through the Partner Center dashboard:
 
-PB-Power BI para Office 365
-
-SP-SharePoint Online
-
-YA-Yammer Enterprise
-
-MO-erro do portal
-
-## <a name="submit-a-request"></a>Enviar uma solicitação
-
-Envie sua solicitação de crédito no Partner Center.
-
-1. No painel do Partner Center, selecione **suporte** na barra de navegação à esquerda.
-
-2. Selecione **solicitações de suporte do parceiro** e, em seguida, selecione **CSP – clientes, pedidos e assinaturas/solicitações de crédito de atendimento ao cliente**.
-
-3. Envie sua solicitação de crédito de SLA.
-
-
-
-
-
+1. Sign in to the Partner Center dashboard.
+2. In the left-hand menu, choose **Service requests**, then select **Partner support requests**.
+3. On the **Partner request** page, choose **New request**.
+4. On the **Start the request** page, find the section **CSP - customers, orders and subscriptions**. In this section, choose **Select an issue type**, then select **Customer services credit requests**.
+5. On the **Recommended solutions** page, under **Do you need more help?** , choose **Yes**.
+6. On the **Details** page, fill out the **Issue details** section. In the **Details** text box, be sure to enter the [required information](#required-information) that you gathered earlier.
+7. Choose **Submit** to send in your SLA credit request.
