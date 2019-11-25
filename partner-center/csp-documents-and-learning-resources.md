@@ -9,13 +9,13 @@ ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: guias de programa csp, guia de programa, acordos de parceria, contrato do cliente, listas de preço, ofertas
-ms.localizationpriority: medium
-ms.openlocfilehash: 6463c7c87773a281f455de9ef00deecc300ac830
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: 06bcbea6068a3185f097b5db6b50f30dfd85f7c7
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653565"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096515"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Contratos, listas de preços, ofertas e guia de programa do Provedor de Soluções na Nuvem
 
@@ -36,9 +36,9 @@ Examine os requisitos para se tornar um parceiro no programa de Provedor de Solu
 >[!Note]
 >Se você precisar de uma carta de negócios confirmando ou certificando seu status como um parceiro da Microsoft aprovado no programa de Provedor de Soluções na Nuvem, [entre em contato com o suporte](https://partner.microsoft.com/pcv/servicerequests/create) para solicitar um.
 
-### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Termos de oferta adicionais para o contrato de parceiro da Microsoft
+### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Termos de oferta adicionais do Contrato de Parceiro da Microsoft
 
-[Guia de termos de oferta complementar para assinaturas de serviços online e autorização de canal de software](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
+[Guia de termos de oferta complementares para assinaturas do Online Services e autorização de canal de software](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Contrato da Microsoft Cloud: modelos de cliente
 
