@@ -17,7 +17,7 @@ ms.contentlocale: pt-BR
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253176"
 ---
-# <a name="add-multiple-users-to-a-customer-account"></a>Adicionar vários usuários a uma conta do cliente
+# <a name="add-multiple-users-to-a-customer-account"></a>Adicionar vários usuários a uma conta de cliente
 
 **Aplica-se a**
 
@@ -43,7 +43,7 @@ Insira os seguintes dados no arquivo de dados:
 | **Nome da coluna** | **Descrição**                                                              | **Limitação**                             |
 | Nome      | Nome do usuário (campo opcional)                                           | Limite de 50 caracteres                         |
 | Sobrenome       | Sobrenome do usuário (campo opcional)                                            | Limite de 50 caracteres                         |
-| Nome de exibição    | Nome exibido no Partner Center (campo obrigatório)                            | Limite de 50 caracteres                         |
+| Display name    | Nome exibido no Partner Center (campo obrigatório)                            | Limite de 50 caracteres                         |
 | Email           | Endereço de email comercial do usuário na empresa do cliente (campo obrigatório)           | Cada usuário deve ter um endereço de email exclusivo |
 | Atualização de status   | Usado para indicar se o novo registro de usuário foi ou não criado com êxito | \*\*deixar vazio\*\*                        |
 

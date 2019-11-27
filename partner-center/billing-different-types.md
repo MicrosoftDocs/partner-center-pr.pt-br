@@ -1,10 +1,10 @@
 ---
-title: Types of billing in Partner Center | Partner Center
+title: Tipos de cobrança no Partner Center | Centro de parceiros
 ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Learn about different billing types, billing periods, and billing dates you might see in Partner Center.
+Description: Saiba mais sobre diferentes tipos de cobrança, períodos de cobrança e datas de cobrança que você pode ver no Partner Center.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: cobrança, pagamentos, pedidos, arquivos de reconciliação, arquivo de reconhecimento
@@ -17,20 +17,20 @@ ms.contentlocale: pt-BR
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384849"
 ---
-# <a name="types-of-billing-in-partner-center"></a>Types of billing in Partner Center
+# <a name="types-of-billing-in-partner-center"></a>Tipos de cobrança no Partner Center
 
 Aplica-se a:
 
 - Partner Center
 - Parceiros no programa CSP
 
-You'll be billed for Partner Center purchases depending on the products, solutions and services you buy on behalf of your customers. The types of billing are as follows:
+Você será cobrado pelas compras do Partner Center dependendo dos produtos, das soluções e dos serviços que você comprar em nome dos seus clientes. Os tipos de cobrança são os seguintes:
 
-- [**License-based billing**](license-based-billing.md), where you're billed per license (not by license usage).
-- [**Usage-based billing**](usage-based-billing.md), where you're billed for monthly usage rates.
-- [**Billing for one-time and select recurring charges**](one-time-and-recurring-billing.md), where you pay in advance for a preset term for Microsoft and third-party ISV products.
-- Billing for license-based SaaS transactions (see [**common billing scenarios for SaaS charges**](common-billing-scenarios-saas.md)).
+- [**Cobrança baseada em licença**](license-based-billing.md), em que você será cobrado por licença (não por uso de licença).
+- [**Cobrança baseada em uso**](usage-based-billing.md), em que você será cobrado por taxas de uso mensais.
+- [**Cobrança por uma única vez e selecionar encargos recorrentes**](one-time-and-recurring-billing.md), nos quais você paga com antecedência por um termo predefinido para produtos de ISV da Microsoft e de terceiros.
+- Cobrança de transações SaaS baseadas em licenças (consulte [**cenários comuns de cobrança para encargos de SaaS**](common-billing-scenarios-saas.md)).
 
 Dependendo dos tipos de produtos que você compra para seus clientes, poderá haver diferentes períodos de cobrança e esta poderá ser efetuada em diferentes dias do mesmo mês.
 
-If you’ve chosen to be billed monthly or if you’ve bought usage-based products that are billed monthly, your monthly billing date is the day of the month you selected when you created your CSP account on Partner Center. After you’ve successfully created your CSP account, Microsoft will send a confirmation email that includes your billing date. Once created, this date cannot be changed.
+Se você optou por ser cobrado mensalmente ou se comprou produtos com base no uso que são cobrados mensalmente, sua data de cobrança mensal é o dia do mês que você selecionou quando criou sua conta do CSP no Partner Center. Depois de criar com êxito sua conta do CSP, a Microsoft enviará um email de confirmação que inclui a data de cobrança. Depois de criada, essa data não pode ser alterada.

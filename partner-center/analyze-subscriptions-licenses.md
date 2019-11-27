@@ -18,7 +18,7 @@ ms.contentlocale: pt-BR
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253366"
 ---
-# <a name="analyze-subscriptions-and-licenses"></a>Analisar assinaturas e licenças 
+# <a name="analyze-subscriptions-and-licenses"></a>Analisar as assinaturas e as licenças 
 
 **Aplica-se a**
 

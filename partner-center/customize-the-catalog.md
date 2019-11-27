@@ -21,7 +21,7 @@ ms.locfileid: "74252122"
 **Aplica-se a**
 
 -  Partner Center
--  Partner Center para Microsoft Cloud for US Government
+-  Partner Center do Microsoft Cloud for US Government
 
 
 O catálogo lista os produtos e os complementos da Microsoft disponíveis para você oferecer aos clientes. Essas ofertas são agrupadas por segmentos de clientes, incluindo empresas, pequenas empresas ou governo. Para facilitar o acesso às ofertas que sua organização mais usa ou para mostrar novas ofertas para seus agentes de vendas, você pode fixar até cinco ofertas na parte superior da lista de catálogos.

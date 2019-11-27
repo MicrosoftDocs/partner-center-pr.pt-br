@@ -7,7 +7,7 @@ ms.subservice: partnercenter-csp
 description: Como um parceiro qualificado da Microsoft, você pode comercializar com a Microsoft. Saiba como definir compromissos, convidar a Microsoft para colaborar ou exibir compromissos enviados.
 author: JnHs
 ms.author: jenhayes
-keywords: referência, RFI, localizar um parceiro
+keywords: indicação, RFI, localizar um parceiro
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: ce7fe09c57729517c9ecae124cdcb68e2ea84628

@@ -4,11 +4,11 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to sell your customers subscriptions to products in the catalog after you have created a customer record in Partner Center.
+description: Saiba como vender suas assinaturas de clientes para produtos no catálogo depois de ter criado um registro de cliente no Partner Center.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
-Keywords: subscription, create new, add subscription, suspend, cancel, suspension, suspend, SaaS, license, ISV, third party
+Keywords: assinatura, criar novo, adicionar assinatura, suspender, cancelar, suspensão, suspender, SaaS, licença, ISV, terceiros
 ms.localizationpriority: medium
 ms.openlocfilehash: d829ba7ee520cab42ec5985ac2156ddff60d8e99
 ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
@@ -25,134 +25,134 @@ ms.locfileid: "74253454"
 -  Partner Center do Microsoft Cloud for US Government
 -  Parceiros CSP
 
-**Appropriate roles**
+**Funções apropriadas**
 
 - Administração global
-- Agente administrativo
+- Agente administrador
 
-Depois de criar um registro de seu cliente no Partner Center, você pode vender as assinaturas para os produtos no catálogo. This includes products published by Microsoft as well as Software as a Service (SaaS) products published by third-party Independent Software Vendors (ISVs) to the [commercial marketplace](https://azuremarketplace.microsoft.com/marketplace). 
+Depois de criar um registro de seu cliente no Partner Center, você pode vender as assinaturas para os produtos no catálogo. Isso inclui produtos publicados pela Microsoft, bem como produtos SaaS (software como serviço) publicados por ISVs (fornecedores de software independentes) de terceiros no [mercado comercial](https://azuremarketplace.microsoft.com/marketplace). 
 
 Note que algumas ofertas são limitadas a uma assinatura por cliente. Para ver uma lista das ofertas restritas, visite a página Ofertas e Preços do Partner Center.
 
 >[!IMPORTANT]
-As a partner in the CSP program, you can only purchase **license-based** SaaS subscriptions from ISV publishers within Partner Center. This means you can purchase any **license-based** SaaS offer the ISV publisher has made available to you, including [exclusive offers](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) to which you have access. To purchase or manage other, commercial marketplace offers from ISVs (such as **usage-based**, metered or consumption-based offers involving Azure applications, Containers or VMs), you must go to the [Azure management portal](https://portal.azure.com/). For more information, see [Purchase commercial marketplace products](csp-commercial-marketplace-purchase.md).
+Como um parceiro no programa CSP, você só pode comprar assinaturas SaaS **baseadas em licença** de editores ISV no Partner Center. Isso significa que você pode comprar qualquer oferta de SaaS **baseada em licença** que o editor ISV disponibilizou para você, incluindo [ofertas exclusivas](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) às quais você tem acesso. Para comprar ou gerenciar outras ofertas de Marketplace comercial de ISVs (como ofertas baseadas em **uso**, limitada ou de consumo que envolvem aplicativos, contêineres ou VMS do Azure), você deve acessar o [portal de gerenciamento do Azure](https://portal.azure.com/). Para obter mais informações, consulte [comprar produtos comerciais do Marketplace](csp-commercial-marketplace-purchase.md).
 
 ## <a name="create-a-new-subscription"></a>Crie uma nova assinatura
 
-1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. Entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center.
 
 2. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
 
-3. Selecione **Adicionar assinatura**. The **Online Services** tab will show all available Marketplace SaaS offers.
+3. Selecione **Adicionar assinatura**. A guia **serviços online** mostrará todas as ofertas de SaaS do Marketplace disponíveis.
 
 4. Para ver apenas determinados tipos de assinaturas, faça seleções nos filtros disponíveis:
-   - **Publisher**: Choose **Microsoft** to see only offers from Microsoft, or **Partner** to see commercial marketplace products published by ISVs.
-   - **Billing type**: Select the type of subscription billing you want to use: **License** or **Usage**. Consulte [as perguntas frequentes sobre](faq-about-new-billing-features.md) novos recursos de cobrança para obter informações que o ajudarão a decidir entre a frequência de cobrança mensal e anual.
-   - **Category**: Choose **Enterprise**, **Small business**, or **Trial**. Para obter informações sobre assinaturas de avaliação, consulte [oferecer a seus clientes avaliações de produtos da Microsoft](offer-your-customers-trials-of-microsoft-products.md).
+   - **Publicador**: escolha a **Microsoft** para ver apenas as ofertas da Microsoft ou o **parceiro** para ver os produtos do Marketplace comercial publicados por ISVs.
+   - **Tipo de cobrança**: selecione o tipo de cobrança de assinatura que você deseja usar: **licença** ou **uso**. Consulte [as perguntas frequentes sobre](faq-about-new-billing-features.md) novos recursos de cobrança para obter informações que o ajudarão a decidir entre a frequência de cobrança mensal e anual.
+   - **Categoria**: escolha **Enterprise**, **Small Business**ou **Trial**. Para obter informações sobre assinaturas de avaliação, consulte [oferecer a seus clientes avaliações de produtos da Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
-5. Select the product subscriptions you want to purchase for your customer. The products you see depend on the type of customer segment (education, government, etc.) and the filters you have applied. Some offers shown on the Marketplace may not always be available to a specific customer or a specific CSP partner. This can be because:
+5. Selecione as assinaturas de produto que você deseja comprar para o cliente. Os produtos que você vê dependem do tipo de segmento de cliente (educação, governo, etc.) e dos filtros que você aplicou. Algumas ofertas mostradas no Marketplace talvez nem sempre estejam disponíveis para um cliente específico ou um parceiro CSP específico. Isso pode ocorrer porque:
 
-    - The customer already has a subscription to that product and is only allowed one
+    - O cliente já tem uma assinatura para esse produto e só é permitido um
 
-    - The customer's subscription may have been suspended (In this case, you can reactivate the subscription rather than purchase a new one.)
+    - A assinatura do cliente pode ter sido suspensa (nesse caso, você pode reativar a assinatura em vez de comprar uma nova).
     
-    - For ISV SaaS offers, there may be a few reasons why the offer is not available to purchase: The ISV may not support the customer's billing country or region; the ISV may have chosen not to make the offer available through the CSP program; or, the ISV may have made the offer [exclusive](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) to only certain CSP partners. The ISV offer may also not be transactable through the Partner Center (e.g. containers or some usage-based offers).  
+    - Para ofertas de SaaS de ISV, pode haver alguns motivos pelos quais a oferta não está disponível para compra: o ISV pode não oferecer suporte ao país ou à região de cobrança do cliente; Talvez o ISV tenha optado por não disponibilizar a oferta por meio do programa CSP; ou, o ISV pode ter tornado a oferta [exclusiva](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) para apenas determinados parceiros CSP. A oferta de ISV também pode não ser proficada por meio do Partner Center (por exemplo, contêineres ou algumas ofertas baseadas em uso).  
 
-6. For each subscription you want to add, enter the number of licenses (if needed) and select **Add to cart**.
+6. Para cada assinatura que você deseja adicionar, insira o número de licenças (se necessário) e selecione **Adicionar ao carrinho**.
 
-7. When you are finished adding subscriptions, select **Review** and review your order.
+7. Quando terminar de adicionar assinaturas, selecione **revisar** e examine seu pedido.
 
-8. Once you've reviewed your orders and are ready to purchase these subscriptions, select **Buy**.
+8. Depois de revisar seus pedidos e estar pronto para comprar essas assinaturas, selecione **comprar**.
 
-9. After you buy a subscription for a customer, the following will occur:
+9. Depois de comprar uma assinatura para um cliente, ocorrerá o seguinte:
 
-    - You can review or edit the subscription by selecting the subscription name from that customer's **Subscriptions** page. A partir daqui, você pode selecionar licenças de complemento, se houver alguma disponível, alterar a quantidade de licenças ou suspender a assinatura.
+    - Você pode revisar ou editar a assinatura selecionando o nome da assinatura na página de **assinaturas** do cliente. A partir daqui, você pode selecionar licenças de complemento, se houver alguma disponível, alterar a quantidade de licenças ou suspender a assinatura.
 
-    **For ISV SaaS (license-based) subscriptions:**
-    - You will receive a link to the ISV publisher's site. This link should help you complete the deployment or account setup of the customer's subscription. (Note that neither you nor your customer will receive an email with instructions to complete account set up/provisioning for this type of ISV subscription.)
+    **Para assinaturas do SaaS do ISV (baseadas em licença):**
+    - Você receberá um link para o site do fornecedor ISV. Esse link deve ajudá-lo a concluir a configuração de implantação ou conta da assinatura do cliente. (Observe que nem você nem seu cliente receberá um email com instruções para concluir a configuração/provisionamento de conta para esse tipo de assinatura de ISV.)
     
-    - If your subscription comes with a 30-day free trial, the free trial period will be applied automatically. As a partner in the CSP program, you cannot waive the free trial period on offers you purchase for customers. Once the free trial period ends, the subscription term will begin and the subscription will convert to paid. The subscription will then auto-renew according to the same schedule.
+    - Se sua assinatura vier com uma avaliação gratuita de 30 dias, o período de avaliação gratuita será aplicado automaticamente. Como um parceiro no programa CSP, não é possível renunciar ao período de avaliação gratuita em ofertas que você compra para os clientes. Depois que o período de avaliação gratuita terminar, o prazo da assinatura será iniciado e a assinatura será convertida em pago. A assinatura será renovada automaticamente de acordo com a mesma agenda.
 
 ## <a name="suspend-or-cancel-a-subscription"></a>Suspender ou cancelar uma assinatura
 
 Os parceiros podem suspender ou cancelar uma assinatura se solicitado pelo cliente ou em casos de fraude ou falta de pagamento.
 
-### <a name="suspend-a-subscription"></a>Suspender uma assinatura
+### <a name="suspend-a-subscription"></a>Suspenda uma assinatura
 
 Quando você alterar o status de uma assinatura para **Suspensa**, os usuários não poderão entrar nem acessar os serviços.
 
-1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. Entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center.
 
 2. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
 
 3. Escolha a assinatura que deseja gerenciar.
 
-4. Na seção **Status**, escolha **Suspensa**. Em seguida, **Envie**  suas alterações.
+4. Na seção **Status**, escolha **Suspensa**. Em seguida, clique em **Enviar**  para enviar suas alterações.
 
 5. Todos os dados serão excluídos, a menos que a assinatura seja reativada dentro de 90 dias ou 90 dias mais o número de dias entre a hora em que a conta foi aberta e o primeiro período de cobrança (máximo de 120 dias).
 
-Quando você suspende uma assinatura, a data que você vê abaixo **do** botão suspenso indica quando a assinatura expirará automaticamente se você não a reativar. For more information, see [FAQ about new billing features](faq-about-new-billing-features.md).
+Quando você suspende uma assinatura, a data que você vê abaixo **do** botão suspenso indica quando a assinatura expirará automaticamente se você não a reativar. Para obter mais informações, consulte [perguntas frequentes sobre novos recursos de cobrança](faq-about-new-billing-features.md).
 
 ### <a name="cancel-a-subscription"></a>Cancelar uma assinatura
 
-You have the option to cancel license-based SaaS subscriptions from third-party ISV publishers within the Partner Center [commercial marketplace](csp-commercial-marketplace-overview.md). As long as you cancel within the cancellation period, you will receive a full refund.
+Você tem a opção de cancelar assinaturas de SaaS baseadas em licença de editores de ISVs de terceiros no [Marketplace comercial](csp-commercial-marketplace-overview.md)do Partner Center. Desde que você Cancele dentro do período de cancelamento, você receberá um reembolso total.
 
-For ISV offers billed monthly:
+Para ofertas de ISV cobradas mensalmente:
 
-- If you cancel less than 24 hours after you placed the order, you will receive a full credit on the next invoice.
+- Se você cancelar menos de 24 horas depois de colocar o pedido, receberá um crédito completo na próxima fatura.
 
-- If you cancel later than 24 hours after you placed the order, the cancellation will be scheduled to occur at renewal.
+- Se você cancelar mais tarde que 24 horas depois de colocar o pedido, o cancelamento será agendado para ocorrer na renovação.
 
-For offers billed annually:
+Para ofertas cobradas anualmente:
 
-- If you cancel less than 14 days after you place the order, you will receive a full credit on the next invoice.
+- Se você cancelar menos de 14 dias depois de fazer o pedido, receberá um crédito completo na próxima fatura.
 
-- If you cancel later than 14 days after you place the order, the cancellation will be scheduled to occur at renewal.
+- Se você cancelar depois de 14 dias depois de fazer o pedido, o cancelamento será agendado para ocorrer na renovação.
 
-After these periods are over, you will no longer see the option to cancel the subscription.
+Depois que esses períodos terminarem, você não verá mais a opção de cancelar a assinatura.
 
 > [!NOTE]
-> Usage-based and metered, third-party ISV services (that use virtual machines or containers, for example) are not eligible for return. Usage-based services can be de-provisioned as a cancellation method. Since charges are billed after use, these services are not eligible for a refund.
+> Os serviços ISV de terceiros baseados em uso e limitados (que usam máquinas virtuais ou contêineres, por exemplo) não são elegíveis para retorno. Os serviços baseados em uso podem ser desprovisionados como um método de cancelamento. Como os encargos são cobrados após o uso, esses serviços não são elegíveis para reembolso.
 
-To cancel a license-based SaaS subscription from an ISV publisher, do the following:
+Para cancelar uma assinatura SaaS baseada em licença de um editor ISV, faça o seguinte:
 
-1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. Entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center.
 
 2. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
 
-3. Locate the subscription you want to cancel.
+3. Localize a assinatura que você deseja cancelar.
 
-4. In the **Status** column, select **Cancel**. Em seguida, **Envie**  suas alterações.
+4. Na coluna **status** , selecione **Cancelar**. Em seguida, clique em **Enviar**  para enviar suas alterações.
 
-5. If a dialog box appears, fill out any relevant details then select **Submit**.
+5. Se uma caixa de diálogo for exibida, preencha todos os detalhes relevantes e selecione **Enviar**.
 
-6. To confirm the cancellation, select **Yes, cancel**.
+6. Para confirmar o cancelamento, selecione **Sim, cancelar**.
 
 > [!NOTE]
-> You can also choose to cancel an Azure Marketplace subscription using APIs. To do so, see [Cancel an Azure Marketplace subscription](https://docs.microsoft.com/partner-center/develop/cancel-an-azure-marketplace-subscription).
+> Você também pode optar por cancelar uma assinatura do Azure Marketplace usando APIs. Para fazer isso, consulte [cancelar uma assinatura do Azure Marketplace](https://docs.microsoft.com/partner-center/develop/cancel-an-azure-marketplace-subscription).
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>Escolha se deseja renovar automaticamente uma assinatura do Marketplace comercial
 
 Por padrão, as assinaturas ativas são definidas para renovar automaticamente quando o período de assinatura expira. Para [assinaturas para produtos](csp-commercial-marketplace-overview.md)do Marketplace comercial, opcionalmente, você pode optar por não renovar automaticamente a assinatura.
 
-To stop an active commercial marketplace subscription from automatically renewing:
+Para interromper uma assinatura do Marketplace comercial ativa de renovar automaticamente:
 
-1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. Entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center.
 
 2. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
 
-3.  Select **Subscriptions**. This lists any license-based subscriptions you have purchased for the customer.
+3.  Selecione **assinaturas**. Isso lista todas as assinaturas baseadas em licença que você comprou para o cliente.
 
-4.  In the **Subscription** column, select the subscription you want to modify.
+4.  Na coluna **assinatura** , selecione a assinatura que você deseja modificar.
 
-5. In the subscription details page, locate the **Status** section and uncheck the **Auto-renew** box. 
+5. Na página detalhes da assinatura, localize a seção **status** e desmarque a caixa **renovação automática** . 
 
 6. Selecione **Enviar**.
 
 ## <a name="see-also"></a>Consulte também
 
-- [Purchase commercial marketplace products for your customers](csp-commercial-marketplace-purchase.md)
-- [Manage commercial marketplace products for your customers](csp-commercial-marketplace-manage.md)
-- [Commercial marketplace overview](csp-commercial-marketplace-overview.md)
+- [Comprar produtos do Marketplace comercial para seus clientes](csp-commercial-marketplace-purchase.md)
+- [Gerenciar produtos do Marketplace comercial para seus clientes](csp-commercial-marketplace-manage.md)
+- [Visão geral do marketplace comercial](csp-commercial-marketplace-overview.md)
 
 

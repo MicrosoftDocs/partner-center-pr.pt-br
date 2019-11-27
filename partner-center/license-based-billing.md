@@ -1,11 +1,11 @@
 ---
-title: License-based billing | Partner Center
+title: Cobrança baseada em licença | Centro de parceiros
 ms.topic: article
 ms.date: 11/21/2019
-Description: Information about license-based billing in Partner Center, where you're billed per license (not by license usage).
+Description: Informações sobre cobrança baseada em licença no Partner Center, em que você é cobrado por licença (não por uso de licença).
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: billing, payments, license-based, license
+keywords: cobrança, pagamentos, licença baseada em licença
 ms.localizationpriority: medium
 ms.openlocfilehash: 2313a01a03114bc36a55d222376e994966f9e088
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -21,33 +21,33 @@ Aplica-se a:
 - Partner Center
 - Parceiros no programa CSP
 
-When you buy products or online services in Partner Center that require **licenses**, you’re billed *for each license* that you buy. You're *not billed* by usage for these licenses. (For information on usage-based billing and other billing types, see [Types of billing in Partner Center](billing-different-types.md).)
+Ao comprar produtos ou serviços online no Partner Center que exigem **licenças**, você será cobrado *por cada licença* que comprar. Você *não é cobrado* pelo uso dessas licenças. (Para obter informações sobre cobrança baseada em uso e outros tipos de cobrança, consulte [tipos de cobrança no Partner Center](billing-different-types.md).)
 
-## <a name="license-billing-frequency"></a>License billing frequency
+## <a name="license-billing-frequency"></a>Frequência de cobrança da licença
 
-You can choose to be billed for licenses once a month (**monthly billing**) or once a year (**annual billing**). For more information about **billing frequency**, see [Monthly and annual billing differences](billing-annual-monthly.md).
+Você pode optar por ser cobrado por licenças uma vez por mês (**cobrança mensal**) ou uma vez por ano (**cobrança anual**). Para obter mais informações sobre a **frequência de cobrança**, consulte [diferenças de cobrança mensal e anual](billing-annual-monthly.md).
 
-## <a name="billing-date-for-licenses"></a>Billing date for licenses
+## <a name="billing-date-for-licenses"></a>Data de cobrança para licenças
 
-License-based subscriptions are billed in advance on the subscription's **anniversary date**. The anniversary date is the day of the month that you purchased the subscription.
+As assinaturas baseadas em licença são cobradas antecipadamente na **data de aniversário**da assinatura. A data de aniversário é o dia do mês em que você comprou a assinatura.
 
 Por exemplo:
 
-- If you purchased a **monthly subscription** on January 15th, the anniversary date will be the 15th of each month.
-- If you purchased an **annual subscription** on January 15th, the anniversary date will be January 15th of each year.
+- Se você comprou uma **assinatura mensal** em 15 de Janeiro, a data de aniversário será o 15º de cada mês.
+- Se você comprou uma **assinatura anual** em 15 de Janeiro, a data de aniversário será 15 de janeiro de cada ano.
 
-## <a name="license-term"></a>License term
+## <a name="license-term"></a>Termo da licença
 
-All license-based subscriptions have a 12-month paid term, which begins on the purchase date.
+Todas as assinaturas baseadas em licença têm um termo pago por 12 meses, que começa na data de compra.
 
-## <a name="license-cancellation"></a>License cancellation
+## <a name="license-cancellation"></a>Cancelamento de licença
 
-You can cancel a license at any point during the [license term](#license-term). However, the month in which you cancel impacts how much credit you will receive for the cancelled license.
+Você pode cancelar uma licença a qualquer momento durante o [prazo da licença](#license-term). No entanto, o mês no qual você cancela afeta a quantidade de crédito que receberá para a licença cancelada.
 
-If you suspend a subscription in month 1, you will be credited 100%.
+Se você suspender uma assinatura no mês 1, será creditado em 100%.
 
-If you suspend a subscription in months 2-12, you will be credited on a prorated basis.
+Se você suspender uma assinatura em meses de 2-12, você será creditado em uma base rateada.
 
-## <a name="license-renewal"></a>License renewal
+## <a name="license-renewal"></a>Renovação de licença
 
-All license-based subscriptions auto-renew 12-months after the paid term begins.
+Todas as assinaturas baseadas em licença são renovadas automaticamente 12 meses após o início do prazo pago.

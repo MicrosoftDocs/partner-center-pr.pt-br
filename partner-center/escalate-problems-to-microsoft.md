@@ -22,7 +22,7 @@ ms.locfileid: "74252565"
 **Aplica-se a**
 
 -  Partner Center
--  Partner Center para Microsoft Cloud for US Government
+-  Partner Center do Microsoft Cloud for US Government
 
 Espera-se que você resolva os problemas em nome de seus clientes. Seus primeiros passos devem ser [verificar a integridade do serviço](check-service-health.md) para problemas existentes e documentados. Se isso não resolver o problema do cliente, você então pode usar seus privilégios de administrador para solucionar problemas com software, definições e configuração.
 

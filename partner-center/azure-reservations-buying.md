@@ -55,7 +55,7 @@ Examine as informações importantes abaixo antes de comprar as reservas do Azur
 > | Ilhas Aland     | Groenlândia     | Papua Nova-Guiné     |
 > | Samoa Americana     | Granada     | Ilhas Pitcairn     |
 > | Andorra     | Guadalupe     | Reunião     |
-> | Anguila     | Guam     | Saba   |
+> | Anguilla     | Guam     | Saba   |
 > | Antártida     | Guernsey     | São Bartolomeu   |
 > | Antígua e Barbuda       | Guiné     | Santa Lúcia   |
 > | Aruba       | Guiné-Bissau     | Saint Martin   |
@@ -76,7 +76,7 @@ Examine as informações importantes abaixo antes de comprar as reservas do Azur
 > | Ilhas Cocos (Keeling)     | Máli     | Suriname     |
 > | Ilhas Comores     | Ilhas Marshall     | Svalbard     |
 > | Congo     | Martinica     | Suazilândia     |
-> | Congo (RDC)     | Mauritânia     | Timor-Leste   |
+> | Congo (República Democrática)     | Mauritânia     | Timor-Leste   |
 > | Ilhas Cook     | Mayotte     | Togo   |
 > | Djibuti     | Micronésia     | Tokelau   |
 > | Dominica     | Montserrat     | Tonga   |
@@ -98,7 +98,7 @@ Siga as etapas abaixo para comprar Microsoft Azure reservas em nome de seus clie
 
 2. Na página de seus **clientes** , localize o cliente que deseja comprar as reservas do Azure e, em seguida, selecione a seta para baixo para expandir a linha do cliente.  
 
-3. Selecione **Adicionar produtos** e então selecione **Azure**. 
+3. Selecione **Adicionar produtos** e, em seguida, selecione **Azure**. 
 
     a. Escolha o segmento de mercado do cliente na lista de **Segmentos**.
 

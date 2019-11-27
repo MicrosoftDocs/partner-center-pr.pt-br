@@ -1,10 +1,10 @@
 ---
-title: Create and manage an incentives claim  | Partner Center
+title: Criar e gerenciar uma declaração de incentivos | Centro de parceiros
 ms.topic: article
 ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Learn how to initiate incentives co-op claims from Partner Center. Você pode ver todas as atividades da sua reivindicação no Histórico.
+description: Saiba como iniciar os incentivos das reivindicações de cooperação do Partner Center. Você pode ver todas as atividades da sua reivindicação no Histórico.
 author: LauraBrenner
 ms.author: labrenne
 keywords: reivindicações de incentivos, reivindicações de cooperação, fundos de cooperação
@@ -22,21 +22,21 @@ ms.locfileid: "74253467"
 **Aplica-se a**
 - Partner Center
 
-You can initiate an incentives claim from within Partner Center. 
+Você pode iniciar uma declaração de incentivos de dentro do Partner Center. 
 
-1. From **Incentives** on the Partner Center dashboard, select **Claims**.
+1. Em **incentivos** no painel do Partner Center, selecione **declarações**.
 
 2.  Se você já tiver uma reivindicação em andamento, a página de visão geral das Reivindicações mostrará informações sobre o status das reivindicações existentes e dos fundos aprovados, reivindicados e os totais.
 
 3.  Para criar uma nova reivindicação, selecione **Criar uma reivindicação**.
 
-4.  When you have filled out the initial form and selected **Create Claim**, you will be taken to the Claim detail page where you will be able to add invoices, CSR's, proof documents, and metrics. Você também pode adicionar outras informações, se necessário.
+4.  Quando você tiver preenchido o formulário inicial e selecionado **criar declaração**, será levado para a página de detalhes da declaração, na qual você poderá adicionar notas fiscais, CSR, documentos e métricas. Você também pode adicionar outras informações, se necessário.
 
 A página de detalhes das solicitações permite que outras pessoas em sua organização carreguem a documentação no formulário. Para cada um dos documentos de suporte carregado, você pode fornecer detalhes explicativos. 
 
 ### <a name="manage-your-claims"></a>Gerenciar suas reivindicações
 
-You can see all the activity that goes into the building of your claim in **History**. Each time a colleague adds a supporting document or comments on something, the action is stored in **History**. Até você enviar a reivindicação, o status será **edição**. Your claim's status changes as it moves through the approval process. Às vezes, durante a revisão de uma reivindicação, você poderá receber comentários sobre um item específico da sua documentação (documentos POE). Os comentários e as solicitações de informações adicionais também aparecerão no histórico da reivindicação. 
+Você pode ver todas as atividades que vão para a criação de sua declaração no **histórico**. Cada vez que um colega adiciona um documento de suporte ou comentários sobre algo, a ação é armazenada no **histórico**. Até você enviar a reivindicação, o status será **edição**. O status de sua declaração muda à medida que percorre o processo de aprovação. Às vezes, durante a revisão de uma reivindicação, você poderá receber comentários sobre um item específico da sua documentação (documentos POE). Os comentários e as solicitações de informações adicionais também aparecerão no histórico da reivindicação. 
 
 Você não poderá editar sua reivindicação depois de enviá-la, a menos que um revisor solicite informações adicionais.
 

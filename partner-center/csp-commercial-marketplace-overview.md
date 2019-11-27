@@ -37,7 +37,7 @@ Como um parceiro no programa CSP, você pode usar o Partner Center para comprar 
 
 Se você for um parceiro no programa CSP, haverá muitas atividades comerciais do Marketplace que talvez você queira executar em relação às ofertas de ISVs. Consulte a tabela a seguir para saber mais sobre cada atividade.
 
-|**Se você quiser**  |**Ler**   |
+|**Se você quiser**  |**Leitura**   |
 |:------------------------------------|:------------------|
 |Saiba como exibir ou Pesquisar ofertas disponíveis, preços, detalhes do produto ou informações de contato do Publicador | [Ofertas de descoberta](csp-commercial-marketplace-discover.md) | 
 |Saiba como comprar e implantar uma oferta   | [Ofertas de compra](csp-commercial-marketplace-purchase.md)   | 

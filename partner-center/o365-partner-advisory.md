@@ -1,11 +1,11 @@
 ---
-title: Office 365 Partner Advisory - Microsoft 365 Voice in CSP | Partner Center
-description: PSTN services in some countries may be subject to special tax and regulatory requirements that may affect partner order and invoicing.
+title: Consultoria de parceiros do Office 365-Microsoft 365 voz no CSP | Centro de parceiros
+description: Os serviços de PSTN em alguns países podem estar sujeitos a requisitos especiais de impostos e regulatórios que podem afetar a ordem e o faturamento do parceiro.
 ms.topic: article
 ms.date: 11/04/2019
 author: maggiepuccievans
 ms.author: evansma
-keywords: Office, O365, PSTN services, taxes, requirements, invoice, invoicing
+keywords: Office, O365, serviços PSTN, impostos, requisitos, fatura, faturamento
 ms.localizationpriority: medium
 ms.openlocfilehash: b6359a49503237e72c8cffdb5758bdd418910306
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -14,41 +14,41 @@ ms.contentlocale: pt-BR
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384809"
 ---
-# <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365 Partner Advisory: Microsoft 365 Voice in CSP
+# <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Consultoria do parceiro do Office 365: Microsoft 365 voz no CSP
 
 **Aplica-se a**
 
 - Partner Center  
 
-Public Switched Telephone Network (PSTN) services in some countries may be subject to special tax and regulatory requirements that may affect partner order and invoicing.  In the United States, Puerto Rico, and Canada, Skype for Business PSTN and Microsoft 365 Voice services are subject to special tax and regulatory requirements. In the United States and Puerto Rico, Microsoft prices PSTN services as tax-inclusive.  Unique PSTN taxes and regulations will affect Office 365 partners transacting Microsoft 365 Voice products.  Se um parceiro marcar o preço de um serviço PSTN da Microsoft, ele poderá ser responsável pelo cálculo e remissão de impostos e taxas do PSTN.
+Os serviços de rede telefônica pública comutada (PSTN) em alguns países podem estar sujeitos a requisitos especiais de impostos e regulatórios que podem afetar a ordem e o faturamento do parceiro.  No Estados Unidos, Porto Rico e Canadá, o Skype for Business PSTN e os serviços de voz Microsoft 365 estão sujeitos a requisitos especiais de impostos e regulatórios. No Estados Unidos e Porto Rico, a Microsoft preços os serviços PSTN como impostos sobre o imposto.  Os impostos e as regulamentações de PSTN exclusivos afetarão os parceiros do Office 365 transformando Microsoft 365 produtos de voz.  Se um parceiro marcar o preço de um serviço PSTN da Microsoft, ele poderá ser responsável pelo cálculo e remissão de impostos e taxas do PSTN.
 
-## <a name="partner-recommendations"></a>Partner Recommendations
+## <a name="partner-recommendations"></a>Recomendações de parceiros
 
 Consulte seus conselheiros fiscais e jurídicos para saber qual é a responsabilidade da organização em relação ao regulamento, impostos e taxas dos serviços PSTN e outras possíveis responsabilidades.
 
-## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Invoice Presentation and Partner Reconciliation File
+## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Apresentação de nota fiscal e arquivo de reconciliação do parceiro
 
-CSP invoices and CSP reconciliation files in the United States, Puerto Rico and Canada which include Skype for Business PSTN and Microsoft 365 Voice services will provide separate line items for the PSTN and non-PSTN components.
+As notas fiscais do CSP e os arquivos de reconciliação do CSP no Estados Unidos, Porto Rico e Canadá que incluem o Skype for Business PSTN e Microsoft 365 Voice Services fornecerão itens de linha separados para os componentes PSTN e não PSTN.
 
-Additionally, CSP invoices will display the following footnote:
+Além disso, as notas fiscais do CSP exibirão a seguinte nota de rodapé:
 
-* The price displayed is a charge for Audio Conferencing and Calling Plan Services.  Any applicable transactional taxes are charged exclusively of the amount shown except for sales made within the United States.  In the U.S., the price displayed is tax inclusive as it includes a charge for the Calling Plan and Audio Conferencing Services and a charge for the taxes and fees we are required to charge.  Audio Conferencing and Calling Plan Services are serviced by the Microsoft Affiliate authorized to provide them.  See [Microsoft Volume Licensing](https://go.microsoft.com/fwlink/?LinkId=690247) for details.
+* O preço exibido é um encargo para a conferência de áudio e serviços de plano de chamada.  Todos os impostos transacionais aplicáveis são cobrados exclusivamente do valor mostrado, exceto pelas vendas feitas dentro do Estados Unidos.  Nos EUA, o preço exibido é imposto inclusivo, pois inclui um encargo para o plano de chamada e os serviços de conferência de áudio e um encargo para os impostos e as tarifas que precisaremos cobrar.  A conferência de áudio e os serviços de plano de chamada são atendidos pela afiliada da Microsoft autorizada a fornecê-los.  Consulte [Licenciamento por volume da Microsoft](https://go.microsoft.com/fwlink/?LinkId=690247) para obter detalhes.
 
-## <a name="reconciliation-file-example"></a>Reconciliation File Example
+## <a name="reconciliation-file-example"></a>Exemplo de arquivo de reconciliação
 
-Office 365 Enterprise E5 presents on reconciliation file as two line items with identical names and identical IDs, but each line item has a unique unit price (example: $28.40 and $2.00). Isso separa o componente Conferência do Skype for Business da oferta do Office 365, portanto, você pode aplicar impostos corretamente.
+O Office 365 Enterprise E5 apresenta o arquivo de reconciliação como dois itens de linha com nomes idênticos e IDs idênticas, mas cada item de linha tem um preço unitário exclusivo (exemplo: $28.40 e $2). Isso separa o componente Conferência do Skype for Business da oferta do Office 365, portanto, você pode aplicar impostos corretamente.
 
-**Partner Reconciliation example #1 (select columns):**
+**Exemplo de reconciliação de parceiro #1 (selecionar colunas):**
 
 |**Durable_offer_ID**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Taxa do Ciclo   |28,40   |
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Taxa do Ciclo   |2,00   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Taxa do ciclo   |28,40   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Taxa do ciclo   |2.00   |
 
-**Partner Reconciliation example #2**
+**Exemplo de reconciliação de parceiro #2**
 
-Microsoft 365 Business Voice available in Canada has additional PSTN taxable components that are consolidated on CSP Invoice (similar to Office 365 E5, two line items are presented, one for PSTN components and the other for non-PSTN components).  The CSP Reconciliation file for Microsoft 365 Business Voice will display all PSTN taxable components individually (individual PSTN components will not be consolidated in .CSV or API tool).  The summation of order details and billed amounts for customers found in the reconciliation file will match the CSP Invoice.
+Microsoft 365 Business voz disponível no Canadá tem componentes adicionais de PSTN que são consolidados na nota fiscal do CSP (semelhante ao Office 365 e5, dois itens de linha são apresentados, um para componentes PSTN e outro para componentes não PSTN).  O arquivo de reconciliação CSP para Microsoft 365 Business voz exibirá todos os componentes tributáveis de PSTN individualmente (componentes PSTN individuais não serão consolidados no. Ferramenta de API ou CSV).  A soma dos detalhes do pedido e dos valores cobrados para os clientes encontrados no arquivo de reconciliação corresponderá à nota fiscal do CSP.
 
 ## <a name="additional-resources"></a>Recursos adicionais
-For more details, visit the [Microsoft 365 for Partners](https://drumbeat.office.com/Pages/home2016.aspx) site.
+Para obter mais detalhes, visite o site [Microsoft 365 para parceiros](https://drumbeat.office.com/Pages/home2016.aspx) .
 

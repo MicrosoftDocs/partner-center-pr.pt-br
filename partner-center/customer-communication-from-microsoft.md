@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how Microsoft expects customer communications to occur between customers and partners in the Cloud Solution Provider program.
+description: Saiba como a Microsoft espera que as comunicações do cliente ocorram entre clientes e parceiros no programa do provedor de soluções na nuvem.
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: MaggiePucciEvans
 ms.author: evansma

@@ -1,12 +1,12 @@
 ---
-title: Common billing scenarios for one-time and select recurring purchases | Partner Center
+title: Cenários comuns de cobrança para uma única vez e selecione compras recorrentes | Centro de parceiros
 ms.topic: article
 ms.date: 11/21/2019
-description: Common billing scenarios in Partner Center for one-time and select recurring purchases (such as purchasing subscriptions, adding more subscriptions, adding and removing seats).
+description: Cenários de cobrança comuns no Partner Center para uma única vez e selecione compras recorrentes (como a compra de assinaturas, adição de mais assinaturas, adição e remoção de estações).
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: billing, payments, one-time purchase, recurring purchase, subscriptions, seats
+Keywords: cobrança, pagamentos, compra única, compra recorrente, assinaturas, estações
 ms.localizationpriority: medium
 ms.openlocfilehash: 69a7f1d4ded608942ea8b4bd7bec6054a44d52c7
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,11 +15,11 @@ ms.contentlocale: pt-BR
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389634"
 ---
-# <a name="one-time-and-select-recurring-purchase-billing-scenarios"></a>One-time and select recurring purchase billing scenarios
+# <a name="one-time-and-select-recurring-purchase-billing-scenarios"></a>Cenários de cobrança de compra recorrente e selecionados de uso único
 
-These example [common billing scenarios](common-billing-scenarios.md) are applicable to [one-time and select recurring charges](one-time-and-recurring-billing.md) in Partner Center.
+Esses [cenários de cobrança comuns](common-billing-scenarios.md) de exemplo são aplicáveis a [uma única vez e selecionam encargos recorrentes](one-time-and-recurring-billing.md) no Partner Center.
 
-## <a name="purchase-a-subscription-and-add-a-seat-on-the-same-day"></a>Purchase a subscription and add a seat on the same day
+## <a name="purchase-a-subscription-and-add-a-seat-on-the-same-day"></a>Comprar uma assinatura e adicionar um assento no mesmo dia
 
 No Cenário 1, você compra uma assinatura em 11 de junho a um preço unitário de US$ 4. Mais tarde, no mesmo dia, você compra outra assinatura como a anterior pelo mesmo preço.
 
@@ -35,7 +35,7 @@ O arquivo de reconhecimento incluirá o seguinte:
 |11/06/2019     | 10/06/2019    |9/07/2019        |US$ 4        |1        | -US$ 4       |addQuantity           |
 |11/06/2019     | 10/06/2019    |9/07/2019        |US$ 4        | 2      |US$ 8         |addQuantity           |
 
-## <a name="purchase-a-subscription-and-add-more-subscriptions-later"></a>Purchase a subscription and add more subscriptions later
+## <a name="purchase-a-subscription-and-add-more-subscriptions-later"></a>Comprar uma assinatura e adicionar mais assinaturas mais tarde
 
 No Cenário 2, você compra uma assinatura em 11 de junho com um preço unitário de US$ 4 e, em 12 de junho, você compra outra assinatura do mesmo produto pelo mesmo preço.
 
@@ -51,7 +51,7 @@ O arquivo de reconhecimento incluirá o seguinte:
 |12/06/2019     | 10/06/2019    |9/07/2019        |US$ 4        |1        | -US$ 3,87       |addQuantity           |
 |12/06/2019     | 10/06/2019    |9/07/2019        |US$ 4        | 2      |US$ 7,74       |addQuantity           |
 
-## <a name="purchase-a-subscription-and-remove-a-seat-on-the-same-day"></a>Purchase a subscription and remove a seat on the same day
+## <a name="purchase-a-subscription-and-remove-a-seat-on-the-same-day"></a>Comprar uma assinatura e remover um assento no mesmo dia
 
 No Cenário 3, você compra duas assinaturas para o mesmo produto em 11 de junho a um preço unitário de US$ 4. Mais tarde, no mesmo dia, você remove um dos usuários.  
 
@@ -67,7 +67,7 @@ O arquivo de reconhecimento incluirá o seguinte:
 |11/06/2019     | 10/06/2019    |9/07/2019        |US$ 4        |2        | -US$ 8       |removeQuantity           |
 |11/06/2019     | 10/06/2019    |9/07/2019        |US$ 4        | 1      |US$ 4         |removeQuantity           |
 
-## <a name="purchase-a-subscription-and-remove-seats-later"></a>Purchase a subscription and remove seats later
+## <a name="purchase-a-subscription-and-remove-seats-later"></a>Comprar uma assinatura e remover estações mais tarde
 
 No Cenário 4, você compra duas assinaturas em 11 de junho pelo preço unitário de US$ 4 e em 12 de junho você remove um dos usuários.
 

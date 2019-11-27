@@ -1,8 +1,8 @@
 ---
-title: Reconciliation file charge types | Partner Center
+title: Tipos de encargo de arquivo de reconciliação | Centro de parceiros
 ms.topic: article
 ms.date: 08/26/2019
-description: Types of charges (license-based, usage-based and one-time), credits and discounts on Partner Center reconciliation files.
+description: Tipos de encargos (baseados em licença, com base no uso e uma única vez), créditos e descontos em arquivos de reconciliação do Partner Center.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
@@ -14,86 +14,86 @@ ms.contentlocale: pt-BR
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389804"
 ---
-# <a name="understand-charge-types"></a>Understand charge types
+# <a name="understand-charge-types"></a>Entender os tipos de encargo
 
 Aplica-se a:
 
 - Partner Center
 - Partner Center do Microsoft Cloud for US Government
 
-This topic describes the mappings between an invoice section and associated charge types that might be on your reconciliation file. Your invoice provides a summary of charges. Your reconciliation file provides a detailed breakdown of line-item transactions, including charge types. For more information on reconciliation files, see [how to use reconciliation files](use-the-reconciliation-files.md).
+Este tópico descreve os mapeamentos entre uma seção de fatura e os tipos de encargos associados que podem estar em seu arquivo de reconciliação. Sua fatura fornece um resumo de encargos. O arquivo de reconciliação fornece uma divisão detalhada das transações de item de linha, incluindo tipos de encargo. Para obter mais informações sobre arquivos de reconciliação, consulte [como usar arquivos de reconciliação](use-the-reconciliation-files.md).
 
-Both [usage-based reconciliation files](usage-based-recon-files.md) and [license-based reconciliation files](license-based-recon-files.md) only show usage-related transactions and charges (units consumed and related charges).
+Os [arquivos de reconciliação com base no uso](usage-based-recon-files.md) e os [arquivos de reconciliação baseados em licença](license-based-recon-files.md) mostram apenas transações e encargos relacionados ao uso (unidades consumidas e encargos relacionados).
 
 > [!NOTE]
-> One-off credits, discounts or refunds that appear on the invoice as **Adjustments** are not shown in the reconciliation file.
+> Créditos únicos, descontos ou reembolsos que aparecem na fatura como **ajustes** não são mostrados no arquivo de reconciliação.
 
-## <a name="map-charge-types-to-invoice-charges"></a>Map charge types to invoice charges
+## <a name="map-charge-types-to-invoice-charges"></a>Mapear tipos de cobrança para encargos de fatura
 
-To cross-reference charge amounts between your invoice and reconciliation file, use the filter options in Microsoft Excel. Filter by charge types on your reconciliation file to map the invoice charges to a set of charge breakdowns on the reconciliation file.
+Para fazer referência cruzada de valores entre a fatura e o arquivo de reconciliação, use as opções de filtro no Microsoft Excel. Filtre por tipos de encargo em seu arquivo de reconciliação para mapear os encargos da fatura para um conjunto de divisões de cobrança no arquivo de reconciliação.
 
 ## <a name="license-based-charges"></a>Cobranças baseada em licença
 
-To map these license-based charges to your invoice, sum the **Amount** column from the license-based file.
+Para mapear esses encargos baseados em licenças para sua fatura, some a coluna de **valor** do arquivo baseado em licença.
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| Descrição da cobrança (coluna Chargetype no arquivo de reconciliação) | Explicação da cobrança |
 | ------------------------------------------------------------- | ------------------ |
-| Taxa de ativação | The amount charged to the customer when they use the subscription after purchase. |
-| Taxa de cancelamento | Prorated charges refunded to the customer when associated seats are changed. |
-| Taxa do Ciclo | Periodic charges for a subscription. |
-| Proporcional à instância do ciclo | Prorated charges assessed from the customer when associated seats are changed. |
-| Taxas proporcionais durante o cancelamento | Prorated refund for unused portion of service upon cancellation. |
-| Taxas proporcionais na compra | The charge type for a subscription when using annual billing. |
-| Valor de compra | The charge type for a subscription when using monthly billing. |
-| Taxa proporcional ao renovar | Prorated fees upon subscription renewal. |
+| Taxa de ativação | O valor cobrado para o cliente quando ele usa a assinatura após a compra. |
+| Taxa de cancelamento | Encargos rateado reembolsados ao cliente quando as estações associadas são alteradas. |
+| Taxa do ciclo | Cobranças periódicas de uma assinatura. |
+| Proporcional à instância do ciclo | Encargos rateado avaliados do cliente quando as estações associadas são alteradas. |
+| Taxas proporcionais durante o cancelamento | Reembolso rateado para parte não usada do serviço após o cancelamento. |
+| Taxas proporcionais na compra | O tipo de encargo para uma assinatura ao usar a cobrança anual. |
+| Valor de compra | O tipo de encargo para uma assinatura ao usar a cobrança mensal. |
+| Taxa proporcional ao renovar | Taxas rateada após a renovação da assinatura. |
 | Taxa de renovação | Cobrança para renovação de uma assinatura |
-| Taxas proporcionais ao ativar | >Prorated fees from activation until end of billing period. |
+| Taxas proporcionais ao ativar | > taxas rateada da ativação até o término do período de cobrança. |
 
-## <a name="one-time-charges"></a>One-time charges
+## <a name="one-time-charges"></a>Encargos de uso único
 
-To map these one-time charges to your invoice, sum the **Amount** column from the license-based file.
+Para mapear esses encargos de uma vez para sua fatura, some a coluna de **valor** do arquivo baseado em licença.
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| Descrição da cobrança (coluna Chargetype no arquivo de reconciliação) | Explicação da cobrança |
 | ------------------------------------------------------------- | ------------------ |
-| Novo | Used when a new purchase is created. |
-| addQuantity | Used in both the refund of the original purchase and the new quantity after an increase. |
-| removeQuantity | Used in both the refund of the original purchase and the new quantity after a decrease. |
-| Cancelar | Used when a subscription is cancelled. |
-| Converter | Used when a license is upgraded but the number of seats remains unchanged. |
+| Novo | Usado quando uma nova compra é criada. |
+| addQuantity | Usado tanto no reembolso da compra original quanto na nova quantidade após um aumento. |
+| removeQuantity | Usado tanto no reembolso da compra original quanto na nova quantidade após uma diminuição. |
+| Cancel | Usado quando uma assinatura é cancelada. |
+| Converter | Usado quando uma licença é atualizada, mas o número de estações permanece inalterado. |
 
 ## <a name="usage-charges"></a>Tarifas de uso
 
-To map these usage charges to your invoice, sum the **PretaxCharges** column from the usage-based file.
+Para mapear esses encargos de uso para sua fatura, some a coluna **PretaxCharges** do arquivo baseado em uso.
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| Descrição da cobrança (coluna Chargetype no arquivo de reconciliação) | Explicação da cobrança |
 | ------------------------------------------------------------- | ------------------ |
-| Avaliar a taxa de uso ao cancelar | Access usage fee upon cancellation for unpaid usage during the current billing period. |
-| Avalie a taxa de uso para o ciclo atual | Access usage fee for the current billing period. |
+| Avaliar a taxa de uso ao cancelar | Taxa de uso de acesso no cancelamento para uso não pago durante o período de cobrança atual. |
+| Avalie a taxa de uso para o ciclo atual | Taxa de uso de acesso para o período de cobrança atual. |
 
 ### <a name="credits"></a>Créditos
 
-To map these credits to your invoice:
+Para mapear esses créditos para sua fatura:
 
-- Sum the **TotalForCustomer** from the license-based file.
-- Sum the **PostTaxTotal** column from the usage-based file.
+- Some o **TotalForCustomer** do arquivo baseado em licença.
+- Some a coluna **PostTaxTotal** do arquivo baseado em uso.
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| Descrição da cobrança (coluna Chargetype no arquivo de reconciliação) | Explicação da cobrança |
 | ------------------------------------------------------------- | ------------------ |
-| Deslocando um item de linha | Partial or whole refund to a line item, including taxes. |
+| Deslocando um item de linha | Reembolso parcial ou total para um item de linha, incluindo impostos. |
 
 ### <a name="usage-based-discounts"></a>Descontos baseados em uso
 
-To map these usage-based discounts to your invoice, sum the **PretaxCharges** column from the usage-based file.
+Para mapear esses descontos com base no uso para sua fatura, some a coluna **PretaxCharges** do arquivo baseado em uso.
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| Descrição da cobrança (coluna Chargetype no arquivo de reconciliação) | Explicação da cobrança |
 | ------------------------------------------------------------- | ------------------ |
-| Desconto de ativação | Discount applied when subscription activated. |
-| Desconto de ciclo | Discount applied on periodic charges. |
-| Desconto de renovação | Discount applied when subscription renewed. |
-| Desconto de cancelamento | Charges applied when discounts cancelled. |
+| Desconto de ativação | Desconto aplicado quando a assinatura é ativada. |
+| Desconto de ciclo | Desconto aplicado em encargos periódicos. |
+| Desconto de renovação | Desconto aplicado quando a assinatura é renovada. |
+| Desconto de cancelamento | Encargos aplicados quando os descontos foram cancelados. |
 
 ### <a name="license-based-discounts"></a>Descontos baseados em licença
 
-To map license-based discounts to your invoice, sum the **TotalOtherDiscount** column from the license-based file.
+Para mapear descontos baseados em licença para sua fatura, some a coluna **TotalOtherDiscount** do arquivo baseado em licença.
 
-*License-based discounts may be applied to multiple charge types.*
+*Os descontos baseados em licença podem ser aplicados a vários tipos de cobrança.*

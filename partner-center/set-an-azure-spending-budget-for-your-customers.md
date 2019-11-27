@@ -2,7 +2,7 @@
 title: Definir um orçamento de gastos do Azure para seus clientes | Partner Center
 ms.topic: article
 ms.date: 11/21/2019
-description: Set a monthly budget per customer in Partner Center.
+description: Defina um orçamento mensal por cliente no Partner Center.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
@@ -23,78 +23,78 @@ Aplica-se a:
 - Partner Center
 - Partner Center do Microsoft Cloud for US Government
 
-You can [set a monthly Azure spending budget for your customers](#set-azure-spending-budget) in Partner Center. This helps your customers manage their Azure spending. This option allows you to compare your customers' Azure spending to the budget during the month. It also helps your customers budget their Azure spending so their monthly bill isn't higher than they anticipate.
+Você pode [definir um orçamento de gastos do Azure mensal para seus clientes](#set-azure-spending-budget) no Partner Center. Isso ajuda seus clientes a gerenciar seus gastos com o Azure. Essa opção permite que você compare os gastos do Azure dos clientes com o orçamento durante o mês. Ele também ajuda seus clientes a orçarem seus gastos com o Azure para que sua fatura mensal não seja maior do que a previsão.
 
 
 > [!NOTE]  
-> This feature is not available in sandbox or Test in Production (TIP) accounts.
+> Esse recurso não está disponível na área restrita ou no teste em contas de produção (TIP).
 
-After you [set an Azure spending budget for your customer(s)](#set-azure-spending-budget), you can also review customer usage in the following ways. These options may help you spot misconfigured services or unusual trends that might suggest fraud. You can then work with your customer(s) to identify the root cause and manage costs. If necessary, you can also [change the customer's budget](#set-azure-spending-budget) to a higher amount.
+Depois [de definir um orçamento de gastos do Azure para seus clientes](#set-azure-spending-budget), você também pode examinar o uso do cliente das seguintes maneiras. Essas opções podem ajudá-lo a identificar serviços mal configurados ou tendências incomuns que podem sugerir fraudes. Em seguida, você pode trabalhar com seus clientes para identificar a causa raiz e gerenciar os custos. Se necessário, você também pode [alterar o orçamento do cliente](#set-azure-spending-budget) para um valor mais alto.
 
-- [Check current Azure spending](#check-current-azure-spending)
-- [Turn on email notifications for when a customer's spending is nearing their budget limit](#notifications-for-budget-limits)
-- [View itemized costs by service for usage-based subscriptions](#itemized-costs-by-service)
+- [Verificar os gastos atuais do Azure](#check-current-azure-spending)
+- [Ativar notificações por email para quando o gasto de um cliente estiver se aproximando de seu limite de orçamento](#notifications-for-budget-limits)
+- [Exibir custos discriminados por serviço para assinaturas baseadas em uso](#itemized-costs-by-service)
 
-You can also [remove an Azure spending budget](#remove-azure-spending-budget) for customer(s) at any time.
+Você também pode [remover um orçamento de gastos do Azure](#remove-azure-spending-budget) para clientes a qualquer momento.
 
-## <a name="azure-spending-data"></a>Azure spending data
+## <a name="azure-spending-data"></a>Dados de gastos do Azure
 
-The Azure spending data is an *estimate* and *actual billing amounts may vary*. The data's value *doesn't reflect* taxes, credits, adjustments, or other charges that may apply.
+Os dados de gastos do Azure são uma *estimativa* e *valores de cobrança reais podem variar*. O valor dos dados *não reflete* impostos, créditos, ajustes ou outros encargos que podem ser aplicados.
 
-The spending data is *refreshed once per day*. Your customers can continue to use (and be charged for) Azure services and resources, unless you change their account settings in the Azure portal.
+Os dados de gastos são *atualizados uma vez por dia*. Os clientes podem continuar a usar (e serem cobrados) os serviços e recursos do Azure, a menos que você altere as configurações de conta no portal do Azure.
 
-## <a name="set-azure-spending-budget"></a>Set Azure spending budget
+## <a name="set-azure-spending-budget"></a>Definir orçamento de gastos do Azure
 
-You can *set a monthly Azure spending budget* for multiple customers in Partner Center:
+Você pode *definir um orçamento de gastos do Azure mensal* para vários clientes no Partner Center:
 
-1. Sign in to the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).
-2. In the left-hand menu under **CSP**, choose **Azure spending**.
-3. On the **Azure spending** page, under **Customers with Microsoft Azure subscriptions**, select the customer(s) for whom you want to set a budget.
-4. Enter a value for **Monthly budget**.
-5. Choose **Apply** to save your changes.
+1. Entre no painel do [Partner Center](https://partner.microsoft.com/dashboard/).
+2. No menu à esquerda, em **CSP**, escolha **gastos do Azure**.
+3. Na página **gastos do Azure** , em **clientes com assinaturas Microsoft Azure**, selecione os clientes para os quais você deseja definir um orçamento.
+4. Insira um valor para o **orçamento mensal**.
+5. Escolha **aplicar** para salvar as alterações.
 
-You can also *set a budget for an individual customer* in their subscription settings:
+Você também pode *definir um orçamento para um cliente individual* em suas configurações de assinatura:
 
-1. Sign in to the Partner Center dashboard.
-2. In the left-hand menu under **CSP**, choose **Customers**.
-3. On the **Customers** page, select the customer's **Company name**.
-4. On the customer's **Subscriptions** page, under **Usage-based subscription**, choose **Change budget**.
-5. Enter a value for the budget.
-6. Choose **Apply** to save your changes.
+1. Entre no painel do Partner Center.
+2. No menu à esquerda, em **CSP**, escolha **clientes**.
+3. Na página **clientes** , selecione o **nome da empresa**do cliente.
+4. Na página **assinaturas** do cliente, em **assinatura baseada em uso**, escolha **alterar orçamento**.
+5. Insira um valor para o orçamento.
+6. Escolha **aplicar** para salvar as alterações.
 
-## <a name="remove-azure-spending-budget"></a>Remove Azure spending budget
+## <a name="remove-azure-spending-budget"></a>Remover orçamento de gastos do Azure
 
-You can *remove a monthly Azure spending budget* for your customer(s) in Partner Center:
+Você pode *remover um orçamento de gastos do Azure mensal* para seus clientes no Partner Center:
 
-1. Sign in to the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).
-2. In the left-hand menu under **CSP**, choose **Azure spending**.
-3. On the **Azure spending** page, under **Customers with Microsoft Azure subscriptions**, select the customer(s) whose budget you want to remove.
-4. Choose **Remove budget**.
+1. Entre no painel do [Partner Center](https://partner.microsoft.com/dashboard/).
+2. No menu à esquerda, em **CSP**, escolha **gastos do Azure**.
+3. Na página **gastos do Azure** , em **clientes com assinaturas Microsoft Azure**, selecione os clientes cujo orçamento você deseja remover.
+4. Escolha **remover orçamento**.
 
-## <a name="check-current-azure-spending"></a>Check current Azure spending
+## <a name="check-current-azure-spending"></a>Verificar os gastos atuais do Azure
 
-You can *track your customers' current Azure spending and monthly budgets* at any time:
+Você pode *acompanhar os gastos atuais dos clientes do Azure e os orçamentos mensais* a qualquer momento:
 
-1. Sign in to the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).
-2. In the left-hand menu under **CSP**, choose **Azure spending**.
-3. On the **Azure spending** page, under **Customers with Microsoft Azure subscriptions**, you can see an overview of customers' monthly budgets, current spending estimates and percentage of budget used.
+1. Entre no painel do [Partner Center](https://partner.microsoft.com/dashboard/).
+2. No menu à esquerda, em **CSP**, escolha **gastos do Azure**.
+3. Na página de **gastos do Azure** , em **clientes com assinaturas Microsoft Azure**, você pode ver uma visão geral dos Orçamentos mensais dos clientes, estimativas de gastos atuais e percentual de orçamento usado.
 
-## <a name="notifications-for-budget-limits"></a>Notifications for budget limits
+## <a name="notifications-for-budget-limits"></a>Notificações para limites de orçamento
 
-You can *turn on email notifications* for when your customer's monthly spending is nearing their budget limit. When you turn on this option, you will be notified when customers use 80% or more of their monthly budget. This option helps you can keep an eye on your Azure bill. To configure email notifications:
-
-1. Entre no Partner Center.
-2. In the left-hand menu under **CSP**, choose **Azure spending**.
-3. On the **Azure spending** page, under **Email notifications**, toggle the **Get emails** setting to **On**.
-4. Choose **Change email address** to see the email address for notifications.
-5. If the email address *isn't correct*, enter the correct email address and choose **Update**. If the email address *is correct*, choose **Cancel**.
-
-## <a name="itemized-costs-by-service"></a>Itemized costs by service
-
-You can *view itemized costs (and estimated usage) by service for usage-based subscriptions*:
+Você pode *ativar as notificações por email* para quando o gasto mensal do cliente estiver se aproximando de seu limite de orçamento. Ao ativar essa opção, você será notificado quando os clientes usarem 80% ou mais de seu orçamento mensal. Essa opção ajuda você a ficar atento à sua fatura do Azure. Para configurar notificações por email:
 
 1. Entre no Partner Center.
-2. In the left-hand menu under **CSP**, choose **Customers**.
-3. On the **Customers** page, select the customer's **Company name**.
-4. On the customer's **Subscriptions** page, under **Usage-based subscriptions**, select the name of the **Subscription**.
-5. On the subscription's page, you can review the **Itemized costs** by service, and the **Estimated usage** for the current month.
+2. No menu à esquerda, em **CSP**, escolha **gastos do Azure**.
+3. Na página **gastos do Azure** , em **notificações por email**, alterne a configuração **obter emails** para **ativado**.
+4. Escolha **Alterar endereço de email** para ver o endereço de email para notificações.
+5. Se o endereço de email *não estiver correto*, insira o endereço de email correto e escolha **Atualizar**. Se o endereço de email *estiver correto*, escolha **Cancelar**.
+
+## <a name="itemized-costs-by-service"></a>Custos discriminados por serviço
+
+Você pode *exibir os custos discriminados (e o uso estimado) por serviço para assinaturas baseadas em uso*:
+
+1. Entre no Partner Center.
+2. No menu à esquerda, em **CSP**, escolha **clientes**.
+3. Na página **clientes** , selecione o **nome da empresa**do cliente.
+4. Na página **assinaturas** do cliente, em **assinaturas baseadas em uso**, selecione o nome da **assinatura**.
+5. Na página da assinatura, você pode examinar os **custos discriminados** por serviço e o **uso estimado** para o mês atual.

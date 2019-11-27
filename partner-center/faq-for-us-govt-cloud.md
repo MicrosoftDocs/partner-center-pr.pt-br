@@ -19,7 +19,7 @@ ms.locfileid: "74253642"
 
 **Aplica-se a**
 
--  Partner Center para Microsoft Cloud for US Government
+-  Partner Center do Microsoft Cloud for US Government
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes 
 
@@ -37,7 +37,7 @@ Os parceiros nos Estados Unidos que atendem a órgãos federais, estaduais e mun
 
 **O preço do cliente é o mesmo para o CSP comercial?**
 
-Não. Os preços refletirão os custos adicionais para prover o valor exclusivo do Microsoft Cloud for US Government.
+Nº Os preços refletirão os custos adicionais para prover o valor exclusivo do Microsoft Cloud for US Government.
 
 **O modelo de desconto do parceiro é o mesmo?**
 
@@ -99,15 +99,15 @@ Os critérios de qualificação para vender o programa CSP para Nuvem do Governo
 
 **Sou um parceiro existente. O que preciso fazer para vender Microsoft Cloud para o governo dos EUA?**
 
-Os parceiros precisarão aderir ao programa CSP do Microsoft Cloud para o Governo dos Estados Unidos para atender aos requisitos regulatórios e de conformidade. (A integração para Microsoft Cloud for US Government é separada do carregamento de CSP comercial). Depois que você integrar, poderá criar os clientes e comercializar as ofertas disponíveis no Microsoft Cloud for US Government. Se você estiver aproveitando as APIs, consulte [Desenvolvimento para o Partner Center para o Microsoft National Cloud](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS).
+Os parceiros precisarão aderir ao programa CSP do Microsoft Cloud para o Governo dos Estados Unidos para atender aos requisitos regulatórios e de conformidade. (A integração para Microsoft Cloud for US Government é separada do carregamento de CSP comercial). Depois que você integrar, poderá criar os clientes e comercializar as ofertas disponíveis no Microsoft Cloud for US Government. Se você está aproveitando as APIs, consulte [Desenvolvendo para o Partner Center para o Microsoft Cloud de um país](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS).
 
 **Há alguma diferença nos incentivos do parceiro?**
 
-Não. Os incentivos para parceiros do programa CSP do Microsoft Cloud for US Government são iguais aos do CSP Comercial. Para saber mais sobre os incentivos para parceiros, entre no [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/partner-incentives).
+Nº Os incentivos para parceiros do programa CSP do Microsoft Cloud for US Government são iguais aos do CSP Comercial. Para saber mais sobre os incentivos para parceiros, entre no [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/partner-incentives).
 
 **Há alguma alteração na cobrança?**
 
-Não. Os critérios de cobrança e os requisitos do Programa CSP do Microsoft Cloud for US Government são iguais aos do CSP Comercial. Para saber mais sobre a cobrança, examine os recursos no [Microsoft Partner Network](https://partner.microsoft.com/cloud-solution-provider/resources).
+Nº Os critérios de cobrança e os requisitos do Programa CSP do Microsoft Cloud for US Government são iguais aos do CSP Comercial. Para saber mais sobre a cobrança, examine os recursos no [Microsoft Partner Network](https://partner.microsoft.com/cloud-solution-provider/resources).
 
 **Para dados hospedados em data centers comerciais, é possível mudar para Microsoft Cloud para o governo dos EUA?**
 

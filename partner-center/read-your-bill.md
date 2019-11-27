@@ -2,7 +2,7 @@
 title: Ler sua cobrança | Partner Center
 ms.topic: article
 ms.date: 11/21/2019
-description: Your invoice is a summary of all Partner Center charges (across the program, products, and customers) for the current monthly period.
+description: Sua fatura é um resumo de todos os encargos do Partner Center (em todo o programa, produtos e clientes) para o período mensal atual.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
@@ -24,44 +24,44 @@ Aplica-se a:
 - Partner Center
 - Partner Center do Microsoft Cloud for US Government
 
-Your **invoice** is a **summary of all your Partner Center charges** (across the program, all products, and all customers) for the **current billing period**.
+Sua **fatura** é um **Resumo de todos os seus encargos do Partner Center** (em todo o programa, todos os produtos e todos os clientes) para o **período de cobrança atual**.
 
-## <a name="invoice-types"></a>Invoice types
+## <a name="invoice-types"></a>Tipos de fatura
 
-You will receive one invoice for any license-based charges (such as Office 365) and usage-based charges (such as Azure).
+Você receberá uma fatura para quaisquer encargos baseados em licença (como o Office 365) e encargos com base no uso (como o Azure).
 
-You will receive a separate invoice for one-time charges (such as Azure reserved VM instances).
+Você receberá uma fatura separada para cobranças de um tempo (como instâncias de VM reservadas do Azure).
 
-## <a name="invoice-file-fields"></a>Invoice file fields
+## <a name="invoice-file-fields"></a>Campos de arquivo de fatura
 
-For a detailed description of all the fields in your invoice file (including fields for one-time charges), see [Invoice file fields](invoice-file.md).
+Para obter uma descrição detalhada de todos os campos em seu arquivo de nota fiscal (incluindo campos para encargos de uma vez), consulte [campos de arquivo de nota fiscal](invoice-file.md).
 
-## <a name="find-your-bill"></a>Find your bill
+## <a name="find-your-bill"></a>Encontre sua fatura
 
-You can find your invoice on the **Billing** page of the dashboard in Partner Center. You can also find your billing history, spending trends, and reconciliation files on this page.
+Você pode encontrar sua fatura na página de **cobrança** do painel no Partner Center. Você também pode encontrar seu histórico de cobrança, tendências de gastos e arquivos de reconciliação nesta página.
 
-1. Sign in to the dashboard in Partner Center.
-2. In the left-hand menu, select **Billing**.
-3. On the **Billing** page, select the invoice you want to download.
-    - You can find a link to your latest invoice at the top of the page under **Account balance as of last invoice date**.
-    - You can find previous invoices in the **Billing history** section. Choose the appropriate year, then select the drop-down arrow next to the appropriate **Billing period**. You can select the link next to **Invoices (.pdf)** to download that period's invoice.
+1. Entre no painel no Partner Center.
+2. No menu à esquerda, selecione **cobrança**.
+3. Na página **cobrança** , selecione a fatura que você deseja baixar.
+    - Você pode encontrar um link para a fatura mais recente na parte superior da página em **saldo de conta até a data da última nota fiscal**.
+    - Você pode encontrar notas fiscais anteriores na seção **histórico de cobrança** . Escolha o ano apropriado e, em seguida, selecione a seta suspensa ao lado do **período de cobrança**apropriado. Você pode selecionar o link ao lado de **notas fiscais (. pdf)** para baixar a fatura desse período.
 
-## <a name="understand-billing-periods"></a>Understand billing periods
+## <a name="understand-billing-periods"></a>Entender os períodos de cobrança
 
-Your invoice is available within **two (2) days** of your selected billing date in **UTC time**.
+Sua fatura está disponível dentro de **dois (2) dias** da data de cobrança selecionada em **hora UTC**.
 
-For example, if you have a September 12th monthly billing date:
+Por exemplo, se você tiver uma data de cobrança mensal de 12 de setembro:
 
-- The invoice generation process will **begin** at 12:00AM UTC on September 13th.
-- The invoice generation process will **complete** by 12:00AM UTC on September 14th.
-- If you do not see your invoice by 11:59PM UTC on September 15th, you’re out of your Service Level Agreement (SLA) and should file a service request.
+- O processo de geração de nota fiscal **começará** em 12:10:00 UTC em setembro de 13.
+- O processo de geração de nota fiscal será **concluído** em 12:10:00 UTC em 14 de setembro.
+- Se você não vir sua fatura por 11:59PM UTC em 15 de setembro, você está fora de seu Contrato de Nível de Serviço (SLA) e deve arquivar uma solicitação de serviço.
 
-### <a name="csp-monthly-billing"></a>CSP monthly billing
+### <a name="csp-monthly-billing"></a>Cobrança mensal do CSP
 
-Partners in the Cloud Solution Provider (CSP) program who have chosen to be billed monthly pay Microsoft 60 days in arrears for their customers' subscriptions (both license-based and usage-based subscriptions).
+Os parceiros no programa CSP (provedor de soluções de nuvem) que escolheram ser cobrados mensalmente pagam a Microsoft 60 dias em pelos débitos anteriores para as assinaturas de seus clientes (assinaturas baseadas em licença e de uso).
 
-## <a name="find-itemized-details-for-charges"></a>Find itemized details for charges
+## <a name="find-itemized-details-for-charges"></a>Localizar detalhes detalhados para encargos
 
-You can understand itemized details about your charges using your reconciliation files. The reconciliation files include customer identifiers and subscription identifiers that you can use to create customer invoices.
+Você pode entender os detalhes detalhados sobre seus encargos usando seus arquivos de reconciliação. Os arquivos de reconciliação incluem identificadores de cliente e identificadores de assinatura que você pode usar para criar faturas de cliente.
 
 Para obter mais informações, consulte [Como usar os arquivos de reconciliação](use-the-reconciliation-files.md).

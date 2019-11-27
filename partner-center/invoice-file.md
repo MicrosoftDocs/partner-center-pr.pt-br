@@ -1,12 +1,12 @@
 ---
-title: Invoice files | Partner Center
+title: Arquivos de fatura | Centro de parceiros
 ms.topic: article
 ms.date: 08/26/2019
-description: Understand the fields in your invoice file for Partner Center billing.
+description: Entenda os campos em seu arquivo de nota fiscal para cobrança do Partner Center.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: billing, invoice
+keywords: cobrança, fatura
 ms.localizationpriority: medium
 ms.openlocfilehash: 9b3219b5752de59b9dde81343b8bd4e1128037bd
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,48 +15,48 @@ ms.contentlocale: pt-BR
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389834"
 ---
-# <a name="invoice-files"></a>Invoice files
+# <a name="invoice-files"></a>Arquivos de fatura
 
-You can use the following tables to understand the fields in Partner Center invoice files.
+Você pode usar as tabelas a seguir para entender os campos em arquivos de notas fiscais do Partner Center.
 
-## <a name="invoice-file-fields"></a>Invoice file fields
+## <a name="invoice-file-fields"></a>Campos de arquivo de fatura
 
-The following fields appear on your invoice files.
+Os campos a seguir aparecem nos arquivos da fatura.
 
 | Campo | Definição |
 | ----- | ---------- |
-| EUA FEIN | Your Federal Employer Identification Number (FEIN). This is your United States federal tax identifier number. |
+| EUA FEIN | Seu número de identificação do empregador Federal (FEIN). Este é o seu número de identificador de imposto federal Estados Unidos. |
 | Número do cliente | Seu número do cliente. |
-| Cobrar de | O endereço para onde enviamos sua fatura. You can change your company name and/or address in your Partner Center billing profile. |
-| Cobranças baseada em licença | The flat monthly or annual charges for your purchased usage-based licenses, billed in advance of the service. This number is the sum of all charges in the **Subtotal** column (column **T**) in your license-based reconciliation file. |
-| Encargos baseados em uso | Your Azure usage. This includes new services or applications enabled and used during the billing period. This number is the sum of all charges in the **PretaxCharges** column (column **Z**) in your usage-based reconciliation file. |
-| Descontos | The discount that the customer receives from subscription's normal price. This number is shown as a *flat amount*, not as a price per unit or license. |
-| Créditos | Credits or adjustments for changes made to subscriptions (for example, seat increases or decreases). |
+| Cobrar de | O endereço onde podemos enviar sua fatura. Você pode alterar o nome e/ou o endereço da sua empresa no perfil de cobrança do Partner Center. |
+| Cobranças baseada em licença | As tarifas fixas mensais ou anuais para suas licenças baseadas em uso adquiridas, cobradas antes do serviço. Esse número é a soma de todos os encargos na coluna de **Subtotal** (coluna **T**) em seu arquivo de reconciliação baseado em licença. |
+| Encargos baseados em uso | Seu uso do Azure. Isso inclui novos serviços ou aplicativos habilitados e usados durante o período de cobrança. Esse número é a soma de todos os encargos na coluna **PretaxCharges** (coluna **Z**) em seu arquivo de reconciliação baseado em uso. |
+| Descontos | O desconto que o cliente recebe do preço normal da assinatura. Esse número é mostrado como um *valor fixo*, não como um preço por unidade ou licença. |
+| Créditos | Créditos ou ajustes para alterações feitas em assinaturas (por exemplo, assento aumenta ou diminui). |
 | Subtotal | Total antes de impostos e encargos e créditos sem imposto. |
-| Tax | The total tax for your current charges, as totaled in the **Details** section beginning on page 2 of your invoice. This number is the sum of all charges in the **TaxAmount** column (column **AA**) in your usage-based reconciliation file, and the **Tax** column (column **U**) in your license-based reconciliation file. |
+| Tax | O imposto total para seus encargos atuais, conforme totalizado na seção de **detalhes** que começa na página 2 da fatura. Esse número é a soma de todos os encargos na coluna **TaxAmount** (coluna **AA**) em seu arquivo de reconciliação baseado em uso e a coluna de **impostos** (coluna **U**) em seu arquivo de reconciliação baseado em licença. |
 | Outros créditos | Créditos sem imposto. |
-| Total dos encargos atuais | The amount due in your billing currency for the billing period. These charges are due by the payment due date. |
-| Instruções de pagamento | Description of how to pay your invoice, based on your region. *Always be sure to include your invoice number when making a payment.* |
+| Total dos encargos atuais | O valor devido em sua moeda de cobrança para o período de cobrança. Esses encargos são devidos à data de vencimento do pagamento. |
+| Instruções de pagamento | Descrição de como pagar sua fatura, com base em sua região. *Sempre certifique-se de incluir o número da fatura ao fazer um pagamento.* |
 | Número da fatura | O número da sua fatura. |
-| Período de cobrança | The monthly period leading up to the invoice date. This is the period during which usage-based services are consumed and license-based services are reconciled for any credit adjustments or changes in license count. |
-| Data da fatura | The billing date or anniversary date on which your invoice is generated each month. |
-| Termos de pagamento | The payment term. Para as compras únicas, sempre será 60 dias. |
-| Data do pagamento | The date by which your payment must be received. |
-| PO do cliente | Your purchase number order. |
-| Atendimento ao cliente | The website address where you can access customer service. |
-| Destinatário do serviço | The address where the service is being used. (This is the legal company address associated with company vetting.) |
+| Período de cobrança | O período mensal que leva até a data da fatura. Esse é o período durante o qual os serviços baseados em uso são consumidos e os serviços baseados em licença são reconciliados para quaisquer ajustes de crédito ou alterações na contagem de licenças. |
+| Data da fatura | A data de cobrança ou a data de aniversário na qual sua fatura é gerada por mês. |
+| Termos de pagamento | A condição de pagamento. Para as compras únicas, sempre será 60 dias. |
+| Data do pagamento | A data até a qual seu pagamento deve ser recebido. |
+| PO do cliente | A ordem do número de compra. |
+| Atendimento ao cliente | O endereço do site em que você pode acessar o atendimento ao cliente. |
+| Destinatário do serviço | O endereço em que o serviço está sendo usado. (Este é o endereço da empresa legal associado à empresa habilitação.) |
 
-## <a name="one-time-charges-fields"></a>One-time charges fields
+## <a name="one-time-charges-fields"></a>Campos de encargos de uma vez
 
-The following fields only apply to **one-time charges** in Partner Center:
+Os campos a seguir se aplicam somente a **encargos únicos** no Partner Center:
 
 | Campo | Definição |
 | ----- | ---------- |
-| Data | Data da compra. |
+| Date | Data da compra. |
 | Descrição | Nome do produto. |
-| Quantity | The number of products (such as reservations) purchased. |
-| Preço unitário | Price per product (such as a reservation). |
+| Quantity | O número de produtos (como reservas) adquiridos. |
+| Preço unitário | Preço por produto (como uma reserva). |
 | Descontos | Qualquer desconto aplicável. |
 | Valor pré-taxado | Subtotal das compras antes dos impostos. |
 | Imposto sobre vendas | Valor do imposto. |
-| Total | Total amount to be paid. |
+| Total | Valor total a ser pago. |

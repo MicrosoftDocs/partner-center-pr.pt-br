@@ -1,13 +1,13 @@
 ---
-title: Create a customer association using the CPOR model | Partner Center
+title: Criar uma associação de cliente usando o modelo CPOR | Centro de parceiros
 ms.topic: article
 ms.date: 10/29/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Create a customer association using the CPOR model
+description: Criar uma associação de cliente usando o modelo CPOR
 author: LauraBrenner
 ms.author: labrenne
-keywords: incentives claims, co-op claims, co-op funds, OSU, OSA, ISV, revenue association
+keywords: créditos de incentivos, declarações de cooperação, fundos de cooperação, OSU, OSA, ISV, associação de receita
 ms.localizationpriority: medium
 ms.openlocfilehash: a3515c0fff52c9083bbad6cd19f033a88ae2f38a
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -16,83 +16,83 @@ ms.contentlocale: pt-BR
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384881"
 ---
-# <a name="create-a-customer-association-using-the-cpor-model"></a>Create a customer association using the CPOR model
+# <a name="create-a-customer-association-using-the-cpor-model"></a>Criar uma associação de cliente usando o modelo CPOR
 
 **Aplica-se a**
 
 -  Partner Center
 
 
-On October 1, 2019, Microsoft began using the Claiming Partner of Record (CPOR) model to manage the associations you have with your Microsoft 365 and Dynamics 365 customers with regards to the Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 and OSU-Business Application incentives.
+Em 1º de outubro de 2019, a Microsoft começou a usar o modelo de CPOR (parceiro de registro) para gerenciar as associações que você tem com os clientes do Microsoft 365 e do Dynamics 365 com relação à venda do OSA (comunicado de serviços online), OSU (uso de serviços online)- Incentivos de OSU e de aplicativos de negócios. Microsoft 365
 
-When you submit your claim, Microsoft validates it. We may ask you for more information at this point. We'll also notify the customer of your association request. Customers have five business days to opt out. If they don't opt out, your association with this specific tenant and workload will be official. At this point you'll have access to the customer's usage data. 
+Quando você envia sua declaração, a Microsoft a valida. Poderemos solicitar mais informações neste ponto. Também notificaremos o cliente sobre sua solicitação de associação. Os clientes têm cinco dias úteis para recusar. Se eles não recusarem, sua associação com esse locatário e carga de trabalho específicos será oficial. Neste ponto, você terá acesso aos dados de uso do cliente. 
 
-You'll need the following information to complete a claim:
+Você precisará das seguintes informações para concluir uma declaração:
 
-- The **MPN ID** for your entity that makes the claim
+- A **ID de MPN** da sua entidade que faz a declaração
 
-- Customer's **domain name** [Find this](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+- O **nome de domínio** do cliente [encontra isso](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
-- Customer's **Directory ID** or **Tenant ID** [Find this](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+- A **ID do diretório** ou a **ID de locatário** do cliente [encontra esta](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
-- The **Solution area**, such as Business Applications or Microsoft 365
+- A **área da solução**, como Business Applications ou Microsoft 365
 
-- The **Activity** you have performed and the type of claim you want to make, such as Pre-sales, Usage, or Revenue association
+- A **atividade** que você realizou e o tipo de declaração que deseja fazer, como pré-vendas, uso ou associação de receita
 
-- Your customer's **Contact name**, title, and email address
+- O nome do **contato**do seu cliente, o título e o endereço de email
 
-- For Dynamics 365, you also need to provide your customer's **Technical contact** name, title, and email address
+- Para o Dynamics 365, você também precisa fornecer o nome do **contato técnico** do cliente, o título e o endereço de email
 
-- Your own company's **Contact name** and email address
+- O **nome de contato** e o endereço de email da sua própria empresa
 
-- You'll create a **Name** for this claim
+- Você criará um **nome** para esta declaração
 
-- The **Product(s)** or workload(s) you're claiming
+- Os **produtos** ou as cargas de trabalho que você está reivindicando
 
-- **Proof of execution (POE)** , such as a statement of work signed by the customer. You can also download a POE template to use.
+- **Poe (prova de execução)** , como uma declaração de trabalho assinada pelo cliente. Você também pode baixar um modelo POE para usar o.
 
-- For partners claiming revenue association only: **Dynamics solution seller name**, **Customer name**, and **Name of ISV product/solution**. 
+- Para parceiros que alegam somente Associação de receita: **nome do vendedor da solução Dynamics**, **nome do cliente**e **nome do produto/solução ISV**. 
 
-You should also understand the following points:
-- If you have existing Microsoft 365 customers, you'll need to re-associate with those you want to continue to earn OSU incentives by using this process.
-- If you have existing associations with Dynamics 365 or Power BI customers, these associations will remain valid, until the expiration of their subscriptions.
-- A customer can have multiple partners, but each workload (for OSU-Microsoft 365) or subscription (for OSA-Sell and OSU-Business Applications) can only be associated with one partner.
+Você também deve entender os seguintes pontos:
+- Se você tiver clientes Microsoft 365 existentes, será necessário reassociá-los com aqueles que deseja continuar a obter incentivos de OSU usando esse processo.
+- Se você tiver associações existentes com os clientes do Dynamics 365 ou Power BI, essas associações permanecerão válidas até a expiração de suas assinaturas.
+- Um cliente pode ter vários parceiros, mas cada carga de trabalho (para Microsoft 365 OSU) ou assinatura (para OSA-vendê e OSU-Business Applications) só pode ser associada a um parceiro.
 
-## <a name="create-a-customer-association"></a>Create a customer association
-1.  In the Partner Center dashboard, under **Incentives**, select **Overview**, and then select **Customer associations**. 
+## <a name="create-a-customer-association"></a>Criar uma associação de cliente
+1.  No painel do Partner Center, em **incentivos**, selecione **visão geral**e, em seguida, selecione **associações de cliente**. 
 
-2.  At the top of the Customer associations page, select **+ Customer association**.
+2.  Na parte superior da página associações do cliente, selecione **+ Associação de cliente**.
 
-3.  Select the **MPN ID** of the partner location to be associated with the customer, and then add the customer's domain name and Directory ID. [Where are these?](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+3.  Selecione a **ID de MPN** do local do parceiro a ser associado ao cliente e, em seguida, adicione o nome de domínio do cliente e a ID do diretório. [Onde estão eles?](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
 Selecione **Continuar**.
 
-4.  Select the **Solution area** and **Activity**. 
+4.  Selecione a **área da solução** e a **atividade**. 
 
 >[!Note]
 
->If you select Business Applications, select either **Usage and/or Pre-sales**, or **Revenue association**, and then select **Continue**. 
+>Se você selecionar Business Applications, selecione **uso e/ou pré-vendas**ou associação de **receita**e, em seguida, selecione **continuar**. 
 
->If you select Revenue association, you'll be prompted for slightly different information than what's listed below. 
+>Se você selecionar a associação de receita, você será solicitado a fornecer informações ligeiramente diferentes das que estão listadas abaixo. 
 
-5.  Enter the appropriate information on the **Associate customer** page, and then select **Create claim**.
+5.  Insira as informações apropriadas na página **associar cliente** e, em seguida, selecione **criar declaração**.
 
-6.  Select the product(s) associated with this customer association, and then select **Continue**.
+6.  Selecione os produtos associados a essa associação de cliente e selecione **continuar**.
 
-7.  Complete the customer contact information and your company's contact information. Todos os campos são necessários. 
+7.  Preencha as informações de contato do cliente e as informações de contato da sua empresa. Todos os campos são necessários. 
 
 >[!Note]
 
-If your product is Dynamics 365, and the product you choose has multiple subscriptions for this particular customer, you'll also need to enter the subscription ID.
+Se o seu produto for o Dynamics 365 e o produto escolhido tiver várias assinaturas para esse cliente específico, você também precisará inserir a ID da assinatura.
 
-8.  Supply your proof of execution (POE). You can drag it to the box, browse to your own supporting documentation, or use a template by selecting **Download template**. 
+8.  Forneça a sua POE (prova de execução). Você pode arrastá-lo para a caixa, navegar até sua própria documentação de suporte ou usar um modelo selecionando **baixar modelo**. 
 
-9.  Add and save comments if you like, and then select **Submit claim**. We'll send an email to the customer requesting approval of your customer association. 
+9.  Adicione e salve comentários, se desejar, e selecione **Enviar declaração**. Enviaremos um email para o cliente solicitando aprovação da sua associação de cliente. 
 
 >[!NOTE]
 
->Once you submit your customer association, you can't edit it. 
+>Depois de enviar sua associação de cliente, você não poderá editá-la. 
 
-The status of your customer association appears in the **Status** field. 
+O status da sua associação de cliente aparece no campo **status** . 
 
-Select **History** to view the history of a customer association.
+Selecione **histórico** para exibir o histórico de uma associação de cliente.

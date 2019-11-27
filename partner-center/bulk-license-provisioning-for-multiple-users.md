@@ -17,7 +17,7 @@ ms.contentlocale: pt-BR
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253041"
 ---
-# <a name="assign-or-revoke-licenses-to-multiple-users"></a>Atribuir ou revogar licenças para vários usuários
+# <a name="assign-or-revoke-licenses-to-multiple-users"></a>Atribua licenças a vários usuários ou revogue-as
 
 **Aplica-se a**
 

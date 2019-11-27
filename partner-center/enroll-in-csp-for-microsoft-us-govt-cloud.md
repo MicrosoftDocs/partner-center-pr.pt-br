@@ -19,7 +19,7 @@ ms.locfileid: "74252215"
 
 **Aplica-se a**
 
--  Partner Center para Microsoft Cloud for US Government
+-  Partner Center do Microsoft Cloud for US Government
 
 Os parceiros da Microsoft agora podem vender soluções de nuvem da Microsoft e serviços para entidades federais, estaduais, locais e tribais dos EUA por meio do programa CSP (Provedor de Soluções na Nuvem) para Microsoft Cloud for US Government. 
 

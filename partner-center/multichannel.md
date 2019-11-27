@@ -24,11 +24,11 @@ ms.locfileid: "74189069"
 -  Partner Center do Microsoft Cloud for US Government
 
 
-The Partner Center's multi-channel feature supports scenarios when a customer wants to hire a partner to manage and support a subscription they purchased elsewhere. O suporte multi-canal se aplica quando o cliente:
+O recurso de vários canais do Partner Center dá suporte a cenários quando um cliente deseja contratar um parceiro para gerenciar e dar suporte a uma assinatura comprada em outro lugar. O suporte multi-canal se aplica quando o cliente:
 
 -   Já tiver comprado assinaturas da Microsoft diretamente ou através dos programas Advisor, Open ou EA.
 
--   Comprou as assinaturas de um terceiro, que não está no programa Provedor de Soluções na Nuvem ou de um Parceiro de Distribuição da Microsoft. Customers can't switch existing license-based subscriptions to a different partner in the Cloud Solution Provider program-they must wait until the end of their subscription period or cancel before moving.
+-   Comprou as assinaturas de um terceiro, que não está no programa Provedor de Soluções na Nuvem ou de um Parceiro de Distribuição da Microsoft. Os clientes não podem alternar assinaturas baseadas em licença existentes para um parceiro diferente no programa do provedor de soluções de nuvem. eles devem aguardar até o fim do período de assinatura ou cancelar antes de mover.
 
 
 <table>
@@ -38,21 +38,21 @@ The Partner Center's multi-channel feature supports scenarios when a customer wa
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>License-based services</strong></p></td>
+<td><p><strong>Serviços baseados em licença</strong></p></td>
 <td><p>Para dar suporte a contas de vários canais, você deve solicitar permissões do cliente para gerenciar as assinaturas dele. Consulte <a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">Solicitar uma relação de revendedor com um cliente</a> para obter informações sobre como fazer isso.</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Usage-based services</strong></p></td>
+<td><p><strong>Serviços baseados em uso</strong></p></td>
 <td>
-<p>For a customer who already has a subscription to Microsoft Azure from another channel, such as Advisor, Open, or EA, you&#39;ll need to create a new Azure subscription in Partner Center, manually enter the subscription details, and then cancel the individual services or the entire subscription. Azure CSP can coexist with different channels.</p>
-<p>Por exemplo, para um cliente que já tem uma assinatura do Microsoft Azure de outro parceiro, você pode alternar os serviços do Azure para o outro parceiro.  Para obter mais informações, consulte <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Alternar assinaturas do Azure para um parceiro diferente</a>.</p>
+<p>Para um cliente que já tem uma assinatura para Microsoft Azure de outro canal, como Advisor, Open ou EA, você&#39;precisa criar uma nova assinatura do Azure no Partner Center, inserir manualmente os detalhes da assinatura e, em seguida, cancelar a pessoa serviços ou toda a assinatura. O Azure CSP pode coexistir com diferentes canais.</p>
+<p>Por exemplo, para um cliente que já tem uma assinatura do Microsoft Azure de outro parceiro, você pode alternar os serviços do Azure para o outro parceiro.  Para obter mais informações, consulte <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Alterne assinaturas do Azure para um outro parceiro</a>.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
 > [!IMPORTANT]  
-> Um parceiro CSP não revende serviços online para outro parceiro CSP no momento. A Microsoft revisa continuamente as políticas e competências de todos os programas. Any announcements about feature releases will be announced through the usual communication channels, including the Partner Center. 
+> Um parceiro CSP não revende serviços online para outro parceiro CSP no momento. A Microsoft revisa continuamente as políticas e competências de todos os programas. Todos os comunicados sobre as versões de recursos serão anunciados por meio dos canais de comunicação usuais, incluindo o Partner Center. 
 
 ## <a name="see-also"></a>Consulte também
 

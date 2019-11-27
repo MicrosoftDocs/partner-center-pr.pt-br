@@ -21,7 +21,7 @@ ms.locfileid: "74253567"
 **Aplica-se a**
 
 -  Partner Center
--  Partner Center para Microsoft Cloud for US Government
+-  Partner Center do Microsoft Cloud for US Government
 
 
 Como parceiro de revendedor, você deve fazer uma conta para cada um de seus clientes no Partner Center. A conta do cliente será seu ponto de partida para a venda de assinaturas, cobrança e o fornecimento de suporte. Você precisa fazer uma conta do Partner Center para cada um de seus clientes, incluindo os clientes que você tinha antes de passar para o Partner Center.

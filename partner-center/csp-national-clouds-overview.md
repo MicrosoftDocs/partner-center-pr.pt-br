@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how Microsoft partners in the Cloud Solution Provider program can sell to customers enrolled in supported national clouds.
+description: Saiba como os parceiros da Microsoft no programa de provedor de soluções de nuvem podem vender para clientes registrados em nuvens nacionais com suporte.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: nuvens nacionais, Microsoft Cloud Germany, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud China
@@ -32,19 +32,19 @@ A Microsoft disponibiliza estes serviços nas nuvens nacionais:
 
 Parceiros qualificados podem vender soluções na nuvem da Microsoft para os clientes nestas nuvens nacionais:
 
--   [**Microsoft Cloud for US Government**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_US) Designed for the US government from the ground up, Microsoft Cloud for Government enables public sector customers in the United States—from large federal agencies to small town governments—to select from a range of cloud computing services. To best address its customers' specific needs, Microsoft has made significant investment in datacenters and is dedicated to meeting compliance with US federal and state policies, mandates, and requirements. 
+-   [**Microsoft Cloud para o governo dos EUA**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_US) Projetado para o governo dos EUA desde o início, Microsoft Cloud para o governo permite que os clientes do setor público na Estados Unidos — desde grandes agências federais até governos de pequenos municípios, selecionem uma variedade de serviços de computação em nuvem. Para atender melhor às necessidades específicas de seus clientes, a Microsoft fez um investimento significativo em data centers e é dedicada a atender à conformidade com políticas federais e estaduais, mandatos e requisitos dos EUA. 
 
     Para obter informações sobre como se inscrever e vender para clientes no Microsoft Cloud for US Government, consulte o [Partner Center for Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md).
 
--   [**Microsoft Cloud Germany**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft Cloud Germany offers Azure, Office 365, and Dynamics 365 from German datacenters through a unique model. Nesse modelo, o acesso a dados de clientes é controlado por um Data Trustee alemão independente que opera de acordo com a legislação alemã. A T-Systems International GmbH, uma subsidiária da Deutsche Telecom, age como o Data Trustee independente para o Microsoft Cloud Germany. 
+-   [**Microsoft Cloud Alemanha**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft Cloud a Alemanha oferece o Azure, o Office 365 e o Dynamics 365 de data centers alemão por meio de um modelo exclusivo. Nesse modelo, o acesso a dados de clientes é controlado por um Data Trustee alemão independente que opera de acordo com a legislação alemã. A T-Systems International GmbH, uma subsidiária da Deutsche Telecom, age como o Data Trustee independente para o Microsoft Cloud Germany. 
 
     > [!IMPORTANT]  
-    > Based on the evolution in customers' needs, our cloud strategy for Germany will focus on delivery of the new cloud regions in Germany that are consistent with our global cloud offering. Com esse foco, não aceitaremos mais novos clientes nem implantaremos novos serviços do Microsoft Cloud Germany disponível atualmente. Existing customers can continue to use the current cloud services available today, which we'll maintain with necessary security updates.
+    > Com base na evolução das necessidades dos clientes, nossa estratégia de nuvem para a Alemanha se concentrará na entrega das novas regiões de nuvem na Alemanha que são consistentes com nossa oferta de nuvem global. Com esse foco, não aceitaremos mais novos clientes nem implantaremos novos serviços do Microsoft Cloud Germany disponível atualmente. Os clientes existentes podem continuar a usar os serviços de nuvem atuais disponíveis hoje, o que manteremos com as atualizações de segurança necessárias.
     >  
     > De agora em diante, os novos clientes têm a opção de usar as regiões europeias disponíveis atualmente ou as novas regiões na Alemanha quando estiverem disponíveis. Para obter mais informações, consulte [Microsoft fornecerá serviços de nuvem de novos datacenters na Alemanha](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).
 
     
--   [**Azure and Office 365 operated by 21Vianet in China**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Microsoft provides cloud services in China through a unique partnership with Shanghai Blue Cloud Technology Co., Ltd. (21Vianet), a wholly owned subsidiary of Beijing 21Vianet Broadband Data Center Co., Ltd. 21Vianet is the largest carrier-neutral Internet provider of datacenter, hosting, managed network, and cloud computing infrastructure services in China. 
+-   [**Azure e Office 365 operados pela 21vianet na China**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) A Microsoft fornece serviços de nuvem na China por meio de uma parceria exclusiva com a tecnologia de nuvem azul de Xangai co., Ltd. (21Vianet), uma subsidiária totalmente proprietária do data center de banda larga de Pequim da 21Vianet da União de dados, hospedagem, rede gerenciada e serviços de infraestrutura de computação em nuvem na China. 
 
     A Microsoft é o provedor de tecnologia, mas não opera o serviço; a 21Vianet opera, fornece e gerencia a entrega dos serviços em nuvem da Microsoft de forma independente. Ao licenciar tecnologias da Microsoft, a 21Vianet pode oferecer serviços e operar datacenters do Azure e Office 365 que mantêm os dados dentro da China continental. A 21Vianet também fornece serviços de cobrança e assinatura, bem como suporte.
 

@@ -29,8 +29,8 @@ A Microsoft fornece preços especiais e reduzidos para grupos de clientes seleci
 |**Preços especiais**   |**Qualificações necessárias do revendedor**   |**Qualificações necessárias para o cliente**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Educação   |Torne-se um [Revendedor Educacional Autorizado](https://www.mepn.com).   | Deve ser um [Usuário Educacional Qualificado](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
-|Governo   |Para vender o Azure, registre-se usando o [formulário de validação de nuvem do governo dos EUA da Microsoft](https://azuregov.microsoft.com/csp). Para vender assinaturas baseadas em licença ao governo, não há qualificação necessária.|   Nenhuma|
-|Sem fins lucrativos  |Nenhuma<br>Deve ter um locatário do Azure Active Directory sem fins lucrativos.<br>Saiba mais sobre [ofertas especiais sem fins lucrativos](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Inscreva-se por meio do [programa sem fins lucrativos da Microsoft](https://nonprofit.microsoft.com/#/register) para ser qualificado.   |
+|Governo   |Para vender o Azure, registre-se usando o [formulário de validação de nuvem do governo dos EUA da Microsoft](https://azuregov.microsoft.com/csp). Para vender assinaturas baseadas em licença ao governo, não há qualificação necessária.|   Nenhum|
+|Sem fins lucrativos  |Nenhum<br>Deve ter um locatário do Azure Active Directory sem fins lucrativos.<br>Saiba mais sobre [ofertas especiais sem fins lucrativos](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Inscreva-se por meio do [programa sem fins lucrativos da Microsoft](https://nonprofit.microsoft.com/#/register) para ser qualificado.   |
 
 
 ## <a name="check-your-reseller-qualifications"></a>Verificar suas qualificações de revendedor

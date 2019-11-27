@@ -22,7 +22,7 @@ ms.locfileid: "74252711"
 **Aplica-se a**
 
 -  Partner Center
--  Partner Center para Microsoft Cloud for US Government
+-  Partner Center do Microsoft Cloud for US Government
 
 
 Os logs de atividades fornecem informações sobre transações e ações de gerenciamento de parceiros para clientes. Os logs de transações fornecem informações detalhadas sobre a transação, incluindo as assinaturas compradas. Você também pode exportar logs de atividades para um formato de arquivo de valores separados por vírgula (.csv) compatível com o Excel.
@@ -44,7 +44,7 @@ Os logs de atividades fornecem registros de ações de parceiros em contas de cl
     -   **Ação** – a ação tomada pelo cliente, tal como "criou uma referência";
     -   **Usuário parceiro** — o parceiro associado à atividade.
 
-4.  Selecione **Exportar log** para copiar os dados de assinatura do cliente em um arquivo .csv e o baixa na pasta de download padrão em seu computador.
+4.  Selecione **Exportar log** para copiar os dados de assinatura do cliente em um arquivo .csv e baixe-o na pasta de download padrão em seu computador.
     
  
 

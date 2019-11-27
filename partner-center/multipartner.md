@@ -23,19 +23,19 @@ ms.locfileid: "74189085"
 -  Partner Center
 -  Partner Center do Microsoft Cloud for US Government
 
-The Partner Center's multi-partner feature supports scenarios when a customer wants to work with more than one partner. Por exemplo, um cliente pode querer contratar um parceiro por sua experiência em Office 365, mas contratar um parceiro diferente com especialização em Microsoft Azure. 
+O recurso de vários parceiros do Partner Center dá suporte a cenários quando um cliente deseja trabalhar com mais de um parceiro. Por exemplo, um cliente pode querer contratar um parceiro por sua experiência em Office 365, mas contratar um parceiro diferente com especialização em Microsoft Azure. 
 
-An Azure CSP tenant can include an additional Azure subscription from a different CSP partner.
+Um locatário do Azure CSP pode incluir uma assinatura adicional do Azure de um parceiro CSP diferente.
 
-To use the multi-partner feature in the Partner Center, invite the customer to give you delegated administration privileges. Consulte [Solicitar uma relação com um cliente](request-a-relationship-with-a-customer.md) para obter informações sobre como estabelecer uma relação com um cliente que já está trabalhando com um parceiro.
+Para usar o recurso de vários parceiros no Partner Center, convide o cliente para fornecer privilégios de administração delegados. Consulte [Solicitar uma relação com um cliente](request-a-relationship-with-a-customer.md) para obter informações sobre como estabelecer uma relação com um cliente que já está trabalhando com um parceiro.
 
 A funcionalidade de vários parceiros não:
 
-- Change any of the customer's existing subscriptions
+- Alterar qualquer uma das assinaturas existentes do cliente
 
-- Transition the customer's existing subscriptions or account ownership
+- Fazer a transição da propriedade da conta ou das assinaturas existentes do cliente
 
-- Change the terms or customer's obligations for any of their existing subscriptions
+- Alterar os termos ou as obrigações do cliente para qualquer uma de suas assinaturas existentes
 
 - Mudar o parceiro de registro para uma inscrição
 

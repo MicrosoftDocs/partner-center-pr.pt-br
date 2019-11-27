@@ -21,7 +21,7 @@ ms.locfileid: "74253484"
 **Aplica-se a**
 
 -  Partner Center
--  Partner Center para Microsoft Cloud for US Government
+-  Partner Center do Microsoft Cloud for US Government
 
 
 ## <a name="microsoft-partner-support-guidance"></a>Diretrizes de suporte para parceiros da Microsoft

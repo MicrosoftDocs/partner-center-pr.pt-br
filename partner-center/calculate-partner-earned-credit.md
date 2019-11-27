@@ -28,7 +28,7 @@ Os parceiros que possuem o gerenciamento de operações de ti 24x7 de partes ou 
 
 - O provedor indireto será elegível para o PEC se ele ou seu revendedor indireto tiver um controle operacional e o gerenciamento operacionais 24x7 dos recursos do Azure do cliente no CSP.
 
-- O PEC está associado ao consumo cobrado (passível de cobrança) do espaço do Azure do cliente no CSP gerenciado pelo parceiro. 
+- O PEC está associado ao consumo cobrado (passível de cobrança) da propriedade do Azure do cliente no CSP gerenciada pelo parceiro. 
 
 - O PEC está disponível somente para parceiros no CSP que são cobrados pela Microsoft (provedor indireto e parceiro de cobrança direta).
 

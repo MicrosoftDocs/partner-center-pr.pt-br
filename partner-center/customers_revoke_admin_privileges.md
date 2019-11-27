@@ -28,14 +28,14 @@ Para gerenciar um serviço ou inscrição de cliente em seu nome, o cliente deve
 
 1.  Selecione **clientes** e, em seguida, selecione **solicitar uma relação de revendedor**.
 
-2.  Na página seguinte, reveja o rascunho da mensagem de e-mail. Você pode abrir a mensagem rascunho em seu aplicativo de e-mail padrão ou pode copiar a mensagem para sua área de transferência e colá-lo no e-mail. 
+2.  Na próxima página, reveja o rascunho da mensagem de email. Você pode abrir a mensagem rascunho em seu aplicativo de e-mail padrão ou pode copiar a mensagem para sua área de transferência e colá-lo no e-mail. 
 
     >[!IMPORTANT]
-    >Você pode editar o texto no e-mail, mas certifique-se de incluir o link, pois ele é personalizado, para vincular o cliente diretamente a sua conta. 
+    >Você pode editar o texto no email, mas certifique-se de incluir o link, pois ele é personalizado, para vincular o cliente diretamente à sua conta. 
     
-3.  Selecione **concluído** quando você concluiu esta etapa.
+3.  Selecione **Concluído** quando tiver completado essa etapa.
 
-4.  Envie o e-mail para seu cliente.
+4.  Envie o email para seu cliente.
 
 5.  Depois do cliente aceitar seu convite, eles aparecerão em sua página **Clientes**, e você poderá provisionar e gerenciar o serviço para o cliente a partir daí.
 

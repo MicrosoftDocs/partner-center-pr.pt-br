@@ -1,13 +1,13 @@
 ---
-title: Purchase commercial marketplace products or offers for your customers  | Partner Center
+title: Comprar produtos ou ofertas do Marketplace comercial para seus clientes | Centro de parceiros
 ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how CSP program partners can use the Partner Center marketplace to make customer purchases of SaaS offers from Independent Software Vendors (ISVs).
+description: Saiba como os parceiros do programa CSP podem usar o Marketplace do Partner Center para fazer compras de clientes de ofertas de SaaS de ISVs (fornecedores independentes de software).
 author: MicheleHope
 ms.author: v-mihope
-keywords: subscriptions, marketplace, commercial marketplace, third party, ISV, SaaS offers, Cloud Solution Provider program, purchase an offer, purchase a subscription
+keywords: assinaturas, Marketplace, Marketplace comercial, terceiros, ISV, ofertas de SaaS, programa de provedor de soluções na nuvem, comprar uma oferta, comprar uma assinatura
 ms.localizationpriority: medium
 ms.openlocfilehash: 3dd3facf79e0e33a6dfc35a162c444a13a19b256
 ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
@@ -16,53 +16,53 @@ ms.contentlocale: pt-BR
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253794"
 ---
-# <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Purchase commercial marketplace products for your customers in Partner Center
+# <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Comprar produtos do Marketplace comercial para seus clientes no Partner Center
 
 **Aplica-se a**
 
 - Partner Center
 - Parceiros no programa CSP
 
-**Appropriate roles**
+**Funções apropriadas**
 
 - Administração global
-- Agente administrativo
+- Agente administrador
 
-As a partner in the Cloud Solution Provider (CSP) program, you can use the commercial marketplace to purchase subscriptions for your customers to certain Software as a Service (SaaS) products offered by Independent Software Vendors (ISVs). 
+Como parceiro no programa CSP (provedor de soluções na nuvem), você pode usar o Marketplace comercial para comprar assinaturas para seus clientes para determinados produtos de SaaS (software como serviço) oferecidos por fornecedores independentes de software (ISVs). 
 
-By offering ISV SaaS subscriptions to your customers, you can help differentiate your business. You can also give your customers access to software bundles that address their specific business needs. You manage licenses and subscriptions for these marketplace SaaS products from ISV publishers just as you manage licenses and subscriptions for Microsoft products.
+Ao oferecer assinaturas SaaS de ISV aos seus clientes, você pode ajudar a diferenciar seus negócios. Você também pode dar aos seus clientes acesso a pacotes de software que atendam às suas necessidades de negócios específicas. Você gerencia licenças e assinaturas para esses produtos SaaS do Marketplace por meio de editores ISV, assim como gerencia licenças e assinaturas de produtos da Microsoft.
 
-You can purchase either **license-based** SaaS subscriptions or **usage-based** subscriptions. To learn more about the difference between license-based and usage-based billing, see [Billing basics](billing-basics.md).
+Você pode comprar assinaturas SaaS **baseadas em licença** ou assinaturas baseadas em **uso** . Para saber mais sobre a diferença entre a cobrança baseada em licença e com base no uso, consulte [noções básicas de cobrança](billing-basics.md).
 
-## <a name="purchase-license-based-saas-subscriptions-in-partner-center"></a>Purchase license-based SaaS subscriptions in Partner Center
+## <a name="purchase-license-based-saas-subscriptions-in-partner-center"></a>Comprar assinaturas SaaS baseadas em licença no Partner Center
 
-You purchase subscriptions for license-based SaaS products offered by ISV publishers using the same process you use to purchase subscriptions for Microsoft products.
+Você adquire assinaturas para produtos SaaS baseados em licença oferecidos por editores ISV usando o mesmo processo usado para comprar assinaturas de produtos da Microsoft.
 
-To purchase a license-based SaaS subscription in Partner Center, see [Create, suspend or cancel customer subscriptions](create-a-new-subscription.md#create-a-new-subscription).
+Para comprar uma assinatura SaaS baseada em licença no Partner Center, consulte [criar, suspender ou cancelar assinaturas de cliente](create-a-new-subscription.md#create-a-new-subscription).
 
-Você também pode usar [as APIs](https://docs.microsoft.com/partner-center/develop/) do Partner Center para criar assinaturas do Marketplace comercial para seus clientes. (For more info on using Partner Center APIs, see [Create a subscription for commercial marketplace products](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).)
+Você também pode usar [as APIs](https://docs.microsoft.com/partner-center/develop/) do Partner Center para criar assinaturas do Marketplace comercial para seus clientes. (Para obter mais informações sobre como usar as APIs do Partner Center, consulte [criar uma assinatura para produtos do Marketplace comercial](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).)
 
 >[!IMPORTANT]
-> As a partner in the CSP program, you can only purchase **license-based** SaaS subscriptions from ISV publishers within Partner Center. This means you can purchase any **license-based** SaaS offer the ISV publisher has made available to you, including [exclusive offers](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) to which you have access. To purchase or manage other, commercial marketplace offers from ISVs (such as **usage-based**, metered or consumption-based offers involving Azure applications, Containers or VMs), you must go to the [Azure management portal](https://portal.azure.com/). For more information, see the following topic.
+> Como um parceiro no programa CSP, você só pode comprar assinaturas SaaS **baseadas em licença** de editores ISV no Partner Center. Isso significa que você pode comprar qualquer oferta de SaaS **baseada em licença** que o editor ISV disponibilizou para você, incluindo [ofertas exclusivas](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) às quais você tem acesso. Para comprar ou gerenciar outras ofertas de Marketplace comercial de ISVs (como ofertas baseadas em **uso**, limitada ou de consumo que envolvem aplicativos, contêineres ou VMS do Azure), você deve acessar o [portal de gerenciamento do Azure](https://portal.azure.com/). Para obter mais informações, consulte o tópico a seguir.
 
-## <a name="purchase-usage-based-subscriptions-in-the-azure-management-portal"></a>Purchase usage-based subscriptions in the Azure management portal
+## <a name="purchase-usage-based-subscriptions-in-the-azure-management-portal"></a>Comprar assinaturas baseadas no uso no portal de gerenciamento do Azure
 
-In contrast to license-based SaaS subscriptions from third-party ISV publishers, usage-based subscriptions first require a customer to have an Azure subscription. Billing for commercial marketplace, usage-based resources falls under the customer's Azure subscription. Once your customer has an Azure subscription, a partner in the CSP program can follow these steps to purchase a commercial marketplace subscription for them:
+Ao contrário das assinaturas SaaS baseadas em licença de editores de ISVs de terceiros, as assinaturas baseadas em uso primeiro exigem que um cliente tenha uma assinatura do Azure. Cobrança para o Marketplace comercial, os recursos baseados em uso se enquadram na assinatura do Azure do cliente. Depois que o cliente tiver uma assinatura do Azure, um parceiro no programa CSP poderá seguir estas etapas para comprar uma assinatura do Marketplace comercial para elas:
 
-1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard), then select **Customers** from the left-hand menu.
+1. Entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center e selecione **clientes** no menu à esquerda.
 
-2. Select the specific customer, then select **Subscriptions**.  
+2. Selecione o cliente específico e, em seguida, selecione **assinaturas**.  
 
-3. Under the **Usage-based subscriptions**, select **All resources**. This takes you to the Azure Management portal.
+3. Em **assinaturas baseadas em uso**, selecione **todos os recursos**. Isso leva você para o portal de gerenciamento do Azure.
 
-4. In the Azure Management portal, select **Create a resource** from the left-hand menu.
+4. No portal de gerenciamento do Azure, selecione **criar um recurso** no menu à esquerda.
 
-5. Select **See all** at the top of the Azure Marketplace list.
+5. Selecione **ver tudo** na parte superior da lista do Azure Marketplace.
 
-6. To narrow your list, use filters at the top of the Marketplace list. For example, you can select **Microsoft** or **Partner** from the **Publisher** dropdown list to view only offers from Microsoft or those from an ISV publisher.
+6. Para restringir sua lista, use filtros na parte superior da lista do Marketplace. Por exemplo, você pode selecionar **Microsoft** ou **Partner** na lista suspensa **Publicador** para exibir apenas ofertas da Microsoft ou de um editor ISV.
 
-7. Choose a specific offer, then select **Create**.
+7. Escolha uma oferta específica e, em seguida, selecione **criar**.
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Manage commercial marketplace offers](csp-commercial-marketplace-purchase.md)
+- [Gerenciar ofertas do Marketplace comercial](csp-commercial-marketplace-purchase.md)
