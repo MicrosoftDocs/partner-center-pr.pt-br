@@ -8,12 +8,12 @@ description: Veja os lucros e pagamentos de cada um dos programas de incentivo.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3a616fabb87793bb5433eb1d56c9d20923df6e01
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 911648807a3b2905492f5f15c770aca81726ccbf
+ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653992"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "74559744"
 ---
 # <a name="view-your-incentives-payments-information"></a>Exibir suas informações de pagamentos de incentivos
 
@@ -91,6 +91,7 @@ Essa opção fornece um download dos pagamentos recebidos em seu banco para um d
 |earnedUSD   |Valor obtido para a ID do programa/participante, em USD      |
 |withheldTax   |Quantidade de imposto retido na moeda de pagamento para o programa/participanteid      |
 |salesTax   |Valor total do imposto sobre vendas na moeda de pagamento para o programa/participanteid      |
+|serviceFeeTax  |Quantidade total de serviceFeeTax em pagamento à moeda para o programa/participanteid |
 |totalPayment   |Pagamento total na moeda local, excluindo a retenção de imposto e incluindo o imposto sobre vendas (se aplicável) para o programa/participanteid      |
 |currencyCode   |Pagar para código de moeda      |
 |paymentMethod   |O método usado para pagar o parceiro (transferência bancária eletrônica, nota de crédito)      |
@@ -150,6 +151,6 @@ Além da tabela acima, esses campos de histórico de transações estarão dispo
 |agreementNumber   |Número do contrato   |
 |agreementStartDate   |Data de início do contrato   |
 |agreementEndDate   |Data de término do contrato   |
-|Pico   |Carga de trabalho   |
+|pico   |Carga de trabalho   |
   
 

@@ -1,7 +1,7 @@
 ---
 title: A isenção de requisitos de exames one-time para a competência do desenvolvimento de aplicativos | Centro de parceiros
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Para parceiros com uma competência anterior de ISV, saiba como obter uma isenção de requisitos de exame único para a competência do desenvolvimento de aplicativos
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: competências, ISV, desenvolvimento de aplicativos
 ms.localizationpriority: medium
-ms.openlocfilehash: 022d8f17e279726741d1ba8b7f3f9bc9a951a52d
-ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
+ms.openlocfilehash: 810fd3446077365d9a6b838840a89cdca85edef1
+ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/21/2019
-ms.locfileid: "74295236"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "74559498"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>A isenção de requisitos de exames one-time para a competência de desenvolvimento de aplicativos
 
@@ -27,9 +27,9 @@ Se você tiver obtido a competência do ISV agora desativada e um dos cenários 
 
 Parceiros com uma competência de ISV:
 
-- **Sua competência de ISV expirou** – sua isenção de requisitos de exame único estará disponível no Partner Center a partir de 22 de novembro de 2019. Você terá 30 dias para aproveitar a oferta. 
+- **Sua competência de ISV expirou** – a isenção de requisitos de exames one-time está disponível no Partner Center a partir de 22 de novembro de 2019. Você tem 30 dias para aproveitar a oferta. Entre no Partner Center para obter detalhes específicos para sua empresa.
 
-- **Sua associação de competência está em sua janela de renovação** – a isenção de requisitos de exames one-time estará disponível no Partner Center a partir de 22 de novembro de 2019. Você terá 30 dias para aproveitar a oferta. 
+- **Sua associação de competência está em sua janela de renovação** – a isenção de requisitos de exames one-time está disponível no Partner Center a partir de 22 de novembro de 2019. Você tem 30 dias para aproveitar a oferta. Entre no Partner Center para obter detalhes específicos para sua empresa.
 
 - **Sua associação de competência está relacionada à renovação nos próximos meses** – sua isenção de requisitos de exame único estará disponível para você quando for hora de renovar. Nesse momento, você terá 30 dias para obter a oferta.
 
