@@ -1,73 +1,41 @@
 ---
 title: Cobrança | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Como parceiro Provedor de Soluções na Nuvem, você pagará à Microsoft 60 dias em atraso pelas assinaturas baseadas em licença e em uso de seus clientes.
+Description: Tópicos de cobrança no Partner Center, incluindo recursos de cobrança, faturas e cobrança do CSP.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções de imposto, arquivos de reconciliação, arquivo de reconciliação
 ms.localizationpriority: high
-ms.openlocfilehash: fcf341a11e0796adce6ce497c51d3316c1e623cf
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 8169c8303c78ceaeb1b47c124411f0324ae0349a
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096461"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384625"
 ---
-# <a name="billing"></a><span data-ttu-id="9b578-104">Cobrança</span><span class="sxs-lookup"><span data-stu-id="9b578-104">Billing</span></span>
+# <a name="billing"></a><span data-ttu-id="00f29-104">Cobrança</span><span class="sxs-lookup"><span data-stu-id="00f29-104">Billing</span></span>
 
-<span data-ttu-id="9b578-105">**Aplica-se a**</span><span class="sxs-lookup"><span data-stu-id="9b578-105">**Applies to**</span></span>
+<span data-ttu-id="00f29-105">Aplica-se a:</span><span class="sxs-lookup"><span data-stu-id="00f29-105">Applies to:</span></span>
 
--  <span data-ttu-id="9b578-106">Partner Center</span><span class="sxs-lookup"><span data-stu-id="9b578-106">Partner Center</span></span>
--  <span data-ttu-id="9b578-107">Partner Center do Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="9b578-107">Partner Center for Microsoft Cloud for US Government</span></span>
- 
- 
-<span data-ttu-id="9b578-108">Para obter sua fatura, acesse o menu **Partner Center** e, em seguida, selecione **Cobrança** para ver o histórico de cobrança e as tendências, links para a fatura e o arquivo de reconciliação, além do pagamento mais recente.</span><span class="sxs-lookup"><span data-stu-id="9b578-108">For your bill, go to the **Partner Center** menu and then select **Billing** to see your billing history and trends, links to your invoice and reconciliation file, and your most recent payment.</span></span>
+- <span data-ttu-id="00f29-106">Partner Center</span><span class="sxs-lookup"><span data-stu-id="00f29-106">Partner Center</span></span>
+- <span data-ttu-id="00f29-107">Partner Center do Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="00f29-107">Partner Center for Microsoft Cloud for US Government</span></span>
 
-<span data-ttu-id="9b578-109">Os parceiros no programa Provedor de Soluções na Nuvem que optam pela cobrança mensal pagam à Microsoft 60 dias em atraso pelas assinaturas (baseadas em licença e em uso) dos clientes deles.</span><span class="sxs-lookup"><span data-stu-id="9b578-109">Partners in the Cloud Solution Provider program who choose to be billed monthly pay Microsoft 60 days in arrears for their customers' subscriptions (both license-based and usage-based).</span></span>
+| <span data-ttu-id="00f29-108">Tópico</span><span class="sxs-lookup"><span data-stu-id="00f29-108">Topic</span></span> | <span data-ttu-id="00f29-109">Descrição</span><span class="sxs-lookup"><span data-stu-id="00f29-109">Description</span></span> |
+| ----- | ----------- |
+| [<span data-ttu-id="00f29-110">Visão Geral da cobrança</span><span class="sxs-lookup"><span data-stu-id="00f29-110">Billing overview</span></span>](billing-basics.md) | <span data-ttu-id="00f29-111">Noções básicas da cobrança do Partner Center (incluindo pagamentos, faturas e arquivos de reconciliação).</span><span class="sxs-lookup"><span data-stu-id="00f29-111">Basics of Partner Center billing (including payments, invoices, and reconciliation files).</span></span> |
+| [<span data-ttu-id="00f29-112">Tipos de cobrança</span><span class="sxs-lookup"><span data-stu-id="00f29-112">Types of billing</span></span>](billing-different-types.md) | <span data-ttu-id="00f29-113">Explicação sobre diferentes tipos de cobrança no Partner Center.</span><span class="sxs-lookup"><span data-stu-id="00f29-113">Explanation of different types of billing in Partner Center.</span></span> |
+| [<span data-ttu-id="00f29-114">Diferenças de cobrança mensal e anual</span><span class="sxs-lookup"><span data-stu-id="00f29-114">Monthly and annual billing differences</span></span>](billing-annual-monthly.md) | <span data-ttu-id="00f29-115">Explicação sobre diferenças entre as frequências de cobrança mensais e anuais.</span><span class="sxs-lookup"><span data-stu-id="00f29-115">Explanation of differences between monthly and annual billing frequencies.</span></span> |
+| [<span data-ttu-id="00f29-116">Como ler a sua fatura</span><span class="sxs-lookup"><span data-stu-id="00f29-116">Reading your bill</span></span>](read-your-bill.md) | <span data-ttu-id="00f29-117">Como ler e entender sua conta do Partner Center.</span><span class="sxs-lookup"><span data-stu-id="00f29-117">How to read and understand your Partner Center bill.</span></span> |
+| [<span data-ttu-id="00f29-118">Avaliações gratuitas</span><span class="sxs-lookup"><span data-stu-id="00f29-118">Free trials</span></span>](offer-your-customers-trials-of-microsoft-products.md) | <span data-ttu-id="00f29-119">Como oferecer avaliações gratuitas para seus clientes e como essas avaliações são cobradas.</span><span class="sxs-lookup"><span data-stu-id="00f29-119">How to offer free trials to your customers and how these trials are billed.</span></span> |
+| [<span data-ttu-id="00f29-120">Arquivo de reconciliação</span><span class="sxs-lookup"><span data-stu-id="00f29-120">Reconciliation file</span></span>](use-the-reconciliation-files.md) | <span data-ttu-id="00f29-121">Como ler e usar seu arquivo de reconciliação para itens de linha.</span><span class="sxs-lookup"><span data-stu-id="00f29-121">How to read and use your reconciliation file for line items.</span></span> |
+| [<span data-ttu-id="00f29-122">Cenários comuns de cobrança</span><span class="sxs-lookup"><span data-stu-id="00f29-122">Common billing scenarios</span></span>](common-billing-scenarios.md) | <span data-ttu-id="00f29-123">Como entender os cenários comuns de cobrança do Partner Center (para cobrança mensal e anual, bem como cobrança para compras avulsas e recorrentes).</span><span class="sxs-lookup"><span data-stu-id="00f29-123">How to understand common Partner Center billing scenarios (for monthly and annual billing, as well as billing for one-time and recurring purchases).</span></span> |
+| [<span data-ttu-id="00f29-124">Responsabilidades e isenções fiscais</span><span class="sxs-lookup"><span data-stu-id="00f29-124">Tax responsibilities and exemptions</span></span>](tax-and-tax-exemptions.md) | <span data-ttu-id="00f29-125">Explicação sobre suas responsabilidades e isenções fiscais para vendas do Partner Center.</span><span class="sxs-lookup"><span data-stu-id="00f29-125">Explanation of your tax responsibilities and tax exemptions for Partner Center sales.</span></span> |
+| [<span data-ttu-id="00f29-126">Orçamento de gastos do Azure</span><span class="sxs-lookup"><span data-stu-id="00f29-126">Azure spending budget</span></span>](set-an-azure-spending-budget-for-your-customers.md) | <span data-ttu-id="00f29-127">Como definir um orçamento de gastos do Azure para seus clientes.</span><span class="sxs-lookup"><span data-stu-id="00f29-127">How to set an Azure spending budget for your customers.</span></span> |
+| [<span data-ttu-id="00f29-128">Não pagamento, fraude ou uso indevido</span><span class="sxs-lookup"><span data-stu-id="00f29-128">Non-payment, fraud or misuse</span></span>](non-payment--fraud--or-misuse.md) | <span data-ttu-id="00f29-129">Como gerenciar não pagamento, fraude ou uso indevido de seus clientes no Partner Center.</span><span class="sxs-lookup"><span data-stu-id="00f29-129">How to manage non-payment, fraud or misuse by your customers in Partner Center.</span></span> |
+| [<span data-ttu-id="00f29-130">Solicitar um crédito de SLA para interrupções</span><span class="sxs-lookup"><span data-stu-id="00f29-130">Request an SLA credit for outages</span></span>](request-credit.md) | <span data-ttu-id="00f29-131">Como solicitar um crédito de SLA da Microsoft para seus clientes quando houver uma interrupção do serviço.</span><span class="sxs-lookup"><span data-stu-id="00f29-131">How to request an SLA credit from Microsoft for your customers when there is a service outage.</span></span> |
 
-> [!NOTE]  
-> <span data-ttu-id="9b578-110">Sua fatura é um resumo de todos os encargos – do programa, dos produtos e dos clientes – para o período de cobrança atual e é disponibilizada em até dois (2) dias da data de cobrança selecionada em horário UTC.</span><span class="sxs-lookup"><span data-stu-id="9b578-110">Your invoice is a summary of all charges -- across the program, products, and customers -- for the current billing period, and is available within two (2) days of your selected billing date in UTC time.</span></span> <span data-ttu-id="9b578-111">Por exemplo, se você tiver uma data de cobrança igual a 12 de setembro, o processo de geração da fatura será iniciado em 00:00 UTC no dia 13 e será concluído até 00:00 UTC no dia 14.</span><span class="sxs-lookup"><span data-stu-id="9b578-111">For example, if you have a September 12th billing date, the invoice generation process will begin at 12:00AM UTC on the 13th and complete by 12:00AM UTC on the 14th.</span></span> <span data-ttu-id="9b578-112">Caso a sua fatura não seja exibida até 23:59 UTC no dia 15, você estará fora do Contrato de Nível de Serviço e deverá registrar uma solicitação de serviço.</span><span class="sxs-lookup"><span data-stu-id="9b578-112">If you do not see your invoice by 11:59PM UTC on the 15th, you're out of your Service Level Agreement and should file a service request.</span></span> 
-
-<span data-ttu-id="9b578-113">Informações importantes sobre a cobrança de clientes:</span><span class="sxs-lookup"><span data-stu-id="9b578-113">Key information to know about billing your customers:</span></span>
-
--   <span data-ttu-id="9b578-114">A Microsoft não tem exigências ou condições sobre como você deve administrar seu sistema de faturas.</span><span class="sxs-lookup"><span data-stu-id="9b578-114">Microsoft doesn't have any requirements or conditions about how you handle your own invoicing.</span></span>
--   <span data-ttu-id="9b578-115">Para determinar o uso de um cliente, use a ID/o nome do cliente e outros campos relevantes nos arquivos de reconciliação.</span><span class="sxs-lookup"><span data-stu-id="9b578-115">To determine a customer's usage, use the customer ID/name and other relevant fields within the reconciliation files.</span></span>
--   <span data-ttu-id="9b578-116">Adicione suas próprias taxas e tarifas para serviços e produtos que você fornece.</span><span class="sxs-lookup"><span data-stu-id="9b578-116">Add your own fees and charges for services and products that you provide.</span></span>
--   <span data-ttu-id="9b578-117">Envie uma única cobrança para todas os encargos devidos por seu cliente.</span><span class="sxs-lookup"><span data-stu-id="9b578-117">Send a single bill for all charges to your customer.</span></span>
-
-## <a name="billing-resources"></a><span data-ttu-id="9b578-118">Recursos de cobrança</span><span class="sxs-lookup"><span data-stu-id="9b578-118">Billing resources</span></span>
-|<span data-ttu-id="9b578-119">**Para obter informações sobre**</span><span class="sxs-lookup"><span data-stu-id="9b578-119">**For information on**</span></span>   |<span data-ttu-id="9b578-120">**Leia isto**</span><span class="sxs-lookup"><span data-stu-id="9b578-120">**Read this**</span></span>    |
-|:-----------------------------|:-----------------|
-|<span data-ttu-id="9b578-121">Os conceitos básicos sobre cobrança, pagamentos, faturas, entre outros</span><span class="sxs-lookup"><span data-stu-id="9b578-121">The basics on billing, payments, invoices, and  more</span></span>   |[<span data-ttu-id="9b578-122">Noções básicas sobre cobrança</span><span class="sxs-lookup"><span data-stu-id="9b578-122">Billing basics</span></span>](billing-basics.md)
-|<span data-ttu-id="9b578-123">Muitos novos recursos de cobrança, como cobrança anual</span><span class="sxs-lookup"><span data-stu-id="9b578-123">Many new billing features such as annual billing</span></span>   |[<span data-ttu-id="9b578-124">Perguntas frequentes sobre novos recursos de cobrança</span><span class="sxs-lookup"><span data-stu-id="9b578-124">FAQ about new billing features</span></span>](faq-about-new-billing-features.md)|
-|<span data-ttu-id="9b578-125">Tipos de cobrança</span><span class="sxs-lookup"><span data-stu-id="9b578-125">Types of billing</span></span>   |[<span data-ttu-id="9b578-126">Entendendo os tipos de cobrança no Partner Center</span><span class="sxs-lookup"><span data-stu-id="9b578-126">Understanding the types of billing in Partner Center</span></span>](billing-different-types.md)   |
-|<span data-ttu-id="9b578-127">O segredo para a leitura da sua fatura</span><span class="sxs-lookup"><span data-stu-id="9b578-127">The key to reading your bill</span></span>   |[<span data-ttu-id="9b578-128">Ler sua fatura</span><span class="sxs-lookup"><span data-stu-id="9b578-128">Read your bill</span></span>](read-your-bill.md)   |
-|<span data-ttu-id="9b578-129">Como ler e usar o arquivo de reconciliação</span><span class="sxs-lookup"><span data-stu-id="9b578-129">How to read and use your reconciliation file</span></span>   |[<span data-ttu-id="9b578-130">Usar os arquivos de reconciliação</span><span class="sxs-lookup"><span data-stu-id="9b578-130">Use the reconciliation files</span></span>](use-the-reconciliation-files.md)|
-|<span data-ttu-id="9b578-131">Cenários comuns de cobrança (descubra mais cenários de cobrança em [Perguntas frequentes sobre novos recursos de cobrança](faq-about-new-billing-features.md))</span><span class="sxs-lookup"><span data-stu-id="9b578-131">Common billing scenarios (find additional billing scenarios in [FAQ about new billing features](faq-about-new-billing-features.md))</span></span>|[<span data-ttu-id="9b578-132">Cenários comuns de cobrança</span><span class="sxs-lookup"><span data-stu-id="9b578-132">Common billing scenarios</span></span>](common-billing-scenarios.md)|
-|<span data-ttu-id="9b578-133">Suas responsabilidades fiscais</span><span class="sxs-lookup"><span data-stu-id="9b578-133">Your tax responsibilities</span></span>   | [<span data-ttu-id="9b578-134">Impostos e isenções de imposto</span><span class="sxs-lookup"><span data-stu-id="9b578-134">Tax and tax exemptions</span></span>](tax-and-tax-exemptions.md)|
-|<span data-ttu-id="9b578-135">Orçamento baseado em uso</span><span class="sxs-lookup"><span data-stu-id="9b578-135">Usage-based budgeting</span></span>    |[<span data-ttu-id="9b578-136">Definir um orçamento de gastos do Azure para seus clientes</span><span class="sxs-lookup"><span data-stu-id="9b578-136">Set an Azure spending budget for your customers</span></span>](set-an-azure-spending-budget-for-your-customers.md)|
-|<span data-ttu-id="9b578-137">O que fazer em caso de falta de pagamento, fraude ou uso indevido</span><span class="sxs-lookup"><span data-stu-id="9b578-137">What to do if non-payment, fraud, or misuse happens</span></span>   |[<span data-ttu-id="9b578-138">Falta de pagamento, fraude ou uso indevido</span><span class="sxs-lookup"><span data-stu-id="9b578-138">Non-payment, fraud, or misuse</span></span>](non-payment--fraud--or-misuse.md)|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<span data-ttu-id="00f29-132">Caso esteja procurando informações e recursos de cobrança da API do Partner Center, consulte a [documentação de cobrança do desenvolvedor](https://docs.microsoft.com/partner-center/develop/manage-billing).</span><span class="sxs-lookup"><span data-stu-id="00f29-132">If you're looking for Partner Center API billing information and resources, see the [developer billing documentation](https://docs.microsoft.com/partner-center/develop/manage-billing).</span></span>
