@@ -1,21 +1,21 @@
 ---
-title: Plano do Azure – Cobrança | Partner Center
+title: Cobrança do plano do Azure | Partner Center
 ms.topic: article
-ms.date: 11/03/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Descreve a estrutura de arquivos de reconciliação e de fatura para o plano do Azure
+description: Saiba como acessar e entender a estrutura do arquivo de reconciliação e da fatura relacionada à cobrança do plano do Azure.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: fcf5cc85f0e561f2c82e691da4e56667c5925b05
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: b52030f4956f8b3f86eec5aad72628dc64099729
+ms.sourcegitcommit: f5dbf96c1dece9c766e9b4c1527e599872e2ab14
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661159"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "74536448"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nova experiência de comércio no CSP – Cobrança do Azure 
 
@@ -42,7 +42,7 @@ A cobrança no âmbito do plano do Azure é uma experiência de cobrança simpli
 
 - **Incentivos para Parceiros**: pago 45 dias após o final do mês da fatura.
 
-##  <a name="access-your-invoices-and-reconciliation-files"></a>Acessar seus arquivos de fatura e reconciliação
+## <a name="access-your-invoices-and-reconciliation-files"></a>Acessar seus arquivos de fatura e reconciliação
 
 O administrador global ou de cobrança da sua empresa receberá um email quando a fatura estiver pronta para ser exibida. 
 
@@ -141,7 +141,7 @@ Para exibir os arquivos históricos de faturas e reconhecimento, expanda a linha
 
 ## <a name="invoice-in-customer-currency"></a>Fatura na moeda do cliente 
 
-Os serviços do Azure por meio de um plano do Azure serão precificados em USD e cobrados na moeda atribuída ao país do cliente. Se a moeda de cobrança não for USD, então a taxa de câmbio usada será mostrada na última página da fatura. As taxas de câmbio são determinadas mensalmente e aplicadas à fatura a seguir. Para obter a lista completa das moedas dos países, consulte a [Matriz de moedas do cliente e disponibilidade por país de novas ofertas de comércio](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Qn1V). 
+Os serviços do Azure por meio de um plano do Azure serão precificados em USD e cobrados na moeda atribuída ao país do cliente. Se a moeda de cobrança não for USD, então a taxa de câmbio usada será mostrada na última página da fatura. As taxas de câmbio são determinadas mensalmente e aplicadas à fatura a seguir. Para obter uma lista completa de moedas por país, exiba a [matriz de moedas do cliente e a disponibilidade por país de novas ofertas de comércio](https://go.microsoft.com/fwlink/?linkid=2112354). 
 
 A Microsoft usará o [Thomson Reuters](https://developers.thomsonreuters.com/content/wm-company) para estabelecer a taxa de câmbio usada para determinar a moeda de preço para a conversão de moeda da cobrança. As taxas de câmbio serão atualizadas e disponibilizadas no dia anterior ao primeiro dia de cada mês em que forem aplicadas.
 

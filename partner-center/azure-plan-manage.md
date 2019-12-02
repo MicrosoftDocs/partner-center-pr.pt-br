@@ -1,20 +1,20 @@
 ---
 title: Gerenciar assinaturas e recursos no âmbito do plano do Azure | Partner Center
 ms.topic: article
-ms.date: 11/01/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Comprar várias assinaturas do Azure no âmbito do plano do Azure
+description: Saiba como os parceiros podem usar diferentes opções de RBAC (controle de acesso baseado em função) para obter controle operacional e gerenciamento dos recursos do Azure de um cliente.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: ededae0c8e8212697648cda2c00f23fd457fa877
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 15d1fd3bdff078e752f3b3acb9b200300dc2e64b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653861"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253274"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Gerenciar assinaturas e recursos no âmbito do plano do Azure
 

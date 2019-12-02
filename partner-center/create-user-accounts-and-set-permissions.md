@@ -1,21 +1,21 @@
 ---
 title: Criar contas de usuário e definir permissões | Partner Center
 ms.topic: article
-ms.date: 07/08/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: O administrador cria uma conta de usuário para cada funcionário de parceiro que precise acessar o Partner Center.
+description: Saiba como criar contas de usuário e atribuir funções no Partner Center para cada funcionário que precisar de acesso. Usuários com diferentes privilégios de administrador podem fazer isso.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: funções, permissões, adicionar usuário, atribuir função, administrador, agente,
 ms.localizationpriority: high
-ms.openlocfilehash: 088c94c59dadc6deead6f13d7f80612489e6e040
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: d121d80e23f11c5885ababd3c7730939e894a235
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096493"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252086"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Criar contas de usuário e atribuir permissões
 

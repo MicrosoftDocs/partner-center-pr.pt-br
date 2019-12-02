@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor do painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
 ms.localizationpriority: high
-ms.openlocfilehash: 52a87b80c68ec44263a7e402ea458b918aa952df
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: f3736f73f983fce74620df2f7a8ad1d6cce19984
+ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661114"
+ms.lasthandoff: 11/21/2019
+ms.locfileid: "74295253"
 ---
 # <a name="partner-security-requirements-status"></a>Status dos requisitos de segurança do parceiro
 
@@ -95,7 +95,7 @@ Entenda se a sua implementação atual da MFA abrange todas as contas de usuári
 Entenda se a implementação atual só impõe a MFA em condições específicas. Algumas soluções de MFA fornecem a flexibilidade de impor a MFA somente quando determinadas condições são atendidas. Por exemplo, quando o usuário está acessando de um dispositivo desconhecido ou de um local desconhecido. Um usuário que está habilitado para a MFA, mas que não precisa concluir a verificação de MFA ao acessar o Partner Center poderá fazer com que as métricas sejam diferentes de 100%.
 
 >[!NOTE]
->Para parceiros que implementaram a MFA usando os padrões de segurança do Azure AD, é importante observar que, para nenhuma conta de usuário administrador, a autenticação multifator será imposta com base em risco. Os usuários deverão realizar a MFA somente durante tentativas de entrada arriscadas (por exemplo, quando o usuário estiver entrando de um local diferente). Além disso, os usuários terão até 14 dias para se registrarem para a MFA. Os usuários que não concluíram o registro da MFA não serão desafiados pela verificação de MFA durante esse período de 14 dias. Portanto, espera-se que as métricas não sejam iguais a 100% para parceiros que implementaram a MFA usando os padrões de segurança do Azure AD.
+>Para parceiros que implementaram a MFA usando os padrões de segurança do Azure AD é importante observar que para as contas de usuário não administrador, a autenticação multifator será imposta com base em risco. Os usuários deverão realizar a MFA somente durante tentativas de entrada arriscadas (por exemplo, quando o usuário estiver entrando de um local diferente). Além disso, os usuários terão até 14 dias para se registrarem para a MFA. Os usuários que não concluíram o registro da MFA não serão desafiados pela verificação de MFA durante esse período de 14 dias. Portanto, espera-se que as métricas não sejam iguais a 100% para parceiros que implementaram a MFA usando os padrões de segurança do Azure AD.
 
 ### <a name="are-you-using-3rd-party-mfa-solution"></a>Você está usando uma solução de MFA de terceiros?
 
@@ -105,7 +105,7 @@ Se você estiver usando uma solução de MFA de terceiros, identifique como est�
 
 * **Controle personalizado** – O Controle Personalizado do Azure AD não pode ser usado para identificar se um usuário concluiu a verificação da MFA por meio de uma solução de MFA de terceiros. Como resultado, todo usuário que tenha concluído a verificação da MFA por meio de um controle personalizado sempre aparecerá no Azure AD (e, em seguida, no Partner Center) como se não houvesse concluído a verificação da MFA. Sempre que possível, é recomendável que você alterne para o uso da Federação de Identidade em vez do Controle Personalizado ao se integrar com o Azure AD.
 
-### <a name="identity-which-users-have-logged-into-partner-center-without-mfa"></a>Identificar quais usuários fizeram logon no Partner Center sem a MFA
+### <a name="identify-which-users-have-logged-into-partner-center-without-mfa"></a>Identificar quais usuários fizeram logon no Partner Center sem a MFA
 
 Pode ser útil identificar quais usuários estão fazendo logon no Partner Center sem a verificação da MFA e verificá-los com sua implementação de MFA atual. Você poderá usar o [relatório de entrada do Azure AD](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins) para descobrir se um usuário concluiu ou não a verificação da MFA. O relatório de entrada do Azure AD está disponível apenas para parceiros que se inscreveram no Azure AD Premium ou em qualquer SKU do O365 que inclui o Azure AD Premium (por exemplo, EMS).
 

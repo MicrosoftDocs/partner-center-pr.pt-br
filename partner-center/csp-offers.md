@@ -1,7 +1,7 @@
 ---
 title: Ofertas de parceiro no programa Provedor de Soluções na Nuvem | Partner Center
 ms.topic: article
-ms.date: 10/28/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre as ofertas disponíveis para parceiros que vendem por meio do programa Provedor de Soluções na Nuvem.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Provedor de Soluções na Nuvem, programa provedor de soluções na nuvem, CSP, adicionar um produto, vender para clientes, ofertas de parceiro, ofertas de CSP, serviços baseados em nuvem, Azure, Office 365, Dynamics, parceiro CSP, vender no CSP, Azure RI, instâncias de Máquinas Virtuais reservadas do Azure, reservas do Azure, serviços online, software de assinatura, AHUB, SQL Server no Azure, Windows Server no Azure, assinaturas de cliente
 ms.localizationpriority: high
-ms.openlocfilehash: c0ddfac22b776d49b05f6f9d780ed092183d4796
-ms.sourcegitcommit: 9d68c3fe3194bc583c88b22d8a9f60e4b369b79d
+ms.openlocfilehash: 49010909cad50df40668606dff7bfd45260b580b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "73799202"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252906"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Ofertas de parceiro no programa Provedor de Soluções na Nuvem 
 
@@ -57,7 +57,7 @@ No momento, você pode vender os seguintes tipos de produtos e serviços para se
     
     Você também pode encontrar informações sobre esses produtos na página do **Marketplace**. Observe que essa página também inclui informações sobre outros tipos de produtos que devem ser comprados no portal do Azure, não no Partner Center.<br>
 
-    Para obter mais informações, confira [Vender assinaturas de produtos do Azure Marketplace](sell-marketplace-products.md)
+    Para obter mais informações, consulte a [Visão geral do Marketplace comercial do CSP](CSP-commercial-marketplace-overview.md)
 
 ## <a name="add-products-page-details"></a>Detalhes da página Adicionar produtos
 
@@ -104,8 +104,8 @@ Para comprar produtos e serviços em nome dos seus clientes CSP, selecione os it
 
 Para obter informações sobre como funciona o processo de cobrança, leia [Noções básicas de cobrança](https://docs.microsoft.com/partner-center/billing-basics).
 
-Para obter informações sobre como comprar no plano do Azure, leia [Comprar o plano do Azure](purchase-azure-plan).
+Para obter informações sobre como comprar no plano do Azure, leia [Comprar o plano do Azure](purchase-azure-plan.md).
 
+## <a name="see-also"></a>Consulte também
 
-
-
+[Visão Geral do Marketplace comercial do CSP](csp-commercial-marketplace-overview.md)

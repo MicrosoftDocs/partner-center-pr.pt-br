@@ -1,21 +1,21 @@
 ---
 title: Contas corporativas e o Partner Center | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Para criar uma conta do Partner Center, sua empresa precisará ter uma conta corporativa. Se você tiver uma assinatura ativa do Microsoft Azure ou do Office 365, já terá uma conta corporativa.
+description: Saiba por que é necessário ter uma conta corporativa, bem como se você já tem uma ou não, para criar uma conta do Partner Center.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: conta corporativa, email, locatário, locatário do Azure, criar conta, nome de domínio
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 0bca97c9bbe153aa705c149ce8bd3ad5e38d72d9
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: c8b731eeed6590e040eda18cb0e7093b389447b4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096546"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253316"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>A conta corporativa da sua empresa e o Partner Center  
 

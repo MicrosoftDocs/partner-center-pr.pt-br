@@ -1,21 +1,21 @@
 ---
 title: Migrar para o plano do Azure – introdução | Partner Center
 ms.topic: article
-ms.date: 11/07/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Comprar assinaturas na nova experiência de comércio para o Azure
+description: Saiba mais sobre a experiência de comércio do plano do Azure para comprar serviços do Azure com tarifas pagas conforme o uso para os clientes. Conheça também os novos requisitos de segurança.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, plano do Azure, comprar assinaturas, assinaturas
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 0e74d12aeb2daab30530a35326bcdaba5c07214d
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: 7b59371ffe2208fcfd8d90f4697e88dfc9a1233b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661132"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253288"
 ---
 # <a name="move-to-azure-plan---get-started"></a>Migrar para o plano do Azure – introdução
 

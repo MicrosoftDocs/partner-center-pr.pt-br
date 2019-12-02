@@ -1,20 +1,20 @@
 ---
 title: Tornar-se um administrador global para sua empresa | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Para realizar muitas das tarefas no Partner Center, primeiro, você precisa verificar a propriedade do domínio. Muitas tarefas do Partner Center exigem um administrador global. Caso sua empresa ainda não tenha um administrador, você poderá se tornar um.
+description: Para trabalhar no Partner Center, primeiro você deve verificar a propriedade do seu domínio. Saiba como fazer isso e como se tornar um administrador global que pode adicionar usuários.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 keywords: domínio, verificação de domínio, verificar domínio, administrador global, funções de usuário, permissões
-ms.openlocfilehash: d6d358439056a9d10e7966148e1f3a76173d0cf6
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 8cc6dc8839341c20fefa48a21e62bc1350102436
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096506"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253222"
 ---
 # <a name="verify-your-domain-ownership"></a>Verificar sua propriedade do domínio
 

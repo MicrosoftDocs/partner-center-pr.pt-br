@@ -1,22 +1,22 @@
 ---
 title: Parceria com provedores indiretos no CSP | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Como um revendedor indireto no CSP, você trabalha com provedores indiretos (também conhecidos como distribuidores), que têm uma relação direta com a Microsoft e podem fornecer suporte e cobrança ao cliente.
+description: Saiba como revendedores indiretos no programa CSP podem trabalhar com provedores indiretos da Microsoft (ou distribuidores) que podem ajudar no atendimento ao cliente e na cobrança.
 ms.prod: ''
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: revendedores indiretos, revendedores, provedores indiretos, provedores, parceria, VAR, camada2, camada 2
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: d290893113b156ce8582e44463a32aaf0cfbe5fe
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: c259c28d5a5a16a2b12ebb299a574c0b624d87f9
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654335"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253659"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Faça parceria com provedores indiretos no programa Provedor de Soluções na Nuvem
 

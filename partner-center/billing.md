@@ -1,73 +1,41 @@
 ---
 title: Cobrança | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Como parceiro Provedor de Soluções na Nuvem, você pagará à Microsoft 60 dias em atraso pelas assinaturas baseadas em licença e em uso de seus clientes.
+Description: Tópicos de cobrança no Partner Center, incluindo recursos de cobrança, faturas e cobrança do CSP.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções de imposto, arquivos de reconciliação, arquivo de reconciliação
 ms.localizationpriority: high
-ms.openlocfilehash: fcf341a11e0796adce6ce497c51d3316c1e623cf
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 8169c8303c78ceaeb1b47c124411f0324ae0349a
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096461"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384625"
 ---
 # <a name="billing"></a>Cobrança
 
-**Aplica-se a**
+Aplica-se a:
 
--  Partner Center
--  Partner Center do Microsoft Cloud for US Government
- 
- 
-Para obter sua fatura, acesse o menu **Partner Center** e, em seguida, selecione **Cobrança** para ver o histórico de cobrança e as tendências, links para a fatura e o arquivo de reconciliação, além do pagamento mais recente.
+- Partner Center
+- Partner Center do Microsoft Cloud for US Government
 
-Os parceiros no programa Provedor de Soluções na Nuvem que optam pela cobrança mensal pagam à Microsoft 60 dias em atraso pelas assinaturas (baseadas em licença e em uso) dos clientes deles.
+| Tópico | Descrição |
+| ----- | ----------- |
+| [Visão Geral da cobrança](billing-basics.md) | Noções básicas da cobrança do Partner Center (incluindo pagamentos, faturas e arquivos de reconciliação). |
+| [Tipos de cobrança](billing-different-types.md) | Explicação sobre diferentes tipos de cobrança no Partner Center. |
+| [Diferenças de cobrança mensal e anual](billing-annual-monthly.md) | Explicação sobre diferenças entre as frequências de cobrança mensais e anuais. |
+| [Como ler a sua fatura](read-your-bill.md) | Como ler e entender sua conta do Partner Center. |
+| [Avaliações gratuitas](offer-your-customers-trials-of-microsoft-products.md) | Como oferecer avaliações gratuitas para seus clientes e como essas avaliações são cobradas. |
+| [Arquivo de reconciliação](use-the-reconciliation-files.md) | Como ler e usar seu arquivo de reconciliação para itens de linha. |
+| [Cenários comuns de cobrança](common-billing-scenarios.md) | Como entender os cenários comuns de cobrança do Partner Center (para cobrança mensal e anual, bem como cobrança para compras avulsas e recorrentes). |
+| [Responsabilidades e isenções fiscais](tax-and-tax-exemptions.md) | Explicação sobre suas responsabilidades e isenções fiscais para vendas do Partner Center. |
+| [Orçamento de gastos do Azure](set-an-azure-spending-budget-for-your-customers.md) | Como definir um orçamento de gastos do Azure para seus clientes. |
+| [Não pagamento, fraude ou uso indevido](non-payment--fraud--or-misuse.md) | Como gerenciar não pagamento, fraude ou uso indevido de seus clientes no Partner Center. |
+| [Solicitar um crédito de SLA para interrupções](request-credit.md) | Como solicitar um crédito de SLA da Microsoft para seus clientes quando houver uma interrupção do serviço. |
 
-> [!NOTE]  
-> Sua fatura é um resumo de todos os encargos – do programa, dos produtos e dos clientes – para o período de cobrança atual e é disponibilizada em até dois (2) dias da data de cobrança selecionada em horário UTC. Por exemplo, se você tiver uma data de cobrança igual a 12 de setembro, o processo de geração da fatura será iniciado em 00:00 UTC no dia 13 e será concluído até 00:00 UTC no dia 14. Caso a sua fatura não seja exibida até 23:59 UTC no dia 15, você estará fora do Contrato de Nível de Serviço e deverá registrar uma solicitação de serviço. 
-
-Informações importantes sobre a cobrança de clientes:
-
--   A Microsoft não tem exigências ou condições sobre como você deve administrar seu sistema de faturas.
--   Para determinar o uso de um cliente, use a ID/o nome do cliente e outros campos relevantes nos arquivos de reconciliação.
--   Adicione suas próprias taxas e tarifas para serviços e produtos que você fornece.
--   Envie uma única cobrança para todas os encargos devidos por seu cliente.
-
-## <a name="billing-resources"></a>Recursos de cobrança
-|**Para obter informações sobre**   |**Leia isto**    |
-|:-----------------------------|:-----------------|
-|Os conceitos básicos sobre cobrança, pagamentos, faturas, entre outros   |[Noções básicas sobre cobrança](billing-basics.md)
-|Muitos novos recursos de cobrança, como cobrança anual   |[Perguntas frequentes sobre novos recursos de cobrança](faq-about-new-billing-features.md)|
-|Tipos de cobrança   |[Entendendo os tipos de cobrança no Partner Center](billing-different-types.md)   |
-|O segredo para a leitura da sua fatura   |[Ler sua fatura](read-your-bill.md)   |
-|Como ler e usar o arquivo de reconciliação   |[Usar os arquivos de reconciliação](use-the-reconciliation-files.md)|
-|Cenários comuns de cobrança (descubra mais cenários de cobrança em [Perguntas frequentes sobre novos recursos de cobrança](faq-about-new-billing-features.md))|[Cenários comuns de cobrança](common-billing-scenarios.md)|
-|Suas responsabilidades fiscais   | [Impostos e isenções de imposto](tax-and-tax-exemptions.md)|
-|Orçamento baseado em uso    |[Definir um orçamento de gastos do Azure para seus clientes](set-an-azure-spending-budget-for-your-customers.md)|
-|O que fazer em caso de falta de pagamento, fraude ou uso indevido   |[Falta de pagamento, fraude ou uso indevido](non-payment--fraud--or-misuse.md)|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Caso esteja procurando informações e recursos de cobrança da API do Partner Center, consulte a [documentação de cobrança do desenvolvedor](https://docs.microsoft.com/partner-center/develop/manage-billing).
