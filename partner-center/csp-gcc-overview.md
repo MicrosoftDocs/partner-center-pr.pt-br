@@ -1,7 +1,7 @@
 ---
 title: Vender o Office 365 Government GCC para CSP | Partner Center
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Conheça as etapas e os requisitos para vender assinaturas para o GCC do Office 365 governamental para CSP para clientes ou prestadores de Estados Unidos qualificados do governo.
@@ -9,44 +9,49 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ce13e443e8165d5965ea7eacd0ccd5bfdb8a65a5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0f940ebb873ae0e847804f21bfc23715dd32803a
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252383"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721956"
 ---
-# <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a><span data-ttu-id="447e3-103">Vender assinaturas do Office 365 Government GCC para CSP para clientes qualificados</span><span class="sxs-lookup"><span data-stu-id="447e3-103">Sell Office 365 Government GCC for CSP subscriptions to qualified customers</span></span>
+# <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a><span data-ttu-id="6d8bf-103">Vender assinaturas do Office 365 Government GCC para CSP para clientes qualificados</span><span class="sxs-lookup"><span data-stu-id="6d8bf-103">Sell Office 365 Government GCC for CSP subscriptions to qualified customers</span></span>
 
-<span data-ttu-id="447e3-104">**Aplica-se a**</span><span class="sxs-lookup"><span data-stu-id="447e3-104">**Applies to**</span></span>
+<span data-ttu-id="6d8bf-104">**Aplica-se a**</span><span class="sxs-lookup"><span data-stu-id="6d8bf-104">**Applies to**</span></span>
 
--  <span data-ttu-id="447e3-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="447e3-105">Partner Center</span></span>
--  <span data-ttu-id="447e3-106">Parceiros CSP</span><span class="sxs-lookup"><span data-stu-id="447e3-106">CSP partners</span></span>
+-  <span data-ttu-id="6d8bf-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="6d8bf-105">Partner Center</span></span>
+-  <span data-ttu-id="6d8bf-106">Parceiros CSP</span><span class="sxs-lookup"><span data-stu-id="6d8bf-106">CSP partners</span></span>
 
+<span data-ttu-id="6d8bf-107">**Funções apropriadas**</span><span class="sxs-lookup"><span data-stu-id="6d8bf-107">**Appropriate roles**</span></span>
 
-## <a name="overview"></a><span data-ttu-id="447e3-107">Visão geral</span><span class="sxs-lookup"><span data-stu-id="447e3-107">Overview</span></span>
+- <span data-ttu-id="6d8bf-108">Administração global</span><span class="sxs-lookup"><span data-stu-id="6d8bf-108">Global admin</span></span>
+- <span data-ttu-id="6d8bf-109">Agente administrativo</span><span class="sxs-lookup"><span data-stu-id="6d8bf-109">Admin agent</span></span>
+- <span data-ttu-id="6d8bf-110">Agente de vendas</span><span class="sxs-lookup"><span data-stu-id="6d8bf-110">Sales agent</span></span>
 
-<span data-ttu-id="447e3-108">Os parceiros da Microsoft no programa CSP (Provedor de Soluções na Nuvem) podem vender assinaturas do [Office 365 Government GCC para CSP](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) para clientes qualificados.</span><span class="sxs-lookup"><span data-stu-id="447e3-108">Microsoft partners in the Cloud Solution Provider program (CSP) can sell [Office 365 Government GCC for CSP](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) subscriptions to qualified customers.</span></span> <span data-ttu-id="447e3-109">O Office 365 Government GCC para CSP destina-se às necessidades exclusivas das organizações governamentais dos EUA e oferece todos os recursos e funcionalidades de serviços do Office 365 em uma comunidade de nuvem governamental segmentada que permite que as organizações atendam aos padrões de segurança e conformidade do governo dos EUA.</span><span class="sxs-lookup"><span data-stu-id="447e3-109">Office 365 Government GCC for CSP is designed for the unique needs of US government organizations and provides all the features and capabilities of Office 365 services in a segmented government cloud community that enables organizations to meet US government compliance and security standards.</span></span> 
+## <a name="overview"></a><span data-ttu-id="6d8bf-111">Visão geral</span><span class="sxs-lookup"><span data-stu-id="6d8bf-111">Overview</span></span>
+
+<span data-ttu-id="6d8bf-112">Os parceiros da Microsoft no programa CSP (Provedor de Soluções na Nuvem) podem vender assinaturas do [Office 365 Government GCC para CSP](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) para clientes qualificados.</span><span class="sxs-lookup"><span data-stu-id="6d8bf-112">Microsoft partners in the Cloud Solution Provider program (CSP) can sell [Office 365 Government GCC for CSP](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) subscriptions to qualified customers.</span></span> <span data-ttu-id="6d8bf-113">O Office 365 Government GCC para CSP destina-se às necessidades exclusivas das organizações governamentais dos EUA e oferece todos os recursos e funcionalidades de serviços do Office 365 em uma comunidade de nuvem governamental segmentada que permite que as organizações atendam aos padrões de segurança e conformidade do governo dos EUA.</span><span class="sxs-lookup"><span data-stu-id="6d8bf-113">Office 365 Government GCC for CSP is designed for the unique needs of US government organizations and provides all the features and capabilities of Office 365 services in a segmented government cloud community that enables organizations to meet US government compliance and security standards.</span></span> 
 
 >[!IMPORTANT] 
-><span data-ttu-id="447e3-110">Antes de poder vender as assinaturas do Office 365 Government GCC para CSP, sua empresa deverá ser aprovada para vender aos clientes qualificados.</span><span class="sxs-lookup"><span data-stu-id="447e3-110">Before you can sell Office 365 Government GCC for CSP subscriptions, your company must be approved to sell to qualified customers.</span></span> <span data-ttu-id="447e3-111">Além disso, antes que os clientes possam comprar e usar as assinaturas do Office 365 Government GCC para CSP, eles deverão atender aos requisitos de qualificação.</span><span class="sxs-lookup"><span data-stu-id="447e3-111">And, before customers can buy and use Office 365 Government GCC for CSP subscriptions, they must meet eligibility requirements.</span></span> <span data-ttu-id="447e3-112">Consulte os [critérios de qualificação de parceiros e clientes](csp-gcc-validate.md) para obter informações importantes.</span><span class="sxs-lookup"><span data-stu-id="447e3-112">See [partner and customer eligibility criteria](csp-gcc-validate.md) for important information.</span></span>
+><span data-ttu-id="6d8bf-114">Antes de poder vender as assinaturas do Office 365 Government GCC para CSP, sua empresa deverá ser aprovada para vender aos clientes qualificados.</span><span class="sxs-lookup"><span data-stu-id="6d8bf-114">Before you can sell Office 365 Government GCC for CSP subscriptions, your company must be approved to sell to qualified customers.</span></span> <span data-ttu-id="6d8bf-115">Além disso, antes que os clientes possam comprar e usar as assinaturas do Office 365 Government GCC para CSP, eles deverão atender aos requisitos de qualificação.</span><span class="sxs-lookup"><span data-stu-id="6d8bf-115">And, before customers can buy and use Office 365 Government GCC for CSP subscriptions, they must meet eligibility requirements.</span></span> <span data-ttu-id="6d8bf-116">Consulte os [critérios de qualificação de parceiros e clientes](csp-gcc-validate.md) para obter informações importantes.</span><span class="sxs-lookup"><span data-stu-id="6d8bf-116">See [partner and customer eligibility criteria](csp-gcc-validate.md) for important information.</span></span>
 
 
-## <a name="sell-office-365-government-gcc-for-csp-subscriptions"></a><span data-ttu-id="447e3-113">Vender assinaturas do Office 365 Government GCC para CSP</span><span class="sxs-lookup"><span data-stu-id="447e3-113">Sell Office 365 Government GCC for CSP subscriptions</span></span>
+## <a name="sell-office-365-government-gcc-for-csp-subscriptions"></a><span data-ttu-id="6d8bf-117">Vender assinaturas do Office 365 Government GCC para CSP</span><span class="sxs-lookup"><span data-stu-id="6d8bf-117">Sell Office 365 Government GCC for CSP subscriptions</span></span>
 
-<span data-ttu-id="447e3-114">Depois que sua empresa tiver sido aprovada para vender o GCC do Office 365 governamental para ofertas de CSP, você poderá começar a vender para clientes usando o Partner Center.</span><span class="sxs-lookup"><span data-stu-id="447e3-114">After your company has been approved to sell Office 365 Government GCC for CSP offers, you can start selling to customers using Partner Center.</span></span> <span data-ttu-id="447e3-115">Consulte estes recursos para saber como usar o Partner Center para vender assinaturas:</span><span class="sxs-lookup"><span data-stu-id="447e3-115">Refer to these resources to learn how to use Partner Center to sell subscriptions:</span></span> 
+<span data-ttu-id="6d8bf-118">Depois que sua empresa tiver sido aprovada para vender o GCC do Office 365 governamental para ofertas de CSP, você poderá começar a vender para clientes usando o Partner Center.</span><span class="sxs-lookup"><span data-stu-id="6d8bf-118">After your company has been approved to sell Office 365 Government GCC for CSP offers, you can start selling to customers using Partner Center.</span></span> <span data-ttu-id="6d8bf-119">Consulte estes recursos para saber como usar o Partner Center para vender assinaturas:</span><span class="sxs-lookup"><span data-stu-id="6d8bf-119">Refer to these resources to learn how to use Partner Center to sell subscriptions:</span></span> 
 
--   <span data-ttu-id="447e3-116">Para obter um guia passo a passo para vendas de assinaturas do Office 365 Government GCC para CSP, acesse [aqui](https://go.microsoft.com/fwlink/?linkid=2007323).</span><span class="sxs-lookup"><span data-stu-id="447e3-116">For a step-by-step guide to selling Office 365 Government GCC for CSP subscriptions, go [here](https://go.microsoft.com/fwlink/?linkid=2007323).</span></span>  
+-   <span data-ttu-id="6d8bf-120">Para obter um guia passo a passo para vendas de assinaturas do Office 365 Government GCC para CSP, acesse [aqui](https://go.microsoft.com/fwlink/?linkid=2007323).</span><span class="sxs-lookup"><span data-stu-id="6d8bf-120">For a step-by-step guide to selling Office 365 Government GCC for CSP subscriptions, go [here](https://go.microsoft.com/fwlink/?linkid=2007323).</span></span>  
 
 
-## <a name="additional-resources"></a><span data-ttu-id="447e3-117">Recursos adicionais</span><span class="sxs-lookup"><span data-stu-id="447e3-117">Additional resources</span></span>
+## <a name="additional-resources"></a><span data-ttu-id="6d8bf-121">Recursos adicionais</span><span class="sxs-lookup"><span data-stu-id="6d8bf-121">Additional resources</span></span>
 
-<span data-ttu-id="447e3-118">Acesse informações sobre a [oportunidade para parceiros no Governo dos EUA](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) no site Microsoft 365 para parceiros.</span><span class="sxs-lookup"><span data-stu-id="447e3-118">Access information on the [partner opportunity in US Government](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) on the Microsoft 365 for partners site.</span></span>
+<span data-ttu-id="6d8bf-122">Acesse informações sobre a [oportunidade para parceiros no Governo dos EUA](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) no site Microsoft 365 para parceiros.</span><span class="sxs-lookup"><span data-stu-id="6d8bf-122">Access information on the [partner opportunity in US Government](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) on the Microsoft 365 for partners site.</span></span>
 
-<span data-ttu-id="447e3-119">Recursos de produto:</span><span class="sxs-lookup"><span data-stu-id="447e3-119">Product resources:</span></span>
+<span data-ttu-id="6d8bf-123">Recursos de produto:</span><span class="sxs-lookup"><span data-stu-id="6d8bf-123">Product resources:</span></span>
 
-- [<span data-ttu-id="447e3-120">Descrição do serviço do governo do Office 365</span><span class="sxs-lookup"><span data-stu-id="447e3-120">Office 365 Government Service Description</span></span>](https://technet.microsoft.com/library/mt774581.aspx)
-- [<span data-ttu-id="447e3-121">Roadmap.Office.com</span><span class="sxs-lookup"><span data-stu-id="447e3-121">Roadmap.Office.com</span></span>](https://products.office.com/business/office-365-roadmap)
-- [<span data-ttu-id="447e3-122">Central de confiabilidade da Microsoft</span><span class="sxs-lookup"><span data-stu-id="447e3-122">Microsoft Trust Center</span></span>](https://www.microsoft.com/TrustCenter/)
-- [<span data-ttu-id="447e3-123">Portal de confiança do serviço Microsoft</span><span class="sxs-lookup"><span data-stu-id="447e3-123">Microsoft Service Trust Portal</span></span>](https://aka.ms/STP)
+- [<span data-ttu-id="6d8bf-124">Descrição do serviço do governo do Office 365</span><span class="sxs-lookup"><span data-stu-id="6d8bf-124">Office 365 Government Service Description</span></span>](https://technet.microsoft.com/library/mt774581.aspx)
+- [<span data-ttu-id="6d8bf-125">Roadmap.Office.com</span><span class="sxs-lookup"><span data-stu-id="6d8bf-125">Roadmap.Office.com</span></span>](https://products.office.com/business/office-365-roadmap)
+- [<span data-ttu-id="6d8bf-126">Central de confiabilidade da Microsoft</span><span class="sxs-lookup"><span data-stu-id="6d8bf-126">Microsoft Trust Center</span></span>](https://www.microsoft.com/TrustCenter/)
+- [<span data-ttu-id="6d8bf-127">Portal de confiança do serviço Microsoft</span><span class="sxs-lookup"><span data-stu-id="6d8bf-127">Microsoft Service Trust Portal</span></span>](https://aka.ms/STP)
 
