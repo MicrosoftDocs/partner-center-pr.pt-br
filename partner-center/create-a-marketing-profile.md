@@ -1,7 +1,7 @@
 ---
 title: Criar um perfil de negócios | Partner Center
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como obter vendas potenciais da Microsoft. Uma etapa importante é criar um perfil empresarial no Partner Center que permite que os clientes te encontrem.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: pinpoint, indicações, vendas potenciais, C2PC, perfil de empresa, comercializar sua empresa, localizar um parceiro, localizar um provedor de soluções, perfil de negócios, perfil de marketing
 ms.localizationpriority: high
-ms.openlocfilehash: e9ff4e1df06e0a25142d42e8ba380654c9daed0b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252657"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722526"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -30,9 +30,16 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 
 **Aplica-se a**
 
--  Partner Center
--  Parceiros do Microsoft Partner Network
--  Parceiros do programa Provedor de Soluções na Nuvem
+- Partner Center
+- Parceiros do Microsoft Partner Network
+- Parceiros do programa Provedor de Soluções na Nuvem
+
+**Funções apropriadas**
+
+- Administrador de conta
+- Administrador de perfis de negócios
+- Administração global
+- Administrador de indicações
 
 Como um parceiro qualificado da Microsoft, você pode criar um perfil de negócios para mostrar sua empresa a clientes que estejam procurando suas soluções exclusivas e seus conhecimentos para atender a necessidades de negócios.
 

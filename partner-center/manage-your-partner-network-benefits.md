@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, benefícios da associação, associação
 ms.localizationpriority: high
-ms.openlocfilehash: bc9ca4f3b186de36cc5b87be1bce70a7be89da62
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 7d43410e78ef3e7ac47c321171e6f6adabf2a66f
+ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096468"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "74681943"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gerenciar seus benefícios de associação ao Microsoft Partner Network
 
@@ -101,8 +101,7 @@ Para exibir e gerenciar todos os seus benefícios de associação, acesse a [pá
     
     c.  Depois de terminar de inserir o endereço de email alternativo, selecione **Atribuir usuário**. 
 
-4. Você pode usar seu benefício de assistência de pré-vendas técnicas ou horas de consultoria para solicitar assistência técnica durante as fases de pré-vendas, design, implantação e desenvolvimento de aplicativos de suas soluções híbridas e de nuvem. Para solicitar assistência, preencha o [formulário de solicitação](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
-) e, em seguida, selecione **Enviar solicitação**.
+4. Você pode usar seu benefício de assistência de pré-vendas técnicas ou horas de consultoria para solicitar assistência técnica durante as fases de pré-vendas, design, implantação e desenvolvimento de aplicativos de suas soluções híbridas e de nuvem. Para solicitar assistência, preencha o [formulário de solicitação](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest) e, em seguida, selecione **Enviar solicitação**.
 
 #### <a name="manage-go-to-market-benefits"></a>Gerenciar benefícios de entrada no mercado
 

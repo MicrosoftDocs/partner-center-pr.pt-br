@@ -1,7 +1,7 @@
 ---
 title: Consolidando as contas da sua empresa | Partner Center
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre como consolidar as contas do PMC (Partner Membership Center) em uma conta no Partner Center. Isso ocorrerá quando você migrar do PMC para o Partner Center.
@@ -10,14 +10,19 @@ author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 77d148ccd1f71d06844b2f3467dcfb0fab967dfa
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 61a2566dbab5709fcc16fa61d0239f97e46039de
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252067"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721375"
 ---
 # <a name="consolidate-your-company-accounts"></a>Consolide as contas da empresa
+
+**Funções apropriadas**
+
+- Administrador de parceiros do MPN
+- Administrador de conta
 
 Na PMC, sua empresa possivelmente tinha muitas contas e locais. Cada local tinha sua própria conta. Ao migrar para o Partner Center, todas as contas e locais serão consolidadas em uma conta global principal com vários locais. Suas IDs, benefícios, competências e compras do MPN se moverão com você – nada será perdido. 
 

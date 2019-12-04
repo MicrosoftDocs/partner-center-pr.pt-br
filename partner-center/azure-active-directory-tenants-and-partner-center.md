@@ -1,7 +1,7 @@
 ---
 title: Contas corporativas e o Partner Center | Partner Center
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba por que é necessário ter uma conta corporativa, bem como se você já tem uma ou não, para criar uma conta do Partner Center.
@@ -10,18 +10,23 @@ ms.author: labrenne
 Keywords: conta corporativa, email, locatário, locatário do Azure, criar conta, nome de domínio
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: c8b731eeed6590e040eda18cb0e7093b389447b4
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: c309cd4f79bcc92fa54c903b4517fd5a1b8399fd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253316"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721347"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>A conta corporativa da sua empresa e o Partner Center  
 
 **Aplica-se a**
 
 -  Partner Center
+
+**Funções apropriadas**
+
+- Administração global
+- Administrador de gerenciamento de usuário
 
 ## <a name="why-you-need-a-work-account"></a>Por que você precisa de uma conta corporativa
 
@@ -34,16 +39,18 @@ Sua conta corporativa ou seu email de trabalho é o endereço de email fornecido
 Caso você tenha mais de um email de trabalho válido, use aquele associado à sua sede corporativa em vez do departamento regional, por exemplo, use seu email contoso.com em vez do endereço contoso.uk.
 
 > [!NOTE]  
->  Antes de decidir usar uma conta corporativa existente, pense sobre quantos usuários da conta precisarão trabalhar no Partner Center. Caso você tenha usuários da conta que não precisem trabalhar no Partner Center, considere a possibilidade de criar uma conta só para os usuários que precisarão trabalhar no Partner Center.
+> Antes de decidir usar uma conta corporativa existente, pense sobre quantos usuários da conta precisarão trabalhar no Partner Center. Caso você tenha usuários da conta que não precisem trabalhar no Partner Center, considere a possibilidade de criar uma conta só para os usuários que precisarão trabalhar no Partner Center.
 
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Não tem certeza se a sua empresa já tem uma conta corporativa?
 
 Caso não tenha certeza se a sua empresa tem uma conta corporativa, siga estas etapas para verificar isso. Observe que, se você tiver uma assinatura ativa do Microsoft Azure ou do Office 365, já terá uma conta corporativa.
 
-1.  Entre no portal de administração do Azure em https://ms.portal.azure.com
-2.  Selecione Azure Active Directory no menu e, em seguida, selecione Nomes de Domínio.
-3.  Caso você já tenha uma conta corporativa, seu nome de domínio estará listado.
+1. Entre no portal de administração do Azure em https://ms.portal.azure.com
+
+2. Selecione Azure Active Directory no menu e, em seguida, selecione Nomes de Domínio.
+
+3. Caso você já tenha uma conta corporativa, seu nome de domínio estará listado.
 
 Caso sua empresa ainda não tenha uma conta corporativa, você poderá criar uma durante o processo de registro.
 

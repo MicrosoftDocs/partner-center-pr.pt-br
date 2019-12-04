@@ -1,7 +1,7 @@
 ---
 title: Requisitos básicos de reivindicações de cooperação de incentivos | Partner Center
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Saiba mais sobre os requisitos para enviar uma solicitação de incentivos no Partner Center para um tipo específico de atividade dentro do programa de cooperação de incentivos.
@@ -9,18 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: reivindicações de incentivos, reivindicações de cooperação, fundos de cooperação, requisitos básicos
 ms.localizationpriority: high
-ms.openlocfilehash: 3ed6db76ae152b002ab9518e2f9b167d6aa88337
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: e8babb28ab14b2cada56d9c2f65a588e7c682c2c
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252076"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721318"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>Requisitos básicos para reivindicações de cooperação de incentivos
 
 **Aplica-se a**
 
 - Partner Center
+
+**Funções apropriadas**
+
+- Administrador de incentivos
+- Usuário de incentivos
 
 Cada tipo de atividade para a qual você envia uma reivindicação de incentivos tem requisitos básicos que você precisa anteder e que você demonstra em seus documentos de prova de execução. Em alguns casos, há tipos de comunicações e métricas definidos que também são obrigatórios.
 

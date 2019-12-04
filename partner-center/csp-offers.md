@@ -1,7 +1,7 @@
 ---
 title: Ofertas de parceiro no programa Provedor de Soluções na Nuvem | Partner Center
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre as ofertas disponíveis para parceiros que vendem por meio do programa Provedor de Soluções na Nuvem.
@@ -9,18 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Provedor de Soluções na Nuvem, programa provedor de soluções na nuvem, CSP, adicionar um produto, vender para clientes, ofertas de parceiro, ofertas de CSP, serviços baseados em nuvem, Azure, Office 365, Dynamics, parceiro CSP, vender no CSP, Azure RI, instâncias de Máquinas Virtuais reservadas do Azure, reservas do Azure, serviços online, software de assinatura, AHUB, SQL Server no Azure, Windows Server no Azure, assinaturas de cliente
 ms.localizationpriority: high
-ms.openlocfilehash: 49010909cad50df40668606dff7bfd45260b580b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: eddc88b6ccd5e05a860b5de9800d8ce1e5bd3cf5
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252906"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722534"
 ---
-# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Ofertas de parceiro no programa Provedor de Soluções na Nuvem 
+# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Ofertas de parceiro no programa Provedor de Soluções na Nuvem
 
 **Aplica-se a**
 
--  Parceiros CSP
+- Parceiros CSP
+
+**Funções apropriadas**
+
+- Agente administrador
+- Administração global
+- Agente de vendas
 
 Os parceiros da Microsoft no programa CSP (Provedor de Soluções na Nuvem) têm um catálogo cada vez maior de ofertas disponíveis para eles. Você pode vender a gama completa de [serviços em nuvem da Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), bem como uma variedade de ofertas adicionais que mudam com frequência. Para ver as ofertas do CSP no mês atual, entre no Partner Center e, em seguida, acesse a página [**Preços e ofertas**](https://partnercenter.microsoft.com/pcv/sales).  
 

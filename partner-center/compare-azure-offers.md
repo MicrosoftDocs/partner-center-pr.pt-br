@@ -1,7 +1,7 @@
 ---
 title: Comparar ofertas do Azure | Partner Center
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Compare as principais diferenças entre as ofertas na nova experiência de comércio da Microsoft para parceiros no programa CSP (Provedor de Soluções na Nuvem).
@@ -9,14 +9,22 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 0e624e28be8585b8a8040a9d65bce931cb7c70d8
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: ba5eeb6281b3c379f568a5373d0e0b7adf7ce378
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253442"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722501"
 ---
 # <a name="compare-azure-offers"></a>Comparar as ofertas do Azure
+
+**Funções apropriadas**
+
+- Agente administrador
+- Administrador de cobrança
+- Administração global
+- Agente de suporte técnico
+- Agente de vendas
 
 A tabela a seguir fornece uma visão geral das principais diferenças entre as ofertas disponíveis por meio do programa CSP (provedor de soluções na nuvem) que fazem parte da nova experiência de comércio da Microsoft.
 
