@@ -9,16 +9,16 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: competências, ISV, desenvolvimento de aplicativos
 ms.localizationpriority: medium
-ms.openlocfilehash: 810fd3446077365d9a6b838840a89cdca85edef1
-ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
+ms.openlocfilehash: 9c6346231baffa65270c0a3f5de261628271e620
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "74559498"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722346"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>A isenção de requisitos de exames one-time para a competência de desenvolvimento de aplicativos
 
-**Funções aplicáveis**
+**Funções apropriadas**
 
 - Administração global
 - Administrador de parceiros do MPN

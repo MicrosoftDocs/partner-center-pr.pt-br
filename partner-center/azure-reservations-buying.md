@@ -1,7 +1,7 @@
 ---
 title: Comprar reservas do Microsoft Azure em nome dos seus clientes | Partner Center
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Saiba como comprar ou comprar reservas do Azure em nome de seus clientes no Partner Center.
@@ -10,20 +10,28 @@ ms.author: labrenne
 keywords: azure, reservas, gerenciar, cobrança, comprar
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2a7e249ddae377acb742d78cf505aa7b97cf84c4
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1ed6e84a931c609fefb70dbc1081309b244d8e63
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253237"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722012"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Comprar Microsoft Azure reservas em nome de seus clientes no Partner Center 
 
 **Aplica-se a**
 
--  Partner Center
--  Portal do Microsoft Azure
--  Parceiros no CSP
+- Partner Center
+- Portal do Microsoft Azure
+- Parceiros no CSP
+
+**Funções apropriadas**
+
+- Agente administrativo
+- Administração global
+- Agente de suporte técnico
+- Agente de vendas
+- Administrador de gerenciamento de usuário
 
 ## <a name="before-you-begin"></a>Antes de começar
 
@@ -31,19 +39,19 @@ Examine as informações importantes abaixo antes de comprar as reservas do Azur
 
 - Se e quando o cliente assina o novo contrato de cliente da Microsoft, [confirme a aceitação do cliente do contrato do cliente da Microsoft](confirm-customer-agreement.md), você deve comprar as reservas do Azure no plano do Azure. Para obter mais informações, leia [comprar Azure Plan](purchase-azure-plan.md).
 
--   Os clientes já devem ter uma assinatura do Azure ativa antes que você possa comprar reservas em nome deles
+- Os clientes já devem ter uma assinatura do Azure ativa antes que você possa comprar reservas em nome deles
   
--   Os custos de assinatura de software, como o banco de dados SQL ou o software SUSE Linux, não estão incluídos nos preços de reserva do Azure
+- Os custos de assinatura de software, como o banco de dados SQL ou o software SUSE Linux, não estão incluídos nos preços de reserva do Azure
 
--   Os preços comerciais da Microsoft para você não incluem impostos, a menos que seu local seja o Brasil. Se seu local for o Brasil, o preço comercial para você incluirá os impostos apropriados 
- 
--   Os agentes de suporte técnico e de vendas precisam de acesso explícito à assinatura do Azure para que eles possam comprá-la ou gerenciá-la no portal do Azure e nas solicitações de suporte de arquivo, inclusive para trocas e reembolsos, em nome do cliente  
+- Os preços comerciais da Microsoft para você não incluem impostos, a menos que seu local seja o Brasil. Se seu local for o Brasil, o preço comercial para você incluirá os impostos apropriados
 
--   Se você for um provedor indireto e comprar as reservas do Azure por meio do portal do Azure, o parceiro no registro (revendedor indireto) será herdado da assinatura do Azure CSP que você selecionar. 
+- Os agentes de suporte técnico e de vendas precisam de acesso explícito à assinatura do Azure para que eles possam comprá-la ou gerenciá-la no portal do Azure e nas solicitações de suporte de arquivo, inclusive para trocas e reembolsos, em nome do cliente  
 
--   O parceiro de registro para reservas do Azure não pode ser alterado após a compra. Você pode cancelar a reserva existente e comprar uma nova com o novo Parceiro Registrado. 
+- Se você for um provedor indireto e comprar as reservas do Azure por meio do portal do Azure, o parceiro no registro (revendedor indireto) será herdado da assinatura do Azure CSP que você selecionar.
 
--   Se um cliente quiser transferir uma assinatura do Azure do Direct ou EA para o CSP, as reservas não serão transferidas. 
+- O parceiro de registro para reservas do Azure não pode ser alterado após a compra. Você pode cancelar a reserva existente e comprar uma nova com o novo Parceiro Registrado.
+
+- Se um cliente quiser transferir uma assinatura do Azure do Direct ou EA para o CSP, as reservas não serão transferidas.
 
 ## <a name="azure-reservations-unavailable-markets"></a>Mercados indisponíveis para reservas do Azure
 
@@ -62,7 +70,7 @@ Examine as informações importantes abaixo antes de comprar as reservas do Azur
 > | Azerbaijão       | Guiana     | São Pedro e Miquelon   |
 > | Benin     | Haiti       | São Vicente e Granadinas     |
 > | Butão     | Ilhas Heard e McDonald       | Samoa     |
-> | Bonaire     | Ilha de Man     | San Marino     |
+> | Bonaire     | Ilha de Man     | São Marinho     |
 > | Ilha Bouvet     | Jan Mayen     | São Tomé and Príncipe   |
 > | Território Britânico do Oceano Índico       | Jersey     | Seicheles   |
 > | Ilhas Virgens Britânicas     | Kiribati       | Serra Leoa   |
@@ -71,7 +79,7 @@ Examine as informações importantes abaixo antes de comprar as reservas do Azur
 > | Camboja     | Lesoto     | Ilhas Salomão     |
 > | República Centro-Africana     | Libéria     | Somália     |
 > | Chade     | Madagascar     | Ilhas Geórgia do Sul e Sandwich do Sul     |
-> | China     | Malaui     | Sudão do Sul     |
+> | China     | Maláui     | Sudão do Sul     |
 > | Ilha Christmas     | Maldivas     | Santa Helena, ascensão e Tristão da Cunha     |
 > | Ilhas Cocos (Keeling)     | Máli     | Suriname     |
 > | Ilhas Comores     | Ilhas Marshall     | Svalbard     |
@@ -80,7 +88,7 @@ Examine as informações importantes abaixo antes de comprar as reservas do Azur
 > | Ilhas Cook     | Mayotte     | Togo   |
 > | Djibuti     | Micronésia     | Tokelau   |
 > | Dominica     | Montserrat     | Tonga   |
-> | Guiné Equatorial     | Moçambique     | Ilhas Turcas e Caicos   |
+> | Guiné Equatorial     | Moçambique     | Ilhas Turks e Caicos   |
 > | Eritreia     | Myanmar     | Tuvalu   |
 > | Ilhas Malvinas     | Nauru     | Territórios Insulares dos EUA   |
 > | Guiana Francesa     | Nova Caledônia     | Vanuatu   |

@@ -1,7 +1,7 @@
 ---
 title: Atribuir contatos de suporte | Partner Center
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como atribuir um revendedor como um contato de suporte técnico para clientes com assinaturas para serviços da Microsoft.
@@ -11,18 +11,26 @@ ms.author: labrenne
 keywords: agente de ajuda, suporte, atribuir contato de suporte, contato de suporte designado
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cf8e4bde1380123ff9c93c23f1fb9b7a0924cca5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0c27f0919d9ed14c91764677465db4945b680cc8
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253334"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722397"
 ---
-# <a name="assign-support-contacts"></a>Atribua contatos de suporte
+# <a name="assign-support-contacts"></a>Atribuir contatos de suporte
 
 **Aplica-se a**
 
--  Partner Center
+- Partner Center
+
+**Funções apropriadas**
+
+- Agente administrativo
+- Administração global
+- Agente de suporte técnico
+- Agente de vendas
+- Administrador de gerenciamento de usuário
 
 Quando você configura assinaturas de serviços Microsoft para seus clientes, convém atribuir o suporte técnico desses produtos a um revendedor designado, em vez de fornecer o suporte por conta própria.
 
@@ -39,7 +47,7 @@ Isso pode ser usado para cenários de [multi-parceiros](multipartner.md) e [mult
 
 3.  Em **Contato de suporte designado**, selecione o revendedor de produto designado e, em seguida, clique em **Enviar**. 
 
-    Notas: 
+    Observações: 
     
     *  Para novas assinaturas, o suporte designado usa padrões para o provedor indireto. Você também pode alterar isso para um revendedor indireto que tem privilégios de administrador de delegação (DAP).
     

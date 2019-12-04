@@ -1,7 +1,7 @@
 ---
 title: Confirmar a aceitação do cliente do contrato do cliente da Microsoft |Partner Center
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Saiba como confirmar a aceitação do cliente do contrato do cliente da Microsoft. Isso pode ser necessário para solicitar produtos e serviços da Microsoft para clientes.
@@ -9,14 +9,19 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: cliente, clientes, consentimento, MCA, contrato de Microsoft Cloud, contrato de cliente da Microsoft, modelos de contrato de cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 9d362f581d0d318b1a457ba6a75db54713fce6bb
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 8beee9ed9035ff846c6e9d84fefd0c5c2ba255de
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252229"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721364"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confirmar a aceitação do cliente do contrato do cliente da Microsoft
+
+**Funções apropriadas**
+
+- Agente administrativo
+- Agente de vendas
 
 Atualmente, antes que um parceiro CSP possa fazer o pedido em nome de um cliente, o cliente deve aceitar e assinar o **contrato de Microsoft Cloud**aplicável. Em seguida, o parceiro deve confirmar a aceitação do cliente fornecendo informações sobre o assinante à Microsoft. Caso a confirmação não seja fornecida:
 - Você não poderá criar novos pedidos para esse cliente.
@@ -26,7 +31,7 @@ Para obter detalhes sobre como confirmar a aceitação de um cliente do contrato
 
 Em 1º de outubro de 2019, a Microsoft apresentará o **contrato do cliente da Microsoft** ao programa CSP para substituir o contrato de Microsoft Cloud. Para facilitar a migração dos parceiros para o novo contrato, haverá suporte para o Contrato do Microsoft Cloud atual no programa CSP até 31 de janeiro de 2020. Para obter mais detalhes do cronograma, consulte a tabela a seguir:
 
-| Date | Marco | Detalhes |
+| Data | Marco | Detalhes |
 |------------|------------|--------------------------------|
 |1º de agosto de 2019|Visualização de UX disponível na área restrita|Os parceiros podem confirmar a aceitação do cliente do contrato de cliente da Microsoft usando o painel do Partner Center no ambiente de área restrita do CSP. Os parceiros com acesso ao ambiente de área restrita do CSP visualizam as alterações na experiência do usuário. Parceiros sem acesso à área restrita podem aprender sobre as alterações neste tópico.|
 |3 de setembro de 2019|A visualização da API está disponível na área restrita.|O parceiro pode confirmar a aceitação do cliente do contrato do cliente da Microsoft usando a API do Partner Center no ambiente de área restrita do CSP. Os parceiros de API podem usar essa oportunidade para visualizar as alterações de API e começar a trabalhar na integração de API para dar suporte ao novo contrato.|

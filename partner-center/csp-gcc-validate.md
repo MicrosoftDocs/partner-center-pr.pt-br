@@ -1,19 +1,19 @@
 ---
 title: Critérios de qualificação de parceiros e clientes do Office 365 Government GCC | Partner Center
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Conheça as etapas para parceiros de cobrança direto (revendedores diretos, provedores indiretos) para validar parceiros e clientes para o GCC do Office 365 governamental para CSP.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 418aaa8624a7a22945dbbdb2d410dd061bab4586
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 3819362421c19a9331760ff4c2068c1a781dd00c
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253533"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721934"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Critérios de qualificação de parceiros e clientes do Office 365 Government GCC para CSP
 
@@ -22,8 +22,14 @@ ms.locfileid: "74253533"
 -  Partner Center
 -  Parceiros CSP
 
+**Funções apropriadas**
+
+- Administração global
+- Agente administrativo
+- Agente de vendas
+
 >[!NOTE]
->O processo e os critérios de validação descritos abaixo são específicos para parceiros de cobrança direta. Os parceiros de cobrança direta incluem revendedores diretos e provedores indiretos.  Se você for um Revendedor Indireto, trabalhe com seu Provedor Indireto. 
+>O processo e os critérios de validação descritos abaixo são específicos para parceiros de cobrança direta. Os parceiros de cobrança direta incluem revendedores diretos e provedores indiretos.  Se você for um Revendedor Indireto, trabalhe com seu Provedor Indireto.
 
 Se você estiver interessado em ter sua organização ou organização de seus clientes aprovada para o Office 365 Government GCC para CSP, examine os requisitos a seguir.
 

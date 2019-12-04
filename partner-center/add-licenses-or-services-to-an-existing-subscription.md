@@ -10,18 +10,27 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: adicionar licenças à assinatura existente, adicionar estações à assinatura existente, modificar uma assinatura, alterar uma assinatura, comprar mais licenças para um cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c38ba3b789d1719c7987cedc63533396f5827b1
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: ead019e0e2619c045cc5330c11dfcb3933092834
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253136"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721755"
 ---
-# <a name="add-licenses-or-services-to-an-existing-subscription"></a>Adicionar licenças ou serviços a uma assinatura existente
+# <a name="add-licenses-or-services-to-an-existing-subscription"></a>Adicionar licenças ou serviços a uma assinatura atual
 
 **Aplica-se a**
 
--  Partner Center
+- Partner Center
+- Parceiros do programa Provedor de Soluções na Nuvem
+
+**Funções apropriadas**
+
+- Administração global
+- Administrador de gerenciamento de usuário
+- Agente administrativo
+- Agente de vendas
+- Agente de suporte técnico
 
 Se seu cliente precisar de mais usuários do que os fornecidos pela assinatura atual ou de uma versão diferente com serviços adicionais, você poderá atualizar a assinatura. Para saber mais, consulte [Alternar para um plano diferente do Office 365 for Business](https://go.microsoft.com/fwlink/p/?LinkId=723577).
 
@@ -73,8 +82,6 @@ As atualizações a seguir têm suporte no Provedor de Soluções na Nuvem:
 </tr>
 </tbody>
 </table>
-
- 
 
 As assinaturas poderão ser atualizadas se estas condições forem atendidas:
 

@@ -1,27 +1,34 @@
 ---
 title: Cenários comuns de cobrança | Partner Center
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Explicação o que você verá em sua fatura depois de adicionar novas assinaturas, ajustar o número de licenças em uma assinatura ou cancelar uma assinatura. As assinaturas baseadas em uso e em licença serão afetadas de forma diferente.
+description: Explore a cobrança depois de adicionar novas assinaturas, ajustar a quantidade de licenças ou cancelar uma assinatura. Veja como as assinaturas baseadas em uso e licença são diferentes.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: cobrança, pagamentos, pedidos, uso, cobrança baseada em licença, data de aniversário, termo, cancelamento, renovação, fórmula de preço, arquivo de reconciliação, arquivo reconhecimento
 ms.localizationpriority: medium
-ms.openlocfilehash: eaedbdf3f931c1b28f1219efe2739e9b65162864
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 2c7a24d0d33aa071ce4edba5cf579f6a6371af3d
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384599"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722017"
 ---
 # <a name="common-billing-scenarios"></a>Cenários comuns de cobrança
 
 Aplica-se a:
 
 - Cobrança do programa CSP (provedor de soluções na nuvem)
+
+**Funções apropriadas**
+
+- Agente administrativo
+- Administrador de cobrança
+- Agente de suporte técnico
+- Agente de vendas
 
 Estes tópicos explicam o que você deve esperar ver em sua fatura depois de adicionar novas assinaturas, adicionar novos assentos, ajustar o número de licenças para uma assinatura ou cancelar uma assinatura. Outros [tipos de cobrança do Partner Center](billing-different-types.md), como assinaturas baseadas em uso e de licença, são cobrados de forma diferente.
 

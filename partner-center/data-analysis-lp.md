@@ -1,7 +1,7 @@
 ---
 title: Dados e análise no Partner Center | Partner Center
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como usar a análise no Partner Center para entender melhor seus negócios e como seus clientes estão usando as licenças que você comprou.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: dados, análise, análise de dados, power bi
 ms.localizationpriority: medium
-ms.openlocfilehash: b584cf8d622bbe58ac8bf99be3292464cf64e07d
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: e8501776365e761c2c7ea9f5c33a2150c92cc79e
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384842"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722567"
 ---
 # <a name="get-data-and-analyze-your-business"></a>Obtenha dados e analise seus negócios
 

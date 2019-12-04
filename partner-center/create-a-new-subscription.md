@@ -1,7 +1,7 @@
 ---
 title: Criar, suspender ou cancelar assinaturas de cliente | Centro de parceiros
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como vender suas assinaturas de clientes para produtos no catálogo depois de ter criado um registro de cliente no Partner Center.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: assinatura, criar novo, adicionar assinatura, suspender, cancelar, suspensão, suspender, SaaS, licença, ISV, terceiros
 ms.localizationpriority: medium
-ms.openlocfilehash: d829ba7ee520cab42ec5985ac2156ddff60d8e99
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253454"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721717"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Criar, suspender ou cancelar assinaturas de clientes
 
@@ -27,8 +27,11 @@ ms.locfileid: "74253454"
 
 **Funções apropriadas**
 
+- Agente administrativo
+- Administrador de cobrança
 - Administração global
-- Agente administrador
+- Agente de suporte técnico
+- Agente de vendas
 
 Depois de criar um registro de seu cliente no Partner Center, você pode vender as assinaturas para os produtos no catálogo. Isso inclui produtos publicados pela Microsoft, bem como produtos SaaS (software como serviço) publicados por ISVs (fornecedores de software independentes) de terceiros no [mercado comercial](https://azuremarketplace.microsoft.com/marketplace). 
 
@@ -77,7 +80,7 @@ Como um parceiro no programa CSP, você só pode comprar assinaturas SaaS **base
 
 Os parceiros podem suspender ou cancelar uma assinatura se solicitado pelo cliente ou em casos de fraude ou falta de pagamento.
 
-### <a name="suspend-a-subscription"></a>Suspenda uma assinatura
+### <a name="suspend-a-subscription"></a>Suspender uma assinatura
 
 Quando você alterar o status de uma assinatura para **Suspensa**, os usuários não poderão entrar nem acessar os serviços.
 
@@ -87,7 +90,7 @@ Quando você alterar o status de uma assinatura para **Suspensa**, os usuários 
 
 3. Escolha a assinatura que deseja gerenciar.
 
-4. Na seção **Status**, escolha **Suspensa**. Em seguida, clique em **Enviar**  para enviar suas alterações.
+4. Na seção **Status**, escolha **Suspensa**. Em seguida, **Envie**  suas alterações.
 
 5. Todos os dados serão excluídos, a menos que a assinatura seja reativada dentro de 90 dias ou 90 dias mais o número de dias entre a hora em que a conta foi aberta e o primeiro período de cobrança (máximo de 120 dias).
 
@@ -122,7 +125,7 @@ Para cancelar uma assinatura SaaS baseada em licença de um editor ISV, faça o 
 
 3. Localize a assinatura que você deseja cancelar.
 
-4. Na coluna **status** , selecione **Cancelar**. Em seguida, clique em **Enviar**  para enviar suas alterações.
+4. Na coluna **status** , selecione **Cancelar**. Em seguida, **Envie**  suas alterações.
 
 5. Se uma caixa de diálogo for exibida, preencha todos os detalhes relevantes e selecione **Enviar**.
 

@@ -10,22 +10,30 @@ ms.author: labrenne
 keywords: Azure, reservas, gerenciar, cobrança, compra, cancelamento, troca, taxa de encerramento antecipado
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b71457f0bd75008db9ed704784a39b082983501d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: eedfe20cea239918e5ece6f10b2b5f5988da9c50
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252634"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722276"
 ---
-# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gerenciar Reservas do Microsoft Azure em nome de seus clientes       
+# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gerenciar Reservas do Microsoft Azure em nome de seus clientes
 
 **Aplica-se a**
 
--  Partner Center
--  Portal do Microsoft Azure 
--  Parceiros no CSP
+- Partner Center
+- Portal do Microsoft Azure 
+- Parceiros no CSP
 
-Para gerenciar as reservas do Azure de seus clientes após a compra, você selecionará o cliente e a reserva que deseja gerenciar no Partner Center e, em seguida, fará alterações na reserva no portal do Azure. 
+**Funções apropriadas**
+
+- Agente administrativo
+- Administração global
+- Agente de suporte técnico
+- Agente de vendas
+- Administrador de gerenciamento de usuário
+
+Para gerenciar as reservas do Azure de seus clientes após a compra, você selecionará o cliente e a reserva que deseja gerenciar no Partner Center e, em seguida, fará alterações na reserva no portal do Azure.
 
 1. Para começar, selecione **clientes** no menu do centro de parceiros e, em seguida, selecione o cliente cujas reservas você deseja gerenciar. 
 
@@ -45,8 +53,8 @@ Para gerenciar as reservas do Azure de seus clientes após a compra, você selec
 
 Se, a qualquer momento, as necessidades dos negócios de um cliente mudarem, talvez desejam cancelar uma reserva e obter um reembolso ou trocar o valor de reembolso rateado da reserva a ser usado em relação ao preço de uma nova reserva.
 
-Em ambos os cenários, a Microsoft refinancia o valor a você para que você possa gerenciar as transações financeiras resultantes com seus clientes. A Microsoft não entra em contato com os clientes diretamente sobre cobrança, cancelamentos ou reembolsos.   
- 
+Em ambos os cenários, a Microsoft refinancia o valor a você para que você possa gerenciar as transações financeiras resultantes com seus clientes. A Microsoft não entra em contato com os clientes diretamente sobre cobrança, cancelamentos ou reembolsos.
+
 
 **Como o cancelamento funciona**
 

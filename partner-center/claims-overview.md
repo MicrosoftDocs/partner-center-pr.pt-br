@@ -1,7 +1,7 @@
 ---
 title: Incentivos a reivindicações de cooperação | Centro de parceiros
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como enviar suas declarações de incentivos sem o pré-requisito para que seu plano de atividade seja revisado.
@@ -9,18 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: reivindicações de incentivos, reivindicações de cooperação, fundos de cooperação
 ms.localizationpriority: medium
-ms.openlocfilehash: a13da629dad56afd62e9898df8cd6ba8f2f5c603
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: d5252427ad35e33b391edfce2d4cd100dc33f5c1
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253405"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721626"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Visão geral de reivindicações de cooperação de incentivos
 
 **Aplica-se a**
 
 - Partner Center
+
+**Funções apropriadas**
+
+- Administrador de incentivos
+- Usuário de incentivos
 
 Quando você participa de um dos programas de incentivos da Microsoft (como o parceiro, o financiamento de marketing cooperativo, o programa Online Services Advisor ou o programa do Dynamics ISV), você alega reembolsos de fundos acumulados para atividades que você fez dê suporte ao reconhecimento de produtos da Microsoft. Você envia uma declaração diretamente do Partner Center. Você não precisa ter seu plano de atividade examinado pela Microsoft antes de enviar uma reivindicação. Envie sua reivindicação e a documentação necessária até o prazo final do período de reivindicação , que é 45 dias após o término do período de uso. 
 

@@ -1,7 +1,7 @@
 ---
 title: Automatizar as notificações de serviço com nossas APIs | Partner Center
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Os parceiros podem usar APIs para o Office 365 e parceiros de Microsoft Azure para a integridade do serviço em tempo real, comunicações do centro de mensagens e eventos de manutenção planejada.
@@ -9,18 +9,25 @@ ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8678b0e12ca92596940573c36e48768c50a2317e
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 632d6ee1806638040ee1e08e1eb715d517a0c3b2
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253607"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722208"
 ---
-# <a name="get-automated-service-notifications-with-our-apis"></a>Receba notificações de serviço automatizadas com nossas APIs
+# <a name="get-automated-service-notifications-with-our-apis"></a>Obter notificações de serviço automatizadas com nossas APIs
 
 **Aplica-se a**
 
 -  Partner Center
+
+**Funções apropriadas**
+
+- Agente administrativo
+- Global 
+- Agente de vendas
+- Agente de suporte técnico
 
 O Office 365 e o Microsoft Azure fornecem uma API que os parceiros podem usar para recuperar em tempo real a integridade do serviço, comunicações do centro de mensagens e eventos planejados de manutenção. Essas APIs estão disponíveis publicamente e os parceiros podem usá-las em nome dos seus clientes devido a seus privilégios de administrador.
 

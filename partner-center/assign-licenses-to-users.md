@@ -1,7 +1,7 @@
 ---
 title: Tarefas de gerenciamento de usuários para contas de cliente | Partner Center
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como criar contas de usuário para um cliente, adicionar ou remover licenças de usuário, redefinir senhas de usuário, excluir contas de usuário ou restaurá-las.
@@ -10,18 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: gerenciamento de clientes, conta, criar conta, licenças, atribuir licença, gerenciamento de usuários, senha, Redefinir senha, alterar senha
 ms.localizationpriority: medium
-ms.openlocfilehash: fb2e616a6bf7dbfa5072ff1617dc37ad76831b8c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: cd1b32a0ceb133f9513263f56a7d1e2e98dde3c5
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253350"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721361"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Tarefas de gerenciamento de usuários para contas de cliente
 
 **Aplica-se a**
 
 - Partner Center
+
+**Funções apropriadas**
+
+- Administração global
+- Administrador de gerenciamento de usuário
+- Agente administrativo
+- Agente de vendas
+- Agente de suporte técnico
 
 Você pode criar e excluir novos usuários na conta de um cliente. Você também pode restaurar uma ou mais contas de usuário que você excluiu anteriormente dentro de 30 dias da exclusão. As atribuições de assinatura anteriores do usuário também serão restauradas (supondo que suas alocações anteriores estejam disponíveis).
 

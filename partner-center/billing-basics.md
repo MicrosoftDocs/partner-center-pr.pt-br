@@ -1,35 +1,45 @@
 ---
 title: Visão geral da cobrança | Centro de parceiros
 ms.topic: article
-ms.date: 11/21/2019
-description: Informações básicas de cobrança e fatura para o Partner Center.
+ms.date: 11/25/2019
+description: Saiba mais sobre as informações básicas de cobrança e fatura para o Partner Center.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
-keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções fiscais, arquivos de reconciliação, arquivo de reconciliação
+keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções de imposto, arquivos de reconciliação, arquivo de reconciliação
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 10fe47ea038fadf8ca26fe0ab42a0d0d3a9472bd
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: e77d641b1b75c5d462871aa61c3f67bc6d6dd13e
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384541"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722465"
 ---
 # <a name="billing-overview"></a>Visão geral da cobrança
 
-Aplica-se a:
+**Aplica-se a**
 
 - Partner Center
 - Parceiros no programa CSP (provedor de soluções na nuvem)
+
+**Funções apropriadas**
+
+- Agente administrativo
+- Administrador de cobrança
+- Administração global
+- Agente de suporte técnico
+- Agente de vendas
 
 ## <a name="find-your-bill"></a>Encontre sua fatura
 
 Para encontrar sua fatura:
 
 1. [Entre no painel do Partner Center](https://partner.microsoft.com/dashboard/home).
+
 2. No menu à esquerda, escolha **cobrança**.
+
 3. Na página de **cobrança** , você pode baixar sua última conta ou baixar as cobranças anteriores na seção **histórico de cobrança** .
 
 ## <a name="bill-your-customers"></a>Cobrar seus clientes
@@ -52,7 +62,7 @@ Você será cobrado por produtos na moeda do país ou da região em que está lo
 
 Sua fatura é um resumo de todos os encargos para o período de cobrança atual. Isso inclui cobranças entre o programa, todos os produtos e todos os clientes. Para obter exemplos de cenários de cobrança mensal e anual, consulte [cenários comuns de cobrança](common-billing-scenarios.md)
 
-Sua fatura está disponível dentro de dois (2) dias da data de cobrança selecionada em hora UTC. Por exemplo, se você tiver uma data de cobrança de 12 de setembro, o processo de geração de nota fiscal começará em 12:10:00 UTC na 13 e será concluído por 12:10:00 UTC no dia 14. Se você não vir sua fatura por 11:59PM UTC no dia 15, você está fora de seu Contrato de Nível de Serviço e deve arquivar uma solicitação de serviço.
+Sua fatura está disponível dentro de dois (2) dias da data de cobrança selecionada em hora UTC. Por exemplo, se você tiver uma data de cobrança igual a 12 de setembro, o processo de geração da fatura será iniciado em 00:00 UTC no dia 13 e será concluído até 00:00 UTC no dia 14. Se você não vir sua fatura por 11:59PM UTC no dia 15, você está fora de seu Contrato de Nível de Serviço e deve arquivar uma solicitação de serviço.
 
 Parceiros no programa CSP (provedor de soluções na nuvem) que optam por ser cobrado mensalmente pagam a Microsoft 60 dias em pelos débitos anteriores para as assinaturas de seus clientes (baseadas em licença e de uso).
 

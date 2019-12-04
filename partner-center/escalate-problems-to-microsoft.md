@@ -1,7 +1,7 @@
 ---
 title: Encaminhar problemas para a Microsoft | Partner Center
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba quais problemas os parceiros da Microsoft devem se resolver para seus clientes e quais problemas eles podem precisar escalonar para a Microsoft.
@@ -10,19 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3ddffc00a63bc82856fdb0d993a04bf822f12e6f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 38797b12a4f32d7feea01f4ca320eee3faf19799
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252565"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722234"
 ---
-# <a name="escalate-problems-to-microsoft"></a>Encaminhar problemas para a Microsoft
+# <a name="escalate-problems-to-microsoft"></a>Escale problemas para a Microsoft
 
 **Aplica-se a**
 
--  Partner Center
--  Partner Center do Microsoft Cloud for US Government
+- Partner Center
+- Partner Center do Microsoft Cloud for US Government
+
+**Funções apropriadas**
+
+- Agente administrativo
+- Administração global
+- Agente de vendas
+- Agente de suporte técnico
 
 Espera-se que você resolva os problemas em nome de seus clientes. Seus primeiros passos devem ser [verificar a integridade do serviço](check-service-health.md) para problemas existentes e documentados. Se isso não resolver o problema do cliente, você então pode usar seus privilégios de administrador para solucionar problemas com software, definições e configuração.
 

@@ -10,20 +10,29 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: logs de atividades, assinatura, assinaturas, pagamentos, cobrança, transações
 ms.localizationpriority: medium
-ms.openlocfilehash: b9c1c2e6cc97fc923707ba8c2cbab42117c9c259
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 48871571fb35a17ab824be805233ee11168765b9
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252711"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721787"
 ---
 # <a name="view-customer-activity-logs"></a>Exibir logs de atividades do cliente
 
 **Aplica-se a**
 
--  Partner Center
--  Partner Center do Microsoft Cloud for US Government
+- Partner Center
+- Partner Center do Microsoft Cloud for US Government
+- Parceiros do programa Provedor de Soluções na Nuvem
 
+**Funções apropriadas**
+
+- Administração global
+- Administrador de cobrança
+- Administrador de gerenciamento de usuário
+- Agente administrativo
+- Agente de vendas
+- Agente de suporte técnico
 
 Os logs de atividades fornecem informações sobre transações e ações de gerenciamento de parceiros para clientes. Os logs de transações fornecem informações detalhadas sobre a transação, incluindo as assinaturas compradas. Você também pode exportar logs de atividades para um formato de arquivo de valores separados por vírgula (.csv) compatível com o Excel.
 
@@ -31,7 +40,9 @@ Os logs de atividades fornecem registros de ações de parceiros em contas de cl
 
 **Exibir e exportar logs de atividades**
 
-1.  No menu **Configurações da conta**, selecione **Log de atividades**.
+1. Entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center.
+
+2. No menu **Configurações da conta**, selecione **Log de atividades**.
 2.  Selecione o período do log de atividades nos campos **De** e **até**. A exportação do log de atividades usará como padrão o mês mais recente.
 
     Cada log de atividades fornece um link para a página **Assinaturas** do cliente listado.

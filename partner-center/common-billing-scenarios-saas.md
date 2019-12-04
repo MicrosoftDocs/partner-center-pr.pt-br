@@ -1,21 +1,29 @@
 ---
 title: Cenários de cobrança comuns para transações SaaS baseadas em licença | Centro de parceiros
 ms.topic: article
-ms.date: 11/21/2019
-description: Cenários comuns de cobrança no Partner Center para transações SaaS baseadas em licença.
+ms.date: 11/25/2019
+description: Saiba mais sobre cenários de cobrança comuns no Partner Center para transações de SaaS baseadas em licença.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: cobrança, pagamentos, compra única, compra recorrente, assinaturas, estações
 ms.localizationpriority: medium
-ms.openlocfilehash: b808a3bbfc0856e03f1c775d7e3145a29c2239fb
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 5d86210ce52280b73846de56dafb5909081b6524
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389604"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722515"
 ---
 # <a name="billing-scenarios-for-license-based-saas-transactions"></a>Cenários de cobrança para transações SaaS baseadas em licença
+
+**Funções apropriadas**
+
+- Agente administrativo
+- Administrador de cobrança
+- Agente de suporte técnico
+- Agente de vendas
+
 
 Esses [cenários de cobrança comuns](common-billing-scenarios.md) de exemplo são aplicáveis a assinaturas SaaS (software como serviço) baseadas em licença no Partner Center.
 
@@ -37,14 +45,14 @@ Os arquivos reconhecimento incluirão os seguintes encargos:
 > [!TIP]
 > Você pode cancelar uma assinatura SaaS de avaliação gratuita baseada em licença a qualquer momento, mesmo durante o período de avaliação gratuita.
 
-Nesse cenário, você comprou uma assinatura SaaS de avaliação gratuita baseada em licença em 1º de julho e, em seguida, a cancelou imediatamente no Partner Center. 
+Nesse cenário, você comprou uma assinatura SaaS de avaliação gratuita baseada em licença em 1º de julho e, em seguida, a cancelou imediatamente no Partner Center.
 
 O arquivo reconhecimento incluirá os seguintes encargos:
 
 | Data de compra | Data de início do encargo | Data de término do encargo | Preço unitário | Quantidade de unidades | Valor total | Tipo de cobrança | Descrição da assinatura |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
 | 06/10/2019 | 06/10/2019 | 07/09/2019 | US$ 0 | 11 | US$ 0 | Novo | Avaliação gratuita |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | US$ 0 | 11 | US$ 0 | Cancel | Avaliação gratuita |
+| 06/10/2019 | 06/10/2019 | 07/09/2019 | US$ 0 | 11 | US$ 0 | Cancelar | Avaliação gratuita |
 
 ## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>Converter a assinatura SaaS do medidor personalizado em outra SKU
 

@@ -1,7 +1,7 @@
 ---
 title: Registrar-se no Partner Center como um fornecedor do painel de controle | Centro de parceiros
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Saiba como registrar-se como um fornecedor do painel de controle (CPV) no Partner Center.
@@ -9,18 +9,22 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Fornecedor do painel de controle, registrar aplicativos CPV, gerenciar aplicativos CPV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0edc8aed269f992738f39b6250e51ec5f694727c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: d8320c584a9beefb6163a1072f90d66bdbaa8454
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253575"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722560"
 ---
 # <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>Registrar-se no Partner Center como um fornecedor do painel de controle
 
 **Aplica-se a**
 
 - Partner Center
+
+**Funções apropriadas**
+
+- Administração global
 
 Um fornecedor do painel de controle (CPV) é um fornecedor de software independente que desenvolve aplicativos para uso por parceiros do CSP (provedor de soluções na nuvem) para permitir que eles integrem seus sistemas com as APIs do Partner Center. Um fornecedor do painel de controle não é um parceiro CSP com acesso direto ao painel do Partner Center ou às APIs do Partner Center.
 

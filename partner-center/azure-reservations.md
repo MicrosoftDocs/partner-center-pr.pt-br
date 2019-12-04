@@ -1,7 +1,7 @@
 ---
 title: Centro de parceiros – visão geral das reservas de Microsoft Azure | Centro de parceiros
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Saiba como os provedores de soluções na nuvem podem comprar, vender ou gerenciar reservas do Azure para clientes que usam o Partner Center, o portal do Azure ou a API do Partner Center.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: azure, reservas, gerenciar, cobrança, compra, Azure RI, Instâncias Reservadas do Azure
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 39511095447138ffbed701fd07d5f592bba9ef33
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: f6d6e073d33baafe8ca65c8b06b2e2097c350cbd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253116"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722264"
 ---
 # <a name="partner-center---sell-microsoft-azure-reservations"></a>Centro de parceiros-venda Microsoft Azure reservas
 
@@ -26,6 +26,14 @@ ms.locfileid: "74253116"
 - Partner Center
 - Portal do Microsoft Azure
 - Parceiros no CSP
+
+**Funções apropriadas**
+
+- Agente administrativo
+- Administração global
+- Agente de suporte técnico
+- Agente de vendas
+- Administrador de gerenciamento de usuário
 
 Os parceiros no CSP (programa de provedor de soluções na nuvem) podem oferecer aos seus clientes Microsoft Azure reservas. Os clientes podem obter uma economia significativa quando reservam com antecedência. As reservas do Azure oferecem aos clientes simplicidade e flexibilidade das seguintes maneiras:
 

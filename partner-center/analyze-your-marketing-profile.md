@@ -1,19 +1,19 @@
 ---
 title: Analisar seu perfil de negócios | Centro de parceiros
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como usar a página de informações de perfil de negócios para ver como você está capturando a atenção dos clientes de destino e gerando referências.
 author: JnHs
 ms.author: jenhayes
 ms.localizationpriority: medium
-ms.openlocfilehash: 33763800e8da6d6c082aeccc67acddc01653313a
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 5f5be1a1d447adc344c7564bf1f13e015895de94
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253125"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722357"
 ---
 # <a name="analyze-your-business-profile"></a>Analisar seu perfil de negócios
 <!-- 
@@ -23,6 +23,17 @@ https://go.microsoft.com/fwlink/?linkid=849120
 **Aplica-se a**
 
 - Partner Center
+- Parceiros do Microsoft Partner Network
+- Parceiros do programa Provedor de Soluções na Nuvem
+
+**Funções apropriadas**
+
+- Administração global
+- Administrador de parceiros do MPN
+- Administrador de indicações
+- Administrador de perfis de negócios
+- Agente administrativo
+- Agente de vendas
 
 A página de **informações do perfil de negócios** no Partner Center permite que você veja como você está capturando a atenção dos clientes de destino e gerando referências.
 

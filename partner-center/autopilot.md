@@ -1,7 +1,7 @@
 ---
 title: Personalizar a experiência inicial no uso do dispositivo com os perfis do Windows AutoPilot | Centro de parceiros
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como personalizar ou pré-configurar a experiência inicial de um novo dispositivo com perfis do AutoPilot antes de entregar o dispositivo ao cliente.
@@ -9,18 +9,25 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: piloto automático, piloto automático do Windows, Microsoft AutoPilot, implantação Zero Touch, OOBE, telas de logon, pronto para uso
 ms.localizationpriority: medium
-ms.openlocfilehash: a07c18fda7de0aa5854fb46a91bea692c033d51c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 16653865ff251bcf73dcd79c4948d3326bcc0fab
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253326"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721432"
 ---
-# <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personalizar a experiência inicial de um dispositivo com os perfis do Windows AutoPilot
+# <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Personalizar a experiência inicial para um dispositivo com perfis do Windows AutoPilot
 
 **Aplica-se a**
 
 - CSP direto-parceiros de cobrança, provedores indiretos e revendedores indiretos
+
+**Funções apropriadas**
+
+- Agente administrativo
+- Administração global
+- Agente de vendas
+- Administrador de gerenciamento de usuário
 
 Se você gerenciar dispositivos de clientes, talvez seja necessário personalizar a OOBE (experiência inicial do usuário) para os usuários do cliente. Você pode pré-configurar novos dispositivos com os perfis do Windows AutoPilot antes de entregar os dispositivos aos clientes e aplicar novos perfis a dispositivos que os clientes já adquiriram. 
 

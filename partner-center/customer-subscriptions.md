@@ -1,7 +1,7 @@
 ---
 title: Assinaturas de clientes | Partner Center
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os parceiros no programa CSP podem vender assinaturas para os clientes e gerenciá-los por meio do Partner Center.
@@ -9,18 +9,25 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: assinaturas, atribuir licença, licença, satisfação do cliente, assinaturas do Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: 62b043a6bc6502bc8755f47e3b930d5f611ac62f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1c2116ca31b82e8b135208b4569012937d118866
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253494"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722546"
 ---
 # <a name="customer-subscriptions"></a>Assinaturas de clientes
 
 **Aplica-se a**
 
 -  Partner Center
+
+**Funções apropriadas**
+
+- Agente administrativo
+- Administração global
+- Agente de suporte técnico
+- Agente de vendas
 
 Na condição de parceiro CSP, uma das suas principais atividades é oferecer assinaturas de produtos da Microsoft a seus clientes. No Partner Center, você pode gerenciar todas as suas assinaturas para cada cliente. Você pode adicionar assinaturas, adicionar licenças a assinaturas atuais e até mesmo oferecer assinaturas de avaliação para clientes que desejam testar o software. Além disso, você pode exibir a análise para entender como os clientes estão usando o software, ajudando-o a fornecer melhor suporte.
 

@@ -9,16 +9,28 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 29988ecd4289f4c9b0772961a3b896124682aecb
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 3a0a7d0ba985f9610198a64aa87411b1a7da16bd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253162"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722318"
 ---
 # <a name="the-account-structure-in-partner-center"></a>A estrutura de conta no Partner Center
 
-Sua empresa tem dois níveis de contas no Partner Center. 
+**Aplica-se a**
+
+- Partner Center
+- Parceiros MPN
+
+**Funções apropriadas**
+
+- Administrador de conta
+- Administrador de perfis de negócios
+- Administração global
+- Administrador de parceiros do MPN
+
+Sua empresa tem dois níveis de contas no Partner Center.
 
 ### <a name="the-top-level-is-the-primary-global-account-pga"></a>O nível superior é a conta global principal (PGA).
 

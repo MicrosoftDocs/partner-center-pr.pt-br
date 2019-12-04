@@ -11,18 +11,26 @@ ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1cbd543d5d9385cbae73e66645b74292f4b12f7c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 494ef694410f193e3b76e476e5a6571b7ecf27e0
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253366"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722369"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>Analisar as assinaturas e as licenças 
 
 **Aplica-se a**
 
 - Partner Center
+- Parceiros do programa Provedor de Soluções na Nuvem
+
+**Funções apropriadas**
+
+- Administração global
+- Administrador de gerenciamento de usuário
+- Agente administrativo
+- Agente de vendas
 
 Os dados impulsionam as decisões de negócios. Use as métricas na página **Análise de assinatura e licença** para identificar seu êxitos e as áreas que precisam de mais atenção. Use essas informações ao planejar novas metas de negócios.
 

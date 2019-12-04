@@ -1,7 +1,7 @@
 ---
 title: Confirmar a aceitação do cliente do Contrato do Microsoft Cloud | Partner Center
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Saiba como confirmar a aceitação do cliente do contrato de Microsoft Cloud. Isso pode ser necessário para solicitar produtos e serviços da Microsoft para clientes.
@@ -9,17 +9,22 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: cliente, clientes, consentimento, MCA, contrato de Microsoft Cloud, modelos de contrato de cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: d9b2df8f9cf8795eedb75bc23773942e365c83fe
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 8e6493fccee9b00c953e18446ec6f101bf267210
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252585"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722087"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Confirmar a aceitação do cliente do Contrato do Microsoft Cloud
 
 **Aplica-se a**
 -  Partner Center
+
+**Funções apropriadas**
+
+- Agente administrativo
+- Agente de vendas
 
 > [!NOTE]
 > O recurso de contrato atualmente tem suporte do Partner Center na nuvem pública da Microsoft. Não é aplicável a:
@@ -92,7 +97,7 @@ Você deve ser um Agente administrativo ou Agente de vendas para fazer isso.
 2. Selecione **Informações da Conta**.
 3. Em **Contrato do Microsoft Cloud**, selecione **Atualizar**.
 
-![Atualização](images/mca/mca4.png)
+![Atualizar](images/mca/mca4.png)
 
 4. Insira o **Nome**, **Sobrenome**, **Email** e **Número de telefone** (opcional) do usuário que aceitou o contrato.
 5. Em **Data de aceitação do contrato**, insira a data apropriada. Você não pode definir isso como uma data futura.

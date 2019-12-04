@@ -10,19 +10,28 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cliente, adicionar cliente, conta do cliente, conta do cliente no Partner Center, clientes, adicionar clientes, criar conta do cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 5eab35aa23934b35320d9067bf305ce306e9c141
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: a3c1977cefebc6599012856d8e0523cfa74e6a64
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384611"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722294"
 ---
-# <a name="add-a-new-customer"></a>Adicione um novo cliente
+# <a name="add-a-new-customer"></a>Adicionar um novo cliente
 
 **Aplica-se a**
 
--  Partner Center
--  Partner Center do Microsoft Cloud for US Government
+- Partner Center
+- Partner Center do Microsoft Cloud for US Government
+- Parceiros do programa Provedor de Soluções na Nuvem
+
+**Funções apropriadas**
+
+- Administração global
+- Administrador de gerenciamento de usuário
+- Agente administrativo
+- Agente de vendas
+
 
 Antes de poder vender assinaturas, gerenciar a cobrança ou fornecer suporte a um cliente, você precisa adicioná-las à sua lista de clientes no Partner Center.
 

@@ -1,7 +1,7 @@
 ---
 title: Verificar a integridade do serviço | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como verificar a integridade do serviço de um cliente quando eles enfrentam um problema com um serviço.
@@ -10,18 +10,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: integridade, integridade do serviço, problemas de serviço
 ms.localizationpriority: medium
-ms.openlocfilehash: 5dbb478e37aaec144b822a2b2288860addf549b7
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 2d43782a53e09f6589e735792a2de46987822a4b
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253426"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721656"
 ---
-# <a name="check-service-health"></a>Verificar a integridade do serviço
+# <a name="check-service-health"></a>Verificar integridade do serviço
 
 **Aplica-se a**
 
--  Partner Center
+- Partner Center
+
+**Funções apropriadas**
+
+- Agente administrativo
+- Administração global
+- Agente de suporte técnico
+- Agente de vendas
 
 Uma das primeiras coisas que você pode fazer quando um cliente estiver tendo problemas com um serviço é verificar a integridade do serviço.
 

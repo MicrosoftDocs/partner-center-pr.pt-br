@@ -11,18 +11,26 @@ ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 188961444e4ec2f20fe305179b9f00673d7e371f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 9990cc72726803045806b88439fed54f9c9d07a2
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253381"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722382"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>Analisar o desempenho de revendedores indiretos 
 
 **Aplica-se a**
 
 - Partner Center
+- Parceiros do programa Provedor de Soluções na Nuvem
+
+**Funções apropriadas**
+
+- Administração global
+- Administrador de gerenciamento de usuário
+- Agente administrativo
+- Agente de vendas
 
 Os dados impulsionam as decisões de negócios. Use as métricas na página **Análise do revendedor** para identificar seu êxitos, os êxitos de seus clientes e as áreas que precisam de mais atenção. Use essas informações ao planejar novas metas de negócios.
 
