@@ -1,7 +1,7 @@
 ---
 title: Transições do cliente para o plano do Azure | Partner Center
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como transferir seus clientes facilmente para o plano do Azure.
@@ -10,14 +10,23 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: af3a57146bcf76d3d68f5bb22b21f6788e336ee8
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0420966e13f0ee7151dd9474d597b8253a1ecfff
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253270"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722287"
 ---
 # <a name="transition-your-customers-to-azure-plan"></a>Transferir seus clientes para o plano do Azure
+
+**Funções apropriadas**
+
+- Agente administrador
+- Administrador de cobrança
+- Administração global
+- Agente de suporte técnico
+- Agente de vendas
+- Administrador de gerenciamento de usuário
 
 Provedores indiretos e parceiros de cobrança diretos podem fazer a transição para a nova experiência de comércio disponível no programa CSP para o Azure. (Revendedores indiretos precisarão trabalhar por meio dos respectivos provedores indiretos.) Os clientes terão uma maneira simplificada de comprar serviços de nuvem, seja de parceiros, de vendedores da Microsoft ou diretamente na Web.
 
@@ -93,7 +102,7 @@ A assinatura do "Microsoft Azure" (0145P) é composta por duas partes:
 
 Quando a transição for concluída, a assinatura do Azure será movida no novo plano do Azure e a assinatura do Commerce será suspensa para que nenhum uso adicional seja relatado.  
 
->[Observação]: Quando a assinatura do Microsoft Azure (0145P) é adquirida no CSP, tanto a assinatura do Commerce quanto a assinatura do Azure (direito) têm o mesmo valor. Somente no caso de alterações ou transferências na propriedade de cobrança é que os valores diferem. 
+>[Observação]\: Quando a assinatura do Microsoft Azure (0145P) é adquirida no CSP, tanto a assinatura do Commerce quanto a assinatura do Azure (direito) têm o mesmo valor. Somente no caso de alterações ou transferências na propriedade de cobrança é que os valores diferem. 
 
 **Problemas de transição**
 
