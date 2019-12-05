@@ -1,28 +1,35 @@
 ---
 title: Cobrança | Partner Center
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Tópicos de cobrança no Partner Center, incluindo recursos de cobrança, faturas e cobrança do CSP.
+Description: Saiba mais sobre os tópicos de cobrança no Partner Center, incluindo informações sobre recursos de cobrança, faturas e cobrança de CSP.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções de imposto, arquivos de reconciliação, arquivo de reconciliação
 ms.localizationpriority: high
-ms.openlocfilehash: 8169c8303c78ceaeb1b47c124411f0324ae0349a
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: b3052f33b55ea7aa57d5ee9d29d2839791a92088
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384625"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722165"
 ---
 # <a name="billing"></a>Cobrança
 
-Aplica-se a:
+**Aplica-se a**
 
 - Partner Center
 - Partner Center do Microsoft Cloud for US Government
+
+**Funções apropriadas**
+
+- Agente administrador
+- Administrador de cobrança
+- Administração global
+- Agente de vendas
 
 | Tópico | Descrição |
 | ----- | ----------- |
