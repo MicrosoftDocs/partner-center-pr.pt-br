@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Localizar no Partner Center os recursos que você está acostumado a usar no Centro de Administração do Parceiro
+description: Depois de mudar do centro de administração de parceiros para o Partner Center, saiba como gerenciar a associação, as referências do cliente, os incentivos e todos os outros aspectos do CSP (programa de provedor de soluções na nuvem).
 author: LauraBrenner
 ms.author: labrenne
 keywords: PAC, administração do Office 365, recursos do PAC
 ms.localizationpriority: medium
-ms.openlocfilehash: a79badb357327e18ab28ec7cc39455cec42e539a
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: c68d09a658bf4d9cf65f54494a3ef30376a9692f
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654310"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943559"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Migração do PAC (Centro de Administração do Parceiro) para o Partner Center
 
@@ -32,9 +32,9 @@ O Partner Center está evoluindo para o único lugar em que você gerenciará su
 |Solicitar relacionamentos|(Revendedores e Consultores) Criar seu Negócio-> Enviar solicitação DAP|(Revendedores e consultores) Clientes -> Solicitar um relacionamento de revendedor (veja a observação abaixo)|
 |Gerenciar seus clientes|Gerenciamento de Clientes -> Lista de clientes|Equipe do Partner Center -> Clientes|
 |Gerenciar assinaturas de clientes|Gerenciamento de Clientes -> Lista de clientes -> selecione o cliente|Partner Center-> clientes-> selecione cliente ou adicione seu cliente à lista de **favoritos** alternando a estrela na lista de clientes-e, em seguida, selecione o slide de **favoritos** e vá diretamente para **gerenciar assinaturas** para o cliente.|
-|Administrar serviços em nome do seu cliente|Gerenciamento de Clientes -> selecione o cliente -> selecione o botão Administrar|Partner Center-> clientes – > selecione administrar serviços na lista suspensa-> selecione serviço ou adicione o cliente à lista de **favoritos** , alternando a estrela na lista de clientes-e, em seguida, selecione o slide de **favoritos** e vá diretamente para **Administre serviços** para o serviço necessário.|
+|Administrar serviços em nome do seu cliente|Gerenciamento de Clientes -> selecione o cliente -> selecione o botão Administrar|Partner Center-> clientes-> selecione administrar serviços na lista suspensa-> selecione serviço ou adicione o cliente à lista de **favoritos** , alternando a estrela na lista de clientes-e, em seguida, selecione o slide de **favoritos** e vá diretamente para **administrar serviços** para o serviço necessário.|
 |Criar solicitações de serviço para o cliente|Solicitações de serviço -> selecione o cliente -> selecione o botão + | Partner Center -> Solicitações de serviço -> Solicitações de cliente -> selecione o cliente -> Nova solicitação|
-|Gerenciar solicitações de atendimento ao cliente| Solicitações de serviço -> selecione o cliente|Partner Center-solicitações de serviço de >-> solicitações de clientes-> selecione cliente ou adicione a solicitação de serviço à lista de **favoritos** , alternando a estrela no modo de exibição solicitações de cliente para o cliente – em seguida, selecione o slide de **favoritos** , selecione a guia **solicitações de suporte** e vá diretamente para a solicitação de serviço ou exiba atualizações diretamente de **favoritos**.|
+|Gerenciar solicitações de atendimento ao cliente| Solicitações de serviço -> selecione o cliente|Partner Center-solicitações de serviço de >-> solicitações de clientes-> selecione cliente ou adicione a solicitação de serviço à lista de **favoritos** , alternando a estrela no modo de exibição solicitações de cliente para o cliente – em seguida, selecione **o slide de favoritos,** selecione a guia solicitações de **suporte** e vá diretamente para a solicitação de serviço ou exiba as atualizações diretamente dos **favoritos**.|
 |Exibir integridade do Microsoft Online Services que você gerencia|Integridade do serviço -> Integridade agregada|Partner Center -> Integridade do serviço|
 
 >Importante<br>

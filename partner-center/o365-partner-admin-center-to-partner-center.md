@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 08/22/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Principais considerações para parceiros do Office 365 Partner Admin Center ao migrar para o Partner Center
+description: Localize recursos comuns do centro de administração do parceiro do Office 365, como compilar suas solicitações de negócios e serviços, após a migração para o Partner Center.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4780226cb66fd621e51045456daa1ac2d3ee2adf
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8f709ef9beb42225e9e11d859c21d4576500ee1a
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654240"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943319"
 ---
 # <a name="office-365-partner-admin-center-partners-get-ready-to-move-business-operations-to-partner-center"></a>Parceiros do centro de administração de parceiros do Office 365: Prepare-se para mover as operações de negócios para o Partner Center
 

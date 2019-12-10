@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 01/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Registre-se no Planning Services para fornecer planejamento de pré-implantação para clientes corporativos
+description: Registre-se no Planning Services para se qualificar para compensação da Microsoft para fornecer treinamento e outros serviços para clientes corporativos que têm o Software Assurance.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: pré-implantação, planejamento, Software Assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 36913950ae7b8b2b9cdde025bfa66f20dec374a7
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9eed58a3f7198a1ea02143a96fafe4bfd39e2848
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651627"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943419"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Serviços de planejamento do Software Assurance no Partner Center
 

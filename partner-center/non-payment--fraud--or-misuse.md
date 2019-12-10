@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Estratégias para gerenciar os riscos de transações online, incluindo falta de pagamento de bens e serviços e atividade fraudulenta ou uso indevido do cliente.
+description: É importante saber mais sobre os vários tipos de risco envolvidos em transações online e práticas recomendadas para o gerenciamento e a mitigação desses riscos.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: fraude, uso indevido, uso aceitável, política de uso aceitável, falta de pagamento, cliente não paga a conta, risco online, roubo de serviço, abuso do serviço, suspender uma assinatura,
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 604c192259fd4194a3b43d57721caa7566704b58
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: d59ad89c69e21bc2d88fc1229f80cb4f5f660dbc
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384761"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943519"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gerenciando não pagamento, fraude ou uso indevido no Partner Center
 

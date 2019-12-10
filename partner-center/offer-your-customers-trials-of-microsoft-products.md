@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Seus clientes podem testar produtos de assinatura da Microsoft durante 30 dias. Você pode se inscrever para essas avaliações no catálogo, assim como muitos outros serviços online.
+description: Seus clientes podem testar produtos de assinatura da Microsoft durante 30 dias. Inscreva-se para essas avaliações no catálogo, assim como muitos outros serviços online.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ca774233fa6d5314e57f1ab2eb2a73b6037223e5
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 3e86c45b6ac721d4fd8edffa981940d212295611
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384837"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943289"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Oferecer aos clientes avaliações de produtos da Microsoft
 

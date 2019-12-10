@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Saiba como exibir, baixar e imprimir sua fatura de associação do MPN, bem como um arquivo para isenção de imposto e enviar o número da sua ID de IVA da Microsoft.
+description: Saiba como exibir ou baixar sua fatura de associação do MPN, bem como um arquivo para isenção de imposto e enviar o número da sua ID de IVA da Microsoft.
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, fatura, mapas, isenção de imposto, IVA, ID de IVA
 ms.localizationpriority: medium
-ms.openlocfilehash: 76accd7cd2db254784b260d6fd75ce2e375d729e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: ec3813363b8ec69ee813fa7c65e6e39d00226016
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653039"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943539"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Faturas e impostos no Microsoft Partner Network
 

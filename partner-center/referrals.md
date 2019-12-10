@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 08/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Gere leads comerciais e conecte-se a clientes que precisam de ajuda para implementar produtos e soluções Microsoft.
+description: Saiba como criar um perfil de negócios para gerar vendas potenciais por meio do recurso de referências do Partner Center e, em seguida, responder a essas referências.
 author: LauraBrenner
 ms.author: labrenne
 keywords: indicações, perfil de negócios, encontrar um parceiro
 ms.localizationpriority: medium
-ms.openlocfilehash: a213c9b3a031b355f045b8fc976fac1dcc27e756
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 7e4865bd3de1151033aef5b50409261823c289a0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652154"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943249"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 

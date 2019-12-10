@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/03/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Veja os lucros e pagamentos de cada um dos programas de incentivo.
+description: Veja os lucros e pagamentos de cada um dos programas de incentivo. Isso inclui a página de pagamentos, a página de histórico de transações e o status de pagamento, bem como a exportação de dados.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 911648807a3b2905492f5f15c770aca81726ccbf
-ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
+ms.openlocfilehash: e8eccf310c9ff920fbbfcf0494da6e1fb4010c44
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "74559744"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943179"
 ---
 # <a name="view-your-incentives-payments-information"></a>Exibir suas informações de pagamentos de incentivos
 
@@ -54,21 +54,21 @@ Para exportar qualquer um dos dados de transação nessa página, selecione **Ex
 
 ## <a name="payment-status"></a>Status do pagamento
 
-|**Ganhando status** |**Falha** |**Ação do parceiro necessária?**       |
+|**Ganhando status** |**Reason** |**Ação do parceiro necessária?**       |
 |------------------|:-------------------------------------|:-------------------------------------|
 |Não processados        | A conquista está qualificada para pagamento. Ele permanece nesse estado por um período de resfriamento, conforme definido no guia do programa do programa de incentivo.       |Não        |
-|Cerimônia      |A ordem de pagamento gerou revisões internas pendentes antes de o pagamento ser processado.       |Não       |
+|Próximas      |A ordem de pagamento gerou revisões internas pendentes antes de o pagamento ser processado.       |Não       |
 |Fatura de imposto pendente      |Sua fatura de imposto está incompleta ou inválida.          |Você precisa atualizar sua fatura de imposto antes de poder ser pago         |
 |Rejeitado durante a revisão        |O pagamento foi rejeitado durante a revisão.          |Contate o suporte da Microsoft para obter detalhes         |
 |Failed (Falha)        |O pagamento falhou devido a um erro do sistema da Microsoft.         |Contate o suporte da Microsoft para obter detalhes         |
 |Em andamento     |O pagamento está em andamento.         |Não         |
 |Pagamento incorreto        |A revitóriação de pagamento está em andamento.          |Não        |
-|Enviados        |O pagamento foi enviado ao seu banco.          |Não       |
+|Enviado        |O pagamento foi enviado ao seu banco.          |Não       |
 |Reprocessamento       |O pagamento encontrou um erro de sistema da Microsoft e está sendo reprocessado.           |Não         |
 |Inversão        |O pagamento foi revertido pelo seu banco e será enviado novamente no próximo ciclo de pagamento.          |Não        |
 |Fatura de imposto rejeitada       |A fatura do imposto foi rejeitada durante a revisão. Todos os pagamentos pendentes estarão em espera até que a revisão da fatura fiscal seja concluída.          |Contate o suporte da Microsoft para obter detalhes         |
 |Fatura de imposto em revisão        |Sua fatura de imposto está sendo revisada. Seu pagamento será liberado depois que a nota fiscal do imposto tiver sido aprovada.           |Não        |
-|Recusa        |O pagamento foi rejeitado pelo seu banco.           |Entre em contato com seu banco para obter detalhes.  |
+|Rejeitada        |O pagamento foi rejeitado pelo seu banco.           |Entre em contato com seu banco para obter detalhes.  |
 
 ## <a name="export-data-page"></a>Exportar página de dados
 Siga as instruções nesta página para exportar os dados desejados. 
@@ -83,7 +83,7 @@ Essa opção fornece um download dos pagamentos recebidos em seu banco para um d
 
 |**Nome da coluna**   |**Descrição**   |
 |------------------|:-------------------------------------|
-|participante da   |A principal identidade do parceiro ganhando sob o programa      |
+|participantID   |A principal identidade do parceiro ganhando sob o programa      |
 |participantIDType   |Geralmente MPN para programas de incentivo e ID do vendedor para programas da loja      |
 |participantename   |Nome do parceiro de conquista      |
 |programName   |Nome do programa de incentivo/loja      |
@@ -106,7 +106,7 @@ Essa opção fornece um download de cada item de linha de produção que você v
 |**Nome da coluna**   |**Descrição**   |
 |------------------|:-------------------------------------|
 |ganhandoid   |Identificador exclusivo para cada conquista   |
-|participante da   |A principal identidade do parceiro ganhando sob o programa   |
+|participantID   |A principal identidade do parceiro ganhando sob o programa   |
 |participantIDType   |Geralmente MPN para programas de incentivo e ID do vendedor para programas da loja   |
 |participantename   |Nome do parceiro de conquista   |
 |partnerCountryCode   |Localização/país do parceiro de conquista   |
@@ -130,7 +130,7 @@ Essa opção fornece um download de cada item de linha de produção que você v
 |paymentStatus   |Status do pagamento   |
 |paymentStatusDescription   |Descrição amigável do status de pagamento   |
 |customerId   |Identificador do cliente   |
-|Customer   |Nome do cliente da transação   |
+|customerName   |Nome do cliente da transação   |
 
 
 Além da tabela acima, esses campos de histórico de transações estarão disponíveis conforme aplicável para o programa.
@@ -151,6 +151,6 @@ Além da tabela acima, esses campos de histórico de transações estarão dispo
 |agreementNumber   |Número do contrato   |
 |agreementStartDate   |Data de início do contrato   |
 |agreementEndDate   |Data de término do contrato   |
-|pico   |Carga de trabalho   |
+|carga de trabalho   |Carga de trabalho   |
   
 

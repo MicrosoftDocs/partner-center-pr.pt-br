@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/31/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Como membro Microsoft Partner Network, você pode estar qualificado para determinados benefícios de entrada no mercado. Saiba mais sobre os diferentes níveis de benefícios disponíveis para o mercado e como ativá-los e gerenciá-los no Partner Center.
+description: Os benefícios para o mercado oferecem acesso a recursos de marketing e vendas exclusivos que podem ajudá-lo a acelerar seu tempo de colocação no mercado, gerar clientes potenciais e expandir seus negócios.
 author: MicheleHope
 ms.author: v-mihope
 keywords: MPN, benefícios de associação, associação, benefícios para o mercado, lançamento no mercado, ir para mercado, GTM, associação Gold, associação Silver
 ms.localizationpriority: medium
-ms.openlocfilehash: e1a71bc69982e4ff86b8442fc1dd3ec20fc486ea
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 359c86cbd2929ced4203b09b988ec1fbf7b2ea44
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653253"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943329"
 ---
 # <a name="explore-your-mpn-go-to-market-gtm-membership-benefits"></a>Explore seus benefícios de associação do GTM (MPN go-to-Market)
 
@@ -67,9 +67,9 @@ Para exibir seus benefícios do GTM:
 
 1. Entre no [painel]( https://docs.microsoft.com/partner-center/)do Partner Center.
 
-2. No menu à esquerda, selecione **MPN**. Em seguida, siga um destes procedimentos:
+2. No menu à esquerda, selecione **MPN**. Em seguida, realize um dos seguintes procedimentos:
 
-    - Selecione **visão geral**. Role até a seção **links rápidos** e selecione a guia **ir para o mercado** .
+    - Selecione **Visão geral**. Role até a seção **links rápidos** e selecione a guia **ir para o mercado** .
 
       ou
 
@@ -82,7 +82,7 @@ Você verá uma lista de benefícios para o mercado que já estão ativos ou que
 Para obter etapas específicas para ativar ou gerenciar seus benefícios de associação do GTM, consulte [como gerenciar seus benefícios de lançamento no mercado](manage-your-partner-network-benefits.md#manage-go-to-market-benefits). Parte desse processo exige que você atribua uma pessoa de marketing como o contato para emails de acompanhamento e comunicações sobre os benefícios do GTM que você ativa.
 
 >[!IMPORTANT]
->Você precisa ser administrador global ou administrador do parceiro MPN para ativar os benefícios específicos do GTM e atribuir um contato de marketing relacionado. Se necessário, você pode se tornar um administrador global seguindo as instruções em sua [página de **benefícios** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (entrada necessária). Sua empresa pode já ter um administrador global, portanto, certifique-se de verificar com sua equipe.
+>Você precisa ser administrador global ou administrador do parceiro MPN para ativar os benefícios específicos do GTM e atribuir um contato de marketing relacionado. Se necessário, você poderá se tornar um administrador global seguindo as instruções da [página **Benefícios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (entrada necessária). Talvez sua empresa já tenha um administrador global; portanto, verifique isso com a sua equipe.
 
 #### <a name="see-also"></a>Consulte também
 

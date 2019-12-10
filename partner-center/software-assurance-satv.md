@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/11/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Registre-se no programa de treinamento do Software Assurance
+description: Detalhes do registro no programa de treinamento do Software Assurance para que você possa se compensar no fornecimento de treinamento e planejamento aos clientes corporativos.
 author: LauraBrenner
 ms.author: labrenne
 keywords: comprovantes de treinamento, software assurance, treinamento, inscrição no SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d6339a63d4fbd7f1d742820ca90bb66d4d67c1a
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: dac3c2c82ad02be3f65358573808d9f2e5d1cf52
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384798"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943409"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programa SATV (Software Assurance Training Voucher) no Partner Center
 
@@ -74,7 +74,7 @@ Os pagamentos são tratados por meio da ferramenta de pagamento online SAVB (Ben
 
 Para obter informações adicionais, leia as [perguntas frequentes](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) e examine [as políticas do programa SATV](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP).
 
-Confira também:
+Consulte também:
 
 - [Fluxo de trabalho de treinamento do Software Assurance (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)
 - [Perguntas frequentes sobre os comprovantes de treinamento do Software Assurance (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)

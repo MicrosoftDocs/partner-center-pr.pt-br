@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/14/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Entenda as diferenças e semelhanças entre o PMC e o Partner Center
+description: Entenda as diferenças e semelhanças entre o PMC e o Partner Center em relação a renovações, estrutura de conta, entrada, funções de usuário, competências e muito mais.
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migração, mover para o Partner Center
 ms.localizationpriority: medium
-ms.openlocfilehash: 9a6beaa331d762f47530441a91dc203ed01c78e2
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 77754e9fac432e7ec7e75fd0acbb4b6d8fbe1088
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653272"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943479"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Migração do PMC para o Partner Center
 

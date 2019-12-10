@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Validar e reservar comprovantes no Partner Center
+description: Perguntas frequentes sobre a ferramenta de resgate e a validação de comprovante, incluindo informações sobre migração, solicitação e controle de acesso e muito mais.
 author: LauraBrenner
 ms.author: labrenne
 keywords: comprovantes de treinamento, Software Assurance, treinamento, validar comprovantes, comprovante de reserva
 ms.localizationpriority: medium
-ms.openlocfilehash: 02da186de1918625068b08d82fee17892074159e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 570d7e605f05c0e2bb0700dd4e211cd1f074725f
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651061"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943169"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Perguntas frequentes: Como usar a ferramenta de resgate e validação de comprovantes 
 

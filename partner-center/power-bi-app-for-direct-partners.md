@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenha uma representação visual de seus dados corporativos com o aplicativo de análise do Partner Center para Power BI.
+description: Uma visão geral e perguntas frequentes sobre o aplicativo de análise do Partner Center para Power BI.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a0e5bc4ab47997123cace045bf577f2fa825174c
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 67df5278d9c9f9f757e904d55ae6a688bbb8c5bc
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654154"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943469"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Aplicativo Análise do Partner Center para Power BI (parceiros diretos no CSP)
 
@@ -44,7 +44,7 @@ Instale o aplicativo para obter exibições gráficas de:
 
 Recomendamos que você analise nossas respostas para perguntas frequentes antes de instalar o aplicativo. 
 
-| **Pergunta** | **Atenda** |
+| **Pergunta.** | **Resposta** |
 | --- | ---------- |
 | Quanto este aplicativo custa? | O app é gratuito. Para visualizar o aplicativo, você pode [inscreva-se para o serviço gratuito do Power BI](https://go.microsoft.com/fwlink/p/?linkid=845347) e usá-lo para personalizar painéis e relatórios. Para permitir que outras pessoas em sua empresa usem o aplicativo, você precisa ter uma assinatura ativa do Microsoft Power BI Professional ou Microsoft Power BI Premium. |
 | Quem pode se conectar ao aplicativo análises do Partner Center? | Esta versão do aplicativo foi projetada para parceiros diretos (nível 1) no programa provedor de soluções na nuvem. Você é um parceiro direto se você fizer negócios diretamente com a Microsoft e com os clientes. Para instalar o aplicativo, você deve ser um administrador global, um agente de administração ou um administrador de cobrança para a conta da sua empresa. |

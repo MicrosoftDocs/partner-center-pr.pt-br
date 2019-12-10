@@ -2,19 +2,19 @@
 title: Solicitar um crédito de SLA da Microsoft | Centro de parceiros
 ms.topic: article
 ms.date: 11/21/2019
-description: Solicite um crédito de SLA da Microsoft se eles sofrerem uma interrupção do serviço.
+description: Conheça os benefícios, as restrições e os procedimentos para solicitar um crédito de SLA da Microsoft se seus clientes sofrerem uma interrupção de serviço.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: a3eb79b78b3edb052d85cc7461d9fd50a115eb43
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: bcc094b877d0128c73041044ce6304123d895fdb
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384901"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943139"
 ---
 # <a name="request-an-sla-credit-from-microsoft"></a>Solicitar um crédito de SLA da Microsoft 
 
@@ -44,14 +44,14 @@ Você pode encontrar o identificador para o incidente de interrupção na págin
 
 | Abreviação de duas letras | Serviço da Microsoft |
 | ----------------------- | ----------------- |
-| ESTENDI | Exchange Online |
+| EX | Exchange Online |
 | FO | Proteção do Exchange Online |
 | SB | Skype for Business online (anteriormente Lync Online) |
-| OS | Assinatura do Office |
+| SO | Assinatura do Office |
 | PB | Power BI para Office 365 |
-| SP3 | SharePoint Online |
+| SP | SharePoint Online |
 | YA | Yammer Enterprise |
-| OPERADOR | Erro do portal |
+| MO | Erro do portal |
 
 ### <a name="submit-sla-credit-request"></a>Enviar solicitação de crédito de SLA
 

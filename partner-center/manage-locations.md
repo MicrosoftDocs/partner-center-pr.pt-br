@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Gerenciar os locais da sua empresa no Partner Center
+description: Saiba como a ID do MPN é usada em programas de incentivo, negócios do CSP, assinaturas e outras transações.
 author: LauraBrenner
 ms.author: labrenne
 keywords: conta de parceiro, locais
 ms.localizationpriority: medium
-ms.openlocfilehash: 00af2b65bebfec336609f90946806c2b74827325
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: fe4e2cca922b479bfdec92feb5b21d8824546e23
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653357"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943499"
 ---
 # <a name="manage-your-partner-account-locations"></a>Gerenciar sua conta de parceiro: locais
 

@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 11/03/2018
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Consulte os países e regiões nos quais você pode vender ofertas de CSP, com base no local da sua empresa.
+description: Consulte os países, regiões e moedas nos quais você pode vender ofertas de CSP, com base no local da sua empresa.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Mercados do CSP, territórios, onde posso vender por meio do CSP, ofertas do CSP, regiões, vender soluções de nuvem, CSP global
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0da3385adac588dbf4c1c7551454673086c85dba
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: da8eeaef62874fb1fc8d8df5eecd2bab20e5ece5
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652065"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943239"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Mercados regionais e moedas do programa provedor de soluções na nuvem
 
@@ -107,7 +107,7 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 |  Hong Kong         |   USD    |
 |  Indonésia         |   USD    |
 |  Laos              |          |
-|  Rae             |   USD    |
+|  Macau             |   USD    |
 |  Malásia          |   USD    |
 |  Maldivas          |          |
 |  Myanmar           |          |
@@ -219,7 +219,7 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 |  Svalbard e Jan Mayen|NOK|
 |  Suécia         |   SEK    |
 |  Suíça    |   CHF    |
-|  BRITÂNICO             |   GBP    |
+|  Reino Unido             |   GBP    |
 |  Cidade do Vaticano   |          |
 |
 
@@ -347,7 +347,7 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 |  Moçambique     |          |
 |  Omã           |   USD    |
 |  Paquistão       |   USD    |
-|  Território Palestina, ocupado |        |
+|  Território Palestino, Ocupado |        |
 |  Catar          |   USD    |
 |  Arábia Saudita   |   USD    |
 |  Sérvia         |   USD    |

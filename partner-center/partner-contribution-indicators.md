@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 11/14/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dados que mostram como a empresa está se saindo com o Dynamics 365 Customer Engagement ou o Dynamics 365 for Finance and Operations
+description: Veja exatamente o que você está fazendo e onde você pode melhorar com relação ao envolvimento do cliente do Dynamics 365 ou às operações e finanças do Dynamics 365
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, desempenho, sucesso do cliente, medições, Dynamics 365
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7d478f8a90eee2bcfc15ef31407dee12de1eaa29
-ms.sourcegitcommit: 10d40d50a623ac6bce3496157695a7aca147d74a
+ms.openlocfilehash: 87ee210307f5e3f28ae5ac9c7a73b5319536043c
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74391649"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943119"
 ---
 # <a name="partner-contribution-indicators"></a>Indicadores de contribuição de parceiros
 
@@ -65,7 +65,7 @@ Os parceiros podem obter o máximo de pontos para uma determinada métrica se at
 
 ![Consultor funcional](images/pci/functional_consultants.png)
 
-![crescimento](images/pci/functional_consultant_growth.png)
+![growth](images/pci/functional_consultant_growth.png)
 
 ![Desenvolvedores](images/pci/developers.png)
 

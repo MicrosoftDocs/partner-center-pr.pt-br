@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Quando você atualiza sua associação ao Microsoft Partner Network, você está qualificado para benefícios exclusivos de associação. Saiba como encontrar e comprar ofertas disponíveis.
+description: Qualifique-se para benefícios exclusivos ao atualizar sua associação do MPN para uma associação de assinatura do Microsoft Action Pack ou competências da Microsoft.
 author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f48dcd8b5ac4a83d6f9b99c71f0d243ad78ad274
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e608646d1c6f76b5081d38648a4afa95660e2bf0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651171"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943399"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Atualizar sua associação ao Microsoft Partner Network
 
@@ -82,7 +82,7 @@ Sua assinatura do Action Pack será renovada automaticamente todos os anos nesta
 3. Selecione **Desativar a renovação automática** se não quiser que sua assinatura do Action Pack seja renovada automaticamente a cada ano. 
 
 > [!NOTE]  
-> Se você desativar a renovação automática da assinatura, não poderá ativá-la novamente até renovar a assinatura. Lembraremos você de renovar antes que sua assinatura expire.
+> Se você desativar a renovação automática da assinatura, não poderá ativá-la novamente até que você renove a assinatura. Enviaremos um lembrete para que você renove sua assinatura antes que ela expire.
 
 
 ### <a name="renew-your-action-pack-subscription"></a>Renovar sua assinatura do Action Pack

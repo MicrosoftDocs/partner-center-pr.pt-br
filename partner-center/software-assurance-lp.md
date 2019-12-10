@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 01/14/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Inscrever-se e gerenciar programas do Software Assurance no Partner Center
+description: Registre-se em um programa de Software Assurance para criar negócios e seja recompensado por fornecer treinamento e planejamento para clientes corporativos.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: da7b7592949719f271bdbb2fe29afabf9d10c090
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: ff23573f4cc85964a81e544ead8fa876495bbd10
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654053"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943079"
 ---
 # <a name="participate-in-software-assurance-programs"></a>Participar de programas de Software Assurance
 

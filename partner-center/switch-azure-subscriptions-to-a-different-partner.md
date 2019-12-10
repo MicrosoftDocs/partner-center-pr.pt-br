@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Um cliente pode mudar o parceiro do programa Provedor de Soluções na Nuvem que usa para os serviços do Microsoft Azure. No entanto, esse é um processo manual que exige ações do parceiro e do cliente.
+description: Saiba como trabalhar com um cliente para alterar qual parceiro no programa de provedor de soluções na nuvem que o cliente usará para os serviços do Azure.
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: assinatura do Azure, mudar de parceiro, alterar parceiro, obter novo parceiro, outro parceiro
 ms.localizationpriority: medium
-ms.openlocfilehash: a0dd17c56e04368be430808ab5191a6c5adca8cf
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0d7c3e85b96e52aa2fa3e09261aee81f364996d3
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651540"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943389"
 ---
 # <a name="transfer-azure-subscriptions"></a>Transferir as assinaturas do Azure 
 

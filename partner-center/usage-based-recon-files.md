@@ -2,17 +2,17 @@
 title: Arquivos de reconciliação com base no uso | Centro de parceiros
 ms.topic: article
 ms.date: 11/21/2019
-description: Entender os arquivos de reconciliação com base no uso no Partner Center.
+description: Todos os itens em seu arquivo de reconciliação baseado em uso explicado, com exemplos.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3cf0f20ed266fa5302264ef07092d47c050a9206
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: b73962b1e9d2925b0e61632a18522a1c22e4d346
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389774"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943379"
 ---
 # <a name="usage-based-file-fields"></a>Campos de arquivo baseado em uso
 
@@ -36,8 +36,8 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 | ID do MPN | Identificador de MPN do parceiro CSP. | *4390934* |
 | ResellerMPNID | Identificador MPN do revendedor do registro para a assinatura. Para obter mais informações, consulte [como discriminar por parceiro](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
 | InvoiceNumber | Número da fatura na qual a transação especificada é exibida. | *D020001IVK* |
-| ChargeStartDate | Data de início do ciclo de cobrança, exceto ao apresentar datas de dados de uso latentes anteriormente não cobrados (do ciclo de cobrança anterior). A hora é sempre o início do dia, 0:00. | *2/1/2019 0:00* |
-| ChargeEndDate | Data de término do ciclo de cobrança, exceto ao apresentar datas de dados de uso latentes anteriormente não cobrados (do ciclo de cobrança anterior). A hora é sempre o fim do dia, 23:59. | *2/28/2019 23:59* |
+| ChargeStartDate | Data de início do ciclo de faturamento, exceto ao apresentar datas de dados de uso latente anteriormente não cobertos (do ciclo de faturamento anterior). A hora é sempre o início do dia, 0:00. | *2/1/2019 0:00* |
+| ChargeEndDate | Data final do ciclo de faturamento, exceto ao apresentar datas de dados de uso latente anteriormente não cobertos (do ciclo de faturamento anterior). A hora é sempre o fim do dia, 23:59. | *2/28/2019 23:59* |
 | SubscriptionID | Identificador exclusivo de uma assinatura na plataforma de cobrança da Microsoft. Pode ser útil identificar a assinatura ao entrar em contato com o suporte. Não usado para reconciliação. *Isso não é o mesmo que a **ID da assinatura** no console do administrador do parceiro.* | *usCBMgAAAAAAAAIA* |
 | SubscriptionName | Apelido para a oferta de serviço. | *Microsoft Azure* |
 | SubscriptionDescription | Linha de negócios da oferta de serviço. | *Microsoft Azure* |
@@ -46,7 +46,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 | ServiceType | O tipo específico de serviço do Azure. | *Barramento de serviço – individual ou pacote*, *banco de dados SQL Azure – Business ou Web Edition* |
 | ResourceGUID | Identificador exclusivo específico de toda a estrutura de serviço de dados e preço. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | ResourceName | O nome do recurso do Azure. | *Transferência de dados em (GB)* , *transferência de dados de saída (GB)* |
-| Região | A região à qual o uso se aplica. Usado principalmente para atribuir taxas às transferências de dados, pois as tarifas variam por região. | *Pacífico Asiático*, *Europa*, *América Latina*, *América do Norte* |
+| Region | A região à qual o uso se aplica. Usado principalmente para atribuir taxas às transferências de dados, pois as tarifas variam por região. | *Pacífico Asiático*, *Europa*, *América Latina*, *América do Norte* |
 | SKU | Identificador exclusivo da Microsoft para uma oferta. | *7UD-00001* |
 | DetailLineItemId | Um identificador e uma quantidade para discriminar taxas diferentes para um serviço ou recurso em um determinado período de cobrança. Para preços em camadas do Azure, pode haver uma taxa de até uma determinada quantidade de unidades faturáveis e, em seguida, uma taxa diferente após essa quantidade. | *1* |
 | ConsumedQuantity | A quantidade de serviço consumida (como horas ou GB) durante o período de relatório. Também inclui qualquer uso não cobrado de períodos de relatório anteriores. | *11* |
@@ -64,7 +64,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 | UsageDate | Data da implantação do serviço. | *2/1/2019 0:00* |
 | MeteredRegion | Identifica o local de um data center dentro da região (para serviços em que esse valor é aplicável e preenchido). | *Ásia Oriental*, *sul Ásia Oriental*, *Europa Setentrional*, *Europa Ocidental*, *norte EUA Central*, *Sul EUA Central* |
 | MeteredService | Identifica o uso individual do serviço do Azure quando ele não está especificamente identificado na coluna **ServiceName** . Por exemplo, as transferências de dados são relatadas como *Microsoft Azure-todos os serviços* na coluna **ServiceName** . | *AccessControl*, *CDN*, *computação*, *banco de dados*, *ServiceBus*, *armazenamento* |
-| MeteredServiceType | Subtítulo para o campo **MeteredService** que fornece esclarecimentos adicionais sobre o uso do serviço do Azure. | *TERCEIROS* |
+| MeteredServiceType | Subtítulo para o campo **MeteredService** que fornece esclarecimentos adicionais sobre o uso do serviço do Azure. | *EXTERNAL* |
 | Projeto | Nome definido pelo cliente para sua instância de serviço. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | ServiceInfo | O número de conexões do barramento de serviço do Azure que foram provisionadas e utilizadas em um determinado dia. | *1, 0 conexões/30 dias* (se você tiver uma conexão provisionada individualmente durante um mês de 30 dias), *25 conexões/30 dias – usado: 1, 0* (se você tiver um pacote de 25 pacotes de conexões de barramento de serviço provisionado e utilizado 1 durante esse dia) |
 | CustomerID | Identificador exclusivo da Microsoft para o cliente, no formato GUID. | *ORDDC52E52FDEF405786F0642DD0108BE4* |

@@ -2,7 +2,7 @@
 title: Impostos e isenções fiscais | Centro de parceiros
 ms.topic: article
 ms.date: 11/21/2019
-description: Entenda as responsabilidades do imposto e envie isenções fiscais para suas vendas do CSP.
+description: Saiba mais sobre as responsabilidades de impostos para sua região geográfica específica e como enviar isenções de impostos para suas vendas do CSP.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 keywords: imposto, isenção de impostos, IVA, revendedor, cobrança
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 91f6c7265dec3a72a24130221cedef8de6d4ce31
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: b0fdf5bd78a6ce8ac98a18b85551bd7d57ffdabd
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384877"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943189"
 ---
 # <a name="taxes-and-tax-exemptions"></a>Impostos e isenções fiscais
 
@@ -87,7 +87,7 @@ Em seguida, crie um tíquete de suporte para a Microsoft com suas informações 
 2. Na página **solicitação do parceiro** , escolha **nova solicitação**. (Você também pode exibir suas solicitações de suporte abertas e fechadas posteriormente nesta página.)
 3. Na etapa **básico** , em **CSP-cobrança e pagamentos**, escolha **selecionar um tipo de problema** e selecione **solicitação de isenção de imposto**.
 4. Na etapa **soluções** , em **você precisa de mais ajuda?** , escolha **Sim**.
-5. Na etapa **detalhes** , preencha o formulário **detalhes do problema** . Certifique-se de:
+5. Na etapa **detalhes** , preencha o formulário **detalhes do problema** . Não se esqueça de:
 
     - Preencha todos os campos obrigatórios.
     - Inclua sua ID da **Microsoft** e a **ID do MPN** no campo de **detalhes** .

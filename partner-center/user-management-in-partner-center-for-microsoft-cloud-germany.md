@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Não há recursos de gerenciamento de usuários disponíveis no Partner Center do Microsoft Cloud Alemanha para atender aos requisitos nacionais, regionais e específicos do setor que regem a coleta e o uso de dados das pessoas. Em vez disso, adicione e gerencie usuários no portal do Azure do Microsoft Cloud Alemanha.
+description: Saiba como e onde gerenciar o Partner Center para Microsoft Cloud parceiros, clientes e licenças da Alemanha, bem como redefinições de senha.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 91d95f51d89b5fb00bc340004758ce7f87450d3f
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 39d1d6ff405ca4b19fc59edddc1bd5e5dbb4fef2
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651135"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943369"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gerenciamento de usuário e licença no Partner Center for Microsoft Cloud Germany
 
@@ -46,7 +46,7 @@ Depois de entrar com êxito no portal do Azure do Microsoft Cloud Alemanha, abra
 
 -  [Adicionar novos usuários ao Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [Atribuir um usuário a funções de administrador no Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [Atribuir um usuário às funções de administrador no Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
 -  [Redefinir a senha de um usuário no Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 

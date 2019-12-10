@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 08/16/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Se o cliente está tendo um problema de serviço que você não consegue resolver e que atende aos critérios descritos em Encaminhar problemas para a Microsoft, abra um tíquete de suporte para ele.
+Description: Se o seu cliente estiver enfrentando um problema de serviço que você não pode resolver, e que atenda aos critérios descritos em escalar problemas para a Microsoft, forneça um tíquete de suporte para eles.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: solicitação de serviço, tíquete de serviço, suporte, direito de suporte, Aobo, AOBO do Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: f0dc490ab72c87ccb1b6aa22aa84a66529820408
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 28f5be859d8c949eb0135f3096c320cc160b835a
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654121"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943209"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Relatar problemas em nome de um cliente
 
