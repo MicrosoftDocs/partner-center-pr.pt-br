@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/09/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba mais sobre os requisitos de segurança para consultores e parceiros que participam do programa de Provedor de Soluções na Nuvem.
+description: Uma introdução à habilitação da MFA (Autenticação Multifator) e à adoção da estrutura de Modelo de Aplicativo Seguro, que agora são obrigatórias para parceiros.
 author: isaiahwilliams
 ms.author: iswillia
 keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor do painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
 ms.localizationpriority: high
-ms.openlocfilehash: b481bd3e8729c63425c45e1f9767722130dc0833
-ms.sourcegitcommit: bf10a7123490ab08c6c3a58cec7045c5d38d16cc
+ms.openlocfilehash: c117bd828f5f74a56490e52c1123ac3a973ccae6
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "73964214"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943299"
 ---
 # <a name="partner-security-requirements"></a>Requisitos de segurança de parceiros
 

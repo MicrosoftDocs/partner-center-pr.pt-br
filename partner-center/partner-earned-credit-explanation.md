@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 10/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informações importantes sobre o crédito ganho pelo parceiro
+description: Saiba como os créditos ganhos pelo parceiro da Microsoft para serviços gerenciados são calculados e pagos e como verificar se você é qualificado.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: c21c8b249f184827083fd95279925a048c35a97a
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: f22aebcfe9269b15a5916564a5cd1f4707302331
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652574"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943069"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Como o crédito ganho pelo parceiro é calculado e pago
 

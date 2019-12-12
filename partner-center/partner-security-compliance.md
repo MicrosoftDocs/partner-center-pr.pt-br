@@ -3,17 +3,17 @@ title: Status dos requisitos de segurança do parceiro | Partner Center
 ms.date: 10/11/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Mantenha-se atualizado com a conformidade da sua empresa com os requisitos de MFA.
+description: Conheça os requisitos obrigatórios que aumentam a segurança para Consultores, Fornecedores do Painel de Controle e parceiros no programa de Provedor de Soluções na Nuvem.
 author: LauraBrenner
 ms.author: labrenne
 keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor do painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
 ms.localizationpriority: high
-ms.openlocfilehash: f3736f73f983fce74620df2f7a8ad1d6cce19984
-ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
+ms.openlocfilehash: 7e8226009e9f214e420475dbd350f2bcb3984414
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/21/2019
-ms.locfileid: "74295253"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943109"
 ---
 # <a name="partner-security-requirements-status"></a>Status dos requisitos de segurança do parceiro
 

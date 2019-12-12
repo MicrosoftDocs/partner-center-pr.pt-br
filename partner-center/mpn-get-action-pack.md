@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Saiba como obter o Microsoft Action Pack, quer esteja comprando pela primeira vez ou renovando.
+description: Saiba como comprar uma assinatura do Microsoft Action Pack e começar a usar os benefícios dele. Além disso, saiba como renovar, cancelar, exibir sua fatura e muito mais.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, MAPS, renovar MAPS, renovar action pack, obter action pack
 ms.localizationpriority: high
-ms.openlocfilehash: ef1ad6e37fd15274ce6e2272dcd8e563738f263a
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: fb5515ad0f27ba627d4a4a834be36b4d8f627e10
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654294"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943339"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Comprar pela primeira vez ou renovar uma assinatura do Microsoft Action Pack ou as competências silver ou gold
 

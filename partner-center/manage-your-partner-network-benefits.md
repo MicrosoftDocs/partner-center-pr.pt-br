@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/29/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Como membro do Microsoft Partner Network, você está qualificado para comprar certos benefícios de associação. Explica como ativar e gerenciar seus benefícios de associação no Partner Center.
+description: Participe do MPN (Microsoft Partner Network) e gerencie os benefícios da associação que ajudarão a desenvolver e a expandir seus negócios.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, benefícios da associação, associação
 ms.localizationpriority: high
-ms.openlocfilehash: 7d43410e78ef3e7ac47c321171e6f6adabf2a66f
-ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
+ms.openlocfilehash: ba501542675c5686177a22b938a425ea24c5d56e
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "74681943"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943589"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gerenciar seus benefícios de associação ao Microsoft Partner Network
 
