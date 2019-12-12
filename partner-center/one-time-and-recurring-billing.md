@@ -7,17 +7,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cobrança, de uso único, recorrente, compras, encargos, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: f2ccd0d1240d39409db53d668bac32001c678b09
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 1bed32e8068f1f9276c385f790f31222ec6b269d
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389684"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005035"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>Cobrança única e seleção de encargos recorrentes
 
+**Aplica-se a**
 - Partner Center
 - Parceiros no programa CSP
+
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
+-   Administrador de cobrança
+-   Agente administrativo
+-   Agente de vendas
 
 Este tópico descreve a experiência de cobrança para **uma única vez e seleciona encargos recorrentes** para produtos Microsoft e ISV (fornecedor de software independente) de terceiros. 
 

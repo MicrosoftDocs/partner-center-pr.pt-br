@@ -8,14 +8,18 @@ description: Acompanhe os aprendizes em sua empresa aproveitando os dados em tre
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e97e6b5212b2b55e56e1022e2a5a12bdb0f2f74
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 43d5e0770861aa23d9fe993df012e7a183894528
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943529"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005096"
 ---
 # <a name="microsoft-learn-analytics-report"></a>Relatório de análise de Microsoft Learn
+
+**Funções apropriadas**
+-   Administração global
+-   Administrador de parceiros do MPN
 
 O relatório de Microsoft Learn fornece informações sobre os aprendizes em sua empresa, incluindo os módulos que eles concluíram e os caminhos de aprendizado em que estão. O relatório exibe o status de cada aprendiz individual. O administrador global e o administrador do MPN para sua empresa podem exibir os dados.
 

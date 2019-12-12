@@ -8,12 +8,12 @@ description: Localize recursos comuns do centro de administração do parceiro d
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f709ef9beb42225e9e11d859c21d4576500ee1a
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 63b12682cbde7123224ddeae6fb8b5470858c4ad
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943319"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005065"
 ---
 # <a name="office-365-partner-admin-center-partners-get-ready-to-move-business-operations-to-partner-center"></a>Parceiros do centro de administração de parceiros do Office 365: Prepare-se para mover as operações de negócios para o Partner Center
 
@@ -21,6 +21,12 @@ ms.locfileid: "74943319"
 
 - Partner Center
 - Office 365 Partner Admin Center
+
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
+-   Agente administrativo
+-   Agente de vendas
 
 Estamos trazendo os recursos do centro de administração de parceiros do Office 365 para o Partner Center para ajudá-lo a gerenciar seus clientes durante todo o ciclo de vida dos negócios. Além dos recursos para os quais você está acostumado, agora você poderá: 
 

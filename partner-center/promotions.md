@@ -8,16 +8,22 @@ description: Como um parceiro da Microsoft no programa provedor de soluções na
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c63283038a4bc8eb7738567f6316df37911d3361
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: dd69d76c2158b454190c5cfac568f7260472c9dc
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652143"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004835"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Use promoções para atrair novos clientes  
 
 **Aplica-se a: Partner Center**
+
+**Funções apropriadas**
+-   Agente administrativo
+-   Administrador de parceiros do MPN
+-   Administrador de cobrança
+-   Agente de vendas
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 

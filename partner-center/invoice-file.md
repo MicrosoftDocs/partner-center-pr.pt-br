@@ -8,14 +8,20 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cobrança, fatura
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b3219b5752de59b9dde81343b8bd4e1128037bd
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 05a5f7df1b0abf34680fbc836a99738434758f92
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389834"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004556"
 ---
 # <a name="invoice-files"></a>Arquivos de fatura
+
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
+-   Administrador de cobrança
+-   Agente de suporte técnico
 
 Você pode usar as tabelas a seguir para entender os campos em arquivos de notas fiscais do Partner Center.
 
@@ -27,7 +33,7 @@ Os campos a seguir aparecem nos arquivos da fatura.
 | ----- | ---------- |
 | EUA FEIN | Seu número de identificação do empregador Federal (FEIN). Este é o seu número de identificador de imposto federal Estados Unidos. |
 | Número do cliente | Seu número do cliente. |
-| Cobrar de | O endereço onde podemos enviar sua fatura. Você pode alterar o nome e/ou o endereço da sua empresa no perfil de cobrança do Partner Center. |
+| Cobrar de | O endereço para onde enviamos sua fatura. Você pode alterar o nome e/ou o endereço da sua empresa no perfil de cobrança do Partner Center. |
 | Cobranças baseada em licença | As tarifas fixas mensais ou anuais para suas licenças baseadas em uso adquiridas, cobradas antes do serviço. Esse número é a soma de todos os encargos na coluna de **Subtotal** (coluna **T**) em seu arquivo de reconciliação baseado em licença. |
 | Encargos baseados em uso | Seu uso do Azure. Isso inclui novos serviços ou aplicativos habilitados e usados durante o período de cobrança. Esse número é a soma de todos os encargos na coluna **PretaxCharges** (coluna **Z**) em seu arquivo de reconciliação baseado em uso. |
 | Descontos | O desconto que o cliente recebe do preço normal da assinatura. Esse número é mostrado como um *valor fixo*, não como um preço por unidade ou licença. |
@@ -52,7 +58,7 @@ Os campos a seguir se aplicam somente a **encargos únicos** no Partner Center:
 
 | Campo | Definição |
 | ----- | ---------- |
-| Date | Data da compra. |
+| Data | Data da compra. |
 | Descrição | Nome do produto. |
 | Quantity | O número de produtos (como reservas) adquiridos. |
 | Preço unitário | Preço por produto (como uma reserva). |

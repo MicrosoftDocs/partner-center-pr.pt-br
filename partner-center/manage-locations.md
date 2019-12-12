@@ -9,14 +9,21 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: conta de parceiro, locais
 ms.localizationpriority: medium
-ms.openlocfilehash: fe4e2cca922b479bfdec92feb5b21d8824546e23
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 28c5134251eef06194b8c5ee34fcf440c2224839
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943499"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004695"
 ---
 # <a name="manage-your-partner-account-locations"></a>Gerenciar sua conta de parceiro: locais
+
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
+-   Administrador de cobrança
+-   Agente administrativo
+-   Agente de vendas
 
 As IDs de MPN de local identificam cada local específico de sua empresa. Você usa a ID MPN do local para registrar em programas de incentivo, para a empresa do CSP (provedor de soluções na nuvem), para adicionar novas assinaturas e outras transações de negócios. A ID de MPN da empresa é usada para atividades não transacionais, como solicitações de suporte.
 

@@ -9,14 +9,20 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b62a685dcbce5a462b182ad3015e19ae03bb6ce2
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 57466396cd9c810ab851b01fc08c2f66d4d2b278
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384770"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004845"
 ---
 # <a name="marketplace-exclusive-offers"></a>Ofertas exclusivas do Marketplace
+
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
+-   Agente administrativo
+-   Agente de vendas
 
 Os ISVs têm a opção de disponibilizar suas ofertas para um número selecionado de parceiros CSP. Todos os parceiros CSP ainda poderão exibir todas as ofertas de ISV no Marketplace do Partner Center, mas as ofertas marcadas exclusivas só poderão ser adquiridas pelos parceiros que o ISV tiver selecionado. Se uma oferta não for indicada como "exclusiva", todos os parceiros poderão comprá-la.
 

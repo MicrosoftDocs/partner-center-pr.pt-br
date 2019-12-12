@@ -9,18 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3e86c45b6ac721d4fd8edffa981940d212295611
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 2c2476c87a319b386df6d5031c776efaecec3bda
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943289"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005045"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Oferecer aos clientes avaliações de produtos da Microsoft
 
-Aplica-se a:
+**Aplica-se a**
 
 - Partner Center
+
+**Funções apropriadas**
+-   Administração global 
+-   Administrador de usuários
+-   Agente de vendas
 
 Uma boa maneira de apresentar novos produtos da Microsoft aos clientes é oferecendo avaliações gratuitas de 30 dias. Você pode se inscrever para as avaliações no catálogo da mesma forma que se inscreve em muitos outros serviços online. Todos os parceiros podem participar.
 

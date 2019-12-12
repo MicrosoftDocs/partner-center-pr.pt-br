@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor do painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
 ms.localizationpriority: medium
-ms.openlocfilehash: f0beb695bee9a67f79373ea903158de3fbb66851
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: dd54d10bb75fe732cddc34c48058b3ba95eac9ae
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943099"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004985"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Obrigar a autenticação multifator (MFA) para seu locatário do parceiro
 
@@ -25,6 +25,13 @@ ms.locfileid: "74943099"
   - Provedor indireto
   - Revendedor indireto
 - Todos os consultores
+
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
+-   Agente administrativo
+-   Administrador de cobrança
+-   Administrador de parceiros do MPN
 
 Esses parceiros serão solicitados a concluir a verificação de MFA para as seguintes áreas:
 

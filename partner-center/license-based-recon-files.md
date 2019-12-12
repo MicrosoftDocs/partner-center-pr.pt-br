@@ -7,19 +7,25 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 617b49556851a4d9999e6294d61d79c4fe1befa1
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 60ab5404f3cc2d825a110e61bd7c6bf5744bb786
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389814"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004590"
 ---
 # <a name="license-based-reconciliation-files"></a>Arquivos de reconciliação baseados em licença
 
-Aplica-se a:
+**Aplica-se a**
 
 - Partner Center
 - Partner Center do Microsoft Cloud for US Government
+
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
+-   Administrador de cobrança
+-   Agente administrativo
 
 Para reconciliar as alterações em relação aos pedidos de um cliente, compare o **Syndication_Partner_Subscription_Number** do arquivo de reconciliação com a **ID da assinatura** do Partner Center.
 
@@ -42,7 +48,7 @@ Para reconciliar as alterações em relação aos pedidos de um cliente, compare
 | ChargeType | O [tipo de encargo](recon-file-charge-types.md) ou ajuste. | Consulte [tipos de cobrança](recon-file-charge-types.md). |
 | UnitPrice | Preço por estação, conforme publicado na lista de preços no momento da compra. Certifique-se de que isso corresponde às informações armazenadas em seu sistema de cobrança durante a reconciliação. | *6,82* |
 | Quantity | Número de assentos. Certifique-se de que isso corresponde às informações armazenadas em seu sistema de cobrança durante a reconciliação. | *2* |
-| Amount | Preço total por quantidade. Usado para verificar se o cálculo de valor corresponde à forma como você calcula esse valor para seus clientes. | *13,32* |
+| Valor | Preço total por quantidade. Usado para verificar se o cálculo de valor corresponde à forma como você calcula esse valor para seus clientes. | *13,32* |
 | TotalOtherDiscount | Valor de desconto aplicado a esses encargos. As licenças de produto incluídas com uma competência ou mapas, ou novas assinaturas qualificadas para um incentivo, também conterão um valor de desconto nesta coluna. | *2,32* |
 | Subtotal | Total sem imposto. Verifica se o SUBTOTAL corresponde ao seu total esperado, no caso de um desconto. | *11* |
 | Tax | Encargo do valor do imposto. Com base nas regras de imposto do mercado e em circunstâncias específicas. | *0* |

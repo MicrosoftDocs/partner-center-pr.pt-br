@@ -8,14 +8,20 @@ description: Como um provedor indireto, ou distribuidor, saiba como expandir com
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f6a917dfae75549b55071858ad9216b0abe9138
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: a6770e459b0e3b1c05dba91107cbfdb729eeda14
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253674"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004535"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Faça parceria com revendedores indiretos no programa Provedor de Soluções na Nuvem
+
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
+-   Agente administrativo
+-   Agente de vendas
 
 Com uma mudança complexa e rápida no mercado de tecnologia, os clientes querem a borda competitiva que as soluções de tecnologia podem oferecer a eles. No ambiente, faz sentido para os parceiros investirem no contrato de parceiro-a-parceiro para estender as ofertas e permitir que os clientes façam ainda mais.
 
@@ -81,7 +87,7 @@ Para assinaturas existentes, se você decidir trabalhar com um revendedor indire
 
 - Na página detalhes da assinatura, no campo **revendedor (ID do MPN)** , adicione o revendedor com o qual você deseja trabalhar. Isso garante que o revendedor receberá os incentivos apropriados.
 
-| **Para fazer isso** | **Fazer isso** | **Posição** |
+| **Para fazer isso** | **Faça o seguinte** | **Onde** |
 |   ------------------   |   -------   |   -----   |
 | Habilitar o revendedor para gerenciar a conta de um cliente e ter permissões de administrador para gerenciar suas assinaturas | Associar um revendedor para uma conta do cliente ao adicionar um novo cliente | Na página **Novo cliente** |
 |Habilitar o revendedor para gerenciar uma conta de cliente do Azure|Associar um revendedor a uma conta de cliente do Azure ao adicionar um novo cliente|No **Portal de serviço do Azure**, selecione [Configurações de Usuário](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para fornecer permissões de **proprietário locatário** ao revendedor indireto|

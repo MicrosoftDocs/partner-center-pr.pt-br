@@ -11,12 +11,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: d59ad89c69e21bc2d88fc1229f80cb4f5f660dbc
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 105ae9e31400284148bd7639c6a4498d5b5f5f1c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943519"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005075"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gerenciando não pagamento, fraude ou uso indevido no Partner Center
 
@@ -24,6 +24,12 @@ Aplica-se a:
 
 - Partner Center
 - Partner Center do Microsoft Cloud for US Government
+
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
+-   Agente administrativo
+-   Administrador de cobrança
 
 Você permanece financeiramente responsável por compras fraudulentas de seus clientes e/ou falta de pagamento de serviços comprados pelo cliente. Portanto, é *altamente recomendável que você coloque controles de mitigação de risco de detecção e prevenção de fraudes*.
 

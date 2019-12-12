@@ -9,18 +9,25 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8aa501512a86f65c0a78c49f01c843286fcd120f
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 61ed931a33d0eec9cb2858a3cf653e69610c2b8f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384591"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005025"
 ---
 # <a name="company-tax-information"></a>Informações de imposto da empresa
 
-Aplica-se a:
+**Aplica-se a**
 
 - Partner Center
+
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
+-   Administrador de cobrança
+-   Agente administrativo
+-   Agente de vendas
 
 Os impostos sobre compras na Windows Store para Empresas são determinados pelo seu endereço comercial. As empresas em alguns países podem [fornecer seu número de imposto sobre valor agregado (IVA)](#submit-vat-id-number) ou equivalente local.
 

@@ -10,19 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cobrança de assinatura, cobrança, cobrança no partner center, ler minha cobrança, fatura, fatura do partner center, fatura do CSP, onde está minha cobrança?
 ms.localizationpriority: medium
-ms.openlocfilehash: 2f7fe5c2a3348e89cb69fc0d4e89b97f56fb2083
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: dc4c8ad1e0f12586ed1e75670806c463ca9cee54
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384821"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004825"
 ---
 # <a name="read-your-bill"></a>Ler sua cobrança
 
-Aplica-se a:
+**Aplica-se a**
 
 - Partner Center
 - Partner Center do Microsoft Cloud for US Government
+
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
+-   Administrador de cobrança
+-   Agente administrativo
+-   Administrador de parceiros do MPN
 
 Sua **fatura** é um **Resumo de todos os seus encargos do Partner Center** (em todo o programa, todos os produtos e todos os clientes) para o **período de cobrança atual**.
 

@@ -9,18 +9,25 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, fatura, mapas, isenção de imposto, IVA, ID de IVA
 ms.localizationpriority: medium
-ms.openlocfilehash: ec3813363b8ec69ee813fa7c65e6e39d00226016
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 02e6075e67f91bf3283a475f476b69b56fe9dec9
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943539"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004255"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Faturas e impostos no Microsoft Partner Network
 
 **Aplica-se a**
 
 -  Partner Center
+
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
+-   Administrador de parceiros do MPN
+-   Administrador de cobrança
+-   Agente administrativo
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>Exibir ou baixar sua fatura de associação do MPN
 

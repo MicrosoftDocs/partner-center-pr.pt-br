@@ -9,18 +9,24 @@ fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4db94f32b035be52dea575d4f731d981beb8c1b8
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a2a20ce2c2d73381121f210e5cf41e7405c6840d
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652230"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004865"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Visualize seus dados de negócio com o aplicativo de análise do Partner Center para Microsoft Power BI
 
 **Aplica-se a**
 
 -   Partner Center
+
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
+-   Agente de vendas
+-   Agente administrativo
 
 ## <a name="view-your-business-data"></a>Visualize seus dados de negócio
 

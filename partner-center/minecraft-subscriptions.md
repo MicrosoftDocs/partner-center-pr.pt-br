@@ -9,18 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Parceiros educativos autorizados, educação, venda para educação, escolas
 ms.localizationpriority: medium
-ms.openlocfilehash: 91dedab427478cd2e7608e35fb3cb1444fd0a7a0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: ecce16a09dc4c5b415e0553b038b1810ab16197f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943489"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004545"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vender assinaturas do Minecraft: Education Edition para clientes da área de educação
 
 **Aplica-se a**
 
 -  Partner Center
+
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
+-   Agente de vendas
+-   Agente administrativo
 
 Os parceiros que trabalham com instituições de ensino podem oferecer assinaturas do **Minecraft: Education Edition** a eles. Você adquire a assinatura em nome do cliente no Partner Center e, em seguida, o cliente baixa o software do [Microsoft Store para educação](https://educationstore.microsoft.com). 
 

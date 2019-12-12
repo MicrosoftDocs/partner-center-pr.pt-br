@@ -9,18 +9,21 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PAC, administração do Office 365, recursos do PAC
 ms.localizationpriority: medium
-ms.openlocfilehash: c68d09a658bf4d9cf65f54494a3ef30376a9692f
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0dcf232e68b14a2dd4264b489c7325a9eccc190f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943559"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004225"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Migração do PAC (Centro de Administração do Parceiro) para o Partner Center
 
-Aplica-se a:
+**Aplica-se a**
 - Partner Center
 - Centro de Administração do Parceiro
+
+**Funções apropriadas**
+-   Administração global
 
 O Partner Center está evoluindo para o único lugar em que você gerenciará sua parceria com a Microsoft e com seus clientes. No Partner Center, você poderá gerenciar associações, indicações de clientes, incentivos e todos os outros aspectos do Programa Provedor de Soluções na Nuvem (CSP). Você também poderá fazer a maior parte do trabalho realizado no PAC no Partner Center, ainda que alguns dos recursos e ações funcionem de forma diferente. 
 

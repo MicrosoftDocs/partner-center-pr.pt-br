@@ -9,18 +9,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7749f61743e38bef63a5f82cbac06f9e9bdcb8dc
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 2534610ac551e4b11c1846951936ad939be2191e
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943509"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004875"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Partner Center do Microsoft Cloud Germany
 
 **Aplica-se a**
 
 -  Partner Center do Microsoft Cloud Germany
+
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
+-   Agente administrativo
+-   Agente de vendas
+-   Administrador de cobrança
 
 o Microsoft Cloud Alemanha foi projetada para atender aos rígidos requisitos de proteção de dados da Alemanha e inclui um objeto de confiança de dados alemão que controla o acesso físico e lógico a dados de clientes de acordo com a legislação alemã. Todos os dados do cliente, e os sistemas que processam ou controlam o acesso aos dados do cliente, residem em datacenters alemães. A rede entre esses datacenters é isolada e dedicada na Alemanha.
 
@@ -31,31 +38,6 @@ Microsoft Cloud a Alemanha fornece uma instância separada do [Microsoft Azure](
 > Com base na evolução das necessidades dos clientes, nossa estratégia de nuvem para a Alemanha se concentrará na entrega das novas regiões de nuvem na Alemanha que são consistentes com nossa oferta de nuvem global. Com esse foco, não aceitaremos mais novos clientes nem implantaremos novos serviços do Microsoft Cloud Germany disponível atualmente. Os clientes existentes podem continuar a usar os serviços de nuvem atuais disponíveis hoje, o que manteremos com as atualizações de segurança necessárias. 
 > 
 > De agora em diante, os novos clientes têm a opção de usar as regiões europeias disponíveis atualmente ou as novas regiões na Alemanha quando estiverem disponíveis. Para obter mais informações, consulte [Microsoft fornecerá serviços de nuvem de novos datacenters na Alemanha](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/). 
-
-# <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Migre clientes do Microsoft Cloud Alemanha para outra região europeia
-Antes de migrar uma assinatura de cliente do Microsoft Cloud Alemanha para outra região europeia, você deve ter uma conta CSP existente localizada nessa região e está ativa no momento. Se você não tiver uma, será solicitado a criar uma durante a seleção da conta do CSP no Partner Center. Após a migração, sua assinatura de cliente será associada ao locatário selecionado.
-
-## <a name="migrate-with-an-existing-csp-account"></a>Migrar com uma conta CSP existente
-1.  Ao fazer logon no Partner Center para Microsoft Cloud Alemanha, você será solicitado a selecionar um locatário do CSP ativo. Clique em **OK**.
-2.  Quando solicitado, selecione **eu já tenho um locatário na região europeia**e, em seguida, selecione **Avançar**. Você será solicitado a fazer logon no novo locatário. 
-3.  Faça logon no locatário como um administrador global.
-4.  Examine as informações na página confirmação e, em seguida, selecione **confirmar**.
-5.  Você será solicitado a selecionar **Exibir detalhes** ou **exibir painel** para obter mais informações. 
-
-Se o logon falhar, isso pode significar um dos seguintes:
-- Você não é um administrador global no locatário selecionado
-- O locatário não está localizado em uma região europeia
-- O locatário não está ativo
-
-Faça as correções necessárias e repita o processo.
-
-## <a name="migrate-without-an-existing-csp-account"></a>Migrar sem uma conta CSP existente
-1.  Ao fazer logon no Partner Center para Microsoft Cloud Alemanha, você será solicitado a selecionar um locatário do CSP ativo. Clique em **OK**.
-2.  Quando solicitado, selecione **eu não tenho um locatário na região europeia**e, em seguida, selecione **criar nova conta**. 
-3.  Você será levado para a página de registro do Partner Center, onde poderá criar uma nova conta de locatário e CSP em uma região europeia. 
-4.  Depois de assinar o contrato e a conta estiver ativa, faça logon com a conta atual do Microsoft Cloud Alemanha.
-5.  Navegue até o formulário de seleção de locatário.
-6.  Selecione **já tenho um locatário na região europeia** e siga as instruções.
 
 ## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>Partner Center do Microsoft Cloud Alemanha: vendendo soluções na nuvem alemães na UE e na EFTA
 

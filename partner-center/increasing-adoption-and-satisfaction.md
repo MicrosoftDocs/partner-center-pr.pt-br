@@ -9,18 +9,24 @@ ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3acd6e259487946a7a1005ec9fd2c5d74160bc99
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 728ef5c3df62acc3037e0f8a6a3578682d507980
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253697"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004775"
 ---
-# <a name="increase-adoption-and-satisfaction"></a>Aumente a adoção e a satisfação
+# <a name="increase-adoption-and-satisfaction"></a>Aumentar a adoção e a satisfação
 
 **Aplica-se a**
 
 -  Partner Center
+
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
+-   Agente administrativo
+-   Agente de vendas
 
 Nossos parceiros usam muitos métricas para avaliar se seus negócios estão crescendo e onde concentrar o investimento. O Partner Center pode ajudar informando se e como os clientes estão usando as licenças adquiridas. Essas informações estão disponíveis para os produtos do Office (inclusive OneDrive for Business, que é contabilizado com o SharePoint).
 
@@ -29,7 +35,7 @@ Você pode ver dados de todos os seus clientes por meio do programa Provedor de 
 > [!NOTE]  
 >  No momento, mostramos apenas dados do Office 365 e do Dynamics 365. Habilitaremos dados de outros produtos no futuro.
 
-## <a name="find-license-and-user-data"></a>Localize dados de licença e do usuário
+## <a name="find-license-and-user-data"></a>Localizar dados de licença e do usuário
 
 
 **Para um único cliente**

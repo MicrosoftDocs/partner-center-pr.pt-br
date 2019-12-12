@@ -9,12 +9,12 @@ ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: af93ea420f1eefcf11af0a49b1bcab00de6f0029
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 631a5273c7ab373d135904aa6202bbfc21bc0fa2
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943459"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004815"
 ---
 # <a name="provide-technical-support"></a>Fornecer suporte técnico
 
@@ -23,6 +23,11 @@ ms.locfileid: "74943459"
 -  Partner Center
 -  Partner Center do Microsoft Cloud for US Government
 
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
+-   Agente de suporte técnico
+-   Agente administrativo
 
 Como parceiro do Provedor de Soluções na Nuvem, você tem Privilégios de Administrador Delegado que dão acesso aos ambientes dos seus clientes. Esses privilégios fornecem a capacidade de dar suporte, configurar e gerenciar diretamente as assinaturas de seus clientes.
 

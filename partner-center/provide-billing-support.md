@@ -9,12 +9,12 @@ ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 2df2429b37f9260de5f8e1b16a143555bc473760
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 25cf1868ddd941ea78bd4f38d399a90e7dc621c1
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654144"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004925"
 ---
 # <a name="provide-billing-support"></a>Fornecer suporte para a cobrança
 
@@ -23,6 +23,12 @@ ms.locfileid: "73654144"
 -  Partner Center
 -  Partner Center do Microsoft Cloud for US Government
 
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
+-   Agente de suporte técnico
+-   Administrador de cobrança
+-   Agente de vendas
 
 Você possui a relação de cobrança com seus clientes e é responsável por responder a dúvidas relacionadas à cobrança de seus clientes.
 

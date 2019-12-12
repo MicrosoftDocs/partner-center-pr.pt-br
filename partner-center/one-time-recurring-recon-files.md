@@ -7,19 +7,26 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0eae0dac3cbb4991e85e335082e6c5071c62841f
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 51c37c9ea2110b7666c4d1a9bc92a2b01f92209c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389674"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004895"
 ---
 # <a name="one-time-and-recurring-reconciliation-files"></a>Arquivos de reconciliação recorrentes e de uso único
 
-Aplica-se a:
+**Aplica-se a**
 
 - Partner Center
 - Partner Center do Microsoft Cloud for US Government
+
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
+-   Administrador de cobrança
+-   Agente administrativo
+-   Agente de vendas
 
 Este tópico explica como ler arquivos de reconciliação recorrentes e de uso único no Partner Center.
 
@@ -31,16 +38,16 @@ Este tópico explica como ler arquivos de reconciliação recorrentes e de uso �
 | ID do cliente | Identificador exclusivo do locatário do Azure AD, no formato GUID. Identifica o cliente. |
 | Nome do cliente | Nome da organização do cliente, conforme relatado no Partner Center. |
 | CustomerDomainName | Nome de domínio do cliente. Este campo pode aparecer em branco até o segundo ciclo de cobrança. *Não use esse campo como um identificador exclusivo para o cliente. O cliente/parceiro pode atualizar o intuitivo ou o domínio padrão por meio do portal do Office 365.* |
-| País do cliente | O país em que o cliente está localizado. |
+| País/Região do cliente | O país em que o cliente está localizado. |
 | Número da fatura | Número da fatura na qual a transação especificada é exibida. |
-| MpnID | Identificador de MPN do parceiro CSP. |
+| MpnId | Identificador de MPN do parceiro CSP. |
 | MpnId do revendedor | Identificador MPN do revendedor do registro para a assinatura. |
 | ID do Pedido | Identificador exclusivo de um pedido na plataforma Microsoft Commerce. Não usado para reconciliação. |
 | Data do pedido | A data em que o pedido foi feito. |
 | ProductId | O identificador do produto. |
 | SkuId | O identificador de um SKU específico (unidade de manutenção de estoque). |
 | AvailabilityId | O identificador para a disponibilidade de um SKU específico. Isso mostra se o SKU está disponível para compra no país, moeda, segmento do setor, etc. |
-| Nome do SKU | O título de uma SKU em particular. |
+| Nome da SKU | O título de uma SKU em particular. |
 | Nome do produto | O nome do produto. |
 | PublisherName | O nome do editor do produto.
 | PublisherID | Identificador exclusivo de um Publicador específico. |

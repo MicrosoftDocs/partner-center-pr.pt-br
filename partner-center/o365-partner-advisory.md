@@ -7,18 +7,23 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: Office, O365, serviços PSTN, impostos, requisitos, fatura, faturamento
 ms.localizationpriority: medium
-ms.openlocfilehash: b6359a49503237e72c8cffdb5758bdd418910306
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 2edf62c8a2157bc2b75855833ddbc7a63e7c6bb0
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384809"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005055"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Consultoria do parceiro do Office 365: Microsoft 365 voz no CSP
 
 **Aplica-se a**
 
 - Partner Center  
+
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
+-   Agente administrativo
 
 Os serviços de rede telefônica pública comutada (PSTN) em alguns países podem estar sujeitos a requisitos especiais de impostos e regulatórios que podem afetar a ordem e o faturamento do parceiro.  No Estados Unidos, Porto Rico e Canadá, o Skype for Business PSTN e os serviços de voz Microsoft 365 estão sujeitos a requisitos especiais de impostos e regulatórios. No Estados Unidos e Porto Rico, a Microsoft preços os serviços PSTN como impostos sobre o imposto.  Os impostos e as regulamentações de PSTN exclusivos afetarão os parceiros do Office 365 transformando Microsoft 365 produtos de voz.  Se um parceiro marcar o preço de um serviço PSTN da Microsoft, ele poderá ser responsável pelo cálculo e remissão de impostos e taxas do PSTN.
 
@@ -42,8 +47,8 @@ O Office 365 Enterprise E5 apresenta o arquivo de reconciliação como dois iten
 
 |**Durable_offer_ID**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Taxa do ciclo   |28,40   |
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Taxa do ciclo   |2.00   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Taxa do Ciclo   |28,40   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Taxa do Ciclo   |2,00   |
 
 **Exemplo de reconciliação de parceiro #2**
 
