@@ -21,6 +21,7 @@
 ## Benefícios
 ### [Visão geral dos benefícios](manage-your-partner-network-benefits.md)
 ### [Benefícios de entrada no mercado](mpn-learn-about-go-to-market-benefits.md)
+## [Gerenciar o Microsoft Rewards](marketplace-rewards.md)
 ## [Programas do Software Assurance](software-assurance-lp.md)
 ### [Programa SATV (Comprovante de Treinamento do Software Assurance) no Partner Center](software-assurance-satv.md)
 ### [Usar a ferramenta de Validação e Resgate de Comprovante no Partner Center para validar, reservar e resgatar comprovantes](voucher-validation-tool.md)
@@ -61,6 +62,7 @@
 ## [Restaurar uma conta suspensa no Partner Center](suspended-partner-center-account.md)
 ## [Criar contas de usuário](create-user-accounts-and-set-permissions.md)
 ## [Atribuir permissões e funções de usuários](permissions-overview.md)
+## [Adicionar um aplicativo do Azure AD](service-principal.md)
 ## [Associar sua conta da Microsoft Learn ao Partner Center](ms-learn-associate.md)
 ## [Verificar sua propriedade do domínio](become-global-admin.md)
 ## [Redefinir uma senha de usuário](reset-a-user-password.md)
