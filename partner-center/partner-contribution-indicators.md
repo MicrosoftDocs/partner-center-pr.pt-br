@@ -1,97 +1,87 @@
 ---
-title: Indicadores de contribuição de parceiros | Partner Center
+title: Informações do Partner Center | Centro de parceiros
 ms.topic: article
-ms.date: 11/14/2019
+ms.date: 12/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Veja exatamente o que você está fazendo e onde você pode melhorar com relação ao envolvimento do cliente do Dynamics 365 ou às operações e finanças do Dynamics 365
+description: Veja exatamente o que você está fazendo e onde você pode melhorar em relação a suas vendas e implantação, bem como ao desenvolvimento para clientes
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: PCI, desempenho, sucesso do cliente, medições, Dynamics 365
+keywords: PCI, desempenho, sucesso do cliente, medições,
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 012e60996c6c34ffb0f71d48d0ba92141e393ae7
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: cec1fd9121f82392b4bd2bbbbf5ffb946547f83d
+ms.sourcegitcommit: 5117782b6f9067894c1c319d022291c6c4219cac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004355"
+ms.lasthandoff: 12/16/2019
+ms.locfileid: "75033492"
 ---
-# <a name="partner-contribution-indicators"></a>Indicadores de contribuição de parceiros
+# <a name="partner-center-insights"></a>Informações do Partner Center
 
 **Funções apropriadas**
--   Administração global
--   Administrador de usuários
--   Agente administrativo
+- Administração global
+- Administrador de conta
+- Visualizador de relatórios executivos
+- Visualizador de relatórios
 
-Os indicadores de contribuição do parceiro (PCI) fornecem uma medida holística do impacto de um parceiro na condução de resultados bem-sucedidos do cliente para o Dynamics 365. Os parceiros recebem maior diferenciação no mercado quando atingem e mantêm a competência de Business Applications de nuvem.  Os parceiros recebem crédito pelas principais medidas do sucesso do cliente, como implantações bem-sucedidas e aumento do uso, e são recompensados por continuar a investir e expandir seus recursos técnicos. 
+O insights é um painel de relatório unificado no Partner Center para parceiros comerciais da Microsoft registrados no programa Microsoft Partner Network (MPN). O painel de informações fornece uma exibição de 360 graus dos KPIs (indicadores chave de desempenho) em produtos de nuvem, como o Office, o Azure, o Dynamics e os modelos de licenciamento como CSP e EA. Ele expõe um rico conjunto de relatórios de KPI que podem ajudá-lo a tomar decisões orientadas por dados para sua organização. 
 
-## <a name="scoring"></a>Pontuação
+## <a name="roles-based-access-control-to-the-insights-dashboard"></a>Controle de acesso baseado em funções para o painel do insights
 
-O PCI fornece uma exibição holística e sofisticada dos recursos técnicos de sua empresa, a capacidade de impulsionar o sucesso do cliente e o desempenho das vendas. O PCI mede o desempenho do ano anterior da sua empresa entre sete principais indicadores:
+Há duas novas funções no Partner Center projetadas especificamente para acesso a insights – Visualizador de relatórios e visualizador de relatórios executivos.  Os usuários na função do Visualizador de relatórios executivos têm acesso a todos os conjuntos de dados de relatórios, enquanto os usuários na função do Visualizador de relatórios não terão acesso a conjuntos de dados confidenciais, como receita e dados pessoais de cliente/funcionário. 
 
-1. **Nova receita líquida** – nova receita líquida em todos os canais de vendas para produtos Microsoft Dynamics 365.
-2. **Adições de clientes da net** — clientes .net adquiridos para o Dynamics 365 em todos os canais de vendas.
-3. **Consultores funcionais** — número de indivíduos que mantêm uma certificação de associação de consultor funcional atualmente ativa para o Dynamics 365.
-4. **Crescimento funcional do consultor** — crescimento no número de associados de consultores funcionais desde 31 de março de 2020.
-5. **Desenvolvedores** — número de indivíduos que contêm uma certificação associada ao desenvolvedor atualmente ativa para o Dynamics 365.
-6. **Novas implantações grandes** — número de locatários de produção que cruzam o limite de uso alto nos últimos 12 meses.
-7. **Crescimento mensal ativo do usuário** — crescimento em usuários ativos mensais em todos os seus clientes nos últimos 12 meses.
+O administrador global ou o administrador da conta pode atribuir usuários a essas funções e são atribuídos para toda a empresa ou para um local MPN específico.  
 
-Pontos são concedidos para cada indicador obtido, resultando em uma pontuação de PCI de número único. são possíveis pontos máximos de 100. A pontuação de PCI determina a qualificação de competência:
+>[!Note] 
+>Os usuários que foram MPN administradores a partir de 2 de dezembro de 2019 foram adicionados automaticamente à função de visualizador de relatórios em toda a empresa. Eles podem acessar os relatórios como um visualizador de relatórios sem a ação explícita exigida pelo administrador global ou pelo administrador da conta. Os administradores globais ou o administrador da conta podem substituir essas atribuições, se necessário. 
 
-![Pontuações de PCI](images/pcinew1.png)
+## <a name="reports-available"></a>Relatórios disponíveis
 
-Cada indicador traz uma pontuação que é adicionada ao total. Aqui estão as pontuações máximas para cada indicador:
+Os relatórios a seguir estão disponíveis como parte do painel de informações.
 
+**Visão geral**    O relatório de visão geral apresenta uma exibição de instantâneo de vários KPIs de seu interesse, como contagem de clientes, contagem de assinaturas ativas, receita de consumo do Azure, licenças ativas etc.
 
-![desempenho de PCI 2](images/pci1.png)
+**Cliente** do O relatório do cliente apresenta a análise sobre seus clientes, como dados de aquisição do cliente, clientes ativos etc. 
 
-### <a name="thresholds"></a>Limites
+**Produto-assinaturas**     O relatório de assinaturas apresenta análise de aquisição e uso para suas assinaturas de nuvem (por exemplo, O365, Azure, Dynamics, etc.) 
 
-Cada métrica de PCI tem limites definidos pela Microsoft que podem fazer com que sua empresa ganhe o máximo possível de pontos. Esses limites diferem no Customer Engagement e no Finance and Operations. Os limites também são diferentes entre os parceiros que operam em mercados desenvolvidos e aqueles que operam exclusivamente em mercados emergentes. Se um parceiro tiver um ou mais clientes em um mercado desenvolvido, os limites de mercados desenvolvidos serão aplicados. A categorização de mercado desenvolvida ou emergente de um país baseia-se nas [definições de Microsoft Partner Network](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf).
+**Produto-licenças**   O painel de licenças apresenta análises de licenças para produtos de nuvem baseados em licença, como O365, Dynamics, Power BI, etc.
 
-Os pontos em cada métrica são contratados para produzir uma pontuação de PCI distinta para o envolvimento do cliente e as operações de & de Finanças que serão atualizadas mensalmente.
+**Produto-uso do Azure**   O relatório de uso do Azure apresenta métricas relacionadas às assinaturas do Azure de seus clientes, incluindo receita de consumo do Azure e uso por categorias de medidor.
 
-Os parceiros podem obter o máximo de pontos para uma determinada métrica se atingirem ou excederem os limites indicados abaixo. É possível obter pontos parciais para todas as métricas, exceto para o crescimento funcional do consultor, por exemplo, um parceiro de mercado desenvolvido com nova receita líquida de US$ 150.000 ganhará metade (US$ 150.000/US$ 300.000) do máximo de 10 pontos.
+**Competências**    O relatório de competências apresenta métricas sobre suas competências ativas, qualificadas e em risco.
 
-![envolvimento do cliente](images/pci/table_1.png)
+**Benefícios** do    Os relatórios de benefícios apresentam análises sobre os benefícios do parceiro que você ganhou versus consumido.
 
-![Finanças](images/pci/TABLE_2.png)
-
-![Consultor](images/pci/table_3.png)
-
-## <a name="detailed-definitions-of-pci-metrics"></a>Definições detalhadas de métricas de PCI
-
-![nova receita líquida](images/net_new1.png)
-
-![adições de clientes net](images/netcustomer.png)
-
-![Consultor funcional](images/pci/functional_consultants.png)
-
-![growth](images/pci/functional_consultant_growth.png)
-
-![Desenvolvedores](images/pci/developers.png)
-
-![Novas implantações](images/pci/new_large_deployments.png)
-
-![usuários ativos](images/pci/monthly_active_user_growth.png)
+## <a name="navigating-the-insights-reports"></a>Navegando nos relatórios do insights 
 
 
-## <a name="customer-to-partner-association"></a>Associação de cliente a parceiro
+**Filtros de intervalo de datas**: você pode encontrar uma seleção de intervalo de datas no canto superior direito de cada página. A saída dos gráficos de página de visão geral pode ser personalizada selecionando um intervalo de datas com base nos últimos 3, 6 ou 12 meses ou selecionando um intervalo de datas personalizado. A seleção do intervalo de datas padrão é de 12 meses. 
 
-Você recebe crédito por novas receitas líquidas, adições de clientes da net, novas implantações grandes e crescimento mensal ativo do usuário para um determinado cliente, dentro dos limites da definição da métrica, somente se você for o CSP (provedor de soluções de nuvem), o CPOR (parceiro de registro) de reivindicação, ou DPOR (parceiro de registro digital) para uma assinatura paga que pertence ao locatário do cliente.
 
-Um parceiro se tornará o CPOR se tiver estabelecido a associação com um cliente no nível da assinatura por meio do incentivo do [supervisor de solução online](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) do Dynamics 365 (OSA) ou do OSU (Dynamics 365 [Online Services Usage](https://support.microsoft.com/en-us/help/3082044/become-eligible-for-the-online-services-usage-incentive-program) ).
+**Botão de comentários**: cada gráfico/controle em todos os relatórios de informações é incorporado com um botão de comentários para permitir que você forneça comentários de instância sobre um recurso de relatório. 
 
-Um parceiro se tornará o DPOR se tiver estabelecido uma associação com um cliente no nível de assinatura no produto.
+ 
+**Filtros de nível de página**: exceto para os relatórios de visão geral, benefícios e competências, todos os relatórios do insights permitem que você aplique filtros de nível de página. 
 
-Quando o CPOR e o DPOR existem para uma determinada assinatura, o CPOR recebe todo o crédito pelas métricas de PCI associadas a ela.
+- Os filtros selecionados serão aplicáveis a todos os gráficos e métricas em uma página, incluindo a seção de resumo. Um item de filtro estará disponível se você tiver dados dentro desse critério de filtro. 
 
-## <a name="how-to-read-the-charts"></a>Como ler os gráficos
+- A seleção padrão de cada lista de filtros é **tudo**. Por exemplo, se você não selecionou um produto específico no filtro produtos, a seleção padrão será todos os produtos.
 
-![Como ler o gráfico](images/pci2.png)
+- Filtros selecionados serão exibidos na parte superior da página. 
+
+ ### <a name="filters-definition"></a>Definição de filtros:
+
+- Produtos: lista de todos os produtos de Microsoft Cloud vendidos/gerenciados pela sua organização, por exemplo, O365, Azure, D365, EMS, PowerBI etc.
+- Mercados do cliente: lista de países do cliente
+- Atribuições de parceiros: seu tipo de associação com suas assinaturas de clientes, por exemplo, DPOR (parceiro digital de registro), privilégio de administrador delegado (DAP), link de administrador de parceiro (PAL) etc. 
+- Locais de parceiros: lista de todos os locais de MPN da sua organização. 
+- Canais de vendas: todo o canal/preço de vendas por meio do qual você está comprando/Provisionando produtos e serviços, especificamente CSP, EA, CSP indireto, direto, Advisor, aberto, outros
+- Segmentos de clientes: lista de segmentos de clientes na base de clientes dos parceiros.
+
+
 
 ## <a name="additional-resources"></a>Recursos adicionais
 
