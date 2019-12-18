@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, MAPS, renovar MAPS, renovar action pack, obter action pack
 ms.localizationpriority: high
-ms.openlocfilehash: fb5515ad0f27ba627d4a4a834be36b4d8f627e10
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 22aebf9d6c7098a36ac551763cd85f4de978a8ab
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943339"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005095"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Comprar pela primeira vez ou renovar uma assinatura do Microsoft Action Pack ou as competências silver ou gold
 
@@ -22,6 +22,13 @@ ms.locfileid: "74943339"
 
 -  Partner Center
 -  Partner Membership Center
+
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
+-   Administrador de parceiros do MPN
+-   Agente administrador
+-   Agente de vendas
 
 Agora, no [painel](https://docs.microsoft.com/partner-center/) do Partner Center, você pode comprar ou renovar suas ofertas de benefício, incluindo a assinatura do Microsoft Action Pack e as competências silver e gold. 
 

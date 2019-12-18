@@ -11,14 +11,20 @@ ms.author: evansma
 keywords: revendedores indiretos, revendedores, provedores indiretos, provedores, parceria, VAR, camada2, camada 2
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: c259c28d5a5a16a2b12ebb299a574c0b624d87f9
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 66334277c0169b66243ae3c6da4bd09a346ff022
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253659"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004795"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Faça parceria com provedores indiretos no programa Provedor de Soluções na Nuvem
+
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
+-   Agente administrador
+-   Agente de vendas
 
 A demanda crescente por serviços e soluções baseadas em nuvem oferece muitas oportunidades para os parceiros da Microsoft de todos os tamanhos para criar empresas de solução em nuvem rentáveis. Os parceiros que estão prontos para se inserir no mercado, mas que não querem gerenciar vários fornecedores ou que podem não ter uma infraestrutura de gerenciamento de relacionamento com o cliente de ponta a ponta, podem inscrever-se no programa de CSP (Provedor de Soluções na Nuvem) da Microsoft como revendedores indiretos.
 

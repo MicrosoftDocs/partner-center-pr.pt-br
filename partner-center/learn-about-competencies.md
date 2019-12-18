@@ -9,15 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: competências, associação silver, associação gold, mpn, MAPS, proficiência, Microsoft Partner Network, associação de rede, especializações avançadas
 ms.localizationpriority: high
-ms.openlocfilehash: 508480f2c9e1e67b939885bf31fafdd09e3aabc7
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1927ccdb7c24e018ff1f656f46ba1580529d127f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253666"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004805"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Informações sobre as competências silver e gold e as especializações avançadas da Microsoft
 
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
 
 Demonstre seu conhecimento comprovado no fornecimento de soluções de qualidade em uma ou mais áreas de negócios especializadas. As competências da Microsoft foram projetadas para preparar você para atender às necessidades dos clientes e ajudar a atrair novos clientes que estejam procurando por provedores de soluções certificados pela Microsoft. Participe do nível de elite dos parceiros da Microsoft e destaque-se entre seus pares.
 

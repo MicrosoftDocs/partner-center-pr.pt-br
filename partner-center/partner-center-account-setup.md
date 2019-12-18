@@ -10,18 +10,23 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 617bf213d73b8707479b35e5a900c4293b0f8c35
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 62131fa6590898dcb6d59e4bee0f6edb68dfba0c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943089"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005015"
 ---
 # <a name="manage-your-partner-center-account"></a>Gerencie sua conta do Partner Center
 
 **Aplica-se a**
 
 -  Partner Center
+
+**Funções apropriadas**
+-   Administração global
+-   Administrador de usuários
+-   Agente administrador
 
 A conta que você cria no Partner Center ao se inscrever é seu email de trabalho mais suas informações comerciais. Após a criação de uma conta no Partner Center, você ou seu administrador precisará concluir a configuração do perfil completo da sua empresa, incluindo detalhes de suporte, isenções de impostos (se apropriado) e informações do contato principal. 
 
