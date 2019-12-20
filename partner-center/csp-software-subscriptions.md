@@ -10,18 +10,18 @@ ms.author: evansma
 keywords: Provedor de soluções na nuvem, CSP, serviços baseados em nuvem, Azure, RI do Azure, Windows Server, SQL Server, assinaturas de software, cancelar software
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 271eb450434047d1eee193df9f6ce02e7a2d7cf5
-ms.sourcegitcommit: fcaa85b3c080628d2c14b9133aa5780cdaf6f3be
+ms.openlocfilehash: 733c8ab6c2d15109011dfa240c2ce5954d748fea
+ms.sourcegitcommit: 855b2aed1c395b199d8aaba88ac08cc277f474ea
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "75185621"
+ms.lasthandoff: 12/19/2019
+ms.locfileid: "75190237"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vender assinaturas de software por meio do CSP
 
 **Aplica-se a**
 
-- Provedores de Soluções de Nuvem
+- Provedores de soluções de nuvem
 
 **Funções apropriadas**
 
@@ -52,7 +52,7 @@ O Benefício Híbrido do Azure ajuda você a obter mais valor de suas licenças 
 > | Benin     | Haiti       | São Vicente e Granadinas     |
 > | Butão     | Ilhas Heard e McDonald       | Samoa     |
 > | Bonaire     | Ilha de Man     | São Marinho     |
-> | Ilha Bouvet     | Svalbard     | São Tomé and Príncipe   |
+> | Ilha Bouvet     | Jan Mayen     | São Tomé and Príncipe   |
 > | Território Britânico do Oceano Índico       | Jersey     | Seicheles   |
 > | Ilhas Virgens Britânicas     | Kiribati       | Serra Leoa   |
 > | Burquina Faso     | Kosovo     | Santo Eustáquio     |
@@ -140,7 +140,7 @@ Você pode cancelar uma compra de software dentro de 60 dias da data de compra. 
 Siga as etapas abaixo para cancelar uma compra:
 
 >[!NOTE]
->Você deve ser um agente administrativo para cancelar uma compra. As etapas a seguir descrevem como cancelar uma compra no painel do Partner Center. Você também pode fazer isso usando a [API do Partner Center](https://docs.microsoft.com/partner-center/develop/cancel-an-order-from-the-integration-sandbox).
+>Você deve ser um agente administrativo para cancelar uma compra. As etapas a seguir descrevem como cancelar uma compra no painel do Partner Center. Você também pode fazer isso usando a [API do Partner Center](https://docs.microsoft.com/partner-center/develop/cancel-software-purchases).
 
 1. Antes de iniciar o processo de cancelamento, verifique se você tem o seguinte:
 
@@ -156,7 +156,7 @@ Siga as etapas abaixo para cancelar uma compra:
 
 4. Na página detalhes do cliente, selecione **software** para ver a lista de softwares comprados para o cliente. 
 
-5. Localize a compra de software que você deseja cancelar e selecione **Cancelar**. Uma caixa de diálogo aparecerá.
+5. Localize a compra de software que você deseja cancelar e selecione **Cancelar**. Será exibida uma caixa de diálogo.
 
 6. Na lista suspensa número do pedido, selecione o número da ID do pedido correto que você deseja cancelar e, em seguida, selecione **Enviar**.
 
