@@ -42,7 +42,13 @@
           "depot_name": "MSDN.partner-center",
           "folder_relative_path_in_docset": "./"
         }
-      }
+      },
+      "disable_contribution_on_translation_quality": [
+        "MT",
+        "MTE75",
+        "MTE95",
+        "Blank"
+      ]
     },
     "fileMetadata": {},
     "template": [],
