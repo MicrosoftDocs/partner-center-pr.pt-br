@@ -35,7 +35,13 @@
           "depot_name": "Azure.partner-china-redirect",
           "folder_relative_path_in_docset": "./"
         }
-      }          
+      },
+      "disable_contribution_on_translation_quality": [
+        "MT",
+        "MTE75",
+        "MTE95",
+        "Blank"
+      ]
     },
     "fileMetadata": {},
     "template": [],
