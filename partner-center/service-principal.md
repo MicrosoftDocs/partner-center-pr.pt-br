@@ -10,16 +10,16 @@ ms.author: labrenne
 Keywords: Azure, plano do Azure, entidade de serviço, aplicativo do Azure AD
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 1fe4211879df2063f7b865c249870c49a346f518
-ms.sourcegitcommit: 369aceafc54e960ac0bd3a023edc85b06361492b
+ms.openlocfilehash: bd74d09445d9a2f1745c518362b26f243f00a777
+ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/12/2019
-ms.locfileid: "75010377"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "75716887"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Adicionar um aplicativo do Azure AD (entidade de serviço) no Partner Center
 
-No programa Marketplace Comercial no Partner Center agora é possível adicionar um aplicativo do Azure AD (entidade de serviço) como um usuário em seu locatário do Azure AD. (Anteriormente era possível fazer isso em sua conta do CPP (Portal do Cloud Partner), mas agora que você migrou para o Partner Center, a conta do CPP é somente leitura.) Observe que a entidade de serviço equivale ao aplicativo do Azure AD.
+No programa Marketplace Comercial no Partner Center agora é possível adicionar um aplicativo do Azure AD (entidade de serviço) como um usuário em sua conta do Partner Center. (Anteriormente era possível fazer isso em sua conta do CPP (Portal do Cloud Partner), mas agora que você migrou para o Partner Center, a conta do CPP é somente leitura.) Observe que a entidade de serviço equivale ao aplicativo do Azure AD.
 
 ## <a name="add-an-azure-ad-application-service-principal"></a>Adicionar um aplicativo do Azure AD (entidade de serviço)
 
@@ -30,13 +30,14 @@ No programa Marketplace Comercial no Partner Center agora é possível adicionar
 3. Crie um aplicativo do Azure AD ou selecione um existente.
 
 4. Se você criar um aplicativo do Azure AD, inclua as seguintes informações:  
+
   
-**Nome**: É semelhante ao campo "nome amigável" no portal do CPP.
+
 
 **URL de resposta**: É a URL onde é possível que os usuários entrem para usar seu aplicativo do Azure AD. 
 
-**URI da ID do aplicativo**: Ele é um identificador lógico do aplicativo Azure AD apresentado quando ele envia uma solicitação de logon único para o Azure AD. 
+**URI da ID do aplicativo**: Ele é um identificador lógico do aplicativo Azure AD que é apresentado quando ele envia uma solicitação de logon único para o Azure AD. 
 
 **Funções de segurança**: As funções de **Gerente** (equivalente à função de 'Proprietário' no CPP) e de **Desenvolvedor** (equivalente à função 'Colaborador' no CPP) se aplicam ao programa Marketplace Comercial no Partner Center e podem ser associadas a este aplicativo do Azure AD.  
 
-Quando você seleciona **Salvar** a fim de criar isso no Partner Center, as informações também são sincronizadas de volta para o sistema CPP.  
+  

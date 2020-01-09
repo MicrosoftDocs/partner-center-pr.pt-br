@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor do painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
 ms.localizationpriority: high
-ms.openlocfilehash: 32b185452e8287678e6ae010b435e127bfcf54aa
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 47ab8306c83fb498383ca3c839bfe6ff7ddb0a46
+ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005005"
+ms.lasthandoff: 01/03/2020
+ms.locfileid: "75636987"
 ---
 # <a name="partner-security-requirements-status"></a>Status dos requisitos de segurança do parceiro
 
@@ -27,9 +27,9 @@ ms.locfileid: "75005005"
 - Todos os consultores
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 -   Administrador de usuários
--   Agente administrador
+-   Agente administrativo
 -   Administrador de cobrança
 -   Administrador de parceiros do MPN
 
@@ -50,13 +50,22 @@ Este relatório pode ajudá-lo a verificar o status dos requisitos de segurança
 >[!NOTE]
 >O relatório de status dos requisitos de segurança do parceiro é compatível apenas com o Partner Center. Ele não está disponível no Microsoft Cloud for US Government nem no Microsoft Cloud Alemanha. É altamente recomendável que todos os parceiros que negociam em uma nuvem soberana (21Vianet, governo dos EUA e Alemanha) adotem esses novos requisitos de segurança imediatamente. No entanto, esses parceiros não precisam atender aos novos requisitos de segurança em vigor em 1º de agosto de 2019. Futuramente, a Microsoft fornecerá detalhes adicionais sobre a imposição desses requisitos de segurança para nuvens soberanas.
 
-Cada vez que seus funcionários entram no Partner Center para trabalhar ou, por meio de APIs, obter ou enviar dados por meio do Partner Center, seu status de segurança é desafiado e acompanhado. Também estão incluídos no acompanhamento de status de segurança os seus aplicativos e todos os aplicativos de fornecedor do painel de controle. O status exibido é referente aos 7 dias anteriores.
-
 ## <a name="multi-factor-authentication-mfa-report"></a>Relatório de MFA (autenticação multifator)
 
-O relatório de MFA do Partner Center oferece insights sobre a implementação de MFA do parceiro fornecendo duas métricas com base nas atividades do Partner Center:
+O relatório de MFA do Partner Center oferece insights sobre a implementação de MFA do parceiro ao fornecer dois tipos de métricas com base na configuração de MFA e nas atividades do Partner Center do locatário de CSP: 
 
-**Verificação de MFA concluída pelos usuários**
+### <a name="mfa-configuration-on-a-csp-tenant"></a>Configuração de MFA em um locatário de CSP
+
+Essa métrica está relacionada à configuração de MFA em um locatário de CSP que é capturado e relatado diariamente. Ele mede o percentual de contas de usuário habilitadas com a MFA imposta usando qualquer uma das [opções de MFA](https://aka.ms/partner-mfa-get-started). Por exemplo:
+
+- A Contoso é um parceiro CSP com 110 contas de usuário no locatário, 10 das quais estão desabilitadas. 
+- Das 100 contas de usuário restantes, 90 têm o uso de MFA imposto pelas [opções de MFA](https://aka.ms/partner-mfa-get-started) fornecidas. Portanto, a métrica mostra 90%. 
+
+### <a name="partner-center-activities-with-mfa"></a>Atividades do Partner Center com MFA
+
+Cada vez que seus funcionários entram no Partner Center para trabalhar ou, por meio de APIs, obter ou enviar dados por meio do Partner Center, seu status de segurança é desafiado e acompanhado. Também estão incluídos no acompanhamento de status de segurança os seus aplicativos e todos os aplicativos de fornecedor do painel de controle. O status exibido é referente aos 7 dias anteriores.
+
+#### <a name="mfa-verification-completed-by-users"></a>Verificação de MFA concluída pelos usuários
 
 Essa métrica está relacionada às atividades no Painel do Partner Center. Ela mede o percentual de operações realizadas por usuários que concluíram a verificação da MFA. Por exemplo:
 
@@ -67,7 +76,7 @@ Essa métrica está relacionada às atividades no Painel do Partner Center. Ela 
 - Nenhuma outra operação foi realizada por nenhum dos agentes nos 4 dias restantes.
 - Das 10 operações feitas na janela de 7 dias, 2 foram feitas pelo usuário com a verificação de MFA. Portanto, a métrica mostrará 20%.
 
-**Autenticação aplicativo + usuário**
+#### <a name="appuser-authentication"></a>Autenticação aplicativo + usuário
 
 Essa métrica está relacionada ao uso de solicitações de API do Partner Center feitas usando a Autenticação aplicativo + usuário. Ela mede o percentual de solicitações de API feitas usando um token de acesso com a declaração da MFA. Por exemplo:
 
@@ -116,7 +125,7 @@ Se você estiver usando uma solução de MFA de terceiros, identifique como est�
 
 Pode ser útil identificar quais usuários estão fazendo logon no Partner Center sem a verificação da MFA e verificá-los com sua implementação de MFA atual. Você poderá usar o [relatório de entrada do Azure AD](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins) para descobrir se um usuário concluiu ou não a verificação da MFA. O relatório de entrada do Azure AD está disponível apenas para parceiros que se inscreveram no Azure AD Premium ou em qualquer SKU do O365 que inclui o Azure AD Premium (por exemplo, EMS).
 
-**Para saber mais**
+**Para obter mais informações**
 
 - [Comunidade do grupo de diretrizes de segurança do Partner Center](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)
 - [Requisitos de segurança do Partner Center](partner-security-requirements.md)
