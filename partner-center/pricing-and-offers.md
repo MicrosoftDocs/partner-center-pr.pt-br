@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0e81ead73308902e75b842c00bbd32ed228ca3a5
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ca270413291ba0d09ca03d9b8b270a65f77a46b1
+ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004945"
+ms.lasthandoff: 01/03/2020
+ms.locfileid: "75631808"
 ---
 # <a name="pricing-and-offers"></a>Preços e ofertas
 
@@ -42,7 +42,7 @@ Serviços baseados em licença incluem uma prévia da lista de preços, fornecid
 
 |**Item**        |**Definição**      |
 |:-----------   |:-----------   |
-|ADD   |Um novo item na lista de preços|
+|ADICIONAR   |Um novo item na lista de preços|
 |CHG   |Alterações no preço de lista de mês a mês. Outras alterações não relacionadas ao preço da lista podem ocorrer, os parceiros devem comparar outras propriedades do mês com o mês para determinar outras alterações.|
 |DEL   |Um item removido da lista de preços|
 |UNC   |Preço de lista inalterado na relação de preços do mês anterior  |
@@ -79,7 +79,7 @@ O CSP oferece alguns serviços para segmentos de mercado especiais, por exemplo,
 
 |**Segment**   |**Quem precisa se qualificar**   |**O parceiro qualifica o cliente**|**Tipos de produtos habilitados**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|Parceiro e cliente|Sim|Somente baseado em licença|
+|Formação educacional|Cliente|Não, a qualificação do cliente será executada pela Microsoft |Somente baseado em licença|
 |Sem fins lucrativos|Cliente|Não, o cliente se qualifica fora do Partner Center|Somente baseado em licença|
 |GCC (Government Community Cloud)|Parceiro e cliente|Após o GCC habilitado, o parceiro pode criar clientes GCC| Somente baseado em licença|
 |Gov do Azure|Parceiro|Uma vez qualificado, o parceiro opera em um locatário do CSP específico para o Azure gov|Recursos do Azure|
