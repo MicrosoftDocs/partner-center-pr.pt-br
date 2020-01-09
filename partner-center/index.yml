@@ -11,13 +11,13 @@ metadata:
   author: LauraBrenner
   ms.author: labrenne
   manager: evansma
-  ms.date: 12/09/2019
-  ms.openlocfilehash: fcd60389ddc743b63d49dba58d8d18a4842760f7
-  ms.sourcegitcommit: 5117782b6f9067894c1c319d022291c6c4219cac
+  ms.date: 01/07/2020
+  ms.openlocfilehash: 67ef0323742dcf32950559adbb86cd899f2589e5
+  ms.sourcegitcommit: 0053114ee7568ac980813d3aa673cbb72cc0b186
   ms.translationtype: HT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 12/16/2019
-  ms.locfileid: "75033512"
+  ms.lasthandoff: 01/07/2020
+  ms.locfileid: "75717351"
 highlightedContent:
   items:
   - title: Entre para ver os comunicados mais recentes
@@ -32,9 +32,9 @@ highlightedContent:
   - title: Visão geral do Marketplace comercial
     itemType: whats-new
     url: csp-commercial-marketplace-overview.md
-  - title: Práticas recomendadas de segurança e autenticação multifator
+  - title: Insights do Partner Center
     itemType: overview
-    url: partner-security-requirements.md
+    url: partner-center-insights.md
   - title: A nova experiência de comércio no Partner Center – plano do Azure
     itemType: whats-new
     url: azure-plan-get-started.md
@@ -48,14 +48,14 @@ conceptualContent:
       text: Criar uma conta do Partner Center
     - url: manage-locations.md
       itemType: how-to-guide
-      text: Gerencie seus locais
-    - url: azure-active-directory-tenants-and-partner-center.md
+      text: Gerenciar os locais da empresa
+    - url: marketplace-rewards.md
       itemType: how-to-guide
-      text: Gerencie seu locatário
+      text: Gerenciar o Marketplace Rewards
     footerLink:
       url: partner-center-account-setup.md
       text: Veja mais
-  - title: Conecte-se com clientes
+  - title: Conectar-se com clientes
     links:
     - url: confirm-customer-agreement.md
       itemType: how-to-guide
@@ -69,7 +69,7 @@ conceptualContent:
     footerLink:
       url: customer-accounts.md
       text: Veja mais
-  - title: Amplie seus negócios
+  - title: Amplie seu negócio
     links:
     - url: referrals.md
       itemType: how-to-guide
@@ -87,10 +87,10 @@ conceptualContent:
     links:
     - url: billing-basics.md
       itemType: how-to-guide
-      text: Noções básicas de cobrança
+      text: Noções básicas sobre cobrança
     - url: read-your-bill.md
       itemType: how-to-guide
-      text: Ler sua cobrança
+      text: Leia sua fatura
     - url: tax-and-tax-exemptions.md
       itemType: how-to-guide
       text: Impostos e isenções fiscais
@@ -118,7 +118,7 @@ conceptualContent:
       text: Ofereça suporte aos seus clientes
     - url: check-service-health.md
       itemType: how-to-guide
-      text: Verificar a integridade do serviço
+      text: Verifique a integridade do serviço
     - url: report-problems-with-partner-center.md
       itemType: how-to-guide
       text: Relate problemas do Partner Center
