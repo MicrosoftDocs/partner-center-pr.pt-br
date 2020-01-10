@@ -10,12 +10,12 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: ofertas do Marketplace, suporte de marketing, recompensas, benefícios do Publicador
 ms.localizationpriority: medium
-ms.openlocfilehash: 576401337337693f69987e620fc852dce837ad2e
-ms.sourcegitcommit: 369aceafc54e960ac0bd3a023edc85b06361492b
+ms.openlocfilehash: f508b69ba03920ab65d7155a4ce5100335aed970
+ms.sourcegitcommit: 0053114ee7568ac980813d3aa673cbb72cc0b186
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/12/2019
-ms.locfileid: "75010397"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "75717331"
 ---
 # <a name="manage-marketplace-rewards"></a>Gerenciar recompensas do Marketplace
 
@@ -40,11 +40,11 @@ A qualificação para recompensas do Marketplace é calculada com base em todos 
 
 Em seguida, faça o seguinte:
 
-a. Selecione um usuário na lista. Se o usuário que você deseja atribuir não estiver na lista, você poderá adicionar novos usuários nas configurações de conta.
+  - Selecione um usuário na lista. Se o usuário que você deseja atribuir não estiver na lista, você poderá adicionar novos usuários nas configurações de conta.
 
-b. Forneça um endereço de email para o usuário que seja diferente do endereço de email associado à conta do Partner Center da sua empresa. Enviaremos instruções por email para usar suas recompensas do Marketplace para o endereço de email do contato de marketing designado.
+  - Forneça um endereço de email para o usuário que seja diferente do endereço de email associado à conta do Partner Center da sua empresa. Enviaremos instruções por email para usar suas recompensas do Marketplace para o endereço de email do contato de marketing designado.
 
-c. Forneça o telefone de contato e o idioma preferencial para esse contato de marketing. Depois de concluir a inserção dessas informações, selecione **Atribuir usuário**.
+  - Forneça o telefone de contato e o idioma preferencial para esse contato de marketing. Depois de concluir a inserção dessas informações, selecione **Atribuir usuário**.
 
 4. Depois de atualizar o contato de marketing, selecione **Ativar** para o benefício que você deseja começar a usar. Depois de ativar um benefício, seu contato de marketing será contatado por um membro da equipe de recompensas dentro de uma semana.
 

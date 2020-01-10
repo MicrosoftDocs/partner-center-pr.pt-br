@@ -1,25 +1,31 @@
 ---
 title: Tipos de encargo de arquivo de reconciliação | Centro de parceiros
 ms.topic: article
-ms.date: 08/26/2019
+ms.date: 01/06/2020
 description: Tipos de encargos (baseados em licença, com base no uso e uma única vez), créditos e descontos em arquivos de reconciliação do Partner Center.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 064ed6dda28f5a8ace64942d55ef2a6327528ff5
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: b18a2a7d53e2f9d35baac2412c1710c21d6d98eb
+ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389804"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "75716867"
 ---
 # <a name="understand-charge-types"></a>Entender os tipos de encargo
 
-Aplica-se a:
+**Aplica-se a**
 
 - Partner Center
 - Partner Center do Microsoft Cloud for US Government
+
+**Funções apropriadas**
+
+- Agente administrativo
+- Administrador de cobrança
+- Administração global
 
 Este tópico descreve os mapeamentos entre uma seção de fatura e os tipos de encargos associados que podem estar em seu arquivo de reconciliação. Sua fatura fornece um resumo de encargos. O arquivo de reconciliação fornece uma divisão detalhada das transações de item de linha, incluindo tipos de encargo. Para obter mais informações sobre arquivos de reconciliação, consulte [como usar arquivos de reconciliação](use-the-reconciliation-files.md).
 
@@ -40,9 +46,12 @@ Para mapear esses encargos baseados em licenças para sua fatura, some a coluna 
 | ------------------------------------------------------------- | ------------------ |
 | Taxa de ativação | O valor cobrado para o cliente quando ele usa a assinatura após a compra. |
 | Taxa de cancelamento | Encargos rateado reembolsados ao cliente quando as estações associadas são alteradas. |
-| Taxa do ciclo | Cobranças periódicas de uma assinatura. |
+| Cancelar ocorrência proporcional | Encargos rateado cancelados quando o cliente com a assinatura mensal tem uma assinatura suspensa e estações associadas foram alteradas no mesmo mês. |
+| Taxa do Ciclo | Cobranças periódicas de uma assinatura. |
 | Proporcional à instância do ciclo | Encargos rateado avaliados do cliente quando as estações associadas são alteradas. |
 | Taxas proporcionais durante o cancelamento | Reembolso rateado para parte não usada do serviço após o cancelamento. |
+| Taxa de taxas ao converter da oferta atual | Encargos rateado após a conversão da assinatura mensal atual em uma assinatura anual. |
+| Taxas de taxa ao converter em uma nova oferta | Encargos rateado após a conversão de uma assinatura mensal em uma nova assinatura anual. |
 | Taxas proporcionais na compra | O tipo de encargo para uma assinatura ao usar a cobrança anual. |
 | Valor de compra | O tipo de encargo para uma assinatura ao usar a cobrança mensal. |
 | Taxa proporcional ao renovar | Taxas rateada após a renovação da assinatura. |
@@ -58,7 +67,7 @@ Para mapear esses encargos de uma vez para sua fatura, some a coluna de **valor*
 | Novo | Usado quando uma nova compra é criada. |
 | addQuantity | Usado tanto no reembolso da compra original quanto na nova quantidade após um aumento. |
 | removeQuantity | Usado tanto no reembolso da compra original quanto na nova quantidade após uma diminuição. |
-| Cancel | Usado quando uma assinatura é cancelada. |
+| Cancelar | Usado quando uma assinatura é cancelada. |
 | Converter | Usado quando uma licença é atualizada, mas o número de estações permanece inalterado. |
 
 ## <a name="usage-charges"></a>Tarifas de uso
@@ -67,8 +76,8 @@ Para mapear esses encargos de uso para sua fatura, some a coluna **PretaxCharges
 
 | Descrição da cobrança (coluna Chargetype no arquivo de reconciliação) | Explicação da cobrança |
 | ------------------------------------------------------------- | ------------------ |
-| Avaliar a taxa de uso ao cancelar | Taxa de uso de acesso no cancelamento para uso não pago durante o período de cobrança atual. |
-| Avalie a taxa de uso para o ciclo atual | Taxa de uso de acesso para o período de cobrança atual. |
+| Avaliar a taxa de uso ao cancelar | Taxa de uso de acesso ao cancelamento para uso não pago durante o período de faturamento atual. |
+| Avalie a taxa de uso para o ciclo atual | Taxa de uso de acesso para o período de faturamento atual. |
 
 ### <a name="credits"></a>Créditos
 
