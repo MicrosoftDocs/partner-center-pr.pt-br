@@ -1,18 +1,18 @@
 ---
 title: Arquivos de reconciliação de uso com classificação diária | Centro de parceiros
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 01/08/2020
 description: Saiba como ler arquivos de reconciliação de uso com classificação diária no Partner Center.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d7de5da8529aefb325961ac5c139a9375b66f7e0
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 02a6b708ff0d5f1cc000c82caacbef0174e0ef3d
+ms.sourcegitcommit: bd76d42044ed4e3266395455a1956b2f9ccece76
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721859"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75776477"
 ---
 # <a name="daily-rated-usage-reconciliation-files"></a>Arquivos de reconciliação de uso com classificação diária
 
@@ -37,42 +37,50 @@ Este tópico explica como ler arquivos de reconciliação de uso com classifica�
 | PartnerID | Identificador de parceiro no formato GUID. |
 | PartnerName | Nome do parceiro. |
 | CustomerID | Identificador exclusivo da Microsoft para o cliente no formato GUID. |
-| CustomerCompanyName | Nome da organização do cliente como informado no Partner Center. *Essa coluna é muito importante para reconciliar a fatura com as informações do sistema.* |
+| CustomerName | Nome da organização do cliente como informado no Partner Center. *Essa coluna é muito importante para reconciliar a fatura com as informações do sistema.* |
 | CustomerDomainName | O nome de domínio do cliente. Não disponível para a atividade atual. |
-| País do cliente | O país em que o cliente está localizado. |
-| ID do MPN | Identificador de MPN do parceiro CSP. |
-| MPNID do revendedor | Identificador MPN do revendedor do registro para a assinatura. Não disponível para a atividade atual. |
+| CustomerCountry | O país em que o cliente está localizado. |
+| MpnId | Identificador de MPN do parceiro CSP. |
+| Tier2MpnId | Identificador MPN do revendedor do registro para a assinatura. Não disponível para a atividade atual. |
 | InvoiceNumber | Número da fatura na qual a transação especificada é exibida. Não disponível para a atividade atual. |
 | ProductId | O identificador do produto. |
 | SkuId | O identificador de um SKU específico. |
 | AvailabilityId | O identificador para a disponibilidade de um SKU específico. Isso mostra se o SKU está disponível para compra no país, moeda, segmento do setor, etc. |
-| Nome do SKU | O título de uma SKU em particular. |
-| PublisherName | O nome do Publicador. |
-| PublisherID | O identificador do Publicador no formato GUID. Não disponível para a atividade atual. |
-| Descrição da assinatura | O nome da oferta de serviço comprada pelo cliente, conforme definido na tabela de preços. (Este é um campo idêntico a **oferecer**). |
-| ID da assinatura | Identificador exclusivo de uma assinatura na plataforma de cobrança da Microsoft. Não usado para reconciliação. *Esse identificador não é o mesmo que a **ID de assinatura** no console de administração do parceiro.* |
+| SkuName | O título de uma SKU em particular. |
+| ProductName | O nome do produto. |
+| PublisherName | O nome do editor. |
+| PublisherId | O identificador do Publicador no formato GUID. Não disponível para a atividade atual. |
+| SubscriptionDescription | O nome da oferta de serviço comprada pelo cliente, conforme definido na tabela de preços. (Este é um campo idêntico a **oferecer**). |
+| SubscriptionID | Identificador exclusivo de uma assinatura na plataforma de cobrança da Microsoft. Não usado para reconciliação. *Esse identificador não é o mesmo que a **ID de assinatura** no console de administração do parceiro.* |
 | ChargeStartDate | Data de início do ciclo de cobrança (exceto ao apresentar datas de dados de uso latentes anteriormente não cobrados do ciclo de cobrança anterior). A hora é sempre o início do dia, 0:00. |
 | ChargeEndDate | Data de término do ciclo de cobrança (exceto ao apresentar datas de dados de uso latentes anteriormente não cobrados do ciclo de biling anterior). A hora é sempre o fim do dia, 23:59. |
-| Data de uso | Data de uso do serviço. |
-| Tipo de medidor | O tipo de medidor. |
-| Categoria do medidor | O serviço de nível superior para o uso. |
-| ID do medidor | O identificador do medidor que está sendo usado. |
-| Subcategoria do medidor | O tipo de serviço do Azure, que pode afetar a taxa. |
-| Nome do medidor | A unidade de medida para o medidor que está sendo consumido. |
-| Região do medidor | Essa coluna identifica a localização de um data center dentro da região para serviços onde isso é aplicável e preenchido. |
+| UsageDate | Data de uso do serviço. |
+| MeterType | O tipo de medidor. |
+| MeterCategory | O serviço de nível superior para o uso. |
+| MeterId | O identificador do medidor que está sendo usado. |
+| MeterSubCategory | O tipo de serviço do Azure, que pode afetar a taxa. |
+| MeterName | A unidade de medida para o medidor que está sendo consumido. |
+| MeterRegion | Essa coluna identifica a localização de um data center dentro da região para serviços onde isso é aplicável e preenchido. |
 | Unidade | A unidade do **nome**do recurso. |
-| Quantidade consumida | A quantidade de serviço consumida (como *horas* ou *GB*) durante o período de relatório. Inclui qualquer uso não cobrado dos períodos de relatório anteriores. |
-| Local do recurso | > o data center onde o medidor está em execução. |
-| Serviço consumido | O serviço da plataforma do Azure que você usou. |
-| URI de recurso | O URI do recurso que está sendo usado. |
-| Tipo de cobrança | O tipo de encargo ou ajuste. Não disponível para a atividade atual. |
-| Preço unitário | Preço por licença, conforme publicado na lista de preços no momento da compra. Verifique se esse preço corresponde às informações armazenadas em seu sistema de cobrança durante a reconciliação. |
+| ResourceLocation | O data center onde o medidor está em execução. |
+| ConsumedService | O serviço da plataforma do Azure que você usou. |
+| ResourceGroup | Representa um contêiner que mantém recursos relacionados para uma solução do Azure, |
+| ResourceURI | O URI do recurso que está sendo usado. |
+| ChargeType | O tipo de encargo ou ajuste. Não disponível para a atividade atual. |
+| UnitPrice | Preço por licença, conforme publicado na lista de preços no momento da compra. Verifique se esse preço corresponde às informações armazenadas em seu sistema de cobrança durante a reconciliação. |
 | Quantity | Número de licenças. Verifique se esse preço corresponde às informações armazenadas em seu sistema de cobrança durante a reconciliação. |
-| Tipo de unidade | O tipo de unidade em que o medidor é cobrado. Não disponível para a atividade atual. |
-| Pré-imposto de cobrança | Valor total de cobrança antes dos impostos. |
-| Moeda de cobrança | A moeda na região geográfica do cliente. |
-| Preço custo total | O preço antes da adição de impostos. |
-| Moeda de preços | A moeda na lista de preços. |
-| Informações de serviço 1 | O número de conexões do barramento de serviço que foram provisionadas e utilizadas em um determinado dia. |
-| Informações de serviço 2 | Um campo herdado que captura metadados específicos do serviço opcionais. |
-| Informações adicionais | Quaisquer informações adicionais não abordadas em outras colunas. |
+| UnitType | O tipo de unidade em que o medidor é cobrado. Não disponível para a atividade atual. |
+| BillingPreTaxTotal | Valor total de cobrança antes dos impostos. |
+| BillingCurrency | A moeda na região geográfica do cliente. |
+| PricingPreTaxTotal | O preço antes da adição de impostos. |
+| PricingCurrency | A moeda na lista de preços. |
+| ServiceInfo1 | O número de conexões do barramento de serviço que foram provisionadas e utilizadas em um determinado dia. |
+| ServiceInfo2 | Um campo herdado que captura metadados específicos do serviço opcionais. |
+| Marcas | Representa uma organização lógica dos recursos do Azure definidos pelo usuário. |
+| AdditionalInfo | Quaisquer informações adicionais não abordadas em outras colunas. |
+| EffectiveUnitPrice | O valor real cobrado por unidade, incluindo descontos, crédito acumulado, etc. |
+| PCToBCExchangeRate | Taxa de câmbio aplicada para a moeda de preço à moeda de cobrança. |
+| PCToBCExchangeRateDate | A data na qual a moeda de preço para a moeda de cobrança é determinada. |
+| EntitlementId | Representa a ID da assinatura do Azure. |
+| EntitlementDescription | Representa o nome da ID da assinatura do Azure. |
+| PartnerEarnedCreditPercentage | Exibe o PartnerEarnedCredit para o item de linha. O crédito acumulado será de 0 ou 15 por cento |

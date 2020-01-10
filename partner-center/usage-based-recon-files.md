@@ -1,18 +1,18 @@
 ---
 title: Arquivos de reconciliação com base no uso | Centro de parceiros
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 01/08/2020
 description: Todos os itens em seu arquivo de reconciliação baseado em uso explicado, com exemplos.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: b73962b1e9d2925b0e61632a18522a1c22e4d346
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: d0b50240ec62f10a202c3ad0de3d6425aec878ef
+ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943379"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75757219"
 ---
 # <a name="usage-based-file-fields"></a>Campos de arquivo baseado em uso
 
@@ -31,10 +31,10 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 | ------ | ----------- | ------------ |
 | PartnerID | Identificador de parceiro, no formato GUID. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | PartnerName | Nome do parceiro. | *Contoso, Ltd.* |
-| PartnerBillableAccountID | Identificador de conta de parceiro. | *1010578050* |
-| CustomerName | Nome da organização do cliente, conforme relatado no Partner Center. *Muito importante para reconciliar a fatura com as informações do sistema.* | *Cliente de teste* |
-| ID do MPN | Identificador de MPN do parceiro CSP. | *4390934* |
-| ResellerMPNID | Identificador MPN do revendedor do registro para a assinatura. Para obter mais informações, consulte [como discriminar por parceiro](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
+| PartnerBillableAccountId | Identificador de conta de parceiro. | *1010578050* |
+| CustomerCompanyName | Nome da organização do cliente, conforme relatado no Partner Center. *Muito importante para reconciliar a fatura com as informações do sistema.* | *Cliente de teste* |
+| MpnId | Identificador de MPN do parceiro CSP. | *4390934* |
+| ResellerMpnId | Identificador MPN do revendedor do registro para a assinatura. Não disponível para a atividade atual. |
 | InvoiceNumber | Número da fatura na qual a transação especificada é exibida. | *D020001IVK* |
 | ChargeStartDate | Data de início do ciclo de faturamento, exceto ao apresentar datas de dados de uso latente anteriormente não cobertos (do ciclo de faturamento anterior). A hora é sempre o início do dia, 0:00. | *2/1/2019 0:00* |
 | ChargeEndDate | Data final do ciclo de faturamento, exceto ao apresentar datas de dados de uso latente anteriormente não cobertos (do ciclo de faturamento anterior). A hora é sempre o fim do dia, 23:59. | *2/28/2019 23:59* |
@@ -44,7 +44,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 | OrderID | Identificador exclusivo para um pedido na plataforma de cobrança da Microsoft. Pode ser útil identificar a assinatura ao entrar em contato com o suporte. Não usado para reconciliação. | *566890604832738111* |
 | ServiceName | O nome do serviço do Azure em questão. | *MÁQUINAS VIRTUAIS* |
 | ServiceType | O tipo específico de serviço do Azure. | *Barramento de serviço – individual ou pacote*, *banco de dados SQL Azure – Business ou Web Edition* |
-| ResourceGUID | Identificador exclusivo específico de toda a estrutura de serviço de dados e preço. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
+| ResourceGuid | Identificador exclusivo específico de toda a estrutura de serviço de dados e preço. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | ResourceName | O nome do recurso do Azure. | *Transferência de dados em (GB)* , *transferência de dados de saída (GB)* |
 | Region | A região à qual o uso se aplica. Usado principalmente para atribuir taxas às transferências de dados, pois as tarifas variam por região. | *Pacífico Asiático*, *Europa*, *América Latina*, *América do Norte* |
 | SKU | Identificador exclusivo da Microsoft para uma oferta. | *7UD-00001* |
@@ -60,6 +60,10 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 | PretaxEffectiveRate | Preço por unidade sem imposto. Igual a **PretaxCharges** dividido por **OverageQuantity**, arredondado para a cento mais próxima. | *$0.08* |
 | PostTaxEffectiveRate | Preço pós-imposto por unidade. Igual a **PostTaxTotal** dividido por **OverageQuantity**, arredondado para a cento mais próxima. Ou, igual a **PretaxEffectiveRate** mais argumentos taxa de impostos por unidade Amoun, arredondado para a Centa mais próxima. | *$0.08* |
 | ChargeType | O [tipo de encargo](recon-file-charge-types.md) ou ajuste. | Consulte [tipos de cobrança](recon-file-charge-types.md). |
+| CustomerID | Identificador exclusivo da Microsoft para o cliente, no formato GUID. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
+| DomainName | Nome de domínio do cliente. Este campo pode aparecer em branco até o segundo ciclo de cobrança. | *example.onmicrosoft.com* |
+| BillingCycleType | Frequência de cobrança de tempo.| **Mensalmente**  |
+| Unidade | A unidade do **nome**do recurso. | *GB* ou *horas* |
 | CustomerBillableAccount | Identificador de conta exclusivo na plataforma de cobrança da Microsoft. | *1280018095* |
 | UsageDate | Data da implantação do serviço. | *2/1/2019 0:00* |
 | MeteredRegion | Identifica o local de um data center dentro da região (para serviços em que esse valor é aplicável e preenchido). | *Ásia Oriental*, *sul Ásia Oriental*, *Europa Setentrional*, *Europa Ocidental*, *norte EUA Central*, *Sul EUA Central* |
@@ -67,6 +71,3 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 | MeteredServiceType | Subtítulo para o campo **MeteredService** que fornece esclarecimentos adicionais sobre o uso do serviço do Azure. | *EXTERNAL* |
 | Projeto | Nome definido pelo cliente para sua instância de serviço. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | ServiceInfo | O número de conexões do barramento de serviço do Azure que foram provisionadas e utilizadas em um determinado dia. | *1, 0 conexões/30 dias* (se você tiver uma conexão provisionada individualmente durante um mês de 30 dias), *25 conexões/30 dias – usado: 1, 0* (se você tiver um pacote de 25 pacotes de conexões de barramento de serviço provisionado e utilizado 1 durante esse dia) |
-| CustomerID | Identificador exclusivo da Microsoft para o cliente, no formato GUID. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
-| DomainName | Nome de domínio do cliente. Este campo pode aparecer em branco até o segundo ciclo de cobrança. | *example.onmicrosoft.com* |
-| Unidade | A unidade do **nome**do recurso. | *GB* ou *horas* |

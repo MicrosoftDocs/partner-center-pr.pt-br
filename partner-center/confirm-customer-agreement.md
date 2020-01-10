@@ -1,7 +1,7 @@
 ---
 title: Confirmar a aceitação do cliente do contrato do cliente da Microsoft |Partner Center
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 01/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Saiba como confirmar a aceitação do cliente do contrato do cliente da Microsoft. Isso pode ser necessário para solicitar produtos e serviços da Microsoft para clientes.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: cliente, clientes, consentimento, MCA, contrato de Microsoft Cloud, contrato de cliente da Microsoft, modelos de contrato de cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 8beee9ed9035ff846c6e9d84fefd0c5c2ba255de
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 33eddc437360cb80071bf98187a7d4e23b820fb9
+ms.sourcegitcommit: 99a8b2daf52d455d33f15945d52efbcc8ff551c8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721364"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "75752575"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confirmar a aceitação do cliente do contrato do cliente da Microsoft
 
@@ -55,7 +55,7 @@ Os parceiros podem usar a API/SDK do Partner Center para confirmar a aceitação
 
 
 ## <a name="confirm-customer-acceptance-in-partner-center"></a>Confirmar a aceitação do cliente no Partner Center
-Os parceiros podem confirmar a aceitação do cliente do contrato de cliente da Microsoft no Partner Center para novos clientes e clientes existentes.
+Os parceiros podem confirmar a aceitação do cliente do contrato de cliente da Microsoft no Partner Center para novos clientes e clientes existentes. Os revendedores não podem atestar em nome de seus clientes e precisam trabalhar com seu provedor indireto para que o atestado seja concluído.
 
 ### <a name="confirm-customer-acceptance-for-new-customers"></a>Confirmar a aceitação do cliente para novos clientes
 

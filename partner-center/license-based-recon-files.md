@@ -1,18 +1,18 @@
 ---
 title: Arquivos de reconciliação com base em licença | Centro de parceiros
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 01/08/2020
 description: Entenda os arquivos de reconciliação baseados em licença no Partner Center.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 60ab5404f3cc2d825a110e61bd7c6bf5744bb786
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 7b7e3140ddcbdbaa5ff75203928b890abc2db852
+ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004590"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75757179"
 ---
 # <a name="license-based-reconciliation-files"></a>Arquivos de reconciliação baseados em licença
 
@@ -35,6 +35,9 @@ Para reconciliar as alterações em relação aos pedidos de um cliente, compare
 | ------ | ----------- | ------------ |
 | PartnerID | Identificador exclusivo no formato GUID para uma entidade de cobrança específica. Não é necessário para reconciliação. O mesmo em todas as linhas. | *8ddd03642-test-test-test-46b58d356b4e* |
 | CustomerID | Identificador exclusivo da Microsoft para o cliente no formato GUID. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
+| CustomerName | Nome da organização do cliente, conforme relatado no Partner Center. *Campo muito importante para reconciliar a fatura com as informações do sistema.* | *Testar cliente A* |
+| MpnId | Identificador de MPN do parceiro CSP. Veja [como discriminar por parceiro](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
+| ResellerMpnId | Identificador MPN do revendedor do registro para a assinatura. Não disponível para a atividade atual. |
 | OrderID | Identificador exclusivo para um pedido na plataforma de cobrança da Microsoft. Pode ser útil identificar a ordem ao contatar o suporte. Não usado para reconciliação. | *566890604832738111* |
 | SubscriptionID | Identificador exclusivo de uma assinatura na plataforma de cobrança da Microsoft. Pode ser útil identificar a assinatura ao entrar em contato com o suporte. Não usado para reconciliação. *Esse valor não é o mesmo que a **ID da assinatura** no console do administrador do parceiro. Consulte **SyndicationPartnerSubscriptionNumber** em vez disso.* | *usCBMgAAAAAAAAIA* |
 | SyndicationPartnerSubscriptionNumber | Identificador exclusivo para assinaturas. Um cliente pode ter várias assinaturas para o mesmo plano. Essa coluna é importante para a análise de arquivo de reconciliação. Esse campo é mapeado para a **ID da assinatura** no console do administrador do parceiro. | *fb977ab5-test-test-test-24c8d9591708* |
@@ -54,9 +57,7 @@ Para reconciliar as alterações em relação aos pedidos de um cliente, compare
 | Tax | Encargo do valor do imposto. Com base nas regras de imposto do mercado e em circunstâncias específicas. | *0* |
 | TotalForCustomer | Total com imposto. Verifica se o imposto é cobrado na fatura. | *11* |
 | Currency | Tipo de moeda. Cada entidade de cobrança tem somente uma moeda. Verifique se ele corresponde à sua primeira fatura. Verifique novamente após as principais atualizações da plataforma de cobrança. | *$* |
-| CustomerName | Nome da organização do cliente, conforme relatado no Partner Center. *Campo muito importante para reconciliar a fatura com as informações do sistema.* | *Testar cliente A* |
-| ID do MPN | Identificador de MPN do parceiro CSP. Veja [como discriminar por parceiro](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
-| ResellerMPNID | Identificador MPN do revendedor do registro para a assinatura. Veja [como discriminar por parceiro](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
 | DomainName | Nome de domínio do cliente. Este campo pode aparecer em branco até o segundo ciclo de cobrança. *Não use esse campo como um identificador exclusivo para o cliente. O cliente/parceiro pode atualizar o intuitivo ou o domínio padrão por meio do portal do Office 365.* | *example.onmicrosoft.com* |
 | SubscriptionName | Apelido da Inscrição. Se nenhum apelido for especificado, o Partner Center usará o **offername**. | *PROJETO ONLINE* |
 | SubscriptionDescription | O nome da oferta de serviço comprada pelo cliente, conforme definido na tabela de preços. (Este é um campo idêntico a **oferecer**.) | *PROJECT ONLINE PREMIUM SEM CLIENTE DO PROJETO* |
+| BillingCycleType | Frequência de cobrança única.| *Mensalmente* |
