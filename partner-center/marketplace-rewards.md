@@ -1,7 +1,7 @@
 ---
 title: Gerenciar recompensas do Marketplace | Centro de parceiros
 ms.topic: article
-ms.date: 12/11/2019
+ms.date: 01/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Os parceiros que publicam ofertas para o Marketplace comercial estão qualificados para os benefícios que oferecem suporte de marketing.
@@ -10,12 +10,12 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: ofertas do Marketplace, suporte de marketing, recompensas, benefícios do Publicador
 ms.localizationpriority: medium
-ms.openlocfilehash: f508b69ba03920ab65d7155a4ce5100335aed970
-ms.sourcegitcommit: 0053114ee7568ac980813d3aa673cbb72cc0b186
+ms.openlocfilehash: 512d23bbf3962119b48af89dd08546692a49a0dd
+ms.sourcegitcommit: 75ed00af0b12086f7a51b8d22a3bfc9a02c5d657
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "75717331"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "75942897"
 ---
 # <a name="manage-marketplace-rewards"></a>Gerenciar recompensas do Marketplace
 
@@ -53,4 +53,23 @@ Em seguida, faça o seguinte:
 1. Você pode usar seu benefício técnico para solicitar assistência técnica durante as fases de pré-vendas, design, implantação e desenvolvimento de aplicativos de sua nuvem e de suas soluções híbridas. Para solicitar assistência, preencha o formulário de solicitação e, em seguida, selecione **Enviar solicitação**.
 
 2. Como fazer uso dos benefícios do patrocínio do Azure será compartilhado por meio de um email à medida que você desbloquear esses benefícios. 
+
+## <a name="why-cant-i-see-the-commercial-rewards-marketplace-program-on-my-dashboard"></a>Por que não consigo ver o programa do Marketplace de recompensas comerciais em meu painel?
+
+As informações de recompensas do Marketplace estão disponíveis por meio do locatário do Azure AD e da ID do MPN que foi usada para criar sua conta do Partner Center. Essa conta é chamada de conta global principal (PGA) da sua empresa. Se seu locatário do AAD for diferente daquele usado para integração do MPN, para que você veja o menu de prêmios comerciais, você precisará associá-lo ao PGA da sua empresa. 
+
+### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Para associar um locatário do Azure AD ao PGA da sua empresa
+
+1. Como o administrador global ou administrador da conta, entre no PGA no Partner Center.
+
+2. Selecione **configurações** (no canto superior direito), **configurações de parceiro**, **locatários**. 
+
+3. Selecione **associar outro locatário do Azure ad** e selecione o locatário do Azure AD que você deseja associar ao PGA.
+
+4. Adicione o nome de usuário e a senha de qualquer usuário no locatário do Azure AD que você deseja associar e selecione **Enviar**.
+
+5. Saia do Partner Center e, em seguida, entre usando o nome de usuário e a senha do locatário que você acabou de associar ao PGA.
+
+6. Agora, você poderá ver as informações do programa do Marketplace de recompensas comerciais no menu de navegação à esquerda.
+
 
