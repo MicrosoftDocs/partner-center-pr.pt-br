@@ -1,7 +1,7 @@
 ---
 title: Gerenciar sua conta do Partner Center | Partner Center
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 01/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Gerencie as informações de perfil, de catálogo, bancárias e fiscais de sua empresa, funções, permissões e muito mais no Partner Center.
@@ -10,23 +10,23 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 62131fa6590898dcb6d59e4bee0f6edb68dfba0c
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: f8f15782dec3177596ad5cf0f680f2dfbf34bf84
+ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005015"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75757199"
 ---
-# <a name="manage-your-partner-center-account"></a>Gerencie sua conta do Partner Center
+# <a name="manage-your-partner-center-account"></a>Gerenciar sua conta do Partner Center
 
 **Aplica-se a**
 
 -  Partner Center
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 -   Administrador de usuários
--   Agente administrador
+-   Agente administrativo
 
 A conta que você cria no Partner Center ao se inscrever é seu email de trabalho mais suas informações comerciais. Após a criação de uma conta no Partner Center, você ou seu administrador precisará concluir a configuração do perfil completo da sua empresa, incluindo detalhes de suporte, isenções de impostos (se apropriado) e informações do contato principal. 
 
@@ -45,8 +45,10 @@ Você ou seu administrador também precisará criar contas de usuário para quem
 |Examinar as permissões que cada função envolve|[Atribuir permissões e funções de usuários](permissions-overview.md)
 |Gerenciar os locais da empresa|[Gerenciar sua conta do Partner Center: Locais](manage-locations.md)
 |Se um funcionário esquecer a senha e você precisar redefini-la  |[Redefinir uma senha de usuário](reset-a-user-password.md)|
+|Inscrever-se no Partner Center como um Fornecedor de Painel de Controle|[Inscrever-se no Partner Center como um Fornecedor de Painel de Controle](enroll-as-cpv.md)|
+|Associar sua conta do Microsoft Learn ao Partner Center|[Associar sua conta do Microsoft Learn ao Partner Center](ms-learn-associate.md)|
 |Verifique se sua empresa está disponível no mercado para que os clientes possam encontrar você   |[Criar um perfil de negócios](create-a-marketing-profile.md)|
-|Organize seu catálogo para que os produtos mais importantes estejam na parte superior da lista   |[Personalize o catálogo](customize-the-catalog.md)|
+|Organize seu catálogo para que os produtos mais importantes estejam na parte superior da lista   |[Personalizar o catálogo](customize-the-catalog.md)|
 |Mantenha-se atualizado em termos de preços e ofertas atuais   |[Preços e ofertas](pricing-and-offers.md)|
 
 

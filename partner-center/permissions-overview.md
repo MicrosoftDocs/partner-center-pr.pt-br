@@ -9,17 +9,17 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: funções, permissões, administrador, agente
 ms.localizationpriority: high
-ms.openlocfilehash: e0f53e2f1aae51a1287a2e347fa9014b5d75ea03
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: bf7b1d2b029f2ce4558a2b24c3e1f12a63813339
+ms.sourcegitcommit: bd76d42044ed4e3266395455a1956b2f9ccece76
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004125"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75776497"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Atribuir permissões e funções de usuários
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 -   Administrador de usuários
 -   Administrador de parceiros do MPN
 
@@ -36,7 +36,7 @@ Você determinará os tipos de acesso que os usuários terão ao Partner Center 
 
 |**Função**|**O que eles podem fazer**|
 |----------------------------------|:---------------------------------|
-|Administração global|• Podem acessar todas as contas/os serviços da Microsoft com todos os privilégios
+|Administrador global|• Podem acessar todas as contas/os serviços da Microsoft com todos os privilégios
 |      |• Criar tíquetes de suporte para o Partner Center
 ||• Exibir contratos, listas de preços e ofertas
 ||• Exibir, criar e gerenciar usuários parceiros|
@@ -46,7 +46,7 @@ Você determinará os tipos de acesso que os usuários terão ao Partner Center 
 ||• Exibir, criar e gerenciar usuários parceiros  |
 |Administrador de cobrança | – Exibir, criar e gerenciar a cobrança, as faturas e os arquivos reconhecimento|
 |Usuário padrão|  Exibir meu perfil   |
-|Agente administrador | • Gerenciamento de clientes
+|Agente administrativo | • Gerenciamento de clientes
 ||• Adicionar lista de dispositivos ao Partner Center
 ||• Criar e aplicar perfis aos dispositivos
 ||• Gerenciamento de assinaturas
@@ -75,7 +75,7 @@ Os CPVs desenvolvem aplicativos para uso por parceiros CSP (Provedor de Soluçõ
 
 |**Função**   |**O que você pode fazer**|
 |------------------------------|:----------------------------|
-|Administração global| Exibir e gerenciar seu perfil de CPV|
+|Administrador global| Exibir e gerenciar seu perfil de CPV|
 ||Exibir e gerenciar todos os seus usuários que precisam de acesso aos recursos de CPV|
 
 ### <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Usuário convidado (deve ser adicionado ao locatário do AAD)
@@ -135,6 +135,13 @@ Os CPVs desenvolvem aplicativos para uso por parceiros CSP (Provedor de Soluçõ
 ||• Poderá exibir e iniciar reivindicações de incentivos
 ||• Exibir lucros de reembolso e de cooperação
 ||• Acessar suporte
+
+## <a name="view-partner-center-insights-data"></a>Exibir dados de Insights do Partner Center
+
+|**Função** | **O que você pode fazer**|
+|------------------------------|:-------------------------|
+|Visualizador de relatórios executivos|Acesso a todos os conjuntos de dados de relatórios|
+|Visualizador de relatórios|Acesso a relatórios de dados com exceção de receita e dados pessoais de clientes e funcionários|
 
 
 
