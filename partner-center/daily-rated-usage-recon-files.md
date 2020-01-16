@@ -1,18 +1,18 @@
 ---
 title: Arquivos de reconciliação de uso com classificação diária | Centro de parceiros
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 01/14/2020
 description: Saiba como ler arquivos de reconciliação de uso com classificação diária no Partner Center.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 02a6b708ff0d5f1cc000c82caacbef0174e0ef3d
-ms.sourcegitcommit: bd76d42044ed4e3266395455a1956b2f9ccece76
+ms.openlocfilehash: a9c7f328cf1a10b4a23aeb775524d5931bdbb703
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75776477"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021728"
 ---
 # <a name="daily-rated-usage-reconciliation-files"></a>Arquivos de reconciliação de uso com classificação diária
 
@@ -38,18 +38,18 @@ Este tópico explica como ler arquivos de reconciliação de uso com classifica�
 | PartnerName | Nome do parceiro. |
 | CustomerID | Identificador exclusivo da Microsoft para o cliente no formato GUID. |
 | CustomerName | Nome da organização do cliente como informado no Partner Center. *Essa coluna é muito importante para reconciliar a fatura com as informações do sistema.* |
-| CustomerDomainName | O nome de domínio do cliente. Não disponível para a atividade atual. |
+| CustomerDomainName | O nome de domínio do cliente. |
 | CustomerCountry | O país em que o cliente está localizado. |
 | MpnId | Identificador de MPN do parceiro CSP. |
-| Tier2MpnId | Identificador MPN do revendedor do registro para a assinatura. Não disponível para a atividade atual. |
-| InvoiceNumber | Número da fatura na qual a transação especificada é exibida. Não disponível para a atividade atual. |
+| Tier2MpnId | Identificador MPN do revendedor do registro para a assinatura. |
+| InvoiceNumber | Número da fatura na qual a transação especificada é exibida. |
 | ProductId | O identificador do produto. |
 | SkuId | O identificador de um SKU específico. |
 | AvailabilityId | O identificador para a disponibilidade de um SKU específico. Isso mostra se o SKU está disponível para compra no país, moeda, segmento do setor, etc. |
 | SkuName | O título de uma SKU em particular. |
 | ProductName | O nome do produto. |
 | PublisherName | O nome do editor. |
-| PublisherId | O identificador do Publicador no formato GUID. Não disponível para a atividade atual. |
+| PublisherId | O identificador do Publicador no formato GUID. |
 | SubscriptionDescription | O nome da oferta de serviço comprada pelo cliente, conforme definido na tabela de preços. (Este é um campo idêntico a **oferecer**). |
 | SubscriptionID | Identificador exclusivo de uma assinatura na plataforma de cobrança da Microsoft. Não usado para reconciliação. *Esse identificador não é o mesmo que a **ID de assinatura** no console de administração do parceiro.* |
 | ChargeStartDate | Data de início do ciclo de cobrança (exceto ao apresentar datas de dados de uso latentes anteriormente não cobrados do ciclo de cobrança anterior). A hora é sempre o início do dia, 0:00. |
@@ -64,12 +64,12 @@ Este tópico explica como ler arquivos de reconciliação de uso com classifica�
 | Unidade | A unidade do **nome**do recurso. |
 | ResourceLocation | O data center onde o medidor está em execução. |
 | ConsumedService | O serviço da plataforma do Azure que você usou. |
-| ResourceGroup | Representa um contêiner que mantém recursos relacionados para uma solução do Azure, |
+| ResourceGroup | Representa um contêiner que mantém recursos relacionados para uma solução do Azure. |
 | ResourceURI | O URI do recurso que está sendo usado. |
-| ChargeType | O tipo de encargo ou ajuste. Não disponível para a atividade atual. |
+| ChargeType | O tipo de encargo ou ajuste.  |
 | UnitPrice | Preço por licença, conforme publicado na lista de preços no momento da compra. Verifique se esse preço corresponde às informações armazenadas em seu sistema de cobrança durante a reconciliação. |
 | Quantity | Número de licenças. Verifique se esse preço corresponde às informações armazenadas em seu sistema de cobrança durante a reconciliação. |
-| UnitType | O tipo de unidade em que o medidor é cobrado. Não disponível para a atividade atual. |
+| UnitType | O tipo de unidade em que o medidor é cobrado.  |
 | BillingPreTaxTotal | Valor total de cobrança antes dos impostos. |
 | BillingCurrency | A moeda na região geográfica do cliente. |
 | PricingPreTaxTotal | O preço antes da adição de impostos. |

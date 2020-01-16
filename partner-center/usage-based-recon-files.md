@@ -1,18 +1,18 @@
 ---
 title: Arquivos de reconciliação com base no uso | Centro de parceiros
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 01/14/2020
 description: Todos os itens em seu arquivo de reconciliação baseado em uso explicado, com exemplos.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d0b50240ec62f10a202c3ad0de3d6425aec878ef
-ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
+ms.openlocfilehash: e4ce3427f52ccde8f61fa553f3fa0af79bff0a95
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75757219"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021746"
 ---
 # <a name="usage-based-file-fields"></a>Campos de arquivo baseado em uso
 
@@ -34,7 +34,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 | PartnerBillableAccountId | Identificador de conta de parceiro. | *1010578050* |
 | CustomerCompanyName | Nome da organização do cliente, conforme relatado no Partner Center. *Muito importante para reconciliar a fatura com as informações do sistema.* | *Cliente de teste* |
 | MpnId | Identificador de MPN do parceiro CSP. | *4390934* |
-| ResellerMpnId | Identificador MPN do revendedor do registro para a assinatura. Não disponível para a atividade atual. |
+| ResellerMpnId | Identificador MPN do revendedor do registro para a assinatura.  |
 | InvoiceNumber | Número da fatura na qual a transação especificada é exibida. | *D020001IVK* |
 | ChargeStartDate | Data de início do ciclo de faturamento, exceto ao apresentar datas de dados de uso latente anteriormente não cobertos (do ciclo de faturamento anterior). A hora é sempre o início do dia, 0:00. | *2/1/2019 0:00* |
 | ChargeEndDate | Data final do ciclo de faturamento, exceto ao apresentar datas de dados de uso latente anteriormente não cobertos (do ciclo de faturamento anterior). A hora é sempre o fim do dia, 23:59. | *2/28/2019 23:59* |

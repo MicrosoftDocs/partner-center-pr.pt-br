@@ -1,18 +1,18 @@
 ---
 title: Arquivos de reconciliação com base em licença | Centro de parceiros
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 01/14/2020
 description: Entenda os arquivos de reconciliação baseados em licença no Partner Center.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b7e3140ddcbdbaa5ff75203928b890abc2db852
-ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
+ms.openlocfilehash: 304c727fea7605f52fc0b99625d21cc6d148a585
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75757179"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021736"
 ---
 # <a name="license-based-reconciliation-files"></a>Arquivos de reconciliação baseados em licença
 
@@ -37,7 +37,7 @@ Para reconciliar as alterações em relação aos pedidos de um cliente, compare
 | CustomerID | Identificador exclusivo da Microsoft para o cliente no formato GUID. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
 | CustomerName | Nome da organização do cliente, conforme relatado no Partner Center. *Campo muito importante para reconciliar a fatura com as informações do sistema.* | *Testar cliente A* |
 | MpnId | Identificador de MPN do parceiro CSP. Veja [como discriminar por parceiro](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
-| ResellerMpnId | Identificador MPN do revendedor do registro para a assinatura. Não disponível para a atividade atual. |
+| ResellerMpnId | Identificador MPN do revendedor do registro para a assinatura.  |
 | OrderID | Identificador exclusivo para um pedido na plataforma de cobrança da Microsoft. Pode ser útil identificar a ordem ao contatar o suporte. Não usado para reconciliação. | *566890604832738111* |
 | SubscriptionID | Identificador exclusivo de uma assinatura na plataforma de cobrança da Microsoft. Pode ser útil identificar a assinatura ao entrar em contato com o suporte. Não usado para reconciliação. *Esse valor não é o mesmo que a **ID da assinatura** no console do administrador do parceiro. Consulte **SyndicationPartnerSubscriptionNumber** em vez disso.* | *usCBMgAAAAAAAAIA* |
 | SyndicationPartnerSubscriptionNumber | Identificador exclusivo para assinaturas. Um cliente pode ter várias assinaturas para o mesmo plano. Essa coluna é importante para a análise de arquivo de reconciliação. Esse campo é mapeado para a **ID da assinatura** no console do administrador do parceiro. | *fb977ab5-test-test-test-24c8d9591708* |
