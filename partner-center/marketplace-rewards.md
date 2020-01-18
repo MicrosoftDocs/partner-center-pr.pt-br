@@ -10,14 +10,14 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: ofertas do Marketplace, suporte de marketing, recompensas, benefícios do Publicador
 ms.localizationpriority: medium
-ms.openlocfilehash: 512d23bbf3962119b48af89dd08546692a49a0dd
-ms.sourcegitcommit: 75ed00af0b12086f7a51b8d22a3bfc9a02c5d657
+ms.openlocfilehash: 8ed3def75a294b5b6050eedccb1cf8d6a5bebfc0
+ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "75942897"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "76171209"
 ---
-# <a name="manage-marketplace-rewards"></a>Gerenciar recompensas do Marketplace
+# <a name="manage-marketplace-rewards"></a>Gerenciar o Marketplace Rewards
 
 Funções apropriadas:
 
@@ -56,7 +56,7 @@ Em seguida, faça o seguinte:
 
 ## <a name="why-cant-i-see-the-commercial-rewards-marketplace-program-on-my-dashboard"></a>Por que não consigo ver o programa do Marketplace de recompensas comerciais em meu painel?
 
-As informações de recompensas do Marketplace estão disponíveis por meio do locatário do Azure AD e da ID do MPN que foi usada para criar sua conta do Partner Center. Essa conta é chamada de conta global principal (PGA) da sua empresa. Se seu locatário do AAD for diferente daquele usado para integração do MPN, para que você veja o menu de prêmios comerciais, você precisará associá-lo ao PGA da sua empresa. 
+As informações de recompensas do Marketplace estão disponíveis por meio do locatário do Azure AD e da ID do MPN que foi usada para criar sua conta do Partner Center. Essa conta é chamada de conta global do parceiro (PGA) da sua empresa. Se seu locatário do AAD for diferente daquele usado para integração do MPN, para que você veja o menu de prêmios comerciais, você precisará associá-lo ao PGA da sua empresa. 
 
 ### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Para associar um locatário do Azure AD ao PGA da sua empresa
 

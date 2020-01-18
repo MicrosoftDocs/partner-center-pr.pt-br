@@ -1,20 +1,20 @@
 ---
 title: A estrutura de conta no Partner Center | Centro de parceiros
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 01/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba mais sobre os dois níveis de contas no Partner Center, a conta global principal (PGA) e a conta de localização do parceiro (PLA).
+description: Saiba mais sobre os dois níveis de contas no Partner Center, a conta global do parceiro (PGA) e a conta de localização do parceiro (PLA).
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 3a0a7d0ba985f9610198a64aa87411b1a7da16bd
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 65693c6145c6510995badac757f88a982b9a94d5
+ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722318"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "76171191"
 ---
 # <a name="the-account-structure-in-partner-center"></a>A estrutura de conta no Partner Center
 
@@ -32,11 +32,11 @@ ms.locfileid: "74722318"
 
 Sua empresa tem dois níveis de contas no Partner Center.
 
-### <a name="the-top-level-is-the-primary-global-account-pga"></a>O nível superior é a conta global principal (PGA).
+### <a name="the-top-level-is-the-partner-global-account-pga"></a>O nível superior é a conta global do parceiro (PGA).
 
-- A conta global principal contém o endereço comercial legal e o contato principal da sua empresa. 
-- Exiba os detalhes da sua conta global principal nas configurações de parceiro-perfil de parceiro >.
-- Os detalhes também conterão a ID de MPN da conta global primária. 
+- A conta global do parceiro contém o endereço comercial legal e o contato principal da sua empresa. 
+- Exiba os detalhes da sua conta global do parceiro nas configurações do parceiro – perfil de parceiro >.
+- Os detalhes também conterão a ID MPN da conta global do parceiro. 
 - O PGA é o pai da sua empresa e não é usado para associar a programas de incentivos ou ao provedor de soluções na nuvem. 
 - Os locais devem ser usados para essas associações.
 
@@ -46,7 +46,7 @@ O PGA pode ter locais de negócios adicionais sob ele. Cada local tem sua própr
 
 - Cada conta de local do parceiro pode ter seu próprio endereço legal e contato principal. Os locais também podem compartilhar o endereço legal com a conta global ou com outros locais.
 - Exiba a lista de contas de local de parceiro nas configurações de parceiro – locais de >.
-- Todas as contas de local estão no mesmo nível e na conta global principal.
+- Todas as contas de local estão no mesmo nível e na conta global do parceiro.
 - Os administradores de contas podem adicionar ou remover locais.
 
 ![Estrutura da conta](images/accountstructure.png)
