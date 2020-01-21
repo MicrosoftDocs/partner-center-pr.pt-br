@@ -338,7 +338,7 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 |  Líbano        |   USD    |
 |  Lesoto        |   USD    |
 |  Líbia          |          |
-|  Macedônia, República da|   |
+|  Macedônia do Norte, República da|   |
 |  Mauritânia     |   USD    |
 |  Moldova        |          |
 |  Mongólia       |          |
