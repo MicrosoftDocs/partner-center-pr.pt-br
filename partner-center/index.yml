@@ -12,12 +12,12 @@ metadata:
   ms.author: labrenne
   manager: evansma
   ms.date: 01/07/2020
-  ms.openlocfilehash: 67ef0323742dcf32950559adbb86cd899f2589e5
-  ms.sourcegitcommit: 0053114ee7568ac980813d3aa673cbb72cc0b186
+  ms.openlocfilehash: 1eeb71d01af72c4ecd76e632e68ce4739fdbf5cd
+  ms.sourcegitcommit: 7de04911b790c603625ed51cc6f8ec80ebefae2d
   ms.translationtype: HT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 01/07/2020
-  ms.locfileid: "75717351"
+  ms.lasthandoff: 01/23/2020
+  ms.locfileid: "76549641"
 highlightedContent:
   items:
   - title: Entre para ver os comunicados mais recentes
@@ -37,7 +37,7 @@ highlightedContent:
     url: partner-center-insights.md
   - title: A nova experiência de comércio no Partner Center – plano do Azure
     itemType: whats-new
-    url: azure-plan-get-started.md
+    url: azure-plan-lp.md
 conceptualContent:
   title: Trabalhando no Partner Center
   items:

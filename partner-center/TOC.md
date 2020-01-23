@@ -121,7 +121,7 @@
 ## [Criar vários usuários para um cliente](adding-multiple-users-to-a-customer-account.md)
 ## [Atribuir contatos de suporte](assign-support-contacts.md)
 
-# [Ofertas de CSP](csp-offers.md)
+# [Ofertas de CSP](csp-offers.md) 
 ## Marketplace comercial
 ### [Visão geral do marketplace comercial](csp-commercial-marketplace-overview.md)
 ### [Ofertas do marketplace](csp-commercial-marketplace-discover.md)
@@ -135,7 +135,8 @@
 ### [Comprar Reservas do Microsoft Azure em nome de seus clientes](azure-reservations-buying.md)
 ### [Gerenciar Reservas do Microsoft Azure em nome de seus clientes](azure-reservations-manage.md)
 ### [Instâncias de VM reservadas do Azure (RI) + assinaturas de servidor](azure-ri-server-subscriptions.md)
-## [Plano do Azure – introdução](azure-plan-get-started.md)
+## [Plano do Azure](azure-plan-lp.md)
+### [Plano do Azure – introdução](azure-plan-get-started.md)
 ### [Comprar o plano do Azure](purchase-azure-plan.md)
 ### [Comparar as ofertas do Azure](compare-azure-offers.md)
 ### [Transferir seus clientes para o plano do Azure](azure-plan-transition.md)
