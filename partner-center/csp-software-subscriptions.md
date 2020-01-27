@@ -1,7 +1,7 @@
 ---
 title: Vender assinaturas de software por meio do CSP | Partner Center
 ms.topic: article
-ms.date: 12/18/2019
+ms.date: 01/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os parceiros no programa CSP podem usar o Partner Center para comprar, gerenciar, vender e cancelar as instâncias reservadas do Azure e as assinaturas de servidor para os clientes.
@@ -10,12 +10,12 @@ ms.author: evansma
 keywords: Provedor de soluções na nuvem, CSP, serviços baseados em nuvem, Azure, RI do Azure, Windows Server, SQL Server, assinaturas de software, cancelar software
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 733c8ab6c2d15109011dfa240c2ce5954d748fea
-ms.sourcegitcommit: 855b2aed1c395b199d8aaba88ac08cc277f474ea
+ms.openlocfilehash: d943128d93fb52e67f4eba346a3338cd429ef57b
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "75190237"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723433"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vender assinaturas de software por meio do CSP
 
@@ -158,17 +158,19 @@ Siga as etapas abaixo para cancelar uma compra:
 
 5. Localize a compra de software que você deseja cancelar e selecione **Cancelar**. Será exibida uma caixa de diálogo.
 
-6. Na lista suspensa número do pedido, selecione o número da ID do pedido correto que você deseja cancelar e, em seguida, selecione **Enviar**.
+6. Na lista suspensa número do pedido, selecione o número da ID do pedido correto que você deseja cancelar. (Você pode saber mais sobre um número de pedido ou de ID da ordem na página de **histórico do pedido** do cliente.)
 
-7. Se desejar cancelar vários pedidos de um cliente, você precisará executar as etapas 4 a 6 novamente para cada um, número de ID de pedido exclusivo. (Você pode saber mais sobre um número de pedido ou de ID da ordem na página de **histórico do pedido** do cliente.)
+7. Marque a caixa de seleção para confirmar que você leu a mensagem **importante** sobre o cancelamento. (Consulte a observação **importante** abaixo para saber mais sobre o que acontece depois de cancelar uma compra.)
 
-8. Quando você tenta cancelar um pedido, o Partner Center também pode fornecer outras informações (que aparecem abaixo da lista suspensa número do pedido). Essas informações podem incluir:
+8. Selecione **Enviar** para cancelar sua compra. Se desejar cancelar vários pedidos de um cliente, você precisará executar as etapas 4 a 6 novamente para cada um, número de ID de pedido exclusivo.
 
-    - Quantos dias restam para você cancelar essa ordem específica
+Quando você tenta cancelar um pedido, o Partner Center também pode fornecer outras informações (que aparecem abaixo da lista suspensa número do pedido). Essas informações podem incluir:
 
-    - Se você já passou a janela de cancelamento e não pode mais cancelar o pedido
+* Quantos dias restam para você cancelar essa ordem específica
 
-    - Se precisar de mais informações sobre sua solicitação de cancelamento, você poderá receber um link para um formulário de **solicitação de suporte ao cliente** .
+* Se você já passou a janela de cancelamento e não pode mais cancelar o pedido
+
+* Se precisar de mais informações sobre sua solicitação de cancelamento, você poderá receber um link para um formulário de **solicitação de suporte ao cliente** .
 
 >[!IMPORTANT]
 >Depois de cancelar um pedido, uma mensagem confirmando seu cancelamento será exibida. Pode haver um atraso de até 15 minutos, no entanto, antes de o cancelamento aparecer no painel do Partner Center. Observe também os seguintes detalhes de pós-cancelamento.

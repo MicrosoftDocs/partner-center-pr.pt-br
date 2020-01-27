@@ -1,36 +1,88 @@
 ---
-title: Exibir suas informações de pagamentos de incentivos | Centro de parceiros
+title: Exibir seus pagamentos de incentivos e programas | Centro de parceiros
 ms.topic: article
-ms.date: 06/03/2019
+ms.date: 01/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Veja os lucros e pagamentos de cada um dos programas de incentivo. Isso inclui a página de pagamentos, a página de histórico de transações e o status de pagamento, bem como a exportação de dados.
+description: Exiba, gerencie ou exporte dados sobre o status atual de programas de incentivo, ganhos e pagamentos, incluindo ganhos de incentivos por programa e local.
 author: LauraBrenner
 ms.author: labrenne
+keywords: incentivos, pagamentos, pagamentos, programa de incentivo, locais, status do programa
 ms.localizationpriority: medium
-ms.openlocfilehash: e8eccf310c9ff920fbbfcf0494da6e1fb4010c44
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 8f68977251416c9f70c84cd4f722a2c09a9535d5
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943179"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723463"
 ---
-# <a name="view-your-incentives-payments-information"></a>Exibir suas informações de pagamentos de incentivos
+# <a name="view-your-incentive-payments-and-programs"></a>Exibir seus pagamentos de incentivos e programas
 
 **Aplica-se a**
 
 -  Partner Center
 
-Use essas páginas para exibir detalhes dos pagamentos anteriores, pendentes e futuros, bem como seu histórico de transações completo. Você também pode baixar ou exportar informações detalhadas para qualquer transação. Todas as páginas de incentivos mostram valores em dólares americanos. 
+**Funções apropriadas**
 
->[!Note]
+-  Administrador de incentivos
+-  Usuário de incentivos 
+-  Visualizador somente leitura de incentivo
+-  Administração global
+-  Administrador de parceiros do MPN
+
+Use essas páginas para exibir detalhes dos pagamentos e ganhos anteriores, pendentes e futuros, o status dos seus programas de incentivo em cada local e o histórico completo da transação. Você também pode baixar ou exportar informações detalhadas para qualquer transação. Todas as páginas de incentivos mostram valores em dólares americanos.
+
+>[!NOTE]
 >Você só verá dados para IDs e programas MPN aos quais está associado. Se você quiser acessar dados adicionais, consulte o administrador de incentivos. 
 
-
 ## <a name="access-the-incentives-pages"></a>Acessar as páginas de incentivos
-Para abrir uma das páginas de incentivos:
-1. Selecione o ícone de **dinheiro** no canto superior direito.
-2. Selecione **pagamentos**, **histórico de transações**ou **exportar dados**.
+
+Você pode acessar as informações de incentivos de algumas maneiras no [painel](https://partner.microsoft.com/dashboard)do Partner Center:
+
+- Selecione **incentivos** no menu à esquerda. Várias opções aparecem em **incentivos**, incluindo **visão geral**. Explore essas opções para saber o status dos programas de incentivos, pagamentos de incentivos, ganhos e reivindicações.
+- Selecione o ícone de **dinheiro** (pagamento) no canto superior direito. Em seguida, você pode selecionar outras opções, **como histórico de transações**, **pagamentos**, **exportar dados** ou **relatório de vendas do Office**.
+
+As páginas a seguir são descritas aqui:
+
+- Página de visão geral de meus incentivos
+- Página de pagamentos
+- Página Histórico de transações
+- Exportar página de dados e outras páginas de exportação associadas
+
+>[!NOTE]
+>Para obter mais informações sobre incentivos e recursos de incentivo no Partner Center, consulte [investimentos em parceiros e incentivos](https://partner.microsoft.com/membership/partner-incentives) (entrada necessária).
+
+## <a name="my-incentives-overview-page"></a>Página de visão geral de meus incentivos
+
+**Minha visão geral de incentivos** mostra o status geral dos seus programas de incentivo, bem como o status de cada programa em cada local. Essas informações incluem ganhos de incentivos e pagamentos totais desde que você se inscreveu em programas de incentivo.
+
+Também estão incluídas nesta página os ganhos e pagamentos por local ou programa, bem como outras ações que talvez você precise executar para se registrar em um programa em um local específico.
+
+Para acessar **minha visão geral de incentivos**:
+
+1. Entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center.
+2. Selecione **incentivos**e, em seguida, **visão geral** no menu.
+3. Exiba o resumo de ganhos e pagamentos na parte superior da página e mais detalhes na tabela a seguir. Você também pode classificar, agrupar e expandir a tabela que o acompanha:
+
+   - Para classificar por coluna, selecione o nome da coluna.
+   - Para agrupar por programa, selecione a guia **por programa** acima da tabela.
+   - Para agrupar por local, selecione a guia **por local** acima da tabela.
+   - Para exibir mais detalhes sobre os registros em um grupo específico, selecione o símbolo de divisa no final de uma determinada linha. Isso expande sua exibição.
+
+4. Se for necessária uma ação adicional para se registrar em um programa, essas informações aparecerão na coluna **status** . Nesse caso, selecione o símbolo de divisa para saber mais sobre as próximas etapas que você precisa tomar.
+
+>[!NOTE]
+>Consulte a tabela a seguir para saber mais sobre os diferentes Estados de registro mostrados na coluna **status** .
+
+
+| **Status**         | **Aparece quando** |
+|:------------------------------------|:------------------|
+| Ação necessária  | O parceiro aceitou um convite para se registrar em um programa de incentivo, mas talvez precise atualizar as informações bancárias ou de impostos. Consulte a coluna **ações necessárias** para obter as próximas etapas ou links para atualizar suas informações bancárias ou de impostos no Partner Center. |
+| Descontinuada  | O programa de incentivos específico não é mais oferecido no sistema de incentivos. |
+| Registrados  | Todas as informações de impostos e bancos foram validadas. Nenhuma ação de registro adicional é exigida pelo parceiro. |
+| Inactive  | O programa de incentivos pode não estar aberto para registro no momento ou o parceiro não atende à qualificação atual para registro ou reinscrição.  |
+| Convidado  | Um novo convite de registro de programa de incentivo foi enviado para o parceiro, mas o parceiro ainda não iniciou o processo de registro. A coluna adjacente **ações necessárias** mostra as próximas etapas e todos os links relacionados.  |
+| Validando o registro  | O parceiro já concluiu ou atualizou as informações bancárias e fiscais para um registro novo ou existente e está aguardando que a Microsoft valide essas informações. Durante o processo de validação, a **validação do registro** pode aparecer por até 48 horas.  |
 
 ## <a name="payments-page"></a>Página de pagamentos
 Os totais nesta página representam todas as IDs de MPN que você usa. Você pode filtrar por ID de participante, programa, ID de pagamento e tipo de conquista. Os valores são fornecidos em dólares americanos. O valor pago também é exibido em pagar para moeda. 
@@ -54,21 +106,21 @@ Para exportar qualquer um dos dados de transação nessa página, selecione **Ex
 
 ## <a name="payment-status"></a>Status do pagamento
 
-|**Ganhando status** |**Reason** |**Ação do parceiro necessária?**       |
+|**Ganhando status** |**Falha** |**Ação do parceiro necessária?**       |
 |------------------|:-------------------------------------|:-------------------------------------|
 |Não processados        | A conquista está qualificada para pagamento. Ele permanece nesse estado por um período de resfriamento, conforme definido no guia do programa do programa de incentivo.       |Não        |
-|Próximas      |A ordem de pagamento gerou revisões internas pendentes antes de o pagamento ser processado.       |Não       |
+|Cerimônia      |A ordem de pagamento gerou revisões internas pendentes antes de o pagamento ser processado.       |Não       |
 |Fatura de imposto pendente      |Sua fatura de imposto está incompleta ou inválida.          |Você precisa atualizar sua fatura de imposto antes de poder ser pago         |
 |Rejeitado durante a revisão        |O pagamento foi rejeitado durante a revisão.          |Contate o suporte da Microsoft para obter detalhes         |
 |Failed (Falha)        |O pagamento falhou devido a um erro do sistema da Microsoft.         |Contate o suporte da Microsoft para obter detalhes         |
 |Em andamento     |O pagamento está em andamento.         |Não         |
 |Pagamento incorreto        |A revitóriação de pagamento está em andamento.          |Não        |
-|Enviado        |O pagamento foi enviado ao seu banco.          |Não       |
+|Enviados        |O pagamento foi enviado ao seu banco.          |Não       |
 |Reprocessamento       |O pagamento encontrou um erro de sistema da Microsoft e está sendo reprocessado.           |Não         |
 |Inversão        |O pagamento foi revertido pelo seu banco e será enviado novamente no próximo ciclo de pagamento.          |Não        |
 |Fatura de imposto rejeitada       |A fatura do imposto foi rejeitada durante a revisão. Todos os pagamentos pendentes estarão em espera até que a revisão da fatura fiscal seja concluída.          |Contate o suporte da Microsoft para obter detalhes         |
 |Fatura de imposto em revisão        |Sua fatura de imposto está sendo revisada. Seu pagamento será liberado depois que a nota fiscal do imposto tiver sido aprovada.           |Não        |
-|Rejeitada        |O pagamento foi rejeitado pelo seu banco.           |Entre em contato com seu banco para obter detalhes.  |
+|Recusa        |O pagamento foi rejeitado pelo seu banco.           |Entre em contato com seu banco para obter detalhes.  |
 
 ## <a name="export-data-page"></a>Exportar página de dados
 Siga as instruções nesta página para exportar os dados desejados. 
@@ -83,7 +135,7 @@ Essa opção fornece um download dos pagamentos recebidos em seu banco para um d
 
 |**Nome da coluna**   |**Descrição**   |
 |------------------|:-------------------------------------|
-|participantID   |A principal identidade do parceiro ganhando sob o programa      |
+|participante da   |A principal identidade do parceiro ganhando sob o programa      |
 |participantIDType   |Geralmente MPN para programas de incentivo e ID do vendedor para programas da loja      |
 |participantename   |Nome do parceiro de conquista      |
 |programName   |Nome do programa de incentivo/loja      |
@@ -106,7 +158,7 @@ Essa opção fornece um download de cada item de linha de produção que você v
 |**Nome da coluna**   |**Descrição**   |
 |------------------|:-------------------------------------|
 |ganhandoid   |Identificador exclusivo para cada conquista   |
-|participantID   |A principal identidade do parceiro ganhando sob o programa   |
+|participante da   |A principal identidade do parceiro ganhando sob o programa   |
 |participantIDType   |Geralmente MPN para programas de incentivo e ID do vendedor para programas da loja   |
 |participantename   |Nome do parceiro de conquista   |
 |partnerCountryCode   |Localização/país do parceiro de conquista   |
@@ -130,7 +182,7 @@ Essa opção fornece um download de cada item de linha de produção que você v
 |paymentStatus   |Status do pagamento   |
 |paymentStatusDescription   |Descrição amigável do status de pagamento   |
 |customerId   |Identificador do cliente   |
-|customerName   |Nome do cliente da transação   |
+|Customer   |Nome do cliente da transação   |
 
 
 Além da tabela acima, esses campos de histórico de transações estarão disponíveis conforme aplicável para o programa.
@@ -148,9 +200,9 @@ Além da tabela acima, esses campos de histórico de transações estarão dispo
 |revendedorname   |Nome do revendedor   |
 |distribuidorid   |Identificador do distribuidor   |
 |distribuidorname   |Nome do distribuidor   |
-|agreementNumber   |Número do contrato   |
+|agreementNumber   |Número de contrato   |
 |agreementStartDate   |Data de início do contrato   |
 |agreementEndDate   |Data de término do contrato   |
-|carga de trabalho   |Carga de trabalho   |
+|pico   |Carga de trabalho   |
   
 
