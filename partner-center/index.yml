@@ -1,10 +1,10 @@
 ### YamlMime:Hub
 title: Documentação do Partner Center
-summary: O Partner Center ajuda você a expandir seus negócios por meio do Microsoft Partner Network (MPN), do programa CSP (Provedor de Soluções na Nuvem) e muito mais.
+summary: O Partner Center é o local para expandir seus negócios por meio do MPN (Microsoft Partner Network), do programa CSP (Provedor de Soluções na Nuvem) e de muitos outros.
 brand: windows
 metadata:
   title: Documentação do Partner Center
-  description: O Partner Center ajuda você a expandir seus negócios por meio do Microsoft Partner Network (MPN), do programa CSP (Provedor de Soluções na Nuvem) e muito mais.
+  description: O Partner Center é o local para expandir seus negócios por meio do MPN (Microsoft Partner Network), do programa CSP (Provedor de Soluções na Nuvem) e de muitos outros.
   ms.service: partner-dashboard
   ms.subservice: partnercenter-csp
   ms.topic: hub-page
@@ -12,12 +12,12 @@ metadata:
   ms.author: labrenne
   manager: evansma
   ms.date: 01/07/2020
-  ms.openlocfilehash: 1eeb71d01af72c4ecd76e632e68ce4739fdbf5cd
-  ms.sourcegitcommit: 7de04911b790c603625ed51cc6f8ec80ebefae2d
+  ms.openlocfilehash: b167e61908b30dff2c9531810d465411cd8089d8
+  ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
   ms.translationtype: HT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 01/23/2020
-  ms.locfileid: "76549641"
+  ms.lasthandoff: 01/24/2020
+  ms.locfileid: "76723423"
 highlightedContent:
   items:
   - title: Entre para ver os comunicados mais recentes
@@ -29,9 +29,12 @@ highlightedContent:
   - title: Participe do Programa de Usuário Pioneiro de API e SDK
     itemType: deploy
     url: https://docs.microsoft.com/partner-center/develop/early-adopter-program
-  - title: Visão geral do Marketplace comercial
+  - title: Venda ofertas de ISV
     itemType: whats-new
     url: csp-commercial-marketplace-overview.md
+  - title: 'Parceiros ISV: criem e publiquem ofertas no Marketplace, no AppSource e no canal do revendedor CSP'
+    itemType: whats-new
+    url: https://docs.microsoft.com/en-us/azure/marketplace/
   - title: Insights do Partner Center
     itemType: overview
     url: partner-center-insights.md
