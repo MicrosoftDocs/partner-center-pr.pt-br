@@ -10,14 +10,14 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cliente, adicionar cliente, conta do cliente, conta do cliente no Partner Center, clientes, adicionar clientes, criar conta do cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: a3c1977cefebc6599012856d8e0523cfa74e6a64
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 7a97dbbd72cf5b1a16d4cd4e805e4d33bf9c4b53
+ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722294"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76860437"
 ---
-# <a name="add-a-new-customer"></a>Adicionar um novo cliente
+# <a name="add-a-new-customer"></a>Adicionar um novo cliente 
 
 **Aplica-se a**
 
@@ -60,7 +60,7 @@ Antes de poder vender assinaturas, gerenciar a cobrança ou fornecer suporte a u
 
 7. Selecione **concluído** quando tiver terminado de adicionar as informações do cliente e comprado as assinaturas necessárias.
 
-## <a name="see-also"></a>Consulte também
+## <a name="see-also"></a>Veja também
 
 - Consulte [ofertas de parceiros no programa do provedor de soluções na nuvem](csp-offers.md) para obter mais informações sobre o que você pode vender aos clientes por meio do programa provedor de soluções na nuvem.
 

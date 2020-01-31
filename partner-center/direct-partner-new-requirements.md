@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: CSP, parceiro direto, cobrança direta, requisitos
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 64015b298618ef7292433f0aedb5016ef83c1905
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0b8a34d4539180d99bcb76396dcf3dad6a0cf699
+ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253586"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76860457"
 ---
 # <a name="csp-direct-bill-partner-new-requirements"></a>Novos requisitos para parceiros de cobrança direta do CSP
 
@@ -50,9 +50,11 @@ Depois que tivermos verificado que sua empresa atende aos requisitos de qualific
 
 ## <a name="transition-from-direct-to-indirect-reseller"></a>Transição do revendedor direto para indireto
 
+Os parceiros de fatura direta atuais devem atender aos novos requisitos para permanecerem no programa de parceiro de cobrança direto do CSP. Caso contrário, o [acesso aos recursos de cobrança direto eventualmente será restrito](restricted-direct-bill-capabilities.md) e poderá mais executar tarefas específicas, como fazer novas compras para seus clientes. 
+
 Se você decidir mudar de uma empresa de cobrança direta para um negócio indireto de revendedor, haverá várias etapas que você precisará tomar. Para saber mais sobre transição, consulte [transição do parceiro direto do CSP (provedor de soluções de nuvem) para o revendedor indireto do CSP](transition-direct-to-indirect.md). 
 
-## <a name="see-also"></a>Consulte também
+## <a name="see-also"></a>Veja também
 
 - [Informações adicionais sobre como se tornar um revendedor indireto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 - [Perguntas frequentes sobre cobrança direta do revendedor](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)

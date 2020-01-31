@@ -1,7 +1,7 @@
 ---
 title: Vender assinaturas de software por meio do CSP | Partner Center
 ms.topic: article
-ms.date: 01/21/2020
+ms.date: 01/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os parceiros no programa CSP podem usar o Partner Center para comprar, gerenciar, vender e cancelar as instâncias reservadas do Azure e as assinaturas de servidor para os clientes.
@@ -10,12 +10,12 @@ ms.author: evansma
 keywords: Provedor de soluções na nuvem, CSP, serviços baseados em nuvem, Azure, RI do Azure, Windows Server, SQL Server, assinaturas de software, cancelar software
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: d943128d93fb52e67f4eba346a3338cd429ef57b
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: 0ba3f32615fe02d843123180e4cb34176b28e09c
+ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723433"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76812648"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vender assinaturas de software por meio do CSP
 
@@ -135,7 +135,7 @@ Para fins de auditoria ou de conformidade, talvez seja necessário verificar uma
 Você pode cancelar uma compra de software dentro de 60 dias da data de compra. Se você cancelar dentro deste primeiro período de 60 dias, não será cobrado uma taxa de rescisão antecipada. Após 60 dias, você não poderá mais cancelar uma compra. (Consulte a observação para obter as principais restrições a essa regra de cancelamento. Para saber mais sobre o que acontece depois de cancelar uma compra de software, consulte também observação importante após estas etapas.) 
 
 >[!NOTE]
->As etapas a seguir para cancelar uma compra se aplicam somente ao software que se qualifica para cancelamento dentro de uma janela de cancelamento específica, como nos primeiros 60 dias após a compra. Observe que essas etapas para cancelar uma compra não se aplicam a compras de atualizações de segurança estendidas do Microsoft Windows 7 2020. (Para cancelar o Windows 7 ESU 2020, você precisa enviar uma solicitação de suporte ao cliente, conforme descrito posteriormente neste tópico.) Essas etapas também não se aplicam a um plano de software SUSE Linux ou RedHat no Azure. Neste momento, você não pode cancelar ou trocar um plano de software SUSE ou RedHat. [Saiba mais](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges) sobre como usar os planos SuSE Linux ou redhat.
+>As etapas a seguir para cancelar uma compra se aplicam somente ao software que se qualifica para cancelamento dentro de uma janela de cancelamento específica, como nos primeiros 60 dias após a compra. Essas etapas também não se aplicam a um plano de software SUSE Linux ou RedHat no Azure. Neste momento, você não pode cancelar ou trocar um plano de software SUSE ou RedHat. [Saiba mais](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges) sobre como usar os planos SuSE Linux ou redhat.
 
 Siga as etapas abaixo para cancelar uma compra:
 
@@ -166,11 +166,11 @@ Siga as etapas abaixo para cancelar uma compra:
 
 Quando você tenta cancelar um pedido, o Partner Center também pode fornecer outras informações (que aparecem abaixo da lista suspensa número do pedido). Essas informações podem incluir:
 
-* Quantos dias restam para você cancelar essa ordem específica
+- Quantos dias restam para você cancelar essa ordem específica
 
-* Se você já passou a janela de cancelamento e não pode mais cancelar o pedido
+- Se você já passou a janela de cancelamento e não pode mais cancelar o pedido
 
-* Se precisar de mais informações sobre sua solicitação de cancelamento, você poderá receber um link para um formulário de **solicitação de suporte ao cliente** .
+- Se precisar de mais informações sobre sua solicitação de cancelamento, você poderá receber um link para um formulário de **solicitação de suporte ao cliente** .
 
 >[!IMPORTANT]
 >Depois de cancelar um pedido, uma mensagem confirmando seu cancelamento será exibida. Pode haver um atraso de até 15 minutos, no entanto, antes de o cancelamento aparecer no painel do Partner Center. Observe também os seguintes detalhes de pós-cancelamento.
