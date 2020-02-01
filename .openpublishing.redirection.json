@@ -299,6 +299,16 @@
     "source_path": "partner-center/faq-about-new-billing-features.md",
     "redirect_url": "/partner-center/billing",
     "redirect_document_id": "FALSE"
-  } 
+  },
+  {
+    "source_path": "partner-center/vvr-faq.md",
+    "redirect_url": "/partner-center/software-assurance-dps.md",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/voucher-validation-tool.md",
+    "redirect_url": "/partner-center/software-assurance-dps.md",
+    "redirect_document_id": "FALSE"
+  }
  ]
 }
