@@ -1,19 +1,19 @@
 ---
 title: Programas do Software Assurance | Centro de parceiros
 ms.topic: article
-ms.date: 01/14/2019
+ms.date: 01/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Registre-se em um programa de Software Assurance para criar negócios e seja recompensado por fornecer treinamento e planejamento para clientes corporativos.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ff23573f4cc85964a81e544ead8fa876495bbd10
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: a4827a8c1fbfb04bb7fccff4bd22e7311eb7e08d
+ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943079"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "76915730"
 ---
 # <a name="participate-in-software-assurance-programs"></a>Participar de programas de Software Assurance
 
@@ -22,7 +22,4 @@ A participação nos programas de Software Assurance, incluindo comprovantes de 
 |**Para saber mais sobre**   |**Leia isto**   |
 |--------------------------|:------------------|
 |Registro no programa SATV (comprovantes de treinamento do Software Assurance)|[Programa de SATV (comprovantes de treinamento do Software Assurance) no Partner Center](software-assurance-satv.md)|
-|usando a ferramenta Voucher Validation and Redemption|[Usar a ferramenta de Validação e Resgate de Comprovante no Partner Center para validar, reservar e resgatar comprovantes](voucher-validation-tool.md)|
-|Registrando-se nos serviços de planejamento do Software Assurance|[Serviços de planejamento do Software Assurance no Partner Center](software-assurance-dps.md) 
-
-
+|Registrando-se nos serviços de planejamento do Software Assurance|[Serviços de planejamento do Software Assurance no Partner Center](software-assurance-dps.md) |

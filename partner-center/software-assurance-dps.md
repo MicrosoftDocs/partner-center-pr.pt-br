@@ -1,114 +1,110 @@
 ---
 title: Serviços de planejamento do Software Assurance no Partner Center | Centro de parceiros
 ms.topic: article
-ms.date: 01/21/2019
+ms.date: 01/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Registre-se no Planning Services para se qualificar para compensação da Microsoft para fornecer treinamento e outros serviços para clientes corporativos que têm o Software Assurance.
+description: Saiba como registrar-se e se qualificar nos contratos do Microsoft Planning Services para que você possa fornecer treinamento e outros serviços aos clientes com o Software Assurance.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: pré-implantação, planejamento, Software Assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 9eed58a3f7198a1ea02143a96fafe4bfd39e2848
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: a8bce7d7e9d52071af3ffc8c483a4aa4c40cc54f
+ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943419"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "76915750"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Serviços de planejamento do Software Assurance no Partner Center
 
-Amplie seus negócios registrando-se nos programas de serviços de planejamento do Software Assurance. A Microsoft compensa os parceiros para fornecer treinamento, planejamento e outros serviços para clientes corporativos que tenham Software Assurance.
+**Funções apropriadas**
+
+- Administrador global
+- Administrador do parceiro do MPN
 
 Como parceiro de serviços de planejamento aprovado, a Microsoft compensa você para fornecer compromissos de planejamento de pré-implantação para clientes empresariais. Participar deste programa pode ajudá-lo a atrair mais clientes, se tornar seu parceiro de planejamento confiável e levar a contratos de clientes adicionais.
 
-Se você não estiver familiarizado com os serviços de planejamento do Software Assurance, consulte [aumentar seus negócios com serviços de planejamento](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx).
-
-
 ## <a name="get-started"></a>Introdução
 
-Se você não estiver familiarizado com os serviços de planejamento do Software Assurance, siga todas as etapas abaixo. Se você já estiver ativo nos programas do Planning Services e as informações de sua conta de parceiro tiverem sido movidas para o Partner Center, comece na etapa quatro (4) abaixo. 
+Se você não estiver familiarizado com os serviços de planejamento do Software Assurance, siga todas as etapas abaixo. Se você já estiver ativo nos programas do Planning Services, inicie cada novo compromisso na etapa quatro (4) abaixo.
 
-1. Verificar a qualificação do programa 
-2. Inscrever-se em um programa de serviço de planejamento
-3. Atualizar perfil da empresa no diretório de parceiros
-4. Reservar um comprovante de cliente 
-5. Concluir compromisso e Enviar relatório de conclusão
-6. Resgatar comprovante 
-7. Solicitar pagamento da Microsoft
+1. Verificar elegibilidade (novos parceiros)
+2. Registrar (novos parceiros)
+3. Criar ou atualizar o perfil comercial da sua empresa (novos parceiros)
+4. O cliente cria e atribui comprovante (parceiros existentes)
+5. Validar e reservar comprovante (parceiros existentes)
+6. Concluir o envolvimento e fornecer resultados ao seu cliente (parceiros existentes)
+7. Resgatar comprovante no Partner Center (parceiros existentes)
+8. Solicitar pagamento da Microsoft (parceiros existentes)
 
 Este artigo explica como concluir cada etapa.
 
-## <a name="confirm-eligibility"></a>Confirmar elegibilidade
+## <a name="verify-eligibility-new-partners"></a>Verificar elegibilidade (novos parceiros)
 
-Antes de poder se registrar no programa Planning Services, sua empresa deve atender aos requisitos de treinamento de competência e conformidade, e o consultor líder do envolvimento do cliente deve atender aos requisitos técnicos de treinamento e exame. 
+Antes que empresas e consultores parceiros possam se registrar em uma das ofertas de serviços de planejamento, eles devem atender aos requisitos de treinamento de conformidade e requisitos de competência:
 
-Cada programa de serviço de planejamento tem requisitos exclusivos de qualificação. Consulte [verificar elegibilidade](https://planningservices.partners.extranet.microsoft.com/en/Pages/partnereligibilityrequirements.aspx) para obter mais informações sobre requisitos de qualificação de serviços de planejamento.
-
-Siga estas etapas para ver o status de qualificação da sua empresa.
-
-1. Selecione requisitos de > do Software Assurance no menu do Partner Center. 
-2. Selecione serviços de planejamento para abrir a guia serviços de planejamento.
-3. Verifique a coluna status de qualificação para ver o status da sua empresa para um programa específico de serviços de planejamento. 
-
-- Não iniciado | Você ainda não está qualificado para participar do programa. Selecione o nome do programa para ver o que você precisa fazer para atender aos requisitos de qualificação do programa.
-
-- Em andamento | Você começou o processo de atender aos requisitos de qualificação do programa, mas ainda tem mais a ver.
-
-- Ativo | Sua elegibilidade foi confirmada e você está pronto para começar a fornecer o serviço de planejamento para clientes corporativos. 
-
-4. Depois de verificar se sua empresa está qualificada para participar de um programa, direcione os participantes do programa da sua empresa para concluir o curso de treinamento de conformidade dos serviços de planejamento. 
-
-5. Depois que os participantes do programa da sua empresa concluírem o curso de treinamento necessário, retorne à [página de registro](https://planningservices.partners.extranet.microsoft.com/en/Pages/GetRegistered.aspx) e assine o contrato do provedor de programa do Microsoft Planning Service. 
-
-## <a name="enroll-in-the-planning-services-program"></a>Registrar-se no programa Planning Services
-
-Depois que sua empresa atender aos requisitos de qualificação para o programa Planning Services e os participantes do programa tiverem aprovado o curso de treinamento de conformidade, você estará pronto para se registrar. 
-
-Siga estas etapas para se registrar em um programa de serviço de planejamento.
-
-1. Preencha os requisitos de > do Software Assurance no menu do Partner Center. 
-2. Selecione serviços de planejamento para abrir a guia serviços de planejamento.
-3. Selecione o programa que você deseja registrar e selecione **registrar.**
-
-Quando você concluir esse processo, os locais da sua empresa serão aprovados para fornecer as ofertas que você registrou no. Os funcionários da sua empresa listados como administrador do parceiro MPN poderão acessar a ferramenta do VVR para gerenciar comprovantes de serviços de planejamento em nome de qualquer local.
->[!Note]
-> Você precisará renovar seus requisitos e inscrever-se novamente no Planning Services Programs por ano.
-
-### <a name="update-your-companys-profile-in-the-planning-services-partner-directory"></a>Atualizar o perfil da sua empresa no diretório de parceiros do Planning Services 
-
-Os clientes pesquisam parceiros que podem atender às suas necessidades comerciais no [diretório de parceiros do Planning Services](https://directory.partners.extranet.microsoft.com/psbproviders/). Quando sua empresa for aprovada para participar de programas do Planning Services, certifique-se de atualizar seu perfil de parceiro para que os clientes possam encontrá-lo. 
-
-Para atualizar seu perfil, siga as etapas na página Atualizar perfil no diretório de parceiros. Se você já sabe como atualizar seu perfil, você pode [entrar no seu painel](https://planningservices.partners.extranet.microsoft.com/en/Pages/dashboard.aspx) para começar.  
-
-## <a name="reserve-customer-voucher"></a>Reservar comprovante de cliente
-
-Depois que um cliente atribui um comprovante à sua empresa no [VLSC (Volume Licensing Service Center)](https://www.microsoft.com/Licensing/servicecenter/default.aspx), o cliente recebe um email que inclui a ID do comprovante. O cliente precisa encaminhar este email para você para que você tenha as informações necessárias para reservar o comprovante. 
-
-Quando tiver os detalhes do comprovante, você poderá reservar o comprovante e agendar o compromisso de planejamento. Siga as etapas em [gerenciar comprovantes na ferramenta de resgate e devolução](voucher-validation-tool.md) do comprovante (VVR) para reservar o comprovante.  
-
-## <a name="complete-the-engagement-and-submit-completion-report"></a>Concluir o envolvimento e enviar o relatório de conclusão
-
-Depois que a empresa tiver concluído o envolvimento e fornecido o resultado final concluído para o cliente, você precisará preencher e enviar um relatório de conclusão.
+- **Requisitos de treinamento de conformidade.** Os requisitos de treinamento de conformidade do programa devem ser atendidos no nível da empresa.
+- **Requisitos de competência.** Os requisitos de competência são específicos para o envolvimento a ser entregue. Por exemplo, sua empresa pode estar inscrita na oferta de serviços de planejamento de implantação de desktop (DDPS). No entanto, você só estará qualificado para fornecer um envolvimento específico dentro da oferta do DDPS se sua empresa também tiver uma competência qualificada para esse envolvimento específico.
 
 >[!NOTE]
-> Você também precisará carregar uma cópia do resultado do compromisso com o cliente nesta etapa. 
+> Para saber mais sobre os requisitos de qualificação para compromissos específicos, [Veja requisitos de qualificação para contratos de serviços de planejamento](software-assurance-dps-requirements.md).
 
+Para ajudar a verificar a qualificação da sua empresa para se registrar em um contrato específico de serviços de planejamento:
 
-Siga as etapas em [gerenciar comprovantes na ferramenta de Desamortização e de resgate do comprovante (VVR)](voucher-validation-tool.md).
+1. Entre no [painel](https://partner.microsoft.com/dashboard/home)do Partner Center.
+2. Selecione **MPN** no menu e, em seguida, selecione **programas**.
+3. Selecione **registro do Software Assurance**.
+4. Selecione a guia **registro do programa Planning Services** na parte superior da página. Você verá uma marca de seleção verde ao lado de quaisquer requisitos ou competências já concluídos.
 
-## <a name="redeem-a-voucher-and-request-payment-from-microsoft"></a>Resgatar um comprovante e solicitar pagamento da Microsoft
+## <a name="enroll-new-partners"></a>Registrar (novos parceiros)
 
-Depois de reservar um comprovante, você pode resgatar. 
+Depois que sua empresa atender aos requisitos de qualificação, você estará pronto para assinar o contrato de programa do Software Assurance Planning Services e se registrar em uma ou mais ofertas de programa.
 
-1. Na lista de comprovantes reservados, selecione os comprovantes que deseja resgatar. 
-2. Agora, você verá uma lista de comprovantes **resgatados** .
-3. Selecione as caixas de seleção ao lado dos comprovantes desejados e clique em **resgatar os comprovantes selecionados**.
-4. Na página confirmar resgate do comprovante, revise as informações de comprovante quanto à precisão e selecione **Sim** para resgatar o comprovante.
+Primeiro, certifique-se de examinar todas as [políticas do programa Planning Services](https://go.microsoft.com/fwlink/?linkid=2115984). Em seguida, siga as instruções na [etapa 2](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho para concluir o processo de registro do Planning Services no Partner Center.
 
-5. Para criar uma declaração, selecione **criar uma declaração**ou, na página detalhes do comprovante, selecione **criar uma declaração**.
+>[!NOTE]
+> Você precisará renovar seus requisitos e inscrever-se novamente nos programas de serviços de planejamento a cada ano.
 
-6. Selecionar **criar uma declaração** leva você à [ferramenta de pagamento online do SAVB (benefício do comprovante do Software Assurance)](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) para faturar a Microsoft.
+## <a name="create-or-update-your-companys-business-profile-new-partners"></a>Criar ou atualizar o perfil comercial da sua empresa (novos parceiros)
 
+Maximize sua exposição a clientes potenciais. Siga [as instruções e orientações](https://docs.microsoft.com/partner-center/create-a-marketing-profile) para criar ou atualizar o perfil de negócios da sua empresa no Partner Center.
 
+## <a name="customer-creates-and-assigns-voucher-existing-partners"></a>O cliente cria e atribui comprovante (parceiros existentes)
 
+Antes de começar um contrato de serviços de planejamento, o cliente deve executar as seguintes ações:
+
+1. Os clientes devem primeiro ativar o benefício dos serviços de planejamento.
+2. Os clientes devem criar um comprovante de serviços de planejamento e atribuí-lo a um gerente de projeto em sua empresa.
+
+Para obter instruções detalhadas que o cliente deve executar para criar o comprovante e atribuí-lo a você, consulte a [etapa 4](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho. Para obter uma visão geral da experiência do cliente, consulte o [Guia do VLSC Software Assurance](https://download.microsoft.com/download/A/7/D/A7D04694-1B1E-4B18-918F-0EDCD43BA2E5/VLSC-Software-Assurance-Guide_en-US.pdf).
+
+## <a name="validate-and-reserve-voucher-existing-partners"></a>Validar e reservar comprovante (parceiros existentes)
+
+Depois que um cliente atribui um comprovante à sua empresa no [VLSC (Volume Licensing Service Center)](https://www.microsoft.com/Licensing/servicecenter/default.aspx), o cliente recebe um email que inclui a ID do comprovante. O cliente precisa encaminhar este email para você para que você tenha as informações necessárias para reservar o comprovante.
+
+Quando tiver os detalhes do comprovante, você poderá reservar o comprovante e agendar o compromisso de planejamento. Consulte a [etapa 5](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho para obter diretrizes detalhadas sobre como fazer isso no painel do Partner Center.
+
+## <a name="complete-engagement-and-provide-deliverables-to-your-customer-existing-partners"></a>Concluir o envolvimento e fornecer resultados ao seu cliente (parceiros existentes)
+
+Para estar qualificado a entregar um contrato de serviços de planejamento, o consultor deve ter concluído uma ou mais avaliações técnicas ou exames necessários para a competência de qualificação do engajamento. (Para saber mais sobre as avaliações ou os exames necessários, [Veja requisitos de qualificação para contratos de serviços de planejamento](software-assurance-dps-requirements.md).) 
+
+Depois que sua empresa concluiu o envolvimento e forneceu os entregas finais, concluídos ao cliente, você precisa preencher e enviar o relatório de conclusão online.
+
+Consulte a [etapa 6](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho para obter diretrizes detalhadas.
+
+## <a name="redeem-voucher"></a>Resgatar comprovante
+
+Antes de faturar a Microsoft para o engajamento entregue, você deve primeiro resgatar seu comprovante. Consulte a [etapa 7](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho para obter diretrizes detalhadas.
+
+## <a name="request-payment-from-microsoft-existing-partners"></a>Solicitar pagamento da Microsoft (parceiros existentes)
+
+Depois de resgatar os comprovantes de serviços de planejamento, você deve faturar a Microsoft para pagamento. Os pagamentos são tratados por meio da ferramenta de pagamento online SAVB (benefício do comprovante de Software Assurance).
+
+Para enviar uma fatura à Microsoft por meio do SAVB, siga as instruções na [etapa 8](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho.
+
+## <a name="see-also"></a>Veja também
+
+- [Fluxo de trabalho dos serviços de planejamento do Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115983)
+- [Perguntas frequentes sobre serviços de planejamento do Software Assurance](https://go.microsoft.com/fwlink/?linkid=2116077)
+- [Políticas de serviços de planejamento do Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115984)

@@ -1,0 +1,48 @@
+---
+title: Exibir requisitos de qualificação para contratos de serviços de planejamento | Centro de parceiros
+ms.topic: article
+ms.date: 01/29/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Saiba mais sobre os requisitos de qualificação para cada contrato de serviços de planejamento do Software Assurance que uma empresa pode desejar oferecer a clientes corporativos.
+author: MicheleHope
+ms.author: v-mihope
+Keywords: pré-implantação, planejamento, Software Assurance, envolvimentos, requisitos, qualificação, oferta
+ms.localizationpriority: medium
+ms.openlocfilehash: 1f53d12c470ec72bd8eb59ea7d21db06d813a763
+ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
+ms.translationtype: MT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "76928885"
+---
+# <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Exibir requisitos de qualificação para contratos de serviços de planejamento
+
+**Funções apropriadas**
+
+- Administrador global
+- Administrador do parceiro do MPN
+
+Este tópico ajuda você a saber mais sobre os requisitos de qualificação que você precisa satisfazer antes que sua empresa possa registrar ou fornecer contratos de serviços de planejamento do Software Assurance para a Microsoft.
+
+>[!NOTE]
+> Além de satisfazer os requisitos de qualificação de um engajamento, você também deve seguir várias outras etapas antes de poder fornecer contratos de serviços de planejamento do Software Assurance. Para obter uma visão geral de todas as etapas necessárias, consulte [serviços de planejamento do Software Assurance no Partner Center](software-assurance-dps.md).
+
+## <a name="learn-more-about-each-engagement"></a>Saiba mais sobre cada compromisso
+
+Cada contrato de serviços de planejamento tem seus próprios requisitos específicos de qualificação. Para saber mais, consulte a tabela a seguir.
+
+|**Para saber mais sobre os requisitos de qualificação para esses compromissos**   |**Ir para a folha de dados desta oferta**  |
+|:------------------------------------|:------------------|
+| Planejamento de implantação do Windows e do Office<br> Planejamento de implantação de produtividade móvel<br> Prova de conceito de segurança empresarial moderna</br>  | [Compromissos do DDPS (serviços de planejamento de implantação de desktop)](https://go.microsoft.com/fwlink/?linkid=2116072) |
+| Atualizando o Microsoft Dynamics 365 para o compromisso com o cliente<br> Migrando para o Microsoft Dynamics 365 for Customer Engagement<br> Atualizando o Microsoft Dynamics 365 para finanças e operações</br>  | [Compromissos do DYDPS (serviços de planejamento de implantação) do Dynamics](https://go.microsoft.com/fwlink/?linkid=2116073)  |
+| Modernizando a plataforma Windows Server | [Contratações de nuvem privada, gerenciamento e serviços de planejamento de virtualização (PVDPS)](https://go.microsoft.com/fwlink/?linkid=2115982) |
+| Planejamento de implantação do SharePoint   | [Engajamentos do SDPS (serviços de planejamento de implantação) do SharePoint](https://go.microsoft.com/fwlink/?linkid=2116074)  |
+| Planejamento de implantação do Exchange<br> Planejamento de implantação do Skype for Business</br>  | [Contratos do EDPS (serviços de planejamento de implantação) do Skype for Business e do Exchange](https://go.microsoft.com/fwlink/?linkid=2116075)  |
+| Modernização do estado de dados  | [SQL Server os compromissos do SSDPS (serviços de planejamento de implantação)](https://go.microsoft.com/fwlink/?linkid=2116076)  |
+
+## <a name="see-also"></a>Veja também
+
+- [Fluxo de trabalho dos serviços de planejamento do Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115983)
+- [Perguntas frequentes sobre serviços de planejamento do Software Assurance](https://go.microsoft.com/fwlink/?linkid=2116077)
+- [Políticas de serviços de planejamento do Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115984)
