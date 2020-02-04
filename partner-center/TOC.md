@@ -25,9 +25,8 @@
 ## [Recompensas do Marketplace](marketplace-rewards.md)
 ## [Programas do Software Assurance](software-assurance-lp.md)
 ### [Programa SATV (Comprovante de Treinamento do Software Assurance) no Partner Center](software-assurance-satv.md)
-### [Usar a ferramenta de Validação e Resgate de Comprovante no Partner Center para validar, reservar e resgatar comprovantes](voucher-validation-tool.md)
-### [Perguntas frequentes: usando a ferramenta de Validação e Resgate de Comprovante](vvr-faq.md)
 ### [Serviços de planejamento do Software Assurance no Partner Center](software-assurance-dps.md)
+#### [Requisitos de qualificação para contratos de Planning Services](software-assurance-dps-requirements.md)
 ## Faturas e impostos
 ### [Faturas e impostos no Microsoft Partner Network](mpn-view-print-maps-invoice.md)
 ## [Test drive dos novos recursos](test-drive-new-features.md)
@@ -67,11 +66,11 @@
 # Gerenciar sua conta do Partner Center – usuários
 ## [Criar contas de usuário](create-user-accounts-and-set-permissions.md)
 ## [Atribuir permissões e funções de usuários](permissions-overview.md)
-## [Registrar-se como um fornecedor do Painel de Controle](enroll-as-cpv.md)
+## [Registrar-se como um fornecedor de painel de controle](enroll-as-cpv.md)
 ## [Redefinir uma senha de usuário](reset-a-user-password.md)
 ## [Redefinir minha senha](reset-my-pasword.md)
 # Gerenciar sua conta do Partner Center – negócios
-## [Adicionar serviços compartilhados do parceiro do Azure](shared-services.md)
+## [Adicionar Serviços Compartilhados com Parceiros do Azure](shared-services.md)
 ## [Preços e ofertas](pricing-and-offers.md)
 ## [Personalizar o catálogo](customize-the-catalog.md)
 
