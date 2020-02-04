@@ -20,14 +20,14 @@ ms.locfileid: "76723463"
 
 **Aplica-se a**
 
--  Partner Center
+-  Centro de Parceiros
 
 **Funções apropriadas**
 
 -  Administrador de incentivos
 -  Usuário de incentivos 
 -  Visualizador somente leitura de incentivo
--  Administração global
+-  Administrador global
 -  Administrador de parceiros do MPN
 
 Use essas páginas para exibir detalhes dos pagamentos e ganhos anteriores, pendentes e futuros, o status dos seus programas de incentivo em cada local e o histórico completo da transação. Você também pode baixar ou exportar informações detalhadas para qualquer transação. Todas as páginas de incentivos mostram valores em dólares americanos.
@@ -112,15 +112,15 @@ Para exportar qualquer um dos dados de transação nessa página, selecione **Ex
 |Cerimônia      |A ordem de pagamento gerou revisões internas pendentes antes de o pagamento ser processado.       |Não       |
 |Fatura de imposto pendente      |Sua fatura de imposto está incompleta ou inválida.          |Você precisa atualizar sua fatura de imposto antes de poder ser pago         |
 |Rejeitado durante a revisão        |O pagamento foi rejeitado durante a revisão.          |Contate o suporte da Microsoft para obter detalhes         |
-|Failed (Falha)        |O pagamento falhou devido a um erro do sistema da Microsoft.         |Contate o suporte da Microsoft para obter detalhes         |
+|Falha        |O pagamento falhou devido a um erro do sistema da Microsoft.         |Contate o suporte da Microsoft para obter detalhes         |
 |Em andamento     |O pagamento está em andamento.         |Não         |
 |Pagamento incorreto        |A revitóriação de pagamento está em andamento.          |Não        |
 |Enviados        |O pagamento foi enviado ao seu banco.          |Não       |
 |Reprocessamento       |O pagamento encontrou um erro de sistema da Microsoft e está sendo reprocessado.           |Não         |
-|Inversão        |O pagamento foi revertido pelo seu banco e será enviado novamente no próximo ciclo de pagamento.          |Não        |
+|Reversed        |O pagamento foi revertido pelo seu banco e será enviado novamente no próximo ciclo de pagamento.          |Não        |
 |Fatura de imposto rejeitada       |A fatura do imposto foi rejeitada durante a revisão. Todos os pagamentos pendentes estarão em espera até que a revisão da fatura fiscal seja concluída.          |Contate o suporte da Microsoft para obter detalhes         |
 |Fatura de imposto em revisão        |Sua fatura de imposto está sendo revisada. Seu pagamento será liberado depois que a nota fiscal do imposto tiver sido aprovada.           |Não        |
-|Recusa        |O pagamento foi rejeitado pelo seu banco.           |Entre em contato com seu banco para obter detalhes.  |
+|Rejeitado        |O pagamento foi rejeitado pelo seu banco.           |Entre em contato com seu banco para obter detalhes.  |
 
 ## <a name="export-data-page"></a>Exportar página de dados
 Siga as instruções nesta página para exportar os dados desejados. 
@@ -182,7 +182,7 @@ Essa opção fornece um download de cada item de linha de produção que você v
 |paymentStatus   |Status do pagamento   |
 |paymentStatusDescription   |Descrição amigável do status de pagamento   |
 |customerId   |Identificador do cliente   |
-|Customer   |Nome do cliente da transação   |
+|customerName   |Nome do cliente da transação   |
 
 
 Além da tabela acima, esses campos de histórico de transações estarão disponíveis conforme aplicável para o programa.
@@ -195,7 +195,7 @@ Além da tabela acima, esses campos de histórico de transações estarão dispo
 |subscriptionId   |Identificador de assinatura associado ao cliente   |
 |subscriptionStartDate   |Data de início da assinatura   |
 |subscriptionEndDate   |Data de término da assinatura   |
-|offerId   |A ser definido   |
+|offerId   |TBD   |
 |revendedorid   |Identificador do revendedor   |
 |revendedorname   |Nome do revendedor   |
 |distribuidorid   |Identificador do distribuidor   |
