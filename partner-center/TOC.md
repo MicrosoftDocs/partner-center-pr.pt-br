@@ -42,6 +42,7 @@
 ## [Mercados e moedas regionais do CSP](regional-authorization-overview.md)
 ## [Confirmar a aceitação do cliente do Contrato do Microsoft Cloud](confirm-consent.md)
 ## [Confirmar a aceitação do cliente do Contrato de Cliente da Microsoft](confirm-customer-agreement.md)
+### [Quando confirmar a aceitação do Contrato de Cliente em nome de um cliente](attest-acceptance-customer-agreement.md)
 
 ## [Inscrever-se para vender em nuvens nacionais](csp-national-clouds-overview.md)
 ### [Partner Center do Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
@@ -206,7 +207,7 @@
 ## [Fornecer suporte técnico](provide-technical-support.md)
 ## [Comunicação com o cliente da Microsoft](customer-communication-from-microsoft.md)
 ## [Autoatendimento ao cliente](customer-self-support.md)
-## [Encalonar os problemas à Microsoft](escalate-problems-to-microsoft.md)
+## [Escalonar os problemas à Microsoft](escalate-problems-to-microsoft.md)
 
 # Requisitos de segurança
 ## [Visão geral](partner-security-requirements.md)
