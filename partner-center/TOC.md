@@ -60,18 +60,19 @@
 ## [Verificar sua propriedade do domínio](become-global-admin.md)
 ## [Verifique as informações da conta](verification-responses.md)
 ## [Atualizar seu perfil de parceiro](update-your-partner-profile.md)
-## [Gerenciar os locais da empresa](manage-locations.md)
+## [Locais](manage-locations.md)
+## [Registrar-se como um fornecedor do Painel de Controle](enroll-as-cpv.md)
 ## [Restaurar uma conta suspensa no Partner Center](suspended-partner-center-account.md)
 ## [Adicionar um aplicativo do Azure AD](service-principal.md)
 ## [Associar sua conta da Microsoft Learn ao Partner Center](ms-learn-associate.md)
 # Gerenciar sua conta do Partner Center – usuários
 ## [Criar contas de usuário](create-user-accounts-and-set-permissions.md)
 ## [Atribuir permissões e funções de usuários](permissions-overview.md)
-## [Registrar-se como um fornecedor de painel de controle](enroll-as-cpv.md)
+## [Registrar-se como um fornecedor do Painel de Controle](enroll-as-cpv.md)
 ## [Redefinir uma senha de usuário](reset-a-user-password.md)
 ## [Redefinir minha senha](reset-my-pasword.md)
 # Gerenciar sua conta do Partner Center – negócios
-## [Adicionar Serviços Compartilhados com Parceiros do Azure](shared-services.md)
+## [Adicionar serviços compartilhados do parceiro do Azure](shared-services.md)
 ## [Preços e ofertas](pricing-and-offers.md)
 ## [Personalizar o catálogo](customize-the-catalog.md)
 
@@ -207,7 +208,7 @@
 ## [Fornecer suporte técnico](provide-technical-support.md)
 ## [Comunicação com o cliente da Microsoft](customer-communication-from-microsoft.md)
 ## [Autoatendimento ao cliente](customer-self-support.md)
-## [Escalonar os problemas à Microsoft](escalate-problems-to-microsoft.md)
+## [Encalonar os problemas à Microsoft](escalate-problems-to-microsoft.md)
 
 # Requisitos de segurança
 ## [Visão geral](partner-security-requirements.md)
