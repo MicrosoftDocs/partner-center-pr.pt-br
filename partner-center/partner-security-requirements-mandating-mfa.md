@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor do painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
 ms.localizationpriority: medium
-ms.openlocfilehash: 46d485f8d3edf916fce478812c6d8243909e4ed4
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: b71f1a2b8a42e108a521b33c1e747ca186cb1c70
+ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723483"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "77044734"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Obrigar a autenticação multifator (MFA) para seu locatário do parceiro
 
@@ -31,8 +31,8 @@ ms.locfileid: "76723483"
 
 Esses parceiros serão solicitados a concluir a verificação de MFA para as seguintes áreas:
 
-- [Painel do Partner Center](#partner-center-dashboard) (direcionamento de H1 CY2020)
-- [API do Partner Center](#partner-center-api) (direcionamento para H1 CY2020)
+- [Painel do Partner Center](#partner-center-dashboard) (direcionamento do Q2 CY2020)
+- [API do Partner Center](#partner-center-api) (direcionamento do Q2 CY2020)
 - [Administração delegada de parceiro](#partner-delegated-administration) (a partir de 18 de novembro de 2019)
 
 A intenção desse recurso é ajudar os parceiros a proteger o acesso aos recursos do cliente contra o comprometimento de credenciais.
@@ -61,9 +61,9 @@ Para ilustrar como isso funciona, considere os dois exemplos a seguir.
 
 **Exemplo 2: o parceiro implementou o MFA de terceiros usando a Federação de identidades**
 1. Trent funciona para o CSP Wingtip. A Wingtip implementou o MFA para todos os seus usuários no locatário do parceiro Wingtip usando o MFA de terceiros, que é integrado ao Azure AD por meio da Federação de identidades.
-2. Em sua estação de trabalho, o Trent inicia uma nova sessão do navegador e navega para a página de visão geral do painel do Partner Center (que não é protegida por MFA). O Partner Center redireciona o Justin para o Azure AD para entrar.
+2. Em sua estação de trabalho, o Trent inicia uma nova sessão do navegador e navega para a página de visão geral do painel do Partner Center (que não é protegida por MFA). O Partner Center redireciona o Trent para o Azure AD para entrar.
 3. Como a Wingtip tem a Federação de identidade da instalação, o Azure AD redireciona o Trent para o provedor de identidade federada para concluir a entrada e a verificação de MFA. Após a entrada bem-sucedida e a verificação de MFA, o Trent é Redirecionado de volta para o Azure AD e, em seguida, para a página de visão geral do painel do Partner Center.
-4. O Justin tenta acessar uma das páginas protegidas por MFA no Partner Center. Como o Trent já concluiu a verificação de MFA durante a entrada anterior, o Trent pode acessar a página protegida do MFA sem precisar passar pela verificação de MFA novamente.
+4. O Trent tenta acessar uma das páginas protegidas por MFA no Partner Center. Como o Trent já concluiu a verificação de MFA durante a entrada anterior, o Trent pode acessar a página protegida do MFA sem precisar passar pela verificação de MFA novamente.
 
 **Exemplo 3: o parceiro não implementou o MFA**
 1. John trabalha para o CSP fabrikam. A Fabrikam não implementou o MFA para nenhum usuário no locatário do parceiro da Fabrikam.
@@ -127,7 +127,7 @@ Quando Azure Active Directory receber essas solicitações de autenticação, el
 
 - Se a conta do parceiro for uma identidade **federada** , a experiência dependerá de como o administrador do parceiro configurou a federação no Azure Active Directory. Ao configurar a Federação no Azure Active Directory, o administrador do parceiro pode indicar Azure Active Directory se o provedor de identidade federada oferece suporte a MFA ou não. Nesse caso, Azure Active Directory redirecionará o usuário para o provedor de identidade federada para concluir a verificação de MFA. Caso contrário, Azure Active Directory avisará diretamente ao usuário para concluir a verificação de MFA. Se a conta de parceiro não tiver sido registrada para MFA com Azure Active Directory antes, o usuário será solicitado a [concluir o registro de MFA](#mfa-registration-experience) primeiro.
 
-A experiência geral é muito semelhante ao cenário em que um locatário do cliente final implementou o MFA para seus administradores. Por exemplo, o locatário do cliente habilitou a [política de linha de base do Azure ad – MFA para administradores](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators), que exige que todas as contas com direitos administrativos entrem no locatário do cliente com verificação de MFA, incluindo agentes de administração e agentes de assistência técnica. Para fins de teste, os parceiros podem habilitar a [política de MFA para administradores](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) no locatário do cliente e, em seguida, tentar usar privilégios de administração delegada de parceiro para acessar o locatário do cliente.
+A experiência geral é muito semelhante ao cenário em que um locatário do cliente final implementou o MFA para seus administradores. Por exemplo, o locatário do cliente habilitou os [padrões de segurança do Azure ad](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults), o que exige que todas as contas com direitos administrativos entrem no locatário do cliente com a verificação de MFA, incluindo agentes de administração e agentes de assistência técnica. Para fins de teste, os parceiros podem habilitar os [padrões de segurança do Azure ad](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) no locatário do cliente e, em seguida, tentar usar privilégios de administração delegada de parceiro para acessar o locatário do cliente.
 
 > [!NOTE]
 > Nem todos os portais do Microsoft Online Service exigem que as contas de parceiros entrem no locatário do cliente ao acessar os recursos do cliente usando privilégios de administrador delegado do parceiro. Em vez disso, eles exigem apenas as contas de parceiros para entrar no locatário do parceiro. Um exemplo é o centro de administração do Exchange. Ao longo do tempo, esperamos que esses portais exijam que as contas de parceiros entrem no locatário do cliente ao usar privilégios de administrador delegado para parceiros.
@@ -141,7 +141,7 @@ Todos os aplicativos de parceiros que são integrados a essas APIs usando privil
 
 - O parceiro deve evitar o uso do método de autenticação de usuário não interativo com o Azure AD para obter o token de acesso. Ao usar o método de autenticação de usuário não interativo, como o [fluxo de senha](https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/wiki/Acquiring-tokens-with-username-and-password), o Azure ad não poderá solicitar que o usuário conclua a verificação de MFA. O parceiro deve alternar para o uso do método de autenticação de usuário interativo como, por exemplo, o [fluxo do OpenID Connect](https://docs.microsoft.com/azure/active-directory/develop/v1-protocols-openid-connect-code) .
 - Durante o método de autenticação de usuário interativo, o parceiro deve usar uma conta de usuário de parceiro que já esteja habilitada para MFA. Como alternativa, quando solicitado pelo Azure AD, o parceiro pode concluir o registro de MFA e a verificação de MFA durante a entrada.
-- Isso é muito semelhante ao cenário em que um locatário do cliente final implementou o MFA para seus administradores. Por exemplo, o locatário do cliente habilitou a [política de linha de base do Azure ad – MFA para administradores](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators), que exige que todas as contas de usuário com direitos administrativos entrem no locatário do cliente com verificação de MFA, incluindo agentes de administração e agentes de assistência técnica. Para fins de teste, os parceiros podem habilitar a [política de MFA para administradores](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) no locatário do cliente e, em seguida, tentar usar privilégios de administração delegada de parceiro para acessar programaticamente o locatário do cliente.
+- Isso é muito semelhante ao cenário em que um locatário do cliente final implementou o MFA para seus administradores. Por exemplo, o locatário do cliente habilitou os [padrões de segurança do Azure ad](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults), o que exige que todas as contas de usuário com direitos administrativos entrem no locatário do cliente com a verificação de MFA, incluindo agentes de administração e agentes de assistência técnica. Para fins de teste, os parceiros podem habilitar os [padrões de segurança do Azure ad](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) no locatário do cliente e, em seguida, tentar usar privilégios de administração delegada de parceiro para acessar programaticamente o locatário do cliente.
 
 ### <a name="mfa-registration-experience"></a>Experiência de registro de MFA
 Durante a verificação de MFA, se a conta de parceiro ainda não tiver sido registrada para MFA, o Azure AD solicitará que o usuário conclua o registro de MFA primeiro:
