@@ -1,28 +1,28 @@
 ---
 title: Criar uma conta do Partner Center | Partner Center
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 02/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Os membros do Microsoft Partner Network precisam criar contas do Partner Center para gerenciar seus benefícios e competências de rede e criar um perfil de negócios.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
-ms.openlocfilehash: 46a299f8e882f6f55d4f674c989446250c0c26d6
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 6e9a2adf925ae8fc9fca81be4bd87cf3064d18b6
+ms.sourcegitcommit: b706969f19a6d4ba1d9d9b8408abdd90591d81bd
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096482"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "77069692"
 ---
 # <a name="create-a-partner-center-account"></a>Criar uma conta do Partner Center
 
 **Funções apropriadas**
 
-- Administração global
-- Agente administrador
+- Administrador global
+- Agente administrativo
 
-Antes de criar uma conta no Partner Center, sua empresa deve ser membro do Microsoft Partner Network. Se não for um membro da rede, você pode [se inscrever agora](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx).  [Saiba mais](https://partner.microsoft.com/membership) sobre parceria no Microsoft Partner Network. Depois de criar uma conta do Partner Center, Assista a este vídeo rápido para[Descobrir seu painel](https://vimeo.com/290338211).
+Antes de criar uma conta no Partner Center, sua empresa deve ser membro do Microsoft Partner Network. Se não for um membro da rede, você pode [se inscrever agora](https://partner.microsoft.com/commercial#). Depois de criar uma conta do Partner Center, Assista a este vídeo rápido para[Descobrir seu painel](https://vimeo.com/290338211).
 
 ## <a name="before-you-begin"></a>Antes de começar
 
