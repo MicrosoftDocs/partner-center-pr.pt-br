@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: fatura direta, transição, revendedor indireto
-ms.openlocfilehash: ff912c2b970aa4caac928a7d0975f4b1bab7f056
-ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
+ms.openlocfilehash: d02b6101384b6c9fae986bbe45ce4865fd450308
+ms.sourcegitcommit: b74437db6aead02c9be3b865d36086f750802041
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "77044737"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "77213334"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transição do parceiro de fatura direto do CSP (Provedor de Soluções na Nuvem) para o revendedor indireto do CSP 
 
@@ -61,7 +61,7 @@ Quando você tiver aceitado o contrato de revendedor indireto, observe que seu p
 
 ## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>Enquanto você faz a transição do revendedor direto para o indireto
 
-Durante essa fase, você continuará a gerenciar suas necessidades de assinatura de clientes diretos, incluindo o processo de cobrança. Você também pode começar a aceitar clientes do seu provedor indireto e operar como um revendedor indireto.
+Durante essa fase, você continuará a gerenciar as necessidades de assinatura direta de seus clientes, incluindo o processo de cobrança. Você também pode começar a aceitar clientes do seu provedor indireto e operar como um revendedor indireto.
 
 ![Você é uma fatura direta e um revendedor indireto](images/direct/direct4.png)
 
@@ -137,7 +137,7 @@ Você gerencia seus clientes de fatura direta e seus clientes de revendedores in
 
 ## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>Mover seus clientes de fatura direta para seu provedor indireto
 
-Seu provedor indireto não pode enviar pedidos ou transferências de assinatura existentes para seus clientes de fatura direta existentes até que eles tenham uma relação de revendedor com eles. Para estabelecer a relação de revendedor entre seu provedor indireto e seu provedor indireto existente, você pode usar um dos seguintes métodos: 
+Seu provedor indireto não pode enviar pedidos ou transferências de assinatura existentes para seus clientes de fatura direta existentes até que eles tenham uma relação de revendedor com eles. Para estabelecer a relação de revendedor entre seu provedor indireto e seu cliente de fatura direta existente, você pode usar um dos seguintes métodos: 
 
 - [Extensão de relacionamento do revendedor](#reseller-relationship-extension) 
 
@@ -147,7 +147,7 @@ Seu provedor indireto não pode enviar pedidos ou transferências de assinatura 
 
 Você pode usar o recurso de extensão de relacionamento de revendedor para estabelecer a relação de revendedor entre seus clientes de fatura direta existentes e seu provedor indireto usando o painel do Partner Center. Antes de usar o recurso, observe o seguinte: 
 
-- Esse recurso está disponível apenas para o parceiro de cobrança direto que está em transição para se tornar um revendedor indireto que concluiu o [registro indireto do revendedor](#get-started). 
+- Esse recurso está disponível apenas para os parceiros de cobrança diretos que estão em transição para se tornarem um revendedor indireto que concluiu o [registro indireto do revendedor](#get-started). 
 
 - Você só pode aplicar esse recurso a clientes de fatura direta existentes. Ele não é aplicável a [clientes indiretos do revendedor](#acquire-new-customers-as-indirect-reseller). 
 
@@ -160,7 +160,7 @@ Você pode usar o recurso de extensão de relacionamento de revendedor para esta
 
 - Seu provedor indireto não será fornecido com [privilégios de administração delegados](customers_revoke_admin_privileges.md) para o locatário do cliente. Se o seu provedor indireto exigir privilégios de administração delegada, você deverá enviar um convite de revendedor indireto para o cliente em vez disso.
 
-- Depois que a relação do revendedor for estabelecida, o provedor indireto será exibido como um parceiro CSP para o cliente na página relacionamentos de parceiros no M365 Admin Center e no [Microsoft Store for Business](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business).
+- Depois que a relação do revendedor for estabelecida, o provedor indireto será exibido como um parceiro CSP para o cliente na página relacionamentos de parceiros no [M365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/partners) e no [Microsoft Store for Business](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business).
 
 >[!Note] 
 >Para evitar confusão e mal-entendido, você está contratualmente obrigado pelo seu contrato de parceiro para informar e obter consentimento do cliente de fatura direta antes de usar o recurso de extensão de relacionamento para estabelecer a relação de revendedor entre um existente cliente de cobrança direto e um provedor indireto. 
@@ -197,6 +197,22 @@ Seu provedor indireto não pode enviar pedidos para seus clientes de fatura dire
 
 6. Para gerenciar a conta, os serviços, os usuários e as licenças do cliente, expanda o registro do cliente selecionando a seta para baixo perto do nome dele. 
 
+### <a name="microsoft-customer-agreement-acceptance"></a>Aceitação do contrato com o cliente da Microsoft
+
+Microsoft Cloud contrato é válido até 31 de janeiro de 2020. Após essa data, todos os clientes, existentes e novos, devem assinar o novo [contrato do cliente da Microsoft](https://docs.microsoft.com/partner-center/confirm-customer-agreement). Para a transição de clientes, se:
+
+- **O cliente ainda não aceitou o contrato com o cliente da Microsoft**
+
+   Trabalhe com o provedor indireto para que [o cliente aceite o contrato do cliente da Microsoft]( https://docs.microsoft.com/partner-center/confirm-customer-agreement).
+
+- **O cliente aceitou o contrato de clientes da Microsoft com você por meio do centro de administração Microsoft 365**
+
+   A aceitação será retida quando a relação do revendedor for estabelecida com o provedor indireto. Não há nada que você precise fazer.
+
+- **O cliente aceitou o contrato de clientes da Microsoft com você por meio de atestado de parceiro**
+
+   A aceitação não será retida. Trabalhe com o provedor indireto para [atualizar a aceitação do cliente no Partner Center]( https://docs.microsoft.com/partner-center/confirm-customer-agreement#confirm-customer-acceptance-for-existing-customers).
+
 ## <a name="transfer-existing-direct-bill-subscriptions-to-indirect-provider"></a>Transferir inscrições de fatura direta existentes para o provedor indireto
 
 Em modelo indireto do CSP, revendedores indiretos não têm relações de cobrança com a Microsoft. Em vez disso, revendedores indiretos obtêm assinaturas para seus clientes por meio de seus provedores indiretos. Ao fazer a transição de um parceiro de cobrança direto para o revendedor indireto, você precisa transferir as assinaturas existentes que você tem como parceiro de cobrança direto para seu provedor indireto. Você pode usar o recurso de transferência de assinatura autoservido no painel do Partner Center para fazer isso. 
@@ -208,6 +224,8 @@ Antes de usar o recurso, observe o seguinte:
 - Esse recurso só está disponível para a transição de parceiros que concluíram o registro indireto do revendedor usando seus locatários de parceiro de conta direta existentes. 
 
 - Antes de transferir assinaturas associadas a um determinado cliente, o parceiro de transição deve mover o cliente para um provedor indireto. 
+
+- O cliente [aceitou o contrato de cliente da Microsoft por meio do provedor indireto](#microsoft-customer-agreement-acceptance).
  
 ### <a name="how-to"></a>Instruções
 
@@ -293,13 +311,15 @@ O parceiro de transição deve fazer o seguinte:
  
 ### <a name="considerations"></a>Considerações
 
+- **A ID da assinatura será diferente após a transferência.** Se for uma assinatura do Azure (MS-AZR-0145P), além disso, ela terá uma ID de assinatura do Azure, que é retida do proprietário anterior e aparecerá no portal de gerenciamento do Azure.
+
 - **A mesma assinatura não pode ser referenciada por várias solicitações de transferência.** Depois de criar uma solicitação de transferência que inclui uma assinatura existente, você não poderá criar solicitações de transferência adicionais, incluindo a mesma assinatura, até que a primeira solicitação de transferência seja cancelada. 
 
 - **Os Complementos para assinaturas baseadas em assento devem ser transferidos junto com sua assinatura base.** Ao criar uma solicitação de transferência, se você escolher uma assinatura existente com um ou mais Complementos, os complementos serão incluídos automaticamente na solicitação de transferência. 
 
 - **As alterações de contagem de estações em uma assinatura não serão refletidas na solicitação de transferência existente.** Depois de criar uma solicitação de transferência que inclui uma assinatura existente, você deve evitar atualizar a quantidade de assentos da assinatura (ou Complementos associados). Se você fizer isso, a nova quantidade não será refletida na solicitação de transferência. Depois que o provedor indireto aceitar a solicitação de transferência, a assinatura resultante terá a quantidade antiga. Se desejar que a nova quantidade seja transferida para o provedor indireto, você deverá cancelar a solicitação de transferência existente e recriar uma nova. 
 
-- **Nem todas as compras podem ser transferidas usando a transferência de assinatura autoatendida.** No momento, você só pode transferir assinaturas do O365 e assinaturas do Azure PAGY (MS-AZR-0145P) usando esse recurso. Não há suporte para outras compras, incluindo planos do Azure, instâncias reservadas do Azure, assinaturas baseadas em termos e assinaturas de SaaS para o Azure Marketplace. Você verá um motivo pelo qual uma assinatura não pode ser transferida na página Enviar solicitação de transferência.
+- **Nem todas as compras podem ser transferidas usando a transferência de assinatura autoatendida.** No momento, você só pode transferir assinaturas do O365 e assinaturas do Azure PAGY (MS-AZR-0145P) usando esse recurso. Não há suporte para outras compras, incluindo planos do Azure, instâncias reservadas do Azure, assinaturas baseadas em termos e assinaturas de SaaS para o Azure Marketplace. Você verá um motivo pelo qual uma assinatura não pode ser transferida na página Enviar solicitação de transferência. Para transferir essas assinaturas, você precisará [cancelar a assinatura existente](https://docs.microsoft.com/partner-center/create-a-new-subscription#suspend-or-cancel-a-subscription) e adquirir uma nova oferta para o cliente por meio do provedor indireto.
 
 - **Não é possível testar usando o ambiente de área restrita.** 
 
