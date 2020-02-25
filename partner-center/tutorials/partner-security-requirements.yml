@@ -8,12 +8,12 @@ metadata:
   ms.date: 06/24/2019
   displayType: two-column
   ms.custom: mvc
-  ms.openlocfilehash: 72ecb3cff206887143cff52c2a4102096dbaa783
-  ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
-  ms.translationtype: MT
+  ms.openlocfilehash: b3dc7dcbcea316500521071f332e7b7817bbcfb2
+  ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 10/16/2019
-  ms.locfileid: "72425216"
+  ms.lasthandoff: 02/21/2020
+  ms.locfileid: "77521029"
 items:
 - title: Introdução
   durationInMinutes: 5
@@ -25,7 +25,7 @@ items:
 - title: Quais são os requisitos de segurança de parceiros?
   durationInMinutes: 1
   content: >
-    Todos os parceiros que estão participando do programa Provedor de Soluções na Nuvem, os Fornecedores do Painel de Controle e os parceiros do Advisor devem impor a MFA (Autenticação Multifator) para cada usuário em seu locatário de parceiro. Isso pode ser feito habilitando duas [políticas de linha de base do Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection). As políticas de linha de base são um conjunto de políticas predefinidas que ajudam a proteger as empresas contra muitos ataques comuns. Esses ataques comuns podem incluir pulverização, reprodução e phishing de senha. As políticas de linha de base estão disponíveis em todas as edições do Azure Active Directory. A Microsoft está disponibilizando essas políticas de proteção de linha de base para todos, pois o volume de ataques baseados em identidade vem aumentando nos últimos anos.
+    Todos os parceiros que estão participando do programa Provedor de Soluções na Nuvem, os Fornecedores do Painel de Controle e os parceiros do Advisor devem impor a MFA (Autenticação Multifator) para cada usuário em seu locatário de parceiro. Essa imposição pode ser feita habilitando duas [políticas de linha de base do Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection). As políticas de linha de base são um conjunto de políticas predefinidas que ajudam a proteger as empresas contra muitos ataques comuns. Esses ataques comuns podem incluir pulverização, reprodução e phishing de senha. As políticas de linha de base estão disponíveis em todas as edições do Azure Active Directory. A Microsoft está disponibilizando essas políticas de proteção de linha de base para todos, pois o volume de ataques baseados em identidade vem aumentando nos últimos anos.
 
 
     As duas políticas de linha de base que devem ser habilitadas são descritas na tabela a seguir.
@@ -45,7 +45,7 @@ items:
 
     > [!IMPORTANT]
 
-    > Como a MFA será imposta para cada usuário no diretório de parceiros, haverá um impacto em qualquer automação ou integração que utiliza credenciais do usuário. Para resolver esse impacto, será necessário modificar a maneira como a automação ou a integração se conecta aos serviços de nuvem comercial da Microsoft. Se o serviço ao qual você estiver se conectando oferecer suporte à autenticação baseada em token, será recomendável implementar a [estrutura do Modelo de Aplicativo Seguro](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).
+    > Como a MFA será imposta para cada usuário no diretório de parceiros, haverá um impacto em qualquer automação ou integração que utiliza credenciais do usuário. Para resolver esse impacto, será necessário modificar a maneira como a automação ou a integração se conecta aos serviços de nuvem comercial da Microsoft. Se o serviço ao qual você estiver se conectando for compatível à autenticação baseada em token, será recomendável implementar a [estrutura do Modelo de Aplicativo Seguro](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).
 - title: Como faço para habilitar a política de linha de base Exigir MFA para administradores?
   durationInMinutes: 5
   content: >
