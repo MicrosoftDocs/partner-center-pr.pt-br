@@ -1,7 +1,7 @@
 ---
 title: Cobrança do plano do Azure | Partner Center
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 02/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como acessar e entender a estrutura do arquivo de reconciliação e da fatura relacionada à cobrança do plano do Azure.
@@ -10,22 +10,22 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 7aade0443c6418c9044a58d37b2351a89f86266d
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 3d21c796aebe41322d8f390ce54d13b1f80ec309
+ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722218"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "77521039"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nova experiência de comércio no CSP – Cobrança do Azure 
 
 **Funções apropriadas:**
 
-- Agente administrador
+- Agente administrativo
 - Administrador de cobrança
-- Administração global
+- Administrador global
 
-A cobrança no âmbito do plano do Azure é uma experiência de cobrança simplificada usando uma data de cobrança única alinhada e um período de cobrança baseado no mês civil. Para obter informações sobre a plataforma de cobrança, leia a [Visão geral sobre cobrança](billing-basics.md).
+A cobrança no âmbito do plano do Azure é uma experiência de cobrança simplificada usando uma data de cobrança única alinhada e um período de cobrança baseado no mês civil.
 
 ## <a name="summary-of-billing-essentials"></a>Resumo dos conceitos básicos de cobrança
 
@@ -163,7 +163,7 @@ Já que o modelo de cobrança para os serviços do Azure por meio de um plano do
 
 ![Gastos do Azure](images/azure/azurespend.png)
 
-**Para saber mais**
+**Para obter mais informações**
 
 -  Como o PEC (crédito ganho pelo parceiro) é calculado está localizado na lista de preços disponível por meio do [Painel](https://partner.microsoft.com/en-us/dashboard/) do Partner Center (é necessário entrar). 
    
