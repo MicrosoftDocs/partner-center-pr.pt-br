@@ -10,12 +10,12 @@ author: brentserbus
 ms.author: brserbus
 keywords: crédito de retenção de imposto, créditos de impostos, formulário de crédito de imposto alemão, certificados de imposto
 ms.localizationpriority: medium
-ms.openlocfilehash: 99b08766efa17f1ee0d52ec88147989f1f11047b
-ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+ms.openlocfilehash: dd8edceaa69ce3ca29e152cc19043b805b5748da
+ms.sourcegitcommit: 18cea2726e69b6bf6e286641e28bbe6041309ae3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "77520991"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "77618520"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Verifique se você está creditado para a retenção de imposto
 
@@ -47,7 +47,7 @@ Siga estas etapas para enviar uma nova retenção de imposto:
 ![Detalhes de retenção de imposto completos para uma fatura](images/wht2.png)
 
 6. Insira o "total de retenção" em **detalhes de retenção de imposto**. O "total de retenção" é o valor que você espera que seja creditado.
-7. **Anexe** um certificado de imposto. Você precisará incluir uma **cópia digital** dos certificados de **retenção** de imposto em sua solicitação de retenção de imposto. Você recebeu esse certificado de sua agência de impostos local quando enviou sua solicitação no Partner Center. Se você estiver enviando um **certificado de imposto sobre idioma diferente do inglês** usando o processo de solicitação de retenção de **imposto**, deverá incluir uma **tradução** do certificado de imposto. O valor do imposto sobre a fatura no certificado de retenção de imposto deve corresponder ao valor total em sua solicitação de retenção de imposto. 
+7. **Anexe** um certificado de imposto. Você precisará incluir uma **cópia digital** dos certificados de **retenção** de imposto em sua solicitação de retenção de imposto. Você recebeu esse certificado de sua agência de impostos local quando enviou sua solicitação no Partner Center. O valor do imposto sobre a fatura no certificado de retenção de imposto deve corresponder ao valor total em sua solicitação de retenção de imposto. 
 
 > [!IMPORTANT]
 > A quantidade de totais que o parceiro fornece deve corresponder ao item de linha da fatura do certificado de imposto anexado.
