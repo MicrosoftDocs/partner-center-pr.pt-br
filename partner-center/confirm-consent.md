@@ -1,25 +1,25 @@
 ---
-title: Confirmar a aceitação do cliente do Contrato do Microsoft Cloud | Partner Center
+title: Confirmar a aceitação do cliente do contrato do cliente da Microsoft |Partner Center
 ms.topic: article
 ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Saiba como confirmar a aceitação do cliente do contrato de Microsoft Cloud. Isso pode ser necessário para solicitar produtos e serviços da Microsoft para clientes.
+Description: Aprenda a confirmar a aceitação do cliente do Contrato de Cliente da Microsoft. Isso pode ser necessário para solicitar serviços e produtos da Microsoft para clientes.
 author: LauraBrenner
 ms.author: labrenne
-keywords: cliente, clientes, consentimento, MCA, contrato de Microsoft Cloud, modelos de contrato de cliente
+keywords: cliente, clientes, consentimento, MCA, contrato do cliente da Microsoft, modelos de contrato do cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 8e6493fccee9b00c953e18446ec6f101bf267210
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 0478a2fe1aad8ba04e2ac51b9a85e94491627e2c
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722087"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672836"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Confirmar a aceitação do cliente do Contrato do Microsoft Cloud
+# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confirmar a aceitação do cliente do Contrato de Cliente da Microsoft
 
 **Aplica-se a**
--  Partner Center
+-  Centro de Parceiros
 
 **Funções apropriadas**
 
@@ -33,9 +33,9 @@ ms.locfileid: "74722087"
 > * Partner Center do Microsoft Cloud for US Government
 
 >[!NOTE]
->Este contrato é válido até 31 de janeiro de 2020. Após essa data, todos os clientes, existentes e novos, devem assinar o novo contrato do cliente da Microsoft. Para saber mais, leia [confirmar a aceitação do cliente do contrato do cliente da Microsoft](confirm-customer-agreement.md).
+>A partir de 31 de janeiro de 2020, todos os clientes, existentes e novos, devem assinar o novo contrato do cliente Microsoft. Para saber mais, leia [confirmar a aceitação do cliente do contrato do cliente da Microsoft](confirm-customer-agreement.md).
 
-Como parceiro, você precisa obter a aceitação do seu cliente do contrato de Microsoft Cloud antes de poder solicitar produtos e serviços da Microsoft para esse cliente. Para ajudar mais os parceiros a atender os requisitos de conformidade, a Microsoft solicita que os parceiros confirmem a aceitação fornecendo os detalhes a seguir em relação à pessoa que aceitou o contrato: 
+Como parceiro, você precisa obter a aceitação do cliente do contrato do cliente da Microsoft antes de poder solicitar produtos e serviços da Microsoft para esse cliente. Para ajudar mais os parceiros a atender os requisitos de conformidade, a Microsoft solicita que os parceiros confirmem a aceitação fornecendo os detalhes a seguir em relação à pessoa que aceitou o contrato: 
 
 -   Nome
 
@@ -47,9 +47,9 @@ Como parceiro, você precisa obter a aceitação do seu cliente do contrato de M
 
 -   Data da aceitação
 
-Para saber mais, Confira as perguntas frequentes [sobre](https://docs.microsoft.com/partner-center/confirm-consent-faq)a confirmação de aceitação do cliente do contrato de Microsoft Cloud.
+Para saber mais, Confira as perguntas frequentes [sobre](https://docs.microsoft.com/partner-center/confirm-consent-faq)a confirmação de aceitação do cliente do contrato de cliente da Microsoft.
 
-Parceiros de cobrança direto e provedores indiretos devem confirmar a aceitação do cliente do contrato de Microsoft Cloud ao transagirem por meio da API do Partner Center ou do Partner Center. A confirmação é *obrigatória*.
+Parceiros de cobrança direto e provedores indiretos devem confirmar a aceitação do cliente do contrato do cliente da Microsoft ao transagirem por meio da API do Partner Center ou do Partner Center. A confirmação é *obrigatória*.
 
 Se a confirmação não for fornecida por um determinado cliente:
 
@@ -79,7 +79,7 @@ Use o procedimento a seguir para confirmar a aceitação do cliente enquanto voc
 
 ![Informações da empresa](images/mca/mca1.png)
 
-3. Em **Contrato do Microsoft Cloud**, selecione **O cliente aceitou o último contrato do Microsoft Cloud**.
+3. Em **contrato de cliente da Microsoft**, selecione **o cliente aceitou o contrato de cliente da Microsoft mais recente**.
 4. Em **Data de aceitação do contrato**, insira a data apropriada. Você não pode definir isso como uma data futura.
 5. Insira os detalhes do usuário que forneceu a aceitação.
 
@@ -95,7 +95,7 @@ Você deve ser um Agente administrativo ou Agente de vendas para fazer isso.
 
 1. Selecione **Clientes** e então localize e selecione o cliente que você deseja ver.
 2. Selecione **Informações da Conta**.
-3. Em **Contrato do Microsoft Cloud**, selecione **Atualizar**.
+3. Em **contrato de cliente da Microsoft**, selecione **Atualizar**.
 
 ![Atualizar](images/mca/mca4.png)
 
@@ -117,4 +117,4 @@ Você pode recuperar a confirmação da aceitação do cliente para um cliente e
 
 1. Selecione **Clientes** e então localize e selecione o cliente que você deseja ver.
 2. Selecione **Informações da Conta**.
-3. Em **contrato de nuvem da Microsoft**, você verá se a confirmação foi ou não fornecida para este cliente.
+3. Em **contrato de cliente da Microsoft**, você verá se a confirmação foi ou não fornecida para este cliente.

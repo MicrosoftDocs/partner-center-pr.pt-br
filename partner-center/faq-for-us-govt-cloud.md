@@ -8,12 +8,12 @@ description: Consulte as respostas para perguntas frequentes sobre o programa CS
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6aa9b3d3e4a6f73254ad0ea843a0f37be824f23d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 051e7dfabb8e29f3831ecfb2cc510e5057f062f8
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253642"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672666"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Perguntas frequentes sobre o Partner Center para Microsoft Cloud for US Government
 
@@ -37,7 +37,7 @@ Os parceiros nos Estados Unidos que atendem a órgãos federais, estaduais e mun
 
 **O preço do cliente é o mesmo para o CSP comercial?**
 
-Nº Os preços refletirão os custos adicionais para prover o valor exclusivo do Microsoft Cloud for US Government.
+Não. Os preços refletirão os custos adicionais para prover o valor exclusivo do Microsoft Cloud for US Government.
 
 **O modelo de desconto do parceiro é o mesmo?**
 
@@ -71,13 +71,13 @@ O MCRA do Microsoft Cloud para o Governo dos Estados Unidos é diferente do MCRA
 
 -   O Adendo para Nuvem do Governo dos Estados Unidos contém responsabilidades adicionais do parceiro para transações de serviços de Nuvem do Governo dos Estados Unidos.
 
--   O anexo A contém o contrato de Microsoft Cloud (contrato de Microsoft Cloud) que deve ser incorporado a todos os contratos para serviços de nuvem do governo dos EUA inseridos entre o CSP e seu cliente.
+-   O anexo A contém o contrato do cliente da Microsoft (contrato do cliente da Microsoft) que deve ser incorporado a todos os contratos dos serviços de nuvem do governo dos EUA inseridos entre o CSP e seu cliente.
 
-*Contrato de Microsoft Cloud (contrato de Microsoft Cloud) apresentado como anexo A no MCRA*
+*Contrato do cliente da Microsoft (contrato do cliente da Microsoft) apresentado como anexo A no MCRA*
 
 Os CSPs são requisitados a incorporar o Anexo A nos contratos do governo firmados entre CSPs e os clientes que compram o Microsoft Cloud para o Governo dos Estados Unidos. O contrato está publicado no Partner Center e está disponível em inglês.
 
-O Contrato do Microsoft Cloud para Nuvem do Governo dos Estados Unidos é diferente do Contrato do Microsoft Cloud padrão nas duas seguintes maneiras:
+O contrato do cliente da Microsoft para a nuvem do governo dos EUA é diferente do contrato de cliente da Microsoft padrão das duas maneiras a seguir:
 
 -   Ele precisa ser incorporado ao contrato do CSP com seu cliente.
 
@@ -91,7 +91,7 @@ O MCDA do Microsoft Cloud para o Governo dos Estados Unidos é diferente do MCDA
 
 -   O Adendo do Microsoft Cloud para o Governo dos Estados Unidos contém responsabilidades adicionais do parceiro para transações de serviços de Nuvem do Governo dos Estados Unidos.
 
--   O anexo A contém um contrato de Microsoft Cloud (contrato de Microsoft Cloud) que precisa ser incorporado a todos os contratos para serviços de nuvem do governo dos EUA inseridos entre o CSP e seus clientes.
+-   O anexo A contém um contrato de cliente da Microsoft (contrato do cliente da Microsoft) que precisa ser incorporado a todos os contratos para serviços de nuvem do governo dos EUA inseridos entre o CSP e seus clientes.
 
 **Quais são as qualificações para vender Microsoft Cloud para o governo dos EUA?**
 
@@ -103,11 +103,11 @@ Os parceiros precisarão aderir ao programa CSP do Microsoft Cloud para o Govern
 
 **Há alguma diferença nos incentivos do parceiro?**
 
-Nº Os incentivos para parceiros do programa CSP do Microsoft Cloud for US Government são iguais aos do CSP Comercial. Para saber mais sobre os incentivos para parceiros, entre no [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/partner-incentives).
+Não. Os incentivos para parceiros do programa CSP do Microsoft Cloud for US Government são iguais aos do CSP Comercial. Para saber mais sobre os incentivos para parceiros, entre no [portal do Microsoft Partner Network](https://partner.microsoft.com/membership/partner-incentives).
 
 **Há alguma alteração na cobrança?**
 
-Nº Os critérios de cobrança e os requisitos do Programa CSP do Microsoft Cloud for US Government são iguais aos do CSP Comercial. Para saber mais sobre a cobrança, examine os recursos no [Microsoft Partner Network](https://partner.microsoft.com/cloud-solution-provider/resources).
+Não. Os critérios de cobrança e os requisitos do Programa CSP do Microsoft Cloud for US Government são iguais aos do CSP Comercial. Para saber mais sobre a cobrança, examine os recursos no [Microsoft Partner Network](https://partner.microsoft.com/cloud-solution-provider/resources).
 
 **Para dados hospedados em data centers comerciais, é possível mudar para Microsoft Cloud para o governo dos EUA?**
 

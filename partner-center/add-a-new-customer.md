@@ -10,24 +10,24 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cliente, adicionar cliente, conta do cliente, conta do cliente no Partner Center, clientes, adicionar clientes, criar conta do cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 7a97dbbd72cf5b1a16d4cd4e805e4d33bf9c4b53
-ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
+ms.openlocfilehash: 81fd5d50db67b32ab6dac22c008dfcab0e347893
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76860437"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672706"
 ---
-# <a name="add-a-new-customer"></a>Adicionar um novo cliente 
+# <a name="add-a-new-customer"></a>Adicione um novo cliente 
 
 **Aplica-se a**
 
-- Partner Center
+- Centro de Parceiros
 - Partner Center do Microsoft Cloud for US Government
 - Parceiros do programa Provedor de Soluções na Nuvem
 
 **Funções apropriadas**
 
-- Administração global
+- Administrador global
 - Administrador de gerenciamento de usuário
 - Agente administrativo
 - Agente de vendas
@@ -42,10 +42,10 @@ Antes de poder vender assinaturas, gerenciar a cobrança ou fornecer suporte a u
 
 1. Selecione **clientes** no menu do centro de parceiros e, em seguida, selecione **Adicionar cliente**.
 
-2. Na página **informações da conta** , insira os detalhes do cliente e as informações de contato principal e verifique se o cliente aceitou e assinou o [contrato de Microsoft Cloud](agreements.md)mais recente.
+2. Na página **informações da conta** , insira os detalhes do cliente e as informações de contato principal e verifique se o cliente aceitou e assinou o [contrato de cliente da Microsoft](agreements.md)mais recente.
 
 >[!IMPORTANT] 
-> Em 1º de outubro de 2019, a Microsoft introduziu o **contrato do cliente da Microsoft** para o programa CSP para substituir o contrato de Microsoft Cloud. Para facilitar a migração dos parceiros para o novo contrato, haverá suporte para o Contrato do Microsoft Cloud atual no programa CSP até 31 de janeiro de 2020. Leia sobre o [contrato do cliente da Microsoft e como confirmar o consentimento](confirm-customer-agreement.md)
+> Em 1º de outubro de 2019, a Microsoft introduziu o **Contrato de Cliente da Microsoft** ao programa CSP para substituir o Contrato do Microsoft Cloud. Leia sobre o [contrato do cliente da Microsoft e como confirmar o consentimento](confirm-customer-agreement.md)
   
 3. Se você for um provedor indireto, selecione o revendedor indireto que você deseja associar às assinaturas deste cliente na lista.
 
@@ -60,7 +60,7 @@ Antes de poder vender assinaturas, gerenciar a cobrança ou fornecer suporte a u
 
 7. Selecione **concluído** quando tiver terminado de adicionar as informações do cliente e comprado as assinaturas necessárias.
 
-## <a name="see-also"></a>Veja também
+## <a name="see-also"></a>Consulte também
 
 - Consulte [ofertas de parceiros no programa do provedor de soluções na nuvem](csp-offers.md) para obter mais informações sobre o que você pode vender aos clientes por meio do programa provedor de soluções na nuvem.
 

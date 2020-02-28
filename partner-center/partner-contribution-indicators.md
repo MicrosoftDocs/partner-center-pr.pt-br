@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3e71d9c09e03c4464774fc80f0bd27af1dc82ea1
-ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
+ms.openlocfilehash: 830965f4d44cefea2a66adeac681f6350a562503
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "75716900"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672686"
 ---
 # <a name="partner-contribution-indicators"></a>Indicadores de contribuição de parceiros
 
@@ -44,7 +44,7 @@ Cada indicador traz uma pontuação que é adicionada ao total. Aqui estão as p
 
 ### <a name="thresholds"></a>Limites
 
-Cada métrica de PCI tem limites definidos pela Microsoft que podem fazer com que sua empresa ganhe o máximo possível de pontos. Esses limites são diferentes para o envolvimento do cliente e os caminhos de operações de & de Finanças para atingir a competência de Business Applications de nuvem. Os limites também são diferentes para os parceiros que operam em mercados desenvolvidos em relação aos que operam exclusivamente no desenvolvimento de mercados.  A categorização de mercado desenvolvida ou desenvolvendo de um país baseia-se nas [definições de Microsoft Partner Network](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf).
+Cada métrica de PCI tem limites definidos pela Microsoft que podem fazer com que sua empresa ganhe o máximo possível de pontos. Esses limites são diferentes para o envolvimento do cliente e os caminhos de operações de & de Finanças para atingir a competência de Business Applications de nuvem. Os limites também são diferentes para os parceiros que operam em mercados desenvolvidos em relação aos que operam exclusivamente no desenvolvimento de mercados.  A categorização de mercado desenvolvida ou desenvolvendo de um país baseia-se nas [definições de Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
 Os pontos em cada métrica são contratados para produzir uma pontuação de PCI distinta para o envolvimento do cliente e as operações de & de Finanças que serão atualizadas mensalmente.
 

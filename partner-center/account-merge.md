@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: e431d14c90e1884076e0aebf14dbca6644b1796b
-ms.sourcegitcommit: 37aae4668fb7dbf0e262d1e2d0395ced2745bef9
+ms.openlocfilehash: 5194f9ca6bcd843a748a2f6035fdd14422712548
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "77075999"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672646"
 ---
 # <a name="merging-your-partner-account-with-another-partner-account"></a>Mesclando sua conta de parceiro com outra conta de parceiro
 
@@ -43,7 +43,8 @@ Duas ou mais empresas que estão ativas parceiros da Microsoft e que têm contas
 
 ### <a name="view-of-merged-accounts"></a>Exibição de contas mescladas
 
-![Contas mescladas](images/accountmerge1.png)
+![Contas mescladas](images/AccountMerge_graphic.png)
+
 
 ## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>O que esperar se você tiver sido convidado para mesclar sua conta do Partner Center com outra conta do Partner Center
 
