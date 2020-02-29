@@ -9,18 +9,18 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: assinaturas, produtos, compras, Marketplace, terceiros, ISV, cobrança, faturas, reconciliação, arquivo reconhecimento
 ms.localizationpriority: medium
-ms.openlocfilehash: bc4dcca3d8c3d454a17eca676d5fadd1dac202d3
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 983cdfbe67b04205a6c863d92577225449572c52
+ms.sourcegitcommit: 2634057663a0ea27393212f898018538dada796e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384918"
+ms.lasthandoff: 02/28/2020
+ms.locfileid: "78161442"
 ---
 # <a name="billing-for-commercial-marketplace-products"></a>Cobrança de produtos do Marketplace comercial
 
 **Aplica-se a**
 
-- Partner Center
+- Centro de Parceiros
 - Parceiros no programa CSP
 
 **Funções apropriadas**
@@ -35,7 +35,7 @@ Você pode acessar as faturas no [painel](https://partner.microsoft.com/dashboar
 Os parceiros no programa CSP são cobrados pelas soluções do ISV Commercial Marketplace adquiridas para um cliente quando compram esses produtos da central de parceiros ou da portal do Azure (usando o locatário do Azure do cliente antes, adquirido pelo CSP).
 
 >[!NOTE]
->Se os clientes usam seu próprio locatário do Azure AD (não adquirido de um parceiro no programa CSP), os clientes também podem optar por comprar sua própria solução de SaaS de ISV diretamente do ([Microsoft AppSource](https://appsource.microsoft.com/) ou [do Azure Marketplace](https://azuremarketplace.microsoft.com/)). Se fizerem isso, eles receberão sua própria conta diretamente da Microsoft. Da mesma forma, se um parceiro no programa CSP vender um locatário do Azure AD para o cliente e conceder ao cliente o [acesso baseado em função](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles) a esse locatário (atribuindo qualquer função ao cliente além do **leitor**), esse cliente também poderá comprar ofertas do Marketplace comercial sem aprovação prévia ou notificação para o parceiro CSP. Nesses casos, a Microsoft não notificará diretamente os parceiros no programa CSP sobre as compras feitas por seus clientes. No entanto, a Microsoft oferece um mecanismo de [Azure monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log) opcional que você pode usar para definir alertas ou notificações sobre a atividade em uma assinatura do Azure.
+>Se os clientes usam seu próprio locatário do Azure AD (não adquirido de um parceiro no programa CSP), os clientes também podem optar por comprar sua própria solução de SaaS de ISV diretamente do ([Microsoft AppSource](https://appsource.microsoft.com/) ou [do Azure Marketplace](https://azuremarketplace.microsoft.com/)). Se fizerem isso, eles receberão sua própria conta diretamente da Microsoft. Da mesma forma, se um parceiro no programa CSP vender uma assinatura do Azure ou o novo plano do Azure para o cliente e conceder ao cliente o [acesso baseado em função](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles) a esse locatário (atribuindo qualquer função ao cliente, além do **leitor**), esse cliente também poderá comprar ofertas do Marketplace comercial sem aprovação prévia ou notificação para o parceiro CSP. Nesses casos, a Microsoft não notificará diretamente os parceiros no programa CSP sobre as compras feitas por seus clientes. No entanto, a Microsoft oferece um mecanismo de [Azure monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log) opcional que você pode usar para definir alertas ou notificações sobre a atividade em uma assinatura do Azure.
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>Acessar informações de cobrança para produtos do Marketplace comercial
 
@@ -70,7 +70,7 @@ Quando você seleciona **compras recorrentes e de uso único** da opção de **c
 
 - Assinaturas de SaaS (de editores da Microsoft ou ISV)
 
-- Plano do Azure
+- plano do Azure
 
 - Reservas do Azure
 
@@ -107,7 +107,7 @@ No caso de ofertas de avaliação gratuitas do ISV:
 
 Para obter mais informações sobre o que cada coluna representa, consulte [usar seus arquivos de reconciliação](use-the-reconciliation-files.md). Consulte também [tipos de cobrança no Partner Center](billing-different-types.md)
 
-## <a name="next-steps"></a>Próximas etapas
+## <a name="next-steps"></a>{1&gt;{2&gt;Próximas etapas&lt;2}&lt;1}
 
 - [Gerenciar produtos do Marketplace comercial para clientes](csp-commercial-marketplace-manage.md)
 - [Saiba mais sobre o suporte para produtos do Marketplace comercial](csp-commercial-marketplace-support.md)
