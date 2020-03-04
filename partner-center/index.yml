@@ -12,12 +12,12 @@ metadata:
   ms.author: labrenne
   manager: evansma
   ms.date: 02/07/2020
-  ms.openlocfilehash: 6f813e45dacd881d6b83ab89ee3c1c25d8913593
-  ms.sourcegitcommit: 37aae4668fb7dbf0e262d1e2d0395ced2745bef9
+  ms.openlocfilehash: 004c3a5b03685f41a7a1e76b734b71bccc50ca7b
+  ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
   ms.translationtype: HT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 02/07/2020
-  ms.locfileid: "77075601"
+  ms.lasthandoff: 03/03/2020
+  ms.locfileid: "78240213"
 highlightedContent:
   items:
   - title: Entre para ver os comunicados mais recentes
@@ -41,9 +41,6 @@ highlightedContent:
   - title: A nova experiência de comércio no Partner Center – plano do Azure
     itemType: whats-new
     url: azure-plan-lp.md
-  - title: Prepare-se para o dia bissexto. 29 de fevereiro de 2020 está chegando rapidamente. Verifique se seu código pode lidar com o dia extra.
-    itemType: whats-new
-    url: https://aka.ms/leapday2020blog
 conceptualContent:
   title: Trabalhando no Partner Center
   items:

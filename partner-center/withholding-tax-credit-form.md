@@ -10,18 +10,18 @@ author: brentserbus
 ms.author: brserbus
 keywords: crédito de retenção de imposto, créditos de impostos, formulário de crédito de imposto alemão, certificados de imposto
 ms.localizationpriority: medium
-ms.openlocfilehash: dd8edceaa69ce3ca29e152cc19043b805b5748da
-ms.sourcegitcommit: 18cea2726e69b6bf6e286641e28bbe6041309ae3
+ms.openlocfilehash: ceb8958faa2d2e826cb74caa0484fb90c9667bb0
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "77618520"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240223"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Verifique se você está creditado para a retenção de imposto
 
 Aplica-se a:
 
-- Centro de Parceiros
+- Partner Center
 
 Este tópico explica como certificar-se de que você é creditado para a retenção de imposto no Partner Center. Ele explica como criar uma solicitação de retenção de imposto no Partner Center.
 
@@ -50,7 +50,7 @@ Siga estas etapas para enviar uma nova retenção de imposto:
 7. **Anexe** um certificado de imposto. Você precisará incluir uma **cópia digital** dos certificados de **retenção** de imposto em sua solicitação de retenção de imposto. Você recebeu esse certificado de sua agência de impostos local quando enviou sua solicitação no Partner Center. O valor do imposto sobre a fatura no certificado de retenção de imposto deve corresponder ao valor total em sua solicitação de retenção de imposto. 
 
 > [!IMPORTANT]
-> A quantidade de totais que o parceiro fornece deve corresponder ao item de linha da fatura do certificado de imposto anexado.
+> A quantidade de totais que o parceiro fornece deve corresponder ao item de linha da fatura do certificado de imposto anexado. Os arquivos de certificado de imposto anexado devem ser um dos seguintes formatos de arquivo:. Somente PDF e imagem (. JPEG,. PNG e. GIF). Além disso, os nomes de arquivos não devem conter espaços ou caracteres especiais.
 
 8. **Envie** a solicitação de retenção de imposto.
 
