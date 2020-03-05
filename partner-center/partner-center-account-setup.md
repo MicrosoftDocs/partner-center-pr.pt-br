@@ -1,7 +1,7 @@
 ---
 title: Gerenciar sua conta do Partner Center | Partner Center
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 03/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Gerencie as informações de perfil, de catálogo, bancárias e fiscais de sua empresa, funções, permissões e muito mais no Partner Center.
@@ -10,38 +10,48 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: ec5934e4d35b653e8e781e8eb1290bfbaee0d737
-ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
+ms.openlocfilehash: 6955ba66c95557d8e704ec4737f6be6b9006e344
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76812658"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240174"
 ---
 # <a name="manage-your-partner-center-account"></a>Gerenciar sua conta do Partner Center
 
 **Aplica-se a**
 
--  Partner Center
-
-**Funções apropriadas**
--   Administrador global
--   Administrador de usuários
--   Agente administrativo
+- Partner Center
 
 A conta que você cria no Partner Center ao se inscrever é seu email de trabalho mais suas informações comerciais. Após a criação de uma conta no Partner Center, você ou seu administrador precisará concluir a configuração do perfil completo da sua empresa, incluindo detalhes de suporte, isenções de impostos (se apropriado) e informações do contato principal. A conta de sua empresa também incluirá contas de usuário para qualquer pessoa que usar o Partner Center para adicionar ou gerenciar clientes, vender assinaturas, trabalhar com cobrança e faturamento, criar perfis comerciais, gerenciar indicações, trabalhar com programas de incentivos e fornecer suporte.
 
+## <a name="programs-in-which-you-are-enrolled"></a>Programas nos quais você está registrado
+
+Grande parte do trabalho que você faz para gerenciar sua conta do Partner Center está relacionado com os programas específicos nos quais você está registrado e as funções e permissões de usuário que foram atribuídas no Partner Center.
+
+É fácil ver quais programas você pode acessar no Partner Center:
+
+1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
+2. Acesse o painel de navegação esquerdo. As opções associadas aos programas em que você está registrado serão exibidas.
+
+Veja um exemplo. Suponha que um usuário tem acesso a três programas no painel do Partner Center: O programa **MPN**, o programa de **Indicações** e o programa **Marketplace Comercial**. Ao entrar no painel do Partner Center, você verá esses três programas no lado esquerdo da tela.
+
+![menu de programas em que você está registrado](images/accountsettings/programs-enrolled-left-nav.png)
+
 ## <a name="account-management"></a>Gerenciamento de contas
 
-O Partner Center hoje tem gerenciamento de contas em duas seções diferentes: configurações de **Parceiro** e configurações de **Desenvolvedor**. 
+O Partner Center hoje tem gerenciamento de contas em duas seções diferentes: **Configurações de parceiro** e **Configurações de desenvolvedor**.
 
 >[!NOTE]
->As configurações da conta estão localizado no canto superior direito do Partner Center. Quando selecionar o ícone, você poderá selecionar o que deseja gerenciar. 
+>Para acessar as **Configurações de parceiro** ou as **Configurações de desenvolvedor**, é preciso entrar no [painel](https://partner.microsoft.com/dashboard) do Partner Center e selecionar a opção **Configurações** (ícone de engrenagem) no canto superior direito da tela. Em seguida, você poderá selecionar **Configurações de parceiro** ou **Configurações de desenvolvedor** no menu suspenso.
 
 ![Configurações de conta](images/accountsettings/account1.png)
 
-Os parceiros podem ver a opção de gerenciamento de configurações de Parceiro e/ou configurações de Desenvolvedor, dependendo se a empresa deles foi inscrita nesses programas. A opção de configurações só estará disponível se sua empresa estiver registrada em pelo menos um programa associado a essa configuração. 
+Os parceiros podem ver a opção de gerenciamento de **Configurações de parceiro** e/ou **Configurações de desenvolvedor**, dependendo se a empresa deles foi registrada nesses programas. A opção de configurações só estará disponível se sua empresa estiver registrada em pelo menos um programa associado a essa configuração.
 
-Para gerenciar as configurações da sua conta, você deve selecionar a opção de configurações de conta apropriada para o programa. Os programas em que sua empresa está registrada estão visíveis na navegação à esquerda do Partner Center. Esta é uma lista (não exaustiva) de programas e opções de configurações correspondentes:
+Para gerenciar as configurações da sua conta, você deve selecionar a opção de configurações de conta apropriada para o programa.  
+
+Esta é uma lista parcial de programas disponíveis e a opção de configurações correspondentes associada a esse programa:
 
 |**Nome do programa**   |**Opção de configurações** |
 |---------------------|:-----------------------|
@@ -55,17 +65,28 @@ Para gerenciar as configurações da sua conta, você deve selecionar a opção 
 
 ## <a name="the-differences-in-partner-and-developer-settings-options"></a>As diferenças nas opções de configurações de Parceiro e de Desenvolvedor
 
-**Opções de configurações de conta do Parceiro**:
+As opções de **Configurações de parceiro** serão diferentes das opções de **Configurações de desenvolvedor**. Veja abaixo as capturas de tela de exemplo de cada conjunto de opções. Se você tiver acesso a outros programas, também poderá ver opções diferentes dos exemplos de captura de tela mostrados aqui.
+
+**Opções de configurações de parceiro**:
 
 ![opções de parceiro](images/accountsettings/partneroptions.png)
 
-**Opções de configurações de conta do Desenvolvedor**:
+**Opções de configurações de desenvolvedor**:
 
 ![opções de desenvolvedor](images/accountsettings/devoptions.png)
 
 ## <a name="enrolling-in-programs"></a>Registrar-se em programas
 
-O Partner Center tem muitos programas e cada um deles tem requisitos diferentes para registrar sua empresa. Para saber como registrar-se em programas do Partner Center, confira [Rede de parceiros](https://partner.microsoft.com/). 
+Há muitos programas do Partner Center disponíveis. Cada programa tem requisitos diferentes que sua empresa precisa atender antes que possa se registrar nesse programa.
+
+Para saber mais sobre o registro em determinados programas do Partner Center, consulte a lista parcial a seguir:
+
+- [Programa do Marketplace Comercial](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [Programa MPN](https://support.microsoft.com/help/4500026/enroll-and-subscribe-to-your-microsoft-partner-network-membership-in-p?tpqid=100-000012)
+- [Programa CSP](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [Office Store](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
+
+Para saber mais sobre o registro em programas do Partner Center, confira também os [recursos de rede do parceiro](https://partner.microsoft.com/).
 
 ## <a name="the-account-picker"></a>O seletor de conta
 
@@ -73,7 +94,9 @@ Você pode fazer parte de mais de uma conta. Se você fizer parte de várias con
 
 ![seletor de conta](images/accountsettings/accountpicker.png)
 
-## <a name="resources-to-help-you-manage-your-partner-center-account"></a>Recursos que ajudam a gerenciar sua conta do Partner Center
+## <a name="other-resources-to-help-you-manage-your-partner-center-account"></a>Outros recursos que ajudam a gerenciar a conta do Partner Center
+
+Se você estiver registrado em programas como o MPN ou o CSP (Provedor de Soluções na Nuvem), os recursos a seguir ajudarão você a gerenciar sua conta.
 
 |**Para fazer isso**   |**Leia isto**   |
 |-----------------------|:-----------------------|
@@ -87,22 +110,3 @@ Você pode fazer parte de mais de uma conta. Se você fizer parte de várias con
 |Verifique se sua empresa está disponível no mercado para que os clientes possam encontrar você   |[Criar um perfil de negócios](create-a-marketing-profile.md)|
 |Organize seu catálogo para que os produtos mais importantes estejam na parte superior da lista   |[Personalizar o catálogo](customize-the-catalog.md)|
 |Mantenha-se atualizado em termos de preços e ofertas atuais   |[Preços e ofertas](pricing-and-offers.md)|
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
-
-
-

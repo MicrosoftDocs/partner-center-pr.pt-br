@@ -7,14 +7,14 @@ ms.subservice: partnercenter-csp
 description: Uma introdução à habilitação da MFA (Autenticação Multifator) e à adoção da estrutura de Modelo de Aplicativo Seguro, que agora são obrigatórias para parceiros.
 author: isaiahwilliams
 ms.author: iswillia
-keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor do painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
+keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor de painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
 ms.localizationpriority: high
-ms.openlocfilehash: dd7590634339acd3bfb6f1fe3fafd08aa7bdbf5c
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: b0fe328008ae56272ddd8e22722071e5858881c8
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723443"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672796"
 ---
 # <a name="partner-security-requirements"></a>Requisitos de segurança de parceiros
 
@@ -64,13 +64,21 @@ Para atender aos requisitos de segurança do parceiro, você precisa impor a aut
 
 ## <a name="security-defaults"></a>Padrões de segurança
 
-- Os padrões de segurança estão substituindo as políticas de linha de base. 
+A política de padrões de segurança é uma das [opções](#actions-that-you-need-to-take) em que os parceiros podem optar por implementar o MFA para os requisitos de segurança, dependendo de suas necessidades corporativas. Ela oferece um nível básico de segurança habilitado sem nenhum custo adicional. Examine como habilitar a MFA para sua organização com o Azure AD e as principais considerações abaixo antes de habilitar os padrões de segurança.
 
 - As políticas de linha de base permanecerão nos próximos alguns meses, mas serão preteridas no final de fevereiro de 2020.
 
 - Os parceiros que já adotaram políticas de linha de base precisam tomar medidas para fazer a transição para os padrões de segurança.
 
+- Os padrões de segurança são a substituição de disponibilidade geral das políticas de linha de base de visualização. Depois que um parceiro habilita os padrões de segurança, eles não poderão mais habilitar as políticas de linha de base.
+
 - Com os padrões de segurança, todas as políticas serão habilitadas ao mesmo tempo. 
+
+- Para os parceiros que estão usando o [acesso condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common), [os padrões de segurança não estarão disponíveis](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults).
+
+- O bloqueio da autenticação herdada não será imposto para parceiros no momento. No entanto, como a maioria dos eventos relacionados a identidades comprometidas são provenientes de tentativas de entrada usando a autenticação herdada, os parceiros são incentivados a se afastar desses protocolos mais antigos.
+
+- A conta de sincronização do Azure AD Connect é excluída dos padrões de segurança.
 
 - Para obter informações detalhadas, leia [Habilitar a autenticação multifator para sua organização](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-get-started) e [Padrões de segurança do Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 

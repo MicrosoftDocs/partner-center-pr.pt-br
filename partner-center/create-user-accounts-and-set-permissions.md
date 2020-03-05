@@ -1,7 +1,7 @@
 ---
 title: Criar contas de usuário e definir permissões | Partner Center
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 02/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como criar contas de usuário e atribuir funções no Partner Center para cada funcionário que precisar de acesso. Usuários com diferentes privilégios de administrador podem fazer isso.
@@ -10,35 +10,35 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: funções, permissões, adicionar usuário, atribuir função, administrador, agente,
 ms.localizationpriority: high
-ms.openlocfilehash: 94dd39a9ecf2703c14b33f07fd08d4111eeefccd
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 6bbae5b8bcd2882c7ba32a8b660fc256dec4e49a
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722463"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240203"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Criar contas de usuário e atribuir permissões
 
 **Funções apropriadas**
 
 - Administrador de conta
-- Administração global
+- Administrador global
 - Administrador de gerenciamento de usuário
 
-Crie contas de usuário para os funcionários que precisam acessar o Partner Center. Essas tarefas precisam ser realizadas pelo administrador de gerenciamento de usuários, pelo administrador de contas ou pelo administrador global.
+Crie contas de usuário para os funcionários que precisam acessar o Partner Center. Essas tarefas precisam ser realizadas pelo administrador de gerenciamento de usuários, pelo administrador de contas ou pelo administrador global. O usuário que realiza essas tarefas também deve receber as funções do AAD (Azure Active Directory) do administrador de usuários ou do administrador global. Para saber mais sobre as funções do AAD, confira [Permissões de função de administrador no Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles).
 
 
 ## <a name="add-a-new-user"></a>Adicionar um novo usuário
 
 1. No ícone **Configurações** no canto superior direito do Partner Center, selecione **Gerenciamento de usuários**.
 
-2.  Selecione **Adicionar usuário**.
+2. Selecione **Adicionar usuário**.
 
-3.  Insira o nome completo e endereço de email exclusivo do usuário.
+3. Insira o nome completo e endereço de email exclusivo do usuário.
 
-4.  Selecione o tipo de agente e/ou o tipo de administrador que deseja atribuir ao usuário. O acesso do Partner Center é baseado em função, portanto, você pode atribuir permissões para personalizar o modo de exibição do usuário e mostrar somente os recursos que o usuário precisa para completar tarefas específicas.  Se os usuários quiserem obter uma atribuição de função, eles poderão encontrar administradores globais para contato acessando **Gerenciamento de usuários** e filtrando por administrador global.
+4. Selecione o tipo de agente e/ou o tipo de administrador que deseja atribuir ao usuário. O acesso do Partner Center é baseado em função, portanto, você pode atribuir permissões para personalizar o modo de exibição do usuário e mostrar somente os recursos que o usuário precisa para completar tarefas específicas.  Se os usuários quiserem obter uma atribuição de função, eles poderão encontrar administradores globais para contato acessando **Gerenciamento de usuários** e filtrando por administrador global.
 
-5.  Selecione **Adicionar** para criar a conta de usuário. Confirme os detalhes do usuário na próxima página.
+5. Selecione **Adicionar** para criar a conta de usuário. Confirme os detalhes do usuário na próxima página.
 
 > [!IMPORTANT]  
 > Anote as novas informações de login do usuário exibidas nessa página. Certifique-se de copiar e enviar essas informações para o novo usuário, pois você não conseguirá acessá-las novamente mais tarde. 
@@ -62,11 +62,11 @@ Para trabalhar no Partner Center, você precisará ter uma função atribuída. 
 
 
 **As funções de locatário do AAD incluem**:
-- Administração global
+- Administrador global
 - Administrador de usuários
 
 **As funções do CSP incluem**:
-- Agente administrador
+- Agente administrativo
 - Administrador de cobrança
 - Agente de vendas
 - Agente de suporte técnico
@@ -79,7 +79,7 @@ Para trabalhar no Partner Center, você precisará ter uma função atribuída. 
 - Administrador e usuário de incentivos
 
 **O fornecedor de painel de controle é uma função de CSP e não AAD**.
-- Administração global
+- Administrador global
 
 O **usuário convidado** precisa fazer parte do locatário do AAD e pode ter qualquer função que não seja do AAD.
 
