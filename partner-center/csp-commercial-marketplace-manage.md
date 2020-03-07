@@ -10,17 +10,17 @@ ms.author: v-mihope
 keywords: assinaturas, Marketplace, terceiros, ISV, ofertas de SaaS, programa de provedor de soluções na nuvem, gerenciar uma oferta, gerenciar uma assinatura, licenças, cancelar uma assinatura, estações, desativar renovação automática, ID de MPN do revendedor indireto
 ms.localizationpriority: medium
 ms.openlocfilehash: 7dbcc978340240175d2c03a5ba1e9312b48d7bdc
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253804"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340204"
 ---
 # <a name="manage-commercial-marketplace-products-for-your-customers"></a>Gerenciar produtos do Marketplace comercial para seus clientes
 
 **Aplica-se a**
 
-- Partner Center
+- Centro de Parceiros
 - Parceiros no programa CSP
 
 **Funções apropriadas**
@@ -111,7 +111,7 @@ Para ofertas de Marketplace comercial de SaaS, você pode adicionar ou remover l
 
 Você também pode usar as APIs do Partner Center para executar o gerenciamento do ciclo de vida e gerenciar faturas para suas assinaturas. Para obter mais informações, consulte [criar uma assinatura para produtos do Marketplace comercial](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).
 
-## <a name="next-steps"></a>Próximas etapas
+## <a name="next-steps"></a>{1&gt;{2&gt;Próximas etapas&lt;2}&lt;1}
 
 - [Comprar ofertas do Marketplace comercial](csp-commercial-marketplace-purchase.md)
 - [Saiba mais sobre cobrança no Marketplace comercial](csp-commercial-marketplace-billing.md)

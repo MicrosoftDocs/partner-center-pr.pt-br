@@ -8,13 +8,13 @@ description: Saiba mais sobre os benefícios e modelos diferentes no programa de
 author: LauraBrenner
 ms.author: labrenne
 keywords: Provedor de Soluções na Nuvem, CSP, serviços baseados na Nuvem, Azure, Office 365, Dynamics, parceiro CSP, vender no CSP, parceiro direto, parceiro CSP direto, revendedor CSP indireto, CSP direto, CSP indireto, modelo direto, modelo indireto, revendedor indireto, provedor indireto, provedor, distribuidor, programa provedor de soluções na nuvem
-ms.localizationpriority: medium
-ms.openlocfilehash: 203168cd57724723261e661627343594a1e8be00
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.localizationpriority: high
+ms.openlocfilehash: 92e2bda54427cb0323df20b0dc1195791e1292ae
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672826"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340224"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programa Provedor de Soluções na Nuvem - vender soluções de nuvem em demanda 
 
@@ -78,6 +78,6 @@ Você pode vender a gama completa de [serviços em nuvem da Microsoft](https://p
 |:---------------------------|:--------------------|
 |Requisitos para cada modelo CSP   | [Programa do provedor de soluções na nuvem](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |Vender em nuvens nacionais da Microsoft   | [Aplicar à venda em nuvens nacionais da Microsoft](csp-national-clouds-overview.md)|
-|Modelos de cliente do Contrato de Cliente da Microsoft   |[Contratos de clientes da Microsoft por região e idioma](agreements.md)|
+|Modelos de cliente do Contrato de Cliente da Microsoft   |[Contratos de Cliente da Microsoft por região e idioma](agreements.md)|
 |Tarefas de provedor indireto no Partner Center  |[Parceiro com revendedores indiretos no programa de provedor de soluções na nuvem](indirect-provider-tasks-in-partner-center.md)|
 |Tarefas indiretas do revendedor no Partner Center   |[Parceiro com provedores indiretos no programa de provedor de soluções na nuvem](indirect-reseller-tasks-in-partner-center.md)|
