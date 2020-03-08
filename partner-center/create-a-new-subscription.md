@@ -11,23 +11,23 @@ ms.author: labrenne
 Keywords: assinatura, criar novo, adicionar assinatura, suspender, cancelar, suspensão, suspender, SaaS, licença, ISV, terceiros
 ms.localizationpriority: medium
 ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721717"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340135"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Criar, suspender ou cancelar assinaturas de clientes
 
 **Aplica-se a**
 
--  Partner Center
+-  Centro de Parceiros
 -  Partner Center do Microsoft Cloud for US Government
 -  Parceiros CSP
 
 **Funções apropriadas**
 
-- Agente administrativo
+- Agente administrador
 - Administrador de cobrança
 - Administração global
 - Agente de suporte técnico
@@ -80,7 +80,7 @@ Como um parceiro no programa CSP, você só pode comprar assinaturas SaaS **base
 
 Os parceiros podem suspender ou cancelar uma assinatura se solicitado pelo cliente ou em casos de fraude ou falta de pagamento.
 
-### <a name="suspend-a-subscription"></a>Suspender uma assinatura
+### <a name="suspend-a-subscription"></a>Suspenda uma assinatura
 
 Quando você alterar o status de uma assinatura para **Suspensa**, os usuários não poderão entrar nem acessar os serviços.
 
@@ -90,7 +90,7 @@ Quando você alterar o status de uma assinatura para **Suspensa**, os usuários 
 
 3. Escolha a assinatura que deseja gerenciar.
 
-4. Na seção **Status**, escolha **Suspensa**. Em seguida, **Envie**  suas alterações.
+4. Na seção **Status**, escolha **Suspensa**. Em seguida, clique em **Enviar**  para enviar suas alterações.
 
 5. Todos os dados serão excluídos, a menos que a assinatura seja reativada dentro de 90 dias ou 90 dias mais o número de dias entre a hora em que a conta foi aberta e o primeiro período de cobrança (máximo de 120 dias).
 
@@ -125,7 +125,7 @@ Para cancelar uma assinatura SaaS baseada em licença de um editor ISV, faça o 
 
 3. Localize a assinatura que você deseja cancelar.
 
-4. Na coluna **status** , selecione **Cancelar**. Em seguida, **Envie**  suas alterações.
+4. Na coluna **status** , selecione **Cancelar**. Em seguida, clique em **Enviar**  para enviar suas alterações.
 
 5. Se uma caixa de diálogo for exibida, preencha todos os detalhes relevantes e selecione **Enviar**.
 
