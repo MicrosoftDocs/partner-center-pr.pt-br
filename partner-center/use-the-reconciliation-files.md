@@ -10,18 +10,18 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 6bb65718159019c9ae47aa384524d9d52043d39b
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384789"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340214"
 ---
 # <a name="use-your-reconciliation-files"></a>Usar seus arquivos de reconciliação
 
 Aplica-se a:
 
-- Partner Center
-- Partner Center do Microsoft Cloud for US Government
+- Centro de Parceiros
+- Partner Center para Microsoft Cloud for US Government
 
 Você pode baixar seus arquivos de reconciliação do Partner Center para obter uma exibição detalhada de item de linha de cada encargo em um ciclo de cobrança. Os detalhes do item de linha incluem encargos para as assinaturas de cada cliente e eventos detalhados (como uma adição de estações de mercado para uma assinatura).
 
