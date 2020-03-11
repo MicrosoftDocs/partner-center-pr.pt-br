@@ -142,6 +142,7 @@
 ### [Comprar o plano do Azure](purchase-azure-plan.md)
 ### [Comparar as ofertas do Azure](compare-azure-offers.md)
 ### [Transferir seus clientes para o plano do Azure](azure-plan-transition.md)
+### [Serviços do Azure disponíveis no CSP do Azure](azure-plan-available.md)
 ### [Crédito ganho pelo parceiro – visão geral](partner-earned-credit.md)
 ### [Como o crédito ganho pelo parceiro é calculado e pago](partner-earned-credit-explanation.md)
 ### [Nova experiência de comércio no CSP – cobrança do Azure](azure-plan-billing.md) 
