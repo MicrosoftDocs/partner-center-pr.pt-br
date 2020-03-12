@@ -6,38 +6,37 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Como relatar problemas com o Partner Center e coletar informações de diagnóstico para nossa equipe de suporte.
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
-author: MaggiePucciEvans
-ms.author: evansma
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: ba571a8d0810919353b01a5199c77af3dbbb3075
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 1542813229c062e298e40a4874543774796ec2da
+ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651721"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "79023478"
 ---
 # <a name="report-problems-with-partner-center"></a>Relate problemas com o Partner Center
 
 **Aplica-se a**
 
-- Partner Center
+- Centro de Parceiros
 - Partner Center do Microsoft Cloud for US Government
 
 
-Contate o suporte do Partner Center se você encontrar problemas com o Partner Center, incluindo bugs, interrupções de serviço ou outras áreas, como relatórios, cobrança, APIs ou assinaturas.
-
+Contate o suporte do Partner Center se você encontrar problemas ou precisar de ajuda com o Partner Center.
 
 **Relatar um problema com o Partner Center**
 
 1. No painel do **Partner Center** , selecione **suporte** e, em seguida, selecione **solicitações de suporte do parceiro**.
 
-2. Selecione **nova solicitação** e, em seguida, selecione o tipo de problema apropriado nas opções mostradas.
+2. Selecione **nova solicitação** e procure o tipo de problema que melhor descreva seu problema. Selecione o tipo de problema e **examine as soluções**.
 
 3. Examine a página **soluções recomendadas** para ver as etapas ou os documentos relacionados que podem ajudá-lo a resolver seu problema.
 
-4. Você precisa de mais ajuda? Selecione **não** se as soluções recomendadas resolverem o problema. Selecione **Sim** se você precisar enviar uma nova solicitação de suporte.
+4. Se as **soluções recomendadas** resolverem o problema, você poderá selecionar **retornar ao painel**. Se você ainda precisar de ajuda, poderá continuar e **fornecer detalhes do problema**.
 
-5. Se você selecionar **Sim**, preencha o formulário de solicitação de página de **detalhes** . Em seguida, selecione **Enviar**. Um representante do Suporte do Parceiro entrará em contato com você.
+5. Preencha os **detalhes do problema** e **envie**. Um representante de suporte de parceiro acompanhará você...
 
 **Enviar diagnóstico**
 
