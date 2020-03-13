@@ -4,26 +4,26 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Se você for um parceiro direto no programa CSP, poderá saber mais sobre os requisitos de suporte e serviços atualizados e como atendê-los.
+Description: Se você é um parceiro direto do programa CSP, saiba mais sobre os requisitos atualizados de suporte e serviços e como atender a eles.
 author: LauraBrenner
 ms.author: labrenne
 keywords: CSP, parceiro direto, cobrança direta, requisitos
-ms.localizationpriority: medium
+ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 0b8a34d4539180d99bcb76396dcf3dad6a0cf699
-ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
-ms.translationtype: MT
+ms.openlocfilehash: 461f1ae83af8e99e38ab433fa7204624720bd145
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76860457"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340089"
 ---
-# <a name="csp-direct-bill-partner-new-requirements"></a>Novos requisitos para parceiros de cobrança direta do CSP
+# <a name="csp-direct-bill-partner-new-requirements"></a>Novos requisitos para parceiros diretos CSP
 
 **Aplica-se a**
 
-- Parceiros diretos de cobrança no programa do provedor de soluções na nuvem
+- Parceiros de cobrança direta do programa Provedor de Soluções na Nuvem
 
-## <a name="enroll-as-a-direct-partner"></a>Inscrever-se como um parceiro direto
+## <a name="enroll-as-a-direct-partner"></a>Registre-se como um parceiro direto
 
 Como um parceiro de cobrança direta, você tem a relação de ponta a ponta com o cliente e com a Microsoft. Atualizamos os requisitos de registro para parceiros de cobrança direta desde 31 de agosto de 2018. Esses novos requisitos ajudarão você a acelerar o desenvolvimento dos seus negócios com o modelo de inscrição no CSP e fortalecer seu relacionamento com os clientes com serviços e suporte de valor agregado.
 
@@ -33,7 +33,7 @@ Como um parceiro de cobrança direta, você tem a relação de ponta a ponta com
 |--------------------------------|--------------------------------------------------------------|
 |**ID do MPN**   |Uma ID do Microsoft Partner Network (MPN) ativa para o local de sua empresa.    |
 |**Endosso**   |A autoridade de aceitar e assinar contratos legais em nome de sua organização.|
-|**Suporte**   |A capacidade de fornecer o primeiro nível de suporte a produtos em nuvem aos seus clientes. <br>Um plano de suporte da Microsoft, seja o Suporte Avançado para Parceiros (ASfP) ou o Suporte Premier para Parceiros (PSfP), dependendo das necessidades de suporte de seus clientes. [Compare os planos de suporte](https://partner.microsoft.com/support/partnersupport).<br> IMPORTANTE: você deve passar uma verificação de crédito antes de comprar um plano de suporte. Enviaremos um email a você quando você for aprovado na verificação de crédito. |
+|**Suporte**   |A capacidade de fornecer o primeiro nível de suporte a produtos em nuvem aos seus clientes. <br>Um plano de suporte da Microsoft, seja o Suporte Avançado para Parceiros (ASfP) ou o Suporte Premier para Parceiros (PSfP), dependendo das necessidades de suporte de seus clientes. [Compare os planos de suporte](https://partner.microsoft.com/support/partnersupport).<br> IMPORTANTE: Você deve obter aprovação em uma verificação de crédito antes de comprar um plano de suporte. Enviaremos um email a você quando você for aprovado na verificação de crédito. |
 |**Serviço gerenciado**   |Pelo menos um serviço gerenciado, serviço IP ou aplicativo de solução de cliente. Saiba mais sobre como adicionar [serviços gerenciados](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
 |**Contas a receber** |A infraestrutura organizacional no local para gerenciar a cobrança e o provisionamento do cliente.
 
@@ -48,13 +48,13 @@ Depois que tivermos verificado que sua empresa atende aos requisitos de qualific
 >[!IMPORTANT]
 >Verificar o crédito da sua empresa pode levar vários dias ou mais para ser concluído. Durante esse tempo, é importante que você não compre um plano de suporte da Microsoft. Você deve comprar um plano de suporte da Microsoft somente depois de informar que você passou na verificação de crédito.
 
-## <a name="transition-from-direct-to-indirect-reseller"></a>Transição do revendedor direto para indireto
+## <a name="transition-from-direct-to-indirect-reseller"></a>Transição de revendedor direto para indireto
 
-Os parceiros de fatura direta atuais devem atender aos novos requisitos para permanecerem no programa de parceiro de cobrança direto do CSP. Caso contrário, o [acesso aos recursos de cobrança direto eventualmente será restrito](restricted-direct-bill-capabilities.md) e poderá mais executar tarefas específicas, como fazer novas compras para seus clientes. 
+Os atuais parceiros de cobrança direta precisam atender aos novos requisitos para permanecerem do programa de parceiros de cobrança direta CSP. Caso contrário, o [acesso às funcionalidades de cobrança direta acabará sendo restrito](restricted-direct-bill-capabilities.md), e eles não poderão mais executar tarefas específicas, como fazer novas compras para clientes. 
 
-Se você decidir mudar de uma empresa de cobrança direta para um negócio indireto de revendedor, haverá várias etapas que você precisará tomar. Para saber mais sobre transição, consulte [transição do parceiro direto do CSP (provedor de soluções de nuvem) para o revendedor indireto do CSP](transition-direct-to-indirect.md). 
+Se você decidir migrar de uma empresa de cobrança direta para um revendedor indireto, haverá várias etapas que precisarão ser realizadas. Para saber mais sobre a transição, leia [Transição do parceiro direto do CSP (Provedor de Soluções na Nuvem) para o revendedor indireto do CSP](transition-direct-to-indirect.md). 
 
 ## <a name="see-also"></a>Veja também
 
-- [Informações adicionais sobre como se tornar um revendedor indireto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
-- [Perguntas frequentes sobre cobrança direta do revendedor](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)
+- [Mais informações sobre como se tornar um revendedor indireto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
+- [Perguntas frequentes sobre a transição de cobrança direta para revendedor indireto](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)

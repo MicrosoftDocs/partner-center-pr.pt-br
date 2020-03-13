@@ -8,22 +8,22 @@ description: Entenda as diferenças e semelhanças entre o PMC e o Partner Cente
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migração, mover para o Partner Center
-ms.localizationpriority: medium
-ms.openlocfilehash: a05225d9f6a6de9f6bdf66912f8e35b47ccae78f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: d44781b17a3ecd63b0573a389c0c4790f1370860
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004285"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340174"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Migração do PMC para o Partner Center
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 
 Estamos tornando mais fácil para você fazer negócios conosco, introduzindo um único site (Partner Center) que serve como um ponto central de envolvimento. Você descobrirá que tudo o que fazia no PMC (Partner Membership Center) pode ser realizado em seu painel no Partner Center. 
 
-Você também pode fazer muito mais, tudo sem sair de um único site da Web. No entanto, alguns dos recursos e a terminologia podem parecer diferentes. Para reduzir as preocupações iniciais sobre onde e quais são as coisas, certifique-se de fazer o Tour do site do seu painel.
+Você também pode fazer muito mais, tudo sem sair de um único site da Web. No entanto, alguns dos recursos e a terminologia podem parecer diferentes. Para atenuar as preocupações iniciais sobre o local em que as coisas estão e o que são, faça o tour pelo site do seu painel.
 
 Esta tabela apresenta algumas das diferenças entre o PMC e o Partner Center.
 
@@ -85,11 +85,11 @@ Esta tabela apresenta algumas das diferenças entre o PMC e o Partner Center.
 |PDD  |Benefícios|
 |CHIP, ICP, PIE | Incentivos|
 ||Indicações|
-|Insights do Parceiro| Análises|
+|Insights do Parceiro| Análise|
 |Ferramenta de Validação e Resgate de Comprovante| Ferramenta de Validação e Resgate de Comprovante|
 |           |Programas de Provedor de Soluções na Nuvem|
 
-Os benefícios do Visual Studio alocados para o MSAs serão respeitados e mantidos. Eles também serão preservados após a renovação no Partner Center. No entanto, se você remover uma alocação de MSA uma vez migrada no Partner Center, ela não poderá ser adicionada novamente ao Partner Center.
+Os benefícios do Visual Studio alocados para o MSAs serão respeitados e mantidos. Eles também serão preservados após a renovação no Partner Center. No entanto, se você remover uma alocação da MSA depois que ela for migrada no Partner Center, ela não poderá ser adicionada novamente ao Partner Center.
 
 No Partner Center, um parceiro pode adicionar contas corporativas e contas de usuário convidado, que são MSA, por meio do mesmo locatário em que o parceiro é administrador MPN no locatário do Azure AD. Se o parceiro for um administrador global em vários locatários do Azure AD e todos esses locatários estiverem associados à mesma conta do Partner Center, o parceiro poderá adicionar usuários em todos esses locatários aos benefícios do Visual Studio e às alocações baseadas em uso do Azure.
 

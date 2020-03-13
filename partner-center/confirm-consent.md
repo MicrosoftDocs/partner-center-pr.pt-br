@@ -7,19 +7,19 @@ ms.subservice: partnercenter-csp
 Description: Aprenda a confirmar a aceitação do cliente do Contrato de Cliente da Microsoft. Isso pode ser necessário para solicitar serviços e produtos da Microsoft para clientes.
 author: LauraBrenner
 ms.author: labrenne
-keywords: cliente, clientes, consentimento, MCA, contrato do cliente da Microsoft, modelos de contrato do cliente
-ms.localizationpriority: medium
-ms.openlocfilehash: 0478a2fe1aad8ba04e2ac51b9a85e94491627e2c
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
-ms.translationtype: MT
+keywords: cliente, clientes, consentimento, MCA, Contrato de Cliente da Microsoft, modelos de contrato de cliente
+ms.localizationpriority: high
+ms.openlocfilehash: 0d6d7b20aa4b6d7c5c56d3669b8f6bd8a3bda7bb
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672836"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340137"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confirmar a aceitação do cliente do Contrato de Cliente da Microsoft
 
 **Aplica-se a**
--  Centro de Parceiros
+-  Partner Center
 
 **Funções apropriadas**
 
@@ -27,15 +27,15 @@ ms.locfileid: "77672836"
 - Agente de vendas
 
 > [!NOTE]
-> O recurso de contrato atualmente tem suporte do Partner Center na nuvem pública da Microsoft. Não é aplicável a:
+> No momento, há suporte para o recurso Contrato no Partner Center somente na nuvem pública da Microsoft. Não é aplicável a:
 > * Partner Center operado pela 21Vianet
 > * Partner Center do Microsoft Cloud Germany
 > * Partner Center do Microsoft Cloud for US Government
 
 >[!NOTE]
->A partir de 31 de janeiro de 2020, todos os clientes, existentes e novos, devem assinar o novo contrato do cliente Microsoft. Para saber mais, leia [confirmar a aceitação do cliente do contrato do cliente da Microsoft](confirm-customer-agreement.md).
+>A partir de 31 de janeiro de 2020, todos os clientes, existentes e novos, devem assinar o novo Contrato de Cliente da Microsoft. Para saber mais, leia [Confirmar a aceitação pelo cliente do Contrato de Cliente da Microsoft](confirm-customer-agreement.md).
 
-Como parceiro, você precisa obter a aceitação do cliente do contrato do cliente da Microsoft antes de poder solicitar produtos e serviços da Microsoft para esse cliente. Para ajudar mais os parceiros a atender os requisitos de conformidade, a Microsoft solicita que os parceiros confirmem a aceitação fornecendo os detalhes a seguir em relação à pessoa que aceitou o contrato: 
+Como parceiro, você precisa obter a aceitação pelo cliente do Contrato de Cliente da Microsoft antes de poder solicitar produtos e serviços da Microsoft para esse cliente. Para ajudar mais os parceiros a atender os requisitos de conformidade, a Microsoft solicita que os parceiros confirmem a aceitação fornecendo os detalhes a seguir em relação à pessoa que aceitou o contrato: 
 
 -   Nome
 
@@ -47,45 +47,45 @@ Como parceiro, você precisa obter a aceitação do cliente do contrato do clien
 
 -   Data da aceitação
 
-Para saber mais, Confira as perguntas frequentes [sobre](https://docs.microsoft.com/partner-center/confirm-consent-faq)a confirmação de aceitação do cliente do contrato de cliente da Microsoft.
+Para saber mais, confira as [Perguntas frequentes](https://docs.microsoft.com/partner-center/confirm-consent-faq) sobre confirmação de aceitação pelo cliente do Contrato de Cliente da Microsoft.
 
-Parceiros de cobrança direto e provedores indiretos devem confirmar a aceitação do cliente do contrato do cliente da Microsoft ao transagirem por meio da API do Partner Center ou do Partner Center. A confirmação é *obrigatória*.
+Parceiros de cobrança direta e Provedores Indiretos devem confirmar a aceitação pelo cliente do Contrato de Cliente da Microsoft ao fazer transações por meio do Partner Center ou da API do Partner Center. A confirmação é *obrigatória*.
 
 Se a confirmação não for fornecida por um determinado cliente:
 
--   Você não poderá criar novos pedidos para esse cliente.
+-   Você não conseguirá criar pedidos para esse cliente.
 
--   Você não poderá alterar a contagem de estações de assinaturas baseadas em assentos existentes para esse cliente.
+-   Você não poderá alterar a contagem de estações de assinaturas baseadas em estações existentes para esse cliente.
 
-A confirmação da aceitação do cliente pode ser feita por meio do Partner Center ou da API do Partner Center. Para fazer isso por meio da API do Partner Center, consulte os seguintes tópicos: 
+A confirmação da aceitação pelo cliente poderá ser feita por meio do Partner Center ou da API do Partner Center. Para fazer isso por meio da API do Partner Center, confira os seguintes tópicos: 
 
 -   [Obter confirmação de consentimento do cliente](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-consent)
 
 -   [Obter metadados do contrato](https://docs.microsoft.com/partner-center/develop/get-agreement-metadata)
 
--   [Confirmar consentimento do cliente](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent)
+-   [Confirmar o consentimento do cliente](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent)
 
 
 Isso se aplica a ambientes de produção e área restrita.
 
-## <a name="confirming-customer-acceptance-in-partner-center"></a>Confirmando a aceitação do cliente no Partner Center
+## <a name="confirming-customer-acceptance-in-partner-center"></a>Confirmar a aceitação do cliente no Partner Center
 
 ### <a name="confirm-customer-acceptance-for-a-new-customer"></a>Confirmar a aceitação do cliente para um novo cliente
 
-Use o procedimento a seguir para confirmar a aceitação do cliente enquanto você cria um novo locatário do cliente no Partner Center. Observe que você deve ser um Agente administrativo ou Agente de vendas para fazer isso.
+Use o procedimento a seguir para confirmar a aceitação do cliente enquanto você cria um locatário do cliente no Partner Center. Observe que você deve ser um Agente administrativo ou de vendas para fazer isso.
 
-1. Selecione **clientes**e, em seguida, **novo cliente** e, em seguida, selecione **informações da conta**.
+1. Selecione **Clientes** e, em seguida, **Novo cliente** e, em seguida, selecione **Informações da conta**.
 2. Insira as informações sobre a **Empresa** e o **Contato principal**.
 
 ![Informações da empresa](images/mca/mca1.png)
 
-3. Em **contrato de cliente da Microsoft**, selecione **o cliente aceitou o contrato de cliente da Microsoft mais recente**.
+3. Em **contrato de cliente da Microsoft**, selecione **O cliente aceitou o contrato de cliente da Microsoft mais recente**.
 4. Em **Data de aceitação do contrato**, insira a data apropriada. Você não pode definir isso como uma data futura.
 5. Insira os detalhes do usuário que forneceu a aceitação.
 
 ![Adicionar data de aceitação](images/mca/MCA3.png)
 
-Por padrão, as informações de usuário do contato principal são exibidas. Se isso não estiver correto, selecione **Atualizar** e insira o **nome**, **sobrenome**, endereço de **email**e * número de*telefone* (opcional) da pessoa que aceitou o contrato.
+Por padrão, as informações de usuário do contato principal são exibidas. Se isso não estiver correto, selecione **Atualizar** e insira o **Nome**, **Sobrenome**, **Endereço de email** e **Número de telefone* (opcional) da pessoa que aceitou o contrato.
 
 6. Selecione **Avançar** para continuar com as etapas restantes para criar o locatário do cliente.
 
@@ -95,19 +95,19 @@ Você deve ser um Agente administrativo ou Agente de vendas para fazer isso.
 
 1. Selecione **Clientes** e então localize e selecione o cliente que você deseja ver.
 2. Selecione **Informações da Conta**.
-3. Em **contrato de cliente da Microsoft**, selecione **Atualizar**.
+3. Em **Contrato de cliente da Microsoft**, selecione **Atualizar**.
 
 ![Atualizar](images/mca/mca4.png)
 
-4. Insira o **Nome**, **Sobrenome**, **Email** e **Número de telefone** (opcional) do usuário que aceitou o contrato.
+4. Insira o **Nome**, **Sobrenome**, **Endereço de email** e **Número de telefone** (opcional) do usuário que aceitou o contrato.
 5. Em **Data de aceitação do contrato**, insira a data apropriada. Você não pode definir isso como uma data futura.
 6. Selecione **Salvar e continuar**.
 
-### <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a>Confirmar a aceitação do cliente ao criar o novo pedido para um cliente existente
+### <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a>Confirmar a aceitação do cliente ao criar o pedido para um cliente existente
 
-Se você tentar criar um novo pedido para um cliente existente que não tenha confirmado antes, você receberá uma solicitação para concluir a confirmação. Use o procedimento a seguir para fazer isso.
+Se tentar criar um pedido para um cliente existente que não confirmou antes, você receberá um aviso para concluir a confirmação. Use o procedimento a seguir para fazer isso.
 
-1. Insira o **Nome**, **Sobrenome**, **Email** e **Número de telefone** (opcional) do usuário que aceitou o contrato.
+1. Insira o **Nome**, **Sobrenome**, **Endereço de email** e **Número de telefone** (opcional) do usuário que aceitou o contrato.
 2. Em **Data de aceitação do contrato**, insira a data apropriada. Você não pode definir isso como uma data futura.
 3. Selecione **Salvar e continuar**.
 
@@ -117,4 +117,4 @@ Você pode recuperar a confirmação da aceitação do cliente para um cliente e
 
 1. Selecione **Clientes** e então localize e selecione o cliente que você deseja ver.
 2. Selecione **Informações da Conta**.
-3. Em **contrato de cliente da Microsoft**, você verá se a confirmação foi ou não fornecida para este cliente.
+3. Em **Contrato de cliente da Microsoft**, você verá se a confirmação foi fornecida ou não para este cliente.
