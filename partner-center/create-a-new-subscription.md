@@ -11,11 +11,11 @@ ms.author: labrenne
 Keywords: assinatura, criar novo, adicionar assinatura, suspender, cancelar, suspensão, suspender, SaaS, licença, ISV, terceiros
 ms.localizationpriority: medium
 ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340135"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114988"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Criar, suspender ou cancelar assinaturas de clientes
 

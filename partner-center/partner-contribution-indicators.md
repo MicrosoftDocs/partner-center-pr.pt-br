@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 830965f4d44cefea2a66adeac681f6350a562503
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: b9892c1a1f46450b0ea8def1b10dba104c5cb1b0
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672686"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112445"
 ---
 # <a name="partner-contribution-indicators"></a>Indicadores de contribuição de parceiros
 
@@ -29,7 +29,7 @@ O PCI fornece uma exibição holística e sofisticada dos recursos técnicos de 
 1. **Nova receita líquida** – nova receita líquida em todos os canais de vendas para produtos Microsoft Dynamics 365.
 2. **Adições de clientes da net** — clientes .net adquiridos para o Dynamics 365 em todos os canais de vendas.
 3. **Consultores funcionais** — número de indivíduos que mantêm uma certificação de associação de consultor funcional atualmente ativa para o Dynamics 365.
-4. **Crescimento funcional do consultor** — crescimento no número de associados de consultores funcionais desde 31 de março de 2020.
+4. **Crescimento funcional do consultor** — crescimento no número de associados de consultores funcionais.
 5. **Desenvolvedores** — número de indivíduos que contêm uma certificação associada ao desenvolvedor atualmente ativa para o Dynamics 365.
 6. **Novas implantações grandes** — número de locatários de produção que cruzam o limite de uso alto nos últimos 12 meses.
 7. **Crescimento mensal ativo do usuário** — crescimento em usuários ativos mensais em todos os seus clientes nos últimos 12 meses.
@@ -48,7 +48,7 @@ Cada métrica de PCI tem limites definidos pela Microsoft que podem fazer com qu
 
 Os pontos em cada métrica são contratados para produzir uma pontuação de PCI distinta para o envolvimento do cliente e as operações de & de Finanças que serão atualizadas mensalmente.
 
-Os parceiros podem obter o máximo de pontos para uma determinada métrica se atingirem ou excederem os limites indicados abaixo. Os pontos parciais podem ser obtidos para todas as métricas, exceto para o crescimento funcional do consultor. Ex. um parceiro de mercado desenvolvido com $150000 de nova receita líquida ganhará metade ($ 150000/$ 300000) do máximo de 10 pontos. 
+Os parceiros podem obter o máximo de pontos para uma determinada métrica se atingirem ou excederem os limites indicados abaixo. Os pontos parciais podem ser obtidos para todas as métricas, exceto para o crescimento funcional do consultor. Por exemplo, um parceiro de mercado desenvolvido com $150000 de nova receita líquida ganhará metade ($ 150000/$ 300000) do máximo de 10 pontos. 
 
 ![envolvimento do cliente](images/pci/custengagethresh.png)
 

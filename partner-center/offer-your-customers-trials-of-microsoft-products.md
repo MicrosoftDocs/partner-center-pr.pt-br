@@ -1,26 +1,26 @@
 ---
 title: Oferecer avaliações de produtos da Microsoft aos clientes | Partner Center
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Seus clientes podem testar produtos de assinatura da Microsoft durante 30 dias. Inscreva-se para essas avaliações no catálogo, assim como muitos outros serviços online.
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a0f511ad2275866552e9646cf433351ae4fc3be3
-ms.sourcegitcommit: a80838c0e79f66c28b958165e910871dd37d39f0
+ms.openlocfilehash: 6775656c53eed787d94e1b87924426f998b1adbe
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "75185536"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112455"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Oferecer aos clientes avaliações de produtos da Microsoft
 
 **Aplica-se a**
 
-- Partner Center
+- Centro de Parceiros
 
 **Funções apropriadas**
 -   Administração global 
@@ -45,7 +45,7 @@ As avaliações gratuitas estão disponíveis para os seguintes produtos:
 - Office 365 E5 sem PSTN
 - Enterprise Mobility & Security E5
 - Dynamics 365 Customer Engagement Plan 1
-- Dynamics 365 Business Central
+- Dynamics 365 Business central
 - Microsoft 365 Business
 
 Nós fornecemos avaliações gratuitas para esses produtos porque eles são as ofertas de negócios mais abrangentes e populares. É possível que adicionemos outras ofertas de avaliação gratuita no futuro.
@@ -90,6 +90,17 @@ Talvez seja necessário alterar suas APIs para acomodar a conversão de uma aval
 
 - [Converter uma assinatura de avaliação em paga](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
 - [Obter uma lista de ofertas de conversão de avaliação](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
+
+### <a name="trials-without-conversions"></a>Avaliações sem conversões
+
+Nem todas as avaliações podem ser convertidas em assinaturas pagas. Os parceiros podem usar uma avaliação que não tem conversões até a data de validade. Os parceiros podem adquirir ofertas compatíveis que dão suporte aos mesmos serviços da oferta de avaliação.  Isso deve ser feito antes de a avaliação expirar para garantir que os serviços de ofertas recentemente adquiridos se alinhem aos serviços da avaliação. 
+
+|**Avaliação**   |**Ofertas de pequenas empresas compatíveis**   |**Ofertas corporativas compatíveis**   |
+|----------------------------|:---------------------------------|:------------------------------------------|
+|Avaliação de nuvem comercial do Microsoft Teams (iniciada pelo usuário)   |Business Essentials, Business Premium, M365 Business   | F3 (anteriormente F1), Office 365 para empresas (E1, E3 e E5), M365 F1/F3, M365 Enterprise (E3)   |
+
+>[!Note] 
+>As ofertas acima têm planos de serviço semelhantes com funcionalidade semelhante, no entanto, pode haver algumas diferenças entre as ofertas. 
 
 ### <a name="expiring-offers"></a>Ofertas expirando
 

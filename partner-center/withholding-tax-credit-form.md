@@ -10,18 +10,18 @@ author: brentserbus
 ms.author: brserbus
 keywords: crédito de retenção de imposto, créditos de impostos, formulário de crédito de imposto alemão, certificados de imposto
 ms.localizationpriority: medium
-ms.openlocfilehash: ceb8958faa2d2e826cb74caa0484fb90c9667bb0
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.openlocfilehash: ea99adb0bc2b9e010290ce7a74afe07c8b111888
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240223"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112465"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Verifique se você está creditado para a retenção de imposto
 
 Aplica-se a:
 
-- Partner Center
+- Centro de Parceiros
 
 Este tópico explica como certificar-se de que você é creditado para a retenção de imposto no Partner Center. Ele explica como criar uma solicitação de retenção de imposto no Partner Center.
 
@@ -30,6 +30,9 @@ Este tópico explica como certificar-se de que você é creditado para a retenç
 Os parceiros CSP em alguns países recebem valores de fatura que incluem impostos. Alguns desses parceiros pagam sua autoridade de imposto local em vez da Microsoft. Esses parceiros precisam enviar uma solicitação de retenção de imposto incluindo seu certificado de imposto para limpar o valor tributado das notas fiscais anteriores. Esses valores limpos são mostrados como créditos em faturas mensais subsequentes, de modo que o parceiro não precisa mais ser o valor não pago da Microsoft.
 
 A partir de janeiro de 2020, os parceiros CSP devem enviar solicitações de retenção de imposto na **página de cobrança** em vez de criar solicitações de suporte. Para enviar as solicitações na página de cobrança, os parceiros CSP devem ir para o **Partner Center** e selecionar **cobrança** na navegação à esquerda. A **página de cobrança** é o novo local para enviar solicitações de retenção de imposto. 
+
+> [!IMPORTANT]
+> Os parceiros podem enviar solicitações de retenção de imposto apenas para faturas **pagas** .
 
 ### <a name="submit-a-new-tax-withholding-request"></a>Enviar uma nova solicitação de retenção de imposto
 

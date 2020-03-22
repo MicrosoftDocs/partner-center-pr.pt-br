@@ -10,17 +10,17 @@ ms.author: v-mihope
 keywords: assinaturas, Marketplace, Marketplace comercial, terceiros, ISV, ofertas de SaaS, programa de provedor de soluções na nuvem, programa CSP, parceiros CSP
 ms.localizationpriority: medium
 ms.openlocfilehash: 23a31646165576842b625ec4f05a8da404fae01d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253714"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114938"
 ---
 # <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>Descubra ofertas e preços no Marketplace comercial
 
 **Aplica-se a**
 
-- Partner Center
+- Centro de Parceiros
 - Parceiros no programa CSP
 
 **Funções apropriadas**
@@ -105,6 +105,6 @@ Para saber mais sobre a experiência do ISV no Marketplace comercial, leia [prov
 
 Para obter mais informações sobre a experiência do CSP no Marketplace, leia [visão geral do Marketplace comercial](csp-commercial-marketplace-overview.md).
 
-## <a name="next-steps"></a>Próximas etapas
+## <a name="next-steps"></a>{1&gt;{2&gt;Próximas etapas&lt;2}&lt;1}
 
 - [Comprar ofertas do Marketplace comercial](csp-commercial-marketplace-purchase.md)
