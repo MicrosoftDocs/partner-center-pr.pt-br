@@ -8,12 +8,15 @@ metadata:
   ms.date: 06/24/2019
   displayType: two-column
   ms.custom: mvc
-  ms.openlocfilehash: b3dc7dcbcea316500521071f332e7b7817bbcfb2
-  ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+  ms.author: isaiahwilliams
+  author: iswillia
+  ms.topic: tutorial
+  ms.openlocfilehash: dbf5e0dc39a3c6aa2ba8eb0433abd09ae955f311
+  ms.sourcegitcommit: e98684319d8f9bfc2cadad77fd7c51d7aa32c419
   ms.translationtype: HT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 02/21/2020
-  ms.locfileid: "77521029"
+  ms.lasthandoff: 03/24/2020
+  ms.locfileid: "80136324"
 items:
 - title: Introdução
   durationInMinutes: 5

@@ -7,12 +7,13 @@ ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 44b3a2cdadbc841ef3d1a5e005c119780d987451
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.date: 03/05/2020
+ms.openlocfilehash: a6558faba3171d96791225a625c62d282014563c
+ms.sourcegitcommit: e98684319d8f9bfc2cadad77fd7c51d7aa32c419
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340076"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80136310"
 ---
 # <a name="verify-your-partner-profile"></a>Verifique o perfil do parceiro
 
