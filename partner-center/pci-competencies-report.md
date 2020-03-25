@@ -1,32 +1,32 @@
 ---
 title: Recepções do Partner Center – relatório de competências | Centro de parceiros
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Veja o que você está fazendo bem e onde você pode melhorar em relação às competências da Microsoft, níveis de competência e benefícios para ajudá-lo a fornecer soluções da Microsoft.
+description: Veja o que você está fazendo bem e onde você pode melhorar em relação às competências da Microsoft, níveis de competência e ofertas para ajudá-lo a fornecer soluções da Microsoft.
 ms.assetid: ''
 keywords: PCI, desempenho, medidas, êxito do cliente, competências, benefícios, análise, relatório
 author: MicheleHope
 ms.author: v-mihope
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b9b395e67848bca73d0fe65073562c2478ced304
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.openlocfilehash: 1a6e8dd723bafbe62ab6d7b7b99de6ffd6fb1481
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648087"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226182"
 ---
 # <a name="competencies-report"></a>Relatório de competências
 
 **Funções apropriadas**
 - Administração global
-- Agente administrativo
+- Agente administrador
 - Visualizador de relatórios
 - Visualizador de relatórios executivos
 
-As competências permitem que sua empresa demonstre a capacidade técnica de fornecer soluções da Microsoft. As competências da Microsoft foram projetadas para atender às necessidades de seus clientes e demonstrar sua experiência aos clientes potenciais. Eles vêm com uma infinidade de benefícios da Microsoft, como quantidades incluídas de consumo do Azure, direitos para produtos de nuvem, como O365, suporte técnico, benefícios do GTM (go-to-Market), etc. Atualmente, há um total de 19 competências nas seguintes categorias: **aplicativo e infraestrutura**, **aplicativos de negócios**, **dados e ia** e **local de trabalho moderno**. As competências são divididas em níveis prata ou dourados, por exemplo, com uma barra mais alta para competência Gold e um nível mais alto associado de benefícios.  
+As competências permitem que sua empresa demonstre a capacidade técnica de fornecer soluções da Microsoft. As competências da Microsoft foram projetadas para atender às necessidades de seus clientes e demonstrar sua experiência aos clientes potenciais. Eles vêm com uma infinidade de benefícios da Microsoft, como quantidades incluídas de consumo do Azure, direitos para produtos de nuvem, como O365, suporte técnico, ofertas de entrada no mercado, etc. Atualmente, há um total de 19 competências nas seguintes categorias: **aplicativo e infraestrutura**, **aplicativos de negócios**, **dados e ia** e **local de trabalho moderno**. As competências estão em camadas em níveis prata ou dourados, por exemplo. Há uma barra mais alta para competência Gold e um nível mais alto associado de recursos de marketing, ofertas e programas disponíveis.  
 
 **Ciclo de vida de competência**
 

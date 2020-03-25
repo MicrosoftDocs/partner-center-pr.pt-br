@@ -1,7 +1,7 @@
 ---
 title: Recepções do Partner Center – relatório de benefícios | Centro de parceiros
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Veja quais tipos de benefícios de parceiros da Microsoft foram concedidos para ajudar a aumentar seus negócios, melhorar a eficiência e aprimorar as habilidades da sua equipe.
@@ -11,22 +11,22 @@ author: MicheleHope
 ms.author: v-mihope
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9d1f3a8ff31622c17245743f79ba4dc3ea199c3b
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.openlocfilehash: 26ff2657eb4b2b27a355d08c647778e2a247f6ce
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648247"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226192"
 ---
 # <a name="benefits-report"></a>Relatório de benefícios
 
 **Funções apropriadas**
 - Administração global
-- Agente administrativo
+- Agente administrador
 - Visualizador de relatórios
 - Visualizador de relatórios executivos
 
-Como um parceiro da Microsoft, você pode acessar uma série de benefícios que usam a tecnologia e as inovações mais recentes para ajudá-lo a aprimorar as habilidades da sua equipe, melhorar a eficiência e aumentar seus negócios. Os pacotes de benefícios incluem: alocações de software licenciado, serviços de nuvem, assinaturas do Visual Studio e suporte. Os pacotes de benefícios também podem incluir determinados benefícios do GTM (entrada para o mercado). O relatório de benefícios apresenta tendências dos benefícios que você acessou e sua utilização durante o intervalo de datas selecionado.
+Como um parceiro da Microsoft, você pode acessar uma série de benefícios que usam a tecnologia e as inovações mais recentes para ajudá-lo a aprimorar as habilidades da sua equipe, melhorar a eficiência e aumentar seus negócios. Os pacotes de benefícios incluem: alocações de software licenciado, serviços de nuvem, assinaturas do Visual Studio e suporte. Esses pacotes também podem incluir determinados recursos, ofertas e programas de entrada no mercado. O relatório de benefícios apresenta tendências dos benefícios que você acessou e sua utilização durante o intervalo de datas selecionado.
 
 ![Visão geral da página de benefícios](images/pci/pci_benefits_intro_1.png)
 
@@ -44,7 +44,7 @@ Você pode visualizar os seguintes gráficos no relatório de benefícios:
 
 **Resumo**
 
-A seção de resumo apresenta os benefícios concedidos em termos de software licenciado, serviços de nuvem (não Azure), assinaturas do Visual Studio, suporte técnico e determinados serviços de entrada no mercado.
+A seção de resumo apresenta os benefícios concedidos em termos de software licenciado, serviços de nuvem (não Azure), assinaturas do Visual Studio, suporte técnico e determinados serviços ou ofertas de entrada no mercado.
 
 Exemplo: os parceiros de associação do Microsoft Partner Network (MPN) estão qualificados para o suporte técnico de produtos locais e produtos de nuvem. Parceiros que obtêm competência Silver recebem suporte técnico para 15 incidentes para produtos locais. Eles podem consumir esse suporte conforme necessário. 
 
@@ -79,10 +79,10 @@ Selecione uma guia na parte superior do gráfico para exibir a tendência de um 
 
 ![benefícios técnicos](images/pci/pci_benefits_technical_benefits_6.png)
 
-**Ir para o mercado**
+**Ofertas de lançamento no mercado ou serviços**
 
-Este gráfico apresenta a tendência mensal de benefícios do GTM (entrada para o mercado) ativados com alocação durante o intervalo de datas selecionado e para uma categoria de benefício de GTM selecionada.
+Este gráfico apresenta a tendência mensal de ofertas de lançamento no mercado ou serviços ativados em relação ao alocados durante o intervalo de datas selecionado e para uma oferta do serviço de lançamento de mercado ou categoria de serviços selecionada.
 
-Selecione uma categoria de benefício do GTM na lista suspensa na parte superior do gráfico para exibir a tendência da categoria de benefício de GTM selecionada concedida à sua empresa. As colunas no gráfico representam os benefícios do GTM ativados. O grafo de linha representa os benefícios gerais de GTM concedidos à sua empresa.
+Selecione uma oferta de entrada no mercado ou categoria de serviço na lista suspensa na parte superior do gráfico para exibir a tendência dos serviços de entrada para o mercado selecionados concedidos à sua empresa. As colunas no gráfico representam ofertas de entrada no mercado ou serviços ativados. O grafo de linha representa as ofertas gerais de lançamento no mercado ou os serviços concedidos à sua empresa.
 
-![ir para os benefícios do mercado](images/pci/pci_benefits_go_to_market_7.png)
+![Ofertas de entrada no mercado](images/pci/pci_benefits_go_to_market_7.png)

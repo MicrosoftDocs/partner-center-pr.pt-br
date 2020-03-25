@@ -1,7 +1,7 @@
 ---
 title: Atualizar sua associação do Microsoft Partner Network | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Qualifique-se para benefícios exclusivos ao atualizar sua associação do MPN para uma associação de assinatura do Microsoft Action Pack ou competências da Microsoft.
@@ -9,33 +9,32 @@ author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: e608646d1c6f76b5081d38648a4afa95660e2bf0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 7cc8d2023544d510dcf8cd51f89c79d427a849d1
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943399"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226142"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Atualizar sua associação ao Microsoft Partner Network
 
 **Aplica-se a**
 
--  Partner Center
+-  Centro de Parceiros
 
-O programa de parceria da Microsoft oferece as três opções de associação a seguir, com benefícios incrementais para ajudá-lo a atingir suas metas de negócios.
+O programa de parceria da Microsoft oferece as três opções de associação a seguir, com benefícios incrementais e recursos de marketing, ofertas e programas para ajudá-lo a atingir suas metas de negócios.
 
-- **Associação de rede.** O principal nível de participação, oferecendo benefícios básicos para conexões de treinamento, suporte e cliente. Você deve ser um membro de rede para atualizar sua associação.
+- **Associação de rede.** O nível de Associação principal, que oferece recursos de marketing de nível de entrada para treinamento, suporte e conexões de clientes. Você deve ser um membro de rede para atualizar sua associação.
 
-- **Associação de assinatura do Microsoft Action Pack.** Uma assinatura anual acessível servindo parceiras de pequeno e médio porte. Inclui os benefícios de nível básico que vêm com a associação à rede básica mais alocações de assinaturas de serviço de direitos de uso interno, licenças de software e suporte.
+- **Associação de assinatura do Microsoft Action Pack.** Uma assinatura anual acessível servindo parceiras de pequeno e médio porte. Inclui os recursos de marketing de nível de entrada que acompanham a associação de rede básica, além de outros programas e ofertas de marketing, como: alocações de assinaturas do serviço de direitos de uso interno, licenças de software e suporte.
 
-- **Competências da Microsoft.** Uma designação ganha mostrando os recursos da sua empresa. Inclui benefícios de nível básico, outros direitos de uso interno, elegibilidade para incentivos de parceiro, suporte adicional e horas de consultoria.
+- **Competências da Microsoft.** Uma designação ganha mostrando os recursos da sua empresa. Inclui recursos de marketing de nível de entrada e ofertas e programas adicionais, como direitos de uso interno, qualificação para incentivos de parceiros e horas de suporte e consultoria adicionais.
 
   - Recursos consistentes de competência prateada, experiência e compromisso
 
   - Competência Gold – o melhor recurso de classe em uma área de solução específica da Microsoft
 
-Depois de ingressar no Microsoft Partner Network, você estará qualificado para atualizar sua associação e comprar ofertas de benefício de associação exclusivas. Para saber mais sobre a participação no Microsoft Partner Network, acesse [https://partner.microsoft.com](https://partner.microsoft.com).
-
+Depois de ingressar no Microsoft Partner Network, você estará qualificado para atualizar sua associação e comprar ofertas de associação exclusivas. Para saber mais sobre a participação no Microsoft Partner Network, acesse [https://partner.microsoft.com](https://partner.microsoft.com).
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Adquirir uma assinatura do Microsoft Action Pack
 
@@ -63,7 +62,7 @@ Para obter mais informações sobre no Microsoft Action Pack, acesse [https://pa
 
 3. Selecione **Avançar** para adicionar detalhes de pagamento. 
 
-4. Selecione **Introdução! Adicionar uma forma de pagamento** se precisar inserir detalhes de pagamento. 
+4. Selecione **Introdução! Adicionar uma forma de pagamento** se precisar inserir detalhes de pagamento.
 
 5. Insira os detalhes de pagamento e selecione **Avançar**.
 
@@ -123,7 +122,7 @@ Para cancelar sua assinatura do Microsoft Action Pack, você deve contatar o sup
     Para verificar o status de sua solicitação de serviço, selecione **Solicitações de serviço > Solicitações do Partner Center** e, em seguida, selecione **Abrir**. Escolha a solicitação de serviço apropriada na lista.  
 
  
-### <a name="next-steps"></a>Próximas etapas
+### <a name="next-steps"></a>{1&gt;{2&gt;Próximas etapas&lt;2}&lt;1}
 
 [Ativar sua assinatura do Action Pack](manage-your-partner-network-benefits.md)
 
@@ -131,8 +130,3 @@ Para cancelar sua assinatura do Microsoft Action Pack, você deve contatar o sup
 ### <a name="related-topics"></a>Tópicos relacionados
 
 [Adicionar usuários e atribuir permissões a eles](create-user-accounts-and-set-permissions.md)
-
-
-
-
-

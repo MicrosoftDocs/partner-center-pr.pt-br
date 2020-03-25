@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: incentivos, pagamentos, pagamentos, programa de incentivo, locais, status do programa
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f68977251416c9f70c84cd4f722a2c09a9535d5
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: c2c4ec70bec068b3f171ce6c3780eda8a830f146
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723463"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226112"
 ---
 # <a name="view-your-incentive-payments-and-programs"></a>Exibir seus pagamentos de incentivos e programas
 
@@ -27,7 +27,7 @@ ms.locfileid: "76723463"
 -  Administrador de incentivos
 -  Usuário de incentivos 
 -  Visualizador somente leitura de incentivo
--  Administrador global
+-  Administração global
 -  Administrador de parceiros do MPN
 
 Use essas páginas para exibir detalhes dos pagamentos e ganhos anteriores, pendentes e futuros, o status dos seus programas de incentivo em cada local e o histórico completo da transação. Você também pode baixar ou exportar informações detalhadas para qualquer transação. Todas as páginas de incentivos mostram valores em dólares americanos.
@@ -59,8 +59,8 @@ As páginas a seguir são descritas aqui:
 Também estão incluídas nesta página os ganhos e pagamentos por local ou programa, bem como outras ações que talvez você precise executar para se registrar em um programa em um local específico.
 
 Para acessar **minha visão geral de incentivos**:
-
-1. Entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center.
+ 
+1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 2. Selecione **incentivos**e, em seguida, **visão geral** no menu.
 3. Exiba o resumo de ganhos e pagamentos na parte superior da página e mais detalhes na tabela a seguir. Você também pode classificar, agrupar e expandir a tabela que o acompanha:
 
@@ -80,7 +80,8 @@ Para acessar **minha visão geral de incentivos**:
 | Ação necessária  | O parceiro aceitou um convite para se registrar em um programa de incentivo, mas talvez precise atualizar as informações bancárias ou de impostos. Consulte a coluna **ações necessárias** para obter as próximas etapas ou links para atualizar suas informações bancárias ou de impostos no Partner Center. |
 | Descontinuada  | O programa de incentivos específico não é mais oferecido no sistema de incentivos. |
 | Registrados  | Todas as informações de impostos e bancos foram validadas. Nenhuma ação de registro adicional é exigida pelo parceiro. |
-| Inactive  | O programa de incentivos pode não estar aberto para registro no momento ou o parceiro não atende à qualificação atual para registro ou reinscrição.  |
+| Registro  | O usuário não é um administrador de incentivos e o registro está na **ação necessária** ou **Validando** os Estados de registro.|
+| Inativo/inelegível | O programa de incentivos pode não estar aberto para registro no momento ou o parceiro não atende à qualificação atual para registro ou reinscrição. <br> Se o status for **inelegível**, o parceiro não atenderá aos requisitos de qualificação atuais para o programa; clicar no link **ver requisitos de qualificação** abaixo do status do registro mostrará os requisitos para elegibilidade e quais desses requisitos foram atendidos. |
 | Convidado  | Um novo convite de registro de programa de incentivo foi enviado para o parceiro, mas o parceiro ainda não iniciou o processo de registro. A coluna adjacente **ações necessárias** mostra as próximas etapas e todos os links relacionados.  |
 | Validando o registro  | O parceiro já concluiu ou atualizou as informações bancárias e fiscais para um registro novo ou existente e está aguardando que a Microsoft valide essas informações. Durante o processo de validação, a **validação do registro** pode aparecer por até 48 horas.  |
 
