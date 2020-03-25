@@ -162,6 +162,7 @@
 ### [Mover os clientes de serviços baseados em licença para o programa de provedor de serviços de nuvem](transition-seat-based-services.md)
 ### [Vender assinaturas do Minecraft: Education Edition](minecraft-subscriptions.md)
 ### [Vender para setores especializados](Get-special-pricing-for-offers.md)
+### [Vender para clientes de educação](sell-to-education-customers.md)
 ### [Aumentar a adoção e a satisfação](increasing-adoption-and-satisfaction.md)
 ### [Simplificar a configuração dos dispositivos com o Windows Autopilot](autopilot.md)
 ##  Atualizar ou transferir ofertas para versões mais recentes
