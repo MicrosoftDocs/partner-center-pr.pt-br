@@ -1,7 +1,7 @@
 ---
 title: Gerenciar seus benefícios do Microsoft Partner Network | Partner Center
 ms.topic: article
-ms.date: 10/29/2019
+ms.date: 03/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Participe do MPN (Microsoft Partner Network) e gerencie os benefícios da associação que ajudarão a desenvolver e a expandir seus negócios.
@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, benefícios da associação, associação
 ms.localizationpriority: high
-ms.openlocfilehash: 0e1ad3c5ebc7406e815ba7e7d0c9fdc75d8bf5cf
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: e7ec97485467d997e770337fa249065d87e6838f
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004525"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226082"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gerenciar seus benefícios de associação ao Microsoft Partner Network
 
@@ -23,10 +23,10 @@ ms.locfileid: "75004525"
 -  Partner Center
 
 **Funções apropriadas**
--   Administração global
--   Administrador de usuários
--   Agente administrador
--   Administrador de parceiros do MPN
+-    Administrador global
+-    Administrador de usuários
+-    Agente administrativo
+-    Administrador de parceiros do MPN
 
 >[!IMPORTANT]
 >Este artigo explica como começar a usar seus benefícios de associação ao MPN (Microsoft Partner Network) no Partner Center – este site. Caso ainda não tenha recebido um convite para migrar os dados de sua empresa do PMC (Partner Membership Center) para o Partner Center, continue gerenciando seus benefícios de associação ao MPN no PMC. [Entre](https://partner.microsoft.com/_login?authType=OpenIdConnect) no PMC agora.
@@ -41,7 +41,7 @@ Depois de comprar um pacote de benefícios de associação, você precisará obt
 >[!IMPORTANT]
 >Embora você não precise ser um administrador global em sua organização para comprar benefícios, você precisará ser o administrador global para atribuir benefícios aos funcionários. Se necessário, você poderá se tornar um administrador global seguindo as instruções da [página **Benefícios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (entrada necessária). Talvez sua empresa já tenha um administrador global; portanto, verifique isso com a sua equipe.
 
-Os pacotes de benefícios incluem alocações de software licenciado, serviços de nuvem, assinaturas do Visual Studio e suporte. Os pacotes de benefícios também podem incluir determinados benefícios de entrada no mercado. Obtenha os detalhes sobre a assinatura do Action Pack no site do [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
+Os pacotes de benefícios incluem alocações de software licenciado, serviços de nuvem, assinaturas do Visual Studio e suporte. Os pacotes de benefícios também podem incluir determinados recursos, ofertas e programas de entrada no mercado. Obtenha os detalhes sobre a assinatura do Action Pack no site do [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
 Para exibir e gerenciar todos os seus benefícios de associação, acesse a [página **Benefícios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (entrada necessária). Como alternativa, você pode entrar no [Painel](https://docs.microsoft.com/partner-center/) do Partner Center, selecionar a [**opção Benefícios**] no menu à esquerda e, em seguida, selecionar as opções de benefícios exibidas.  
 
@@ -99,7 +99,7 @@ Para exibir e gerenciar todos os seus benefícios de associação, acesse a [pá
 
 3. Para ativar seu benefício de suporte, atribua um usuário a ele. 
    
-    a.  Selecione um usuário da lista. Se o usuário que você desejar atribuir não estiver na lista, você poderá [adicionar novos usuários](create-user-accounts-and-set-permissions.md) em **Configurações da conta**.
+    a.  Selecione um usuário na lista. Se o usuário que você desejar atribuir não estiver na lista, você poderá [adicionar novos usuários](create-user-accounts-and-set-permissions.md) em **Configurações da conta**.
 
     b.  Forneça um endereço de email para o usuário que seja diferente do endereço de email associado à conta do Partner Center da sua empresa. 
     
@@ -109,47 +109,47 @@ Para exibir e gerenciar todos os seus benefícios de associação, acesse a [pá
 
 4. Você pode usar seu benefício de assistência de pré-vendas técnicas ou horas de consultoria para solicitar assistência técnica durante as fases de pré-vendas, design, implantação e desenvolvimento de aplicativos de suas soluções híbridas e de nuvem. Para solicitar assistência, preencha o [formulário de solicitação](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest) e, em seguida, selecione **Enviar solicitação**.
 
-#### <a name="manage-go-to-market-benefits"></a>Gerenciar benefícios de entrada no mercado
+#### <a name="manage-go-to-market-offers"></a>Gerenciar ofertas de entrada no mercado
 
 **Funções apropriadas para executar esta tarefa:**
 
-- Administração global
+- Administrador global
 - Administrador de parceiros do MPN
 
 
-1. Selecione **Benefícios de entrada no mercado** para ver a sua lista de benefícios de entrada no mercado da Microsoft.
+1. Selecione **Benefícios** e **Entrada no mercado** para ver sua lista de ofertas associadas com o programa da Microsoft de entrada no mercado.
 
-    Os [benefícios de entrada no mercado](mpn-learn-about-go-to-market-benefits.md) oferecem recursos de marketing e assistência adicionais que podem estar disponíveis para você. Os tipos de benefícios disponíveis dependem de seu nível de parceiro específico e das competências que você já possa ter obtido.
+    Os [recursos de entrada no mercado](mpn-learn-about-go-to-market-benefits.md) oferecem mais recursos, ofertas, programas de marketing e assistência que podem estar disponíveis para você. Os tipos de ofertas disponíveis dependem de seu nível de parceiro específico e das competências que você já possa ter obtido.
 
-2. Para ativar qualquer benefício de entrada no mercado, primeiro, você precisará atribuir um contato de marketing da empresa. Este contato receberá comunicações de acompanhamento sobre seus benefícios ativos de entrada no mercado.
+2. Para ativar qualquer benefício ou programa de entrada no mercado, primeiro, você precisará atribuir um contato de marketing da empresa. Este contato receberá comunicações de acompanhamento sobre suas ofertas ativas de entrada no mercado.
 
 3. Para adicionar ou atualizar suas informações de contato de marketing, acesse a parte superior da página Entrada no mercado e, em seguida, selecione **Adicionar**, **Atualizar** ou **Alterar**. Agora, faça o seguinte:  
    
-    a.  Selecione um usuário da lista. Se o usuário que você desejar atribuir não estiver na lista, você poderá [adicionar novos usuários](create-user-accounts-and-set-permissions.md) em **Configurações da conta**.
+    a.  Selecione um usuário na lista. Se o usuário que você desejar atribuir não estiver na lista, você poderá [adicionar novos usuários](create-user-accounts-and-set-permissions.md) em **Configurações da conta**.
 
     b.  Forneça um endereço de email para o usuário que seja diferente do endereço de email associado à conta do Partner Center da sua empresa. 
     
-    Enviaremos instruções por email para uso de seu benefício de entrada no mercado ao endereço de email do contato de marketing designado. 
+    Enviaremos instruções por email para uso de sua oferta de entrada no mercado ao endereço de email do contato de marketing designado. 
     
     c.  Forneça o telefone de contato e o idioma preferencial para esse contato de marketing. Depois de concluir a inserção dessas informações, selecione **Atribuir usuário**. 
 
-4. Depois de atualizar seu contato de marketing, encontre o benefício de entrada no mercado que deseja começar a usar e, em seguida, selecione a seta para baixo na extremidade direita da linha para expandir os detalhes do benefício. A lista exibirá cada tipo de benefício disponível abaixo do nome do benefício (como **Silver Core** ou **Gold Core**).
+4. Depois de atualizar seu contato de marketing, encontre a oferta de entrada no mercado que deseja começar a usar e, em seguida, selecione a seta para baixo na extremidade direita da linha para expandir os detalhes da oferta. A lista exibirá cada tipo de oferta disponível abaixo do nome do Benefício (como **Silver Core** ou **Gold Core**).
 
-5. Selecione **Ativar** para ativar o benefício.
+5. Selecione **Ativar** para ativar a oferta.
 
 > [!NOTE]
->Pode levar vários dias para enviar as instruções por email ao contato de marketing atribuído e ativar um benefício de entrada no mercado. Quando o benefício for ativado, você verá as alterações na página Entrada no mercado. Na coluna **Status**, você verá a alteração do benefício para **Ativo**. Na coluna **Expira em**, você verá a data na qual o benefício expira. Você pode usar esse benefício até a data de validade. Saiba mais sobre os [diferentes tipos de benefícios de entrada no mercado](mpn-learn-about-go-to-market-benefits.md) disponíveis.  
+>Pode levar vários dias para enviar as instruções por email ao contato de marketing atribuído e ativar uma oferta de entrada no mercado. Quando a oferta for ativada, você verá as alterações na página Entrada no mercado. Na coluna **Status**, você verá a alteração da oferta para **Ativo**. Na coluna **Expira em**, você verá a data na qual a oferta expira. Você pode usar essa oferta até a data de validade. Saiba mais sobre os [diferentes tipos de recursos, ofertas e programas de entrada no mercado](mpn-learn-about-go-to-market-benefits.md) disponíveis.  
 
 
-## <a name="cancel-a-membership-benefit"></a>Cancelar um benefício de associação
+## <a name="cancel-a-membership-benefit-or-offer"></a>Cancelar um benefício ou oferta de associação
 
-Para cancelar um benefício e receber um reembolso, você precisará fazer a solicitação no prazo de 30 dias após a compra e não ter ativado os benefícios de software. Solicite o cancelamento por meio de uma solicitação de serviço.
+Para cancelar um benefício ou oferta e receber um reembolso, você precisará fazer a solicitação no prazo de 30 dias após a compra e não ter ativado os benefícios de software. Solicite o cancelamento por meio de uma solicitação de serviço.
 
 
-#### <a name="see-also"></a>Consulte também
+#### <a name="see-also"></a>Veja também
 
 [Adicionar usuários e atribuir permissões a eles](create-user-accounts-and-set-permissions.md)
 
 [Adquirir ou renovar uma assinatura do Microsoft Action Pack](mpn-get-action-pack.md)
 
-[Saiba mais sobre os benefícios de entrada no mercado do MPN](mpn-learn-about-go-to-market-benefits.md)
+[Saiba mais sobre as ofertas e os recursos de entrada no mercado do MPN](mpn-learn-about-go-to-market-benefits.md)

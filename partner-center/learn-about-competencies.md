@@ -1,7 +1,7 @@
 ---
 title: Requisitos de competência para associações Gold e Silver da Microsoft | Partner Center
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre os requisitos de competência para obter níveis de associação Gold e Silver.
@@ -9,18 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: competências, associação silver, associação gold, mpn, MAPS, proficiência, Microsoft Partner Network, associação de rede, especializações avançadas
 ms.localizationpriority: high
-ms.openlocfilehash: 1927ccdb7c24e018ff1f656f46ba1580529d127f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 808cf6feabe1eb1c8ec803aaadb55ab5f3d46240
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004805"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226212"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Informações sobre as competências silver e gold e as especializações avançadas da Microsoft
 
 **Funções apropriadas**
--   Administração global
--   Administrador de usuários
+-    Administrador global
+-    Administrador de usuários
 
 Demonstre seu conhecimento comprovado no fornecimento de soluções de qualidade em uma ou mais áreas de negócios especializadas. As competências da Microsoft foram projetadas para preparar você para atender às necessidades dos clientes e ajudar a atrair novos clientes que estejam procurando por provedores de soluções certificados pela Microsoft. Participe do nível de elite dos parceiros da Microsoft e destaque-se entre seus pares.
 
@@ -30,7 +30,7 @@ Demonstre seu conhecimento comprovado no fornecimento de soluções de qualidade
 
 - Como um membro parceiro gold, você também pode adicionar especializações avançadas ao seu portfólio.
 
-Ganhar as competências de **Associação Silver** ou **Associação Gold** também desbloqueia poderosos benefícios de marketing e vendas de [Entrada no mercado](mpn-learn-about-go-to-market-benefits.md) para ajudá-lo a expandir seus negócios.
+Ganhar as competências de **Associação Silver** ou **Associação Gold** também desbloqueia poderosas ofertas e programas de [Entrada no mercado](mpn-learn-about-go-to-market-benefits.md) para ajudar você a expandir seus negócios.
 
 ## <a name="competency-areas"></a>Áreas de competência
 

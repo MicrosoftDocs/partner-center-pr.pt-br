@@ -1,7 +1,7 @@
 ---
 title: Guia de migração do PMC para o Partner Center | Partner Center
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como migrar sua empresa do PMC (Partner Membership Center) para o Partner Center.
@@ -9,18 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migração, mover para o Partner Center
 ms.localizationpriority: high
-ms.openlocfilehash: c656981bfd5eb99e34a24f70960d4bc7da581896
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 0e1538258199c503d38a08f3e070a6cc6ec97253
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721883"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226172"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guia de migração do PMC para o Partner Center
 
 **Funções apropriadas**
 
-- Administração global
+- Administrador global
 
 O site do parceiro da Microsoft em partner.microsoft.com é uma experiência digital unificada para parceiros. No site do parceiro, você poderá explorar suas oportunidades e se envolver em experiências guiadas que ajudam a sua empresa a criar e comercializar seus aplicativos e seus serviços com a Microsoft. Usando o link do painel que está disponível no site do parceiro, os membros do Microsoft Partner Network podem entrar no Partner Center, no qual você gerencia seu relacionamento com a Microsoft, registra-se em programas e inscreve-se em ofertas. 
 
@@ -61,11 +61,11 @@ Isso inicia a criação do seu locatário do Azure AD e fornece a você a conta 
 
 A seleção de **Aceitar e continuar** também faz o seguinte:
 
-• Migra a sua conta junto com todas as suas localizações para o Partner Center
+- Migra sua conta junto com TODOS os locais para o Partner Center
 
-• Migra as competências ou os MAPs que você possa ter adquirido no PMC
+- Migra as competências ou os MAPs que você possa ter adquirido no PMC
 
-• Migra os benefícios (MAPs, Silver, Gold) que você tinha no PMC
+- Migra quaisquer recursos, ofertas e programas de marketing (MAPs, Silver, Gold) que você tinha no PMC
 
 ## <a name="invite-employees-to-join-you"></a>Convidar os funcionários para ingressar junto com você
 
@@ -103,6 +103,6 @@ Faça um tour pelo painel. É nele que você pode gerenciar sua associação, ad
 - [Criar perfil de negócios da sua empresa](create-a-marketing-profile.md)
 - [Conectar-se com clientes por meio de indicações](responding-to-referrals.md)
 
-## <a name="see-also"></a>Consulte também
+## <a name="see-also"></a>Veja também
 
 - [Guia de migração de várias empresas do PMC para o Partner Center](move-multiple-companies.md)

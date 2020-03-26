@@ -8,12 +8,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor do painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
 ms.localizationpriority: high
-ms.openlocfilehash: 6b1af593d4639cfc725da54b4e0f22cd1f3551ed
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.topic: conceptual
+ms.openlocfilehash: 2fc0926f2277cea8eebd7157af44338aabfaa94c
+ms.sourcegitcommit: e98684319d8f9bfc2cadad77fd7c51d7aa32c419
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723453"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80136315"
 ---
 # <a name="partner-security-requirements-status"></a>Status dos requisitos de segurança do parceiro
 
@@ -27,7 +28,7 @@ ms.locfileid: "76723453"
 - Todos os consultores
 
 **Usuários apropriados**
--   Todos os usuários habilitados, incluindo usuários convidados
+-    Todos os usuários habilitados, incluindo usuários convidados
 
 As maiores proteções de privacidade e segurança estão entre nossas principais prioridades. Sabemos que a melhor defesa é a prevenção e que somos tão fortes quanto nosso vínculo mais fraco. É por isso que precisamos de todos em nosso ecossistema, para agir e garantir que eles tenham proteções de segurança adequadas implantadas. Para ajudar a proteger parceiros e clientes, estamos introduzindo um conjunto de requisitos de segurança obrigatórios para consultores, fornecedores do painel de controle e parceiros que participam do programa de Provedor de Soluções na Nuvem.
 
@@ -59,7 +60,7 @@ Essa métrica está relacionada à configuração de MFA em um locatário de CSP
 
 ### <a name="partner-center-activities-with-mfa"></a>Atividades do Partner Center com MFA
 
-Cada vez que seus funcionários entram no Partner Center para trabalhar ou, por meio de APIs, obter ou enviar dados por meio do Partner Center, seu status de segurança é desafiado e acompanhado. Também estão incluídos no acompanhamento de status de segurança os seus aplicativos e todos os aplicativos de fornecedor do painel de controle. O status exibido é referente aos 7 dias anteriores.
+Cada vez que seus funcionários entram no Partner Center para trabalhar ou, por meio de APIs, obter ou enviar dados por meio do Partner Center, seu status de segurança é desafiado e acompanhado. Também estão incluídos no acompanhamento de status de segurança os seus aplicativos e todos os aplicativos de fornecedor do painel de controle. O status exibido é referente aos sete dias anteriores.
 
 #### <a name="mfa-verification-completed-by-users"></a>Verificação de MFA concluída pelos usuários
 
@@ -77,11 +78,11 @@ Essa métrica está relacionada às atividades no Painel do Partner Center. Ela 
 Essa métrica está relacionada ao uso de solicitações de API do Partner Center feitas usando a Autenticação aplicativo + usuário. Ela mede o percentual de solicitações de API feitas usando um token de acesso com a declaração da MFA. Por exemplo:
 
 - a Fabrikam é um parceiro CSP e tem um aplicativo CSP que usa uma combinação de autenticação aplicativo + usuário e métodos de autenticação somente por aplicativo.
-- No primeiro dia, o aplicativo fez três solicitações de API que foram apoiadas por um token de acesso obtido por meio do método de autenticação usuário + aplicativo, sem a verificação da MFA.
+- No primeiro dia, o aplicativo fez três solicitações de API que foram apoiadas por um token de acesso obtido por meio do método de autenticação Usuário + Aplicativo, sem a verificação da MFA.
 - No segundo dia, o aplicativo fez cinco solicitações de API que foram apoiadas por um token de acesso obtido usando a autenticação somente por aplicativo.
-- No terceiro dia, o aplicativo fez duas solicitações de API que foram apoiadas por um token de acesso obtido por meio do método de autenticação usuário + aplicativo, com a verificação da MFA.
-- Nenhuma outra operação foi realizada por nenhum dos agentes nos 4 dias restantes.
-- As cinco solicitações de API no segundo dia que foram apoiadas por um token de acesso obtido por meio da autenticação somente por aplicativo são omitidas da métrica, pois não fazem uso de credenciais de usuário. Das cinco operações restantes, duas delas foram apoiadas por um token de acesso obtido com a verificação da MFA. Portanto, a métrica mostrará 40%.
+- No terceiro dia, o aplicativo fez duas solicitações de API que foram apoiadas por um token de acesso obtido por meio do método de autenticação Usuário + Aplicativo, com a verificação da MFA.
+- Nenhuma outra operação foi realizada pelos agentes nos quatro dias restantes.
+- As cinco solicitações de API no segundo dia que foram apoiadas por um token de acesso obtido por meio da autenticação somente por aplicativo são omitidas da métrica, pois não fazem uso de credenciais de usuário. Das cinco operações restantes, duas foram apoiadas por um token de acesso obtido com a verificação da MFA. Portanto, a métrica mostrará 40%.
 
 ## <a name="what-should-i-do-if-the-metrics-under-mfa-report-arent-100"></a>O que devo fazer se as métricas do relatório da MFA não forem iguais a 100%
 
@@ -96,18 +97,18 @@ Caso contrário, primeiro você precisará implementar a MFA para o seu locatár
 
 ### <a name="have-you-only-recently-completed-mfa-implementation"></a>Você concluiu recentemente a implementação da MFA?
 
-As métricas são calculadas diariamente e levam em conta as operações executadas nos últimos 7 dias. Se você concluiu recentemente a implementação da MFA para o seu locatário de parceiros, as métricas podem não ser iguais a 100%.
+As métricas são calculadas diariamente e levam em conta as operações executadas nos últimos sete dias. Se você concluiu recentemente a implementação da MFA para o seu locatário de parceiros, as métricas podem não ser iguais a 100%.
 
 ### <a name="have-some-user-accounts-been-excluded-from-mfa-implementation"></a>Algumas contas de usuário foram excluídas da implementação da MFA?
 
-Entenda se a sua implementação atual da MFA abrange todas as contas de usuário ou apenas algumas. Algumas soluções de MFA são baseadas em políticas e compatíveis com a exclusão de usuários, ao passo que outras podem exigir que você habilite explicitamente a MFA para cada usuário específico. Verifique se você não excluiu nenhum usuário da sua implementação de MFA atual. Toda conta de usuário excluída e que faça logon no Partner Center para executar qualquer atividade relacionada ao CSP poderá fazer com que as métricas sejam diferentes de 100%.
+Entenda se a sua implementação atual da MFA abrange todas as contas de usuário ou apenas algumas. Algumas soluções de MFA são baseadas em políticas e compatíveis com a exclusão de usuários, ao passo que outras podem exigir que você habilite explicitamente a MFA para cada usuário. Verifique se você não excluiu nenhum usuário da sua implementação de MFA atual. Toda conta de usuário excluída e que faça logon no Partner Center para executar qualquer atividade relacionada ao CSP poderá fazer com que as métricas sejam diferentes de 100%.
 
 ### <a name="is-mfa-only-required-when-certain-conditions-are-met"></a>A MFA é necessária somente quando determinadas condições são atendidas?
 
 Entenda se a implementação atual só impõe a MFA em condições específicas. Algumas soluções de MFA fornecem a flexibilidade de impor a MFA somente quando determinadas condições são atendidas. Por exemplo, quando o usuário está acessando de um dispositivo desconhecido ou de um local desconhecido. Um usuário que está habilitado para a MFA, mas que não precisa concluir a verificação de MFA ao acessar o Partner Center poderá fazer com que as métricas sejam diferentes de 100%.
 
 >[!NOTE]
->Para parceiros que implementaram a MFA usando os padrões de segurança do Azure AD é importante observar que para as contas de usuário não administrador, a autenticação multifator será imposta com base em risco. Os usuários deverão realizar a MFA somente durante tentativas de entrada arriscadas (por exemplo, quando o usuário estiver entrando de um local diferente). Além disso, os usuários terão até 14 dias para se registrarem para a MFA. Os usuários que não concluíram o registro da MFA não serão desafiados pela verificação de MFA durante esse período de 14 dias. Portanto, espera-se que as métricas não sejam iguais a 100% para parceiros que implementaram a MFA usando os padrões de segurança do Azure AD.
+>Para parceiros que implementaram a MFA usando os padrões de segurança do Azure AD é importante observar que para as contas de usuário não administrador, a autenticação multifator será imposta com base em risco. Os usuários deverão realizar a MFA somente durante tentativas de entrada suspeitas (por exemplo, quando o usuário estiver entrando de um local diferente). Além disso, os usuários terão até 14 dias para se registrarem para a MFA. Os usuários que não concluíram o registro da MFA não serão desafiados pela verificação de MFA durante esse período de 14 dias. Portanto, espera-se que as métricas não sejam iguais a 100% para parceiros que implementaram a MFA usando os padrões de segurança do Azure AD.
 
 ### <a name="are-you-using-3rd-party-mfa-solution"></a>Você está usando uma solução de MFA de terceiros?
 

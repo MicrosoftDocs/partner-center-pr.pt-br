@@ -1,27 +1,27 @@
 ---
 title: Atribuir funções e permissões de usuários | Partner Center
 ms.topic: article
-ms.date: 10/10/2019
+ms.date: 03/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba quais funções são melhores para os seus usuários que estão gerenciando transações comerciais, referências, incentivos ou associações MPN de sua empresa.
+description: Saiba quais funções são melhores para os seus usuários que estão gerenciando transações comerciais, indicações, incentivos ou associações MPN de sua empresa.
 author: LauraBrenner
 ms.author: labrenne
 keywords: funções, permissões, administrador, agente
 ms.localizationpriority: high
-ms.openlocfilehash: bf7b1d2b029f2ce4558a2b24c3e1f12a63813339
-ms.sourcegitcommit: bd76d42044ed4e3266395455a1956b2f9ccece76
+ms.openlocfilehash: 20930ad547bed2399fd60a5c419d8d5c3be8329e
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75776497"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226162"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Atribuir permissões e funções de usuários
 
 **Funções apropriadas**
--   Administrador global
--   Administrador de usuários
--   Administrador de parceiros do MPN
+-    Administrador global
+-    Administrador de usuários
+-    Administrador de parceiros do MPN
 
 Você configurou seu perfil de parceiro, incluindo a razão social, o endereço, os detalhes de suporte, as isenções de imposto sobre arquivos, as informações bancárias e o contato principal da empresa. Próxima etapa: configure as senhas e funções de seus usuários para que eles possam começar a trabalhar no Partner Center com você.
 
@@ -36,39 +36,39 @@ Você determinará os tipos de acesso que os usuários terão ao Partner Center 
 
 |**Função**|**O que eles podem fazer**|
 |----------------------------------|:---------------------------------|
-|Administrador global|• Podem acessar todas as contas/os serviços da Microsoft com todos os privilégios
-|      |• Criar tíquetes de suporte para o Partner Center
-||• Exibir contratos, listas de preços e ofertas
-||• Exibir, criar e gerenciar usuários parceiros|
+|Administrador global|*    Pode acessar todas as contas/os serviços da Microsoft com todos os privilégios
+|      |*    Criar tíquetes de suporte para o Partner Center
+||*    Ver contratos, listas de preços e ofertas
+||*    Ver, criar e gerenciar usuários parceiros|
 ||  • Exibir, criar e gerenciar a cobrança, as faturas e os arquivos reconhecimento
-|Administrador de gerenciamento de usuário   | • Exibir, criar e gerenciar usuários
-||• Exibir todos os perfis de parceiros
-||• Exibir, criar e gerenciar usuários parceiros  |
+|Administrador de gerenciamento de usuário   | *    Ver, criar e gerenciar usuários
+||*    Ver todos os perfis de parceiros
+||*    Ver, criar e gerenciar usuários parceiros  |
 |Administrador de cobrança | – Exibir, criar e gerenciar a cobrança, as faturas e os arquivos reconhecimento|
 |Usuário padrão|  Exibir meu perfil   |
-|Agente administrativo | • Gerenciamento de clientes
-||• Adicionar lista de dispositivos ao Partner Center
-||• Criar e aplicar perfis aos dispositivos
-||• Gerenciamento de assinaturas
-||• Solicitações de integridade e de serviços para os clientes
-||• Solicitar privilégios de administrador delegado
-||• Exibir preços e ofertas
-||• Cobrança
-||• Administrar em nome de um cliente
-||• Registrar um revendedor com alto valor agregado|
-|Agente de vendas | • Gerenciamento de clientes
-||• Adicionar lista de dispositivos ao Partner Center
-||• Gerenciamento de assinaturas
-||• Exibir tíquetes de suporte
-||• Solicitar um relacionamento com um cliente
-||• Gerenciar clientes em potencial
-||• Exibir o contrato do cliente
-||• Registrar um revendedor com alto valor agregado|
-|Agente de suporte técnico| • Pesquisar e exibir um cliente
-||• Editar detalhes do cliente
-||• Ajudar a resolver problemas dos clientes com o gerenciamento de cobrança ou assinaturas
-||• Solicitar suporte em nome dos clientes (Observação: é necessário ser um agente administrador para concluir esta tarefa para assinaturas do Office 365)
-||• Gerenciar assinaturas e problemas de cobrança em nome dos clientes (Observação: é necessário ser um agente administrador para concluir esta tarefa para assinaturas do Office 365)|
+|Agente administrativo | *    Gerenciamento de clientes
+||*    Adicionar lista de dispositivos ao Partner Center
+||*    Criar e aplicar perfis aos dispositivos
+||*    Gerenciamento de assinaturas
+||*    Solicitações de integridade e de serviços para os clientes
+||*    Solicitar privilégios de administrador delegado
+||*    Ver preços e ofertas
+||*    Cobrança
+||*    Administrar em nome de um cliente
+||*    Registrar um revendedor com valor agregado|
+|Agente de vendas | *    Gerenciamento de clientes
+||*    Adicionar lista de dispositivos ao Partner Center
+||*    Gerenciamento de assinaturas
+||*    Ver tíquetes de suporte
+||*    Solicitar um relacionamento com um cliente
+||*    Gerenciar clientes potenciais
+||*    Ver o contrato do cliente
+||*    Registrar um revendedor com valor agregado|
+|Agente de suporte técnico| *    Pesquisar e ver um cliente
+||*    Editar detalhes do cliente
+||*    Ajudar a resolver problemas dos clientes com o gerenciamento de cobrança ou assinaturas
+||*    Solicitar suporte em nome dos clientes 
+||*    Gerenciar problemas de assinaturas e cobrança em nome dos clientes| 
 
 ### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>CPV (Fornecedor de Painel de Controle). (Função CSP e função não pertencente ao AAD)
 Os CPVs desenvolvem aplicativos para uso por parceiros CSP (Provedor de Soluções na Nuvem) a fim de permitir que eles integrem seus sistemas com as APIs do Partner Center. 
@@ -93,48 +93,48 @@ Os CPVs desenvolvem aplicativos para uso por parceiros CSP (Provedor de Soluçõ
 
 |**Função** | **O que você pode fazer**|
 |----------------------------|:----------------------------|
-|Administrador de parceiros do MPN|• Exibir, criar e gerenciar solicitações de serviço de parceiros||
-||• Exibir perfis jurídico, empresarial, de negócios e do MPN
-||• Exibir detalhes do usuário e seus dados de habilidades
-||• Exibir competências
-||• Exibir e gerenciar benefícios
-||• Exibir e comprar ofertas do MPN
-||• Exibir histórico de pedidos de ofertas e faturas do MPN
-||• Exibir dados do indicador de contribuição de parceiros
-||• Pode funcionar na ferramenta de validação de comprovantes|
-||– Exibir análise de dados do cliente
-|| Exibir outras funções de usuário dentro da empresa, mas não pode atribuir funções
+|Administrador de parceiros do MPN|*    Ver, criar e gerenciar solicitações de serviço de parceiros||
+||*    Ver perfis jurídico, empresarial, de negócios e do MPN
+||*    Ver detalhes do usuário e seus dados de habilidades
+||*    Ver competências
+||*    Ver e gerenciar benefícios
+||*    Ver e comprar ofertas do MPN
+||*    Ver histórico de pedidos de ofertas e faturas do MPN
+||*    Ver dados do indicador de contribuição de parceiros
+||*    Pode funcionar na ferramenta de validação de comprovantes|
+||*    Ver análises de dados do cliente
+||*    Ver outras funções de usuário dentro da empresa, mas não atribuir funções
 |Administrador de conta| Adicionar locais
 || Gerenciar perfis relacionados às contas para as quais você é administrador 
-||• Atribuir funções aos usuários do locatário para funções não pertencentes ao AAD 
-||• Registrar locais em programas
+||*    Atribuir funções aos usuários do locatário para funções não pertencentes ao AAD 
+||*    Registrar locais em programas
 
 
 ## <a name="manage-referrals"></a>Gerenciar indicações 
 
 |**Função**|**O que você pode fazer**|
 |-----------------------------|:------------------------|
-|Administrador de indicações       |• Exibir, criar e gerenciar perfis de negócios
-||• Receber e gerenciar indicações
-||• Exibir, criar e gerenciar as referências indicações de venda conjunta|
-||• Exibir, criar e gerenciar solicitações de serviço de parceiros
-|Administrador de perfis de negócios   |• Exibir, criar e gerenciar perfis de negócios 
-||• Exibir, criar e gerenciar solicitações de serviço de parceiros|
+|Administrador de indicações       |* Ver, criar e gerenciar perfis de negócios
+||*    Receber e gerenciar indicações
+||* Ver, criar e gerenciar as indicações de venda conjunta|
+||*    Ver, criar e gerenciar solicitações de serviço de parceiros
+|Administrador de perfis de negócios   |* Ver, criar e gerenciar perfis de negócios 
+||*    Ver, criar e gerenciar solicitações de serviço de parceiros|
 
 ## <a name="manage-incentives"></a>Gerenciar incentivos 
 
 |**Função** | **O que você pode fazer**|
 |------------------------------|:-------------------------|
-|Administrador de incentivos|• Iniciar e gerenciar incentivos 
-||• Poder exibir e editar todos os aspectos dos programas de incentivos
-||• Poder exibir e editar detalhes bancários e fiscais
-||• Exibir lucros de reembolso e de cooperação
-||• Acessar suporte
-||• Disputar pagamentos de incentivos|
-|Usuário de incentivos|• Poderá exibir programas de incentivos
-||• Poderá exibir e iniciar reivindicações de incentivos
-||• Exibir lucros de reembolso e de cooperação
-||• Acessar suporte
+|Administrador de incentivos|*    Iniciar e gerenciar incentivos 
+||*    Ver e editar todos os aspectos dos programas de incentivos
+||*    Ver e editar detalhes bancários e fiscais
+||*    Ver lucros de reembolso e de cooperação
+||*    Acessar suporte
+||*    Disputar pagamentos de incentivos|
+|Usuário de incentivos|*    Ver programas de incentivos
+||*    Ver e iniciar reivindicações de incentivos
+||*    Ver lucros de reembolso e de cooperação
+||*    Acessar suporte
 
 ## <a name="view-partner-center-insights-data"></a>Exibir dados de Insights do Partner Center
 
