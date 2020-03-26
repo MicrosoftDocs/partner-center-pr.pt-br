@@ -104,7 +104,7 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 |  Butão            |          |
 |  Brunei Darussalam |   USD    |
 |  Camboja          |          |
-|  Hong Kong         |   USD    |
+|  RAE de Hong Kong         |   USD    |
 |  Indonésia         |   USD    |
 |  Laos              |          |
 |  Rae             |   USD    |
@@ -347,7 +347,7 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 |  Moçambique     |          |
 |  Omã           |   USD    |
 |  Paquistão       |   USD    |
-|  Território Palestina, ocupado |        |
+|  Autoridade Palestina, ocupado |        |
 |  Catar          |   USD    |
 |  Arábia Saudita   |   USD    |
 |  Sérvia         |   USD    |
@@ -385,7 +385,7 @@ Se o local da sua empresa for Rússia, você poderá vender ofertas do CSP para 
 |  Rússia         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Região de Taiwan e mercado
+## <a name="taiwan-region-and-market"></a>Taiwan e mercado
 
 Se o local da sua empresa for Taiwan, você poderá vender ofertas de CSP para clientes em Taiwan.
 
