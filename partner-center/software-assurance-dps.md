@@ -1,7 +1,7 @@
 ---
 title: Serviços de planejamento do Software Assurance no Partner Center | Centro de parceiros
 ms.topic: article
-ms.date: 01/31/2020
+ms.date: 03/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como registrar-se e se qualificar nos contratos do Microsoft Planning Services para que você possa fornecer treinamento e outros serviços aos clientes com o Software Assurance.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: pré-implantação, planejamento, Software Assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: a8bce7d7e9d52071af3ffc8c483a4aa4c40cc54f
-ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
+ms.openlocfilehash: 864d7e8f6073af99b2d4227d28a94c1def373046
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "76915750"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296402"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Serviços de planejamento do Software Assurance no Partner Center
 
@@ -52,7 +52,7 @@ Antes que empresas e consultores parceiros possam se registrar em uma das oferta
 
 Para ajudar a verificar a qualificação da sua empresa para se registrar em um contrato específico de serviços de planejamento:
 
-1. Entre no [painel](https://partner.microsoft.com/dashboard/home)do Partner Center.
+1. Entre no [painel](https://partner.microsoft.com/dashboard/home) do Partner Center.
 2. Selecione **MPN** no menu e, em seguida, selecione **programas**.
 3. Selecione **registro do Software Assurance**.
 4. Selecione a guia **registro do programa Planning Services** na parte superior da página. Você verá uma marca de seleção verde ao lado de quaisquer requisitos ou competências já concluídos.
@@ -103,8 +103,9 @@ Depois de resgatar os comprovantes de serviços de planejamento, você deve fatu
 
 Para enviar uma fatura à Microsoft por meio do SAVB, siga as instruções na [etapa 8](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho.
 
-## <a name="see-also"></a>Veja também
+## <a name="see-also"></a>Consulte também
 
 - [Fluxo de trabalho dos serviços de planejamento do Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [Perguntas frequentes sobre serviços de planejamento do Software Assurance](https://go.microsoft.com/fwlink/?linkid=2116077)
 - [Políticas de serviços de planejamento do Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115984)
+- [Compromissos desativados do serviço de planejamento do Software Assurance](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)

@@ -1,7 +1,7 @@
 ---
 title: Indicadores de contribuição de parceiros | Partner Center
 ms.topic: article
-ms.date: 1/06/2020
+ms.date: 03/25/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dados que mostram como a empresa está se saindo com o Dynamics 365 Customer Engagement ou o Dynamics 365 for Finance and Operations
@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b9892c1a1f46450b0ea8def1b10dba104c5cb1b0
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: 6b100d4dbac6d311942f06ab895ce57f89921c42
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80112445"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296465"
 ---
 # <a name="partner-contribution-indicators"></a>Indicadores de contribuição de parceiros
 
@@ -24,12 +24,12 @@ Os indicadores de contribuição do parceiro (PCI) fornecem uma medida holístic
 
 ## <a name="scoring"></a>Pontuação
 
-O PCI fornece uma exibição holística e sofisticada dos recursos técnicos de um parceiro, sua capacidade de impulsionar o sucesso do cliente e seu desempenho de vendas. O PCI mede o desempenho do ano anterior da sua empresa entre sete principais indicadores:
+O PCI fornece uma visão sofisticada dos recursos técnicos de um parceiro, sua capacidade de impulsionar o sucesso do cliente e seu desempenho de vendas. O PCI mede o desempenho do ano anterior da sua empresa entre sete principais indicadores:
 
 1. **Nova receita líquida** – nova receita líquida em todos os canais de vendas para produtos Microsoft Dynamics 365.
 2. **Adições de clientes da net** — clientes .net adquiridos para o Dynamics 365 em todos os canais de vendas.
-3. **Consultores funcionais** — número de indivíduos que mantêm uma certificação de associação de consultor funcional atualmente ativa para o Dynamics 365.
-4. **Crescimento funcional do consultor** — crescimento no número de associados de consultores funcionais.
+3. **Consultores funcionais** — número de indivíduos que mantêm uma certificação de associação de consultor funcional atualmente ativa para o Dynamics 365. 
+4. **Crescimento funcional do consultor** — crescimento no número de associados de consultores funcionais. Estamos reavaliando o tempo de quando usaremos o instantâneo de linha de base para essa métrica. Ele não ocorrerá em 31 de março de 2020 como indicado anteriormente. Quando definimos uma nova data, atualizaremos este documento, notificaremos você no Partner Center e por email.
 5. **Desenvolvedores** — número de indivíduos que contêm uma certificação associada ao desenvolvedor atualmente ativa para o Dynamics 365.
 6. **Novas implantações grandes** — número de locatários de produção que cruzam o limite de uso alto nos últimos 12 meses.
 7. **Crescimento mensal ativo do usuário** — crescimento em usuários ativos mensais em todos os seus clientes nos últimos 12 meses.
@@ -52,8 +52,7 @@ Os parceiros podem obter o máximo de pontos para uma determinada métrica se at
 
 ![envolvimento do cliente](images/pci/custengagethresh.png)
 
-![Finanças](images/pci/table_2.png
-)
+![Finanças](images/pci/table_2.png)
 
 ![Consultor](images/pci/table_3.png)
 
@@ -65,7 +64,7 @@ Os parceiros podem obter o máximo de pontos para uma determinada métrica se at
 
 ![Consultor funcional](images/pci/funcconsult.png)
 
-![Crescimento de consultores funcionais](images/pci/funcgrowth2.png)
+![Crescimento de consultores funcionais](images/pci/4_Functional_consultant_growth.png)
 
 ![Desenvolvedores](images/pci/developers.png) 
 
@@ -73,13 +72,11 @@ Os parceiros podem obter o máximo de pontos para uma determinada métrica se at
 
 ![Usuários ativos](images/pci/activeusers.png)
 
-
-
 ## <a name="customer-to-partner-association"></a>Associação de cliente a parceiro
 
 Você recebe crédito por novas receitas líquidas, adições de clientes da net, novas implantações grandes e crescimento mensal ativo do usuário para um determinado cliente, dentro dos limites da definição da métrica, somente se você for o CSP (provedor de soluções de nuvem), o CPOR (parceiro de registro) de reivindicação, ou DPOR (parceiro de registro digital) para uma assinatura paga que pertence ao locatário do cliente.
 
-Um parceiro se tornará o CPOR se tiver estabelecido a associação com um cliente no nível de assinatura por meio do incentivo do Dynamics 365 [Online Services Advisor](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) ou da OSU (Dynamics 365 [Online Services Usage](https://support.microsoft.com/en-us/help/4489988/online-services-usage-osu-incentives-faq) ).
+Um parceiro se tornará o CPOR se tiver estabelecido a associação com um cliente no nível de assinatura por meio do incentivo do Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) ou da OSU (Dynamics 365 [Online Services Usage](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) ).
 
 Um parceiro se tornará o DPOR se tiver estabelecido uma associação com um cliente no nível de assinatura no produto.
 
@@ -91,7 +88,7 @@ Quando CPOR e DPOR existirem para uma determinada assinatura, o CPOR receberá c
 
 ## <a name="additional-resources"></a>Recursos adicionais
 
-Visite a [coleção de recursos indicadores de contribuição do parceiro](https://aka.ms/pcilearn) , onde você pode encontrar vídeos detalhados de treinamento, apresentações, perguntas frequentes e folhas de fatos. 
+Visite a [coleção de recursos indicadores de contribuição do parceiro](https://aka.ms/pcilearn) , em que você pode encontrar vídeos detalhados de treinamento, apresentações, perguntas frequentes e folhas de fatos. 
 
 
 
