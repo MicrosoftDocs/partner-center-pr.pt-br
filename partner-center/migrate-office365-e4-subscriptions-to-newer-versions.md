@@ -5,26 +5,26 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Edições do Microsoft Office 365 Enterprise E4 estarão desativadas a partir de 7 de abril de 2017. Saiba como migrar suas assinaturas de cliente para versões mais recentes do Office 365.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 314711a3f640ad6a228a437e35fe0d8a543e4da5
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ead92169ce7b3f1c2e697b6d4e983603c17d39fc
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004555"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390875"
 ---
-# <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrar inscrições do Office 365 E4 para versões do Office 365 mais recentes
+# <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migre assinaturas do Office 365 E4 para versões do Office 365 mais recentes
 
 **Aplica-se a**
 
--  Partner Center
+-  Centro de Parceiros
 
 **Funções apropriadas**
 -   Administração global
 -   Administrador de usuários
--   Agente administrativo
+-   Agente administrador
 -   Agente de vendas
 
 O plano do Office 365 Enterprise E4 está desativado desde 7 de abril de 2017. Você não pode comprar novas assinaturas do Office 365 E4 após essa data, e assinaturas E4 existentes não serão renovadas automaticamente quando expirarem.

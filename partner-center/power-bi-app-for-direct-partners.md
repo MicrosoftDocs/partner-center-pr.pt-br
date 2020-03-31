@@ -6,28 +6,28 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Uma visão geral e perguntas frequentes sobre o aplicativo de análise do Partner Center para Power BI.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: eba413fd3955db8dedc5ffe57747739368adcaa6
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: fca6cf8688506179fe3db9ab414a034c7741fbe0
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004955"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390745"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Aplicativo Análise do Partner Center para Power BI (parceiros diretos no CSP)
 
 **Aplica-se a**
 
-- Partner Center
+- Centro de Parceiros
 
 **Funções apropriadas**
 -   Administração global
 -   Administrador de usuários
 -   Agente de vendas
--   Agente administrativo
+-   Agente administrador
 
 Obtenha uma representação visual de seus dados corporativos com o aplicativo de análise do Partner Center para Power BI. O aplicativo, projetado para parceiros diretos no programa Cloud Solution Provider (CSP), conectado à estrutura familiar do Power BI. 
 
@@ -50,7 +50,7 @@ Instale o aplicativo para obter exibições gráficas de:
 
 Recomendamos que você analise nossas respostas para perguntas frequentes antes de instalar o aplicativo. 
 
-| **Pergunta.** | **Resposta** |
+| **Pergunta** | **Atenda** |
 | --- | ---------- |
 | Quanto este aplicativo custa? | O app é gratuito. Para visualizar o aplicativo, você pode [inscreva-se para o serviço gratuito do Power BI](https://go.microsoft.com/fwlink/p/?linkid=845347) e usá-lo para personalizar painéis e relatórios. Para permitir que outras pessoas em sua empresa usem o aplicativo, você precisa ter uma assinatura ativa do Microsoft Power BI Professional ou Microsoft Power BI Premium. |
 | Quem pode se conectar ao aplicativo análises do Partner Center? | Esta versão do aplicativo foi projetada para parceiros diretos (nível 1) no programa provedor de soluções na nuvem. Você é um parceiro direto se você fizer negócios diretamente com a Microsoft e com os clientes. Para instalar o aplicativo, você deve ser um administrador global, um agente de administração ou um administrador de cobrança para a conta da sua empresa. |
@@ -63,7 +63,7 @@ Recomendamos que você analise nossas respostas para perguntas frequentes antes 
 
 
 
-## <a name="next-steps"></a>Próximas etapas
+## <a name="next-steps"></a>{1&gt;{2&gt;Próximas etapas&lt;2}&lt;1}
 
 [Instalar e visualizar o aplicativo Análise do Partner Center para Microsoft Power BI](power-bi-app-for-direct-partners-install.md)
 

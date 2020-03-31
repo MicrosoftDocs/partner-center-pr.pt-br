@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Os registros de clientes estão entre seus ativos de informações mais importantes. Saiba como exibir, Pesquisar, atualizar e exportar informações em sua lista de clientes.
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: a5d6196aee964ad2b03a18699388f8f398169f14
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 02e25ae609c635b21d4345c9567a44c119a70253
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943429"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390655"
 ---
 # <a name="manage-your-customer-list"></a>Gerenciar sua lista de clientes
 
 **Aplica-se a**
 
--  Partner Center
+-  Centro de Parceiros
 -  Partner Center do Microsoft Cloud for US Government
 
 
@@ -41,7 +41,7 @@ No menu do **centro de parceiros** , selecione **clientes**.
 2.  Para procurar um cliente, insira o nome do cliente ou nome do domínio na caixa de pesquisa.
 3.  Selecione a **seta para baixo** no final da linha de um cliente para ver a ID da Microsoft dele, bem como os links rápidos de assinaturas e serviços associados.
 4.  Nas informações de **Cobrar de** do cliente, atualize o nome da empresa. Quando você salvar o novo valor, ele será refletido na lista de clientes. Isso irá alterar somente o nome da empresa para cobrança e o valor de lista de cliente. Ele não será refletido em nenhum outro lugar.
-
+<sup>1</sup>
 ## <a name="export-your-customer-list"></a>Exportar sua lista de clientes
 
 1.  No menu do **centro de parceiros** , selecione **clientes**.
@@ -57,7 +57,7 @@ No menu do **centro de parceiros** , selecione **clientes**.
     Por padrão, o Partner Center exporta a lista completa de clientes, independentemente do tamanho. Você também pode pesquisar a lista de clientes por nome de empresa ou domínio e exportar esse subconjunto de dados.
 
 3.  Se você for um provedor indireto, pode filtrar sua lista de clientes por revendedor indireto. Selecione **Filtrar por revendedor indireto** na lista e, em seguida, escolha um revendedor.
-
+<sup>1</sup>
 
 ## <a name="export-customer-subscription-information"></a>Exportar informações de assinatura de cliente
 

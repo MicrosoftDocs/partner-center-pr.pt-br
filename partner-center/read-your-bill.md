@@ -6,29 +6,29 @@ description: Sua fatura é um resumo de todos os encargos do Partner Center (em 
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: cobrança de assinatura, cobrança, cobrança no partner center, ler minha cobrança, fatura, fatura do partner center, fatura do CSP, onde está minha cobrança?
 ms.localizationpriority: medium
-ms.openlocfilehash: dc4c8ad1e0f12586ed1e75670806c463ca9cee54
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 7e5171a44ba8f23955847f6450e59b948f3c7d52
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004825"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390705"
 ---
 # <a name="read-your-bill"></a>Ler sua cobrança
 
 **Aplica-se a**
 
-- Partner Center
+- Centro de Parceiros
 - Partner Center do Microsoft Cloud for US Government
 
 **Funções apropriadas**
 -   Administração global
 -   Administrador de usuários
 -   Administrador de cobrança
--   Agente administrativo
+-   Agente administrador
 -   Administrador de parceiros do MPN
 
 Sua **fatura** é um **Resumo de todos os seus encargos do Partner Center** (em todo o programa, todos os produtos e todos os clientes) para o **período de cobrança atual**.

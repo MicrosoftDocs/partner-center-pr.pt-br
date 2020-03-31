@@ -6,22 +6,22 @@ description: Saiba mais sobre as responsabilidades de impostos para sua região 
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
-author: MaggiePucciEvans
+author: jasonwhowell
 keywords: imposto, isenção de impostos, IVA, revendedor, cobrança
-ms.author: evansma
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: b0fdf5bd78a6ce8ac98a18b85551bd7d57ffdabd
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 1befd911083cd0f4f774a839b8cc5e84c79592f8
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943189"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390625"
 ---
 # <a name="taxes-and-tax-exemptions"></a>Impostos e isenções fiscais
 
 Aplica-se a:
 
-- Partner Center
+- Centro de Parceiros
 - Partner Center do Microsoft Cloud for US Government
 
 O programa CSP (provedor de soluções na nuvem) é um canal de vendas focado na revenda de produtos do parceiro. Como resultado, a Microsoft nem sempre é obrigada a cobrar o imposto sobre vendas em faturas de parceiros. As regras variam de acordo com o país e/ou a região. Você pode examinar [detalhes específicos do país e da região para isenção de imposto](#country-and-region-tax-details).
@@ -87,7 +87,7 @@ Em seguida, crie um tíquete de suporte para a Microsoft com suas informações 
 2. Na página **solicitação do parceiro** , escolha **nova solicitação**. (Você também pode exibir suas solicitações de suporte abertas e fechadas posteriormente nesta página.)
 3. Na etapa **básico** , em **CSP-cobrança e pagamentos**, escolha **selecionar um tipo de problema** e selecione **solicitação de isenção de imposto**.
 4. Na etapa **soluções** , em **você precisa de mais ajuda?** , escolha **Sim**.
-5. Na etapa **detalhes** , preencha o formulário **detalhes do problema** . Não se esqueça de:
+5. Na etapa **detalhes** , preencha o formulário **detalhes do problema** . Certifique-se de:
 
     - Preencha todos os campos obrigatórios.
     - Inclua sua ID da **Microsoft** e a **ID do MPN** no campo de **detalhes** .

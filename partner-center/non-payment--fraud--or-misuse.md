@@ -7,28 +7,28 @@ ms.subservice: partnercenter-csp
 description: É importante saber mais sobre os vários tipos de risco envolvidos em transações online e práticas recomendadas para o gerenciamento e a mitigação desses riscos.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: fraude, uso indevido, uso aceitável, política de uso aceitável, falta de pagamento, cliente não paga a conta, risco online, roubo de serviço, abuso do serviço, suspender uma assinatura,
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 105ae9e31400284148bd7639c6a4498d5b5f5f1c
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 6f92976f6aabc0296abb52ef6ec6dc7bd8ee4599
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005075"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390805"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gerenciando não pagamento, fraude ou uso indevido no Partner Center
 
 Aplica-se a:
 
-- Partner Center
+- Centro de Parceiros
 - Partner Center do Microsoft Cloud for US Government
 
 **Funções apropriadas**
 -   Administração global
 -   Administrador de usuários
--   Agente administrativo
+-   Agente administrador
 -   Administrador de cobrança
 
 Você permanece financeiramente responsável por compras fraudulentas de seus clientes e/ou falta de pagamento de serviços comprados pelo cliente. Portanto, é *altamente recomendável que você coloque controles de mitigação de risco de detecção e prevenção de fraudes*.

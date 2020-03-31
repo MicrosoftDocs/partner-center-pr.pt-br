@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como e onde gerenciar o Partner Center para Microsoft Cloud para parceiros, clientes e licenças do governo dos EUA, bem como redefinições de senha.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 56121b91fd0e1eae02fc232d45d0c7b06c5dd8ea
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 9940350c9b3b09f8a4fef32251394614a6f91d2f
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943599"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390455"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Gerenciamento de licença e usuários no Partner Center do Microsoft Cloud for US Government
 

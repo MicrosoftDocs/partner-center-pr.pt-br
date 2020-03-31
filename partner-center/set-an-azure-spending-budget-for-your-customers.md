@@ -6,21 +6,21 @@ description: Saiba como definir ou remover orçamentos mensais de gastos do Azur
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 81f2bfa0b8e9864e0fc1a90ff5a5a11111c2a433
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: e536a43aec85336996d047ecd13a06ef144ce196
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943199"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390645"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Definir um orçamento de gastos do Azure para seus clientes
 
 Aplica-se a:
 
-- Partner Center
+- Centro de Parceiros
 - Partner Center do Microsoft Cloud for US Government
 
 Você pode [definir um orçamento de gastos do Azure mensal para seus clientes](#set-azure-spending-budget) no Partner Center. Isso ajuda seus clientes a gerenciar seus gastos com o Azure. Essa opção permite que você compare os gastos do Azure dos clientes com o orçamento durante o mês. Ele também ajuda seus clientes a orçarem seus gastos com o Azure para que sua fatura mensal não seja maior do que a previsão.

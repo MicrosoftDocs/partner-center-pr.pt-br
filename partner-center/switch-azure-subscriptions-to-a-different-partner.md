@@ -6,22 +6,23 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como trabalhar com um cliente para alterar qual parceiro no programa de provedor de soluções na nuvem que o cliente usará para os serviços do Azure.
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: assinatura do Azure, mudar de parceiro, alterar parceiro, obter novo parceiro, outro parceiro
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d7c3e85b96e52aa2fa3e09261aee81f364996d3
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 3a709ad7eac9b2a4db7063a47713c27dc41d7833
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943389"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390615"
 ---
 # <a name="transfer-azure-subscriptions"></a>Transferir as assinaturas do Azure 
 
 **Aplica-se a**
 
--  Partner Center
+- Partner Center do Microsoft Cloud for US Government
+- Partner Center para Microsoft global Cloud
 
 Um cliente pode decidir mudar para um parceiro do Provedor de Soluções na Nuvem ou um parceiro para obter os serviços do Microsoft Azure. Trata-se, porém, de um processo manual que exige ações do parceiro e do cliente.
 

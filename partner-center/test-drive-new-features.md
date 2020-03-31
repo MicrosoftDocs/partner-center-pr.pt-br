@@ -5,21 +5,21 @@ ms.date: 08/22/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Teste os novos recursos do Partner Center antes que eles sejam lançados e conte-nos sua opinião. Ajude a moldar o futuro do Partner Center!
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 6e480d29a5dd1cfedd90d479b107bf3f56f4f3ce
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 367fe22b984277b02e4161bf12cf2198ab663c5b
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651211"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390565"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Testar os novos recursos do Partner Center
 
 **Aplica-se a**
 
-- Partner Center
+- Centro de Parceiros
 
 ## <a name="help-shape-the-future-of-partner-center"></a>Ajude a moldar o futuro do Partner Center!
 
@@ -39,7 +39,7 @@ Convidamos você a experimentar os novos recursos antes que eles sejam lançados
 >  Somente administradores globais e agentes de administração podem ativar versões prévias de recursos. No entanto, qualquer um dos seus usuários do Partner Center pode ver e usar versões prévias de recursos que tenham as permissões aplicáveis.
 
 > [!IMPORTANT]  
-> Continuamos a corrigir erros e melhorar o desempenho do recurso durante a fase de visualização de quaisquer versões do recurso, o que pode resultar em alterações na forma como o recurso final funciona. Por esses e outros motivos, versões prévias podem apresentar comportamento imprevisível e não transmitem uma garantia real ou legal da Microsoft.
+> Continuamos a corrigir erros e melhorar o desempenho de recurso durante a fase de visualização de quaisquer versões de recurso, o que pode resultar em alterações de como funciona o recurso final. Por esses e outros motivos, versões prévias podem apresentar comportamento imprevisível e não transmitem uma garantia real ou legal da Microsoft.
 
 - Veja nossa data de destino para disponibilizar um recurso para visualização e nossa data de início de destino para quando lançarmos o recurso na Comunidade do Partner Center mundial
 

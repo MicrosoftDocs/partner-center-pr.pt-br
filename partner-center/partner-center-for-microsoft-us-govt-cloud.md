@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: O Partner Center para Microsoft Cloud for US Government é o portal de empresas para parceiros da Microsoft que deseja oferecer soluções de nuvem da Microsoft para clientes que trabalham com agências governamentais dentro dos Estados Unidos.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e290242a0a97abdbdca1e222c12cd0072d05073
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 66a39eee19a367a796ca90e204a44be9e6a7d9c3
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004245"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390755"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Partner Center do Microsoft Cloud for US Government
 
@@ -24,7 +24,7 @@ ms.locfileid: "75004245"
 **Funções apropriadas**
 -   Administração global
 -   Administrador de usuários
--   Agente administrativo
+-   Agente administrador
 -   Agente de vendas
 -   Administrador de cobrança
 
@@ -45,14 +45,14 @@ Uma vez inscrito no Programa de Provedor de Soluções na Nuvem (CSP) para Micro
 > [!NOTE]  
 > No momento em que este artigo foi publicado, os seguintes recursos do Partner Center ainda não estavam disponíveis no Partner Center do Microsoft Cloud for US Government (desde a publicação, alguns recursos podem ter sido adicionados ao Partner Center e esta lista pode estar desatualizada):
 
-- Localizar um parceiro
+- Encontre um parceiro
 - Perfis de negócios
 - Indicações
 - Solicitar uma relação de revendedor com um cliente (multi-canal, multi-parceiro)
 - Análise de licença
 - Percepções do cliente
 - Configurações e modelo do revendedor/provedor indireto
-- Verificar integridade do serviço
+- Verificar a integridade do serviço
 - ISV (Fornecedor Independente de Software)
 - Qualificação especial do cliente
 

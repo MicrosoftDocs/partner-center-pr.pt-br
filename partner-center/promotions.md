@@ -5,22 +5,22 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Como um parceiro da Microsoft no programa provedor de soluções na nuvem, você pode adquirir assinaturas no preço da promoção e repassar a economia para seus clientes.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: dd69d76c2158b454190c5cfac568f7260472c9dc
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 11bf5ae35ce20cf7290e1fbbdc1aa21c368c9a1b
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004835"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390735"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Use promoções para atrair novos clientes  
 
 **Aplica-se a: Partner Center**
 
 **Funções apropriadas**
--   Agente administrativo
+-   Agente administrador
 -   Administrador de parceiros do MPN
 -   Administrador de cobrança
 -   Agente de vendas

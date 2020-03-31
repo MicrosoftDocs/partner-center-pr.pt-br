@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Se o seu cliente estiver enfrentando um problema de serviço que você não pode resolver, e que atenda aos critérios descritos em escalar problemas para a Microsoft, forneça um tíquete de suporte para eles.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: solicitação de serviço, tíquete de serviço, suporte, direito de suporte, Aobo, AOBO do Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: 28f5be859d8c949eb0135f3096c320cc160b835a
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 6076f80821b476549cd264f9d569e9f46201c394
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943209"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390685"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Relatar problemas em nome de um cliente
 
 **Aplica-se a**
 
--  Partner Center
+-  Centro de Parceiros
 -  Partner Center do Microsoft Cloud for US Government
 
 
@@ -60,7 +60,7 @@ Em qualquer um desses casos, você pode usar o procedimento a seguir para criar 
 
 1. Copie o nome de domínio do cliente da página conta no centro de parceiros.
 
-2. Vá para https://portal.azure.com/ [customerdomainname]. 
+2. Vá para https://portal.azure.com/[customerdomainname]. 
 
 3. Selecione a assinatura do Azure que requer suporte.
 

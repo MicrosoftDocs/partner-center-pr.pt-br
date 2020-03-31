@@ -6,28 +6,28 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Uma visão geral dos vários métodos e tipos de suporte técnico que você pode oferecer aos seus clientes.
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 631a5273c7ab373d135904aa6202bbfc21bc0fa2
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 068d53a72608b29cc4dd7854caf20d32ffe77b06
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004815"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390715"
 ---
-# <a name="provide-technical-support"></a>Fornecer suporte técnico
+# <a name="provide-technical-support"></a>Forneça suporte técnico
 
 **Aplica-se a**
 
--  Partner Center
+-  Centro de Parceiros
 -  Partner Center do Microsoft Cloud for US Government
 
 **Funções apropriadas**
 -   Administração global
 -   Administrador de usuários
 -   Agente de suporte técnico
--   Agente administrativo
+-   Agente administrador
 
 Como parceiro do Provedor de Soluções na Nuvem, você tem Privilégios de Administrador Delegado que dão acesso aos ambientes dos seus clientes. Esses privilégios fornecem a capacidade de dar suporte, configurar e gerenciar diretamente as assinaturas de seus clientes.
 
