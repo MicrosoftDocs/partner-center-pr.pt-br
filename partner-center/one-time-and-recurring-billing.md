@@ -3,28 +3,28 @@ title: Cobrança por uma única vez e selecionar encargos recorrentes | Centro d
 ms.topic: article
 ms.date: 11/21/2019
 Description: Informações sobre a cobrança única com antecedência para um termo predefinido (assinaturas mensais e anuais) e cobrança para selecionar encargos recorrentes (para produtos da Microsoft e ISV de terceiros aplicáveis) no Partner Center.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: cobrança, de uso único, recorrente, compras, encargos, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 1bed32e8068f1f9276c385f790f31222ec6b269d
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 573334ce309c3b734da432c73975e3826b284498
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005035"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390775"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>Cobrança única e seleção de encargos recorrentes
 
 **Aplica-se a**
-- Partner Center
+- Centro de Parceiros
 - Parceiros no programa CSP
 
 **Funções apropriadas**
 -   Administração global
 -   Administrador de usuários
 -   Administrador de cobrança
--   Agente administrativo
+-   Agente administrador
 -   Agente de vendas
 
 Este tópico descreve a experiência de cobrança para **uma única vez e seleciona encargos recorrentes** para produtos Microsoft e ISV (fornecedor de software independente) de terceiros. 

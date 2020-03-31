@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 08/26/2019
 description: Entenda os campos em seu arquivo de nota fiscal para cobrança do Partner Center.
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: cobrança, fatura
 ms.localizationpriority: medium
-ms.openlocfilehash: 05a5f7df1b0abf34680fbc836a99738434758f92
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 1307a9a2f95cedde5eda7deefb61cb202597f804
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004556"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390905"
 ---
 # <a name="invoice-files"></a>Arquivos de fatura
 
@@ -33,13 +33,13 @@ Os campos a seguir aparecem nos arquivos da fatura.
 | ----- | ---------- |
 | EUA FEIN | Seu número de identificação do empregador Federal (FEIN). Este é o seu número de identificador de imposto federal Estados Unidos. |
 | Número do cliente | Seu número do cliente. |
-| Cobrar de | O endereço para onde enviamos sua fatura. Você pode alterar o nome e/ou o endereço da sua empresa no perfil de cobrança do Partner Center. |
+| Cobrar de | O endereço onde podemos enviar sua fatura. Você pode alterar o nome e/ou o endereço da sua empresa no perfil de cobrança do Partner Center. |
 | Cobranças baseada em licença | As tarifas fixas mensais ou anuais para suas licenças baseadas em uso adquiridas, cobradas antes do serviço. Esse número é a soma de todos os encargos na coluna de **Subtotal** (coluna **T**) em seu arquivo de reconciliação baseado em licença. |
 | Encargos baseados em uso | Seu uso do Azure. Isso inclui novos serviços ou aplicativos habilitados e usados durante o período de cobrança. Esse número é a soma de todos os encargos na coluna **PretaxCharges** (coluna **Z**) em seu arquivo de reconciliação baseado em uso. |
 | Descontos | O desconto que o cliente recebe do preço normal da assinatura. Esse número é mostrado como um *valor fixo*, não como um preço por unidade ou licença. |
 | Créditos | Créditos ou ajustes para alterações feitas em assinaturas (por exemplo, assento aumenta ou diminui). |
 | Subtotal | Total antes de impostos e encargos e créditos sem imposto. |
-| Tax | O imposto total para seus encargos atuais, conforme totalizado na seção de **detalhes** que começa na página 2 da fatura. Esse número é a soma de todos os encargos na coluna **TaxAmount** (coluna **AA**) em seu arquivo de reconciliação baseado em uso e a coluna de **impostos** (coluna **U**) em seu arquivo de reconciliação baseado em licença. |
+| Imposto | O imposto total para seus encargos atuais, conforme totalizado na seção de **detalhes** que começa na página 2 da fatura. Esse número é a soma de todos os encargos na coluna **TaxAmount** (coluna **AA**) em seu arquivo de reconciliação baseado em uso e a coluna de **impostos** (coluna **U**) em seu arquivo de reconciliação baseado em licença. |
 | Outros créditos | Créditos sem imposto. |
 | Total dos encargos atuais | O valor devido em sua moeda de cobrança para o período de cobrança. Esses encargos são devidos à data de vencimento do pagamento. |
 | Instruções de pagamento | Descrição de como pagar sua fatura, com base em sua região. *Sempre certifique-se de incluir o número da fatura ao fazer um pagamento.* |
@@ -60,7 +60,7 @@ Os campos a seguir se aplicam somente a **encargos únicos** no Partner Center:
 | ----- | ---------- |
 | Data | Data da compra. |
 | Descrição | Nome do produto. |
-| Quantity | O número de produtos (como reservas) adquiridos. |
+| Quantidade | O número de produtos (como reservas) adquiridos. |
 | Preço unitário | Preço por produto (como uma reserva). |
 | Descontos | Qualquer desconto aplicável. |
 | Valor pré-taxado | Subtotal das compras antes dos impostos. |

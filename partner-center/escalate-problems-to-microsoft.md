@@ -6,27 +6,27 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba quais problemas os parceiros da Microsoft devem se resolver para seus clientes e quais problemas eles podem precisar escalonar para a Microsoft.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 38797b12a4f32d7feea01f4ca320eee3faf19799
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: f4b6e11e1bd4ad4acd014dbe9786cd9189bdbbc1
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722234"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389855"
 ---
-# <a name="escalate-problems-to-microsoft"></a>Escale problemas para a Microsoft
+# <a name="escalate-problems-to-microsoft"></a>Encaminhar problemas para a Microsoft
 
 **Aplica-se a**
 
-- Partner Center
-- Partner Center do Microsoft Cloud for US Government
+- Centro de Parceiros
+- Partner Center para Microsoft Cloud for US Government
 
 **Funções apropriadas**
 
-- Agente administrativo
+- Agente administrador
 - Administração global
 - Agente de vendas
 - Agente de suporte técnico
@@ -47,7 +47,7 @@ No entanto, há várias categorias de problemas que você precisa passar para a 
 
 ## <a name="submit-a-support-request"></a>Enviar uma solicitação de suporte
 
-1. Entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center.
+1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
 2. No menu do centro de parceiros, selecione **clientes**e, em seguida, selecione o cliente que precisa de suporte.
 

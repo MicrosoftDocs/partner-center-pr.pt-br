@@ -5,16 +5,16 @@ ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os parceiros da Microsoft no programa de provedor de soluções de nuvem podem vender para clientes registrados em nuvens nacionais com suporte.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: nuvens nacionais, Microsoft Cloud Germany, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud China
 ms.localizationpriority: medium
-ms.openlocfilehash: d8f23931f5f13252a8d72b36b4be52efd5f3cd88
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 03e9a08d7aa683098e4ff998afa981f7e915e2fc
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253522"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389605"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>Inscrever-se para vender em nuvens nacionais da Microsoft
 

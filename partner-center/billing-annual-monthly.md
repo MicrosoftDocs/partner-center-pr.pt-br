@@ -4,26 +4,26 @@ ms.topic: article
 ms.date: 11/25/2019
 Description: Saiba mais sobre as diferenças entre os ciclos de cobrança mensal e anual no Partner Center.
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b5d9b8175f2d64998efaf2e64e3d1adbdbc2f75
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a05f64ac919cce0339f0033fa38a4b43e61d3c08
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722411"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390305"
 ---
 # <a name="monthly-and-annual-billing-differences"></a>Diferenças de cobrança mensal e anual
 
 **Aplica-se a**
 
-- Partner Center
-- Partner Center do Microsoft Cloud for US Government
+- Centro de Parceiros
+- Partner Center para Microsoft Cloud for US Government
 
 **Funções apropriadas**
 
-- Agente administrativo
+- Agente administrador
 - Administrador de cobrança
 - Administração global
 - Administrador de incentivos
@@ -51,7 +51,7 @@ Todos os parceiros e tipos de parceiros podem escolher cobrança mensal ou anual
 
 A cobrança mensal e anual (para ofertas aplicáveis) está disponível em todos os mercados em que o programa CSP está disponível no momento.
 
-## <a name="change-billing-frequency"></a>Alterar frequência de cobrança
+## <a name="change-billing-frequency"></a>Alterar a frequência de cobrança
 
 Você pode alternar entre a cobrança mensal e anual a qualquer momento. Talvez você queira alterar sua frequência de cobrança se suas necessidades comerciais mudarem.
 
@@ -145,7 +145,7 @@ O novo parceiro deve comprar uma nova assinatura em nome do cliente. Não é pos
 
 Você pode reativar uma assinatura por até 90 dias após a data de suspensão. Você receberá uma cobrança proporcional na data de cobrança seguinte. A data de renovação da assinatura permanece a mesma.
 
-## <a name="pricing"></a>Preço
+## <a name="pricing"></a>Preços
 
 ### <a name="offer-pricing"></a>Preço da oferta
 
@@ -189,7 +189,7 @@ As seguintes alterações de assinatura cobradas anualmente aparecem na coluna P
 
 Quando uma assinatura cobrada anualmente for cancelada, o arquivo de reconciliação conterá um item de linha para um crédito de cancelamento.
 
-Se o cancelamento ocorrer nos primeiros 30 dias do período de doze meses, a assinatura será creditada em 100%. Se o cancelamento ocorrer após os 30 primeiros dias, a assinatura será creditada de forma proporcional.
+Se o cancelamento ocorrer nos primeiros 30 dias do período de doze meses, a assinatura será creditada em 100%. Se o cancelamento ocorrer após os primeiros 30 dias, a assinatura será creditada de forma proporcional.
 
 ### <a name="adding-licenses-to-annual-subscription"></a>Adicionando licenças à assinatura anual
 
@@ -207,7 +207,7 @@ As IDs de oferta na matriz de oferta são as mesmas para todas as frequências d
 
 ### <a name="incentives-calculation"></a>Cálculo de incentivos
 
-Os incentivos são calculados com base na **receita cobrada**,  ***não* na receita ajustada**. Os pagamentos de incentivos ganhos serão efetuados de acordo com nossa política encontrada em nossos guias de incentivos do CSP.
+Os incentivos são calculados com base na **receita cobrada**,  ***não* na receita ajustada**. Os pagamentos de incentivos ganhos serão efetuados de acordo com nossa política encontrada nos nossos guias de incentivos do CSP.
 
 Quando uma assinatura anual cobrada é vendida, a receita da assinatura é reconhecida para o cálculo de incentivos com base na receita cobrada.
 
@@ -223,7 +223,7 @@ Os parceiros ganham incentivos em todas as transações qualificadas, independen
 
 Para dúvidas sobre incentivos, entre em contato com a equipe de suporte de incentivos regionais apropriada:
 
-| Region | Endereço de email |
+| Região | Endereço de email |
 | ------ | ------------- |
 | América do Norte | <ocina@microsoft.com> |
 |América Latina & Brasil | <ocilatam@microsoft.com> |

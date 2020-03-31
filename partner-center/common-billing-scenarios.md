@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Explore a cobrança depois de adicionar novas assinaturas, ajustar a quantidade de licenças ou cancelar uma assinatura. Veja como as assinaturas baseadas em uso e licença são diferentes.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: cobrança, pagamentos, pedidos, uso, cobrança baseada em licença, data de aniversário, termo, cancelamento, renovação, fórmula de preço, arquivo de reconciliação, arquivo reconhecimento
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c7a24d0d33aa071ce4edba5cf579f6a6371af3d
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 2b8cfe28b6d81a2ff91543ed2d7005f72007b553
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722017"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390045"
 ---
 # <a name="common-billing-scenarios"></a>Cenários comuns de cobrança
 
@@ -25,7 +25,7 @@ Aplica-se a:
 
 **Funções apropriadas**
 
-- Agente administrativo
+- Agente administrador
 - Administrador de cobrança
 - Agente de suporte técnico
 - Agente de vendas

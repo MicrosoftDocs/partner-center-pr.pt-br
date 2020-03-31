@@ -6,28 +6,28 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como criar contas de usuário para um cliente, adicionar ou remover licenças de usuário, redefinir senhas de usuário, excluir contas de usuário ou restaurá-las.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: gerenciamento de clientes, conta, criar conta, licenças, atribuir licença, gerenciamento de usuários, senha, Redefinir senha, alterar senha
 ms.localizationpriority: medium
-ms.openlocfilehash: cd1b32a0ceb133f9513263f56a7d1e2e98dde3c5
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: fcd5ebe2cb5daa5eafcd3ef56e1750225fcc9990
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721361"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80391005"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Tarefas de gerenciamento de usuários para contas de cliente
 
 **Aplica-se a**
 
-- Partner Center
+- Centro de Parceiros
 
 **Funções apropriadas**
 
 - Administração global
 - Administrador de gerenciamento de usuário
-- Agente administrativo
+- Agente administrador
 - Agente de vendas
 - Agente de suporte técnico
 
@@ -41,7 +41,7 @@ Você pode [atribuir assinaturas a vários usuários](bulk-license-provisioning-
 
 ## <a name="create-user-accounts-for-a-customer"></a>Criar contas de usuário para um cliente
 
-1. Entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center.
+1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
 2. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
 
@@ -61,7 +61,7 @@ Você pode [atribuir assinaturas a vários usuários](bulk-license-provisioning-
 
 As etapas a seguir se aplicam à adição ou remoção de licenças de usuário para produtos Microsoft. Para adicionar ou remover licenças de usuário para assinaturas SaaS baseadas em licença no Marketplace comercial, consulte [Adicionar ou remover licenças para uma assinatura de SaaS](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription).
 
-1. Entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center.
+1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
 2. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
 
@@ -78,7 +78,7 @@ As etapas a seguir se aplicam à adição ou remoção de licenças de usuário 
 
 ## <a name="reset-a-users-password-for-a-customer"></a>Redefinir a senha do usuário para um cliente
 
-1. Entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center.
+1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
 2. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
 

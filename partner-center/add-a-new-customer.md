@@ -6,23 +6,23 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como adicionar um novo registro de cliente no Partner Center. Em seguida, você pode vender as assinaturas de cliente, gerenciar a cobrança ou fornecer suporte ao cliente.
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: cliente, adicionar cliente, conta do cliente, conta do cliente no Partner Center, clientes, adicionar clientes, criar conta do cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 3ff14f57688e377286d46d6aa9cf2d235f032629
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 70961af4dfc4996a62fdb23bc965f0a3d2fb8f37
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340074"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390955"
 ---
 # <a name="add-a-new-customer"></a>Adicione um novo cliente 
 
 **Aplica-se a**
 
 - Centro de Parceiros
-- Partner Center do Microsoft Cloud for US Government
+- Partner Center para Microsoft Cloud for US Government
 - Parceiros do programa Provedor de Soluções na Nuvem
 
 **Funções apropriadas**

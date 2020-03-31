@@ -3,29 +3,29 @@ title: Cobrança baseada em licença | Centro de parceiros
 ms.topic: article
 ms.date: 11/21/2019
 Description: Informações sobre cobrança baseada em licença no Partner Center, em que você é cobrado por licença (não por uso de licença).
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: cobrança, pagamentos, licença baseada em licença
 ms.localizationpriority: medium
-ms.openlocfilehash: 4293b193a58030a17bc63ce4b36111a0285e236c
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 726f7d3664243405bdc4eaa67b32dbe5e21d5fb4
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004915"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390895"
 ---
 # <a name="license-based-billing"></a>Cobrança baseada em licença
 
 **Aplica-se a**
 
-- Partner Center
+- Centro de Parceiros
 - Parceiros no programa CSP
 
 **Funções apropriadas**
 -   Administração global
 -   Administrador de usuários
 -   Administrador de cobrança
--   Agente administrativo
+-   Agente administrador
 
 Ao comprar produtos ou serviços online no Partner Center que exigem **licenças**, você será cobrado *por cada licença* que comprar. Você *não é cobrado* pelo uso dessas licenças. (Para obter informações sobre cobrança baseada em uso e outros tipos de cobrança, consulte [tipos de cobrança no Partner Center](billing-different-types.md).)
 

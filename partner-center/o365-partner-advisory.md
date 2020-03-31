@@ -3,16 +3,16 @@ title: Consultoria de parceiros do Office 365-Microsoft 365 voz no CSP | Centro 
 description: Os serviços de PSTN em alguns países podem estar sujeitos a requisitos especiais de impostos e regulatórios que podem afetar a ordem e o faturamento do parceiro.
 ms.topic: article
 ms.date: 11/04/2019
-author: maggiepuccievans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: Office, O365, serviços PSTN, impostos, requisitos, fatura, faturamento
 ms.localizationpriority: medium
-ms.openlocfilehash: aad61f682740ad20dec1264cd48ff87d1f2c0806
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 14cf3541789fc982590842427d06711a70080004
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672816"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390785"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Consultoria do parceiro do Office 365: Microsoft 365 voz no CSP
 
@@ -21,9 +21,9 @@ ms.locfileid: "77672816"
 - Centro de Parceiros  
 
 **Funções apropriadas**
--   Administrador global
+-   Administração global
 -   Administrador de usuários
--   Agente administrativo
+-   Agente administrador
 
 Os serviços de rede telefônica pública comutada (PSTN) em algumas jurisdições podem estar sujeitos a requisitos especiais de impostos e regulamentares que podem afetar a ordem e o faturamento do parceiro. No Estados Unidos, incluindo Porto Rico, os serviços PSTN, que incluem a conferência de áudio, planos de chamada e créditos de comunicação, estão sujeitos a requisitos especiais de impostos e regulamentares. No Estados Unidos e Porto Rico, a Microsoft preços os serviços PSTN como impostos sobre o imposto.  Os impostos e as regulamentações de PSTN exclusivos afetarão os parceiros do Office 365 transformando Microsoft 365 produtos de voz.  Se um parceiro marcar o preço de um serviço PSTN da Microsoft, ele poderá ser responsável pelo cálculo e remissão de impostos e taxas do PSTN.
 

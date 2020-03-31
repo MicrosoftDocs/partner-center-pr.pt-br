@@ -6,26 +6,26 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como personalizar o catálogo da Microsoft para facilitar o acesso às ofertas de parceiros ou aos produtos que a sua organização utiliza mais.
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: af8c68aebf129a0d58726ec1fcdfa7a0ca914e75
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: c2a4232089cabb838f7fc67c4c19050e8161d5b5
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722436"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389865"
 ---
-# <a name="customize-the-catalog"></a>Personalizar o catálogo
+# <a name="customize-the-catalog"></a>Personalize o catálogo
 
 **Aplica-se a**
 
--  Partner Center
--  Partner Center do Microsoft Cloud for US Government
+-  Centro de Parceiros
+-  Partner Center para Microsoft Cloud for US Government
 
 **Funções apropriadas**
 
-- Agente administrativo
+- Agente administrador
 - Administração global
 - Agente de vendas
 

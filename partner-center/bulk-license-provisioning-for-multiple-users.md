@@ -6,26 +6,26 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como usar uma conta de cliente para atribuir ou revogar licenças e serviços a um usuário ou a vários usuários ao mesmo tempo.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: atribuir licença, revogar licença, atribuir a vários usuários,
 ms.localizationpriority: medium
-ms.openlocfilehash: 1caf10625d776578f9b0bc91d40106cdd8dddf99
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a5dd688a5d4abd8d7f41921a16a7eda0467e5950
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722202"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390265"
 ---
-# <a name="assign-or-revoke-licenses-to-multiple-users"></a>Atribuir ou revogar licenças para vários usuários
+# <a name="assign-or-revoke-licenses-to-multiple-users"></a>Atribua licenças a vários usuários ou revogue-as
 
 **Aplica-se a**
 
-- Partner Center
+- Centro de Parceiros
 
 **Funções apropriadas**
 
-- Agente administrativo
+- Agente administrador
 - Administração global
 - Agente de suporte técnico
 - Agente de vendas
@@ -33,7 +33,7 @@ ms.locfileid: "74722202"
 
 Você pode atribuir licenças e serviços a um usuário ou a vários usuários ao mesmo tempo em uma conta de cliente e revogar atribuições de licença para os usuários.
 
-o Partner Center rastreia e mostra todos os direitos de licença de Propriedade do cliente.
+O Partner Center rastreia e mostra todos os direitos de licença de Propriedade do cliente.
 
 ## <a name="in-this-section"></a>Nesta seção
 

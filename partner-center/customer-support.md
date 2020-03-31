@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre as responsabilidades de atendimento ao cliente de parceiros no programa CSP.
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f53fac96d9cb9986c4bc8235c61298ee0a43437
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.openlocfilehash: ca34072164fdbdc8e1d12e2631e6c558c69a14c2
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226122"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389635"
 ---
 # <a name="providing-support-to-your-customers"></a>Como fornecer suporte para seus clientes
 
 **Aplica-se a**
 
 -  Centro de Parceiros
--  Partner Center do Microsoft Cloud for US Government
+-  Partner Center para Microsoft Cloud for US Government
 
 
 ## <a name="microsoft-partner-support-guidance"></a>Diretrizes de suporte para parceiros da Microsoft

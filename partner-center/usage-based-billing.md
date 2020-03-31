@@ -3,20 +3,20 @@ title: Cobrança baseada em uso | Centro de parceiros
 ms.topic: article
 ms.date: 11/21/2019
 Description: Informações sobre a cobrança baseada em uso no Partner Center, em que você será cobrado por taxas de uso mensais.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: cobrança, uso com base no uso
 ms.localizationpriority: medium
-ms.openlocfilehash: c92c6f9014a40a0f8804ba83ba7cc85939e90281
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 560c2760fcdf221fad9142fa36024e04e7ff1104
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389734"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390495"
 ---
 # <a name="usage-based-billing"></a>Cobrança baseada em uso
 
-- Partner Center
+- Centro de Parceiros
 - Parceiros no programa CSP
 
 Ao comprar serviços online como assinaturas do Azure, você será cobrado por taxas de uso mensais. Os serviços baseados em uso, como o Azure, são cobrados de acordo com as tarifas limitadas, com base no consumo.

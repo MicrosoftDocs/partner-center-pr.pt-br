@@ -5,16 +5,16 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como personalizar ou pré-configurar a experiência inicial de um novo dispositivo com perfis do AutoPilot antes de entregar o dispositivo ao cliente.
-author: maggiepuccievans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: piloto automático, piloto automático do Windows, Microsoft AutoPilot, implantação Zero Touch, OOBE, telas de logon, pronto para uso
 ms.localizationpriority: medium
-ms.openlocfilehash: 16653865ff251bcf73dcd79c4948d3326bcc0fab
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: c69b61256e19fd3a8becbfd546fd5b9a0b54654f
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721432"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390995"
 ---
 # <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Personalizar a experiência inicial para um dispositivo com perfis do Windows AutoPilot
 
@@ -24,7 +24,7 @@ ms.locfileid: "74721432"
 
 **Funções apropriadas**
 
-- Agente administrativo
+- Agente administrador
 - Administração global
 - Agente de vendas
 - Administrador de gerenciamento de usuário

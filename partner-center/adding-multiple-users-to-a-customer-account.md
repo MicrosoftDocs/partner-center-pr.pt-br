@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como adicionar vários usuários à conta de um cliente de uma só vez, carregando um arquivo de dados no formato de arquivo de valores separados por vírgula (. csv) para o centro de parceiros.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: upload em massa, adicionar vários usuários a uma conta do cliente, adicionar usuários do cliente, upload em massa de usuários do cliente, conta do cliente, usuários do cliente, usuários
 ms.localizationpriority: medium
-ms.openlocfilehash: 2195d23074a3e7c397b5f557fd3bed9ec0cc518e
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 499aff67d18b0d8f9fbaf098fecbab2d888d9ac7
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721992"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390365"
 ---
-# <a name="add-multiple-users-to-a-customer-account"></a>Adicionar vários usuários a uma conta do cliente
+# <a name="add-multiple-users-to-a-customer-account"></a>Adicionar vários usuários a uma conta de cliente
 
 **Aplica-se a**
 
-- Partner Center
+- Centro de Parceiros
 
 **Funções apropriadas**
 
@@ -29,7 +29,7 @@ ms.locfileid: "74721992"
 
 Você pode adicionar vários usuários à conta de um cliente de uma só vez, carregando um arquivo de dados no formato de arquivo de valores separados por vírgula (. csv) no Partner Center. Você pode baixar um arquivo de dados de exemplo do centro de parceiros e, em seguida, editá-lo para seu uso ou pode criar um novo arquivo de dados usando o modelo de dados definido abaixo.
 
-## <a href="" id="creatingtheimportcsvfile"></a>Requisitos de arquivo de dados
+## <a name="data-file-requirements"></a><a href="" id="creatingtheimportcsvfile"></a>Requisitos de arquivo de dados
 
 Para adicionar vários usuários à conta de um cliente usando o processo de carregamento em massa, você precisará atender aos seguintes requisitos:
 
@@ -50,13 +50,13 @@ Insira os seguintes dados no arquivo de dados:
 | Email           | Endereço de email comercial do usuário na empresa do cliente (campo obrigatório)           | Cada usuário deve ter um endereço de email exclusivo |
 | Atualização de status   | Usado para indicar se o novo registro de usuário foi ou não criado com êxito | \*\*deixar vazio\*\*                        |
 
-### <a href="" id="createmultipleuseraccounts"></a>Para criar várias contas de usuário
+### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>Para criar várias contas de usuário
 
 <a href="" id="creatingtheaccounts"></a>
 
 1. Crie um arquivo de valores separados por vírgula (.csv) com os dados descritos acima. Salve o arquivo para que você possa usá-lo em uma etapa posterior.
 
-2. Entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center.
+2. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
 3. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
 
