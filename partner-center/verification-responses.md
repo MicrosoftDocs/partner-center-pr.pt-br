@@ -1,7 +1,7 @@
 ---
 title: Verificar as informações da sua conta | Centro de parceiros
 ms.topic: article
-ms.date: 03/23/2020
+ms.date: 03/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Siga o status de sua verificação de conta e forneça informações adicionais, se necessário.
@@ -9,19 +9,19 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: verificação, verificação, rejeitada, atualização de perfil de parceiro
 ms.localizationpriority: medium
-ms.openlocfilehash: 018f116cb28e95e96416318c6741f4eeba03f7be
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: 9f0ef7317c16b2b0723b34ae24fcef6ff4fef418
+ms.sourcegitcommit: 75d1d4ba4b6b63b7d3761e5ca8fd03060695f7ab
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296370"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "80479038"
 ---
 # <a name="verify-your-account-information"></a>Verifique as informações da sua conta
 
-Quando seu primeiro criar sua conta no Partner Center, a Microsoft verificará as informações da sua conta, como seu endereço comercial e os detalhes de contato primário. Durante esse processo, a Microsoft pode enviar um email para seu contato principal para informá-los sobre o status e solicitar a documentação de verificação adicional. 
+Quando você se inscreve para um novo programa no Partner Center, a Microsoft verifica as informações de registro da conta que você forneceu, como o nome da empresa, o endereço da empresa e os detalhes de contato primário. Durante esse processo, a Microsoft pode enviar um email para seu contato principal para informá-los sobre o status e solicitar a documentação de verificação adicional. 
 
->[!Note]
->Para garantir que o email seja recebido, não deixe de sinalizar o email do Microsoft.com como um domínio "seguro" e verifique as pastas de lixo eletrônico.
+>[!NOTE]
+>Para garantir que você receba o email, não deixe de sinalizar o email do Microsoft.com como um domínio "seguro" e verifique as pastas de lixo eletrônico.
 
 Se você for o contato principal (administrador global ou administrador de conta), recomendamos que você vá para seu perfil de parceiro para monitorar o status de verificação e acompanhar o progresso.
 
@@ -38,7 +38,8 @@ Para o programa CSP, acesse [aqui](https://partner.microsoft.com/pcv/accountsett
 |Profissional |A verificação de emprego confirma que o contato principal é um funcionário da empresa de registro em virtude de ter um endereço de email ativo em um domínio de email de propriedade da empresa.|Se a verificação de emprego for rejeitada, o contato principal (normalmente seu administrador global ou de conta) precisará fornecer documentação confirmando que o domínio de email do contato está sob a propriedade de seu empregador. [Crie um tíquete de suporte](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpartner.microsoft.com%2Fdashboard%2Fsupport%2Fcsp%2Fservicerequests%2Fcreate%3Fstage%3D2%26topicid%3D21655de7-7dbb-4927-33a2-f60f45feadf3&data=02%7C01%7CLaura.Brenner%40microsoft.com%7C2998df3c6bed41f5585a08d7cf7fbc39%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637206019881666017&sdata=9CBn9KSe3hi2nApRNVP6mLE9UX2JBOM1denAKXCutcI%3D&reserved=0).|
 |Negócios   |Verificação de negócios confirma que a empresa de registro é uma entidade de negócios legítima e no endereço usado para o registro.|Se a verificação de negócios falhar, o contato principal (normalmente seu administrador global ou de conta) será solicitado a fornecer documentação oficial, como um registro de negócios ou certificado ou recebimento de registro de imposto, do país de residência da empresa ou o município confirmando que a empresa está autorizada a fazer negócios sob esse nome de entidade e está localizada no endereço de registro. [Criar um tíquete de suporte](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpartner.microsoft.com%2Fdashboard%2Fsupport%2Fcsp%2Fservicerequests%2Fcreate%3Fstage%3D2%26topicid%3D21655de7-7dbb-4927-33a2-f60f45feadf3&data=02%7C01%7CLaura.Brenner%40microsoft.com%7C2998df3c6bed41f5585a08d7cf7fbc39%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637206019881666017&sdata=9CBn9KSe3hi2nApRNVP6mLE9UX2JBOM1denAKXCutcI%3D&reserved=0)|
 
->Anotações Saiba como atualizar seu [perfil comercial legal (endereço)](https://docs.microsoft.com/partner-center/update-your-partner-profile).
+>[!NOTE]
+>Saiba como atualizar seu [perfil comercial legal (endereço)](https://docs.microsoft.com/partner-center/update-your-partner-profile).
 
 ## <a name="when-verification-concludes"></a>Quando a verificação for concluída
 
