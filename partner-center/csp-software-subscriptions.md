@@ -5,17 +5,17 @@ ms.date: 01/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os parceiros do programa CSP podem usar o Partner Center para comprar, gerenciar, vender e cancelar as instâncias reservadas do Azure e as assinaturas do Server para os clientes.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: Provedor de Soluções na Nuvem, CSP, serviços baseados na nuvem, Azure, Azure RI, Windows Server, SQL Server, assinaturas de software, cancelar software
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 1a68ec75b77f927ce162b7f5f19e3a96ca0e6f43
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 7cce25d5f16f5bd0f55169cdc9d516a69717d31a
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78339994"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389985"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vender assinaturas de software por meio do CSP
 

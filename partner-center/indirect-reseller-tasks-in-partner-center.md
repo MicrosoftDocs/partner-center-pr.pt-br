@@ -6,24 +6,24 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como revendedores indiretos no programa CSP podem trabalhar com provedores indiretos da Microsoft (ou distribuidores) que podem ajudar no atendimento ao cliente e na cobrança.
 ms.prod: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: revendedores indiretos, revendedores, provedores indiretos, provedores, parceria, VAR, camada2, camada 2
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 66334277c0169b66243ae3c6da4bd09a346ff022
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ff486a7d6f23ce13fddfcccb29ce4389ca44d3cb
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004795"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390915"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Faça parceria com provedores indiretos no programa Provedor de Soluções na Nuvem
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 -   Administrador de usuários
--   Agente administrador
+-   Agente administrativo
 -   Agente de vendas
 
 A demanda crescente por serviços e soluções baseadas em nuvem oferece muitas oportunidades para os parceiros da Microsoft de todos os tamanhos para criar empresas de solução em nuvem rentáveis. Os parceiros que estão prontos para se inserir no mercado, mas que não querem gerenciar vários fornecedores ou que podem não ter uma infraestrutura de gerenciamento de relacionamento com o cliente de ponta a ponta, podem inscrever-se no programa de CSP (Provedor de Soluções na Nuvem) da Microsoft como revendedores indiretos.
@@ -145,7 +145,7 @@ Se um provedor indireto quiser se conectar com você no Partner Center, ele vai 
 > [!IMPORTANT]  
 > Seu provedor indireto precisa ter uma relação de revendedor com seus clientes para enviar pedidos no nome dele. 
  
-## <a name="connect-with-customers"></a>Conecte-se com clientes
+## <a name="connect-with-customers"></a>Conectar-se com clientes
 
 Para transações com clientes no Partner Center, os clientes devem ter contas do Partner Center e você deve estabelecer relações de revendedor com eles. Para permitir que seu provedor indireto adquira assinaturas e serviços em nome do cliente, o provedor indireto também deve ter uma relação de revendedor com seus clientes. 
 

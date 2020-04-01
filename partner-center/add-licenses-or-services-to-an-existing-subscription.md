@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como atualizar ou modificar a assinatura de um cliente, como adicionar mais licenças ou estações ou migrar para outra versão com outros serviços.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: adicionar licenças à assinatura existente, adicionar estações à assinatura existente, modificar uma assinatura, alterar uma assinatura, comprar mais licenças para um cliente
 ms.localizationpriority: high
-ms.openlocfilehash: c1f2e523c325356959e9b89d2d7082ee9a6cb95c
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 9f6f9ca4c1c8ca6b530e1e42e925da27ca088a46
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340064"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80391015"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Adicionar licenças ou serviços a uma assinatura existente
 

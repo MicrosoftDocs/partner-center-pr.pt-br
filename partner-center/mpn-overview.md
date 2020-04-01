@@ -5,25 +5,25 @@ ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Conheça os benefícios de fazer uma parceria com a Microsoft, incluindo as competências do Microsoft Action Pack e as opções de programas para diferenciar sua empresa, comercializar e vender suas soluções.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: parceiro, parceria, MPN, Microsoft Partner Network, action pack, MAPS, assinatura do action pack, benefícios, benefícios do MPN, associação, silver, gold, competências
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: e1d54af9ab156c94c1b9376e5e7de71a0e9d010a
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ef6ef1aacfc02205f0c2eab9d3a084b5d4d51b13
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004195"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390855"
 ---
 # <a name="partner-with-microsoft"></a>Parceiro da Microsoft
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 -   Administrador de parceiros do MPN
 -   Administrador de usuários
--   Agente administrador
+-   Agente administrativo
 
 Ao ingressar em um programa de parceiros da Microsoft, você se torna parte de uma comunidade global que conecta você a relações, insights, ferramentas, recursos e programas de que você precisa para impressionar seus clientes e impulsionar o crescimento dos negócios.
 
@@ -82,5 +82,5 @@ Examine os recursos abaixo para saber mais sobre os benefícios e os requisitos 
 - [Gerenciar seus benefícios do MPN no Partner Center](manage-your-partner-network-benefits.md)
 - [Requisitos básicos](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
 
-## <a name="see-also"></a>Consulte também
+## <a name="see-also"></a>Veja também
 - [Expandir seus negócios de parceiro da Microsoft](grow-your-business.md)
