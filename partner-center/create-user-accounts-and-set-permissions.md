@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como criar contas de usuário e atribuir funções no Partner Center para cada funcionário que precisar de acesso. Usuários com diferentes privilégios de administrador podem fazer isso.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: funções, permissões, adicionar usuário, atribuir função, administrador, agente,
 ms.localizationpriority: high
-ms.openlocfilehash: 6bbae5b8bcd2882c7ba32a8b660fc256dec4e49a
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.openlocfilehash: 98dce89c0eab132ec0f247d25632617d8dd503cc
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240203"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389645"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Criar contas de usuário e atribuir permissões
 
@@ -43,15 +43,24 @@ Crie contas de usuário para os funcionários que precisam acessar o Partner Cen
 > [!IMPORTANT]  
 > Anote as novas informações de login do usuário exibidas nessa página. Certifique-se de copiar e enviar essas informações para o novo usuário, pois você não conseguirá acessá-las novamente mais tarde. 
 
+
 O usuário precisará entrar no Partner Center com seu nome de usuário e senha temporária. Quando o usuário entrar no Partner Center pela primeira vez, ele precisará alterar sua senha. 
 
-> [!NOTE]  
->  Caso o administrador global tenha saído da organização ou mudado de função e você precise adicionar um novo administrador global, registre uma solicitação de serviço em log no [portal do MPN](https://partner.microsoft.com/support). O agente de suporte poderá solicitar a elevação de um usuário a administrador global se o solicitante puder fornecer as informações de identidade pessoal requisitadas e informações adicionais sobre a sua organização.
 
 ### <a name="find-your-global-admin"></a>Encontrar seu administrador global
 
 Às vezes, um usuário pode precisar mudar de função ou um novo usuário pode desejar obter uma atribuição de função específica.  
 Para encontrar um administrador global que possa fazer alterações de função ou atribuir funções a um novo usuário, no **ícone de Configurações** no canto superior direito do Partner Center, selecione **Gerenciamento de usuários** e filtre por administrador global. 
+
+
+### <a name="new-global-admin"></a>Novo administrador global
+
+Se o seu administrador global deixar a organização e outra pessoa precisar preencher essa função, você poderá enviar um tíquete para a equipe do Azure ou do Office 365. Para obter informações sobre como fazer isso, selecione uma das opções abaixo.
+
+[Novo administrador global do Azure](https://support.microsoft.com/help/4505981/what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company)
+
+[Novo administrador global do Office 365](https://admin.microsoft.com/)
+
 
 ## <a name="assign-user-roles"></a>Atribuir funções de usuário
 
@@ -94,7 +103,6 @@ Para ver os roteiros de aprendizagem e treinamento que os usuários estão segui
 1. No painel do Partner Center, selecione o ícone **Sua conta** no canto direito do painel e, em seguida, selecione **Meu perfil**.
 
 2. Em **Seu aprendizado**, será possível associar sua conta do Microsoft Learning e também conectar sua conta Microsoft à Partner University.
-
 
 
 
