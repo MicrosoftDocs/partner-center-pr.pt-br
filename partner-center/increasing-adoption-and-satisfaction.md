@@ -6,26 +6,26 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como usar as métricas no Partner Center para ver se seu negócio está crescendo, como os clientes estão usando suas licenças e onde concentrar o investimento.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 728ef5c3df62acc3037e0f8a6a3578682d507980
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 4dcf203748834be1dcadc6026d2bc6193e86c5a1
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004775"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390935"
 ---
-# <a name="increase-adoption-and-satisfaction"></a>Aumentar a adoção e a satisfação
+# <a name="increase-adoption-and-satisfaction"></a>Aumente a adoção e a satisfação
 
 **Aplica-se a**
 
--  Partner Center
+-  Centro de Parceiros
 
 **Funções apropriadas**
 -   Administração global
 -   Administrador de usuários
--   Agente administrativo
+-   Agente administrador
 -   Agente de vendas
 
 Nossos parceiros usam muitos métricas para avaliar se seus negócios estão crescendo e onde concentrar o investimento. O Partner Center pode ajudar informando se e como os clientes estão usando as licenças adquiridas. Essas informações estão disponíveis para os produtos do Office (inclusive OneDrive for Business, que é contabilizado com o SharePoint).
@@ -35,7 +35,7 @@ Você pode ver dados de todos os seus clientes por meio do programa Provedor de 
 > [!NOTE]  
 >  No momento, mostramos apenas dados do Office 365 e do Dynamics 365. Habilitaremos dados de outros produtos no futuro.
 
-## <a name="find-license-and-user-data"></a>Localizar dados de licença e do usuário
+## <a name="find-license-and-user-data"></a>Localize dados de licença e do usuário
 
 
 **Para um único cliente**
@@ -67,7 +67,7 @@ Terminologia:
 
     -   Se alguns clientes estiverem usando o Yammer muito além do que eles têm direito de acordo com a licença, isso poderá causar uma distorção significativa nos dados.
 
-## <a name="next-steps"></a>Próximas etapas
+## <a name="next-steps"></a>{1&gt;{2&gt;Próximas etapas&lt;2}&lt;1}
 
 
 Se você estiver conferindo muitas perguntas de ajuda e instruções, os números de adoção em sua conta estão baixos ou você está procurando oportunidades de venda, talvez queira considerar a possibilidade de oferecer cursos de treinamento. Ao ensinar seus clientes a usar melhor o software de solução de nuvem que eles compraram, é mais provável que você veja um aumento na produtividade e na satisfação e uma redução nas necessidades de suporte.
