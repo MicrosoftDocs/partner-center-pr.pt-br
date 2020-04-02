@@ -305,10 +305,5 @@
     "redirect_url": "/partner-center/software-assurance-dps.md",
     "redirect_document_id": "FALSE"
   },
-  {
-    "source_path": "partner-center/voucher-validation-tool.md",
-    "redirect_url": "/partner-center/software-assurance-dps.md",
-    "redirect_document_id": "FALSE"
-  }
  ]
 }
