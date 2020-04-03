@@ -40,7 +40,6 @@
 ## [Transição do parceiro de fatura direto do CSP (Provedor de Soluções na Nuvem) para o revendedor indireto do CSP](transition-direct-to-indirect.md)
 ## [Contratos, listas de preços e ofertas do CSP](csp-documents-and-learning-resources.md)
 ## [Mercados e moedas regionais do CSP](regional-authorization-overview.md)
-## [Confirmar a aceitação do cliente do Contrato de Cliente da Microsoft](confirm-consent.md)
 ## [Confirmar a aceitação do cliente do Contrato de Cliente da Microsoft](confirm-customer-agreement.md)
 ### [Quando confirmar a aceitação do Contrato de Cliente em nome de um cliente](attest-acceptance-customer-agreement.md)
 
@@ -65,12 +64,15 @@
 ## [Restaurar uma conta suspensa no Partner Center](suspended-partner-center-account.md)
 ## [Adicionar um aplicativo do Azure AD](service-principal.md)
 ## [Associar sua conta da Microsoft Learn ao Partner Center](ms-learn-associate.md)
+
 # Gerenciar sua conta do Partner Center – usuários
 ## [Criar contas de usuário](create-user-accounts-and-set-permissions.md)
 ## [Atribuir permissões e funções de usuários](permissions-overview.md)
 ## [Registrar-se como um fornecedor do Painel de Controle](enroll-as-cpv.md)
 ## [Redefinir uma senha de usuário](reset-a-user-password.md)
 ## [Redefinir minha senha](reset-my-pasword.md)
+## [Se você não consegue entrar na Central de Parceiros](unable-to-sign-in.md)
+
 # Gerenciar sua conta do Partner Center – negócios
 ## [Adicionar serviços compartilhados do parceiro do Azure](shared-services.md)
 ## [Preços e ofertas](pricing-and-offers.md)
