@@ -1,5 +1,5 @@
 ---
-title: Ler sua cobrança | Partner Center
+title: Entenda sua fatura | Centro de parceiros
 ms.topic: article
 ms.date: 11/21/2019
 description: Sua fatura é um resumo de todos os encargos do Partner Center (em todo o programa, produtos e clientes) para o período mensal atual.
@@ -10,14 +10,14 @@ author: jasonwhowell
 ms.author: jasonh
 keywords: cobrança de assinatura, cobrança, cobrança no partner center, ler minha cobrança, fatura, fatura do partner center, fatura do CSP, onde está minha cobrança?
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e5171a44ba8f23955847f6450e59b948f3c7d52
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: e356dfbe3243db176393f614c92540e40d92f055
+ms.sourcegitcommit: e8e44bba412e7f4c7ae0abb48fddad1b050f9d47
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390705"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "80634810"
 ---
-# <a name="read-your-bill"></a>Ler sua cobrança
+# <a name="understand-your-bill"></a>Entenda sua fatura
 
 **Aplica-se a**
 
@@ -25,50 +25,104 @@ ms.locfileid: "80390705"
 - Partner Center do Microsoft Cloud for US Government
 
 **Funções apropriadas**
--   Administração global
--   Administrador de usuários
--   Administrador de cobrança
--   Agente administrador
--   Administrador de parceiros do MPN
 
-Sua **fatura** é um **Resumo de todos os seus encargos do Partner Center** (em todo o programa, todos os produtos e todos os clientes) para o **período de cobrança atual**.
+- Administração global
+- Administrador de cobrança
+- Agente administrador
+
+
+Sua **fatura** é um **Resumo de todos os seus encargos do Partner Center** (em todo o programa, todos os produtos e todos os clientes). 
 
 ## <a name="invoice-types"></a>Tipos de fatura
 
-Você receberá uma fatura para quaisquer encargos baseados em licença (como o Office 365) e encargos com base no uso (como o Azure).
+A Microsoft emitirá uma fatura para quaisquer encargos baseados em licença (como o Office 365) e encargos com base no uso (como o Azure) e uma fatura separada para cobranças individuais (como o Azure RI, Marketplace, plano do Azure, etc.). 
 
-Você receberá uma fatura separada para cobranças de um tempo (como instâncias de VM reservadas do Azure).
+Por exemplo,  
 
-## <a name="invoice-file-fields"></a>Campos de arquivo de fatura
+**Cenário 1 [moeda única]** : parceiro tem compras para ofertas de 145P e licenças do O365,  
 
-Para obter uma descrição detalhada de todos os campos em seu arquivo de nota fiscal (incluindo campos para encargos de uma vez), consulte [campos de arquivo de nota fiscal](invoice-file.md).
+- O parceiro obterá um PDF de nota fiscal e 2 arquivos de reconciliação que abrangem os encargos do O365 e do Azure (145p).  
 
-## <a name="find-your-bill"></a>Encontre sua fatura
+**Cenário 2 [moeda única]** : o parceiro tem compras para o Azure ri, o Marketplace e/ou o plano do Azure, juntamente com as compras do 145p. 
 
-Você pode encontrar sua fatura na página de **cobrança** do painel no Partner Center. Você também pode encontrar seu histórico de cobrança, tendências de gastos e arquivos de reconciliação nesta página.
+- O parceiro obterá um PDF de nota fiscal e um arquivo de reconciliação que abrange os encargos do Azure (145p). 
 
-1. Entre no painel no Partner Center.
-2. No menu à esquerda, selecione **cobrança**.
-3. Na página **cobrança** , selecione a fatura que você deseja baixar.
-    - Você pode encontrar um link para a fatura mais recente na parte superior da página em **saldo de conta até a data da última nota fiscal**.
-    - Você pode encontrar notas fiscais anteriores na seção **histórico de cobrança** . Escolha o ano apropriado e, em seguida, selecione a seta suspensa ao lado do **período de cobrança**apropriado. Você pode selecionar o link ao lado de **notas fiscais (. pdf)** para baixar a fatura desse período.
+- O parceiro receberá outro PDF de fatura e um arquivo de reconciliação que abrange seus encargos para o Azure RI, Marketplace, plano do Azure. 
 
-## <a name="understand-billing-periods"></a>Entender os períodos de cobrança
+**Cenário 3 [várias moedas]** : parceiro tem compras para o Azure ri em DKK e o plano do Azure em EUR, juntamente com compras 145P em EUR. 
 
-Sua fatura está disponível dentro de **dois (2) dias** da data de cobrança selecionada em **hora UTC**.
+- O parceiro receberá um PDF de nota fiscal e um arquivo de reconciliação que abrange os encargos para o Azure RI em DKK. 
 
-Por exemplo, se você tiver uma data de cobrança mensal de 12 de setembro:
+- O parceiro receberá um PDF de nota fiscal e um arquivo de reconciliação que abrange os encargos do plano do Azure em EUR. 
 
-- O processo de geração de nota fiscal **começará** em 12:10:00 UTC em setembro de 13.
-- O processo de geração de nota fiscal será **concluído** em 12:10:00 UTC em 14 de setembro.
-- Se você não vir sua fatura por 11:59PM UTC em 15 de setembro, você está fora de seu Contrato de Nível de Serviço (SLA) e deve arquivar uma solicitação de serviço.
+- O parceiro receberá outro PDF de fatura e um arquivo de reconciliação que abrange seus encargos para a oferta de 145p em EUR (ou moeda de cobrança do parceiro). 
 
-### <a name="csp-monthly-billing"></a>Cobrança mensal do CSP
+## <a name="find-your-bill"></a>Encontre sua fatura 
 
-Os parceiros no programa CSP (provedor de soluções de nuvem) que escolheram ser cobrados mensalmente pagam a Microsoft 60 dias em pelos débitos anteriores para as assinaturas de seus clientes (assinaturas baseadas em licença e de uso).
+Você pode encontrar sua fatura na página de cobrança do painel no Partner Center. Você também pode encontrar seu histórico de cobrança, tendências de gastos e arquivos de reconciliação nesta página. 
 
-## <a name="find-itemized-details-for-charges"></a>Localizar detalhes detalhados para encargos
+1. Entre no [Painel](https://partner.microsoft.com/dashboard/home) do Partner Center. 
 
-Você pode entender os detalhes detalhados sobre seus encargos usando seus arquivos de reconciliação. Os arquivos de reconciliação incluem identificadores de cliente e identificadores de assinatura que você pode usar para criar faturas de cliente.
+2. No menu à esquerda, selecione **cobrança**. 
 
-Para obter mais informações, consulte [Como usar os arquivos de reconciliação](use-the-reconciliation-files.md).
+3. Na página cobrança, selecione a fatura que você deseja baixar. 
+
+Você pode encontrar um link para a fatura mais recente na parte superior da página em saldo de conta até a data da última nota fiscal. 
+
+Você pode encontrar notas fiscais anteriores na seção Histórico de cobrança. Escolha o ano apropriado e, em seguida, selecione a seta suspensa ao lado do período de cobrança apropriado. Selecione o link ao lado de notas fiscais (. pdf) para baixar a fatura do período. 
+
+## <a name="understanding-invoice-pdf"></a>Noções básicas sobre nota fiscal PDF 
+
+**Notas fiscais para uso e cobranças com base em licença**: faturas para cobranças de serviços como o Office 365 e o Azure estarão disponíveis em dois (2) dias de sua data de cobrança selecionada [UTC].  
+
+**Notas fiscais para encargos de OneTime e recorrente**: faturas de encargos para serviços como o Azure ri, plano do Azure, o Marketplace estará disponível não mais tarde, de 8 a cada mês.  
+
+Abaixo estão alguns dos campos de chave no documento PDF da nota fiscal – 
+
+**Número da nota fiscal**: identificador exclusivo para o documento de nota fiscal gerado para o respectivo período de cobrança. 
+
+**Período de cobrança**: esse é o período durante o qual você tem usos e serviços baseados em licença. 
+
+**Data da fatura**: a data de cobrança ou a data de vencimento na qual sua fatura é gerada por mês. 
+
+**Data de vencimento do pagamento**: a data até a qual seu pagamento deve ser recebido. 
+
+**Encargos**: o valor devido em sua moeda de cobrança para o respectivo período de cobrança. 
+
+**Créditos**: créditos (como SLA) ou ajustes para alterações feitas em assinaturas (por exemplo, assento aumenta ou diminui). 
+
+**Instruções de pagamento**: Descrição de como pagar sua fatura, com base em sua região. Sempre certifique-se de incluir o número da fatura ao fazer um pagamento. 
+
+Para obter uma descrição detalhada de todos os campos em seu arquivo de nota fiscal (incluindo campos para encargos de uma vez), consulte [campos de arquivo de nota fiscal](https://docs.microsoft.com/partner-center/invoice-file). 
+
+## <a name="understand-reconciliation-file"></a>Entender o arquivo de reconciliação 
+
+ Os arquivos de reconciliação, que fornecem detalhes detalhados/discriminados de seus encargos, estão disponíveis para download junto com o PDF da fatura. Os arquivos de reconciliação incluem identificadores de cliente e identificadores de assinatura que você pode usar para criar faturas de cliente. Veja  [como usar os arquivos de reconciliação](https://docs.microsoft.com/partner-center/use-the-reconciliation-files) para obter mais detalhes sobre os arquivos reconhecimento. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
