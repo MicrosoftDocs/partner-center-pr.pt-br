@@ -1,7 +1,7 @@
 ---
 title: Entenda sua fatura | Centro de parceiros
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 04/03/2020
 description: Sua fatura é um resumo de todos os encargos do Partner Center (em todo o programa, produtos e clientes) para o período mensal atual.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -10,12 +10,12 @@ author: jasonwhowell
 ms.author: jasonh
 keywords: cobrança de assinatura, cobrança, cobrança no partner center, ler minha cobrança, fatura, fatura do partner center, fatura do CSP, onde está minha cobrança?
 ms.localizationpriority: medium
-ms.openlocfilehash: e356dfbe3243db176393f614c92540e40d92f055
-ms.sourcegitcommit: e8e44bba412e7f4c7ae0abb48fddad1b050f9d47
+ms.openlocfilehash: 3e4d6b16e3b27b5244687bf9c1f292a5ba353e24
+ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "80634810"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "80676835"
 ---
 # <a name="understand-your-bill"></a>Entenda sua fatura
 
@@ -93,11 +93,11 @@ Abaixo estão alguns dos campos de chave no documento PDF da nota fiscal –
 
 **Instruções de pagamento**: Descrição de como pagar sua fatura, com base em sua região. Sempre certifique-se de incluir o número da fatura ao fazer um pagamento. 
 
-Para obter uma descrição detalhada de todos os campos em seu arquivo de nota fiscal (incluindo campos para encargos de uma vez), consulte [campos de arquivo de nota fiscal](https://docs.microsoft.com/partner-center/invoice-file). 
+Para obter uma descrição detalhada de todos os campos em seu arquivo de nota fiscal (incluindo campos para encargos de uma vez), consulte [campos de arquivo de nota fiscal](invoice-file.md). 
 
 ## <a name="understand-reconciliation-file"></a>Entender o arquivo de reconciliação 
 
- Os arquivos de reconciliação, que fornecem detalhes detalhados/discriminados de seus encargos, estão disponíveis para download junto com o PDF da fatura. Os arquivos de reconciliação incluem identificadores de cliente e identificadores de assinatura que você pode usar para criar faturas de cliente. Veja  [como usar os arquivos de reconciliação](https://docs.microsoft.com/partner-center/use-the-reconciliation-files) para obter mais detalhes sobre os arquivos reconhecimento. 
+ Os arquivos de reconciliação, que fornecem detalhes detalhados/discriminados de seus encargos, estão disponíveis para download junto com o PDF da fatura. Os arquivos de reconciliação incluem identificadores de cliente e identificadores de assinatura que você pode usar para criar faturas de cliente. Veja  [como usar os arquivos de reconciliação](use-the-reconciliation-files.md) para obter mais detalhes sobre os arquivos reconhecimento. 
 
 
 
