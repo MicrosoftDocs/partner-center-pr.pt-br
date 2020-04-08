@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.date: 03/23/2020
-ms.openlocfilehash: 9a68953cc63aafae36e343d6d494044e18c6699c
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: 0439969c6799ab047c18e51dbed0c0b174ed8f42
+ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296429"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "80676793"
 ---
 # <a name="verify-your-partner-profile-information"></a>Verifique suas informações de perfil do parceiro
 
@@ -36,7 +36,7 @@ Agora você pode atualizar seu endereço jurídico no Partner Center.
 2. Selecione **Atualizar** ao lado do endereço jurídico. ""
 
 >[!Important]
->Se você for um parceiro CSP, não será possível alterar o país associado ao seu endereço jurídico. O país do endereço jurídico está vinculado ao seu locatário e aos seus serviços, bem como à moeda com a qual você faz negócios. Se não estiver no programa CSP, você poderá alterar o país associado ao seu endereço jurídico. A razão social da empresa não poderá ser atualizada no Partner Center se o seu status de habilitação for "Autorizado". Será necessário [criar um tíquete de suporte](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpartner.microsoft.com%2Fdashboard%2Fsupport%2Fcsp%2Fservicerequests%2Fcreate%3Fstage%3D2%26topicid%3D21655de7-7dbb-4927-33a2-f60f45feadf3&data=02%7C01%7CLaura.Brenner%40microsoft.com%7C2998df3c6bed41f5585a08d7cf7fbc39%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637206019881666017&sdata=9CBn9KSe3hi2nApRNVP6mLE9UX2JBOM1denAKXCutcI%3D&reserved=0).
+>Se você for um parceiro CSP, não será possível alterar o país associado ao seu endereço jurídico. O país do endereço jurídico está vinculado ao seu locatário e aos seus serviços, bem como à moeda com a qual você faz negócios. Se não estiver no programa CSP, você poderá alterar o país associado ao seu endereço jurídico. A razão social da empresa não poderá ser atualizada no Partner Center se o seu status de habilitação for "Autorizado". Será necessário [criar um tíquete de suporte](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
 3. Ao selecionar **Enviar**, sua identidade jurídica será reavaliada e você receberá outro email, o qual precisará aceitar.
 
