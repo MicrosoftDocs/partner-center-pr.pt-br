@@ -1,23 +1,23 @@
 ---
 title: Cobrança | Partner Center
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Saiba mais sobre os tópicos de cobrança no Partner Center, incluindo informações sobre recursos de cobrança, faturas e cobrança de CSP.
+Description: Listagem de tópicos sobre cobrança e impostos na Central de Parceiros, incluindo informações sobre recursos de cobrança, faturas, cobrança de CSP e impostos.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: jasonwhowell
 ms.author: jasonh
 keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções de imposto, arquivos de reconciliação, arquivo de reconciliação
 ms.localizationpriority: high
-ms.openlocfilehash: 1f782b3696f82bb16487fb4ecae68b806cabfcac
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 33c698648b6e195219ae8b58c36e8fda372685f3
+ms.sourcegitcommit: e8e44bba412e7f4c7ae0abb48fddad1b050f9d47
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390275"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "80634802"
 ---
-# <a name="billing"></a>Cobrança
+# <a name="billing-and-taxes"></a>Cobrança e impostos
 
 **Aplica-se a**
 
@@ -33,10 +33,10 @@ ms.locfileid: "80390275"
 
 | Tópico | Descrição |
 | ----- | ----------- |
-| [Visão Geral da cobrança](billing-basics.md) | Noções básicas da cobrança do Partner Center (incluindo pagamentos, faturas e arquivos de reconciliação). |
+| [Noções básicas sobre cobrança](billing-basics.md) | Noções básicas da cobrança do Partner Center (incluindo pagamentos, faturas e arquivos de reconciliação). |
 | [Tipos de cobrança](billing-different-types.md) | Explicação sobre diferentes tipos de cobrança no Partner Center. |
 | [Diferenças de cobrança mensal e anual](billing-annual-monthly.md) | Explicação sobre diferenças entre as frequências de cobrança mensais e anuais. |
-| [Como ler a sua fatura](read-your-bill.md) | Como ler e entender sua conta do Partner Center. |
+| [Entender a fatura](read-your-bill.md) | Como ler e entender sua conta do Partner Center. |
 | [Avaliações gratuitas](offer-your-customers-trials-of-microsoft-products.md) | Como oferecer avaliações gratuitas para seus clientes e como essas avaliações são cobradas. |
 | [Arquivo de reconciliação](use-the-reconciliation-files.md) | Como ler e usar seu arquivo de reconciliação para itens de linha. |
 | [Cenários comuns de cobrança](common-billing-scenarios.md) | Como entender os cenários comuns de cobrança do Partner Center (para cobrança mensal e anual, bem como cobrança para compras avulsas e recorrentes). |

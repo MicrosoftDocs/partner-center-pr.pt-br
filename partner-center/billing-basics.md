@@ -1,7 +1,7 @@
 ---
 title: Visão geral de cobrança | Partner Center
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/03/2020
 description: Saiba mais sobre as informações básicas de cobrança e fatura para o Partner Center.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções de imposto, arquivos de reconciliação, arquivo de reconciliação
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 9ad98091829459612a320135629b6611f36c931a
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 6e46915b720f811f465a270a91e7deee8a45786f
+ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340114"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "80676809"
 ---
 # <a name="billing-overview"></a>Visão geral de cobrança
 
@@ -48,23 +48,23 @@ A Microsoft não tem requisitos ou condições sobre como você deve administrar
 
 Para determinar o uso de um cliente, [confira seus arquivos de reconciliação](#find-your-bill). Você pode usar o nome do cliente e outros campos relevantes para determinar o uso.
 
-Em seguida, você pode adicionar os próprios valores e suas tarifas para serviços e produtos que você fornece. Depois você pode enviar uma única cobrança para todas os encargos devidos por seu cliente.
-
 ### <a name="billing-types"></a>Tipos de cobrança
 
-Os tipos de cobrança no Partner Center incluem **cobrança baseada em licença**, **cobrança baseada em uso** e **cobrança única**. Para obter mais informações, confira a explicação completa de [tipos de cobrança no Partner Center](billing-different-types.md).
+Os tipos de cobrança da Central de Parceiros incluem a **cobrança baseada em licença**, a **cobrança baseada em uso** e a **cobrança única**. Para obter mais informações, confira a explicação completa de [tipos de cobrança no Partner Center](billing-different-types.md).
 
 ### <a name="billing-currency"></a>Moeda de cobrança
 
-Você será cobrado por produtos na moeda do país ou da região em que está localizado. Você é cobrado igual, independentemente do local do cliente para quem você vendeu os produtos.
+**Cobrança baseada em licença e em uso**: Você será cobrado por produtos na moeda do país ou da região em que está localizado. Você é cobrado igual, independentemente do local do cliente para quem você vendeu os produtos.
+
+**Cobrança única**: sua fatura será gerada no contexto da moeda do cliente. Isso significa que, se você for um parceiro que esteja realizando uma transação com clientes de diferentes moedas faturáveis, receberá uma fatura para cada tipo de moeda do cliente. Leia mais sobre a cobrança [única e recorrente](azure-plan-billing.md). 
 
 ## <a name="invoices"></a>Faturas
 
 Sua fatura é um resumo de todos os encargos do período de cobrança atual. Isso inclui encargos entre o programa, todos os produtos e todos os clientes. Para obter exemplos de cenários de cobrança mensal e anual, confira [cenários comuns de cobrança](common-billing-scenarios.md)
 
-Sua fatura estará disponível dentro de 2 (dois) dias da data de cobrança selecionada no horário UTC. Por exemplo, se você tiver uma data de cobrança igual a 12 de setembro, o processo de geração da fatura será iniciado em 00:00 UTC no dia 13 e será concluído até 00:00 UTC no dia 14. Caso a sua fatura não seja exibida até 23h59 UTC do dia 15, você estará fora do Contrato de Nível de Serviço e deverá registrar uma solicitação de serviço.
+Para a cobrança baseada em uso e licença, sua fatura ficará disponível em até dois (2) dias após a data de cobrança selecionada na hora UTC. Por exemplo, se você tiver uma data de cobrança igual a 12 de setembro, o processo de geração da fatura será iniciado em 00:00 UTC no dia 13 e será concluído até 00:00 UTC no dia 14. 
 
-Os parceiros no programa CSP (Provedor de Soluções na Nuvem) que optam pela cobrança mensal pagam à Microsoft 60 dias em atraso pelas assinaturas (baseadas em licença e em uso) dos clientes deles.
+Para a cobrança única e recorrente, o período de cobrança é alinhado ao mês do calendário, e os arquivos de fatura/reconciliação ficarão disponíveis até, no máximo, o 8º dia de cada mês. Para obter mais informações, leia [Cobrança do plano do Azure](azure-plan-billing.md). 
 
 ## <a name="price-lists"></a>Listas de preços
 
@@ -94,27 +94,15 @@ Você poderá recuperar funcionalidade completa de suas contas suspensas quando 
 
 Você paga imposto com base em seus detalhes (não dos seus clientes) porque o relacionamento de cobrança se dá entre você e a Microsoft. Você pode enviar seu identificador fiscal durante o processo de configuração da conta ou por meio de uma solicitação de suporte mais tarde. Você verá as alterações refletidas no seu próximo ciclo de cobrança.
 
-Para **isenção de impostos sobre vendas e retenção**, você deve enviar a documentação fiscal por meio de uma solicitação de suporte. Você verá as alterações e reembolsos apropriados em seu próximo ciclo de cobrança.
+Para **isenção de impostos sobre vendas e retenção**, você deve enviar a documentação fiscal por meio de uma solicitação de suporte. Você verá as alterações e reembolsos apropriados em seu próximo ciclo de cobrança. Encontre mais informações sobre como [enviar o imposto retido na fonte](withholding-tax-credit-form.md). 
 
-Para **isenção do IVA (imposto sobre valor agregado)** , você deve enviar sua ID do IVA (validado pela Microsoft) por meio de uma solicitação de serviço. Você verá as alterações e reembolsos apropriados em seu próximo ciclo de cobrança.
+Para **isenção do IVA (imposto sobre valor agregado)** , você deve enviar sua ID do IVA (validado pela Microsoft) por meio de uma solicitação de serviço.  Se a ID do IVA for enviada após a configuração da conta (por meio de uma solicitação de suporte), suas faturas antes dessa solicitação não terão uma ID do IVA marcada no PDF da fatura. Você verá as alterações no próximo ciclo de cobrança.
 
 Você pode encontrar mais detalhes sobre impostos no escritório fiscal local ou de um consultor fiscal.
 
-### <a name="annual-billing-rules"></a>Regras sobre a cobrança anual
-
-As assinaturas são anuais com renovação automática.
-
-A cobrança é feita em 12 pagamentos mensais ou um anual por assinatura anual.
-
-Você será cobrado com antecedência pelo próximo período de cobrança pelos serviços baseados em licença, de acordo com o número de licenças no final do período de cobrança anterior.
-
-Você é cobrado/creditado em atraso de pagamento por alterações no número de licenças (cálculo proporcional com base em dias de licença). O cálculo proporcional usa a seguinte fórmula:
-
-`[ROUND((ROUND(Unit Price * Quantity / Number of days in pro-rated Month, 2) * Number of pro-rated days) / Quantity, 2) * Quantity]`
-
-Pagamentos são cobrados por licenças vendidas, não licenças provisionadas.
-
 ### <a name="change-billing-frequency"></a>Alterar a frequência de cobrança
+
+A frequência de cobrança é alterada no nível do pedido e, depois que a frequência for alterada, o ciclo de cobrança revisado será aplicado a todas as assinaturas desse pedido. 
 
 Para alterar a frequência de cobrança de um serviço online para um cliente:
 
@@ -127,36 +115,37 @@ Para alterar a frequência de cobrança de um serviço online para um cliente:
 
 ### <a name="adjustmentscreditscancellations"></a>Ajustes/créditos/cancelamentos
 
+Os créditos de cancelamento para os serviços baseados em licença são proporcionais aos dias não utilizados para cancelamentos no meio do ciclo, bem como para diminuição de licenças de acordo com esta fórmula:
+
+[ROUND((ROUND(Preço unitário * Quantidade / Número de dias no mês proporcional, 2) * Número de dias proporcionais) / Quantidade, 2) * Quantidade] 
+
 A Microsoft não cobra valores de cancelamento antecipado dos serviços baseados em licença.
 
-Os créditos de cancelamento para serviços baseados em licença são proporcionais aos dias não utilizados para cancelamentos de ciclo médio (bem como pela diminuição de licenças de acordo com a fórmula acima).
-
 ### <a name="billing-rules"></a>Regras de cobrança
-
-As assinaturas são de mês a mês e renovadas automaticamente de acordo com as novas taxas de serviço limitadas. Você será cobrado a cada mês pelo uso do mês anterior.
-
+Atualmente, há dois tipos de frequências de cobrança: anual e mensal.  
 As taxas de serviço limitadas podem ser alteradas dentro do ciclo de fatura.
 
-#### <a name="price-changes"></a>Alterações de preço
+#### <a name="annual-billing-rules"></a>Regras sobre a cobrança anual 
 
-Para **aumentos de preço**, é fornecido um aviso prévio de 30 dias.
+- As assinaturas são anuais com renovação automática.  
 
-As **diminuições de preço** são refletidas no dia da alteração.
+- A cobrança é feita em 12 pagamentos mensais ou um anual por assinatura anual. 
 
-As **assinaturas existentes** usam a taxa em vigor no início do ciclo de cobrança.
+- Você será cobrado com antecedência pelo próximo período de cobrança pelos serviços baseados em licença, de acordo com o número de licenças no final do período de cobrança anterior. 
 
-**Novas assinaturas**, quando criadas no mesmo ciclo de cobrança, usam a taxa em vigor na data em que você as cria. 
+- Você é cobrado/creditado em atraso de pagamento por alterações no número de licenças (cálculo proporcional com base em dias de licença). O cálculo proporcional usa a seguinte fórmula: 
 
-### <a name="adjustmentscreditscancellations"></a>Ajustes/créditos/cancelamentos
+  - [ROUND((ROUND(Preço unitário * Quantidade / Número de dias no mês proporcional, 2) * Número de dias proporcionais) / Quantidade, 2) * Quantidade] 
 
-Você verá pagamentos com ajustes em sua próxima fatura de cobrança mensal.
+- Os pagamentos são cobrados pelas licenças vendidas, não pelas licenças provisionadas 
 
-A Microsoft não cobra valores de cancelamento antecipado dos serviços baseados no uso. 
+#### <a name="monthly-billing-rules"></a>Regras da cobrança mensal 
 
-Você verá créditos de qualquer tipo, incluindo créditos SLAs, em sua próxima fatura de cobrança mensal.
+- As assinaturas são de mês a mês e renovadas automaticamente de acordo com as novas taxas de serviço limitadas. Você será cobrado a cada mês pelo uso do mês anterior. 
 
->[!IMPORTANT]
->Se você comprar reservas e/ou assinaturas de software do Azure para um cliente em um local com uma moeda diferente da sua, a moeda de cobrança padrão será baseada no local do cliente, não no seu. Se você tiver clientes em vários locais, receberá faturas separadas e arquivos de reconciliação para cada moeda em que os clientes precisam ser cobrados, permitindo que você envie faturas para seus clientes na moeda apropriada.
+- As taxas de serviço limitadas podem ser alteradas dentro do ciclo de fatura. 
+
+- A fatura recebida terá apenas o preço acumulado para esse mês. 
 
 ## <a name="manage-one-time-billing"></a>Gerenciar cobrança única
 
@@ -164,15 +153,15 @@ Você verá créditos de qualquer tipo, incluindo créditos SLAs, em sua próxim
 
 Para exibir o status de cobrança, as faturas e os arquivos de reconciliação:
 
-1. [Entre no painel do Partner Center](https://partner.microsoft.com/dashboard/home).
-2. No menu à esquerda, escolha **Cobrança** e, em seguida, selecione **Única**.
+1. Entre no [Painel](https://partner.microsoft.com/dashboard/home) do Partner Center.
+2. No menu à esquerda, escolha **Cobrança** e, em seguida, selecione **Compras recorrentes e avulsas**.
 3. Na página de status da cobrança, selecione uma nota fiscal ou um arquivo de reconciliação para exibir informações mais detalhadas.
 
 ### <a name="customer-order-history"></a>Histórico de pedidos do cliente
 
 Para exibir o histórico de pedidos de um cliente:
 
-1. [Entre no painel do Partner Center](https://partner.microsoft.com/dashboard/home).
+1. Entre no [Painel](https://partner.microsoft.com/dashboard/home) do Partner Center.
 2. No menu à esquerda, escolha **Clientes**.
 3. Na página **Clientes**, localize o cliente cujo histórico de pedidos você deseja exibir. Selecione a seta para baixo para expandir o registro do cliente.
 4. Escolha **Exibir pedidos** para exibir o histórico de pedidos do cliente.
@@ -184,4 +173,4 @@ Talvez você precise solicitar um crédito ou uma nova cobrança pelos seguintes
 - Você precisa fazer correções no endereço ou em uma ordem de compra.
 - Um reembolso de imposto foi aplicado depois que a fatura foi gerada. Você pode solicitar um crédito ou nova cobrança para fazer o reembolso de imposto retroceder à fatura original. Isso também é válido para reembolsos. Você pode solicitar um crédito ou uma nova cobrança da fatura original e receber um reembolso.
 
-Se você solicitar um crédito ou uma nova cobrança, daremos uma **nota de crédito** para cancelar a nota fiscal original.
+**Para todas as transações únicas e recorrentes**, a Microsoft pode emitir uma nota de crédito quando você solicita um crédito ou uma nova cobrança. A fatura é cancelada quando o crédito é emitido. 
