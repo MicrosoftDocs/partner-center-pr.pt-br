@@ -1,7 +1,7 @@
 ---
 title: Preparação para mudar do Centro de Administração do Parceiro para o Partner Center | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 04/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: A funcionalidade Centro de Administração do Parceiro do Office 365 está mudando para o Partner Center.
@@ -9,24 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: PAC, Office 365 Advisor, Advisor, parceiro de distribuição, desativação de PAC, PAC
 ms.localizationpriority: medium
-ms.openlocfilehash: 37c76a3454cb5d7a995d32cc01317b938a534405
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 214ae5d353449c82a7b1ba03a793d06359e28a0a
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004885"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123310"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>O centro de administração do parceiro está mudando para o Partner Center
 
 **Aplica-se a**
 
--  Partner Center
+-  Centro de Parceiros
 
 **Funções apropriadas**
--   Administração global
--   Administrador de usuários
--   Agente administrativo
--   Agente de vendas
+-    Administrador global
+-    Administrador de usuários
+-    Agente administrativo
+-    Agente de vendas
 
 > [!NOTE]  
 >  Todas as datas foram atualizadas desde o lançamento inicial deste artigo.
@@ -46,11 +46,9 @@ Durante abril de 2018, a PAC será desativada e os parceiros CSP começarão a s
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Comece a usar o Microsoft Partner Center agora!
 
-Comece [a usar o Microsoft Partner Center](https://partnercenter.microsoft.com/) agora mesmo para ficar pronto para a mudança do PAC.  Você usará as mesmas credenciais para o Partner Center que você usa para PAC. 
+Comece [a usar o Microsoft Partner Center](https://partnercenter.microsoft.com/) agora mesmo para ficar pronto para a mudança do PAC.  Você usará as mesmas credenciais para o Partner Center que você usa para PAC.
 
 > [!IMPORTANT]  
 > Alguns recursos e funções que estavam disponíveis no PAC não estarão disponíveis no Partner Center.
 
- Leia a [Comparação lado a lado](moving-from-pac-to-pc.md) para entender e familiarizar-se com essas alterações.  Você encontrará informações adicionais sobre o gerenciamento de contas, o gerenciamento de clientes, as licenças e assinaturas, os preços e ofertas e mais na [Ajuda do Microsoft Partner Center](https://partnercenter.microsoft.com/partner/help).
-
- 
+ Leia a [Comparação lado a lado](moving-from-pac-to-pc.md) para entender e familiarizar-se com essas alterações.  Você encontrará informações adicionais sobre o gerenciamento de contas, o gerenciamento de clientes, as licenças e assinaturas, os preços e ofertas e mais na [Ajuda do Microsoft Partner Center](https://docs.microsoft.com/partner-center/).

@@ -2,17 +2,17 @@
 title: Consultoria de parceiros do Office 365-Microsoft 365 voz no CSP | Centro de parceiros
 description: Os serviços de PSTN em alguns países podem estar sujeitos a requisitos especiais de impostos e regulatórios que podem afetar a ordem e o faturamento do parceiro.
 ms.topic: article
-ms.date: 11/04/2019
+ms.date: 04/07/2020
 author: jasonwhowell
 ms.author: jasonh
 keywords: Office, O365, serviços PSTN, impostos, requisitos, fatura, faturamento
 ms.localizationpriority: medium
-ms.openlocfilehash: 14cf3541789fc982590842427d06711a70080004
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: ee29158773041bbab16961f139e8b731a2b3ebbf
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390785"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123283"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Consultoria do parceiro do Office 365: Microsoft 365 voz no CSP
 
@@ -21,15 +21,15 @@ ms.locfileid: "80390785"
 - Centro de Parceiros  
 
 **Funções apropriadas**
--   Administração global
--   Administrador de usuários
--   Agente administrador
+-    Administrador global
+-    Administrador de usuários
+-    Agente administrativo
 
 Os serviços de rede telefônica pública comutada (PSTN) em algumas jurisdições podem estar sujeitos a requisitos especiais de impostos e regulamentares que podem afetar a ordem e o faturamento do parceiro. No Estados Unidos, incluindo Porto Rico, os serviços PSTN, que incluem a conferência de áudio, planos de chamada e créditos de comunicação, estão sujeitos a requisitos especiais de impostos e regulamentares. No Estados Unidos e Porto Rico, a Microsoft preços os serviços PSTN como impostos sobre o imposto.  Os impostos e as regulamentações de PSTN exclusivos afetarão os parceiros do Office 365 transformando Microsoft 365 produtos de voz.  Se um parceiro marcar o preço de um serviço PSTN da Microsoft, ele poderá ser responsável pelo cálculo e remissão de impostos e taxas do PSTN.
 
 ## <a name="partner-recommendations"></a>Recomendações de parceiros
 
-Consulte seus conselheiros fiscais e jurídicos para saber qual é a responsabilidade da organização em relação ao regulamento, impostos e taxas dos serviços PSTN e outras possíveis responsabilidades.
+Envolva seu imposto e seu conselho jurídico para entender a responsabilidade da sua organização em relação às normas, impostos e taxas dos serviços de PSTN e a outros passivos potenciais.
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Apresentação de nota fiscal e arquivo de reconciliação do parceiro
 
@@ -55,5 +55,5 @@ O Office 365 Enterprise E5 apresenta o arquivo de reconciliação como dois iten
 Microsoft 365 Business voz disponível no Canadá tem componentes adicionais de PSTN que são consolidados na nota fiscal do CSP (semelhante ao Office 365 e5, dois itens de linha são apresentados, um para componentes PSTN e outro para componentes não PSTN).  O arquivo de reconciliação CSP para Microsoft 365 Business voz exibirá todos os componentes tributáveis de PSTN individualmente (componentes PSTN individuais não serão consolidados no. Ferramenta de API ou CSV).  A soma dos detalhes do pedido e dos valores cobrados para os clientes encontrados no arquivo de reconciliação corresponderá à nota fiscal do CSP.
 
 ## <a name="additional-resources"></a>Recursos adicionais
-Para obter mais detalhes, visite o site [Microsoft 365 para parceiros](https://drumbeat.office.com/Pages/home2016.aspx) .
+Para obter mais detalhes, visite o site [Microsoft 365 para parceiros](https://www.microsoft.com/microsoft-365/partners/) .
 
