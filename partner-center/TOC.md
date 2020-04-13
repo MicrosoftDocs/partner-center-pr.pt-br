@@ -46,7 +46,7 @@
 ## [Inscrever-se para vender em nuvens nacionais](csp-national-clouds-overview.md)
 ### [Partner Center do Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
 ### [Perguntas frequentes sobre o Microsoft Cloud for US Government](faq-for-us-govt-cloud.md)
-### [Partner Center for Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md) (Partner Center do Microsoft Cloud Alemanha)
+### [Partner Center do Microsoft Cloud Alemanha](partner-center-for-microsoft-cloud-germany.md)
 ### [Inscrever-se no CSP para Microsoft Cloud for US Government](enroll-in-csp-for-microsoft-us-govt-cloud.md)
 ### [Vender o Office 365 Government GCC para CSP](csp-gcc-overview.md)
 ### [Critérios de qualificação de parceiros e clientes do Office 365 Government GCC](csp-gcc-validate.md)
