@@ -1,7 +1,7 @@
 ---
 title: Migração do PMC para o Partner Center | Partner Center
 ms.topic: article
-ms.date: 06/14/2019
+ms.date: 04/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Entenda as diferenças e semelhanças entre o PMC e o Partner Center em relação a renovações, estrutura de conta, entrada, funções de usuário, competências e muito mais.
@@ -9,17 +9,17 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migração, mover para o Partner Center
 ms.localizationpriority: high
-ms.openlocfilehash: d44781b17a3ecd63b0573a389c0c4790f1370860
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: fba77a2a346972ea3d3dbc7e849a9e1c9a693ddb
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340174"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123315"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Migração do PMC para o Partner Center
 
 **Funções apropriadas**
--   Administrador global
+-    Administrador global
 
 Estamos tornando mais fácil para você fazer negócios conosco, introduzindo um único site (Partner Center) que serve como um ponto central de envolvimento. Você descobrirá que tudo o que fazia no PMC (Partner Membership Center) pode ser realizado em seu painel no Partner Center. 
 
@@ -37,13 +37,13 @@ Esta tabela apresenta algumas das diferenças entre o PMC e o Partner Center.
 
 |**PMC**   |**Partner Center**|
 |----------------------|:-----------------------------|
-|Sede mais localizações – cada uma avaliada separadamente. A avaliação de competências foi feita no nível local|Uma empresa global, sua PGA (conta global do parceiro), incluindo locais, avaliada como um todo; dados de desempenho e habilidades agregados no nível de PGA; inclui várias exibições de perfil para programas como Perfil de parceiro e perfil de negócios para referências e marketing. Para obter mais informações, veja [A estrutura de conta no Partner Center](https://docs.microsoft.com/partner-center/account-structure.md).|
+|Sede mais localizações – cada uma avaliada separadamente. A avaliação de competências foi feita no nível local|Uma empresa global, sua PGA (conta global do parceiro), incluindo locais, avaliada como um todo; dados de desempenho e habilidades agregados no nível de PGA; inclui várias exibições de perfil para programas como Perfil de parceiro e perfil de negócios para referências e marketing. Para obter mais informações, veja [A estrutura de conta no Partner Center](account-structure.md).|
 
 ## <a name="sign-in"></a>Entre
 
 |**PMC**   |**Partner Center**|
 |----------------------|:-----------------------------|
-|Era possível usar suas credenciais de MSA (conta Microsoft) ou de conta pessoal (joe@outlook.com)|Você precisa usar suas credenciais de conta corporativa, (joe@joescompany.com). Para obter mais informações, confira [Sua conta corporativa e o Partner Center](https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center.md).|
+|Era possível usar suas credenciais de MSA (conta Microsoft) ou de conta pessoal (joe@outlook.com)|Você precisa usar suas credenciais de conta corporativa, (joe@joescompany.com). Para obter mais informações, confira [Sua conta corporativa e o Partner Center](azure-active-directory-tenants-and-partner-center.md).|
 
 ## <a name="user-roles"></a>Funções de usuário
 
@@ -51,7 +51,7 @@ Esta tabela apresenta algumas das diferenças entre o PMC e o Partner Center.
 |----------------------|:-----------------------------|
 |Muitas funções no PMC não são usadas no Partner Center|O administrador que realiza a migração para o Partner Center recebe automaticamente as funções de Administrador do MPN, Administrador da Conta e Administrador de Referências. Em seguida, eles podem atribuir outros usuários a funções de usuário.|
 |Os usuários eram gerenciados no nível de local|Os usuários são gerenciados no nível da empresa (PGA) em vez de no nível de local. A exceção é o Administrador de incentivos, que funciona no nível de local.|
-|   |O Partner Center tem dois amplos conjuntos de funções: as funções que administram o locatário do Azure AD e as funções que administram os negócios da empresa. Organize as funções da maneira que faz sentido para sua empresa. Uma pessoa pode fazer tudo ou várias pessoas podem receber funções e permissões separadas. Para obter mais informações, confira [Atribuir funções e permissões de usuário](https://docs.microsoft.com/partner-center/permissions-overview). 
+|   |O Partner Center tem dois amplos conjuntos de funções: as funções que administram o locatário do Azure AD e as funções que administram os negócios da empresa. Organize as funções da maneira que faz sentido para sua empresa. Uma pessoa pode fazer tudo ou várias pessoas podem receber funções e permissões separadas. Para obter mais informações, confira [Atribuir funções e permissões de usuário](permissions-overview.md). 
 
 ## <a name="how-competencies-and-benefits-are-accounted-for"></a>Como as competências e os benefícios são contabilizados
 
