@@ -178,7 +178,7 @@ As funções dos incentivos no Partner Center são baseadas na localização e i
 
 **Com relação às indicações, quantos perfis comerciais podemos criar?**
 
-Sua empresa poderá criar quantos perfis comerciais forem necessários para representar totalmente os interesses da sua empresa. Em cada perfil comercial, você pode listar até cinco localizações, uma localização por país. Cada um dos perfis comerciais pode receber indicações para cada uma das localizações.
+Sua empresa poderá criar quantos perfis comerciais forem necessários para representar totalmente os interesses da sua empresa. Em cada perfil comercial, você pode listar até cinco localizações, uma localização por país/região. Cada um dos perfis comerciais pode receber indicações para cada uma das localizações.
 
 **Como as indicações serão atribuídas; quais alterações posso esperar? Por exemplo, se eu tiver uma empresa global em um mercado e localizações em outros mercados, como as indicações serão atribuídas?**
 
