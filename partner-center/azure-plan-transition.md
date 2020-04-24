@@ -11,10 +11,10 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.openlocfilehash: 7bcb27e521e4f3982fd3e0a94f1ed3a96320cfa3
-ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "79023484"
 ---
 # <a name="transition-your-customers-to-azure-plan"></a>Transferir seus clientes para o plano do Azure

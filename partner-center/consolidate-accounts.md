@@ -11,10 +11,10 @@ ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
 ms.openlocfilehash: d6e867d9e78fb7b8d0612cde5f6a57537ad40e77
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80226132"
 ---
 # <a name="consolidate-your-company-accounts"></a>Consolide as contas da empresa

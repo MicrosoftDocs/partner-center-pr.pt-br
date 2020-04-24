@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: PMC, migração, mover para o Partner Center
 ms.localizationpriority: high
 ms.openlocfilehash: fba77a2a346972ea3d3dbc7e849a9e1c9a693ddb
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/11/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "81123315"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Migração do PMC para o Partner Center

@@ -10,10 +10,10 @@ ms.author: jasonh
 keywords: action pack, MAPS, renovar MAPS, renovar action pack, obter action pack
 ms.localizationpriority: high
 ms.openlocfilehash: 2123b2d069aa2ce1fdf1367f0d948c311922d0da
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80390845"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Comprar pela primeira vez ou renovar uma assinatura do Microsoft Action Pack ou as competências silver ou gold

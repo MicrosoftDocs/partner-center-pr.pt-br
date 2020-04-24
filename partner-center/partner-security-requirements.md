@@ -7,13 +7,13 @@ ms.subservice: partnercenter-csp
 description: Uma introdução à habilitação da MFA (Autenticação Multifator) e à adoção da estrutura de Modelo de Aplicativo Seguro, que agora são obrigatórias para parceiros.
 author: isaiahwilliams
 ms.author: iswillia
-keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor de painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
+keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor do painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
 ms.localizationpriority: high
 ms.openlocfilehash: b0fe328008ae56272ddd8e22722071e5858881c8
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/27/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "77672796"
 ---
 # <a name="partner-security-requirements"></a>Requisitos de segurança de parceiros

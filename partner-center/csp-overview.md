@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: Provedor de Soluções na Nuvem, CSP, serviços baseados em nuvem, Azure, Office 365, Dynamics, parceiro CSP, vender no CSP, parceiro direto, parceiro CSP direto, revendedor CSP indireto, CSP direto, CSP indireto, modelo direto, modelo indireto, revendedor indireto, provedor indireto, provedor, distribuidor, programa provedor de soluções na nuvem
 ms.localizationpriority: high
 ms.openlocfilehash: 92e2bda54427cb0323df20b0dc1195791e1292ae
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/21/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80114918"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programa Provedor de Soluções na Nuvem – Vender soluções de nuvem em demanda 

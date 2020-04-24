@@ -10,10 +10,10 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.openlocfilehash: ed929c12b6fec06848bd38e7d2d7962c9dceb0f1
-ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/15/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "76021753"
 ---
 # <a name="compare-azure-offers"></a>Comparar as ofertas do Azure

@@ -11,10 +11,10 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.openlocfilehash: 2d69fb316f2451b57af1e6e850d676c67cde5fa3
-ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/29/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "76812638"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Lista de preços da nova experiência de comércio no CSP para Azure 

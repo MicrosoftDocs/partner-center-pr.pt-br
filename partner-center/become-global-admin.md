@@ -10,10 +10,10 @@ ms.author: labrenne
 ms.localizationpriority: high
 keywords: domínio, verificação de domínio, verificar domínio, administrador global, funções de usuário, permissões
 ms.openlocfilehash: be0811745d2112374ea78964652545feeeb3fbc6
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74722427"
 ---
 # <a name="verify-your-domain-ownership"></a>Verificar sua propriedade do domínio
@@ -24,7 +24,7 @@ ms.locfileid: "74722427"
 
 **Funções apropriadas**
 
-- Administração global
+- Administrador global
 
 Quando sua empresa entrar pela primeira vez no Partner Center, provavelmente, os funcionários não terão recebido as funções necessárias para começar a trabalhar no Partner Center. Para trabalhar no Partner Center, todos precisam ter uma função, que inclua permissões, atribuída a eles.  
 

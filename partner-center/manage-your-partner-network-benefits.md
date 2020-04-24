@@ -10,10 +10,10 @@ ms.author: jasonh
 keywords: MPN, benefícios da associação, associação
 ms.localizationpriority: high
 ms.openlocfilehash: e979fff3ccf676208b58f088fe71a66e1095678d
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80390885"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gerenciar seus benefícios de associação ao Microsoft Partner Network

@@ -11,10 +11,10 @@ ms.author: jasonh
 ms.localizationpriority: high
 ms.custom: seodec18
 ms.openlocfilehash: 35548c12d80c0501c38f8a75f5473f7c36b30511
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80390795"
 ---
 # <a name="manage-your-partner-center-account"></a>Gerenciar sua conta do Partner Center

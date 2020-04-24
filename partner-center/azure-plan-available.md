@@ -11,10 +11,10 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.openlocfilehash: a86d66c3f7a799145d1f5a9bb3561a459e699f97
-ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "79024090"
 ---
 # <a name="available-azure-services-in-azure-csp"></a>Serviços do Azure disponíveis no CSP do Azure

@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: funções, permissões, administrador, agente
 ms.localizationpriority: high
 ms.openlocfilehash: fbff7f353a0055aa645467fccaa049b598b4c880
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/26/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80296394"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Atribuir permissões e funções de usuários

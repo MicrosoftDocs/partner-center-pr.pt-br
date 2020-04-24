@@ -10,18 +10,18 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.openlocfilehash: e9456ae3a154c8040443fb38951b30efd9f39db8
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "75004235"
 ---
 # <a name="partner-earned-credit---overview"></a>Crédito ganho pelo parceiro – visão geral
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 -   Administrador de usuários
--   Agente administrador
+-   Agente administrativo
 -   Administrador de cobrança
 -   Agente de vendas
 
@@ -72,7 +72,7 @@ Esses serviços envolvem um nível apropriado de acesso para parceiros no ambien
 >[!Note]
 >Os clientes têm a opção de remover todos os acessos concedidos aos parceiros. Os parceiros não devem forçar os clientes a atribuir o acesso apropriado com o único propósito de conquistar créditos ganhos pelo parceiro da Microsoft – o não cumprimento desse requisito pode desqualificar o parceiro para pleitear créditos ganhos pelo parceiro.
 
-**Para saber mais**
+**Para obter mais informações**
 
 - [Como o crédito ganho pelo parceiro é calculado e pago](partner-earned-credit-explanation.md)
 

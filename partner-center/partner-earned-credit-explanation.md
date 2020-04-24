@@ -11,18 +11,18 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.openlocfilehash: 776fea7eea91e15f872021356562af05e89f1fcf
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "75004995"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Como o crédito ganho pelo parceiro é calculado e pago
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 -   Administrador de usuários
--   Agente administrador
+-   Agente administrativo
 -   Administrador de cobrança
 -   Agente de vendas
 
@@ -64,7 +64,7 @@ Observação: normalmente, o uso de serviços leva 8-24 horas para aparecer no *
 
 5. Você também pode agrupar pela propriedade **PartnerEarnedCreditApplied** e filtrar por ela, usando os recursos de filtro **Agrupar por e Adicionar** para analisar os custos que têm o PEC aplicado e os custos que não têm nenhum PEC aplicado.
 
- **Para saber mais**
+ **Para obter mais informações**
 
 - [Crédito ganho pelo parceiro – visão geral](partner-earned-credit.md)
 

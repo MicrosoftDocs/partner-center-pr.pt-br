@@ -10,16 +10,16 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.openlocfilehash: be438f48bea120f7d55ab773bdf7cd6a96fc45ab
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "75004935"
 ---
 # <a name="purchase-the-azure-plan"></a>Comprar o plano do Azure
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 -   Administrador de usuários
 -   Agente de vendas
 

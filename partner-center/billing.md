@@ -11,10 +11,10 @@ ms.author: jasonh
 keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções de imposto, arquivos de reconciliação, arquivo de reconciliação
 ms.localizationpriority: high
 ms.openlocfilehash: 33c698648b6e195219ae8b58c36e8fda372685f3
-ms.sourcegitcommit: e8e44bba412e7f4c7ae0abb48fddad1b050f9d47
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/03/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80634802"
 ---
 # <a name="billing-and-taxes"></a>Cobrança e impostos

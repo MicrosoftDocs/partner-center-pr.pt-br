@@ -10,10 +10,10 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.openlocfilehash: 358391db381b546875bf4f76e05a19828f22948e
-ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/06/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80676833"
 ---
 # <a name="microsoft-partner-agreement-mpa-for-csp-partners"></a>MPA (Contrato de Parceiro da Microsoft) para parceiros CSP 

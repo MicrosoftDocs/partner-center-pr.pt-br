@@ -9,10 +9,10 @@ ms.author: labrenne
 ms.localizationpriority: high
 ms.date: 03/23/2020
 ms.openlocfilehash: 0439969c6799ab047c18e51dbed0c0b174ed8f42
-ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/06/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80676793"
 ---
 # <a name="verify-your-partner-profile-information"></a>Verifique suas informações de perfil do parceiro

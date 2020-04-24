@@ -10,10 +10,10 @@ ms.author: iswillia
 keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor do painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
 ms.localizationpriority: high
 ms.openlocfilehash: 72ad7bab25c295fa039e7b29f9d4369c0434814c
-ms.sourcegitcommit: 3668e517902255c59f0311b02d58c7eb527dcdb4
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80529773"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Perguntas frequentes sobre os requisitos de segurança de parceiros
