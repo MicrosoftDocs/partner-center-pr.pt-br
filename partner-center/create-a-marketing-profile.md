@@ -11,10 +11,10 @@ ms.author: labrenne
 keywords: pinpoint, indicações, vendas potenciais, C2PC, perfil de empresa, comercializar sua empresa, localizar um parceiro, localizar um provedor de soluções, perfil de negócios, perfil de marketing
 ms.localizationpriority: high
 ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74722526"
 ---
 <!--
@@ -38,7 +38,7 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 
 - Administrador de conta
 - Administrador de perfis de negócios
-- Administração global
+- Administrador global
 - Administrador de indicações
 
 Como um parceiro qualificado da Microsoft, você pode criar um perfil de negócios para mostrar sua empresa a clientes que estejam procurando suas soluções exclusivas e seus conhecimentos para atender a necessidades de negócios.
@@ -61,13 +61,13 @@ Para aproveitar essas vendas potenciais, primeiramente você deve criar um perfi
 
 Crie perfis para cada região na qual tenha autorização para fazer negócios. 
 
-1. No menu **Partner Center**, selecione **Indicações** &gt; **Perfis de negócios** &gt; selecione um país/região > **[Criar um perfil de negócios](https://partnercenter.microsoft.com/pcv/publishing)** .
+1. No menu **Central de Parceiros**, selecione **Indicações** &gt; **Perfis de negócios** &gt; selecione um país/região > **[Criar um perfil de negócios](https://partnercenter.microsoft.com/pcv/publishing)** .
 
 2. Na página **Criar um perfil de negócios**, selecione uma região e, em seguida, insira as informações do seu perfil.
    > [!NOTE]  
    >  Embora o Partner Center seja compatível com vários idiomas, é possível que alguns elementos, como a descrição e as marcações de forma livre, incluam texto de idiomas diferentes, como observado neste tópico.
 
-### <a href="" id="partner_info"></a>Informações do parceiro
+### <a name="partner-information"></a><a href="" id="partner_info"></a>Informações do parceiro
 
 Apresente sua empresa, adicionando um logotipo, uma breve descrição e um link para seu site. 
 
@@ -84,7 +84,7 @@ Sua descrição pode ter até 2.500 caracteres. Dicas para uma descrição otimi
 -  **Não faça referência a outra empresa parceira da Microsoft pelo nome**, a menos que ela seja uma subsidiária ou afiliada de alguma forma à sua empresa ou que você atualmente tenha um contrato com essa empresa para atuar em parceria e/ou promover uma a outra para oportunidades de trabalho compartilhado.
 -  **Para regiões com vários idiomas**, considere a inclusão de texto de vários idiomas na descrição.
 
-#### <a href="" id="linkedin"></a> Página da empresa no LinkedIn: mais maneiras de se conectar
+#### <a name="linkedin-company-page-more-ways-to-connect"></a><a href="" id="linkedin"></a> Página da empresa no LinkedIn: mais maneiras de se conectar
 
 Adicione sua página de empresa do LinkedIn para fortalecer suas conexões de clientes em potencial. 
 
@@ -107,7 +107,7 @@ Outras marcações usadas em pesquisa:
 -  **Marcações de competência** são uma designação obtida através da apresentação das habilidades da sua empresa.
 -  **Marcações de endosso** são obtidas quando a Microsoft ou seus clientes que trabalharam com você endossam seu trabalho.
 
-#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Permitir que a Microsoft endosse minhas áreas de conhecimento
+#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a><a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Permitir que a Microsoft endosse minhas áreas de conhecimento
 
 É recomendável deixar essa configuração marcada. 
 
@@ -117,13 +117,13 @@ No entanto, se existirem produtos para os quais você fornece serviços que não
 
 ### <a name="customer-preferences"></a>Preferências do cliente
 
-#### <a href="" id="#target_size"></a>Tamanho do destino
+#### <a name="target-size"></a><a href="" id="#target_size"></a>Tamanho do destino
 
 Você poderá recusar as indicações geradas por empresas que não atendem ao seu porte de cliente de destino.
 
 Ao recusá-las, você terá mais tempo para dedicar às empresas compatíveis com sua proposta de trabalho.
 
-#### <a href="" id="#locations"></a> Locais
+#### <a name="locations"></a><a href="" id="#locations"></a> Locais
 
 Você pode adicionar até cinco dos principais locais da sua organização por região. Esses locais aparecem quando os clientes pesquisam por parceiros pela proximidade.
 

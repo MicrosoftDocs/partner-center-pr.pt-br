@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor do painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
 ms.localizationpriority: high
-ms.openlocfilehash: 5c68d86b770286ef916f68eefd93e5648d35999a
-ms.sourcegitcommit: 3668e517902255c59f0311b02d58c7eb527dcdb4
+ms.openlocfilehash: 037194527347aae90f261ce5d417b5ba0e26addf
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "80529785"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "81462206"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Obrigar a MFA (Autenticação Multifator) para seu locatário parceiro
 
@@ -37,15 +37,15 @@ ms.locfileid: "80529785"
 A intenção desse recurso é ajudar os parceiros a proteger o acesso aos recursos do cliente contra o comprometimento das credenciais.
 Os parceiros são obrigados a impor a MFA (Autenticação Multifator) a todas as contas de usuário nos respectivos locatários de parceiros, incluindo o usuário convidado. Com esse recurso, essas funções de parceiros serão obrigadas a concluir a verificação de MFA nas seguintes áreas:
 
-- [Painel do Partner Center](#partner-center-dashboard) (direcionando Q2 CY2020)
-- [API do Partner Center](#partner-center-api) (direcionando Q2 CY2020)
+- [Painel da Central de Parceiros](#partner-center-dashboard) (a partir de 1 de maio de 2020)
+- [API da Central de Parceiros](#partner-center-api) (a partir de 1 de maio de 2020)
 - [Administração Delegada do Parceiro](#partner-delegated-administration)
 
 Garantias de segurança e privacidade maiores e contínuas estão entre as nossas principais prioridades, e continuamos ajudando os parceiros a proteger os clientes e os locatários. Todos os parceiros que participam do programa CSP (Provedor de Soluções na Nuvem), CPVs (fornecedores de painel de controle) e consultores devem implementar os [Requisitos de segurança do parceiro](partner-security-requirements.md) para manter a conformidade.
 
 A Microsoft deu início à ativação de garantias de segurança adicionais para locatários de parceiros. Essa ativação de garantias pode ajudar os parceiros a proteger os locatários e os clientes impondo a verificação de MFA (autenticação multifator) para impedir o acesso não autorizado.
 
-Concluímos com êxito a ativação das funcionalidades de Administração Delegada do parceiro para todos os locatários de parceiros. Para ajudar a proteger ainda mais os parceiros e os clientes, no segundo trimestre de 2020 em diante, iniciaremos a ativação das transações da Central de Parceiros no CSP, ajudando os parceiros a proteger os negócios e os clientes contra incidentes relacionados a roubo de identidade.
+Concluímos com êxito a ativação das funcionalidades de Administração Delegada do parceiro para todos os locatários de parceiros. Para ajudar a proteger ainda mais os parceiros e os clientes, a partir de 1 de maio de 2020, iniciaremos a ativação das transações da Central de Parceiros no CSP, ajudando os parceiros a proteger os negócios e os clientes contra incidentes relacionados a roubo de identidade.
 
 Esta documentação fornece aos parceiros experiência e diretrizes detalhadas sobre a ativação de garantias de segurança.
 
