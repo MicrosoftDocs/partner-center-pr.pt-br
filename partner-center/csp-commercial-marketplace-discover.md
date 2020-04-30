@@ -9,24 +9,24 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: assinaturas, Marketplace, Marketplace comercial, terceiros, ISV, ofertas de SaaS, programa de provedor de soluções na nuvem, programa CSP, parceiros CSP
 ms.localizationpriority: medium
-ms.openlocfilehash: 23a31646165576842b625ec4f05a8da404fae01d
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: 019bef179951ca65018e8d2a68cad156671e445a
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114938"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "81873193"
 ---
 # <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>Descubra ofertas e preços no Marketplace comercial
 
 **Aplica-se a**
 
-- Centro de Parceiros
+- Partner Center
 - Parceiros no programa CSP
 
 **Funções apropriadas**
 
-- Administração global
-- Agente administrador
+- Administrador global
+- Agente administrativo
 
 Quando fornecedores independentes de software (ISVs) optam por publicar uma oferta no Marketplace comercial, eles também podem decidir se querem que a oferta seja disponibilizada no programa CSP. Se eles optarem por vender a oferta por meio do programa CSP, os parceiros CSP deverão ver a oferta na área Partner Center Marketplace. 
 
@@ -78,9 +78,9 @@ Siga estas etapas para obter os detalhes de preços mais recentes associados a u
 
 1. Entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center e selecione **CSP** no menu de navegação à esquerda.
 
-2. Selecione **vender**, seguido pelo **Marketplace**. Uma lista de ofertas do Marketplace será exibida.
+2. Selecione **vender**, seguido de **preços e ofertas**.
 
-3. Role para baixo até a seção **Marketplace** (abaixo do **preço do plano do Azure**) e selecione **Exportar lista de preços** no canto superior direito. Isso gera uma planilha com os dados de preços mais recentes para SaaS e ofertas baseadas em licença disponíveis em editores ISV. Alguns preços de aplicativo do Azure também podem aparecer aqui. Essas informações são atualizadas diariamente, para que você possa verificá-las em relação aos preços atuais com a frequência que escolher.
+3. Role para baixo até a seção **Marketplace** , selecione um local e baixe os **preços do Marketplace**. Isso gera uma planilha com os dados de preços mais recentes para SaaS e ofertas baseadas em licença disponíveis em editores ISV. Alguns preços de aplicativo do Azure também podem aparecer aqui. Essas informações são atualizadas diariamente, para que você possa verificá-las em relação aos preços atuais com a frequência que escolher.
 
 4. Se um produto ISV incluir um período de avaliação gratuita, a planilha exibirá duas linhas para esse produto:
 
@@ -105,6 +105,6 @@ Para saber mais sobre a experiência do ISV no Marketplace comercial, leia [prov
 
 Para obter mais informações sobre a experiência do CSP no Marketplace, leia [visão geral do Marketplace comercial](csp-commercial-marketplace-overview.md).
 
-## <a name="next-steps"></a>{1&gt;{2&gt;Próximas etapas&lt;2}&lt;1}
+## <a name="next-steps"></a>Próximas etapas
 
 - [Comprar ofertas do Marketplace comercial](csp-commercial-marketplace-purchase.md)

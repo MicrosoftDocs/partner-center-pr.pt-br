@@ -1,7 +1,7 @@
 ---
 title: Transição do parceiro de cobrança direto do CSP (provedor de soluções na nuvem) para o revendedor indireto do CSP | Centro de parceiros
 ms.topic: article
-ms.date: 10/04/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Entenda como você fará a transição do parceiro de cobrança direto para o revendedor indireto
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: fatura direta, transição, revendedor indireto
-ms.openlocfilehash: 44823f35d498b8c3d90fcc335682d453f53af977
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: d70ff8ec0b9639ea02ca8e472f720f06aef6f070
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80112489"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205684"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transição do parceiro de fatura direto do CSP (Provedor de Soluções na Nuvem) para o revendedor indireto do CSP
 
@@ -39,15 +39,15 @@ Você poderá se registrar no programa revendedor indireto usando seu locatário
 
     ![Registre-se agora](images/direct/direct2a.png)
 
-4. Selecione registrar agora. Seus negócios indiretos do revendedor usarão o mesmo locatário do AAD que você usa para seus negócios diretos.
+4. Selecione Registrar agora. Seus negócios indiretos do revendedor usarão o mesmo locatário do AAD que você usa para seus negócios diretos.
 
     > [!NOTE]
-    > As informações que o usuário deve observar mesmo se skimmingInitially, esse novo recurso de transição estará disponível para parceiros com datas de aniversário de setembro a dezembro. Se você não tiver uma data de aniversário entre setembro e dezembro, você não verá a capacidade no momento. Os parceiros com datas de aniversário depois de dezembro de 2018 serão notificados mais tarde assim que o recurso for habilitado para os parceiros.
+    > Inicialmente, esse novo recurso de transição estará disponível para parceiros com datas de setembro a dezembro. Se você não tiver uma data de aniversário entre setembro e dezembro, você não verá a capacidade no momento. Os parceiros com datas de aniversário depois de dezembro de 2018 serão notificados mais tarde assim que o recurso for habilitado para os parceiros.
 
 5. Quando seu registro for aprovado, entre no Partner Center novamente.
 
     > [!NOTE]
-    > As informações que o usuário deve observar mesmo se a aprovação de skimmingWhile geralmente é imediata, pode levar até cinco dias úteis. Depois de aprovado, você receberá uma notificação para o endereço de email especificado em contato principal no formulário de registro. Você também pode verificar seu status de registro em **configurações** > **configurações de parceiro** > perfil de **parceiro** > informações do programa.
+    > Embora a aprovação seja normalmente imediata, pode levar até cinco dias úteis. Depois de aprovado, você receberá uma notificação para o endereço de email especificado em contato principal no formulário de registro. Você também pode verificar o status do registro em **configurações** > do**parceiro configurações** > de parceiros perfil de**parceiro** > informações do programa.
 
 6. Na página de **visão geral** , você verá o contrato de revendedor indireto. Selecione **Aceitar e continuar**. Isso habilita os recursos indiretos do revendedor.
 
@@ -56,7 +56,7 @@ Quando você tiver aceitado o contrato de revendedor indireto, observe que seu p
 ![Contrato de revendedor indireto](images/direct/direct3.png)
 
 > [!IMPORTANT]
-> Informações essenciais necessárias para o usuário successOnce registrar-se como um revendedor indireto usando a nova funcionalidade, não há nenhuma opção para reverter para um locatário direto somente de cobrança. Certifique-se de avaliar totalmente suas necessidades de negócios antes de inscrever-se como um revendedor indireto.
+> Depois de se registrar como um revendedor indireto usando a nova funcionalidade, não há nenhuma opção para reverter para um locatário direto somente de cobrança. Certifique-se de avaliar totalmente suas necessidades de negócios antes de inscrever-se como um revendedor indireto.
 
 ## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>Enquanto você faz a transição do revendedor direto para o indireto
 
@@ -64,7 +64,7 @@ Durante essa fase, você continuará a gerenciar as necessidades de assinatura d
 
 ![Você é uma fatura direta e um revendedor indireto](images/direct/direct4.png)
 
-## <a name="find-an-indirect-provider"></a>Encontre um provedor indireto
+## <a name="find-an-indirect-provider"></a>Localizar um provedor indireto
 
 Após o registro, um link para provedores indiretos será exibido na sua barra de navegação à esquerda. Como um revendedor indireto, você estabelecerá uma relação com um provedor indireto que pode manipular sua cobrança, comprar produtos para seus clientes e oferecer suporte à infraestrutura.
 
@@ -96,7 +96,7 @@ Para criar um convite de revendedor indireto:
 
 3. Na próxima página, reveja o rascunho da mensagem de email. Você pode abrir a mensagem de rascunho no email ou pode copiar a mensagem para a área de transferência e colá-la em um email.
 
-4. Edite o texto no email para dizer o que você precisa, mas certifique-se de incluir o link como ele é personalizado para conectar o cliente diretamente à sua conta e à conta do provedor. Em seguida, selecione **concluído**.
+4. Edite o texto no email para dizer o que você precisa, mas certifique-se de incluir o link como ele é personalizado para conectar o cliente diretamente à sua conta e à conta do provedor. Em seguida, selecione **Concluído**.
 
 5. Depois que o cliente autorizar você e seu provedor a ser seus revendedores de registro, você terá permissões de administrador para gerenciar as assinaturas, as licenças e os usuários em nome dele e seu provedor indireto será capaz de enviar pedidos em nome dele.
 6. Para gerenciar a conta, os serviços, os usuários e as licenças do cliente, expanda o registro do cliente selecionando a seta para baixo perto do nome dele. 
@@ -164,7 +164,7 @@ Você pode usar o recurso de extensão de relacionamento de revendedor para esta
 - Depois que a relação do revendedor for estabelecida, o provedor indireto será exibido como um parceiro CSP para o cliente na página relacionamentos de parceiros no [M365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/partners) e no [Microsoft Store for Business](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business).
 
     > [!IMPORTANT]
-    > Para evitar confusão e mal-entendido, você está contratualmente obrigado pelo seu contrato de parceiro para informar e obter consentimento do cliente de fatura direta antes de usar o recurso de extensão de relacionamento para estabelecer a relação de revendedor entre um existente cliente de cobrança direto e um provedor indireto.
+    > Para evitar confusão e mal-entendido, você está contratualmente obrigado pelo seu contrato de parceiro para informar e obter consentimento do cliente de fatura direta antes de usar o recurso de extensão de relacionamento para estabelecer a relação de revendedor entre um cliente de fatura direto existente e um provedor indireto.
 
 Para usar esse recurso em um locatário do cliente existente:
 
@@ -172,15 +172,15 @@ Para usar esse recurso em um locatário do cliente existente:
 
 2. Na **página clientes**, selecione um cliente existente e clique no ícone **links rápidos** para expandir a exibição de resumo do cliente.
 
-3. Em **provedor (es) indireto (s)** , clique em **transferir cliente em um provedor indireto**.
+3. Em **provedor (es) indireto (s)**, clique em **transferir cliente em um provedor indireto**.
 
     ![Transferir cliente para um provedor indireto](images/direct/direct5_1.png)
 
 4. Na caixa de diálogo pop-up, selecione o **provedor indireto** que você gostaria de ter uma relação de revendedor com o cliente.
 
-5. Clique em **salvar e continuar**.
+5. Clique em **Salvar e continuar**.
 
-6. Verifique se o provedor indireto selecionado aparece em **provedor (es) indireto (s)** .
+6. Verifique se o provedor indireto selecionado aparece em **provedor (es) indireto (s)**.
 
     ![Provedor indireto listado](images/direct/direct5_2.png)
 
@@ -196,7 +196,7 @@ Seu provedor indireto não pode enviar pedidos para seus clientes de fatura dire
 
 3. Na próxima página, reveja o rascunho da mensagem de email. Você pode abrir a mensagem de rascunho no email ou pode copiar a mensagem para a área de transferência e colá-la em um email.
 
-4. Edite o texto no email para dizer o que você precisa, mas certifique-se de incluir o link como ele é personalizado para conectar o cliente diretamente à sua conta e à conta do provedor. Em seguida, selecione **concluído**.
+4. Edite o texto no email para dizer o que você precisa, mas certifique-se de incluir o link como ele é personalizado para conectar o cliente diretamente à sua conta e à conta do provedor. Em seguida, selecione **Concluído**.
 
 5. Depois que o cliente autorizar você e seu provedor a ser seus revendedores de registro, você terá permissões de administrador para gerenciar as assinaturas, as licenças e os usuários em nome dele e seu provedor indireto será capaz de enviar pedidos em nome dele.
 
@@ -232,7 +232,7 @@ Antes de usar o recurso, observe o seguinte:
 
 - O cliente [aceitou o contrato de cliente da Microsoft por meio do provedor indireto](#microsoft-customer-agreement-acceptance).
 
-### <a name="how-to"></a>Instruções
+### <a name="how-to-transition-to-indirect-reseller-status"></a>Como fazer a transição para o status de revendedor indireto
 
 O recurso é um processo de 4 etapas, em que:
 
@@ -244,7 +244,24 @@ O recurso é um processo de 4 etapas, em que:
 
 - O parceiro de transição verifica se a solicitação de transferência foi concluída.
 
+
+
+
+### <a name="transitioning-partner---create-transfer-request"></a>Parceiro de transição – criar solicitação de transferência
+
+> [!NOTE]
+> Você também pode usar a [API/SDK do Partner Center](https://docs.microsoft.com/partner-center/develop/manage-customers) para transferir as assinaturas existentes para seu provedor indireto.
+>
+> - [Obter a qualificação de transferência de assinaturas de um cliente](https://docs.microsoft.com/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
+> - [Criar a transferência de um cliente](https://docs.microsoft.com/partner-center/develop/create-a-transfer)
+> - [Retirar a transferência de um cliente](https://docs.microsoft.com/partner-center/develop/withdraw-a-transfer)
+> - [Aceitar a transferência de um cliente](https://docs.microsoft.com/partner-center/develop/accept-a-transfer)
+> - [Rejeitar a transferência de um cliente](https://docs.microsoft.com/partner-center/develop/reject-a-transfer)
+> - [Obter as transferências de um cliente](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)
+> - [Obter detalhes da transferência por ID](https://docs.microsoft.com/partner-center/develop/get-transfer-by-id)
+
 **Parceiro de transição – criar solicitação de transferência**
+
 
 Para criar uma solicitação de transferência como o parceiro de transição:
 
@@ -252,7 +269,7 @@ Para criar uma solicitação de transferência como o parceiro de transição:
 
 2. Na página **clientes** , selecione o cliente desejado e clique no ícone links rápidos para expandir a exibição de resumo do cliente.
 
-3. Em **provedor (es) indireto (s)** , confirme se o provedor indireto pretendido está listado.
+3. Em **provedor (es) indireto (s)**, confirme se o provedor indireto pretendido está listado.
 
 4. Clique em **Exibir assinaturas**.
 
@@ -274,7 +291,7 @@ Para criar uma solicitação de transferência como o parceiro de transição:
 
 10. Informe ao seu provedor indireto que você criou uma solicitação de transferência de assinatura para eles.
 
-**Provedor indireto-aceitar solicitação de transferência**
+### <a name="indirect-provider---accept-transfer-request"></a>Provedor indireto-aceitar solicitação de transferência
 
 Para examinar e aceitar uma solicitação de transferência como o provedor indireto:
 
@@ -282,7 +299,7 @@ Para examinar e aceitar uma solicitação de transferência como o provedor indi
 
 2. Na página **clientes** , selecione o cliente desejado e clique no ícone links rápidos para expandir a exibição de resumo do cliente.
 
-3. Em **revendedor (es) indireto (s)** , confirme se o parceiro de transição está listado.
+3. Em **revendedor (es) indireto (s)**, confirme se o parceiro de transição está listado.
 
 4. Clique em **Exibir assinaturas**.
 
@@ -298,13 +315,13 @@ Para examinar e aceitar uma solicitação de transferência como o provedor indi
 
 8. Aguarde a conclusão da solicitação de transferência.
 
-**Solicitação de transferência de verificação de provedor indireto concluída**
+### <a name="indirect-provider-verify-transfer-request-is-complete"></a>Solicitação de transferência de verificação de provedor indireto concluída
 
 1. Depois que a solicitação de transferência for concluída com êxito, verifique se você pode ver que as assinaturas aparecem em **assinaturas**.
 
 2. Informe o parceiro de transição.
 
-**Parceiro em transição-a solicitação de transferência de verificação foi concluída** 
+### <a name="transitioning-partner---verify-transfer-request-is-complete"></a>Parceiro em transição-a solicitação de transferência de verificação foi concluída 
 
 O parceiro de transição deve fazer o seguinte:
 
@@ -346,8 +363,8 @@ Depois de ter registrado com êxito como um revendedor indireto em seu locatári
 
 Você também está qualificado para se inscrever em programas de incentivo de fatura direta com o mesmo locatário do parceiro. Você deve gerenciar os programas separadamente.
 
-## <a name="see-also"></a>Consulte também
+## <a name="see-also"></a>Veja também
 
-- [Informações adicionais sobre como se tornar um revendedor indireto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 
+- [Mais informações sobre como se tornar um revendedor indireto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 
 - [Novos requisitos do parceiro direto do CSP](direct-partner-new-requirements.md)
 - [Funcionalidades de fatura direta restritas](restricted-direct-bill-capabilities.md)

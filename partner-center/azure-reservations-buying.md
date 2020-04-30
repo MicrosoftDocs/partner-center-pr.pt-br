@@ -1,7 +1,7 @@
 ---
 title: Comprar reservas do Microsoft Azure em nome dos seus clientes | Partner Center
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Saiba como comprar ou comprar reservas do Azure em nome de seus clientes no Partner Center.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: azure, reservas, gerenciar, cobrança, comprar
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1ed6e84a931c609fefb70dbc1081309b244d8e63
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 7fc71e05afe9f8926c0b09df9055dc263b89055b
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722012"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205664"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Comprar Microsoft Azure reservas em nome de seus clientes no Partner Center 
 
@@ -28,16 +28,16 @@ ms.locfileid: "74722012"
 **Funções apropriadas**
 
 - Agente administrativo
-- Administração global
+- Administrador global
 - Agente de suporte técnico
 - Agente de vendas
 - Administrador de gerenciamento de usuário
 
 ## <a name="before-you-begin"></a>Antes de começar
 
-Examine as informações importantes abaixo antes de comprar as reservas do Azure em nome de seus clientes.
+Examine as informações importantes abaixo antes de comprar as reservas do Azure em nome de seus clientes. (Você deseja que os clientes possam comprar suas próprias reservas do Azure de uma assinatura anterior do Azure que você comprou para elas? Consulte [conceder aos clientes permissão para comprar suas próprias reservas do Azure] [dê aos clientes-Permission. MD # dê-Customers-permission-to-compre-seu próprio-Azure-reservas].)
 
-- Se e quando o cliente assina o novo contrato de cliente da Microsoft, [confirme a aceitação do cliente do contrato do cliente da Microsoft](confirm-customer-agreement.md), você deve comprar as reservas do Azure no plano do Azure. Para obter mais informações, leia [comprar Azure Plan](purchase-azure-plan.md).
+- Se e quando seu cliente assinar o novo contrato de cliente da Microsoft (Confira [confirmar a aceitação do cliente do contrato do cliente da Microsoft](confirm-customer-agreement.md)), você deverá comprar as reservas do Azure no plano do Azure. Para obter mais informações, leia [comprar Azure Plan](purchase-azure-plan.md).
 
 - Os clientes já devem ter uma assinatura do Azure ativa antes que você possa comprar reservas em nome deles
   
@@ -47,13 +47,13 @@ Examine as informações importantes abaixo antes de comprar as reservas do Azur
 
 - Os agentes de suporte técnico e de vendas precisam de acesso explícito à assinatura do Azure para que eles possam comprá-la ou gerenciá-la no portal do Azure e nas solicitações de suporte de arquivo, inclusive para trocas e reembolsos, em nome do cliente  
 
-- Se você for um provedor indireto e comprar as reservas do Azure por meio do portal do Azure, o parceiro no registro (revendedor indireto) será herdado da assinatura do Azure CSP que você selecionar.
+- Se você for um provedor indireto e comprar as reservas do Azure por meio do portal do Azure, o parceiro de registro (revendedor indireto) será herdado da assinatura do Azure CSP que você selecionar.
 
-- O parceiro de registro para reservas do Azure não pode ser alterado após a compra. Você pode cancelar a reserva existente e comprar uma nova com o novo Parceiro Registrado.
+- O parceiro de registro para reservas do Azure não pode ser alterado após a compra. Você pode cancelar a reserva existente e comprar uma nova com o novo parceiro de registro.
 
 - Se um cliente quiser transferir uma assinatura do Azure do Direct ou EA para o CSP, as reservas não serão transferidas.
 
-## <a name="azure-reservations-unavailable-markets"></a>Mercados indisponíveis para reservas do Azure
+## <a name="azure-reservations-unavailable-markets"></a>Mercados indisponíveis para as reservas do Azure
 
 >[!IMPORTANT] 
 >As reservas do Azure *não estão* disponíveis nos seguintes mercados:  
@@ -70,7 +70,7 @@ Examine as informações importantes abaixo antes de comprar as reservas do Azur
 > | Azerbaijão       | Guiana     | São Pedro e Miquelon   |
 > | Benin     | Haiti       | São Vicente e Granadinas     |
 > | Butão     | Ilhas Heard e McDonald       | Samoa     |
-> | Bonaire     | Ilha de Man     | São Marinho     |
+> | Bonaire     | Ilha de Man     | San Marino     |
 > | Ilha Bouvet     | Jan Mayen     | São Tomé and Príncipe   |
 > | Território Britânico do Oceano Índico       | Jersey     | Seicheles   |
 > | Ilhas Virgens Britânicas     | Kiribati       | Serra Leoa   |
@@ -79,8 +79,8 @@ Examine as informações importantes abaixo antes de comprar as reservas do Azur
 > | Camboja     | Lesoto     | Ilhas Salomão     |
 > | República Centro-Africana     | Libéria     | Somália     |
 > | Chade     | Madagascar     | Ilhas Geórgia do Sul e Sandwich do Sul     |
-> | China     | Maláui     | Sudão do Sul     |
-> | Ilha Christmas     | Maldivas     | Santa Helena, ascensão e Tristão da Cunha     |
+> | China     | Malaui     | Sudão do Sul     |
+> | Ilha Christmas     | Maldivas     | Santa Helena, Ascensão e Tristão da Cunha     |
 > | Ilhas Cocos (Keeling)     | Máli     | Suriname     |
 > | Ilhas Comores     | Ilhas Marshall     | Svalbard     |
 > | Congo     | Martinica     | Suazilândia     |
@@ -88,9 +88,9 @@ Examine as informações importantes abaixo antes de comprar as reservas do Azur
 > | Ilhas Cook     | Mayotte     | Togo   |
 > | Djibuti     | Micronésia     | Tokelau   |
 > | Dominica     | Montserrat     | Tonga   |
-> | Guiné Equatorial     | Moçambique     | Ilhas Turks e Caicos   |
+> | Guiné Equatorial     | Moçambique     | Ilhas Turcas e Caicos   |
 > | Eritreia     | Myanmar     | Tuvalu   |
-> | Ilhas Malvinas     | Nauru     | Territórios Insulares dos EUA   |
+> | Ilhas Malvinas     | Nauru     | Territórios Insulares Ilhas Menores Distantes dos EUA   |
 > | Guiana Francesa     | Nova Caledônia     | Vanuatu   |
 > | Polinésia Francesa     | Níger     | Cidade do Vaticano   |
 > | Territórios Austrais Franceses     | Niue     | Wallis e Futuna   |
@@ -100,7 +100,7 @@ Examine as informações importantes abaixo antes de comprar as reservas do Azur
 
 ## <a name="purchase-azure-reservations"></a>Comprar reservas do Azure
 
-Siga as etapas abaixo para comprar Microsoft Azure reservas em nome de seus clientes no Partner Center.
+Siga as etapas abaixo para comprar Microsoft Azure reservas em nome de seus clientes no Partner Center. (Você deseja que os clientes possam comprar suas próprias reservas do Azure de uma assinatura anterior do Azure que você comprou para elas? Consulte [conceder aos clientes permissão para comprar suas próprias reservas do Azure](give-customers-permission.md).)
 
 1. Selecione **clientes** no menu do centro de parceiros.  
 
@@ -149,13 +149,8 @@ Siga as etapas abaixo para comprar Microsoft Azure reservas em nome de seus clie
 ## <a name="azure-reservations-resources"></a>Recursos de reservas do Azure
 |**Para obter informações sobre**   |**Leia isto**    |
 |:-----------------------------|:-----------------|
-|Reservas do Azure na visão geral do CSP  | [Vender Microsoft Azure instâncias reservadas](azure-reservations.md) |
+|Reservas do Azure na visão geral do CSP  | [Vender Instâncias Reservadas do Microsoft Azure](azure-reservations.md) |
 |Gerenciando reservas do Azure no Partner Center | [Gerenciando reservas do Azure no Partner Center](azure-reservations-manage.md)
 |Determinar o tamanho correto da VM e verificar o uso da VM do cliente   |[Dimensionamento de VM para uso máximo de reserva do Azure](azure-usage.md)   |
-|Como comprar reservas do Azure usando a API do Partner Center | [Comprar Instâncias de VM Reservadas do Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) na documentação do desenvolvedor do Partner Center
-|
-
- 
-
-
- 
+|Como comprar reservas do Azure usando a API do Partner Center | [Comprar Instâncias de VM Reservadas do Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) na documentação do desenvolvedor do Partner Center   |
+|Oferecendo aos clientes permissão para comprar suas próprias reservas do Azure  | [Dê permissão aos clientes para comprar suas próprias reservas do Azure](give-customers-permission.md)  |

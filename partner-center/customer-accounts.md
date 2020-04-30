@@ -1,7 +1,7 @@
 ---
 title: Contas de clientes | Partner Center
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 04/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Encontre recursos para parceiros revendedores no Partner Center. Isso inclui a necessidade de criar contas de clientes antes de vender assinaturas, faturas ou oferecer suporte.
@@ -9,12 +9,12 @@ ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4ecaa4f5de9d27bd829f5c3929f0c8e174a87247
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 6d1090aab2c9678149dba8ab051e6e49f0f5c42a
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721389"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205764"
 ---
 # <a name="customer-accounts"></a>Contas de clientes
 
@@ -25,7 +25,7 @@ ms.locfileid: "74721389"
 
 **Funções apropriadas**
 
-- Administração global
+- Administrador global
 - Agente administrativo
 - Agente de vendas
 - Agente de suporte técnico
@@ -38,4 +38,5 @@ Como parceiro de revendedor, você deve fazer uma conta para cada um de seus cli
 |-----------------|:----------------------------|:--------------|
 |Obter novos clientes|Os revendedores indiretos conectam-se a [provedores indiretos](indirect-reseller-tasks-in-partner-center.md) que indicarão você aos clientes. Você deve verificar se o seu [perfil de negócios](create-a-marketing-profile.md) está atualizado também. Quando você e um cliente concordarem em [trabalhar juntos](responding-to-referrals.md), [adicione-o](add-a-new-customer.md) à sua conta. Os parceiros diretos devem ler [Solicitar uma relação com um cliente](request-a-relationship-with-a-customer.md).|Parceiros CSP|
 |Adicionar clientes existentes à sua conta   | Os clientes com quem você está usando em outros portais, como o Office 365, aparecerão na sua [lista de clientes](see-your-customer-list.md) no Partner Center. Você precisará [estabelecer relacionamentos de revendedor](indirect-reseller-tasks-in-partner-center.md) com outros clientes existentes. Para fazer isso, envie um convite por email [para se conectar](responding-to-referrals.md) com você no Partner Center.   | Parceiros CSP   |
-|Gerenciar todas as informações dos clientes   | Adicionar ou remover clientes, ou [encerrar um relacionamento com cliente](remove-a-relationship.md)|   Parceiros CSP |
+|Encerrar ou restabelecer um relacionamento com o cliente   | Adicionar ou remover clientes ou [encerrar um relacionamento com o cliente](remove-a-relationship.md).  |   Parceiros CSP |
+|Permitir que os clientes comprem seus próprios serviços   | [Dê permissão aos clientes para comprar seus próprios produtos ou serviços](give-customers-permission.md), como comprar suas próprias reservas do Azure de uma assinatura anterior que você comprou para eles.  | Parceiros CSP |

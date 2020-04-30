@@ -1,7 +1,7 @@
 ---
 title: Centro de parceiros – visão geral das reservas de Microsoft Azure | Centro de parceiros
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Saiba como os provedores de soluções na nuvem podem comprar, vender ou gerenciar reservas do Azure para clientes que usam o Partner Center, o portal do Azure ou a API do Partner Center.
@@ -10,14 +10,14 @@ ms.author: labrenne
 keywords: azure, reservas, gerenciar, cobrança, compra, Azure RI, Instâncias Reservadas do Azure
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f6d6e073d33baafe8ca65c8b06b2e2097c350cbd
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: eb103e3e3255dd899e72a6dc8496415c50438cbf
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722264"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205724"
 ---
-# <a name="partner-center---sell-microsoft-azure-reservations"></a>Centro de parceiros-venda Microsoft Azure reservas
+# <a name="partner-center---sell-microsoft-azure-reservations"></a>Partner Center – vender Reservas do Microsoft Azure
 
 <!--Maggie, 12/7/18 - Added "Partner Center" to metadata title and H1 title as per Catherine Watson in bug #19868631-->
 
@@ -30,7 +30,7 @@ ms.locfileid: "74722264"
 **Funções apropriadas**
 
 - Agente administrativo
-- Administração global
+- Administrador global
 - Agente de suporte técnico
 - Agente de vendas
 - Administrador de gerenciamento de usuário
@@ -50,7 +50,7 @@ As reservas do Azure podem atrair clientes das seguintes maneiras:
 - As reservas do Azure fornecem a base para soluções de infraestrutura de ponta a ponta quando combinadas com software como o Microsoft Windows Server e o banco de dados SQL do Azure
 
 >[!NOTE]
-> Você pode comprar, vender e gerenciar reservas do Azure no Partner Center e no portal do Azure e usando a API do Partner Center. Siga os links abaixo para saber como.
+> Você pode comprar, vender e gerenciar reservas do Azure no Partner Center e no portal do Azure e usando a API do Partner Center. Você também pode conceder a seus clientes permissão para comprar suas próprias reservas do Azure de uma assinatura do Azure que você comprou para elas. Siga os links abaixo para saber como.
 
 ## <a name="azure-reservations-resources"></a>Recursos de reservas do Azure
 
@@ -60,4 +60,5 @@ As reservas do Azure podem atrair clientes das seguintes maneiras:
 |Comprando reservas do Azure para seus clientes no Partner Center   |[Comprar reservas do Azure](azure-reservations-buying.md)
 |Gerenciando reservas do Azure no Partner Center | [Gerenciando reservas do Azure no Partner Center](azure-reservations-manage.md)
 |Determinando o tamanho correto da VM e verificando o uso da VM do cliente   |[Dimensionamento de VM para uso máximo de reserva do Azure](azure-usage.md)   |
-|Como comprar reservas do Azure usando a API do Partner Center | [Comprar Instâncias de VM Reservadas do Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) na documentação do desenvolvedor do Partner Center
+|Como comprar reservas do Azure usando a API do Partner Center | [Comprar Instâncias de VM Reservadas do Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) na documentação do desenvolvedor do Partner Center   |
+|Conceder aos clientes permissão para comprar suas próprias reservas do Azure de sua assinatura do CSP. | [Dê permissão aos clientes para comprar suas próprias reservas do Azure](give-customers-permission.md)   |
