@@ -10,81 +10,86 @@ author: brentserbus
 ms.author: brserbus
 keywords: crédito de retenção de imposto, créditos de impostos, formulário de crédito de imposto alemão, certificados de imposto
 ms.localizationpriority: medium
-ms.openlocfilehash: ea99adb0bc2b9e010290ce7a74afe07c8b111888
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: 52c99ac2189a00ea781cc5a758c7b8d27740fe1b
+ms.sourcegitcommit: 1125391fd9a1ded2a051968b3a280a10676ed8bb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80112465"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "82741042"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Verifique se você está creditado para a retenção de imposto
+# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Verifique se você é creditado pelo imposto retido na fonte
 
 Aplica-se a:
 
-- Centro de Parceiros
-
-Este tópico explica como certificar-se de que você é creditado para a retenção de imposto no Partner Center. Ele explica como criar uma solicitação de retenção de imposto no Partner Center.
+- Partner Center
 
 ## <a name="overview"></a>Visão geral
 
-Os parceiros CSP em alguns países recebem valores de fatura que incluem impostos. Alguns desses parceiros pagam sua autoridade de imposto local em vez da Microsoft. Esses parceiros precisam enviar uma solicitação de retenção de imposto incluindo seu certificado de imposto para limpar o valor tributado das notas fiscais anteriores. Esses valores limpos são mostrados como créditos em faturas mensais subsequentes, de modo que o parceiro não precisa mais ser o valor não pago da Microsoft.
+Os parceiros CSP em alguns países recebem valores de fatura que incluem impostos. Alguns desses parceiros pagam sua autoridade de imposto local em vez da Microsoft. Se você pagar sua autoridade de imposto local, precisará enviar uma solicitação de retenção de imposto incluindo seu certificado de imposto para limpar o valor tributado das notas fiscais anteriores. Esses valores limpos são mostrados como créditos em faturas mensais subsequentes, portanto, você não conseguirá mais o pagamento da Microsoft para impostos.
 
-A partir de janeiro de 2020, os parceiros CSP devem enviar solicitações de retenção de imposto na **página de cobrança** em vez de criar solicitações de suporte. Para enviar as solicitações na página de cobrança, os parceiros CSP devem ir para o **Partner Center** e selecionar **cobrança** na navegação à esquerda. A **página de cobrança** é o novo local para enviar solicitações de retenção de imposto. 
+A partir de janeiro de 2020, os parceiros CSP devem enviar solicitações de retenção de imposto na **página de cobrança** em vez de criar solicitações de suporte. 
 
 > [!IMPORTANT]
 > Os parceiros podem enviar solicitações de retenção de imposto apenas para faturas **pagas** .
 
-### <a name="submit-a-new-tax-withholding-request"></a>Enviar uma nova solicitação de retenção de imposto
+## <a name="submit-a-tax-withholding-request"></a>Enviar uma solicitação de retenção de imposto
 
 Siga estas etapas para enviar uma nova retenção de imposto:
 
-1. Entre no painel do Partner Center.
-2. No menu à esquerda, escolha **cobrança**
-3. Localize a fatura para a qual você deseja enviar a retenção de imposto na seção **histórico de cobrança** da página de **cobrança** .
-4. Clique em **Enviar novo** , que levará você para a nova página de **solicitação de retenção de imposto** .
+1. Entre no [Painel](https://partner.microsoft.com/dashboard/home) do Partner Center.
+
+2. No menu à esquerda, escolha **cobrança** e vá para histórico de **cobrança**.
+
+3. Clique em **Enviar novo** , que levará você para a nova página de **solicitação de retenção de imposto** .
 
 ![Enviar nova retenção de imposto para uma fatura](images/wht1.png)
 
-5. Examine os detalhes da fatura para garantir que você está enviando a solicitação para a fatura correta.
+4. Examine os detalhes da fatura para garantir que você está enviando a solicitação para a fatura correta.
 
 ![Detalhes de retenção de imposto completos para uma fatura](images/wht2.png)
 
-6. Insira o "total de retenção" em **detalhes de retenção de imposto**. O "total de retenção" é o valor que você espera que seja creditado.
-7. **Anexe** um certificado de imposto. Você precisará incluir uma **cópia digital** dos certificados de **retenção** de imposto em sua solicitação de retenção de imposto. Você recebeu esse certificado de sua agência de impostos local quando enviou sua solicitação no Partner Center. O valor do imposto sobre a fatura no certificado de retenção de imposto deve corresponder ao valor total em sua solicitação de retenção de imposto. 
+5. Insira o "total de retenção" em **detalhes de retenção de imposto**. O "total de retenção" é o valor que você espera que seja creditado.
+
+6. **Anexe** um certificado de imposto. Você precisará incluir uma **cópia digital** do seu **certificado de retenção** de imposto em sua solicitação de retenção de imposto. Você recebeu esse certificado de sua agência de impostos local ao pagar seus impostos à sua autoridade de imposto local. O valor do imposto sobre a fatura no certificado de retenção de imposto deve corresponder ao valor total em sua solicitação de retenção de imposto. 
 
 > [!IMPORTANT]
-> A quantidade de totais que o parceiro fornece deve corresponder ao item de linha da fatura do certificado de imposto anexado. Os arquivos de certificado de imposto anexado devem ser um dos seguintes formatos de arquivo:. Somente PDF e imagem (. JPEG,. PNG e. GIF). Além disso, os nomes de arquivos não devem conter espaços ou caracteres especiais.
+> A quantidade de totais que o parceiro fornece deve corresponder ao item de linha da fatura do certificado de imposto anexado. Os arquivos de certificado de imposto anexado devem estar em um dos seguintes formatos de arquivo:. Somente PDF ou imagem (. JPEG,. PNG e. GIF). Além disso, os nomes de arquivos não devem conter espaços ou caracteres especiais.
 
-8. **Envie** a solicitação de retenção de imposto.
+7. **Envie** a solicitação de retenção de imposto.
 
-Depois de enviada, a solicitação entrará no processo de aprovação, onde será aprovada para conclusão ou enviada de volta ao parceiro se forem necessárias correções. Os parceiros podem exibir o status de suas solicitações no **histórico de cobrança** em que foram enviadas a nova solicitação. A ID e o status da solicitação serão exibidos no **histórico de cobrança**.
+Depois de enviado, a solicitação entrará no processo de aprovação, onde será aprovada para conclusão ou enviada para você se as correções forem necessárias. Exiba a ID de solicitação e o status de suas solicitações e no **histórico de cobrança** para o qual você enviou a nova solicitação. 
 
-As solicitações enviadas ao parceiro permitirão que o parceiro altere a quantidade de retenção e substitua o certificado se houver um problema com ele. 
+Se sua solicitação for enviada de volta para você, você poderá alterar a quantidade de retenção e substituir o certificado se houver um problema com ele. 
 
-### <a name="update-request-and-resubmit"></a>Atualizar solicitação e reenviar
+## <a name="update-request-and-resubmit"></a>Atualizar solicitação e reenviar
 
-A equipe de análise pode exigir que o parceiro faça correções e reenvie uma solicitação antes que ela possa ser aprovada. Eles alterarão o status para "ação de parceiro pendente". Para corrigir e reenviar a solicitação:
+A equipe de revisão pode exigir que você faça correções e reenvie uma solicitação antes que ela possa ser aprovada. Eles alterarão o status para "ação de parceiro pendente". Para corrigir e reenviar a solicitação:
  
-1. Entre no painel do Partner Center.
+1. Entre no [Painel](https://partner.microsoft.com/dashboard/home) do Partner Center.
+
 2. No menu à esquerda, escolha **cobrança**
-3. No **histórico de cobrança**da página de **cobrança** , localize a solicitação de retenção de imposto. As solicitações que precisam de atenção do parceiro terão o status "ação do parceiro pendente"
+
+3. No **histórico de cobrança**da página de **cobrança** , localize a solicitação de retenção de imposto. As solicitações que precisam de atenção terão o status "ação de parceiro pendente".
+
 4. Clique na ID da solicitação de retenção de imposto e no status que levará você para a página da solicitação.
+
 5. Selecione "atualizar e reenviar" em **status**.
+
 6. Revise os comentários restantes pelos revisores realçando o que precisa ser alterado.
+
 7. Faça as correções reenviando um certificado atualizado ou ajustando os valores de retenção.
+
 8. **Envie** a solicitação. 
 
 Isso enviará a solicitação de volta para a equipe de revisão, na qual ela aprovará ou solicitará mais alterações.
  
 ### <a name="approved-requests"></a>Solicitações aprovadas
 
-As solicitações de retenção de imposto aprovadas serão executadas na próxima fatura do parceiro, gravando o valor devido, desde que a certificação prove que o parceiro pagou esse valor à sua autoridade de imposto local.
+As solicitações de retenção de imposto aprovadas serão executadas em sua próxima fatura, gravando o valor devido. Isso será exibido como um crédito em sua fatura. 
 
-O processamento das solicitações de retenção de imposto deve levar dois dias para ser concluído, supondo que o certificado de imposto e o valor estejam corretos. Se houver alterações necessárias, isso pode levar mais tempo, solicitando que o parceiro faça correções antes de reenviar.
-
-Após a conclusão, as notas fiscais de meses a seguir devem refletir as alterações na forma de um crédito.
+O processamento das solicitações de retenção de imposto deve levar dois dias para ser concluído, supondo que o certificado de imposto e o valor estejam corretos. Se houver alterações necessárias, isso levará mais tempo, devido às correções que precisam ser feitas e reenviadas.
  
-Perguntas sobre o envio de uma solicitação de retenção de imposto podem ser resolvidas criando um tíquete de suporte no Partner Center. Perceber uma ID de solicitação de retenção de imposto será um campo obrigatório para resolver perguntas.
+Se você tiver dúvidas sobre o processo de solicitação de crédito de retenção de imposto, envie um tíquete para o suporte do parceiro. Você precisará da ID da solicitação de retenção de imposto para resolver perguntas.
 
 ## <a name="german-tax-withholding"></a>Retenção de imposto alemão
 
