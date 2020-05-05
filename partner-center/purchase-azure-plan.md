@@ -1,7 +1,7 @@
 ---
 title: Comprar o plano do Azure | Partner Center
 ms.topic: article
-ms.date: 11/03/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como adquirir uma ou várias assinaturas e reservas do Azure no plano do Azure para configurar recursos e exibir ou adicionar assinaturas.
@@ -9,19 +9,19 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: be438f48bea120f7d55ab773bdf7cd6a96fc45ab
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 9ed6e3795fa27ac63fbcd4eee46c4ff00d2c296d
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "75004935"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205744"
 ---
 # <a name="purchase-the-azure-plan"></a>Comprar o plano do Azure
 
 **Funções apropriadas**
--   Administrador global
--   Administrador de usuários
--   Agente de vendas
+-    Administrador global
+-    Administrador de usuários
+-    Agente de vendas
 
 Quando você adquire um plano do Azure para seus clientes sob o contrato do cliente da Microsoft, você tem acesso ao catálogo completo dos serviços do Azure mais recentes com tarifas pagas conforme o uso. Os parceiros CSP agora serão capazes de acessar qualquer serviço do Azure quando ele estiver disponível ao público geral. Um parceiro pode ter várias assinaturas do Azure em um único plano do Azure. 
 
@@ -58,9 +58,9 @@ Você retorna à página **Adicionar um produto**, na qual você pode ver que o 
 
 ## <a name="purchase-azure-reservations-under-the-azure-plan"></a>Comprar reservas do Azure no plano do Azure 
   
-Você também pode comprar reservas do Microsoft Azure no âmbito do plano do Azure, em nome de seus clientes no Partner Center.
+Você também pode comprar reservas do Microsoft Azure no âmbito do plano do Azure, em nome de seus clientes no Partner Center. (Ou, se você preferir, pode [conceder permissão para que seus clientes comprem suas próprias reservas do Azure](give-customers-permission.md) de uma assinatura anterior que você tenha comprado para eles.)
 
-1. No menu do Partner Center em seu [painel](https://partner.microsoft.com/dashboard/), selecione **Clientes**. Localize o cliente que deseja comprar reservas do Azure e, em seguida, selecione a seta para baixo para expandir a linha do cliente. 
+1. No menu do Partner Center em seu [painel](https://partner.microsoft.com/dashboard/), selecione **Clientes**. Localize o cliente que deseja comprar reservas do Azure e, em seguida, selecione a seta para baixo para expandir a linha do cliente.
 
 2. Selecione **Adicionar produtos** e, em seguida, selecione **Azure**. 
 - Escolha o segmento de mercado do cliente na lista de **Segmentos**. 
@@ -74,7 +74,7 @@ As reservas do Azure devem estar associadas a um plano do Azure ativo. Escolha o
 
 Observe que o escopo da reserva só pode ser definido como **Compartilhado**, no momento. 
 
-![scopeshared](images/azure/addprods1.png)
+![Configuração de reservas de escopo compartilhado](images/azure/addprods1.png)
 
 Para gerenciar a reserva do cliente no portal do Azure: 
 
@@ -86,7 +86,7 @@ Para gerenciar a reserva do cliente no portal do Azure:
 
 Na página **Assinaturas**, na seção com base no uso, expanda **plano do Azure** para ver as assinaturas do Azure associadas no âmbito plano do Azure.
 
-![Exibição](images/azure/addprods2.png) 
+![Exibir lista de assinaturas do Azure](images/azure/addprods2.png) 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Adicionar assinaturas e configurar recursos

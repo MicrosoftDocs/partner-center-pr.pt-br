@@ -9,12 +9,12 @@ ms.author: labrenne
 keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor do painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
 ms.localizationpriority: high
 ms.topic: conceptual
-ms.openlocfilehash: 2fc0926f2277cea8eebd7157af44338aabfaa94c
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: c398c8f2490d3f0785fa7b836a8b0e077ca46bce
+ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80136315"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "82120387"
 ---
 # <a name="partner-security-requirements-status"></a>Status dos requisitos de segurança do parceiro
 
@@ -34,7 +34,7 @@ As maiores proteções de privacidade e segurança estão entre nossas principai
 
 A partir de 1º de agosto de 2019, todos os parceiros são obrigados a impor a autenticação multifator a todos os usuários, incluindo as contas de serviço, em seu locatário de parceiro. Para obter informações mais detalhadas sobre as novas políticas de segurança, leia [Requisitos de Segurança do Parceiro](partner-security-requirements.md).
 
-Queremos garantir que cada usuário tenha um desafio de MFA para toda autenticação única. Para fazer isso, devemos adotar uma das seguintes opções:
+Queremos garantir que cada usuário tenha um desafio de MFA para toda autenticação única. Para que isso seja alcançado, devemos adotar uma das seguintes opções:
 
 - Implementar o Azure AD Premium e garantir que a MFA seja imposta para cada usuário
 - Implementar os [padrões de segurança do Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
@@ -55,7 +55,7 @@ O relatório de MFA do Partner Center oferece insights sobre a implementação d
 
 Essa métrica está relacionada à configuração de MFA em um locatário de CSP que é capturado e relatado diariamente. Ele mede o percentual de contas de usuário habilitadas com a MFA imposta usando qualquer uma das [opções de MFA](https://aka.ms/partner-mfa-get-started). Por exemplo:
 
-- A Contoso é um parceiro CSP com 110 contas de usuário no locatário, 10 das quais estão desabilitadas. 
+- A Contoso é um parceiro CSP com 110 contas de usuário no locatário, das quais 10 estão desabilitadas. 
 - Das 100 contas de usuário restantes, 90 têm o uso de MFA imposto pelas [opções de MFA](https://aka.ms/partner-mfa-get-started) fornecidas. Portanto, a métrica mostra 90%. 
 
 ### <a name="partner-center-activities-with-mfa"></a>Atividades do Partner Center com MFA
@@ -70,8 +70,10 @@ Essa métrica está relacionada às atividades no Painel do Partner Center. Ela 
 - No primeiro dia, Jane se conectou ao Painel do Partner Center sem a verificação da MFA e fez três operações.
 - No segundo dia, John se conectou ao Painel do Partner Center sem a verificação da MFA e fez cinco operações.
 - No terceiro dia, Jane se conectou ao Painel do Partner Center com a verificação da MFA e fez duas operações.
-- Nenhuma outra operação foi realizada por nenhum dos agentes nos 4 dias restantes.
-- Das 10 operações feitas na janela de 7 dias, 2 foram feitas pelo usuário com a verificação de MFA. Portanto, a métrica mostrará 20%.
+- Nenhuma outra operação foi realizada pelos agentes nos quatro dias restantes.
+- Das dez operações feitas na janela de sete dias, duas foram feitas pelo usuário com a verificação de MFA. Portanto, a métrica mostrará 20%.
+
+Use o arquivo **Solicitações do portal sem MFA** para entender qual usuário fez logon no Painel do Partner Center sem ter a verificação de MFA e a hora da última visita durante a janela de relatório.
 
 #### <a name="appuser-authentication"></a>Autenticação aplicativo + usuário
 
@@ -79,10 +81,15 @@ Essa métrica está relacionada ao uso de solicitações de API do Partner Cente
 
 - a Fabrikam é um parceiro CSP e tem um aplicativo CSP que usa uma combinação de autenticação aplicativo + usuário e métodos de autenticação somente por aplicativo.
 - No primeiro dia, o aplicativo fez três solicitações de API que foram apoiadas por um token de acesso obtido por meio do método de autenticação Usuário + Aplicativo, sem a verificação da MFA.
-- No segundo dia, o aplicativo fez cinco solicitações de API que foram apoiadas por um token de acesso obtido usando a autenticação somente por aplicativo.
-- No terceiro dia, o aplicativo fez duas solicitações de API que foram apoiadas por um token de acesso obtido por meio do método de autenticação Usuário + Aplicativo, com a verificação da MFA.
+- No segundo dia, o aplicativo fez cinco solicitações de API, que foram apoiadas por um token de acesso obtido usando a autenticação somente por aplicativo.
+- No terceiro dia, o aplicativo fez duas solicitações de API, que foram apoiadas por um token de acesso obtido por meio do método de autenticação Usuário + Aplicativo, com a verificação da MFA.
 - Nenhuma outra operação foi realizada pelos agentes nos quatro dias restantes.
-- As cinco solicitações de API no segundo dia que foram apoiadas por um token de acesso obtido por meio da autenticação somente por aplicativo são omitidas da métrica, pois não fazem uso de credenciais de usuário. Das cinco operações restantes, duas foram apoiadas por um token de acesso obtido com a verificação da MFA. Portanto, a métrica mostrará 40%.
+- As cinco solicitações de API no segundo dia, que foram apoiadas por um token de acesso obtido por meio da autenticação somente por aplicativo, são omitidas da métrica, pois não fazem uso de credenciais de usuário. Das cinco operações restantes, duas foram apoiadas por um token de acesso obtido com a verificação da MFA. Portanto, a métrica mostrará 40%.
+
+Se você quiser entender quais atividades de aplicativo + usuário resultam em menos que 100% nessa métrica, use os arquivos:
+
+- **Resumo de solicitações de API** para entender o status geral da MFA por aplicativo.
+- **Todas as solicitações de API** para entender os detalhes de cada solicitação de API feita pelos usuários do seu locatário; o resultado é limitado às 10.000 solicitações mais recentes, para uma melhor experiência de download.
 
 ## <a name="what-should-i-do-if-the-metrics-under-mfa-report-arent-100"></a>O que devo fazer se as métricas do relatório da MFA não forem iguais a 100%
 
@@ -110,17 +117,17 @@ Entenda se a implementação atual só impõe a MFA em condições específicas.
 >[!NOTE]
 >Para parceiros que implementaram a MFA usando os padrões de segurança do Azure AD é importante observar que para as contas de usuário não administrador, a autenticação multifator será imposta com base em risco. Os usuários deverão realizar a MFA somente durante tentativas de entrada suspeitas (por exemplo, quando o usuário estiver entrando de um local diferente). Além disso, os usuários terão até 14 dias para se registrarem para a MFA. Os usuários que não concluíram o registro da MFA não serão desafiados pela verificação de MFA durante esse período de 14 dias. Portanto, espera-se que as métricas não sejam iguais a 100% para parceiros que implementaram a MFA usando os padrões de segurança do Azure AD.
 
-### <a name="are-you-using-3rd-party-mfa-solution"></a>Você está usando uma solução de MFA de terceiros?
+### <a name="are-you-using-third-party-mfa-solution"></a>Você está usando uma solução de MFA de terceiros?
 
-Se você estiver usando uma solução de MFA de terceiros, identifique como está integrando-a com o Azure AD. Em geral, há dois métodos, incluindo a federação e controles personalizados:
+Se estiver usando uma solução de MFA de terceiros, identifique como você a está integrando ao Azure AD. Em geral, há dois métodos, incluindo a federação e controles personalizados:
 
-* **Federação de identidade** – Quando o Azure AD receber uma solicitação de autenticação, ele redirecionará o usuário para o provedor de identidade federada para autenticação. Após a autenticação bem-sucedida, o provedor de identidade federada redirecionará o usuário de volta ao Azure AD juntamente com um token SAML. Para que o Azure AD reconheça que o usuário concluiu a verificação de MFA ao autenticar no provedor de identidade federada, o token SAML deve incluir a declaração *authenticationmethodsreferences* (com o valor *multipleauthn*). Verifique se o provedor de identidade federada é compatível com a emissão de tal declaração. Em caso afirmativo, verifique se o provedor de identidade federada foi configurado para fazer isso. Se a declaração estiver ausente, o Azure AD (e, portanto, o Partner Center) não saberá que o usuário concluiu a verificação de MFA e isso pode fazer com que a métrica não seja igual a 100%.
+* **Federação de identidade** – Quando o Azure AD receber uma solicitação de autenticação, ele redirecionará o usuário para o provedor de identidade federada para autenticação. Após a autenticação bem-sucedida, o provedor de identidade federada redirecionará o usuário de volta ao Azure AD juntamente com um token SAML. Para que o Azure AD reconheça que o usuário concluiu a verificação de MFA ao autenticar no provedor de identidade federada, o token SAML deve incluir a declaração *authenticationmethodsreferences* (com o valor *multipleauthn*). Verifique se o provedor de identidade federada é compatível com a emissão de tal declaração. Em caso afirmativo, verifique se o provedor de identidade federada foi configurado para fazer isso. Se a declaração estiver ausente, o Azure AD (e, portanto, a Central de Parceiros) não saberá que o usuário concluiu a verificação da MFA e a declaração ausente poderá fazer com que a métrica não seja igual a 100%.
 
-* **Controle personalizado** – O Controle Personalizado do Azure AD não pode ser usado para identificar se um usuário concluiu a verificação da MFA por meio de uma solução de MFA de terceiros. Como resultado, todo usuário que tenha concluído a verificação da MFA por meio de um controle personalizado sempre aparecerá no Azure AD (e, em seguida, no Partner Center) como se não houvesse concluído a verificação da MFA. Sempre que possível, é recomendável que você alterne para o uso da Federação de Identidade em vez do Controle Personalizado ao se integrar com o Azure AD.
+* **Controle Personalizado** – O Controle Personalizado do Azure AD não pode ser usado para identificar se um usuário concluiu a verificação da MFA por meio de uma solução de MFA de terceiros. Como resultado, todo usuário que tenha concluído a verificação da MFA por meio de um controle personalizado sempre aparecerá no Azure AD (e, em seguida, no Partner Center) como se não houvesse concluído a verificação da MFA. Sempre que possível, é recomendável que você alterne para o uso da Federação de Identidade em vez do Controle Personalizado ao se integrar com o Azure AD.
 
 ### <a name="identify-which-users-have-logged-into-partner-center-without-mfa"></a>Identificar quais usuários fizeram logon no Partner Center sem a MFA
 
-Pode ser útil identificar quais usuários estão fazendo logon no Partner Center sem a verificação da MFA e verificá-los com sua implementação de MFA atual. Você poderá usar o [relatório de entrada do Azure AD](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins) para descobrir se um usuário concluiu ou não a verificação da MFA. O relatório de entrada do Azure AD está disponível apenas para parceiros que se inscreveram no Azure AD Premium ou em qualquer SKU do O365 que inclui o Azure AD Premium (por exemplo, EMS).
+Pode ser útil identificar quais usuários estão fazendo logon no Partner Center sem a verificação da MFA e verificá-los com sua implementação de MFA atual. Você poderá usar o [relatório de entrada do Azure AD](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins) para descobrir se um usuário concluiu ou não a verificação da MFA. O relatório de conexão do Azure AD está disponível apenas para parceiros que se inscreveram no Azure AD Premium ou em qualquer SKU do O365, o que inclui o Azure AD Premium (por exemplo, EMS).
 
 **Para obter mais informações**
 

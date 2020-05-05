@@ -1,7 +1,7 @@
 ---
 title: Requisitos de competência para associações Gold e Silver da Microsoft | Partner Center
 ms.topic: article
-ms.date: 03/18/2020
+ms.date: 04/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre os requisitos de competência para obter níveis de associação Gold e Silver.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: competências, associação silver, associação gold, mpn, MAPS, proficiência, Microsoft Partner Network, associação de rede, especializações avançadas
 ms.localizationpriority: high
-ms.openlocfilehash: 808cf6feabe1eb1c8ec803aaadb55ab5f3d46240
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: cfd4800265a5cde94ff69f66cf19547b0f13961c
+ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80226212"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "82120377"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Informações sobre as competências silver e gold e as especializações avançadas da Microsoft
 
@@ -31,6 +31,16 @@ Demonstre seu conhecimento comprovado no fornecimento de soluções de qualidade
 - Como um membro parceiro gold, você também pode adicionar especializações avançadas ao seu portfólio.
 
 Ganhar as competências de **Associação Silver** ou **Associação Gold** também desbloqueia poderosas ofertas e programas de [Entrada no mercado](mpn-learn-about-go-to-market-benefits.md) para ajudar você a expandir seus negócios.
+
+## <a name="check-your-status-as-you-earn-a-competency"></a>Verifique seu status enquanto você ganha uma competência
+
+Você pode ver os requisitos e o que sua empresa conquistou na área de competências do Painel do Partner Center.
+
+1. Entre no [Painel](https://partner.microsoft.com/dashboard/home) do Partner Center.
+
+2. Na seção MPN do menu da Central de Parceiros, selecione **Competências**. 
+
+3. Selecione o nome da competência e a opção de competência específica para exibir detalhes. Você pode consultar o que já tiver concluído, todos os requisitos e links para exames específicos e também datas de validação de exames desativados.
 
 ## <a name="competency-areas"></a>Áreas de competência
 

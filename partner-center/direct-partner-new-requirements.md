@@ -1,23 +1,23 @@
 ---
-title: Novos requisitos para parceiros diretos CSP | Partner Center
+title: Requisitos para parceiros de cobrança direta do CSP
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Se você é um parceiro direto do programa CSP, saiba mais sobre os requisitos atualizados de suporte e serviços e como atender a eles.
+Description: Saiba como atender aos mais recentes requisitos de suporte e serviços para se tornar um parceiro de cobrança direto no programa CSP (Provedor de Soluções na Nuvem) da Microsoft.
 author: LauraBrenner
 ms.author: labrenne
 keywords: CSP, parceiro direto, cobrança direta, requisitos
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 461f1ae83af8e99e38ab433fa7204624720bd145
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOAPR.20
+ms.openlocfilehash: de14553d756a718a78e70825e5ef7581aa57b96c
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78340089"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205754"
 ---
-# <a name="csp-direct-bill-partner-new-requirements"></a>Novos requisitos para parceiros diretos CSP
+# <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Requisitos para registro como parceiro de cobrança direta do CSP
 
 **Aplica-se a**
 
@@ -25,7 +25,7 @@ ms.locfileid: "78340089"
 
 ## <a name="enroll-as-a-direct-partner"></a>Registre-se como um parceiro direto
 
-Como um parceiro de cobrança direta, você tem a relação de ponta a ponta com o cliente e com a Microsoft. Atualizamos os requisitos de registro para parceiros de cobrança direta desde 31 de agosto de 2018. Esses novos requisitos ajudarão você a acelerar o desenvolvimento dos seus negócios com o modelo de inscrição no CSP e fortalecer seu relacionamento com os clientes com serviços e suporte de valor agregado.
+Como um parceiro de cobrança direta, você tem a relação de ponta a ponta com o cliente e com a Microsoft. Atualizamos os requisitos de registro para parceiros de cobrança direta desde 31 de agosto de 2018. Esses novos requisitos ajudarão você a acelerar o crescimento do seu negócio com o modelo de registro certo do CSP. Também ajudarão você a fortalecer suas relações com os clientes por meio de serviços de valor agregado e suporte.
 
 ### <a name="minimum-requirements"></a>Requisitos mínimos
 
@@ -33,7 +33,7 @@ Como um parceiro de cobrança direta, você tem a relação de ponta a ponta com
 |--------------------------------|--------------------------------------------------------------|
 |**ID do MPN**   |Uma ID do Microsoft Partner Network (MPN) ativa para o local de sua empresa.    |
 |**Endosso**   |A autoridade de aceitar e assinar contratos legais em nome de sua organização.|
-|**Suporte**   |A capacidade de fornecer o primeiro nível de suporte a produtos em nuvem aos seus clientes. <br>Um plano de suporte da Microsoft, seja o Suporte Avançado para Parceiros (ASfP) ou o Suporte Premier para Parceiros (PSfP), dependendo das necessidades de suporte de seus clientes. [Compare os planos de suporte](https://partner.microsoft.com/support/partnersupport).<br> IMPORTANTE: Você deve obter aprovação em uma verificação de crédito antes de comprar um plano de suporte. Enviaremos um email a você quando você for aprovado na verificação de crédito. |
+|**Suporte**   |A capacidade de fornecer o primeiro nível de suporte a produtos em nuvem aos seus clientes. <br>Um plano de suporte da Microsoft, seja o Suporte Avançado para Parceiros (ASfP) ou o Suporte Premier para Parceiros (PSfP), dependendo das necessidades de suporte de seus clientes. [Compare os planos de suporte](https://partner.microsoft.com/support/partnersupport).<br> IMPORTANTE: Você precisa ser aprovado em uma verificação de crédito antes de poder comprar um plano de suporte. Enviaremos um email a você quando você for aprovado na verificação de crédito. |
 |**Serviço gerenciado**   |Pelo menos um serviço gerenciado, serviço IP ou aplicativo de solução de cliente. Saiba mais sobre como adicionar [serviços gerenciados](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
 |**Contas a receber** |A infraestrutura organizacional no local para gerenciar a cobrança e o provisionamento do cliente.
 
@@ -43,7 +43,7 @@ Se você ainda não tiver feito isso, examine os requisitos mínimos acima para 
 
 Usamos suas respostas para as perguntas no formulário para nos ajudar a determinar sua elegibilidade para se registrar no programa CSP como um parceiro de cobrança direta.
 
-Depois que tivermos verificado que sua empresa atende aos requisitos de qualificação para registrar-se como parceiro de cobrança direta e você tiver concluído a inscrição para registro, examinaremos e verificaremos as informações comerciais fornecidas no processo de registro. Como parte dessa revisão, verificaremos o crédito da sua empresa. Vamos informá-lo por email quando sua empresa tiver passado pela verificação de crédito.
+Depois que tivermos verificado que sua empresa atendeu aos requisitos de qualificação para registrar-se como parceiro de cobrança direta e você tiver concluído a inscrição para registro, examinaremos e verificaremos as informações comerciais fornecidas no processo de registro. Como parte dessa revisão, verificaremos o crédito da sua empresa. Vamos informá-lo por email quando sua empresa tiver passado pela verificação de crédito.
 
 >[!IMPORTANT]
 >Verificar o crédito da sua empresa pode levar vários dias ou mais para ser concluído. Durante esse tempo, é importante que você não compre um plano de suporte da Microsoft. Você deve comprar um plano de suporte da Microsoft somente depois de informar que você passou na verificação de crédito.
@@ -52,7 +52,7 @@ Depois que tivermos verificado que sua empresa atende aos requisitos de qualific
 
 Os atuais parceiros de cobrança direta precisam atender aos novos requisitos para permanecerem do programa de parceiros de cobrança direta CSP. Caso contrário, o [acesso às funcionalidades de cobrança direta acabará sendo restrito](restricted-direct-bill-capabilities.md), e eles não poderão mais executar tarefas específicas, como fazer novas compras para clientes. 
 
-Se você decidir migrar de uma empresa de cobrança direta para um revendedor indireto, haverá várias etapas que precisarão ser realizadas. Para saber mais sobre a transição, leia [Transição do parceiro direto do CSP (Provedor de Soluções na Nuvem) para o revendedor indireto do CSP](transition-direct-to-indirect.md). 
+Se você decidir migrar de uma empresa de cobrança direta para um revendedor indireto, várias etapas precisarão ser realizadas. Para saber mais sobre a transição, leia [Transição do parceiro direto do CSP (Provedor de Soluções na Nuvem) para o revendedor indireto do CSP](transition-direct-to-indirect.md). 
 
 ## <a name="see-also"></a>Veja também
 
