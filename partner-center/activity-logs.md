@@ -6,31 +6,31 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como exibir e exportar logs de atividade para obter informações sobre transações de conta de cliente e outras atividades de gerenciamento de parceiros relacionadas ao cliente.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: logs de atividades, assinatura, assinaturas, pagamentos, cobrança, transações
 ms.localizationpriority: medium
-ms.openlocfilehash: ef848b729079e54df5e898ea67fafdb1d1e87d25
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: caa203cac0aba616129158d453518166c322aac4
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390375"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798654"
 ---
 # <a name="view-customer-activity-logs"></a>Exibir logs de atividades do cliente
 
 **Aplica-se a**
 
-- Centro de Parceiros
+- Partner Center
 - Partner Center do Microsoft Cloud for US Government
 - Parceiros do programa Provedor de Soluções na Nuvem
 
 **Funções apropriadas**
 
-- Administração global
+- Administrador global
 - Administrador de cobrança
 - Administrador de gerenciamento de usuário
-- Agente administrador
+- Agente administrativo
 - Agente de vendas
 - Agente de suporte técnico
 

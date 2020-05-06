@@ -5,21 +5,21 @@ ms.date: 08/22/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Teste os novos recursos do Partner Center antes que eles sejam lançados e conte-nos sua opinião. Ajude a moldar o futuro do Partner Center!
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 367fe22b984277b02e4161bf12cf2198ab663c5b
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 0f2761a743254a9c1dc8b40cc749e415587cae08
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390565"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797704"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Testar os novos recursos do Partner Center
 
 **Aplica-se a**
 
-- Centro de Parceiros
+- Partner Center
 
 ## <a name="help-shape-the-future-of-partner-center"></a>Ajude a moldar o futuro do Partner Center!
 
@@ -39,7 +39,7 @@ Convidamos você a experimentar os novos recursos antes que eles sejam lançados
 >  Somente administradores globais e agentes de administração podem ativar versões prévias de recursos. No entanto, qualquer um dos seus usuários do Partner Center pode ver e usar versões prévias de recursos que tenham as permissões aplicáveis.
 
 > [!IMPORTANT]  
-> Continuamos a corrigir erros e melhorar o desempenho de recurso durante a fase de visualização de quaisquer versões de recurso, o que pode resultar em alterações de como funciona o recurso final. Por esses e outros motivos, versões prévias podem apresentar comportamento imprevisível e não transmitem uma garantia real ou legal da Microsoft.
+> Continuamos a corrigir erros e melhorar o desempenho do recurso durante a fase de visualização de quaisquer versões do recurso, o que pode resultar em alterações na forma como o recurso final funciona. Por esses e outros motivos, versões prévias podem apresentar comportamento imprevisível e não transmitem uma garantia real ou legal da Microsoft.
 
 - Veja nossa data de destino para disponibilizar um recurso para visualização e nossa data de início de destino para quando lançarmos o recurso na Comunidade do Partner Center mundial
 
@@ -48,7 +48,7 @@ Convidamos você a experimentar os novos recursos antes que eles sejam lançados
 
 
  
-## <a name="tell-us-what-you-think"></a>Diga-nos o que você acha
+## <a name="tell-us-what-you-think"></a>Conte-nos sua opinião
 
 Nossa missão em tudo o que desenvolvemos para o Partner Center é capacitar você a alcançar mais. Queremos concentrar nossos esforços em recursos e funcionalidades que o ajudarão a crescer seus negócios, portanto, convidamos você a experimentar novos recursos e compartilhar seus comentários sobre eles antes que eles sejam lançados para a comunidade mundial de parceiros do Partner Center. 
 

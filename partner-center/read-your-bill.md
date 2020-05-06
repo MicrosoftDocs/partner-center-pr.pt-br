@@ -6,29 +6,29 @@ description: Sua fatura é um resumo de todos os encargos do Partner Center (em 
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: cobrança de assinatura, cobrança, cobrança no partner center, ler minha cobrança, fatura, fatura do partner center, fatura do CSP, onde está minha cobrança?
 ms.localizationpriority: medium
-ms.openlocfilehash: 3e4d6b16e3b27b5244687bf9c1f292a5ba353e24
-ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
+ms.openlocfilehash: d3d225a3290a25636a606465b548382130115472
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "80676835"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798704"
 ---
 # <a name="understand-your-bill"></a>Entenda sua fatura
 
 **Aplica-se a**
 
-- Centro de Parceiros
+- Partner Center
 - Partner Center do Microsoft Cloud for US Government
 
 **Funções apropriadas**
 
-- Administração global
+- Administrador global
 - Administrador de cobrança
-- Agente administrador
+- Agente administrativo
 
 
 Sua **fatura** é um **Resumo de todos os seus encargos do Partner Center** (em todo o programa, todos os produtos e todos os clientes). 
@@ -39,17 +39,17 @@ A Microsoft emitirá uma fatura para quaisquer encargos baseados em licença (co
 
 Por exemplo,  
 
-**Cenário 1 [moeda única]** : parceiro tem compras para ofertas de 145P e licenças do O365,  
+**Cenário 1 [moeda única]**: parceiro tem compras para ofertas de 145P e licenças do O365,  
 
 - O parceiro obterá um PDF de nota fiscal e 2 arquivos de reconciliação que abrangem os encargos do O365 e do Azure (145p).  
 
-**Cenário 2 [moeda única]** : o parceiro tem compras para o Azure ri, o Marketplace e/ou o plano do Azure, juntamente com as compras do 145p. 
+**Cenário 2 [moeda única]**: o parceiro tem compras para o Azure ri, o Marketplace e/ou o plano do Azure, juntamente com as compras do 145p. 
 
 - O parceiro obterá um PDF de nota fiscal e um arquivo de reconciliação que abrange os encargos do Azure (145p). 
 
 - O parceiro receberá outro PDF de fatura e um arquivo de reconciliação que abrange seus encargos para o Azure RI, Marketplace, plano do Azure. 
 
-**Cenário 3 [várias moedas]** : parceiro tem compras para o Azure ri em DKK e o plano do Azure em EUR, juntamente com compras 145P em EUR. 
+**Cenário 3 [várias moedas]**: parceiro tem compras para o Azure ri em DKK e o plano do Azure em EUR, juntamente com compras 145P em EUR. 
 
 - O parceiro receberá um PDF de nota fiscal e um arquivo de reconciliação que abrange os encargos para o Azure RI em DKK. 
 

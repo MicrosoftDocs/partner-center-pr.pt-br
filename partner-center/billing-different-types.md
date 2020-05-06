@@ -5,30 +5,30 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Saiba mais sobre diferentes tipos de cobrança, períodos de cobrança e datas de cobrança que você pode ver no Partner Center.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: cobrança, pagamentos, pedidos, arquivos de reconciliação, arquivo de reconhecimento
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a6d4db62b89ec33740cd5a70141cf5a64533dfc0
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: fcacb9b0832c561e79e2d3c6df4d56b4d2f75b62
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390285"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798584"
 ---
 # <a name="types-of-billing-in-partner-center"></a>Tipos de cobrança no Partner Center
 
 **Aplica-se a**
 
-- Centro de Parceiros
+- Partner Center
 - Parceiros no programa CSP
 
 **Funções apropriadas**
 
-- Agente administrador
+- Agente administrativo
 - Administrador de cobrança
-- Administração global
+- Administrador global
 - Agente de suporte técnico
 - Agente de vendas
 

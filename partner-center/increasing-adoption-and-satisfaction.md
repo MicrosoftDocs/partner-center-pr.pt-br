@@ -6,26 +6,26 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como usar as métricas no Partner Center para ver se seu negócio está crescendo, como os clientes estão usando suas licenças e onde concentrar o investimento.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4dcf203748834be1dcadc6026d2bc6193e86c5a1
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 978913d5eb029e2029e7238535f8d79de39e7155
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390935"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798914"
 ---
-# <a name="increase-adoption-and-satisfaction"></a>Aumente a adoção e a satisfação
+# <a name="increase-adoption-and-satisfaction"></a>Aumentar a adoção e a satisfação
 
 **Aplica-se a**
 
--  Centro de Parceiros
+-  Partner Center
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 -   Administrador de usuários
--   Agente administrador
+-   Agente administrativo
 -   Agente de vendas
 
 Nossos parceiros usam muitos métricas para avaliar se seus negócios estão crescendo e onde concentrar o investimento. O Partner Center pode ajudar informando se e como os clientes estão usando as licenças adquiridas. Essas informações estão disponíveis para os produtos do Office (inclusive OneDrive for Business, que é contabilizado com o SharePoint).
@@ -35,7 +35,7 @@ Você pode ver dados de todos os seus clientes por meio do programa Provedor de 
 > [!NOTE]  
 >  No momento, mostramos apenas dados do Office 365 e do Dynamics 365. Habilitaremos dados de outros produtos no futuro.
 
-## <a name="find-license-and-user-data"></a>Localize dados de licença e do usuário
+## <a name="find-license-and-user-data"></a>Localizar dados de licença e do usuário
 
 
 **Para um único cliente**
@@ -57,7 +57,7 @@ Terminologia:
 
 -   **% de Uso** = direitos ativos/total de direitos
 
-    Às vezes, a % de uso está inflacionada ou maior do que 100%. Isso pode acontecer por vários motivos:
+    Às vezes, a % de uso está inflacionada ou maior do que 100%. Isso pode ocorrer por diversos motivos:
 
     -   Se o cliente teve rotatividade de funcionários e a licença foi transferida para um novo usuário.
 
@@ -67,7 +67,7 @@ Terminologia:
 
     -   Se alguns clientes estiverem usando o Yammer muito além do que eles têm direito de acordo com a licença, isso poderá causar uma distorção significativa nos dados.
 
-## <a name="next-steps"></a>{1&gt;{2&gt;Próximas etapas&lt;2}&lt;1}
+## <a name="next-steps"></a>Próximas etapas
 
 
 Se você estiver conferindo muitas perguntas de ajuda e instruções, os números de adoção em sua conta estão baixos ou você está procurando oportunidades de venda, talvez queira considerar a possibilidade de oferecer cursos de treinamento. Ao ensinar seus clientes a usar melhor o software de solução de nuvem que eles compraram, é mais provável que você veja um aumento na produtividade e na satisfação e uma redução nas necessidades de suporte.
@@ -78,14 +78,14 @@ Se você estiver conferindo muitas perguntas de ajuda e instruções, os número
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problema:</strong> A taxa de adoção do usuário é baixa e muitas licenças&#39;não estão sendo usadas.</p>
+<td><p><strong>Problema:</strong> A taxa de adoção do usuário é baixa e muitas licenças não estão sendo usadas&#39;t.</p>
 <p><strong>O que considerar:</strong> os clientes podem não entender o valor que o software pode oferecer. Eles precisam de ajuda para prever as maneiras como podem incorporá-lo em seu dia para simplificar as tarefas que já estão fazendo ou para permitir novos tipos de produtividade.</p>
 <p><strong>O que tentar:</strong> estudos de caso, depoimentos de usuários sobre cenários específicos, blogs de tutorial ou vídeos.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Problema:</strong> há um grande volume de chamadas de suporte de ajuda e perguntas de instrução.</p>
 <p><strong>O que considerar:</strong> os clientes podem ser novos no software, na versão do produto ou na tarefa.</p>
-<p><strong>O que tentar:</strong> Você pode usar uma estratégia dupla de treinamento de oferta (pessoalmente ou online) para aumentar a&#39;experiência geral do cliente e, ao mesmo tempo, promover algumas das opções de autoatendimento disponíveis para os clientes.</p>
+<p><strong>O que tentar:</strong> Você pode usar uma estratégia dupla de treinamento de oferta (pessoalmente ou online) para aumentar a experiência geral do cliente&#39;s e, ao mesmo tempo, promover algumas das opções de autoatendimento disponíveis para os clientes.</p>
 <p>É possível recriar seu site de suporte para incluir também as opções de autoatendimento descritas no tópico <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Autoatendimento do cliente</a> além de suas informações de contato de suporte.</p></td>
 </tr>
 </tbody>

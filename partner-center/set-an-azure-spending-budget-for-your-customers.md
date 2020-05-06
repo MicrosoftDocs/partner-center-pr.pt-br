@@ -6,21 +6,21 @@ description: Saiba como definir ou remover orçamentos mensais de gastos do Azur
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e536a43aec85336996d047ecd13a06ef144ce196
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: e33a15110666bb3b4a3c76c198cde7a59d81411f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390645"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797884"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Definir um orçamento de gastos do Azure para seus clientes
 
 Aplica-se a:
 
-- Centro de Parceiros
+- Partner Center
 - Partner Center do Microsoft Cloud for US Government
 
 Você pode [definir um orçamento de gastos do Azure mensal para seus clientes](#set-azure-spending-budget) no Partner Center. Isso ajuda seus clientes a gerenciar seus gastos com o Azure. Essa opção permite que você compare os gastos do Azure dos clientes com o orçamento durante o mês. Ele também ajuda seus clientes a orçarem seus gastos com o Azure para que sua fatura mensal não seja maior do que a previsão.
@@ -55,7 +55,7 @@ Você pode *definir um orçamento de gastos do Azure mensal* para vários client
 
 Você também pode *definir um orçamento para um cliente individual* em suas configurações de assinatura:
 
-1. Entre no painel do Partner Center.
+1. Entre no Painel do Partner Center.
 2. No menu à esquerda, em **CSP**, escolha **clientes**.
 3. Na página **clientes** , selecione o **nome da empresa**do cliente.
 4. Na página **assinaturas** do cliente, em **assinatura baseada em uso**, escolha **alterar orçamento**.
@@ -83,7 +83,7 @@ Você pode *acompanhar os gastos atuais dos clientes do Azure e os orçamentos m
 
 Você pode *ativar as notificações por email* para quando o gasto mensal do cliente estiver se aproximando de seu limite de orçamento. Ao ativar essa opção, você será notificado quando os clientes usarem 80% ou mais de seu orçamento mensal. Essa opção ajuda você a ficar atento à sua fatura do Azure. Para configurar notificações por email:
 
-1. Entre no Partner Center.
+1. Conecte-se ao Partner Center.
 2. No menu à esquerda, em **CSP**, escolha **gastos do Azure**.
 3. Na página **gastos do Azure** , em **notificações por email**, alterne a configuração **obter emails** para **ativado**.
 4. Escolha **Alterar endereço de email** para ver o endereço de email para notificações.
@@ -93,7 +93,7 @@ Você pode *ativar as notificações por email* para quando o gasto mensal do cl
 
 Você pode *exibir os custos discriminados (e o uso estimado) por serviço para assinaturas baseadas em uso*:
 
-1. Entre no Partner Center.
+1. Conecte-se ao Partner Center.
 2. No menu à esquerda, em **CSP**, escolha **clientes**.
 3. Na página **clientes** , selecione o **nome da empresa**do cliente.
 4. Na página **assinaturas** do cliente, em **assinaturas baseadas em uso**, selecione o nome da **assinatura**.

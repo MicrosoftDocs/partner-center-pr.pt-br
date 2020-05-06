@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Os registros de clientes estão entre seus ativos de informações mais importantes. Saiba como exibir, Pesquisar, atualizar e exportar informações em sua lista de clientes.
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 02e25ae609c635b21d4345c9567a44c119a70253
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 7fafd3b822653e9a72f54d04d5dd757170837eaf
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390655"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797965"
 ---
 # <a name="manage-your-customer-list"></a>Gerenciar sua lista de clientes
 
 **Aplica-se a**
 
--  Centro de Parceiros
+-  Partner Center
 -  Partner Center do Microsoft Cloud for US Government
 
 
@@ -32,13 +32,13 @@ Os logs de atividades também fornecem dados exportáveis sobre transações e a
 ## <a name="search-for-a-customer"></a>Procurar um cliente
 
 1.  No menu do **centro de parceiros** , selecione **clientes**.
-2.  Para procurar um cliente, insira o nome do cliente ou nome do domínio na caixa de pesquisa.
+2.  Para procurar um cliente, insira o nome do cliente ou o nome do domínio na caixa de pesquisa.
 3.  Selecione a **seta para baixo** no final da linha de um cliente para ver a ID da Microsoft dele, bem como os links rápidos de assinaturas e serviços associados.
 
 ## <a name="update-a-customers-company-name"></a>Atualize o nome da empresa do cliente
 
 No menu do **centro de parceiros** , selecione **clientes**.
-2.  Para procurar um cliente, insira o nome do cliente ou nome do domínio na caixa de pesquisa.
+2.  Para procurar um cliente, insira o nome do cliente ou o nome do domínio na caixa de pesquisa.
 3.  Selecione a **seta para baixo** no final da linha de um cliente para ver a ID da Microsoft dele, bem como os links rápidos de assinaturas e serviços associados.
 4.  Nas informações de **Cobrar de** do cliente, atualize o nome da empresa. Quando você salvar o novo valor, ele será refletido na lista de clientes. Isso irá alterar somente o nome da empresa para cobrança e o valor de lista de cliente. Ele não será refletido em nenhum outro lugar.
 <sup>1</sup>
@@ -64,7 +64,7 @@ No menu do **centro de parceiros** , selecione **clientes**.
 1.  No menu do **centro de parceiros** , selecione **clientes**.
 2.  Selecione o **Nome da empresa** de qualquer cliente. A página **Assinaturas** do cliente será aberta, mostrando a lista completa de assinaturas de produtos.
 3.  Selecione **Exportar assinaturas**. O Partner Center converte os dados de assinatura do cliente em um arquivo .csv e o carrega na pasta de download padrão em seu computador. As colunas de dados incluem o seguinte:
-    -   **ID da Assinatura**;
+    -   **ID da assinatura**;
     -   **Assinatura** — o nome do produto da assinatura;
     -   **Quantidade** — número de licenças adquiridas;
     -   **Status**;

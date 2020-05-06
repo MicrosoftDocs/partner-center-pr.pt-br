@@ -5,26 +5,26 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Edições do Microsoft Office 365 Enterprise E4 estarão desativadas a partir de 7 de abril de 2017. Saiba como migrar suas assinaturas de cliente para versões mais recentes do Office 365.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ead92169ce7b3f1c2e697b6d4e983603c17d39fc
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 02d383172595e09a4ab0bf9c6db34862fcc17204
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390875"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798872"
 ---
-# <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migre assinaturas do Office 365 E4 para versões do Office 365 mais recentes
+# <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrar inscrições do Office 365 E4 para versões do Office 365 mais recentes
 
 **Aplica-se a**
 
--  Centro de Parceiros
+-  Partner Center
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 -   Administrador de usuários
--   Agente administrador
+-   Agente administrativo
 -   Agente de vendas
 
 O plano do Office 365 Enterprise E4 está desativado desde 7 de abril de 2017. Você não pode comprar novas assinaturas do Office 365 E4 após essa data, e assinaturas E4 existentes não serão renovadas automaticamente quando expirarem.
@@ -100,7 +100,7 @@ Depois de migrar as licenças de usuário para o novo serviço, você pode cance
 
 1. No menu do **centro de parceiros** , selecione **clientes**. Selecione o cliente que você deseja mover e selecione a assinatura que deseja cancelar.
 
-2. Na página de detalhes da assinatura, defina o status da assinatura para **Suspensa**.
+2. Na página detalhes da assinatura, defina o status da assinatura como **suspenso**.
 
 3. Selecione **Enviar**.
 

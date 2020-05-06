@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como e onde gerenciar o Partner Center para Microsoft Cloud para parceiros, clientes e licenças do governo dos EUA, bem como redefinições de senha.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9940350c9b3b09f8a4fef32251394614a6f91d2f
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 93b8525861069607ca66770b371cd3f9a3e109e7
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390455"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797584"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Gerenciamento de licença e usuários no Partner Center do Microsoft Cloud for US Government
 
@@ -41,12 +41,12 @@ Depois de entrar com êxito no portal do Azure do Microsoft Cloud for US Governm
 
 -  [**Adicionar novos usuários ao Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [**Atribuir um usuário a funções de administrador no Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [**Atribuir um usuário às funções de administrador no Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
 -  [**Redefinir a senha de um usuário no Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 **Tópicos relacionados**
 
--  [**Partner Center para Microsoft Cloud do governo dos EUA**](partner-center-for-microsoft-us-govt-cloud.md)
+-  [**Partner Center do Microsoft Cloud for US Government**](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [**Registre-se no programa do provedor de soluções na nuvem para Microsoft Cloud para o governo dos EUA**](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+-  [**Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Cloud for US Government**](enroll-in-csp-for-microsoft-us-govt-cloud.md)

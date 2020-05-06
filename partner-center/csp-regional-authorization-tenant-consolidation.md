@@ -6,31 +6,31 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Use estas instruções para consolidar locatários para países/regiões diferentes. Isso inclui etapas para migrar contas de cliente e assinaturas de cliente.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: migrar provedores, provisionamento, conta de locatário, consolidar locatários
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: 04c39d15b9e2c0223ef472bc14de82faae12a449
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 5f52abb4d85122a7a33300f126e25d9349c7712f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390965"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798444"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidação de locatários de autorização regional do CSP
 
 **Aplica-se a**
 
--  Centro de Parceiros
+-  Partner Center
 -  Partner Center do Microsoft Cloud for US Government
 
 **Funções apropriadas**
 
-- Administração global
-- Agente administrador
+- Administrador global
+- Agente administrativo
 
-\[algumas informações estão relacionadas ao produto de pré-lançamento que pode ser substancialmente modificado antes de ser lançado comercialmente. A Microsoft não oferece nenhuma garantia, expressa ou implícita, em relação às informações fornecidas aqui.\]
+\[Algumas informações estão relacionadas ao produto de pré-lançamento que pode ser substancialmente modificado antes de ser lançado comercialmente. A Microsoft não oferece nenhuma garantia, explícita ou implícita, quanto às informações fornecidas aqui.\]
 
 Use estas instruções para consolidar locatários para países/regiões diferentes.
 
@@ -75,7 +75,7 @@ Os clientes serão exibidos na lista de clientes do parceiro depois que tiverem 
 
 ![lista de clientes](images/regionalcustomer2.png)
 
-6.  Clique em **Enviar**.
+6.  Clique em **Enviar.**
 
 Agora os serviços serão fornecidos para o cliente da conta de parceiro de **destino da transição**.
 
@@ -126,7 +126,7 @@ Observe que assinaturas de CSP baseadas em uso do Azure não precisam ser migrad
 
 6.  Repita essas etapas para todas as assinaturas em todos os seus clientes para impedir encargos futuros nas contas de **origem da transição**. O parceiro receberá uma fatura final com um crédito pelo número de dias não utilizados entre o dia de cancelamento e o último dia do período de cobrança. Nenhuma fatura futura será gerada após esse período de cobrança final.
 
-### <a name="notes"></a>{1&gt;Observações&lt;1}
+### <a name="notes"></a>Anotações
 
 -   A desabilitação da assinatura da conta do CSP em **transição** não afeta o serviço do cliente final, desde que o serviço tenha sido provisionado da **transição para** a conta do CSP antes da desabilitação.
 

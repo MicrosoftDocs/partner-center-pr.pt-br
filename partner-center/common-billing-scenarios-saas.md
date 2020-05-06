@@ -4,22 +4,22 @@ ms.topic: article
 ms.date: 03/26/2020
 description: Saiba mais sobre cenários de cobrança comuns no Partner Center para transações de SaaS baseadas em licença.
 ms.assetid: ''
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: cobrança, pagamentos, compra única, compra recorrente, assinaturas, estações
 ms.localizationpriority: medium
-ms.openlocfilehash: b509278166d858c64cfab6c98a27c266f9bc2c55
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 18565c3390559fafefd1f32dac85ff0d2310deb8
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390095"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798514"
 ---
 # <a name="billing-scenarios-for-license-based-saas-transactions"></a>Cenários de cobrança para transações SaaS baseadas em licença
 
 **Funções apropriadas**
 
-- Agente administrador
+- Agente administrativo
 - Administrador de cobrança
 - Agente de suporte técnico
 - Agente de vendas
@@ -35,10 +35,10 @@ Neste exemplo, você comprou uma avaliação gratuita de uma assinatura SaaS (so
 
 Os arquivos reconhecimento incluirão os seguintes encargos:
 
-| Data da compra | Data de início do encargo | Data de término do encargo | Preço unitário | Quantidade de unidades | Valor total | Tipo de cobrança | Descrição da assinatura |
+| Data de compra | Data de início do encargo | Data de término do encargo | Preço unitário | Quantidade de unidades | Valor total | Tipo de cobrança | Descrição da assinatura |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 1 | $0 | Novo | Avaliação gratuita |
-| 07/10/2019 | 07/10/2019 | 08/09/2019 | US$ 2 | 1 | US$ 2 | Renovar | Assinatura paga |
+| 06/10/2019 | 06/10/2019 | 07/09/2019 | U$0 | 1 | U$0 | Novo | Avaliação gratuita |
+| 07/10/2019 | 07/10/2019 | 09/08/2019 | U$2 | 1 | U$2 | Renew | Assinatura paga |
 
 ## <a name="cancel-a-free-trial-saas-subscription"></a>Cancelar uma assinatura de SaaS de avaliação gratuita
 
@@ -49,10 +49,10 @@ Nesse cenário, você comprou uma assinatura SaaS de avaliação gratuita basead
 
 O arquivo reconhecimento incluirá os seguintes encargos:
 
-| Data da compra | Data de início do encargo | Data de término do encargo | Preço unitário | Quantidade de unidades | Valor total | Tipo de cobrança | Descrição da assinatura |
+| Data de compra | Data de início do encargo | Data de término do encargo | Preço unitário | Quantidade de unidades | Valor total | Tipo de cobrança | Descrição da assinatura |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 11 | $0 | Novo | Avaliação gratuita |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 11 | $0 | Cancelar | Avaliação gratuita |
+| 06/10/2019 | 06/10/2019 | 07/09/2019 | U$0 | 11 | U$0 | Novo | Avaliação gratuita |
+| 06/10/2019 | 06/10/2019 | 07/09/2019 | U$0 | 11 | U$0 | Cancelar | Avaliação gratuita |
 
 ## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>Converter a assinatura SaaS do medidor personalizado em outra SKU
 
@@ -62,11 +62,11 @@ Nesse cenário, você comprou um SKU (prata) em um produto e o converteu em outr
 
 O arquivo reconhecimento incluirá os seguintes encargos:
 
-| Data da compra | SKU | Data de início do encargo | Data de término do encargo | Preço unitário | Quantidade de unidades | Valor total | Tipo de cobrança | Descrição da assinatura |
+| Data de compra | SKU | Data de início do encargo | Data de término do encargo | Preço unitário | Quantidade de unidades | Valor total | Tipo de cobrança | Descrição da assinatura |
 | ------------- | ----------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | Prata | 06/10/2019 | 06/10/2019 | US$ 20 | 1 | US$ 20 | Novo | Assinatura de SaaS do medidor personalizado |
-| 06/10/2019 | Prata | 06/10/2019 | 06/10/2019 | US$ 20 | 1 | -$20 | Convert | Fatura rateada para assinatura de SaaS de medidor personalizado |
-| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | US$ 10 | 1 | US$ 10 | Convert | Assinatura de SaaS do medidor personalizado |
+| 06/10/2019 | Prata | 06/10/2019 | 06/10/2019 | U$20 | 1 | U$20 | Novo | Assinatura de SaaS do medidor personalizado |
+| 06/10/2019 | Prata | 06/10/2019 | 06/10/2019 | U$20 | 1 | -$20 | Converter | Fatura rateada para assinatura de SaaS de medidor personalizado |
+| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | US$ 10 | 1 | US$ 10 | Converter | Assinatura de SaaS do medidor personalizado |
 
 ## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>Comprar e cancelar uma assinatura de SaaS do medidor do cliente na mesma data
 
@@ -74,7 +74,7 @@ Este cenário descreve a cobrança para uma assinatura de SaaS do medidor do cli
 
 Nesse cenário, você comprou uma assinatura de SaaS de medidor personalizado no portal do Azure. Em seguida, você cancelou a assinatura na mesma data.
 
-| Data da compra | SKU | Data de início do encargo | Data de término do encargo | Preço unitário | Quantidade de unidades | Valor total | Tipo de cobrança | Descrição da assinatura |
+| Data de compra | SKU | Data de início do encargo | Data de término do encargo | Preço unitário | Quantidade de unidades | Valor total | Tipo de cobrança | Descrição da assinatura |
 | ------------- | ------------- |----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | US$ 10 | 1 | US$ 10 | Novo | Assinatura de SaaS do medidor personalizado |
-| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | US$ 10 | 1 | -$10 | CancelImmediate | Assinatura de SaaS do medidor personalizado |
+| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | US$ 10 | 1 | US$ 10 | Novo | Assinatura de SaaS do medidor personalizado |
+| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | US$ 10 | 1 | -$10 | CancelImmediate | Assinatura de SaaS do medidor personalizado |

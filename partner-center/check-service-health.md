@@ -6,27 +6,27 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como verificar a integridade do serviço de um cliente quando eles enfrentam um problema com um serviço.
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: integridade, integridade do serviço, problemas de serviço
 ms.localizationpriority: medium
-ms.openlocfilehash: 588145555426cf49c2bf0410078c158f142a74ba
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 99901e357acc73d4a57af710d011fdc2b8621d2f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390205"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798554"
 ---
-# <a name="check-service-health"></a>Verificar a integridade do serviço
+# <a name="check-service-health"></a>Verifique a integridade do serviço
 
 **Aplica-se a**
 
-- Centro de Parceiros
+- Partner Center
 
 **Funções apropriadas**
 
-- Agente administrador
-- Administração global
+- Agente administrativo
+- Administrador global
 - Agente de suporte técnico
 - Agente de vendas
 

@@ -6,25 +6,25 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Um cliente pode querer trabalhar com diversos parceiros no programa de Cloud Solution Provider especializados em diferentes serviços.
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c4de34137fec79d0656a6122ae04c0073a59125
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 2a059e9eebd117ef0684c8bc7aa2f8bbb68c25d6
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390815"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798804"
 ---
 # <a name="multi-partner-support"></a>Suporte multi-parceiro
 
 **Aplica-se a**
 
--  Centro de Parceiros
+-  Partner Center
 -  Partner Center do Microsoft Cloud for US Government
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 -   Administrador de usuários
 -   Agente de vendas
 

@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: O Partner Center para Microsoft Cloud for US Government é o portal de empresas para parceiros da Microsoft que deseja oferecer soluções de nuvem da Microsoft para clientes que trabalham com agências governamentais dentro dos Estados Unidos.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 66a39eee19a367a796ca90e204a44be9e6a7d9c3
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: e23b79e76cf498a600cb5658feaaf3b6da5578e6
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390755"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798744"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Partner Center do Microsoft Cloud for US Government
 
@@ -22,9 +22,9 @@ ms.locfileid: "80390755"
 -  Partner Center do Microsoft Cloud for US Government
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 -   Administrador de usuários
--   Agente administrador
+-   Agente administrativo
 -   Agente de vendas
 -   Administrador de cobrança
 
@@ -45,14 +45,14 @@ Uma vez inscrito no Programa de Provedor de Soluções na Nuvem (CSP) para Micro
 > [!NOTE]  
 > No momento em que este artigo foi publicado, os seguintes recursos do Partner Center ainda não estavam disponíveis no Partner Center do Microsoft Cloud for US Government (desde a publicação, alguns recursos podem ter sido adicionados ao Partner Center e esta lista pode estar desatualizada):
 
-- Encontre um parceiro
+- Encontrar um parceiro
 - Perfis de negócios
 - Indicações
 - Solicitar uma relação de revendedor com um cliente (multi-canal, multi-parceiro)
 - Análise de licença
 - Percepções do cliente
 - Configurações e modelo do revendedor/provedor indireto
-- Verificar a integridade do serviço
+- Verifique a integridade do serviço
 - ISV (Fornecedor Independente de Software)
 - Qualificação especial do cliente
 

@@ -3,20 +3,20 @@ title: Cobrança baseada em uso | Centro de parceiros
 ms.topic: article
 ms.date: 11/21/2019
 Description: Informações sobre a cobrança baseada em uso no Partner Center, em que você será cobrado por taxas de uso mensais.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: cobrança, uso com base no uso
 ms.localizationpriority: medium
-ms.openlocfilehash: 560c2760fcdf221fad9142fa36024e04e7ff1104
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: d7828dc09037dd5fdd33f0650e324aef8ec294d9
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390495"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797664"
 ---
 # <a name="usage-based-billing"></a>Cobrança baseada em uso
 
-- Centro de Parceiros
+- Partner Center
 - Parceiros no programa CSP
 
 Ao comprar serviços online como assinaturas do Azure, você será cobrado por taxas de uso mensais. Os serviços baseados em uso, como o Azure, são cobrados de acordo com as tarifas limitadas, com base no consumo.
@@ -29,7 +29,7 @@ Somente a **cobrança mensal** está disponível para produtos baseados em uso. 
 
 As assinaturas baseadas em uso são cobradas mensalmente, em pelos débitos anteriores, na **data de aniversário da assinatura**. Por exemplo, se a data de aniversário da assinatura for a 15, você será cobrado em 15 de Janeiro para o período de serviço de 15 de dezembro a 14 de Janeiro. Você será cobrado novamente em 15 de fevereiro para o período de serviço de 15 de janeiro a 14 de fevereiro. 
 
-## <a name="usage-charges"></a>Tarifas de uso
+## <a name="usage-charges"></a>Encargos de uso
 
 Os encargos gerados na data de aniversário da assinatura serão exibidos na nota fiscal e no [arquivo de reconciliação](usage-based-recon-files.md)a seguir.
 

@@ -5,22 +5,22 @@ ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Qualifique-se para benefícios exclusivos ao atualizar sua associação do MPN para uma associação de assinatura do Microsoft Action Pack ou competências da Microsoft.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 13c2cc9b9365caa38c1da10b0c6dbba48d435397
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: d5ab422d7df9c1d97b9d849d40046d21f31ee9ae
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390505"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797804"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Atualizar sua associação ao Microsoft Partner Network
 
 **Aplica-se a**
 
--  Centro de Parceiros
+-  Partner Center
 
 O programa de parceria da Microsoft oferece as três opções de associação a seguir, com benefícios incrementais e recursos de marketing, ofertas e programas para ajudá-lo a atingir suas metas de negócios.
 
@@ -34,7 +34,7 @@ O programa de parceria da Microsoft oferece as três opções de associação a 
 
   - Competência Gold – o melhor recurso de classe em uma área de solução específica da Microsoft
 
-Depois de ingressar no Microsoft Partner Network, você estará qualificado para atualizar sua associação e comprar ofertas de associação exclusivas. Para saber mais sobre a participação no Microsoft Partner Network, acesse [https://partner.microsoft.com](https://partner.microsoft.com).
+Depois de ingressar no Microsoft Partner Network, você estará qualificado para atualizar sua associação e comprar ofertas de associação exclusivas. Para obter mais informações sobre associação no Microsoft Partner Network, acesse [https://partner.microsoft.com](https://partner.microsoft.com).
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Adquirir uma assinatura do Microsoft Action Pack
 
@@ -48,7 +48,7 @@ Action Pack é uma assinatura anual acessível de serviços, software e suporte 
 
 - Receba créditos de US$ 100 do Microsoft Azure todos os meses
 
-Para obter mais informações sobre no Microsoft Action Pack, acesse [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
+Para obter mais informações sobre o Microsoft Action Pack, [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack)acesse. 
 
 > [!NOTE]  
 > Após este link, você será levado para outro site. Retorne a este site, o site do Partner Center, para assinar Action Pack.
@@ -122,7 +122,7 @@ Para cancelar sua assinatura do Microsoft Action Pack, você deve contatar o sup
     Para verificar o status de sua solicitação de serviço, selecione **Solicitações de serviço > Solicitações do Partner Center** e, em seguida, selecione **Abrir**. Escolha a solicitação de serviço apropriada na lista.  
 
  
-### <a name="next-steps"></a>{1&gt;{2&gt;Próximas etapas&lt;2}&lt;1}
+### <a name="next-steps"></a>Próximas etapas
 
 [Ativar sua assinatura do Action Pack](manage-your-partner-network-benefits.md)
 

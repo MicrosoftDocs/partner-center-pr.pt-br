@@ -5,22 +5,22 @@ ms.date: 02/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Como um provedor indireto, ou distribuidor, saiba como expandir com revendedores indiretos. Isso inclui tarefas que você pode executar no Partner Center.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 969ac33c7e5d5fda0a97eb93a696eda32d2f100c
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 013af8b54ad9cbebac89fe1e1b2d8c6537074a53
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390925"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798904"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Faça parceria com revendedores indiretos no programa Provedor de Soluções na Nuvem
 
 **Funções apropriadas**
--    Administração global
+-    Administrador global
 -    Administrador de usuários
--    Agente administrador
+-    Agente administrativo
 -    Agente de vendas
 
 Com uma mudança complexa e rápida no mercado de tecnologia, os clientes querem a borda competitiva que as soluções de tecnologia podem oferecer a eles. No ambiente, faz sentido para os parceiros investirem no contrato de parceiro-a-parceiro para estender as ofertas e permitir que os clientes façam ainda mais.
@@ -50,7 +50,7 @@ Conclua as seguintes etapas para estabelecer e gerenciar sua parceria com revend
 
     - Antes de poder interagir e transações com revendedores, você deve estabelecer parcerias com eles no Partner Center. <br>
 
-3.    Conecte-se com clientes
+3.    Conectar-se com clientes
 
     - Associar novos clientes e assinaturas a revendedores
     - Estabelecer relacionamentos de revendedor com seus clientes existentes <br>
@@ -137,7 +137,7 @@ Para assinaturas existentes, se você decidir trabalhar com um revendedor indire
 
 
 
-## <a name="connect-with-customers"></a>Conecte-se com clientes
+## <a name="connect-with-customers"></a>Conectar-se com clientes
 
 Quando você receber novos clientes, precisará criar contas para eles no Partner Center. Ao adicionar uma nova conta de cliente, você pode designar um revendedor específico para gerenciar a conta e administrar as assinaturas e os serviços dos clientes em seu nome. 
 
@@ -150,7 +150,7 @@ Quando você associa um revendedor de uma nova conta do cliente, você está del
 2.    Encontre o revendedor indireto que você deseja atribuir aos novos clientes e, em seguida, selecione **Adicionar novo cliente**. Observe que o revendedor indireto já está selecionado para você no formulário de detalhes do cliente. Forneça os detalhes do cliente e, em seguida, selecione **Avançar: assinaturas** . 
 3.    Na página **Nova assinatura**, selecione as assinaturas que o cliente quer comprar e, em seguida, insira o número de licenças que o cliente precisa. 
 
-4.    Selecione **Próximo: análise**.
+4.    Selecione **Avançar: Análise**.
 
 5.    Se o pedido estiver correto, selecione **Enviar**. Se a ordem estiver incorreta, selecione **Cancelar** para cancelar a operação inteira e recomeçar.
 
@@ -178,7 +178,7 @@ Quando os clientes desejam comprar novas assinaturas, atualizar as existentes ou
 
 7.    Selecione **Enviar** quando terminado. 
 
-## <a name="see-also"></a>Consulte também
+## <a name="see-also"></a>Confira também
 
 Para obter mais informações sobre como gerenciar assinaturas e contas de cliente, consulte:
 

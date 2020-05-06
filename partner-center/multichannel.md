@@ -6,25 +6,25 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Em alguns casos, os clientes talvez queiram contratar você para provisionar e dar suporte a uma assinatura que eles compraram em outro lugar.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d7c56e934060a9bfba55a262e262e01eaac50691
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 058f12ddd14375b1f53530dc7bed546ef30a96d7
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390825"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798814"
 ---
 # <a name="multi-channel-support"></a>Suporte multicanal
 
 **Aplica-se a**
 
--  Centro de Parceiros
+-  Partner Center
 -  Partner Center do Microsoft Cloud for US Government
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 -   Administrador de usuários
 -   Agente de vendas
 
@@ -46,10 +46,10 @@ O recurso de vários canais do Partner Center dá suporte a cenários quando um 
 <td><p>Para dar suporte a contas de vários canais, você deve solicitar permissões do cliente para gerenciar as assinaturas dele. Consulte <a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">Solicitar uma relação de revendedor com um cliente</a> para obter informações sobre como fazer isso.</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Serviços baseados em uso</strong></p></td>
+<td><p><strong>Serviços com base em uso</strong></p></td>
 <td>
 <p>Para um cliente que já tem uma assinatura para Microsoft Azure de outro canal, como Advisor, Open ou EA, você&#39;precisa criar uma nova assinatura do Azure no Partner Center, inserir manualmente os detalhes da assinatura e, em seguida, cancelar os serviços individuais ou a assinatura inteira. O Azure CSP pode coexistir com diferentes canais.</p>
-<p>Por exemplo, para um cliente que já tem uma assinatura do Microsoft Azure de outro parceiro, você pode alternar os serviços do Azure para o outro parceiro.  Para obter mais informações, consulte <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Alterne assinaturas do Azure para um outro parceiro</a>.</p>
+<p>Por exemplo, para um cliente que já tem uma assinatura do Microsoft Azure de outro parceiro, você pode alternar os serviços do Azure para o outro parceiro.  Para obter mais informações, consulte <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Alternar assinaturas do Azure para um parceiro diferente</a>.</p>
 </td>
 </tr>
 </tbody>
@@ -58,9 +58,9 @@ O recurso de vários canais do Partner Center dá suporte a cenários quando um 
 > [!IMPORTANT]  
 > Um parceiro CSP não revende serviços online para outro parceiro CSP no momento. A Microsoft revisa continuamente as políticas e competências de todos os programas. Todos os comunicados sobre as versões de recursos serão anunciados por meio dos canais de comunicação usuais, incluindo o Partner Center. 
 
-## <a name="see-also"></a>Consulte também
+## <a name="see-also"></a>Confira também
 
-[Trabalhe com outros parceiros](work-with-other-partners.md)
+[Trabalhar com outros parceiros](work-with-other-partners.md)
 
 Se você tiver um revendedor indireto, consulte [Parceria com fornecedores indiretos](indirect-reseller-tasks-in-partner-center.md)
 

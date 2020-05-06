@@ -5,27 +5,27 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Conheça as etapas para parceiros de cobrança direto (revendedores diretos, provedores indiretos) para validar parceiros e clientes para o GCC do Office 365 governamental para CSP.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: a0cbdcd0ac4bcf6eda9df43f4b3a92bfcb4ce91b
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 31923fa47083392a2621ae4d0f73ff94dccf9778
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389725"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798464"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Critérios de qualificação de parceiros e clientes do Office 365 Government GCC para CSP
 
 **Aplica-se a**
 
--  Centro de Parceiros
+-  Partner Center
 -  Parceiros CSP
 
 **Funções apropriadas**
 
-- Administração global
-- Agente administrador
+- Administrador global
+- Agente administrativo
 - Agente de vendas
 
 >[!NOTE]
@@ -48,7 +48,7 @@ Os parceiros e clientes do Office 365 Government GCC para CSP serão validados p
 2.  Serve clientes do governo dos EUA por meio de GSA ou outros veículos de contrato
 
 **Critérios do cliente**
-1.  Entidade governamental dos EUA em sua capacidade governamental. Por exemplo:
+1.  Entidade governamental dos EUA em sua capacidade governamental. Por exemplo: 
  
     -  Agência federal (por exemplo, bureau, agência, departamento ou outra entidade do governo dos Estados Unidos)
     -   Entidade estadual/local 
@@ -56,7 +56,7 @@ Os parceiros e clientes do Office 365 Government GCC para CSP serão validados p
     -   Entidades governamentais regionais ou interestaduais (mas nenhuma entidade internacional)
     -   Centros de Desenvolvimento e Pesquisa Federais (FERDCs)
 
-2.  Entidade privada comercial com dados sujeitos a regulamentos. Os tipos de dados do governo aceitos incluem: 
+2.  Entidade privada comercial com dados sujeitos a regulamentos. Os tipos de dados governamentais aceitos incluem: 
     -   Tráfego Internacional na Armas (ITAR)
     -   Informações Não Classificadas Controladas (CUI)
     -   Departamento de Defesa (DoD) Informações Nucleares Controladas Não Classificadas (UCNI)

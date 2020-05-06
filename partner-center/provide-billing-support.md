@@ -6,25 +6,25 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Você tem a relação de cobrança com seus clientes e oferece suporte completo a qualquer pergunta relacionada à cobrança de seus clientes.
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 06005e8143f1af049af0f1f1c8a7e96e5fa9ae9f
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 8add485ad2c9bf8ef8d3c36f7420242b624afcdf
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390725"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798724"
 ---
 # <a name="provide-billing-support"></a>Fornecer suporte para a cobrança
 
 **Aplica-se a**
 
--  Centro de Parceiros
+-  Partner Center
 -  Partner Center do Microsoft Cloud for US Government
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 -   Administrador de usuários
 -   Agente de suporte técnico
 -   Administrador de cobrança
@@ -57,10 +57,10 @@ Os parceiros são obrigados a receber solicitações de suporte recebidas de cli
 
 Cada serviço online tem requisitos específicos e detalhados para fornecer suporte técnico, gerenciamento de assinaturas e cobrança aos clientes. Consulte os documentos abaixo para obter mais informações.
 
--   [Assinaturas do Dynamics 365 vendidas por meio do CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+-   [Assinaturas do Dynamics 365 vendidas por meio de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [Assinaturas do Azure vendidas por meio do CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+-   [Assinaturas do Azure vendidas por meio de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [Assinaturas do Office 365 vendidas por meio do CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+-   [Assinaturas do Office 365 vendidas por meio de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
 

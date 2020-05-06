@@ -6,22 +6,22 @@ description: Saiba mais sobre as responsabilidades de impostos para sua região 
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
-author: jasonwhowell
+author: LauraBrenner
 keywords: imposto, isenção de impostos, IVA, revendedor, cobrança
-ms.author: jasonh
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1befd911083cd0f4f774a839b8cc5e84c79592f8
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: c4a8e318deaa2636ac7b118b3a446ea4b1cca09c
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390625"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797694"
 ---
 # <a name="taxes-and-tax-exemptions"></a>Impostos e isenções fiscais
 
 Aplica-se a:
 
-- Centro de Parceiros
+- Partner Center
 - Partner Center do Microsoft Cloud for US Government
 
 O programa CSP (provedor de soluções na nuvem) é um canal de vendas focado na revenda de produtos do parceiro. Como resultado, a Microsoft nem sempre é obrigada a cobrar o imposto sobre vendas em faturas de parceiros. As regras variam de acordo com o país e/ou a região. Você pode examinar [detalhes específicos do país e da região para isenção de imposto](#country-and-region-tax-details).
@@ -36,7 +36,7 @@ Se você estiver em outro país ou região que cobra impostos, consulte [as info
 
 Para perguntas adicionais, [solicite suporte no Partner Center](#support).
 
-### <a name="canada"></a>Canadá
+### <a name="canada"></a>Canada
 
 A maioria dos revendedores não está isento de HST/GST/QST. Consulte seu supervisor de imposto para determinar se você está qualificado para isenção e qual documentação você deve fornecer à Microsoft.
 
@@ -44,7 +44,7 @@ Para uma isenção de BC PST, o arquivo é uma isenção de imposto conforme des
 
 ### <a name="european-union"></a>União Europeia
 
-Nos estados membros da União Europeia, os parceiros devem fornecer seu número de ID de IVA válido reverter o encargo e a cobrança adequada. O número de IVA deve ser aceito como válido.
+Nos estados membros da União Europeia, os parceiros devem fornecer seu número de ID de IVA válido reverter o encargo e a cobrança adequada. O número do IVA deve ser aceito como válido.
 
 A Microsoft não dá suporte a crédito e fatura. Antes de vender qualquer assinatura, você deve [registrar seu número de ID de IVA](organization-tax-info.md) no Partner Center.
 
@@ -86,8 +86,8 @@ Em seguida, crie um tíquete de suporte para a Microsoft com suas informações 
 1. No menu painel, em **suporte**, escolha **solicitações de suporte do parceiro**.
 2. Na página **solicitação do parceiro** , escolha **nova solicitação**. (Você também pode exibir suas solicitações de suporte abertas e fechadas posteriormente nesta página.)
 3. Na etapa **básico** , em **CSP-cobrança e pagamentos**, escolha **selecionar um tipo de problema** e selecione **solicitação de isenção de imposto**.
-4. Na etapa **soluções** , em **você precisa de mais ajuda?** , escolha **Sim**.
-5. Na etapa **detalhes** , preencha o formulário **detalhes do problema** . Certifique-se de:
+4. Na etapa **soluções** , em **você precisa de mais ajuda?**, escolha **Sim**.
+5. Na etapa **detalhes** , preencha o formulário **detalhes do problema** . É necessário que você:
 
     - Preencha todos os campos obrigatórios.
     - Inclua sua ID da **Microsoft** e a **ID do MPN** no campo de **detalhes** .

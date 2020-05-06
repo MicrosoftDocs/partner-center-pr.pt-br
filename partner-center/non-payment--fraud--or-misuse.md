@@ -7,28 +7,28 @@ ms.subservice: partnercenter-csp
 description: É importante saber mais sobre os vários tipos de risco envolvidos em transações online e práticas recomendadas para o gerenciamento e a mitigação desses riscos.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: fraude, uso indevido, uso aceitável, política de uso aceitável, falta de pagamento, cliente não paga a conta, risco online, roubo de serviço, abuso do serviço, suspender uma assinatura,
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 6f92976f6aabc0296abb52ef6ec6dc7bd8ee4599
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 90a7a10afd1c07616c5b96244f4b66c488ef1626
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390805"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798794"
 ---
-# <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gerenciando não pagamento, fraude ou uso indevido no Partner Center
+# <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gerenciamento de não pagamento, fraude ou uso indevido no Partner Center
 
 Aplica-se a:
 
-- Centro de Parceiros
+- Partner Center
 - Partner Center do Microsoft Cloud for US Government
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 -   Administrador de usuários
--   Agente administrador
+-   Agente administrativo
 -   Administrador de cobrança
 
 Você permanece financeiramente responsável por compras fraudulentas de seus clientes e/ou falta de pagamento de serviços comprados pelo cliente. Portanto, é *altamente recomendável que você coloque controles de mitigação de risco de detecção e prevenção de fraudes*.
@@ -83,7 +83,7 @@ Sugestões para reduzir riscos online ao integrar novos clientes incluem:
 - Avalie a força financeira do cliente por meio de sistemas de detecção de fraudes de cartão de crédito.
 - Estabeleça uma política de coleções claras. Detalhe o processo de coleções e quando o acesso a assinaturas será afetado por não pagamento. (Você pode desabilitar o acesso ou [suspender as assinaturas de um cliente](suspend-a-subscription.md) para não pagamento.)
 
-### <a name="managing-customer-accounts"></a>Gerenciando contas de clientes
+### <a name="managing-customer-accounts"></a>Gerenciar contas de clientes
 
 As sugestões para gerenciar contas de clientes após a compra incluem:
 
