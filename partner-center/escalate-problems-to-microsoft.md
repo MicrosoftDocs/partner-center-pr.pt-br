@@ -6,28 +6,28 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba quais problemas os parceiros da Microsoft devem se resolver para seus clientes e quais problemas eles podem precisar escalonar para a Microsoft.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f4b6e11e1bd4ad4acd014dbe9786cd9189bdbbc1
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 716b090681663feba725d1cf268be2209cd15475
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389855"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798334"
 ---
-# <a name="escalate-problems-to-microsoft"></a>Encaminhar problemas para a Microsoft
+# <a name="escalate-problems-to-microsoft"></a>Reporte os problemas à Microsoft
 
 **Aplica-se a**
 
-- Centro de Parceiros
-- Partner Center para Microsoft Cloud for US Government
+- Partner Center
+- Partner Center do Microsoft Cloud for US Government
 
 **Funções apropriadas**
 
-- Agente administrador
-- Administração global
+- Agente administrativo
+- Administrador global
 - Agente de vendas
 - Agente de suporte técnico
 
@@ -37,7 +37,7 @@ No entanto, há várias categorias de problemas que você precisa passar para a 
 
 - Problemas não documentados com os serviços que não estão funcionando de acordo com as descrições.
 
-- Serviços indisponíveis
+- Serviços não estão disponíveis
 
 - Bugs e outras irregularidades que afetam a aparência ou operação do serviço
 

@@ -6,28 +6,28 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Uma visão geral dos vários métodos e tipos de suporte técnico que você pode oferecer aos seus clientes.
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 068d53a72608b29cc4dd7854caf20d32ffe77b06
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: de7207464b5960d04df50dce1b4e938bc2ad86e0
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390715"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798714"
 ---
-# <a name="provide-technical-support"></a>Forneça suporte técnico
+# <a name="provide-technical-support"></a>Fornecer suporte técnico
 
 **Aplica-se a**
 
--  Centro de Parceiros
+-  Partner Center
 -  Partner Center do Microsoft Cloud for US Government
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 -   Administrador de usuários
 -   Agente de suporte técnico
--   Agente administrador
+-   Agente administrativo
 
 Como parceiro do Provedor de Soluções na Nuvem, você tem Privilégios de Administrador Delegado que dão acesso aos ambientes dos seus clientes. Esses privilégios fornecem a capacidade de dar suporte, configurar e gerenciar diretamente as assinaturas de seus clientes.
 
@@ -36,7 +36,7 @@ No Partner Center, você pode:
 -   Exibir a integridade do SAC
 -   Exibir incidentes do SAC
 
-**Executar tarefas de administrador para seus clientes**
+**Executar tarefas de administração para seus clientes**
 
 1.  No menu do **centro de parceiros** , selecione **clientes**. Escolha seu cliente na lista.
 2.  No menu do cliente, selecione **Gerenciamento de serviços**.
@@ -63,11 +63,11 @@ Os parceiros são obrigados a receber solicitações de suporte recebidas de cli
 
 Cada serviço online tem requisitos específicos e detalhados para fornecer suporte técnico, gerenciamento de assinaturas e cobrança aos clientes. Consulte os documentos abaixo para obter mais informações.
 
--   [Assinaturas do Dynamics 365 vendidas por meio do CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+-   [Assinaturas do Dynamics 365 vendidas por meio de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [Assinaturas do Azure vendidas por meio do CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+-   [Assinaturas do Azure vendidas por meio de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [Assinaturas do Office 365 vendidas por meio do CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+-   [Assinaturas do Office 365 vendidas por meio de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
 
 

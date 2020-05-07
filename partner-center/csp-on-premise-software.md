@@ -5,26 +5,26 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os parceiros no programa CSP podem comprar, gerenciar, vender e cancelar assinaturas de software local em nome dos clientes no Partner Center.
-author: jasonwhowell
-ms.author: jasonh
-keywords: Provedor de Soluções na Nuvem, CSP, serviços baseados na Nuvem, Azure, Office 365, Dynamics, parceiro CSP, vender no CSP, parceiro direto, parceiro CSP direto, revendedor CSP indireto, CSP direto, CSP indireto, modelo direto, modelo indireto, revendedor indireto, provedor indireto, provedor, distribuidor, programa provedor de soluções na nuvem
+author: LauraBrenner
+ms.author: labrenne
+keywords: Provedor de Soluções na Nuvem, CSP, serviços baseados em nuvem, Azure, Office 365, Dynamics, parceiro CSP, vender no CSP, parceiro direto, parceiro CSP direto, revendedor CSP indireto, CSP direto, CSP indireto, modelo direto, modelo indireto, revendedor indireto, provedor indireto, provedor, distribuidor, programa provedor de soluções na nuvem
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f227d6f12e9e84611684796bc26bd72a6b539348
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: b8d064a3e2f2d8d0a24dcd6a47b75746acbe6656
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389875"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798434"
 ---
 # <a name="sell-on-premise-software-through-csp"></a>Vender software local por meio do CSP
 
 **Funções apropriadas**
 
-- Agente administrador
-- Administração global
+- Agente administrativo
+- Administrador global
 
-O software local no CSP dá suporte a uma transição suave para a nuvem introduzindo software local em um programa centrado na nuvem.  Essa nova oferta ajuda a trazer o parceiro de valor agregado para cada cenário de compra, já que ele fornece uma única plataforma para comercializar todos os produtos da Microsoft. Como um CSP, agora você pode vender software local por meio do Partner Center, além do Open, EA e outros programas atualmente em uso. O software local no CSP é um novo programa de vendas e não pretende substituir nenhum dos outros programas de licenciamento por volume da Microsoft. 
+O software local no CSP dá suporte a uma transição suave para a nuvem introduzindo software local em um programa centrado na nuvem. Essa nova oferta ajuda a trazer o parceiro de valor agregado para cada cenário de compra, já que ele fornece uma única plataforma para comercializar todos os produtos da Microsoft. Como um CSP, agora você pode vender software local por meio do Partner Center, além do Open, EA e outros programas atualmente em uso. O software local no CSP é um novo programa de vendas e não pretende substituir nenhum dos outros programas de licenciamento por volume da Microsoft. 
  
 Ao mesmo tempo em que garante o melhor valor geral do cliente com as opções de licenciamento de software local, também tornamos o modelo de negócios o mais amigável possível para o parceiro. O licenciamento simples do software local no CSP significa previsibilidade de custos e um processo de vendas simplificado para você. Esse novo modelo de negócios facilita a aquisição, o gerenciamento e a precificação do software local para seus clientes, permitindo que você se concentre no negócio vencedor com um portfólio expandido de soluções de valor agregado de gerenciamento de TI. 
 
@@ -43,44 +43,44 @@ Depois de adquirir seu software, você e seus clientes precisarão baixá-lo. Us
 >[!NOTE]
 >Você deve ser um agente administrador para obter as chaves e os downloads. 
 
-1. Acesse a página de detalhes do cliente e então selecione **Software**. Você verá uma lista de todos os programas de software comprados em nome do cliente. 
-2.  Expanda o produto que você deseja baixar. No campo **Selecionar produto**, selecione a **Versão**, o **Idioma** e o **Tipo de arquivo/sistema operacional** desejados. 
+1. Acesse a página de detalhes do cliente e, em seguida, selecione **Software**. Você verá uma lista de todos os programas de software comprados em nome do cliente. 
+2.  Expanda o produto que deseja baixar. No campo **Selecionar produto**, selecione a **Versão**, o **Idioma** e o **Tipo de arquivo/sistema operacional** desejados. 
 3.  Selecione **Enviar** para exibir os produtos específicos. 
 4.  Selecione **Obter chaves e downloads**. 
-5.  Selecione **Baixar** para iniciar o download ou selecione **Copiar link** para copiar o link e enviá-lo ao cliente. 
+5.  Selecione **Baixar** para iniciar o download ou **Copiar link** para copiar o link e enviá-lo ao cliente. 
 
 >[!NOTE]
->Esse link expirará após duas semanas ou 50 downloads, o que ocorrer primeiro. Depois que o link expirar, retorne a essa página e selecione **Obter chaves e downloads** novamente para habilitar outras duas semanas ou 50 downloads. Você pode fazer isso quantas vezes precisar. 
+>Esse link vai expirar após duas semanas ou 50 downloads, o que ocorrer primeiro. Depois que o link expirar, retorne a essa página e selecione **Obter chaves e downloads** novamente para habilitar outras duas semanas ou 50 downloads. Você poderá fazer isso quantas vezes precisar. 
 
 
 ## <a name="cancel-a-purchase"></a>Cancelar uma compra
 Use o procedimento a seguir para cancelar uma compra. Depois que o cancelamento for concluído, a chave de software será revogada. 
 
 >[!NOTE]
->Você deve ser um agente administrativo para cancelar uma compra. 
+>Você precisa ser um Agente administrativo para cancelar uma compra. 
 
 1.  Antes do início do processo, verifique se você tem o seguinte: 
     -   O GUID do locatário do cliente ou o nome de domínio
-    -   ID do Pedido ou ID da Assinatura
+    -   ID do Pedido ou ID da assinatura
     -   Motivo do reembolso
-    -   Quantidade solicitada
+    -   Valor solicitado
 
 2.  Na página detalhes do cliente, selecione **software**. Você verá uma lista de todos os softwares que comprou. 
 
 3.  Localize o software que você deseja cancelar e selecione **Cancelar**. A página **Relatar um problema com o Partner Center** abre. 
 
-4.  Em **Detalhes**, na lista **Tipo de problema**, selecione **Compra/Reembolso de CSP em nome de clientes**.
+4.  Em **detalhes**, na lista **tipo de problema** , selecione **aquisição/reembolso do CSP em nome dos clientes**.
 
-5.  Preencha os campos **Impacto** e **Título**. 
+5.  Preencha os campos **impacto** e **título** . 
 
-6.  No campo **Descrição**, forneça o seguinte: 
+6.  No campo **Descrição** , forneça o seguinte: 
     -   O GUID do locatário do cliente ou o nome de domínio
-    -   ID do Pedido ou ID da Assinatura
+    -   ID do Pedido ou ID da assinatura
     -   Motivo do reembolso
-    -   Quantidade solicitada
+    -   Valor solicitado
 
-7.  No campo **Contato**, insira seu nome, email e número de telefone. 
+7.  No campo **contato** , insira seu nome, endereço de email e número de telefone. 
 
-8.  Se você precisar anexar um arquivo por qualquer motivo, selecione **Adicionar arquivos**. Esta etapa é opcional. 
+8.  Caso precise anexar um arquivo por qualquer motivo, selecione **Adicionar arquivos**. Essa etapa é opcional. 
 
 9.  Quando terminar, selecione **Enviar**.

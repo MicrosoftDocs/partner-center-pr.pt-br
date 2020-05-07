@@ -5,22 +5,22 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba quais são os pagamentos não alocados e como você pode aplicá-los às suas faturas.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: cobrança, pagamento, pagamentos, pagamento não alocado
 ms.localizationpriority: medium
-ms.openlocfilehash: 2a5baa6c08ff49405f6317410e382dab10b8276d
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 2cb132d7ade1e6ef7b8172a0612fbd53bf24def1
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390555"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797684"
 ---
-# <a name="manage-unallocated-payments"></a>Gerenciar pagamentos não alocados
+# <a name="manage-unallocated-payments"></a>Gerenciar os pagamentos não alocados
 
 **Aplica-se a**
 
-- Centro de Parceiros
+- Partner Center
 
 Ocasionalmente, você poderá ver um pagamento não alocado em sua página de cobrança. Um pagamento não alocado é um pagamento que você fez à Microsoft que não aplicou a uma fatura específica.
 
@@ -30,6 +30,6 @@ Ocasionalmente, você poderá ver um pagamento não alocado em sua página de co
 2.  No menu à esquerda, escolha **Cobrança**.
 3.  Na página cobrança, localize a seção **pagamento não alocado** . 
 
-Para aplicar esse valor a uma fatura específica, bposcapp@microsoft.com de email e nos diga a qual fatura aplicar esse pagamento. Certifique-se de incluir todas as informações que você faria se estivesse fazendo um pagamento. Sua página de cobrança será atualizada em 5-6 dias. 
+Para aplicar esse valor a uma fatura específica, envie um bposcapp@microsoft.com email e informe a qual fatura aplicar este pagamento. Certifique-se de incluir todas as informações que você faria se estivesse fazendo um pagamento. Sua página de cobrança será atualizada em 5-6 dias. 
 
 Os pagamentos não alocados permanecem desalocados até que você os atribua a uma fatura. 

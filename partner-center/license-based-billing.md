@@ -3,29 +3,29 @@ title: Cobrança baseada em licença | Centro de parceiros
 ms.topic: article
 ms.date: 11/21/2019
 Description: Informações sobre cobrança baseada em licença no Partner Center, em que você é cobrado por licença (não por uso de licença).
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: cobrança, pagamentos, licença baseada em licença
 ms.localizationpriority: medium
-ms.openlocfilehash: 726f7d3664243405bdc4eaa67b32dbe5e21d5fb4
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 7205d843c9eacbfe4ab1eb6975aa42f5609fb8be
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390895"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798884"
 ---
 # <a name="license-based-billing"></a>Cobrança baseada em licença
 
 **Aplica-se a**
 
-- Centro de Parceiros
+- Partner Center
 - Parceiros no programa CSP
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 -   Administrador de usuários
 -   Administrador de cobrança
--   Agente administrador
+-   Agente administrativo
 
 Ao comprar produtos ou serviços online no Partner Center que exigem **licenças**, você será cobrado *por cada licença* que comprar. Você *não é cobrado* pelo uso dessas licenças. (Para obter informações sobre cobrança baseada em uso e outros tipos de cobrança, consulte [tipos de cobrança no Partner Center](billing-different-types.md).)
 
@@ -37,7 +37,7 @@ Você pode optar por ser cobrado por licenças uma vez por mês (**cobrança men
 
 As assinaturas baseadas em licença são cobradas antecipadamente na **data de aniversário**da assinatura. A data de aniversário é o dia do mês em que você comprou a assinatura.
 
-Por exemplo:
+Por exemplo: 
 
 - Se você comprou uma **assinatura mensal** em 15 de Janeiro, a data de aniversário será o 15º de cada mês.
 - Se você comprou uma **assinatura anual** em 15 de Janeiro, a data de aniversário será 15 de janeiro de cada ano.

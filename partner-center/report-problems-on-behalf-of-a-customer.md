@@ -4,24 +4,24 @@ ms.topic: article
 ms.date: 08/16/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Se o seu cliente estiver enfrentando um problema de serviço que você não pode resolver, e que atenda aos critérios descritos em escalar problemas para a Microsoft, forneça um tíquete de suporte para eles.
+Description: Se o cliente está tendo um problema de serviço que você não consegue resolver e que atende aos critérios descritos em Encaminhar problemas para a Microsoft, abra um tíquete de suporte para ele.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: solicitação de serviço, tíquete de serviço, suporte, direito de suporte, Aobo, AOBO do Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: 6076f80821b476549cd264f9d569e9f46201c394
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: d3bd6fe2991f2f7b698cf12864be235c35dce55f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390685"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798684"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Relatar problemas em nome de um cliente
 
 **Aplica-se a**
 
--  Centro de Parceiros
+-  Partner Center
 -  Partner Center do Microsoft Cloud for US Government
 
 
@@ -44,12 +44,12 @@ Se o cliente está tendo um problema de serviço que você não consegue resolve
 >
 >- Embora o administrador de assistência técnica no Partner Center não possa criar solicitações de serviço no portal de serviço do Azure, o que eles podem fazer é criar um grupo de suporte no portal de serviço do Azure e conceder a esse grupo permissões para registrar solicitações de suporte.
 
-1. Selecione **Nova solicitação de suporte**.
+1. Selecione **nova solicitação de suporte**.
 2. Preencha a solicitação de suporte com as informações apropriadas e, em seguida, selecione **Criar**:
 -   Na seção **Noções básicas** da solicitação de suporte, certifique-se de selecionar **Provedor de Soluções na Nuvem** no campo **Plano de suporte**.
 -   Na seção de informações **Contato** da solicitação de suporte, insira suas informações, não as informações do cliente.
 
-3. Mais tarde, revise as solicitações de serviço do cliente no portal do Microsoft Azure selecionando **Gerenciar solicitações de suporte**.
+3. Posteriormente, revise as solicitações de serviço do seu cliente no portal do Microsoft Azure selecionando **Gerenciar solicitações de suporte**.
 
 Talvez seja necessário criar uma solicitação de suporte para um cliente quando você não tiver permissões de administrador para esse cliente. Isso poderia ocorrer em um dos seguintes dois cenários: 
  
@@ -73,7 +73,7 @@ Em qualquer um desses casos, você pode usar o procedimento a seguir para criar 
 2. Preencha o formulário de solicitação de serviço e selecione **Enviar**.
 
    > [!TIP]
-   > Certifique-se de incluir suas informações de contato, não as do cliente.
+   > Certifique-se de incluir suas informações de contato, não o seu cliente.
 
 3. Mais tarde, examine as solicitações de serviço do cliente indo para o Centro de Administração do Office 365 e selecionando **Ver todos os tíquetes de suporte**.
 
@@ -128,7 +128,7 @@ Caso entre diretamente no Centro de Administração do Office 365, você verá o
 
 **Como obter suporte adicional ao Dynamics 365?**
 
-Se você estiver tendo problemas relacionados a: assinaturas do plano do Dynamics 365, licenciamento, cobrança, Finanças & operações, licenças de produto do Dynamics 365 ou precisar de mais suporte técnico:
+Se você estiver tendo problemas relacionados a: assinaturas do plano do Dynamics 365, licenciamento, cobrança, finanças & operações, licenças de produto do Dynamics 365 ou precisar de mais suporte técnico:
  
 Contate o [Suporte do Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 

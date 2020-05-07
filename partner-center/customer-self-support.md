@@ -6,24 +6,24 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba quando e onde os clientes podem executar o autoatendimento para gerenciar suas próprias contas e quando devem entrar em contato com seu parceiro de provedor de soluções na nuvem.
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: suporte autônomo do cliente, suporte autônomo
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 91ef76a74b59627a943043156679b927e2279649
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 0176c1dc714435b032b1c0e7a59df5306435e86b
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80391035"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798374"
 ---
 # <a name="customer-self-support"></a>Suporte autônomo do cliente
 
 **Aplica-se a**
 
--  Centro de Parceiros
--  Partner Center para Microsoft Cloud for US Government
+-  Partner Center
+-  Partner Center do Microsoft Cloud for US Government
 
 
 Os clientes podem entrar no Centro de administração do Microsoft Office 365 ou no Portal de Gerenciamento do Azure e gerenciar suas próprias contas:

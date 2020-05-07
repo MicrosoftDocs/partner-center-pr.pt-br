@@ -6,28 +6,28 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como criar contas de usuário para um cliente, adicionar ou remover licenças de usuário, redefinir senhas de usuário, excluir contas de usuário ou restaurá-las.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: gerenciamento de clientes, conta, criar conta, licenças, atribuir licença, gerenciamento de usuários, senha, Redefinir senha, alterar senha
 ms.localizationpriority: medium
-ms.openlocfilehash: fcd5ebe2cb5daa5eafcd3ef56e1750225fcc9990
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 15647d55b1e7a43ca78b2285808f8602dba80f41
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80391005"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798614"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Tarefas de gerenciamento de usuários para contas de cliente
 
 **Aplica-se a**
 
-- Centro de Parceiros
+- Partner Center
 
 **Funções apropriadas**
 
-- Administração global
+- Administrador global
 - Administrador de gerenciamento de usuário
-- Agente administrador
+- Agente administrativo
 - Agente de vendas
 - Agente de suporte técnico
 
@@ -106,9 +106,9 @@ Se precisar restaurar essa conta, você pode encontrá-la na guia **Usuários ex
 
 1.  No menu do **centro de parceiros** , selecione **clientes**e, em seguida, escolha o cliente na lista.
 
-2.  Selecione **Usuários e licenças**.
+2.  Selecione **usuários e licenças**.
 
-3.  Selecione a guia **Usuários excluídos ( )** . Ela deve mostrar **(1)** ou mais quando houver usuários excluídos que possam ser restaurados.
+3.  Selecione a guia **Usuários excluídos ( )**. Ela deve mostrar **(1)** ou mais quando houver usuários excluídos que possam ser restaurados.
 
 4.  Marque uma ou mais caixas de seleção dos usuários excluídos e selecione **Restaurar**.
 

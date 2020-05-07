@@ -3,28 +3,28 @@ title: Cobrança por uma única vez e selecionar encargos recorrentes | Centro d
 ms.topic: article
 ms.date: 11/21/2019
 Description: Informações sobre a cobrança única com antecedência para um termo predefinido (assinaturas mensais e anuais) e cobrança para selecionar encargos recorrentes (para produtos da Microsoft e ISV de terceiros aplicáveis) no Partner Center.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: cobrança, de uso único, recorrente, compras, encargos, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 573334ce309c3b734da432c73975e3826b284498
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: e373e792692e1e5dcec183c79b36ae2c55c92954
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390775"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798774"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>Cobrança única e seleção de encargos recorrentes
 
 **Aplica-se a**
-- Centro de Parceiros
+- Partner Center
 - Parceiros no programa CSP
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 -   Administrador de usuários
 -   Administrador de cobrança
--   Agente administrador
+-   Agente administrativo
 -   Agente de vendas
 
 Este tópico descreve a experiência de cobrança para **uma única vez e seleciona encargos recorrentes** para produtos Microsoft e ISV (fornecedor de software independente) de terceiros. 
@@ -51,7 +51,7 @@ A **atividade de cobrança** atual *não está disponível* para esses tipos de 
 
 ## <a name="microsoft-and-third-party-isv-product-charges"></a>Encargos de produtos de ISV da Microsoft e de terceiros
 
-Os **encargos recorrentes** e os **encargos de uso único** são emitidos para **produtos ISV da Microsoft e**de terceiros. Os produtos aplicáveis incluem todas as assinaturas de SaaS, reservas do Azure e produtos de software permanentes e baseados em assinatura oferecidos pela Microsoft e por ISVs de terceiros. Consulte produtos disponíveis no Marketplace. Os exemplos incluem software SUSE Linux (assinaturas de software), Windows Server 2019 Essentials (software perpétua) e assinaturas de produto SaaS do Azure ISV.
+Os **encargos recorrentes** e os **encargos de uso único** são emitidos para **produtos ISV da Microsoft e**de terceiros. Os produtos aplicáveis incluem todas as assinaturas de SaaS, reservas do Azure e produtos de software permanentes e baseados em assinatura oferecidos pela Microsoft e por ISVs de terceiros. Confira os produtos disponíveis no Marketplace. Os exemplos incluem software SUSE Linux (assinaturas de software), Windows Server 2019 Essentials (software perpétua) e assinaturas de produto SaaS do Azure ISV.
 
 Para encargos de produtos aplicáveis, a **data de cobrança** é o oitavo dia de cada mês. O **período de cobrança** começa no primeiro dia do mês do calendário e termina no último dia do mês do calendário. Todas as transações feitas entre 1º de maio e 31 de maio de 2019 serão exibidas na fatura em 8 de junho. Transações efetuadas entre 1º e 30 de junho de 2019 serão exibidas em sua fatura no dia 8 de julho. Você pode ser cobrado por compras recorrentes e avulsas na mesma fatura.
 

@@ -5,28 +5,28 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Conheça as etapas e os requisitos para vender assinaturas para o GCC do Office 365 governamental para CSP para clientes ou prestadores de Estados Unidos qualificados do governo.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: fb6402512ea70f3d6a621b140459c0b217478fef
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: c0bfbc6bba6e6e20bff06b794ad47c0bf225932a
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389565"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798494"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Vender assinaturas do Office 365 Government GCC para CSP para clientes qualificados
 
 **Aplica-se a**
 
--  Centro de Parceiros
+-  Partner Center
 -  Parceiros CSP
 
 **Funções apropriadas**
 
-- Administração global
-- Agente administrador
+- Administrador global
+- Agente administrativo
 - Agente de vendas
 
 ## <a name="overview"></a>Visão geral
@@ -50,8 +50,8 @@ Acesse informações sobre a [oportunidade para parceiros no Governo dos EUA](ht
 
 Recursos de produto:
 
-- [Descrição do serviço do governo do Office 365](https://technet.microsoft.com/library/mt774581.aspx)
+- [Descrição do serviço Office 365 Government](https://technet.microsoft.com/library/mt774581.aspx)
 - [Roadmap.Office.com](https://products.office.com/business/office-365-roadmap)
-- [Central de confiabilidade da Microsoft](https://www.microsoft.com/TrustCenter/)
+- [Central de Confiabilidade da Microsoft](https://www.microsoft.com/TrustCenter/)
 - [Portal de confiança do serviço Microsoft](https://aka.ms/STP)
 

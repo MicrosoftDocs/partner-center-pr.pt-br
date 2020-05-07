@@ -5,16 +5,16 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como personalizar ou pré-configurar a experiência inicial de um novo dispositivo com perfis do AutoPilot antes de entregar o dispositivo ao cliente.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: piloto automático, piloto automático do Windows, Microsoft AutoPilot, implantação Zero Touch, OOBE, telas de logon, pronto para uso
 ms.localizationpriority: medium
-ms.openlocfilehash: c69b61256e19fd3a8becbfd546fd5b9a0b54654f
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 7fed49f9fd06be8765e3435862e3bee48b717ce7
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390995"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798604"
 ---
 # <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Personalizar a experiência inicial para um dispositivo com perfis do Windows AutoPilot
 
@@ -24,8 +24,8 @@ ms.locfileid: "80390995"
 
 **Funções apropriadas**
 
-- Agente administrador
-- Administração global
+- Agente administrativo
+- Administrador global
 - Agente de vendas
 - Administrador de gerenciamento de usuário
 
@@ -37,7 +37,7 @@ Este artigo explica como criar e aplicar perfis do AutoPilot a dispositivos no P
 
 Se você ainda não estiver familiarizado com o piloto automático, revise as informações nestes artigos:
 
-- [Visão geral do Windows Autopilot.](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
+- [Visão geral do Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
 - [Guia de referência de implantação do AutoPilot](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>Visão geral
@@ -77,7 +77,7 @@ No Partner Center, você pode criar perfis de implantação do Windows AutoPilot
 
 3. Em **perfis do Windows AutoPilot** , selecione **Adicionar novo perfil**.
 
-4. Insira o nome e a descrição do perfil e defina as configurações do OOBE. Escolha entre:  
+4. Insira o nome e a descrição do perfil e defina as configurações do OOBE. Escolha:  
 
    - Ignorar as configurações de privacidade na instalação
 
@@ -195,4 +195,4 @@ Get-WindowsAutoPilotInfo.ps1 -OutputFile AutoPilotHWID.csv -Partner -Force
 
 O Windows Autopilot permite configurar instalações personalizadas do Windows em dispositivos que você gerencia para seus clientes. Se autorizado a fazer isso pelo cliente, você poderá suprimir ou ocultar determinadas telas de configuração que normalmente são apresentadas aos usuários durante a configuração do Windows, incluindo a tela de aceitação do EULA (contrato de licença de usuário final).
 
-Ao usar essa função, você concorda que suprimir ou ocultar todas as telas projetadas para fornecer aos usuários aviso ou aceitação de termos significa que você obteve consentimento e autorização suficientes de seu cliente para ocultar os termos e, em nome de seu cliente (seja uma organização ou um usuário individual como o caso), seja o consentimento de quaisquer avisos e aceite os termos aplicáveis ao cliente. Isso inclui o acordo com os termos e condições da licença ou o aviso que seria apresentado ao usuário caso você não o tenha suprimido ou ocultado usando essa ferramenta. Seu cliente não pode usar o software do Windows nesses dispositivos se o cliente não tiver adquirido de forma válida uma licença para o software da Microsoft ou de seus distribuidores licenciados.
+Usando essa função, você concorda que suprimir ou ocultar as telas que foram projetadas para fornecer aos usuários aviso ou aceitação de termos significa que você obteve consentimento e autorização suficientes de seu cliente para ocultar os termos e que, em nome de seu cliente (seja uma organização ou um usuário individual como o caso), tenha consentimento para quaisquer avisos e aceite quaisquer termos que sejam aplicáveis ao cliente. Isso inclui o acordo com os termos e condições da licença ou o aviso que seria apresentado ao usuário caso você não o tenha suprimido ou ocultado usando essa ferramenta. Seu cliente não pode usar o software do Windows nesses dispositivos se o cliente não tiver adquirido de forma válida uma licença para o software da Microsoft ou de seus distribuidores licenciados.
