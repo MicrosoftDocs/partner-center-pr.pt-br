@@ -1,21 +1,22 @@
 ---
-title: Cenários de cobrança comuns para transações SaaS baseadas em licença | Centro de parceiros
+title: Cobrança-transações SaaS baseadas em licença
 ms.topic: article
-ms.date: 03/26/2020
+ms.date: 05/05/2020
 description: Saiba mais sobre cenários de cobrança comuns no Partner Center para transações de SaaS baseadas em licença.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: cobrança, pagamentos, compra única, compra recorrente, assinaturas, estações
 ms.localizationpriority: medium
-ms.openlocfilehash: 18565c3390559fafefd1f32dac85ff0d2310deb8
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 02a50f5be3c19f179014fd7db4e1418ba025e874
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798514"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908190"
 ---
-# <a name="billing-scenarios-for-license-based-saas-transactions"></a>Cenários de cobrança para transações SaaS baseadas em licença
+# <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Cenários de cobrança comuns para transações SaaS baseadas em licença no Partner Center
 
 **Funções apropriadas**
 

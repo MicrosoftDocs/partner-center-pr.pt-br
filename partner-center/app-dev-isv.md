@@ -1,7 +1,7 @@
 ---
-title: A isenção de requisitos de exames one-time para a competência do desenvolvimento de aplicativos | Centro de parceiros
+title: Isenção de exames de competência de desenvolvimento de aplicativos
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Para parceiros com uma competência anterior de ISV, saiba como obter uma isenção de requisitos de exame único para a competência do desenvolvimento de aplicativos
@@ -9,18 +9,19 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: competências, ISV, desenvolvimento de aplicativos
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c6346231baffa65270c0a3f5de261628271e620
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: cf6d004e7247154b08e63bbd74bcbcf022e57337
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722346"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907480"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>A isenção de requisitos de exames one-time para a competência de desenvolvimento de aplicativos
 
 **Funções apropriadas**
 
-- Administração global
+- Administrador global
 - Administrador de parceiros do MPN
 
 Se você tiver obtido a competência do ISV agora desativada e um dos cenários a seguir se aplicar a você, estamos oferecendo à sua empresa uma isenção de requisitos de exame único para a [competência de desenvolvimento de aplicativos](https://partner.microsoft.com/membership/application-development-competency)Gold ou prata. 
@@ -37,18 +38,18 @@ Parceiros com competência de desenvolvimento de aplicativos obtidos por meio do
 
 - **Se você tiver uma listagem do Microsoft Commercial Marketplace**, a isenção de requisitos de exames one-time estará disponível no momento da renovação da sua competência. Nesse momento, você terá 30 dias para aproveitar a oferta.
 
-- **Se você não tiver uma listagem do [Microsoft Commercial Marketplace](https://azure.microsoft.com/overview/commercial-marketplace/)** , publique sua solução de fevereiro de 2020 para estar qualificada para a isenção de requisitos de exame único.
+- **Se você não tiver uma listagem do [Microsoft Commercial Marketplace](https://azure.microsoft.com/overview/commercial-marketplace/) **, publique sua solução de fevereiro de 2020 para estar qualificada para a isenção de requisitos de exame único.
 
 ## <a name="how-to-take-advantage-of-your-offer"></a>Como aproveitar sua oferta
 
-1. No menu do centro de parceiros em seu painel, selecione **competências**.
+1. No menu da Central de Parceiros em seu painel, selecione **Competências**.
 2. Na lista de competências disponíveis, o desenvolvimento de aplicativos está marcado como **concluído**.
 
 ![ISV para AppDev](images/appdev.png)
 
 3. Selecione **desenvolvimento de aplicativos**. Você verá o aviso de que recebeu uma substituição que isenta sua empresa de atender aos requisitos do exame. 
 
-4. Para aproveitar essa oferta, acesse ofertas de **Associação**. Talvez seja necessário pagar a taxa de competência para concluir o processo, dependendo de seu status de compra ou renovação de competência. 
+4. Para aproveitar essa oferta, acesse **Ofertas de associação**. Talvez seja necessário pagar a taxa de competência para concluir o processo, dependendo de seu status de compra ou renovação de competência. 
 
 Esta oferta está disponível por meio do Partner Center.
 

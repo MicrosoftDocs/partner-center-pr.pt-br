@@ -1,22 +1,23 @@
 ---
-title: Contratos para provedores de soluções na nuvem usando o Marketplace comercial | Centro de parceiros
+title: Contratos do CSP para o Marketplace comercial
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre os termos, condições e contratos de assinaturas para produtos ISV de terceiros adquiridos por parceiros do CSP no mercado comercial.
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: assinaturas, Marketplace, terceiros, ISV, programa de parceiros CSP, contratos, venda, compra,
 ms.localizationpriority: medium
-ms.openlocfilehash: 8dd58869df2ced14fa3a05ea3bc7b0f6e96c54d5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6caf79b0f9dbe287ad59df73fb80749237546f9a
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253774"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908134"
 ---
-# <a name="contracts-associated-with-csp-partner-activities-in-the-commercial-marketplace"></a>Contratos associados às atividades do parceiro CSP no Marketplace comercial
+# <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Contratos para parceiros CSP que fazem negócios no mercado comercial
 
 **Aplica-se a**
 
@@ -25,8 +26,8 @@ ms.locfileid: "74253774"
 
 **Funções apropriadas**
 
-- Administração global
-- Agente administrador
+- Administrador global
+- Agente administrativo
 
 Esta seção está relacionada a contratos para parceiros no programa CSP que optam por comprar ofertas do ISV Marketplace ou produtos para seus clientes no Marketplace comercial do Partner Center ou no portal do Azure.
 

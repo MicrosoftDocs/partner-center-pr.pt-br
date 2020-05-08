@@ -1,22 +1,23 @@
 ---
-title: Contas de clientes | Partner Center
+title: Exibir e gerenciar contas de clientes
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Encontre recursos para parceiros revendedores no Partner Center. Isso inclui a necessidade de criar contas de clientes antes de vender assinaturas, faturas ou oferecer suporte.
+Description: Encontre recursos para parceiros revendedores no Partner Center. Isso inclui a criação de contas de cliente antes da venda de assinaturas, cobrança ou oferta de suporte.
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d1090aab2c9678149dba8ab051e6e49f0f5c42a
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 217685e3bf3941825470abddce7f5f84634f7ade
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205764"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907938"
 ---
-# <a name="customer-accounts"></a>Contas de clientes
+# <a name="customer-account-setup-and-management-for-reseller-partners-in-partner-center"></a>Configuração e gerenciamento da conta do cliente para parceiros revendedores no Partner Center
 
 **Aplica-se a**
 

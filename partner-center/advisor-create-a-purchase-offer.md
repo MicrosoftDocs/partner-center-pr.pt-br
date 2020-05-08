@@ -1,25 +1,26 @@
 ---
 title: Criar uma oferta de compra | Centro de parceiros
 ms.topic: article
-ms.date: 03/03/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter
-description: o Advisor pode criar uma oferta de compra no Partner Center
-author: XiaLi
-ms.author: v-xili35
+description: Descubra como um orientador de assinatura autorizado pode usar o Partner Center para criar uma oferta de compra e uma URL personalizada para incluir em convites de avaliação do Office 365.
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, compra
-ms.openlocfilehash: 1d7cf051da1189efff535eaa95749a8eab54ee6c
-ms.sourcegitcommit: 23a03f2db5fe8d4211be7e9371d25838a2d25ca2
+ms.custom: SEOMAY.20
+ms.openlocfilehash: defa41285aa2bf31158a900a319115cf02221655
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "79137221"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907446"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Consultores: criar uma oferta de compra
 
 > [!NOTE]
-> Esse recurso só está disponível para parceiros da Microsoft que são consultores de assinatura autorizados. 
+> Esse recurso só está disponível para parceiros da Microsoft que são consultores de assinatura autorizados.
 
 Depois de enviar um convite de avaliação para o Office 365 para um cliente, você pode fazer o acompanhamento criando e enviando uma oferta de compra personalizada para atender às necessidades do cliente. Se você estiver certificado para oferecer administração delegada, poderá adicionar uma opção à oferta de compra que permite administrar a conta em nome do seu cliente.
 
@@ -29,7 +30,7 @@ Se o cliente quiser um número diferente de licenças, envie-a uma nova oferta o
 
 ## <a name="to-create-a-purchase-offer"></a>Para criar uma oferta de compra
 
-1. Navegue até **avaliações e compre ofertas** > **criar oferta**.
+1. Navegue até **avaliações e compras ofertas** > **criar oferta**.
 
 2. Na página **criar oferta de compra** , selecione as opções de oferta de compra que você deseja incluir:
 
@@ -42,7 +43,7 @@ Se o cliente quiser um número diferente de licenças, envie-a uma nova oferta o
     - **Contagem de licenças**: quando você seleciona uma assinatura, digite o número de licenças que deseja incluir na oferta de compra.
     - **Administração delegada**: essa opção só está disponível para parceiros que estão certificados para oferecer administração delegada. Escolha esta opção se desejar oferecer a administração delegada do cliente. Se você fizer isso, o cliente poderá aceitar a oferta de compra com ou sem a aceitação da administração delegada.
 
-3. Clique em **Avançar**.
+3. Clique em **Próximo**.
 
 4. Na página **Enviar** , copie as informações e a URL da oferta de compra e cole-as em um email, um documento ou uma página da Web para criar uma oferta de compra personalizada.
 

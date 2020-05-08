@@ -1,22 +1,23 @@
 ---
-title: Criar um convite para avaliação | Centro de parceiros
+title: Criar um convite para avaliação do Office 365
 ms.topic: article
-ms.date: 03/03/2020
+ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter
-description: o Advisor pode criar um convite para avaliação no Partner Center
-author: XiaLi
-ms.author: v-xili35
+description: Saiba como os parceiros podem criar e enviar convites de avaliação para seus clientes para experimentar o Office 365. Os parceiros são um consultor autorizado de assinatura.
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, avaliação
-ms.openlocfilehash: 5b8e563a8ab8bee27bdc87aa0ba756f542a1ddf7
-ms.sourcegitcommit: 23a03f2db5fe8d4211be7e9371d25838a2d25ca2
+ms.custom: SEOAPR.20
+ms.openlocfilehash: ab1b889e7ad71d19e6b7358c9ccb80aa78ed9f38
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "79137241"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907449"
 ---
-# <a name="advisors-create-a-trial-invitation"></a>Consultores: criar um convite para avaliação
+# <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Consultores: Crie e envie um convite de avaliação para que os clientes experimentem o Office 365
 
 > [!NOTE]
 > Esse recurso está disponível somente para parceiros da Microsoft que são consultores de assinatura autorizados. 
@@ -27,7 +28,7 @@ Se você estiver certificado para oferecer administração delegada, poderá adi
 
 ## <a name="to-create-a-trial-invitation"></a>Para criar um convite para avaliação
 
-1. Navegue até **avaliações e compre ofertas** > **criar convites**.
+1. Navegue > até **avaliações e ofertas de compra****criar convites**.
 
 2. Na página **criar convite para avaliação** , selecione as opções de convite de avaliação que você deseja incluir:
 
@@ -39,7 +40,7 @@ Se você estiver certificado para oferecer administração delegada, poderá adi
     - **Assinaturas de avaliação**: a lista de assinaturas de avaliação que você pode escolher é determinada pelo local de uso do país ou da região do seu cliente.
     - **Administração delegada**: essa opção só está disponível para parceiros que estão certificados para oferecer administração delegada. Escolha esta opção se desejar oferecer a administração delegada do cliente. Se você fizer isso, o cliente poderá aceitar o convite de avaliação com ou sem a aceitação da administração delegada. Para obter mais informações sobre administração delegada, consulte [oferecer administração delegada](customers_revoke_admin_privileges.md).
 
-3. Clique em **Avançar**.
+3. Clique em **Próximo**.
 
 4. Na página**convite para avaliação** , copie as informações e a URL do convite de avaliação e cole-as em um email, um documento ou uma página da Web para criar um convite de avaliação personalizado.
 

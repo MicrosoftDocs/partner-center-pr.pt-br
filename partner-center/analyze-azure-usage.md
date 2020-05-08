@@ -1,6 +1,6 @@
 ---
-title: Analisar o uso do Azure | Partner Center
-ms.date: 11/13/2019
+title: Analise o uso do Azure para ajudar a aumentar seus negócios
+ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Saiba como usar o Partner Center para obter dados sobre o uso de assinaturas do Azure de seus clientes.
@@ -10,15 +10,15 @@ ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
 ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 096996b4ebc6953125e41b80ecd0e991d0bdec86
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 1a73dd6aa47b60befa62f55f37910de4f20f78b8
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722385"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907427"
 ---
-# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Obter dados sobre o uso das assinaturas do Azure de seus clientes
+# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Obtenha dados sobre o quão bem seus clientes e assinaturas do Azure estão fazendo
 
 **Aplica-se a**
 
@@ -27,7 +27,7 @@ ms.locfileid: "74722385"
 
 **Funções apropriadas**
 
-- Administração global
+- Administrador global
 - Administrador de gerenciamento de usuário
 - Agente administrativo
 - Agente de vendas

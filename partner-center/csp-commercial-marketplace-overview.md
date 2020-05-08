@@ -1,22 +1,23 @@
 ---
-title: Visão geral do Marketplace comercial para provedores de soluções de nuvem | Centro de parceiros
+title: Visão geral – Marketplace do CSP
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: No Partner Center, saiba como vender as assinaturas de clientes para ofertas de software como serviço (SaaS) de fornecedores independentes de software (ISVs) no Marketplace.
-author: MicheleHope
-ms.author: v-mihope
+description: Saiba como vender assinaturas de clientes para ofertas de software como serviço (SaaS) de fornecedores independentes de software (ISVs) no Marketplace.
+author: LauraBrenner
+ms.author: labrenne
 keywords: assinaturas, Marketplace, terceiros, ISV, SaaS, licença
 ms.localizationpriority: medium
-ms.openlocfilehash: ee1b32028cb24e20675aa0520837af0c1c72b8a5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c9366bfc9dc09d7c62fcf01cacf30944b8801550
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253784"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908089"
 ---
-# <a name="commercial-marketplace-overview"></a>Visão geral do Marketplace comercial
+# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Visão geral do Marketplace comercial no Partner Center
 
 **Aplica-se a**
 
@@ -37,7 +38,7 @@ Como um parceiro no programa CSP, você pode usar o Partner Center para comprar 
 
 Se você for um parceiro no programa CSP, haverá muitas atividades comerciais do Marketplace que talvez você queira executar em relação às ofertas de ISVs. Consulte a tabela a seguir para saber mais sobre cada atividade.
 
-|**Se você quiser**  |**Leitura**   |
+|**Se você quiser**  |**Ler**   |
 |:------------------------------------|:------------------|
 |Saiba como exibir ou Pesquisar ofertas disponíveis, preços, detalhes do produto ou informações de contato do Publicador | [Ofertas de descoberta](csp-commercial-marketplace-discover.md) | 
 |Saiba como comprar e implantar uma oferta   | [Ofertas de compra](csp-commercial-marketplace-purchase.md)   | 
@@ -68,7 +69,7 @@ Acesse [noções básicas de cobrança](billing-basics.md) para saber mais sobre
 
 Para saber onde concluir uma atividade específica do Marketplace para ofertas de ISV baseadas em licença ou em uso, consulte as tabelas a seguir.
 
-|**Para ofertas de SaaS baseadas em licença de ISVs**  |**Usar**  |
+|**Para ofertas de SaaS baseadas em licença de ISVs**  |**Utilizá**  |
 |:------------------------------------|:------------------|
 |Para descobrir ou Pesquisar ofertas disponíveis  | Painel do Partner Center ou APIs do Partner Center  |
 |Para comprar uma oferta  | Painel do Partner Center ou APIs do Partner Center  |
@@ -76,7 +77,7 @@ Para saber onde concluir uma atividade específica do Marketplace para ofertas d
 |Para cancelar/renovar as assinaturas de oferta ou adicionar/remover estações | Painel do Partner Center ou APIs do Partner Center  |
 |Para criar usuários ou gerenciar permissões  | Site ou sistema do ISV Publisher  |
 
-|**Para ofertas baseadas em uso de ISVs**  |**Usar**  |
+|**Para ofertas baseadas em uso de ISVs**  |**Utilizá**  |
 |:------------------------------------|:------------------|
 |Para descobrir ou Pesquisar ofertas disponíveis  | Painel do Partner Center, APIs do Partner Center ou portal do Azure  |
 |Para comprar uma oferta  | Portal do Azure  |

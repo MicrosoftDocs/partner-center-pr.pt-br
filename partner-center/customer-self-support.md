@@ -1,7 +1,7 @@
 ---
-title: Suporte autônomo do cliente | Partner Center
+title: Suporte autônomo do cliente
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba quando e onde os clientes podem executar o autoatendimento para gerenciar suas próprias contas e quando devem entrar em contato com seu parceiro de provedor de soluções na nuvem.
@@ -10,23 +10,22 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: suporte autônomo do cliente, suporte autônomo
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 0176c1dc714435b032b1c0e7a59df5306435e86b
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a1c15a75c638d557eace058d67723a86645c6e47
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798374"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907909"
 ---
-# <a name="customer-self-support"></a>Suporte autônomo do cliente
+# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Auto-suporte ao cliente por meio do centro de administração Microsoft Office 365 ou por meio do portal do Azure
 
 **Aplica-se a**
 
 -  Partner Center
 -  Partner Center do Microsoft Cloud for US Government
 
-
-Os clientes podem entrar no Centro de administração do Microsoft Office 365 ou no Portal de Gerenciamento do Azure e gerenciar suas próprias contas:
+Os clientes podem entrar em seu próprio Microsoft Office centro de administração 365 ou na portal do Azure para gerenciar suas próprias contas:
 
 -   Exiba comunicações e notificações no produto, como informações de integridade, no Message Center.
 

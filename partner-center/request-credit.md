@@ -1,22 +1,23 @@
 ---
-title: Solicitar um crédito de SLA da Microsoft | Centro de parceiros
+title: Solicitar um crédito de SLA da Microsoft
 ms.topic: article
-ms.date: 11/21/2019
-description: Conheça os benefícios, as restrições e os procedimentos para solicitar um crédito de SLA da Microsoft se seus clientes sofrerem uma interrupção de serviço.
+ms.date: 04/28/2020
+description: Conheça os benefícios, as restrições e os procedimentos para solicitar um crédito de SLA (contrato de nível de serviço) da Microsoft se seus clientes sofrerem uma interrupção de serviço.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bcc094b877d0128c73041044ce6304123d895fdb
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 328051d69f2dfd869cca8c80de595b2e27c9a1af
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943139"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907874"
 ---
-# <a name="request-an-sla-credit-from-microsoft"></a>Solicitar um crédito de SLA da Microsoft 
+# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Como e quando solicitar um crédito de SLA (contrato de nível de serviço) da Microsoft
 
 Você poderá solicitar créditos de **SLA (contrato de nível de serviço)** da Microsoft se um serviço que você está fornecendo para seus clientes tiver uma interrupção.
 
@@ -47,9 +48,9 @@ Você pode encontrar o identificador para o incidente de interrupção na págin
 | EX | Exchange Online |
 | FO | Proteção do Exchange Online |
 | SB | Skype for Business online (anteriormente Lync Online) |
-| SO | Assinatura do Office |
+| Sistema operacional | Assinatura do Office |
 | PB | Power BI para Office 365 |
-| SP | SharePoint Online |
+| SP | SharePoint online |
 | YA | Yammer Enterprise |
 | MO | Erro do portal |
 
@@ -57,10 +58,10 @@ Você pode encontrar o identificador para o incidente de interrupção na págin
 
 Para enviar sua solicitação de crédito de SLA para a Microsoft por meio do painel do Partner Center:
 
-1. Entre no painel do Partner Center.
+1. Entre no Painel do Partner Center.
 2. No menu à esquerda, escolha solicitações de **serviço**e, em seguida, selecione **solicitações de suporte do parceiro**.
 3. Na página **solicitação do parceiro** , escolha **nova solicitação**.
 4. Na página **iniciar a solicitação** , localize a seção **CSP-Customers, Orders e subscriptions**. Nesta seção, escolha **selecionar um tipo de problema**e, em seguida, selecione solicitações de crédito de atendimento **ao cliente**.
-5. Na página **soluções recomendadas** , em **você precisa de mais ajuda?** , escolha **Sim**.
+5. Na página **soluções recomendadas** , em **você precisa de mais ajuda?**, escolha **Sim**.
 6. Na página **detalhes** , preencha a seção **detalhes do problema** . Na caixa de texto **detalhes** , certifique-se de inserir as [informações necessárias](#required-information) que você coletou anteriormente.
 7. Escolha **Enviar** para enviar em sua solicitação de crédito de SLA.

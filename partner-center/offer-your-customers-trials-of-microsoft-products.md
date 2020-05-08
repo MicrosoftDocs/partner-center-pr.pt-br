@@ -1,29 +1,29 @@
 ---
-title: Oferecer avaliações de produtos da Microsoft aos clientes | Partner Center
+title: Oferecer avaliações de produtos da Microsoft aos clientes
 ms.topic: article
-ms.date: 03/18/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Seus clientes podem testar produtos de assinatura da Microsoft durante 30 dias. Inscreva-se para essas avaliações no catálogo, assim como muitos outros serviços online.
-author: brentserbus
-ms.author: brserbus
+description: Permita que os clientes experimentem produtos de assinatura da Microsoft por 30 dias. Inscreva-se nessas avaliações gratuitas no catálogo, assim como muitas outras serviços online.
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 6775656c53eed787d94e1b87924426f998b1adbe
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 66ea888a8efa9b44ea98b36c4341ba88f9bd1f4c
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80112455"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907348"
 ---
-# <a name="offer-your-customers-trials-of-microsoft-products"></a>Oferecer aos clientes avaliações de produtos da Microsoft
+# <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Fornecer a clientes avaliações gratuitas de 30 dias de produtos da Microsoft
 
 **Aplica-se a**
 
-- Centro de Parceiros
+- Partner Center
 
 **Funções apropriadas**
--   Administração global 
+-   Administrador global 
 -   Administrador de usuários
 -   Agente de vendas
 
@@ -33,20 +33,20 @@ Uma boa maneira de apresentar novos produtos da Microsoft aos clientes é oferec
 
 Você pode encontrar todas as suas ofertas de avaliação pendentes na página do **cliente** . Esta página lista todas as assinaturas, incluindo avaliações gratuitas e assinaturas pagas. (Esse recurso não está disponível atualmente na China.)
 
-Cada cliente tem direito a uma avaliação gratuita para cada oferta disponível. Por exemplo, eles podem obter uma avaliação gratuita do Office 365 Business Premium e uma avaliação gratuita do Office 365 E3. No entanto, se o cliente já possuir a oferta, ele não poderá usar uma avaliação gratuita para essa oferta.
+Cada cliente tem direito a uma avaliação gratuita para cada oferta disponível. Por exemplo, eles podem obter uma avaliação gratuita para Microsoft 365 Business Standard e uma avaliação gratuita do Office 365 E3. No entanto, se o cliente já possuir a oferta, ele não poderá usar uma avaliação gratuita para essa oferta.
 
 ### <a name="available-products"></a>Produtos disponíveis
 
 As avaliações gratuitas estão disponíveis para os seguintes produtos:
 
-- Office 365 Business Premium
+- Padrão de Microsoft 365 Business
 - Office 365 E3
 - Office 365 E5 com PSTN
 - Office 365 E5 sem PSTN
 - Enterprise Mobility & Security E5
 - Dynamics 365 Customer Engagement Plan 1
-- Dynamics 365 Business central
-- Microsoft 365 Business
+- Dynamics 365 Business Central
+- Microsoft 365 Business Premium
 
 Nós fornecemos avaliações gratuitas para esses produtos porque eles são as ofertas de negócios mais abrangentes e populares. É possível que adicionemos outras ofertas de avaliação gratuita no futuro.
 
@@ -97,10 +97,10 @@ Nem todas as avaliações podem ser convertidas em assinaturas pagas. Os parceir
 
 |**Avaliação**   |**Ofertas de pequenas empresas compatíveis**   |**Ofertas corporativas compatíveis**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Avaliação de nuvem comercial do Microsoft Teams (iniciada pelo usuário)   |Business Essentials, Business Premium, M365 Business   | F3 (anteriormente F1), Office 365 para empresas (E1, E3 e E5), M365 F1/F3, M365 Enterprise (E3)   |
+|Avaliação de nuvem comercial do Microsoft Teams (iniciada pelo usuário)   |Microsoft 365 Business Basic, Microsoft 365 Business Standard, Microsoft 365 Business Premium   | F3 (anteriormente F1), Office 365 para empresas (E1, E3 e E5), M365 F1/F3, M365 Enterprise (E3)   |
 
->[!Note] 
->As ofertas acima têm planos de serviço semelhantes com funcionalidade semelhante, no entanto, pode haver algumas diferenças entre as ofertas. 
+>[!NOTE]
+>As ofertas acima têm planos de serviço semelhantes com funcionalidade semelhante, no entanto, pode haver algumas diferenças entre as ofertas.
 
 ### <a name="expiring-offers"></a>Ofertas expirando
 

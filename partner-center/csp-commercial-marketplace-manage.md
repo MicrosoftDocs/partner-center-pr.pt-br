@@ -1,32 +1,33 @@
 ---
-title: Gerenciar produtos ou ofertas do Marketplace comercial para seus clientes | Centro de parceiros
+title: Gerenciar produtos do Marketplace & ofertas
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Usando o Partner Center, saiba como os provedores de soluções na nuvem podem gerenciar diferentes ofertas de ISVs de terceiros compradas para os clientes do mercado comercial.
-author: MicheleHope
-ms.author: v-mihope
+description: Usando o Partner Center, saiba como os provedores de soluções na nuvem podem gerenciar ofertas de ISV de terceiros adquiridas para clientes do mercado comercial.
+author: LauraBrenner
+ms.author: labrenne
 keywords: assinaturas, Marketplace, terceiros, ISV, ofertas de SaaS, programa de provedor de soluções na nuvem, gerenciar uma oferta, gerenciar uma assinatura, licenças, cancelar uma assinatura, estações, desativar renovação automática, ID de MPN do revendedor indireto
 ms.localizationpriority: medium
-ms.openlocfilehash: 7dbcc978340240175d2c03a5ba1e9312b48d7bdc
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 53e750c3e661115071c359ce56fbb97a31edeef9
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114948"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908097"
 ---
-# <a name="manage-commercial-marketplace-products-for-your-customers"></a>Gerenciar produtos do Marketplace comercial para seus clientes
+# <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Gerenciar produtos e ofertas do Marketplace comercial para seus clientes
 
 **Aplica-se a**
 
-- Centro de Parceiros
+- Partner Center
 - Parceiros no programa CSP
 
 **Funções apropriadas**
 
-- Administração global
-- Agente administrador
+- Administrador global
+- Agente administrativo
 
 Os parceiros no programa CSP (provedor de soluções de nuvem) podem usar o portal do Partner Center para comprar muitas ofertas ou assinaturas de SaaS de ISV para seus clientes a partir do mercado comercial. Depois de comprar uma oferta, você tem várias maneiras de gerenciá-la.
 
@@ -57,7 +58,7 @@ Depois de comprar uma assinatura de um Publicador ISV de terceiros, você pode r
 
 ## <a name="assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer"></a>Atribuir licenças e ativar uma assinatura em nome de um cliente
 
-Quando você adquire uma oferta de SaaS (software como serviço) fornecida por um editor independente de fornecedor de software (ISV) no mercado comercial, o editor ISV ajuda a gerenciar o processo de atribuição de licenças e ativação da assinatura em nome do seu cliente.
+Quando você adquire uma oferta de SaaS (software como serviço) fornecida por um editor independente de fornecedor de software (ISV) no mercado comercial, o editor ISV ajuda a gerenciar o processo de atribuição de licenças e ativação da assinatura em nome do cliente.
 
 O Publicador deve fornecer um link personalizado e um código de autorização que identifica sua compra específica.
 
@@ -111,7 +112,7 @@ Para ofertas de Marketplace comercial de SaaS, você pode adicionar ou remover l
 
 Você também pode usar as APIs do Partner Center para executar o gerenciamento do ciclo de vida e gerenciar faturas para suas assinaturas. Para obter mais informações, consulte [criar uma assinatura para produtos do Marketplace comercial](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).
 
-## <a name="next-steps"></a>{1&gt;{2&gt;Próximas etapas&lt;2}&lt;1}
+## <a name="next-steps"></a>Próximas etapas
 
 - [Comprar ofertas do Marketplace comercial](csp-commercial-marketplace-purchase.md)
 - [Saiba mais sobre cobrança no Marketplace comercial](csp-commercial-marketplace-billing.md)

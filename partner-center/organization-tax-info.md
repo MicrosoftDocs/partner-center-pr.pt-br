@@ -1,29 +1,29 @@
 ---
-title: Informações fiscais da organização | Partner Center
+title: Adicionar ou enviar uma ID de IVA para impostos comerciais
 ms.topic: article
-ms.date: 11/07/2019
+ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Os impostos sobre compras na Windows Store para Empresas são determinados pelo seu endereço comercial. As empresas nesses países/regiões podem fornecer seu número de IVA ou equivalente local.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 61ed931a33d0eec9cb2858a3cf653e69610c2b8f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOAPR.20
+ms.openlocfilehash: e0c5e2dab3a4316a6ee888c73a64c7894bdf1baf
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005025"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907326"
 ---
-# <a name="company-tax-information"></a>Informações de imposto da empresa
+# <a name="company-tax-information-and-how-to-add-or-submit-vat-ids-for-partner-center-purchases"></a>Informações de impostos sobre a empresa e como adicionar ou enviar IDs de IVA para compras do Partner Center
 
 **Aplica-se a**
 
 - Partner Center
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 -   Administrador de usuários
 -   Administrador de cobrança
 -   Agente administrativo

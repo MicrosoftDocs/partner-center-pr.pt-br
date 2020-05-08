@@ -1,24 +1,25 @@
 ---
-title: Reservas do Azure e assinaturas de servidor | Centro de parceiros
+title: Reservas do Azure & assinaturas de servidor
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba mais sobre as oportunidades do provedor de soluções na nuvem para adquirir, provisionar e gerenciar reservas do Azure e assinaturas de servidor para seus clientes.
+description: Saiba mais sobre as oportunidades do provedor de soluções na nuvem para adquirir, provisionar e gerenciar reservas do Azure e assinaturas de servidor para clientes.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, assinaturas, VM, reserva, instância reservada
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b3d83a63e6c0a2fd72541f409ed22c598b1538e
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d308c3e0e347e8d1c7975ba3c8cbabb88faf9bf8
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205734"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908278"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
-# <a name="azure-reserved-vm-instances-ri--server-subscriptions-for-azure"></a>Instâncias de VM reservadas do Azure (RI) + assinaturas de servidor para Azure
+# <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Adquirir, provisionar & gerenciar instâncias de VM reservadas do Azure (RI) + assinaturas de servidor para clientes
 
 Aplica-se a:
 

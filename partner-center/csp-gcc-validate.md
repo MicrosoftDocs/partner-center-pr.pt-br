@@ -1,26 +1,27 @@
 ---
-title: Critérios de qualificação de parceiros e clientes do Office 365 Government GCC | Partner Center
+title: Critérios de qualificação de parceiros e clientes do Office 365 Government GCC
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Conheça as etapas para parceiros de cobrança direto (revendedores diretos, provedores indiretos) para validar parceiros e clientes para o GCC do Office 365 governamental para CSP.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 31923fa47083392a2621ae4d0f73ff94dccf9778
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d598db3760c54c1be5b37501d04f373231b2e4da
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798464"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908055"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Critérios de qualificação de parceiros e clientes do Office 365 Government GCC para CSP
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria---partner-center"></a>Office 365 governamental GCC para parceiros CSP e critérios de qualificação para clientes-Partner Center
 
 **Aplica-se a**
 
--  Partner Center
--  Parceiros CSP
+- Partner Center
+- Parceiros CSP
 
 **Funções apropriadas**
 
@@ -31,9 +32,9 @@ ms.locfileid: "82798464"
 >[!NOTE]
 >O processo e os critérios de validação descritos abaixo são específicos para parceiros de cobrança direta. Os parceiros de cobrança direta incluem revendedores diretos e provedores indiretos.  Se você for um Revendedor Indireto, trabalhe com seu Provedor Indireto.
 
-Se você estiver interessado em ter sua organização ou organização de seus clientes aprovada para o Office 365 Government GCC para CSP, examine os requisitos a seguir.
+Se você estiver interessado em ter sua organização (ou a organização do cliente) aprovada para o GCC do Office 365 governamental para CSP, examine os requisitos abaixo.
 
-Você pode ser aprovado se for um parceiro servindo as entidades governamentais federais, estaduais, locais ou tribais dos EUA. Para ter a qualificação de suas organizações validada, preencha o breve formulário localizado [aqui](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
+Você pode ser aprovado se for um parceiro servindo as entidades governamentais federais, estaduais, locais ou tribais dos EUA. Para que sua qualificação de organizações seja validada, preencha o breve formulário localizado [aqui](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
 
 Seu cliente poderá ser aprovado se for uma organização que manipule dados controlados pelo governo ou se for uma entidade do governo federal, estado, local ou tribal dos EUA. Para que a qualificação das organizações de seus clientes seja validada, preencha o breve formulário localizado [aqui](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
 
@@ -48,7 +49,7 @@ Os parceiros e clientes do Office 365 Government GCC para CSP serão validados p
 2.  Serve clientes do governo dos EUA por meio de GSA ou outros veículos de contrato
 
 **Critérios do cliente**
-1.  Entidade governamental dos EUA em sua capacidade governamental. Por exemplo: 
+1.  Entidade governamental dos EUA em sua capacidade governamental. Por exemplo:
  
     -  Agência federal (por exemplo, bureau, agência, departamento ou outra entidade do governo dos Estados Unidos)
     -   Entidade estadual/local 

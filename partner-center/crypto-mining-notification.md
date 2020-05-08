@@ -1,7 +1,7 @@
 ---
-title: Notificação do Partner Center para atividade de mineração de criptografia | Centro de parceiros
+title: Notificação de atividade de mineração de criptografia
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba o que isso significa quando você vir uma notificação sobre potencial mineração de criptomoeda (ou mineração de criptografia) em uma ou mais de suas assinaturas do Azure.
@@ -10,12 +10,13 @@ ms.author: labrenne
 Keywords: criptografia-mineração, mineração de criptomoeda, segurança
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 35cdb08c2c673e2c7bd0e8ebb8e22f5671eef186
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 68ee138b6c87dde53eda026d7fef371e2e440344
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722310"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908393"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notificação do Partner Center para atividade de mineração de criptomoeda
 
@@ -54,7 +55,7 @@ A detecção de atividades de mineração de criptomoedas se baseia em heurísti
 Se tiver dúvidas ou preocupações sobre a notificação, você pode usar o procedimento a seguir para abrir uma solicitação de suporte.
 
 1.  No Partner Center, selecione **suporte** e, em seguida, selecione **solicitações do Partner Center**.
-3.  Selecione **Nova solicitação**. 
+3.  Selecione **nova solicitação**. 
 4.  No menu suspenso **Tipo de problema**, selecione **Adding or managing customers**.
 5.  No menu suspenso **Impacto**, selecione **Moderado**.
 6.  No campo **Título**, insira **Crypto-mining notification**.

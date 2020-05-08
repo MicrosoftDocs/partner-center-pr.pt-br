@@ -1,22 +1,23 @@
 ---
-title: Como fornecer suporte para seus clientes | Partner Center
+title: Como fornecer suporte para seus clientes
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba mais sobre as responsabilidades de atendimento ao cliente de parceiros no programa CSP.
+description: Saiba mais sobre as responsabilidades de atendimento ao cliente para parceiros no programa CSP.
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9d7a6c7a9d6280ceb454e2e93dfe14b58e782fd7
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 6c12f56f30c347266c4f02ea74ac09ac0e37cb7b
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798934"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907890"
 ---
-# <a name="providing-support-to-your-customers"></a>Como fornecer suporte para seus clientes
+# <a name="providing-different-types-of-support-to-your-customers"></a>Fornecendo diferentes tipos de suporte para seus clientes
 
 **Aplica-se a**
 

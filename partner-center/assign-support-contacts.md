@@ -1,24 +1,24 @@
 ---
-title: Atribuir contatos de suporte | Partner Center
+title: Atribuir contatos de suporte para clientes
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como atribuir um revendedor como um contato de suporte técnico para clientes com assinaturas para serviços da Microsoft.
+description: Saiba como atribuir um revendedor como um contato de suporte técnico para clientes que têm assinaturas para os serviços da Microsoft.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: LauraBrenner
 ms.author: labrenne
 keywords: agente de ajuda, suporte, atribuir contato de suporte, contato de suporte designado
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 0c27f0919d9ed14c91764677465db4945b680cc8
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 172fb7bc6ec4c7a4f6ce4549d96eb2487418a017
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722397"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907467"
 ---
-# <a name="assign-support-contacts"></a>Atribuir contatos de suporte
+# <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Atribuir um revendedor como um contato de suporte técnico para os clientes
 
 **Aplica-se a**
 
@@ -27,7 +27,7 @@ ms.locfileid: "74722397"
 **Funções apropriadas**
 
 - Agente administrativo
-- Administração global
+- Administrador global
 - Agente de suporte técnico
 - Agente de vendas
 - Administrador de gerenciamento de usuário
@@ -43,7 +43,7 @@ Isso pode ser usado para cenários de [multi-parceiros](multipartner.md) e [mult
 
 1.  Comece por [solicitar uma relação](request-a-relationship-with-a-customer.md) com seu revendedor de produto designado. Negocie um contrato de suporte com eles para lidar com suporte técnico.
 
-2.  No menu do **centro de parceiros** , selecione **clientes**, em seguida, selecione um cliente e, em seguida, selecione uma assinatura, por exemplo, Office 365 Business Premium.
+2.  No menu do **centro de parceiros** , selecione **clientes**, em seguida, selecione um cliente e, em seguida, selecione uma assinatura, por exemplo, Office 365 Business Standard.
 
 3.  Em **Contato de suporte designado**, selecione o revendedor de produto designado e, em seguida, clique em **Enviar**. 
 
