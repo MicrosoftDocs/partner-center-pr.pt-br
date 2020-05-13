@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: assinatura do Azure, mudar de parceiro, alterar parceiro, obter novo parceiro, outro parceiro
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 5976cba3c0d1ef6984fc88497412577e83e999f7
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 01316ceebcd2f969c89b4160bf5d95dcc44b1366
+ms.sourcegitcommit: 46b86ac7467afa43bedb0943dc8dc45a69caf1dd
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205574"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "83194391"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Saiba como transferir as assinaturas do Azure de um cliente para outro parceiro
 
@@ -32,7 +32,7 @@ Para alternar os serviços ou assinaturas do Azure de um cliente para um parceir
 
 >[!Note]  
 >Atualmente, somente provedores diretos ou indiretos podem transferir assinaturas.
->Você não pode alterar parceiros para assinaturas do provedor de soluções na nuvem associadas às assinaturas do Office 365, Enterprise Mobility Suite ou Microsoft Dynamics CRM.
+>Você não pode alterar parceiros para assinaturas do provedor de soluções na nuvem associadas ao plano do Azure, Office 365, Enterprise Mobility Suite ou assinaturas do Microsoft Dynamics CRM.
 
 **Mudar de parceiro para assinaturas do Azure**
 
