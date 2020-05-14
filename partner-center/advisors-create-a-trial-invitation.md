@@ -3,24 +3,23 @@ title: Criar um convite para avaliação do Office 365
 ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter
 description: Saiba como os parceiros podem criar e enviar convites de avaliação para seus clientes para experimentar o Office 365. Os parceiros são um consultor autorizado de assinatura.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, avaliação
 ms.custom: SEOAPR.20
-ms.openlocfilehash: ab1b889e7ad71d19e6b7358c9ccb80aa78ed9f38
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 2f8faddce7755a34687f0403b8ba27ea734d8018
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907449"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362614"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Consultores: Crie e envie um convite de avaliação para que os clientes experimentem o Office 365
 
 > [!NOTE]
-> Esse recurso está disponível somente para parceiros da Microsoft que são consultores de assinatura autorizados. 
+> Esse recurso está disponível somente para parceiros da Microsoft que são consultores de assinatura autorizados.
 
 Você pode criar e enviar convites de avaliação para seus clientes para que eles possam experimentar o Office 365. Quando você cria um convite para avaliação, o assistente para **criar convite de avaliação** cria uma URL personalizada para você. A URL tem um código inserido que identifica você como o supervisor de assinatura. Você pode usar essa URL para um ou vários clientes. Envie a URL para o cliente em um email ou use a URL em outros documentos. A assinatura pode conter um ou mais serviços, dependendo da oferta em particular. Um convite pode ser enviado para apenas uma assinatura de avaliação por vez.
 
@@ -28,7 +27,7 @@ Se você estiver certificado para oferecer administração delegada, poderá adi
 
 ## <a name="to-create-a-trial-invitation"></a>Para criar um convite para avaliação
 
-1. Navegue > até **avaliações e ofertas de compra****criar convites**.
+1. Navegue até **avaliações e ofertas de compra**  >  **criar convites**.
 
 2. Na página **criar convite para avaliação** , selecione as opções de convite de avaliação que você deseja incluir:
 
@@ -40,7 +39,7 @@ Se você estiver certificado para oferecer administração delegada, poderá adi
     - **Assinaturas de avaliação**: a lista de assinaturas de avaliação que você pode escolher é determinada pelo local de uso do país ou da região do seu cliente.
     - **Administração delegada**: essa opção só está disponível para parceiros que estão certificados para oferecer administração delegada. Escolha esta opção se desejar oferecer a administração delegada do cliente. Se você fizer isso, o cliente poderá aceitar o convite de avaliação com ou sem a aceitação da administração delegada. Para obter mais informações sobre administração delegada, consulte [oferecer administração delegada](customers_revoke_admin_privileges.md).
 
-3. Clique em **Próximo**.
+3. Clique em **Avançar**.
 
 4. Na página**convite para avaliação** , copie as informações e a URL do convite de avaliação e cole-as em um email, um documento ou uma página da Web para criar um convite de avaliação personalizado.
 

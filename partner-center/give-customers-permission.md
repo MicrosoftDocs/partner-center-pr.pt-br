@@ -1,23 +1,23 @@
 ---
-title: Dê permissão aos clientes para comprar seus próprios serviços
+title: Dê permissão aos clientes para que comprem seus próprios serviços
+description: Saiba como os parceiros do programa CSP podem permitir que os clientes comprem seus próprios serviços, como reservas do Azure, para uma assinatura adquirida para eles.
 ms.topic: article
-ms.date: 04/28/2020
+ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como os parceiros do programa CSP podem permitir que os clientes comprem seus próprios serviços, como reservas do Azure, para uma assinatura adquirida para eles.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: assinatura, compra de autoatendimento, RI de autoatendimento, habilitar RI, desabilitar RI, autoatendimento, compra de cliente, permissões de cliente, instância reservada de compra de cliente, reservas do Azure para comprar, ativar autoatendimento, desligar o autoatendimento
 ms.localizationpriority: medium
-ms.openlocfilehash: ee8f1221344ce2375aff63c52bbfd42350a29839
-ms.sourcegitcommit: 8359f618426e341180b0380367dd9d16dfd6623c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 625229eb9243bc6deb631a824e8197fd0565072a
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "82255462"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362604"
 ---
-# <a name="learn-how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>Saiba como dar aos clientes permissão para comprar seus próprios produtos ou serviços
+# <a name="how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>Como dar aos clientes permissão para comprar seus próprios produtos ou serviços
 
 **Aplica-se a**
 
@@ -33,7 +33,7 @@ Este artigo mostra como um parceiro no programa CSP (provedor de soluções na n
 
 Os parceiros no programa CSP geralmente usam o Partner Center e seu mercado comercial para comprar soluções e serviços para seus clientes. Os parceiros permitem que alguns clientes provisionem esses serviços diretamente do portal do Azure.
 
-Veja um exemplo. Digamos que você compre uma assinatura do plano do Azure para um cliente no Partner Center. Em seguida, você decide adicionar outros recursos ou serviços a essa assinatura em nome do cliente. Nesse caso, você pode adicionar reservas do Azure à assinatura do cliente (como adicionar instâncias de máquina virtual reservadas). Em seguida, você pode permitir que o cliente provisione ainda mais os recursos de reserva do Azure no portal do Azure.
+Aqui está um exemplo. Digamos que você compre uma assinatura do plano do Azure para um cliente no Partner Center. Em seguida, você decide adicionar outros recursos ou serviços a essa assinatura em nome do cliente. Nesse caso, você pode adicionar reservas do Azure à assinatura do cliente (como adicionar instâncias de máquina virtual reservadas). Em seguida, você pode permitir que o cliente provisione ainda mais os recursos de reserva do Azure no portal do Azure.
 
 Agora, com o recurso de **permissões de cliente** , você fornece aos clientes mais opções de autoatendimento com os recursos do Azure. Ao ativar as permissões para o cliente, você permite que os clientes comprem seus próprios recursos (como, por exemplo, comprando suas próprias reservas do Azure).  
 
@@ -46,13 +46,23 @@ Use a página **conta** do cliente para ativar (ou desativar) as permissões do 
 Antes de ativar as permissões do cliente, observe estes pontos importantes:
 
 - Por padrão, as permissões do cliente são desabilitadas automaticamente (desativadas) no Partner Center.
+
 - Antes de ativar (ou desativar) as permissões para um cliente, você deve receber a função de agente de administração no Partner Center.
+
   Os parceiros que atribuiram a função de agente de vendas ou agente de suporte técnico têm acesso somente leitura e não podem ativar ou desativar as permissões do cliente.
+
 - Você pode ativar (habilitar) permissões para qualquer cliente que escolher.
+
 - Você pode ativar (ou desativar) as permissões do cliente usando o painel do Partner Center ou as [APIs do Partner Center](https://docs.microsoft.com/partner-center/develop/manage-customers).
-- Depois de ativar (habilitar) as permissões para um cliente específico, você será responsável por pagar por quaisquer compras subsequentes feitas por esse cliente. Se os clientes desejarem trocar, cancelar ou renovar uma compra que eles fizeram, eles não poderão fazer isso por conta própria. Eles precisam pedir a você, como parceiro, para ajudá-los a trocar, cancelar ou renovar essas compras.
+
+- Depois de ativar (habilitar) as permissões para um cliente específico, você será responsável por pagar por quaisquer compras subsequentes feitas por esse cliente. Se os clientes quiserem trocar, cancelar ou renovar uma compra que foram feitas (ou se quiserem alterar o escopo inicial de uma reserva), eles não poderão fazer isso por conta própria. Eles precisam pedir a você, como parceiro, para ajudá-los a trocar, cancelar e renovar compras ou fazer alterações posteriores no escopo de uma reserva.  
+
 - Depois de ativar as permissões para um cliente específico, você **não** será notificado sobre nenhuma compra posterior feita pelo cliente.
+
 - As compras posteriores feitas pelo cliente serão exibidas no Partner Center junto com as compras feitas por você. Você pode encontrar essas compras na página histórico do **pedido** do cliente, na página **reservas** ou no log de [**atividades**](activity-logs.md).
+
+>[!NOTE]
+> Para obter informações sobre os preços que o cliente pagará e como ajudar os clientes a gerenciar suas compras, consulte [ajudar os clientes a gerenciar as reservas que comprarem](give-customers-permission.md#help-customers-manage-reservations-they-purchase).
 
 ## <a name="give-customers-permission-to-buy-their-own-azure-reservations"></a>Dê permissão aos clientes para comprar suas próprias reservas do Azure
 
@@ -61,7 +71,7 @@ As reservas do Azure são uma ótima maneira de comprar os serviços do Azure co
 Agora você tem a opção de comprar reservas do Azure em nome de seus clientes, pois talvez já tenha feito isso. Ou você pode conceder aos clientes permissão para comprar suas próprias reservas do Azure.
 
 >[!NOTE]
-> Depois de conceder aos clientes permissão para comprar suas próprias reservas do Azure, você pode ajudá-los a entender como gerenciar as reservas que comprarem. Por exemplo, os clientes talvez queiram saber como otimizar o uso de uma reserva ou como alterar o escopo de uma reserva. Para obter mais informações sobre esses tópicos, peça aos clientes para ler as [reservas de gerenciamento de recursos do Azure]( https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance).
+> Depois de conceder aos clientes permissão para comprar suas próprias reservas do Azure, ajude-os a gerenciar as reservas que comprarem. Para obter mais informações, consulte [ajudar os clientes a gerenciar as reservas que comprarem](give-customers-permission.md#help-customers-manage-reservations-they-purchase).
 
 ### <a name="to-enable-customers-to-buy-their-own-azure-reservations"></a>Para permitir que os clientes comprem suas próprias reservas do Azure
 
@@ -125,10 +135,33 @@ Para ativar (ou desativar) as permissões de cliente no Partner Center:
 7. Para ativar as permissões do cliente, mova a opção ao lado dessa opção para a posição **ligado** . Para desativar as permissões do cliente, mova a mudança para a posição **desativado** .
 
 >[!NOTE]
-> Para saber o que mais acontece quando você ativa as permissões de um cliente para comprar suas próprias reservas do Azure, consulte [visão geral das permissões do cliente no Partner Center](give-customers-permission.md#overview-of-customer-permissions-in-partner-center). Quando você ativa (ou desativa) as permissões de cliente, o log de atividades registra cada ação. (Esse log é acessível quando você seleciona o ícone de engrenagem na parte superior do painel do Partner Center). Quando você ativar ou desativar as permissões do cliente, a ação será exibida como **criar permissões de compra do cliente** ou **excluir permissões de compra do cliente** no log de atividades.
+> Para saber o que mais acontece quando você ativa as permissões de um cliente para comprar suas próprias reservas do Azure, consulte [visão geral das permissões do cliente no Partner Center](give-customers-permission.md#overview-of-customer-permissions-in-partner-center).
+>
+>Quando você ativa (ou desativa) as permissões de cliente, o log de atividades registra cada ação. (Esse log é acessível quando você seleciona o ícone de engrenagem na parte superior do painel do Partner Center). Quando você ativar ou desativar as permissões do cliente, a ação será exibida como **criar permissões de compra do cliente** ou **excluir permissões de compra do cliente** no log de atividades.
 
-## <a name="see-also"></a>Confira também
+## <a name="help-customers-manage-reservations-they-purchase"></a>Ajude os clientes a gerenciar as reservas que comprarem
+
+Depois de conceder aos clientes permissão para comprar suas próprias reservas do Azure, você pode ajudá-los a gerenciar melhor os recursos que comprarem. Os clientes podem gerenciar vários aspectos das próprias reservas do Azure diretamente do [portal do Azure](https://portal.azure.com/). Eles precisarão de sua ajuda para gerenciar alguns outros aspectos das reservas do Azure que comprarem em sua assinatura do CSP.  
+
+Ajude os clientes a entender mais sobre o gerenciamento desses aspectos de reservas do Azure:
+
+- Preços que os clientes pagarão pelas reservas do Azure
+- Como os clientes podem otimizar o uso de reservas do Azure
+- O que acontece quando os clientes compram reservas com um escopo compartilhado?
+- O que acontece se os clientes desejarem alterar, cancelar e renovar uma reserva ou alterar seu escopo?
+
+**Os preços que os clientes pagarão por suas reservas.** Seu cliente comprará as reservas do Azure com base em uma assinatura que você comprou anteriormente para elas em sua conta de cobrança do parceiro CSP. O preço do cliente para quaisquer reservas do Azure adquiridas com base nessa assinatura também é definido por você. Esse preço pode ser diferente do preço direto da Web que o cliente vê na portal do Azure.
+
+**Como os clientes podem otimizar o uso de uma reserva.** Alguns clientes podem se beneficiar de aprender mais sobre como otimizar o uso de uma reserva ou como atribuir o escopo inicial de uma reserva durante sua compra. Para obter mais informações, peça aos clientes para ler as [reservas de gerenciamento de recursos do Azure]( https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance).
+
+**O que acontece quando um cliente adquire uma reserva com um escopo compartilhado?** Quando os clientes comprarem uma reserva com base em uma assinatura do CSP anterior e atribuirem um escopo compartilhado a essa reserva, todos os descontos que o cliente recebeu pelo CSP serão aplicados ao uso correspondente para todas as assinaturas que o parceiro CSP comprou para esse cliente.
+
+**O que os clientes devem fazer se desejarem trocar, cancelar ou renovar uma compra que eles fizeram ou alterar o escopo inicial de uma reserva?** Os clientes precisam pedir ao seu parceiro para ajudá-los a alterar o escopo inicial de uma reserva. Eles também precisam de ajuda de um parceiro para trocar, cancelar ou renovar uma reserva. Eles não podem executar essas tarefas por conta própria com reservas com base em assinaturas adquiridas por um parceiro CSP.
+
+## <a name="next-steps"></a>Próximas etapas
 
 - [Comprar reservas do Azure em nome de seus clientes](azure-reservations-buying.md)
+
 - [Partner Center – vender reservas da Microsoft](azure-reservations.md)
-- [Gerenciar reservas do Azure em nome dos seus clientes](azure-reservations-manage.md) 
+
+- [Gerenciar reservas do Azure em nome dos seus clientes](azure-reservations-manage.md)

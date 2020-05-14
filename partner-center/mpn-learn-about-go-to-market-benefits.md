@@ -1,5 +1,5 @@
 ---
-title: Saiba mais sobre o lançamento no mercado com as ofertas da Microsoft | Centro de parceiros
+title: Saiba mais sobre o lançamento no mercado com as ofertas da Microsoft
 ms.topic: article
 ms.date: 03/16/2020
 ms.service: partner-dashboard
@@ -9,23 +9,23 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: MPN, benefícios de associação, associação, ofertas de entrada no mercado, entrar no mercado com a Microsoft, ir para o mercado, associação Gold, associação Silver
 ms.localizationpriority: medium
-ms.openlocfilehash: 593b21e8ac74440aca5599dcf3b49a0ed877a827
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.openlocfilehash: 19b00c2732faa18581214c6d32139c7f2e6ec15a
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226202"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362714"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Explore seu lançamento no mercado com as ofertas da Microsoft
 
 **Aplica-se a**
 
-- Centro de Parceiros
+- Partner Center
 - Membros do Microsoft Partner Network
 
 **Funções apropriadas**
 
-- Administração global
+- Administrador global
 - Administrador de parceiros do MPN
 
 Quando você se tornou um membro Microsoft Partner Network, você tem acesso a benefícios de associação que podem ajudá-lo a criar e expandir seus negócios. Entrar no mercado com recursos, ofertas e programas da Microsoft estão entre os [vários benefícios](https://partner.microsoft.com/manage-your-partner-network-benefits) que você recebe como um membro Microsoft Partner Network.
@@ -34,7 +34,6 @@ As ofertas de entrada no mercado oferecem acesso a recursos de marketing e venda
 
 >[!NOTE]
 >Se você ainda não é membro do Microsoft Partner Network, ingresse no [site do Microsoft Partner Network](https://partner.microsoft.com/membership).
-
 
 ## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>Recursos de lançamento no mercado, ofertas e programas disponíveis por nível de associação
 
@@ -67,9 +66,9 @@ Para exibir suas ofertas de volta ao mercado:
 
 1. Entre no [painel]( https://docs.microsoft.com/partner-center/) do Partner Center.
 
-2. No menu à esquerda, selecione **MPN**. Em seguida, siga um destes procedimentos:
+2. No menu à esquerda, selecione **MPN**. Em seguida, realize um dos seguintes procedimentos:
 
-    - Selecione **visão geral**. Role até a seção **links rápidos** e selecione a guia **ir para o mercado** .
+    - Selecione **Visão geral**. Role até a seção **links rápidos** e selecione a guia **ir para o mercado** .
 
       ou
 
@@ -84,10 +83,10 @@ Para obter etapas específicas para ativar ou gerenciar suas ofertas de entrada 
 >[!IMPORTANT]
 >Você precisa ser administrador global ou administrador do parceiro MPN para ativar ofertas específicas de entrada no mercado e atribuir um contato de marketing relacionado. Se necessário, você poderá se tornar um administrador global seguindo as instruções da [página **Benefícios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (entrada necessária). Talvez sua empresa já tenha um administrador global; portanto, verifique isso com a sua equipe.
 
-#### <a name="see-also"></a>Consulte também
+## <a name="next-steps"></a>Próximas etapas
 
-[Benefícios de gerenciar sua rede de parceiros](manage-your-partner-network-benefits.md)
+- [Benefícios de gerenciar sua rede de parceiros](manage-your-partner-network-benefits.md)
 
-[Adquirir ou renovar uma assinatura do Microsoft Action Pack](mpn-get-action-pack.md)
+- [Adquirir ou renovar uma assinatura do Microsoft Action Pack](mpn-get-action-pack.md)
 
-[Saiba mais sobre as competências](learn-about-competencies.md)
+- [Saiba mais sobre as competências](learn-about-competencies.md)

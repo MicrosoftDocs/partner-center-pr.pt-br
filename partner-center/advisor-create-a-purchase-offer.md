@@ -3,19 +3,18 @@ title: Criar uma oferta de compra
 ms.topic: article
 ms.date: 05/07/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter
 description: Descubra como um orientador de assinatura autorizado pode usar o Partner Center para criar uma oferta de compra e uma URL personalizada para incluir em convites de avaliação do Office 365.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, compra
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 836bb0a0fa7226cd01435b4d5d3d7cd59bfad5e2
-ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
+ms.openlocfilehash: b96a918b18240869305b18deb24241cbc64a1df1
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "82975107"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362674"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Consultores: criar uma oferta de compra
 
@@ -26,11 +25,11 @@ Depois de enviar um convite de avaliação para o Office 365 para um cliente, vo
 
 Quando você cria a oferta de compra, o assistente para **criar oferta de compra** cria uma URL personalizada para você. A URL tem um código inserido que identifica você como o supervisor de assinatura. Você pode usar essa URL para um ou vários clientes. Envie a URL para o cliente em um email. Ou, você pode postar a URL no seu site. Se o cliente aceitar a oferta, você estará associado à compra do cliente.
 
-Se o cliente quiser um número diferente de licenças, envie-a uma nova oferta ou altere o número de licenças ao comprar a assinatura. 
+Se o cliente quiser um número diferente de licenças, envie-a uma nova oferta ou altere o número de licenças ao comprar a assinatura.
 
 ## <a name="to-create-a-purchase-offer"></a>Para criar uma oferta de compra
 
-1. Navegue até **avaliações e compras ofertas** > **criar oferta**.
+1. Navegue até **avaliações e compras ofertas**  >  **criar oferta**.
 
 2. Na página **criar oferta de compra** , selecione as opções de oferta de compra que você deseja incluir:
 
@@ -50,7 +49,9 @@ Se o cliente quiser um número diferente de licenças, envie-a uma nova oferta o
     > [!NOTE]
     > Anote a **ID de resumo**da oferta de compra. Use-o para acompanhar a oferta.
 
-5. Você pode personalizar a mensagem incluindo o logotipo da empresa, introdução, comentários de fechamento ou outras informações. Envie a oferta de compra para o cliente.
+5. Você pode personalizar a mensagem incluindo o logotipo da empresa, introdução, comentários de fechamento ou outras informações.
+
+    Envie a oferta de compra para o cliente.
 
 6. Ao personalizar sua mensagem, considere incluir essas informações:
 

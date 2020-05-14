@@ -1,5 +1,5 @@
 ---
-title: Transição do parceiro de cobrança direto do CSP (provedor de soluções na nuvem) para o revendedor indireto do CSP | Centro de parceiros
+title: Transição do parceiro de fatura direto do CSP (Provedor de Soluções na Nuvem) para o revendedor indireto do CSP
 ms.topic: article
 ms.date: 04/27/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: fatura direta, transição, revendedor indireto
-ms.openlocfilehash: d70ff8ec0b9639ea02ca8e472f720f06aef6f070
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 8002504622e330aefd4ec20d8a49a27454360e3f
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205684"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362664"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transição do parceiro de fatura direto do CSP (Provedor de Soluções na Nuvem) para o revendedor indireto do CSP
 
@@ -47,9 +47,9 @@ Você poderá se registrar no programa revendedor indireto usando seu locatário
 5. Quando seu registro for aprovado, entre no Partner Center novamente.
 
     > [!NOTE]
-    > Embora a aprovação seja normalmente imediata, pode levar até cinco dias úteis. Depois de aprovado, você receberá uma notificação para o endereço de email especificado em contato principal no formulário de registro. Você também pode verificar o status do registro em **configurações** > do**parceiro configurações** > de parceiros perfil de**parceiro** > informações do programa.
+    > Embora a aprovação seja normalmente imediata, pode levar até cinco dias úteis. Depois de aprovado, você receberá uma notificação para o endereço de email especificado em contato principal no formulário de registro. Você também pode verificar o status do registro em **configurações**do  >  **parceiro configurações de parceiros**  >  **perfil de parceiro** > informações do programa.
 
-6. Na página de **visão geral** , você verá o contrato de revendedor indireto. Selecione **Aceitar e continuar**. Isso habilita os recursos indiretos do revendedor.
+6. Na página de **visão geral** , você verá o contrato de revendedor indireto. Selecione **Aceitar e continuar**. Essa ação habilita os recursos indiretos do revendedor.
 
 Quando você tiver aceitado o contrato de revendedor indireto, observe que seu perfil **de parceiro identifica você como uma** fatura direta e um revendedor indireto.
 
@@ -86,11 +86,11 @@ O provedor indireto que você selecionar enviará por email um link de convite d
 
 ## <a name="acquire-new-customers-as-indirect-reseller"></a>Adquirir novos clientes como revendedor indireto
 
-Você e seu provedor indireto precisam ter relações com os revendedores com os clientes. Isso permite que você gerencie assinaturas e serviços de um cliente em seu nome. Para adquirir um novo cliente que tenha um locatário existente do Azure AD, você pode convidar o cliente para estabelecer uma relação de revendedor com você e seu provedor ao mesmo tempo. 
+Você e seu provedor indireto precisam ter relações com os revendedores com os clientes. Essas relações de revendedor permitem que você gerencie assinaturas e serviços de um cliente em seu nome. Para adquirir um novo cliente que tenha um locatário existente do Azure AD, você pode convidar o cliente para estabelecer uma relação de revendedor com você e seu provedor ao mesmo tempo.
 
 Para criar um convite de revendedor indireto:
 
-1. Selecione **provedores indiretos** na barra de navegação à esquerda do Partner Center. 
+1. Selecione **provedores indiretos** na barra de navegação à esquerda do Partner Center.
 
 2. Selecione **Convidar novos clientes** para convidar um cliente a estabelecer uma relação de revendedor com você e a provedor indireto ao mesmo tempo. O provedor precisa ter uma relação de revendedor com seu cliente, para que possa enviar pedidos em nome do seu cliente quando o cliente quiser comprar novas assinaturas ou adicionar novas licenças a assinaturas existentes.
 
@@ -99,7 +99,7 @@ Para criar um convite de revendedor indireto:
 4. Edite o texto no email para dizer o que você precisa, mas certifique-se de incluir o link como ele é personalizado para conectar o cliente diretamente à sua conta e à conta do provedor. Em seguida, selecione **Concluído**.
 
 5. Depois que o cliente autorizar você e seu provedor a ser seus revendedores de registro, você terá permissões de administrador para gerenciar as assinaturas, as licenças e os usuários em nome dele e seu provedor indireto será capaz de enviar pedidos em nome dele.
-6. Para gerenciar a conta, os serviços, os usuários e as licenças do cliente, expanda o registro do cliente selecionando a seta para baixo perto do nome dele. 
+6. Para gerenciar a conta, os serviços, os usuários e as licenças do cliente, expanda o registro do cliente selecionando a seta para baixo perto do nome dele.
 
 Ao contrário dos parceiros de cobrança direto, os revendedores indiretos não podem criar locatários do Azure AD para seus novos clientes no Partner Center. Seu provedor criará o locatário e especificará você como o revendedor indireto para esse cliente. Isso garante que o cliente será exibido na sua lista de clientes no Partner Center.
 
@@ -110,7 +110,7 @@ Ao contrário dos parceiros de cobrança direto, os revendedores indiretos não 
 
 Você gerencia seus clientes de fatura direta e seus clientes de revendedores indiretos de forma diferente.
 
-**Clientes diretos de cobrança (coisas que você não fará como um revendedor indireto)**
+### <a name="direct-bill-customers-things-you-wont-do-as-an-indirect-reseller"></a>Clientes diretos de cobrança (coisas que você não fará como um revendedor indireto)
 
 - Criar pedidos para produtos
 - Gerenciar reservas do Azure
@@ -118,13 +118,13 @@ Você gerencia seus clientes de fatura direta e seus clientes de revendedores in
 - Comprar software
 - Cobrar os clientes diretamente
 
-**Clientes indiretos do revendedor**
+### <a name="indirect-reseller-customers"></a>Clientes indiretos do revendedor
 
 - Seu provedor indireto solicita produtos para seus clientes
 - Gerenciar licenças e usuários dos clientes
 - Manipular renovações de assinatura
 
-**Para identificar os clientes adquiridos como um parceiro de cobrança direto**
+### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>Para identificar os clientes adquiridos como um parceiro de cobrança direto
 
 1. Selecionar **clientes**
 
@@ -244,10 +244,7 @@ O recurso é um processo de 4 etapas, em que:
 
 - O parceiro de transição verifica se a solicitação de transferência foi concluída.
 
-
-
-
-### <a name="transitioning-partner---create-transfer-request"></a>Parceiro de transição – criar solicitação de transferência
+### <a name="transitioning-partner"></a>Parceiro de transição
 
 > [!NOTE]
 > Você também pode usar a [API/SDK do Partner Center](https://docs.microsoft.com/partner-center/develop/manage-customers) para transferir as assinaturas existentes para seu provedor indireto.
@@ -260,8 +257,7 @@ O recurso é um processo de 4 etapas, em que:
 > - [Obter as transferências de um cliente](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)
 > - [Obter detalhes da transferência por ID](https://docs.microsoft.com/partner-center/develop/get-transfer-by-id)
 
-**Parceiro de transição – criar solicitação de transferência**
-
+### <a name="transitioning-partner---create-transfer-request"></a>Parceiro de transição – criar solicitação de transferência
 
 Para criar uma solicitação de transferência como o parceiro de transição:
 
@@ -315,13 +311,13 @@ Para examinar e aceitar uma solicitação de transferência como o provedor indi
 
 8. Aguarde a conclusão da solicitação de transferência.
 
-### <a name="indirect-provider-verify-transfer-request-is-complete"></a>Solicitação de transferência de verificação de provedor indireto concluída
+### <a name="indirect-provider---verify-transfer-request-is-complete"></a>Provedor indireto-verificação de solicitação de transferência concluída
 
 1. Depois que a solicitação de transferência for concluída com êxito, verifique se você pode ver que as assinaturas aparecem em **assinaturas**.
 
 2. Informe o parceiro de transição.
 
-### <a name="transitioning-partner---verify-transfer-request-is-complete"></a>Parceiro em transição-a solicitação de transferência de verificação foi concluída 
+### <a name="transitioning-partner---verify-transfer-request-is-complete"></a>Parceiro em transição-a solicitação de transferência de verificação foi concluída
 
 O parceiro de transição deve fazer o seguinte:
 
@@ -363,8 +359,8 @@ Depois de ter registrado com êxito como um revendedor indireto em seu locatári
 
 Você também está qualificado para se inscrever em programas de incentivo de fatura direta com o mesmo locatário do parceiro. Você deve gerenciar os programas separadamente.
 
-## <a name="see-also"></a>Veja também
+## <a name="next-steps"></a>Próximas etapas
 
-- [Mais informações sobre como se tornar um revendedor indireto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 
+- [Mais informações sobre como se tornar um revendedor indireto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 - [Novos requisitos do parceiro direto do CSP](direct-partner-new-requirements.md)
 - [Funcionalidades de fatura direta restritas](restricted-direct-bill-capabilities.md)

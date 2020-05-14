@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: pré-implantação, planejamento, Software Assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 864d7e8f6073af99b2d4227d28a94c1def373046
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: eb153d96f6c0dda0e7ce0521863d74cdb42bcbc2
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296402"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362434"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Serviços de planejamento do Software Assurance no Partner Center
 
@@ -87,7 +87,7 @@ Quando tiver os detalhes do comprovante, você poderá reservar o comprovante e 
 
 ## <a name="complete-engagement-and-provide-deliverables-to-your-customer-existing-partners"></a>Concluir o envolvimento e fornecer resultados ao seu cliente (parceiros existentes)
 
-Para estar qualificado a entregar um contrato de serviços de planejamento, o consultor deve ter concluído uma ou mais avaliações técnicas ou exames necessários para a competência de qualificação do engajamento. (Para saber mais sobre as avaliações ou os exames necessários, [Veja requisitos de qualificação para contratos de serviços de planejamento](software-assurance-dps-requirements.md).) 
+Para estar qualificado a entregar um contrato de serviços de planejamento, o consultor deve ter concluído uma ou mais avaliações técnicas ou exames necessários para a competência de qualificação do engajamento. (Para saber mais sobre as avaliações ou os exames necessários, [Veja requisitos de qualificação para contratos de serviços de planejamento](software-assurance-dps-requirements.md).)
 
 Depois que sua empresa concluiu o envolvimento e forneceu os entregas finais, concluídos ao cliente, você precisa preencher e enviar o relatório de conclusão online.
 
@@ -103,7 +103,7 @@ Depois de resgatar os comprovantes de serviços de planejamento, você deve fatu
 
 Para enviar uma fatura à Microsoft por meio do SAVB, siga as instruções na [etapa 8](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho.
 
-## <a name="see-also"></a>Consulte também
+## <a name="next-steps"></a>Próximas etapas
 
 - [Fluxo de trabalho dos serviços de planejamento do Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [Perguntas frequentes sobre serviços de planejamento do Software Assurance](https://go.microsoft.com/fwlink/?linkid=2116077)

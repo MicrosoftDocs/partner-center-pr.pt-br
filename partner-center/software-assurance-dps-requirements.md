@@ -1,5 +1,5 @@
 ---
-title: Exibir requisitos de qualificação para contratos de serviços de planejamento | Centro de parceiros
+title: Exibir requisitos de qualificação para contratos de serviços de planejamento
 ms.topic: article
 ms.date: 03/24/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: MicheleHope
 ms.author: v-mihope
 Keywords: pré-implantação, planejamento, Software Assurance, envolvimentos, requisitos, qualificação, oferta
 ms.localizationpriority: medium
-ms.openlocfilehash: d75753bdaef97f1cf0b9bd4c20474954e747735d
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: e9d66f2f6792780d77db130d5fd7d0f44d5f6c8c
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296438"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362444"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Exibir requisitos de qualificação para contratos de serviços de planejamento
 
@@ -34,14 +34,14 @@ Cada contrato de serviços de planejamento tem seus próprios requisitos especí
 
 |**Para saber mais sobre os requisitos de qualificação para esses compromissos**   |**Ir para a folha de dados desta oferta**  |
 |:------------------------------------|:------------------|
-| Planejamento de implantação do Windows e do Office<br> Planejamento de implantação de produtividade móvel<br> Prova de conceito de segurança empresarial moderna</br>  | [Compromissos do DDPS (serviços de planejamento de implantação de desktop)](https://go.microsoft.com/fwlink/?linkid=2116072) |
-| Atualizando o Microsoft Dynamics 365 para o compromisso com o cliente<br> Migrando para o Microsoft Dynamics 365 for Customer Engagement<br> Atualizando o Microsoft Dynamics 365 para finanças e operações</br>  | [Compromissos do DYDPS (serviços de planejamento de implantação) do Dynamics](https://go.microsoft.com/fwlink/?linkid=2116073)  |
+| Planejamento de implantação do Windows e do Office<br/><br/> Planejamento de implantação de produtividade móvel<br/><br/> Prova de conceito de segurança empresarial moderna | [Compromissos do DDPS (serviços de planejamento de implantação de desktop)](https://go.microsoft.com/fwlink/?linkid=2116072) |
+| Atualizando o Microsoft Dynamics 365 para o compromisso com o cliente<br/><br/> Migrando para o Microsoft Dynamics 365 for Customer Engagement<br/><br/> Atualizando o Microsoft Dynamics 365 para finanças e operações  | [Compromissos do DYDPS (serviços de planejamento de implantação) do Dynamics](https://go.microsoft.com/fwlink/?linkid=2116073)  |
 | Modernizando a plataforma Windows Server | [Contratações de nuvem privada, gerenciamento e serviços de planejamento de virtualização (PVDPS)](https://go.microsoft.com/fwlink/?linkid=2115982) |
 | Planejamento de implantação do SharePoint   | [Engajamentos do SDPS (serviços de planejamento de implantação) do SharePoint](https://go.microsoft.com/fwlink/?linkid=2116074)  |
-| Planejamento de implantação do Exchange<br> Planejamento de implantação do Skype for Business</br>  | [Contratos do EDPS (serviços de planejamento de implantação) do Skype for Business e do Exchange](https://go.microsoft.com/fwlink/?linkid=2116075)  |
+| Planejamento de implantação do Exchange<br/><br/> Planejamento de implantação do Skype for Business  | [Contratos do EDPS (serviços de planejamento de implantação) do Skype for Business e do Exchange](https://go.microsoft.com/fwlink/?linkid=2116075)  |
 | Modernização do estado de dados  | [SQL Server os compromissos do SSDPS (serviços de planejamento de implantação)](https://go.microsoft.com/fwlink/?linkid=2116076)  |
 
-## <a name="see-also"></a>Consulte também
+## <a name="next-steps"></a>Próximas etapas
 
 - [Fluxo de trabalho dos serviços de planejamento do Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [Perguntas frequentes sobre serviços de planejamento do Software Assurance](https://go.microsoft.com/fwlink/?linkid=2116077)
