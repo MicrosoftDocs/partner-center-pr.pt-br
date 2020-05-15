@@ -2,7 +2,7 @@
 title: Dê permissão aos clientes para que comprem seus próprios serviços
 description: Saiba como os parceiros do programa CSP podem permitir que os clientes comprem seus próprios serviços, como reservas do Azure, para uma assinatura adquirida para eles.
 ms.topic: article
-ms.date: 05/12/2020
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: assinatura, compra de autoatendimento, RI de autoatendimento, habilitar RI, desabilitar RI, autoatendimento, compra de cliente, permissões de cliente, instância reservada de compra de cliente, reservas do Azure para comprar, ativar autoatendimento, desligar o autoatendimento
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 625229eb9243bc6deb631a824e8197fd0565072a
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 07e362e80f6d57ca5d0d837160e5ddf04a5b1d65
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362604"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394125"
 ---
 # <a name="how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>Como dar aos clientes permissão para comprar seus próprios produtos ou serviços
 
@@ -128,7 +128,7 @@ Para ativar (ou desativar) as permissões de cliente no Partner Center:
 
 5. Localize a área **permissões do cliente** na parte inferior da página.
 
-   ![Permissões de cliente na página conta](images/give-customers-permission-reservations.png)
+   :::image type="content" source="images/give-customers-permission-reservations.png" alt-text="Permissões de cliente na página conta." border="true":::
 
 6. Em **reservas do Azure**, localize a opção **permitir que o cliente adquira** .
 
@@ -152,7 +152,7 @@ Ajude os clientes a entender mais sobre o gerenciamento desses aspectos de reser
 
 **Os preços que os clientes pagarão por suas reservas.** Seu cliente comprará as reservas do Azure com base em uma assinatura que você comprou anteriormente para elas em sua conta de cobrança do parceiro CSP. O preço do cliente para quaisquer reservas do Azure adquiridas com base nessa assinatura também é definido por você. Esse preço pode ser diferente do preço direto da Web que o cliente vê na portal do Azure.
 
-**Como os clientes podem otimizar o uso de uma reserva.** Alguns clientes podem se beneficiar de aprender mais sobre como otimizar o uso de uma reserva ou como atribuir o escopo inicial de uma reserva durante sua compra. Para obter mais informações, peça aos clientes para ler as [reservas de gerenciamento de recursos do Azure]( https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance).
+**Como os clientes podem otimizar o uso de uma reserva.** Alguns clientes podem se beneficiar de aprender mais sobre como otimizar o uso de uma reserva ou como atribuir o escopo inicial de uma reserva durante sua compra. Para obter mais informações, peça aos clientes para ler as [reservas de gerenciamento de recursos do Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance).
 
 **O que acontece quando um cliente adquire uma reserva com um escopo compartilhado?** Quando os clientes comprarem uma reserva com base em uma assinatura do CSP anterior e atribuirem um escopo compartilhado a essa reserva, todos os descontos que o cliente recebeu pelo CSP serão aplicados ao uso correspondente para todas as assinaturas que o parceiro CSP comprou para esse cliente.
 
