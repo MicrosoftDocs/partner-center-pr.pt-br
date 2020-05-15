@@ -1,21 +1,19 @@
 ---
-title: Serviços do Azure disponíveis no CSP do Azure | Partner Center
+title: Serviços do Azure disponíveis no CSP do Azure
+description: Esta seção aborda os serviços do Azure que estão e não estão disponíveis no Programa CSP (Provedor de Soluções na Nuvem) do Azure.
 ms.topic: article
-ms.date: 03/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Esta seção aborda os serviços do Azure que estão e não estão disponíveis no Programa CSP (Provedor de Soluções na Nuvem) do Azure.
 author: LauraBrenner
 ms.author: labrenne
-Keywords: ''
-robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: a86d66c3f7a799145d1f5a9bb3561a459e699f97
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.date: 03/05/2020
+ms.openlocfilehash: 29020fc4861bb11f15f7a892dda4d92f0c19fe07
+ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "79024090"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83369273"
 ---
 # <a name="available-azure-services-in-azure-csp"></a>Serviços do Azure disponíveis no CSP do Azure
 
@@ -30,16 +28,16 @@ ms.locfileid: "79024090"
 
 ## <a name="available-azure-services-in-azure-csp"></a>Serviços do Azure disponíveis no CSP do Azure
 
-Esta seção aborda os serviços do Azure que estão e não estão disponíveis no Programa CSP (Provedor de Soluções na Nuvem) do Azure. Também aborda a disponibilidade do serviço nas nuvens nacionais [Microsoft Azure Alemanha](https://azure.microsoft.com/overview/clouds/germany/) e [Microsoft Azure Government](https://azure.microsoft.com/overview/clouds/government/).
+Este artigo lista os serviços do Azure que estão e não estão disponíveis no programa CSP (Provedor de Soluções de Nuvem) do Azure. Também aborda a disponibilidade do serviço nas nuvens nacionais [Microsoft Azure Alemanha](https://azure.microsoft.com/overview/clouds/germany/) e [Microsoft Azure Government](https://azure.microsoft.com/overview/clouds/government/).
 
 >[!Note]
 >O [Azure China]( https://www.azure.cn/) não está disponível no Programa CSP do Azure.
 
-### <a name="global-cloud"></a>Nuvem global 
+## <a name="global-cloud"></a>Nuvem global
 
 Todos os serviços com base no modelo do Azure Resource Manager estão disponíveis no Programa CSP.  Os serviços que não são do Azure Resource Manager não estão disponíveis no Programa CSP.  
 
-### <a name="csp-specific-service-configurations"></a>Configurações de serviço específicas do CSP
+## <a name="csp-specific-service-configurations"></a>Configurações de serviço específicas do CSP
 
 Os seguintes serviços exigem configurações especiais no CSP:
 
@@ -47,15 +45,15 @@ Os seguintes serviços exigem configurações especiais no CSP:
 
 - [Azure Active Directory Domain Services](https://docs.microsoft.com/azure/active-directory-domain-services/active-directory-ds-csp)
 
-- [Cofre da Chave](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx) 
+- [Cofre da Chave](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
-- [Azure Time Series Insights](https://azure.microsoft.com/services/time-series-insights/): somente usuários do locatário do cliente podem acessar os dados no ambiente do Time Series Insights. Os parceiros podem gerenciar o ambiente do Time Series Insights do cliente por padrão, mas se precisarem acessar os dados nele, deverão ser adicionados ao locatário do cliente. 
+- [Azure Time Series Insights](https://azure.microsoft.com/services/time-series-insights/): somente usuários do locatário do cliente podem acessar os dados no ambiente do Time Series Insights. Os parceiros podem gerenciar o ambiente do Time Series Insights do cliente por padrão, mas se precisarem acessar os dados nele, deverão ser adicionados ao locatário do cliente.
 
-### <a name="visual-studio-marketplace"></a>Visual Studio Marketplace
+## <a name="visual-studio-marketplace"></a>Visual Studio Marketplace
 
 Agora você pode comprar os itens listados abaixo no Visual Studio Marketplace, com exceção de extensões de terceiros.
 
-- [Azure DevOps](https://www.visualstudio.com/team-services/) 
+- [Azure DevOps](https://www.visualstudio.com/team-services/)
 
 - [Assinaturas do Visual Studio](https://www.visualstudio.com/subscriptions/)
 
@@ -63,7 +61,7 @@ Agora você pode comprar os itens listados abaixo no Visual Studio Marketplace, 
 
 Para ajudar você a começar, criamos vídeos e documentação sobre [como configurar, comprar e gerenciar o Azure DevOps](https://docs.microsoft.com/vsts/billing/csp/set-up-csp-customer) no CSP.
 
-### <a name="azure-marketplace-items-in-azure-csp"></a>Itens do Azure Marketplace no CSP do Azure
+## <a name="azure-marketplace-items-in-azure-csp"></a>Itens do Azure Marketplace no CSP do Azure
 
 Nem todos os itens do Azure Marketplace estão disponíveis atualmente nas assinaturas do CSP do Azure.
 
@@ -71,12 +69,13 @@ Nem todos os itens do Azure Marketplace estão disponíveis atualmente nas assin
 
 - Itens de BYOL (Traga Sua Própria Licença): estão disponíveis. Uma lista completa de itens do Azure Marketplace habilitados para BYOL está disponível na [página de BYOL do Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol).
 
-- Itens de terceiros do Azure Marketplace pagos conforme o uso: estarão disponíveis se o provedor tiver publicado no canal do CSP. Para saber mais, confira [Vender assinaturas para produtos do Azure Marketplace](https://aka.ms/marketplaceincsp).   
+- Itens de terceiros do Azure Marketplace pagos conforme o uso: estarão disponíveis se o provedor tiver publicado no canal do CSP. Para saber mais, confira [Vender assinaturas para produtos do Azure Marketplace](https://aka.ms/marketplaceincsp).
 
 - Citrix XenApp Essentials: os parceiros podem comprar o XenApp Essentials para clientes no CSP. Para saber mais, confira no blog da Citrix o artigo [A distribuição do XenApp Essentials já está disponível no canal do Provedor de Soluções na Nuvem da Microsoft](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/) (em inglês).
 
-### <a name="national-clouds"></a>Nuvens nacionais 
-A tabela a seguir exibe uma lista regularmente atualizada dos produtos, serviços e recursos de terceiros do Azure disponíveis para o CSP em nuvens nacionais. 
+## <a name="national-clouds"></a>Nuvens nacionais
+
+A tabela a seguir exibe uma lista regularmente atualizada dos produtos, serviços e recursos de terceiros do Azure disponíveis para o CSP em nuvens nacionais.
 
 | Produto, serviço ou recurso do Azure | Governo dos EUA | Alemanha |
 | ------ | :-----------: | :-----------: |
@@ -187,7 +186,7 @@ A tabela a seguir exibe uma lista regularmente atualizada dos produtos, serviço
 |  Migrações para Azure  |    |    |
 |  Grupos de Gerenciamento  |    |  
 
-### <a name="next-steps"></a>Próximas etapas
+## <a name="next-steps"></a>Próximas etapas
 
 - [Saiba mais](https://docs.microsoft.com/azure/cloud-solution-provider/overview/partner-center-overview) sobre os recursos disponíveis para o Azure no Partner Center.
 

@@ -1,7 +1,7 @@
 ---
-title: Comparar ofertas do Azure | Partner Center
+title: Comparar ofertas do Azure para parceiros CSP
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Compare as principais diferenças entre as ofertas na nova experiência de comércio da Microsoft para parceiros no programa CSP (Provedor de Soluções na Nuvem).
@@ -9,14 +9,15 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: ed929c12b6fec06848bd38e7d2d7962c9dceb0f1
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 53f3f496cf29d1daa76bf8dfe96664755681fb8c
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "76021753"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908169"
 ---
-# <a name="compare-azure-offers"></a>Comparar as ofertas do Azure
+# <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>Comparar as diferenças entre as ofertas do Azure no programa CSP
 
 **Funções apropriadas**
 
@@ -33,7 +34,7 @@ A tabela a seguir fornece uma visão geral das principais diferenças entre as o
 |-------------------|:------|:-----|:---------|:--------------|:---------|
 |Cobrança|Mensal|Variável (dependente da oferta)|Cliente final|Antecipadamente por todo o período ou por um período de três anos|Mensal ou anual|
 |Licenciado|Cliente final|Variável (dependente da oferta)|Cliente final| Cliente final|   Cliente final|
-|Termo de cobertura|Ativo até ser cancelado|Variável (dependente da oferta)|Confira a descrição da oferta|Todas as reservas do Azure têm seu próprio período de cobertura exclusivo.    Todas as assinaturas de servidor terão seu próprio período de cobertura exclusivo.|   As licenças adicionais baseadas em estação se encaixarão no período de cobertura existente|
+|Termo de cobertura|Ativo até ser cancelado|Variável (dependente da oferta)|Confira a descrição da oferta|Todas as reservas do Azure têm seu próprio período de cobertura exclusivo. Todas as assinaturas de servidor terão seu próprio período de cobertura exclusivo.|   As licenças adicionais baseadas em estação se encaixarão no período de cobertura existente|
 |Renovação automática|Sim|Sim|Não| Não|Sim|
 |Várias moedas|Fatura com base no local/moeda do cliente|Fatura com base no local/moeda do cliente|Fatura com base no local/moeda do cliente|Fatura com base no local/moeda do cliente|Com base na moeda usada na localização do cliente| 
 |Arquivo de fatura e reconhecimento|Arquivos de fatura e reconhecimento separados para cada moeda da localização do cliente.  Também forneceremos arquivos de uso com classificação diária (para partes de cobrança e não cobradas) |Arquivos de fatura e reconhecimento separados para cada moeda da localização do cliente|Arquivos de fatura e reconhecimento separados para cada moeda da localização do cliente|Arquivos de fatura e reconhecimento separados para cada moeda da localização do cliente|Todos os pedidos em um arquivo de fatura e reconhecimento|
@@ -42,7 +43,7 @@ A tabela a seguir fornece uma visão geral das principais diferenças entre as o
 |Disponibilidade geográfica|139 países – uma lista completa desses países está disponível aqui.|A Matriz de Disponibilidade por País/Região e Moedas do Cliente para Novas Ofertas de Comércio mostra o escopo de onde essas ofertas estão qualificadas para serem disponibilizadas no CSP pelo parceiro.|Confira Matriz de Disponibilidade por País/Região e Moedas do Cliente para Novas Ofertas de Comércio para obter detalhes completos. A mesma agenda de distribuição se aplica a todas as novas ofertas de comércio.|Confira Matriz de Disponibilidade por País/Região e Moedas do Cliente para Novas Ofertas de Comércio para obter detalhes completos.  A mesma agenda de distribuição se aplica a todas as novas ofertas de comércio.|247 países|
 |Requisitos de suporte|Requisitos de suporte padrão do CSP.|A empresa que publica a oferta é responsável pelo suporte técnico.  O parceiro CSP é responsável pelas atividades de pré-vendas, transação e suporte de cobrança.|Requisitos de suporte padrão do CSP.|Requisitos de suporte padrão do CSP.|Requisitos de suporte padrão do CSP.|
 
-*A Microsoft fornecerá APIs de lista de preços no quarto trimestre para obter acesso em tempo real programaticamente em preços de medição do Azure.
+*A Microsoft fornecerá APIs de lista de preços no quarto trimestre para obter acesso em tempo real programaticamente em preços de medidores do Azure.
 
 **Para obter mais informações**
 

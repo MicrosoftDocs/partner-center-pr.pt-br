@@ -1,23 +1,24 @@
 ---
-title: Transições do cliente para o plano do Azure | Partner Center
+title: Migrar clientes das ofertas atuais do Azure para o plano do Azure
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como transferir seus clientes facilmente para o plano do Azure.
+description: Saiba como os parceiros CSP podem usar o Partner Center para migrar os clientes das ofertas do Azure no CSP existentes para os serviços do Azure no plano do Azure.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 7bcb27e521e4f3982fd3e0a94f1ed3a96320cfa3
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 05c28b852935dbce88d9f64c86b7c87fcbdc05cc
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "79023484"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908328"
 ---
-# <a name="transition-your-customers-to-azure-plan"></a>Transferir seus clientes para o plano do Azure
+# <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Fazer a transição de clientes para o plano do Azure de ofertas do Azure no CSP existentes
 
 **Funções apropriadas**
 

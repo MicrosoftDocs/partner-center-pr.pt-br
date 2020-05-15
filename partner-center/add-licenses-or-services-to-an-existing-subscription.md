@@ -1,23 +1,24 @@
 ---
-title: Adicionar licenças ou serviços a uma assinatura existente | Partner Center
+title: Atualizar uma assinatura de cliente
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como atualizar ou modificar a assinatura de um cliente, como adicionar mais licenças ou estações ou migrar para outra versão com outros serviços.
+description: Saiba como atualizar ou modificar a assinatura de um cliente. Adicione mais licenças, adicione mais estações ou migre para uma versão diferente com mais serviços.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: LauraBrenner
 ms.author: labrenne
 keywords: adicionar licenças à assinatura existente, adicionar estações à assinatura existente, modificar uma assinatura, alterar uma assinatura, comprar mais licenças para um cliente
 ms.localizationpriority: high
-ms.openlocfilehash: 01f0fedfad207f83cc5370ac60f19753040c9045
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f41c34b044cca39c2939ede746e05b932e03a570
+ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798644"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "82975117"
 ---
-# <a name="add-licenses-or-services-to-an-existing-subscription"></a>Adicionar licenças ou serviços a uma assinatura existente
+# <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>Adicionar licenças, estações ou mais serviços à assinatura de um cliente
 
 **Aplica-se a**
 
@@ -32,7 +33,7 @@ ms.locfileid: "82798644"
 - Agente de vendas
 - Agente de suporte técnico
 
-Se seu cliente precisar de mais usuários do que os fornecidos pela assinatura atual ou de uma versão diferente com serviços adicionais, você poderá atualizar a assinatura. Para saber mais, consulte [Alternar para um plano diferente do Office 365 for Business](https://go.microsoft.com/fwlink/p/?LinkId=723577).
+Se seu cliente precisar de mais estações do que a assinatura atual deles fornece ou de uma versão diferente com serviços adicionais, você poderá atualizar a assinatura. Para obter mais detalhes, confira [Alternar para um plano diferente do Microsoft 365 Apps para Pequenos e Médios negócios](https://go.microsoft.com/fwlink/p/?LinkId=723577).
 
 ## <a href="" id="upgradesubscription"></a>
 
@@ -52,25 +53,25 @@ As atualizações a seguir têm suporte no Provedor de Soluções na Nuvem:
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office 365 Business</td>
+<td>Microsoft 365 Apps para Pequenos e Médios negócios</td>
 <td><ul>
-<li>Office 365 Business Premium¹</li>
-<li>Office 365 ProPlus</li>
+<li>Microsoft 365 Business Premium¹</li>
+<li>Microsoft 365 Apps para Grandes Empresas</li>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office 365 Business Premium</td>
+<td>Microsoft 365 Business Standard</td>
 <td><ul>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office 365 Business Essentials</td>
+<td>Microsoft 365 Business Basic</td>
 <td><ul>
-<li>Office 365 Business Premium¹</li>
+<li>Microsoft 365 Business Standard¹</li>
 <li>Office 365 Enterprise E1</li>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
@@ -78,14 +79,14 @@ As atualizações a seguir têm suporte no Provedor de Soluções na Nuvem:
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ O Office 365 Business Índia e o Office 365 Business Essentials Índia podem ser atualizados para o Office 365 Business Premium Índia, não para o Office 365 Business Premium.</p></td>
+<td><p>¹ O Microsoft 365 Apps para Pequenos e Médios negócios Índia e o Microsoft 365 Business Basic Índia podem ser atualizados para o Microsoft 365 Business Standard Índia, não para o Microsoft 365 Business Standard.</p></td>
 </tr>
 </tbody>
 </table>
 
 As assinaturas poderão ser atualizadas se estas condições forem atendidas:
 
--   A assinatura deve estar ativa (não suspensa ou cancelada).
+-   A assinatura deve estar ativa (não suspensa nem cancelada).
 
 -   Você deve ter delegado privilégios de administrador para este cliente e serviço. Saiba como [Solicitar privilégios de administrador](request-a-relationship-with-a-customer.md).
 
@@ -95,7 +96,7 @@ As assinaturas poderão ser atualizadas se estas condições forem atendidas:
 
 É possível, nos dois últimos casos, que o cliente tenha comprado essas assinaturas ou esses serviços de outro parceiro ou outro canal, e ele não poderá comprá-los de você, a menos que ele cancele os existentes primeiro. Para obter mais informações, confira [Multicanal](multichannel.md).
 
-Para saber mais sobre o impacto disso na cobrança, consulte os detalhes sobre como cancelar uma assinatura e adicionar uma nova assinatura em [Cenários comuns de cobrança](common-billing-scenarios.md).
+Para obter mais informações sobre o impacto que isso terá na cobrança, confira os detalhes sobre como cancelar uma assinatura e adicionar uma nova em [Cenários comuns de cobrança](common-billing-scenarios.md).
 
 **Atualizar uma assinatura**
 

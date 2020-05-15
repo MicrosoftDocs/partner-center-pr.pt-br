@@ -1,7 +1,7 @@
 ---
-title: Vender assinaturas de software por meio do CSP | Partner Center
+title: Vender assinaturas de software por meio do CSP
 ms.topic: article
-ms.date: 01/24/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os parceiros do programa CSP podem usar o Partner Center para comprar, gerenciar, vender e cancelar as instâncias reservadas do Azure e as assinaturas do Server para os clientes.
@@ -9,15 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Provedor de Soluções na Nuvem, CSP, serviços baseados na nuvem, Azure, Azure RI, Windows Server, SQL Server, assinaturas de software, cancelar software
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 0d251f36c7ab8497b696c4eca2a2797c543e3325
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7901d3280cb5f9a1523b2974d4a462373b94e354
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798424"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907950"
 ---
-# <a name="sell-software-subscriptions-through-csp"></a>Vender assinaturas de software por meio do CSP
+# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vender assinaturas de software por meio do programa CSP (Provedor de Soluções na Nuvem)
 
 **Aplica-se a**
 
@@ -30,9 +30,9 @@ ms.locfileid: "82798424"
 
 Com as reservas do Azure e as assinaturas do Server (assinaturas do Windows Server e do SQL Server), os parceiros do programa CSP podem lidar melhor com a demanda acelerada do cliente por soluções mais econômicas para dar suporte a cargas de trabalho na nuvem altamente previsíveis e persistentes. 
 
-Agora você pode adquirir, provisionar e gerenciar reservas do Azure e assinaturas do Server em nome de clientes comerciais por meio do Partner Center e do portal do Azure aproveitando o Benefício Híbrido do Azure.
+Agora é possível adquirir, provisionar e gerenciar reservas do Azure e assinaturas de servidor em nome de clientes comerciais por meio do Partner Center e do portal do Azure aproveitando o Benefício Híbrido do Azure.
 
-O Benefício Híbrido do Azure ajuda você a obter mais valor de suas licenças do Windows Server e economizar até 40% em máquinas virtuais. Use o benefício com as licenças do Windows Server Datacenter e da Edição Standard cobertas no Software Assurance. Dependendo da edição, você pode converter ou reutilizar as licenças para executar máquinas virtuais do Windows Server no Azure e pagar uma taxa de computação base mais baixa (taxas de máquina virtual do Linux, por exemplo).
+O Benefício Híbrido do Azure ajuda você a obter mais valor de suas licenças do Windows Server e economizar até 40% em máquinas virtuais. Use o benefício com as licenças do Windows Server Datacenter e da Edição Standard cobertas no Software Assurance. Dependendo da edição, é possível converter ou reutilizar as licenças para executar máquinas virtuais do Windows Server no Azure e pagar uma taxa de computação base mais baixa (taxas de máquina virtual do Linux, por exemplo).
 
 ## <a name="azure-reservations-unavailable-markets"></a>Mercados indisponíveis para as reservas do Azure
 

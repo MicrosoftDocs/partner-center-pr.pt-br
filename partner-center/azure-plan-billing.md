@@ -1,7 +1,7 @@
 ---
-title: Cobrança do plano do Azure | Partner Center
+title: Cobrança do plano do Azure – arquivos de reconciliação e fatura
 ms.topic: article
-ms.date: 02/12/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como acessar e entender a estrutura do arquivo de reconciliação e da fatura relacionada à cobrança do plano do Azure.
@@ -10,12 +10,13 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 2184733bbbfb5fa3beede2cb45cb409109f11bad
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f0246338ef8c0da06dce557573cd2811d07a0e9e
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78240233"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908357"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nova experiência de comércio no CSP – Cobrança do Azure 
 
@@ -62,7 +63,7 @@ Para exibir os arquivos históricos de faturas e reconhecimento, expanda a linha
 
 ## <a name="understanding-usage-data"></a>Noções básicas sobre dados de uso 
 
-1. O plano do Azure é o contêiner raiz ou de nível superior para uso. Todo o uso é vinculado de volta a um único plano do Azure. 
+1. O plano do Azure é o contêiner raiz ou de nível superior para uso. Todo o uso está vinculado de volta a um único plano do Azure.
 
 2. Em um plano, haverá uma ou mais assinaturas do Azure. Esses são contêineres usados para gerenciamento de recursos e implantação. 
 
@@ -72,7 +73,7 @@ Para exibir os arquivos históricos de faturas e reconhecimento, expanda a linha
 
 5. Medidores de emissão de recurso: Os medidores são medidas de consumo de um recurso, sendo que um recurso pode emitir o uso de vários medidores. Os medidores são identificados por um ProductId, um SKUId e um AvailabilityId. 
 
-### <a name="heirarchy-of-subscription-resource-groups-and-metering"></a>Hierarquia de grupos de recursos de assinatura e medição
+### <a name="hierarchy-of-subscription-resource-groups-and-metering"></a>Hierarquia de grupos de recursos de assinatura e medição
 
 **Conta do Azure (locatário)**
 
@@ -86,7 +87,7 @@ Para exibir os arquivos históricos de faturas e reconhecimento, expanda a linha
     - ResourceGroup 2
         - Máquina virtual (recurso)
             - Medidor do computador
-        - Disco gerenciado SSD Premium (recurso)
+        - Disco gerenciado por SSD Premium (recurso)
             - Medidor de capacidade de armazenamento
             - Medidor de operações de armazenamento
 
@@ -118,7 +119,7 @@ Para exibir os arquivos históricos de faturas e reconhecimento, expanda a linha
 
 3. Se não houver recursos para um medidor específico qualificado para o desconto ou créditos ganhos pelo parceiro, então o arquivo de reconciliação conterá apenas uma linha de cobrança e o preço unitário efetivo será o preço de varejo (que é o preço unitário).
 
-4. Se o medidor ou quaisquer recursos que emitam esse medidor se qualificaram para **Créditos ganhos pelo parceiro para serviços gerenciados** em uma parte do mês, então o arquivo de reconciliação conterá duas linhas de cobrança. Uma linha representará os dias em que o medidor se qualificou, ao passo que a outra linha representará os dias em que o medidor não se qualificou. 
+4. Se o medidor, ou os recursos que emitirem esse medidor, tiver se qualificado para **Créditos ganhos pelo parceiro para serviços gerenciados** em uma parte do mês, então o arquivo de reconciliação conterá duas linhas de cobrança. Uma linha representará os dias em que o medidor se qualificou, ao passo que a outra linha representará os dias em que o medidor não se qualificou. 
 
 ## <a name="read-the-daily-usage-file"></a>Ler o arquivo de uso diário
 

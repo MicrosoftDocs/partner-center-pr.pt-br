@@ -1,7 +1,7 @@
 ---
-title: Tornar-se um administrador global para sua empresa | Partner Center
+title: Torne-se um administrador global da sua empresa
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Para trabalhar no Partner Center, primeiro você deve verificar a propriedade do seu domínio. Saiba como fazer isso e como se tornar um administrador global que pode adicionar usuários.
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 keywords: domínio, verificação de domínio, verificar domínio, administrador global, funções de usuário, permissões
-ms.openlocfilehash: be0811745d2112374ea78964652545feeeb3fbc6
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2aed5fa0c8e80f056d643dbfd7c55b3a156331e7
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74722427"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908258"
 ---
 # <a name="verify-your-domain-ownership"></a>Verificar sua propriedade do domínio
 
@@ -28,12 +29,12 @@ ms.locfileid: "74722427"
 
 Quando sua empresa entrar pela primeira vez no Partner Center, provavelmente, os funcionários não terão recebido as funções necessárias para começar a trabalhar no Partner Center. Para trabalhar no Partner Center, todos precisam ter uma função, que inclua permissões, atribuída a eles.  
 
-Você precisa verificar a propriedade do domínio para comprar os benefícios para os quais sua empresa está qualificada, adicionar novos usuários e atribuir funções a eles ou realizar outras tarefas no Partner Center. 
+Você precisa verificar a propriedade do domínio para comprar os benefícios para os quais sua empresa está qualificada, adicionar novos usuários e atribuir funções a eles ou realizar outras tarefas no Partner Center.
 
 >[!Note]
 >Por exemplo, um administrador global em sua empresa é aquele que gerencia serviços de nuvem. Caso sua empresa tenha um administrador global, mas você não tenha certeza de quem ele é, no **ícone de Configurações** no canto superior direito do Partner Center, selecione **Gerenciamento de usuários**. Encontre administradores globais para contato acessando Gerenciamento de usuários e filtrando por administrador global.
 
-## <a name="verify-your-domain-ownership"></a>Verificar sua propriedade do domínio
+## <a name="verify-your-domain-ownership-and-become-a-global-admin-in-partner-center"></a>Verifique sua propriedade de domínio e torne-se um administrador global no Partner Center
 
 1. No Partner Center, na página **Ofertas de associação**, selecione **Tornar-se um administrador global**. 
 

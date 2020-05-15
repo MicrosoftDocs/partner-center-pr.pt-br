@@ -1,19 +1,19 @@
 ---
 title: Preparar a migração do Partner Membership Center para o Partner Center | Partner Center
 ms.topic: article
-ms.date: 06/13/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Examine informações úteis e perguntas frequentes antes de migrar sua empresa do PMC para o Partner Center.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 06167a667152ddaf65702547783df93726f6cadc
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 127919c92bf6fffca846dd92cde4c787bfd16641
+ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78340092"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "82859350"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Preparar a migração do PMC (Partner Membership Center) para o Partner Center
 
@@ -33,53 +33,28 @@ Uma conta corporativa do Azure é uma representação virtual dedicada e isolada
 
 Sua conta corporativa hospeda os usuários do Azure AD e as informações sobre eles: emails, senhas, dados de perfil, permissões etc. A conta corporativa também contém grupos, aplicativos e outras informações pertencentes a uma empresa e à segurança dela. 
 
+Seu email de trabalho faz parte do seu locatário do Azure Active Directory. Para ter uma conta no Partner Center, você precisará ter um locatário do AAD. Para obter mais informações sobre o Azure Active Directory, leia [Criar seu diretório no Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
+
 No Partner Center, você usará seu email de trabalho para entrar na conta, não seu email pessoal.
 - Sua conta corporativa: john@contoso.com
 - Sua conta pessoal: John@outlook.com
 
-Seu email de trabalho faz parte do seu locatário do Azure Active Directory. Para ter uma conta no Partner Center, você precisará ter um locatário do AAD. Para obter mais informações sobre o Azure Active Directory, leia [Criar seu diretório no Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
+**Com qual conta você deverá entrar no Partner Center se tiver um locatário do AAD com a Microsoft (para o Office 365, por exemplo) e também tiver um locatário para o seu negócio do CSP?**
 
-**Quando você fizer a migração do PMC para o Partner Center, com qual conta deverá entrar no Partner Center se tiver um locatário do AAD com a Microsoft (para o Office 365, por exemplo) e também tiver um locatário para o seu negócio do CSP?**
-
-Você pode entrar no Partner Center com a conta do CSP ou a conta de email de trabalho do MPN. Se você optar por se conectar usando seu email de trabalho do CSP, a navegação à esquerda no painel exibirá informações dos programas MPN e CSP. Se você se conectar com o seu email de trabalho do locatário do Azure AD no MPN, verá apenas as informações do programa MPN. As funções de usuário são diferentes entre o MPN e o CSP e, portanto, se você usar a mesma conta para os negócios do MPN e do CSP, lembre-se de atribuir funções de usuário de acordo. Para obter informações sobre funções de usuário, confira [Atribuir funções e permissões de usuário](permissions-overview.md).
+Você pode entrar no Partner Center com a conta do CSP ou a conta de email de trabalho do MPN. Se você optar por se conectar usando seu email de trabalho do CSP, a navegação à esquerda no painel exibirá informações dos programas MPN e CSP. Se você se conectar com o seu email de trabalho do locatário do Azure AD no MPN, verá apenas as informações do programa MPN. 
 
 **Caso não deseje usar seu locatário existente do Azure AD do Office 365 para o Partner Center, crie outro locatário antes da migração do PMC.**
 
-Pode haver muitos motivos pelos quais você não deseje usar um locatário existente do Azure AD para configurar sua conta do Partner Center. Antes de começar a migração para o Partner Center, acesse o [portal do Azure](https://ms.portal.azure.com/#home) para criar um locatário do Azure AD. Siga as diretrizes em [Criar um locatário no Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant). Depois de criar o locatário, use esse locatário do AAD para configurar sua conta do Partner Center quando você fizer a migração do PMC para o Partner Center. Você precisa ser um administrador global para criar o locatário. Use esse novo diretório para fazer a migração para o Partner Center.
+Pode haver muitos motivos pelos quais você não deseje usar um locatário existente do Azure AD para configurar sua conta do Partner Center. Antes de começar a migração para o Partner Center, acesse o [portal do Azure](https://ms.portal.azure.com/#home) para criar um locatário do Azure AD. Siga as diretrizes em [Criar um locatário no Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant). Use o novo locatário do AAD para configurar sua conta do Partner Center. Você precisa ser um administrador global para criar o locatário. 
 
-
-**Qual é a diferença entre a função de administrador global do AAD e a função de administrador global do MPN no PMC?**
-
-Essas são duas funções diferentes com permissões diferentes. O administrador global do locatário do AAD no Partner Center administra o locatário: adiciona ou remove usuários, fornece e gerencia senhas, funções e permissões e tem acesso a todos os programas da empresa no Partner Center. 
-
-A função de administrador global do MPN no PMC pode realizar o seguinte:
-
-- Ver e editar todos os dados associados à empresa e a todas as localizações da empresa
-
--  Adicionar administradores no nível global ou local.  Além disso, os administradores globais podem atribuir o acesso de administrador global, que permite o acesso global, a qualquer pessoa em qualquer localização, independentemente da localização à qual ela esteja associada.
--  Executar qualquer função de interface do usuário voltada ao parceiro, incluindo: 
-
--  Adicionar/remover usuários
-
- - Atribuir/remover funções 
-
- - Adicionar/remover/atualizar localizações 
-
- - Comprar competência/mapas 
-
--  Ver benefícios
-
-Quando o administrador global do MPN migra para o Partner Center, a função é chamada de administrador de parceiro do MPN, que tem permissões e tarefas diferentes do administrador global do Partner Center. Para obter mais informações sobre as funções e as permissões no Partner Center, leia [Atribuir funções e permissões de usuários](permissions-overview.md).
 
 **Funções de usuário, incluindo funções de usuário convidado no Partner Center**
 
 O Partner Center tem diferentes tipos de funções, dependendo dos tipos de trabalho que precisam ser feitos. Há funções como administrador global, que são funções do Azure AD. Algumas das funções são específicas de programa, como o programa Provedor de Serviços de Nuvem ou incentivos, e há funções específicas do MPN. Para descobrir quais são todas as funções do Partner Center, leia [Atribuir funções e permissões de usuários](permissions-overview.md).
 
-
-
 **O que acontece com as funções dos meus usuários quando eles migram do PMC para o Partner Center?**
 
-Exceto o administrador global do MPN ou o contato principal do programa que realiza a migração, todos os usuários do PMC perderão as respectivas funções de administrador. O indivíduo que conclui a migração precisará atribuir funções no Partner Center. As funções no Partner Center são diferentes das funções no PMC. Leia [Atribuir funções e permissões de usuários](permissões-overview.md) e [Como migrar do PMC para o Partner Center](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles) para obter mais informações sobre as funções de usuário do Partner Center.
+Exceto o administrador global do MPN ou o contato principal do programa que realiza a migração, todos os usuários do PMC perderão as respectivas funções de administrador. O indivíduo que conclui a migração precisará atribuir funções no Partner Center. As funções no Partner Center são diferentes das funções no PMC. Leia [Atribuir funções e permissões de usuários]\(permissões-overview.md) e [Como migrar do PMC para o Partner Center](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles) para obter mais informações sobre as funções de usuário do Partner Center.
 
 
 **Qual é a diferença entre o meu perfil de empresa e o meu perfil comercial?**
@@ -92,12 +67,12 @@ Seu perfil comercial é como você se apresenta aos clientes e é uma página de
 
 Se você usar o mesmo locatário do Azure AD para migrar várias contas do MPN para o Partner Center, o sistema o reconhecerá automaticamente e solicitará que você consolide suas contas. Isso é verdadeiro mesmo se você tem vários domínios associados ao mesmo locatário do Azure AD. 
 
-Você ainda pode decidir migrar para o Partner Center usando locatários separados do AAD, mas observe que isso resulta em uma avaliação isolada de suas competências e custos de compras extras. 
+Você ainda pode decidir migrar para o Partner Center usando locatários separados do AAD, mas observe que isso resulta em uma avaliação isolada de suas competências e custos de compras extras. Para obter mais informações sobre a consolidação de contas, leia [Consolidar as contas da empresa](consolidate-accounts.md)
 
 **Se eu tiver vários locatários do AAD e uma só conta do MPN, será possível vinculá-los no Partner Center?**
 
 Sim, no Partner Center, você poderá vincular vários locatários do Azure AD à única conta do Partner Center.
-Saiba mais aqui. 
+Para obter mais informações sobre a consolidação de contas, leia [Consolidar as contas da empresa](consolidate-accounts.md)
 
 **Há restrições à adição de vários locatários do Azure AD a uma só conta do Partner Center?**
 
@@ -164,11 +139,11 @@ Selecione **Competências** na barra de navegação à esquerda no painel. Na p�
 Não. Não haverá nenhum impacto nos incentivos se você tiver migrado sua conta sem consolidar as localizações. Se a sua empresa tiver várias contas no PMC e, quando você migrar para o Partner Center, você decidir consolidá-las em uma conta global, não haverá perda nos incentivos, mas poderá haver um atraso no pagamento de incentivos. Se você não migrar todas as suas contas do PMC envolvidas em programas de incentivos, poderá parar de ganhar incentivos vinculados a essas contas.
 
 
-**Quais são as funções de usuário dos incentivos no Partner Center?** 
+**O que são funções de incentivo no Partner Center?** 
 
 As funções dos incentivos no Partner Center são baseadas na localização e incluem o administrador e o usuário de incentivos. Para obter mais informações sobre o que essas funções podem fazer, confira [Atribuir funções e permissões de usuários](permissions-overview.md).
 
-**Os usuários de incentivos podem ser atribuídos nos níveis global e da localização?**
+**Os administradores de incentivos podem ser atribuídos nos níveis global e da localização?**
 
  Sim. Você pode atribuir um administrador de incentivos para ser o administrador de incentivos em todas as localizações ou cada localização pode ter o próprio administrador de incentivos.
 
@@ -178,11 +153,11 @@ As funções dos incentivos no Partner Center são baseadas na localização e i
 
 **Com relação às indicações, quantos perfis comerciais podemos criar?**
 
-Sua empresa poderá criar quantos perfis comerciais forem necessários para representar totalmente os interesses da sua empresa. Em cada perfil comercial, você pode listar até cinco localizações, uma localização por país/região. Cada um dos perfis comerciais pode receber indicações para cada uma das localizações.
+Sua empresa poderá criar quantos perfis comerciais forem necessários para representar totalmente os interesses dela. Em cada perfil comercial, você pode listar até cinco localizações, uma localização por país/região. Cada um dos perfis comerciais pode receber indicações para cada uma das localizações.
 
 **Como as indicações serão atribuídas; quais alterações posso esperar? Por exemplo, se eu tiver uma empresa global em um mercado e localizações em outros mercados, como as indicações serão atribuídas?**
 
-As indicações são atribuídas com base nos parâmetros de pesquisa definidos pelo cliente. Portanto, independentemente de você ter uma localização ou muitas, se os clientes especificarem uma localização desejada e você tiver uma empresa que atenda aos outros parâmetros, a indicação se deslocará para essa localização.
+As indicações são atribuídas com base nos parâmetros de pesquisa definidos pelo cliente. Independentemente de você ter uma localização ou muitas, se os clientes especificarem uma localização desejada e você tiver uma empresa que atenda aos outros parâmetros, a indicação se deslocará para essa localização.
 
 
 

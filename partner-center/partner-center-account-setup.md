@@ -1,7 +1,7 @@
 ---
 title: Gerenciar sua conta do Partner Center | Partner Center
 ms.topic: article
-ms.date: 03/02/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Gerencie as informações de perfil, de catálogo, bancárias e fiscais de sua empresa, funções, permissões e muito mais no Partner Center.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 43a05ebca983034621caab8dc95593fc366b9eeb
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 3185be248df5bd0bfdb991e321a91a5f92e56d5f
+ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798764"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "82859375"
 ---
 # <a name="manage-your-partner-center-account"></a>Gerenciar sua conta do Partner Center
 
@@ -23,13 +23,17 @@ ms.locfileid: "82798764"
 
 - Partner Center
 
-A conta que você cria no Partner Center ao se inscrever é seu email de trabalho mais suas informações comerciais. Após a criação de uma conta no Partner Center, você ou seu administrador precisará concluir a configuração do perfil completo da sua empresa, incluindo detalhes de suporte, isenções de impostos (se apropriado) e informações do contato principal. A conta de sua empresa também incluirá contas de usuário para qualquer pessoa que usar o Partner Center para adicionar ou gerenciar clientes, vender assinaturas, trabalhar com cobrança e faturamento, criar perfis comerciais, gerenciar indicações, trabalhar com programas de incentivos e fornecer suporte.
+A conta que você cria no Partner Center ao se inscrever é seu email de trabalho mais suas informações comerciais. Após a criação de uma conta no Partner Center, você concluirá a configuração do perfil completo da sua empresa, incluindo detalhes de suporte, isenções de imposto (se apropriado) e informações do contato principal. A conta de sua empresa também incluirá contas de usuário para qualquer pessoa que usar o Partner Center para adicionar ou gerenciar clientes, vender assinaturas, trabalhar com cobrança e faturamento, criar perfis comerciais, gerenciar indicações, trabalhar com programas de incentivos e fornecer suporte.
+
+Veja também 
+- [Convidar os funcionários para ingressar no Partner Center](guide-to-migration.md)
+- [Adicionar um novo usuário](create-user-accounts-and-set-permissions.md)
 
 ## <a name="programs-in-which-you-are-enrolled"></a>Programas nos quais você está registrado
 
 Grande parte do trabalho que você faz para gerenciar sua conta do Partner Center está relacionado com os programas específicos nos quais você está registrado e as funções e permissões de usuário que foram atribuídas no Partner Center.
 
-É fácil ver quais programas você pode acessar no Partner Center:
+Para ver quais programas você pode acessar no Partner Center:
 
 1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 2. Acesse o painel de navegação esquerdo. As opções associadas aos programas em que você está registrado serão exibidas.
@@ -101,6 +105,7 @@ Se você estiver registrado em programas como o MPN ou o CSP (Provedor de Soluç
 |**Para fazer isso**   |**Leia isto**   |
 |-----------------------|:-----------------------|
 |Verifique se o perfil de sua empresa está atualizado   |[Atualizar seu perfil de parceiro](update-your-partner-profile.md)|
+|Adicionar novos usuários|[Criar contas de usuário e atribuir permissões](create-user-accounts-and-set-permissions.md)|
 |Deve-se atribuir funções a todos aqueles na empresa que precisam trabalhar no Partner Center. Cada função tem permissões e tarefas específicas à disposição.|[Criar contas de usuário e definir permissões](create-user-accounts-and-set-permissions.md)|
 |Examinar as permissões que cada função envolve|[Atribuir permissões e funções de usuários](permissions-overview.md)
 |Gerenciar os locais da empresa|[Gerenciar sua conta do Partner Center: Locais](manage-locations.md)
