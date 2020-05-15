@@ -119,7 +119,7 @@
 ## [Consultar a lista de clientes](see-your-customer-list.md)
 ## [Exibir logs de atividades do cliente](activity-logs.md)
 ## [Atualizar informações da conta de cliente](update-customer-account-info.md)
-## [Dê permissão aos clientes para que comprem seus próprios serviços](give-customers-permission.md)
+## [Permitir que os clientes comprem seus próprios serviços](give-customers-permission.md)
 ## [Criar vários usuários para um cliente](adding-multiple-users-to-a-customer-account.md)
 ## [Atribuir contatos de suporte](assign-support-contacts.md)
 
@@ -196,6 +196,7 @@
 # [Trabalhar com outros parceiros](work-with-other-partners.md)
 ## [Tarefas de provedor indireto no Partner Center](indirect-provider-tasks-in-partner-center.md)
 ## [Tarefas de revendedor indireto no Partner Center](indirect-reseller-tasks-in-partner-center.md)
+## [Relações de parceiros CSP com suporte](csp-supported-partner-relationships.md)
 ## [Suporte multicanal](multichannel.md)
 ## [Suporte a vários parceiros](multipartner.md)
 
