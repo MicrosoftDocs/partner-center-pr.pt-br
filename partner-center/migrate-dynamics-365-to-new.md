@@ -1,34 +1,34 @@
 ---
-title: Migre as ofertas do Dynamics 365 Business Edition para versões mais recentes | Centro de parceiros
+title: Migrar o Dynamics 365 Business Edition
 ms.topic: article
-ms.date: 12/12/2018
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como migrar suas ofertas do Dynamics 365 Business Edition para versões mais recentes antes que elas expirem.
+description: Saiba como migrar ofertas do Dynamics 365 Business Edition qualificadas para versões mais recentes antes que elas expirem.
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
+ms.custom: SEOMAY.20
 Keywords: O Dynamics 365 oferece, renovar ofertas, novas SKUs do Dynamics 365
-ms.openlocfilehash: d4efd051b4d237eac5b766ed1aedc432e8b93ecc
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: d49966db4a2c9de50b0723abf9ccd0fe589a442a
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005115"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795975"
 ---
-# <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Migrar as ofertas do Dynamics 365 Business Edition para versões mais recentes 
+# <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Migrar as ofertas do Dynamics 365 Business Edition para versões mais recentes
 
 **Aplica-se a**
 
 - Partner Center
 
 **Funções apropriadas**
--   Administração global
--   Administrador de usuários
--   Agente administrativo
--   Agente de vendas
+- Administrador global
+- Administrador de usuários
+- Agente administrativo
+- Agente de vendas
 
 A partir de 1º de janeiro de 2019, os clientes com as assinaturas do Dynamics 365 Business Edition não podem mais renovar essas ofertas herdadas; as assinaturas existentes não serão renovadas automaticamente quando expirarem. Na página de detalhes da assinatura, o status da assinatura será alterado para "expira em [data]" de "renovações automáticas em [data]".
 
@@ -63,7 +63,7 @@ Os clientes do Dynamics 365 Business Edition estão qualificados a receber preç
 Agora, seu cliente terá a assinatura antiga e a nova. A próxima etapa é reatribuir licenças aos usuários do cliente.
 
 1. Selecione **clientes** na barra de navegação à esquerda e, em seguida, selecione o cliente que você está movendo.
-2. Selecione **Usuários e licenças**.
+2. Selecione **usuários e licenças**.
 3. Para reatribuir uma licença a um usuário, selecione o usuário e, em seguida, selecione **gerenciar licenças**. 
 4. Na página **gerenciar licenças** , desmarque a caixa de seleção Dynamics 365 para vendas/plano de envolvimento do cliente da licença básica (oferta qualificada) e selecione um novo plano de serviço para a assinatura à qual o cliente está se movendo. 
 5. Selecione **Enviar**. Você fará isso para cada usuário que precisa da nova licença. 

@@ -1,23 +1,23 @@
 ---
-title: Gerenciar leads | Centro de parceiros
+title: Gerenciar clientes potenciais
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como responder às referências, gerenciar as referências novas, existentes e arquivadas e obter mais referências no futuro.
-author: vikramb
-ms.author: vikramb
+description: Use o Partner Center para responder às referências e gerenciar clientes potenciais e referências novos, existentes e arquivados. Saiba também como obter mais referências no futuro.
+author: LauraBrenner
+ms.author: labrenne
 keywords: referência, co-venda, negociação
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 05c0fb22047664ef814d4fbc8eeb45e1ce1df51b
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d1a1e8e487cc56a17abe743a470c404c273e33bf
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "81919843"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83796020"
 ---
-# <a name="manage-leads"></a>Gerenciar clientes potenciais
+# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Gerenciar clientes potenciais diferentes, como consultas de clientes, clientes potenciais qualificados por marketing e clientes potenciais qualificados por vendas
 
 **Aplica-se a**
 

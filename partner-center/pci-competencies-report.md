@@ -1,28 +1,28 @@
 ---
-title: Recepções do Partner Center – relatório de competências | Centro de parceiros
+title: Relatório de competências de informações do Partner Center
 ms.topic: article
-ms.date: 03/19/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Veja o que você está fazendo bem e onde você pode melhorar em relação às competências da Microsoft, níveis de competência e ofertas para ajudá-lo a fornecer soluções da Microsoft.
 ms.assetid: ''
 keywords: PCI, desempenho, medidas, êxito do cliente, competências, benefícios, análise, relatório
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 1a6e8dd723bafbe62ab6d7b7b99de6ffd6fb1481
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43163437aefdc8cee2e7505e8cc131eeaa3c142d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226182"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795657"
 ---
-# <a name="competencies-report"></a>Relatório de competências
+# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de competências disponível no painel do Partner Center insights
 
 **Funções apropriadas**
-- Administração global
-- Agente administrador
+- Administrador global
+- Agente administrativo
 - Visualizador de relatórios
 - Visualizador de relatórios executivos
 
@@ -86,3 +86,6 @@ Esta exibição mostra uma tabela detalhada de todas as competências que você 
 
 ![Histórico de competência](images/pci/pci_competencies_comp_history_3.png)
 
+## <a name="next-steps"></a>Próximas etapas
+
+- Para obter mais relatórios, consulte os [insights do Partner Center](partner-center-insights.md).

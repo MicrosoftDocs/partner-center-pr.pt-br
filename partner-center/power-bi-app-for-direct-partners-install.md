@@ -1,20 +1,21 @@
 ---
-title: Instale e visualize o aplicativo de análise do Partner Center para Microsoft Power BI | Partner Center
+title: Instalar a análise do Partner Center para Power BI
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Siga as etapas abaixo para instalar e visualizar o aplicativo de análise do Partner Center para Power BI (para parceiros diretos no CSP).
+description: Siga as etapas neste artigo para instalar e visualizar o aplicativo de análise do Partner Center para Power BI (para parceiros diretos no CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: cd328ce8afed02af377a94b40fcf75125b008d1f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e8a8558bad11f641737507f4d76405e9825df516
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004965"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795868"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instale e visualize o aplicativo de análise do Partner Center para Microsoft Power BI
 
@@ -23,7 +24,7 @@ ms.locfileid: "75004965"
 - Partner Center
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 -   Administrador de usuários
 -   Agente de vendas
 -   Agente administrativo
@@ -51,7 +52,7 @@ Antes de instalar a versão de visualização do aplicativo análises do Partner
 
 1. Inicie o [processo de instalação](https://app.powerbi.com/getdata/services/partneranalytics?cpcode=PartnerCenterAnalytics&getDataForceConnect=true&alwaysPromptForContentProviderCreds=true).
 
-2. Em **Já tem uma conta?** , selecione **Conecte-se**. 
+2. Em **Já tem uma conta?**, selecione **Conecte-se**. 
 
 3. Na próxima página, digite seu nome de usuário e senha do Partner Power BI e, em seguida, selecione **Conecte-se**. 
 
@@ -70,4 +71,4 @@ Depois que carregamento de dados é concluído, você pode começar a usar o pai
 
 ## <a name="next-steps"></a>Próximas etapas
 
-[Exibir seus dados corporativos com o aplicativo de análise do Partner Center para Microsoft Power BI](power-bi-app-for-direct-partners-use.md)
+[Visualize seus dados de negócio com o aplicativo de análise do Partner Center para Microsoft Power BI](power-bi-app-for-direct-partners-use.md)

@@ -1,24 +1,24 @@
 ---
-title: Analisar o desempenho de revendedores indiretos | Partner Center
-ms.date: 11/13/2019
+title: Analisar o desempenho de revendedores indiretos
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Saiba como usar a análise para descobrir como seus revendedores indiretos estão fazendo, tanto seus sucessos quanto suas áreas que podem precisar de mais atenção.
+Description: Use a análise para saber como seus revendedores indiretos estão fazendo, ambos os sucessos e as áreas que podem precisar de mais atenção.
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
 ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 9990cc72726803045806b88439fed54f9c9d07a2
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 72064e3847d30b3049649269618256638b2fe4d8
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722382"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794941"
 ---
-# <a name="analyze-indirect-resellers-performance"></a>Analisar o desempenho de revendedores indiretos 
+# <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Use a análise para analisar o desempenho de seus revendedores indiretos
 
 **Aplica-se a**
 
@@ -27,7 +27,7 @@ ms.locfileid: "74722382"
 
 **Funções apropriadas**
 
-- Administração global
+- Administrador global
 - Administrador de gerenciamento de usuário
 - Agente administrativo
 - Agente de vendas
@@ -51,7 +51,7 @@ Estamos monitorando as seguintes métricas:
 **Principais revendedores por assinaturas vendidas**
  - Uma lista de revendedores, classificados pela quantidade de assinaturas vendidas por eles  
 
-**Principais produtos por contagem de assinaturas**  
+**Contagem dos principais produtos por assinatura**  
  - **Dynamics 365**: produtos Dynamics 365 classificados por assinaturas vendidas  
  - **EMS**: número de assinaturas de Serviços de Gerenciamento Empresarial vendidas  
  - **Microsoft 365**: número de assinaturas do Microsoft 365 vendidas  
@@ -60,7 +60,7 @@ Estamos monitorando as seguintes métricas:
 **Novas assinaturas**  
  - O número de novas assinaturas adicionadas por data  
 
-**Variação de assinatura**  
+**Variação da assinatura**  
  - **Novas assinaturas**: contagem de novas assinaturas adicionadas por data  
  - **Assinaturas desprovisionadas**: contagem das assinaturas desprovisionadas ou suspensas por data  
 

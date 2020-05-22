@@ -1,22 +1,23 @@
 ---
-title: Dados e análise no Partner Center | Partner Center
+title: Usar o Analytics for Customer insights
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como usar a análise no Partner Center para entender melhor seus negócios e como seus clientes estão usando as licenças que você comprou.
+description: Saiba como usar a análise no Partner Center para entender melhor seus negócios e como seus clientes usam as licenças que você comprou.
 author: LauraBrenner
 ms.author: labrenne
 keywords: dados, análise, análise de dados, power bi
 ms.localizationpriority: medium
-ms.openlocfilehash: e8501776365e761c2c7ea9f5c33a2150c92cc79e
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3232a8c5b2f3e0bb4458dffdc577cbd561064dae
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722567"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795206"
 ---
-# <a name="get-data-and-analyze-your-business"></a>Obtenha dados e analise seus negócios
+# <a name="use-analytics-to-learn-more-about-customer-license-use-and-how-you-can-help-meet-their-needs"></a>Use a análise para saber mais sobre o uso de licença de cliente e como você pode ajudar a atender às suas necessidades
 
 **Aplica-se a**
 
@@ -28,7 +29,7 @@ ms.locfileid: "74722567"
 
 - Administrador de parceiros do MPN
 
-O planejamento das maneiras de desenvolver seu negócio CSP inclui as noções básicas sobre como seus clientes usam os produtos da Microsoft. Além de ter várias opções para reunir dados no Partner Center, você pode coletar dados sobre a sua empresa e saber se e como os clientes estão usando as licenças que eles compraram. Se estiver no modelo direto de CSP, você tem a oportunidade de instalar e usar o aplicativo Análise do Partner Center para Power BI para reunir dados adicionais.
+Planejar formas de desenvolver seus negócios CSP inclui entender como seus clientes usam os produtos da Microsoft. Além de ter várias opções para reunir dados no Partner Center, você pode coletar dados sobre a sua empresa e saber se e como os clientes estão usando as licenças que eles compraram. Se estiver no modelo direto de CSP, você tem a oportunidade de instalar e usar o aplicativo Análise do Partner Center para Power BI para reunir dados adicionais.
 
 ## <a name="access-to-user-analytics"></a>Acesso ao User Analytics
 
@@ -39,7 +40,7 @@ No Partner Center, somente o administrador do parceiro MPN tem acesso à anális
 
 **Conceder acesso à análise do usuário no Partner Center** 
 
-1. Entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center.
+1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
 2. No menu do centro de parceiros, na página de **Gerenciamento de usuários** do Partner Center, use a caixa de pesquisa para localizar a pessoa que precisa de acesso.
 2.  Nos resultados da pesquisa, selecione o nome da pessoa para abrir a página de **detalhes do usuário** .
@@ -48,11 +49,11 @@ No Partner Center, somente o administrador do parceiro MPN tem acesso à anális
  
 ## <a name="access-data-in-partner-center"></a>Acessar dados no Partner Center
 
-|**Para obter dados em**   |**Baixar este**   |**Leia isto**   | **Aplica-se a**    |
+|**Para obter dados sobre**   |**Baixe isto**   |**Leia isto**   | **Aplica-se a**    |
 |---------------------|:-----------------------|:---------------|:--------------|
-|Como os clientes estão usando as licenças adquiridas   |Dados de implantação e uso do Partner Center = > análise de produto   |[Aumentar a adoção e a satisfação](increasing-adoption-and-satisfaction.md)|Parceiros CSP|
-|Atividade do cliente em relação a assinaturas   |Logs de atividades   |[Exibir logs de atividades do cliente](activity-logs.md)|Parceiros CSP   |
-|Crescimento da base de clientes, uso, consumo do Azure e muito mais   |Aplicativo do Partner Center para Power BI   |[Aplicativo de análise do Partner Center para Power BI (parceiros diretos no CSP)](power-bi-app-for-direct-partners.md)|Parceiros diretos CSP|
+|Como os clientes estão usando as licenças adquiridas   |Dados de implantação e uso do Partner Center => análise de produto   |[Aumentar a adoção e a satisfação](increasing-adoption-and-satisfaction.md)|Parceiros CSP|
+|Atividade do cliente em relação a assinaturas   |Logs de atividade   |[Exibir logs de atividades do cliente](activity-logs.md)|Parceiros CSP   |
+|Crescimento da base de clientes, uso, consumo do Azure e muito mais   |Aplicativo do Partner Center para Power BI   |[Aplicativo de análise do Partner Center para o Power BI (parceiros diretos no CSP)](power-bi-app-for-direct-partners.md)|Parceiros diretos CSP|
 
 
 

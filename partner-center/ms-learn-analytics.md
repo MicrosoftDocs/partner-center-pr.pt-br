@@ -1,24 +1,25 @@
 ---
-title: Análise de Microsoft Learn | Centro de parceiros
+title: Análise do Microsoft Learn
 ms.topic: article
-ms.date: 07/05/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Acompanhe os aprendizes em sua empresa aproveitando os dados em treinamento individual, módulos concluídos, caminhos de aprendizado concluídos e muito mais.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 43d5e0770861aa23d9fe993df012e7a183894528
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8e69b283edd0110ba2b6e13ea60621171b83e4b6
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005096"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795930"
 ---
-# <a name="microsoft-learn-analytics-report"></a>Relatório de análise de Microsoft Learn
+# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>O relatório de análise de Microsoft Learn mostra o status dos aprendizes em sua empresa
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 -   Administrador de parceiros do MPN
 
 O relatório de Microsoft Learn fornece informações sobre os aprendizes em sua empresa, incluindo os módulos que eles concluíram e os caminhos de aprendizado em que estão. O relatório exibe o status de cada aprendiz individual. O administrador global e o administrador do MPN para sua empresa podem exibir os dados.

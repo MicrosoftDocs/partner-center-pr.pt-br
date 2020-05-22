@@ -1,20 +1,21 @@
 ---
 title: Saiba mais sobre o lançamento no mercado com as ofertas da Microsoft
 ms.topic: article
-ms.date: 03/16/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como entrar no mercado com as ofertas da Microsoft pode ajudar a acelerar o tempo de colocação no mercado, gerar clientes potenciais e expandir seus negócios.
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: MPN, benefícios de associação, associação, ofertas de entrada no mercado, entrar no mercado com a Microsoft, ir para o mercado, associação Gold, associação Silver
 ms.localizationpriority: medium
-ms.openlocfilehash: 19b00c2732faa18581214c6d32139c7f2e6ec15a
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6e694a169a7e76568c0c7b4c1882a5dd6e70c3cc
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362714"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795823"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Explore seu lançamento no mercado com as ofertas da Microsoft
 

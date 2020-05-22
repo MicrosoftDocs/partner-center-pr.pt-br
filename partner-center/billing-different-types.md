@@ -1,7 +1,7 @@
 ---
-title: Tipos de cobrança no Partner Center | Centro de parceiros
+title: Tipos de cobrança no Partner Center
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Saiba mais sobre diferentes tipos de cobrança, períodos de cobrança e datas de cobrança que você pode ver no Partner Center.
@@ -9,15 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: cobrança, pagamentos, pedidos, arquivos de reconciliação, arquivo de reconhecimento
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: fcacb9b0832c561e79e2d3c6df4d56b4d2f75b62
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 78199085c0ed56f55974cd4465ac3480f35c7761
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798584"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794978"
 ---
-# <a name="types-of-billing-in-partner-center"></a>Tipos de cobrança no Partner Center
+# <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>Tipos de cobrança no Partner Center-inclui a cobrança baseada em licença, com base no uso e uma única vez
 
 **Aplica-se a**
 

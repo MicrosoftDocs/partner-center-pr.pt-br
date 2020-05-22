@@ -1,28 +1,29 @@
 ---
-title: Recepções do Partner Center – relatório de benefícios | Centro de parceiros
+title: Relatório de benefícios do recepções do Partner Center
 ms.topic: article
-ms.date: 03/19/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Veja quais tipos de benefícios de parceiros da Microsoft foram concedidos para ajudar a aumentar seus negócios, melhorar a eficiência e aprimorar as habilidades da sua equipe.
 ms.assetid: ''
 keywords: PCI, desempenho, medidas, benefícios, análise, relatório
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 26ff2657eb4b2b27a355d08c647778e2a247f6ce
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c1522f6fe9a6b287443245577232b59d0032cdb5
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226192"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795720"
 ---
-# <a name="benefits-report"></a>Relatório de benefícios
+# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de benefícios disponível no painel do recepções do Partner Center
 
 **Funções apropriadas**
-- Administração global
-- Agente administrador
+
+- Administrador global
+- Agente administrativo
 - Visualizador de relatórios
 - Visualizador de relatórios executivos
 
@@ -37,7 +38,7 @@ Você pode visualizar os seguintes gráficos no relatório de benefícios:
 - Produtos de software
 - Assinaturas do Visual Studio
 - Benefícios técnicos
-- Lançar no mercado
+- Ir para o mercado
 
  > [!NOTE]
  > Esse relatório está disponível no painel do centro de informações do Partner Center (PCI). Para exibir esse relatório, você deve ser atribuído a uma função específica no Partner Center, como administrador global, administrador da conta, visualizador de relatórios ou Visualizador de relatórios do Executive. Para obter mais informações, consulte o administrador global da sua empresa. Tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de visualizador de relatórios executivos.
@@ -86,3 +87,7 @@ Este gráfico apresenta a tendência mensal de ofertas de lançamento no mercado
 Selecione uma oferta de entrada no mercado ou categoria de serviço na lista suspensa na parte superior do gráfico para exibir a tendência dos serviços de entrada para o mercado selecionados concedidos à sua empresa. As colunas no gráfico representam ofertas de entrada no mercado ou serviços ativados. O grafo de linha representa as ofertas gerais de lançamento no mercado ou os serviços concedidos à sua empresa.
 
 ![Ofertas de entrada no mercado](images/pci/pci_benefits_go_to_market_7.png)
+
+## <a name="next-steps"></a>Próximas etapas
+
+- Para obter mais relatórios, consulte os [insights do Partner Center](partner-center-insights.md).

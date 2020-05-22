@@ -1,22 +1,23 @@
 ---
-title: A estrutura de conta no Partner Center | Centro de parceiros
+title: Dois níveis de contas de parceiros MPN
 ms.topic: article
-ms.date: 01/16/2020
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba mais sobre os dois níveis de contas no Partner Center, a conta global do parceiro (PGA) e a conta de localização do parceiro (PLA).
+description: Os parceiros do MPN podem aprender sobre os dois níveis de contas no Partner Center, a conta global do parceiro (PGA) e a conta de localização do parceiro (PLA).
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 65693c6145c6510995badac757f88a982b9a94d5
-ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 32a43700b6644529ecc3d128110440649b4d3b99
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "76171191"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794995"
 ---
-# <a name="the-account-structure-in-partner-center"></a>A estrutura de conta no Partner Center
+# <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>O Partner Center tem dois níveis de contas para parceiros MPN
 
 **Aplica-se a**
 
@@ -27,7 +28,7 @@ ms.locfileid: "76171191"
 
 - Administrador de conta
 - Administrador de perfis de negócios
-- Administração global
+- Administrador global
 - Administrador de parceiros do MPN
 
 Sua empresa tem dois níveis de contas no Partner Center.

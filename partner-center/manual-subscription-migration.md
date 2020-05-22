@@ -1,22 +1,22 @@
 ---
-title: Migre o Dynamics 365 e o plano de envolvimento do cliente do básico (ofertas qualificadas) para versões mais recentes | Centro de parceiros
+title: Migrar assinaturas do Dynamics 365 qualificadas
 ms.topic: article
-ms.date: 12/12/2018
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como comprar uma nova assinatura antes que suas existentes expirem, reatribua licenças de usuário e, em seguida, cancele a assinatura antiga.
+description: Saiba como migrar de assinaturas do Dynamics 365 básicas e qualificadas para uma nova assinatura antes que as assinaturas existentes expirem.
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
+ms.custom: SEOMAY.20
 Keywords: O Dynamics 365 oferece, renovar ofertas, novas SKUs do Dynamics 365
-ms.openlocfilehash: 466f954af05a266fccba587007565e5d19d3af15
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: cac5717a1f7b27537faa694dcf665a69a7226483
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004579"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795989"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Migrar o Dynamics 365 e o Customer Engagement Plan de Basic (ofertas qualificadas) para versões mais recentes
 
@@ -25,13 +25,12 @@ ms.locfileid: "75004579"
 -  Partner Center
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 -   Administrador de usuários
 -   Agente administrativo
 -   Agente de vendas
 
 A partir de 1º de janeiro de 2019, os clientes com Dynamics 365 para o plano de vendas/envolvimento do cliente das assinaturas básicas (ofertas qualificadas) não podem mais renovar essas ofertas herdadas; as assinaturas existentes não serão renovadas automaticamente quando expirarem. Na página de detalhes da assinatura, o status da assinatura será alterado para "expira em [data]" de "renovações automáticas em [data]". 
-
 
 Para garantir a continuidade dos clientes, você deve fazer a transição deles com assinaturas expirando para uma opção com suporte, listada abaixo. É recomendável mover os clientes para novas assinaturas antes da data de término anual da assinatura para evitar qualquer interrupção de serviço para os clientes.
 
@@ -99,7 +98,7 @@ Mover clientes de SKUs desativados para os mais recentes requer as seguintes eta
 Agora, seu cliente terá a assinatura antiga e a nova. A próxima etapa é reatribuir licenças aos usuários do cliente.
 
 1. Selecione **clientes** na barra de navegação à esquerda e, em seguida, selecione o cliente que você está movendo.
-2. Selecione **Usuários e licenças**.
+2. Selecione **usuários e licenças**.
 3. Para reatribuir uma licença a um usuário, selecione o usuário e, em seguida, selecione **gerenciar licenças**. 
 4. Na página **gerenciar licenças** , desmarque a caixa de seleção Dynamics 365 para vendas/plano de envolvimento do cliente da licença básica (oferta qualificada) e selecione um novo plano de serviço para a assinatura à qual o cliente está se movendo. 
 5. Selecione **Enviar**. Você fará isso para cada usuário que precisa da nova licença. 

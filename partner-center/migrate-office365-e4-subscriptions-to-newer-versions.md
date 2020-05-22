@@ -1,19 +1,20 @@
 ---
-title: Migrar assinaturas do Office 365 E4 para versões mais recentes do Office 365 | Partner Center
+title: Migrar assinaturas do Office 365 E4
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Edições do Microsoft Office 365 Enterprise E4 estarão desativadas a partir de 7 de abril de 2017. Saiba como migrar suas assinaturas de cliente para versões mais recentes do Office 365.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 02d383172595e09a4ab0bf9c6db34862fcc17204
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: bd9f9effd501846934e1b0b2a86b654dfa14ebbe
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798872"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795766"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrar inscrições do Office 365 E4 para versões do Office 365 mais recentes
 
@@ -32,7 +33,7 @@ O plano do Office 365 Enterprise E4 está desativado desde 7 de abril de 2017. V
 Quando as assinaturas E4 terminarem, elas serão canceladas. Para garantir a continuidade dos clientes, você deve fazer a transição de clientes com assinaturas E4 vencidas para uma opção de SKU com suporte, listada abaixo. É recomendável mover os clientes para novas assinaturas antes da data de término anual da assinatura para evitar qualquer interrupção de serviço para os clientes. 
 
 > [!NOTE]  
->  Os SKUs comerciais e governamentais do Office 365 Enterprise E4 são desativados.
+> Os SKUs comerciais e governamentais do Office 365 Enterprise E4 são desativados.
  
 Na página de detalhes da assinatura, o status da assinatura E4 foi alterado para "Expira em [data]" de "Renovação automática em [data]". 
 
@@ -55,10 +56,10 @@ Você pode optar por manter a mesma funcionalidade com E4 ou deixar seus cliente
 
 | Recurso | Opção 1 | Opção 2 | Opção 3 | Opção 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
-| Obter todos os recursos incluídos no Office 365 Enterprise E4? | Sim | Sim | Sim | Não |
-| Números de telefone gerenciados no Office 365? | Sim | Sim | Não | Não |
-| Números de telefone gerenciado no local e no Office 365 (implantação híbrida)? | Sim | Sim | Não | Não |
-| Opção de adicionar um plano de chamada de voz PSTN? | Sim | Sim | Não | Não |
+| Obter todos os recursos incluídos no Office 365 Enterprise E4? | Yes | Sim | Sim | No |
+| Números de telefone gerenciados no Office 365? | Yes | Sim | Não | Não |
+| Números de telefone gerenciado no local e no Office 365 (implantação híbrida)? | Yes | Sim | Não | Não |
+| Opção de adicionar um plano de chamada de voz PSTN? | Yes | Sim | Não | Não |
 | Conferência por PSTN? | Sim | Não | Não | Não |
 | Ferramentas avançadas de colaboração, análises e segurança? | Sim | Não | Não | Não |
 | Visualizações de relatórios, painéis e dados interativos? | Sim | Não | Não | Não | 

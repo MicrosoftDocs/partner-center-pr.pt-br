@@ -1,27 +1,27 @@
 ---
-title: Informações do Partner Center – relatório de uso do Azure | Centro de parceiros
+title: Relatório de uso do Azure de informações do Partner Center
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Veja o que você está fazendo bem e onde você pode melhorar a respeito do uso de assinaturas do Azure que você vende ou gerencia para seus clientes.
 ms.assetid: ''
 keywords: PCI, desempenho, medidas, êxito do cliente, uso do Azure, assinaturas, análise, relatório
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: b07aaba9a22c74d52cd8f97f92edd7e0d4deb86a
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 08d8efe436f0a7d61a6f0c75e8171eb02a08120c
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648077"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795668"
 ---
-# <a name="azure-usage-report"></a>Relatório de uso do Azure
+# <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de uso do Azure disponível no painel do centro de informações do Partner Center
 
 **Funções apropriadas**
-- Administração global
+- Administrador global
 - Agente administrativo
 - Visualizador de relatórios
 - Visualizador de relatórios executivos
@@ -74,3 +74,7 @@ Esta exibição mostra a receita de consumo do Azure mês a mês ou as tendênci
 O gráfico de barras apresenta a tendência de horas de receita/uso mensal. O gráfico de linhas apresenta a tendência de crescimento em comparação com o mês anterior para as categorias de nível de serviço/medidor selecionadas do Azure.
 
 ![Utilização do uso do Azure](images/pci/pci_azure_usage_utilization_3.png)
+
+## <a name="next-steps"></a>Próximas etapas
+
+- Para obter mais relatórios, consulte os [insights do Partner Center](partner-center-insights.md).

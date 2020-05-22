@@ -1,30 +1,30 @@
 ---
-title: Gerenciar oportunidades de venda de produtos | Centro de parceiros
+title: Gerenciar oportunidades de venda conjunta
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Como um parceiro qualificado da Microsoft, você pode comercializar com a Microsoft. Saiba como definir as negociações, convidar a Microsoft para colaborar ou exibir as negociações enviadas.
-author: vikramb
-ms.author: vikramb
+author: LauraBrenner
+ms.author: labrenne
 keywords: referência, co-venda, negociação
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 7732d1d6b65d90370c06f1a65a29a291915693d7
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: da10d8e9de254eb3af9450df171b5ae1153ce4bf
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "81919833"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83796028"
 ---
-# <a name="manage-co-sell-opportunities"></a>Gerenciar oportunidades de venda de produtos
+# <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Gerenciar oportunidades de venda no Partner Center para definir negócios e atender melhor às necessidades dos clientes
 
 **Aplica-se a**
 
--  Partner Center
--  Indicações
--  Vendas conjuntas com a Microsoft
--  Compartilhamento de negociações
+- Partner Center
+- Indicações
+- Vendas conjuntas com a Microsoft
+- Compartilhamento de negociações
 
 **Funções apropriadas**
 

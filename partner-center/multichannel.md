@@ -1,22 +1,23 @@
 ---
-title: Usar opções de multicanal no Partner Center
+title: Suporte a vários canais para clientes
 description: Em alguns casos, os clientes talvez queiram contratar você para provisionar e dar suporte a uma assinatura comprada em outro lugar.
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e96b7cb91915c6ccbc6485fde87b1e061a73e2da
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 48eaf38150ff5be68d324b9456fb5a446b4127b2
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362694"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795890"
 ---
-# <a name="multi-channel-support"></a>Suporte multicanal
+# <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Suporte a vários canais-usando outros parceiros para dar suporte a assinaturas de clientes adquiridas em outro lugar
 
 **Aplica-se a**
 

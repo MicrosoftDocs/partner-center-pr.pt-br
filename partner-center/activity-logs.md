@@ -1,7 +1,7 @@
 ---
-title: Exibir logs de atividades do cliente | Partner Center
+title: Obter informações com os logs de atividade do cliente
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como exibir e exportar logs de atividade para obter informações sobre transações de conta de cliente e outras atividades de gerenciamento de parceiros relacionadas ao cliente.
@@ -10,14 +10,15 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: logs de atividades, assinatura, assinaturas, pagamentos, cobrança, transações
 ms.localizationpriority: medium
-ms.openlocfilehash: caa203cac0aba616129158d453518166c322aac4
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5ec37ded4c37972884f5d7eaf906792ec46e33af
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798654"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794973"
 ---
-# <a name="view-customer-activity-logs"></a>Exibir logs de atividades do cliente
+# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Exibir ou exportar logs de atividades do cliente para obter mais informações sobre as transações do cliente
 
 **Aplica-se a**
 

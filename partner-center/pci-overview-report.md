@@ -1,24 +1,24 @@
 ---
-title: Informações do Partner Center-painel Visão geral | Centro de parceiros
+title: Painel de visão geral de informações do Partner Center
 ms.topic: article
-ms.date: 12/27/2019
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Veja exatamente o que você está fazendo e onde você pode melhorar em relação a suas vendas e implantação, bem como ao desenvolvimento para clientes
+description: Veja um instantâneo de como você está fazendo com vendas e implantação, crescimento do cliente e crescimento da receita com licenças, assinaturas e consumo do Azure.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, desempenho, sucesso do cliente, medições,
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 420fb8e6bd7fefcd360dcd0b98bd4885f4d9da38
-ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43198aa65b127bb1e22146006f54d19588b58940
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75631867"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795706"
 ---
-# <a name="overview-dashboard-reports"></a>Visão geral dos relatórios do painel 
+# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Visão geral dos relatórios do painel disponíveis em informações do Partner Center
  
 O painel Visão geral do Partner Center fornece uma exibição de instantâneo dos principais indicadores de desempenho, como clientes, assinaturas, receita de consumo do Azure, licenças etc. Você pode visualizar os gráficos a seguir no relatório de visão geral. 
 
@@ -83,6 +83,6 @@ Tendência de licenças atribuídas por todos os clientes durante o intervalo de
 
 ![licenças](images/pci/licensesgrowth.png)
 
-### <a name="learn-more"></a>Mais informações
+## <a name="next-steps"></a>Próximas etapas
 
-Para tópicos adicionais de painel e relatório do Partner Center, leia [informações do Partner Center](partner-center-insights.md)
+- Para obter mais relatórios, consulte os [insights do Partner Center](partner-center-insights.md).

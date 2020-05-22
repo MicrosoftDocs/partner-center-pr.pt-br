@@ -1,33 +1,35 @@
 ---
-title: Faturas e impostos no Microsoft Partner Network | Centro de parceiros
+title: Microsoft Partner Network faturas & impostos
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Saiba como exibir ou baixar sua fatura de associação do MPN, bem como um arquivo para isenção de imposto e enviar o número da sua ID de IVA da Microsoft.
+description: Saiba como exibir ou baixar sua fatura de associação do MPN, como arquivar a isenção de imposto e como enviar o número da sua ID de IVA da Microsoft.
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, fatura, mapas, isenção de imposto, IVA, ID de IVA
 ms.localizationpriority: medium
-ms.openlocfilehash: 02e6075e67f91bf3283a475f476b69b56fe9dec9
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6be8b6d5d69ddaa6b5f3d14725691a67d168a80d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004255"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795938"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Faturas e impostos no Microsoft Partner Network
 
 **Aplica-se a**
 
--  Partner Center
+- Partner Center
 
 **Funções apropriadas**
--   Administração global
--   Administrador de usuários
--   Administrador de parceiros do MPN
--   Administrador de cobrança
--   Agente administrativo
+
+- Administrador global
+- Administrador de usuários
+- Administrador de parceiros do MPN
+- Administrador de cobrança
+- Agente administrativo
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>Exibir ou baixar sua fatura de associação do MPN
 
@@ -37,7 +39,7 @@ Você deve ser um administrador global ou administrador de parceiro MPN para exe
 
 1.  Entre no [Partner Center](https://partner.microsoft.com/dashboard/home) com sua conta corporativa e selecione **MPN** no menu à esquerda.
 
-4.  Na lista suspensa, selecione **ofertas de associação** para ver as ofertas disponíveis para compra, bem como as notas fiscais disponíveis para o ano atual de registro. Para exibir as notas fiscais dos anos anteriores, selecione **expirado**.
+4.  Na lista suspensa, selecione **ofertas de associação** para ver as ofertas disponíveis para compra, bem como as notas fiscais disponíveis para o ano atual de registro. Para exibir as faturas fiscais dos anos anteriores, selecione **Expiradas**.
 
 6.  Selecione a fatura desejada e, em seguida, selecione **baixar fatura**. 
 

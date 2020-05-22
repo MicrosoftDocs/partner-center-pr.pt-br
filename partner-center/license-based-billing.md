@@ -1,31 +1,31 @@
 ---
-title: Cobrança baseada em licença | Centro de parceiros
+title: Cobrança baseada em licença
 ms.topic: article
-ms.date: 11/21/2019
-Description: Informações sobre cobrança baseada em licença no Partner Center, em que você é cobrado por licença (não por uso de licença).
+ms.date: 05/18/2020
+Description: Saiba como a cobrança baseada em licença difere da cobrança baseada em uso no Partner Center, incluindo como você é cobrado por licença (não por uso de licença).
 author: LauraBrenner
 ms.author: labrenne
 keywords: cobrança, pagamentos, licença baseada em licença
 ms.localizationpriority: medium
-ms.openlocfilehash: 7205d843c9eacbfe4ab1eb6975aa42f5609fb8be
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2de61f21f28a3ce343edc68035d836a74f98870d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798884"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795792"
 ---
-# <a name="license-based-billing"></a>Cobrança baseada em licença
+# <a name="license-based-billing-in-partner-center"></a>Cobrança baseada em licença no Partner Center
 
 **Aplica-se a**
 
 - Partner Center
 - Parceiros no programa CSP
 
-**Funções apropriadas**
--   Administrador global
--   Administrador de usuários
--   Administrador de cobrança
--   Agente administrativo
+**Funções apropriadas** – administrador global
+- Administrador de usuários
+- Administrador de cobrança
+- Agente administrativo
 
 Ao comprar produtos ou serviços online no Partner Center que exigem **licenças**, você será cobrado *por cada licença* que comprar. Você *não é cobrado* pelo uso dessas licenças. (Para obter informações sobre cobrança baseada em uso e outros tipos de cobrança, consulte [tipos de cobrança no Partner Center](billing-different-types.md).)
 
@@ -37,10 +37,10 @@ Você pode optar por ser cobrado por licenças uma vez por mês (**cobrança men
 
 As assinaturas baseadas em licença são cobradas antecipadamente na **data de aniversário**da assinatura. A data de aniversário é o dia do mês em que você comprou a assinatura.
 
-Por exemplo: 
+Por exemplo:
 
-- Se você comprou uma **assinatura mensal** em 15 de Janeiro, a data de aniversário será o 15º de cada mês.
-- Se você comprou uma **assinatura anual** em 15 de Janeiro, a data de aniversário será 15 de janeiro de cada ano.
+- Se você comprou uma **assinatura mensal** em 15 de Janeiro, a data de aniversário será a 15 de cada mês.
+- Se você comprou uma **assinatura anual** em 15 de Janeiro, a data de aniversário será de 15 de janeiro de cada ano.
 
 ## <a name="license-term"></a>Termo da licença
 
@@ -56,4 +56,14 @@ Se você suspender uma assinatura em meses de 2-12, você será creditado em uma
 
 ## <a name="license-renewal"></a>Renovação de licença
 
-Todas as assinaturas baseadas em licença são renovadas automaticamente 12 meses após o início do prazo pago.
+Todas as assinaturas baseadas em licença renovar 12 meses após o início do termo pago.
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Visão geral da cobrança do Partner Center](billing-basics.md)
+
+- [Tipos de cobrança no Partner Center](billing-different-types.md)
+
+- [Diferenças de cobrança mensal e anual](billing-annual-monthly.md)
+
+- [Principais artigos de cobrança e imposto](billing.md)

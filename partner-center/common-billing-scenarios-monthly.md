@@ -1,21 +1,22 @@
 ---
-title: Cenários comuns de cobrança mensal | Centro de parceiros
+title: Cenários comuns de cobrança mensal
 ms.topic: article
-ms.date: 11/25/2019
-description: Cenários comuns no Partner Center quando você usa a cobrança mensal (como adicionar novas assinaturas, alterar a quantidade de licenças e suspender assinaturas).
+ms.date: 05/13/2020
+description: Cenários comuns no Partner Center quando você usa a cobrança mensal – inclui adicionar novas assinaturas, alterar a quantidade de licenças e suspender assinaturas.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: cobrança, pagamentos, pedidos, uso, cobrança mensal, assinaturas, arquivo de reconciliação
 ms.localizationpriority: medium
-ms.openlocfilehash: e67281a0bf7d5649a68a6a3f3c27c40e3666eb14
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c51e6dfa2471570f30b1b957317bff1e6081bb79
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798534"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795619"
 ---
-# <a name="monthly-billing-scenarios"></a>Cenários de cobrança mensais
+# <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Cenários de cobrança mensal de exemplo para novas assinaturas, alteração de valores de licença ou suspensão
 
 **Funções apropriadas**
 

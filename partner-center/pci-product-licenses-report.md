@@ -1,27 +1,27 @@
 ---
-title: Parceiros do Partner Center – relatório de licenças de produto | Centro de parceiros
+title: Informações do Partner Center-licenças de produto
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Veja o que você está fazendo bem e onde você pode melhorar em relação aos produtos de nuvem licenciados (ou baseados em assentos) que você vende ou gerencia para seus clientes.
+description: Verifique este relatório de licença do produto e saiba como melhorar com os produtos de nuvem licenciados (ou baseados em assentos) que você vende ou gerencia para seus clientes.
 ms.assetid: ''
 keywords: PCI, desempenho, medidas, êxito do cliente, assinaturas de nuvem, análise, relatório
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 0d2b5dcac2a51d78d814cc6c5099eaeafa0f769a
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3db52e7a55d915dafcd220f6dd6e5ced28a9819f
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648007"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795660"
 ---
-# <a name="product-licenses-report"></a>Relatório de licenças de produto
+# <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Relatório de licenças de produto no painel do recepções do Partner Center
 
 **Funções apropriadas**
-- Administração global
+- Administrador global
 - Agente administrativo
 - Visualizador de relatórios
 - Visualizador de relatórios executivos
@@ -81,3 +81,7 @@ O eixo X representa os meses do intervalo de datas selecionado. O eixo Y represe
 Esta exibição mostra uma divisão de suas licenças de cliente por produto e país/região do cliente. Quando você seleciona um produto no gráfico de pizza **licença por produto** , o gráfico adjacente lhe mostrará uma divisão de licença por região do cliente.
 
 ![distribuição de licenças](images/pci/pci_licenses_report_license_distrib_4.png)
+
+## <a name="next-steps"></a>Próximas etapas
+
+- Para obter mais relatórios, consulte os [insights do Partner Center](partner-center-insights.md).

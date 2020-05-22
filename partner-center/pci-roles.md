@@ -1,24 +1,24 @@
 ---
-title: Informações do Partner Center – controle de acesso baseado em funções | Centro de parceiros
+title: Acesso baseado em função de informações do Partner Center
 ms.topic: article
-ms.date: 01/14/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Funções específicas são necessárias para ver relatórios de informações
+description: Saiba mais sobre as funções específicas necessárias para ver os relatórios de informações do Partner Center. Isso inclui as funções do Visualizador de relatórios executivo e do Visualizador de relatórios.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, desempenho, sucesso do cliente, medições, funções
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: e51e86ed20af16d4bc4c5d48b33eee712480bfab
-ms.sourcegitcommit: 1a735003cca0bd430195ac1213bd8d77bd5063a9
+ms.custom: SEOMAY.20
+ms.openlocfilehash: fedeaad1898f4fade76bbf34c0bfe6bd2585a7cd
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "75945858"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795638"
 ---
-# <a name="roles-based-access-control-to-the-insights-dashboard"></a>Controle de acesso baseado em funções para o painel do insights
+# <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Controle de acesso baseado em função para o painel do recepções do Partner Center
 
 O painel de informações usa duas novas funções no Partner Center para gerenciar o acesso dos funcionários aos relatórios-Visualizador de relatórios executivos e visualizador de relatórios.  Os usuários na função do Visualizador de relatórios executivos têm acesso a todos os conjuntos de dados de relatórios, enquanto os usuários na função do Visualizador de relatórios não terão acesso a conjuntos de dados confidenciais, como receita e dados pessoais de cliente/funcionário.  
 
@@ -27,3 +27,7 @@ Assim como acontece com outras funções do centro de parceiros, o administrador
 ![Funções](images/pci/roles.png)
 
 >Anotações Os usuários que são administradores de MPN a partir de 20 de janeiro de 2020 são automaticamente adicionados à função ' Visualizador de relatórios executivos ' de toda a empresa para todos os locais para esse locatário. Assim, esses usuários são capazes de acessar os relatórios como um visualizador de relatórios executivos sem qualquer ação explícita exigida pelo administrador global ou pela conta. Os administradores globais e os administradores de conta podem substituir as funções atribuídas automaticamente desses usuários para aumentar ou limitar seus recursos.
+
+## <a name="next-steps"></a>Próximas etapas
+
+- Saiba mais sobre as [informações do Partner Center](partner-center-insights.md) e seus diversos relatórios.

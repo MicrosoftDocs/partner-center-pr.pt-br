@@ -1,8 +1,8 @@
 ---
-title: Dê permissão aos clientes para que comprem seus próprios serviços
-description: Saiba como os parceiros do programa CSP podem permitir que os clientes comprem seus próprios serviços, como reservas do Azure, para uma assinatura adquirida para eles.
+title: Permitir que os clientes comprem seus próprios serviços no CSP
+description: Saiba como os parceiros do programa CSP podem permitir que os clientes comprem seus próprios serviços, como reservas do Azure, para uma assinatura adquirida para eles no Partner Center.
 ms.topic: article
-ms.date: 05/13/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -10,14 +10,14 @@ ms.author: labrenne
 Keywords: assinatura, compra de autoatendimento, RI de autoatendimento, habilitar RI, desabilitar RI, autoatendimento, compra de cliente, permissões de cliente, instância reservada de compra de cliente, reservas do Azure para comprar, ativar autoatendimento, desligar o autoatendimento
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07e362e80f6d57ca5d0d837160e5ddf04a5b1d65
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: d04f7aad779a6bf3be08b24f43da6abc4dfdac4d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394125"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795111"
 ---
-# <a name="how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>Como dar aos clientes permissão para comprar seus próprios produtos ou serviços
+# <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Dê permissão aos clientes no Partner Center para comprar seus próprios produtos ou serviços
 
 **Aplica-se a**
 

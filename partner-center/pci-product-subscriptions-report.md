@@ -1,27 +1,27 @@
 ---
-title: Parceiros do Partner Center – relatório de assinaturas do produto | Centro de parceiros
+title: Relatório de assinaturas de informações do Partner Center
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Veja o que você está fazendo bem e onde você pode melhorar em relação às assinaturas de nuvem que você vende ou gerencia para seus clientes.
 ms.assetid: ''
 keywords: PCI, desempenho, medidas, êxito do cliente, assinaturas de nuvem, análise, relatório
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 7c2621130c9eef99f09f062f9bf38c48c8dcb4b6
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e582507432f54148bc4c918bc554a3169fd716ca
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648047"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795908"
 ---
-# <a name="product-subscriptions-report"></a>Relatório de assinaturas de produto
+# <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de assinaturas do produto disponível no painel do recepções do Partner Center
 
 **Funções apropriadas**
-- Administração global
+- Administrador global
 - Agente administrativo
 - Visualizador de relatórios
 - Visualizador de relatórios executivos
@@ -108,3 +108,7 @@ Os dois gráficos de pizza mostram uma divisão de suas assinaturas de cliente a
 
 > [!NOTE]
  > A contagem de assinaturas dividida por SKUs pode nem sempre corresponder à contagem total de assinaturas para esse produto. Isso pode ocorrer se um cliente tiver comprado várias SKUs sob a mesma assinatura de produto.
+
+## <a name="next-steps"></a>Próximas etapas
+
+- Para obter mais relatórios, consulte os [insights do Partner Center](partner-center-insights.md).
