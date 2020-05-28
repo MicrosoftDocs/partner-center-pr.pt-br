@@ -1,33 +1,35 @@
 ---
-title: Cobrança por uma única vez e selecionar encargos recorrentes | Centro de parceiros
+title: Cobrança-& de uso único selecione encargos recorrentes
 ms.topic: article
-ms.date: 11/21/2019
-Description: Informações sobre a cobrança única com antecedência para um termo predefinido (assinaturas mensais e anuais) e cobrança para selecionar encargos recorrentes (para produtos da Microsoft e ISV de terceiros aplicáveis) no Partner Center.
+ms.date: 05/26/2020
+Description: Saiba mais sobre a cobrança do Partner Center, como cobrança única com antecedência para termos predefinidos e cobrança de encargos selecionados e recorrentes.
 author: LauraBrenner
 ms.author: labrenne
 keywords: cobrança, de uso único, recorrente, compras, encargos, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: e373e792692e1e5dcec183c79b36ae2c55c92954
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5194df5463be52872c32720edb67914fe7df7360
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798774"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998422"
 ---
-#  <a name="billing-for-one-time-and-select-recurring-charges"></a>Cobrança única e seleção de encargos recorrentes
+# <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>Cobrança por uma única vez e selecionar encargos recorrentes no Partner Center
+
 
 **Aplica-se a**
 - Partner Center
 - Parceiros no programa CSP
 
 **Funções apropriadas**
--   Administrador global
--   Administrador de usuários
--   Administrador de cobrança
--   Agente administrativo
--   Agente de vendas
+- Administrador global
+- Administrador de usuários
+- Administrador de cobrança
+- Agente administrativo
+- Agente de vendas
 
-Este tópico descreve a experiência de cobrança para **uma única vez e seleciona encargos recorrentes** para produtos Microsoft e ISV (fornecedor de software independente) de terceiros. 
+Este artigo descreve a experiência de cobrança para **uma única vez e seleciona encargos recorrentes** para produtos Microsoft e ISV (fornecedor de software independente) de terceiros. 
 
 A **cobrança única** é quando você adquire assinaturas de software e reservas do Azure com antecedência para um termo predefinido. Você pode comprar os termos de um ou três anos. Em seguida, você será cobrado pelo custo total em uma soma total única.
 
@@ -41,7 +43,7 @@ A cobrança por uma única vez e a seleção de encargos recorrentes se aplica a
 > [!IMPORTANT]
 > A experiência de cobrança para encargos recorrentes de assinaturas baseadas em [**licença**](license-based-billing.md) e [**assinaturas baseadas em uso**](usage-based-billing.md) permanece a mesma.
 
-Os **encargos recorrentes** de assinaturas (incluindo assinaturas baseadas em **licença e de uso**) são emitidos para todos os produtos do [**Catálogo de serviços online**](https://partner.microsoft.com/commerce/preferredoffers/list). Alguns exemplos incluem o Office 365, Microsoft 365, Azure Active Directory (Azure AD), Azure (pré-pago), Dynamics 365 e PowerBI pro.
+Os **encargos recorrentes** de assinaturas (incluindo assinaturas baseadas em **licença e de uso**) são emitidos para todos os produtos do [**Catálogo de serviços online**](https://partner.microsoft.com/commerce/preferredoffers/list). Alguns exemplos incluem o Office 365, Microsoft 365, Azure Active Directory (Azure AD), Azure (pré-pago), Dynamics 365 e Power BI Pro.
 
 Para cobranças de assinatura aplicáveis, a **data de cobrança** é a data que você selecionou quando criou sua conta do Partner Center. O **período de cobrança** é o mês anterior à data de cobrança.
 

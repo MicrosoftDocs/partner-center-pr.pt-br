@@ -1,7 +1,7 @@
 ---
-title: Preparação para mudar do Centro de Administração do Parceiro para o Partner Center | Partner Center
+title: Mover do centro de administração do parceiro
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: A funcionalidade Centro de Administração do Parceiro do Office 365 está mudando para o Partner Center.
@@ -9,27 +9,28 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: PAC, Office 365 Advisor, Advisor, parceiro de distribuição, desativação de PAC, PAC
 ms.localizationpriority: medium
-ms.openlocfilehash: 214ae5d353449c82a7b1ba03a793d06359e28a0a
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8198cc954c3d129394af1154387b81e25e24e294
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123310"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998402"
 ---
-# <a name="partner-admin-center-is-moving-to-the-partner-center"></a>O centro de administração do parceiro está mudando para o Partner Center
+# <a name="partner-admin-center-is-moving-to-the-partner-center"></a>O Centro de Administração do Parceiro está migrando para o Partner Center
 
 **Aplica-se a**
 
--  Centro de Parceiros
+- Partner Center
 
 **Funções apropriadas**
--    Administrador global
--    Administrador de usuários
--    Agente administrativo
--    Agente de vendas
+- Administrador global
+- Administrador de usuários
+- Agente administrativo
+- Agente de vendas
 
 > [!NOTE]  
->  Todas as datas foram atualizadas desde o lançamento inicial deste artigo.
+> Todas as datas foram atualizadas desde o lançamento inicial deste artigo.
 
 O PAC (centro de administração de parceiros) do Office 365 está mudando para o Microsoft Partner Center.
 
