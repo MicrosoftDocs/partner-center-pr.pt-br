@@ -1,30 +1,30 @@
 ---
-title: Gerenciar oportunidades de venda conjunta
+title: Gerenciar oportunidades de venda de produtos | Centro de parceiros
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 04/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Como um parceiro qualificado da Microsoft, você pode comercializar com a Microsoft. Saiba como definir as negociações, convidar a Microsoft para colaborar ou exibir as negociações enviadas.
-author: LauraBrenner
-ms.author: labrenne
+author: vikramb
+ms.author: vikramb
 keywords: referência, co-venda, negociação
 ms.localizationpriority: medium
-ms.custom: SEOMAY.20
-ms.openlocfilehash: da10d8e9de254eb3af9450df171b5ae1153ce4bf
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.custom: seodec18
+ms.openlocfilehash: 96e89d354131dc3defdb617d4147b92e938a5c09
+ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83796028"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "84145070"
 ---
-# <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Gerenciar oportunidades de venda no Partner Center para definir negócios e atender melhor às necessidades dos clientes
+# <a name="manage-co-sell-opportunities"></a>Gerenciar oportunidades de venda de produtos
 
 **Aplica-se a**
 
-- Partner Center
-- Indicações
-- Vendas conjuntas com a Microsoft
-- Compartilhamento de negociações
+-  Partner Center
+-  Indicações
+-  Vendas conjuntas com a Microsoft
+-  Compartilhamento de negociações
 
 **Funções apropriadas**
 
@@ -99,7 +99,7 @@ Depois de fornecer as informações da solução, selecione avançar para ir par
 
 **Acordo de pipeline privado**: se você não convidar a Microsoft e criar um envolvimento nesta etapa, ele será do tipo pipeline privado. Os vendedores da Microsoft não terão visibilidade dos detalhes desse negócio.
 
-**Co-vender o negócio:** Se você alternar a opção para Sim para a pergunta **"você gostaria de obter ajuda da Microsoft?"**, o negócio se transforma em um negócio de venda, em que um vendedor da Microsoft pode ajudá-lo a fechar o negócio. Uma solicitação de ajuda da Microsoft não é garantia de que um vendedor da Microsoft participará do negócio. Os representantes de vendas da Microsoft têm 14 dias para decidir se desejam participar. Na seção observações, certifique-se de identificar o tipo de ajuda desejado.
+**Co-vender o negócio:** Se você mudar para Sim para a pergunta **"você gostaria de obter ajuda da Microsoft?"**, o negócio se transforma em um negócio de venda, em que um vendedor da Microsoft pode ajudá-lo a fechar o negócio. Uma solicitação de ajuda da Microsoft não é garantia de que um vendedor da Microsoft participará do negócio. Os representantes de vendas da Microsoft têm 14 dias para decidir se desejam participar. Na seção observações, certifique-se de identificar o tipo de ajuda desejado.
 
 ## <a name="responding-to-a-co-sell-opportunity"></a>Respondendo a uma oportunidade de venda conjunta
 
@@ -109,7 +109,7 @@ Cada oportunidade passa por um ciclo de vida próprio.
 
 Neste estágio, se você tiver recebido uma nova oportunidade de venda conjunta de um vendedor da Microsoft ou de outros parceiros no ecossistema de venda conjunta da Microsoft, examine os detalhes e fique à vontade para entrar em contato com o cliente se quiser saber mais sobre suas necessidades comerciais. Você pode executar duas ações neste estágio. aceitar ou recusar a referência:
 
-- **Aceitar:** Insira um nome para o negócio, edite o valor de acordo estimado e o período de compra estimado com base em sua análise. Depois de estabelecer o contato com o cliente, você deve fornecer informações no campo **observações** para explicar mais sobre o que o cliente está procurando. Opcionalmente, você pode inserir sua ID do CRM aqui (somente para sua referência), a ID da campanha de marketing que resultou na respectiva oportunidade e adicionar contatos de sua empresa que trabalhará nesse negócio. 
+- **Aceitar:** Insira um nome para o negócio, edite o valor de acordo estimado e o intervalo de tempo de compra estimado com base em sua análise. Depois de estabelecer o contato com o cliente, você deve fornecer informações no campo **observações** para explicar mais sobre o que o cliente está procurando. Opcionalmente, você pode inserir sua ID do CRM aqui (somente para sua referência), a ID da campanha de marketing que resultou na respectiva oportunidade e adicionar contatos de sua empresa que trabalhará nesse negócio. 
 
 - Quando tiver terminado, selecione **Avançar**. Moveremos a referência para **o próximo estágio**, o que significa que você planeja envolver ativamente o cliente para atender às suas necessidades. Também usaremos essas informações para ajudá-lo a encontrar acordos semelhantes no futuro.
 
@@ -122,12 +122,12 @@ Neste estágio, se você tiver recebido uma nova oportunidade de venda conjunta 
 
 Trabalhe para fechar a negociação com o cliente. Se você quiser alterar qualquer uma das informações que forneceu para uma referência aceita, selecione **Editar**. Em seguida, você pode atualizar o nome da negociação, a data de compra estimada, o valor estimado, as observações, a ID do CRM e/ou a ID da campanha de marketing.  Você também pode selecionar **adicionar seus funcionários** para fornecer o nome, o número de telefone e os endereços de email de outras pessoas que estão trabalhando no negócio. As soluções também podem ser editadas com base na necessidade do cliente.
 
-Todas as negociações que você criou estão no estágio aceito por padrão.
+Todas as negociações que você criou estão no estágio **aceito** por padrão.
 
 Quando terminar, você poderá executar uma das duas ações, que estão marcando o negócio como **ganho** ou **perdido** para relatar o resultado para que possamos arquivá-lo adequadamente.
 
 > [!TIP]
-> Para determinadas soluções qualificadas, depois de selecionar ganha, você será solicitado a fornecer informações adicionais para registrar seu negócio. A Microsoft revisará as informações que você fornecer aqui e poderá solicitar detalhes adicionais durante o processo de revisão. Para obter mais informações, confira Registrar suas negociações.
+> Para determinadas soluções qualificadas, depois de selecionar **ganha**, você será solicitado a fornecer informações adicionais para registrar seu negócio. A Microsoft revisará as informações que você fornecer aqui e poderá solicitar detalhes adicionais durante o processo de revisão. 
 
 ### <a name="archived-stage"></a>Estágio Arquivado
 
@@ -138,5 +138,15 @@ Esse é um estágio de terminal em que todas as oportunidades finalmente chegam.
 Aqui estão algumas dicas para ajudá-lo a obter mais oportunidades de venda conjuntas que são apropriadas para seus negócios:
 
 - **Responda rapidamente às negociações**. Quando você responde em tempo hábil às solicitações de entrada, aumentaremos sua visibilidade em futuros resultados da pesquisa de parceiros progressivamente. Verifique se a sua equipe responde rapidamente com sua intenção.
-- **Seja seletivo com as negociações que você aceita**. Monitoramos os tipos de negócios que você aceita e recusa e usamos essas informações para ajudá-lo a encontrar acordos semelhantes. Aceitar as negociações que não são um bom ajuste não melhorará os resultados da pesquisa e poderá afetar a qualidade das oportunidades recebidas.
+
+- **Seja choosy com as ofertas que você aceita** Monitoramos os tipos de negócios que você aceita e recusa e usamos essas informações para ajudá-lo a encontrar acordos semelhantes. Aceitar as negociações que não são um bom ajuste não melhorará os resultados da pesquisa e poderá afetar a qualidade das oportunidades recebidas.
+
 - **Relatar o status final de negociações, datas de fechamento e o status final de suas negociações** (ganhas ou perdidas). Usaremos essas informações para continuar a fornecer referências de qualidade.
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Gerenciar clientes potenciais](manage-leads.md)
+
+- [Obter o conector de televenda para o Dynamics 365 CRM](connector-dynamics.md)
+
+- [Obter o conector de televenda para o Salesforce CRM](connector-salesforce.md)

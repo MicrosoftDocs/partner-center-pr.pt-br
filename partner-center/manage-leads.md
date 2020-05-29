@@ -1,23 +1,23 @@
 ---
-title: Gerenciar clientes potenciais
+title: Gerenciar leads | Centro de parceiros
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 04/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Use o Partner Center para responder às referências e gerenciar clientes potenciais e referências novos, existentes e arquivados. Saiba também como obter mais referências no futuro.
-author: LauraBrenner
-ms.author: labrenne
+description: Saiba como responder às referências, gerenciar as referências novas, existentes e arquivadas e obter mais referências no futuro.
+author: vikramb
+ms.author: vikramb
 keywords: referência, co-venda, negociação
 ms.localizationpriority: medium
-ms.custom: SEOMAY.20
-ms.openlocfilehash: d1a1e8e487cc56a17abe743a470c404c273e33bf
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.custom: seodec18
+ms.openlocfilehash: 04a2e640eee404f88b34bc2c44b1fcba475d9da0
+ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83796020"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "84145060"
 ---
-# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Gerenciar clientes potenciais diferentes, como consultas de clientes, clientes potenciais qualificados por marketing e clientes potenciais qualificados por vendas
+# <a name="manage-leads"></a>Gerenciar clientes potenciais
 
 **Aplica-se a**
 
@@ -87,8 +87,19 @@ Esse é um estágio de terminal em que todas as oportunidades finalmente chegam.
 Aqui estão algumas dicas para ajudá-lo a obter referências mais apropriadas:
 
 - **Escolha palavras-chave e preferências que representem seus conhecimentos e modelo de negócios exclusivos** em seu [perfil de negócios](https://docs.microsoft.com/partner-center/create-a-marketing-profile). Remova as palavras-chave que geraram referências nas quais você não está interessado. Se você não estiver interessado em lidar com empresas de um determinado tamanho, atualize essa preferência.
-- **Examine suas informações de contato em seu [perfil comercial](https://docs.microsoft.com/partner-center/create-a-marketing-profile) para cada local** para garantir que sua equipe receba alertas de entrada.
+
+- **Examine suas informações de contato em seu [perfil comercial](https://docs.microsoft.com/partner-center/create-a-marketing-profile) para cada local** Certifique-se de que sua equipe receba alertas de entrada.
+
 - **Responder rapidamente às referências** Quando você responder em tempo hábil às solicitações de entrada, aumentaremos sua visibilidade em futuros resultados da pesquisa do cliente. Verifique se a sua equipe responde rapidamente com sua intenção.
-- **Seja seletivo com as negociações que você aceita**. Monitoramos os tipos de negócios que você aceita e recusa e usamos essas informações para ajudá-lo a encontrar acordos semelhantes. Aceitar as negociações que não são uma boa opção não melhorará os resultados da pesquisa e poderá afetar a qualidade dos clientes potenciais recebidos.
+
+- **Seja choosy com as ofertas que você aceita** Monitoramos os tipos de negócios que você aceita e recusa e usamos essas informações para ajudá-lo a encontrar acordos semelhantes. Aceitar as negociações que não são uma boa opção não melhorará os resultados da pesquisa e poderá afetar a qualidade dos clientes potenciais recebidos.
+
 - **Relatar o status final de negociações, datas de fechamento e o status final de suas negociações** (ganhas ou perdidas). Usaremos essas informações para continuar a fornecer referências de qualidade.
 
+## <a name="next-steps"></a>Próximas etapas
+
+- [Gerenciar oportunidades de venda conjunta](manage-co-sell-opportunities.md)
+
+- [Obter o conector de televenda para o Dynamics 365 CRM](connector-dynamics.md)
+
+- [Obter o conector de televenda para o Salesforce CRM](connector-salesforce.md)

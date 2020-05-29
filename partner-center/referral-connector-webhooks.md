@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: referências, API de webhook, eventos de alteração de recursos
 ms.localizationpriority: medium
-ms.openlocfilehash: a141776f1b591ebe41bb740051802b4b55cf36f0
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 4e1eb2e9bd8ceb4f8c4bf43684305504c8594e5c
+ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83796202"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "84145080"
 ---
 # <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Usar APIs de webhook para registrar eventos de alteração de recurso
 
@@ -142,7 +142,7 @@ Os campos personalizados a seguir devem fazer parte da seção CRM:
 
 1. Sincronização de referência quando a referência é criada ou atualizada no CRM e sincronizada no Partner Center:
 
-    a. Entre no ambiente do Dynamics 365 CRM ou no ambiente do Salesforce CRM com o usuário que tem visibilidade na seção **oportunidade** do CRM.
+    a. Entre no ambiente do Dynamics 365 CRM com o usuário que tem visibilidade na seção **oportunidade** do CRM.
 
     b. Verifique se a seção a seguir está presente quando você cria uma "nova oportunidade" no ambiente do Dynamics 365
 
