@@ -1,7 +1,7 @@
 ---
-title: Comprar ou renovar suas ofertas de benefício | Partner Center
+title: Comprar ou renovar as ofertas do Microsoft Action Pack
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como comprar uma assinatura do Microsoft Action Pack e começar a usar os benefícios dele. Além disso, saiba como renovar, cancelar, exibir sua fatura e muito mais.
@@ -9,28 +9,31 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: action pack, MAPS, renovar MAPS, renovar action pack, obter action pack
 ms.localizationpriority: high
-ms.openlocfilehash: 2d7bd216788c9d181862a7fa24f12df815b31de2
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: aac218976d071d4dc848944294e143bb1b85c6ac
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798844"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795961"
 ---
-# <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Comprar pela primeira vez ou renovar uma assinatura do Microsoft Action Pack ou as competências silver ou gold
+# <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Comprar ou renovar uma assinatura do Microsoft Action Pack ou as competências silver e gold
 
 **Aplica-se a**
 
--  Partner Center
--  Partner Membership Center
+- Partner Center
+- Partner Membership Center
+- Parceiros do programa MPN
 
 **Funções apropriadas**
--   Administrador global
--   Administrador de usuários
--   Administrador de parceiros do MPN
--   Agente administrativo
--   Agente de vendas
 
-Agora, no [painel](https://docs.microsoft.com/partner-center/) do Partner Center, você pode comprar ou renovar suas ofertas de benefício, incluindo a assinatura do Microsoft Action Pack e as competências silver e gold. 
+- Administrador global
+- Administrador de usuários
+- Administrador de parceiros do MPN
+- Agente administrativo
+- Agente de vendas
+
+Agora, no [painel](https://docs.microsoft.com/partner-center/) do Partner Center, os membros do MPN (Microsoft Partner Network) podem comprar ou renovar as suas ofertas de benefício. Essas ofertas incluem uma assinatura do Microsoft Action Pack e as competências silver e gold.
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Comprar o Microsoft Action Pack pela primeira vez
 

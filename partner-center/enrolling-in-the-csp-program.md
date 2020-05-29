@@ -1,21 +1,22 @@
 ---
-title: Inscrever-se no programa Provedor de Soluções na Nuvem | Partner Center
+title: Inscrever-se no programa Provedor de Soluções na Nuvem
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Conheça os diferentes modelos de venda no programa CSP (Provedor de Soluções na Nuvem) e determine qual funciona melhor para sua empresa.
+description: Saiba como se registrar no modelo de vendas do programa CSP (Provedor de Soluções na Nuvem) que é melhor para os seus negócios, como revendedor indireto ou parceiro de cobrança direta.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: ff2e0d02b63bd02e374e5726010f261fc2b3e8b9
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5a993f07a066f979776dea281ebc3d459b569dd5
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74721710"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795160"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscrever-se no programa Provedor de Soluções na Nuvem
+# <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>Registre-se no programa de Provedor de Soluções na Nuvem e crie um negócio de solução de nuvem lucrativo
 
 **Aplica-se a**
 

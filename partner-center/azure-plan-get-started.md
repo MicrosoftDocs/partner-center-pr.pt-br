@@ -1,29 +1,29 @@
 ---
-title: Migrar para o plano do Azure – introdução | Partner Center
+title: Comece a sua mudança para o plano do Azure
+description: Saiba o que você e os seus clientes precisam saber sobre como usar o plano pago conforme o uso do Azure, incluindo as primeiras etapas, as precauções de segurança e como começar.
 ms.topic: article
-ms.date: 12/02/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba mais sobre a experiência de comércio do plano do Azure para comprar serviços do Azure com tarifas pagas conforme o uso para os clientes. Conheça também os novos requisitos de segurança.
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: Azure, plano do Azure, comprar assinaturas, assinaturas
-robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 49807f982a75d55572e783c832896461b546cfd3
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.date: 12/02/2019
+ms.openlocfilehash: 849b205d8a889659647ba8a9cf788428b6b25e21
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74681939"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394186"
 ---
-# <a name="move-to-azure-plan---get-started"></a>Migrar para o plano do Azure – introdução
+# <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Comece a usar tarifas pagas conforme o uso com o plano do Azure
 
 A Microsoft introduziu uma nova experiência de comércio no Partner Center.  Com essa nova experiência de comércio, os parceiros terão acesso aos serviços do Azure com tarifas pagas conforme o uso para clientes sob o Contrato de Cliente da Microsoft.
 
 Este plano simplifica a experiência de compra – você pode ter várias assinaturas do Azure em um único plano do Azure. Você não precisa mais enviar um pedido separado por assinatura do Azure. E, nesta nova experiência de comércio para o Azure, nós nos alinhamos a um único princípio de preço global, permitindo aos parceiros CSP oferecer o Azure com os preços publicados.
 
-As necessidades de transformação digital de nossos clientes exigem novas habilidades dos parceiros. Muitos clientes procuram parceiros que forneçam serviços além da transação a fim de tornar o percurso da nuvem mais suave e ajudar a consumir os serviços do Azure com eficiência. Os parceiros da Microsoft desempenham uma função fundamental em todos os estágios do ciclo de vida do cliente. Esses tipos de serviços de parceiros têm natureza contínua e incluem o monitoramento da propriedade do Azure, o gerenciamento de políticas e governança, o ajuste fino das configurações, o suporte técnico e uma série de outros serviços. Eles exigem que o parceiro esteja intimamente familiarizado com o ambiente do Azure do cliente e tenha governança e controle adequados e contínuos sobre os recursos subjacentes que gerenciam. Os parceiros de cobrança que fornecerem esse gerenciamento de operações de nuvem 24x7 estarão qualificados para um **Crédito ganho pelo parceiro para serviços gerenciados** por esse trabalho.
+As necessidades de transformação digital de nossos clientes exigem novas habilidades dos parceiros. Muitos clientes procuram parceiros que forneçam serviços além da transação a fim de tornar o percurso da nuvem mais suave e ajudar a consumir os serviços do Azure com eficiência. Os parceiros da Microsoft desempenham uma função fundamental em todos os estágios do ciclo de vida do cliente. Esses tipos de serviços de parceiros têm natureza contínua e incluem o monitoramento de estado do Azure, o gerenciamento de políticas e governança, o ajuste fino das configurações e instalações, o suporte técnico e uma série de outros serviços. Eles exigem que o parceiro esteja intimamente familiarizado com o ambiente do Azure do cliente e tenha governança e controle adequados e contínuos sobre os recursos subjacentes que gerenciam. Os parceiros de cobrança que fornecerem esse gerenciamento de operações de nuvem 24x7 estarão qualificados para um **Crédito ganho pelo parceiro para serviços gerenciados** por esse trabalho.
 
 ## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>Verifique se os clientes assinaram o Contrato de Cliente da Microsoft
 
@@ -62,6 +62,8 @@ A Microsoft recomenda que os parceiros usem o RBAC de forma adequada, seguindo a
 - [Crédito ganho pelo parceiro – visão geral](partner-earned-credit.md)
 
 - Os cálculos do PEC (crédito ganho pelo parceiro) e as funções e permissões qualificadas para obter créditos ganhos pelo parceiro estão disponíveis na lista de preços do Painel do Partner Center (requer credenciais).
+
+## <a name="next-steps"></a>Próximas etapas 
 
 - [Como o crédito ganho pelo parceiro é determinado – detalhes](partner-earned-credit-explanation.md)
 - [Lista de preços do plano do Azure explicada](azure-plan-price-list.md)

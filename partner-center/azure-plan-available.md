@@ -7,15 +7,16 @@ ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.date: 03/05/2020
-ms.openlocfilehash: 29020fc4861bb11f15f7a892dda4d92f0c19fe07
-ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
+ms.date: 05/13/2020
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9241d5083ae2ad35c97efe47dfe764d0b9d5a216
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83369273"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795021"
 ---
-# <a name="available-azure-services-in-azure-csp"></a>Serviços do Azure disponíveis no CSP do Azure
+# <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Serviços do Azure disponíveis no programa CSP (Provedor de Soluções de Nuvem) do Azure
 
 **Funções apropriadas**
 

@@ -1,7 +1,7 @@
 ---
-title: Guia de migração do PMC para o Partner Center
+title: Migrar do PMC para o Partner Center
 ms.topic: article
-ms.date: 03/18/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como migrar sua empresa do PMC (Partner Membership Center) para o Partner Center.
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migração, mover para o Partner Center
 ms.localizationpriority: high
-ms.openlocfilehash: 7c90c44d3b79431fc8d200528daf6a70b2fbccb9
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b81580e9b4e24d710151fb61d88e22c873c6c88d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362394"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795836"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guia de migração do PMC para o Partner Center
 
@@ -48,7 +49,7 @@ Selecione **Introdução** no convite. Você será levado para a página de entr
 
 ## <a name="start-with-your-work-email"></a>Começar com seu email de trabalho
 
-Caso a sua empresa não tenha um email de trabalho e um locatário do AAD, poderemos ajudar você a configurar um durante o processo de entrada do Partner Center. Ao tentar entrar com uma conta de email que não seja um email de trabalho, como a sua conta pessoal, você será direcionado para fornecer informações sobre a sua empresa, de modo que possamos configurar um locatário do AAD e um email de trabalho. Esses detalhes da empresa serão usados para finalizar sua conta no Partner Center, portanto, verifique se eles são precisos.
+Caso a sua empresa não tenha um email de trabalho e um locatário do AAD, poderemos ajudar você a configurar um durante o processo de conexão ao Partner Center. Ao tentar entrar com uma conta de email que não seja um email de trabalho, como a sua conta pessoal, você será direcionado para fornecer informações sobre a sua empresa, de modo que possamos configurar um locatário do AAD e um email de trabalho. Esses detalhes da empresa serão usados para finalizar sua conta no Partner Center, portanto, verifique se eles são precisos.
 
 >[!Note]
 >Se você for um parceiro na China e estiver registrado no programa Microsoft Partner Network e CSP (Provedor de Soluções na Nuvem), terá um locatário separado para cada conta. Sua conta com o programa Provedor de Soluções na Nuvem é gerenciada na nuvem nacional e sua conta do Microsoft Partner Network é gerenciada na nuvem global. As duas contas não podem ser vinculadas.
@@ -57,7 +58,7 @@ Caso a sua empresa não tenha um email de trabalho e um locatário do AAD, poder
 
 Depois de verificar ou atualizar as informações, selecione **Aceitar e continuar**.
 Os Termos e as Condições nesta página são **exatamente os mesmos** indicados no contrato que a sua empresa já assinou no PMC.  
-Isso inicia a criação do seu locatário do Azure AD e fornece a você a conta corporativa.
+Esta etapa inicia a criação do seu locatário do Azure AD e fornece a você a conta corporativa.
 
 A seleção de **Aceitar e continuar** também faz o seguinte:
 

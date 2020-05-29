@@ -1,7 +1,7 @@
 ---
 title: Gerenciar sua conta do Partner Center | Partner Center
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Gerencie as informações de perfil, de catálogo, bancárias e fiscais de sua empresa, funções, permissões e muito mais no Partner Center.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 3185be248df5bd0bfdb991e321a91a5f92e56d5f
-ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
+ms.openlocfilehash: 9167e4bb873ee1527fc623dbab319b44cdb9564e
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "82859375"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795685"
 ---
 # <a name="manage-your-partner-center-account"></a>Gerenciar sua conta do Partner Center
 
@@ -67,9 +67,17 @@ Esta é uma lista parcial de programas disponíveis e a opção de configuraçõ
 |Office Store|Desenvolvedor|
 |Extensões do Edge|Desenvolvedor|
 
-## <a name="the-differences-in-partner-and-developer-settings-options"></a>As diferenças nas opções de configurações de Parceiro e de Desenvolvedor
+## <a name="partner-and-developer-settings-options"></a>Opções de configurações de Desenvolvedor e de Parceiro
 
-As opções de **Configurações de parceiro** serão diferentes das opções de **Configurações de desenvolvedor**. Veja abaixo as capturas de tela de exemplo de cada conjunto de opções. Se você tiver acesso a outros programas, também poderá ver opções diferentes dos exemplos de captura de tela mostrados aqui.
+### <a name="locate-your-mpn-id"></a>Localizar a sua ID do MPN
+
+Independentemente de você ser um parceiro ou um desenvolvedor, você precisa usar a sua ID do MPN para situações como registrar tíquetes de suporte. Se você for um desenvolvedor, a sua ID do MPN estará localizada na página de detalhes **Configurações da conta**.
+
+![Localização da ID do MPN](images/accountsettings/devmpnlocation.png)
+
+A ID do MPN do parceiro está localizada na página **Perfil do parceiro**.
+
+As opções de **Configurações de parceiro** são diferentes das opções de **Configurações de desenvolvedor**. Veja abaixo as capturas de tela de exemplo de cada conjunto de opções. Se você tiver acesso a outros programas, também poderá ver opções diferentes dos exemplos de captura de tela mostrados aqui.
 
 **Opções de configurações de parceiro**:
 
@@ -78,6 +86,7 @@ As opções de **Configurações de parceiro** serão diferentes das opções de
 **Opções de configurações de desenvolvedor**:
 
 ![opções de desenvolvedor](images/accountsettings/devoptions.png)
+
 
 ## <a name="enrolling-in-programs"></a>Registrar-se em programas
 
@@ -94,7 +103,7 @@ Para saber mais sobre o registro em programas do Partner Center, confira também
 
 ## <a name="the-account-picker"></a>O seletor de conta
 
-Você pode fazer parte de mais de uma conta. Se você fizer parte de várias contas, verá o "seletor de conta" no menu de navegação à esquerda. Se você selecionar o seletor de conta, todas as contas das quais você é membro serão exibidas como uma lista. Você pode selecionar qualquer uma delas e alternar para a conta em que você verá todos os programas e informações que pertencem a essa conta. Se você não está vendo um seletor de conta, você é um membro de uma única conta.
+Você pode fazer parte de mais de uma conta. Se você fizer parte de várias contas, verá o "seletor de conta" no menu de navegação à esquerda. Quando você selecionar o seletor de conta, todas as contas das quais você é membro serão exibidas como uma lista. Você pode selecionar qualquer uma delas e alternar para a conta em que você verá todos os programas e informações que pertencem a essa conta. Se você não está vendo um seletor de conta, você é um membro de uma única conta.
 
 ![seletor de conta](images/accountsettings/accountpicker.png)
 

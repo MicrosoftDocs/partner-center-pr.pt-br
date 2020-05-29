@@ -1,22 +1,23 @@
 ---
-title: Migração do PMC para o Partner Center | Partner Center
+title: Migração do PMC para o Partner Center
 ms.topic: article
-ms.date: 04/08/2020
+ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Entenda as diferenças e semelhanças entre o PMC e o Partner Center em relação a renovações, estrutura de conta, entrada, funções de usuário, competências e muito mais.
+description: Entenda as diferenças entre o PMC e o Partner Center em relação a renovações, estrutura de conta, conexão, funções de usuário, competências e muito mais.
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migração, mover para o Partner Center
 ms.localizationpriority: high
-ms.openlocfilehash: fba77a2a346972ea3d3dbc7e849a9e1c9a693ddb
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 929abefbdf30940c94176bf03857a3b3bf0ad719
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "81123315"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795750"
 ---
-# <a name="moving-from-pmc-to-partner-center"></a>Migração do PMC para o Partner Center
+# <a name="moving-from-partner-membership-center-pmc-to-partner-center"></a>Migrar do PMC (Partner Membership Center) para o Partner Center
 
 **Funções apropriadas**
 -    Administrador global

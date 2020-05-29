@@ -1,27 +1,27 @@
 ---
-title: Preparar a migração do Partner Membership Center para o Partner Center | Partner Center
+title: Migrando do Partner Membership Center
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Examine informações úteis e perguntas frequentes antes de migrar sua empresa do PMC para o Partner Center.
+description: Examine informações úteis e perguntas frequentes antes de migrar o seu negócio do Partner Membership Center para o Partner Center.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 127919c92bf6fffca846dd92cde4c787bfd16641
-ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
+ms.openlocfilehash: 0c1fc9530a978e7202d7a0d58a574546b10c91e9
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "82859350"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795841"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Preparar a migração do PMC (Partner Membership Center) para o Partner Center
 
 **Funções apropriadas**
--    Administrador global
--    Administrador de usuários
--    Agente de vendas
--    Agente administrativo
+- Administrador global
+- Administrador de usuários
+- Agente de vendas
+- Agente administrativo
 
 Estamos migrando o gerenciamento de associação do PMC (Partner Membership Center) para o Partner Center, o único local para gerenciar seu relacionamento comercial com a Microsoft. Queremos que a sua migração para o Partner Center seja a mais eficiente e fácil possível. Identificamos algumas áreas em que o Partner Center é distinto do PMC e acreditamos ser útil entendê-las e se preparar para elas antes que você faça a migração.
 

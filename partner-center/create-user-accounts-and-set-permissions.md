@@ -1,23 +1,24 @@
 ---
-title: Criar contas de usuário e definir permissões | Partner Center
+title: Criar contas de usuário e atribuir funções
+description: Cada funcionário deve ser atribuído a uma função antes que possa acessar o Partner Center. Saiba como criar contas de usuário, atribuir funções e definir permissões.
 ms.topic: article
-ms.date: 02/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como criar contas de usuário e atribuir funções no Partner Center para cada funcionário que precisar de acesso. Usuários com diferentes privilégios de administrador podem fazer isso.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: funções, permissões, adicionar usuário, atribuir função, administrador, agente,
 ms.localizationpriority: high
-ms.openlocfilehash: f163e37f537f537b6eae086e355c87d892d1a745
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.date: 02/26/2020
+ms.openlocfilehash: 8d738e9231959e7d156a053fa1ac28ccfc219547
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798484"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394201"
 ---
-# <a name="create-user-accounts-and-assign-permissions"></a>Criar contas de usuário e atribuir permissões
+# <a name="create-user-accounts-and-assign-roles-and-permissions"></a>Criar contas de usuário e atribuir funções e permissões
 
 **Funções apropriadas**
 
@@ -103,10 +104,3 @@ Para ver os roteiros de aprendizagem e treinamento que os usuários estão segui
 1. No painel do Partner Center, selecione o ícone **Sua conta** no canto direito do painel e, em seguida, selecione **Meu perfil**.
 
 2. Em **Seu aprendizado**, será possível associar sua conta do Microsoft Learning e também conectar sua conta Microsoft à Partner University.
-
-
-
-
-
-
-

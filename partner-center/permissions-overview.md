@@ -1,29 +1,31 @@
 ---
-title: Atribuir funções e permissões de usuários | Partner Center
+title: Atribuir funções e permissões a usuários
 ms.topic: article
-ms.date: 03/23/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba quais funções são melhores para os seus usuários que estão gerenciando transações comerciais, indicações, incentivos ou associações MPN de sua empresa.
+description: Saiba quais funções são melhores para os usuários da sua empresa que gerenciam transações comerciais, indicações, incentivos ou associações MPN no Partner Center.
 author: LauraBrenner
 ms.author: labrenne
 keywords: funções, permissões, administrador, agente
 ms.localizationpriority: high
-ms.openlocfilehash: fbff7f353a0055aa645467fccaa049b598b4c880
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 0858340c6965ac932f0d4694f6f21be89ca5f817
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80296394"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795883"
 ---
-# <a name="assign-users-roles-and-permissions"></a>Atribuir permissões e funções de usuários
+# <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Atribuir permissões e funções de usuários para os usuários de uma empresa que precisam trabalhar no Partner Center
 
 **Funções apropriadas**
--    Administrador global
--    Administrador de usuários
--    Administrador de parceiros do MPN
 
-Você configurou seu perfil de parceiro, incluindo a razão social, o endereço, os detalhes de suporte, as isenções de imposto sobre arquivos, as informações bancárias e o contato principal da empresa. Próxima etapa: configure as senhas e funções de seus usuários para que eles possam começar a trabalhar no Partner Center com você.
+- Administrador global
+- Administrador de usuários
+- Administrador de parceiros do MPN
+
+Você configurou seu perfil de parceiro, incluindo a razão social, o endereço, os detalhes de suporte, as isenções de imposto sobre arquivos, as informações bancárias e o contato principal da empresa. Próxima etapa: Configure as senhas e funções dos seus usuários para que eles possam começar a trabalhar no Partner Center com você.
 
 ## <a name="set-up-your-employees-to-work-in-partner-center"></a>Configurar seus funcionários para trabalhar no Partner Center
 

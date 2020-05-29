@@ -1,22 +1,23 @@
 ---
-title: Contas corporativas e o Partner Center
+title: Vincular a sua conta corporativa para acessar o Partner Center
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba por que você precisa de uma conta corporativa para criar uma conta do Partner Center. Verifique se você já tem uma conta corporativa.
+description: Crie uma conta corporativa que vincula a sua empresa à conta do Partner Center. Isso permite que os funcionários na sua empresa acessem o Partner Center.
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: conta corporativa, email, locatário, locatário do Azure, criar conta, nome de domínio
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: e34eecb482df140a1a225d0d28460ef957701d59
-ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
+ms.openlocfilehash: e46be80cb39233e7632a97fd511232d5ff762499
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83369263"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394214"
 ---
-# <a name="your-company-work-account-and-partner-center"></a>A conta corporativa da sua empresa e o Partner Center  
+# <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Criar uma conta corporativa que vincula a sua empresa à sua conta do Partner Center
 
 **Aplica-se a**
 
@@ -44,7 +45,7 @@ Caso você tenha mais de um email de trabalho válido, use aquele associado à s
 
 Caso não tenha certeza se a sua empresa tem uma conta corporativa, siga estas etapas para verificar isso. Se você tiver uma assinatura ativa do Microsoft Azure ou do Office 365, já terá uma conta corporativa.
 
-1. Entre no [portal do Azure](https://portal.azure.com)
+1. Entre no [portal do Azure](https://portal.azure.com).
 
 2. Selecione Azure Active Directory no menu e, em seguida, selecione Nomes de Domínio.
 
