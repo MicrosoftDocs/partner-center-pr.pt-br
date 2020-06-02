@@ -8,12 +8,12 @@ description: Saiba como os provedores indiretos são parceiros com revendedores 
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6febef2f7af68a1cd93b2eafecb9537f48ab190a
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 2ec371ca444ed951ac3d3272a85c088f91d1db97
+ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797574"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "84253933"
 ---
 # <a name="work-with-other-partners"></a>Trabalhar com outros parceiros
 
@@ -54,4 +54,4 @@ O recurso de vários canais do Partner Center dá suporte a cenários quando um 
 O suporte multi-canal também está disponível nas ofertas de nuvem nacionais da Microsoft.
 
 > [!IMPORTANT]  
-> Um parceiro no programa CSP não pode revender serviços online para outro parceiro que esteja no programa CSP atualmente. A Microsoft revisa continuamente as políticas e competências de todos os programas. Quaisquer novidades sobre os lançamentos de recursos serão anunciadas por meio dos canais de comunicação normais, incluindo os [anúncios do Partner Center](https://partner.microsoft.com/pcv/announcements).
+> Um parceiro no programa CSP não pode revender serviços online para outro parceiro que esteja no programa CSP atualmente. A Microsoft revisa continuamente as políticas e competências de todos os programas. Quaisquer novidades sobre os lançamentos de recursos serão anunciadas por meio dos canais de comunicação normais, incluindo os [anúncios do Partner Center](announcements/index.md).
