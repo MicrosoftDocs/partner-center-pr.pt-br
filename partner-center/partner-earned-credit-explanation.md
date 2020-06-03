@@ -1,30 +1,32 @@
 ---
-title: Crédito ganho pelo parceiro para serviços gerenciados (versão prévia) | Partner Center
+title: Crédito ganho pelo parceiro para serviços gerenciados
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como os créditos ganhos pelo parceiro da Microsoft para serviços gerenciados são calculados e pagos e como verificar se você é qualificado.
+description: Saiba como os créditos ganhos pelo parceiro (PEC) da Microsoft para serviços gerenciados são calculados e pagos, e como verificar se você se qualifica.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 776fea7eea91e15f872021356562af05e89f1fcf
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d8e3ad7be5d2ab761d9af2de1e1b0d40974333f1
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "75004995"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998272"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Como o crédito ganho pelo parceiro é calculado e pago
 
 **Funções apropriadas**
--   Administrador global
--   Administrador de usuários
--   Agente administrativo
--   Administrador de cobrança
--   Agente de vendas
+
+- Administrador global
+- Administrador de usuários
+- Agente administrativo
+- Administrador de cobrança
+- Agente de vendas
 
 O PEC (crédito ganho pelo parceiro para serviços gerenciados) reconhece e recompensa os parceiros que têm o controle operacional de TI 24x7 e o gerenciamento de partes – ou da totalidade – do ambiente do Azure de seus clientes. Por padrão, no CSP, os parceiros recebem os direitos de acesso necessários à assinatura do cliente, permitindo que eles executem o gerenciamento operacional 24x7 e o controle dos recursos na assinatura. Outras maneiras pelas quais o cliente pode provisionar acesso aos parceiros das transações estão descritas na seção a seguir. O valor da fatura mensal é líquido de créditos ganhos pelo parceiro. Os parceiros podem ver os detalhes do PEC em seu arquivo de reconhecimento mensal. Para ver outras maneiras pelas quais um cliente pode provisionar acesso ao parceiro de transações, leia [Gerenciar assinaturas e recursos no âmbito do plano do Azure](azure-plan-manage.md).
 

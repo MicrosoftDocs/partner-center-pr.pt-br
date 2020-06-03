@@ -1,22 +1,23 @@
 ---
-title: Requisitos de segurança do parceiro | Partner Center
+title: Requisitos de segurança de parceiros
 ms.topic: article
-ms.date: 11/09/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Uma introdução à habilitação da MFA (Autenticação Multifator) e à adoção da estrutura de Modelo de Aplicativo Seguro, que agora são obrigatórias para parceiros.
-author: isaiahwilliams
-ms.author: iswillia
+description: Apresenta os requisitos do parceiro para habilitar a Autenticação Multifator (MFA) e adotar a estrutura do Modelo de Aplicativo Seguro.
+author: LauraBrenner
+ms.author: labrenne
 keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor do painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
 ms.localizationpriority: high
-ms.openlocfilehash: b0fe328008ae56272ddd8e22722071e5858881c8
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b3e8b7ff739c9fbe37902b67721d324328fe2930
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "77672796"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998262"
 ---
-# <a name="partner-security-requirements"></a>Requisitos de segurança de parceiros
+# <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>Requisitos de segurança do parceiro para parceiros usando o Partner Center ou as APIs do Partner Center
 
 **Aplica-se a**
 
@@ -28,7 +29,8 @@ ms.locfileid: "77672796"
 - Todos os consultores
 
 **Usuários apropriados**
--   Todos os usuários habilitados, incluindo usuários convidados
+
+- Todos os usuários habilitados, incluindo usuários convidados
 
 As maiores proteções de privacidade e segurança estão entre nossas principais prioridades. Sabemos que a melhor defesa é a prevenção e que somos tão fortes quanto nosso vínculo mais fraco. É por isso que precisamos de todos em nosso ecossistema, para agir e garantir que as proteções de segurança adequadas estejam em vigor. Para ajudar a proteger parceiros e clientes, estamos introduzindo um conjunto de requisitos de segurança obrigatórios para consultores, fornecedores do painel de controle e parceiros que participam do programa de Provedor de Soluções na Nuvem.
 
@@ -40,7 +42,7 @@ Os parceiros que não implementarem os requisitos de segurança obrigatórios n�
 
 Para proteger você e seus clientes, estamos exigindo que os parceiros executem as seguintes ações imediatamente:  
 
-1. **Habilite a MFA (Autenticação Multifator) para todas as contas de usuário no locatário de parceiros**. Todas as contas de usuário em locatários de parceiros devem ser desafiadas pela MFA (autenticação multifator) ao entrar nos serviços de nuvem comercial da Microsoft ou para transações no Provedor de Soluções na Nuvem por meio do Partner Center ou de APIs. 
+1. **Habilite a MFA (Autenticação Multifator) para todas as contas de usuário no locatário de parceiros**. Todas as contas de usuário em locatários de parceiros devem ser desafiadas pela Autenticação Multifator (MFA) ao entrarem nos serviços de nuvem comercial da Microsoft ou ao realizarem transações no programa Provedor de Soluções na Nuvem por meio do Partner Center ou de APIs.
 
 2. **Adote a estrutura do Modelo de Aplicativo Seguro**. Adote a estrutura do Modelo de Aplicativo Seguro. Todos os parceiros que integram a API do Partner Center devem adotar a estrutura do Modelo de Aplicativo Seguro para qualquer aplicativo + aplicativos de modelo de autenticação de usuário.
 
@@ -51,13 +53,13 @@ Habilitar a MFA (Autenticação Multifator) e adotar a estrutura do Modelo de Ap
 
 ## <a name="actions-that-you-need-to-take"></a>Ações que você precisa adotar
 
-Para atender aos requisitos de segurança do parceiro, você precisa impor a autenticação multifator para cada conta de usuário em seu locatário do parceiro. Para fazer isso, devemos adotar uma das seguintes opções:
+Para atender aos requisitos de segurança do parceiro, você precisa impor a autenticação multifator para cada conta de usuário em seu locatário do parceiro. É possível fazer isso das seguintes maneiras:
 
 - Implementar os [padrões de segurança do Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
-- Comprar o Azure Active Directory Premium para cada conta de usuário. Consulte [Planejando uma implantação de Autenticação Multifator do Azure baseada em nuvem](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted) para obter mais informações.
+- Comprar o Azure Active Directory Premium para cada conta de usuário. Para obter mais informações, consulte [Planejando uma implantação de Autenticação Multifator do Azure baseada em nuvem](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted).
 
-- Usar uma solução de terceiros para impor a autenticação multifator para cada conta de usuário em seu locatário do parceiro. Consulte [Como os requisitos de segurança serão impostos](#how-the-requirements-will-be-enforced) para obter mais detalhes, a fim de garantir que a solução forneça as informações esperadas.
+- Usar uma solução de terceiros para impor a autenticação multifator para cada conta de usuário em seu locatário do parceiro. Para garantir que a solução forneça as informações esperadas, consulte [Como os requisitos de segurança serão impostos](#how-the-requirements-will-be-enforced).
 
 > [!NOTE]
 > Embora a autenticação multifator não seja exigida de modo contratual para uma nuvem soberana (21Vianet, governo dos EUA e Alemanha), é altamente recomendável que você adote esses requisitos de segurança.
@@ -66,15 +68,15 @@ Para atender aos requisitos de segurança do parceiro, você precisa impor a aut
 
 A política de padrões de segurança é uma das [opções](#actions-that-you-need-to-take) em que os parceiros podem optar por implementar o MFA para os requisitos de segurança, dependendo de suas necessidades corporativas. Ela oferece um nível básico de segurança habilitado sem nenhum custo adicional. Examine como habilitar a MFA para sua organização com o Azure AD e as principais considerações abaixo antes de habilitar os padrões de segurança.
 
-- As políticas de linha de base permanecerão nos próximos alguns meses, mas serão preteridas no final de fevereiro de 2020.
+- As políticas de linha de base permanecerão válidas nos próximos dois meses, mas serão preteridas no final de fevereiro de 2020.
 
 - Os parceiros que já adotaram políticas de linha de base precisam tomar medidas para fazer a transição para os padrões de segurança.
 
 - Os padrões de segurança são a substituição de disponibilidade geral das políticas de linha de base de visualização. Depois que um parceiro habilita os padrões de segurança, eles não poderão mais habilitar as políticas de linha de base.
 
-- Com os padrões de segurança, todas as políticas serão habilitadas ao mesmo tempo. 
+- Com os padrões de segurança, todas as políticas serão habilitadas ao mesmo tempo.
 
-- Para os parceiros que estão usando o [acesso condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common), [os padrões de segurança não estarão disponíveis](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults).
+- Para os parceiros que usam o [acesso condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common), [os padrões de segurança não estarão disponíveis](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults).
 
 - O bloqueio da autenticação herdada não será imposto para parceiros no momento. No entanto, como a maioria dos eventos relacionados a identidades comprometidas são provenientes de tentativas de entrada usando a autenticação herdada, os parceiros são incentivados a se afastar desses protocolos mais antigos.
 
@@ -91,7 +93,7 @@ Para fazer a transição das políticas de linha de base para os padrões de seg
 
 Como esses requisitos se aplicam a todas as contas de usuário em seu locatário de parceiro, você precisa considerar vários fatores para garantir uma implantação tranquila, incluindo a identificação de contas de usuário no Azure Active Directory que não podem executar a autenticação multifator, bem como aplicativos e dispositivos usados por sua organização que não dão suporte à autenticação moderna.
 
-Antes de executar qualquer ação, é recomendável que você identifique o seguinte: 
+Antes de executar qualquer ação, é recomendável que você identifique o seguinte:
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>Você tem um aplicativo ou dispositivo que não dá suporte ao uso de autenticação moderna?
 
@@ -105,7 +107,7 @@ Para habilitar a autenticação moderna para todos os dispositivos que executam 
 
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>Há uma política que impede que qualquer usuário use seus dispositivos móveis enquanto trabalha?
 
-É importante identificar qualquer política corporativa que impeça que os funcionários usem dispositivos móveis enquanto trabalham, porque isso influenciará a solução de autenticação multifator que você implementará. Há soluções, como a fornecida pela implementação dos [padrões de segurança do Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults), que permitem apenas o uso de um aplicativo autenticador para verificação. Caso sua empresa tenha uma política que impeça o uso de dispositivos móveis, você deve considerar uma das seguintes opções
+É importante identificar qualquer política corporativa que impeça que os funcionários usem dispositivos móveis enquanto trabalham, porque isso influenciará a solução de autenticação multifator que você implementará. Há soluções, como a fornecida pela implementação dos [padrões de segurança do Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults), que permitem apenas o uso de um aplicativo autenticador para verificação. Caso sua empresa tenha uma política que impeça o uso de dispositivos móveis, considere uma das seguintes opções:
 
 - Implantar um aplicativo com senha TOTP (senha única baseada em tempo) que pode ser executado no sistema seguro
 
@@ -113,11 +115,11 @@ Para habilitar a autenticação moderna para todos os dispositivos que executam 
 
 - Comprar licenças do [Azure Active Directory Premium](https://azure.microsoft.com/pricing/details/active-directory/) para os usuários afetados
 
-#### <a name="what-automation-or-integration-do-you-have-that-leverages-user-credentials-for-authentication"></a>Qual automação ou integração você tem para aproveitar as credenciais do usuário para autenticação?
+#### <a name="what-automation-or-integration-do-you-have-to-leverage-user-credentials-for-authentication"></a>Qual automação ou integração você tem para aproveitar as credenciais do usuário para autenticação?
 
-Como o requisito é impor a MFA para cada usuário, incluindo contas de serviço, em seu diretório de parceiro, qualquer automação ou integração que aproveita as credenciais do usuário para autenticação será afetada. Portanto, é importante que você identifique quais contas são usadas nessas situações. Veja a seguir uma lista de exemplos de aplicativos ou serviços que devem ser considerados
+Como o requisito é impor a MFA para cada usuário, incluindo contas de serviço, em seu diretório de parceiro, qualquer automação ou integração que aproveita as credenciais do usuário para autenticação será afetada. Portanto, é importante que você identifique quais contas são usadas nessas situações. Consulte a seguinte lista de aplicativos de exemplo ou serviços a serem considerados:
 
-- Painel de controle usado para provisionar recursos em nome de seus clientes 
+- Painel de controle usado para provisionar recursos em nome de seus clientes
 
 - Integração com qualquer plataforma usada para faturamento (pois está relacionada ao programa CSP) e suporte aos seus clientes
 
@@ -144,9 +146,9 @@ Ao usar uma solução de autenticação multifator de terceiros, há uma chance 
 
 ## <a name="resources-and-support"></a>Recursos e suporte
 
-Veja a seguir os recursos em que você pode encontrar suporte e código de exemplo:
+Consulte os seguintes recursos para obter suporte e o código de exemplo:
 
-- [Comunidade do grupo de orientação de segurança do Partner Center](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)  – Esta é uma comunidade online na qual você pode aprender sobre eventos futuros e tirar dúvidas.
-- [Amostras .NET do Partner Center](https://github.com/microsoft/partner-center-dotnet-samples) - Esse repositório GitHub contém amostras desenvolvidas usando o .NET, que demonstrarão como você pode implementar a estrutura do Modelo de Aplicativo Seguro.
-- [Amostras Java do Partner Center](https://github.com/microsoft/partner-center-java-samples) - Esse repositório GitHub contém amostras desenvolvidas usando o Java, que demonstrarão como você pode implementar a estrutura do Modelo de Aplicativo Seguro.
-- [PowerShell do Partner Center – Autenticação Multifator](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth) – Este é um artigo que fornece detalhes sobre como implementar a estrutura de Modelo de Aplicativo Seguro usando o PowerShell.
+- [Comunidade do Grupo de Diretrizes de Segurança do Partner Center](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance): A comunidade do Grupo de Diretrizes de Segurança do Partner Center é uma comunidade online na qual você pode aprender sobre eventos futuros e tirar dúvidas.
+- [Amostras .NET do Partner Center](https://github.com/microsoft/partner-center-dotnet-samples): Esse repositório GitHub contém amostras desenvolvidas usando o .NET, que demonstrarão como você pode implementar a estrutura do Modelo de Aplicativo Seguro.
+- [Amostras Java do Partner Center](https://github.com/microsoft/partner-center-java-samples): Esse repositório GitHub contém amostras desenvolvidas usando o Java, que demonstrarão como você pode implementar a estrutura do Modelo de Aplicativo Seguro.
+- [PowerShell do Partner Center – Autenticação Multifator](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth): Este artigo de Autenticação Multifator fornece detalhes sobre como implementar a estrutura de Modelo de Aplicativo Seguro usando o PowerShell.

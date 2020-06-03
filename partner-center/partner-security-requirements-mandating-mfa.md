@@ -1,20 +1,21 @@
 ---
-title: Exigir MFA de seu locatário parceiro | Partner Center
+title: Exigir MFA de seu locatário parceiro
 ms.topic: article
-ms.date: 11/12/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como obrigar a MFA para seus locatários parceiros ajudará a proteger o acesso aos recursos do cliente. Inclui cenários de exemplo.
-author: isaiahwilliams
-ms.author: iswillia
+author: LauraBrenner
+ms.author: labrenne
 keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor do painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
 ms.localizationpriority: high
-ms.openlocfilehash: 037194527347aae90f261ce5d417b5ba0e26addf
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9454e9410e4110fdf3542bde3696d8447d4c90d0
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "81462206"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998302"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Obrigar a MFA (Autenticação Multifator) para seu locatário parceiro
 

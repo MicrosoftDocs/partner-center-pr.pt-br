@@ -1,20 +1,21 @@
 ---
-title: Perguntas frequentes sobre os requisitos de segurança de parceiros | Partner Center
+title: Perguntas frequentes sobre requisitos de segurança de parceiros
 ms.topic: article
-ms.date: 11/09/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Perguntas frequentes sobre os requisitos de segurança de parceiros
-author: isaiahwilliams
-ms.author: iswillia
+description: Perguntas frequentes sobre os requisitos de segurança de parceiros – o que são, como os parceiros devem implementá-los e como saber se eles foram atendidos.
+author: LauraBrenner
+ms.author: labrenne
 keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor do painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
 ms.localizationpriority: high
-ms.openlocfilehash: 72ad7bab25c295fa039e7b29f9d4369c0434814c
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 89c53daff52877c9d1facffe8c03e75a1f5b3dae
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80529773"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998362"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Perguntas frequentes sobre os requisitos de segurança de parceiros
 
@@ -337,3 +338,4 @@ Acesse o [Suporte a Parceiros da Microsoft](https://partner.microsoft.com/suppor
 ### <a name="where-can-i-find-more-information-about-technical-common-issues"></a>Onde posso encontrar mais informações sobre problemas técnicos comuns?
 
 Informações sobre problemas técnicos comuns podem ser encontradas [aqui](https://docs.microsoft.com/partner-center/partner-security-requirements#common-issues).
+

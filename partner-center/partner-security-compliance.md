@@ -1,6 +1,6 @@
 ---
-title: Status dos requisitos de segurança do parceiro | Partner Center
-ms.date: 10/11/2019
+title: Status dos requisitos de segurança do parceiro
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Conheça os requisitos obrigatórios que aumentam a segurança para Consultores, Fornecedores do Painel de Controle e parceiros no programa de Provedor de Soluções na Nuvem.
@@ -9,14 +9,15 @@ ms.author: labrenne
 keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor do painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
 ms.localizationpriority: high
 ms.topic: conceptual
-ms.openlocfilehash: c398c8f2490d3f0785fa7b836a8b0e077ca46bce
-ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7905a7d24116e905c85209b18aba3ecad9643ee1
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "82120387"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998292"
 ---
-# <a name="partner-security-requirements-status"></a>Status dos requisitos de segurança do parceiro
+# <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>Status de requisitos de segurança do parceiro – obter respostas e verificar os relatórios sobre o status atual
 
 **Aplica-se a**
 
@@ -28,7 +29,7 @@ ms.locfileid: "82120387"
 - Todos os consultores
 
 **Usuários apropriados**
--    Todos os usuários habilitados, incluindo usuários convidados
+- Todos os usuários habilitados, incluindo usuários convidados
 
 As maiores proteções de privacidade e segurança estão entre nossas principais prioridades. Sabemos que a melhor defesa é a prevenção e que somos tão fortes quanto nosso vínculo mais fraco. É por isso que precisamos de todos em nosso ecossistema, para agir e garantir que eles tenham proteções de segurança adequadas implantadas. Para ajudar a proteger parceiros e clientes, estamos introduzindo um conjunto de requisitos de segurança obrigatórios para consultores, fornecedores do painel de controle e parceiros que participam do programa de Provedor de Soluções na Nuvem.
 
