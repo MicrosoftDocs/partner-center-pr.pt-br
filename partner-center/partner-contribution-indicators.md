@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 502d15f3e41635dc0b4ff97aca47742ab611148a
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: f45288e48ff9da7a6aa284f6675536f982bf6441
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998382"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328277"
 ---
 # <a name="partner-contribution-indicators-pci---shows-partner-impact-on-key-measures-of-customer-success"></a>Indicadores de contribuição do parceiro (PCI)-mostra o impacto do parceiro sobre as principais medidas do sucesso do cliente
 

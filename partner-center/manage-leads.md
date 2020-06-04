@@ -1,30 +1,30 @@
 ---
-title: Gerenciar leads | Centro de parceiros
+title: Gerenciar clientes potenciais
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como responder às referências, gerenciar as referências novas, existentes e arquivadas e obter mais referências no futuro.
-author: vikramb
-ms.author: vikramb
+description: Use o Partner Center para responder às referências e gerenciar clientes potenciais e referências novos, existentes e arquivados. Saiba também como obter mais referências no futuro.
+author: LauraBrenner
+ms.author: labrenne
 keywords: referência, co-venda, negociação
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 04a2e640eee404f88b34bc2c44b1fcba475d9da0
-ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e91035d860c9d7e7e908e7645756ca64e64d4828
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "84145060"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328327"
 ---
-# <a name="manage-leads"></a>Gerenciar clientes potenciais
+# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Gerenciar clientes potenciais diferentes, como consultas de clientes, clientes potenciais qualificados por marketing e clientes potenciais qualificados por vendas
 
 **Aplica-se a**
 
--  Partner Center
--  Indicações
--  Provedor de soluções da Microsoft
--  Perfis de negócios
+- Partner Center
+- Indicações
+- Provedor de soluções da Microsoft
+- Perfis de negócios
 
 **Funções apropriadas**
 

@@ -8,15 +8,14 @@ ms.author: labrenne
 keywords: cobrança, de uso único, recorrente, compras, encargos, ISV
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5194df5463be52872c32720edb67914fe7df7360
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: bb7ac791eba22a42c2137c0759794f58f6a743f6
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998422"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328317"
 ---
 # <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>Cobrança por uma única vez e selecionar encargos recorrentes no Partner Center
-
 
 **Aplica-se a**
 - Partner Center

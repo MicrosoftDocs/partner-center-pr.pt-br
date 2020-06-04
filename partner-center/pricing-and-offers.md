@@ -1,20 +1,20 @@
 ---
 title: Preços e ofertas
 ms.topic: article
-ms.date: 02/27/2020
+ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Consulte listas de preços atuais para serviços baseados em licença, como Office 365, Microsoft Dynamics CRM e Enterprise Mobility Suite, e serviços baseados em uso, como o Azure.
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: SEOAPR.20
-ms.openlocfilehash: ba6b3407f233376f99eea673e24f5a152839383a
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e92964b2b75a0ee4e9943740ba4da4aa71c82f9f
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394165"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328287"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preços e ofertas para o Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure e muito mais
 
@@ -85,7 +85,7 @@ O CSP oferece alguns serviços para segmentos de mercado especiais, por exemplo,
 |Educação|Cliente|Não, a qualificação do cliente será executada pela Microsoft |Somente baseado em licença|
 |Sem fins lucrativos|Cliente|Não, o cliente se qualifica fora do Partner Center|Somente baseado em licença|
 |GCC (Government Community Cloud)|Parceiro e cliente|Após o GCC habilitado, o parceiro pode criar clientes GCC| Somente baseado em licença|
-|Azure Government|Partner (parceiro)|Uma vez qualificado, o parceiro opera em um locatário do CSP específico para o Azure governamental|Recursos do Azure|
+|Azure Government|Parceiro|Uma vez qualificado, o parceiro opera em um locatário do CSP específico para o Azure governamental|Recursos do Azure|
 
 As margens do parceiro, a diferença entre o preço da lista e os preços de varejo estimados, pode variar de segmento para segmento. Normalmente, a educação e o não-lucro tendem a ter menos ou nenhuma margem para parceiros CSP. Consulte a lista de preços baseada em licenças para obter valores exatos.  
 ## <a name="pricing-between-azure-and-non-azure"></a>Preços entre recursos do Azure e recursos não Azure

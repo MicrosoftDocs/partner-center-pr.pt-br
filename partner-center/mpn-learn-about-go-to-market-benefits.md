@@ -1,7 +1,7 @@
 ---
 title: Saiba mais sobre o lançamento no mercado com as ofertas da Microsoft
 ms.topic: article
-ms.date: 05/20/2020
+ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como entrar no mercado com as ofertas da Microsoft pode ajudar a acelerar o tempo de colocação no mercado, gerar clientes potenciais e expandir seus negócios.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, benefícios de associação, associação, ofertas de entrada no mercado, entrar no mercado com a Microsoft, ir para o mercado, associação Gold, associação Silver
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6e694a169a7e76568c0c7b4c1882a5dd6e70c3cc
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 6f6edf7dbe2591317f0c67ad8e9489f2e4cc1e26
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795823"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328197"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Explore seu lançamento no mercado com as ofertas da Microsoft
 
@@ -29,7 +29,7 @@ ms.locfileid: "83795823"
 - Administrador global
 - Administrador de parceiros do MPN
 
-Quando você se tornou um membro Microsoft Partner Network, você tem acesso a benefícios de associação que podem ajudá-lo a criar e expandir seus negócios. Entrar no mercado com recursos, ofertas e programas da Microsoft estão entre os [vários benefícios](https://partner.microsoft.com/manage-your-partner-network-benefits) que você recebe como um membro Microsoft Partner Network.
+Ao se tornar um membro Microsoft Partner Network, você obterá acesso a benefícios de associação que podem ajudá-lo a criar e expandir seus negócios. Entrar no mercado com recursos, ofertas e programas da Microsoft estão entre os [vários benefícios](https://partner.microsoft.com/manage-your-partner-network-benefits) que você recebe como um membro Microsoft Partner Network.
 
 As ofertas de entrada no mercado oferecem acesso a recursos de marketing e vendas exclusivos que podem ajudá-lo a acelerar seu tempo de colocação no mercado, gerar clientes potenciais e expandir seus negócios.
 
