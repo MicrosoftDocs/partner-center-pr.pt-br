@@ -1,23 +1,24 @@
 ---
-title: Como vender treinamento para os clientes
-description: Saiba como criar um cliente educativo e vender os oferece no Partner Center.
+title: Como vender ofertas para clientes educacionais
+description: Saiba como criar um cliente educativo e vender ofertas para eles no Partner Center.
 ms.topic: article
-ms.date: 3/20/2020
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 913e31aa-21b9-447c-988c-7487d82b3c4f
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 keywords: educação, segmentos especiais
 ms.localizationpriority: medium
-ms.openlocfilehash: 99d5576cfcdad5320d90c19ca705b7c43cb3e7ab
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 02cfe0317e4503a58303a24900c17e9b0997f528
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362484"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84426005"
 ---
-# <a name="how-to-sell-education-to-customers"></a>Como vender treinamento para os clientes
+# <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Como vender ofertas para clientes de educação & como criar um cliente de educação no Partner Center
 
 **Aplica-se a**
 
@@ -37,6 +38,7 @@ Este artigo explica como criar um cliente de educação no Partner Center e vend
 > A Microsoft vetsu cada locatário de cliente educativo recém-criado para garantir que eles sejam qualificados para ofertas educacionais.  Certifique-se de inserir as informações necessárias de forma mais precisa e total possível para evitar atrasos no processo de habilitação.
 
 1. Conecte-se ao Partner Center.
+
 2. Selecione **clientes** e, em seguida, selecione **Adicionar um cliente**. Selecione **educação** na lista suspensa **qualificações especiais** .  Preencha o restante das informações da conta, conforme necessário.  Os campos-chave que auxiliam o processo habilitação incluem:
 
    - Nome da empresa: Insira o nome da entidade LEGAL – obrigatório para habilitação

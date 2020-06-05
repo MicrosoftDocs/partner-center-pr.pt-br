@@ -1,29 +1,30 @@
 ---
-title: Vender assinaturas de produtos do marketplace comercial | Partner Center
+title: Vender assinaturas do Marketplace comercial
 ms.topic: article
-ms.date: 11/17/2019
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: No Partner Center, saiba como vender suas assinaturas de clientes para produtos de SaaS publicados no Marketplace por fornecedores independentes de software (ISVs).
-author: MicheleHope
-ms.author: v-mihope
+description: No Partner Center, saiba como vender as assinaturas de clientes para produtos de SaaS publicados no mercado comercial por ISVs (fornecedores independentes de software).
+author: LauraBrenner
+ms.author: labrenne
 keywords: assinaturas, Marketplace, terceiros, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 93a4547ba4361343b3c4cef05c7953e372ba627d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b18b0196b3aa8c3013fe7515b745277db7b55f21
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253076"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84426015"
 ---
-# <a name="sell-subscriptions-to-commercial-marketplace-products"></a>Venda de assinaturas para produtos do marketplace comercial
+# <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Use o Partner Center para vender assinaturas de clientes para produtos do Marketplace comercial
 
 **Aplica-se a**
 
 - Partner Center
 - Parceiros CSP
 
-Como um parceiro no programa CSP, você pode usar o Partner Center para vender suas assinaturas de clientes para produtos SaaS (software como serviço) que foram publicados no Marketplace comercial ([Microsoft AppSource](https://appsource.microsoft.com/) e [Azure Marketplace](https://azuremarketplace.microsoft.com/)) por fornecedores independentes de software (ISVs). 
+Como um parceiro no programa CSP, você pode usar o Partner Center para vender assinaturas de clientes para produtos SaaS (software como serviço) que foram publicados no Marketplace comercial ([Microsoft AppSource](https://appsource.microsoft.com/) e [Azure Marketplace](https://azuremarketplace.microsoft.com/)) por fornecedores independentes de software (ISVs).
 
 Isso pode ajudar a diferenciar sua empresa das demais e fornecer aos clientes pacotes de softwares que atendam a necessidades específicas. Você gerencia licenças e assinaturas para esses produtos SaaS do Azure Marketplace da mesma forma como faz para produtos da Microsoft.
 

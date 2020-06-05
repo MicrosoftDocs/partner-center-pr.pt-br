@@ -1,21 +1,21 @@
 ---
-title: Migrar as assinaturas do Skype for Business Online Plano 1 para versões mais recentes do Office 365 | Partner Center
+title: Migrar algumas assinaturas do Skype for Business
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Migre clientes com a expiração do Skype for Business online plano 1 assinaturas para uma opção de SKU com suporte. Recomendamos mover clientes para novas assinaturas antes da data de término anual da assinatura.
+Description: Saiba como e quando migrar determinados clientes com a expiração de assinaturas do plano 1 do Skype for Business online para novas versões do Office 365.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Planos do Skype for Business, Skype desativado, Office 365
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 2afe07797ca0e4e255e88a86149bfe532d29a426
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8e3a16450d9ac15785315a1b4b077e1872e1303a
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654049"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84425955"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrar assinaturas do Skype for Business Online Plano 1 para versões mais novas do Office 365
 
@@ -23,7 +23,7 @@ ms.locfileid: "73654049"
 
 - Partner Center
 
-O Skype for Business Online Plano 1 será desativado a partir de 1º de agosto de 2018. Após essa data, os clientes não poderão mais adquirir novas assinaturas do Skype for Business Plano 1. As assinaturas existentes não serão renovadas automaticamente quando expirarem, e não haverá uma opção de renovação. Na página de detalhes da assinatura, o status da assinatura do Skype for Business Online Plano 1 foi alterado para "Expira em [data]" de "Renovação automática em [data]".  
+O plano 1 do Skype for Business online será desativado, em vigor em 1º de agosto de 2018. Após essa data, os clientes não poderão mais adquirir novas assinaturas do Skype for Business Plano 1. As assinaturas existentes não serão renovadas automaticamente quando expirarem, e não haverá uma opção de renovação. Na página de detalhes da assinatura, o status da assinatura do Skype for Business Online Plano 1 foi alterado para "Expira em [data]" de "Renovação automática em [data]".  
 
 Para garantir a continuidade dos clientes, você deve fazer a transição de clientes com assinaturas do Skype for Business Online Plano 1 que vão expirar para uma opção de SKU com suporte, listada abaixo. É recomendável mover os clientes para novas assinaturas antes da data de término anual da assinatura para evitar qualquer interrupção de serviço para os clientes. 
 
@@ -77,7 +77,7 @@ Depois de migrar a licença do usuário para o novo serviço, você pode cancela
 
 8. Na página de detalhe da assinatura, defina o status da assinatura como **Suspensa**.
 
-9. Selecione **Enviar**.
+9. Selecione **Enviar.**
 
 A assinatura antiga será suspensa e a nova assinatura será ativada. A assinatura suspensa será desprovisionada automaticamente após 120 dias. O cliente não pagará custos adicionais pela assinatura antiga.
 
