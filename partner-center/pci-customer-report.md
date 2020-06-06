@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e25a91a977372234c31aed9f285bf53ac8dafae3
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 3c46b77a8c2147ae62b0609b167753a591f89dd4
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795708"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452993"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Relatórios do painel de clientes de insights do Partner Center
 
@@ -42,7 +42,7 @@ A seção de resumo apresenta uma exibição de instantâneo de vários KPIs rel
 - Recusar% de clientes durante o intervalo de datas selecionado 
 - Micro Chart apresenta a tendência mês a mês da contagem de clientes em relação ao intervalo de datas selecionado
 
-![clientes por produto](images/pci/customerproduct.png)
+:::image type="content" source="images/pci/customerproduct.png" alt-text="clientes por produto":::
 
 **Clientes ativos**:
 
@@ -65,13 +65,13 @@ Clientes adicionados:
 
 Contagem de clientes atuais, clientes ativos atuais e clientes recentemente adicionados durante o intervalo de datas selecionado são mapeadas geograficamente usando o país do cliente. As porcentagens exibidas abaixo da métrica indicam a contribuição percentual desse país do total para essa métrica. Você pode focalizar o mapa para exibir os clientes totais, ativos e novos para esse país. Você pode pesquisar e selecionar um país na grade para aplicar zoom ao local no mapa. Reverta para a exibição original selecionando o botão **página inicial** no mapa. Todas as colunas na grade são classificável.  
 
-![clientes por geografia](images/pci/customersgeo.png)
+:::image type="content" source="images/pci/customersgeo.png" alt-text="clientes por geografia":::
 
 **Acréscimos e variações de clientes**
 
 Tendência de clientes com divisão em novas, existentes e com variação para o intervalo de datas selecionado. O eixo X representa os meses do intervalo de datas selecionado e o eixo Y representa a contagem de clientes. Os clientes com rotatividade são representados na escala negativa do eixo Y. O gráfico de colunas empilhadas apresenta divisão de clientes novos, existentes e com rotatividade para o mês. Você pode recriar o gráfico de colunas com itens de pilha específicos, selecionando-os na legenda. Você pode aproveitar o controle deslizante na parte superior do gráfico para ampliar um período específico. 
 
-![clientes perdidos](images/pci/customerslost.png)
+:::image type="content" source="images/pci/customerslost.png" alt-text="clientes perdidos":::
 
 **Distribuição do cliente**
 
@@ -81,20 +81,20 @@ Divisão de seus clientes atuais por seus locais MPNs, segmentos de clientes, mo
 
 Divisão da contagem de clientes atuais por produtos e SKUs/planos. Selecione um produto no gráfico de pizza produto divisão para exibir o divisão por SKUs/planos no gráfico ao lado dele.
 
-![clientes por produto](images/pci/customerbyprod.png)
+:::image type="content" source="images/pci/customerbyprod.png" alt-text="clientes por produto":::
 
 **Tendência de distribuição do cliente** 
 
 Tendência mensal da distribuição de seus clientes durante o intervalo de datas selecionado por mercados, segmentos, seus locais MPN e produtos que eles adquiriram. Clique nas respectivas guias no gráfico para exibir a tendência por essas categorias. O eixo X representa os meses do intervalo de datas selecionado, e o eixo Y tem a contagem de clientes para a categoria selecionada (seleção de guia). Você pode focalizar as colunas do gráfico para exibir os valores divisão de cada pilha. Você pode aproveitar o controle deslizante na parte superior do gráfico para ampliar um período específico.   
 
-![distribuição do cliente](images/pci/customerdistri.png)
+:::image type="content" source="images/pci/customerdistri.png" alt-text="distribuição do cliente":::
 
 **Clientes ativos**
 
 Gráfico de tendência mensal comparando clientes ativos e totais para o intervalo de datas selecionado. As colunas representam contagens de clientes ativos a cada mês e a linha representa o total de clientes por mês. 
 
-![clientes ativos](images/pci/activecustomer.png)
+:::image type="content" source="images/pci/activecustomer.png" alt-text="clientes ativos":::
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- Para obter mais relatórios, consulte os [insights do Partner Center](partner-center-insights.md).
+Para obter mais relatórios, consulte os [insights do Partner Center](partner-center-insights.md).

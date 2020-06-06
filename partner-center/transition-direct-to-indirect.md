@@ -1,20 +1,21 @@
 ---
-title: Transição do parceiro de fatura direto do CSP (Provedor de Soluções na Nuvem) para o revendedor indireto do CSP
+title: Alternar parceiro de cobrança direta para revendedor indireto
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Entenda como você fará a transição do parceiro de cobrança direto para o revendedor indireto
+description: Saiba como um parceiro do programa CSP pode usar o Partner Center para fazer a transição do parceiro Direct-Bill para o revendedor indireto.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: fatura direta, transição, revendedor indireto
-ms.openlocfilehash: 8002504622e330aefd4ec20d8a49a27454360e3f
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f3f87014e76ea32bf15d3e0147d5e40c3a5ebefc
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362664"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458402"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transição do parceiro de fatura direto do CSP (Provedor de Soluções na Nuvem) para o revendedor indireto do CSP
 
@@ -33,11 +34,11 @@ Você poderá se registrar no programa revendedor indireto usando seu locatário
 
 2. Entre no Partner Center como o administrador global do locatário de fatura direta que você está fazendo a transição para o revendedor indireto.
 
-    ![Visão geral](images/direct/direct1.png)
+   :::image type="content" source="images/direct/direct1.png" alt-text="Visão geral":::
 
 3. Examine os detalhes do parceiro no formulário de registro.
 
-    ![Registre-se agora](images/direct/direct2a.png)
+   :::image type="content" source="images/direct/direct2a.png" alt-text="Registre-se agora":::
 
 4. Selecione Registrar agora. Seus negócios indiretos do revendedor usarão o mesmo locatário do AAD que você usa para seus negócios diretos.
 
@@ -53,7 +54,7 @@ Você poderá se registrar no programa revendedor indireto usando seu locatário
 
 Quando você tiver aceitado o contrato de revendedor indireto, observe que seu perfil **de parceiro identifica você como uma** fatura direta e um revendedor indireto.
 
-![Contrato de revendedor indireto](images/direct/direct3.png)
+:::image type="content" source="images/direct/direct3.png" alt-text="Contrato de revendedor indireto":::
 
 > [!IMPORTANT]
 > Depois de se registrar como um revendedor indireto usando a nova funcionalidade, não há nenhuma opção para reverter para um locatário direto somente de cobrança. Certifique-se de avaliar totalmente suas necessidades de negócios antes de inscrever-se como um revendedor indireto.
@@ -62,7 +63,7 @@ Quando você tiver aceitado o contrato de revendedor indireto, observe que seu p
 
 Durante essa fase, você continuará a gerenciar as necessidades de assinatura direta de seus clientes, incluindo o processo de cobrança. Você também pode começar a aceitar clientes do seu provedor indireto e operar como um revendedor indireto.
 
-![Você é uma fatura direta e um revendedor indireto](images/direct/direct4.png)
+:::image type="content" source="images/direct/direct4.png" alt-text="Você é uma fatura direta e um revendedor indireto":::
 
 ## <a name="find-an-indirect-provider"></a>Localizar um provedor indireto
 
@@ -159,7 +160,7 @@ Você pode usar o recurso de extensão de relacionamento de revendedor para esta
     > [!NOTE]
     > Usando o recurso de extensão de relacionamento de revendedor, você concorda em compartilhar as informações de cobrança para esse cliente com o provedor indireto.
 
-- Seu provedor indireto não será fornecido com [privilégios de administração delegados](customers_revoke_admin_privileges.md) para o locatário do cliente. Se o seu provedor indireto exigir privilégios de administração delegada, você deverá enviar um convite de revendedor indireto para o cliente em vez disso.
+- Seu provedor indireto não será fornecido com [privilégios de administração delegados](customers-revoke-admin-privileges.md) para o locatário do cliente. Se o seu provedor indireto exigir privilégios de administração delegada, você deverá enviar um convite de revendedor indireto para o cliente em vez disso.
 
 - Depois que a relação do revendedor for estabelecida, o provedor indireto será exibido como um parceiro CSP para o cliente na página relacionamentos de parceiros no [M365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/partners) e no [Microsoft Store for Business](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business).
 
@@ -174,7 +175,7 @@ Para usar esse recurso em um locatário do cliente existente:
 
 3. Em **provedor (es) indireto (s)**, clique em **transferir cliente em um provedor indireto**.
 
-    ![Transferir cliente para um provedor indireto](images/direct/direct5_1.png)
+    :::image type="content" source="images/direct/direct5-1.png" alt-text="Transferir cliente para um provedor indireto":::
 
 4. Na caixa de diálogo pop-up, selecione o **provedor indireto** que você gostaria de ter uma relação de revendedor com o cliente.
 
@@ -182,7 +183,7 @@ Para usar esse recurso em um locatário do cliente existente:
 
 6. Verifique se o provedor indireto selecionado aparece em **provedor (es) indireto (s)**.
 
-    ![Provedor indireto listado](images/direct/direct5_2.png)
+    :::image type="content" source="images/direct/direct5-2.png" alt-text="Provedor indireto listado":::
 
 ### <a name="send-an-indirect-reseller-invitation-to-the-customer"></a>Enviar um convite de revendedor indireto para o cliente
 
@@ -192,7 +193,7 @@ Seu provedor indireto não pode enviar pedidos para seus clientes de fatura dire
 
 2. Selecione **Convidar novos clientes** para convidar um cliente a estabelecer uma relação de revendedor com você e a provedor indireto ao mesmo tempo. O provedor precisa ter uma relação de revendedor com seu cliente, para que possa enviar pedidos em nome do seu cliente quando o cliente quiser comprar novas assinaturas ou adicionar novas licenças a assinaturas existentes.
 
-    ![Convide novos clientes](images/direct/direct6.png)
+    :::image type="content" source="images/direct/direct6.png" alt-text="Convide novos clientes":::
 
 3. Na próxima página, reveja o rascunho da mensagem de email. Você pode abrir a mensagem de rascunho no email ou pode copiar a mensagem para a área de transferência e colá-la em um email.
 
@@ -208,7 +209,7 @@ Microsoft Cloud contrato é válido até 31 de janeiro de 2020. Após essa data,
 
 - **O cliente ainda não aceitou o contrato com o cliente da Microsoft**
 
-   Trabalhe com o provedor indireto para que [o cliente aceite o contrato do cliente da Microsoft]( https://docs.microsoft.com/partner-center/confirm-customer-agreement).
+   Trabalhe com o provedor indireto para que [o cliente aceite o contrato do cliente da Microsoft](confirm-customer-agreement.md).
 
 - **O cliente aceitou o contrato de clientes da Microsoft com você por meio do centro de administração Microsoft 365**
 
@@ -216,7 +217,7 @@ Microsoft Cloud contrato é válido até 31 de janeiro de 2020. Após essa data,
 
 - **O cliente aceitou o contrato de clientes da Microsoft com você por meio de atestado de parceiro**
 
-   A aceitação não será retida. Trabalhe com o provedor indireto para [atualizar a aceitação do cliente no Partner Center]( https://docs.microsoft.com/partner-center/confirm-customer-agreement#confirm-customer-acceptance-for-existing-customers).
+   A aceitação não será retida. Trabalhe com o provedor indireto para [atualizar a aceitação do cliente no Partner Center](confirm-customer-agreement.md#confirm-customer-acceptance-for-existing-customers).
 
 ## <a name="transfer-existing-direct-bill-subscriptions-to-indirect-provider"></a>Transferir inscrições de fatura direta existentes para o provedor indireto
 
@@ -273,17 +274,17 @@ Para criar uma solicitação de transferência como o parceiro de transição:
 
 6. Em **transferência de assinatura**, clique em **solicitar transferência de assinatura**.
 
-    ![Solicitar transferência de assinatura](images/direct/direct8.png)
+    :::image type="content" source="images/direct/direct8.png" alt-text="Solicitar transferência de assinatura":::
 
 7. Na caixa de diálogo solicitação de transferência, selecione uma ou mais assinaturas a serem transferidas.
 
-    ![Criar solicitação de transferência](images/direct/direct9.png)
+    :::image type="content" source="images/direct/direct9.png" alt-text="Criar solicitação de transferência":::
 
 8. Clique em **Criar**.
 
 9. Uma solicitação de transferência de assinatura ativa será exibida sob **transferência de assinatura**.
 
-    ![Transferir lista de solicitações](images/direct/direct10.png)
+    :::image type="content" source="images/direct/direct10.png" alt-text="Transferir lista de solicitações":::
 
 10. Informe ao seu provedor indireto que você criou uma solicitação de transferência de assinatura para eles.
 
@@ -301,13 +302,13 @@ Para examinar e aceitar uma solicitação de transferência como o provedor indi
 
 5. Na página **assinaturas** , procure **transferência de assinatura**.
 
-    ![Exibir solicitação de transferência](images/direct/direct11.png)
+    :::image type="content" source="images/direct/direct11.png" alt-text="Exibir solicitação de transferência":::
 
 6. Em **transferência de assinatura**, clique na solicitação de transferência para revisar.
 
 7. Clique em **aceitar** (ou **rejeitar**) conforme apropriado.
 
-    ![Aceitar solicitação de transferência](images/direct/direct12.png)
+    :::image type="content" source="images/direct/direct12.png" alt-text="Aceitar solicitação de transferência":::
 
 8. Aguarde a conclusão da solicitação de transferência.
 
@@ -337,7 +338,7 @@ O parceiro de transição deve fazer o seguinte:
 
    2. Se esta for uma assinatura baseada em assento (Office 365, Dynamics, Intune), ela será listada com o estado como **suspenso**.
 
-   ![Assinatura suspensa](images/direct/direct13.png)
+   :::image type="content" source="images/direct/direct13.png" alt-text="Assinatura suspensa":::
 
 ### <a name="considerations"></a>Considerações
 

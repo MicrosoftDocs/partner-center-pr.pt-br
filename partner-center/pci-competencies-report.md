@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43163437aefdc8cee2e7505e8cc131eeaa3c142d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 6853bb033f7188d7d9ddfa818252fd3b41422e05
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795657"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452953"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de competências disponível no painel do Partner Center insights
 
@@ -64,7 +64,7 @@ Divisão da contagem de competências iniciada por nível de competência (prata
 - Em risco (próximo ano): contagem de competências **ativas** no momento, mas também do **risco** de não atender aos requisitos do próximo ano.
 Divisão das competências (por nível de competência, como prata/ouro, com nomes de competência) que correm o risco de não estar qualificado no próximo ano.
 
-![Resumo de competências](images/pci/pci_competencies_summary_1.png)
+:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="Resumo de competências":::
 
 **Análise da métrica de competência**
 
@@ -75,7 +75,7 @@ O relatório pode ser dinamizado pelos seguintes intervalos de data:
 1. Exibição de TTM: enumera o desempenho do parceiro nos últimos doze meses (TTM).
 2. Exibição de ano de aniversário: enumera o desempenho do parceiro da data de aniversário anterior para a próxima data de aniversário.
 
-![análise da métrica de competência](images/pci/pci_competencies_comp_metrics_analysis_2.png)
+:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="análise da métrica de competência":::
 
 > [!NOTE]
  > Nem todas as métricas são abordadas na análise. Atualmente, as métricas associadas ao aprendizado e à certificação não têm suporte no relatório competências. As competências de Business Applications de nuvem (CBA) também não têm suporte na análise de métrica para o status de competência **ativa** .
@@ -84,7 +84,7 @@ O relatório pode ser dinamizado pelos seguintes intervalos de data:
 
 Esta exibição mostra uma tabela detalhada de todas as competências que você atingiu até agora, com o nível de competência e o estágio de competência.
 
-![Histórico de competência](images/pci/pci_competencies_comp_history_3.png)
+:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="Histórico de competência":::
 
 ## <a name="next-steps"></a>Próximas etapas
 

@@ -9,12 +9,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, compra
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b96a918b18240869305b18deb24241cbc64a1df1
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 9b9ab4fd293dce26a738ab055a2ca31e8ce1884b
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362674"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458362"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Consultores: criar uma oferta de compra
 
@@ -42,7 +42,7 @@ Se o cliente quiser um número diferente de licenças, envie-a uma nova oferta o
     - **Contagem de licenças**: quando você seleciona uma assinatura, digite o número de licenças que deseja incluir na oferta de compra.
     - **Administração delegada**: essa opção só está disponível para parceiros que estão certificados para oferecer administração delegada. Escolha esta opção se desejar oferecer a administração delegada do cliente. Se você fizer isso, o cliente poderá aceitar a oferta de compra com ou sem a aceitação da administração delegada.
 
-3. Clique em **Avançar**.
+3. Clique em **Próximo**.
 
 4. Na página **Enviar** , copie as informações e a URL da oferta de compra e cole-as em um email, um documento ou uma página da Web para criar uma oferta de compra personalizada.
 
@@ -59,4 +59,4 @@ Se o cliente quiser um número diferente de licenças, envie-a uma nova oferta o
     - Permita que os clientes saibam que eles serão cobrados diretamente pela Microsoft.
     - Informe aos clientes como contatá-lo com perguntas sobre o serviço ou a oferta.
     - Permita que os clientes saibam que controlam o número de licenças de usuário adquiridas e podem alterar o número de licenças quando aceitam a oferta.
-    - Se você oferecer a administração delegada, explique o que ela significa e quais são as suas responsabilidades. Para obter mais informações sobre administração delegada, consulte [oferecer administração delegada](customers_revoke_admin_privileges.md).
+    - Se você oferecer a administração delegada, explique o que ela significa e quais são as suas responsabilidades. Para obter mais informações sobre administração delegada, consulte [oferecer administração delegada](customers-revoke-admin-privileges.md).

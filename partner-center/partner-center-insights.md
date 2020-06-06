@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9b2d6e363eed34998a07a711b51dc77fcc135cdb
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: f48b58ff02672e08f39fb22f17736f6f5a6e9216
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328227"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453193"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Informações do Partner Center – um painel que mostra como um parceiro comercial da Microsoft está fazendo
 
@@ -61,7 +61,7 @@ Os relatórios a seguir estão disponíveis como parte do painel de informaçõe
 
 **Filtros de intervalo de datas**: você pode encontrar uma seleção de intervalo de datas no canto superior direito de cada página. A saída dos gráficos de página de visão geral pode ser personalizada selecionando um intervalo de datas com base nos últimos 3, 6 ou 12 meses ou selecionando um intervalo de datas personalizado. A seleção do intervalo de datas padrão é de 12 meses. 
 
-![Mapa de introdução](images/pci/intro1.png)
+:::image type="content" source="images/pci/intro1.png" alt-text="Mapa de introdução":::
 
 **Botão de comentários**: cada gráfico/controle em todos os relatórios de informações é incorporado com um botão de comentários para permitir que você forneça comentários de instância sobre um recurso de relatório. 
 
@@ -74,7 +74,7 @@ Os relatórios a seguir estão disponíveis como parte do painel de informaçõe
 
 - Filtros selecionados serão exibidos na parte superior da página. 
 
-![filtros](images/pci/filters.png)
+:::image type="content" source="images/pci/filters.png" alt-text="Filter":::
 
 ### <a name="filters-definitions"></a>Definições de filtros:
 

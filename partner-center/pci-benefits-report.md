@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c1522f6fe9a6b287443245577232b59d0032cdb5
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: dec4e4c3f5438df7d09da018c8d7df3709a01854
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795720"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453036"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de benefícios disponível no painel do recepções do Partner Center
 
@@ -29,7 +29,7 @@ ms.locfileid: "83795720"
 
 Como um parceiro da Microsoft, você pode acessar uma série de benefícios que usam a tecnologia e as inovações mais recentes para ajudá-lo a aprimorar as habilidades da sua equipe, melhorar a eficiência e aumentar seus negócios. Os pacotes de benefícios incluem: alocações de software licenciado, serviços de nuvem, assinaturas do Visual Studio e suporte. Esses pacotes também podem incluir determinados recursos, ofertas e programas de entrada no mercado. O relatório de benefícios apresenta tendências dos benefícios que você acessou e sua utilização durante o intervalo de datas selecionado.
 
-![Visão geral da página de benefícios](images/pci/pci_benefits_intro_1.png)
+:::image type="content" source="images/pci/pci-benefits-intro-1.png" alt-text="Visão geral da página de benefícios":::
 
 Você pode visualizar os seguintes gráficos no relatório de benefícios:
 
@@ -49,20 +49,20 @@ A seção de resumo apresenta os benefícios concedidos em termos de software li
 
 Exemplo: os parceiros de associação do Microsoft Partner Network (MPN) estão qualificados para o suporte técnico de produtos locais e produtos de nuvem. Parceiros que obtêm competência Silver recebem suporte técnico para 15 incidentes para produtos locais. Eles podem consumir esse suporte conforme necessário. 
 
-![Resumo dos benefícios](images/pci/pci_benefits_summary_2.png)
+:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="Resumo dos benefícios":::
 
 **Serviços de nuvem concedidos**
 
 Este gráfico apresenta a tendência mensal de licenças concedidas durante o intervalo de datas selecionado para assinaturas baseadas em licenças do serviço de nuvem selecionado.
 Selecione um serviço de nuvem na guia **Serviços** para exibir o gráfico de um serviço de nuvem específico. O grafo de linha representa as licenças gerais concedidas à sua empresa.
 
-![serviços de nuvem concedidos](images/pci/pci_benefits_cloud_services_granted_3.png)
+:::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="serviços de nuvem concedidos":::
 
 **Produtos de software**
 
 Este gráfico apresenta a tendência mensal de licenças concedidas durante o intervalo de datas selecionado para um produto de software específico. Selecione um produto de software na lista suspensa na parte superior do gráfico para exibir a tendência de um produto de software específico que você recebe como benefícios. O grafo de linha representa as licenças gerais concedidas à sua empresa.
 
-![produtos de software concedidos](images/pci/pci_benefits_software_products_granted_4.png)
+:::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="produtos de software concedidos":::
 
 **Assinaturas do Visual Studio**
 
@@ -70,7 +70,7 @@ Este gráfico apresenta a tendência mensal de assinaturas do Visual Studio ativ
 
 Selecione uma guia na parte superior do gráfico para exibir a tendência de uma assinatura específica do Visual Studio que você recebe como benefícios. As colunas no gráfico representam as estações consumidas para a assinatura. O grafo de linha representa as estações gerais atribuídas para a assinatura.
 
-![Assinaturas do Visual Studio](images/pci/pci_benefits_visual_studio_subscriptions_5.png)
+:::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Assinaturas do Visual Studio":::
 
 **Benefícios técnicos**
 
@@ -78,7 +78,7 @@ Este gráfico apresenta a tendência mensal de benefícios de suporte concedidos
 
 Selecione uma guia na parte superior do gráfico para exibir a tendência de um benefício de suporte específico que você recebeu. O grafo de linha representa as horas gerais de suporte atribuídas para o benefício de suporte selecionado.
 
-![benefícios técnicos](images/pci/pci_benefits_technical_benefits_6.png)
+:::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="benefícios técnicos":::
 
 **Ofertas de lançamento no mercado ou serviços**
 
@@ -86,7 +86,7 @@ Este gráfico apresenta a tendência mensal de ofertas de lançamento no mercado
 
 Selecione uma oferta de entrada no mercado ou categoria de serviço na lista suspensa na parte superior do gráfico para exibir a tendência dos serviços de entrada para o mercado selecionados concedidos à sua empresa. As colunas no gráfico representam ofertas de entrada no mercado ou serviços ativados. O grafo de linha representa as ofertas gerais de lançamento no mercado ou os serviços concedidos à sua empresa.
 
-![Ofertas de entrada no mercado](images/pci/pci_benefits_go_to_market_7.png)
+![Ofertas de entrada no mercado](images/pci/pci-benefits-go-to-market-7.png)
 
 ## <a name="next-steps"></a>Próximas etapas
 

@@ -1,21 +1,22 @@
 ---
-title: Mover os clientes de serviços baseados em licença para o programa Provedor de Soluções na Nuvem no Partner Center | Partner Center
+title: Mover clientes baseados em licença para o programa CSP
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Mova os clientes e suas assinaturas para o programa CSP de outro canal ou de outro parceiro.
+description: Saiba como mover clientes baseados em licença de outros canais ou outro parceiro para o programa CSP (provedor de soluções na nuvem) no Partner Center.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 12d382c043c6f1fbfa0348b17b25f12e0f306ee9
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.custom: SEOMAY.20
+ms.openlocfilehash: ce096cd3e7fca1f59fd59eac739585c345c34405
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654009"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458382"
 ---
-# <a name="transfer-license-based-services-customers-to-the-cloud-solution-provider-program-from-another-channel-or-from-one-partner-to-another"></a>Transferir clientes de serviços baseados em licença para o Programa Provedor de Soluções na Nuvem de outro canal ou de um parceiro para outro
+# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Mover clientes baseados em licença de outros canais & parceiros para o programa do provedor de soluções na nuvem
 
 **Aplica-se a**
 
@@ -29,14 +30,14 @@ Se o cliente quiser contratar vários parceiros, transferir suas assinaturas par
 
 2.  Depois que o cliente aceitar seu convite, você poderá provisionar as assinaturas e estações desejadas para o cliente (por exemplo, a mesma oferta do Office 365 que o cliente comprou anteriormente).
 
-3. O cliente pode permitir que suas assinaturas originais expirem ou que sejam canceladas. No entanto, como não há reembolso em assinaturas canceladas, é melhor esperar até que as assinaturas do cliente estejam próximas às datas de expiração natural.
+3. O cliente pode permitir que suas assinaturas originais expirem ou que sejam canceladas. No entanto, como não há reembolsos sobre assinaturas canceladas, é melhor esperar até que as assinaturas do cliente estejam próximas às datas de expiração natural.
 
 4. O cliente continuará com as assinaturas que você provisionou, sem interrupção.
 
 
-Se você provisionar a mesma oferta aos que seus clientes vem usando, não é necessário reatribuir as licenças e não haverá nenhuma interrupção para os usuários finais. As ofertas devem ser iguais para garantir que não haja perda de dados. Desde que o número total de licenças permaneça o mesmo e a oferta seja equivalente, seus clientes não serão afetados.
+Se você provisionar as mesmas ofertas que o cliente utiliza, não será necessário reatribuir licenças e não haverá interrupção para os usuários finais. As ofertas devem ser as mesmas para garantir que não haja perda de dados. Desde que o número total de licenças permaneça o mesmo e a oferta seja equivalente, seus clientes não serão afetados.
 
-Se transferir os clientes que estejam em ofertas que foram descontinuadas, você precisará encontrar uma oferta equivalente para evitar a perda de dados. Se você mover o cliente para uma oferta diferente, você precisará atualizar sua atribuição de licença.
+Se você transferir clientes que estão em ofertas que foram descontinuadas, será necessário encontrar uma oferta equivalente para evitar a perda de dados. Se você mover o cliente para uma oferta diferente, será necessário atualizar a atribuição de licença.
 
 >[!NOTE]
 >Você, o parceiro CSP, deve estar na mesma região que o locatário do cliente para fazer a transição desse cliente para você. 

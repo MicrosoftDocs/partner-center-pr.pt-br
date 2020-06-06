@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3db52e7a55d915dafcd220f6dd6e5ced28a9819f
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 206a7e9d756aa2d888813d83ef22fcd7a9ac109c
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795660"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452873"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Relatório de licenças de produto no painel do recepções do Partner Center
 
@@ -54,7 +54,7 @@ Percentual de crescimento ou declínio dessas licenças durante o intervalo de d
 
 O micro Chart apresenta a tendência mês a mês de contagens de licenças durante o intervalo de datas selecionado.
 
-![Resumo do relatório de licenças](images/pci/pci_licenses_report_summary_1.png)
+:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Resumo do relatório de licenças":::
 
 **Dispersão geográfica de licenças**
 
@@ -64,7 +64,7 @@ A exibição de **dispersão geográfica de licenças** mostra a distribuição 
 
 Você pode pesquisar e selecionar um país na grade para aplicar zoom ao local no mapa. Pressione a opção **página inicial** no mapa para reverter para a exibição padrão. Focalize o mapa para exibir licenças atuais e licenças ativas por país do cliente. Ambos os campos na grade são classificável.
 
-![dispersão geográfica de licença](images/pci/pci_licenses_report_geo_spread_2.png)
+:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="dispersão geográfica de licença":::
 
 **Adições de licenças**
 
@@ -74,14 +74,14 @@ Para apresentar a tendência por produto e serviço/carga de trabalho, selecione
 
 O eixo X representa os meses do intervalo de datas selecionado. O eixo Y representa a contagem de licenças adicionadas. Para aplicar zoom em um período específico, use o controle deslizante na parte superior do gráfico.
 
-![adições de licenças](images/pci/pci_licenses_report_license_adds_3.png)
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="adições de licenças":::
 
 **Distribuição de licenças**
 
 Esta exibição mostra uma divisão de suas licenças de cliente por produto e país/região do cliente. Quando você seleciona um produto no gráfico de pizza **licença por produto** , o gráfico adjacente lhe mostrará uma divisão de licença por região do cliente.
 
-![distribuição de licenças](images/pci/pci_licenses_report_license_distrib_4.png)
+:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="distribuição de licenças":::
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- Para obter mais relatórios, consulte os [insights do Partner Center](partner-center-insights.md).
+Para obter mais relatórios, consulte os [insights do Partner Center](partner-center-insights.md).

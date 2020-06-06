@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fedeaad1898f4fade76bbf34c0bfe6bd2585a7cd
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 6e20cc9c37ef68fcd1ca0ab22b2012fdd0b35149
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795638"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452693"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Controle de acesso baseado em função para o painel do recepções do Partner Center
 
@@ -24,9 +24,10 @@ O painel de informações usa duas novas funções no Partner Center para gerenc
 
 Assim como acontece com outras funções do centro de parceiros, o administrador global ou o administrador da conta poderá atribuir usuários a essas funções na página de gerenciamento de usuários. As funções podem ser aplicáveis em toda a empresa ou em local (s) MPN específicos. As funções atribuídas a locais MPN específicos limitam o usuário a exibir dados de relatório associados somente ao (s) local (es) MPN selecionados. O parceiro pode selecionar um ou vários locais na exibição abaixo.
 
-![Funções](images/pci/roles.png)
+:::image type="content" source="images/pci/roles.png" alt-text="Funções":::
 
->Anotações Os usuários que são administradores de MPN a partir de 20 de janeiro de 2020 são automaticamente adicionados à função ' Visualizador de relatórios executivos ' de toda a empresa para todos os locais para esse locatário. Assim, esses usuários são capazes de acessar os relatórios como um visualizador de relatórios executivos sem qualquer ação explícita exigida pelo administrador global ou pela conta. Os administradores globais e os administradores de conta podem substituir as funções atribuídas automaticamente desses usuários para aumentar ou limitar seus recursos.
+>[!Note]
+> Os usuários que são administradores de MPN a partir de 20 de janeiro de 2020 são automaticamente adicionados à função de **Visualizador de relatórios de executivos** de toda a empresa para todos os locais para esse locatário. Assim, esses usuários são capazes de acessar os relatórios como um visualizador de relatórios executivos sem qualquer ação explícita exigida pelo administrador global ou pela conta. Os administradores globais e os administradores de conta podem substituir as funções atribuídas automaticamente desses usuários para aumentar ou limitar seus recursos.
 
 ## <a name="next-steps"></a>Próximas etapas
 

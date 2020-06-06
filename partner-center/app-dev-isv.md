@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: competências, ISV, desenvolvimento de aplicativos
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf6d004e7247154b08e63bbd74bcbcf022e57337
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: e7f0024bbd52e6f6a449f9d8965f25499bb4a7a0
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907480"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452723"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>A isenção de requisitos de exames one-time para a competência de desenvolvimento de aplicativos
 
@@ -45,7 +45,7 @@ Parceiros com competência de desenvolvimento de aplicativos obtidos por meio do
 1. No menu da Central de Parceiros em seu painel, selecione **Competências**.
 2. Na lista de competências disponíveis, o desenvolvimento de aplicativos está marcado como **concluído**.
 
-![ISV para AppDev](images/appdev.png)
+:::image type="content" source="images/appdev.png" alt-text="ISV para AppDev":::
 
 3. Selecione **desenvolvimento de aplicativos**. Você verá o aviso de que recebeu uma substituição que isenta sua empresa de atender aos requisitos do exame. 
 

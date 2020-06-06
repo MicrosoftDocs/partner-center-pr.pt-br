@@ -9,12 +9,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, avaliação
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 2f8faddce7755a34687f0403b8ba27ea734d8018
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 9726fc9316f33cf35f91a7db60a64689bccc0617
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362614"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458352"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Consultores: Crie e envie um convite de avaliação para que os clientes experimentem o Office 365
 
@@ -37,9 +37,9 @@ Se você estiver certificado para oferecer administração delegada, poderá adi
 
     - **Local de uso**: escolha o local em que o cliente usará os serviços.
     - **Assinaturas de avaliação**: a lista de assinaturas de avaliação que você pode escolher é determinada pelo local de uso do país ou da região do seu cliente.
-    - **Administração delegada**: essa opção só está disponível para parceiros que estão certificados para oferecer administração delegada. Escolha esta opção se desejar oferecer a administração delegada do cliente. Se você fizer isso, o cliente poderá aceitar o convite de avaliação com ou sem a aceitação da administração delegada. Para obter mais informações sobre administração delegada, consulte [oferecer administração delegada](customers_revoke_admin_privileges.md).
+    - **Administração delegada**: essa opção só está disponível para parceiros que estão certificados para oferecer administração delegada. Escolha esta opção se desejar oferecer a administração delegada do cliente. Se você fizer isso, o cliente poderá aceitar o convite de avaliação com ou sem a aceitação da administração delegada. Para obter mais informações sobre administração delegada, consulte [oferecer administração delegada](customers-revoke-admin-privileges.md).
 
-3. Clique em **Avançar**.
+3. Clique em **Próximo**.
 
 4. Na página**convite para avaliação** , copie as informações e a URL do convite de avaliação e cole-as em um email, um documento ou uma página da Web para criar um convite de avaliação personalizado.
 

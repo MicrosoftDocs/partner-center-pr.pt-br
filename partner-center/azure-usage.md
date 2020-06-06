@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: azure, reservas, vm, gerenciar, uso, dimensionamento
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f214a3dd507370f37347d4e014059367f13c5669
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 05a041ae794270430b6e2ed7b72ff48b04018601
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205774"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453273"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Dimensionamento de VM do Microsoft Azure para uso máximo de reserva do Azure
 
@@ -54,13 +54,13 @@ As instruções para o uso de cada um desses métodos estão listadas a seguir. 
 3. Selecione **Máquinas virtuais** no menu do portal e então selecione a VM para a qual você deseja comprar uma reserva.
 4. Na página de detalhes da VM, localize as informações de tamanho e região, conforme ilustrado abaixo, e use essas informações para comprar a reserva no Partner Center.  
 
-    ![Informações de tamanho e região na página de detalhes](images/usage1.png)
+    :::image type="content" source="images/usage1.png" alt-text="Informações de tamanho e região na página de detalhes":::
 
 **Obter informações de dimensionamento de VM usando o Microsoft Azure PowerShell**
 
 Use as informações na imagem abaixo para obter a localização e o tamanho da VM para a qual você deseja comprar uma reserva. 
 
-![Local e tamanho da VM](images/usage2.png)
+:::image type="content" source="images/usage2.png" alt-text="Local e tamanho da VM":::
 
 **Obter informações de dimensionamento de VM usando a API do Azure Resource Manager (ARM)**
 
@@ -70,7 +70,8 @@ Use as informações na imagem abaixo para obter a localização e o tamanho da 
 
 3. A chamada retorna os valores de **vmSize** e **location**, como ilustrado abaixo.
 
-    ![valor de](images/usage3.png) ![local do valor de vmSize](images/usage4.png)
+    :::image type="content" source="images/usage3.png" alt-text="valor de vmSize":::
+    :::image type="content" source="images/usage4.png" alt-text="valor da localização":::
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Verificar o desconto de uso e de reserva de VM do Azure
 
@@ -110,7 +111,7 @@ As instruções para o uso de cada um desses métodos estão listadas a seguir.
 
 Você pode obter dados de uso da reserva com a API de utilização do Azure para verificar se o cliente está recebendo o desconto da reserva e para ver a quais VMs (máquinas virtuais) o desconto é aplicado. Compare o exemplo a para o exemplo B para ver como verificar o uso de reserva de um cliente.
 
-![Exemplos de uso de reserva](images/usage5.png)
+:::image type="content" source="images/usage5.png" alt-text="Exemplos de uso de reserva":::
 
 - A reservationId identifica a reserva do Azure que foi usada para aplicar o desconto à VM.
 - consumptionMeter é a MeterId para a VM que tem o desconto da reserva aplicado a ela.

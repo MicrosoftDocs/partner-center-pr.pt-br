@@ -1,8 +1,8 @@
 ---
 title: Impostos regionais e isenções fiscais
 ms.topic: article
-ms.date: 04/28/2020
-description: Saiba mais sobre as responsabilidades de impostos para sua região geográfica específica e como enviar isenções de impostos para suas vendas do CSP. Aprenda também sobre como obter suporte para perguntas de impostos
+ms.date: 06/05/2020
+description: Para parceiros do programa CSP, saiba mais sobre as responsabilidades do imposto por região, como enviar isenções fiscais para vendas do CSP e como obter suporte para perguntas sobre impostos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
@@ -10,15 +10,15 @@ author: LauraBrenner
 keywords: imposto, isenção de impostos, IVA, revendedor, cobrança
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: SEOAPR.20
-ms.openlocfilehash: ff89cd6a117e1db4cd42e0af522b975a2e62cf26
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a25ddebe1417377005a97534ac2f1b6556e68cd6
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907802"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458292"
 ---
-# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country"></a>Leia sobre impostos e detalhes de isenção de imposto por região ou país
+# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Leia sobre impostos e detalhes de isenção de imposto por região ou país para parceiros no programa CSP
 
 Aplica-se a:
 
@@ -67,7 +67,7 @@ Isso pode incluir certificados de isenção de revenda que funcionam em vários 
 
 Se você estiver em outro país ou região que cobra impostos, [solicite suporte no Partner Center](#support) para suas dúvidas.
 
-## <a name="tax-receipts-and-daf"></a>Confirmações de impostos e DAF
+## <a name="tax-receipts-and-daf"></a>Recibos de imposto e DAF
 
 As receitas fiscais (para Taiwan ou Coreia) ou o DAF geralmente exigem duas semanas de prazo após a geração da fatura.
 
@@ -88,7 +88,7 @@ Em seguida, crie um tíquete de suporte para a Microsoft com suas informações 
 2. Na página **solicitação do parceiro** , escolha **nova solicitação**. (Você também pode exibir suas solicitações de suporte abertas e fechadas posteriormente nesta página.)
 3. Na etapa **básico** , em **CSP-cobrança e pagamentos**, escolha **selecionar um tipo de problema** e selecione **solicitação de isenção de imposto**.
 4. Na etapa **soluções** , em **você precisa de mais ajuda?**, escolha **Sim**.
-5. Na etapa **detalhes** , preencha o formulário **detalhes do problema** . É necessário que você:
+5. Na etapa **detalhes** , preencha o formulário **detalhes do problema** . Não se esqueça de:
 
     - Preencha todos os campos obrigatórios.
     - Inclua sua ID da **Microsoft** e a **ID do MPN** no campo de **detalhes** .

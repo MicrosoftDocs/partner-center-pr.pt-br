@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: educação, segmentos especiais
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02cfe0317e4503a58303a24900c17e9b0997f528
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: 24100c6316eb2f4d957562163e1daf0ba15119be
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84426005"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453293"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Como vender ofertas para clientes de educação & como criar um cliente de educação no Partner Center
 
@@ -41,15 +41,15 @@ Este artigo explica como criar um cliente de educação no Partner Center e vend
 
 2. Selecione **clientes** e, em seguida, selecione **Adicionar um cliente**. Selecione **educação** na lista suspensa **qualificações especiais** .  Preencha o restante das informações da conta, conforme necessário.  Os campos-chave que auxiliam o processo habilitação incluem:
 
-   - Nome da empresa: Insira o nome da entidade LEGAL – obrigatório para habilitação
-   - País/região e linhas de endereço: Insira o endereço para correspondência de entidade completa – obrigatório para habilitação
-   - Endereço de email: Insira o email de propriedade da entidade – não é um email gratuito ou on.microsoft.com – obrigatório para habilitação
-   - Informações de contato do cliente: esses detalhes serão usados como parte do processo habilitação
-   - Nome de domínio primário: usado para criar a conta e os endereços de email do cliente.  Escolha um nome semelhante ao nome da empresa sem espaços ou caracteres especiais.  Esse nome não pode ser alterado posteriormente.
+   - **Nome da empresa**: Insira o nome da entidade legal – obrigatório para habilitação
+   - **País/região e linhas de endereço**: Insira o endereço para correspondência de entidade completa – obrigatório para habilitação
+   - **Endereço de email**: Insira o email de propriedade da entidade – não é um email gratuito ou on.Microsoft.com – obrigatório para habilitação
+   - **Informações de contato do cliente**: esses detalhes serão usados como parte do processo habilitação
+   - **Nome de domínio primário**: usado para criar a conta e os endereços de email do cliente.  Escolha um nome semelhante ao nome da empresa sem espaços ou caracteres especiais.  Esse nome não pode ser alterado posteriormente.
 
 3. Quando tiver terminado, selecione **examinar**.
 
-![Conta do cliente de educação](images/eduaccountinfo.png)
+   :::image type="content" source="images/eduaccountinfo.png" alt-text="Conta do cliente de educação":::
 
 ### <a name="confirm-your-education-customers-vetting-status"></a>Confirmar o status do habilitação do cliente de educação
 
@@ -58,15 +58,15 @@ Exemplos de status:
 
 - Se o cliente passou habilitação: educação
 
-   ![Educação habilitação bem-sucedida](images/edupassedvetting.png)
+   :::image type="content" source="images/edupassedvetting.png" alt-text="Educação habilitação bem-sucedida":::
 
 - Se o cliente não passou habilitação: não é um cliente de educação
 
-   ![Educação habilitação malsucedida](images/edudidnotpassvetting.PNG)
+   :::image type="content" source="images/edudidnotpassvetting.png" alt-text="Educação habilitação malsucedida":::
 
 - Se o cliente não tiver sido marcado como um cliente de educação: nenhum
 
-   ![Educação não marcada](images/edunottagged.PNG)
+   :::image type="content" source="images/edunottagged.png" alt-text="Educação não marcada":::
 
 ## <a name="correct-the-customer-account-info-and-resubmit-for-vetting"></a>Corrigir as informações da conta do cliente e reenviar para habilitação  
 
@@ -84,7 +84,7 @@ Você deve ter privilégios de administrador global para atualizar as informaç�
 
 4. Você será redirecionado para o centro de administração do Office 365 em uma nova guia do seu navegador. Talvez seja solicitado que você entre com suas credenciais.
 
-5. Selecione **Configurações**.
+5. Escolha a opção **Configurações**.
 
 6. Selecione a guia **perfil da organização** na parte superior da tela e, em seguida, informações da **organização**. Agora você pode atualizar os detalhes do cliente.
 
