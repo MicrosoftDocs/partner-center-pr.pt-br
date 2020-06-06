@@ -11,12 +11,12 @@ metadata:
   ms.author: isaiahwilliams
   author: iswillia
   ms.topic: tutorial
-  ms.openlocfilehash: dbf5e0dc39a3c6aa2ba8eb0433abd09ae955f311
-  ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
-  ms.translationtype: HT
+  ms.openlocfilehash: 75211a49ba016ca7d75679d3cfac0a1116c5cf20
+  ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+  ms.translationtype: MT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 04/23/2020
-  ms.locfileid: "80136324"
+  ms.lasthandoff: 06/05/2020
+  ms.locfileid: "84453343"
 items:
 - title: Introdução
   durationInMinutes: 5
@@ -99,15 +99,15 @@ items:
 
     Depois de habilitar a política de linha de base *Exigir MFA para administradores*, os usuários que são membros das funções de administrador acima encontrarão uma nova experiência quando entrarem. As figuras a seguir são o que os usuários afetados por esta política enfrentarão
 
-      ![Solicitar mais informações](../images/security/baseline-require-more-info.png)
+      :::image type="content" source="../images/security/baseline-require-more-info.png" alt-text="Solicitar mais informações":::
 
-      ![Validação de segurança adicional](../images/security/baseline-security-verification-setup.png)
+      :::image type="content" source="../images/security/baseline-security-verification-setup.png" alt-text="Validação de segurança adicional":::
 
-      ![Configurar aplicativo móvel](../images/security/baseline-configure-mobile-app.png)
+      :::image type="content" source="../images/security/baseline-configure-mobile-app.png" alt-text="Configurar aplicativo móvel":::
 
-      ![Instalação da validação de segurança adicional concluída](../images/security/baseline-security-verification-setup-completed.png)
+      :::image type="content" source="../images/security/baseline-security-verification-setup-completed.png" alt-text="Instalação da validação de segurança adicional concluída":::
 
-      ![Validação de segurança adicional verificada](../images/security/baseline-security-verification-confirmed.png)
+      :::image type="content" source="../images/security/baseline-security-verification-confirmed.png" alt-text="Validação de segurança adicional verificada":::
 
     Depois que o usuário tiver concluído os requisitos acima, ele poderá entrar no serviço de nuvem da Microsoft que estava tentando acessar.
 - title: Como faço para habilitar a política de linha de base de proteção do usuário final?
@@ -140,14 +140,14 @@ items:
 
     Depois de ter habilitado a política de linha de base *Proteção do usuário final*, todos os usuários encontrarão uma nova experiência quando entrarem. As figuras a seguir são o que os usuários enfrentarão
 
-      ![Solicitar mais informações](../images/security/baseline-require-more-info.png)
+      :::image type="content" source="../images/security/baseline-require-more-info.png" alt-text="Solicitar mais informações":::
 
-      ![Validação de segurança adicional](../images/security/baseline-security-verification-setup.png)
+      :::image type="content" source="../images/security/baseline-security-verification-setup.png" alt-text="Validação de segurança adicional":::
 
-      ![Configurar aplicativo móvel](../images/security/baseline-configure-mobile-app.png)
+      :::image type="content" source="../images/security/baseline-configure-mobile-app.png" alt-text="Configurar aplicativo móvel":::
 
-      ![Instalação da validação de segurança adicional concluída](../images/security/baseline-security-verification-setup-completed.png)
+      :::image type="content" source="../images/security/baseline-security-verification-setup-completed.png" alt-text="Instalação da validação de segurança adicional concluída":::
 
-      ![Validação de segurança adicional verificada](../images/security/baseline-security-verification-confirmed.png)
+      :::image type="content" source="../images/security/baseline-security-verification-confirmed.png" alt-text="Validação de segurança adicional verificada":::
 
     Depois que o usuário tiver concluído os requisitos acima, ele poderá entrar no serviço de nuvem da Microsoft que estava tentando acessar. Observe que, até que os requisitos de segurança do parceiro sejam impostos, os usuários que não forem cobertos pela política de linha de base *Exigir MFA para administradores* só serão consultados para a MFA com base no risco.

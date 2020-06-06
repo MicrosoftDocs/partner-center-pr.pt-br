@@ -1,8 +1,8 @@
 ---
-title: Entenda sua fatura | Centro de parceiros
+title: Como ler o arquivo Bill & reconhecimento
 ms.topic: article
-ms.date: 04/03/2020
-description: Sua fatura é um resumo de todos os encargos do Partner Center (em todo o programa, produtos e clientes) para o período mensal atual.
+ms.date: 06/05/2020
+description: Saiba mais sobre sua fatura & arquivos de reconciliação. Sua fatura mostra cobranças do Partner Center entre o programa, os produtos e os clientes por esse período mensal.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
@@ -10,14 +10,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: cobrança de assinatura, cobrança, cobrança no partner center, ler minha cobrança, fatura, fatura do partner center, fatura do CSP, onde está minha cobrança?
 ms.localizationpriority: medium
-ms.openlocfilehash: d3d225a3290a25636a606465b548382130115472
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: ab5e9667b766566e3af4ddd524805ff31dfc2a59
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798704"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467456"
 ---
-# <a name="understand-your-bill"></a>Entenda sua fatura
+# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Entenda sua fatura e seu arquivo de reconciliação-saiba como encontrá-las no Partner Center
 
 **Aplica-se a**
 
@@ -35,21 +36,21 @@ Sua **fatura** é um **Resumo de todos os seus encargos do Partner Center** (em 
 
 ## <a name="invoice-types"></a>Tipos de fatura
 
-A Microsoft emitirá uma fatura para quaisquer encargos baseados em licença (como o Office 365) e encargos com base no uso (como o Azure) e uma fatura separada para cobranças individuais (como o Azure RI, Marketplace, plano do Azure, etc.). 
+A Microsoft emitirá uma fatura para quaisquer encargos baseados em licença (como o Office 365) e encargos com base no uso (como o Azure) e uma fatura separada para cobranças individuais (como Azure RI, Marketplace ou plano do Azure).
 
 Por exemplo,  
 
-**Cenário 1 [moeda única]**: parceiro tem compras para ofertas de 145P e licenças do O365,  
+**Cenário 1 [moeda única]**: o parceiro tem compras para ofertas de 145P e licenças do O365,  
 
 - O parceiro obterá um PDF de nota fiscal e 2 arquivos de reconciliação que abrangem os encargos do O365 e do Azure (145p).  
 
-**Cenário 2 [moeda única]**: o parceiro tem compras para o Azure ri, o Marketplace e/ou o plano do Azure, juntamente com as compras do 145p. 
+**Cenário 2 [moeda única]**: o parceiro tem compras para o Azure ri, o Marketplace e/ou o plano do Azure, juntamente com as compras do 145p.
 
 - O parceiro obterá um PDF de nota fiscal e um arquivo de reconciliação que abrange os encargos do Azure (145p). 
 
 - O parceiro receberá outro PDF de fatura e um arquivo de reconciliação que abrange seus encargos para o Azure RI, Marketplace, plano do Azure. 
 
-**Cenário 3 [várias moedas]**: parceiro tem compras para o Azure ri em DKK e o plano do Azure em EUR, juntamente com compras 145P em EUR. 
+**Cenário 3 [várias moedas]**: o parceiro tem compras para o Azure ri em DKK e o plano do Azure em EUR, juntamente com compras 145P em EUR.
 
 - O parceiro receberá um PDF de nota fiscal e um arquivo de reconciliação que abrange os encargos para o Azure RI em DKK. 
 
@@ -77,7 +78,7 @@ Você pode encontrar notas fiscais anteriores na seção Histórico de cobrança
 
 **Notas fiscais para encargos de OneTime e recorrente**: faturas de encargos para serviços como o Azure ri, plano do Azure, o Marketplace estará disponível não mais tarde, de 8 a cada mês.  
 
-Abaixo estão alguns dos campos de chave no documento PDF da nota fiscal – 
+Abaixo estão alguns dos campos de chave no documento PDF da nota fiscal –
 
 **Número da nota fiscal**: identificador exclusivo para o documento de nota fiscal gerado para o respectivo período de cobrança. 
 
@@ -95,34 +96,6 @@ Abaixo estão alguns dos campos de chave no documento PDF da nota fiscal –
 
 Para obter uma descrição detalhada de todos os campos em seu arquivo de nota fiscal (incluindo campos para encargos de uma vez), consulte [campos de arquivo de nota fiscal](invoice-file.md). 
 
-## <a name="understand-reconciliation-file"></a>Entender o arquivo de reconciliação 
+## <a name="understand-reconciliation-files"></a>Entender os arquivos de reconciliação
 
  Os arquivos de reconciliação, que fornecem detalhes detalhados/discriminados de seus encargos, estão disponíveis para download junto com o PDF da fatura. Os arquivos de reconciliação incluem identificadores de cliente e identificadores de assinatura que você pode usar para criar faturas de cliente. Veja  [como usar os arquivos de reconciliação](use-the-reconciliation-files.md) para obter mais detalhes sobre os arquivos reconhecimento. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,20 +1,21 @@
 ---
-title: Tipos de encargo de arquivo de reconciliação | Centro de parceiros
+title: Tipos de encargo de arquivo de reconciliação
 ms.topic: article
-ms.date: 01/06/2020
-description: Tipos de encargos (baseados em licença, com base no uso e uma única vez), créditos e descontos em arquivos de reconciliação do Partner Center.
+ms.date: 06/05/2020
+description: Descubra os tipos de encargos (como, baseado em licença, com base no uso e em uma única vez), créditos e descontos em arquivos de reconciliação do Partner Center.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: b18a2a7d53e2f9d35baac2412c1710c21d6d98eb
-ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7a5c227748ba24001288ecbec0a5487d38033897
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "75716867"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467506"
 ---
-# <a name="understand-charge-types"></a>Entender os tipos de encargo
+# <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Entender os diferentes tipos de encargo em arquivos de reconciliação do Partner Center
 
 **Aplica-se a**
 
@@ -25,7 +26,7 @@ ms.locfileid: "75716867"
 
 - Agente administrativo
 - Administrador de cobrança
-- Administração global
+- Administrador global
 
 Este tópico descreve os mapeamentos entre uma seção de fatura e os tipos de encargos associados que podem estar em seu arquivo de reconciliação. Sua fatura fornece um resumo de encargos. O arquivo de reconciliação fornece uma divisão detalhada das transações de item de linha, incluindo tipos de encargo. Para obter mais informações sobre arquivos de reconciliação, consulte [como usar arquivos de reconciliação](use-the-reconciliation-files.md).
 
@@ -46,7 +47,7 @@ Para mapear esses encargos baseados em licenças para sua fatura, some a coluna 
 | ------------------------------------------------------------- | ------------------ |
 | Taxa de ativação | O valor cobrado para o cliente quando ele usa a assinatura após a compra. |
 | Taxa de cancelamento | Encargos rateado reembolsados ao cliente quando as estações associadas são alteradas. |
-| Cancelar ocorrência proporcional | Encargos rateado cancelados quando o cliente com a assinatura mensal tem uma assinatura suspensa e estações associadas foram alteradas no mesmo mês. |
+| Cancelar ocorrência proporcional | Encargos rateado cancelados quando o cliente com a assinatura mensal tem assinatura suspensa e estações associadas foram alteradas no mesmo mês. |
 | Taxa do Ciclo | Cobranças periódicas de uma assinatura. |
 | Proporcional à instância do ciclo | Encargos rateado avaliados do cliente quando as estações associadas são alteradas. |
 | Taxas proporcionais durante o cancelamento | Reembolso rateado para parte não usada do serviço após o cancelamento. |
@@ -56,7 +57,7 @@ Para mapear esses encargos baseados em licenças para sua fatura, some a coluna 
 | Valor de compra | O tipo de encargo para uma assinatura ao usar a cobrança mensal. |
 | Taxa proporcional ao renovar | Taxas rateada após a renovação da assinatura. |
 | Taxa de renovação | Cobrança para renovação de uma assinatura |
-| Taxas proporcionais ao ativar | > taxas rateada da ativação até o término do período de cobrança. |
+| Taxas proporcionais ao ativar | Taxas rateada da ativação até o término do período de cobrança. |
 
 ## <a name="one-time-charges"></a>Encargos de uso único
 
@@ -70,7 +71,7 @@ Para mapear esses encargos de uma vez para sua fatura, some a coluna de **valor*
 | Cancelar | Usado quando uma assinatura é cancelada. |
 | Converter | Usado quando uma licença é atualizada, mas o número de estações permanece inalterado. |
 
-## <a name="usage-charges"></a>Tarifas de uso
+## <a name="usage-charges"></a>Encargos de uso
 
 Para mapear esses encargos de uso para sua fatura, some a coluna **PretaxCharges** do arquivo baseado em uso.
 
@@ -79,7 +80,7 @@ Para mapear esses encargos de uso para sua fatura, some a coluna **PretaxCharges
 | Avaliar a taxa de uso ao cancelar | Taxa de uso de acesso ao cancelamento para uso não pago durante o período de faturamento atual. |
 | Avalie a taxa de uso para o ciclo atual | Taxa de uso de acesso para o período de faturamento atual. |
 
-### <a name="credits"></a>Créditos
+### <a name="credits"></a>Credits
 
 Para mapear esses créditos para sua fatura:
 
@@ -99,7 +100,7 @@ Para mapear esses descontos com base no uso para sua fatura, some a coluna **Pre
 | Desconto de ativação | Desconto aplicado quando a assinatura é ativada. |
 | Desconto de ciclo | Desconto aplicado em encargos periódicos. |
 | Desconto de renovação | Desconto aplicado quando a assinatura é renovada. |
-| Desconto de cancelamento | Encargos aplicados quando os descontos foram cancelados. |
+| Desconto de cancelamento | Encargos aplicados quando descontos são cancelados. |
 
 ### <a name="license-based-discounts"></a>Descontos baseados em licença
 

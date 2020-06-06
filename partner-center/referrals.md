@@ -1,7 +1,7 @@
 ---
-title: Expanda seus negócios com indicações da Microsoft | Partner Center
+title: Amplie seus negócios com as referências da Microsoft
 ms.topic: article
-ms.date: 08/12/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como criar um perfil de negócios para gerar vendas potenciais por meio do recurso de referências do Partner Center e, em seguida, responder a essas referências.
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: indicações, perfil de negócios, encontrar um parceiro
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e4865bd3de1151033aef5b50409261823c289a0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 53499b0a02733cb83ee68b93655e49034da75c33
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943249"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467436"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -22,7 +23,7 @@ ms.locfileid: "74943249"
 
 **Aplica-se a**
 
--  Partner Center
+- Partner Center
 
 Muitos clientes procuram por especialistas qualificados para ajudar a implementar as soluções de negócios e tecnologia da Microsoft. Aqui na Microsoft, recebemos com frequência solicitações diretas de ajuda dos clientes por meio de nossas atividades de marketing e de nossos agentes de vendas internos. Os clientes também usam a experiência [**Localize um provedor de soluções** para](https://www.microsoft.com/solution-providers/search) encontrar empresas que possam ajudá-los a atender às suas necessidades de negócios. 
 

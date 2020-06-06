@@ -1,23 +1,24 @@
 ---
 title: Usar WebHooks para obter eventos de alteração de recurso
 ms.topic: article
-ms.date: 05/08/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Usar as APIs de webhook para descobrir quando as alterações de recursos de referências ocorrem
+description: Use as APIs de webhook do Partner Center para saber quando as alterações de recursos de referências ocorrem para o Dynamics 365 CRM ou o Salesforce CRM.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 keywords: referências, API de webhook, eventos de alteração de recursos
 ms.localizationpriority: medium
-ms.openlocfilehash: 4eb8d03bb8230117457d2a0e27ef10382248008b
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43874556b5f3fd355f5c315bf06ca7daee0a699e
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452733"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467466"
 ---
-# <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Usar APIs de webhook para registrar eventos de alteração de recurso
+# <a name="use-webhook-apis-to-register-for-resource-change-events-for-dynamics-365-crm-and-salesforce-crm"></a>Usar APIs de webhook para registrar eventos de alteração de recursos do Dynamics 365 CRM e do Salesforce CRM
 
 ### <a name="appropriate-roles"></a>Funções apropriadas
 

@@ -1,22 +1,23 @@
 ---
 title: Funcionalidades de fatura direta restritas
 ms.topic: article
-ms.date: 01/24/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Os parceiros de cobrança direto que não atendem ao novo requisito terão recursos diretos de cobrança restritos
+description: Saiba mais sobre os requisitos de parceiro de cobrança direto do CSP e o que fazer para evitar que os recursos sejam restritos. Descubra se seus recursos foram restritos.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: fatura direta, restringir
-ms.openlocfilehash: ae2a1a66f1a93e8b8183a307eca395e9781a00df
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a7213708d598e48d1e7e0534908aed99d84b50de
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362424"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467226"
 ---
-# <a name="restricted-direct-bill-capabilities"></a>Funcionalidades de fatura direta restritas  
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Recursos de cobrança direta restritos e os requisitos necessários para parceiros de cobrança direto do CSP  
 
 ## <a name="overview"></a>Visão geral
 
@@ -42,22 +43,29 @@ Para confirmar se o acesso do locatário do parceiro de cobrança direto para di
 Se seus recursos de fatura direta foram restritos, você não poderá mais fazer novas compras para seus clientes no Partner Center. Essa restrição inclui:
 
 - Assinaturas do Azure
+
 - Assinaturas baseadas em assento
+
 - Adicione novos Complementos a assinaturas baseadas em assento existentes.
+
 - Faça compras unidirecionais de produtos de software e Reserva (por exemplo, assinaturas de software, software permanente e instâncias de máquinas virtuais reservadas do Azure).
 
-Você também não pode adquirir novas assinaturas do Azure para seu próprio uso usando a [oferta de serviços compartilhados de parceiro do Azure](shared-services.md) no programa CSP.
+Você também não pode usar a [oferta de serviços compartilhados de parceiro do Azure](shared-services.md) no programa CSP para comprar novas assinaturas do Azure para seu próprio uso.
 
 As assinaturas de fatura direta existentes não são afetadas. Eles permanecem válidos e são renovados em autorenovação. Você continuará sendo cobrado diretamente pela Microsoft até que eles sejam cancelados. Você ainda pode gerenciar assinaturas existentes das seguintes maneiras:
 
 - Suspender assinaturas existentes
+
 - Ajustar a contagem de estações de assinaturas baseadas em assentos existentes
+
 - Ajustar a contagem de estações de Complementos existentes para uma assinatura. Observação: você não pode adicionar novos Complementos a assinaturas existentes, pois elas são tratadas como uma nova compra.
+
 - Implante novos recursos do Azure e gerencie recursos existentes do Azure em assinaturas do Azure existentes. Isso inclui recursos, que estão disponíveis por meio das assinaturas do Azure Marketplace e do Visual Studio.
 
 Além das novas compras, você não pode acessar os seguintes recursos de fatura direta no Partner Center:
 
 - Você não pode criar novos locatários do cliente. A opção **criar cliente** na página **clientes** no Partner Center não estará disponível.
+
 - Você não pode gerar um convite para o cliente solicitando a relação de revendedor direto. A opção **solicitar um relacionamento do revendedor** na página **clientes** no Partner Center não estará disponível.
 
     >[!Note]

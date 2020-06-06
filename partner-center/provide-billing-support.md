@@ -1,40 +1,43 @@
 ---
-title: Fornecer suporte para a cobrança | Partner Center
+title: Fornecer suporte de cobrança aos clientes
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Você tem a relação de cobrança com seus clientes e oferece suporte completo a qualquer pergunta relacionada à cobrança de seus clientes.
+description: Saiba mais sobre o suporte de cobrança do cliente necessário dos parceiros do programa CSP. Isso inclui a propriedade da relação de cobrança do cliente e a resposta a perguntas de cobrança.
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8add485ad2c9bf8ef8d3c36f7420242b624afcdf
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3f0a190c7ff2215d32ca556613650a4780289481
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798724"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467486"
 ---
-# <a name="provide-billing-support"></a>Fornecer suporte para a cobrança
+# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Fornecer suporte de cobrança para seus clientes e ajudar a responder suas perguntas de cobrança
 
 **Aplica-se a**
 
--  Partner Center
--  Partner Center do Microsoft Cloud for US Government
+- Partner Center
+- Partner Center do Microsoft Cloud for US Government
 
 **Funções apropriadas**
--   Administrador global
--   Administrador de usuários
--   Agente de suporte técnico
--   Administrador de cobrança
--   Agente de vendas
+- Administrador global
+- Administrador de usuários
+- Agente de suporte técnico
+- Administrador de cobrança
+- Agente de vendas
 
 Você possui a relação de cobrança com seus clientes e é responsável por responder a dúvidas relacionadas à cobrança de seus clientes.
 
--   Você é responsável pelo pagamento em dia à Microsoft.
--   Recomendamos estabelecer uma política de cobrança clara que detalhe para os clientes seu processo de cobrança e quando o acesso às assinaturas, serviços ou software do cliente será afetado.
--   Se necessário, você pode desabilitar o acesso do cliente a um produto por falta de pagamento.
+- Você é responsável pelo pagamento em dia à Microsoft.
+
+- Recomendamos estabelecer uma política de cobrança clara que detalhe para os clientes seu processo de cobrança e quando o acesso às assinaturas, serviços ou software do cliente será afetado.
+
+- Se necessário, você pode desabilitar o acesso do cliente a um produto por falta de pagamento.
 
 ## <a name="microsoft-partner-support-guidance"></a>Diretrizes de suporte para parceiros da Microsoft
 
@@ -48,19 +51,20 @@ Para atender ao requisito de suporte, o parceiro pode revender suporte de outra 
 Os parceiros são obrigados a receber solicitações de suporte recebidas de clientes, diagnosticar problemas para o melhor da capacidade do parceiro e, em seguida, resolver problemas que estão dentro do escopo dos limites de suporte de linha de base. Se o parceiro for incapaz de resolver um problema, poderá encaminhá-lo à Microsoft por meio dos seguintes veículos de suporte:
 
 - O suporte a problemas **comerciais** está disponível para todos os parceiros do programa CSP
--   O suporte a problemas **técnicos** está disponível por meio de:
-    -   Suporte Premier para Parceiros (baseado em tarifas)
-    -   Suporte Avançado para Parceiros (baseado em tarifas)
-    -   Assinatura de Suporte à Nuvem (incluída na competência Gold/Silver)
+
+- O suporte a problemas **técnicos** está disponível por meio de:
+
+  - Suporte Premier para Parceiros (baseado em tarifas)
+  - Suporte Avançado para Parceiros (baseado em tarifas)
+  - Assinatura de Suporte à Nuvem (incluída na competência Gold/Silver)
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Como fornecer suporte técnico, gerenciamento de assinaturas e cobrança 
 
-Cada serviço online tem requisitos específicos e detalhados para fornecer suporte técnico, gerenciamento de assinaturas e cobrança aos clientes. Consulte os documentos abaixo para obter mais informações.
+Cada serviço online tem requisitos específicos e detalhados para fornecer suporte técnico, gerenciamento de assinaturas e cobrança aos clientes. Para obter mais informações, consulte:
 
--   [Assinaturas do Dynamics 365 vendidas por meio de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+- [Assinaturas do Dynamics 365 vendidas por meio de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [Assinaturas do Azure vendidas por meio de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+- [Assinaturas do Azure vendidas por meio de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [Assinaturas do Office 365 vendidas por meio de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+- [Assinaturas do Office 365 vendidas por meio de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
-

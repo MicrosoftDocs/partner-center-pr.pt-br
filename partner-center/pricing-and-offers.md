@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e92964b2b75a0ee4e9943740ba4da4aa71c82f9f
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: abb04f21a50cbbef83418a8e2fec480a0020c443
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328287"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467536"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preços e ofertas para o Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure e muito mais
 
@@ -122,3 +122,32 @@ O escopo de limite de oferta é registrado como uma coluna na matriz da lista de
 ### <a name="taxes-and-pricing"></a>Impostos e preços
 
 Todos os preços em listas de preços do CSP do Partner Center são incluídos no imposto. Para obter mais informações sobre os impostos do documento do Partner Center [e as isenções fiscais](tax-and-tax-exemptions.md).
+
+## <a name="multi-year-term-offers"></a>Ofertas de termo de vários anos
+
+### <a name="36-month-offers"></a>ofertas de 36 meses
+
+Há aproximadamente 50 ofertas do Dynamics que têm termos de três anos. Elas são identificadas por **(36 mo)** no título das ofertas. Essas ofertas são muito semelhantes às ofertas de termo anual. A única diferença está em relação ao seu termo. Essas ofertas têm um termo de três anos, o que significa que as assinaturas são renovadas automaticamente após três anos, em vez de uma. Veja abaixo um resumo de como essas ofertas funcionam:
+
+- Os termos são 36 meses, as assinaturas serão renovadas automaticamente após três anos
+- Os parceiros podem cancelar ou alterar o número de licenças durante o período da assinatura
+- A renovação anual terá o preço do tempo de compra para o termo de três anos
+- A frequência de cobrança ainda é anual ou mensal
+
+### <a name="72-month-offers"></a>ofertas de 72 meses
+
+Microsoft 365 oferta de base a1 tem um período de seis anos.  Os complementos do Office 365 a1 estão disponíveis após a compra dessa oferta base. 
+
+|**Nome da oferta**   |**ID da oferta**   |**Tipo**|
+|-------------------|-----------------------|----------------------------|
+|Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Oferta base|
+|Office 365 a1 para docentes (para dispositivo)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Complemento|
+|Office 365 a1 para estudantes (para dispositivo)|bae285a9-d56b-4384-b02f-38adc61a6f12|Complemento|
+
+Veja abaixo um resumo de como essas ofertas funcionam:
+
+- O termo é por 72 meses ou 6 anos
+- A assinatura não é renovada e expira após 6 anos
+- A frequência de cobrança na oferta é mostrada como anual, mas o parceiro é cobrado antecipadamente em sua primeira fatura depois de adquirir a assinatura
+- As assinaturas de ofertas a1 de 72 meses são bloqueadas após a compra e não podem ser canceladas e as contagens de licenças não podem ser adicionadas à assinatura após a compra inicial
+- Os parceiros que precisam cancelar a necessidade de criar um tíquete de suporte com o motivo do cancelamento e a ID da assinatura com a qual precisam de ajuda.

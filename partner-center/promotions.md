@@ -1,52 +1,57 @@
 ---
-title: Use promoções para atrair novos clientes | Partner Center
+title: Use promoções para atrair clientes
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Como um parceiro da Microsoft no programa provedor de soluções na nuvem, você pode adquirir assinaturas no preço da promoção e repassar a economia para seus clientes.
+description: Descubra como os parceiros da Microsoft no programa de provedor de soluções de nuvem podem comprar assinaturas em preços de promoção e passar a economizar para seus clientes.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3d43853c149f00ba284065a05ff5e6585beb4495
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 89e552e87f24caa43e0875afa2b7bea6e870c406
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798734"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467496"
 ---
-# <a name="use-promotions-to-attract-new-customers"></a>Use promoções para atrair novos clientes  
+# <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Use promoções para atrair novos clientes e passar a economia para eles
 
-**Aplicável ao: Partner Center**
+**Aplica-se a**
+
+- Partner Center
+- Parceiros no programa CSP (Provedor de Soluções na Nuvem)
 
 **Funções apropriadas**
--   Agente administrativo
--   Administrador de parceiros do MPN
--   Administrador de cobrança
--   Agente de vendas
+
+- Agente administrativo
+- Administrador de parceiros do MPN
+- Administrador de cobrança
+- Agente de vendas
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
 Ocasionalmente, a Microsoft oferece promoções em assinaturas baseadas em licença, permitindo que você repasse a economia para os clientes e expanda seus negócios. 
 
-A Microsoft oferece dois tipos de promoções; as disponíveis para todos os parceiros elegíveis no programa Provedor de Soluções na Nuvem (CSP), e as disponíveis somente para parceiros em uma determinada região geográfica.
+A Microsoft oferece dois tipos de promoções: aqueles disponíveis para todos os parceiros qualificados no programa CSP (provedor de soluções na nuvem) e aqueles disponíveis somente para parceiros em uma região geográfica específica.
 
 Os preços das promoções são automaticamente aplicados ao seu preço líquido na compra de novas assinaturas no preço da promoção. Além disso, quaisquer licenças que você adicionar a uma assinatura adquirida com o preço promocional é adicionada ao preço da promoção. 
 
 Reserve um momento para examinar esses fatos importantes sobre as promoções:
 
--   O preço da promoção de uma assinatura se aplica somente durante a assinatura. Quando uma assinatura comprada com preços promocionais expira, o preço da assinatura de renovação é revertido para o preço na lista de preços. Isso significa que todas as assinaturas configuradas para renovação automática serão renovadas pelo preço em vigor. Você pode encontrar a lista de preços na página **Preços e ofertas**. 
+- O preço da promoção de uma assinatura se aplica somente durante a assinatura. Quando uma assinatura comprada com preços promocionais expira, o preço da assinatura de renovação é revertido para o preço na lista de preços. Isso significa que todas as assinaturas configuradas para renovação automática serão renovadas pelo preço em vigor. Você pode encontrar a lista de preços na página **Preços e ofertas**.
 
--   Se uma assinatura é qualificada para várias promoções, a promoção com a porcentagem mais alta é aplicada automaticamente.
+- Se uma assinatura é qualificada para várias promoções, a promoção com a porcentagem mais alta é aplicada automaticamente.
 
--   Cancelamentos seguem o mesmo processo e políticas das assinaturas com preço regular
+- Cancelamentos seguem o mesmo processo e políticas das assinaturas com preço regular
 
 ## <a name="see-available-promotions"></a>Consultar promoções disponíveis
 
-Você pode ver a quais promoções você está qualificado, se houver, na sua página de **promoções** . Selecione **promoções** no menu do **centro de parceiros** para ver uma lista de promoções atuais, juntamente com o desconto, o tipo de promoção e as datas de início e término da assinatura. Se nenhuma promoção estiver disponível, você verá uma mensagem indicando isso. 
+Você pode ver a quais promoções você está qualificado, se houver, na página **Promoções**. Selecione **promoções** no menu do **centro de parceiros** para ver uma lista de promoções atuais, juntamente com o desconto, o tipo de promoção e as datas de início e término da assinatura. Se nenhuma promoção estiver disponível, você verá uma mensagem indicando isso. 
 
 > [!NOTE]  
-> Você também pode ver promoções ao realizar uma compra. Quando você seleciona uma assinatura, a porcentagem do desconto aparece na página **Revisão**.
+> Você também pode ver promoções ao fazer uma compra. Quando você seleciona uma assinatura, o preço da promoção aparece na página **Revisão**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Adquirir assinaturas com desconto
 
@@ -60,7 +65,6 @@ Você pode ver a quais promoções você está qualificado, se houver, na sua p�
 
 5. Revise o pedido. Você verá os preços da promoção que será aplicado na coluna **Desconto**.  
 
-6.  Selecione **Submeter** para comprar. Seu cliente verá o preço com desconto em sua próxima fatura.  
-
+6. Selecione **Enviar** para comprar. Seu cliente verá o preço com desconto em sua próxima fatura.  
 
 

@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, migração, mover para o Partner Center
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b7efe2dbc0a616a4ccd46894faae56a81514d996
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 8a4a664c957d7a6d6d1621b64ba18f3545ef72bb
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795781"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453183"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Movendo várias empresas para o Partner Center do Partner Membership Center (PMC)
 
@@ -42,13 +42,13 @@ Após a migração, se você descobrir que a conta da empresa errada foi designa
 
 4. Selecione o negócio e a região e salve-os.
 
-![Conta existente](images/migration/accountwithus.png)
+:::image type="content" source="images/migration/accountwithus.png" alt-text="Conta existente":::
 
 ## <a name="your-company-has-an-account-in-partner-center"></a>Sua empresa tem uma conta no Partner Center
 
 Você verá sua conta existente e uma nota informando que os dados da sua empresa (a conta com a qual você está entrando no momento) serão consolidados nessa conta.
 
-![Conta no Partner Center](images/migration/existingaccount2.png)
+:::image type="content" source="images/migration/existingaccount2.png" alt-text="Conta no Partner Center":::
 
 Esta tela mostra os dados da conta existente (nome e endereço) que já foi criada no Partner Center junto com os dados do contato principal.
 
@@ -76,7 +76,7 @@ Verifique as informações sobre sua empresa e edite se necessário.  Esses dado
 
 Os dados são baseados nas informações no PMC e serão verificados para garantir que a empresa é legítima.
 
-![Analisar dados](images/migration/review.png)
+:::image type="content" source="images/migration/review.png" alt-text="Examinar detalhes":::
 
 Se a conta que você está movendo estiver no mesmo país ou região que a conta existente, você poderá decidir se deseja usar esse endereço ou adicionar outro. Se você decidir usar um endereço diferente, esse endereço será verificado. Se você quiser usar o mesmo endereço, o endereço existente e o contato principal serão usados.
 
@@ -88,7 +88,7 @@ Ao exibir seu perfil, você verá as informações do seu negócio jurídico (no
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Migração do PMC para o Partner Center](move-pmc-pc-map.md)
+- [Mover do PMC para o Partner Center](move-pmc-pc-map.md)
 - [Criar contas de usuário](create-user-accounts-and-set-permissions.md)
 - [Atribuir funções e permissões de usuário](permissions-overview.md)
 - [Gerenciar seus programas de associação](renew-mpn-offers.md)

@@ -1,28 +1,28 @@
 ---
-title: Relate problemas com o Partner Center | Partner Center
+title: Relatar problemas com o Partner Center
 ms.topic: article
-ms.date: 10/04/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Como relatar problemas com o Partner Center e coletar informações de diagnóstico para nossa equipe de suporte.
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1542813229c062e298e40a4874543774796ec2da
-ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c43c4b452c7df7f28869ead32e60c8e7f2fa512a
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "79023478"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467386"
 ---
-# <a name="report-problems-with-partner-center"></a>Relate problemas com o Partner Center
+# <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Como relatar problemas com o Partner Center e enviar quaisquer informações de log ou diagnóstico
 
 **Aplica-se a**
 
-- Centro de Parceiros
+- Partner Center
 - Partner Center do Microsoft Cloud for US Government
-
 
 Contate o suporte do Partner Center se você encontrar problemas ou precisar de ajuda com o Partner Center.
 
@@ -36,14 +36,14 @@ Contate o suporte do Partner Center se você encontrar problemas ou precisar de 
 
 4. Se as **soluções recomendadas** resolverem o problema, você poderá selecionar **retornar ao painel**. Se você ainda precisar de ajuda, poderá continuar e **fornecer detalhes do problema**.
 
-5. Preencha os **detalhes do problema** e **envie**. Um representante de suporte de parceiro acompanhará você...
+5. Preencha os **detalhes do problema** e **envie**. Um representante do Suporte do Parceiro entrará em contato com você.
 
 **Enviar diagnóstico**
 
-Se ocorrer um erro enquanto você estiver em uma página do Partner Center, você poderá ser solicitado a coletar informações de log. Selecione **Coletar mais informações** no link que aparece na parte superior da página para abrir a ferramenta Diagnóstico do Cliente. Essa ferramenta coleta informações de que a equipe de Suporte do Parceiro precisa para determinar a causa do erro. 
+Se ocorrer um erro enquanto você estiver em uma página do Partner Center, você poderá ser solicitado a coletar informações de log. Selecione **coletar mais informações** do link que cai da parte superior da página para abrir a ferramenta de diagnóstico do cliente. Essa ferramenta coleta informações de que a equipe de Suporte do Parceiro precisa para determinar a causa do erro. 
 
 >[!NOTE]
->Em páginas do Partner Center que incluem **/pcv/** na URL, você pode abrir a ferramenta manualmente para coletar essas informações.
+>Em páginas do centro de parceiros que incluem **/PCV/** na URL, você pode abrir a ferramenta manualmente para coletar essas informações.
 
 1. Acesse a página que está com problema.
 
