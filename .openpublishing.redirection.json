@@ -302,8 +302,13 @@
   },
   {
     "source_path": "partner-center/vvr-faq.md",
-    "redirect_url": "/partner-center/software-assurance-dps.md",
+    "redirect_url": "/partner-center/software-assurance-dps",
     "redirect_document_id": "FALSE"
   },
+  {
+    "source_path": "partner-center/customers_revoke_admin_privileges.md",
+    "redirect_url": "/partner-center/customers-revoke-admin-privileges",
+    "redirect_document_id": "TRUE"
+  }
  ]
 }
