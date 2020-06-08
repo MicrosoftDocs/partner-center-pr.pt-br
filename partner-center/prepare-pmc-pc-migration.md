@@ -1,19 +1,20 @@
 ---
 title: Migrando do Partner Membership Center
 ms.topic: article
-ms.date: 05/19/2020
+ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Examine informações úteis e perguntas frequentes antes de migrar o seu negócio do Partner Membership Center para o Partner Center.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 0c1fc9530a978e7202d7a0d58a574546b10c91e9
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a6e188bbd86b066152f90be90d92abb2539f38b3
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795841"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328307"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Preparar a migração do PMC (Partner Membership Center) para o Partner Center
 
