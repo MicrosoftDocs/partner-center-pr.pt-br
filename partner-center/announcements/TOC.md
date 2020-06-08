@@ -1,0 +1,6 @@
+# [Comunicados do Partner Center](index.md)
+# [Maio de 2020](2020-may.md)
+# [Abril de 2020](2020-april.md)
+# [Março de 2020](2020-march.md)
+# [Fevereiro de 2020](2020-february.md)
+# [Janeiro de 2020](2020-january.md)
