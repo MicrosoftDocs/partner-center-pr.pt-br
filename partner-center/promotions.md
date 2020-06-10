@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89e552e87f24caa43e0875afa2b7bea6e870c406
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: ce28103892771dc7c27fe081f2d70740b66bfa19
+ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467496"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84633786"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Use promoções para atrair novos clientes e passar a economia para eles
 
@@ -30,7 +30,6 @@ ms.locfileid: "84467496"
 - Administrador de cobrança
 - Agente de vendas
 
-<!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
 Ocasionalmente, a Microsoft oferece promoções em assinaturas baseadas em licença, permitindo que você repasse a economia para os clientes e expanda seus negócios. 
 

@@ -1,20 +1,21 @@
 ---
-title: Cobrança baseada em uso | Centro de parceiros
+title: Cobrança baseada em uso
 ms.topic: article
-ms.date: 11/21/2019
-Description: Informações sobre a cobrança baseada em uso no Partner Center, em que você será cobrado por taxas de uso mensais.
+ms.date: 06/05/2020
+Description: Saiba mais sobre a cobrança baseada em uso no Partner Center, em que você será cobrado por taxas de uso mensais.
 author: LauraBrenner
 ms.author: labrenne
 keywords: cobrança, uso com base no uso
 ms.localizationpriority: medium
-ms.openlocfilehash: d7828dc09037dd5fdd33f0650e324aef8ec294d9
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4e3b7c3d9e31203ff56c191957b60772e04feec9
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797664"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603865"
 ---
-# <a name="usage-based-billing"></a>Cobrança baseada em uso
+# <a name="understand-usage-based-billing-for-monthly-pay-as-you-go-consumption-of-services"></a>Entenda a cobrança baseada em uso para consumo mensal de serviços por meio de pagamento
 
 - Partner Center
 - Parceiros no programa CSP
@@ -27,7 +28,7 @@ Alguns produtos e serviços da Microsoft usam um modelo de cobrança "pré-pago"
 
 Somente a **cobrança mensal** está disponível para produtos baseados em uso. Para obter mais informações sobre cobrança mensal, consulte [diferenças de cobrança mensal e anual](billing-annual-monthly.md).
 
-As assinaturas baseadas em uso são cobradas mensalmente, em pelos débitos anteriores, na **data de aniversário da assinatura**. Por exemplo, se a data de aniversário da assinatura for a 15, você será cobrado em 15 de Janeiro para o período de serviço de 15 de dezembro a 14 de Janeiro. Você será cobrado novamente em 15 de fevereiro para o período de serviço de 15 de janeiro a 14 de fevereiro. 
+As assinaturas baseadas em uso são cobradas mensalmente, em pelos débitos anteriores, na **data de aniversário da assinatura**. Por exemplo, se a data de aniversário da assinatura for a 15, você será cobrado em 15 de Janeiro para o período de serviço de 15 de dezembro a 14 de Janeiro. Você será cobrado novamente em 15 de fevereiro para o período de serviço de 15 de janeiro a 14 de fevereiro.
 
 ## <a name="usage-charges"></a>Encargos de uso
 

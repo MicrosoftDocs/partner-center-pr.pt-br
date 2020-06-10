@@ -1,25 +1,26 @@
 ---
-title: Trabalhar com outros parceiros | Partner Center
+title: Trabalhar com outros parceiros
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os provedores indiretos são parceiros com revendedores indiretos no programa CSP (provedor de soluções na nuvem) e determinam qual é a função certa para você.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ec371ca444ed951ac3d3272a85c088f91d1db97
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e3b2ccd077b745e8ec17a046a2dbaec541567d6b
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253933"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603835"
 ---
-# <a name="work-with-other-partners"></a>Trabalhar com outros parceiros
+# <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Diferentes maneiras pelas quais você pode trabalhar com outros parceiros no Partner Center
 
 **Aplica-se a**
 
--  Partner Center
+- Partner Center
 
 O programa CSP (provedor de soluções na nuvem) da Microsoft oferece oportunidades para que os parceiros trabalhem juntos dessa maneira.
 
@@ -33,7 +34,7 @@ Fornecedores indiretos (também conhecidos como distribuidores) compram produtos
 
 Se você for um fornecedor indireto aprovado no CSP, consulte [Parceiro com revendedores indiretos no CSP](indirect-provider-tasks-in-partner-center.md) para saber mais sobre como conectar com revendedores indiretos e clientes. 
 
-### <a name="indirect-resellers"></a>Revendedores indiretos 
+### <a name="indirect-resellers"></a>Revendedores indiretos
 
 Revendedores indiretos trabalham com fornecedores indiretos que têm uma relação direta com a Microsoft e infraestrutura para fornecer suporte ao cliente e cobrança. A parceria com fornecedores indiretos permite que os vendedores indiretos trabalhem com fornecedores de tecnologia experientes para ir ao mercado sem ter de fazer um grande investimento de capital, e para oferecer um portfólio mais amplo de soluções da Microsoft. 
 

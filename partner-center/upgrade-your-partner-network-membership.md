@@ -1,5 +1,5 @@
 ---
-title: Atualizar sua associação ao Microsoft Partner Network
+title: Atualizar uma associação de Microsoft Partner Network
 description: Qualifique-se para benefícios exclusivos ao atualizar sua associação do MPN para uma associação de assinatura do Microsoft Action Pack ou competências da Microsoft.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,14 +9,15 @@ ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
 ms.date: 03/19/2020
-ms.openlocfilehash: f39e92c64841bc541f6f72256aece4f0a1da3e1d
-ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a69a7486ea40f5a52dca8cf0de4109bee3bda5e2
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83369253"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603875"
 ---
-# <a name="upgrade-your-microsoft-partner-network-membership"></a>Atualizar sua associação ao Microsoft Partner Network
+# <a name="upgrade-your-microsoft-partner-network-membership-and-explore-new-offers-programs-and-resources"></a>Atualize sua associação de Microsoft Partner Network e Explore novas ofertas, programas e recursos
 
 **Aplica-se a**
 
@@ -69,7 +70,7 @@ Para obter mais informações sobre o Microsoft Action Pack, acesse [https://par
 
 7. Sua ordem foi confirmada. Selecione **Fechar**.
 
-Sua assinatura do Action Pack será renovada automaticamente todos os anos nesta data. Você pode desativar a renovação automática a qualquer momento de sua lista de ofertas compradas; No entanto, você não poderá ativar a renovação automática de assinatura novamente até que renove sua assinatura novamente.
+   Sua assinatura do Action Pack será renovada automaticamente todos os anos nesta data. Você pode desativar a renovação automática a qualquer momento de sua lista de ofertas compradas; No entanto, você não poderá ativar a renovação automática de assinatura novamente até que renove sua assinatura novamente.
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Desativar a renovação automática da assinatura do Action Pack
 

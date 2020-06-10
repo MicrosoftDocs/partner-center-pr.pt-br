@@ -1,25 +1,27 @@
 ---
-title: Gerenciamento de usuários e licenças no Partner Center do Microsoft Cloud for US Government | Partner Center do Microsoft Cloud for US Government
+title: Gerenciamento de licenças e usuários
+titleSuffix: Microsoft Cloud for US Government - Partner Center
+description: Saiba como e onde gerenciar o Partner Center para Microsoft Cloud para parceiros, clientes e licenças do governo dos EUA, bem como redefinições de senha.
 ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como e onde gerenciar o Partner Center para Microsoft Cloud para parceiros, clientes e licenças do governo dos EUA, bem como redefinições de senha.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 93b8525861069607ca66770b371cd3f9a3e109e7
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: fa8340c2d8a110769b7918e4e3703d131fad8a60
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797584"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603576"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Gerenciamento de licença e usuários no Partner Center do Microsoft Cloud for US Government
 
 **Aplica-se a**
 
--  Partner Center do Microsoft Cloud for US Government
+- Partner Center do Microsoft Cloud for US Government
 
 As tarefas a seguir são gerenciadas no portal de administração do Microsoft Azure para Microsoft Cloud para o governo dos EUA:
 

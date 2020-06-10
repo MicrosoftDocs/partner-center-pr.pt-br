@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, migração, mover para o Partner Center
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a4a664c957d7a6d6d1621b64ba18f3545ef72bb
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: d021946fa09a046cdff10bcf1ca8dc25558063c8
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453183"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603775"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Movendo várias empresas para o Partner Center do Partner Membership Center (PMC)
 
@@ -75,6 +75,7 @@ Selecione **Continuar**.
 Verifique as informações sobre sua empresa e edite se necessário.  Esses dados serão usados para migrar sua conta para o Partner Center; portanto, verifique se os dados estão corretos.
 
 Os dados são baseados nas informações no PMC e serão verificados para garantir que a empresa é legítima.
+
 
 :::image type="content" source="images/migration/review.png" alt-text="Examinar detalhes":::
 

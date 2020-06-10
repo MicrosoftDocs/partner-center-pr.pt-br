@@ -1,26 +1,27 @@
 ---
-title: Usar seus arquivos de reconciliação | Centro de parceiros
+title: Usar seus arquivos de reconciliação
 ms.topic: article
-ms.date: 11/21/2019
-description: Use seus arquivos de reconciliação para entender as exibições detalhadas do item de linha dos encargos do Partner Center.
+ms.date: 06/08/2020
+description: Saiba mais sobre os arquivos de reconciliação no Partner Center e como interpretar as exibições detalhadas de item de linha de encargos para um determinado ciclo de cobrança.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6bb65718159019c9ae47aa384524d9d52043d39b
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a53a0f3d37183c67d5d1d44472192ed15f6ed62e
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114958"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603795"
 ---
-# <a name="use-your-reconciliation-files"></a>Usar seus arquivos de reconciliação
+# <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Saiba como ler os itens de linha em seus arquivos de reconciliação do Partner Center
 
 Aplica-se a:
 
-- Centro de Parceiros
+- Partner Center
 - Partner Center do Microsoft Cloud for US Government
 
 Você pode baixar seus arquivos de reconciliação do Partner Center para obter uma exibição detalhada de item de linha de cada encargo em um ciclo de cobrança. Os detalhes do item de linha incluem encargos para as assinaturas de cada cliente e eventos detalhados (como uma adição de estações de mercado para uma assinatura).
@@ -28,7 +29,7 @@ Você pode baixar seus arquivos de reconciliação do Partner Center para obter 
 Funções apropriadas:
 
 - Administrador de cobrança
-- Administração global
+- Administrador global
 
 Para obter informações sobre como ler sua **fatura**, consulte [ler sua fatura](read-your-bill.md).
 
@@ -55,7 +56,7 @@ Siga estas etapas para corrigir quaisquer problemas de formatação em seus arqu
 4. No assistente, selecione **tipo de arquivo delimitado**. Em seguida, selecione **Avançar**.
 5. No campo **delimitadores** , selecione **vírgula**. (Se a **guia** já estiver selecionada, você poderá deixar essa opção selecionada.) Em seguida, selecione **Avançar**.
 6. No campo **formato de dados da coluna** , selecione **Data: MDY**. Em seguida, selecione **Avançar**.
-7. No campo **formato de dados da coluna** , selecione **texto** para todas as colunas de valor. Em seguida, selecione **concluir**.
+7. No campo **formato de dados da coluna** , selecione **texto** para todas as colunas de valor. Em seguida, selecione **Concluir**.
 
 ## <a name="download-reconciliation-files-programmatically"></a>Baixar arquivos de reconciliação programaticamente
 
@@ -72,9 +73,9 @@ Para mapear impostos ou IVA (imposto sobre valor agregado) para sua fatura:
 
 Os parceiros no **modelo indireto** podem usar esses campos adicionais em arquivos de reconciliação baseados em licença e de uso para discriminar os arquivos pelo revendedor.
 
-| ID do MPN | Descrição |
+| ID MPN | Descrição |
 | ------ | ----------- |
-| ID do MPN | O identificador de Microsoft Partner Network (MPN) do parceiro CSP (provedor de soluções na nuvem) (direto ou indireto). |
+| ID MPN | O identificador de Microsoft Partner Network (MPN) do parceiro CSP (provedor de soluções na nuvem) (direto ou indireto). |
 | [ID do MPN do revendedor](#reseller-mpn-id) | O [identificador de MPN do revendedor do registro para a assinatura](#reseller-mpn-id). Este campo corresponde à ID do revendedor listada para a assinatura específica no Partner Center. Só aparece em arquivos de reconciliação para parceiros no modelo indireto. |
 
 ### <a name="reseller-mpn-id"></a>ID do MPN do revendedor
@@ -87,9 +88,9 @@ Se o parceiro CSP remover uma **ID de MPN do revendedor**, esse valor será defi
 
 Para exibir ou atualizar a **ID de MPN do revendedor**:
 
-1. Entre no Partner Center.
+1. Conecte-se ao Partner Center.
 2. No menu Partner Center, selecione **Clientes**.
 3. Escolha o cliente na lista.
 4. No menu cliente, selecione **assinaturas**.
 5. Escolha a assinatura na lista.
-6. Selecione **Atualizar** para alterar o **Revendedor (ID do MPN)** .
+6. Selecione **Atualizar** para alterar o **Revendedor (ID do MPN)**.
