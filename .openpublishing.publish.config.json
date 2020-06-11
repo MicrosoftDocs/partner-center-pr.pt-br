@@ -37,7 +37,7 @@
     }
   ],
   "notification_subscribers": [
-    "evansma@microsoft.com"
+    ""
   ],
   "branches_to_filter": [
     "live",
@@ -93,7 +93,6 @@
   },
   "need_generate_pdf_url_template": true,
   "need_generate_pdf": false,
-  "need_generate_intellisense": false,
   "docs_build_engine": {
     "name": "docfx_v3"
   }
