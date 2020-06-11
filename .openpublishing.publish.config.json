@@ -37,7 +37,7 @@
     }
   ],
   "notification_subscribers": [
-    "evansma@microsoft.com"
+    ""
   ],
   "branches_to_filter": [
     "live",
