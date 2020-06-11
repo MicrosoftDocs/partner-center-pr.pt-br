@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: fatura direta, transição, revendedor indireto
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f3f87014e76ea32bf15d3e0147d5e40c3a5ebefc
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 05c26bdb7a8689e9b0964e19c89685cb67260ca6
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458402"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679443"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transição do parceiro de fatura direto do CSP (Provedor de Soluções na Nuvem) para o revendedor indireto do CSP
 
@@ -225,15 +225,13 @@ Em modelo indireto do CSP, revendedores indiretos não têm relações de cobran
 
 ### <a name="pre-requisites"></a>Pré-requisitos
 
-Antes de usar o recurso, observe o seguinte:
-
 - Este recurso só está disponível para a transição de parceiros que concluíram o registro indireto do revendedor usando seus locatários de parceiro de conta direta existentes
 
 - Antes de transferir assinaturas associadas a um determinado cliente, o parceiro de transição deve mover o cliente para um provedor indireto.
 
-- O cliente [aceitou o contrato de cliente da Microsoft por meio do provedor indireto](#microsoft-customer-agreement-acceptance).
+- O cliente deve ter [aceito o contrato com o cliente da Microsoft por meio do provedor indireto](#microsoft-customer-agreement-acceptance).
 
-### <a name="how-to-transition-to-indirect-reseller-status"></a>Como fazer a transição para o status de revendedor indireto
+### <a name="how-to-transition-to-indirect-reseller-status"></a>Como fazer a transição para o status indireto do revendedor
 
 O recurso é um processo de 4 etapas, em que:
 
@@ -322,7 +320,7 @@ Para examinar e aceitar uma solicitação de transferência como o provedor indi
 
 O parceiro de transição deve fazer o seguinte:
 
-1. Faça logon no Partner Center como um agente de **Administração** ou **agente de vendas**.
+1. Entre no Partner Center como um **agente de administração** ou **agente de vendas**.
 
 2. Na página **clientes** , selecione o cliente desejado e clique no ícone **links rápidos** para expandir a exibição de resumo do cliente.
 

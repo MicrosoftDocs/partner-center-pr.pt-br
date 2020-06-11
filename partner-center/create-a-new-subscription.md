@@ -11,12 +11,12 @@ ms.author: labrenne
 ms.custom: SEOAPR.20
 Keywords: assinatura, criar novo, adicionar assinatura, suspender, cancelar, suspensão, suspender, SaaS, licença, ISV, terceiros
 ms.localizationpriority: medium
-ms.openlocfilehash: 969093b1ce3ba6936800ea91fd066d73b51701c7
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: 7f8b3e6c444f8aeb59a55d6e7feb881eb6f99a5e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394146"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679053"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Criar, suspender ou cancelar assinaturas de clientes
 
@@ -43,7 +43,7 @@ Algumas ofertas são limitadas a uma assinatura por cliente. Para ver uma lista 
 
 ## <a name="create-a-new-subscription"></a>Criar uma nova assinatura
 
-1. Entre no [painel do Partner Center](https://partner.microsoft.com/dashboard).
+1. Entre no [painel Partner Center](https://partner.microsoft.com/dashboard).
 
 2. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
 
@@ -73,7 +73,10 @@ Algumas ofertas são limitadas a uma assinatura por cliente. Para ver uma lista 
     - Você pode revisar ou editar a assinatura selecionando o nome da assinatura na página de **assinaturas** do cliente. A partir daqui, você pode selecionar licenças de complemento, se houver alguma disponível, alterar a quantidade de licenças ou suspender a assinatura.
 
     **Para assinaturas do SaaS do ISV (baseadas em licença):**
-    - Você receberá um link para o site do fornecedor ISV. Esse link deve ajudá-lo a concluir a configuração de implantação ou conta da assinatura do cliente. (Observe que nem você nem seu cliente receberá um email com instruções para concluir a configuração/provisionamento de conta para esse tipo de assinatura de ISV.)
+    - Você receberá um link para o site do fornecedor ISV. Esse link deve ajudá-lo a concluir a configuração de implantação ou conta da assinatura do cliente.
+      
+    >[!NOTE]
+    > Nem você nem seu cliente receberá um email com instruções para concluir a configuração/provisionamento de conta para esse tipo de assinatura de ISV.)
 
     - Se sua assinatura vier com uma avaliação gratuita de 30 dias, o período de avaliação gratuita será aplicado automaticamente. Como um parceiro no programa CSP, não é possível renunciar ao período de avaliação gratuita em ofertas que você compra para os clientes. Depois que o período de avaliação gratuita terminar, o prazo da assinatura será iniciado e a assinatura será convertida em status pago. Em seguida, a assinatura será renovada de acordo com a mesma agenda.
 
@@ -145,7 +148,7 @@ Para interromper uma assinatura do Marketplace comercial ativa de renovar automa
 
 2. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
 
-3. Selecione **assinaturas**. Isso lista todas as assinaturas baseadas em licença que você comprou para o cliente.
+3. Selecione **Assinaturas**. Isso lista todas as assinaturas baseadas em licença que você comprou para o cliente.
 
 4. Na coluna **assinatura** , selecione a assinatura que você deseja modificar.
 

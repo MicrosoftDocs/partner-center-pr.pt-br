@@ -11,16 +11,16 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 75693ce31c98e694c0dbed31fde6c6510a83ec17
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 0e96b928e5221f34e9a16d430e079d02882263d1
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452943"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679343"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Visão geral dos relatórios do painel disponíveis em informações do Partner Center
  
-O painel Visão geral do Partner Center fornece uma exibição de instantâneo dos principais indicadores de desempenho, como clientes, assinaturas, receita de consumo do Azure, licenças etc. Você pode visualizar os gráficos a seguir no relatório de visão geral. 
+O painel Visão geral do insights fornece uma exibição de instantâneo dos principais indicadores de desempenho, como clientes, assinaturas, receita de consumo do Azure, licenças etc. Você pode visualizar os gráficos a seguir no relatório de visão geral. 
 
 - Resumo  
 - Distribuição geográfica de seus clientes, assinaturas e licenças  
@@ -39,7 +39,9 @@ O micro gráfico apresenta a tendência mês a mês da contagem de clientes em r
  
 - Receita consumida do Azure (ACR): receita total consumida do Azure (US $) atribuída a você durante o crescimento do intervalo de datas selecionado ou recusa% do ACR atribuído US $ durante o intervalo de datas selecionado.
 
-O micro Chart apresenta uma tendência mensal de ACR US $ atribuído a você durante o intervalo de datas selecionado Observação: os dados do ACR (receita consumida do Azure) estão disponíveis para usuários que receberam a função de visualizador de relatórios executivos 
+O micro Chart apresenta uma tendência mensal de ACR US $ atribuído a você no intervalo de datas selecionado 
+>[!Note] 
+>Os dados de receita consumida do Azure (ACR) estão disponíveis para usuários que receberam a função de visualizador de relatórios executivos 
  
 - Assinaturas: contagem total atual de assinaturas de produtos de nuvem (ativas e inativas) vendidas ou gerenciadas por você.  
 O crescimento ou o declínio de% das assinaturas durante o intervalo de datas selecionado micro gráfico apresenta a tendência mês a mês da contagem total de assinaturas no intervalo de datas selecionado. 
@@ -47,8 +49,7 @@ O crescimento ou o declínio de% das assinaturas durante o intervalo de datas se
 - Assinaturas ativas: contagem atual de assinaturas de produtos de nuvem com uso ativo medido com base na telemetria do produto. Isso exclui todas as assinaturas de avaliação no caso de assinaturas do Azure.  
 O% de crescimento das assinaturas ativas no intervalo de datas selecionado micro gráfico apresenta a tendência mês a mês das assinaturas ativas no intervalo de datas selecionado 
  
-- Licenças implantadas: contagem de todas as licenças de produtos de nuvem implantadas em suas assinaturas de cliente no período de tempo selecionado.  
-O crescimento ou a recusa de% dessas licenças durante o intervalo de datas do micro gráfico é uma tendência mês a mês da contagem de licenças atribuídas no intervalo de datas selecionado.
+- Licenças implantadas: contagem de todas as licenças de produtos de nuvem implantadas em suas assinaturas de cliente no período de tempo selecionado. Crescimento ou declínio de% dessas licenças durante o intervalo de datas selecionado. O micro Chart apresenta a tendência mês a mês da contagem de licenças atribuídas sobre o intervalo de datas selecionado.
 
 :::image type="content" source="images/pci/summary.png" alt-text="Licenças de resumo":::
 
@@ -72,8 +73,10 @@ Isso indica a tendência de sua contagem de assinaturas de cliente para o interv
 
 **Tendência de crescimento da receita consumida pelo Azure**
 
-Tendência mensal de receita consumida pelo Azure US $ atribuída a você no intervalo de datas selecionado. O eixo X representa os meses do intervalo de datas selecionado e o eixo Y representa a receita total consumida do Azure US $ atribuídas a você durante o mês.   
-**Observação**: a receita consumida do Azure (ACR) só ficará visível para os usuários aos quais foi atribuída a função de visualizador de relatórios executivos. 
+Tendência mensal de receita consumida pelo Azure US $ atribuída a você no intervalo de datas selecionado. O eixo X representa os meses do intervalo de datas selecionado e o eixo Y representa a receita total consumida do Azure US $ atribuídas a você durante o mês.
+   
+>[!Note] 
+>A receita consumida do Azure (ACR) só ficará visível para os usuários aos quais foi atribuída a função de visualizador de relatórios executivos. 
 
 :::image type="content" source="images/pci/azureconsumed.png" alt-text="Consumo do Azure":::
 

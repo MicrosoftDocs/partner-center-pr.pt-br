@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: piloto automático, piloto automático do Windows, Microsoft AutoPilot, implantação Zero Touch, OOBE, telas de logon, pronto para uso
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 1ce0852543c70555bdbbbffd8727876bda8aedef
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: a3067b674b7784df34fba3de9cfaa5b44349b8c4
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908379"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679183"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Usar perfis do Windows AutoPilot em novos dispositivos para personalizar a experiência de uso inicial do cliente
 
@@ -175,7 +175,8 @@ Seu arquivo. csv deve ser semelhante a este:
 
 > **{serialNumber},,, Microsoft Corporation, laptop Surface**
 
-Observe que "nome do fabricante" e "modelo do dispositivo" diferenciam maiúsculas de minúsculas.
+>[!NOTE]
+> "Nome do fabricante" e "modelo do dispositivo" diferenciam maiúsculas de minúsculas.
 
 Se você não souber qual valor deve ser colocado para o nome do fabricante e o modelo do dispositivo, poderá executá-lo no dispositivo para reunir os valores corretos:
 

@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: atribuir licença, revogar licença, atribuir a vários usuários,
 ms.localizationpriority: medium
-ms.openlocfilehash: 7018b1f4ae56ee267a39239c97bf7355381e6802
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 795c23deeaaa119c4a248a1ae1835ae4396eb62a
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798564"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679093"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Atribuir ou revogar licenças para vários usuários
 
@@ -76,7 +76,8 @@ O Partner Center rastreia e mostra todos os direitos de licença de Propriedade 
 
 8. Clique em **Salvar**. O Partner Center abre uma página de confirmação de **licenças atualizadas** listando os usuários e suas novas licenças.
 
-**Observe**  que alguns produtos da Microsoft podem não estar disponíveis em determinados locais. Outros produtos dependem de outros produtos ou serviços ou não podem ser atribuídos em conjunto ao mesmo usuário. Depois de salvar, a página de confirmação listará os resultados da atribuição de licença bem-sucedida para todos os usuários e quaisquer erros da atribuição de licença.
+>[!NOTE]
+>Alguns produtos da Microsoft podem não estar disponíveis em determinados locais. Outros produtos dependem de outros produtos ou serviços ou não podem ser atribuídos em conjunto ao mesmo usuário. Depois de salvar, a página de confirmação listará os resultados da atribuição de licença bem-sucedida para todos os usuários e quaisquer erros da atribuição de licença.
 
 
 <a href="" id="revoking-licenses"></a>
@@ -98,6 +99,6 @@ O Partner Center rastreia e mostra todos os direitos de licença de Propriedade 
 
 7. Clique em **Salvar**.
 
-## <a name="related-topics"></a>Tópicos relacionados
+## <a name="next-steps"></a>Próximas etapas
 
 [Atribuir licenças a um usuário](assign-licenses-to-users.md)

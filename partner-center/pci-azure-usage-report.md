@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 34a9c3fb187cce5e062d7289a46db1771c1c4d79
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: d8400cbfb5d466ea4da1c8a7abd9d8e2e49df184
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453113"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679373"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de uso do Azure disponível no painel do centro de informações do Partner Center
 
@@ -33,7 +33,7 @@ O relatório de uso do Azure apresenta métricas relacionadas às assinaturas do
 - Utilização do Azure
 
  > [!NOTE]
- > Esse relatório está disponível no painel do centro de informações do Partner Center (PCI). Para exibir esse relatório, você deve ser atribuído a uma função específica no Partner Center, como administrador global, administrador da conta, visualizador de relatórios ou Visualizador de relatórios do Executive. Para obter mais informações, consulte o administrador global da sua empresa. Tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de visualizador de relatórios executivos.
+ > Esse relatório está disponível no painel de informações. Para exibir esse relatório, você deve ser atribuído a uma função específica no Partner Center, como administrador global, administrador da conta, visualizador de relatórios ou Visualizador de relatórios do Executive. Para obter mais informações, consulte o administrador global da sua empresa. Tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de visualizador de relatórios executivos.
 
 **Resumo**
 
@@ -50,7 +50,8 @@ O micro gráfico apresenta uma tendência de mês a mês da contagem de assinatu
 - Receita consumida do Azure (ACR): total de receita consumida do Azure (US $) atribuídas a você no intervalo de datas selecionado.
 Percentual de crescimento ou declínio do ACR atribuído US $ durante o intervalo de datas selecionado. 
 
-O micro Chart apresenta uma tendência mensal de ACR US $ atribuído a você durante o período de tempo selecionado Nota: 
+O micro Chart apresenta uma tendência mensal de ACR US $ atribuído a você durante o período de tempo selecionado
+
 
 > [!NOTE]
  > A receita consumida do Azure (ACR) só ficará visível para os usuários aos quais foi atribuída a função de visualizador de relatórios executivos.

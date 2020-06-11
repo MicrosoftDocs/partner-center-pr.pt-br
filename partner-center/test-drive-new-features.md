@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 590ec680a1fdc80177a955417942b340b94eb96b
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 1d34094b9112cb69087006f2537c43ca1bd4fc8e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458392"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679393"
 ---
 # <a name="test-drive-new-partner-center-features-and-help-shape-the-future-of-partner-center"></a>Teste os novos recursos do Partner Center e ajude a moldar o futuro do Partner Center
 
@@ -26,7 +26,7 @@ ms.locfileid: "84458392"
 
 Estamos continuamente lançando novos recursos e funcionalidades para o Partner Center e queremos seus comentários! 
 
-Convidamos você a experimentar os novos recursos antes que eles sejam lançados na comunidade do Partner Center em todo o mundo e a compartilhar seus pensamentos sobre eles. Confira a [página de Comunicados do Partner Center](announcements/index.md) para obter informações sobre recursos futuros para que você possa começar a planejar como usá-los para aumentar seus negócios. Observe que pode haver vários recursos disponíveis para teste em um determinado momento.
+Convidamos você a experimentar os novos recursos antes que eles sejam lançados na comunidade do Partner Center em todo o mundo e a compartilhar seus pensamentos sobre eles. Confira a [página de Comunicados do Partner Center](announcements/index.md) para obter informações sobre recursos futuros para que você possa começar a planejar como usá-los para aumentar seus negócios. Pode haver vários recursos disponíveis para você test drive em um determinado momento.
 
 ### <a name="test-drive-a-feature"></a>Testar um recurso
 
@@ -58,4 +58,4 @@ Incentivamos você a compartilhar suas ideias e pensamentos sobre uma versão de
 - solicitar suporte se você enfrentar problemas com uma versão prévia do recurso. Para criar uma solicitação de suporte, selecione **Solicitações de suporte > Solicitações do Partner Center** no menu **Partner Center** e, em seguida, selecione **Nova solicitação** na página **Solicitações do Partner Center**.
 
 
--- Sua equipe do Partner Center
+

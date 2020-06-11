@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 183e72e3f3f715a54bf3227bbf19c49033fb57e8
-ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
+ms.openlocfilehash: 47be4df115adbfacd32304104b323f7266eb77f0
+ms.sourcegitcommit: 1196a2edb9e18f16a3c68ab8e10634619ad75b7f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84633816"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84661659"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preços e ofertas para o Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure e muito mais
 
@@ -94,7 +94,19 @@ O CSP oferece alguns serviços para segmentos de mercado especiais, por exemplo,
 |GCC (Government Community Cloud)|Parceiro e cliente|Após o GCC habilitado, o parceiro pode criar clientes GCC| Somente baseado em licença|
 |Azure Government|Parceiro|Uma vez qualificado, o parceiro opera em um locatário do CSP específico para o Azure governamental|Recursos do Azure|
 
-As margens do parceiro, a diferença entre o preço da lista e os preços de varejo estimados, pode variar de segmento para segmento. Normalmente, a educação e o não-lucro tendem a ter menos ou nenhuma margem para parceiros CSP. Consulte a lista de preços baseada em licenças para obter valores exatos.  
+As margens do parceiro, a diferença entre o preço da lista e os preços de varejo estimados, pode variar de segmento para segmento. Normalmente, a educação e o não-lucro tendem a ter menos ou nenhuma margem para parceiros CSP. Consulte a lista de preços baseada em licenças para obter valores exatos. 
+
+## <a name="add-on-offer-types"></a>Tipos de oferta de complemento
+
+Os serviços baseados em licença podem ser adquiridos como ofertas base ou Complementos. Somente as ofertas básicas são detectáveis e compráveis por meio do catálogo do Partner Center. Os complementos devem ser aplicados após a compra das ofertas básicas. A coluna **tipo de licença secundária** lista de preços baseada em licença inclui informações sobre cada oferta e seu tipo. As ofertas básicas têm valores **não específicos** na coluna tipo de licença secundária da lista de preços e podem ser comprados no catálogo. Os valores do tipo de licença secundária do **complemento** não podem ser comprados no catálogo. Para comprar estes complementos:
+
+1. Consulte a matriz da lista de ofertas para ver a lista de IDs de oferta que precisam ser adquiridas antes que você possa comprar um complemento.
+2. Comprar a oferta base do catálogo
+3. Navegue até o cliente na lista de clientes. Clique na assinatura da oferta base que você acabou de adquirir. Na página Gerenciar assinatura, você verá Complementos disponíveis que podem ser aplicados à oferta base.
+
+> [!Note] 
+> Algumas ofertas básicas têm valores de **tipo de unidade** de **licenças complementares**. Para uma oferta básica, isso simplesmente significa que você não atribui licenças de usuário após a compra. Se a oferta puder ser adquirida no catálogo, será uma **oferta base** , independentemente do tipo de unidade na interface do usuário.
+
 ## <a name="pricing-between-azure-and-non-azure"></a>Preços entre recursos do Azure e recursos não Azure
 
 Os preços diferem entre diferentes tipos de ofertas. O preço com base em licença normalmente é o valor por estação (licença) para um determinado mês. O preço com base no uso é determinado pelo uso de um determinado recurso, com uma ID de medição associada. Os parceiros não são cobrados pela aquisição da assinatura do Azure. No entanto, os parceiros são cobrados por recursos consumidos por implantações diferentes na assinatura do Azure. Os preços na lista de preços com base no uso são organizados em relação a diferentes IDs de medidor de recursos no Azure.

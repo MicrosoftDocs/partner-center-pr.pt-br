@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e8a8558bad11f641737507f4d76405e9825df516
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 7e2a1d17a7520cca1a6e1da540cc58d2d365d8cb
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795868"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679303"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instale e visualize o aplicativo de análise do Partner Center para Microsoft Power BI
 
@@ -32,17 +32,19 @@ ms.locfileid: "83795868"
 ## <a name="before-you-begin"></a>Antes de começar
 
 Selecione o aplicativo que é mais relevante para seu negócio na seguinte lista de aplicativos de Power BI disponíveis:
-- [Parceiro direto](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
+- [Provedor direto](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
-- [Parceiro indireto](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
+- [Provedor indireto](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
 
-- [Revendedor indireto](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
+- [Revendedor indireto](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
 
 Antes de instalar a versão de visualização do aplicativo análises do Partner Center, certifique-se de que você atende aos seguintes requisitos.
 
 - Você escolhe o aplicativo de Power BI correto para sua empresa.
 
-- Você tem uma assinatura ativa Microsoft Power BI Professional ou Microsoft Power BI Premium.
+- Você tem uma licença Power BI pro.
+
+- Você tem permissões para instalar aplicativos de modelo em seu locatário.
 
 - Você pode se conectar no Power BI.
 
@@ -50,20 +52,34 @@ Antes de instalar a versão de visualização do aplicativo análises do Partner
 
 ## <a name="to-install-the-app"></a>Para instalar o aplicativo
 
-1. Inicie o [processo de instalação](https://app.powerbi.com/getdata/services/partneranalytics?cpcode=PartnerCenterAnalytics&getDataForceConnect=true&alwaysPromptForContentProviderCreds=true).
+1. Clique no link de origem do aplicativo fornecido (provedor direto/provedor indireto/revendedor indireto) na seção acima.
 
-2. Em **Já tem uma conta?**, selecione **Conecte-se**. 
+2. Clique em **obter agora**. 
 
-3. Na próxima página, digite seu nome de usuário e senha do Partner Power BI e, em seguida, selecione **Conecte-se**. 
+3. Concorde com os termos e condições clicando em **continuar**.
 
-4. Na janela pop-up **conectar ao Partner Center Analytics** , verifique se o **método de autenticação** está definido como **oAuth2** ou selecione **oAuth2** na lista, se não for. 
+4. Em Já tem uma conta?, selecione **Conecte-se**.
+
+5. Na próxima página, digite seu nome de usuário e senha do Partner Power BI e, em seguida, selecione Conecte-se.
+
+6. Instale o espaço de trabalho fornecendo o WorkspaceName.
+
+7. Você pode encontrar os aplicativos de modelo instalados na seção aplicativos.
+
+8. Clique em aplicativos e escolha os aplicativos instalados.
+
+9. Introdução à nova tela do aplicativo é aberta.
+
+10. Para se conectar aos dados, clique em **conectar**.
+
+11. Na janela pop-up **conectar ao Partner Center Analytics** , verifique se o **método de autenticação** está definido como **oAuth2** ou selecione **oAuth2** na lista, se não for. 
 
 > [!NOTE]  
 >  Esta janela pode demorar alguns minutos para aparecer.
 
-5. Na página **conector de análise do Partner Center** , entre com administrador global, agente de administração ou credenciais de administrador de cobrança para o locatário do Azure ad da sua empresa e selecione **entrar**.
+12. Na página **conector de análise do Partner Center** , entre com administrador global, agente de administração ou credenciais de administrador de cobrança para o locatário do Azure ad da sua empresa e selecione **entrar**.
  
-6. Quando solicitado para acesso, selecione **Aceitar**. 
+13. Quando solicitado para acesso, selecione **Aceitar**. 
 
 Depois que o serviço de análise do Partner Center estiver conectado com o Power BI, os dados começam a ser carregados. Dependendo da quantidade de dados, isso pode levar até 10 minutos. 
 

@@ -11,12 +11,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: c9a80519ab418c0b0c52bbf7e0224e439b4f672e
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 5d3bfd235b621b7af0c86bd5bdf152cc50a2d4ba
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467526"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679293"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Informações do Partner Center – um painel que mostra como um parceiro comercial da Microsoft está fazendo
 
@@ -37,7 +37,7 @@ Há duas novas funções no Partner Center projetadas especificamente para acess
 O administrador global ou o administrador da conta pode atribuir usuários a essas funções e são atribuídos para toda a empresa ou para um local MPN específico.  
 
 >[!Note] 
->Os usuários que foram MPN administradores a partir de 2 de dezembro de 2019 foram adicionados automaticamente à função de visualizador de relatórios em toda a empresa. Eles podem acessar os relatórios como um visualizador de relatórios sem a ação explícita exigida pelo administrador global ou pelo administrador da conta. Os administradores globais ou o administrador da conta podem substituir essas atribuições, se necessário. 
+>Os usuários que foram MPN administradores a partir de 20 de janeiro de 2020 foram adicionados automaticamente à função de visualizador de relatórios em toda a empresa. Eles podem acessar os relatórios como um visualizador de relatórios sem a ação explícita exigida pelo administrador global ou pelo administrador da conta. Os administradores globais ou o administrador da conta podem substituir essas atribuições, se necessário. 
 
 ## <a name="reports-available"></a>Relatórios disponíveis
 

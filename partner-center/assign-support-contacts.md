@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: agente de ajuda, suporte, atribuir contato de suporte, contato de suporte designado
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 172fb7bc6ec4c7a4f6ce4549d96eb2487418a017
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 39e0a4390d37ba9cc39b872f059b818faad28051
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907467"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84678993"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Atribuir um revendedor como um contato de suporte técnico para os clientes
 
@@ -47,14 +47,12 @@ Isso pode ser usado para cenários de [multi-parceiros](multipartner.md) e [mult
 
 3.  Em **Contato de suporte designado**, selecione o revendedor de produto designado e, em seguida, clique em **Enviar**. 
 
-    Observações: 
-    
-    *  Para novas assinaturas, o suporte designado usa padrões para o provedor indireto. Você também pode alterar isso para um revendedor indireto que tem privilégios de administrador de delegação (DAP).
-    
-    *  Se o nome do revendedor não aparecer na lista de contatos de suporte disponível, adicione-o nela por [solicitação de uma relação](request-a-relationship-with-a-customer.md). Depois que a relação for estabelecida, eles devem aparecer na lista.  
+   >[!NOTE]  
+ >Para novas assinaturas, o suporte designado usa padrões para o provedor indireto. Você também pode alterar isso para um revendedor indireto que tenha privilégios de administrador delegados.    
+>Se o nome do revendedor não aparecer na lista de contatos de suporte disponíveis, adicione-os ao [solicitando uma relação](request-a-relationship-with-a-customer.md). Depois que a relação for estabelecida, eles devem aparecer na lista.  
 
 4.  Analise que as alterações estão corretas e, em seguida, selecione **Fechar**.
 
-## <a name="related-topics"></a>Tópicos relacionados
+## <a name="next-steps"></a>Próximas etapas
 
 [Remover uma relação com um cliente](remove-a-relationship.md)
