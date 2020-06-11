@@ -11,12 +11,12 @@ metadata:
   ms.author: isaiahwilliams
   author: iswillia
   ms.topic: tutorial
-  ms.openlocfilehash: 75211a49ba016ca7d75679d3cfac0a1116c5cf20
-  ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+  ms.openlocfilehash: 26c91899fa218041d3a98c565a789004471c5218
+  ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
   ms.translationtype: MT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 06/05/2020
-  ms.locfileid: "84453343"
+  ms.lasthandoff: 06/10/2020
+  ms.locfileid: "84679433"
 items:
 - title: Introdução
   durationInMinutes: 5
@@ -150,4 +150,4 @@ items:
 
       :::image type="content" source="../images/security/baseline-security-verification-confirmed.png" alt-text="Validação de segurança adicional verificada":::
 
-    Depois que o usuário tiver concluído os requisitos acima, ele poderá entrar no serviço de nuvem da Microsoft que estava tentando acessar. Observe que, até que os requisitos de segurança do parceiro sejam impostos, os usuários que não forem cobertos pela política de linha de base *Exigir MFA para administradores* só serão consultados para a MFA com base no risco.
+    Depois que o usuário tiver concluído os requisitos acima, ele poderá entrar no serviço de nuvem da Microsoft que estava tentando acessar. Até que os requisitos de segurança do parceiro sejam impostos, os usuários que não forem cobertos pela política *exigir MFA para administradores* somente serão solicitados a receber a MFA com base em risco.
