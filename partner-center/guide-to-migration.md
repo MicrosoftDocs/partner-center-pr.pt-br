@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, migração, mover para o Partner Center
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b81580e9b4e24d710151fb61d88e22c873c6c88d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 4437d3afd408810c9770e532950fc2661228eb62
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795836"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453233"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guia de migração do PMC para o Partner Center
 
@@ -45,7 +45,7 @@ A migração começa no PMC. Seu administrador global receberá um convite para 
 
 Selecione **Introdução** no convite. Você será levado para a página de entrada do Partner Center.
 
-![Introdução](images/migration/getstarted.jpg)
+:::image type="content" source="images/migration/getstarted.jpg" alt-text="Introdução":::
 
 ## <a name="start-with-your-work-email"></a>Começar com seu email de trabalho
 
@@ -54,7 +54,7 @@ Caso a sua empresa não tenha um email de trabalho e um locatário do AAD, poder
 >[!Note]
 >Se você for um parceiro na China e estiver registrado no programa Microsoft Partner Network e CSP (Provedor de Soluções na Nuvem), terá um locatário separado para cada conta. Sua conta com o programa Provedor de Soluções na Nuvem é gerenciada na nuvem nacional e sua conta do Microsoft Partner Network é gerenciada na nuvem global. As duas contas não podem ser vinculadas.
 
-![Conte-nos sobre a sua empresa](images/migration/newtellusabout.png)
+:::image type="content" source="images/migration/newtellusabout.png" alt-text="Conte-nos sobre a sua empresa":::
 
 Depois de verificar ou atualizar as informações, selecione **Aceitar e continuar**.
 Os Termos e as Condições nesta página são **exatamente os mesmos** indicados no contrato que a sua empresa já assinou no PMC.  
@@ -72,7 +72,7 @@ A seleção de **Aceitar e continuar** também faz o seguinte:
 
 Quando o novo locatário do Azure AD for criado, você poderá convidar seus funcionários para entrar no Partner Center.
 
-![Convidar funcionários](images/migration/invite.png)
+:::image type="content" source="images/migration/invite.png" alt-text="Convidar funcionários":::
 
 Se você tiver entrado com um locatário existente do AAD, seus funcionários terão se movido com você. Nesse caso, atribua aos funcionários funções que determinem o que elas podem fazer no Partner Center. Observação: As funções no Partner Center são diferentes das funções no PMC. Para obter mais informações, confira [Como migrar do PMC para o Partner Center](move-pmc-pc-map.md).
 
@@ -80,11 +80,11 @@ Se você tiver entrado com um locatário existente do AAD, seus funcionários te
 
 Se o locatário do AAD for novo, ninguém receberá a função de administrador global. Para se tornar o administrador global, você precisará verificar a propriedade do domínio. Talvez você precise do administrador de domínio para ajudar você com isso. Observe que, embora você possa usar as ofertas que já comprou, não poderá comprar nenhuma nova oferta até concluir a etapa de obtenção de um administrador global.
 
-![Assumir o controle](images/migration/takecontrol.png)
+:::image type="content" source="images/migration/takecontrol.png" alt-text="Assumir o controle":::
 
 Ao selecionar Introdução, você verá a seguinte tela:
 
-![Verificar a propriedade do domínio](images/migration/verifytxt.png)
+:::image type="content" source="images/migration/verifytxt.png" alt-text="Verificar a propriedade do domínio":::
 
 Seu registrador de domínios já estará preenchido para você. Somente o proprietário do domínio pode atualizar o arquivo DNS; portanto, copiando e adicionando o arquivo de texto ao registro DNS, podemos verificar se você é o proprietário. Levará alguns minutos para que a atualização ocorra. Você precisará sair do Partner Center e entrar novamente. Sua função terá sido alterada para administrador global.
 
@@ -92,7 +92,7 @@ Seu registrador de domínios já estará preenchido para você. Somente o propri
 
 Faça um tour pelo painel. É nele que você pode gerenciar sua associação, adicionar um perfil de negócios para indicações, registrar-se no programa Provedor de Soluções na Nuvem e ver notificações e ofertas relevantes para sua empresa a qualquer momento selecionando **Painel**. Você também pode gerenciar incentivos, fazer compras no Marketplace, inscrever-se em serviços de entrada no mercado, entre outros.  
 
-![Fazer o tour](images/migration/fre.png)
+:::image type="content" source="images/migration/fre.png" alt-text="Fazer o tour":::
 
 ## <a name="next-steps"></a>Próximas etapas
 

@@ -1,7 +1,7 @@
 ---
 title: Ofertas de parceiros no programa CSP
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Como parceiro do programa CSP, saiba mais sobre o catálogo crescente dos serviços em nuvem da Microsoft e as ofertas que você pode vender aos clientes.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Provedor de Soluções na Nuvem, programa provedor de soluções na nuvem, CSP, adicionar um produto, vender para clientes, ofertas de parceiro, ofertas de CSP, serviços baseados em nuvem, Azure, Office 365, Dynamics, parceiro CSP, vender no CSP, Azure RI, instâncias de Máquinas Virtuais reservadas do Azure, reservas do Azure, serviços online, software de assinatura, AHUB, SQL Server no Azure, Windows Server no Azure, assinaturas de cliente
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c9ec7908c66fd4c31f9606e639958fba37761d7
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 73313831bd1536e7f102520b1fd0df4606aa56dc
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362324"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467236"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Visão geral de ofertas de parceiros no programa Provedor de Soluções na Nuvem
 
@@ -106,6 +106,10 @@ Para comprar produtos e serviços em nome dos seus clientes CSP, selecione os it
 7. Na página **Revisar seus pedidos**, verifique ou altere os produtos e a quantidade e então selecione **Comprar** para fazer o pedido.
 
 8. Os detalhes do seu pedido, incluindo o número do pedido, são exibidos na próxima página. Selecione **Concluído** para ir para sua página **Histórico de pedidos**.
+
+## <a name="rules-for-special-segments"></a>Regras para segmentos especiais
+
+Algumas ofertas baseadas em licença só podem ser adquiridas sob certas condições. As ofertas especiais do segmento incluem ofertas de Educação, sem fins lucrativos ou Nuvem da Comunidade Governamental (GCC). Detalhes sobre essas condições de compra podem ser encontrados no tópico [regras de compra para segmentos especiais](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).
 
 ## <a name="next-steps"></a>Próximas etapas
 

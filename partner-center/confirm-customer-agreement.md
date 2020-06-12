@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: cliente, clientes, consentimento, MCA, contrato de Microsoft Cloud, contrato de cliente da Microsoft, modelos de contrato de cliente
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ae3605f0cb352b6efb18c7e53d9842d35c7e00c3
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: c6d67c7e970d042704e1cc1c731d6ae1e85d6687
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908160"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453263"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>Confirmar a aceitação do Contrato de Cliente da Microsoft pelo cliente no programa de parceiro CSP
 
@@ -33,7 +33,6 @@ ms.locfileid: "82908160"
 
 - Revendedores indiretos, cobrança direta, provedores indiretos
 
-
 Em 1º de outubro de 2019, a Microsoft introduziu o **Contrato de Cliente da Microsoft** ao programa CSP para substituir o Contrato do Microsoft Cloud. Leia [diretrizes](indirect-reseller-tasks-in-partner-center.md) adicionais para revendedores indiretos. Para facilitar a migração dos parceiros para o novo contrato, os dois contratos coexistiram no programa CSP até 31 de janeiro de 2020. Em 1º de fevereiro de 2020, o Contrato de Cliente da Microsoft substituiu o Contrato do Microsoft Cloud.
 
 Os clientes têm duas opções para aceitar o Contrato de Cliente da Microsoft. 
@@ -44,7 +43,7 @@ Os clientes têm duas opções para aceitar o Contrato de Cliente da Microsoft.
 
 ## <a name="access-microsoft-customer-agreement-template"></a>Acessar o modelo do Contrato de Cliente da Microsoft
 
-Você pode baixar manualmente a última versão do modelo do Contrato de Cliente da Microsoft [aqui](https://aka.ms/customeragreement). O Contrato de Cliente da Microsoft é específico para cada país. Ao solicitar o modelo do Contrato de Cliente da Microsoft, selecione o país correto com base no local do cliente. 
+Você pode baixar manualmente a última versão do modelo do Contrato de Cliente da Microsoft [aqui](https://aka.ms/customeragreement). O Contrato de Cliente da Microsoft é específico para cada país. Ao solicitar o modelo do Contrato de Cliente da Microsoft, selecione o país correto com base no local do cliente.
 
 ## <a name="option-1-confirm-customer-acceptance-in-partner-center"></a>Opção 1: Confirmar a aceitação do cliente no Partner Center
 
@@ -58,7 +57,7 @@ Ao criar um novo locatário do cliente no Partner Center, use as etapas a seguir
 
 2. Em **informações da conta**, insira informações para a empresa e seu contato principal.
 
-3. Em **Contrato da Microsoft**, marque a caixa para atestar que o cliente aceitou o Contrato de Cliente da Microsoft. 
+3. Em **Contrato da Microsoft**, marque a caixa para atestar que o cliente aceitou o Contrato de Cliente da Microsoft.
 
 4. Em **Data de aceitação do contrato**, insira a data apropriada. Você não pode definir isso como uma data futura.
 
@@ -66,7 +65,7 @@ Ao criar um novo locatário do cliente no Partner Center, use as etapas a seguir
 
 6. Selecione **Avançar** para continuar criando o locatário do cliente.
 
-![Novo cliente](images/mca/newcustomeragreement.jpg)  
+   :::image type="content" source="images/mca/newcustomeragreement.jpg" alt-text="Novo cliente":::  
 
 ### <a name="confirm-customer-acceptance-for-existing-customers"></a>Confirmar a aceitação do cliente para clientes existentes
 
@@ -82,7 +81,7 @@ Você deve ser um Agente administrativo ou Agente de vendas para fazer isto:
 
 5. Selecione **Salvar** e continue.
 
-![Cliente existente](images/mcua2-update2.png)
+   :::image type="content" source="images/mcua2-update2.png" alt-text="Cliente existente":::
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>Recuperar confirmação de aceitação do cliente
 
@@ -102,10 +101,9 @@ Você pode usar o SDK/a API do Partner Center para confirmar a aceitação do cl
 
 - [Confirmar a aceitação do cliente do Contrato de Cliente da Microsoft](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent-customer-agreement)
 
-- [Obter a confirmação da aceitação do cliente do Contrato de Cliente da Microsoft](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
+- [Obter a confirmação da aceitação do Contrato de Cliente da Microsoft pelo cliente](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
 
 - [Obter um link de download para o modelo do Contrato de Cliente da Microsoft](https://docs.microsoft.com/partner-center/develop/download-customer-agreement-template)
-
 
 ## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>Opção 2: Aceitação do cliente no Centro de administração do Microsoft 365
 
@@ -132,7 +130,7 @@ Use as etapas a seguir para criar um cliente no Partner Center e convidá-lo a r
 
 4. Selecione **Avançar: Examinar**. Em seguida, prossiga com as etapas para criar o locatário do cliente. (Observação: novos clientes não podem fazer uma nova compra até aceitarem o Contrato de Cliente da Microsoft.)  
 
-![Criar cliente](images/mca/create-new-customer.jpg)
+   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Criar cliente":::
 
 5. Ao acessar a tela de **Confirmação** no novo fluxo de trabalho do cliente, salve as credenciais dele. Você precisará fornecer essas credenciais para o cliente mais tarde.
 
@@ -160,7 +158,7 @@ Use as etapas a seguir para convidar um novo cliente a revisar e aceitar a rela�
 
 4. Use este modelo de email para convidar o cliente a aceitar a solicitação de **relação de revendedor** e o **Contrato de Cliente da Microsoft**. (Observação: no convite por email, verifique se o parceiro também inclui a URL fornecida automaticamente, assim como as credenciais do cliente criadas recentemente.)
 
-![criar uma relação](images/mca/createrelationship.png)
+   :::image type="content" source="images/mca/createrelationship.png" alt-text="criar uma relação":::
 
 5. O cliente recebe o convite por email e clica na URL parametrizada. 
 
@@ -170,10 +168,10 @@ Use as etapas a seguir para convidar um novo cliente a revisar e aceitar a rela�
 
 8. Na mesma URL, o cliente pode ver uma lista consolidada de diferentes parceiros com os quais ele está trabalhando. Ele pode selecionar um parceiro para ver os detalhes.
 
-![Aceitar o contrato](images/mca/accept.jpg)
+   :::image type="content" source="images/mca/accept.jpg" alt-text="Aceitar o contrato":::
 
 
-## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>Convidar um cliente existente para revisar e aceitar o contrato 
+## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>Convidar um cliente existente para revisar e aceitar o contrato
 
 Use as etapas a seguir para convidar um cliente existente a revisar e aceitar o Contrato de Cliente da Microsoft. 
 
@@ -187,7 +185,7 @@ Use as etapas a seguir para convidar um cliente existente a revisar e aceitar o 
 
 5. Na mesma URL, o cliente pode ver a lista consolidada de diferentes parceiros com os quais eles estão trabalhando. Ele pode selecionar um parceiro para ver os detalhes.
 
-![cliente](images/mca/customeraccept.png)
+   :::image type="content" source="images/mca/customeraccept.png" alt-text="cliente":::
 
 >[!NOTE]
 >Em determinados cenários, os clientes talvez não possam aceitar diretamente o Contrato de Cliente da Microsoft. Para saber mais sobre essas situações, confira [Dois cenários em que você precisa atestar em nome do cliente](attest-acceptance-customer-agreement.md).

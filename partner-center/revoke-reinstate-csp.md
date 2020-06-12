@@ -1,77 +1,87 @@
 ---
-title: Restabelecer privilégios de administrador para assinaturas do Azure CSP | Partner Center
+title: Restabelecer privilégios de administrador para o CSP do Azure
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Este documento explica como ajudar os clientes a restabelecer os privilégios de administrador do parceiro
+description: Saiba como ajudar os clientes a restabelecer os privilégios de administrador de um parceiro para que ele possa ajudar a gerenciar as assinaturas de CSP do Azure de um cliente.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 1bcbcf32e3b3f4513ed3e55984b49b090da4a734
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3bb1f5daf1582c4ca4a67c2813d598567db17f13
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "73651710"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467246"
 ---
-# <a name="reinstate-admin-privileges-for-azure-csp-subscriptions"></a>Restabelecer privilégios de administrador para assinaturas do Azure CSP  
+# <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Restabelecer privilégios de administrador para assinaturas de CSP do Azure de um cliente  
 
 **Funções aplicáveis**
 
 - Administrador global
 - Agente administrativo
 
-Na condição de um parceiro CSP, muitas vezes os clientes esperam que você gerencie para eles o uso que eles fazem do Azure e os sistemas deles. Para fazer isso, é necessário ter privilégios de administrador. Alguns privilégios são concedidos quando seu relacionamento de revendedor com o cliente é estabelecido. Outros são concedidos a você pelo cliente.
+Na condição de um parceiro CSP, muitas vezes os clientes esperam que você gerencie para eles o uso que eles fazem do Azure e os sistemas deles. Isso exige que você tenha privilégios de administrador. Alguns privilégios são concedidos quando seu relacionamento de revendedor com o cliente é estabelecido. Outros são concedidos a você pelo cliente.
 
-## <a name="admin-privileges-for-azure-in-csp"></a>Privilégios de administrador para o Azure no CSP 
+## <a name="admin-privileges-for-azure-in-csp"></a>Privilégios de administrador para o Azure no CSP
 
-Há dois níveis de privilégios de administrador para o Azure no CSP. 
+Há dois níveis de privilégios de administrador para o Azure no CSP.
 
-**Privilégios de administrador de nível de locatário** (**privilégios de administrador delegado**) – os parceiros CSP obtêm esses privilégios ao estabelecerem o relacionamento de revendedor CSP com os clientes. Isso fornece aos parceiros CSP acesso aos locatários dos clientes deles, o que permite que eles executem funções administrativas, tais como adicionar/gerenciar usuários, redefinir senhas e gerenciar licenças de usuário. 
+**Privilégios de administrador de nível de locatário** (**privilégios de administrador delegado**) – os parceiros CSP obtêm esses privilégios ao estabelecerem o relacionamento de revendedor CSP com os clientes. Isso fornece aos parceiros CSP acesso aos locatários dos clientes deles, o que permite que eles executem funções administrativas, tais como adicionar/gerenciar usuários, redefinir senhas e gerenciar licenças de usuário.
 
-**Privilégios de administrador de nível de assinatura** – os parceiros CSP obtêm esses privilégios ao criar assinaturas do Azure CSP para os clientes deles. Isso permite acesso completo a essas assinaturas aos parceiros CSP, o que permite que eles provisionem e gerenciem recursos do Azure. 
-
+**Privilégios de administrador de nível de assinatura** – os parceiros CSP obtêm esses privilégios ao criar assinaturas do Azure CSP para os clientes deles. A posse desses privilégios fornece aos parceiros do CSP acesso completo a essas assinaturas, o que lhes permite provisionar e gerenciar recursos do Azure.
 
 ## <a name="reinstate-csp-partners-admin-privileges"></a>Restabelecer privilégios de administrador dos parceiros CSP
 
 Para restabelecer os privilégios de administrador delegado, você precisa trabalhar com o cliente.
- 
- 1. Entre no painel do Partner Center e, no menu do Partner Center, selecione **Clientes**.
 
- 2. Selecione o cliente com o qual você está trabalhando e **solicite um relacionamento de revendedor.** Isso gera um link para o cliente que tem direitos de administrador de locatários.
+1. Entre no painel do Partner Center e, no menu do Partner Center, selecione **Clientes**.
 
- 3. Esse usuário precisa selecionar o link e aprovar a solicitação de relacionamento de revendedor.
- 
-![relacionamento de revendedor](images/azure/revoke4.png)
+2. Selecione o cliente com o qual você está trabalhando e **solicite um relacionamento de revendedor.** Isso gera um link para o cliente que tem direitos de administrador de locatários.
+
+3. Esse usuário precisa selecionar o link e aprovar a solicitação de relacionamento de revendedor.
+
+   :::image type="content" source="images/azure/revoke4.png" alt-text="relacionamento de revendedor":::
 
 ## <a name="adding-the-admin-agents-group-as-an-owner-for-the-azure-csp-subscription"></a>Como adicionar o grupo de agentes administrativos como um proprietário para a assinatura do Azure CSP
 
- O cliente precisará adicionar seu grupo de agentes administrativos como o proprietário da assinatura do Azure CSP.
+O cliente precisará adicionar seu grupo de agentes administrativos como o proprietário da assinatura do Azure CSP.
 
-1. Use o console do PowerShell ou o ISE (ambiente de script integrado) do PowerShell. Verifique se os módulos AzureRM e AzureAD estão instalados. 
+1. Use o console do PowerShell ou o ISE (ambiente de script integrado) do PowerShell. Verifique se os módulos AzureRM e AzureAD estão instalados.
 
-2.  Conecte-se ao seu locatário do Azure AD.
-Cmdlet do PowerShell: Connect-AzureAD
+2. Conecte-se ao seu locatário do Azure AD.
 
-3.  Obtenha o ObjectId dos grupos de agentes administrativos.
-Cmdlet do PowerShell: Get-AzureADGroup`1nn
+   ```powershell
+   Connect-AzureAD
+   ```
 
-![grupo de agentes administrativos](images/azure/revoke5.png)
+3. Obtenha o ObjectId dos grupos de agentes administrativos.
 
-As etapas a seguir são executadas pelo usuário na empresa do seu cliente que tem acesso de proprietário à assinatura do Azure CSP.
+   ```powershell
+   Get-AzureADGroup
+   ```
+
+   :::image type="content" source="images/azure/revoke5.png" alt-text="grupo de agentes administrativos":::
+
+   As etapas a seguir são executadas pelo usuário na empresa do seu cliente que tem acesso de proprietário à assinatura do Azure CSP.
 
 4. O usuário com acesso de proprietário à assinatura do Azure CSP entra no Azure Resource Manager usando suas próprias credenciais.
 
-    Cmdlet do PowerShell: Login-AzureRMAccount
+   ```powershell
+   Login-AzureRMAccount
+   ```
 
-5.  Em seguida, ele pode adicionar seu grupo de agentes administrativos como proprietário da assinatura do Azure CSP.
+5. Em seguida, ele pode adicionar seu grupo de agentes administrativos como proprietário da assinatura do Azure CSP.
 
-    Cmdlet do PowerShell: New-AzureRMRoleAssignment -ObjectId < ID do objeto que você obteve da etapa 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+    ```powershell
+    New-AzureRMRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+    ```
 
-![proprietários de agente administrativo](images/azure/revoke6.png)    
+   :::image type="content" source="images/azure/revoke6.png" alt-text="proprietários de agente administrativo":::
 
-**Para obter mais informações**
+## <a name="next-steps"></a>Próximas etapas
 
 [Gerenciar assinaturas e recursos no âmbito do plano do Azure](azure-plan-manage.md)

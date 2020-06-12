@@ -1,22 +1,20 @@
 ---
 title: Migrar clientes das ofertas atuais do Azure para o plano do Azure
 ms.topic: article
-ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os parceiros CSP podem usar o Partner Center para migrar os clientes das ofertas do Azure no CSP existentes para os serviços do Azure no plano do Azure.
 author: LauraBrenner
 ms.author: labrenne
-Keywords: ''
-robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05c28b852935dbce88d9f64c86b7c87fcbdc05cc
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.date: 05/04/2020
+ms.openlocfilehash: 073ee1a3f0cd90d3b10493a989d00dc1594505d6
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908328"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452583"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Fazer a transição de clientes para o plano do Azure de ofertas do Azure no CSP existentes
 
@@ -43,45 +41,45 @@ Você pode fazer a transição de um cliente de suas ofertas do CSP do Azure exi
 
 2. Selecione **Fazer a transição de cobrança para o plano do Azure**.
 
-![transição](images/azure/transition1.png)
+   :::image type="content" source="images/azure/transition1.png" alt-text="transição":::
 
 3. Selecionar **Continuar**
 
-![transição](images/azure/transition2.png)
+   :::image type="content" source="images/azure/transition2.png" alt-text="transição":::
 
-Seu cliente será transferido para o plano do Azure.
+   Seu cliente será transferido para o plano do Azure.
 
-**O fluxo de trabalho de transição automatiza as etapas de pré-requisito**:
+   **O fluxo de trabalho de transição automatiza as etapas de pré-requisito**:
 
-- Compra de plano(s) do Azure
-- Um plano por cliente em cenários de CSP direto  
-- Um plano por revendedor  
+   - Compra de plano(s) do Azure
+   - Um plano por cliente em cenários de CSP direto  
+   - Um plano por revendedor  
 
-Por exemplo, um parceiro comprou duas ofertas do Microsoft Azure e incluiu duas POR distintas na compra. Nesse caso, o fluxo de trabalho de transição comprará dois planos do Azure (um por revendedor) e mapeará as respectivas assinaturas do Azure nos planos do Azure automaticamente.  
+   Por exemplo, um parceiro comprou duas ofertas do Microsoft Azure e incluiu duas POR distintas na compra. Nesse caso, o fluxo de trabalho de transição comprará dois planos do Azure (um por revendedor) e mapeará as respectivas assinaturas do Azure nos planos do Azure automaticamente.  
 
-**Como mapear a assinatura do Azure para o plano do Azure**
+   **Como mapear a assinatura do Azure para o plano do Azure**
 
-Após a compra do plano do Azure, nosso sistema mapeará as assinaturas do Azure existentes para os planos do Azure. O progresso pode ser exibido no portal do Azure, bem como no Partner Center. 
+   Após a compra do plano do Azure, nosso sistema mapeará as assinaturas do Azure existentes para os planos do Azure. O progresso pode ser exibido no portal do Azure, bem como no Partner Center.
 
-4. Volte para a página de **Assinaturas** do Partner Center do cliente a fim de atualizar o limite de orçamento usando a moeda local do cliente. 
+4. Volte para a página de **Assinaturas** do Partner Center do cliente a fim de atualizar o limite de orçamento usando a moeda local do cliente.
 
-![Transição](images/azure/transition3.png)
+   :::image type="content" source="images/azure/transition3.png" alt-text="Transição":::
 
->[!NOTE]
->O orçamento definido no Partner Center não é transportado para o portal do Azure. Você também deve definir o orçamento e o alerta no portal do Azure.
+   >[!NOTE]
+   >O orçamento definido no Partner Center não é transportado para o portal do Azure. Você também deve definir o orçamento e o alerta no portal do Azure.
 
-Ao passar para o plano do Azure, não será mais possível comprar assinaturas do Azure para esse cliente. Você cria as assinaturas no âmbito do plano do Azure, no portal do Azure.
+   Ao passar para o plano do Azure, não será mais possível comprar assinaturas do Azure para esse cliente. Você cria as assinaturas no âmbito do plano do Azure, no portal do Azure.
 
->[!NOTE]
-> Todas as assinaturas do Azure adquiridas por meio do RBAC no plano do Azure terão preços na moeda local e serão cobradas nessa mesma moeda. As taxas de câmbio não serão usadas.
+   >[!NOTE]
+   > Todas as assinaturas do Azure adquiridas por meio do RBAC no plano do Azure terão preços na moeda local e serão cobradas nessa mesma moeda. As taxas de câmbio não serão usadas.
 
 ### <a name="track-your-transition-details"></a>Acompanhar os detalhes da transição
 
 Siga o progresso da transição no portal do Azure, bem como no Partner Center.
 
-![Mostrar detalhes](images/azure/details1.png)
+:::image type="content" source="images/azure/details1.png" alt-text="Mostrar detalhes":::
 
-**Impacto de cobrança para os parceiros**
+### <a name="billing-impact-to-partners"></a>Impacto de cobrança para os parceiros
 
 Se você fizer a transição de um cliente de uma oferta do CSP do Azure existente, você terá os seguintes impactos de cobrança:
 
@@ -91,19 +89,21 @@ Se você fizer a transição de um cliente de uma oferta do CSP do Azure existen
 
 Para fazer a transição de Contratos Corporativos diretos para o CSP e o Servidor e os Registros de nuvem para os Serviços do Azure, leia [Obter a propriedade de cobrança das assinaturas do Azure para o Contrato de Parceiro da Microsoft](https://docs.microsoft.com/azure/billing/mpa-request-ownership)
 
-**Log de auditoria**:
+### <a name="audit-log"></a>Log de auditoria
 
-Para reconciliar a cobrança, veja seu histórico de assinaturas do “Microsoft Azure” (0145P) na página **Assinaturas**. 
+Para reconciliar a cobrança, veja seu histórico de assinaturas do “Microsoft Azure” (0145P) na página **Assinaturas**.
 
 A assinatura do “Microsoft Azure” (0145P) é composta por duas partes:
-1. Assinatura do Commerce 
+
+1. Assinatura do Commerce
 2. Assinatura do Azure (direito)
 
 Quando a transição for concluída, a assinatura do Azure será movida no novo plano do Azure e a assinatura do Commerce será suspensa para que nenhum uso adicional seja relatado.  
 
->[Observação]\: Quando a assinatura do Microsoft Azure (0145P) é adquirida no CSP, tanto a assinatura do Commerce quanto a assinatura do Azure (direito) têm o mesmo valor. Somente no caso de alterações ou transferências na propriedade de cobrança é que os valores diferem. 
+>[!Note]
+>Quando a assinatura do Microsoft Azure (0145P) é adquirida no CSP, tanto a assinatura do Commerce quanto a assinatura do Azure (direito) têm o mesmo valor. Somente no caso de alterações ou transferências na propriedade de cobrança é que os valores diferem.
 
-**Problemas de transição**
+### <a name="transition-issues"></a>Problemas de transição
 
 Não prevemos nenhum problema durante as transições. Caso ocorra alguma, nós o atualizaremos ao longo do próprio fluxo de trabalho de transição. Não deverá haver distúrbios para o uso do Azure.  
 
@@ -112,6 +112,3 @@ Não prevemos nenhum problema durante as transições. Caso ocorra alguma, nós 
 - [Gerenciar assinaturas e recursos no âmbito do plano do Azure](azure-plan-manage.md)
 
 - [Crédito ganho pelo parceiro – visão geral](partner-earned-credit.md)
-
-
-

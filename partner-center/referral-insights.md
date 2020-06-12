@@ -1,22 +1,23 @@
 ---
-title: Obter informações de indicação | Partner Center
+title: Obter insights de indicação
 ms.topic: article
-ms.date: 07/12/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Revise os dados de informações de indicação regularmente para ajudar a identificar tendências ou áreas que precisam de atenção e comece a conduzir rumo às suas metas de negócios.
-author: JnHs
-ms.author: jenhayes
+description: Revise seus dados de informações de referência regularmente na Central de parceiros para ver tendências para abordar ou melhorar áreas para ajudá-lo a alcançar suas metas de negócios.
+author: LauraBrenner
+ms.author: labrenne
 keywords: indicação, análise, análise, métrica, conversão
 ms.localizationpriority: high
-ms.openlocfilehash: fb1e93f830ea8ae8baaf4c75107511df88807f47
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2c13f2e6d8500b715aa29fb3f0178e7ed020062a
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "73654123"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467446"
 ---
-# <a name="get-referral-insights"></a>Obter insights de indicação
+# <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenha informações de referência na Central de parceiros e descubra como estão suas referências
 
 **Aplica-se a**
 
@@ -54,7 +55,7 @@ O percentual de métricas de alteração (mostrado em vermelho ou verde, com um 
 
 Este gráfico permite que você veja quais de suas soluções estão impulsionando a maioria das indicações e o maior volume de negócios.
 
-O gráfico de pizza mostra uma exibição de todas as principais soluções por volume de acordo com as referências que foram ganhas. Mais detalhes são mostrados para a solução de maior desempenho durante o período de tempo selecionado. Para cada uma dessas soluções, você pode ver o número total de negociações ganhas, o tamanho médio da negociação (em USD), o volume total de transações (em USD) e a taxa de conversão (mostrando o percentual de negociações ganhas).
+O gráfico de pizza mostra uma exibição de todas as principais soluções por volume de acordo com as referências que foram ganhas. Mais detalhes são mostrados para as quatro soluções de melhor desempenho durante o período selecionado. Para cada uma dessas soluções, você pode ver o número total de negociações ganhas, o tamanho médio da negociação (em USD), o volume total de transações (em USD) e a taxa de conversão (mostrando o percentual de negociações ganhas).
 
 ## <a name="solution-performance-breakdown"></a>Detalhamento de desempenho da solução
 

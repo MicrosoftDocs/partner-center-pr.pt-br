@@ -1,23 +1,23 @@
 ---
-title: Renovar suas ofertas do MPN | Partner Center
+title: Renovar suas ofertas do MPN
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Sua janela de renovação da assinatura de ofertas do MPN começa no aniversário da data da compra, mais um dia.
+description: Renovar as ofertas da Microsoft Partner Network (MPN) para Microsoft Action Pack e competências - a janela de renovação começa no aniversário da data da compra mais um dia.
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, Microsoft Action Pack, MAPS, renovação de competência, data de renovação
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 69c0fbfb2afea9607481b1c0d0e1bfe02a27ad24
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c980c7820efcb5eba5de88356587c27719d0ce14
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "81873197"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467396"
 ---
-# <a name="renew-your-mpn-offers"></a>Renovar suas ofertas do MPN
+# <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>Renove as ofertas de MPN para Microsoft Action Pack e competências durante a janela de renovação
 
 **Aplica-se a**
 
@@ -27,34 +27,34 @@ O Microsoft Action Pack e as competências são ofertas para membros do Microsof
 
 Para saber mais, selecione o link apropriado abaixo: 
 
--    [Competências](learn-about-competencies.md)
-    
--    [Microsoft Action Pack](mpn-get-action-pack.md)
+- [Competências](learn-about-competencies.md)
 
--    [Como gerenciar seus benefícios](manage-your-partner-network-benefits.md)
+- [Microsoft Action Pack](mpn-get-action-pack.md)
+
+- [Como gerenciar seus benefícios](manage-your-partner-network-benefits.md)
 
 ## <a name="renewal-reminders"></a>Lembretes de renovação 
 
-Você tem 30 dias após a data de aniversário para renovar. Seus benefícios permanecem durante esse período. 15 dias antes da data de aniversário, a Microsoft o lembrará do seu futuro aniversário. Você receberá outro lembrete 23 dias após a data de aniversário. Se renovar durante essa janela de aniversário mais 30 dias, os benefícios permanecerão intactos. Se não renovar dentro da janela de renovação, você perderá seus benefícios e suas competências. 
+Você tem 30 dias após a data de aniversário para renovar. Seus benefícios permanecem durante esse período. 15 dias antes da data de aniversário, a Microsoft o lembrará do seu futuro aniversário. Você receberá outro lembrete 23 dias após a data de aniversário. Se renovar durante essa janela de aniversário mais 30 dias, os benefícios permanecerão intactos. Se não renovar dentro da janela de renovação, você perderá seus benefícios e suas competências.
 
-Se você renovar durante a janela de renovação, a nova data de aniversário será 365 dias após o aniversário atual. 
+Se você renovar durante a janela de renovação, a nova data de aniversário será 365 dias após o aniversário atual.
 
-## <a name="responding-to-covid-19"></a>Responder à COVID-19: 
+## <a name="responding-to-covid-19"></a>Responder à COVID-19:
 
 Para ajudar você a se concentrar em dar suporte a seus clientes, **se a data de aniversário de sua competência for entre 1 de janeiro e 30 de junho de 2020**, estenderemos sua competência ou competências existentes até a próxima data de aniversário em 2021. Seus lembretes de renovação de competência serão atualizados de acordo com essa nova oferta. 
 
--    **Se sua competência estiver chegando perto da renovação**, você verá na Central de Parceiros que os requisitos foram atendidos. Para renovar, você precisará pagar o valor de competência durante a janela de renovação na página de Ofertas de associação. 
+- **Se sua competência estiver chegando perto da renovação**, você verá na Central de Parceiros que os requisitos foram atendidos. Para renovar, você precisará pagar o valor de competência durante a janela de renovação na página de Ofertas de associação. 
 
--    **Se a janela de renovação já passou**, você pode reativar a competência e obter acesso a recursos e benefícios ao pagar o valor na página Ofertas de associação. Essa extensão estará disponível até 30 de junho de 2020.   
+- **Se a janela de renovação já passou**, você pode reativar a competência e obter acesso a recursos e benefícios ao pagar o valor na página Ofertas de associação. Essa extensão estará disponível até 30 de junho de 2020.   
 
 ### <a name="how-to-view-this-information"></a>Como exibir essas informações
 
-1.    No menu da Central de Parceiros em seu painel, selecione **Competências**.  
+1. No menu da Central de Parceiros em seu painel, selecione **Competências**.  
 
-2.    Na lista de competências disponíveis, as suas devem estar marcadas como Concluídas.  
+2. Na lista de competências disponíveis, as suas devem estar marcadas como Concluídas.  
 
-3.    Selecione o nome da competência. Você verá um aviso de que recebeu uma isenção dos requisitos até a data da próxima renovação.   
+3. Selecione o nome da competência. Você verá um aviso de que recebeu uma isenção dos requisitos até a data da próxima renovação.   
 
-4.    Para aproveitar essa oferta, acesse **Ofertas de associação**. Talvez seja necessário pagar o valor de competência para concluir o processo, dependendo do status de compra ou renovação da sua competência. 
+4. Para aproveitar essa oferta, acesse **Ofertas de associação**. Talvez seja necessário pagar o valor de competência para concluir o processo, dependendo do status de compra ou renovação da sua competência. 
 
 Para aproveitar a extensão, você precisa ter movido sua associação do PMC (Partner Membership Center) para a Central de Parceiros para poder renovar sua competência e pagar o valor. Se você não tiver movido sua associação, [obtenha mais informações](prepare-pmc-pc-migration.md) e [faça a transição](https://partners.microsoft.com/partnerprogram/Welcome.aspx) hoje mesmo.  
