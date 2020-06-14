@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e5fc08500cfe78f8e814ed361062c209b0f76ef
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: 84bed4fac8984b3fc8757b8185da514c5d8212d6
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998412"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749195"
 ---
 # <a name="one-time-and-recurring-reconciliation-files-in-partner-center"></a>Arquivos de reconciliação recorrentes e de uso único no Partner Center
 
@@ -56,7 +56,7 @@ Este tópico explica como ler arquivos de reconciliação recorrentes e de uso �
 | SubTotal | Total sem imposto. Verifica se o SUBTOTAL corresponde ao seu total esperado, no caso de um desconto. |
 | TaxTotal | Encargo do valor do imposto. Com base nas regras de imposto do mercado e em circunstâncias específicas. |
 | Total | Total com imposto. Verifica se o imposto é cobrado na fatura. |
-| Moeda | Tipo de moeda. Cada entidade de cobrança tem apenas uma moeda. Verifique se isso corresponde à sua primeira fatura e verifique novamente após as principais atualizações da plataforma de cobrança. |
+| Currency | Tipo de moeda. Cada entidade de cobrança tem apenas uma moeda. Verifique se isso corresponde à sua primeira fatura e verifique novamente após as principais atualizações da plataforma de cobrança. |
 | PriceAdjustmentDescription | Uma explicação de qualquer desconto aplicável. |
 | PublisherName | O nome do distribuidor do produto.
 | PublisherId | Identificador exclusivo de um Publicador específico. |

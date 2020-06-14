@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 214eedf60d89172b7c003acf927853ff04d7fd72
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 83545002fbc0138e4020473a9554d9127e7771b4
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603855"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749204"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Entender os arquivos de reconciliação com base no uso e seus campos específicos no Partner Center
 
@@ -57,7 +57,7 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 | PretaxCharges | Igual a **ListPrist** multiplicado por **OverageQuantity**, arredondado para a cento mais próxima. | *U$ 0,085* |
 | TaxAmount | Valor de imposto cobrado. Com base nas regras de imposto do mercado e em circunstâncias específicas. | *$0.08* |
 | PostTaxTotal | Total após impostos, quando o imposto é aplicável. | *$0.93* |
-| Moeda | Tipo de moeda. Cada entidade de cobrança tem apenas uma moeda. Verifique se ele corresponde à sua primeira fatura e depois das principais atualizações da plataforma de cobrança. | *$* |
+| Currency | Tipo de moeda. Cada entidade de cobrança tem apenas uma moeda. Verifique se ele corresponde à sua primeira fatura e depois das principais atualizações da plataforma de cobrança. | *EUR* |
 | PretaxEffectiveRate | Pretax preço por unidade. Igual a **PretaxCharges** dividido por **OverageQuantity**, arredondado para a cento mais próxima. | *$0.08* |
 | PostTaxEffectiveRate | Preço de imposto de POST por unidade. Igual a **PostTaxTotal** dividido por **OverageQuantity**, arredondado para a cento mais próxima. Ou, igual a **PretaxEffectiveRate** mais a taxa de imposto por valor de unidade, arredondada para a Centa mais próxima. | *$0.08* |
 | ChargeType | O [tipo de encargo](recon-file-charge-types.md) ou ajuste. | Consulte [tipos de cobrança](recon-file-charge-types.md). |
