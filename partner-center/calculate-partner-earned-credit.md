@@ -1,7 +1,7 @@
 ---
-title: Como o crédito ganho do parceiro é calculado | Centro de parceiros
+title: Como o crédito ganho do parceiro é calculado
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como o aspecto de crédito de parceiro (PEC) do Azure Plan é calculado. Isso inclui requisitos de qualificação para parceiros e provedores indiretos.
@@ -9,18 +9,19 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: aee60449a31cf1908912cc1fa62e2bf2c003f998
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 70c17a2fe4a2f61745d04a62d680a3b523f85fa4
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721731"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788730"
 ---
-# <a name="how-the-partner-earned-credit-pec-is-calculated"></a>Como o PEC (crédito ganho) do parceiro é calculado
+# <a name="how-partner-earned-credit-pec-is-calculated-for-partners-in-the-cloud-solution-provider-program"></a>Como o PEC (crédito ganho de parceiro) é calculado para parceiros no programa de provedor de soluções na nuvem
 
 **Funções apropriadas**
 
-- Administração global
+- Administrador global
 - Administrador de cobrança
 
 Os parceiros que possuem o gerenciamento de operações de ti 24x7 de partes ou todo o ambiente do Azure de seus clientes no CSP são recompensados com o PEC. O PEC é fornecido como parte da fatura para o parceiro que tem uma relação de cobrança direta com a Microsoft. O crédito é calculado diariamente e refletido na nota fiscal mensal. Por padrão, no CSP, os parceiros recebem os direitos de acesso necessários à assinatura do cliente que permite que eles tenham gerenciamento de operações 24X7 e controle dos recursos na assinatura. As maneiras adicionais pelas quais o cliente pode provisionar o acesso para o parceiro de transformação são descritas na seção a seguir.

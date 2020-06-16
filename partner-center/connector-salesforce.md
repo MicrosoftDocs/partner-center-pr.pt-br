@@ -9,12 +9,12 @@ ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e2cbe4b6f5418cea4d992b9e68daa7e0ed3ec09
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: ab70766e0bc20b170a1fb9c12a9bea0e6268b06d
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453253"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788770"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Conector de venda conjunta para o Salesforce CRM – visão geral
 
@@ -233,12 +233,12 @@ Os campos personalizados a seguir devem fazer parte da seção CRM:
 
    |**Rótulo do campo**   |**Nome do campo**|**Data type**|**Indexa**|
    |---------------------|:-------------------|:--------------|:----------------|
-   |Audit|  Audit__c|Área de texto longo (100.000) (linha visível 4)||
-   |Como a Microsoft pode ajudar?|Ow_can_Microsoft_help__c H|Seleção|
-   |Produtos|Produtos-c|texto (255)||
-   |Indicação |  Referral_Identi fier__c|Texto (100) (ID externa)|sim|
-   |Link de referência|   Referral_Link__c_|URL (255)||
-   |Sincronizar com o parceiro CEN.|sincronizar-com-Partner-Center-c|Caixa de seleção (padrão desmarcado)||
+   |Audit| Audit__c|Área de texto longo (100.000) (linha visível 4)||
+   |Como a Microsoft pode ajudar?|How_can_Microsoft_help_c|Seleção|
+   |Produtos|Products_c|texto (255)||
+   |Indicação | Referral_Identfier_c|Texto (100) (ID externa)|sim|
+   |Link de referência| Referral_Link_c_|URL (255)||
+   |Sincronizar com o Partner Center|sync_with_partner_center_c|Caixa de seleção (padrão desmarcado)||
 
    * Valores da lista de seleção:
 

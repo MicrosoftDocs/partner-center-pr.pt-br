@@ -1,19 +1,21 @@
 ---
-title: Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Cloud for US Government | Partner Center do Microsoft Cloud for US Government
+title: Inscrever-se no programa Provedor de Soluções na Nuvem
 ms.topic: article
-ms.date: 11/27/2019
+titleSuffix: Microsoft Cloud for US Government - Partner Center
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Antes de se inscrever no programa Provedor de Soluções na Nuvem do Microsoft Cloud for US Government, saiba mais sobre os requisitos do programa CSP.
+description: Saiba mais sobre os requisitos do programa CSP para parceiros que desejam se registrar no programa do provedor de soluções na nuvem para Microsoft Cloud para o governo dos EUA.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b9de82652543843b09dfdb00829c7911c20c572
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 060fd94567c84e7c1652fb538cc1786d8b807787
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798364"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788780"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Cloud for US Government
 
@@ -79,7 +81,7 @@ O Microsoft Cloud for US Government fornece uma instância separada do Microsoft
 
 2.  Atribua a função de Agente Administrador para os usuários apropriados em sua organização. Para fazer isso, você precisará adicioná-los ao grupo integrado **AdminAgent**. Consulte [Gerenciar os membros de um grupo no Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) para obter informações sobre como fazer isso.
  
-## <a name="connect-with-us"></a>Fale conosco
+## <a name="connect-with-us"></a>Conecte-se conosco
 
 - Perguntas? Envie o email para azgovcsp@microsoft.com
 

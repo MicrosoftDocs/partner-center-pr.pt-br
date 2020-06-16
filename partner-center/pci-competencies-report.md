@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19165550cfcd9b6b62a548e7d21c1ee58df691dc
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 99eda121ac876be0d753b7d7f147b054562a844d
+ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679353"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84776283"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de competências disponível no painel do Partner Center insights
 
@@ -50,7 +50,7 @@ Você pode ver as seguintes seções do relatório competências:
  > [!NOTE]
  > Esse relatório está disponível no painel de informações. Para exibir esse relatório, você deve ser atribuído a uma função específica no Partner Center, como administrador global, administrador da conta, visualizador de relatórios ou Visualizador de relatórios do Executive. Para obter mais informações, consulte o administrador global da sua empresa. Tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de visualizador de relatórios executivos.
 
-**Summmary**
+**Resumo**
 
 A exibição de resumo apresenta uma contagem de competências com seus nomes em cada nível de competência (ouro/prata) em todos os estágios do ciclo de vida de competência. Os estágios do ciclo de vida de competência incluem: **iniciado**, **qualificado**, **ativo**e **em risco**. Exemplo: os requisitos de competência de nuvem se enquadram em duas categorias: habilidades e desempenho.
 

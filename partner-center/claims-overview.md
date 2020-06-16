@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: reivindicações de incentivos, reivindicações de cooperação, fundos de cooperação
 ms.localizationpriority: medium
-ms.openlocfilehash: d5252427ad35e33b391edfce2d4cd100dc33f5c1
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: f966406c0cc5e2bb427cd07a14755f41f1b55b28
+ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721626"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84776273"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Visão geral de reivindicações de cooperação de incentivos
 
@@ -27,7 +27,7 @@ ms.locfileid: "74721626"
 - Administrador de incentivos
 - Usuário de incentivos
 
-Quando você participa de um dos programas de incentivos da Microsoft (como o parceiro, o financiamento de marketing cooperativo, o programa Online Services Advisor ou o programa do Dynamics ISV), você alega reembolsos de fundos acumulados para atividades que você fez dê suporte ao reconhecimento de produtos da Microsoft. Você envia uma declaração diretamente do Partner Center. Você não precisa ter seu plano de atividade examinado pela Microsoft antes de enviar uma reivindicação. Envie sua reivindicação e a documentação necessária até o prazo final do período de reivindicação , que é 45 dias após o término do período de uso. 
+Quando você participa de um dos programas de incentivos da Microsoft (como o parceiro, fundos de marketing cooperativos, programa Online Services Advisor ou programa de ISV do Dynamics), você alega reembolsos de fundos acumulados para atividades que você fez que dão suporte ao reconhecimento de produtos da Microsoft. Você envia uma declaração diretamente do Partner Center. Você não precisa ter seu plano de atividade examinado pela Microsoft antes de enviar uma reivindicação. Envie sua declaração e a documentação necessária não mais tarde do prazo do período de declaração, que é de 45 dias após o final do período de uso.
 
 Uma reivindicação bem-sucedida inclui:
 
@@ -41,10 +41,10 @@ Uma reivindicação bem-sucedida inclui:
 
 |**Para fazer isso**   |**Leia isto**   |
 |-----------------|:--------------------------------------|
-|Enviar uma reivindicação e incluir a documentação correta|[Criar e gerenciar uma declaração de atividade do programa de incentivos](create-incentives-claims.md)|
-|Depois que você tiver enviado a reivindicação, gerenciar solicitações de documentação adicional|[Criar e gerenciar uma declaração de atividade do programa de incentivos](create-incentives-claims.md)  |
-|Conhecer os principais requisitos para a reivindicação de atividade|[Conhecer os principais requisitos de incentivos de declarações](core-requirements.md)   |
-|Conhecer os detalhes completos do programa de incentivos|[Incentivos para parceiros Guidebook de cooperação](https://assets.microsoft.com/coop-guidebook.pdf)
+|Enviar uma reivindicação e incluir a documentação correta|[Criar e gerenciar uma reivindicação de atividade do programa de incentivos](create-incentives-claims.md)|
+|Depois de enviar a declaração, gerencie solicitações de documentação adicionais|[Criar e gerenciar uma reivindicação de atividade do programa de incentivos](create-incentives-claims.md)  |
+|Conhecer os principais requisitos para a reivindicação de atividade|[Conhecer os requisitos básicos para reivindicações de incentivos](core-requirements.md)   |
+|Conhecer os detalhes completos do programa de incentivos|[Guia de cooperação de incentivos do parceiro](https://assets.microsoft.com/coop-guidebook.pdf)
 |Criar uma associação de cliente e enviar uma declaração |[Criar uma associação de cliente usando o modelo CPOR](submit-osa-claim.md)|
                                                                                  
                                    

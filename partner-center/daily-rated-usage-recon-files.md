@@ -1,19 +1,19 @@
 ---
 title: Arquivos de reconciliação de uso com classificação diária
 ms.topic: article
-ms.date: 05/15/2020
+ms.date: 06/12/2020
 description: Saiba como ler arquivos de reconciliação de uso com classificação diária no Partner Center.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3536b1b71dd8378e88ac14726adcca7fa0e08530
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 34798a2be0e82c8cc8c328c9a95d9d9e4b57551f
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795590"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788800"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Saiba como ler arquivos de reconciliação de uso com classificação diária no Partner Center
 
@@ -30,6 +30,9 @@ ms.locfileid: "83795590"
 - Agente de suporte técnico
 
 Este tópico explica como ler arquivos de reconciliação de uso com classificação diária.
+
+>[!NOTE]
+>O uso com classificação diária normalmente leva 24 horas para aparecer no Partner Center ou para ser acessado por meio da API.
 
 ## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>Campos em arquivos de reconciliação de uso com classificação diária
 
