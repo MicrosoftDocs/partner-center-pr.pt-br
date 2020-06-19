@@ -5,18 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba quando faz sentido escalar um problema de serviço do cliente para a Microsoft e como arquivar um tíquete de suporte para ele.
-ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: LauraBrenner
 ms.author: labrenne
 Keywords: solicitação de serviço, tíquete de serviço, suporte, direito de suporte, Aobo, AOBO do Azure
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf4dcadceeb6d16661faf0c458277f51833c55eb
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 4a2378c947f9b871ec9cba104136fcede72f0f72
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467376"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992039"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Relatar um problema de serviço em nome de um cliente, incluindo quando e como fazer isso
 

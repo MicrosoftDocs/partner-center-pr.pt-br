@@ -5,18 +5,17 @@ ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como adicionar um novo registro de cliente no Partner Center. Em seguida, você pode vender as assinaturas de cliente, gerenciar a cobrança ou fornecer suporte ao cliente.
-ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: LauraBrenner
 ms.author: labrenne
 keywords: cliente, adicionar cliente, conta do cliente, conta do cliente no Partner Center, clientes, adicionar clientes, criar conta do cliente
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 005e1d044f1d006b878eb85717a14f5e3ce3030b
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: fcfb35585dc145917614f4557465cb2661dd254a
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362684"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991108"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Como adicionar um novo registro de cliente no Partner Center
 

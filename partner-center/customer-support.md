@@ -5,17 +5,16 @@ ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre as responsabilidades de atendimento ao cliente para parceiros no programa CSP.
-ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 6c12f56f30c347266c4f02ea74ac09ac0e37cb7b
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 8755fe3211ade0a0a50e0e03813edd267ba13e70
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907890"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991333"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Fornecendo diferentes tipos de suporte para seus clientes
 

@@ -5,18 +5,17 @@ ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: 913e31aa-21b9-447c-988c-7487d82b3c4f
 author: LauraBrenner
 ms.author: labrenne
 keywords: educação, segmentos especiais
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24100c6316eb2f4d957562163e1daf0ba15119be
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 0b0b576348ed3c703fe517bbeef6271e3dcade08
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453293"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992169"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Como vender ofertas para clientes de educação & como criar um cliente de educação no Partner Center
 
@@ -80,7 +79,7 @@ Você deve ter privilégios de administrador global para atualizar as informaç�
 
 2. Atualize o navegador para redefinir a página. Haverá um botão de **atualização** e o **status de qualificações especiais** será definido como **nenhum**.
 
-3. Selecione **Atualizar**. Na página **Gerenciamento de serviços** , selecione **Office 365**.
+3. Selecione **Atualização**. Na página **Gerenciamento de serviços** , selecione **Office 365**.
 
 4. Você será redirecionado para o centro de administração do Office 365 em uma nova guia do seu navegador. Talvez seja solicitado que você entre com suas credenciais.
 

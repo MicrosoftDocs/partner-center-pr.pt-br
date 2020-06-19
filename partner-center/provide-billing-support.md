@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre o suporte de cobrança do cliente necessário dos parceiros do programa CSP. Isso inclui a propriedade da relação de cobrança do cliente e a resposta a perguntas de cobrança.
-ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3f0a190c7ff2215d32ca556613650a4780289481
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 620b301aa428aef3348e316667b82507d2fc3b5b
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467486"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992063"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Fornecer suporte de cobrança para seus clientes e ajudar a responder suas perguntas de cobrança
 

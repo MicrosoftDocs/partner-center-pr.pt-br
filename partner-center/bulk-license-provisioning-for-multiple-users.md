@@ -5,18 +5,17 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como usar uma conta de cliente para atribuir ou revogar licenças e serviços a um usuário ou a vários usuários ao mesmo tempo.
-ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: LauraBrenner
 ms.author: labrenne
 Keywords: atribuir licença, revogar licença, atribuir a vários usuários,
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 6d3baeed12d26f273848fb144651475d304f8d36
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: 6508fad5e72e73cfab6310a413fded49d939158a
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788681"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991633"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Atribuir ou revogar licenças ao mesmo tempo para vários usuários em uma conta de cliente
 

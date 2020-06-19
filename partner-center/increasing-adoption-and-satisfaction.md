@@ -5,17 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como usar as métricas no Partner Center. As métricas podem mostrar se sua empresa está crescendo, como os clientes usam suas licenças e onde concentrar o investimento.
-ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aef7142b94d446d149a4cb5930c422197347a0f0
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 32c765797af31095ddec0c43c9bb132b68e1d319
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794869"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992109"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Use as métricas no Partner Center para aumentar a adoção e a satisfação
 

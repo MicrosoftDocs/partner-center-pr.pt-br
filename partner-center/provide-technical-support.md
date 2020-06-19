@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre os tipos de suporte técnico que os parceiros do programa de provedor de soluções na nuvem podem oferecer aos seus clientes.
-ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a79de85bb7b564c58f08f1856eb46a2049bd170c
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 09f4b9e07957ccede25a493f5b05d9112d2955eb
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467476"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992050"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Fornecer suporte técnico para ajudar os clientes a configurar, gerenciar e usar suas assinaturas
 

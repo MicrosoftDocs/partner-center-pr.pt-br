@@ -5,18 +5,17 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como criar contas de usuário para um cliente, adicionar ou remover licenças de usuário, redefinir senhas de usuário, excluir contas de usuário ou restaurá-las.
-ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: LauraBrenner
 ms.author: labrenne
 Keywords: gerenciamento de clientes, conta, criar conta, licenças, atribuir licença, gerenciamento de usuários, senha, Redefinir senha, alterar senha
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9fa251bb6211786df0e6255d0d8ce7a2310a52ad
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 3fb55e341692e38250c4e751cf73f3120604c15a
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795031"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991029"
 ---
 # <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>Tarefas de gerenciamento de usuário para contas de clientes no Partner Center
 

@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: Análises do Partner Center, relatórios, relatórios de download
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d97e21c8ca68f2a93bec949f948d24726d9f6231
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: 3e1b816f2611507370dcf1a120c84d26a1e13bd9
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84793172"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072451"
 ---
 # <a name="download-reports"></a>Baixar relatórios
 
@@ -37,7 +37,8 @@ Para gerar um relatório, primeiro selecione o relatório na lista suspensa **se
 
 :::image type="content" source="images/pci/generated-reports.png" alt-text="Relatórios gerados":::
 
->ANOTAÇÕES Somente os usuários que são visualizadores de relatórios executivos podem baixar relatórios. Para obter mais informações sobre o acesso baseado em função aos relatórios do painel do insights, consulte [funções de PCI](pci-roles.md). 
+>[!NOTE] 
+>Somente os usuários que são visualizadores de relatórios executivos podem baixar relatórios. Para obter mais informações sobre o acesso baseado em função aos relatórios do painel do insights, consulte [funções de PCI](pci-roles.md). 
 
 ## <a name="available-reports"></a>Relatórios disponíveis
 

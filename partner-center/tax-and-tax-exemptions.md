@@ -5,18 +5,17 @@ ms.date: 06/05/2020
 description: Para parceiros do programa CSP, saiba mais sobre as responsabilidades do imposto por região, como enviar isenções fiscais para vendas do CSP e como obter suporte para perguntas sobre impostos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: LauraBrenner
 keywords: imposto, isenção de impostos, IVA, revendedor, cobrança
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a25ddebe1417377005a97534ac2f1b6556e68cd6
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 1236facdfdb1f73f940c36c4a748cc9a1694e72c
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458292"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991787"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Leia sobre impostos e detalhes de isenção de imposto por região ou país para parceiros no programa CSP
 

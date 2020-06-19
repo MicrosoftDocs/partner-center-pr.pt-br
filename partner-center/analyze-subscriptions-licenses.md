@@ -6,17 +6,16 @@ ms.subservice: partnercenter-csp
 Description: Saiba como usar as métricas na página assinatura e análise de licença para identificar seus sucessos e áreas que precisam de mais atenção.
 author: LauraBrenner
 ms.author: labrenne
-ms.assetid: 1922FCE8-3A89-44ED-B4E1-BFCD2326BB06
 ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 494ef694410f193e3b76e476e5a6571b7ecf27e0
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 671d0bed6a8d3a71aa641fde296ead6c665dce3f
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722369"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991016"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>Analisar as assinaturas e as licenças 
 
@@ -27,7 +26,7 @@ ms.locfileid: "74722369"
 
 **Funções apropriadas**
 
-- Administração global
+- Administrador global
 - Administrador de gerenciamento de usuário
 - Agente administrativo
 - Agente de vendas
@@ -62,7 +61,7 @@ Estamos monitorando as seguintes métricas:
 **Retenção de assinatura**
  - **Assinaturas renovadas**: assinaturas renovadas nos últimos 30 dias  
 
-**Variação de assinatura**  
+**Variação da assinatura**  
  - **Novas assinaturas**: contagem de novas assinaturas no período de tempo, excluindo ofertas de avaliação  
  - **Assinaturas desprovisionadas**: contagem das assinaturas desprovisionadas ou suspensas por data  
 
@@ -72,7 +71,7 @@ Estamos monitorando as seguintes métricas:
 **Assinaturas ativas**
  - Lista de todas as assinaturas ativas  
 
-**Conversões de assinatura de avaliação**  
+**Conversões de assinaturas de avaliação**  
  - **Conversão de avaliação**: contagem de todas as assinaturas **Ativas** onde a conversão de avaliação para paga ocorreu durante o período de tempo especificado  
 
 **Assinaturas de avaliação terminando em 30 dias**  

@@ -5,18 +5,17 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como adicionar vários usuários à conta de um cliente de uma só vez. Carregue um arquivo de dados no Partner Center usando o formato de arquivo. csv (valores separados por vírgulas).
-ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 keywords: upload em massa, adicionar vários usuários a uma conta do cliente, adicionar usuários do cliente, upload em massa de usuários do cliente, conta do cliente, usuários do cliente, usuários
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1929eb7eee7f23de6ae6e8dcd343d38fe2414f6f
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 09bb83b82cf1db78a54af9bab98a5cbdaa00c0d9
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794899"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991077"
 ---
 # <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>Adicionar vários usuários a uma conta de cliente – carregar um arquivo de dados no Partner Center
 
@@ -44,7 +43,7 @@ Insira os seguintes dados no arquivo de dados:
 
 |                 |                                                                              |                                            |
 |-----------------|------------------------------------------------------------------------------|--------------------------------------------|
-| **Nome da coluna** | **Descrição**                                                              | **Limitações**                             |
+| **Nome da coluna** | **Descrição**                                                              | **Limitação**                             |
 | Nome      | Nome do usuário (campo opcional)                                           | limite de 50 caracteres                         |
 | Sobrenome       | Sobrenome do usuário (campo opcional)                                            | limite de 50 caracteres                         |
 | Nome de exibição    | Nome exibido no Partner Center (campo obrigatório)                            | limite de 50 caracteres                         |
@@ -72,7 +71,7 @@ Insira os seguintes dados no arquivo de dados:
     **Observação**    A maioria dos erros de criação de conta é causada por problemas de arquivo de dados, incluindo informações ausentes, endereços de email malformados ou duplicados ou muitos registros no arquivo.
 
 8. Depois que o Partner Center validar o arquivo, selecione o **local** geográfico para os novos usuários.
-9. Selecione **Salvar**.
+9. Clique em **Salvar**.
 10. Baixe as informações de senha temporária para os usuários.
 
 **IMPORTANTE:** Certifique-se de baixar o arquivo com as senhas temporárias agora, pois não será possível fazer isso mais tarde. Os novos usuários devem fazer logon em suas novas contas usando a respectiva senha temporária.
