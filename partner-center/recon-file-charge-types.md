@@ -3,17 +3,16 @@ title: Tipos de encargo de arquivo de reconciliação
 ms.topic: article
 ms.date: 06/05/2020
 description: Descubra os tipos de encargos (como, baseado em licença, com base no uso e em uma única vez), créditos e descontos em arquivos de reconciliação do Partner Center.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7a5c227748ba24001288ecbec0a5487d38033897
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 1ec4f4a483ecfd106f7ec41b85372e136524a046
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467506"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909104"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Entender os diferentes tipos de encargo em arquivos de reconciliação do Partner Center
 

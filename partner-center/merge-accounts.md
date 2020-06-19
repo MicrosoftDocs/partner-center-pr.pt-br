@@ -1,19 +1,17 @@
 ---
-title: Mesclando sua conta de parceiro com outra conta de parceiro
-ms.topic: article
-ms.date: 06/12/2020
+title: Mesclar sua conta de parceiro com outra conta de parceiro
 description: As empresas que estão ativas parceiros da Microsoft no Partner Center podem mesclar suas contas.
-ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
+ms.topic: article
 author: LauraBrenner
 ms.author: labrenne
-ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 03689f250f86a2abdedbcd062766020b15520108
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.date: 06/12/2020
+ms.openlocfilehash: 479b22e3b9666184a1dc2f75ba1f36f721d31445
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788680"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909024"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Mesclar sua conta de parceiro com outra conta de parceiro
 
@@ -35,7 +33,7 @@ Duas ou mais empresas que estão ativas parceiros da Microsoft e que têm contas
 
 - Todas as IDs de MPN para locais são preservadas durante essa consolidação.
 
-- As funções do usuário são trazidas. Por exemplo, se um usuário tivesse sido o administrador de incentivos para um local específico, ele ainda teria essa função depois da fusão e poderá ver os incentivos vistos antes da fusão.
+- As funções do usuário são trazidas. Por exemplo, se um usuário tivesse sido o administrador de incentivos para um local específico, ele ainda teria essa função após a fusão e poderá ver os incentivos vistos antes da fusão.
 
 - Os locatários e as contas do CSP do Azure AD não são mesclados e não têm impacto.
 
@@ -43,8 +41,7 @@ Duas ou mais empresas que estão ativas parceiros da Microsoft e que têm contas
 
 ### <a name="view-of-merged-accounts"></a>Exibição de contas mescladas
 
-
-:::image type="content" source="images/AccountMerge-graphic.png" alt-text="Fusão de contas":::
+:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="Fusão de contas":::
 
 ## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>O que esperar se você tiver sido convidado para mesclar sua conta do Partner Center com outra conta do Partner Center
 
@@ -62,11 +59,11 @@ Se você decidir aceitar o convite para mesclar contas: · Suas IDs e locais de 
 
 - Durante a fusão de contas e até sua próxima renovação, cada conta reterá seus benefícios de Action Pack e/ou competência. Nas regras de renovação, Action Pack padrão e renovação de competência se aplicam.
 
-- Após a renovação, os benefícios incluídos com a obtenção de competência e Action Pack são implementados para a conta global do parceiro da empresa parceira: 
+- Após a renovação, os benefícios incluídos com a obtenção de competência e Action Pack são implementados para a conta global do parceiro da empresa parceira:
 
-    • Microsoft Action Pack: a empresa parceira poderá comprar uma Action Pack por conta global de parceiro.
+  - Microsoft Action Pack: a empresa parceira poderá comprar uma Action Pack por conta global de parceiro.
 
-    • Competência: a empresa parceira receberá um pacote de principais benefícios, associado à sua obtenção mais alta, além de benefícios específicos da competência que o parceiro está qualificado para cada conta global do parceiro. 
+  - Competência: a empresa parceira receberá um pacote de principais benefícios, associado à sua maior realização, além de benefícios específicos da competência que o parceiro está qualificado para cada conta global do parceiro.
 
 - Todos os benefícios estão sujeitos ao [Guia de uso de Microsoft Partner Network benefícios](https://aka.ms/partner-benefits-use-guide). Por exemplo: um token do O365 E3 ativado é funcional por doze (12) meses após a ativação. Depois que um token tiver sido ativado para estações em um locatário, essas estações não poderão ser movidas para outro locatário.
 

@@ -3,17 +3,16 @@ title: Arquivos de reconciliação de uso com classificação diária
 ms.topic: article
 ms.date: 06/12/2020
 description: Saiba como ler arquivos de reconciliação de uso com classificação diária no Partner Center.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b89efd0cb24fb8aa08160bc6b554c5c2823ba2b
-ms.sourcegitcommit: b2f389ef0beacd722876e6396eab30b28bdf7e78
+ms.openlocfilehash: 37f337734d4f3f9ea67ec434e1bd478a355214bb
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/16/2020
-ms.locfileid: "84811571"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908674"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Saiba como ler arquivos de reconciliação de uso com classificação diária no Partner Center
 

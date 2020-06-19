@@ -1,22 +1,21 @@
 ---
-title: Gerenciar recompensas do Marketplace
+title: Gerenciar o Marketplace Rewards
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Os parceiros que publicam ofertas para o Marketplace comercial estão qualificados para os benefícios que oferecem suporte de marketing.
-ms.assetid: ''
 author: laurabrenner
 ms.author: labrenne
 Keywords: ofertas do Marketplace, suporte de marketing, recompensas, benefícios do Publicador
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6751b1ba7a8a99980154d287df71aa24f9cf63be
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 9df2d287899da4c92ac55a5ac160f0e36b09c520
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795985"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909004"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Gerencie recompensas do Marketplace no Partner Center & ative os benefícios técnicos, de marketing e vendas
 
@@ -40,13 +39,13 @@ A qualificação para recompensas do Marketplace é calculada com base em todos 
 
    Em seguida, faça o seguinte:
 
-   - Selecione um usuário na lista. Se o usuário que você desejar atribuir não estiver na lista, você poderá adicionar novos usuários em Configurações da conta.
+   - Selecione um usuário na lista. Se o usuário que você deseja atribuir não estiver na lista, poderá adicionar novos usuários nas configurações de conta.
 
    - Forneça um endereço de email para o usuário que seja diferente do endereço de email associado à conta do Partner Center da sua empresa. Enviaremos instruções por email para usar suas recompensas do Marketplace para o endereço de email do contato de marketing designado.
 
-   - Forneça o telefone de contato e o idioma preferencial para esse contato de marketing. Depois de concluir a inserção dessas informações, selecione **Atribuir usuário**.
+   - Forneça o telefone de contato e o idioma preferencial para este contato de marketing. Depois de concluir a inserção dessas informações, selecione **Atribuir usuário**.
 
-4. Depois de atualizar o contato de marketing, selecione **Ativar** para o benefício que você deseja começar a usar. Depois de ativar um benefício, seu contato de marketing será contatado por um membro da equipe de recompensas dentro de uma semana.
+4. Depois de atualizar o contato de marketing, selecione **Ativar** para obter o benefício que você deseja começar a usar. Depois de ativar um benefício, seu contato de marketing será contatado por um membro da equipe de recompensas dentro de uma semana.
 
 ## <a name="technical-benefits"></a>Benefícios técnicos
 

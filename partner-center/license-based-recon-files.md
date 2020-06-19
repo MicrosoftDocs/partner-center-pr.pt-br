@@ -3,17 +3,16 @@ title: Arquivos de reconciliação baseados em licença
 ms.topic: article
 ms.date: 05/18/2020
 description: Saiba como ler arquivos de reconciliação baseados em licença no Partner Center. Este artigo explica o significado de cada campo em seu arquivo reconhecimento baseado em licença.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86b3a099f6fe3948b9cb1ca707d43f776f66ca16
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 7ce9400c3672ff09997321b2e55f46daf102ebbd
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795769"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909044"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Entender os campos em arquivos de reconciliação baseados em licença do Partner Center
 
@@ -57,7 +56,7 @@ Para reconciliar as alterações em relação aos pedidos de um cliente, compare
 | Subtotal | Total sem imposto. Verifica se o SUBTOTAL corresponde ao seu total esperado, no caso de um desconto. | *11* |
 | Imposto | Encargo do valor do imposto. Com base nas regras de imposto do mercado e em circunstâncias específicas. | *0* |
 | TotalForCustomer | Total com imposto. Verifica se o imposto é cobrado na fatura. | *11* |
-| Moeda | Tipo de moeda. Cada entidade de cobrança tem apenas uma moeda. Verifique se ele corresponde à sua primeira fatura. Verifique novamente após as principais atualizações da plataforma de cobrança. | *$* |
+| Currency | Tipo de moeda. Cada entidade de cobrança tem apenas uma moeda. Verifique se ele corresponde à sua primeira fatura. Verifique novamente após as principais atualizações da plataforma de cobrança. | *EUR* |
 | DomainName | Nome de domínio do cliente. Este campo pode aparecer em branco até o segundo ciclo de cobrança. *Não use esse campo como um identificador exclusivo para o cliente. O cliente/parceiro pode atualizar o intuitivo ou o domínio padrão por meio do portal do Office 365.* | *example.onmicrosoft.com* |
 | SubscriptionName | Apelido da Inscrição. Se nenhum apelido for especificado, o Partner Center usará o **offername**. | *PROJETO ONLINE* |
 | Descrição da assinatura | O nome da oferta de serviço comprada pelo cliente, conforme definido na tabela de preços. (Este é um campo idêntico a **oferecer**.) | *PREMIUM ONLINE DO PROJETO SEM CLIENTE DO PROJECT* |

@@ -3,17 +3,16 @@ title: Diferenças de cobrança mensal e anual
 ms.topic: article
 ms.date: 05/06/2020
 Description: Saiba como a cobrança mensal e anual difere no Partner Center. Saiba também como alternar entre diferentes tipos de cobrança e as implicações de alternar.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 841e7026651484b4b3c52ecc1e3c297af01f9f16
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 96ff9feded392219ceddd3f800bd3d12e6440a60
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908254"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908964"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>Entenda a diferença entre cobrança mensal e anual no Partner Center
 
@@ -159,7 +158,7 @@ Se um preço de oferta diminuir durante o período de cobrança, o valor cobrado
 
 O crédito de uma licença ou assinatura cancelada é calculado da seguinte maneira:
 
-**Crédito de cancelamento** = ((* * preço mensal * * * 12)/365 \* ) **dias restantes no termo** \* de doze meses de licenças canceladas.
+**Crédito de cancelamento** = ((* * preço mensal * * * 12)/365) \* **dias restantes no termo de doze meses** \* de licenças canceladas.
 
 ## <a name="reconciliation-file"></a>Arquivo de reconciliação
 
@@ -221,7 +220,7 @@ Atualmente, todos os pagamentos de incentivos são feitos duas vezes por ano. Es
 
 Os parceiros ganham incentivos em todas as transações qualificadas, independentemente de como uma assinatura é cobrada. Os ganhos de incentivo são calculados com base na taxa de incentivo global (que é aplicada à receita cobrada para o período), o acelerador local (para todas as geografias em que há aceleradores locais) e quaisquer campanhas globais (quando aplicável).
 
-### <a name="contacts"></a>Contacts
+### <a name="contacts"></a>Contatos
 
 Para dúvidas sobre incentivos, entre em contato com a equipe de suporte de incentivos regionais apropriada:
 

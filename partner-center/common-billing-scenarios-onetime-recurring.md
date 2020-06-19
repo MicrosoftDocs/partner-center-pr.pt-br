@@ -3,18 +3,17 @@ title: Cobrança de compras & recorrentes de uma vez
 ms.topic: article
 ms.date: 05/05/2020
 description: Confira exemplos de cobrança do Partner Center para uma única vez e selecione compras recorrentes--quando você adquire assinaturas, adicione mais assinaturas, adicione ou remova estações.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: cobrança, pagamentos, compra única, compra recorrente, assinaturas, estações
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2c3467fdbe8457a7068a49000bd635b7c464cf29
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 334a670733c4194b89e942cbcea185791e88693b
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908200"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908864"
 ---
 # <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Cenários de cobrança do Partner Center para uma única vez e selecione compras recorrentes
 
