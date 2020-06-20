@@ -1,7 +1,7 @@
 ---
 title: Comprar Microsoft Azure reservas para clientes
 ms.topic: article
-ms.date: 06/08/2020
+ms.date: 06/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Saiba como comprar ou comprar reservas do Azure em nome de seus clientes no Partner Center.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: azure, reservas, gerenciar, cobrança, comprar
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 63fe8bc008b9c1515a3850e60c32ba2d3133ff5c
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 25ff9ac88876b11d76a60db6cf4e471d230dd6f3
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603715"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104110"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Comprar Microsoft Azure reservas em nome de seus clientes no Partner Center
 
@@ -55,10 +55,12 @@ Examine as informações importantes abaixo antes de comprar as reservas do Azur
 
 ## <a name="azure-reservations-unavailable-markets"></a>Mercados indisponíveis para as reservas do Azure
 
->[!IMPORTANT] 
->As reservas do Azure *não estão* disponíveis nos seguintes mercados:  
+> [!IMPORTANT]
+> As reservas do Azure **não estão** disponíveis nos seguintes mercados:  
 >  
-> | Mercados indisponíveis | &nbsp; | &nbsp; |
+> **Mercados indisponíveis (em ordem alfabética)**
+>
+> |A para GI   | GR para PAL  | PAP a Z |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | Ilhas Aland     | Groenlândia     | Papua Nova-Guiné     |
 > | Samoa Americana     | Granada     | Ilhas Pitcairn     |

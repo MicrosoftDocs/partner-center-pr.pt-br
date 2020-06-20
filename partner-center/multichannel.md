@@ -2,19 +2,19 @@
 title: Suporte a vários canais para clientes
 description: Em alguns casos, os clientes talvez queiram contratar você para provisionar e dar suporte a uma assinatura comprada em outro lugar.
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e7cc155505846a0ccf57e01eea7cf090e1e52238
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: b13bf888f78f16c426bfe3016fd0b3c180eb12ab
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991928"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104097"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Suporte a vários canais-usando outros parceiros para dar suporte a assinaturas de clientes adquiridas em outro lugar
 
@@ -35,8 +35,8 @@ O recurso de vários canais do Partner Center dá suporte a cenários quando um 
 
 - Comprou as assinaturas de um terceiro, que não está no programa Provedor de Soluções na Nuvem ou de um Parceiro de Distribuição da Microsoft. Os clientes não podem alternar assinaturas baseadas em licença existentes para um parceiro diferente no programa do provedor de soluções de nuvem. eles devem aguardar até o fim do período de assinatura ou cancelar antes de mover.
 
-| | |
-|---------|---------|
+|Para dar suporte a esses serviços  | Faça o seguinte: |
+|:---------|:---------|
 |Serviços baseados em licença    | Para dar suporte a contas de vários canais, você deve solicitar permissões do cliente para gerenciar as assinaturas dele. Para obter mais informações, consulte [solicitar uma relação de revendedor com um cliente](request-a-relationship-with-a-customer.md).   |
 |Serviços com base em uso     |  Para um cliente que já tem uma assinatura do Microsoft Azure de outro canal, como Advisor, Open ou EA, você precisa criar uma nova assinatura do Azure no Partner Center, inserir manualmente os detalhes da assinatura e, em seguida, cancelar os serviços individuais ou a assinatura inteira. O Azure CSP pode coexistir com diferentes canais.<br/><br/> Por exemplo, para um cliente que já tem uma assinatura do Microsoft Azure de outro parceiro, você pode alternar os serviços do Azure para o outro parceiro.  Para obter mais informações, consulte [Alternar assinaturas do Azure para um parceiro diferente](switch-azure-subscriptions-to-a-different-partner.md). |
 

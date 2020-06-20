@@ -1,19 +1,19 @@
 ---
 title: Solicitar uma relação com um cliente
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Solicite uma relação com um cliente para cenários de vários canais e multicanal ou se os privilégios de administrador delegado para um cliente precisarem ser restaurados.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 529881017969a4d7262086eb6b3f47e77de3f7e2
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 5aa7a2cbc5a169dc7e702a47752b8101c44b4b94
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992024"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104090"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Como solicitar uma relação de revendedor de um cliente no Partner Center
 
@@ -56,7 +56,7 @@ Você pode solicitar uma relação de revendedor com um cliente de dentro do seu
 
 A experiência do cliente para aceitar um convite de relacionamento de revendedor de um parceiro de provedor de soluções de nuvem é hospedada por diferentes portais voltados para o cliente. O local do portal depende se um cliente está em uma nuvem pública da Microsoft ou em uma nuvem nacional:
 
-|  | Onde um cliente aceita um convite de relacionamento de revendedor? |
+|Tipos de clientes de nuvem  | Onde um cliente aceita um convite de relacionamento de revendedor? |
 |---------|---------
 | Clientes na nuvem pública | Centro de administração do Microsoft 365 |
 | Clientes no Partner Center para Microsoft Cloud Alemanha | Portal de administração do Microsoft Office |
