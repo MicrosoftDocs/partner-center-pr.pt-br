@@ -1,7 +1,7 @@
 ---
 title: Amplie seus negócios com as referências da Microsoft
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como criar um perfil de negócios para gerar vendas potenciais por meio do recurso de referências do Partner Center e, em seguida, responder a essas referências.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: indicações, perfil de negócios, encontrar um parceiro
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53499b0a02733cb83ee68b93655e49034da75c33
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 29da0311dac14a4060e2adf6feeb3ce1e721bd37
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467436"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198614"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -32,7 +32,3 @@ Queremos conectá-lo a clientes que precisem de suas soluções e conhecimentos.
  Depois de publicar seu perfil de negócios, você começará a receber as oportunidades de vendas por meio do recurso de Indicações no Partner Center. É importante responder às indicações dentro dos períodos de tempo exigidos para continuar recebendo essas oportunidades e, principalmente, aproveitar ofertas. Consulte [Responda às referências](responding-to-referrals.md) para obter detalhes sobre como gerenciar leads de vendas no Partner Center.  
 
 Para começar, assista a este breve vídeo, [Otimize seu perfil de negócios](https://player.vimeo.com/video/252788046).  
-
-<!-- 
-*  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you're getting in front of your target customers.
--->
