@@ -11,12 +11,12 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: acf8a26960df0bebd97b8684c5a51173a86af416
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 7f21431dd215f89905c456a61f8ef2b181353111
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452603"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679113"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Lista de preços da nova experiência de comércio no CSP para Azure
 
@@ -37,13 +37,17 @@ A lista de preços da nova experiência de comércio do Azure no CSP é publicad
 
 2. Em preços do plano do Azure, selecione o país para o qual você deseja obter preços.
 
-3. Ao lado de **Tipo de exportação**, selecione **Preço de consumo do plano do Azure**, **Preços de reservas do plano do Azure** ou **Taxas de câmbio**. Observação: As **Taxas de câmbio** não são específicas do país.
+3. Ao lado de **Tipo de exportação**, selecione **Preço de consumo do plano do Azure**, **Preços de reservas do plano do Azure** ou **Taxas de câmbio**. 
+
+>[!NOTE] 
+>As **Taxas de câmbio** não são específicas do país.
 
 4. Ao lado de **Preço para a data**, selecione a data desejada – por exemplo, **Atual**.
 
    :::image type="content" source="images/azure/pricingnew.png" alt-text="específico do país":::
 
-Observação: Você pode exportar duas listas de preços diferentes: Preços do plano do Azure e Preços de terceiros do Marketplace.
+>[!NOTE] 
+>Você pode exportar duas listas de preços diferentes: Preços do plano do Azure e Preços de terceiros do Marketplace.
 
 ## <a name="azure-price-list-specifics"></a>Especificações da lista de preços do Azure
 

@@ -5,18 +5,17 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como associar a sua ID do MCP à sua conta do Partner Center para que a sua empresa possa ver os roteiros de treinamento e de aprendizagem que você seguiu para as competências.
-ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: LauraBrenner
 ms.author: labrenne
 Keywords: funções, permissões, adicionar usuário, atribuir função, administrador, agente, ID de MCP, Microsoft Learn
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 108e15bda548c9470f74582618067f53d791c616
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: fb1b7f56ee831634f6cf05ace30c0900fba9397d
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795926"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991958"
 ---
 # <a name="associate-your-microsoft-learn-account-to-your-partner-center-account"></a>Associar a sua conta do Microsoft Learn à conta do Partner Center
 

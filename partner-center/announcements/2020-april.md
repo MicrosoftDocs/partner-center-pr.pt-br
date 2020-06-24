@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: bfc1f89aee3a9231d3c65467a330d45c93fef904
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: ebff4f924224c02f5c622b5f87849e36c96f6ab7
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84254033"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749130"
 ---
 # <a name="april-2020-announcements"></a>Comunicados de abril de 2020
 
@@ -26,10 +26,10 @@ _________________
 
 ## <a name="updated-promotions-for-office-365"></a><a id="14"/></a>Promoções atualizadas para o Office 365
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 30/04/2020
-- Tipo: Funcionalidades
+- Tipo: Capacidades
 - Status: Em breve
 - [Saiba mais](https://aka.ms/CSPCOVIDPromo)
 
@@ -77,10 +77,10 @@ _________________
 
 ## <a name="azure-reservations-new-customer-self-serve-capability-with-partner-permission"></a><a id="13"/></a>Funcionalidade de autoatendimento para novos clientes das Reservas do Azure com a permissão do parceiro
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 29/04/2020
-- Tipo: Funcionalidades
+- Tipo: Capacidades
 - Status: Já disponíveis
 - [Saiba mais](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/)
 
@@ -112,7 +112,7 @@ _________________
 
 ## <a name="microsoft-reversed-the-csp-eur-price-for-microsoft-365-e3"></a><a id="12"/></a>A Microsoft reverteu o preço em EUR do Microsoft 365 E3 para o CSP.
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 24/04/2020
 - Tipo: Ofertas/mercados
@@ -149,10 +149,10 @@ _________________
 
 ## <a name="reminder-activation-of-security-safeguards-for-partner-center-transactions-in-csp"></a><a id="11"/></a>LEMBRETE: ativação de proteções de segurança para transações do Partner Center no CSP
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 23/04/2020
-- Tipo: Funcionalidades
+- Tipo: Capacidades
 - Status: Em breve
 - [Saiba mais](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
 
@@ -191,7 +191,8 @@ Para receber mais assistência com problemas técnicos, [envie um tíquete de su
 
 Agradecemos por sua parceria e seu compromisso para garantir que nosso ecossistema seja executado com confiança.
 
-Observação: Se você está usando políticas de linha de base e não fez a transição para a política de padrões de segurança ou [outras opções de implementação de MFA](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take), faça a transição o quanto antes, consultando [estes recursos](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
+>[!NOTE] 
+>Se você está usando políticas de linha de base e não fez a transição para a política de padrões de segurança ou [outras opções de implementação de MFA](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take), faça a transição o quanto antes, consultando [estes recursos](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
 
 ### <a name="change-log"></a>Log de alterações
 
@@ -202,10 +203,10 @@ _________________
 
 ## <a name="microsoft-customer-agreement-standard-amendments-have-moved"></a><a id="10"/></a>Os Aditamentos Padrão do Contrato de Cliente da Microsoft foram movidos
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 21/04/2020
-- Tipo: Funcionalidades
+- Tipo: Capacidades
 - Status: Já disponíveis
 
 ### <a name="impacted-audience"></a>Público-alvo afetado
@@ -244,7 +245,7 @@ _________________
 
 ## <a name="announcing-microsoft-defender-advanced-threat-protection-mdatp-for-servers-offer-available-for-csp-on-april-1-2020"></a><a id="9"/></a>Comunicando a disponibilidade da oferta do MDATP (Proteção Avançada contra Ameaças do Microsoft Defender) para Servidores para o CSP em 1º de abril de 2020.
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 17/04/2020
 - Tipo: Ofertas/mercados
@@ -297,10 +298,10 @@ _________________
 
 ## <a name="americas-operations-center-address-change"></a><a id="8"/></a>Mudança de endereço do Centro de Operações das Américas
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 14/04/2020
-- Tipo: Funcionalidades
+- Tipo: Capacidades
 - Status: Em breve
 - [Saiba mais](https://flow.microsoft.com/ui-flows/)
 
@@ -338,10 +339,10 @@ _________________
 
 ## <a name="commercial-microsoft-365-e3---unattended-license-will-be-relaunched-on-may-1-2020"></a><a id="7"/></a>Microsoft 365 E3 comercial – A Licença Autônoma será relançada em 1º de maio de 2020
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 10/04/2020
-- Tipo: Funcionalidades
+- Tipo: Capacidades
 - Status: Em breve
 
 ### <a name="summary"></a>Resumo
@@ -383,7 +384,7 @@ _________________
 
 ## <a name="new-opportunities-for-your-microsoft-365-education-customers-with-microsoft-365-a5-compliance"></a><a id="6"/></a>Novas oportunidades para os clientes do Microsoft 365 Education com o Microsoft 365 A5 Compliance
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 10/04/2020
 - Tipo: Ofertas/mercados
@@ -461,7 +462,7 @@ _________________
 
 ## <a name="office-365-e1-trial-now-available-to-csp-partners"></a><a id="5"/></a>Avaliação do Office 365 E1 agora disponível para parceiros CSP
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 07/04/2020
 - Tipo: Ofertas/mercados
@@ -507,7 +508,7 @@ _________________
 
 ## <a name="dynamics-365---new-products-released"></a><a id="4"/></a>Dynamics 365 – novos produtos lançados
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 06/04/2020
 - Tipo: Ofertas/mercados
@@ -543,7 +544,7 @@ Confira as alterações específicas na oferta do Dynamics no CSP no arquivo "At
 ### <a name="robotic-process-automation"></a>Automação de processo robótico
 
 Em 1º de maio de 2020, a Microsoft ampliou a disponibilidade de novas ofertas de RPA para os programas de Educação.
-Para saber mais sobre as alterações no Programa de Parceiro de Educação Autorizado no CSP, clique [aqui](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/). OBSERVAÇÃO: esse é um link para uma coleção existente no Partner Center.
+Para saber mais sobre as alterações no Programa de Parceiro de Educação Autorizado no CSP, clique [aqui](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/). esse é um link para uma coleção existente no Partner Center.
 
 Examine o **arquivo "Atualizações – Maio 2020" da oferta do Dynamics no CSP** [aqui](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/) na seção de download relacionada para obter novas informações sobre o SKU.
 
@@ -553,8 +554,8 @@ A partir de 1º de abril de 2020, as ofertas de comércio eletrônico terão um 
 
 |**Nome de exibição e/ou alteração de PFAM**|**1° de março de 2020**|**1º de abril de 2020**|
 |-------------------|:------|:-----|
-|Nome de Exibição|Classificações e avaliações de comércio eletrônico|Classificações e avaliações de comércio|
-|Nome de Exibição|Recomendações de comércio eletrônico|Recomendações de comércio|
+|Nome de exibição|Classificações e avaliações de comércio eletrônico|Classificações e avaliações de comércio|
+|Nome de exibição|Recomendações de comércio eletrônico|Recomendações de comércio|
 |Exibição e PFAM|Unidade de Escala de Nuvem do Dynamics 365 Commerce Basic|Unidade de Escala do Dynamics 365 Commerce Basic – Nuvem|
 |Exibição e PFAM|Unidade de Escala de Nuvem do Dynamics 365 Commerce Standard|Unidade de Escala do Dynamics 365 Commerce Basic – Nuvem|
 |Exibição e PFAM|Unidade de Escala de Nuvem do Dynamics 365 Commerce Premium|Unidade de Escala do Dynamics 365 Commerce Premium – Nuvem|
@@ -583,10 +584,10 @@ _________________
 
 ## <a name="now-available---operations-readiness-resources-in-one-place"></a><a id="3"/></a>Já disponível – recursos de preparação para operações em um só lugar
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 03/04/2020
-- Tipo: Funcionalidades
+- Tipo: Capacidades
 - Status: Já disponíveis
 - [Saiba mais](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)
 
@@ -637,7 +638,7 @@ _________________
 
 ## <a name="microsoft-365-business-voice-available-to-csp-partners-from-april-1-2020"></a><a id="2"/></a>Microsoft 365 Business Voice disponível para parceiros CSP a partir de 1º de abril de 2020
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 01/04/2020
 - Tipo: Ofertas/mercados
@@ -730,10 +731,10 @@ _________________
 
 ## <a name="act-now-partners-are-now-required-to-have-accepted-the-microsoft-partner-agreement"></a><a id="1"/></a>Aja agora: Agora os parceiros precisam ter aceitado o Contrato de Parceiro da Microsoft.
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 01/04/2020
-- Tipo: Funcionalidades
+- Tipo: Capacidades
 - Status: Já disponíveis
 - [Saiba mais](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp)
 
