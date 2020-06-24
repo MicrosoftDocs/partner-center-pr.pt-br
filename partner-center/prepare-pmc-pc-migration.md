@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6e188bbd86b066152f90be90d92abb2539f38b3
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: f9085a4faaea4ac028633eb669212af5afbcb3d4
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328307"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749167"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Preparar a migração do PMC (Partner Membership Center) para o Partner Center
 
@@ -91,7 +91,7 @@ No entanto, não necessariamente, o contato principal precisa ser alguém que te
 
 **A Microsoft pode migrar minha associação do MPN para mim?**
 
-Não. A Microsoft não pode ajudar você a migrar sua conta de associação para o Partner Center. Você precisará migrar sua conta entrando no PMC com a conta corporativa (credenciais de entrada) para iniciar o processo de migração. Depois de concluir as etapas para migrar sua conta, inicie o gerenciamento da sua associação e atribua funções e permissões de usuário à sua equipe, de modo que ela possa acessar os benefícios e ajudar a gerenciar a associação. A Microsoft migrará automaticamente as competências, os benefícios, as informações de localização, as informações bancárias/fiscais para incentivos e as associações do MCP atuais, incluindo o acesso à Partner University.
+Não. A Microsoft não pode ajudar você a migrar sua conta de associação para o Partner Center. Você precisará migrar sua conta entrando no PMC com a conta corporativa (credenciais de entrada) para iniciar o processo de migração. Depois de concluir as etapas para migrar sua conta, inicie o gerenciamento da sua associação e atribua funções e permissões de usuário à sua equipe, de modo que ela possa acessar os benefícios e ajudar a gerenciar a associação. 
 
 A Microsoft migrará automaticamente as competências, os benefícios, as informações de localização, as informações bancárias/fiscais para incentivos e as associações do MCP atuais, incluindo o acesso à Partner University.
 

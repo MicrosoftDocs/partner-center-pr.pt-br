@@ -1,7 +1,7 @@
 ---
 title: Obter privilégios de administrador do cliente
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenha as permissões necessárias para gerenciar o serviço ou a assinatura de um cliente em nome dele. Saiba como as permissões são concedidas, revogadas e gerenciadas.
@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.custom: SEOAPR.20
 keywords: privilégios de administrador delegado, administrador em nome de, remover privilégios, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: dc56aa2236251c98afa6ffc5b5cc2b3d3f10918b
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 7fdc39dd3d9da7532b52e9b77517da1c0b72fa58
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84466776"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198594"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Obter permissões para gerenciar o serviço ou a assinatura de um cliente
 
@@ -98,8 +98,6 @@ Cada assinatura do Azure tem o próprio conjunto de funções de gerenciamento d
 - Quando um cliente remove os privilégios de administração delegada de um parceiro usando o Portal do Office 365, o parceiro ainda pode gerenciar a assinatura do Azure do cliente, desde que o parceiro ainda esteja atribuído a uma ou mais funções na assinatura. Para impedir o parceiro de gerenciar a assinatura do Azure, o cliente precisará remover a atribuição de função.
 
 ## <a name="windows-autopilot"></a>Windows Autopilot
-
-<!--Maggie, 12/5/18 - Removed table showing what different CSP partner types can and can't do because all partner types are now in parity. As per Bhavya Chopra in bug 19841770.-->
 
 No Partner Center, os parceiros CSP podem gerenciar perfis do Autopilot para os clientes sem privilégios de administrador delegado nestas circunstâncias: 
 
