@@ -11,12 +11,12 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 653b75c0ec9cafdc39506eb8da82eefe6d8709e7
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: cf398f5671484548cc879fac28aae9e83a9c470c
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328207"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679263"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Como o crédito ganho pelo parceiro é calculado e pago
 
@@ -62,11 +62,12 @@ A exibição de Análise de Custo exibirá os custos da sua conta de cobrança p
 
 Quando a propriedade PartnerEarnedCreditApplied é False, o custo associado não atendeu à qualificação necessária para o crédito ou o serviço comprado não é elegível para crédito ganho do parceiro.
 
-Observação: normalmente, o uso de serviços leva 8-24 horas para aparecer no **Gerenciamento de Custos** e os créditos do PEC aparecerão dentro de 48 horas a partir da hora de acesso no Gerenciamento de Custos do Azure.
+>[!NOTE] 
+>Normalmente, o uso de serviços leva de 8 a 24 horas para aparecer no **Gerenciamento de Custos**, e os créditos do PEC aparecerão dentro de 48 horas a partir da hora de acesso no Gerenciamento de Custos do Azure.
 
 5. Você também pode agrupar pela propriedade **PartnerEarnedCreditApplied** e filtrar por ela, usando os recursos de filtro **Agrupar por e Adicionar** para analisar os custos que têm o PEC aplicado e os custos que não têm nenhum PEC aplicado.
 
- **Para obter mais informações**
+## <a name="next-steps"></a>Próximas etapas
 
 - [Crédito ganho pelo parceiro – visão geral](partner-earned-credit.md)
 

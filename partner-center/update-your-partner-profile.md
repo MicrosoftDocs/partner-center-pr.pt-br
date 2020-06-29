@@ -3,20 +3,20 @@ title: Verifique o perfil do parceiro
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como verificar os detalhes da empresa, como contato principal, endereço e informações do programa. Você também pode atualizar seus endereços jurídico e para cobrança.
-ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
 ms.topic: conceptual
 ms.localizationpriority: high
-ms.date: 03/23/2020
-ms.openlocfilehash: 5b0cc51ea3ab7e8984876f9d638c4af6e7213abe
-ms.sourcegitcommit: c1d93605a87ecdbeedc98c7fbb9c428752c5cbd7
+ms.date: 06/05/2020
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c2534a13d2b24acd689a12476590f8f607c678e2
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "82595382"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991976"
 ---
-# <a name="verify-your-partner-profile-information"></a>Verifique suas informações de perfil do parceiro
+# <a name="verify-your-partner-profile-information-in-partner-center"></a>Verifique suas informações de perfil do parceiro no Partner Center
 
 Na primeira vez que você entrar no Partner Center como administrador global, deverá confirmar se todos os detalhes da empresa estão corretos. Isso inclui contato principal, razão social, endereço jurídico e informações do programa. Se sua empresa tiver mais de um local, verifique se os dados do local estão corretos. Como administrador global, administrador de cobrança ou agente administrador, você também poderá ver e atualizar as informações de cobrança e imposto.
 

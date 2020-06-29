@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: fccdb29090effaae9187778a0c243f051613e3c4
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 623e2002687727ab6ec4a2e37a44c89e994aee6c
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253963"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749141"
 ---
 # <a name="february-2020-announcements"></a>Comunicados de fevereiro de 2020
 
@@ -26,7 +26,7 @@ _________________
 
 ## <a name="new-process-for-submitting-tax-withholding-credit-requests"></a><a id="9"/></a>Novo processo para enviar solicitações de crédito de retenção de imposto
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 25/02/2020
 - Tipo: Ofertas/mercados
@@ -55,10 +55,10 @@ _________________
 
 ## <a name="new-microsoft-customer-agreement-acceptance-capability-available-now"></a><a id="8"/></a>Nova funcionalidade de aceitação do Contrato de Cliente da Microsoft já disponível.
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 25/02/2020
-- Tipo: Funcionalidades
+- Tipo: Capacidades
 - Status: Já disponíveis
 - [Saiba mais](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
 
@@ -77,7 +77,10 @@ Isso significa que [agora os parceiros têm duas opções](https://docs.microsof
 
 Os parceiros podem saber se os clientes aceitaram o novo contrato usando a nova funcionalidade disponível no Painel do Partner Center ou por meio [desta nova API](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement).
 
-A partir de 1º de fevereiro de 2020, é necessário que o parceiro confirme que os clientes aceitaram o Contrato de Cliente da Microsoft para que ele possa fazer novos pedidos de qualquer oferta de CSP em todas as regiões na Nuvem Pública da Microsoft. Os parceiros do CSP não podem mais fazer novas compras, incluindo alterações em estações ou renovações de compras existentes, sem confirmar que o cliente aceitou o Contrato de Cliente da Microsoft por meio de uma dessas opções. Observação: as renovações automáticas não são afetadas.
+A partir de 1º de fevereiro de 2020, é necessário que o parceiro confirme que os clientes aceitaram o Contrato de Cliente da Microsoft para que ele possa fazer novos pedidos de qualquer oferta de CSP em todas as regiões na Nuvem Pública da Microsoft. Os parceiros do CSP não podem mais fazer novas compras, incluindo alterações em estações ou renovações de compras existentes, sem confirmar que o cliente aceitou o Contrato de Cliente da Microsoft por meio de uma dessas opções.
+ 
+>[!Note] 
+>As renovações automáticas não são afetadas.
 
 ### <a name="next-steps"></a>Próximas etapas:
 
@@ -87,7 +90,7 @@ A partir de 1º de fevereiro de 2020, é necessário que o parceiro confirme que
 
 ### <a name="additional-resources"></a>Recursos adicionais:
 
-Os parceiros podem ver o conteúdo do Contrato de Cliente da Microsoft disponível nesta [página da Galeria do CSP](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/). Inclusive:
+Os parceiros podem ver o conteúdo do Contrato de Cliente da Microsoft disponível nesta [página da Galeria do CSP](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/). Incluindo:
 
 - Um Contrato de Cliente da Microsoft no guia do CSP (atualizado)
 - Perguntas frequentes sobre o Contrato de Cliente da Microsoft (atualizadas)
@@ -101,7 +104,7 @@ _________________
 
 ## <a name="license-based-price-list-march-preview-updated"></a><a id="7"/></a>Foi atualizada a lista de preços baseada em licenças da versão prévia de março
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 19/02/2020
 - Tipo: Ofertas/mercados
@@ -151,10 +154,10 @@ _________________
 
 ## <a name="reminder---action-required-transition-from-baseline-policies-to-security-defaults-before-feb-29-2020"></a><a id="6"/></a>Lembrete – ação necessária: Transição das políticas de linha de base para os padrões de segurança antes de 29 de fevereiro de 2020
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 12/02/2020
-- Tipo: Funcionalidades
+- Tipo: Capacidades
 - Status: Já disponíveis
 - [Saiba mais](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
 
@@ -166,7 +169,7 @@ _________________
 
 ### <a name="summary"></a>Resumo:
 
-Esta é uma atualização importante relacionada aos [requisitos obrigatórios de segurança do parceiro](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). A partir de **29 de fevereiro de 2020**, as [políticas de "linha de base" do Azure AD (Azure Active Directory) foram removidas](https://docs.microsoft.com/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) e substituídas por "padrões de segurança", um conjunto mais abrangente de políticas de proteção para você e seus clientes. Os padrões de segurança no Azure AD podem ajudar a proteger sua organização com configurações de segurança pré-configuradas para ataques comuns.
+Esta é uma atualização importante relacionada aos [requisitos obrigatórios de segurança do parceiro](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). A partir de **29 de fevereiro de 2020**, as [políticas de "linha de base" do Azure AD (Azure Active Directory) foram removidas](https://docs.microsoft.com/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) e substituídas por "padrões de segurança", um conjunto mais abrangente de políticas de proteção para você e seus clientes. Os padrões de segurança no Azure AD podem ajudar a proteger sua organização com configurações de segurança predefinidas para ataques comuns.
 
 Nosso sistema indica que no momento sua organização usa políticas de linha de base, mas ainda não fez a transição para padrões de segurança. **Se não fizer a transição para os padrões de segurança antes de 29 de fevereiro, você perderá a MFA (autenticação multifator) habilitada com políticas de linha de base nos locatários parceiros. Habilite os padrões de segurança o quanto antes para evitar interrupções de negócios**.
 
@@ -191,7 +194,9 @@ Parceiros que estão usando atualmente as políticas de linha de base:
 Provedores indiretos:
 
 - Informe os revendedores no programa Microsoft CSP (Provedor de Soluções na Nuvem) sobre a alteração ([usar este modelo de email](https://assetsprod.microsoft.com/security-defaults-indirect-reseller-template.docx)). Certifique-se de que seus revendedores habilitem os padrões de segurança caso estejam usando as políticas de linha de base atualmente.
-- Observação: A Microsoft também se comunicará diretamente com os revendedores que estiverem usando atualmente as políticas de linha de base e tiverem informações de contato do Partner Center.
+
+>[!Note] 
+>A Microsoft também se comunicará diretamente com os revendedores que estiverem usando atualmente as políticas de linha de base e tiverem informações de contato do Partner Center.
 
 Caso tenha alguma dúvida sobre os requisitos de segurança do parceiro, confira os recursos adicionais [aqui](https://aka.ms/security-requirements).
 
@@ -206,7 +211,7 @@ _________________
 
 ## <a name="audio-conferencing-offers-introduced-to-multinational-customers-with-users-in-india-on-february-1-2020"></a><a id="5"/></a>Ofertas de audioconferência introduzidas para clientes de multinacionais com usuários na Índia em 1º de fevereiro de 2020
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 05/02/2020
 - Tipo: Ofertas/mercados
@@ -250,10 +255,10 @@ _________________
 
 ## <a name="new-price-sheet-and-foreign-exchange-rate-apis-available-for-azure-plan-pricing"></a><a id="4"/></a>Novas APIs de tabela de preços e de taxa de câmbio disponíveis para os preços de planos do Azure
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 04/02/2020
-- Tipo: Funcionalidades
+- Tipo: Capacidades
 - Status: Já disponíveis
 - [Saiba mais](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#)
 
@@ -274,9 +279,8 @@ a [nova experiência de comércio para Azure no CSP](https://blogs.partner.micro
 - Permite que os parceiros recuperem taxas de câmbio mensalmente para as moedas de cobrança com suporte na nova experiência (plano do Azure)
 - Oferece a capacidade de recuperar preços e taxas de câmbio para o mês atual ou meses anteriores
 
-Observação:
-
-- esse é um novo recurso de API específico para os preços do plano do Azure.
+>[!Note] 
+>esse é um novo recurso de API específico para os preços do plano do Azure.
 - A [API RateCard](https://docs.microsoft.com/partner-center/develop/get-prices-for-microsoft-azure) existente ainda deve ser usada para recursos ou reservas existentes do Azure implantados nas assinaturas anteriores do Azure que não fazem parte do plano do Azure.
 - Essas APIs estão em um ponto de extremidade diferente (um domínio que hospeda a API) para as APIs do Partner Center.
 
@@ -295,10 +299,10 @@ _________________
 
 ## <a name="changes-to-partner-center-support-experience"></a><a id="3"/></a>Alterações na experiência de suporte do Partner Center
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 04/02/2020
-- Tipo: Funcionalidades
+- Tipo: Capacidades
 - Status: Já disponíveis
 
 ### <a name="impacted-audience"></a>Público-alvo afetado:
@@ -330,10 +334,10 @@ _________________
 
 ## <a name="now-required-microsoft-customer-agreement-acceptance-in-csp"></a><a id="2"/></a>Agora necessária: aceitação do Contrato de Cliente da Microsoft no CSP.
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 04/02/2020
-- Tipo: Funcionalidades
+- Tipo: Capacidades
 - Status: Já disponíveis
 - [Saiba mais](https://www.microsoft.com/licensing/docs/customeragreement)
 
@@ -345,7 +349,7 @@ _________________
 
 O novo [Contrato de Cliente da Microsoft](https://www.microsoft.com/licensing/docs/customeragreement) no programa CSP (Provedor de Soluções na Nuvem) entrou em vigor em outubro de 2019, substituindo gradualmente o Contrato do Microsoft Cloud existente. O novo e simplificado contrato fornece aos clientes termos de compra consistentes, independentemente da maneira como eles decidem comprar.
 
-**A partir de 1º de fevereiro de 2020, os provedores indiretos e os de cobrança direta no CSP precisam confirmar a aceitação do cliente do Contrato de Cliente da Microsoft para quaisquer ofertas de CSP na Nuvem Pública da Microsoft.** Sem confirmar a aceitação do cliente para o novo contrato, os parceiros não poderão fazer uma nova compra para o cliente, incluindo a alteração de estações e a renovação de compras existentes a partir dessa data (observação: a renovação automática não será afetada).
+**A partir de 1º de fevereiro de 2020, os provedores indiretos e os de cobrança direta no CSP precisam confirmar a aceitação do cliente do Contrato de Cliente da Microsoft para quaisquer ofertas de CSP na Nuvem Pública da Microsoft.** Sem confirmar a aceitação do cliente para o novo contrato, os parceiros não poderão fazer uma nova compra para o cliente, incluindo a alteração de estações e a renovação de compras existentes a partir dessa data (a renovação automática não será afetada).
 
 Os parceiros podem apresentar o novo contrato aos clientes da mesma maneira como fizeram com o Contrato do Microsoft Cloud existente. Depois que um cliente analisa e aceita o contrato, os parceiros devem confirmar a aceitação do cliente no Partner Center. A interface do usuário da Web do Partner Center, a API e o SDK do .NET foram atualizados para dar suporte ao novo contrato.
 
@@ -357,10 +361,8 @@ Para obter mais informações, examine os recursos sobre o Contrato de Cliente d
 - Os parceiros que usam APIs para o Contrato do Microsoft Cloud existente precisam revisar as próprias implementações existentes com a [API atualizada](https://docs.microsoft.com/partner-center/confirm-customer-agreement).
 - Treine seus agentes e revendedores para que conheçam os [termos do novo contrato](https://www.microsoft.com/licensing/docs/customeragreement) e possam apresentar o novo contrato e validar a aceitação do cliente.
 
-### <a name="note"></a>Observação:
-
-- A aceitação pelo cliente do Contrato de Cliente da Microsoft será exigida para compras por meio da [nova experiência de comércio no CSP para Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/), lançada em novembro de 2019.
-- No primeiro trimestre do ano civil de 2020, os parceiros no CSP também começarão a ver a opção adicional no Partner Center que permitirá aos parceiros convidar clientes para um portal autenticado da Microsoft (Centro de Administração do Microsoft 365) e fazer com que os clientes leiam e assinem diretamente o Contrato de Cliente da Microsoft.
+>[!NOTE] 
+>A aceitação pelo cliente do Contrato de Cliente da Microsoft será exigida para compras por meio da [nova experiência de comércio no CSP para Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/), lançada em novembro de 2019. No primeiro trimestre do ano civil de 2020, os parceiros no CSP também começarão a ver a opção adicional no Partner Center que permitirá aos parceiros convidar clientes para um portal autenticado da Microsoft (Centro de Administração do Microsoft 365) e fazer com que os clientes leiam e assinem diretamente o Contrato de Cliente da Microsoft.
 
 ### <a name="change-log"></a>Log de alterações:
 
@@ -371,7 +373,7 @@ _________________
 
 ## <a name="microsoft-has-released-additional-dynamics-365-products-effective-february-1-2020"></a><a id="1"/></a>A Microsoft lançou produtos adicionais do Dynamics 365, a partir de 1º de fevereiro de 2020
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 03/02/2020
 - Tipo: Ofertas/mercados

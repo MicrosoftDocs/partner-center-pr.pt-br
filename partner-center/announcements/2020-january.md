@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/01/2020
-ms.openlocfilehash: d5276a473ce245d69edf610c6e7f86219237ac9e
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 93e29f5ed6409e244768136b1f7609a8e8e3391e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253983"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84678933"
 ---
 # <a name="january-2020-announcements"></a>Comunicados de janeiro de 2020
 
@@ -26,7 +26,7 @@ _________________
 
 ## <a name="windows-server-and-sql-server-subscriptions-available-to-cloud-solution-provider-csp-partners-in-russia-from-february-1-2020"></a><a id="7"/></a>Assinaturas do Windows Server e do SQL Server estão disponíveis para parceiros do CSP (Provedor de Soluções na Nuvem) na Rússia desde 1º de fevereiro de 2020
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 31/01/2020
 - Tipo: Ofertas/mercados
@@ -47,7 +47,8 @@ Com as reservas do Azure e essas assinaturas de servidor, que incluem o Benefíc
 
 Agora os parceiros podem adquirir, provisionar e gerenciar reservas do Azure e assinaturas do Windows Server e SQL Server em nome de clientes comerciais por meio do Partner Center e do portal do Azure.
 
-**Observação:** todas as ofertas afetadas podem ser encontradas na lista de preços do Partner Center.
+>[!Note] 
+>todas as ofertas afetadas podem ser encontradas na lista de preços do Partner Center.
 
 ### <a name="additional-resources"></a>Recursos adicionais
 
@@ -66,7 +67,7 @@ _________________
 
 ## <a name="meeting-room-and-meetings-add-on-for-microsoft-365-f1-are-now-available-in-the-government-community-cloud-gcc"></a><a id="6"/></a>A Sala de Reunião e o complemento Reuniões para o Microsoft 365 F1 agora estão disponíveis na GCC (Nuvem da Comunidade Governamental)
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 29/01/2020
 - Tipo: Ofertas/mercados
@@ -111,10 +112,10 @@ _________________
 
 ## <a name="meeting-room-and-meetings-add-on-for-microsoft-365-f1-are-now-available-in-the-government-community-cloud-gcc"></a><a id="5"/></a>A Sala de Reunião e o complemento Reuniões para o Microsoft 365 F1 agora estão disponíveis na GCC (Nuvem da Comunidade Governamental)
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 28/01/2020
-- Tipo: Funcionalidades
+- Tipo: Capacidades
 - Status: Já disponíveis
 - [Saiba mais](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)
 
@@ -168,10 +169,10 @@ _________________
 
 ## <a name="announcing-a-new-reporting-dashboard-beta-in-partner-center"></a><a id="4"/></a>Anunciando um novo painel de relatório (beta) no Partner Center
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 27/01/2020
-- Tipo: Funcionalidades
+- Tipo: Capacidades
 - Status: Já disponíveis
 
 ### <a name="impacted-audience"></a>Público-alvo afetado
@@ -199,10 +200,10 @@ _________________
 
 ## <a name="action-required-remember-to-confirm-the-acceptance-of-microsoft-customer-agreement-by-january-31-2020"></a><a id="3"/></a>Ação necessária: Lembre-se de confirmar a aceitação do Contrato de Cliente da Microsoft até 31 de janeiro de 2020
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 27/01/2020
-- Tipo: Funcionalidades
+- Tipo: Capacidades
 - Status: Já disponíveis
 - [Saiba mais](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
 
@@ -217,7 +218,8 @@ O novo Contrato de Cliente da Microsoft para todas as ofertas de produtos no pro
 
 A partir de 1º de fevereiro de 2020, será necessária uma confirmação pelo parceiro da aceitação do Contrato de Cliente da Microsoft para fazer novos pedidos de qualquer oferta de CSP em todas as regiões na Nuvem Pública da Microsoft. A partir dessa data, um parceiro no CSP não poderá fazer uma nova compra, incluindo a alteração de estações e a renovação de compras existentes, sem a aceitação pelo cliente do Contrato de Cliente da Microsoft.
 
-**Observação: Contrato de Cliente da Microsoft e a nova experiência de comércio no CSP para Azure:** A aceitação pelo cliente do Contrato de Cliente da Microsoft é exigida para compras por meio da [nova experiência de comércio no CSP para Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/), disponível a partir de 1º de novembro de 2019.
+>[!NOTE] 
+>Contrato de Cliente da Microsoft e a nova experiência de comércio no CSP para Azure:** a aceitação pelo cliente do Contrato de Cliente da Microsoft é exigida para compras por meio da [nova experiência de comércio no CSP para Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/), disponível desde 1º de novembro de 2019.
 
 O Contrato de Cliente da Microsoft é um contrato de compra simplificado que fornece aos clientes termos de compra consistentes, independentemente da forma como eles decidem comprar. Desde 1º de outubro de 2019, o novo Contrato de Cliente da Microsoft está disponível no programa CSP e substitui o Contrato do Microsoft Cloud existente.
 
@@ -236,7 +238,8 @@ De modo geral, os parceiros podem apresentar o novo Contrato de Cliente da Micro
 - Um link para o Contrato de Cliente da Microsoft
 - Informações de API para parceiros que usam APIs para confirmar a aceitação pelo cliente do contrato.
 
-Observação: Posteriormente, no primeiro trimestre do ano civil de 2020, os parceiros terão a opção adicional de convidar os clientes para um portal autenticado da Microsoft a fim de visualizar e assinar o Contrato de Cliente da Microsoft. Ficará sob responsabilidade da Microsoft confirmar a aceitação pelo cliente do Contrato de Cliente da Microsoft.
+>[!Note] 
+>Posteriormente, no primeiro trimestre do ano civil de 2020, os parceiros terão a opção adicional de convidar os clientes para um portal autenticado da Microsoft a fim de visualizar e assinar o Contrato de Cliente da Microsoft. Ficará sob responsabilidade da Microsoft confirmar a aceitação pelo cliente do Contrato de Cliente da Microsoft.
 
 ### <a name="change-log"></a>Log de alterações
 
@@ -246,10 +249,10 @@ _________________
 
 ## <a name="price-list-and-offer-update-schedule-for-january-2020"></a><a id="2"/></a>Lista de preços e agendamento de atualizações de ofertas para janeiro de 2020
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 07/01/2020
-- Tipo: Funcionalidades
+- Tipo: Capacidades
 - Status: Em breve
 
 ### <a name="impacted-audience"></a>Público-alvo afetado
@@ -302,7 +305,7 @@ _________________
 
 ## <a name="microsoft-has-now-released-additional-dynamics-365-products-and-more-will-be-coming-on-february-1-2020"></a><a id="1"/></a>A Microsoft acaba de lançar produtos adicionais do Dynamics 365 e está preparando outros lançamentos para 1º de fevereiro de 2020
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 02/01/2020
 - Tipo: Ofertas/mercados

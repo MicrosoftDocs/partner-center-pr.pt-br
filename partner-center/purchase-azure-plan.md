@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Usando o plano do Azure, saiba como comprar assinaturas únicas ou múltiplas do Azure, reservas do Azure, configurar recursos e exibir ou adicionar assinaturas.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b40851ae718bc3efdc416c633ad4ed54c802f75
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 711a787fd6ebd3494eb2b975aee338494728aa89
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467516"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909124"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Adquira o plano do Azure para clientes e acesse os serviços mais recentes do Azure com taxas pré-pagas
 
@@ -78,7 +77,8 @@ As reservas do Azure devem estar associadas a um plano do Azure ativo. Escolha o
 >[!Important] 
 >Se o cliente ainda não tiver um plano do Azure ativo, selecione Azure para adicionar um agora mesmo. Para obter mais instruções, leia [Comprar reservas do Azure](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations).
 
-Observe que o escopo da reserva só pode ser definido como **Compartilhado**, no momento. 
+>[!Note] 
+>O escopo da reserva só pode ser definido como **Compartilhado** no momento. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Configuração de reservas de escopo compartilhado":::
 

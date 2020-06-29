@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/01/2020
-ms.openlocfilehash: 4f682fc6435d6a0b29d727ded2d08fc934666020
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 8f4a7d6cb423eac8360eee85fbfdb310bd54eeda
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253993"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84678923"
 ---
 # <a name="march-2020-announcements"></a>Comunicados de março de 2020
 
@@ -26,7 +26,7 @@ _________________
 
 ## <a name="microsoft-will-rename-office-365-small-and-medium-business-smb-offers-from-april-21-2020"></a><a id="7"/></a>A Microsoft renomeou as ofertas do Office 365 para empresas SMB (de pequeno e médio porte) a partir de 21 de abril de 2020
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 30/03/2020
 - Tipo: Ofertas/mercados
@@ -81,10 +81,10 @@ _________________
 
 ## <a name="new-partner-center-capabilities-to-help-direct-bill-partners-complete-their-transition-to-indirect-reseller"></a><a id="6"/></a>Novas funcionalidades do Partner Center para ajudar parceiros de cobrança direta a concluir sua transição para revendedor indireto
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 20/03/2020
-- Tipo: Funcionalidades
+- Tipo: Capacidades
 - Status: Já disponíveis
 - [Saiba mais](https://docs.microsoft.com/partner-center/)
 
@@ -104,7 +104,8 @@ Novas funcionalidades estão disponíveis para transferir as assinaturas do CSP 
 
 Revise a página de [ofertas do CSP](https://docs.microsoft.com/partner-center/csp-offers) para obter mais informações.
 
-Observação: as transferências só terão suporte para assinaturas baseadas em licença e assinaturas do Azure. Você precisará transferir manualmente seu plano do Azure e as compras do Marketplace comercial. Observe que isso envolve o cancelamento e a renovação das assinaturas descritas nos seguintes documentos: [Plano do Azure](https://docs.microsoft.com/partner-center/azure-plan-lp) e [Marketplace comercial](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-manage). Como as assinaturas de servidor e as reservas do Azure são uma compra única, elas não precisarão ser transferidas para um locatário de fornecedor indireto. Visite a página de ofertas do CSP para obter mais informações.
+>[!NOTE] 
+>as transferências só terão suporte para assinaturas baseadas em licença e assinaturas do Azure. Você precisará transferir manualmente seu plano do Azure e as compras do Marketplace comercial. Observe que isso envolve o cancelamento e a renovação das assinaturas descritas nos seguintes documentos: [Plano do Azure](https://docs.microsoft.com/partner-center/azure-plan-lp) e [Marketplace comercial](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-manage). Como as assinaturas de servidor e as reservas do Azure são uma compra única, elas não precisarão ser transferidas para um locatário de fornecedor indireto. Visite a página de ofertas do CSP para obter mais informações.
 
 ### <a name="additional-resources"></a>Recursos adicionais:
 
@@ -123,7 +124,7 @@ _________________
 
 ## <a name="new-microsoft-365-entry-level-sku-for-firstline-workers---csp"></a><a id="5"/></a>Novo SKU do Microsoft 365 de nível de entrada para trabalhadores de linha de frente – CSP
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 10/03/2020
 - Tipo: Ofertas/mercados
@@ -147,7 +148,7 @@ Em 1º de abril de 2020, a Microsoft apresentará um novo SKU de nível de entra
 
 **Novo SKU de nível de entrada:** o novo SKU de nível de entrada será chamado de Microsoft 365 F1 e oferecerá valor personalizado para trabalhadores de linha de frente, segurança estendida e valor de identidade para todos os trabalhadores. Esta oferta inclui o Teams, o SharePoint Online, o Yammer Enterprise, o Stream, o EMS E3 e o acesso somente leitura para aplicativos Web/móveis do Office.
 
-Essas alterações fornecerão um valor melhor para os trabalhadores de linha de frente e permitirão que os parceiros aproveitem uma oportunidade significativa de crescimento do usuário. **Confira nossos documentos adicionais [aqui](http:/resources/collection/Microsoft-365-firstline-offer-updates#/) saber mais sobre a proposta de valor e suas próximas etapas.**
+Essas alterações agregarão valor para os trabalhadores de linha de frente e permitirão que os parceiros aproveitem uma oportunidade significativa de crescimento de usuários. **Confira nossos documentos adicionais [aqui](http:/resources/collection/Microsoft-365-firstline-offer-updates#/) saber mais sobre a proposta de valor e suas próximas etapas.**
 
 |**Alterar linha do tempo**|**Alteração**|
 |-------------------|:------|
@@ -189,10 +190,10 @@ _________________
 
 ## <a name="updated-changes-to-education-customer-validation-in-csp"></a><a id="4"/></a>Atualizado: alterações na validação de cliente de educação no CSP
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 10/03/2020
-- Tipo: Funcionalidades
+- Tipo: Capacidades
 - Status: Já disponíveis
 - [Saiba mais](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/)
 
@@ -209,7 +210,8 @@ Como parte do nosso compromisso contínuo com práticas de negócios em conformi
 - Para reduzir os atrasos na investigação de falhas de habilitação para entradas legítimas, verifique se você inseriu dados do cliente os mais **precisos** e **completos** possíveis. Não insira em dados de teste/fictícios.
 - Examine o guia **Criar um guia cliente de educação no Partner Center** e também **Adicionar uma nova página do cliente**, que documentam o que é necessário ao criar um cliente de educação no Partner Center. Ambos podem ser encontrados na galeria de recursos abaixo.
 
-**OBSERVAÇÃO:** o **guia Criar um cliente de educação no Partner Center** agora inclui instruções passo a passo sobre como corrigir as informações do cliente e reenviá-las se a habilitação do cliente tiver falhado.
+>[!NOTE] 
+>o **guia Criar um cliente de educação no Partner Center** agora inclui instruções passo a passo sobre como corrigir as informações do cliente e reenviá-las se a habilitação do cliente tiver falhado.
 
 **Próximas etapas/recursos adicionais:**
 
@@ -218,7 +220,7 @@ Coleção da galeria de recursos de atualizações do programa CSP: [Alteraçõe
 ### <a name="change-log"></a>Log de alterações:
 
 - Data da publicação original: 19 de dezembro de 2019
-- Entre em contato com o suporte se o novo parceiro de vendas de ofertas para instituições de ensino tiver sido removido (não é mais necessário): 13 de janeiro de 2020
+- Para entrar em contato com o suporte se o novo parceiro de vendas de ofertas para instituições de ensino tiver sido removido (não é mais necessário): 13 de janeiro de 2020
 - Adição da atualização de fevereiro de 2020: 10 de fevereiro de 2020
 - Aviso de nova capacidade de corrigir as informações da conta do cliente e reenviar para habilitação: 10 de março de 2020
 
@@ -226,7 +228,7 @@ _________________
 
 ## <a name="microsoft-365-cloud-service-provider-updates--april-2020"></a><a id="3"/></a>Atualizações do Provedor de Serviços de Nuvem do Microsoft 365 – abril de 2020
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 09/03/2020
 - Tipo: Ofertas/mercados
@@ -278,7 +280,7 @@ _________________
 
 ## <a name="new-dynamics-365-products-will-be-released-on-april-1-2020"></a><a id="2"/></a>Novos produtos do Dynamics 365 serão lançados em 1º de abril de 2020
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 02/03/2020
 - Tipo: Ofertas/mercados
@@ -330,7 +332,7 @@ _________________
 
 ## <a name="now-available-microsoft-defender-advanced-threat-protection-mdatp-standalone-for-csp"></a><a id="1"/></a>MDATP (Proteção Avançada contra Ameaças do Microsoft Defender) autônomo já disponível para o CSP.
 
-### <a name="categories"></a>Categories
+### <a name="categories"></a>Categorias
 
 - Data: 02/03/2020
 - Tipo: Ofertas/mercados

@@ -1,7 +1,7 @@
 ---
 title: Atestar a aceitação do cliente do Contrato de Cliente da Microsoft
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Saiba quando faz sentido atestar a aceitação do Contrato de Cliente da Microsoft em nome do seu cliente.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: cliente, clientes, consentimento, MCA, Contrato do Microsoft Cloud, Contrato de Cliente da Microsoft, modelos de contrato do cliente, atestar aceitação
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 37e24d602bc61391642814d78a22c7d7cb4ba5b0
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 9e5402d1c6075c86df8511a1621c9090cd2c9451
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452713"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909014"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>Atestar a aceitação do Contrato de Cliente da Microsoft em nome do seu cliente
 
@@ -46,7 +46,7 @@ No momento, há dois cenários em que os clientes talvez não possam aceitar dir
 
 **Para resolver**: você deve atestar em nome do cliente.
 
-:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="cliente":::
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Captura de tela da página do Centro de administração do Microsoft 365 solicitando que você entre em contato com seu parceiro para confirmar a aceitação do Contrato de Cliente da Microsoft.":::
 
 **Cenário 2**: um cliente existente comprou qualquer uma das ofertas, do software e das assinaturas de software, das Instâncias Reservadas e do Plano do Azure a seguir. Agora, o cliente está tentando fazer qualquer nova compra com um novo parceiro.
 
@@ -54,4 +54,4 @@ Quando o cliente clicar na URL para o Centro de administração do Microsoft 365
 
 **Para resolver**: você deve atestar em nome do cliente.  
 
-:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="cliente":::
+:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="Captura de tela da página "Autorizar o parceiro" com a opção "Autorizar" para selecionar – Mostra os detalhes de um parceiro específico, a relação com ele e as funções de administrador dele.":::

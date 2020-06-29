@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: O Azure Active Directory, provedor de soluções na nuvem, programa de provedor de soluções na nuvem, CSP, fornecedor do painel de controle, CPV, autenticação multifator, MFA, modelo de aplicativo seguro, modelo de aplicativo seguro, segurança
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a0e318ccc7ea2ff3fa0d50fbc1514682ca9566a5
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 203afa3fd238222e902a06ac3c173876e185f025
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328267"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679264"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Perguntas frequentes sobre os requisitos de segurança de parceiros
 
@@ -208,11 +208,17 @@ Os fornecedores de painel de controle são obrigados a se [integrar](https://doc
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>O Modelo de Aplicativo Seguro precisa ser implementado somente para a API/o SDK do Partner Center?
 
-Por meio da imposição da autenticação multifator a todas as contas de usuário, qualquer automação ou integração destinada à execução não interativa será afetada. Embora os requisitos de segurança do parceiro exijam que você habilite o modelo de aplicativo seguro para a API do Partner Center, ele pode ser utilizado para atender à necessidade de um segundo fator de autenticação com automação e integração. Observe que o recurso que está sendo acessado precisará dar suporte à autenticação baseada em token de acesso.
+Por meio da imposição da autenticação multifator a todas as contas de usuário, qualquer automação ou integração destinada à execução não interativa será afetada. Embora os requisitos de segurança do parceiro exijam que você habilite o modelo de aplicativo seguro para a API do Partner Center, ele pode ser utilizado para atender à necessidade de um segundo fator de autenticação com automação e integração. 
+
+>[!Note] 
+>Os recursos que estão sendo acessados precisarão ser compatíveis com a autenticação baseada em token de acesso.
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>Estou usando ferramentas de automação, como o PowerShell. Como faço para implementar o Modelo de Aplicativo Seguro?
 
-Você precisará implementar o Modelo de Aplicativo Seguro se a automação for destinada à execução não interativa e depender de credenciais do usuário para autenticação. Confira [Modelo de Aplicativo Seguro | PowerShell do Partner Center](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5) para obter orientação sobre como implementar essa estrutura.  Observe que nem todas as ferramentas de automação fornecem a capacidade de autenticação usando tokens de acesso. Poste uma mensagem no grupo [Diretrizes de Segurança da Central de Parceiros](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) caso precise obter ajuda para entender quais alterações são necessárias. 
+Você precisará implementar o Modelo de Aplicativo Seguro se a automação for destinada à execução não interativa e depender de credenciais do usuário para autenticação. Confira [Modelo de Aplicativo Seguro | PowerShell do Partner Center](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5) para obter orientação sobre como implementar essa estrutura.  
+
+>[!Note] 
+>Nem todas as ferramentas de automação fornecem autenticação com tokens de acesso. Poste uma mensagem no grupo [Diretrizes de Segurança da Central de Parceiros](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) caso precise obter ajuda para entender quais alterações são necessárias. 
 
 ### <a name="what-user-credentials-should-the-application-administrator-provide-when-performing-the-consent-process"></a>Quais credenciais de usuário o administrador de aplicativos deve fornecer ao executar o processo de consentimento?
 
@@ -238,7 +244,9 @@ Os CPVs precisam entrar em contato pelo email [CPVHelp@microsoft.com](mailto:CPV
 
 Depois de se registrar e registrar seus aplicativos na Central de Parceiros, você terá acesso às APIs da Central de Parceiros. Você receberá as informações de área restrita por meio de uma notificação da Central de Parceiros se for um novo CPV. Depois de concluir o registro como CPV da Microsoft e aceitar o contrato de CPV, você poderá:
 
-1. Gerenciar aplicativos multilocatários (adicionar aplicativos ao portal do Azure e registrar e cancelar o registro de aplicativos no Partner Center). Observação: os CPVs deverão registrar seus aplicativos no Partner Center para serem autorizados a usar as APIs do Partner Center. Apenas adicionar aplicativos ao portal do Azure não autoriza os aplicativos de CPV a usarem as APIs do Partner Center.
+1. Gerenciar aplicativos multilocatários (adicionar aplicativos ao portal do Azure e registrar e cancelar o registro de aplicativos no Partner Center). 
+     >[!Note] 
+     >os CPVs deverão registrar seus aplicativos no Partner Center para serem autorizados a usar as APIs do Partner Center. Apenas adicionar aplicativos ao portal do Azure não autoriza os aplicativos de CPV a usarem as APIs do Partner Center.
 2. Exiba e gerencie seu perfil de CPV.
 3. Exiba e gerencie seus usuários que precisam de acesso aos recursos de CPV. A única função que um CPV pode ter é a função de administrador global.
 

@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: cliente, clientes, consentimento, MCA, contrato de Microsoft Cloud, contrato de cliente da Microsoft, modelos de contrato de cliente
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6d67c7e970d042704e1cc1c731d6ae1e85d6687
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 0d89c625375c203fe77556c47b6061faa293e1b0
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453263"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679103"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>Confirmar a aceitação do Contrato de Cliente da Microsoft pelo cliente no programa de parceiro CSP
 
@@ -128,7 +128,10 @@ Use as etapas a seguir para criar um cliente no Partner Center e convidá-lo a r
 
 3. Em **Contrato de Cliente**, selecione a primeira opção, **Será solicitado que o cliente aceite o Contrato de Cliente da Microsoft no Centro de administração do Microsoft 365**. Preencha todos os outros campos obrigatórios na página.
 
-4. Selecione **Avançar: Examinar**. Em seguida, prossiga com as etapas para criar o locatário do cliente. (Observação: novos clientes não podem fazer uma nova compra até aceitarem o Contrato de Cliente da Microsoft.)  
+4. Selecione **Avançar: Examinar**. Em seguida, prossiga com as etapas para criar o locatário do cliente. 
+
+>[!NOTE] 
+>Novos clientes não podem fazer uma nova compra até aceitarem o Contrato de Cliente da Microsoft.  
 
    :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Criar cliente":::
 

@@ -1,7 +1,7 @@
 ---
 title: Gerenciar os benefícios do Microsoft Partner Network
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Junte-se ao MPN (Microsoft Partner Network) e use o Partner Center para gerenciar os benefícios e as ofertas de associação que podem ajudar a aumentar os seus negócios.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, benefícios da associação, associação
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0f937316e01f20fb0f255d9af23328a200fb8445
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: d55492a52ada3328cb040d443f2c7b854cd6be96
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83796002"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072406"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Gerenciar as suas ofertas e benefícios de associação ao Microsoft Partner Network no Partner Center
 
@@ -85,25 +85,25 @@ Para exibir e gerenciar todos os seus benefícios de associação, acesse a [pá
 
 4. Repita esse processo para cada assinatura que deseja atribuir. Os usuários podem gerenciar suas respectivas assinaturas no portal do Visual Studio.
 
-    É possível reatribuir assinaturas a qualquer momento removendo um usuário atribuído e, em seguida, atribuindo outro usuário.
+   É possível reatribuir assinaturas a qualquer momento removendo um usuário atribuído e, em seguida, atribuindo outro usuário.
 
 ## <a name="manage-technical-benefits"></a>Gerenciar benefícios técnicos
 
 1. Selecione **Benefícios técnicos** para ver a sua lista de benefícios técnicos da Microsoft.
 
-    Os benefícios técnicos podem incluir incidentes de suporte de produtos Microsoft, horas de consultoria de parceiro e serviços de implantação de pré-vendas técnicas.
+   Os benefícios técnicos podem incluir incidentes de suporte de produtos Microsoft, horas de consultoria de parceiro e serviços de implantação de pré-vendas técnicas.
 
 2. Encontre o benefício de suporte que deseja começar a usar e, em seguida, selecione a seta para baixo na extremidade direita da linha para expandir os detalhes do benefício.
 
 3. Para ativar seu benefício de suporte, atribua um usuário a ele.
 
-   a.  Selecione um usuário na lista. Se o usuário que você desejar atribuir não estiver na lista, você poderá [adicionar novos usuários](create-user-accounts-and-set-permissions.md) em **Configurações da conta**.
+   a. Selecione um usuário na lista. Se o usuário que você desejar atribuir não estiver na lista, você poderá [adicionar novos usuários](create-user-accounts-and-set-permissions.md) em **Configurações da conta**.
 
-   b.  Forneça um endereço de email para o usuário que seja diferente do endereço de email associado à conta do Partner Center da sua empresa.
+   b. Forneça um endereço de email para o usuário que seja diferente do endereço de email associado à conta do Partner Center da sua empresa.
 
    Como uma medida de segurança, enviaremos instruções por email para acessar o Microsoft Product Support nesse endereço de email, além do email da conta do usuário do Partner Center. Pode levar vários dias para ativar esse benefício e enviar instruções por email ao usuário atribuído.
 
-   c.  Depois de terminar de inserir o endereço de email alternativo, selecione **Atribuir usuário**.
+   c. Depois de terminar de inserir o endereço de email alternativo, selecione **Atribuir usuário**.
 
 4. Você pode usar seu benefício de assistência de pré-vendas técnicas ou horas de consultoria para solicitar assistência técnica durante as fases de pré-vendas, design, implantação e desenvolvimento de aplicativos de suas soluções híbridas e de nuvem. Para solicitar assistência, preencha o [formulário de solicitação](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest) e, em seguida, selecione **Enviar solicitação**.
 
@@ -116,26 +116,26 @@ Para exibir e gerenciar todos os seus benefícios de associação, acesse a [pá
 
 1. Selecione **Benefícios** e **Entrada no mercado** para ver sua lista de ofertas associadas com o programa da Microsoft de entrada no mercado.
 
-    Os [recursos go-to-market](mpn-learn-about-go-to-market-benefits.md) oferecem mais recursos, ofertas, programas de marketing e assistência que podem estar disponíveis para você. Os tipos de ofertas disponíveis dependem de seu nível de parceiro específico e das competências que você já possa ter obtido.
+   Os [recursos go-to-market](mpn-learn-about-go-to-market-benefits.md) oferecem mais recursos, ofertas, programas de marketing e assistência que podem estar disponíveis para você. Os tipos de ofertas disponíveis dependem de seu nível de parceiro específico e das competências que você já possa ter obtido.
 
 2. Para ativar qualquer benefício ou programa de entrada no mercado, primeiro, você precisará atribuir um contato de marketing da empresa. Este contato receberá comunicações de acompanhamento sobre suas ofertas ativas de entrada no mercado.
 
 3. Para adicionar ou atualizar suas informações de contato de marketing, acesse a parte superior da página Entrada no mercado e, em seguida, selecione **Adicionar**, **Atualizar** ou **Alterar**. Agora, siga estas etapas:  
 
-    a.  Selecione um usuário na lista. Se o usuário que você desejar atribuir não estiver na lista, você poderá [adicionar novos usuários](create-user-accounts-and-set-permissions.md) em **Configurações da conta**.
+   a. Selecione um usuário na lista. Se o usuário que você desejar atribuir não estiver na lista, você poderá [adicionar novos usuários](create-user-accounts-and-set-permissions.md) em **Configurações da conta**.
 
-    b.  Forneça um endereço de email para o usuário que seja diferente do endereço de email associado à conta do Partner Center da sua empresa.
+   b. Forneça um endereço de email para o usuário que seja diferente do endereço de email associado à conta do Partner Center da sua empresa.
 
-    Enviaremos instruções por email para uso de sua oferta de entrada no mercado ao endereço de email do contato de marketing designado.
+      Enviaremos instruções por email para uso de sua oferta de entrada no mercado ao endereço de email do contato de marketing designado.
 
-    c.  Forneça o telefone de contato e o idioma preferencial para esse contato de marketing. Depois de concluir a inserção dessas informações, selecione **Atribuir usuário**.
+   c.  Forneça o telefone de contato e o idioma preferencial para esse contato de marketing. Depois de concluir a inserção dessas informações, selecione **Atribuir usuário**.
 
-4. Depois de atualizar seu contato de marketing, encontre a oferta de entrada no mercado que deseja começar a usar e, em seguida, selecione a seta para baixo na extremidade direita da linha para expandir os detalhes da oferta. A lista exibirá cada tipo de oferta disponível abaixo do nome do Benefício (como **Silver Core** ou **Gold Core**).
+4. Depois de atualizar seu contato de marketing, encontre a oferta de entrada no mercado que deseja começar a usar e, em seguida, selecione a seta para baixo na extremidade direita da linha para expandir os detalhes da oferta. A lista exibirá cada tipo de oferta disponível abaixo do nome do Benefício (como **Silver Core**, **Gold Core** ou **ISV Pronto para Venda Conjunta**).
 
 5. Selecione **Ativar** para ativar a oferta.
 
-> [!NOTE]
->Pode levar vários dias para enviar as instruções por email ao contato de marketing atribuído e ativar uma oferta de entrada no mercado. Quando a oferta for ativada, você verá as alterações na página Entrada no mercado. Na coluna **Status**, você verá a alteração da oferta para **Ativo**. Na coluna **Expira em**, você verá a data na qual a oferta expira. Você pode usar essa oferta até a data de validade. Saiba mais sobre os [diferentes tipos de recursos, ofertas e programas de entrada no mercado](mpn-learn-about-go-to-market-benefits.md) disponíveis.  
+   > [!NOTE]
+   >Pode levar vários dias para enviar as instruções por email ao contato de marketing atribuído e ativar uma oferta de entrada no mercado. Quando a oferta for ativada, você verá as alterações na página Entrada no mercado. Na coluna **Status**, você verá a alteração da oferta para **Ativo**. Na coluna **Expira em**, você verá a data na qual a oferta expira. Você pode usar essa oferta até a data de validade. Saiba mais sobre os [diferentes tipos de recursos, ofertas e programas de entrada no mercado](mpn-learn-about-go-to-market-benefits.md) disponíveis.  
 
 ## <a name="cancel-a-membership-benefit-or-offer"></a>Cancelar um benefício ou oferta de associação
 
@@ -143,8 +143,8 @@ Para cancelar um benefício ou oferta e receber um reembolso, você precisará f
 
 ## <a name="next-steps"></a>Próximas etapas
 
-[Adicionar usuários e atribuir permissões a eles](create-user-accounts-and-set-permissions.md)
+- [Adicionar usuários e atribuir permissões a eles](create-user-accounts-and-set-permissions.md)
 
-[Adquirir ou renovar uma assinatura do Microsoft Action Pack](mpn-get-action-pack.md)
+- [Adquirir ou renovar uma assinatura do Microsoft Action Pack](mpn-get-action-pack.md)
 
-[Saiba mais sobre as ofertas e os recursos de entrada no mercado do MPN](mpn-learn-about-go-to-market-benefits.md)
+- [Saiba mais sobre as ofertas e os recursos de entrada no mercado do MPN](mpn-learn-about-go-to-market-benefits.md)

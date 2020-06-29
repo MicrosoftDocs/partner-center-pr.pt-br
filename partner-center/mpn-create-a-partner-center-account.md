@@ -1,22 +1,22 @@
 ---
 title: Criar uma conta do Partner Center
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Saiba como os membros do Microsoft Partner Network podem criar um perfil comercial e contas do Partner Center para gerenciar os seus benefícios e competências de rede.
+description: Saiba como os membros do Microsoft Partner Network podem criar uma conta do Partner Center para gerenciar seus benefícios e competências de rede.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dbfbe23c84542e9164ba3ddfda811add34962fdc
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: bb703eac9e609badbc71f53bb9561a363f3a76f8
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795729"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603815"
 ---
-# <a name="create-a-business-profile-and-partner-center-account-to-manage-network-benefits-and-competencies"></a>Crie um perfil empresarial e uma conta do Partner Center para gerenciar os benefícios e as competências de rede
+# <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Criar uma conta do Partner Center para gerenciar os benefícios e as competências de rede
 
 **Funções apropriadas**
 

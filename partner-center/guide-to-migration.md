@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, migração, mover para o Partner Center
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4437d3afd408810c9770e532950fc2661228eb62
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 773466a1c7bfb8a091be11f8e825dae6cc90b765
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453233"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679083"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guia de migração do PMC para o Partner Center
 
@@ -27,7 +27,7 @@ O site do parceiro da Microsoft em partner.microsoft.com é uma experiência dig
 
 O PMC (Partner Membership Center) está sendo desativado. Sua empresa foi convidada a fazer a transição do gerenciamento de sua associação do Microsoft Partner Network para o Partner Center. Este guia preparará você para o que esperar durante a migração do PMC para o Partner Center.
 
->[!Note]
+>[!NOTE]
 >Mesmo que a sua empresa tenha mais de uma conta ou localização, a migração para o Partner Center começa com a migração de uma (sua primeira) conta para o Partner Center.
 
 ## <a name="get-started"></a>Introdução
@@ -51,7 +51,7 @@ Selecione **Introdução** no convite. Você será levado para a página de entr
 
 Caso a sua empresa não tenha um email de trabalho e um locatário do AAD, poderemos ajudar você a configurar um durante o processo de conexão ao Partner Center. Ao tentar entrar com uma conta de email que não seja um email de trabalho, como a sua conta pessoal, você será direcionado para fornecer informações sobre a sua empresa, de modo que possamos configurar um locatário do AAD e um email de trabalho. Esses detalhes da empresa serão usados para finalizar sua conta no Partner Center, portanto, verifique se eles são precisos.
 
->[!Note]
+>[!NOTE]
 >Se você for um parceiro na China e estiver registrado no programa Microsoft Partner Network e CSP (Provedor de Soluções na Nuvem), terá um locatário separado para cada conta. Sua conta com o programa Provedor de Soluções na Nuvem é gerenciada na nuvem nacional e sua conta do Microsoft Partner Network é gerenciada na nuvem global. As duas contas não podem ser vinculadas.
 
 :::image type="content" source="images/migration/newtellusabout.png" alt-text="Conte-nos sobre a sua empresa":::
@@ -74,11 +74,16 @@ Quando o novo locatário do Azure AD for criado, você poderá convidar seus fun
 
 :::image type="content" source="images/migration/invite.png" alt-text="Convidar funcionários":::
 
-Se você tiver entrado com um locatário existente do AAD, seus funcionários terão se movido com você. Nesse caso, atribua aos funcionários funções que determinem o que elas podem fazer no Partner Center. Observação: As funções no Partner Center são diferentes das funções no PMC. Para obter mais informações, confira [Como migrar do PMC para o Partner Center](move-pmc-pc-map.md).
+Se você tiver entrado com um locatário existente do AAD, seus funcionários terão se movido com você. Nesse caso, atribua aos funcionários funções que determinem o que elas podem fazer no Partner Center. 
+
+>[!NOTE] 
+>As funções no Partner Center são diferentes das funções no PMC. Para obter mais informações, confira [Como migrar do PMC para o Partner Center](move-pmc-pc-map.md).
 
 ## <a name="verify-your-domain-and-become-a-global-admin"></a>Verificar seu domínio e tornar-se um administrador global  
 
-Se o locatário do AAD for novo, ninguém receberá a função de administrador global. Para se tornar o administrador global, você precisará verificar a propriedade do domínio. Talvez você precise do administrador de domínio para ajudar você com isso. Observe que, embora você possa usar as ofertas que já comprou, não poderá comprar nenhuma nova oferta até concluir a etapa de obtenção de um administrador global.
+Se o locatário do AAD for novo, ninguém receberá a função de administrador global. Para se tornar o administrador global, você precisará verificar a propriedade do domínio. Talvez você precise do administrador de domínio para ajudar você com isso.
+
+Embora seja possível usar as ofertas compradas, você não poderá comprar novas ofertas até concluir a etapa de atribuição de um administrador global.
 
 :::image type="content" source="images/migration/takecontrol.png" alt-text="Assumir o controle":::
 

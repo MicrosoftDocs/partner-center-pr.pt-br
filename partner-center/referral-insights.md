@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: indicação, análise, análise, métrica, conversão
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2c13f2e6d8500b715aa29fb3f0178e7ed020062a
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 4ffe5c7a485749d138be09fb5740d9b15970a546
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467446"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679423"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenha informações de referência na Central de parceiros e descubra como estão suas referências
 
@@ -39,13 +39,13 @@ Você também pode expandir Filtros para filtrar todos os dados nesta página po
   - **Qualificada pelo marketing**: Criada por meio dos sistemas de marketing da Microsoft.
   - **Qualificada por vendas**: Criada por um Agente de Vendas da Microsoft.
   - **Não qualificada**: Uma indicação que não tem nenhuma medida de qualidade associada.
-- **Tipo de indicação**: o padrão é **Todas**, mas você pode optar por limitar os dados para indicações **Independentes** (aquelas que você trabalhará diretamente com o cliente para fechar o negócio) ou para indicações de **venda conjunta** (aquelas em que incluem outras partes que trabalharão em conjunto para fechar o negócio).
+  - **Tipo de indicação**: o padrão é **Todas**, mas você pode optar por limitar os dados para indicações **Independentes** (aquelas que você trabalhará diretamente com o cliente para fechar o negócio) ou para indicações de **venda conjunta** (aquelas em que incluem outras partes que trabalharão em conjunto para fechar o negócio).
 
 As informações de todos os gráficos listados abaixo refletem o intervalo de datas e todos os filtros selecionados, exceto pelo que é observado abaixo. Algumas seções também permitem que você aplique filtros adicionais, tais como a filtragem para uma solução específica.
 
 ## <a name="referrals-summary"></a>Resumo das indicações
 
-Este gráfico mostra uma visão geral do desempenho de suas indicações. Observe que somente os filtros de intervalo de datas se aplicam a este gráfico; nenhum dos outros filtros é aplicado. 
+Este gráfico mostra uma visão geral do desempenho de suas indicações. Somente os filtros de intervalo de datas se aplicam a este gráfico. Nenhum dos outros filtros é aplicado. 
 
 O gráfico mostra o número total de indicações, o número das indicações que resultaram em negociações ganhas e o volume total de transações (em USD) para o período de tempo selecionado. Expandir o gráfico mostra dados adicionais, tais como o detalhamento da origem da indicação e a direção da indicação. 
 

@@ -8,13 +8,13 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 05/04/2020
-ms.openlocfilehash: 073ee1a3f0cd90d3b10493a989d00dc1594505d6
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.date: 06/16/2020
+ms.openlocfilehash: 0629ddcee62040ecc1e5fca40689ede71f2b73ca
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452583"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908954"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Fazer a transição de clientes para o plano do Azure de ofertas do Azure no CSP existentes
 
@@ -41,11 +41,11 @@ Você pode fazer a transição de um cliente de suas ofertas do CSP do Azure exi
 
 2. Selecione **Fazer a transição de cobrança para o plano do Azure**.
 
-   :::image type="content" source="images/azure/transition1.png" alt-text="transição":::
+   :::image type="content" source="images/azure/transition1.png" alt-text="Captura de tela mostra as informações de relatório de assinaturas baseadas em uso com uma opção selecionável chamada: Fazer a transição da cobrança de assinatura do Azure para o plano do Azure.":::
 
 3. Selecionar **Continuar**
 
-   :::image type="content" source="images/azure/transition2.png" alt-text="transição":::
+   :::image type="content" source="images/azure/transition2.png" alt-text="Caixa de diálogo intitulada "Fazer a transição para o plano do Azure" com os impactos sobre a transição e duas opções para selecionar, "Continuar" ou "Cancelar".":::
 
    Seu cliente será transferido para o plano do Azure.
 
@@ -63,7 +63,7 @@ Você pode fazer a transição de um cliente de suas ofertas do CSP do Azure exi
 
 4. Volte para a página de **Assinaturas** do Partner Center do cliente a fim de atualizar o limite de orçamento usando a moeda local do cliente.
 
-   :::image type="content" source="images/azure/transition3.png" alt-text="Transição":::
+   :::image type="content" source="images/azure/transition3.png" alt-text="Exibição parcial da página "Assinaturas" do Partner Center com limites de orçamento definidos na moeda local para um período de cobrança.":::
 
    >[!NOTE]
    >O orçamento definido no Partner Center não é transportado para o portal do Azure. Você também deve definir o orçamento e o alerta no portal do Azure.
@@ -77,7 +77,7 @@ Você pode fazer a transição de um cliente de suas ofertas do CSP do Azure exi
 
 Siga o progresso da transição no portal do Azure, bem como no Partner Center.
 
-:::image type="content" source="images/azure/details1.png" alt-text="Mostrar detalhes":::
+:::image type="content" source="images/azure/details1.png" alt-text="Captura de tela mostra tabela com a lista de detalhes da transição por assinatura – Inclui a ID da assinatura, a data de transição e o status de transição.":::
 
 ### <a name="billing-impact-to-partners"></a>Impacto de cobrança para os parceiros
 
@@ -100,7 +100,7 @@ A assinatura do “Microsoft Azure” (0145P) é composta por duas partes:
 
 Quando a transição for concluída, a assinatura do Azure será movida no novo plano do Azure e a assinatura do Commerce será suspensa para que nenhum uso adicional seja relatado.  
 
->[!Note]
+>[!NOTE]
 >Quando a assinatura do Microsoft Azure (0145P) é adquirida no CSP, tanto a assinatura do Commerce quanto a assinatura do Azure (direito) têm o mesmo valor. Somente no caso de alterações ou transferências na propriedade de cobrança é que os valores diferem.
 
 ### <a name="transition-issues"></a>Problemas de transição

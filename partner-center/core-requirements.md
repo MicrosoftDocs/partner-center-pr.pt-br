@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: reivindicações de incentivos, reivindicações de cooperação, fundos de cooperação, requisitos básicos
 ms.localizationpriority: high
-ms.openlocfilehash: e8babb28ab14b2cada56d9c2f65a588e7c682c2c
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 417e0d0c8f2afe64d1690ede154a952f7c0bf32c
+ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74721318"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84776293"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>Requisitos básicos para reivindicações de cooperação de incentivos
 
@@ -42,7 +42,7 @@ As tabelas a seguir descrevem os requisitos básicos para cada uma das atividade
 |Anúncio digital|            |Captura de tela de anúncio digital E URL da página de aterrissagem, mostrando os requisitos básicos específicos do programa|Resumo dos resultados (como o relatório navegável por cliques)|Posicionamento de mídia de terceiros; Tarifa – agência: Serviços de marketing e criativos, incluindo taxas de agência|  
 |Mala direta, email e sms|             |1) Cópia de peça da comunicação final mostrando requisitos básicos específicos do programa 2) A Comprovação de Distribuição pode incluir envelope de remessa carimbado ou outra comprovação de correspondência (mala direta), email final mostrando o cabeçalho datado ou outra comprovação de envio (email) ou foto de mensagem de telefone (SMS)|   Alcance estimado de cliente (ou parceiro)   |• Aquisição de banco de dados • Material impresso • Postagem; Tarifa – agência: Serviços de marketing e criativos, incluindo taxas de agência|
 |Site e mecanismo de pesquisa do parceiro||URL e/ou capturas de tela de páginas do site mostrando a URL; declaração de trabalho ou contrato de serviço para projeto de SEO (somente atividade de SEO)|Resumo dos resultados (como o relatório navegável por cliques)|Tarifa – agência: Serviços de marketing, incluindo taxas de agência; programação/desenvolvimento: Tarifas de programação e desenvolvimento; tarifa – SEO: Taxas de otimização e manutenção|
-|Conteúdo sindicalizado da Microsoft||URL e/ou capturas de tela de páginas do site mostrando a URL|Resumo dos resultados (como o relatório navegável por cliques)|Custos reais de até USD 18,75 por período de uso para: serviços de marketing de taxa de agência, incluindo taxas de agência; taxas de programação e desenvolvimento; posicionamento de mídia|
+|Conteúdo sindicalizado da Microsoft||URL e/ou capturas de tela de páginas do site mostrando a URL|Resumo dos resultados (como o relatório navegável por cliques)|Custos reais de até US$ 18.750,00 por período de uso para: serviços de marketing de agência, incluindo taxas de agência; taxas de programação e desenvolvimento; posicionamento de mídia|
 |Campanha digital multitoque|     |Todas as provas de execução, conforme detalhado na página da atividade aplicável, são necessárias.  – Anúncio digital – Mala direta – Otimização do site e do mecanismo de pesquisa do parceiro – Telemarketing||Posicionamento de mídia de terceiros • Tarifa – agência: Serviços de marketing e criativos, incluindo taxas de agência; Aquisição de banco de dados;• Programação/desenvolvimento: Tarifas de programação e desenvolvimento; Tarifa – SEO: Taxas de otimização e manutenção; Taxa – cobranças de call center de terceiros
 
 ## <a name="market-development"></a>Desenvolvimento de mercado

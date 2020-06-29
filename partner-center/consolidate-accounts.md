@@ -1,21 +1,20 @@
 ---
-title: Consolidar contas da sua empresa
+title: Consolide as contas da empresa
+description: Saiba mais sobre como consolidar as contas do PMC (Partner Membership Center) em uma conta no Partner Center. Aplica-se à migração do PMC para o Partner Center.
 ms.topic: article
-ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba mais sobre como consolidar as contas do PMC (Partner Membership Center) em uma conta no Partner Center. Aplica-se à migração do PMC para o Partner Center.
-ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 63bbbc57572135b5de3d61a6fab8ea60371e58ec
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.date: 05/05/2020
+ms.openlocfilehash: a1b92f296b572d8317437519e9472972b6e5aba4
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908137"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908654"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Consolide as contas da sua empresa ao migrar do PMC para o Partner Center
 
@@ -40,10 +39,9 @@ Ao entrar no Partner Center pela primeira vez, você será adicionado como um ad
 
 5. Depois de consolidar suas contas, você poderá estar qualificado para mais competências. Além disso, talvez agora você se qualifique para outros programas de incentivo.
 
-
 ## <a name="what-happens-during-consolidation-of-accounts"></a>O que acontece durante a consolidação de contas
 
-- Não é possível alterar os detalhes na tela de detalhes da empresa. Esses detalhes são para a conta global do parceiro. 
+- Não é possível alterar os detalhes na tela de detalhes da empresa. Esses detalhes são para a conta global do parceiro.
 
 - As contas no PMC serão consolidadas na conta global do parceiro.
 
@@ -64,4 +62,3 @@ No PMC, cada local podia ter suas próprias competências, seus próprios MAPs e
 No Partner Center, todas as contas do local serão consolidadas em uma conta global. Isso significa que todas as ofertas de entrada no mercado, programas e competências também são consolidadas. Os kits de ferramentas de benefícios adicionais (ABTKs) não estarão disponíveis. No entanto, você pode organizar a distribuição de recursos, ofertas, programas de marketing e competências conforme necessário para a sua empresa. Quando você consolida, uma extensão é fornecida. Essa extensão permite que sua empresa aproveite os recursos, as ofertas e os programas de marketing usados no PMC por mais um ano.
 
 Para obter mais informações sobre as diferenças entre o PMC e o Partner [Center, leia migrando do](guide-to-migration.md)PMC para o Partner Center.
-

@@ -1,7 +1,7 @@
 ---
 title: Gerenciar locais na sua conta de parceiro
 ms.topic: article
-ms.date: 06/01/2020
+ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: No Partner Center, saiba como adicionar uma nova localização e como a ID do MPN da localização é usada em programas de incentivo, negócios do CSP, assinaturas e outras transações.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: conta do parceiro, locais
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 943299cc4c68a6252c69a96204ef6001b89eda09
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 6cce4b38cb27d8cef88f71ced6fe985631a24914
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453203"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909054"
 ---
 # <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>Gerencie os seus locais de conta de parceiro no Partner Center e adicionar uma nova localização
 
@@ -54,12 +54,12 @@ Os usuários podem ter funções que cruzam locais. Por exemplo, o administrador
 
 1. Na página **Locais**, confira a lista de locais para verificar se o local que você deseja como pessoa jurídica está listado. Se não estiver, adicione-o.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="atualizar local comercial":::
+   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Captura de tela da página Locais da Conta do Partner Center com a lista de todos os locais atuais.":::
 
 2. Selecione **Perfil do parceiro** e, em seguida, **Atualizar perfil de negócios jurídico**
 
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="atualizar local comercial":::
+   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Captura de tela mostra as informações de perfil do Parceiro de Conta do Partner Center com a opção Atualizar selecionável.":::
 
 3. Selecione a região e a pessoa jurídica e **Envie-a**.
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="atualizar local comercial":::
+   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Captura de tela para atualizar o perfil comercial legal do parceiro mostra as listas suspensas para atualizar o país ou a região e a entidade legal.":::
