@@ -45,7 +45,7 @@ Você pode fazer a transição de um cliente de suas ofertas do CSP do Azure exi
 
 3. Selecionar **Continuar**
 
-   :::image type="content" source="images/azure/transition2.png" alt-text="Caixa de diálogo intitulada "Fazer a transição para o plano do Azure" com os impactos sobre a transição e duas opções para selecionar, "Continuar" ou "Cancelar".":::
+   :::image type="content" source="images/azure/transition2.png" alt-text="Caixa de diálogo intitulada Fazer a transição para o plano do Azure com os impactos sobre a transição e duas opções para selecionar, Continuar ou Cancelar.":::
 
    Seu cliente será transferido para o plano do Azure.
 
@@ -63,7 +63,7 @@ Você pode fazer a transição de um cliente de suas ofertas do CSP do Azure exi
 
 4. Volte para a página de **Assinaturas** do Partner Center do cliente a fim de atualizar o limite de orçamento usando a moeda local do cliente.
 
-   :::image type="content" source="images/azure/transition3.png" alt-text="Exibição parcial da página "Assinaturas" do Partner Center com limites de orçamento definidos na moeda local para um período de cobrança.":::
+   :::image type="content" source="images/azure/transition3.png" alt-text="Exibição parcial da página Assinaturas do Partner Center com limites de orçamento definidos na moeda local para um período de cobrança.":::
 
    >[!NOTE]
    >O orçamento definido no Partner Center não é transportado para o portal do Azure. Você também deve definir o orçamento e o alerta no portal do Azure.

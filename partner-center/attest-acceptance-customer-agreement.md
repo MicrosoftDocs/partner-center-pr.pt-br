@@ -54,4 +54,4 @@ Quando o cliente clicar na URL para o Centro de administração do Microsoft 365
 
 **Para resolver**: você deve atestar em nome do cliente.  
 
-:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="Captura de tela da página "Autorizar o parceiro" com a opção "Autorizar" para selecionar – Mostra os detalhes de um parceiro específico, a relação com ele e as funções de administrador dele.":::
+:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="Captura de tela da página Autorizar o parceiro com a opção Autorizar para selecionar – Mostra os detalhes de um parceiro específico, a relação com ele e as funções de administrador dele.":::
