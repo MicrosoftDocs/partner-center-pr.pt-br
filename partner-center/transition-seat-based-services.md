@@ -1,20 +1,20 @@
 ---
 title: Mover clientes baseados em licença para o programa CSP
+description: Saiba como mover clientes baseados em licença de outros canais ou outro parceiro para o programa CSP (provedor de soluções na nuvem) no Partner Center.
 ms.topic: article
-ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como mover clientes baseados em licença de outros canais ou outro parceiro para o programa CSP (provedor de soluções na nuvem) no Partner Center.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1943c72273db158b9f566024d5d29f0a8aca70ec
-ms.sourcegitcommit: 562535a4b16a8217c1e1945b7663ca3735e1ee27
+ms.date: 06/19/2020
+ms.openlocfilehash: 28f1345033cd474390d9b1b7cf709fd9f9a00311
+ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85133075"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "85678932"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Mover clientes baseados em licença de outros canais & parceiros para o programa do provedor de soluções na nuvem
 
@@ -33,7 +33,7 @@ Se o cliente quiser contratar vários parceiros, transferir suas assinaturas par
 3. O cliente pode permitir que as assinaturas originais expirem ou cancelem. No entanto, como não há reembolsos sobre assinaturas canceladas, é melhor esperar até que as assinaturas estejam próximas às datas de expiração natural.
 
 >[!NOTE]
->O cliente pode estar qualificado para um crédito se ele comprou por meio do portal de administração do Microsoft 365 (M365) (por exemplo, por meio de cobrança mensal ou anual diretamente da Microsoft). Os créditos para assinaturas adquiridas diretamente da Microsoft são tratados pelo **suporte de cobrança M365**. Consulte Diretrizes de M365 sobre como [cancelar sua assinatura do M365](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription). Se você tiver delegado privilégios de administração para o cliente, poderá entrar em contato com o suporte do M65 em nome do cliente. Caso contrário, peça ao cliente para entrar em contato com o suporte do M365 diretamente para descobrir a quantidade de crédito para a qual eles estão qualificados e como esse crédito será dado a eles. Leia informações sobre [privilégios de administrador delegado](customers-revoke-admin-privileges). 
+> O cliente pode estar qualificado para um crédito se ele comprou por meio do portal de administração do Microsoft 365 (M365) (por exemplo, por meio de cobrança mensal ou anual diretamente da Microsoft). Os créditos para assinaturas adquiridas diretamente da Microsoft são tratados pelo **suporte de cobrança M365**. Consulte Diretrizes de M365 sobre como [cancelar sua assinatura do M365](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription). Se você tiver delegado privilégios de administração para o cliente, poderá entrar em contato com o suporte do M65 em nome do cliente. Caso contrário, peça ao cliente para entrar em contato com o suporte do M365 diretamente para descobrir a quantidade de crédito para a qual eles estão qualificados e como esse crédito será dado a eles. Leia informações sobre [privilégios de administrador delegado](customers-revoke-admin-privileges.md). 
 
 4. O cliente continuará com as assinaturas que você provisionou, sem interrupção.
 
@@ -42,12 +42,9 @@ Se você provisionar as mesmas ofertas que o cliente utiliza, não será necess�
 Se você transferir clientes que estão em ofertas que foram descontinuadas, será necessário encontrar uma oferta equivalente para evitar a perda de dados. Se você mover o cliente para uma oferta diferente, será necessário atualizar a atribuição de licença.
 
 >[!NOTE]
->Você, o parceiro CSP, deve estar na mesma região que o locatário do cliente para fazer a transição desse cliente para você.
+> Você, o parceiro CSP, deve estar na mesma região que o locatário do cliente para fazer a transição desse cliente para você.
 
 ## <a name="next-steps"></a>Próximas etapas
 
 - [Comece a usar tarifas pagas conforme o uso com o plano do Azure](azure-plan-get-started.md)
- 
 - [Diferentes maneiras pelas quais você pode trabalhar com outros parceiros no Partner Center](work-with-other-partners.md)
-
-
