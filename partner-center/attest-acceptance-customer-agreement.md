@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: cliente, clientes, consentimento, MCA, Contrato do Microsoft Cloud, Contrato de Cliente da Microsoft, modelos de contrato do cliente, atestar aceitação
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9e5402d1c6075c86df8511a1621c9090cd2c9451
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: b74989324fb64cbc8875752bfc33a24285e96936
+ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909014"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "85678559"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>Atestar a aceitação do Contrato de Cliente da Microsoft em nome do seu cliente
 
@@ -48,10 +48,13 @@ No momento, há dois cenários em que os clientes talvez não possam aceitar dir
 
 :::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Captura de tela da página do Centro de administração do Microsoft 365 solicitando que você entre em contato com seu parceiro para confirmar a aceitação do Contrato de Cliente da Microsoft.":::
 
-**Cenário 2**: um cliente existente comprou qualquer uma das ofertas, do software e das assinaturas de software, das Instâncias Reservadas e do Plano do Azure a seguir. Agora, o cliente está tentando fazer qualquer nova compra com um novo parceiro.
+**Cenário 2**: um cliente comprou uma das seguintes ofertas, softwares ou assinaturas de software, Instâncias Reservadas ou Plano do Azure. Agora, o cliente está tentando fazer qualquer nova compra com um novo parceiro.
 
 Quando o cliente clicar na URL para o Centro de administração do Microsoft 365 para aceitar o novo relacionamento com o parceiro e o contrato, ele receberá a mensagem “Entre em contato com seu Parceiro para confirmar sua aceitação do Contrato de Cliente da Microsoft”.  
 
 **Para resolver**: você deve atestar em nome do cliente.  
 
-:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="Captura de tela da página Autorizar o parceiro com a opção Autorizar para selecionar – Mostra os detalhes de um parceiro específico, a relação com ele e as funções de administrador dele.":::
+## <a name="next-steps"></a>Próximas etapas
+
+- [Como adicionar um novo registro de cliente no Partner Center](add-a-new-customer.md)
+- [Introdução: o plano do Azure permite que os parceiros comprem o Azure com tarifas pagas conforme o uso para clientes](azure-plan-lp.md)

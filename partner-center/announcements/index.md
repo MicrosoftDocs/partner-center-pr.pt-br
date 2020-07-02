@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: c29a1e466d441a9e498c576fb8f20a64fed3a074
-ms.sourcegitcommit: 1fa9ac175cfed992c655c9784081cb636bffc8b8
+ms.openlocfilehash: 77b5d692a103303b9a0e70aa49321773569bf954
+ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "85346712"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "85678651"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,6 +22,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 | **Categoria** | **Comunicados de junho de 2020** | **Comunicado** |
 |---------|:---------|:---------|
+| Ofertas/mercados | [ESU do Ano 2 do Windows 7 agora disponível para Parceiros CSP](2020-june.md#6) | 29 de junho |
 | Capacidades | [Atualização do recurso de remoção de relacionamento do Partner Center](2020-june.md#5) | 29 de junho |
 | Capacidades | [A frequência de cobrança padrão está mudando de anual para mensal](2020-june.md#4) | 17 de junho |
 | Ofertas/mercados | [Alterações no Microsoft 365 F1](2020-june.md#3) | 15 de junho |
