@@ -1,7 +1,7 @@
 ---
 title: Gerenciar produtos do Marketplace & ofertas
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Usando o Partner Center, saiba como os provedores de soluções na nuvem podem gerenciar ofertas de ISV de terceiros adquiridas para clientes do mercado comercial.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: assinaturas, Marketplace, terceiros, ISV, ofertas de SaaS, programa de provedor de soluções na nuvem, gerenciar uma oferta, gerenciar uma assinatura, licenças, cancelar uma assinatura, estações, desativar renovação automática, ID de MPN do revendedor indireto
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53e750c3e661115071c359ce56fbb97a31edeef9
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 484d99bda87ddcfa960b66f5b27a07d943fe1ebe
+ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908097"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85937635"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Gerenciar produtos e ofertas do Marketplace comercial para seus clientes
 
@@ -64,11 +64,14 @@ O Publicador deve fornecer um link personalizado e um código de autorização q
 
 1. Você pode encontrar esse link personalizado do Publicador ISV de algumas maneiras:
 
-    - Você pode ver o link na página de confirmação que aparece depois de comprar uma oferta de SaaS de ISV.
+   - Você pode ver o link na página de confirmação que aparece depois de comprar uma oferta de SaaS de ISV. Para localizar esse link na página, procure e selecione **ir para o site do Publicador**.
 
-    - Você pode ver o link da página de assinaturas do cliente específico. Este link do Publicador aparece na linha associada à oferta de ISV ou à assinatura adquirida para o cliente.
+   - Você pode ver o link da página de assinaturas do cliente específico. Este link do Publicador aparece na linha associada à oferta de ISV ou à assinatura adquirida para o cliente.
 
-    - Você pode [recuperar o link usando as APIs do Partner Center](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item).
+   - Você pode [recuperar o link usando as APIs do Partner Center](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item).
+
+   > [!NOTE]
+   > Para fazer isso em nome do cliente, talvez seja necessário copiar o link personalizado, colá-lo em um navegador privado e inserir as credenciais do cliente.
 
 2. Quando você estiver no site ou no sistema do ISV Publisher, o editor permitirá que você conheça as etapas adicionais que precisa seguir para concluir o processo de configuração do cliente e provisionar ou atribuir licenças.
 

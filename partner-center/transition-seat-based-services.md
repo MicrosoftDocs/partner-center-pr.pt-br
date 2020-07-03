@@ -2,25 +2,25 @@
 title: Mover clientes baseados em licença para o programa CSP
 description: Saiba como mover clientes baseados em licença de outros canais ou outro parceiro para o programa CSP (provedor de soluções na nuvem) no Partner Center.
 ms.topic: article
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 06/19/2020
-ms.openlocfilehash: 28f1345033cd474390d9b1b7cf709fd9f9a00311
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 4f4eabe3e31a521dcb2bd0f26bac702e1f92984f
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85678932"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879133"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Mover clientes baseados em licença de outros canais & parceiros para o programa do provedor de soluções na nuvem
 
 **Aplica-se a**
 
--  Partner Center
+- Partner Center
 
 Se o cliente quiser contratar vários parceiros, transferir suas assinaturas para outro parceiro ou gerenciar suas assinaturas adquiridas em outro lugar, você poderá migrá-lo manualmente. Você também pode mover clientes para o Partner Center de outro canal.
 
@@ -32,8 +32,10 @@ Se o cliente quiser contratar vários parceiros, transferir suas assinaturas par
 
 3. O cliente pode permitir que as assinaturas originais expirem ou cancelem. No entanto, como não há reembolsos sobre assinaturas canceladas, é melhor esperar até que as assinaturas estejam próximas às datas de expiração natural.
 
->[!NOTE]
-> O cliente pode estar qualificado para um crédito se ele comprou por meio do portal de administração do Microsoft 365 (M365) (por exemplo, por meio de cobrança mensal ou anual diretamente da Microsoft). Os créditos para assinaturas adquiridas diretamente da Microsoft são tratados pelo **suporte de cobrança M365**. Consulte Diretrizes de M365 sobre como [cancelar sua assinatura do M365](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription). Se você tiver delegado privilégios de administração para o cliente, poderá entrar em contato com o suporte do M65 em nome do cliente. Caso contrário, peça ao cliente para entrar em contato com o suporte do M365 diretamente para descobrir a quantidade de crédito para a qual eles estão qualificados e como esse crédito será dado a eles. Leia informações sobre [privilégios de administrador delegado](customers-revoke-admin-privileges.md). 
+
+   >[!NOTE]
+   >O cliente pode estar qualificado para um crédito se ele comprou por meio do portal de administração do Microsoft 365 (M365) (por exemplo, por meio de cobrança mensal ou anual diretamente da Microsoft). Os créditos para assinaturas adquiridas diretamente da Microsoft são tratados pelo **suporte de cobrança M365**. Consulte Diretrizes de M365 sobre como [cancelar sua assinatura do M365](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription). Se você tiver delegado privilégios de administração para o cliente, poderá entrar em contato com o suporte do M65 em nome do cliente. Caso contrário, peça ao cliente para entrar em contato com o suporte do M365 diretamente para descobrir a quantidade de crédito para a qual eles estão qualificados e como esse crédito será dado a eles. Leia informações sobre [privilégios de administrador delegado](customers-revoke-admin-privileges.md).
+
 
 4. O cliente continuará com as assinaturas que você provisionou, sem interrupção.
 
@@ -47,4 +49,6 @@ Se você transferir clientes que estão em ofertas que foram descontinuadas, ser
 ## <a name="next-steps"></a>Próximas etapas
 
 - [Comece a usar tarifas pagas conforme o uso com o plano do Azure](azure-plan-get-started.md)
+ 
+
 - [Diferentes maneiras pelas quais você pode trabalhar com outros parceiros no Partner Center](work-with-other-partners.md)

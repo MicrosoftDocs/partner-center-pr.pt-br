@@ -1,7 +1,7 @@
 ---
 title: Ganhe especializações avançadas
 ms.topic: article
-ms.date: 06/11/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Fortaleça seu perfil de negócios no diretório de parceiros. Saiba como obter especializações avançadas junto com suas competências Gold/Silver.
@@ -10,37 +10,49 @@ ms.author: labrenne
 keywords: competências, associação silver, associação gold, mpn, MAPS, proficiência, Microsoft Partner Network, associação de rede, especializações avançadas
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f62a1795a9ad3fd07de43bcf5cfa8703133e0fe9
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 7393fdfbc1aa94961680d869cf00cd5855efa0a6
+ms.sourcegitcommit: d5fc07cf20a9de970f9bb65019732792dd81b4a0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749154"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85911260"
 ---
-# <a name="advanced-specializations-help-your-business-profile-stand-out-to-customers"></a>Especializações avançadas ajudam seu perfil de negócios a se destacar com os clientes
+# <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>Ganhe uma especialização avançada para a experiência de demonstração e destaque para os clientes 
 
-Vá além de sua competência ouro com uma especialização avançada. As especializações avançadas ajudam você a demonstrar uma experiência comprovada e verificável em um produto, área de solução ou serviço. Os clientes podem ver sua competência ouro e sua especialização avançada em seu perfil de negócios no diretório de parceiros. Para receber uma marca de Especialização avançada, sua empresa deve atender a um conjunto de critérios publicados e ser validada pela Microsoft. [Saiba mais](https://partner.microsoft.com/membership/advanced-specialization).
+Diferencie-se com os clientes ganhando uma especialização avançada. As especializações avançadas são uma validação da sua capacidade de fornecer serviços de alta fidelidade em uma área de solução específica. Os clientes verão sua especialização avançada exibida em seu perfil de negócios no diretório de parceiros. [Saiba mais](https://partner.microsoft.com/membership/advanced-specialization).
 
-## <a name="the-current-advanced-specializations"></a>As especializações avançadas atuais
+## <a name="use-partner-center-to-move-through-the-application-process"></a>Usar o Partner Center para percorrer o processo do aplicativo
 
-- **Adoção e gerenciamento de alterações** Demonstre sua experiência extensiva e o sucesso comprovado em fornecer serviços de adoção e gerenciamento de alterações, ao mesmo tempo que conduz Microsoft 365 uso e alteração organizacional.
+Para ganhar uma especialização avançada, sua empresa deve ter obtido uma competência de ouro alinhada e atender a outros requisitos. O processo do aplicativo tem duas etapas. Primeiro, sua empresa atende aos requisitos de pré-requisito. Em segundo lugar, depois que os requisitos de pré-requisito forem atendidos, o botão **agendar auditoria** será habilitado. Em seguida, você deve passar a auditoria. 
 
-- **Implantação em equipe** Ganhe reconhecimento para sua experiência e implantação de sucesso comprovada Microsoft 365 cargas de trabalho em equipe.
+## <a name="advanced-specialization-requirements-that-include-an-audit-an-example"></a>Requisitos de especialização avançados que incluem uma auditoria: um exemplo
 
-- **Chamando o Microsoft Teams** Comprove sua experiência em implantar e gerenciar Microsoft 365 sistema telefônico para impulsionar o valor comercial do cliente.
+Se você estiver interessado na especialização avançada chamada **modernização de aplicativos Web para Microsoft Azure**, selecione-o no menu do centro de parceiros. Você é levado para a página pré-requisitos.
 
-- **SAP no Azure** Você tem conhecimento profundo, experiência extensiva e sucesso comprovado na implementação do SAP em soluções do Azure. 
+:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Pré-requisitos":::
 
-- **Windows Server e SQL Server migração para Microsoft Azure** Demonstre sua profundidade de conhecimento fornecendo orientação sobre as várias opções de migração de SQL no Azure e demonstre a experiência na migração e otimização de cargas de trabalho baseadas no Windows Server e no SQL Server para Microsoft Azure. 
 
-- **Migração de banco de dados de software livre e Linux para Microsoft Azure** Demonstre suas habilidades em tecnologias de software livre e demonstra conhecimentos na migração e otimização de cargas de trabalho de produção em execução em Red Hat Enterprise Linux (RHEL) ou máquinas virtuais SUSE e/ou MariaDB, PostgreSQL, MySQL, CassandraDB e bancos de dados MongoDB para o Azure.
+Até que você atenda a todos os pré-requisitos, seu status permanecerá **não iniciado.** Quando você atender aos pré-requisitos, o botão **agendar auditoria** será habilitado. Você precisa concluir uma auditoria com um auditor de terceiros para as seguintes especializações avançadas do Azure:
+ 
+- Windows Server e SQL Server migração para Microsoft Azure
+- Migração de banco de dados de software livre e Linux para Microsoft Azure
+- data warehouse migração para Microsoft Azure
+- Kubernetes em Microsoft Azure
+- Modernização de aplicativos Web para Microsoft Azure
 
-- **Data warehouse migração para Microsoft Azure** Você tem experiência profunda com a migração bem-sucedida de data warehouses de Teradata, Netezza ou Oracle Exadata para o Azure e demonstra experiência na análise de cargas de trabalho existentes, geração de modelos de esquema e execução de operações ETL (extração, transformação e carregamento) para migrar dados para data warehouses baseados em nuvem.
 
-- **Kubernetes em Microsoft Azure** Você emprega práticas de DevOps para implementações de AKS e demonstra experiência na implantação e gerenciamento de cargas de trabalho de produção na nuvem usando contêineres e gerenciando ambientes kubernetes hospedados no Microsoft Azure.
+Quando você tiver concluído todos os requisitos, seu status será **ativo**. O status ativo habilita automaticamente uma marca em seu **perfil comercial** visível para todos os clientes pesquisando [encontrar um provedor de soluções](https://www.microsoft.com/solution-providers/home).
 
-- **Modernização de aplicativos Web no Microsoft Azure** Você garante o sucesso do cliente no desenvolvimento de aplicativos e está familiarizado com os sistemas de gerenciamento de conteúdo. Demonstre experiência na migração e implantação de cargas de trabalho de aplicativos Web de produção, na aplicação de práticas de DevOps e no gerenciamento de serviços de aplicativos no Microsoft Azure.
+## <a name="prerequisites-that-include-customer-references-an-example"></a>Pré-requisitos que incluem referências de clientes: um exemplo
 
- ## <a name="next-steps"></a>Próximas etapas
+Um exemplo de Especialização avançada que exige referências de clientes é **reuniões e salas de reunião do Microsoft Teams**. Além de competência Gold, certificações e um requisito de desempenho, você deve fornecer três referências de clientes que demonstram sua capacidade de implantar e gerenciar.
 
- Saiba mais sobre [os requisitos de competência da Microsoft para a associação ouro e prata](learn-about-competencies.md)
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Pré-requisitos":::
+
+Até que você atenda a todos os pré-requisitos, seu status permanecerá **não iniciado.** Quando você tiver concluído todos os requisitos, seu status será **ativo**. O status ativo habilita automaticamente uma marca em seu **perfil comercial** visível para todos os clientes pesquisando [encontrar um provedor de soluções](https://www.microsoft.com/solution-providers/home).
+
+## <a name="next-steps"></a>Próximas etapas
+
+- Saiba mais sobre como obter requisitos [de competência da Microsoft requisitos de competência da Microsoft para associação Gold e Silver](learn-about-competencies.md)
+
+- Saiba mais sobre as [especializações avançadas](https://partner.microsoft.com/membership/advanced-specialization).

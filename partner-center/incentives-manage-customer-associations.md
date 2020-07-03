@@ -1,5 +1,5 @@
 ---
-title: Gerenciar associações de clientes
+title: Gerenciar associações do cliente
 description: Entenda os processos e cronogramas importantes para gerenciar associações de clientes CPOR (parceiro de registro) reivindicadas.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,14 +8,14 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: a5cd485c5d12c333c81954e74574968df7163d3d
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 9e88aa42331f8181b3c8e3eca9d3423741e1c69a
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719294"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879478"
 ---
-# <a name="manage-customer-associations"></a>Gerenciar associações de clientes
+# <a name="manage-customer-associations"></a>Gerenciar associações do cliente
 
 Aplica-se a:
 
@@ -69,17 +69,19 @@ Aqui estão os status e seus significados:
 
 - Produtos ausentes - PoE não inclui um produto ou uma carga de trabalho que está sendo reivindicada 
 
-
 ## <a name="dispute-the-status-of-a-cpor-association-claim"></a>Contestar o status de uma declaração de associação CPOR
 
-Para contestar o status de uma declaração de associação CPOR, entre em contato com o [suporte](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)e forneça a equipe de suporte com as seguintes informações:
+Se sua declaração de associação do CPOR for rejeitada, você terá 30 dias para contestar a rejeição. O email que você recebe notificando sobre a rejeição também informa onde você pode exibir o motivo da rejeição e como contestar a ti.  
 
-- ID MPN
-- Nome do programa de incentivo 
-- ID da declaração de associação CPOR 
-- Produto – por Business Applications, forneça os produtos e assinaturas do Dynamics. Para M365, forneça cargas de trabalho. 
-- ID de locatário do cliente
-- Detalhes do problema
+Se passarem 30 dias e você ainda quiser contestar uma declaração rejeitada, você precisará enviar uma nova associação com a PoE (prova de execução) atualizada. 
+
+### <a name="to-dispute-a-rejected-claim"></a>Para contestar uma declaração rejeitada
+
+1. Entre no [painel Partner Center](https://partner.microsoft.com/dashboard/).
+2. Abra a declaração que você deseja contestar.
+3. Na página declaração, selecione **contestação**.
+4. Insira uma justificativa de negócios e/ou uma PoE atualizada explicando por que a rejeição deve ser reconsiderada.
+5. Quando tiver terminado de adicionar informações, selecione **contestação**. Nossos revisores devem entrar em contato com você com resultados dentro de 5 dias úteis.
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>Motivos pelos quais uma declaração de associação CPOR é rejeitada
 

@@ -8,13 +8,13 @@ author: LauraBrenner
 ms.author: labrenne
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.date: 02/04/2020
-ms.openlocfilehash: 74db948f1f55e52957a480f2dc74a41b888f18c4
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.date: 07/01/2020
+ms.openlocfilehash: c05ed9aca47b7d232d7d6a0087217850c834e513
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394117"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879383"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Faça parceria com revendedores indiretos no programa Provedor de Soluções na Nuvem
 
@@ -104,6 +104,25 @@ Para assinaturas existentes, se você decidir trabalhar com um revendedor indire
 | Habilitar o revendedor para gerenciar uma conta de cliente do Azure|Associar um revendedor a uma conta de cliente do Azure ao adicionar um novo cliente|No **Portal de serviço do Azure**, selecione [Configurações de Usuário](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para fornecer permissões de **proprietário locatário** ao revendedor indireto|
 | Dê ao revendedor crédito para incentivos | Associar o revendedor à assinatura (nova ou existente) | Na página **Nova inscrição** |
 | Delegar atendimento ao cliente para assinaturas específicas ao revendedor | Selecione o revendedor da lista **Contato de suporte designados** | Na página de detalhes da assinatura: selecione o cliente na página de seus **clientes** e, em seguida, selecione a assinatura na página **assinaturas** do cliente |
+
+## <a name="remove-partnership-with-indirect-resellers"></a>Remover parceria com revendedores indiretos
+
+Para remover a parceria com o revendedor indireto existente, siga as etapas abaixo. 
+
+1. No menu do centro de parceiros no painel, selecione **revendedores indiretos**. 
+
+2. Na página **revendedores indiretos** , selecione **remover parceria**. Será exibida uma mensagem solicitando confirmação selecione Sim para continuar.
+
+:::image type="content" source="images/ip-ir-relationship.png" alt-text="Remover parceria":::
+
+>[!IMPORTANT]
+>Os clientes associados ao revendedor indireto não serão removidos. Todos os privilégios de administrador delegados concedidos permanecerão inalterados.
+>Você representa que a decisão de descontinuar sua relação com o parceiro foi feita em boa fé, para uma finalidade de negócios legítima e de acordo com seu contrato com seu cliente ou parceiro, e você concorda em defender e manter a Microsoft inofensiva de e contra qualquer reivindicação de terceiros para o contrário.
+>Você deve fornecer um aviso legal de encerramento para seu cliente ou parceiro se seu contrato exigir. Essa ferramenta não gera aviso ao cliente ou parceiro.
+
+3. O revendedor indireto cuja parceria que você removeu não aparecerá na lista.
+Dependendo do nível de acesso e envolvimento, talvez você queira se comunicar com o revendedor indireto, bem como com o cliente final sobre essa alteração.
+
 
 ## <a name="connect-with-customers"></a>Conectar-se com clientes
 

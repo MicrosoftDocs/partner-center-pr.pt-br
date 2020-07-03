@@ -1,7 +1,7 @@
 ---
 title: Contratos do CSP para o Marketplace comercial
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre os termos, condições e contratos de assinaturas para produtos ISV de terceiros adquiridos por parceiros do CSP no mercado comercial.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: assinaturas, Marketplace, terceiros, ISV, programa de parceiros CSP, contratos, venda, compra,
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5bac92edfbe4d88d6c0fe1bf132f9cab75749093
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 1f373c29fb52252014af262e530e364fe9f08782
+ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362624"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85937625"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Contratos para parceiros CSP que fazem negócios no mercado comercial
 
@@ -42,7 +42,7 @@ Se os parceiros já tiverem assinado seus contratos de CSP, eles não precisarã
 
 Para obter mais informações sobre os termos que regem as atividades do CSP no Marketplace comercial, consulte:
 
-- **Seção 5,7 (ofertas de terceiros)** no [Guia do programa CSP](https://go.microsoft.com/fwlink/p/?LinkId=617100). Isso fornece os termos que regem a venda de soluções de ISV por parceiros no programa CSP.
+- **A seção intitulada "ofertas** de terceiros" no [Guia do programa CSP](https://go.microsoft.com/fwlink/p/?LinkId=617100). Isso fornece os termos que regem a venda de soluções de ISV por parceiros no programa CSP.
 
 - **O Microsoft Partner Agreement (MPa)** governará o programa CSP, substituindo o MCRA e o MCDA existentes. O MPA está disponível no [Partner Center](https://partner.microsoft.com/pcv/dashboard/overview) para que os parceiros que optam por participar do programa CSP possam revisá-lo e aceitá-lo.
   

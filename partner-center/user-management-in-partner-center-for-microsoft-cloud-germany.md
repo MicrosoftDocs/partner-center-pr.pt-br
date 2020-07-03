@@ -1,21 +1,21 @@
 ---
-title: Gerenciamento de licenças e usuários
+title: Gerenciamento de licença de usuário
 titleSuffix: Microsoft Cloud Germany - Partner Center
 description: Saiba como e onde gerenciar o Partner Center para Microsoft Cloud parceiros, clientes e licenças da Alemanha, bem como redefinições de senha.
 ms.topic: article
-ms.date: 06/08/2020
+ms.date: 06/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ed349d0e9bfbc6768defcf781e612ee38e6f764f
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 48bd1e315c51c3884889e80d5d295402fc9fab84
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603615"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879208"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gerenciamento de usuário e licença no Partner Center for Microsoft Cloud Germany
 
