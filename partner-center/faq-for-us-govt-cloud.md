@@ -5,15 +5,15 @@ ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Consulte as respostas para perguntas frequentes sobre o programa CSP (provedor de soluções na nuvem) para Microsoft Cloud para o governo dos EUA.
-author: LauraBrenner
-ms.author: labrenne
+author: mowrim
+ms.author: mowrim
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ee7a0877a67c744ec77035017181aeaa458833c
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 67bdaebcf87f147d45c87eda605559e41334b9a9
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798344"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947524"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Perguntas frequentes sobre o Partner Center para Microsoft Cloud for US Government
 

@@ -1,19 +1,19 @@
 ---
-title: Criar e gerenciar perfis de pagamento e de impostos no Partner Center
+title: Criar e gerenciar perfis fiscais e de pagamento no Partner Center
 ms.topic: article
 ms.date: 06/29/2020
 description: Antes que você possa ser pago pelo trabalho de seus incentivos, você precisa criar seus perfis de pagamento e de impostos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: b7f99ff64b6cdabe8b59607e5820daf0909050f1
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 02212a09ab18ff5b978107af00ac990aa0c702a3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719304"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949689"
 ---
 # <a name="payout-and-tax-profiles-in-partner-center"></a>Perfis de pagamento e impostos no Partner Center
 
@@ -29,7 +29,7 @@ Funções apropriadas:
 - Administrador de cobrança
 - Administrador global
 
-## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>Criar e gerenciar perfis de pagamento e de impostos no Partner Center
+## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>Criar e gerenciar perfis fiscais e de pagamento no Partner Center
 
 As seções abaixo guiarão você pelo processo de criação e gerenciamento de perfis de pagamento e impostos no Partner Center.
 

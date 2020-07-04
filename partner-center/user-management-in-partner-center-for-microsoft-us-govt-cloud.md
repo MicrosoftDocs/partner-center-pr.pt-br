@@ -6,16 +6,16 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fa8340c2d8a110769b7918e4e3703d131fad8a60
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: a0ede199da0c18c8c73b01cbdc4a8447f842747a
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603576"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949530"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Gerenciamento de licença e usuários no Partner Center do Microsoft Cloud for US Government
 

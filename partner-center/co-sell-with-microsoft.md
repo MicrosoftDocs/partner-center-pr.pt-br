@@ -5,19 +5,19 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Como um parceiro qualificado da Microsoft, você pode comercializar com a Microsoft. Saiba como definir compromissos, convidar a Microsoft para colaborar ou exibir compromissos enviados.
-author: JnHs
+author: sroy
 ms.author: jenhayes
 keywords: indicação, RFI, localizar um parceiro
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 836bb2634a010cee7adab883f47af50fc7007d73
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 63b046422d76864b0836cd85483a0a3aebfe8b25
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721497"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948059"
 ---
-# <a name="co-sell-with-microsoft"></a>Venda conjunta com a Microsoft
+# <a name="co-sell-with-microsoft"></a>Vendas conjuntas com a Microsoft
 
 **Aplica-se a**
 
@@ -66,7 +66,7 @@ Por fim, na seção **Adicionar soluções** , selecione a solução que será u
 
 Selecione **Avançar** para passar para a próxima etapa.
 
-### <a name="invite-others"></a>Convidar outras pessoas
+### <a name="invite-others"></a>Convidar outros
 
 A etapa final no processo de criação do compromisso de venda conjunta é fornecer mais detalhes sobre o tipo de ajuda que você está procurando. Selecione a melhor opção em **como podemos ajudá-lo?** Em seguida, no campo **observações para a Microsoft** , forneça o máximo de detalhes possível sobre as melhores maneiras para a Microsoft fornecer assistência.
 

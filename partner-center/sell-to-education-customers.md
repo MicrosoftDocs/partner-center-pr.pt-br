@@ -5,17 +5,17 @@ ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: alikhaki
+ms.author: alikhaki
 keywords: educação, segmentos especiais
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b0b576348ed3c703fe517bbeef6271e3dcade08
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 873a36bb38e97ab1b4721a95748aa06af6be5048
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992169"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949234"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Como vender ofertas para clientes de educação & como criar um cliente de educação no Partner Center
 

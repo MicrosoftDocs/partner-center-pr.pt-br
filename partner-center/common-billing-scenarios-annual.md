@@ -3,17 +3,17 @@ title: Cobrança anual – cenários comuns
 ms.topic: article
 ms.date: 05/05/2020
 description: Cobrança anual do Partner Center-quando você adiciona novas assinaturas, adicione licenças antes da data de cobrança, altere a quantidade de licenças ou suspenda/reative as assinaturas.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 Keywords: cobrança, pagamentos, pedidos, uso, cobrança baseada em licença, data de aniversário, termo, cancelamento, renovação, fórmula de preço, arquivo de reconciliação, arquivo reconhecimento
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 447b8331e1d6e6e274915558e28ca59f50e8de09
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: ab6eabf44e5d3811721993e20b78e3038c80e828
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908884"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948041"
 ---
 # <a name="common-annual-billing-scenarios-in-partner-center"></a>Cenários comuns de cobrança anual no Partner Center
 

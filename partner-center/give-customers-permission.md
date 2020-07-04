@@ -5,17 +5,17 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: amrava
+ms.author: amrava
 Keywords: assinatura, compra de autoatendimento, RI de autoatendimento, habilitar RI, desabilitar RI, autoatendimento, compra de cliente, permissões de cliente, instância reservada de compra de cliente, reservas do Azure para comprar, ativar autoatendimento, desligar o autoatendimento
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d04f7aad779a6bf3be08b24f43da6abc4dfdac4d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 0c507aae75dad4a1dce5dc9746ebe9f7ed48f040
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795111"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947463"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Dê permissão aos clientes no Partner Center para comprar seus próprios produtos ou serviços
 
@@ -66,7 +66,7 @@ Antes de ativar as permissões do cliente, observe estes pontos importantes:
 
 ## <a name="give-customers-permission-to-buy-their-own-azure-reservations"></a>Dê permissão aos clientes para comprar suas próprias reservas do Azure
 
-As reservas do Azure são uma ótima maneira de comprar os serviços do Azure com uma taxa com desconto. Para saber mais sobre os benefícios das reservas do Azure, confira [o que são as reservas do Azure?](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations)
+As reservas do Azure são uma ótima maneira de comprar serviços do Azure por uma taxa reduzida. Para saber mais sobre os benefícios das reservas do Azure, confira [o que são as reservas do Azure?](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations)
 
 Agora você tem a opção de comprar reservas do Azure em nome de seus clientes, pois talvez já tenha feito isso. Ou você pode conceder aos clientes permissão para comprar suas próprias reservas do Azure.
 

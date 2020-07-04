@@ -1,21 +1,21 @@
 ---
-title: Solucionando problemas de pagamentos e questões de ganhos
+title: Solução de problemas com pagamentos e lucros
 ms.topic: article
 ms.date: 06/29/2020
 description: Saiba como solucionar problemas como ganhos ausentes ou incorretos, problemas de qualificação e como reconciliar seus ganhos de incentivos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: 352499e96c69e9f59190aaf6fa1c43d2d0f8ed59
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 7408b3c1adf8741104a8d27e68dccf27be07c5c0
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719293"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949485"
 ---
-# <a name="troubleshooting-payments-and-earnings-issues"></a>Solucionando problemas de pagamentos e questões de ganhos
+# <a name="troubleshooting-payments-and-earnings-issues"></a>Solução de problemas com pagamentos e lucros
 
 Aplica-se a:
 

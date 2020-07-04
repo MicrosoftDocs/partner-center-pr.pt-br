@@ -6,16 +6,16 @@ ms.topic: article
 ms.date: 06/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 48bd1e315c51c3884889e80d5d295402fc9fab84
-ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
+ms.openlocfilehash: 9118745b19d48d572378df0b32035c9de4d62c99
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85879208"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949538"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gerenciamento de usuário e licença no Partner Center for Microsoft Cloud Germany
 

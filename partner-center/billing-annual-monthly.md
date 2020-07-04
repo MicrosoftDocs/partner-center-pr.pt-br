@@ -3,16 +3,16 @@ title: Diferenças de cobrança mensal e anual
 ms.topic: article
 ms.date: 05/06/2020
 Description: Saiba como a cobrança mensal e anual difere no Partner Center. Saiba também como alternar entre diferentes tipos de cobrança e as implicações de alternar.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 96ff9feded392219ceddd3f800bd3d12e6440a60
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 3fed5a5a584775f73ed3ad83978a6d38cb50293b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908964"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948228"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>Entenda a diferença entre cobrança mensal e anual no Partner Center
 

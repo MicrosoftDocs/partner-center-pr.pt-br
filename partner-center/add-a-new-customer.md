@@ -5,17 +5,17 @@ ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como adicionar um novo registro de cliente no Partner Center. Em seguida, você pode vender as assinaturas de cliente, gerenciar a cobrança ou fornecer suporte ao cliente.
-author: LauraBrenner
-ms.author: labrenne
+author: parthp
+ms.author: parthp
 keywords: cliente, adicionar cliente, conta do cliente, conta do cliente no Partner Center, clientes, adicionar clientes, criar conta do cliente
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: fcfb35585dc145917614f4557465cb2661dd254a
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: b61fe6df289d0ca95d170439573bf7887cd2a9bb
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991108"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947441"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Como adicionar um novo registro de cliente no Partner Center
 
@@ -37,7 +37,7 @@ Este artigo informa como adicionar um novo cliente à sua lista de clientes no P
 >[!NOTE]
 >Para clientes existentes, incluindo aqueles que já têm registros de clientes no Partner Center por meio de um cenário de [vários canais](multichannel.md) ou [multiparceiro](multipartner.md) , você pode [solicitar uma relação com eles](request-a-relationship-with-a-customer.md), em vez de seguir as etapas aqui.
 
-## <a name="to-add-a-new-customer-in-partner-center"></a>Para adicionar um novo cliente no Partner Center
+## <a name="to-add-a-new-customer-in-partner-center"></a>Para adicionar um novo cliente na Central de Parceiros
 
 1. Selecione **clientes** no menu do centro de parceiros e, em seguida, selecione **Adicionar cliente**.
 
@@ -70,6 +70,6 @@ Este artigo informa como adicionar um novo cliente à sua lista de clientes no P
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- Para obter mais informações sobre o que você pode vender aos clientes por meio do programa provedor de soluções na nuvem, consulte [ofertas de parceiros no programa provedor de soluções na nuvem](csp-offers.md).
+- Para obter mais informações sobre o que você pode vender aos clientes por meio do programa provedor de soluções na nuvem, consulte [ofertas de parceiros no programa provedor de soluções na nuvem](csp-offers.md)
 
 - Para obter mais informações sobre como associar um novo cliente à sua conta de parceiro, consulte [conectar-se a clientes](customer-accounts.md).

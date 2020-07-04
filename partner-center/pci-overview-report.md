@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Veja um instantâneo de como você está fazendo com vendas e implantação, crescimento do cliente e crescimento da receita com licenças, assinaturas e consumo do Azure.
 keywords: PCI, desempenho, sucesso do cliente, medições,
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5968172737e057787f1d17f6cb231106b7efd60a
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 72bc94f35cc189e032304c78781adbb10f71327c
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991941"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948824"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Visão geral dos relatórios do painel disponíveis em informações do Partner Center
  

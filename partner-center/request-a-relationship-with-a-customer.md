@@ -5,17 +5,17 @@ ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Solicite uma relação com um cliente para cenários de vários canais e multicanal ou se os privilégios de administrador delegado para um cliente precisarem ser restaurados.
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 5aa7a2cbc5a169dc7e702a47752b8101c44b4b94
-ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
+ms.openlocfilehash: cbf6f1751fb58208b0394b6c6a3a6652cb60fe6e
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "85104090"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949249"
 ---
-# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Como solicitar uma relação de revendedor de um cliente no Partner Center
+# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Como solicitar uma relação de revendedor de um cliente na Central de Parceiros
 
 **Aplica-se a**
 
@@ -36,7 +36,7 @@ Você pode solicitar uma relação de revendedor com um cliente de dentro do seu
 
 2. Para solicitar permissões de administrador deste cliente, selecione **incluir privilégios de administração delegada para Azure Active Directory e Office 365**. Para estabelecer a relação sem solicitar permissões de administrador, desmarque essa opção.
 
-3. Na próxima página, reveja o rascunho da mensagem de email. Abra a mensagem de rascunho no aplicativo de email padrão ou copie a mensagem para a área de transferência e cole-a em um email.
+3. Na página seguinte, examine a mensagem de email de rascunho. Você pode abrir a mensagem de rascunho em seu aplicativo de email padrão ou copiar a mensagem para a área de transferência e colá-la em um email.
 
    Você pode editar o texto no email, mas certifique-se de incluir o link, pois ele é personalizado, para vincular o cliente diretamente à sua conta. Selecione **Concluído** quando tiver completado essa etapa.
 

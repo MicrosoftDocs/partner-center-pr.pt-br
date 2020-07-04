@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 description: Verifique se sua conta do Partner Center é creditada para a retenção de imposto criando uma solicitação de retenção de imposto no Partner Center.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 keywords: crédito de retenção de imposto, créditos de impostos, formulário de crédito de imposto alemão, certificados de imposto
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7fa10b20d7d7b3c89726fd08b3dd5dbaa1b89cbb
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 3b232526a213a06e2c11001131241dd5be554770
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991659"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949573"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>Verifique se você está creditado na retenção de imposto se pagar uma autoridade de imposto local em vez da Microsoft
 

@@ -3,16 +3,16 @@ title: Arquivos de reconciliação com base no uso
 ms.topic: article
 ms.date: 06/08/2020
 description: Saiba mais sobre todos os itens em seu arquivo de reconciliação baseado em uso no Partner Center. Inclui alguns exemplos.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9a84ca15cd51c02a3b5c53ad4478d72343add284
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 04ad6a0c2c7a6330d2e1230f046ee78b2a7405c8
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909114"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949544"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Entender os arquivos de reconciliação com base no uso e seus campos específicos no Partner Center
 

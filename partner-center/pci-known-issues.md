@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Leia sobre todos os problemas conhecidos associados aos relatórios de PCI (Partner Center insights).
 keywords: PCI, medidas, relatórios, problemas, limitações
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2a944e37760e6dc56dde7ea850f9b86d43215a8c
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 69e99b442c8a3e135aa9f687d11000908b6c218e
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908594"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948746"
 ---
 # <a name="known-issues-with-partner-center-insights"></a>Problemas conhecidos com as informações do Partner Center
 

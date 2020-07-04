@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 description: Saiba mais sobre sua fatura & arquivos de reconciliação. Sua fatura mostra cobranças do Partner Center entre o programa, os produtos e os clientes por esse período mensal.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: cobrança de assinatura, cobrança, cobrança no partner center, ler minha cobrança, fatura, fatura do partner center, fatura do CSP, onde está minha cobrança?
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: df330ce2e66cf198ce97919c02a15eb7a50f6486
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 40809fbca8ed81882e9b1d315fd5967143faff1e
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991882"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949313"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Entenda sua fatura e seu arquivo de reconciliação-saiba como encontrá-las no Partner Center
 

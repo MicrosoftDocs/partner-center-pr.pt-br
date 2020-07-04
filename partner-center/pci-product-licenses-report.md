@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Verifique este relatório de licença do produto e saiba como melhorar com os produtos de nuvem licenciados (ou baseados em assentos) que você vende ou gerencia para seus clientes.
 keywords: PCI, desempenho, medidas, êxito do cliente, assinaturas de nuvem, análise, relatório
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9fe76602d9a258f8e8766d29ebc3c4fb75bb1f8
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 680c2c92846692843d7d76496a327c0f8eba3cb4
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908614"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948794"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Relatório de licenças de produto no painel do recepções do Partner Center
 

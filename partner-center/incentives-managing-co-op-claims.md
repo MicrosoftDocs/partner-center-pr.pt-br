@@ -3,17 +3,17 @@ title: Gerenciar declarações de cooperação
 description: Entenda o processo de declarações de cooperação, incluindo prazos, problemas de moeda e como contestar uma declaração de cooperação rejeitada.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: e567b6bd0eaabb1dc705925e140f9de07c6f8a98
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 3a611ca37f1ddad53d1fdbf049645c7976a67d3f
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719295"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949498"
 ---
 # <a name="manage-co-op-claims"></a>Gerenciar declarações de cooperação
 
@@ -27,7 +27,7 @@ Funções apropriadas:
 
 - Administrador de incentivos
 
-## <a name="co-op-claims-approval-and-payment-deadlines"></a>Aprovação de declarações de cooperação e prazos de pagamento
+## <a name="co-op-claims-approval-and-payment-deadlines"></a>Aprovação e prazos de pagamento das solicitações de cooperação
 
 ### <a name="when-will-my-co-op-claim-be-approved"></a>Quando minha declaração de cooperação será aprovada?
 

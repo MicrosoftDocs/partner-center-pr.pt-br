@@ -5,17 +5,17 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Saiba como gerenciar reservas do Azure para um cliente, incluindo como cancelar uma reserva, trocar uma reserva ou solicitar um reembolso.
-author: LauraBrenner
-ms.author: labrenne
+author: amrava
+ms.author: amrava
 keywords: Azure, reservas, gerenciar, cobrança, compra, cancelamento, troca, taxa de encerramento antecipado
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7470f20956a7309b4a7ec4dcbb9f18a41761596d
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 7ac21da2b45cff62cbe1d2e34c226f115a9c8a7b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908310"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948311"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Gerenciar, cancelar, trocar ou reembolsar reservas de Microsoft Azure para clientes
 
@@ -45,7 +45,7 @@ Para gerenciar as reservas do Azure de seus clientes após a compra, você selec
     |:-----------------------------|:-----------------|
     | **Visão geral**   | Exibir detalhes da reserva de um cliente, incluindo data de expiração, escopo e dados de utilização. **OBSERVAÇÃO** Selecione **Reembolso** para criar uma solicitação de suporte para obter um reembolso proporcional. Selecione **Trocar** para criar uma solicitação de suporte para trocar a parte não utilizada do seu termo de reserva.  
     | **Controle de acesso (IAM)**   | Gerencie o acesso às informações de reserva do cliente.|
-    | **Configuração**   | Altere o escopo da reserva e/ou a assinatura do Azure à qual a reserva está associada.    |
+    | **Configuration**   | Altere o escopo da reserva e/ou a assinatura do Azure à qual a reserva está associada.    |
     | **Propriedades**   | Exiba as propriedades da reserva e copie para a área de transferência a ID da reserva e a ID do pedido de reserva. **OBSERVAÇÃO** O suporte pode solicitar a ID da reserva e a ID do pedido da reserva quando você solicitar suporte em nome de um cliente.    |
     | **Nova solicitação de suporte**    | Solicite ajuda do Suporte da Microsoft.   |
  
@@ -93,7 +93,7 @@ Para arquivar uma solicitação de suporte para um reembolso ou troca em nome de
 
 4. Na página **Nova solicitação de suporte**, siga as etapas abaixo para solicitar um reembolso. Selecione **Avançar** depois de cada etapa. 
 
-    |**Etapa**                    |**Seleções**    |
+    |**Step**                    |**Seleções**    |
     |:---------------------------|:-----------------|
     |**1 Noções básicas**                |Tipo de problema: Cobrança.  |
     |**2 Problema**               |Tipo de problema: Gerenciamento de reserva. Categoria: Trocas e reembolsos. |

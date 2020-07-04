@@ -4,18 +4,18 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Use a análise para saber como seus revendedores indiretos estão fazendo, ambos os sucessos e as áreas que podem precisar de mais atenção.
-author: LauraBrenner
-ms.author: labrenne
+author: amrava
+ms.author: amrava
 ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2fbd8552d026d568b94dbfdddf4452897a3c790d
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 3bdc3e149d445a1d43f24d54e16c04464bea807e
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991009"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947411"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Use a análise para analisar o desempenho de seus revendedores indiretos
 

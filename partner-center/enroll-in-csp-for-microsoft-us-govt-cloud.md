@@ -6,16 +6,16 @@ ms.date: 06/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre os requisitos do programa CSP para parceiros que desejam se registrar no programa do provedor de soluções na nuvem para Microsoft Cloud para o governo dos EUA.
-author: LauraBrenner
-ms.author: labrenne
+author: mowrim
+ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: fed58b2de7e46905452103693727af3c6fbaa780
-ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
+ms.openlocfilehash: 67dd4823e5167fb0e0ece692e873cd8cde7013ea
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85879123"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947537"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Cloud for US Government
 

@@ -5,17 +5,17 @@ ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre os diferentes relacionamentos de parceiros e cenários de transação com suporte para parceiros no programa CSP.
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 keywords: revendedor indireto, provedor indireto, conta direta, parceiro de conta direta, programa de provedor de soluções na nuvem, programa CSP, parceiros CSP, transações do CSP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a5da1cdd30563b57badd2aaec619c5e53ca93641
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: 5728765cb22c77e6052bf2b772d65e777355def6
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83398331"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947638"
 ---
 # <a name="learn-how-partners-can-work-with-other-partners-in-the-csp-program"></a>Saiba como os parceiros podem trabalhar com outros parceiros no programa CSP
 

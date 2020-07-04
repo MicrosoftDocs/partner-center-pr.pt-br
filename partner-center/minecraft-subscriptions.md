@@ -5,16 +5,16 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Venda assinaturas do Minecraft Education Edition para clientes de educação qualificados que podem baixá-las da Microsoft Education Store.
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 keywords: Parceiros educativos autorizados, educação, venda para educação, escolas
 ms.localizationpriority: medium
-ms.openlocfilehash: ecce16a09dc4c5b415e0553b038b1810ab16197f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: f5525a65b059451aea9831a98d90b7a3ede98562
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004545"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949001"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vender assinaturas do Minecraft: Education Edition para clientes da área de educação
 
@@ -23,7 +23,7 @@ ms.locfileid: "75004545"
 -  Partner Center
 
 **Funções apropriadas**
--   Administração global
+-   Administrador global
 -   Administrador de usuários
 -   Agente de vendas
 -   Agente administrativo
@@ -45,7 +45,7 @@ Siga as etapas abaixo para comprar o Minecraft: subscriptions do **Education Edi
   
   3.  Escolha a frequência de cobrança que melhor atende às suas necessidades e, em seguida, selecione **Educação** na seção **Catálogo**.
 
-  4.  Selecione a assinatura do Minecraft que você deseja comprar em nome de seu cliente e insira o número de licenças. Selecione **Próximo: análise**.
+  4.  Selecione a assinatura do Minecraft que você deseja comprar em nome de seu cliente e insira o número de licenças. Selecione **Avançar: Análise**.
 
       >[!NOTE]
       >Você poderá ver e gerenciar essas licenças no Partner Center. Seu cliente verá e gerenciará essas licenças em seu inventário na [página de detalhes do Minecraft: Education Edition](https://educationstore.microsoft.com/store/details/minecraft-education-edition/9nblggh4r2r6) (você precisa estar conectado à Store para Educação para ver a página de detalhes). 

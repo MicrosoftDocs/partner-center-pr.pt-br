@@ -5,17 +5,17 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Saiba como iniciar os incentivos das reivindicações de cooperação do Partner Center. Você pode ver todas as atividades da sua reivindicação no Histórico.
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 keywords: reivindicações de incentivos, reivindicações de cooperação, fundos de cooperação
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1be444403d2b36bcee13648a767b0cfdf448c06b
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: bce39b4bb26d465da2d7a36e299c1f09cc4b5adb
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721684"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947842"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>Criar e gerenciar uma reivindicação de incentivos
 
@@ -24,7 +24,7 @@ ms.locfileid: "74721684"
 
 **Funções apropriadas**
 
-- Administração global
+- Administrador global
 - Administrador de incentivos
 - Usuário de incentivos
 

@@ -5,17 +5,17 @@ ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 keywords: PCI, desempenho, sucesso do cliente, medições, dados de relatórios
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: ecd244507b0a2ec1373bcb7954b4d5eb2d72c819
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 9e56ae1922abee38537d65564781fea3cb0251e7
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991921"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949416"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Informações do Partner Center – um painel que mostra como um parceiro comercial da Microsoft está fazendo
 

@@ -5,19 +5,19 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como atribuir assinaturas do Azure a seus clientes no Partner Center e como permitir que os clientes gerenciem suas próprias assinaturas.
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 keywords: Azure, assinatura do Azure, assinatura, assinaturas, atribuir assinatura, gerenciar assinatura do Azure
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6733a7fd394aac2d17650cfb6bdb612f9b9d01bf
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 0beb6f0a4f4a2b0eb4cc731c9bf30add379ea6e3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795056"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948558"
 ---
-# <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Atribuindo assinaturas do Azure aos clientes no Partner Center
+# <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Atribuir assinaturas do Azure a clientes no Partner Center
 
 **Aplica-se a**
 

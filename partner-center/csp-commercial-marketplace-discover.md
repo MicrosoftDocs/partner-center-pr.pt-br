@@ -5,17 +5,17 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os parceiros do CSP podem usar o Partner Center para exibir ou pesquisar o Marketplace para ofertas de SaaS ou preços de ISVs (fornecedores independentes de software).
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: assinaturas, Marketplace, Marketplace comercial, terceiros, ISV, ofertas de SaaS, programa de provedor de soluções na nuvem, programa CSP, parceiros CSP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10653e41adee052b43ed092f4fd9bb48b79a1355
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 3a4576faeeeed6bddd86bb3ec8d340af91adf408
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908109"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947768"
 ---
 # <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>Descubra ofertas e preços no Marketplace comercial do Partner Center
 

@@ -5,16 +5,16 @@ ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Consulte listas de preços atuais para serviços baseados em licença, como Office 365, Microsoft Dynamics CRM e Enterprise Mobility Suite, e serviços baseados em uso, como o Azure.
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 47be4df115adbfacd32304104b323f7266eb77f0
-ms.sourcegitcommit: 1196a2edb9e18f16a3c68ab8e10634619ad75b7f
+ms.openlocfilehash: 066b69cc0a70ded518c6bbaa9f35879e4b992a89
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84661659"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949335"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preços e ofertas para o Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure e muito mais
 
@@ -87,12 +87,12 @@ Os preços com base no uso podem ser alterados ao longo de um mês. Para obter o
 
 O CSP oferece alguns serviços para segmentos de mercado especiais, por exemplo, educação, não lucrativo e nuvem da Comunidade governamental. Nem todos os serviços estão disponíveis em todos os canais. Nenhum segmento assume como padrão o que chamamos de segmento ' comercial '. Todos os preços com base em licença estão disponíveis na lista de preços baseada em licença na página preços e ofertas. Os preços do Azure governamental estão disponíveis na lista de preços baseada no uso quando conectados ao locatário do CSP habilitado para o Azure governamental.
 
-|**Explica**   |**Quem precisa se qualificar**   |**O parceiro qualifica o cliente**|**Tipos de produtos habilitados**|
+|**Segment**   |**Quem precisa se qualificar**   |**O parceiro qualifica o cliente**|**Tipos de produtos habilitados**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
 |Educação|Cliente|Não, a qualificação do cliente será executada pela Microsoft |Somente baseado em licença|
 |Sem fins lucrativos|Cliente|Não, o cliente se qualifica fora do Partner Center|Somente baseado em licença|
 |GCC (Government Community Cloud)|Parceiro e cliente|Após o GCC habilitado, o parceiro pode criar clientes GCC| Somente baseado em licença|
-|Azure Government|Parceiro|Uma vez qualificado, o parceiro opera em um locatário do CSP específico para o Azure governamental|Recursos do Azure|
+|Azure Government|Partner (parceiro)|Uma vez qualificado, o parceiro opera em um locatário do CSP específico para o Azure governamental|Recursos do Azure|
 
 As margens do parceiro, a diferença entre o preço da lista e os preços de varejo estimados, pode variar de segmento para segmento. Normalmente, a educação e o não-lucro tendem a ter menos ou nenhuma margem para parceiros CSP. Consulte a lista de preços baseada em licenças para obter valores exatos. 
 

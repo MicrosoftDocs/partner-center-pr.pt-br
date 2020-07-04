@@ -4,18 +4,18 @@ ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Saiba como usar as métricas na página assinatura e análise de licença para identificar seus sucessos e áreas que precisam de mais atenção.
-author: LauraBrenner
-ms.author: labrenne
+author: amrava
+ms.author: amrava
 ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 671d0bed6a8d3a71aa641fde296ead6c665dce3f
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 6248b3fcf99bba9aaaa3984b40346c97ce5e37bb
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991016"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948585"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>Analisar as assinaturas e as licenças 
 
