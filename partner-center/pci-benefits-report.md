@@ -10,12 +10,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf1822db6b689cc75c13a782c93a9d21b0ac3f75
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 73790a3fc59a2271b33c772d94b8c30902f16820
+ms.sourcegitcommit: 00f6e38cb6e3dce075174d757a5adf8fd6430bac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949384"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "86092350"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de benefícios disponível no painel do recepções do Partner Center
 
@@ -42,7 +42,7 @@ Você pode visualizar os seguintes gráficos no relatório de benefícios:
  > [!NOTE]
  > Esse relatório está disponível no painel de informações. Para exibir esse relatório, você deve ser atribuído a uma função específica no Partner Center, como administrador global, administrador da conta, visualizador de relatórios ou Visualizador de relatórios do Executive. Para obter mais informações, consulte o administrador global da sua empresa. Tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de visualizador de relatórios executivos.
 
-**Resumo**
+## <a name="summary"></a>Resumo
 
 A seção de resumo apresenta os benefícios concedidos em termos de software licenciado, serviços de nuvem (não Azure), assinaturas do Visual Studio, suporte técnico e determinados serviços ou ofertas de entrada no mercado.
 
@@ -50,20 +50,20 @@ Exemplo: os parceiros de associação do Microsoft Partner Network (MPN) estão 
 
 :::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="Resumo dos benefícios":::
 
-**Serviços de nuvem concedidos**
+## <a name="cloud-services-granted"></a>Serviços de nuvem concedidos
 
 Este gráfico apresenta a tendência mensal de licenças concedidas durante o intervalo de datas selecionado para assinaturas baseadas em licenças do serviço de nuvem selecionado.
 Selecione um serviço de nuvem na guia **Serviços** para exibir o gráfico de um serviço de nuvem específico. O grafo de linha representa as licenças gerais concedidas à sua empresa.
 
 :::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="serviços de nuvem concedidos":::
 
-**Produtos de software**
+## <a name="software-products"></a>Produtos de software
 
 Este gráfico apresenta a tendência mensal de licenças concedidas durante o intervalo de datas selecionado para um produto de software específico. Selecione um produto de software na lista suspensa na parte superior do gráfico para exibir a tendência de um produto de software específico que você recebe como benefícios. O grafo de linha representa as licenças gerais concedidas à sua empresa.
 
 :::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="produtos de software concedidos":::
 
-**Assinaturas do Visual Studio**
+## <a name="visual-studio-subscriptions"></a>Assinaturas do Visual Studio
 
 Este gráfico apresenta a tendência mensal de assinaturas do Visual Studio ativadas em relação a assinaturas que foram alocadas durante o intervalo de datas selecionado.
 
@@ -71,7 +71,7 @@ Selecione uma guia na parte superior do gráfico para exibir a tendência de uma
 
 :::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Assinaturas do Visual Studio":::
 
-**Benefícios técnicos**
+## <a name="technical-benefits"></a>Benefícios técnicos
 
 Este gráfico apresenta a tendência mensal de benefícios de suporte concedidos durante o intervalo de datas selecionado.
 
@@ -79,13 +79,13 @@ Selecione uma guia na parte superior do gráfico para exibir a tendência de um 
 
 :::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="benefícios técnicos":::
 
-**Ofertas de lançamento no mercado ou serviços**
+## <a name="go-to-market-offers-or-services"></a>Ofertas de lançamento no mercado ou serviços
 
 Este gráfico apresenta a tendência mensal de ofertas de lançamento no mercado ou serviços ativados em relação ao alocados durante o intervalo de datas selecionado e para uma oferta do serviço de lançamento de mercado ou categoria de serviços selecionada.
 
 Selecione uma oferta de entrada no mercado ou categoria de serviço na lista suspensa na parte superior do gráfico para exibir a tendência dos serviços de entrada para o mercado selecionados concedidos à sua empresa. As colunas no gráfico representam ofertas de entrada no mercado ou serviços ativados. O grafo de linha representa as ofertas gerais de lançamento no mercado ou os serviços concedidos à sua empresa.
 
-![Ofertas de entrada no mercado](images/pci/pci-benefits-go-to-market-7.png)
+:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Ofertas de entrada no mercado":::
 
 ## <a name="next-steps"></a>Próximas etapas
 

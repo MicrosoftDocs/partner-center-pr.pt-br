@@ -5,17 +5,17 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba quais funções são melhores para os usuários da sua empresa que gerenciam transações comerciais, indicações, incentivos ou associações MPN no Partner Center.
-author: LauraBrenner
-ms.author: labrenne
+author: hemas
+ms.author: hemas
 keywords: funções, permissões, administrador, agente
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0858340c6965ac932f0d4694f6f21be89ca5f817
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 4f4ec3a1a14e6845f7b6079e286876d9bb1f3dd5
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795883"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948595"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Atribuir permissões e funções de usuários para os usuários de uma empresa que precisam trabalhar no Partner Center
 

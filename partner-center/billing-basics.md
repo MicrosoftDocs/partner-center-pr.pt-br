@@ -5,17 +5,17 @@ ms.date: 05/05/2020
 description: Conheça informações básicas sobre cobrança e fatura para parceiros CSP no Partner Center. Inclui como cobrar os clientes e como localizar e ler sua fatura.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções de imposto, arquivos de reconciliação, arquivo de reconciliação
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c911626e03bf2a84ee4d4b701def7d12c25c15fc
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 91b3aaf27e049c4aab5c2c1c5c44d0fb2976a25f
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908239"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948218"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Visão geral de cobrança para parceiros do programa CSP que trabalham no Partner Center 
 
