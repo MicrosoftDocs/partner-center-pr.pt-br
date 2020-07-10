@@ -4,18 +4,18 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Use a análise para saber como seus revendedores indiretos estão fazendo, ambos os sucessos e as áreas que podem precisar de mais atenção.
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3bdc3e149d445a1d43f24d54e16c04464bea807e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 33d435b6497f84d87ce866624deb47e2bd6ebc89
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947411"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175969"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Use a análise para analisar o desempenho de seus revendedores indiretos
 
@@ -35,6 +35,8 @@ Os dados impulsionam as decisões de negócios. Use as métricas na página **An
 
 > [!NOTE]
 > A análise de revendedores indiretos está disponível somente para parceiros no programa Provedor de Soluções na Nuvem.
+
+## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>Tipos de métricas de análise de revendedor que você pode exibir
 
 Estamos monitorando as seguintes métricas:
 
@@ -69,4 +71,6 @@ Estamos monitorando as seguintes métricas:
  - **Assinaturas**: número de assinaturas que o revendedor vendeu  
  - **Licenças**: número total de licenças vendidas pelo revendedor em todas as assinaturas  
   
-  
+## <a name="next-steps"></a>Próximas etapas
+
+- [Analise assinaturas e licenças para ajudar a impulsionar decisões de negócios](analyze-subscriptions-licenses.md)

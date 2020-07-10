@@ -1,7 +1,7 @@
 ---
-title: Microsoft Azure o dimensionamento da VM para uso máximo de reserva | Centro de parceiros
+title: Dimensionamento de VM do Azure para uso máximo de reserva
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Saiba como dimensionar uma VM (máquina virtual) para as necessidades de computação de seus clientes ao comprar Microsoft Azure reservas para elas.
@@ -9,13 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: azure, reservas, vm, gerenciar, uso, dimensionamento
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 05a041ae794270430b6e2ed7b72ff48b04018601
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.custom: SEOJULY.20
+ms.openlocfilehash: 02635631d618b226eebcacee534e5947975b8153
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453273"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175906"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Dimensionamento de VM do Microsoft Azure para uso máximo de reserva do Azure
 
@@ -25,7 +25,7 @@ ms.locfileid: "84453273"
 - Portal do Azure
 - Parceiros no CSP
 
-## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Determinar o tamanho da VM para a reserva do Azure de um cliente 
+## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Determinar o tamanho da VM para a reserva do Azure de um cliente
 
 Ao comprar Microsoft Azure reservas em nome de seus clientes, você precisará escolher uma VM (máquina virtual) dimensionada para atender às necessidades de computação do cliente. Você pode encontrar essas informações usando um destes métodos:
 
@@ -42,27 +42,31 @@ As instruções para o uso de cada um desses métodos estão listadas a seguir. 
 >[!IMPORTANT]
 >Para identificar o tipo e o tamanho da VM a ser comprada em nome de seu cliente, você deverá usar um dos métodos descritos abaixo já que o tipo de série de VM não é exibido corretamente nos arquivos de reconciliação do Partner Center.
 
-**Obter informações de dimensionamento de VM usando a API de utilização do Azure**
+### <a name="get-vm-sizing-information-using-the-azure-utilization-api"></a>Obter informações de dimensionamento de VM usando a API de utilização do Azure
 
 1. Use o valor do atributo ServiceType desde additionalInfo na resposta da API para identificar o tamanho da VM a ser comprada.
+
 2. Para obter mais informações, consulte [obter os registros de utilização do cliente para o Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) na API do [Partner Center](https://docs.microsoft.com/partner-center/develop/).
 
-**Obter informações de dimensionamento de VM usando o portal do Microsoft Azure**
+### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>Obter informações de dimensionamento de VM usando o portal do Microsoft Azure
 
 1. No Partner Center, vá para a página de seus **clientes** .
+
 2. Localize o cliente que deseja comprar as reservas de VM do Azure e, em seguida, selecione a seta para baixo para expandir as informações do cliente. Selecione **portal de gerenciamento do Microsoft Azure** para abrir o registro do cliente no portal do Azure.
+
 3. Selecione **Máquinas virtuais** no menu do portal e então selecione a VM para a qual você deseja comprar uma reserva.
+
 4. Na página de detalhes da VM, localize as informações de tamanho e região, conforme ilustrado abaixo, e use essas informações para comprar a reserva no Partner Center.  
 
-    :::image type="content" source="images/usage1.png" alt-text="Informações de tamanho e região na página de detalhes":::
+   :::image type="content" source="images/usage1.png" alt-text="Informações de tamanho e região na página de detalhes":::
 
-**Obter informações de dimensionamento de VM usando o Microsoft Azure PowerShell**
+### <a name="get-vm-sizing-information-using-microsoft-azure-powershell"></a>Obter informações de dimensionamento de VM usando o Microsoft Azure PowerShell
 
 Use as informações na imagem abaixo para obter a localização e o tamanho da VM para a qual você deseja comprar uma reserva. 
 
 :::image type="content" source="images/usage2.png" alt-text="Local e tamanho da VM":::
 
-**Obter informações de dimensionamento de VM usando a API do Azure Resource Manager (ARM)**
+### <a name="get-vm-sizing-information-using-the-azure-resource-manager-arm-api"></a>Obter informações de dimensionamento de VM usando a API do Azure Resource Manager (ARM)
 
 1. Usando o ARMClient ou as APIs ARM, chame o cliente ARM para a VM para a qual você deseja comprar uma reserva.
 
@@ -79,7 +83,7 @@ Depois de comprar uma instância de VM reservada do Azure em nome de um cliente,
 
 Você pode verificar o uso de reserva do cliente e ver em quais máquinas virtuais os descontos de reserva são aplicados usando um dos seguintes métodos:
 
-- O Portal do Azure
+- O portal do Azure
 - API de utilização do Azure
 
 As instruções para o uso de cada um desses métodos estão listadas a seguir.

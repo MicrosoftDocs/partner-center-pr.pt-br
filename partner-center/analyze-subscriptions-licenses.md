@@ -1,23 +1,23 @@
 ---
-title: Analisar assinaturas e licenças | Partner Center
-ms.date: 11/13/2019
+title: Analisar as assinaturas e as licenças
+ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Saiba como usar as métricas na página assinatura e análise de licença para identificar seus sucessos e áreas que precisam de mais atenção.
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.topic: article
 keywords: dados de negócios
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 6248b3fcf99bba9aaaa3984b40346c97ce5e37bb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: bef5eb909b5ad739325c87b774fb738e89c26ac0
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948585"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175959"
 ---
-# <a name="analyze-subscriptions-and-licenses"></a>Analisar as assinaturas e as licenças 
+# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analise assinaturas e licenças para ajudá-lo a impulsionar decisões de negócios e novas metas
 
 **Aplica-se a**
 
@@ -44,6 +44,8 @@ Esse relatório pode ser dinâmico com base nos produtos a seguir:
  - **Microsoft 365**: dados do Microsoft 365  
  - **Office 365**: dados do Office 365  
 
+
+## <a name="types-of-subscription-and-license-metrics-you-can-view"></a>Tipos de métricas de assinatura e licença que você pode exibir
 
 Estamos monitorando as seguintes métricas:
 
@@ -77,4 +79,6 @@ Estamos monitorando as seguintes métricas:
 **Assinaturas de avaliação terminando em 30 dias**  
  - Lista de avaliações que foram iniciadas, onde a data de término ocorre dentro de 30 dias, e não há uma data de início pago associada com a assinatura  
 
-  
+## <a name="next-steps"></a>Próximas etapas
+
+- [Analise o desempenho de seus revendedores indiretos](analyze-indirect-resellers.md)

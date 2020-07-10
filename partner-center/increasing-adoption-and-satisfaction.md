@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32c765797af31095ddec0c43c9bb132b68e1d319
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ef1ea79e669c16e663a40cdef8b0d4d3af6f219f
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992109"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175887"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Use as métricas no Partner Center para aumentar a adoção e a satisfação
 
@@ -39,21 +39,31 @@ Você pode ver dados de todos os seus clientes por meio do programa Provedor de 
 
 ## <a name="find-license-and-user-data"></a>Localizar dados de licença e do usuário
 
+Você pode encontrar dados de licença e de usuário para um único cliente ou em seu portfólio.
 
-**Para um único cliente**
+### <a name="find-license-and-user-data-for-a-single-customer"></a>Localizar dados de licença e de usuário para um único cliente
 
-- Selecione **clientes** na **central de parceiros**, escolha um cliente e, em seguida, selecione **Customer insights**.
+1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
-**Em seu portfólio**
+2. Selecionar **clientes** no **Partner Center**
 
-1.  No **Partner Center**, selecione **analisar**.
-2.  Baixe os dados de implantação e uso de todo o seu conjunto de clientes selecionando as opções de **exportação**.
+3. Escolha um cliente.
+
+4. Selecione **Customer insights**.
+
+### <a name="find-license-and-user-data-across-your-portfolio"></a>Localizar dados de licença e de usuário em seu portfólio
+
+1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
+
+2. Selecione **analisar**e escolha uma das opções de análise no menu.
+
+3. Para baixar os dados de uso e de implantação em todo o conjunto de clientes, selecione a opção **Exportar** (seta para baixo).
 
 Terminologia:
 
-- **Direitos:** uma licença que o usuário tem direito de usar (não está suspensa para fraude ou não pagamento, ela não foi atualizada para uma licença diferente, ela não foi cancelada pelo usuário, etc.)
+- **Direito = uma** licença que o usuário tem direito de usar (não está suspensa para fraude ou não pagamento, ela não foi atualizada para uma licença diferente, ela não foi cancelada pelo usuário, etc.)
 
-- **Ativo:** se o usuário inscrito usou o direito para uma tarefa nos últimos 28 dias de calendário.
+- **Ativo** = se o usuário inscrito tiver usado o direito para uma tarefa nos últimos 28 dias do calendário.
 
 - **% de Implantação** = licenças atribuídas/licenças vendidas
 
@@ -61,13 +71,13 @@ Terminologia:
 
    Às vezes, a % de uso está inflacionada ou maior do que 100%. Isso pode ocorrer por diversos motivos:
 
-   - Se o cliente teve rotatividade de funcionários e a licença foi transferida para um novo usuário.
+  - Se o cliente teve rotatividade de funcionários e a licença foi transferida para um novo usuário.
 
-   - Se o cliente tiver duas assinaturas para uma SKU, mas uma está no Período de Cortesia, Desabilitada ou Desprovisionada, os direitos nas duas assinaturas poderão registrar uso ativo durante o período de 28 dias, mas apenas uma será contabilizada no total.
+  - Se o cliente tiver duas assinaturas para uma SKU, mas uma está no Período de Cortesia, Desabilitada ou Desprovisionada, os direitos nas duas assinaturas poderão registrar uso ativo durante o período de 28 dias, mas apenas uma será contabilizada no total.
 
-   - Se o cliente tiver uma assinatura de avaliação, a atividade será contabilizada, mas a assinatura não será contabilizada no total de direitos.
+  - Se o cliente tiver uma assinatura de avaliação, a atividade será contabilizada, mas a assinatura não será contabilizada no total de direitos.
 
-   - Se alguns clientes estiverem usando o Yammer muito além do que eles têm direito de acordo com a licença, isso poderá causar uma distorção significativa nos dados.
+  - Se alguns clientes estiverem usando o Yammer muito além do que eles têm direito de acordo com a licença, isso poderá causar uma distorção significativa nos dados.
 
 ## <a name="next-steps"></a>Próximas etapas
 

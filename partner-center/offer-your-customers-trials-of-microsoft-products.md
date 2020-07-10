@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66ea888a8efa9b44ea98b36c4341ba88f9bd1f4c
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 3cb1b2104119a28b376301637e559df76392d65c
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907348"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175988"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Fornecer a clientes avaliações gratuitas de 30 dias de produtos da Microsoft
 
@@ -27,7 +27,7 @@ ms.locfileid: "82907348"
 -   Administrador de usuários
 -   Agente de vendas
 
-Uma boa maneira de apresentar novos produtos da Microsoft aos clientes é oferecendo avaliações gratuitas de 30 dias. Você pode se inscrever para as avaliações no catálogo da mesma forma que se inscreve em muitos outros serviços online. Todos os parceiros podem participar.
+Uma boa maneira de apresentar os clientes a novos produtos da Microsoft é oferecendo avaliações gratuitas de 30 dias. Você pode se inscrever para as avaliações no catálogo da mesma forma que se inscreve em muitos outros serviços online. Todos os parceiros podem participar.
 
 ## <a name="available-trial-offers"></a>Ofertas de avaliação disponíveis
 
@@ -37,18 +37,9 @@ Cada cliente tem direito a uma avaliação gratuita para cada oferta disponível
 
 ### <a name="available-products"></a>Produtos disponíveis
 
-As avaliações gratuitas estão disponíveis para os seguintes produtos:
+As avaliações gratuitas estão disponíveis para as ofertas mais abrangentes e populares baseadas em licesen. Novas ofertas de avaliação podem ser introduzidas mensalmente.
 
-- Padrão de Microsoft 365 Business
-- Office 365 E3
-- Office 365 E5 com PSTN
-- Office 365 E5 sem PSTN
-- Enterprise Mobility & Security E5
-- Dynamics 365 Customer Engagement Plan 1
-- Dynamics 365 Business Central
-- Microsoft 365 Business Premium
-
-Nós fornecemos avaliações gratuitas para esses produtos porque eles são as ofertas de negócios mais abrangentes e populares. É possível que adicionemos outras ofertas de avaliação gratuita no futuro.
+Os parceiros podem encontrar avaliações na lista de preços mensais na página **preços e ofertas** no Partner Center. As ofertas de avaliação terão "avaliação" listada na coluna **tipo de licença secundária** da lista de preços.
 
 Atualmente, não existem **avaliações gratuitas** para ofertas governamentais, ofertas de treinamento ou ofertas complementares.
 
@@ -56,15 +47,15 @@ Atualmente, não existem **avaliações gratuitas** para ofertas governamentais,
 
 Todas as avaliações gratuitas fornecem 25 licenças. Não é possível alterar esse número durante a avaliação. Você não pode adicionar ou remover estações na avaliação gratuita. Depois que a avaliação for convertida em uma assinatura paga, você poderá adicionar licenças adicionais à assinatura.
 
-Você deve atribuir licenças de avaliação e estações da mesma forma como faria com um serviço pago no Partner Center.
+As licenças de avaliação e os assentos devem ser atribuídos aos usuários da mesma forma que a licença de serviços pagos são atribuídas.
 
 ## <a name="sign-customers-up-for-trials"></a>Conectar os clientes para avaliações
 
-Para conectar seu cliente para uma avaliação por meio do Partner Center:
+Obtenha uma avaliação para seu cliente no Partner Center:
 
 1. Em **vender** no Partner Center, acesse **Catálogo**. 
 2. No catálogo, em **Frequência da cobrança**, clique em **Trial offer**. Isso exibe apenas as avaliações gratuitas e oculta ofertas que não são gratuitas. Avaliações aparecem na guia **Avaliações** no catálogo.
-3. Selecione a avaliação gratuita que você deseja oferecer e, em seguida, selecione **enviar**. Todas as avaliações são válidas por um período de 30 dias durante o qual você não será cobrado. Você também pode convertê-la para uma assinatura paga a qualquer momento durante a avaliação.
+3. Selecione a avaliação gratuita que você deseja oferecer e, em seguida, selecione **enviar**. Todas as avaliações são por trinta dias, durante as quais você não será cobrado. Você também pode convertê-la para uma assinatura paga a qualquer momento durante a avaliação.
 
 ## <a name="converting-trials-to-paid-subscriptions"></a>Convertendo avaliações em assinaturas pagas
 
@@ -77,12 +68,12 @@ Você precisará converter a avaliação em uma assinatura paga por conta própr
 
 ### <a name="convert-trials-using-partner-center"></a>Converter avaliações usando o Partner Center
 
-Você pode converter avaliações em assinaturas pagas usando o painel do Partner Center da seguinte maneira:
+Você pode converter Avaliações para assinaturas pagas usando o Partner Center:
 
 1. Acesse a página de assinatura do cliente e selecione a avaliação gratuita.
 2. Selecione **Converter uma assinatura de avaliação em paga**.
 3. Insira a quantidade de licenças desejada e a frequência de cobrança e selecione **Aplicar**.
-4. A cobrança para a assinatura paga começa na data de conversão, e a inscrição será renovada automaticamente 12 meses a partir da data de conversão. 
+4. A cobrança da assinatura paga começa na data de conversão e a assinatura Autorenova doze meses a partir da data de conversão. 
 
 ### <a name="convert-trials-using-apis"></a>Converter avaliações usando APIs
 

@@ -5,17 +5,17 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Saiba como gerenciar reservas do Azure para um cliente, incluindo como cancelar uma reserva, trocar uma reserva ou solicitar um reembolso.
-author: amrava
+author: amitravat
 ms.author: amrava
 keywords: Azure, reservas, gerenciar, cobrança, compra, cancelamento, troca, taxa de encerramento antecipado
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ac21da2b45cff62cbe1d2e34c226f115a9c8a7b
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 7ed925dc5a3b59db936f1e65290f58bc7912736c
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948311"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175904"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Gerenciar, cancelar, trocar ou reembolsar reservas de Microsoft Azure para clientes
 
@@ -49,14 +49,13 @@ Para gerenciar as reservas do Azure de seus clientes após a compra, você selec
     | **Propriedades**   | Exiba as propriedades da reserva e copie para a área de transferência a ID da reserva e a ID do pedido de reserva. **OBSERVAÇÃO** O suporte pode solicitar a ID da reserva e a ID do pedido da reserva quando você solicitar suporte em nome de um cliente.    |
     | **Nova solicitação de suporte**    | Solicite ajuda do Suporte da Microsoft.   |
  
-## <a name="cancel-or-exchange-a-reservation"></a>Cancelar ou trocar uma reserva 
+## <a name="cancel-or-exchange-a-reservation"></a>Cancelar ou trocar uma reserva
 
 Se, a qualquer momento, as necessidades dos negócios de um cliente mudarem, talvez desejam cancelar uma reserva e obter um reembolso ou trocar o valor de reembolso rateado da reserva a ser usado em relação ao preço de uma nova reserva.
 
 Em ambos os cenários, a Microsoft refinancia o valor a você para que você possa gerenciar as transações financeiras resultantes com seus clientes. A Microsoft não entra em contato com os clientes diretamente sobre cobrança, cancelamentos ou reembolsos.
 
-
-**Como funcionam os cancelamentos**
+### <a name="how-cancellations-work"></a>Como funcionam os cancelamentos
 
 Os clientes podem solicitar a cancelamento de uma reserva a qualquer momento (valor de reembolso limitado em $50000 por ano). Cancelar uma reserva permite que o cliente retorne o valor dos meses restantes de uma reserva do Azure para uma taxa de término antecipado. O saldo rateado restante, menos a taxa de término antecipado, é reembolsado em sua conta para que você possa reembolsar a conta do cliente. 
 
@@ -70,20 +69,18 @@ Consulte abaixo para obter detalhes e taxas de cancelamento.
 |Mais de 5                        | Não          | Proporcional  | 12%                             | US $ $50000   |
 |Mais de 5                        | Sim         | Proporcional  | 12%                             | US $ $50000   |
 
-
-**Como funcionam as trocas** 
+### <a name="how-exchanges-work"></a>Como funcionam as trocas 
 
 Se um cliente quiser comprar uma reserva diferente daquela que originalmente comprou, poderá solicitar uma troca. A troca de uma reserva pode ser uma alternativa atraente para cancelar uma reserva, pois permite que o cliente use o valor de reembolso rateado em direção ao preço da nova reserva. 
 
 O valor de reembolso rateado é creditado em sua conta para que você possa oferecer ao cliente uma troca.
 
-
-## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>Solicitar um reembolso ou uma troca em nome de um cliente 
+## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>Solicitar um reembolso ou uma troca em nome de um cliente
 
 Para arquivar uma solicitação de suporte para um reembolso ou troca em nome de seus clientes, você selecionará o cliente e a reserva no Partner Center e criará a solicitação de suporte no portal do Azure. 
 
 >[!NOTE]
->Os agentes do Suporte da Microsoft para fornecer a ID da reserva e a ID do pedido da reserva. Você pode encontrar essas informações na página de **Propriedades** da reserva no portal do Azure. 
+>Os agentes do Suporte da Microsoft para fornecer a ID da reserva e a ID do pedido da reserva. Você pode encontrar essas informações na página de **Propriedades** da reserva no portal do Azure.
 
 1. Para começar, selecione **clientes** no menu do centro de parceiros e, em seguida, selecione o cliente que deseja um reembolso. 
 
@@ -93,15 +90,16 @@ Para arquivar uma solicitação de suporte para um reembolso ou troca em nome de
 
 4. Na página **Nova solicitação de suporte**, siga as etapas abaixo para solicitar um reembolso. Selecione **Avançar** depois de cada etapa. 
 
-    |**Step**                    |**Seleções**    |
-    |:---------------------------|:-----------------|
-    |**1 Noções básicas**                |Tipo de problema: Cobrança.  |
-    |**2 Problema**               |Tipo de problema: Gerenciamento de reserva. Categoria: Trocas e reembolsos. |
-    |**3 Informações de contato**   |Selecione suas preferências e insira as informações necessárias. 
+   |**Step**                    |**Seleções**    |
+   |:---------------------------|:-----------------|
+   |**1 Noções básicas**                |Tipo de problema: Cobrança.  |
+   |**2 Problema**               |Tipo de problema: Gerenciamento de reserva. Categoria: Trocas e reembolsos. |
+   |**3 Informações de contato**   |Selecione suas preferências e insira as informações necessárias. 
 
-5.  Selecione **Criar** ao terminar.
+5. Selecione **Criar** ao terminar.
 
 ## <a name="azure-reservations-resources"></a>Recursos de reservas do Azure
+
 |**Para obter informações sobre**   |**Leia isto**    |
 |:-----------------------------|:-----------------|
 |Reservas do Azure na visão geral do CSP  | [Vender Instâncias Reservadas do Microsoft Azure](azure-reservations.md) |

@@ -10,12 +10,12 @@ ms.author: dineshvu
 keywords: Azure, assinatura do Azure, assinatura, assinaturas, atribuir assinatura, gerenciar assinatura do Azure
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0beb6f0a4f4a2b0eb4cc731c9bf30add379ea6e3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ae6b1dd2d5b24dd44431f27473f783b90a74fd18
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948558"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175918"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Atribuir assinaturas do Azure a clientes no Partner Center
 
@@ -37,11 +37,12 @@ ms.locfileid: "85948558"
 
 6. Depois de adicionar o usuário à assinatura, você poderá atribuir ao usuário uma função e à conta específica ao qual o usuário terá acesso.
 
-**Permitir que os clientes gerenciem suas assinaturas do Azure**
+## <a name="enable-customers-to-manage-their-azure-subscriptions"></a>Permitir que os clientes gerenciem suas assinaturas do Azure
 
 Depois de criar uma assinatura do Microsoft Azure para um cliente, você poderá permitir que ele gerencie a assinatura. Para fazer isso, você precisará fazer logon no portal de gerenciamento de Microsoft Azure do cliente. 
 
 1. Para abrir o portal do Azure do cliente, expanda a listagem do cliente em sua lista de clientes ou selecione o nome do cliente e, em seguida, selecione **portal de gerenciamento do Microsoft Azure**.
+
    > [!NOTE]  
    > Se for solicitado que você faça logon na portal do Azure, talvez você não tenha privilégios administrativos delegados. Selecione **Solicite um relacionamento** para convidar o cliente para identificar você como seu Parceiro de Registro. Depois que o cliente aceitar seu convite, você receberá automaticamente os privilégios administrativos delegados.
 
@@ -49,4 +50,8 @@ Depois de criar uma assinatura do Microsoft Azure para um cliente, você poderá
 
 3. Atribua uma função a qualquer um dos usuários do cliente para que eles possam criar e gerenciar recursos em sua assinatura.
 
+## <a name="next-steps"></a>Próximas etapas
 
+- [Como os parceiros CSP podem vender assinaturas para os clientes](customer-subscriptions.md)
+
+- [Como obter permissões para gerenciar o serviço ou as assinaturas de um cliente](customers-revoke-admin-privileges.md)
