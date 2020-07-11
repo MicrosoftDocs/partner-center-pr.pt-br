@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Os parceiros podem usar APIs para o Office 365 e parceiros de Microsoft Azure para a integridade do serviço em tempo real, comunicações do centro de mensagens e eventos de manutenção planejada.
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 28a858afc0f34ff51523da8af2365141191348dc
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 12a7c37bca999d6f31286a121dd191625e5b7470
+ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991250"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86219584"
 ---
 # <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a>Usar APIs para notificações de serviço automatizadas para o Azure insights & comunicações de serviço do Office 365
 

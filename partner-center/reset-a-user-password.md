@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como redefinir uma senha de usuário no Partner Center. Os usuários receberão uma senha temporária na próxima vez que entrarem no Partner Center.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84ba4806e1241fd8857e39f8c47f5391f316393b
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 9174b8caaed8f49d40b3f599fc3264ebd36bd937
+ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992002"
+ms.lasthandoff: 07/11/2020
+ms.locfileid: "86265229"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>Redefinir a senha de um usuário no Partner Center
 

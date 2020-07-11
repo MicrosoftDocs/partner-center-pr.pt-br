@@ -5,18 +5,18 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como restaurar uma conta suspensa do Partner Center, por que acontece a suspensão da conta de parceiro e como você pode usar sua conta durante a suspensão.
-author: LauraBrenner
-ms.author: labrenne
+author: kbangalore
+ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 514480372d1717159f9dff6cb3b3b2e575c069b8
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 07d9f4f484a7c7803d5b7a41d1d8fe0f698b58d3
+ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991800"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86219644"
 ---
-# <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restaurar uma conta suspensa do Partner Center – saiba por que ela acontece e o que fazer a respeito
+# <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restaurar uma conta suspensa do Partner Center – saiba por que isso acontece e o que fazer a respeito
 
 Este artigo explica o que fazer caso sua conta no Partner Center seja suspensa.
 
@@ -27,7 +27,7 @@ Este artigo explica o que fazer caso sua conta no Partner Center seja suspensa.
 
 
 > [!IMPORTANT]  
-> Enquanto sua conta do Partner Center estiver suspensa, você poderá continuar a gerenciar suas implantações, as licenças e os serviços existentes. No entanto, você não poderá autorizar ou revender novas licenças ou serviços até que sua conta esteja em boas condições novamente.
+> Enquanto sua conta do Partner Center é suspensa, você pode continuar a gerenciar suas implantações, licenças e serviços existentes. No entanto, você não poderá autorizar ou revender novas licenças ou serviços até que sua conta esteja em boas condições novamente.
 
 ## <a name="why-partner-center-accounts-are-suspended"></a>Por que as contas da Central de parceiros estão suspensas
 
