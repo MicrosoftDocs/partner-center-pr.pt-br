@@ -5,6 +5,16 @@
     "redirect_url": "https://www.21vbluecloud.com/partner-china/add-a-new-customer",
     "redirect_document_id": "FALSE"
   },
+{
+    "source_path": "partner-center/tutorials/partner-security-requirements.yml",
+    "redirect_url": "https://docs.microsoft.com/partner-center/partner-security-requirements",
+    "redirect_document_id": "FALSE"
+  },
+{
+    "source_path": "partner-center/implement-security-requirements.md",
+    "redirect_url": "https://docs.microsoft.com/partner-center/partner-security-requirements",
+    "redirect_document_id": "FALSE"
+  },
   {
     "source_path": "partner-center/enroll-in-csp-for-microsoft-cloud-germany.md",
     "redirect_url": "https://docs.microsoft.com/partner-center/partner-center-for-microsoft-cloud-germany",
