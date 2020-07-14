@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: revendedores indiretos, revendedores, provedores indiretos, provedores, parceria, VAR, camada2, camada 2
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: ec6fcb6ccfd867d986aad2b751650cd6c1669229
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 9450d4e32a086add3c86e398dacd1a590e7e6d4c
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362754"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879349"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Aprenda como fazer parcerias com provedores indiretos no programa CSP (Provedor de Soluções na Nuvem)
 
@@ -196,6 +196,24 @@ Para obter as permissões de administrador a fim de gerenciar assinaturas e serv
 4. Depois que o cliente autorizar você e seu provedor a serem os revendedores de registro dele, você terá permissões de administrador para gerenciar assinaturas, licenças e usuários em nome dele. Seu provedor indireto também pode enviar pedidos em nome dele.
 
 5. Para gerenciar a conta, os serviços, os usuários e as licenças do cliente, expanda o registro do cliente selecionando a seta para baixo perto do nome dele.
+
+## <a name="remove-a-relationship-with-a-customer"></a>Remover um relacionamento com um cliente
+
+Para remover o relacionamento com um cliente, execute as seguintes etapas:
+
+1.  No Partner Center, acesse **Clientes** e selecione o cliente cujo relacionamento deseja remover.
+
+2.  Selecione a **Conta**.
+
+3.  Selecione **Remover relacionamento com o cliente**.
+
+4.  O cliente não será mais exibido na lista de clientes.
+
+>[!IMPORTANT]
+>Se você estabeleceu um relacionamento com um cliente e depois removeu esse relacionamento, eventuais privilégios de administrador delegado concedidos permanecerão inalterados.
+>Você declara que a decisão de descontinuar o relacionamento com o cliente foi tomada de boa-fé, para uma finalidade de negócios legítima e de acordo com os termos do contrato firmado com o cliente ou parceiro, e concorda em defender e manter a Microsoft isenta em caso de reivindicações de terceiros nesse sentido.
+>Você deverá fornecer um aviso legal de encerramento ao cliente ou parceiro se o contrato assim exigir. Essa ferramenta não gera nenhum aviso ao cliente ou parceiro.
+
 
 ## <a name="next-steps"></a>Próximas etapas
 

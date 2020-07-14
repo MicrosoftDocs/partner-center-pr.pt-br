@@ -5,17 +5,17 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Para trabalhar no Partner Center, primeiro você deve verificar a propriedade do seu domínio. Saiba como fazer isso e como se tornar um administrador global que pode adicionar usuários.
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
 keywords: domínio, verificação de domínio, verificar domínio, administrador global, funções de usuário, permissões
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2aed5fa0c8e80f056d643dbfd7c55b3a156331e7
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: b9081796263e109e65a633b0a492d4bd58c7fa0a
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908258"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948231"
 ---
 # <a name="verify-your-domain-ownership"></a>Verificar sua propriedade do domínio
 
@@ -36,7 +36,7 @@ Você precisa verificar a propriedade do domínio para comprar os benefícios pa
 
 ## <a name="verify-your-domain-ownership-and-become-a-global-admin-in-partner-center"></a>Verifique sua propriedade de domínio e torne-se um administrador global no Partner Center
 
-1. No Partner Center, na página **Ofertas de associação**, selecione **Tornar-se um administrador global**. 
+1. No painel do Partner Center, na página **Ofertas de associação**, selecione **Tornar-se um administrador global**. 
 
 2. Na página **Verificar a propriedade do domínio**, copie os valores TXT da tabela. Observe que o seu domínio já está selecionado para você.
 
