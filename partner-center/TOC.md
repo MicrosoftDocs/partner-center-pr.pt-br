@@ -252,6 +252,4 @@
 ## [Visão geral](partner-security-requirements.md)
 ## [Exigir MFA de seu locatário parceiro](partner-security-requirements-mandating-mfa.md) 
 ## [Status de requisitos](partner-security-compliance.md)
-## [Implementar os requisitos de segurança de parceiros](implement-security-requirements.md)
 ## [Perguntas frequentes](partner-security-requirements-faq.md)
-

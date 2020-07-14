@@ -11,13 +11,13 @@ metadata:
   author: LauraBrenner
   ms.author: labrenne
   manager: evansma
-  ms.date: 05/29/2020
-  ms.openlocfilehash: 75176cda1bceb0d90253a97b621c9ff5c5b8cef0
-  ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+  ms.date: 07/10/2020
+  ms.openlocfilehash: 767ecd96c8899970fe4ff6d777d6316f8ff3bc76
+  ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
   ms.translationtype: HT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 06/12/2020
-  ms.locfileid: "84749183"
+  ms.lasthandoff: 07/13/2020
+  ms.locfileid: "86286644"
 highlightedContent:
   items:
   - title: Saiba mais sobre atualizações importantes do Partner Center
@@ -160,7 +160,7 @@ additionalContent:
       - text: Habilitar experiências de gerenciamento entre locatários
         url: https://docs.microsoft.com/azure/lighthouse/concepts/cross-tenant-management-experience
       - text: Considerações sobre CSP
-        url: https://docs.microsoft.com/en-us/azure/lighthouse/concepts/cloud-solution-provider
+        url: https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider
       - text: Integrar clientes ao gerenciamento de recursos delegados do Azure
         url: https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer
       - text: Publicar ofertas de serviços gerenciados
