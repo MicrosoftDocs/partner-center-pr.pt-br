@@ -1,7 +1,7 @@
 ---
 title: Preços e ofertas
 ms.topic: article
-ms.date: 06/01/2020
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Consulte listas de preços atuais para serviços baseados em licença, como Office 365, Microsoft Dynamics CRM e Enterprise Mobility Suite, e serviços baseados em uso, como o Azure.
@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 066b69cc0a70ded518c6bbaa9f35879e4b992a89
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: f119410e1d1530ba909d4ce18edd83b718da74f8
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949335"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286624"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preços e ofertas para o Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure e muito mais
 
@@ -42,7 +42,7 @@ Para ver os programas e ofertas mais recentes do provedor de soluções de nuvem
 - O **Marketplace** inclui preços para soluções de ISV do Marketplace comercial da Microsoft. Os preços são recuperados por mercado. Os dados nesses arquivos são atualizados todos os dias.
 
 > [!Note] 
-> Somente os parceiros CSP com a capacidade de fazer o Transact podem exibir e baixar listas de preços. Revendedores indiretos devem [entrar em contato com seu provedor CSP]( https://partner.microsoft.com/en-us/cloud-solution-provider/find-a-provider) para solicitar detalhes sobre os preços
+> Somente os parceiros CSP com a capacidade de fazer o Transact podem exibir e baixar listas de preços. Revendedores indiretos devem [entrar em contato com seu provedor CSP]( https://partner.microsoft.com/cloud-solution-provider/find-a-provider) para solicitar detalhes sobre os preços
 
 ## <a name="price-list-preview-and-change-frequency"></a>Visualização da lista de preços e alteração de frequência 
 

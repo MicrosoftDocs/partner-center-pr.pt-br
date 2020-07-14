@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Quando você registra um negócio que ganhou no Partner Center, ele ajuda a Microsoft a fornecer mais oportunidades no futuro.
-author: LauraBrenner
-ms.author: labrenne
+author: rajap-ms
+ms.author: rajap
 keywords: registro da negociação
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4bb638d82315be392181ebad17040723d164119b
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 782eee28a7bd26131d15d449d451a4c29050fd4a
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467406"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302253"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registre as negociações que você ganhou no Partner Center para poder obter mais oportunidades posteriormente
 
@@ -59,7 +59,7 @@ Você pode revisar os registros de negociações novos, ativos e fechados nas di
 
 Na página **Indicações > Registros de negociação > Ação necessária**, você verá novos registros que ainda não foram registrados ou que precisam de uma atualização. Você pode usar os filtros para mostrar apenas registros de negociação **Incompletos** ou **Atualização necessária**. Registros de negociação **Incompletos** são aqueles originados de indicações, mas que ainda não foram registrados. Registros de negociação **Atualização necessária** são aqueles que foram criados e registrados, mas que exigem que você atualize as informações fornecidas.
 
-### <a name="in-progress"></a>Em Andamento
+### <a name="in-progress"></a>Em andamento
 
 Na página **Indicações > Registros de negociação > Em Andamento**, você verá os registros de negociação que a Microsoft está revisando. Se precisarmos de mais informações, usaremos as informações de **Contato de registro** fornecidas.
 

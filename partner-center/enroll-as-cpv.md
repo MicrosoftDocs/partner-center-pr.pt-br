@@ -5,17 +5,17 @@ ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Saiba como registrar-se como um fornecedor do painel de controle (CPV) no Partner Center.
-author: kbangalore
-ms.author: kiranban
+author: parthpandyaMSFT
+ms.author: parthp
 keywords: Fornecedor do painel de controle, registrar aplicativos CPV, gerenciar aplicativos CPV
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 819c814333878efc882749a1597e993eb9002545
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.openlocfilehash: 503bbb6d1c083337dc9bad9cc469c43d614eb5a3
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219604"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302363"
 ---
 # <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>Registre-se como um fornecedor do painel de controle para ajudar a integrar sistemas de parceiros CSP com APIs do Partner Center
 
