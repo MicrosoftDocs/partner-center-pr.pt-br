@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/01/2020
-ms.openlocfilehash: 93e29f5ed6409e244768136b1f7609a8e8e3391e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.date: 07/10/2020
+ms.openlocfilehash: 1de1cebbf42eb03e375af2210bbae2d2ed55e5d8
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84678933"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286604"
 ---
 # <a name="january-2020-announcements"></a>Comunicados de janeiro de 2020
 
@@ -52,7 +52,7 @@ Agora os parceiros podem adquirir, provisionar e gerenciar reservas do Azure e a
 
 ### <a name="additional-resources"></a>Recursos adicionais
 
-- Recursos do programa CSP na página de galeria do parceiro: [Assinaturas do Windows Server e SQL Server disponíveis na Rússia para parceiros do CSP](https://partner.microsoft.com/en-us/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
+- Recursos do programa CSP na página de galeria do parceiro: [Assinaturas do Windows Server e SQL Server disponíveis na Rússia para parceiros do CSP](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
 - [Saiba mais sobre o Partner Center](https://docs.microsoft.com/partner-center/azure-plan-get-started)
 
 ### <a name="next-steps"></a>Próximas etapas
@@ -61,7 +61,7 @@ Agora os parceiros podem adquirir, provisionar e gerenciar reservas do Azure e a
 
 ### <a name="questions"></a>Perguntas?
 
-- [Entre em contato com o Suporte](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?category=csp) para perguntas, consultas ou mais informações.
+- [Entre em contato com o Suporte](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) para perguntas, consultas ou mais informações.
 
 _________________
 
@@ -329,7 +329,7 @@ Em 2 de janeiro de 2020, as seguintes ofertas do Power Virtual Agent foram lanç
 
 - Agente Virtual do Dynamics 365 para Serviço de Atendimento ao Consumidor
 
-Confira as informações detalhadas do SKU no arquivo intitulado "Ofertas do CSP do Dynamics de 1-1-20" [aqui](https://partner.microsoft.com/en-US/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).
+Confira as informações detalhadas do SKU no arquivo intitulado "Ofertas do CSP do Dynamics de 1-1-20" [aqui](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).
 
 Aplicativos Biz e Power Platform
 
@@ -337,7 +337,7 @@ Em 2 de janeiro de 2020, as seguintes ofertas dos Aplicativos de negócios e do 
 
 - Introdução das ofertas para alunos do plano existente do Power Apps por aplicativo
 
-Confira as informações detalhadas do SKU no arquivo intitulado "Ofertas do CSP do Dynamics de 1-1-20" [aqui](https://partner.microsoft.com/en-US/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).
+Confira as informações detalhadas do SKU no arquivo intitulado "Ofertas do CSP do Dynamics de 1-1-20" [aqui](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).
 
 Em 1º de fevereiro de 2020, as seguintes ofertas novas e atualizadas dos Aplicativos de negócios e do Power Platform serão lançadas:
 
@@ -371,7 +371,7 @@ Informações de SKUs pendentes
 
 Em 1º de fevereiro de 2020, a Microsoft vai alterar os nomes de algumas famílias de produtos e ofertas para alinhar a nomenclatura das ofertas existentes do Dynamics 365 e do Power Platform com aquela usada em outros canais e outras regiões.
 
-Confira as alterações específicas no arquivo intitulado "Dynamics CSP Offer Name Changes – Feb 2020" [aqui](https://partner.microsoft.com/en-US/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).
+Confira as alterações específicas no arquivo intitulado "Dynamics CSP Offer Name Changes – Feb 2020" [aqui](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).
 
 ### <a name="additional-resources"></a>Recursos adicionais
 
@@ -389,7 +389,7 @@ Confira as alterações específicas no arquivo intitulado "Dynamics CSP Offer N
 
 ### <a name="questions"></a>Perguntas?
 
-- Se tiver perguntas relacionadas estritamente às suas operações com a Microsoft, [contate o suporte](https://partner.microsoft.com/en-us/pcv/servicerequests/create).
+- Se tiver perguntas relacionadas estritamente às suas operações com a Microsoft, [contate o suporte](https://partner.microsoft.com/pcv/servicerequests/create).
 
 ### <a name="change-log"></a>Log de alterações
 

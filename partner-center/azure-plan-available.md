@@ -4,17 +4,17 @@ description: Esta seção aborda os serviços do Azure que estão e não estão 
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 734269ae4f5608e86ebc2f86c2dc89e33e44f640
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 6c841c54a115b846fe92d03ca66b530807508b9d
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948449"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390393"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Serviços do Azure disponíveis no programa CSP (Provedor de Soluções de Nuvem) do Azure
 

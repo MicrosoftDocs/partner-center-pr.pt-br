@@ -5,16 +5,16 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre as funções e permissões para que os parceiros possam obter os créditos acumulados do parceiro (PEC). Elas diferem das funções para trabalhar no Partner Center.
-author: dineshvu
-ms.author: dineshvu
+author: adamyeh
+ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c0f4e99dab2c898564941e926fc6d754547d66c1
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: fa6241755e228e36abdd15022c127d2b243b488f
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948253"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390583"
 ---
 # <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>Funções e permissões qualificadas para conquistar crédito ganho de parceiro
 

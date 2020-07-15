@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/01/2020
-ms.openlocfilehash: 8f4a7d6cb423eac8360eee85fbfdb310bd54eeda
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.date: 07/10/2020
+ms.openlocfilehash: cf651921412afac599fc186bf54e87be5783b0bb
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84678923"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286614"
 ---
 # <a name="march-2020-announcements"></a>Comunicados de março de 2020
 
@@ -118,7 +118,7 @@ Revise os recursos disponíveis e compartilhe com os stakeholders apropriados em
 
 **Perguntas?**
 
-[Entre em contato com o Suporte](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?category=csp) para perguntas, consultas ou mais informações.
+[Entre em contato com o Suporte](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) para perguntas, consultas ou mais informações.
 
 _________________
 
@@ -148,7 +148,7 @@ Em 1º de abril de 2020, a Microsoft apresentará um novo SKU de nível de entra
 
 **Novo SKU de nível de entrada:** o novo SKU de nível de entrada será chamado de Microsoft 365 F1 e oferecerá valor personalizado para trabalhadores de linha de frente, segurança estendida e valor de identidade para todos os trabalhadores. Esta oferta inclui o Teams, o SharePoint Online, o Yammer Enterprise, o Stream, o EMS E3 e o acesso somente leitura para aplicativos Web/móveis do Office.
 
-Essas alterações agregarão valor para os trabalhadores de linha de frente e permitirão que os parceiros aproveitem uma oportunidade significativa de crescimento de usuários. **Confira nossos documentos adicionais [aqui](http:/resources/collection/Microsoft-365-firstline-offer-updates#/) saber mais sobre a proposta de valor e suas próximas etapas.**
+Essas alterações agregarão valor para os trabalhadores de linha de frente e permitirão que os parceiros aproveitem uma oportunidade significativa de crescimento de usuários. **Confira nossos documentos adicionais [aqui](https://partner.microsoft.com/resources/collection/Microsoft-365-firstline-offer-updates) saber mais sobre a proposta de valor e suas próximas etapas.**
 
 |**Alterar linha do tempo**|**Alteração**|
 |-------------------|:------|
@@ -311,7 +311,7 @@ Estas são as alterações nos produtos Dynamics Biz Apps e Power Platform a par
 - Ofertas de RPA (Automação de Processo Robótico) primárias
 - Novo produto de bot para ofertas de RPA
 
-Confira as alterações específicas no arquivo chamado "Atualizações de oferta do CSP para Dynamics – março de 2020" [aqui](https://partner.microsoft.com/en-us/pcv/.)
+Confira as alterações específicas no arquivo chamado "Atualizações de oferta do CSP para Dynamics – março de 2020" [aqui](https://partner.microsoft.com/pcv/.)
 
 ### <a name="additional-resources"></a>Recursos adicionais:
 
@@ -367,7 +367,7 @@ Além disso, não há nenhuma alteração nas ofertas existentes do Windows E5, 
 
 **Perguntas?**
 
-Caso tenha dúvidas em relação a suas operações com a Microsoft, entre em contato com o suporte por meio do Painel do Partner Center em: https://partner.microsoft.com/en-us/pcv/servicerequests/create.
+Caso tenha dúvidas em relação a suas operações com a Microsoft, entre em contato com o suporte por meio do Painel do Partner Center em: https://partner.microsoft.com/pcv/servicerequests/create.
 
 ### <a name="change-log"></a>Log de Alterações
 

@@ -3,16 +3,16 @@ title: Arquivos de reconciliação recorrentes e de uso único
 ms.topic: article
 ms.date: 05/26/2020
 description: Entenda o significado de cada campo ou coluna nos arquivos de reconciliação única e recorrente do Partner Center.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a39962fb046b50497432e7e4fdabd020668702fe
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: a84a9bdf1e7366bed9e83f370703df5f44be1dfc
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908664"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390293"
 ---
 # <a name="one-time-and-recurring-reconciliation-files-in-partner-center"></a>Arquivos de reconciliação recorrentes e de uso único no Partner Center
 

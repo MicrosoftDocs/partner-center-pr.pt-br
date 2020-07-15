@@ -5,17 +5,17 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: amrava
+author: amitravat
 ms.author: amrava
 Keywords: assinatura, compra de autoatendimento, RI de autoatendimento, habilitar RI, desabilitar RI, autoatendimento, compra de cliente, permissões de cliente, instância reservada de compra de cliente, reservas do Azure para comprar, ativar autoatendimento, desligar o autoatendimento
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0c507aae75dad4a1dce5dc9746ebe9f7ed48f040
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 62447e284ce35b414594031c590110cedc5a59ab
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947463"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377450"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Dê permissão aos clientes no Partner Center para comprar seus próprios produtos ou serviços
 
@@ -33,7 +33,7 @@ Este artigo mostra como um parceiro no programa CSP (provedor de soluções na n
 
 Os parceiros no programa CSP geralmente usam o Partner Center e seu mercado comercial para comprar soluções e serviços para seus clientes. Os parceiros permitem que alguns clientes provisionem esses serviços diretamente do portal do Azure.
 
-Aqui está um exemplo. Digamos que você compre uma assinatura do plano do Azure para um cliente no Partner Center. Em seguida, você decide adicionar outros recursos ou serviços a essa assinatura em nome do cliente. Nesse caso, você pode adicionar reservas do Azure à assinatura do cliente (como adicionar instâncias de máquina virtual reservadas). Em seguida, você pode permitir que o cliente provisione ainda mais os recursos de reserva do Azure no portal do Azure.
+Veja um exemplo. Digamos que você compre uma assinatura do plano do Azure para um cliente no Partner Center. Em seguida, você decide adicionar outros recursos ou serviços a essa assinatura em nome do cliente. Nesse caso, você pode adicionar reservas do Azure à assinatura do cliente (como adicionar instâncias de máquina virtual reservadas). Em seguida, você pode permitir que o cliente provisione ainda mais os recursos de reserva do Azure no portal do Azure.
 
 Agora, com o recurso de **permissões de cliente** , você fornece aos clientes mais opções de autoatendimento com os recursos do Azure. Ao ativar as permissões para o cliente, você permite que os clientes comprem seus próprios recursos (como, por exemplo, comprando suas próprias reservas do Azure).  
 

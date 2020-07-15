@@ -1,7 +1,7 @@
 ---
-title: Comunicação com o cliente da Microsoft | Partner Center
+title: Comunicação com o cliente da Microsoft
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como a Microsoft espera que as comunicações do cliente ocorram entre clientes e parceiros no programa do provedor de soluções na nuvem.
@@ -9,30 +9,23 @@ author: brentserbus
 ms.author: brserbus
 keywords: comunicação, comunicações do cliente, contato com a Microsoft
 ms.localizationpriority: medium
-ms.openlocfilehash: 60d0d2e5f46700de017e78684f0b8e18f91368b3
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.custom: SEOJULY.20
+ms.openlocfilehash: d0b705f915959c1d6850452828323c2070b335f2
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219514"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377460"
 ---
-# <a name="customer-communication-from-microsoft"></a>Comunicação com o cliente da Microsoft
+# <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Diretrizes para comunicação bem-sucedida do cliente com a Microsoft
 
 **Aplica-se a**
 
 -  Partner Center
 -  Partner Center do Microsoft Cloud for US Government
 
-
 Em geral, esperamos que todas as comunicações com o cliente venham do parceiro CSP (Provedor de Soluções na Nuvem). Porque você possui a relação de cobrança do cliente, a Microsoft não enviará comunicações diretamente aos seus clientes relacionadas às suas assinaturas.
 
 A Microsoft pode se comunicar diretamente com os clientes sobre incidentes de serviço ou outras informações operacionais.
 
 Para os clientes que já possuem relações comerciais com a Microsoft, a Microsoft continuará a se comunicar diretamente com eles sobre seus produtos e serviços que não sejam CSP.
-
- 
-
- 
-
-
-

@@ -5,17 +5,17 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como vender suas assinaturas de clientes para produtos publicados pela Microsoft, bem como produtos de SaaS publicados por ISVs de terceiros.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.custom: SEOAPR.20
 Keywords: assinatura, criar novo, adicionar assinatura, suspender, cancelar, suspensão, suspender, SaaS, licença, ISV, terceiros
 ms.localizationpriority: medium
-ms.openlocfilehash: 3588fb8408ef3c190813691d42331753ac531a8f
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ea5c15248eb38e1c69b6501e21aed1772e937d45
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991487"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377590"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Criar, suspender ou cancelar assinaturas de clientes
 
@@ -139,7 +139,7 @@ Para cancelar uma assinatura de SaaS baseada em licença de um publicador ISV, f
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>Escolha se deseja renovar automaticamente uma assinatura do Marketplace comercial
 
-Por padrão, as assinaturas ativas são definidas para renovar automaticamente quando o período de assinatura expira. Para [assinaturas para produtos](csp-commercial-marketplace-overview.md)do Marketplace comercial, opcionalmente, você pode optar por não renovar automaticamente a assinatura.
+Por padrão, as assinaturas ativas são definidas para serem renovadas automaticamente ao término do período de assinatura. Para [assinaturas para produtos do Marketplace comercial](csp-commercial-marketplace-overview.md), opcionalmente, você pode optar por não renovar automaticamente a assinatura.
 
 Para interromper uma assinatura do Marketplace comercial ativa de renovar automaticamente:
 

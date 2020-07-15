@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Como um parceiro qualificado da Microsoft, você pode comercializar com a Microsoft. Saiba como definir compromissos, convidar a Microsoft para colaborar ou exibir compromissos enviados.
 author: sroy
-ms.author: jenhayes
+ms.author: sroy
 keywords: indicação, RFI, localizar um parceiro
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 63b046422d76864b0836cd85483a0a3aebfe8b25
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 6297fc3f43fbb19d4d1501e812d8b8350031ddef
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948059"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390553"
 ---
 # <a name="co-sell-with-microsoft"></a>Vendas conjuntas com a Microsoft
 
@@ -31,7 +31,7 @@ ms.locfileid: "85948059"
 Como um parceiro qualificado da Microsoft, você tem a oportunidade de fazer uma venda conjunta com a Microsoft. Essa colaboração ajuda você a tirar soluções para o mercado, impulsionar a receita conjunta e garantir o sucesso do cliente.
 
 > [!IMPORTANT]
-> Para comercializar com a Microsoft, os parceiros precisam de uma solução pronta para o comercial, uma equipe de vendas envolvida e uma boa estratégia de colocação no mercado. Eles também devem atender a critérios adicionais específicos. Para obter mais informações, consulte [tornar-se pronto para venda](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
+> Para realizar uma venda conjunta com a Microsoft, os parceiros precisam de uma solução pronta para comercialização, uma equipe de vendas envolvida e uma boa estratégia de colocação no mercado. Eles também precisam atender a critérios adicionais específicos. Para obter mais informações, consulte [tornar-se pronto para venda](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
 
 ## <a name="invite-microsoft-to-collaborate-on-an-engagement"></a>Convide a Microsoft a colaborar em um engajamento
 

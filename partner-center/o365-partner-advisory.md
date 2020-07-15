@@ -3,19 +3,19 @@ title: Consultoria de parceiro CSP-Microsoft 365 Voice
 description: Saiba mais sobre os serviços de PSTN em alguns países e requisitos especiais ou de regulamentação que podem se aplicar e impactar a ordem e o faturamento dos parceiros.
 ms.topic: article
 ms.date: 05/05/2020
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: Office, O365, serviços PSTN, impostos, requisitos, fatura, faturamento
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ed43b8ca9a5596f6734ee5e2ecb6c041bbf72ea
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 96271a574ad84d28651e263c34a8238093e0d026
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907360"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377790"
 ---
-# <a name="office-365-partner-advisory-microsoft-365-business-voice-in-the-csp-program"></a>Consultoria do parceiro do Office 365: Microsoft 365 Business voz no programa CSP
+# <a name="office-365-partner-advisory-microsoft-365-business-voice-in-the-csp-program"></a>Consultoria de parceiros do Office 365: Microsoft 365 Business Voice no programa CSP
 
 **Aplica-se a**
 
@@ -38,7 +38,7 @@ As notas fiscais do CSP e os arquivos de reconciliação do CSP no Estados Unido
 
 Além disso, as notas fiscais do CSP exibirão a seguinte nota de rodapé:
 
-* O preço exibido é um encargo para a conferência de áudio e serviços de plano de chamada.  Todos os impostos transacionais aplicáveis são cobrados exclusivamente do valor mostrado, exceto pelas vendas feitas dentro do Estados Unidos.  Nos EUA, o preço exibido é imposto inclusivo, pois inclui um encargo para o plano de chamada e os serviços de conferência de áudio e um encargo para os impostos e as tarifas que precisaremos cobrar.  A conferência de áudio e os serviços de plano de chamada são atendidos pela afiliada da Microsoft autorizada a fornecê-los.  Consulte [Licenciamento por volume da Microsoft](https://go.microsoft.com/fwlink/?LinkId=690247) para obter detalhes.
+* O preço exibido é um encargo para a conferência de áudio e serviços de plano de chamada.  Todos os impostos transacionais aplicáveis são cobrados exclusivamente do valor mostrado, exceto pelas vendas feitas dentro do Estados Unidos.  Nos EUA, o preço exibido é imposto inclusivo, pois inclui um encargo para o plano de chamada e os serviços de conferência de áudio e um encargo para os impostos e as tarifas que precisaremos cobrar.  A conferência de áudio e os serviços de plano de chamada são atendidos pela afiliada da Microsoft autorizada a fornecê-los.  Confira [Licenciamento por Volume da Microsoft](https://go.microsoft.com/fwlink/?LinkId=690247).
 
 ## <a name="reconciliation-file-example"></a>Exemplo de arquivo de reconciliação
 

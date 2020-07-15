@@ -5,17 +5,17 @@ ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenha as permissões necessárias para gerenciar o serviço ou a assinatura de um cliente em nome dele. Saiba como as permissões são concedidas, revogadas e gerenciadas.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.custom: SEOAPR.20
 keywords: privilégios de administrador delegado, administrador em nome de, remover privilégios, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: 7fdc39dd3d9da7532b52e9b77517da1c0b72fa58
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: 95f6ae6661180e4d607065a5211ca5f600719f7c
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198594"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377430"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Obter permissões para gerenciar o serviço ou a assinatura de um cliente
 
@@ -34,7 +34,7 @@ Para gerenciar um serviço ou uma assinatura de um cliente em nome dele, o clien
 
 1.  Selecione **Clientes** e, em seguida, **Solicitar um relacionamento de revendedor**.
 
-2.  Na próxima página, reveja o rascunho da mensagem de email. Abra a mensagem de rascunho no aplicativo de email padrão ou copie a mensagem para a área de transferência e cole-a em um email. 
+2.  Na próxima página, reveja o rascunho da mensagem de email. Você pode abrir a mensagem de rascunho em seu aplicativo de email padrão ou copiar a mensagem para a área de transferência e colá-la em um email. 
 
     >[!IMPORTANT]
     >Você pode editar o texto no email, mas certifique-se de incluir o link, pois ele é personalizado, para vincular o cliente diretamente à sua conta. 

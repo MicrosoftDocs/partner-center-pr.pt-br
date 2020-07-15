@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre os recursos para aumentar seu negócio de parceiros da Microsoft. Isso inclui como obter leads de vendas (referências) da Microsoft.
 keywords: indicações, responder às indicações, leads, leads de vendas, perfil de marketing, perfil de negócios, expandir seus negócios, oportunidades de negócios, competências, associação silver, associação gold, ofertas de avaliação, expansão de mercado, nuvens nacionais
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f221c34ea22eb200bbcf90c5a82beeb51ec3eaae
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 2e783c9881ad314618b7851bd9f877b52727e286
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795816"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390503"
 ---
 # <a name="grow-your-microsoft-partner-business---learn-how-to-get-leads--set-your-company-apart"></a>Amplie seus negócios de parceiros da Microsoft-saiba como obter clientes potenciais & definir sua empresa
 

@@ -5,17 +5,17 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como obter leads de vendas da Microsoft. Uma etapa importante é criar um perfil empresarial no Partner Center que permite que os clientes te encontrem mais facilmente.
-author: LauraBrenner
-ms.author: labrenne
+author: rajap-ms
+ms.author: rajap
 keywords: pinpoint, indicações, vendas potenciais, C2PC, perfil de empresa, comercializar sua empresa, localizar um parceiro, localizar um provedor de soluções, perfil de negócios, perfil de marketing
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 44e81f7a830e32bcc3f11f29e684472751028a1b
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 8e45e3c00bc7dc3657af013bb7edf4cdffac64c9
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991501"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302383"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page

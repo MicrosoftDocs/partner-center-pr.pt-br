@@ -5,17 +5,17 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os parceiros no programa CSP podem vender assinaturas para os clientes e gerenciá-los por meio do Partner Center.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 Keywords: assinaturas, atribuir licença, licença, satisfação do cliente, assinaturas do Azure
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e9902bddfacd2bf8c388e231f928a386fcba4ce
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: eb35353c84e35c3900b76676ed5cf1d908979fb3
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907906"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377440"
 ---
 # <a name="how-csp-program-partners-can-sell-subscriptions-to-customers"></a>Como os parceiros do programa CSP podem vender assinaturas para os clientes
 

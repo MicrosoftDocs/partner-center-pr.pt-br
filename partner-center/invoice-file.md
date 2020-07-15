@@ -3,17 +3,17 @@ title: Entender os campos nas faturas de cobrança
 ms.topic: article
 ms.date: 05/18/2020
 description: Entenda os campos em seu arquivo de nota fiscal para cobrança do Partner Center.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: cobrança, fatura
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 609860227f11c9d4bc2806d87ac7e595e503bf07
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 431ed4224e67312605367709174386327a521052
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991971"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377090"
 ---
 # <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>Faturas de cobrança do Partner Center-saiba como ler a cobrança e os campos de encargo único
 
@@ -50,7 +50,7 @@ Os campos a seguir aparecem nos arquivos da fatura.
 | Termos de pagamento | A condição de pagamento. Para as compras únicas, sempre será 60 dias. |
 | Data de vencimento | A data até a qual seu pagamento deve ser recebido. |
 | OC Cliente | A ordem do número de compra. |
-| Atendimento ao cliente | O endereço do site em que você pode acessar o atendimento ao cliente. |
+| Serviço de atendimento ao consumidor | O endereço do site em que você pode acessar o atendimento ao cliente. |
 | Destinatário de serviço | O endereço em que o serviço está sendo usado. (Este é o endereço da empresa legal associado à empresa habilitação.) |
 
 ## <a name="one-time-charges-fields"></a>Campos de encargos de uma vez

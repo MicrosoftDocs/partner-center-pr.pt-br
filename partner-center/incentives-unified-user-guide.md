@@ -1,22 +1,23 @@
 ---
-title: Acessar sua página de pagamentos de incentivos | Centro de parceiros
+title: Acessar sua página de pagamentos
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Saiba mais sobre como acessar suas informações de pagamento. Isso se aplica a pagamentos de jogos e de aplicativos do Windows, bem como a pagamento de incentivos MPN.
+description: Saiba mais sobre como acessar informações de pagamento para seus aplicativos e jogos do Windows, incentivos de MPN e pagamentos do Marketplace comercial para fornecedores de software independentes.
 author: kim-davis
 ms.author: kimnich
 keywords: Incentivos, pagamento
 ms.localizationpriority: medium
-ms.openlocfilehash: 4da575605baab09c3b1f349b52760e89ae20d746
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: b2ccca4afc16716d24074a30859cf7ab910e6391
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949469"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377720"
 ---
-# <a name="access-your-incentives-payouts-page"></a>Acessar sua página de pagamento de incentivos
+# <a name="access-payouts-pages-for-windows-apps-and-games-mpn-incentives-and-commercial-marketplace-payments"></a>Acessar páginas de pagamento para aplicativos e jogos do Windows, incentivos de MPN e pagamentos do Marketplace comercial
 
 **Funções apropriadas**
 -   Administrador global

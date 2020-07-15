@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 description: Para parceiros do programa CSP, saiba mais sobre as responsabilidades do imposto por região, como enviar isenções fiscais para vendas do CSP e como obter suporte para perguntas sobre impostos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
+author: BillLinzbach
 keywords: imposto, isenção de impostos, IVA, revendedor, cobrança
-ms.author: labrenne
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1236facdfdb1f73f940c36c4a748cc9a1694e72c
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: c02533f69e6d79da435dfa9ef9e4feffc4085571
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991787"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377370"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Leia sobre impostos e detalhes de isenção de imposto por região ou país para parceiros no programa CSP
 
@@ -36,7 +36,7 @@ Se você estiver em outro país ou região que cobra impostos, consulte [as info
 
 Para perguntas adicionais, [solicite suporte no Partner Center](#support).
 
-### <a name="canada"></a>Canada
+### <a name="canada"></a>Canadá
 
 A maioria dos revendedores não está isento de HST/GST/QST. Consulte seu supervisor de imposto para determinar se você está qualificado para isenção e qual documentação você deve fornecer à Microsoft.
 

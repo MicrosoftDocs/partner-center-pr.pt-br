@@ -5,19 +5,19 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: No Partner Center, saiba como vender as assinaturas de clientes para produtos de SaaS publicados no mercado comercial por ISVs (fornecedores independentes de software).
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: assinaturas, Marketplace, terceiros, ISV
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b18b0196b3aa8c3013fe7515b745277db7b55f21
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: 8c862cbe8048881fd8fe223d9afae85c66e7104e
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84426015"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390593"
 ---
-# <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Use o Partner Center para vender assinaturas de clientes para produtos do Marketplace comercial
+# <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Usar o Partner Center para vender assinaturas de produtos do marketplace comercial a clientes
 
 **Aplica-se a**
 

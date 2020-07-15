@@ -4,17 +4,17 @@ description: Como um provedor indireto ou distribuidor, saiba como expandir com 
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: c05ed9aca47b7d232d7d6a0087217850c834e513
-ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
+ms.openlocfilehash: cb7a9bca65bb4fbb8ef9f3fb88a968155bf17ced
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85879383"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377210"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Faça parceria com revendedores indiretos no programa Provedor de Soluções na Nuvem
 
@@ -98,7 +98,7 @@ Para assinaturas existentes, se você decidir trabalhar com um revendedor indire
 
 - Na página detalhes da assinatura, no campo **revendedor (ID do MPN)** , adicione o revendedor com o qual você deseja trabalhar. Isso garante que o revendedor receberá os incentivos apropriados.
 
-| **Para fazer isso** | **Fazer isso** | **Posição** |
+| **Para fazer isso** | **Fazer isso** | **Where** |
 |   ------------------   |   -------   |   -----   |
 | Habilitar o revendedor para gerenciar a conta de um cliente e ter permissões de administrador para gerenciar suas assinaturas | Associar um revendedor para uma conta do cliente ao adicionar um novo cliente | Na página **Novo cliente** |
 | Habilitar o revendedor para gerenciar uma conta de cliente do Azure|Associar um revendedor a uma conta de cliente do Azure ao adicionar um novo cliente|No **Portal de serviço do Azure**, selecione [Configurações de Usuário](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para fornecer permissões de **proprietário locatário** ao revendedor indireto|
@@ -118,7 +118,7 @@ Para remover a parceria com o revendedor indireto existente, siga as etapas abai
 >[!IMPORTANT]
 >Os clientes associados ao revendedor indireto não serão removidos. Todos os privilégios de administrador delegados concedidos permanecerão inalterados.
 >Você representa que a decisão de descontinuar sua relação com o parceiro foi feita em boa fé, para uma finalidade de negócios legítima e de acordo com seu contrato com seu cliente ou parceiro, e você concorda em defender e manter a Microsoft inofensiva de e contra qualquer reivindicação de terceiros para o contrário.
->Você deve fornecer um aviso legal de encerramento para seu cliente ou parceiro se seu contrato exigir. Essa ferramenta não gera aviso ao cliente ou parceiro.
+>Você deverá fornecer um aviso legal de encerramento ao cliente ou parceiro se o contrato assim exigir. Essa ferramenta não gera nenhum aviso ao cliente ou parceiro.
 
 3. O revendedor indireto cuja parceria que você removeu não aparecerá na lista.
 Dependendo do nível de acesso e envolvimento, talvez você queira se comunicar com o revendedor indireto, bem como com o cliente final sobre essa alteração.
