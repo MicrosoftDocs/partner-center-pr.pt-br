@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Compare as principais diferenças entre as ofertas na nova experiência de comércio da Microsoft para parceiros no programa CSP (Provedor de Soluções na Nuvem).
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a68009f213ac31210b5c1c142116e8057231c3ed
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 5160c494dbd6b64fd6f1c29ce7d3ffcf0d83730b
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908734"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377620"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>Comparar as diferenças entre as ofertas do Azure no programa CSP
 
@@ -26,8 +26,11 @@ ms.locfileid: "84908734"
 - Agente de suporte técnico
 - Agente de vendas
 
-A tabela a seguir fornece uma visão geral das principais diferenças entre as ofertas disponíveis por meio do programa CSP (provedor de soluções na nuvem) que fazem parte da nova experiência de comércio da Microsoft.
+Este artigo descreve as principais diferenças entre as ofertas do Azure no programa de CSP (Provedor de Soluções na Nuvem).
 
+## <a name="overview-of-key-differences-between-azure-offers"></a>Visão geral das principais diferenças entre as ofertas do Azure
+
+A tabela a seguir fornece uma visão geral das principais diferenças entre as ofertas do programa CSP que fazem parte da nova experiência de comércio da Microsoft.
 
 |**Oferta**| **Plano do Azure**|**Ofertas do Marketplace de terceiros**|**Reservas do Azure**|**Assinaturas de servidor vendidas por meio de CSP**|**Ofertas baseadas em estação**|
 |-------------------|:------|:-----|:---------|:--------------|:---------|
@@ -44,11 +47,10 @@ A tabela a seguir fornece uma visão geral das principais diferenças entre as o
 
 *A Microsoft fornecerá APIs de lista de preços no quarto trimestre para obter acesso em tempo real programaticamente em preços de medidores do Azure.
 
-**Para obter mais informações**
+## <a name="next-steps"></a>Próximas etapas
 
 - [Migrar para o plano do Azure – introdução](azure-plan-get-started.md)
 
 - [Comprar o plano do Azure](purchase-azure-plan.md)
 
 - [Gerenciar assinaturas e recursos no âmbito do plano do Azure](azure-plan-manage.md)
-

@@ -5,17 +5,17 @@ ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como atualizar ou modificar a assinatura de um cliente. Adicione mais licenças, adicione mais estações ou migre para uma versão diferente com mais serviços.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: adicionar licenças à assinatura existente, adicionar estações à assinatura existente, modificar uma assinatura, alterar uma assinatura, comprar mais licenças para um cliente
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d5cc8e161f2a519d656baceeac51146f638c754
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: fefb11f9e54d1d227bf4cb846c4e324041e0bd4e
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991093"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377300"
 ---
 # <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>Adicionar licenças, estações ou mais serviços à assinatura de um cliente
 
@@ -34,8 +34,7 @@ ms.locfileid: "84991093"
 
 Se seu cliente precisar de mais estações do que a assinatura atual deles fornece ou de uma versão diferente com serviços adicionais, você poderá atualizar a assinatura. Para obter mais detalhes, confira [Alternar para um plano diferente do Microsoft 365 Apps para Pequenos e Médios negócios](https://go.microsoft.com/fwlink/p/?LinkId=723577).
 
-## <a href="" id="upgradesubscription"></a>
-
+## <a name="upgrades-supported-in-the-csp-program"></a>Atualizações compatíveis com o programa CSP <a href="" id="upgradesubscription"></a>
 
 As atualizações a seguir têm suporte no Provedor de Soluções na Nuvem:
 
@@ -85,28 +84,32 @@ As atualizações a seguir têm suporte no Provedor de Soluções na Nuvem:
 
 As assinaturas poderão ser atualizadas se estas condições forem atendidas:
 
--   A assinatura deve estar ativa (não suspensa nem cancelada).
+- A assinatura deve estar ativa (não suspensa nem cancelada).
 
--   Você deve ter delegado privilégios de administrador para este cliente e serviço. Saiba como [Solicitar privilégios de administrador](request-a-relationship-with-a-customer.md).
+- Você deve ter delegado privilégios de administrador para este cliente e serviço. Saiba como [Solicitar privilégios de administrador](request-a-relationship-with-a-customer.md).
 
--   O cliente não pode já ter assinaturas que incluam os serviços adicionais.
+- O cliente não pode já ter assinaturas que incluam os serviços adicionais.
 
--   O cliente não pode já ter as assinaturas para as quais você esteja tentando atualizá-las.
+- O cliente não pode já ter as assinaturas para as quais você esteja tentando atualizá-las.
 
 É possível, nos dois últimos casos, que o cliente tenha comprado essas assinaturas ou esses serviços de outro parceiro ou outro canal, e ele não poderá comprá-los de você, a menos que ele cancele os existentes primeiro. Para obter mais informações, confira [Multicanal](multichannel.md).
 
 Para obter mais informações sobre o impacto que isso terá na cobrança, confira os detalhes sobre como cancelar uma assinatura e adicionar uma nova em [Cenários comuns de cobrança](common-billing-scenarios.md).
 
-**Atualizar uma assinatura**
+## <a name="upgrade-a-subscription"></a>Atualizar uma assinatura
 
-1.  Para ver se uma assinatura é qualificada para atualização, escolha seu cliente e abra a lista de assinaturas dele.
-2.  Se a assinatura pode ser atualizada, você verá um ícone informativo logo após o nome de assinatura. Passe o mouse sobre esse ícone e selecione **Atualizar agora**.
-3.  Selecione a oferta de nova, em seguida, escolha **Enviar**.
-4.  Pode haver trabalho adicional para a transição de algumas contas de usuário para determinados serviços. Em caso afirmativo, o Partner Center fornece uma lista de contas e serviços que foram afetados. Para obter ajuda, consulte o artigo da base de dados de conhecimento [Problemas ao reatribuir licenças enquanto você alterna planos no Office 365](https://go.microsoft.com/fwlink/p/?LinkId=723576).
+1. Para ver se uma assinatura é qualificada para atualização, escolha seu cliente e abra a lista de assinaturas dele.
 
- 
+2. Se a assinatura pode ser atualizada, você verá um ícone informativo logo após o nome de assinatura. Passe o mouse sobre esse ícone e selecione **Atualizar agora**.
 
- 
+3. Selecione a oferta de nova, em seguida, escolha **Enviar**.
 
+4. Pode haver trabalho adicional para a transição de algumas contas de usuário para determinados serviços. Em caso afirmativo, o Partner Center fornece uma lista de contas e serviços que foram afetados. Para obter ajuda, consulte o artigo da base de dados de conhecimento [Problemas ao reatribuir licenças enquanto você alterna planos no Office 365](https://go.microsoft.com/fwlink/p/?LinkId=723576).
 
+## <a name="next-steps"></a>Próximas etapas
 
+- [Alternar para um plano diferente do Microsoft 365 for Business](https://go.microsoft.com/fwlink/p/?LinkId=723577)
+
+- [Solicitar privilégios de administrador delegado](request-a-relationship-with-a-customer.md)
+
+- [Saiba mais sobre cenários comuns de cobrança](common-billing-scenarios.md)
