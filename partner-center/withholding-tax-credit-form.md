@@ -7,15 +7,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
-keywords: crédito de retenção de imposto, créditos de impostos, formulário de crédito de imposto alemão, certificados de imposto
+keywords: crédito de retenção de imposto, créditos fiscais, formulário de crédito de imposto alemão, certificados de imposto, créditos
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b232526a213a06e2c11001131241dd5be554770
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3992254595024635ab4200456537366d5c5cc52d
+ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949573"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86405517"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>Verifique se você está creditado na retenção de imposto se pagar uma autoridade de imposto local em vez da Microsoft
 
@@ -40,7 +40,7 @@ Siga estas etapas para enviar uma nova retenção de imposto:
 
 2. No menu à esquerda, escolha **cobrança** e vá para histórico de **cobrança**.
 
-3. Clique em **Enviar novo** , que levará você para a nova página de **solicitação de retenção de imposto** .
+3. Clique em **Enviar novo** que levará você para a nova página de **solicitação de retenção de imposto** .
 
    :::image type="content" source="images/wht1.png" alt-text="Enviar nova retenção de imposto para uma fatura":::
 

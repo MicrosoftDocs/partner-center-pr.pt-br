@@ -1,21 +1,20 @@
 ---
 title: Gerenciamento de não pagamento, fraude ou uso indevido
+description: É importante saber mais sobre os vários riscos envolvidos em transações online e as práticas recomendadas para gerenciar e atenuar esses riscos.
 ms.topic: article
-ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: É importante saber mais sobre os vários riscos envolvidos em transações online e as práticas recomendadas para gerenciar e atenuar esses riscos.
-keywords: fraude, uso indevido, uso aceitável, política de uso aceitável, falta de pagamento, cliente não paga a conta, risco online, roubo de serviço, abuso do serviço, suspender uma assinatura,
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b08fc6a94f91be978802a6bf850b46189ea740f
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.date: 07/14/2020
+ms.openlocfilehash: ad0ef9c7aa242645ed0ffef0d5bbb07521edbc72
+ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377800"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86405557"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gerenciamento de não pagamento, fraude ou uso indevido no Partner Center
 
@@ -87,7 +86,7 @@ Sugestões para reduzir riscos online ao integrar novos clientes incluem:
 As sugestões para gerenciar contas de clientes após a compra incluem:
 
 - Implemente um processo para receber, revisar, agir e responder às notificações da Microsoft rapidamente.
-- Trabalhe com os clientes para entender suas necessidades de negócios de uso de nuvem enquanto configurações limites de monitoramento apropriados. (Por exemplo, você pode [definir um orçamento mensal de gastos do Azure](set-an-azure-spending-budget-for-your-customers.md) no Partner Center. Isso permite que você monitore o uso do cliente durante o mês e seja notificado quando os clientes estiverem próximos do orçamento.)
+- Trabalhe com os clientes para entender suas necessidades de negócios de uso de nuvem enquanto configurações limites de monitoramento apropriados. (Por exemplo, você pode [definir um orçamento mensal de gastos do Azure](set-an-azure-spending-budget-for-your-customers.md) no Partner Center. Essa compreensão permite que você monitore o uso do cliente durante o mês e seja notificado quando os clientes estiverem próximos do orçamento.)
 - Monitore [os logs de atividade do cliente](activity-logs.md) regularmente para ajudar a detectar fraudes antecipadamente.
 - Faça uma ação rápida quando atividades suspeitas forem detectadas.
 - Evite dar aos clientes acesso administrativo total a assinaturas sem primeiro implementar os controles de mitigação de risco.
@@ -100,4 +99,4 @@ As sugestões para gerenciar a cobrança de cliente após a compra incluem:
 - Não aceite instrumentos de pagamento de alto risco (como cartões pré-pagos ou cartões de valores armazenados).
 - Monitore pagamentos de clientes e contas a receber de vencimento. Impor agressivamente processos cobrança padronizados para pagamentos atrasados ou não de pagamento.
 
-Para mais estratégias mais detalhadas de atenuação de risco online, consulte o [Guia de gerenciamento de risco de transação online.](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)
+Para mais estratégias mais detalhadas de atenuação de risco online, consulte o [Guia de gerenciamento de risco de transação online.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt)
