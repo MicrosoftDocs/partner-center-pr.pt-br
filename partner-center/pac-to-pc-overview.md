@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: A funcionalidade Centro de Administração do Parceiro do Office 365 está mudando para o Partner Center.
 author: LauraBrenner
 ms.author: labrenne
-Keywords: PAC, Office 365 Advisor, Advisor, parceiro de distribuição, desativação de PAC, PAC
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5c1c7fd216c96fec12d94c94d5fcf2367ce266ea
-ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
+ms.openlocfilehash: 0a96375c26468c130ec14e41f83eb8a1d35daa58
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85879319"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434155"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>O Centro de Administração do Parceiro está migrando para o Partner Center
 

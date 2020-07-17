@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Saiba o que fazer se você não conseguir entrar no Partner Center-inclui informações sobre como redefinir a senha da conta corporativa ou a senha da conta de estudante se você a esqueceu.
 author: parthpandyaMSFT
 ms.author: parthp
-Keywords: problemas de conexão, senha esquecida, senha
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 898fa832855744bf0c846b7d64391a92de5e5b4f
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 76c16d7f40bac4a01f90df3dfe289cf92f588462
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265046"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436505"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>Se você não puder entrar no Partner Center e precisar redefinir sua senha
 
@@ -27,7 +26,7 @@ Depois que a senha da conta corporativa tiver sido redefinida, você poderá ace
 
 ## <a name="see-more"></a>Ver mais
 
-- [Verifique as informações da sua conta](verification-responses.md)
-- [Redefinir a minha senha](reset-my-pasword.md)
+- [Verifique as informações da conta](verification-responses.md)
+- [Redefinir minha senha](reset-my-pasword.md)
 - [Redefinir uma senha de usuário](reset-a-user-password.md)
 

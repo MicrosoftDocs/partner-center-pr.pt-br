@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Saiba mais sobre o suporte para produtos ou assinaturas de ISVs de terceiros no Marketplace comercial do programa CSP.
 author: rbars
 ms.author: rbars
-keywords: assinaturas, produtos, Marketplace, terceiros, ISV, Publicador, suporte, CSP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c6fccc14cd01d8131933e3e957a7a3f64801866
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 86ae657725717fea06a6fdb18cadc069e9140ffa
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947675"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435035"
 ---
 # <a name="support-for-commercial-marketplace-products-in-the-csp-program"></a>Suporte para produtos do Marketplace comercial no programa CSP
 

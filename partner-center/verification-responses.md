@@ -1,5 +1,5 @@
 ---
-title: Verifique as informações da sua conta
+title: Verifique as informações da conta
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Siga o status de sua verificação de conta ao tentar se registrar em um novo programa do Partner Center. Saiba como fornecer informações adicionais, se necessário.
 author: parthpandyaMSFT
 ms.author: parthp
-Keywords: verificação, verificação, rejeitada, atualização de perfil de parceiro
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a4f5f44788c618386835d69fa435596b95cdcd62
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 0b3a82e53c4947cdfd761fd2a9e0d998ca0d5c3a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265024"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436435"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Verifique as informações da sua conta ao se registrar em um novo programa do Partner Center
 

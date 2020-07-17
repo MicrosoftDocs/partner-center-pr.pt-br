@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Saiba como os parceiros da Microsoft qualificados podem responder a referências, gerenciar referências novas, existentes e arquivadas e obter mais referências no futuro.
 author: rajap-ms
 ms.author: rajap
-keywords: indicação, RFI, localizar um parceiro
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb9a175016c27896c467ffe78d692c162e41c41f
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: f26e80d3850ca3fb227605d5c7582e729a95e00b
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302243"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436595"
 ---
 # <a name="respond-to-referrals-and-get-potential-business-leads"></a>Responder às referências e obter leads potenciais de negócios
 
@@ -81,3 +80,7 @@ Veja algumas dicas para ajudar você a obter mais indicações adequadas para se
 - **Seja seletivo com as negociações que você aceita**. Nós monitoramos os tipos de negociações que você aceita ou recusa e usamos essas informações para ajudar a localizar negociações semelhantes. Aceitar as negociações que não são uma boa opção não melhorará os resultados da pesquisa e poderá afetar a qualidade dos clientes potenciais recebidos.
 
 - **Relatar o status final de negociações, datas de fechamento e o status final de suas negociações** (ganhas ou perdidas). Usaremos essas informações para continuar a fornecer referências de qualidade.
+
+## <a name="next-steps"></a>Próximas etapas
+
+-[Gerenciar clientes potenciais](manage-leads.md)

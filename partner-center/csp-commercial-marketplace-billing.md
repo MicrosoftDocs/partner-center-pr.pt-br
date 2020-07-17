@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Saiba como a cobrança funciona para produtos SaaS de ISV ou assinaturas adquiridas para clientes do Marketplace comercial no Partner Center.
 author: rbars
 ms.author: rbars
-keywords: assinaturas, produtos, compras, Marketplace, terceiros, ISV, cobrança, faturas, reconciliação, arquivo reconhecimento
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: af02c5e0d9f824bfe2e5d5e67e5582a3c92c74ed
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 7625488266aab3eb8d1797a99847eaec56ced36f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947813"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435135"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Cobrança de produtos e assinaturas do Marketplace comercial no Partner Center
 

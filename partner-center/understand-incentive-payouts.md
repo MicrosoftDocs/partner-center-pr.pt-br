@@ -7,15 +7,14 @@ ms.subservice: partnercenter-incentives
 description: Use essas páginas para exibir, gerenciar e exportar detalhes de pagamento e de ganhos, bem como o status do programa e o histórico de transações completas.
 author: kim-davis
 ms.author: kimnich
-keywords: incentivos, pagamentos, pagamentos, programa de incentivo, locais, status do programa
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: cfbca13e9abb4bd474923cf7e9dabf6bb2ac85a2
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 2ffd5168f0bcad08502a8afe751e568b34f394b1
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377290"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436485"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Exibir, gerenciar e exportar os detalhes do programa de incentivos
 
@@ -197,7 +196,7 @@ Além da tabela acima, esses campos de histórico de transações estarão dispo
 |subscriptionId   |Identificador de assinatura associado ao cliente   |
 |subscriptionStartDate   |Data de início da assinatura   |
 |subscriptionEndDate   |Data de término da assinatura   |
-|offerId   |A ser definido   |
+|offerId   |TBD   |
 |resellerId   |Identificador do revendedor   |
 |resellerName   |Nome do revendedor   |
 |distributorId   |Identificador do distribuidor   |

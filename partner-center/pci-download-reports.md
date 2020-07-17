@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Explore o painel de relatório unificado do Partner Center.
 author: shthota77
 ms.author: shthota
-Keywords: Análises do Partner Center, relatórios, relatórios de download
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 42be29d69d5d4937d984047f4c75e357aa4d436d
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 311cff645487d613ed23d2109ed195822f8e021a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948868"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436675"
 ---
 # <a name="download-reports"></a>Baixar relatórios
 

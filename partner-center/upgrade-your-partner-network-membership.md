@@ -10,12 +10,12 @@ robots: noindex,nofollow
 ms.localizationpriority: medium
 ms.date: 03/19/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a69a7486ea40f5a52dca8cf0de4109bee3bda5e2
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: dac4c066df7022489cc43694450f5ae4aa7027a4
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603875"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436475"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership-and-explore-new-offers-programs-and-resources"></a>Atualize sua associação de Microsoft Partner Network e Explore novas ofertas, programas e recursos
 
@@ -109,7 +109,7 @@ Para obter mais informações sobre o Microsoft Action Pack, acesse [https://par
 
 Para cancelar sua assinatura do Microsoft Action Pack, você deve contatar o suporte do Partner Center.
 
-1. Vá para [https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support).
+1. Acesse [https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support).
 
 2. Selecione **Relatar os problemas com o Partner Center** e, em seguida, selecione **Nova solicitação** na próxima página.
 

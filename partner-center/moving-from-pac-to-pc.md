@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Ao mudar do PAC (centro de administração do parceiro) para o Partner Center, saiba como gerenciar a associação do programa CSP, as indicações do cliente, os incentivos e muito mais.
 author: LauraBrenner
 ms.author: labrenne
-keywords: PAC, administração do Office 365, recursos do PAC
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1493ed93b70e8c716c339f8e93b471f181acb6af
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 0af8cb253554f67edd1b53f01f2a440ae27939f1
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795742"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434335"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Migração do PAC (Centro de Administração do Parceiro) para o Partner Center
 

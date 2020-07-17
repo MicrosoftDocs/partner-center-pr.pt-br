@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Usando o Partner Center, saiba como os provedores de soluções na nuvem podem gerenciar ofertas de ISV de terceiros adquiridas para clientes do mercado comercial.
 author: rbars
 ms.author: rbars
-keywords: assinaturas, Marketplace, terceiros, ISV, ofertas de SaaS, programa de provedor de soluções na nuvem, gerenciar uma oferta, gerenciar uma assinatura, licenças, cancelar uma assinatura, estações, desativar renovação automática, ID de MPN do revendedor indireto
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a2d64a18410ac5a668d7ace8f236716df21eb2bc
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 076cd97dcecc706b9cd47ffc4a4227c93d20d632
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947755"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435085"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Gerenciar produtos e ofertas do Marketplace comercial para seus clientes
 

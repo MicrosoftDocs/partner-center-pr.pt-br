@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Saiba quando e onde os clientes podem executar o autoatendimento para gerenciar suas próprias contas e quando devem entrar em contato com seu parceiro de provedor de soluções na nuvem.
 author: brentserbus
 ms.author: brserbus
-keywords: suporte autônomo do cliente, suporte autônomo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10100e6b268335ace2d2f5329619a7e99c8a24a1
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 2b52799639c99073ef82d1458362f74051b52990
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947628"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434835"
 ---
 # <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Auto-suporte ao cliente por meio do centro de administração Microsoft Office 365 ou por meio do portal do Azure
 

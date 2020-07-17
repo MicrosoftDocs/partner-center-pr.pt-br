@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre as funções específicas necessárias para ver os relatórios de informações do Partner Center. Isso inclui as funções do Visualizador de relatórios executivo e do Visualizador de relatórios.
-keywords: PCI, desempenho, sucesso do cliente, medições, funções
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aaa3552a7c0a3d15674ac0178fc98375b9cd1b0b
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 5a9df2b6f67ca4e825da2c273c82d7cd46763f1b
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948726"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436635"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Controle de acesso baseado em função para o painel do recepções do Partner Center
 

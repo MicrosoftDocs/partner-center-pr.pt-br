@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Os parceiros do MPN podem aprender sobre os dois níveis de contas no Partner Center, a conta global do parceiro (PGA) e a conta de localização do parceiro (PLA).
 author: parthp
 ms.author: parthp
-keywords: ''
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5aeb8daebbb27492981945573126733a0ccbcd35
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 326f46af86c890c6f34460669ec167399515014d
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947477"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436405"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>O Partner Center tem dois níveis de contas para parceiros MPN
 

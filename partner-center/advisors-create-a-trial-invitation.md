@@ -7,14 +7,13 @@ description: Saiba como os parceiros podem criar e enviar convites de avaliaçã
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-keywords: Advisor, Office 365, avaliação
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 9726fc9316f33cf35f91a7db60a64689bccc0617
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 04fb03ab49b68023898b44a9ec6ffad2b1f76a8e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458352"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436225"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Consultores: Crie e envie um convite de avaliação para que os clientes experimentem o Office 365
 

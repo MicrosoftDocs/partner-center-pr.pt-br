@@ -5,15 +5,14 @@ ms.date: 05/05/2020
 description: Cobrança anual do Partner Center-quando você adiciona novas assinaturas, adicione licenças antes da data de cobrança, altere a quantidade de licenças ou suspenda/reative as assinaturas.
 author: sodeb
 ms.author: sodeb
-Keywords: cobrança, pagamentos, pedidos, uso, cobrança baseada em licença, data de aniversário, termo, cancelamento, renovação, fórmula de preço, arquivo de reconciliação, arquivo reconhecimento
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ab6eabf44e5d3811721993e20b78e3038c80e828
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 086a7d359e1b903684af4ecddac37eda584e55f8
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948041"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435455"
 ---
 # <a name="common-annual-billing-scenarios-in-partner-center"></a>Cenários comuns de cobrança anual no Partner Center
 
@@ -30,7 +29,7 @@ Esses [cenários de cobrança comuns](common-billing-scenarios.md) de exemplo s�
 
 Sua data de cobrança é no 15º dia de cada mês. Em 13 de janeiro, você compra uma nova assinatura com uma licença por US$4/mês e seleciona a cobrança anual. Em 15 de janeiro, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
 
-|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Amount |
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Quantidade |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/01/2018|12/01/2019|Taxas proporcionais na compra|48,00|1|48,00
 
@@ -42,7 +41,7 @@ Você compra uma nova assinatura dia 11/02/17 com uma licença por US$ 211,20/a
 
 Em 12/02/17, você compra uma segunda licença. Sua data de cobrança é 14/02/17. Os arquivos de fatura e reconciliação são gerados. O arquivo de reconciliação conterá as seguintes linhas de cobrança:
 
-|Data de Início da Cobrança  |Data de Término da Cobrança  |Tipo de Cobrança  |Preço Unitário |Quantidade | Amount |
+|Data de Início da Cobrança  |Data de Término da Cobrança  |Tipo de Cobrança  |Preço Unitário |Quantidade | Quantidade |
 |      :---:   |      :---:   |      :---:   |      :---:   |:---:   |:---:   |
 |11/02/2017 |10/02/2018 |Taxas proporcionais na compra |211,20 |1 | 211,20 |
 
@@ -57,7 +56,7 @@ Em 11/02/17, você compra um assinatura. Em 12/02/17, você adiciona uma licenç
 
 A próxima data de cobrança é 14/03/17, e os arquivos de fatura e reconciliação são gerados. O arquivo de reconciliação conterá as seguintes linhas de cobrança:
 
-|Data de Início da Cobrança  |Data de Término da Cobrança  |Tipo de Cobrança  |Preço Unitário |Quantidade | Amount |
+|Data de Início da Cobrança  |Data de Término da Cobrança  |Tipo de Cobrança  |Preço Unitário |Quantidade | Quantidade |
 |      :---:   |      :---:   |      :---:   |      :---:   |:---:   |:---:   |
 |11/02/2017 |10/02/2018 |Proporcional à Instância do Ciclo |-211,20 |1 |-211,20 |
 |11/02/2017 |11/02/2017 |Proporcional à Instância do Ciclo |0,58 |1 |0,58 |
@@ -70,13 +69,13 @@ Em 11/02/18, a assinatura será renovada por outro período de 12 meses.
 
 Sua data de cobrança é no 15º dia de cada mês. Em 13 de janeiro, você compra uma nova assinatura com uma licença por US$4/mês e seleciona a cobrança anual. Em 15 de janeiro, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
 
-|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Amount |
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Quantidade |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/01/2018|12/01/2019|Taxas proporcionais na compra|48,00|1|48,00
 
 Em 1º de fevereiro, você aumentará sua quantidade de licença de uma para duas. Em 15 de fevereiro, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
 
-|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Amount |
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Quantidade |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/01/2018|12/01/2019|Proporcional à Instância do Ciclo|-48,00|1|-48,00
 13/01/2018|31/01/2018|Proporcional à Instância do Ciclo|2.47|1|2.47
@@ -98,13 +97,13 @@ Portanto, o preço unitário = 44,98 (346 x 0,13 x 2)
 
 Sua data de cobrança é no 15º dia de cada mês. Em 13 de janeiro, você compra uma nova assinatura com uma licença por US$4/mês e seleciona a cobrança anual. Em 15 de janeiro, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
 
-|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Amount |
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Quantidade |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/01/2018|12/01/2019|Taxas proporcionais na compra|48,00|1|48,00
 
 Em 1º de fevereiro, você suspende sua assinatura. Em 15 de fevereiro, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
 
-|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Amount |
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Quantidade |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/01/2018|12/01/2019|Taxa de cancelamento|-48,00|1|-48,00
 
@@ -112,14 +111,14 @@ Em 1º de fevereiro, você suspende sua assinatura. Em 15 de fevereiro, o arquiv
 
 Sua data de cobrança é no 15º dia de cada mês. Em 13 de janeiro, você compra uma nova assinatura com uma licença por US$4/mês e seleciona a cobrança anual. Em 15 de janeiro, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
 
-|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Amount |
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Quantidade |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/01/2018|12/01/2019|Taxas proporcionais na compra|48,00|1|48,00
 
 Em 15 de fevereiro, o arquivo de reconciliação baseado em licenças não conterá nenhuma linha de cobrança para essa assinatura.
 Em 1º de março, você suspende sua assinatura. Em 15 de março, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
 
-|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Amount |
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Quantidade |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 01/03/2018|12/01/2019|Taxa de cancelamento|-41,34|1|-41,34
 
@@ -135,19 +134,19 @@ Portanto, o preço unitário = 41,34 (318 x 0,13 x 1). Como isso é um crédito,
 
 Sua data de cobrança é no 15º dia de cada mês. Em 13 de janeiro, você compra uma nova assinatura com uma licença por US$4/mês e seleciona a cobrança anual. Em 15 de janeiro, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
 
-|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Amount |
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Quantidade |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/01/2018|12/01/2019|Taxas proporcionais na compra|48,00|1|48,00
 
 Em 1º de fevereiro, você suspende sua assinatura. Em 15 de fevereiro, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
 
-|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Amount |
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Quantidade |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/01/2018|12/01/2019|Taxa de cancelamento|-48,00|1|-48,00
 
 Em 1º de março, você reativa sua assinatura. Em 15 de março, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
 
-|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Amount |
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Quantidade |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 01/03/2018|12/01/2019|Taxas proporcionais na compra|41,34|1|41,34
 

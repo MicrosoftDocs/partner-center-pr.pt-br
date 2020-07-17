@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Saiba como exibir e exportar logs de atividade para obter informações sobre transações de conta de cliente e outras atividades de gerenciamento de parceiros relacionadas ao cliente.
 author: dineshvu
 ms.author: dineshvu
-Keywords: logs de atividades, assinatura, assinaturas, pagamentos, cobrança, transações
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eda13a4a08c30cea5a6e9f20881bcf4a68f0b7b6
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 06cc76ee5689bbce5e8017f6bc5a664ff130c1ec
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175996"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436395"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Exibir ou exportar logs de atividades do cliente para obter mais informações sobre as transações do cliente
 

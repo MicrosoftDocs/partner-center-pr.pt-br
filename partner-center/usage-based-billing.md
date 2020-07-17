@@ -5,15 +5,14 @@ ms.date: 06/05/2020
 Description: Saiba mais sobre a cobrança baseada em uso no Partner Center, em que você será cobrado por taxas de uso mensais.
 author: sodeb
 ms.author: sodeb
-keywords: cobrança, uso com base no uso
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e75e915d4728d021856b099b7c62434f6481254
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 4b3c3626bea685a8751ffcc5aa877fd95824e693
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949086"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436455"
 ---
 # <a name="understand-usage-based-billing-for-monthly-pay-as-you-go-consumption-of-services"></a>Entenda a cobrança baseada em uso para consumo mensal de serviços por meio de pagamento
 

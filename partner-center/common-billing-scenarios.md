@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Explore a cobrança ao adicionar novas assinaturas, ajustar a quantidade de licenças ou cancelar uma assinatura. Veja como as assinaturas baseadas em uso e licença são diferentes.
 author: sodeb
 ms.author: sodeb
-Keywords: cobrança, pagamentos, pedidos, uso, cobrança baseada em licença, data de aniversário, termo, cancelamento, renovação, fórmula de preço, arquivo de reconciliação, arquivo reconhecimento
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d79361271424de92a85ac7819353c8d2e906cdb6
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ff289f2fd93030e3ed7055b17ad696b6700fe3aa
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947926"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435335"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Cenários de cobrança comuns para parceiros do programa CSP trabalhando no Partner Center
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Saiba mais sobre os requisitos de qualificação para cada contrato de serviços de planejamento do Software Assurance que uma empresa pode desejar oferecer a clientes corporativos.
 author: ArpithaKanuganti
 ms.author: v-arkanu
-Keywords: pré-implantação, planejamento, Software Assurance, envolvimentos, requisitos, qualificação, oferta
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 491f685867a529047405df8941e8abdebf8c91ba
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 1ab8d3fd15fcd0d50e3bf6ff89865c4dd402e679
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390203"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436545"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Exibir requisitos de qualificação para contratos de serviços de planejamento
 

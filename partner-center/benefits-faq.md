@@ -1,23 +1,22 @@
 ---
-title: Perguntas frequentes sobre benefícios
+title: Perguntas frequentes sobre os benefícios
 ms.topic: article
 ms.date: 06/17/2020
 description: Respostas para perguntas sobre a expiração do benefício, a renovação e a ativação de licenças para o Azure, nuvem, Visual Studio e benefícios técnicos e de suporte
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
-keywords: benefícios, expiração, expiração, renovação, assinatura, licença, estender
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 6050dc81a192d924ce9d1203ed435f8983bb1b26
-ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
+ms.openlocfilehash: 9449778c184ab9e64abfd908fd5f8708f752f44a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "85072773"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435625"
 ---
-# <a name="benefits-faq"></a>Perguntas frequentes sobre benefícios
+# <a name="benefits-faq"></a>Perguntas frequentes sobre os benefícios
 
 Aplica-se a:
 

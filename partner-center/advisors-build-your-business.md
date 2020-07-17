@@ -7,14 +7,13 @@ description: Saiba como os consultores da Microsoft autorizados podem aumentar s
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
-keywords: Advisor, Office 365
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6a299fe3c4e65a1752a53053e0071c980b5246d5
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 2c1dc96c2947da8ab37787e406d40400071a3b31
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947431"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436255"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Consultores: Crie sua base de clientes com convites para avaliação do Office 365 e ofertas de compra
 

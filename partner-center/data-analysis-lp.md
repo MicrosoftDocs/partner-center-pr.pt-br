@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Saiba como usar a análise no Partner Center para entender melhor seus negócios e como seus clientes usam as licenças que você comprou.
 author: shthota77
 ms.author: shthota
-keywords: dados, análise, análise de dados, power bi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f69fc08712ca13a9593383c0a629382b0eb3b023
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 176f09a2acfeab7566f58f3177f1b052d9cb5968
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947600"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434735"
 ---
 # <a name="use-analytics-to-learn-more-about-customer-license-use-and-how-you-can-help-meet-their-needs"></a>Use a análise para saber mais sobre o uso de licença de cliente e como você pode ajudar a atender às suas necessidades
 
@@ -52,7 +51,7 @@ No Partner Center, somente o administrador do parceiro MPN tem acesso à anális
 |**Para obter dados sobre**   |**Baixe isto**   |**Leia isto**   | **Aplica-se a**    |
 |---------------------|:-----------------------|:---------------|:--------------|
 |Como os clientes estão usando as licenças adquiridas   |Dados de implantação e uso do Partner Center => análise de produto   |[Aumentar a adoção e a satisfação](increasing-adoption-and-satisfaction.md)|Parceiros CSP|
-|Atividade do cliente em relação a assinaturas   |Logs de atividade   |[Exibir logs de atividades do cliente](activity-logs.md)|Parceiros CSP   |
+|Atividade do cliente em relação a assinaturas   |Logs de atividades   |[Exibir logs de atividades do cliente](activity-logs.md)|Parceiros CSP   |
 |Crescimento da base de clientes, uso, consumo do Azure e muito mais   |Aplicativo do Partner Center para Power BI   |[Aplicativo de análise do Partner Center para o Power BI (parceiros diretos no CSP)](power-bi-app-for-direct-partners.md)|Parceiros diretos CSP|
 
 

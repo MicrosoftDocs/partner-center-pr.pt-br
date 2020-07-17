@@ -5,15 +5,14 @@ ms.date: 05/18/2020
 Description: Saiba como a cobrança baseada em licença difere da cobrança baseada em uso no Partner Center, incluindo como você é cobrado por licença (não por uso de licença).
 author: sodeb
 ms.author: sodeb
-keywords: cobrança, pagamentos, licença baseada em licença
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b3f2e982d82731159b20014dbcc7ee10cf9f73b9
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 17cdb74dfded2c9c10cc4d648d8941b25a27e57b
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377700"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434375"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Cobrança baseada em licença no Partner Center
 

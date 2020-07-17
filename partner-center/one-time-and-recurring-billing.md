@@ -5,15 +5,14 @@ ms.date: 05/26/2020
 Description: Saiba mais sobre a cobrança do Partner Center, como cobrança única com antecedência para termos predefinidos e cobrança de encargos selecionados e recorrentes.
 author: sodeb
 ms.author: sodeb
-keywords: cobrança, de uso único, recorrente, compras, encargos, ISV
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9720d06d42025ee69c52afb893e4a6b6fee4a28f
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 7a5c7a9c756067c75e27e05768718436afc101bd
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390243"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434125"
 ---
 # <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>Cobrança por uma única vez e selecionar encargos recorrentes no Partner Center
 

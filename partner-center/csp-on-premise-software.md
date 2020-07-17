@@ -7,16 +7,14 @@ ms.subservice: partnercenter-csp
 description: Saiba como os parceiros no programa CSP podem comprar, gerenciar, vender e cancelar assinaturas de software local em nome dos clientes no Partner Center.
 author: BillLinzbach
 ms.author: BillLi
-keywords: Provedor de Soluções na Nuvem, CSP, serviços baseados em nuvem, Azure, Office 365, Dynamics, parceiro CSP, vender no CSP, parceiro direto, parceiro CSP direto, revendedor CSP indireto, CSP direto, CSP indireto, modelo direto, modelo indireto, revendedor indireto, provedor indireto, provedor, distribuidor, programa provedor de soluções na nuvem
-robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecea7dcaa30f95a0156681e6d74b80382cfd66fe
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 79448a366665a5ace8ed230aee685c40c0465b85
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377591"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434935"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Vender software local por meio do programa CSP (provedor de soluções na nuvem)
 
@@ -55,16 +53,17 @@ Depois de adquirir seu software, você e seus clientes precisarão baixá-lo. Us
 
 
 ## <a name="cancel-a-purchase"></a>Cancelar uma compra
+
 Use o procedimento a seguir para cancelar uma compra. Depois que o cancelamento for concluído, a chave de software será revogada. 
 
 >[!NOTE]
 >Você precisa ser um Agente administrativo para cancelar uma compra. 
 
 1.  Antes do início do processo, verifique se você tem o seguinte: 
-    -   O GUID do locatário do cliente ou o nome de domínio
-    -   ID do Pedido ou ID da assinatura
-    -   Motivo do reembolso
-    -   Valor solicitado
+    - O GUID do locatário do cliente ou o nome de domínio
+    - ID do Pedido ou ID da assinatura
+    - Motivo do reembolso
+    - Valor solicitado
 
 2.  Na página detalhes do cliente, selecione **software**. Você verá uma lista de todos os softwares que comprou. 
 

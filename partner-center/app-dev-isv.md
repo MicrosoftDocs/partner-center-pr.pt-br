@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Para parceiros com uma competência anterior de ISV, saiba como obter uma isenção de requisitos de exame único para a competência do desenvolvimento de aplicativos
 author: LauraBrenner
 ms.author: labrenne
-keywords: competências, ISV, desenvolvimento de aplicativos
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e7f0024bbd52e6f6a449f9d8965f25499bb4a7a0
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 39fd6fea1845edbb520cfd9d9c6ebe985765716b
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452723"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436075"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>A isenção de requisitos de exames one-time para a competência de desenvolvimento de aplicativos
 

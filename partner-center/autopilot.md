@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Antes de entregar um novo dispositivo do cliente, você pode usar os perfis do Windows AutoPilot para personalizar ou pré-configurar a OOBE (configuração inicial do usuário) do dispositivo.
 author: BillLinzbach
 ms.author: BillLi
-keywords: piloto automático, piloto automático do Windows, Microsoft AutoPilot, implantação Zero Touch, OOBE, telas de logon, pronto para uso
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 85750e58efb7f79612a666f556cddff27db28d76
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: dc063dad26a78833084487d80db9c86c3145953e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377660"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435925"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Usar perfis do Windows AutoPilot em novos dispositivos para personalizar a experiência de uso inicial do cliente
 

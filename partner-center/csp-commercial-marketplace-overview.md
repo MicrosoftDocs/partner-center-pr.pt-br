@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Saiba como vender assinaturas de clientes para ofertas de software como serviço (SaaS) de fornecedores independentes de software (ISVs) no Marketplace.
 author: rbars
 ms.author: rbars
-keywords: assinaturas, Marketplace, terceiros, ISV, SaaS, licença
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96e8001294112bdc5af59512fe04c282a09430bb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: fa66390ef899d3c6a3fd4c25b040c858a1ecb2be
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947727"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435065"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Visão geral do Marketplace comercial no Partner Center
 
@@ -69,7 +68,7 @@ Acesse [noções básicas de cobrança](billing-basics.md) para saber mais sobre
 
 Para saber onde concluir uma atividade específica do Marketplace para ofertas de ISV baseadas em licença ou em uso, consulte as tabelas a seguir.
 
-|**Para ofertas de SaaS baseadas em licença de ISVs**  |**Uso**  |
+|**Para ofertas de SaaS baseadas em licença de ISVs**  |**Utilizá**  |
 |:------------------------------------|:------------------|
 |Para descobrir ou Pesquisar ofertas disponíveis  | Painel do Partner Center ou APIs do Partner Center  |
 |Para comprar uma oferta  | Painel do Partner Center ou APIs do Partner Center  |
@@ -77,7 +76,7 @@ Para saber onde concluir uma atividade específica do Marketplace para ofertas d
 |Para cancelar/renovar as assinaturas de oferta ou adicionar/remover estações | Painel do Partner Center ou APIs do Partner Center  |
 |Para criar usuários ou gerenciar permissões  | Site ou sistema do ISV Publisher  |
 
-|**Para ofertas baseadas em uso de ISVs**  |**Uso**  |
+|**Para ofertas baseadas em uso de ISVs**  |**Utilizá**  |
 |:------------------------------------|:------------------|
 |Para descobrir ou Pesquisar ofertas disponíveis  | Painel do Partner Center, APIs do Partner Center ou portal do Azure  |
 |Para comprar uma oferta  | Portal do Azure  |

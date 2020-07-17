@@ -5,17 +5,16 @@ ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Descubra maneiras de melhorar seus negócios. Veja suas tendências específicas do cliente por geografia, por produto e outros atributos.
-keywords: PCI, desempenho, sucesso do cliente, medições,
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0680a1f88517e12fc1625593f9fb34cc7cc66b81
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: f4aca8154965bbce3c4d2c100478756f6e9dd1e4
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949363"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434455"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Relatórios do painel de clientes de insights do Partner Center
 
@@ -35,7 +34,7 @@ O painel clientes tem as seguintes seções:
 
 A seção de resumo apresenta uma exibição de instantâneo de vários KPIs relacionados a seus clientes, como clientes, clientes ativos, assinaturas, adições de clientes, clientes com rotatividade e clientes de cada produto. Os filtros de nível de página são aplicáveis a cada seção.
 
-**Utilizam**
+**Clientes**
 
 - Contagem atual de todos os clientes que sua organização está associada por meio de diferentes tipos de atribuição em todos os produtos de nuvem, como Office, Azure, Dynamics, etc. Um cliente será contado se tiver pelo menos uma assinatura com status ativo.  
 - Recusar% de clientes durante o intervalo de datas selecionado 

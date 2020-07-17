@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Saiba mais sobre as oportunidades do provedor de soluções na nuvem para adquirir, provisionar e gerenciar reservas do Azure e assinaturas de servidor para clientes.
 author: rbars
 ms.author: rbars
-keywords: Azure, assinaturas, VM, reserva, instância reservada
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dacab1c67a12be5143946c7ede33e647e1373cbb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1b804c76428b0d1f699874b48f7a884161aebcdd
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948266"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435705"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Adquirir, provisionar & gerenciar instâncias de VM reservadas do Azure (RI) + assinaturas de servidor para clientes
 
@@ -55,7 +54,7 @@ Com uma combinação inigualável de preços atraentes e flexibilidade de implan
 
 - Instâncias de VM reservadas do Azure
 - Reservas do BD SQL
-- Instância Gerenciada de SQL
+- Instância Gerenciada do SQL
 - Azure Cosmos DB
 - SQL Data Warehouse do Azure
 - Serviços de Aplicativos
@@ -131,7 +130,7 @@ Os eventos de prontidão de licenciamento sob demanda incluem tópicos como:
 
 Outros treinamentos úteis incluem o [módulo de licenciamento do Azure na Universidade do parceiro](https://aka.ms/azure_partner_licensing).
 
-### <a name="operations"></a>Operations
+### <a name="operations"></a>Operações
 
 - [Guia de operações do comércio moderno](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (atualizado): um guia abrangente que abrange a política de chave e os aspectos operacionais, como contratos, pedidos por meio do Partner Center, fatura, detalhes da lista de preços, incentivos, arquivo de reconciliação, API/SDK, sandbox e serviços compartilhados de parceiros do Azure.
 - [Matriz de Moeda do Cliente e Disponibilidade por País de Ofertas Modernas](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)

@@ -8,14 +8,13 @@ description: Saiba como vender suas assinaturas de clientes para produtos public
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
-Keywords: assinatura, criar novo, adicionar assinatura, suspender, cancelar, suspensão, suspender, SaaS, licença, ISV, terceiros
 ms.localizationpriority: medium
-ms.openlocfilehash: ea5c15248eb38e1c69b6501e21aed1772e937d45
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 47291be42523cbcc3aafbb76a6fd9512191ca806
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377590"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435245"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Criar, suspender ou cancelar assinaturas de clientes
 

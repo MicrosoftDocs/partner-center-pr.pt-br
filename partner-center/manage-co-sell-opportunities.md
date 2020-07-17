@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Como um parceiro qualificado da Microsoft, você pode comercializar com a Microsoft. Saiba como definir as negociações, convidar a Microsoft para colaborar ou exibir as negociações enviadas.
 author: sroy
 ms.author: sroy
-keywords: referência, co-venda, negociação
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cee3c8a54aafb8fd8b984f3ece1647597afbe2bc
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1eea363576f40604465cef55e49be9be92a117d4
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949455"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434355"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Gerenciar oportunidades de venda no Partner Center para definir negócios e atender melhor às necessidades dos clientes
 
@@ -56,7 +55,7 @@ Há três guias de nível superior na seção de venda conjunta.
 ## <a name="creating-a-co-sell-opportunity"></a>Criando uma oportunidade de venda conjunta 
 
 > [!IMPORTANT]
-> Para comercializar com a Microsoft, os parceiros precisam de uma solução pronta para o comercial, uma equipe de vendas envolvida e uma boa estratégia de colocação no mercado. Eles também devem atender a critérios adicionais específicos. Para obter mais informações, consulte [tornar-se pronto para venda](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
+> Para realizar uma venda conjunta com a Microsoft, os parceiros precisam de uma solução pronta para comercialização, uma equipe de vendas envolvida e uma boa estratégia de colocação no mercado. Eles também precisam atender a critérios adicionais específicos. Para obter mais informações, consulte [tornar-se pronto para venda](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
 
 
 Você pode criar dois tipos de oportunidades de venda conjunta. 

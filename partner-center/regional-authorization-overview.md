@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Consulte os países, regiões e moedas em que você pode vender ofertas de CSP, com base no local da sua empresa.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Mercados do CSP, territórios, onde posso vender por meio do CSP, ofertas do CSP, regiões, vender soluções de nuvem, CSP global
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a4d70252d1baebd1bade6182218d4b3198825f3
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ced2ff2890f9e017de5f4bcc1dfefaedf33cda64
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991817"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434165"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Programa de provedor de soluções na nuvem mercados regionais e moedas em que você pode vender ofertas de CSP
 
@@ -52,8 +51,8 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 | Camarões                 |   USD    |
 | Cabo Verde               |          |
 | República Centro-Africana |   USD    |
-| Chad                     |   USD    |
-| Ilhas Comores                  |   USD    |
+| Chade                     |   USD    |
+| Comores                  |   USD    |
 | Congo                    |   USD    |
 | Congo (RDC)              |   USD    |
 | Côte d’Ivoire            |          |
@@ -145,7 +144,7 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 |  Ilhas Pitcairn      |   AUD    |
 |  Ilhas Salomão       |   AUD    |
 |  Toquelau               |   AUD    |
-|  Tonganês                 |   AUD    |
+|  Tonga                 |   AUD    |
 |  Tuvalu                |   AUD    |
 |  Wallis e Futuna     |   AUD    |
 |
@@ -165,7 +164,7 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 
 |  País/Região | Currency |
 |  -------------- |:--------:|
-|  Canada         |   CAD    |
+|  Canadá         |   CAD    |
 |  São Pedro e Miquelon|  CAD   |
 |
 
@@ -218,7 +217,7 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 |  Svalbard e Jan Mayen|NOK|
 |  Suécia         |   SEK    |
 |  Suíça    |   CHF    |
-|  Reino Unido             |   GBP    |
+|  REINO UNIDO             |   GBP    |
 |  Cidade do Vaticano   |          |
 |
 
@@ -295,10 +294,10 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 |  Porto Rico    |   USD    |
 |  Saba           |   USD    |
 |  São Bartolomeu|  USD    |
-|  São Cristóvão e Névis|    |
+|  São Cristóvão e Nevis|    |
 |  Santa Lúcia    |   USD    |
 |  São Martinho   |   USD    |
-|  São Vincent e Granadinas| USD |
+|  São Vicente e Granadinas| USD |
 |  Santo Eustáquio |   USD    |
 |  São Martinho   |   USD    |
 |  Ilhas Geórgia do Sul e Sandwich do Sul| USD|

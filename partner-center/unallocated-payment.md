@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Saiba quais pagamentos não alocados são quando você os vê em sua página de cobrança do Partner Center. Saiba também como aplicá-las a suas notas fiscais.
 author: sodeb
 ms.author: sodeb
-keywords: cobrança, pagamento, pagamentos, pagamento não alocado
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ddd82643b43be7ab19e4bcf6d25f67d031ed87af
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 8724cf6bb487d42742c83d80340acbbcc01d0b6e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949588"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436495"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Gerenciar pagamentos não alocados na página de cobrança do Partner Center
 

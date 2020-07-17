@@ -7,15 +7,14 @@ Description: Saiba como usar as métricas na página assinatura e análise de li
 author: amitravat
 ms.author: amrava
 ms.topic: article
-keywords: dados de negócios
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: bef5eb909b5ad739325c87b774fb738e89c26ac0
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: b6daf2c2c7cadd52cd90ce3a25c9a7a681522d24
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175959"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436115"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analise assinaturas e licenças para ajudá-lo a impulsionar decisões de negócios e novas metas
 
