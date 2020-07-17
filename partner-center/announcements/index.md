@@ -9,11 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 2dd815862d84509a58726bea804be4fa14f3b729
-ms.sourcegitcommit: 622dab23ac25ebdcc9fcd736c23ce9cc177fe6da
+ms.openlocfilehash: 6163da45280bf0e94fa041470d5ca131341a0516
+ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/07/2020
-ms.locfileid: "86032489"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86405547"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -21,6 +22,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 | **Categoria** | **Comunicados de julho de 2020** | **Comunicado** |
 |---------|:---------|:---------|
+|Ofertas/mercados|[Software perpétuo no programa Provedor de Soluções na Nuvem ](2020-july.md#5)|15 de julho|
 | Ofertas/mercados | [Novos SKUs do Microsoft 365 Enterprise Voice para o Teams](2020-july.md#4) | 3 de julho |
 | Ofertas/mercados | [As ofertas e os produtos novos e de finais da vida útil do Microsoft Dynamics 365 e do Power Platform](2020-july.md#3) | 1º de julho |
 | Ofertas/mercados | [A Microsoft encerrou as vendas do SKU autônomo do Microsoft Kaizala Pro](2020-july.md#2) | 1º de julho |
