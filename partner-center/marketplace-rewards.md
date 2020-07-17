@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Os parceiros que publicam ofertas para o Marketplace comercial estão qualificados para os benefícios que oferecem suporte de marketing.
 author: laurabrenner
 ms.author: labrenne
-Keywords: ofertas do Marketplace, suporte de marketing, recompensas, benefícios do Publicador
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9df2d287899da4c92ac55a5ac160f0e36b09c520
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 2b811ab94a3774c41955b2d152bba5b143d711fa
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909004"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436835"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Gerencie recompensas do Marketplace no Partner Center & ative os benefícios técnicos, de marketing e vendas
 
@@ -49,9 +48,9 @@ A qualificação para recompensas do Marketplace é calculada com base em todos 
 
 ## <a name="technical-benefits"></a>Benefícios técnicos
 
-1. Você pode usar seu benefício técnico para solicitar assistência técnica durante as fases de pré-vendas, design, implantação e desenvolvimento de aplicativos de sua nuvem e de suas soluções híbridas. Para solicitar assistência, preencha o formulário de solicitação e, em seguida, selecione **Enviar solicitação**.
+1. Você pode usar seu benefício técnico para solicitar assistência técnica durante as fases de pré-vendas, design, implantação e desenvolvimento de aplicativos de sua nuvem e soluções híbridas. Para solicitar assistência, preencha o formulário de solicitação e, em seguida, selecione **Enviar solicitação**.
 
-2. Como fazer uso dos benefícios do patrocínio do Azure será compartilhado por meio de um email à medida que você desbloquear esses benefícios.
+2. Como fazer uso dos benefícios de patrocínio do Azure, que será compartilhado por meio de um email à medida que você desbloquear esses benefícios.
 
 ## <a name="why-cant-i-see-the-commercial-marketplace-rewards-program-on-my-dashboard"></a>Por que não consigo ver o programa de recompensas comerciais do Marketplace no meu painel?
 
