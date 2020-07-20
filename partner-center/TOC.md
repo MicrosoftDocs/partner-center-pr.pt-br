@@ -42,6 +42,7 @@
 ## [Funcionalidades de fatura direta restritas](restricted-direct-bill-capabilities.md)
 ## [Transição do parceiro de fatura direto do CSP (Provedor de Soluções na Nuvem) para o revendedor indireto do CSP](transition-direct-to-indirect.md)
 ## [Contratos, listas de preços e ofertas do CSP](csp-documents-and-learning-resources.md)
+## [Gerenciamento de Custos do Azure licenciado pela Cloudyn para CSPs](azure-cost-management-app-for-csp-partners.md)
 ## [Mercados e moedas regionais do CSP](regional-authorization-overview.md)
 ## [Instruções para a consolidação de locatários de autorização regional do CSP](csp-regional-authorization-tenant-consolidation.md)
 ## [Visão geral – a nova maneira de confirmar a aceitação do cliente do Contrato de Cliente da Microsoft](confirm-consent.md)
@@ -121,6 +122,7 @@
 ## [Tipos de cobrança no Partner Center](billing-different-types.md)
 ## [Entender a fatura](read-your-bill.md)
 ## [Usar os arquivos de reconciliação](use-the-reconciliation-files.md)
+## [Tipos de encargo de arquivos de reconciliação](recon-file-charge-types.md)
 ## [Ler arquivos de reconciliação de uso com classificação diária no Partner Center](daily-rated-usage-recon-files.md)
 ## [arquivos de reconciliação baseados em licença](license-based-recon-files.md)
 ## [Cenários comuns de cobrança](common-billing-scenarios.md)
@@ -203,7 +205,10 @@
 ### [Migrar do Skype for Business Online Plano 1 para as versões mais recentes do Office 365](skype-retiring.md)
 ### [Transferir as assinaturas do Azure](switch-azure-subscriptions-to-a-different-partner.md)
 ### [Migrar assinaturas do Kaizala Pro para o Microsoft 365](migrate-kaizala-pro-partner.md)
-
+## Consultores vendendo o Office 365
+### [Criar um convite para avaliação do Office 365](advisors-create-a-trial-invitation.md)
+### [Adicionar clientes com ofertas de avaliação do Office 365](advisors-build-your-business.md)
+### [Criar uma oferta de compra do Office 365](advisor-create-a-purchase-offer.md)
 # Análise e dados do Partner Center
 ## [Obter acesso aos dados e à análise do usuário](data-analysis-lp.md)
 ## [Usar o aplicativo de análise do Partner Center para Microsoft Power BI](power-bi-app-for-direct-partners.md)
