@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Saiba mais sobre os tópicos de cobrança e imposto no Partner Center. As informações abrangem recursos de cobrança, faturas, cobrança do CSP e impostos.
 author: sodeb
 ms.author: sodeb
-keywords: cobrança, pagamentos, pedidos, cancelamento, gerenciamento de pedidos, falta de pagamento, fraude, uso indevido, imposto, isenções de imposto, arquivos de reconciliação, arquivo de reconciliação
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30415c0580a6a3a5a656f5fd66a5b53aa5c5b7b3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: df4e6932ba1b551403143f154ea1202109369ddb
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948152"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435575"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Visão geral: Principais artigos de cobrança e imposto no Partner Center
 

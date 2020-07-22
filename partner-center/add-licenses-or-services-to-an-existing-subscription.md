@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Saiba como atualizar ou modificar a assinatura de um cliente. Adicione mais licenças, adicione mais estações ou migre para uma versão diferente com mais serviços.
 author: BillLinzbach
 ms.author: BillLi
-keywords: adicionar licenças à assinatura existente, adicionar estações à assinatura existente, modificar uma assinatura, alterar uma assinatura, comprar mais licenças para um cliente
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fefb11f9e54d1d227bf4cb846c4e324041e0bd4e
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 251423b40508e25dc9ea5c89fffb34c4f0c10499
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377300"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436355"
 ---
 # <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>Adicionar licenças, estações ou mais serviços à assinatura de um cliente
 

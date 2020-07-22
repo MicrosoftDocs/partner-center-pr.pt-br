@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Como parceiro do programa CSP, saiba mais sobre o catálogo crescente dos serviços em nuvem da Microsoft e as ofertas que você pode vender aos clientes.
 author: BillLinzbach
 ms.author: BillLi
-keywords: Provedor de Soluções na Nuvem, programa provedor de soluções na nuvem, CSP, adicionar um produto, vender para clientes, ofertas de parceiro, ofertas de CSP, serviços baseados em nuvem, Azure, Office 365, Dynamics, parceiro CSP, vender no CSP, Azure RI, instâncias de Máquinas Virtuais reservadas do Azure, reservas do Azure, serviços online, software de assinatura, AHUB, SQL Server no Azure, Windows Server no Azure, assinaturas de cliente
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 88565466bfe124e05d3bac85e6814dfa44ec3ca7
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: dd50d2e4e02e342162c8680126dd9e11f1b5a0f2
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390523"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434555"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Visão geral de ofertas de parceiros no programa Provedor de Soluções na Nuvem
 
@@ -118,17 +117,17 @@ Algumas ofertas baseadas em licença só podem ser adquiridas sob certas condiç
 
 Talvez você não encontre a oferta desejada no catálogo, e há diferentes motivos para isso. Veja a seguir o que você deve verificar se não encontrar a oferta desejada.
 
-- **Verifique se o cliente está qualificado**. Muitas ofertas exigem qualificações especiais para serem vendidas aos clientes. Elas incluem: educação, organizações sem fins lucrativos e GCC (Nuvem da Comunidade Governamental). Antes de relatar um problema, primeiro verifique se as qualificações do cliente estão definidas de acordo. Para fazer isso, acesse a lista de clientes, clique no cliente e analise a conta. A conta terá um conjunto de qualificação especial, se aplicável. Se você estiver tentando comprar uma oferta de Educação para um cliente não qualificado, não a verá no catálogo. Confira a [documentação de segmentos especiais](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers) para saber mais sobre como qualificar os clientes.
-- **Decida se você está tentando comprar um complemento ou uma oferta base**. Muitos dos serviços baseados em licença, como o Microsoft 365 e o Dynamics 365, habilitam a compra de ofertas base no catálogo, bem como complementos. Somente as ofertas base podem ser adquiridas no catálogo. Para comprar complementos, verifique se você comprou primeiro a oferta base no catálogo e, em seguida, selecione o cliente na lista de clientes e a assinatura para a oferta base. Os complementos podem ser aplicados à oferta base na página "Gerenciar assinaturas". 
-- **Verifique se os produtos estão disponíveis no seu mercado**. Muitos produtos e serviços são configurados para serem vendidos somente para clientes em países específicos. Veja a lista de países compatíveis nos vários arquivos de lista de preços. Os países compatíveis com os serviços baseados em licença estão na Matriz da Lista de Ofertas na página "Preços e ofertas".
-- **Verifique se as ofertas estão disponíveis na lista de preços**. A lista de ofertas disponível pode mudar de mês para mês. Se você não encontrar uma oferta no catálogo, verifique se ele está disponível nas listas de preços atuais na página **Venda > Preços e ofertas**.
+- **Verifique se o cliente está qualificado**. Muitas ofertas exigem qualificações especiais para serem vendidas aos clientes. Esses segmentos especiais incluem Educação, Sem Fins Lucrativos e GCC (Nuvem da Comunidade Governamental). Antes de registrar um problema, primeiro verifique se as qualificações do cliente estão definidas da maneira apropriada. Para verificar isso, clique no cliente da lista de clientes e visualize a conta. A conta terá um conjunto de qualificações especiais, se aplicável. Se você estiver tentando comprar uma oferta de Educação para um cliente não qualificado, não a verá no catálogo. Confira a [documentação de segmentos especiais](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers) para saber mais sobre como qualificar os clientes.
+- **Decida se você está tentando comprar um complemento ou uma oferta base**. Muitos dos serviços baseados em licença, como Microsoft 365 e Dynamics 365, habilitam as compras de catálogo das ofertas de base, bem como Complementos. Somente as ofertas de base podem ser adquiridas no catálogo. Para comprar complementos, verifique se você comprou primeiro a oferta de base no catálogo, selecione o cliente na lista de clientes e, em seguida, selecione a assinatura para a oferta de base. Os complementos podem ser aplicados à oferta de base nesta página de gerenciamento de assinaturas. 
+- **Verifique se os produtos estão disponíveis no seu mercado**. Muitos produtos e serviços são configurados para venda somente a clientes em países específicos. Você pode encontrar a lista de países compatíveis nos vários arquivos de lista de preços. Os países compatíveis com os serviços baseados em licença estão na Matriz da lista de ofertas na página de preços e ofertas.
+- **Verifique se as ofertas estão disponíveis na lista de preços**. A lista de ofertas disponíveis pode mudar a cada mês. Se você não encontrar uma oferta no catálogo, verifique se ele está disponível nas listas de preços atuais na página **Venda > Preços e ofertas**.
 
 ### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Documentos recomendados relacionados à compra de itens no Partner Center
 
 - [Preços e ofertas no Partner Center](https://docs.microsoft.com/partner-center/pricing-and-offers)
-- [Visão geral de ofertas de parceiros no programa Provedor de Soluções na Nuvem](https://docs.microsoft.com/partner-center/csp-offers)
-- [Como vender ofertas para clientes da área de Educação e criar um cliente de Educação](https://docs.microsoft.com/partner-center/sell-to-education-customers)
-- [Vender para setores especializados como educação, organizações sem fins lucrativos e governo](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers)
+- [Visão geral das ofertas de parceiros no programa do Provedor de Soluções de Nuvem](https://docs.microsoft.com/partner-center/csp-offers)
+- [Como vender ofertas para clientes de educação e criar um cliente de educação](https://docs.microsoft.com/partner-center/sell-to-education-customers)
+- [Vender a setores especializados como educação, sem fins lucrativos e usuários do governo](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers)
 - [Regras de compras para segmentos especiais](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers#purchase-rules-for-special-segments)
 
 ## <a name="next-steps"></a>Próximas etapas

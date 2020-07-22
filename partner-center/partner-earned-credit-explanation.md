@@ -7,16 +7,14 @@ ms.subservice: partnercenter-csp
 description: Saiba como os créditos ganhos pelo parceiro (PEC) da Microsoft para serviços gerenciados são calculados e pagos, e como verificar se você se qualifica.
 author: adamyeh
 ms.author: adamyeh
-Keywords: ''
-robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d240b3d8e411ce55b086a63d1c14903d6f666d7
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 8c42916c253d1ff2497f47c11c640f2805fc0a86
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390613"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436735"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Como o crédito ganho pelo parceiro é calculado e pago
 

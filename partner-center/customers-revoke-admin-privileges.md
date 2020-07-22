@@ -8,14 +8,13 @@ description: Obtenha as permissões necessárias para gerenciar o serviço ou a 
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
-keywords: privilégios de administrador delegado, administrador em nome de, remover privilégios, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: 95f6ae6661180e4d607065a5211ca5f600719f7c
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 22cdcb48df263323ac2862ced3a0f06eff2b0570
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377430"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434745"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Obter permissões para gerenciar o serviço ou a assinatura de um cliente
 

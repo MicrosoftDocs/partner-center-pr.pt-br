@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Saiba como ganhar o status do parceiro de elite da Microsoft e atrair novos clientes ao atender aos requisitos de competência para obter os níveis de associação Gold e Silver.
 author: ArpithaKanuganti
 ms.author: v-arkanu
-keywords: competências, associação silver, associação gold, mpn, MAPS, proficiência, Microsoft Partner Network, associação de rede, especializações avançadas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 74ae0076f3e77e29cccd63d0206267020f462db9
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: d8c5bc3b22096d28ba546e2d9493aeaa110a571c
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390633"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434425"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Informações sobre as competências silver e gold e as especializações avançadas da Microsoft
 
