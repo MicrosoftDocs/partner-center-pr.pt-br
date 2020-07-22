@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: SEOAPR.20
-Keywords: funções, permissões, adicionar usuário, atribuir função, administrador, agente,
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: 9ec8e98f77d49e34b6747b0f580502e9df25a950
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: c7d04307be7a81cf3501e1b50e278cf1a012afcd
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265195"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435185"
 ---
 # <a name="create-user-accounts-and-assign-roles-and-permissions"></a>Criar contas de usuário e atribuir funções e permissões
 

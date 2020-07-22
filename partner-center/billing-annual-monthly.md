@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 3fed5a5a584775f73ed3ad83978a6d38cb50293b
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 056607725875b916298251cad2015069a43c4fba
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948228"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875192"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>Entenda a diferença entre cobrança mensal e anual no Partner Center
 
@@ -86,7 +86,7 @@ Você também precisará [atualizar suas APIs para cobrança anual](#required-ap
 Para aproveitar a cobrança anual, você precisará fazer algumas alterações necessárias para suas APIs.
 
 - [Propriedade Order. BillingCycle](https://docs.microsoft.com/dotnet/api/microsoft.store.partnercenter.models.orders.order.billingcycle)
-- [Criar um pedido](https://docs.microsoft.com/partner-center/develop/create-an-order)
+- [Crie um pedido](https://docs.microsoft.com/partner-center/develop/create-an-order)
 
 Para obter mais informações sobre as APIs do Partner Center, consulte todos os [recursos e documentação do desenvolvedor do Partner Center](https://docs.microsoft.com/partner-center/develop/).
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 47291be42523cbcc3aafbb76a6fd9512191ca806
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e72c499cac9b2408e34a0f6fbf2e442f93faef47
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435245"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875222"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Criar, suspender ou cancelar assinaturas de clientes
 
@@ -77,6 +77,26 @@ Algumas ofertas são limitadas a uma assinatura por cliente. Para ver uma lista 
     > Nem você nem seu cliente receberá um email com instruções para concluir a configuração/provisionamento de conta para esse tipo de assinatura de ISV.)
 
     - Se sua assinatura vier com uma avaliação gratuita de 30 dias, o período de avaliação gratuita será aplicado automaticamente. Como um parceiro no programa CSP, não é possível renunciar ao período de avaliação gratuita em ofertas que você compra para os clientes. Depois que o período de avaliação gratuita terminar, o prazo da assinatura será iniciado e a assinatura será convertida em status pago. Em seguida, a assinatura será renovada de acordo com a mesma agenda.
+   
+## <a name="update-subscriptions-with-add-ons"></a>Atualizar assinaturas com Complementos 
+
+Para comprar um complemento, o cliente deve primeiro ter uma assinatura base ativa.  Você não pode comprar Complementos por meio do catálogo.
+
+1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
+
+2. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
+
+3. Escolha a assinatura que deseja gerenciar.
+
+4. Abaixo da seção **status** , há uma lista de Complementos disponíveis para a assinatura.  
+
+5. Atualize a quantidade de licenças para cada complemento necessário. **Envie** suas alterações.
+
+A capacidade de comprar Complementos por meio do Partner Center só está disponível para parceiros CSP.
+Somente Complementos qualificados são exibidos com base nos requisitos básicos e na disponibilidade regional. Consulte a matriz de oferta de revendedor de nuvem para obter mais informações sobre preços e ofertas.  Suspender a assinatura base também suspenderá os complementos associados.
+
+As datas de início dos complementos são alinhadas à assinatura base e os encargos são calculados a partir da data de início da cobrança e da data de término do encargo com encargos pro-favorável na primeira fatura. 
+
 
 ## <a name="suspend-or-cancel-a-subscription"></a>Suspender ou cancelar uma assinatura
 
@@ -96,7 +116,7 @@ Quando você alterar o status de uma assinatura para **Suspensa**, os usuários 
 
 5. Todos os dados serão excluídos, a menos que a assinatura seja reativada dentro de 90 dias ou 90 dias mais o número de dias entre a hora em que a conta foi aberta e o primeiro período de cobrança (máximo de 120 dias).
 
-Quando você suspende uma assinatura, a data que você vê abaixo **do** botão suspenso indica quando a assinatura expirará automaticamente se você não a reativar. Para obter mais informações, consulte [perguntas frequentes sobre novos recursos de cobrança](faq-about-new-billing-features.md).
+Quando você suspende uma assinatura, a data que você vê abaixo **do** botão suspenso indica quando a assinatura expirará automaticamente se você não a reativar. 
 
 ### <a name="cancel-a-subscription"></a>Cancelar uma assinatura
 

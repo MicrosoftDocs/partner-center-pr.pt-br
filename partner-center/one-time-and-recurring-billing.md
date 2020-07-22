@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7a5c7a9c756067c75e27e05768718436afc101bd
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e64ef002d887ba831a67dd42be6f959d55c32c77
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434125"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875272"
 ---
 # <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>Cobrança por uma única vez e selecionar encargos recorrentes no Partner Center
 

@@ -1,7 +1,7 @@
 ---
 title: Aumentar a adoção e a satisfação
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 07/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como usar as métricas no Partner Center. As métricas podem mostrar se sua empresa está crescendo, como os clientes usam suas licenças e onde concentrar o investimento.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fda561933082f829a35e6cd9c9b8b0754225cb4c
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 7d60f1b21a6f9b29fdcaa5551875ce2c6d338a26
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377260"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875282"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Use as métricas no Partner Center para aumentar a adoção e a satisfação
 
@@ -35,7 +35,7 @@ Nossos parceiros usam muitos métricas para avaliar se seus negócios estão cre
 Você pode ver dados de todos os seus clientes por meio do programa Provedor de Soluções na Nuvem. Alguns clientes podem comprar licenças de outros parceiros ou diretamente da Microsoft. Para essas situações, você verá o total de licenças em todos os parceiros. Para ver apenas suas próprias licenças, vá para assinaturas do cliente.
 
 > [!NOTE]  
->  No momento, mostramos apenas dados do Office 365 e do Dynamics 365. Habilitaremos dados de outros produtos no futuro.
+> No momento, mostramos apenas dados do Office 365 e do Dynamics 365. Habilitaremos dados de outros produtos no futuro.
 
 ## <a name="find-license-and-user-data"></a>Localizar dados de licença e do usuário
 
@@ -81,23 +81,21 @@ Terminologia:
 
 ## <a name="next-steps"></a>Próximas etapas
 
-Se você estiver conferindo muitas perguntas de ajuda e instruções, os números de adoção em sua conta estão baixos ou você está procurando oportunidades de venda, convém considerar a oferta de cursos de treinamento. Ao ensinar seus clientes a usar melhor o software de solução de nuvem que eles compraram, é mais provável que você veja um aumento na produtividade e na satisfação e uma redução nas necessidades de suporte.
+Se você estiver conferindo muitas perguntas de ajuda e instruções, os números de adoção em sua conta estão baixos ou você está procurando oportunidades de venda, talvez queira considerar os cursos de treinamento. Ao ensinar seus clientes a usar melhor o software de solução de nuvem que eles compraram, é mais provável que você veja um aumento na produtividade e na satisfação e uma redução nas necessidades de suporte.
 
-<table>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>Problema:</strong> A taxa de adoção do usuário é baixa e muitas licenças não estão sendo usadas&#39;t.</p>
-<p><strong>O que considerar:</strong> os clientes podem não entender o valor que o software pode oferecer. Eles precisam de ajuda para prever as maneiras como podem incorporá-lo em seu dia para simplificar as tarefas que já estão fazendo ou para permitir novos tipos de produtividade.</p>
-<p><strong>O que tentar:</strong> estudos de caso, depoimentos de usuários sobre cenários específicos, blogs de tutorial ou vídeos.</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Problema:</strong> há um grande volume de chamadas de suporte de ajuda e perguntas de instrução.</p>
-<p><strong>O que considerar:</strong> os clientes podem ser novos no software, na versão do produto ou na tarefa.</p>
-<p><strong>O que tentar:</strong> Você pode usar uma estratégia dupla de treinamento de oferta (pessoalmente ou online) para aumentar a experiência geral do cliente&#39;s e, ao mesmo tempo, promover algumas das opções de autoatendimento disponíveis para os clientes.</p>
-<p>É possível recriar seu site de suporte para incluir também as opções de autoatendimento descritas no tópico <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Autoatendimento do cliente</a> além de suas informações de contato de suporte.</p></td>
-</tr>
-</tbody>
-</table>
+### <a name="considering-how-to-improve-customer-adoption-and-usage---a-couple-scenarios"></a>Considerando como melhorar a adoção e o uso do cliente-alguns cenários
+
+**Problema**: a taxa de adoção do usuário é baixa e muitas licenças não estão sendo usadas.
+
+**O que considerar**: os clientes podem não entender o valor que o software pode fornecer. Eles precisam de ajuda para prever as maneiras como podem incorporá-lo em seu dia para simplificar as tarefas que já estão fazendo ou para permitir novos tipos de produtividade.
+
+**O que testar**: estudos de caso, depoimentos de usuários sobre cenários específicos, Blogs de tutoriais ou vídeos.
+
+**Problema**: há um alto volume de chamadas de suporte para perguntas de ajuda e instruções.
+
+**O que considerar**: os clientes podem ser novos no software, na versão do produto ou em sua tarefa.
+
+**O que tentar**: você pode usar uma estratégia dupla de treinamento de oferta (pessoalmente ou online) para aumentar a experiência geral dos clientes, ao mesmo tempo em que também promove algumas das opções de autoatendimento disponíveis para os clientes.
+
+Talvez você queira reprojetar seu site de suporte para incluir também as opções de autoatendimento descritas em [suporte ao cliente,](customer-self-support.md) além de suas informações de contato de suporte.
+

@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: kim-davis
 ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: ceffac9a2441895d698b9315f62e71ea9a9220b3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3796a22dc2239394672b7991f78eeafe487da032
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949709"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875232"
 ---
 # <a name="co-op-claims-plans-and-poes"></a>Declarações de cooperação, planos e PoEs
 
@@ -86,7 +86,7 @@ Você deve criar e enviar seu plano até o último dia do ano do programa. Se ne
 
 3. Na página **programa** , localize o mercado apropriado para seu plano e, em seguida, selecione **criar plano**.
 
-4. Na página **novo plano** , preencha os campos obrigatórios. **Moeda** é o valor que você deseja que o plano reflita. O **email do revisor** deve ser o endereço de email da Microsoft do seu gerente de conta. Observe que apenas um plano pode ser criado por ID do MPN, fundo, programa e período. Clique em **Salvar**.
+4. Na página **novo plano** , preencha os campos obrigatórios. **Moeda** é o valor que você deseja que o plano reflita. O **email do revisor** deve ser o endereço de email da Microsoft do seu gerente de conta. Observe que apenas um plano pode ser criado por ID do MPN, fundo, programa e período. Selecione **Salvar**.
 
 5. Na página de status do plano, examine as informações exibidas. Selecione **Editar** para atualizar qualquer uma das informações.
 
@@ -96,7 +96,7 @@ Você deve criar e enviar seu plano até o último dia do ano do programa. Se ne
 
 8. Na página de status, selecione **Nova atividade**.
 
-9. Na página **Nova atividade**, preencha os campos obrigatórios. Você pode selecionar vários países. Quando terminar, selecione **Salvar**.
+9. Na página **Nova atividade**, preencha os campos obrigatórios. Você pode selecionar vários países/regiões. Quando terminar, selecione **Salvar**.
 
 10. Na página de status, examine as informações novamente. Depois de enviar um plano, não é possível editá-lo. Quando tiver terminado, selecione **Enviar** e, em seguida, selecione **Confirmar**.
 
@@ -159,7 +159,7 @@ Você deve enviar a PoE (prova de execução) para seu plano dentro de 180 dias 
     - **Data de início**  A data de execução. Isso deve estar entre a data de início da campanha e a data de término da campanha.
     - **Valor**  A quantidade da declaração de cooperação.
 
-7. Clique em **Salvar**.
+7. Selecione **Salvar**.
 
 8. Na página de **declaração de nova prova de execução** , insira os campos obrigatórios.
 

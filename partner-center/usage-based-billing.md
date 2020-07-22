@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b3c3626bea685a8751ffcc5aa877fd95824e693
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 33fbbe006d4ae92251e22f541af3a6fdc928f3ef
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436455"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875212"
 ---
 # <a name="understand-usage-based-billing-for-monthly-pay-as-you-go-consumption-of-services"></a>Entenda a cobrança baseada em uso para consumo mensal de serviços por meio de pagamento
 

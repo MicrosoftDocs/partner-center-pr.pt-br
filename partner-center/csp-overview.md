@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Saiba mais sobre os benefícios e os diferentes modelos no programa Provedor de Soluções na Nuvem que ajudam sua empresa a crescer com novos clientes e novas competências.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Provedor de Soluções na Nuvem, CSP, serviços baseados em nuvem, Azure, Office 365, Dynamics, parceiro CSP, vender no CSP, parceiro direto, parceiro CSP direto, revendedor CSP indireto, CSP direto, CSP indireto, modelo direto, modelo indireto, revendedor indireto, provedor indireto, provedor, distribuidor, programa provedor de soluções na nuvem
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 90c03aeea719e58dcdb30cb8404066fa13e16a7e
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 152283c6996021ab3944cecd89d808ee70b2d250
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362334"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434905"
 ---
 # <a name="cloud-solution-provider-program-benefits-and-different-models"></a>Benefícios e diferentes modelos do programa Provedor de Soluções na Nuvem
 

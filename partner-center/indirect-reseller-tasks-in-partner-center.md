@@ -8,15 +8,14 @@ description: Saiba como revendedores indiretos no programa CSP podem trabalhar c
 ms.prod: ''
 author: BillLinzbach
 ms.author: BillLi
-keywords: revendedores indiretos, revendedores, provedores indiretos, provedores, parceria, VAR, camada2, camada 2
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 79eda54e958acd2c83074c6b84bba85c87096a33
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 3ffc69804c90707f9e8691e56c64bc23e8c0daf5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377710"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434535"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Aprenda como fazer parcerias com provedores indiretos no programa CSP (Provedor de Soluções na Nuvem)
 

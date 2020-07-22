@@ -7,15 +7,14 @@ ms.subservice: partnercenter-mpn
 description: Junte-se ao MPN (Microsoft Partner Network) e use o Partner Center para gerenciar os benefícios e as ofertas de associação que podem ajudar a aumentar os seus negócios.
 author: LauraBrenner
 ms.author: labrenne
-keywords: MPN, benefícios da associação, associação
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d55492a52ada3328cb040d443f2c7b854cd6be96
-ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
+ms.openlocfilehash: 4f13dcd911da248b1674f2ded9c596f85857541a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "85072406"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434345"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Gerenciar as suas ofertas e benefícios de associação ao Microsoft Partner Network no Partner Center
 
