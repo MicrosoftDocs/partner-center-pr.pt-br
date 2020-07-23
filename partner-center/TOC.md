@@ -177,6 +177,7 @@
 ### [Transferir seus clientes para o plano do Azure](azure-plan-transition.md)
 ### [Crédito ganho pelo parceiro – visão geral](partner-earned-credit.md)
 ### [Como o crédito ganho pelo parceiro é calculado e pago](partner-earned-credit-explanation.md)
+### [Funções e permissões para o crédito ganho do parceiro](azure-roles-perms-pec.md)
 ### [Nova experiência de comércio no CSP – cobrança do Azure](azure-plan-billing.md) 
 ### [Lista de preços da nova experiência de comércio no CSP para Azure](azure-plan-price-list.md)
 ### [Gerenciar assinaturas e recursos no âmbito do plano do Azure](azure-plan-manage.md)
