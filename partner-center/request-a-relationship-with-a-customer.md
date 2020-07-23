@@ -8,12 +8,12 @@ description: Solicite uma relação com um cliente para cenários de vários can
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: cbf6f1751fb58208b0394b6c6a3a6652cb60fe6e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: b928b5fabb0a3f24a3b60e1712c2e2f77659ad5e
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949249"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943713"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Como solicitar uma relação de revendedor de um cliente na Central de Parceiros
 
@@ -26,7 +26,7 @@ Se você quiser gerenciar o serviço ou a assinatura de um cliente em seu nome, 
 Se você quiser estabelecer uma relação de revendedor com um cliente e gerenciar somente as assinaturas do Azure que você provisiona, não será necessário obter permissões de administrador.
 
 >[!NOTE] 
->A opção de não solicitar permissões não está disponível para parceiros que operam em Microsoft Cloud para o governo dos EUA ou Microsoft Cloud Alemanha. Para saber mais, confira [clientes delegar privilégios de administração para parceiros](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges).
+>A opção de não solicitar permissões não está disponível para parceiros que operam em Microsoft Cloud para o governo dos EUA ou Microsoft Cloud Alemanha. Para saber mais, confira [clientes delegar privilégios de administração para parceiros](customers-revoke-admin-privileges.md).
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Convide um cliente para estabelecer uma relação de revendedor com você
 
@@ -67,4 +67,4 @@ A experiência do cliente para aceitar um convite de relacionamento de revendedo
 
 - [Atribuir contatos de suporte](assign-support-contacts.md)
 
-- [Remover uma relação com um cliente](remove-a-relationship.md)
+- [Remover um relacionamento com um cliente](remove-a-relationship.md)

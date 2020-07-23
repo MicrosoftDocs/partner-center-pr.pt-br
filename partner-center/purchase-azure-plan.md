@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a8b701f372292497d227f607fbd56f06f6da90e4
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: d54522500c52b6237377889a6766dd935bc40804
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377780"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875252"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Adquira o plano do Azure para clientes e acesse os serviços mais recentes do Azure com taxas pré-pagas
 
@@ -78,7 +78,7 @@ As reservas do Azure devem estar associadas a um plano do Azure ativo. Escolha o
 >Se o cliente ainda não tiver um plano do Azure ativo, selecione Azure para adicionar um agora mesmo. Para obter mais instruções, leia [Comprar reservas do Azure](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations).
 
 >[!Note] 
->O escopo da reserva só pode ser definido como **Compartilhado** no momento. 
+>O escopo da reserva só pode ser definido como **Compartilhado** no momento no Partner Center. Para selecionar o escopo de assinatura única ou atualizar de um escopo compartilhado para o escopo de assinatura única, acesse o **portal de Gerenciamento do Microsoft Azure** usando as seguintes instruções. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Configuração de reservas de escopo compartilhado":::
 

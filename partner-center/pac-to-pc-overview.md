@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a96375c26468c130ec14e41f83eb8a1d35daa58
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c53aac7566bfa561521d5cb9304b90dd172784d5
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434155"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943743"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>O Centro de Administração do Parceiro está migrando para o Partner Center
 
@@ -43,7 +43,6 @@ Durante abril de 2018, a PAC será desativada e os parceiros CSP começarão a s
 
 **Parceiros supervisores** (se você não comercializa via CSP e usa o PAC para fornecer avaliações/cotações para seus clientes). Assim que decidirmos a linha do tempo para o redirecionamento automático para o Partner Center, anunciaremos aqui. 
 
-
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Comece a usar o Microsoft Partner Center agora!
 
 Comece [a usar o Microsoft Partner Center](https://partnercenter.microsoft.com/) agora mesmo para ficar pronto para a mudança do PAC.  Você usará as mesmas credenciais para o Partner Center que você usa para PAC.
@@ -51,4 +50,4 @@ Comece [a usar o Microsoft Partner Center](https://partnercenter.microsoft.com/)
 > [!IMPORTANT]  
 > Alguns recursos e funções que estavam disponíveis no PAC não estarão disponíveis no Partner Center.
 
- Leia a [Comparação lado a lado](moving-from-pac-to-pc.md) para entender e familiarizar-se com essas alterações.  Você encontrará informações adicionais sobre o gerenciamento de contas, o gerenciamento de clientes, as licenças e assinaturas, os preços e ofertas e mais na [Ajuda do Microsoft Partner Center](https://docs.microsoft.com/partner-center/).
+ Leia a [Comparação lado a lado](moving-from-pac-to-pc.md) para entender e familiarizar-se com essas alterações. 

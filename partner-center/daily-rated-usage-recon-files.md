@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bdb8e392761d02909ebca21c38d2f04a9dfeb60d
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: ec1b58206b4947ceadd98942e8c8b982749b8645
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377410"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943453"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Saiba como ler arquivos de reconciliação de uso com classificação diária no Partner Center
 
@@ -28,7 +28,7 @@ ms.locfileid: "86377410"
 - Agente de vendas
 - Agente de suporte técnico
 
-Este tópico explica como ler arquivos de reconciliação de uso com classificação diária.
+Este artigo explica como ler arquivos de reconciliação de uso com classificação diária.
 
 >[!NOTE]
 >O uso com classificação diária normalmente leva 24 horas para aparecer no Partner Center ou para ser acessado por meio da API.
@@ -40,7 +40,7 @@ Este tópico explica como ler arquivos de reconciliação de uso com classifica�
 | PartnerId | Identificador de parceiro no formato GUID. |
 | PartnerName | Nome do parceiro. |
 | CustomerId | Identificador exclusivo da Microsoft para o cliente no formato GUID. |
-| CustomerName | Nome da organização do cliente, conforme relatado na Central de parceiros. *Essa coluna é muito importante para reconciliar a fatura com as informações do sistema.* |
+| CustomerName | Nome da organização do cliente, conforme relatado na Central de parceiros. *Essa coluna é importante para reconciliar a fatura com as informações do sistema.* |
 | CustomerDomainName | O nome de domínio do cliente. |
 | CustomerCountry | O país em que o cliente está localizado. |
 | MpnId | Identificador de MPN do parceiro CSP. |
@@ -48,12 +48,12 @@ Este tópico explica como ler arquivos de reconciliação de uso com classifica�
 | Número da Fatura | Número da fatura em que a transação especificada é exibida. |
 | ProductId | O identificador do produto. |
 | SkuId | O identificador de um SKU específico. |
-| AvailabilityId | O identificador para a disponibilidade de um SKU específico. Isso mostra se o SKU está disponível para compra no país, moeda, segmento do setor, etc. |
+| AvailabilityId | O identificador para a disponibilidade de um SKU específico. Esta coluna mostra se a SKU está disponível para compra no país, moeda, segmento do setor, etc. |
 | SkuName | O título de uma SKU em particular. |
 | ProductName | O nome do produto. |
 | PublisherName | O nome do publicador. |
 | PublisherId | O identificador do Publicador no formato GUID. |
-| Descrição da assinatura | O nome da oferta de serviço comprada pelo cliente, conforme definido na tabela de preços. (Este é um campo idêntico a **oferecer**). |
+| Descrição da assinatura | O nome da oferta de serviço comprada pelo cliente, conforme definido na tabela de preços. (Essa coluna é um campo idêntico a **offername**). |
 | SubscriptionId | Identificador exclusivo de uma assinatura na plataforma de faturamento da Microsoft. Não usado para reconciliação. *Esse identificador não é o mesmo que a **ID de assinatura** no console de administração do parceiro.* |
 | ChargeStartDate | Data de início do ciclo de cobrança (exceto ao apresentar datas de dados de uso latentes anteriormente não cobrados do ciclo de cobrança anterior). A hora sempre é o início do dia, 0h00. |
 | Data final da cobrança | Data de término do ciclo de cobrança (exceto ao apresentar datas de dados de uso latentes anteriormente não cobrados do ciclo de cobrança anterior). A hora é sempre o fim do dia, 23:59. |
@@ -63,7 +63,7 @@ Este tópico explica como ler arquivos de reconciliação de uso com classifica�
 | MeterId | O identificador do medidor que está sendo usado. |
 | MeterSubCategory | O tipo de serviço do Azure, que pode afetar a taxa. |
 | MeterName | A unidade de medida para o medidor que está sendo consumido. |
-| MeterRegion | Essa coluna identifica a localização de um data center dentro da região para serviços onde isso é aplicável e preenchido. |
+| MeterRegion | Esta coluna identifica o local de um data center dentro da região para serviços em que MeterRegion é aplicável e populado. |
 | Unidade | A unidade do **nome**do recurso. |
 | ResourceLocation | O data center onde o medidor está em execução. |
 | ConsumedService | O serviço da plataforma do Azure que você usou. |
@@ -75,13 +75,13 @@ Este tópico explica como ler arquivos de reconciliação de uso com classifica�
 | UnitType | O tipo de unidade em que o medidor é cobrado.  |
 | BillingPreTaxTotal | Valor total de cobrança antes dos impostos. |
 | BillingCurrency | A moeda na região geográfica do cliente. |
-| PricingPreTaxTotal | O preço antes da adição de impostos. |
+| PricingPreTaxTotal | O preço, antes que os impostos sejam adicionados. |
 | PricingCurrency | A moeda na lista de preços. |
-| ServiceInfo1 | O número de conexões do barramento de serviço que foram provisionadas e utilizadas em um determinado dia. |
+| ServiceInfo1 | O número de conexões do barramento de serviço que foram provisionadas e usadas em um determinado dia. |
 | ServiceInfo2 | Um campo herdado que captura metadados específicos do serviço opcionais. |
 | Marcações | Representa uma organização lógica dos recursos do Azure definidos pelo usuário. |
 | AdditionalInfo | Informações adicionais não abordadas em outras colunas. |
-| EffectiveUnitPrice | O valor real cobrado por unidade, incluindo descontos, crédito acumulado, etc. |
+| EffectiveUnitPrice | O valor real cobrado por unidade, incluindo descontos, crédito acumulado e assim por diante. |
 | PCToBCExchangeRate | Taxa de câmbio aplicada para a moeda de preço à moeda de cobrança. |
 | PCToBCExchangeRateDate | A data na qual a moeda de preço para a moeda de cobrança é determinada. |
 | EntitlementId | Representa a ID da assinatura do Azure. |
