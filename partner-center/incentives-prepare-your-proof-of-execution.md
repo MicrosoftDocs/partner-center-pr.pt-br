@@ -1,19 +1,19 @@
 ---
 title: Preparar o comprovante de execução
-description: Entenda a importância de sua PoE (prova de execução), bem como as linhas do tempo, o status de exibição e as diretrizes de envio.
+description: Entenda a importância da sua PoE (prova de execução), cronogramas, status de exibição e diretrizes de envio.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 56210d460d3ca4f58b87a8ead8ed7161058aba78
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c036d11840cbec6d4fd390ac48e2ef4824eb2608
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949473"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114743"
 ---
 # <a name="prepare-your-proof-of-execution"></a>Preparar o comprovante de execução
 
@@ -21,7 +21,7 @@ Aplica-se a:
 
 - Partner Center
 
-Antes de ser pago pelo trabalho de seus incentivos, você deve enviar uma prova de execução detalhada (PoE). Este tópico orienta você pelo processo de criação de uma prova de execução efetiva.
+Antes de ser pago pelo trabalho de seus incentivos, você deve enviar uma prova de execução detalhada (PoE). Este artigo orienta você pelo processo de criação de uma prova de execução eficaz.
 
 Funções apropriadas:
 
@@ -42,7 +42,7 @@ Funções apropriadas:
 6. Na **página nova prova de execução**, insira os campos obrigatórios.
 
    - **Nome** do  Um nome amigável para a declaração de cooperação.
-   - **Data de início**  A data de execução. Isso deve estar entre a data de início da campanha e a data de término da campanha.
+   - **Data de início**  A data de execução. Essa data deve estar entre a data de início da campanha e a data de término da campanha.
    - **Valor**  A quantidade da declaração de cooperação.
 
 7. Clique em **Salvar**.
@@ -50,7 +50,7 @@ Funções apropriadas:
 8. Na página de **declaração de nova prova de execução** , insira os campos obrigatórios.
 
    - **Nome** do  Um nome amigável para a declaração de cooperação.
-   - **Data de início**  A data de execução. Isso deve estar entre a data de início da campanha e a data de término da campanha.
+   - **Data de início**  A data de execução. Essa data deve estar entre a data de início da campanha e a data de término da campanha.
    - **Impressões estimadas**   O alcance estimado desta atividade; número de pessoas.
    - **ID de pré-aprovação**   Esta é a ID que a Microsoft envia depois que aprovamos seus materiais de marketing.
 
@@ -60,7 +60,7 @@ Funções apropriadas:
     - **Fatura de terceiros**  No campo **fatura de terceiros** , selecione **arrastar ou procurar arquivos para carregar**. Adicione a nota fiscal e os detalhes de fatura necessários e, em seguida, selecione **salvar**.
     - **Relatório do serviço de certificação**  Selecione **Adicionar relatório do serviço de certificação**. Na página **gerar um relatório de serviço de certificação** , preencha os campos obrigatórios e, em seguida, selecione **salvar**.
 
-11. Você também pode carregar **documentos de prova** , se desejar. No campo **prova de documentos** , selecione **arrastar ou procurar arquivos para carregar**. Observe que, se você selecionar Documentos de prova, deverá adicionar notas explicativas. Quando você tiver adicionado uma anotação, selecione **Salvar**.
+11. Você também pode carregar **documentos de prova** , se desejar. No campo **prova de documentos** , selecione **arrastar ou procurar arquivos para carregar**. Se você selecionar documentos de prova, deverá adicionar notas explicativas. Quando você tiver adicionado uma anotação, selecione **Salvar**.
 
 12. Insira quaisquer comentários finais antes de enviar sua POE e, em seguida, selecione **Enviar declaração**.
 

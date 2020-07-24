@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 25e5cbea7cd28dbe3f0fbdd67a264d1be0728e08
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 84dcb87f4a5594fdcd3a7099e12331a9e4459b38
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434365"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944473"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Gerenciar vendas potenciais diferentes, como consultas de clientes, clientes potenciais qualificados por marketing e clientes potenciais qualificados por vendas
 
@@ -32,7 +32,7 @@ ms.locfileid: "86434365"
 
 A Microsoft envia milhões de clientes potenciais por ano para seus parceiros. Você tem a oportunidade de receber clientes potenciais da Microsoft e criar seus negócios. Esta seção ajudará você a entender como gerenciar os clientes potenciais que você recebe da página do provedor de soluções da Microsoft e agir sobre eles.
 
-O pré-requisito para receber clientes potenciais é [criar um perfil comercial](https://docs.microsoft.com/partner-center/create-a-marketing-profile) para sua empresa. O perfil comercial criado para sua empresa ajudará você a ficar visível para clientes potenciais, outros parceiros e vendedores da Microsoft na página da Web do [provedor de soluções da Microsoft](https://www.microsoft.com/solution-providers/home) . Suas informações de perfil de negócios são combinadas com as informações de associação da sua empresa, como os dados de competência e os endossos adicionais da Microsoft, fornecendo um perfil avançado para os clientes quando eles pesquisam um parceiro com o qual trabalhar. Todas as solicitações originadas na lista de perfis na página do provedor de soluções da Microsoft estão disponíveis na seção **"clientes potenciais"** na guia **referências** no painel de navegação esquerdo. 
+O pré-requisito para receber clientes potenciais é [criar um perfil comercial](create-a-marketing-profile.md) para sua empresa. O perfil comercial criado para sua empresa ajudará você a ficar visível para clientes potenciais, outros parceiros e vendedores da Microsoft na página da Web do [provedor de soluções da Microsoft](https://www.microsoft.com/solution-providers/home) . Suas informações de perfil de negócios são combinadas com as informações de associação da sua empresa, como os dados de competência e os endossos adicionais da Microsoft, fornecendo um perfil avançado para os clientes quando eles pesquisam um parceiro com o qual trabalhar. Todas as solicitações originadas na lista de perfis na página do provedor de soluções da Microsoft estão disponíveis na seção **leads** na guia **referências** no painel de navegação esquerdo.
 
 ## <a name="types-of-leads"></a>Tipos de clientes potenciais
 
@@ -85,9 +85,9 @@ Esse é um estágio de terminal em que todas as oportunidades finalmente chegam.
 
 Aqui estão algumas dicas para ajudá-lo a obter referências mais apropriadas:
 
-- **Escolha palavras-chave e preferências que representem seus conhecimentos e modelo de negócios exclusivos** em seu [perfil de negócios](https://docs.microsoft.com/partner-center/create-a-marketing-profile). Remova as palavras-chave que geraram referências nas quais você não está interessado. Se você não estiver interessado em lidar com empresas de um determinado tamanho, atualize essa preferência.
+- **Escolha palavras-chave e preferências que representem seus conhecimentos e modelo de negócios exclusivos** em seu [perfil de negócios](create-a-marketing-profile.md). Remova as palavras-chave que geraram referências nas quais você não está interessado. Se você não estiver interessado em lidar com empresas de um determinado tamanho, atualize essa preferência.
 
-- **Examine suas informações de contato em seu [perfil comercial](https://docs.microsoft.com/partner-center/create-a-marketing-profile) para cada local** Certifique-se de que sua equipe receba alertas de entrada.
+- **Examine suas informações de contato em seu [perfil comercial](create-a-marketing-profile.md) para cada local** Certifique-se de que sua equipe receba alertas de entrada.
 
 - **Responder rapidamente às referências** Quando você responder em tempo hábil às solicitações de entrada, aumentaremos sua visibilidade em futuros resultados da pesquisa do cliente. Verifique se a sua equipe responde rapidamente com sua intenção.
 

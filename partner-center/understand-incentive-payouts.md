@@ -5,16 +5,16 @@ ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Use essas páginas para exibir, gerenciar e exportar detalhes de pagamento e de ganhos, bem como o status do programa e o histórico de transações completas.
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 2ffd5168f0bcad08502a8afe751e568b34f394b1
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f42ce255396411b68363f3a6ad928e80d87d96ad
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436485"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114834"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Exibir, gerenciar e exportar os detalhes do programa de incentivos
 
@@ -40,7 +40,7 @@ Use essas páginas para exibir detalhes dos pagamentos e ganhos anteriores, pend
 Você pode acessar as informações de incentivos de algumas maneiras no [painel](https://partner.microsoft.com/dashboard)do Partner Center:
 
 - Selecione **incentivos** no menu à esquerda. Várias opções aparecem em **incentivos**, incluindo **visão geral**. Explore essas opções para saber o status dos programas de incentivos, pagamentos de incentivos, ganhos e reivindicações.
-- Selecione o ícone de **dinheiro** (pagamento) no canto superior direito. Em seguida, você pode selecionar outras opções, **como histórico de transações**, **pagamentos**, **exportar dados** ou **relatório de vendas do Office**.
+- Selecione o ícone de **dinheiro** (pagamento) no canto superior direito. Em seguida, você pode selecionar outras opções, **como histórico de transações**, **pagamentos**, **exportar dados**ou **relatório de vendas do Office**.
 
 As páginas a seguir são descritas aqui:
 
@@ -67,7 +67,7 @@ Para acessar **minha visão geral de incentivos**:
    - Para classificar por coluna, selecione o nome da coluna.
    - Para agrupar por programa, selecione a guia **por programa** acima da tabela.
    - Para agrupar por local, selecione a guia **por local** acima da tabela.
-   - Para exibir mais detalhes sobre os registros em um grupo específico, selecione o símbolo de divisa no final de uma determinada linha. Isso expande sua exibição.
+   - Para exibir mais detalhes sobre os registros em um grupo específico, selecione o símbolo de divisa no final de uma determinada linha. Essa divisa expande sua exibição.
 
 4. Se for necessária uma ação adicional para se registrar em um programa, essas informações aparecerão na coluna **status** . Nesse caso, selecione o símbolo de divisa para saber mais sobre as próximas etapas que você precisa tomar.
 
@@ -94,7 +94,7 @@ Os totais nesta página representam todas as IDs de MPN que você usa. Você pod
 |Próximo pagamento estimado      |O próximo pagamento seguinte chegando a você (mesmo se houver outros em breve) em dólares americanos.                                     |
 |Último pagamento           |A quantidade (em dólares dos EUA), nome do programa e ID de MPN do seu pagamento mais recente.                                      |
 |Pagamentos por origem       |Quantidade de pagamentos, em dólares americanos, representados por programa nos últimos 12 meses.                                      |
-|Pagamentos                       |Selecione **pago** ou **pendente** e, em seguida, classifique como desejar. Para obter detalhes adicionais de um pagamento específico, selecione **Exibir**. Para baixar uma cópia do demonstrativo de remessa de pagamento, selecione **Baixar**. Observe que os dados do histórico de transações podem levar até 24 horas para serem exibidos, portanto, você pode não ver os ganhos associados imediatamente.  |
+|Pagamentos                       |Selecione **pago** ou **pendente** e, em seguida, classifique como desejar. Para obter detalhes adicionais de um pagamento específico, selecione **Exibir**. Para baixar uma cópia do demonstrativo de remessa de pagamento, selecione **Baixar**. Os dados de histórico de transações podem levar até 24 horas para serem exibidos, portanto, você pode não ver os ganhos associados imediatamente.  |
 
 Para exportar qualquer um dos dados nessa página, selecione **Exportar** e, em seguida, siga as instruções na página Exportar dados.
 
@@ -113,7 +113,7 @@ Para exportar qualquer um dos dados de transação nessa página, selecione **Ex
 |Futuros      |A ordem de pagamento gerou revisões internas pendentes antes de o pagamento ser processado.       |Não       |
 |Fatura de imposto pendente      |Sua fatura de imposto está incompleta ou inválida.          |Atualize sua fatura de imposto para ser pago         |
 |Rejeitado durante a revisão        |O pagamento foi rejeitado durante a revisão.          |Entre em contato com o Suporte da Microsoft para detalhes         |
-|Failed (Falha)        |O pagamento falhou devido a um erro do sistema da Microsoft.         |Contate o suporte da Microsoft para obter detalhes         |
+|Com falha        |O pagamento falhou devido a um erro do sistema da Microsoft.         |Contate o suporte da Microsoft para obter detalhes         |
 |Em Andamento     |O pagamento está em andamento.         |Não         |
 |Pagamento incorreto        |A revitóriação de pagamento está em andamento.          |Não        |
 |Enviado        |O pagamento foi enviado ao seu banco.          |Não       |
@@ -130,7 +130,7 @@ Siga as instruções nesta página para exportar os dados desejados.
 
 - Você só verá dados para IDs e programas MPN aos quais está associado. Se você quiser acessar dados adicionais, consulte o administrador de incentivos.
 - A página Exportar dados não é atualizada por conta própria. Talvez seja necessário atualizar a página manualmente para ver os dados mais recentes.
-- O filtro pode resultar em um erro **Não há dados disponíveis**. Isso provavelmente significa que você saiu do período de tempo padrão selecionado em três meses e, em seguida, selecionou uma ID de pagamento de uma conquista que está fora desse período. Expanda seu período de tempo e tente novamente.
+- O filtro pode resultar em um erro **Não há dados disponíveis**. Esse erro provavelmente significa que você saiu do período de tempo padrão selecionado em três meses e, em seguida, selecionou uma ID de pagamento de uma conquista que está fora desse período. Expanda seu período de tempo e tente novamente.
 
 ## <a name="payment-download-export"></a>Exportação de download de pagamento
 Essa opção fornece um download dos pagamentos recebidos em seu banco para um determinado programa, o imposto associado e a quantidade de ganho agregada.
@@ -159,32 +159,32 @@ Essa opção fornece um download de cada item de linha de produção que você v
 
 |**Nome da coluna**   |**Descrição**   |
 |------------------|:-------------------------------------|
+|customerId   |Identificador do cliente   |
+|customerName   |Nome do cliente da transação   |
+|earningAmount   |Conquistando valor na moeda da transação original   |
+|earningAmountUSD   |Conquistando valor em USD   |
+|earningDate   |Data do ganho   |
+|earningExchangeRate   |Taxa de câmbio usada para mostrar o valor em US$ correspondente   |
 |earningId   |Identificador exclusivo de cada ganho   |
+|earningRate   |Taxa de incentivo aplicada ao valor da transação para gerar um ganho   |
+|earningType   |Indica se é uma taxa, um desconto, um Coop, uma venda etc.   |
+|exchangeRateDate   |Data da taxa de câmbio usada para calcular EarningAmount US$   |
+|alavanca   |Indica a regra de negócios para o ganho   |
 |participantID   |A identidade principal do parceiro que ganha com o programa   |
 |participantIDType   |Geralmente MPN para programas de incentivo e ID do vendedor para programas da loja   |
 |participantName   |Nome do parceiro de ganho   |
 |partnerCountryCode   |Localização/país do parceiro de conquista   |
-|programName   |Nome do programa de incentivo/loja   |
-|transactionCurrency   |Moeda na qual a transação original do cliente ocorreu   |
-|transactionDate   |Data da transação. Útil para programas em que muitas transações contribuem para uma conquista.   |
-|transactionExchangeRate  |Data da taxa de câmbio usada para mostrar o valor USD correspondente |
-|transactionAmount   |Valor da transação na moeda da transação original, com base no qual o ganho é gerado   |
-|transactionAmountUSD   |Valor da transação em US$   |
-|transactionCountryCode   |Compra/venda de transação para código de país   |
-|alavanca   |Indica a regra de negócios para o ganho   |
-|earningRate   |Taxa de incentivo aplicada ao valor da transação para gerar um ganho   |
-|quantidade |Esse campo varia de acordo com o programa. Para programas transacionais, ele indica a quantidade cobrada. |
-|earningType   |Indica se é uma taxa, um desconto, um Coop, uma venda etc.   |
-|earningAmount   |Conquistando valor na moeda da transação original   |
-|earningAmountUSD   |Conquistando valor em USD   |
-|earningDate   |Data do ganho   |
-|earningExchangeRate   |Taxa de câmbio usada para mostrar o valor em USD correspondente   |
-|exchangeRateDate   |Data da taxa de câmbio usada para calcular EarningAmount US$   |
 |paymentId   |Identificador exclusivo do pagamento. Esse número geralmente é visível em seu extrato bancário.   |
 |paymentStatus   |Status de pagamento   |
 |paymentStatusDescription   |Descrição amigável do status de pagamento   |
-|customerId   |Identificador do cliente   |
-|customerName   |Nome do cliente da transação   |
+|programName   |Nome do programa de incentivo/loja   |
+|quantidade |Esse campo varia de acordo com o programa. Para programas transacionais, ele indica a quantidade cobrada. |
+|transactionAmount   |Valor da transação na moeda da transação original, com base no qual o ganho é gerado   |
+|transactionAmountUSD   |Valor da transação em US$   |
+|transactionCountryCode   |Compra/venda de transação para código de país   |
+|transactionCurrency   |Moeda na qual a transação original do cliente ocorreu   |
+|transactionDate   |Data da transação. Útil para programas em que muitas transações contribuem para uma conquista.   |
+|transactionExchangeRate  |Data da taxa de câmbio usada para mostrar o valor USD correspondente |
 
 Além da tabela acima, esses campos de histórico de transações estarão disponíveis conforme aplicável para o programa.
 

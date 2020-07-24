@@ -4,16 +4,16 @@ description: Entenda os processos e cronogramas importantes para gerenciar assoc
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.topic: article
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 97871089ad7614be47a65bb41dfb8dc4f871b54b
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: eef3ac8253c0507b5fd5fc24cc961f45518f6da2
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949501"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114783"
 ---
 # <a name="manage-customer-associations"></a>Gerenciar associações do cliente
 
@@ -71,7 +71,7 @@ Aqui estão os status e seus significados:
 
 ## <a name="dispute-the-status-of-a-cpor-association-claim"></a>Contestar o status de uma declaração de associação CPOR
 
-Se sua declaração de associação do CPOR for rejeitada, você terá 30 dias para contestar a rejeição. O email que você recebe notificando sobre a rejeição também informa onde você pode exibir o motivo da rejeição e como contestar a ti.  
+Se sua declaração de associação do CPOR for rejeitada, você terá 30 dias para contestar a rejeição. O email de notificação da rejeição também informa onde você pode ver o motivo da rejeição e como contestá-la.  
 
 Se passarem 30 dias e você ainda quiser contestar uma declaração rejeitada, você precisará enviar uma nova associação com a PoE (prova de execução) atualizada. 
 
@@ -81,17 +81,17 @@ Se passarem 30 dias e você ainda quiser contestar uma declaração rejeitada, v
 2. Abra a declaração que você deseja contestar.
 3. Na página declaração, selecione **contestação**.
 4. Insira uma justificativa de negócios e/ou uma PoE atualizada explicando por que a rejeição deve ser reconsiderada.
-5. Quando tiver terminado de adicionar informações, selecione **contestação**. Nossos revisores devem entrar em contato com você com resultados dentro de 5 dias úteis.
+5. Quando terminar de adicionar informações, selecione **Contestação**. Nossos revisores devem contatá-lo com os resultados dentro de cinco dias úteis.
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>Motivos pelos quais uma declaração de associação CPOR é rejeitada
 
 Há três motivos principais para uma declaração de associação CPOR ser rejeitada.
 
-**Solicitação de parceiro:** Os parceiros podem solicitar que sua associação seja rejeitada. Isso é usado principalmente quando o parceiro criou uma declaração de associação CPOR por engano usando um MPN incorreto, escolheu uma atividade incorreta (exemplo...). Você escolheu a associação de receita em vez de pré-vendas) ou não está mais trabalhando com o cliente.
+**Solicitação de parceiro:** Os parceiros podem solicitar que sua associação seja rejeitada. Essa lógica é usada principalmente quando o parceiro criou uma declaração de associação CPOR por engano usando um MPN incorreto, escolheu uma atividade incorreta (exemplo...). Você escolheu a associação de receita em vez de pré-vendas) ou não está mais trabalhando com o cliente.
 
 **Recusa do cliente:** Depois que a declaração de associação CPOR tiver passado pelo processo de aprovação PoE com êxito, seu status será alterado para aprovado enquanto o cliente tiver a oportunidade de negar o consentimento da associação. Se o cliente negar o consentimento, a associação será rejeitada.
 
-**Prova de execução insuficiente:** A prova de execução é necessária para cada associação de CPOR. Depois que a declaração de associação do CPOR for enviada, os revisores da Microsoft levarão até 5 dias para examinar sua PoE e solicitar quaisquer informações adicionais necessárias usando a seção de comentários em sua declaração. Se as informações forem insuficientes, sua declaração de associação CPOR será rejeitada.
+**Prova de execução insuficiente:** A prova de execução é necessária para cada associação de CPOR. Depois que a declaração de associação do CPOR for enviada, os revisores da Microsoft levarão até cinco dias para examinar sua PoE e solicitar qualquer informação adicional necessária usando a seção de comentários em sua declaração. Se as informações forem insuficientes, sua declaração de associação CPOR será rejeitada.
 
 Outros motivos possíveis para rejeição:
 
