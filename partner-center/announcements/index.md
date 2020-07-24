@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 1bf50d056d9f1b688e9593aea9b0edfc955876d7
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7db336b8d954c738d2d9d7bf9acd9ec744206a72
+ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436065"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86949852"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,6 +22,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 | **Categoria** | **Comunicados de julho de 2020** | **Comunicado** |
 |---------|:---------|:---------|
+|Capacidades|[Incentivo do CSP (Provedor de Soluções na Nuvem) para ofertas qualificadas do marketplace comercial da Microsoft aprimorado para o ano fiscal de 2021](2020-July.md#7)|22 de julho|
 |Capacidades|[Novas funcionalidades adicionadas aos relatórios de Insights no Partner Center ](2020-july.md#6)|16 de julho|
 |Ofertas/mercados|[Software perpétuo no programa Provedor de Soluções na Nuvem ](2020-july.md#5)|15 de julho|
 | Ofertas/mercados | [Novos SKUs do Microsoft 365 Enterprise Voice para o Teams](2020-july.md#4) | 3 de julho |
@@ -35,7 +36,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 | Ofertas/mercados | [Alterações no Microsoft 365 F1](2020-june.md#3) | 15 de junho |
 | Capacidades | [Atualização de mídia de assinaturas de software do Windows Server para CSP](2020-june.md#2) | 12 de junho |
 | Ofertas/mercados | [As ofertas e os produtos novos e de finais da vida útil do Microsoft Dynamics 365 e do Power Platform](2020-june.md#1) | 11 de junho |
-| Capacidades | [Mesclar duas ou mais contas da empresa no Partner Center](https://docs.microsoft.com/partner-center/merge-accounts) | 9 de junho |
+| Funcionalidades | [Mesclar duas ou mais contas da empresa no Partner Center](../merge-accounts.md) | 9 de junho |
 | **Categoria** | **Comunicados de maio de 2020** | **Data** |
 | Capacidades | [Microsoft 365 A3 – Correção da oferta de Licença Autônoma para Educação](2020-may.md#5) | 28 de maio |
 | Capacidades | [Os clientes ativos podem renovar o EP (Plano de Melhoria) por meio do programa CSP (Provedor de Soluções na Nuvem) e receber licenças online](2020-may.md#4) | 26 de maio |
@@ -80,6 +81,6 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 | Ofertas/mercados | [Os complementos Sala de Reunião e Reuniões para o Microsoft 365 F1 agora estão disponíveis para a GCC (Nuvem da Comunidade Governamental)](2020-january.md#6) | 29 de janeiro |
 | Capacidades | [Os complementos Sala de Reunião e Reuniões para o Microsoft 365 F1 agora estão disponíveis para a GCC (Nuvem da Comunidade Governamental)](2020-january.md#5) | 28 de janeiro |
 | Capacidades | [Comunicando um novo painel de relatórios no Partner Center](2020-january.md#4) |27 de janeiro |
-| Capacidades | [Lembre-se de confirmar a aceitação do Contrato de Cliente da Microsoft até 31 de janeiro de 2020](2020-january.md#3) | 27 de janeiro |
-| Capacidades | [Lista de preços e agendamento de atualizações de ofertas para janeiro de 2020](2020-january.md#2) | 7 de janeiro |
+| Funcionalidades | [Lembre-se de confirmar a aceitação do Contrato de Cliente da Microsoft até 31 de janeiro de 2020](2020-january.md#3) | 27 de janeiro |
+| Funcionalidades | [Lista de preços e agendamento de atualizações de ofertas para janeiro de 2020](2020-january.md#2) | 7 de janeiro |
 | Ofertas/mercados | [A Microsoft lançou produtos adicionais do Dynamics 365 e lançará mais em 1º de fevereiro de 2020](2020-january.md#1) | 2 de janeiro |
