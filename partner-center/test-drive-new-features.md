@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Teste os novos recursos do Partner Center antes que eles sejam lançados e conte-nos sua opinião. Ajude a moldar o futuro do Partner Center!
-author: LauraBrenner
-ms.author: labrenne
+author: adamyeh
+ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d34094b9112cb69087006f2537c43ca1bd4fc8e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 422f2d662d8fa8d992532bf5945acdd5bf6683ca
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679393"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114843"
 ---
 # <a name="test-drive-new-partner-center-features-and-help-shape-the-future-of-partner-center"></a>Teste os novos recursos do Partner Center e ajude a moldar o futuro do Partner Center
 
@@ -24,7 +24,7 @@ ms.locfileid: "84679393"
 
 ## <a name="help-shape-the-future-of-partner-center"></a>Ajude a moldar o futuro do Partner Center!
 
-Estamos continuamente lançando novos recursos e funcionalidades para o Partner Center e queremos seus comentários! 
+Estamos continuamente lançando novos recursos e funcionalidades para o Partner Center e queremos seus comentários!
 
 Convidamos você a experimentar os novos recursos antes que eles sejam lançados na comunidade do Partner Center em todo o mundo e a compartilhar seus pensamentos sobre eles. Confira a [página de Comunicados do Partner Center](announcements/index.md) para obter informações sobre recursos futuros para que você possa começar a planejar como usá-los para aumentar seus negócios. Pode haver vários recursos disponíveis para você test drive em um determinado momento.
 

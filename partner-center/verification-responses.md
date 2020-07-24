@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b3a82e53c4947cdfd761fd2a9e0d998ca0d5c3a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 38c36ab0cf33cd8217f0a745e7a9e47376990105
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436435"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943813"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Verifique as informações da sua conta ao se registrar em um novo programa do Partner Center
 
@@ -39,7 +39,7 @@ Para o programa CSP, vá para [esta página](https://partner.microsoft.com/pcv/a
 |Empresas   |Verificação de negócios confirma que a empresa de registro é uma entidade de negócios legítima e no endereço usado para o registro.|Se a verificação de negócios falhar, o contato principal (normalmente seu administrador global ou de conta) será solicitado a fornecer documentação oficial, como um registro de negócios ou certificado ou recebimento de registro de imposto, do país de residência da empresa ou do município confirmando que a empresa está autorizada a fazer negócios sob esse nome de entidade e está localizada no endereço de registro. [Criar um tíquete de suporte](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
 
 >[!NOTE]
->Saiba como atualizar seu [perfil comercial legal (endereço)](https://docs.microsoft.com/partner-center/update-your-partner-profile).
+>Saiba como atualizar seu [perfil comercial legal (endereço)](update-your-partner-profile.md).
 
 ## <a name="when-verification-concludes"></a>Quando a verificação for concluída
 

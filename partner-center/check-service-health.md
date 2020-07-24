@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como usar o Partner Center para verificar a integridade do serviço de um cliente quando eles enfrentam um problema com um serviço.
-author: brentserbus
-ms.author: brserbus
+author: Kim-Davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 11ec4cfcfc9326c1e9d6598dce528410c0e02542
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: eba88c5380254929809d27ff2b877a5ee72df239
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435475"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114808"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Verificar a integridade do serviço para um cliente relatando um potencial problema de serviço ou interrupção
 

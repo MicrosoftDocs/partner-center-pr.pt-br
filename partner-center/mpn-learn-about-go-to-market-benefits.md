@@ -5,16 +5,16 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como entrar no mercado com as ofertas da Microsoft pode ajudar a acelerar o tempo de colocação no mercado, gerar clientes potenciais e expandir seus negócios.
-author: LauraBrenner
-ms.author: labrenne
+author: arpithakanuganti
+ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80d4a8c15a5812186d8a9604b7cd8089804be7fb
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: d09dce7f4a80ed3014ecc8345d6f2bdf93da214d
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436785"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114649"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Explore seu lançamento no mercado com as ofertas da Microsoft
 

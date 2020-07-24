@@ -1,7 +1,7 @@
 ---
 title: Criar assinaturas de cliente no Partner Center
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 07/22/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como vender suas assinaturas de clientes para produtos publicados pela Microsoft, bem como produtos de SaaS publicados por ISVs de terceiros.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: e72c499cac9b2408e34a0f6fbf2e442f93faef47
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 3e154fd217af8ca0f5d45c686467e671e5bd9a03
+ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875222"
+ms.locfileid: "86949832"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Criar, suspender ou cancelar assinaturas de clientes
 
@@ -49,7 +49,7 @@ Algumas ofertas são limitadas a uma assinatura por cliente. Para ver uma lista 
 
 4. Para ver apenas determinados tipos de assinaturas, faça seleções nos filtros disponíveis:
    - **Publicador**: escolha a **Microsoft** para ver apenas as ofertas da Microsoft ou o **parceiro** para ver os produtos do Marketplace comercial publicados por ISVs.
-   - **Tipo de cobrança**: selecione o tipo de cobrança de assinatura que você deseja usar: **licença** ou **uso**. Consulte [as perguntas frequentes sobre](faq-about-new-billing-features.md) novos recursos de cobrança para obter informações que o ajudarão a decidir entre a frequência de cobrança mensal e anual.
+   - **Tipo de cobrança**: selecione o tipo de cobrança de assinatura que você deseja usar: **licença** ou **uso**. Consulte [cobrança baseada em licença](license-based-billing.md) para obter informações que o ajudarão a decidir entre a frequência de cobrança mensal e anual.
    - **Categoria**: escolha **Enterprise**, **Small Business**ou **Trial**. Para obter informações sobre assinaturas de avaliação, consulte [oferecer a seus clientes avaliações de produtos da Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
 5. Selecione as assinaturas de produto que você deseja comprar para o cliente. Os produtos que você vê dependem do tipo de segmento de cliente (educação, governo, etc.) e dos filtros que você aplicou. Algumas ofertas mostradas no Marketplace talvez nem sempre estejam disponíveis para um cliente específico ou um parceiro CSP específico. Isso pode ocorrer porque:
@@ -76,7 +76,7 @@ Algumas ofertas são limitadas a uma assinatura por cliente. Para ver uma lista 
     >[!NOTE]
     > Nem você nem seu cliente receberá um email com instruções para concluir a configuração/provisionamento de conta para esse tipo de assinatura de ISV.)
 
-    - Se sua assinatura vier com uma avaliação gratuita de 30 dias, o período de avaliação gratuita será aplicado automaticamente. Como um parceiro no programa CSP, não é possível renunciar ao período de avaliação gratuita em ofertas que você compra para os clientes. Depois que o período de avaliação gratuita terminar, o prazo da assinatura será iniciado e a assinatura será convertida em status pago. Em seguida, a assinatura será renovada de acordo com a mesma agenda.
+    - Se sua assinatura vier com uma avaliação gratuita de 30 dias, o período de avaliação gratuita será aplicado automaticamente. Como um parceiro no programa CSP, não é possível renunciar ao período de avaliação gratuita em ofertas que você compra para os clientes. Depois que o período de avaliação gratuita terminar, o prazo da assinatura será iniciado e a assinatura será convertida em status pago. A assinatura será renovada automaticamente de acordo com a mesma agenda.
    
 ## <a name="update-subscriptions-with-add-ons"></a>Atualizar assinaturas com Complementos 
 
@@ -92,10 +92,10 @@ Para comprar um complemento, o cliente deve primeiro ter uma assinatura base ati
 
 5. Atualize a quantidade de licenças para cada complemento necessário. **Envie** suas alterações.
 
-A capacidade de comprar Complementos por meio do Partner Center só está disponível para parceiros CSP.
+A capacidade de comprar Complementos por meio do Partner Center só está disponível para provedores diretos de fatura e indiretos.
 Somente Complementos qualificados são exibidos com base nos requisitos básicos e na disponibilidade regional. Consulte a matriz de oferta de revendedor de nuvem para obter mais informações sobre preços e ofertas.  Suspender a assinatura base também suspenderá os complementos associados.
 
-As datas de início dos complementos são alinhadas à assinatura base e os encargos são calculados a partir da data de início da cobrança e da data de término do encargo com encargos pro-favorável na primeira fatura. 
+As datas de início dos complementos são alinhadas à assinatura base e os encargos são calculados a partir da data de início da cobrança e da data de término do encargo com encargos pro-favorável na primeira fatura. Para obter informações adicionais, consulte [cobrança baseada em licença](license-based-billing.md).
 
 
 ## <a name="suspend-or-cancel-a-subscription"></a>Suspender ou cancelar uma assinatura

@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5853d3eedef07c63f9818f85f1695c2abf8a2baa
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 3874d384aa1f4b932832d599f73bd601dc73fb07
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875262"
+ms.locfileid: "86943803"
 ---
 # <a name="one-time-and-recurring-reconciliation-files-in-partner-center"></a>Arquivos de reconciliação recorrentes e de uso único no Partner Center
 
@@ -29,7 +29,7 @@ ms.locfileid: "86875262"
 - Agente administrativo
 - Agente de vendas
 
-Este tópico explica como ler arquivos de reconciliação recorrentes e de uso único no Partner Center.
+Este artigo explica como ler arquivos de reconciliação de uso único e recorrente no Partner Center.
 
 ## <a name="fields-in-one-time-and-recurring-reconciliation-files"></a>Campos em arquivos de reconciliação recorrentes e de uso único
 
@@ -46,16 +46,16 @@ Este tópico explica como ler arquivos de reconciliação recorrentes e de uso �
 | OrderDate | A data em que o pedido foi feito. |
 | ProductId | O identificador do produto. |
 | SkuId | O identificador de um SKU específico (unidade de manutenção de estoque). |
-| AvailabilityId | O identificador para a disponibilidade de um SKU específico. Isso mostra se o SKU está disponível para compra no país, moeda, segmento do setor, etc. |
+| AvailabilityId | O identificador para a disponibilidade de um SKU específico. Este campo mostra se o SKU está disponível para compra no país, moeda, segmento do setor, etc. |
 | SkuName | O título de uma SKU em particular. |
 | ProductName | O nome do produto. |
 | ChargeType | O tipo de preço ou ajuste. |
-| UnitPrice | O preço unitário como publicado na lista de preços no momento da compra. *Certifique-se de que isso corresponde às informações armazenadas em seu sistema de cobrança durante a reconciliação.* |
-| Quantidade | Número de unidades. *Certifique-se de que isso corresponde às informações armazenadas em seu sistema de cobrança durante a reconciliação.* |
-| SubTotal | Total sem imposto. Verifica se o SUBTOTAL corresponde ao seu total esperado, no caso de um desconto. |
+| UnitPrice | O preço unitário como publicado na lista de preços no momento da compra. *Verifique se esse campo corresponde às informações armazenadas em seu sistema de cobrança durante a reconciliação.* |
+| Quantidade | Número de unidades. *Verifique se esse campo corresponde às informações armazenadas em seu sistema de cobrança durante a reconciliação.* |
+| SubTotal | Total sem imposto. Verifica se o SUBTOTAL corresponde ao seu total esperado, se houver um desconto. |
 | TaxTotal | Encargo do valor do imposto. Com base nas regras de imposto do mercado e em circunstâncias específicas. |
 | Total | Total com imposto. Verifica se o imposto é cobrado na fatura. |
-| Currency | Tipo de moeda. Cada entidade de cobrança tem apenas uma moeda. Verifique se isso corresponde à sua primeira fatura e verifique novamente após as principais atualizações da plataforma de cobrança. |
+| Currency | Tipo de moeda. Cada entidade de cobrança tem apenas uma moeda. Verifique se este campo corresponde à sua primeira fatura e verifique novamente após qualquer atualização de plataforma de cobrança principal. |
 | PriceAdjustmentDescription | Uma explicação de qualquer desconto aplicável. |
 | PublisherName | O nome do distribuidor do produto.
 | PublisherId | Identificador exclusivo de um Publicador específico. |
@@ -68,7 +68,7 @@ Este tópico explica como ler arquivos de reconciliação recorrentes e de uso �
 | UnitType | O tipo de unidade que está sendo adquirida. |
 | Uma alternateid | Um identificador alternativo para uma **ID de pedido**. |
 | BillableQuantity | Representa o total de unidades adquiridas ou consumidas. |
-| BillingFrequency | Descreve se o item de linha é uma frequência de cobrança mensal ou ocasional. *Atualmente, isso tem suporte somente para o Azure RI, com valores com suporte como mensal. Se a RI for comprada com frequência de cobrança única, esse campo no arquivo reconhecimento será exibido em branco.* |
+| BillingFrequency | Descreve se o item de linha é uma frequência de cobrança mensal ou ocasional. *Atualmente, este campo tem suporte somente para o Azure RI, com valores com suporte como mensal. Se a RI for comprada com frequência de cobrança única, esse campo no arquivo reconhecimento será exibido em branco.* |
 | PricingCurrency | O preço de lista do recurso ou oferta. |
 | PCToBCExchangeRate | Taxa de câmbio aplicada para a moeda de preço à moeda de cobrança. |
 | PCToBCExchangeRateDate | A data na qual a moeda de preço para a moeda de cobrança é determinada. |

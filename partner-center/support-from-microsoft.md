@@ -5,16 +5,16 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Quando você encontrar problemas com um serviço Microsoft ou com o Partner Center, poderá encaminhá-los para a Microsoft para obter ajuda e monitorar os problemas até que eles sejam resolvidos.
-author: BrentSerbus
-ms.author: brserbus
+author: Kim-Davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b359a3b70b767511f95e0c52bacacfc37e0d1aa6
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 2531534106f421e7378f1f3f0b29361792b4a4ac
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949158"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114868"
 ---
 # <a name="support-from-microsoft---when-to-escalate-issues-how-to-report-them-or-how-to-check-service-health"></a>Suporte da Microsoft – quando escalonar problemas, como relatá-los ou como verificar a integridade do serviço
 

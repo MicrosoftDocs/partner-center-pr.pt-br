@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 056607725875b916298251cad2015069a43c4fba
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 7a45b3033c448255d5508e7b7abb7a29c1c0a9e9
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875192"
+ms.locfileid: "86943533"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>Entenda a diferença entre cobrança mensal e anual no Partner Center
 
@@ -32,13 +32,13 @@ ms.locfileid: "86875192"
 - Agente de suporte técnico
 - Agente de vendas
 
-Este tópico explica as diferenças entre **cobrança mensal** e **cobrança anual** no Partner Center, incluindo benefícios e casos de uso. Você tem a opção de pagar por determinadas assinaturas do CSP (provedor de soluções na nuvem) de acordo com uma base mensal ou anual.
+Este artigo explica as diferenças entre **cobrança mensal** e **cobrança anual** no Partner Center, incluindo benefícios e casos de uso. Você tem a opção de pagar por determinadas assinaturas do CSP (provedor de soluções na nuvem) de acordo com uma base mensal ou anual.
 
 ## <a name="applicability"></a>Aplicabilidade
 
 A maioria das assinaturas baseadas em licenciado tem a opção para a opção de cobrança mensal ou anual. As assinaturas baseadas em uso só apresentam a opção de cobrança mensal.
 
-A cobrança anual e mensal são **por assinatura**, ** *não* por licença**.
+A cobrança anual e mensal são **por assinatura**, ** _não_ por licença**.
 
 ### <a name="find-subscription-applicability"></a>Encontrar a aplicabilidade da assinatura
 
@@ -64,7 +64,7 @@ Alternar de cobrança mensal para cobrança anual pode ser útil se você tiver 
 
 ### <a name="annual-to-monthly-billing"></a>Cobrança anual para mensal
 
-A mudança de cobrança anual para cobrança mensal pode ser útil se você quiser ajustar suas datas de cobrança para as de seus clientes individuais.
+Mudar de cobrança anual para cobrança mensal pode ser útil se você quiser ajustar suas datas de cobrança para corresponder às datas de seus clientes individuais.
 
 ## <a name="annual-billing"></a>Cobrança anual
 
@@ -77,7 +77,7 @@ A cobrança anual tem os seguintes benefícios:
 
 ### <a name="configure-annual-billing"></a>Configurar cobrança anual
 
-Se estiver planejando mudar para a cobrança anual no Partner Center, considere como seu movimento de vendas será afetado. Informe sua equipe e atualize seus processos internos conforme necessário. Você também deve examinar as alterações em seu arquivo de reconciliação baseado em licença e fatura. 
+Se estiver planejando mudar para a cobrança anual no Partner Center, considere como seu movimento de vendas será afetado. Informe sua equipe e atualize seus processos internos conforme necessário. Você também deve examinar as alterações em seu arquivo de reconciliação baseado em licença e fatura.
 
 Você também precisará [atualizar suas APIs para cobrança anual](#required-api-changes).
 
@@ -112,11 +112,11 @@ Você será cobrado na próxima data de cobrança após a data de renovação da
 
 Não é possível dividir uma **única assinatura** para que uma delas seja cobrada mensalmente e a outra parte seja cobrada anualmente. A assinatura inteira deve ter a mesma frequência de cobrança (cobrança mensal ou anual).
 
-Para clientes com **várias assinaturas** da mesma oferta, talvez seja possível ter frequências de cobrança diferentes por assinatura. Há algumas ofertas restritas a uma assinatura por cliente. Se a oferta não estiver restrita, o cliente poderá ter várias assinaturas da mesma oferta com diferentes frequências de cobrança. Você pode encontrar os detalhes de todos os limites e restrições de oferta na coluna I da matriz de ofertas. Você pode encontrar a matriz de ofertas na seção **ver ofertas e preços** no Partner Center.
+Para clientes com **várias assinaturas** da mesma oferta, talvez seja possível ter frequências de cobrança diferentes por assinatura. Há algumas ofertas que são restritas a uma assinatura por cliente. Se a oferta não estiver restrita, o cliente poderá ter várias assinaturas da mesma oferta com diferentes frequências de cobrança. Você pode encontrar os detalhes de todos os limites e restrições de oferta na coluna I da matriz de ofertas. Você pode encontrar a matriz de ofertas na seção **ver ofertas e preços** no Partner Center.
 
 ### <a name="free-subscription-period"></a>Período de assinatura livre
 
-As assinaturas com frequência de cobrança anual não recebem um período gratuito. O termo pago por doze meses começa na data de compra. Isso é diferente de assinaturas com frequência de cobrança mensal que recebem um período gratuito entre a data da compra e a próxima data de cobrança.
+As assinaturas com frequência de cobrança anual não recebem um período gratuito. O termo pago por doze meses começa na data de compra. Isso é diferente das assinaturas com frequência de cobrança mensal que recebe um período gratuito da data de compra para a próxima data de cobrança.
 
 ### <a name="adding-and-removing-licenses"></a>Adicionando e removendo licenças
 
@@ -138,7 +138,7 @@ Para cobrança anual, se a assinatura for cancelada nos primeiros 30 dias do ter
 
 ### <a name="moving-subscriptions-between-partners"></a>Movendo assinaturas entre parceiros
 
-Os clientes não podem mover assinaturas entre um parceiro para outro. Isso se aplica a assinaturas cobradas mensal e anualmente.
+Os clientes não podem mover assinaturas entre um parceiro para outro. Essa restrição se aplica a assinaturas mensais e anuais faturadas.
 
 O novo parceiro deve comprar uma nova assinatura em nome do cliente. Não é possível mover assinaturas entre parceiros.
 
@@ -152,7 +152,7 @@ Você pode reativar uma assinatura por até 90 dias após a data de suspensão. 
 
 O preço da oferta no momento da compra é garantido para o período de assinatura total cobrado (um mês para cobrança mensal, 12 meses para cobrança anual). Quando uma assinatura for renovada, o preço se baseará na lista de preços atual na data de renovação. O novo preço é garantido para o próximo prazo de assinatura.
 
-Se um preço de oferta diminuir durante o período de cobrança, o valor cobrado não será alterado. O preço é definido para o período de cobrança completo no momento da compra. Isso se aplica a cobranças mensais e anuais.
+Se um preço de oferta diminuir durante o período de cobrança, o valor cobrado não será alterado. O preço é definido para o período de cobrança completo no momento da compra. Essa convenção se aplica a cobranças mensais e anuais.
 
 ### <a name="cancellation-credits"></a>Créditos de cancelamento
 
@@ -176,7 +176,7 @@ Quando você comprar ou renovar uma assinatura com cobrança anual, seu arquivo 
 
 - Se nenhuma alteração for feita na assinatura, não haverá linhas em arquivos de reconciliação para os meses de dois a 12 do prazo da assinatura. Se uma alteração for feita na assinatura durante o período de doze meses, um crédito e uma fatura rateada serão exibidos no próximo arquivo de reconciliação depois que a alteração for feita.
 
-- A próxima alteração no arquivo de reconciliação será exibida quando a assinatura for renovada. Isso será exibido na data da primeira cobrança após a renovação.
+- A próxima alteração no arquivo de reconciliação será exibida quando a assinatura for renovada. A alteração será exibida na primeira data de cobrança após a renovação.
 
 ### <a name="usage-file-changes-for-annual-billing"></a>Alterações de arquivo de uso para cobrança anual
 
@@ -194,7 +194,7 @@ Se o cancelamento ocorrer nos primeiros 30 dias do período de doze meses, a ass
 
 ### <a name="adding-licenses-to-annual-subscription"></a>Adicionando licenças à assinatura anual
 
-Quando você adiciona licenças a uma assinatura, o arquivo de reconciliação conterá um crédito e uma fatura rateada. Isso se aplica a assinaturas faturadas mensais e anuais.
+Quando você adiciona licenças a uma assinatura, o arquivo de reconciliação conterá um crédito e uma fatura rateada. Essa convenção se aplica às assinaturas faturadas mensais e anuais.
 
 ### <a name="price-lists-for-annual-billing"></a>Listas de preços para cobrança anual
 

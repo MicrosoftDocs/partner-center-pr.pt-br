@@ -5,16 +5,16 @@ ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como a Microsoft espera que as comunicações do cliente ocorram entre clientes e parceiros no programa do provedor de soluções na nuvem.
-author: brentserbus
-ms.author: brserbus
+author: Kim-Davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 9a36cbd8ceefda5e514ddf0e543daf78bc266285
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f4c98445345e5e668de2172ab5e922cfb81aa7a8
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434865"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114356"
 ---
 # <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Diretrizes para comunicação bem-sucedida do cliente com a Microsoft
 

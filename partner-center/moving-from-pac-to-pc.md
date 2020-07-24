@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Ao mudar do PAC (centro de administração do parceiro) para o Partner Center, saiba como gerenciar a associação do programa CSP, as indicações do cliente, os incentivos e muito mais.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyamsft
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0af8cb253554f67edd1b53f01f2a440ae27939f1
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 1e06194bd83b5a2c9c2ed32ee32d4b4220a42dcf
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434335"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114726"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Migração do PAC (Centro de Administração do Parceiro) para o Partner Center
 

@@ -1,20 +1,20 @@
 ---
 title: Reporte os problemas à Microsoft
+description: Saiba quais problemas os parceiros da Microsoft devem se resolver para seus clientes e quais problemas eles podem precisar escalonar para a Microsoft.
 ms.topic: article
-ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba quais problemas os parceiros da Microsoft devem se resolver para seus clientes e quais problemas eles podem precisar escalonar para a Microsoft.
-author: brentserbus
-ms.author: brserbus
+author: Kim-Davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c08f98477e1c7761a66c2d7cfccabd27d8e81a77
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.date: 05/18/2020
+ms.openlocfilehash: 92ce4eea3fba444967f83aab5ff4e3d8ed9aa560
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219594"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114155"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Escalonar problemas para a Microsoft e saber quais problemas são mais adequados para o escalonamento da Microsoft  
 
@@ -40,7 +40,7 @@ No entanto, há várias categorias de problemas que você precisa passar para a 
 
 - Bugs e outras irregularidades que afetam a aparência ou operação do serviço
 
-- Interrupções de rede em grande escala
+- Interrupções de rede em larga escala
 
 - Problemas regionais com impacto em vários locatários
 
@@ -56,19 +56,12 @@ No entanto, há várias categorias de problemas que você precisa passar para a 
 
 5. Você é levado para o portal do Office 365, no qual você precisa entrar usando suas credenciais do Partner Center.
 
-6. Selecione **Suporte**, **Nova solicitação de serviço** do menu à esquerda.
+6. Selecione **suporte**, **nova solicitação de serviço** no menu à esquerda.
 
 7. Selecione o tópico de suporte.
 
 >[!NOTE]
 >É importante iniciar no painel do Partner Center para que a relação entre o parceiro e o cliente seja mantida. 
 
-
 Para obter informações sobre como relatar problemas em nome do cliente, consulte [Relatar problemas em nome de um cliente](report-problems-on-behalf-of-a-customer.md).
-
- 
-
- 
-
-
 

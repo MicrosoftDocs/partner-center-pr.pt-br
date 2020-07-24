@@ -5,20 +5,20 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Consulte os países, regiões e moedas em que você pode vender ofertas de CSP, com base no local da sua empresa.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ced2ff2890f9e017de5f4bcc1dfefaedf33cda64
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a4472702104d3d4596d57633e80b8e652c624297
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434165"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114098"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Programa de provedor de soluções na nuvem mercados regionais e moedas em que você pode vender ofertas de CSP
 
-O local da empresa determina seu mercado. Seu mercado inclui regiões e/ou países em que você pode vender ofertas de programa CSP (provedor de soluções na nuvem).
+O local da sua empresa determina seu mercado. Seu mercado inclui regiões e/ou países em que você pode vender ofertas de programa CSP (provedor de soluções na nuvem).
 
 Por exemplo, se sua empresa estiver localizada na Estados Unidos, você poderá vender ofertas de CSP para clientes nos EUA e nas ilhas de menores dos EUA. Se sua empresa estiver localizada no Brasil, você poderá vender ofertas de CSP para clientes somente no Brasil. Se sua empresa estiver localizada na região da África, você poderá vender ofertas do CSP para clientes em todos os 18 países na região da África.
 

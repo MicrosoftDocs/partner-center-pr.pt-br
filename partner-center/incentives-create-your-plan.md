@@ -5,15 +5,15 @@ ms.date: 06/29/2020
 description: Reúna e crie as informações necessárias para gerar um plano de marketing bem-sucedido para seu programa de incentivos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 446d336d57454a87377322905b44c3981a5e0bcf
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 37e39328b555e53b0f9789da5baddb280ed4fdea
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949671"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114176"
 ---
 # <a name="create-your-plan"></a>Criar o plano
 
@@ -56,7 +56,7 @@ Para obter mais informações sobre planos para seu programa de incentivos espec
 
 8. Na página de status, selecione **Nova atividade**. 
 
-9. Na página **Nova atividade**, preencha os campos obrigatórios. Você pode selecionar vários países. Quando terminar, selecione **Salvar**. 
+9. Na página **Nova atividade**, preencha os campos obrigatórios. Você pode selecionar vários países/regiões. Quando terminar, selecione **Salvar**. 
 
 10. Na página de status, examine as informações novamente. Depois de enviar um plano, não é possível editá-lo. Quando tiver terminado, selecione **Enviar** e, em seguida, selecione **Confirmar**.
 

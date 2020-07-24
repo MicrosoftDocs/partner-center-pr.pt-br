@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7625488266aab3eb8d1797a99847eaec56ced36f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f5c506e1f3dd5e1ffcac1d7017687b1b36718745
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435135"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943469"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Cobrança de produtos e assinaturas do Marketplace comercial no Partner Center
 
@@ -47,7 +47,7 @@ O administrador global ou de cobrança da sua empresa receberá um email quando 
 
     Você verá duas guias na parte superior da página de cobrança: compras **recorrentes** e **recorrentes e de uso único**. Cada guia permite que você acesse arquivos de reconhecimento (fatura e reconciliação) para diferentes produtos do Marketplace:
 
-    - Guia **recorrente** : mostra a fatura e os arquivos de reconciliação para assinaturas relacionadas ao Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, PowerBI Pro e Microsoft Azure.
+    - Guia **recorrente** : mostra a fatura e os arquivos de reconciliação das assinaturas relacionadas ao Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power BI Pro e Microsoft Azure.
 
     - Guia **compras recorrentes e de uso único** : mostra a fatura e os arquivos de reconciliação do plano do Azure, reservas do Azure, produtos de software e Marketplace comercial.
   

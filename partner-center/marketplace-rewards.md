@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Os parceiros que publicam ofertas para o Marketplace comercial estão qualificados para os benefícios que oferecem suporte de marketing.
-author: laurabrenner
-ms.author: labrenne
+author: billlinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b811ab94a3774c41955b2d152bba5b143d711fa
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 5822fbc1cb874f0199c4dc8e1e2c541a3ed3f9bd
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436835"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114168"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Gerencie recompensas do Marketplace no Partner Center & ative os benefícios técnicos, de marketing e vendas
 
