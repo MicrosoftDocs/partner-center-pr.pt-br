@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 22cdcb48df263323ac2862ced3a0f06eff2b0570
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 88b3a71bb63ac7ac3287712944a2a4663928a165
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434745"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943503"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Obter permissões para gerenciar o serviço ou a assinatura de um cliente
 
@@ -106,7 +106,7 @@ No Partner Center, os parceiros CSP podem gerenciar perfis do Autopilot para os 
 
 - Você não pode gerenciar os dispositivos adicionados pelo cliente por meio da Microsoft Store para Empresas, da Microsoft Store para Educação ou do Portal do Microsoft Intune.
 
-Para obter mais informações sobre o Autopilot, confira [Simplificar a configuração dos dispositivos com o Windows Autopilot](https://docs.microsoft.com/partner-center/autopilot).
+Para obter mais informações sobre o Autopilot, confira [Simplificar a configuração dos dispositivos com o Windows Autopilot](autopilot.md).
 
 >[!IMPORTANT]  
 >A experiência atual de gerenciamento do Autopilot no Partner Center poderá continuar sendo alterada. No momento da publicação deste artigo, as seguintes alterações foram consideradas:

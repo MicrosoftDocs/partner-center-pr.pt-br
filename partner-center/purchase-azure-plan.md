@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d54522500c52b6237377889a6766dd935bc40804
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 9dae2a9b716ee87891aafbe41ad87200f99ecb1b
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875252"
+ms.locfileid: "86943523"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Adquira o plano do Azure para clientes e acesse os serviços mais recentes do Azure com taxas pré-pagas
 
@@ -37,7 +37,7 @@ A maneira como você adquire o plano do Azure é semelhante à compra de qualque
 
 :::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Adquirir":::
 
-O parceiro deve confirmar se o cliente examinou e aceitou os termos do Contrato de Cliente da Microsoft. Para obter mais informações sobre como o parceiro pode fazer isso, leia [Confirmar a aceitação pelo cliente do Contrato de Cliente da Microsoft](https://docs.microsoft.com/partner-center/confirm-customer-agreement). Esses recursos estão disponíveis na [galeria de recursos](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
+O parceiro deve confirmar se o cliente examinou e aceitou os termos do Contrato de Cliente da Microsoft. Para obter mais informações sobre como o parceiro pode fazer isso, leia [Confirmar a aceitação pelo cliente do Contrato de Cliente da Microsoft](confirm-customer-agreement.md). Esses recursos estão disponíveis na [galeria de recursos](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
 
 **Para confirmar, você pode**: 
 
@@ -75,9 +75,9 @@ Você também pode comprar reservas do Microsoft Azure no âmbito do plano do Az
 As reservas do Azure devem estar associadas a um plano do Azure ativo. Escolha o plano do Azure ao qual deseja adicionar as reservas do Azure na lista de assinaturas do Cliente. 
 
 >[!Important] 
->Se o cliente ainda não tiver um plano do Azure ativo, selecione Azure para adicionar um agora mesmo. Para obter mais instruções, leia [Comprar reservas do Azure](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations).
+>Se o cliente ainda não tiver um plano do Azure ativo, selecione Azure para adicionar um agora mesmo. Para obter mais instruções, leia [Comprar reservas do Azure](azure-reservations-buying.md#purchase-azure-reservations).
 
->[!Note] 
+>[!Note]
 >O escopo da reserva só pode ser definido como **Compartilhado** no momento no Partner Center. Para selecionar o escopo de assinatura única ou atualizar de um escopo compartilhado para o escopo de assinatura única, acesse o **portal de Gerenciamento do Microsoft Azure** usando as seguintes instruções. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Configuração de reservas de escopo compartilhado":::

@@ -5,16 +5,16 @@ ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Examine informações úteis e perguntas frequentes antes de migrar o seu negócio do Partner Membership Center para o Partner Center.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyamsft
+ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9085a4faaea4ac028633eb669212af5afbcb3d4
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 31da796b50e9deeb2d6256e7818e587e9bedb881
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749167"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114570"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Preparar a migração do PMC (Partner Membership Center) para o Partner Center
 
@@ -55,7 +55,7 @@ O Partner Center tem diferentes tipos de funções, dependendo dos tipos de trab
 
 **O que acontece com as funções dos meus usuários quando eles migram do PMC para o Partner Center?**
 
-Exceto o administrador global do MPN ou o contato principal do programa que realiza a migração, todos os usuários do PMC perderão as respectivas funções de administrador. O indivíduo que conclui a migração precisará atribuir funções no Partner Center. As funções no Partner Center são diferentes das funções no PMC. Leia [Atribuir funções e permissões de usuários]\(permissões-overview.md) e [Como migrar do PMC para o Partner Center](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles) para obter mais informações sobre as funções de usuário do Partner Center.
+Exceto o administrador global do MPN ou o contato principal do programa que realiza a migração, todos os usuários do PMC perderão as respectivas funções de administrador. O indivíduo que conclui a migração precisará atribuir funções no Partner Center. As funções no Partner Center são diferentes das funções no PMC. Leia [Atribuir funções e permissões de usuários]\(permissões-overview.md) e [Como migrar do PMC para o Partner Center](move-pmc-pc-map.md#user-roles) para obter mais informações sobre as funções de usuário do Partner Center.
 
 
 **Qual é a diferença entre o meu perfil de empresa e o meu perfil comercial?**

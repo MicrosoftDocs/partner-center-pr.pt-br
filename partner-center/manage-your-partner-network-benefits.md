@@ -5,16 +5,16 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Junte-se ao MPN (Microsoft Partner Network) e use o Partner Center para gerenciar os benefícios e as ofertas de associação que podem ajudar a aumentar os seus negócios.
-author: LauraBrenner
-ms.author: labrenne
+author: arpithakanuganti
+ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4f13dcd911da248b1674f2ded9c596f85857541a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cb44a8c32476995275535e1252e2bc9ae2c618d1
+ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434345"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87120000"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Gerenciar as suas ofertas e benefícios de associação ao Microsoft Partner Network no Partner Center
 
@@ -43,7 +43,7 @@ Depois de comprar um pacote de benefícios de associação, você precisará obt
 
 Os pacotes de benefícios incluem alocações de software licenciado, serviços de nuvem, assinaturas do Visual Studio e suporte. Os pacotes de benefícios também podem incluir determinados recursos, ofertas e programas de entrada no mercado. Obtenha os detalhes sobre a assinatura do Action Pack no site do [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
-Para exibir e gerenciar todos os seus benefícios de associação, acesse a [página **Benefícios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (entrada necessária). Como alternativa, você pode entrar no [Painel](https://docs.microsoft.com/partner-center/) do Partner Center, selecionar a [**opção Benefícios**] no menu à esquerda e, em seguida, selecionar as opções de benefícios exibidas.  
+Para exibir e gerenciar todos os seus benefícios de associação, acesse a [página **Benefícios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (entrada necessária). Como alternativa, você pode entrar no [Painel](https://partner.microsoft.com/dashboard) do Partner Center, selecionar a [**opção Benefícios**] no menu à esquerda e, em seguida, selecionar as opções de benefícios exibidas.  
 
 ## <a name="manage-software-benefits"></a>Gerenciar os benefícios de software
 

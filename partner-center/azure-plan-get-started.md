@@ -9,12 +9,12 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: a1937a750100450aa8c3fe0e0846ea688d284bf5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cf2d1085b529e1fbd0fad74c4e56d16f789a48e9
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435815"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943953"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Comece a usar tarifas pagas conforme o uso com o plano do Azure
 
@@ -48,7 +48,7 @@ Considerando a natureza altamente privilegiada de um parceiro, precisamos garant
 - Implementar os [padrões de segurança do Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 - Implementar a solução de terceiros e garantir que a MFA seja imposta para cada usuário
 
-A partir de 1º de agosto de 2019, todos os parceiros são obrigados a impor a autenticação multifator a todos os usuários, incluindo as contas de serviço, em seu locatário de parceiro. Informações detalhadas sobre esses requisitos de segurança podem ser encontradas em [Requisitos de segurança de parceiros](https://docs.microsoft.com/partner-center/partner-security-requirements).
+A partir de 1º de agosto de 2019, todos os parceiros são obrigados a impor a autenticação multifator a todos os usuários, incluindo as contas de serviço, em seu locatário de parceiro. Informações detalhadas sobre esses requisitos de segurança podem ser encontradas em [Requisitos de segurança de parceiros](partner-security-requirements.md).
 
 A Microsoft recomenda que os parceiros usem o RBAC de forma adequada, seguindo as melhores práticas habilitadas por meio dos [Recursos do Azure Active Directory Privileged Identity Management](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure).
 

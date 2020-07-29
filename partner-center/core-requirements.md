@@ -5,16 +5,16 @@ ms.date: 07/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Saiba como gerar demanda, entender o desenvolvimento do mercado e maximizar a preparação do parceiro para as atividades em seu programa de incentivos.
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 3c17813ef9fec4ebdf9dee00a644d708c66dcfe5
-ms.sourcegitcommit: 3c28f795e0a2bd7e14e72bc5c0466b46f5e31527
+ms.openlocfilehash: ce728bc22625aecd86142a21aaec00a111b58732
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "86475541"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114878"
 ---
 # <a name="incentives-co-op-claims-core-requirements"></a>Solicitações principais de reivindicações de cooperação de incentivos
 

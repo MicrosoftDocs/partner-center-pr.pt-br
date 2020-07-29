@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: ebff4f924224c02f5c622b5f87849e36c96f6ab7
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: d03421995c2243b5deb8575916dbe15c76ea746c
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749130"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944443"
 ---
 # <a name="april-2020-announcements"></a>Comunicados de abril de 2020
 
@@ -48,7 +48,7 @@ Em 4 de maio de 2020, a Microsoft apresentará novas promoções de descontos pa
 
 Essas promoções substituirão a oferta de avaliação atual do Office 365 E1 e terão as seguintes diferenças:
 
-- Os parceiros negociarão os SKUs anuais do Office 365 E1 ou do Microsoft 365 Business Basic utilizando uma promoção do CSP que aplica um desconto de 100% nos primeiros 6 meses, em vez de um SKU de avaliação exclusivo de 6 meses. [Saiba mais sobre as promoções do CSP](https://docs.microsoft.com/partner-center/promotions).
+- Os parceiros negociarão os SKUs anuais do Office 365 E1 ou do Microsoft 365 Business Basic utilizando uma promoção do CSP que aplica um desconto de 100% nos primeiros 6 meses, em vez de um SKU de avaliação exclusivo de 6 meses. [Saiba mais sobre as promoções do CSP](../promotions.md).
 - Os pedidos serão tecnicamente restritos aos "novos clientes", em vez da avaliação do Office 365 E1, que foi restrita aos novos clientes por meio de apenas uma política por escrito. Saiba mais sobre isso examinando as [perguntas frequentes sobre o Parceiro da Microsoft](https://aka.ms/CSPCOVIDPromo).
 - Para clientes SMB, o Microsoft 365 Business Basic será incluído nessa promoção. Isso garante que os parceiros possam iniciar clientes com menos de 300 estações na família de produtos certa com o Microsoft 365 for Business.
 Os clientes atualmente licenciados com a avaliação do Office 365 E1 (disponível até 4 de maio de 2020) permanecerão nos respectivos planos atuais; essa alteração afeta apenas os novos clientes líquidos.
@@ -106,7 +106,7 @@ Aqui estão alguns detalhes sobre como essa funcionalidade funciona:
 ### <a name="next-steps"></a>Próximas etapas
 
 1. Comece a ajudar os clientes a comprar as próprias reservas do Azure usando a nova funcionalidade.
-2. [Examine os recursos disponíveis nesta coleção](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/) que fornecem mais informações, incluindo [documentação técnica](https://docs.microsoft.com/partner-center/give-customers-permission), um passo a passo sobre a experiência do parceiro e outro sobre a experiência do cliente.
+2. [Examine os recursos disponíveis nesta coleção](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/) que fornecem mais informações, incluindo [documentação técnica](../give-customers-permission.md), um passo a passo sobre a experiência do parceiro e outro sobre a experiência do cliente.
 
 _________________
 
@@ -168,7 +168,7 @@ Garantias de segurança e privacidade maiores e contínuas estão entre as nossa
 
 Recentemente, concluímos a ativação de proteções de segurança para recursos de AOBO (administração em nome de) para todos os locatários dos parceiros. Isso protege as empresas e os clientes de incidentes relacionados ao roubo de identidades.
 
-Para ajudar a defender ainda mais os parceiros e os clientes, **a partir de 1º de maio de 2020, iniciaremos a ativação de proteções para transações do Partner Center no CSP**. Com a ativação das proteções de segurança adicionais, os parceiros precisarão usar a MFA (autenticação multifator) em todas as transações no CSP que usam a experiência do usuário ou as APIs do Partner Center. Desse modo, eles impedirão acessos não autorizados e protegerão os clientes e locatários deles de incidentes de segurança relacionados ao roubo de identidades. Veja mais detalhes [aqui](https://docs.microsoft.com/partner-center/partner-security-requirements-mandating-mfa).
+Para ajudar a defender ainda mais os parceiros e os clientes, **a partir de 1º de maio de 2020, iniciaremos a ativação de proteções para transações do Partner Center no CSP**. Com a ativação das proteções de segurança adicionais, os parceiros precisarão usar a MFA (autenticação multifator) em todas as transações no CSP que usam a experiência do usuário ou as APIs do Partner Center. Desse modo, eles impedirão acessos não autorizados e protegerão os clientes e locatários deles de incidentes de segurança relacionados ao roubo de identidades. Veja mais detalhes [aqui](../partner-security-requirements-mandating-mfa.md).
 
 ### <a name="next-steps"></a>Próximas etapas
 
@@ -181,9 +181,9 @@ Para ajudar a defender ainda mais os parceiros e os clientes, **a partir de 1º 
 
 Confira estes recursos para ajudar a implementar os requisitos de segurança.
 
-- Confira o [guia passo a passo](https://docs.microsoft.com/partner-center/partner-security-requirements) para implementar os requisitos de segurança do parceiro.
-- Confira as [perguntas frequentes](https://docs.microsoft.com/partner-center/partner-security-requirements-faq) e suas respostas sobre os requisitos de segurança do parceiro.
-- Veja o [Guia de verificação de status dos requisitos de segurança](https://docs.microsoft.com/partner-center/partner-security-compliance).
+- Confira o [guia passo a passo](../partner-security-requirements.md) para implementar os requisitos de segurança do parceiro.
+- Confira as [perguntas frequentes](../partner-security-requirements-faq.md) e suas respostas sobre os requisitos de segurança do parceiro.
+- Veja o [Guia de verificação de status dos requisitos de segurança](../partner-security-compliance.md).
 - Acesse outros recursos na coleção [Implementar os requisitos de segurança do parceiro](https://partner.microsoft.com/resources/collection/partner-security-requirements#/).
 - Coloque o [grupo da comunidade de Diretrizes de Segurança do Partner Center nos favoritos](https://aka.ms/MPCSecurityGuidance).
 
@@ -192,7 +192,7 @@ Para receber mais assistência com problemas técnicos, [envie um tíquete de su
 Agradecemos por sua parceria e seu compromisso para garantir que nosso ecossistema seja executado com confiança.
 
 >[!NOTE] 
->Se você está usando políticas de linha de base e não fez a transição para a política de padrões de segurança ou [outras opções de implementação de MFA](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take), faça a transição o quanto antes, consultando [estes recursos](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
+>Se você está usando políticas de linha de base e não fez a transição para a política de padrões de segurança ou [outras opções de implementação de MFA](..\partner-security-requirements.md#actions-that-you-need-to-take), faça a transição o quanto antes, consultando [estes recursos](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
 
 ### <a name="change-log"></a>Log de alterações
 

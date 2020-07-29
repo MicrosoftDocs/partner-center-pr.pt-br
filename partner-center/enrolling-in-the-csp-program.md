@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como se registrar no modelo de vendas do programa CSP (Provedor de Soluções na Nuvem) que é melhor para os seus negócios, como revendedor indireto ou parceiro de cobrança direta.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 20f8332b5f1ea3df7862c252c2b0eb777df4141e
-ms.sourcegitcommit: 83f9c114910282dc87b3ec22d59a8b24b1d6b368
+ms.openlocfilehash: 640ce63495a0894ecdba328fdc52992d0d0ea712
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84262860"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114291"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>Registre-se no programa de Provedor de Soluções na Nuvem e crie um negócio de solução de nuvem lucrativo
 

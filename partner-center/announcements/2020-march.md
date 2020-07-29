@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: cf651921412afac599fc186bf54e87be5783b0bb
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: 5cbaaa63ce4e28f57e8f50bff8ee13f013080526
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286614"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943973"
 ---
 # <a name="march-2020-announcements"></a>Comunicados de março de 2020
 
@@ -102,14 +102,14 @@ Em 31 de agosto de 2018, a Microsoft atualizou os requisitos de registro para pa
 
 Novas funcionalidades estão disponíveis para transferir as assinaturas do CSP de locatários de cobrança direta para locatários de fornecedor indireto. Essa nova funcionalidade facilitará a transição de parceiros de cobrança direta para revendedores indiretos, ajudando a acelerar o crescimento dos negócios dentro do programa.
 
-Revise a página de [ofertas do CSP](https://docs.microsoft.com/partner-center/csp-offers) para obter mais informações.
+Revise a página de [ofertas do CSP](../csp-offers.md) para obter mais informações.
 
 >[!NOTE] 
->as transferências só terão suporte para assinaturas baseadas em licença e assinaturas do Azure. Você precisará transferir manualmente seu plano do Azure e as compras do Marketplace comercial. Observe que isso envolve o cancelamento e a renovação das assinaturas descritas nos seguintes documentos: [Plano do Azure](https://docs.microsoft.com/partner-center/azure-plan-lp) e [Marketplace comercial](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-manage). Como as assinaturas de servidor e as reservas do Azure são uma compra única, elas não precisarão ser transferidas para um locatário de fornecedor indireto. Visite a página de ofertas do CSP para obter mais informações.
+>as transferências só terão suporte para assinaturas baseadas em licença e assinaturas do Azure. Você precisará transferir manualmente seu plano do Azure e as compras do Marketplace comercial. Observe que isso envolve o cancelamento e a renovação das assinaturas descritas nos seguintes documentos: [Plano do Azure](../azure-plan-lp.md) e [Marketplace comercial](../csp-commercial-marketplace-manage.md). Como as assinaturas de servidor e as reservas do Azure são uma compra única, elas não precisarão ser transferidas para um locatário de fornecedor indireto. Visite a página de ofertas do CSP para obter mais informações.
 
 ### <a name="additional-resources"></a>Recursos adicionais:
 
-- Artigo de ajuda [Transição do parceiro de cobrança direta do CSP (Provedor de Soluções na Nuvem) para o revendedor indireto do CSP](https://docs.microsoft.com/partner-center/transition-direct-to-indirect#move-your-direct-bill-customers-to-your-indirect-provider)
+- Artigo de ajuda [Transição do parceiro de cobrança direta do CSP (Provedor de Soluções na Nuvem) para o revendedor indireto do CSP](../transition-direct-to-indirect.md#move-your-direct-bill-customers-to-your-indirect-provider)
 - [Fatura direta para o conjunto do revendedor indireto](https://assetsprod.microsoft.com/mpn/direct-bill-transition-to-indirect-reseller-new-capability)
 
 ### <a name="next-steps"></a>Próximas etapas
