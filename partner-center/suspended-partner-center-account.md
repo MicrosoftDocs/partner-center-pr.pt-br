@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07d9f4f484a7c7803d5b7a41d1d8fe0f698b58d3
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.openlocfilehash: 7d362e78cccf1372760a38f849b0a29a0a31c1ac
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219644"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365732"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restaurar uma conta suspensa do Partner Center – saiba por que isso acontece e o que fazer a respeito
 
@@ -24,6 +24,10 @@ Este artigo explica o que fazer caso sua conta no Partner Center seja suspensa.
 
 -  Partner Center
 -  Partner Center do Microsoft Cloud for US Government
+
+**Funções apropriadas**
+
+- Administrador global
 
 
 > [!IMPORTANT]  

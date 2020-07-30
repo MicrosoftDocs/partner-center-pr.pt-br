@@ -9,14 +9,18 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 76c16d7f40bac4a01f90df3dfe289cf92f588462
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: af06cd5da4ea5a38ea272a2210bca9917bbecdd9
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436505"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365742"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>Se você não puder entrar no Partner Center e precisar redefinir sua senha
+
+**Funções apropriadas**
+
+- Usuários do Partner Center
 
 Se você esqueceu sua senha e não consegue entrar na Central de Parceiros, será necessário ligar para o suporte. O número de telefone apropriado está em [Suporte de produtos para empresas](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone#ID0EAADAAA=Phone_support_). 
 
@@ -24,7 +28,7 @@ Para maneiras diferentes de como você pode redefinir sua senha e restabelecer o
 
 Depois que a senha da conta corporativa tiver sido redefinida, você poderá acessar o Partner Center. 
 
-## <a name="see-more"></a>Ver mais
+## <a name="next-steps"></a>Próximas etapas
 
 - [Verifique as informações da conta](verification-responses.md)
 - [Redefinir minha senha](reset-my-pasword.md)
