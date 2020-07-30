@@ -319,6 +319,11 @@
     "source_path": "partner-center/customers_revoke_admin_privileges.md",
     "redirect_url": "/partner-center/customers-revoke-admin-privileges",
     "redirect_document_id": "TRUE"
+  },
+  {
+    "source_path": "partner-center/dashboard/index.yml",
+    "redirect_url": "/partner-center/",
+    "redirect_document_id": "FALSE"
   }
  ]
 }
