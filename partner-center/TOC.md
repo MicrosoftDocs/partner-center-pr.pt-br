@@ -15,6 +15,7 @@
 ### [Guia para mover suas várias empresas para o Partner Center](move-multiple-companies.md)
 ### [Consolidação de suas empresas](consolidate-accounts.md)
 
+
 ## Ofertas de associação
 ### [Action Pack](mpn-get-action-pack.md)
 ### [Renovar suas ofertas](renew-mpn-offers.md)
@@ -65,6 +66,7 @@
 ## [Verificar sua propriedade do domínio](become-global-admin.md)
 ## [Verifique as informações da conta](verification-responses.md)
 ## [Mesclar sua conta de parceiro com outra conta de parceiro](merge-accounts.md)
+## [Associar outros locatários do Azure AD à conta do Partner Center](multi-tenant-account.md)
 ## [Atualizar seu perfil de parceiro](update-your-partner-profile.md)
 ## [Locais](manage-locations.md)
 ## [Registrar-se como um fornecedor do Painel de Controle](enroll-as-cpv.md)
@@ -100,6 +102,7 @@
 ### Introdução aos incentivos
 #### [Determinar a qualificação para o programa](incentives-determined-your-program-eligibility.md)
 #### [Criar e gerenciar perfis fiscais e de pagamento no Partner Center](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+#### [Perguntas frequentes sobre o pagamento de incentivos e o perfil fiscal](incentives-payout-tax-profile-faqs.md)
 #### [Confirmar a qualificação para lucros](incentives-confirm-your-earnings-eligibility.md)
 #### [Exibir seus pagamentos de incentivos e programas](understand-incentive-payouts.md)
 #### [Acessar sua página de pagamento de incentivos](incentives-unified-user-guide.md)
@@ -124,7 +127,7 @@
 ## [Usar os arquivos de reconciliação](use-the-reconciliation-files.md)
 ## [Tipos de encargo de arquivos de reconciliação](recon-file-charge-types.md)
 ## [Ler arquivos de reconciliação de uso com classificação diária no Partner Center](daily-rated-usage-recon-files.md)
-## [arquivos de reconciliação baseados em licença](license-based-recon-files.md)
+## [Arquivos de reconciliação baseados em licença](license-based-recon-files.md)
 ## [Cenários comuns de cobrança](common-billing-scenarios.md)
 ### [Cenários de cobrança mensal](common-billing-scenarios-monthly.md)
 ### [Cenários de cobrança anual](common-billing-scenarios-annual.md)
@@ -132,6 +135,9 @@
 ### [Faturas de cobrança – Leia os campos de cobrança e taxa única](invoice-file.md)
 ### [Cobrança baseada em licença](license-based-billing.md)
 ### [Cenários para assinaturas SaaS baseadas em licença](common-billing-scenarios-saas.md)
+
+## [Ver assinaturas digitais – Partner Center da Índia](digital-signature.md)
+
 ## [Impostos e isenções de imposto](tax-and-tax-exemptions.md)
 ### [Informações sobre o IVA da empresa](organization-tax-info.md)
 ### [Verifique se que você está creditado para retenção de imposto](withholding-tax-credit-form.md)

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 7db336b8d954c738d2d9d7bf9acd9ec744206a72
-ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
+ms.openlocfilehash: 7a15cd7fbf51a54e6190f29c41fd21ef5ed419fd
+ms.sourcegitcommit: 93b7230d5807adc470775ee38d4e139d84980ebb
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86949852"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "87330113"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,7 +22,9 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 | **Categoria** | **Comunicados de julho de 2020** | **Comunicado** |
 |---------|:---------|:---------|
-|Capacidades|[Incentivo do CSP (Provedor de Soluções na Nuvem) para ofertas qualificadas do marketplace comercial da Microsoft aprimorado para o ano fiscal de 2021](2020-July.md#7)|22 de julho|
+|Capacidades|[Futuras alterações nas APIs do Partner Center](2020-july.md#9)|28 de julho|
+|Capacidades|[Lançamento de SDK na versão prévia do .NET Standard v1.16.1](2020-july.md#8)|21 de julho|
+|Capacidades|[Incentivo do CSP (Provedor de Soluções na Nuvem) para ofertas qualificadas do marketplace comercial da Microsoft aprimorado para o ano fiscal de 2021](2020-july.md#7)|22 de julho|
 |Capacidades|[Novas funcionalidades adicionadas aos relatórios de Insights no Partner Center ](2020-july.md#6)|16 de julho|
 |Ofertas/mercados|[Software perpétuo no programa Provedor de Soluções na Nuvem ](2020-july.md#5)|15 de julho|
 | Ofertas/mercados | [Novos SKUs do Microsoft 365 Enterprise Voice para o Teams](2020-july.md#4) | 3 de julho |
