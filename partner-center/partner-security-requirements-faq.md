@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d2656ad80cc66742ee432f3eaecb284da798b1c
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f89240966de1976bd08ae8a91272bf6b10dddfcc
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434115"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943554"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Perguntas frequentes sobre os requisitos de segurança de parceiros
 
@@ -40,9 +40,9 @@ O Contrato de Parceiro da Microsoft exige que você imponha a autenticação mul
 
 Os parceiros que não seguirem essas práticas de segurança poderão perder a capacidade de realizar transações no programa CSP ou de gerenciar locatários de clientes usando direitos de administrador delegado.
 
-### <a name="does-this-apply-to-all-geographies"></a>Isso se aplica a todas as geografias?
+### <a name="do-the-security-requirements-apply-to-all-geographies"></a>Os requisitos de segurança se aplicam a todas as geografias?
 
-Sim, isso se aplica a todas as geografias. É altamente recomendável que todos os parceiros que negociam em uma nuvem soberana (21Vianet, governo dos EUA e Alemanha) atuem e adotem esses novos requisitos de segurança imediatamente. No entanto, esses parceiros não precisam atender aos novos requisitos de segurança em vigor a partir de 1º de agosto. Futuramente, a Microsoft fornecerá detalhes adicionais sobre a imposição desses requisitos de segurança para nuvens soberanas.
+Sim, os requisitos de segurança se aplicam a todas as geografias. É altamente recomendável que todos os parceiros que negociam em uma nuvem soberana (21Vianet, governo dos EUA e Alemanha) atuem e adotem esses novos requisitos de segurança imediatamente. No entanto, esses parceiros não precisam atender aos novos requisitos de segurança em vigor a partir de 1º de agosto. Futuramente, a Microsoft fornecerá detalhes adicionais sobre a imposição desses requisitos de segurança para nuvens soberanas.
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>É possível abrir exceção para uma conta?
 
@@ -52,12 +52,12 @@ Não, não é possível isentar nenhuma conta de usuário do requisito de ter a 
 
 Você precisa concluir as etapas abaixo
 
-- Será necessário atender a todos os requisitos descritos nos [requisitos de segurança do parceiro](https://docs.microsoft.com/partner-center/partner-security-requirements)
+- Será necessário atender a todos os requisitos descritos nos [requisitos de segurança do parceiro](partner-security-requirements.md)
 - Você precisa garantir que a autenticação multifator seja imposta em todas as contas de usuário em seu locatário do parceiro.
 
 Para ajudar a identificar as principais áreas em que você pode executar ações, estamos fornecendo o relatório de [status dos requisitos de segurança](https://partner.microsoft.com/pcv/security/compliance), que está disponível por meio do Partner Center.
 
-Confira o [status dos requisitos de segurança do parceiro](https://docs.microsoft.com/partner-center/partner-security-compliance) para obter mais informações sobre o relatório de status.
+Confira o [status dos requisitos de segurança do parceiro](partner-security-compliance.md) para obter mais informações sobre o relatório de status.
 
 ## <a name="required-actions"></a>Ações necessárias
 
@@ -89,7 +89,7 @@ Todos os parceiros do programa CSP (cobrança direta, provedor indireto e revend
 
     Consulte o fornecedor com relação à adoção da estrutura Modelo de Aplicativo Seguro se você estiver usando um painel de controle.
 
-    Os fornecedores de painel de controle são obrigados a se [integrar](https://docs.microsoft.com/partner-center/enroll-as-cpv) com o Partner Center como fornecedores de painel de controle e começar a implementar esses requisitos imediatamente. Confira [Partner Center: estrutura do Modelo de Aplicativo Seguro](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Os fornecedores de painel de controle devem aceitar e gerenciar o consentimento dos parceiros do CSP em vez de credenciais e limpar todas as credenciais de parceiros do CSP existentes.
+    Os fornecedores de painel de controle são obrigados a se [integrar](enroll-as-cpv.md) com o Partner Center como fornecedores de painel de controle e começar a implementar esses requisitos imediatamente. Confira [Partner Center: estrutura do Modelo de Aplicativo Seguro](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Os fornecedores de painel de controle devem aceitar e gerenciar o consentimento dos parceiros do CSP em vez de credenciais e limpar todas as credenciais de parceiros do CSP existentes.
 
 ## <a name="multi-factor-authentication"></a>Autenticação Multifator
 
@@ -124,9 +124,9 @@ Sim, cada usuário precisará ter a MFA imposta. No entanto, se você estiver us
 
 Parceiros de cobrança direta do Provedor de Soluções na Nuvem devem impor a MFA para cada usuário do seu locatário de parceiro.
 
-### <a name="i-am-an-indirect-reseller-and-only-transact-though-a-distributor-do-i-still-have-to-do-this"></a>Sou um revendedor indireto e realizo transações apenas por meio de um distribuidor. Mesmo assim tenho que fazer isso?
+### <a name="i-am-an-indirect-reseller-and-only-transact-though-a-distributor-do-i-still-have-to-do-enable-mfa"></a>Sou um revendedor indireto e realizo transações apenas por meio de um distribuidor. Mesmo assim tenho que habilitar a MFA?
 
-Todos os revendedores indiretos precisam impor a MFA para cada usuário do seu locatário de parceiro. Essa é uma ação que o revendedor indireto deve executar.
+Todos os revendedores indiretos precisam impor a MFA para cada usuário do seu locatário de parceiro. O revendedor indireto deve habilitar a MFA.
 
 ### <a name="i-dont-use-the-partner-center-api-do-i-still-need-to-implement-mfa"></a>Eu não uso a API da Central de Parceiros. Mesmo assim preciso implementar a MFA?
 
@@ -152,7 +152,7 @@ Não. O cumprimento desses requisitos de segurança não afetará a maneira como
 
 Não, não é necessário impor a MFA para cada usuário nos locatários do Azure AD do seu cliente. No entanto, é recomendável que você trabalhe com cada cliente para determinar a melhor maneira de proteger os usuários de cada um deles.
 
-### <a name="can-any-user-be-excluded-from-this-requirement"></a>Algum usuário pode ser excluído deste requisito?
+### <a name="can-any-user-be-excluded-from-the-mfa-requirement"></a>Qualquer usuário pode ser excluído do requisito da MFA?
 
 Não, todos os usuários do seu locatário de parceiro, inclusive as contas de serviço, serão obrigados a se autenticar usando a MFA.
 
@@ -162,7 +162,7 @@ Sim, os requisitos de segurança de parceiros se aplicam à área restrita de in
 
 ### <a name="how-do-i-configure-an-emergency-access-break-glass-account"></a>Como faço para configurar uma conta de acesso de emergência?
 
-É considerada uma melhor prática criar uma ou duas contas de acesso de emergência para impedir o bloqueio não intencional do seu locatário do Azure AD. Em relação aos requisitos de segurança de parceiros, é necessário que cada usuário seja autenticado usando a MFA. Isso significa que você precisará modificar a definição da conta de acesso de emergência. Pode ser uma conta que esteja aproveitando uma solução de MFA de terceiros.
+É considerada uma melhor prática criar uma ou duas contas de acesso de emergência para impedir o bloqueio não intencional do seu locatário do Azure AD. Em relação aos requisitos de segurança de parceiros, é necessário que cada usuário seja autenticado usando a MFA. Esse requisito significa que você precisará modificar a definição da conta de acesso de emergência. Pode ser uma conta que esteja aproveitando uma solução de MFA de terceiros.
 
 ### <a name="is-active-directory-federation-service-adfs-required-if-i-am-using-a-third-party-solution"></a>O ADFS (Serviço de Federação do Active Directory) será necessário se eu estiver usando uma solução de terceiros?
 
@@ -203,11 +203,11 @@ Todos os parceiros que desenvolveram uma integração personalizada usando qualq
 
 Se você estiver usando um painel de controle, precisará consultar o fornecedor com relação à adoção da estrutura Modelo de Aplicativo Seguro.
 
-Os fornecedores de painel de controle são obrigados a se [integrar](https://docs.microsoft.com/partner-center/enroll-as-cpv) com o Partner Center como fornecedores de painel de controle e começar a implementar esses requisitos imediatamente. Confira [Partner Center: estrutura do Modelo de Aplicativo Seguro](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Os fornecedores de painel de controle devem aceitar e gerenciar o consentimento dos parceiros do CSP em vez de credenciais e limpar todas as credenciais de parceiros do CSP existentes.
+Os fornecedores de painel de controle são obrigados a se [integrar](enroll-as-cpv.md) com o Partner Center como fornecedores de painel de controle e começar a implementar esses requisitos imediatamente. Confira [Partner Center: estrutura do Modelo de Aplicativo Seguro](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Os fornecedores de painel de controle devem aceitar e gerenciar o consentimento dos parceiros do CSP em vez de credenciais e limpar todas as credenciais de parceiros do CSP existentes.
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>O Modelo de Aplicativo Seguro precisa ser implementado somente para a API/o SDK do Partner Center?
 
-Por meio da imposição da autenticação multifator a todas as contas de usuário, qualquer automação ou integração destinada à execução não interativa será afetada. Embora os requisitos de segurança do parceiro exijam que você habilite o modelo de aplicativo seguro para a API do Partner Center, ele pode ser utilizado para atender à necessidade de um segundo fator de autenticação com automação e integração. 
+Por meio da imposição da autenticação multifator a todas as contas de usuário, qualquer automação ou integração destinada à execução não interativa será afetada. Embora os requisitos de segurança do parceiro exijam que você habilite o modelo de aplicativo seguro para a API do Partner Center, ele pode ser utilizado para atender à necessidade de um segundo fator de autenticação com automação e integração.
 
 >[!Note] 
 >Os recursos que estão sendo acessados precisarão ser compatíveis com a autenticação baseada em token de acesso.
@@ -221,7 +221,7 @@ Você precisará implementar o Modelo de Aplicativo Seguro se a automação for 
 
 ### <a name="what-user-credentials-should-the-application-administrator-provide-when-performing-the-consent-process"></a>Quais credenciais de usuário o administrador de aplicativos deve fornecer ao executar o processo de consentimento?
 
-É recomendável que você use uma conta de serviço à qual tenha sido atribuído o menor nível de permissões. Em relação à API da Central de Parceiros, isso significa que você deve usar uma conta que tenha recebido a função Agente de Vendas ou Agente Administrativo.
+É recomendável que você use uma conta de serviço à qual tenha sido atribuído o menor nível de permissões. Em relação à API do Partner Center, você deve usar uma conta que tenha recebido a função Agente de Vendas ou Agente Administrativo.
 
 ### <a name="why-should-the-application-administrator-not-provide-global-admin-user-credentials-when-performing-the-consent-process"></a>Por que o administrador de aplicativos não deve fornecer credenciais de usuário administrador global ao executar o processo de consentimento?
 
@@ -237,17 +237,20 @@ Um Fornecedor de Painel de Controle é um fornecedor independente de software qu
 
 ### <a name="i-am-a-cpv-how-do-i-enroll"></a>Eu sou um CPV. Como faço para me registrar?
 
-Para se registrar como um CPV (Fornecedor de Painel de Controle), siga as orientações fornecidas [aqui](https://docs.microsoft.com/partner-center/enroll-as-cpv).
+Para se registrar como um CPV (Fornecedor de Painel de Controle), siga as orientações fornecidas [aqui](enroll-as-cpv.md).
 
 Os CPVs precisam entrar em contato pelo email [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com) para receber o link de registro e fornecer um patrocinador funcionário da Microsoft que mantenha uma relação comercial com o CPV ou que tenha conhecimento dos negócios realizados por ele. Por exemplo, um PDM (Gerente de Desenvolvimento de Parceiros).
 
 Depois de se registrar e registrar seus aplicativos na Central de Parceiros, você terá acesso às APIs da Central de Parceiros. Você receberá as informações de área restrita por meio de uma notificação da Central de Parceiros se for um novo CPV. Depois de concluir o registro como CPV da Microsoft e aceitar o contrato de CPV, você poderá:
 
-1. Gerenciar aplicativos multilocatários (adicionar aplicativos ao portal do Azure e registrar e cancelar o registro de aplicativos no Partner Center). 
-     >[!Note] 
-     >os CPVs deverão registrar seus aplicativos no Partner Center para serem autorizados a usar as APIs do Partner Center. Apenas adicionar aplicativos ao portal do Azure não autoriza os aplicativos de CPV a usarem as APIs do Partner Center.
-2. Exiba e gerencie seu perfil de CPV.
-3. Exiba e gerencie seus usuários que precisam de acesso aos recursos de CPV. A única função que um CPV pode ter é a função de administrador global.
+1. Gerenciar aplicativos multilocatários (adicionar aplicativos ao portal do Azure e registrar e cancelar o registro de aplicativos no Partner Center).
+
+   >[!Note]
+   >os CPVs deverão registrar seus aplicativos no Partner Center para serem autorizados a usar as APIs do Partner Center. Apenas adicionar aplicativos ao portal do Azure não autoriza os aplicativos de CPV a usarem as APIs do Partner Center.
+
+1. Exiba e gerencie seu perfil de CPV.
+
+1. Exiba e gerencie seus usuários que precisam de acesso aos recursos de CPV. Um CPV só pode ter o administrador global da função.
 
 ### <a name="i-am-using-the-partner-center-sdk-will-sdk-automatically-adopt-the-secure-application-model"></a>Estou usando o SDK do Partner Center. O SDK adotará automaticamente o Modelo de Aplicativo Seguro?
 
@@ -255,7 +258,7 @@ Não, você precisará seguir as diretrizes fornecidas no [guia do Modelo de Apl
 
 ### <a name="can-i-generate-a-refresh-token-for-the-secure-application-model-with-accounts-that-dont-have-mfa-enabled"></a>Posso gerar um token de atualização para o Modelo de Aplicativo Seguro com as contas que não têm a MFA habilitada?
 
-Sim, é possível gerar um token de atualização com uma conta que não imponha a MFA. No entanto, isso não deve ser feito porque todo token gerado usando uma conta que não tenha a MFA habilitada não será capaz de acessar os recursos devido ao requisito de MFA.
+Sim, é possível gerar um token de atualização com uma conta que não imponha a MFA. No entanto, deve-se evitar isso. Qualquer token gerado usando uma conta que não tenha a MFA habilitada não poderá acessar os recursos devido ao requisito de MFA.
 
 ### <a name="how-should-my-application-obtain-an-access-token-if-we-enable-mfa"></a>Como o meu aplicativo deverá obter um token de acesso se habilitarmos a MFA?
 
@@ -315,7 +318,7 @@ Para manter a conformidade e minimizar as interrupções, execute uma das seguin
 
 ### <a name="how-to-get-started"></a>Como começar
 
-- [Requisitos de segurança de parceiros: guia passo a passo](https://docs.microsoft.com/partner-center/partner-security-requirements).
+- [Requisitos de segurança de parceiros: guia passo a passo](partner-security-requirements.md).
 - Encaminhe suas perguntas e seus comentários para este [Grupo de Orientação de Segurança do Partner Center](https://aka.ms/MPCSecurityGuidance).
 - Participe dos próximos webinars e horários de escritório do parceiro. Confira [aqui informações detalhadas sobre os recursos e o cronograma](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance).
 
@@ -340,9 +343,8 @@ Há opções de suporte técnico de produto do Azure Active Directory disponíve
 
 ### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>Como fazer para entrar em contato com o suporte quando eu tiver perdido o acesso ao Partner Center?
 
-Acesse o [Suporte a Parceiros da Microsoft](https://partner.microsoft.com/support) e escolha **Mostrar todas as opções de suporte**. Você verá as opções disponíveis para entrar em contato com o Suporte a Parceiros da Microsoft. Elas incluem um número de telefone para ligar para o suporte e uma opção para entrar em contato com o suporte por chat. 
+Acesse o [Suporte a Parceiros da Microsoft](https://partner.microsoft.com/support) e escolha **Mostrar todas as opções de suporte**. Você verá as opções disponíveis para entrar em contato com o Suporte do Parceiro da Microsoft, incluindo um número de telefone para ligar para o suporte e uma opção para conversar com o suporte.
 
-### <a name="where-can-i-find-more-information-about-technical-common-issues"></a>Onde posso encontrar mais informações sobre problemas técnicos comuns?
+### <a name="where-can-i-find-more-information-about-common-technical-issues"></a>Onde posso encontrar mais informações sobre problemas técnicos comuns?
 
-Informações sobre problemas técnicos comuns podem ser encontradas [aqui](https://docs.microsoft.com/partner-center/partner-security-requirements#common-issues).
-
+Informações sobre os problemas técnicos comuns podem ser encontradas em [Requisitos de segurança de parceiros para parceiros usando o Partner Center ou as APIs do Partner Center](partner-security-requirements.md)

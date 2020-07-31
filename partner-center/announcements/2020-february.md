@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 623e2002687727ab6ec4a2e37a44c89e994aee6c
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 478458e57ab31ccad25e99cb977833d2973f30ea
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749141"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944433"
 ---
 # <a name="february-2020-announcements"></a>Comunicados de fevereiro de 2020
 
@@ -70,7 +70,7 @@ _________________
 
 Agora os parceiros podem convidar clientes novos e existentes para examinar e aceitar o Contrato de Cliente da Microsoft diretamente em um portal da Microsoft autenticado (Centro de Administração do Microsoft 365).
 
-Isso significa que [agora os parceiros têm duas opções](https://docs.microsoft.com/partner-center/confirm-customer-agreement) ao apresentar o Contrato de Cliente da Microsoft aos seus clientes:
+Isso significa que [agora os parceiros têm duas opções](../confirm-customer-agreement.md) ao apresentar o Contrato de Cliente da Microsoft aos seus clientes:
 
 - **Opção 1:** De modo geral, os parceiros podem apresentar o novo Contrato de Cliente da Microsoft aos respectivos clientes da mesma maneira que faziam anteriormente com o Contrato do Microsoft Cloud. Depois que um cliente analisa e aceita o contrato, os parceiros devem atestar a aceitação do cliente com a Microsoft. O Painel do Partner Center, a API do Partner Center e o SDK do .NET foram atualizados para permitir ao parceiro confirmar a aceitação pelo cliente do Contrato de Cliente da Microsoft dessa forma.
 - **Opção 2 (novo recurso):** os parceiros podem convidar clientes para um portal da Microsoft autenticado (Centro de Administração do Microsoft 365) para exibir e assinar o contrato. Essa opção permite um gerenciamento de contrato simplificado, uma implementação mais rápida e menos trabalho para parceiros porque, assim que o cliente aceita diretamente no Centro de Administração do Microsoft 365, ele confirma a aprovação dos termos.
@@ -130,7 +130,7 @@ A oferta a seguir não está disponível e será removido das listas de preços 
 
 Oferta: Sistema de Telefonia do Microsoft 365 – Avaliação do Usuário Virtual ID da oferta: `b9a1d576-43fd-464b-8ad9-4b1eafc5db77`
 
-Essas ofertas estão disponíveis, mas não estão na matriz da lista de ofertas. Consulte a matriz da lista de ofertas anterior, de janeiro de 2020, para obter detalhes da matriz de ofertas.
+Essas ofertas estão disponíveis, mas não na matriz da lista de ofertas. Consulte a matriz da lista de ofertas anteriores, de janeiro de 2020, para obter detalhes da matriz de ofertas.
 
 Oferta: ID da oferta do Suporte do Pro Direct para operações unificadas do Dynamics 365: `09dc6202-bfbb-44fb-9c87-b12c90084010`
 
@@ -175,10 +175,10 @@ Nosso sistema indica que no momento sua organização usa políticas de linha de
 
 ### <a name="key-considerations"></a>Principais considerações
 
-A política de padrões de segurança é uma das [opções](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take) em que os parceiros podem optar por implementar o MFA para os requisitos de segurança, dependendo de suas necessidades corporativas. Ela oferece um nível básico de segurança habilitado sem nenhum custo adicional. Analise [como habilitar a MFA para sua organização com o Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) e as principais considerações abaixo:
+A política de padrões de segurança é uma das [opções](../partner-security-requirements.md#actions-that-you-need-to-take) em que os parceiros podem optar por implementar o MFA para os requisitos de segurança, dependendo de suas necessidades corporativas. Ela oferece um nível básico de segurança habilitado sem nenhum custo adicional. Analise [como habilitar a MFA para sua organização com o Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) e as principais considerações abaixo:
 
 - Para os parceiros que estão usando o [acesso condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common), os padrões de segurança não estarão disponíveis.
-- Os padrões de segurança aplicam todas as políticas de uma só vez, incluindo a política de MFA necessária para administradores, a política de proteção do usuário final e a MFA necessária para o gerenciamento de serviços.
+- Os padrões de segurança impõem todas as políticas de uma só vez, incluindo a política de MFA necessária para administradores, a política de proteção do usuário final e a MFA necessária para o gerenciamento de serviços.
 - O bloqueio da autenticação herdada não será imposto para parceiros no momento. No entanto, como a maioria dos eventos relacionados a identidades comprometidas são provenientes de tentativas de entrada usando a autenticação herdada, os parceiros são incentivados a se afastar desses protocolos mais antigos.
 - Os padrões de segurança excluem automaticamente a conta de sincronização do Azure AD Connect.
 - Os padrões de segurança são a substituição de disponibilidade geral das [políticas de linha de base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) de versão prévia. Depois que um parceiro habilita os padrões de segurança, eles não poderão mais habilitar as políticas de linha de base.
@@ -288,7 +288,7 @@ a [nova experiência de comércio para Azure no CSP](https://blogs.partner.micro
 
 - examine a [documentação do desenvolvedor](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#/)
 - Implemente o processo automatizado usando [a nova API](https://docs.microsoft.com/partner/develop/pricing)
-- Consulte a [documentação de preços do plano do Azure](https://docs.microsoft.com/partner-center/azure-plan-price-list) para ver perguntas relacionadas a preços.
+- Consulte a [documentação de preços do plano do Azure](../azure-plan-price-list.md) para ver perguntas relacionadas a preços.
 - [Saiba mais sobre o plano do Azure e a nova experiência de comércio no CSP](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 
 ### <a name="change-log"></a>Log de Alterações
@@ -324,7 +324,7 @@ Essas alterações começarão a ficar disponíveis para você na semana de 3 de
 
 ### <a name="additional-resources"></a>Recursos adicionais:
 
-- Mais informações sobre como [criar solicitações de suporte no Partner Center](https://docs.microsoft.com/partner-center/report-problems-with-partner-center).
+- Mais informações sobre como [criar solicitações de suporte no Partner Center](../report-problems-with-partner-center.md).
 
 ### <a name="change-log"></a>Log de Alterações
 
@@ -357,8 +357,8 @@ Para obter mais informações, examine os recursos sobre o Contrato de Cliente d
 
 ### <a name="next-steps"></a>Próximas etapas
 
-- Confirmar a aceitação do cliente usando a [interface do usuário da Web do Partner Center ou a API](https://docs.microsoft.com/partner-center/confirm-customer-agreement).
-- Os parceiros que usam APIs para o Contrato do Microsoft Cloud existente precisam revisar as próprias implementações existentes com a [API atualizada](https://docs.microsoft.com/partner-center/confirm-customer-agreement).
+- Confirmar a aceitação do cliente usando a [interface do usuário da Web do Partner Center ou a API](../confirm-customer-agreement.md).
+- Os parceiros que usam APIs para o Contrato do Microsoft Cloud existente precisam revisar as próprias implementações existentes com a [API atualizada](../confirm-customer-agreement.md).
 - Treine seus agentes e revendedores para que conheçam os [termos do novo contrato](https://www.microsoft.com/licensing/docs/customeragreement) e possam apresentar o novo contrato e validar a aceitação do cliente.
 
 >[!NOTE] 

@@ -9,14 +9,19 @@ ms.topic: conceptual
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64c794fad671cee780c23cb67e1679dff4f00233
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: a8a090b4f49260ecbb6597d8b989a1a1156422ac
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286574"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365712"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Verifique suas informações de perfil do parceiro no Partner Center
+
+**Funções apropriadas**
+
+- Administrador global
+- Administrador de conta do MPN
 
 Na primeira vez que você entrar no Partner Center como administrador global, deverá confirmar se todos os detalhes da empresa estão corretos. Isso inclui contato principal, razão social, endereço jurídico e informações do programa. Se sua empresa tiver mais de um local, verifique se os dados do local estão corretos. Como administrador global, administrador de cobrança ou agente administrador, você também poderá ver e atualizar as informações de cobrança e imposto.
 
@@ -56,5 +61,7 @@ Se, durante a migração do Partner Membership Center para o Partner Center, o n
 Se você for o administrador global, o administrador de cobrança ou o agente administrador, você poderá alterar o endereço que aparece na fatura em seu **Perfil de cobrança**. No entanto, você não pode alterar o nome da empresa na fatura devido a uma limitação do sistema de faturas.
 
  
+## <a name="next-steps"></a>Próximas etapas
 
+- [Gerenciar locais](manage-locations.md)
 

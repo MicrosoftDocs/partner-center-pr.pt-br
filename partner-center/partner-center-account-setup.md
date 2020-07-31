@@ -9,18 +9,23 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: 0fcdd4129eb61ee955ec5804ae16e346a222c45b
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: b8f06013651f6b41ea9e31d1a444465c052dcb06
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265239"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365772"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>Gerenciar sua conta do Partner Center – perfis da empresa, informações bancárias, funções, permissões e muito mais
 
 **Aplica-se a**
 
 - Partner Center
+ 
+**Funções apropriadas**
+
+- Administrador global
+- Administrador de conta do MPN
 
 A conta que você cria no Partner Center ao se inscrever é seu email de trabalho mais suas informações comerciais. Após a criação de uma conta no Partner Center, você concluirá a configuração do perfil completo da sua empresa, incluindo detalhes de suporte, isenções de imposto (se apropriado) e informações do contato principal. A conta de sua empresa também incluirá contas de usuário para qualquer pessoa que usar o Partner Center para adicionar ou gerenciar clientes, vender assinaturas, trabalhar com cobrança e faturamento, criar perfis comerciais, gerenciar indicações, trabalhar com programas de incentivos e fornecer suporte.
 
@@ -94,7 +99,7 @@ Para saber mais sobre o registro em determinados programas do Partner Center, co
 
 - [Programa do Marketplace Comercial](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
 - [Programa MPN](https://support.microsoft.com/help/4500026/enroll-and-subscribe-to-your-microsoft-partner-network-membership-in-p?tpqid=100-000012)
-- [Programa CSP](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [Programa CSP](enrolling-in-the-csp-program.md)
 - [Office Store](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 Para saber mais sobre o registro em programas do Partner Center, confira também os [recursos de rede do parceiro](https://partner.microsoft.com/).
