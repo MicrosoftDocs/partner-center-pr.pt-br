@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: fb54d52d77c6ea80dc2b60f2889e8404c6aca3e0
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 6c2ac5560b77528766a4d0aa068f231e0aa0bc99
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265207"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444961"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Mesclar sua conta de parceiro com outra conta de parceiro
 
@@ -65,7 +65,7 @@ Se você decidir aceitar o convite para mesclar contas: · Suas IDs e locais de 
 
   - Competência: a empresa parceira receberá um pacote de principais benefícios, associado à sua maior realização, além de benefícios específicos da competência que o parceiro está qualificado para cada conta global do parceiro.
 
-- Todos os benefícios estão sujeitos ao [Guia de uso de Microsoft Partner Network benefícios](https://aka.ms/partner-benefits-use-guide). Por exemplo: um token do O365 E3 ativado é funcional por doze (12) meses após a ativação. Depois que um token tiver sido ativado para estações em um locatário, essas estações não poderão ser movidas para outro locatário.
+- Todos os benefícios estão sujeitos ao [Guia de uso de Microsoft Partner Network benefícios](https://aka.ms/partner-benefits-use-guide). Por exemplo: um token do O365 E3 ativado é funcional por doze (12) meses após a ativação. Depois que um token tiver sido ativado para licenças em um locatário, essas licenças não poderão ser movidas para outro locatário.
 
 - As associações de ID do MCP para ambas as empresas serão retidas e associadas à ID do PGA MPN.
 

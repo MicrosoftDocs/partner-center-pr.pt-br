@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1c3c3384516f7ff5d7780ac69ccaf635ab7e39fa
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 057c0549d05fc560a325c20a31e64f516d0d7ff8
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944493"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444995"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transição do parceiro de fatura direto do CSP (Provedor de Soluções na Nuvem) para o revendedor indireto do CSP
 
@@ -333,7 +333,7 @@ O parceiro de transição deve fazer o seguinte:
 
    1. Se esta for uma assinatura do Azure (MS-AZR-0145P), ela não será mais listada.
 
-   2. Se esta for uma assinatura baseada em assento (Office 365, Dynamics, Intune), ela será listada com o estado como **suspenso**.
+   2. Se esta for uma assinatura baseada em licença (Office 365, Dynamics, Intune), ela será listada com o estado como **suspenso**.
 
    :::image type="content" source="images/direct/direct13.png" alt-text="Assinatura suspensa":::
 
@@ -343,9 +343,9 @@ O parceiro de transição deve fazer o seguinte:
 
 - **A mesma assinatura não pode ser referenciada por várias solicitações de transferência.** Depois de criar uma solicitação de transferência, que inclui uma assinatura existente, você não poderá criar solicitações de transferência adicionais, incluindo a mesma assinatura, até que a primeira solicitação de transferência seja cancelada.
 
-- **Os Complementos para assinaturas baseadas em assento devem ser transferidos junto com sua assinatura base.** Ao criar uma solicitação de transferência, se você escolher uma assinatura existente com um ou mais Complementos, os complementos serão incluídos automaticamente na solicitação de transferência.
+- **Os Complementos para assinaturas baseadas em licença devem ser transferidos junto com sua assinatura base.** Ao criar uma solicitação de transferência, se você escolher uma assinatura existente com um ou mais Complementos, os complementos serão incluídos automaticamente na solicitação de transferência.
 
-- **As alterações de contagem de estações em uma assinatura não serão refletidas na solicitação de transferência existente.** Depois de criar uma solicitação de transferência que inclui uma assinatura existente, você deve evitar atualizar a quantidade de assentos da assinatura (ou Complementos associados). Se você fizer isso, a nova quantidade não será refletida na solicitação de transferência. Depois que o provedor indireto aceitar a solicitação de transferência, a assinatura resultante terá a quantidade antiga. Se desejar que a nova quantidade seja transferida para o provedor indireto, você deverá cancelar a solicitação de transferência existente e recriar uma nova.
+- **As alterações de contagem de licenças em uma assinatura não serão refletidas na solicitação de transferência existente.** Depois de criar uma solicitação de transferência que inclui uma assinatura existente, você deve evitar atualizar a quantidade de licenças da assinatura (ou Complementos associados). Se você fizer isso, a nova quantidade não será refletida na solicitação de transferência. Depois que o provedor indireto aceitar a solicitação de transferência, a assinatura resultante terá a quantidade antiga. Se desejar que a nova quantidade seja transferida para o provedor indireto, você deverá cancelar a solicitação de transferência existente e recriar uma nova.
 
 - **Nem todas as compras podem ser transferidas usando a transferência de assinatura autoatendida.** No momento, você só pode transferir assinaturas do O365 e assinaturas do Azure PAYG (MS-AZR-0145P) usando esse recurso. Não há suporte para outras compras, incluindo planos do Azure, instâncias reservadas do Azure, assinaturas baseadas em termos e assinaturas de SaaS para o Azure Marketplace. Você verá um motivo pelo qual uma assinatura não pode ser transferida na página Enviar solicitação de transferência. Para transferir essas assinaturas, você precisará [cancelar a assinatura existente](create-a-new-subscription.md#suspend-or-cancel-a-subscription) e adquirir uma nova oferta para o cliente por meio do provedor indireto.
 

@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 956ed0dec2588e1cc2f697e61671308c2d86f8d0
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 4389ed675bfc7186aa19e595b14ac9200334c61c
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114410"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444927"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instruções para a consolidação de locatários de autorização regional do CSP
 
@@ -29,12 +29,12 @@ ms.locfileid: "87114410"
 - Administrador global
 - Agente administrativo
 
-\[Algumas informações estão relacionadas ao produto de pré-lançamento que pode ser substancialmente modificado antes de ser lançado comercialmente. A Microsoft não oferece garantias, expressas ou implícitas, quanto às informações fornecidas aqui.\]
+\[Algumas informações estão relacionadas ao produto de pré-lançamento que pode ser substancialmente modificado antes de ser lançado comercialmente. A Microsoft não oferece garantias, expressas ou implícitas, das informações aqui fornecidas.\]
 
 Você pode consolidar locatários para sua empresa. Use estas instruções para consolidar locatários para países/regiões diferentes.
 
 >[!NOTE]  
->Você deve estar ciente de todas as assinaturas provisionadas e das contagens de assentos para cada um dos seus clientes na conta da qual está fazendo a transição. Você estará reprovisionando as mesmas assinaturas exatas com as mesmas contagens de estações na nova conta do CSP central como parte do processo de migração. Use o recurso de lista de exportação para ajudar a criar uma lista de clientes para mover para o locatário centralizado.  Após a conclusão da consolidação, você não poderá reverter para o estado anterior do locatário. A ação do cliente também pode ser necessária.
+>Você deve estar ciente de todas as assinaturas e contagens de licenças provisionadas para cada um de seus clientes na conta da qual está fazendo a transição. Você estará reprovisionando as mesmas assinaturas exatas com as mesmas contagens de licenças na nova conta do CSP central como parte do processo de migração. Use o recurso de lista de exportação para ajudar a criar uma lista de clientes para mover para o locatário centralizado.  Após a conclusão da consolidação, você não poderá reverter para o estado anterior do locatário. A ação do cliente também pode ser necessária.
 
 ## <a name="prepare-for-migration"></a>Preparar para a migração
 
@@ -66,7 +66,7 @@ Os clientes serão exibidos na lista de clientes do parceiro depois que tiverem 
 
 4. Selecione **Adicionar assinatura**.
 
-5. Adicione as assinaturas corretas e os números de estações do catálogo. Verificar com as informações fornecidas nas contas de parceiro de **origem da transição**.
+5. Adicione as assinaturas e contagens de licenças corretas do catálogo. Verificar com as informações fornecidas nas contas de parceiro de **origem da transição**.
 
    :::image type="content" source="images/regionalcustomer2.png" alt-text="lista de clientes":::
 

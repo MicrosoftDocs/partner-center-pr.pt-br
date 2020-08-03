@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb6f89bca86feb1f2c3d2b7d536a810bdb5173e3
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 46506548ec1848c983bfeabf44be74018e80be5e
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87113980"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444778"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Recursos de cobrança direta restritos e os requisitos necessários para parceiros de cobrança direto do CSP  
 
@@ -43,9 +43,9 @@ Se seus recursos de fatura direta foram restritos, você não poderá mais fazer
 
 - Assinaturas do Azure
 
-- Assinaturas baseadas em assento
+- Assinaturas baseadas em licença
 
-- Adicione novos Complementos a assinaturas baseadas em assento existentes.
+- Adicione novos Complementos a assinaturas baseadas em licença existentes.
 
 - Faça compras unidirecionais de produtos de software e Reserva (por exemplo, assinaturas de software, software permanente e instâncias de máquinas virtuais reservadas do Azure).
 
@@ -55,9 +55,9 @@ As assinaturas de fatura direta existentes não são afetadas. Eles permanecem v
 
 - Suspender assinaturas existentes
 
-- Ajustar a contagem de estações de assinaturas baseadas em assentos existentes
+- Ajustar a contagem de licenças das assinaturas baseadas em licença existentes
 
-- Ajustar a contagem de estações de Complementos existentes para uma assinatura. 
+- Ajuste a contagem de licenças de Complementos existentes para uma assinatura. 
  
     >[!Note] 
     >Você não pode adicionar novos Complementos às assinaturas existentes, pois elas são tratadas como uma nova compra.

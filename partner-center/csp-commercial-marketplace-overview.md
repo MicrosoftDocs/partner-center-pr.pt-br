@@ -9,14 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fa66390ef899d3c6a3fd4c25b040c858a1ecb2be
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 044f541e519a0f2789f340e9fc7b9fb558e6bb38
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435065"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444934"
 ---
-# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Visão geral do Marketplace comercial no Partner Center
+# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Visão geral do marketplace comercial no Partner Center
 
 **Aplica-se a**
 
@@ -37,11 +37,11 @@ Como um parceiro no programa CSP, você pode usar o Partner Center para comprar 
 
 Se você for um parceiro no programa CSP, haverá muitas atividades comerciais do Marketplace que talvez você queira executar em relação às ofertas de ISVs. Consulte a tabela a seguir para saber mais sobre cada atividade.
 
-|**Se desejar**  |**Ler**   |
+|**Se você quiser**  |**Ler**   |
 |:------------------------------------|:------------------|
 |Saiba como exibir ou Pesquisar ofertas disponíveis, preços, detalhes do produto ou informações de contato do Publicador | [Ofertas de descoberta](csp-commercial-marketplace-discover.md) | 
 |Saiba como comprar e implantar uma oferta   | [Ofertas de compra](csp-commercial-marketplace-purchase.md)   | 
-|Saiba como cancelar ou renovar uma assinatura ou adicionar ou remover estações  | [Gerenciar ofertas](csp-commercial-marketplace-manage.md) |
+|Saiba como cancelar ou renovar uma assinatura ou adicionar ou remover licenças  | [Gerenciar ofertas](csp-commercial-marketplace-manage.md) |
 |Saiba mais sobre como a cobrança funciona para compras do Marketplace comercial | [Entender a cobrança](csp-commercial-marketplace-billing.md) |
 |Saiba mais sobre quem é responsável por quais tipos de suporte para compras de ISV | [Entender o suporte](csp-commercial-marketplace-support.md) |
 |Saiba mais sobre contratos e responsabilidades de parceiros CSP e ISVs no Marketplace comercial | [Entender a aquisição](csp-commercial-marketplace-contracting.md) |
@@ -68,20 +68,20 @@ Acesse [noções básicas de cobrança](billing-basics.md) para saber mais sobre
 
 Para saber onde concluir uma atividade específica do Marketplace para ofertas de ISV baseadas em licença ou em uso, consulte as tabelas a seguir.
 
-|**Para ofertas de SaaS baseadas em licença de ISVs**  |**Utilizá**  |
+|**Para ofertas de SaaS baseadas em licença de ISVs**  |**Uso**  |
 |:------------------------------------|:------------------|
 |Para descobrir ou Pesquisar ofertas disponíveis  | Painel do Partner Center ou APIs do Partner Center  |
 |Para comprar uma oferta  | Painel do Partner Center ou APIs do Partner Center  |
 |Para implantar uma oferta adquirida (configuração de conta, gerenciamento de software ou implantação no locatário do AAD do cliente)  | Site ou sistema do ISV Publisher  |
-|Para cancelar/renovar as assinaturas de oferta ou adicionar/remover estações | Painel do Partner Center ou APIs do Partner Center  |
+|Para cancelar/renovar as assinaturas de oferta ou adicionar/remover licenças | Painel do Partner Center ou APIs do Partner Center  |
 |Para criar usuários ou gerenciar permissões  | Site ou sistema do ISV Publisher  |
 
-|**Para ofertas baseadas em uso de ISVs**  |**Utilizá**  |
+|**Para ofertas baseadas em uso de ISVs**  |**Uso**  |
 |:------------------------------------|:------------------|
 |Para descobrir ou Pesquisar ofertas disponíveis  | Painel do Partner Center, APIs do Partner Center ou portal do Azure  |
 |Para comprar uma oferta  | Portal do Azure  |
 |Para implantar uma oferta adquirida (configuração de conta, gerenciamento de software ou implantação no locatário do AAD do cliente)  | Portal do Azure  |
-|Para cancelar/renovar as assinaturas de oferta ou adicionar/remover estações | Portal do Azure  |
+|Para cancelar/renovar as assinaturas de oferta ou adicionar/remover licenças | Portal do Azure  |
 |Para criar usuários ou gerenciar permissões  | Portal do Azure  |
 
 ## <a name="next-steps"></a>Próximas etapas

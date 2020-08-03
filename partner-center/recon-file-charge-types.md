@@ -1,5 +1,5 @@
 ---
-title: Tipos de encargo de arquivo de reconciliação
+title: Tipos de encargo de arquivos de reconciliação
 ms.topic: article
 ms.date: 06/05/2020
 description: Descubra os tipos de encargos (como, baseado em licença, com base no uso e em uma única vez), créditos e descontos em arquivos de reconciliação do Partner Center.
@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fdd372ba260254032d0978e6b2f80947d11aa84f
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c12bd8b08f3f72c42d788cb677888a7e3cde85a5
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949305"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444769"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Entender os diferentes tipos de encargo em arquivos de reconciliação do Partner Center
 
@@ -45,10 +45,10 @@ Para mapear esses encargos baseados em licenças para sua fatura, some a coluna 
 | Descrição da cobrança (coluna Chargetype no arquivo de reconciliação) | Explicação da cobrança |
 | ------------------------------------------------------------- | ------------------ |
 | Taxa de ativação | O valor cobrado para o cliente quando ele usa a assinatura após a compra. |
-| Taxa de cancelamento | Encargos rateado reembolsados ao cliente quando as estações associadas são alteradas. |
-| Cancelar ocorrência proporcional | Encargos rateado cancelados quando o cliente com a assinatura mensal tem assinatura suspensa e estações associadas foram alteradas no mesmo mês. |
+| Taxa de cancelamento | Encargos rateado reembolsados ao cliente quando as licenças associadas são alteradas. |
+| Cancelar ocorrência proporcional | Encargos rateado cancelados quando o cliente com a assinatura mensal tem assinatura suspensa e as licenças associadas foram alteradas no mesmo mês. |
 | Taxa do Ciclo | Cobranças periódicas de uma assinatura. |
-| Proporcional à instância do ciclo | Encargos rateado avaliados do cliente quando as estações associadas são alteradas. |
+| Proporcional à instância do ciclo | Encargos rateado avaliados do cliente quando as licenças associadas são alteradas. |
 | Taxas proporcionais durante o cancelamento | Reembolso rateado para parte não usada do serviço após o cancelamento. |
 | Taxa de taxas ao converter da oferta atual | Encargos rateado após a conversão da assinatura mensal atual em uma assinatura anual. |
 | Taxas de taxa ao converter em uma nova oferta | Encargos rateado após a conversão de uma assinatura mensal em uma nova assinatura anual. |
@@ -68,7 +68,7 @@ Para mapear esses encargos de uma vez para sua fatura, some a coluna de **valor*
 | addQuantity | Usado tanto no reembolso da compra original quanto na nova quantidade após um aumento. |
 | removeQuantity | Usado tanto no reembolso da compra original quanto na nova quantidade após uma diminuição. |
 | Cancelar | Usado quando uma assinatura é cancelada. |
-| Converter | Usado quando uma licença é atualizada, mas o número de estações permanece inalterado. |
+| Converter | Usado quando uma licença é atualizada, mas o número de licenças permanece inalterado. |
 
 ## <a name="usage-charges"></a>Encargos de uso
 

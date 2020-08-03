@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd275c074bb3710a2a438d65989b16a1be398830
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 86581db73f1bf2b6660af45aca4747a5db779bbe
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377690"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444916"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Entender os campos em arquivos de reconciliação baseados em licença do Partner Center
 
@@ -46,11 +46,11 @@ Para reconciliar as alterações em relação aos pedidos de um cliente, compare
 | OfferName | O nome da oferta de serviço comprada pelo cliente, conforme definido na tabela de preços. | *Microsoft Office 365 (plano E3)* |
 | SubscriptionStartDate | A data de início da assinatura. A hora sempre é o início do dia, 0h00. Esse campo é definido como o dia após o envio do pedido. Usado em conjunto com o **SubscriptionEndDate** para determinar: se o cliente ainda estiver no primeiro ano da assinatura ou se a assinatura tiver sido renovada para o ano seguinte. | *2/1/2019 0:00* |
 | SubscriptionEndDate | A data de término da assinatura. A hora sempre é o início do dia, 0h00. *12 meses mais **x** dias após a data de início* para se alinhar com a data de cobrança do parceiro ou *12 meses a partir da data de renovação*. Na renovação, os preços são atualizados com a tabela de preços atual. Um comunicado ao cliente pode ser necessário antes da renovação automática. | *2/1/2019 0:00* |
-| ChargeStartDate | Dia de início dos encargos. A hora sempre é o início do dia, 0h00. Usado para calcular os encargos diários (encargos*pro favorável* ) quando um cliente altera números de estação. | *2/1/2019 0:00* |
-| Data final da cobrança | Dia do término dos encargos. A hora é sempre o fim do dia, 23:59. Usado para calcular os encargos diários (encargos*pro favorável* ) quando um cliente altera números de estação. | *2/28/2019 23:59* |
+| ChargeStartDate | Dia de início dos encargos. A hora sempre é o início do dia, 0h00. Usado para calcular os encargos diários (encargos*pro favorável* ) quando um cliente altera os números de licença. | *2/1/2019 0:00* |
+| Data final da cobrança | Dia do término dos encargos. A hora é sempre o fim do dia, 23:59. Usado para calcular os encargos diários (encargos*pro favorável* ) quando um cliente altera os números de licença. | *2/28/2019 23:59* |
 | ChargeType | O [tipo de encargo](recon-file-charge-types.md) ou ajuste. | Consulte [tipos de cobrança](recon-file-charge-types.md). |
-| UnitPrice | Preço por estação, conforme publicado na lista de preços no momento da compra. Certifique-se de que isso corresponde às informações armazenadas em seu sistema de cobrança durante a reconciliação. | *6,82* |
-| Quantidade | Número de assentos. Certifique-se de que isso corresponde às informações armazenadas em seu sistema de cobrança durante a reconciliação. | *2* |
+| UnitPrice | Preço por licença, conforme publicado na tabela de preços no momento da compra. Certifique-se de que isso corresponde às informações armazenadas em seu sistema de cobrança durante a reconciliação. | *6,82* |
+| Quantidade | Número de licenças. Certifique-se de que isso corresponde às informações armazenadas em seu sistema de cobrança durante a reconciliação. | *2* |
 | Quantidade | Preço total por quantidade. Usado para verificar se o cálculo de valor corresponde à forma como você calcula esse valor para seus clientes. | *13.32* |
 | TotalOtherDiscount | Valor de desconto aplicado a esses encargos. As licenças de produto incluídas com uma competência ou mapas, ou novas assinaturas qualificadas para um incentivo, também conterão um valor de desconto nesta coluna. | *2,32* |
 | Subtotal | Total sem imposto. Verifica se o SUBTOTAL corresponde ao seu total esperado, no caso de um desconto. | *11* |

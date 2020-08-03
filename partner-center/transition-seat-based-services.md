@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a76c433f79b6c060c284e8a058c50f50a6b9628c
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 993fc3a3e6ff55c392b617b265215d95f7bd7513
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377220"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444562"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Mover clientes baseados em licença de outros canais & parceiros para o programa do provedor de soluções na nuvem
 
@@ -28,7 +28,7 @@ Se o cliente quiser contratar vários parceiros, transferir suas assinaturas par
 
 1. Selecione **clientes** no menu do centro de parceiros e, em seguida, selecione **solicitar uma relação de revendedor**. Para oferecer suporte para contas de vários canais, faça a mesma coisa.
 
-2. Depois que o cliente aceitar seu convite, você poderá provisionar as assinaturas e estações desejadas para o cliente (por exemplo, a mesma oferta do Office 365 que o cliente comprou anteriormente).
+2. Depois que o cliente aceitar seu convite, você poderá provisionar as assinaturas e licenças desejadas para o cliente (por exemplo, a mesma oferta do Office 365 que o cliente comprou anteriormente).
 
 3. O cliente pode permitir que as assinaturas originais expirem ou cancelem. No entanto, como não há reembolsos sobre assinaturas canceladas, é melhor esperar até que as assinaturas estejam próximas às datas de expiração natural.
 

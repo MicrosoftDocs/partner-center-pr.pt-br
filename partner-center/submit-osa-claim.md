@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: baa61b2f22f7b585f9764ea33d968c35d7360b53
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 47f4912e33eb1a2bb3e7c5a1c734d7cc5d3e5f33
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943673"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468337"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Criar uma associação de cliente por meio do modelo CPOR – use para clientes Microsoft 365 e Dynamics 365
 
@@ -30,9 +30,9 @@ Você precisará das seguintes informações para concluir uma declaração:
 
 - A **ID de MPN** da sua entidade que faz a declaração
 
-- O **nome de domínio** do cliente [encontra isso](find-customer-domain-name.md)
+- O **nome de domínio** do cliente [encontra isso](find-domain-name.md)
 
-- A **ID do diretório** ou a **ID de locatário** do cliente [encontra esta](find-customer-domain-name.md)
+- A **ID do diretório** ou a **ID de locatário** do cliente [encontra esta](find-domain-name.md)
 
 - A **área da solução**, como Business Applications ou Microsoft 365
 
@@ -66,7 +66,7 @@ Você também deve entender os seguintes pontos:
 
 2. Na parte superior da página associações do cliente, selecione **+ Associação de cliente**.
 
-3. Selecione a **ID de MPN** do local do parceiro a ser associado ao cliente e, em seguida, adicione o nome de domínio do cliente e a ID do diretório. [Onde estão eles?](find-customer-domain-name.md)
+3. Selecione a **ID de MPN** do local do parceiro a ser associado ao cliente e, em seguida, adicione o nome de domínio do cliente e a ID do diretório. [Localizar isso](find-domain-name.md)
 
 4. Selecione **Continuar**.
 

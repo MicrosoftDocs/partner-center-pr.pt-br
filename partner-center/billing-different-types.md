@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b83116bf4b32754c1a8f270136f44e9120f034b5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c8ae3334685ee74fabd3be99d53b1f90d18026e4
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435585"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468514"
 ---
 # <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>Tipos de cobrança no Partner Center-inclui a cobrança baseada em licença, com base no uso e uma única vez
 
@@ -34,8 +34,6 @@ ms.locfileid: "86435585"
 Você será cobrado pelas compras do Partner Center dependendo dos produtos, das soluções e dos serviços que você comprar em nome dos seus clientes. Os tipos de cobrança são os seguintes:
 
 - [**Cobrança baseada em licença**](license-based-billing.md), em que você será cobrado por licença (não por uso de licença).
-- [**Cobrança baseada em uso**](usage-based-billing.md), em que você será cobrado por taxas de uso mensais.
-- [**Cobrança por uma única vez e selecionar encargos recorrentes**](one-time-and-recurring-billing.md), nos quais você paga com antecedência por um termo predefinido para produtos de ISV da Microsoft e de terceiros.
 - Cobrança de transações SaaS baseadas em licenças (consulte [**cenários comuns de cobrança para encargos de SaaS**](common-billing-scenarios-saas.md)).
 
 Dependendo dos tipos de produtos que você compra para seus clientes, poderá haver diferentes períodos de cobrança e esta poderá ser efetuada em diferentes dias do mesmo mês.

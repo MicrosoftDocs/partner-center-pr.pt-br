@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a940370e50579e09cd24467145decbc6ec4f98a
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: ecf19a5f519333e40d7f5ae8e982ac8d816e8604
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377770"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444911"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Fornecer a clientes avaliações gratuitas de 30 dias de produtos da Microsoft
 
@@ -45,9 +45,9 @@ Atualmente, não existem **avaliações gratuitas** para ofertas governamentais,
 
 ## <a name="licenses-for-free-trial-offers"></a>Licenças para ofertas de avaliação gratuita
 
-Todas as avaliações gratuitas fornecem 25 licenças. Não é possível alterar esse número durante a avaliação. Você não pode adicionar ou remover estações na avaliação gratuita. Depois que a avaliação for convertida em uma assinatura paga, você poderá adicionar licenças adicionais à assinatura.
+Todas as avaliações gratuitas fornecem 25 licenças. Não é possível alterar esse número durante a avaliação. Você não pode adicionar ou remover licenças na avaliação gratuita. Depois que a avaliação for convertida em uma assinatura paga, você poderá adicionar licenças adicionais à assinatura.
 
-As licenças de avaliação e os assentos devem ser atribuídos aos usuários da mesma forma que a licença de serviços pagos são atribuídas.
+As licenças de avaliação devem ser atribuídas aos usuários da mesma forma que a licença de serviços pagos são atribuídas.
 
 ## <a name="sign-customers-up-for-trials"></a>Conectar os clientes para avaliações
 

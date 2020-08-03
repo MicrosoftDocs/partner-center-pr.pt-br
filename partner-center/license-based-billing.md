@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17cdb74dfded2c9c10cc4d648d8941b25a27e57b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 3600dac6d5ad7f6f5994cddaf771c0397ec4cf7f
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434375"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468338"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Cobrança baseada em licença no Partner Center
 
@@ -30,7 +30,7 @@ Ao comprar produtos ou serviços online no Partner Center que exigem **licenças
 
 ## <a name="license-billing-frequency"></a>Frequência de cobrança da licença
 
-Você pode optar por ser cobrado por licenças uma vez por mês (**cobrança mensal**) ou uma vez por ano (**cobrança anual**). Para obter mais informações sobre a **frequência de cobrança**, consulte [diferenças de cobrança mensal e anual](billing-annual-monthly.md).
+Você pode optar por ser cobrado por licenças uma vez por mês (**cobrança mensal**) ou uma vez por ano (**cobrança anual**). 
 
 ## <a name="billing-date-for-licenses"></a>Data de cobrança para licenças
 
@@ -55,14 +55,12 @@ Se você suspender uma assinatura em meses de 2-12, você será creditado em uma
 
 ## <a name="license-renewal"></a>Renovação de licença
 
-Todas as assinaturas baseadas em licença renovar 12 meses após o início do termo pago.
+Todas as assinaturas baseadas em licença são renovadas automaticamente 12 meses após o início do prazo pago.
 
 ## <a name="next-steps"></a>Próximas etapas
 
 - [Visão geral da cobrança do Partner Center](billing-basics.md)
 
 - [Tipos de cobrança no Partner Center](billing-different-types.md)
-
-- [Diferenças de cobrança mensal e anual](billing-annual-monthly.md)
 
 - [Principais artigos de cobrança e imposto](billing.md)

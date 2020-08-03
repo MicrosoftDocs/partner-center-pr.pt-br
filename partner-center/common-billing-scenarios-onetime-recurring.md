@@ -2,17 +2,17 @@
 title: Cobrança de compras & recorrentes de uma vez
 ms.topic: article
 ms.date: 05/05/2020
-description: Confira exemplos de cobrança do Partner Center para uma única vez e selecione compras recorrentes--quando você adquire assinaturas, adicione mais assinaturas, adicione ou remova estações.
+description: Confira exemplos de cobrança do Partner Center para uma única vez e selecione compras recorrentes--quando você adquire assinaturas, adicione mais assinaturas, adicione ou remova licenças.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 06ecd9463f7b9bcb5d370de8f3cd011973cb3607
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 5349a78b788c060999c98440edf962a64cb43112
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435385"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468390"
 ---
 # <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Cenários de cobrança do Partner Center para uma única vez e selecione compras recorrentes
 
@@ -23,9 +23,9 @@ ms.locfileid: "86435385"
 - Agente de suporte técnico
 - Agente de vendas
 
-Esses [cenários de cobrança comuns](common-billing-scenarios.md) de exemplo são aplicáveis a [uma única vez e selecionam encargos recorrentes](one-time-and-recurring-billing.md) no Partner Center.
+Esses são [cenários de cobrança comuns](common-billing-scenarios.md). 
 
-## <a name="purchase-a-subscription-and-add-a-seat-on-the-same-day"></a>Comprar uma assinatura e adicionar um assento no mesmo dia
+## <a name="purchase-a-subscription-and-add-a-license-on-the-same-day"></a>Comprar uma assinatura e adicionar uma licença no mesmo dia
 
 No Cenário 1, você compra uma assinatura em 11 de junho a um preço unitário de US$ 4. Mais tarde, no mesmo dia, você compra outra assinatura como a anterior pelo mesmo preço.
 
@@ -57,9 +57,9 @@ O arquivo de reconhecimento incluirá o seguinte:
 |12/06/2019     | 10/06/2019    |9/07/2019        |US$ 4        |1        | -US$ 3,87       |addQuantity           |
 |12/06/2019     | 10/06/2019    |9/07/2019        |US$ 4        | 2      |US$ 7,74       |addQuantity           |
 
-## <a name="purchase-a-subscription-and-remove-a-seat-on-the-same-day"></a>Comprar uma assinatura e remover um assento no mesmo dia
+## <a name="purchase-a-subscription-and-remove-a-license-on-the-same-day"></a>Comprar uma assinatura e remover uma licença no mesmo dia
 
-No Cenário 3, você compra duas assinaturas para o mesmo produto em 11 de junho a um preço unitário de US$ 4. Mais tarde, no mesmo dia, você remove um dos usuários.  
+No Cenário 3, você compra duas assinaturas para o mesmo produto em 11 de junho a um preço unitário de US$ 4. Mais tarde, no mesmo dia, você remove uma das licenças.  
 
 O arquivo de reconhecimento incluirá o seguinte:
 
@@ -73,9 +73,9 @@ O arquivo de reconhecimento incluirá o seguinte:
 |11/06/2019     | 10/06/2019    |9/07/2019        |US$ 4        |2        | -US$ 8       |removeQuantity           |
 |11/06/2019     | 10/06/2019    |9/07/2019        |US$ 4        | 1      |US$ 4         |removeQuantity           |
 
-## <a name="purchase-a-subscription-and-remove-seats-later"></a>Comprar uma assinatura e remover estações mais tarde
+## <a name="purchase-a-subscription-and-remove-licenses-later"></a>Comprar uma assinatura e remover licenças mais tarde
 
-No Cenário 4, você compra duas assinaturas em 11 de junho pelo preço unitário de US$ 4 e em 12 de junho você remove um dos usuários.
+No cenário 4, você compra duas assinaturas em 11 de junho, com preço unitário de $4 e em 12 de junho você remove uma das licenças.
 
 O arquivo de reconhecimento incluirá o seguinte:
 

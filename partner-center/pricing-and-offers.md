@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f119410e1d1530ba909d4ce18edd83b718da74f8
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: 18c671b7903914bbbca49ded24f54b808833a92e
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286624"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444798"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preços e ofertas para o Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure e muito mais
 
@@ -92,7 +92,7 @@ O CSP oferece alguns serviços para segmentos de mercado especiais, por exemplo,
 |Educação|Cliente|Não, a qualificação do cliente será executada pela Microsoft |Somente baseado em licença|
 |Sem fins lucrativos|Cliente|Não, o cliente se qualifica fora do Partner Center|Somente baseado em licença|
 |GCC (Government Community Cloud)|Parceiro e cliente|Após o GCC habilitado, o parceiro pode criar clientes GCC| Somente baseado em licença|
-|Azure Government|Partner (parceiro)|Uma vez qualificado, o parceiro opera em um locatário do CSP específico para o Azure governamental|Recursos do Azure|
+|Azure Government|Parceiro|Uma vez qualificado, o parceiro opera em um locatário do CSP específico para o Azure governamental|Recursos do Azure|
 
 As margens do parceiro, a diferença entre o preço da lista e os preços de varejo estimados, pode variar de segmento para segmento. Normalmente, a educação e o não-lucro tendem a ter menos ou nenhuma margem para parceiros CSP. Consulte a lista de preços baseada em licenças para obter valores exatos. 
 
@@ -109,7 +109,7 @@ Os serviços baseados em licença podem ser adquiridos como ofertas base ou Comp
 
 ## <a name="pricing-between-azure-and-non-azure"></a>Preços entre recursos do Azure e recursos não Azure
 
-Os preços diferem entre diferentes tipos de ofertas. O preço com base em licença normalmente é o valor por estação (licença) para um determinado mês. O preço com base no uso é determinado pelo uso de um determinado recurso, com uma ID de medição associada. Os parceiros não são cobrados pela aquisição da assinatura do Azure. No entanto, os parceiros são cobrados por recursos consumidos por implantações diferentes na assinatura do Azure. Os preços na lista de preços com base no uso são organizados em relação a diferentes IDs de medidor de recursos no Azure.
+Os preços diferem entre diferentes tipos de ofertas. O preço com base em licença normalmente é o valor por licença para um determinado mês. O preço com base no uso é determinado pelo uso de um determinado recurso, com uma ID de medição associada. Os parceiros não são cobrados pela aquisição da assinatura do Azure. No entanto, os parceiros são cobrados por recursos consumidos por implantações diferentes na assinatura do Azure. Os preços na lista de preços com base no uso são organizados em relação a diferentes IDs de medidor de recursos no Azure.
 
 As reservas do Azure são compras baseadas em termos para o tipo de recurso específico – máquinas virtuais. A compra de uma reserva do Azure permite que um parceiro pague antecipadamente (termos de um ou três anos) e reserve uma determinada máquina virtual. As reservas economizam o dinheiro do parceiro e garantem que sua máquina virtual esteja sempre disponível durante o período. Um parceiro pode alinhar a reserva que desejam em relação às IDs de medidor de recursos com base no uso. As IDs de medidor são consistentes em todo o recurso, quer o parceiro esteja comprando uma máquina virtual ou simplesmente implantando a máquina virtual como um recurso baseado em uso.
 

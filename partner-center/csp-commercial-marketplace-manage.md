@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 076cd97dcecc706b9cd47ffc4a4227c93d20d632
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c6985b475a2aa2c6083d447a8d219c8640d58fcc
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435085"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444610"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Gerenciar produtos e ofertas do Marketplace comercial para seus clientes
 
@@ -44,7 +44,7 @@ Depois de comprar uma assinatura de um Publicador ISV de terceiros, você pode r
 
     - Alterar o apelido da assinatura
 
-    - Adicionar/diminuir o número de estações (licenças) na assinatura
+    - Adicionar/diminuir o número de licenças na assinatura
 
     - Cancelar a assinatura
 

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Verifique este relatório de licença do produto e saiba como melhorar com os produtos de nuvem licenciados (ou baseados em assentos) que você vende ou gerencia para seus clientes.
+description: Verifique este relatório de licença do produto e saiba como melhorar com os produtos de nuvem baseados em licença que você vende ou gerencia para seus clientes.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 466ae67b46834ae803c7900c3bd610cfd5813ed5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 1dd4dc27c17c40b76020f6233257637a387c5f81
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436655"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444834"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Relatório de licenças de produto no painel do recepções do Partner Center
 
@@ -24,7 +24,7 @@ ms.locfileid: "86436655"
 - Visualizador de relatórios
 - Visualizador de relatórios executivos
 
-O relatório de licenças de produto apresenta a análise de licença para produtos de nuvem baseados em assento, como O365, Dynamics, M365, Power BI, etc. As análises apresentadas aqui estão associadas ao uso das licenças que você vendeu ou que você gerencia para seus clientes. Você pode exibir as seções a seguir do relatório de licenças de produto.
+O relatório de licenças de produto apresenta a análise de licença para produtos de nuvem baseados em licença, como O365, Dynamics, M365, Power BI, etc. As análises apresentadas aqui estão associadas ao uso das licenças que você vendeu ou que você gerencia para seus clientes. Você pode exibir as seções a seguir do relatório de licenças de produto.
 
 - Resumo
 - Dispersão geográfica de licenças
@@ -38,7 +38,7 @@ O relatório de licenças de produto apresenta a análise de licença para produ
 
 A seção de resumo fornece uma exibição de instantâneo dos KPIs (indicadores chave de desempenho) associados às licenças de produtos de nuvem vendidas, implantadas e usadas. Isso ajuda a acompanhar o uso ativo em relação às licenças vendidas aos seus clientes.
 
-- Licenças: a contagem atual de todas as licenças vendidas ou gerenciadas por você para produtos de nuvem baseados em assento, como O365, Dynamics, M365, Power BI, etc. Percentual de crescimento ou declínio dessas licenças no intervalo de datas selecionado.
+- Licenças: a contagem atual de todas as licenças vendidas ou gerenciadas por você para produtos de nuvem baseados em licença, como O365, Dynamics, M365, Power BI, etc. Percentual de crescimento ou declínio dessas licenças no intervalo de datas selecionado.
 
 O micro Chart apresenta a tendência mês a mês de contagens de licenças durante o intervalo de datas selecionado
 

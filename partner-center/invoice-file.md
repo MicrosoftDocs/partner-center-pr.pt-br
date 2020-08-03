@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72b8abc1edb4e27b4c9677cc9f374af2aff25986
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cc2515a2658fbd4f47f45bcbe21dff710ed39ae0
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434525"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444944"
 ---
 # <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>Faturas de cobrança do Partner Center-saiba como ler a cobrança e os campos de encargo único
 
@@ -37,7 +37,7 @@ Os campos a seguir aparecem nos arquivos da fatura.
 | Cobranças baseada em licença | As tarifas fixas mensais ou anuais para suas licenças baseadas em uso adquiridas, cobradas antes do serviço. Esse número é a soma de todos os encargos na coluna de **Subtotal** (coluna **T**) em seu arquivo de reconciliação baseado em licença. |
 | Encargos baseados em uso | Seu uso do Azure. Isso inclui novos serviços ou aplicativos habilitados e usados durante o período de cobrança. Esse número é a soma de todos os encargos na coluna **PretaxCharges** (coluna **Z**) em seu arquivo de reconciliação baseado em uso. |
 | Descontos | O desconto que o cliente recebe do preço normal da assinatura. Esse número é mostrado como um *valor fixo*, não como um preço por unidade ou licença. |
-| Credits | Créditos ou ajustes para alterações feitas em assinaturas (por exemplo, assento aumenta ou diminui). |
+| Credits | Créditos ou ajustes para alterações feitas em assinaturas (por exemplo, a licença aumenta ou diminui). |
 | Subtotal | Total antes de impostos e encargos e créditos sem imposto. |
 | Imposto | O imposto total para seus encargos atuais, conforme totalizado na seção de **detalhes** que começa na página 2 da fatura. Esse número é a soma de todos os encargos na coluna **TaxAmount** (coluna **AA**) em seu arquivo de reconciliação baseado em uso e a coluna de **impostos** (coluna **U**) em seu arquivo de reconciliação baseado em licença. |
 | Outros créditos | Créditos sem imposto. |
@@ -59,7 +59,7 @@ Os campos a seguir se aplicam somente a **encargos únicos** no Partner Center:
 | Campo | Definição |
 | ----- | ---------- |
 | Data | Data da compra. |
-| Descrição | Nome do produto. |
+| Description | Nome do produto. |
 | Quantidade | O número de produtos (como reservas) adquiridos. |
 | Preço unitário | Preço por produto (como uma reserva). |
 | Descontos | Qualquer desconto aplicável. |

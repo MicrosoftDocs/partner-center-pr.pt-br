@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cdb72310368dd76c43d01129a19328d776c00469
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 05939dc5edaddeb2f74b3b75017e2062dff25e31
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949561"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468327"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Saiba como ler os itens de linha em seus arquivos de reconciliação do Partner Center
 
@@ -23,7 +23,7 @@ Aplica-se a:
 - Partner Center
 - Partner Center do Microsoft Cloud for US Government
 
-Você pode baixar seus arquivos de reconciliação do Partner Center para obter uma exibição detalhada de item de linha de cada encargo em um ciclo de cobrança. Os detalhes do item de linha incluem encargos para as assinaturas de cada cliente e eventos detalhados (como uma adição de estações de mercado para uma assinatura).
+Você pode baixar seus arquivos de reconciliação do Partner Center para obter uma exibição detalhada de item de linha de cada encargo em um ciclo de cobrança. Os detalhes do item de linha incluem encargos para as assinaturas de cada cliente e eventos detalhados (como uma adição de licenças de médio prazo a uma assinatura).
 
 Funções apropriadas:
 
@@ -36,7 +36,6 @@ Para obter informações sobre como ler sua **fatura**, consulte [ler sua fatura
 
 - [Campos de arquivo de reconciliação com base em licença](license-based-recon-files.md)
 - [Campos de arquivo de reconciliação com base no uso](usage-based-recon-files.md)
-- [Campos de arquivo de reconciliação recorrentes e de uso único](one-time-recurring-recon-files.md)
 - [Campos de arquivo de reconciliação de uso com classificação diária](daily-rated-usage-recon-files.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>Entender os tipos de encargo em arquivos de reconciliação
@@ -72,7 +71,7 @@ Para mapear impostos ou IVA (imposto sobre valor agregado) para sua fatura:
 
 Os parceiros no **modelo indireto** podem usar esses campos adicionais em arquivos de reconciliação baseados em licença e de uso para discriminar os arquivos pelo revendedor.
 
-| ID MPN | Descrição |
+| ID MPN | Description |
 | ------ | ----------- |
 | ID MPN | O identificador de Microsoft Partner Network (MPN) do parceiro CSP (provedor de soluções na nuvem) (direto ou indireto). |
 | [ID do MPN do revendedor](#reseller-mpn-id) | O [identificador de MPN do revendedor do registro para a assinatura](#reseller-mpn-id). Este campo corresponde à ID do revendedor listada para a assinatura específica no Partner Center. Só aparece em arquivos de reconciliação para parceiros no modelo indireto. |
