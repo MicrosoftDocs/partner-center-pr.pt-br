@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c12bd8b08f3f72c42d788cb677888a7e3cde85a5
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: f65c4a6496082934e8c38fbd924b96ef969be95b
+ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444769"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87479109"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Entender os diferentes tipos de encargo em arquivos de reconciliação do Partner Center
 
@@ -52,8 +52,7 @@ Para mapear esses encargos baseados em licenças para sua fatura, some a coluna 
 | Taxas proporcionais durante o cancelamento | Reembolso rateado para parte não usada do serviço após o cancelamento. |
 | Taxa de taxas ao converter da oferta atual | Encargos rateado após a conversão da assinatura mensal atual em uma assinatura anual. |
 | Taxas de taxa ao converter em uma nova oferta | Encargos rateado após a conversão de uma assinatura mensal em uma nova assinatura anual. |
-| Taxas proporcionais na compra | O tipo de encargo para uma assinatura ao usar a cobrança anual. |
-| Valor de compra | O tipo de encargo para uma assinatura ao usar a cobrança mensal. |
+| Taxas proporcionais na compra | O tipo de encargo para uma assinatura ao usar a cobrança mensal ou anual. |
 | Taxa proporcional ao renovar | Taxas rateada após a renovação da assinatura. |
 | Taxa de renovação | Cobrança para renovação de uma assinatura |
 | Taxas proporcionais ao ativar | Taxas rateada da ativação até o término do período de cobrança. |

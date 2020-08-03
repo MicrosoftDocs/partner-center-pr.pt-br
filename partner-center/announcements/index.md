@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 7a15cd7fbf51a54e6190f29c41fd21ef5ed419fd
-ms.sourcegitcommit: 93b7230d5807adc470775ee38d4e139d84980ebb
+ms.openlocfilehash: ff92983f936add17d746c08815149ffb2731cbab
+ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "87330113"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87479079"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,6 +22,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 | **Categoria** | **Comunicados de julho de 2020** | **Comunicado** |
 |---------|:---------|:---------|
+|Capacidades|[Alterações nas inicializações do Enterprise Voice e da Discagem Estendida de Audioconferência](2020-july.md#10)|31 de julho|
 |Capacidades|[Futuras alterações nas APIs do Partner Center](2020-july.md#9)|28 de julho|
 |Capacidades|[Lançamento de SDK na versão prévia do .NET Standard v1.16.1](2020-july.md#8)|21 de julho|
 |Capacidades|[Incentivo do CSP (Provedor de Soluções na Nuvem) para ofertas qualificadas do marketplace comercial da Microsoft aprimorado para o ano fiscal de 2021](2020-july.md#7)|22 de julho|
