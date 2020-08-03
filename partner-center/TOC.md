@@ -149,7 +149,6 @@
 
 # [Conectar-se com clientes](customer-accounts.md)
 ## [Adicionar um novo cliente](add-a-new-customer.md)
-## [Localizar o nome de domínio e a ID de diretório do cliente](find-customer-domain-name.md)
 ## [Solicitar um relacionamento de revendedor com um cliente](request-a-relationship-with-a-customer.md)
 ## [Remover um relacionamento de revendedor com um cliente](remove-a-relationship.md)
 ## [Os clientes delegam ou revogam privilégios administrativos de parceiros](customers-revoke-admin-privileges.md) 
@@ -217,9 +216,12 @@
 ### [Adicionar clientes com ofertas de avaliação do Office 365](advisors-build-your-business.md)
 ### [Criar uma oferta de compra do Office 365](advisor-create-a-purchase-offer.md)
 # Análise e dados do Partner Center
+
 ## [Obter acesso aos dados e à análise do usuário](data-analysis-lp.md)
-## [Usar o aplicativo de análise do Partner Center para Microsoft Power BI](power-bi-app-for-direct-partners.md)
-## [Uso do aplicativo de análise do Partner Center para Microsoft Power BI](power-bi-app-for-direct-partners.md)
+## Aplicativo Análise do Partner Center para Power BI
+### [Introdução ao aplicativo Análise do Partner Center para Power BI](power-bi-app-for-direct-partners.md)
+### [Instalar o aplicativo Análise do Partner Center para Power BI](power-bi-app-for-direct-partners-install.md)
+### [Usar o aplicativo Análise do Partner Center para Power BI](power-bi-app-for-direct-partners-use.md)
 ## [Insights do Partner Center](partner-center-insights.md)
 ### [Insights – painel de visão geral](pci-overview-report.md)
 ### [Insights – controle de acesso baseado em função ao painel Insights](pci-roles.md)
@@ -237,8 +239,6 @@
 ## [Analisar o desempenho de revendedores indiretos](analyze-indirect-resellers.md)
 ## [Analisar as assinaturas e licenças](analyze-subscriptions-licenses.md)
 ## [Análise do Microsoft Learn](ms-learn-analytics.md)
-## [Aplicativo Análise do Partner Center para Power BI](power-bi-app-for-direct-partners-use.md)
-## [Instalar e visualizar o aplicativo Análise do Partner Center para Microsoft Power BI](power-bi-app-for-direct-partners-install.md)
 
 # [Trabalhar com outros parceiros](work-with-other-partners.md)
 ## [Tarefas de provedor indireto no Partner Center](indirect-provider-tasks-in-partner-center.md)
