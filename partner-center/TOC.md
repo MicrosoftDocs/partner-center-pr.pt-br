@@ -156,7 +156,8 @@
 ## [Exibir logs de atividades do cliente](activity-logs.md)
 ## [Atualizar informações da conta de cliente](update-customer-account-info.md)
 ## [Permitir que os clientes comprem seus próprios serviços](give-customers-permission.md)
-## [Criar vários usuários para um cliente](adding-multiple-users-to-a-customer-account.md)
+## [Como adicionar vários usuários para um cliente](adding-multiple-users-to-a-customer-account.md)
+## [Campos obrigatórios para o arquivo importar vários usuários para uma conta de cliente](file-customer-users.md)
 ## [Atribuir contatos de suporte](assign-support-contacts.md)
 
 # [Ofertas de CSP](csp-offers.md)
