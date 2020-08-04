@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/17/2020
 description: Respostas para perguntas sobre a expiração do benefício, a renovação e a ativação de licenças para o Azure, nuvem, Visual Studio e benefícios técnicos e de suporte
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 89b3c8ae87072247da32bc015693205e3b2d8479
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: 07aed688aa17c1ee9017785e16eded56624d7d62
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120021"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527612"
 ---
 # <a name="benefits-faq"></a>Perguntas frequentes sobre os benefícios
 
@@ -42,7 +42,7 @@ Por exemplo, se a data de expiração do seu benefício for 31 de janeiro de 202
 
 Use o procedimento a seguir para renovar seus benefícios:
 
-1. Entre no [painel Partner Center](https://partner.microsoft.com/dashboard/).
+1. Entre no painel [Partner Center](https://partner.microsoft.com/dashboard/).
 
 2. Na barra de navegação à esquerda, selecione **MPN**.
 
@@ -91,7 +91,7 @@ Você não pode combinar ofertas de crédito em massa do Azure com outras oferta
 
 Você pode atribuir assinaturas a qualquer pessoa em sua lista de gerenciamento de usuário no Partner Center ou em seu locatário Azure Active Directory (AAD), executando as seguintes etapas:
 
-1. Entre no [painel Partner Center](https://partner.microsoft.com/dashboard/).
+1. Entre no painel [Partner Center](https://partner.microsoft.com/dashboard/).
 
 2. Na barra de navegação à esquerda, selecione **MPN**.
 
@@ -107,7 +107,7 @@ Depois de atribuir a assinatura, o usuário precisa fazer logon no Visual Studio
 
 A instalação, ativação e outras ajuda relacionadas a produtos são fornecidas por meio de Suporte da Microsoft. Para obter assistência, execute as seguintes etapas:
 
-1. Entre no [painel Partner Center](https://partner.microsoft.com/dashboard/).
+1. Entre no painel [Partner Center](https://partner.microsoft.com/dashboard/).
 
 2. Na barra de navegação à esquerda, selecione **MPN**.
 

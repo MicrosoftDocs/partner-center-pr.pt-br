@@ -3,18 +3,18 @@ title: Solicitações de cooperação de incentivos
 ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 description: Saiba como enviar uma declaração de cooperação bem-sucedida para seus incentivos organizando a documentação, as faturas, as instruções e a prova de execução corretas.
 author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 487aacc5028b501f4cb8ac673e339a0d766784b5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 72b19b1edd1d63d89472168c4210edcbeac7b837
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435415"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527562"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Visão geral de reivindicações de cooperação de incentivos
 

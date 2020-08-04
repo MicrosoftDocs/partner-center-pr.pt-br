@@ -1,6 +1,6 @@
 ---
 title: Personalizar a experiência de uso inicial do dispositivo
-ms.topic: article
+ms.topic: how-to
 ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: dc063dad26a78833084487d80db9c86c3145953e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a59b0c25b8f5203942e73b549d5ffb9d65d90c36
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435925"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527652"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Usar perfis do Windows AutoPilot em novos dispositivos para personalizar a experiência de uso inicial do cliente
 

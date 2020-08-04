@@ -1,6 +1,6 @@
 ---
 title: Criar assinaturas de cliente no Partner Center
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/22/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 3e154fd217af8ca0f5d45c686467e671e5bd9a03
-ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
+ms.openlocfilehash: 66c8b490e69e9b03ec0db213ca2a5baf3d42635e
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86949832"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527799"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Criar, suspender ou cancelar assinaturas de clientes
 
@@ -41,7 +41,7 @@ Algumas ofertas são limitadas a uma assinatura por cliente. Para ver uma lista 
 
 ## <a name="create-a-new-subscription"></a>Criar uma nova assinatura
 
-1. Entre no [painel Partner Center](https://partner.microsoft.com/dashboard).
+1. Entre no painel [Partner Center](https://partner.microsoft.com/dashboard).
 
 2. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
 

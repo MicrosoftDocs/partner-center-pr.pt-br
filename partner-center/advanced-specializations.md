@@ -3,18 +3,18 @@ title: Ganhe especializações avançadas
 ms.topic: article
 ms.date: 07/02/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Fortaleça seu perfil de negócios no diretório de parceiros. Saiba como obter especializações avançadas junto com suas competências Gold/Silver.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f4dbfee981023fe567ef345db8b9363cce886adc
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 80a44e50134f9bee335627f66cc27beee8a93926
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436345"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527012"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>Ganhe uma especialização avançada para a experiência de demonstração e destaque para os clientes 
 

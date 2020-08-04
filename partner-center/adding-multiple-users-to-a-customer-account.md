@@ -1,22 +1,23 @@
 ---
 title: Adicionar vários usuários para uma conta de cliente
-ms.topic: article
-ms.date: 06/17/2020
+ms.topic: how-to
+ms.date: 08/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como adicionar vários usuários à conta de um cliente de uma só vez. Carregue um arquivo de dados no Partner Center usando o formato de arquivo. csv (valores separados por vírgulas).
+description: Para adicionar vários usuários à conta de um cliente, carregue um arquivo de dados no Partner Center usando o formato de arquivo. csv (valores separados por vírgulas).
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a9a94ac9d9022b33c7f909a258b66daa4312ad13
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 0a9b2ed89b10e43c31d00777054839f3208e5c16
+ms.sourcegitcommit: 32516c30e90ee78415e5537d2b8ccf467f56a82d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436305"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87535736"
 ---
-# <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>Adicionar vários usuários a uma conta de cliente – carregar um arquivo de dados no Partner Center
+# <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>Carregar um arquivo. csv de usuários para a conta de um cliente
+
 
 **Aplica-se a**
 
@@ -26,33 +27,11 @@ ms.locfileid: "86436305"
 
 - Administrador global
 
-Você pode adicionar vários usuários à conta de um cliente de uma só vez, carregando um arquivo de dados no formato de arquivo de valores separados por vírgula (. csv) no Partner Center. Você pode baixar um arquivo de dados de exemplo do centro de parceiros e, em seguida, editá-lo para seu uso ou pode criar um novo arquivo de dados usando o modelo de dados definido abaixo.
+Adicione vários usuários à conta de um cliente de uma só vez, carregando um arquivo de dados no formato de arquivo de valores separados por vírgula (. csv) no Partner Center. 
 
-## <a name="data-file-requirements"></a><a href="" id="creatingtheimportcsvfile"></a>Requisitos de arquivo de dados:
+## <a name="create-the-file-of-customer-users-and-upload-to-customer-account"></a>Criar o arquivo de usuários do cliente e carregar na conta do cliente
 
-Para adicionar vários usuários à conta de um cliente usando o processo de carregamento em massa, você precisará atender aos seguintes requisitos:
-
-- Você deve ter permissões de administrador global para a conta de cliente;
-- Cada usuário deve ter um endereço de email exclusivo, adicionado ao(s) domínio(s) de email do cliente;
-- Você pode carregar até 100 registros por vez. Se você precisar adicionar mais de 100 usuários, crie e carregue arquivos de dados adicionais.
-- Todos os usuários devem estar na mesma **localização** geográfica.
-- Insira apenas os dados descritos abaixo. Dados irrelevantes causarão a falha do upload.
-
-Insira os seguintes dados no arquivo de dados:
-
-| **Nome da coluna** | **Descrição**  | **Limitação**  |
-|:-------- |:------  |:----- |
-| Nome  | Nome do usuário (campo opcional)  | limite de 50 caracteres  |
-| Sobrenome  | Sobrenome do usuário (campo opcional)  | limite de 50 caracteres  |
-| Nome de exibição    | Nome exibido no Partner Center (campo obrigatório)                            | limite de 50 caracteres                         |
-| Email   | Endereço de email comercial do usuário na empresa do cliente (campo obrigatório)           | Cada usuário deve ter um endereço de e-mail exclusivo |
-| Atualização de status   | Usado para indicar se o novo registro de usuário foi ou não criado com êxito | \*\*Deixar vazio\*\*                        |
-
-### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>Para criar várias contas de usuário
-
-<a href="" id="creatingtheaccounts"></a>
-
-1. Crie um arquivo de valores separados por vírgula (.csv) com os dados descritos acima. Salve o arquivo para que você possa usá-lo em uma etapa posterior.
+1. Crie um arquivo de valores separados por vírgula (.csv) com os dados descritos acima. Salve o arquivo para que você possa usá-lo em uma etapa posterior. Consulte [os campos do arquivo. csv para importar vários usuários para uma conta de cliente](file-customer-users.md). 
 
 2. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
@@ -72,13 +51,11 @@ Insira os seguintes dados no arquivo de dados:
 9. Clique em **Salvar**.
 10. Baixe as informações de senha temporária para os usuários.
 
-**IMPORTANTE:** Certifique-se de baixar o arquivo com as senhas temporárias agora, pois não será possível fazer isso mais tarde. Os novos usuários devem fazer logon em suas novas contas usando a respectiva senha temporária.
+    >[!IMPORTANT]
+    > Certifique-se de baixar o arquivo com as senhas temporárias agora, pois você não poderá fazer isso mais tarde. Os novos usuários devem fazer logon em suas novas contas usando a respectiva senha temporária.
 
-10. Os novos usuários recebem automaticamente permissões de **Pode usar licenças e serviços**. 
+11. Os novos usuários recebem automaticamente permissões de **Pode usar licenças e serviços**. 
 
- 
+## <a name="next-steps"></a>Próximas etapas
 
- 
-
-
-
+- [Dê permissão aos clientes no Partner Center para comprar seus próprios produtos ou serviços](give-customers-permission.md)

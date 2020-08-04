@@ -3,19 +3,29 @@ title: Adicionar clientes com ofertas de avaliação do Office 365
 ms.topic: article
 ms.date: 05/06/2020
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Saiba como os consultores da Microsoft autorizados podem aumentar suas assinaturas do Office 365. Crie e envie convites para avaliação do Office 365 e ofertas de compra para clientes.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2c1dc96c2947da8ab37787e406d40400071a3b31
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c5631e141f3b232ddfb0afd7dab6acc6a08f59df
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436255"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527002"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Consultores: Crie sua base de clientes com convites para avaliação do Office 365 e ofertas de compra
+
+**Aplica-se a**
+
+- Partner Center
+ 
+**Funções apropriadas**
+
+- Consultores
+
 
 Como um Microsoft Advisor autorizado, o **Partner Center** oferece a você uma oportunidade de aumentar sua base de clientes e criar relações duradouras com seus clientes. Com o Partner Center, você pode enviar seus convites para avaliação de clientes e ofertas de compra e oferecer a eles serviços de administração delegados, dependendo dos serviços que você está autorizado a fornecer.
 

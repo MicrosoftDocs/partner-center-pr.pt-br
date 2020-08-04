@@ -1,6 +1,6 @@
 ---
 title: Atribuir assinaturas do Azure aos clientes
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf69d3cc9b7f9034e357d0b85e7910c3fe9d98a6
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 02bd7ca573be4b0b61da546f66c6102fbc752c2d
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436005"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527682"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Atribuir assinaturas do Azure a clientes no Partner Center
 

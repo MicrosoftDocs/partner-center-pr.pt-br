@@ -1,6 +1,6 @@
 ---
 title: Gerenciar produtos do Marketplace & ofertas
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6985b475a2aa2c6083d447a8d219c8640d58fcc
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 96c07ee9d03b433992632337d13c561d6334a896
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444610"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527712"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Gerenciar produtos e ofertas do Marketplace comercial para seus clientes
 

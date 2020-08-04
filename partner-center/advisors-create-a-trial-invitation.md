@@ -3,19 +3,28 @@ title: Criar um convite para avaliação do Office 365
 ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Saiba como os parceiros podem criar e enviar convites de avaliação para seus clientes para experimentar o Office 365. Os parceiros são um consultor autorizado de assinatura.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 5d76de11eb69692f8829697a664a55b01ee87c12
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: db32f3d48089457cb9c49196bcb190ccd4308582
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120030"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87526992"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Consultores: Crie e envie um convite de avaliação para que os clientes experimentem o Office 365
+
+**Aplica-se a**
+
+- Partner Center
+ 
+**Funções apropriadas**
+
+- Consultores
 
 > [!NOTE]
 > Esse recurso está disponível somente para parceiros da Microsoft que são consultores de assinatura autorizados.

@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eba88c5380254929809d27ff2b877a5ee72df239
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 34b74d6039e0fb184d7fcb7f3a5b24717d593ed3
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114808"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527582"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Verificar a integridade do serviço para um cliente relatando um potencial problema de serviço ou interrupção
 
@@ -42,9 +42,11 @@ Uma das primeiras coisas que você pode fazer quando um cliente estiver tendo pr
  
 Durante uma interrupção de serviço, a Microsoft fornece atualizações regulares enquanto trabalhamos para resolver o problema. Essas notificações também são exibidas no portal do Microsoft Azure ou no centro de administração de Microsoft 365.
 
-Se o problema persistir após o término da interrupção do serviço, envie uma solicitação de serviço. Consulte [Relatar problemas em nome de um cliente](report-problems-on-behalf-of-a-customer.md).
+## <a name="next-steps"></a>Próximas etapas 
 
-Microsoft 365 e Microsoft Azure fornecem [APIs que os parceiros podem usar para recuperar a integridade do serviço em tempo real](get-automated-service-notifications-with-our-apis.md), as comunicações do centro de mensagens e os eventos de manutenção planejada.
+- Se o problema persistir após o término da interrupção do serviço, envie uma solicitação de serviço. Consulte [Relatar problemas em nome de um cliente](report-problems-on-behalf-of-a-customer.md).
+
+- Microsoft 365 e Microsoft Azure fornecem [APIs que os parceiros podem usar para recuperar a integridade do serviço em tempo real](get-automated-service-notifications-with-our-apis.md), as comunicações do centro de mensagens e os eventos de manutenção planejada.
 
  
 

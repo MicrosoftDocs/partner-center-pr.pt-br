@@ -1,6 +1,6 @@
 ---
 title: Gerenciar reservas do Azure para clientes
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3197f2281ef4a41a200e08290712218c634d1f52
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: bb5e88b284aac3325de79d41c0c9a19ffc906b3f
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435755"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527452"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Gerenciar, cancelar, trocar ou reembolsar reservas de Microsoft Azure para clientes
 
@@ -44,7 +44,7 @@ Para gerenciar as reservas do Azure de seus clientes após a compra, você selec
     |:-----------------------------|:-----------------|
     | **Visão geral**   | Exibir detalhes da reserva de um cliente, incluindo data de expiração, escopo e dados de utilização. **OBSERVAÇÃO** Selecione **Reembolso** para criar uma solicitação de suporte para obter um reembolso proporcional. Selecione **Trocar** para criar uma solicitação de suporte para trocar a parte não utilizada do seu termo de reserva.  
     | **Controle de acesso (IAM)**   | Gerencie o acesso às informações de reserva do cliente.|
-    | **Configuration**   | Altere o escopo da reserva e/ou a assinatura do Azure à qual a reserva está associada.    |
+    | **Configuração**   | Altere o escopo da reserva e/ou a assinatura do Azure à qual a reserva está associada.    |
     | **Propriedades**   | Exiba as propriedades da reserva e copie para a área de transferência a ID da reserva e a ID do pedido de reserva. **OBSERVAÇÃO** O suporte pode solicitar a ID da reserva e a ID do pedido da reserva quando você solicitar suporte em nome de um cliente.    |
     | **Nova solicitação de suporte**    | Solicite ajuda do Suporte da Microsoft.   |
  

@@ -1,6 +1,6 @@
 ---
 title: Como adicionar um novo registro de cliente
-ms.topic: article
+ms.topic: how-to
 ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: c4486153c5b9a03b90102dd42460e61ad43ecbf8
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 71bfb819b0ce928d064bebe685664412a5eac689
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436375"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527232"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Como adicionar um novo registro de cliente no Partner Center
 

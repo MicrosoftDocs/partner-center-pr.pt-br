@@ -1,6 +1,6 @@
 ---
 title: Atribuir ou revogar licenças para vários usuários
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 20ef77322ced5a7198dbd0ecaf519f614bc17a32
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: de7b9775be925911dab6a7fd72b8f81a5b701bec
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435565"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527392"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Atribuir ou revogar licenças ao mesmo tempo para vários usuários em uma conta de cliente
 
@@ -34,11 +34,6 @@ Você pode atribuir licenças e serviços a um usuário ou a vários usuários a
 
 O Partner Center rastreia e mostra todos os direitos de licença de Propriedade do cliente.
 
-As seções a seguir mostram como:
-- [Atribuir licenças a vários usuários](#assign-licenses-to-groups)
-- [Revogar atribuições de licença de usuários](#revoking-licenses)
-
-<a href="" id="assign-licenses-to-groups"></a>
 ## <a name="assign-licenses-to-multiple-users"></a>Atribuir licenças a vários usuários
 
 1. No menu do **centro de parceiros** , selecione **clientes**e, em seguida, escolha um cliente na lista.
@@ -81,7 +76,6 @@ As seções a seguir mostram como:
 >[!NOTE]
 >Alguns produtos da Microsoft podem não estar disponíveis em determinados locais. Outros produtos dependem de outros produtos ou serviços ou não podem ser atribuídos em conjunto ao mesmo usuário. Depois de salvar, a página de confirmação listará os resultados da atribuição de licença bem-sucedida para todos os usuários e quaisquer erros da atribuição de licença.
 
-<a href="" id="revoking-licenses"></a>
 ## <a name="revoke-users-license-assignments"></a>Revogar atribuições de licença de usuários
 
 1. No menu do **centro de parceiros** , selecione **clientes**e, em seguida, escolha um cliente na lista.
