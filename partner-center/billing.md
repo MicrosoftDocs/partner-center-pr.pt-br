@@ -3,18 +3,18 @@ title: Referência – Artigos de cobrança do Partner Center
 ms.topic: article
 ms.date: 04/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 Description: Saiba mais sobre os tópicos de cobrança e imposto no Partner Center. As informações abrangem recursos de cobrança, faturas, cobrança do CSP e impostos.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: df4e6932ba1b551403143f154ea1202109369ddb
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c78e90ab5d412f58384c039bcd4965170662ec0a
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435575"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527402"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Visão geral: Principais artigos de cobrança e imposto no Partner Center
 
@@ -34,7 +34,6 @@ ms.locfileid: "86435575"
 | ----- | ----------- |
 | [Noções básicas sobre cobrança](billing-basics.md) | Noções básicas da cobrança do Partner Center (incluindo pagamentos, faturas e arquivos de reconciliação). |
 | [Tipos de cobrança](billing-different-types.md) | Explicação sobre diferentes tipos de cobrança no Partner Center. |
-| [Diferenças de cobrança mensal e anual](billing-annual-monthly.md) | Explicação sobre diferenças entre as frequências de cobrança mensais e anuais. |
 | [Entender a fatura](read-your-bill.md) | Como ler e entender sua conta do Partner Center. |
 | [Avaliações gratuitas](offer-your-customers-trials-of-microsoft-products.md) | Como oferecer avaliações gratuitas para seus clientes e como essas avaliações são cobradas. |
 | [Arquivo de reconciliação](use-the-reconciliation-files.md) | Como ler e usar seu arquivo de reconciliação para itens de linha. |

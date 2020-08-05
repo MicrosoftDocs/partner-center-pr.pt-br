@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: d03421995c2243b5deb8575916dbe15c76ea746c
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 6ccdba6004e1449b0cf83e65c71714f33e9dadfb
+ms.sourcegitcommit: c71df4cc61dfd0d6ef4a93f9c92fb822201c7773
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944443"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87433904"
 ---
 # <a name="april-2020-announcements"></a>Comunicados de abril de 2020
 
@@ -174,7 +174,7 @@ Para ajudar a defender ainda mais os parceiros e os clientes, **a partir de 1º 
 
 - **Se você ainda não ativou os requisitos de segurança recomendados para proteger seu locatário e seus usuários**, faça isso imediatamente para manter a conformidade e evitar interrupções do negócio ao gerenciar clientes ou fazer transações no CSP. Os parceiros que não implementarem os requisitos de segurança poderão colocar em risco a participação deles no programa CSP.
 - Os provedores indiretos precisarão implementar esses requisitos de segurança em suas empresas e trabalhar com os revendedores para garantir que eles também implementem os requisitos usando este modelo de email. Também entraremos em contato diretamente com os revendedores por meio de comunicações por email.
-- Visite a [página de status dos requisitos de segurança do Partner Center](https://partner.microsoft.com/pcv/security/compliance) para identificar seu progresso e as principais medidas a serem tomadas. Trabalhe com seu administrador global para verificar o progresso dos requisitos de segurança regularmente em cada locatário.
+- Visite a [página de status dos requisitos de segurança do Partner Center](https://partner.microsoft.com/commerce/security/compliance) para identificar seu progresso e as principais medidas a serem tomadas. Trabalhe com seu administrador global para verificar o progresso dos requisitos de segurança regularmente em cada locatário.
 - Se você está usando uma solução de CPV (Fornecedor de Painel de Controle), consulte o seu CPV.
 
 ### <a name="additional-resources"></a>Recursos adicionais

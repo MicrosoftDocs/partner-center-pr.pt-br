@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f89240966de1976bd08ae8a91272bf6b10dddfcc
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 055f7f43e9b5d866c18680de000d6cee01e2e165
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943554"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444895"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Perguntas frequentes sobre os requisitos de segurança de parceiros
 
@@ -55,7 +55,7 @@ Você precisa concluir as etapas abaixo
 - Será necessário atender a todos os requisitos descritos nos [requisitos de segurança do parceiro](partner-security-requirements.md)
 - Você precisa garantir que a autenticação multifator seja imposta em todas as contas de usuário em seu locatário do parceiro.
 
-Para ajudar a identificar as principais áreas em que você pode executar ações, estamos fornecendo o relatório de [status dos requisitos de segurança](https://partner.microsoft.com/pcv/security/compliance), que está disponível por meio do Partner Center.
+Para ajudar a identificar as principais áreas em que você pode executar ações, estamos fornecendo o relatório de [status dos requisitos de segurança](https://partner.microsoft.com/commerce/security/compliance), que está disponível por meio do Partner Center.
 
 Confira o [status dos requisitos de segurança do parceiro](partner-security-compliance.md) para obter mais informações sobre o relatório de status.
 

@@ -1,6 +1,6 @@
 ---
 title: Vender assinaturas de software por meio do CSP
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8dd06d44bb9d80e159c18aff312a5e60e96b0539
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: bb70aabc59e069209673b1b0f2e0be57c973a70e
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434885"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545837"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vender assinaturas de software por meio do programa CSP (Provedor de Soluções na Nuvem)
 
