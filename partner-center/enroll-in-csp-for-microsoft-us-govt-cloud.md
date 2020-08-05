@@ -1,6 +1,6 @@
 ---
 title: Inscrever-se no programa CSP
-ms.topic: article
+ms.topic: how-to
 titleSuffix: Microsoft Cloud for US Government - Partner Center
 ms.date: 06/30/2020
 ms.service: partner-dashboard
@@ -10,12 +10,12 @@ author: mowrim
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 67dd4823e5167fb0e0ece692e873cd8cde7013ea
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 7ca8db8e2910b4825aab7bda27dfe61dbcd4ca9a
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947537"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545857"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Cloud for US Government
 

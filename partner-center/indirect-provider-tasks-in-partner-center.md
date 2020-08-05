@@ -1,7 +1,7 @@
 ---
 title: Parceiro com revendedores indiretos no CSP
 description: Como um provedor indireto ou distribuidor, saiba como expandir com revendedores indiretos. Isso inclui tarefas que você pode executar no Partner Center.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BillLinzbach
@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: cb7a9bca65bb4fbb8ef9f3fb88a968155bf17ced
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 92c82bbc785a6b8ef01fc39abe5bb4235fbc5622
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377210"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545977"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Faça parceria com revendedores indiretos no programa Provedor de Soluções na Nuvem
 
@@ -47,9 +47,9 @@ Para obter informações sobre o que é necessário para participar do programa 
 
 Conclua as seguintes etapas para estabelecer e gerenciar sua parceria com revendedores indiretos e clientes. As etapas dois e três são descritas em mais detalhes a seguir.
 
-1. Examine o perfil da sua empresa na [Lista de provedores indiretos oficiais da Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider).
+1. Examine o perfil da sua empresa na [lista de provedores indiretos oficiais da Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider).
 
-   - Para fazer alterações no perfil de provedor indireto da sua empresa, entre em contato com seu representante da Microsoft.
+   - Para fazer alterações no perfil de provedor indireto da empresa, entre em contato com o representante da Microsoft.
 
 2. Conectar-se com revendedores indiretos
 

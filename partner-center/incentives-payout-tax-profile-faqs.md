@@ -1,21 +1,21 @@
 ---
-title: Incentivos para perguntas frequentes sobre pagamento e perfil fiscal
+title: Perguntas frequentes sobre o pagamento de incentivos e o perfil fiscal
 ms.topic: article
 ms.date: 07/21/2020
 description: Perguntas frequentes sobre o pagamento de incentivos e perfis de impostos.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: kim-davis
 ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: c98a150957a55c75d875cfba64699f080d0a238d
-ms.sourcegitcommit: b4fe2fa43663fe46b205f9daa01494d5053c1ede
+ms.openlocfilehash: 176533700870af15107221396803d7f7cacfd0d7
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "87264222"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545907"
 ---
-# <a name="incentives-payout-and-tax-profile-faqs"></a>Incentivos para perguntas frequentes sobre pagamento e perfil fiscal
+# <a name="incentives-payout-and-tax-profile-faqs"></a>Perguntas frequentes sobre o pagamento de incentivos e o perfil fiscal
 
 Aplica-se a:
 

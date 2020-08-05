@@ -1,19 +1,19 @@
 ---
 title: Criar e gerenciar perfis fiscais e de pagamento no Partner Center
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/29/2020
 description: Antes que você possa ser pago pelo trabalho de seus incentivos, você precisa criar seus perfis de pagamento e de impostos.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: ed8820065c8c009e64419e58fa11758a27f95d7e
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 3e7424ff1329d9c2bf13e9a6c4181c312396e073
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114089"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546037"
 ---
 # <a name="payout-and-tax-profiles-in-partner-center"></a>Perfis de pagamento e impostos no Partner Center
 
@@ -21,7 +21,7 @@ Aplica-se a:
 
 - Partner Center
 
-Para receber o pagamento de seus programas de incentivo para um local de MPN específico, conclua o registro associando um perfil de pagamento e imposto válido ao programa e ao local de MPN. A Microsoft usará este perfil de pagamento e imposto para emitir pagamentos. Você pode usar transferência bancária eletrônica ou uma nota de crédito para pagamento, dependendo das regras do programa de incentivo. 
+Antes de receber o pagamento de seus programas de incentivo para um local de MPN específico, você deve concluir o registro associando um perfil de pagamento e imposto válido ao programa e ao local de MPN. A Microsoft usará este perfil de pagamento e imposto para emitir pagamentos. Você pode usar transferência bancária eletrônica ou uma nota de crédito para pagamento, dependendo das regras do programa de incentivo. 
 
 Funções apropriadas:
 

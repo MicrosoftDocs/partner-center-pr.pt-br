@@ -1,6 +1,6 @@
 ---
 title: Consolidação de locatários de autorização regional do CSP
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4389ed675bfc7186aa19e595b14ac9200334c61c
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 4e6d98069822df9a6310335ffd8b1ab08dc61ccb
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444927"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545647"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instruções para a consolidação de locatários de autorização regional do CSP
 

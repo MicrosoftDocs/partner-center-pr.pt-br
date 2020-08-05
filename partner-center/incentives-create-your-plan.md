@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/29/2020
 description: Reúna e crie as informações necessárias para gerar um plano de marketing bem-sucedido para seu programa de incentivos.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 37e39328b555e53b0f9789da5baddb280ed4fdea
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 9e10bdf6d47213ec88f4b434fc4c815ce336d956
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114176"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546017"
 ---
 # <a name="create-your-plan"></a>Criar o plano
 
@@ -40,7 +40,7 @@ Para obter mais informações sobre planos para seu programa de incentivos espec
 
 ## <a name="how-to-submit-a-plan"></a>Como enviar um plano
 
-1. Entre no [painel Partner Center](https://partner.microsoft.com/dashboard/).
+1. Entre no painel [Partner Center](https://partner.microsoft.com/dashboard/).
 
 2. Em **Incentivos** na barra de navegação esquerda, selecione **Programa** e, em seguida, selecione o programa. 
 

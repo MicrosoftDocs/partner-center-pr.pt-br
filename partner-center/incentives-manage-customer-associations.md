@@ -2,18 +2,18 @@
 title: Gerenciar associações do cliente
 description: Entenda os processos e cronogramas importantes para gerenciar associações de clientes CPOR (parceiro de registro) reivindicadas.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-ms.topic: article
+ms.subservice: partnercenter-incentives
+ms.topic: how-to
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: eef3ac8253c0507b5fd5fc24cc961f45518f6da2
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 23d2694cbd78de0d6db7669b33c793c535594978
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114783"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545987"
 ---
 # <a name="manage-customer-associations"></a>Gerenciar associações do cliente
 
@@ -77,7 +77,7 @@ Se passarem 30 dias e você ainda quiser contestar uma declaração rejeitada, v
 
 ### <a name="to-dispute-a-rejected-claim"></a>Para contestar uma declaração rejeitada
 
-1. Entre no [painel Partner Center](https://partner.microsoft.com/dashboard/).
+1. Entre no painel [Partner Center](https://partner.microsoft.com/dashboard/).
 2. Abra a declaração que você deseja contestar.
 3. Na página declaração, selecione **contestação**.
 4. Insira uma justificativa de negócios e/ou uma PoE atualizada explicando por que a rejeição deve ser reconsiderada.

@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/29/2020
 description: Saiba como solucionar problemas como ganhos ausentes ou incorretos, problemas de qualificação e como reconciliar seus ganhos de incentivos.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: fc086b74fd140e669720743b067959fc3463f6c9
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 6c56fe41d6a12a2e6337dba5bc611124eeaf3429
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114761"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545917"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>Solução de problemas com pagamentos e lucros
 
@@ -51,8 +51,8 @@ Atualmente, a Microsoft não oferece suporte à opção de excluir perfis de pag
 
 Pagamentos ausentes ou incorretos geralmente são devidos a uma das seguintes opções:
 
-- **Talvez você não esteja qualificado.**  Os ganhos só estarão disponíveis se você atender aos requisitos de qualificação operacionais, ou seja, registrados no respectivo período de conquista do programa.
-- **Talvez você não tenha atendido aos requisitos.**  Verifique se você atendeu às regras de qualificação e de receita qualificada para o incentivo que está procurando.
+- **Talvez você não esteja qualificado.**  Os ganhos só estarão disponíveis se você atender aos Requisitos de qualificação operacionais, ou seja, registrados no respectivo período de lucro do programa.
+- **Você pode não ter atendido aos requisitos.**  Verifique se você cumpriu as regras de qualificação e de receita qualificada para o incentivo que está procurando.
 
   **Para verificar sua elegibilidade**
 
@@ -62,7 +62,7 @@ Pagamentos ausentes ou incorretos geralmente são devidos a uma das seguintes op
   
   3. Selecione o link do documento desejado e examine as seções qualificação para **parceiros** e **regras de receita qualificada**.
 
-- **Seu perfil de pagamento pode estar incompleto.** A data de início dos ganhos de incentivo será o primeiro dia do mês em que você concluiu todos os requisitos de qualificação, incluindo a integração com os detalhes de pagamento e imposto. Os ganhos não estarão disponíveis para os meses antes do pagamento e da conclusão do imposto. Por exemplo, se você concluir todos os requisitos durante o mês de abril de 2020, a data de início dos ganhos será de 1º de abril de 2020.
+- **Seu perfil de pagamento pode estar incompleto.** A data de início dos ganhos de incentivo será o primeiro dia do mês em que você concluiu todos os requisitos de qualificação, incluindo a integração com os detalhes de pagamento e imposto. Os lucros não estarão disponíveis para os meses antes da conclusão do pagamento e do imposto. Por exemplo, se você concluir todos os requisitos durante o mês de abril de 2020, a data de início dos lucros será 1º de abril de 2020.
 - **Você pode ter uma ação pendente**.  Pode ser que seus incentivos não estejam sendo processados porque há uma ação pendente.
 
   **Para exibir suas ações pendentes**
@@ -84,35 +84,35 @@ Cada programa de incentivos tem um perfil bancário criado durante a instalaçã
 
 Quando você não vir os ganhos por um período em que eles são esperados, isso geralmente ocorre devido a um dos seguintes problemas:
 
-- **Talvez você não esteja qualificado.**  Os ganhos só estarão disponíveis se você atender aos requisitos de qualificação operacionais, ou seja, registrados no respectivo período de conquista do programa.
+- **Talvez você não esteja qualificado.**  Os ganhos só estarão disponíveis se você atender aos Requisitos de qualificação operacionais, ou seja, registrados no respectivo período de lucro do programa.
 
-- **Seu perfil de pagamento pode estar incompleto.**  A data de início dos ganhos de incentivo será o primeiro dia do mês em que você concluiu todos os requisitos de qualificação, incluindo a integração com os detalhes de pagamento e imposto. Os ganhos não estarão disponíveis para os meses antes do pagamento e da conclusão do imposto. Por exemplo, se você concluir todos os requisitos durante o mês de abril de 2020, a data de início dos ganhos será de 1º de abril de 2020.
+- **Seu perfil de pagamento pode estar incompleto.**  A data de início dos ganhos de incentivo será o primeiro dia do mês em que você concluiu todos os requisitos de qualificação, incluindo a integração com os detalhes de pagamento e imposto. Os lucros não estarão disponíveis para os meses antes da conclusão do pagamento e do imposto. Por exemplo, se você concluir todos os requisitos durante o mês de abril de 2020, a data de início dos lucros será 1º de abril de 2020.
 
 Se você tiver concluído os requisitos de qualificação, incluindo a integração com os detalhes de pagamento e imposto sobre o tempo, e os ganhos ainda estiverem ausentes, entre em contato com o [suporte](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
 ## <a name="my-earnings-are-missing-or-incorrect"></a>Meus ganhos estão ausentes ou incorretos
 
-Os ganhos ausentes ou incorretos podem ser causados por um dos seguintes problemas:
+Ganhos ausentes ou incorretos podem ser causados por um dos seguintes problemas:
 
-- **Talvez você não tenha atendido aos requisitos.**  Verifique se você atendeu às regras de [qualificação](#my-payment-is-missing-or-incorrect) e de receita qualificada para o incentivo que está procurando.
+- **Você pode não ter atendido aos requisitos.**  Verifique se você cumpriu as regras de [qualificação](#my-payment-is-missing-or-incorrect) e de receita qualificada para o incentivo que está procurando.
 
-- **Pode haver uma discrepância.**  Se você atender à qualificação do parceiro e às regras de receita qualificada e ainda ver ganhos incorretos, confira [como identificar os ganhos & discrepância de pagamento](https://support.microsoft.com/help/4534675) para obter as etapas para acessar todos os ganhos e respectivas transações.
+- **Pode haver uma discrepância.**  Se você atender à qualificação de Parceiro e às regras de receita qualificada e ainda estiver vendo ganhos incorretos, confira [Como identificar discrepâncias de ganhos e lucros](https://support.microsoft.com/help/4534675) para ver as etapas para acessar todos os lucros e as respectivas transações.
 
 Se essas ações não ajudarem e você ainda não conseguir encontrar os ganhos ou ainda acreditar que os ganhos estão incorretos, contate o [suporte](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
 ## <a name="how-do-i-reconcile-my-earnings"></a>Como fazer reconciliar meus ganhos?
 
-Se houver uma discrepância em seus ganhos, conclua as seguintes etapas:
+Se houver uma discrepância em seus lucros, siga as seguintes etapas:
 
-1. **Verifique se você está qualificado para os ganhos.**  Os ganhos só estarão disponíveis se você atender aos requisitos de qualificação operacionais, ou seja, registrados no respectivo período de conquista do programa.
+1. **Verifique se você se qualifica para os lucros.**  Os ganhos só estarão disponíveis se você atender aos Requisitos de qualificação operacionais, ou seja, registrados no respectivo período de lucro do programa.
 
-2. **Verifique se o perfil de pagamento está concluído.**  A data de início dos ganhos de incentivo será o primeiro dia do mês em que você concluiu todos os requisitos de qualificação, incluindo a integração com os detalhes de pagamento e imposto. Os ganhos não estarão disponíveis para os meses antes do pagamento e da conclusão do imposto. Por exemplo, se você concluir todos os requisitos durante o mês de abril de 2020, a data de início dos ganhos será de 1º de abril de 2020. 
+2. **Verifique se o perfil de pagamento foi preenchido.**  A data de início dos ganhos de incentivo será o primeiro dia do mês em que você concluiu todos os requisitos de qualificação, incluindo a integração com os detalhes de pagamento e imposto. Os lucros não estarão disponíveis para os meses antes da conclusão do pagamento e do imposto. Por exemplo, se você concluir todos os requisitos durante o mês de abril de 2020, a data de início dos lucros será 1º de abril de 2020. 
 
-3. **Verifique se você atendeu aos requisitos.**  Verifique se você atendeu às regras de [qualificação](#my-payment-is-missing-or-incorrect) e de receita qualificada para o incentivo que está procurando.
+3. **Verifique se você atendeu aos requisitos.**  Verifique se você cumpriu as regras de [qualificação](#my-payment-is-missing-or-incorrect) e de receita qualificada para o incentivo que está procurando.
 
-4. **Determine se houve uma discrepância.**  Se você atender às regras de qualificação do parceiro e de receita qualificada e ainda estiver vendo ganhos incorretos, consulte [como identificar ganhos & discrepância de pagamento](https://support.microsoft.com/help/4534675) para obter as etapas para acessar todos os ganhos e respectivas transações.
+4. **Determine se houve uma discrepância.**  Se você atender à qualificação de Parceiro e às regras de receita qualificada e ainda estiver vendo ganhos incorretos, confira [Como identificar discrepâncias de ganhos e lucros](https://support.microsoft.com/help/4534675) para ver as etapas para acessar todos os lucros e as respectivas transações.
 
-Se essas ações não ajudarem e seus ganhos ainda não estiverem reconciliados, entre em contato com o [suporte](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+Se essas ações não ajudarem e seus lucros ainda não estiverem conciliados, entre em contato com o [suporte](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
 ## <a name="where-can-i-find-my-rates"></a>Em que local posso encontrar minhas taxas?
 

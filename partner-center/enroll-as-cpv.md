@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38905832b4263c2e61cf8384e9626b04862b9e41
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: b6258f54120e0a40f94ad74a76821c4222eb0ef4
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434706"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545887"
 ---
 # <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>Registre-se como um fornecedor do painel de controle para ajudar a integrar sistemas de parceiros CSP com APIs do Partner Center
 
@@ -38,8 +38,8 @@ Depois que você se inscreveu na experiência de CPV do Partner Center e aceitou
 
 - Gerencie aplicativos multilocatários (adicione aplicativos para portal do Azure, registrar e cancelar o registro de aplicativos no Partner Center).
 
->[!Note] 
->CPVs deve registrar seus aplicativos no Partner Center para ser autorizado para APIs do Partner Center. Apenas adicionar aplicativos ao portal do Azure não autoriza os aplicativos de CPV a usarem as APIs do Partner Center. 
+    >[!Note] 
+    >CPVs deve registrar seus aplicativos no Partner Center para ser autorizado para APIs do Partner Center. Apenas adicionar aplicativos ao portal do Azure não autoriza os aplicativos de CPV a usarem as APIs do Partner Center. 
 
 - Exibir e gerenciar seu perfil de CPV 
 

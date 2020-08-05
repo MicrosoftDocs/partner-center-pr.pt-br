@@ -1,19 +1,19 @@
 ---
 title: Determinar a qualificação para o programa
 description: Verifique se o seu programa de incentivos está qualificado para que você possa ser pago.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 15b674a9e3c643de2899f3658b474c9209878880
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 498604c94d86c2e8996725470cd15869dc99d068
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114776"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545997"
 ---
 # <a name="program-eligibility"></a>Elegibilidade do programa
 
@@ -21,7 +21,7 @@ Aplica-se a:
 
 - Partner Center
 
-Cada programa de incentivos tem determinados requisitos de elegibilidade. Esses requisitos de qualificação do programa foram projetados para garantir que você tenha todos os contratos apropriados assinados, competências obtidas, previsão de receita e outros pré-requisitos necessários para que seu programa de incentivos tenha sucesso.
+Cada programa de incentivos tem determinados requisitos de elegibilidade. Esses requisitos de qualificação do programa foram projetados para garantir que você tenha todos os contratos apropriados assinados, competências obtidas, previsão de receita e outros pré-requisitos necessários para que o programa de incentivos tenha sucesso.
 
 Funções apropriadas:
 
@@ -36,7 +36,7 @@ Encontre os requisitos de qualificação específicos para seu programa no guia 
 
 1. Entre no [painel Partner Center](https://partner.microsoft.com/dashboard/).
 
-2. Em **Incentivos** na barra de navegação à esquerda, selecione **Visão geral**. A página **visão geral do programa** é aberta.
+2. Em **Incentivos** na barra de navegação à esquerda, selecione **Visão geral**. A página **Visão geral do programa** é aberta.
 
 3. Selecione o programa desejado para abrir essa página.
 

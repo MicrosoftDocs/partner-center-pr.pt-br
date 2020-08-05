@@ -1,6 +1,6 @@
 ---
 title: Aumentar a adoção e a satisfação
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d60f1b21a6f9b29fdcaa5551875ce2c6d338a26
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: d995d72f6b5f9fb3beafff91eee7518ee999bf6c
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875282"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545927"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Use as métricas no Partner Center para aumentar a adoção e a satisfação
 
