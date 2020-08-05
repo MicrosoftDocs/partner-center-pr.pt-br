@@ -9,26 +9,28 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: ff92983f936add17d746c08815149ffb2731cbab
-ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
+ms.openlocfilehash: 4ed7167faf3b090025d040d692b9cb2eac35a6d4
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87479079"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545537"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
 Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos essas informações com frequência, portanto, visite a página regularmente!
 
-| **Categoria** | **Comunicados de julho de 2020** | **Comunicado** |
+| **Categoria** | **Comunicados de agosto de 2020** | **Comunicado** |
 |---------|:---------|:---------|
-|Capacidades|[Alterações nas inicializações do Enterprise Voice e da Discagem Estendida de Audioconferência](2020-july.md#10)|31 de julho|
+|Ofertas/mercados|[Nova oferta de pacote Premium do Dynamics 365 Sales](2020-august.md#2)|3 de agosto|
+|Ofertas/mercados|[Comunicando a disponibilidade das ofertas de avaliação do Visio Plano 1 e Visio Plano 2](2020-august.md#1)|3 de agosto|
+| **Categoria** | **Comunicados de julho de 2020** | **Data** |
+|Ofertas/mercados|[Alterações nas inicializações do Enterprise Voice e da Discagem Estendida de Audioconferência](2020-july.md#10)|31 de julho|
 |Capacidades|[Futuras alterações nas APIs do Partner Center](2020-july.md#9)|28 de julho|
 |Capacidades|[Lançamento de SDK na versão prévia do .NET Standard v1.16.1](2020-july.md#8)|21 de julho|
 |Capacidades|[Incentivo do CSP (Provedor de Soluções na Nuvem) para ofertas qualificadas do marketplace comercial da Microsoft aprimorado para o ano fiscal de 2021](2020-july.md#7)|22 de julho|
 |Capacidades|[Novas funcionalidades adicionadas aos relatórios de Insights no Partner Center ](2020-july.md#6)|16 de julho|
 |Ofertas/mercados|[Software perpétuo no programa Provedor de Soluções na Nuvem ](2020-july.md#5)|15 de julho|
-| Ofertas/mercados | [Novos SKUs do Microsoft 365 Enterprise Voice para o Teams](2020-july.md#4) | 3 de julho |
 | Ofertas/mercados | [As ofertas e os produtos novos e de finais da vida útil do Microsoft Dynamics 365 e do Power Platform](2020-july.md#3) | 1º de julho |
 | Ofertas/mercados | [A Microsoft encerrou as vendas do SKU autônomo do Microsoft Kaizala Pro](2020-july.md#2) | 1º de julho |
 | Capacidades | [Programas de incentivo do CSP estendidos até o 1º trimestre do ano fiscal de 2021](2020-july.md#1) | 1º de julho |
@@ -83,7 +85,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 | Ofertas/mercados | [Assinaturas do Windows Server e do SQL Server estão disponíveis para parceiros do CSP (Provedor de Soluções na Nuvem) na Rússia desde 1º de fevereiro de 2020](2020-january.md#7) | 31 de janeiro |
 | Ofertas/mercados | [Os complementos Sala de Reunião e Reuniões para o Microsoft 365 F1 agora estão disponíveis para a GCC (Nuvem da Comunidade Governamental)](2020-january.md#6) | 29 de janeiro |
 | Capacidades | [Os complementos Sala de Reunião e Reuniões para o Microsoft 365 F1 agora estão disponíveis para a GCC (Nuvem da Comunidade Governamental)](2020-january.md#5) | 28 de janeiro |
-| Capacidades | [Comunicando um novo painel de relatórios no Partner Center](2020-january.md#4) |27 de janeiro |
+| Funcionalidades | [Comunicando um novo painel de relatórios no Partner Center](2020-january.md#4) |27 de janeiro |
 | Funcionalidades | [Lembre-se de confirmar a aceitação do Contrato de Cliente da Microsoft até 31 de janeiro de 2020](2020-january.md#3) | 27 de janeiro |
 | Funcionalidades | [Lista de preços e agendamento de atualizações de ofertas para janeiro de 2020](2020-january.md#2) | 7 de janeiro |
 | Ofertas/mercados | [A Microsoft lançou produtos adicionais do Dynamics 365 e lançará mais em 1º de fevereiro de 2020](2020-january.md#1) | 2 de janeiro |

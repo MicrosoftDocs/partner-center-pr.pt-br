@@ -4,16 +4,17 @@
 
 # [Associação ao Partner Network](mpn-overview.md)
 ## [Criar uma conta do Partner Center](mpn-create-a-partner-center-account.md)
-## [Como obter um email de trabalho](buy-email-domain.md)
-## [O Centro de Administração do Parceiro está migrando para o Partner Center](pac-to-pc-overview.md)
-### [Migrando do PAC (Centro de Administração do Parceiro) para o Partner Center](moving-from-pac-to-pc.md)
-### [Parceiros do Centro de administração do parceiro do Office 365: suas operações de negócios estão migrando para o Partner Center](o365-partner-admin-center-to-partner-center.md)
-## Migrar do Partner Membership Center para o Partner Center
-### [Preparar para migrar do Partner Membership Center para o Partner Center](prepare-pmc-pc-migration.md)
-### [Guia para mudar do PMC para o Partner Center](guide-to-migration.md)
-### [Visualização rápida das diferenças entre o PMC e o PC](move-pmc-pc-map.md)
-### [Guia para mover suas várias empresas para o Partner Center](move-multiple-companies.md)
-### [Consolidação de suas empresas](consolidate-accounts.md)
+## [Obter um email de trabalho](buy-email-domain.md)
+## Migrações para o Partner Center
+### [Mudando do PAC – visão geral](pac-to-pc-overview.md)
+### [Comparar tarefas no PAC e no PC](moving-from-pac-to-pc.md)
+### [Executar tarefas do PAC no PC](o365-partner-admin-center-to-partner-center.md)
+## Migrações do PMC
+### [Preparar para migrar do PMC](prepare-pmc-pc-migration.md)
+### [Guia para mudança do PMC](guide-to-migration.md)
+### [Comparar o PMC e o PC](move-pmc-pc-map.md)
+### [Migrar muitas empresas](move-multiple-companies.md)
+### [Consolidar empresas](consolidate-accounts.md)
 
 
 ## Ofertas de associação
@@ -21,27 +22,28 @@
 ### [Renovar suas ofertas](renew-mpn-offers.md)
 ## [Competências](learn-about-competencies.md)
 ## [Especializações avançadas](advanced-specializations.md)
-## [Programa Provedor de serviços gerenciados de Especialistas do Azure](azure-expert-msp.md)
+## [Tornar-se um MSP Especialista em Azure](azure-expert-msp.md)
 ## Benefícios
 ### [Visão geral dos benefícios](manage-your-partner-network-benefits.md)
 ### [Benefícios de entrada no mercado](mpn-learn-about-go-to-market-benefits.md)
 ### [Perguntas frequentes sobre os benefícios](benefits-faq.md)
 ## [Recompensas do Marketplace](marketplace-rewards.md)
-## [Programas do Software Assurance](software-assurance-lp.md)
-### [Programa SATV (Comprovante de Treinamento do Software Assurance) no Partner Center](software-assurance-satv.md)
-### [Serviços de planejamento do Software Assurance no Partner Center](software-assurance-dps.md)
-#### [Requisitos de qualificação para contratos de Planning Services](software-assurance-dps-requirements.md)
+## Software Assurance
+### [Visão geral dos programas](software-assurance-lp.md)
+### [Comprovantes de treinamento (SATV)](software-assurance-satv.md)
+### [PS (Planning Services)](software-assurance-dps.md)
+#### [Requisitos de qualificação](software-assurance-dps-requirements.md)
 ## Faturas e impostos
-### [Faturas e impostos no Microsoft Partner Network](mpn-view-print-maps-invoice.md)
+### [Faturas e impostos em MPN](mpn-view-print-maps-invoice.md)
 ## [Test drive dos novos recursos](test-drive-new-features.md)
 
-# [Provedor de Soluções na Nuvem](csp-overview.md)
-## [Registrar no programa de Provedor de Soluções na Nuvem](enrolling-in-the-csp-program.md)
-## [Contrato de Parceiro da Microsoft para parceiros CSP](microsoft-partner-agreement.md)
-## [Novos requisitos do parceiro direto do CSP](direct-partner-new-requirements.md)
-## [Contratos de Cliente da Microsoft por região e idioma](agreements.md)
-## [Funcionalidades de fatura direta restritas](restricted-direct-bill-capabilities.md)
-## [Transição do parceiro de fatura direto do CSP (Provedor de Soluções na Nuvem) para o revendedor indireto do CSP](transition-direct-to-indirect.md)
+# [CSP (Provedor de Soluções na Nuvem)](csp-overview.md)
+## [Inscrever-se no programa CSP](enrolling-in-the-csp-program.md)
+## [Contrato de Parceiro da Microsoft – CSPs](microsoft-partner-agreement.md)
+## [Requisitos do parceiro do CSP Direct Bill Partner](direct-partner-new-requirements.md)
+## [Contratos de Cliente da Microsoft (por região e idioma)](agreements.md)
+## [Acesso a faturas diretas restritas](restricted-direct-bill-capabilities.md)
+## [Transição do parceiro do CSP Direct Bill Partner para revendedor do CSP Indirect Reseller](transition-direct-to-indirect.md)
 ## [Contratos, listas de preços e ofertas do CSP](csp-documents-and-learning-resources.md)
 ## [Gerenciamento de Custos do Azure licenciado pela Cloudyn para CSPs](azure-cost-management-app-for-csp-partners.md)
 ## [Mercados e moedas regionais do CSP](regional-authorization-overview.md)
@@ -52,7 +54,7 @@
 
 ## [Inscrever-se para vender em nuvens nacionais](csp-national-clouds-overview.md)
 ### [Partner Center do Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
-### [Perguntas frequentes sobre o Microsoft Cloud for US Government](faq-for-us-govt-cloud.md)
+### [Perguntas frequentes – Microsoft Cloud for US Government](faq-for-us-govt-cloud.md)
 ### [Partner Center do Microsoft Cloud Alemanha](partner-center-for-microsoft-cloud-germany.md)
 ### [Inscrever-se no CSP para Microsoft Cloud for US Government](enroll-in-csp-for-microsoft-us-govt-cloud.md)
 ### [Vender o Office 365 Government GCC para CSP](csp-gcc-overview.md)

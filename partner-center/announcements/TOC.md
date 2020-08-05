@@ -1,4 +1,5 @@
 # [Comunicados do Partner Center](index.md)
+# [Agosto de 2020](2020-august.md)
 # [Julho de 2020](2020-july.md)
 # [Junho de 2020](2020-june.md)
 # [Maio de 2020](2020-may.md)
