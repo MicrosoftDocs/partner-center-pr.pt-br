@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ba6ea547ed63bc4369b06cb86df8aad24870d2ab
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4ff64c265aadacca5389c16168d1e161936f5e88
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435605"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468524"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Visão geral de cobrança para parceiros do programa CSP que trabalham no Partner Center 
 
@@ -49,7 +49,7 @@ Para determinar o uso de um cliente, [confira seus arquivos de reconciliação](
 
 ### <a name="billing-types"></a>Tipos de cobrança
 
-Os tipos de cobrança da Central de Parceiros incluem a **cobrança baseada em licença**, a **cobrança baseada em uso** e a **cobrança única**. Para obter mais informações, confira a explicação completa de [tipos de cobrança no Partner Center](billing-different-types.md).
+Os tipos de cobrança da Central de Parceiros incluem a **cobrança baseada em licença**, a **cobrança baseada em uso** e a **cobrança única**. 
 
 ### <a name="billing-currency"></a>Moeda de cobrança
 
