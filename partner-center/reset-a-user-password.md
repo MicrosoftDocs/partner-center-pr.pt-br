@@ -1,6 +1,6 @@
 ---
 title: Redefinir a senha de um usuário
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf6c77652b517b6ce6a6a7eba2a6c5675e7080c1
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: c05e8e4e7fe7e8a7677669e0dcbb7ee3cab08be9
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365762"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811286"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>Redefinir a senha de um usuário no Partner Center
 

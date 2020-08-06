@@ -1,6 +1,6 @@
 ---
 title: Gerenciar sua lista de clientes
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 865af6a054fc10cddd5422e1ef91ec3df14f69aa
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 40df034e88a1bba7829d6f73e0fb970795a2a0dd
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377740"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811256"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Gerenciar sua lista de clientes – Pesquisar, atualizar ou exportar clientes no Partner Center
 
@@ -39,7 +39,7 @@ No menu do **centro de parceiros** , selecione **clientes**.
 2.  Para procurar um cliente, insira o nome do cliente ou o nome do domínio na caixa de pesquisa.
 3.  Selecione a **seta para baixo** no final da linha de um cliente para ver a ID da Microsoft dele, bem como os links rápidos de assinaturas e serviços associados.
 4.  Nas informações de **Cobrar de** do cliente, atualize o nome da empresa. Quando você salvar o novo valor, ele será refletido na lista de clientes. Isso irá alterar somente o nome da empresa para cobrança e o valor de lista de cliente. Ele não será refletido em nenhum outro lugar.
-<sup>1</sup>
+
 ## <a name="export-your-customer-list"></a>Exportar sua lista de clientes
 
 1. No menu do **centro de parceiros** , selecione **clientes**.
@@ -55,7 +55,7 @@ No menu do **centro de parceiros** , selecione **clientes**.
     Por padrão, o Partner Center exporta a lista completa de clientes, independentemente do tamanho. Você também pode pesquisar a lista de clientes por nome de empresa ou domínio e exportar esse subconjunto de dados.
 
 3. Se você for um provedor indireto, pode filtrar sua lista de clientes por revendedor indireto. Selecione **Filtrar por revendedor indireto** na lista e, em seguida, escolha um revendedor.
-<sup>1</sup>
+
 
 ## <a name="export-customer-subscription-information"></a>Exportar informações de assinatura de cliente
 

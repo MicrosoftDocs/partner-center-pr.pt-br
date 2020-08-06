@@ -1,6 +1,6 @@
 ---
 title: Remover a relação de revendedor com um cliente
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f710b7327e9ff647f23c7baf994bc00082c437b5
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ecc7d73734ab0d5312293f7ab8335bda76eea6e6
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949286"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811336"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Como remover uma relação de revendedor com um cliente no Partner Center
 
@@ -51,7 +51,7 @@ Para remover a relação, você precisará cancelar as reservas do Azure RI, can
 
    a. No Partner Center, acesse **clientes** e selecione um cliente.
 
-   b. Selecione a **conta**.
+   b. Selecione a **Conta**.
 
    c. Selecione **Remover relação do revendedor**.
 

@@ -1,6 +1,6 @@
 ---
 title: Gerenciar os pagamentos não alocados
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8724cf6bb487d42742c83d80340acbbcc01d0b6e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: bddf0482e20817f9087a3610104652dabdef72c4
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436495"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811116"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Gerenciar pagamentos não alocados na página de cobrança do Partner Center
 

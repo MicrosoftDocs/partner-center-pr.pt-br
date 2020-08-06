@@ -1,7 +1,7 @@
 ---
 title: Como vender ofertas para clientes educacionais
 description: Saiba como criar um cliente educativo e vender ofertas para eles no Partner Center.
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 25710920130fc78e220d000e552914c093f92706
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e6d7ad9ed7acecf8d542577c87d4387240ded7b7
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436575"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811266"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Como vender ofertas para clientes de educação & como criar um cliente de educação no Partner Center
 
@@ -78,7 +78,7 @@ Você deve ter privilégios de administrador global para atualizar as informaç�
 
 2. Atualize o navegador para redefinir a página. Haverá um botão de **atualização** e o **status de qualificações especiais** será definido como **nenhum**.
 
-3. Selecione **Atualização**. Na página **Gerenciamento de serviços** , selecione **Office 365**.
+3. Selecione **Atualizar**. Na página **Gerenciamento de serviços** , selecione **Office 365**.
 
 4. Você será redirecionado para o centro de administração do Office 365 em uma nova guia do seu navegador. Talvez seja solicitado que você entre com suas credenciais.
 

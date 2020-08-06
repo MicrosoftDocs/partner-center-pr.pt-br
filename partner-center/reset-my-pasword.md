@@ -1,6 +1,6 @@
 ---
 title: Redefinir a minha senha
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f750d27753d78267def99eb06053174a25d0f04d
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: f8618e6b75e6d45ebe37510b398c2f03c9e1e9c8
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365692"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811276"
 ---
 # <a name="reset-my-password"></a>Redefinir a minha senha
 

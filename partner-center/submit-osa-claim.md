@@ -3,18 +3,18 @@ title: Criar uma associação de cliente por meio do modelo CPOR
 ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 description: Crie associações de clientes por meio do modelo CPOR (reivindicação de parceiro de registro). Ajuda a gerenciar vendas, uso & incentivos para clientes Microsoft 365 e Dynamics 365.
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 47f4912e33eb1a2bb3e7c5a1c734d7cc5d3e5f33
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 7f36480f62e82c10fe90cb0b95dbd7c7db9a5080
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468337"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811176"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Criar uma associação de cliente por meio do modelo CPOR – use para clientes Microsoft 365 e Dynamics 365
 
@@ -66,7 +66,7 @@ Você também deve entender os seguintes pontos:
 
 2. Na parte superior da página associações do cliente, selecione **+ Associação de cliente**.
 
-3. Selecione a **ID de MPN** do local do parceiro a ser associado ao cliente e, em seguida, adicione o nome de domínio do cliente e a ID do diretório. [Localizar isso](find-domain-name.md)
+3. Selecione o **ID do MPN** do local do parceiro a ser associado ao cliente e, em seguida, adicione o nome de domínio e a ID do diretório do cliente. [Localizar isso](find-domain-name.md)
 
 4. Selecione **Continuar**.
 
@@ -76,24 +76,24 @@ Você também deve entender os seguintes pontos:
    >
    >Se você selecionar Business Applications, selecione **uso e/ou pré-vendas**ou associação de **receita**e, em seguida, selecione **continuar**. 
 
-   >Se você selecionar a associação de receita, você será solicitado a fornecer informações ligeiramente diferentes das que estão listadas abaixo.
+   >Se você escolher Associação de Receita, será solicitado a fornecer informações ligeiramente diferentes das que estão listadas abaixo.
 
 6. Insira as informações apropriadas na página **associar cliente** e, em seguida, selecione **criar declaração**.
 
 7. Selecione os produtos associados a essa associação de cliente e selecione **continuar**.
 
-8. Preencha as informações de contato do cliente e as informações de contato da sua empresa. Todos os campos são obrigatórios. 
+8. Preencha as informações de contato do cliente e da sua empresa. Todos os campos são obrigatórios. 
 
    >[!NOTE]
    >Se o seu produto for o Dynamics 365 e o produto escolhido tiver várias assinaturas para esse cliente específico, você também precisará inserir a ID da assinatura.
 
-9. Forneça a sua POE (prova de execução). Você pode arrastá-lo para a caixa, navegar até sua própria documentação de suporte ou usar um modelo selecionando **baixar modelo**. 
+9. Envie a sua PoE (prova de execução). Você pode arrastá-la para a caixa, navegar até sua própria documentação de apoio ou usar um modelo selecionando **Baixar modelo**. 
 
-10. Adicione e salve comentários, se desejar, e selecione **Enviar declaração**. Enviaremos um email para o cliente solicitando aprovação da sua associação de cliente.
+10. Adicione e salve comentários, se desejar, e, em seguida, escolha **Enviar declaração**. Enviaremos um email para o cliente solicitando aprovação da sua associação de cliente.
 
    >[!NOTE]
    >Depois de enviar sua associação de cliente, você não poderá editá-la.
 
-O status da sua associação de cliente aparece no campo **status** .
+O status da sua associação de cliente aparece no campo **Status**.
 
-Selecione **histórico** para exibir o histórico de uma associação de cliente.
+Selecione **Histórico** para ver o histórico de uma associação de cliente.

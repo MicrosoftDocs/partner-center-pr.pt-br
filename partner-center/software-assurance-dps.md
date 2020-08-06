@@ -3,18 +3,18 @@ title: Serviços de planejamento do Software Assurance
 ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Saiba como registrar-se e se qualificar nos contratos do Microsoft Planning Services para que você possa fornecer treinamento e outros serviços aos clientes com o Software Assurance.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4078bbbc264ec48343deb69d93bedbf75de6d364
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 9cab5ac13b37c11f9e07f1c99d63728f7ad92264
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943683"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811216"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Serviços de planejamento do Software Assurance no Partner Center
 

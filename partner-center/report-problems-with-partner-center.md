@@ -1,6 +1,6 @@
 ---
 title: Relatar problemas com o Partner Center
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1f5719bd6bbef532bf55ea405b0e544b49a9b2d0
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 7630894df25f5b9919f30c60b0223da9f121788d
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114007"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811306"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Como relatar problemas com o Partner Center e enviar quaisquer informações de log ou diagnóstico
 

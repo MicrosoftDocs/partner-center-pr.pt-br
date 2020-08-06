@@ -3,18 +3,18 @@ title: Fornecer suporte técnico aos clientes
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 description: Saiba mais sobre os tipos de suporte técnico que os parceiros do programa de provedor de soluções na nuvem podem oferecer aos seus clientes.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b10601bcfaf71b9b36eb9955ad7b4822cd0fe63b
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: e5ee0fcacb1d67fd015bd0e143d8d4e19b49ce71
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114511"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87810906"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Fornecer suporte técnico para ajudar os clientes a configurar, gerenciar e usar suas assinaturas
 

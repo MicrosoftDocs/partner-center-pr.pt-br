@@ -3,18 +3,18 @@ title: Programa de comprovante de treinamento do Software Assurance
 ms.topic: article
 ms.date: 06/12/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Saiba como se registrar no programa de comprovante de treinamento do Software Assurance para que você possa se compensar em fornecer treinamento e planejamento para clientes corporativos.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 91cf374c8739bfc428f58e5ec5f4b7748778f923
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 9470918fd868d9e8759f62b37e0bf30a21eaf540
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436525"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811196"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programa SATV (Software Assurance Training Voucher) no Partner Center
 

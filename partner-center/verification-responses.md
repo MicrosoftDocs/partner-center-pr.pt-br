@@ -3,25 +3,25 @@ title: Verifique as informações da conta
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Siga o status de sua verificação de conta ao tentar se registrar em um novo programa do Partner Center. Saiba como fornecer informações adicionais, se necessário.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73ace89b24dba143f410e879e9012a0f0f60e3c6
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 40b3a8118ace01bd7b1c72d4cd008a6a6e612bd1
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365722"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811136"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Verifique as informações da sua conta ao se registrar em um novo programa do Partner Center
 
 **Funções apropriadas**
 
 - Administrador global
-- Administrador da conta do MPN
+- Administrador de conta do MPN
 
 Quando você se inscreve em um novo programa no Partner Center, a Microsoft verifica as informações de registro da conta que você forneceu, como o nome da empresa, o endereço da empresa e os detalhes de contato primário. Durante esse processo, a Microsoft pode enviar email ao seu contato principal para informar sobre o status e solicitar documentos para verificação adicional.
 
