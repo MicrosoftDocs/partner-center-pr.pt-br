@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como atualizar ou modificar a assinatura de um cliente. Adicione mais licenças, adicione mais estações ou migre para uma versão diferente com mais serviços.
+description: Saiba como atualizar ou modificar a assinatura de um cliente. Adicione mais licenças ou migre para uma versão diferente com mais serviços.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 251423b40508e25dc9ea5c89fffb34c4f0c10499
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 89b4a1d552067f7bda553bc96e19a89bdc9f23cd
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436355"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468775"
 ---
-# <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>Adicionar licenças, estações ou mais serviços à assinatura de um cliente
+# <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Adicionar licenças ou mais serviços à assinatura de um cliente
 
 **Aplica-se a**
 
@@ -31,55 +31,22 @@ ms.locfileid: "86436355"
 - Agente de vendas
 - Agente de suporte técnico
 
-Se seu cliente precisar de mais estações do que a assinatura atual deles fornece ou de uma versão diferente com serviços adicionais, você poderá atualizar a assinatura. Para obter mais detalhes, confira [Alternar para um plano diferente do Microsoft 365 Apps para Pequenos e Médios negócios](https://go.microsoft.com/fwlink/p/?LinkId=723577).
+Se seu cliente precisar de mais licenças do que a assinatura atual fornece a ele ou de uma versão diferente com serviços adicionais, você poderá atualizar a assinatura. Para obter mais informações, confira [Alternar para um plano diferente dos Aplicativos do Microsoft 365 para empresas](https://go.microsoft.com/fwlink/p/?LinkId=723577).
 
-## <a name="upgrades-supported-in-the-csp-program"></a>Atualizações compatíveis com o programa CSP <a href="" id="upgradesubscription"></a>
+## <a name="upgrades-supported-in-the-csp-program"></a>Atualizações compatíveis com o programa CSP <a id="upgradesubscription"></a>
 
 As atualizações a seguir têm suporte no Provedor de Soluções na Nuvem:
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Oferta</th>
-<th>Possíveis atualizações</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Microsoft 365 Apps para Pequenos e Médios negócios</td>
-<td><ul>
-<li>Microsoft 365 Business Premium¹</li>
-<li>Microsoft 365 Apps para Grandes Empresas</li>
-<li>Office 365 Enterprise E3</li>
-<li>Office 365 Enterprise E5</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>Microsoft 365 Business Standard</td>
-<td><ul>
-<li>Office 365 Enterprise E3</li>
-<li>Office 365 Enterprise E5</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Microsoft 365 Business Basic</td>
-<td><ul>
-<li>Microsoft 365 Business Standard¹</li>
-<li>Office 365 Enterprise E1</li>
-<li>Office 365 Enterprise E3</li>
-<li>Office 365 Enterprise E5</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>¹ O Microsoft 365 Apps para Pequenos e Médios negócios Índia e o Microsoft 365 Business Basic Índia podem ser atualizados para o Microsoft 365 Business Standard Índia, não para o Microsoft 365 Business Standard.</p></td>
-</tr>
-</tbody>
-</table>
+| Oferta | Possíveis atualizações|
+|---:|:---|
+| Aplicativos do Microsoft 365 para empresas   | – Microsoft 365 Business Premium¹ <br/>  – Aplicativos do Microsoft 365 para empresas <br/> – Office 365 Enterprise E3 <br/> – Office 365 Enterprise E5 <br/> |
+| Microsoft 365 Business Standard    | – Office 365 Enterprise E3 <br/> – Office 365 Enterprise E5 <br/> |
+| Microsoft 365 Business Basic | – Microsoft 365 Business Standard¹ <br/> – Office 365 Enterprise E1 <br/> – Office 365 Enterprise E3<br/> – Office 365 Enterprise E5 <br/> |
+
+¹ O Microsoft 365 Apps para Pequenos e Médios negócios Índia e o Microsoft 365 Business Basic Índia podem ser atualizados para o Microsoft 365 Business Standard Índia, não para o Microsoft 365 Business Standard.
+
+
+## <a name="conditions"></a>Condições
 
 As assinaturas poderão ser atualizadas se estas condições forem atendidas:
 
@@ -93,7 +60,7 @@ As assinaturas poderão ser atualizadas se estas condições forem atendidas:
 
 É possível, nos dois últimos casos, que o cliente tenha comprado essas assinaturas ou esses serviços de outro parceiro ou outro canal, e ele não poderá comprá-los de você, a menos que ele cancele os existentes primeiro. Para obter mais informações, confira [Multicanal](multichannel.md).
 
-Para obter mais informações sobre o impacto que isso terá na cobrança, confira os detalhes sobre como cancelar uma assinatura e adicionar uma nova em [Cenários comuns de cobrança](common-billing-scenarios.md).
+Para obter mais informações sobre o impacto na cobrança, veja como cancelar uma assinatura e adicionar uma nova em [Cenários de cobrança comuns](common-billing-scenarios.md).
 
 ## <a name="upgrade-a-subscription"></a>Atualizar uma assinatura
 

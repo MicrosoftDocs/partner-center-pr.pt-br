@@ -3,18 +3,18 @@ title: Criar contas de usuário e atribuir funções
 description: Cada funcionário deve ser atribuído a uma função antes que possa acessar o Partner Center. Saiba como criar contas de usuário, atribuir funções e definir permissões.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: c7d04307be7a81cf3501e1b50e278cf1a012afcd
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cfd681a56bfaebcc1fd6c77de3e5a0c6deb4a46f
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435185"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527732"
 ---
 # <a name="create-user-accounts-and-assign-roles-and-permissions"></a>Criar contas de usuário e atribuir funções e permissões
 
@@ -102,3 +102,7 @@ Para ver os roteiros de aprendizagem e treinamento que os usuários estão segui
 1. No painel do Partner Center, selecione o ícone **Sua conta** no canto direito do painel e, em seguida, selecione **Meu perfil**.
 
 2. Em **Seu aprendizado**, será possível associar sua conta do Microsoft Learning e também conectar sua conta Microsoft à Partner University.
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Atribuir permissões e funções de usuários para os usuários de uma empresa que precisam trabalhar no Partner Center](permissions-overview.md)

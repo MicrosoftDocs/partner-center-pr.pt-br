@@ -1,6 +1,6 @@
 ---
 title: Lista de preços do plano do Azure para parceiros CSP
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6beb9dfe12eb50a1c6185ac251c19c089f760978
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 980f6429d146757edbab4c97cebfd3616cb48760
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435785"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527552"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Lista de preços da nova experiência de comércio no CSP para Azure
 
@@ -88,7 +88,19 @@ A lista de preços da nova experiência de comércio do Azure no CSP é publicad
 |MeterType|Tipo de Medidor|
 |Marcas|Propriedades do item, para os preços do plano do Azure será Azure ou Azure e Reservas (para reservas, especificamente)|
 
-As listas de preço do plano do Azure podem ser exportadas da página [Preço do plano do Azure e o Marketplace](https://partner.microsoft.com/commerce/sales?type=Any&category=Any)
+As listas de preços de plano do Azure podem ser exportadas da [página Preços e ofertas](https://partner.microsoft.com/dashboard/sell/pricingandoffers) no Partner Center.
+
+## <a name="tiered-pricing"></a>Preços em camadas
+
+Alguns serviços de consumo do plano do Azure são compatíveis com preços em camadas. Os parceiros podem encontrar esses produtos e SKUs na lista de preços do plano do Azure. Os itens que têm valores nas colunas de intervalo de tipo de preço permitem que os parceiros compreendam o preço com base no uso. No exemplo abaixo, usando dados de amostra, temos um SKU de produto com três tipos de preço.
+
+|**ProductId**   |**SkuId**   |**UnitPrice**   |**PricingTierRangeMin**   |**PricingTierRangeMax**   |
+|:---------------|:-----------|:---------------|:-------------------------|:-------------------------|
+|DDD123456ABC|01AB|0,50|100001|9223372036854780000|
+|DDD123456ABC|01AB|0,80|101|100000|
+|DDD123456ABC|01AB|1|1|100|
+
+Neste exemplo, se 101 unidades forem usadas, a cobrança será 100,80. As primeiras 100 unidades são consideradas unitárias e a próxima unidade é cobrada a 0,80.
 
 ## <a name="pricing-api-for-azure-plan"></a>API de preço do plano do Azure
 
@@ -99,6 +111,6 @@ A API de preço está em um ponto de extremidade diferente daquele das outras AP
 Essa API também permite que os parceiros recuperem taxas de câmbio mensais porque o preço do plano do Azure está apenas em USD. Você pode usar as APIs para recuperar o preço e as taxas de câmbio de moeda estrangeira do mês atual ou dos meses anteriores.
 
 >[!NOTE]
-> A API de preço é específica para os preços do plano do Azure. Você ainda deve usar a API RateCard existente e as listas de preços publicadas na página "Preços e ofertas" do Partner Center para recursos do Azure ou reservas implantados em assinaturas de planos que não são do Azure. A API de preços do plano do Azure não é compatível com preços baseados em software, marketplace ou estação, como o Microsoft 365 ou o Dynamics 365.
+> A API de preço é específica para os preços do plano do Azure. Você ainda deve usar a API RateCard existente e as listas de preços publicadas na página "Preços e ofertas" do Partner Center para recursos do Azure ou reservas implantados em assinaturas de planos que não são do Azure. A API de preços do plano do Azure não é compatível com preços baseados em software, marketplace ou licença, como no Microsoft 365 ou no Dynamics 365.
 
 Para obter mais informações sobre as APIs de preço do plano do Azure e da taxa de câmbio de moeda estrangeira, confira a [documentação completa da API de preços](https://docs.microsoft.com/partner/develop/pricing).

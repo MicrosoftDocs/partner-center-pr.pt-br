@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7cbf049d2a65fd9738299e090e8ab40107d64f89
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 42732a20b4901223a9376d3221579e7cd7be3297
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875162"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444584"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>Comparar as diferenças entre as ofertas do Azure no programa CSP
 
@@ -32,11 +32,11 @@ Este artigo descreve as principais diferenças entre as ofertas do Azure no prog
 
 A tabela a seguir fornece uma visão geral das principais diferenças entre as ofertas do programa CSP que fazem parte da nova experiência de comércio da Microsoft.
 
-|**Oferta**| **Plano do Azure**|**Ofertas do Marketplace de terceiros**|**Reservas do Azure**|**Assinaturas de servidor vendidas por meio de CSP**|**Ofertas baseadas em estação**|
+|**Oferta**| **Plano do Azure**|**Ofertas do Marketplace de terceiros**|**Reservas do Azure**|**Assinaturas de servidor vendidas por meio de CSP**|**Ofertas baseadas em licença**|
 |-------------------|:------|:-----|:---------|:--------------|:---------|
 |Cobrança|Mensal|Variável (dependente da oferta)|Cliente final|Antecipadamente por todo o período ou por um período de três anos|Mensal ou anual|
 |Licenciado|Cliente final|Variável (dependente da oferta)|Cliente final| Cliente final|Cliente final|
-|Termo de cobertura|Ativo até ser cancelado|Variável (dependente da oferta)|Confira a descrição da oferta|Todas as reservas do Azure têm seu próprio período de cobertura exclusivo. Todas as assinaturas de servidor terão seu próprio período de cobertura exclusivo.|   As licenças adicionais baseadas em estação se encaixarão no período de cobertura existente|
+|Termo de cobertura|Ativo até ser cancelado|Variável (dependente da oferta)|Confira a descrição da oferta|Todas as reservas do Azure têm seu próprio período de cobertura exclusivo. Todas as assinaturas de servidor terão seu próprio período de cobertura exclusivo.|   As licenças adicionais se encaixarão no período de cobertura existente|
 |Renovação automática|Sim|Sim|Não| Não|Sim|
 |Várias moedas|Fatura com base no local/moeda do cliente|Fatura com base no local/moeda do cliente|Fatura com base no local/moeda do cliente|Fatura com base no local/moeda do cliente|Com base na moeda usada na localização do cliente| 
 |Arquivo de fatura e reconhecimento|Arquivos de fatura e reconhecimento separados para cada moeda da localização do cliente.  Também forneceremos arquivos de uso com classificação diária (para partes de cobrança e não cobradas) |Arquivos de fatura e reconhecimento separados para cada moeda da localização do cliente|Arquivos de fatura e reconhecimento separados para cada moeda da localização do cliente|Arquivos de fatura e reconhecimento separados para cada moeda da localização do cliente|Todos os pedidos em um arquivo de fatura e reconhecimento|

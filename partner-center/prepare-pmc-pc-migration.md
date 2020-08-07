@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31da796b50e9deeb2d6256e7818e587e9bedb881
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 08b1b547fc6f494dfdb1199824221aecad9120bc
+ms.sourcegitcommit: c71df4cc61dfd0d6ef4a93f9c92fb822201c7773
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114570"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87433889"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Preparar a migração do PMC (Partner Membership Center) para o Partner Center
 
@@ -117,7 +117,6 @@ No Partner Center, um parceiro pode adicionar contas corporativas e contas de us
 
 Embora os usuários convidados possam receber assinaturas baseadas em uso do Visual Studio pelo administrador do MPN ou pelo administrador global, os usuários convidados não podem entrar no Partner Center usando as respectivas MSAs. No entanto, os usuários convidados podem entrar no Azure e no Visual Studio para validar e usar os respectivos benefícios atribuídos.
 
-
  **Como devemos gerenciar nossas associações do MCP e nosso acesso à Partner University?**
 
  Não há alterações nas associações do MCP migradas do PMC. No entanto, após a sua migração para o Partner Center, os novos funcionários precisarão ser associados no Partner Center. Todas as permissões da Partner University para os usuários existentes permanecerão, mas os novos funcionários deverão acessar [o centro de treinamento](https://partner.microsoft.com/training) para obter informações sobre como obter acesso à Partner University.
@@ -137,7 +136,9 @@ Selecione **Competências** na barra de navegação à esquerda no painel. Na p�
 
 **Há algum impacto nos incentivos devido à migração para o Partner Center?**
 
-Não. Não haverá nenhum impacto nos incentivos se você tiver migrado sua conta sem consolidar as localizações. Se a sua empresa tiver várias contas no PMC e, quando você migrar para o Partner Center, você decidir consolidá-las em uma conta global, não haverá perda nos incentivos, mas poderá haver um atraso no pagamento de incentivos. Se você não migrar todas as suas contas do PMC envolvidas em programas de incentivos, poderá parar de ganhar incentivos vinculados a essas contas.
+Não. Não haverá nenhum impacto nos incentivos se você tiver migrado sua conta sem consolidar as localizações. Se a sua empresa tiver várias contas no PMC e, quando você migrar para o Partner Center, você decidir consolidá-las em uma conta global, não haverá perda nos incentivos, mas poderá haver um atraso no pagamento de incentivos. 
+
+Se você não migrar todas as suas contas do PMC envolvidas em programas de incentivos, poderá parar de ganhar incentivos vinculados a essas contas.
 
 
 **O que são funções de incentivo no Partner Center?** 
@@ -160,7 +161,12 @@ Sua empresa poderá criar quantos perfis comerciais forem necessários para repr
 
 As indicações são atribuídas com base nos parâmetros de pesquisa definidos pelo cliente. Independentemente de você ter uma localização ou muitas, se os clientes especificarem uma localização desejada e você tiver uma empresa que atenda aos outros parâmetros, a indicação se deslocará para essa localização.
 
+**Estou migrando para o Partner Center de dentro da Rússia. Recebi uma mensagem de erro sobre o Web Direct. Como faço para continuar com a migração?**
 
+Se você receber uma mensagem de erro porque está participando do programa Web Direct, faça o seguinte:
+
+1. Entre no portal.Azure.com e crie um locatário do Azure AD. Para obter mais informações, leia [Criar um locatário do Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-access-create-new-tenant).
+1. Depois de criar o locatário do Azure AD, use-o para migrar do Partner Membership Center para o Partner Center ou para se registrar como novo no Partner Center.
 
 
 
