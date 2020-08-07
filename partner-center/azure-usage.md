@@ -1,7 +1,7 @@
 ---
 title: Dimensionamento da VM do Azure para uso máximo de reserva
 ms.topic: how-to
-ms.date: 07/08/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Saiba como dimensionar uma VM (máquina virtual) para as necessidades de computação de seus clientes ao comprar Microsoft Azure reservas para elas.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 48f7fb317d35c87eaf3d8fddc7a5da907178ef36
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: bc9fc14598e7c96f9cc1b55eba7c59af68ad84a9
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527442"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900111"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Dimensionamento de VM do Microsoft Azure para uso máximo de reserva do Azure
 
@@ -22,7 +22,10 @@ ms.locfileid: "87527442"
 
 - Partner Center
 - Portal do Azure
-- Parceiros no CSP
+- Parceiros no programa CSP
+ 
+> [!NOTE]
+> Este artigo se aplica somente a parceiros no programa CSP (provedor de soluções na nuvem). Os clientes que usam outros tipos de assinaturas (como pagamento conforme o uso, individuais, contrato de cliente da Microsoft ou assinaturas de Enterprise Agreement) devem ler [essa documentação de reservas do Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations).
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Determinar o tamanho da VM para a reserva do Azure de um cliente
 

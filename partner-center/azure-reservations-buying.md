@@ -1,7 +1,7 @@
 ---
 title: Comprar Microsoft Azure reservas para clientes
 ms.topic: article
-ms.date: 06/18/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Saiba como comprar ou comprar reservas do Azure em nome de seus clientes no Partner Center.
@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a8f9193d7bb383b602acc8092b159401ab0785d5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a9da6208ec72c1d6e93fadec3d205a809dbfabe5
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435765"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900102"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Comprar Microsoft Azure reservas em nome de seus clientes no Partner Center
 
@@ -31,6 +31,9 @@ ms.locfileid: "86435765"
 - Agente de suporte técnico
 - Agente de vendas
 - Administrador de gerenciamento de usuário
+ 
+> [!NOTE]
+> Este artigo se aplica somente a parceiros no programa CSP (provedor de soluções na nuvem). Os clientes que usam outros tipos de assinaturas (como pagamento conforme o uso, individuais, contrato de cliente da Microsoft ou assinaturas de Enterprise Agreement) devem ler [essa documentação de reservas do Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations).
 
 ## <a name="before-you-begin"></a>Antes de começar
 

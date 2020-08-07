@@ -1,7 +1,7 @@
 ---
 title: Reservas do Azure & assinaturas de servidor
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre as oportunidades do provedor de soluções na nuvem para adquirir, provisionar e gerenciar reservas do Azure e assinaturas de servidor para clientes.
@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 408f0e59bb1d6da7caebdcf323ebcd242c49af97
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 5b8a9cf07f8dace47346c68ade3707d6b12a1532
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943943"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900092"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Adquirir, provisionar & gerenciar instâncias de VM reservadas do Azure (RI) + assinaturas de servidor para clientes
 
@@ -29,7 +29,11 @@ Aplica-se a:
 - Agente de suporte técnico
 - Agente de vendas
 - Administrador de gerenciamento de usuário
- 
+
+> [!NOTE]
+> Este artigo se aplica somente a parceiros no programa CSP (provedor de soluções na nuvem). Os clientes que usam outros tipos de assinaturas (como pagamento conforme o uso, individuais, contrato de cliente da Microsoft ou assinaturas de Enterprise Agreement) devem ler [essa documentação de reservas do Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations).
+
+
 ## <a name="what-are-azure-reservations"></a>O que são Reservas do Azure?
 
 As reservas do Azure ajudam você a economizar dinheiro ao pagar por um ou três anos de máquina virtual, capacidade de computação do banco de dados SQL, taxa de transferência de Azure Cosmos DB ou outros recursos do Azure. Pagar previamente permite que você obtenha um desconto nos recursos que você usar. As reservas podem reduzir significativamente sua máquina virtual, computação do banco de dados SQL, Azure Cosmos DB e outros custos de recursos de até 72% em comparação com os preços pagos conforme o uso. As reservas fornecem um desconto de cobrança e não afetam o estado de runtime dos recursos. Para obter mais informações, consulte [o que são as reservas do Azure?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
@@ -54,7 +58,7 @@ Com uma combinação inigualável de preços atraentes e flexibilidade de implan
 
 - Instâncias de VM reservadas do Azure
 - Reservas do BD SQL
-- Instância Gerenciada do SQL
+- Instância Gerenciada de SQL
 - Azure Cosmos DB
 - SQL Data Warehouse do Azure
 - Serviços de Aplicativos
@@ -113,7 +117,7 @@ A seguir, uma lista abrangente de recursos para ajudá-lo a se integrar rapidame
 - [SUSE Linux no Azure](https://azure.microsoft.com/overview/linux-on-azure/suse/)
 - [Linux no Azure](https://azure.microsoft.com/overview/linux-on-azure/)
 - [Visão geral de preços do Azure](https://azure.microsoft.com/pricing/)
-- [Calculadora de preços do Azure](https://azure.microsoft.com/pricing/calculator)
+- [Calculadora de Preços do Azure](https://azure.microsoft.com/pricing/calculator)
 - [Reservas de unidade de Azure Databricks](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
 - Listas de preços do CSP: as listas de preços **Microsoft Azure instâncias reservadas** e **assinaturas de software** estão localizadas na página de [ofertas de preços](https://partner.microsoft.com/pcv/sales) do Partner Center &.
 
