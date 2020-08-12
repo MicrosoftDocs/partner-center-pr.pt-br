@@ -5,16 +5,16 @@ ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre a experiência de comércio do plano do Azure para comprar serviços do Azure com tarifas pagas conforme o uso para os clientes. Conheça também os novos requisitos de segurança.
-author: amrava
-ms.author: amrava
+author: rbars
+ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 339aaff4eb943c10aaef2c171ff505b6e9dad7b6
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a86ee34070b53fb7dcee3ffcd9c11c79a5a4b856
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435795"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998384"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Introdução: O plano do Azure permite que os parceiros comprem o Azure com tarifas pagas conforme o uso para clientes
 
