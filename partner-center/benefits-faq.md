@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 07aed688aa17c1ee9017785e16eded56624d7d62
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: dbedfdb2001966a78f1453ee45615ab9418d968a
+ms.sourcegitcommit: 9ad926be9f5d245b307bc7d3975ff3973dba3161
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527612"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "88188437"
 ---
 # <a name="benefits-faq"></a>Perguntas frequentes sobre os benefícios
 
@@ -70,12 +70,6 @@ Quando você renova ou estende as assinaturas, o número de licenças permanece 
 
 >[!IMPORTANT]
 >Se você optar por adicionar licenças em uma assinatura existente, a assinatura expirará em menos de 12 meses, dependendo do número de licenças existentes e adicionadas. Depois de resgatar uma chave, você não poderá resgatar novamente. Antes de resgatar sua chave, certifique-se de que você entendeu se precisa adicionar licenças ou renovar/estender a assinatura.
-
-### <a name="q-why-dont-i-see-the-renew-or-extend-options-when-i-activate-my-product-key"></a>Q. Por que não vejo as opções renovar ou estender ao ativar minha chave do produto
-
-Se a opção renovar/estender não for exibida, isso provavelmente significa que você já tem mais licenças em sua assinatura existente do que as fornecidas pela nova chave do produto.
-
-Para acessar a opção renovar/estender, você precisará remover licenças em sua assinatura atual até que o número de licenças que você tem seja o mesmo ou menor que o número de licenças que sua nova chave tem.
 
 ### <a name="q-can-i-activate-the-license-on-my-customers-account"></a>Q. Posso ativar a licença na conta do meu cliente
 
