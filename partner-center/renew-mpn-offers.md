@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6d50081332a404507fea9c196e10cf3d5f0ecb
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 93e911f69f5f311739b64ac4c99e41f804d1693a
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114058"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998395"
 ---
 # <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>Renove as ofertas de MPN para Microsoft Action Pack e competências durante a janela de renovação
 
@@ -40,11 +40,13 @@ Se você renovar durante a janela de renovação, a nova data de aniversário se
 
 ## <a name="responding-to-covid-19"></a>Responder à COVID-19:
 
-Para ajudar você a se concentrar em dar suporte a seus clientes, **se a data de aniversário de sua competência for entre 1 de janeiro e 30 de junho de 2020**, estenderemos sua competência ou competências existentes até a próxima data de aniversário em 2021. Seus lembretes de renovação de competência serão atualizados de acordo com essa nova oferta. 
+Para ajudá-lo a se concentrar no suporte aos seus clientes: 
+
+- **se a data de aniversário de sua competência for entre 1º de julho e 31 de dezembro de 2020**, estenderemos a competência ou as competências existentes até a próxima data de aniversário em 2021. Seus lembretes de renovação de competência serão atualizados de acordo com essa nova oferta. 
 
 - **Se sua competência estiver chegando perto da renovação**, você verá na Central de Parceiros que os requisitos foram atendidos. Para renovar, você precisará pagar o valor de competência durante a janela de renovação na página de Ofertas de associação. 
 
-- **Se a janela de renovação já passou**, você pode reativar a competência e obter acesso a recursos e benefícios ao pagar o valor na página Ofertas de associação. Essa extensão estará disponível até 30 de junho de 2020.   
+- **Se a janela de renovação já passou**, você pode reativar a competência e obter acesso a recursos e benefícios pagando o valor na página Ofertas de associação. Essa extensão estará disponível até 31 de dezembro de 2020.
 
 ### <a name="how-to-view-this-information"></a>Como exibir essas informações
 

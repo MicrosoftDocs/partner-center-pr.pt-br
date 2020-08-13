@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c0e7aecd7d56e1919c7f142312a9090b8ff40bd3
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c87e47efc6c94e4e53a031a983a4a4e528ddc012
+ms.sourcegitcommit: 59bdf42f5282262835cb7ee2bd215bbddc7686d7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434315"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87839181"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Atribuir permissões e funções de usuários para os usuários de uma empresa que precisam trabalhar no Partner Center
 
@@ -46,6 +46,7 @@ Você determinará os tipos de acesso que os usuários terão ao Partner Center 
 ||*    Ver todos os perfis de parceiros
 ||*    Ver, criar e gerenciar usuários parceiros  |
 |Administrador de cobrança | – Exibir, criar e gerenciar a cobrança, as faturas e os arquivos reconhecimento|
+||*    Exibir preço
 |Usuário padrão|  Exibir meu perfil   |
 |Agente administrativo | *    Gerenciamento de clientes
 ||*    Adicionar lista de dispositivos ao Partner Center
@@ -62,6 +63,7 @@ Você determinará os tipos de acesso que os usuários terão ao Partner Center 
 ||*    Gerenciamento de assinaturas
 ||*    Ver tíquetes de suporte
 ||*    Solicitar um relacionamento com um cliente
+||*    Ver preços e ofertas
 ||*    Gerenciar clientes potenciais
 ||*    Ver o contrato do cliente
 ||*    Registrar um revendedor com valor agregado|

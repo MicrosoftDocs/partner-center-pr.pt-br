@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 41797ec9a176e9bec05746cc860d65faba684029
-ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
+ms.openlocfilehash: 73827cdbf49535d9594fa4951d2abd56bf00a96a
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87389125"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998379"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Comprar ou renovar uma assinatura do Microsoft Action Pack ou as competências silver e gold
 
@@ -72,6 +72,13 @@ Torne-se um [parceiro de competência](https://partner.microsoft.com/membership/
 
 Sua assinatura do Action Pack será renovada automaticamente todos os anos nesta data. Você pode desativar a renovação automática a qualquer momento na lista de ofertas **Compradas**. No entanto, você não poderá ativar a renovação automática de assinatura novamente até que renove sua assinatura novamente. 
 
+### <a name="update-your-bill-to-address"></a>Atualizar o endereço para cobrança
+
+No processo de renovação ou compra do Action Pack, você tem a oportunidade de validar seu endereço para cobrança.
+
+ 1. Depois de selecionar **Enviar**, examine os detalhes da sua compra. Selecione **Atualizar** se perceber que seu endereço precisa ser atualizado.
+  
+ 1. Na página **Perfil de parceiro**, atualize seu endereço.
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Desativar a renovação automática da assinatura do Action Pack
 
