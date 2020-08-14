@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: c8c6798c216ce4b0228feabdf59838f23526c362
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 07ebb79d38a0340129fdc590bc873c9fd7ed05c9
+ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811156"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88220204"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,6 +22,8 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 | **Categoria** | **Comunicados de agosto de 2020** | **Comunicado** |
 |---------|:---------|:---------|
+|Funcionalidades|[Versão do SDK no .NET Standard v1.16.1](2020-august.md#6)|12 de agosto|
+|Funcionalidades|[Em breve: compras por autoatendimento para o Microsoft Project e o Microsoft Visio](2020-august.md#5)|12 de agosto|
 |Ofertas/mercados|[As novas SKUs de Comunicações Avançadas do Microsoft Teams já estão disponíveis](2020-august.md#4)|4 de agosto|
 |Ofertas/mercados|[O ATP (Proteção Avançada contra Ameaças) do Microsoft Defender para Servidores para Educação estará disponível em setembro](2020-august.md#3)|4 de agosto|
 |Ofertas/mercados|[Nova oferta de pacote Premium do Dynamics 365 Sales](2020-august.md#2)|3 de agosto|
@@ -86,7 +88,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 | **Categoria** | **Comunicados de janeiro de 2020** | **Data** |
 | Ofertas/mercados | [Assinaturas do Windows Server e do SQL Server estão disponíveis para parceiros do CSP (Provedor de Soluções na Nuvem) na Rússia desde 1º de fevereiro de 2020](2020-january.md#7) | 31 de janeiro |
 | Ofertas/mercados | [Os complementos Sala de Reunião e Reuniões para o Microsoft 365 F1 agora estão disponíveis para a GCC (Nuvem da Comunidade Governamental)](2020-january.md#6) | 29 de janeiro |
-| Funcionalidades | [Os complementos Sala de Reunião e Reuniões para o Microsoft 365 F1 agora estão disponíveis para a GCC (Nuvem da Comunidade Governamental)](2020-january.md#5) | 28 de janeiro |
+| Funcionalidades | [Já disponível! Compra por autoatendimento do Power Apps e do Power Automate para clientes comerciais dos EUA](2020-january.md#5) | 28 de janeiro |
 | Funcionalidades | [Comunicando um novo painel de relatórios no Partner Center](2020-january.md#4) |27 de janeiro |
 | Funcionalidades | [Lembre-se de confirmar a aceitação do Contrato de Cliente da Microsoft até 31 de janeiro de 2020](2020-january.md#3) | 27 de janeiro |
 | Funcionalidades | [Lista de preços e agendamento de atualizações de ofertas para janeiro de 2020](2020-january.md#2) | 7 de janeiro |
