@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3c2194391214bde36f50c4792a0fd53c654197ca
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c8a6c5fc3a087c97b2ad19b2067027bab24ac15b
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436685"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239034"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de competências disponível no painel do Partner Center insights
 
@@ -87,3 +87,6 @@ Esta exibição mostra uma tabela detalhada de todas as competências que você 
 ## <a name="next-steps"></a>Próximas etapas
 
 - Para obter mais relatórios, consulte os [insights do Partner Center](partner-center-insights.md).
+
+>[!NOTE] 
+> Você pode baixar os dados brutos, capacitando esse relatório na seção baixar relatórios no painel do insights. [Saiba mais](pci-download-reports.md) 

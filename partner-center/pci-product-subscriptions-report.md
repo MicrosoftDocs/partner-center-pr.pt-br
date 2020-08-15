@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0f1f2498f9c91f467b4b2b1980a14995782a5137
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f26384f408f7644d577940e22ea43a197c41164f
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436665"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239054"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de assinaturas do produto disponível no painel do recepções do Partner Center
 
@@ -110,3 +110,6 @@ Os dois gráficos de pizza mostram uma divisão de suas assinaturas de cliente a
 ## <a name="next-steps"></a>Próximas etapas
 
 - Para obter mais relatórios, consulte os [insights do Partner Center](partner-center-insights.md).
+
+>[!NOTE] 
+> Você pode baixar os dados brutos, capacitando esse relatório na seção baixar relatórios no painel do insights. [Saiba mais](pci-download-reports.md) 

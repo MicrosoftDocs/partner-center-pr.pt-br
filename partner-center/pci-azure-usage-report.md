@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9be334b02576927231b9cdde1114ce013ed1018b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 72676a714cf944bc9210de8e8f6edfa0d3037da9
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436715"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239064"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de uso do Azure disponível no painel do centro de informações do Partner Center
 
@@ -77,3 +77,6 @@ O gráfico de barras apresenta a tendência de horas de receita/uso mensal. O gr
 ## <a name="next-steps"></a>Próximas etapas
 
 - Para obter mais relatórios, consulte os [insights do Partner Center](partner-center-insights.md).
+
+>[!NOTE] 
+> Você pode baixar os dados brutos, capacitando esse relatório na seção baixar relatórios no painel do insights. [Saiba mais](pci-download-reports.md) 
