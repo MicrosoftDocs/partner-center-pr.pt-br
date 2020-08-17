@@ -4,16 +4,16 @@ description: Verifique se o seu programa de incentivos está qualificado para qu
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 498604c94d86c2e8996725470cd15869dc99d068
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 20045f321bd3fea5410fff148e8d9fb58dacef50
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545997"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303222"
 ---
 # <a name="program-eligibility"></a>Elegibilidade do programa
 

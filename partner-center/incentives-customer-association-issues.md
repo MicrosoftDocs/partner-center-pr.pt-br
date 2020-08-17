@@ -4,16 +4,16 @@ description: Saiba como solucionar problemas que surgem ao trabalhar com associa
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 69c0eb822ed8bf2ff09d7fc4a37e920dc123133a
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: ef818b15d4ddd891c29669071d3f8dc51d007bca
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87546007"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303252"
 ---
 # <a name="customer-association-issues"></a>Problemas de associação do cliente
 

@@ -5,15 +5,15 @@ ms.date: 07/21/2020
 description: Perguntas frequentes sobre o pagamento de incentivos e perfis de impostos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: kim-davis
-ms.author: kimnich
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 176533700870af15107221396803d7f7cacfd0d7
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 29c77cd06964bf00e7506738c92f5764a678e605
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545907"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303142"
 ---
 # <a name="incentives-payout-and-tax-profile-faqs"></a>Perguntas frequentes sobre o pagamento de incentivos e o perfil fiscal
 
@@ -39,7 +39,7 @@ Talvez você também precise fornecer informações atualizadas se as regras do 
 
 ## <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>Como posso fornecer/atualizar meus detalhes de pagamento e/ou imposto?
 
-Para obter informações detalhadas sobre como atualizar os detalhes de pagamento e impostos no Partner Center, consulte [como criar e gerenciar perfis bancários e de impostos no Partner Center](https://support.microsoft.com/help/4524534/how-to-create-and-manage-bank-and-tax-profiles-in-partner-center).
+Para obter informações detalhadas sobre como atualizar os detalhes de pagamento e imposto no Partner Center, confira [Como criar e gerenciar perfis bancários e fiscais no Partner Center](https://support.microsoft.com/help/4524534/how-to-create-and-manage-bank-and-tax-profiles-in-partner-center).
 
 ## <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>Por que não vejo meus registros ao atribuir meu perfil de pagamento e imposto?
 

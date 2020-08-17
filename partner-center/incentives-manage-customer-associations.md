@@ -4,16 +4,16 @@ description: Entenda os processos e cronogramas importantes para gerenciar assoc
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: how-to
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 23d2694cbd78de0d6db7669b33c793c535594978
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6a98d14bbbe614d0d57a3d1032b93b8cd43119e1
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545987"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303171"
 ---
 # <a name="manage-customer-associations"></a>Gerenciar associações do cliente
 

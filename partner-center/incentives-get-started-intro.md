@@ -4,16 +4,16 @@ description: Encontre recursos para começar a usar incentivos. As etapas inclue
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 1a7a20d788676bc31a500638b4b4dd2884d61a46
-ms.sourcegitcommit: 2254b8c18c34254ed14db55ec20dcb2ccb287663
+ms.openlocfilehash: 4f4a82d4b8a94e960befb55bdd4a99e0cdcc9bb0
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "88110550"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303162"
 ---
 # <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Use estes recursos para ajudá-lo a começar com incentivos
 
@@ -44,12 +44,13 @@ Antes de poder ser pago pelo seu trabalho em um programa de incentivos, você pr
 
 |  **Para fazer isso**  |  **Leia isto**  |
 |--------------|-----------|
-| Saiba se seus incentivos funcionam atendem aos requisitos de qualificação para um programa de incentivos específico | [Determinar a elegibilidade do programa](incentives-determined-your-program-eligibility.md)  |
+| Saiba mais sobre o registro no programa incentivos | [Registre-se no programa incentivos](incentives-enroll.md)  |
+| Saiba se seus incentivos funcionam atendem aos requisitos de qualificação para um programa de incentivos específico | [Determinar a qualificação para o programa](incentives-determined-your-program-eligibility.md)  |
 | Localize e forneça os dados que a Microsoft exige antes que você possa receber seus pagamentos de incentivos | [Criar e gerenciar perfis fiscais e de pagamento no Partner Center](incentives-create-and-manage-your-payout-and-tax-profiles.md)  |
 | Confirme que você forneceu todos os detalhes de que precisa estar qualificado para receber os ganhos de incentivos | [Confirmar a qualificação para lucros](incentives-confirm-your-earnings-eligibility.md)  |
-| Veja todos os dados e relatórios para seu programa de incentivos | [Ver seus pagamentos de incentivos e programas](understand-incentive-payouts.md)  |
+| Veja todos os dados e relatórios para seu programa de incentivos | [Exibir seus pagamentos de incentivos e programas](understand-incentive-payouts.md)  |
 | Acesse sua página de pagamentos de incentivos específicos do programa | [Acessar sua página de pagamento de incentivos](incentives-unified-user-guide.md)  |
 
 ## <a name="next-steps"></a>Próximas etapas
 
-[Determinar a elegibilidade do programa](incentives-determined-your-program-eligibility.md)
+[Determinar a qualificação para o programa](incentives-determined-your-program-eligibility.md)
