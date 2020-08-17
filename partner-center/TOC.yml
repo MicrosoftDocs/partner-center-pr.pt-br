@@ -276,7 +276,7 @@
       items:
         - name: Informações sobre o IVA da empresa
           href: organization-tax-info.md
-        - name: Verifique se você é creditado pelo imposto retido na fonte
+        - name: Receber crédito por retenção de imposto
           href: withholding-tax-credit-form.md
         - name: 'Consultoria de parceiros do Office 365: Microsoft 365 Business Voice no programa CSP'
           href: o365-partner-advisory.md
@@ -458,6 +458,8 @@
           href: pci-azure-usage-report.md
         - name: Insights – painel de treinamento
           href: pci-training-dashboard.md
+        - name: Insights – análise do Microsoft Learn
+          href: ms-learn-analytics.md
         - name: Insights – relatório de competências
           href: pci-competencies-report.md
         - name: Insights – relatório de benefícios
