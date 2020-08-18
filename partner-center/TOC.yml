@@ -171,8 +171,6 @@
     - name: Visão geral das indicações
       href: referrals.md
       items:
-        - name: Responda a indicações
-          href: responding-to-referrals.md
         - name: Gerenciar perfil de negócios
           href: create-a-marketing-profile.md
         - name: Gerenciar clientes potenciais
@@ -193,8 +191,12 @@
       items:
         - name: Introdução aos incentivos
           items:
+            - name: Perguntas frequentes
+              href: incentives-faq.md
             - name: Introdução
               href: incentives-get-started-intro.md
+            - name: Inscrever-se no programa de incentivos
+              href: incentives-enroll.md
             - name: Determinar a qualificação para o programa
               href: incentives-determined-your-program-eligibility.md
             - name: Criar e gerenciar perfis fiscais e de pagamento no Partner Center
