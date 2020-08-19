@@ -1,7 +1,7 @@
 ---
 title: Exibir os detalhes do incentivo e do programa
 ms.topic: article
-ms.date: 08/03/2020
+ms.date: 08/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Use essas páginas para exibir, gerenciar e exportar detalhes de pagamento e de ganhos, bem como o status do programa e o histórico de transações completas.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 2829931ca80cea33a48e1658f97f2a1fe1a03173
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: cd42d0f1444a0b8a48e5e4892791940cb4928a76
+ms.sourcegitcommit: aea56f82c482a932f71c87801c359a6646b2a921
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545947"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "88560214"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Exibir, gerenciar e exportar os detalhes do programa de incentivos
 
@@ -82,7 +82,7 @@ Para acessar a **Visão Geral de Meus Incentivos**:
 | Descontinuada  | O programa de incentivos específico não é mais oferecido no sistema de incentivos. |
 | Registrado  | Todas as informações de impostos e bancos foram validadas. Nenhuma ação de registro adicional é exigida pelo parceiro. |
 | Registrando  | O usuário não é um administrador de incentivos e o registro está na **ação necessária** ou **Validando** os Estados de registro.|
-| Inativo/inelegível | O programa de incentivos pode não estar aberto para registro no momento ou o parceiro não atende à qualificação atual para registro ou reinscrição. <br> Se o status for **inelegível**, o parceiro não atenderá aos requisitos de qualificação atuais para o programa; clicar no link **ver requisitos de qualificação** abaixo do status do registro mostrará os requisitos para elegibilidade e quais desses requisitos foram atendidos. |
+| Inativo/inelegível | O programa de incentivos pode não estar aberto para registro no momento ou o parceiro não atende à qualificação atual para registro ou reinscrição. <br> Se o status for **inelegível**, o parceiro não atenderá aos requisitos de qualificação atuais para o programa; a seleção do link **ver requisitos de qualificação** abaixo do status do registro mostrará os requisitos para elegibilidade e quais desses requisitos foram atendidos. |
 | Convidado  | Um novo convite de registro de programa de incentivo foi enviado para o parceiro, mas o parceiro ainda não iniciou o processo de registro. A coluna adjacente **ações necessárias** mostra as próximas etapas e todos os links relacionados.  |
 | Validando o registro  | O parceiro já concluiu ou atualizou as informações bancárias e fiscais para um registro novo ou existente e está aguardando que a Microsoft valide essas informações. Durante o processo de validação, a **validação do registro** pode aparecer por até 48 horas.  |
 
@@ -105,6 +105,36 @@ Esta página exibe todos os seus ganhos individuais, incluindo a data, o tipo e 
 Para ver mais detalhes sobre um ganho, selecione a seta para baixo no lado direito da página. Isso exibirá a alavanca, o valor da receita, o produto e o cliente. Se, por algum motivo, algum desses dados estiver indisponível, mas você precisar acessá-lo, entre em contato com o suporte. Se a conquista for o resultado de um ajuste, e não de uma transação, os campos Product e Customer não serão exibidos.
 
 Para exportar qualquer um dos dados de transação nessa página, selecione **Exportar** e, em seguida, siga as instruções na página Exportar dados. Os arquivos exportados da página Histórico de transação mostram os dados na moeda da transação, os ganhos na moeda da transação e em dólares americanos e o valor pago na moeda de pagamento.
+
+### <a name="estimated-payment-month"></a>Mês de pagamento estimado
+
+A página Histórico de transações agora inclui uma tabela que mostra os valores de pagamento estimados para os próximos meses. Você também pode exibir e baixar essas informações nas exportações histórico de transações e relatório de resumo. Essas informações tornam as reconciliações e as projeções de pagamento mais fáceis.
+
+O mês de pagamento estimado é calculado com base nas regras de configuração do programa e nas linhas do tempo e é processado no próximo ciclo de pagamento/futuro.
+
+O mês de pagamento estimado está disponível atualmente para todos os tipos de conquista, exceto cooperação, que será exibido como **não aplicável**. Para os ganhos antes de 1º de julho de 2020, o mês de pagamento estimado será exibido como **não disponível**.
+
+#### <a name="estimated-payment-month-example"></a>Exemplo de mês de pagamento estimado
+
+| Month | Valor |
+| ------ | :-----------: |
+|  Setembro de 2020 |  $7273.99   |
+|  Outubro de 2020 | $8692.30  |
+|  Novembro de 2020 | $107.89  |
+
+O valor estimado pode variar do valor real por vários motivos:
+
+- Ganhando redeclaretion: se os ganhos forem recalculados, o valor real será diferente
+- Ajustes: o valor real varia dependendo dos ajustes que ocorreram ou foram enviados.
+- Alteração de regras: uma alteração nas regras pode refletir o recálculo em quantias reais pagas
+- A pagar: se ocorrer falha de pagamento, o valor real poderá ser diferente
+
+Observe que seu pagamento será liberado apenas no mês projetado se as regras de qualificação de pagamento e limite do programa forem atendidas. Essas regras incluem, mas não estão limitadas à lista abaixo:
+
+- Seu perfil de imposto deve estar atualizado
+- Seus ganhos devem atender ou exceder o limite mínimo de conquista definido no guia do programa.
+- Pagamento em espera: se você selecionar a opção "manter meu pagamento" na página de atribuição de perfis.
+- Instrumento de pagamento não disponível: o perfil de pagamento ou/e imposto não foi concluído.
 
 ## <a name="payment-status"></a>Status de pagamento
 
@@ -178,6 +208,7 @@ Essa opção fornece um download de cada item de linha de produção que você v
 |earningId   |Identificador exclusivo de cada ganho   |
 |earningRate   |Taxa de incentivo aplicada ao valor da transação para gerar um ganho   |
 |earningType   |Indica se é uma taxa, um reembolso, uma cooperação, uma venda etc.   |
+|Mês de pagamento estimado   |O mês projetado de pagamento com valor estimado, desde que as regras de qualificação de pagamento e limite mínimo sejam atendidas   |
 |exchangeRateDate   |Data da taxa de câmbio usada para calcular EarningAmount US$   |
 |lastPaymentCurrency   |A moeda na qual o pagamento mais recente foi recebido, em todo o MPNs ao qual o parceiro que está conectado no momento tem acesso. Se nenhum pagamento for recebido, a última moeda de pagamento será de US $100,00.   |
 |alavanca   |Indica a regra de negócios para o ganho   |
@@ -220,7 +251,7 @@ Além da tabela acima, esses campos de histórico de transações estarão dispo
 ## <a name="transaction-summary-report"></a>Relatório de resumo da transação
 
 >[!NOTE]
->O relatório de Resumo de transações não mostrará todos os seus programas ou ganhos. É um resumo que se concentra apenas em alavancas agregadas. Para ver as transações individuais, baixe o [relatório de histórico de transações](#transaction-history-page).
+>O relatório de Resumo de transações não mostrará todos os seus programas ou ganhos. É um resumo que se concentra apenas em alavancas agregadas. 
 
 O relatório de Resumo de transação fornece detalhes de transações de nível de resumo, incluindo nomes de clientes e IDs de assinatura, para alavancas de conquista agregadas. O relatório envolve cada ID de conquista associada a várias transações. Os detalhes do valor total de conquista e dos ganhos para essa ID de conquista são repetidos para cada cliente/assinatura. Isso ocorre porque os incentivos para alavancas de agregação são obtidos coletivamente, não por assinatura.
 
@@ -250,7 +281,8 @@ O relatório de Resumo de transação fornece detalhes de transações de nível
 |  earningAmount | Conquistando valor na moeda da transação original  |
 |  earningAmountUSD | Conquistando valor em USD  |
 |  earningDate | Data do ganho  |
-|  earningExchangeRate | Taxa de câmbio usada para mostrar o valor em USD correspondente  |
+|  earningExchangeRate | Taxa de câmbio usada para mostrar o valor em US$ correspondente  |
+|Mês de pagamento estimado   |O mês projetado de pagamento com valor estimado, desde que as regras de qualificação de pagamento e limite mínimo sejam atendidas   |
 |  exchangeRateDate | Data da taxa de câmbio usada para calcular EarningAmount US$  |
 |  transactionMonth |  Mês da transação   |
 |  transactionCurrency | Moeda na qual a transação original do cliente ocorreu  |
