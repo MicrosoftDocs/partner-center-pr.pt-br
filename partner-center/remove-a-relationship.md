@@ -9,12 +9,12 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecc7d73734ab0d5312293f7ab8335bda76eea6e6
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: fb6af7896f659630bb6810868dc017e1968e4d19
+ms.sourcegitcommit: b74701f3806af2c5da04b21f6c1d1371b56509cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811336"
+ms.lasthandoff: 08/19/2020
+ms.locfileid: "88584675"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Como remover uma relação de revendedor com um cliente no Partner Center
 
@@ -24,12 +24,12 @@ ms.locfileid: "87811336"
 
 Este artigo descreve como remover uma relação de revendedor com um cliente no Partner Center.
 
-Parceiros diretos: se você não mais está fazendo transações com um cliente, você pode remover a relação no Partner Center.
+Parceiros diretos ou provedores indiretos: se você não estiver mais transagindo com um cliente, poderá remover a relação no Partner Center.
 
 A remoção de uma relação tem as seguintes consequências:
 
 - Remove o cliente da sua lista de clientes no Partner Center
-- Remove você da [lista de contatos de suporte disponível](assign-support-contacts.md) para seu cliente
+- Remove da [lista de contatos de suporte disponíveis](assign-support-contacts.md) para seu cliente
 - Remove seus privilégios de administrador de delegação para o cliente
 - Impede que você faça compras futuras para o cliente
 
