@@ -5,16 +5,16 @@ ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Apresenta os requisitos do parceiro para habilitar a Autenticação Multifator (MFA) e adotar a estrutura do Modelo de Aplicativo Seguro.
-author: isaiahwilliams
-ms.author: iswillia
+author: vijvala
+ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 981163a710f3d220ce1031957f9ccdca3e544d60
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 073bef80fe1335ac45ba7ed6a70236a7ce82eecd
+ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434005"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88220210"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>Requisitos de segurança do parceiro para parceiros usando o Partner Center ou as APIs do Partner Center
 
