@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: b8f06013651f6b41ea9e31d1a444465c052dcb06
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 88af3967c8ab1d3eaccb4ea48551725c4f8b65e9
+ms.sourcegitcommit: e9790112451244bc8ee8026efc793b5d87439277
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365772"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88215581"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>Gerenciar sua conta do Partner Center – perfis da empresa, informações bancárias, funções, permissões e muito mais
 
@@ -118,6 +118,7 @@ Se você estiver registrado em programas como o MPN ou o CSP (Provedor de Soluç
 |-----------------------|:-----------------------|
 |Verifique se o perfil de sua empresa está atualizado   |[Atualizar seu perfil de parceiro](update-your-partner-profile.md)|
 |Adicionar novos usuários|[Criar contas de usuário e atribuir permissões](create-user-accounts-and-set-permissions.md)|
+|Localizar o status da verificação|[Verifique as informações da conta](verification-responses.md)|
 |Deve-se atribuir funções a todos aqueles na empresa que precisam trabalhar no Partner Center. Cada função tem permissões e tarefas específicas à disposição.|[Criar contas de usuário e definir permissões](create-user-accounts-and-set-permissions.md)|
 |Examinar as permissões que cada função envolve|[Atribuir permissões e funções de usuários](permissions-overview.md)
 |Gerenciar os locais da empresa|[Gerenciar sua conta do Partner Center: Locais](manage-locations.md)
@@ -127,3 +128,4 @@ Se você estiver registrado em programas como o MPN ou o CSP (Provedor de Soluç
 |Verifique se sua empresa está disponível no mercado para que os clientes possam encontrar você   |[Criar um perfil de negócios](create-a-marketing-profile.md)|
 |Organize seu catálogo para que os produtos mais importantes estejam na parte superior da lista   |[Personalizar o catálogo](customize-the-catalog.md)|
 |Mantenha-se atualizado em termos de preços e ofertas atuais   |[Preços e ofertas](pricing-and-offers.md)|
+|API: verificar uma ID do MPN do parceiro|[https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md]
