@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01a4fb132d2ec396bfe45e22cccdabc7f2d15a2e
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 7dda38680bd698ce04149ed8c1a9acf1cff0ba2f
+ms.sourcegitcommit: 7a749e7130f903b2d94cfa44e14bde0adf7ee199
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811316"
+ms.lasthandoff: 08/24/2020
+ms.locfileid: "88781828"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Relatar um problema de serviço em nome de um cliente, incluindo quando e como fazer isso
 
@@ -23,7 +23,11 @@ ms.locfileid: "87811316"
 - Partner Center
 - Partner Center do Microsoft Cloud for US Government
 
-Se o seu cliente estiver enfrentando um problema de serviço que você não pode resolver e que atenda aos critérios descritos em [escalonar problemas para a Microsoft](escalate-problems-to-microsoft.md), você pode arquivar um tíquete de suporte para eles. Esse processo também é útil para encaminhar problemas ou controvérsias relativos a cobrança e preocupações com fraude. 
+**Funções apropriadas**
+
+- Provedor indireto
+
+Se o seu cliente estiver enfrentando um problema de serviço que você não pode resolver e que atenda aos critérios descritos em [escalonar problemas para a Microsoft](escalate-problems-to-microsoft.md), seu provedor indireto poderá arquivar um tíquete de suporte para eles. Esse processo também é útil para encaminhar problemas ou controvérsias relativos a cobrança e preocupações com fraude.
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Envie uma solicitação de serviço por um cliente
 
@@ -41,7 +45,7 @@ Se o seu cliente estiver enfrentando um problema de serviço que você não pode
 > [!IMPORTANT]
 > Quando você precisar criar uma solicitação de serviço para seu cliente no Azure, esteja ciente do seguinte:
 >
->- Para criar solicitações de serviço para o cliente no Azure, seu provedor indireto deve conceder acesso à conta do Azure do cliente. Isso é diferente de administrar em nome dos clientes para o Office 365.
+>- Para você, como o revendedor indireto, para criar solicitações de serviço para seu cliente no Azure, seu provedor indireto deve conceder a você acesso à conta do Azure do cliente. Isso é diferente de administrar em nome dos clientes para o Office 365.
 >
 >- Embora o administrador de assistência técnica no Partner Center não possa criar solicitações de serviço no portal de serviço do Azure, o que eles podem fazer é criar um grupo de suporte no portal de serviço do Azure e conceder a esse grupo permissões para registrar solicitações de suporte.
 
