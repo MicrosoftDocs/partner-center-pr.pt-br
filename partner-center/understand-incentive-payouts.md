@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: cd42d0f1444a0b8a48e5e4892791940cb4928a76
-ms.sourcegitcommit: aea56f82c482a932f71c87801c359a6646b2a921
+ms.openlocfilehash: acb8d38ab4a3b85dd031790dc75c16ec064195f3
+ms.sourcegitcommit: 389dda2e4100d56c846245ff8ca85c4755b15c25
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "88560214"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88799821"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Exibir, gerenciar e exportar os detalhes do programa de incentivos
 
@@ -198,6 +198,14 @@ Essa opção fornece um download de cada item de linha de produção que você v
 
 |**Nome da coluna**   |**Descrição**   |
 |------------------|:-------------------------------------|
+| Conformidade com o AR | Ajuste que reduz os ganhos quando as faturas da Microsoft não são pagas no tempo pelo parceiro |
+| Substituição de cooperação | Ajuste que transfere os ganhos de cooperação para outro período ou converte os ganhos de cooperação no reembolso |
+| Cálculo incorreto do Microsoft ajuste de Ops | Ajuste que corrige os incorretos de cálculo |
+| Registro incorreto do Microsoft ajuste de Ops | Ajuste para os inscrições relacionados ao registro |
+| Exceção de política | Ajuste que substitui uma regra de programa  |
+| Ajuste de Ops | Ajuste que corrige erros de cálculo do sistema da Microsoft |
+| Ganhos do período anterior | Ajuste para ganhos fora do período de conquista atual |
+| MCI/CSP de mapeamento de parceiro (assinatura) | Ajuste que corrige o desalinhamento da assinatura |
 |customerId   |Identificador do cliente   |
 |customerName   |Nome do cliente da transação   |
 |earningAmount   |Conquistando valor na moeda da transação original   |
