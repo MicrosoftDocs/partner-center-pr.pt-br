@@ -1,31 +1,32 @@
 ---
 title: Solução de problemas com pagamentos e lucros
 ms.topic: article
-ms.date: 06/29/2020
+ms.date: 08/25/2020
 description: Saiba como solucionar problemas como ganhos ausentes ou incorretos, problemas de qualificação e como reconciliar seus ganhos de incentivos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 9cb278d51235ef7c306691e2926925b0a2396e7e
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: ba1b6eb3ae77903a898815de60a4df05c48f3bd6
+ms.sourcegitcommit: 455f2e38c2076373254e04577b194289c43e66fd
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303152"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88893461"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>Solução de problemas com pagamentos e lucros
 
-Aplica-se a:
+**Aplica-se a**:
 
 - Partner Center
 
-Este artigo ajudará você a resolver quaisquer problemas de lucros ou pagamentos em seu programa de incentivos. Os tópicos abordados incluem o tempo de pagamento, a verificação da elegibilidade de seus ganhos e a importância de configurar seus perfis de pagamento e de impostos corretamente.
-
-Funções apropriadas:
+**Funções apropriadas**:
 
 - Administrador de incentivos
+
+
+Este artigo ajudará você a resolver quaisquer problemas de lucros ou pagamentos em seu programa de incentivos. Os tópicos abordados incluem o tempo de pagamento, a verificação da elegibilidade de seus ganhos e a importância de configurar seus perfis de pagamento e de impostos corretamente.
 
 ## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>Quem pode criar ou atualizar perfis de pagamento e de impostos para minha organização?
 
@@ -37,7 +38,7 @@ A validação pode levar até 48 horas. Durante esse tempo, o status do perfil n
 
 ## <a name="how-do-i-know-if-i-have-completed-my-payout-and-tax-profile-correctly"></a>Como posso saber se preenchi meu perfil de pagamento e imposto corretamente?
 
-O status do registro é exibido na página Visão geral. Quando você terminar de criar seus perfis, seu status estará **Validando o registro**. Depois de validarmos suas informações, seu status será alterado para **registrado**. Isso indica que o perfil de pagamento e imposto e o registro foram concluídos com êxito.
+O status do registro é exibido na página Visão geral. Quando você terminar de criar seus perfis, seu status estará **Validando o registro**. Depois de validarmos suas informações, seu status será alterado para **registrado**. Esse status indica que o pagamento e o perfil de impostos e seu registro foram concluídos com êxito.
 
 ## <a name="why-do-i-need-to-update-my-tax-profile-to-use-it-with-a-new-incentive-program"></a>Por que preciso atualizar meu perfil fiscal para usá-lo com um novo programa de incentivo?
 
@@ -96,7 +97,32 @@ Ganhos ausentes ou incorretos podem ser causados por um dos seguintes problemas:
 
 - **Você pode não ter atendido aos requisitos.**  Verifique se você cumpriu as regras de [qualificação](#my-payment-is-missing-or-incorrect) e de receita qualificada para o incentivo que está procurando.
 
-- **Pode haver uma discrepância.**  Se você atender à qualificação de Parceiro e às regras de receita qualificada e ainda estiver vendo ganhos incorretos, confira [Como identificar discrepâncias de ganhos e lucros](https://support.microsoft.com/help/4534675) para ver as etapas para acessar todos os lucros e as respectivas transações.
+- **Pode haver uma discrepância.**  Se você atender à qualificação do parceiro e às regras de receita qualificada e ainda Ver os ganhos incorretos, as informações a seguir poderão ajudá-lo a recuperar seus dados.
+ 
+Os ganhos podem ser exibidos por meio do **histórico de transações** ou de **pagamentos** no Partner Center clicando no ícone de **pagamento** na barra de navegação no Partner Center. 
+
+:::image type="content" source="images/incentives/paymenticon.png" alt-text="Informações sobre a transação":::
+
+Valores mensais de conquista no modo de exibição de histórico de transações podem não ser alinhados com o valor de pagamento recebido para um mês específico. Isso ocorre devido a recálculos e ajustes dos períodos de conquista anteriores que são aplicados aos futuros pagamentos.
+
+Por exemplo, um ajuste para os ganhos de janeiro de 2019 que foi processado em setembro de 2019 não será refletido no valor de ganhos para 2019 de setembro; no entanto, quando o pagamento de setembro de 2019 for recebido, ele incluirá o ajuste de janeiro de 2019 que foi aplicado em setembro.
+Nesse cenário, você precisa baixar os detalhes da transação para obter uma exibição completa de todos os ganhos incluídos em seu pagamento.  Além disso, você pode navegar até a exibição de pagamentos para baixar transações para cada pagamento.
+
+### <a name="transaction-history"></a>Histórico de transação
+
+Essa exibição permite exibir as tendências de pagamento por mês, os ganhos por status e os detalhes da transação, juntamente com o status de pagamento de cada transação. Os dados só são visíveis para os programas e a ID do MPN de que você recebeu um usuário de incentivo ou função de administrador.
+
+### <a name="payments"></a>Pagamentos
+
+Essa exibição permite exibir pagamentos para todos os programas e IDs de MPN. Os dados só são visíveis para os programas e a ID do MPN de que você recebeu um usuário de incentivo ou função de administrador. Nessa exibição, você pode fazer download da remessa ou ver detalhes da transação por pagamento. 
+
+Role para baixo até a seção **lista de pagamentos** para exibir informações de pagamento por linha, que inclui valores de pagamento e de pagamentos na moeda local. Clique em **remessa de pagamento** para baixar uma carta de remessa. Clique em **Exibir** para abrir uma nova guia e ver detalhes de nível de transação para um pagamento específico. 
+
+Para exportar os detalhes da transação para o Excel, clique em **Iniciar Download** e em **exportar dados**. Observação: todos os filtros selecionados serão aplicados aos dados exportados. Depois que o status for alterado para concluído, você poderá clicar em baixar e seguir os prompts para exportar o relatório de transações detalhadas. Atualize a página se o status não for atualizado em até cinco minutos. 
+
+### <a name="missing-or-incorrect-earnings-and-payments"></a>Ganhos e pagamentos incorretos ou ausentes
+
+Se não for possível localizar os detalhes de um pagamento ou de uma transação, verifique se os filtros corretos foram aplicados. Alguns nomes de programa foram alterados, o que pode exigir várias seleções (por exemplo, parceiro 1T direto do CSP, parceiro de cobrança direto do CSP).
 
 Se essas ações não ajudarem e você ainda não conseguir encontrar os ganhos ou ainda acreditar que os ganhos estão incorretos, contate o [suporte](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
@@ -110,8 +136,6 @@ Se houver uma discrepância em seus lucros, siga as seguintes etapas:
 
 3. **Verifique se você atendeu aos requisitos.**  Verifique se você cumpriu as regras de [qualificação](#my-payment-is-missing-or-incorrect) e de receita qualificada para o incentivo que está procurando.
 
-4. **Determine se houve uma discrepância.**  Se você atender à qualificação de Parceiro e às regras de receita qualificada e ainda estiver vendo ganhos incorretos, confira [Como identificar discrepâncias de ganhos e lucros](https://support.microsoft.com/help/4534675) para ver as etapas para acessar todos os lucros e as respectivas transações.
-
 Se essas ações não ajudarem e seus lucros ainda não estiverem conciliados, entre em contato com o [suporte](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
 ## <a name="where-can-i-find-my-rates"></a>Em que local posso encontrar minhas taxas?
@@ -121,3 +145,7 @@ Se essas ações não ajudarem e seus lucros ainda não estiverem conciliados, e
 2. Depois de entrar, role a tela para baixo até acessar os documentos para seu programa interessado e clique no link do documento para o respectivo programa.
 
 3. No documento, consulte a seção **estrutura e taxas do programa**.
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Gerenciar declarações de cooperação](incentives-managing-co-op-claims.md)
