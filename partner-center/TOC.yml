@@ -9,6 +9,8 @@
       href: mpn-create-a-partner-center-account.md
     - name: Obter um email de trabalho
       href: buy-email-domain.md
+    - name: Solucionar problemas de configuração da conta
+      href: troubleshoot-account-sign-n.md
     - name: Migrações para o Partner Center
       items:
         - name: Mudando do PAC – visão geral
@@ -35,6 +37,8 @@
           href: mpn-get-action-pack.md
         - name: Renovar suas ofertas
           href: renew-mpn-offers.md
+        - name: Encontrar seus benefícios do MPN
+          href: mpn-find-benefits.md
     - name: Competências
       href: learn-about-competencies.md
     - name: Especializações avançadas
