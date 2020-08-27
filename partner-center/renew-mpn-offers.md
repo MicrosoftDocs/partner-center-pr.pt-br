@@ -9,20 +9,20 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 93e911f69f5f311739b64ac4c99e41f804d1693a
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 20ea64ffa15ae5f2370e9194bd3f9907c498a4e9
+ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998395"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88846916"
 ---
 # <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>Renove as ofertas de MPN para Microsoft Action Pack e competências durante a janela de renovação
 
-**Aplica-se a**
+### <a name="applies-to"></a>Aplica-se a
 
 - Partner Center
 
-O Microsoft Action Pack e as competências são ofertas para membros do Microsoft Partner Network que exigem renovação anual. Sua janela de renovação começa um dia depois do aniversário da data da compra. Por exemplo, se você comprou o Microsoft Action Pack em 1º de setembro de 2018, a janela de renovação começa em 2 de setembro de 2019. Você pode renovar o Microsoft Action Pack e as competências na Central de Parceiros. Em Ofertas de associação, você encontrará as ofertas que comprou e poderá localizar a data de aniversário delas na coluna de data de início da renovação. A associação ao Microsoft Partner Network em si não requer renovação anual. 
+As competências de prata e ouro do Microsoft Action Pack são ofertas destinadas a membros do Microsoft Partner Network e que exigem renovação anual. Sua janela de renovação começa um dia depois do aniversário da data da compra. Por exemplo, se você comprou o Microsoft Action Pack em 1º de setembro de 2018, a janela de renovação começa em 2 de setembro de 2019. Você pode renovar o Microsoft Action Pack e as competências na Central de Parceiros. Em Ofertas de associação, você encontrará as ofertas que comprou e poderá localizar a data de aniversário delas na coluna de data de início da renovação. A associação ao Microsoft Partner Network em si não requer renovação anual. 
 
 Para saber mais, selecione o link apropriado abaixo: 
 
@@ -48,14 +48,15 @@ Para ajudá-lo a se concentrar no suporte aos seus clientes:
 
 - **Se a janela de renovação já passou**, você pode reativar a competência e obter acesso a recursos e benefícios pagando o valor na página Ofertas de associação. Essa extensão estará disponível até 31 de dezembro de 2020.
 
-### <a name="how-to-view-this-information"></a>Como exibir essas informações
+### <a name="how-to-view-competency-renewal-information"></a>Como exibir informações sobre a renovação de competência
 
 1. No menu da Central de Parceiros em seu painel, selecione **Competências**.  
 
 2. Na lista de competências disponíveis, as suas devem estar marcadas como Concluídas.  
 
-3. Selecione o nome da competência. Você verá um aviso de que recebeu uma isenção dos requisitos até a data da próxima renovação.   
+3. Selecione uma de suas competências. Você verá um aviso de que recebeu uma isenção dos requisitos até a data da próxima renovação.
 
 4. Para aproveitar essa oferta, acesse **Ofertas de associação**. Talvez seja necessário pagar o valor de competência para concluir o processo, dependendo do status de compra ou renovação da sua competência. 
 
 Para aproveitar a extensão, você precisa ter movido sua associação do PMC (Partner Membership Center) para a Central de Parceiros para poder renovar sua competência e pagar o valor. Se você não tiver movido sua associação, [obtenha mais informações](prepare-pmc-pc-migration.md) e [faça a transição](https://partners.microsoft.com/partnerprogram/Welcome.aspx) hoje mesmo.  
+

@@ -9,12 +9,12 @@ ms.author: parthp
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: cfd681a56bfaebcc1fd6c77de3e5a0c6deb4a46f
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: f71df7df213b2c6410fab37ce323825511a18b6d
+ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527732"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88846926"
 ---
 # <a name="create-user-accounts-and-assign-roles-and-permissions"></a>Criar contas de usuário e atribuir funções e permissões
 
@@ -45,14 +45,28 @@ Crie contas de usuário para os funcionários que precisam acessar o Partner Cen
 
 O usuário precisará entrar no Partner Center com seu nome de usuário e senha temporária. Quando o usuário entrar no Partner Center pela primeira vez, ele precisará alterar sua senha. 
 
+## <a name="find-the-role-youve-been-assigned"></a>Encontre a função que foi atribuída a você
 
-### <a name="find-your-global-admin"></a>Encontrar seu administrador global
+Caso o administrador global não tenha informado, será possível descobrir qual é a sua função no Partner Center fazendo o seguinte:
+
+1. Entre no [painel] do Partner Center em https://partner.microsoft.com/dashboard/home).
+
+1. Selecione o ícone **Configurações da conta** e clique em **Meu perfil**.
+ 
+1. Selecione a guia **Funções e permissões**. Será possível conferir suas funções e permissões.
+ 
+
+>[!Note]
+>Caso não veja um programa ao entrar, isso geralmente significa que você não tem as permissões corretas para trabalhar nele. Portanto, caso não veja a página de Incentivos ao entrar, você não tem permissão para obter Incentivos, por exemplo. O administrador global poderá fornecer as permissões necessárias.
+
+
+## <a name="find-your-global-admin"></a>Encontrar seu administrador global
 
 Às vezes, um usuário pode precisar mudar de função ou um novo usuário pode desejar obter uma atribuição de função específica.  
-Para encontrar um administrador global que possa fazer alterações de função ou atribuir funções a um novo usuário, no **ícone de Configurações** no canto superior direito do Partner Center, selecione **Gerenciamento de usuários** e filtre por administrador global. 
+Siga as seguintes etapas para encontrar um administrador global que possa fazer alterações de função ou atribuir funções a um novo usuário: no **ícone Configurações da conta**, no canto superior direito do Partner Center, selecione **Gerenciamento de usuários** e filtre por administrador global. Ou é possível acessar **Meu perfil**, selecionar **Funções e permissões** e conferir uma lista de diferentes administradores que podem ajudar você a elevar suas permissões. 
 
 
-### <a name="new-global-admin"></a>Novo administrador global
+## <a name="new-global-admin"></a>Novo administrador global
 
 Se o seu administrador global deixar a organização e outra pessoa precisar preencher essa função, você poderá enviar um tíquete para a equipe do Azure ou do Office 365. Para obter informações sobre como fazer isso, selecione uma das opções abaixo.
 
