@@ -1,7 +1,7 @@
 ---
 title: Criar uma associação de cliente por meio do modelo CPOR
 ms.topic: article
-ms.date: 06/03/2020
+ms.date: 08/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Crie associações de clientes por meio do modelo CPOR (reivindicação de parceiro de registro). Ajuda a gerenciar vendas, uso & incentivos para clientes Microsoft 365 e Dynamics 365.
@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7f36480f62e82c10fe90cb0b95dbd7c7db9a5080
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: d5c71bf5c5461abaa7d86a19711ad941e0e8a4ff
+ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811176"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88942548"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Criar uma associação de cliente por meio do modelo CPOR – use para clientes Microsoft 365 e Dynamics 365
 
@@ -23,6 +23,8 @@ ms.locfileid: "87811176"
 - Partner Center
 
 Em 1º de outubro de 2019, a Microsoft começou a usar o modelo de CPOR (parceiro de registro) para gerenciar as associações que você tem com os clientes do Microsoft 365 e do Dynamics 365, com relação ao incentivo (comunicado de serviços online), OSU (gerenciamento de serviços online)-Microsoft 365 e OSU de aplicativos de negócios.
+
+>[! Importante:] as declarações de CPOR (Associação de cliente) se aplicam apenas aos programas de incentivo de venda de serviços online (OSA), OSU (uso de serviços online)-Microsoft 365 e OSU-Business. Se você estiver enviando uma declaração de cooperação para outro programa, como provedor de soluções de nuvem, revendedor gerenciado, hospedagem ou superfície, consulte o processo de declarações de cooperação descrito aqui.
 
 Quando você envia sua declaração, a Microsoft a valida. Poderemos solicitar mais informações neste ponto. Também notificaremos o cliente sobre sua solicitação de associação. Os clientes têm cinco dias úteis para recusar. Se eles não recusarem, sua associação com esse locatário e carga de trabalho específicos será oficial. Neste ponto, você terá acesso aos dados de uso do cliente. 
 
