@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fd58f9e84ce8e1e3dd8d1da39f24614db1da99b5
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 4bf873bbd5e12372d73d2ed1b4c3307c71fda359
+ms.sourcegitcommit: a2bfdc2ca5fe11afa5e2fb71e1b0fd61180f2d70
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89040984"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "89056183"
 ---
 # <a name="referrals-guide-for-managing-your-deals-in-partner-center-instead-of-partner-sales-connect-psc"></a>Guia de referências para gerenciar suas negociações no Partner Center em vez do PSC (Partner Sales Connect)
 
@@ -42,7 +42,7 @@ Como você sabe, sua empresa perderá o acesso ao PSC após 31 de dezembro de 20
 - Você precisa de um email de trabalho para fazer logon no [Partner Center](https://partner.microsoft.com/).
 - Configure sua conta com a ajuda do [administrador da conta](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant)do Partner Center.
 - Saiba como fazer uma venda conjunta no Partner Center lendo este documento.
-- Configure suas contas do gerente de negociações do PSC e do vendedor no Partner Center e atribua-as à função de [administrador de referência](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) .
+- Configure o gerente de negociações do PSC e as contas do vendedor no Partner Center e atribua a ela uma função de [administrador de referência](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) .
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>Se você for o PSC, gerente de negócios ou vendedor
 
@@ -156,7 +156,7 @@ Esta seção o ajudará a entender o mapeamento exato de atributos entre o PSC e
 
 ### <a name="q-what-should-i-do-if-i-dont-have-access-to-partner-center"></a>Q. O que devo fazer se não tiver acesso ao Partner Center?
 
-Você pode entrar em contato com seus administradores listados na página "sem acesso" para obter as funções atribuídas. Você precisará de "[administração de referência] (( https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) " função para permissão de leitura e gravação na seção referências. Se você estiver gerenciando apenas perfis comerciais, precisará da função "administrador de perfil de negócios" no centro de parceiros.
+Você pode entrar em contato com seus administradores listados na página "sem acesso" para obter as funções atribuídas. Você precisará da função "[administrador de referência](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)" para permissão de leitura e gravação na seção referências. Se você estiver gerenciando apenas perfis comerciais, precisará da função "administrador de perfil de negócios" no centro de parceiros.
 
 ### <a name="q-who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>Q. Quem pode me conceder acesso à seção referências no Partner Center?
 
