@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7377af06898afe72df7730f2a809ca85a0e9bdc9
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: bff2c66e7efd05631de7d7643a780cbe5f726103
+ms.sourcegitcommit: 3670c6e7f22e4f56545886052b68b9d5b6b3092c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 09/01/2020
-ms.locfileid: "89274975"
+ms.locfileid: "89281308"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Saiba como ler arquivos de reconciliação de uso com classificação diária no Partner Center
 
@@ -73,13 +73,13 @@ Este artigo explica como ler arquivos de reconciliação de uso com classificaç
 | UnitPrice | Preço por licença, conforme publicado na lista de preços no momento da compra. Verifique se esse preço corresponde às informações armazenadas em seu sistema de cobrança durante a reconciliação. |
 | Quantidade | Número de licenças. Verifique se esse preço corresponde às informações armazenadas em seu sistema de cobrança durante a reconciliação. |
 | UnitType | O tipo de unidade em que o medidor é cobrado.  |
-| BillingPreTaxTotal | Valor total de cobrança antes dos impostos. |
+| BillingPreTaxTotal | Valor total de cobrança antes dos impostos.<br/> _**BillingPreTaxTotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
 | BillingCurrency | A moeda na região geográfica do cliente. |
-| PricingPreTaxTotal | O preço, antes que os impostos sejam adicionados. <br/> _**PricingPreTaxTotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
+| PricingPreTaxTotal | O preço, antes que os impostos sejam adicionados. |
 | PricingCurrency | A moeda na lista de preços. |
 | ServiceInfo1 | O número de conexões do barramento de serviço que foram provisionadas e usadas em um determinado dia. |
 | ServiceInfo2 | Um campo herdado que captura metadados específicos do serviço opcionais. |
-| Marcas | Representa uma organização lógica dos recursos do Azure definidos pelo usuário. |
+| Marcações | Representa uma organização lógica dos recursos do Azure definidos pelo usuário. |
 | AdditionalInfo | Informações adicionais não abordadas em outras colunas. |
 | EffectiveUnitPrice | O valor real cobrado por unidade, incluindo descontos, crédito acumulado e assim por diante. |
 | PCToBCExchangeRate | Taxa de câmbio aplicada para a moeda de preço à moeda de cobrança. |
