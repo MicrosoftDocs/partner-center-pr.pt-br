@@ -324,6 +324,11 @@
     "source_path": "partner-center/dashboard/index.yml",
     "redirect_url": "/partner-center/",
     "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/dashboard/non-payment--fraud--or-misuse.md",
+    "redirect_url": "/partner-center/non-payment-fraud-misuse",
+    "redirect_document_id": "TRUE"
   }
  ]
 }
