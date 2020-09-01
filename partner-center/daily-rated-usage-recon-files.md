@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ec1b58206b4947ceadd98942e8c8b982749b8645
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 7377af06898afe72df7730f2a809ca85a0e9bdc9
+ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943453"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89274975"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Saiba como ler arquivos de reconciliação de uso com classificação diária no Partner Center
 
@@ -75,11 +75,11 @@ Este artigo explica como ler arquivos de reconciliação de uso com classificaç
 | UnitType | O tipo de unidade em que o medidor é cobrado.  |
 | BillingPreTaxTotal | Valor total de cobrança antes dos impostos. |
 | BillingCurrency | A moeda na região geográfica do cliente. |
-| PricingPreTaxTotal | O preço, antes que os impostos sejam adicionados. |
+| PricingPreTaxTotal | O preço, antes que os impostos sejam adicionados. <br/> _**PricingPreTaxTotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
 | PricingCurrency | A moeda na lista de preços. |
 | ServiceInfo1 | O número de conexões do barramento de serviço que foram provisionadas e usadas em um determinado dia. |
 | ServiceInfo2 | Um campo herdado que captura metadados específicos do serviço opcionais. |
-| Marcações | Representa uma organização lógica dos recursos do Azure definidos pelo usuário. |
+| Marcas | Representa uma organização lógica dos recursos do Azure definidos pelo usuário. |
 | AdditionalInfo | Informações adicionais não abordadas em outras colunas. |
 | EffectiveUnitPrice | O valor real cobrado por unidade, incluindo descontos, crédito acumulado e assim por diante. |
 | PCToBCExchangeRate | Taxa de câmbio aplicada para a moeda de preço à moeda de cobrança. |
