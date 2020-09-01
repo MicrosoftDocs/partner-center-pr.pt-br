@@ -7,25 +7,25 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: b84d66c9eb623d043e1110cbd9223d6745f571b3
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: 76bf9cf147c27a562962dcff3baa0ff34cf959b2
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303292"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220774"
 ---
 # <a name="prepare-your-proof-of-execution"></a>Preparar o comprovante de execução
 
-Aplica-se a:
+**Aplica-se a:**
 
 - Partner Center
 
-Antes de ser pago pelo trabalho de seus incentivos, você deve enviar uma prova de execução detalhada (PoE). Este artigo orienta você pelo processo de criação de uma prova de execução eficaz.
-
-Funções apropriadas:
+**Funções apropriadas:**
 
 - Administrador de incentivos
+
+Antes de ser pago pelo trabalho de seus incentivos, você deve enviar uma prova de execução detalhada (PoE). Este artigo orienta você pelo processo de criação de uma prova de execução eficaz.
 
 ## <a name="how-to-submit-a-poe"></a>Como enviar uma PoE
 
@@ -45,7 +45,7 @@ Funções apropriadas:
    - **Data de início**  A data de execução. Essa data deve estar entre a data de início da campanha e a data de término da campanha.
    - **Valor**  A quantidade da declaração de cooperação.
 
-7. Selecione **Salvar**.
+7. Clique em **Salvar**.
 
 8. Na página de **declaração de nova prova de execução** , insira os campos obrigatórios.
 
@@ -62,7 +62,7 @@ Funções apropriadas:
 
 11. Você também pode carregar **documentos de prova** , se desejar. No campo **prova de documentos** , selecione **arrastar ou procurar arquivos para carregar**. Se você selecionar documentos de prova, deverá adicionar notas explicativas. Quando você tiver adicionado uma anotação, selecione **Salvar**.
 
-12. Insira quaisquer comentários finais antes de enviar sua POE e, em seguida, selecione **Enviar declaração**.
+12. Insira quaisquer comentários finais antes de enviar sua PoE e, em seguida, selecione **Enviar declaração**.
 
 ## <a name="view-the-status-of-a-poe"></a>Exibir o status de uma PoE
 
@@ -80,3 +80,7 @@ Funções apropriadas:
    - Edição
    - Aprovado
    - Rejeitado
+
+## <a name="next-steps"></a>Próximas etapas:
+
+- [Introdução aos incentivos](incentives-get-started-intro.md)

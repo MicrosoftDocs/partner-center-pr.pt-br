@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9118745b19d48d572378df0b32035c9de4d62c99
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 044aae1dd1482f41799acd06c791447a773b4226
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949538"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220085"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gerenciamento de usuário e licença no Partner Center for Microsoft Cloud Germany
 
@@ -44,7 +44,7 @@ Se estiver conectado ao Partner Center do Microsoft Cloud Alemanha, você poder�
 Depois de entrar com êxito no portal do Azure do Microsoft Cloud Alemanha, abra sua página de visão geral do Azure Active Directory (Azure AD) e siga as instruções destes tópicos:
 
 > [!NOTE]  
-> Selecionar os links abaixo irá levá-lo para um site diferente. 
+> Selecionar os links abaixo irá levá-lo para um site diferente.
 
 -  [Adicionar novos usuários ao Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
@@ -52,10 +52,7 @@ Depois de entrar com êxito no portal do Azure do Microsoft Cloud Alemanha, abra
 
 -  [Redefinir a senha de um usuário no Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-**Tópicos relacionados**
+## <a name="next-steps"></a>Próximas etapas
 
 -  [Microsoft Azure Alemanha](https://azure.microsoft.com/global-infrastructure/germany/)
-
 -  [Partner Center do Microsoft Cloud Alemanha](partner-center-for-microsoft-cloud-germany.md)
-
-

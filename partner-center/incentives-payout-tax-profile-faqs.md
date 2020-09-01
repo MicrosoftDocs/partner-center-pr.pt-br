@@ -1,19 +1,19 @@
 ---
 title: Perguntas frequentes sobre o pagamento de incentivos e o perfil fiscal
 ms.topic: article
-ms.date: 07/21/2020
+ms.date: 08/31/2020
 description: Perguntas frequentes sobre o pagamento de incentivos e perfis de impostos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 29c77cd06964bf00e7506738c92f5764a678e605
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: b6e66605c0afcf460fffd5d31c14b5e150ff495a
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303142"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220524"
 ---
 # <a name="incentives-payout-and-tax-profile-faqs"></a>Perguntas frequentes sobre o pagamento de incentivos e o perfil fiscal
 
@@ -39,7 +39,7 @@ Talvez você também precise fornecer informações atualizadas se as regras do 
 
 ## <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>Como posso fornecer/atualizar meus detalhes de pagamento e/ou imposto?
 
-Para obter informações detalhadas sobre como atualizar os detalhes de pagamento e imposto no Partner Center, confira [Como criar e gerenciar perfis bancários e fiscais no Partner Center](https://support.microsoft.com/help/4524534/how-to-create-and-manage-bank-and-tax-profiles-in-partner-center).
+Para obter informações detalhadas sobre como atualizar os detalhes de pagamento e impostos no Partner Center, consulte [criar e gerenciar perfis de pagamento e de impostos no Partner Center](https://docs.microsoft.com/partner-center/incentives-create-and-manage-your-payout-and-tax-profiles.md).
 
 ## <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>Por que não vejo meus registros ao atribuir meu perfil de pagamento e imposto?
 
@@ -49,7 +49,7 @@ Somente os administradores de incentivos do seu local de MPN podem criar ou gere
 
 Use o procedimento a seguir para ver os perfis de pagamento e de impostos:
 
-1. Faça logon no [painel do Partner Center](https://partner.microsoft.com/dashboard).
+1. Entre no [painel do Partner Center](https://partner.microsoft.com/dashboard).
 
 2. Selecione o ícone de engrenagem para abrir o menu de **Configurações**.
 

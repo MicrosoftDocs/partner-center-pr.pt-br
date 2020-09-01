@@ -9,12 +9,12 @@ ms.author: shganesh
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cc14a98d6460fc330564317c1bf089e53438a1d0
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 2b43b09f8717169c40f6d0a96db5371c2eeebd11
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998361"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220694"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Use a análise para analisar o desempenho de seus revendedores indiretos
 
@@ -69,6 +69,18 @@ Estamos monitorando as seguintes métricas:
  - **Localização**: mercados onde os revendedores indiretos operam  
  - **Assinaturas**: número de assinaturas que o revendedor vendeu  
  - **Licenças**: número total de licenças vendidas pelo revendedor em todas as assinaturas  
+
+**Status assinado por MPA**
+
+Esta seção fornece o status do status da MPA assinado dos revendedores indiretos do CSP.
+
+ - **Nome do revendedor**: nome do revendedor indireto do CSP
+ - **ID de MPN**: ID de MPN do revendedor indireto
+ - **Região**: região em que o revendedor indireto Opera
+ - **Status do MPN habilitação**: habilitação status do revendedor indireto
+ - **Status assinado por MPa**: status de assinatura de MPa para o revendedor indireto
+
+Clique no ícone de download no gráfico para baixar os dados de status assinados do MPA com dimensões adicionais
   
 ## <a name="next-steps"></a>Próximas etapas
 

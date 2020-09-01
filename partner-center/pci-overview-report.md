@@ -9,16 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 54315583dcecc745eb5525dc84504ce603b9eb7d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 91075e8aab1759904a1549dd38bee6fb886c1c65
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436695"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220484"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Visão geral dos relatórios do painel disponíveis em informações do Partner Center
  
-O painel Visão geral do insights fornece uma exibição de instantâneo dos principais indicadores de desempenho, como clientes, assinaturas, receita de consumo do Azure, licenças etc. Você pode visualizar os gráficos a seguir no relatório de visão geral. 
+O painel Visão geral do insights fornece uma exibição de instantâneo dos principais indicadores de desempenho, como clientes, assinaturas, receita de consumo do Azure, licenças etc. Você pode visualizar os gráficos a seguir no relatório de visão geral.
 
 - Resumo  
 - Distribuição geográfica de seus clientes, assinaturas e licenças  
@@ -27,58 +27,85 @@ O painel Visão geral do insights fornece uma exibição de instantâneo dos pri
 - Tendência de crescimento da receita consumida pelo Azure 
 - Tendência de crescimento de licenças 
 
-**Resumo**
+## <a name="summary"></a>Resumo
 
-- Clientes: a contagem atual de todos os clientes, com pelo menos uma assinatura ativa, à qual sua empresa está associada por meio de diferentes tipos de atribuição em todos os produtos de nuvem. 
-- % De crescimento de clientes durante o intervalo de datas selecionado 
-
-O micro gráfico apresenta a tendência mês a mês da contagem de clientes em relação ao intervalo de datas selecionado. 
-
- 
-- Receita consumida do Azure (ACR): receita total consumida do Azure (US $) atribuída a você durante o crescimento do intervalo de datas selecionado ou recusa% do ACR atribuído US $ durante o intervalo de datas selecionado.
-
-O micro Chart apresenta uma tendência mensal de ACR US $ atribuído a você no intervalo de datas selecionado 
->[!Note] 
->Os dados de receita consumida do Azure (ACR) estão disponíveis para usuários que receberam a função de visualizador de relatórios executivos 
- 
-- Assinaturas: contagem total atual de assinaturas de produtos de nuvem (ativas e inativas) vendidas ou gerenciadas por você.  
-O crescimento ou o declínio de% das assinaturas durante o intervalo de datas selecionado micro gráfico apresenta a tendência mês a mês da contagem total de assinaturas no intervalo de datas selecionado. 
- 
-- Assinaturas ativas: contagem atual de assinaturas de produtos de nuvem com uso ativo medido com base na telemetria do produto. Isso exclui todas as assinaturas de avaliação no caso de assinaturas do Azure.  
-O% de crescimento das assinaturas ativas no intervalo de datas selecionado micro gráfico apresenta a tendência mês a mês das assinaturas ativas no intervalo de datas selecionado 
- 
-- Licenças implantadas: contagem de todas as licenças de produtos de nuvem implantadas em suas assinaturas de cliente no período de tempo selecionado. Crescimento ou declínio de% dessas licenças durante o intervalo de datas selecionado. O micro Chart apresenta a tendência mês a mês da contagem de licenças atribuídas sobre o intervalo de datas selecionado.
+O resumo inclui informações sobre clientes, ACR (receita consumida do Azure), assinaturas vendidas, assinaturas ativas e licenças implantadas. 
 
 :::image type="content" source="images/pci/summary.png" alt-text="Licenças de resumo":::
 
-**Distribuição geográfica de seus clientes, assinaturas e licenças** 
+Consulte abaixo para obter mais informações sobre cada seção do resumo.
+
+### <a name="customers"></a>Clientes
+
+A área **clientes** inclui:
+
+- A contagem atual de todos os clientes com pelo menos uma assinatura ativa associada à sua empresa por meio de diferentes tipos de atribuição e em todos os produtos de nuvem.
+- O percentual de crescimento de clientes durante o intervalo de datas selecionado.
+- O micro gráfico apresenta a tendência mês a mês da contagem de clientes dentro do intervalo de datas selecionado.
+
+### <a name="azure-consumed-revenue-acr"></a>Receita consumida do Azure (ACR)
+
+A área de **receita consumida do Azure (ACR)** no resumo inclui:
+
+- A receita total consumida do Azure (em US $) atribuída a você no intervalo de datas selecionado.
+- O percentual de crescimento ou declínio no ACR atribuído (em US $) durante o intervalo de datas selecionado.
+- O micro Chart apresenta uma tendência mensal de ACR US $ atribuído a você no intervalo de datas selecionado 
+
+> [!NOTE]
+> Os dados de receita consumida do Azure (ACR) estão disponíveis para usuários que receberam a função de visualizador de relatórios executivos 
+ 
+### <a name="subscriptions-sold"></a>Assinaturas vendidas
+
+A área de **assinaturas vendidas** no resumo inclui:
+
+- A contagem total atual de assinaturas de produtos de nuvem (ativas e inativas) vendidas ou gerenciadas por você.  
+- O percentual de crescimento ou declínio nas assinaturas durante o intervalo de datas selecionado.
+- O micro gráfico apresenta a tendência de mês a mês do total de assinaturas no intervalo de datas selecionado.
+
+### <a name="active-subscriptions"></a>Assinaturas ativas
+
+A área de **assinaturas ativas** no resumo inclui:
+
+- A contagem atual de assinaturas de produtos de nuvem com uso ativo medido com base na telemetria do produto. Isso exclui todas as assinaturas de avaliação no caso de assinaturas do Azure.  
+- O percentual de crescimento de assinaturas ativas no intervalo de datas selecionado.
+- O micro gráfico apresenta a tendência mês a mês das assinaturas ativas no intervalo de datas selecionado.
+ 
+### <a name="licenses-deployed"></a>Licenças implantadas
+
+A área de **licenças implantadas** no resumo inclui:
+ 
+- A contagem de todas as licenças de produtos de nuvem implantadas em suas assinaturas de cliente no período de tempo selecionado. 
+- O percentual de crescimento ou declínio dessas licenças durante o intervalo de datas selecionado. 
+- O micro Chart mostra a tendência mês a mês dessa contagem de licenças atribuídas no intervalo de datas selecionado.
+
+## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Distribuição geográfica de seus clientes, assinaturas e licenças
 
 Essa exibição é uma distribuição geográfica do total de clientes, assinaturas e licenças por país do cliente. Clique nas guias diferentes para exibir cada uma dessas informações sobre o mapa. Você pode pesquisar e selecionar um país na grade para aplicar zoom ao local no mapa. Reverta para a exibição original pressionando o botão página inicial no mapa. Clicar em cada guia (por exemplo, clientes, assinaturas) mostra o valor da métrica para cada país, bem como o% do total do país.  
 
 :::image type="content" source="images/pci/geosummary.png" alt-text="Resumo geográfico":::
 
-**Tendência de crescimento dos clientes**
+## <a name="customers-growth-trend"></a>Tendência de crescimento dos clientes
 
 Tendência mensal de contagens totais de clientes para o intervalo de datas selecionado. O eixo X representa meses do intervalo de datas selecionado e eixo Y representa a contagem total de clientes para esse mês. 
 
 :::image type="content" source="images/pci/customergrowth.png" alt-text="tendência de crescimento dos clientes":::
 
-**Tendência de crescimento de assinaturas**
+## <a name="subscriptions-growth-trend"></a>Tendência de crescimento de assinaturas
 
 Isso indica a tendência de sua contagem de assinaturas de cliente para o intervalo de datas selecionado. Eixo X representa meses do intervalo de datas selecionado e eixo Y representa a contagem de assinaturas do produto selecionado. Percorra o controle deslizante na parte superior do gráfico para aplicar zoom no gráfico para um período de tempo específico. 
 
 :::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Tendência de crescimento da assinatura":::
 
-**Tendência de crescimento da receita consumida pelo Azure**
+## <a name="azure-consumed-revenue-growth-trend"></a>Tendência de crescimento da receita consumida pelo Azure
 
 Tendência mensal de receita consumida pelo Azure US $ atribuída a você no intervalo de datas selecionado. O eixo X representa os meses do intervalo de datas selecionado e o eixo Y representa a receita total consumida do Azure US $ atribuídas a você durante o mês.
-   
->[!Note] 
->A receita consumida do Azure (ACR) só ficará visível para os usuários aos quais foi atribuída a função de visualizador de relatórios executivos. 
+
+> [!NOTE]
+> A receita consumida do Azure (ACR) só ficará visível para os usuários aos quais foi atribuída a função de visualizador de relatórios executivos. 
 
 :::image type="content" source="images/pci/azureconsumed.png" alt-text="Consumo do Azure":::
 
-**Tendência de crescimento de licenças**
+## <a name="licenses-growth-trend"></a>Tendência de crescimento de licenças
  
 Tendência de licenças atribuídas por todos os clientes durante o intervalo de datas selecionado. Eixo X representa meses do intervalo de datas selecionado e eixo Y representa a contagem de licenças do produto que você selecionou. Percorra o controle deslizante na parte superior do gráfico para aplicar zoom no gráfico para um período de tempo específico.  
 
@@ -86,4 +113,4 @@ Tendência de licenças atribuídas por todos os clientes durante o intervalo de
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- Para obter mais relatórios, consulte os [insights do Partner Center](partner-center-insights.md).
+Para obter mais relatórios, consulte os [insights do Partner Center](partner-center-insights.md).

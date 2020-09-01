@@ -9,12 +9,12 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: b6daf2c2c7cadd52cd90ce3a25c9a7a681522d24
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 001d047e37bde14ac99de680ef4f59e136282120
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436115"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220684"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analise assinaturas e licenças para ajudá-lo a impulsionar decisões de negócios e novas metas
 
@@ -32,11 +32,9 @@ ms.locfileid: "86436115"
 
 Os dados impulsionam as decisões de negócios. Use as métricas na página **Análise de assinatura e licença** para identificar seu êxitos e as áreas que precisam de mais atenção. Use essas informações ao planejar novas metas de negócios.
 
-> [!NOTE]
-> A análise de licença de assinatura está disponível somente para parceiros no programa Provedor de Soluções na Nuvem.
+**Receita TTM do CSP (USD)**: essa métrica representa a receita cobrada do CSP agregada (USD) para os doze meses à direita (TTM) para as contas de local do parceiro e a conta global do parceiro (PGA) à qual esta conta do CSP está associada. Se você tiver outras contas de CSP com um PGA diferente, deverá entrar em cada uma delas para exibir a receita de TTM agregada correspondente.  Clique no link detalhes de download para obter uma análise da receita de TTM (USD) por ID de MPN.
 
-
-Esse relatório pode ser dinâmico com base nos produtos a seguir:
+O restante do relatório pode ser dinamizado com base nos seguintes produtos:
 
  - **Dynamics 365**: dados do Dynamics 365  
  - **EMS**: dados de Serviços de Gerenciamento Empresarial  

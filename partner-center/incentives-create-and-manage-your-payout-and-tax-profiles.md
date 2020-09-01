@@ -1,33 +1,33 @@
 ---
 title: Criar e gerenciar perfis fiscais e de pagamento no Partner Center
 ms.topic: how-to
-ms.date: 08/13/2020
+ms.date: 08/31/2020
 description: Antes que você possa ser pago pelo trabalho de seus incentivos, você precisa criar seus perfis de pagamento e de impostos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 6bf2f70bac6cbabcc0e4267585a23e1b74916c06
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: e85401983e60f4d8143f8a056539edd8ecaa4dcb
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303272"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220794"
 ---
 # <a name="payout-and-tax-profiles-in-partner-center"></a>Perfis de pagamento e impostos no Partner Center
 
-Aplica-se a:
+**Aplica-se a:**
 
 - Partner Center
 
-Antes de receber o pagamento de seus programas de incentivo para um local de MPN específico, você deve concluir o registro associando um perfil de pagamento e imposto válido ao programa e ao local de MPN. A Microsoft usará este perfil de pagamento e imposto para emitir pagamentos. Você pode usar transferência bancária eletrônica ou uma nota de crédito para pagamento, dependendo das regras do programa de incentivo. 
-
-Funções apropriadas:
+**Funções apropriadas:**
 
 - Administrador de incentivos
 - Administrador de cobrança
 - Administrador global
+
+Antes de receber o pagamento de seus programas de incentivo para um local de MPN específico, você deve concluir o registro associando um perfil de pagamento e imposto válido ao programa e ao local de MPN. A Microsoft usará este perfil de pagamento e imposto para emitir pagamentos. Você pode usar transferência bancária eletrônica ou uma nota de crédito para pagamento, dependendo das regras do programa de incentivo. 
 
 ## <a name="roles-currencies-and-other-microsoft-programs"></a>Funções, moedas e outros programas da Microsoft
 
@@ -37,7 +37,7 @@ Funções apropriadas:
 
 Você deve ser um administrador de incentivos para inserir informações bancárias e de impostos para pagamentos de incentivos. Se você for um administrador de MPN/conta, você pode atribuir a si mesmo e/ou um colega para ser o administrador de incentivos.
 
-Se você precisar solicitar as permissões de administrador de incentivos, entre em contato com o administrador do MPN ou com o administrador global. Você pode descobrir quem em sua empresa tem essas funções no painel do [Partner Center](https://partner.microsoft.com/dashboard/). No ícone de **configurações** no canto superior direito, selecione **Gerenciamento de usuários** e filtre o administrador global.
+Se você precisar solicitar as permissões de administrador de incentivos, entre em contato com o administrador do MPN ou com o administrador global. Você pode descobrir quem em sua empresa tem essas funções entrando no [painel do Partner Center](https://partner.microsoft.com/dashboard/). No ícone de **configurações** no canto superior direito, selecione **Gerenciamento de usuários** e filtre o administrador global.
 
 Os incentivos podem exibir os ganhos de incentivos e os detalhes e relatórios de pagamento, mas não podem editar os detalhes bancários e de imposto.
 
@@ -58,11 +58,11 @@ No varejo, os pagamentos para cada um dos cinco programas de incentivos de varej
 As seções abaixo guiarão você pelo processo de criação e gerenciamento de perfis de pagamento e impostos no Partner Center.
 
 >[!IMPORTANT]
->Você deve ser um administrador de incentivos para criar ou gerenciar perfis de pagamento no Partner Center. As funções de incentivo devem ser atribuídas a cada local MPN em cada programa de incentivo. Para obter mais informações sobre como adicionar administradores de incentivos no Partner Center, consulte [como adicionar usuários de incentivo ou administradores no Partner Center](https://support.microsoft.com/help/3011450/how-to-add-incentive-users-or-admins-in-partner-center).
+>Você deve ser um administrador de incentivos para criar ou gerenciar perfis de pagamento no Partner Center. As funções de incentivo devem ser atribuídas a cada local MPN em cada programa de incentivo. Para obter mais informações sobre como adicionar administradores de incentivos no Partner Center, consulte [criar contas de usuário](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions).
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>Acessar a seção pagamento e impostos no Partner Center
 
-1. Faça logon no Partner Center usando sua conta do Azure Active Directory (Azure AD) (conta da empresa) ou o endereço de email apropriado, se um tiver sido atribuído. 
+1. Entre no [painel do Partner Center](https://partner.microsoft.com/dashboard/) usando sua conta do Azure Active Directory (Azure AD) (conta da empresa) ou o endereço de email apropriado, se um tiver sido atribuído.
 
    - Vários domínios podem ser registrados em uma conta do Azure AD. Entre em contato com seu administrador global para determinar quais domínios estão associados.
    - Se você só puder fazer logon com o @onmicrosoft.com domínio, entre em contato com o administrador da conta para adicionar outros domínios à conta do Azure AD.
@@ -74,7 +74,7 @@ As seções abaixo guiarão você pelo processo de criação e gerenciamento de 
 
 ## <a name="assign-payout-and-tax-profiles-to-individual-programs"></a>Atribuir pagamentos e perfis de impostos a programas individuais
 
-1. No Partner Center, selecione o ícone de engrenagem para abrir o menu **configurações** . 
+1. Entre no [painel do Partner Center](https://partner.microsoft.com/dashboard/)e selecione o ícone de engrenagem para abrir o menu **configurações** . 
 
 2. Selecione **configurações de parceiro**, expanda a **seção pagamento e imposto**e selecione **atribuição de perfil de pagamento e imposto**. 
    

@@ -1,33 +1,33 @@
 ---
-title: Criar o plano
+title: Criar seu plano de incentivos
 ms.topic: article
-ms.date: 06/29/2020
+ms.date: 08/31/2020
 description: Reúna e crie as informações necessárias para gerar um plano de marketing bem-sucedido para seu programa de incentivos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 70740341211f5386882e7be05ce9cb921f0be8dd
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 018caf14a7ccc4c7e5e63e25d48c57df923af5a3
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303242"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220624"
 ---
-# <a name="create-your-plan"></a>Criar o plano
+# <a name="create-your-incentives-plan"></a>Criar seu plano de incentivos
 
-Aplica-se a:
+**Aplica-se a:**
 
 - Partner Center
 
-Um plano de declarações de cooperação é a série de campanhas de marketing, atividades e outros detalhes que descrevem como você tornará o seu programa um sucesso. Depois de criar seu plano, você o enviará à Microsoft para aprovação. 
-
-Funções apropriadas:
+**Funções apropriadas:**
 
 - Administrador de incentivos
 - Administrador de cobrança
 - Administrador global
+
+Um plano de declarações de cooperação é a série de campanhas de marketing, atividades e outros detalhes que descrevem como você tornará o seu programa um sucesso. Depois de criar seu plano, você o enviará à Microsoft para aprovação.
 
 ## <a name="create-your-incentives-plan"></a>Criar seu plano de incentivos
 
@@ -46,7 +46,7 @@ Para obter mais informações sobre planos para seu programa de incentivos espec
 
 3. Na página **programa** , localize o mercado apropriado para seu plano e, em seguida, selecione **criar plano**. 
 
-4. Na página **novo plano** , preencha os campos obrigatórios. **Moeda** é o valor que você deseja que o plano reflita. O **email do revisor** deve ser o endereço de email da Microsoft do seu gerente de conta. Observe que apenas um plano pode ser criado por ID do MPN, fundo, programa e período. Selecione **Salvar**.
+4. Na página **novo plano** , preencha os campos obrigatórios. **Moeda** é o valor que você deseja que o plano reflita. O **email do revisor** deve ser o endereço de email da Microsoft do seu gerente de conta. Observe que apenas um plano pode ser criado por ID do MPN, fundo, programa e período. Clique em **Salvar**.
 
 5. Na página de status do plano, examine as informações exibidas. Selecione **Editar** para atualizar qualquer uma das informações.
 
@@ -93,3 +93,7 @@ A Microsoft paga a você todos os meses com base em seus ganhos e nos limites do
 Por exemplo, se seu plano for aprovado para US$ 10.000 e você ganhou US$ 5.000 no mês de abril, você receberá US$ 5.000 em 15 de maio.
 
 No mesmo plano, se você ganhar US$ 15.000 no mês de abril, receberá US$ 10.000 em 15 de maio porque US$ 10.000 foi o limite para seu plano. Para receber mais pagamentos, você precisa aumentar o limite do seu plano para o próximo mês.
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Preparar o comprovante de execução](incentives-prepare-your-proof-of-execution.md)

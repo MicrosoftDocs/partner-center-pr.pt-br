@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c8a6c5fc3a087c97b2ad19b2067027bab24ac15b
-ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
+ms.openlocfilehash: 8d03533d69df4600879dbc90622b640a932ab069
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88239034"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220464"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de competências disponível no painel do Partner Center insights
 
@@ -26,15 +26,18 @@ ms.locfileid: "88239034"
 
 As competências permitem que sua empresa demonstre a capacidade técnica de fornecer soluções da Microsoft. As competências da Microsoft foram projetadas para atender às necessidades de seus clientes e demonstrar sua experiência aos clientes potenciais. Eles vêm com uma infinidade de benefícios da Microsoft, como quantidades incluídas de consumo do Azure, direitos para produtos de nuvem, como O365, suporte técnico, ofertas de entrada no mercado, etc. Atualmente, há um total de 19 competências nas seguintes categorias: **aplicativo e infraestrutura**, **aplicativos de negócios**, **dados e ia** e **local de trabalho moderno**. As competências estão em camadas em níveis prata ou dourados, por exemplo. Há uma barra mais alta para competência Gold e um nível mais alto associado de recursos de marketing, ofertas e programas disponíveis.  
 
-**Ciclo de vida de competência**
+Você obterá mais uso do relatório de competência se aprender mais sobre o ciclo de vida da competência, a obtenção de competência e outros detalhes do relatório de competência.
+
+## <a name="competency-life-cycle"></a>Ciclo de vida de competência
 
 Do ponto de vista do ciclo de vida, os parceiros começam criando os KPIs (indicadores chave de desempenho) necessários para alcançar competências específicas. Depois que eles atingirem o limite definido para uma determinada competência em todas as métricas necessárias, eles se tornarão **qualificados** para uma competência. Os parceiros podem então pagar pela oferta de competência (prata ou ouro) para obter a competência e tornar-se **ativo** nessa competência. O status **ativo** de competência é válido por um ano a partir da data de obtenção da competência (isso é chamado de **data de aniversário** para a competência). No final do ano de aniversário, os parceiros precisam atender aos requisitos de competência. Se eles não atenderem a esses requisitos novamente, eles perderão a competência. Um status **at de risco** para uma competência obtida anteriormente significa que determinadas métricas-chave são projetadas para ficarem abaixo do limite nessa **data de aniversário**de competências.
 
-**Obtenção de competência**
+## <a name="competency-attainment"></a>Obtenção de competência
 
 Cada competência tem um conjunto específico de requisitos para atender. Os requisitos de competência de nuvem se enquadram em duas categorias: habilidades e desempenho.
 
 - Habilidades: os requisitos geralmente incluem exames, avaliações ou certificações que os indivíduos de sua empresa devem passar.
+
 - Desempenho: para ser qualificado para uma competência, sua empresa deve atender a determinados limites de desempenho alinhados à área de competência. Por exemplo, sua empresa pode precisar atender a uma quantidade mínima de consumo do Azure durante os 12 meses à direita.
 
 ## <a name="competencies-report-details"></a>Detalhes do relatório de competências
@@ -46,9 +49,9 @@ Você pode ver as seguintes seções do relatório competências:
 - Histórico de competência
 
  > [!NOTE]
- > Esse relatório está disponível no painel de informações. Para exibir esse relatório, você deve ser atribuído a uma função específica no Partner Center, como administrador global, administrador da conta, visualizador de relatórios ou Visualizador de relatórios do Executive. Para obter mais informações, consulte o administrador global da sua empresa. Tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de visualizador de relatórios executivos.
+ > Esse relatório está disponível no painel de informações. Para exibir esse relatório, você deve ser atribuído a uma função específica no Partner Center, como administrador global, administrador da conta, visualizador de relatórios ou Visualizador de relatórios do Executive. Para obter mais informações, consulte o administrador global da sua empresa. os tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de visualizador de relatórios executivos.
 
-**Resumo**
+### <a name="summary"></a>Resumo
 
 A exibição de resumo apresenta uma contagem de competências com seus nomes em cada nível de competência (ouro/prata) em todos os estágios do ciclo de vida de competência. Os estágios do ciclo de vida de competência incluem: **iniciado**, **qualificado**, **ativo**e **em risco**. Exemplo: os requisitos de competência de nuvem se enquadram em duas categorias: habilidades e desempenho.
 
@@ -64,7 +67,7 @@ Divisão das competências (por nível de competência, como prata/ouro, com nom
 
 :::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="Resumo de competências":::
 
-**Análise da métrica de competência**
+### <a name="competency-metric-analysis"></a>Análise da métrica de competência
 
 Essa exibição mostra o status das métricas de competência em relação aos limites necessários para que os parceiros obtenham/mantenham a competência no nível prata/ouro. 
 
@@ -78,7 +81,7 @@ O relatório pode ser dinamizado pelos seguintes intervalos de data:
 > [!NOTE]
  > Nem todas as métricas são abordadas na análise. Atualmente, as métricas associadas ao aprendizado e à certificação não têm suporte no relatório competências. As competências de Business Applications de nuvem (CBA) também não têm suporte na análise de métrica para o status de competência **ativa** .
 
-**Histórico de competência**
+### <a name="competency-history"></a>Histórico de competência
 
 Esta exibição mostra uma tabela detalhada de todas as competências que você atingiu até agora, com o nível de competência e o estágio de competência.
 

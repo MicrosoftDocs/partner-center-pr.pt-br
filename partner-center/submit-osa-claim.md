@@ -1,7 +1,7 @@
 ---
 title: Criar uma associação de cliente por meio do modelo CPOR
 ms.topic: article
-ms.date: 08/26/2020
+ms.date: 08/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Crie associações de clientes por meio do modelo CPOR (reivindicação de parceiro de registro). Ajuda a gerenciar vendas, uso & incentivos para clientes Microsoft 365 e Dynamics 365.
@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d5c71bf5c5461abaa7d86a19711ad941e0e8a4ff
-ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
+ms.openlocfilehash: d5b14759803beb73cc970bf5fb96747048b8bdc1
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "88942548"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220364"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Criar uma associação de cliente por meio do modelo CPOR – use para clientes Microsoft 365 e Dynamics 365
 
@@ -22,11 +22,14 @@ ms.locfileid: "88942548"
 
 - Partner Center
 
+**Funções apropriadas:**
+
+- Administrador de incentivos
+
 Em 1º de outubro de 2019, a Microsoft começou a usar o modelo de CPOR (parceiro de registro) para gerenciar as associações que você tem com os clientes do Microsoft 365 e do Dynamics 365, com relação ao incentivo (comunicado de serviços online), OSU (gerenciamento de serviços online)-Microsoft 365 e OSU de aplicativos de negócios.
 
->[! Importante:] as declarações de CPOR (Associação de cliente) se aplicam apenas aos programas de incentivo de venda de serviços online (OSA), OSU (uso de serviços online)-Microsoft 365 e OSU-Business. Se você estiver enviando uma declaração de cooperação para outro programa, como provedor de soluções de nuvem, revendedor gerenciado, hospedagem ou superfície, consulte o processo de declarações de cooperação descrito aqui.
-
-Quando você envia sua declaração, a Microsoft a valida. Poderemos solicitar mais informações neste ponto. Também notificaremos o cliente sobre sua solicitação de associação. Os clientes têm cinco dias úteis para recusar. Se eles não recusarem, sua associação com esse locatário e carga de trabalho específicos será oficial. Neste ponto, você terá acesso aos dados de uso do cliente. 
+>[!Important]
+> As declarações de CPOR (Associação de cliente) se aplicam apenas aos programas de incentivo de venda de serviços online (OSA), uso de serviços online (OSU)-Microsoft 365 e OSU-aplicativos de assessoria de negócios. Se você estiver enviando uma declaração de cooperação para outro programa, como provedor de soluções de nuvem, revendedor gerenciado, hospedagem ou superfície, consulte o processo de declarações de cooperação descrito aqui. <br><br>Quando você envia sua declaração, a Microsoft a valida. Poderemos solicitar mais informações neste ponto. Também notificaremos o cliente sobre sua solicitação de associação. Os clientes têm cinco dias úteis para recusar. Se eles não recusarem, sua associação com esse locatário e carga de trabalho específicos será oficial. Neste ponto, você terá acesso aos dados de uso do cliente. 
 
 Você precisará das seguintes informações para concluir uma declaração:
 
@@ -50,7 +53,7 @@ Você precisará das seguintes informações para concluir uma declaração:
 
 - Os **produtos** ou as cargas de trabalho que você está reivindicando
 
-- **Poe (prova de execução)**, como uma declaração de trabalho assinada pelo cliente. Você também pode baixar um modelo POE para usar o.
+- **Poe (prova de execução)**, como uma declaração de trabalho assinada pelo cliente. Você também pode baixar um modelo PoE para usar o.
 
 - Para parceiros que alegam somente Associação de receita: **nome do vendedor da solução Dynamics**, **nome do cliente**e **nome do produto/solução ISV**. 
 
@@ -64,34 +67,35 @@ Você também deve entender os seguintes pontos:
 
 ## <a name="create-a-customer-association"></a>Criar uma associação de cliente
 
-1. No painel do Partner Center, em **incentivos**, selecione **visão geral**e, em seguida, selecione **associações de cliente**. 
+1. Entre no painel [Partner Center](https://partner.microsoft.com/dashboard/).
 
-2. Na parte superior da página associações do cliente, selecione **+ Associação de cliente**.
+2. Selecione a guia **incentivos** , selecione **visão geral**e, em seguida, selecione **associações de cliente**.
 
-3. Selecione o **ID do MPN** do local do parceiro a ser associado ao cliente e, em seguida, adicione o nome de domínio e a ID do diretório do cliente. [Localizar isso](find-domain-name.md)
+3. Na parte superior da página associações do cliente, selecione **+ Associação de cliente**.
 
-4. Selecione **Continuar**.
+4. Selecione o **ID do MPN** do local do parceiro a ser associado ao cliente e, em seguida, adicione o nome de domínio e a ID do diretório do cliente. [Localizar isso](find-domain-name.md)
 
-5. Selecione a **área da solução** e a **atividade**. 
+5. Selecione **Continuar**.
+
+6. Selecione a **área da solução** e a **atividade**. 
 
    >[!Note]
    >
    >Se você selecionar Business Applications, selecione **uso e/ou pré-vendas**ou associação de **receita**e, em seguida, selecione **continuar**. 
+   <br><br>Se você escolher Associação de Receita, será solicitado a fornecer informações ligeiramente diferentes das que estão listadas abaixo.
 
-   >Se você escolher Associação de Receita, será solicitado a fornecer informações ligeiramente diferentes das que estão listadas abaixo.
+7. Insira as informações apropriadas na página **associar cliente** e, em seguida, selecione **criar declaração**.
 
-6. Insira as informações apropriadas na página **associar cliente** e, em seguida, selecione **criar declaração**.
+8. Selecione os produtos associados a essa associação de cliente e selecione **continuar**.
 
-7. Selecione os produtos associados a essa associação de cliente e selecione **continuar**.
-
-8. Preencha as informações de contato do cliente e da sua empresa. Todos os campos são obrigatórios. 
+9. Preencha as informações de contato do cliente e da sua empresa. Todos os campos são obrigatórios. 
 
    >[!NOTE]
    >Se o seu produto for o Dynamics 365 e o produto escolhido tiver várias assinaturas para esse cliente específico, você também precisará inserir a ID da assinatura.
 
-9. Envie a sua PoE (prova de execução). Você pode arrastá-la para a caixa, navegar até sua própria documentação de apoio ou usar um modelo selecionando **Baixar modelo**. 
+10. Forneça a sua PoE (prova de execução). Você pode arrastá-la para a caixa, navegar até sua própria documentação de apoio ou usar um modelo selecionando **Baixar modelo**. 
 
-10. Adicione e salve comentários, se desejar, e, em seguida, escolha **Enviar declaração**. Enviaremos um email para o cliente solicitando aprovação da sua associação de cliente.
+11. Adicione e salve comentários, se desejar, e, em seguida, escolha **Enviar declaração**. Enviaremos um email para o cliente solicitando aprovação da sua associação de cliente.
 
    >[!NOTE]
    >Depois de enviar sua associação de cliente, você não poderá editá-la.
@@ -99,3 +103,7 @@ Você também deve entender os seguintes pontos:
 O status da sua associação de cliente aparece no campo **Status**.
 
 Selecione **Histórico** para ver o histórico de uma associação de cliente.
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Gerenciar associações do cliente](incentives-manage-customer-associations.md)

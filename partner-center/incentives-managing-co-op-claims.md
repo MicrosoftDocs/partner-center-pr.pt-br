@@ -7,25 +7,25 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: c3bb6bc8c1d59caae278863974524a5946fecf6c
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: c21875f53c4263fd21c0e12e9ec3347bc0e07278
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303192"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220534"
 ---
 # <a name="manage-co-op-claims"></a>Gerenciar declarações de cooperação
 
-Aplica-se a:
+**Aplica-se a:**
 
 - Partner Center
 
-O conteúdo a seguir fornece informações para gerenciar as declarações de cooperação, incluindo cronogramas, regras e como contestar uma declaração de cooperação rejeitada.
-
-Funções apropriadas:
+**Funções apropriadas:**
 
 - Administrador de incentivos
+
+O conteúdo a seguir fornece informações para gerenciar as declarações de cooperação, incluindo cronogramas, regras e como contestar uma declaração de cooperação rejeitada.
 
 ## <a name="co-op-claims-approval-and-payment-deadlines"></a>Aprovação e prazos de pagamento das solicitações de cooperação
 
@@ -72,3 +72,7 @@ Se for determinado que os materiais fornecidos com sua declaração de cooperaç
 4. Na parte inferior da página, selecione **Contestar**.
 
 A equipe de validação das declarações de cooperação analisará a declaração em cinco dias úteis. Durante esse tempo, o status será exibido como **Contestado**. Podemos entrar em contato com você para solicitar informações adicionais. Quando a revisão é concluída, a equipe de validação atualiza o status para **Aprovada**, **Rejeitada** ou **Requer ação do parceiro**.
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Introdução aos incentivos](incentives-get-started-intro.md)

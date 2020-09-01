@@ -1,5 +1,5 @@
 ---
-title: Gerenciar associações do cliente
+title: Gerenciar as associações de clientes de incentivos
 description: Entenda os processos e cronogramas importantes para gerenciar associações de clientes CPOR (parceiro de registro) reivindicadas.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -7,27 +7,27 @@ ms.topic: how-to
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: 6a98d14bbbe614d0d57a3d1032b93b8cd43119e1
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: 6fe9ce95a1e4bfc017888dcdeb95e02deb3f64fe
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303171"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220574"
 ---
-# <a name="manage-customer-associations"></a>Gerenciar associações do cliente
+# <a name="manage-incentives-customer-associations"></a>Gerenciar as associações de clientes de incentivos
 
-Aplica-se a:
+**Aplica-se a:**
 
 - Partner Center
 
-A plataforma reivindicada de CPOR (parceiro de registro) é usada para que os parceiros se associem aos clientes finais para os quais eles estão influenciando o uso ou a compra de produtos da Microsoft. Atualmente, a plataforma CPOR dá suporte aos produtos Business Applications e Microsoft 365. Os parceiros usam esse método de associação para obter informações sobre o desempenho do cliente, receberem pagamentos de incentivos por meio dos programas OSU e OSA e ganharão a associação de receita como um influenciador de negócios.  
-
-Funções apropriadas:
+**Funções apropriadas:**
 
 - Administrador de cobrança
 - Administrador global
 - Administrador de incentivos
+
+A plataforma reivindicada de CPOR (parceiro de registro) é usada para que os parceiros se associem aos clientes finais para os quais eles estão influenciando o uso ou a compra de produtos da Microsoft. Atualmente, a plataforma CPOR dá suporte aos produtos Business Applications e Microsoft 365. Os parceiros usam esse método de associação para obter informações sobre o desempenho do cliente, receberem pagamentos de incentivos por meio dos programas OSU e OSA e ganharão a associação de receita como um influenciador de negócios.  
 
 ## <a name="how-your-cpor-association-claim-relates-to-incentives"></a>Como sua declaração de associação do CPOR se relaciona a incentivos
 
@@ -41,12 +41,12 @@ Se sua declaração de associação do CPOR for aprovada e qualificada para ince
 
 - Enviado: ele estará no estado enviado por até cinco dias úteis até que a Microsoft inicie o processo de aprovação.
 - Em análise: a Microsoft tem cinco dias úteis para tomar uma decisão com base na prova de execução que você fornecer.
-- Ação de parceiro necessária: se um revisor enviar comentários e uma solicitação de informações adicionais, você terá cinco dias úteis para responder. Uma decisão deve ser feita em sua declaração de associação CPOR dentro de 10 dias com base no SLA do revisor mais o tempo necessário para fornecer aos revisores de PoE informações adicionais.
+- Ação de parceiro necessária: se um revisor enviar comentários e uma solicitação de informações adicionais, você terá cinco dias úteis para responder. Uma decisão deve ser feita em sua declaração de associação CPOR dentro de 10 dias com base no SLA do revisor, além da quantidade de tempo que leva para fornecer revisores de PoE (prova de execução) com informações adicionais.
 - Aprovado: sua declaração de associação do CPOR foi aprovada. Depois que sua associação for aprovada, uma notificação será enviada ao cliente, dando-lhes a oportunidade de negar sua associação. O cliente terá, então, sete dias para recusar. Depois que esse período de consentimento tiver passado, a declaração será enviada para avaliar a qualificação para programas de incentivo.
 
 ## <a name="view-the-status-of-your-cpor-association-claim"></a>Exibir o status de sua declaração de associação do CPOR
 
-Você pode verificar o status da sua declaração de associação do CPOR a qualquer momento usando o [painel associações do cliente](https://partner.microsoft.com/dashboard/incentives/claims/associations).
+Você pode verificar o status da sua declaração de associação do CPOR a qualquer momento usando o [painel de associações do cliente](https://partner.microsoft.com/dashboard/incentives/claims/associations) (entrada necessária).
 
 Aqui estão os status e seus significados:
 
@@ -98,7 +98,7 @@ Outros motivos possíveis para rejeição:
 - Consentimento de cliente ausente na PoE
 - Produtos ausentes
 - Nenhuma resposta de parceiro
-- PoE indisponível 
+- PoE indisponível
 
 ## <a name="edit-your-cpor-association-claim"></a>Editar sua declaração de associação do CPOR
 
@@ -122,3 +122,7 @@ Depois que os revisores tiverem passado por meio de sua PoE, eles poderão deter
 ## <a name="view-claim-history"></a>Exibir histórico de declarações
 
 Na declaração de associação CPOR, no lado superior direito, há um botão de **histórico** que permite que você veja todas as alterações, comentários e ações executadas nessa declaração de uma perspectiva de parceiro e revisor.
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Introdução aos incentivos](incentives-get-started-intro.md)

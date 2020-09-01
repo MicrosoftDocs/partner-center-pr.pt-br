@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f26384f408f7644d577940e22ea43a197c41164f
-ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
+ms.openlocfilehash: 8df91ec4072b1873a240d42fa2382ebcc00b9bc5
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88239054"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220324"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de assinaturas do produto disponível no painel do recepções do Partner Center
 
@@ -36,37 +36,39 @@ Você pode exibir as seções a seguir do relatório de assinaturas de produto.
 - Tendência de produtos
 
  > [!NOTE]
- > Esse relatório está disponível no painel de informações. Para exibir esse relatório, você deve ser atribuído a uma função específica no Partner Center, como administrador global, administrador da conta, visualizador de relatórios ou Visualizador de relatórios do Executive. Para obter mais informações, consulte o administrador global da sua empresa. Tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de visualizador de relatórios executivos.
+ > Esse relatório está disponível no painel de informações. Para exibir esse relatório, você deve ser atribuído a uma função específica no Partner Center, como administrador global, administrador da conta, visualizador de relatórios ou Visualizador de relatórios do Executive. Para obter mais informações, consulte o administrador global da sua empresa. os tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de visualizador de relatórios executivos.
 
-**Resumo**
+## <a name="summary"></a>Resumo
 
 A seção de resumo apresenta uma exibição de instantâneo dos KPIs (indicadores chave de desempenho) relacionados às assinaturas vendidas ou gerenciadas por você para seus clientes.  
 
-- Assinaturas: contagem atual das assinaturas de produtos de nuvem vendidas ou gerenciadas por você.
-Percentual de crescimento ou declínio de assinaturas durante o intervalo de datas selecionado.
+:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="Resumo do relatório de assinaturas":::
 
-O micro Chart apresenta uma tendência do mês a mês da contagem de assinaturas durante o intervalo de datas selecionado.
+Consulte abaixo para obter mais informações sobre cada seção do resumo.
 
-- Assinaturas ativas: contagem atual de assinaturas de produtos de nuvem com uso ativo medido com base na telemetria do produto. Isso exclui todas as assinaturas de avaliação no caso de assinaturas do Azure.
-Percentual de crescimento ou declínio de assinaturas ativas no período de tempo selecionado.
+- Assinaturas:
+  - Contagem atual das assinaturas de produtos de nuvem vendidas ou gerenciadas por você.
+  - Percentual de crescimento ou declínio de assinaturas durante o intervalo de datas selecionado.
+  - O micro Chart apresenta uma tendência do mês a mês da contagem de assinaturas durante o intervalo de datas selecionado.
 
-O micro Chart apresenta uma tendência de mês a mês de assinaturas ativas durante o intervalo de datas selecionado.
+- Assinaturas ativas:
+  - Contagem atual de assinaturas de produtos de nuvem com uso ativo medido com base na telemetria do produto. Isso exclui todas as assinaturas de avaliação no caso de assinaturas do Azure.
+  - Percentual de crescimento ou declínio de assinaturas ativas no período de tempo selecionado.
+  - O micro Chart apresenta uma tendência de mês a mês de assinaturas ativas durante o intervalo de datas selecionado.
 
-- Assinaturas adicionadas: assinaturas de cliente totais adicionadas (vendidas ou gerenciadas) por você durante o intervalo de datas selecionado. Novas assinaturas com estado **ativo** ou **renovado** são contadas como assinaturas adicionadas.
-Percentual de crescimento ou declínio de assinaturas adicionadas no último mês inteiro em comparação com o primeiro mês inteiro.
+- Assinaturas adicionadas:
+  - Total de assinaturas de cliente adicionadas (vendidas ou gerenciadas) por você durante o intervalo de datas selecionado. Novas assinaturas com estado **ativo** ou **renovado** são contadas como assinaturas adicionadas.
+  - Percentual de crescimento ou declínio de assinaturas adicionadas no último mês inteiro em comparação com o primeiro mês inteiro.
+  - O micro Chart apresenta uma tendência mensal de assinaturas adicionadas durante o intervalo de datas selecionado.
 
-O micro Chart apresenta uma tendência mensal de assinaturas adicionadas durante o intervalo de datas selecionado.
-
-- Assinaturas com variação: total de assinaturas do cliente covariadas durante o intervalo de datas selecionado. As assinaturas com o estado **desprovisionado** ou **suspenso** nesse mês são contadas como uma assinatura com rotatividade.  
-Porcentagem de assinaturas com variação durante o intervalo de datas selecionado.
-
-O micro Chart apresenta uma tendência mensal de assinaturas com variação no intervalo de datas selecionado.
+- Assinaturas com variação:
+  - Total de assinaturas de cliente em variação durante o intervalo de datas selecionado. As assinaturas com o estado **desprovisionado** ou **suspenso** nesse mês são contadas como uma assinatura com rotatividade.  
+  - Porcentagem de assinaturas com variação durante o intervalo de datas selecionado.
+  - O micro Chart apresenta uma tendência mensal de assinaturas com variação no intervalo de datas selecionado.
 
 - Assinaturas por produtos: divisão da contagem de assinaturas atual por produtos de nuvem.
 
-:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="Resumo do relatório de assinaturas":::
-
-**Dispersão geográfica de assinaturas**
+## <a name="geographical-spread-of-subscriptions"></a>Dispersão geográfica de assinaturas
 
 A exibição de **assinaturas por geografia** mostra a distribuição geográfica de assinaturas totais por mercados de clientes. O valor total da assinatura inclui assinaturas vendidas e assinaturas ativas.
 
@@ -76,7 +78,7 @@ Você pode pesquisar e selecionar um país na grade para aplicar zoom ao local n
 
 :::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="assinaturas por geografia":::
 
-**Adições/variações de assinatura**
+## <a name="subscription-addschurns"></a>Adições/variações de assinatura
 
 Essa exibição apresenta uma tendência de assinaturas. Elas são divididas em categorias diferentes (novas, existentes, com rotatividade) para o intervalo de datas selecionado. O eixo X representa os meses do intervalo de datas selecionado. O eixo Y representa a contagem de assinaturas. As assinaturas com rotatividade são representadas na escala negativa do eixo Y. 
 
@@ -84,19 +86,19 @@ O gráfico de colunas empilhadas apresenta uma divisão de assinaturas novas, ex
 
 :::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="acréscimos e variações de assinatura":::
 
-**Distribuição de assinatura**
+## <a name="subscription-distribution"></a>Distribuição de assinatura
 
 Essa exibição apresenta uma divisão de suas assinaturas atuais por seus locais MPNs, segmentos de clientes, modelo de preços do Azure/canal de vendas e o tipo de atribuição (por exemplo, DPOR, DAP, etc.). Clique nas respectivas guias para exibir a divisão por essas categorias. Para criar o gráfico de pizza com uma divisão de categorias de item específicas, selecione as categorias de item na legenda.
 
 :::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="distribuição de assinatura":::
 
-**Distribuição de estado de assinatura**
+## <a name="subscription-state-distribution"></a>Distribuição de estado de assinatura
 
 Esta exibição mostra a distribuição de suas assinaturas de cliente atuais por estado de assinatura ou status. Isso inclui os seguintes Estados de assinatura: **ativo**, **desabilitado**, **desprovisionado**, **aberto**, **InGracePeriod**, **fechado**e **outros**.
 
 :::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="distribuição de estado de assinatura":::
 
-**Tendência de produtos**
+## <a name="products-trend"></a>Tendência de produtos
 
 Esta exibição mostra um gráfico de barras e dois gráficos de pizza. O gráfico de barras apresenta uma tendência mensal de assinaturas divididas por produtos comerciais, como Azure, Office, Dynamics, etc.
 

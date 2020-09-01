@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b22ac3137be610d3f8e6bce9569b1f4cd7ef191b
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 3cb6491a3c0245cece4d65d3be6b1ec2f4a836cd
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89040752"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220244"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Como relatar problemas com o Partner Center e enviar quaisquer informações de log ou diagnóstico
 
@@ -29,7 +29,7 @@ Contate o suporte do Partner Center se você encontrar problemas ou precisar de 
 
 Todos os usuários registrados no Partner Center podem criar solicitações de suporte de parceiro. Os usuários só podem exibir as solicitações de suporte que foram enviadas após o logon no Partner Center.
 
-**Relatar um problema com o Partner Center**
+## <a name="report-a-problem-with-the-partner-center"></a>Relatar um problema com o Partner Center
 
 1. No painel do **Partner Center** , selecione **suporte** e, em seguida, selecione **solicitações de suporte do parceiro**.
 
@@ -41,7 +41,7 @@ Todos os usuários registrados no Partner Center podem criar solicitações de s
 
 5. Preencha os **detalhes do problema** e **envie**. Um representante do Suporte do Parceiro entrará em contato com você.
 
-**Enviar diagnóstico**
+## <a name="send-diagnostics"></a>Enviar diagnóstico
 
 Se ocorrer um erro enquanto você estiver em uma página do Partner Center, você poderá ser solicitado a coletar informações de log. Selecione **coletar mais informações** do link que cai da parte superior da página para abrir a ferramenta de diagnóstico do cliente. Essa ferramenta coleta informações de que a equipe de Suporte do Parceiro precisa para determinar a causa do erro. 
 
@@ -54,7 +54,7 @@ Se ocorrer um erro enquanto você estiver em uma página do Partner Center, voc�
 
 Você pode visualizar as informações de diagnóstico e salvá-las em um arquivo que você pode anexar em sua solicitação de suporte. Para nos enviar as informações:
 
-3. Examine as informações do arquivo antes de enviá-las porque elas podem conter dados pessoalmente identificáveis que talvez você queira remover. 
+3. Examine as informações do arquivo antes de enviá-las porque elas podem conter dados pessoalmente identificáveis que talvez você queira remover.
 
     >[!NOTE]
     >Em alguns navegadores, a seção **Modo de Exibição de Página** na parte inferior da página **Visualização** pode aparecer vazia. Isso está correto.

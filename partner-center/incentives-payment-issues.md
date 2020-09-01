@@ -1,19 +1,19 @@
 ---
 title: Solução de problemas com pagamentos e lucros
 ms.topic: article
-ms.date: 08/25/2020
+ms.date: 08/31/2020
 description: Saiba como solucionar problemas como ganhos ausentes ou incorretos, problemas de qualificação e como reconciliar seus ganhos de incentivos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: ba1b6eb3ae77903a898815de60a4df05c48f3bd6
-ms.sourcegitcommit: 455f2e38c2076373254e04577b194289c43e66fd
+ms.openlocfilehash: 5696c4e3e74fd9fe4c17b0da37f6b6bf3ba98165
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "88893461"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220784"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>Solução de problemas com pagamentos e lucros
 
@@ -24,7 +24,6 @@ ms.locfileid: "88893461"
 **Funções apropriadas**:
 
 - Administrador de incentivos
-
 
 Este artigo ajudará você a resolver quaisquer problemas de lucros ou pagamentos em seu programa de incentivos. Os tópicos abordados incluem o tempo de pagamento, a verificação da elegibilidade de seus ganhos e a importância de configurar seus perfis de pagamento e de impostos corretamente.
 
@@ -57,18 +56,20 @@ Pagamentos ausentes ou incorretos geralmente são devidos a uma das seguintes op
 
   **Para verificar sua elegibilidade**
 
-  1. Entre no Partner Center aqui: [incentivos para parceiros](https://partner.microsoft.com/membership/partner-incentives).
-  
+  1. Entre em [incentivos de parceiros](https://partner.microsoft.com/membership/partner-incentives).
+
   2. Role para baixo até os documentos do seu programa.
   
-  3. Selecione o link do documento desejado e examine as seções qualificação para **parceiros** e **regras de receita qualificada**.
+  3. Selecione o link do documento desejado e examine as seções 
+
+**Qualificação para parceiros** e **regras de receita qualificada**.
 
 - **Seu perfil de pagamento pode estar incompleto.** A data de início dos ganhos de incentivo será o primeiro dia do mês em que você concluiu todos os requisitos de qualificação, incluindo a integração com os detalhes de pagamento e imposto. Os lucros não estarão disponíveis para os meses antes da conclusão do pagamento e do imposto. Por exemplo, se você concluir todos os requisitos durante o mês de abril de 2020, a data de início dos lucros será 1º de abril de 2020.
 - **Você pode ter uma ação pendente**.  Pode ser que seus incentivos não estejam sendo processados porque há uma ação pendente.
 
   **Para exibir suas ações pendentes**
 
-  1. Entre no Partner Center aqui: [incentivos para parceiros](https://partner.microsoft.com/membership/partner-incentives).
+  1. Entre em [incentivos de parceiros](https://partner.microsoft.com/membership/partner-incentives).
   2. Abra a página **histórico de transações** . Examine os campos nesta página para que as ações pendentes sejam concluídas, como **perfil de imposto pendente**, **perfil de pagamento pendente**ou **envio de fatura de imposto pendente**.
 
 Se essas ações não ajudarem e seus pagamentos ainda estiverem ausentes ou incorretos, contate o [suporte](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
@@ -140,9 +141,9 @@ Se essas ações não ajudarem e seus lucros ainda não estiverem conciliados, e
 
 ## <a name="where-can-i-find-my-rates"></a>Em que local posso encontrar minhas taxas?
 
-1. Vá para [Incentivos do parceiro](https://partner.microsoft.com/membership/partner-incentives) e entre.
+1. Entre em [incentivos de parceiros](https://partner.microsoft.com/membership/partner-incentives).
 
-2. Depois de entrar, role a tela para baixo até acessar os documentos para seu programa interessado e clique no link do documento para o respectivo programa.
+2. Role para baixo para acessar os documentos de seu programa interessado e clique no link do documento para o respectivo programa.
 
 3. No documento, consulte a seção **estrutura e taxas do programa**.
 

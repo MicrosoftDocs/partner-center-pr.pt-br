@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7dda38680bd698ce04149ed8c1a9acf1cff0ba2f
-ms.sourcegitcommit: 7a749e7130f903b2d94cfa44e14bde0adf7ee199
+ms.openlocfilehash: 6cd4b78d95de282ccaef032b7975069f49a1267d
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/24/2020
-ms.locfileid: "88781828"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220174"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Relatar um problema de serviço em nome de um cliente, incluindo quando e como fazer isso
 
@@ -102,7 +102,9 @@ Para localizar as informações de contato do ISV:
 
 ## <a name="faq"></a>Perguntas frequentes
 
-**O que é incluído como parte do direito a suporte?**
+Consulte o seguinte para perguntas frequentes sobre as solicitações de serviço que você pode enviar em nome de um cliente. 
+
+### <a name="what-is-included-as-part-of-the-support-entitlement"></a>O que é incluído como parte do direito a suporte?
 
 As solicitações de serviço devem ser arquivadas por meio do Partner Center. Eles estão disponíveis para o Azure, Microsoft Office 365, Microsoft Dynamics CRM Online e Enterprise Mobility Suite. Como um parceiro que participa do programa de provedor de soluções na nuvem, você pode esperar o tempo de resposta de prioridade para seus principais problemas.
 
@@ -110,7 +112,7 @@ O suporte para seu próprio locatário de parceiro não está incluído como par
 
 Esse benefício se aplica a todos os parceiros que participam do programa do provedor de soluções na nuvem, sejam pagos ou em um período de avaliação. O suporte ao gerenciamento de assinatura e cobrança também está incluído como um componente gratuito desse pacote.
 
-**Com que rapidez obterei uma resposta inicial?**
+### <a name="how-quickly-will-i-get-an-initial-response"></a>Com que rapidez obterei uma resposta inicial?
 
 Nossos tempos de resposta iniciais dependem da gravidade do incidente enviado. A gravidade do problema é determinada por sua indicação de impacto de negócios quando você envia uma solicitação de serviço.
 
@@ -123,21 +125,21 @@ Tempos de resposta iniciais para **incidentes de consertos técnicos**:
 Os tempos de resposta iniciais são apenas para suporte em inglês. É fornecido suporte no idioma local durante o horário comercial.
 Para incidentes que se enquadram nos limites do direito de suporte, mas não são considerados incidentes de conserto de conserto, o tempo de resposta inicial pode ser de até um dia útil.
 
-**Posso enviar uma solicitação de serviço por telefone?**
+### <a name="can-i-submit-a-service-request-by-phone"></a>Posso enviar uma solicitação de serviço por telefone?
 
 Não, o suporte ao telefone não é oferecido para este programa.
 
-**O que acontece se eu fizer logon no portal do Azure e ignorar o Partner Center?**
+### <a name="what-happens-if-i-sign-into-the-azure-portal-and-bypass-partner-center"></a>O que acontece se eu fizer logon no portal do Azure e ignorar o Partner Center?
 
 Se você entrar no portal do Microsoft Azure diretamente, você está visualizando o centro em seu próprio contexto, não no contexto de um cliente. É por isso que você só deve entrar diretamente no portal do Microsoft Azure ao criar uma solicitação de serviço para suas próprias assinaturas.
 
 O direito de suporte do programa CSP não fornece suporte para sua própria assinatura de parceiro. Por isso, você precisa fornecer seu direito de plano de suporte válido ao criar uma solicitação de serviço que se preocupa com sua própria assinatura de parceiro. Os exemplos incluem ID do contrato MPN, Premier ou um plano de suporte do Azure. Para obter mais informações, consulte as [perguntas frequentes sobre o suporte do Azure](https://go.microsoft.com/fwlink/?LinkId=717532).
 
-**O que acontece se eu entrar no portal do centro de administração do Office 365 e ignorar o Partner Center?**
+### <a name="what-happens-if-i-sign-into-the-office-365-admin-center-portal-and-bypass-partner-center"></a>O que acontece se eu entrar no portal do centro de administração do Office 365 e ignorar o Partner Center?
 
 Se você entrar no centro de administração do Office 365 diretamente, você está exibindo o centro em seu próprio contexto, não no contexto de um cliente. É por isso que você só deve assinar diretamente no centro de administração do Office 365 ao criar uma solicitação de serviço para suas próprias assinaturas.
 
-**Como obter suporte adicional ao Dynamics 365?**
+### <a name="how-do-i-get-additional-dynamics-365-support"></a>Como obter suporte adicional ao Dynamics 365?
 
 Se você estiver enfrentando problemas relacionados a: assinaturas do plano do Dynamics 365, licenciamento, cobrança, finanças & operações, licenças de produto do Dynamics 365 ou precisar de mais suporte técnico:
  

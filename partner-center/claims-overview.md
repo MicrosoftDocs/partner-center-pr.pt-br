@@ -1,7 +1,7 @@
 ---
 title: Solicitações de cooperação de incentivos
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 08/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Saiba como enviar uma declaração de cooperação bem-sucedida para seus incentivos organizando a documentação, as faturas, as instruções e a prova de execução corretas.
@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 72b19b1edd1d63d89472168c4210edcbeac7b837
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 78c9d9b0150e936afc0d90ffc16d90a1334cbaba
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527562"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220674"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Visão geral de reivindicações de cooperação de incentivos
 
@@ -34,10 +34,10 @@ Uma reivindicação bem-sucedida inclui:
 - Documentação que demonstra que você cumpriu os principais requisitos para a atividade
 - Faturas de fornecedores terceirizados com quem você trabalha
 - Declaração e Relatório de Certificação (SACs) para qualquer trabalho interno concluído
-- A documentação apropriada (comprovação de execução) que prova que você concluiu a atividade 
+- A documentação apropriada (prova de execução ou PoE) que prova que você concluiu a atividade 
 
 >[!NOTE]
->A Microsoft se reserva o direito de solicitar os documentos originais de comprovação de execução (POE). Mantenha todos os seus documentos originais por um período de 24 meses após a data da atividade. 
+>A Microsoft se reserva o direito de solicitar documentos PoE originais. Mantenha todos os seus documentos originais por um período de 24 meses após a data da atividade. 
 
 |**Para fazer isso**   |**Leia isto**   |
 |-----------------|:--------------------------------------|
@@ -46,5 +46,7 @@ Uma reivindicação bem-sucedida inclui:
 |Conhecer os principais requisitos para a reivindicação de atividade|[Conhecer os requisitos básicos para reivindicações de incentivos](core-requirements.md)   |
 |Conhecer os detalhes completos do programa de incentivos|[Guia de cooperação de incentivos do parceiro](https://assets.microsoft.com/coop-guidebook.pdf)
 |Criar uma associação de cliente e enviar uma declaração |[Criar uma associação de cliente usando o modelo CPOR](submit-osa-claim.md)|
-                                                                                 
-                                   
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Introdução aos incentivos](incentives-get-started-intro.md)

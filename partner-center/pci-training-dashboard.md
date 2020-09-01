@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ca943d75869e793237989304888c6e6932ed824
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 241f70f5abf597eccb4b85737967210c2d7728a8
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436645"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220714"
 ---
 # <a name="trainings-dashboard"></a>Painel de treinamentos
 
@@ -32,7 +32,7 @@ O painel de treinamentos fornece informações sobre as certificações, avalia�
 >[!NOTE] 
 >Esse relatório está disponível no Hub do insights no Partner Center. Para exibir esse relatório, você deve receber a função do Visualizador de relatórios ou do Visualizador de relatórios executivos. Algumas seções deste relatório só estarão visíveis para usuários que são visualizadores de relatórios executivos. Para obter mais informações sobre o controle de acesso para os relatórios do insights, consulte [funções de PCI](pci-roles.md).
 
-**Resumo**
+## <a name="summary"></a>Resumo
 
 A seção de resumo apresenta uma exibição de instantâneo numérico de vários indicadores de desempenho relacionados aos seus treinamentos. Os vários indicadores de desempenho são indivíduos certificados, certificações, indivíduos com credenciais de exames, credenciais de exames, indivíduos com credenciais de avaliação e credenciais de avaliação. Os dados nesta seção são atualizados com base no intervalo de datas selecionado, que pode ser de três meses (3M), seis meses (6 minutos) & 12 meses (1Y) ou um intervalo de dados personalizado (personalizado). 
 
@@ -45,13 +45,13 @@ A seção de resumo apresenta uma exibição de instantâneo numérico de vário
 - **Indivíduos com exames**: representa o número de indivíduos distintos com credenciais de exame em sua empresa. 
 - **Contagem de exames**: representa o número total de exames feitos por indivíduos em sua empresa.
 
-**Desempenho de treinamento**
+## <a name="training-performance"></a>Desempenho de treinamento
 
 O desempenho de treinamento apresenta a contagem mês a mês de indivíduos e os treinamentos concluídos por indivíduos em sua empresa. Ele é dividido por certificações, avaliações e exames na forma de um gráfico para o intervalo de datas selecionado. O eixo X representa os meses para o intervalo de datas selecionado. O eixo Y representa a contagem distinta de indivíduos e o número de treinamentos obtidos para o tipo de treinamento selecionado. Clique nas respectivas guias acima do gráfico para exibir a divisão por tipo de treinamento. Os dados do gráfico podem ser baixados por meio do ícone de download no formato. tsv para o intervalo de datas selecionado.
 
 :::image type="content" source="images/pci/td-training-performance.png" alt-text="Desempenho de treinamento":::
 
-**Desempenho de indivíduos**
+## <a name="individuals-performance"></a>Desempenho de indivíduos
 
 A seção desempenho dos indivíduos apresenta os detalhes de treinamentos feitos por indivíduos em sua empresa, para o intervalo de datas selecionado. Pesquise e selecione o nome de um indivíduo no painel esquerdo da seção. Os detalhes de treinamento para o indivíduo selecionado são exibidos no painel direito da seção.
 
@@ -60,8 +60,9 @@ A seção desempenho dos indivíduos apresenta os detalhes de treinamentos feito
 >[!NOTE] 
 > A seção de desempenho de pessoas está disponível apenas para usuários que são visualizadores de relatórios executivos. 
 
-**Próximas etapas**
+## <a name="next-steps"></a>Próximas etapas
+
+[Relatórios em informações do Partner Center](partner-center-insights.md)
 
 >[!NOTE] 
-> Você pode baixar os dados brutos, capacitando esse relatório na seção baixar relatórios no painel do insights. [Saiba mais](pci-download-reports.md) 
-
+> Você pode baixar os dados brutos, capacitando esse relatório na seção baixar relatórios no painel do insights. [Saiba mais](pci-download-reports.md)

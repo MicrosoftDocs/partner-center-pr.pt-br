@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: acb8d38ab4a3b85dd031790dc75c16ec064195f3
-ms.sourcegitcommit: 389dda2e4100d56c846245ff8ca85c4755b15c25
+ms.openlocfilehash: fbd91659a8118cd2efa8c361adaf4c0668245e70
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "88799821"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220254"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Exibir, gerenciar e exportar os detalhes do programa de incentivos
 
@@ -144,7 +144,7 @@ Observe que seu pagamento será liberado apenas no mês projetado se as regras d
 |Futuros      |A ordem de pagamento gerou revisões internas pendentes antes de o pagamento ser processado.       |Não       |
 |Fatura de imposto pendente      |Sua fatura de imposto está incompleta ou inválida.          |Atualize sua fatura de imposto para ser pago         |
 |Rejeitado durante a revisão        |O pagamento foi rejeitado durante a revisão.          |Entre em contato com o Suporte da Microsoft para detalhes         |
-|Com falha        |O pagamento falhou devido a um erro do sistema da Microsoft.         |Contate o suporte da Microsoft para obter detalhes         |
+|Failed (Falha)        |O pagamento falhou devido a um erro do sistema da Microsoft.         |Contate o suporte da Microsoft para obter detalhes         |
 |Em Andamento     |O pagamento está em andamento.         |Não         |
 |Pagamento incorreto        |A revitóriação de pagamento está em andamento.          |Não        |
 |Enviado        |O pagamento foi enviado ao seu banco.          |Não       |
@@ -157,11 +157,14 @@ Observe que seu pagamento será liberado apenas no mês projetado se as regras d
 ## <a name="export-data-page"></a>Exportar página de dados
 Siga as instruções nesta página para exportar os dados desejados.
 
-**Observações:**
+Aqui estão algumas considerações quando você tenta exportar dados:
 
 - Dado o grande volume de dados, o SLA para a solicitação enviada a ser processada é de 24 horas.
+
 - Você só verá dados para IDs e programas MPN aos quais está associado. Se você quiser acessar dados adicionais, consulte o administrador de incentivos.
+
 - A página Exportar dados não é atualizada por conta própria. Talvez seja necessário atualizar a página manualmente para ver os dados mais recentes.
+
 - O filtro pode resultar em um erro **Não há dados disponíveis**. Esse erro provavelmente significa que você saiu do período de tempo padrão selecionado em três meses e, em seguida, selecionou uma ID de pagamento de uma conquista que está fora desse período. Expanda seu período de tempo e tente novamente.
 
 ## <a name="payment-download-export"></a>Exportação de download de pagamento

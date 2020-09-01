@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66b913688b279654c79b0860fbd0f92a921d87dd
-ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
+ms.openlocfilehash: 4f1709d9a95e3509edbc431a851a2f1fdc0aae01
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88239044"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220295"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Relatório de licenças de produto no painel do recepções do Partner Center
 
@@ -32,29 +32,32 @@ O relatório de licenças de produto apresenta a análise de licença para produ
 - Distribuição de licenças por locais de parceiros, canal de vendas, SKUs, tipo de anexação de parceiro, segmento
 
  > [!NOTE]
- > Esse relatório está disponível no painel de informações. Para exibir esse relatório, você deve ser atribuído a uma função específica no Partner Center, como administrador global, administrador da conta, visualizador de relatórios ou Visualizador de relatórios do Executive. Para obter mais informações, consulte o administrador global da sua empresa. Tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de visualizador de relatórios executivos.
+ > Esse relatório está disponível no painel de informações. Para exibir esse relatório, você deve ser atribuído a uma função específica no Partner Center, como administrador global, administrador da conta, visualizador de relatórios ou Visualizador de relatórios do Executive. Para obter mais informações, consulte o administrador global da sua empresa. os tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de visualizador de relatórios executivos.
 
-**Resumo**
+## <a name="summary"></a>Resumo
 
 A seção de resumo fornece uma exibição de instantâneo dos KPIs (indicadores chave de desempenho) associados às licenças de produtos de nuvem vendidas, implantadas e usadas. Isso ajuda a acompanhar o uso ativo em relação às licenças vendidas aos seus clientes.
 
-- Licenças: a contagem atual de todas as licenças vendidas ou gerenciadas por você para produtos de nuvem baseados em licença, como O365, Dynamics, M365, Power BI, etc. Percentual de crescimento ou declínio dessas licenças no intervalo de datas selecionado.
-
-O micro Chart apresenta a tendência mês a mês de contagens de licenças durante o intervalo de datas selecionado
-
-- Licenças implantadas: contagem atual de todas as licenças atribuídas do cliente.
-Percentual de crescimento ou declínio dessas licenças durante o período de tempo selecionado.
-
-O micro gráfico apresenta a tendência mês a mês de contagens de licenças atribuídas durante o intervalo de datas selecionado.
-
-- Licenças ativas: a contagem atual de todas as licenças de clientes com qualquer uso ativo nos últimos 30 dias durante o intervalo de datas selecionado.
-Percentual de crescimento ou declínio dessas licenças durante o intervalo de datas selecionado.
-
-O micro Chart apresenta a tendência mês a mês de contagens de licenças durante o intervalo de datas selecionado.
-
 :::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Resumo do relatório de licenças":::
 
-**Dispersão geográfica de licenças**
+Consulte abaixo para obter mais informações sobre cada seção do resumo.
+
+- Licenses: 
+  - Contagem atual de todas as licenças vendidas ou gerenciadas por você para produtos de nuvem baseados em licença, como O365, Dynamics, M365, Power BI, etc.
+  - Percentual de crescimento ou declínio dessas licenças no intervalo de datas selecionado.
+  - Micro Chart de tendência de licença: o micro Chart apresenta a tendência mês a mês de contagens de licenças durante o intervalo de datas selecionado
+
+- Licenças implantadas:
+  - Contagem atual de todas as licenças atribuídas de seu cliente.
+  - Percentual de crescimento ou declínio dessas licenças durante o período de tempo selecionado.
+  - Contagem de licenças micro Chart: o micro gráfico apresenta a tendência mês a mês de contagens de licenças atribuídas durante o intervalo de datas selecionado.
+
+- Licenças ativas: 
+  - A contagem atual de todas as licenças de cliente com qualquer uso ativo nos últimos 30 dias durante o intervalo de datas selecionado.
+  - Percentual de crescimento ou declínio dessas licenças durante o intervalo de datas selecionado.
+  - O micro Chart apresenta a tendência mês a mês de contagens de licenças durante o intervalo de datas selecionado.
+
+## <a name="geographical-spread-of-licenses"></a>Dispersão geográfica de licenças
 
 A exibição de **dispersão geográfica de licenças** mostra a distribuição geográfica de licenças atuais e licenças ativas por mercados de clientes. (A contagem de licenças **atual** também inclui licenças não atribuídas.)
 
@@ -64,7 +67,7 @@ Você pode pesquisar e selecionar um país na grade para aplicar zoom ao local n
 
 :::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="dispersão geográfica de licença":::
 
-**Adições de licenças**
+## <a name="license-adds"></a>Adições de licenças
 
 Esta exibição mostra a tendência de licenças adicionadas durante o intervalo de datas selecionado. 
 
@@ -74,7 +77,7 @@ O eixo X representa os meses do intervalo de datas selecionado. O eixo Y represe
 
 :::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="adições de licenças":::
 
-**Distribuição de licenças**
+## <a name="license-distribution"></a>Distribuição de licenças
 
 Esta exibição mostra uma divisão de suas licenças de cliente por produto e país/região do cliente. Quando você seleciona um produto no gráfico de pizza **licença por produto** , o gráfico adjacente lhe mostrará uma divisão de licença por região do cliente.
 
