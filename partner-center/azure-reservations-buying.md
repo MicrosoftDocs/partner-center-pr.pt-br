@@ -1,20 +1,20 @@
 ---
 title: Comprar Microsoft Azure reservas para clientes
+description: Saiba como comprar ou comprar reservas do Azure em nome de seus clientes no Partner Center.
 ms.topic: article
-ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Saiba como comprar ou comprar reservas do Azure em nome de seus clientes no Partner Center.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a9da6208ec72c1d6e93fadec3d205a809dbfabe5
-ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
+ms.date: 08/06/2020
+ms.openlocfilehash: 19a358fe023a8c8fd9d30ecb9dd1c37114dca84a
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "87900102"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367010"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Comprar Microsoft Azure reservas em nome de seus clientes no Partner Center
 
@@ -139,7 +139,7 @@ Siga as etapas abaixo para comprar Microsoft Azure reservas em nome de seus clie
       >Se você optar por limitar o escopo da reserva a uma única assinatura do Azure, talvez seja necessário aumentar a cota de vCPU da assinatura. Para aumentar a cota de vCPU da assinatura, você precisará criar uma solicitação de suporte no portal do Azure. Siga as instruções [neste tópico](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) para criar a solicitação. 
 
       >[!NOTE]   
-      >Se o seu cliente estiver sob o plano do Azure, o **escopo** será definido como **compartilhado**. 
+      >Se o seu cliente estiver sob o plano do Azure, o **escopo**  será definido como **compartilhado**. 
 
     - Se você for um parceiro de provedor, selecione o revendedor que você deseja associar ao produto.
     

@@ -1,20 +1,20 @@
 ---
 title: Gerenciar reservas do Azure para clientes
+description: Saiba como gerenciar reservas do Azure para um cliente, incluindo como cancelar uma reserva, trocar uma reserva ou solicitar um reembolso.
 ms.topic: how-to
-ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Saiba como gerenciar reservas do Azure para um cliente, incluindo como cancelar uma reserva, trocar uma reserva ou solicitar um reembolso.
 author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 126d8bcae5ca7feb3eefe414bd14e476b4047d11
-ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
+ms.date: 08/06/2020
+ms.openlocfilehash: fba1427978e61b739c8ffb14374a44331ef51d27
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "87900068"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89366870"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Gerenciar, cancelar, trocar ou reembolsar reservas de Microsoft Azure para clientes
 
