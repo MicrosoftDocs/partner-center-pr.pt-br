@@ -9,19 +9,24 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: b34cfc1448ba97d663b8dc89f424905775f9766c
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 847b586fdb3e7b2361042c18ad9f9f0ae3203a62
+ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303282"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89286498"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
 Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos essas informações com frequência, portanto, visite a página regularmente!
 
-| **Categoria** | **Comunicados de agosto de 2020** | **Comunicado** |
+| **Categoria** | **Comunicados de setembro de 2020** | **Comunicado** |
 |---------|:---------|:---------|
+|Ofertas/mercados|[Próximas novas ofertas do Microsoft Dynamics 365](2020-september.md#3)|1º de setembro|
+|Ofertas/mercados|[O Plano de Chamadas do Office 365 estará disponível em novos mercados em 1º de outubro de 2020](2020-september.md#2)|1º de setembro|
+|Ofertas/mercados|[O Microsoft Defender ATP (Proteção Avançada contra Ameaças) para Servidores para Educação já está disponível](2020-september.md#1)|1º de setembro|
+| **Categoria** | **Comunicados de agosto de 2020** | **Data** |
+|Funcionalidades|[Aprimoramentos de interface do usuário e atualizações da API do Partner Center para o processo de validação do cliente de Educação](2020-august.md#8)|31 de agosto|
 |Ofertas/mercados|[Atualizações na promoção do Microsoft 365 Business Voice](2020-august.md#7)|14 de agosto|
 |Funcionalidades|[Versão do SDK no .NET Standard v1.16.1](2020-august.md#6)|12 de agosto|
 |Funcionalidades|[Em breve: compras por autoatendimento para o Microsoft Project e o Microsoft Visio](2020-august.md#5)|12 de agosto|
