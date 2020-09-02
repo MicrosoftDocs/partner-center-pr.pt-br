@@ -187,6 +187,8 @@
           href: connector-dynamics.md
         - name: Conector de venda conjunta para o Salesforce CRM – visão geral
           href: connector-salesforce.md
+        - name: Venda conjunta para parceiros migrando do PSC (Partner Sales Connect)
+          href: psc-to-pc.md
         - name: Registre suas negociações
           href: register-deals.md
         - name: Obter insights de indicação
@@ -293,7 +295,7 @@
     - name: Definir um orçamento de gastos do Azure para seus clientes
       href: set-an-azure-spending-budget-for-your-customers.md
     - name: 'Gerenciamento de não pagamento, fraude ou uso indevido'
-      href: non-payment--fraud--or-misuse.md
+      href: non-payment-fraud-misuse.md
     - name: Gerenciar os pagamentos não alocados
       href: unallocated-payment.md
 - name: Conectar-se com clientes
@@ -458,6 +460,8 @@
           href: pci-roles.md
         - name: Insights – painel Cliente
           href: pci-customer-report.md
+        - name: Insights – painel Desempenho do Revendedor
+          href: pci-resellers-performance.md
         - name: Insights – painel Assinaturas de Produto
           href: pci-product-subscriptions-report.md
         - name: Insights – painel Licenças de Produto
