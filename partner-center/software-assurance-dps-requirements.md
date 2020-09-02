@@ -1,7 +1,7 @@
 ---
 title: Qualificação para contratos de serviços de planejamento
 ms.topic: article
-ms.date: 08/20/2020
+ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba mais sobre os requisitos de qualificação para cada contrato de serviços de planejamento do Software Assurance que uma empresa pode desejar oferecer a clientes corporativos.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dc1209794a4b12173ff25191a6f37bd0892ed54
-ms.sourcegitcommit: 9292a85c4c142109e46462ee4088bd95efb62456
+ms.openlocfilehash: 6955f28c78978e1f9f9e887ef612d38d57568d77
+ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "88711818"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89286491"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Exibir requisitos de qualificação para contratos de serviços de planejamento
 
@@ -31,9 +31,6 @@ Este tópico ajuda você a saber mais sobre os requisitos de qualificação que 
 ## <a name="learn-more-about-each-engagement"></a>Saiba mais sobre cada compromisso
 
 Cada contrato de serviços de planejamento tem seus próprios requisitos específicos de qualificação e suas próprias durações máximas permitidas.
-
-> [!NOTE]
-> Para poder entregar um contrato específico de serviço de planejamento, você deve atender a diferentes tipos de requisitos de competência. Primeiro, você precisa atender aos requisitos mínimos de competência a serem registrados nas ofertas de serviços de planejamento. Em seguida, sua empresa também deve atender aos requisitos de competência associados ao fornecimento de um tipo específico de envolvimento.
 
 Para saber mais sobre esses requisitos de competência específicos do Engagement, consulte a tabela a seguir.
 
