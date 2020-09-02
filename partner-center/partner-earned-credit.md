@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a958450349056dc24e7e46b2ecbb84c857938a0
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 45a9e4eb4a2e2ddb3419a2c8b1342725964ec39a
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390603"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220504"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Crédito ganho pelo parceiro – uma visão geral sobre como ele funciona na nova experiência de comércio no CSP
 
@@ -73,11 +73,8 @@ Esses serviços envolvem um nível apropriado de acesso para parceiros no ambien
 >[!Note]
 >Os clientes têm a opção de remover todos os acessos concedidos aos parceiros. Os parceiros não devem forçar os clientes a atribuir o acesso apropriado com o único propósito de conquistar créditos ganhos pelo parceiro da Microsoft – o não cumprimento desse requisito pode desqualificar o parceiro para pleitear créditos ganhos pelo parceiro.
 
-**Para obter mais informações**
+## <a name="next-steps"></a>Próximas etapas
 
 - [Como o crédito ganho pelo parceiro é calculado e pago](partner-earned-credit-explanation.md)
-
 - [Gerenciar assinaturas e recursos no âmbito do plano do Azure](azure-plan-manage.md)
-
 - [Lista de preços para a nova experiência de comércio do Azure no CSP](azure-plan-price-list.md)
-

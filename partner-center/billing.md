@@ -1,20 +1,20 @@
 ---
 title: Referência – Artigos de cobrança do Partner Center
+description: Saiba mais sobre os tópicos de cobrança e imposto no Partner Center. As informações abrangem recursos de cobrança, faturas, cobrança do CSP e impostos.
 ms.topic: article
-ms.date: 04/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-Description: Saiba mais sobre os tópicos de cobrança e imposto no Partner Center. As informações abrangem recursos de cobrança, faturas, cobrança do CSP e impostos.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c78e90ab5d412f58384c039bcd4965170662ec0a
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.date: 04/05/2020
+ms.openlocfilehash: 0198da249d158603d848e8652eb14444cac7f4a5
+ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527402"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89274995"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Visão geral: Principais artigos de cobrança e imposto no Partner Center
 
@@ -40,7 +40,7 @@ ms.locfileid: "87527402"
 | [Cenários comuns de cobrança](common-billing-scenarios.md) | Como entender os cenários comuns de cobrança do Partner Center (para cobrança mensal e anual, bem como cobrança para compras avulsas e recorrentes). |
 | [Responsabilidades e isenções fiscais](tax-and-tax-exemptions.md) | Explicação sobre suas responsabilidades e isenções fiscais para vendas do Partner Center. |
 | [Orçamento de gastos do Azure](set-an-azure-spending-budget-for-your-customers.md) | Como definir um orçamento de gastos do Azure para seus clientes. |
-| [Não pagamento, fraude ou uso indevido](non-payment--fraud--or-misuse.md) | Como gerenciar não pagamento, fraude ou uso indevido de seus clientes no Partner Center. |
+| [Não pagamento, fraude ou uso indevido](non-payment-fraud-misuse.md) | Como gerenciar não pagamento, fraude ou uso indevido de seus clientes no Partner Center. |
 | [Solicitar um crédito de SLA para interrupções](request-credit.md) | Como solicitar um crédito de SLA da Microsoft para seus clientes quando houver uma interrupção do serviço. |
 
 Caso esteja procurando informações e recursos de cobrança da API do Partner Center, consulte a [documentação de cobrança do desenvolvedor](https://docs.microsoft.com/partner-center/develop/manage-billing).
