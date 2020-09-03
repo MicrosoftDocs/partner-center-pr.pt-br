@@ -1,6 +1,36 @@
 {
   "build_entry_point": "op",
   "docsets_to_publish": [
+     {
+      "docset_name": "marketplace",
+      "build_source_folder": "marketplace",
+      "build_output_subfolder": "marketplace",
+      "locale": "pt-br",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
+      "docset_name": "partner-center-china-dynamic",
+      "build_source_folder": "china",
+      "build_output_subfolder": "partner-center-china-dynamic",
+      "locale": "pt-br",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
     {
       "docset_name": "partner-center-pr",
       "build_source_folder": "partner-center",
@@ -18,22 +48,6 @@
       "template_folder": "_themes",
       "is_dynamic_rendering": false,
       "version": 0
-    },
-    {
-      "docset_name": "partner-center-china-dynamic",
-      "build_source_folder": "china",
-      "build_output_subfolder": "partner-center-china-dynamic",
-      "locale": "pt-br",
-      "monikers": [],
-      "moniker_ranges": [],
-      "open_to_public_contributors": false,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [
@@ -93,6 +107,7 @@
   },
   "need_generate_pdf_url_template": true,
   "need_generate_pdf": false,
+  "need_generate_intellisense": false,
   "docs_build_engine": {
     "name": "docfx_v3"
   }
