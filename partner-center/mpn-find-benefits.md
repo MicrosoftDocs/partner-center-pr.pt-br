@@ -1,7 +1,7 @@
 ---
 title: Encontre seus benefícios
 ms.topic: how-to
-ms.date: 08/27/2020
+ms.date: 09/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como encontrar seus benefícios do MPN no painel do Partner Center.
@@ -9,19 +9,14 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a953eb47623bce8c0133266e26715f54557444fc
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 938197707c7a27e1485e9d22030cc4a94094197d
+ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220754"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89427113"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Localize seus benefícios do Microsoft Partner Network 
-
-Este artigo informa os membros do Microsoft Partner Network (MPN) como encontrar seus benefícios do MPN no painel do Partner Center. Essas informações incluem como encontrar as identificações de suporte ao produto específicas da sua empresa, como ID de contrato e ID de acesso, associadas aos benefícios técnicos.
-
->[!NOTE]
-> Se sua associação de Microsoft Partner Network ainda estiver no centro de associação de parceiro (PMC), talvez seja necessário entrar em contato com outro recurso como parceiro frente para ajudá-lo a exibir ou ativar determinados benefícios. Para obter detalhes, consulte [Ativar benefícios técnicos fora do Partner Center](partner-membership-center-tech-benefits-activate.md).
 
 ### <a name="applies-to"></a>Aplica-se a
 
@@ -32,7 +27,14 @@ Este artigo informa os membros do Microsoft Partner Network (MPN) como encontrar
 - Administrador de parceiros do MPN
 - Administrador global
 
-Como membro de Microsoft Partner Network (MPN), sua empresa tem acesso a muitos benefícios que podem ajudar a aumentar seus negócios. Para descobrir quais são esses benefícios:
+Este artigo informa os membros do Microsoft Partner Network (MPN) como encontrar seus benefícios do MPN no painel do Partner Center. Essas informações incluem como encontrar as identificações de suporte ao produto específicas da sua empresa, como ID de contrato e ID de acesso, associadas aos benefícios técnicos.
+
+>[!NOTE]
+> Se sua associação de Microsoft Partner Network ainda estiver no centro de associação de parceiro (PMC), talvez seja necessário entrar em contato com outro recurso como parceiro frente para ajudá-lo a exibir ou ativar determinados benefícios. Para obter detalhes, consulte [Ativar benefícios técnicos fora do Partner Center](partner-membership-center-tech-benefits-activate.md).
+
+## <a name="find-your-mpn-benefits-in-partner-center"></a>Encontre seus benefícios do MPN no Partner Center
+
+Como membro Microsoft Partner Network, sua empresa tem acesso a muitos benefícios que podem ajudar a aumentar seus negócios. Para descobrir quais são esses benefícios:
 
 1. Entre no [painel](https://partner.microsoft.com/dashboard/home)do Partner Center, selecione **MPN**e, em seguida, selecione **benefícios**.
 
@@ -60,7 +62,7 @@ Depois de seguir as etapas acima e ativar determinados benefícios (como os bene
 Para obter os benefícios técnicos, você verá identificações de suporte a produtos da Microsoft, como **ID de acesso** e **ID de contrato** no Partner Center.
 
 >[!NOTE]
-> Se sua associação de Microsoft Partner Network ainda estiver no centro de associação de parceiro (PMC) e ainda não tiver sido migrada para o Partner Center, você precisará entrar em contato com o parceiro frente para ativar os benefícios técnicos ou receber sua ID de acesso de suporte e ID de contrato.
+> Se sua associação de Microsoft Partner Network ainda estiver no centro de associação de parceiro (PMC) e ainda não tiver sido migrada para o Partner Center, você precisará [entrar em contato com o parceiro frente](partner-membership-center-tech-benefits-activate.md) para ativar os benefícios técnicos ou receber sua ID de acesso de suporte e ID de contrato.
 
  Siga estas etapas para exibir essas informações no Partner Center:
 
