@@ -9,21 +9,18 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 207a6013f11ab795bf46e184a4e98379e3ef3301
-ms.sourcegitcommit: 3670c6e7f22e4f56545886052b68b9d5b6b3092c
+ms.openlocfilehash: f0b577049eb86eece7d9a461cf831e25c22bf2ee
+ms.sourcegitcommit: 77f9b20b5e74e87999ae3d6d7651c93ca5b08128
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89281328"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89471463"
 ---
 # <a name="guide-to-co-selling-in-partner-centerpc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guia para a venda em conjunto no Partner Center (PC) para parceiros migrando do PSC (Partner Sales Connect)
 
 **Aplica-se a**
 
-- Indicações
-- Vendas conjuntas com a Microsoft
-- Configuração de conta de usuário do PSC
-- Usuários do Partner Sales Connect (PSC) 
+- Partner Center
 
 **Funções apropriadas**
 
@@ -33,7 +30,7 @@ ms.locfileid: "89281328"
 - Administrador do PSC (Partner Sales Connect)
 - Gerente de negociações do Partner Sales Connect (PSC)
 
-Como você sabe, sua empresa perderá o acesso ao PSC após 31 de dezembro de 2020. Você encontrará tudo o que deseja fazer para criar negociações de venda, gerenciar seus negócios e agir sobre as negociações enviadas pelos vendedores da Microsoft para você no Partner Center. No entanto, haverá diferenças, e as diretrizes a seguir ajudarão a fazer sua transição para o Partner Center mais suave e direto.
+Como você sabe, sua empresa perderá o acesso ao PSC após 31 de dezembro de 2020. No entanto, você encontrará tudo o que deseja fazer para criar negociações de venda, gerenciar seus negócios e agir sobre as negociações enviadas pelos vendedores da Microsoft para você no Partner Center. No entanto, haverá diferenças, e as diretrizes a seguir ajudarão a fazer sua transição para o Partner Center mais suave e direto.
 
 >[!Important]
 > Se você estiver aqui porque viu uma faixa no PSC sobre a migração, você está no lugar certo. Este guia não é aplicável à SA (avaliação de solução) e a parceiros de IOT OEM que gerenciam suas negociações no PSC.
@@ -43,14 +40,14 @@ Como você sabe, sua empresa perderá o acesso ao PSC após 31 de dezembro de 20
 ### <a name="if-you-are-psc-admin"></a>Se você for administrador do PSC
 
 - Você precisa de um email de trabalho para fazer logon no [Partner Center](https://partner.microsoft.com/).
-- Configure sua conta com a ajuda do [administrador da conta](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant)do Partner Center.
+- Configure sua conta com a ajuda do [administrador da conta](https://docs.microsoft.com/partner-center/permissions-overview)do Partner Center.
 - Saiba como fazer uma venda conjunta no Partner Center lendo este documento.
-- Configure contas de usuário no Partner Center para todos os usuários do PSC (funções de administrador, gerente de negociações e vendedor) e atribua a ela função de [administrador de referência](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) .
+- Configure contas de usuário no Partner Center para todos os usuários do PSC (funções de administrador, gerente de negociações e vendedor) e atribua a eles [funções de administrador de referência](https://docs.microsoft.com/partner-center/permissions-overview).
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>Se você for o PSC, gerente de negócios ou vendedor
 
-- Você precisa de um email de trabalho para fazer logon no [Partner Center](https://partner.microsoft.com/).
-- Se você estiver usando uma conta que não seja de trabalho no PSC ou seu email de trabalho for para uma empresa diferente da organização parceira, entre em contato com o administrador do PSC para obter ajuda de configuração de conta.
+- Você precisa de um email de trabalho para entrar no [Partner Center](https://partner.microsoft.com/).
+- Se você estiver usando uma conta que não seja de trabalho no PSC ou seu email de trabalho for para uma empresa diferente da empresa parceira, entre em contato com o administrador do PSC para obter ajuda de configuração de conta.
 - Verifique com o administrador do PSC se a configuração da sua conta do Partner Center está concluída, independentemente da conta que você usa para fazer logon no PSC.
 - Verifique se você tem acesso ao Partner Center e à seção referências.
 - Leia este documento para entender os fluxos de trabalho e as alterações no Partner Center.
@@ -59,7 +56,7 @@ Como você sabe, sua empresa perderá o acesso ao PSC após 31 de dezembro de 20
 
 Se você não vir a guia Referências:
 
-- O administrador da [conta](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) da sua empresa pode conceder acesso à guia referências. Para localizar o administrador da conta, vá para configurações de parceiro no ícone de engrenagem no canto superior direito do Partner Center. Selecione a página Gerenciamento de usuários no segundo nível da barra de navegação à esquerda. Clique na lista suspensa que mostra "todos os usuários" no canto superior direito da página e altere para "administradores de conta". A página exibirá todos os administradores de conta com suas respectivas IDs de email. Entre em contato com eles para obter acesso "administrador de referência" para sua conta corporativa.
+- O [administrador global](https://docs.microsoft.com/partner-center/permissions-overview) da sua empresa pode conceder acesso à guia referências. Para localizar seu administrador global, vá para configurações de parceiro no ícone de engrenagem na parte superior direita da central de parceiros. Selecione a página Gerenciamento de usuários no segundo nível da barra de navegação à esquerda. Clique na lista suspensa que mostra "todos os usuários" no canto superior direito da página e altere para "administradores globais". A página exibirá todos os administradores globais com suas respectivas IDs de email. Entre em contato com eles para obter acesso "administrador de referência" para sua conta corporativa.
 
 >[!Important]
 > Se sua função estiver gerenciando apenas usuários no PSC, você poderá obter a função de [administrador da conta](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) no Partner Center. Se sua função também incluir o gerenciamento de oportunidades de venda conjunta, você deverá obter a função de [administrador de referências](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) . Além disso, indique um líder de gerenciamento de alterações entre os administradores do PSC para trabalhar com o administrador da conta do Partner Center, em vez de todos os administradores do PSC que estão chegando aos administradores da conta no PC individualmente.
@@ -69,7 +66,7 @@ Se você não vir a guia Referências:
 - Vá para a guia referências no painel de navegação à esquerda e verifique se você pode acessar as páginas.
 
 >[!Note]
-> Talvez seja necessário fazer logoff do Partner Center e fazer logon novamente para atualizar suas credenciais para acesso às páginas de referências.
+> Talvez você precise sair do Partner Center e entrar novamente para atualizar suas credenciais para acessar as páginas de referências.
 
 Depois de configurar sua conta no Partner Center,
 
@@ -111,7 +108,7 @@ Esta é uma etapa importante, que ajudará você a se preparar para a venda em c
 
 ## <a name="psc-and-partner-center-field-mapping"></a>Mapeamento de campos do PSC e do Partner Center
 
-Esta seção o ajudará a entender o mapeamento exato de atributos entre o PSC e o Partner Center. Cada tela no PSC é comparada com a exibição relevante na seção oportunidades de venda do Partner Center. 
+Esta seção apresenta o mapeamento exato de atributos entre o PSC e o Partner Center. Cada tela no PSC é comparada com a exibição relevante na seção oportunidades de venda do Partner Center. 
 
 >[!Note]
 >Siga os números nas bolhas amarelas em capturas de tela do PSC para localizar o atributo equivalente no Partner Center. As bolhas vermelhas indicam que o Arquivado não está disponível no Partner Center.
@@ -224,7 +221,7 @@ A ID da oportunidade no PSC é igual à ID do negócio no PC. Você pode encontr
 
 O Partner Center não pode ser acessado pelo PDMs diretamente ao contrário do PSC. Há várias opções para habilitar esse recurso, que são mencionados abaixo.
 
-- OCP insights – se PDMs estiver apenas exibindo as negociações & progresso relacionado a elas, eles poderão usar o portal do insights OCP para obter a exibição da sua organização. Essa é uma ferramenta interna e está disponível somente para PDMs e seus usuários. Observe que o OCP insights não está disponível para os usuários da sua empresa.
+- OCP insights – se PDMs estiver apenas exibindo as negociações & progresso relacionado a elas, eles poderão usar o portal do insights OCP para obter a exibição da sua organização. Essa é uma ferramenta interna e só está disponível para PDMs. Observe que o OCP insights não está disponível para os usuários da sua empresa.
 - Usuário convidado no Partner Center-você pode adicionar sua conta do PDM @microsoft.com como um usuário convidado no Partner Center e atribuir a função de administrador de referência a eles para que eles possam exibir e agir em referências.
 - Criando um [novo usuário](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions#add-a-new-user) em seu locatário-você pode criar um novo usuário em seu próprio locatário e compartilhar esses detalhes com o PDM para que eles possam exibir e agir em referências semelhantes a outros usuários de referência em sua conta.
 

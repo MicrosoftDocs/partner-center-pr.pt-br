@@ -9,28 +9,25 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1eea363576f40604465cef55e49be9be92a117d4
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 5b30ebc733fd935a813617477de186129076e74b
+ms.sourcegitcommit: 77f9b20b5e74e87999ae3d6d7651c93ca5b08128
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434355"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89471433"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Gerenciar oportunidades de venda no Partner Center para definir negócios e atender melhor às necessidades dos clientes
 
 **Aplica-se a**
 
 - Partner Center
-- Indicações
-- Vendas conjuntas com a Microsoft
-- Compartilhamento de negociações
 
 **Funções apropriadas**
 
 - Administrador de parceiros do MPN
 - Administrador de indicações
 
-Você pode aproveitar as oportunidades de venda conjunta.  As oportunidades de venda conjunta são aquelas em que há uma venda colaborativa feita por várias partes para atender a uma necessidade do cliente. Esta seção o ajudará a entender como você pode aproveitar o poder da venda no Partner Center para fazer uma venda eficiente e adquirir novos clientes.
+Aproveite as oportunidades de venda conjunta.  As oportunidades de venda conjunta são uma colaboração de várias partes para vender produtos que atendam a uma necessidade do cliente. Este artigo o ajudará a entender como você pode usar a potência de venda no Partner Center para realmente vender e adquirir novos clientes.
 
 ## <a name="types-of-co-sell-opportunities"></a>Tipos de oportunidades de venda conjunta
 
@@ -47,9 +44,9 @@ Há três guias de nível superior na seção de venda conjunta.
 
 **Entrada** – todas as oportunidades enviadas ao parceiro de vendedores da Microsoft para venda colaborativa estão disponíveis nesta guia.
 
-**Saída** – todas as oportunidades criadas pelo parceiro estão disponíveis nesta guia. os parceiros podem criar duas categorias diferentes de oportunidades – a venda e o pipeline privado. 
+**Saída** – todas as oportunidades criadas pelo parceiro estão disponíveis nesta guia. Os parceiros podem criar duas categorias diferentes de oportunidades – a venda e o pipeline privado. 
 
-**Favoritos** – oportunidades marcadas como favoritos nas guias de oportunidades de venda de entrada ou saída são mostradas nesta guia. Marque qualquer oportunidade como favorita clicando no ícone de coração na oportunidade na exibição de lista. Você pode remover a oportunidade dos favoritos clicando no mesmo ícone novamente.
+**Favoritos** – oportunidades marcadas como favoritos nas guias de oportunidades de venda de entrada ou saída são mostradas nesta guia. Marque qualquer oportunidade como favorita clicando no ícone de coração sobre a oportunidade na exibição de lista. Você pode remover a oportunidade dos favoritos clicando no mesmo ícone novamente.
 
 
 ## <a name="creating-a-co-sell-opportunity"></a>Criando uma oportunidade de venda conjunta 
@@ -130,7 +127,25 @@ Quando terminar, você poderá executar uma das duas ações, que estão marcand
 
 ### <a name="archived-stage"></a>Estágio Arquivado
 
-Esse é um estágio de terminal em que todas as oportunidades finalmente chegam. Você pode exibir todos os clientes potenciais que estão em **vitórias, perdidos, recusados**e **expirados** neste estágio. Não há ações que você possa executar neste estágio.
+Este é o estágio final de todas as oportunidades. Você pode exibir todos os clientes potenciais que estão em **vitórias, perdidos, recusados**e **expirados** no arquivo morto. Não há ações que você possa executar neste estágio.
+
+## <a name="frequently-asked-questions"></a>Perguntas frequentes
+
+**Trimestre. Um negócio pode ser editado depois de ser marcado como ganho ou perdido?**
+
+Não, as negociações não podem ser modificadas quando se movem para um estado de terminal. Expirados, recusados, ganhos e perdidos são os Estados de terminal em que não há nenhuma atualização adicional possível ao negócio. Tenha cuidado ao mover o negócio para qualquer um desses Estados de terminal.
+
+**Lançado. Recebi uma nova notificação de referência, mas não consigo encontrá-la no Partner Center?**
+
+Isso pode acontecer se sua empresa tiver vários locatários associados à mesma conta do MPN. Vá para configurações de conta do Partner Center e verifique os locatários associados à conta. Em seguida, crie um tíquete de suporte solicitando a vinculação dos locatários. Forneça a ID de locatário na qual você fez logon no tíquete de suporte.
+
+:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Imagem mostrando as configurações de conta nas quais as informações de locatário podem ser encontradas.":::
+
+**3o. Quem recebe uma notificação por email do Partner Center?**
+
+O fluxo de trabalho abaixo explica como os emails são enviados aos parceiros do sistema de referências do Partner Center para novas referências de entrada de parceiro.
+
+:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Imagem mostrando a lógica de como os emails são enviados aos parceiros para novas referências de entrada.":::
 
 ## <a name="getting-more-co-sell-opportunities"></a>Obtendo mais oportunidades de venda conjunta
 
