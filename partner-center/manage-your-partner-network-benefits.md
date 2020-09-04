@@ -1,7 +1,7 @@
 ---
 title: Gerenciar os benefícios do Microsoft Partner Network
 ms.topic: article
-ms.date: 06/15/2020
+ms.date: 08/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Junte-se ao MPN (Microsoft Partner Network) e use o Partner Center para gerenciar os benefícios e as ofertas de associação que podem ajudar a aumentar os seus negócios.
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb44a8c32476995275535e1252e2bc9ae2c618d1
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: ff62fbcd082dc69204831cc57bc7af36b83762fa
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120000"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220744"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Gerenciar as suas ofertas e benefícios de associação ao Microsoft Partner Network no Partner Center
 
@@ -41,9 +41,11 @@ Depois de comprar um pacote de benefícios de associação, você precisará obt
 >[!IMPORTANT]
 >Embora você não precise ser um administrador global em sua organização para comprar benefícios, você precisará ser o administrador global para atribuir benefícios aos funcionários. Se necessário, você poderá se tornar um administrador global seguindo as instruções da [página **Benefícios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (entrada necessária). Talvez sua empresa já tenha um administrador global; portanto, verifique isso com a sua equipe.
 
-Os pacotes de benefícios incluem alocações de software licenciado, serviços de nuvem, assinaturas do Visual Studio e suporte. Os pacotes de benefícios também podem incluir determinados recursos, ofertas e programas de entrada no mercado. Obtenha os detalhes sobre a assinatura do Action Pack no site do [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
+Os pacotes de benefícios incluem alocações de software licenciado, serviços de nuvem, assinaturas do Visual Studio e suporte técnico. Os pacotes de benefícios também podem incluir determinados recursos de entrada no mercado, ofertas e programas relacionados ao mercado. Obtenha os detalhes sobre a assinatura do Action Pack no site do [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
-Para exibir e gerenciar todos os seus benefícios de associação, acesse a [página **Benefícios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (entrada necessária). Como alternativa, você pode entrar no [Painel](https://partner.microsoft.com/dashboard) do Partner Center, selecionar a [**opção Benefícios**] no menu à esquerda e, em seguida, selecionar as opções de benefícios exibidas.  
+Para ver e gerenciar todos os benefícios de associação, acesse a página [**Benefícios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (requer credenciais). Como alternativa, você pode entrar no [Painel](https://partner.microsoft.com/dashboard) do Partner Center, selecionar a [**opção Benefícios**] no menu à esquerda e, em seguida, selecionar as opções de benefícios exibidas.  
+
+Para ativar a maioria dos benefícios ou baixar as chaves de software relacionadas etc., o Partner Center geralmente exige alguém que exerça a função de administrador global ou administrador de parceiros do MPN. Se você não conseguir ver os benefícios nem os ativar, verifique com o administrador global do Partner Center se você tem as permissões necessárias. [Saiba mais sobre as funções do Partner Center](permissions-overview.md).
 
 ## <a name="manage-software-benefits"></a>Gerenciar os benefícios de software
 
@@ -88,23 +90,27 @@ Para exibir e gerenciar todos os seus benefícios de associação, acesse a [pá
 
 ## <a name="manage-technical-benefits"></a>Gerenciar benefícios técnicos
 
-1. Selecione **Benefícios técnicos** para ver a sua lista de benefícios técnicos da Microsoft.
+Esta seção descreve como ativar e gerenciar os benefícios de suporte técnico no [Painel](https://partner.microsoft.com/dashboard) do Partner Center. No entanto, se a sua associação ao Microsoft Partner Network ainda estiver no PMC (Partner Membership Center), você precisará entrar em contato com outro recurso (como o Partner Frontline) para obter ajuda na ativação dos benefícios técnicos. Confira [Ativar os benefícios técnicos fora do Partner Center](partner-membership-center-tech-benefits-activate.md).
 
-   Os benefícios técnicos podem incluir incidentes de suporte de produtos Microsoft, horas de consultoria de parceiro e serviços de implantação de pré-vendas técnicas.
+Para ver seus benefícios técnicos no Partner Center, faça o seguinte:
 
-2. Encontre o benefício de suporte que deseja começar a usar e, em seguida, selecione a seta para baixo na extremidade direita da linha para expandir os detalhes do benefício.
+1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
-3. Para ativar seu benefício de suporte, atribua um usuário a ele.
+2. Selecione **Benefícios** e **Benefícios Técnicos** no menu de navegação à esquerda. A página de benefícios técnicos será exibida com uma lista de benefícios de suporte técnico disponíveis para qualquer uma das competências Ouro, Prata ou do Microsoft Action Pack.
 
-   a. Selecione um usuário na lista. Se o usuário que você desejar atribuir não estiver na lista, você poderá [adicionar novos usuários](create-user-accounts-and-set-permissions.md) em **Configurações da conta**.
+   Se não vir essas opções ou a página de benefícios técnicos, talvez você não tenha as [funções de usuário](permissions-overview.md) corretas atribuídas no Partner Center. Entre em contato com o administrador global do Partner Center para obter acesso.
 
-   b. Forneça um endereço de email para o usuário que seja diferente do endereço de email associado à conta do Partner Center da sua empresa.
+3. Expanda a lista de benefícios. Para começar a aproveitar um benefício de suporte específico, você precisará fazer o seguinte na primeira vez que usá-lo:
 
-   Como uma medida de segurança, enviaremos instruções por email para acessar o Microsoft Product Support nesse endereço de email, além do email da conta do usuário do Partner Center. Pode levar vários dias para ativar esse benefício e enviar instruções por email ao usuário atribuído.
+   - **Ative o benefício técnico.** Após expandir os detalhes de um benefício, selecione **Ativar**. Aguarde alguns dias para processar sua solicitação de ativação.
 
-   c. Depois de terminar de inserir o endereço de email alternativo, selecione **Atribuir usuário**.
+   - **Veja e compartilhe a ID de Acesso e a ID de Contrato do suporte de produtos.** Depois que a solicitação de ativação for processada, você verá detalhes sobre a **ID de Acesso** e a **ID de Contrato** da próxima vez que expandir esse benefício técnico. Você ou os usuários da sua empresa podem precisar compartilhar essas informações na primeira vez que você enviar uma solicitação de suporte para determinados tipos de produtos ou serviços.
 
-4. Você pode usar seu benefício de assistência de pré-vendas técnicas ou horas de consultoria para solicitar assistência técnica durante as fases de pré-vendas, design, implantação e desenvolvimento de aplicativos de suas soluções híbridas e de nuvem. Para solicitar assistência, preencha o [formulário de solicitação](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest) e, em seguida, selecione **Enviar solicitação**.
+4. Depois de ativados, você pode usar os benefícios técnicos para diferentes tipos de suporte técnico. Para enviar solicitações de suporte técnico para esses tipos de serviços, leia as instruções detalhadas na página Benefícios Técnicos:
+
+   - Solicitando suporte para produtos de nuvem em nome do seu cliente
+   - Solicitando suporte para produtos locais
+   - Solicitando serviços técnicos de pré-vendas e de implantação ou [horas de consultoria](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)
 
 ## <a name="manage-go-to-market-offers"></a>Gerenciar ofertas de entrada no mercado
 

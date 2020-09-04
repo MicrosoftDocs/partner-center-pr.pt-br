@@ -9,18 +9,57 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: 6382e5e594dbe68c63cbbad1313948fedcf0fd89
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: acbe2e22f1295a881ef064e0e6ff018c9b98eb95
+ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303052"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89274984"
 ---
 # <a name="august-2020-announcements"></a>Comunicados de agosto de 2020
 
 Esta página detalha os comunicados de agosto de 2020 sobre o Microsoft Partner Center.
 
 Comunicados de 2020: [Janeiro](2020-january.md) | [Fevereiro](2020-february.md) | [Março](2020-march.md) | [Abril](2020-april.md) | [Maio](2020-may.md) | [Junho](2020-june.md) | [Julho](2020-july.md) | Agosto
+
+________________
+
+## <a name="partner-center-api-updates-and-user-interface-enhancements-for-the-education-customer-validation-process"></a><a name="8"></a>Aprimoramentos na interface do usuário e atualizações da API do Partner Center para o processo de validação do cliente de Educação
+
+### <a name="categories"></a>Categorias
+
+- Data: 31/08/2020
+- Capacidades
+
+### <a name="impacted-audience"></a>Público-alvo afetado
+
+Parceiros que vendem ofertas acadêmicas por meio do programa CSP (Provedor de Soluções na Nuvem) 
+
+### <a name="summary"></a>Resumo
+
+A Microsoft atua com base na confiança e assumimos o compromisso de fornecer um método em conformidade e seguro de validação de clientes para realizar transações de ofertas Acadêmicas no programa Provedor de Soluções na Nuvem. Como parte desse compromisso, introduziremos a API do Partner Center e os aprimoramentos na interface do usuário no FY21 Q2 (segundo trimestre do ano fiscal de 2021), o que adicionará clareza e visibilidade ao processo de habilitação do cliente, bem como a capacidade de inserir dados mais precisos para aumentar o sucesso na habilitação do cliente. 
+
+#### <a name="partner-center-enhancements"></a>Aprimoramentos do Partner Center
+
+- Novas APIs de Qualificações GET e POST para dar suporte à entrada de dados precisos e aprimorar o processo de validação do cliente de Educação da Microsoft.
+- Aprimoramentos na interface do usuário para dar suporte à entrada de dados precisos e aprimorar o processo de validação do cliente de Educação realizado pela Microsoft.
+
+#### <a name="testing"></a>Testando
+
+Os parceiros terão a oportunidade de testar esses aprimoramentos a partir de outubro. Recomendamos que você aproveite essa oportunidade para obter uma melhor compreensão das APIs e da entrada de dados necessária para uma habilitação de cliente bem-sucedida. Forneceremos mais detalhes em breve sobre como e quando participar. As APIs existentes do Partner Center serão desativadas antes do fim do segundo trimestre do ano fiscal de 2021. Até lá, todos os parceiros deverão ter feito a transição de uso para as novas APIs do Partner Center.
+
+#### <a name="library-and-museum-customers"></a>Clientes de biblioteca e museu
+
+Além dos aprimoramentos acima, também estamos empolgados em anunciar que, no segundo trimestre do ano fiscal de 2021, habilitaremos ofertas com preços Acadêmicos para clientes de biblioteca e museu, expandindo os clientes de Educação com os quais você pode realizar transações de ofertas CSP.
+
+A Microsoft reserva a si o direito de examinar o status de qualquer cliente ou cliente proposto como um usuário de Educação qualificado. Confira os [requisitos do Usuário de Educação Acadêmica Qualificada](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) para obter detalhes completos.
+
+### <a name="next-stepsadditional-resources"></a>Próximas etapas/recursos adicionais
+
+- Examine a nova Interface do Usuário do Partner Center e as alterações de API nos recursos de preparação de operações: [Aprimoramentos do processo de validação do cliente de Educação do Partner Center](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- Verifique se a sua organização está familiarizada com os [requisitos do Usuário de Educação Acadêmica Qualificada](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).
+- Compartilhe essas informações com as equipes apropriadas da sua organização e com seus revendedores para ajudá-los a se preparar para essas alterações.
+- Fique atento a uma atualização sobre a oportunidade de teste de outubro, na qual forneceremos mais detalhes sobre como e quando participar.
 
 ________________
 

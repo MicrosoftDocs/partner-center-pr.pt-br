@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: efae9cce608524835c8e4526f23e61b793470d2b
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 0ba59ee7b502d06aa5f95ca45fa86aa10fcab059
+ms.sourcegitcommit: b702276b961943688b710664313818d8e10e33ad
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811106"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89304973"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Verifique suas informações de perfil do parceiro no Partner Center
 
@@ -25,7 +25,7 @@ ms.locfileid: "87811106"
 
 Na primeira vez que você entrar no Partner Center como administrador global, deverá confirmar se todos os detalhes da empresa estão corretos. Isso inclui contato principal, razão social, endereço jurídico e informações do programa. Se sua empresa tiver mais de um local, verifique se os dados do local estão corretos. Como administrador global, administrador de cobrança ou agente administrador, você também poderá ver e atualizar as informações de cobrança e imposto.
 
-Seu perfil de parceiro consiste em informações jurídicas, nome e email do contato principal, programas nas quais a sua empresa participa e, se relevante, suas outras empresas que agora se fundiram no seu negócio jurídico.
+Seu perfil de parceiro consiste em informações jurídicas, nome e email do contato principal, programas nas quais a sua empresa participa e, se relevante, suas outras empresas que agora se fundiram no seu negócio jurídico. Verifique se o nome e o endereço da empresa no perfil comercial legal não têm erros de ortografia nem abreviações e se correspondem exatamente aos registros comerciais formais da empresa. Se você estiver operando como Proprietário Único, precisará usar o nome da empresa como razão social.
 
 1. Vá para **Configurações** e selecione **Perfil do parceiro**.
 
@@ -39,7 +39,7 @@ Agora você pode atualizar seu endereço jurídico no Partner Center.
 
 1. Vá para **Configurações** e selecione **Perfil do parceiro**. 
 
-2. Selecione **Atualizar** ao lado do endereço jurídico. ""
+2. Selecione **Atualizar** ao lado do endereço jurídico. 
 
 >[!Important]
 >Se você for um parceiro CSP, não será possível alterar o país associado ao seu endereço jurídico. O país do endereço jurídico está vinculado ao seu locatário e aos seus serviços, bem como à moeda com a qual você faz negócios. Se não estiver no programa CSP, você poderá alterar o país associado ao seu endereço jurídico. A razão social da empresa não poderá ser atualizada no Partner Center se o seu status de habilitação for "Autorizado". Será necessário [criar um tíquete de suporte](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).

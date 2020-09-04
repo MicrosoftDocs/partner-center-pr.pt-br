@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c87e47efc6c94e4e53a031a983a4a4e528ddc012
-ms.sourcegitcommit: 59bdf42f5282262835cb7ee2bd215bbddc7686d7
+ms.openlocfilehash: 3feb4e678381b6fa5398bf3b3d89f6e4286e6ff1
+ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "87839181"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "89040762"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Atribuir permissões e funções de usuários para os usuários de uma empresa que precisam trabalhar no Partner Center
 
@@ -39,14 +39,19 @@ Você determinará os tipos de acesso que os usuários terão ao Partner Center 
 |----------------------------------|:---------------------------------|
 |Administrador global|*    Pode acessar todas as contas/os serviços da Microsoft com todos os privilégios
 |      |*    Criar tíquetes de suporte para o Partner Center
+||*    Ver os tíquetes de suporte do parceiro que você criar
 ||*    Ver contratos, listas de preços e ofertas
 ||*    Ver, criar e gerenciar usuários parceiros|
 ||  • Exibir, criar e gerenciar a cobrança, as faturas e os arquivos reconhecimento
 |Administrador de gerenciamento de usuário   | *    Ver, criar e gerenciar usuários
 ||*    Ver todos os perfis de parceiros
 ||*    Ver, criar e gerenciar usuários parceiros  |
+||*    Criar tíquetes de suporte para o Partner Center
+||*    Ver os tíquetes de suporte do parceiro que você criar
 |Administrador de cobrança | – Exibir, criar e gerenciar a cobrança, as faturas e os arquivos reconhecimento|
 ||*    Exibir preço
+||*    Criar tíquetes de suporte para o Partner Center
+||*    Ver os tíquetes de suporte do parceiro que você criar
 |Usuário padrão|  Exibir meu perfil   |
 |Agente administrativo | *    Gerenciamento de clientes
 ||*    Adicionar lista de dispositivos ao Partner Center
@@ -57,7 +62,9 @@ Você determinará os tipos de acesso que os usuários terão ao Partner Center 
 ||*    Ver preços e ofertas
 ||*    Cobrança
 ||*    Administrar em nome de um cliente
-||*    Registrar um revendedor com valor agregado|
+||*    Registrar um revendedor com valor agregado
+||*    Criar tíquetes de suporte para o Partner Center
+||*    Ver os tíquetes de suporte do parceiro que você criar|
 |Agente de vendas | *    Gerenciamento de clientes
 ||*    Adicionar lista de dispositivos ao Partner Center
 ||*    Gerenciamento de assinaturas
@@ -66,12 +73,16 @@ Você determinará os tipos de acesso que os usuários terão ao Partner Center 
 ||*    Ver preços e ofertas
 ||*    Gerenciar clientes potenciais
 ||*    Ver o contrato do cliente
-||*    Registrar um revendedor com valor agregado|
+||*    Registrar um revendedor com valor agregado
+||*    Criar tíquetes de suporte para o Partner Center
+||*    Ver os tíquetes de suporte do parceiro que você criar|
 |Agente de suporte técnico| *    Pesquisar e ver um cliente
 ||*    Editar detalhes do cliente
 ||*    Ajudar a resolver problemas dos clientes com o gerenciamento de cobrança ou assinaturas
 ||*    Solicitar suporte em nome dos clientes 
-||*    Gerenciar problemas de assinaturas e cobrança em nome dos clientes| 
+||*    Gerenciar problemas de assinaturas e cobrança em nome dos clientes
+||*    Criar tíquetes de suporte para o Partner Center
+||*    Ver os tíquetes de suporte do parceiro que você criar| 
 
 ### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>CPV (Fornecedor de Painel de Controle). (Função CSP e função não pertencente ao AAD)
 Os CPVs desenvolvem aplicativos para uso por parceiros CSP (Provedor de Soluções na Nuvem) a fim de permitir que eles integrem seus sistemas com as APIs do Partner Center. 
@@ -107,10 +118,14 @@ Os CPVs desenvolvem aplicativos para uso por parceiros CSP (Provedor de Soluçõ
 ||*    Pode funcionar na ferramenta de validação de comprovantes|
 ||*    Ver análises de dados do cliente
 ||*    Ver outras funções de usuário dentro da empresa, mas não atribuir funções
+||*    Criar tíquetes de suporte para o Partner Center
+||*    Ver os tíquetes de suporte do parceiro que você criar
 |Administrador de conta| Adicionar locais
 || Gerenciar perfis relacionados às contas para as quais você é administrador 
 ||*    Atribuir funções aos usuários do locatário para funções não pertencentes ao AAD 
 ||*    Registrar locais em programas
+||*    Criar tíquetes de suporte para o Partner Center
+||*    Ver os tíquetes de suporte do parceiro que você criar
 
 
 ## <a name="manage-referrals"></a>Gerenciar indicações 
@@ -122,7 +137,9 @@ Os CPVs desenvolvem aplicativos para uso por parceiros CSP (Provedor de Soluçõ
 ||* Ver, criar e gerenciar as indicações de venda conjunta|
 ||*    Ver, criar e gerenciar solicitações de serviço de parceiros
 |Administrador de perfis de negócios   |* Ver, criar e gerenciar perfis de negócios 
-||*    Ver, criar e gerenciar solicitações de serviço de parceiros|
+||*    Ver, criar e gerenciar solicitações de serviço de parceiros
+||*    Criar tíquetes de suporte para o Partner Center
+||*    Ver os tíquetes de suporte do parceiro que você criar|
 
 ## <a name="manage-incentives"></a>Gerenciar incentivos 
 
@@ -137,14 +154,15 @@ Os CPVs desenvolvem aplicativos para uso por parceiros CSP (Provedor de Soluçõ
 |Usuário de incentivos|*    Ver programas de incentivos
 ||*    Ver e iniciar reivindicações de incentivos
 ||*    Ver lucros de reembolso e de cooperação
-||*    Acessar suporte
+||*    Criar tíquetes de suporte para o Partner Center
+||*    Ver os tíquetes de suporte do parceiro que você criar
 
 ## <a name="view-partner-center-insights-data"></a>Exibir dados de Insights do Partner Center
 
 |**Função** | **O que você pode fazer**|
 |------------------------------|:-------------------------|
-|Visualizador de relatórios executivos|Acesso a todos os conjuntos de dados de relatórios|
-|Visualizador de relatórios|Acesso a relatórios de dados com exceção de receita e dados pessoais de clientes e funcionários|
+|Visualizador de relatórios executivos|Acessar todos os conjuntos de dados dos relatórios, criar tíquetes de suporte do parceiro, ver os tíquetes de suporte do parceiro que você criar|
+|Visualizador de relatórios|Acessar relatórios de dados com exceção de receita e dados pessoais de clientes e funcionários, criar tíquetes de suporte do parceiro, ver os tíquetes de suporte do parceiro que você criar|
 
 
 

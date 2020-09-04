@@ -1,7 +1,7 @@
 ---
 title: Requisitos básicos para reivindicações de cooperação de incentivos
 ms.topic: article
-ms.date: 08/07/2020
+ms.date: 08/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Saiba como gerar demanda, entender o desenvolvimento do mercado e maximizar a preparação do parceiro para as atividades em seu programa de incentivos.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 3246b04c74e1d5daa047a12fabcf78d4e6f11807
-ms.sourcegitcommit: ddc99fa026f3e8a3dbe10b4a6f883e7f58de00df
+ms.openlocfilehash: 070f73cbb8387510d7fe358e48c1116b16630fad
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/10/2020
-ms.locfileid: "88039459"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220664"
 ---
 # <a name="incentives-co-op-claims-core-requirements"></a>Solicitações principais de reivindicações de cooperação de incentivos
 
@@ -208,7 +208,7 @@ As tabelas a seguir descrevem os requisitos básicos para cada uma das atividade
 | Métricas     | NA |
 |Despesas qualificadas    | NA |
 
- Para obter detalhes, baixe o [Guia de cooperação de incentivos para parceiros](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) (é necessário conectar-se)
+ Para obter detalhes, baixe o [Guia de Cooperação de Incentivos para Parceiros](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) (requer credenciais).
 
 ## <a name="next-steps"></a>Próximas etapas
 

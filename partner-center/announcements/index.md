@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 847b586fdb3e7b2361042c18ad9f9f0ae3203a62
-ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
+ms.openlocfilehash: 5309b7cca20aff3fb37c0dd7607ba7439f2851c4
+ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89286498"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89427093"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,6 +22,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 | **Categoria** | **Comunicados de setembro de 2020** | **Comunicado** |
 |---------|:---------|:---------|
+|Ofertas/mercados|[Experiência de suporte aprimorada dos Incentivos e processo de criação de tíquete](2020-september.md#4)|2 de setembro|
 |Ofertas/mercados|[Próximas novas ofertas do Microsoft Dynamics 365](2020-september.md#3)|1º de setembro|
 |Ofertas/mercados|[O Plano de Chamadas do Office 365 estará disponível em novos mercados em 1º de outubro de 2020](2020-september.md#2)|1º de setembro|
 |Ofertas/mercados|[O Microsoft Defender ATP (Proteção Avançada contra Ameaças) para Servidores para Educação já está disponível](2020-september.md#1)|1º de setembro|
