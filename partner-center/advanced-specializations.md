@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0aa6efabbff39d63847451c667d48f723ad33b24
-ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
+ms.openlocfilehash: 4daaaa9cdaa0392b90a67d7fc0a8957d3393d6e3
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "88942558"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490614"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>Ganhe uma especialização avançada para a experiência de demonstração e destaque para os clientes 
 
@@ -28,7 +28,7 @@ Para ganhar uma especialização avançada, sua empresa deve ter obtido uma comp
 
 Se você estiver interessado na especialização avançada chamada **modernização de aplicativos Web para Microsoft Azure**, selecione-o no menu do centro de parceiros. Você é levado para a página pré-requisitos.
 
-:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Pré-requisitos":::
+:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Exemplo de página de pré-requisitos mostrando os requisitos para ganhar uma competência de plataforma de nuvem Gold ativa.":::
 
 
 Até que você atenda a todos os pré-requisitos, seu status permanecerá **não iniciado.** Quando você atender aos pré-requisitos, o botão **agendar auditoria** será habilitado. Você precisa concluir uma auditoria com um auditor de terceiros para as seguintes especializações avançadas do Azure:
@@ -47,7 +47,7 @@ Quando você tiver concluído todos os requisitos, seu status será **ativo**. O
 
 Um exemplo de Especialização avançada que exige referências de clientes é **reuniões e salas de reunião do Microsoft Teams**. Além de competência Gold, certificações e um requisito de desempenho, você deve fornecer três referências de clientes que demonstram sua capacidade de implantar e gerenciar.
 
-:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Pré-requisitos":::
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Página pré-requisitos de especializações avançadas de exemplo que requer referências de clientes.":::
 
 Até que você atenda a todos os pré-requisitos, seu status permanecerá **não iniciado.** Quando você tiver concluído todos os requisitos, seu status será **ativo**. O status ativo habilita automaticamente uma marca em seu **perfil comercial** visível para todos os clientes pesquisando [encontrar um provedor de soluções](https://www.microsoft.com/solution-providers/home).
 

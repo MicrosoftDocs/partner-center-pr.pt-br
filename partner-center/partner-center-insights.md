@@ -9,12 +9,12 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 2fc6c66de21a32c2b4cfd47ecd0fe97764109b18
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 2b1a09253b7a9e9c8863f07b729ad116689a4642
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943693"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490624"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Informações do Partner Center – um painel que mostra como um parceiro comercial da Microsoft está fazendo
 
@@ -72,7 +72,7 @@ Os relatórios a seguir estão disponíveis como parte do painel de informaçõe
 
 - Filtros selecionados serão exibidos na parte superior da página. 
 
-:::image type="content" source="images/pci/filters.png" alt-text="Filter":::
+:::image type="content" source="images/pci/filters.png" alt-text="Captura de tela parcial mostrando a barra filtros aplicados com seleções de filtro para produtos, mercados de clientes, atribuições de parceiros e canais de vendas.":::
 
 ### <a name="filters-definitions"></a>Definições de filtros:
 

@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5a9df2b6f67ca4e825da2c273c82d7cd46763f1b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 980c086a2ab1ee0a21592ceb1e2e018c0e1159ae
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436635"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490604"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Controle de acesso baseado em função para o painel do recepções do Partner Center
 
@@ -22,7 +22,7 @@ O painel de informações usa duas novas funções no Partner Center para gerenc
 
 Assim como acontece com outras funções do centro de parceiros, o administrador global ou o administrador da conta poderá atribuir usuários a essas funções na página de gerenciamento de usuários. As funções podem ser aplicáveis em toda a empresa ou em local (s) MPN específicos. As funções atribuídas a locais MPN específicos limitam o usuário a exibir dados de relatório associados somente ao (s) local (es) MPN selecionados. O parceiro pode selecionar um ou vários locais na exibição abaixo.
 
-:::image type="content" source="images/pci/roles.png" alt-text="Funções":::
+:::image type="content" source="images/pci/roles.png" alt-text="Mostra as configurações de funções de informações do Partner Center específicas do local para o Visualizador de relatórios e o Visualizador de relatórios do Executive.":::
 
 >[!Note]
 > Os usuários que são administradores de MPN a partir de 20 de janeiro de 2020 são automaticamente adicionados à função de **Visualizador de relatórios de executivos** de toda a empresa para todos os locais para esse locatário. Assim, esses usuários são capazes de acessar os relatórios como um visualizador de relatórios executivos sem qualquer ação explícita exigida pelo administrador global ou pela conta. Os administradores globais e os administradores de conta podem substituir as funções atribuídas automaticamente desses usuários para aumentar ou limitar seus recursos.

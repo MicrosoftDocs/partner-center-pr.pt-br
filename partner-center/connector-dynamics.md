@@ -8,12 +8,12 @@ description: Sincronize suas referências no Partner Center com o Dynamics 365 C
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 9cbdefb46691bf10ca1525190729a056f222ee90
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 0071de30b47ee987be027b3586c1df9eef300b05
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527572"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490664"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Conector de venda conjunta para Dynamics 365 CRM – visão geral
 
@@ -109,7 +109,7 @@ As APIs de webhook do Partner Center permitem que você se registre em eventos d
 
 1. Para registrar sua URL, selecione o **registro do webhook do Partner Center (insider Preview)** fluxo automatizado de energia.
 
-2. Adicionar conexões para (a) Usuário do Partner Center com as referências credenciais de administrador (b.) Eventos do Partner Center conforme realçado abaixo
+2. Adicione conexões para o usuário do centro de parceiros (a) com referências credenciais de administrador (b.) os eventos do centro de parceiros conforme realçado abaixo
 
    :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Gatilho":::
 
@@ -171,7 +171,7 @@ Várias etapas de cada um dos fluxos de energia automatizada podem ser personali
 
 3. Para personalizar os campos de sincronização de referência do CRM para PC para eventos de atualização:
 
-    a. Selecione **Editar** para editar/personalizar o fluxo de automatização de energia.
+    a. Selecione **Editar**  para editar/personalizar o fluxo de automatização de energia.
 
     b. Selecione **(escopo) sincronizar a oportunidade**.
 
@@ -183,7 +183,7 @@ Várias etapas de cada um dos fluxos de energia automatizada podem ser personali
 
 4. Para personalizar os campos para a sincronização de referência do CRM para PC para criar eventos?
 
-   a. Selecione **Editar** para editar/personalizar o fluxo de automatização de energia.
+   a. Selecione **Editar**  para editar/personalizar o fluxo de automatização de energia.
 
    b. Selecione **(escopo) sincronizando referências.**
 
@@ -223,7 +223,7 @@ Os campos personalizados a seguir devem fazer parte da seção CRM:
 
    2. Verifique se a seção a seguir está presente quando você cria uma "nova oportunidade" no ambiente do Dynamics 365
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Oportunidade":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Exemplo de seção de oportunidade mostrando informações do Microsoft Partner Center no Dynamics 365.":::
 
    3. Para sincronizar essa oportunidade com o Microsoft Partner Center, certifique-se de definir os seguintes campos no modo de exibição de cartão:
 
@@ -231,7 +231,7 @@ Os campos personalizados a seguir devem fazer parte da seção CRM:
 
       - **Como a Microsoft pode ajudar?**: selecione uma das seguintes opções:
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Seleções de ajuda":::
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Exemplo de seção de oportunidade no Dynamics 365 que mostra as opções de ajuda do Microsoft Partner Center ao lado de um campo chamado como a Microsoft pode ajudar?":::
 
       - **Produtos**: IDs de solução do produto
 
