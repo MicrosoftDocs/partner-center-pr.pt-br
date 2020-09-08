@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: dbedfdb2001966a78f1453ee45615ab9418d968a
-ms.sourcegitcommit: 9ad926be9f5d245b307bc7d3975ff3973dba3161
+ms.openlocfilehash: ea89b3dae9d57957431e6e23c5fd102de3898d8f
+ms.sourcegitcommit: b5dd3427cec176a55f00394f4f33b2b570d4abd5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2020
-ms.locfileid: "88188437"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "89551637"
 ---
 # <a name="benefits-faq"></a>Perguntas frequentes sobre os benefícios
 
@@ -94,6 +94,8 @@ Você pode atribuir assinaturas a qualquer pessoa em sua lista de gerenciamento 
 4. Atribua os usuários desejados às suas assinaturas existentes do Visual Studio disponíveis.
 
 Depois de atribuir a assinatura, o usuário precisa fazer logon no Visual Studio para gerenciá-la.
+
+Observação: o usuário atribuído a uma assinatura do Visual Studio no Partner Center não pode ser removido até 90 dias de atribuição original
 
 ## <a name="technical-benefits-and-support"></a>Benefícios técnicos e suporte
 
