@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3feb4e678381b6fa5398bf3b3d89f6e4286e6ff1
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 2e8608c194057ea811890c9c575f8964b63564f0
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89040762"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490594"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Atribuir permissões e funções de usuários para os usuários de uma empresa que precisam trabalhar no Partner Center
 
@@ -35,25 +35,24 @@ Você determinará os tipos de acesso que os usuários terão ao Partner Center 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Gerenciar transações comerciais no Partner Center (funções Azure AD e CSP)
 
-|**Função**|**O que eles podem fazer**|
-|----------------------------------|:---------------------------------|
-|Administrador global|*    Pode acessar todas as contas/os serviços da Microsoft com todos os privilégios
+|**Função**|**O que eles podem fazer**|**Saiba mais**|
+|----------------------------------|---|:---------------------------------|
+|Administrador global|*    Pode acessar todas as contas/os serviços da Microsoft com todos os privilégios|[Gerenciar sua conta do Partner Center](partner-center-account-setup.md)
 |      |*    Criar tíquetes de suporte para o Partner Center
 ||*    Ver os tíquetes de suporte do parceiro que você criar
 ||*    Ver contratos, listas de preços e ofertas
 ||*    Ver, criar e gerenciar usuários parceiros|
 ||  • Exibir, criar e gerenciar a cobrança, as faturas e os arquivos reconhecimento
-|Administrador de gerenciamento de usuário   | *    Ver, criar e gerenciar usuários
+|Administrador de gerenciamento de usuário   | *    Ver, criar e gerenciar usuários|[Gerenciar as suas ofertas e benefícios de associação ao Microsoft Partner Network no Partner Center](manage-your-partner-network-benefits.md)
 ||*    Ver todos os perfis de parceiros
-||*    Ver, criar e gerenciar usuários parceiros  |
 ||*    Criar tíquetes de suporte para o Partner Center
 ||*    Ver os tíquetes de suporte do parceiro que você criar
-|Administrador de cobrança | – Exibir, criar e gerenciar a cobrança, as faturas e os arquivos reconhecimento|
+|Administrador de cobrança | – Exibir, criar e gerenciar a cobrança, as faturas e os arquivos reconhecimento|[Ler sua fatura](billing.md)
 ||*    Exibir preço
 ||*    Criar tíquetes de suporte para o Partner Center
 ||*    Ver os tíquetes de suporte do parceiro que você criar
-|Usuário padrão|  Exibir meu perfil   |
-|Agente administrativo | *    Gerenciamento de clientes
+|Usuário padrão|  Exibir meu perfil   |[Redefinir sua senha](reset-my-pasword.md)
+|Agente administrativo | *    Gerenciamento de clientes|[Configuração e gerenciamento da conta do cliente para parceiros revendedores no Partner Center](customer-accounts.md)
 ||*    Adicionar lista de dispositivos ao Partner Center
 ||*    Criar e aplicar perfis aos dispositivos
 ||*    Gerenciamento de assinaturas
@@ -65,7 +64,7 @@ Você determinará os tipos de acesso que os usuários terão ao Partner Center 
 ||*    Registrar um revendedor com valor agregado
 ||*    Criar tíquetes de suporte para o Partner Center
 ||*    Ver os tíquetes de suporte do parceiro que você criar|
-|Agente de vendas | *    Gerenciamento de clientes
+|Agente de vendas | *    Gerenciamento de clientes|[Fornecer suporte a cobrança para seus clientes e ajudar a responder às perguntas deles sobre cobrança](provide-billing-support.md)
 ||*    Adicionar lista de dispositivos ao Partner Center
 ||*    Gerenciamento de assinaturas
 ||*    Ver tíquetes de suporte
@@ -76,7 +75,7 @@ Você determinará os tipos de acesso que os usuários terão ao Partner Center 
 ||*    Registrar um revendedor com valor agregado
 ||*    Criar tíquetes de suporte para o Partner Center
 ||*    Ver os tíquetes de suporte do parceiro que você criar|
-|Agente de suporte técnico| *    Pesquisar e ver um cliente
+|Agente de suporte técnico| *    Pesquisar e ver um cliente|[Escale problemas para a Microsoft e saiba quais problemas são mais adequados ao escalonamento para a Microsoft](escalate-problems-to-microsoft.md)
 ||*    Editar detalhes do cliente
 ||*    Ajudar a resolver problemas dos clientes com o gerenciamento de cobrança ou assinaturas
 ||*    Solicitar suporte em nome dos clientes 
@@ -87,9 +86,9 @@ Você determinará os tipos de acesso que os usuários terão ao Partner Center 
 ### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>CPV (Fornecedor de Painel de Controle). (Função CSP e função não pertencente ao AAD)
 Os CPVs desenvolvem aplicativos para uso por parceiros CSP (Provedor de Soluções na Nuvem) a fim de permitir que eles integrem seus sistemas com as APIs do Partner Center. 
 
-|**Função**   |**O que você pode fazer**|
-|------------------------------|:----------------------------|
-|Administrador global| Exibir e gerenciar seu perfil de CPV|
+|**Função**   |**O que você pode fazer**|**Saiba mais**|
+|------------------------------|:----------------------------|----|
+|Administrador global| Exibir e gerenciar seu perfil de CPV|[Inscreva-se como um Fornecedor de Painel de Controle para ajudar a integrar sistemas de parceiros CSP com as APIs do Partner Center](enroll-as-cpv.md)
 ||Exibir e gerenciar todos os seus usuários que precisam de acesso aos recursos de CPV|
 
 ### <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Usuário convidado (deve ser adicionado ao locatário do AAD)
@@ -105,9 +104,9 @@ Os CPVs desenvolvem aplicativos para uso por parceiros CSP (Provedor de Soluçõ
 
 ## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>Gerenciar associação do MPN e sua empresa (funções não pertencentes ao AAD: essas funções gerenciam os negócios da empresa em vez do locatário)
 
-|**Função** | **O que você pode fazer**|
-|----------------------------|:----------------------------|
-|Administrador de parceiros do MPN|*    Ver, criar e gerenciar solicitações de serviço de parceiros||
+|**Função** | **O que você pode fazer**|**Saiba mais**|
+|----------------------------|:----------------------------|-----|
+|Administrador de parceiros do MPN|*    Ver, criar e gerenciar solicitações de serviço de parceiros|[Comprar ou renovar uma assinatura do Microsoft Action Pack ou as competências silver e gold](mpn-get-action-pack.md)
 ||*    Ver perfis jurídico, empresarial, de negócios e do MPN
 ||*    Ver detalhes do usuário e seus dados de habilidades
 ||*    Ver competências
@@ -120,7 +119,7 @@ Os CPVs desenvolvem aplicativos para uso por parceiros CSP (Provedor de Soluçõ
 ||*    Ver outras funções de usuário dentro da empresa, mas não atribuir funções
 ||*    Criar tíquetes de suporte para o Partner Center
 ||*    Ver os tíquetes de suporte do parceiro que você criar
-|Administrador de conta| Adicionar locais
+|Administrador de conta| Adicionar locais|[Gerenciar locais](manage-locations.md)
 || Gerenciar perfis relacionados às contas para as quais você é administrador 
 ||*    Atribuir funções aos usuários do locatário para funções não pertencentes ao AAD 
 ||*    Registrar locais em programas
@@ -130,22 +129,22 @@ Os CPVs desenvolvem aplicativos para uso por parceiros CSP (Provedor de Soluçõ
 
 ## <a name="manage-referrals"></a>Gerenciar indicações 
 
-|**Função**|**O que você pode fazer**|
-|-----------------------------|:------------------------|
-|Administrador de indicações       |* Ver, criar e gerenciar perfis de negócios
+|**Função**|**O que você pode fazer**|**Saiba mais**|
+|-----------------------------|:------------------------|---|
+|Administrador de indicações       |* Ver, criar e gerenciar perfis de negócios|[Gerenciar vendas potenciais diferentes, como consultas de clientes, clientes potenciais qualificados por marketing e clientes potenciais qualificados por vendas](manage-leads.md)
 ||*    Receber e gerenciar indicações
 ||* Ver, criar e gerenciar as indicações de venda conjunta|
 ||*    Ver, criar e gerenciar solicitações de serviço de parceiros
-|Administrador de perfis de negócios   |* Ver, criar e gerenciar perfis de negócios 
+|Administrador de perfis de negócios   |* Ver, criar e gerenciar perfis de negócios |[Criar um perfil de negócios](create-a-marketing-profile.md)
 ||*    Ver, criar e gerenciar solicitações de serviço de parceiros
 ||*    Criar tíquetes de suporte para o Partner Center
 ||*    Ver os tíquetes de suporte do parceiro que você criar|
 
 ## <a name="manage-incentives"></a>Gerenciar incentivos 
 
-|**Função** | **O que você pode fazer**|
-|------------------------------|:-------------------------|
-|Administrador de incentivos|*    Iniciar e gerenciar incentivos 
+|**Função** | **O que você pode fazer**|**Saiba mais**
+|------------------------------|:-------------------------|---|
+|Administrador de incentivos|*    Iniciar e gerenciar incentivos |[Use estes recursos como incentivos para ajudá-lo a começar](incentives-get-started-intro.md)
 ||*    Ver e editar todos os aspectos dos programas de incentivos
 ||*    Ver e editar detalhes bancários e fiscais
 ||*    Ver lucros de reembolso e de cooperação
@@ -159,12 +158,15 @@ Os CPVs desenvolvem aplicativos para uso por parceiros CSP (Provedor de Soluçõ
 
 ## <a name="view-partner-center-insights-data"></a>Exibir dados de Insights do Partner Center
 
-|**Função** | **O que você pode fazer**|
-|------------------------------|:-------------------------|
-|Visualizador de relatórios executivos|Acessar todos os conjuntos de dados dos relatórios, criar tíquetes de suporte do parceiro, ver os tíquetes de suporte do parceiro que você criar|
+|**Função** | **O que você pode fazer**|**Saiba mais**|
+|------------------------------|:-------------------------|---|
+|Visualizador de relatórios executivos|Acessar todos os conjuntos de dados dos relatórios, criar tíquetes de suporte do parceiro, ver os tíquetes de suporte do parceiro que você criar|[Visão geral dos relatórios do painel disponíveis em Insights do Partner Center](pci-overview-report.md)
 |Visualizador de relatórios|Acessar relatórios de dados com exceção de receita e dados pessoais de clientes e funcionários, criar tíquetes de suporte do parceiro, ver os tíquetes de suporte do parceiro que você criar|
 
+## <a name="next-steps"></a>Próximas etapas
 
+- [Criar contas de usuário e atribuir funções e permissões](create-user-accounts-and-set-permissions.md)
+- [Verifique as informações da sua conta ao se inscrever em um novo programa do Partner Center](verification-responses.md)
 
 
 

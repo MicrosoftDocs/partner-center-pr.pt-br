@@ -163,6 +163,8 @@
       href: reset-my-pasword.md
     - name: Se você não consegue entrar na Central de Parceiros
       href: unable-to-sign-in.md
+    - name: O que fazer se o administrador do programa MPN tiver deixado a empresa?
+      href: no-mpn-admin.md
 - name: Gerenciar sua conta do Partner Center – negócios
   items:
     - name: Adicionar os Serviços Compartilhados com Parceiros do Azure
