@@ -1,20 +1,20 @@
 ---
 title: Confirmar a aceitação do cliente do Contrato de Cliente da Microsoft
+description: Aprenda a confirmar a aceitação do cliente do Contrato de Cliente da Microsoft. Os CSPs precisam disso para solicitar serviços e produtos da Microsoft para clientes.
 ms.topic: how-to
-ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Aprenda a confirmar a aceitação do cliente do Contrato de Cliente da Microsoft. Os CSPs precisam disso para solicitar serviços e produtos da Microsoft para clientes.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66be96fe8621089bda8dae546b804320d05fcb25
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.date: 05/05/2020
+ms.openlocfilehash: c599358b2cfe5603a09fb37e48e897a2f92111bc
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527819"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367280"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>Confirmar a aceitação do Contrato de Cliente da Microsoft pelo cliente no programa de parceiro CSP
 

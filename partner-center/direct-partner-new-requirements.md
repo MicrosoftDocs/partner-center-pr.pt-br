@@ -1,20 +1,20 @@
 ---
 title: Requisitos para parceiros de cobrança direta do CSP
+description: Saiba como atender aos mais recentes requisitos de suporte e serviços para se tornar um parceiro de cobrança direto no programa CSP (Provedor de Soluções na Nuvem) da Microsoft.
 ms.topic: article
-ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Saiba como atender aos mais recentes requisitos de suporte e serviços para se tornar um parceiro de cobrança direto no programa CSP (Provedor de Soluções na Nuvem) da Microsoft.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: aa5ac9b7e8951d27f5e55f303a3506f78179600f
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.date: 04/27/2020
+ms.openlocfilehash: c5b07e353ebbeeb53de3d90abf229a8ce79ade8f
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120013"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89366850"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Requisitos para registro como parceiro de cobrança direta do CSP
 

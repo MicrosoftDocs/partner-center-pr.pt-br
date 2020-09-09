@@ -1,20 +1,20 @@
 ---
 title: Atestar a aceitação do cliente do Contrato de Cliente da Microsoft
+description: Saiba quando faz sentido atestar a aceitação do Contrato de Cliente da Microsoft em nome do seu cliente.
 ms.topic: article
-ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Saiba quando faz sentido atestar a aceitação do Contrato de Cliente da Microsoft em nome do seu cliente.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e687df87b933bfad2e1cd3f631c730c54986cd42
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.date: 06/16/2020
+ms.openlocfilehash: fcf1a682d0150675f8bc8660e8dd5215d4c4333c
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435965"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367330"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>Atestar a aceitação do Contrato de Cliente da Microsoft em nome do seu cliente
 
