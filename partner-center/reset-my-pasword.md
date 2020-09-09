@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8618e6b75e6d45ebe37510b398c2f03c9e1e9c8
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 216858aff2ecbb5eb11c739db0a0a7ad6ee390f1
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811276"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564766"
 ---
 # <a name="reset-my-password"></a>Redefinir a minha senha
 
@@ -44,7 +44,7 @@ Seu administrador global deve ter configurado a capacidade de redefinir sua senh
 
 ## <a name="if-your-global-admin-has-left-the-company"></a>Se seu administrador global saiu da empresa
 
-Se seu administrador global tiver deixado sua empresa ou movido para outra função e você precisar adicionar um novo administrador global, você precisará registrar uma solicitação de serviço no [portal de Microsoft Partner Network](https://partner.microsoft.com/commercial#/). O agente de suporte pode solicitar a elevação de um usuário para administrador global se o solicitante for capaz de fornecer as informações de identidade pessoal necessárias e fornecer informações adicionais sobre sua empresa.
+Se seu administrador global tiver deixado sua empresa ou movido para outra função e você precisar adicionar um novo administrador global, você precisará registrar uma solicitação de serviço no [portal de Microsoft Partner Network](https://partner.microsoft.com/commercial#/). O agente de suporte pode solicitar a elevação de um usuário para administrador global se o solicitante for capaz de fornecer as informações de identidade pessoal necessárias e fornecer informações adicionais sobre sua empresa. 
 
 ## <a name="next-steps"></a>Próximas etapas
 
