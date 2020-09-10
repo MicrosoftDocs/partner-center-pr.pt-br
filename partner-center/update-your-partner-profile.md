@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ba59ee7b502d06aa5f95ca45fa86aa10fcab059
-ms.sourcegitcommit: b702276b961943688b710664313818d8e10e33ad
+ms.openlocfilehash: 22696ba1a2ecde3374357ee8489f466b2b366098
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89304973"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490634"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Verifique suas informações de perfil do parceiro no Partner Center
 
@@ -55,6 +55,17 @@ Se, durante a migração do Partner Membership Center para o Partner Center, o n
 2. Em seguida, vá para **Perfil do parceiro** e selecione **Atualizar perfil de negócios jurídico**.
 
 3. Selecione o local e a empresa que você deseja usar como seu negócio jurídico e, em seguida, selecione **Salvar**.
+
+## <a name="update-your-mpn-id-associated-with-your-csp-account"></a>Atualizar sua ID do MPN associada à sua conta do CSP
+
+Para atualizar a ID do MPN associada à sua conta do CSP:
+
+1. Entre no Painel do Partner Center.
+1. Selecione **Perfil do parceiro** em **Configurações da conta**.
+1. Ao lado da **ID do MPN Associado**, selecione **Atualizar**.
+1. Selecione **Continuar**.
+1. Adicione a ID do MPN.
+
 
 ## <a name="update-your-billing-address"></a>Atualizar endereço de cobrança
 

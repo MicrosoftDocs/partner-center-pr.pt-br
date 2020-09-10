@@ -1,7 +1,7 @@
 ---
 title: Gerenciar os benefícios do Microsoft Partner Network
 ms.topic: article
-ms.date: 08/27/2020
+ms.date: 09/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Junte-se ao MPN (Microsoft Partner Network) e use o Partner Center para gerenciar os benefícios e as ofertas de associação que podem ajudar a aumentar os seus negócios.
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ff62fbcd082dc69204831cc57bc7af36b83762fa
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: ee0158bfd902e1cc0a4a664b6d051a41d1e209ce
+ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220744"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89427083"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Gerenciar as suas ofertas e benefícios de associação ao Microsoft Partner Network no Partner Center
 
@@ -106,12 +106,23 @@ Para ver seus benefícios técnicos no Partner Center, faça o seguinte:
 
    - **Veja e compartilhe a ID de Acesso e a ID de Contrato do suporte de produtos.** Depois que a solicitação de ativação for processada, você verá detalhes sobre a **ID de Acesso** e a **ID de Contrato** da próxima vez que expandir esse benefício técnico. Você ou os usuários da sua empresa podem precisar compartilhar essas informações na primeira vez que você enviar uma solicitação de suporte para determinados tipos de produtos ou serviços.
 
-4. Depois de ativados, você pode usar os benefícios técnicos para diferentes tipos de suporte técnico. Para enviar solicitações de suporte técnico para esses tipos de serviços, leia as instruções detalhadas na página Benefícios Técnicos:
+4. Depois de ativados, você pode usar os benefícios técnicos para diferentes tipos de suporte técnico. Para enviar solicitações de suporte técnico para os serviços a seguir, leia as instruções detalhadas na página Benefícios técnicos. Veja também os detalhes abaixo.
 
-   - Solicitando suporte para produtos de nuvem em nome do seu cliente
-   - Solicitando suporte para produtos locais
-   - Solicitando serviços técnicos de pré-vendas e de implantação ou [horas de consultoria](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)
+   A página Benefícios técnicos do Partner Center descreve esses tipos de suporte técnico:
 
+   **Suporte técnico (interrupção/reparo).** Use esse tipo de suporte técnico quando a funcionalidade estiver danificada ou quando algo não estiver funcionando conforme o esperado (por exemplo, quando você receber uma mensagem de erro). Estas são algumas diretrizes:
+
+   - Somente para parceiros da Competências Gold/Silver (não disponível para assinantes do Action Pack), use o **Suporte ao Produto da Assinatura** para **Produtos de nuvem**.
+
+   - Para parceiros da Competências Action Pack e Gold/Silver, use os incidentes do **suporte de Produtos da Microsoft** para **produtos locais recentes** (somente versões atuais e anteriores).
+
+     >[!NOTE]
+     > A ID de Acesso e a ID do Contrato são necessárias para solicitações de suporte técnico de produtos locais, do Azure (não CSP) e do Dynamics. No futuro, para localizar sua ID de Acesso e sua ID do Contrato, leia também [Encontrar seus benefícios](mpn-find-benefits.md#find-access-id-and-contract-id-for-technical-benefits).
+  
+   **Serviços de Pré-vendas e Implantação Técnicas.**  Use esse tipo de suporte para consultoria ou recomendações sobre vendas ou implantação técnica. Esses serviços podem ser solicitados diretamente no [Partner Center](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest).
+
+   - Para os parceiros da Competência Action Packs e Gold/Silver, use os **Serviços de Pré-vendas e Implantação Técnicas** para soluções híbridas e de nuvem.
+  
 ## <a name="manage-go-to-market-offers"></a>Gerenciar ofertas de entrada no mercado
 
 **Funções apropriadas para executar esta tarefa:**
