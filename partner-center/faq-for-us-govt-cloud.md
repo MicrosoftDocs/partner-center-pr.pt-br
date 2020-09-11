@@ -1,25 +1,25 @@
 ---
-title: Perguntas frequentes sobre o Partner Center para Microsoft Cloud for US Government | Perguntas frequentes sobre o Partner Center para Microsoft Cloud for US Government
+title: Perguntas frequentes-centro de parceiros-Microsoft Cloud para o governo dos EUA
+description: Consulte as respostas para perguntas frequentes sobre o programa CSP (provedor de soluções na nuvem) para Microsoft Cloud para o governo dos EUA.
 ms.topic: article
-ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Consulte as respostas para perguntas frequentes sobre o programa CSP (provedor de soluções na nuvem) para Microsoft Cloud para o governo dos EUA.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
-ms.openlocfilehash: fbb9e7888456b1b7f9ce600fda6c7d6aad28edc5
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 11/20/2019
+ms.openlocfilehash: 05260ce988c5a3168a8b0dbd587d453f295c9396
+ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220644"
+ms.lasthandoff: 09/11/2020
+ms.locfileid: "90026264"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Perguntas frequentes sobre o Partner Center para Microsoft Cloud for US Government
 
 **Aplica-se a**
 
--  Partner Center do Microsoft Cloud for US Government
+- Partner Center do Microsoft Cloud for US Government
 
 ## <a name="general-questions"></a>Perguntas gerais
 
@@ -49,7 +49,7 @@ O programa CSP para nuvem do Governo da Microsoft é diferente do CSP Comercial 
 
 - Adesão: os parceiros precisam aderir ao programa CSP do Microsoft Cloud para o Governo dos Estados Unidos separadamente do CSP Comercial.
 
-- Disponibilidade do produto: tanto o governo do Azure quanto os serviços baseados em licença, como o Office 365, Enterprise Mobility + Security e o Dynamics 365, estão disponíveis no programa CSP para a nuvem do Microsoft governamental. 
+- Disponibilidade do produto: tanto o governo do Azure quanto os serviços baseados em licença, como o Office 365, Enterprise Mobility + Security e o Dynamics 365, estão disponíveis no programa CSP para a nuvem do Microsoft governamental.
 
 - Contrato: o MCRA (Contrato de Revendedor de Soluções de Nuvem da Microsoft) foi atualizado para refletir os termos exclusivos do governo.
 
@@ -166,7 +166,7 @@ Use os links a seguir para se familiarizar com o programa CSP e saiba mais sobre
 
 ### <a name="where-should-i-go-if-i-still-have-questions"></a>Onde posso tirar outras dúvidas?
 
-Contate seu gerente de conta para obter informações adicionais. Além disso, participe de nosso grupo do Yammer específico do [CSP para o Azure Governamental](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all).
+Contate seu gerente de conta para obter informações adicionais. Além disso, participe de nosso grupo do Yammer específico do [CSP para o Azure Governamental](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777).
 
 ## <a name="next-steps"></a>Próximas etapas
 
