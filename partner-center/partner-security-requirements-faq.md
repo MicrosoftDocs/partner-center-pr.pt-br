@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 055f7f43e9b5d866c18680de000d6cee01e2e165
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: e11896b734eaa715eb061d5fff04af436f6d0448
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444895"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614159"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Perguntas frequentes sobre os requisitos de segurança de parceiros
 
@@ -214,7 +214,7 @@ Por meio da imposição da autenticação multifator a todas as contas de usuár
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>Estou usando ferramentas de automação, como o PowerShell. Como faço para implementar o Modelo de Aplicativo Seguro?
 
-Você precisará implementar o Modelo de Aplicativo Seguro se a automação for destinada à execução não interativa e depender de credenciais do usuário para autenticação. Confira [Modelo de Aplicativo Seguro | PowerShell do Partner Center](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5) para obter orientação sobre como implementar essa estrutura.  
+Você precisará implementar o Modelo de Aplicativo Seguro se a automação for destinada à execução não interativa e depender de credenciais do usuário para autenticação. Confira [Modelo de Aplicativo Seguro | PowerShell do Partner Center](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth) para obter orientação sobre como implementar essa estrutura.  
 
 >[!Note] 
 >Nem todas as ferramentas de automação fornecem autenticação com tokens de acesso. Poste uma mensagem no grupo [Diretrizes de Segurança da Central de Parceiros](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) caso precise obter ajuda para entender quais alterações são necessárias. 
@@ -292,7 +292,7 @@ Para obter mais informações, acesse a página [Como obrigar o uso da MFA (Aute
 
 Para validar se a conta que está acessando os recursos foi desafiada pela autenticação multifator, verificaremos a declaração de [referência do método de autenticação](https://tools.ietf.org/html/rfc8176) para ver se a MFA está listada. Algumas soluções de terceiros não emitem essa declaração ou não incluem o valor da MFA. Se a declaração estiver ausente ou se o valor da MFA não estiver listado, não haverá como determinar se a conta autenticada foi desafiada pela autenticação multifator. Será necessário trabalhar com o fornecedor da solução de terceiros a fim de determinar quais ações precisam ser adotadas para que a solução emita a declaração da referência do método de autenticação.
 
-Confira [Teste dos Requisitos de Segurança do Parceiro](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements?view=partnercenterps-2.0) caso não tenha certeza se a sua solução de terceiros está emitindo a declaração esperada.
+Confira [Teste dos Requisitos de Segurança do Parceiro](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements) caso não tenha certeza se a sua solução de terceiros está emitindo a declaração esperada.
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>A MFA está me impedindo de oferecer suporte ao meu cliente usando o AOBO, o que devo fazer?
 
