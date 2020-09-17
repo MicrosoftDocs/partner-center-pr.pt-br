@@ -7,15 +7,15 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 08/31/2020
-ms.openlocfilehash: 76bf9cf147c27a562962dcff3baa0ff34cf959b2
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 09/11/2020
+ms.openlocfilehash: 82c45a1edcc19dc26dfefff88f59c598ab9bc6ea
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220774"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714380"
 ---
-# <a name="prepare-your-proof-of-execution"></a>Preparar o comprovante de execução
+# <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Criar e enviar documentos para sua PoE (prova de execução) de incentivos
 
 **Aplica-se a:**
 

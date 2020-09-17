@@ -1,21 +1,21 @@
 ---
-title: Inscrever-se no programa de incentivos
+title: Registro de incentivos
 ms.topic: how-to
-ms.date: 08/31/2020
+ms.date: 09/11/2020
 description: Registre-se no programa incentivos e atribua as funções necessárias para o gerenciamento de usuários.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 65d62f20daef625a9871fe121d04ed3dcdd1b472
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 7f86b59708ab26a5ef02a952f34ef3558af097af
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220594"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714440"
 ---
-# <a name="enroll-in-the-incentives-program"></a>Inscrever-se no programa de incentivos
+# <a name="enrollment-and-user-management-in-the-incentives-program"></a>Gerenciamento de registro e de usuário no programa incentivos
 
 **Aplica-se a:**
 
@@ -55,4 +55,4 @@ O registro de incentivos expira no final do ano fiscal. No entanto, desde que vo
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Determinar a qualificação para o programa](incentives-determined-your-program-eligibility.md)
+- [Determinar a elegibilidade do programa](incentives-determined-your-program-eligibility.md)

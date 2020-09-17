@@ -1,5 +1,5 @@
 ---
-title: Visão geral-incentivos de planos de & POE
+title: Visão geral de planos e provas de execução
 description: Saiba mais sobre os principais documentos necessários para incentivos, incluindo um plano de declarações cooperantes de incentivos e uma PoE (prova de execução) detalhada.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -7,13 +7,13 @@ ms.topic: conceptual
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 08/10/2020
-ms.openlocfilehash: 90bdb6300bd0a7a74b719a064bcf41ef901b40de
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 09/11/2020
+ms.openlocfilehash: 971d3fbc4b172b66e5b5099bc16999eefc57279c
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303132"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714390"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Use estes recursos para ajudá-lo a criar planos de incentivos e provas de execução
 

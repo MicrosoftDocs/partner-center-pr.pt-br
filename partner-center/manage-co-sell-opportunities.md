@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5b30ebc733fd935a813617477de186129076e74b
-ms.sourcegitcommit: 77f9b20b5e74e87999ae3d6d7651c93ca5b08128
+ms.openlocfilehash: edbd1e8395e1ecad759666a2c2acd3653e8ff28c
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89471433"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714370"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Gerenciar oportunidades de venda no Partner Center para definir negócios e atender melhor às necessidades dos clientes
 
@@ -33,10 +33,12 @@ Aproveite as oportunidades de venda conjunta.  As oportunidades de venda conjunt
 
 **Co-venda** – é aí que um ou mais representantes de vendas da Microsoft estão ativamente envolvidos no negócio para ajudar a resolver um problema do cliente. As oportunidades podem se originar de uma conta de cliente em que um representante de vendas da Microsoft convida o parceiro a participar de uma atividade de venda de vendas ou de um parceiro em que eles precisam de ajuda adicional das vendas da Microsoft para fechar o negócio.
 
-**Negociação de pipeline privado** – isso ocorre quando um parceiro decide trabalhar de forma independente em um negócio criado no Partner Center. Os parceiros têm a opção de convidar os vendedores da Microsoft depois de criar o negócio para torná-lo uma atividade de venda colaborativa. Os detalhes do negócio não são compartilhados com a equipe de vendas da Microsoft até o momento em que a ajuda de vendas da Microsoft é explicitamente procurada pelo parceiro.
+**Parceiro a parceiro (P2P)** – é aí que um parceiro pode convidar outros parceiros no ecossistema de venda cofuncional da Microsoft para colaborar. Os parceiros podem, opcionalmente, convidar um representante de vendas da Microsoft para o negócio para ajudar a fechar o negócio. Tanto os parceiros quanto a Microsoft podem ser convidados mesmo após a criação de um negócio, desde que ele esteja antes de ser concluído. (Observe que completo inclui venceu, perdido, recusado e expirado).
+
+**Negociação privada** – quando um parceiro decide trabalhar de forma independente em um negócio criado no Partner Center. Os parceiros têm a opção de convidar os vendedores da Microsoft depois de criar o negócio para torná-lo uma atividade de venda colaborativa. Os detalhes do negócio não são compartilhados com a equipe de vendas da Microsoft até o momento em que a ajuda de vendas da Microsoft é explicitamente procurada pelo parceiro.
 
 > [!NOTE]
-> As negociações de pipeline privado, embora não sejam verdadeiramente colaborativas, estão incluídas aqui para fornecer um caminho fácil para atualizar qualquer pipeline de acordo com uma oportunidade de venda conjunta em qualquer estágio que não seja do terminal (**venceu, perdido, recusado e expirado**).
+> As negociações privadas, embora não sejam verdadeiramente colaborativas, estão incluídas aqui para fornecer um caminho fácil para atualizar qualquer pipeline de acordo com uma oportunidade de venda conjunta em qualquer estágio que não seja do terminal (**venceu, perdido, recusado e expirado**).
 
 ## <a name="navigating-the-co-sell-section"></a>Navegando na seção de venda conjunta
 
@@ -44,18 +46,16 @@ Há três guias de nível superior na seção de venda conjunta.
 
 **Entrada** – todas as oportunidades enviadas ao parceiro de vendedores da Microsoft para venda colaborativa estão disponíveis nesta guia.
 
-**Saída** – todas as oportunidades criadas pelo parceiro estão disponíveis nesta guia. Os parceiros podem criar duas categorias diferentes de oportunidades – a venda e o pipeline privado. 
+**Saída** – todas as oportunidades criadas pelo parceiro estão disponíveis nesta guia. Os parceiros podem criar três diferentes categorias de oportunidades – venda, privada e parceiro para parceiros.
 
 **Favoritos** – oportunidades marcadas como favoritos nas guias de oportunidades de venda de entrada ou saída são mostradas nesta guia. Marque qualquer oportunidade como favorita clicando no ícone de coração sobre a oportunidade na exibição de lista. Você pode remover a oportunidade dos favoritos clicando no mesmo ícone novamente.
 
-
-## <a name="creating-a-co-sell-opportunity"></a>Criando uma oportunidade de venda conjunta 
+## <a name="creating-a-co-sell-opportunity"></a>Criando uma oportunidade de venda conjunta
 
 > [!IMPORTANT]
 > Para realizar uma venda conjunta com a Microsoft, os parceiros precisam de uma solução pronta para comercialização, uma equipe de vendas envolvida e uma boa estratégia de colocação no mercado. Eles também precisam atender a critérios adicionais específicos. Para obter mais informações, consulte [tornar-se pronto para venda](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
 
-
-Você pode criar dois tipos de oportunidades de venda conjunta. 
+Você pode criar três tipos de oportunidades.
 
 ### <a name="select-your-customer"></a>Selecione seu cliente
 
@@ -79,9 +79,9 @@ Insira os detalhes do contrato atual. Os campos, definidos abaixo, podem ser alt
 |**ID da campanha de marketing**| Opcional | Capture a campanha de marketing que resultou no negócio. Esse campo pode ajudá-lo a acompanhar o ROI de uma determinada campanha se marcar todas as negociações provenientes da campanha com a mesma ID.|
 |**Observações**| Opcional | Atualize todas as informações mais recentes para fornecer visibilidade para outros funcionários de sua empresa trabalhando no mesmo negócio ou tentando entender o estado atual do negócio. Você também pode usar isso como uma comunicação no registro para discussões entre os vendedores da Microsoft/outros parceiros com sua empresa.|
 
-### <a name="add-your-employees"></a>Adicionar seus funcionários
+### <a name="add-team-members"></a>Adicionar membros da equipe
 
-Depois de adicionar os detalhes do acordo, adicione os funcionários que estarão trabalhando nesse negócio específico. Será necessário inserir o nome, o número de telefone e o endereço de email do funcionário. Esses detalhes são obrigatórios e você precisa ter pelo menos um contato com todos os detalhes inseridos para criar um negócio. Esses detalhes podem ser alterados mesmo após a criação de um negócio. Os contatos recentes de suas negociações anteriores são mostrados no lado direito para você adicioná-los rapidamente ao negócio.
+Depois de adicionar os detalhes do acordo, adicione os funcionários que estarão trabalhando nesse negócio específico. Será necessário inserir o nome, o número de telefone e o endereço de email do funcionário. Esses detalhes são obrigatórios e você precisa ter pelo menos um contato com todos os detalhes inseridos para criar um negócio. Esses detalhes podem ser alterados mesmo após a criação de um negócio. Os contatos recentes de suas negociações anteriores são mostrados no lado direito para você adicioná-los rapidamente ao negócio. Para acordos P2P, a equipe pode ter funcionários de sua empresa e da empresa enviando o convite.
 
 ### <a name="add-solutions"></a>Adicionar solução (ões)
 
@@ -91,11 +91,29 @@ Nesta seção, você precisa fornecer as informações relacionadas às soluçõ
 - **Microsoft:** Essas são soluções de propriedade da Microsoft
 - **Outras soluções de terceiros:** Essas são soluções prontas para venda, que são publicadas por outros parceiros no ecossistema da Microsoft co-revenda
 
-Depois de fornecer as informações da solução, selecione avançar para ir para a seção onde você pode decidir o tipo de venda. Você tem duas opções:
+Depois de fornecer as informações da solução, selecione avançar para ir para a seção onde você pode decidir o tipo de venda. Você tem três opções:
 
-**Acordo de pipeline privado**: se você não convidar a Microsoft e criar um envolvimento nesta etapa, ele será do tipo pipeline privado. Os vendedores da Microsoft não terão visibilidade dos detalhes desse negócio.
+**Negócio particular**: se você não convidar a Microsoft e criar um envolvimento nesta etapa, ele será do tipo pipeline privado. Os vendedores da Microsoft não terão visibilidade dos detalhes desse negócio.
 
-**Co-vender o negócio:** Se você alternar a opção para Sim para a pergunta **"você gostaria de obter ajuda da Microsoft?"**, o negócio se transforma em um negócio de venda, em que um vendedor da Microsoft pode ajudá-lo a fechar o negócio. Uma solicitação de ajuda da Microsoft não é garantia de que um vendedor da Microsoft participará do negócio. Os representantes de vendas da Microsoft têm 14 dias para decidir se desejam participar. Na seção observações, certifique-se de identificar o tipo de ajuda desejado.
+**Co-vender o negócio:** Se você selecionar qualquer opção que não seja a seleção padrão para a pergunta **"identificar o tipo de ajuda que gostaria da Microsoft"**, o negócio se transformará em um negócio de venda, em que um vendedor da Microsoft pode ajudá-lo a fechar o negócio. Uma solicitação de ajuda da Microsoft não é garantia de que um vendedor da Microsoft participará do negócio. Os representantes de vendas da Microsoft têm 14 dias para decidir se desejam participar. Na seção observações, certifique-se de identificar o tipo de ajuda desejado.
+
+**Acordo entre parceiros (P2P)**: você pode convidar outros parceiros para o negócio clicando no link convidar parceiro. Veja abaixo o processo de criação de um negócio P2P.
+
+- **Selecione um parceiro:** Depois de clicar em parceiro de convite, você poderá começar a digitar o nome do parceiro para obter uma lista sugerida de parceiros que correspondem ao nome que você está inserindo. Selecione o parceiro em que você está interessado para preencher detalhes adicionais para esse parceiro. Você só pode procurar parceiros que estejam no ecossistema de venda cofuncional da Microsoft e estejam transportando no Partner Center.
+
+- **Data de fechamento estimada:** Essa é a data pela qual você espera que o parceiro convidado conclua sua parte do negócio. A data é preenchida previamente para que você possa optar por modificar a data somente se necessário. É um campo obrigatório e pode ser editado pelo parceiro que você está convidando depois de criar o negócio. Você não pode modificar esse campo depois de criar o negócio.
+
+- **Valor estimado e moeda:** Esse é o valor do negócio que o parceiro convidado terá no negócio geral. Certifique-se de inserir o valor correto aqui para que o parceiro convidado possa decidir se deseja fazer parte do negócio ou não. O parceiro convidado pode alterar esse valor depois de criar o negócio. Não é possível modificar esse campo depois de criar o negócio.
+
+- **Observações:** Adicione os detalhes por por que você está convidando o parceiro para fazer parte desse negócio. As informações detalhadas ajudarão o parceiro convidado a decidir se desejam participar.
+
+- **Adicione sua equipe:** Adicione os funcionários de sua empresa que trabalhará com o parceiro convidado. Se o parceiro convidado aceitar o negócio, ele poderá adicionar seus próprios funcionários para que ambas as empresas tenham uma visão de toda a equipe colaborando com o negócio. Você só pode modificar esses detalhes antes de criar o negócio. Os detalhes do funcionário inseridos nos dados de seu negócio são preenchidos previamente para facilitar a escolha dos funcionários que trabalham com esse parceiro específico.
+
+- **Adicionar soluções:**  Adicione as soluções que você deseja que o parceiro convidado traga para a tabela. Pelo menos uma solução é obrigatória. O parceiro convidado pode modificar as soluções depois de aceitar o convite.
+
+- **Identifique o tipo de ajuda:** Identifique o tipo de ajuda: por fim, identifique a ajuda específica de que você precisa do parceiro convidado.
+
+Repita isso para todos os parceiros que você deseja convidar para fazer parte desse negócio. Um parceiro para o parceiro também pode ter o vendedor da Microsoft envolvido no qual você está convidando a Microsoft e os parceiros para o negócio. Você também pode convidar a Microsoft e os parceiros posteriormente, depois de criar o negócio.
 
 ## <a name="responding-to-a-co-sell-opportunity"></a>Respondendo a uma oportunidade de venda conjunta
 
@@ -105,7 +123,7 @@ Cada oportunidade passa por um ciclo de vida próprio.
 
 Neste estágio, se você tiver recebido uma nova oportunidade de venda conjunta de um vendedor da Microsoft ou de outros parceiros no ecossistema de venda conjunta da Microsoft, examine os detalhes e fique à vontade para entrar em contato com o cliente se quiser saber mais sobre suas necessidades comerciais. Você pode executar duas ações neste estágio. aceitar ou recusar a referência:
 
-- **Aceitar:** Insira um nome para o negócio, edite o valor de acordo estimado e o período de compra estimado com base em sua análise. Depois de estabelecer o contato com o cliente, você deve fornecer informações no campo **observações** para explicar mais sobre o que o cliente está procurando. Opcionalmente, você pode inserir sua ID do CRM aqui (somente para sua referência), a ID da campanha de marketing que resultou na respectiva oportunidade e adicionar contatos de sua empresa que trabalhará nesse negócio. 
+- **Aceitar:** Insira um nome para o negócio, edite o valor de acordo estimado e o período de compra estimado com base em sua análise. Depois de estabelecer o contato com o cliente, você deve fornecer informações no campo **observações** para explicar mais sobre o que o cliente está procurando. Opcionalmente, você pode inserir sua ID do CRM aqui (somente para sua referência), a ID da campanha de marketing que resultou na respectiva oportunidade e adicionar contatos de sua empresa que trabalhará nesse negócio.
 
 - Quando tiver terminado, selecione **Avançar**. Moveremos a referência para **o próximo estágio**, o que significa que você planeja envolver ativamente o cliente para atender às suas necessidades. Também usaremos essas informações para ajudá-lo a encontrar acordos semelhantes no futuro.
 
@@ -113,12 +131,22 @@ Neste estágio, se você tiver recebido uma nova oportunidade de venda conjunta 
 
 - Se você não responder dentro do tempo alocado (atualmente 14 dias), o Arquivaremos como **expirado** e notificaremos a Microsoft ou o parceiro que enviou essa oportunidade.
 
-
 ### <a name="accepted-stage"></a>Estágio aceito
 
 Trabalhe para fechar a negociação com o cliente. Se você quiser alterar qualquer uma das informações que forneceu para uma referência aceita, selecione **Editar**. Em seguida, você pode atualizar o nome da negociação, a data de compra estimada, o valor estimado, as observações, a ID do CRM e/ou a ID da campanha de marketing.  Você também pode selecionar **adicionar seus funcionários** para fornecer o nome, o número de telefone e os endereços de email de outras pessoas que estão trabalhando no negócio. As soluções também podem ser editadas com base na necessidade do cliente.
 
 Todas as negociações que você criou estão no estágio aceito por padrão.
+
+### <a name="combinations"></a>Combinação
+
+A tabela a seguir mostra as combinações de quem pode ser convidado neste estágio do negócio.
+
+|**Tipo de negócio original**|**Quem pode ser convidado**|**Observações**|
+|-----|:-----|:-----|
+|Particular|Microsoft e/ou outros parceiros|O negócio será atualizado para ser comercializado se a Microsoft for convidada.|
+|Venda conjunta|Outros parceiros|Outros parceiros poderão ser convidados somente se sua empresa tiver iniciado o negócio. Os parceiros não podem ser convidados para as negociações na guia de entrada.|
+|Parceiro para parceiros sem a Microsoft|Microsoft|O negócio será atualizado para um negócio de venda conjunta.|
+|Parceiro para parceiros sem a Microsoft|Outros parceiros||
 
 Quando terminar, você poderá executar uma das duas ações, que estão marcando o negócio como **ganho** ou **perdido** para relatar o resultado para que possamos arquivá-lo adequadamente.
 

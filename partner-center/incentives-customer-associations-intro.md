@@ -7,15 +7,15 @@ ms.topic: conceptual
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 08/10/2020
-ms.openlocfilehash: cb9f5b6b6ddfbd9da90543152ee23ce6673ea720
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 09/11/2020
+ms.openlocfilehash: 6e420f4aa5353126c705c42836052d340ede6504
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303232"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714460"
 ---
-# <a name="use-these-resources-to-make-customer-association-claims-for-specific-microsoft-incentives-programs"></a>Use esses recursos para fazer declarações de associação de clientes para programas específicos de incentivos da Microsoft
+# <a name="use-these-resources-to-make-customer-association-claims-for-specific-incentives-programs"></a>Use esses recursos para fazer declarações de associação de clientes para programas de incentivos específicos
 
 **Aplica-se a**
 

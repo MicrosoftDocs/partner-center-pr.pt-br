@@ -1,5 +1,5 @@
 ---
-title: Determinar a qualificação para o programa
+title: Qualificação do programa de incentivos
 description: Verifique se o seu programa de incentivos está qualificado para que você possa ser pago.
 ms.topic: how-to
 ms.service: partner-dashboard
@@ -7,15 +7,15 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 08/31/2020
-ms.openlocfilehash: a182b4d9289a448886dd8e1e49211bf625640819
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 09/11/2020
+ms.openlocfilehash: bd80a61ed330f897340bbcf0164ee326598a4be1
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220604"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714450"
 ---
-# <a name="partner-incentives-overview-and-eligibility"></a>Visão geral e elegibilidade de incentivos de parceiros 
+# <a name="determine-your-incentives-program-eligibility"></a>Determinar a elegibilidade do programa de incentivos
 
 **Aplica-se a**:
 
