@@ -203,54 +203,72 @@
       items:
         - name: Introdução aos incentivos
           items:
-            - name: Perguntas frequentes
+            - name: Perguntas frequentes sobre incentivos
               href: incentives-faq.md
-            - name: Introdução
+            - name: Introdução aos incentivos
               href: incentives-get-started-intro.md
-            - name: Inscrever-se no programa de incentivos
+            - name: Os 10 conceitos básicos para incentivos
+              href: incentives-ten-essentials.md
+            - name: Inscrever-se em incentivos
               href: incentives-enroll.md
-            - name: Determinar a qualificação para o programa
+            - name: Verificar a elegibilidade do programa
               href: incentives-determined-your-program-eligibility.md
-            - name: Criar e gerenciar perfis fiscais e de pagamento no Partner Center
+              displayName: incentives
+            - name: Noções básicas dos perfis de pagamento e de imposto
               href: incentives-create-and-manage-your-payout-and-tax-profiles.md
-            - name: Perguntas frequentes sobre o pagamento de incentivos e o perfil fiscal
+              displayName: incentives
+            - name: Perguntas frequentes sobre o perfil de pagamento e imposto
               href: incentives-payout-tax-profile-faqs.md
-            - name: Confirmar a qualificação para lucros
+              displayName: incentives
+            - name: Verificar a elegibilidade dos lucros
               href: incentives-confirm-your-earnings-eligibility.md
-            - name: Exibir seus pagamentos de incentivos e programas
+              displayName: incentives
+            - name: Exibir pagamentos e programas
               href: understand-incentive-payouts.md
-            - name: Acessar sua página de pagamento de incentivos
+              displayName: incentives
+            - name: Acessar sua página de pagamentos
               href: incentives-unified-user-guide.md
+              displayName: incentives
         - name: Planos e comprovantes de execução
           items:
-            - name: Sobre planos e PoE
+            - name: Noções básicas de planos e provas de execução
               href: incentives-plans-proofs-intro.md
+              displayName: 'incentives, proof of execution, proofs of execution'
             - name: Criar o plano
               href: incentives-create-your-plan.md
-            - name: Preparar o comprovante de execução
+              displayName: incentives
+            - name: Crie seu comprovante de execução
               href: incentives-prepare-your-proof-of-execution.md
+              displayName: incentives
         - name: Solicitações de cooperação de incentivos
           items:
-            - name: Sobre declarações de cooperação
+            - name: Solicitações de cooperação de incentivo
               href: claims-overview.md
-            - name: Criar e gerenciar solicitações de cooperação de incentivos
+              displayName: incentives
+            - name: Gerenciar declarações de cooperação
               href: create-incentives-claims.md
-            - name: Requisitos básicos para reivindicações de cooperação de incentivos
+              displayName: incentives
+            - name: Exibir requisitos básicos
               href: core-requirements.md
-            - name: Aprovação e prazos de pagamento das solicitações de cooperação
+              displayName: incentives
+            - name: Aprovação e prazos das solicitações de cooperação
               href: incentives-managing-co-op-claims.md
+              displayName: incentives
         - name: Incentivos para solicitações de associação de CPOR
           items:
-            - name: Sobre associações CPOR
+            - name: Noções básicas das associações de CPOR
               href: incentives-customer-associations-intro.md
-            - name: Criar uma associação de cliente usando o modelo CPOR
+            - name: Criar uma associação do cliente
               href: submit-osa-claim.md
             - name: Gerenciar associações do cliente
               href: incentives-manage-customer-associations.md
+              displayName: incentives
             - name: Problemas de associação do cliente
               href: incentives-customer-association-issues.md
+              displayName: incentives
         - name: Solução de problemas com pagamentos e lucros
           href: incentives-payment-issues.md
+          displayName: incentives
 - name: Cobrança e impostos
   href: billing.md
   items:
@@ -536,6 +554,8 @@
   items:
     - name: Recursos de licenciamento
       href: support-resources-licensing.md
+    - name: Localizar IDs e nomes de domínio
+      href: find-ids-and-domain-names.md
 - name: Requisitos de segurança
   items:
     - name: Visão geral
