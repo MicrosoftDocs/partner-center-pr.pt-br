@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb70aabc59e069209673b1b0f2e0be57c973a70e
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 467f46b2e6dfc41730970abe9005e1f2d28409f3
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545837"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614145"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vender assinaturas de software por meio do programa CSP (Provedor de Soluções na Nuvem)
 
@@ -116,7 +116,7 @@ Depois de comprar a assinatura de software, siga as etapas a seguir para baixá-
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Download de assinatura do servidor e chaves de licença disponíveis por meio do Centro de administração do Microsoft 365 para clientes 
 
-Seus clientes poderão obter as chaves de licença de assinatura do servidor CSP e downloads do Centro de administração do Microsoft 365. Para ver suas chaves de licença de assinatura do servidor CSP e downloads, o cliente deve acessar o Centro de administração do Microsoft 365 > **Cobrança > Seus produtos > guia Software**. Para saber mais detalhes, confira a [guia Software em Cobrança](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview?view=o365-worldwide#billing--subscriptions).  
+Seus clientes poderão obter as chaves de licença de assinatura do servidor CSP e downloads do Centro de administração do Microsoft 365. Para ver suas chaves de licença de assinatura do servidor CSP e downloads, o cliente deve acessar o Centro de administração do Microsoft 365 > **Cobrança > Seus produtos > guia Software**. Para saber mais detalhes, confira a [guia Software em Cobrança](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Exibir a atividade de acesso à chave de software e downloads de software
 

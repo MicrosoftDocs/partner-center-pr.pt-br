@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: acbe2e22f1295a881ef064e0e6ff018c9b98eb95
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: c40af7e33e190b86e29b3a392dcc7df805d729b3
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89274984"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614131"
 ---
 # <a name="august-2020-announcements"></a>Comunicados de agosto de 2020
 
@@ -125,18 +125,18 @@ Parceiros que vendem serviços online a clientes comerciais
 
 ### <a name="details"></a>Detalhes
 
-No [ano passado](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf) compartilhamos que a Microsoft está permitindo que indivíduos e equipes adquiram serviços selecionados diretamente. Estamos anunciando hoje que as funcionalidades de compra por autoatendimento serão disponibilizadas em breve para produtos do Microsoft Project e do Microsoft Visio. A partir de 15 de setembro de 2020, indivíduos em todo o mundo poderão adquirir assinaturas para os seguintes produtos por meio de autoatendimento:
+No [ano passado](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf) compartilhamos que a Microsoft está permitindo que indivíduos e equipes adquiram serviços selecionados diretamente. Estamos comunicando hoje que as funcionalidades de compra por autoatendimento serão disponibilizadas em breve para produtos do Microsoft Project e do Microsoft Visio. A partir de 15 de setembro de 2020, indivíduos em todo o mundo poderão adquirir assinaturas para os seguintes produtos por meio de autoatendimento:
 
 - [Visio Plano 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) e [Visio Plano 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab)
 - [Project Plano 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) e [Project Plano 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab)
 
-**Observação**: As funcionalidades de compra por autoatendimento não estão disponíveis na Índia, nem para clientes qualificados para ofertas governamentais, tampouco educacionais.
+**Observação**: As funcionalidades de compra por autoatendimento não estão disponíveis na Índia nem para clientes qualificados para ofertas governamentais, tampouco educacionais.
 
 #### <a name="partner-benefits"></a>Benefícios do parceiro
 
-Será possível oferecer seus serviços a indivíduos e equipes sem precisar passar por um processo centralizado de aquisição de TI para obter as licenças necessárias. Seus serviços podem abranger o Project e o Visio, com base nos cenários de integração com o Microsoft 365 e o Power Platform. 
+Será possível oferecer seus serviços a indivíduos e equipes sem precisar passar pelo processo centralizado de aquisição de TI para obter as licenças necessárias. Seus serviços podem abranger o Project e o Visio, com base nos cenários de integração com o Microsoft 365 e o Power Platform. 
 
-Saiba mais sobre as oportunidades de parceiro para as soluções do Visio e do Power Platform na sessão [Recriar e reinventar os negócios com o Microsoft Visio e o Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform) do Microsoft Inspire. Para obter informações adicionais, visite o [guia do administrador de autoatendimento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?view=o365-worldwide).
+Saiba mais sobre as oportunidades de parceiro para as soluções do Visio e do Power Platform na sessão [Recriar e reinventar os negócios com o Microsoft Visio e o Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform) do Microsoft Inspire. Para obter informações adicionais, visite o [guia do administrador de autoatendimento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins).
 
 #### <a name="additional-resources"></a>Recursos adicionais
 
