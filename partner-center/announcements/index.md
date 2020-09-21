@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 55bafb22a652c9e01fc9cbd1f5303b35cf127d9a
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 157769fd08a99e63d2a2aac06e704a72add20a60
+ms.sourcegitcommit: b60577f772e240fd2c38c13987d2b39c4722fbad
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714231"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "90773830"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,6 +22,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 | **Categoria** | **Comunicados de setembro de 2020** | **Comunicado** |
 |---------|:---------|:---------|
+|Funcionalidades|[Alterações futuras nas APIs de uso do CSP O365 e nos relatórios de uso da Licença do CSP em 30 de setembro de 2020.](2020-september.md#8)|17 de setembro|
 |Funcionalidades|[Atualização de MPA de revendedor indireto. Ação necessária para usuários da API de MPA e novos relatórios de MPA](2020-september.md#7)|16 de setembro|
 |Ofertas/mercados|[As compras por autoatendimento para o Microsoft Project e o Microsoft Visio já estão disponíveis](2020-september.md#6)|15 de setembro|
 |Ofertas/mercados|[Novos SKUs oferecem o poder do Project Cortex e muito mais para os clientes](2020-september.md#5)|8 de setembro|
