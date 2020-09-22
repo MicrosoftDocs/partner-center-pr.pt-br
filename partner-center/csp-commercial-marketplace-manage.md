@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96c07ee9d03b433992632337d13c561d6334a896
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 1d32f42b2c4bd8e4ec6c659326d1a21385c0642f
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527712"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000510"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Gerenciar produtos e ofertas do Marketplace comercial para seus clientes
 
@@ -67,7 +67,7 @@ O Publicador deve fornecer um link personalizado e um código de autorização q
 
    - Você pode ver o link da página de assinaturas do cliente específico. Este link do Publicador aparece na linha associada à oferta de ISV ou à assinatura adquirida para o cliente.
 
-   - Você pode [recuperar o link usando as APIs do Partner Center](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item).
+   - Você pode [recuperar o link usando as APIs do Partner Center](/partner-center/develop/get-activation-link-by-order-line-item).
 
    > [!NOTE]
    > Para fazer isso em nome do cliente, talvez seja necessário copiar o link personalizado, colá-lo em um navegador privado e inserir as credenciais do cliente.
@@ -112,7 +112,7 @@ Para ofertas de Marketplace comercial de SaaS, você pode adicionar ou remover l
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>Gerenciar assinaturas usando APIs do Partner Center
 
-Você também pode usar as APIs do Partner Center para executar o gerenciamento do ciclo de vida e gerenciar faturas para suas assinaturas. Para obter mais informações, consulte [criar uma assinatura para produtos do Marketplace comercial](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).
+Você também pode usar as APIs do Partner Center para executar o gerenciamento do ciclo de vida e gerenciar faturas para suas assinaturas. Para obter mais informações, consulte [criar uma assinatura para produtos do Marketplace comercial](/partner-center/develop/create-subscription-azure-marketplace-products).
 
 ## <a name="next-steps"></a>Próximas etapas
 

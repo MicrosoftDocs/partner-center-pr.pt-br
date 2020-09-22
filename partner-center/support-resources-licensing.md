@@ -8,12 +8,12 @@ description: Como um parceiro da Microsoft, você pode ter dúvidas sobre o uso 
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b557e3cc5bc7dbb7964809ee5032c2ad2b5c8a9
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 70b9381cf67a54f2e8c7e1c7764610c91fca1b1b
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89040982"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999750"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Guia para licenciar recursos para parceiros da Microsoft 
 
@@ -48,7 +48,7 @@ Você pode saber mais sobre os programas de licenciamento específicos dos recur
 |Leia mais sobre o licenciamento por volume (VL) e licenciamento para soluções específicas  | [Licenciamento da Microsoft – produtos e soluções](https://www.microsoft.com/licensing/default) |
 |Saiba mais sobre os recursos e treinamento de licenciamento por volume que podem ajudar com preços, citações, contratos, ativação do produto e outras ferramentas do VL  | [Treinamento e recursos de Microsoft Partner Network](https://partner.microsoft.com/licensing/training-and-resources) |
 |Explore os módulos de treinamento obter licenciamento **pronto para licenciamento**  | [Obter o licenciamento pronto](https://www.getlicensingready.com/)  |
-|Leia sobre o exame de licenciamento que ajuda a projetar e fornecer soluções de licenciamento da Microsoft para grandes organizações *(o exame será desativado até 31 de janeiro de 2021 às 11:59 hora central)*  | [Exame 70-705](https://docs.microsoft.com/learn/certifications/exams/70-705) |
+|Leia sobre o exame de licenciamento que ajuda a projetar e fornecer soluções de licenciamento da Microsoft para grandes organizações *(o exame será desativado até 31 de janeiro de 2021 às 11:59 hora central)*  | [Exame 70-705](/learn/certifications/exams/70-705) |
 
 ## <a name="program-specific-and-product-specific-licensing-terms-and-agreements"></a>Contratos e termos de licenciamento específicos do programa e específicos do produto
 
@@ -84,7 +84,7 @@ Seu provedor indireto (para o programa CSP) ou o distribuidor do programa deve s
 |Exibir preços e ofertas do programa CSP do painel do Partner Center *(deve ser registrado no programa CSP para ver esse painel)*  |[Preços do CSP e oferece](pricing-and-offers.md) [documentos e recursos de](csp-documents-and-learning-resources.md) visão geral ou CSP |
 |Explore materiais de marketing para ajudar com um negócio de cliente  | [Materiais de preparação para parceiros MPN](https://partner.microsoft.com/asset#/?type=marketing-campaigns&area=mrkt)  |
 |Obtenha ajuda das pré-vendas técnicas e dos serviços de implantação da Microsoft para um negócio de cliente ou caso online  | [Visão geral das pré-vendas técnicas e dos serviços de implantação](https://partner.microsoft.com/training/technical-presales-deployment-services) ou [visão geral do suporte](https://support.microsoft.com/help/3121537/using-technical-presales-and-deployment-services)  |
-|Saiba como ativar o Microsoft Azure no Open Licensing   | [Perguntas frequentes sobre ativação de serviço online para programas abertos](https://docs.microsoft.com/licensing/online-service-activation-faq)  |
+|Saiba como ativar o Microsoft Azure no Open Licensing   | [Perguntas frequentes sobre ativação de serviço online para programas abertos](/licensing/online-service-activation-faq)  |
 |Como e quando calcular e solicitar um crédito de SLA da Microsoft para clientes afetados por uma interrupção  | [Solicitando um crédito de SLA por uma interrupção](request-credit.md)   |
 |Obtenha ajuda da comunidade de parceiros da Microsoft  | [Fórum da comunidade de parceiros da Microsoft](https://www.microsoftpartnercommunity.com)  |
 

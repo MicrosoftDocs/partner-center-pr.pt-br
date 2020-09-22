@@ -8,12 +8,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.date: 11/20/2019
-ms.openlocfilehash: 05260ce988c5a3168a8b0dbd587d453f295c9396
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: bdce3cd4b2095a0c2d87521a879a15bcbbd7d0fd
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026264"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000550"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Perguntas frequentes sobre o Partner Center para Microsoft Cloud for US Government
 
@@ -53,7 +53,7 @@ O programa CSP para nuvem do Governo da Microsoft é diferente do CSP Comercial 
 
 - Contrato: o MCRA (Contrato de Revendedor de Soluções de Nuvem da Microsoft) foi atualizado para refletir os termos exclusivos do governo.
 
-- Funcionalidade do Partner Center: determinados recursos do Partner Center não serão habilitados para o programa CSP do Microsoft Cloud para o Governo dos Estados Unidos a fim de atender a requisitos regulatórios e de conformidade. Os parceiros podem usar o Azure Active Directory (Azure AD) ou a [API Gráfica](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS) para executar tarefas relacionadas ao gerenciamento de usuários e grupos. O recurso de solicitação de relacionamento para dar suporte a cenários de vários canais e vários parceiros estará disponível após o lançamento quando os serviços baseados em licença estiverem disponíveis no CSP para Microsoft Cloud para o governo dos EUA.
+- Funcionalidade do Partner Center: determinados recursos do Partner Center não serão habilitados para o programa CSP do Microsoft Cloud para o Governo dos Estados Unidos a fim de atender a requisitos regulatórios e de conformidade. Os parceiros podem usar o Azure Active Directory (Azure AD) ou a [API Gráfica](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS) para executar tarefas relacionadas ao gerenciamento de usuários e grupos. O recurso de solicitação de relacionamento para dar suporte a cenários de vários canais e vários parceiros estará disponível após o lançamento quando os serviços baseados em licença estiverem disponíveis no CSP para Microsoft Cloud para o governo dos EUA.
 
 ### <a name="i-am-not-a-csp-partner-yet-where-can-i-find-more-information-on-how-to-become-a-csp-partner"></a>Ainda não sou um parceiro CSP. Onde encontro mais informações sobre como me tornar um parceiro CSP?
 
@@ -97,7 +97,7 @@ Os critérios de qualificação para vender o programa CSP para Nuvem do Governo
 
 ### <a name="i-am-an-existing-partner-what-do-i-need-to-do-to-sell-microsoft-cloud-for-us-government"></a>Sou um parceiro existente. O que é necessário fazer para vender o Microsoft Cloud para o Governo dos Estados Unidos?
 
-Os parceiros precisarão aderir ao programa CSP do Microsoft Cloud para o Governo dos Estados Unidos para atender aos requisitos regulatórios e de conformidade. (A integração para Microsoft Cloud for US Government é separada do carregamento de CSP comercial). Depois que você integrar, poderá criar os clientes e comercializar as ofertas disponíveis no Microsoft Cloud for US Government. Se você está aproveitando as APIs, consulte [Como desenvolver para o Partner Center for Microsoft National Cloud](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS).
+Os parceiros precisarão aderir ao programa CSP do Microsoft Cloud para o Governo dos Estados Unidos para atender aos requisitos regulatórios e de conformidade. (A integração para Microsoft Cloud for US Government é separada do carregamento de CSP comercial). Depois que você integrar, poderá criar os clientes e comercializar as ofertas disponíveis no Microsoft Cloud for US Government. Se você está aproveitando as APIs, consulte [Como desenvolver para o Partner Center for Microsoft National Cloud](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS).
 
 ### <a name="is-there-any-difference-in-partner-incentives"></a>Existe alguma diferença no incentivos para parceiros?
 
@@ -123,11 +123,11 @@ Já estão disponíveis a Infraestrutura como Serviço (IaaS), a plataforma fund
 
 ### <a name="what-do-i-need-to-do-to-develop-with-the-csp-program-for-microsoft-cloud-for-us-government"></a>O que é necessário fazer para desenvolver com o programa CSP do Microsoft Cloud para o Governo dos Estados Unidos?
 
-Para saber mais sobre o desenvolvimento com o Partner Center para o Microsoft Cloud para o Governo dos Estados Unidos, consulte [Desenvolvendo com o Partner Center para o Microsoft Cloud para o Governo dos Estados Unidos](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS).
+Para saber mais sobre o desenvolvimento com o Partner Center para o Microsoft Cloud para o Governo dos Estados Unidos, consulte [Desenvolvendo com o Partner Center para o Microsoft Cloud para o Governo dos Estados Unidos](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS).
 
 ### <a name="are-there-any-differences-in-apis"></a>Há alguma diferença nas APIs?
 
-As APIs e os requisitos de integração do programa CSP do Microsoft Cloud para o Governo dos Estados Unidos são idênticos aos do CSP Comercial. Para saber mais sobre pontos de extremidade no Microsoft Cloud para o governo dos Estados Unidos, consulte [URLs REST do Partner Center](https://msdn.microsoft.com/library/partnercenter/mt490977.aspx).
+As APIs e os requisitos de integração do programa CSP do Microsoft Cloud para o Governo dos Estados Unidos são idênticos aos do CSP Comercial. Para saber mais sobre pontos de extremidade no Microsoft Cloud para o governo dos Estados Unidos, consulte [URLs REST do Partner Center](/partner-center/develop/partner-center-rest-urls).
 
 >[!NOTE]
 >As APIs CREST não estarão disponíveis no programa CSP para Microsoft Cloud for US Government. Essas APIs estão sendo preteridas no CSP e, portanto, não estarão disponíveis no Microsoft Cloud para o Governo dos Estados Unidos. Para atender aos requisitos regulatórios e de conformidade, as seguintes APIs não estarão disponíveis no programa CSP do Microsoft Cloud para o Governo dos Estados Unidos:
@@ -162,7 +162,7 @@ Use os links a seguir para se familiarizar com o programa CSP e saiba mais sobre
 
 - [Para saber mais sobre o CSP](https://partner.microsoft.com/cloud-solution-provider)
 
-- [Para saber mais sobre o desenvolvimento com o Partner Center para o Microsoft Cloud para o Governo dos Estados Unidos ](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS)
+- [Para saber mais sobre o desenvolvimento com o Partner Center para o Microsoft Cloud para o Governo dos Estados Unidos ](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)
 
 ### <a name="where-should-i-go-if-i-still-have-questions"></a>Onde posso tirar outras dúvidas?
 

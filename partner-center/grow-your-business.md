@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c244b5d8a1498ed0107925ed0a6ef0e9d584cf83
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 9d53a07f8060c8bdd893aa1d774130b89a7c8ec9
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434585"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000530"
 ---
 # <a name="grow-your-microsoft-partner-business---learn-how-to-get-leads--set-your-company-apart"></a>Amplie seus negócios de parceiros da Microsoft-saiba como obter clientes potenciais & definir sua empresa
 
@@ -35,8 +35,8 @@ Use o Partner Center para:
 
 |  **Para fazer isso**  |  **Leia isto para saber como**  |  **Aplica-se a**  |
 |--------------|-----------|--------------
-| Obter e gerenciar leads de vendas | Assista este breve vídeo, [Otimize seu perfil de negócios ](https://player.vimeo.com/video/252788046 ) para criar um perfil de negócios para que os clientes possam encontrá-lo quando pesquisarem por provedores de soluções e, em seguida, leia sobre [como responder às indicações](responding-to-referrals.md). | Todos os parceiros de rede |
-| Obter o status de parceiro Silver ou Gold | Leia [Parceiros de competência](https://partner.microsoft.com/membership/competencies) no site do Microsoft Partner Network para obter informações sobre como se qualificar para níveis de associação Silver ou Gold. Quando você estiver pronto para mover suas informações de competência para o Partner Center, leia [Gerenciamento de suas competências no Partner Center](competencies.md). | Todos os parceiros de rede |
+| Obter e gerenciar leads de vendas | Assista este breve vídeo, [Otimize seu perfil de negócios ](https://player.vimeo.com/video/252788046 ) para criar um perfil de negócios para que os clientes possam encontrá-lo quando pesquisarem por provedores de soluções e, em seguida, leia sobre [como responder às indicações](manage-leads.md). | Todos os parceiros de rede |
+| Obter o status de parceiro Silver ou Gold | Leia [Parceiros de competência](https://partner.microsoft.com/membership/competencies) no site do Microsoft Partner Network para obter informações sobre como se qualificar para níveis de associação Silver ou Gold. Quando você estiver pronto para mover suas informações de competência para o Partner Center, leia [Gerenciamento de suas competências no Partner Center](learn-about-competencies.md). | Todos os parceiros de rede |
 | Oferecer a seus clientes assinaturas de avaliação para produtos da Microsoft | Leia [Oferecer aos seus clientes avaliações de produtos da Microsoft](offer-your-customers-trials-of-microsoft-products.md) para saber como usar assinaturas de avaliação para vender mais à sua base de clientes.| Parceiros CSP |
 | Oferecer aos seus clientes preços promocionais em assinaturas da Microsoft | Ocasionalmente, a Microsoft oferece promoções em assinaturas baseadas em licença, permitindo que você repasse a economia para os clientes e expanda seus negócios. Leia [Oferecer aos seus clientes preços promocionais em assinaturas da Microsoft](promotions.md) para saber como. | Parceiros CSP |
 | Vender em mercados adicionais | O canal de vendas do Provedor de Soluções na Nuvem está disponível em muitos países e regiões. Consulte [Mercados de Provedor de Soluções na Nuvem](agreements.md) para analisar a lista. Para obter uma introdução ao canal do Provedor de Soluções na Nuvem, consulte [Visão geral do Provedor de Soluções na Nuvem](csp-overview.md).  | Parceiros CSP |

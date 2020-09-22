@@ -10,12 +10,12 @@ ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 06/30/2020
-ms.openlocfilehash: 12ddd290f22fc672ca2fb0c911567ca7419d88b0
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 26884be7c4bfa7a7f0b3d9f8ae60016f8e843db0
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026274"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999910"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Cloud for US Government
 
@@ -76,11 +76,11 @@ O Microsoft Cloud for US Government fornece uma instância separada do Microsoft
 
 1. Entre no portal de administração do Microsoft Azure em [https://portal.azure.us/](https://portal.azure.us/) .
 
-2. Atribua a função de Agente Administrador para os usuários apropriados em sua organização. Para fazer isso, você precisará adicioná-los ao grupo integrado **AdminAgent**. Consulte [Gerenciar os membros de um grupo no Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) para obter informações sobre como fazer isso.
+2. Atribua a função de Agente Administrador para os usuários apropriados em sua organização. Para fazer isso, você precisará adicioná-los ao grupo integrado **AdminAgent**. Consulte [Gerenciar os membros de um grupo no Azure Active Directory](/azure/active-directory/active-directory-groups-members-azure-portal) para obter informações sobre como fazer isso.
 
 ## <a name="connect-with-us"></a>Conecte-se conosco
 
-- Dúvidas? Envie o email para azgovcsp@microsoft.com
+- Perguntas? Envie o email para azgovcsp@microsoft.com
 
 - Junte-se a nós no [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777).
 

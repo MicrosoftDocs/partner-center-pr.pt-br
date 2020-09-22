@@ -9,12 +9,12 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: a683d7a375ebb3bbb3ef481c3dbfb27cd86bcb86
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 45d40afc64c5c64801841d3cb758b49c8e107de7
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302223"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999640"
 ---
 # <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analisar seu perfil comercial-Veja como você atrai os clientes alvo e as indicações potenciais
 <!-- 
@@ -52,4 +52,4 @@ O gráfico de **Resumo de desempenho do perfil** inclui as seguintes informaçõ
 - **Referências geradas**: o número total de referências enviadas a você depois que um cliente selecionou seu perfil de negócios.
 
 > [!TIP]
-> Ao começar a [responder a essas referências](responding-to-referrals.md), certifique-se de examinar a [página de informações de referência](referral-insights.md) para ver mais detalhes sobre como suas referências estão sendo executadas.
+> Ao começar a [responder a essas referências](manage-leads.md), certifique-se de examinar a [página de informações de referência](referral-insights.md) para ver mais detalhes sobre como suas referências estão sendo executadas.

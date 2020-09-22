@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7551d3d010bfb7a4bd96b425d0afbf16ab8ebb1d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 9964dd4fb1ae96e890dd357a045acdb152fb95f1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434075"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999100"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registre as negociações que você ganhou no Partner Center para poder obter mais oportunidades posteriormente
 
@@ -24,7 +24,7 @@ ms.locfileid: "86434075"
 
 Você pode registrar negociações que ganhou no Partner Center fornecendo mais informações sobre o contrato. Essas informações nos ajudam a oferecer mais oportunidades para você no futuro.
 
-Para determinadas soluções qualificadas, depois que você selecionar **Ganhas** no [processo de resposta de indicação](responding-to-referrals.md), você deverá fornecer mais informações a fim de registrar sua negociação. A Microsoft revisará as informações que você fornecer e poderá solicitar detalhes adicionais durante o processo de revisão.
+Para determinadas soluções qualificadas, depois que você selecionar **Ganhas** no [processo de resposta de indicação](manage-leads.md), você deverá fornecer mais informações a fim de registrar sua negociação. A Microsoft revisará as informações que você fornecer e poderá solicitar detalhes adicionais durante o processo de revisão.
 
 Você também pode registrar novas negociações que ganhou que usam uma de suas soluções, mesmo se elas não foram originadas por meio de uma [indicação](referrals.md). 
 
@@ -64,6 +64,6 @@ Na página **Indicações > Registros de negociação > Em Andamento**, você ve
 
 Se qualquer informação precisar ser atualizada, poderemos mover o registro de negociação para a página **Ação necessária**.
 
-### <a name="closed"></a>Fechado
+### <a name="closed"></a>Fechadas
 
 Na página **Indicações > Registros de negociação > Fechados**, você verá as negociações que foram registradas com êxito e revisadas pela Microsoft. Você pode usar os filtros para mostrar apenas registros de negociação **Aprovados** ou **Recusados**.

@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e6d98069822df9a6310335ffd8b1ab08dc61ccb
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 232eae10927d8ac38b4cce0842fbb8e4278f8d03
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545647"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000370"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instruções para a consolidação de locatários de autorização regional do CSP
 
@@ -38,13 +38,13 @@ Você pode consolidar locatários para sua empresa. Use estas instruções para 
 
 ## <a name="prepare-for-migration"></a>Preparar para a migração
 
-- Entre no **Partner Center** usando a conta de **transição** (aquela que você fará a transição para a nova conta) e examine todos os clientes e todos os serviços provisionados para esses clientes.
+- Entre no **Partner Center**  usando a conta de **transição** (aquela que você fará a transição para a nova conta) e examine todos os clientes e todos os serviços provisionados para esses clientes.
 
 - Saia desta conta.
 
 ## <a name="migrate-customer-accounts"></a>Migrar contas de clientes
 
-1. Entre no **Partner Center** com a conta de **transição** (nova) (aquela na qual você está fazendo a transição de clientes).
+1. Entre no **Partner Center**  com a conta de **transição** (nova) (aquela na qual você está fazendo a transição de clientes).
 
 2. Selecione **Clientes**.
 
@@ -144,7 +144,7 @@ Usando a **função Exportar**, você pode capturar as assinaturas que serão us
 
 ### <a name="api-registration"></a>Registro de API
 
-Para obter mais informações sobre o registro de API, consulte [Configurar o acesso à API no Partner Center](https://go.microsoft.com/fwlink/?linkid=847990).
+Para obter mais informações sobre o registro de API, consulte [Configurar o acesso à API no Partner Center](/partner-center/develop/set-up-api-access-in-partner-center).
 
 ## <a name="next-steps"></a>Próximas etapas
 

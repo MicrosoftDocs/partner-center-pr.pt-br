@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05939dc5edaddeb2f74b3b75017e2062dff25e31
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 98bfd9a9ce6f03ad62a830f05ba82f9b90268326
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468327"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999700"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Saiba como ler os itens de linha em seus arquivos de reconciliação do Partner Center
 
@@ -58,7 +58,7 @@ Siga estas etapas para corrigir quaisquer problemas de formatação em seus arqu
 
 ## <a name="download-reconciliation-files-programmatically"></a>Baixar arquivos de reconciliação programaticamente
 
-Os arquivos de reconciliação podem ser muito grandes e, às vezes, são difíceis de baixar. Para baixar arquivos de reconciliação programaticamente, consulte [obter itens de linha da fatura](https://docs.microsoft.com/partner-center/develop/get-invoiceline-items).
+Os arquivos de reconciliação podem ser muito grandes e, às vezes, são difíceis de baixar. Para baixar arquivos de reconciliação programaticamente, consulte [obter itens de linha da fatura](/partner-center/develop/get-invoiceline-items).
 
 ## <a name="map-taxes-or-vat"></a>Impostos do mapa ou IVA
 
@@ -71,7 +71,7 @@ Para mapear impostos ou IVA (imposto sobre valor agregado) para sua fatura:
 
 Os parceiros no **modelo indireto** podem usar esses campos adicionais em arquivos de reconciliação baseados em licença e de uso para discriminar os arquivos pelo revendedor.
 
-| ID MPN | Description |
+| ID MPN | Descrição |
 | ------ | ----------- |
 | ID MPN | O identificador de Microsoft Partner Network (MPN) do parceiro CSP (provedor de soluções na nuvem) (direto ou indireto). |
 | [ID do MPN do revendedor](#reseller-mpn-id) | O [identificador de MPN do revendedor do registro para a assinatura](#reseller-mpn-id). Este campo corresponde à ID do revendedor listada para a assinatura específica no Partner Center. Só aparece em arquivos de reconciliação para parceiros no modelo indireto. |

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5304e8c2e00b832551bfdb06872bc0051b6064dc
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 68ed2e839a55206fe9e0692d0fbfd086e15fb0ff
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811126"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000630"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Mover clientes baseados em licença de outros canais & parceiros para o programa do provedor de soluções na nuvem
 
@@ -34,7 +34,7 @@ Se o cliente quiser contratar vários parceiros, transferir suas assinaturas par
 
 
    >[!NOTE]
-   >O cliente pode estar qualificado para um crédito se ele comprou por meio do portal de administração do Microsoft 365 (M365) (por exemplo, por meio de cobrança mensal ou anual diretamente da Microsoft). Os créditos para assinaturas adquiridas diretamente da Microsoft são tratados pelo **suporte de cobrança M365**. Consulte Diretrizes de M365 sobre como [cancelar sua assinatura do M365](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription). Se você tiver delegado privilégios de administração para o cliente, poderá entrar em contato com o suporte do M65 em nome do cliente. Caso contrário, peça ao cliente para entrar em contato com o suporte do M365 diretamente para descobrir a quantidade de crédito para a qual eles estão qualificados e como esse crédito será dado a eles. Leia informações sobre [privilégios de administrador delegado](customers-revoke-admin-privileges.md).
+   >O cliente pode estar qualificado para um crédito se ele comprou por meio do portal de administração do Microsoft 365 (M365) (por exemplo, por meio de cobrança mensal ou anual diretamente da Microsoft). Os créditos para assinaturas adquiridas diretamente da Microsoft são tratados pelo **suporte de cobrança M365**. Consulte Diretrizes de M365 sobre como [cancelar sua assinatura do M365](/microsoft-365/commerce/subscriptions/cancel-your-subscription). Se você tiver delegado privilégios de administração para o cliente, poderá entrar em contato com o suporte do M65 em nome do cliente. Caso contrário, peça ao cliente para entrar em contato com o suporte do M365 diretamente para descobrir a quantidade de crédito para a qual eles estão qualificados e como esse crédito será dado a eles. Leia informações sobre [privilégios de administrador delegado](customers-revoke-admin-privileges.md).
 
 
 4. O cliente continuará com as assinaturas que você provisionou, sem interrupção.

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecf19a5f519333e40d7f5ae8e982ac8d816e8604
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: a51504a5e560f8a8041c448c3e5d9e7f0cfdae07
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444911"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999210"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Fornecer a clientes avaliações gratuitas de 30 dias de produtos da Microsoft
 
@@ -79,8 +79,8 @@ Você pode converter Avaliações para assinaturas pagas usando o Partner Center
 
 Talvez seja necessário alterar suas APIs para acomodar a conversão de uma avaliação gratuita em uma assinatura paga. Para obter mais informações, consulte a seguinte documentação do desenvolvedor:
 
-- [Converter uma assinatura de avaliação em paga](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
-- [Obter uma lista de ofertas de conversão de avaliação](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
+- [Converter uma assinatura de avaliação em paga](/partner-center/develop/convert-a-trial-subscription-to-paid)
+- [Obter uma lista de ofertas de conversão de avaliação](/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
 ### <a name="trials-without-conversions"></a>Avaliações sem conversões
 

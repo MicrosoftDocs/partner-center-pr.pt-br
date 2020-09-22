@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5c506e1f3dd5e1ffcac1d7017687b1b36718745
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: c03ab358b8fb6ab0f23ea5f42b9d35c6f6c2b80c
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943469"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000420"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Cobrança de produtos e assinaturas do Marketplace comercial no Partner Center
 
@@ -30,12 +30,12 @@ ms.locfileid: "86943469"
 
 Como um parceiro no programa CSP, você pode usar o Partner Center para comprar produtos SaaS baseados em licença de editores ISV no mercado comercial. Depois de fazer isso, você pode acessar uma fatura para esses tipos de compras. O período de cobrança começa no primeiro dia do mês do calendário e termina no último dia do mês do calendário. As notas fiscais são disponibilizadas no oitavo dia do mês seguinte.
 
-Você pode acessar as faturas no [painel](https://partner.microsoft.com/dashboard/) do Partner Center ou usando as [APIs do Partner Center](https://docs.microsoft.com/partner-center/develop/).
+Você pode acessar as faturas no [painel](https://partner.microsoft.com/dashboard/) do Partner Center ou usando as [APIs do Partner Center](/partner-center/develop/).
 
 Os parceiros no programa CSP são cobrados pelas soluções do ISV Commercial Marketplace adquiridas para um cliente quando compram esses produtos da central de parceiros ou da portal do Azure (usando o locatário do Azure do cliente antes, adquirido pelo CSP).
 
 >[!NOTE]
->Se os clientes usam seu próprio locatário do Azure AD (não adquirido de um parceiro no programa CSP), os clientes também podem optar por comprar sua própria solução de SaaS de ISV diretamente do ([Microsoft AppSource](https://appsource.microsoft.com/) ou [do Azure Marketplace](https://azuremarketplace.microsoft.com/)). Se fizerem isso, eles receberão sua própria conta diretamente da Microsoft. Da mesma forma, se um parceiro no programa CSP vender uma assinatura do Azure ou o novo plano do Azure para o cliente e conceder ao cliente (ou revendedor indireto) o [acesso baseado em função](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles) a esse locatário (atribuindo qualquer função ao cliente além do **leitor**), esse cliente (ou revendedor indireto) também poderá adquirir ofertas do Marketplace comercial sem aprovação prévia ou notificação ao parceiro CSP Nesses casos, a Microsoft não notificará diretamente os parceiros no programa CSP sobre as compras feitas por seus clientes. No entanto, a Microsoft oferece um mecanismo de [Azure monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log) opcional que você pode usar para definir alertas ou notificações sobre a atividade em uma assinatura do Azure.
+>Se os clientes usam seu próprio locatário do Azure AD (não adquirido de um parceiro no programa CSP), os clientes também podem optar por comprar sua própria solução de SaaS de ISV diretamente do ([Microsoft AppSource](https://appsource.microsoft.com/) ou [do Azure Marketplace](https://azuremarketplace.microsoft.com/)). Se fizerem isso, eles receberão sua própria conta diretamente da Microsoft. Da mesma forma, se um parceiro no programa CSP vender uma assinatura do Azure ou o novo plano do Azure para o cliente e conceder ao cliente (ou revendedor indireto) o [acesso baseado em função](/azure/role-based-access-control/built-in-roles) a esse locatário (atribuindo qualquer função ao cliente além do **leitor**), esse cliente (ou revendedor indireto) também poderá adquirir ofertas do Marketplace comercial sem aprovação prévia ou notificação ao parceiro CSP Nesses casos, a Microsoft não notificará diretamente os parceiros no programa CSP sobre as compras feitas por seus clientes. No entanto, a Microsoft oferece um mecanismo de [Azure monitor](/azure/azure-monitor/platform/alerts-activity-log) opcional que você pode usar para definir alertas ou notificações sobre a atividade em uma assinatura do Azure.
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>Acessar informações de cobrança para produtos do Marketplace comercial
 
@@ -53,7 +53,7 @@ O administrador global ou de cobrança da sua empresa receberá um email quando 
   
 3. Selecione a guia **compras recorrentes e de uso único** . Se você comprou assinaturas de um cliente em uma moeda diferente, verá uma guia para cada moeda. Você pode fazer algumas coisas fr: om esta página:
 
-    - Para ver a última nota fiscal e o arquivo de reconciliação, selecione **Nota Fiscal** ou **arquivo de reconciliação**. (Se desejar, você também pode acessar os dados de arquivo de nota fiscal e reconhecimento mais recentes usando as [APIs do Partner Center](https://docs.microsoft.com/partner-center/develop/).
+    - Para ver a última nota fiscal e o arquivo de reconciliação, selecione **Nota Fiscal** ou **arquivo de reconciliação**. (Se desejar, você também pode acessar os dados de arquivo de nota fiscal e reconhecimento mais recentes usando as [APIs do Partner Center](/partner-center/develop/).
 
     - Para ver os arquivos de notas fiscais e reconhecimento anteriores, expanda a linha de **histórico de cobrança** abaixo.
 

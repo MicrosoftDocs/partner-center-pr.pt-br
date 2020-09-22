@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 58acef4599333929446a283ecde1cca9f3ef9ce8
-ms.sourcegitcommit: 983457c8e8fcfbfe48b80b1c86fe894c1e106eb3
+ms.openlocfilehash: 403899b73dda09dded582c94cabe4219ef56c568
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "89443582"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000610"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Solucionar problemas de configuração de conta ou de renovação de MPN
 
@@ -45,7 +45,7 @@ Você vê essa mensagem porque os usuários viral estão desabilitados ou a insc
 
 **Set-MsolCompanySettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
 
-Para obter mais informações, leia [inscrição de autoatendimento](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-self-service-signup)
+Para obter mais informações, leia [inscrição de autoatendimento](/azure/active-directory/users-groups-roles/directory-self-service-signup)
 
 ## <a name="you-forgot-your-password"></a>Você esqueceu sua senha
 

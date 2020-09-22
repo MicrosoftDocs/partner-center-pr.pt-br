@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8f7b29b39cbc4a991accd6821a6b6cd037ccfc54
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: f9d5d0841914f0a8a5dc155307b177606a4a6de6
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114340"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000380"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Aplicar-se à venda em nuvens nacionais da Microsoft como parte do programa CSP
 
@@ -48,4 +48,4 @@ Parceiros qualificados podem vender soluções na nuvem da Microsoft para os cli
 
     A Microsoft é o provedor de tecnologia, mas não opera o serviço; a 21Vianet opera, fornece e gerencia a entrega dos serviços em nuvem da Microsoft de forma independente. Ao licenciar tecnologias da Microsoft, a 21Vianet pode oferecer serviços e operar datacenters do Azure e Office 365 que mantêm os dados dentro da China continental. A 21Vianet também fornece serviços de cobrança e assinatura, bem como suporte.
 
-    Para obter informações sobre como se inscrever e vender para clientes no Azure e Office 365 operados pela 21Vianet na China, consulte [Partner Center operado pela 21Vianet](https://msdn.microsoft.com/partner-china/index). 
+    Para obter informações sobre como se inscrever e vender para clientes no Azure e Office 365 operados pela 21Vianet na China, consulte [Partner Center operado pela 21Vianet](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11)).

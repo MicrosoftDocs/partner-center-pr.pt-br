@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: ba5fe60234c002ad2696de348a1b3b9b1284c149
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: 43a35f91be9ce656157065a3d19b3643ddeff68a
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89280489"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999290"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gerenciamento de não pagamento, fraude ou uso indevido no Partner Center
 
@@ -79,7 +79,7 @@ Sugestões para reduzir riscos online ao integrar novos clientes incluem:
 - Use a autenticação multifator (como verificação de SMS) durante a inscrição para minimizar a exposição à criação e à compra da conta robótica.
 - Gerencie e acompanhe identidades usando serviços (como serviços de identidade digital).
 - Avalie a força financeira do cliente por meio de sistemas de detecção de fraudes de cartão de crédito.
-- Estabeleça uma política de coleções claras. Detalhe o processo de coleções e quando o acesso a assinaturas será afetado por não pagamento. (Você pode desabilitar o acesso ou [suspender as assinaturas de um cliente](suspend-a-subscription.md) para não pagamento.)
+- Estabeleça uma política de coleções claras. Detalhe o processo de coleções e quando o acesso a assinaturas será afetado por não pagamento. (Você pode desabilitar o acesso ou [suspender as assinaturas de um cliente](create-a-new-subscription.md#suspend-a-subscription) para não pagamento.)
 
 ### <a name="managing-customer-accounts"></a>Gerenciar contas de clientes
 

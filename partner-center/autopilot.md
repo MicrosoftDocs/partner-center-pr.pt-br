@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a59b0c25b8f5203942e73b549d5ffb9d65d90c36
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 0ae61db0ca040afe67faa3a0883ea033b8f67562
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527652"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999430"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Usar perfis do Windows AutoPilot em novos dispositivos para personalizar a experiência de uso inicial do cliente
 
@@ -37,7 +37,7 @@ Este artigo explica como criar e aplicar perfis do AutoPilot a dispositivos no P
 
 Se você ainda não estiver familiarizado com o piloto automático, revise as informações nestes artigos:
 
-- [Visão geral do Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
+- [Visão geral do Windows AutoPilot](/windows/deployment/windows-10-auto-pilot)
 - [Guia de referência de implantação do AutoPilot](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>Visão geral
@@ -162,7 +162,7 @@ Siga as instruções abaixo para adicionar dispositivos à conta de um cliente n
 4. Insira um nome para a lista de dispositivos e, em seguida, selecione **procurar** para carregar a lista do cliente (no formato de arquivo. csv) para o centro de parceiros.
 
     >[!NOTE]
-    >Você deve ter recebido esse arquivo. csv com a compra do dispositivo. Se você não recebeu um arquivo. csv, você pode criar um por conta própria seguindo as etapas em [adicionando dispositivos ao Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell).  
+    >Você deve ter recebido esse arquivo. csv com a compra do dispositivo. Se você não recebeu um arquivo. csv, você pode criar um por conta própria seguindo as etapas em [adicionando dispositivos ao Windows AutoPilot](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell).  
 
 5. Carregue o arquivo. csv e, em seguida, selecione **salvar**.
 

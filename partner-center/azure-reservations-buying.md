@@ -9,12 +9,12 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 19a358fe023a8c8fd9d30ecb9dd1c37114dca84a
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 655bd48df616b26b842d5f99960d6b6ad2e75f1f
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367010"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000260"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Comprar Microsoft Azure reservas em nome de seus clientes no Partner Center
 
@@ -33,7 +33,7 @@ ms.locfileid: "89367010"
 - Administrador de gerenciamento de usuário
  
 > [!NOTE]
-> Este artigo se aplica somente a parceiros no programa CSP (provedor de soluções na nuvem). Os clientes que usam outros tipos de assinaturas (como pagamento conforme o uso, individuais, contrato de cliente da Microsoft ou assinaturas de Enterprise Agreement) devem ler [essa documentação de reservas do Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations).
+> Este artigo se aplica somente a parceiros no programa CSP (provedor de soluções na nuvem). Os clientes que usam outros tipos de assinaturas (como pagamento conforme o uso, individuais, contrato de cliente da Microsoft ou assinaturas de Enterprise Agreement) devem ler [essa documentação de reservas do Azure](/azure/cost-management-billing/reservations).
 
 ## <a name="before-you-begin"></a>Antes de começar
 
@@ -136,7 +136,7 @@ Siga as etapas abaixo para comprar Microsoft Azure reservas em nome de seus clie
     - Selecione o escopo da reserva. O escopo da reserva pode cobrir uma assinatura ou várias assinaturas (escopo compartilhado). Se você delimitar a reserva para uma única assinatura, o desconto de reserva será aplicado somente a essa assinatura. Se você selecionar compartilhado, o desconto de reserva será aplicado a qualquer assinatura no contexto de cobrança do cliente. 
 
       >[!NOTE] 
-      >Se você optar por limitar o escopo da reserva a uma única assinatura do Azure, talvez seja necessário aumentar a cota de vCPU da assinatura. Para aumentar a cota de vCPU da assinatura, você precisará criar uma solicitação de suporte no portal do Azure. Siga as instruções [neste tópico](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) para criar a solicitação. 
+      >Se você optar por limitar o escopo da reserva a uma única assinatura do Azure, talvez seja necessário aumentar a cota de vCPU da assinatura. Para aumentar a cota de vCPU da assinatura, você precisará criar uma solicitação de suporte no portal do Azure. Siga as instruções [neste tópico](/azure/azure-supportability/resource-manager-core-quotas-request) para criar a solicitação. 
 
       >[!NOTE]   
       >Se o seu cliente estiver sob o plano do Azure, o **escopo**  será definido como **compartilhado**. 
@@ -156,5 +156,5 @@ Siga as etapas abaixo para comprar Microsoft Azure reservas em nome de seus clie
 |Reservas do Azure na visão geral do CSP  | [Vender Instâncias Reservadas do Microsoft Azure](azure-reservations.md) |
 |Gerenciando reservas do Azure no Partner Center | [Gerenciando reservas do Azure no Partner Center](azure-reservations-manage.md)
 |Determinar o tamanho correto da VM e verificar o uso da VM do cliente   |[Dimensionamento de VM para uso máximo de reserva do Azure](azure-usage.md)   |
-|Como comprar reservas do Azure usando a API do Partner Center | [Comprar Instâncias de VM Reservadas do Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) na documentação do desenvolvedor do Partner Center   |
+|Como comprar reservas do Azure usando a API do Partner Center | [Comprar Instâncias de VM Reservadas do Azure](/partner-center/develop/purchase-azure-reservations) na documentação do desenvolvedor do Partner Center   |
 |Oferecendo aos clientes permissão para comprar suas próprias reservas do Azure  | [Dê permissão aos clientes para comprar suas próprias reservas do Azure](give-customers-permission.md)  |

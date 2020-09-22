@@ -8,12 +8,12 @@ description: Sincronize suas referências no Partner Center com seu Salesforce C
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 4f636da49504c69c1e0e44c176fb76a4d7f8a78e
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 595cbba8a173eb81b4e3520d1b1b0533c4dee296
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527829"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000590"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Conector de venda conjunta para o Salesforce CRM – visão geral
 
@@ -34,7 +34,7 @@ A solução baseia-se na solução de automatização de energia da Microsoft e 
 |Co-venda pronta|Sua solução de IP/serviços deve estar pronta para venda.|[Venda com a Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Conta do Partner Center|A ID de MPN associada ao locatário do Partner Center deve ser a mesma que a ID do MPN associada à sua solução de venda conjunta. Verifique se você pode ver suas referências de venda conjunta no portal do Partner Center antes de implantar os conectores.|[Gerenciar sua conta](create-user-accounts-and-set-permissions.md)|
 |Funções de usuário da Central de parceiros|O funcionário que irá instalar e usar os conectores deve ser um administrador de referências|[Atribuir permissões e funções de usuários](create-user-accounts-and-set-permissions.md)|
-|CRM do Salesforce|A função de usuário CRM é administrador do sistema ou personalizador do sistema|[Atribuir funções no Salesforce CRM](https://docs.microsoft.com/SalesforceCRM/customerengagement/on-premises/customize/privileges-required-customization)|
+|CRM do Salesforce|A função de usuário CRM é administrador do sistema ou personalizador do sistema|[Atribuir funções no Salesforce CRM](/SalesforceCRM/customerengagement/on-premises/customize/privileges-required-customization)|
 |Conta de fluxo de automatização de energia|Uma conta de [energia ativa automatizada](https://flow.microsoft.com) para o administrador do sistema do CRM ou o personalizador do sistema. Esse usuário deve entrar no [Power Automate](https://flow.microsoft.com) pelo menos uma vez antes da instalação.|
 
 ## <a name="install-partner-center-referrals-synchronization-for-salesforce-crm"></a>Instalar a sincronização de referências do Partner Center para o Salesforce CRM
@@ -115,7 +115,7 @@ As APIs de webhook do Partner Center permitem que você se registre em eventos d
 
 1. Para registrar sua URL, selecione o **registro do webhook do Partner Center (insider Preview)** fluxo automatizado de energia.
 
-2. Adicionar conexões para (a) Usuário do Partner Center com as referências credenciais de administrador (b.) Eventos do Partner Center conforme realçado abaixo
+2. Adicione conexões para o usuário do centro de parceiros (a) com referências credenciais de administrador (b.) os eventos do centro de parceiros conforme realçado abaixo
 
    :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Gatilho":::
 
@@ -177,7 +177,7 @@ Várias etapas de cada um dos fluxos de energia automatizada podem ser personali
 
 3. Para personalizar os campos de sincronização de referência do CRM para PC para eventos de atualização:
 
-   1. Selecione **Editar** para editar/personalizar o fluxo de automatização de energia.
+   1. Selecione **Editar**  para editar/personalizar o fluxo de automatização de energia.
 
    2. Selecione **(escopo) sincronizar a oportunidade**.
 
@@ -189,7 +189,7 @@ Várias etapas de cada um dos fluxos de energia automatizada podem ser personali
 
 4. Para personalizar os campos para a sincronização de referência do CRM para PC para criar eventos?
 
-   1. Selecione **Editar** para editar/personalizar o fluxo de automatização de energia.
+   1. Selecione **Editar**  para editar/personalizar o fluxo de automatização de energia.
 
    2. Selecione **(escopo) sincronizando referências.**
 
@@ -298,7 +298,7 @@ Os campos personalizados a seguir devem fazer parte da seção CRM:
        - "Como a Microsoft pode ajudar?": selecione uma das seguintes opções:
        - Produtos: IDs de solução do produto
 
-   4. Depois de definir a opção sincronização de oportunidade **com o Partner Center** como **Sim**, aguarde 10 minutos e entre em sua conta do Partner Center. Suas referências serão sincronizadas com o Salesforce CRM.
+   4. Depois de definir a opção sincronização de oportunidade  **com o Partner Center** como **Sim**, aguarde 10 minutos e entre em sua conta do Partner Center. Suas referências serão sincronizadas com o Salesforce CRM.
 
    5. Quando a opção "sincronizar com o Partner Center" for definida como "Sim", se você atualizar a oportunidade no Salesforce CRM, as alterações serão sincronizadas com sua conta do Partner Center.
 
@@ -322,10 +322,10 @@ Os campos personalizados a seguir devem fazer parte da seção CRM:
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Mais informações sobre a plataforma de automatização de energia da Microsoft?](https://docs.microsoft.com/-automate/)
+- [Mais informações sobre a plataforma de automatização de energia da Microsoft?](/-automate/)
 
 - [Gerenciar clientes potenciais](manage-leads.md)
 
 - [Gerenciar oportunidades de venda conjunta](manage-co-sell-opportunities.md)
 
-- [Webhooks do Partner Center](https://docs.microsoft.com/partner-center/develop/partner-center-webhooks)
+- [Webhooks do Partner Center](/partner-center/develop/partner-center-webhooks)

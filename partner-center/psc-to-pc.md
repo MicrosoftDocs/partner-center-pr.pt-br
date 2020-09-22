@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3dd511f455c24d7fa3193d6a99efd786eb3c34da
-ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
+ms.openlocfilehash: dc131991826a6428d613aa34e2e99c19e3efde05
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 09/22/2020
-ms.locfileid: "90848257"
+ms.locfileid: "90999340"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guia para a venda em conjunto no Partner Center (PC) para parceiros migrando do PSC (Partner Sales Connect)
 
@@ -40,12 +40,12 @@ Como você sabe, sua empresa perderá o acesso ao PSC após 31 de dezembro de 20
 ### <a name="if-you-are-psc-admin"></a>Se você for administrador do PSC
 
 - Você precisa de um email de trabalho para fazer logon no [Partner Center](https://partner.microsoft.com/).
-- Configure sua conta com a ajuda do [administrador da conta](https://docs.microsoft.com/partner-center/permissions-overview)do Partner Center.
+- Configure sua conta com a ajuda do [administrador da conta](permissions-overview.md)do Partner Center.
 - Saiba como fazer uma venda conjunta no Partner Center lendo este documento.
-- Configure contas de usuário no Partner Center para todos os usuários do PSC (funções de administrador, gerente de negociações e vendedor) e atribua a eles [funções de administrador de referência](https://docs.microsoft.com/partner-center/permissions-overview).
+- Configure contas de usuário no Partner Center para todos os usuários do PSC (funções de administrador, gerente de negociações e vendedor) e atribua a eles [funções de administrador de referência](permissions-overview.md).
 
 >[!Important]
-> Verifique se a ID de MPN mostrada na faixa PSC está disponível na lista de locais MPN no Partner Center. Você pode verificar isso no Partner Center acessando "configurações de conta" e "[locais](https://docs.microsoft.com/partner-center/manage-locations)" sob isso para encontrar a lista de todos os MPNs associados à conta do Partner Center.
+> Verifique se a ID de MPN mostrada na faixa PSC está disponível na lista de locais MPN no Partner Center. Você pode verificar isso no Partner Center acessando "configurações de conta" e "[locais](manage-locations.md)" sob isso para encontrar a lista de todos os MPNs associados à conta do Partner Center.
 
  :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Imagem mostrando a faixa do PSC em que os parceiros podem encontrar a ID do MPN.":::
 
@@ -61,10 +61,10 @@ Como você sabe, sua empresa perderá o acesso ao PSC após 31 de dezembro de 20
 
 Se você não vir a guia Referências:
 
-- O [administrador global](https://docs.microsoft.com/partner-center/permissions-overview) da sua empresa pode conceder acesso à guia referências. Para localizar seu administrador global, vá para configurações de parceiro no ícone de engrenagem na parte superior direita da central de parceiros. Selecione a página Gerenciamento de usuários no segundo nível da barra de navegação à esquerda. Clique na lista suspensa que mostra "todos os usuários" no canto superior direito da página e altere para "administradores globais". A página exibirá todos os administradores globais com suas respectivas IDs de email. Entre em contato com eles para obter acesso "administrador de referência" para sua conta corporativa.
+- O [administrador global](permissions-overview.md) da sua empresa pode conceder acesso à guia referências. Para localizar seu administrador global, vá para configurações de parceiro no ícone de engrenagem na parte superior direita da central de parceiros. Selecione a página Gerenciamento de usuários no segundo nível da barra de navegação à esquerda. Clique na lista suspensa que mostra "todos os usuários" no canto superior direito da página e altere para "administradores globais". A página exibirá todos os administradores globais com suas respectivas IDs de email. Entre em contato com eles para obter acesso "administrador de referência" para sua conta corporativa.
 
 >[!Important]
-> Se sua função estiver gerenciando apenas usuários no PSC, você poderá obter a função de [administrador da conta](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) no Partner Center. Se sua função também incluir o gerenciamento de oportunidades de venda conjunta, você deverá obter a função de [administrador de referências](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) . Além disso, indique um líder de gerenciamento de alterações entre os administradores do PSC para trabalhar com o administrador da conta do Partner Center, em vez de todos os administradores do PSC que estão chegando aos administradores da conta no PC individualmente.
+> Se sua função estiver gerenciando apenas usuários no PSC, você poderá obter a função de [administrador da conta](permissions-overview.md#manage-mpn-membership-and-your-company) no Partner Center. Se sua função também incluir o gerenciamento de oportunidades de venda conjunta, você deverá obter a função de [administrador de referências](permissions-overview.md#manage-referrals) . Além disso, indique um líder de gerenciamento de alterações entre os administradores do PSC para trabalhar com o administrador da conta do Partner Center, em vez de todos os administradores do PSC que estão chegando aos administradores da conta no PC individualmente.
 
  :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Imagem que mostra os administradores de conta na página de gerenciamento de usuário configurações de parceiro.":::
 
@@ -76,9 +76,9 @@ Se você não vir a guia Referências:
 Depois de configurar sua conta no Partner Center,
 
 - Convide todos os usuários que têm uma função "gerente de negociações" ou "vendedor" no PSC para o Partner Center como uma próxima etapa.
-- O [administrador da conta](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) que ajudou você com acesso às referências pode convidar todos os usuários.
-- Ao convidar os usuários, peça ao administrador da conta para atribuir a função de [administrador de referência](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) a eles.
-- Alguns dos seus usuários do PSC podem estar usando uma conta que não seja de trabalho ou uma conta de um domínio diferente daquele que você está usando no Partner Center. Todos esses usuários precisam entrar no Partner Center usando sua conta de trabalho anexada ao seu locatário do Azure AD. Seu [administrador global](https://docs.microsoft.com/partner-center/permissions-overview#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) pode ajudar com isso. Para localizar seu administrador global, vá para configurações de parceiro no ícone de engrenagem na parte superior direita da central de parceiros. Clique na página Gerenciamento de usuários no segundo nível da barra de navegação à esquerda. Clique na lista suspensa que mostra "todos os usuários" no canto superior direito da página e altere para "administradores globais".
+- O [administrador da conta](permissions-overview.md#manage-mpn-membership-and-your-company) que ajudou você com acesso às referências pode convidar todos os usuários.
+- Ao convidar os usuários, peça ao administrador da conta para atribuir a função de [administrador de referência](permissions-overview.md#manage-referrals) a eles.
+- Alguns dos seus usuários do PSC podem estar usando uma conta que não seja de trabalho ou uma conta de um domínio diferente daquele que você está usando no Partner Center. Todos esses usuários precisam entrar no Partner Center usando sua conta de trabalho anexada ao seu locatário do Azure AD. Seu [administrador global](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) pode ajudar com isso. Para localizar seu administrador global, vá para configurações de parceiro no ícone de engrenagem na parte superior direita da central de parceiros. Clique na página Gerenciamento de usuários no segundo nível da barra de navegação à esquerda. Clique na lista suspensa que mostra "todos os usuários" no canto superior direito da página e altere para "administradores globais".
 - O administrador global pode criar uma nova conta de usuário no seu locatário do Azure AD ou atribuir acesso de usuário convidado aos outros usuários da conta de domínio.
 - Depois que as contas são configuradas para todos os gerentes de negócios e usuários do PSC, elas precisam entrar no Partner Center, ir para a guia referência no painel de navegação esquerdo e verificar se elas podem ver a página referências.
 
@@ -100,16 +100,16 @@ Esta é uma etapa importante, que ajudará você a se preparar para a venda em c
 
 |**Cenário**|**Conexão de vendas do parceiro**|**Partner Center**|
 |-----|:-----|:-----|
-|Funções de usuário|O PSC tem funções de administrador, gerente de negociações e vendedor.|O PC tem apenas a função [administrador de referências](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) que fornece permissão de leitura e gravação para todas as negociações.|
-|Convidando a Microsoft em um negócio de venda conjunta|Iniciado pelo vendedor da Microsoft, não há nenhuma pergunta explícita pelo parceiro.|O parceiro terá que fazer uma [solicitação explícita](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-solutions) se uma ajuda do Microsoft seller for necessária para um negócio. O vendedor da Microsoft tem uma opção para recusar a solicitação.|
+|Funções de usuário|O PSC tem funções de administrador, gerente de negociações e vendedor.|O PC tem apenas a função [administrador de referências](permissions-overview.md#manage-referrals) que fornece permissão de leitura e gravação para todas as negociações.|
+|Convidando a Microsoft em um negócio de venda conjunta|Iniciado pelo vendedor da Microsoft, não há nenhuma pergunta explícita pelo parceiro.|O parceiro terá que fazer uma [solicitação explícita](manage-co-sell-opportunities.md#add-solutions) se uma ajuda do Microsoft seller for necessária para um negócio. O vendedor da Microsoft tem uma opção para recusar a solicitação.|
 |Expiry|Não há nenhum conceito de expiração de uma negociação.|Os acordos de entrada do parceiro expiram em 14 dias se não forem aceitos pelo parceiro. O mesmo é o caso de negócios de saída de parceiros onde eles podem entrar no estado expirado se o vendedor da Microsoft não agir em 14 dias.|
 |Detalhes do vendedor da Microsoft|Visível assim que um acordo é criado.|Os detalhes do vendedor da Microsoft serão compartilhados com o parceiro somente se o vendedor aceitar explicitamente o convite para a venda de vendas do parceiro.|
-|[Pipeline privado](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#types-of-co-sell-opportunities)|Não disponível.|Os parceiros podem compartilhar seus pipelines sem dar visibilidade aos vendedores da Microsoft.|
-|Soluções|As soluções que pertencem a apenas uma lista de preços podem ser adicionadas a um negócio.|O parceiro pode adicionar [soluções](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-solutions) que pertencem às listas a seguir. a) as soluções de suas próprias soluções b) do catálogo de primeira parte da Microsoft (semelhante à função de negócio de transação no PSC) e c) comercializar soluções de outros parceiros de terceiros (semelhante à função de negócio de ISV no PSC).|
+|[Pipeline privado](manage-co-sell-opportunities.md#types-of-co-sell-opportunities)|Não disponível.|Os parceiros podem compartilhar seus pipelines sem dar visibilidade aos vendedores da Microsoft.|
+|Soluções|As soluções que pertencem a apenas uma lista de preços podem ser adicionadas a um negócio.|O parceiro pode adicionar [soluções](manage-co-sell-opportunities.md#add-solutions) que pertencem às listas a seguir. a) as soluções de suas próprias soluções b) do catálogo de primeira parte da Microsoft (semelhante à função de negócio de transação no PSC) e c) comercializar soluções de outros parceiros de terceiros (semelhante à função de negócio de ISV no PSC).|
 |Atribuição de negociações|Somente o vendedor atribuído pode exibir e agir sobre as negociações.|Os membros da equipe podem ser adicionados a um negócio para especificar as pessoas que trabalham em um negócio, não há nenhum bloqueio de outros administradores de referência de exibir ou agir nessas negociações.|
-|Organização do cliente|Entrada de texto de formato livre.|Você pode pesquisar a [organização do cliente](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer) no [banco de dados D&B](https://www.dnb.com/) digitando apenas alguns caracteres. O nome e o endereço legais são preenchidos automaticamente com base na escolha.|
+|Organização do cliente|Entrada de texto de formato livre.|Você pode pesquisar a [organização do cliente](manage-co-sell-opportunities.md#select-your-customer) no [banco de dados D&B](https://www.dnb.com/) digitando apenas alguns caracteres. O nome e o endereço legais são preenchidos automaticamente com base na escolha.|
 |Contato do cliente|Não obrigatório.|Não obrigatório para compartilhamento de pipeline privado. Necessário se o vendedor da Microsoft for convidado a participar de uma solicitação de venda de uma parceria.|
-|API pública|Não disponível.|[API pública](https://docs.microsoft.com/partner/develop/referrals) para gerenciar programaticamente as referências do Partner Center.|
+|API pública|Não disponível.|[API pública](/partner/develop/referrals) para gerenciar programaticamente as referências do Partner Center.|
 
 ## <a name="psc-and-partner-center-field-mapping"></a>Mapeamento de campos do PSC e do Partner Center
 
@@ -166,13 +166,13 @@ Esta seção apresenta o mapeamento exato de atributos entre o PSC e o Partner C
 
 **Trimestre. O que devo fazer se não tiver acesso ao Partner Center?**
 
-Você pode entrar em contato com seus administradores listados na página "sem acesso" para obter as funções atribuídas. Você precisará da função "[administrador de referência](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)" para permissão de leitura e gravação na seção referências. Se você estiver gerenciando apenas perfis comerciais, precisará da função "administrador de perfil de negócios" no centro de parceiros.
+Você pode entrar em contato com seus administradores listados na página "sem acesso" para obter as funções atribuídas. Você precisará da função "[administrador de referência](permissions-overview.md#manage-referrals)" para permissão de leitura e gravação na seção referências. Se você estiver gerenciando apenas perfis comerciais, precisará da função "administrador de perfil de negócios" no centro de parceiros.
 
 :::image type="content" source="images/pscmigration/noaccess.png" alt-text="Imagem mostrando a experiência sem acesso no Partner Center.":::
 
 **Lançado. Quem pode me conceder acesso à seção referências no Partner Center?**
 
-O [administrador da conta](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) pode conceder acesso à guia referências. Para localizar o administrador da conta, vá para configurações de parceiro no ícone de engrenagem no canto superior direito do Partner Center. Clique na página Gerenciamento de usuários no segundo nível da barra de navegação à esquerda. Clique na lista suspensa que mostra "todos os usuários" no canto superior direito da página e altere para "administradores de conta". A página exibirá todos os administradores de conta com suas respectivas IDs de email. Entre em contato com eles para obter acesso "administrador de referência" para sua conta corporativa.
+O [administrador da conta](permissions-overview.md#manage-mpn-membership-and-your-company) pode conceder acesso à guia referências. Para localizar o administrador da conta, vá para configurações de parceiro no ícone de engrenagem no canto superior direito do Partner Center. Clique na página Gerenciamento de usuários no segundo nível da barra de navegação à esquerda. Clique na lista suspensa que mostra "todos os usuários" no canto superior direito da página e altere para "administradores de conta". A página exibirá todos os administradores de conta com suas respectivas IDs de email. Entre em contato com eles para obter acesso "administrador de referência" para sua conta corporativa.
 
 **3o. O botão de negociação + novo está esmaecido para nossa conta. O que devo fazer para começar a criar acordos?**
 
@@ -192,7 +192,7 @@ Não, não há nenhuma exibição somente leitura das negociações na seção r
 
 **P7. Como posso registrar um negócio depois de torná-lo como ganha?**
 
-Se o negócio atender aos critérios abaixo, vamos exibir um pop-up para iniciar o [registro de negociações](https://docs.microsoft.com/partner-center/register-deals).
+Se o negócio atender aos critérios abaixo, vamos exibir um pop-up para iniciar o [registro de negociações](./register-deals.md).
 
 - Há uma solução qualificada de incentivo anexada ao negócio.
 - O vendedor da Microsoft é convidado para participar do negócio ou convidou você para o negócio.
@@ -204,11 +204,11 @@ O "+ novo registro de negociações" deve ser usado somente pelos parceiros regi
 
 **P9. Está adicionando uma organização de cliente obrigatória?**
 
-Sim, adicionar uma [organização do cliente](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer) é obrigatório no Partner Center. Primeiro, comece pesquisando o local onde o cliente é o local. Com base nos detalhes que você tem; Você pode ser específico, incluindo o nome exato da construção ou apenas fornecer detalhes da cidade. A pesquisa da organização buscará todas as entidades legais que correspondem ao nome inserido para que você não precise inserir os detalhes do endereço. Todos os detalhes são preenchidos automaticamente com base na organização selecionada.
+Sim, adicionar uma [organização do cliente](./manage-co-sell-opportunities.md#select-your-customer) é obrigatório no Partner Center. Primeiro, comece pesquisando o local onde o cliente é o local. Com base nos detalhes que você tem; Você pode ser específico, incluindo o nome exato da construção ou apenas fornecer detalhes da cidade. A pesquisa da organização buscará todas as entidades legais que correspondem ao nome inserido para que você não precise inserir os detalhes do endereço. Todos os detalhes são preenchidos automaticamente com base na organização selecionada.
 
 **P10. Os detalhes de contato do cliente são obrigatórios?**
 
-Depende do [tipo de negócio](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#types-of-co-sell-opportunities) que você está criando. Se você estiver apenas compartilhando seu pipeline e não precisar de ajuda da organização de vendas da Microsoft, você pode optar por não fornecer detalhes de contato do cliente. Se você estiver vendendo uma venda em que está buscando ativamente ajuda do vendedor da Microsoft, será necessário fornecer os detalhes de contato do cliente. Você deve obter o consentimento explícito do cliente antes de criar uma solicitação de venda conjunta no Partner Center.
+Depende do [tipo de negócio](./manage-co-sell-opportunities.md#types-of-co-sell-opportunities) que você está criando. Se você estiver apenas compartilhando seu pipeline e não precisar de ajuda da organização de vendas da Microsoft, você pode optar por não fornecer detalhes de contato do cliente. Se você estiver vendendo uma venda em que está buscando ativamente ajuda do vendedor da Microsoft, será necessário fornecer os detalhes de contato do cliente. Você deve obter o consentimento explícito do cliente antes de criar uma solicitação de venda conjunta no Partner Center.
 
 **P11. Quantas soluções posso adicionar a um negócio?**
 
@@ -228,7 +228,7 @@ O Partner Center não pode ser acessado pelo PDMs diretamente ao contrário do P
 
 - OCP insights – se PDMs estiver apenas exibindo as negociações & progresso relacionado a elas, eles poderão usar o portal do insights OCP para obter a exibição da sua organização. Essa é uma ferramenta interna e só está disponível para PDMs. Observe que o OCP insights não está disponível para os usuários da sua empresa.
 - Usuário convidado no Partner Center-você pode adicionar sua conta do PDM @microsoft.com como um usuário convidado no Partner Center e atribuir a função de administrador de referência a eles para que eles possam exibir e agir em referências.
-- Criando um [novo usuário](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions#add-a-new-user) em seu locatário-você pode criar um novo usuário em seu próprio locatário e compartilhar esses detalhes com o PDM para que eles possam exibir e agir em referências semelhantes a outros usuários de referência em sua conta.
+- Criando um [novo usuário](./create-user-accounts-and-set-permissions.md#add-a-new-user) em seu locatário-você pode criar um novo usuário em seu próprio locatário e compartilhar esses detalhes com o PDM para que eles possam exibir e agir em referências semelhantes a outros usuários de referência em sua conta.
 
 ## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>Recursos para ajudá-lo a criar e gerenciar seus negócios no Partner Center
 
@@ -236,15 +236,15 @@ Se você ainda não leu os tópicos de ajuda de venda conjunta, os recursos a se
 
 |**Para fazer isso**   |**Leia isto**   |
 |-----------------------|:-----------------------|
-|Entendendo as guias e a navegação na página de oportunidades de venda|[Navegando na seção de venda conjunta](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#navigating-the-co-sell-section)|
-|Selecionando uma organização de cliente na lista D&B |[Selecione seu cliente](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer)|
-|Modificando os campos na seção detalhes do acordo|[Detalhes do acordo](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#deal-details)|
-|Adicionando os funcionários da empresa a uma equipe de negociação|[Adicionar seus funcionários](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-your-employees)|
-|Respondendo a um negócio de venda conjunta|[Gerenciar acordos de venda](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#responding-to-a-co-sell-opportunity)
-|Registre as negociações que você ganhou no Partner Center |[Registrar uma nova negociação](https://docs.microsoft.com/partner-center/register-deals)
-|Obtenha informações de referência e descubra como suas referências estão fazendo |[Insights de indicação](https://docs.microsoft.com/partner-center/referral-insights)
-|Criando e gerenciando perfil de negócios|[Gerenciar perfil de negócios](https://docs.microsoft.com/partner-center/create-a-marketing-profile)
-|Gerenciar clientes potenciais para seu perfil de negócios |[Gerenciar clientes potenciais](https://docs.microsoft.com/partner-center/manage-leads)|
+|Entendendo as guias e a navegação na página de oportunidades de venda|[Navegando na seção de venda conjunta](./manage-co-sell-opportunities.md#navigating-the-co-sell-section)|
+|Selecionando uma organização de cliente na lista D&B |[Selecione seu cliente](./manage-co-sell-opportunities.md#select-your-customer)|
+|Modificando os campos na seção detalhes do acordo|[Detalhes do acordo](./manage-co-sell-opportunities.md#deal-details)|
+|Adicionando os membros da equipe a uma equipe de negociação|[Adicionar seus funcionários](./manage-co-sell-opportunities.md#add-team-members)|
+|Respondendo a um negócio de venda conjunta|[Gerenciar acordos de venda](./manage-co-sell-opportunities.md#responding-to-a-co-sell-opportunity)
+|Registre as negociações que você ganhou no Partner Center |[Registrar uma nova negociação](./register-deals.md)
+|Obtenha informações de referência e descubra como suas referências estão fazendo |[Insights de indicação](./referral-insights.md)
+|Criando e gerenciando perfil de negócios|[Gerenciar perfil de negócios](./create-a-marketing-profile.md)
+|Gerenciar clientes potenciais para seu perfil de negócios |[Gerenciar clientes potenciais](./manage-leads.md)|
 
 ## <a name="additional-resources"></a>Recursos adicionais
 

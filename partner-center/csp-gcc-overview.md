@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b363f68fadf29024def3488dbe1ccbb334ea1907
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3086ada5238fac6ec993bffa8c852517281c98a3
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947655"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000390"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Vender assinaturas do Office 365 Government GCC para CSP para clientes qualificados
 
@@ -50,8 +50,7 @@ Acesse informações sobre a [oportunidade para parceiros no Governo dos EUA](ht
 
 Recursos de produto:
 
-- [Descrição do serviço Office 365 Government](https://technet.microsoft.com/library/mt774581.aspx)
+- [Descrição do serviço Office 365 Government](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)
 - [Roadmap.Office.com](https://products.office.com/business/office-365-roadmap)
 - [Central de Confiabilidade da Microsoft](https://www.microsoft.com/TrustCenter/)
 - [Portal de confiança do serviço Microsoft](https://aka.ms/STP)
-

@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59c40ebfe65d83abfb33f8994f1c0a0ffa7149a7
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 459f347d960a06f78a30a398dc51b67f2fa7d27b
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114147"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000070"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Movendo várias empresas para o Partner Center do Partner Membership Center (PMC)
 
@@ -93,4 +93,4 @@ Ao exibir seu perfil, você verá as informações do seu negócio jurídico (no
 - [Atribuir funções e permissões de usuário](permissions-overview.md)
 - [Gerenciar seus programas de associação](renew-mpn-offers.md)
 - [Criar perfil de negócios da sua empresa](create-a-marketing-profile.md)
-- [Conectar-se com clientes por meio de indicações](responding-to-referrals.md)
+- [Conectar-se com clientes por meio de indicações](manage-leads.md)

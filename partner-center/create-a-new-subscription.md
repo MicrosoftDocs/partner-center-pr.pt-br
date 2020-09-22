@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 66c8b490e69e9b03ec0db213ca2a5baf3d42635e
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 8c3cfc2a6576029a8fdfb902a7b3889b4ea6c628
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527799"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000520"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Criar, suspender ou cancelar assinaturas de clientes
 
@@ -78,9 +78,9 @@ Algumas ofertas são limitadas a uma assinatura por cliente. Para ver uma lista 
 
     - Se sua assinatura vier com uma avaliação gratuita de 30 dias, o período de avaliação gratuita será aplicado automaticamente. Como um parceiro no programa CSP, não é possível renunciar ao período de avaliação gratuita em ofertas que você compra para os clientes. Depois que o período de avaliação gratuita terminar, o prazo da assinatura será iniciado e a assinatura será convertida em status pago. A assinatura será renovada automaticamente de acordo com a mesma agenda.
    
-## <a name="update-subscriptions-with-add-ons"></a>Atualizar assinaturas com Complementos 
+## <a name="update-subscriptions-with-add-ons"></a>Atualizar assinaturas com complementos 
 
-Para comprar um complemento, o cliente deve primeiro ter uma assinatura base ativa.  Você não pode comprar Complementos por meio do catálogo.
+Para comprar um complemento, o cliente precisará primeiro ter uma assinatura base ativa.  Você não pode comprar complementos pelo catálogo.
 
 1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
@@ -93,9 +93,9 @@ Para comprar um complemento, o cliente deve primeiro ter uma assinatura base ati
 5. Atualize a quantidade de licenças para cada complemento necessário. **Envie** suas alterações.
 
 A capacidade de comprar Complementos por meio do Partner Center só está disponível para provedores diretos de fatura e indiretos.
-Somente Complementos qualificados são exibidos com base nos requisitos básicos e na disponibilidade regional. Consulte a matriz de oferta de revendedor de nuvem para obter mais informações sobre preços e ofertas.  Suspender a assinatura base também suspenderá os complementos associados.
+Somente Complementos qualificados são exibidos com base nos requisitos básicos e na disponibilidade regional. Consulte a matriz de ofertas do revendedor de nuvem para mais informações sobre preços e ofertas.  Suspender a assinatura base fará com que os complementos associados sejam suspensos.
 
-As datas de início dos complementos são alinhadas à assinatura base e os encargos são calculados a partir da data de início da cobrança e da data de término do encargo com encargos pro-favorável na primeira fatura. Para obter informações adicionais, consulte [cobrança baseada em licença](license-based-billing.md).
+As datas de início dos complementos estão alinhadas à assinatura base e as cobranças são calculadas da data de início à data de término de cobrança, com taxas proporcionais na primeira fatura. Para obter informações adicionais, consulte [cobrança baseada em licença](license-based-billing.md).
 
 
 ## <a name="suspend-or-cancel-a-subscription"></a>Suspender ou cancelar uma assinatura
@@ -154,7 +154,7 @@ Para cancelar uma assinatura de SaaS baseada em licença de um publicador ISV, f
 6. Para confirmar o cancelamento, selecione **Sim, cancelar**.
 
 > [!NOTE]
-> Você também pode optar por cancelar uma assinatura do Azure Marketplace usando APIs. Para fazer isso, consulte [cancelar uma assinatura do Azure Marketplace](https://docs.microsoft.com/partner-center/develop/cancel-an-azure-marketplace-subscription).
+> Você também pode optar por cancelar uma assinatura do Azure Marketplace usando APIs. Para fazer isso, consulte [cancelar uma assinatura do Azure Marketplace](/partner-center/develop/cancel-an-azure-marketplace-subscription).
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>Escolha se deseja renovar automaticamente uma assinatura do Marketplace comercial
 
