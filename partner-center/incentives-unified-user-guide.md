@@ -9,30 +9,30 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 32a7afcd939d47ed71627511645e1f3560717288
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 4f5c2188c88f66c3cc406af32bde9043ae7bb4c2
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714360"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999880"
 ---
-# <a name="access-payouts-pages-for-windows-apps-and-games-mpn-incentives-and-commercial-marketplace-payments"></a><span data-ttu-id="1eec9-103">Acessar páginas de pagamento para aplicativos e jogos do Windows, incentivos de MPN e pagamentos do Marketplace comercial</span><span class="sxs-lookup"><span data-stu-id="1eec9-103">Access payouts pages for Windows apps and games, MPN incentives, and Commercial Marketplace payments</span></span>
+# <a name="access-payouts-pages-for-windows-apps-and-games-mpn-incentives-and-commercial-marketplace-payments"></a><span data-ttu-id="c7bf7-103">Acessar páginas de pagamento para aplicativos e jogos do Windows, incentivos de MPN e pagamentos do Marketplace comercial</span><span class="sxs-lookup"><span data-stu-id="c7bf7-103">Access payouts pages for Windows apps and games, MPN incentives, and Commercial Marketplace payments</span></span>
 
-<span data-ttu-id="1eec9-104">**Funções apropriadas**</span><span class="sxs-lookup"><span data-stu-id="1eec9-104">**Appropriate roles**</span></span>
+<span data-ttu-id="c7bf7-104">**Funções apropriadas**</span><span class="sxs-lookup"><span data-stu-id="c7bf7-104">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="1eec9-105">Administrador global</span><span class="sxs-lookup"><span data-stu-id="1eec9-105">Global admin</span></span>
-- <span data-ttu-id="1eec9-106">Administrador de usuários</span><span class="sxs-lookup"><span data-stu-id="1eec9-106">User admin</span></span>
-- <span data-ttu-id="1eec9-107">Administrador de incentivos</span><span class="sxs-lookup"><span data-stu-id="1eec9-107">Incentives admin</span></span>
-- <span data-ttu-id="1eec9-108">Usuário de incentivos</span><span class="sxs-lookup"><span data-stu-id="1eec9-108">Incentives user</span></span>
-- <span data-ttu-id="1eec9-109">Agente de vendas</span><span class="sxs-lookup"><span data-stu-id="1eec9-109">Sales agent</span></span>
-- <span data-ttu-id="1eec9-110">Administrador de parceiros do MPN</span><span class="sxs-lookup"><span data-stu-id="1eec9-110">MPN partner admin</span></span>
+- <span data-ttu-id="c7bf7-105">Administrador global</span><span class="sxs-lookup"><span data-stu-id="c7bf7-105">Global admin</span></span>
+- <span data-ttu-id="c7bf7-106">Administrador de usuários</span><span class="sxs-lookup"><span data-stu-id="c7bf7-106">User admin</span></span>
+- <span data-ttu-id="c7bf7-107">Administrador de incentivos</span><span class="sxs-lookup"><span data-stu-id="c7bf7-107">Incentives admin</span></span>
+- <span data-ttu-id="c7bf7-108">Usuário de incentivos</span><span class="sxs-lookup"><span data-stu-id="c7bf7-108">Incentives user</span></span>
+- <span data-ttu-id="c7bf7-109">Agente de vendas</span><span class="sxs-lookup"><span data-stu-id="c7bf7-109">Sales agent</span></span>
+- <span data-ttu-id="c7bf7-110">Administrador de parceiros do MPN</span><span class="sxs-lookup"><span data-stu-id="c7bf7-110">MPN partner admin</span></span>
 
-<span data-ttu-id="1eec9-111">As informações de ajuda do pagamento que se aplicam a você depende de qual programa de parceiro você está trabalhando.</span><span class="sxs-lookup"><span data-stu-id="1eec9-111">The payout help information that applies to you depends on which partner program you're working in.</span></span> <span data-ttu-id="1eec9-112">Para ver a página apropriada para você, selecione o link correspondente abaixo:</span><span class="sxs-lookup"><span data-stu-id="1eec9-112">To see the page appropriate for you, select the corresponding link below:</span></span>
+<span data-ttu-id="c7bf7-111">As informações de ajuda do pagamento que se aplicam a você depende de qual programa de parceiro você está trabalhando.</span><span class="sxs-lookup"><span data-stu-id="c7bf7-111">The payout help information that applies to you depends on which partner program you're working in.</span></span> <span data-ttu-id="c7bf7-112">Para ver a página apropriada para você, selecione o link correspondente abaixo:</span><span class="sxs-lookup"><span data-stu-id="c7bf7-112">To see the page appropriate for you, select the corresponding link below:</span></span>
 
-- <span data-ttu-id="1eec9-113">Para pagamentos de jogos e de aplicativo do Windows, consulte [Resumo de pagamento](https://docs.microsoft.com/windows/uwp/publish/payout-summary) na documentação do desenvolvedor do Windows.</span><span class="sxs-lookup"><span data-stu-id="1eec9-113">For Windows app and game payments, see [Payout summary](https://docs.microsoft.com/windows/uwp/publish/payout-summary) in the Windows developer documentation.</span></span>
+- <span data-ttu-id="c7bf7-113">Para pagamentos de jogos e de aplicativo do Windows, consulte [Resumo de pagamento](/windows/uwp/publish/payout-summary) na documentação do desenvolvedor do Windows.</span><span class="sxs-lookup"><span data-stu-id="c7bf7-113">For Windows app and game payments, see [Payout summary](/windows/uwp/publish/payout-summary) in the Windows developer documentation.</span></span>
 
-- <span data-ttu-id="1eec9-114">Para pagamentos de incentivo Microsoft Partner Network (MPN), consulte [exibir suas informações de pagamentos de incentivo](understand-incentive-payouts.md) na documentação de incentivos do MPN.</span><span class="sxs-lookup"><span data-stu-id="1eec9-114">For Microsoft Partner Network (MPN) incentive payouts, see [View your incentive payments information](understand-incentive-payouts.md) in the MPN incentives documentation.</span></span>
+- <span data-ttu-id="c7bf7-114">Para pagamentos de incentivo Microsoft Partner Network (MPN), consulte [exibir suas informações de pagamentos de incentivo](understand-incentive-payouts.md) na documentação de incentivos do MPN.</span><span class="sxs-lookup"><span data-stu-id="c7bf7-114">For Microsoft Partner Network (MPN) incentive payouts, see [View your incentive payments information](understand-incentive-payouts.md) in the MPN incentives documentation.</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="1eec9-115">Próximas etapas</span><span class="sxs-lookup"><span data-stu-id="1eec9-115">Next Steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="c7bf7-115">Próximas etapas</span><span class="sxs-lookup"><span data-stu-id="c7bf7-115">Next Steps</span></span>
 
-- <span data-ttu-id="1eec9-116">Para obter informações sobre os pagamentos do Marketplace comercial para ISVs (fornecedores independentes de software), consulte [Resumo de pagamento do Marketplace comercial](https://docs.microsoft.com/azure/marketplace/partner-center-portal/payout-summary).</span><span class="sxs-lookup"><span data-stu-id="1eec9-116">For information about Commercial Marketplace payments for Independent Software Vendors (ISVs), see [Commercial marketplace payout summary](https://docs.microsoft.com/azure/marketplace/partner-center-portal/payout-summary).</span></span>
+- <span data-ttu-id="c7bf7-116">Para obter informações sobre os pagamentos do Marketplace comercial para ISVs (fornecedores independentes de software), consulte [Resumo de pagamento do Marketplace comercial](/azure/marketplace/partner-center-portal/payout-summary).</span><span class="sxs-lookup"><span data-stu-id="c7bf7-116">For information about Commercial Marketplace payments for Independent Software Vendors (ISVs), see [Commercial marketplace payout summary](/azure/marketplace/partner-center-portal/payout-summary).</span></span>
