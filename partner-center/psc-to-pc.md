@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8fa06bb0aaecb5f2564c2baab9d7a2c6ac6f0f1d
-ms.sourcegitcommit: 3502f32da07a3db8b865d7f32416eeb8cfd5502c
+ms.openlocfilehash: 3dd511f455c24d7fa3193d6a99efd786eb3c34da
+ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "90082514"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90848257"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guia para a venda em conjunto no Partner Center (PC) para parceiros migrando do PSC (Partner Sales Connect)
 
@@ -45,7 +45,9 @@ Como você sabe, sua empresa perderá o acesso ao PSC após 31 de dezembro de 20
 - Configure contas de usuário no Partner Center para todos os usuários do PSC (funções de administrador, gerente de negociações e vendedor) e atribua a eles [funções de administrador de referência](https://docs.microsoft.com/partner-center/permissions-overview).
 
 >[!Important]
-> Verifique se a ID de MPN mostrada na faixa PSC está disponível na lista de locais MPN no Partner Center. Você pode verificar isso no Partner Center acessando configurações de conta e [locais](https://docs.microsoft.com/partner-center/manage-locations) sob isso para localizar a lista de todos os MPNs associados à conta do Partner Center.
+> Verifique se a ID de MPN mostrada na faixa PSC está disponível na lista de locais MPN no Partner Center. Você pode verificar isso no Partner Center acessando "configurações de conta" e "[locais](https://docs.microsoft.com/partner-center/manage-locations)" sob isso para encontrar a lista de todos os MPNs associados à conta do Partner Center.
+
+ :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Imagem mostrando a faixa do PSC em que os parceiros podem encontrar a ID do MPN.":::
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>Se você for o PSC, gerente de negócios ou vendedor
 

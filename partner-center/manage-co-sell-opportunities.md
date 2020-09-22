@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edbd1e8395e1ecad759666a2c2acd3653e8ff28c
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 631667f521825697a7b16b0db40cb5dd4610e636
+ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714370"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90848226"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Gerenciar oportunidades de venda no Partner Center para definir negócios e atender melhor às necessidades dos clientes
 
@@ -95,6 +95,9 @@ Depois de fornecer as informações da solução, selecione avançar para ir par
 
 **Negócio particular**: se você não convidar a Microsoft e criar um envolvimento nesta etapa, ele será do tipo pipeline privado. Os vendedores da Microsoft não terão visibilidade dos detalhes desse negócio.
 
+> [!Important]
+> O registro de negociações não é aplicável a negociações privadas. Tenha cuidado ao criar um negócio privado com soluções qualificadas para incentivos, pois elas não estarão qualificadas para o registro de negociações no Partner Center.
+
 **Co-vender o negócio:** Se você selecionar qualquer opção que não seja a seleção padrão para a pergunta **"identificar o tipo de ajuda que gostaria da Microsoft"**, o negócio se transformará em um negócio de venda, em que um vendedor da Microsoft pode ajudá-lo a fechar o negócio. Uma solicitação de ajuda da Microsoft não é garantia de que um vendedor da Microsoft participará do negócio. Os representantes de vendas da Microsoft têm 14 dias para decidir se desejam participar. Na seção observações, certifique-se de identificar o tipo de ajuda desejado.
 
 **Acordo entre parceiros (P2P)**: você pode convidar outros parceiros para o negócio clicando no link convidar parceiro. Veja abaixo o processo de criação de um negócio P2P.
@@ -133,9 +136,50 @@ Neste estágio, se você tiver recebido uma nova oportunidade de venda conjunta 
 
 ### <a name="accepted-stage"></a>Estágio aceito
 
-Trabalhe para fechar a negociação com o cliente. Se você quiser alterar qualquer uma das informações que forneceu para uma referência aceita, selecione **Editar**. Em seguida, você pode atualizar o nome da negociação, a data de compra estimada, o valor estimado, as observações, a ID do CRM e/ou a ID da campanha de marketing.  Você também pode selecionar **adicionar seus funcionários** para fornecer o nome, o número de telefone e os endereços de email de outras pessoas que estão trabalhando no negócio. As soluções também podem ser editadas com base na necessidade do cliente.
+Trabalhe para fechar a negociação com o cliente. Se você quiser alterar qualquer uma das informações que forneceu para uma referência aceita, selecione **Editar**. Em seguida, você pode atualizar o nome da negociação, a data de compra estimada, o valor estimado, as observações, a ID do CRM e/ou a ID da campanha de marketing.  Você também pode selecionar **adicionar sua equipe** para fornecer o nome, o número de telefone e os endereços de email de outras pessoas que estão trabalhando no negócio. As soluções também podem ser editadas com base na necessidade do cliente.
 
 Todas as negociações que você criou estão no estágio aceito por padrão.
+
+Depois de começar a trabalhar no negócio, você pode fornecer os detalhes do progresso que está fazendo marcando os estágios de vendas no ciclo de vida da negociação. Há quatro estágios no ciclo de vida da negociação, além da aceitação inicial ou da criação e dos estágios finais ganhos ou perdidos, conforme mencionado abaixo. Fornecer esses detalhes é opcional, mas você é altamente incentivado a compartilhá-los para obter a ajuda apropriada dos representantes de vendas da Microsoft em um negócio de venda conjunta.
+
+:::image type="content" source="images/pscmigration/salesstage.png" alt-text="Imagem mostrando o ciclo de vida de negociação em que o estágio de venda pode ser marcado.":::
+
+|**Nome do estágio de vendas**|**Porcentagem do estágio de vendas**|**Definição do estágio de vendas**|
+|:----|:-----|:-----|
+|Criado|10%|Criando um negócio de saída.|
+|Aceito|10%|Aceitação de um negócio de entrada.|
+|Qualificado|20%|Qualificar o valor do negócio e os requisitos do cliente antes de continuar.|
+|Vela|40%|Desenvolver o negócio ainda mais para entender os requisitos detalhados para preparar uma POC ou quaisquer outros artefatos necessários para uma proposta formal.|
+|Proposto|60%|Criando uma proposta formal para o cliente com base em seus requisitos.|
+|Negociado|80%|Negociar os termos finais com base na proposta para chegar ao estado final – ganhando ou perdendo o negócio.|
+|Ganho|100%|Marcando o negócio como ganho.|
+
+Quando tiver terminado, você poderá executar uma das duas ações, que estão marcando o negócio como **ganho** ou **perdido** para relatar o resultado.
+
+> [!Note]
+> Não é necessário que sua empresa siga os mesmos estágios de vendas. É assim que o Partner Center reconhece os estágios de vendas de negociações e mapeará automaticamente os estágios da sua empresa para esses estágios padrão, se você estiver passando esses valores usando a API. Se você estiver usando o UX do Partner Center, as porcentagens, conforme mostrado na tabela, serão usadas para marcar os estágios de vendas.
+
+> [!Important]
+> Para determinadas soluções qualificadas, depois de selecionar ganha, você será solicitado a fornecer informações adicionais para registrar seu negócio. A Microsoft revisará as informações que você fornecer aqui e poderá solicitar detalhes adicionais durante o processo de revisão. Para obter mais informações, confira [Registrar suas negociações](register-deals.md).
+
+Um negócio será elegível para o registro de negociações somente se atender a todos os critérios abaixo.
+
+1. A Microsoft está convidada para o negócio.
+2. A Microsoft aceitou o convite ou marcou o negócio como ganha. Você pode entender o status da Microsoft examinando o cartão da Microsoft abaixo dos detalhes do seu negócio.
+3. Há uma solução de incentivo qualificado no negócio.
+
+> [!Important]
+> Registre a negociação somente se o nome da sua empresa e a solução qualificada de incentivos no negócio forem claramente mencionadas no contrato com o cliente.
+
+Se o negócio estiver qualificado para o registro de negociações, haverá um marco adicional adicionado ao ciclo de vida do negócio chamado "registro de negociações", conforme mostrado abaixo.
+
+:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Imagem mostrando o ciclo de vida da negociação, o local de onde o registro de negociações pode ser iniciado.":::
+
+Você pode optar por registrar a negociação imediatamente depois de marcar a negociação como ganha ou em um ponto posterior no tempo no botão registrar ciclo de vida da negociação **agora** .
+Depois que o negócio é registrado, você pode exibir o progresso da validação do acordo no mesmo ciclo de vida. Se houver qualquer ação necessária da sua empresa, os erros apropriados serão mostrados na exibição do ciclo de vida de negociações. O negócio entra no estado fechado quando a validação do acordo é concluída.
+
+> [!Important]
+> Tanto a análise de acordo quanto o status de validação final são aplicáveis somente para as negociações de venda de IP.
 
 ### <a name="combinations"></a>Combinação
 
@@ -148,14 +192,9 @@ A tabela a seguir mostra as combinações de quem pode ser convidado neste está
 |Parceiro para parceiros sem a Microsoft|Microsoft|O negócio será atualizado para um negócio de venda conjunta.|
 |Parceiro para parceiros sem a Microsoft|Outros parceiros||
 
-Quando terminar, você poderá executar uma das duas ações, que estão marcando o negócio como **ganho** ou **perdido** para relatar o resultado para que possamos arquivá-lo adequadamente.
+### <a name="closed-stage"></a>Estágio fechado
 
-> [!TIP]
-> Para determinadas soluções qualificadas, depois de selecionar ganha, você será solicitado a fornecer informações adicionais para registrar seu negócio. A Microsoft revisará as informações que você fornecer aqui e poderá solicitar detalhes adicionais durante o processo de revisão. Para obter mais informações, confira Registrar suas negociações.
-
-### <a name="archived-stage"></a>Estágio Arquivado
-
-Este é o estágio final de todas as oportunidades. Você pode exibir todos os clientes potenciais que estão em **vitórias, perdidos, recusados**e **expirados** no arquivo morto. Não há ações que você possa executar neste estágio.
+Este é o estágio final de todas as oportunidades. Você pode exibir todas as negociações que estão em **vitórias, perdidas, recusadas**e **expiradas** no estágio fechado. Não há ações que você possa executar neste estágio.
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
