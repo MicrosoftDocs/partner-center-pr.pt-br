@@ -191,6 +191,8 @@
           href: connector-dynamics.md
         - name: Conector de venda conjunta para o Salesforce CRM – visão geral
           href: connector-salesforce.md
+        - name: Solucionar problemas de conectores de referências de venda conjunta
+          href: connectors-troubleshoot.md
         - name: Venda conjunta para parceiros migrando do PSC (Partner Sales Connect)
           href: psc-to-pc.md
         - name: Registre suas negociações
@@ -301,6 +303,10 @@
           href: license-based-billing.md
         - name: Cenários para assinaturas SaaS baseadas em licença
           href: common-billing-scenarios-saas.md
+        - name: Cobrança para ofertas do marketplace
+          href: csp-commercial-marketplace-billing.md
+        - name: Receba pagamento – marketplace
+          href: marketplace-get-paid.md
     - name: Ver assinaturas digitais – Partner Center da Índia
       href: digital-signature.md
     - name: Impostos e isenções fiscais
@@ -308,12 +314,20 @@
       items:
         - name: Informações sobre o IVA da empresa
           href: organization-tax-info.md
+        - name: Informações sobre o IVA (imposto sobre valor agregado) no registro do Partner Center
+          href: vat-info.md
         - name: Receber crédito por retenção de imposto
           href: withholding-tax-credit-form.md
         - name: Imposto regional – serviços de voz
           href: tax-and-fees-voice-services.md
-    - name: Solicitar um crédito de SLA da Microsoft
-      href: request-credit.md
+        - name: Detalhes de impostos para editores do marketplace comercial
+          href: tax-details-marketplace.md
+        - name: Noções sobre os formulários fiscais da Receita Federal dos EUA emitidos pela Microsoft
+          href: understand-irs-tax-forms.md
+        - name: Configurar sua conta de pagamento e formulários de imposto
+          href: set-up-your-payout-account.md
+        - name: Solicitar um crédito de SLA da Microsoft
+          href: request-credit.md
     - name: Definir um orçamento de gastos do Azure para seus clientes
       href: set-an-azure-spending-budget-for-your-customers.md
     - name: 'Gerenciamento de não pagamento, fraude ou uso indevido'
@@ -360,8 +374,6 @@
           href: isv-opt-in.md
         - name: Gerenciar ofertas do marketplace
           href: csp-commercial-marketplace-manage.md
-        - name: Cobrança para ofertas do marketplace
-          href: csp-commercial-marketplace-billing.md
         - name: Suporte para ofertas do marketplace
           href: csp-commercial-marketplace-support.md
         - name: Contratos para compras do marketplace
