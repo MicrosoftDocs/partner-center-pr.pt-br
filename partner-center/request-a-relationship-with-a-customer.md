@@ -8,12 +8,12 @@ description: Solicite uma relação com um cliente para cenários de vários can
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 53cb70e4d21824dc030f469b43e4465e9c5ce871
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 26f39943ecc06f70b0194f1e892c4cfa218f5ee9
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811296"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007410"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Como solicitar uma relação de revendedor de um cliente na Central de Parceiros
 
@@ -45,7 +45,7 @@ Você pode solicitar uma relação de revendedor com um cliente de dentro do seu
 5. Depois que o cliente aceitar seu convite, ele será exibido na página **Clientes**, e você poderá provisionar e gerenciar o serviço para o cliente nela.
 
    > [!NOTE]
-   > Se o cliente ainda não tiver aceitado o contrato do cliente da Microsoft, ele será solicitado a fazê-lo quando aceitar seu convite. 
+   > Se o cliente ainda não tiver aceitado o contrato do cliente da Microsoft, ele será solicitado a fazê-lo quando aceitar seu convite. O cliente precisa ser administrador global para aceitar o convite.
 
 6. Para gerenciar a conta, os serviços, os usuários e as licenças do cliente, expanda o registro do cliente selecionando a seta para baixo perto do nome dele.
 

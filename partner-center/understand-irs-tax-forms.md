@@ -6,12 +6,12 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 10/31/2018
-ms.openlocfilehash: b894bd8c4c609cfffb1cdb88e29bb4dc9b937df5
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 4d750f677d54023731cbef587c4ccdea30aafb43
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026417"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007468"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Noções sobre os formulários fiscais da Receita Federal dos EUA emitidos pela Microsoft
 
@@ -27,7 +27,7 @@ A seguir, explicaremos mais sobre esses formulários, inclusive quem os receber�
 |1042-S | Relacionado a pagamentos feitos a você que estão sujeitos à retenção de imposto dos Estados Unidos | Os formulários impressos serão marcados em ou antes de **15 de março**, e as cópias de PDF estarão disponíveis no Partner Center (nas **configurações do desenvolvedor do Partner Center** em **pagamento e impostos > pagamento e perfis de impostos**) ao mesmo tempo  |
 
 > [!NOTE]
-> O endereço que usamos nos formulários de imposto IRS provém do endereço em seu [perfil de imposto](marketplace-payout-account-setup.md). Se seu endereço foi alterado, atualize o endereço em seu **perfil de imposto**.
+> O endereço que usamos nos formulários de imposto IRS provém do endereço em seu [perfil de imposto](/azure/marketplace/marketplace-payout-account-setup). Se seu endereço foi alterado, atualize o endereço em seu **perfil de imposto**.
 
 Os formulários de imposto serão enviados a você por meio dos seguintes endereços:
 

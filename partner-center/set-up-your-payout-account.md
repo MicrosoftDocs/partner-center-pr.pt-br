@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: e47277efa11fa7e08a40be867287f92e42a99811
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 38fa2943815a71c93bba7165ea970baefc992ed9
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026419"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007400"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurar sua conta de pagamento e formulários de imposto
 
@@ -28,7 +28,7 @@ Depois de configurar a conta, há duas coisas que você precisa fazer para poder
 - [Configurar sua conta de pagamento](#payout-account)
 
 > [!NOTE]
-> Para obter detalhes sobre como e quando você receberá o dinheiro que sua oferta gerou, confira [Recebendo pagamentos](marketplace-payout-account-setup.md).
+> Para obter detalhes sobre como e quando você receberá o dinheiro que sua oferta gerou, confira [Recebendo pagamentos](/azure/marketplace/marketplace-payout-account-setup).
 
 ## <a name="tax-forms"></a>Formulário de impostos
 
@@ -131,7 +131,7 @@ Você poderá editar os perfis de pagamento existentes se precisar fazer altera�
 3. Seus perfis de pagamento serão listados junto com o status. Localize o perfil que você deseja editar e clique em **Editar** à direita
 
 > [!IMPORTANT]
-> A alteração da conta de pagamento pode atrasar os pagamentos em até um ciclo de pagamento. Esse atraso ocorre porque precisamos confirmar a alteração da conta, como fizemos na primeira configuração da conta de pagamento. Você ainda receberá o valor total após a verificação de sua conta; os pagamentos atrasados do ciclo de pagamento atual serão adicionados ao próximo. Confira [Recebendo pagamentos](marketplace-payout-account-setup.md) para obter mais informações.
+> A alteração da conta de pagamento pode atrasar os pagamentos em até um ciclo de pagamento. Esse atraso ocorre porque precisamos confirmar a alteração da conta, como fizemos na primeira configuração da conta de pagamento. Você ainda receberá o valor total após a verificação de sua conta; os pagamentos atrasados do ciclo de pagamento atual serão adicionados ao próximo. Confira [Recebendo pagamentos](/azure/marketplace/marketplace-payout-account-setup) para obter mais informações.
 
 ### <a name="paypal-info"></a>Informações de PayPal
 

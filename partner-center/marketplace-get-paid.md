@@ -6,19 +6,19 @@ ms.topic: conceptual
 ms.date: 06/09/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: dddab384cfb790d7907f65c1b1af160cc2082417
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: e75d10db14292ea0d2aa9ee391e0f1582252e732
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026424"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007390"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Ser pago no marketplace comercial
 
 Estas são algumas informações importantes sobre o recebimento de pagamentos para seus ganhos de ofertas, complementos e anúncios.
 
 > [!IMPORTANT]
-> Para receber dinheiro de vendas de ofertas no marketplace comercial, [configure sua conta de pagamento e preencha os formulários de impostos necessários](marketplace-payout-account-setup.md).
+> Para receber dinheiro de vendas de ofertas no marketplace comercial, [configure sua conta de pagamento e preencha os formulários de impostos necessários](/azure/marketplace/marketplace-payout-account-setup).
 
 ## <a name="store-fee"></a>Valor de armazenamento
 
