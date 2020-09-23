@@ -12,12 +12,12 @@ metadata:
   ms.author: labrenne
   manager: evansma
   ms.date: 07/10/2020
-  ms.openlocfilehash: 767ecd96c8899970fe4ff6d777d6316f8ff3bc76
-  ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+  ms.openlocfilehash: d6f28cfaa18742a5667a524e19b8c774329d1515
+  ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
   ms.translationtype: HT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 07/13/2020
-  ms.locfileid: "86286644"
+  ms.lasthandoff: 09/22/2020
+  ms.locfileid: "91000140"
 highlightedContent:
   items:
   - title: Saiba mais sobre atualizações importantes do Partner Center
@@ -28,13 +28,13 @@ highlightedContent:
     url: manage-your-partner-network-benefits.md
   - title: Participe do Programa de Usuário Pioneiro de API e SDK
     itemType: deploy
-    url: https://docs.microsoft.com/partner-center/develop/early-adopter-program
+    url: /partner-center/develop/early-adopter-program
   - title: Ganhe especializações avançadas
     itemType: whats-new
     url: advanced-specializations.md
   - title: 'Parceiros ISV: criem e publiquem ofertas no Marketplace, no AppSource e no canal do revendedor CSP'
     itemType: whats-new
-    url: https://docs.microsoft.com/azure/marketplace/
+    url: /azure/marketplace/
   - title: Perguntas frequentes sobre requisitos de segurança de parceiros
     itemType: overview
     url: partner-security-requirements-faq.md
@@ -137,7 +137,7 @@ additionalContent:
       url: https://partner.microsoft.com/membership
     - title: Referência de API e SDK do Partner Center
       summary: Use o SDK do Partner Center para gerenciar dados de clientes, assinaturas e pedidos.
-      url: https://docs.microsoft.com/partner-center/develop/
+      url: /partner-center/develop/
     - title: Gerenciar o Marketplace Rewards
       summary: O Marketplace Rewards dá suporte direcionado para todas as suas ofertas com benefícios técnicos, de marketing e de vendas.
       url: marketplace-rewards.md
@@ -146,24 +146,24 @@ additionalContent:
     - title: Cobrança e gerenciamento de custos
       links:
       - text: Introdução à sua conta de cobrança do Contrato de Parceiro da Microsoft
-        url: https://docs.microsoft.com/azure/billing/mpa-overview
+        url: /azure/billing/mpa-overview
       - text: Introdução ao Gerenciamento de Custos do Azure
-        url: https://docs.microsoft.com/azure/cost-management/get-started-partners
+        url: /azure/cost-management/get-started-partners
       - text: Criar uma assinatura adicional do Azure
-        url: https://docs.microsoft.com/azure/billing/billing-create-subscription
+        url: /azure/billing/billing-create-subscription
       - text: Criar programaticamente assinaturas do Azure
-        url: https://docs.microsoft.com/azure/azure-resource-manager/programmatically-create-subscription?tabs=rest
+        url: /azure/azure-resource-manager/programmatically-create-subscription?tabs=rest
       - text: Veja mais >
-        url: https://docs.microsoft.com/azure/billing/
+        url: /azure/billing/
     - title: Azure Lighthouse
       links:
       - text: Habilitar experiências de gerenciamento entre locatários
-        url: https://docs.microsoft.com/azure/lighthouse/concepts/cross-tenant-management-experience
+        url: /azure/lighthouse/concepts/cross-tenant-management-experience
       - text: Considerações sobre CSP
-        url: https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider
+        url: /azure/lighthouse/concepts/cloud-solution-provider
       - text: Integrar clientes ao gerenciamento de recursos delegados do Azure
-        url: https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer
+        url: /azure/lighthouse/how-to/onboard-customer
       - text: Publicar ofertas de serviços gerenciados
-        url: https://docs.microsoft.com/azure/lighthouse/how-to/publish-managed-services-offers
+        url: /azure/lighthouse/how-to/publish-managed-services-offers
       - text: Veja mais >
-        url: https://docs.microsoft.com/azure/lighthouse/
+        url: /azure/lighthouse/
