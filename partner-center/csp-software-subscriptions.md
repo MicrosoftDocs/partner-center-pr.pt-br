@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 467f46b2e6dfc41730970abe9005e1f2d28409f3
-ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
+ms.openlocfilehash: bd14a82472f1a102902f1962479640b1437ef495
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89614145"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000480"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vender assinaturas de software por meio do programa CSP (Provedor de Soluções na Nuvem)
 
@@ -116,7 +116,7 @@ Depois de comprar a assinatura de software, siga as etapas a seguir para baixá-
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Download de assinatura do servidor e chaves de licença disponíveis por meio do Centro de administração do Microsoft 365 para clientes 
 
-Seus clientes poderão obter as chaves de licença de assinatura do servidor CSP e downloads do Centro de administração do Microsoft 365. Para ver suas chaves de licença de assinatura do servidor CSP e downloads, o cliente deve acessar o Centro de administração do Microsoft 365 > **Cobrança > Seus produtos > guia Software**. Para saber mais detalhes, confira a [guia Software em Cobrança](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
+Seus clientes poderão obter as chaves de licença de assinatura do servidor CSP e downloads do Centro de administração do Microsoft 365. Para ver suas chaves de licença de assinatura do servidor CSP e downloads, o cliente deve acessar o Centro de administração do Microsoft 365 > **Cobrança > Seus produtos > guia Software**. Para saber mais detalhes, confira a [guia Software em Cobrança](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Exibir a atividade de acesso à chave de software e downloads de software
 
@@ -138,12 +138,12 @@ Para fins de auditoria ou de conformidade, talvez seja necessário verificar uma
 Você pode cancelar uma compra de software em até 60 dias após a data da compra. Se você fizer o cancelamento dentro desse primeiro período de 60 dias, não será cobrada uma taxa de rescisão antecipada. Após 60 dias, você não poderá mais cancelar uma compra. (Confira Observação para obter as principais restrições a essa regra de cancelamento. Para saber mais sobre o que acontece depois que você cancela uma compra de software, confira também a observação Importante após estas etapas.) 
 
 >[!NOTE]
->As etapas a seguir usadas para cancelar uma compra se aplicam somente ao software que se qualifica para o cancelamento dentro de uma janela de cancelamento específica, como nos primeiros 60 dias após a compra. Essas etapas também não se aplicam a um plano de software SUSE Linux ou Red Hat no Azure. No momento, não é possível cancelar nem trocar um plano de software SUSE ou Red Hat. [Saiba mais](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges) sobre como usar os planos do SUSE Linux ou do Red Hat.
+>As etapas a seguir usadas para cancelar uma compra se aplicam somente ao software que se qualifica para o cancelamento dentro de uma janela de cancelamento específica, como nos primeiros 60 dias após a compra. Essas etapas também não se aplicam a um plano de software SUSE Linux ou Red Hat no Azure. No momento, não é possível cancelar nem trocar um plano de software SUSE ou Red Hat. [Saiba mais](/azure/virtual-machines/linux/prepay-suse-software-charges) sobre como usar os planos do SUSE Linux ou do Red Hat.
 
 Siga as etapas abaixo para cancelar uma compra:
 
 >[!NOTE]
->Você precisa ser um Agente administrativo para cancelar uma compra. As etapas a seguir descrevem como cancelar uma compra no Painel do Partner Center. Faça isso também usando a [API do Partner Center](https://docs.microsoft.com/partner-center/develop/cancel-software-purchases).
+>Você precisa ser um Agente administrativo para cancelar uma compra. As etapas a seguir descrevem como cancelar uma compra no Painel do Partner Center. Faça isso também usando a [API do Partner Center](/partner-center/develop/cancel-software-purchases).
 
 1. Antes de iniciar o processo de cancelamento, verifique se você tem o seguinte:
 

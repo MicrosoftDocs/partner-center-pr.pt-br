@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12b5b94194c6ca65b31af08dbf0dafef5c6ef21c
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: be4250864bd07e555b0eb2079c28f3dfb4920805
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220384"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999980"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Preparar a migração do PMC (Partner Membership Center) para o Partner Center
 
@@ -36,7 +36,7 @@ Uma conta corporativa do Azure é uma representação virtual dedicada e isolada
 
 Sua conta corporativa hospeda os usuários do Azure AD e as informações sobre eles: emails, senhas, dados de perfil, permissões etc. A conta corporativa também contém grupos, aplicativos e outras informações pertencentes a uma empresa e à segurança dela. 
 
-Seu email de trabalho faz parte do seu locatário do Azure Active Directory. Para ter uma conta no Partner Center, você precisará ter um locatário do AAD. Para obter mais informações sobre o Azure Active Directory, leia [Criar seu diretório no Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
+Seu email de trabalho faz parte do seu locatário do Azure Active Directory. Para ter uma conta no Partner Center, você precisará ter um locatário do AAD. Para obter mais informações sobre o Azure Active Directory, leia [Criar seu diretório no Azure AD](/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
 
 No Partner Center, você usará seu email de trabalho para entrar na conta, não seu email pessoal.
 
@@ -49,7 +49,7 @@ Você pode entrar no Partner Center com a conta do CSP ou a conta de email de tr
 
 ### <a name="if-you-dont-want-to-use-your-existing-office-365-azure-ad-tenant-for-partner-center-you-can-create-a-new-tenant-prior-to-migrating-from-pmc"></a>Caso não deseje usar seu locatário existente do Azure AD do Office 365 para o Partner Center, crie outro locatário antes da migração do PMC.
 
-Pode haver muitos motivos pelos quais você não deseje usar um locatário existente do Azure AD para configurar sua conta do Partner Center. Antes de começar a migração para o Partner Center, acesse o [portal do Azure](https://ms.portal.azure.com/#home) para criar um locatário do Azure AD. Siga as diretrizes em [Criar um locatário no Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant). Use o novo locatário do AAD para configurar sua conta do Partner Center. Você precisa ser um administrador global para criar o locatário. 
+Pode haver muitos motivos pelos quais você não deseje usar um locatário existente do Azure AD para configurar sua conta do Partner Center. Antes de começar a migração para o Partner Center, acesse o [portal do Azure](https://ms.portal.azure.com/#home) para criar um locatário do Azure AD. Siga as diretrizes em [Criar um locatário no Azure Active Directory](/azure/active-directory/develop/quickstart-create-new-tenant). Use o novo locatário do AAD para configurar sua conta do Partner Center. Você precisa ser um administrador global para criar o locatário. 
 
 ### <a name="user-roles-including-guest-user-roles-in-partner-center"></a>Funções de usuário, incluindo funções de usuário convidado no Partner Center
 
@@ -132,7 +132,7 @@ Não, você não precisa de referências do cliente para atender aos requisitos 
 
 ### <a name="will-partner-of-record-associations-move-to-partner-center"></a>As associações do parceiro de registro serão migradas para o Partner Center?
 
-Sim, não haverá nenhuma alteração no parceiro de registro. Saiba mais sobre [como vincular sua ID de Parceiro aos clientes](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).
+Sim, não haverá nenhuma alteração no parceiro de registro. Saiba mais sobre [como vincular sua ID de Parceiro aos clientes](/azure/billing/billing-partner-admin-link-started).
 
 ### <a name="is-there-an-impact-to-incentives-because-of-the-move-to-partner-center"></a>Há algum impacto nos incentivos devido à migração para o Partner Center?
 
@@ -164,6 +164,6 @@ As indicações são atribuídas com base nos parâmetros de pesquisa definidos 
 
 Se você receber uma mensagem de erro porque está participando do programa Web Direct, faça o seguinte:
 
-1. Entre no portal.Azure.com e crie um locatário do Azure AD. Para obter mais informações, leia [Criar um locatário do Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-access-create-new-tenant).
+1. Entre no portal.Azure.com e crie um locatário do Azure AD. Para obter mais informações, leia [Criar um locatário do Azure AD](/azure/active-directory/fundamentals/active-directory-access-create-new-tenant).
 
 2. Depois de criar o locatário do Azure AD, use-o para migrar do Partner Membership Center para o Partner Center ou para se registrar como novo no Partner Center.

@@ -9,12 +9,12 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 79fd61827f64a060da2b1ecd8f7eeceedb2fcdc5
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 1b6c2d56a0747ddf2bd1a821886e371ed698a4a1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220194"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999830"
 ---
 # <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>Status de requisitos de segurança do parceiro – obter respostas e verificar os relatórios sobre o status atual
 
@@ -37,7 +37,7 @@ A partir de 1º de agosto de 2019, todos os parceiros são obrigados a impor a a
 Queremos garantir que cada usuário tenha um desafio de MFA para toda autenticação única. Para que isso seja alcançado, devemos adotar uma das seguintes opções:
 
 - Implementar o Azure AD Premium e garantir que a MFA seja imposta para cada usuário
-- Implementar os [padrões de segurança do Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
+- Implementar os [padrões de segurança do Azure AD](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 - Implementar uma solução de terceiros para garantir que a MFA seja imposta para cada usuário
 
 ## <a name="partner-security-requirements-status"></a>Status dos requisitos de segurança do parceiro
@@ -53,10 +53,10 @@ O relatório de MFA do Partner Center oferece insights sobre a implementação d
 
 ### <a name="mfa-configuration-on-a-csp-tenant"></a>Configuração de MFA em um locatário de CSP
 
-Essa métrica está relacionada à configuração de MFA em um locatário de CSP que é capturado e relatado diariamente. Ele mede o percentual de contas de usuário habilitadas com a MFA imposta usando qualquer uma das [opções de MFA](https://aka.ms/partner-mfa-get-started). Por exemplo:
+Essa métrica está relacionada à configuração de MFA em um locatário de CSP que é capturado e relatado diariamente. Ele mede o percentual de contas de usuário habilitadas com a MFA imposta usando qualquer uma das [opções de MFA](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started). Por exemplo:
 
 - A Contoso é um parceiro CSP com 110 contas de usuário no locatário, das quais 10 estão desabilitadas. 
-- Das 100 contas de usuário restantes, 90 têm o uso de MFA imposto pelas [opções de MFA](https://aka.ms/partner-mfa-get-started) fornecidas. Portanto, a métrica mostra 90%. 
+- Das 100 contas de usuário restantes, 90 têm o uso de MFA imposto pelas [opções de MFA](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) fornecidas. Portanto, a métrica mostra 90%. 
 
 ### <a name="partner-center-activities-with-mfa"></a>Atividades do Partner Center com MFA
 
@@ -127,7 +127,7 @@ Se estiver usando uma solução de MFA de terceiros, identifique como você a es
 
 ### <a name="identify-which-users-have-logged-into-partner-center-without-mfa"></a>Identificar quais usuários fizeram logon no Partner Center sem a MFA
 
-Pode ser útil identificar quais usuários estão fazendo logon no Partner Center sem a verificação da MFA e verificá-los com sua implementação de MFA atual. Você poderá usar o [relatório de entrada do Azure AD](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins) para descobrir se um usuário concluiu ou não a verificação da MFA. O relatório de conexão do Azure AD está disponível apenas para parceiros que se inscreveram no Azure AD Premium ou em qualquer SKU do O365, o que inclui o Azure AD Premium (por exemplo, EMS).
+Pode ser útil identificar quais usuários estão fazendo logon no Partner Center sem a verificação da MFA e verificá-los com sua implementação de MFA atual. Você poderá usar o [relatório de entrada do Azure AD](/azure/active-directory/reports-monitoring/concept-sign-ins) para descobrir se um usuário concluiu ou não a verificação da MFA. O relatório de conexão do Azure AD está disponível apenas para parceiros que se inscreveram no Azure AD Premium ou em qualquer SKU do O365, o que inclui o Azure AD Premium (por exemplo, EMS).
 
 ## <a name="next-steps"></a>Próximas etapas
 

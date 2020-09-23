@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f39b53e7b1a0a95b9d90a18c1a07694f4eac62b7
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: f94b11c4feb9cd1bedd97bebc537a504f9c4d127
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998415"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999350"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Criar uma conta do Partner Center para gerenciar os benefícios e as competências de rede
 
@@ -117,4 +117,4 @@ Siga estas etapas para exibir detalhes da conta ou exibir e baixar o contrato do
 
 -   [Criar um perfil de negócios para obter oportunidades de vendas da Microsoft](create-a-marketing-profile.md)
 
--   [Obter e gerenciar as oportunidades de vendas da Microsoft](responding-to-referrals.md)
+-   [Obter e gerenciar as oportunidades de vendas da Microsoft](manage-leads.md)

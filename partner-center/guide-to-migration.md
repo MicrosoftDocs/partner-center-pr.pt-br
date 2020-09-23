@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 26de95f4cafb75535280cab56ac1e21071ffef5a
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 0ab9adf5fc79ab8125c9caebd7d01ace1719a722
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114896"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000560"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guia de migração do PMC para o Partner Center
 
@@ -108,6 +108,6 @@ Faça um tour pelo painel. É nele que você pode gerenciar sua associação, ad
 
 - [Criar perfil de negócios da sua empresa](create-a-marketing-profile.md)
 
-- [Conectar-se com clientes por meio de indicações](responding-to-referrals.md)
+- [Conectar-se com clientes por meio de indicações](manage-leads.md)
 
 - [Guia de migração de várias empresas do PMC para o Partner Center](move-multiple-companies.md)

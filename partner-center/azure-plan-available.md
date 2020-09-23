@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c841c54a115b846fe92d03ca66b530807508b9d
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 094aa585be3114c198a8581b3d23bd4b212393c9
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390393"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999270"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Serviços do Azure disponíveis no programa CSP (Provedor de Soluções de Nuvem) do Azure
 
@@ -42,9 +42,9 @@ Todos os serviços com base no modelo do Azure Resource Manager estão disponív
 
 Os seguintes serviços exigem configurações especiais no CSP:
 
-- [StorSimple](https://docs.microsoft.com/azure/storsimple/storsimple-partner-csp-overview)
+- [StorSimple](/azure/storsimple/storsimple-partner-csp-overview)
 
-- [Azure Active Directory Domain Services](https://docs.microsoft.com/azure/active-directory-domain-services/active-directory-ds-csp)
+- [Azure Active Directory Domain Services](/azure/active-directory-domain-services/active-directory-ds-csp)
 
 - [Cofre da Chave](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
@@ -60,7 +60,7 @@ Agora você pode comprar os itens listados abaixo no Visual Studio Marketplace, 
 
 - [Treinamento na Xamarin University](https://marketplace.visualstudio.com/items?itemName=ms.xamarin-university)
 
-Para ajudar você a começar, criamos vídeos e documentação sobre [como configurar, comprar e gerenciar o Azure DevOps](https://docs.microsoft.com/vsts/billing/csp/set-up-csp-customer) no CSP.
+Para ajudar você a começar, criamos vídeos e documentação sobre [como configurar, comprar e gerenciar o Azure DevOps](/vsts/billing/csp/set-up-csp-customer) no CSP.
 
 ## <a name="azure-marketplace-items-in-azure-csp"></a>Itens do Azure Marketplace no CSP do Azure
 
@@ -70,7 +70,7 @@ Nem todos os itens do Azure Marketplace estão disponíveis atualmente nas assin
 
 - Itens de BYOL (Traga Sua Própria Licença): estão disponíveis. Uma lista completa de itens do Azure Marketplace habilitados para BYOL está disponível na [página de BYOL do Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol).
 
-- Itens de terceiros do Azure Marketplace pagos conforme o uso: estarão disponíveis se o provedor tiver publicado no canal do CSP. Para saber mais, confira [Vender assinaturas para produtos do Azure Marketplace](https://aka.ms/marketplaceincsp).
+- Itens de terceiros do Azure Marketplace pagos conforme o uso: estarão disponíveis se o provedor tiver publicado no canal do CSP. Para saber mais, confira [Vender assinaturas para produtos do Azure Marketplace](csp-commercial-marketplace-overview.md).
 
 - Citrix XenApp Essentials: os parceiros podem comprar o XenApp Essentials para clientes no CSP. Para saber mais, confira no blog da Citrix o artigo [A distribuição do XenApp Essentials já está disponível no canal do Provedor de Soluções na Nuvem da Microsoft](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/) (em inglês).
 
@@ -189,6 +189,6 @@ A tabela a seguir exibe uma lista regularmente atualizada dos produtos, serviço
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Saiba mais](https://docs.microsoft.com/azure/cloud-solution-provider/overview/partner-center-overview) sobre os recursos disponíveis para o Azure no Partner Center.
+- [Saiba mais](/azure/cloud-solution-provider/overview/partner-center-overview) sobre os recursos disponíveis para o Azure no Partner Center.
 
-- [Crie](https://docs.microsoft.com/azure/cloud-solution-provider/customer-management/create-new-customer) seu primeiro cliente no CSP do Azure e implante serviços do Azure.
+- [Crie](/azure/cloud-solution-provider/customer-management/create-new-customer) seu primeiro cliente no CSP do Azure e implante serviços do Azure.

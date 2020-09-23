@@ -9,12 +9,12 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: cf2d1085b529e1fbd0fad74c4e56d16f789a48e9
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 5ad7bd7c99d7caa044877c98aac6dc5e3ce69420
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943953"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000570"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Comece a usar tarifas pagas conforme o uso com o plano do Azure
 
@@ -45,12 +45,12 @@ Os parceiros que não implementarem os requisitos de segurança obrigatórios n�
 Considerando a natureza altamente privilegiada de um parceiro, precisamos garantir que cada usuário tenha um desafio de MFA para cada autenticação única. Para fazer isso, devemos adotar uma das seguintes opções:
 
 - Implementar o Azure AD Premium e garantir a imposição da MFA (autenticação multifator) para cada usuário
-- Implementar os [padrões de segurança do Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
+- Implementar os [padrões de segurança do Azure AD](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 - Implementar a solução de terceiros e garantir que a MFA seja imposta para cada usuário
 
 A partir de 1º de agosto de 2019, todos os parceiros são obrigados a impor a autenticação multifator a todos os usuários, incluindo as contas de serviço, em seu locatário de parceiro. Informações detalhadas sobre esses requisitos de segurança podem ser encontradas em [Requisitos de segurança de parceiros](partner-security-requirements.md).
 
-A Microsoft recomenda que os parceiros usem o RBAC de forma adequada, seguindo as melhores práticas habilitadas por meio dos [Recursos do Azure Active Directory Privileged Identity Management](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure).
+A Microsoft recomenda que os parceiros usem o RBAC de forma adequada, seguindo as melhores práticas habilitadas por meio dos [Recursos do Azure Active Directory Privileged Identity Management](/azure/active-directory/privileged-identity-management/pim-configure).
 
 ## <a name="read-more-about-the-azure-plan"></a>Leia mais sobre o plano do Azure
 

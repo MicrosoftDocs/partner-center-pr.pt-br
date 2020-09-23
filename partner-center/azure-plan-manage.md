@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d89c74ac9adb689e1b349a38de7ac49eb6c8076
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 4bbeb417fdc5964d66f754a789873c1dbc8b1d25
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175953"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000600"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Gerenciar assinaturas e recursos no âmbito do plano do Azure
 
@@ -27,11 +27,11 @@ Ao fazer a transição de um cliente para o plano do Azure, você recebe direito
 
 - **AOBO (Administrador em nome de)** – Com o recurso [AOBO](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO), qualquer usuário com a função de agente administrativo no locatário do parceiro terá acesso de proprietário do RBAC às assinaturas do Azure que você criar por meio do programa CSP.
 
-- **Azure Lighthouse**: O AOBO não permite a flexibilidade de criar grupos distintos que funcionem com clientes diferentes ou para habilitar funções diferentes para grupos ou usuários. Usando o Azure Lighthouse, você pode atribuir diferentes grupos a diferentes clientes ou funções. Como os usuários terão o nível apropriado de acesso por meio do gerenciamento de recursos delegado do Azure, você poderá reduzir o número de usuários que têm a função de Agente Administrador (e, portanto, ter acesso total por meio do AOBO). Isso ajuda a melhorar a segurança limitando o acesso desnecessário aos recursos de seus clientes. Isso também proporciona mais flexibilidade para gerenciar vários clientes em escala. Para obter mais informações, leia [Azure Lighthouse e o programa Provedor de Soluções na Nuvem](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider).
+- **Azure Lighthouse**: O AOBO não permite a flexibilidade de criar grupos distintos que funcionem com clientes diferentes ou para habilitar funções diferentes para grupos ou usuários. Usando o Azure Lighthouse, você pode atribuir diferentes grupos a diferentes clientes ou funções. Como os usuários terão o nível apropriado de acesso por meio do gerenciamento de recursos delegado do Azure, você poderá reduzir o número de usuários que têm a função de Agente Administrador (e, portanto, ter acesso total por meio do AOBO). Isso ajuda a melhorar a segurança limitando o acesso desnecessário aos recursos de seus clientes. Isso também proporciona mais flexibilidade para gerenciar vários clientes em escala. Para obter mais informações, leia [Azure Lighthouse e o programa Provedor de Soluções na Nuvem](/azure/lighthouse/concepts/cloud-solution-provider).
 
--  **Diretório ou usuários convidados ou [entidades de serviço](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)** : Você pode delegar acesso granular a assinaturas do CSP adicionando usuários no diretório Customer ou adicionando usuários convidados e atribuindo funções RBAC específicas.
+-  **Diretório ou usuários convidados ou [entidades de serviço](/azure/active-directory/develop/app-objects-and-service-principals)** : Você pode delegar acesso granular a assinaturas do CSP adicionando usuários no diretório Customer ou adicionando usuários convidados e atribuindo funções RBAC específicas.
 
-A Microsoft recomenda que os usuários tenham as permissões mínimas necessárias para realizar seu trabalho como uma prática de segurança. Confira [Recursos do Azure Active Directory Privileged Identity Management](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure).
+A Microsoft recomenda que os usuários tenham as permissões mínimas necessárias para realizar seu trabalho como uma prática de segurança. Confira [Recursos do Azure Active Directory Privileged Identity Management](/azure/active-directory/privileged-identity-management/pim-configure).
 
 ## <a name="link-your-partner-id-mpn-idto-your-credentials-for-managing-customers-azure-resources"></a>Vincular sua ID de parceiro (ID de MPN) às suas credenciais para gerenciar os recursos do Azure do cliente
 
@@ -40,9 +40,9 @@ A tabela a seguir mostra os métodos usados para associar sua ID de parceiro a v
 |**Categoria**   |**Cenário**   |**Associação de ID de MPN**|
 |-----------------|:------------------------|:------------------|
 |AOBO   |O parceiro direto do CSP ou o provedor indireto cria a assinatura para o cliente, tornando o parceiro direto do CSP ou provedor indireto o proprietário padrão da assinatura por meio do AOBO. O parceiro direto do CSP ou o provedor indireto concede acesso indireto ao revendedor à assinatura usando o AOBO.|Automático (não requer esforço do parceiro)|
-|Azure Lighthouse|O parceiro cria uma nova [oferta de Serviços Gerenciados no Marketplace](https://docs.microsoft.com/azure/lighthouse/concepts/managed-services-offers). Esta oferta é aceita na assinatura do CSP e o parceiro obtém acesso à assinatura do CSP.|Automático (não requer esforço do parceiro)|
-|Azure Lighthouse|O parceiro implanta o [modelo ARM](https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer) na assinatura do Azure|O parceiro precisa associar a ID do MPN ao usuário ou à entidade de serviço no locatário do parceiro. Para obter mais informações – [Vincular ID do Parceiro](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).|
-|Diretório ou usuário convidado|O parceiro cria um novo usuário ou entidade de serviço no diretório do cliente e fornece acesso à assinatura do CSP para o usuário. O parceiro cria um novo usuário ou entidade de serviço no diretório do cliente. O parceiro adiciona o usuário a um grupo e dá acesso à assinatura do CSP para o grupo.|O parceiro precisa associar a ID do MPN ao usuário ou à entidade de serviço no locatário do cliente. Para obter mais informações – [Vincular ID do Parceiro](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).|
+|Azure Lighthouse|O parceiro cria uma nova [oferta de Serviços Gerenciados no Marketplace](/azure/lighthouse/concepts/managed-services-offers). Esta oferta é aceita na assinatura do CSP e o parceiro obtém acesso à assinatura do CSP.|Automático (não requer esforço do parceiro)|
+|Azure Lighthouse|O parceiro implanta o [modelo ARM](/azure/lighthouse/how-to/onboard-customer) na assinatura do Azure|O parceiro precisa associar a ID do MPN ao usuário ou à entidade de serviço no locatário do parceiro. Para obter mais informações – [Vincular ID do Parceiro](/azure/billing/billing-partner-admin-link-started).|
+|Diretório ou usuário convidado|O parceiro cria um novo usuário ou entidade de serviço no diretório do cliente e fornece acesso à assinatura do CSP para o usuário. O parceiro cria um novo usuário ou entidade de serviço no diretório do cliente. O parceiro adiciona o usuário a um grupo e dá acesso à assinatura do CSP para o grupo.|O parceiro precisa associar a ID do MPN ao usuário ou à entidade de serviço no locatário do cliente. Para obter mais informações – [Vincular ID do Parceiro](/azure/billing/billing-partner-admin-link-started).|
 
 ## <a name="confirm-that-you-have-admin-access"></a>Confirme se você tem acesso de administrador
 
@@ -50,7 +50,7 @@ Você precisa de acesso de administrador para gerenciar os serviços do cliente 
 
 - Examinar o arquivo de uso diário – isso pode ser determinado examinando o preço unitário e o preço unitário efetivo no arquivo de uso diário e confirmando se existe um desconto sendo aplicado. Se estiver recebendo o desconto, significa que você é o administrador.
 
-- Criar um alerta do Azure monitor – você pode criar um [alerta](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log) no log de atividades do Azure Monitor para ser notificado quando o seu acesso RBAC for removido da assinatura do CSP.
+- Criar um alerta do Azure monitor – você pode criar um [alerta](/azure/azure-monitor/platform/alerts-activity-log) no log de atividades do Azure Monitor para ser notificado quando o seu acesso RBAC for removido da assinatura do CSP.
 
 ### <a name="create-an-azure-monitor-alert"></a>Criar um alerta no Azure Monitor
 
@@ -68,7 +68,7 @@ Os clientes podem gerenciar o acesso às suas assinaturas por meio do **Controle
 
 - Conversar com seu cliente para ver se o acesso de administrador pode ser restabelecido.
 
-- Use o acesso fornecido por meio do [RBAC (controle de acesso baseado em função)](https://docs.microsoft.com/azure/role-based-access-control/overview).
+- Use o acesso fornecido por meio do [RBAC (controle de acesso baseado em função)](/azure/role-based-access-control/overview).
 
 - Use o acesso fornecido por meio do [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/).
 

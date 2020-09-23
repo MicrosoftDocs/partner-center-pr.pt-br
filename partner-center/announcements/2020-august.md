@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: c40af7e33e190b86e29b3a392dcc7df805d729b3
-ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
+ms.openlocfilehash: 774ec29ce6c20f0890d883ab73ab766906b88a92
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89614131"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999620"
 ---
 # <a name="august-2020-announcements"></a>Comunicados de agosto de 2020
 
@@ -136,7 +136,7 @@ No [ano passado](https://partner.microsoft.com/resources/detail/power-apps-power
 
 Será possível oferecer seus serviços a indivíduos e equipes sem precisar passar pelo processo centralizado de aquisição de TI para obter as licenças necessárias. Seus serviços podem abranger o Project e o Visio, com base nos cenários de integração com o Microsoft 365 e o Power Platform. 
 
-Saiba mais sobre as oportunidades de parceiro para as soluções do Visio e do Power Platform na sessão [Recriar e reinventar os negócios com o Microsoft Visio e o Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform) do Microsoft Inspire. Para obter informações adicionais, visite o [guia do administrador de autoatendimento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins).
+Saiba mais sobre as oportunidades de parceiro para as soluções do Visio e do Power Platform na sessão [Recriar e reinventar os negócios com o Microsoft Visio e o Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform) do Microsoft Inspire. Para obter informações adicionais, visite o [guia do administrador de autoatendimento](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins).
 
 #### <a name="additional-resources"></a>Recursos adicionais
 
@@ -221,7 +221,7 @@ Microsoft Defender ATP (Proteção Avançada contra Ameaças) para Servidores pa
 ### <a name="next-steps"></a>Próximas etapas
 
 - Compartilhe essas informações com as pessoas apropriadas na sua organização.
-- Leia a [Documentação do Microsoft Defender ATP](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) para obter mais informações sobre o produto.
+- Leia a [Documentação do Microsoft Defender ATP](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) para obter mais informações sobre o produto.
 
 ________________
 

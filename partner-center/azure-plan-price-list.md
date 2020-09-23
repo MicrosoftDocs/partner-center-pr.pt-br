@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 980f6429d146757edbab4c97cebfd3616cb48760
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 57e976f2968f0bd6b13f36eb04be9f68577d1389
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527552"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000320"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Lista de preços da nova experiência de comércio no CSP para Azure
 
@@ -104,7 +104,7 @@ Neste exemplo, se 101 unidades forem usadas, a cobrança será 100,80. As primei
 
 ## <a name="pricing-api-for-azure-plan"></a>API de preço do plano do Azure
 
-Você pode usar a [API de preço](https://docs.microsoft.com/partner/develop/pricing) para recuperar o preço do plano do Azure para consumo e reservas de forma programática. Você também pode recuperar taxas de câmbio de moeda estrangeira.
+Você pode usar a [API de preço](/partner/develop/pricing) para recuperar o preço do plano do Azure para consumo e reservas de forma programática. Você também pode recuperar taxas de câmbio de moeda estrangeira.
 
 A API de preço está em um ponto de extremidade diferente daquele das outras APIs do Partner Center. As informações de preço incluem preços de medidores em USD para recursos do plano do Azure e preços de reservas aplicados às assinaturas do plano do Azure.
 
@@ -113,4 +113,4 @@ Essa API também permite que os parceiros recuperem taxas de câmbio mensais por
 >[!NOTE]
 > A API de preço é específica para os preços do plano do Azure. Você ainda deve usar a API RateCard existente e as listas de preços publicadas na página "Preços e ofertas" do Partner Center para recursos do Azure ou reservas implantados em assinaturas de planos que não são do Azure. A API de preços do plano do Azure não é compatível com preços baseados em software, marketplace ou licença, como no Microsoft 365 ou no Dynamics 365.
 
-Para obter mais informações sobre as APIs de preço do plano do Azure e da taxa de câmbio de moeda estrangeira, confira a [documentação completa da API de preços](https://docs.microsoft.com/partner/develop/pricing).
+Para obter mais informações sobre as APIs de preço do plano do Azure e da taxa de câmbio de moeda estrangeira, confira a [documentação completa da API de preços](/partner/develop/pricing).

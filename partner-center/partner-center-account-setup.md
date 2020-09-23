@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: 88af3967c8ab1d3eaccb4ea48551725c4f8b65e9
-ms.sourcegitcommit: e9790112451244bc8ee8026efc793b5d87439277
+ms.openlocfilehash: 4cd39cfe3d927fbcaea3afc69c9e1844fc7917d7
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88215581"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999260"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>Gerenciar sua conta do Partner Center – perfis da empresa, informações bancárias, funções, permissões e muito mais
 
@@ -97,7 +97,7 @@ Há muitos programas do Partner Center disponíveis. Cada programa tem requisito
 
 Para saber mais sobre o registro em determinados programas do Partner Center, consulte a lista parcial a seguir:
 
-- [Programa do Marketplace Comercial](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [Programa do Marketplace Comercial](/azure/marketplace/partner-center-portal/create-account)
 - [Programa MPN](https://support.microsoft.com/help/4500026/enroll-and-subscribe-to-your-microsoft-partner-network-membership-in-p?tpqid=100-000012)
 - [Programa CSP](enrolling-in-the-csp-program.md)
 - [Office Store](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)

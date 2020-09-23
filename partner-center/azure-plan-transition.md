@@ -9,12 +9,12 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: bcc6534995a7550f0f09d1da2d52cbf676b66c40
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 5390e950689e930b246aaaddcb1a9ef1b1ab6d46
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527502"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000330"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Fazer a transição de clientes para o plano do Azure de ofertas do Azure no CSP existentes
 
@@ -87,7 +87,7 @@ Se você fizer a transição de um cliente de uma oferta do CSP do Azure existen
 
 - Se você tiver direitos de acesso de administrador à assinatura CSP existente, você continuará a ter tal acesso quando essa assinatura for migrada.
 
-Para fazer a transição de Contratos Corporativos diretos para o CSP e o Servidor e os Registros de nuvem para os Serviços do Azure, leia [Obter a propriedade de cobrança das assinaturas do Azure para o Contrato de Parceiro da Microsoft](https://docs.microsoft.com/azure/billing/mpa-request-ownership)
+Para fazer a transição de Contratos Corporativos diretos para o CSP e o Servidor e os Registros de nuvem para os Serviços do Azure, leia [Obter a propriedade de cobrança das assinaturas do Azure para o Contrato de Parceiro da Microsoft](/azure/billing/mpa-request-ownership)
 
 ### <a name="audit-log"></a>Log de auditoria
 

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 478458e57ab31ccad25e99cb977833d2973f30ea
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: afcbfcfb2b303acb15774e7f6019164e34b8e6ae
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944433"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999610"
 ---
 # <a name="february-2020-announcements"></a>Comunicados de fevereiro de 2020
 
@@ -75,7 +75,7 @@ Isso significa que [agora os parceiros têm duas opções](../confirm-customer-a
 - **Opção 1:** De modo geral, os parceiros podem apresentar o novo Contrato de Cliente da Microsoft aos respectivos clientes da mesma maneira que faziam anteriormente com o Contrato do Microsoft Cloud. Depois que um cliente analisa e aceita o contrato, os parceiros devem atestar a aceitação do cliente com a Microsoft. O Painel do Partner Center, a API do Partner Center e o SDK do .NET foram atualizados para permitir ao parceiro confirmar a aceitação pelo cliente do Contrato de Cliente da Microsoft dessa forma.
 - **Opção 2 (novo recurso):** os parceiros podem convidar clientes para um portal da Microsoft autenticado (Centro de Administração do Microsoft 365) para exibir e assinar o contrato. Essa opção permite um gerenciamento de contrato simplificado, uma implementação mais rápida e menos trabalho para parceiros porque, assim que o cliente aceita diretamente no Centro de Administração do Microsoft 365, ele confirma a aprovação dos termos.
 
-Os parceiros podem saber se os clientes aceitaram o novo contrato usando a nova funcionalidade disponível no Painel do Partner Center ou por meio [desta nova API](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement).
+Os parceiros podem saber se os clientes aceitaram o novo contrato usando a nova funcionalidade disponível no Painel do Partner Center ou por meio [desta nova API](/partner-center/develop/get-direct-sign-status-of-customer-agreement).
 
 A partir de 1º de fevereiro de 2020, é necessário que o parceiro confirme que os clientes aceitaram o Contrato de Cliente da Microsoft para que ele possa fazer novos pedidos de qualquer oferta de CSP em todas as regiões na Nuvem Pública da Microsoft. Os parceiros do CSP não podem mais fazer novas compras, incluindo alterações em estações ou renovações de compras existentes, sem confirmar que o cliente aceitou o Contrato de Cliente da Microsoft por meio de uma dessas opções.
  
@@ -98,7 +98,7 @@ Os parceiros podem ver o conteúdo do Contrato de Cliente da Microsoft disponív
 ### <a name="change-log"></a>Log de alterações:
 
 - 11 de fevereiro de 2020: comunicado original postado
-- 25 de fevereiro de 2020: comunicado atualizado com a [nova API](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement) para obter o status da aceitação direta de um cliente.
+- 25 de fevereiro de 2020: comunicado atualizado com a [nova API](/partner-center/develop/get-direct-sign-status-of-customer-agreement) para obter o status da aceitação direta de um cliente.
 
 _________________
 
@@ -169,27 +169,27 @@ _________________
 
 ### <a name="summary"></a>Resumo:
 
-Esta é uma atualização importante relacionada aos [requisitos obrigatórios de segurança do parceiro](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). A partir de **29 de fevereiro de 2020**, as [políticas de "linha de base" do Azure AD (Azure Active Directory) foram removidas](https://docs.microsoft.com/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) e substituídas por "padrões de segurança", um conjunto mais abrangente de políticas de proteção para você e seus clientes. Os padrões de segurança no Azure AD podem ajudar a proteger sua organização com configurações de segurança predefinidas para ataques comuns.
+Esta é uma atualização importante relacionada aos [requisitos obrigatórios de segurança do parceiro](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). A partir de **29 de fevereiro de 2020**, as [políticas de "linha de base" do Azure AD (Azure Active Directory) foram removidas](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) e substituídas por "padrões de segurança", um conjunto mais abrangente de políticas de proteção para você e seus clientes. Os padrões de segurança no Azure AD podem ajudar a proteger sua organização com configurações de segurança predefinidas para ataques comuns.
 
 Nosso sistema indica que no momento sua organização usa políticas de linha de base, mas ainda não fez a transição para padrões de segurança. **Se não fizer a transição para os padrões de segurança antes de 29 de fevereiro, você perderá a MFA (autenticação multifator) habilitada com políticas de linha de base nos locatários parceiros. Habilite os padrões de segurança o quanto antes para evitar interrupções de negócios**.
 
 ### <a name="key-considerations"></a>Principais considerações
 
-A política de padrões de segurança é uma das [opções](../partner-security-requirements.md#actions-that-you-need-to-take) em que os parceiros podem optar por implementar o MFA para os requisitos de segurança, dependendo de suas necessidades corporativas. Ela oferece um nível básico de segurança habilitado sem nenhum custo adicional. Analise [como habilitar a MFA para sua organização com o Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) e as principais considerações abaixo:
+A política de padrões de segurança é uma das [opções](../partner-security-requirements.md#actions-that-you-need-to-take) em que os parceiros podem optar por implementar o MFA para os requisitos de segurança, dependendo de suas necessidades corporativas. Ela oferece um nível básico de segurança habilitado sem nenhum custo adicional. Analise [como habilitar a MFA para sua organização com o Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) e as principais considerações abaixo:
 
-- Para os parceiros que estão usando o [acesso condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common), os padrões de segurança não estarão disponíveis.
+- Para os parceiros que estão usando o [acesso condicional](/azure/active-directory/conditional-access/concept-conditional-access-policy-common), os padrões de segurança não estarão disponíveis.
 - Os padrões de segurança impõem todas as políticas de uma só vez, incluindo a política de MFA necessária para administradores, a política de proteção do usuário final e a MFA necessária para o gerenciamento de serviços.
 - O bloqueio da autenticação herdada não será imposto para parceiros no momento. No entanto, como a maioria dos eventos relacionados a identidades comprometidas são provenientes de tentativas de entrada usando a autenticação herdada, os parceiros são incentivados a se afastar desses protocolos mais antigos.
 - Os padrões de segurança excluem automaticamente a conta de sincronização do Azure AD Connect.
-- Os padrões de segurança são a substituição de disponibilidade geral das [políticas de linha de base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) de versão prévia. Depois que um parceiro habilita os padrões de segurança, eles não poderão mais habilitar as políticas de linha de base.
+- Os padrões de segurança são a substituição de disponibilidade geral das [políticas de linha de base](/azure/active-directory/conditional-access/concept-baseline-protection) de versão prévia. Depois que um parceiro habilita os padrões de segurança, eles não poderão mais habilitar as políticas de linha de base.
 
 ### <a name="next-steps-and-resources-for-security-defaults"></a>Próximas etapas e recursos para padrões de segurança
 
 Parceiros que estão usando atualmente as políticas de linha de base:
 
-- Saiba mais sobre [padrões de segurança](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) e sobre [como habilitar a MFA para sua organização](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started).
+- Saiba mais sobre [padrões de segurança](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) e sobre [como habilitar a MFA para sua organização](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started).
 - Planeje a transição das políticas de linha de base para os padrões de segurança.
-- [Habilite os padrões de segurança com um clique](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) para cada locatário parceiro o quanto antes. Se os padrões de segurança não atenderem às suas necessidades, considere outras opções.
+- [Habilite os padrões de segurança com um clique](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) para cada locatário parceiro o quanto antes. Se os padrões de segurança não atenderem às suas necessidades, considere outras opções.
 
 Provedores indiretos:
 
@@ -270,7 +270,7 @@ provedores indiretos e de cobrança direta no programa CSP que estão fazendo tr
 
 a [nova experiência de comércio para Azure no CSP](https://blogs.partner.microsoft.com/mpn/grow-your-business-with-the-new-commerce-experience-for-azure-in-the-csp-program/) pode ajudar você a adquirir mais clientes e impulsionar a rentabilidade com experiências de compra e venda simplificadas.
 
- Como parte da nova experiência, estamos empolgados em anunciar a disponibilidade de [novas APIs de preço](https://docs.microsoft.com/partner/develop/pricing) que recuperam programaticamente os **preços do plano do Azure para consumo e reservas** e **índices de taxas de câmbio** para moedas de cobrança compatíveis com a Microsoft. Com a nova API de preço, os parceiros podem automatizar e simplificar o processo de recuperação informações de preço.
+ Como parte da nova experiência, estamos empolgados em anunciar a disponibilidade de [novas APIs de preço](/partner/develop/pricing) que recuperam programaticamente os **preços do plano do Azure para consumo e reservas** e **índices de taxas de câmbio** para moedas de cobrança compatíveis com a Microsoft. Com a nova API de preço, os parceiros podem automatizar e simplificar o processo de recuperação informações de preço.
 
 ### <a name="the-new-pricing-apis-provide-the-following-capabilities"></a>As novas APIs de preço fornecem as seguintes capacidades:
 
@@ -281,13 +281,13 @@ a [nova experiência de comércio para Azure no CSP](https://blogs.partner.micro
 
 >[!Note] 
 >esse é um novo recurso de API específico para os preços do plano do Azure.
-- A [API RateCard](https://docs.microsoft.com/partner-center/develop/get-prices-for-microsoft-azure) existente ainda deve ser usada para recursos ou reservas existentes do Azure implantados nas assinaturas anteriores do Azure que não fazem parte do plano do Azure.
+- A [API RateCard](/partner-center/develop/get-prices-for-microsoft-azure) existente ainda deve ser usada para recursos ou reservas existentes do Azure implantados nas assinaturas anteriores do Azure que não fazem parte do plano do Azure.
 - Essas APIs estão em um ponto de extremidade diferente (um domínio que hospeda a API) para as APIs do Partner Center.
 
 ### <a name="partner-next-steps-and-resources"></a>Próximas etapas e recursos do parceiro:
 
 - examine a [documentação do desenvolvedor](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#/)
-- Implemente o processo automatizado usando [a nova API](https://docs.microsoft.com/partner/develop/pricing)
+- Implemente o processo automatizado usando [a nova API](/partner/develop/pricing)
 - Consulte a [documentação de preços do plano do Azure](../azure-plan-price-list.md) para ver perguntas relacionadas a preços.
 - [Saiba mais sobre o plano do Azure e a nova experiência de comércio no CSP](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 

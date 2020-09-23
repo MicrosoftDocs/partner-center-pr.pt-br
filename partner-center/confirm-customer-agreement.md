@@ -9,12 +9,12 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: c599358b2cfe5603a09fb37e48e897a2f92111bc
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 7d25625eebaf863ed819112439bbf2d6e0f505e1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367280"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000540"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>Confirmar a aceitação do Contrato de Cliente da Microsoft pelo cliente no programa de parceiro CSP
 
@@ -96,13 +96,13 @@ Você pode recuperar a confirmação de que um cliente existente aceitou o contr
 
 Você pode usar o SDK/a API do Partner Center para confirmar a aceitação do cliente do Contrato de Cliente da Microsoft. Para obter detalhes sobre a API ou o SDK, confira:
 
-- [Obter metadados do Contrato de Cliente da Microsoft](https://docs.microsoft.com/partner-center/develop/get-customer-agreement-metadata)
+- [Obter metadados do Contrato de Cliente da Microsoft](/partner-center/develop/get-customer-agreement-metadata)
 
-- [Confirmar a aceitação do cliente do Contrato de Cliente da Microsoft](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent-customer-agreement)
+- [Confirmar a aceitação do cliente do Contrato de Cliente da Microsoft](/partner-center/develop/confirm-customer-consent-customer-agreement)
 
-- [Obter a confirmação da aceitação do Contrato de Cliente da Microsoft pelo cliente](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
+- [Obter a confirmação da aceitação do Contrato de Cliente da Microsoft pelo cliente](/partner-center/develop/get-confirmation-of-customer-agreement)
 
-- [Obter um link de download para o modelo do Contrato de Cliente da Microsoft](https://docs.microsoft.com/partner-center/develop/download-customer-agreement-template)
+- [Obter um link de download para o modelo do Contrato de Cliente da Microsoft](/partner-center/develop/download-customer-agreement-template)
 
 ## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>Opção 2: Aceitação do cliente no Centro de administração do Microsoft 365
 
@@ -115,7 +115,7 @@ Os parceiros podem convidar clientes novos e existentes, por meio de uma URL, pa
 - Convidar um cliente existente para examinar e aceitar o contrato.
 
 >[!NOTE]
-> Você pode usar [o SDK ou a API do Partner Center](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement) para confirmar o status da aceitação direta do cliente do Contrato de Cliente da Microsoft.  
+> Você pode usar [o SDK ou a API do Partner Center](/partner-center/develop/get-direct-sign-status-of-customer-agreement) para confirmar o status da aceitação direta do cliente do Contrato de Cliente da Microsoft.  
 
 ## <a name="create-a-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>Criar um cliente e convidá-lo a examinar e aceitar o contrato
 

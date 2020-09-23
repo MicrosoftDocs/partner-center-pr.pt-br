@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d07a7d04ca92bb7c40559b127707b09e82f2e4ff
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 8425461747c2cf4978d13ee3c2961ac426231bd5
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435265"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000440"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -142,11 +142,12 @@ Depois que você publicar o seu perfil, as atualizações aparecerão nas pesqui
 
 ## <a name="improve-the-visibility-of-your-profile"></a>Melhorar a visibilidade do seu perfil 
 
-- **[Responda rapidamente às solicitações](responding-to-referrals.md)** . Quando você receber uma indicação de cliente, uma resposta mais rápida pode levar a resultados melhores nas páginas de pesquisa para clientes futuros.
+- **[Responda rapidamente às solicitações](manage-leads.md)** . Quando você receber uma indicação de cliente, uma resposta mais rápida pode levar a resultados melhores nas páginas de pesquisa para clientes futuros.
+
 - **Seja seletivo com suas marcações**.  É melhor ter menos marcações que representam melhor as ofertas, as soluções, as propostas de valor e a posição exclusiva da sua empresa, com as quais você possa demonstrar sucesso constante.  Isso trará benefícios nos resultados de pesquisa futuros.
 - **Conquiste marcações de competência** por meio da Microsoft para demonstrar suas habilidades em nossos produtos.
 - **Ganhe marcações de endosso** de clientes que apreciam seu trabalho.
 
 ## <a name="next-steps"></a>Próximas etapas
 
-[Respondendo a indicações](responding-to-referrals.md)
+[Respondendo a indicações](manage-leads.md)

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89b4a1d552067f7bda553bc96e19a89bdc9f23cd
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 53aa25ab0c318efde13788013df09d003b234347
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468775"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999670"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Adicionar licenças ou mais serviços à assinatura de um cliente
 
@@ -31,7 +31,7 @@ ms.locfileid: "87468775"
 - Agente de vendas
 - Agente de suporte técnico
 
-Se seu cliente precisar de mais licenças do que a assinatura atual fornece a ele ou de uma versão diferente com serviços adicionais, você poderá atualizar a assinatura. Para obter mais informações, confira [Alternar para um plano diferente dos Aplicativos do Microsoft 365 para empresas](https://go.microsoft.com/fwlink/p/?LinkId=723577).
+Se seu cliente precisar de mais licenças do que a assinatura atual fornece a ele ou de uma versão diferente com serviços adicionais, você poderá atualizar a assinatura. Para obter mais informações, confira [Alternar para um plano diferente dos Aplicativos do Microsoft 365 para empresas](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>Atualizações compatíveis com o programa CSP <a id="upgradesubscription"></a>
 
@@ -70,11 +70,12 @@ Para obter mais informações sobre o impacto na cobrança, veja como cancelar u
 
 3. Selecione a oferta de nova, em seguida, escolha **Enviar**.
 
-4. Pode haver trabalho adicional para a transição de algumas contas de usuário para determinados serviços. Em caso afirmativo, o Partner Center fornece uma lista de contas e serviços que foram afetados. Para obter ajuda, consulte o artigo da base de dados de conhecimento [Problemas ao reatribuir licenças enquanto você alterna planos no Office 365](https://go.microsoft.com/fwlink/p/?LinkId=723576).
+4. Pode haver trabalho adicional para a transição de algumas contas de usuário para determinados serviços. Em caso afirmativo, o Partner Center fornece uma lista de contas e serviços que foram afetados. Para obter ajuda, consulte o artigo da base de dados de conhecimento [Problemas ao reatribuir licenças enquanto você alterna planos no Office 365](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Alternar para um plano diferente do Microsoft 365 for Business](https://go.microsoft.com/fwlink/p/?LinkId=723577)
+- [Alternar para um plano diferente do Microsoft 365 for Business](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
 - [Solicitar privilégios de administrador delegado](request-a-relationship-with-a-customer.md)
 
