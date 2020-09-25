@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31c82b52bf59c117f4605978f9903a4a2ef2adc8
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: f320896ac48a0de740a0d7bb02664648505a6bbe
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564687"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999860"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Como o crédito ganho pelo parceiro é calculado e pago
 
@@ -44,7 +44,7 @@ Leia também [Restabelecer privilégios de administrador para assinaturas do Azu
 
 - O PEC é obtido no nível de recurso do Azure. Se o parceiro tiver acesso válido na assinatura ou no nível do grupo de recursos, cada recurso que role para a entidade mais alta receberá o PEC.  
 
-- Os detalhes do PEC também estarão disponíveis no [Gerenciamento de Custos do Azure](https://go.microsoft.com/fwlink/?linkid=2106482)
+- Os detalhes do PEC também estarão disponíveis no [Gerenciamento de Custos do Azure](/azure/cost-management-billing/costs/get-started-partners)
 
 ## <a name="azure-cost-management"></a>Azure Cost Management
 
@@ -77,5 +77,4 @@ Quando a propriedade PartnerEarnedCreditApplied é False, o custo associado não
 
 - [Gerenciar assinaturas e recursos no âmbito do plano do Azure](azure-plan-manage.md)
 
-- [Revogar ou restabelecer privilégios de administrador para assinaturas do Azure CSP ](revoke-reinstate-csp.md)
-
+- [Revogar ou restabelecer privilégios de administrador para assinaturas do CSP do Azure](revoke-reinstate-csp.md)

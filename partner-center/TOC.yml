@@ -303,6 +303,8 @@
           href: license-based-billing.md
         - name: Cenários para assinaturas SaaS baseadas em licença
           href: common-billing-scenarios-saas.md
+    - name: Cenários de pagamento e cobrança do marketplace
+      items:
         - name: Cobrança para ofertas do marketplace
           href: csp-commercial-marketplace-billing.md
         - name: Receba pagamento – marketplace

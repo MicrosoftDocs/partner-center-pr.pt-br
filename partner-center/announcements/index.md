@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 24bd05fd5f860c0c7938a831f023740afd32c5b1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 2d3910192b08db481d73a221d9a243f8467570f9
+ms.sourcegitcommit: 9e2786bb4348c2a7e051415d670dd055d50dac34
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999450"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "91110660"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,6 +22,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 | **Categoria** | **Comunicados de setembro de 2020** | **Comunicado** |
 |---------|:---------|:---------|
+|Funcionalidades|[Insights do Partner Center – seu recurso de relatório único para entender seus negócios com a Microsoft.](2020-september.md#10)|23 de setembro|
 |Ofertas/mercados|[Comunicado sobre a disponibilidade geral do SQL do Azure no Edge](2020-september.md#9)|22 de setembro|
 |Funcionalidades|[Alterações futuras nas APIs de uso do CSP O365 e nos relatórios de uso da Licença do CSP em 30 de setembro de 2020.](2020-september.md#8)|17 de setembro|
 |Funcionalidades|[Atualização de MPA de revendedor indireto. Ação necessária para usuários da API de MPA e novos relatórios de MPA](2020-september.md#7)|16 de setembro|

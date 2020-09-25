@@ -8,19 +8,141 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/01/2020
-ms.openlocfilehash: 0bf31dd474087ae7f4b3c6c8924309d177de922b
-ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
+ms.date: 09/16/2020
+ms.openlocfilehash: a2703a89bd1fa1b29948b2e8c1edfed22dba8ac1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "90574392"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999460"
 ---
 # <a name="september-2020-announcements"></a>Comunicados de setembro de 2020
 
 Esta página detalha os comunicados de setembro de 2020 sobre o Microsoft Partner Center.
 
 Comunicados de 2020: [Fevereiro](2020-february.md) | [Março](2020-march.md) | [Abril](2020-april.md) | [Maio](2020-may.md) | [Junho](2020-june.md) | [Julho](2020-july.md) | [Agosto](2020-august.md) | Setembro
+
+________________
+
+## <a name="announcing-the-general-availability-of-azure-sql-edge"></a><a name="9"></a>Comunicado da disponibilidade geral do SQL do Azure no Edge
+
+### <a name="categories"></a>Categorias
+
+- Data: 2020-09-22
+- Ofertas/mercados
+
+### <a name="impacted-audience"></a>Público-alvo afetado
+
+Campo e parceiros da Microsoft 
+
+### <a name="summary"></a>Resumo 
+
+O SQL do Azure no Edge, que leva o mecanismo de dados do Microsoft SQL mais seguro a gateways e dispositivos de borda da IoT (Internet das Coisas), já está disponível.
+
+### <a name="details"></a>Detalhes
+
+Hoje, estamos comunicando a disponibilidade do SQL do Azure no Edge, um mecanismo de dados em tempo real otimizado para cargas de trabalho de IoT. Criado com base no mesmo mecanismo que o SQL Server e o Azure SQL, essa solução em contêineres fornece a mesma segurança líder do setor, uma experiência de desenvolvedor já conhecida e ferramentas que muitas equipes já conhecem e nas quais confiam.
+O SQL do Azure no Edge está disponível para compra por CSPs (Provedores de Soluções na Nuvem) desde **quinta-feira, 24 de setembro**.
+
+O [SQL do Azure no Edge](https://aka.ms/sqledge) é um contêiner de pouco volume que habilita o streaming, o armazenamento e a análise de dados para obter insight em tempo real. Implante servidores, gateways e dispositivos de borda em ambientes conectados, desconectados ou híbridos.
+
+O SQL do Azure no Edge tem um preço simplificado ideal para implantações de IoT, disponível por apenas US$ 60 por ano por dispositivo para um compromisso de 3 anos ou por US$ 10 por mês por assinatura de dispositivo.
+
+### <a name="next-stepsadditional-resources"></a>Próximas etapas/recursos adicionais:
+
+- Veja o [blog do comunicado do Ignite 2020](https://aka.ms/sqledge-ga)
+- Comece hoje mesmo ou exiba whitepapers, estudos de caso e muito mais no [site do SQL no Edge](https://aka.ms/sqledge)
+
+________________
+
+## <a name="upcoming-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports-on-september-30-2020"></a><a name="8"></a>Alterações futuras nas APIs de uso do CSP O365 e nos relatórios de uso da Licença do CSP em 30 de setembro de 2020
+
+### <a name="categories"></a>Categorias
+
+- Data: 2020-09-17
+- Capacidades
+
+### <a name="impacted-audience"></a>Público-alvo afetado
+
+Todos os parceiros que fazem transações pelo programa CSP (Provedor de Soluções na Nuvem) no Partner Center. 
+
+### <a name="summary"></a>Resumo 
+
+Serão feitas atualizações nas APIs de uso do O365 do CSP para ajudar os parceiros a medir o uso do O365.
+
+### <a name="details"></a>Detalhes
+
+A partir de 30 de setembro de 2020, as métricas de uso do O365 do CSP passarão por uma atualização. Apresentaremos novas métricas, como PAU (Unidades Disponíveis Pagas) e MAU (Usuários Ativos Mensais), que ajudarão você a medir o uso do O365. 
+
+Com essa alteração, as seguintes APIs de uso de licença do CSP serão atualizadas:  
+
+1. [API de informações de uso de licenças](/partner-center/develop/get-licenses-usage-information).
+
+2. [API de informações de uso de licenças do cliente](/partner-center/develop/get-customer-licenses-usage-information).
+
+3.  [API de informações de uso de licenças do parceiro](/partner-center/develop/get-partner-licenses-usage-information).
+
+Também apresentaremos uma nova API que fornecerá os MAUs (Usuários Ativos Mensais) por carga de trabalho para cada um dos clientes que você gerencia.
+
+Mais informações sobre essas atualizações podem ser encontradas [aqui](https://partner.microsoft.com/resources/detail/guide-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports-pdf).
+
+Além disso, atualizaremos a seção Detalhamento do Uso do Cliente no [relatório de Análise de Uso de Licenças do CSP](https://partner.microsoft.com/dashboard/analytics/usageanalytics). A partir de 30 de setembro de 2020, o relatório será aprimorado para refletir os Usos Ativos Mensais para Exchange, SharePoint e Skype/Teams.
+
+### <a name="next-stepsadditional-resources"></a>Próximas etapas/recursos adicionais:
+
+Compartilhe essas informações com outras pessoas da sua organização. Veja a [Galeria de Operações](https://partner.microsoft.com/resources/collection/upcoming-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports#/) para obter mais informações.
+________________
+
+## <a name="indirect-reseller-mpa-update-action-required-for-users-of-the-mpa-api-and-new-mpa-reporting"></a><a name="7"></a>Atualização do MPA de revendedor indireto. Ação necessária para usuários da API do MPA e novos relatórios de MPA
+
+### <a name="categories"></a>Categorias
+
+- Data: 2020-09-16
+- Capacidades
+
+### <a name="impacted-audience"></a>Público-alvo afetado
+
+Provedores indiretos
+
+### <a name="details"></a>Detalhes
+
+#### <a name="mpa-implementation-update"></a>Atualização de implementação do MPA
+
+A segunda fase da implementação do MPA (Contrato de Parceiro da Microsoft) para revendedores indiretos ocorrerá nos próximos meses. Se os revendedores indiretos não aceitarem o MPA, a capacidade deles de continuar criando clientes ou fazer novos pedidos (incluindo renovações) para clientes existentes no programa Provedor de Soluções na Nuvem será interrompida.
+
+Ações:
+
+- Use a API atualizada e os relatórios do Partner Center mencionados abaixo para entender o status de aceitação do MPA dos seus revendedores indiretos.
+- Entre em contato com seus revendedores indiretos que não aceitaram o MPA e forneça [diretrizes passo a passo](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/) de acordo com o estágio em que eles estão na experiência de registro no programa Provedor de Soluções na Nuvem.
+- Examine [as notificações](https://partner.microsoft.com/resources/collection/reseller-emails-mpa-implementation#/) que seus revendedores indiretos receberão mensalmente a partir de setembro.
+
+#### <a name="updated-api"></a>API atualizada
+
+As alterações na API existente que permite que provedores indiretos verifiquem o status de aceitação do MPA dos revendedores indiretos deles estão planejadas para estarem disponíveis em novembro. Os parceiros podem se candidatar para acessar a API atualizada antes de novembro seguindo as ações abaixo. Os parceiros que usam essa API devem trabalhar com a equipe de TI deles para testar e implementar as atualizações. 
+
+- **Se você for usuário da API do MPA existente e não fizer as atualizações dela, haverá falhas de API em 1º de novembro de 2020.** 
+- Na API atualizada, se o MPA não tiver sido aceito pelo revendedor indireto, o provedor indireto receberá um código de erro e uma mensagem de erro. Confira a [documentação da API](/partner-center/develop/verify-indirect-reseller-mpa-status#csp-indirect-reseller-mpn-id-is-either-invalid-or-not-migrated-from-partner-membership-center-to-partner-center) para exibir os links "Saiba Mais" para cada código de erro, que fornecerá guias para correção que podem ser compartilhados com seus revendedores indiretos. 
+
+Ações:
+- Para obter acesso à API atualizada antes de 1º de novembro de 2020, preencha [esse formulário](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR__XoYTV7iZJhSXvcfTPzq1UOTVRM1M4WlRGVzdDS1RRWElTUjVNRFBaWS4u) fornecendo as IDs de locatário (teste ou produção). O acesso será fornecido em até 48 horas.
+- Trabalhe com sua equipe de TI para implementar a API atualizada e acompanhar o status da aceitação do MPA do revendedor indireto. Mais informações sobre as atualizações da API estão disponíveis na [documentação da API](/partner-center/develop/verify-indirect-reseller-mpa-status#csp-indirect-reseller-mpn-id-is-either-invalid-or-not-migrated-from-partner-membership-center-to-partner-center).
+- Participe da próxima série de webinars para obter um passo a passo das atualizações da API e dos relatórios do Partner Center. Participe abaixo: 
+
+- [15 de setembro às 8h30, Hora do Pacífico](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjM5NjUwYzEtYzU5Yy00YWI5LWJkNTctY2FlZTM3YjdiMDEy%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [16 de setembro às 19h30, Hora do Pacífico](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjhlN2Y3OTQtMTI3NC00NGYzLTk5MGEtM2YxZmFiOGUyZWYy%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [22 de setembro às 8h30, Hora do Pacífico](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODcyODcxYTAtM2M2Mi00NGFkLWIyMDUtNWYwZDc4YjkyOTkz%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [23 de setembro às 19h30, Hora do Pacífico](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzJmOWJkNTgtNWZlMy00OGE3LTg1NTQtOTQ0YjE4OTlkMmJm%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [29 de setembro às 8h30, Hora do Pacífico](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTdiMGNhMmMtYjkwZi00MTE0LWE3MDYtOWFlNDhiNjkwNDc1%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [30 de setembro às 19h30, Hora do Pacífico](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGRiNTFhNWMtNDU5My00NGY4LTlhZDctZTA2MDE5MjE2ZTQ0%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+
+#### <a name="mpa-reporting-in-partner-center"></a>Relatórios do MPA no Partner Center
+
+1. Acesse o relatório do MPA para exibir detalhes de seus revendedores indiretos com uma conta no Partner Center e o status de aceitação do MPA deles. Para exibir o relatório, entre no Partner Center e navegue até **Analisar/Análises do Revendedor** no menu à esquerda.
+
+2. Baixe o relatório clicando no ícone de download no lado direito.
+3. Abra um arquivo do Excel em branco e arraste o arquivo ".tsv" baixado para o arquivo do Excel.
+
+Observação: Se o revendedor indireto tiver pelo menos um locatário que tenha aceitado o MPA dentro da mesma região, nenhuma ação adicional será necessária. 
 
 ________________
 
@@ -42,7 +164,7 @@ No ano passado, [informamos](https://partner.microsoft.com/resources/detail/powe
 - [Visio Plano 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) e [Visio Plano 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab)
 - [Project Plano 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) e [Project Plano 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab)
 
-Observação:  As funcionalidades de compra por autoatendimento não estão disponíveis, no momento, na Índia, no Brasil, na RDC (República Democrática do Congo) ou para clientes qualificados para ofertas governamentais, tampouco educacionais.  Confira as [perguntas frequentes sobre compra por autoatendimento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/self-service-purchase-faq?view=o365-worldwide&preserve-view=true) para ver a disponibilidade e atualizações completas do país.
+Observação:  As funcionalidades de compra por autoatendimento não estão disponíveis, no momento, na Índia, no Brasil, na RDC (República Democrática do Congo) ou para clientes qualificados para ofertas governamentais, tampouco educacionais.  Confira as [perguntas frequentes sobre compra por autoatendimento](/microsoft-365/commerce/subscriptions/self-service-purchase-faq?preserve-view=true&view=o365-worldwide) para ver a disponibilidade e atualizações completas do país.
 
 #### <a name="partner-benefits"></a>Benefícios do parceiro
 
@@ -52,7 +174,7 @@ Será possível oferecer seus serviços a indivíduos e equipes sem precisar pas
 ### <a name="next-steps"></a>Próximas etapas
 
 - Examine todos os recursos de preparação na galeria de recursos de Preparação de Operações: [Funcionalidade de compra por autoatendimento do cliente](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/). -Saiba mais sobre as oportunidades de parceiro com as soluções do Visio e do Power Platform na sessão [Recriar e reinventar os negócios com o Microsoft Visio e o Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform) do Microsoft Inspire.
-- Veja o [guia do administrador de autoatendimento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?view=o365-worldwide&preserve-view=true) para obter mais informações.
+- Veja o [guia do administrador de autoatendimento](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?preserve-view=true&view=o365-worldwide) para obter mais informações.
 
 ________________
 
@@ -267,6 +389,6 @@ Detalhes da Oferta do Produto:
 ### <a name="next-steps"></a>Próximas etapas
 
 - Compartilhe essas informações com as pessoas apropriadas na sua organização.
-- Leia a [Documentação do Microsoft Defender ATP](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) para obter mais informações sobre o produto.
+- Leia a [Documentação do Microsoft Defender ATP](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) para obter mais informações sobre o produto.
 
 ________________

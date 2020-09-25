@@ -1,20 +1,20 @@
 ---
 title: Atribuir funções e permissões a usuários
 ms.topic: article
-ms.date: 05/19/2020
+ms.date: 09/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba quais funções são melhores para os usuários da sua empresa que gerenciam transações comerciais, indicações, incentivos ou associações MPN no Partner Center.
 author: hemas
 ms.author: hemas
 ms.localizationpriority: high
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e8608c194057ea811890c9c575f8964b63564f0
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.custom: SEOMAY.20, contperfq1
+ms.openlocfilehash: 391602651976500576f13824bfebc6e06fec40a2
+ms.sourcegitcommit: 9359f92fb7d3965374eb095ebf68fd6a94ec4943
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490594"
+ms.lasthandoff: 09/21/2020
+ms.locfileid: "90832109"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Atribuir permissões e funções de usuários para os usuários de uma empresa que precisam trabalhar no Partner Center
 
@@ -28,10 +28,10 @@ Você configurou seu perfil de parceiro, incluindo a razão social, o endereço,
 
 ## <a name="set-up-your-employees-to-work-in-partner-center"></a>Configurar seus funcionários para trabalhar no Partner Center
 
-Você determinará os tipos de acesso que os usuários terão ao Partner Center por meio das funções e permissões a eles atribuídas. As funções estão relacionadas aos programas com os quais a sua empresa está envolvida. Por exemplo, se a sua empresa for um CSP (Provedor de Soluções na Nuvem), você não apenas terá as funções de gerenciamento de locatário padrão do Azure AD, como o administrador global, mas também precisará de funções específicas para o programa CSP. Cada programa tem funções específicas para ele.
+Você determinará os tipos de acesso que os usuários terão ao Partner Center por meio das funções e permissões a eles atribuídas. As funções estão relacionadas aos programas com os quais a sua empresa está envolvida. Por exemplo, se a sua empresa for um CSP (Provedor de Soluções na Nuvem), você não apenas terá as funções de gerenciamento de locatário padrão do Azure Active Directory, como o administrador global, mas também precisará de funções específicas para o programa CSP. Cada programa tem funções específicas para ele.
 
 >[!Note]
-> As funções de locatário do Azure Active Directory (AAD) incluem administrador global, administrador de usuários e funções de CSP. As funções não pertencentes ao AAD são aquelas que não gerenciam o locatário e incluem administrador do MPN, administrador de perfil de negócios, administrador de indicações, administrador de incentivos e usuário de incentivos. 
+> As funções de locatário do Azure Active Directory incluem administrador global, administrador de usuários e funções de CSP. As funções não pertencentes ao Azure Active Directory são aquelas que não gerenciam o locatário e incluem administrador do MPN, administrador de perfil de negócios, administrador de indicações, administrador de incentivos e usuário de incentivos. 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Gerenciar transações comerciais no Partner Center (funções Azure AD e CSP)
 
@@ -83,7 +83,8 @@ Você determinará os tipos de acesso que os usuários terão ao Partner Center 
 ||*    Criar tíquetes de suporte para o Partner Center
 ||*    Ver os tíquetes de suporte do parceiro que você criar| 
 
-### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>CPV (Fornecedor de Painel de Controle). (Função CSP e função não pertencente ao AAD)
+### <a name="control-panel-vendor-cpv-csp-role-and-non-azure-ad-role"></a>CPV (Fornecedor de Painel de Controle). (Função CSP e função não pertencente ao Azure AD)
+
 Os CPVs desenvolvem aplicativos para uso por parceiros CSP (Provedor de Soluções na Nuvem) a fim de permitir que eles integrem seus sistemas com as APIs do Partner Center. 
 
 |**Função**   |**O que você pode fazer**|**Saiba mais**|
@@ -91,7 +92,7 @@ Os CPVs desenvolvem aplicativos para uso por parceiros CSP (Provedor de Soluçõ
 |Administrador global| Exibir e gerenciar seu perfil de CPV|[Inscreva-se como um Fornecedor de Painel de Controle para ajudar a integrar sistemas de parceiros CSP com as APIs do Partner Center](enroll-as-cpv.md)
 ||Exibir e gerenciar todos os seus usuários que precisam de acesso aos recursos de CPV|
 
-### <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Usuário convidado (deve ser adicionado ao locatário do AAD)
+### <a name="guest-user-must-be-added-to-the-azure-active-directory-tenant"></a>Usuário convidado (precisa ser adicionado ao locatário do Azure Active Directory)
 
 |**Usuário convidado**   | **Funções**|
 |---------------------------|:--------------------|
@@ -102,7 +103,9 @@ Os CPVs desenvolvem aplicativos para uso por parceiros CSP (Provedor de Soluçõ
 ||Administrador de indicações|
 
 
-## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>Gerenciar associação do MPN e sua empresa (funções não pertencentes ao AAD: essas funções gerenciam os negócios da empresa em vez do locatário)
+## <a name="manage-mpn-membership-and-your-company"></a>Gerenciar a associação do MPN e sua empresa 
+
+Essas funções não são funções do Azure Active Directory. Essas funções gerenciam o negócio da empresa em vez do locatário.
 
 |**Função** | **O que você pode fazer**|**Saiba mais**|
 |----------------------------|:----------------------------|-----|
@@ -121,7 +124,7 @@ Os CPVs desenvolvem aplicativos para uso por parceiros CSP (Provedor de Soluçõ
 ||*    Ver os tíquetes de suporte do parceiro que você criar
 |Administrador de conta| Adicionar locais|[Gerenciar locais](manage-locations.md)
 || Gerenciar perfis relacionados às contas para as quais você é administrador 
-||*    Atribuir funções aos usuários do locatário para funções não pertencentes ao AAD 
+||*    Atribuir funções para usuários no locatário a funções não pertencentes ao Azure Active Directory 
 ||*    Registrar locais em programas
 ||*    Criar tíquetes de suporte para o Partner Center
 ||*    Ver os tíquetes de suporte do parceiro que você criar
@@ -167,14 +170,3 @@ Os CPVs desenvolvem aplicativos para uso por parceiros CSP (Provedor de Soluçõ
 
 - [Criar contas de usuário e atribuir funções e permissões](create-user-accounts-and-set-permissions.md)
 - [Verifique as informações da sua conta ao se inscrever em um novo programa do Partner Center](verification-responses.md)
-
-
-
-
-
-
-
-
-
-
-                                    
