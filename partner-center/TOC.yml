@@ -418,6 +418,8 @@
           href: azure-plan-manage.md
         - name: Restabelecer privilégios de administrador para assinaturas do Azure CSP
           href: revoke-reinstate-csp.md
+        - name: Transferir as assinaturas do Azure
+          href: switch-azure-subscriptions-to-a-different-partner.md
     - name: Assinaturas de software
       href: csp-software-subscriptions.md
     - name: Vender software local por meio do programa CSP
@@ -463,8 +465,6 @@
           href: migrate-office365-e4-subscriptions-to-newer-versions.md
         - name: Migrar do Skype for Business Online Plano 1 para as versões mais recentes do Office 365
           href: skype-retiring.md
-        - name: Transferir as assinaturas do Azure
-          href: switch-azure-subscriptions-to-a-different-partner.md
         - name: Migrar assinaturas do Kaizala Pro para o Microsoft 365
           href: migrate-kaizala-pro-partner.md
     - name: Consultores vendendo o Office 365
