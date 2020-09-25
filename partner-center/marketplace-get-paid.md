@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.date: 06/09/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: e75d10db14292ea0d2aa9ee391e0f1582252e732
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 22ca8ef0d1b5dad91036f0e2eb2be66f2da2640b
+ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007390"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "91248894"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Ser pago no marketplace comercial
 
@@ -30,11 +30,11 @@ O valor de armazenamento é aplicado a todas as vendas de ofertas coletadas pelo
 
 ## <a name="payout-reporting"></a>Relatório de pagamento
 
-Você pode acessar os detalhes sobre suas informações de pagamento e baixar os relatórios no **Resumo de pagamentos** do [Partner Center](https://partner.microsoft.com/dashboard). Para obter detalhes sobre as informações mostradas aqui e como categorizamos o dinheiro que você ganha, confira [Visão geral do resumo de pagamentos](/azure/marketplace/payout-summary-overview).
+Você pode acessar os detalhes sobre suas informações de pagamento e baixar os relatórios no **Resumo de pagamentos** do [Partner Center](https://partner.microsoft.com/dashboard). Para obter detalhes sobre as informações mostradas aqui e como categorizamos o dinheiro que você ganha, consulte a [instrução de pagamento](payout-statement.md).
 
 ## <a name="payout-time-frame"></a>Período de pagamento
 
-Os pagamentos são feitos mensalmente (desde que o limite de pagamento aplicável tenha sido atingido e você não tenha colocado seu pagamento em espera, conforme descrito abaixo). Normalmente, enviamos os pagamentos devidos em determinado mês até o 15º dia desse mês. Observe que os pagamentos geralmente levam entre 3 e 10 dias úteis adicionais para entrar na sua conta de pagamento. Para obter detalhes, confira [Limites, formas e períodos de pagamento](/azure/marketplace/payment-thresholds-methods-timeframes).
+Os pagamentos são feitos mensalmente (desde que o limite de pagamento aplicável tenha sido atingido e você não tenha colocado seu pagamento em espera, conforme descrito abaixo). Normalmente, enviamos os pagamentos devidos em determinado mês até o 15º dia desse mês. Observe que os pagamentos geralmente levam entre 3 e 10 dias úteis adicionais para entrar na sua conta de pagamento. Para obter detalhes, confira [Limites, formas e períodos de pagamento](payment-thresholds-methods-timeframes.md).
 
 ## <a name="payout-hold-status"></a>Status de retenção de pagamento
 
