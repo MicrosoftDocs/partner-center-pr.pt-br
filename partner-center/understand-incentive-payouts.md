@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: fbd91659a8118cd2efa8c361adaf4c0668245e70
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 0abc7235c091620650d3288ef228a3d009c016e0
+ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220254"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "91406339"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Exibir, gerenciar e exportar os detalhes do programa de incentivos
 
@@ -82,7 +82,7 @@ Para acessar a **Visão Geral de Meus Incentivos**:
 | Descontinuada  | O programa de incentivos específico não é mais oferecido no sistema de incentivos. |
 | Registrado  | Todas as informações de impostos e bancos foram validadas. Nenhuma ação de registro adicional é exigida pelo parceiro. |
 | Registrando  | O usuário não é um administrador de incentivos e o registro está na **ação necessária** ou **Validando** os Estados de registro.|
-| Inativo/inelegível | O programa de incentivos pode não estar aberto para registro no momento ou o parceiro não atende à qualificação atual para registro ou reinscrição. <br> Se o status for **inelegível**, o parceiro não atenderá aos requisitos de qualificação atuais para o programa; a seleção do link **ver requisitos de qualificação** abaixo do status do registro mostrará os requisitos para elegibilidade e quais desses requisitos foram atendidos. |
+| Inativo/inelegível | O programa de incentivos pode não estar aberto para registro no momento ou o parceiro não atende à qualificação atual para registro ou reinscrição. <br><br> Se o status for **inelegível**, o parceiro não atenderá aos requisitos de qualificação atuais para o programa; a seleção do link **ver requisitos de qualificação** abaixo do status do registro mostrará os requisitos para elegibilidade e quais desses requisitos foram atendidos. <br><br> Você também pode ver um status **inativo** para os registros da Vorg (organização virtual) ou do PGA (conta global do parceiro) que não estão mais ativos no programa de incentivo.  |
 | Convidado  | Um novo convite de registro de programa de incentivo foi enviado para o parceiro, mas o parceiro ainda não iniciou o processo de registro. A coluna adjacente **ações necessárias** mostra as próximas etapas e todos os links relacionados.  |
 | Validando o registro  | O parceiro já concluiu ou atualizou as informações bancárias e fiscais para um registro novo ou existente e está aguardando que a Microsoft valide essas informações. Durante o processo de validação, a **validação do registro** pode aparecer por até 48 horas.  |
 

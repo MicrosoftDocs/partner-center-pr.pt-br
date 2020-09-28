@@ -1,19 +1,19 @@
 ---
 title: Registro de incentivos
 ms.topic: how-to
-ms.date: 09/11/2020
+ms.date: 09/25/2020
 description: Registre-se no programa incentivos e atribua as funções necessárias para o gerenciamento de usuários.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f86b59708ab26a5ef02a952f34ef3558af097af
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 9bd1b3ae1ecc01b2709370d7e20fc0556fd14595
+ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714440"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "91406349"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>Gerenciamento de registro e de usuário no programa incentivos
 
@@ -30,24 +30,28 @@ ms.locfileid: "90714440"
 
 O processo de registro consiste em duas etapas.
 
-**Etapa 1. Gerenciamento de usuários:** esta etapa envolve o estabelecimento do administrador de incentivos e das permissões de usuário.
+**Etapa 1. Gerenciamento de usuários:** esta etapa envolve o estabelecimento do administrador de incentivos no Partner Center.
 
 **Etapa 2. Registro:** a Microsoft envia um convite para se registrar em seu programa de incentivo.
 
 ## <a name="user-management"></a>Gerenciamento de Usuários
 
-Para se registrar em um programa de incentivos, o administrador global ou o administrador da conta precisa configurar os usuários da empresa. Eles devem atribuir um administrador de incentivos e conceder permissões de usuário de incentivo. Para obter informações sobre contas de parceiros, funções e permissões, consulte [gerenciar sua conta do Partner Center](partner-center-account-setup.md). O administrador global também pode configurar os usuários da empresa por meio do Azure Active Directory (Azure AD).
+Para se registrar em um programa de incentivo do Partner Center, o administrador global ou o administrador da conta precisa configurar os usuários da empresa como administradores de incentivos. Para obter informações sobre contas de parceiros, funções e permissões, consulte [gerenciar sua conta do Partner Center](partner-center-account-setup.md). O administrador global também pode configurar os usuários da empresa por meio do Azure Active Directory (Azure AD).
 
-Depois que sua organização estiver qualificada para incentivos, a Microsoft enviará convites para o administrador global, o administrador da conta e o administrador de incentivos.
+Depois que sua organização estiver qualificada para incentivos, a Microsoft enviará convites para o administrador da conta e o administrador de incentivos.
 
 >[!NOTE]
 >Somente o administrador de incentivos pode se registrar em programas de incentivo. Se não houver um administrador de incentivos para seu local, o administrador global e o administrador da conta deverão atribuir um. O administrador de incentivos deve ser atribuído para o local MPN IDs. Também é possível atribuir o administrador global ou o administrador da conta como o administrador de incentivos.
 
 ## <a name="enrollment-process"></a>Processo de registro
 
-Depois que sua organização estiver qualificada para incentivos, a Microsoft enviará um convite para o administrador do MPN do MPNLocationID qualificado para iniciar o processo. Este email será enviado do **Microsoft Partner Center**e terá o convite de registro de **incentivo do parceiro**da entidade. Abra o convite e selecione **introdução**.
+Depois que sua organização estiver qualificada para incentivos, a Microsoft enviará um convite para o administrador de incentivos do MPNLocationID qualificado para iniciar o processo de registro. Este email será enviado do **Microsoft Partner Center**e terá o convite de registro de **incentivo do parceiro**da entidade. Abra o convite e selecione **introdução**.
 
-Você também verá um convite na home page do Partner Center. Depois de selecionar essa mensagem, você não poderá vê-la novamente. No entanto, o administrador ainda pode iniciar o processo entrando no [painel do Partner Center](https://partner.microsoft.com/dashboard/) e selecionando **Gerenciamento de usuários**.
+Você também verá um convite na home page do Partner Center. Depois de selecionar essa mensagem, você não poderá vê-la novamente. No entanto, o administrador de incentivos ainda pode iniciar o processo entrando no [painel do Partner Center](https://partner.microsoft.com/dashboard/) e selecionando **Gerenciamento de usuários**.
+
+Determinados programas de incentivo não têm nenhum critério de qualificação e estão abertos para todos os parceiros. O administrador de incentivos verá convites para esses programas na página Visão geral do incentivo, desde que eles tenham permissões para o programa de incentivo e MPN relevantes. A Microsoft não envia convites por email para esses programas.
+
+Para obter mais informações sobre o processo de registro, baixe o [Guia de registro de incentivos](https://partner.microsoft.com/resources/detail/partner-center-incentives-enrollment-pdf) (entrada necessária).
 
 ## <a name="expiration-and-renewal"></a>Expiração e renovação
 
