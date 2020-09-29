@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 607dd781640ca75dea89ae0f38877bc72a62bfcc
-ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
+ms.openlocfilehash: 83f5f3cea881780531d0b2f24e0422df76891382
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "91206318"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422312"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Saiba como transferir as assinaturas do Azure de um cliente para outro parceiro
 
@@ -37,23 +37,27 @@ Para alternar os serviços ou assinaturas do Azure de um cliente para um parceir
 1. Para transferir uma assinatura do Azure para um novo parceiro, o cliente deve iniciar o processo e entrar em contato com seu parceiro atual de registro por escrito.
 
    >[!Note]
-   >É responsabilidade do parceiro atual criar o tíquete de serviço que inicia o processo de transferência. A Microsoft não pode interferir em nome do cliente ou do novo parceiro. O cliente deve planejar trabalhar em conjunto com o parceiro atual para que a transição ocorra sem problemas.
+   > É responsabilidade do parceiro atual criar o tíquete de serviço que inicia o processo de transferência. A Microsoft não pode interferir em nome do cliente ou do novo parceiro. O cliente deve planejar trabalhar em conjunto com o parceiro atual para que a transição ocorra sem problemas.
 
 2. O parceiro para a assinatura precisa executar as seguintes tarefas:
 
    Crie um tíquete de serviço do Azure no Partner Center para solicitar uma transferência de assinatura:
 
-   - No menu do centro de parceiros, selecione **clientes**, selecione o cliente na lista e, em seguida, selecione **Gerenciamento de serviços**. Na seção **Tíquetes de suporte**, selecione a lista suspensa **Novo tíquete** e escolha **Microsoft Azure**.
+   1. No menu do centro de parceiros, selecione **clientes**, selecione o cliente na lista e, em seguida, selecione **Gerenciamento de serviços**. 
 
-   - No [portal do Azure](https://portal.azure.com), selecione **nova solicitação de suporte**.
+   2. Na seção **Tíquetes de suporte**, selecione a lista suspensa **Novo tíquete** e escolha **Microsoft Azure**.
+   
+   3. No [portal do Azure](https://portal.azure.com), selecione **nova solicitação de suporte**.
+   
+   4. Na Etapa 1, escolha **Gerenciar assinatura** como o tipo de problema, especifique a ID da assinatura que você deseja transferir e escolha **Provedor de Soluções na Nuvem** como o plano de suporte.
+   
+   5. Na etapa 2, selecione **C-impacto mínimo** e escolha **outras perguntas gerais** como o tipo de problema.
+   
+   6. Faça o download do [formulário de transferência de assinatura do CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
 
-     Na Etapa 1, escolha **Gerenciar assinatura** como o tipo de problema, especifique a ID da assinatura que você deseja transferir e escolha **Provedor de Soluções na Nuvem** como o plano de suporte.
+3. O parceiro da assinatura: preencha o [formulário de transferência de assinatura de CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA), assine-o e envie-o para o cliente. 
 
-     Na etapa 2, selecione **C-impacto mínimo** e escolha **outras perguntas gerais** como o tipo de problema.
-
-     Faça o download do [formulário de transferência de assinatura do CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
-
-3. O parceiro da assinatura: preencha o [formulário de transferência de assinatura de CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA), assine-o e envie-o para o cliente. Para preencher o formulário, você precisará das informações a seguir:
+   Para preencher o formulário, você precisará das informações a seguir:
 
    - Informações de contato do parceiro atual e a ID da Microsoft. No menu Partner Center, selecione **Configurações da conta** &gt; **Perfil de organização**, e use a **ID da Microsoft**, o **Nome da organização** e o **Endereço** listados lá.
 
@@ -106,6 +110,10 @@ Para alternar os serviços ou assinaturas do Azure de um cliente para um parceir
 ## <a name="next-steps"></a>Próximas etapas
 
 - Faça o download do [formulário de transferência de assinatura do CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
+
+- Saiba mais sobre o [suporte a vários parceiros](multipartner.md).
+
 - [suporte a vários parceiros](multipartner.md).
 - [suporte a vários canais](multichannel.md).
 - [Transferir as assinaturas do Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)
+

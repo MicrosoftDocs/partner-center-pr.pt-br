@@ -8,12 +8,12 @@ description: Sincronize suas referências no Partner Center com seu Salesforce C
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b658f04b1348eb48f694fac069518a7a7fc6a70
-ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
+ms.openlocfilehash: 4b96be195788ccc8b82aafd0bddb90dd34a672f9
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91372806"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422442"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Conector de venda conjunta para o Salesforce CRM – visão geral
 
@@ -237,45 +237,6 @@ Várias etapas de cada um dos fluxos de energia automatizada podem ser personali
 
 Você pode editar os mapeamentos nesta seção com base no guia de mapeamento de campos.
 
-### <a name="set-up-fields-and-relationships"></a>Configurar campos e relações
-
-1. Entre em sua conta do Salesforce e vá para **oportunidade**.
-
-2. Clique nas opções **Configurar** e **Editar objeto** para adicionar os campos necessários.
-
-3. Selecionar **campos & relações** no painel de navegação esquerdo
-
-   :::image type="content" source="images/salesforce/fields1.png" alt-text="Fields":::
-
-4. Adicione os campos a seguir nos **campos &** tabela de relações:
-
-   |**Rótulo do campo**   |**Nome do campo**|**Data type**|**Indexa**|
-   |---------------------|:-------------------|:--------------|:----------------|
-   |Audit| Audit__c|Área de texto longo (100.000) (linha visível 4)||
-   |Como a Microsoft pode ajudar?|How_can_Microsoft_help_c|Seleção|
-   |Produtos|Products_c|texto (255)||
-   |Indicação | Referral_Identfier_c|Texto (100) (ID externa)|sim|
-   |Link de referência| Referral_Link_c_|URL (255)||
-   |Sincronizar com o Partner Center|sync_with_partner_center_c|Caixa de seleção (padrão desmarcado)||
-
-   * Valores da lista de seleção:
-
-   - Proposta de valor específico da carga de trabalho
-   - Arquitetura técnica do cliente
-   - Prova de conceito ou demonstração
-   - Cotações ou licenciamento
-   - Sucesso do cliente do post Sales
-   - Geral ou outros
-
-5. Os campos serão criados em **campos & relações**
-
-   :::image type="content" source="images/salesforce/fields2.png" alt-text="Campos criados":::
-
-6. No layout da oportunidade, crie uma seção separada com os campos listados acima.
-
-   - Esta seção deve estar disponível para os vendedores no layout da oportunidade
-
-   :::image type="content" source="images/salesforce/pc-fields-layout.png" alt-text="Layout de campos do Partner Center":::
 
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>Sincronização de referência de cooperação bidirecional de ponta a ponta
 

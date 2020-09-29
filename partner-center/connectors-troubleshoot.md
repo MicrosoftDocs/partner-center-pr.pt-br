@@ -1,5 +1,5 @@
 ---
-title: Solucionar problemas de conectores de referências de covenda
+title: Solucionar problemas de conectores de referências de venda conjunta
 ms.topic: how-to
 ms.date: 09/21/2020
 ms.service: partner-dashboard
@@ -8,14 +8,14 @@ description: Perguntas frequentes sobre como solucionar problemas de conectores 
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: ad09d7c805ce5a1138d7546fd041ae1eda77b00c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d34a13a6789f3bd712d2cec3a594b8e407f7449d
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91002939"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422332"
 ---
-# <a name="troubleshoot-co-sell-referrals-connectors"></a>Solucionar problemas de conectores de referências de covenda
+# <a name="troubleshoot-co-sell-referrals-connectors"></a>Solucionar problemas de conectores de referências de venda conjunta
 
 **Aplica-se a:**
 
@@ -104,27 +104,28 @@ Você adiciona conexões ao fluxo enquanto o fluxo está em execução e adicion
 
 5. O que você deve fazer se os fluxos da solução covenda de conectores de indicações não ativarem (ativar)?
 
-    a. Na energia automatizada, você precisará editar os fluxos na seguinte ordem e atualizá-los para usar as respectivas conexões:
+a. Na energia automatizada, você precisará editar os fluxos na seguinte ordem e atualizá-los para usar as respectivas conexões:
 
-    - Registro do webhook do Partner Center (insider Preview)
-    - Criar referência de co-venda-Salesforce para o Partner Center (insider Preview)
-    - Partner Center Microsoft co-vender atualizações de referência para o Salesforce (insider Preview)
-    - Partner Center para Salesforce (insider Preview)
-    - Salesforce para o Partner Center (insider Preview)
-    - Oportunidade do Salesforce para o Partner Center (insider Preview)
-    - Salesforce Microsoft Solutions para Partner Center (insider Preview)
+- Registro do webhook do Partner Center (insider Preview)
+- Criar referência de co-venda-Salesforce para o Partner Center (insider Preview)
+- Partner Center Microsoft co-vender atualizações de referência para o Salesforce (insider Preview)
+- Partner Center para Salesforce (insider Preview)
+- Salesforce para o Partner Center (insider Preview)
+- Oportunidade do Salesforce para o Partner Center (insider Preview)
+- Salesforce Microsoft Solutions para Partner Center (insider Preview)
 
-    B. Para cada fluxo, selecione a opção **executar somente usuários** . Selecione **usar conexão** em vez de **fornecido pelo usuário somente execução**.  
+ B. Para cada fluxo, selecione a opção **executar somente usuários** . Selecione **usar conexão** em vez de **fornecido pelo usuário somente execução**.  
 
 :::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Para ativar um fluxo":::
 
+
 C. Ative-os abaixo dos fluxos mencionados:
 
-- Partner Center Microsoft co-vender atualizações de referência para o Salesforce (insider Preview)
+ - Partner Center Microsoft co-vender atualizações de referência para o Salesforce (insider Preview)
 
 - Salesforce para o Partner Center (insider Preview)
 
-
+    
 D. Ative todos os fluxos restantes.
 
 E. Em registro de webhook do Flow Center de fluxo, selecione **executar**. Forneça a **URL http** da primeira ação no **Partner Center para** o fluxo do Salesforce. Selecione todas as quatro opções em **eventos para registrar** e selecione **Sim** para substituir.
