@@ -291,6 +291,11 @@
     "redirect_document_id": "FALSE"
   },
   {
+    "source_path": "partner-center/calculate-partner-earned-credit.md",
+    "redirect_url": "/partner-center/partner-earned-credit-explanation",
+    "redirect_document_id": "true"
+  },
+  {
     "source_path": "partner-center/suspend-a-subscription.md",
     "redirect_url": "/partner-center/create-a-new-subscription#suspend-a-subscription",
     "redirect_document_id": "FALSE"
