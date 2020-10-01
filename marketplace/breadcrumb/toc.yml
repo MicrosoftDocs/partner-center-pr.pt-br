@@ -1,0 +1,7 @@
+- name: Docs
+  tocHref: /
+  topicHref: /
+  items:
+    - name: Cliente do Marketplace
+      tocHref: /marketplace/
+      topicHref: /marketplace/

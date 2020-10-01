@@ -1,0 +1,5 @@
+- name: Documentação do cliente do Microsoft Marketplace
+  href: index.yml
+  items:
+    - name: Criar um marketplace privado do Azure
+      href: create-manage-private-azure-marketplace.md
