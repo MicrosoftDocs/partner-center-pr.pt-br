@@ -1,49 +1,52 @@
 ---
-title: Ser pago no marketplace comercial da Microsoft
-description: Saiba mais sobre o recebimento de pagamentos para seus ganhos no marketplace comercial da Microsoft.
+title: Ser pago no marketplace comercial
+description: Saiba mais sobre como receber pagamentos para seus ganhos no Marketplace comercial – Azure Marketplace.
 ms.service: marketplace
 ms.topic: conceptual
-ms.date: 06/09/2020
+ms.date: 09/28/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: 22ca8ef0d1b5dad91036f0e2eb2be66f2da2640b
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: bcd1b6d2ea82a6302ccdad7619f9c1bdabb4aead
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91248894"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591066"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Ser pago no marketplace comercial
 
-Estas são algumas informações importantes sobre o recebimento de pagamentos para seus ganhos de ofertas, complementos e anúncios.
+Este artigo tem informações importantes sobre o recebimento de pagamentos para suas ofertas, Complementos e anúncios de publicidade. Ele resume a política de pagamento, as etapas necessárias antes de serem pagas e a visão geral da instrução de pagamento.
 
-> [!IMPORTANT]
-> Para receber dinheiro de vendas de ofertas no marketplace comercial, [configure sua conta de pagamento e preencha os formulários de impostos necessários](/azure/marketplace/marketplace-payout-account-setup).
+## <a name="commercial-marketplace-payout-policies-and-agreements"></a>Contratos e políticas de pagamento do Marketplace comercial
 
-## <a name="store-fee"></a>Valor de armazenamento
+A obtenção de pagamento exige que você respeite os contratos e a política de pagamento.
 
-Quando você [se inscreve em uma conta de desenvolvedor](https://go.microsoft.com/fwlink/p/?LinkID=615100), aceita o [Contrato de Editor do Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560). Este contrato explica a relação entre você e a Microsoft no que se refere à oferta de venda no marketplace comercial, incluindo o valor de armazenamento que a Microsoft cobra por cada venda efetuada.
+- [Microsoft Azure Marketplace contrato de fornecedor](https://go.microsoft.com/fwlink/p/?LinkID=699560): antes de ser pago, você deve aceitar este contrato de editor. Este contrato explica a relação entre você e a Microsoft como pertence às ofertas do vendedor no mercado comercial, incluindo a taxa de armazenamento que a Microsoft cobra por cada venda feita.
+- A [política](payout-policy-details.md) de pagamento mostra as políticas de pagamento de pagamentos, incluindo o plano de pagamento e os métodos de pagamento. A política também explica o processo para não pagamentos de clientes.
+- Os [detalhes do imposto](tax-details-marketplace.md) explicam a consideração do imposto sobre a seleção de preço e a responsabilidade do imposto no contrato do Microsoft [Publisher](https://go.microsoft.com/fwlink/p/?LinkID=699560).
+- As **tarifas de armazenamento** são oficialmente definidas no contrato do editor. A taxa de armazenamento é aplicada a todas as vendas de ofertas coletadas pelo Marketplace comercial, incluindo Complementos.
+- Os **pagamentos** são feitos mensalmente (desde que o limite de pagamento tenha sido atingido). Normalmente, enviamos qualquer pagamento devido em um determinado mês pelo 15º dia desse mês. Os pagamentos geralmente levam de 3 a 10 dias úteis adicionais para alcançar sua conta de pagamento. Para obter detalhes, confira [Limites, formas e períodos de pagamento](payment-thresholds-methods-timeframes.md).
 
-Os valores são definidos oficialmente no [Contrato de Editor do Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560). Sempre examine esse documento se você tiver alguma dúvida.
+## <a name="prerequisite-steps-before-getting-paid"></a>Etapas de pré-requisito antes de serem pagas
 
-O valor de armazenamento é aplicado a todas as vendas de ofertas coletadas pelo marketplace comercial, incluindo complementos.
+Antes de ser pago pela primeira vez, você deve configurar sua conta de pagamento e concluir o banco e os formulários de impostos necessários. Em formulários bancários e de impostos, você fornecerá seus métodos de pagamento preferenciais e os formulários de imposto para retenção de imposto. Os formulários bancários e de impostos são necessários antes de poder pagá-lo. Para obter detalhes, consulte [configurar sua conta de pagamento e formulários de impostos](set-up-your-payout-account.md).
 
-## <a name="payout-reporting"></a>Relatório de pagamento
+### <a name="payout-hold-status"></a>Status de retenção de pagamento
 
-Você pode acessar os detalhes sobre suas informações de pagamento e baixar os relatórios no **Resumo de pagamentos** do [Partner Center](https://partner.microsoft.com/dashboard). Para obter detalhes sobre as informações mostradas aqui e como categorizamos o dinheiro que você ganha, consulte a [instrução de pagamento](payout-statement.md).
+Por padrão, enviamos os pagamentos mensalmente, conforme descrito acima. No entanto, você tem a opção de colocar seus pagamentos em um programa em espera, e a Microsoft não liberará seu pagamento para sua conta. Se você optar por colocar seus pagamentos em espera, continuaremos registrando quaisquer ganhos na página de **pagamentos** . No entanto, não enviaremos nenhum pagamento à sua conta até que você remova a espera.
 
-## <a name="payout-time-frame"></a>Período de pagamento
+Para colocar seus pagamentos em espera, acesse **Configurações da conta**. Em **Pagamento e impostos**, na seção **Atribuição do perfil de pagamento e impostos**, localize o programa para o qual deseja que os pagamentos sejam retidos. Marque a caixa de seleção **manter meu pagamento** para manter os pagamentos deste programa. Você pode alterar o status de espera de pagamento a qualquer momento, mas sua decisão afetará o pagamento mensal seguinte. Por exemplo, se você quiser colocar o pagamento de abril em espera, defina o status de pagamento em espera para **Ativado** antes do final de março.
 
-Os pagamentos são feitos mensalmente (desde que o limite de pagamento aplicável tenha sido atingido e você não tenha colocado seu pagamento em espera, conforme descrito abaixo). Normalmente, enviamos os pagamentos devidos em determinado mês até o 15º dia desse mês. Observe que os pagamentos geralmente levam entre 3 e 10 dias úteis adicionais para entrar na sua conta de pagamento. Para obter detalhes, confira [Limites, formas e períodos de pagamento](payment-thresholds-methods-timeframes.md).
+Depois de definir seu status de espera de pagamento como **ativado**, todos os pagamentos desse programa ficarão em espera até que você desmarque a caixa de seleção para **desativado**. Ao fazer isso, você será incluído durante o próximo ciclo de pagamento mensal (desde que o limite de pagamentos tenha sido atingido). Se você tiver seus pagamentos em espera, mas quiser ter um pagamento gerado em junho, desmarque a caixa de seleção para **desativado** antes do final de maio.
 
-## <a name="payout-hold-status"></a>Status de retenção de pagamento
+>[!Note]
+> O status de retenção de pagamento se aplica a cada programa individualmente (Microsoft Store, publicidade, Azure Marketplace e assim por diante). Se você quiser manter pagamentos para todos os seus programas, mantenha o pagamento em cada programa individualmente.
 
-Por padrão, enviamos os pagamentos mensalmente, conforme descrito acima. No entanto, você tem a opção de colocar seus pagamentos de um programa em espera, o que impedirá o envio de pagamento à sua conta. Se você optar por colocar seus pagamentos em espera, continuaremos registrando as receitas obtidas e forneceremos os detalhes no **Resumo de pagamentos**. No entanto, não enviaremos nenhum pagamento à sua conta até que você remova a espera.
+## <a name="payout-statements"></a>Demonstrativos de pagamento
 
-Para colocar seus pagamentos em espera, acesse **Configurações do desenvolvedor**. Em **Pagamento e impostos**, na seção **Atribuição do perfil de pagamento e impostos**, localize o programa para o qual deseja que os pagamentos sejam retidos. Clique na caixa de seleção **Reter meu pagamento** para colocar os pagamentos em espera para este programa. Você pode alterar o status de pagamento em espera a qualquer momento, mas lembre-se de que sua decisão afetará o próximo pagamento mensal. Por exemplo, se você quiser colocar o pagamento de abril em espera, defina o status de pagamento em espera para **Ativado** antes do final de março.
+A instrução pagamento mostra os ganhos das vendas de suas ofertas e Complementos no histórico de transações. Você também pode exibir detalhes de pagamento e baixar relatórios no formato TSV ou CSV. Consulte as [instruções de pagamento](payout-statement.md) para saber mais sobre como acessar a instrução de pagamento e os detalhes do histórico de transações e dos relatórios de pagamento. Além disso, você pode usar a [API de pagamentos do parceiro](https://apidocs.microsoft.com/services/partnerpayouts) para efetuar pull de forma sistemática dos relatórios de pagamento.
 
-Depois de definir o status de pagamento em espera como **Ativado**, todos os pagamentos deste programa ficarão em espera até que você alterne o controle deslizante de volta para **Desativado**. Ao fazer isso, você será incluído no próximo ciclo de pagamento mensal (desde que todos os limites de pagamentos aplicáveis tenham sido atendidos). Por exemplo, se você colocou seus pagamentos em espera, mas quiser ter um pagamento gerado em junho, alterne o status de pagamento em espera para **Desativado** antes do final de maio.
+## <a name="next-steps"></a>Próximas etapas
 
-> [!NOTE]
-> Seu **Status de retenção de pagamento** se aplica a cada programa individualmente (Microsoft Store, anúncios, Azure Marketplace etc.). Se desejar reter os pagamentos em todos os seus programas, você deverá reter os pagamentos em cada programa individualmente.
-
+- [API de pagamentos de parceiros](https://apidocs.microsoft.com/services/partnerpayouts)
+- [Perguntas frequentes sobre pagamentos do Marketplace](payout-faq.md)
