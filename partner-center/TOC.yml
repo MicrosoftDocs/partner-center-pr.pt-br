@@ -71,9 +71,7 @@
             - name: Requisitos de qualificação
               href: software-assurance-dps-requirements.md
     - name: Faturas e impostos
-      items:
-        - name: Faturas e impostos em MPN
-          href: mpn-view-print-maps-invoice.md
+      href: mpn-view-print-maps-invoice.md
     - name: Test drive dos novos recursos
       href: test-drive-new-features.md
 - name: CSP (Provedor de Soluções na Nuvem)
@@ -305,20 +303,8 @@
           href: mobile-operator-billing.md
         - name: Cenários para assinaturas SaaS baseadas em licença
           href: common-billing-scenarios-saas.md
-    - name: Cenários de pagamento e cobrança do marketplace
-      items:
-        - name: Cobrança para ofertas do marketplace
-          href: csp-commercial-marketplace-billing.md
-        - name: Receba pagamento – marketplace
-          href: marketplace-get-paid.md
-        - name: Detalhes da política de pagamento
-          href: payout-policy-details.md
-        - name: 'Limites, métodos e períodos de pagamento'
-          href: payment-thresholds-methods-timeframes.md
-        - name: Demonstrativos de pagamento
-          href: payout-statement.md
-        - name: Perguntas frequentes sobre pagamentos do Marketplace
-          href: payout-faq.md
+    - name: Cobrança para ofertas do marketplace
+      href: csp-commercial-marketplace-billing.md
     - name: Ver assinaturas digitais – Partner Center da Índia
       href: digital-signature.md
     - name: Impostos e isenções fiscais
@@ -342,10 +328,24 @@
           href: request-credit.md
     - name: Definir um orçamento de gastos do Azure para seus clientes
       href: set-an-azure-spending-budget-for-your-customers.md
+- name: Ser pago
+  items:
     - name: 'Gerenciamento de não pagamento, fraude ou uso indevido'
       href: non-payment-fraud-misuse.md
     - name: Gerenciar os pagamentos não alocados
       href: unallocated-payment.md
+    - name: Pagamentos do marketplace comercial
+      items:
+        - name: Receba pagamento – marketplace
+          href: marketplace-get-paid.md
+        - name: Detalhes da política de pagamento
+          href: payout-policy-details.md
+        - name: 'Limites, métodos e períodos de pagamento'
+          href: payment-thresholds-methods-timeframes.md
+        - name: Demonstrativos de pagamento
+          href: payout-statement.md
+        - name: Perguntas frequentes sobre pagamentos
+          href: payout-faq.md
 - name: Conectar-se com clientes
   href: customer-accounts.md
   items:
