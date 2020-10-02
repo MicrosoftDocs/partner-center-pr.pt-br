@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 1d88ac82c905f5ecc1a7126988ecb4fdac599c3c
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: bbd614642544bfa9c389e596f06c805b8649f4ab
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422322"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591086"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,6 +22,8 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 | **Categoria** | **Comunicados de setembro de 2020** | **Comunicado** |
 |---------|:---------|:---------|
+|Funcionalidades|[Chave de licença do software e aviso de cumprimento de download do Partner Center](2020-september.md#17)|30 de setembro|
+|Funcionalidades|[Evolução do programa CSP (Provedor de Soluções na Nuvem) e alterações do programa Open License: percurso para obter uma experiência do parceiro e usuário aprimorada](2020-september.md#16)|30 de setembro|
 |Funcionalidades|[Disponibilidade de novas ferramentas de transição de assinaturas entre parceiros para o plano do Azure](2020-september.md#15)|28 de setembro|
 |Funcionalidades|[Teste de atualizações: aprimoramentos na interface do usuário e atualizações da API do Partner Center para o processo de validação de cliente Education](2020-september.md#14)|28 de setembro|
 |Funcionalidades|[Atualização – APIs de uso de CSP do O365 e relatórios de uso da licença de CSP ](2020-september.md#13)|29 de setembro|
@@ -61,7 +63,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 | Capacidades | [Atualização do recurso de remoção de relacionamento do Partner Center](2020-june.md#5) | 29 de junho |
 | Capacidades | [A frequência de cobrança padrão está mudando de anual para mensal](2020-june.md#4) | 17 de junho |
 | Ofertas/mercados | [Alterações no Microsoft 365 F1](2020-june.md#3) | 15 de junho |
-| Capacidades | [Atualização de mídia de assinaturas de software do Windows Server para CSP](2020-june.md#2) | 12 de junho |
+| Funcionalidades | [Atualização de mídia de assinaturas de software do Windows Server para CSP](2020-june.md#2) | 12 de junho |
 | Ofertas/mercados | [As ofertas e os produtos novos e de finais da vida útil do Microsoft Dynamics 365 e do Power Platform](2020-june.md#1) | 11 de junho |
 | Funcionalidades | [Mesclar duas ou mais contas da empresa no Partner Center](../merge-accounts.md) | 9 de junho |
 | **Categoria** | **Comunicados de maio de 2020** | **Data** |
