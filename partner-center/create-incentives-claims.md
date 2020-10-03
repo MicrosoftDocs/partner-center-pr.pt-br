@@ -1,7 +1,7 @@
 ---
 title: Gerenciar incentivos de reclamações de cooperação
 ms.topic: how-to
-ms.date: 09/11/2020
+ms.date: 10/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Saiba como iniciar os incentivos das reivindicações de cooperação do Partner Center. Você pode ver todas as atividades da sua reivindicação no Histórico.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 406aba55b53919d3f189a67ef49b5c41991fef7d
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 1af4620d040931ebbc263339fbfe37c1f26d0123
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714130"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663787"
 ---
 # <a name="create-and-manage-an-incentives-co-op-claim"></a>Criar e gerenciar uma declaração de cooperação de incentivos
 
@@ -32,13 +32,15 @@ Você pode iniciar uma declaração de incentivos de dentro do Partner Center.
 
 1. Entre no painel [Partner Center](https://partner.microsoft.com/dashboard/).
 
-2. Selecione a guia **incentivos** e, em seguida, selecione **declarações**.
+2. Selecione a guia **incentivos** e, em seguida, selecione **Gerenciamento de planos**.
 
-3. Se você já tiver uma reivindicação em andamento, a página de visão geral das Reivindicações mostrará informações sobre o status das reivindicações existentes e dos fundos aprovados, reivindicados e os totais.
+3. Selecione **Gerenciamento de cooperação**.
 
-4. Para criar uma nova declaração, selecione **criar uma declaração**.
+4. Se você já tiver uma reivindicação em andamento, a página de visão geral das Reivindicações mostrará informações sobre o status das reivindicações existentes e dos fundos aprovados, reivindicados e os totais.
 
-5. Quando você tiver preenchido o formulário inicial e selecionado **criar declaração**, será levado para a página de detalhes da declaração, na qual você poderá adicionar notas fiscais, CSR, documentos e métricas. Você também pode incluir informações adicionais, se necessário.
+5. Para criar uma nova declaração, selecione **criar uma declaração**.
+
+6. Quando você tiver preenchido o formulário inicial e selecionado **criar declaração**, será levado para a página de detalhes da declaração, na qual você poderá adicionar notas fiscais, CSR, documentos e métricas. Você também pode incluir informações adicionais, se necessário.
 
 A página de Detalhes da Solicitação permite solicitar que outras pessoas em sua organização carreguem documentação no formulário. Para cada um dos documentos de apoio que você carregar, é possível fornecer detalhes explicativos. 
 
@@ -48,7 +50,7 @@ Você pode ver todas as atividades que vão para a criação de sua declaração
 
 Você não poderá editar sua reivindicação depois de enviá-la, a menos que um revisor solicite informações adicionais.
 
-Para obter mais informações, consulte o [Guia de cooperação de incentivos para parceiros](https://assets.microsoft.com/coop-guidebook.pdf)
+Para obter mais informações, consulte o [parceiro incentivos de Guidebook de cooperação](https://assetsprod.microsoft.com/co-op-guidebook.pdf).
 
 ## <a name="next-steps"></a>Próximas etapas
 

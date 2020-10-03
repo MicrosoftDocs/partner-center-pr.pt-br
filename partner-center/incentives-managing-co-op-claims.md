@@ -7,13 +7,13 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 129c89a443b3de828ea8c22b4de82597aa8af831
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.date: 10/02/2020
+ms.openlocfilehash: 27b269016822157b8f3a20541fd027bd2c03ee75
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714420"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663867"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Gerenciar incentivos de reclamações de cooperação
 
@@ -63,13 +63,15 @@ Se for determinado que os materiais fornecidos com sua declaração de cooperaç
 
 ### <a name="dispute-a-rejected-co-op-claim"></a>Contestar uma declaração de cooperação rejeitada
 
-1. Entre no [painel Partner Center](https://partner.microsoft.com/dashboard/).
+1. Entre no painel [Partner Center](https://partner.microsoft.com/dashboard/).
 
-2. Em **Incentivos**, selecione **Declarações de cooperação**.
+2. Em **incentivos**, selecione **Gerenciamento de planos**.
 
-3. Selecione a declaração de cooperação que você deseja contestar. A página de declaração de cooperação é aberta.
+3. Selecione **Gerenciamento de cooperação**.
 
-4. Na parte inferior da página, selecione **Contestar**.
+4. Selecione a declaração de cooperação que você deseja contestar. A página de declaração de cooperação é aberta.
+
+5. Na parte inferior da página, selecione **Contestar**.
 
 A equipe de validação das declarações de cooperação analisará a declaração em cinco dias úteis. Durante esse tempo, o status será exibido como **Contestado**. Podemos entrar em contato com você para solicitar informações adicionais. Quando a revisão é concluída, a equipe de validação atualiza o status para **Aprovada**, **Rejeitada** ou **Requer ação do parceiro**.
 

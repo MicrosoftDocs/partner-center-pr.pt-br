@@ -1,19 +1,19 @@
 ---
 title: O conector de televenda para o centro de parceiros do Salesforce CRM
 ms.topic: how-to
-ms.date: 05/17/2020
+ms.date: 09/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Sincronize suas referências no Partner Center com seu Salesforce CRM
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b96be195788ccc8b82aafd0bddb90dd34a672f9
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: 4bc404ca8c0647b1bcece767da75fa07ddc6b51f
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422442"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663857"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Conector de venda conjunta para o Salesforce CRM – visão geral
 
@@ -34,7 +34,7 @@ A solução baseia-se na solução de automatização de energia da Microsoft e 
 |Co-venda pronta|Sua solução de IP/serviços deve estar pronta para venda.|[Venda com a Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Conta do Partner Center|A ID de MPN associada ao locatário do Partner Center deve ser a mesma que a ID do MPN associada à sua solução de venda conjunta. Verifique se você pode ver suas referências de venda conjunta no portal do Partner Center antes de implantar os conectores.|[Gerenciar sua conta](create-user-accounts-and-set-permissions.md)|
 |Funções de usuário da Central de parceiros|O funcionário que irá instalar e usar os conectores deve ser um administrador de referências|[Atribuir permissões e funções de usuários](create-user-accounts-and-set-permissions.md)|
-|CRM do Salesforce|A função de usuário CRM é administrador do sistema ou personalizador do sistema|[Atribuir funções no Salesforce CRM](/SalesforceCRM/customerengagement/on-premises/customize/privileges-required-customization)|
+|CRM do Salesforce|A função de usuário CRM é administrador do sistema ou personalizador do sistema|[Atribuir funções no Salesforce CRM](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
 |Conta de fluxo de automatização de energia|Uma conta de [energia ativa automatizada](https://flow.microsoft.com) para o administrador do sistema do CRM ou o personalizador do sistema. Esse usuário deve entrar no [Power Automate](https://flow.microsoft.com) pelo menos uma vez antes da instalação.|
 
 ## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Instalação do pacote do Salesforce para campos personalizados da Microsoft 
@@ -84,21 +84,19 @@ Antes de instalar, configurar e personalizar a solução de automatização de e
 
 5. Procure **conectores de referências do Partner Center para Salesforce** na tela pop-up.  
 
-   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
+   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Abrir AppSource":::
 
 6. Clique no botão **obter agora** e em **continuar**.
 
 7. Isso abre a página onde você pode selecionar o ambiente do Salesforce CRM para instalar o aplicativo.  Concorde com os termos e condições.
 
-   :::image type="content" source="images/salesforce/available-crm.png" alt-text="CRMS disponíveis":::
-
-8. Em seguida, você será direcionado para a página **gerenciar suas soluções** .  Navegue até "referências do Partner Center" usando os botões de seta na parte inferior da página. A **instalação agendada** deve aparecer ao lado da solução de referências do Partner Center. A instalação levará 10-15 minutos.
+   :::image type="content" source="images/salesforce/available-crm.png" alt-text="Abrir AppSource" usando os botões de seta na parte inferior da página. A **instalação agendada** deve aparecer ao lado da solução de referências do Partner Center. A instalação levará 10-15 minutos.
 
 9. Quando a instalação for concluída, navegue de volta para [Power Automate](https://flow.microsoft.com) e selecione **soluções** na área de navegação à esquerda. Observe que a **sincronização de referências do Partner Center para o Salesforce** está disponível na lista de soluções.
 
 10. Selecione **sincronização de referências do Partner Center para Salesforce**. Os fluxos e as entidades automatizados de energia a seguir estão disponíveis:
 
-    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Fluxos do Salesforce":::
+    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Abrir AppSource":::
 
 
 
@@ -115,7 +113,7 @@ Antes de instalar, configurar e personalizar a solução de automatização de e
 
 5. Crie uma conexão clicando em **criar uma conexão**.
 
-:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="Criar conexão":::
+:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="Abrir AppSource":::
 
 - Procure por referências do Partner Center (versão prévia) na barra de pesquisa no canto superior direito.
 
@@ -127,17 +125,17 @@ Antes de instalar, configurar e personalizar a solução de automatização de e
 
 -  Depois de adicionar todas as conexões, você deverá ver as seguintes conexões em seu ambiente:
 
- :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="Observar conexões":::
+ :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="Abrir AppSource":::
 
 ### <a name="edit-the-connections"></a>Editar as conexões
 
 1. Volte para a página soluções e selecione **solução padrão**.  Selecione **referência de conexão (versão prévia)** clicando em **tudo**.
  
-:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Iniciar edição do conector":::
+:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Abrir AppSource":::
 
 2. Edite cada uma das conexões uma por uma selecionando o ícone de três pontos. Adicione as conexões relevantes.
 
-:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Editar conectores":::
+:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Abrir AppSource":::
 
 3. Ative os fluxos na seguinte sequência:
 
@@ -157,11 +155,11 @@ As APIs de webhook do Partner Center permitem que você se registre em eventos d
 
 2. Adicione conexões para o usuário do centro de parceiros (a) com referências credenciais de administrador (b.) os eventos do centro de parceiros conforme realçado abaixo
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Gatilho":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Abrir AppSource":::
 
 3. Ao fazer essas atualizações, você verá
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhooks":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Abrir AppSource":::
 
 4. Salve as alterações e selecione **Ativar**.
 
@@ -173,17 +171,7 @@ As APIs de webhook do Partner Center permitem que você se registre em eventos d
 
 7. Selecione o ícone de **cópia** para copiar a URL de postagem http fornecida.
 
-   :::image type="content" source="images/salesforce/copy-url.png" alt-text="Copiar URL":::
-
-8. Agora, selecione o fluxo "registro do webhook do Partner Center (insider Preview)" automatizar fluxos de energia e selecione **executar**.
-
-9. Verifique se a janela "executar fluxo" é aberta no painel direito e clique em **continuar**.
-
-10. Insira os seguintes detalhes:
-
-    1. **Ponto de extremidade de gatilho http**: URL copiada da etapa anterior
-
-    2. **Eventos a serem registrados**: "referência criada" e "referência atualizada"
+   :::image type="content" source="images/salesforce/copy-url.png" alt-text="Abrir AppSource"
 
     3. **Substituir pontos de extremidade de gatilho existentes, se presente**: Sim (isso substitui todos os pontos de extremidade existentes.)
 
@@ -270,17 +258,7 @@ Os campos personalizados a seguir devem fazer parte da seção CRM:
 
    2. Verifique se a seção a seguir está presente quando você cria uma "nova oportunidade" no ambiente CRM do Salesforce
 
-      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Ambiente do Salesforce":::
-
-   3. Para sincronizar essa oportunidade com o Microsoft Partner Center, certifique-se de definir os seguintes campos no modo de exibição de cartão:
-
-       - "Sincronizar com o Partner Center": Sim
-       - "Como a Microsoft pode ajudar?": selecione uma das seguintes opções:
-       - Produtos: IDs de solução do produto
-
-   4. Depois de definir a opção sincronização de oportunidade  **com o Partner Center** como **Sim**, aguarde 10 minutos e entre em sua conta do Partner Center. Suas referências serão sincronizadas com o Salesforce CRM.
-
-   5. Quando a opção "sincronizar com o Partner Center" for definida como "Sim", se você atualizar a oportunidade no Salesforce CRM, as alterações serão sincronizadas com sua conta do Partner Center.
+      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Abrir AppSource" for definida como "Sim", se você atualizar a oportunidade no Salesforce CRM, as alterações serão sincronizadas com sua conta do Partner Center.
 
    6. As oportunidades sincronizadas com êxito com o Partner Center serão identificadas com ✔ ícone no Salesforce CRM.
 
@@ -296,7 +274,7 @@ Os campos personalizados a seguir devem fazer parte da seção CRM:
 
     5. Navegue até **oportunidades abertas**. A referência criada no Microsoft Partner Center agora está sincronizada no Salesforce CRM.
 
-       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Tela de oportunidade do Salesforce":::
+       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Abrir AppSource":::
 
     6. Quando você seleciona uma referência sincronizada, os detalhes da exibição do cartão são preenchidos.
 
