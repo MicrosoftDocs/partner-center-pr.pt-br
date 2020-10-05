@@ -9,19 +9,23 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: bbd614642544bfa9c389e596f06c805b8649f4ab
-ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
+ms.openlocfilehash: 8af2a7127dd146a931ce127435413297559952b4
+ms.sourcegitcommit: 70eb4508cb0c799506e463c47cee5d98ef2f1fe7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "91591086"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "91625139"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
 Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos essas informações com frequência, portanto, visite a página regularmente!
 
-| **Categoria** | **Comunicados de setembro de 2020** | **Comunicado** |
+| **Categoria** | **Comunicados de outubro de 2020** | **Comunicado** |
 |---------|:---------|:---------|
+|Ofertas/mercados|[As ESU (Atualizações de Segurança Estendidas) do Ano 2 do Windows 7 já estão disponíveis para parceiros do CSP (Provedor de Soluções na Nuvem)](2020-october.md#3)|1º de outubro|
+|Ofertas/mercados|[O Plano de Chamadas Office 365 já está disponível em novos mercados](2020-october.md#2)|1º de outubro|
+|Funcionalidades|[Comunicado sobre o programa de incentivo do CSP (Provedor de Soluções na Nuvem) no FY21 (ano fiscal de 2021)](2020-october.md#1)|1º de outubro|
+| **Categoria** | **Comunicados de setembro de 2020** | **Data** |
 |Funcionalidades|[Chave de licença do software e aviso de cumprimento de download do Partner Center](2020-september.md#17)|30 de setembro|
 |Funcionalidades|[Evolução do programa CSP (Provedor de Soluções na Nuvem) e alterações do programa Open License: percurso para obter uma experiência do parceiro e usuário aprimorada](2020-september.md#16)|30 de setembro|
 |Funcionalidades|[Disponibilidade de novas ferramentas de transição de assinaturas entre parceiros para o plano do Azure](2020-september.md#15)|28 de setembro|
@@ -63,7 +67,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 | Capacidades | [Atualização do recurso de remoção de relacionamento do Partner Center](2020-june.md#5) | 29 de junho |
 | Capacidades | [A frequência de cobrança padrão está mudando de anual para mensal](2020-june.md#4) | 17 de junho |
 | Ofertas/mercados | [Alterações no Microsoft 365 F1](2020-june.md#3) | 15 de junho |
-| Funcionalidades | [Atualização de mídia de assinaturas de software do Windows Server para CSP](2020-june.md#2) | 12 de junho |
+| Capacidades | [Atualização de mídia de assinaturas de software do Windows Server para CSP](2020-june.md#2) | 12 de junho |
 | Ofertas/mercados | [As ofertas e os produtos novos e de finais da vida útil do Microsoft Dynamics 365 e do Power Platform](2020-june.md#1) | 11 de junho |
 | Funcionalidades | [Mesclar duas ou mais contas da empresa no Partner Center](../merge-accounts.md) | 9 de junho |
 | **Categoria** | **Comunicados de maio de 2020** | **Data** |

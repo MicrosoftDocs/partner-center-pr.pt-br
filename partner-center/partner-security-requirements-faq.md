@@ -9,22 +9,26 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5695a5478f1fdb9d16c395bb3ea87240fc2cf6f3
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: fe0cb6ce028049ae8e9b911608d649d09f0d9217
+ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999800"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "91406359"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Perguntas frequentes sobre os requisitos de segurança de parceiros
+
+**Aplica-se a**
+
+- Partner Center
 
 **Usuários apropriados**
 
 - Todos os usuários habilitados, incluindo usuários convidados
 
-Este artigo contém algumas perguntas frequentes sobre os [requisitos de segurança de parceiros](partner-security-requirements.md).
-
 ## <a name="partner-security-requirements"></a>Requisitos de segurança de parceiros
+
+Este artigo contém algumas perguntas frequentes sobre os [requisitos de segurança de parceiros](partner-security-requirements.md).
 
 ### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement"></a>Quais são os requisitos de segurança do parceiro e por que os parceiros devem implementá-los?
 
@@ -32,7 +36,7 @@ Garantias de segurança e privacidade maiores e contínuas estão entre as nossa
 
 ### <a name="what-are-the-key-timelines-and-milestones"></a>Quais são as principais linhas do tempo e marcos?
 
-Os termos associados a esses requisitos de segurança estão incluídos no Contrato de Parceiro da Microsoft em 2019. Você precisará implementar esses requisitos de segurança o quanto antes para manter a conformidade com a sua participação no programa CSP.
+Os termos associados a esses requisitos de segurança, incluindo linhas do tempo e marcos, estão incluídos no [Contrato de Parceiro da Microsoft](microsoft-partner-agreement.md) de 2019. Você precisará implementar esses requisitos de segurança o quanto antes para manter a conformidade com a sua participação no programa CSP.
 
 ### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>O que acontecerá se eu não implementar esses requisitos de segurança do parceiro?
 
@@ -50,9 +54,9 @@ Não, não é possível isentar nenhuma conta de usuário do requisito de ter a 
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Como faço para saber se atendi aos requisitos de segurança do parceiro?
 
-Você precisa concluir as etapas abaixo
+Será necessário concluir as seguintes etapas:
 
-- Será necessário atender a todos os requisitos descritos nos [requisitos de segurança do parceiro](partner-security-requirements.md)
+- Você precisa atender a todos os requisitos descritos em [requisitos de segurança do parceiro](partner-security-requirements.md).
 - Você precisa garantir que a autenticação multifator seja imposta em todas as contas de usuário em seu locatário do parceiro.
 
 Para ajudar a identificar as principais áreas em que você pode executar ações, estamos fornecendo o relatório de [status dos requisitos de segurança](https://partner.microsoft.com/commerce/security/compliance), que está disponível por meio do Partner Center.
@@ -99,7 +103,7 @@ A MFA é um mecanismo de segurança por meio do qual os indivíduos são autenti
 
 - Algo que você sabe (geralmente uma senha)
 - Algo que você tem (um dispositivo confiável que não é duplicado facilmente, como um telefone)
-- Algo que você é (biometria)
+- Algo seu (biometria)
 
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>Qual é o custo para habilitar a MFA?
 
@@ -110,11 +114,11 @@ A Microsoft fornece MFA sem custo por meio da implementação de padrões de seg
 Por meio desses requisitos de segurança, será exigido que os usuários de um locatário de parceiro sejam autenticados usando a MFA ao acessar os serviços de nuvem comercial da Microsoft. Uma solução de terceiros pode ser usada para atender a esses requisitos. A Microsoft não fornece mais testes de validação a provedores de identidade independentes para compatibilidade com o Azure Active Directory. Para testar seu produto quanto à interoperabilidade, veja estas [diretrizes](https://www.microsoft.com/download/details.aspx?id=56843).
 
 > [!IMPORTANT]
-> Se você estiver usando uma solução de terceiros, será importante verificar se ela está emitindo a declaração de AMR (referência do método de autenticação) que inclui o valor da MFA. Confira [Teste dos Requisitos de Segurança do Parceiro](/powershell/partnercenter/test-partner-security-requirements) para obter detalhes de como validar a solução de terceiros que está emitindo a declaração esperada.
+> Quando estiver usando uma solução de terceiros, será importante verificar se a solução está emitindo a declaração de AMR (referência do método de autenticação) que inclui o valor de MFA. Confira [Teste dos Requisitos de Segurança do Parceiro](/powershell/partnercenter/test-partner-security-requirements) para obter detalhes de como validar a solução de terceiros que está emitindo a declaração esperada.
 
 ### <a name="i-use-multiple-partner-tenants-to-transact-do-i-need-to-implement-mfa-on-them-all"></a>Eu uso vários locatários de parceiros para realizar transações. É necessário implementar a MFA em todos eles?
 
-Sim, será necessário impor a MFA a cada locatário do Azure Active Directory associado aos programas CSP ou Advisor. Para comprar uma licença do Azure Active Directory Premium, uma licença precisará ser adquirida para o usuário em cada locatário do Azure Active Directory.
+Sim, será necessário impor a MFA a cada locatário do Azure Active Directory associado aos programas CSP ou Advisor. Para comprar uma licença do Azure Active Directory Premium, será necessário comprar uma licença do Azure Active Directory para os usuários em cada locatário do Azure Active Directory. 
 
 ### <a name="does-each-user-account-in-my-partner-tenant-need-to-have-mfa-enforced"></a>É necessário impor a MFA a todas as contas de usuário do meu locatário de parceiro?
 
@@ -225,7 +229,7 @@ Você precisará implementar o Modelo de Aplicativo Seguro se a automação for 
 
 ### <a name="why-should-the-application-administrator-not-provide-global-admin-user-credentials-when-performing-the-consent-process"></a>Por que o administrador de aplicativos não deve fornecer credenciais de usuário administrador global ao executar o processo de consentimento?
 
-É uma melhor prática usar identidades com privilégios mínimos; dessa forma, você reduzirá o risco. Não é recomendável usar uma conta que tenha privilégios de administrador global, pois isso fornece mais permissões do que o necessário.
+Usar uma identidade com privilégios mínimos é uma prática recomendada.  Isso reduzirá o risco. Não é recomendável usar uma conta que tenha privilégios de administrador global, pois isso fornece mais permissões do que o necessário.
 
 ### <a name="i-am-a-csp-partner-how-do-i-know-if-my-control-panel-vendor-cpv-is-working-on-implementing-the-solution-or-not"></a>Eu sou um parceiro do CSP. Como faço para saber se o meu CPV (Fornecedor de Painel de Controle) está trabalhando para implementar a solução ou não?
 
@@ -296,7 +300,7 @@ Confira [Teste dos Requisitos de Segurança do Parceiro](/powershell/partnercent
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>A MFA está me impedindo de oferecer suporte ao meu cliente usando o AOBO, o que devo fazer?
 
-A imposição técnica dos requisitos de segurança do parceiro verificará se a conta autenticada foi desafiada pela autenticação multifator. Em caso negativo, você será redirecionado para a página de logon e receberá uma solicitação para se autenticar novamente. Confira uma experiência e diretrizes mais detalhadas na documentação [Como obrigar o uso da MFA (Autenticação Multifator) ao locatário de parceiro](partner-security-requirements-mandating-mfa.md#partner-delegated-administration). Caso o domínio não seja federado, após a autenticação bem-sucedida, você precisará configurar a autenticação multifator. Ao concluir essa operação, você poderá gerenciar seus clientes usando o AOBO. Caso o domínio seja federado, você precisará verificar se a conta está sendo desafiada pela autenticação multifator.
+A imposição técnica para requisitos de segurança do parceiro será verificada caso a conta autenticada tenha sido desafiada para executar uma autenticação multifator. Caso contrário, você será redirecionado para a página de entrada e receberá uma solicitação para executar a autenticação novamente. Leia sobre como obter experiência e diretrizes adicionais nesta documentação de [MFA (Autenticação Multifator) para seu locatário parceiro](partner-security-requirements-mandating-mfa.md#partner-delegated-administration). Caso o domínio não seja federado, após a autenticação bem-sucedida, você precisará configurar a autenticação multifator. Ao concluir essa operação, você poderá gerenciar seus clientes usando o AOBO. Caso o domínio seja federado, você precisará verificar se a conta está sendo desafiada pela autenticação multifator.
 
 ## <a name="security-defaults-transition"></a>Transição para os padrões de segurança
 
@@ -341,9 +345,11 @@ Para obter recursos de suporte a fim de atender aos requisitos de segurança, se
 
 Há opções de suporte técnico de produto do Azure Active Directory disponíveis por meio dos seus benefícios do MPN. Parceiros com acesso a assinaturas ativas do ASfP ou do PSfP podem trabalhar com seus Gerentes de Conta associados (SAM/TAM) para entender melhor as opções disponíveis.
 
-### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>Como fazer para entrar em contato com o suporte quando eu tiver perdido o acesso ao Partner Center?
+### <a name="how-do-i-contact-support-if-ive-lost-access-to-partner-center"></a>Como posso entrar em contato com o suporte se eu perder o acesso ao Partner Center?
 
-Acesse o [Suporte a Parceiros da Microsoft](https://partner.microsoft.com/support) e escolha **Mostrar todas as opções de suporte**. Você verá as opções disponíveis para entrar em contato com o Suporte do Parceiro da Microsoft, incluindo um número de telefone para ligar para o suporte e uma opção para conversar com o suporte.
+Caso perca o acesso devido a um problema de MFA, entre em contato com o administrador global de seu locatário. Seu departamento interno de TI poderá informar quem é o seu administrador global. 
+
+Caso tenha esquecido sua senha, leia o artigo [Não foi possível entrar](unable-to-sign-in.md) para obter ajuda.
 
 ### <a name="where-can-i-find-more-information-about-common-technical-issues"></a>Onde posso encontrar mais informações sobre problemas técnicos comuns?
 

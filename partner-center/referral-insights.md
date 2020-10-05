@@ -9,69 +9,112 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24bbca2c973f985e441bd1aebc44d63fdb3e78af
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 3496e57e9a9947d725a64d70b317779182f77583
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436615"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422346"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenha informações de referência na Central de parceiros e descubra como estão suas referências
 
 **Aplica-se a**
 
-- Partner Center
+- Oportunidades de venda conjunta
+- Acordos privados
 
-A página de **Insights de indicação** no Partner Center permite que você veja como está sendo o desempenho de suas indicações. Revise essas métricas regularmente para ajudar a identificar tendências ou áreas que precisam de atenção e comece a direcioná-las para as suas metas de negócios.
+A página **Oportunidades de venda conjunta** na seção **Análise** em Indicações permite conferir o desempenho de suas indicações. Revise essas métricas regularmente para ajudar a identificar tendências ou áreas que precisam de atenção e comece a direcioná-las para as suas metas de negócios.
 
-Para ver seus dados de informações de indicação, no menu do Partner Center, acesse **Indicações > Insights de indicação**.
+Para conferir seus dados de insights sobre oportunidades de venda conjunta, acesse **Indicações > Análise > Oportunidades de venda conjunta** no menu do Partner Center.
+
+> [!Important]
+> O filtro Tipo de acordo será pré-aplicado com o tipo **Venda conjunta** selecionado para todos os dados. Remova o filtro, caso queira analisar os dados relacionados a acordos privados.
 
 ## <a name="apply-filters"></a>Aplicar filtros
 
-Na parte superior da página **Insights de indicação**, você pode selecionar o período para o qual você deseja mostrar os dados. A seleção padrão é **3M** (três meses), mas você pode optar em vez disso por mostrar dados por um período de seis meses ou um ano. Você também pode selecionar **Todos os tempos** para ver os dados de todas as indicações.
+Próximo à parte superior da página **Oportunidades de venda conjunta**, será possível mostrar os dados do período que você deseja selecionar. A seleção padrão será **3M** (três meses). No entanto, em vez disso, será possível optar por mostrar dados de um período de seis meses ou um ano. Também será possível selecionar **Personalizado** para conferir os dados de todas as indicações em um período específico.
 
-Você também pode expandir Filtros para filtrar todos os dados nesta página por mercado, direção da indicação, origem da indicação ou tipo de indicação.
-- **Mercados**: O filtro padrão é **Todos**, mas você pode limitar os dados a um ou mais mercados que você selecionar.
-- **Direção da indicação** O padrão é **Todas**, mas você pode optar por limitar os dados para indicações **Em entrada** (aquelas que você recebeu) ou **Em saída** (aquelas que enviou).
-- **Origem da indicação**: O padrão é **Todos**, mas você pode optar por limitar os dados a indicações de uma das seguintes fontes:
-  - **Direta**: Criada diretamente por um cliente.
-  - **Qualificada pelo marketing**: Criada por meio dos sistemas de marketing da Microsoft.
-  - **Qualificada por vendas**: Criada por um Agente de Vendas da Microsoft.
-  - **Não qualificada**: Uma indicação que não tem nenhuma medida de qualidade associada.
-  - **Tipo de indicação**: o padrão é **Todas**, mas você pode optar por limitar os dados para indicações **Independentes** (aquelas que você trabalhará diretamente com o cliente para fechar o negócio) ou para indicações de **venda conjunta** (aquelas em que incluem outras partes que trabalharão em conjunto para fechar o negócio).
+Será possível clicar no botão Filtros para abrir o painel que permite filtrar todos os dados nesta página por Nome do cliente, País, Tipo de acordo, Direção do acordo, Nome da solução e Status. Veja abaixo mais detalhes sobre esses filtros.
+
+- **Nome do cliente**: o padrão será **Todos**. No entanto, será possível limitar os dados a um ou mais clientes que você selecionar.
+- **País**: o padrão será **Todos**. No entanto, será possível limitar os dados a um ou mais países do cliente que você selecionar.
+- **Tipo de acordo**: o padrão será **Todos**. No entanto, será possível limitar os dados a Oportunidades de venda conjunta ou Acordos privados com base em sua seleção.
+- **Direção do acordo**: o padrão será **Todas**. No entanto, será possível limitar os dados para obter indicações de **Entrada** (aquelas que você recebeu) ou indicações de **Saída** (aquelas que enviou).
+- **Nome da solução**: o padrão será **Todos**. No entanto, será possível limitar os dados a indicações que contenham uma ou mais soluções que você selecionar.
+- **Status**: o padrão será **Todos**. No entanto, será possível limitar os dados a indicações que contenham um ou mais tipos de status da indicação que você selecionar, como aceito, recusado, expirado, perdido e conquistado.
 
 As informações de todos os gráficos listados abaixo refletem o intervalo de datas e todos os filtros selecionados, exceto pelo que é observado abaixo. Algumas seções também permitem que você aplique filtros adicionais, tais como a filtragem para uma solução específica.
 
 ## <a name="referrals-summary"></a>Resumo das indicações
 
-Este gráfico mostra uma visão geral do desempenho de suas indicações. Somente os filtros de intervalo de datas se aplicam a este gráfico. Nenhum dos outros filtros é aplicado. 
+Este cartão mostra uma visão geral do desempenho de suas oportunidades de venda conjunta.
 
-O gráfico mostra o número total de indicações, o número das indicações que resultaram em negociações ganhas e o volume total de transações (em USD) para o período de tempo selecionado. Expandir o gráfico mostra dados adicionais, tais como o detalhamento da origem da indicação e a direção da indicação. 
+O gráfico mostrará o número total de Acordos: o número de conquistas, o número de perdas e o volume total de acordos (em USD) do período selecionado.
 
-O percentual de métricas de alteração (mostrado em vermelho ou verde, com um indicador de seta) indica a diferença entre o último mês completo no intervalo de datas selecionado e o primeiro mês completo nesse intervalo. Por exemplo, digamos que a data atual seja 15 de junho e você selecionou o filtro **3M** para mostrar dados dos últimos três meses. Nesse caso, essas métricas mostrariam a diferença entre maio (o último mês completo no período de tempo selecionado) e março (o primeiro mês completo no período de tempo selecionado). Se o intervalo de datas selecionado fosse dos últimos **3M**, a comparação seria entre os dados de maio e os de março.
+O percentual de métricas de alteração (mostrada em vermelho ou verde com um indicador de seta) indicará a diferença entre o **último mês no intervalo de datas selecionado** e o **primeiro mês nesse intervalo**. Por exemplo, digamos que a data atual seja 15 de junho e você selecionou o filtro **3M** para mostrar dados dos últimos três meses. Nesse caso, essas métricas mostrariam a diferença entre maio (o último mês completo no período de tempo selecionado) e março (o primeiro mês completo no período de tempo selecionado). Se o intervalo de datas selecionado fosse dos últimos **3M**, a comparação seria entre os dados de maio e os de março.
 
-## <a name="performance-by-solution"></a>Desempenho por solução
+:::image type="content" source="images/referrals/cosellanalyticssummary.png" alt-text="Imagem mostrando o cartão de resumo da análise de oportunidades de venda conjunta.":::
 
-Este gráfico permite que você veja quais de suas soluções estão impulsionando a maioria das indicações e o maior volume de negócios.
+## <a name="conversion-funnel"></a>Funil de conversão
 
-O gráfico de pizza mostra uma exibição de todas as principais soluções por volume de acordo com as referências que foram ganhas. Mais detalhes são mostrados para as quatro soluções de melhor desempenho durante o período selecionado. Para cada uma dessas soluções, você pode ver o número total de negociações ganhas, o tamanho médio da negociação (em USD), o volume total de transações (em USD) e a taxa de conversão (mostrando o percentual de negociações ganhas).
+Esta seção mostrará um indicador visual de como seus acordos estão mudando de estado por meio do ciclo de vida. Será possível exibir todo o ciclo de vida com base no volume de acordos, no valor deles em USD e na principal tabela dinâmica desta seção. A primeira seção é rotulada com o estado e o tipo de acordo para fornecer a você um indicador visual do volume ou valor por tipo. Também há uma seção chamada **Indicações passadas** que será usada para indicar os acordos nos quais você executou uma ação para aceitá-los/recusá-los ou marcá-los como conquistas/perdas no período selecionado para o relatório. Será possível aplicar filtros para exibir o progresso dos acordos em vários estágios do ciclo de vida.
 
-## <a name="solution-performance-breakdown"></a>Detalhamento de desempenho da solução
+:::image type="content" source="images/referrals/cosellanalyticsfunnel.png" alt-text="Imagem mostrando o cartão de resumo da análise de oportunidades de venda conjunta.":::
 
-Este gráfico permite selecionar uma ou mais das soluções para ver dados de desempenho mais detalhados.
+## <a name="deals-by-geography"></a>Acordos por localização
 
-Para as soluções que você selecionar, o gráfico mostrará o seguinte:
-- Na parte superior do gráfico, você verá o número total de negociações ganhas, o tamanho médio do negócio (em USD) e o volume total do negócio (em USD).
-- A seção **Localização das indicações** mostra os países/regiões de onde as indicações vieram, juntamente com os detalhes de cada país/região.
-- A seção **Tendência das indicações** mostra um instantâneo do desempenho das indicações no período de tempo selecionado.
-- A seção **Status da indicação** mostra um indicador visual do número total de referências em diferentes estágios.
-- A seção **Funil de conversão** mostra um indicador visual de quantas indicações foram movidas de **Novas** para **Aceitas** e depois para **Ganhas**.
-- A seção **Tempo médio de progressão** mostra o número médio de dias que levou para uma indicação ser passada de um estágio a outro (por exemplo, de **Novas** para **Aceitas**).
-- A seção **Indicações pendentes** mostra informações sobre as indicações que ainda devem ser aceitas ou recusadas, juntamente com um link para **Tomar ação** e aceitar ou recusar indicações pendentes. Se não houver indicações pendentes, nenhum dado será mostrado aqui.
+Esta seção mostrará os países/as regiões de origem dos acordos, juntamente com detalhes de cada país/região. Há uma exibição de tabela com os detalhes do acordo para cada país, junto com uma exibição de mapa de todos os países. Será possível clicar em um país específico na tabela ou clicar na exibição de mapa para aplicar zoom a um país específico.
 
-## <a name="solution-performance-comparison"></a>Comparação de desempenho da solução
+:::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Imagem mostrando o cartão de resumo da análise de oportunidades de venda conjunta.":::
 
-Este gráfico permite que você escolha até três das soluções para comparar o desempenho de indicação (número de indicações e o número de negociações ganhas). Se tem três ou mais soluções, você verá três delas selecionadas aqui por padrão. Você pode selecionar quaisquer soluções que gostaria de comparar.
+## <a name="deals-by-solutions"></a>Acordos por soluções
+
+Este gráfico permite conferir quais soluções estão impulsionando a maioria das indicações e o maior volume de acordos. A tabela tem duas tabelas dinâmicas: venda conjunta e privada.
+Com base na seleção da tabela dinâmica, será possível conferir o desempenho dos acordos agregados por solução.
+
+> [!NOTE]
+> Caso várias soluções estejam incluídas em um acordo, a tabela mostrará o mesmo acordo considerado em todas essas soluções. Não será necessário somar os valores relacionados às soluções nem compará-los com outras métricas de volume de indicações. Essa exibição foi feita para ajudar você a entender o desempenho do acordo com uma tabela dinâmica das soluções.
+
+A tabela abrange todos os acordos que têm uma solução incluída, além dos estados correspondentes, como acordos conquistados, acordos perdidos e acordos expirados, juntamente com o valor total em USD de acordos conquistados e perdidos. Também há um grafo com a tendência dos acordos à direita da tabela que mostra a contagem total de acordos e o valor do acordo conquistado em USD com base na solução selecionada. A seleção padrão será Todas as soluções.
+
+:::image type="content" source="images/referrals/cosellanalyticssolutions.png" alt-text="Imagem mostrando o cartão de resumo da análise de oportunidades de venda conjunta.":::
+
+## <a name="declined--lost-reasons"></a>Motivos de acordos recusados e perdidos
+
+Esta seção ajudará você a analisar por que sua empresa está marcando os acordos como **Recusados** ou **Perdidos**. As opções nestas representações têm os mesmos motivos pelos quais seus vendedores escolheram fechar um acordo como recusado ou perdido.
+
+:::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="Imagem mostrando o cartão de resumo da análise de oportunidades de venda conjunta.":::
+
+## <a name="comparison-charts"></a>Gráficos de comparação
+
+A seção de comparação ajudará você a comparar os dados relacionados às indicações na tabela dinâmica com base em várias dimensões, como no volume e no valor dos acordos conquistados em USD.
+As três dimensões que você pode escolher para comparar os dados são:
+
+- Tipo de acordo
+- Mercados
+- Soluções
+
+Quando o Tipo de acordo for selecionado, você terá a opção de comparar o desempenho das indicações em relação às oportunidades de venda conjunta e aos acordos privados. Para obter os mercados e as soluções, será possível escolher até três opções diferentes para comparar o desempenho de cada uma delas. O primeiro grafo, que é um gráfico de barras, terá dados apresentados com uma tendência mês a mês baseada na tabela dinâmica principal, que representa o volume ou o valor de acordos conquistados. Também há um gráfico de pizza à direita do gráfico de barras, que mostrará a distribuição por percentual para obter os mesmos dados.
+
+:::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Imagem mostrando o cartão de resumo da análise de oportunidades de venda conjunta.":::
+
+## <a name="raw-data-table"></a>Tabela de dados brutos
+
+A tabela abaixo mostrará todos os dados brutos relacionados às oportunidades de venda conjunta e ajudará você a **exportar** os dados de maneira rápida para obter a análise detalhada ou personalizada que você desejar.
+
+:::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="Imagem mostrando o cartão de resumo da análise de oportunidades de venda conjunta.":::
+
+## <a name="no-data"></a>Sem dados
+
+Pode haver vários motivos pelos quais você está obtendo um gráfico em branco, como mostrado abaixo, ao acessar a análise de venda conjunta, conforme descrito a seguir.
+
+- Não há dados para esta conta. Tente criar acordos para que este relatório seja preenchido.
+- A conectividade de rede apresentou um problema. Verifique sua conexão com a Internet e tente novamente.
+- A página será carregada com um filtro padrão para obter acordos de Venda Conjunta. Caso tenha somente acordos Privados, redefina o filtro Tipo de acordo.
+- Não há registros correspondentes aos filtros que você aplicou. Tente redefinir os filtros.
+- Há um atraso entre a alteração de estado da oportunidade e a atualização da mesma no relatório de análise. Verifique o relatório após 24 horas.
+
+:::image type="content" source="images/referrals/nodata.png" alt-text="Imagem mostrando o cartão de resumo da análise de oportunidades de venda conjunta.":::
 
 > [!NOTE]
 > A página de **Insights de indicações** mostra apenas dados para indicações geradas no Partner Center. Ele não mostra dados para indicações geradas por meio do [Partner Sales Connect](https://support.microsoft.com/help/3170447/learn-to-use-partner-center-sales-connect) nem por nenhum outro mecanismo.
