@@ -9,13 +9,13 @@ author: mowrim
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.date: 06/30/2020
-ms.openlocfilehash: 26884be7c4bfa7a7f0b3d9f8ae60016f8e843db0
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.date: 10/05/2020
+ms.openlocfilehash: 8fb6d3ec54b2cbcbc23a09cf122da0129afb7fbb
+ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999910"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91763354"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Cloud for US Government
 
@@ -65,7 +65,7 @@ Para criar uma conta do Partner Center e se inscrever no CSP do Microsoft Cloud 
 
 1. Entre no Partner Center do Microsoft Cloud for US Government usando o link fornecido no email de aprovação do aplicativo.
 
-2. Na página **Contrato**, leia os termos e, se você concordar, selecione **Aceitar e continuar** para assinar digitalmente o [contrato de revendedor do Microsoft Cloud for US Government](https://go.microsoft.com/fwlink/p/?linkid=843364). A criação da sua conta pode levar várias horas. Saia do Partner Center do Microsoft Cloud for US Government e entre novamente mais tarde.
+2. Na página **contrato** , leia os termos e, se você concordar, selecione **aceitar e continuar** para assinar digitalmente o contrato de revendedor para Microsoft Cloud para o governo dos EUA. A criação da sua conta pode levar várias horas. Você pode sair do Partner Center para Microsoft Cloud para o governo dos EUA e, em seguida, entrar novamente mais tarde.
 
 ### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>Etapa 4 - Atribua os usuários à função de agente administrador no portal do administrador do Microsoft Azure para Microsoft Cloud for US Government
 
