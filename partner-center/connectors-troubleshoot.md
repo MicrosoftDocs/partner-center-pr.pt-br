@@ -8,12 +8,12 @@ description: Perguntas frequentes sobre como solucionar problemas de conectores 
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: d34a13a6789f3bd712d2cec3a594b8e407f7449d
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: 312ff9155ab4c2d84fb38bb6ccd093505e628832
+ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422332"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "91844650"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Solucionar problemas de conectores de referências de venda conjunta
 
@@ -42,11 +42,11 @@ Os usuários que são administradores de sistema ou personalizadores de sistema 
  
 Os vendedores do parceiro devem ser atribuídos à função "administrador de referências". Para obter mais informações, consulte o seguinte [Visão geral de permissões) (Create-User-Accounts-and-Set-Permissions).
 
-4. Quais são os campos que precisam ser configurados primeiro em seu ambiente de CRM? 
+4. Quais campos precisam ser configurados primeiro em seu ambiente de CRM? 
 
 • Verifique se sua moeda é apropriada para seu local e se está em seu ambiente CRM com precisão. • Sua equipe de vendas deve estar listada em seu ambiente de CRM como usuários do CRM.
 
-5.  Quais pré-requisitos são necessários para a criação do ambiente de automatização de energia?
+5. Quais pré-requisitos são necessários para a criação do ambiente de automatização de energia?
 
 Para usar o ambiente de automatização de energia, você precisa:
 
@@ -55,7 +55,7 @@ Para usar o ambiente de automatização de energia, você precisa:
 
 6.  Você precisa de uma assinatura do Dynamics 365 para usar a solução de conectores do Salesforce?
 
-A solução do conector do Salesforce é do tipo "fluxo do Dynamics" que dá suporte à sincronização com outros sistemas de CRM. A solução não exige que você tenha uma instância ou assinatura do Dynamics 365. Ao instalar a solução Salesforce, uma lista suspensa com um ambiente de CDS existente em sua empresa pode ser exibida. Você precisa selecionar esse ambiente. Além disso, se você receber o erro não foi possível encontrar uma organização do Dynamics 365 conectada ao usuário conectado ", será necessário criar um novo ambiente para o conector.
+A solução do conector do Salesforce é do tipo "fluxo do Dynamics" que dá suporte à sincronização com outros sistemas de CRM. A solução não exige que você tenha uma instância ou assinatura do Dynamics 365. Ao instalar a solução Salesforce, uma lista suspensa com um ambiente de CDS existente em sua empresa pode ser exibida. Você precisa selecionar esse ambiente. Além disso, se você receber o erro "não foi possível encontrar uma organização do Dynamics 365 conectada ao usuário conectado", será necessário criar um novo ambiente para o conector.
 
 ## <a name="questions-and-answers-about-configuration"></a>Perguntas e respostas sobre a configuração
 
@@ -69,18 +69,18 @@ Siga estas etapas de solução de problemas:
 - Desativar e ativar o fluxo filho 
 - Exclua a solução e reinstale a solução. 
 
-2.  O que você deve fazer se enfrentar o seguinte erro ao adicionar um conector do Partner Center na plataforma Power Automate?
+2.  O que você deve fazer se enfrentar o erro "entrar" ao adicionar um conector do Partner Center na plataforma Power Automate?
 
 :::image type="content" source="images/cosellconnectors/failure.png" alt-text="Mensagem de erro que requer entrada":::
 
 Siga esta etapa de solução de problemas:
 
-- Use a entrada do Partner Center para entrar no ambiente de fluxo uma vez (flow.microsoft.com).
+- Use suas credenciais do Partner Center para entrar no ambiente de fluxo uma vez (flow.microsoft.com).
 
 
 3. O que você deve fazer se receber o seguinte erro ao ativar o Partner Center para o fluxo do CRM na plataforma de energia automatizada?
  
-:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Mensagem de erro que requer atualizações":::
+:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Mensagem de erro que requer entrada":::
 
 Siga estas etapas de solução de problemas:
 
@@ -90,21 +90,21 @@ Siga estas etapas de solução de problemas:
 
 4. O que você deve fazer quando não é possível adicionar conexões ao fluxo ao tentar editar o fluxo?
 
-Você adiciona conexões ao fluxo enquanto o fluxo está em execução e adiciona a cada fluxo separadamente.  Se a caixa de diálogo para adicionar conexões não abrir automaticamente ao editar o fluxo, você poderá editar cada uma das etapas e subetapas dos fluxos para adicionar as conexões.
+Você adiciona conexões ao fluxo enquanto o fluxo está em execução e adiciona a cada fluxo separadamente.  Se a caixa de diálogo para adicionar conexões não abrir automaticamente ao editar o fluxo, você poderá editar cada uma das etapas e as subetapas dos fluxos individualmente.
 
 - Selecione cada fluxo e edite-os individualmente.
 - Expandir todas as etapas no fluxo 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Etapas que precisam de conexões":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Mensagem de erro que requer entrada":::
 
 - Selecione as etapas em que você verá um ícone de aviso solicitando a associação de conexões e adicionar conexões. 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Editar o fluxo passo a passo":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Mensagem de erro que requer entrada":::
 
 
-5. O que você deve fazer se os fluxos da solução covenda de conectores de indicações não ativarem (ativar)?
+5. O que você deve fazer se os fluxos da solução covenda de conectores de referências não estiverem ativados?
 
-a. Na energia automatizada, você precisará editar os fluxos na seguinte ordem e atualizá-los para usar as respectivas conexões:
+a. Na energia automatizada, você precisará editar os fluxos na seguinte ordem e atualizá-los para usar as conexões corretas:
 
 - Registro do webhook do Partner Center (insider Preview)
 - Criar referência de co-venda-Salesforce para o Partner Center (insider Preview)
@@ -116,7 +116,7 @@ a. Na energia automatizada, você precisará editar os fluxos na seguinte ordem 
 
  B. Para cada fluxo, selecione a opção **executar somente usuários** . Selecione **usar conexão** em vez de **fornecido pelo usuário somente execução**.  
 
-:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Para ativar um fluxo":::
+:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Mensagem de erro que requer entrada":::
 
 
 C. Ative-os abaixo dos fluxos mencionados:
@@ -140,7 +140,7 @@ Para garantir que seus fluxos de energia automatizada sejam executados conforme 
  
 Para determinar o status da sincronização de referência, selecione **auditoria**. 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Como sincronizar referências":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Mensagem de erro que requer entrada":::
 
 Certifique-se de que as seguintes condições sejam atendidas:
 
@@ -150,59 +150,13 @@ Certifique-se de que as seguintes condições sejam atendidas:
 
 - Quando a ajuda da Microsoft é selecionada para a oportunidade, as informações de contato do cliente são necessárias.
 
-3. Em quais condições uma referência não sincronizará bidirecionalmente
+3. Como garantir que uma referência seja sincronizada bidirecionalmente?
 
-Verifique o seguinte:
+Execute as seguintes etapas:
 
 - Os vendedores do parceiro precisam garantir que tenham habilitado a opção **sincronizar com o Partner Center** na seção CRM.
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Verifique se você habilitou a sincronização":::
-
-- Os vendedores precisam fornecer receita e data de fechamento ao qualificar um cliente potencial.
-
-- Se a ID do CRM for fornecida em criar ou atualizar a oportunidade de venda conjunta e se um cliente potencial/oportunidade com essa ID não for encontrado no CRM, a atualização ou criação será ignorada para essa oportunidade.
-
-- Verifique se o campo moeda de referência está configurado no ambiente do Salesforce. 
-
-4. O que você deve fazer se o conector for desconectado e você perder uma sincronização de referência. 
-
-A seguir estão algumas das opções que você pode experimentar:
-
-- Verifique se o nome de usuário ou a senha expiraram para os usuários do Partner Center com funções de administrador de referência.
-
-- Você pode ir para a oportunidade não sincronizada, fazer uma atualização secundária e observar se a referência foi sincronizada.
-
-- Se os fluxos tiverem sido executados e falharem, selecione o fluxo e envie novamente a execução que falhou.
-
-5. O que você deve fazer quando obtiver erros de acesso negado?
-
-Verifique se as funções apropriadas existem
-
-- Função de administrador de referência para o vendedor do Partner Center 
- 
-- Função Administrador do sistema ou personalizador do sistema na sua instância do CRM
-
-- Verifique se a energia automatizar os logs de usuário da conta de fluxo em https://flow.microsoft.com pelo menos uma vez antes
-
-6. Se você vir que o **código do país da conta do cliente** está ausente durante a criação de uma oportunidade de venda conjunta, o que você deve fazer?
-
-Você precisará adicionar o código do país ISO de duas letras à conta do cliente no CRM.
-
-7. O que você deve fazer se você vir o erro de que a **ID da solução é necessária** ao criar uma oportunidade de venda conjunta?
-
-Para criar uma referência de venda conjunta, você precisa de uma solução de venda pronta da Microsoft. 
-
-8. O que você deve fazer ao ver as oportunidades de venda conjuntas criadas no Partner Center que não são sincronizadas com o CRM, mesmo que não haja nenhum erro de fluxo:
-
-Faça o seguinte:
-
-- Depois de criar um novo negócio de revenda no Partner Center, verifique se o Partner Center para o fluxo do Dynamics 365 é invocado (ele pode ser invocado várias vezes).
-
-- Se o fluxo for invocado, verifique todos os fluxos invocados e identifique a execução do fluxo que atualizará o CRM. Você pode seguir as ações e verificar se ele atualizou o CRM ou encontrou um problema.
-
-- Verifique o *novo negócio** no Partner Center para ver se ele é preenchido com a ID do CRM.
-
-- Certifique-se de que o negócio não seja fechado acidentalmente como "ganho" ou "perdido" no Partner Center.
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Mensagem de erro que requer entrada" no Partner Center.
 
 ## <a name="next-steps"></a>Próximas etapas
 
