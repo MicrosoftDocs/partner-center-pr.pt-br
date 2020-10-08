@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 2055658d57d077c22e46c36241e4aa46db36af5a
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: 93b312341457038b1399dc77a343a6b323dd75bd
+ms.sourcegitcommit: f3a21becbb4148bc871e30ef2a12309863705017
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663807"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91772243"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,6 +22,10 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 | **Categoria** | **Comunicados de outubro de 2020** | **Comunicado** |
 |---------|:---------|:---------|
+|Ofertas/mercados|[Lançamento de SKU das Salas do Microsoft Teams Premium](2020-october.md#7)|5 de outubro|
+|Ofertas/mercados|[Os Planos de Chamadas da Microsoft já está disponível em novos mercados](2020-october.md#6)|2 de outubro|
+|Ofertas/mercados|[As promoções das comunicações avançadas do Microsoft Teams serão disponibilizadas em breve](2020-october.md#5)|2 de outubro|
+|Ofertas/mercados|[Novas ofertas e produtos futuros para o Dynamics 365](2020-october.md#4)|2 de outubro|
 |Ofertas/mercados|[As ESU (Atualizações de Segurança Estendidas) do Ano 2 do Windows 7 já estão disponíveis para parceiros do CSP (Provedor de Soluções na Nuvem)](2020-october.md#3)|1º de outubro|
 |Ofertas/mercados|[Novos SKUs oferecem o poder do Project Cortex e muito mais para os clientes](2020-october.md#2)|1º de outubro|
 |Funcionalidades|[Comunicado sobre o programa de incentivo do CSP (Provedor de Soluções na Nuvem) no FY21 (ano fiscal de 2021)](2020-october.md#1)|1º de outubro|
@@ -35,7 +39,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 |Funcionalidades|[Lançamento SDK para .NET Standard v1.16.2](2020-september.md#11)|22 de setembro|
 |Funcionalidades|[Insights do Partner Center – seu recurso de relatório único para entender seus negócios com a Microsoft.](2020-september.md#10)|23 de setembro|
 |Ofertas/mercados|[Comunicado sobre a disponibilidade geral do SQL do Azure no Edge](2020-september.md#9)|22 de setembro|
-|Capacidades|[Alterações futuras nas APIs de uso do CSP O365 e nos relatórios de uso da Licença do CSP em 30 de setembro de 2020.](2020-september.md#8)|17 de setembro|
+|Funcionalidades|[Alterações futuras nas APIs de uso do CSP O365 e nos relatórios de uso da Licença do CSP em 30 de setembro de 2020.](2020-september.md#8)|17 de setembro|
 |Funcionalidades|[Atualização de MPA de revendedor indireto. Ação necessária para usuários da API de MPA e novos relatórios de MPA](2020-september.md#7)|16 de setembro|
 |Ofertas/mercados|[As compras por autoatendimento para o Microsoft Project e o Microsoft Visio já estão disponíveis](2020-september.md#6)|15 de setembro|
 |Ofertas/mercados|[Novos SKUs oferecem o poder do Project Cortex e muito mais para os clientes](2020-september.md#5)|8 de setembro|
