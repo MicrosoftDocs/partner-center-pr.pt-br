@@ -1,7 +1,7 @@
 ---
 title: Migrar do PMC para o Partner Center
 ms.topic: article
-ms.date: 05/20/2020
+ms.date: 10/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como migrar sua empresa do PMC (Partner Membership Center) para o Partner Center.
@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ab9adf5fc79ab8125c9caebd7d01ace1719a722
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c863f8b0942b38bab80cd97e72a85935bde2ba7c
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000560"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663827"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guia de migração do PMC para o Partner Center
 
@@ -53,7 +53,7 @@ Caso a sua empresa não tenha um email de trabalho e um locatário do AAD, poder
 >[!NOTE]
 >Se você for um parceiro na China e estiver registrado no programa Microsoft Partner Network e CSP (Provedor de Soluções na Nuvem), terá um locatário separado para cada conta. Sua conta com o programa Provedor de Soluções na Nuvem é gerenciada na nuvem nacional e sua conta do Microsoft Partner Network é gerenciada na nuvem global. As duas contas não podem ser vinculadas.
 
-:::image type="content" source="images/migration/newtellusabout.png" alt-text="Conte-nos sobre a sua empresa":::
+:::image type="content" source="images/migration/newtellusabout.png" alt-text="Introdução":::
 
 Depois de verificar ou atualizar as informações, selecione **Aceitar e continuar**.
 Os Termos e as Condições nesta página são **exatamente os mesmos** indicados no contrato que a sua empresa já assinou no PMC.  
@@ -71,7 +71,7 @@ A seleção de **Aceitar e continuar** também faz o seguinte:
 
 Quando o novo locatário do Azure AD for criado, você poderá convidar seus funcionários para entrar no Partner Center.
 
-:::image type="content" source="images/migration/invite.png" alt-text="Convidar funcionários":::
+:::image type="content" source="images/migration/invite.png" alt-text="Introdução":::
 
 Se você tiver entrado com um locatário existente do AAD, seus funcionários terão se movido com você. Nesse caso, atribua aos funcionários funções que determinem o que elas podem fazer no Partner Center. 
 
@@ -84,11 +84,11 @@ Se o locatário do AAD for novo, ninguém receberá a função de administrador 
 
 Embora seja possível usar as ofertas compradas, você não poderá comprar novas ofertas até concluir a etapa de atribuição de um administrador global.
 
-:::image type="content" source="images/migration/takecontrol.png" alt-text="Assumir o controle":::
+:::image type="content" source="images/migration/takecontrol.png" alt-text="Introdução":::
 
 Ao selecionar Introdução, você verá a seguinte tela:
 
-:::image type="content" source="images/migration/verifytxt.png" alt-text="Verificar a propriedade do domínio":::
+:::image type="content" source="images/migration/verifytxt.png" alt-text="Introdução":::
 
 Seu registrador de domínios já estará preenchido para você. Somente o proprietário do domínio pode atualizar o arquivo DNS; portanto, copiando e adicionando o arquivo de texto ao registro DNS, podemos verificar se você é o proprietário. Levará alguns minutos para que a atualização ocorra. Você precisará sair do Partner Center e entrar novamente. Sua função terá sido alterada para administrador global.
 
@@ -96,9 +96,21 @@ Seu registrador de domínios já estará preenchido para você. Somente o propri
 
 Faça um tour pelo painel. É nele que você pode gerenciar sua associação, adicionar um perfil de negócios para indicações, registrar-se no programa Provedor de Soluções na Nuvem e ver notificações e ofertas relevantes para sua empresa a qualquer momento selecionando **Painel**. Você também pode gerenciar incentivos, fazer compras no Marketplace, inscrever-se em serviços de entrada no mercado, entre outros.  
 
-:::image type="content" source="images/migration/fre.png" alt-text="Fazer o tour":::
+:::image type="content" source="images/migration/fre.png" alt-text="Introdução":::
+
+## <a name="sign-the-microsoft-partner-agreement"></a>Assinar o Contrato de Parceiro da Microsoft
+
+Se for um revendedor indireto, quando tiver configurado sua conta do Partner Center, você ainda precisará se registrar oficialmente no programa Provedor de Soluções na Nuvem. Para verificar seu status de associação, acesse seu [Perfil do parceiro](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) e confirme o tipo de conta. Em seguida, inscreva-se no CSP como um [revendedor indireto](enrolling-in-the-csp-program.md).
+
+ Após inscrever-se como um revendedor indireto, aceite a [solicitação de relacionamento de CSP com seu provedor indireto](indirect-reseller-tasks-in-partner-center.md).
+
+Em seguida, aceite o Contrato de Parceiro da Microsoft no [painel](https://partner.microsoft.com/pvc/dashboard) do Partner Center usando as credenciais de administrador global. Confirme que você assinou o Contrato de Parceiro da Microsoft na seção Informações do Programa do perfil do parceiro. Além disso, você verá uma barra de notificação de confirmação na página Visão Geral do CSP. 
 
 ## <a name="next-steps"></a>Próximas etapas
+
+- [Encontrar seu administrador global](become-global-admin.md)
+
+- [Contrato de Parceiro da Microsoft](microsoft-partner-agreement.md)
 
 - [Criar contas de usuário](create-user-accounts-and-set-permissions.md)
 

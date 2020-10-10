@@ -1,42 +1,60 @@
 ---
 title: Gerenciar locais na sua conta de parceiro
 ms.topic: article
-ms.date: 06/16/2020
+ms.date: 10/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: No Partner Center, saiba como adicionar uma nova localização e como a ID do MPN da localização é usada em programas de incentivo, negócios do CSP, assinaturas e outras transações.
+ms.subservice: partnercenter-mpn
+description: Saiba como adicionar um novo local e como a ID do MPN do local é usada em programas de incentivo, negócios do CSP, assinaturas e outras transações.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f13676c8a4343feb5a099053b32b7444bbdfba45
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c9bc3ffc09b657ab6e3e7e2dcda576898c96803d
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436865"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663887"
 ---
-# <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>Gerencie os seus locais de conta de parceiro no Partner Center e adicionar uma nova localização
+# <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Gerenciar os locais de sua conta do MPN e adicionar um novo local
+
+**Aplica-se a**
+
+- Partner Center
 
 **Funções apropriadas**
-- Administrador global
-- Administrador de usuários
-- Administrador de cobrança
-- Agente administrativo
-- Agente de vendas
 
-As IDs de MPN de local identificam cada local específico de sua empresa. Você usa a ID de MPN de local para se registrar em programas de incentivo, para fazer transações com empresas do CSP (Provedor de Soluções na Nuvem), a fim de adicionar novas assinaturas e outras transações de negócios. A ID de MPN da empresa é usada para atividades não transacionais, como solicitações de suporte.
+- Administrador global
+- Administrador de conta
+
+A ID de MPN do local identifica cada local específico de sua empresa. Você usa a ID de MPN de local para se registrar em programas de incentivo, para fazer transações com empresas do CSP (Provedor de Soluções na Nuvem) e para fazer outras transações de negócios. A ID de MPN global é usada para atividades não transacionais, como solicitações de suporte.
 
 ## <a name="the-following-is-a-typical-scenario"></a>O seguinte é um cenário típico:
 
-uma empresa parceira pode ter um negócio de CSP e de publicação. O negócio de CSP dela pode estar localizado em várias localidades, e o negócio de publicação pode estar localizado em outras localidades. O negócio jurídico registrado dela tem uma ID do MPN usada para gerenciar todos os negócios não transacionais, como adicionar usuários ou registrar solicitações de suporte em log.
+O local da PGA (Conta global de parceiro) da Contoso é no Reino Unido. Trata-se da empresa com registro jurídico, que tem uma ID de MPN usada para gerenciar todos os negócios não transacionais. A Contoso também tem PLAs (Contas de local de parceiro) equivalentes a subsidiárias ou a divisões em outros locais do Reino Unido, da França e dos EUA. Na estrutura de Conta do MPN, essas PLAs são representadas como IDs de MPN de local exclusivas. As PLAs são usadas para negócios transacionais, como programas de CSP ou de incentivos. Os pagamentos são vinculados a locais específicos. 
 
+>[!NOTE]
+>Há uma relação um-para-um entre um locatário do CSP e uma ID de local do MPN.
 
-Cada um dos locais tem uma ID do MPN usada para negócios transacionais como programas CSP ou de incentivos. Os pagamentos são vinculados a locais específicos.
+:::image type="content" source="images/accountsettings/accountstructure.png" alt-text="Estrutura dos locais do MPN":::
 
-Os usuários podem ter funções que cruzam locais. Por exemplo, o administrador de incentivos poderia ter essa função para todos os locais na Europa.
+## <a name="prerequisites-in-order-to-add-a-new-location-for-a-csp-business"></a>Pré-requisitos para adicionar um novo local para um negócio do CSP
 
-## <a name="to-add-a-location"></a>Para adicionar um local
+Para adicionar um novo local para um negócio do CSP, há vários pré-requisitos:
+
+1. Você precisa ter uma ID de MPN de local no país em que deseja fazer negócios.
+
+1. Você precisa de um novo locatário do Azure AD na região de negócios que ainda não esteja inscrito no CSP. Crie-o ao se registrar no CSP.
+ 
+3. Use o novo locatário do AAD para se registrar no programa CSP na região.
+Fornecer detalhes legais da empresa, incluindo o nome jurídico da empresa, o endereço e os detalhes do contato principal. Essa conta passará por verificação, portanto, certifique-se de adicionar informações válidas.
+
+>[!NOTE] 
+ >Lembre-se de entrar usando as **novas** credenciais do **novo** locatário do Azure AD. Não use suas credenciais existentes, pois o Partner Center reconhecerá que você já tem uma conta.
+
+4. Aceite o Contrato de Parceiro da Microsoft e ative a conta.
+
+## <a name="add-a-location"></a>Adicionar um local
 
 1. No **ícone Configuração**, selecione as **Configurações do parceiro**.
 
@@ -49,16 +67,20 @@ Os usuários podem ter funções que cruzam locais. Por exemplo, o administrador
 > [!NOTE]
 > Depois que um local for adicionado no Partner Center, ele não poderá ser removido.
 
-## <a name="change-legal-headquarters-location"></a>Alterar local da matriz jurídica
+## <a name="change-global-partner-account-location"></a>Alterar o local da Conta de parceiro global
 
 1. Na página **Locais**, confira a lista de locais para verificar se o local que você deseja como pessoa jurídica está listado. Se não estiver, adicione-o.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Captura de tela da página Locais da Conta do Partner Center com a lista de todos os locais atuais.":::
+   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Estrutura dos locais do MPN":::
 
 2. Selecione **Perfil do parceiro** e, em seguida, **Atualizar perfil de negócios jurídico**
 
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Captura de tela mostra as informações de perfil do Parceiro de Conta do Partner Center com a opção Atualizar selecionável.":::
+   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Estrutura dos locais do MPN":::
 
 3. Selecione a região e a pessoa jurídica e **Envie-a**.
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Captura de tela para atualizar o perfil comercial legal do parceiro mostra as listas suspensas para atualizar o país ou a região e a entidade legal.":::
+   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Estrutura dos locais do MPN":::
+
+## <a name="next-steps"></a>Próximas etapas
+
+- Saiba mais sobre o [processo de verificação](verification-responses.md).
