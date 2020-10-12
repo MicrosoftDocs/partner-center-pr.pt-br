@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 631667f521825697a7b16b0db40cb5dd4610e636
-ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
+ms.openlocfilehash: 52f123f06da283036fa7758afd335768323594e4
+ms.sourcegitcommit: c47213f585b3cbc12ba0f7251fb44d1412815130
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90848226"
+ms.lasthandoff: 10/12/2020
+ms.locfileid: "91952372"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Gerenciar oportunidades de venda no Partner Center para definir negócios e atender melhor às necessidades dos clientes
 
@@ -36,6 +36,8 @@ Aproveite as oportunidades de venda conjunta.  As oportunidades de venda conjunt
 **Parceiro a parceiro (P2P)** – é aí que um parceiro pode convidar outros parceiros no ecossistema de venda cofuncional da Microsoft para colaborar. Os parceiros podem, opcionalmente, convidar um representante de vendas da Microsoft para o negócio para ajudar a fechar o negócio. Tanto os parceiros quanto a Microsoft podem ser convidados mesmo após a criação de um negócio, desde que ele esteja antes de ser concluído. (Observe que completo inclui venceu, perdido, recusado e expirado).
 
 **Negociação privada** – quando um parceiro decide trabalhar de forma independente em um negócio criado no Partner Center. Os parceiros têm a opção de convidar os vendedores da Microsoft depois de criar o negócio para torná-lo uma atividade de venda colaborativa. Os detalhes do negócio não são compartilhados com a equipe de vendas da Microsoft até o momento em que a ajuda de vendas da Microsoft é explicitamente procurada pelo parceiro.
+
+**Avaliação de solução (SA)** – esses tipos de negócios podem ser criados somente por um conjunto de parceiros que são verificadosdos pela equipe de negócios de avaliações de solução para realizar avaliações de tecnologia para clientes que usam ou planejam usar tecnologias da Microsoft.
 
 > [!NOTE]
 > As negociações privadas, embora não sejam verdadeiramente colaborativas, estão incluídas aqui para fornecer um caminho fácil para atualizar qualquer pipeline de acordo com uma oportunidade de venda conjunta em qualquer estágio que não seja do terminal (**venceu, perdido, recusado e expirado**).
@@ -90,8 +92,12 @@ Nesta seção, você precisa fornecer as informações relacionadas às soluçõ
 - **Soluções da minha empresa:** Estas são soluções prontas para venda, que são publicadas por sua empresa
 - **Microsoft:** Essas são soluções de propriedade da Microsoft
 - **Outras soluções de terceiros:** Essas são soluções prontas para venda, que são publicadas por outros parceiros no ecossistema da Microsoft co-revenda
+- **Avaliações de solução:** Esses são os tipos de avaliação, que um parceiro qualificado pode selecionar com base na necessidade do cliente
 
-Depois de fornecer as informações da solução, selecione avançar para ir para a seção onde você pode decidir o tipo de venda. Você tem três opções:
+> [!Important]
+> Somente um tipo de avaliação pode ser selecionado para um acordo de avaliação de solução e nenhuma outra solução pode ser adicionada. Depois que uma avaliação de solução for selecionada, o parceiro precisará escolher o local para o qual a avaliação está sendo criada. Isso é necessário para os pagamentos de incentivos corretos.
+
+Depois de fornecer as informações da solução, selecione avançar para ir para a seção onde você pode decidir o tipo de venda. Você terá três opções se escolher soluções das três primeiras opções e não uma avaliação de solução:
 
 **Negócio particular**: se você não convidar a Microsoft e criar um envolvimento nesta etapa, ele será do tipo pipeline privado. Os vendedores da Microsoft não terão visibilidade dos detalhes desse negócio.
 
@@ -144,6 +150,11 @@ Depois de começar a trabalhar no negócio, você pode fornecer os detalhes do p
 
 :::image type="content" source="images/pscmigration/salesstage.png" alt-text="Imagem mostrando o ciclo de vida de negociação em que o estágio de venda pode ser marcado.":::
 
+> [!Note]
+> Os estágios de vendas variarão se o negócio for um negócio de avaliação da solução. Marcar o estágio de vendas também é **obrigatório** para negociações de avaliação de solução. O botão **ganho** será habilitado somente depois que todos os estágios de vendas forem marcados como concluídos pelo parceiro.
+
+Abaixo está a tabela que mostra os estágios de vendas e as porcentagens correspondentes para outras negociações que não sejam avaliações de solução, conforme determinado pelo sistema de referências do Microsoft Partner Center.
+
 |**Nome do estágio de vendas**|**Porcentagem do estágio de vendas**|**Definição do estágio de vendas**|
 |:----|:-----|:-----|
 |Criado|10%|Criando um negócio de saída.|
@@ -173,7 +184,7 @@ Um negócio será elegível para o registro de negociações somente se atender 
 
 Se o negócio estiver qualificado para o registro de negociações, haverá um marco adicional adicionado ao ciclo de vida do negócio chamado "registro de negociações", conforme mostrado abaixo.
 
-:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Imagem mostrando o ciclo de vida da negociação, o local de onde o registro de negociações pode ser iniciado.":::
+:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Imagem mostrando o ciclo de vida de negociação em que o estágio de venda pode ser marcado.":::
 
 Você pode optar por registrar a negociação imediatamente depois de marcar a negociação como ganha ou em um ponto posterior no tempo no botão registrar ciclo de vida da negociação **agora** .
 Depois que o negócio é registrado, você pode exibir o progresso da validação do acordo no mesmo ciclo de vida. Se houver qualquer ação necessária da sua empresa, os erros apropriados serão mostrados na exibição do ciclo de vida de negociações. O negócio entra no estado fechado quando a validação do acordo é concluída.
@@ -206,13 +217,13 @@ Não, as negociações não podem ser modificadas quando se movem para um estado
 
 Isso pode acontecer se sua empresa tiver vários locatários associados à mesma conta do MPN. Vá para configurações de conta do Partner Center e verifique os locatários associados à conta. Em seguida, crie um tíquete de suporte solicitando a vinculação dos locatários. Forneça a ID de locatário na qual você fez logon no tíquete de suporte.
 
-:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Imagem mostrando as configurações de conta nas quais as informações de locatário podem ser encontradas.":::
+:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Imagem mostrando o ciclo de vida de negociação em que o estágio de venda pode ser marcado.":::
 
 **3o. Quem recebe uma notificação por email do Partner Center?**
 
 O fluxo de trabalho abaixo explica como os emails são enviados aos parceiros do sistema de referências do Partner Center para novas referências de entrada de parceiro.
 
-:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Imagem mostrando a lógica de como os emails são enviados aos parceiros para novas referências de entrada.":::
+:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Imagem mostrando o ciclo de vida de negociação em que o estágio de venda pode ser marcado.":::
 
 ## <a name="getting-more-co-sell-opportunities"></a>Obtendo mais oportunidades de venda conjunta
 
