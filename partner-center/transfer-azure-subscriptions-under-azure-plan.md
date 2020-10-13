@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: e1b70f26dc146507ac3764ae223ca27915162f0c
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: 4213658fc131d83d6c0640552d862f4de9b5ad86
+ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422538"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "91980257"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Transferir as assinaturas do plano do Azure de um cliente para um parceiro diferente
 
@@ -37,7 +37,7 @@ O cliente deve estar em conversa com os dois parceiros (atuais e futuros) antes 
 - O preço do CSP para serviços do Azure sob o parceiro atual não fará a transição  
 - As responsabilidades de suporte para o cliente passarão para o futuro parceiro
 - Cobrança e faturamento serão transferidos para o futuro parceiro no momento da transferência
-- O RBAC (controle de acesso baseado em função) do Azure não é afetado pela transferência
+- O RBAC (controle de acesso do Role-Based do Azure) não é afetado pela transferência
 - O administrador em nome de (AOBO) não será concedido por padrão ao parceiro futuro
 - Os produtos do Marketplace de terceiros serão transferidos desde que os produtos passem pela verificação de qualificação do Marketplace.
     - Não há descontos especiais ou restrições regionais
@@ -77,20 +77,17 @@ O parceiro futuro da assinatura precisa concluir um formulário de solicitação
 
 6.  Selecione **Enviar solicitação de transferência**  >  **Enviar**.
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Formulário concluir solicitação de transferência":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Seção de transferências":::
 
 7.  Examinar a confirmação da solicitação de transferência
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Revisar transferência pendente":::
-
-    >[!Note]
-    >O parceiro futuro pode cancelar a solicitação de transferência selecionando **Cancelar solicitação** no canto superior direito somente quando o status da solicitação de transferência for "pendente". Depois que o status da solicitação de transferência for "em andamento" ou "concluído", os cancelamentos não serão possíveis.
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Seção de transferências" ou "concluído", os cancelamentos não serão possíveis.
 
 ## <a name="current-partner-tasks-to-be-completed"></a>Tarefas do parceiro atual a serem concluídas
 
 O agente de administrador do parceiro atual do cliente receberá um email informando que o cliente está solicitando uma transferência de suas assinaturas:
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Examinar":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Seção de transferências":::
 
 Examine e aceite o formulário de solicitação de transferência do centro de parceiros para concluir a transferência da assinatura.
 
@@ -103,7 +100,7 @@ Examine e aceite o formulário de solicitação de transferência do centro de p
 3.  Selecione a seção **solicitação de transferência** .
 4.  Expanda informações de transferência selecionando a **ID da solicitação de transferência** escolhida em **solicitações recebidas**
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Solicitação de transferência de revisões de origem":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Seção de transferências":::
 
 5.  Examine a solicitação de transferência. Selecione as assinaturas do Azure solicitadas a serem transferidas.
 
@@ -114,7 +111,7 @@ Examine e aceite o formulário de solicitação de transferência do centro de p
 
 6.  Em seguida, selecione **aceitar e transferir** para concluir o processo de transferência.
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Selecione as assinaturas a serem transferidas em seus planos do Azure":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Seção de transferências":::
 
 7.  Exibir confirmação de aceitação da transferência.
 
@@ -132,9 +129,9 @@ Examine e aceite o formulário de solicitação de transferência do centro de p
 
 - Consequentemente, é importante que o cliente remova o acesso RBAC do Azure para seu parceiro anterior e adicione acesso para o novo parceiro. Para obter mais informações sobre o cliente que oferece acesso novo, consulte [o que é o Azure RBAC (controle de acesso baseado em função)?](/azure/role-based-access-control/overview) Para obter mais informações sobre o cliente que remove o acesso RBAC do parceiro anterior, consulte [remover uma atribuição de função](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment).
 
-- Além disso, você não obtém automaticamente o [administrador em nome do (Aobo)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) acesso às suas assinaturas. O AOBO é necessário para que o parceiro gerencie as assinaturas do Azure do cliente em seu nome. Para obter mais informações sobre os privilégios do Azure, consulte [obter permissões para gerenciar o serviço ou a assinatura de um cliente.](/partner-center/customers-revoke-admin-privileges)
+- Além disso, você não obtém automaticamente o [administrador em nome do (Aobo)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) acesso às suas assinaturas. O AOBO é necessário para que o parceiro gerencie as assinaturas do Azure do cliente em seu nome. Para obter mais informações sobre os privilégios do Azure, consulte [obter permissões para gerenciar o serviço ou a assinatura de um cliente.](./customers-revoke-admin-privileges.md)
 
 ## <a name="next-steps"></a>Próximas etapas:
 
 - [(RBAC do Azure)](/azure/role-based-access-control/overview)
-- [Obtenha permissões para gerenciar o serviço ou a assinatura de um cliente.](/partner-center/customers-revoke-admin-privileges)
+- [Obtenha permissões para gerenciar o serviço ou a assinatura de um cliente.](./customers-revoke-admin-privileges.md)
