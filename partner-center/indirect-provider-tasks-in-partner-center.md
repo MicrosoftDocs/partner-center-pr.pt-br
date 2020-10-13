@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: 92c82bbc785a6b8ef01fc39abe5bb4235fbc5622
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 21a21bc363856ee041ff9e3f9f41b0bcf9796467
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545977"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006876"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Faça parceria com revendedores indiretos no programa Provedor de Soluções na Nuvem
 
@@ -98,7 +98,7 @@ Para assinaturas existentes, se você decidir trabalhar com um revendedor indire
 
 - Na página detalhes da assinatura, no campo **revendedor (ID do MPN)** , adicione o revendedor com o qual você deseja trabalhar. Isso garante que o revendedor receberá os incentivos apropriados.
 
-| **Para fazer isso** | **Fazer isso** | **Where** |
+| **Para fazer isso** | **Faça isto** | **Onde** |
 |   ------------------   |   -------   |   -----   |
 | Habilitar o revendedor para gerenciar a conta de um cliente e ter permissões de administrador para gerenciar suas assinaturas | Associar um revendedor para uma conta do cliente ao adicionar um novo cliente | Na página **Novo cliente** |
 | Habilitar o revendedor para gerenciar uma conta de cliente do Azure|Associar um revendedor a uma conta de cliente do Azure ao adicionar um novo cliente|No **Portal de serviço do Azure**, selecione [Configurações de Usuário](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para fornecer permissões de **proprietário locatário** ao revendedor indireto|
@@ -170,7 +170,5 @@ Quando os clientes desejam comprar novas assinaturas, atualizar as existentes ou
 ## <a name="next-steps"></a>Próximas etapas
 
 Para obter mais informações sobre como gerenciar assinaturas e contas de cliente, consulte:
-
-- [Contas de clientes](customer-accounts.md)
 
 - [Assinaturas de clientes](customer-subscriptions.md)
