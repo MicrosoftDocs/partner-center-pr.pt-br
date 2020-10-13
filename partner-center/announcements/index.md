@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 93b312341457038b1399dc77a343a6b323dd75bd
-ms.sourcegitcommit: f3a21becbb4148bc871e30ef2a12309863705017
+ms.openlocfilehash: 129db0715b52a55098ce4479fb3784506810543b
+ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91772243"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "91844670"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,6 +22,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 | **Categoria** | **Comunicados de outubro de 2020** | **Comunicado** |
 |---------|:---------|:---------|
+|Funcionalidades|[Experiência simplificada de aplicativos do Azure no Azure Marketplace](2020-october.md#8)|07 de outubro|
 |Ofertas/mercados|[Lançamento de SKU das Salas do Microsoft Teams Premium](2020-october.md#7)|5 de outubro|
 |Ofertas/mercados|[Os Planos de Chamadas da Microsoft já está disponível em novos mercados](2020-october.md#6)|2 de outubro|
 |Ofertas/mercados|[As promoções das comunicações avançadas do Microsoft Teams serão disponibilizadas em breve](2020-october.md#5)|2 de outubro|

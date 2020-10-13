@@ -9,18 +9,54 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/05/2020
-ms.openlocfilehash: 36577ea1c64a75802602613628e5ff59fa9e6eb4
-ms.sourcegitcommit: f3a21becbb4148bc871e30ef2a12309863705017
+ms.openlocfilehash: 55aba7d13e781cb4edf65f086e2240c798a5d5fe
+ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91772252"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "91844660"
 ---
 # <a name="october-2020-announcements"></a>Comunicados de outubro de 2020
 
 Esta página detalha os comunicados de outubro de 2020 sobre o Microsoft Partner Center.
 
 Comunicados de 2020:  [Março](2020-march.md) | [Abril](2020-april.md) | [Maio](2020-may.md) | [Junho](2020-june.md) | [Julho](2020-july.md) | [Agosto](2020-august.md) | [Setembro](2020-september.md) | Outubro
+
+________________
+
+## <a name="simplified-azure-apps-experience-in-azure-marketplace"></a><a name="8"></a>Experiência simplificada de aplicativos do Azure no Azure Marketplace
+
+### <a name="categories"></a>Categorias
+
+- Data: 07/10/2020
+- Funcionalidade
+ 
+### <a name="summary"></a>Resumo 
+
+A UX (experiência do usuário) do portal do Azure foi modificada recentemente para todos os aplicativos do Azure. Esta é uma atualização para ISVs (fornecedores independentes de software) sobre o que esperar e as próximas etapas.
+
+### <a name="impacted-audience"></a>Público-alvo afetado
+
+Todos os ISVs que publicam aplicativos do Azure
+
+### <a name="details"></a>Detalhes
+
+Simplificamos a UX para aplicativos do Azure no portal do Azure.
+
+Você está recebendo este email porque publicou ou se inscreveu para publicar aplicativos do Azure (modelos de solução e aplicativos gerenciados) no Azure Marketplace.
+
+Fizemos algumas alterações no [portal do Azure](https://ms.portal.azure.com/) para aprimorar o modo como os clientes usam e gerenciam aplicativos do Azure. **Examine e atualize** a documentação do cliente e os materiais de referência para garantir que eles reflitam a nova experiência.
+Veja as novidades no portal do Azure:
+
+- Navegação flexível que permite exibir, editar e salvar informações em qualquer seção sem a necessidade de concluir a seção anterior.
+- Nova exibição de página inteira sem vários níveis aninhados.
+- Nova funcionalidade para marcar e organizar recursos do Azure. Saiba mais sobre marcação, confira [Usar marcas para organizar os recursos do Azure](https://docs.microsoft.com/azure/azure-resource-manager/management/tag-resources).
+
+Se tiver dúvidas sobre essas alterações, entre em contato com a [equipe de suporte](https://aka.ms/marketplacepublishersupport).
+
+### <a name="next-steps"></a>Próximas etapas
+
+Examine e atualize a documentação do cliente e os materiais de referência para garantir que eles reflitam a nova experiência.
 
 ________________
 
@@ -203,7 +239,7 @@ O Microsoft Teams e qualquer pacote do Microsoft 365/Office 365.
 - Examine a seção de recursos do [Guia do parceiro do Teams](https://aka.ms/teamscallingmeetingsguide).
 - Encontre informações adicionais sobre as ofertas promocionais do Microsoft Teams [no blog](https://www.microsoft.com/microsoft-365/blog/2020/09/08/3-deals-meeting-calling-experiences-microsoft-teams/) ou no [grupo do Yammer de parceiros do Office 365](https://www.yammer.com/office365partners/).
 
-## <a name="questions"></a>Perguntas?
+### <a name="questions"></a>Perguntas?
 
 Caso tenha dúvidas sobre essas ofertas, entre em contato com seu representante no suporte ou na equipe de conta Microsoft.
 

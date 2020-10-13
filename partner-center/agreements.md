@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: bd1b9b3fabc9e06cc368e75ba8479e3a38a843d5
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 0243b88cd60098dca971bd846eb7b0418b15c280
+ms.sourcegitcommit: a3e277ebc9e4016aa48477363f26bb78760560bd
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114826"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "91899224"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>Contratos de Cliente da Microsoft por região e idioma
 
@@ -127,11 +127,11 @@ Se você não tiver certeza de quais regiões e mercados você pode vender, loca
     
     Na Alemanha, o Código Criminal (seção 203) e os códigos profissionais de conduta exigem que determinadas relações de clientes sejam mantidas confidenciais, por exemplo, a relação entre pacientes e os respectivos médicos e a relação entre advogados e os respectivos clientes. Esses grupos profissionais precisam garantir sigilo profissional. Para essas e outras profissões comprarem serviços baseados em nuvem de provedores de soluções na nuvem, o provedor de serviços de nuvem deve firmar com o cliente um contrato escrito que garante o sigilo profissional.
 
-    Se você fizer negócios na Alemanha, talvez seja necessário fornecer esse aditamento de sigilo profissional para seus clientes, além do Contrato do Microsoft Cloud.
+    Se você fizer negócios na Alemanha, talvez seja necessário fornecer esse aditamento de sigilo profissional para seus clientes, além do Contrato de Cliente da Microsoft.
 
-  - [Aditamento de sigilo profissional para o Contrato do Microsoft Cloud da Alemanha (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+  - [Aditamento de sigilo profissional para o Contrato do Microsoft Cloud da Alemanha (EN)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GKou)
 
-  - [Aditamento de sigilo profissional para o Contrato do Microsoft Cloud da Alemanha (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+  - [Aditamento de sigilo profissional para o Contrato do Microsoft Cloud da Alemanha (DE)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GI29)
 
 - Gibraltar: [Inglês](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - Grécia: [inglês](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf), [grego](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GRE_Sep20172_CR.pdf)

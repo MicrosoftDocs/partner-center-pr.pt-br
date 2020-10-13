@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f320896ac48a0de740a0d7bb02664648505a6bbe
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 3ceb2ded6e52083ad0d74a411026558fbce2f642
+ms.sourcegitcommit: 883c332a10f51b41b72c2f3fe08bb9593b569d28
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999860"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "91852581"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Como o crédito ganho pelo parceiro é calculado e pago
 
@@ -40,7 +40,7 @@ Leia também [Restabelecer privilégios de administrador para assinaturas do Azu
 
 - Serviços qualificados: o crédito ganho pelo parceiro é aplicável aos serviços listados nos **preços de consumo do plano do Azure**, que os parceiros podem exportar da página de [preços do plano do Azure](https://partner.microsoft.com/commerce/sales). O crédito ganho pelo parceiro não se aplica a produtos de terceiros identificados como **De Terceiros** na **coluna Marcas** da lista de preços de consumo do plano do Azure, das reservas do plano do Azure, dos produtos na lista de preços do Marketplace e das [Máquinas Virtuais Spot do Azure](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/).
 
-- O PEC é calculado diariamente e pode ser exibido no arquivo de uso diário e no arquivo reconhecimento de fatura mensal. Um parceiro (provedor indireto ou revendedor indireto) deve ter acesso ao dia inteiro (24x7) para garantir que eles obtenham o PEC.  
+- O PEC é calculado diariamente e pode ser exibido no arquivo de uso diário e no arquivo reconhecimento de fatura mensal. Um parceiro (provedor indireto ou revendedor indireto) deve ter acesso ao dia inteiro (24x7) para garantir que eles obtenham o PEC. O PEC é calculado diariamente nos ativos gerenciados do Azure. O PEC máximo para um determinado período de cobrança (mês) é 15%. Os parceiros que retêm o acesso privilegiado persistente durante o mês (período de acesso) e para todos os recursos qualificados (escopo de acesso) ganharão o PEC completo de 15%. A redução de escopo e período resultará em uma taxa menor de PEC para o mês. O arquivo de uso com classificação diária é mostrado diariamente em um ativo do Azure, independentemente de o PEC ser aplicado ou não. Os parceiros também podem se registrar em alertas para detectar se há alterações no acesso privilegiado persistente.
 
 - O PEC é obtido no nível de recurso do Azure. Se o parceiro tiver acesso válido na assinatura ou no nível do grupo de recursos, cada recurso que role para a entidade mais alta receberá o PEC.  
 
