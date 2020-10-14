@@ -11,12 +11,12 @@ metadata:
   author: LauraBrenner
   ms.author: labrenne
   ms.date: 09/25/2020
-  ms.openlocfilehash: 35a12a06996e712b413e49ab138b86390b1bcee0
-  ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+  ms.openlocfilehash: 43c84bcb7cd5d919d93300a37fbc77bf4bb9a2a6
+  ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
   ms.translationtype: HT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 09/28/2020
-  ms.locfileid: "91406309"
+  ms.lasthandoff: 10/13/2020
+  ms.locfileid: "92006867"
 highlightedContent:
   items:
   - title: Saiba mais sobre atualizações importantes do Partner Center
@@ -69,7 +69,7 @@ conceptualContent:
       itemType: how-to-guide
       text: Veja sua lista de clientes
     footerLink:
-      url: customer-accounts.md
+      url: connect-with-your-customers.md
       text: Veja mais
   - title: Amplie seu negócio
     links:
