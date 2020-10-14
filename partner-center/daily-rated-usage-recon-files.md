@@ -2,17 +2,17 @@
 title: Arquivos de reconciliação de uso com classificação diária
 ms.topic: article
 ms.date: 06/12/2020
-description: Saiba como ler arquivos de reconciliação de uso com classificação diária no Partner Center.
+description: Saiba como ler arquivos de reconciliação de uso com classificação diária no Partner Center. Inclui descrições para campos específicos no arquivo reconhecimento.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bff2c66e7efd05631de7d7643a780cbe5f726103
-ms.sourcegitcommit: 3670c6e7f22e4f56545886052b68b9d5b6b3092c
+ms.openlocfilehash: 8b45ef4767e4bde28befd35c5294ed19149bf034
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89281308"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031959"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Saiba como ler arquivos de reconciliação de uso com classificação diária no Partner Center
 
@@ -64,7 +64,7 @@ Este artigo explica como ler arquivos de reconciliação de uso com classificaç
 | MeterSubCategory | O tipo de serviço do Azure, que pode afetar a taxa. |
 | MeterName | A unidade de medida para o medidor que está sendo consumido. |
 | MeterRegion | Esta coluna identifica o local de um data center dentro da região para serviços em que MeterRegion é aplicável e populado. |
-| Unidade | A unidade do **nome**do recurso. |
+| Unit | A unidade do **nome**do recurso. |
 | ResourceLocation | O data center onde o medidor está em execução. |
 | ConsumedService | O serviço da plataforma do Azure que você usou. |
 | ResourceGroup | Representa um contêiner que mantém recursos relacionados para uma solução do Azure. |

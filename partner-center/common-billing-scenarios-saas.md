@@ -2,17 +2,17 @@
 title: Cobrança-transações SaaS baseadas em licença
 ms.topic: article
 ms.date: 05/05/2020
-description: Saiba mais sobre cenários de cobrança comuns no Partner Center para transações de SaaS baseadas em licença.
+description: Saiba mais sobre cenários de cobrança comuns no Partner Center para transações de SaaS (software como serviço) baseadas em licença.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d65d23057ea0354fc77b1cc8a9c7fb16a343b3ee
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 3d63e8345bf127cb91f1812193b1f0311cd569b3
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444571"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031339"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Cenários de cobrança comuns para transações SaaS baseadas em licença no Partner Center
 

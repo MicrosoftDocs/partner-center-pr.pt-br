@@ -6,12 +6,12 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 487ad0b2ba42959748944721ebfcfc42fd4e506f
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: 18ebd0a82802e26295ed985084585306da464079
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663907"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92032029"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Noções sobre os formulários fiscais da Receita Federal dos EUA emitidos pela Microsoft
 
@@ -55,10 +55,10 @@ Os formulários de imposto serão enviados a você por meio dos seguintes endere
 |------------------------|-----------------------|
 | Atingi a marca de **mais de 200 vendas de app** com um valor total de compra dessas vendas **superior a USD 20.000** no ano fiscal aplicável (**sem** contar vendas feitas no Brasil e na China por meio da Microsoft Store no Windows 10).| **1099-K:**<br/>Declarante: Microsoft Corporation<br/>Ein: \* \* \* \* \* 4442<br/><br/>**Importante:** O formulário 1099-K contém os valores de **compra brutos**, e não os pagamentos feitos a você.| 
 | Recebi **pelo menos US$ 10 em pagamentos** por (i) vendas de app feitas no Brasil e na China por meio da Microsoft Store no Windows 10 ou (ii) vendas no Minecraft Marketplace.<br/><br/>**OR**<br/><br/>Recebi pelo menos $600 em pagamentos não relacionados a vendas de aplicativos da Microsoft no ano fiscal aplicável (por exemplo, pagamentos de incentivos ou pagamentos de um concurso ou promoção)| **1099-MISCELÂNEA:**<br/>Pagador: Microsoft Corporation<br/>Ein: \* \* \* \* \* 4442<br/><br/>**Importante:** Certas pessoas jurídicas não receberão formulários 1099-MISC, independentemente dos valores de pagamento recebidos da Microsoft.  Consulte seu profissional fiscal para obter mais informações.| 
-| Nenhuma das opções acima.| Nenhum |
+| Nenhuma das opções acima.| Não |
 | <br/><br/>**Se eu for uma Estados Unidos desenvolvedor vendendo anúncios em aplicativos e...** |<br/><br/>**Devo receber este formulário:** |
 |Recebi **pelo menos $600 em pagamentos** de anúncios em aplicativos no ano fiscal aplicável. | **1099-MISCELÂNEA:**<br/>Pagador: Microsoft Online Inc<br/>Ein: \* \* \* \* \* 0505<br/><br/>**Importante:** Certas pessoas jurídicas não receberão formulários 1099-MISC, independentemente dos valores de pagamento recebidos da Microsoft.  Consulte seu profissional fiscal para obter mais informações. |
-| Recebi **menos de $600 em pagamentos** de anúncios em aplicativos no ano fiscal aplicável. | Nenhum |
+| Recebi **menos de $600 em pagamentos** de anúncios em aplicativos no ano fiscal aplicável. | Não |
 
 
 ## <a name="for-developers-located-outside-of-the-united-states"></a>Para desenvolvedores localizados fora dos Estados Unidos
@@ -75,3 +75,7 @@ Os formulários de imposto serão enviados a você por meio dos seguintes endere
 
 > [!NOTE]
 > Se você tiver dúvidas ou preocupações adicionais relacionadas aos **formulários de imposto IRS**, acesse [ajuda e suporte](https://partner.microsoft.com/dashboard/support/) no painel do Partner Center. A Microsoft não pode responder a perguntas relacionadas a circunstâncias específicas de seu imposto; para essas perguntas, consulte seu contador.
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Ser pago no marketplace comercial](marketplace-get-paid.md)

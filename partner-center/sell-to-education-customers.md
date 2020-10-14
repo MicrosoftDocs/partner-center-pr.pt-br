@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ace0147eb87786e38cb43e5e362790c227ed08b
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 59346026db6f8eb34f798146da88343e739dc510
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006835"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92032079"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Como vender ofertas para clientes de educação & como criar um cliente de educação no Partner Center
 
@@ -51,7 +51,7 @@ Este artigo explica como criar um cliente de educação no Partner Center e vend
 
 ### <a name="confirm-your-education-customers-verification-status"></a>Confirmar o status de verificação do seu cliente de educação
 
-Na página conta do cliente, consulte **status de qualificação especial**.
+Na página **conta** do cliente, consulte **status de qualificação especial**.
 Exemplos de status:
 
 - Se o cliente tiver passado a verificação: educação
@@ -90,7 +90,7 @@ Você deve ter privilégios de administrador global para atualizar as informaç�
 
 ### <a name="resubmit-for-verification"></a>Reenviar para verificação
 
-1. Navegue até a guia do centro do parceiro e para a página **conta** do cliente. Atualize o navegador. e verifique se a página da empresa foi atualizada para as novas informações. Selecione o botão **Atualizar** para solicitar a nova verificação de educação.
+1. Navegue até a guia do centro do parceiro e para a página **conta** do cliente. Atualize o navegador e verifique se a página da empresa foi atualizada para as novas informações. Selecione o botão **Atualizar** para solicitar a nova verificação de educação.
 
 2. Se os detalhes atualizados do cliente estiverem qualificados para ofertas educacionais, você verá as **qualificações especiais** atualizadas para **educação**. Se você ainda **não vir um cliente educativo**, entre em contato com o suporte para verificação manual.
 

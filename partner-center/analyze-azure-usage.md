@@ -1,6 +1,6 @@
 ---
 title: Analise o uso do Azure para ajudar a aumentar seus negócios
-description: Saiba como usar o Partner Center para obter dados sobre o uso de assinaturas do Azure de seus clientes.
+description: Saiba como usar o Partner Center para obter dados sobre o uso de assinaturas do Azure de seus clientes. Os dados incluem assinaturas vendidas, em risco e em uso.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: amitravat
@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 40d74e22463c522333e1bdb4116369f5f6c3937a
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 670146b30c953e579cb5a8638cdb820dd8262258
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367440"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031879"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Obtenha dados sobre o quão bem seus clientes e assinaturas do Azure estão fazendo
 

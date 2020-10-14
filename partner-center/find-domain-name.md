@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como localizar o nome de domínio e a ID de diretório do seu cliente ao enviar uma declaração.
+description: Saiba como localizar o nome de domínio e a ID de diretório do seu cliente no portal do Azure quando desejar enviar uma declaração de incentivos.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 7e1a757a8b8b38bab9a3fdd66a42fab8ab10749e
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 9bbfb4b278d2f33a4d31afd244355cab94bddd56
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545597"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031899"
 ---
 # <a name="find-your-customers-domain-name-and-directory-id-when-submitting-an-incentives-claim"></a>Localize o nome de domínio e a ID de diretório do seu cliente ao enviar uma declaração de incentivos
 
