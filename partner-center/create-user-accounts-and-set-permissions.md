@@ -1,22 +1,22 @@
 ---
 title: Criar contas de usuário e atribuir funções
 description: Cada funcionário deve ser atribuído a uma função antes que possa acessar o Partner Center. Saiba como criar contas de usuário, atribuir funções e definir permissões.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
+ms.custom: contperfq2
 author: parthpandyaMSFT
 ms.author: parthp
-ms.custom: SEOAPR.20
-ms.localizationpriority: high
-ms.date: 02/26/2020
-ms.openlocfilehash: 637e88205d9944f7220e227b5101220d94ed42db
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.localizationpriority: medium
+ms.date: 10/12/2020
+ms.openlocfilehash: 41f7f68c61630daf30595e28bd5de52f5a5787c8
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000430"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006771"
 ---
-# <a name="create-user-accounts-and-assign-roles-and-permissions"></a>Criar contas de usuário e atribuir funções e permissões
+# <a name="create-user-accounts"></a>Criar contas de usuário  
 
 **Funções apropriadas**
 
@@ -26,10 +26,9 @@ ms.locfileid: "91000430"
 
 Crie contas de usuário para os funcionários que precisam acessar o Partner Center. Essas tarefas precisam ser realizadas pelo administrador de gerenciamento de usuários, pelo administrador de contas ou pelo administrador global. O usuário que realiza essas tarefas também deve receber as funções do AAD (Azure Active Directory) do administrador de usuários ou do administrador global. Para saber mais sobre as funções do AAD, confira [Permissões de função de administrador no Azure Active Directory](/azure/active-directory/users-groups-roles/directory-assign-admin-roles).
 
-
 ## <a name="add-a-new-user"></a>Adicionar um novo usuário
 
-1. No ícone **Configurações** no canto superior direito do Partner Center, selecione **Gerenciamento de usuários**.
+1. No ícone **Configurações**, localizado no canto superior direito do Partner Center, selecione **Configurações de conta** e, em seguida, selecione **Gerenciamento de usuário**.
 
 2. Selecione **Adicionar usuário**.
 
@@ -42,38 +41,7 @@ Crie contas de usuário para os funcionários que precisam acessar o Partner Cen
 > [!IMPORTANT]  
 > Anote as novas informações de login do usuário exibidas nessa página. Certifique-se de copiar e enviar essas informações para o novo usuário, pois você não conseguirá acessá-las novamente mais tarde. 
 
-
-O usuário precisará entrar no Partner Center com seu nome de usuário e senha temporária. Quando o usuário entrar no Partner Center pela primeira vez, ele precisará alterar sua senha. 
-
-## <a name="find-the-role-youve-been-assigned"></a>Encontre a função que foi atribuída a você
-
-Caso o administrador global não tenha informado, será possível descobrir qual é a sua função no Partner Center fazendo o seguinte:
-
-1. Entre no [painel] do Partner Center em https://partner.microsoft.com/dashboard/home).
-
-1. Selecione o ícone **Configurações da conta** e clique em **Meu perfil**.
- 
-1. Selecione a guia **Funções e permissões**. Será possível conferir suas funções e permissões.
- 
-
->[!Note]
->Caso não veja um programa ao entrar, isso geralmente significa que você não tem as permissões corretas para trabalhar nele. Portanto, caso não veja a página de Incentivos ao entrar, você não tem permissão para obter Incentivos, por exemplo. O administrador global poderá fornecer as permissões necessárias.
-
-
-## <a name="find-your-global-admin"></a>Encontrar seu administrador global
-
-Às vezes, um usuário pode precisar mudar de função ou um novo usuário pode desejar obter uma atribuição de função específica.  
-Siga as seguintes etapas para encontrar um administrador global que possa fazer alterações de função ou atribuir funções a um novo usuário: no **ícone Configurações da conta**, no canto superior direito do Partner Center, selecione **Gerenciamento de usuários** e filtre por administrador global. Ou é possível acessar **Meu perfil**, selecionar **Funções e permissões** e conferir uma lista de diferentes administradores que podem ajudar você a elevar suas permissões. 
-
-
-## <a name="new-global-admin"></a>Novo administrador global
-
-Se o seu administrador global deixar a organização e outra pessoa precisar preencher essa função, você poderá enviar um tíquete para a equipe do Azure ou do Office 365. Para obter informações sobre como fazer isso, selecione uma das opções abaixo.
-
-[Novo administrador global do Azure](https://support.microsoft.com/help/4505981/what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company)
-
-[Novo administrador global do Office 365](https://admin.microsoft.com/)
-
+O usuário precisará entrar no Partner Center com seu nome de usuário e senha temporária. Quando o usuário entrar no Partner Center pela primeira vez, ele precisará alterar sua senha.
 
 ## <a name="assign-user-roles"></a>Atribuir funções de usuário
 
@@ -82,41 +50,6 @@ Para trabalhar no Partner Center, você precisará ter uma função atribuída. 
 >[!Important]
 >Os indivíduos precisam estar listados em seu locatário para acessar o Partner Center. As atribuições de função fornecem acesso adicional.
 
-
-**As funções de locatário do AAD incluem**:
-- Administrador global
-- Administrador de usuários
-
-**As funções do CSP incluem**:
-- Agente administrativo
-- Administrador de cobrança
-- Agente de vendas
-- Agente de suporte técnico
-
-**Funções que gerenciam a associação do MPN e a empresa (não AAD)**
-- Administrador de parceiros do MPN
-- Administrador de conta
-- Administrador de indicações
-- Administrador de perfis de negócios
-- Administrador e usuário de incentivos
-
-**O fornecedor de painel de controle é uma função de CSP e não AAD**.
-- Administrador global
-
-O **usuário convidado** precisa fazer parte do locatário do AAD e pode ter qualquer função que não seja do AAD.
-
-Para obter informações específicas sobre as funções e o que cada uma pode fazer, confira [Atribuir permissões de usuário](permissions-overview.md).
-
-## <a name="associate-a-users-microsoft-learn-account-in-partner-center"></a>Associar a conta do Microsoft Learn de um usuário no Partner Center
-
-Para ver os roteiros de aprendizagem e treinamento que os usuários estão seguindo em relação às competências, eles precisam associar a ID do MCP às suas respectivas contas do Partner Center. Como o administrador global, ao adicionar novos usuários, lembre-os de associar a ID do MCP às suas respectivas contas. 
-
-### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a>Como associar sua ID do MCP à sua conta do Partner Center
-
-1. No painel do Partner Center, selecione o ícone **Sua conta** no canto direito do painel e, em seguida, selecione **Meu perfil**.
-
-2. Em **Seu aprendizado**, será possível associar sua conta do Microsoft Learning e também conectar sua conta Microsoft à Partner University.
-
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Atribuir permissões e funções de usuários para os usuários de uma empresa que precisam trabalhar no Partner Center](permissions-overview.md)
+- [Atribuir funções e permissões de usuários para funcionários que precisam trabalhar no Partner Center](permissions-overview.md)
