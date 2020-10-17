@@ -1,7 +1,7 @@
 ---
-title: Informações de download do painel de relatório.
+title: Painel de relatório de download do insights
 ms.topic: article
-ms.date: 06/15/2020
+ms.date: 10/14/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Explore o painel de relatório unificado do Partner Center.
@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 311cff645487d613ed23d2109ed195822f8e021a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e59ace7ab52b7c08fb824e62f72b60dd1ce4df25
+ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436675"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92100756"
 ---
 # <a name="download-reports"></a>Baixar relatórios
 
@@ -34,7 +34,7 @@ Para gerar um relatório, primeiro selecione o relatório na lista suspensa **se
 
 :::image type="content" source="images/pci/create-new-report.png" alt-text="Criar novo relatório":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="Relatórios gerados":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="Criar novo relatório":::
 
 >[!NOTE] 
 >Somente os usuários que são visualizadores de relatórios executivos podem baixar relatórios. Para obter mais informações sobre o acesso baseado em função aos relatórios do painel do insights, consulte [funções de PCI](pci-roles.md). 
@@ -51,13 +51,13 @@ Os **detalhes do cliente** fornecem os detalhes dos clientes aos quais um parcei
 
 O **uso do Azure** fornece os detalhes de uso do Azure. Esses detalhes são para as assinaturas do Azure vendidas ou gerenciadas pelo parceiro. Os detalhes de uso são divididos por categoria de medidor e outras dimensões principais. O relatório é agregado mensalmente.
 
-**Office365-o uso de licenças** fornece os detalhes de uso das licenças do O365 vendidas ou gerenciadas pelo parceiro. Ele também fornece informações de clientes e métricas-chave, como direitos ativos, direitos qualificados e assim por diante. O relatório será agregado mensalmente.
+**Office365-o uso de licenças** fornece os detalhes de uso das licenças do O365 vendidas ou gerenciadas pelo parceiro. Ele também fornece informações de clientes e métricas-chave, como MAU (usuários ativos mensais), direitos qualificados e assim por diante. O relatório será agregado mensalmente.
 
-**Enterprise Mobility – o uso de licenças** fornece os detalhes de uso das licenças de mobilidade corporativa vendidas ou gerenciadas pelo parceiro. Ele também fornece informações de clientes e métricas-chave, como direitos ativos, direitos qualificados e assim por diante. O relatório é agregado mensalmente.
+**Enterprise Mobility – o uso de licenças**  fornece os detalhes de uso das licenças de mobilidade corporativa vendidas ou gerenciadas pelo parceiro. Ele também fornece informações de clientes e métricas-chave, como MAU (usuários ativos mensais), direitos qualificados e assim por diante. O relatório é agregado mensalmente.
 
-**Dynamics 365 – o uso de licenças** fornece os detalhes de uso das licenças D365 vendidas ou gerenciadas pelo parceiro. Ele também fornece informações de clientes e métricas-chave, como direitos ativos, direitos qualificados e assim por diante. O relatório é agregado mensalmente.
+**Dynamics 365 – o uso de licenças** fornece os detalhes de uso das licenças D365 vendidas ou gerenciadas pelo parceiro. Ele também fornece informações de clientes e métricas-chave, como MAU (usuários ativos mensais), direitos qualificados e assim por diante. O relatório é agregado mensalmente.
 
-**Power bi-o uso de licença** fornece os detalhes de uso de Power bi licenças vendidas ou gerenciadas pelo parceiro. Ele também fornece informações de clientes e métricas-chave, como direitos ativos, direitos qualificados e assim por diante. O relatório é agregado mensalmente.
+**Power bi-o uso de licença** fornece os detalhes de uso de Power bi licenças vendidas ou gerenciadas pelo parceiro. Ele também fornece informações de clientes e métricas-chave, como MAU (usuários ativos mensais), direitos qualificados e assim por diante. O relatório é agregado mensalmente.
 
 Os **treinamentos** fornecem detalhes como exames, certificações, avaliações, faixas, cursos concluídos ou consumidos por funcionários do parceiro.
 
