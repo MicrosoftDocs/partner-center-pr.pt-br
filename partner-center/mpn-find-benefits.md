@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 09/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Saiba como encontrar seus benefícios do MPN no painel do Partner Center.
+description: Saiba como encontrar seus benefícios do MPN no painel do Partner Center. Inclui informações sobre como encontrar sua ID de acesso e sua ID de contrato para benefícios técnicos.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 938197707c7a27e1485e9d22030cc4a94094197d
-ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
+ms.openlocfilehash: a7d53da2f83fcd5c85732b24843365717e66429d
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "89427113"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175326"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Localize seus benefícios do Microsoft Partner Network 
 
@@ -74,7 +74,7 @@ Para obter os benefícios técnicos, você verá identificações de suporte a p
 
    Você deve ver a **ID do contrato** de suporte ao produto específica e a **ID de acesso** atribuídas a esse benefício.  
 
-   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Exemplo de competência de núcleo Gold de suporte técnico mostrando IDs de suporte de produto da Microsoft, como ID de contrato e ID de acesso":::
+   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Benefícios expandidos":::
 
    > [!NOTE]
    > Mantenha o controle dessas IDs de suporte. Alguns sistemas podem solicitar a eles a primeira vez que você (ou um dos usuários da sua empresa) registra uma solicitação de suporte associada a um benefício técnico específico. Todos os usuários da sua empresa provavelmente usarão a mesma ID de acesso e ID de contrato.

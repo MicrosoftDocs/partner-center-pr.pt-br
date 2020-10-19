@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: O Partner Center do Microsoft Cloud Alemanha é o portal de negócios para parceiros da Microsoft que querem oferecer soluções na nuvem da Microsoft para clientes em países da UE e da EFTA.
+description: O Partner Center para Microsoft Cloud Alemanha é o portal de negócios para parceiros que desejam oferecer soluções de nuvem da Microsoft para clientes nos países da UE e do EFTA.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ae1b6fd59b9b19f8c59823c99a9d3dc00ae602e1
-ms.sourcegitcommit: ef7f08fa61245daf43fb5c25a1d440a48a8f3fc1
+ms.openlocfilehash: 606806f3796796873c37f6dfcac35e5993efe575
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92059634"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174986"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>Partner Center da Microsoft Cloud Alemanha for Partners que vende para clientes na UE & países EFTAs
 

@@ -1,6 +1,6 @@
 ---
 title: Análises do Partner Center – relatórios de CloudAscent propensation
-description: Saiba mais sobre os relatórios de CloudAscent propensation no painel do Partner Center.
+description: Saiba mais sobre os relatórios de CloudAscent propensation no Partner Center. Inclui informações sobre as propensações de um cliente para comprar produtos da Microsoft.
 ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,12 +8,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 09/18/2020
-ms.openlocfilehash: 510f85b053ec17fa0a2a66217a19c006e7ca2bc9
-ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+ms.openlocfilehash: fd017884c29df3874a06e8c4213c6fe5f05a8995
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "90811316"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175280"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>Relatórios de CloudAscent propensation disponíveis no painel do Partner Center
 
@@ -40,14 +40,14 @@ O segmento SMB (de pequeno a médio porte) é dividido em três subsegmentos dis
 
    Definimos duas maneiras principais não gerenciadas:
 
-   - **Com base em principais usuários não gerenciados**– inclui contas com 300 ou mais funcionários. As contas baseadas no usuário são ótimos alvos para compra pela primeira vez ou expansão de produtos de assinatura baseados no usuário, como M365, D365 ou Surface.
+   - **Com base em principais usuários não gerenciados**– inclui contas com 300 ou mais funcionários. User-Based contas são ótimos alvos para compra pela primeira vez ou expansão de produtos de assinatura baseados em usuário, como M365, D365 ou Surface.
    - **Base de computação não gerenciada superior** – inclui contas com o potencial do Azure maior que $10K. As contas baseadas em computação incluem o Azure existente. Acesse as contas com potencial do ano futuro e contas que ainda não compraram o Azure, mas têm potencial para o Azure com mais de US $10.000.
 
 2. Os **negócios médios** incluem clientes existentes e contas de clientes potenciais com 25 a 300 funcionários.
 
 3. A **pequena empresa** inclui todas as empresas restantes com menos de 25 funcionários.
 
-:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Cliente por tipo SMC.":::
+:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Captura de tela do painel de Resumo de oportunidades de clientes.":::
 
 Os principais subsegmentos de negócios **não gerenciados** e **médios** representam clientes LTV (valor de tempo de vida alta) para a Microsoft e parceiros da Microsoft. Portanto, elas são as áreas potenciais de foco para impulsionar o crescimento nesse segmento. Nesses dois subsegmentos, estamos mais bem posicionados para adquirir o soquete com M365, monetizar ainda mais com os aplicativos de LOB (linha de negócios) D365/Azure e percebem um LTV alto para a Microsoft.
 
@@ -55,7 +55,7 @@ Hoje temos duas áreas-chave de oportunidade – 1. nosso cliente adiciona cresc
 
 A captura de tela a seguir representa os três subsegmentos SMB e as rotas otimizadas para o mercado. CloudAscent priorize a criação de perfil, a pontuação e a modelagem de todas as principais contas de negócios não gerenciadas e médias.
 
-:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="Captura de tela de subsegmentos SMB.":::
+:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="Captura de tela do painel de Resumo de oportunidades de clientes.":::
 
 ## <a name="cloudascent-machine-learning"></a>Machine Learning CloudAscent
 
@@ -67,7 +67,7 @@ O SMB usa a tecnologia de aprendizado de máquina para orientar as previsões de
 
 - **Otimização**: o sistema de Machine Learning otimiza os modelos consumindo os dados de transação mensalmente e os dados de assinatura trimestral.  Usando os dados de ganho/perda, o Machine Learning ajusta os algoritmos e valida que os modelos estão funcionando conforme o esperado, comparando as recomendações de cluster às oportunidades trabalhadas no MSX.
 
-:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="Captura de tela do aprendizado de máquina SMB.":::
+:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="Captura de tela do painel de Resumo de oportunidades de clientes.":::
 
 ## <a name="cloudascent-propensity"></a>CloudAscent propensaity
 
@@ -91,7 +91,7 @@ Usando sinais coletados por meio de rastreadores da Web e dados fornecidos de v�
 
    - A pontuação da intenção é atualizada mensalmente.
 
-   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="Modelos de previsão do CloudAscent SMB.":::
+   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="Captura de tela do painel de Resumo de oportunidades de clientes.":::
 
 3. Clustering
 
@@ -121,7 +121,7 @@ Usando sinais coletados por meio de rastreadores da Web e dados fornecidos de v�
 
       4. Por fim, esses segmentos agrupam-se para formar clusters.  Por exemplo, a1, a2, a3, A4 forma o cluster Act Now.
 
-         :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="Modelos de CloudAscent.":::
+         :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="Captura de tela do painel de Resumo de oportunidades de clientes.":::
 
    Para esses clientes, é recomendável direcionar o Act agora e avaliar os clientes.
 
@@ -129,7 +129,7 @@ Usando sinais coletados por meio de rastreadores da Web e dados fornecidos de v�
 
 O gráfico a seguir fornece uma exibição de cada modelo de propensação dentro de CloudAscent:
 
-:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="Modelo de CloudAscent propensation.":::
+:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="Captura de tela do painel de Resumo de oportunidades de clientes.":::
 
 Os modelos de espaço em branco são compostos de previsões para clientes da Microsoft existentes onde não têm um produto e/ou são clientes novos de cliente potencial.
 

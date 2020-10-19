@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Explore o painel de treinamento do Partner Center.
+description: Explore o painel de treinamento do Partner Center. O treinamento é um dos relatórios disponíveis na área de informações de parceiros do Partner Center (PCI).
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 241f70f5abf597eccb4b85737967210c2d7728a8
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 10646cb4ecc6c48c5187c96740a2c05610c9d3cc
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220714"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175262"
 ---
 # <a name="trainings-dashboard"></a>Painel de treinamentos
 
@@ -49,13 +49,13 @@ A seção de resumo apresenta uma exibição de instantâneo numérico de vário
 
 O desempenho de treinamento apresenta a contagem mês a mês de indivíduos e os treinamentos concluídos por indivíduos em sua empresa. Ele é dividido por certificações, avaliações e exames na forma de um gráfico para o intervalo de datas selecionado. O eixo X representa os meses para o intervalo de datas selecionado. O eixo Y representa a contagem distinta de indivíduos e o número de treinamentos obtidos para o tipo de treinamento selecionado. Clique nas respectivas guias acima do gráfico para exibir a divisão por tipo de treinamento. Os dados do gráfico podem ser baixados por meio do ícone de download no formato. tsv para o intervalo de datas selecionado.
 
-:::image type="content" source="images/pci/td-training-performance.png" alt-text="Desempenho de treinamento":::
+:::image type="content" source="images/pci/td-training-performance.png" alt-text="Resumo":::
 
 ## <a name="individuals-performance"></a>Desempenho de indivíduos
 
 A seção desempenho dos indivíduos apresenta os detalhes de treinamentos feitos por indivíduos em sua empresa, para o intervalo de datas selecionado. Pesquise e selecione o nome de um indivíduo no painel esquerdo da seção. Os detalhes de treinamento para o indivíduo selecionado são exibidos no painel direito da seção.
 
-:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Desempenho do indiviual":::
+:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Resumo":::
 
 >[!NOTE] 
 > A seção de desempenho de pessoas está disponível apenas para usuários que são visualizadores de relatórios executivos. 

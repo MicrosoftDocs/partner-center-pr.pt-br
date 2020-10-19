@@ -2,17 +2,17 @@
 title: Entender os campos nas faturas de cobrança
 ms.topic: article
 ms.date: 05/18/2020
-description: Entenda os campos em seu arquivo de nota fiscal para cobrança do Partner Center.
+description: Entenda os campos em seu arquivo de nota fiscal para cobrança do Partner Center. as informações incluem campos e definições para todos os campos de fatura e campos de cobrança única.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cc2515a2658fbd4f47f45bcbe21dff710ed39ae0
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 634dc8c9f1d21b62aa0a7e75eb0d31742cd17729
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444944"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175331"
 ---
 # <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>Faturas de cobrança do Partner Center-saiba como ler a cobrança e os campos de encargo único
 
@@ -59,7 +59,7 @@ Os campos a seguir se aplicam somente a **encargos únicos** no Partner Center:
 | Campo | Definição |
 | ----- | ---------- |
 | Data | Data da compra. |
-| Description | Nome do produto. |
+| Descrição | Nome do produto. |
 | Quantidade | O número de produtos (como reservas) adquiridos. |
 | Preço unitário | Preço por produto (como uma reserva). |
 | Descontos | Qualquer desconto aplicável. |

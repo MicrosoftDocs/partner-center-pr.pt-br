@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 07/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Gerenciar vários locatários por meio de sua conta do Partner Center
+description: Saiba como adicionar, consolidar ou gerenciar vários locatários do Azure AD em sua conta do Partner Center. Saiba também sobre alguns dos motivos pelos quais você pode querer fazer isso.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecdfcbd4801bee34be298030016d7366b12d7db3
-ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
+ms.openlocfilehash: b9379ce6b27a8ef6e5d6894a0630745794e04e04
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "88846946"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175162"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Adicionar e gerenciar vários locatários em sua conta do Partner Center
 
@@ -50,7 +50,7 @@ Esse recurso permite que você gerencie vários locatários para sua empresa e c
 
 1. Como administrador global, entre no locatário que você deseja associar e confirme a associação. 
 
-:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="confirmar os locatários associados"::: 
+:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="associar locatários"::: 
 
 5. Depois de confirmar, você verá um aviso de **tudo definido** .  Selecione **retornar ao gerenciamento de locatário** e você verá o locatário recém-adicionado listado. 
  

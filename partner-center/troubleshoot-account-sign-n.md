@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 08/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Solucionar problemas com o registro no Partner Center
+description: Solucionar problemas ao tentar se registrar no Partner Center. Responde a desafios de endereços com métodos de pagamento, esquecer senhas e muito mais.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 403899b73dda09dded582c94cabe4219ef56c568
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d990a2cb4dcb69dfc76e8a4f0d40fd4912b4f8a0
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000610"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174844"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Solucionar problemas de configuração de conta ou de renovação de MPN
 
@@ -31,7 +31,7 @@ Aqui estão algumas sugestões para solucionar problemas comuns que surgem ao co
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>O que acontece se você estiver migrando do centro de associação de parceiro e não for possível editar os campos de informações da empresa
 
-Nos casos em que sua empresa já tem uma presença no Partner Center (digamos, conta CSP) – você verá uma tela somente leitura que exibirá todas as informações sobre a sua empresa, já que ela existe no Partner Center.
+Nos casos em que sua empresa já tem uma presença no Partner Center (digamos, conta CSP) – você verá uma tela somente leitura. Esta tela exibirá todas as informações sobre sua empresa, pois elas existem no Partner Center.
 
 Você não pode alterar os detalhes nesta tela. Isso é por design e não é um erro.
 
@@ -40,8 +40,7 @@ Selecione **aceitar** e **continuar** para continuar.
 
 ### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Se o departamento de TI tiver desativado a **inscrição no Partner Center**.
 
-
-Você vê essa mensagem porque os usuários viral estão desabilitados ou a inscrição viral está desabilitada no locatário do Azure AD. O administrador global da sua conta do Azure AD pode habilitar os recursos necessários executando o seguinte comando do PowerShell:
+Você vê essa mensagem porque os usuários viral estão desabilitados ou porque a inscrição viral está desabilitada no locatário do Azure AD. O administrador global da sua conta do Azure AD pode habilitar os recursos necessários executando o seguinte comando do PowerShell:
 
 **Set-MsolCompanySettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
 
@@ -49,9 +48,9 @@ Para obter mais informações, leia [inscrição de autoatendimento](/azure/acti
 
 ## <a name="you-forgot-your-password"></a>Você esqueceu sua senha
 
-Se você esqueceu sua senha, selecione o link **não consegue acessar sua conta?** na página de entrada para redefinir sua senha ou peça ao administrador global para atribuir novas credenciais.
+Se você esqueceu sua senha, selecione o link **não consegue acessar sua conta?** na página de entrada. Essa opção permite que você Redefina sua senha ou peça ao administrador global para atribuir novas credenciais.
 
-## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Na tela "Conte-nos sobre sua empresa", você recebe um erro "algo deu errado"
+## <a name="on-the-tell-us-about-your-company-scree-you-receive-a-something-went-wrong-error"></a>Na scree "Conte-nos sobre sua empresa", você recebe um erro "algo deu errado"
 
 Essa mensagem de erro geralmente aparece se você usar inadvertidamente caracteres especiais, espaços ou código de país no número de telefone da empresa. O valor inserido no campo número de telefone pode conter apenas um máximo de 10 caracteres.
 

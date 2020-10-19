@@ -2,19 +2,19 @@
 title: Ser creditado para a retenção de imposto
 ms.topic: article
 ms.date: 06/05/2020
-description: Receba crédito em sua conta do Partner Center para retenção de imposto
+description: Receba crédito em sua conta do Partner Center para retenção de imposto. As informações incluem etapas para enviar uma solicitação de retenção de imposto.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98318b193691ebb50011a66c9caadd2f1ac61e8d
-ms.sourcegitcommit: d407cdf36ddb634cf209579797b08fd81cf453ea
+ms.openlocfilehash: cd718377fad435b72ff62e61604f58a3d302dc11
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/15/2020
-ms.locfileid: "88251268"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174932"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Receba crédito em sua conta do Partner Center para retenção de imposto
 
@@ -45,9 +45,7 @@ Siga estas etapas para enviar uma nova retenção de imposto:
 
 4. Examine os detalhes da fatura para garantir que você está enviando a solicitação para a fatura correta.
 
-   :::image type="content" source="images/wht2.png" alt-text="Detalhes de retenção de imposto completos para uma fatura":::
-
-5. Insira o "total de retenção" em **detalhes de retenção de imposto**. O "total de retenção" é o valor que você espera que seja creditado.
+   :::image type="content" source="images/wht2.png" alt-text="Enviar nova retenção de imposto para uma fatura" é o valor que você espera que seja creditado.
 
 6. **Anexe** um certificado de imposto. Você precisará incluir uma **cópia digital** do seu **certificado de retenção** de imposto em sua solicitação de retenção de imposto. Você recebeu esse certificado de sua agência de impostos local ao pagar seus impostos à sua autoridade de imposto local. O valor do imposto sobre a fatura no certificado de retenção de imposto deve corresponder ao valor total em sua solicitação de retenção de imposto.
 

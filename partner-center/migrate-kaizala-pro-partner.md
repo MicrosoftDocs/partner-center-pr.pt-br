@@ -1,18 +1,18 @@
 ---
 title: Migrar assinaturas do Kaizala pro para o Microsoft365
-description: Saiba como migrar assinaturas do Kaizala pro para as versões do Microsoft365 ou do Office 365.
+description: Saiba como migrar assinaturas do Kaizala pro para as versões do Microsoft365 ou do Office 365. Leia este artigo para obter mais detalhes sobre a transição de seus clientes.
 ms.topic: article
 ms.service: partner-dashboard
 ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 842f4c0f88eec370821fa05c40cfadeee7fee12a
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 0807931ae95b5c7d76f4ad33708cc8014412f55f
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84611232"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175168"
 ---
 # <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft365-or-office-365-versions"></a>Migrar assinaturas autônomas do Kaizala pro para as versões do Microsoft365 ou do Office 365
 
@@ -29,28 +29,28 @@ As assinaturas do E4 serão definidas `auto renew=False` em 1º de julho de 2020
 Com os novos planos, os clientes podem aproveitar os recursos e as funcionalidades mais recentes no Microsoft 365. Detalhes de preço são encontrados na lista de preços e oferecem a matriz de lista no Partner Center.
 
 - [**Microsoft 365 para negócios**](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2), incluindo:  
-   - Microsoft 365 Business Basic
-   - Padrão de Microsoft 365 Business
+   - Microsoft 365 Business Basic
+   - Microsoft 365 Business Standard
    - Microsoft 365 Business Premium
     
 - [**Microsoft 365 para frente**](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot:overviewtab), incluindo:
-   - Microsoft 365 F3 (anteriormente Microsoft 365 F1) e Office 365 F3
+   - Microsoft 365 F3 (antigo Microsoft 365 F1) e Office 365 F3
     
 - [**Microsoft 365 para empresas**](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans), incluindo: 
    - Office 365 E1
    - Microsoft 365 E3 e Office 365 E3
-   - Microsoft 365 E5 e Office 365 e5
+   - Microsoft 365 E5 e Office 365 E5
 
 - [**Microsoft 365 para educação**](https://www.microsoft.com/education/buy-license/microsoft365), incluindo: 
-    - Microsoft 365 a1 e Office 365 a1
-    - Microsoft 365 a3 e Office 365 a3
-    - Microsoft 365 a5 e Office 365 a5
+    - Microsoft 365 A1 e Office 365 A1
+    - Microsoft 365 A3 e Office 365 A3
+    - Microsoft 365 A5 e Office 365 A5
 
 ## <a name="transition-customers-to-new-product-plans"></a>Transição dos clientes para novos planos do produto
 
 A Microsoft oferece continuamente novos produtos e serviços para nossos parceiros. Nesses casos, você pode precisar fazer o upgrade dos clientes para novos serviços ou migrar as assinaturas de SKUs que serão encerradas em breve. A migração dos clientes de SKUs desativadas para as mais recentes requer as seguintes etapas:
 
-A. Comprar a nova assinatura
+a. Comprar a nova assinatura
 
 B. Reatribuir as licenças de usuário atuais
 
@@ -59,7 +59,7 @@ C. Cancelar a assinatura antiga
 
 ## <a name="migrate-your-customers-to-new-plans"></a>Migrar seus clientes para novos planos
 
-### <a name="a-purchase-the-new-subscription"></a>A. Comprar a nova assinatura
+### <a name="a-purchase-the-new-subscription"></a>a. Comprar a nova assinatura
 
 1. Para comprar a nova assinatura, no menu do **Partner Center** , selecione **clientes**, selecione o cliente que você deseja mover e, em seguida, selecione **adicionar assinaturas**.
 

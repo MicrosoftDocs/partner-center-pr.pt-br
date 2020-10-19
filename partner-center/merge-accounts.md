@@ -1,17 +1,17 @@
 ---
 title: Mesclar sua conta de parceiro com outra conta de parceiro
-description: As empresas que estão ativas parceiros da Microsoft no Partner Center podem mesclar suas contas.
+description: Saiba como mesclar sua conta de parceiro com outra conta de parceiro no Partner Center-para empresas que estão ativas parceiros da Microsoft no Partner Center.
 ms.topic: article
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 6c2ac5560b77528766a4d0aa068f231e0aa0bc99
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: d38c11e564d6776a5755f8df40ba6ad2dca27d12
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444961"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175186"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Mesclar sua conta de parceiro com outra conta de parceiro
 

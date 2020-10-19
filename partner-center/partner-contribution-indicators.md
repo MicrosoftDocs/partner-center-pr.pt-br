@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 09/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba mais sobre os sete principais indicadores de contribuição do parceiro (PCI) que mostram como você está fazendo com o engajamento do cliente do Dynamics 365 ou as operações e finanças do Dynamics 365.
+description: Saiba mais sobre sete indicadores de contribuição de parceiros (PCI) que mostram como você está fazendo com o engajamento do cliente do Dynamics 365 ou as operações e finanças do Dynamics 365.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e1c0c4e0f332e771415e9360e4eeaf756f00a8e
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 198e73432bd4ed14aa56a2df9bd7f43af6e12cbd
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714280"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175025"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>Indicadores de contribuição do parceiro (PCI) mostram impacto sobre o parceiro em sete principais medidas de sucesso do cliente
 
@@ -89,7 +89,7 @@ Cada indicador traz uma pontuação que é adicionada ao total. Aqui estão as p
 |Sucesso do cliente-crescimento mensal do usuário ativo  | 25 pontos |
 
 A imagem a seguir oferece uma referência visual rápida.
-:::image type="content" source="images/pci/perfnew.png" alt-text="Mostra um gráfico com as pontuações máximas possíveis para cada um dos sete indicadores de contribuição de parceiro (PCI)." border="false":::
+:::image type="content" source="images/pci/perfnew.png" alt-text="Mostra pontuações de PCI para atingir competência Silver ou ouro." border="false":::
 
 ## <a name="thresholds-for-each-pci-metric"></a>Limites para cada métrica de PCI
 
@@ -111,7 +111,7 @@ Consulte as seguintes tabelas para obter detalhes:
 | Métrica de PCI | Indicador de desempenho: nova receita de rede | Indicador de desempenho: adições de novos clientes | Indicador de capacidade: consultores funcionais | Indicador de capacidade: crescimento funcional do consultor | Indicador de funcionalidade: desenvolvedores | Indicador de sucesso do cliente: novas implantações grandes | Indicador de sucesso do cliente: crescimento mensal ativo do usuário |
 |---|---|---|---|---|---|---|---|
 | **Máximo de pontos** | 10 pontos | 10 pontos | 15 pontos | 15 pontos | 5 pontos | 20 pontos | 25 pontos |
-| **Vela** | $300000 | 10 pontos | 10 pontos | *\* Consulte a observação* | 5 pontos | 5 pontos | 25% |
+| **Vela** | USD 300.000 | 10 pontos | 10 pontos | *\* Consulte a observação* | 5 pontos | 5 pontos | 25% |
 | **Desenvolvimento** | $150000 | 5 pontos | 5 pontos |*\* Consulte a observação* | 2 pontos | 1 ponto | 25% |
 
 *\* Observação: os destinos de crescimento diferem com base no número de consultores de linha de base. Consulte a [tabela 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) para obter metas de crescimento.*
@@ -122,7 +122,7 @@ Consulte as seguintes tabelas para obter detalhes:
 | Métrica de PCI | Indicador de desempenho: nova receita de rede | Indicador de desempenho: adições de novos clientes | Indicador de capacidade: consultores funcionais | Indicador de capacidade: crescimento funcional do consultor | Indicador de funcionalidade: desenvolvedores | Indicador de sucesso do cliente: novas implantações grandes | Indicador de sucesso do cliente: crescimento mensal ativo do usuário |
 |---|---|---|---|---|---|---|---|
 | **Máximo de pontos** | 10 pontos | 10 pontos | 15 pontos | 15 pontos | 5 pontos | 20 pontos | 25 pontos |
-| **Vela** | $300000 | 3 pontos | 15 pontos | *\* Consulte a observação* | 5 pontos | 3 pontos | 25% |
+| **Vela** | USD 300.000 | 3 pontos | 15 pontos | *\* Consulte a observação* | 5 pontos | 3 pontos | 25% |
 | **Desenvolvimento** | $150000 | 1 ponto | 5 pontos |*\* Consulte a observação* | 2 pontos | 1 ponto | 25% |
 
 *\* Observação: os destinos de crescimento diferem com base no número de consultores de linha de base. Consulte a [tabela 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) para obter metas de crescimento.*
@@ -313,7 +313,7 @@ A imagem a seguir mostra como ler algumas das áreas e gráficos na página indi
 
 Para obter mais informações sobre como usar essa área, consulte a coleção de recursos e vídeos encontrados no final deste artigo.
 
-   :::image type="content" source="images/pci/howto.png" alt-text="Como ler o gráfico":::
+   :::image type="content" source="images/pci/howto.png" alt-text="Mostra pontuações de PCI para atingir competência Silver ou ouro.":::
 
 ## <a name="next-steps"></a>Próximas etapas
 

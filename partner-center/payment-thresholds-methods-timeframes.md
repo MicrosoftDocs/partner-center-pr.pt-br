@@ -1,18 +1,18 @@
 ---
 title: Detalhes de pagamento por região — marketplace comercial da Microsoft
-description: Saiba mais sobre os quadros de tempo de pagamento e as lojas online da Microsoft dos quais você pode receber pagamentos, que podem variar dependendo do seu país, região e tipo de conta de pagamento.
+description: Saiba mais sobre os quadros de tempo de pagamento e as lojas online da Microsoft em que você pode receber pagamentos. Eles podem variar de acordo com seu país, região e tipo de conta de pagamento.
 author: mingshen-ms
 ms.author: mingshen
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 ms.date: 09/02/2020
-ms.openlocfilehash: 104fecead2d88ffbef593d6fd55c1f26056c88ad
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: cebd24d3709b622256469ab5e2af3e5cd6b80175
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91335637"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175303"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>Limites, métodos e períodos de pagamento
 
@@ -196,4 +196,4 @@ Esses são os países e regiões em que os métodos de pagamento acima são usad
 
 ## <a name="next-step"></a>Próxima etapa
 
-- [Instruções de pagamento](payout-statement.md)
+- [Demonstrativos de pagamento](payout-statement.md)

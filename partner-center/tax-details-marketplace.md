@@ -1,17 +1,17 @@
 ---
 title: Detalhes de impostos do marketplace comercial da Microsoft
-description: Para entender suas considerações sobre impostos na seleção de preços, implicações de pagamento e responsabilidade fiscal, consulte seus países/regiões de distribuição nas tabelas a seguir.
+description: Consulte essas tabelas para saber mais sobre as considerações de impostos para seleção de preços, implicações de pagamento e responsabilidade de impostos para seus países/regiões de distribuição.
 ms.topic: conceptual
 ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 05/04/2020
-ms.openlocfilehash: 3e350074b08a435ea913f9462702602d1a7c04e8
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 161c524cb3c20b2d17e4bb265cc676acc1af2702
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007478"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175005"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Detalhes de impostos para editores do marketplace comercial
 
