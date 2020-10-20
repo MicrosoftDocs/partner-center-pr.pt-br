@@ -9,14 +9,14 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 52f123f06da283036fa7758afd335768323594e4
-ms.sourcegitcommit: c47213f585b3cbc12ba0f7251fb44d1412815130
+ms.openlocfilehash: 4b8d849de6987e107c327d2fd2dcf892fae5a3f3
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/12/2020
-ms.locfileid: "91952372"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198032"
 ---
-# <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Gerenciar oportunidades de venda no Partner Center para definir negócios e atender melhor às necessidades dos clientes
+# <a name="manage-co-sell-opportunities-in-partner-center"></a>Gerenciar oportunidades de venda conjunta no Partner Center
 
 **Aplica-se a**
 
@@ -198,7 +198,7 @@ A tabela a seguir mostra as combinações de quem pode ser convidado neste está
 
 |**Tipo de negócio original**|**Quem pode ser convidado**|**Observações**|
 |-----|:-----|:-----|
-|Particular|Microsoft e/ou outros parceiros|O negócio será atualizado para ser comercializado se a Microsoft for convidada.|
+|Privados|Microsoft e/ou outros parceiros|O negócio será atualizado para ser comercializado se a Microsoft for convidada.|
 |Venda conjunta|Outros parceiros|Outros parceiros poderão ser convidados somente se sua empresa tiver iniciado o negócio. Os parceiros não podem ser convidados para as negociações na guia de entrada.|
 |Parceiro para parceiros sem a Microsoft|Microsoft|O negócio será atualizado para um negócio de venda conjunta.|
 |Parceiro para parceiros sem a Microsoft|Outros parceiros||
