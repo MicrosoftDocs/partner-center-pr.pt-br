@@ -1,7 +1,7 @@
 ---
 title: Exibir os detalhes do incentivo e do programa
 ms.topic: article
-ms.date: 08/17/2020
+ms.date: 10/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Use essas páginas para exibir, gerenciar e exportar detalhes de pagamento e de ganhos, bem como o status do programa e o histórico de transações completas.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 0abc7235c091620650d3288ef228a3d009c016e0
-ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+ms.openlocfilehash: 11a37c0f0ac9218ec488441948faaa7b665bf0f3
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "91406339"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198082"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Exibir, gerenciar e exportar os detalhes do programa de incentivos
 
@@ -116,7 +116,7 @@ O mês de pagamento estimado está disponível atualmente para todos os tipos de
 
 #### <a name="estimated-payment-month-example"></a>Exemplo de mês de pagamento estimado
 
-| Month | Valor |
+| Mês | Amount |
 | ------ | :-----------: |
 |  Setembro de 2020 |  $7273.99   |
 |  Outubro de 2020 | $8692.30  |
@@ -198,17 +198,23 @@ Essa opção fornece um download de cada item de linha de produção que você v
 >- **lastPaymentCurrency**  A moeda na qual o pagamento mais recente foi recebido, em todo o MPNs ao qual o parceiro que está conectado no momento tem acesso. Se nenhum pagamento for recebido, a última moeda de pagamento será de US $100,00.
 >- **earningAmountInLastPaymentCurrency**  O valor de conquista na última moeda de pagamento.
 
+A tabela a seguir lista os códigos de motivo para ajustes e suas descrições.
+
+|**Código de motivo**   |**Descrição**   |
+|------------------|:-------------------------------------|
+| Conformidade com o AR | Ajuste que reduz os ganhos quando as faturas da Microsoft não são pagas no tempo pelo parceiro. |
+| Substituição de cooperação | Ajuste que transfere os ganhos de cooperação para outro período ou converte os ganhos de cooperação no reembolso. |
+| Ajuste de Ops | Ajuste que corrige erros de cálculo do sistema da Microsoft. |
+| Cálculo incorreto do Microsoft ajuste de Ops | Ajuste que corrige os incorretos de cálculos. |
+| Registro incorreto do Microsoft ajuste de Ops | Ajuste para o registro de inscrições relacionados. |
+| MCI/CSP de mapeamento de parceiro (assinatura) | Ajuste que corrige o desalinhamento da assinatura. |
+| Exceção de política | Ajuste que substitui uma regra de programa.  |
+| Ganhos do período anterior | Ajuste para ganhos fora do período de conquista atual. |
+
+A tabela a seguir lista os campos exibidos na página de exportação de download do histórico de transações e suas descrições.
 
 |**Nome da coluna**   |**Descrição**   |
 |------------------|:-------------------------------------|
-| Conformidade com o AR | Ajuste que reduz os ganhos quando as faturas da Microsoft não são pagas no tempo pelo parceiro |
-| Substituição de cooperação | Ajuste que transfere os ganhos de cooperação para outro período ou converte os ganhos de cooperação no reembolso |
-| Cálculo incorreto do Microsoft ajuste de Ops | Ajuste que corrige os incorretos de cálculo |
-| Registro incorreto do Microsoft ajuste de Ops | Ajuste para os inscrições relacionados ao registro |
-| Exceção de política | Ajuste que substitui uma regra de programa  |
-| Ajuste de Ops | Ajuste que corrige erros de cálculo do sistema da Microsoft |
-| Ganhos do período anterior | Ajuste para ganhos fora do período de conquista atual |
-| MCI/CSP de mapeamento de parceiro (assinatura) | Ajuste que corrige o desalinhamento da assinatura |
 |customerId   |Identificador do cliente   |
 |customerName   |Nome do cliente da transação   |
 |earningAmount   |Conquistando valor na moeda da transação original   |
