@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 391602651976500576f13824bfebc6e06fec40a2
-ms.sourcegitcommit: 9359f92fb7d3965374eb095ebf68fd6a94ec4943
+ms.openlocfilehash: 32df86887ccbea5d18d1bd8c7c34add2b1ab60e4
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/21/2020
-ms.locfileid: "90832109"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006806"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Atribuir permissões e funções de usuários para os usuários de uma empresa que precisam trabalhar no Partner Center
 
@@ -52,7 +52,7 @@ Você determinará os tipos de acesso que os usuários terão ao Partner Center 
 ||*    Criar tíquetes de suporte para o Partner Center
 ||*    Ver os tíquetes de suporte do parceiro que você criar
 |Usuário padrão|  Exibir meu perfil   |[Redefinir sua senha](reset-my-pasword.md)
-|Agente administrativo | *    Gerenciamento de clientes|[Configuração e gerenciamento da conta do cliente para parceiros revendedores no Partner Center](customer-accounts.md)
+|Agente administrativo | *    Gerenciamento de clientes|[Conectar-se com seus clientes](connect-with-your-customers.md)
 ||*    Adicionar lista de dispositivos ao Partner Center
 ||*    Criar e aplicar perfis aos dispositivos
 ||*    Gerenciamento de assinaturas

@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: 4cd39cfe3d927fbcaea3afc69c9e1844fc7917d7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7f2f612d0f448810049daf4dc2ea08a054e2a2c0
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999260"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92197992"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>Gerenciar sua conta do Partner Center – perfis da empresa, informações bancárias, funções, permissões e muito mais
 
@@ -53,7 +53,7 @@ O Partner Center hoje tem gerenciamento de contas em duas seções diferentes: *
 >[!NOTE]
 >Para acessar as **Configurações de parceiro** ou as **Configurações de desenvolvedor**, é preciso entrar no [painel](https://partner.microsoft.com/dashboard) do Partner Center e selecionar a opção **Configurações** (ícone de engrenagem) no canto superior direito da tela. Em seguida, você poderá selecionar **Configurações de parceiro** ou **Configurações de desenvolvedor** no menu suspenso.
 
-:::image type="content" source="images/accountsettings/account1.png" alt-text="Configurações de conta":::
+:::image type="content" source="images/accountsettings/account1.png" alt-text="menu de programas em que você está registrado":::
 
 Os parceiros podem ver a opção de gerenciamento de **Configurações de parceiro** e/ou **Configurações de desenvolvedor**, dependendo se a empresa deles foi registrada nesses programas. A opção de configurações só estará disponível se sua empresa estiver registrada em pelo menos um programa associado a essa configuração.
 
@@ -85,11 +85,11 @@ As opções de **Configurações de parceiro** serão diferentes das opções de
 
 **Opções de configurações de parceiro**:
 
-:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="opções de parceiro":::
+:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="menu de programas em que você está registrado":::
 
 **Opções de configurações de desenvolvedor**:
 
-:::image type="content" source="images/accountsettings/devoptions.png" alt-text="opções de desenvolvedor":::
+:::image type="content" source="images/accountsettings/devoptions.png" alt-text="menu de programas em que você está registrado":::
 
 ## <a name="enrolling-in-programs"></a>Registrar-se em programas
 
@@ -108,7 +108,7 @@ Para saber mais sobre o registro em programas do Partner Center, confira também
 
 Você pode fazer parte de mais de uma conta. Se você fizer parte de várias contas, verá o "seletor de conta" no menu de navegação à esquerda. Se você selecionar o seletor de conta, todas as contas das quais você é membro serão exibidas como uma lista. Você pode selecionar qualquer uma delas e alternar para a conta em que você verá todos os programas e informações que pertencem a essa conta. Se você não está vendo um seletor de conta, você é um membro de uma única conta.
 
-:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="seletor de conta":::
+:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="menu de programas em que você está registrado":::
 
 ## <a name="other-resources-to-help-you-manage-your-partner-center-account"></a>Outros recursos que ajudam a gerenciar a conta do Partner Center
 
