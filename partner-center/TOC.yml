@@ -1,10 +1,11 @@
-- name: Sobre o Microsoft Partner Center
+- name: Documentação do Microsoft Partner Center
   href: index.yml
 - name: Comunicados
   href: announcements/TOC.md
 - name: Associação ao Partner Network
-  href: mpn-overview.md
   items:
+    - name: Parceiro da Microsoft
+      href: mpn-overview.md
     - name: Criar uma conta do Partner Center
       href: mpn-create-a-partner-center-account.md
     - name: Obter um email de trabalho
@@ -99,9 +100,9 @@
       href: regional-authorization-overview.md
     - name: Instruções para a consolidação de locatários de autorização regional do CSP
       href: csp-regional-authorization-tenant-consolidation.md
-    - name: Visão geral – a nova maneira de confirmar a aceitação do cliente do Contrato de Cliente da Microsoft
+    - name: Atualizar o método para confirmar a aceitação do Contrato de Cliente da Microsoft
       href: confirm-consent.md
-    - name: Como confirmar a aceitação do cliente do Contrato de Cliente da Microsoft
+    - name: Confirmar a aceitação do Contrato de Cliente da Microsoft
       href: confirm-customer-agreement.md
     - name: Quando confirmar a aceitação do Contrato de Cliente em nome de um cliente
       href: attest-acceptance-customer-agreement.md
@@ -120,9 +121,9 @@
           href: csp-gcc-overview.md
         - name: Critérios de qualificação de parceiros e clientes do Office 365 Government GCC
           href: csp-gcc-validate.md
-        - name: Gerenciamento de usuário e licença no Partner Center for Microsoft Cloud Germany
+        - name: Gerenciamento de usuários e licenças do Microsoft Cloud Germany
           href: user-management-in-partner-center-for-microsoft-cloud-germany.md
-        - name: Gerenciamento de licença e usuários no Partner Center do Microsoft Cloud for US Government
+        - name: Gerenciamento de usuários e licenças do Microsoft Cloud for US Government
           href: user-management-in-partner-center-for-microsoft-us-govt-cloud.md
 - name: Gerenciar uma conta do Partner Center
   items:
@@ -182,7 +183,7 @@
           href: customize-the-catalog.md
 - name: Indicações
   items:
-    - name: Ajude a aumentar os negócios
+    - name: Amplie seu negócio
       href: grow-your-business.md
     - name: Visão geral das indicações
       href: referrals.md
@@ -251,6 +252,9 @@
         - name: Crie seu comprovante de execução
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
+        - name: Enviar uma fatura de tributo como PoE
+          href: incentives-tax-invoice-poe.md
+          displayName: incentives
     - name: Solicitações de cooperação de incentivos
       items:
         - name: Solicitações de cooperação de incentivo
@@ -306,7 +310,7 @@
           href: common-billing-scenarios-annual.md
         - name: Cenários de cobrança única e de seleção de encargos recorrentes
           href: common-billing-scenarios-onetime-recurring.md
-        - name: Faturas de cobrança – Leia os campos de cobrança e taxa única
+        - name: Entenda as faturas de cobrança
           href: invoice-file.md
         - name: Cobrança baseada em licença
           href: license-based-billing.md
@@ -327,7 +331,7 @@
           href: vat-info.md
         - name: Receber crédito por retenção de imposto
           href: withholding-tax-credit-form.md
-        - name: Imposto regional – serviços de voz
+        - name: Tributos regionais para serviços de voz
           href: tax-and-fees-voice-services.md
         - name: Detalhes de impostos para editores do marketplace comercial
           href: tax-details-marketplace.md
@@ -367,7 +371,7 @@
       href: request-a-relationship-with-a-customer.md
     - name: Remover um relacionamento de revendedor com um cliente
       href: remove-a-relationship.md
-    - name: Os clientes delegam ou revogam privilégios administrativos de parceiros
+    - name: Obter privilégios de administração delegada de um cliente
       href: customers-revoke-admin-privileges.md
     - name: Veja sua lista de clientes
       href: see-your-customer-list.md
@@ -418,7 +422,7 @@
     - name: Plano do Azure
       href: azure-plan-lp.md
       items:
-        - name: Plano do Azure – introdução
+        - name: Visão geral do plano do Azure
           href: azure-plan-get-started.md
         - name: Comprar o plano do Azure
           href: purchase-azure-plan.md
@@ -426,7 +430,7 @@
           href: compare-azure-offers.md
         - name: Transferir seus clientes para o plano do Azure
           href: azure-plan-transition.md
-        - name: Crédito ganho pelo parceiro – visão geral
+        - name: Crédito ganho pelo parceiro
           href: partner-earned-credit.md
         - name: Como o crédito ganho pelo parceiro é calculado e pago
           href: partner-earned-credit-explanation.md
@@ -459,13 +463,13 @@
           href: sell-marketplace-products.md
         - name: Atribuir assinaturas do Azure no Partner Center
           href: assign-azure-subscriptions.md
-        - name: Atribuir licenças aos usuários
+        - name: Gerenciar usuários e licenças
           href: assign-licenses-to-users.md
         - name: Adicionar licenças ou serviços a uma assinatura existente
           href: add-licenses-or-services-to-an-existing-subscription.md
         - name: Atribuir ou revogar licenças para vários usuários
           href: bulk-license-provisioning-for-multiple-users.md
-        - name: Mover os clientes de serviços baseados em licença para o programa de Provedor de serviços de nuvem
+        - name: Migrar clientes de serviços baseados em licença para o Programa CSP
           href: transition-seat-based-services.md
         - name: 'Vender assinaturas do Minecraft: Education Edition'
           href: minecraft-subscriptions.md
