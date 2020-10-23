@@ -1,19 +1,19 @@
 ---
 title: Perguntas frequentes sobre o pagamento de incentivos e o perfil fiscal
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 10/22/2020
 description: Perguntas frequentes sobre o pagamento de incentivos e perfis de impostos. As perguntas incluem por que você não pode ver seus perfis de pagamento e de impostos e o que fazer a respeito.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: de150c34f92fd74d7a593d90d2e23fdacc6b425d
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: f4335bc77acf0e73092de0441cc6254b11c62bb3
+ms.sourcegitcommit: a46ab876baf681c2fa4f9a2876d29c2ba4aad648
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175341"
+ms.lasthandoff: 10/23/2020
+ms.locfileid: "92454148"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>Perguntas frequentes sobre o pagamento de incentivos e perfis de impostos
 
@@ -24,8 +24,34 @@ Aplica-se a:
 Funções apropriadas:
 
 - Administrador de incentivos
-- Administrador de cobrança
+- Administrador de conta
 - Administrador global
+
+## <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Meu perfil de imposto expirou. Como fazer corrigir isso?
+
+Se um perfil de imposto expirar ou estiver prestes a expirar, significa que o formulário de imposto que você forneceu à Microsoft precisa ser atualizado. Use o procedimento a seguir para editar os perfis de impostos:
+
+1. Entre no painel [Partner Center](https://partner.microsoft.com/dashboard/).
+
+2. Selecione o ícone de engrenagem para abrir o menu de **Configurações**.
+
+3. Em **Configurações da conta**, selecione **Pagamento e taxa**, em seguida, selecione **Perfil de Pagamento e fiscal**.
+
+4. Selecione o **perfil de imposto**.
+
+5. Selecione a coluna **data de validade** e, em seguida, navegue até o perfil de imposto expirado ou prestes a expirar.
+
+6. Selecione **Editar** para iniciar o processo de edição do perfil de imposto.
+
+7. Atualize os formulários de impostos fornecendo os detalhes necessários.
+
+## <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Como a Microsoft garante que as informações bancárias sejam realmente a da empresa, e não uma conta bancária pessoal para um funcionário?
+
+É responsabilidade da empresa garantir que a função do administrador de incentivos, que tem as permissões para editar essas informações, só é fornecida aos funcionários apropriados.
+
+## <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>Posso usar o mesmo banco e detalhes de impostos para todos os programas de incentivos na Microsoft?
+
+Se sua empresa for convidada para vários programas de incentivos, você poderá usar a mesma conta de pagamento para todos os seus programas de incentivo ou pode optar por ter diferentes contas de pagamento para os diferentes programas.
 
 ## <a name="why-do-i-need-to-provide-my-payout-andor-tax-details"></a>Por que preciso fornecer meus detalhes de pagamento e/ou imposto?
 
