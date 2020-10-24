@@ -1,6 +1,6 @@
 ---
 title: Comunicados de setembro de 2020
-description: Comunicados de setembro de 2020 sobre o Microsoft Partner Center
+description: Comunicados de setembro de 2020 sobre o Microsoft Partner Center, como novas funcionalidades, promoções, ofertas, novos mercados ou alterações nas ofertas existentes.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: 304514ed4210e2567e080b78b1c1ce135177d874
-ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
+ms.openlocfilehash: 1020adc0b2410435b31726fcc8a44342064bc4e8
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "91591116"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031549"
 ---
 # <a name="september-2020-announcements"></a>Comunicados de setembro de 2020
 
@@ -46,7 +46,7 @@ O Centro de Administração do Microsoft 365 aprimora a entrega segura de softwa
 
 ### <a name="next-steps"></a>Próximas etapas
 
-- Saiba mais sobre o software do Centro de Administração do Microsoft 365 examinando a [visão geral](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), as [tarefas comuns](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide) e os [recursos de cumprimento de chaves de licença](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+- Saiba mais sobre o software do Centro de Administração do Microsoft 365 examinando a [visão geral](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), as [tarefas comuns](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide) e os [recursos de cumprimento de chaves de licença](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
 
 - Compartilhe essa atualização com equipes relevantes em sua organização.
 
@@ -183,17 +183,17 @@ Serão feitas atualizações nas definições de métricas expostas nas APIs de 
 
 ### <a name="details"></a>Detalhes
 
-Esta é uma atualização do [Comunicado do Partner Center](https://docs.microsoft.com/partner-center/announcements/2020-september#8) feito em 17 de setembro de 2020. Estamos fazendo atualizações para garantir que as atualizações de API sejam compatíveis com versões anteriores. Além disso, garantiremos que não seja necessário fazer nenhuma alteração de integração. 
+Esta é uma atualização do [Comunicado do Partner Center](#8) feito em 17 de setembro de 2020. Estamos fazendo atualizações para garantir que as atualizações de API sejam compatíveis com versões anteriores. Além disso, garantiremos que não seja necessário fazer nenhuma alteração de integração. 
 
 Conforme anunciado anteriormente, a partir de 30 de setembro de 2020, as métricas de uso do CSP O365 passarão por uma atualização. 
 
 Com essa alteração, as definições das métricas disponíveis por meio das seguintes APIs de uso de licença do CSP serão atualizadas: 
 
-1. [API de informações de uso de licenças](https://docs.microsoft.com/partner-center/develop/get-licenses-usage-information).
+1. [API de informações de uso de licenças](/partner-center/develop/get-licenses-usage-information).
 
-2. [API de informações de uso de licenças do cliente](https://docs.microsoft.com/partner-center/develop/get-customer-licenses-usage-information).
+2. [API de informações de uso de licenças do cliente](/partner-center/develop/get-customer-licenses-usage-information).
 
-3.  [API de informações de uso de licenças do parceiro](https://docs.microsoft.com/partner-center/develop/get-partner-licenses-usage-information).
+3.  [API de informações de uso de licenças do parceiro](/partner-center/develop/get-partner-licenses-usage-information).
 
 As definições atualizadas estão listadas abaixo. Como não há alterações no esquema de API, nenhuma nova integração será necessária. 
 
@@ -260,19 +260,19 @@ A opção **MyInsights** não estará mais disponível após 30 de setembro de 2
 
 ### <a name="what-is-insights"></a>O que são Insights?
 
-O painel Insights do Partner Center fornece uma exibição completa e unificada dos KPIs (principais indicadores de desempenho) de sua organização parceira em todos os produtos de Nuvem, como o Office 365, o Azure e o Dynamics 365. Além de modelos de licenciamento, como o CSP (Provedor de Soluções na Nuvem) e o EA (Contrato Enterprise). Novos recursos serão adicionados de modo contínuo e todos os relatórios serão compatíveis com a [exportação de dados brutos](https://docs.microsoft.com/partner-center/pci-download-reports), permitindo que você execute uma análise de dados ad hoc com base em suas necessidades comerciais. As duas funções de relatórios do Partner Center, [o Visualizador de Relatórios Executivo e o Visualizador de Relatórios](https://docs.microsoft.com/partner-center/pci-roles), permitem gerenciar de maneira aprimorada o acesso e o uso de Insights em sua organização.
+O painel Insights do Partner Center fornece uma exibição completa e unificada dos KPIs (principais indicadores de desempenho) de sua organização parceira em todos os produtos de Nuvem, como o Office 365, o Azure e o Dynamics 365. Além de modelos de licenciamento, como o CSP (Provedor de Soluções na Nuvem) e o EA (Contrato Enterprise). Novos recursos serão adicionados de modo contínuo e todos os relatórios serão compatíveis com a [exportação de dados brutos](../pci-download-reports.md), permitindo que você execute uma análise de dados ad hoc com base em suas necessidades comerciais. As duas funções de relatórios do Partner Center, [o Visualizador de Relatórios Executivo e o Visualizador de Relatórios](../pci-roles.md), permitem gerenciar de maneira aprimorada o acesso e o uso de Insights em sua organização.
 
 Relatórios adicionados recentemente:
 
-- [Relatório de desempenho do revendedor e exportação de dados](https://docs.microsoft.com/partner-center/pci-resellers-performance): fornece para os Provedores Indiretos do CSP uma visão geral do desempenho de vários revendedores Indiretos.
+- [Relatório de desempenho do revendedor e exportação de dados](../pci-resellers-performance.md): fornece para os Provedores Indiretos do CSP uma visão geral do desempenho de vários revendedores Indiretos.
 
-- [Relatório de oportunidades do cliente e exportação de dados](https://docs.microsoft.com/partner-center/pci-customer-opportunities): fornece uma visão geral de como os clientes estão propensos a comprar produtos da Microsoft.
+- [Relatório de oportunidades do cliente e exportação de dados](../pci-customer-opportunities.md): fornece uma visão geral de como os clientes estão propensos a comprar produtos da Microsoft.
 
-Confira [aqui](https://docs.microsoft.com/partner-center/partner-center-insights) para obter uma lista completa de relatórios disponíveis no Insights.
+Confira [aqui](../partner-center-insights.md) para obter uma lista completa de relatórios disponíveis no Insights.
 
 ### <a name="next-steps"></a>Próximas etapas:
 
-- Verifique a [página Insights do Partner Center](https://docs.microsoft.com/partner-center/partner-center-insights) com frequência para saber mais sobre atualizações e aprimoramentos de relatórios.
+- Verifique a [página Insights do Partner Center](../partner-center-insights.md) com frequência para saber mais sobre atualizações e aprimoramentos de relatórios.
 
 - Incentivamos você a explorar essas novas funcionalidades e a compartilhar os seus comentários usando as ferramentas de comentários embutidas disponíveis na guia Insights.
 

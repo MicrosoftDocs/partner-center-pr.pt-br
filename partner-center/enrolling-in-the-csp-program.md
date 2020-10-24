@@ -1,22 +1,22 @@
 ---
 title: Inscrever-se no programa Provedor de Soluções na Nuvem
 ms.topic: how-to
-ms.date: 10/05/2020
+ms.date: 10/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como se registrar no modelo de vendas do programa CSP (Provedor de Soluções na Nuvem) que é melhor para os seus negócios, como revendedor indireto ou parceiro de cobrança direta.
+description: Saiba como se registrar no modelo de vendas do programa CSP (Provedor de Soluções na Nuvem) mais adequado para os seus negócios, como revendedor indireto ou parceiro de cobrança direta.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f44d9dd79f5d02160aa30d99e4815bf8e7837ec5
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: caa1442e5775a1617aa483a3cef675a6bd09eb17
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91763337"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198092"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>Registre-se no programa de Provedor de Soluções na Nuvem e crie um negócio de solução de nuvem lucrativo
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscrever-se no programa Provedor de Soluções na Nuvem
 
 **Aplica-se a**
 
@@ -64,7 +64,7 @@ Para saber mais sobre o que é necessário para participar do programa CSP, como
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>Inscrever-se como um parceiro de cobrança direta
 
-Como um parceiro de cobrança direta, você tem a relação de ponta a ponta com o cliente e com a Microsoft. Atualizamos os requisitos de registro para parceiros de cobrança direta desde 31 de agosto de 2018. Esses novos requisitos ajudarão você a acelerar o desenvolvimento dos seus negócios com o modelo de inscrição no CSP e fortalecer seu relacionamento com os clientes com serviços e suporte de valor agregado. 
+Como um parceiro de cobrança direta, você tem a relação de ponta a ponta com o cliente e com a Microsoft. Atualizamos os requisitos de registro para parceiros de cobrança direta desde 31 de agosto de 2018. Esses novos requisitos ajudarão você a acelerar o desenvolvimento dos seus negócios com o modelo de inscrição no CSP e fortalecer seu relacionamento com os clientes com serviços e suporte de valor agregado.
 
 ### <a name="minimum-requirements"></a>Requisitos mínimos
 
@@ -96,5 +96,8 @@ Consulte [Transição do parceiro de fatura direto do CSP (Provedor de Soluçõe
 ## <a name="csp-regional-markets-and-currencies"></a>Mercados e moedas regionais do CSP
 
 O local da sua empresa determina seu mercado. Seu mercado inclui regiões e/ou países em que você pode vender ofertas de CSP. Confira [Mercados regionais e moedas do programa de Provedor de Soluções na Nuvem](regional-authorization-overview.md) para localizações de mercado e moedas.
-Leia o artigo sobre [adicionar um novo local de ID de MPN](manage-locations.md).
+Certifique-se de ler os [Pré-requisitos a fim de adicionar um novo local para negócios do CSP](manage-locations.md).
 
+## <a name="next-steps"></a>Próximas etapas
+
+- [Saiba mais sobre o MPA (Contrato de Parceiro da Microsoft) para parceiros do programa CSP](microsoft-partner-agreement.md)

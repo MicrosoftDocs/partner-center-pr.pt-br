@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como revendedores indiretos no programa CSP podem trabalhar com provedores indiretos da Microsoft (ou distribuidores) para obter ajuda no cobrança e atendimento ao cliente.
 ms.prod: ''
+ms.custom: contperfq2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.custom: SEOAPR.20
-ms.openlocfilehash: f6d2b94dfcc8a8986229e199c47a0f64a93fb2ac
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 1b8b6f3c094471e67d43701a83da46d7dd1372a0
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545957"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006831"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Aprenda como fazer parcerias com provedores indiretos no programa CSP (Provedor de Soluções na Nuvem)
 
@@ -24,7 +24,7 @@ ms.locfileid: "87545957"
 - Administrador global
 - Administrador de usuários
 - Agente administrativo
-- Agente de vendas
+
 
 A demanda crescente por serviços e soluções baseadas em nuvem oferece muitas oportunidades para os parceiros da Microsoft de todos os tamanhos para criar empresas de solução em nuvem rentáveis. Os parceiros que estão prontos para se inserir no mercado, mas que não querem gerenciar vários fornecedores ou que podem não ter uma infraestrutura de gerenciamento de relacionamento com o cliente de ponta a ponta, podem inscrever-se no programa de CSP (Provedor de Soluções na Nuvem) da Microsoft como revendedores indiretos.
 
@@ -55,11 +55,11 @@ Se você for iniciante no CSP, precisará se inscrever no programa como revended
 
 - **O nome de usuário e senha que você usa para efetuar login no site Partner Membership Center**
 
-   Nós usamos essas informações para associar a ID do MPN (ID do Microsoft Partner Network) da sua organização à sua nova conta da Central de Parceiros. Você pode gerenciar seus benefícios e dados de associação na Central de Parceiros.
+   Usamos essas informações para vincular a ID do MPN (ID do Microsoft Partner Network) de sua empresa à nova conta do Partner Center. Você pode gerenciar seus benefícios e dados de associação na Central de Parceiros.
 
-- **Nome comercial legal, endereço, contato principal e detalhes de suporte da sua organização**
+- **O nome comercial jurídico, o endereço, o contato principal e os detalhes de suporte da sua empresa**
 
-   Precisamos dessas informações para confirmar que sua organização tem um perfil estabelecido com a Microsoft e que você está autorizado a agir em seu nome.
+   Precisamos dessas informações para confirmar se a empresa tem um perfil estabelecido com a Microsoft e que você está autorizado a agir em nome dela.
 
    Pode levar vários dias para analisarmos e verificarmos as informações fornecidas por você. Enviaremos um email para seu contato principal quando concluirmos nossa análise.
 
@@ -73,25 +73,25 @@ Se você for iniciante no CSP, precisará se inscrever no programa como revended
 
    Se você não tiver uma conta corporativa, selecione **Criar uma** para configurar uma agora. Depois de configurar uma conta corporativa, faça login usando as credenciais da sua nova conta.
 
-4. Examine as informações sobre como associar seu ID do Microsoft Partner Network (ID de MPN) com sua nova conta do Partner Center. Precisamos vincular o ID do MPN de sua organização com sua nova conta do Partner Center para que você possa gerenciar seus benefícios de associação e incentivos no Partner Center. Selecione **Entrar**.
+4. Examine as informações sobre como associar seu ID do Microsoft Partner Network (ID de MPN) com sua nova conta do Partner Center. Precisamos vincular a ID do MPN da sua empresa à sua nova conta do Partner Center para que você possa gerenciar seus benefícios e incentivos de associação no Partner Center. Selecione **Entrar**.
 
 5. Insira o nome de usuário que você usa para entrar no site do Partner Membership Center (PMC). O site do Partner Membership Center é onde você gerencia sua conta de parceiro da Microsoft atualmente. Fazer login no Partner Membership Center nos permite recuperar seu ID de MPN e associá-lo à sua nova conta do Partner Center. Selecione **Avançar**.
 
 6. Insira a senha de sua conta do Partner Membership Center e, em seguida, selecione **Entrar**.
 
-7. Selecione o perfil da organização com a ID do MPN vinculada aos seus incentivos, benefícios de associação e competências. Então, podemos mover essas informações para sua conta da Central de Parceiros. Selecione **Continuar**.
+7. Selecione o perfil da empresa com a ID do MPN vinculada aos incentivos, aos benefícios de associação e às competências. Então, podemos mover essas informações para sua conta da Central de Parceiros. Selecione **Continuar**.
 
-   Se o ID de MPN que você deseja usar não estiver listada nesta página, selecione **Cancelar** e faça login novamente com o nome de usuário e senha para o perfil de organização que você deseja usar.
-
-   > [!IMPORTANT]  
-   > Selecione a ID do MPN associada a um perfil da organização ativo que está localizado no mesmo país/região como seu locatário Azure AD.
-
-8. Forneça ou atualize o perfil de negócios jurídico da organização, informações de contato principais e informações de suporte ao cliente da sua organização. Selecione **Registrar agora**.
-
-   O contato principal deve ser a pessoa em sua organização que podemos consultar para tratar do seu aplicativo. O contato principal pode ser você ou outra pessoa em sua organização. Observação: Não aceitamos endereços de email de serviços de email baseados na Web, como Gmail, Yahoo! Mail, iCloud Mail, AOL Mail ou o email do Outlook.
+   Caso a ID do MPN que você deseja usar não esteja listada nesta página, clique em **Cancelar** e entre novamente com o nome de usuário e a senha do perfil da empresa que deseja usar.
 
    > [!IMPORTANT]  
-   > Para ajudar a garantir a segurança e privacidade da sua organização, nós enviaremos um email para seu contato principal para verificar que (1) ele ou ela se inscreveu em uma conta do Partner Center e que (2) este endereço de email pertence à sua organização. Depois que o contato principal verificar o endereço de email, continuaremos nossa análise das informações fornecidas por você. Nós enviaremos atualizações do status de inscrição ao contato principal.
+   > Selecione a ID do MPN associada a um perfil ativo da empresa localizado no mesmo país/mesma região que o seu locatário do Azure AD.
+
+8. Forneça ou atualize o perfil comercial jurídico, as informações de contato principal e suporte ao cliente da sua empresa. Selecione **Registrar agora**.
+
+   O contato principal deverá ser a pessoa na empresa com quem poderemos entrar em contato sobre seu aplicativo. O contato principal poderá ser você ou outra pessoa em sua empresa. Observação: Não aceitamos endereços de email de serviços de email baseados na Web, como Gmail, Yahoo! Mail, iCloud Mail, AOL Mail ou o email do Outlook.
+
+   > [!IMPORTANT]  
+   > Para ajudar a garantir a segurança e a privacidade da sua empresa, enviaremos um email para seu contato principal para verificar se (1) ele ou ela se inscreveu em uma conta do Partner Center e se (2) este endereço de email pertence à sua empresa. Depois que o contato principal verificar o endereço de email, continuaremos nossa análise das informações fornecidas por você. Nós enviaremos atualizações do status de inscrição ao contato principal.
 
 9. Quando sua conta do Partner Center estiver pronta para uso, verifique se que você foi adicionado ao grupo do agente administrador. Para concluir a configuração de sua conta, incluindo a adição de outros usuários, você deve ter permissões de agente administrador. Siga estas etapas para exibir ou atualizar suas permissões:
 
@@ -99,26 +99,6 @@ Se você for iniciante no CSP, precisará se inscrever no programa como revended
 
    2. Selecione seu nome na lista de usuários. Em seguida, selecione **Agente administrador** se ainda não estiver selecionado. Selecione **Atualizar**.
 
-## <a name="add-a-new-user"></a>Adicionar um novo usuário
-
-1. Em seu **Partner Center**, selecione o ícone **Configurações** e então selecione **Gerenciamento de usuários**.
-
-2. Selecione **Adicionar usuário**.
-
-3. Insira o nome completo e endereço de email exclusivo do usuário.
-
-4. Selecione o tipo de agente e o tipo de administrador. O acesso do Partner Center é baseado em função, portanto, você pode atribuir permissões para personalizar o modo de exibição do usuário e mostrar somente os recursos que o usuário precisa para completar tarefas específicas. Para obter mais informações sobre o que cada função pode fazer, consulte [Atribuir permissões de usuário](#assign-user-permissions).
-
-5. Selecione **Adicionar** para criar a conta de usuário. Confirme os detalhes do usuário na próxima página.
-
-   > [!IMPORTANT]
-   > Anote as novas informações de login do usuário exibidas nessa página. Certifique-se de copiar e enviar essas informações para o novo usuário, pois você não conseguirá acessá-las novamente mais tarde.
-   >
-   > O usuário precisará entrar no Partner Center com seu nome de usuário e senha temporária. Quando o usuário entrar no Partner Center pela primeira vez, ele precisará alterar sua senha.
-
-## <a name="assign-user-permissions"></a>Atribuir permissões de usuário
-
-O acesso do Partner Center é baseado em função, portanto, você pode atribuir permissões para personalizar o modo de exibição do usuário e mostrar somente os recursos que o usuário precisa para completar tarefas específicas. Para descobrir a melhor forma de atribuir funções, consulte [Criar contas de usuário e definir as permissões](Create-user-accounts-and-set-permissions.md).
 
 ## <a name="connect-with-an-indirect-provider"></a>Conectar-se com um provedor indireto
 
@@ -146,80 +126,15 @@ Se um provedor indireto quiser se conectar com você no Partner Center, ele vai 
    > [!IMPORTANT]  
    > Seu provedor indireto precisa ter uma relação de revendedor com seus clientes para enviar pedidos no nome dele.
 
-## <a name="connect-with-customers"></a>Conectar-se com clientes
-
-Para transações com clientes no Partner Center, os clientes devem ter contas do Partner Center e você deve estabelecer relações de revendedor com eles. Para permitir que seu provedor indireto adquira assinaturas e serviços em nome do cliente, o provedor indireto também deve ter uma relação de revendedor com seus clientes.
-
-### <a name="connect-with-existing-customers"></a>Conecte-se com clientes existentes
-
-Depois que conseguir se registrar como um revendedor indireto, você verá, na Central de Parceiros, os mesmos clientes com os quais você já faz negócios em outros portais. Esses outros portais incluem o centro de administração do Office 365 ou o portal do Azure. Para ver sua lista de clientes, selecione **Clientes** no menu da **Central de Parceiros**.
-
-Ao se conectar a um provedor indireto, você não ganha automaticamente os clientes do provedor indireto. Da mesma forma, os clientes com os quais você trabalha no seu próprio provedor ou por meio do provedor indireto, e não por meio do Partner Center, não aparecerão automaticamente na sua lista de clientes quando você se inscrever no Partner Center. Você precisará estabelecer uma relação de revendedor com os clientes para fazer transações no Partner Center.  Para fazer isso, você envia por email um convite para se conectar com você no Partner Center, conforme descrito a seguir.
-
-#### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Convide um cliente para estabelecer uma relação de revendedor com você
-
-1. Selecione **Clientes** em seu menu **Partner Center** e depois selecione **Solicitar uma relação de revendedor**.
-
-2. Na próxima página, reveja o rascunho da mensagem de email. Você pode abrir a mensagem de rascunho por email ou pode copiar a mensagem na área de transferência e colá-la em um email.
-
-   Você pode editar o texto no email, mas certifique-se de incluir o link, pois ele é personalizado, para vincular o cliente diretamente à sua conta. Selecione **Concluído** quando tiver completado essa etapa.
-
-3. Envie o email para seu cliente.
-
-4. Depois que o cliente aceitar seu convite, ele aparecerá na página **Clientes**. Você poderá então gerenciar suas assinaturas e serviços por ali.
-
-5. Para gerenciar a conta, os serviços, os usuários e as licenças do cliente, expanda o registro do cliente selecionando a seta para baixo perto do nome dele.
-
-### <a name="connect-with-new-customers"></a>Conecte-se com novos clientes
-
-Quando você obter novos clientes, precisará se conectar com eles no Partner Center. Você pode obter novos clientes por meio de vários canais, incluindo:
-
-- Suas próprias atividades de marketing
-- Indicações da Microsoft
-- Provedores indiretos
-
-Para gerenciar assinaturas e serviços em nome de um cliente, você precisa ter uma relação de revendedor com ele. Para permitir que seu provedor indireto envie pedidos em nome do cliente, o provedor indireto também deve ter uma relação de revendedor com ele.
-
-Para obter as permissões de administrador a fim de gerenciar assinaturas e serviços de um novo cliente **e** permitir que seu provedor indireto envie novos pedidos em nome dele, você pode convidar o cliente para estabelecer uma relação de revendedor com você e seu provedor ao mesmo tempo.
-
-#### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-with-your-indirect-provider-at-the-same-time"></a>Convide um novo cliente para estabelecer relações de revendedor com você e seu provedor indireto ao mesmo tempo
-
-1. Selecione **Provedores indiretos** no seu **menu do Partner Center**.
-
-2. Selecione **Convidar novos clientes** para convidar um cliente a estabelecer uma relação de revendedor com você e a provedor indireto ao mesmo tempo. O provedor precisa ter uma relação de revendedor com seu cliente para que o provedor possa enviar pedidos em nome do cliente quando quiser comprar novas assinaturas ou adicionar novas licenças a assinaturas existentes.
-
-3. Na próxima página, reveja o rascunho da mensagem de email. Você pode abrir a mensagem de rascunho por email ou pode copiar a mensagem na área de transferência e colá-la em um email.
-
-   Você pode editar o texto no email. Só não se esqueça de incluir o link, já que ele é personalizado para vincular o cliente diretamente à sua conta e à de seu provedor. Selecione **Concluído** quando tiver completado essa etapa.
-
-4. Depois que o cliente autorizar você e seu provedor a serem os revendedores de registro dele, você terá permissões de administrador para gerenciar assinaturas, licenças e usuários em nome dele. Seu provedor indireto também pode enviar pedidos em nome dele.
-
-5. Para gerenciar a conta, os serviços, os usuários e as licenças do cliente, expanda o registro do cliente selecionando a seta para baixo perto do nome dele.
-
-## <a name="remove-a-relationship-with-a-customer"></a>Remover um relacionamento com um cliente
-
-Para remover o relacionamento com um cliente, execute as seguintes etapas:
-
-1.  No Partner Center, acesse **Clientes** e selecione o cliente cujo relacionamento deseja remover.
-
-2.  Selecione a **Conta**.
-
-3.  Selecione **Remover relacionamento com o cliente**.
-
-4.  O cliente não será mais exibido na lista de clientes.
-
->[!IMPORTANT]
->Se você estabeleceu um relacionamento com um cliente e depois removeu esse relacionamento, eventuais privilégios de administrador delegado concedidos permanecerão inalterados.
->Você declara que a decisão de descontinuar o relacionamento com o cliente foi tomada de boa-fé, para uma finalidade de negócios legítima e de acordo com os termos do contrato firmado com o cliente ou parceiro, e concorda em defender e manter a Microsoft isenta em caso de reivindicações de terceiros nesse sentido.
->Você deverá fornecer um aviso legal de encerramento ao cliente ou parceiro se o contrato assim exigir. Essa ferramenta não gera nenhum aviso ao cliente ou parceiro.
-
 
 ## <a name="next-steps"></a>Próximas etapas
 
 - [Gerenciar sua conta do Partner Center](partner-center-account-setup.md)
 
-- [Gerenciar clientes e suas assinaturas](customer-accounts.md)
+- [Conectar-se com seus clientes](connect-with-your-customers.md)
 
 - [Criar um perfil de negócios](create-a-marketing-profile.md)
 
-- [Saiba mais sobre incentivos para parceiros no Partner Center](understand-incentive-payouts.md)
+- [Saber mais sobre o processo de verificação](verification-responses.md)
+ 
+- [Conferir os requisitos para parceiros de cobrança direta](direct-partner-new-requirements.md)

@@ -1,6 +1,6 @@
 ---
 title: Comunicados de janeiro de 2020
-description: Comunicados de janeiro de 2020 sobre o Microsoft Partner Center
+description: Comunicados de janeiro de 2020 sobre o Microsoft Partner Center, como novas funcionalidades, promoções, ofertas, novos mercados ou alterações nas ofertas existentes.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 1b53b675b97a98b8a154998abf0d98d686844281
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 629e9982827f25e7358ef192e1f5726be1a07678
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999580"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031749"
 ---
 # <a name="january-2020-announcements"></a>Comunicados de janeiro de 2020
 
