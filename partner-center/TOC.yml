@@ -607,6 +607,8 @@
       href: partner-security-requirements.md
     - name: Exigir MFA de seu locatário parceiro
       href: partner-security-requirements-mandating-mfa.md
+    - name: Configurar os usuários com a autenticação multifator
+      href: mfa-for-users.md
     - name: Status de requisitos
       href: partner-security-compliance.md
     - name: Perguntas frequentes
