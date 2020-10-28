@@ -1,6 +1,9 @@
 {
   "build": {
     "content": [
+       {
+        "files": ["breadcrumb/toc.yml"]
+      },
       {
         "files": [
           "**/*.md",
@@ -31,11 +34,15 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "bilingual_type": "hover over",
       "uhfHeaderId": "MSDocsHeader-Partner-Center",
       "titleSuffix": "Partner Center",
       "breadcrumb_path": "/partner-center/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "ms.service": "partner-dashboard",
+      "manager": "jasonh",
+      "ms.localizationpriority": "medium",
+      "searchScope": [ "Partner Center" ],
       "_op_documentIdPathDepotMapping": {
         "./": {
           "depot_name": "MSDN.partner-center",
@@ -44,8 +51,6 @@
       },
       "disable_contribution_on_translation_quality": [
         "MT",
-        "MTE75",
-        "MTE95",
         "Blank"
       ]
     },
