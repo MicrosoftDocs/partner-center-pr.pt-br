@@ -4,18 +4,17 @@ ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Crie uma conta corporativa que vincula a sua empresa à conta do Partner Center. Isso permite que os funcionários na sua empresa acessem o Partner Center.
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 ms.custom: SEOAPR.20
-Keywords: conta corporativa, email, locatário, locatário do Azure, criar conta, nome de domínio
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: e46be80cb39233e7632a97fd511232d5ff762499
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394214"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "92333818"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Criar uma conta corporativa que vincula a sua empresa à sua conta do Partner Center
 
@@ -61,7 +60,7 @@ O diagrama abaixo fornece etapas para vários cenários típicos:
 
 :::image type="content" source="images/onboardingAADFlow.png" lightbox="images/onboardingAADFlow.png" alt-text="Você tem uma conta corporativa ou precisa criar uma?":::
 
-Para obter mais informações sobre como adicionar domínios no Azure AD, confira [Adicionar ou associar um domínio no Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)
+Para obter mais informações sobre como adicionar domínios no Azure AD, confira [Adicionar ou associar um domínio no Azure AD](/azure/active-directory/active-directory-add-domain)
 
 ## <a name="about-microsoft-azure"></a>Sobre o Microsoft Azure
 
