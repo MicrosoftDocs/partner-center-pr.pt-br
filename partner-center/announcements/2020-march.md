@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 9a44adc0f4150f4cbb21c4b0e332c4958559443f
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: ff697bec18c59957d8be7d5ec8ad09edb364b6bb
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031709"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795790"
 ---
 # <a name="march-2020-announcements"></a>Comunicados de março de 2020
 
@@ -44,9 +44,9 @@ Todos os parceiros CSP (Provedores de Soluções na Nuvem).
 
 Em 21 de abril de 2020, alteraremos os nomes de nossas ofertas do Office 365 para SMB:
 
-- O Office 365 Business Essentials se tornará **Microsoft 365 Business Basic**. Essa é nossa oferta de nível de entrada para clientes que procuram serviços de nuvem básicos.
-- O Office 365 Business Premium se tornará **Microsoft 365 Business Standard**. Essa é a nossa oferta principal para SMBs, incluindo serviços de nuvem e aplicativos de área de trabalho conectados à nuvem.
-- O Microsoft 365 Business se tornará **Microsoft 365 Business Premium**. Esse continua sendo nosso SKU em destaque para SMBs de ponta que procuram um valor maior para segurança, dispositivo e identidade.
+- O Office 365 Business Essentials se tornará **Microsoft 365 Business Basic** . Essa é nossa oferta de nível de entrada para clientes que procuram serviços de nuvem básicos.
+- O Office 365 Business Premium se tornará **Microsoft 365 Business Standard** . Essa é a nossa oferta principal para SMBs, incluindo serviços de nuvem e aplicativos de área de trabalho conectados à nuvem.
+- O Microsoft 365 Business se tornará **Microsoft 365 Business Premium** . Esse continua sendo nosso SKU em destaque para SMBs de ponta que procuram um valor maior para segurança, dispositivo e identidade.
 
 Também adotaremos **Microsoft 365 Apps** como o novo nome para nossas duas assinaturas de cliente do Office:
 
@@ -208,7 +208,7 @@ aviso de novas funcionalidades: os parceiros agora podem corrigir as informaçõ
 Como parte do nosso compromisso contínuo com práticas de negócios em conformidade para clientes e parceiros, a Microsoft introduziu uma validação automatizada de todos os novos envios de conta de clientes de Educação para verificar a elegibilidade do cliente. Desde que lançamos a funcionalidade de validação automatizada, observamos um número cada vez maior de problemas de habilitação, pois dados incorretos ou inválidos foram inseridos. Para ajudar a simplificar o processo e minimizar os atrasos no processo de habilitação, siga as instruções abaixo:
 
 - Para reduzir os atrasos na investigação de falhas de habilitação para entradas legítimas, verifique se você inseriu dados do cliente os mais **precisos** e **completos** possíveis. Não insira em dados de teste/fictícios.
-- Examine o guia **Criar um guia cliente de educação no Partner Center** e também **Adicionar uma nova página do cliente**, que documentam o que é necessário ao criar um cliente de educação no Partner Center. Ambos podem ser encontrados na galeria de recursos abaixo.
+- Examine o guia **Criar um guia cliente de educação no Partner Center** e também **Adicionar uma nova página do cliente** , que documentam o que é necessário ao criar um cliente de educação no Partner Center. Ambos podem ser encontrados na galeria de recursos abaixo.
 
 >[!NOTE] 
 >o **guia Criar um cliente de educação no Partner Center** agora inclui instruções passo a passo sobre como corrigir as informações do cliente e reenviá-las se a habilitação do cliente tiver falhado.
@@ -317,7 +317,7 @@ Confira as alterações específicas no arquivo chamado "Atualizações de ofert
 
 - [Home page do Dynamics 365](https://dynamics.microsoft.com/)
 - [Home page do Guia de Aplicativos de Realidade Misturada](https://dynamics.microsoft.com/mixed-reality/guides/)
-- [Home page de fraudes dos Aplicativos de negócios](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing//docs.microsoft.com/dynamics365/fraud-protection/overview)
+- [Home page de fraudes dos Aplicativos de negócios](/dynamics365/fraud-protection/overview)
 - [Atualizações de licenciamento do PowerApps e do Flow para o ano fiscal 2020](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Licenciamento do Microsoft Dynamics 365](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 - [Dynamics 365 e Power Platform – disponibilidade, local dos dados, idioma e conteúdo de localização](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
