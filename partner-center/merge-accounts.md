@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: d38c11e564d6776a5755f8df40ba6ad2dca27d12
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175186"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795824"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Mesclar sua conta de parceiro com outra conta de parceiro
 
@@ -84,12 +84,32 @@ Se você decidir aceitar o convite para mesclar contas: · Suas IDs e locais de 
 
 1. Selecione **configurações** no painel do Partner Center. 
 
-2. Selecione **mesclagem de conta**.
+2. Selecione **mesclagem de conta** .
 
 3. Adicione a ID de MPN localizada no **perfil de parceiro** da conta que você deseja convidar para mesclar com você. Você deve usar sua ID de MPN global do parceiro. Você não pode usar uma ID de MPN de local.
 
-4. Quando você seleciona **mesclar**, um convite é enviado para a empresa parceira. Ao aceitar sua solicitação, você pode iniciar a mesclagem de conta no Partner Center. Se a empresa rejeitar sua solicitação para mesclar contas, poderá explicar por que ela rejeitou a solicitação. Uma lista de todas as mesclagens de sua conta está disponível para você no **histórico de mesclagem**.
+4. Quando você seleciona **mesclar** , um convite é enviado para a empresa parceira. Ao aceitar sua solicitação, você pode iniciar a mesclagem de conta no Partner Center. Se a empresa rejeitar sua solicitação para mesclar contas, poderá explicar por que ela rejeitou a solicitação. Uma lista de todas as mesclagens de sua conta está disponível para você no **histórico de mesclagem** .
+ 
+### <a name="example-of-two-companies-merging-accounts"></a>Exemplo de duas empresas que mesclam contas
 
+1. A contoso tem 
+
+    a. uma [ID de MPN global de 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) e um [local subordinado MPN IDs de 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
+  
+    b. um locatário do Azure AD = @contoso.com
+ 
+    c. uma competência Gold que expira em 1º de outubro de 2020
+2. Fabricam tem
+ 
+    a.  uma ID de MPN global de 3333333 e duas IDs de MPN de local subordinado de 4444444 e 5555555
+
+    b.  um locatário do AAD = @fabricam.com
+
+    c.  duas competências Gold que expiram em 1º de dezembro de 2020
+3.  A contoso compra fabricam e vai [aqui](https://partner.microsoft.com/dashboard/account/merger) para iniciar uma solicitação de mesclagem
+4.  Fabricam entra no Partner Center e vai para a mesma página que a contoso fez na etapa #3, para aprovar a solicitação da contoso.
+5.  A contoso revisa os detalhes da mesclagem na mesma página e fornece confirmação para prosseguir com a fusão de contas.
+    
 ## <a name="next-steps"></a>Próximas etapas
 
 - [Atribuir permissões e funções de usuários](permissions-overview.md)

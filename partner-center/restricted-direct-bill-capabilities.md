@@ -1,7 +1,7 @@
 ---
 title: Funcionalidades de fatura direta restritas
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre os requisitos de parceiro de cobrança direto do CSP e o que fazer para evitar que os recursos sejam restritos. Descubra se seus recursos foram restritos.
@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46506548ec1848c983bfeabf44be74018e80be5e
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444778"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795757"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Recursos de cobrança direta restritos e os requisitos necessários para parceiros de cobrança direto do CSP  
 
@@ -31,11 +31,11 @@ Para confirmar se o acesso do locatário do parceiro de cobrança direto para di
 
 1. Entre no painel do [Partner Center](https://partner.microsoft.com/dashboard).
 
-2. Vá para **configurações de parceiro**  ->  **perfil do parceiro**.
+2. Vá para **configurações de parceiro**  ->  **perfil do parceiro** .
 
-3. Em **informações do programa**, procure **Microsoft Cloud status do provedor de solução**.
+3. Em **informações do programa** , procure **Microsoft Cloud status do provedor de solução** .
 
-4. Se o status do programa tiver um valor **restrito**, isso significa que o acesso do locatário do parceiro de cobrança direto aos recursos de cobrança direto foi restringido.
+4. Se o status do programa tiver um valor **restrito** , isso significa que o acesso do locatário do parceiro de cobrança direto aos recursos de cobrança direto foi restringido.
 
 ## <a name="affected-direct-bill-capabilities"></a>Recursos de fatura direta afetados
 
@@ -51,7 +51,7 @@ Se seus recursos de fatura direta foram restritos, você não poderá mais fazer
 
 Você também não pode usar a [oferta de serviços compartilhados de parceiro do Azure](shared-services.md) no programa CSP para comprar novas assinaturas do Azure para seu próprio uso.
 
-As assinaturas de fatura direta existentes não são afetadas. Eles permanecem válidos e são renovados em autorenovação. Você continuará sendo cobrado diretamente pela Microsoft até que eles sejam cancelados. Você ainda pode gerenciar assinaturas existentes das seguintes maneiras:
+As assinaturas de fatura direta existentes não são afetadas. Eles permanecem válidos e são renovados automaticamente. Você continuará sendo cobrado diretamente pela Microsoft até que eles sejam cancelados. Você ainda pode gerenciar assinaturas existentes das seguintes maneiras:
 
 - Suspender assinaturas existentes
 

@@ -8,13 +8,13 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 06/02/2020
-ms.openlocfilehash: 7f2f612d0f448810049daf4dc2ea08a054e2a2c0
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.date: 10/19/2020
+ms.openlocfilehash: 05cc8a07b3b2f388be201fa1a4065bddcd4b7f99
+ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92197992"
+ms.lasthandoff: 10/21/2020
+ms.locfileid: "92333928"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>Gerenciar sua conta do Partner Center – perfis da empresa, informações bancárias, funções, permissões e muito mais
 
@@ -42,20 +42,20 @@ Para ver quais programas você pode acessar no Partner Center:
 1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 2. Acesse o painel de navegação esquerdo. As opções associadas aos programas em que você está registrado serão exibidas.
 
-Veja um exemplo. Suponha que um usuário tem acesso a três programas no painel do Partner Center: O programa **MPN**, o programa de **Indicações** e o programa **Marketplace Comercial**. Ao entrar no painel do Partner Center, você verá esses três programas no lado esquerdo da tela.
+Veja um exemplo. Suponha que um usuário tem acesso a três programas no painel do Partner Center: O programa **MPN** , o programa de **Indicações** e o programa **Marketplace Comercial** . Ao entrar no painel do Partner Center, você verá esses três programas no lado esquerdo da tela.
 
 :::image type="content" source="images/accountsettings/programs-enrolled-left-nav.png" alt-text="menu de programas em que você está registrado":::
 
 ## <a name="account-management"></a>Gerenciamento de contas
 
-O Partner Center hoje tem gerenciamento de contas em duas seções diferentes: **Configurações de parceiro** e **Configurações de desenvolvedor**.
+O Partner Center hoje tem gerenciamento de contas em duas seções diferentes: **Configurações de parceiro** e **Configurações de desenvolvedor** .
 
 >[!NOTE]
->Para acessar as **Configurações de parceiro** ou as **Configurações de desenvolvedor**, é preciso entrar no [painel](https://partner.microsoft.com/dashboard) do Partner Center e selecionar a opção **Configurações** (ícone de engrenagem) no canto superior direito da tela. Em seguida, você poderá selecionar **Configurações de parceiro** ou **Configurações de desenvolvedor** no menu suspenso.
+>Para acessar as **Configurações de parceiro** ou as **Configurações de desenvolvedor** , é preciso entrar no [painel](https://partner.microsoft.com/dashboard) do Partner Center e selecionar a opção **Configurações** (ícone de engrenagem) no canto superior direito da tela. Em seguida, você poderá selecionar **Configurações de parceiro** ou **Configurações de desenvolvedor** no menu suspenso.
 
 :::image type="content" source="images/accountsettings/account1.png" alt-text="menu de programas em que você está registrado":::
 
-Os parceiros podem ver a opção de gerenciamento de **Configurações de parceiro** e/ou **Configurações de desenvolvedor**, dependendo se a empresa deles foi registrada nesses programas. A opção de configurações só estará disponível se sua empresa estiver registrada em pelo menos um programa associado a essa configuração.
+Os parceiros podem ver a opção de gerenciamento de **Configurações de parceiro** e/ou **Configurações de desenvolvedor** , dependendo se a empresa deles foi registrada nesses programas. A opção de configurações só estará disponível se sua empresa estiver registrada em pelo menos um programa associado a essa configuração.
 
 Para gerenciar as configurações da sua conta, você deve selecionar a opção de configurações de conta apropriada para o programa.  
 
@@ -75,19 +75,19 @@ Esta é uma lista parcial de programas disponíveis e a opção de configuraçõ
 
 ### <a name="locate-your-mpn-id"></a>Localizar a sua ID do MPN
 
-Independentemente de você ser um parceiro ou um desenvolvedor, você precisa usar a sua ID do MPN para situações como registrar tíquetes de suporte. Se você for um desenvolvedor, a sua ID do MPN estará localizada na página de detalhes **Configurações da conta**.
+Independentemente de você ser um parceiro ou um desenvolvedor, você precisa usar a sua ID do MPN para situações como registrar tíquetes de suporte. Se você for um desenvolvedor, a sua ID do MPN estará localizada na página de detalhes **Configurações da conta** .
 
-A ID do MPN do parceiro está localizada na página **Perfil do parceiro**.
+A ID do MPN do parceiro está localizada na página **Perfil do parceiro** .
 
 ### <a name="see-partner-and-developer-settings"></a>Consultar as configurações do parceiro e do desenvolvedor
 
-As opções de **Configurações de parceiro** serão diferentes das opções de **Configurações de desenvolvedor**. Veja abaixo as capturas de tela de exemplo de cada conjunto de opções. Se você tiver acesso a outros programas, também poderá ver opções diferentes dos exemplos de captura de tela mostrados aqui.
+As opções de **Configurações de parceiro** serão diferentes das opções de **Configurações de desenvolvedor** . Veja abaixo as capturas de tela de exemplo de cada conjunto de opções. Se você tiver acesso a outros programas, também poderá ver opções diferentes dos exemplos de captura de tela mostrados aqui.
 
-**Opções de configurações de parceiro**:
+**Opções de configurações de parceiro** :
 
 :::image type="content" source="images/accountsettings/partneroptions.png" alt-text="menu de programas em que você está registrado":::
 
-**Opções de configurações de desenvolvedor**:
+**Opções de configurações de desenvolvedor** :
 
 :::image type="content" source="images/accountsettings/devoptions.png" alt-text="menu de programas em que você está registrado":::
 
@@ -126,6 +126,5 @@ Se você estiver registrado em programas como o MPN ou o CSP (Provedor de Soluç
 |Inscrever-se no Partner Center como um Fornecedor de Painel de Controle|[Inscrever-se no Partner Center como um Fornecedor de Painel de Controle](enroll-as-cpv.md)|
 |Associar sua conta do Microsoft Learn ao Partner Center|[Associar sua conta do Microsoft Learn ao Partner Center](ms-learn-associate.md)|
 |Verifique se sua empresa está disponível no mercado para que os clientes possam encontrar você   |[Criar um perfil de negócios](create-a-marketing-profile.md)|
-|Organize seu catálogo para que os produtos mais importantes estejam na parte superior da lista   |[Personalizar o catálogo](customize-the-catalog.md)|
 |Mantenha-se atualizado em termos de preços e ofertas atuais   |[Preços e ofertas](pricing-and-offers.md)|
-|API: verificar uma ID do MPN do parceiro|[https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md]
+|API: verificar uma ID do MPN do parceiro|[Verificar uma ID do MPN do parceiro](https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md)
