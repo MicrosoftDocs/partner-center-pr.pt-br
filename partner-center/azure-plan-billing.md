@@ -1,22 +1,20 @@
 ---
 title: Cobrança do plano do Azure – arquivos de reconciliação e fatura
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como acessar e entender a estrutura do arquivo de reconciliação e da fatura relacionada à cobrança do plano do Azure.
-author: LauraBrenner
-ms.author: labrenne
-Keywords: ''
-robots: ''
+author: khpavan
+ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fa1d1298f0fd3650bdaa4e6fc6b602844ac199c4
-ms.sourcegitcommit: 83f9c114910282dc87b3ec22d59a8b24b1d6b368
+ms.openlocfilehash: 5d8bb85357d796ae4917faf91c93db8fef4369c2
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84262870"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "92334008"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nova experiência de comércio no CSP – Cobrança do Azure 
 
@@ -30,36 +28,35 @@ A cobrança no âmbito do plano do Azure é uma experiência de cobrança simpli
 
 ## <a name="summary-of-billing-essentials"></a>Resumo dos conceitos básicos de cobrança
 
-- **Data da fatura**: A fatura e o arquivo de reconciliação estarão disponíveis na API/no Painel do Partner Center até o dia oito (à meia-noite, UTC).
+- **Data da fatura** : A fatura e o arquivo de reconciliação estarão disponíveis na API/no Painel do Partner Center até o dia oito (à meia-noite, UTC).
 
-- **Período de cobrança da fatura**: O período de cobrança da fatura é alinhado ao mês civil, por exemplo, 1/10 – 31/10, 1/11 – 30/11.
+- **Período de cobrança da fatura** : O período de cobrança da fatura é alinhado ao mês civil, por exemplo, 1/10 – 31/10, 1/11 – 30/11.
 
-- **Períodos de serviço de cobrança**: As cobranças serão alinhadas ao mês civil. Por exemplo, se o parceiro cobrado adicionar serviços do Azure por meio de um plano do Azure em 15/10 e o cliente iniciar o consumo de serviços do Azure em 10/15, então o parceiro cobrado receberá a fatura/o reconhecimento em 8/11 para o consumo do cliente referente ao período de serviço 15/10 – 31/10. A fatura do próximo mês, que será gerada em 08/12, conterá todos os encargos referentes ao período de serviço de 01/11 – 31/11.
+- **Períodos de serviço de cobrança** : As cobranças serão alinhadas ao mês civil. Por exemplo, se o parceiro cobrado adicionar serviços do Azure por meio de um plano do Azure em 15/10 e o cliente iniciar o consumo de serviços do Azure em 10/15, então o parceiro cobrado receberá a fatura/o reconhecimento em 8/11 para o consumo do cliente referente ao período de serviço 15/10 – 31/10. A fatura do próximo mês, que será gerada em 08/12, conterá todos os encargos referentes ao período de serviço de 01/11 – 31/11.
 
-- **Condição de pagamento da fatura**: Líquido de 60 dias.
+- **Condição de pagamento da fatura** : Líquido de 60 dias.
 
-- **Moeda da fatura**: Os parceiros continuarão sendo cobrados na moeda atribuída ao país do cliente. Por exemplo, se o parceiro cobrado estiver na Irlanda com clientes no Reino Unido, na Noruega e na Alemanha, ele receberá faturas/reconhecimentos em GBP, NOK e EUR.
+- **Moeda da fatura** : Os parceiros continuarão sendo cobrados na moeda atribuída ao país do cliente. Por exemplo, se o parceiro cobrado estiver na Irlanda com clientes no Reino Unido, na Noruega e na Alemanha, ele receberá faturas/reconhecimentos em GBP, NOK e EUR.
 
-- **Incentivos para Parceiros**: pago 45 dias após o final do mês da fatura.
+- **Incentivos para Parceiros** : pago 45 dias após o final do mês da fatura.
 
 ## <a name="access-your-invoices-and-reconciliation-files"></a>Acessar seus arquivos de fatura e reconciliação
 
-O administrador global ou de cobrança da sua empresa receberá um email quando a fatura estiver pronta para ser exibida. 
+O administrador global ou de cobrança da sua empresa receberá um email quando a fatura estiver pronta para ser exibida.
 
-**Para acessar o arquivo de fatura e reconciliação**
+Para acessar o arquivo de fatura e reconciliação:
 
-1. Entre no [Painel](https://partner.microsoft.com/en-us/dashboard/) do Partner Center.
+1. Entre no [Painel](https://partner.microsoft.com/dashboard/) do Partner Center.
 
-2. No menu do Partner Center, selecione **Cobrança**.
+2. No menu do Partner Center, selecione **Cobrança** .
 
 3. Selecione a guia para a **Recorrente** e a **Única** e a moeda em que você está interessado.
 
-![cobrança](images/azure/billing3.png)
+   :::image type="content" source="images/azure/billing3.png" alt-text="cobrança":::
 
-4. Selecione **Fatura** ou **Arquivo de reconciliação**.  
+4. Selecione **Fatura** ou **Arquivo de reconciliação** .  
 
-Para exibir os arquivos históricos de faturas e reconhecimento, expanda a linha do histórico de cobrança, abaixo.
-
+   Para exibir os arquivos históricos de faturas e reconhecimento, expanda a linha do histórico de cobrança, abaixo.
 
 ## <a name="understanding-usage-data"></a>Noções básicas sobre dados de uso 
 
@@ -109,7 +106,7 @@ Para exibir os arquivos históricos de faturas e reconhecimento, expanda a linha
 
 5. Examine o arquivo de reconhecimento de fatura e o arquivo de uso de classificação diária para obter detalhes adicionais de cobrança.
 
-![fatura](images/azure/invoice1.png)
+   :::image type="content" source="images/azure/invoice1.png" alt-text="cobrança":::
 
 ## <a name="read-the-invoice-reconciliation-file"></a>Ler o arquivo de reconciliação/fatura
 
@@ -119,11 +116,11 @@ Para exibir os arquivos históricos de faturas e reconhecimento, expanda a linha
 
 3. Se não houver recursos para um medidor específico qualificado para o desconto ou créditos ganhos pelo parceiro, então o arquivo de reconciliação conterá apenas uma linha de cobrança e o preço unitário efetivo será o preço de varejo (que é o preço unitário).
 
-4. Se o medidor, ou os recursos que emitirem esse medidor, tiver se qualificado para **Créditos ganhos pelo parceiro para serviços gerenciados** em uma parte do mês, então o arquivo de reconciliação conterá duas linhas de cobrança. Uma linha representará os dias em que o medidor se qualificou, ao passo que a outra linha representará os dias em que o medidor não se qualificou. 
+4. Se o medidor, ou os recursos que emitirem esse medidor, tiver se qualificado para **Créditos ganhos pelo parceiro para serviços gerenciados** em uma parte do mês, então o arquivo de reconciliação conterá duas linhas de cobrança. Uma linha representará os dias em que o medidor se qualificou, ao passo que a outra linha representará os dias em que o medidor não se qualificou.
 
 ## <a name="read-the-daily-usage-file"></a>Ler o arquivo de uso diário
 
-- Os medidores de assinatura no âmbito de um plano do Azure são classificados e acumulados diariamente. 
+- Os medidores de assinatura no âmbito de um plano do Azure são classificados e acumulados diariamente.
 
 - **O crédito ganho pelo parceiro para serviços gerenciados** é determinado e aplicado diariamente.
 
@@ -137,22 +134,23 @@ Para exibir os arquivos históricos de faturas e reconhecimento, expanda a linha
 
   - O medidor se qualificou para **Crédito ganho pelo parceiro para serviços gerenciados** de 08/07 – 31/07 (observe que o preço unitário efetivo é o preço de varejo menos os créditos ganhos pelo parceiro).
 
-![recon2](images/azure/pecfinal.png) 
+   :::image type="content" source="images/azure/pecfinal.png" alt-text="cobrança":::
 
-## <a name="invoice-in-customer-currency"></a>Fatura na moeda do cliente 
+## <a name="invoice-in-customer-currency"></a>Fatura na moeda do cliente
 
-Os serviços do Azure por meio de um plano do Azure serão precificados em USD e cobrados na moeda atribuída ao país do cliente. Se a moeda de cobrança não for USD, então a taxa de câmbio usada será mostrada na última página da fatura. As taxas de câmbio são determinadas mensalmente e aplicadas à fatura a seguir. Para obter uma lista completa de moedas por país, exiba a [matriz de moedas do cliente e a disponibilidade por país de novas ofertas de comércio](https://go.microsoft.com/fwlink/?linkid=2112354). 
+Os serviços do Azure por meio de um plano do Azure serão precificados em USD e cobrados na moeda atribuída ao país do cliente. Se a moeda de cobrança não for USD, então a taxa de câmbio usada será mostrada na última página da fatura. As taxas de câmbio são determinadas mensalmente e aplicadas à fatura a seguir. Para obter uma lista completa de moedas por país, exiba a [matriz de moedas do cliente e a disponibilidade por país de novas ofertas de comércio](https://go.microsoft.com/fwlink/?linkid=2112354).
 
 A Microsoft usará o Thomson Reuters para determinar a taxa de FX para o preço da moeda para a conversão de cobrança. As taxas de câmbio serão atualizadas e disponibilizadas no dia anterior ao primeiro dia de cada mês em que forem aplicadas.
 
-**Exemplo**:  Os encargos de uso do período de serviço de 1º de agosto a 31 de agosto serão cobrados usando a taxa de câmbio publicada no dia 31 de julho. Esses encargos serão exibidos na fatura de setembro e a taxa de câmbio poderá ser observada na última página da fatura. 
+**Exemplo** :  Os encargos de uso do período de serviço de 1º de agosto a 31 de agosto serão cobrados usando a taxa de câmbio publicada no dia 31 de julho. Esses encargos serão exibidos na fatura de setembro e a taxa de câmbio poderá ser observada na última página da fatura.
 
- 
-## <a name="azure-reservations"></a>Reservas do Azure 
+## <a name="azure-reservations"></a>Reservas do Azure
 
-Ao comprar [Reservas do Azure](https://docs.microsoft.com/partner-center/azure-reservations) por meio de um plano do Azure, inicialmente, só será possível escolher a cobrança única no Partner Center. A cobrança mensal está disponível no portal do Azure. A cobrança mensal será disponibilizada no Partner Center em uma data posterior. 
 
-## <a name="azure-spending"></a>Gastos do Azure 
+Se você estiver comprando [reservas do Azure](azure-reservations.md) por meio de um plano do Azure, escolha a cobrança única ou mensal.
+
+
+## <a name="azure-spending"></a>Gastos do Azure
 
 A experiência de gastos do Azure existente é atualizada para dar suporte à nova cobrança do plano do Azure no Partner Center. Isso permite aos parceiros:
 
@@ -162,12 +160,12 @@ A experiência de gastos do Azure existente é atualizada para dar suporte à no
 
 Já que o modelo de cobrança para os serviços do Azure por meio de um plano do Azure é o consumo pós-pago, para evitar uma cobrança maior do que o previsto, os parceiros podem aplicar um orçamento mensal e acompanhar o percentual de uso. Um orçamento pode ser aplicado a um cliente ou a vários clientes ao mesmo tempo. 
 
-![Gastos do Azure](images/azure/azurespend.png)
+:::image type="content" source="images/azure/azurespend.png" alt-text="cobrança":::
 
-**Para obter mais informações**
+## <a name="next-steps"></a>Próximas etapas
 
--  Como o PEC (crédito ganho pelo parceiro) é calculado está localizado na lista de preços disponível por meio do [Painel](https://partner.microsoft.com/en-us/dashboard/) do Partner Center (é necessário entrar). 
-   
--  [Comprar o plano do Azure](purchase-azure-plan.md)
+- Veja como o PEC (crédito ganho pelo parceiro) é calculado. Entre no [Painel](https://partner.microsoft.com/dashboard/) do Partner Center e localize a lista de preços disponível.
 
--  [Lista de preços para a nova experiência de comércio no CSP](azure-plan-price-list.md)
+- Saiba mais sobre [como comprar o plano do Azure](purchase-azure-plan.md)
+
+- Veja a [lista de preços para a nova experiência de comércio no CSP](azure-plan-price-list.md)
