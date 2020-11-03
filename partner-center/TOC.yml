@@ -564,6 +564,8 @@
           href: Get-special-pricing-for-offers.md
         - name: Vender para clientes de educação
           href: sell-to-education-customers.md
+        - name: Atualizar o Windows 10 Home para Educação
+          href: upgrade-windows-to-education.md
         - name: Aumentar a adoção e a satisfação
           href: increasing-adoption-and-satisfaction.md
         - name: Simplificar a configuração dos dispositivos com o Windows Autopilot
