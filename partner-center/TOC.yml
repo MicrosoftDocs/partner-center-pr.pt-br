@@ -295,9 +295,6 @@
         - name: Crie seu comprovante de execução
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
-        - name: Enviar uma fatura de tributo como PoE
-          href: incentives-tax-invoice-poe.md
-          displayName: 'incentives, invoice'
     - name: Solicitações de cooperação de incentivos
       items:
         - name: Solicitações de cooperação de incentivo
