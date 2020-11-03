@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/14/2020
-ms.openlocfilehash: 6cba6a782b97e5dc1d17737d1f831d3fc2f4bbaf
-ms.sourcegitcommit: 5aafa34f70074996056a07bc50a75cd85ca77593
+ms.openlocfilehash: 4e78743c8dd03dd4540077aaa9f9d17799d1af80
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92098475"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795793"
 ---
 # <a name="october-2020-announcements"></a>Comunicados de outubro de 2020
 
@@ -22,7 +22,115 @@ Esta página detalha os comunicados de outubro de 2020 sobre o Microsoft Partner
 
 Comunicados de 2020:  [Março](2020-march.md) | [Abril](2020-april.md) | [Maio](2020-may.md) | [Junho](2020-june.md) | [Julho](2020-july.md) | [Agosto](2020-august.md) | [Setembro](2020-september.md) | Outubro
 
+________________________________
 
+## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>Introdução de um padrão de desempenho para requisitos de parceiros de cobrança direta no programa CSP (Provedor de Soluções na Nuvem)
+
+### <a name="categories"></a>Categorias
+
+- Data: 27/10/2020
+- Capacidades
+ 
+### <a name="summary"></a>Resumo
+
+Estamos introduzindo um padrão de desempenho como parte dos requisitos de parceiros de cobrança direta no programa CSP (Provedor de Soluções na Nuvem).
+
+### <a name="impacted-audience"></a>Público-alvo afetado
+
+Parceiros de cobrança direta do programa Provedor de Soluções na Nuvem.
+
+### <a name="details"></a>Detalhes
+
+O crescimento e a otimização do programa Provedor de Soluções na Nuvem da Microsoft é uma parte importante da nossa jornada para uma nova experiência de comércio para parceiros e clientes. Assim, continuaremos desenvolvendo o programa para atender às necessidades em constante mudança dos clientes e fornecer a experiência mais eficiente e lucrativa para vocês, nossos parceiros.
+
+Hoje, compartilhamos algumas alterações futuras nos requisitos de parceiros de cobrança direta do programa Provedor de Soluções na Nuvem.
+
+Primeiro, **estamos introduzindo um padrão de desempenho como parte dos requisitos de parceiros de cobrança direta** . Os parceiros que desejam se registrar como parceiros de cobrança direta no programa Provedor de Soluções na Nuvem precisam ter, pelo menos, US$ 300 mil em receita do programa Provedor de Soluções na Nuvem durante os 12 meses antes da data de renovação do [contrato de suporte obrigatório](https://partner.microsoft.com/support/partnersupport).
+
+Esse padrão de desempenho entrará em vigor em janeiro de 2021 para os parceiros de cobrança direta atuais e você precisará atender aos requisitos até a data de renovação do seu plano de suporte do parceiro.
+
+Se você não conseguir ou preferir não atender aos requisitos atualizados de parceiros de cobrança direta, precisará se registrar novamente como revendedor indireto no programa Provedor de Soluções na Nuvem. 
+
+Esse novo requisito de receita ajudará os parceiros do programa Provedor de Soluções na Nuvem a desenvolver um negócio mais lucrativo por meio do modelo certo, com um padrão de desempenho mais bem definido e se concentrar em oferecer maior valor aos clientes com menos sobrecarga operacional e de infraestrutura.
+
+Em segundo lugar, em agosto de 2018, atualizamos os requisitos de parceiros de cobrança direta com novos critérios para que os parceiros adquiram um plano qualificado de suporte do parceiro. Enfatizamos novamente a importância desse requisito para todos os parceiros de cobrança direta do programa Provedor de Soluções na Nuvem.
+
+### <a name="direct-bill-partner-requirements"></a>Requisitos de parceiros de cobrança direta
+
+Examine os [requisitos atualizados de parceiros de cobrança direta](../direct-partner-new-requirements.md#minimum-requirements) e as recomendações para avaliar como desenvolver e expandir um negócio mais lucrativo com o modelo certo no programa Provedor de Soluções na Nuvem:
+
+1. **Novo requisito de desempenho de receita**
+
+Os **parceiros existentes** atualmente registrados no programa Provedor de Soluções na Nuvem como parceiros de cobrança direta precisarão atender ao novo padrão de desempenho a partir de janeiro de 2021. Você terá tempo até a próxima data de renovação do seu plano de suporte do parceiro para atender aos requisitos. Examine sua receita dos últimos doze meses no Partner Center seguindo [este guia](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf).
+
+Os novos parceiros que se registrarem no programa Provedor de Soluções na Nuvem começarão como revendedores indiretos a partir de **outubro de 2020** . Eles precisam ter, pelo menos, US$ 300 mil em receita do CSP durante os 12 meses anteriores. Examine sua receita dos últimos 12 meses no Partner Center seguindo [este guia](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf). 
+
+2. **Requisito de contrato de suporte** 
+
+Expanda suas funcionalidades de suporte adquirindo uma das duas opções de contrato de suporte:  
+
+   - ASfP (Suporte Avançado para Parceiros) da Microsoft: Suporte de nuvem priorizado e individual  
+   - PSfP (Suporte Premier para Parceiros) da Microsoft: Acesse o catálogo completo de serviços proativos, suporte contínuo de interrupção/correção elevado 24 horas por dia, 7 dias por semana, e gerenciamento de contas técnicas entre nuvem, híbrido e local. 
+
+Compare as [opções de contrato de suporte](https://partner.microsoft.com/support/partnersupport) para adquirir um plano qualificado.
+
+### <a name="direct-bill-partner-recommendations"></a>Recomendações para parceiros de cobrança direta
+
+**Demonstrar as principais funcionalidades**
+
+Para ajudar a garantir que você esteja pronto e conheça a infraestrutura necessária para dar suporte ao programa Direct Bill, temos mais algumas recomendações. Demonstre que você fornece pelo menos um serviço gerenciado, serviço IP ou aplicativo de solução de cliente. Os parceiros devem agregar valor aos serviços em nuvem da Microsoft e não apenas fazer uma revenda direta dos nossos serviços. Essa é uma parte importante da estratégia de go-to-market de um parceiro. [Saiba mais](https://partner.microsoft.com/solutions/managed-services) sobre como adicionar serviços gerenciados. Recomendamos que você atenda às funcionalidades de infraestrutura mínima, como cobrança e provisionamento. 
+
+Os parceiros de cobrança direta do programa CSP que não atenderem aos novos requisitos precisarão se registrar novamente como revendedores indiretos do programa no Microsoft Partner Network. [Saiba mais](../transition-direct-to-indirect.md) sobre como fazer a transição de parceiro de cobrança direta para revendedor indireto.  
+
+### <a name="next-steps"></a>Próximas etapas
+
+- Examine os [requisitos atualizados de parceiros de cobrança direta](../direct-partner-new-requirements.md#minimum-requirements).
+- Examine as perguntas frequentes e outras informações na [Galeria de Recursos de Operações no site de parceiros da Microsoft](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/).
+- Encontre [um provedor indireto para trabalhar com ele](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider) se a opção de revendedor indireto se ajustar melhor às suas necessidades comerciais.
+________________________________
+
+## <a name="microsoft-365-business-voice-offer-updates"></a><a name="12"></a>Atualizações da oferta Microsoft 365 Business Voice
+
+### <a name="categories"></a>Categorias
+
+- Data: 16/10/2020
+- Ofertas/mercados
+ 
+### <a name="summary"></a>Resumo
+
+As IDs de oferta na versão prévia da lista de preços de novembro estavam incorretas.
+
+### <a name="impacted-audience"></a>Público-alvo afetado
+
+Todos os parceiros que fazem transações pelo programa CSP (Provedor de Soluções na Nuvem)
+
+### <a name="details"></a>Detalhes
+
+Recentemente, compartilhamos os comunicados sobre as novas ofertas que serão disponibilizadas em novembro: [Microsoft 365 Business Voice para organizações sem fins lucrativos](#10) e [Microsoft 365 Business Voice](#9).
+
+
+Algumas IDs de oferta nesses comunicados foram corrigidas. A previsão é que essas IDs de oferta corrigidas sejam publicadas na atualização da lista de preços de novembro nas próximas semanas.
+
+#### <a name="correct-offer-ids"></a>IDs de oferta corretas
+
+   |**Nome da oferta**|**ID da oferta**|**ID do material**|
+   |-------------------|:------|:------|
+   |Promoção de Adoção do Microsoft 365 Business Voice (SOMENTE EUA)|4244aed3-90ae-4754-8dc8-37f2e8d84e85|PZW-00020|
+   |Microsoft 365 Business Voice (Preço para Equipes de Organizações sem Fins Lucrativos)|8ede98bb-64b1-44b6-a6a9-96e8346b2e15|PZW-00018|
+
+#### <a name="incorrect-offer-ids"></a>IDs de oferta incorretas
+
+As informações das IDs de oferta da versão prévia da lista de preços de novembro a seguir devem ser desconsideradas. 
+
+   |**Nome da oferta**|**ID da oferta**|
+   |-------------------|:------|
+   |Promoção de Adoção do Microsoft 365 Business Voice (SOMENTE EUA)|93a8771f-ddc7-4c68-ac21-6bd1b17d1e5b|
+   |Microsoft 365 Business Voice (Preço para Equipes de Organizações sem Fins Lucrativos)|ae54a18d-3472-473a-9b21-9831b8e658f3|
+
+### <a name="next-steps"></a>Próximas etapas
+
+- Familiarize-se com a lista de preços da versão prévia e compartilhe essas informações com todos os contatos apropriados da sua organização.
+- Examine todos os materiais de preparação na Galeria de Recursos do Programa CSP [Apresentação do Microsoft 365 Business Voice para pequenas e médias empresas](https://partner.microsoft.com/resources/collection/m365-voice-smb).
 ________________
 
 ## <a name="november-2020-update-online-services-and-software-channel-authorization-guide"></a><a name="11"></a>Atualização de novembro de 2020: Guia de Autorização de Serviços Online e Canais de Software
@@ -124,7 +232,7 @@ Essas promoções afetarão os seguintes clientes:
 #### <a name="additional-resources"></a>Recursos adicionais
 
 - Visite a [Página do Parceiro do Microsoft 365 Business Voice](https://www.microsoft.com/microsoft-365/partners/businessvoice) para saber mais sobre o Business Voice. 
-- Confira a Audioconferência no Microsoft 365 para saber mais sobre [funcionalidades de Audioconferência](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365).
+- Confira a Audioconferência no Microsoft 365 para saber mais sobre [funcionalidades de Audioconferência](/microsoftteams/audio-conferencing-in-office-365).
 - Saiba mais sobre essas promoções nas [Perguntas frequentes do parceiro](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo) relacionadas.
 
 ### <a name="next-steps"></a>Próximas etapas
@@ -165,7 +273,7 @@ Veja as novidades no portal do Azure:
 
 - Navegação flexível que permite exibir, editar e salvar informações em qualquer seção sem a necessidade de concluir a seção anterior.
 - Nova exibição de página inteira sem vários níveis aninhados.
-- Nova funcionalidade para marcar e organizar recursos do Azure. Saiba mais sobre marcação, confira [Usar marcas para organizar os recursos do Azure](https://docs.microsoft.com/azure/azure-resource-manager/management/tag-resources).
+- Nova funcionalidade para marcar e organizar recursos do Azure. Saiba mais sobre marcação, confira [Usar marcas para organizar os recursos do Azure](/azure/azure-resource-manager/management/tag-resources).
 
 Se tiver dúvidas sobre essas alterações, entre em contato com a [equipe de suporte](https://aka.ms/marketplacepublishersupport).
 
@@ -382,7 +490,7 @@ Em 1º de novembro de 2020, a Microsoft lançará as seguintes ofertas e produto
 
 - Examine a guia Operações do projeto do documento do Excel [Ofertas do Dynamics CSP – novembro de 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) para obter os detalhes da ID da oferta.
 - Encontre mais informações na [Home Page da Opinião do Cliente para o Microsoft Dynamics 365](https://dynamics.microsoft.com/customer-voice/overview/).
-- Veja o [comunicado sobre as novas ofertas do Dynamics](https://docs.microsoft.com/partner-center/announcements/2020-september#3) de setembro.
+- Veja o [comunicado sobre as novas ofertas do Dynamics](2020-september.md#3) de setembro.
 
 ________________
 

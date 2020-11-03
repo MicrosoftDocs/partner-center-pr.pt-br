@@ -7,13 +7,13 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 10/02/2020
-ms.openlocfilehash: 27b269016822157b8f3a20541fd027bd2c03ee75
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 10/29/2020
+ms.openlocfilehash: 54c90cce33a1eabc87357048c348ffa2cc03de19
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663867"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133143"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Gerenciar incentivos de reclamações de cooperação
 
@@ -65,15 +65,13 @@ Se for determinado que os materiais fornecidos com sua declaração de cooperaç
 
 1. Entre no painel [Partner Center](https://partner.microsoft.com/dashboard/).
 
-2. Em **incentivos**, selecione **Gerenciamento de planos**.
+2. Em **incentivos** , selecione **Gerenciamento de cooperação** .
 
-3. Selecione **Gerenciamento de cooperação**.
+3. Selecione a declaração de cooperação que você deseja contestar. A página de declaração de cooperação é aberta.
 
-4. Selecione a declaração de cooperação que você deseja contestar. A página de declaração de cooperação é aberta.
+4. Na parte inferior da página, selecione **Contestar** .
 
-5. Na parte inferior da página, selecione **Contestar**.
-
-A equipe de validação das declarações de cooperação analisará a declaração em cinco dias úteis. Durante esse tempo, o status será exibido como **Contestado**. Podemos entrar em contato com você para solicitar informações adicionais. Quando a revisão é concluída, a equipe de validação atualiza o status para **Aprovada**, **Rejeitada** ou **Requer ação do parceiro**.
+A equipe de validação das declarações de cooperação analisará a declaração em cinco dias úteis. Durante esse tempo, o status será exibido como **Contestado** . Podemos entrar em contato com você para solicitar informações adicionais. Quando a revisão é concluída, a equipe de validação atualiza o status para **Aprovada** , **Rejeitada** ou **Requer ação do parceiro** .
 
 ## <a name="next-steps"></a>Próximas etapas
 

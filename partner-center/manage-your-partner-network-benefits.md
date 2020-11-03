@@ -1,7 +1,7 @@
 ---
 title: Gerenciar os benefícios do Microsoft Partner Network
-ms.topic: article
-ms.date: 09/03/2020
+ms.topic: how-to
+ms.date: 10/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Junte-se ao MPN (Microsoft Partner Network) e use o Partner Center para gerenciar os benefícios e as ofertas de associação que podem ajudar a aumentar os seus negócios.
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ee0158bfd902e1cc0a4a664b6d051a41d1e209ce
-ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
+ms.openlocfilehash: 321e3c7f48106d29e44941f24b9cd709662618a9
+ms.sourcegitcommit: 4a88db7e9e90b4fbb2ba82af38d7f77b016977f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "89427083"
+ms.lasthandoff: 10/24/2020
+ms.locfileid: "92523581"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Gerenciar as suas ofertas e benefícios de associação ao Microsoft Partner Network no Partner Center
 
@@ -43,7 +43,7 @@ Depois de comprar um pacote de benefícios de associação, você precisará obt
 
 Os pacotes de benefícios incluem alocações de software licenciado, serviços de nuvem, assinaturas do Visual Studio e suporte técnico. Os pacotes de benefícios também podem incluir determinados recursos de entrada no mercado, ofertas e programas relacionados ao mercado. Obtenha os detalhes sobre a assinatura do Action Pack no site do [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
-Para ver e gerenciar todos os benefícios de associação, acesse a página [**Benefícios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (requer credenciais). Como alternativa, você pode entrar no [Painel](https://partner.microsoft.com/dashboard) do Partner Center, selecionar a [**opção Benefícios**] no menu à esquerda e, em seguida, selecionar as opções de benefícios exibidas.  
+Para ver e gerenciar todos os benefícios de associação, acesse a página [**Benefícios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (requer credenciais). Como alternativa, você pode entrar no [Painel](https://partner.microsoft.com/dashboard) do Partner Center, selecionar a [ **opção Benefícios** ] no menu à esquerda e, em seguida, selecionar as opções de benefícios exibidas.  
 
 Para ativar a maioria dos benefícios ou baixar as chaves de software relacionadas etc., o Partner Center geralmente exige alguém que exerça a função de administrador global ou administrador de parceiros do MPN. Se você não conseguir ver os benefícios nem os ativar, verifique com o administrador global do Partner Center se você tem as permissões necessárias. [Saiba mais sobre as funções do Partner Center](permissions-overview.md).
 
@@ -79,14 +79,15 @@ Para ativar a maioria dos benefícios ou baixar as chaves de software relacionad
 
 2. Encontre a assinatura que deseja começar a usar e, em seguida, selecione a seta para baixo na extremidade direita da linha para expandir os detalhes da assinatura.
 
-3. Para ativar uma assinatura do Visual Studio, selecione um usuário na lista e, em seguida, selecione **Atribuir usuário**.
+3. Para ativar uma assinatura do Visual Studio, selecione um usuário na lista e, em seguida, selecione **Atribuir usuário** .
 
    > [!IMPORTANT]  
-   > Se o usuário que você desejar atribuir não estiver na lista, você poderá [adicionar novos usuários](create-user-accounts-and-set-permissions.md) em **Configurações da conta**.
+   > Se o usuário que você desejar atribuir não estiver na lista, você poderá [adicionar novos usuários](create-user-accounts-and-set-permissions.md) em **Configurações da conta** .
 
 4. Repita esse processo para cada assinatura que deseja atribuir. Os usuários podem gerenciar suas respectivas assinaturas no portal do Visual Studio.
 
-   É possível reatribuir assinaturas a qualquer momento removendo um usuário atribuído e, em seguida, atribuindo outro usuário.
+   >[!Note]
+   >Os administradores de assinaturas do Visual Studio poderão transferir assinaturas de um assinante para outro se houver transcorrido 90 dias desde a hora da atribuição original. Para obter mais informações, leia o [Guia de Programas para Parceiros da Microsoft](https://aka.ms/partner-benefits-use-guide).
 
 ## <a name="manage-technical-benefits"></a>Gerenciar benefícios técnicos
 
@@ -102,7 +103,7 @@ Para ver seus benefícios técnicos no Partner Center, faça o seguinte:
 
 3. Expanda a lista de benefícios. Para começar a aproveitar um benefício de suporte específico, você precisará fazer o seguinte na primeira vez que usá-lo:
 
-   - **Ative o benefício técnico.** Após expandir os detalhes de um benefício, selecione **Ativar**. Aguarde alguns dias para processar sua solicitação de ativação.
+   - **Ative o benefício técnico.** Após expandir os detalhes de um benefício, selecione **Ativar** . Aguarde alguns dias para processar sua solicitação de ativação.
 
    - **Veja e compartilhe a ID de Acesso e a ID de Contrato do suporte de produtos.** Depois que a solicitação de ativação for processada, você verá detalhes sobre a **ID de Acesso** e a **ID de Contrato** da próxima vez que expandir esse benefício técnico. Você ou os usuários da sua empresa podem precisar compartilhar essas informações na primeira vez que você enviar uma solicitação de suporte para determinados tipos de produtos ou serviços.
 
@@ -112,7 +113,7 @@ Para ver seus benefícios técnicos no Partner Center, faça o seguinte:
 
    **Suporte técnico (interrupção/reparo).** Use esse tipo de suporte técnico quando a funcionalidade estiver danificada ou quando algo não estiver funcionando conforme o esperado (por exemplo, quando você receber uma mensagem de erro). Estas são algumas diretrizes:
 
-   - Somente para parceiros da Competências Gold/Silver (não disponível para assinantes do Action Pack), use o **Suporte ao Produto da Assinatura** para **Produtos de nuvem**.
+   - Somente para parceiros da Competências Gold/Silver (não disponível para assinantes do Action Pack), use o **Suporte ao Produto da Assinatura** para **Produtos de nuvem** .
 
    - Para parceiros da Competências Action Pack e Gold/Silver, use os incidentes do **suporte de Produtos da Microsoft** para **produtos locais recentes** (somente versões atuais e anteriores).
 
@@ -136,22 +137,22 @@ Para ver seus benefícios técnicos no Partner Center, faça o seguinte:
 
 2. Para ativar qualquer benefício ou programa de entrada no mercado, primeiro, você precisará atribuir um contato de marketing da empresa. Este contato receberá comunicações de acompanhamento sobre suas ofertas ativas de entrada no mercado.
 
-3. Para adicionar ou atualizar suas informações de contato de marketing, acesse a parte superior da página Entrada no mercado e, em seguida, selecione **Adicionar**, **Atualizar** ou **Alterar**. Agora, siga estas etapas:  
+3. Para adicionar ou atualizar suas informações de contato de marketing, acesse a parte superior da página Entrada no mercado e, em seguida, selecione **Adicionar** , **Atualizar** ou **Alterar** . Agora, siga estas etapas:  
 
-   a. Selecione um usuário na lista. Se o usuário que você desejar atribuir não estiver na lista, você poderá [adicionar novos usuários](create-user-accounts-and-set-permissions.md) em **Configurações da conta**.
+   a. Selecione um usuário na lista. Se o usuário que você desejar atribuir não estiver na lista, você poderá [adicionar novos usuários](create-user-accounts-and-set-permissions.md) em **Configurações da conta** .
 
    b. Forneça um endereço de email para o usuário que seja diferente do endereço de email associado à conta do Partner Center da sua empresa.
 
       Enviaremos instruções por email para uso de sua oferta de entrada no mercado ao endereço de email do contato de marketing designado.
 
-   c.  Forneça o telefone de contato e o idioma preferencial para esse contato de marketing. Depois de concluir a inserção dessas informações, selecione **Atribuir usuário**.
+   c.  Forneça o telefone de contato e o idioma preferencial para esse contato de marketing. Depois de concluir a inserção dessas informações, selecione **Atribuir usuário** .
 
-4. Depois de atualizar seu contato de marketing, encontre a oferta de entrada no mercado que deseja começar a usar e, em seguida, selecione a seta para baixo na extremidade direita da linha para expandir os detalhes da oferta. A lista exibirá cada tipo de oferta disponível abaixo do nome do Benefício (como **Silver Core**, **Gold Core** ou **ISV Pronto para Venda Conjunta**).
+4. Depois de atualizar seu contato de marketing, encontre a oferta de entrada no mercado que deseja começar a usar e, em seguida, selecione a seta para baixo na extremidade direita da linha para expandir os detalhes da oferta. A lista exibirá cada tipo de oferta disponível abaixo do nome do Benefício (como **Silver Core** , **Gold Core** ou **ISV Pronto para Venda Conjunta** ).
 
 5. Selecione **Ativar** para ativar a oferta.
 
    > [!NOTE]
-   >Pode levar vários dias para enviar as instruções por email ao contato de marketing atribuído e ativar uma oferta de entrada no mercado. Quando a oferta for ativada, você verá as alterações na página Entrada no mercado. Na coluna **Status**, você verá a alteração da oferta para **Ativo**. Na coluna **Expira em**, você verá a data na qual a oferta expira. Você pode usar essa oferta até a data de validade. Saiba mais sobre os [diferentes tipos de recursos, ofertas e programas de entrada no mercado](mpn-learn-about-go-to-market-benefits.md) disponíveis.  
+   >Pode levar vários dias para enviar as instruções por email ao contato de marketing atribuído e ativar uma oferta de entrada no mercado. Quando a oferta for ativada, você verá as alterações na página Entrada no mercado. Na coluna **Status** , você verá a alteração da oferta para **Ativo** . Na coluna **Expira em** , você verá a data na qual a oferta expira. Você pode usar essa oferta até a data de validade. Saiba mais sobre os [diferentes tipos de recursos, ofertas e programas de entrada no mercado](mpn-learn-about-go-to-market-benefits.md) disponíveis.  
 
 ## <a name="cancel-a-membership-benefit-or-offer"></a>Cancelar um benefício ou oferta de associação
 

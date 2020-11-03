@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 06/24/2020
-ms.openlocfilehash: 99b688cae786f1abcb3059c706345c4089fa129a
-ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
+ms.date: 10/27/2020
+ms.openlocfilehash: 4df4e473ea31ad5a9f0da52ab45f65000db344d9
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "92352862"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917205"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,6 +22,9 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 | **Categoria** | **Comunicados de outubro de 2020** | **Comunicado** |
 |---------|:---------|:---------|
+|Funcionalidades|[Já está disponível uma experiência digital atualizada do CSP (Provedor de Soluções na Nuvem)](2020-october.md#15)|28 de outubro|
+|Funcionalidades|[Introdução de um padrão de desempenho para requisitos de parceiro de cobrança direta no programa CSP (Provedor de Soluções na Nuvem)](2020-october.md#13)|27 de outubro|
+|Ofertas/mercados|[Atualizações da lista de preços de assinaturas de software do CSP (Provedor de Soluções na Nuvem) de outubro de 2020](2020-october.md#14)|26 de outubro|
 |Ofertas/mercados|[Atualizações de oferta para o Microsoft 365 Business Voice](2020-october.md#12)|16 de outubro|
 |Funcionalidades|[Atualização de novembro de 2020: Guia de autorização do canal de software e dos serviços online](2020-october.md#11)|14 de outubro|
 |Ofertas/mercados|[Apresentação do Microsoft 365 Business Voice para organizações sem fins lucrativos](2020-october.md#10)|12 de outubro|

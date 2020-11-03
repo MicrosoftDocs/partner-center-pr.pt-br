@@ -1,7 +1,7 @@
 ---
 title: Trabalhar com provedores indiretos no programa CSP
 ms.topic: how-to
-ms.date: 04/27/2020
+ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como revendedores indiretos no programa CSP podem trabalhar com provedores indiretos da Microsoft (ou distribuidores) para obter ajuda no cobrança e atendimento ao cliente.
@@ -10,20 +10,23 @@ ms.custom: contperfq2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 1b8b6f3c094471e67d43701a83da46d7dd1372a0
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 74edfbfd766e6969b278c9ad83b3a12b7ef95abd
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006831"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795841"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Aprenda como fazer parcerias com provedores indiretos no programa CSP (Provedor de Soluções na Nuvem)
 
+**Aplica-se a**
+
+- Partner Center
+
 **Funções apropriadas**
 
-- Administrador global
-- Administrador de usuários
-- Agente administrativo
+
+- Todos os parceiros da Microsoft interessados em se registrar no programa Provedor de Soluções na Nuvem
 
 
 A demanda crescente por serviços e soluções baseadas em nuvem oferece muitas oportunidades para os parceiros da Microsoft de todos os tamanhos para criar empresas de solução em nuvem rentáveis. Os parceiros que estão prontos para se inserir no mercado, mas que não querem gerenciar vários fornecedores ou que podem não ter uma infraestrutura de gerenciamento de relacionamento com o cliente de ponta a ponta, podem inscrever-se no programa de CSP (Provedor de Soluções na Nuvem) da Microsoft como revendedores indiretos.
@@ -47,7 +50,7 @@ Para saber mais sobre o que é necessário para venda no programa CSP, como um r
 
 ### <a name="before-you-begin"></a>Antes de começar
 
-Se você for iniciante no CSP, precisará se inscrever no programa como revendedor indireto. Em seguida, você deverá criar uma conta na Central de Parceiros. Para fazer isso, você precisará fornecer as seguintes informações durante o processo de inscrição. É recomendável coletar estes itens antes de começar:
+A partir de outubro de 2020, todos os novos parceiros da Microsoft no CSP serão registrados no programa CSP como revendedores indiretos. Em seguida, você deverá criar uma conta na Central de Parceiros. Para fazer isso, você fornecerá as informações a seguir durante o processo de registro. É recomendável coletar estes itens antes de começar:
 
 - **Credenciais de administrador global para sua conta corporativa**
 
@@ -65,28 +68,28 @@ Se você for iniciante no CSP, precisará se inscrever no programa como revended
 
 ### <a name="get-started"></a>Introdução
 
-1. Para iniciar o processo, vá para a [**Página Inicial**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) para se registrar.
+1. Para iniciar o processo de registro, acesse a [**página inicial**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) para se registrar.
 
-2. Reveja a **Página Inicial** para certificar-se de que tem as informações necessárias para o registro e, em seguida, selecione **Avançar**.
+2. Reveja a **Página Inicial** para certificar-se de que tem as informações necessárias para o registro e, em seguida, selecione **Avançar** .
 
 3. Entre com as informações da sua conta. Selecione **Entrar** e insira o nome de usuário e senha que você usa para fazer login como um administrador global para o Office 365, Microsoft Azure ou Microsoft Dynamics CRM.
 
    Se você não tiver uma conta corporativa, selecione **Criar uma** para configurar uma agora. Depois de configurar uma conta corporativa, faça login usando as credenciais da sua nova conta.
 
-4. Examine as informações sobre como associar seu ID do Microsoft Partner Network (ID de MPN) com sua nova conta do Partner Center. Precisamos vincular a ID do MPN da sua empresa à sua nova conta do Partner Center para que você possa gerenciar seus benefícios e incentivos de associação no Partner Center. Selecione **Entrar**.
+4. Examine as informações sobre como associar seu ID do Microsoft Partner Network (ID de MPN) com sua nova conta do Partner Center. Precisamos vincular a ID do MPN da sua empresa à sua nova conta do Partner Center para que você possa gerenciar seus benefícios e incentivos de associação no Partner Center. Selecione **Entrar** .
 
-5. Insira o nome de usuário que você usa para entrar no site do Partner Membership Center (PMC). O site do Partner Membership Center é onde você gerencia sua conta de parceiro da Microsoft atualmente. Fazer login no Partner Membership Center nos permite recuperar seu ID de MPN e associá-lo à sua nova conta do Partner Center. Selecione **Avançar**.
+5. Insira o nome de usuário que você usa para entrar no site do Partner Membership Center (PMC). O site do Partner Membership Center é onde você gerencia sua conta de parceiro da Microsoft atualmente. Fazer login no Partner Membership Center nos permite recuperar seu ID de MPN e associá-lo à sua nova conta do Partner Center. Selecione **Avançar** .
 
-6. Insira a senha de sua conta do Partner Membership Center e, em seguida, selecione **Entrar**.
+6. Insira a senha de sua conta do Partner Membership Center e, em seguida, selecione **Entrar** .
 
-7. Selecione o perfil da empresa com a ID do MPN vinculada aos incentivos, aos benefícios de associação e às competências. Então, podemos mover essas informações para sua conta da Central de Parceiros. Selecione **Continuar**.
+7. Selecione o perfil da empresa com a ID do MPN vinculada aos incentivos, aos benefícios de associação e às competências. Então, podemos mover essas informações para sua conta da Central de Parceiros. Selecione **Continuar** .
 
    Caso a ID do MPN que você deseja usar não esteja listada nesta página, clique em **Cancelar** e entre novamente com o nome de usuário e a senha do perfil da empresa que deseja usar.
 
    > [!IMPORTANT]  
    > Selecione a ID do MPN associada a um perfil ativo da empresa localizado no mesmo país/mesma região que o seu locatário do Azure AD.
 
-8. Forneça ou atualize o perfil comercial jurídico, as informações de contato principal e suporte ao cliente da sua empresa. Selecione **Registrar agora**.
+8. Forneça ou atualize o perfil comercial jurídico, as informações de contato principal e suporte ao cliente da sua empresa. Selecione **Registrar agora** .
 
    O contato principal deverá ser a pessoa na empresa com quem poderemos entrar em contato sobre seu aplicativo. O contato principal poderá ser você ou outra pessoa em sua empresa. Observação: Não aceitamos endereços de email de serviços de email baseados na Web, como Gmail, Yahoo! Mail, iCloud Mail, AOL Mail ou o email do Outlook.
 
@@ -95,9 +98,19 @@ Se você for iniciante no CSP, precisará se inscrever no programa como revended
 
 9. Quando sua conta do Partner Center estiver pronta para uso, verifique se que você foi adicionado ao grupo do agente administrador. Para concluir a configuração de sua conta, incluindo a adição de outros usuários, você deve ter permissões de agente administrador. Siga estas etapas para exibir ou atualizar suas permissões:
 
-   1. Em seu **Partner Center**, selecione o ícone **Configurações** e então selecione **Gerenciamento de usuários**.
+   1. Em seu **Partner Center** , selecione o ícone **Configurações** e então selecione **Gerenciamento de usuários** .
 
-   2. Selecione seu nome na lista de usuários. Em seguida, selecione **Agente administrador** se ainda não estiver selecionado. Selecione **Atualizar**.
+   2. Selecione seu nome na lista de usuários. Em seguida, selecione **Agente administrador** se ainda não estiver selecionado. Selecione **Atualizar** .
+
+## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Todos os revendedores indiretos precisam assinar o Contrato de Parceiro da Microsoft
+
+1.  Se você ainda não migrou do Partner Membership Center para o Partner Center, faça isso agora. Para obter ajuda sobre como migrar para o Partner Center, leia o [Guia de migração do PMC para o Partner Center](guide-to-migration.md). 
+
+2.  Caso tenha uma conta de associação do Partner Center (ID do MPN), você ainda precisa se registrar oficialmente no programa Provedor de Soluções na Nuvem. Para verificar seu status de associação, acesse seu [**Perfil do parceiro**](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) e confirme o tipo de conta. Em seguida, [registre-se no CSP como revendedor indireto](enrolling-in-the-csp-program.md). Depois de se registrar como revendedor indireto, [aceite a solicitação de relacionamento de CSP do seu Provedor Indireto](indirect-reseller-tasks-in-partner-center.md).
+
+3.  Caso já tenha se registrado no Partner Center como revendedor indireto, aceite o Contrato de Parceiro da Microsoft na [visão geral do Painel do Partner Center](https://partner.microsoft.com/pcv/dashboard/overview) usando as credenciais de Administrador Global. Confirme se você assinou o Contrato de Parceiro da Microsoft na seção **Informações do Programa** do Perfil do parceiro. Além disso, você verá uma barra de notificação de confirmação na página Visão Geral do CSP. 
+
+:::image type="content" source="images/mpagreen.png" alt-text="Barra de notificação aceita em verde":::
 
 
 ## <a name="connect-with-an-indirect-provider"></a>Conectar-se com um provedor indireto
@@ -112,7 +125,7 @@ Se um provedor indireto quiser se conectar com você no Partner Center, ele vai 
 
 2. Para aceitar o convite, siga o link no email do provedor. Talvez seja necessário entrar novamente no Partner Center.
 
-3. Para confirmar a parceria com o provedor, marque a caixa e selecione **Autorizar provedor indireto**. O provedor agora está listado na página **Provedores indiretos** e sua empresa agora está listada na página **Revendedores indiretos** do provedor.
+3. Para confirmar a parceria com o provedor, marque a caixa e selecione **Autorizar provedor indireto** . O provedor agora está listado na página **Provedores indiretos** e sua empresa agora está listada na página **Revendedores indiretos** do provedor.
 
    > [!NOTE]  
    > Quando você estabelece uma parceria com um provedor indireto, o está autorizando a enviar pedidos e a adicionar assinaturas em nome de seus clientes, além de conceder a ele acesso de administrador à conta corporativa da sua empresa. Depois que a parceria tiver sido estabelecida com o provedor, você poderá remover o acesso de administrador do provedor à sua conta de trabalho no portal do Office 365.
@@ -128,6 +141,8 @@ Se um provedor indireto quiser se conectar com você no Partner Center, ele vai 
 
 
 ## <a name="next-steps"></a>Próximas etapas
+
+- [O processo de verificação de conta](verification-responses.md)
 
 - [Gerenciar sua conta do Partner Center](partner-center-account-setup.md)
 

@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 04/27/2020
-ms.openlocfilehash: c5b07e353ebbeeb53de3d90abf229a8ce79ade8f
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.date: 10/09/2020
+ms.openlocfilehash: 98c9cdd96af037e8543828e3a6f2e93c5b0fcbcd
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89366850"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795756"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Requisitos para registro como parceiro de cobrança direta do CSP
 
@@ -32,9 +32,10 @@ Como um parceiro de cobrança direta, você tem a relação de ponta a ponta com
 |--------------------------------|--------------------------------------------------------------|
 |**ID do MPN**   |Uma ID do Microsoft Partner Network (MPN) ativa para o local de sua empresa.    |
 |**Endosso**   |A autoridade de aceitar e assinar contratos legais em nome de sua organização.|
+|**Receita**|A partir de janeiro de 2021, os parceiros registrados como parceiros de cobrança direta precisarão ter feito transações de, pelo menos, US$ 300 mil em receita do programa Provedor de Soluções na Nuvem em um nível de Conta Global do Parceiro nos 12 meses anteriores.| 
 |**Suporte**   |A capacidade de fornecer o primeiro nível de suporte a produtos em nuvem aos seus clientes. <br/>Um plano de suporte da Microsoft, seja o Suporte Avançado para Parceiros (ASfP) ou o Suporte Premier para Parceiros (PSfP), dependendo das necessidades de suporte de seus clientes. [Compare os planos de suporte](https://partner.microsoft.com/support/partnersupport).<br/> IMPORTANTE: Você precisa ser aprovado em uma verificação de crédito antes de poder comprar um plano de suporte. Enviaremos um email a você quando você for aprovado na verificação de crédito. |
 |**Serviço gerenciado**   |Pelo menos um serviço gerenciado, serviço IP ou aplicativo de solução de cliente. Saiba mais sobre como adicionar [serviços gerenciados](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
-|**Contas a receber** |A infraestrutura organizacional no local para gerenciar a cobrança e o provisionamento do cliente.
+|**Contas a receber** |A infraestrutura organizacional no local para gerenciar a cobrança e o provisionamento do cliente.|
 
 ### <a name="verify-direct-bill-eligibility"></a>Verificar qualificação de conta direta
 

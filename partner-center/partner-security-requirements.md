@@ -1,7 +1,7 @@
 ---
 title: Requisitos de segurança de parceiros
 ms.topic: article
-ms.date: 10/05/2020
+ms.date: 10/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Apresenta os requisitos do parceiro para habilitar a Autenticação Multifator (MFA) e adotar a estrutura do Modelo de Aplicativo Seguro.
@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 361a36adf40af67769a9a24ba1c485f2ad95b98c
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: c92e8c9a9a08582d89ef478a4600f737a548b787
+ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91763349"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92680393"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>Requisitos de segurança do parceiro para parceiros usando o Partner Center ou as APIs do Partner Center
 
@@ -41,9 +41,9 @@ Os parceiros que não implementarem os requisitos de segurança obrigatórios n�
 
 Para proteger você e seus clientes, estamos exigindo que os parceiros executem as seguintes ações imediatamente:  
 
-1. **Habilite a MFA (Autenticação Multifator) para todas as contas de usuário no locatário de parceiros**. Todas as contas de usuário em locatários de parceiros devem ser desafiadas pela Autenticação Multifator (MFA) ao entrarem nos serviços de nuvem comercial da Microsoft ou ao realizarem transações no programa Provedor de Soluções na Nuvem por meio do Partner Center ou de APIs.
+1. **Habilite a MFA (Autenticação Multifator) para todas as contas de usuário no locatário de parceiros** . Todas as contas de usuário em locatários de parceiros devem ser desafiadas pela Autenticação Multifator (MFA) ao entrarem nos serviços de nuvem comercial da Microsoft ou ao realizarem transações no programa Provedor de Soluções na Nuvem por meio do Partner Center ou de APIs.
 
-2. **Adote a estrutura do Modelo de Aplicativo Seguro**. Adote a estrutura do Modelo de Aplicativo Seguro. Todos os parceiros que integram a API do Partner Center devem adotar a estrutura do Modelo de Aplicativo Seguro para qualquer aplicativo + aplicativos de modelo de autenticação de usuário.
+2. **Adote a estrutura do Modelo de Aplicativo Seguro** . Adote a estrutura do Modelo de Aplicativo Seguro. Todos os parceiros que integram a API do Partner Center devem adotar a estrutura do Modelo de Aplicativo Seguro para qualquer aplicativo + aplicativos de modelo de autenticação de usuário.
 
     > [!IMPORTANT]
     > É altamente recomendável que os parceiros implementem o Modelo de Aplicativo Seguro para integrar com uma API da Microsoft, como Azure Resource Manager, Microsoft Graph ou aproveitar a automação, como o PowerShell, usando as credenciais do usuário, para evitar qualquer interrupção quando a MFA é imposta.
@@ -58,7 +58,7 @@ Para atender aos requisitos de segurança do parceiro, você precisa impor a aut
 
 - Comprar o Azure Active Directory Premium para cada conta de usuário. Para obter mais informações, consulte [Planejando uma implantação de Autenticação Multifator do Azure baseada em nuvem](/azure/active-directory/authentication/howto-mfa-getstarted).
 
-- Usar uma solução de terceiros para impor a autenticação multifator para cada conta de usuário em seu locatário do parceiro. Para garantir que a solução forneça as informações esperadas, consulte [Como os requisitos de segurança serão impostos](#how-the-requirements-will-be-enforced).
+- Usar uma solução de terceiros para impor a autenticação multifator para cada conta de usuário em seu locatário do parceiro. Para garantir que a solução forneça as informações esperadas, consulte [Como os requisitos de segurança serão impostos](#how-the-requirements-are-enforced).
 
 > [!NOTE]
 > Embora a autenticação multifator não seja exigida de modo contratual para uma nuvem soberana (21Vianet, governo dos EUA e Alemanha), é altamente recomendável que você adote esses requisitos de segurança.
@@ -92,7 +92,7 @@ Para fazer a transição das políticas de linha de base para os padrões de seg
 
 Como esses requisitos se aplicam a todas as contas de usuário em seu locatário de parceiro, você precisa considerar vários fatores para garantir uma implantação tranquila, incluindo a identificação de contas de usuário no Azure Active Directory que não podem executar a autenticação multifator, bem como aplicativos e dispositivos usados por sua organização que não dão suporte à autenticação moderna.
 
-Antes de executar qualquer ação, é recomendável que você identifique o seguinte:
+Antes que você execute qualquer ação, recomendamos concluir as seguintes validações: 
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>Você tem um aplicativo ou dispositivo que não dá suporte ao uso de autenticação moderna?
 
@@ -100,9 +100,9 @@ Quando você impõe a autenticação herdada da autenticação multifator, o uso
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>Você tem usuários usando o Office 365 fornecido por licenças associadas ao seu locatário do parceiro?
 
-Antes de implementar qualquer solução, recomendamos que você determine qual versão do Microsoft Office está sendo usada pelos usuários em seu locatário do parceiro. Há uma chance de que os usuários tenham problemas de conectividade com aplicativos como o Outlook. Antes de impor a autenticação multifator, é importante garantir que o Outlook 2013 SP1 ou posterior esteja sendo usado e que sua empresa tenha a autenticação moderna habilitada. Consulte [Habilitar a autenticação moderna no Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online) para obter mais informações.
+Antes de implementar qualquer solução, recomendamos que você determine qual versão do Microsoft Office está sendo usada pelos usuários em seu locatário do parceiro. Há uma chance de que os usuários tenham problemas de conectividade com aplicativos como o Outlook. Antes de impor a autenticação multifator, é importante garantir que o Outlook 2013 SP1 ou posterior esteja sendo usado e que sua empresa tenha a autenticação moderna habilitada. Para obter mais informações, confira [Habilitar a autenticação moderna no Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online). 
 
-Para habilitar a autenticação moderna para todos os dispositivos que executam o Windows, com o Microsoft Office 2013 instalado, será necessário criar duas chaves do registro. Consulte [Habilitar a autenticação moderna para o Office 2013 em](/office365/admin/security-and-compliance/enable-modern-authentication)dispositivos Windows.
+Para habilitar a autenticação moderna nos dispositivos que executam o Windows com o Microsoft Office 2013 instalado, você precisará criar duas chaves do Registro. Consulte [Habilitar a autenticação moderna para o Office 2013 em](/office365/admin/security-and-compliance/enable-modern-authentication)dispositivos Windows.
 
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>Há uma política que impede que qualquer usuário use seus dispositivos móveis enquanto trabalha?
 
@@ -124,21 +124,23 @@ Como o requisito é impor a MFA para cada usuário, incluindo contas de serviço
 
 - Scripts do PowerShell que utilizam os módulos AZ, AzureRM, Azure AD, MS online etc.
 
-A lista acima não é abrangente. Portanto, é importante que você execute uma avaliação completa de qualquer aplicativo ou serviço em seu ambiente, que aproveite as credenciais do usuário para autenticação. Para lidar com o requisito de autenticação multifator, você deve implementar as orientações na [estrutura de Modelo de Aplicativo Seguro](/partner-center/develop/enable-secure-app-model), sempre que possível.
+A lista acima não é abrangente. Portanto, é importante que você realize uma avaliação completa de qualquer aplicativo ou serviço no seu ambiente que utiliza as credenciais do usuário para autenticação. Para lidar com o requisito de autenticação multifator, você deve implementar as orientações na [estrutura de Modelo de Aplicativo Seguro](/partner-center/develop/enable-secure-app-model), sempre que possível.
 
 ## <a name="accessing-your-environment"></a>Acessando seu ambiente
 
-Para entender melhor o que ou quem está autenticando sem precisar fornecer a autenticação multifator, recomendamos que você examine a atividade de entrada. Por meio de Azure Active Directory Premium, você pode fazer uso do relatório de entradas. Confira [Relatórios de atividade de entrada no portal do Azure Active Directory](/azure/active-directory/reports-monitoring/concept-sign-ins) para obter mais informações. Se não tiver o Azure Active Directory Premium ou se estiver procurando uma maneira de obtê-lo por meio do PowerShell, você precisará fazer uso do cmdlet [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) do módulo [Partner Center do PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/).
+Para entender melhor o que ou quem está autenticando sem precisar fornecer a autenticação multifator, recomendamos que você examine a atividade de entrada. Por meio de Azure Active Directory Premium, você pode fazer uso do relatório de entradas. Para obter mais informações, confira os [relatórios de atividades de conexão no portal do Azure Active Directory](/azure/active-directory/reports-monitoring/concept-sign-ins). Caso você não tenha o Azure Active Directory Premium ou esteja procurando uma forma de obter essa atividade de conexão por meio do PowerShell, utilize o cmdlet [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) no módulo [PowerShell do Partner Center](https://www.powershellgallery.com/packages/PartnerCenter/).
 
-## <a name="how-the-requirements-will-be-enforced"></a>Como os requisitos serão impostos
+## <a name="how-the-requirements-are-enforced"></a>Como os requisitos são impostos
 
-Os requisitos de segurança do parceiro serão impostos pelo Azure Active Directory e, em seguida, pelo Partner Center, verificando a presença da declaração de MFA para identificar que a verificação da autenticação multifator ocorreu. A partir de 18 de novembro de 2019, a Microsoft ativará proteções de segurança adicionais (anteriormente conhecida como "imposição técnica") para locatários de parceiros. 
+Os requisitos de segurança do parceiro são impostos pelo Azure Active Directory e pelo Partner Center, verificando a presença da declaração da MFA para identificar se a verificação da autenticação multifator ocorreu. Em 18 de novembro de 2019, a Microsoft ativou proteções de segurança adicionais (anteriormente conhecidas como “imposição técnica”) para locatários de parceiros.
 
-Após a ativação, os usuários no locatário do parceiro deverão concluir a verificação da MFA (autenticação multifator) ao executar qualquer operação de AOBO (administração em nome de). Continuaremos a estender o escopo das proteções de segurança para cenários adicionais e funções de usuário, fornecendo aos parceiros um aviso prévio. Para obter mais informações, consulte este documento que será atualizado com frequência. Os parceiros que não atenderam aos requisitos devem implementar essas medidas assim que possível para evitar qualquer interrupção nos negócios. 
+Após a ativação, os usuários no locatário do parceiro deverão concluir a verificação da MFA (autenticação multifator) ao executar qualquer operação AOBO (administrador em nome de) acessando o portal do Partner Center ou chamando a API do Partner Center. Para obter informações detalhadas, acesse [Como obrigar o uso da MFA (Autenticação Multifator) para o locatário de parceiro](partner-security-requirements-mandating-mfa.md). 
+
+Os parceiros que não atenderam aos requisitos devem implementar essas medidas assim que possível para evitar qualquer interrupção nos negócios. 
 
 Se você está usando a Autenticação Multifator do Azure ou padrões de segurança do Azure AD, não há nenhuma ação adicional que você precisa executar.
 
-Ao usar uma solução de autenticação multifator de terceiros, há uma chance de a declaração de MFA não ser emitida. Se essa declaração estiver ausente, o Azure Active Directory não poderá determinar se a solicitação de autenticação foi desafiada pela autenticação multifator. Para obter informações sobre como verificar se sua solução está emitindo a declaração esperada, leia [Teste dos Requisitos de Segurança do Parceiro](/powershell/partnercenter/test-partner-security-requirements). 
+Se você estiver usando uma solução de autenticação multifator de terceiros, haverá a possibilidade de que a declaração da MFA não seja emitida. Se essa declaração estiver ausente, o Azure Active Directory não poderá determinar se a solicitação de autenticação foi desafiada pela autenticação multifator. Para obter informações sobre como verificar se sua solução está emitindo a declaração esperada, leia [Teste dos Requisitos de Segurança do Parceiro](/powershell/partnercenter/test-partner-security-requirements). 
 
 > [!IMPORTANT]
 > Se sua solução de terceiros não emitir a declaração esperada, você precisará trabalhar com o fornecedor que desenvolveu a solução para determinar quais ações devem ser executadas.
