@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 7591868f31d51750fcb30c41f73cea47c7178955
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031839"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132980"
 ---
 # <a name="april-2020-announcements"></a>Comunicados de abril de 2020
 
@@ -172,7 +172,7 @@ Para ajudar a defender ainda mais os parceiros e os clientes, **a partir de 1º 
 
 ### <a name="next-steps"></a>Próximas etapas
 
-- **Se você ainda não ativou os requisitos de segurança recomendados para proteger seu locatário e seus usuários**, faça isso imediatamente para manter a conformidade e evitar interrupções do negócio ao gerenciar clientes ou fazer transações no CSP. Os parceiros que não implementarem os requisitos de segurança poderão colocar em risco a participação deles no programa CSP.
+- **Se você ainda não ativou os requisitos de segurança recomendados para proteger seu locatário e seus usuários** , faça isso imediatamente para manter a conformidade e evitar interrupções do negócio ao gerenciar clientes ou fazer transações no CSP. Os parceiros que não implementarem os requisitos de segurança poderão colocar em risco a participação deles no programa CSP.
 - Os provedores indiretos precisarão implementar esses requisitos de segurança em suas empresas e trabalhar com os revendedores para garantir que eles também implementem os requisitos usando este modelo de email. Também entraremos em contato diretamente com os revendedores por meio de comunicações por email.
 - Visite a [página de status dos requisitos de segurança do Partner Center](https://partner.microsoft.com/commerce/security/compliance) para identificar seu progresso e as principais medidas a serem tomadas. Trabalhe com seu administrador global para verificar o progresso dos requisitos de segurança regularmente em cada locatário.
 - Se você está usando uma solução de CPV (Fornecedor de Painel de Controle), consulte o seu CPV.
@@ -192,7 +192,7 @@ Para receber mais assistência com problemas técnicos, [envie um tíquete de su
 Agradecemos por sua parceria e seu compromisso para garantir que nosso ecossistema seja executado com confiança.
 
 >[!NOTE] 
->Se você está usando políticas de linha de base e não fez a transição para a política de padrões de segurança ou [outras opções de implementação de MFA](..\partner-security-requirements.md#actions-that-you-need-to-take), faça a transição o quanto antes, consultando [estes recursos](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
+>Se você está usando políticas de linha de base e não fez a transição para a política de padrões de segurança ou [outras opções de implementação de MFA](..\partner-security-requirements.md#implementing-multi-factor-authentication), faça a transição o quanto antes, consultando [estes recursos](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
 
 ### <a name="change-log"></a>Log de alterações
 
@@ -621,7 +621,7 @@ O local do recurso de preparação para operações no partner.microsoft.com fun
 O que você deve fazer para se preparar?
 
 - **Saiba mais** sobre o novo local do site do parceiro da Microsoft para recursos de Preparação para Operações, revisando os materiais de preparação atualizados na coleção da Galeria [Em breve – recursos de preparação para operações em um único lugar](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/).
-- **Participe de uma chamada da comunidade de parceiros do mês de abril**, na qual você poderá saber mais sobre a nova experiência e fazer perguntas: [https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)
+- **Participe de uma chamada da comunidade de parceiros do mês de abril** , na qual você poderá saber mais sobre a nova experiência e fazer perguntas: [https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)
 
 ### <a name="questions"></a>Perguntas?
 

@@ -1,7 +1,7 @@
 ---
 title: Atribuir funções e permissões a usuários
 ms.topic: article
-ms.date: 09/04/2020
+ms.date: 10/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba quais funções são melhores para os usuários da sua empresa que gerenciam transações comerciais, indicações, incentivos ou associações MPN no Partner Center.
@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 32df86887ccbea5d18d1bd8c7c34add2b1ab60e4
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 6707ede563d07b6b96d2133bd75f8fbd53531875
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006806"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133024"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Atribuir permissões e funções de usuários para os usuários de uma empresa que precisam trabalhar no Partner Center
 
@@ -97,8 +97,6 @@ Os CPVs desenvolvem aplicativos para uso por parceiros CSP (Provedor de Soluçõ
 |**Usuário convidado**   | **Funções**|
 |---------------------------|:--------------------|
 ||Administrador de parceiros do MPN|
-||Administrador de contas|
-||Administrador de incentivos|
 ||Administrador de perfis de negócios|
 ||Administrador de indicações|
 

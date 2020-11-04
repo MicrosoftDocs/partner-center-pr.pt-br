@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 4023c4a6b0bae4bb77655aed568ec22b81862884
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 7e608752b76c940e83434d7ec7daf3e4058512bd
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031779"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132837"
 ---
 # <a name="february-2020-announcements"></a>Comunicados de fevereiro de 2020
 
@@ -169,13 +169,13 @@ _________________
 
 ### <a name="summary"></a>Resumo:
 
-Esta é uma atualização importante relacionada aos [requisitos obrigatórios de segurança do parceiro](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). A partir de **29 de fevereiro de 2020**, as [políticas de "linha de base" do Azure AD (Azure Active Directory) foram removidas](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) e substituídas por "padrões de segurança", um conjunto mais abrangente de políticas de proteção para você e seus clientes. Os padrões de segurança no Azure AD podem ajudar a proteger sua organização com configurações de segurança predefinidas para ataques comuns.
+Esta é uma atualização importante relacionada aos [requisitos obrigatórios de segurança do parceiro](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). A partir de **29 de fevereiro de 2020** , as [políticas de "linha de base" do Azure AD (Azure Active Directory) foram removidas](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) e substituídas por "padrões de segurança", um conjunto mais abrangente de políticas de proteção para você e seus clientes. Os padrões de segurança no Azure AD podem ajudar a proteger sua organização com configurações de segurança predefinidas para ataques comuns.
 
 Nosso sistema indica que no momento sua organização usa políticas de linha de base, mas ainda não fez a transição para padrões de segurança. **Se não fizer a transição para os padrões de segurança antes de 29 de fevereiro, você perderá a MFA (autenticação multifator) habilitada com políticas de linha de base nos locatários parceiros. Habilite os padrões de segurança o quanto antes para evitar interrupções de negócios**.
 
 ### <a name="key-considerations"></a>Principais considerações
 
-A política de padrões de segurança é uma das [opções](../partner-security-requirements.md#actions-that-you-need-to-take) em que os parceiros podem optar por implementar o MFA para os requisitos de segurança, dependendo de suas necessidades corporativas. Ela oferece um nível básico de segurança habilitado sem nenhum custo adicional. Analise [como habilitar a MFA para sua organização com o Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) e as principais considerações abaixo:
+A política de padrões de segurança é uma das [opções](../partner-security-requirements.md#implementing-multi-factor-authentication) em que os parceiros podem optar por implementar o MFA para os requisitos de segurança, dependendo de suas necessidades corporativas. Ela oferece um nível básico de segurança habilitado sem nenhum custo adicional. Analise [como habilitar a MFA para sua organização com o Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) e as principais considerações abaixo:
 
 - Para os parceiros que estão usando o [acesso condicional](/azure/active-directory/conditional-access/concept-conditional-access-policy-common), os padrões de segurança não estarão disponíveis.
 - Os padrões de segurança impõem todas as políticas de uma só vez, incluindo a política de MFA necessária para administradores, a política de proteção do usuário final e a MFA necessária para o gerenciamento de serviços.
