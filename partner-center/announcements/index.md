@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/27/2020
-ms.openlocfilehash: f52caa9b536f289025a61ae245bb1f63d65a5698
-ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
+ms.openlocfilehash: a96dd7849b678357aaa28b8a35f113ead6f807ab
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "93027883"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133007"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,6 +22,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 | **Categoria** | **Comunicados de outubro de 2020** | **Comunicado** |
 |---------|:---------|:---------|
+|Funcionalidades|[Atualizações de recursos de assinaturas de software do Windows Server](2020-october.md#17)|29 de outubro|
 |Funcionalidades|[A atualização do Windows 10 Education agora está disponível para clientes qualificados de Educação do CSP (Provedor de Soluções na Nuvem)](2020-october.md#16)|28 de outubro|
 |Funcionalidades|[Já está disponível uma experiência digital atualizada do CSP (Provedor de Soluções na Nuvem)](2020-october.md#15)|28 de outubro|
 |Funcionalidades|[Introdução de um padrão de desempenho para requisitos de parceiro de cobrança direta no programa CSP (Provedor de Soluções na Nuvem)](2020-october.md#13)|27 de outubro|
