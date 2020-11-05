@@ -8,20 +8,25 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/27/2020
-ms.openlocfilehash: a96dd7849b678357aaa28b8a35f113ead6f807ab
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.date: 11/02/2020
+ms.openlocfilehash: 1d514dd64cdb4dc3e7c599472a851b6877048568
+ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133007"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "93327260"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
 Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos essas informações com frequência, portanto, visite a página regularmente!
 
-| **Categoria** | **Comunicados de outubro de 2020** | **Comunicado** |
+| **Categoria** | **Comunicados de novembro de 2020** | **Comunicado** |
 |---------|:---------|:---------|
+|Ofertas/mercados|[A atualização do Windows 10 Education agora está disponível para clientes qualificados de Educação do CSP (Provedor de Soluções na Nuvem)](2020-november.md#4)|2 de novembro|
+|Ofertas/mercados|[Atualização da experiência digital do CSP (Provedor de Soluções na Nuvem) agora disponível Atualizações da lista de preços de assinaturas de software do CSP (Provedor de Soluções na Nuvem) de outubro de 2020](2020-november.md#3)|2 de novembro|
+|Ofertas/mercados|[Atualizações da lista de preços de assinaturas de software do CSP (Provedor de Soluções na Nuvem) de outubro de 2020](2020-november.md#2)|2 de novembro|
+|Ofertas/mercados|[Introdução de um padrão de desempenho para requisitos de parceiro de cobrança direta no programa CSP (Provedor de Soluções na Nuvem)](2020-november.md#1)|2 de novembro|
+| **Categoria** | **Comunicados de outubro de 2020** | **Data** |
 |Funcionalidades|[Atualizações de recursos de assinaturas de software do Windows Server](2020-october.md#17)|29 de outubro|
 |Funcionalidades|[A atualização do Windows 10 Education agora está disponível para clientes qualificados de Educação do CSP (Provedor de Soluções na Nuvem)](2020-october.md#16)|28 de outubro|
 |Funcionalidades|[Já está disponível uma experiência digital atualizada do CSP (Provedor de Soluções na Nuvem)](2020-october.md#15)|28 de outubro|
@@ -47,7 +52,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 |Funcionalidades|[Atualização – APIs de uso de CSP do O365 e relatórios de uso da licença de CSP ](2020-september.md#13)|29 de setembro|
 |Funcionalidades|[Futuras alterações de IVA da lei federal da Rússia](2020-september.md#12)|25 de setembro|
 |Funcionalidades|[Lançamento SDK para .NET Standard v1.16.2](2020-september.md#11)|22 de setembro|
-|Funcionalidades|[Insights do Partner Center – seu recurso de relatório único para entender seus negócios com a Microsoft.](2020-september.md#10)|23 de setembro|
+|Capacidades|[Insights do Partner Center – seu recurso de relatório único para entender seus negócios com a Microsoft.](2020-september.md#10)|23 de setembro|
 |Ofertas/mercados|[Comunicado sobre a disponibilidade geral do SQL do Azure no Edge](2020-september.md#9)|22 de setembro|
 |Funcionalidades|[Alterações futuras nas APIs de uso do CSP O365 e nos relatórios de uso da Licença do CSP em 30 de setembro de 2020.](2020-september.md#8)|17 de setembro|
 |Funcionalidades|[Atualização de MPA de revendedor indireto. Ação necessária para usuários da API de MPA e novos relatórios de MPA](2020-september.md#7)|16 de setembro|
@@ -75,7 +80,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 |Ofertas/mercados|[Software perpétuo no programa Provedor de Soluções na Nuvem ](2020-july.md#5)|15 de julho|
 | Ofertas/mercados | [As ofertas e os produtos novos e de finais da vida útil do Microsoft Dynamics 365 e do Power Platform](2020-july.md#3) | 1º de julho |
 | Ofertas/mercados | [A Microsoft encerrou as vendas do SKU autônomo do Microsoft Kaizala Pro](2020-july.md#2) | 1º de julho |
-| Capacidades | [Programas de incentivo do CSP estendidos até o 1º trimestre do ano fiscal de 2021](2020-july.md#1) | 1º de julho |
+| Funcionalidades | [Programas de incentivo do CSP estendidos até o 1º trimestre do ano fiscal de 2021](2020-july.md#1) | 1º de julho |
 | **Categoria** | **Comunicados de junho de 2020** | **Data** |
 | Ofertas/mercados | [ESU do Ano 2 do Windows 7 agora disponível para Parceiros CSP](2020-june.md#6) | 29 de junho |
 | Capacidades | [Atualização do recurso de remoção de relacionamento do Partner Center](2020-june.md#5) | 29 de junho |
