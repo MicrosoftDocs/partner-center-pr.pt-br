@@ -1,7 +1,7 @@
 ---
-title: Exigir MFA de seu locatário parceiro
+title: Como obrigar o uso da MFA (autenticação multifator) para o locatário do parceiro
 ms.topic: article
-ms.date: 10/26/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como obrigar a MFA para seus locatários parceiros ajudará a proteger o acesso aos recursos do cliente. Inclui cenários de exemplo.
@@ -9,21 +9,19 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01122e81254a8e63f9bbf8d6bc3d3271accac74a
-ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
+ms.openlocfilehash: b6985054e927dd777d61ae30bd435ab4c6c4ea8c
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92680410"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133093"
 ---
-# <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Obrigar a MFA (Autenticação Multifator) para seu locatário parceiro
+# <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Como obrigar o uso da MFA (autenticação multifator) para o locatário do parceiro
 
 **Aplica-se a**
 
 - Todos os parceiros no programa Provedor de Soluções na Nuvem
-  - Fatura direta
-  - Provedor indireto
-  - Revendedor indireto
+- Todos os Fornecedores do Painel de Controle
 - Todos os consultores
 
 **Funções afetadas**
@@ -34,18 +32,15 @@ ms.locfileid: "92680410"
 - Administrador de cobrança
 - Administrador global
 
-A intenção desse recurso é ajudar os parceiros a proteger o acesso aos recursos do cliente contra o comprometimento das credenciais.
-Os parceiros são obrigados a impor a MFA (Autenticação Multifator) a todas as contas de usuário nos respectivos locatários de parceiro, incluindo o usuário convidado. Com esse recurso, essas funções de parceiros serão obrigadas a concluir a verificação da MFA nas seguintes áreas:
+Este artigo fornece exemplos detalhados e diretrizes para obrigar o uso de MFA (autenticação multifator) no Partner Center. A intenção desse recurso é ajudar os parceiros a proteger o acesso aos recursos do cliente contra o comprometimento das credenciais. Os parceiros são obrigados a impor a MFA em todas as contas de usuário no locatário do parceiro, incluindo os usuários convidados. Os usuários precisarão concluir a verificação de MFA nas seguintes áreas:
 
 - [Painel do Partner Center](#partner-center-dashboard)
 - [API do Partner Center](#partner-center-api)
 - [Administração Delegada do Parceiro](#partner-delegated-administration)
 
-Garantias de segurança e privacidade maiores e contínuas estão entre as nossas principais prioridades, e continuamos ajudando os parceiros a proteger os clientes e os locatários. Todos os parceiros que participam do programa CSP (Provedor de Soluções na Nuvem), CPVs (fornecedores de painel de controle) e consultores devem implementar os [Requisitos de segurança do parceiro](partner-security-requirements.md) para manter a conformidade.
+Garantias de segurança e privacidade maiores e contínuas estão entre as nossas principais prioridades, e continuamos ajudando os parceiros a proteger os clientes e os locatários. Todos os parceiros que participam do programa CSP (Provedor de Soluções na Nuvem), CPVs (Fornecedores de Painel de Controle) e Assistentes devem implementar os [Requisitos de Segurança do Parceiro](partner-security-requirements.md) para manter a conformidade.
 
-A fim de ajudar os parceiros a proteger os negócios e os clientes contra incidentes relacionados ao roubo de identidade, ativamos as proteções de segurança adicionais para locatários de parceiro que podem ajudar os parceiros a garantir o uso pelos locatários e pelos clientes, obrigando a verificação da MFA (autenticação multifator) para impedir o acesso não autorizado. 
-
-Esta documentação fornece aos parceiros experiência e diretrizes detalhadas sobre a ativação de garantias de segurança.
+Para ajudar os parceiros a proteger os negócios e os clientes deles contra roubo de identidade e acesso não autorizado, ativamos proteções de segurança adicionais para locatários do parceiro que exigem e verificam a MFA. 
 
 ## <a name="partner-center-dashboard"></a>Painel do Partner Center
 
@@ -55,12 +50,7 @@ Determinadas páginas no painel do Partner Center serão protegidas por MFA, inc
 - Todas as páginas na guia **Suporte > Solicitações do cliente** , por exemplo, a página acessada em https://partner.microsoft.com/dashboard/support/csp/customers/*
 - Página de cobrança
 
-Se você tentar acessar qualquer uma dessas páginas e não tiver concluído a verificação de MFA anteriormente, você precisará fazer isso.
-
-> [!NOTE]
-> Outras páginas da Central de Parceiros, como Visão Geral e Verificação do Status de Integridade do Serviço, não serão protegidas por MFA.
-
-Os tipos de usuários a seguir estão autorizados a acessar estas páginas protegidas por MFA e, portanto, são afetados por esse recurso
+A tabela a seguir mostra quais tipos de usuários estão autorizados a acessar essas páginas protegidas por MFA e, portanto, serão afetados por esse recurso.
 
 
 | Páginas protegidas por MFA       | Agentes administrativos      |  Agente de vendas     |   Agentes de assistência técnica     | Administrador global      |  Administrador de cobrança     | 
@@ -69,9 +59,11 @@ Os tipos de usuários a seguir estão autorizados a acessar estas páginas prote
 | Todas as páginas na guia Suporte > Solicitações do cliente     | x      |       |    x   |       |       |
 | Página de cobrança     |   x    |       |       |    x   |   x    |
 
-## <a name="examples-showing-how-verification-works"></a>Exemplos mostrando como a verificação funciona
+Se você tentar acessar qualquer uma dessas páginas e não tiver concluído a verificação de MFA anteriormente, você precisará fazer isso. Outras páginas do Partner Center, como Visão Geral e Verificação do Status de Integridade do Serviço, não exigirão a MFA.
 
-Para ilustrar como a verificação funciona, considere os dois exemplos a seguir.
+## <a name="verification-examples"></a>Exemplos de verificação
+
+Para ilustrar como a verificação funciona no painel do Partner Center, considere os exemplos a seguir.
 
 ### <a name="example-1-partner-has-implemented-azure-ad-mfa"></a>Exemplo 1: o parceiro implementou o Azure AD MFA
 
@@ -108,16 +100,16 @@ Para ilustrar como a verificação funciona, considere os dois exemplos a seguir
 6. John tenta acessar uma das páginas protegidas por MFA no Partner Center. Como John não concluiu a verificação de MFA, o Partner Center o redireciona ao Azure AD para concluí-la. Como Paulo registrou a MFA, desta vez, ele só precisa concluir a verificação de MFA.
 
 > [!NOTE]
->Ação: O Administrador da empresa deve implementar a MFA agora por meio de uma destas [opções](partner-security-requirements.md#actions-that-you-need-to-take) sugeridas pela Central de Parceiros.
+>Ação: Os administradores da empresa têm [três opções](partner-security-requirements.md#implementing-multi-factor-authentication) para implementar a MFA.
 
 ## <a name="partner-center-api"></a>API do Partner Center
 
-A API do Partner Center dá suporte à autenticação somente de aplicativo e à autenticação aplicativo+usuário. 
+A API do Partner Center dá suporte à autenticação somente de aplicativo e à autenticação Aplicativo + Usuário. 
 
 Quando a autenticação aplicativo+usuário for usada, o Partner Center exigirá a verificação de MFA. Mais especificamente, quando um aplicativo parceiro deseja enviar uma solicitação de API ao Partner Center, ele deve incluir um token de acesso no cabeçalho de autorização da solicitação. 
 
 > [!NOTE]
->O [Modelo de Aplicativo Seguro](/partner-center/develop/enable-secure-app-model) é uma estrutura segura e escalonável para autenticar parceiros CSP e CPVs por meio da arquitetura da MFA do Microsoft Azure. Ao chamar a API da Central de Parceiros, você precisará implementá-la antes de habilitar a MFA no seu locatário. 
+>A [estrutura do Modelo de Aplicativo Seguro](/partner-center/develop/enable-secure-app-model) é uma estrutura escalonável para autenticar parceiros CSP e CPVs por meio da arquitetura da MFA do Microsoft Azure ao chamar as APIs do Partner Center. Você precisa implementar essa estrutura antes de habilitar a MFA no seu locatário. 
 
 Quando a Central de Parceiros receber uma solicitação de API com um token de acesso obtido usando a autenticação aplicativo + usuário, a API da Central de Parceiros verificará se o valor da *MFA* está presente na declaração de *AMR (Referência do Método de Autenticação)* . Você pode usar um decodificador JWT para validar se um token de acesso contém o valor de AMR (referência de método de autenticação) esperado ou não:
 
@@ -163,17 +155,17 @@ Quando a autenticação somente por aplicativo for usada, as APIs que dão supor
 
 ## <a name="partner-delegated-administration"></a>Administração Delegada por Parceiro
 
-### <a name="using-service-portals"></a>Usar portais de serviço
-
 As contas de parceiros, incluindo Agentes Administrativos e Agentes de Assistência Técnica, podem usar os Privilégios de Administrador Delegado do Parceiro para gerenciar recursos do cliente por meio dos Portais do Microsoft Online Services, da CLI (interface de linha de comando) e das APIs (usando a autenticação aplicativo + usuário).
 
-Ao acessar os Portais do Microsoft Online Services usando os Privilégios de Administrador Delegado do Parceiro (Administrador em nome de) para gerenciar recursos do cliente, muitos desses portais exigem que a conta do parceiro seja autenticada de maneira interativa, com o locatário do Azure Active Directory do cliente definido como o contexto de autenticação: a conta do parceiro é necessária para entrar no locatário do cliente.
+### <a name="using-service-portals"></a>Usar portais de serviço
 
-Quando o Azure Active Directory receber essas solicitações de autenticação, ele exigirá que a conta do parceiro conclua a verificação de MFA. Há duas experiências de usuário possíveis, dependendo se a conta do parceiro é uma identidade gerenciada ou federada:
+Ao acessar os Portais do Microsoft Online Services usando os Privilégios de Administrador Delegado do Parceiro (Administrador em nome de) para gerenciar recursos do cliente, muitos desses portais exigem que a conta do parceiro seja autenticada de maneira interativa, com o locatário do Azure AD do cliente definido como o contexto de autenticação: a conta do parceiro é exigida para entrar no locatário do cliente.
 
-- Se a conta do parceiro for uma identidade **gerenciada** , o Azure Active Directory solicitará diretamente que o usuário conclua a verificação de MFA. Se a conta de parceiro não tiver sido registrada na MFA com o Azure Active Directory antes, o usuário deverá [concluir o registro da MFA](#mfa-registration-experience) primeiro.
+Quando o Azure AD receber essas solicitações de autenticação, ele exigirá que a conta do parceiro conclua a verificação de MFA. Há duas experiências de usuário possíveis, dependendo se a conta do parceiro é uma identidade gerenciada ou federada:
 
-- Se a conta do parceiro for uma identidade **federada** , a experiência dependerá de como o administrador de parceiro configurou a Federação no Azure Active Directory. Ao configurar a federação no Azure Active Directory, o administrador de parceiro pode indicar para o Azure Active Directory se o provedor de identidade federada dá suporte à MFA ou não. Em caso afirmativo, o Azure Active Directory redirecionará o usuário para o provedor de identidade federada para concluir a verificação de MFA. Caso contrário, o Azure Active Directory solicitará diretamente que o usuário conclua a verificação de MFA. Se a conta de parceiro não tiver sido registrada na MFA com o Azure Active Directory antes, o usuário deverá [concluir o registro da MFA](#mfa-registration-experience) primeiro.
+- Se a conta do parceiro for uma identidade **gerenciada** , o Azure AD solicitará ao usuário diretamente que ele conclua a verificação de MFA. Se a conta de parceiro não tiver sido registrada na MFA com o Azure AD anteriormente, o usuário deverá [concluir o registro da MFA](#mfa-registration-experience) primeiro.
+
+- Se a conta do parceiro for uma identidade **federada** , a experiência dependerá de como o administrador de parceiro configurou a federação no Azure AD. Ao configurar a federação no Azure AD, o administrador de parceiro pode indicar para o Azure AD se o provedor de identidade federada dá suporte à MFA ou não. Em caso afirmativo, o Azure AD redirecionará o usuário para o provedor de identidade federada para concluir a verificação de MFA. Caso contrário, o Azure AD solicitará diretamente que o usuário conclua a verificação da MFA. Se a conta de parceiro não tiver sido registrada na MFA com o Azure AD anteriormente, o usuário deverá [concluir o registro da MFA](#mfa-registration-experience) primeiro.
 
 A experiência geral é semelhante ao cenário em que um locatário do cliente final implementou a MFA para os administradores dele. Por exemplo, o locatário do cliente habilitou os [padrões de segurança do Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults), o que exige que todas as contas com direitos administrativos entrem no locatário do cliente com verificação de MFA, incluindo Agentes Administrativos e Agentes de Suporte Técnico. Para fins de teste, os parceiros podem habilitar os [padrões de segurança do Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) no locatário do cliente e, em seguida, tentar usar Privilégios de Administração Delegada do Parceiro para acessar o locatário do cliente.
 
@@ -202,19 +194,13 @@ Durante a verificação de MFA, se a conta do usuário parceiro ainda não tiver
 
 Depois de clicar em **Avançar** , o usuário precisará escolher uma opção em uma lista de métodos de verificação.
 
-:::image type="content" source="images/MfaRegistration2.png" alt-text="Etapa 1 do registro de MFA":::
+:::image type="content" source="images/MfaRegistration2.png" alt-text="Etapa 2 do registro de MFA":::
 
 Após o registro bem-sucedido, o usuário precisará concluir a verificação de MFA com base na verificação escolhida pelo usuário.
-
-## <a name="request-for-technical-exception"></a>Solicitação de exceção técnica
-
-Os parceiros poderão se candidatar para uma exceção técnica a fim de suprimir a verificação de MFA se estiverem encontrando problemas técnicos com o Microsoft Online Services e não houver uma solução viável ou alternativa. Antes de fazer isso, examine as seguintes seções:
-
-- [Lista de problemas comuns relatados por parceiros](#list-of-common-issues-reported-by-partners)
-- [Como enviar uma solicitação de exceção técnica](#how-to-submit-a-request-for-technical-exception)
  
-### <a name="list-of-common-issues-reported-by-partners"></a>Lista de problemas comuns relatados por parceiros
-Antes de se candidatar para uma exceção técnica, examine a lista de problemas comuns relatados por outros parceiros para entender se são motivos válidos para exceção técnica ou não.
+## <a name="list-of-common-issues"></a>Lista de problemas comuns
+
+Antes de se candidatar para uma [exceção técnica](#how-to-submit-a-request-for-technical-exception) no requisito da MFA, examine a lista de problemas comuns relatados por outros parceiros para entender se a sua solicitação é válida.
 
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>Problema 1: o parceiro precisa de mais tempo para implementar a MFA para os agentes do parceiro dele
 Um parceiro não iniciou ou ainda está no processo de implementação da MFA para os agentes do parceiro dele que precisam acessar os Portais do Microsoft Online Services usando Privilégios de Administração Delegada do Parceiro para gerenciar os recursos do cliente. O parceiro precisa de mais tempo para concluir a implementação da MFA. Esse problema é um motivo válido para exceção técnica?
@@ -261,16 +247,22 @@ Um parceiro implementou a MFA para os usuários dele usando uma solução de MFA
 
 - A ordem de compra da solução de MFA de terceiros que você está usando ou pretende usar.
 
-### <a name="how-to-submit-a-request-for-technical-exception"></a>Como enviar uma solicitação de exceção técnica
+## <a name="how-to-submit-a-request-for-technical-exception"></a>Como enviar uma solicitação de exceção técnica
+
+Os parceiros poderão se candidatar para uma exceção técnica a fim de suprimir a verificação de MFA se estiverem encontrando problemas técnicos com o Microsoft Online Services e não houver uma solução viável ou alternativa. Antes de fazer isso, examine a [lista de problemas comuns](#list-of-common-issues) na seção anterior.
 
 Para enviar uma solicitação de exceção técnica:
 
 1. Faça logon no Partner Center como Administrador Global ou Agente Administrativo.
 
-2. Crie uma solicitação de serviço de parceiro navegando até **Suporte** > **Solicitações de suporte do parceiro** e clicando em **Nova solicitação** .
+2. Crie uma solicitação de serviço de parceiro navegando até **Suporte** > **Solicitações de suporte do parceiro** e clicando em **Nova solicitação**.
 
-3. Procure **MFA – Solicitação de exceção** na caixa de pesquisa ou selecione **CSP** em Categoria, **Contas, Integração, Acesso** em Tópico, **MFA – Solicitação de exceção** em Subtópico e, em seguida, escolha **Próxima etapa** .
+3. Procure **MFA – Solicitação de exceção** na caixa de pesquisa ou selecione **CSP** em Categoria, **Contas, Integração, Acesso** em Tópico, **MFA – Solicitação de exceção** em Subtópico e, em seguida, escolha **Próxima etapa**.
 
-4. Forneça os detalhes solicitados para enviar uma solicitação de serviço de exceção técnica e clique em **Enviar** .
+4. Forneça os detalhes solicitados para enviar uma solicitação de serviço de exceção técnica e clique em **Enviar**.
 
 A Microsoft pode levar até três dias úteis para fornecer uma resposta a uma solicitação de exceção técnica.
+
+## <a name="next-steps"></a>Próximas etapas
+
+ - [Status dos requisitos de segurança do parceiro](partner-security-compliance.md)

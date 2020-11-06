@@ -1,7 +1,7 @@
 ---
 title: Inscrever-se no programa Provedor de Soluções na Nuvem
 ms.topic: how-to
-ms.date: 10/06/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como se registrar no modelo de vendas do programa CSP (Provedor de Soluções na Nuvem) mais adequado para os seus negócios, como revendedor indireto ou parceiro de cobrança direta.
@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: caa1442e5775a1617aa483a3cef675a6bd09eb17
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: d94941cf7f2530b7c60c099035a90f7a792e7a7a
+ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198092"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "93045388"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscrever-se no programa Provedor de Soluções na Nuvem
 
 **Aplica-se a**
 
-- Programa Provedor de Soluções na Nuvem  
+- Partner Center  
 
 **Funções apropriadas**
 
@@ -64,26 +64,25 @@ Para saber mais sobre o que é necessário para participar do programa CSP, como
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>Inscrever-se como um parceiro de cobrança direta
 
-Como um parceiro de cobrança direta, você tem a relação de ponta a ponta com o cliente e com a Microsoft. Atualizamos os requisitos de registro para parceiros de cobrança direta desde 31 de agosto de 2018. Esses novos requisitos ajudarão você a acelerar o desenvolvimento dos seus negócios com o modelo de inscrição no CSP e fortalecer seu relacionamento com os clientes com serviços e suporte de valor agregado.
+Como um parceiro de cobrança direta, você tem a relação de ponta a ponta com o cliente e com a Microsoft. Atualizamos os requisitos de registro para parceiros de cobrança direta em 27 de outubro de 2020. Esses requisitos ajudarão você a acelerar o crescimento dos seus negócios com o modelo certo do programa Provedor de Soluções na Nuvem e fortalecer seu relacionamento com os clientes com serviços e suporte de valor agregado.  
 
 ### <a name="minimum-requirements"></a>Requisitos mínimos
 
 |**Requisito**|                             |
 |--------------------------------|--------------------------------------------------------------|
-|**ID do MPN**   |Uma ID do Microsoft Partner Network (MPN) ativa para o local de sua empresa.    |
+|**ID do MPN**   |Uma associação ativa no Microsoft Partner Network e a ID do MPN para o local onde deseja vender.    |
 |**Endosso**   |A autoridade de aceitar e assinar contratos legais em nome de sua organização.|
 |**Suporte**   |A capacidade de fornecer o primeiro nível de suporte a produtos em nuvem aos seus clientes. <br>Um plano de suporte da Microsoft, seja o Suporte Avançado para Parceiros (ASfP) ou o Suporte Premier para Parceiros (PSfP), dependendo das necessidades de suporte de seus clientes. [Compare os planos de suporte](https://partner.microsoft.com/support/partnersupport).<br> IMPORTANTE: Você deve obter aprovação em uma verificação de crédito antes de comprar um plano de suporte. Enviaremos um email a você quando você for aprovado na verificação de crédito. |
+|**Requisito de receita**|Precisa atender a pelo menos US$ 300 mil na receita anual do programa Provedor de Soluções na Nuvem durante os últimos 12 meses como revendedor indireto. Os parceiros podem examinar os últimos 12 meses de receita deles no Partner Center.<br/>As vendas que compõem sua receita de US$ 300 mil dos últimos 12 meses estão sujeitas a revisão e verificação realizadas pela Microsoft, e talvez você precise fornecer mais informações. O requisito de receita de US$ 300 mil é calculado com base na receita de nuvem e excluirá o software perpétuo no CSP.|
+|**Contas a receber** |A infraestrutura organizacional no local para gerenciar a cobrança e o provisionamento do cliente.|
+|**Recomendação**|             |
 |**Serviço gerenciado**   |Pelo menos um serviço gerenciado, serviço IP ou aplicativo de solução de cliente. Saiba mais sobre como adicionar [serviços gerenciados](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
-|**Contas a receber** |A infraestrutura organizacional no local para gerenciar a cobrança e o provisionamento do cliente.
 
 ### <a name="verify-direct-bill-eligibility"></a>Verificar qualificação de conta direta
 
-Se você ainda não tiver feito isso, examine os requisitos mínimos acima para garantir que você possa atendê-los e, em seguida, conclua o [questionário do Provedor de Soluções na Nuvem](https://partner.microsoft.com/cloud-solution-provider/assessment).
-
-Usamos suas respostas para as perguntas no formulário para nos ajudar a determinar sua elegibilidade para se registrar no programa CSP como um parceiro de cobrança direta.
+Depois de ter verificado que atende aos requisitos mínimos para se registrar como um parceiro de cobrança direta, você pode prosseguir para o [formulário de registro](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global).
 
 Depois que tivermos verificado que sua empresa atende aos requisitos de qualificação para registrar-se como parceiro de cobrança direta e você tiver concluído a inscrição para registro, examinaremos e verificaremos as informações comerciais fornecidas no processo de registro. Como parte dessa revisão, verificaremos o crédito da sua empresa. Vamos informá-lo por email quando sua empresa tiver passado pela verificação de crédito.
-
 >[!IMPORTANT]
 >Verificar o crédito da sua empresa pode levar vários dias ou mais para ser concluído. Durante esse tempo, é importante que você não compre um plano de suporte da Microsoft. Você deve comprar um plano de suporte da Microsoft somente depois de informar que você passou na verificação de crédito.
 

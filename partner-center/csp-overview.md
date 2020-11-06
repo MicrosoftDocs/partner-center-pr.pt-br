@@ -1,7 +1,7 @@
 ---
 title: Visão geral do programa Provedor de Soluções na Nuvem
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre os benefícios e diferentes modelos no programa CSP (Provedor de Soluções na Nuvem) para ajudar sua empresa a crescer com novos clientes e uma nova experiência.
@@ -9,21 +9,20 @@ author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e1f85f670de583052807c9ff2edfa84a50bd7daf
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: f72a4cffaa8557e7e8f56dd2253c99449e3a696d
+ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92197902"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "93045415"
 ---
 # <a name="cloud-solution-provider-program"></a>Programa Provedor de Soluções na Nuvem 
 
 **Aplica-se a**
 
 - Partner Center
-- Parceiros no programa CSP
 
-Este artigo fornecerá uma visão geral do programa CSP (Provedor de Soluções na Nuvem) e explicará como funcionam os diferentes modelos operacionais e seus respectivos requisitos, além de outros detalhes sobre como vender por meio desse programa.  O programa CSP ajudará você a se envolver com os negócios de seus clientes, além de revender licenças, bem como poderá incluir os seguintes benefícios: 
+Este artigo fornecerá uma visão geral do programa CSP (Provedor de Soluções na Nuvem) e explicará como funcionam os diferentes modelos operacionais e seus respectivos requisitos, além de outros detalhes sobre como vender por meio desse programa.  O programa CSP ajuda você a se envolver mais com os negócios dos seus clientes, além da revenda de licenças, e pode incluir os seguintes benefícios: 
 
 - Compromissos mais profundos com o cliente: atender seus clientes regularmente significa desenvolver um entendimento mais adequado sobre os negócios e as necessidades deles.
 - Maiores lucros: oferecer mais serviços de suporte e cobrança, seja por sua própria ou por meio de um provedor indireto, abre novos fluxos de receita.  
@@ -32,31 +31,33 @@ Este artigo fornecerá uma visão geral do programa CSP (Provedor de Soluções 
 
 ## <a name="which-csp-model-is-best-for-me"></a>Qual modelo CSP é mais adequado para mim?
 
-### <a name="direct-bill-model"></a>Modelo de cobrança direta
-
- No modelo de cobrança direta, os parceiros compram assinaturas e produtos diretamente da Microsoft e os vendem aos clientes por meio de sua equipe de vendas interna. Os parceiros que já usam, ou que estejam dispostos a desenvolver, a infraestrutura adequada de vendas, cobrança e suporte podem escolher o modelo direto de CSP. Os requisitos para se tornar um parceiro direto foram alterados recentemente e entrarão em vigor a partir de 31 de agosto de 2018. Os parceiros diretos precisarão atender aos novos requisitos a partir do próximo período de inscrição, após 31 de agosto de 2018.
-
-#### <a name="new-expanded-requirements"></a>Novos requisitos expandidos
-
-Suporte
-
-- Expanda seus recursos de suporte ao comprar suporte de nuvem individual e priorizado com o pacote Suporte Avançado para Parceiros Microsoft. Ou escolha um pacote Suporte Premier para Parceiros Microsoft para acessar o catálogo completo de serviços proativos, suporte contínuo de interrupção/correção elevado, e gerenciamento de contas técnicas entre nuvem, híbrido e local.
-
-Serviços
-
-- Demonstre que você fornece pelo menos um serviço gerenciado, serviço IP ou aplicativo de solução de cliente. 
-
-- Conheça os recursos de infraestrutura mínima, como a cobrança e o provisionamento. Estamos monitorando o desempenho anual para confirmar se parceiros de cobrança direta que cumprem esses requisitos estão demonstrando um crescimento estável dos negócios. Não há nenhuma meta de desempenho específica neste momento, mas a Microsoft pode implementar uma no futuro.
-
-- Uma ID ativa do MPN (Microsoft Partner Network) para o local onde deseja vender
-
 ### <a name="indirect-model"></a>Modelo indireto
 
-No modelo indireto, os provedores (também conhecidos como distribuidores) compram assinaturas e produtos diretamente da Microsoft e os vendem aos clientes por meio de uma rede de revendedores indiretos. Os pré-requisitos para inscrição no CSP como um revendedor indireto incluem:
+A Microsoft ajuda todos os parceiros que participam do programa Provedor de Soluções na Nuvem a encontrar o melhor modelo para os negócios deles crescerem. A Microsoft criou uma rede global de provedores indiretos qualificados que ajudam os parceiros a expandir os negócios de nuvem deles com êxito no programa Provedor de Soluções na Nuvem. Ingressando como um revendedor indireto, você pode acelerar seu go-to-market com mínima complexidade operacional. 
 
-- Uma ID ativa do MPN (Microsoft Partner Network) para o local onde deseja vender
+Como revendedor indireto, você pode trabalhar com provedores indiretos que podem fornecer as ferramentas e os recursos para ajudar você a gerenciar seu relacionamento com o cliente. Com o modelo indireto, você pode comprar de um provedor indireto que pode colaborar com você para o atendimento ao cliente e a cobrança.
+Você precisará de: 
+
+- Uma associação ativa no Microsoft Partner Network e a ID do MPN para o local onde deseja vender.
 - Capacidade de assinar contratos legais em nome de sua organização
-- Um relacionamento com um [provedor oficial da Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider)
+- Uma relação com um [provedor indireto da Microsoft oficial](https://partnercenter.microsoft.com/partner/find-a-provider) no programa Provedor de Soluções na Nuvem
+
+### <a name="direct-bill-model"></a>Modelo de cobrança direta
+
+No modelo de cobrança direta, os parceiros compram assinaturas e produtos diretamente da Microsoft e os vendem aos clientes por meio de sua equipe de vendas interna. Os parceiros que já usam ou que estejam dispostos a desenvolver a infraestrutura adequada de vendas, cobrança e suporte podem escolher o modelo direto. Atualizamos os requisitos de registro para parceiros de cobrança direta em 27 de outubro de 2020.
+
+#### <a name="requirements"></a>Requisitos
+
+Examine os requisitos atualizados de registro de cobrança direta e as recomendações abaixo para avaliar como desenvolver e expandir um negócio mais lucrativo com o modelo certo no programa Provedor de Soluções na Nuvem:  
+
+- **Suporte:** Expanda seus recursos de suporte ao comprar suporte de nuvem individual e priorizado com o pacote Suporte Avançado para Parceiros Microsoft. Ou escolha um pacote Suporte Premier para Parceiros Microsoft para acessar o catálogo completo de serviços proativos, suporte contínuo de interrupção/correção elevado, e gerenciamento de contas técnicas entre nuvem, híbrido e local. Examine o Contrato de Parceiro da Microsoft para entender ainda mais sua obrigação de suporte
+- **Requisito de desempenho:** verifique se você tem pelo menos US$ 300 mil na receita anual do programa Provedor de Soluções na Nuvem durante os últimos 12 meses como revendedor indireto. Os parceiros podem examinar os últimos 12 meses de receita deles no Partner Center. As vendas que compõem sua receita de US$ 300 mil dos últimos 12 meses estão sujeitas a revisão e verificação realizadas pela Microsoft, e talvez você precise fornecer mais informações. O requisito de receita de US$ 300 mil é calculado com base na receita de nuvem e excluirá o software perpétuo no CSP.
+- Conheça os recursos de infraestrutura mínima, como a cobrança e o provisionamento
+- Uma associação ativa no Microsoft Partner Network e a ID do MPN para o local onde deseja vender.
+
+#### <a name="recommendations"></a>Recomendações
+
+- **Demonstrar as principais funcionalidades:** Demonstre que você fornece pelo menos um serviço gerenciado, serviço IP ou aplicativo de solução de cliente. [Saiba mais sobre como adicionar serviços gerenciados](https://partner.microsoft.com/solutions/managed-services). 
 
 ## <a name="where-can-i-sell-through-the-csp-program"></a>Onde posso vender por meio do programa CSP?
 
