@@ -1,7 +1,7 @@
 ---
 title: Localizar ID de locatário, nome de domínio, ID de objeto de usuário
 ms.topic: how-to
-ms.date: 09/16/2020
+ms.date: 11/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como localizar IDs no portal do Azure-ID de locatário do Azure AD, nome de domínio ou ID de objeto de usuário específico de uma organização. Algumas tarefas precisam dessas informações.
@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4a3695079a9d5b0b3c66b7c2eda52a31888a6660
-ms.sourcegitcommit: 3158b0de261539694e37e433c763afa4067e36fb
+ms.openlocfilehash: b88d6e11c7f4d56cf58d136a91b530688b3e5413
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90740373"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360064"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Localizar IDs importantes para um usuário
 
@@ -28,7 +28,7 @@ Este artigo descreve como usar o [portal do Azure](https://portal.azure.com/) pa
 
 ## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Localizar a ID de locatário Microsoft Azure AD e o nome de domínio primário
 
-Siga estas etapas para localizar a ID de locatário do Azure AD ou o nome de domínio primário dentro do portal do Azure.
+Siga estas etapas para localizar a ID de locatário do Azure AD ou o nome de domínio primário dentro do portal do Azure. (Se você quiser encontrar uma ID de locatário programaticamente, consulte [Localizar ID de locatário com PowerShell ou CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell).)
 
 > [!NOTE]
 > A ID do locatário pode ser chamada de nomes diferentes em aplicativos ou recursos diferentes. Por exemplo, a ID do locatário pode ser referida como a ID do diretório, o locatário do Azure Active Directory (Azure AD), a ID da Microsoft ou para determinados relatórios, até mesmo o *tenantguid*.
@@ -75,5 +75,6 @@ Apenas encontrar o nome de domínio e a ID de locatário nem sempre pode ser suf
 
 ## <a name="next-steps"></a>Próximas etapas
 
+- [Localize sua ID de locatário programaticamente com o PowerShell ou a CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 - [Saiba mais sobre perfis de usuário no Azure Active Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 - [Descubra como os parceiros podem ver ou exportar detalhes do cliente no Partner Center](see-your-customer-list.md)

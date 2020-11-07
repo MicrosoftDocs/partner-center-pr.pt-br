@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: ca06b4574d90993f62e6d8d018657e6bd81eb5e1
-ms.sourcegitcommit: 398e8361ae4b43a22d4015ad71bb724b2bf1b1a9
+ms.openlocfilehash: 8dcd559e9e52c246b720678f05dec9128a6ca366
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "93244056"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360047"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Exibir, gerenciar e exportar os detalhes do programa de incentivos
 
@@ -39,8 +39,8 @@ Use essas páginas para exibir detalhes dos pagamentos e ganhos anteriores, pend
 
 Você pode acessar as informações de incentivos de algumas maneiras no [painel](https://partner.microsoft.com/dashboard)do Partner Center:
 
-- Selecione **incentivos** no menu à esquerda. Várias opções aparecem em **incentivos** , incluindo **visão geral** . Explore essas opções para saber o status dos programas de incentivos, pagamentos de incentivos, ganhos e reivindicações.
-- Selecione o ícone de **dinheiro** (pagamento) no canto superior direito. Em seguida, você pode selecionar outras opções, **como histórico de transações** , **pagamentos** , **exportar dados** ou **relatório de vendas do Office** .
+- Selecione **incentivos** no menu à esquerda. Várias opções aparecem em **incentivos** , incluindo **visão geral**. Explore essas opções para saber o status dos programas de incentivos, pagamentos de incentivos, ganhos e reivindicações.
+- Selecione o ícone de **dinheiro** (pagamento) no canto superior direito. Em seguida, você pode selecionar outras opções, **como histórico de transações** , **pagamentos** , **exportar dados** ou **relatório de vendas do Office**.
 
 As páginas a seguir são descritas aqui:
 
@@ -70,7 +70,7 @@ Para acessar a **Visão Geral de Meus Incentivos** :
    - Para agrupar por local, selecione a guia **por local** acima da tabela.
    - Para exibir mais detalhes sobre os registros em um grupo específico, selecione o símbolo de divisa no final de uma determinada linha. Essa divisa expande sua exibição.
 
-4. Se for necessária uma ação adicional para se inscrever em um programa, essas informações aparecerão na coluna **Status** . Nesse caso, selecione o símbolo de divisa para saber mais sobre as próximas etapas que você precisa realizar.
+4. Se for necessária uma ação adicional para se inscrever em um programa, essas informações aparecerão na coluna **Status**. Nesse caso, selecione o símbolo de divisa para saber mais sobre as próximas etapas que você precisa realizar.
 
 >[!NOTE]
 >Consulte a tabela a seguir para saber mais sobre os diferentes Estados de registro mostrados na coluna **status** .
@@ -95,7 +95,7 @@ Os totais nesta página representam todas as IDs de MPN que você usa. Você pod
 |Próximo pagamento estimado      |O próximo pagamento seguinte chegando a você (mesmo se houver outros em breve) em dólares americanos.                                     |
 |Último pagamento           |A quantidade (em dólares dos EUA), nome do programa e ID de MPN do seu pagamento mais recente.                                      |
 |Pagamentos por origem       |Quantidade de pagamentos, em dólares americanos, representados por programa nos últimos 12 meses.                                      |
-|Pagamentos                       |Selecione **pago** ou **pendente** e, em seguida, classifique como desejar. Para obter detalhes adicionais de um pagamento específico, selecione **Exibir** . Para baixar uma cópia do demonstrativo de remessa de pagamento, selecione **Baixar** . Os dados de histórico de transações podem levar até 24 horas para serem exibidos, portanto, você pode não ver os ganhos associados imediatamente.  |
+|Pagamentos                       |Selecione **pago** ou **pendente** e, em seguida, classifique como desejar. Para obter detalhes adicionais de um pagamento específico, selecione **Exibir**. Para baixar uma cópia do demonstrativo de remessa de pagamento, selecione **Baixar**. Os dados de histórico de transações podem levar até 24 horas para serem exibidos, portanto, você pode não ver os ganhos associados imediatamente.  |
 
 Para exportar qualquer um dos dados nessa página, selecione **Exportar** e, em seguida, siga as instruções na página Exportar dados.
 
@@ -139,7 +139,7 @@ Se você não souber seu número de referência de CI (incentivos de canal), pod
 
 - O [painel do Partner Center](https://partner.microsoft.com/dashboard/) (logon necessário), na guia **pago** e na guia **pendente** .  
 
-- Seu relatório de pagamento, que está localizado em sua [página de exportação de download de pagamento](/partner-center/understand-incentive-payouts#payment-download-export). 
+- Seu relatório de pagamento, que está localizado em sua [página de exportação de download de pagamento](#payment-download-export). 
 
 #### <a name="if-your-submission-is-rejected"></a>Se o envio for rejeitado
 
@@ -167,7 +167,7 @@ A página Histórico de transações agora inclui uma tabela que mostra os valor
 
 O mês de pagamento estimado é calculado com base nas regras de configuração do programa e nas linhas do tempo e é processado no próximo ciclo de pagamento/futuro.
 
-O mês de pagamento estimado está disponível atualmente para todos os tipos de conquista, exceto cooperação, que será exibido como **não aplicável** . Para os ganhos antes de 1º de julho de 2020, o mês de pagamento estimado será exibido como **não disponível** .
+O mês de pagamento estimado está disponível atualmente para todos os tipos de conquista, exceto cooperação, que será exibido como **não aplicável**. Para os ganhos antes de 1º de julho de 2020, o mês de pagamento estimado será exibido como **não disponível**.
 
 #### <a name="estimated-payment-month-example"></a>Exemplo de mês de pagamento estimado
 
@@ -220,7 +220,7 @@ Aqui estão algumas considerações quando você tenta exportar dados:
 
 - A página Exportar dados não é atualizada por conta própria. Talvez seja necessário atualizar a página manualmente para ver os dados mais recentes.
 
-- O filtro pode resultar em um erro **Não há dados disponíveis** . Esse erro provavelmente significa que você saiu do período de tempo padrão selecionado em três meses e, em seguida, selecionou uma ID de pagamento de uma conquista que está fora desse período. Expanda seu período de tempo e tente novamente.
+- O filtro pode resultar em um erro **Não há dados disponíveis**. Esse erro provavelmente significa que você saiu do período de tempo padrão selecionado em três meses e, em seguida, selecionou uma ID de pagamento de uma conquista que está fora desse período. Expanda seu período de tempo e tente novamente.
 
 ## <a name="payment-download-export"></a>Exportação de download de pagamento
 Essa opção fornece um download dos pagamentos recebidos em seu banco para um determinado programa, o imposto associado e a quantidade de ganho agregada.
@@ -331,7 +331,7 @@ O relatório de Resumo de transação fornece detalhes de transações de nível
 ### <a name="download-the-transaction-summary-report"></a>Baixar o relatório de Resumo de transação
 
 1. Na página **visão geral de incentivos** , selecione o ícone **dinheiro** (pagamento) no canto superior direito.
-2. Selecione **Exportar dados** .
+2. Selecione **Exportar dados**.
 3. Selecione a guia **Resumo da transação** .
 4. Selecione os filtros apropriados para ver os programas e as alavancas elegíveis para os ganhos agregados. Se nenhum dado for mostrado, seus programas não estarão qualificados para alavancas agregadas.
 5. Selecione **Iniciar Download**   para exportar o relatório.  
