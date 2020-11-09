@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d990a2cb4dcb69dfc76e8a4f0d40fd4912b4f8a0
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 6bf3e3af8e0d1d87a63f86e892d8bddcd74b6460
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174844"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381402"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Solucionar problemas de configuração de conta ou de renovação de MPN
 
@@ -50,7 +50,7 @@ Para obter mais informações, leia [inscrição de autoatendimento](/azure/acti
 
 Se você esqueceu sua senha, selecione o link **não consegue acessar sua conta?** na página de entrada. Essa opção permite que você Redefina sua senha ou peça ao administrador global para atribuir novas credenciais.
 
-## <a name="on-the-tell-us-about-your-company-scree-you-receive-a-something-went-wrong-error"></a>Na scree "Conte-nos sobre sua empresa", você recebe um erro "algo deu errado"
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Na tela "Conte-nos sobre sua empresa", você recebe um erro "algo deu errado"
 
 Essa mensagem de erro geralmente aparece se você usar inadvertidamente caracteres especiais, espaços ou código de país no número de telefone da empresa. O valor inserido no campo número de telefone pode conter apenas um máximo de 10 caracteres.
 
