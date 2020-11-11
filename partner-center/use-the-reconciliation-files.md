@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98bfd9a9ce6f03ad62a830f05ba82f9b90268326
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d09c1e57d16937c5656579f3932e9c8feb3ecf24
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999700"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488071"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Saiba como ler os itens de linha em seus arquivos de reconciliação do Partner Center
 
@@ -30,13 +30,14 @@ Funções apropriadas:
 - Administrador de cobrança
 - Administrador global
 
-Para obter informações sobre como ler sua **fatura**, consulte [ler sua fatura](read-your-bill.md).
+Para obter informações sobre como ler sua **fatura** , consulte [ler sua fatura](read-your-bill.md).
 
 ## <a name="understand-reconciliation-file-fields"></a>Entender os campos de arquivo de reconciliação
 
 - [Campos de arquivo de reconciliação com base em licença](license-based-recon-files.md)
 - [Campos de arquivo de reconciliação com base no uso](usage-based-recon-files.md)
 - [Campos de arquivo de reconciliação de uso com classificação diária](daily-rated-usage-recon-files.md)
+- [Campos de arquivo de reconciliação do CSP de compra única](modern-invoice-reconciliation-file.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>Entender os tipos de encargo em arquivos de reconciliação
 
@@ -50,7 +51,7 @@ Siga estas etapas para corrigir quaisquer problemas de formatação em seus arqu
 
 1. Abra o arquivo de reconciliação (no formato. csv) no Microsoft Excel.
 2. Selecione a primeira coluna no arquivo.
-3. Abra o **Assistente para converter texto em colunas**. Na faixa de opções, selecione **dados**e, em seguida, selecione **texto para colunas**.
+3. Abra o **Assistente para converter texto em colunas**. Na faixa de opções, selecione **dados** e, em seguida, selecione **texto para colunas**.
 4. No assistente, selecione **tipo de arquivo delimitado**. Em seguida, selecione **Avançar**.
 5. No campo **delimitadores** , selecione **vírgula**. (Se a **guia** já estiver selecionada, você poderá deixar essa opção selecionada.) Em seguida, selecione **Avançar**.
 6. No campo **formato de dados da coluna** , selecione **Data: MDY**. Em seguida, selecione **Avançar**.
@@ -80,11 +81,11 @@ Os parceiros no **modelo indireto** podem usar esses campos adicionais em arquiv
 
 Se um parceiro CSP vendeu a assinatura diretamente ao cliente, sua **ID MPN** é listada duas vezes, como a **ID MPN** e a **ID de MPN do revendedor**.
 
-Se um parceiro CSP tiver um revendedor sem **ID MPN**, esse valor será definido como a ID de **MPN** do parceiro em vez disso.
+Se um parceiro CSP tiver um revendedor sem **ID MPN** , esse valor será definido como a ID de **MPN** do parceiro em vez disso.
 
-Se o parceiro CSP remover uma **ID de MPN do revendedor**, esse valor será definido como *-1*.
+Se o parceiro CSP remover uma **ID de MPN do revendedor** , esse valor será definido como *-1*.
 
-Para exibir ou atualizar a **ID de MPN do revendedor**:
+Para exibir ou atualizar a **ID de MPN do revendedor** :
 
 1. Conecte-se ao Partner Center.
 2. No menu Partner Center, selecione **Clientes**.

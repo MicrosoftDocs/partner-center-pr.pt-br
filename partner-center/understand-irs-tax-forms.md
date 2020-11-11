@@ -6,12 +6,12 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 18ebd0a82802e26295ed985084585306da464079
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 5543ec62397a72a042c5aa64c6c8f77ce7286f4c
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92032029"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94487866"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Noções sobre os formulários fiscais da Receita Federal dos EUA emitidos pela Microsoft
 
@@ -23,11 +23,11 @@ Este artigo explica mais sobre esses formulários, incluindo quem os receberá e
 
 | Formulário fiscal da Receita Federal dos EUA | Descrição | Disponibilidade |
 |--------------|-------------|--------------|
-|1099-MISC, 1099-K | Relacionado a atividade de vendas e/ou pagamentos feitos a você pela participação em marketplaces da Microsoft | Os formulários impressos serão carimbados em ou antes **de 31 de janeiro**e as cópias. pdf estarão disponíveis no [Partner Center](https://partner.microsoft.com/dashboard) (nas configurações de conta do **Partner center** em **pagamento e impostos > pagamento e perfis de impostos**) ao mesmo tempo |
-|1042-S | Relacionado a pagamentos feitos a você que estão sujeitos à retenção de imposto dos Estados Unidos | Os formulários impressos serão marcados em ou antes de **15 de março**, e as cópias de PDF estarão disponíveis no Partner Center (nas **configurações do desenvolvedor do Partner Center** em **pagamento e impostos > pagamento e perfis de impostos**) ao mesmo tempo  |
+|1099-MISC, 1099-K | Relacionado a atividade de vendas e/ou pagamentos feitos a você pela participação em marketplaces da Microsoft | Os formulários impressos serão carimbados em ou antes **de 31 de janeiro** e as cópias. pdf estarão disponíveis no [Partner Center](https://partner.microsoft.com/dashboard) (nas configurações de conta do **Partner center** em **pagamento e impostos > pagamento e perfis de impostos** ) ao mesmo tempo |
+|1042-S | Relacionado a pagamentos feitos a você que estão sujeitos à retenção de imposto dos Estados Unidos | Os formulários impressos serão marcados em ou antes de **15 de março** , e as cópias de PDF estarão disponíveis no Partner Center (nas **configurações do desenvolvedor do Partner Center** em **pagamento e impostos > pagamento e perfis de impostos** ) ao mesmo tempo  |
 
 > [!NOTE]
-> O endereço que usamos nos formulários de imposto IRS provém do endereço em seu [perfil de imposto](/azure/marketplace/marketplace-payout-account-setup). Se seu endereço foi alterado, atualize o endereço em seu **perfil de imposto**.
+> O endereço que usamos nos formulários de imposto IRS vem do endereço em seu perfil de imposto quando você [configura sua conta de pagamento e formulários de impostos](set-up-your-payout-account.md). Se seu endereço foi alterado, atualize o endereço em seu **perfil de imposto**.
 
 Os formulários de imposto serão enviados a você por meio dos seguintes endereços:
 
@@ -53,12 +53,12 @@ Os formulários de imposto serão enviados a você por meio dos seguintes endere
 
 | Se eu for uma Estados Unidos desenvolvedor vendendo aplicativos pagos e...   | Devo receber este formulário: |
 |------------------------|-----------------------|
-| Atingi a marca de **mais de 200 vendas de app** com um valor total de compra dessas vendas **superior a USD 20.000** no ano fiscal aplicável (**sem** contar vendas feitas no Brasil e na China por meio da Microsoft Store no Windows 10).| **1099-K:**<br/>Declarante: Microsoft Corporation<br/>Ein: \* \* \* \* \* 4442<br/><br/>**Importante:** O formulário 1099-K contém os valores de **compra brutos**, e não os pagamentos feitos a você.| 
+| Atingi a marca de **mais de 200 vendas de app** com um valor total de compra dessas vendas **superior a USD 20.000** no ano fiscal aplicável ( **sem** contar vendas feitas no Brasil e na China por meio da Microsoft Store no Windows 10).| **1099-K:**<br/>Declarante: Microsoft Corporation<br/>Ein: \* \* \* \* \* 4442<br/><br/>**Importante:** O formulário 1099-K contém os valores de **compra brutos** , e não os pagamentos feitos a você.| 
 | Recebi **pelo menos US$ 10 em pagamentos** por (i) vendas de app feitas no Brasil e na China por meio da Microsoft Store no Windows 10 ou (ii) vendas no Minecraft Marketplace.<br/><br/>**OR**<br/><br/>Recebi pelo menos $600 em pagamentos não relacionados a vendas de aplicativos da Microsoft no ano fiscal aplicável (por exemplo, pagamentos de incentivos ou pagamentos de um concurso ou promoção)| **1099-MISCELÂNEA:**<br/>Pagador: Microsoft Corporation<br/>Ein: \* \* \* \* \* 4442<br/><br/>**Importante:** Certas pessoas jurídicas não receberão formulários 1099-MISC, independentemente dos valores de pagamento recebidos da Microsoft.  Consulte seu profissional fiscal para obter mais informações.| 
-| Nenhuma das opções acima.| Não |
+| Nenhuma das opções acima.| Nenhum |
 | <br/><br/>**Se eu for uma Estados Unidos desenvolvedor vendendo anúncios em aplicativos e...** |<br/><br/>**Devo receber este formulário:** |
 |Recebi **pelo menos $600 em pagamentos** de anúncios em aplicativos no ano fiscal aplicável. | **1099-MISCELÂNEA:**<br/>Pagador: Microsoft Online Inc<br/>Ein: \* \* \* \* \* 0505<br/><br/>**Importante:** Certas pessoas jurídicas não receberão formulários 1099-MISC, independentemente dos valores de pagamento recebidos da Microsoft.  Consulte seu profissional fiscal para obter mais informações. |
-| Recebi **menos de $600 em pagamentos** de anúncios em aplicativos no ano fiscal aplicável. | Não |
+| Recebi **menos de $600 em pagamentos** de anúncios em aplicativos no ano fiscal aplicável. | Nenhum |
 
 
 ## <a name="for-developers-located-outside-of-the-united-states"></a>Para desenvolvedores localizados fora dos Estados Unidos
@@ -74,7 +74,7 @@ Os formulários de imposto serão enviados a você por meio dos seguintes endere
 | **Por que recebi três cópias da mesma forma 1042-S em um envelope?** | Os regulamentos da Receita Federal dos EUA exigem que três cópias do formulário sejam fornecidas:<br/><br/>-Um para os registros do destinatário<br/>-Um para o arquivamento com um retorno de imposto federal Estados Unidos (se aplicável)<br/>-Um para o arquivamento com um retorno de imposto de estado Estados Unidos (se aplicável) |
 
 > [!NOTE]
-> Se você tiver dúvidas ou preocupações adicionais relacionadas aos **formulários de imposto IRS**, acesse [ajuda e suporte](https://partner.microsoft.com/dashboard/support/) no painel do Partner Center. A Microsoft não pode responder a perguntas relacionadas a circunstâncias específicas de seu imposto; para essas perguntas, consulte seu contador.
+> Se você tiver dúvidas ou preocupações adicionais relacionadas aos **formulários de imposto IRS** , acesse [ajuda e suporte](https://partner.microsoft.com/dashboard/support/) no painel do Partner Center. A Microsoft não pode responder a perguntas relacionadas a circunstâncias específicas de seu imposto; para essas perguntas, consulte seu contador.
 
 ## <a name="next-steps"></a>Próximas etapas
 

@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 38fa2943815a71c93bba7165ea970baefc992ed9
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007400"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488108"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurar sua conta de pagamento e formulários de imposto
 
@@ -28,7 +28,7 @@ Depois de configurar a conta, há duas coisas que você precisa fazer para poder
 - [Configurar sua conta de pagamento](#payout-account)
 
 > [!NOTE]
-> Para obter detalhes sobre como e quando você receberá o dinheiro que sua oferta gerou, confira [Recebendo pagamentos](/azure/marketplace/marketplace-payout-account-setup).
+> Para obter detalhes sobre como e quando você será pago pelo dinheiro que sua oferta faz, consulte [sendo pago no mercado comercial](marketplace-get-paid.md).
 
 ## <a name="tax-forms"></a>Formulário de impostos
 
@@ -77,12 +77,12 @@ Se você estiver fora do Estados Unidos, poderá aproveitar os benefícios de tr
 Uma conta de pagamento é a conta bancária para onde enviamos os rendimentos de suas vendas. Você pode exibir todas as contas de pagamento inseridas na página Perfil.
 
 > [!NOTE]
-> Em alguns mercados, o PayPal pode ser usado como conta de pagamento. Para saber se o PayPal é aceito em um mercado específico, confira [Limites, formas e cronogramas de pagamento](/azure/marketplace/payment-thresholds-methods-timeframes) e as [informações do PayPal](#paypal-info) abaixo para obter mais detalhes.
+> Em alguns mercados, o PayPal pode ser usado como conta de pagamento. Para saber se o PayPal é aceito em um mercado específico, confira [Limites, formas e cronogramas de pagamento](payment-thresholds-methods-timeframes.md) e as [informações do PayPal](#paypal-info) abaixo para obter mais detalhes.
 
 ### <a name="create-a-payment-profile"></a>Criar um perfil de pagamento
 
 1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **configurações** no canto superior direito e, em seguida, selecione **configurações de conta**.
-2. Embaixo do cabeçalho *Pagamento e imposto*, selecione **Atribuição de perfil de pagamento e imposto**.
+2. Embaixo do cabeçalho *Pagamento e imposto* , selecione **Atribuição de perfil de pagamento e imposto**.
 
     > [!NOTE]
     > Como essas informações são confidenciais, você pode ser solicitado a entrar novamente.
@@ -95,14 +95,14 @@ Uma conta de pagamento é a conta bancária para onde enviamos os rendimentos de
 
 Se optou por usar uma conta bancária para receber pagamentos, você concluirá o processo a seguir para configurar sua conta bancária.
 
-1. Na página *Perfil bancário*, forneça as informações necessárias sobre seu banco.
+1. Na página *Perfil bancário* , forneça as informações necessárias sobre seu banco.
 2. Forneça os detalhes da sua conta bancária.
 
     > [!NOTE]
     > Os campos que você usa para fornecer as informações da sua conta aceitam apenas caracteres alfanuméricos.
 
 3. Forneça os detalhes do beneficiário.
-4. De volta à página *Atribuição de perfil*, selecione a moeda que você gostaria de usar ao emitir seus pagamentos.
+4. De volta à página *Atribuição de perfil* , selecione a moeda que você gostaria de usar ao emitir seus pagamentos.
 
     > [!WARNING]
     > Verifique se seu banco aceita a moeda de pagamento que você selecionou.
@@ -126,25 +126,25 @@ Você poderá editar os perfis de pagamento existentes se precisar fazer altera�
 
 1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **Configurações** no canto superior direito e selecione **Configurações do desenvolvedor**.
 
-2. Embaixo do cabeçalho *Pagamento e imposto*, selecione **Perfis de pagamento e imposto**.
+2. Embaixo do cabeçalho *Pagamento e imposto* , selecione **Perfis de pagamento e imposto**.
 
 3. Seus perfis de pagamento serão listados junto com o status. Localize o perfil que você deseja editar e clique em **Editar** à direita
 
 > [!IMPORTANT]
-> A alteração da conta de pagamento pode atrasar os pagamentos em até um ciclo de pagamento. Esse atraso ocorre porque precisamos confirmar a alteração da conta, como fizemos na primeira configuração da conta de pagamento. Você ainda receberá o valor total após a verificação de sua conta; os pagamentos atrasados do ciclo de pagamento atual serão adicionados ao próximo. Confira [Recebendo pagamentos](/azure/marketplace/marketplace-payout-account-setup) para obter mais informações.
+> A alteração da conta de pagamento pode atrasar os pagamentos em até um ciclo de pagamento. Esse atraso ocorre porque precisamos confirmar a alteração da conta, como fizemos na primeira configuração da conta de pagamento. Você ainda receberá o valor total após a verificação de sua conta; os pagamentos atrasados do ciclo de pagamento atual serão adicionados ao próximo. Confira [a obtenção de pagamento no mercado comercial](marketplace-get-paid.md)para obter mais informações.
 
 ### <a name="paypal-info"></a>Informações de PayPal
 
 Em alguns países e regiões, você pode criar uma conta de pagamento inserindo suas informações do PayPal. No entanto, antes de escolher o PayPal como uma opção de conta de pagamento:
 
-- Verifique os [Limites, formas e cronogramas de pagamento](/azure/marketplace/payment-thresholds-methods-timeframes) para confirmar se o PayPal é uma forma de pagamento com suporte em seu país ou região.
+- Verifique os [Limites, formas e cronogramas de pagamento](payment-thresholds-methods-timeframes.md) para confirmar se o PayPal é uma forma de pagamento com suporte em seu país ou região.
 - Examine as perguntas frequentes a seguir. Dependendo de sua situação, o PayPal pode não ser a melhor opção de conta de pagamento para você, e será melhor usar uma conta bancária.
 
 Perguntas comuns sobre como usar o PayPal como forma de pagamento:
 
 - **Quais configurações do PayPal preciso ter para poder receber pagamentos?** Verifique se sua conta do PayPal não bloqueia pagamentos de eCheck. Essa configuração é gerenciada na página Preferências de Recebimento de Pagamento do PayPal. Confira a [página de configuração da conta do PayPal](https://go.microsoft.com/fwlink/p/?linkid=513139) para obter mais informações.
 
-- **Meu País/minha região têm Suporte?** Confira [Limites, formas e cronogramas de pagamento](/azure/marketplace/payment-thresholds-methods-timeframes) para descobrir onde o PayPal é uma forma de pagamento com suporte.
+- **Meu País/minha região têm Suporte?** Confira [Limites, formas e cronogramas de pagamento](payment-thresholds-methods-timeframes.md) para descobrir onde o PayPal é uma forma de pagamento com suporte.
 
 - **Minha conta do PayPal precisa estar registrada no mesmo país/região que minha conta do Partner Center?** Não. Ao configurar uma conta do PayPal, você poderá aceitar a configuração padrão. Você não deve ter problemas com outros países/regiões e moedas, a menos que tenha bloqueado o pagamento em algumas moedas. Essa configuração é gerenciada na página Preferências de Recebimento de Pagamento do PayPal.
 
@@ -192,17 +192,17 @@ A Microsoft fornece todos os três documentos na primeira tentativa de pagamento
 
 Se optou por usar uma conta bancária para receber pagamentos, você concluirá o processo a seguir para configurar sua conta bancária.
 
-1. Na página *PayPal*, forneça as informações necessárias sobre sua conta do PayPal.
+1. Na página *PayPal* , forneça as informações necessárias sobre sua conta do PayPal.
 2. Forneça os detalhes da sua conta do PayPal.
 
     > [!NOTE]
     > Os campos que você usa para fornecer as informações da sua conta aceitam apenas caracteres alfanuméricos.
 
 3. Forneça os detalhes do beneficiário.
-4. De volta à página *Atribuição de perfil*, selecione a moeda que você gostaria de usar ao emitir seus pagamentos.
+4. De volta à página *Atribuição de perfil* , selecione a moeda que você gostaria de usar ao emitir seus pagamentos.
 5. Você precisará selecionar um perfil de pagamento para cada programa do qual participa, mas pode usar o mesmo perfil em vários programas.
 6. Clique em Enviar para salvar as alterações.
 
 ## <a name="next-steps"></a>Próximas etapas
 
-[Cobrança do marketplace comercial](/azure/marketplace/billing-details)
+[Ser pago no marketplace comercial](marketplace-get-paid.md)

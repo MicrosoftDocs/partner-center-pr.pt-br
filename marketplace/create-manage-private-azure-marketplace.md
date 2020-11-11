@@ -3,15 +3,15 @@ title: Criar e gerenciar o Azure Marketplace privado no portal do Azure
 description: Saiba mais sobre como criar e gerenciar o Azure Marketplace privado (versão prévia) no portal do Azure.
 ms.prod: marketplace-customer
 ms.topic: article
-author: keferna
-ms.author: keferna
+author: msjogarrig
+ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: 31179d9fd4068348e689d8b426b7a0307112501a
-ms.sourcegitcommit: af4726de429d2b9b7c3656d5cac7d542b0d4af74
+ms.openlocfilehash: 1333bb2c8830cec83d7b7f05890af818d5c0ce5b
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "93414851"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94487696"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Criar e gerenciar o Azure Marketplace privado (versão prévia) no portal do Azure
 

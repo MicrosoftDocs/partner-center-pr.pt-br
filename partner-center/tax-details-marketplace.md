@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 05/04/2020
-ms.openlocfilehash: 161c524cb3c20b2d17e4bb265cc676acc1af2702
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 89b014b87dd37cc2d38a5931b2f5433394f369c9
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175005"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488190"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Detalhes de impostos para editores do marketplace comercial
 
@@ -264,12 +264,12 @@ O seguinte se aplica somente aos Editores do Azure Marketplace, não obstante qu
 |----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
 | Austrália (para compras feitas por meio de todos os cenários de compra do cliente, exceto pelo Enterprise Agreement) | O preço que está sendo selecionado é o preço de venda final e inclui os impostos aplicáveis. | Microsoft |
 | Austrália (somente para compras feitas por meio do cenário de compra do cliente do Enterprise Agreement) | O preço que está sendo selecionado é o preço de venda final e inclui os impostos aplicáveis. | Publicador |
-| Brasil | O preço que está sendo selecionado é o preço de venda final e inclui os impostos aplicáveis. | Editor (**consulte países/regiões do revendedor**) |
-| México | O preço que está sendo selecionado é o preço de venda final e inclui os impostos aplicáveis. | Editor (**consulte países/regiões do revendedor**) |
+| Brasil | O preço que está sendo selecionado é o preço de venda final e inclui os impostos aplicáveis. | Editor ( **consulte países/regiões do revendedor** ) |
+| México | O preço que está sendo selecionado é o preço de venda final e inclui os impostos aplicáveis. | Editor ( **consulte países/regiões do revendedor** ) |
 
 ## <a name="mixed-remittance-countriesregions-for-publishers"></a>Países/regiões de remessa mista para editores
 
-Determinados parceiros de cobrança da Microsoft podem coletar e remeter vendas, uso, bens e serviços, valor agregado ou impostos semelhantes, se houver, aplicáveis à aquisição dos clientes de seus aplicativos ou produtos no aplicativo pela Store nos países/regiões listados abaixo. Os [relatórios](/azure/marketplace/payout-summary-overview) que a Microsoft disponibiliza para você identificarão as transações para as quais um parceiro de cobrança coletou vendas, uso, bens e serviços, valor agregado ou impostos semelhantes aplicáveis à aquisição dos clientes de seus aplicativos ou produtos no aplicativo pela Store. Exceto pelas transações descritas no relatório, nem a Microsoft nem seus provedores de serviços de cobrança remeterão nenhuma venda, uso, bens e serviços, valor agregado ou outros impostos semelhantes em conexão com a aquisição dos clientes de seus aplicativos ou produtos no aplicativo nesses países/regiões. Você é responsável por revisar os relatórios fornecidos a você e determinar e obedecer às suas obrigações, se houver, para registrar, coletar e remeter impostos em conexão com transações que envolvem seus aplicativos ou produtos no aplicativo.
+Determinados parceiros de cobrança da Microsoft podem coletar e remeter vendas, uso, bens e serviços, valor agregado ou impostos semelhantes, se houver, aplicáveis à aquisição dos clientes de seus aplicativos ou produtos no aplicativo pela Store nos países/regiões listados abaixo. Os relatórios em sua [declaração de pagamento](payout-statement.md) que a Microsoft disponibiliza para você identificará as transações para as quais um parceiro de cobrança coletou vendas, uso, bens e serviços, valor agregado ou impostos semelhantes aplicáveis à aquisição dos clientes de seus aplicativos ou In-App produto (s) por meio da loja. Exceto pelas transações descritas no relatório, nem a Microsoft nem seus provedores de serviços de cobrança remeterão nenhuma venda, uso, bens e serviços, valor agregado ou outros impostos semelhantes em conexão com a aquisição dos clientes de seus aplicativos ou produtos no aplicativo nesses países/regiões. Você é responsável por revisar os relatórios fornecidos a você e determinar e obedecer às suas obrigações, se houver, para registrar, coletar e remeter impostos em conexão com transações que envolvem seus aplicativos ou produtos no aplicativo.
 
 | Países/regiões de remessa mista |
 |------------------------------------|
@@ -289,4 +289,4 @@ O seguinte se aplica somente aos editores do Azure Marketplace:
 
 ## <a name="next-steps"></a>Próximas etapas
 
-[Configurar sua conta de pagamento e formulários de impostos](/azure/marketplace/marketplace-payout-account-setup)
+[Configurar sua conta de pagamento e formulários de impostos](set-up-your-payout-account.md)
