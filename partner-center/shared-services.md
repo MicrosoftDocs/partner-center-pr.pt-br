@@ -8,19 +8,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 06/03/2020
-ms.openlocfilehash: 49b5bd1c9a7cd4c56f2fac28a45cc8a4b922b9b0
-ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
+ms.date: 11/11/2020
+ms.openlocfilehash: 93ee3e142bf11c3b329fd27ec7320b93aea780b8
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "92333728"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532031"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Adicionar serviços compartilhados de parceiros do Azure para que os parceiros possam comprar assinaturas do Azure para seu próprio uso
 
-**Aplica-se a**
-
-- Partner Center
  
 **Funções apropriadas**
 
@@ -38,17 +35,17 @@ Os Serviços Compartilhados do Parceiro Azure são um novo tipo de oferta para p
 
 2. Se você ainda não tiver um locatário de serviços compartilhados, clique em **Criar serviços compartilhados**.
 
-   :::image type="content" source="images/sharedservices3.png" alt-text="Configurações de conta > serviços compartilhados":::
+   :::image type="content" source="images/sharedservices3.png" alt-text="Criar serviços compartilhados":::
 
 3. Isso cria um locatário serviços compartilhados e compra a assinatura de Serviços Compartilhados do Azure CSP para serem usados para recursos compartilhados e carga de trabalho interna.
 
-   :::image type="content" source="images/sharedservices5.png" alt-text="Configurações de conta > serviços compartilhados":::
+   :::image type="content" source="images/sharedservices5.png" alt-text="Criar o locatário e comprar a assinatura":::
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>Sobre a oferta dos Serviços Compartilhados/Internos do Azure
 
 - A assinatura Azure-Serviços Compartilhados/Internos é um novo tipo de oferta do Azure no CSP acessado por meio do Partner Center que os parceiros obtêm para seu próprio uso do Azure.
 
-- A oferta de Azure-Serviços Compartilhados/Internos não está qualificada para descontos e incentivos.
+- Azure-Serviços Compartilhados/Internos oferta é elegível para descontos e incentivos.  As assinaturas dos serviços compartilhados do parceiro do Azure são elegíveis e podem ser usadas para comprar o RIs.
 
 - A oferta Azure - Serviços Compartilhados/Internos só pode ser aplicada ao locatário de serviços compartilhados.
 
@@ -78,3 +75,7 @@ Os parceiros que têm serviços BYOL ou gratuitos implantados usando o APSS não
 Para aproveitar o catálogo completo de ofertas do Marketplace disponíveis (não apenas BYOL e serviços gratuitos), recomendamos que os parceiros CSP implantem serviços compartilhados usando assinaturas do Azure Direct Web.  Os parceiros CSP que implantaram BYOL de terceiros e recursos de serviço gratuitos do Marketplace anteriormente e desejavam continuar a usá-los e implantar mais ofertas de terceiros são incentivados a migrar a assinatura APSS para a Web Direct [migrando assinaturas do Azure existentes](/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
 
 Os parceiros, que planejam continuar usando a assinatura do APSS após 1º de março de 2019 e desejam implantar novos [serviços de BYOL](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) de terceiros ou serviços gratuitos, podem seguir as instruções de ISVs para implantá-las em suas assinaturas do APSS.
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Vender assinaturas de software por meio do CSP](csp-software-subscriptions.md)

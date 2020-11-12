@@ -4,15 +4,15 @@ description: Saiba mais sobre os detalhes relacionados às políticas de pagamen
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: 8986ef1d2a16d939530ed49875a21c13b0b97868
-ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
+ms.openlocfilehash: 9c03878ec69b9df06795054464ef7f76e038e780
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "94381385"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94531980"
 ---
 # <a name="payout-schedules-and-policy-details"></a>Agendas de pagamento e detalhes da política
 

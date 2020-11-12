@@ -4,15 +4,15 @@ description: Obtenha respostas para perguntas comuns sobre pagamentos no mercado
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
-author: keferna
-ms.author: keferna
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/11/2020
-ms.openlocfilehash: 44bd7f488e3d4e79c45cb2746c7e2a6da449a310
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 5775eb497940870344e0d3da85def7c3e717c65f
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175293"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532014"
 ---
 # <a name="common-questions-about-commercial-marketplace-payouts"></a>Perguntas comuns sobre pagamentos do Marketplace comercial
 
@@ -32,7 +32,7 @@ Este artigo responde a perguntas frequentes sobre pagamentos no mercado comercia
 - Verifique a responsabilidade de remessa de imposto por país. No caso de países em que os impostos são de responsabilidade da Microsoft, a Microsoft coleta e deduz o imposto dos ganhos do editor. O valor da transação mostrado no demonstrativo é posterior ao valor do imposto. Confira [Detalhes do imposto](tax-details-marketplace.md).
 - As ofertas de SaaS e IaaS têm uma tarifa de agência com desconto em 10% em vez do padrão de 20%, deixando uma taxa de ganhos de 90%. Essa promoção estará em vigor até 30 de junho de 2021.
 
-**Leitura adicional**: [contrato de editor do Marketplace comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), [detalhes da política de pagamento](payout-policy-details.md), [limite de pagamento, método e intervalo de tempo](payment-thresholds-methods-timeframes.md), [sendo pago no Marketplace comercial](marketplace-get-paid.md), detalhes do [imposto](tax-details-marketplace.md), [instruções de pagamento](payout-statement.md), [painel de pedidos na análise do Marketplace comercial](/azure/marketplace/partner-center-portal/orders-dashboard)
+**Leitura adicional** : [contrato de editor do Marketplace comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), [detalhes da política de pagamento](payout-policy-details.md), [limite de pagamento, método e intervalo de tempo](payment-thresholds-methods-timeframes.md), [sendo pago no Marketplace comercial](marketplace-get-paid.md), detalhes do [imposto](tax-details-marketplace.md), [instruções de pagamento](payout-statement.md), [painel de pedidos na análise do Marketplace comercial](/azure/marketplace/partner-center-portal/orders-dashboard)
 
 ## <a name="earnings-reconciliation"></a>Reconciliação de ganhos
 ### <a name="how-do-i-reconcile-payout-statements-to-order-or-usage-reports-in-analytics"></a>Como reconciliar as instruções de pagamento para relatórios de pedidos ou de uso no Analytics?
@@ -47,7 +47,7 @@ Use AssetID, orderID e ID de item de linha aparecendo no relatório de históric
 - Para clientes corporativos, os ganhos do editor aparecem na instrução 1-2 dias após a data da ordem de compra.
 - Para clientes não empresariais, os ganhos do editor aparecem na instrução 1-2 dias após o pagamento do cliente ser recebido.
 
-**Leitura adicional**: [instruções de pagamento](payout-statement.md), [painel de pedidos na análise do Marketplace comercial](/azure/marketplace/partner-center-portal/orders-dashboard)
+**Leitura adicional** : [instruções de pagamento](payout-statement.md), [painel de pedidos na análise do Marketplace comercial](/azure/marketplace/partner-center-portal/orders-dashboard)
 
 ## <a name="payout-policies"></a>Políticas de pagamento
 
@@ -60,7 +60,7 @@ Use AssetID, orderID e ID de item de linha aparecendo no relatório de históric
 - Quando o ganho estiver em um status não processado, você poderá verificar a data de vencimento do mês em que os ganhos serão processados para pagamento. Quando o pagamento for preparado, seu status de conquista será alterado para "processado".  A Microsoft lança os pagamentos até o 15º dia do mês de maturidade.
 - Para pedidos pagos por cartão de crédito, a Microsoft tem pagamentos de 30 dias até que a conquista seja amadureceda.
 
- **Leitura adicional**: [contrato de editor do Marketplace comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), [detalhes da política de pagamento](payout-policy-details.md), detalhes do [imposto](tax-details-marketplace.md), [limite de pagamento, método e período de tempo](payment-thresholds-methods-timeframes.md)
+ **Leitura adicional** : [contrato de editor do Marketplace comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), [detalhes da política de pagamento](payout-policy-details.md), detalhes do [imposto](tax-details-marketplace.md), [limite de pagamento, método e período de tempo](payment-thresholds-methods-timeframes.md)
 
 ## <a name="payments-and-adjustments"></a>Pagamentos e ajustes
 
@@ -81,21 +81,21 @@ A moeda de pagamento é baseada na moeda selecionada no perfil de pagamento. A m
 
 Os ajustes de pagamento são correções de pagamento para conciliar os ajustes de compensação, como problemas do sistema. No demonstrativo de pagamento, o ReasonCode especificará o motivo do ajuste. Eles não se destinam a reconciliar diretamente em transações individuais.
 
-**Leitura adicional**: [contrato de editor do Marketplace comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), [detalhes da política de pagamento](payout-policy-details.md), detalhes do [imposto](tax-details-marketplace.md), [limite de pagamento, método e período de tempo](payment-thresholds-methods-timeframes.md)
+**Leitura adicional** : [contrato de editor do Marketplace comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), [detalhes da política de pagamento](payout-policy-details.md), detalhes do [imposto](tax-details-marketplace.md), [limite de pagamento, método e período de tempo](payment-thresholds-methods-timeframes.md)
 
 ## <a name="taxes"></a>Impostos
 
 #### <a name="how-do-we-identify-tax-remit-responsibility-between-microsoft-or-publisher-in-the-payout-statement"></a>Como identificar a responsabilidade de Remessa Fiscal entre a Microsoft ou o Editor no demonstrativo de pagamento?
 
-No download do histórico de transações, localize a coluna de modelo Imposto. Essa coluna mostra Gerenciado pela MS ou Gerenciado pela ISV. Confira as regras fiscais e implicações de pagamento específicas do país em [Detalhes fiscais](tax-details-marketplace.md).
+No download do histórico de transações, localize a coluna de modelo Imposto. Essa coluna mostra Gerenciado pela MS ou Gerenciado pela ISV. Confira as regras fiscais e implicações de pagamento específicas do país/região em [Detalhes fiscais](tax-details-marketplace.md).
 
 #### <a name="how-do-i-download-service-fee-tax-forms"></a>Como baixar os formulários de Encargos Fiscais?
 
-Acesse a página **Pagamento**, em seguida, a seção **Lista de pagamento**. Um link para o formulário de Encargos Fiscais é exibido para um pagamento que tem os Encargos Fiscais.
+Acesse a página **Pagamento** , em seguida, a seção **Lista de pagamento**. Um link para o formulário de Encargos Fiscais é exibido para um pagamento que tem os Encargos Fiscais.
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Como baixar um formulário de Retenção de Imposto em PDF?
 
-Acesse a página *Pagamento*, em seguida, a seção **Lista de pagamento**. Um link para um formulário de retenção de imposto é exibido ao lado de um pagamento.
+Acesse a página *Pagamento* , em seguida, a seção **Lista de pagamento**. Um link para um formulário de retenção de imposto é exibido ao lado de um pagamento.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Onde posso encontrar os formulários de imposto de fim de ano?
 
@@ -104,16 +104,16 @@ Acesse a página [Perfil](https://partner.microsoft.com/dashboard/payee/profiles
 #### <a name="how-do-i-find-withholding-tax-for-a-transaction"></a>Como localizar a retenção de imposto de uma transação?
 A retenção de imposto é aplicável a editores norte-americanos que preencheram o formulário W-9. A retenção de imposto é calculada com base no pagamento mensal.
 
-**Leitura adicional**: [contrato de editor do Marketplace comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), [detalhes da política de pagamento](payout-policy-details.md)
+**Leitura adicional** : [contrato de editor do Marketplace comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), [detalhes da política de pagamento](payout-policy-details.md)
 
 ## <a name="payout-statement-access"></a>Acesso à instrução de pagamento
 
 #### <a name="how-do-i-access-a-payout-statement"></a>Como acesso uma instrução de pagamento?
 
 1. Verifique suas funções. Você deve ter a função de *colaborador financeiro* ou *proprietário da conta* para acessar a instrução pagamento.
-2. Na barra de navegação superior direita, selecione o ícone de **pagamento** para exibir sua instrução de pagamento. Escolha entre o **histórico de transações**, o **pagamento**e o **Download**.
+2. Na barra de navegação superior direita, selecione o ícone de **pagamento** para exibir sua instrução de pagamento. Escolha entre o **histórico de transações** , o **pagamento** e o **Download**.
 
-**Leitura adicional**: [funções de pagamento e permissões](payout-statement.md#roles-and-permissions), [instruções de pagamento](payout-statement.md) 
+**Leitura adicional** : [funções de pagamento e permissões](payout-statement.md#roles-and-permissions), [instruções de pagamento](payout-statement.md) 
 
 ## <a name="payout-statement-report"></a>Relatório de demonstrativo de pagamento
 
@@ -131,17 +131,17 @@ Isso mostra seus ganhos como não processados, processados ou enviados.
 
 #### <a name="how-do-i-download-service-fee-tax-forms"></a>Como baixar os formulários de Encargos Fiscais?
 
-Acesse a página **Pagamento**, em seguida, a seção **Lista de pagamento**. Um link para o formulário de Encargos Fiscais é exibido para um pagamento que tem os Encargos Fiscais.
+Acesse a página **Pagamento** , em seguida, a seção **Lista de pagamento**. Um link para o formulário de Encargos Fiscais é exibido para um pagamento que tem os Encargos Fiscais.
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Como fazer baixar um formulário de imposto sobre retenção em PDF?
 
-Acesse a página **Pagamento**, em seguida, a seção **Lista de pagamento**. Um link para um formulário de retenção de imposto é exibido ao lado de um pagamento.
+Acesse a página **Pagamento** , em seguida, a seção **Lista de pagamento**. Um link para um formulário de retenção de imposto é exibido ao lado de um pagamento.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Onde posso encontrar os formulários de imposto de fim de ano?
 
 Acesse a página [Perfil](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) para exibir seus formulários de imposto de fim de ano.
 
-**Leitura adicional**: [instruções de pagamento](payout-statement.md), [download de histórico de transações](payout-statement.md#transaction-history-download)
+**Leitura adicional** : [instruções de pagamento](payout-statement.md), [download de histórico de transações](payout-statement.md#transaction-history-download)
 
 ## <a name="historical-statements"></a>Demonstrativo do histórico
 
@@ -149,7 +149,7 @@ Acesse a página [Perfil](https://partner.microsoft.com/dashboard/payee/profiles
 
 O demonstrativo histórico mostrará o instantâneo dos dados de pagamento a partir de outubro de 2019. Infelizmente, as informações de pagamento aqui não são atualizadas. Para receber as informações mais recentes, envie um tíquete de suporte para os dados mais recentes.
 
-**Leitura adicional**: [instruções de pagamento](payout-statement.md), [download de histórico de transações](payout-statement.md#transaction-history-download)
+**Leitura adicional** : [instruções de pagamento](payout-statement.md), [download de histórico de transações](payout-statement.md#transaction-history-download)
 
 ## <a name="payout-export-api"></a>API de exportação de pagamento
 

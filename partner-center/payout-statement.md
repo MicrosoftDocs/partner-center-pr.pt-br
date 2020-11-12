@@ -4,17 +4,17 @@ description: Saiba mais sobre demonstrativos e resumos de pagamentos e como exib
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/23/2020
-ms.openlocfilehash: 460a7b1992d7db40e0f45d3aeb7e2236e9495e07
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 34d7d162673992601267db03beaddda1573b73c0
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91335638"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532048"
 ---
-# <a name="payout-statements"></a>Instruções de pagamento
+# <a name="payout-statements"></a>Demonstrativos de pagamento
 
 A **instrução pagamento** apresenta uma visão geral de seus pagamentos de ofertas vendidas por meio do Marketplace comercial. Ele mostra o histórico transacional de seus ganhos, estima seu próximo pagamento e mostra as tendências de pagamento. Você também pode baixar o histórico de transações e os demonstrativos de pagamento. Este artigo explica como acessar sua declaração de pagamento e as diferentes páginas de pagamento e downloads acessíveis para você no Partner Center.
 
@@ -201,7 +201,7 @@ A tabela a seguir explica os diferentes status de conquista.
 | Futuros | A ordem de pagamento gerou revisões internas pendentes antes de o pagamento ser processado. | Não |
 | Fatura de imposto pendente | Sua fatura de imposto está incompleta ou inválida. | Atualize sua fatura de imposto para ser pago |
 | Rejeitado durante a revisão | O pagamento foi rejeitado durante a revisão. | Entre em contato com o Suporte da Microsoft para detalhes |
-| Failed (Falha) | O pagamento falhou devido a um erro do sistema da Microsoft. | Contate o suporte da Microsoft para obter detalhes |
+| Com falha | O pagamento falhou devido a um erro do sistema da Microsoft. | Contate o suporte da Microsoft para obter detalhes |
 | Em Andamento | O pagamento está em andamento. | Não |
 | Pagamento incorreto | A revitóriação de pagamento está em andamento. | Não |
 | Enviado | O pagamento foi enviado ao seu banco. | Não |
@@ -238,7 +238,7 @@ Para ver mais detalhes sobre seus pagamentos, selecione **baixar** na parte supe
 
 ## <a name="export-data"></a>Exportar dados
 
-A página **exportar dados** não é atualizada por conta própria. Talvez seja necessário atualizar a página manualmente para ver os dados mais recentes. Selecione entre as três guias para exportar o **histórico de transações**, os **pagamentos**, o **Resumo da transação**ou a **instrução histórica**.
+A página **exportar dados** não é atualizada por conta própria. Talvez seja necessário atualizar a página manualmente para ver os dados mais recentes. Selecione entre as três guias para exportar o **histórico de transações** , os **pagamentos** , o **Resumo da transação** ou a **instrução histórica**.
 
 O filtro pode resultar em um erro de **nenhum dado disponível** . Isso pode acontecer se você saiu do período de tempo padrão selecionado em três meses e, em seguida, selecionou uma ID de pagamento de uma conquista que está fora desse período. Se isso acontecer, expanda seu período de tempo e tente novamente.
 
@@ -285,14 +285,14 @@ A tabela a seguir explica cada coluna em uma instrução histórica.
 | Recebimentos líquidos | Valor da transação menos o imposto remetido |
 | Valor de armazenamento | O percentual dos recebimentos líquidos retidos pela Microsoft como valor pela disponibilização do aplicativo ou complemento na loja |
 | Lucros do aplicativo | Recebimentos líquidos menos o valor de armazenamento |
-| Impostos retidos | Valor do imposto de renda retido (ou seja, incluído no arquivo CSV **Reservado**) |
+| Impostos retidos | Valor do imposto de renda retido (ou seja, incluído no arquivo CSV **Reservado** ) |
 | Pagamento | Os lucros do aplicativo menos qualquer retenção de imposto sobre renda aplicável (valor mostrado na moeda da transação). Não incluído no arquivo CSV **Reservado**. |
 | Taxa de FX | Taxa de câmbio estrangeira usada para converter a moeda da transação na moeda de pagamento |
 | Moeda de pagamento | Moeda na qual seu pagamento é feito |
 | Pagamento convertido | Valor de pagamento convertido na moeda de pagamento usando a taxa de FX |
 | Modelo de pagamento de imposto | Parte responsável pelo pagamento de impostos (vendas, uso ou impostos sobre IVA/GST) |
-| Data e hora da qualificação | A data e a hora em que os lucros da transação se tornam qualificados para pagamento (UTC). Quando um pagamento é criado, ele inclui os lucros da transação com uma data e hora de qualificação antes da data de criação do pagamento (incluída apenas no arquivo CSV **Reservado**). |
-| Charges | Mostra uma divisão de todo o detalhamento de preço agregado na coluna Valor da transação (incluído apenas para o Azure Marketplace; não incluído no arquivo CSV **Reservado**). |
+| Data e hora da qualificação | A data e a hora em que os lucros da transação se tornam qualificados para pagamento (UTC). Quando um pagamento é criado, ele inclui os lucros da transação com uma data e hora de qualificação antes da data de criação do pagamento (incluída apenas no arquivo CSV **Reservado** ). |
+| Charges | Mostra uma divisão de todo o detalhamento de preço agregado na coluna Valor da transação (incluído apenas para o Azure Marketplace; não incluído no arquivo CSV **Reservado** ). |
 |||
 
 ## <a name="next-steps"></a>Próximas etapas
