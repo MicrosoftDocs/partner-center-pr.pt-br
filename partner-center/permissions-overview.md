@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 6707ede563d07b6b96d2133bd75f8fbd53531875
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 4839fbd6fac5f84e5a2ebc40d1f7f48da6114113
+ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133024"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "93363615"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Atribuir permissões e funções de usuários para os usuários de uma empresa que precisam trabalhar no Partner Center
 
@@ -127,21 +127,38 @@ Essas funções não são funções do Azure Active Directory. Essas funções g
 ||*    Criar tíquetes de suporte para o Partner Center
 ||*    Ver os tíquetes de suporte do parceiro que você criar
 
+## <a name="manage-referrals"></a>Gerenciar indicações
 
-## <a name="manage-referrals"></a>Gerenciar indicações 
+> [!Note]
+>A nova função de usuário de Indicações estará disponível a partir de 16 de novembro de 2020. Os administradores de indicações existentes manterão essa função no escopo de toda a empresa.
 
-|**Função**|**O que você pode fazer**|**Saiba mais**|
-|-----------------------------|:------------------------|---|
-|Administrador de indicações       |* Ver, criar e gerenciar perfis de negócios|[Gerenciar vendas potenciais diferentes, como consultas de clientes, clientes potenciais qualificados por marketing e clientes potenciais qualificados por vendas](manage-leads.md)
-||*    Receber e gerenciar indicações
-||* Ver, criar e gerenciar as indicações de venda conjunta|
-||*    Ver, criar e gerenciar solicitações de serviço de parceiros
-|Administrador de perfis de negócios   |* Ver, criar e gerenciar perfis de negócios |[Criar um perfil de negócios](create-a-marketing-profile.md)
-||*    Ver, criar e gerenciar solicitações de serviço de parceiros
-||*    Criar tíquetes de suporte para o Partner Center
-||*    Ver os tíquetes de suporte do parceiro que você criar|
+|**Função** | **O que você pode fazer**|**Saiba mais**
+|------------------------------|:-------------------------|---|
+|Administrador de indicações|Criar e gerenciar tudo na guia Indicações no Partner Center|[Gerenciar oportunidades de venda conjunta](manage-co-sell-opportunities.md)
+||    Pode exibir e editar todas as oportunidades e clientes potenciais de venda conjunta
+||    Pode atribuir membros da equipe para uma oferta
+||    Pode exibir e editar perfis de negócios
+||    Pode exibir e registrar as negociações para oportunidades marcadas como ganhas e qualificadas para o registro da oferta
+||    Pode criar e exibir tíquetes de suporte
+|Usuário de indicações|Criar e gerenciar oportunidades de venda conjunta apenas se ele fizer parte da equipe |[Gerenciar oportunidades de venda conjunta](manage-co-sell-opportunities.md)
+||    Pode criar oportunidades de venda conjunta para os locais em que a função é atribuída a ele.
+||    Pode exibir e registrar as ofertas para oportunidades marcadas como ganhas e qualificadas para o registro da negociação se ele é um membro da equipe.
+||    Pode criar e exibir tíquetes de suporte
+|Administrador de perfis de negócios|Criar e gerenciar perfis de negócios | [Gerenciar perfil de negócios](create-a-marketing-profile.md)
+||    Pode criar e exibir tíquetes de suporte
 
-## <a name="manage-incentives"></a>Gerenciar incentivos 
+Junto com a nova função de usuário de indicações, também estamos introduzindo o escopo de local para as ofertas. A tabela a seguir explica o acesso às ofertas com base no local.
+
+|**Escopo** | **O que você pode fazer** |
+|------------------------------|:-------------------------|
+|Toda a empresa | Tanto administradores quanto usuários têm acesso para criar ofertas para qualquer local na empresa deles|
+|| O administrador de indicações tem acesso para exibir e editar todas as ofertas |
+|| Os usuários de indicações terão acesso para exibir e editar todas as ofertas somente se fizerem parte da equipe |
+|Um ou mais locais | Tanto administradores quanto usuários têm acesso para criar ofertas para o local atribuído na empresa deles|
+|| O administrador de indicações tem acesso para exibir e editar todas as ofertas pertencentes aos locais atribuídos|
+|| Os usuários de indicações terão acesso para exibir e editar todas as ofertas pertencentes aos locais atribuídos se fizerem parte da equipe|
+
+## <a name="manage-incentives"></a>Gerenciar incentivos
 
 |**Função** | **O que você pode fazer**|**Saiba mais**
 |------------------------------|:-------------------------|---|

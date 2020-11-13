@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/30/2020
-ms.openlocfilehash: ae27f193839d5456457afc923fd7834a8ff106f9
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 37b8072742db0a9f8eb6bda3b74bf2db66b32e3d
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132820"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433301"
 ---
 # <a name="october-2020-announcements"></a>Comunicados de outubro de 2020
 
@@ -23,6 +23,27 @@ Esta página detalha os comunicados de outubro de 2020 sobre o Microsoft Partner
 Comunicados de 2020:  [Março](2020-march.md) | [Abril](2020-april.md) | [Maio](2020-may.md) | [Junho](2020-june.md) | [Julho](2020-july.md) | [Agosto](2020-august.md) | [Setembro](2020-september.md) | Outubro
 
 ______________
+
+## <a name="correction-to-calling-plan-expansion"></a><a name="18"></a>Correção da expansão do Plano de Chamada 
+
+### <a name="categories"></a>Categorias
+
+- Data: 29/10/2020
+- Ofertas/mercados
+
+### <a name="impacted-audience"></a>Público-alvo afetado
+
+Provedores diretos, provedores indiretos e revendedores indiretos
+
+### <a name="details"></a>Detalhes
+
+Em 1º de outubro de 2020, anunciamos [a disponibilidade do plano de chamada do Office 365 em novos mercados](2020-september.md#2). Esse comunicado não está correto e 240 minutos por usuário por mês para planos Domésticos não estão disponíveis como mencionado anteriormente. 
+
+
+Para obter detalhes de Planos de Chamada, veja a [documentação do produto](/microsoftteams/calling-plan-landing-page) do Microsoft Teams.
+
+
+________________
 
 ## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>Atualizações de recursos de assinaturas de software do Windows Server
 

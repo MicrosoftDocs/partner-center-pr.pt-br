@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 58aaf94c06be233d9b12fce23a86b25078c3fd9b
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
+ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175228"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94567059"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Como relatar problemas com o Partner Center e enviar quaisquer informações de log ou diagnóstico
 
@@ -41,6 +41,24 @@ Todos os usuários registrados no Partner Center podem criar solicitações de s
 
 5. Preencha os **detalhes do problema** e **envie**. Um representante do Suporte do Parceiro entrará em contato com você.
 
+## <a name="schedule-a-support-appointment"></a>Agendar um compromisso de suporte 
+
+**Atualmente em visualização*
+
+Se o problema exigir uma conversa com o defensor do suporte, você poderá agendar o compromisso nos detalhes do seu tíquete.
+
+:::image type="content" source="images/support/ticket.png" alt-text="Agendar um compromisso de suporte":::
+
+1.  Na página detalhes do tíquete no Partner Center, selecione uma data e hora disponíveis no calendário do defensor do suporte. Você verá apenas as datas e os horários disponíveis em seu fuso horário local.
+
+:::image type="content" source="images/support/ticket2.png" alt-text="Agendar compromisso":::
+
+2. O Partner Center verifica a disponibilidade do calendário do defensor do suporte.
+
+1. Quando você agenda um compromisso, o Partner Center envia a você um convite de calendário com informações sobre como o defensor do suporte entrará em contato com você, para que você possa acompanhar esse compromisso em seu próprio calendário de trabalho.
+
+:::image type="content" source="images/support/ticket3.png" alt-text="Data e Hora":::
+
 ## <a name="send-diagnostics"></a>Enviar diagnóstico
 
 Se ocorrer um erro enquanto você estiver em uma página do Partner Center, você poderá ser solicitado a coletar informações de log. Selecione **coletar mais informações** do link que cai da parte superior da página para abrir a ferramenta de diagnóstico do cliente. Essa ferramenta coleta informações de que a equipe de Suporte do Parceiro precisa para determinar a causa do erro. 
@@ -65,3 +83,6 @@ Você pode visualizar as informações de diagnóstico e salvá-las em um arquiv
 
 O Suporte do Parceiro pode solicitar que você execute essa ferramenta várias vezes para obter as informações mais atualizadas.
 
+## <a name="next-steps"></a>Próximas etapas
+
+- [Relatar um problema de serviço em nome de um cliente](report-problems-on-behalf-of-a-customer.md)

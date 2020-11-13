@@ -338,9 +338,11 @@
         - name: Localizar a contagem de desktops e o nível de taxas para um contrato
           href: chip-locate-agreement.md
         - name: Elegibilidade da avaliação de solução
-          href: chip-solution-assessment.md
+          href: chip-solutions-assessment-eligible.md
         - name: Status de pagamento da avaliação de solução
           href: chip-solution-assessment-payment.md
+        - name: Perguntas frequentes sobre a avaliação de solução
+          href: chip-faq.md
         - name: Problema ao acessar a CHIP
           href: chip-access-trouble.md
 - name: Cobrança e impostos
@@ -365,6 +367,10 @@
       href: daily-rated-usage-recon-files.md
     - name: Arquivos de reconciliação baseados em licença
       href: license-based-recon-files.md
+    - name: Arquivos de reconhecimento do CSP de compra única
+      href: modern-invoice-reconciliation-file.md
+    - name: Cálculo de preço unitário efetivo
+      href: effective-unit-price-calculation.md
     - name: Cenários comuns de cobrança
       href: common-billing-scenarios.md
       displayName: 'trial, subscription'

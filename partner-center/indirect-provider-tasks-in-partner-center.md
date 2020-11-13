@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: 21a21bc363856ee041ff9e3f9f41b0bcf9796467
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 12b902f8134a4fcf6d93439658da95fff6d80c4f
+ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006876"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94567042"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Faça parceria com revendedores indiretos no programa Provedor de Soluções na Nuvem
 
@@ -76,7 +76,7 @@ Na página detalhes da assinatura, no campo revendedor (ID do MPN), adicione o r
 
 1. Selecione **revendedores indiretos** no menu do **Partner Center** .
 
-2. Na página **Revendedores indiretos**, selecione **Solicitar uma parceria**. Um rascunho de mensagem de e-mail é exibido.
+2. Na página **Revendedores indiretos** , selecione **Solicitar uma parceria**. Um rascunho de mensagem de e-mail é exibido.
 
 3. Selecione **Abrir no email** para abri-lo em seu aplicativo de email padrão ou selecione **Copiar para área de transferência** para copiar e colar, em seguida, a mensagem em um e-mail. Selecione **Concluído** ao terminar.
     > [!IMPORTANT]  
@@ -101,7 +101,7 @@ Para assinaturas existentes, se você decidir trabalhar com um revendedor indire
 | **Para fazer isso** | **Faça isto** | **Onde** |
 |   ------------------   |   -------   |   -----   |
 | Habilitar o revendedor para gerenciar a conta de um cliente e ter permissões de administrador para gerenciar suas assinaturas | Associar um revendedor para uma conta do cliente ao adicionar um novo cliente | Na página **Novo cliente** |
-| Habilitar o revendedor para gerenciar uma conta de cliente do Azure|Associar um revendedor a uma conta de cliente do Azure ao adicionar um novo cliente|No **Portal de serviço do Azure**, selecione [Configurações de Usuário](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para fornecer permissões de **proprietário locatário** ao revendedor indireto|
+| Habilitar o revendedor para gerenciar uma conta de cliente do Azure|Associar um revendedor a uma conta de cliente do Azure ao adicionar um novo cliente|No **Portal de serviço do Azure** , selecione [Configurações de Usuário](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para fornecer permissões de **proprietário locatário** ao revendedor indireto|
 | Dê ao revendedor crédito para incentivos | Associar o revendedor à assinatura (nova ou existente) | Na página **Nova inscrição** |
 | Delegar atendimento ao cliente para assinaturas específicas ao revendedor | Selecione o revendedor da lista **Contato de suporte designados** | Na página de detalhes da assinatura: selecione o cliente na página de seus **clientes** e, em seguida, selecione a assinatura na página **assinaturas** do cliente |
 
@@ -136,13 +136,13 @@ Quando você associa um revendedor de uma nova conta do cliente, você está del
 
 2. Encontre o revendedor indireto que você deseja atribuir aos novos clientes e, em seguida, selecione **Adicionar novo cliente**. Observe que o revendedor indireto já está selecionado para você no formulário de detalhes do cliente. Forneça os detalhes do cliente e, em seguida, selecione **Avançar: assinaturas**.
 
-3. Na página **Nova assinatura**, selecione as assinaturas que o cliente quer comprar e, em seguida, insira o número de licenças que o cliente precisa.
+3. Na página **Nova assinatura** , selecione as assinaturas que o cliente quer comprar e, em seguida, insira o número de licenças que o cliente precisa.
 
 4. Selecione **Avançar: Análise**.
 
 5. Se o pedido estiver correto, selecione **Enviar**. Se a ordem estiver incorreta, selecione **Cancelar** para cancelar a operação inteira e recomeçar.
 
-6. Depois de enviar a ordem, a página **Confirmação** será exibida. Em **Informações de instalação**, o nome de conta de usuário do administrador e a senha temporária são exibidos. Copie as informações de nome e a senha de conta do usuário para que você possa enviá-los para o novo cliente.
+6. Depois de enviar a ordem, a página **Confirmação** será exibida. Em **Informações de instalação** , o nome de conta de usuário do administrador e a senha temporária são exibidos. Copie as informações de nome e a senha de conta do usuário para que você possa enviá-los para o novo cliente.
 
     > [!IMPORTANT]  
     > Anote o nome da conta de usuário e a senha, pois você não pode acessar essas informações novamente depois de fechar esta página.
@@ -151,19 +151,19 @@ Quando você associa um revendedor de uma nova conta do cliente, você está del
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Adicionar novas assinaturas a contas de cliente
 
-Quando os clientes desejam comprar novas assinaturas, atualizar as existentes ou comprar licenças adicionais, você faz essas alterações na conta do cliente.
+Quando os clientes desejam comprar novas assinaturas, atualizar as existentes ou comprar licenças adicionais, você faz essas alterações na conta do cliente por meio do portal do M365. Você não pode fazer isso no portal do Azure.
 
 1. Selecione **clientes** no menu do **Partner Center** .
 
 2. Localizar o cliente cuja conta você deseja alterar. Você pode filtrar a lista por revendedor indireto para limitar suas opções. Expanda o registro do cliente selecionando a seta para baixo e, em seguida, selecionando **Adicionar assinatura**.
 
-3. Na página **Nova assinatura**, selecione as assinaturas e insira o número de licenças que o cliente quiser comprar.
+3. Na página **Nova assinatura** , selecione as assinaturas e insira o número de licenças que o cliente quiser comprar.
 
 4. Para associar a assinatura a um revendedor, selecione o nome do revendedor na lista e, em seguida, selecione **Enviar**. Associar o revendedor com a assinatura permite que eles ganhem incentivos, se aplicável.
 
 5. As novas assinaturas são exibidas na lista de assinaturas do cliente.
 
-6. Se você quiser que o revendedor manipule solicitações de suporte de cliente na nova assinatura, selecione a assinatura e, em seguida, selecione o revendedor da lista **Contato de suporte designados**.
+6. Se você quiser que o revendedor manipule solicitações de suporte de cliente na nova assinatura, selecione a assinatura e, em seguida, selecione o revendedor da lista **Contato de suporte designados**. 
 
 7. Selecione **Enviar** quando terminado.
 
