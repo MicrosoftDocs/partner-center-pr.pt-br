@@ -1,19 +1,19 @@
 ---
 title: Perfis de pagamento e impostos no Partner Center
 ms.topic: how-to
-ms.date: 09/11/2020
+ms.date: 11/12/2020
 description: Crie e gerencie seu pagamento e seu perfil de impostos para que você possa ser pago pelo trabalho de seus incentivos. Inclui a criação, o gerenciamento e o uso de perfis diferentes.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: ca2ffe992ff92b98546934f4a249779f39179acb
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 66177c6e3cd0091081866e1508d28346f49ec713
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175354"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94626024"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Criar e gerenciar o pagamento de incentivos e perfis de impostos no Partner Center
 
@@ -24,7 +24,7 @@ ms.locfileid: "92175354"
 **Funções apropriadas:**
 
 - Administrador de incentivos
-- Administrador de cobrança
+- Administrador de conta
 - Administrador global
 
 Para receber o pagamento de seus programas de incentivo para um local de MPN específico, conclua o registro associando um perfil de pagamento e imposto válido ao programa e ao local de MPN. A Microsoft usará este perfil de pagamento e imposto para emitir pagamentos. Você pode usar transferência bancária eletrônica ou uma nota de crédito para pagamento, dependendo das regras do programa de incentivo. 
@@ -43,15 +43,11 @@ Os incentivos podem exibir os ganhos de incentivos e os detalhes e relatórios d
 
 ### <a name="choose-your-disbursement-currency"></a>Escolha sua moeda de pagamento
 
-Por padrão, os pagamentos de incentivos são feitos na moeda local de cada entidade respectiva. Você pode especificar uma moeda diferente durante a configuração do perfil. Os pagamentos serão calculados usando uma taxa de câmbio como definido mensalmente pela Microsoft. Você será responsável por qualquer alteração no valor devido à moeda selecionada.
-
-### <a name="bank-and-tax-information-and-other-programs"></a>Informações bancárias e de impostos e outros programas
-
-Forneça as informações descritas abaixo mesmo que a Microsoft já use seus dados bancários para pagamentos. Isso ajuda a garantir a privacidade e a segurança dos dados da sua empresa, já que copiar seu perfil para a nova ferramenta pode expor informações confidenciais. Passar por esse processo também é uma boa oportunidade para garantir que os dados estejam completos e precisos.
+Os pagamentos de incentivo são feitos na moeda que você selecionou ao configurar seu perfil de pagamento. Os pagamentos serão calculados usando uma taxa de câmbio como definido mensalmente pela Microsoft. Você será responsável por qualquer alteração no valor devido à moeda selecionada.
 
 ### <a name="using-different-profiles-for-different-microsoft-programs"></a>Usando perfis diferentes para programas diferentes da Microsoft
 
-No varejo, os pagamentos para cada um dos cinco programas de incentivos de varejo podem ir para a mesma conta bancária. Como alternativa, você pode escolher se os pagamentos do Xbox de varejo entram em uma conta bancária enquanto o escritório de varejo é pago para uma conta bancária diferente.
+Se sua empresa estiver inscrita em vários programas de incentivo, você poderá usar a mesma conta de pagamento para todos eles ou optar por usar contas de pagamento diferentes para programas diferentes.
 
 ## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>Criar e gerenciar perfis fiscais e de pagamento no Partner Center
 
@@ -66,7 +62,7 @@ As seções abaixo guiarão você pelo processo de criação e gerenciamento de 
 
    - Vários domínios podem ser registrados em uma conta do Azure AD. Entre em contato com seu administrador global para determinar quais domínios estão associados.
    - Se você só puder fazer logon com o @onmicrosoft.com domínio, entre em contato com o administrador da conta para adicionar outros domínios à conta do Azure AD.
-   - Se for solicitado que você selecione conta **corporativa ou de estudante** ou **conta pessoal**, selecione **conta corporativa ou de estudante**.
+   - Se for solicitado que você selecione conta **corporativa ou de estudante** ou **conta pessoal** , selecione **conta corporativa ou de estudante**.
 
 2. Selecione o ícone de engrenagem para abrir o menu **configurações** e, em seguida, selecione **configurações de parceiro**.
 
@@ -76,7 +72,7 @@ As seções abaixo guiarão você pelo processo de criação e gerenciamento de 
 
 1. Entre no [painel do Partner Center](https://partner.microsoft.com/dashboard/)e selecione o ícone de engrenagem para abrir o menu **configurações** . 
 
-2. Selecione **configurações de parceiro**, expanda a **seção pagamento e imposto**e selecione **atribuição de perfil de pagamento e imposto**. 
+2. Selecione **configurações de parceiro** , expanda a **seção pagamento e imposto** e selecione **atribuição de perfil de pagamento e imposto**. 
    
    Será exibida uma lista de seus programas. Selecione a seta ao lado de um programa para ver os detalhes do perfil. 
 
@@ -117,9 +113,9 @@ Os perfis bancários são criados em um nível de organização. Isso permite qu
 
 5. Na página do **beneficiário** , insira as informações apropriadas. O beneficiário é a pessoa em sua empresa que o banco deve contatar se precisar discutir sua conta.
 
-6. Quando os campos forem concluídos, selecione **concluir**e, em seguida, selecione **confirmar** para criar seu perfil bancário.
+6. Quando os campos forem concluídos, selecione **concluir** e, em seguida, selecione **confirmar** para criar seu perfil bancário.
 
-Você será redirecionado para a página de **perfis de pagamento e impostos** . O status do seu novo perfil refletirá a **validação pendente da Microsoft** até que a validação tenha sido concluída. Esse processo pode levar até 48 horas. Após a conclusão da validação, o status do perfil refletirá **aprovado** ou **ação necessária**. Se a **ação for necessária**, repita as etapas acima fornecendo as informações necessárias. 
+Você será redirecionado para a página de **perfis de pagamento e impostos** . O status do seu novo perfil refletirá a **validação pendente da Microsoft** até que a validação tenha sido concluída. Esse processo pode levar até 48 horas. Após a conclusão da validação, o status do perfil refletirá **aprovado** ou **ação necessária**. Se a **ação for necessária** , repita as etapas acima fornecendo as informações necessárias. 
 
 ## <a name="create-your-tax-profile"></a>Criar seu perfil de imposto
 

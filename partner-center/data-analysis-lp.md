@@ -1,7 +1,7 @@
 ---
-title: Usar o Analytics for Customer insights
+title: Usar análise para insights de assinatura
 ms.topic: article
-ms.date: 05/15/2020
+ms.date: 11/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como usar a análise no Partner Center para entender melhor seus negócios e como seus clientes usam as licenças que você comprou.
@@ -9,50 +9,71 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 176f09a2acfeab7566f58f3177f1b052d9cb5968
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 19e7cf9442660a24d36b5f7c20fab156fdc0d59a
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434735"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94626058"
 ---
-# <a name="use-analytics-to-learn-more-about-customer-license-use-and-how-you-can-help-meet-their-needs"></a>Use a análise para saber mais sobre o uso de licença de cliente e como você pode ajudar a atender às suas necessidades
+# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Use a análise para saber mais sobre a receita da assinatura
 
-**Aplica-se a**
+**Funções apropriadas**
 
-- Partner Center
-- Parceiros MPN
-- Parceiros no programa CSP
-
-**Função apropriada**
-
+- Administrador global
 - Administrador de parceiros do MPN
 
-Planejar formas de desenvolver seus negócios CSP inclui entender como seus clientes usam os produtos da Microsoft. Além de ter várias opções para reunir dados no Partner Center, você pode coletar dados sobre a sua empresa e saber se e como os clientes estão usando as licenças que eles compraram. Se estiver no modelo direto de CSP, você tem a oportunidade de instalar e usar o aplicativo Análise do Partner Center para Power BI para reunir dados adicionais.
+Planejar formas de desenvolver seus negócios CSP inclui entender como seus clientes usam os produtos da Microsoft. Além de ter várias opções para reunir dados no Partner Center, você pode coletar dados sobre a sua empresa e saber se e como os clientes estão usando as licenças que eles compraram. Se você estiver no modelo do CSP Direct, também terá a oportunidade de instalar e usar o aplicativo de análise do Partner Center para Power BI coletar dados adicionais.
 
-## <a name="access-to-user-analytics"></a>Acesso ao User Analytics
+## <a name="access-to-the-subscription-analytics"></a>Acesso à análise de assinatura
 
-No Partner Center, somente o administrador do parceiro MPN tem acesso à análise do usuário. Se alguém em sua empresa precisar desse acesso (por exemplo, um administrador de cobrança), você poderá concedê-lo atribuindo essa pessoa à função de administrador do parceiro MPN.
+1. Entre no [painel](https://partner.microsoft.com/dashboard/home) do Partner Center.
+1. No CSP no menu do Partner Center, selecione **analisar** e, em seguida, selecione **análise de assinatura**.
+
+1. A receita do CSP de doze meses à direita será exibida na parte superior da página
+
+:::image type="content" source="images/analytics/subscription1.png" alt-text="Tela de assinatura":::
+
+## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Receita do CSP TTM (Twelve-Month à direita)
+
+A receita do CSP de 12 meses à direita representa a receita do programa do provedor de soluções na nuvem à direita em USD em um nível de conta global do parceiro. Os dados são atualizados no oitavo de cada mês, para exibir a receita de doze meses à direita até o mês anterior. Por exemplo, em 9 de setembro de 2020, você poderá ver o TTM do período fixo de 2019 de setembro a 2020 de agosto.
+
+A receita exibida no Partner Center é calculada por um intervalo de tempo fixo de doze meses e não pode ser modificada para um período de tempo menor.
+
+Para ver uma análise da receita no nível de conta do local do parceiro:
+
+- Selecione o link ' detalhes do download ' e baixe um arquivo. tsv que exibe a receita TTM em todos os seus locais.
 
 >[!NOTE] 
->Para conceder acesso, você deve ser um administrador de parceiro do MPN.
+>Somar os números de receita de TTM individuais entre IDs de MPN no arquivo. tsv pode parecer maior do que a receita geral de TTM que você vê na central de parceiros. Isso ocorre porque a receita pode ser duplamente contada para assinaturas com várias atribuições de parceiros no arquivo baixado.
 
-**Conceder acesso à análise do usuário no Partner Center** 
+## <a name="subscription-summary"></a>Resumo da assinatura
 
-1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
+A metade inferior da tela exibe um resumo das assinaturas. Use os filtros a seguir para ver os detalhes de assinatura necessários:  
 
-2. No menu do centro de parceiros, na página de **Gerenciamento de usuários** do Partner Center, use a caixa de pesquisa para localizar a pessoa que precisa de acesso.
-2.  Nos resultados da pesquisa, selecione o nome da pessoa para abrir a página de **detalhes do usuário** .
-3.  Em **funções e permissões**, selecione **administrador do parceiro do MPN** e, em seguida, selecione **Atualizar**.
+1. **Duração** : você pode optar por ver o resumo da assinatura para 
+
+- 30D – últimos 30 dias
+- 3M – últimos 3 meses
+- 6 minutos – últimos 6 meses
+- 12M – últimos 12 meses
+
+2. **Tipo de Produto** :
+ 
+- Office 365
+- Microsoft 365
+- Dynamics 365
+- EMS
+
+A aplicação desses filtros não afetará a métrica de receita de TTM na parte superior deste relatório.
+
 
  
-## <a name="access-data-in-partner-center"></a>Acessar dados no Partner Center
+## <a name="next-steps"></a>Próximas etapas
 
-|**Para obter dados sobre**   |**Baixe isto**   |**Leia isto**   | **Aplica-se a**    |
-|---------------------|:-----------------------|:---------------|:--------------|
-|Como os clientes estão usando as licenças adquiridas   |Dados de implantação e uso do Partner Center => análise de produto   |[Aumentar a adoção e a satisfação](increasing-adoption-and-satisfaction.md)|Parceiros CSP|
-|Atividade do cliente em relação a assinaturas   |Logs de atividades   |[Exibir logs de atividades do cliente](activity-logs.md)|Parceiros CSP   |
-|Crescimento da base de clientes, uso, consumo do Azure e muito mais   |Aplicativo do Partner Center para Power BI   |[Aplicativo de análise do Partner Center para o Power BI (parceiros diretos no CSP)](power-bi-app-for-direct-partners.md)|Parceiros diretos CSP|
+- [Analise como os clientes estão usando as licenças adquiridas](increasing-adoption-and-satisfaction.md)  
+- [Exibir logs de atividades do cliente](activity-logs.md)
+- [Aplicativo Análise do Partner Center para Power BI](power-bi-app-for-direct-partners.md)
 
 
 
