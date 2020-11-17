@@ -1,7 +1,7 @@
 ---
 title: Aumentar a adoção e a satisfação
 ms.topic: how-to
-ms.date: 07/21/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como usar as métricas no Partner Center. As métricas podem mostrar se sua empresa está crescendo, como os clientes usam suas licenças e onde concentrar o investimento.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d995d72f6b5f9fb3beafff91eee7518ee999bf6c
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 494c9d7ff8e726e8bd183456926761c3cebf10ee
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545927"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691360"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Use as métricas no Partner Center para aumentar a adoção e a satisfação
 
@@ -55,7 +55,7 @@ Você pode encontrar dados de licença e de usuário para um único cliente ou e
 
 1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
-2. Selecione **analisar**e escolha uma das opções de análise no menu.
+2. Selecione **analisar** e escolha uma das opções de análise no menu.
 
 3. Para baixar os dados de uso e de implantação em todo o conjunto de clientes, selecione a opção **Exportar** (seta para baixo).
 
@@ -67,7 +67,7 @@ Terminologia:
 
 - **% de Implantação** = licenças atribuídas/licenças vendidas
 
-- **% de Uso** = direitos ativos/total de direitos
+- **Uso%** = usuários ativos/total de usuários
 
    Às vezes, a % de uso está inflacionada ou maior do que 100%. Isso pode ocorrer por diversos motivos:
 

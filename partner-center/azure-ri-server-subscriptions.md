@@ -1,7 +1,7 @@
 ---
 title: Reservas do Azure & assinaturas de servidor
 ms.topic: article
-ms.date: 08/06/2020
+ms.date: 11/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre as oportunidades do provedor de soluções na nuvem para adquirir, provisionar e gerenciar reservas do Azure e assinaturas de servidor para clientes.
@@ -9,18 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3c08e897a8f5d7c11b36627b0c24ad2da3f92329
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0434ad2e6494f5efc1b1e5e2aa003dc6587d7b4e
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000200"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691343"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Adquirir, provisionar & gerenciar instâncias de VM reservadas do Azure (RI) + assinaturas de servidor para clientes
 
-Aplica-se a:
-
-- Partner Center
 
 **Funções apropriadas**
 
@@ -29,9 +26,6 @@ Aplica-se a:
 - Agente de suporte técnico
 - Agente de vendas
 - Administrador de gerenciamento de usuário
-
-> [!NOTE]
-> Este artigo se aplica somente a parceiros no programa CSP (provedor de soluções na nuvem). Os clientes que usam outros tipos de assinaturas (como pagamento conforme o uso, individuais, contrato de cliente da Microsoft ou assinaturas de Enterprise Agreement) devem ler [essa documentação de reservas do Azure](/azure/cost-management-billing/reservations).
 
 
 ## <a name="what-are-azure-reservations"></a>O que são Reservas do Azure?
@@ -45,44 +39,27 @@ Se os clientes tiverem máquinas virtuais, Azure Cosmos DB ou bancos de dados SQ
 ### <a name="compelling-new-azure-offer-in-csp"></a>Nova oferta atraente do Azure no CSP
 
 Ao trazer as reservas do Azure e as assinaturas de servidor para seu programa CSP, a Microsoft está melhorando seus parceiros para atender à demanda de clientes de crescimento rápido para soluções mais econômicas para dar suporte a cargas de trabalho de nuvem persistentes e altamente previsíveis. O programa CSP permite que os parceiros adquiram, provisionem e gerenciem reservas do Azure e assinaturas de servidor em nome de clientes comerciais por meio do Microsoft Partner Center e portal do Azure.
-
 Até mesmo daremos aos parceiros em nossas opções do programa CSP sobre como as reservas do Azure podem ser adquiridas. Os parceiros CSP podem [comprar reservas do Azure em nome de um cliente](azure-reservations-buying.md) ou podem [permitir que o cliente compre suas próprias reservas](give-customers-permission.md) de uma assinatura anterior do Azure que o parceiro comprou para eles.
 
 As reservas do Azure oferecem aos clientes a flexibilidade da virtualização para uma ampla gama de soluções de computação, incluindo desenvolvimento e teste, execução de aplicativos e extensão do data center.
 
 Com as [instâncias de VM reservadas do Azure](https://azure.microsoft.com/pricing/reserved-vm-instances/) , por exemplo, os clientes comerciais agora podem economizar até 72% versus o preço pago conforme o uso da VM do Azure simplesmente comprando-ou "reservando"-a máquina virtual por um período de 1 ou 3 anos. Os clientes do Windows Server com o Benefício Híbrido do Azure, incluído com o Software Assurance, poderão economizar até 80% em relação ao preço do pagamento conforme o uso.
 
-Com uma combinação inigualável de preços atraentes e flexibilidade de implantação inigualável, os clientes verão o melhor valor geral quando escolherem as reservas do Azure:
+Com uma combinação inigualável de preços atraentes e flexibilidade de implantação inigualável, os clientes verão o melhor valor geral quando escolherem reservas do Azure.
 
-#### <a name="azure-reservations"></a>Reservas do Azure
+- Consulte [reservas de compra](https://docs.microsoft.com/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) no portal do Azure.
 
-- Instâncias de VM reservadas do Azure
-- Reservas do BD SQL
-- Instância Gerenciada de SQL
-- Azure Cosmos DB
-- SQL Data Warehouse do Azure
-- Serviços de Aplicativos
-- Reservas de unidade de Azure Databricks
-- Disco Gerenciado
-- Blob de blocos
-- MySQL
-- Gerenciador de dados do Azure
-- MariaDB
-- PostgreSQL
+- Consulte a **lista de preços comerciais do CSP ri do Azure** na categoria **Microsoft Azure instâncias reservadas** na página [preços e ofertas](https://partner.microsoft.com/dashboard/sell/pricingandoffers) no Partner Center para assinaturas de software e assinaturas anuais do Linux ISV.
 
-#### <a name="server-subscriptions"></a>Assinaturas de servidor
 
-- Windows Server
-- CALs de Serviços de Área de Trabalho Remota (RDS)
-- SQL Server
-
-#### <a name="linux-isv-annual-subscriptions"></a>Assinaturas anuais do Linux ISV
+ 
+**Assinaturas anuais do Linux ISV**
 
 - SUSE Linux
 - Red Hat Enterprise Linux
 - Red Hat OpenShift no Azure
 
-#### <a name="isv-annual-subscriptions"></a>Assinaturas anuais do ISV
+**Assinaturas anuais do ISV**
 
 - Solução VMware no Azure pela CloudSimple
 
@@ -90,66 +67,63 @@ Com uma combinação inigualável de preços atraentes e flexibilidade de implan
 
 Para entender como você pode posicionar as reservas do Azure com seus clientes e colocar a operação em funcionamento o mais rápido possível, recomendamos a seguinte abordagem para revisar os materiais de preparação:
 
-1. Examine as Apresentações de Visão Geral e os webinars associados para obter a proposição de valor e o posicionamento do cliente
-2. Examinar e entender o Guia de Operação de Comércio Moderno
-3. Examinar as perguntas frequentes sobre o Azure RI e as assinaturas de servidor
-4. Noções básicas sobre as atualizações para Reservas do Azure e assinaturas de servidor na [API do Partner Center (API/SDK)](/partner-center/develop/purchase-azure-reserved-vm-instances)
+1. Examine e entenda o [novo guia de operações de comércio do Partner Center](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
-## <a name="resources"></a>Recursos
+2. Entenda as atualizações para as reservas do Azure e assinaturas de servidor na [API do Partner Center (API/SDK)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances).
 
-A seguir, uma lista abrangente de recursos para ajudá-lo a se integrar rapidamente às transações de Reservas do Azure por meio do Partner Center:
 
 ### <a name="sales-readiness"></a>Preparação para vendas
 
-- [Reservas do Azure e assinaturas de servidor com Benefício Híbrido do Azure visão geral](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
-- [Planilha de Vendas](https://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
-- [Perguntas frequentes do parceiro para reservas do Azure](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
-- [Perguntas frequentes do parceiro para reservas do Azure e BD SQL](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [CAL (licença de acesso para cliente) do Serviços de Área de Trabalho Remota (RDS) (anúncio)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
-- [Instâncias de VM reservadas do Azure (portal do Azure)](/azure/virtual-machines/windows/prepay-reserved-vm-instances)
-- [Assinaturas de servidor](csp-software-subscriptions.md)
-- [Visão geral do BD SQL no Azure](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
-- [Reservas do BD SQL (portal do Azure)](/azure/sql-database/sql-database-reserved-capacity)
-- [Azure Cosmos DB (portal do Azure)](/azure/cosmos-db/cosmos-db-reserved-capacity)
-- [Instância Gerenciada do SQL (portal do Azure)](/azure/sql-database/sql-database-managed-instance)
-- [SUSE e Red Hat Enterprise Linux (portal do Azure)](/azure/virtual-machines/linux/prepay-suse-software-charges)
-- [Red Hat Linux no Azure](https://azure.com/redhat)
-- [SUSE Linux no Azure](https://azure.microsoft.com/overview/linux-on-azure/suse/)
-- [Linux no Azure](https://azure.microsoft.com/overview/linux-on-azure/)
-- [Visão geral de preços do Azure](https://azure.microsoft.com/pricing/)
-- [Calculadora de preços do Azure](https://azure.microsoft.com/pricing/calculator)
-- [Reservas de unidade de Azure Databricks](/azure/billing/billing-prepay-databricks-reserved-capacity)
-- Listas de preços do CSP: as listas de preços **Microsoft Azure instâncias reservadas** e **assinaturas de software** estão localizadas na página de [ofertas de preços](https://partner.microsoft.com/pcv/sales) do Partner Center &.
 
-### <a name="training"></a>Treinamento
+- [Instâncias de VM reservadas do Azure (portal do Azure)](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+
+- [Assinaturas de servidor](https://docs.microsoft.com/partner-center/csp-software-subscriptions)
+
+- [Reservas do BD SQL (portal do Azure)](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
+
+- [Azure Cosmos DB (portal do Azure)](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
+
+- [Instância Gerenciada do SQL (portal do Azure)](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
+
+- [SUSE e Red Hat Enterprise Linux (portal do Azure)](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
+
+- [Red Hat Linux no Azure](https://azure.com/redhat)
+
+- [SUSE Linux no Azure](https://azure.microsoft.com/overview/linux-on-azure/suse/)
+
+- [Linux no Azure](https://azure.microsoft.com/overview/linux-on-azure/)
+
+- [Visão geral de preços do Azure](https://azure.microsoft.com/pricing/)
+
+- [Calculadora de preços do Azure](https://azure.microsoft.com/pricing/calculator)
+
+- [Reservas de unidade de Azure Databricks](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
+
+
+## <a name="training"></a>Treinamento
 
 Registre-se para exibir os eventos de [webinars de prontidão de licenciamento comercial](https://commercial-licensing.eventbuilder.com/FY2019_ALL) e sob demanda.
-
-Os eventos de prontidão de licenciamento sob demanda incluem tópicos como:
+Eventos de preparação de licenciamento gravados anteriormente por demanda incluem tópicos como:
 
 - Serviços online do CSP, CSP Azure e atualizações gerais de licenciamento, incluindo o Azure (novembro de 2018)
+
 - Capacidade reservada do banco de BD SQL & flexibilidade de tamanho de instância (agosto de 2018)
+
 - Assinaturas de servidor no CSP (julho de 2018)
+
 - Visão geral das reservas do Azure no CSP (maio de 2018)
 
-Outros treinamentos úteis incluem o [módulo de licenciamento do Azure na Universidade do parceiro](https://aka.ms/azure_partner_licensing).
+## <a name="operations"></a>Operations
 
-### <a name="operations"></a>Operations
-
-- [Guia de operações do comércio moderno](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (atualizado): um guia abrangente que abrange a política de chave e os aspectos operacionais, como contratos, pedidos por meio do Partner Center, fatura, detalhes da lista de preços, incentivos, arquivo de reconciliação, API/SDK, sandbox e serviços compartilhados de parceiros do Azure.
-- [Matriz de Moeda do Cliente e Disponibilidade por País de Ofertas Modernas](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
-- [Vender Instâncias Reservadas do Microsoft Azure](azure-reservations.md)
-- [Comprar Reservas do Microsoft Azure em nome de seus clientes](azure-reservations-buying.md)
-- [Gerenciar reservas do Azure em nome dos seus clientes](azure-reservations-manage.md)
-- [Cobrança das reservas do Azure](azure-plan-billing.md)
-- [Dimensionamento da VM para uso máximo de reserva](azure-usage.md)
-- [API do Partner Center (API/SDK)](/partner-center/develop/purchase-azure-reserved-vm-instances)
-- [Serviços de área de trabalho remota](/windows-server/remote/remote-desktop-services/welcome-to-rds)
+[Novo guia de operações de comércio no centro de parceiros](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf): guia abrangente que abrange a política de chave e os aspectos operacionais, como contratos, pedidos por meio do Partner Center, nota fiscal, detalhes da lista de preços, incentivos, arquivo de reconciliação, API/SDK, sandbox e serviços compartilhados de parceiros do Azure.
 
 ## <a name="azure-hybrid-benefit"></a>Benefício Híbrido do Azure
 
-O [Benefício Híbrido do Azure](https://azure.microsoft.com/pricing/hybrid-benefit) ajuda você a obter mais valor de suas licenças do Windows Server e a economizar até *47% em máquinas virtuais. Use o benefício com as licenças do Windows Server Datacenter e da Edição Standard cobertas no Software Assurance. Dependendo da edição, você pode converter ou reutilizar suas licenças para executar máquinas virtuais do Windows Server no Azure e pagar uma taxa de computação base mais baixa (taxas de máquina virtual do Linux).
+O [benefício híbrido do Azure](https://azure.microsoft.com/pricing/hybrid-benefit) é um benefício de preço para clientes que têm licenças com o Software Assurance, o que ajuda a maximizar o valor do Windows Server local existente e/ou SQL Server investimentos de licença ao migrar para o Azure. Os clientes qualificados podem economizar até 40% * em máquinas virtuais do Azure (infraestrutura como serviço ou IaaS) e economizar até 55% no banco de dados SQL do Azure (plataforma como serviço ou PaaS) e SQL Server em máquinas virtuais do Azure (IaaS) com Benefício Híbrido do Azure, o que aumenta para até 80% quando combinado com instâncias reservadas do Azure.
 
-Consulte também [Perguntas frequentes sobre o Benefício Híbrido do Azure](https://azure.microsoft.com/pricing/hybrid-benefit/faq/)
+## <a name="next-steps"></a>Próximas etapas
+
+- [Perguntas frequentes sobre o Benefício Híbrido do Azure](https://azure.microsoft.com/pricing/hybrid-benefit/faq/)
 
 * A economia real pode variar com base na região, no tipo de instância ou no uso.

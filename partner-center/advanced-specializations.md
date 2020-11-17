@@ -1,7 +1,7 @@
 ---
 title: Ganhe especializações avançadas
 ms.topic: article
-ms.date: 10/15/2020
+ms.date: 11/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Fortaleça seu perfil de negócios no diretório de parceiros da Microsoft. Saiba como obter especializações avançadas junto com suas competências Gold e prata.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5dd5866a5ea9a87f0cd61cd863a6cd72ec070a10
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 3b655b5cbd9a8ae2cc907af3ab4da561650e8aa1
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198072"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691377"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise"></a>Ganhe uma especialização avançada para a experiência de demonstração
 
@@ -32,24 +32,25 @@ As especializações avançadas também permitem que você se diferencie aos cli
 Você pode ganhar especializações avançadas em duas áreas principais de conhecimento:
 
 - Azure
-- Local de trabalho moderno e segurança
+- Trabalho e segurança modernos
 
 As especializações avançadas **do Azure** incluem:
 
-- Windows Server e SQL Server migração para Microsoft Azure 
-- Área de trabalho virtual do Microsoft Windows
-- Migração de bancos de dados de software livre e Linux para Microsoft Azure
-- Kubernetes em Microsoft Azure
 - data warehouse migração para Microsoft Azure
-- SAP no Microsoft Azure
+- Kubernetes em Microsoft Azure
+- Migração de bancos de dados de software livre e Linux para Microsoft Azure
+- Área de trabalho virtual do Microsoft Windows
 - Modernização de aplicativos Web para Microsoft Azure
+- SAP no Microsoft Azure
+- Windows Server e SQL Server migração para Microsoft Azure
  
-O **local de trabalho moderno e** as especializações avançadas de segurança incluem:
+As especializações avançadas **de trabalho e segurança modernas** incluem:
 
-- Reuniões e salas de reunião do Microsoft Teams
 - Adoção e gerenciamento de alterações
-- Implantação em equipe
 - Chamando o Microsoft Teams
+- Reuniões e salas de reunião do Microsoft Teams
+- Implantação em equipe
+- Gerenciamento de Identidades e Acesso
 - Proteção contra Ameaças
  
 > [!NOTE]
@@ -79,12 +80,12 @@ Todas as especializações avançadas exigem que você tenha conquistado uma com
 
 Você precisa concluir uma auditoria com um auditor de terceiros para as seguintes especializações avançadas do Azure:
 
-- Windows Server e SQL Server migração para Microsoft Azure
-- Migração de banco de dados de software livre e Linux para Microsoft Azure
 - data warehouse migração para Microsoft Azure
 - Kubernetes em Microsoft Azure
-- Modernização de aplicativos Web para Microsoft Azure
+- Migração de banco de dados de software livre e Linux para Microsoft Azure
 - Área de trabalho virtual do Microsoft Windows
+- Modernização de aplicativos Web para Microsoft Azure
+- Windows Server e SQL Server migração para Microsoft Azure
 
 ### <a name="audit-example-in-partner-center"></a>Exemplo de auditoria no Partner Center
 
@@ -101,11 +102,13 @@ Depois de concluir todos os requisitos, seu status será alterado para **ativo**
 
 Você precisa de referências de clientes para as seguintes especializações avançadas:
 
-- SAP no Azure
+
 - Adoção e gerenciamento de alterações
-- Implantação em equipe
 - Chamando o Microsoft Teams
 - Reuniões e salas de reunião
+- SAP no Azure
+- Implantação em equipe
+- Gerenciamento de Identidades e Acesso
 - Proteção contra Ameaças
 
 ### <a name="customer-reference-example-in-partner-center"></a>Exemplo de referência de cliente no Partner Center
@@ -114,7 +117,7 @@ Um exemplo de Especialização avançada que exige referências de clientes é *
 
 Além de competência Gold, certificações e um requisito de desempenho, você deve fornecer três referências de clientes que demonstram sua capacidade de implantar e gerenciar.
 
-:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Exemplo de página de pré-requisitos mostrando os requisitos para ganhar uma competência de plataforma de nuvem Gold ativa.":::
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Página pré-requisitos de especializações avançadas de exemplo que requer referências de clientes.":::
 
 Até que você atenda a todos os pré-requisitos, seu status permanecerá **não iniciado.** Depois de concluir todos os requisitos, seu status será alterado para **ativo**. O status ativo habilita automaticamente uma marcação de Especialização avançada em seu **perfil de negócios**. Esse perfil é visível para todos os clientes que tentam [encontrar um provedor de soluções](https://www.microsoft.com/solution-providers/home).
 
