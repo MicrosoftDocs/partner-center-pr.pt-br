@@ -8,17 +8,19 @@ metadata:
   ms.topic: landing-page
   author: dsindona
   ms.author: dsindona
-  ms.date: 09/18/2020
-  ms.openlocfilehash: 5b460081359f1997eb433a69631708d7e116ce38
-  ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+  ms.date: 11/17/2020
+  ms.openlocfilehash: ef9904ec327b26285e04aa4acc4ae11bf1def7b6
+  ms.sourcegitcommit: 4fd1ff569e22e5e10ba9896b4e63eead7dcc5f1e
   ms.translationtype: HT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 09/19/2020
-  ms.locfileid: "91429228"
+  ms.lasthandoff: 11/18/2020
+  ms.locfileid: "94845247"
 landingContent:
-- title: Azure Marketplace Privado (versão prévia)
+- title: Azure Marketplace
   linkLists:
   - linkListType: get-started
     links:
-    - text: Criar e gerenciar o Azure Marketplace Privado
+    - text: Criar e gerenciar o Azure Marketplace Privado (versão prévia)
       url: create-manage-private-azure-marketplace.md
+    - text: Integrações de parceiros do Azure Marketplace
+      url: partner-integrations.md
