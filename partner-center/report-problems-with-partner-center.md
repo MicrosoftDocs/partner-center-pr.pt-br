@@ -1,20 +1,20 @@
 ---
 title: Relatar problemas com o Partner Center
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 11/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Saiba como relatar problemas com o Partner Center e como coletar informações de diagnóstico para a equipe de suporte do parceiro.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
+ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567059"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94983327"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Como relatar problemas com o Partner Center e enviar quaisquer informações de log ou diagnóstico
 
@@ -23,9 +23,7 @@ ms.locfileid: "94567059"
 - Partner Center
 - Partner Center do Microsoft Cloud for US Government
 
-Contate o suporte do Partner Center se você encontrar problemas ou precisar de ajuda com o Partner Center.
-
-**Funções de usuário**
+**Funções apropriadas**
 
 Todos os usuários registrados no Partner Center podem criar solicitações de suporte de parceiro. Os usuários só podem exibir as solicitações de suporte que foram enviadas após o logon no Partner Center.
 
@@ -58,6 +56,12 @@ Se o problema exigir uma conversa com o defensor do suporte, você poderá agend
 1. Quando você agenda um compromisso, o Partner Center envia a você um convite de calendário com informações sobre como o defensor do suporte entrará em contato com você, para que você possa acompanhar esse compromisso em seu próprio calendário de trabalho.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Data e Hora":::
+
+## <a name="hours-of-operation"></a>Horas de operação
+
+**Suporte a parceiros**
+
+:::image type="content" source="images/support/hoop.png" alt-text="Horas de suporte da operação":::
 
 ## <a name="send-diagnostics"></a>Enviar diagnóstico
 
