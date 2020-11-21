@@ -9,13 +9,13 @@ metadata:
   ms.topic: landing-page
   author: LauraBrenner
   ms.author: labrenne
-  ms.date: 10/16/2020
-  ms.openlocfilehash: a10616a60e74de88c2f4fda37062275e47fb59bc
-  ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+  ms.date: 11/19/2020
+  ms.openlocfilehash: 90f63b0411935c560ca4693cf372c3d2a3e1fafd
+  ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
   ms.translationtype: HT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "92198042"
+  ms.lasthandoff: 11/20/2020
+  ms.locfileid: "94983310"
 landingContent:
 - title: Introdução ao Partner Center
   linkLists:
@@ -85,22 +85,6 @@ landingContent:
       url: set-up-your-payout-account.md
     - text: Entenda sua fatura
       url: read-your-bill.md
-- title: Recursos para desenvolvedores
-  linkLists:
-  - linkListType: reference
-    links:
-    - text: Participe do programa de usuários pioneiros de API e SDK do Partner Center
-      url: /partner-center/develop/early-adopter-program
-    - text: Documentação do desenvolvedor do Partner Center
-      url: /partner-center/develop
-    - text: Referência da API REST do Partner Center
-      url: /partner-center/develop/partner-center-rest-api-reference
-    - text: Referência de API do .NET do Partner Center
-      url: /dotnet/api/?view=partnercenter-dotnet-latest&preserve-view=true
-    - text: SDK do Partner Center para Java
-      url: /java/partnercenter/overview
-    - text: PowerShell do Partner Center
-      url: /powershell/partnercenter/overview
 - title: Vender no marketplace comercial (ISVs)
   linkLists:
   - linkListType: concept
