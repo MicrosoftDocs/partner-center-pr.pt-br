@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 4af9e87ce02364f32f1aa41deb66d8935f657f40
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
+ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564726"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "95417244"
 ---
 # <a name="benefits-faq"></a>Perguntas frequentes sobre os benefícios
 
@@ -89,14 +89,14 @@ Você pode atribuir assinaturas a qualquer pessoa em sua lista de gerenciamento 
 
 2. Na barra de navegação à esquerda, selecione **MPN**.
 
-3. Selecione **benefícios**e, em seguida, selecione **Visual Studio**.
+3. Selecione **benefícios** e, em seguida, selecione **Visual Studio**.
 
 4. Atribua os usuários desejados às suas assinaturas existentes do Visual Studio disponíveis.
 
 Depois de atribuir a assinatura, o usuário precisa fazer logon no Visual Studio para gerenciá-la.
 
 >[!Note]
-> Um usuário atribuído a uma assinatura do Visual Studio no Partner Center não pode ser removido até 90 dias após a atribuição original.
+> As assinaturas do Visual Studio podem ser reatribuídas de um assinante para outro após 90 dias de atribuição original
 
 ## <a name="technical-benefits-and-support"></a>Benefícios técnicos e suporte
 
@@ -108,7 +108,7 @@ A instalação, ativação e outras ajuda relacionadas a produtos são fornecida
 
 2. Na barra de navegação à esquerda, selecione **MPN**.
 
-3. Selecione **benefícios**e, em seguida, selecione **benefícios técnicos**.
+3. Selecione **benefícios** e, em seguida, selecione **benefícios técnicos**.
 
 4. Use a seção de benefícios técnicos para ativar e receber uma ID de acesso/ID do contrato.
 

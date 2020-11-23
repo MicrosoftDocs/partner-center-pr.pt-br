@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9eb158163bb1a7ea5da0bc834e6bf7623f32a4dd
-ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
+ms.openlocfilehash: 61dab9f869d8bb9a26f1317fb1aec3013e915465
+ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "93363632"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "95417261"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Gerenciar oportunidades de venda conjunta no Partner Center
 
@@ -40,7 +40,7 @@ Aproveite as oportunidades de venda conjunta.  As oportunidades de venda conjunt
 **Avaliação de solução (SA)** – esses tipos de negócios podem ser criados somente por um conjunto de parceiros que são verificadosdos pela equipe de negócios de avaliações de solução para realizar avaliações de tecnologia para clientes que usam ou planejam usar tecnologias da Microsoft.
 
 > [!NOTE]
-> As negociações privadas, embora não sejam verdadeiramente colaborativas, estão incluídas aqui para fornecer um caminho fácil para atualizar qualquer pipeline de acordo com uma oportunidade de venda conjunta em qualquer estágio que não seja do terminal ( **venceu, perdido, recusado e expirado** ).
+> As negociações privadas, embora não sejam verdadeiramente colaborativas, estão incluídas aqui para fornecer um caminho fácil para atualizar qualquer pipeline de acordo com uma oportunidade de venda conjunta em qualquer estágio que não seja do terminal (**venceu, perdido, recusado e expirado**).
 
 ## <a name="navigating-the-co-sell-section"></a>Navegando na seção de venda conjunta
 
@@ -63,7 +63,7 @@ Você pode criar três tipos de oportunidades.
 
 Selecione o cliente para esse negócio específico. Insira seu local e comece a digitar o nome. A sugestão automática começará a mostrar as recomendações com base nos critérios de pesquisa. Como muitas empresas têm mais de uma entidade de negócios no mesmo local, você pode ver vários resultados. Se você não tiver certeza de qual escolher, poderá confirmar qual número D-U-N-S pertence ao cliente. Certifique-se de selecionar a correspondência exata para o cliente com o qual você está trabalhando.
 
-Depois de clicar em **selecionar o cliente** , você será solicitado a inserir o nome, o número de telefone e o endereço de email da pessoa que é seu principal ponto de contato para esse negócio. Esses detalhes são opcionais e são necessários apenas se você estiver planejando convidar as vendas da Microsoft para ajudá-lo com o envolvimento. Selecione **Avançar**.
+Depois de clicar em **selecionar o cliente**, você será solicitado a inserir o nome, o número de telefone e o endereço de email da pessoa que é seu principal ponto de contato para esse negócio. Esses detalhes são opcionais e são necessários apenas se você estiver planejando convidar as vendas da Microsoft para ajudá-lo com o envolvimento. Selecione **Avançar**.
 
 > [!IMPORTANT]
 > Certifique-se de ter obtido o consentimento do cliente para fornecer suas informações de contato à Microsoft para o negócio. A Microsoft pode usar essas informações para entrar em contato diretamente com o cliente.
@@ -100,14 +100,14 @@ Nesta seção, você precisa fornecer as informações relacionadas às soluçõ
 
 Depois de fornecer as informações da solução, selecione avançar para ir para a seção onde você pode decidir o tipo de venda. Você terá três opções se escolher soluções das três primeiras opções e não uma avaliação de solução:
 
-**Negócio particular** : se você não convidar a Microsoft e criar um envolvimento nesta etapa, ele será do tipo pipeline privado. Os vendedores da Microsoft não terão visibilidade dos detalhes desse negócio.
+**Negócio particular**: se você não convidar a Microsoft e criar um envolvimento nesta etapa, ele será do tipo pipeline privado. Os vendedores da Microsoft não terão visibilidade dos detalhes desse negócio.
 
 > [!Important]
 > O registro de negociações não é aplicável a negociações privadas. Tenha cuidado ao criar um negócio privado com soluções qualificadas para incentivos, pois elas não estarão qualificadas para o registro de negociações no Partner Center.
 
-**Co-vender o negócio:** Se você selecionar qualquer opção que não seja a seleção padrão para a pergunta **"identificar o tipo de ajuda que gostaria da Microsoft"** , o negócio se transformará em um negócio de venda, em que um vendedor da Microsoft pode ajudá-lo a fechar o negócio. Uma solicitação de ajuda da Microsoft não é garantia de que um vendedor da Microsoft participará do negócio. Os representantes de vendas da Microsoft têm 14 dias para decidir se desejam participar. Na seção observações, certifique-se de identificar o tipo de ajuda desejado.
+**Co-vender o negócio:** Se você selecionar qualquer opção que não seja a seleção padrão para a pergunta **"identificar o tipo de ajuda que gostaria da Microsoft"**, o negócio se transformará em um negócio de venda, em que um vendedor da Microsoft pode ajudá-lo a fechar o negócio. Uma solicitação de ajuda da Microsoft não é garantia de que um vendedor da Microsoft participará do negócio. Os representantes de vendas da Microsoft têm 14 dias para decidir se desejam participar. Na seção observações, certifique-se de identificar o tipo de ajuda desejado.
 
-**Acordo entre parceiros (P2P)** : você pode convidar outros parceiros para o negócio clicando no link convidar parceiro. Veja abaixo o processo de criação de um negócio P2P.
+**Acordo entre parceiros (P2P)**: você pode convidar outros parceiros para o negócio clicando no link convidar parceiro. Veja abaixo o processo de criação de um negócio P2P.
 
 - **Selecione um parceiro:** Depois de clicar em parceiro de convite, você poderá começar a digitar o nome do parceiro para obter uma lista sugerida de parceiros que correspondem ao nome que você está inserindo. Selecione o parceiro em que você está interessado para preencher detalhes adicionais para esse parceiro. Você só pode procurar parceiros que estejam no ecossistema de venda cofuncional da Microsoft e estejam transportando no Partner Center.
 
@@ -135,9 +135,9 @@ Neste estágio, se você tiver recebido uma nova oportunidade de venda conjunta 
 
 - **Aceitar:** Insira um nome para o negócio, edite o valor de acordo estimado e o período de compra estimado com base em sua análise. Depois de estabelecer o contato com o cliente, você deve fornecer informações no campo **observações** para explicar mais sobre o que o cliente está procurando. Opcionalmente, você pode inserir sua ID do CRM aqui (somente para sua referência), a ID da campanha de marketing que resultou na respectiva oportunidade e adicionar contatos de sua empresa que trabalhará nesse negócio.
 
-- Quando tiver terminado, selecione **Avançar**. Moveremos a referência para **o próximo estágio** , o que significa que você planeja envolver ativamente o cliente para atender às suas necessidades. Também usaremos essas informações para ajudá-lo a encontrar acordos semelhantes no futuro.
+- Quando tiver terminado, selecione **Avançar**. Moveremos a referência para **o próximo estágio**, o que significa que você planeja envolver ativamente o cliente para atender às suas necessidades. Também usaremos essas informações para ajudá-lo a encontrar acordos semelhantes no futuro.
 
-- **Recusar** : selecione o motivo pelo qual você está recusando o negócio e adicione as anotações que deseja incluir e, em seguida, selecione **fechar negócio**. Vamos arquivá-lo como **recusado** e notificar a Microsoft ou o parceiro que enviou essa oportunidade.
+- **Recusar**: selecione o motivo pelo qual você está recusando o negócio e adicione as anotações que deseja incluir e, em seguida, selecione **fechar negócio**. Vamos arquivá-lo como **recusado** e notificar a Microsoft ou o parceiro que enviou essa oportunidade.
 
 - Se você não responder dentro do tempo alocado (atualmente 14 dias), o Arquivaremos como **expirado** e notificaremos a Microsoft ou o parceiro que enviou essa oportunidade.
 
@@ -214,13 +214,7 @@ Este é o estágio final de todas as oportunidades. Você pode exibir todas as n
 
 Não, as negociações não podem ser modificadas quando se movem para um estado de terminal. Expirados, recusados, ganhos e perdidos são os Estados de terminal em que não há nenhuma atualização adicional possível ao negócio. Tenha cuidado ao mover o negócio para qualquer um desses Estados de terminal.
 
-**Lançado. Recebi uma nova notificação de referência, mas não consigo encontrá-la no Partner Center?**
-
-Isso pode acontecer se sua empresa tiver vários locatários associados à mesma conta do MPN. Vá para configurações de conta do Partner Center e verifique os locatários associados à conta. Em seguida, crie um tíquete de suporte solicitando a vinculação dos locatários. Forneça a ID de locatário na qual você fez logon no tíquete de suporte.
-
-:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Imagem mostrando as configurações de conta nas quais as informações de locatário podem ser encontradas.":::
-
-**3o. Quem recebe uma notificação por email do Partner Center?**
+**Lançado. Quem recebe uma notificação por email do Partner Center?**
 
 O fluxo de trabalho abaixo explica como os emails são enviados aos parceiros do sistema de referências do Partner Center para novas referências de entrada de parceiro.
 
