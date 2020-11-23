@@ -1,7 +1,7 @@
 ---
 title: Requisitos para obter as Competências Silver e Gold da Microsoft
 ms.topic: article
-ms.date: 10/15/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como ganhar o status de parceiro de elite da Microsoft e atrair novos clientes atendendo aos requisitos de competência para obter os níveis de associação Gold e Silver.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1392a4c4a0147af3ffe18564da08061cd10cbc06
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 51a0e1d1e726444597d99a55e8c62b6788549073
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100716"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691326"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Diferencie seus negócios obtendo competências da Microsoft
 
@@ -65,6 +65,10 @@ Para saber mais sobre o que é necessário para atingir os níveis de competênc
 
 - Saiba como demonstrar ainda mais sua experiência ao associar uma Competência Gold a uma ou mais [especializações avançadas](advanced-specializations.md).
 
-- Saiba mais sobre os [benefícios específicos do go-to-market](mpn-learn-about-go-to-market-benefits.md) incluídos nas competências.
+- Saiba mais sobre os [recursos específicos do go-to-market](mpn-learn-about-go-to-market-benefits.md) incluídos nas competências.
 
 - Saiba mais sobre [as faturas e os impostos das competências](mpn-view-print-maps-invoice.md).
+
+- Veja um [relatório de competências](pci-competencies-report.md) de Insights do Partner Center que mostra o status atual de suas competências.
+
+- Veja as respostas para [perguntas frequentes](competencies-faq.md) sobre competências.

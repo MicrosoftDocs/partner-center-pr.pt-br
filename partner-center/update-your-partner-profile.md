@@ -1,20 +1,20 @@
 ---
 title: Verifique o perfil do parceiro
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Saiba como verificar os detalhes da empresa, como contato principal, endereço e informações do programa. Você também pode atualizar seus endereços jurídico e para cobrança.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.localizationpriority: high
-ms.date: 07/10/2020
+ms.date: 11/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22696ba1a2ecde3374357ee8489f466b2b366098
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 9e2fbef36bcc4a191235570a0d1735bd755ad317
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490634"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94625990"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Verifique suas informações de perfil do parceiro no Partner Center
 
@@ -69,9 +69,17 @@ Para atualizar a ID do MPN associada à sua conta do CSP:
 
 ## <a name="update-your-billing-address"></a>Atualizar endereço de cobrança
 
-Se você for o administrador global, o administrador de cobrança ou o agente administrador, você poderá alterar o endereço que aparece na fatura em seu **Perfil de cobrança**. No entanto, você não pode alterar o nome da empresa na fatura devido a uma limitação do sistema de faturas.
+Se você for o administrador global, o administrador de cobrança ou o agente de administração, poderá atualizar:
 
- 
+- O endereço que aparece em sua fatura no **Perfil de cobrança**
+- O número da OC
+
+Você não pode alterar:
+ 
+- Nome da empresa
+- País
+- Data de cobrança
+ 
 ## <a name="next-steps"></a>Próximas etapas
 
 - [Gerenciar locais](manage-locations.md)

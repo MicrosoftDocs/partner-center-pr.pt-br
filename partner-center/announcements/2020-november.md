@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 9702bef0a2fa753e37cfe305bc766ea64f0d0b3f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 88d216f9e55b98f3c4818dd718c68f843c4098f0
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488093"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691292"
 ---
 # <a name="november-2020-announcements"></a>Comunicados de novembro de 2020
 
@@ -23,6 +23,128 @@ Esta página detalha os comunicados de novembro de 2020 sobre o Microsoft Partne
 Comunicados de 2020: [Abril](2020-april.md) | [Maio](2020-may.md) | [Junho](2020-june.md) | [Julho](2020-july.md) | [Agosto](2020-august.md) | [Setembro](2020-september.md) | [Outubro](2020-October.md) | Novembro
 
 ______________
+## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>Alteração da moeda de cobrança do parceiro da EU/EFTA para novas ofertas de comércio.  
+
+### <a name="categories"></a>Categorias
+- Data 2020-11-17
+- Funcionalidades
+
+### <a name="impacted-audience"></a>Público-alvo afetado  
+
+Parceiros que fazem transações pelo programa de Provedor de Soluções na Nuvem na região EU/EFTA 
+
+### <a name="summary"></a>Resumo 
+
+Na região EU (União Europeia)/EFTA (Associação Europeia de Livre Comércio), todas as novas ofertas de comércio no programa Provedor de Soluções na Nuvem usarão o local de cobrança do parceiro, em vez do local de cobrança do cliente. Isso significa que os parceiros serão cobrados pela Microsoft com base na moeda do local em que eles estão, não na moeda do local dos clientes. Isso será feito em duas fases: 
+
+- **Fase 1: novos clientes comprando uma nova oferta de comércio no CSP**
+
+A partir de janeiro de 2021, os parceiros cujos novos clientes comprarem novas ofertas de comércio serão cobrados por essas compras na moeda do local do parceiro. Parceiros com clientes existentes que já compraram novas ofertas de comércio no CSP continuarão sendo cobrados na moeda do local de cobrança do cliente durante essa fase. 
+
+ 
+
+- **Fase 2: clientes existentes que compraram uma nova oferta de comércio no CSP antes de janeiro de 2021** 
+
+Após a Fase 1 e durante o ano de 2021, a Microsoft fará a transição da cobrança de novas ofertas de comércio para parceiros com clientes existentes, que compraram uma nova oferta de comércio no CSP antes de janeiro de 2021. Essa transição será da moeda do local do cliente para a moeda do local do parceiro. Os parceiros serão notificados com antecedência antes que essa alteração seja implementada.  
+
+>[Observação] Essa alteração afetará apenas a moeda de cobrança do parceiro, e não o preço de novas ofertas de comércio no CSP. 
+
+As novas ofertas de comércio no escopo para essa alteração são: Assinaturas do Azure que fazem parte de um plano do Azure, reservas do Azure, assinaturas de servidor, software perpétuo e compras do marketplace comercial da Microsoft no programa do Provedor de Soluções na Nuvem.
+
+### <a name="partner-benefits"></a>Benefícios do parceiro  
+
+- Essa atualização reduzirá a complexidade e a sobrecarga com o faturamento em várias moedas na região EU/EFTA para a nova experiência de comércio.  
+
+- Os parceiros receberão uma fatura consolidada em uma moeda e não receberão mais uma fatura para cada moeda do local do cliente. 
+
+- Os pagamentos de incentivos estarão na mesma moeda que a moeda da fatura do parceiro.
+
+- Os parceiros perceberão que a cobrança ficou menos complexa devido ao faturamento em várias moedas; isso vai liberar tempo e recursos associados atualmente à reconciliação de contas. 
+
+- Para parceiros que ainda não adotaram novas ofertas de comércio, essa alteração se alinha com o modelo de cobrança de parceiro anterior, permitindo que os parceiros façam uma transição mais fácil para a nova experiência de comércio no CSP. 
+
+### <a name="resources"></a>Recursos 
+
+Examine as informações sobre esse tópico na [Galeria de Operações](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ no site de parceiros da Microsoft.  
+
+## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>Limitação de API para parceiros que chamam as APIs do Partner Center
+
+### <a name="categories"></a>Categorias
+
+- Data 2020-11-17
+- Capacidades
+
+### <a name="summary"></a>Resumo
+
+A Microsoft está introduzindo a limitação de API a parceiros que chamam APIs do Partner Center para oferecer um desempenho mais consistente dentro de um determinado período de tempo.
+
+### <a name="impacted-audience"></a>Público-alvo afetado
+
+Parceiros que fazem transações pelo programa de Provedor de Soluções na Nuvem
+
+### <a name="details"></a>Detalhes
+
+A Microsoft está implementando a limitação de API no primeiro trimestre de 2021 para possibilitar um desempenho mais consistente dentro de um período de tempo para parceiros que chamam as APIs do Partner Center. A limitação restringe o número de solicitações a um serviço dentro de um determinado período de tempo para evitar o uso excessivo de recursos. Quando um limite for excedido, o Partner Center limitará solicitações adicionais desse cliente durante um período de tempo.  
+
+### <a name="partner-benefits"></a>Benefícios do parceiro 
+
+O Partner Center foi criado para lidar com um alto volume de solicitações, mas se um número excessivo delas for realizado por alguns parceiros, a limitação ajudará a manter o desempenho ideal e a confiabilidade para todos os parceiros. Isso garante um tempo de inatividade mínimo. Reduzindo o alto volume de solicitações, podemos garantir um desempenho consistente para todos os parceiros. 
+
+
+### <a name="apis-to-be-throttled"></a>APIs a serem limitadas
+
+|**Operação**|**Documentação do Partner Center**|
+|-------------------------|----------------------------------|
+|{baseURL}/v1/customers/{ID_do_cliente}/subscriptions|[Obter as assinaturas de um cliente](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
+|{baseURL}/v1/customers/{ID_do_cliente}/subscriptions/{ID_da_assinatura}|[Obter uma assinatura por ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
+|{baseURL}/v1/customers/{ID_do_cliente}/orders||[Obter todos os pedidos de um cliente](https://docs.microsoft.com/artner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{ID_do_cliente}/orders/{ID_do_pedido}|[Obter uma ordem por ID](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/customers/{ID_do_cliente}/orders/{ID_do_pedido}/provisioningstatus|[Obter o status de provisionamento da assinatura](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/customers/{ID_do_cliente}/subscriptions/{ID_da_assinatura}|[Gerenciar pedidos e uma assinatura](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/customers/{ID_do_cliente}/subscriptions/{ID_da_assinatura}/addons|[Obter uma lista de complementos de uma assinatura](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/customers/{ID_do_cliente}/subscriptions/{ID_da_assinatura}/azureEntitlements|[Obter uma lista de direitos do Azure para uma assinatura](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/customers/{ID_do_cliente}/subscriptions/{ID_da_assinatura}/registrationstatus|[Obter o status de registro de assinatura](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/customers/{ID-do-locatário-do-cliente}/transfers|[Obter todas as transferências de um cliente](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{ID-da-atualização}/status|[Obter o status de atualização do produto](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/v1/customers/{ID-do-cliente}/subscriptions/{ID-da-assinatura}/conversions|[Obter uma lista de ofertas de conversão de avaliação](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+  
+
+O objetivo deste comunicado é fazer os parceiros conhecerem antecipadamente as alterações futuras, permitindo, assim, que eles se preparem. É altamente recomendável que os parceiros se familiarizem com essas APIs e considerem o uso da API do log de atividades para ter mais eficiência e evitar a limitação. Para obter mais informações sobre esse recurso, veja os detalhes em [Diretrizes de limitação de API](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance). 
+
+### <a name="next-steps"></a>Próximas etapas
+
+Examine as [Diretrizes de limitação de API](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance) e execute as etapas necessárias. 
+
+
+
+## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>409 erros devido a solicitações de MCA duplicadas
+
+### <a name="categories"></a>Categorias
+
+- Data 2020-11-16
+- Funcionalidades
+
+### <a name="context"></a>Contexto
+
+- Em fevereiro deste ano, foi solicitado que os parceiros assinassem o MCuA (Contrato de Cliente da Microsoft). Ele era uma migração do antigo MCA (Contrato do Microsoft Cloud). 
+- Como parte dessa mudança, foi solicitado que os parceiros incluíssem o parâmetro Type do contrato conforme documentado [aqui](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement).
+
+### <a name="what-happened-next"></a>O que aconteceu depois:
+
+- Nem todos os parceiros incluíram a solicitação de parâmetro na implementação. A Microsoft retornou o MCA a esses parceiros.
+- Em seguida, o parceiro reenviaria a solicitação de assinatura ao cliente e reenviaria o MCA à Microsoft. 
+- A duplicação afetou a capacidade da Microsoft de fornecer o serviço aos parceiros.
+- Em setembro de 2020, enviamos uma notificação aos parceiros, por meio do Yammer em vários fóruns, solicitando que eles corrigissem o parâmetro. A Microsoft não poderia mais aceitar as duplicatas e eles receberiam erros 409.
+
+>[Observação] Isso NÃO era um novo contrato/uma alteração de API para os parceiros.
+
+- Em outubro, trabalhamos em conjunto com os parceiros que tiveram a maioria das solicitações duplicadas a fim de corrigir o problema.
+- Atualmente, estamos lembrando os parceiros e enviando emails pessoais para os 10 principais infratores para que eles examinem as solicitações e entrem em contato conosco para podermos ajudá-los a testar e a resolver o problema.
+- Em 10 de novembro de 2020, paramos de aceitar duplicatas, e os parceiros que não tinham corrigido os parâmetros receberam erros 409.
+- Desde então, revertemos a alteração de não aceitar duplicatas. 
+- No entanto, em 14 de janeiro de 2021, não aceitaremos mais duplicatas. Isso permite que os parceiros tenham mais tempo para fazer os ajustes da parte deles. Já recebemos uma notificação de um parceiro de que ele planejava implantar uma atualização em 16/11, na qual trabalhamos em conjunto com ele.
+- Pedimos que os parceiros entrem em contato conosco para podermos ajudá-los a fazer o teste adicionando os locatários deles a um pacote de pré-lançamento com as alterações. Assim, eles poderão garantir que a atualização da solução deles funcione conforme o esperado.
+
 
 
 ## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Testes disponíveis: atualizações de API do Partner Center e aprimoramentos da IU (interface do usuário) para obter o processo de validação do cliente de Educação
