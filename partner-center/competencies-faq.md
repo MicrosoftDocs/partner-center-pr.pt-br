@@ -1,19 +1,19 @@
 ---
 title: Competências-perguntas frequentes
 ms.topic: article
-ms.date: 10/19/2020
+ms.date: 11/23/2020
 description: Respostas para perguntas sobre a obtenção de Microsoft Partner Network as competências Gold e Silver, a expiração do benefício, a renovação e a ativação de licenças para Azure, nuvem, Visual Studio e benefícios técnicos e de suporte
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: bdcb1db0dbeb96a5b732decc11691364ade36c13
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.openlocfilehash: 0a20b464c9784b0939ba404019cab007310ad4bd
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92755214"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812811"
 ---
 # <a name="competencies---frequently-asked-questions"></a>Competências-perguntas frequentes
 
@@ -44,17 +44,17 @@ Eles podem fazer isso no Partner Center, da seguinte maneira:
 
 1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
-1. Selecione **MPN** seguido pelas **competências** .
+1. Selecione **MPN** seguido pelas **competências**.
 
 1. Na parte superior da página competências, localize e selecione a opção **baixar relatório de habilidades** .
 
-Outros relatórios sobre as habilidades da sua organização também estão disponíveis na área de [informações do Partner Center](partner-center-insights.md) no Partner Center. Para exibir esses relatórios, talvez seja necessário atribuir uma função específica do insights ao Visualizador de **relatórios** ou ao **Visualizador de relatórios executivos** . Talvez seja necessário solicitar que o administrador do parceiro do MPN conceda acesso a uma dessas funções.
+Outros relatórios sobre as habilidades da sua organização também estão disponíveis na área de [informações do Partner Center](partner-center-insights.md) no Partner Center. Para exibir esses relatórios, talvez seja necessário atribuir uma função específica do insights ao Visualizador de **relatórios** ou ao **Visualizador de relatórios executivos**. Talvez seja necessário solicitar que o administrador do parceiro do MPN conceda acesso a uma dessas funções.
 
 Exiba os relatórios de informações da seguinte maneira:
 
 1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
-1. Selecione **insights** no menu do Partner Center, seguido por **habilidades da organização** . Um menu menor é exibido.
+1. Selecione **insights** no menu do Partner Center, seguido por **habilidades da organização**. Um menu menor é exibido.
 
 1. Selecione **treinamento** ou **Microsoft Learn** no menu.
 
@@ -64,7 +64,7 @@ Exiba os relatórios de informações da seguinte maneira:
 
 ## <a name="q-how-long-does-it-take-to-see-the-latest-user-assessments-in-the-partner-center-user-skills-report"></a>Q. Quanto tempo leva para ver as últimas avaliações de usuário no relatório de habilidades do usuário do Partner Center?
 
-A conta do Partner University será associada à conta de usuário do Partner Center. As avaliações do usuário serão exibidas no relatório habilidades do usuário do Partner Center dentro de **72 horas** .
+A conta do Partner University será associada à conta de usuário do Partner Center. As avaliações do usuário serão exibidas no relatório habilidades do usuário do Partner Center dentro de **72 horas**.
 
 Somente as habilidades relevantes para as competências e os programas no Partner Center serão exibidas neste relatório. (Algumas habilidades desativadas também podem aparecer por 12 meses ou mais após serem desativadas).
 
@@ -79,7 +79,7 @@ Consulte os seguintes recursos:
 
 - [Baixe](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) tabelas de licenças para parceiros de competência.
 
-- [Baixe](https://assetsprod.microsoft.com/MPN-MAPS-Software-IUR-License-Table.xlsx) a tabela de licenças para parceiros de assinatura do Microsoft Action Pack.
+- [Baixe](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf) a tabela de licenças para parceiros de assinatura do Microsoft Action Pack.
 
 ## <a name="q-how-do-i-link-a-microsoft-certification-profile-id-mcp-id-or-mcid-to-my-microsoft-partner-center-account"></a>Q. Como fazer vincular uma ID de perfil de certificação da Microsoft (ID MCP ou MCID) à minha conta do Microsoft Partner Center?
 
