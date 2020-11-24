@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.date: 09/28/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: 61730eec204674d7ad095d1fffcd997f65d135ea
-ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
+ms.openlocfilehash: e998ae248b5b09340cb4a7b57c8fbd77b59731d4
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "93189723"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514717"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Ser pago no marketplace comercial
 
@@ -35,9 +35,9 @@ Antes de ser pago pela primeira vez, você deve configurar sua conta de pagament
 
 Por padrão, enviamos os pagamentos mensalmente, conforme descrito acima. No entanto, você tem a opção de colocar seus pagamentos em um programa em espera, e a Microsoft não liberará seu pagamento para sua conta. Se você optar por colocar seus pagamentos em espera, continuaremos registrando quaisquer ganhos na página de **pagamentos** . No entanto, não enviaremos nenhum pagamento à sua conta até que você remova a espera.
 
-Para posicionar seus pagamentos em espera, selecione o ícone de engrenagem **configurações** na parte superior direita e, em seguida, **configurações do desenvolvedor** . Selecione **pagamento e imposto** no menu à esquerda e, na seção **atribuição de perfil de pagamento e imposto** , localize o programa para o qual deseja que os pagamentos sejam mantidos. Marque a caixa de seleção **manter meu pagamento** para manter os pagamentos deste programa. Você pode alterar o status de espera de pagamento a qualquer momento, mas sua decisão afetará o pagamento mensal seguinte. Por exemplo, se você quiser colocar o pagamento de abril em espera, defina o status de pagamento em espera para **Ativado** antes do final de março.
+Para posicionar seus pagamentos em espera, selecione o ícone de engrenagem **configurações** na parte superior direita e, em seguida, **configurações da conta**. Selecione **pagamento e imposto** no menu à esquerda e, na seção **atribuição de perfil de pagamento e imposto** , localize o programa para o qual deseja que os pagamentos sejam mantidos. Marque a caixa de seleção **manter meu pagamento** para manter os pagamentos deste programa. Você pode alterar o status de espera de pagamento a qualquer momento, mas sua decisão afetará o pagamento mensal seguinte. Por exemplo, se você quiser colocar o pagamento de abril em espera, defina o status de pagamento em espera para **Ativado** antes do final de março.
 
-Depois de definir seu status de espera de pagamento como **ativado** , todos os pagamentos desse programa ficarão em espera até que você desmarque a caixa de seleção para **desativado** . Ao fazer isso, você será incluído durante o próximo ciclo de pagamento mensal (desde que o limite de pagamentos tenha sido atingido). Se você tiver seus pagamentos em espera, mas quiser ter um pagamento gerado em junho, desmarque a caixa de seleção para **desativado** antes do final de maio.
+Depois de definir seu status de espera de pagamento como **ativado**, todos os pagamentos desse programa ficarão em espera até que você desmarque a caixa de seleção para **desativado**. Ao fazer isso, você será incluído durante o próximo ciclo de pagamento mensal (desde que o limite de pagamentos tenha sido atingido). Se você tiver seus pagamentos em espera, mas quiser ter um pagamento gerado em junho, desmarque a caixa de seleção para **desativado** antes do final de maio.
 
 >[!Note]
 > O status de retenção de pagamento se aplica a cada programa individualmente (Microsoft Store, publicidade, Azure Marketplace e assim por diante). Se você quiser manter pagamentos para todos os seus programas, mantenha o pagamento em cada programa individualmente.

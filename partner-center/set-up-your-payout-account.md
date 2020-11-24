@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488108"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514751"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurar sua conta de pagamento e formulários de imposto
 
@@ -44,7 +44,7 @@ Você pode preencher e enviar seus formulários de impostos eletronicamente no P
 > [!IMPORTANT]
 > Países e regiões diferentes têm requisitos de impostos diferentes. O valor exato que você deve pagar em impostos depende dos países e das regiões em que vende suas ofertas. Confira o [Contrato de fornecedor do Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560) para descobrir em quais países/regiões a Microsoft retém e usa impostos em seu nome. Em outros países/regiões, dependendo de onde você está registrado, talvez seja necessário pagar impostos sobre vendas e sobre o consumo de suas ofertas de venda diretamente para a autoridade tributária local. Além disso, os lucros sobre as vendas de aplicativos que você recebe podem ser tributáveis como renda. Recomendamos que você entre em contato com a autoridade pertinente do seu país ou sua região para ajudá-lo a determinar as informações de impostos incidentes sobre suas atividades de marketplace comercial.
 
-1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone **Configurações de conta** no canto superior direito e selecione **Configurações do desenvolvedor**.
+1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **configurações** no canto superior direito e, em seguida, **configurações de conta**.
 
 2. No menu de navegação à esquerda, selecione **Pagamento e imposto** e selecione **Atribuições de pagamento e imposto**.
 
@@ -81,8 +81,8 @@ Uma conta de pagamento é a conta bancária para onde enviamos os rendimentos de
 
 ### <a name="create-a-payment-profile"></a>Criar um perfil de pagamento
 
-1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **configurações** no canto superior direito e, em seguida, selecione **configurações de conta**.
-2. Embaixo do cabeçalho *Pagamento e imposto* , selecione **Atribuição de perfil de pagamento e imposto**.
+1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **configurações** no canto superior direito e, em seguida, **configurações de conta**.
+2. Embaixo do cabeçalho *Pagamento e imposto*, selecione **Atribuição de perfil de pagamento e imposto**.
 
     > [!NOTE]
     > Como essas informações são confidenciais, você pode ser solicitado a entrar novamente.
@@ -95,14 +95,14 @@ Uma conta de pagamento é a conta bancária para onde enviamos os rendimentos de
 
 Se optou por usar uma conta bancária para receber pagamentos, você concluirá o processo a seguir para configurar sua conta bancária.
 
-1. Na página *Perfil bancário* , forneça as informações necessárias sobre seu banco.
+1. Na página *Perfil bancário*, forneça as informações necessárias sobre seu banco.
 2. Forneça os detalhes da sua conta bancária.
 
     > [!NOTE]
     > Os campos que você usa para fornecer as informações da sua conta aceitam apenas caracteres alfanuméricos.
 
 3. Forneça os detalhes do beneficiário.
-4. De volta à página *Atribuição de perfil* , selecione a moeda que você gostaria de usar ao emitir seus pagamentos.
+4. De volta à página *Atribuição de perfil*, selecione a moeda que você gostaria de usar ao emitir seus pagamentos.
 
     > [!WARNING]
     > Verifique se seu banco aceita a moeda de pagamento que você selecionou.
@@ -124,9 +124,9 @@ Para ter certeza de que seu pagamento será bem-sucedido, verifique se:
 
 Você poderá editar os perfis de pagamento existentes se precisar fazer alterações ou corrigir informações incorretas.
 
-1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **Configurações** no canto superior direito e selecione **Configurações do desenvolvedor**.
+1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **configurações** no canto superior direito e, em seguida,  **configurações de conta**.
 
-2. Embaixo do cabeçalho *Pagamento e imposto* , selecione **Perfis de pagamento e imposto**.
+2. Embaixo do cabeçalho *Pagamento e imposto*, selecione **Perfis de pagamento e imposto**.
 
 3. Seus perfis de pagamento serão listados junto com o status. Localize o perfil que você deseja editar e clique em **Editar** à direita
 
@@ -192,14 +192,14 @@ A Microsoft fornece todos os três documentos na primeira tentativa de pagamento
 
 Se optou por usar uma conta bancária para receber pagamentos, você concluirá o processo a seguir para configurar sua conta bancária.
 
-1. Na página *PayPal* , forneça as informações necessárias sobre sua conta do PayPal.
+1. Na página *PayPal*, forneça as informações necessárias sobre sua conta do PayPal.
 2. Forneça os detalhes da sua conta do PayPal.
 
     > [!NOTE]
     > Os campos que você usa para fornecer as informações da sua conta aceitam apenas caracteres alfanuméricos.
 
 3. Forneça os detalhes do beneficiário.
-4. De volta à página *Atribuição de perfil* , selecione a moeda que você gostaria de usar ao emitir seus pagamentos.
+4. De volta à página *Atribuição de perfil*, selecione a moeda que você gostaria de usar ao emitir seus pagamentos.
 5. Você precisará selecionar um perfil de pagamento para cada programa do qual participa, mas pode usar o mesmo perfil em vários programas.
 6. Clique em Enviar para salvar as alterações.
 
