@@ -6,21 +6,51 @@ metadata:
   description: Descubra como encontrar e comprar soluções, aplicativos e serviços de parceiros da Microsoft em nossas lojas online.
   ms.service: marketplace
   ms.topic: landing-page
-  author: dsindona
-  ms.author: dsindona
+  author: JasonWHowell
+  ms.author: jasonh
   ms.date: 11/17/2020
-  ms.openlocfilehash: ef9904ec327b26285e04aa4acc4ae11bf1def7b6
-  ms.sourcegitcommit: 4fd1ff569e22e5e10ba9896b4e63eead7dcc5f1e
+  ms.openlocfilehash: 00d4786e234f9ede011032a71233fdafa6724ab8
+  ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
   ms.translationtype: HT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 11/18/2020
-  ms.locfileid: "94845247"
+  ms.lasthandoff: 11/21/2020
+  ms.locfileid: "95006915"
 landingContent:
+- title: Microsoft AppSource
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: O que é o Microsoft AppSource?
+      url: appsource-overview.md
+  - linkListType: get-started
+    links:
+    - text: Comprar software no Microsoft AppSource
+      url: purchase-software-appsource.md
 - title: Azure Marketplace
   linkLists:
-  - linkListType: get-started
+  - linkListType: overview
+    links:
+    - text: O que é o Azure Marketplace?
+      url: azure-marketplace-overview.md
+  - linkListType: concept
+    links:
+    - text: Cobrança e faturamento
+      url: billing-invoicing.md
+    - text: Qualificação para transferência de assinatura
+      url: transfer-eligibility.md
+    - text: Integrações de parceiros do Azure Marketplace
+      url: partner-integrations.md
+  - linkListType: how-to-guide
     links:
     - text: Criar e gerenciar o Azure Marketplace Privado (versão prévia)
       url: create-manage-private-azure-marketplace.md
-    - text: Integrações de parceiros do Azure Marketplace
-      url: partner-integrations.md
+- title: Cenários comuns
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: Políticas de reembolso
+      url: refund-policies.md
+    - text: Contratos legais
+      url: legal-contracts.md
+    - text: Obter suporte
+      url: get-support.md
