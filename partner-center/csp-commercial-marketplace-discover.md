@@ -9,14 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb7b4ffdb4edf75e3e121e4ddea6b9de191ddbbf
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e89473cf095be4cc87c96f1c2a6d0da224eccedd
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000410"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038839"
 ---
-# <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>Descubra ofertas e preços no Marketplace comercial do Partner Center
+# <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>Descubra ofertas e preços no Marketplace comercial do Partner Center
 
 **Aplica-se a**
 
@@ -32,7 +32,7 @@ Quando fornecedores independentes de software (ISVs) optam por publicar uma ofer
 
 Se uma oferta de ISV não aparecer conforme o esperado no Partner Center, talvez isso ocorra porque:
 
-- O ISV decidiu não vender a oferta por meio do programa CSP. Por exemplo, alguns produtos de ISV podem ter sido disponibilizados em outras áreas do Marketplace comercial (como no [Microsoft AppSource](https://appsource.microsoft.com/) e no [Azure Marketplace](https://azuremarketplace.microsoft.com/)), mas podem não aparecer para CSPs no Marketplace do Partner Center.
+- O ISV decidiu não vender a oferta por meio do programa CSP. Por exemplo, alguns produtos de ISV podem ter sido disponibilizados em outras áreas do Marketplace comercial (como no [Microsoft AppSource](https://appsource.microsoft.com/) e no [Azure Marketplace](https://azuremarketplace.microsoft.com/)), mas podem não aparecer para parceiros no programa CSP no Partner Center Marketplace.
 
 - O ISV decidiu tornar a oferta exclusiva para apenas um número selecionado de parceiros CSP. Para obter mais informações sobre ofertas exclusivas, consulte mais adiante neste tópico da ajuda.
 
@@ -42,7 +42,7 @@ Se uma oferta de ISV não aparecer conforme o esperado no Partner Center, talvez
 
 ## <a name="view-marketplace-offers-in-partner-center"></a>Exibir ofertas do Marketplace no Partner Center
 
-Para exibir as ofertas do Marketplace comercial disponíveis no programa CSP: 
+Para exibir as ofertas do Marketplace comercial disponíveis no programa CSP:
 
 1. Entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center e selecione **CSP** no menu de navegação à esquerda.
 
@@ -70,7 +70,7 @@ Para exibir as ofertas do Marketplace comercial disponíveis no programa CSP:
 
 ## <a name="view-marketplace-offers-via-partner-center-apis"></a>Exibir ofertas do Marketplace por meio de APIs do Partner Center
 
-Os parceiros do programa CSP também podem usar APIs para retornar uma lista de ofertas qualificadas. As ofertas qualificadas serão apenas aquelas disponíveis para o parceiro para venda por meio do Marketplace do Partner Center. Para parceiros que usam APIs para identificar ofertas no catálogo, consulte as diretrizes para [obter uma lista de ofertas para um mercado](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
+Os parceiros do programa CSP também podem usar APIs para retornar uma lista de ofertas qualificadas. As ofertas qualificadas serão apenas aquelas disponíveis para o parceiro para venda por meio do Partner Center Marketplace. Para parceiros que usam APIs para identificar ofertas no catálogo, consulte as diretrizes para [obter uma lista de ofertas para um mercado](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
 
 ## <a name="view-the-latest-marketplace-offer-pricing-in-partner-center"></a>Exibir os preços mais recentes da oferta do Marketplace no Partner Center
 
@@ -80,7 +80,7 @@ Siga estas etapas para obter os detalhes de preços mais recentes associados a u
 
 2. Selecione **vender**, seguido de **preços e ofertas**.
 
-3. Role para baixo até a seção **Marketplace** , selecione um local e baixe os **preços do Marketplace**. Isso gera uma planilha com os dados de preços mais recentes para SaaS e ofertas baseadas em licença disponíveis em editores ISV. Alguns preços de aplicativo do Azure também podem aparecer aqui. Essas informações são atualizadas diariamente, para que você possa verificá-las em relação aos preços atuais com a frequência que escolher.
+3. Role para baixo até a seção **Marketplace** , selecione um local e baixe os **preços do Marketplace**. Isso gera uma planilha com os dados de preços mais recentes para SaaS, ofertas baseadas em licença e ofertas limitadas disponíveis em editores de ISV. Alguns preços de aplicativo do Azure também podem aparecer aqui. Essas informações são atualizadas diariamente, para que você possa verificá-las em relação aos preços atuais com a frequência que escolher.
 
 4. Se um produto ISV incluir um período de avaliação gratuita, a planilha exibirá duas linhas para esse produto:
 

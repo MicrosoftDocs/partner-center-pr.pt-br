@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 8c3cfc2a6576029a8fdfb902a7b3889b4ea6c628
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 85a40974557817825d58246c2c010c7cf8a6a5e1
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000520"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038873"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Criar, suspender ou cancelar assinaturas de clientes
 
@@ -36,21 +36,21 @@ Depois de criar um registro de seu cliente no Partner Center, você pode vender 
 
 Algumas ofertas são limitadas a uma assinatura por cliente. Para ver uma lista das ofertas restritas, visite a página Ofertas e Preços do Partner Center.
 
-> [!IMPORTANT]
-> Como um parceiro no programa CSP, você só pode comprar assinaturas SaaS **baseadas em licença** de editores ISV no Partner Center. Isso significa que você pode comprar qualquer oferta de SaaS **baseada em licença** que o editor ISV disponibilizou para você, incluindo [ofertas exclusivas](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) às quais você tem acesso. Para comprar ou gerenciar outras ofertas de Marketplace comercial de ISVs (como ofertas baseadas em **uso**, limitadas ou de consumo que envolvem aplicativos, contêineres ou VMS do Azure), você deve ir para o [portal de gerenciamento do Azure](https://portal.azure.com/). Para obter mais informações, consulte [comprar produtos comerciais do Marketplace](csp-commercial-marketplace-purchase.md).
+>[!IMPORTANT]
+> Como um parceiro no programa CSP, você pode comprar assinaturas SaaS **limitadas** ou **baseadas em licença** de editores ISV no Partner Center. Isso significa que você pode comprar qualquer oferta de SaaS **limitada** ou **baseada em licença** que o editor ISV tenha disponibilizado para você, incluindo [ofertas exclusivas](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) às quais você tem acesso. Para comprar ou gerenciar outras ofertas de Marketplace comercial de ISVs (como ofertas baseadas em uso que envolvem aplicativos, contêineres ou VMs do Azure), você deve ir para a [portal do Azure](https://portal.azure.com/).
 
 ## <a name="create-a-new-subscription"></a>Criar uma nova assinatura
 
 1. Entre no painel [Partner Center](https://partner.microsoft.com/dashboard).
 
-2. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
+2. No menu do centro de parceiros, **selecione** clientes e, em seguida, escolha um cliente na lista.
 
 3. Selecione **Adicionar assinatura**. A guia **serviços online** mostrará todas as ofertas de SaaS do Marketplace disponíveis.
 
 4. Para ver apenas determinados tipos de assinaturas, faça seleções nos filtros disponíveis:
    - **Publicador**: escolha a **Microsoft** para ver apenas as ofertas da Microsoft ou o **parceiro** para ver os produtos do Marketplace comercial publicados por ISVs.
    - **Tipo de cobrança**: selecione o tipo de cobrança de assinatura que você deseja usar: **licença** ou **uso**. Consulte [cobrança baseada em licença](license-based-billing.md) para obter informações que o ajudarão a decidir entre a frequência de cobrança mensal e anual.
-   - **Categoria**: escolha **Enterprise**, **Small Business**ou **Trial**. Para obter informações sobre assinaturas de avaliação, consulte [oferecer a seus clientes avaliações de produtos da Microsoft](offer-your-customers-trials-of-microsoft-products.md).
+   - **Categoria**: escolha **Enterprise**, **Small Business** ou **Trial**. Para obter informações sobre assinaturas de avaliação, consulte [oferecer a seus clientes avaliações de produtos da Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
 5. Selecione as assinaturas de produto que você deseja comprar para o cliente. Os produtos que você vê dependem do tipo de segmento de cliente (educação, governo, etc.) e dos filtros que você aplicou. Algumas ofertas mostradas no Marketplace talvez nem sempre estejam disponíveis para um cliente específico ou um parceiro CSP específico. Isso pode ocorrer porque:
 
@@ -70,7 +70,7 @@ Algumas ofertas são limitadas a uma assinatura por cliente. Para ver uma lista 
 
     - Você pode revisar ou editar a assinatura selecionando o nome da assinatura na página de **assinaturas** do cliente. A partir daqui, você pode selecionar licenças de complemento, se houver alguma disponível, alterar a quantidade de licenças ou suspender a assinatura.
 
-    **Para assinaturas do SaaS do ISV (baseadas em licença):**
+    **Para assinaturas SaaS do ISV (baseadas em licença e limitadas):**
     - Você receberá um link para o site do fornecedor ISV. Esse link deve ajudá-lo a concluir a configuração de implantação ou conta da assinatura do cliente.
       
     >[!NOTE]
@@ -84,7 +84,7 @@ Para comprar um complemento, o cliente precisará primeiro ter uma assinatura ba
 
 1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
-2. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
+2. No menu do centro de parceiros, **selecione** clientes e, em seguida, escolha um cliente na lista.
 
 3. Escolha a assinatura que deseja gerenciar.
 
@@ -108,7 +108,7 @@ Quando você alterar o status de uma assinatura para **Suspensa**, os usuários 
 
 1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
-2. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
+2. No menu do centro de parceiros, **selecione** clientes e, em seguida, escolha um cliente na lista.
 
 3. Escolha a assinatura que deseja gerenciar.
 
@@ -143,7 +143,7 @@ Para cancelar uma assinatura de SaaS baseada em licença de um publicador ISV, f
 
 1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
-2. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
+2. No menu do centro de parceiros, **selecione** clientes e, em seguida, escolha um cliente na lista.
 
 3. Localize a assinatura que você deseja cancelar.
 
@@ -164,7 +164,7 @@ Para interromper uma assinatura do Marketplace comercial ativa de renovar automa
 
 1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
-2. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
+2. No menu do centro de parceiros, **selecione** clientes e, em seguida, escolha um cliente na lista.
 
 3. Selecione **Assinaturas**. Isso lista todas as assinaturas baseadas em licença que você comprou para o cliente.
 

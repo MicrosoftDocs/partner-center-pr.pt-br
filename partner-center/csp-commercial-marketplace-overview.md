@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66fc51901e6c6e72698eaf4a669627b228ee63ba
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c8d64167261fe9f425a1430ac0c109b446b50913
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000400"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038822"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Visão geral do marketplace comercial no Partner Center
 
@@ -68,7 +68,7 @@ Acesse [noções básicas de cobrança](billing-basics.md) para saber mais sobre
 
 Para saber onde concluir uma atividade específica do Marketplace para ofertas de ISV baseadas em licença ou em uso, consulte as tabelas a seguir.
 
-|**Para ofertas de SaaS baseadas em licença de ISVs**  |**Uso**  |
+|**Para ofertas de SaaS limitadas ou baseadas em licença de ISVs**  |**Uso**  |
 |:------------------------------------|:------------------|
 |Para descobrir ou Pesquisar ofertas disponíveis  | Painel do Partner Center ou APIs do Partner Center  |
 |Para comprar uma oferta  | Painel do Partner Center ou APIs do Partner Center  |
