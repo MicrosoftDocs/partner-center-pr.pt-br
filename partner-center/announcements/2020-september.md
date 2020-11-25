@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: 1020adc0b2410435b31726fcc8a44342064bc4e8
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: ee876a479834b3538d2c0f8cf447a07fa2a59394
+ms.sourcegitcommit: 13d8e977f48448a7018747b39ec6eb3eeae123bc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031549"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "94878793"
 ---
 # <a name="september-2020-announcements"></a>Comunicados de setembro de 2020
 
@@ -36,7 +36,7 @@ Todos os parceiros do CSP (Provedor de Soluções na Nuvem) que negociam ofertas
 
 ### <a name="details"></a>Detalhes
 
-Hoje, os parceiros podem usar o Partner Center ou o Centro de Administração do Microsoft 365 para obter o cumprimento de chave de licença e download de software para pedidos de software do CSP. A partir de **19 de janeiro de 2021** , a capacidade de cumprimento de softwares e chaves de licença do Partner Center será desativada e os parceiros usarão o **Centro de Administração do Microsoft 365** exclusivamente para essa finalidade. A página Software do Cliente do Partner Center conterá um "link profundo" para o Centro de Administração do Microsoft 365, onde será possível obter licenças do cliente e downloads de software. Isso ajudará a garantir uma experiência mais segura e eficiente para os clientes.
+Hoje, os parceiros podem usar o Partner Center ou o Centro de Administração do Microsoft 365 para obter o cumprimento de chave de licença e download de software para pedidos de software do CSP. A partir de **19 de janeiro de 2021**, a capacidade de cumprimento de softwares e chaves de licença do Partner Center será desativada e os parceiros usarão o **Centro de Administração do Microsoft 365** exclusivamente para essa finalidade. A página Software do Cliente do Partner Center conterá um "link profundo" para o Centro de Administração do Microsoft 365, onde será possível obter licenças do cliente e downloads de software. Isso ajudará a garantir uma experiência mais segura e eficiente para os clientes.
 
 As chaves de licença de software e os links de download são ativos de propriedade intelectual valiosos e muito procurados. Caso sejam vazados, poderão esgotar rapidamente os limites de ativação e causar uma experiência negativa para clientes e parceiros. Portanto, é essencial que os parceiros usem a tecnologia mais segura e as práticas recomendadas para ajudar a proteger esses ativos valiosos, bem como os clientes.
 
@@ -46,7 +46,7 @@ O Centro de Administração do Microsoft 365 aprimora a entrega segura de softwa
 
 ### <a name="next-steps"></a>Próximas etapas
 
-- Saiba mais sobre o software do Centro de Administração do Microsoft 365 examinando a [visão geral](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), as [tarefas comuns](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide) e os [recursos de cumprimento de chaves de licença](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+- Saiba mais sobre o software do Centro de Administração do Microsoft 365 examinando a [visão geral](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), as [tarefas comuns](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true) e os [recursos de cumprimento de chaves de licença](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
 
 - Compartilhe essa atualização com equipes relevantes em sua organização.
 
@@ -226,7 +226,7 @@ As alterações de IVA introduzidas pela Lei Federal Russa nº 265-FZ serão imp
 
 ### <a name="details"></a>Detalhes
 
-A Lei Federal Russa nº 265-FZ de 31 de julho de 2020 modificou a subseção 26 da seção 2 do artigo 149 do Código de Imposto Russo. De acordo com as alterações, a partir de 1º de janeiro de 2021, a concessão de direitos exclusivos de IP para softwares e bancos de dados eletrônicos na Rússia **não estarão incluídos** no registro unificado de softwares e bancos de dados eletrônicos **russos** , bem como a concessão de direitos de uso desses softwares e bancos de dados (incluindo atualizações e upgrades), além disso, a concessão de acesso remoto a eles via Internet **não será mais isenta de IVA** . 
+A Lei Federal Russa nº 265-FZ de 31 de julho de 2020 modificou a subseção 26 da seção 2 do artigo 149 do Código de Imposto Russo. De acordo com as alterações, a partir de 1º de janeiro de 2021, a concessão de direitos exclusivos de IP para softwares e bancos de dados eletrônicos na Rússia **não estarão incluídos** no registro unificado de softwares e bancos de dados eletrônicos **russos**, bem como a concessão de direitos de uso desses softwares e bancos de dados (incluindo atualizações e upgrades), além disso, a concessão de acesso remoto a eles via Internet **não será mais isenta de IVA**. 
 
 **Informamos que após as alterações acima, o IVA na taxa definida pelas leis aplicáveis será adicionado por MIOL a todos os produtos não tangíveis da Microsoft na Rússia.**
 
@@ -254,7 +254,7 @@ Todas as organizações parceiras no Microsoft Partner Network.
 
 ### <a name="summary"></a>Resumo 
 
-Os Insights do Partner Center substituirão em breve a ferramenta de emissão de relatórios **MyInsights** . Os Insights do Partner Center oferecem elementos visuais avançados, recursos de relatórios mais informativos e KPIs que abrangem os clientes, as assinaturas, o uso de licenças, o desempenho do revendedor, os treinamentos, as competências e os benefícios. Use esses insights inteligentes para entender seus negócios com a Microsoft de maneira clara e tomar decisões orientadas por dados com confiança. Para começar, selecione **Insights** no menu de navegação esquerdo do Partner Center.
+Os Insights do Partner Center substituirão em breve a ferramenta de emissão de relatórios **MyInsights**. Os Insights do Partner Center oferecem elementos visuais avançados, recursos de relatórios mais informativos e KPIs que abrangem os clientes, as assinaturas, o uso de licenças, o desempenho do revendedor, os treinamentos, as competências e os benefícios. Use esses insights inteligentes para entender seus negócios com a Microsoft de maneira clara e tomar decisões orientadas por dados com confiança. Para começar, selecione **Insights** no menu de navegação esquerdo do Partner Center.
 
 A opção **MyInsights** não estará mais disponível após 30 de setembro de 2020. 
 
@@ -291,7 +291,7 @@ Parceiros do programa CSP Direct Bill Partner e fornecedores do programa CSP Ind
 
 ### <a name="summary"></a>Resumo
 
-Desde 22 de setembro de 2020, os Parceiros podem baixar a versão do SDK do .NET Standard e do SDK do .NET v1.16.2 no Partner Center da Microsoft, juntamente com **amostras públicas atualizadas do GitHub do SDK do Partner Center** .
+Desde 22 de setembro de 2020, os Parceiros podem baixar a versão do SDK do .NET Standard e do SDK do .NET v1.16.2 no Partner Center da Microsoft, juntamente com **amostras públicas atualizadas do GitHub do SDK do Partner Center**.
 
 ### <a name="details"></a>Detalhes
 
@@ -337,7 +337,7 @@ O SQL do Azure no Edge, que leva o mecanismo de dados do Microsoft SQL mais segu
 ### <a name="details"></a>Detalhes
 
 Hoje, estamos comunicando a disponibilidade do SQL do Azure no Edge, um mecanismo de dados em tempo real otimizado para cargas de trabalho de IoT. Criado com base no mesmo mecanismo que aciona o SQL Server e o SQL do Azure, essa solução em contêiner fornece a mesma segurança líder do setor, além de uma experiência familiar para os desenvolvedores e ferramentas que muitas equipes já conhecem e confiam.
-O SQL do Azure no Edge está disponível para compra por CSPs (Provedores de Soluções na Nuvem) desde **quinta-feira, 24 de setembro** .
+O SQL do Azure no Edge está disponível para compra por CSPs (Provedores de Soluções na Nuvem) desde **quinta-feira, 24 de setembro**.
 
 O [SQL do Azure no Edge](https://aka.ms/sqledge) é um contêiner de pouco volume que habilita o streaming, o armazenamento e a análise de dados para obter insight em tempo real. Implante servidores, gateways e dispositivos de borda em ambientes conectados, desconectados ou híbridos.
 
@@ -496,7 +496,7 @@ Temos o prazer de anunciar que, a partir de 1º de outubro de 2020, estarão dis
   
 Os Serviços de Conteúdo Inteligente usam a IA avançada para automatizar a captura, a marcação e o gerenciamento de conteúdo. Eles se baseiam no SharePoint para processamento de conteúdo de alto volume, extraindo os metadados para automação de processos e segurança e conformidade refinadas. Os serviços de conteúdo inteligente aprimoram as experiências de curadoria de conhecimento e descoberta ao promover conteúdos mais detalhados e precisos em sua rede de conhecimento. Os novos SKUs dos Serviços de Conteúdo Inteligente estarão disponíveis na **lista de preços de 1º de outubro** (e na versão prévia da lista de preços de 1º de setembro). 
  
-**Observação** : Serviços de Conteúdo Inteligente é um nome de espaço reservado para este produto, que provavelmente será renomeado após 1º de outubro de 2020.
+**Observação**: Serviços de Conteúdo Inteligente é um nome de espaço reservado para este produto, que provavelmente será renomeado após 1º de outubro de 2020.
  
 **Conectores do Microsoft Graph para a Pesquisa da Microsoft** Os conectores do Microsoft Graph permitem que os clientes indexem itens em repositórios externos para inclusão nos resultados da Pesquisa da Microsoft. 
 
@@ -554,7 +554,7 @@ Adicionamos aprimoramentos ao Partner Incentives para melhorar sua experiência 
 - Compartilhe essas informações com outras pessoas da sua organização. 
 - Use a nova experiência de suporte por meio do [Partner Center](https://aka.ms/IncentivesSupport) ou do [Microsoft Partner Network](https://partner.microsoft.com/support/?stage=1) para todos os seus requisitos de suporte do Incentives. 
 
-**Observação** : as solicitações de suporte não serão aceitas por email direto, pois essa função foi desativada.
+**Observação**: as solicitações de suporte não serão aceitas por email direto, pois essa função foi desativada.
 
 ________________
 

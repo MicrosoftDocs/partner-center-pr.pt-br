@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: e469f3a99a07715ebadf3b6bcca7b1cf1db46c44
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: f3503e4edf9b5e9081eb53b80a32f451db861a70
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031799"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947674"
 ---
 # <a name="august-2020-announcements"></a>Comunicados de agosto de 2020
 
@@ -167,8 +167,6 @@ O novo complemento Comunicações Avançadas para o Microsoft Teams já está di
 
 Liberado no lançamento
 - Limites de eventos ao vivo a 20 mil participantes (50 simultâneos, 16 horas)
-- Integração de gravação de conformidade (ISV) 
-- Integração da solução de Central de Contato (ISV) 
 
 Lançado posteriormente no ano civil de 2020
 - Reunião interativa do Teams com mil pessoas 

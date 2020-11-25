@@ -1,7 +1,7 @@
 ---
 title: Comprar ou renovar as ofertas do Microsoft Action Pack
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como comprar uma assinatura do Microsoft Action Pack e começar a usar os benefícios dele. Além disso, saiba como renovar, cancelar, exibir sua fatura e muito mais.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73827cdbf49535d9594fa4951d2abd56bf00a96a
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 658524b9f916d929fc7e07701ca339d64de95fca
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998379"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812846"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Comprar ou renovar uma assinatura do Microsoft Action Pack ou as competências silver e gold
 
@@ -52,7 +52,7 @@ Torne-se um [parceiro de competência](https://partner.microsoft.com/membership/
 ### <a name="check-your-renewal-eligibility"></a>Verificar sua qualificação para renovação
 
 >[!IMPORTANT]
->Se você for convidado a renovar sua assinatura no Partner Center, observe que mudamos nossa política de janela de renovação, e você só poderá renovar sua assinatura depois que ela expirar. Por exemplo, se sua assinatura expira em 22 de junho, você pode renová-la a partir de 23 de junho e por 30 dias depois disso.       
+>Se você for convidado a renovar sua assinatura no Partner Center, observe que mudamos nossa política de janela de renovação, e você só poderá renovar sua assinatura depois que ela expirar. Por exemplo, se sua assinatura expira em 22 de junho, você pode renová-la a partir de 23 de junho e por 30 dias depois disso.
 >Você pode encontrar a data de validade da assinatura na página [**Ofertas de associação**](https://partnercenter.microsoft.com/pcv/partnership/offers) (é necessário entrar). Quando você estiver qualificado para a renovação no Partner Center, siga as etapas abaixo.  
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Para renovar uma assinatura do Microsoft Action Pack no Partner Center
@@ -64,13 +64,13 @@ Torne-se um [parceiro de competência](https://partner.microsoft.com/membership/
     >[!NOTE]
     >Se **Renovar assinatura** não for exibido ou estiver esmaecido, isso indicará que você ainda não está qualificado para renovar sua assinatura do Action Pack. Mudamos nossa política de janela de renovação, e você só poderá renovar sua assinatura depois que ela expirar. Por exemplo, se sua assinatura expira em 22 de junho, você pode renová-la a partir de 23 de junho e por 30 dias depois disso.  
 
-3. Se pagar com cartão de crédito, siga as instruções para adicionar as informações sobre o seu cartão de crédito. Se o pagamento for feito por transferência bancária eletrônica, forneça nome de contato, número de telefone, endereço de email e então selecione **Enviar**. 
-     
+3. Se pagar com cartão de crédito, siga as instruções para adicionar as informações sobre o seu cartão de crédito. Se o pagamento for feito por transferência bancária eletrônica, forneça nome de contato, número de telefone, endereço de email e então selecione **Enviar**.
+
 4. Examine os detalhes de seu pedido e selecione **Comprar** quando estiver pronto para comprar o Action Pack. Seu cartão de crédito será cobrado imediatamente.
 
 5. Sua ordem foi confirmada. Selecione **Fechar**.
 
-Sua assinatura do Action Pack será renovada automaticamente todos os anos nesta data. Você pode desativar a renovação automática a qualquer momento na lista de ofertas **Compradas**. No entanto, você não poderá ativar a renovação automática de assinatura novamente até que renove sua assinatura novamente. 
+Sua assinatura do Action Pack será renovada automaticamente todos os anos nesta data.
 
 ### <a name="update-your-bill-to-address"></a>Atualizar o endereço para cobrança
 
@@ -79,16 +79,6 @@ No processo de renovação ou compra do Action Pack, você tem a oportunidade de
  1. Depois de selecionar **Enviar**, examine os detalhes da sua compra. Selecione **Atualizar** se perceber que seu endereço precisa ser atualizado.
   
  1. Na página **Perfil de parceiro**, atualize seu endereço.
-
-## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Desativar a renovação automática da assinatura do Action Pack
-
-1. Vá para a página [**Ofertas de associação**](https://partnercenter.microsoft.com/pcv/partnership/offers).  Selecione **Assinatura do Microsoft Action Pack** para exibir os detalhes de sua assinatura. 
-
-2. Selecione **Desativar a renovação automática** se não quiser que sua assinatura do Action Pack seja renovada automaticamente a cada ano. 
-
-    >[!NOTE]
-    >Se você desativar a renovação automática da assinatura, não poderá ativá-la novamente até que você renove a assinatura. Enviaremos um lembrete para que você renove sua assinatura antes que ela expire.
-
 
 ## <a name="cancel-your-action-pack-subscription"></a>Cancelar sua assinatura do Action Pack
 
