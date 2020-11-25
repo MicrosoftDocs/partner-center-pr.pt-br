@@ -1,7 +1,7 @@
 ---
 title: Gerenciar locais na sua conta de parceiro
-ms.topic: article
-ms.date: 10/12/2020
+ms.topic: how-to
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como adicionar um novo local e como a ID do MPN do local é usada em programas de incentivo, negócios do CSP, assinaturas e outras transações.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6b0fc84636befedbc51aa0672ce19110eb4d9aa
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100766"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514785"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Gerenciar os locais de sua conta do MPN e adicionar um novo local
 
@@ -58,9 +58,9 @@ Fornecer detalhes legais da empresa, incluindo o nome jurídico da empresa, o en
 
 1. Entre usando a conta do MPN no Partner Center. A conta MPN deve ter privilégios de administrador global ou de administrador de conta. 
 
-1. No **ícone Configuração**, selecione as **Configurações do parceiro**.
+1. No **ícone Configuração**, selecione as **Configurações da organização**.
 
-2. Selecione **Locais.**
+2. Selecione **Jurídico** e **Locais.**
 
 3. Selecione **Adicionar um local** e insira os detalhes do endereço do local que você deseja adicionar à sua empresa, bem como um contato principal para o local.
 
@@ -69,18 +69,15 @@ Fornecer detalhes legais da empresa, incluindo o nome jurídico da empresa, o en
 
 ## <a name="change-global-partner-account-location"></a>Alterar o local da Conta de parceiro global
 
-1. Na página **[Locais](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)** , confira a lista de locais para verificar se o local que você deseja como pessoa jurídica está listado. Se não estiver, adicione-o.
+1. Em **[Local da empresa](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)** , confira a lista de locais para garantir que o local que você quer como pessoa jurídica esteja listado. Se não estiver, adicione-o.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Estrutura dos locais do MPN":::
+   :::image type="content" source="images/accountsettings/location1.png" alt-text="Captura de tela da página Locais da Conta do Partner Center com a lista de todos os locais atuais.":::
 
-2. Selecione **Perfil do parceiro** e, em seguida, **Atualizar perfil de negócios jurídico**
-
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Estrutura dos locais do MPN":::
-
+2. Selecione **Jurídico** e depois **Atualizar perfil de negócios jurídico**
+  
 3. Selecione a região e a pessoa jurídica e **Envie-a**.
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Estrutura dos locais do MPN":::
-
+  
 ## <a name="next-steps"></a>Próximas etapas
 
 - Saiba mais sobre o [processo de verificação](verification-responses.md).
