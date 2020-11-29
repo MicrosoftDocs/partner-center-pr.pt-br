@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 88d216f9e55b98f3c4818dd718c68f843c4098f0
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691292"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514734"
 ---
 # <a name="november-2020-announcements"></a>Comunicados de novembro de 2020
 
@@ -23,6 +23,219 @@ Esta página detalha os comunicados de novembro de 2020 sobre o Microsoft Partne
 Comunicados de 2020: [Abril](2020-april.md) | [Maio](2020-may.md) | [Junho](2020-june.md) | [Julho](2020-july.md) | [Agosto](2020-august.md) | [Setembro](2020-september.md) | [Outubro](2020-October.md) | Novembro
 
 ______________
+## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>Introdução à capacidade de comprar ofertas SaaS com cobrança limitada no Partner Center 
+
+### <a name="categories"></a>Categorias
+
+- Data: 2020-11-24
+- Funcionalidades
+
+## <a name="summary"></a>Resumo
+
+A Microsoft está introduzindo a capacidade de permitir aos parceiros do programa Provedor de Soluções na Nuvem comprar ofertas SaaS com cobrança limitada no Partner Center. 
+
+### <a name="impacted-audience"></a>Público-alvo afetado
+
+Todos os parceiros
+
+### <a name="details"></a>Detalhes
+
+A Microsoft está introduzindo a capacidade de permitir aos parceiros do programa Provedor de Soluções na Nuvem, incluindo provedores indiretos e parceiros de cobrança direta, comprar ofertas SaaS com  [cobrança limitada](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing) no Partner Center. Hoje, os parceiros do programa Provedor de Soluções na Nuvem podem exibir e [comprar ofertas SaaS com cobrança limitada por meio do portal do Azure](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase). Essa nova experiência permitirá que os parceiros comprem essas ofertas por meio do Marketplace do CSP no Partner Center e pela API, como fazem com outros tipos de ofertas SaaS. 
+
+### <a name="next-steps"></a>Próximas etapas
+
+Compartilhe essas informações com todos os contatos relevantes da empresa.
+
+
+
+
+## <a name="new-unified-account-management-experience"></a><a name="13"></a>Nova experiência de gerenciamento de conta unificada
+
+### <a name="categories"></a>Categorias
+
+- Data: 2020-11-18
+- Capacidades
+
+## <a name="summary"></a>Resumo
+
+A partir de 18 de novembro, o Partner Center começará a operar com a nova experiência de gerenciamento de contas que vai aprimorar a experiência do usuário para os parceiros. Agora, os parceiros poderão gerenciar as respectivas contas para todos os programas usados em Configurações > Configurações da conta.
+
+### <a name="impacted-audience"></a>Público-alvo afetado
+
+Todos os parceiros
+
+### <a name="details"></a>Detalhes
+
+A principal alteração no gerenciamento de conta é a integração da exibição **Configurações do parceiro** anteriormente separada para os parceiros registrados em programas comerciais (como o Microsoft Partner Network, o Provedor de Soluções na Nuvem, as Referências etc.) e da exibição **Configurações do desenvolvedor** para os parceiros registrados em programas de Desenvolvedor (como Marketplace Comercial, Windows & Xbox etc.) em uma exibição unificada conhecida como **Configurações da conta**.
+
+### <a name="entry-point"></a>Ponto de entrada
+
+Entre no painel do Partner Center e selecione o ícone  **Configurações** e clique em **Configurações da conta**. Você não precisa mais escolher entre Parceiro e Desenvolvedor, pois todos os perfis e configurações agora estão combinados.
+
+### <a name="left-navigation-hierarchy"></a>Hierarquia de navegação à esquerda
+
+- Perfil da organização
+   - Jurídico – Gerencie seu perfil de negócio jurídico, perfil de parceiro e locais da empresa.
+   - Locatários – Todas as informações sobre os locatários do Azure AD, comerciais e desenvolvedores, podem ser acompanhadas aqui.
+   - Identificadores – Identidades do Partner Center para a sua empresa – seu MPNIDs, publisherIds etc.
+- Gerenciamento de usuários – Gerencie os usuários e atribua a eles funções comerciais e de desenvolvedor no mesmo lugar. Você também pode gerenciar grupos e aplicativos do Azure AD aqui.
+
+### <a name="next-steps"></a>Próximas etapas
+
+Compartilhe essas informações com todos os contatos relevantes da empresa.
+
+
+
+
+## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Promoção Office 365 E1 para mercados intermediários (LATAM, APAC e Índia)
+
+### <a name="categories"></a>Categorias
+- Data 2020/11/18
+- Ofertas/mercados
+
+### <a name="summary"></a>Resumo
+Estamos introduzindo uma nova Promoção do Office 365 E1 para mercados intermediários, restrita aos mercados emergentes da LATAM, da Índia e do APAC (exceto para os mercados desenvolvidos na região APAC).
+
+### <a name="impacted-audience"></a>Público-alvo afetado
+Todos os parceiros que fazem transações pelo programa CSP (Provedor de Soluções na Nuvem) nos mercados participantes listados acima.
+
+### <a name="details"></a>Detalhes
+A Promoção consiste em 30% de desconto no Office 365 E1 para CSP. Ela será iniciada em 1º de dezembro de 2020 e estará disponível por 6 meses, até 31 de maio de 2020. Essa Promoção está disponível apenas para novos clientes da nuvem MW e oferece até 500 usuários. Observe que a promoção é restrita aos mercados emergentes da LATAM, da Índia e do APAC, a fim de viabilizar a transição para a nuvem. 
+
+#### <a name="offer-details"></a>Detalhes da oferta
+
+   |**Nome da oferta**|**ID da oferta**|
+   |-------------------|:------|
+   |Promoção Office 365 E1 para mercados intermediários|d20fdad5-f524-45e4-97b1-59a94c21778f|
+
+### <a name="next-steps"></a>Próximas etapas
+Ela estará disponível em 1º de dezembro – por enquanto, compartilhe essas informações com todos os contatos apropriados da organização (nas regiões participantes). Comece a interagir com os clientes que ainda não estão na nuvem nas regiões participantes. 
+
+### <a name="questions"></a>Dúvidas?
+Entre em contato com o [Suporte do Partner Center](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) em caso de dúvidas ou perguntas ou para obter mais informações.
+______________
+
+## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Atualizações da API do Partner Center e aprimoramentos da IU (interface do usuário) para fortalecer a triagem de clientes em determinados países
+
+### <a name="categories"></a>Categorias
+
+- Data 2020-11-17
+- Funcionalidades | Triagem de clientes aprimorada
+
+### <a name="impacted-audience"></a>Público-alvo afetado
+
+Parceiros de cobrança direta ou provedores indiretos que participam do programa CSP (Provedor de Soluções na Nuvem) que têm clientes novos ou existentes nos seguintes países:
+
+- Armênia (AM)
+- Azerbaijão (AZ)
+- Belarus (BY)
+- Hungria (HU)
+- Cazaquistão (KZ)
+- Quirguistão (KG)
+- Moldova (MD)
+- Rússia (RU)
+- Tadjiquistão (TJ)
+- Uzbequistão (UZ)
+- Ucrânia (UA)
+
+### <a name="summary"></a>Resumo
+
+Como parte do compromisso permanente da Microsoft com clientes e parceiros em relação a práticas de negócios em conformidade, alguns parceiros com clientes em determinados países agora deverão preencher alguns campos adicionais de dados sobre esses clientes quando o parceiro tentar atualizar uma assinatura de cliente existente ou criar uma assinatura para um novo cliente. 
+
+### <a name="details"></a>Detalhes
+
+O trabalho da Microsoft é baseado em confiança. Temos o compromisso de fornecer um método de validação do cliente que esteja em conformidade e que seja seguro e protegido para realizar transações de assinatura de clientes no programa CSP. Como parte desse esforço, apresentamos aprimoramentos na API e na interface do usuário do Partner Center que afetarão os parceiros que atendem a todos os critérios a seguir: 
+
+- O parceiro tem um relacionamento de cobrança direta com a Microsoft (como um parceiro de cobrança direta ou um provedor indireto); e
+
+- O parceiro faz negócios com clientes novos ou existentes nos seguintes países: Armênia (AM), Azerbaijão (AZ), Belarus (BY), Hungria (HU), Cazaquistão (KZ), Quirguistão (KG), Moldova (MD), Rússia (RU), Tadjiquistão (TJ), Uzbequistão (UZ) e Ucrânia (UA) 
+
+Para tais parceiros com um cliente nesses países, o parceiro deverá enviar o **Identificador Legal** do cliente em questão (também conhecido como **INN da Organização** do cliente) e o **Número de Telefone** do cliente quando o parceiro tentar atualizar ou criar uma assinatura para esse cliente. Esses parceiros agora também podem optar por inserir um **Segundo nome** opcional para o cliente.
+
+### <a name="partner-center-enhancements"></a>Aprimoramentos do Partner Center
+
+- Aprimoramentos da interface do usuário do Partner Center para aprimorar a validação dos clientes em países específicos
+
+- Novas APIs para dar suporte à validação aprimorada de clientes em países específicos
+
+**Alterações na página da interface do usuário do Partner Center – Conta do cliente**
+
+A página Conta do Cliente do Partner Center foi atualizada da seguinte maneira:
+
+1. **INN da Organização** (também conhecido como Identificador Legal). Este campo agora é obrigatório para clientes em países específicos. 
+
+   > [!NOTE]
+   > Os dados devem ser inseridos somente em caracteres alfanuméricos, sem hifens, caracteres especiais ou espaços. Os parceiros precisarão trabalhar com o contato do cliente nesses países para confirmar o status do identificador legal do cliente, tal como a ID de contribuinte ou o código INN. Para obter mais informações específicas de cada país, confira a tabela a seguir.  
+
+2. **Segundo nome.** Esse campo é opcional para todos os clientes. Se souber o segundo nome ou a inicial do cliente, o parceiro poderá inserir aqui essa informação.
+
+3. **Número de Telefone.** Esse campo era opcional anteriormente, mas agora é obrigatório para clientes de alguns países específicos.  
+
+Os requisitos do campo **INN da organização** (Identificador Legal) específicos de cada país são exibidos abaixo.
+
+| País | Área A14 | Código ISO do país | Requisitos de caracteres do campo | Nome do campo específico do país no idioma nativo | Tradução para o inglês ou comentários adicionais |
+|---------|----------|------------------|------------------------|--------------------|--------------------------------------|
+| Armênia | CEE      | AM               | 8 ou 10 dígitos         | :::no-loc text="УНН/NZOU/НЗОУ/ հանրային ծառայության համարանիշը"::: | Número de serviço público/UNN                     |
+| Azerbaijão| CEE      | AZ               | 7 ou 10 dígitos         | :::no-loc text="ИНН/VOEN/ПИК"::: | TIN/INN/PIC              |
+| Bielorrússia | CEE      | BY               | 9 dígitos         | :::no-loc text="УНП"::: | UNP (significa ID de contribuinte)                    |
+| Hungria | CEE      | HU               | 10 ou 11 dígitos         | :::no-loc text="TIN"::: | TIN (ID do contribuinte)                     |
+| Cazaquistão | CEE      | KZ              | 12 dígitos         | :::no-loc text="БИН/ИИН"::: | BIN/IIN                     |
+| Quirguistão | CEE      | KG               | 14 dígitos         | :::no-loc text="ИНН"::: | Número de serviço público/UNN                     |
+| Moldova  | CEE        | MD               | 6, 7, 8 ou 13 dígitos         | :::no-loc text="IDNO/IDNP"::: | O número exclusivo de identificação do estado (IDNO) atribuído à pessoa jurídica também é constituído, como código fiscal. \"Registro estadual de unidades de lei em relação às empresas registradas na República da Moldova, publicadas pelo Ministério da Tecnologia de Informação e da Comunicação no portal governamental do Open Data, data.gov.md.\"                    |
+| Rússia | CEE      | RU               | 9, 10 ou 12 dígitos         | :::no-loc text="ИНН"::: | INN                     |
+| Tadjiquistão | CEE      | TJ               | 9, 10 ou 12 dígitos     | :::no-loc text="ИНН/ЕИН/КПП"::: | INN/EIN/KPP                     |
+| Uzbequistão | CEE     | UZ               | 9 dígitos                 | :::no-loc text="INN":::         | INN                               |
+| Ucrânia   | CEE      | UA               | 8, 10 ou 12 dígitos      | :::no-loc text="EGRPOU/EDRPOU":::        | Código de identificação de uma pessoa jurídica                             | 
+
+**Alterações na API do Partner Center**
+
+As alterações de contrato a seguir serão feitas na API do Partner Center. Essas alterações são limitadas a parceiros que gerenciam contas de clientes nos países mencionados anteriormente.
+
+> [!NOTE]
+> Se você for um parceiro que usa uma interpretação estrita da resposta JSON do Partner Center, poderá ser afetado por essas alterações se as atualizações não forem concluídas do seu lado. O JSON não é uma integração recomendada com APIs do Partner Center.
+
+| Atualizações nos recursos REST | Documentação relacionada do Partner Center |
+|---------------------------|-----------------------|
+| Novo campo obrigatório: organizationRegistrationNumber | - [Criar um cliente](/partner-center/develop/create-a-customer#company-profile)<br/>- [Criar um cliente para um revendedor indireto](/partner-center/develop/create-a-customer-for-an-indirect-reseller#request-headers)  <br/>- [Recursos do cliente](/partner-center/develop/customer-resources#customercompanyprofile) |
+| O campo atualizado agora é obrigatório: PhoneNumber<br/>Campo opcional: MiddleName | - [Recursos do utilitário](/partner-center/develop/utility-resources#address) |
+| Novos códigos de erro BadRequest REST: 600002, 600049, 600050, 600051 | - [Códigos de erro REST do Partner Center](/partner-center/develop/error-codes#error-codes) |
+
+*Contrato externo proposto para os clientes:*
+
+```
+public class CustomerCompanyProfile : ResourceBaseWithLinks
+{
+               public string TenantId { get; set; }
+               public string Domain { get; set; }
+               public string CompanyName { get; set; }
+               public Address Address { get; set; }
+               public string Email { get; set; }
+ 
+                // Newly added fields
+               public string OrganizationRegistrationNumber { get; set; }
+}
+ 
+public class Address
+{
+                public string Id { get; set; }
+                public string Country { get; set; }
+                public string Region { get; set; }
+                public string City { get; set; }
+                public string PostalCode { get; set; }
+                public string AddressLine1 { get; set; }
+                public string AddressLine2 { get; set; }
+                public string AddressLine3 { get; set; }
+                public string FirstName { get; set; }
+                public string LastName { get; set; }
+                public string PhoneNumber { get; set; }
+                public string EmailAddress { get; set; }
+ 
+                // Newly added fields
+                public string MiddleName { get; set; }
+}
+```
+
+
 ## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>Alteração da moeda de cobrança do parceiro da EU/EFTA para novas ofertas de comércio.  
 
 ### <a name="categories"></a>Categorias
@@ -146,8 +359,16 @@ Examine as [Diretrizes de limitação de API](https://docs.microsoft.com/partner
 - Pedimos que os parceiros entrem em contato conosco para podermos ajudá-los a fazer o teste adicionando os locatários deles a um pacote de pré-lançamento com as alterações. Assim, eles poderão garantir que a atualização da solução deles funcione conforme o esperado.
 
 
+### <a name="next-steps-for-partners"></a>Próximas etapas para parceiros
 
-## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Testes disponíveis: atualizações de API do Partner Center e aprimoramentos da IU (interface do usuário) para obter o processo de validação do cliente de Educação
+- Examine essas novas alterações na API e na interface do usuário do Partner Center. Quando você tentar criar uma assinatura de cliente ou atualizar uma assinatura existente para um cliente em um desses países, confira as informações da conta do cliente para verificar se você adicionou dados aos dois novos campos obrigatórios desse cliente: INN da Organização (Identificador Legal) e Número de Telefone. Você pode atualizar essas informações por meio do [painel](https://partner.microsoft.com/dashboard) do Partner Center ou por meio das [APIs](/partner-center/develop/create-a-customer#company-profile) do Partner Center.
+
+- Compartilhe essas informações com as equipes apropriadas da sua organização para ajudá-las a se preparar para essas alterações.
+
+
+>>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
+
+## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Testes disponíveis: aprimoramentos para a API e a IU (interface do usuário) do Partner Center para o processo de validação do cliente de Educação
 
 ### <a name="categories"></a>Categorias
 
