@@ -1,7 +1,7 @@
 ---
 title: Trabalhar com outros parceiros
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os provedores indiretos são parceiros com revendedores indiretos no programa CSP (provedor de soluções na nuvem) e determinam qual é a função certa para você.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1089c2eeb419bbc826a3df433d3ed6c25273a7cc
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 2ae635b77acc82ea705f3405d1c15aa7d02684dd
+ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377190"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96322093"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Diferentes maneiras pelas quais você pode trabalhar com outros parceiros no Partner Center
 
@@ -26,27 +26,27 @@ O programa CSP (provedor de soluções na nuvem) da Microsoft oferece oportunida
 
 ## <a name="indirect-provider-indirect-reseller-model"></a>Modelo de revenda indireta com fornecedor indireto
 
-Neste modelo, também conhecido como o modelo bipartido, os fornecedores indiretos e revendedores indiretos trabalham juntos para vender serviços baseados em nuvem da Microsoft a organizações em múltiplos locais e indústrias. 
+Neste modelo, também conhecido como o modelo bipartido, os fornecedores indiretos e revendedores indiretos trabalham juntos para vender serviços baseados em nuvem da Microsoft a organizações em múltiplos locais e indústrias.
 
 ### <a name="indirect-providers"></a>Provedores indiretos
 
-Fornecedores indiretos (também conhecidos como distribuidores) compram produtos e inscrições diretamente da Microsoft e depois oferecem essas soluções aos clientes por meio dos revendedores. Trabalhar com revendedores indiretos permite que os fornecedores expandam sua busca e base de clientes. 
+Fornecedores indiretos (também conhecidos como distribuidores) compram produtos e inscrições diretamente da Microsoft e depois oferecem essas soluções aos clientes por meio dos revendedores. Trabalhar com revendedores indiretos permite que os fornecedores expandam sua busca e base de clientes.
 
-Se você for um fornecedor indireto aprovado no CSP, consulte [Parceiro com revendedores indiretos no CSP](indirect-provider-tasks-in-partner-center.md) para saber mais sobre como conectar com revendedores indiretos e clientes. 
+Se você for um fornecedor indireto aprovado no CSP, consulte [Parceiro com revendedores indiretos no CSP](indirect-provider-tasks-in-partner-center.md) para saber mais sobre como conectar com revendedores indiretos e clientes.
 
 ### <a name="indirect-resellers"></a>Revendedores indiretos
 
-Revendedores indiretos trabalham com fornecedores indiretos que têm uma relação direta com a Microsoft e infraestrutura para fornecer suporte ao cliente e cobrança. A parceria com fornecedores indiretos permite que os vendedores indiretos trabalhem com fornecedores de tecnologia experientes para ir ao mercado sem ter de fazer um grande investimento de capital, e para oferecer um portfólio mais amplo de soluções da Microsoft. 
+Revendedores indiretos trabalham com fornecedores indiretos que têm uma relação direta com a Microsoft e infraestrutura para fornecer suporte ao cliente e cobrança. A parceria com fornecedores indiretos permite que os vendedores indiretos trabalhem com fornecedores de tecnologia experientes para ir ao mercado sem ter de fazer um grande investimento de capital, e para oferecer um portfólio mais amplo de soluções da Microsoft.
 
 Se você for um revendedor indireto ou se estiver interessado em se inscrever no CSP como um, consulte [Parceria com fornecedores indiretos no CSP](indirect-reseller-tasks-in-partner-center.md) para saber mais sobre como conectar-se com fornecedores indiretos e clientes.
 
-Não tem certeza se deseja se inscrever no CSP como um revendedor indireto ou um parceiro direto? Consulte [Explorar o modelo indireto](https://partner.microsoft.com/cloud-solution-provider/indirect) no [Site do Microsoft Partner Network](https://partner.microsoft.com).   
+Não tem certeza se deseja se inscrever no CSP como um revendedor indireto ou um parceiro direto? Consulte [Explorar o modelo indireto](https://partner.microsoft.com/cloud-solution-provider/indirect) no [Site do Microsoft Partner Network](https://partner.microsoft.com).
 
 ## <a name="multi-partner-support"></a>Suporte multi-parceiro
 
 O recurso de vários parceiros do Partner Center dá suporte a cenários quando um cliente precisa trabalhar com mais de um parceiro. Por exemplo, eles podem querer contratar um parceiro por sua experiência em Office 365, mas também contratar um parceiro diferente especializado no Microsoft Azure. Consulte [Suporte ao multi-parceiro](multipartner.md) para obter mais informações.
 
-Suporte ao multi-parceiro também está disponível nas ofertas de nuvem nacionais da Microsoft. 
+Suporte ao multi-parceiro também está disponível nas ofertas de nuvem nacionais da Microsoft.
 
 ## <a name="multi-channel-support"></a>Suporte multicanal
 
@@ -55,4 +55,4 @@ O recurso de vários canais do Partner Center dá suporte a cenários quando um 
 O suporte multi-canal também está disponível nas ofertas de nuvem nacionais da Microsoft.
 
 > [!IMPORTANT]  
-> Um parceiro no programa CSP não pode revender serviços online para outro parceiro que esteja no programa CSP atualmente. A Microsoft revisa continuamente as políticas e competências de todos os programas. Quaisquer novidades sobre os lançamentos de recursos serão anunciadas por meio dos canais de comunicação normais, incluindo os [anúncios do Partner Center](announcements/index.md).
+> Um parceiro no programa CSP não pode revender serviços online para outro parceiro que esteja no programa CSP atualmente. Essa restrição se aplica somente ao locatário usado para a realização de transações CSP. Os parceiros CSP que usam um locatário não CSP para seu uso corporativo podem comprar serviços online de outro parceiro CSP. A Microsoft revisa continuamente as políticas e competências de todos os programas. Quaisquer novidades sobre os lançamentos de recursos serão anunciadas por meio dos canais de comunicação normais, incluindo os [anúncios do Partner Center](announcements/index.md).
