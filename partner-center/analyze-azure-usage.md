@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 670146b30c953e579cb5a8638cdb820dd8262258
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: a87b6cdde7fb339dd498bfa4834e618c19f504f3
+ms.sourcegitcommit: 32612717e2b62dd307741933afa580a622ef7787
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031879"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96354217"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Obtenha dados sobre o quão bem seus clientes e assinaturas do Azure estão fazendo
 
@@ -32,7 +32,7 @@ ms.locfileid: "92031879"
 
 Os dados impulsionam as decisões de negócios. Use as métricas na página **Uso do Azure** para identificar seu êxitos e as áreas que precisam de mais atenção. Use essas informações ao planejar novas metas de negócios.
 
-Para acessar o **uso do Azure**, entre no [painel](https:/partner.microsoft.com/dashboard)do Partner Center. Selecione **análise** no menu do centro de parceiros e selecione **uso do Azure**.
+Para acessar o **uso do Azure**, entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center. Selecione **análise** no menu do centro de parceiros e selecione **uso do Azure**.
 
 > [!NOTE]
 > A análise de uso do Azure está disponível somente para parceiros no programa de provedor de soluções na nuvem.
