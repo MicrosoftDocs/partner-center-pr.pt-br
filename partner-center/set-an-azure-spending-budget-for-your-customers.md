@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 982d4ed310415349acde3d260afce04eb0d55ac5
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: e311af31bbce65ed38c20df12243d325c7a63d04
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811245"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96438974"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Definir, verificar ou remover orçamentos mensais de gastos do Azure para clientes no Partner Center
 
@@ -64,7 +64,7 @@ Você também pode *definir um orçamento para um cliente individual* em suas co
 
 2. No menu à esquerda, em **CSP**, escolha **clientes**.
 
-3. Na página **clientes** , selecione o **nome da empresa**do cliente.
+3. Na página **clientes** , selecione o **nome da empresa** do cliente.
 
 4. Na página **assinaturas** do cliente, em **assinatura baseada em uso**, escolha **alterar orçamento**.
 
@@ -100,13 +100,18 @@ Você pode *ativar as notificações por email* para quando o gasto mensal do cl
 
 1. Conecte-se ao Partner Center.
 
-2. No menu à esquerda, em **CSP**, escolha **gastos do Azure**.
+2. Vá para **Configurações**.
 
-3. Na página **gastos do Azure** , em **notificações por email**, alterne a configuração **obter emails** para **ativado**.
+3. Selecione **minhas preferências**.
 
-4. Escolha **Alterar endereço de email** para ver o endereço de email para notificações.
+4. Se você ainda não tiver feito isso, configure um endereço de email preferencial.
 
-5. Se o endereço de email *não estiver correto*, insira o endereço de email correto e escolha **Atualizar**. Se o endereço de email *estiver correto*, escolha **Cancelar**.
+5. Configure o idioma preferencial para a notificação.
+
+6. Selecione a guia **CSP** na seção **preferências de notificação** .
+
+7. Marque a opção de email para notificação de **gastos do Azure** e **salve**.
+
 
 ## <a name="itemized-costs-by-service"></a>Custos discriminados por serviço
 
@@ -116,7 +121,7 @@ Você pode *exibir os custos discriminados (e o uso estimado) por serviço para 
 
 2. No menu à esquerda, em **CSP**, escolha **clientes**.
 
-3. Na página **clientes** , selecione o **nome da empresa**do cliente.
+3. Na página **clientes** , selecione o **nome da empresa** do cliente.
 
 4. Na página **assinaturas** do cliente, em **assinaturas baseadas em uso**, selecione o nome da **assinatura**.
 

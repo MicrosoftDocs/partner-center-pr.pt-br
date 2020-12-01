@@ -9,19 +9,16 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: a87b6cdde7fb339dd498bfa4834e618c19f504f3
-ms.sourcegitcommit: 32612717e2b62dd307741933afa580a622ef7787
+ms.openlocfilehash: 0a7bc34ded62eb9e19dbbad8e214eb30534b8ea6
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96354217"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439124"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Obtenha dados sobre o quão bem seus clientes e assinaturas do Azure estão fazendo
 
-**Aplica-se a**
 
-- Partner Center
-- Parceiros do programa Provedor de Soluções na Nuvem
 
 **Funções apropriadas**
 
