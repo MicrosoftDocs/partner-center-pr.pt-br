@@ -9,19 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: db32f3d48089457cb9c49196bcb190ccd4308582
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: e180485a6ee769c911b3d2119869661ea118ccc1
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87526992"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474148"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Consultores: Crie e envie um convite de avaliação para que os clientes experimentem o Office 365
 
-**Aplica-se a**
 
-- Partner Center
- 
 **Funções apropriadas**
 
 - Consultores
@@ -49,11 +46,15 @@ Se você estiver certificado para oferecer administração delegada, poderá adi
 
 3. Clique em **Próximo**.
 
-4. Na página**convite para avaliação** , copie as informações e a URL do convite de avaliação e cole-as em um email, um documento ou uma página da Web para criar um convite de avaliação personalizado.
+4. Na página **convite para avaliação** , copie as informações e a URL do convite de avaliação e cole-as em um email, um documento ou uma página da Web para criar um convite de avaliação personalizado.
 
     > [!NOTE]
-    > Anote a **ID do resumo**do convite de avaliação. Use essa ID para acompanhar a oferta.
+    > Anote a **ID do resumo** do convite de avaliação. Use essa ID para acompanhar a oferta.
 
 5. Personalize sua mensagem incluindo o logotipo da sua empresa, introdução, comentários de fechamento ou outras informações.
 
 6. Envie o convite para avaliação ao seu cliente.
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Criar uma oferta de compra](advisor-create-a-purchase-offer.md)

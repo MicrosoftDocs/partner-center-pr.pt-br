@@ -9,19 +9,15 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a9b2ed89b10e43c31d00777054839f3208e5c16
-ms.sourcegitcommit: 32516c30e90ee78415e5537d2b8ccf467f56a82d
+ms.openlocfilehash: 9f1d6e2a59bd892b7b79a1e3aa532242cdd0e302
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87535736"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474182"
 ---
 # <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>Carregar um arquivo. csv de usuários para a conta de um cliente
 
-
-**Aplica-se a**
-
-- Partner Center
 
 **Funções apropriadas**
 
@@ -35,7 +31,7 @@ Adicione vários usuários à conta de um cliente de uma só vez, carregando um 
 
 2. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
-3. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
+3. No menu do centro de parceiros, **selecione** clientes e, em seguida, escolha um cliente na lista.
 
 4. Selecione a guia **usuários e licenças** do cliente e, em seguida, selecione **carregar usuários**.
 
@@ -45,7 +41,7 @@ Adicione vários usuários à conta de um cliente de uma só vez, carregando um 
 
 7. Selecione **Validar**.
 
-    **Observação**    A maioria dos erros de criação de conta é causada por problemas de arquivo de dados, incluindo informações ausentes, endereços de email malformados ou duplicados ou muitos registros no arquivo.
+    **Observação**  A maioria dos erros de criação de conta é causada por problemas no arquivo de dados, como falta de informações, endereços de email incorretos ou duplicados ou número excessivo de registros no arquivo.
 
 8. Depois que o Partner Center validar o arquivo, selecione o **local** geográfico para os novos usuários.
 9. Clique em **Salvar**.

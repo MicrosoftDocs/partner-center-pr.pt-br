@@ -9,19 +9,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5631e141f3b232ddfb0afd7dab6acc6a08f59df
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527002"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474165"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Consultores: Crie sua base de clientes com convites para avaliação do Office 365 e ofertas de compra
 
-**Aplica-se a**
 
-- Partner Center
- 
 **Funções apropriadas**
 
 - Consultores
@@ -53,5 +50,7 @@ Depois que você enviar um convite para avaliação, contate seus clientes com u
 Quando você cria a oferta de compra, uma URL personalizada é criada para você. A URL tem um código inserido que identifica você como o supervisor de assinatura. Você pode usar essa URL para um cliente ou muitos clientes. Envie a URL para o cliente em um email ou poste-a em seu site.
 
 Se o cliente quiser um número diferente de licenças, envie-a uma nova oferta ou altere o número de licenças ao comprar a assinatura.
+
+## <a name="next-steps"></a>Próximas etapas
 
 Para obter mais informações sobre ofertas de compra, consulte [criar uma oferta de compra](advisor-create-a-purchase-offer.md).

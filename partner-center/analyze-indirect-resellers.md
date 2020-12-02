@@ -9,31 +9,25 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: 24316148fd237aa1fb466083c742ef4ddec36e22
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: b7158f0ba52cece8b143cbaf592f3b0c4667fe27
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367350"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474046"
 ---
-# <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Use a análise para analisar o desempenho de seus revendedores indiretos
-
-**Aplica-se a**
-
-- Partner Center
-- Parceiros do programa Provedor de Soluções na Nuvem
+# <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Use a análise para analisar o desempenho de seus revendedores indiretos
 
 **Funções apropriadas**
 
 - Administrador global
 - Administrador de gerenciamento de usuário
-- Agente administrativo
-- Agente de vendas
+
 
 Os dados impulsionam as decisões de negócios. Use as métricas na página **Análise do revendedor** para identificar seu êxitos, os êxitos de seus clientes e as áreas que precisam de mais atenção. Use essas informações ao planejar novas metas de negócios.
 
 > [!NOTE]
-> A análise de revendedores indiretos está disponível somente para parceiros no programa Provedor de Soluções na Nuvem.
+> A análise indireta do revendedor está disponível somente para provedores indiretos no programa do provedor de soluções na nuvem.
 
 ## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>Tipos de métricas de análise de revendedor que você pode exibir
 

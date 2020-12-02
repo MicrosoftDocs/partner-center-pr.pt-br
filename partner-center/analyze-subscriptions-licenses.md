@@ -9,19 +9,14 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 07/08/2020
-ms.openlocfilehash: 8d16ef9150e83fbdd3c189aaa878ad466f3fe1f4
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 45a088129d09395abf355efde08c772744b98672
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367300"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474080"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analise assinaturas e licenças para ajudá-lo a impulsionar decisões de negócios e novas metas
-
-**Aplica-se a**
-
-- Partner Center
-- Parceiros do programa Provedor de Soluções na Nuvem
 
 **Funções apropriadas**
 
@@ -48,32 +43,44 @@ Estamos monitorando as seguintes métricas:
 
 **Resumo**  
  - **Assinaturas vendidas**: contagem de assinaturas criadas no período de tempo especificado  
- - **Licenças vendidas**: contagem de licenças vendidas no período de tempo especificado   
+  
+ - **Licenças vendidas**: contagem de licenças vendidas no período de tempo especificado  
+  
  - **Renovação de assinaturas em 30 dias**: contagem das assinaturas onde o status é ativo para o período de tempo especificado e onde **Renovar automaticamente** é verdadeiro
+ 
  - **Assinaturas ativas**: assinaturas onde o status é **Ativa**  
+ 
  - **Assinaturas suspensas**: contagem das assinaturas suspensas, não há filtro de datas  
 
-**Divisão do produto**  
+**Divisão do produto**
+  
  - **Contagem de assinaturas**: cinco principais produtos classificados por assinaturas vendidas  
+ 
  - **Contagem de licenças**: cinco principais produtos classificados por licenças vendidas
 
 **Retenção de assinatura**
+
  - **Assinaturas renovadas**: assinaturas renovadas nos últimos 30 dias  
 
 **Variação da assinatura**  
  - **Novas assinaturas**: contagem de novas assinaturas no período de tempo, excluindo ofertas de avaliação  
+ 
  - **Assinaturas desprovisionadas**: contagem das assinaturas desprovisionadas ou suspensas por data  
 
-**Assinaturas suspensas**  
+**Assinaturas suspensas** 
+ 
  - Lista de todas as assinaturas com o status **Suspensa**, excluindo as ofertas de avaliação  
   
 **Assinaturas ativas**
+
  - Lista de todas as assinaturas ativas  
 
 **Conversões de assinaturas de avaliação**  
+
  - **Conversão de avaliação**: contagem de todas as assinaturas **Ativas** onde a conversão de avaliação para paga ocorreu durante o período de tempo especificado  
 
 **Assinaturas de avaliação terminando em 30 dias**  
+
  - Lista de avaliações que foram iniciadas, onde a data de término ocorre dentro de 30 dias, e não há uma data de início pago associada com a assinatura  
 
 ## <a name="next-steps"></a>Próximas etapas

@@ -9,20 +9,15 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: b60ea73bc5fa7c4a25c61aa9651c303aa5087faf
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 85a1e7c456435b56c76ebbeb8c2e526773dbe236
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006722"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474250"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Como adicionar um novo registro de cliente no Partner Center
 
-**Aplica-se a**
-
-- Partner Center
-- Partner Center do Microsoft Cloud for US Government
-- Parceiros do programa Provedor de Soluções na Nuvem
 
 **Funções apropriadas**
 
@@ -31,10 +26,10 @@ ms.locfileid: "92006722"
 - Agente administrativo
 - Agente de vendas
 
-Este artigo informa como adicionar um novo cliente à sua lista de clientes no Partner Center. Siga estas etapas para poder vender assinaturas, gerenciar a cobrança ou fornecer suporte a um cliente.
+Este artigo descreve como adicionar um novo cliente à sua lista de clientes no Partner Center. Essas etapas são necessárias para que você possa vender assinaturas, gerenciar a cobrança ou fornecer suporte a um cliente.
 
 >[!NOTE]
->Para clientes existentes, incluindo aqueles que já têm registros de clientes no Partner Center por meio de um cenário de [vários canais](multichannel.md) ou [multiparceiro](multipartner.md) , você pode [solicitar uma relação com eles](request-a-relationship-with-a-customer.md), em vez de seguir as etapas aqui.
+>Para clientes existentes, incluindo aqueles que já têm registros de clientes no Partner Center por meio de um cenário de [vários canais](multichannel.md) ou [multiparceiro](multipartner.md) , você precisa [solicitar uma relação com eles](request-a-relationship-with-a-customer.md), em vez de seguir as etapas aqui.
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>Para adicionar um novo cliente na Central de Parceiros
 

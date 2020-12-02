@@ -9,18 +9,15 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a36f67609f0e51b0d65d0032610157fc4d81f97e
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 56a8438ad2503ab22151ed4da7e8ef4b43794543
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87526982"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474131"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Consultores: criar uma oferta de compra
 
-**Aplica-se a**
-
-- Partner Center
  
 **Funções apropriadas**
 
@@ -56,7 +53,7 @@ Se o cliente quiser um número diferente de licenças, envie-a uma nova oferta o
 4. Na página **Enviar** , copie as informações e a URL da oferta de compra e cole-as em um email, um documento ou uma página da Web para criar uma oferta de compra personalizada.
 
     > [!NOTE]
-    > Anote a **ID de resumo**da oferta de compra. Use-o para acompanhar a oferta.
+    > Anote a **ID de resumo** da oferta de compra. Use-o para acompanhar a oferta.
 
 5. Você pode personalizar a mensagem incluindo o logotipo da empresa, introdução, comentários de fechamento ou outras informações.
 
@@ -69,3 +66,7 @@ Se o cliente quiser um número diferente de licenças, envie-a uma nova oferta o
     - Informe aos clientes como contatá-lo com perguntas sobre o serviço ou a oferta.
     - Permita que os clientes saibam que controlam o número de licenças de usuário adquiridas e podem alterar o número de licenças quando aceitam a oferta.
     - Se você oferecer a administração delegada, explique o que ela significa e quais são as suas responsabilidades. Para obter mais informações sobre administração delegada, consulte [oferecer administração delegada](customers-revoke-admin-privileges.md).
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Crie sua base de clientes com convites para avaliação do Office 365 e ofertas de compra](advisors-build-your-business.md)

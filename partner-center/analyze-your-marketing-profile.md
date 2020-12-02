@@ -9,32 +9,24 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 45d40afc64c5c64801841d3cb758b49c8e107de7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4bb9311dc88a4abf4f2e14ae075430d1978b4bfe
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999640"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474029"
 ---
 # <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analisar seu perfil comercial-Veja como você atrai os clientes alvo e as indicações potenciais
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**Aplica-se a**
-
-- Partner Center
-- Parceiros do Microsoft Partner Network
-- Parceiros do programa Provedor de Soluções na Nuvem
-
 **Funções apropriadas**
 
 - Administrador global
 - Administrador de parceiros do MPN
-- Administrador de indicações
 - Administrador de perfis de negócios
-- Agente administrativo
-- Agente de vendas
+- Administrador de indicações
 
 A página de **informações do perfil de negócios** no Partner Center permite que você veja como você está capturando a atenção dos clientes de destino e gerando referências.
 
@@ -53,3 +45,8 @@ O gráfico de **Resumo de desempenho do perfil** inclui as seguintes informaçõ
 
 > [!TIP]
 > Ao começar a [responder a essas referências](manage-leads.md), certifique-se de examinar a [página de informações de referência](referral-insights.md) para ver mais detalhes sobre como suas referências estão sendo executadas.
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Criar um perfil de negócios](create-a-marketing-profile.md)
+- [Obtenha informações de referência na Central de parceiros e descubra como estão suas referências](referral-insights.md)

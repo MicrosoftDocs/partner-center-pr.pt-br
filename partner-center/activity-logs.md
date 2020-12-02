@@ -9,20 +9,14 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43ee23fe23b75946fa960f68fe41f7e490761f5c
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 1eaa7fee628015eb633cac3a2796e371f6046585
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527412"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474233"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Exibir ou exportar logs de atividades do cliente para obter mais informações sobre as transações do cliente
-
-**Aplica-se a**
-
-- Partner Center
-- Partner Center do Microsoft Cloud for US Government
-- Parceiros do programa Provedor de Soluções na Nuvem
 
 **Funções apropriadas**
 
