@@ -2,6 +2,8 @@
   href: index.yml
 - name: Comunicados
   href: announcements/TOC.md
+- name: Sobre o Partner Center
+  href: overview.md
 - name: Associação ao Partner Network
   items:
     - name: Parceiro da Microsoft
@@ -60,8 +62,13 @@
         - name: Isenção de competência do desenvolvimento de aplicativo
           href: app-dev-isv.md
     - name: Especializações avançadas
-      href: advanced-specializations.md
-      displayName: mpn
+      items:
+        - name: Demonstrar sua experiência
+          href: advanced-specializations.md
+          displayName: mpn
+        - name: Aplicar ou verificar status
+          href: advanced-specializations-apply.md
+          displayName: mpn
     - name: Tornar-se um MSP Especialista em Azure
       href: azure-expert-msp.md
     - name: Benefícios
