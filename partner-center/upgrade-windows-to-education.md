@@ -1,22 +1,22 @@
 ---
-title: Atualizar os clientes do Windows 10 Home para o Windows 10 Education
+title: Atualizar o Windows 10 Home para Windows 10 Education
 ms.topic: article
 ms.date: 10/28/2020
-description: Atualizar os clientes do Windows 10 Home para o Windows 10 Education
+description: Saiba como os parceiros do CSP (provedor de soluções na nuvem) podem atualizar alguns de seus clientes educacionais do Windows 10 Home para o Windows 10 Education
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a65dcceea688094089ad06dacfd2abf13173ca5c
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.openlocfilehash: eff687f59e433e3465048173e3f74821280bde41
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94359996"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556405"
 ---
-# <a name="upgrade-windows-10-home-customers-to-windows-10-education"></a>Atualizar os clientes do Windows 10 Home para o Windows 10 Education
+# <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Atualize alguns clientes educativos do Windows 10 Home para o Windows 10 Education
 
 **Aplica-se a**
 
@@ -63,7 +63,7 @@ Os parceiros devem criar uma solicitação de suporte e obter as chaves do supor
 - **Descrição:** Solicitando chaves [Insert number] para habilitar a atualização para o Windows 10 Education. (Observe que o número de chaves solicitadas não deve ser maior do que suas licenças de assinatura Microsoft 365 a3/a5 ou Windows 10 Enterprise a3/a5.) ID da assinatura do cliente [Insira o GUID da ID de assinatura dos clientes para suas Microsoft 365 a3/a5 ou assinatura do Windows 10 Enterprise a3/a5.]
 - **Número de contato:** Isso será preenchedo; Examine para confirmar ou atualizar.
 - **Email:** Isso será preenchedo e deverá ser o email que você usa como administrador do portal da Microsoft (administrador global ou administrador de cobrança somente).
-- **Método de contato preferencial** : escolha **telefone** ou **agende um retorno de chamada**.
+- **Método de contato preferencial**: escolha **telefone** ou **agende um retorno de chamada**.
 
 8. Selecione **entre em contato comigo**. O tempo de espera esperado é indicado no painel **precisa de ajuda?** .
 
@@ -75,7 +75,7 @@ Os parceiros devem criar uma solicitação de suporte e obter as chaves do supor
 
 Para atualizar o Windows 10 Home usando uma chave de produto do Windows 10 pro Education, o cliente deve fazer o seguinte:  
 
-1. Selecione **Iniciar** , selecione **configurações > atualização & segurança > ativação**. Selecione **alterar chave do produto** e, em seguida, insira a chave do produto Windows 10 pro de 25 caracteres. Selecione **Avançar** para iniciar a atualização para o Windows 10 pro.
+1. Selecione **Iniciar**, selecione **configurações > atualização & segurança > ativação**. Selecione **alterar chave do produto** e, em seguida, insira a chave do produto Windows 10 pro de 25 caracteres. Selecione **Avançar** para iniciar a atualização para o Windows 10 pro.
 
 2. Quando o dispositivo for ingressado no domínio de locatário (por meio do AAD), o dispositivo será atualizado automaticamente para a educação do Windows 10.  
 

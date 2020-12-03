@@ -2,17 +2,17 @@
 title: Entender as notas fiscais de cobrança do Partner Center
 ms.topic: article
 ms.date: 05/18/2020
-description: Entenda os campos em seu arquivo de nota fiscal para cobrança do Partner Center. as informações incluem campos e definições para todos os campos de fatura e campos de cobrança única.
+description: Entenda os campos em seu arquivo de nota fiscal para cobrança do Partner Center. Estão incluídos campos e definições de todos os campos de fatura e campos de cobrança única.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 121b0bc756e715af358eda30eff92cba35e802ed
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 3e9eb392279c0a09b5e30395b38ab7030bfa87d4
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198002"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556286"
 ---
 # <a name="understand-partner-center-billing-invoice-fields"></a>Entender os campos de fatura de cobrança do Partner Center
 
