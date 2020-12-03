@@ -1,5 +1,5 @@
 ---
-title: Gerenciamento de custos do Azure da Cloudyn para CSPs
+title: Gerenciamento de Custos do Azure licenciado pela Cloudyn para CSPs
 ms.topic: article
 ms.date: 05/04/2020
 ms.service: partner-dashboard
@@ -9,19 +9,14 @@ author: aparnagkrishnan
 ms.author: aparnag
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ea156ef0932fe1af20f3e3c4b9be1a5f931cdde
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: defa691a3bc70cbda45f01cb447d89364a49e3b8
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435905"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534974"
 ---
 # <a name="track-customer-azure-usage-and-costs-with-the-azure-cost-management-app-for-csp-partners"></a>Acompanhe o uso e os custos do Azure para clientes com o aplicativo de gerenciamento de custos do Azure para parceiros CSP  
-
-**Aplica-se a**
-
-- Partner Center
-- Parceiros do programa Provedor de Soluções na Nuvem
 
 **Funções apropriadas**
 

@@ -9,20 +9,21 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: e6c4e3e7a68de720f586754703308a447d7d30c1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 226ebd27b4ca4cdef56ce833a58a10bed89f8056
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000180"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534940"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Dimensionamento de VM do Microsoft Azure para uso máximo de reserva do Azure
 
-**Aplica-se a**
+**Funções apropriadas**
 
-- Partner Center
-- Portal do Azure
-- Parceiros no programa CSP
+- Agente administrativo
+- Agente de vendas
+
+Este artigo explica como dimensionar uma VM (máquina virtual) para as necessidades de computação de seus clientes ao comprar Microsoft Azure reservas para elas.
  
 > [!NOTE]
 > Este artigo se aplica somente a parceiros no programa CSP (provedor de soluções na nuvem). Os clientes que usam outros tipos de assinaturas (como pagamento conforme o uso, individuais, contrato de cliente da Microsoft ou assinaturas de Enterprise Agreement) devem ler [essa documentação de reservas do Azure](/azure/cost-management-billing/reservations).
@@ -128,7 +129,7 @@ Para obter mais informações, consulte [obter os registros de utilização do c
 >[!IMPORTANT]
 >Os custos de software, como o Microsoft Windows Server, não estão incluídos no preço de uma reserva de VM e aparecerão como itens de linha separados no registro do pedido e em sua fatura. No entanto, se um cliente tiver o Benefício de Uso Híbrido do Azure, os custos de software não serão aplicados. Para obter mais informações, consulte [Custos de software do Windows não incluídos com Instâncias Reservadas](/azure/billing/billing-reserved-instance-windows-software-costs).  
 
-## <a name="azure-reservations-resources"></a>Recursos de reservas do Azure
+## <a name="next-steps"></a>Próximas etapas
 
 |**Para obter informações sobre**   |**Leia isto**    |
 |:-----------------------------|:-----------------|

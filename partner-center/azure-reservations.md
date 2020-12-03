@@ -9,20 +9,14 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 317d1f0295b79b79bf06f1091ae365bc7012b749
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 9dc92685503fd4b9b05e40337f72e810c1693779
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000230"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534889"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Venda Microsoft Azure reservas para clientes usando o Partner Center, o portal do Azure ou as APIs
-
-**Aplica-se a**
-
-- Partner Center
-- Portal do Microsoft Azure
-- Parceiros no programa CSP
 
 **Funções apropriadas**
 
@@ -32,8 +26,10 @@ ms.locfileid: "91000230"
 - Agente de vendas
 - Administrador de gerenciamento de usuário
 
+Como um parceiro no CSP (programa de provedor de soluções na nuvem), você pode comprar, vender ou gerenciar reservas do Azure para clientes. Use o Partner Center, o portal do Azure ou a API do Partner Center.
+
 > [!NOTE]
-> Este artigo se aplica somente a parceiros no programa CSP (provedor de soluções na nuvem). Os clientes que usam outros tipos de assinaturas (como pagamento conforme o uso, individuais, contrato de cliente da Microsoft ou assinaturas de Enterprise Agreement) devem ler [essa documentação de reservas do Azure](/azure/cost-management-billing/reservations).
+> Este artigo se aplica somente aos parceiros no CSP. Os clientes que usam outros tipos de assinaturas (como pagamento conforme o uso, individuais, contrato de cliente da Microsoft ou assinaturas de Enterprise Agreement) devem ler [essa documentação de reservas do Azure](/azure/cost-management-billing/reservations).
 
 Os parceiros no programa CSP podem oferecer aos seus clientes Microsoft Azure reservas. Os clientes podem obter uma economia significativa quando reservam com antecedência. As reservas do Azure oferecem aos clientes simplicidade e flexibilidade das seguintes maneiras:
 

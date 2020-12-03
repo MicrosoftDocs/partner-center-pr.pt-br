@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 0ae61db0ca040afe67faa3a0883ea033b8f67562
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 12057d50e4456dd2450ff497e00c89a9afa5dc4d
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999430"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534975"
 ---
-# <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Usar perfis do Windows AutoPilot em novos dispositivos para personalizar a experiência de uso inicial do cliente
-
-**Aplica-se a**
-
-- CSP direto-parceiros de cobrança, provedores indiretos e revendedores indiretos
+# <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Usar perfis do Windows Autopilot em novos dispositivos para personalizar a experiência imediata do cliente
 
 **Funções apropriadas**
 
@@ -37,7 +33,7 @@ Este artigo explica como criar e aplicar perfis do AutoPilot a dispositivos no P
 
 Se você ainda não estiver familiarizado com o piloto automático, revise as informações nestes artigos:
 
-- [Visão geral do Windows AutoPilot](/windows/deployment/windows-10-auto-pilot)
+- [Visão geral do Windows Autopilot.](/windows/deployment/windows-10-auto-pilot)
 - [Guia de referência de implantação do AutoPilot](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>Visão geral
@@ -54,13 +50,13 @@ Com o recurso de piloto automático do Windows no Partner Center, você pode cri
 
 - Ignorar contrato de licença de usuário final (EULA). A partir do Windows 10 versão 1709, as organizações podem decidir ignorar a página de EULA apresentada durante o processo OOBE. Consulte o [contrato de EULA do Windows AutoPilot](#windows-autopilot-eula-dismissal) abaixo para obter informações importantes a serem consideradas para ignorar a página de EULA durante a instalação do Windows.
 
-As seguintes permissões e limitações de gerenciamento de perfil e dispositivo se aplicam:
+As permissões e limitações de gerenciamento de perfil e dispositivo a seguir se aplicam:
 
-- Os parceiros CSP podem continuar a gerenciar perfis de AutoPilot para clientes existentes com os quais têm relações de revendedores, mesmo que os clientes tenham removido os privilégios de administração delegada do parceiro.
+- Os parceiros CSP podem continuar a gerenciar perfis do Autopilot para clientes existentes com os quais têm relacionamentos com revendedores, mesmo que os clientes tenham removido os privilégios de administração delegados do parceiro.
 
-- Você pode gerenciar dispositivos existentes para seus clientes que você adicionou.
+- Você pode gerenciar os dispositivos existentes dos clientes que você adicionou.
 
-- Você não pode gerenciar dispositivos que seu cliente carregou para Microsoft Store para empresas ou para o portal de Microsoft Intune.
+- Você não pode gerenciar os dispositivos que o cliente carregou na Microsoft Store for Business ou no Portal do Microsoft Intune.
 
 ## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>Criar e gerenciar perfis do AutoPilot no Partner Center
 
@@ -149,11 +145,11 @@ Se você planeja usar o nome do OEM, o número de série e a combinação de mod
 
 - Essa tupla funciona apenas para dispositivos mais recentes (hashes de 4K, por exemplo) e não tem suporte para hashes 128B (RS2 e dispositivos anteriores).
 
-- O registro de tupla diferencia maiúsculas de minúsculas e, portanto, os dados no arquivo devem corresponder ao modelo e aos nomes dos fabricantes ***exatamente*** como fornecidos pelo provedor OEM (provedor de hardware).
+- O registro de tupla diferencia maiúsculas de minúsculas e, portanto, os dados no arquivo devem corresponder ao modelo e nomes de fabricantes **_exatamente_* _, conforme fornecido pelo provedor OEM (provedor de hardware).
 
 Siga as instruções abaixo para adicionar dispositivos à conta de um cliente no Partner Center.
 
-1. Selecione **clientes** no menu do centro de parceiros e, em seguida, selecione o cliente cujos dispositivos você deseja gerenciar.
+1. Selecione _ *Customers** no menu do Partner Center e, em seguida, selecione o cliente cujos dispositivos você deseja gerenciar.
 
 2. Na página de detalhes do cliente, selecione **dispositivos**.
 
@@ -166,7 +162,7 @@ Siga as instruções abaixo para adicionar dispositivos à conta de um cliente n
 
 5. Carregue o arquivo. csv e, em seguida, selecione **salvar**.
 
-Se você receber uma mensagem de erro ao tentar carregar o arquivo. csv, verifique o formato do arquivo. Você pode usar somente o hash de hardware ou o nome do OEM, o número de série e o modelo (na ordem da coluna) ou a ID do produto do Windows. Você também pode usar o arquivo. csv de exemplo fornecido no link ao lado de **Adicionar dispositivos** para criar uma lista de dispositivos.
+Se você receber uma mensagem de erro ao tentar carregar o arquivo .csv, verifique o formato do arquivo. Você pode usar somente o hash de hardware ou o nome do OEM, o número de série e o modelo (na ordem da coluna) ou a ID de Produto do Windows. Você também pode usar o arquivo. csv de exemplo fornecido no link ao lado de **Adicionar dispositivos** para criar uma lista de dispositivos.
 
 Seu arquivo. csv deve ser semelhante a este:
 

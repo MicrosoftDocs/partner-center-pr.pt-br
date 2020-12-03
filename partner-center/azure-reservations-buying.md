@@ -1,7 +1,7 @@
 ---
 title: Comprar Microsoft Azure reservas para clientes
 description: Saiba como comprar ou comprar reservas do Azure em nome de seus clientes no Partner Center. Também lista os mercados em que as reservas do Azure não estão disponíveis.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: rbars
@@ -9,20 +9,14 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 22ee2b6b76662ae3c7f7a956dc42f4425c321309
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 0e81a9561f3749aab281bb4ebd7cd0c38540ff31
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031249"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534600"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Comprar Microsoft Azure reservas em nome de seus clientes no Partner Center
-
-**Aplica-se a**
-
-- Partner Center
-- Portal do Microsoft Azure
-- Parceiros no CSP
 
 **Funções apropriadas**
 
@@ -31,6 +25,8 @@ ms.locfileid: "92031249"
 - Agente de suporte técnico
 - Agente de vendas
 - Administrador de gerenciamento de usuário
+
+Este artigo explica como comprar ou comprar reservas do Azure em nome de seus clientes no Partner Center. Ele também identifica os mercados em que as reservas do Azure não estão disponíveis.
  
 > [!NOTE]
 > Este artigo se aplica somente a parceiros no programa CSP (provedor de soluções na nuvem). Os clientes que usam outros tipos de assinaturas (como pagamento conforme o uso, individuais, contrato de cliente da Microsoft ou assinaturas de Enterprise Agreement) devem ler [essa documentação de reservas do Azure](/azure/cost-management-billing/reservations).
@@ -150,7 +146,8 @@ Siga as etapas abaixo para comprar Microsoft Azure reservas em nome de seus clie
 
 10. Para gerenciar a reserva do cliente no portal do Azure, localize o cliente na página de seus **clientes** e, em seguida, selecione a seta para baixo para expandir a linha do cliente. Selecione **portal de gerenciamento do Microsoft Azure** para abrir o registro do cliente no portal do Azure.
 
-## <a name="azure-reservations-resources"></a>Recursos de reservas do Azure
+## <a name="next-steps"></a>Próximas etapas
+
 |**Para obter informações sobre**   |**Leia isto**    |
 |:-----------------------------|:-----------------|
 |Reservas do Azure na visão geral do CSP  | [Vender Instâncias Reservadas do Microsoft Azure](azure-reservations.md) |

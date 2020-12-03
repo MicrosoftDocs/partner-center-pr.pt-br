@@ -9,20 +9,14 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 937a7268caa5ae7872f8a3ec6dcb05f56dd9fbe5
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c377fca3e38161258c836d14202ac4db21484526
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000250"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534753"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Gerenciar, cancelar, trocar ou reembolsar reservas de Microsoft Azure para clientes
-
-**Aplica-se a**
-
-- Partner Center
-- Portal do Microsoft Azure 
-- Parceiros no CSP
 
 **Funções apropriadas**
 
@@ -31,6 +25,8 @@ ms.locfileid: "91000250"
 - Agente de suporte técnico
 - Agente de vendas
 - Administrador de gerenciamento de usuário
+
+Este artigo explica como gerenciar reservas do Azure para um cliente, incluindo como cancelar uma reserva, trocar uma reserva ou solicitar um reembolso.
 
 > [!NOTE]
 > Este artigo se aplica somente a parceiros no programa CSP (provedor de soluções na nuvem). Os clientes que usam outros tipos de assinaturas (como pagamento conforme o uso, individuais, contrato de cliente da Microsoft ou assinaturas de Enterprise Agreement) devem ler [essa documentação de reservas do Azure](/azure/cost-management-billing/reservations).
@@ -64,12 +60,12 @@ Os clientes podem solicitar a cancelamento de uma reserva a qualquer momento (va
 Consulte abaixo para obter detalhes e taxas de cancelamento.
 
 
-|**Data do cancelamento**<br> dias   |**Usage**    |**Crédito**  |**Encerramento antecipado**<br> taxa    |**Limite de reembolso** | 
+|**Data do cancelamento**<br> dias   |**Uso**    |**Crédito**  |**Encerramento antecipado**<br> taxa    |**Limite de reembolso** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
 |5 ou menos                         | No          | 100%       | No                              | US $ $50000   |
-|5 ou menos                         | Sim         | Proporcional  | No                              | US $ $50000   |
+|5 ou menos                         | Yes         | Proporcional  | No                              | US $ $50000   |
 |Mais de 5                        | No          | Proporcional  | 12%                             | US $ $50000   |
-|Mais de 5                        | Sim         | Proporcional  | 12%                             | US $ $50000   |
+|Mais de 5                        | Yes         | Proporcional  | 12%                             | US $ $50000   |
 
 ### <a name="how-exchanges-work"></a>Como funcionam as trocas 
 
