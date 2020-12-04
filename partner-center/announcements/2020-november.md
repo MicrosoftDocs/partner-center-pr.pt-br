@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514734"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439081"
 ---
 # <a name="november-2020-announcements"></a>Comunicados de novembro de 2020
 
@@ -30,7 +30,7 @@ ______________
 - Data: 2020-11-24
 - Funcionalidades
 
-## <a name="summary"></a>Resumo
+### <a name="summary"></a>Resumo
 
 A Microsoft está introduzindo a capacidade de permitir aos parceiros do programa Provedor de Soluções na Nuvem comprar ofertas SaaS com cobrança limitada no Partner Center. 
 
@@ -46,8 +46,7 @@ A Microsoft está introduzindo a capacidade de permitir aos parceiros do program
 
 Compartilhe essas informações com todos os contatos relevantes da empresa.
 
-
-
+______________
 
 ## <a name="new-unified-account-management-experience"></a><a name="13"></a>Nova experiência de gerenciamento de conta unificada
 
@@ -56,7 +55,7 @@ Compartilhe essas informações com todos os contatos relevantes da empresa.
 - Data: 2020-11-18
 - Capacidades
 
-## <a name="summary"></a>Resumo
+### <a name="summary"></a>Resumo
 
 A partir de 18 de novembro, o Partner Center começará a operar com a nova experiência de gerenciamento de contas que vai aprimorar a experiência do usuário para os parceiros. Agora, os parceiros poderão gerenciar as respectivas contas para todos os programas usados em Configurações > Configurações da conta.
 
@@ -84,8 +83,7 @@ Entre no painel do Partner Center e selecione o ícone  **Configurações** 
 
 Compartilhe essas informações com todos os contatos relevantes da empresa.
 
-
-
+______________
 
 ## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Promoção Office 365 E1 para mercados intermediários (LATAM, APAC e Índia)
 
@@ -113,6 +111,7 @@ Ela estará disponível em 1º de dezembro – por enquanto, compartilhe essas i
 
 ### <a name="questions"></a>Dúvidas?
 Entre em contato com o [Suporte do Partner Center](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) em caso de dúvidas ou perguntas ou para obter mais informações.
+
 ______________
 
 ## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Atualizações da API do Partner Center e aprimoramentos da IU (interface do usuário) para fortalecer a triagem de clientes em determinados países
@@ -254,8 +253,6 @@ Na região EU (União Europeia)/EFTA (Associação Europeia de Livre Comércio),
 
 A partir de janeiro de 2021, os parceiros cujos novos clientes comprarem novas ofertas de comércio serão cobrados por essas compras na moeda do local do parceiro. Parceiros com clientes existentes que já compraram novas ofertas de comércio no CSP continuarão sendo cobrados na moeda do local de cobrança do cliente durante essa fase. 
 
- 
-
 - **Fase 2: clientes existentes que compraram uma nova oferta de comércio no CSP antes de janeiro de 2021** 
 
 Após a Fase 1 e durante o ano de 2021, a Microsoft fará a transição da cobrança de novas ofertas de comércio para parceiros com clientes existentes, que compraram uma nova oferta de comércio no CSP antes de janeiro de 2021. Essa transição será da moeda do local do cliente para a moeda do local do parceiro. Os parceiros serão notificados com antecedência antes que essa alteração seja implementada.  
@@ -279,6 +276,8 @@ As novas ofertas de comércio no escopo para essa alteração são: Assinaturas 
 ### <a name="resources"></a>Recursos 
 
 Examine as informações sobre esse tópico na [Galeria de Operações](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ no site de parceiros da Microsoft.  
+
+______________
 
 ## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>Limitação de API para parceiros que chamam as APIs do Partner Center
 
@@ -310,7 +309,7 @@ O Partner Center foi criado para lidar com um alto volume de solicitações, mas
 |-------------------------|----------------------------------|
 |{baseURL}/v1/customers/{ID_do_cliente}/subscriptions|[Obter as assinaturas de um cliente](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{ID_do_cliente}/subscriptions/{ID_da_assinatura}|[Obter uma assinatura por ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/customers/{ID_do_cliente}/orders||[Obter todos os pedidos de um cliente](https://docs.microsoft.com/artner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{ID_do_cliente}/orders||[Obter todos os pedidos de um cliente](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/customers/{ID_do_cliente}/orders/{ID_do_pedido}|[Obter uma ordem por ID](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/customers/{ID_do_cliente}/orders/{ID_do_pedido}/provisioningstatus|[Obter o status de provisionamento da assinatura](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/customers/{ID_do_cliente}/subscriptions/{ID_da_assinatura}|[Gerenciar pedidos e uma assinatura](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -328,7 +327,7 @@ O objetivo deste comunicado é fazer os parceiros conhecerem antecipadamente as 
 
 Examine as [Diretrizes de limitação de API](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance) e execute as etapas necessárias. 
 
-
+______________
 
 ## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>409 erros devido a solicitações de MCA duplicadas
 
@@ -365,8 +364,7 @@ Examine as [Diretrizes de limitação de API](https://docs.microsoft.com/partner
 
 - Compartilhe essas informações com as equipes apropriadas da sua organização para ajudá-las a se preparar para essas alterações.
 
-
->>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
+______________
 
 ## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Testes disponíveis: aprimoramentos para a API e a IU (interface do usuário) do Partner Center para o processo de validação do cliente de Educação
 
@@ -405,17 +403,17 @@ Além desses aprimoramentos, estamos empolgados em anunciar que, no segundo trim
 
 A Microsoft reserva a si o direito de examinar o status de qualquer cliente ou cliente proposto como um usuário de Educação qualificado. Para obter detalhes completos, veja os [Requisitos de Usuário para obter uma Educação Acadêmica Qualificada](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).
 
-## <a name="next-steps"></a>Próximas etapas
+### <a name="next-steps"></a>Próximas etapas
 
-Examine as novas alterações na interface do usuário e na API do Partner Center, além do Guia de Testes na [coleção de conteúdo de aprimoramentos do processo de validação do cliente de Educação do Partner Center](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- Examine as novas alterações na interface do usuário e na API do Partner Center, além do Guia de Testes na [coleção de conteúdo de aprimoramentos do processo de validação do cliente de Educação do Partner Center](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 
-• Inscreva-se para participar de testes. Confira [Guia de Testes](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) para obter detalhes. 
+- Inscreva-se para participar de testes. Confira [Guia de Testes](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) para obter detalhes. 
 
-• Verifique se sua organização está familiarizada com os [Requisitos de Usuário para obter uma Educação Acadêmica Qualificada](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7). 
+- Verifique se a sua organização está familiarizada com os [Requisitos de Usuário para obter uma Educação Acadêmica Qualificada](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7). 
 
-• Compartilhe essas informações com as equipes apropriadas em sua organização, juntamente com seus revendedores para ajudá-los a se preparar para essas alterações.
+- Compartilhe essas informações com as equipes apropriadas da sua organização, juntamente com seus revendedores para ajudá-los a se preparar para essas alterações.
 
-
+______________
 
 ## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Como expandir o conteúdo do parceiro de licenciamento comercial na Galeria de Preparação de Operações
 
@@ -483,7 +481,7 @@ Com a oferta Premium, os clientes têm acesso aos recém-lançados Serviços Ger
 #### <a name="microsoft-teams-rooms-managed-services"></a>Serviços Gerenciados das Salas do Microsoft Teams
 
 - Gerenciamento proativo: gerenciamento ininterrupto de seus sistemas de salas, incluindo aplicação de patches, gerenciamento de configuração e muito mais.
-•   Monitoramento e análise da causa raiz em tempo real: Monitoramento e detecção, com resposta de gerenciamento de incidentes orquestrada controlada pela Microsoft em coordenação com o cliente, quando necessário. O aplicativo móvel permite que você receba alertas em qualquer lugar.
+- Monitoramento e análise da causa raiz em tempo real: Monitoramento e detecção, com resposta de gerenciamento de incidentes orquestrada controlada pela Microsoft em coordenação com o cliente, quando necessário. O aplicativo móvel permite que você receba alertas em qualquer lugar.
 - Atualizações gerenciadas: Gerenciamento e fornecimento de atualizações de aplicativos, KB do Windows e firmware.
 - Proteção contra ameaças à segurança: proteção contra ameaças por meio da Proteção Avançada contra Ameaças do Microsoft Defender.
 - Atendimento ao cliente: suporte ininterrupto por meio de tíquetes em nosso centro de operações de serviços dedicado, com correção de incidente assistida para casos não automatizados. Controle de acesso baseado em função granular.

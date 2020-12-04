@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53aa25ab0c318efde13788013df09d003b234347
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7b6c5f1f6d86398ab65e60a498614bfc9f42976e
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999670"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474216"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Adicionar licenças ou mais serviços à assinatura de um cliente
-
-**Aplica-se a**
-
-- Partner Center
-- Parceiros do programa Provedor de Soluções na Nuvem
 
 **Funções apropriadas**
 
@@ -35,7 +30,7 @@ Se seu cliente precisar de mais licenças do que a assinatura atual fornece a el
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>Atualizações compatíveis com o programa CSP <a id="upgradesubscription"></a>
 
-As atualizações a seguir têm suporte no Provedor de Soluções na Nuvem:
+Há suporte para as seguintes atualizações no programa Provedor de Soluções na Nuvem:
 
 | Oferta | Possíveis atualizações|
 |---:|:---|

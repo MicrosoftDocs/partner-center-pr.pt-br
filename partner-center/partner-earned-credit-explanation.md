@@ -1,7 +1,7 @@
 ---
 title: Crédito ganho pelo parceiro para serviços gerenciados
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 11/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como o PEC (crédito ganho pelo parceiro) da Microsoft para serviços gerenciados é calculado e pago, além de como garantir que você esteja qualificado.
@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89fce612d5756da3f9674d4170ac8c0c3a48abfe
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 97af446c4021e9785833374131eee2f08431b5fe
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175317"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474301"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Como o crédito ganho pelo parceiro é calculado e pago
 
@@ -38,7 +38,13 @@ Leia também [Restabelecer privilégios de administrador para assinaturas do Azu
 
 - O PEC está associado ao consumo cobrado (passível de cobrança) da propriedade do Azure do cliente no CSP gerenciada pelo parceiro. O PEC é disponibilizado somente para parceiros no CSP cobrados pela Microsoft (provedor indireto e parceiro de cobrança direto). 
 
-- Serviços qualificados: o crédito ganho pelo parceiro é aplicável aos serviços listados nos **preços de consumo do plano do Azure**, que os parceiros podem exportar da página de [preços do plano do Azure](https://partner.microsoft.com/commerce/sales). O crédito ganho pelo parceiro não se aplica a produtos de terceiros identificados como **De Terceiros** na **coluna Marcas** da lista de preços de consumo do plano do Azure, das reservas do plano do Azure, dos produtos na lista de preços do Marketplace e das [Máquinas Virtuais Spot do Azure](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/).
+- Serviços qualificados: o crédito ganho pelo parceiro é aplicável aos serviços listados nos **preços de consumo do plano do Azure**, que os parceiros podem exportar da página de [preços do plano do Azure](https://partner.microsoft.com/commerce/sales). 
+
+- Serviços não qualificados: O crédito obtido pelo parceiro **_não_* _ é aplicável aos seguintes itens:
+    - Reservas do plano do Azure
+    - Produtos de terceiros identificados como _ *Terceiros** na **coluna Marcas** do preço de consumo do plano do Azure    
+    - Produtos da lista de preços do Marketplace
+   - [Máquinas Virtuais Spot do Azure](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
 
 - O PEC é calculado diariamente e pode ser exibido no arquivo de uso diário e no arquivo reconhecimento de fatura mensal. Um parceiro (provedor indireto ou revendedor indireto) deve ter acesso ao dia inteiro (24x7) para garantir que eles obtenham o PEC. O PEC é calculado diariamente nos ativos gerenciados do Azure. O PEC máximo para um determinado período de cobrança (mês) é 15%. Os parceiros que retêm o acesso privilegiado persistente durante o mês (período de acesso) e para todos os recursos qualificados (escopo de acesso) ganharão o PEC completo de 15%. A redução de escopo e período resultará em uma taxa menor de PEC para o mês. O arquivo de uso com classificação diária é mostrado diariamente em um ativo do Azure, independentemente de o PEC ser aplicado ou não. Os parceiros também podem se registrar em alertas para detectar se há alterações no acesso privilegiado persistente.
 
