@@ -20,6 +20,8 @@
       href: transfer-eligibility.md
     - name: Criar e gerenciar o Azure Marketplace Privado
       href: create-manage-private-azure-marketplace.md
+    - name: Gerenciar o Azure Marketplace Privado – PowerShell
+      href: manage-private-azure-marketplace-powershell.md
     - name: Integrações de parceiros do Azure Marketplace
       href: partner-integrations.md
 - name: Recursos gerais
