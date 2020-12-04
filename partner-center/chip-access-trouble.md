@@ -1,22 +1,22 @@
 ---
-title: Problema ao acessar o CHIP
+title: Problema ao acessar a CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Diretrizes para se você tiver problemas para acessar o CHIP
+description: Leia estas diretrizes para ajudá-lo a solucionar problemas com o uso da ferramenta de plataforma de incentivos de canal (CHIP).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d25a04119490c0f7d67c733beb3d3b6931f72bb0
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 87a39479d8a567759356e1b101fdab83a2fa0d94
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418048"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570596"
 ---
-# <a name="trouble-accessing-chip"></a>Problema ao acessar o CHIP
+# <a name="troubleshoot-issues-with-accessing-chip"></a>Solucionar problemas com o acesso ao CHIP
 
 **Funções apropriadas**
 
@@ -29,10 +29,10 @@ Se você não for o contato principal ou o PPA (administrador do programa princi
 
 Se você for o contato principal ou o PPA (administrador do programa principal), deverá ter acesso ao CHIP, pois todas as notificações de registro são enviadas ao contato principal atual ou ao PPA (administrador do programa principal). Esse acesso continua para cada período após o período de registro inicial.
 
-## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-have-had-access-previously"></a>Etapas de solução de problemas para ajudar a acessar o CHIP se você tiver acesso anteriormente
+## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-had-prior-access"></a>Etapas de solução de problemas para ajudar a acessar o CHIP se você tiver acesso anterior
 
 1. Desmarque todos os cookies e abra o CHIP em um navegador privado.
-1. Clique em **configurações do modo de exibição de compatibilidade** no navegador. O CHIP já deve estar listado em Microsoft.com, caso contrário, adicione o site.
+1. Selecione **configurações do modo de exibição de compatibilidade** no navegador. O CHIP já deve estar listado em Microsoft.com, caso contrário, adicione o site.
 
 ## <a name="next-steps"></a>Próximas etapas
 

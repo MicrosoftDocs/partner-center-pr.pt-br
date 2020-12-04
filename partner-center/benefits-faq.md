@@ -9,19 +9,21 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417244"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570681"
 ---
 # <a name="benefits-faq"></a>Perguntas frequentes sobre os benefícios
 
-Aplica-se a:
+**Funções apropriadas**
 
-- Partner Center
-- Partner Center do Microsoft Cloud for US Government
+- Administrador do MPN
+
+Muitas perguntas comuns sobre os benefícios de Microsoft Partner Network (MPN) são abordadas neste artigo.
+
 
 ## <a name="general-questions"></a>Perguntas gerais
 
@@ -87,7 +89,7 @@ Você pode atribuir assinaturas a qualquer pessoa em sua lista de gerenciamento 
 
 1. Entre no painel [Partner Center](https://partner.microsoft.com/dashboard/).
 
-2. Na barra de navegação à esquerda, selecione **MPN**.
+2. No menu do centro de parceiros, selecione **MPN**.
 
 3. Selecione **benefícios** e, em seguida, selecione **Visual Studio**.
 
@@ -96,7 +98,7 @@ Você pode atribuir assinaturas a qualquer pessoa em sua lista de gerenciamento 
 Depois de atribuir a assinatura, o usuário precisa fazer logon no Visual Studio para gerenciá-la.
 
 >[!Note]
-> As assinaturas do Visual Studio podem ser reatribuídas de um assinante para outro após 90 dias de atribuição original
+> As assinaturas do Visual Studio podem ser reatribuídas de um assinante para outros 90 dias após a atribuição original.
 
 ## <a name="technical-benefits-and-support"></a>Benefícios técnicos e suporte
 
@@ -106,7 +108,7 @@ A instalação, ativação e outras ajuda relacionadas a produtos são fornecida
 
 1. Entre no painel [Partner Center](https://partner.microsoft.com/dashboard/).
 
-2. Na barra de navegação à esquerda, selecione **MPN**.
+2. No menu do centro de parceiros, selecione **MPN**.
 
 3. Selecione **benefícios** e, em seguida, selecione **benefícios técnicos**.
 
@@ -115,3 +117,7 @@ A instalação, ativação e outras ajuda relacionadas a produtos são fornecida
 5. Faça logon no [suporte da Microsoft](https://support.microsoft.com/supportforbusiness/productselection).
 
 6. Selecione o produto que você está tentando instalar e, em seguida, crie um tíquete de suporte técnico.
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Ganhe uma especialização avançada para demonstrar sua experiência](advanced-specializations.md)

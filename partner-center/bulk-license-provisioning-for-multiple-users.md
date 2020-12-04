@@ -9,18 +9,14 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: de7b9775be925911dab6a7fd72b8f81a5b701bec
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: b2c59bc40b5092a4a2ee6e06bcb2e49a86e0201d
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527392"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570647"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Atribuir ou revogar licenças ao mesmo tempo para vários usuários em uma conta de cliente
-
-**Aplica-se a**
-
-- Partner Center
 
 **Funções apropriadas**
 
@@ -36,7 +32,7 @@ O Partner Center rastreia e mostra todos os direitos de licença de Propriedade 
 
 ## <a name="assign-licenses-to-multiple-users"></a>Atribuir licenças a vários usuários
 
-1. No menu do **centro de parceiros** , selecione **clientes**e, em seguida, escolha um cliente na lista.
+1. No menu do **centro de parceiros** , selecione **clientes** e, em seguida, escolha um cliente na lista.
 
 2. Selecione **usuários e licenças**.
 
@@ -71,14 +67,14 @@ O Partner Center rastreia e mostra todos os direitos de licença de Propriedade 
 7. Selecione mais de um produto para os usuários marcando a caixa de seleção de cada produto.
     -   Selecione **Exibir planos de serviço** para qualquer produto, para ver e selecionar os planos de serviço de que os usuários precisam.
 
-8. Clique em **Salvar**. O Partner Center abre uma página de confirmação de **licenças atualizadas** listando os usuários e suas novas licenças.
+8. Selecione **Salvar**. O Partner Center abre uma página de confirmação de **licenças atualizadas** listando os usuários e suas novas licenças.
 
 >[!NOTE]
 >Alguns produtos da Microsoft podem não estar disponíveis em determinados locais. Outros produtos dependem de outros produtos ou serviços ou não podem ser atribuídos em conjunto ao mesmo usuário. Depois de salvar, a página de confirmação listará os resultados da atribuição de licença bem-sucedida para todos os usuários e quaisquer erros da atribuição de licença.
 
 ## <a name="revoke-users-license-assignments"></a>Revogar atribuições de licença de usuários
 
-1. No menu do **centro de parceiros** , selecione **clientes**e, em seguida, escolha um cliente na lista.
+1. No menu do **centro de parceiros** , selecione **clientes** e, em seguida, escolha um cliente na lista.
 
 2. Selecione **usuários e licenças**.
 

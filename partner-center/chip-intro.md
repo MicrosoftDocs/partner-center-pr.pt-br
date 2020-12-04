@@ -1,20 +1,20 @@
 ---
-title: Navegando pela plataforma de incentivos de canal (CHIP)
+title: Usar a plataforma de incentivos de canal (CHIP)
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Saiba como usar o CHIP para seu trabalho de incentivos.
+description: Saiba como usar a plataforma de incentivos de canal (CHIP) para seu trabalho de incentivos. Observe que essa plataforma será desativada no final de 2021.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ca669cb62995b84dc246cbc5db5d1b9ada8b8ed
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 386acaadc74c1c8247a42cebc98c3d325ba43511
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418046"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570392"
 ---
 # <a name="navigate-the-channel-incentives-platform-chip"></a>Navegar pela plataforma de incentivos de canal (CHIP)
 
@@ -41,4 +41,4 @@ A partir daí, você pode exibir o **desempenho** e os **ganhos** para o program
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Adicionar usuários à sua conta de CHIP](chip-users.md)
+- [Adicionar usuários à sua conta da CHIP](chip-users.md)

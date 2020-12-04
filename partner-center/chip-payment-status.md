@@ -1,22 +1,22 @@
 ---
-title: Verificar o status do pagamento no CHIP
+title: Verificar o status do pagamento na CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Saiba como verificar o status de pagamento em CHIP.
+description: Saiba como usar a plataforma de incentivos de canal (CHIP) para verificar o status de pagamento. Observe que o CHIP será desativado no final de 2021.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e86030c16405808d3b4036e313e8970c495382e
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: b234f026592a6f6040cc901a3721b144b1c6c4e7
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418051"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570528"
 ---
-# <a name="check-payment-status-in-chip"></a>Verificar o status do pagamento no CHIP
+# <a name="check-payment-status-in-the-channel-incentives-platform-chip"></a>Verificar o status de pagamento na plataforma de incentivos de canal (CHIP)
 
 **Funções apropriadas**
 

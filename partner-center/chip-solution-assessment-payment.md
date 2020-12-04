@@ -1,24 +1,24 @@
 ---
-title: Informações de cálculo e status de pagamento de avaliação de solução
+title: Status de pagamento da avaliação de solução
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Saiba como encontrar informações sobre pagamentos de avaliação de solução.
+description: Use a plataforma de incentivos de canal (CHIP) para encontrar informações sobre oportunidades de avaliação da solução, seus cálculos e seu status de pagamento.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 50aadcb667ff931e53b08a7902bb247798975e2d
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 6ab0cd74e3955a71383b2ba758dc76b1b37fdee6
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418044"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570460"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>Informações de cálculo e status de pagamento de avaliação de solução
 
-Você pode examinar o status de pagamento de um status de oportunidade de avaliação de solução em CHIP. 
+Você pode examinar o status de pagamento de um status de oportunidade de avaliação de solução em CHIP.
 
 ## <a name="how-to-review-your-payment-status"></a>Como revisar seu status de pagamento
 
@@ -52,4 +52,4 @@ As oportunidades devem ter todos os seguintes atributos para que apareçam neste
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Problema ao acessar o CHIP](chip-access-trouble.md) 
+- [Problema ao acessar a CHIP](chip-access-trouble.md) 

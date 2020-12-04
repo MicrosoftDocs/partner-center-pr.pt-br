@@ -1,20 +1,20 @@
 ---
-title: Avaliação de solução status da oportunidade na plataforma de incentivos de canal (CHIP)
+title: Status da oportunidade de avaliação da solução de CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Saiba como encontrar o status da oportunidade de avaliações de solução no CHIP.
+description: Saiba como encontrar o status da oportunidade de avaliação de solução na plataforma de incentivos de canal (CHIP).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 035d500e41e3b28ac566ab42b3406c095dea7b11
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 8f453243d7d59fde84a6660f7160447fc05d68d1
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418047"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570375"
 ---
 # <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>Encontre seu status de oportunidade de avaliação de solução no CHIP
 
@@ -62,7 +62,7 @@ Se você tiver outras dúvidas ou desejar enviar um tíquete de suporte, clique 
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Verificar o status do pagamento no CHIP](chip-payment-status.md)
+- [Verificar o status do pagamento na CHIP](chip-payment-status.md)
 - [Suporte](report-problems-with-partner-center.md)
 
 .

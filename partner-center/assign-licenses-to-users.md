@@ -1,22 +1,22 @@
 ---
-title: Gerenciar usuários e licenças de usuário para contas de clientes
+title: Gerenciar usuários para contas de clientes
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como gerenciar usuários para seus clientes no Partner Center, como criar contas de usuário, adicionar ou remover licenças de usuário, redefinir senhas de usuário e excluir ou restaurar contas de usuário.
+description: Gerenciar usuários para seus clientes no Partner Center – criar contas de usuário, adicionar ou remover licenças de usuário, redefinir senhas e excluir ou restaurar contas de usuário.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474062"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570732"
 ---
-# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gerenciar usuários e licenças de usuário para contas de clientes
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gerenciar usuários e licenças de usuário para contas de clientes 
 
 **Funções apropriadas**
 
@@ -72,25 +72,25 @@ As etapas a seguir se aplicam à adição ou remoção de licenças de usuário 
 
 ## <a name="reset-a-users-password-for-a-customer"></a>Redefinir a senha do usuário para um cliente
 
-1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
+1. Entre no [Painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
 2. No menu do centro de parceiros, **selecione** clientes e, em seguida, escolha um cliente na lista.
 
-3.  No menu do cliente, selecione **Usuários e licenças**. Escolha o usuário na lista.
+3. No menu do cliente, selecione **Usuários e licenças**. Escolha o usuário na lista.
 
-4.  Na parte inferior da tela, selecione **Redefinir senha**. 
+4. Na parte inferior da tela, selecione **Redefinir senha**. 
 
-5.  Envie a nova senha temporária ao usuário.
+5. Envie a nova senha temporária ao usuário.
 
 <a href="" id="deleteuseraccounts"></a>
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Excluir contas de usuário para um cliente
 
-1.  No menu do **centro de parceiros** , selecione **clientes**. Escolha o cliente na lista.
+1. No menu do **centro de parceiros** , selecione **clientes**. Escolha o cliente na lista.
 
-2.  No menu do cliente, selecione **Usuários e licenças**. Escolha o usuário na lista.
+2. No menu do cliente, selecione **Usuários e licenças**. Escolha o usuário na lista.
 
-3.  Na parte inferior da tela, selecione **Excluir conta de usuário**.
+3. Na parte inferior da tela, selecione **Excluir conta de usuário**.
 
 Se precisar restaurar essa conta, você pode encontrá-la na guia **Usuários excluídos** da lista **Usuários e licenças** do cliente. Você tem 30 dias para restaurar um usuário excluído.
 
@@ -98,19 +98,18 @@ Se precisar restaurar essa conta, você pode encontrá-la na guia **Usuários ex
 
 ## <a name="restore-deleted-user-accounts"></a>Restaurar contas de usuário excluídas
 
-1.  No menu do **centro de parceiros** , selecione **clientes** e, em seguida, escolha o cliente na lista.
+1. No menu do **centro de parceiros** , selecione **clientes** e, em seguida, escolha o cliente na lista.
 
-2.  Selecione **usuários e licenças**.
+2. Selecione **usuários e licenças**.
 
-3.  Selecione a guia **Usuários excluídos ( )**. Ela deve mostrar **(1)** ou mais quando houver usuários excluídos que possam ser restaurados.
+3. Selecione a guia **Usuários excluídos ( )**. Ela deve mostrar **(1)** ou mais quando houver usuários excluídos que possam ser restaurados.
 
-4.  Marque uma ou mais caixas de seleção dos usuários excluídos e selecione **Restaurar**.
+4. Marque uma ou mais caixas de seleção dos usuários excluídos e selecione **Restaurar**.
 
     Todas as contas de usuário selecionadas reaparecerão na página **Usuários e licenças**.
 
-## <a name="related-topics"></a>Tópicos relacionados
+## <a name="next-steps"></a>Próximas etapas
 
+- [Atribuir ou revogar licenças de vários usuários](bulk-license-provisioning-for-multiple-users.md)
 
-[Atribuir ou revogar licenças de vários usuários](bulk-license-provisioning-for-multiple-users.md)
-
-[Criar vários usuários para uma conta de cliente](adding-multiple-users-to-a-customer-account.md)
+- [Criar vários usuários para uma conta de cliente](adding-multiple-users-to-a-customer-account.md)
