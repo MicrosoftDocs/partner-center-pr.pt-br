@@ -1,7 +1,7 @@
 ---
 title: Impostos regionais e isenções fiscais
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 12/04/2020
 description: Para parceiros do programa CSP, saiba mais sobre as responsabilidades do imposto por região, como enviar isenções fiscais para vendas do CSP e como obter suporte para perguntas sobre impostos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ea6d654f6124c711ae1cc355f71e6ee956c8c65a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 3777ea3dbf6d889787c942e584087b2378659adb
+ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436415"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96755581"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Leia sobre impostos e detalhes de isenção de imposto por região ou país para parceiros no programa CSP
 
@@ -25,11 +25,11 @@ Aplica-se a:
 
 O programa CSP (provedor de soluções na nuvem) é um canal de vendas focado na revenda de produtos do parceiro. Como resultado, a Microsoft nem sempre é obrigada a cobrar o imposto sobre vendas em faturas de parceiros. As regras variam de acordo com o país e/ou a região. Você pode examinar [detalhes específicos do país e da região para isenção de imposto](#country-and-region-tax-details).
 
-Os parceiros devem trabalhar com seu supervisor fiscal para [isentações de impostos sobre o arquivo](#file-tax-exemptions) com base em suas localizações e onde seus clientes se baseiam.
+Trabalhe com seu supervisor fiscal para [isentações de imposto sobre o arquivo](#file-a-tax-exemption) com base em seu local e nos locais de seus clientes.
 
 ## <a name="country-and-region-tax-details"></a>Detalhes do imposto sobre o país e a região
 
-Informações específicas relacionadas a impostos estão disponíveis para os seguintes países e regiões: [Canadá](#canada), [União Europeia](#european-union), [África do sul](#south-africa), [Turquia](#turkey)e [o Estados Unidos](#united-states). Para Taiwan e Coreia, consulte [detalhes de confirmações de imposto](#tax-receipts-and-daf).
+Informações específicas relacionadas a impostos estão disponíveis para o Canadá e o Estados Unidos. Para Taiwan e Coreia, consulte [detalhes de confirmações de imposto](#tax-receipts-and-daf).
 
 Se você estiver em outro país ou região que cobra impostos, consulte [as informações para outras regiões](#other-regions).
 
@@ -40,20 +40,6 @@ Para perguntas adicionais, [solicite suporte no Partner Center](#support).
 A maioria dos revendedores não está isento de HST/GST/QST. Consulte seu supervisor de imposto para determinar se você está qualificado para isenção e qual documentação você deve fornecer à Microsoft.
 
 Para uma isenção de BC PST, o arquivo é uma isenção de imposto conforme descrito. Forneça seu nº BC PST ou um *Certificado de Isenção Geral* preenchido e assinado.
-
-### <a name="european-union"></a>União Europeia
-
-Nos estados membros da União Europeia, os parceiros devem fornecer seu número de ID de IVA válido reverter o encargo e a cobrança adequada. O número do IVA deve ser aceito como válido.
-
-A Microsoft não dá suporte a crédito e fatura. Antes de vender qualquer assinatura, você deve [registrar seu número de ID de IVA](organization-tax-info.md) no Partner Center.
-
-### <a name="south-africa"></a>África do Sul
-
-A Microsoft agora aplica o IVA padrão sobre conteúdo digital e serviços adquiridos por parceiros na África do Sul. Para excluir o IVA de suas faturas e gerenciá-lo por conta própria, você deve atualizar seu perfil de cobrança de parceiro [enviando o número de ID de IVA da Microsoft](organization-tax-info.md).
-
-### <a name="turkey"></a>Turquia
-
-A Microsoft agora aplica o IVA padrão sobre conteúdo digital e serviços adquiridos por parceiros na Turquia. Para excluir o IVA de suas faturas e gerenciá-lo por conta própria, você deve atualizar seu perfil de cobrança de parceiro [enviando o número de ID de IVA da Microsoft](organization-tax-info.md).
 
 ### <a name="united-states"></a>Estados Unidos
 
@@ -69,33 +55,22 @@ Se você estiver em outro país ou região que cobra impostos, [solicite suporte
 
 As receitas fiscais (para Taiwan ou Coreia) ou o DAF geralmente exigem duas semanas de prazo após a geração da fatura.
 
-## <a name="file-tax-exemptions"></a>Protocole isenções de impostos
+## <a name="file-a-tax-exemption"></a>Protocole uma isenção de imposto
 
-Antes de você arquivar uma isenção de imposto, localize sua **ID da Microsoft** e a **ID do MPN** para incluir no tíquete de suporte:
+Antes de arquivar uma isenção de imposto, certifique-se de entender os seguintes pontos:
 
-1. Entre no [painel do Partner Center](https://partner.microsoft.com/dashboard/).
-2. No menu **configurações** (ícone de engrenagem), escolha **configurações de parceiro**.
-3. Na página **configurações da conta** , escolha **perfil da organização** no menu painel.
-4. Anote sua **ID da Microsoft**.
-5. Na mesma página, escolha **perfil de parceiro** no menu do painel.
-6. Anote sua **ID do MPN**.
+- Você precisa arquivar uma isenção de imposto para cada locatário do CSP.
 
-Em seguida, crie um tíquete de suporte para a Microsoft com suas informações de isenção de imposto:
+- Você precisará enviar seu número de ID do imposto ou número de identificação do empregador (FEIN). Esse número geralmente aparece em seu certificado de imposto.
 
-1. No menu painel, em **suporte**, escolha **solicitações de suporte do parceiro**.
-2. Na página **solicitação do parceiro** , escolha **nova solicitação**. (Você também pode exibir suas solicitações de suporte abertas e fechadas posteriormente nesta página.)
-3. Na etapa **básico** , em **CSP-cobrança e pagamentos**, escolha **selecionar um tipo de problema** e selecione **solicitação de isenção de imposto**.
-4. Na etapa **soluções** , em **você precisa de mais ajuda?**, escolha **Sim**.
-5. Na etapa **detalhes** , preencha o formulário **detalhes do problema** . Não se esqueça de:
+- Dependendo de seu país, região ou estado, sua isenção de imposto sobre vendas tem diretrizes legais específicas para o departamento local de receita de imposto (ou departamento semelhante) e precisa ser gerenciada de acordo. Embora muitos locais tenham certificados de impostos em aberto que são renovados anualmente, alguns locais podem ser renovados em dois ou mais anos. Você deve verificar essa e outras informações verificando seu certificado ou contatando sua autoridade de imposto local.
 
-    - Preencha todos os campos obrigatórios.
-    - Inclua sua ID da **Microsoft** e a **ID do MPN** no campo de **detalhes** .
-    - Inclua qualquer documentação de suporte para seu tíquete no campo anexos.
-
-6. Escolha **Enviar** para enviar em sua solicitação de suporte. A Microsoft enviará um email para você para obter mais informações.
+Quando estiver pronto para arquivar sua isenção de imposto, abra um tíquete com [suporte da Microsoft](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=92930319-ced6-c18b-d7a6-d62b22d60aa5) e forneça as informações apropriadas.
 
 ## <a name="support"></a>Suporte
 
-Para outras perguntas sobre isenção de impostos e reembolsos, solicite suporte no Partner Center. Aguarde duas semanas para a Microsoft entrar em contato e resolver o problema.
+Para perguntas sobre isenção de impostos e reembolsos ou outras perguntas relacionadas a impostos, solicite o suporte no Partner Center. Aguarde duas semanas para a Microsoft entrar em contato e resolver o problema.
 
-Para outras necessidades de documentação relacionada a impostos, solicite também o serviço no Partner Center.
+## <a name="next-steps"></a>Próximas etapas
+
+- [Billing](billing.md)
