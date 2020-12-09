@@ -9,14 +9,20 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a86ee34070b53fb7dcee3ffcd9c11c79a5a4b856
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 87638a036086db933e0375ec232f2d512d73653e
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998384"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534736"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Introdução: O plano do Azure permite que os parceiros comprem o Azure com tarifas pagas conforme o uso para clientes
+
+**Funções apropriadas**
+
+- Agente administrativo
+- Agente de vendas
+- Administrador global
 
 A Microsoft introduziu uma nova experiência de comércio no Partner Center, o plano do Azure.  Com essa nova experiência de comércio, os parceiros terão acesso aos serviços do Azure com tarifas pagas conforme o uso para clientes sob o Contrato de Cliente da Microsoft.
 
@@ -30,7 +36,7 @@ Transfira seus clientes das ofertas deles de CSP do Azure já existentes para os
 >A partir de 1º de fevereiro de 2020, o Contrato do Microsoft Cloud existente será removido do programa CSP. Em seguida, a confirmação (atestado) do parceiro de que o cliente aceitou o novo Contrato de Cliente da Microsoft será obrigatória para todas as outras ofertas, incluindo o Microsoft 365, o Dynamics 365 e o Azure existente. Os parceiros no CSP não poderão fazer um novo pedido para o cliente sem o atestado do Contrato de Cliente da Microsoft. Para obter detalhes, leia [Confirmar a aceitação pelo cliente do Contrato de Cliente da Microsoft](confirm-customer-agreement.md).
 
 
-## <a name="learn-about-the-azure-plan"></a>Saiba mais sobre o plano do Azure
+## <a name="next-steps"></a>Próximas etapas
 
 |**Para fazer isso**   |**Leia isto**   |
 |------------------|---------------------|

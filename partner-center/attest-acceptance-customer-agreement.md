@@ -1,7 +1,7 @@
 ---
 title: Atestar a aceitação do cliente do Contrato de Cliente da Microsoft
 description: Saiba quando faz sentido atestar a aceitação do Contrato de Cliente da Microsoft em nome do seu cliente.
-ms.topic: article
+ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: aarzh-AaronZhang
@@ -9,28 +9,21 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: fcf1a682d0150675f8bc8660e8dd5215d4c4333c
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 921926ba44a592b8d2fb5da0a50697d62d9d95c7
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367330"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534770"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>Atestar a aceitação do Contrato de Cliente da Microsoft em nome do seu cliente
 
-**Aplica-se a**
-
-- Partner Center
-- Centro de administração do Microsoft 365
 
 **Funções apropriadas**
 
+- Administrador global
 - Agente administrativo
-- Agente de vendas
-
-**Tipos de parceiros apropriados**
-
-- Revendedores indiretos, cobrança direta, provedores indiretos
+- Agente de suporte técnico
 
 Este artigo descreve determinados cenários em que talvez seja preciso confirmar a aceitação do Contrato de Cliente da Microsoft em nome do cliente.
 
