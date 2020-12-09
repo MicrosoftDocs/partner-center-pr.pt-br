@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a4472702104d3d4596d57633e80b8e652c624297
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 98ad8e3f78b8181013b21d6146744337de6976bd
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114098"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926654"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Programa de provedor de soluções na nuvem mercados regionais e moedas em que você pode vender ofertas de CSP
 
@@ -41,25 +41,25 @@ Se não houver suporte para o seu país, estabeleça o relacionamento do CSP do 
 
 Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas do CSP para clientes em todos os locais na lista.
 
-| País/Região           | Currency |
+| País/Região           | Moeda |
 | ------------------------ |:--------:|
-| Angola                   |          |
+| Angola                   |   USD    |
 | Benin                    |   USD    |
-| Botsuana                 |          |
+| Botsuana                 |   USD    |
 | Burkina Faso             |   USD    |
 | Burundi                  |   USD    |
 | Camarões                 |   USD    |
-| Cabo Verde               |          |
+| Cabo Verde               |   USD    |
 | República Centro-Africana |   USD    |
 | Chade                     |   USD    |
 | Comores                  |   USD    |
 | Congo                    |   USD    |
 | Congo (RDC)              |   USD    |
-| Côte d’Ivoire            |          |
+| Côte d’Ivoire            |   USD    |
 | Djibuti                 |   USD    |
 | Guiné Equatorial        |   USD    |
 | Eritreia                  |   USD    |
-| Etiópia                 |          |
+| Etiópia                 |   USD    |
 | Polinésia Francesa         |   USD    |
 | Gabão                    |   USD    |
 | Gâmbia                   |   USD    |
@@ -80,7 +80,7 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 | Reunião                  |   USD    |
 | Ruanda                   |   USD    |
 | São Tomé and Príncipe    |   USD    |
-| Senegal                  |          |
+| Senegal                  |   USD    |
 | Seicheles               |   USD    |
 | Serra Leoa             |   USD    |
 | Somália                  |   USD    |
@@ -88,28 +88,28 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 | Santa Helena, Ascensão e Tristão da Cunha|    USD   |
 | Tanzânia                 |   USD    |
 | Togo                     |   USD    |
-| Uganda                   |          |
-| Zâmbia                   |          |
+| Uganda                   |   USD    |
+| Zâmbia                   |   USD    |
 |
 
 ## <a name="asia-and-pacific-region-and-market"></a>Região e mercado da Ásia e do Pacífico
 
 Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas do CSP para clientes em todos os locais na lista.
 
-| País/Região     | Currency |
+| País/Região     | Moeda |
 | --------------     |:--------:|
 |  Bangladesh        |   USD    |
-|  Butão            |          |
+|  Butão            |   USD    |
 |  Brunei Darussalam |   USD    |
-|  Camboja          |          |
+|  Camboja          |   USD    |
 |  RAE de Hong Kong         |   USD    |
 |  Indonésia         |   USD    |
-|  Laos              |          |
+|  Laos              |   USD    |
 |  Macau             |   USD    |
 |  Malásia          |   USD    |
-|  Maldivas          |          |
-|  Myanmar           |          |
-|  Nepal             |          |
+|  Maldivas          |   USD    |
+|  Myanmar           |   USD    |
+|  Nepal             |   USD    |
 |  Filipinas       |   USD    |
 |  Singapura         |   USD    |
 |  Sri Lanka         |   USD    |
@@ -122,7 +122,7 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 
 Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas do CSP para clientes em todos os locais na lista.
 
-|  País/Região        | Currency |
+|  País/Região        | Moeda |
 |  --------------        |:--------:|
 |  Austrália             |   AUD    |
 |  Ilha Christmas      |   AUD    |
@@ -153,7 +153,7 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 
 Se o local da sua empresa for o Brasil, você poderá vender ofertas de CSP para clientes no Brasil.
 
-|  País/Região | Currency |
+|  País/Região | Moeda |
 |  -------------- |:--------:|
 |  Brasil         |   USD    |
 |
@@ -162,9 +162,9 @@ Se o local da sua empresa for o Brasil, você poderá vender ofertas de CSP para
 
 Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas do CSP para clientes em todos os locais na lista.
 
-|  País/Região | Currency |
+|  País/Região | Moeda |
 |  -------------- |:--------:|
-|  Canadá         |   CAD    |
+|  Canada         |   CAD    |
 |  São Pedro e Miquelon|  CAD   |
 |
 
@@ -172,16 +172,16 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 
 Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas do CSP para clientes em todos os locais na lista.
 
-|  País/Região | Currency  |
+|  País/Região | Moeda  |
 |  -------------- |:--------:|
 |  Ilhas Aland  |   EUR    |
 |  Andorra        |   EUR    |
 |  Áustria        |   EUR    |
 |  Bélgica        |   EUR    |
 |  Ilha Bouvet  |   EUR    |
-|  Bulgária       |          |
+|  Bulgária       |   EUR    |
 |  Croácia        |   EUR    |
-|  Chipre         |          |
+|  Chipre         |   EUR    |
 |  República Tcheca |   EUR    |
 |  Dinamarca        |   DKK    |
 |  Estônia        |   EUR    |
@@ -191,7 +191,7 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 |  Alemanha        |   EUR    |
 |  Gibraltar      |   GBP    |
 |  Grécia         |   EUR    |
-|  Groelândia      |          |
+|  Groelândia      |   EUR    |
 |  Guernsey       |   GBP    |
 |  Hungria        |   EUR    |
 |  Islândia        |   EUR    |
@@ -203,8 +203,8 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 |  Liechtenstein  |   EUR    |
 |  Lituânia      |   EUR    |
 |  Luxemburgo     |   EUR    |
-|  Malta          |          |
-|  Mônaco         |          |
+|  Malta          |   EUR    |
+|  Mônaco         |   EUR    |
 |  Países Baixos    |   EUR    |
 |  Noruega         |   NOK    |
 |  Polônia         |   EUR    |
@@ -225,7 +225,7 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 
 Se o local da sua empresa for a Índia, você poderá vender ofertas de CSP para clientes da Índia.
 
-|  País/Região | Currency |
+|  País/Região | Moeda |
 |  -------------- |:--------:|
 |  Índia          |   INR    |
 |
@@ -234,7 +234,7 @@ Se o local da sua empresa for a Índia, você poderá vender ofertas de CSP para
 
 Se o local da sua empresa for o Japão, você poderá vender ofertas de CSP para clientes no Japão.
 
-|  País/Região | Currency |
+|  País/Região | Moeda |
 |  -------------- |:--------:|
 |  Japão          |   JPY    |
 |
@@ -243,7 +243,7 @@ Se o local da sua empresa for o Japão, você poderá vender ofertas de CSP para
 
 Se o local da sua empresa for Coréia, República do, você poderá vender ofertas de CSP para clientes na Coreia, República do.
 
-|  País/Região    | Currency |
+|  País/Região    | Moeda |
 |  --------------    |:--------:|
 |  Coreia, República da|   KRW    |
 |
@@ -252,7 +252,7 @@ Se o local da sua empresa for Coréia, República do, você poderá vender ofert
 
 Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas do CSP para clientes em todos os locais na lista.
 
-|  País/Região | Currency |
+|  País/Região | Moeda |
 |  -------------- |:--------:|
 |  Anguilla       |   USD    |
 |  Antártica     |   USD    |
@@ -278,13 +278,13 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 |  Ilhas Malvinas|  USD    |
 |  Guiana Francesa  |   USD    |
 |  Granada        |   USD    |
-|  Guadalupe     |          |
+|  Guadalupe     |   USD    |
 |  Guatemala      |   USD    |
 |  Guiana         |   USD    |
 |  Haiti          |   USD    |
 |  Honduras       |   USD    |
 |  Jamaica        |   USD    |
-|  Martinica     |          |
+|  Martinica     |   USD    |
 |  México         |   USD    |
 |  Montserrat     |   USD    |
 |  Nicarágua      |   USD    |
@@ -315,9 +315,9 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 
 |  País/Região | Moeda |
 |  -------------- |:--------:|
-|  Afeganistão    |          |
+|  Afeganistão    |   USD    |
 |  Albânia        |   USD    |
-|  Argélia        |          |
+|  Argélia        |   USD    |
 |  Armênia        |   USD    |
 |  Azerbaijão     |   USD    |
 |  Bahrein        |   USD    |
@@ -328,21 +328,21 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 |  Geórgia        |   USD    |
 |  Iraque           |   USD    |
 |  Israel         |   USD    |
-|  Jordânia         |          |
+|  Jordânia         |   USD    |
 |  Cazaquistão     |   USD    |
 |  Kosovo         |   USD    |
 |  Kuwait         |   USD    |
 |  Quirguistão     |   USD    |
 |  Líbano        |   USD    |
 |  Lesoto        |   USD    |
-|  Líbia          |          |
+|  Líbia          |   USD    |
 |  Macedônia, República da|   |
 |  Mauritânia     |   USD    |
-|  Moldova        |          |
-|  Mongólia       |          |
-|  Montenegro     |          |
+|  Moldova        |   USD    |
+|  Mongólia       |   USD    |
+|  Montenegro     |   USD    |
 |  Marrocos        |   USD    |
-|  Moçambique     |          |
+|  Moçambique     |   USD    |
 |  Omã           |   USD    |
 |  Paquistão       |   USD    |
 |  Território Palestino, Ocupado |        |
@@ -351,22 +351,22 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 |  Sérvia         |   USD    |
 |  África do Sul   |   USD    |
 |  Suazilândia      |   USD    |
-|  Tadjiquistão     |          |
+|  Tadjiquistão     |   USD    |
 |  Tunísia        |   USD    |
 |  Turquia         |   USD    |
-|  Turcomenistão   |          |
+|  Turcomenistão   |   USD    |
 |  Ucrânia        |   USD    |
 |  Emirados Árabes Unidos| USD |
-|  Uzbequistão     |          |
+|  Uzbequistão     |   USD    |
 |  Iêmen          |   USD    |
-|  Zimbábue       |          |
+|  Zimbábue       |   USD    |
 |
 
 ## <a name="new-zealand-region-and-market"></a>Região e mercado da Nova Zelândia
 
 Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas do CSP para clientes em todos os locais na lista.
 
-|  País/Região | Currency |
+|  País/Região | Moeda |
 |  -------------- |:--------:|
 |  Samoa Americana |   NZD    |
 |  Nova Zelândia    |   NZD    |
@@ -378,7 +378,7 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 
 Se o local da sua empresa for Rússia, você poderá vender ofertas do CSP para clientes na Rússia.
 
-|  País/Região | Currency |
+|  País/Região | Moeda |
 |  -------------- |:--------:|
 |  Rússia         |    RUB   |
 |
@@ -387,7 +387,7 @@ Se o local da sua empresa for Rússia, você poderá vender ofertas do CSP para 
 
 Se o local da sua empresa for Taiwan, você poderá vender ofertas de CSP para clientes em Taiwan.
 
-|  País/Região | Currency |
+|  País/Região | Moeda |
 |  -------------- |:--------:|
 |  Taiwan         |   TWD    |
 |
@@ -396,7 +396,7 @@ Se o local da sua empresa for Taiwan, você poderá vender ofertas de CSP para c
 
 Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas do CSP para clientes em todos os locais na lista.
 
-|  País/Região       | Currency |
+|  País/Região       | Moeda |
 |  -------------        |:--------:|
 |  Estados Unidos        |   USD    |
 |  Territórios Insulares Ilhas Menores Distantes dos EUA|   USD    |
