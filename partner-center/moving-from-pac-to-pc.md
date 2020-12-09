@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1e06194bd83b5a2c9c2ed32ee32d4b4220a42dcf
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 8a7ed3ad04846b1e222d3827488a8ac188653cac
+ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114726"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "96869275"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Migração do PAC (Centro de Administração do Parceiro) para o Partner Center
 
@@ -31,14 +31,11 @@ O Partner Center está evoluindo para o único lugar em que você gerenciará su
 |**Ação**   |**PAC**   |**Partner Center**   |
 |--------------|:--------------|:---------------|
 |A visão geral de alto nível da atividade e dos clientes da sua conta|Tela de Início|Partner Center|
-|Adquirir novos clientes e fornecer cotações para serviços pagos e de avaliação|Criar seu Negócio -> Enviar cotação|Cotações pagas não estão disponíveis. As avaliações do CSP estarão disponíveis se o parceiro consultor tornar-se um revendedor indireto do CSP e associar-se a um fornecedor indireto do CSP que dê suporte a avaliações. |
-|Solicitar relacionamentos|(Revendedores e Consultores) Criar seu Negócio-> Enviar solicitação DAP|(Revendedores e consultores) Clientes -> Solicitar um relacionamento de revendedor (veja a observação abaixo)|
+|Adquirir novos clientes e fornecer cotações para serviços pagos e de avaliação|Criar seu Negócio -> Enviar cotação|Partner Center-> avaliações e ofertas de compra |
+|Solicitar relacionamentos|(Revendedores e Consultores) Criar seu Negócio-> Enviar solicitação DAP|Clientes-> solicitar uma relação (consulte a observação abaixo)|
 |Gerenciar seus clientes|Gerenciamento de Clientes -> Lista de clientes|Equipe do Partner Center -> Clientes|
-|Gerenciar assinaturas do cliente|Gerenciamento de Clientes -> Lista de clientes -> selecione o cliente|Partner Center-> clientes-> selecione cliente ou adicione seu cliente à lista de **favoritos** alternando a estrela na lista de clientes-e, em seguida, selecione o slide de **favoritos** e vá diretamente para **gerenciar assinaturas** para o cliente.|
-|Administrar serviços em nome do seu cliente|Gerenciamento de Clientes -> selecione o cliente -> selecione o botão Administrar|Partner Center-> clientes-> selecione administrar serviços na lista suspensa-> selecione serviço ou adicione o cliente à lista de **favoritos** , alternando a estrela na lista de clientes-e, em seguida, selecione o slide de **favoritos** e vá diretamente para **administrar serviços** para o serviço necessário.|
+|Gerenciar assinaturas do cliente|Gerenciamento de Clientes -> Lista de clientes -> selecione o cliente|Partner Center-> clientes-> selecionar cliente ou pesquisar um cliente por nome ou nome de domínio. Em seguida, vá para **usuários e licenças** para o cliente.|
+|Administrar serviços em nome do seu cliente|Gerenciamento de Clientes -> selecione o cliente -> selecione o botão Administrar|Partner Center-> clientes-> selecionar cliente ou pesquisar um cliente por nome ou nome de domínio. Em seguida, selecione administrar serviços na lista suspensa-> selecione serviço.|
 |Criar solicitações de serviço para o cliente|Solicitações de serviço -> selecione o cliente -> selecione o botão + | Partner Center -> Solicitações de serviço -> Solicitações de cliente -> selecione o cliente -> Nova solicitação|
 |Gerenciar solicitações de atendimento ao cliente| Solicitações de serviço -> selecione o cliente|Partner Center-solicitações de serviço de >-> solicitações de clientes-> selecione cliente ou adicione a solicitação de serviço à lista de **favoritos** , alternando a estrela no modo de exibição solicitações de cliente para o cliente – em seguida, selecione **o slide de favoritos,** selecione a guia solicitações de **suporte** e vá diretamente para a solicitação de serviço ou exiba as atualizações diretamente dos **favoritos**.|
 |Exibir integridade do Microsoft Online Services que você gerencia|Integridade do serviço -> Integridade agregada|Partner Center -> Integridade do serviço|
-
->Importante<br>
-Você não poderá enviar Cotações Pagas e de Avaliação para os clientes por meio do Partner Center. Além disso, para pesquisar clientes no Partner Center, use o nome do cliente ou os domínios do cliente disponíveis quando você estabeleceu a relação de parceria com o cliente.
