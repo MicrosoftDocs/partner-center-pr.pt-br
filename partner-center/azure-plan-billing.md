@@ -9,36 +9,36 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d8bb85357d796ae4917faf91c93db8fef4369c2
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 1dc683c194de158dc7a4dac541b37631f3be1f1e
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92334008"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534685"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nova experiência de comércio no CSP – Cobrança do Azure 
 
-**Funções apropriadas:**
+**Funções apropriadas**
 
 - Agente administrativo
 - Administrador de cobrança
 - Administrador global
 
-A cobrança no âmbito do plano do Azure é uma experiência de cobrança simplificada usando uma data de cobrança única alinhada e um período de cobrança baseado no mês civil.
+Este artigo explica como acessar e entender a estrutura do arquivo de reconciliação e da fatura relacionada à cobrança do plano do Azure. A cobrança no âmbito do plano do Azure é uma experiência de cobrança simplificada usando uma data de cobrança única alinhada e um período de cobrança baseado no mês civil.
 
 ## <a name="summary-of-billing-essentials"></a>Resumo dos conceitos básicos de cobrança
 
-- **Data da fatura** : A fatura e o arquivo de reconciliação estarão disponíveis na API/no Painel do Partner Center até o dia oito (à meia-noite, UTC).
+- **Data da fatura**: A fatura e o arquivo de reconciliação estarão disponíveis na API/no Painel do Partner Center até o dia oito (à meia-noite, UTC).
 
-- **Período de cobrança da fatura** : O período de cobrança da fatura é alinhado ao mês civil, por exemplo, 1/10 – 31/10, 1/11 – 30/11.
+- **Período de cobrança da fatura**: O período de cobrança da fatura é alinhado ao mês civil, por exemplo, 1/10 – 31/10, 1/11 – 30/11.
 
-- **Períodos de serviço de cobrança** : As cobranças serão alinhadas ao mês civil. Por exemplo, se o parceiro cobrado adicionar serviços do Azure por meio de um plano do Azure em 15/10 e o cliente iniciar o consumo de serviços do Azure em 10/15, então o parceiro cobrado receberá a fatura/o reconhecimento em 8/11 para o consumo do cliente referente ao período de serviço 15/10 – 31/10. A fatura do próximo mês, que será gerada em 08/12, conterá todos os encargos referentes ao período de serviço de 01/11 – 31/11.
+- **Períodos de serviço de cobrança**: As cobranças serão alinhadas ao mês civil. Por exemplo, se o parceiro cobrado adicionar serviços do Azure por meio de um plano do Azure em 15/10 e o cliente iniciar o consumo de serviços do Azure em 10/15, então o parceiro cobrado receberá a fatura/o reconhecimento em 8/11 para o consumo do cliente referente ao período de serviço 15/10 – 31/10. A fatura do próximo mês, que será gerada em 08/12, conterá todos os encargos referentes ao período de serviço de 01/11 – 31/11.
 
-- **Condição de pagamento da fatura** : Líquido de 60 dias.
+- **Condição de pagamento da fatura**: Líquido de 60 dias.
 
-- **Moeda da fatura** : Os parceiros continuarão sendo cobrados na moeda atribuída ao país do cliente. Por exemplo, se o parceiro cobrado estiver na Irlanda com clientes no Reino Unido, na Noruega e na Alemanha, ele receberá faturas/reconhecimentos em GBP, NOK e EUR.
+- **Moeda da fatura**: Os parceiros continuarão sendo cobrados na moeda atribuída ao país do cliente. Por exemplo, se o parceiro cobrado estiver na Irlanda com clientes no Reino Unido, na Noruega e na Alemanha, ele receberá faturas/reconhecimentos em GBP, NOK e EUR.
 
-- **Incentivos para Parceiros** : pago 45 dias após o final do mês da fatura.
+- **Incentivos para Parceiros**: pago 45 dias após o final do mês da fatura.
 
 ## <a name="access-your-invoices-and-reconciliation-files"></a>Acessar seus arquivos de fatura e reconciliação
 
@@ -48,13 +48,13 @@ Para acessar o arquivo de fatura e reconciliação:
 
 1. Entre no [Painel](https://partner.microsoft.com/dashboard/) do Partner Center.
 
-2. No menu do Partner Center, selecione **Cobrança** .
+2. No menu do Partner Center, selecione **Cobrança**.
 
 3. Selecione a guia para a **Recorrente** e a **Única** e a moeda em que você está interessado.
 
    :::image type="content" source="images/azure/billing3.png" alt-text="cobrança":::
 
-4. Selecione **Fatura** ou **Arquivo de reconciliação** .  
+4. Selecione **Fatura** ou **Arquivo de reconciliação**.  
 
    Para exibir os arquivos históricos de faturas e reconhecimento, expanda a linha do histórico de cobrança, abaixo.
 
@@ -106,7 +106,7 @@ Para acessar o arquivo de fatura e reconciliação:
 
 5. Examine o arquivo de reconhecimento de fatura e o arquivo de uso de classificação diária para obter detalhes adicionais de cobrança.
 
-   :::image type="content" source="images/azure/invoice1.png" alt-text="cobrança":::
+   :::image type="content" source="images/azure/invoice1.png" alt-text="fatura":::
 
 ## <a name="read-the-invoice-reconciliation-file"></a>Ler o arquivo de reconciliação/fatura
 
@@ -134,7 +134,7 @@ Para acessar o arquivo de fatura e reconciliação:
 
   - O medidor se qualificou para **Crédito ganho pelo parceiro para serviços gerenciados** de 08/07 – 31/07 (observe que o preço unitário efetivo é o preço de varejo menos os créditos ganhos pelo parceiro).
 
-   :::image type="content" source="images/azure/pecfinal.png" alt-text="cobrança":::
+   :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2":::
 
 ## <a name="invoice-in-customer-currency"></a>Fatura na moeda do cliente
 
@@ -142,7 +142,7 @@ Os serviços do Azure por meio de um plano do Azure serão precificados em USD e
 
 A Microsoft usará o Thomson Reuters para determinar a taxa de FX para o preço da moeda para a conversão de cobrança. As taxas de câmbio serão atualizadas e disponibilizadas no dia anterior ao primeiro dia de cada mês em que forem aplicadas.
 
-**Exemplo** :  Os encargos de uso do período de serviço de 1º de agosto a 31 de agosto serão cobrados usando a taxa de câmbio publicada no dia 31 de julho. Esses encargos serão exibidos na fatura de setembro e a taxa de câmbio poderá ser observada na última página da fatura.
+**Exemplo**:  Os encargos de uso do período de serviço de 1º de agosto a 31 de agosto serão cobrados usando a taxa de câmbio publicada no dia 31 de julho. Esses encargos serão exibidos na fatura de setembro e a taxa de câmbio poderá ser observada na última página da fatura.
 
 ## <a name="azure-reservations"></a>Reservas do Azure
 
@@ -160,7 +160,7 @@ A experiência de gastos do Azure existente é atualizada para dar suporte à no
 
 Já que o modelo de cobrança para os serviços do Azure por meio de um plano do Azure é o consumo pós-pago, para evitar uma cobrança maior do que o previsto, os parceiros podem aplicar um orçamento mensal e acompanhar o percentual de uso. Um orçamento pode ser aplicado a um cliente ou a vários clientes ao mesmo tempo. 
 
-:::image type="content" source="images/azure/azurespend.png" alt-text="cobrança":::
+:::image type="content" source="images/azure/azurespend.png" alt-text="Gastos do Azure":::
 
 ## <a name="next-steps"></a>Próximas etapas
 

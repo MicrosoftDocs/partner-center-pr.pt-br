@@ -9,19 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ff64c265aadacca5389c16168d1e161936f5e88
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468524"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570698"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Visão geral de cobrança para parceiros do programa CSP que trabalham no Partner Center 
-
-**Aplica-se a**
-
-- Partner Center
-- Parceiros no programa CSP (Provedor de Soluções na Nuvem)
 
 **Funções apropriadas**
 
@@ -31,13 +26,16 @@ ms.locfileid: "87468524"
 - Agente de suporte técnico
 - Agente de vendas
 
+Este artigo fornece as informações básicas de cobrança e fatura para parceiros CSP no Partner Center, incluindo como cobrar os clientes e como encontrar e ler sua fatura.
+
+
 ## <a name="find-your-bill"></a>Encontre sua fatura
 
 Para encontrar sua fatura:
 
-1. [Entre no painel do Partner Center](https://partner.microsoft.com/dashboard/home).
+1. Entre no [Painel](https://partner.microsoft.com/dashboard/home) do Partner Center.
 
-2. No menu à esquerda, escolha **Cobrança**.
+2. No menu do Partner Center, escolha **Cobrança**.
 
 3. Na página **Cobrança**, você pode baixar sua conta mais recente ou as listas anteriores na seção **Histórico de cobrança**.
 
@@ -45,7 +43,7 @@ Para encontrar sua fatura:
 
 A Microsoft não tem requisitos ou condições sobre como você deve administrar seu sistema de faturas.
 
-Para determinar o uso de um cliente, [confira seus arquivos de reconciliação](#find-your-bill). Você pode usar o nome do cliente e outros campos relevantes para determinar o uso.
+Para determinar o uso de um cliente, confira seus [arquivos de reconciliação](#find-your-bill). Use o nome do cliente e outros campos relevantes para determinar o uso.
 
 ### <a name="billing-types"></a>Tipos de cobrança
 
@@ -173,3 +171,8 @@ Talvez você precise solicitar um crédito ou uma nova cobrança pelos seguintes
 - Um reembolso de imposto foi aplicado depois que a fatura foi gerada. Você pode solicitar um crédito ou nova cobrança para fazer o reembolso de imposto retroceder à fatura original. Isso também é válido para reembolsos. Você pode solicitar um crédito ou uma nova cobrança da fatura original e receber um reembolso.
 
 **Para todas as transações únicas e recorrentes**, a Microsoft pode emitir uma nota de crédito quando você solicita um crédito ou uma nova cobrança. A fatura é cancelada quando o crédito é emitido. 
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Entenda sua fatura e seu arquivo de reconciliação](read-your-bill.md)
+- [Cenários comuns de cobrança para parceiros do programa CSP](common-billing-scenarios.md)

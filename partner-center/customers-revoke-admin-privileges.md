@@ -1,7 +1,7 @@
 ---
 title: Obter privilégios de administrador do cliente
 ms.topic: how-to
-ms.date: 06/19/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenha as permissões necessárias para gerenciar o serviço ou a assinatura de um cliente em nome dele. Saiba como as permissões são concedidas, revogadas e gerenciadas.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: dcfc552016560ecc3167deebf96f7a75a72048bc
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6f99c9ed9fb43136bccf0d3024377ba2208ed1a1
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545897"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534872"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Obter permissões para gerenciar o serviço ou a assinatura de um cliente
 
@@ -47,7 +47,7 @@ Para gerenciar um serviço ou uma assinatura de um cliente em nome dele, o clien
 6.  Para gerenciar a conta, os serviços, os usuários e as licenças do cliente, expanda o registro do cliente selecionando a seta para baixo próximo ao nome e, em seguida, selecione o portal de administração do serviço que deseja gerenciar.
 
 >[!IMPORTANT]  
->Os clientes podem transferir ou remover as permissões de administrador no portal de administração de um serviço. No entanto, a menos e até que você renegocie seu contrato com o cliente, você continua sendo responsável por fornecer suporte ao cliente e cumprir os termos do Contrato do Revendedor de Soluções de Nuvem, mesmo depois de um cliente transferir ou remover as permissões de administrador. Nessa situação, se o cliente precisar de ajuda, entre em contato com o Suporte da Microsoft para abrir uma solicitação de serviço em nome do cliente.
+>Os clientes podem transferir ou remover as permissões de administrador no portal de administração de um serviço. No entanto, você precisa informar ao cliente que a remoção de suas permissões de administrador significa que não será mais possível abrir uma solicitação de serviço junto à Microsoft em seu nome. Você não poderá abrir esses tipos de solicitações de serviço em nome do cliente até renegociar seu contrato com ele.
 
 Os clientes podem descobrir quais dos parceiros têm privilégios de administrador no respectivo locatário no portal de administração do Office 365. Para fazer isso:
 

@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f94b11c4feb9cd1bedd97bebc537a504f9c4d127
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3f04708d3b7e2c86c88541931c120a6649674fb
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999350"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570783"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Criar uma conta do Partner Center para gerenciar os benefícios e as competências de rede
 
@@ -25,21 +25,25 @@ ms.locfileid: "90999350"
 
 Antes de criar uma conta no Partner Center, sua empresa deve ser membro do Microsoft Partner Network. Se não for um membro da rede, você pode [se inscrever agora](https://partner.microsoft.com/commercial#). Depois de criar uma conta do Partner Center, Assista a este vídeo rápido para[Descobrir seu painel](https://vimeo.com/290338211).
 
-## <a name="before-you-begin"></a>Antes de começar
+## <a name="get-a-work-email-address-before-setting-up-a-partner-center-account"></a>Obter um endereço de email de trabalho antes de configurar uma conta do Partner Center
+
+Sua empresa precisa comprar um domínio de email para que você possa configurar endereços de email de trabalho para seus funcionários. Trabalhe com seu departamento de TI para comprar um domínio de email, pois esse é um processo técnico. Use o novo email para configurar seu locatário do Azure AD e sua conta do Partner Center.
+
+## <a name="get-started"></a>Introdução
 
 Para criar uma conta no Partner Center, você precisará ter em mãos as informações a seguir. É recomendável coletar estes itens antes de começar:
 
--   Email de trabalho do administrador global.
+- Email de trabalho do administrador global.
 
--   Caso não tenha certeza de qual é a conta corporativa da sua empresa, confira [A conta corporativa da sua empresa e o Partner Center](azure-active-directory-tenants-and-partner-center.md). Caso sua empresa não tenha uma conta corporativa, você poderá criar uma durante o processo de criação da conta. 
+- Caso não tenha certeza de qual é a conta corporativa da sua empresa, confira [A conta corporativa da sua empresa e o Partner Center](azure-active-directory-tenants-and-partner-center.md). Caso sua empresa não tenha uma conta corporativa, você poderá criar uma durante o processo de criação da conta. 
 
--   A razão social e o endereço da sua empresa.  
+- A razão social e o endereço da sua empresa.  
 
--   Autoridade para assinar contratos legais. Verifique se você tem autorização para assinar contratos legais em nome da sua empresa, pois deverá fazer isso durante o processo de registro.
+- Autoridade para assinar contratos legais. Verifique se você tem autorização para assinar contratos legais em nome da sua empresa, pois deverá fazer isso durante o processo de registro.
 
--   Nome e email corporativo da pessoa que você deseja que atue como seu contato principal. Para ajudar a garantir a segurança e a privacidade da sua empresa, enviaremos um email para seu contato principal para verificar se (1) ele ou ela se inscreveu em uma conta do Partner Center e se (2) este endereço de email pertence à sua empresa. Depois que o contato principal verificar o endereço de email, continuaremos nossa análise das informações fornecidas por você.
+- Nome e email corporativo da pessoa que você deseja que atue como seu contato principal. Para ajudar a garantir a segurança e a privacidade da sua empresa, enviaremos um email para seu contato principal para verificar se (1) ele ou ela se inscreveu em uma conta do Partner Center e se (2) este endereço de email pertence à sua empresa. Depois que o contato principal verificar o endereço de email, continuaremos nossa análise das informações fornecidas por você.
 
-Verificaremos essas informações durante o processo de criação da conta. 
+Verificaremos essas informações durante o processo de criação da conta. Para obter informações sobre o processo de verificação, confira [Verificação da conta](verification-responses.md)
  
 ## <a name="create-a-partner-center-account"></a>Criar uma conta do Partner Center
 

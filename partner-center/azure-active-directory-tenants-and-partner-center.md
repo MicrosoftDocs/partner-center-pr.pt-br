@@ -9,18 +9,14 @@ ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92333818"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534787"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Criar uma conta corporativa que vincula a sua empresa à sua conta do Partner Center
-
-**Aplica-se a**
-
-- Partner Center
 
 **Funções apropriadas**
 
@@ -71,3 +67,8 @@ Ao comprar uma assinatura do Azure, você está essencialmente alugando um espa�
 Uma conta corporativa do Azure é uma representação virtual dedicada e isolada da sua empresa na nuvem pública do Azure, criada quando você assina um serviço de nuvem da Microsoft, como o Azure, o Microsoft Intune ou o Office 365.
 
 Sua conta corporativa hospeda os usuários do Azure AD e as informações sobre eles – senhas, dados de perfil, permissões etc. A conta corporativa também contém grupos, aplicativos e outras informações pertencentes a uma empresa e à segurança dela.
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Gerenciar sua conta do Partner Center](partner-center-account-setup.md)
+- [Rastrear o status da verificação](verification-responses.md)

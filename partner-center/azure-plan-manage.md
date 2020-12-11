@@ -9,16 +9,21 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4bbeb417fdc5964d66f754a789873c1dbc8b1d25
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000600"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534923"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Gerenciar assinaturas e recursos no âmbito do plano do Azure
 
-Ao fazer a transição de um cliente para o plano do Azure, você recebe direitos de administrador no Azure (direitos de proprietário da assinatura por meio do recurso Administrador em nome de) por padrão.
+**Funções apropriadas**
+
+- Agente administrativo
+
+
+Este artigo explica como os parceiros CSP podem usar diferentes opções de RBAC (controle de acesso baseado em função) para obter controle operacional e gerenciamento dos recursos do Azure de um cliente. Ao fazer a transição de um cliente para o plano do Azure, você recebe direitos de administrador no Azure (direitos de proprietário da assinatura por meio do recurso Administrador em nome de) por padrão.
 
  > [!NOTE]
  > Os direitos de administrador na assinatura do Azure podem ser removidos pelo cliente no âmbito da assinatura, do grupo de recursos ou da carga de trabalho. 
@@ -29,7 +34,7 @@ Ao fazer a transição de um cliente para o plano do Azure, você recebe direito
 
 - **Azure Lighthouse**: O AOBO não permite a flexibilidade de criar grupos distintos que funcionem com clientes diferentes ou para habilitar funções diferentes para grupos ou usuários. Usando o Azure Lighthouse, você pode atribuir diferentes grupos a diferentes clientes ou funções. Como os usuários terão o nível apropriado de acesso por meio do gerenciamento de recursos delegado do Azure, você poderá reduzir o número de usuários que têm a função de Agente Administrador (e, portanto, ter acesso total por meio do AOBO). Isso ajuda a melhorar a segurança limitando o acesso desnecessário aos recursos de seus clientes. Isso também proporciona mais flexibilidade para gerenciar vários clientes em escala. Para obter mais informações, leia [Azure Lighthouse e o programa Provedor de Soluções na Nuvem](/azure/lighthouse/concepts/cloud-solution-provider).
 
--  **Diretório ou usuários convidados ou [entidades de serviço](/azure/active-directory/develop/app-objects-and-service-principals)** : Você pode delegar acesso granular a assinaturas do CSP adicionando usuários no diretório Customer ou adicionando usuários convidados e atribuindo funções RBAC específicas.
+- **Diretório ou usuários convidados ou [entidades de serviço](/azure/active-directory/develop/app-objects-and-service-principals)** : Você pode delegar acesso granular a assinaturas do CSP adicionando usuários no diretório Customer ou adicionando usuários convidados e atribuindo funções RBAC específicas.
 
 A Microsoft recomenda que os usuários tenham as permissões mínimas necessárias para realizar seu trabalho como uma prática de segurança. Confira [Recursos do Azure Active Directory Privileged Identity Management](/azure/active-directory/privileged-identity-management/pim-configure).
 
