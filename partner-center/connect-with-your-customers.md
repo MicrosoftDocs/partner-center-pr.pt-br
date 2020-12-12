@@ -9,18 +9,15 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: cb8a3403968ddf5c83c7fdbd1d1af6f6f740d1ff
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 666bc745414829b23cc73ba34d2a45b5e7b5653d
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556303"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354552"
 ---
 # <a name="connect-with-customers"></a>Conectar-se com clientes
 
-**Aplica-se a:**
-
-- Partner Center
 
  **Funções apropriadas**
 

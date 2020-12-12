@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 616f706ddb4613f927e0c2830dd794fa3db3944e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 05c46faa3fd012677b615caa228cf4f7c6fe6c90
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435395"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354569"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Cenários de cobrança mensal de exemplo para novas assinaturas, alteração de valores de licença ou suspensão
 
@@ -39,7 +39,7 @@ Em 15 de fevereiro, o arquivo de reconciliação baseado em licenças conterá a
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/02/2018         |12/03/2018    |Taxa do Ciclo   |4,00       |1        |4,00 |
 
-## <a name="change-license-quantity"></a>Alterar quantidade de licenças
+## <a name="change-license-quantity"></a>Alterar a quantidade de licenças
 
 Sua data de cobrança é no 15º dia de cada mês. Em 13 de janeiro, você compra uma nova assinatura com uma licença por US$4/mês e seleciona a cobrança mensal. Em 15 de janeiro, o arquivo de reconciliação baseado em licenças conterá as seguintes linhas de cobrança:
 
@@ -53,7 +53,7 @@ Em 1º de fevereiro, você aumentará sua quantidade de licença de uma para dua
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 | 13/01/2018        |12/02/2018    |Proporcional à Instância do Ciclo   |-4,00       |1        |-4,00   |
 |13/01/2018         |31/01/2018    | Proporcional à Instância do Ciclo   |2.45       |1        |2.45    |
-|1/02/2018         |12/02/2018    | Proporcional à Instância do Ciclo   |1.55       |2        |3,10    |
+|1/02/2018         |12/02/2018    | Proporcional à Instância do Ciclo   |1.55       |2        |3.10    |
 |13/02/2018         |12/03/2018    | Proporcional à Instância do Ciclo   |4,00       |2        |8,00    |
 
 O preço mensal é de 4,00 e há 31 dias no termo de serviço: 13/01/2018 a 12/02/2018. Isso equivale a um preço diário de 0,129 (4/31).
@@ -107,3 +107,7 @@ Preço unitário = dias no termo de serviço x preço diário x número de licen
 Há 12 dias no termo de cancelamento de 01/03/2018 a 12/03/2018.
 
 Portanto, o preço unitário =-1,716 (12 x 0,143 x (-1)).
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Cenários de cobrança para uma única vez e selecione compras recorrentes](common-billing-scenarios-onetime-recurring.md)

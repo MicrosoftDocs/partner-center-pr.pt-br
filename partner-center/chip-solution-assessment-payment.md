@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ab0cd74e3955a71383b2ba758dc76b1b37fdee6
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: f005db5d69fe6febf79720544642ee9f3d8c2e75
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570460"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354399"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>Informações de cálculo e status de pagamento de avaliação de solução
+
+**Funções apropriadas**
+
+- Administrador primário de contato ou programa
 
 Você pode examinar o status de pagamento de um status de oportunidade de avaliação de solução em CHIP.
 

@@ -9,18 +9,14 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 00761df0cb51e8fcd3238141a51a53107c7c8523
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133075"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354501"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Ganhe fundos de marketing cooperativos
-
-**Aplica-se a**
-
-- Partner Center
 
 **Funções apropriadas**
 
@@ -52,7 +48,7 @@ A linha do tempo para fundos de cooperação é dividida em períodos de 2 6 mes
 - H1 é a primeira metade do ano fiscal, 1º de julho a 31 de dezembro.
 - H2 é a segunda metade do ano fiscal, 1º de janeiro a 30 de junho.
 
-O período de seis meses durante o qual você acumula seus ganhos se torna o **período de conquista** . Você deve usar esses ganhos em algum momento durante o **período de uso** de seis meses a seguir. Se você não usar seus ganhos no final do período de uso, você os perderá. O **período de reivindicação** é o período de seis meses durante o qual você pode solicitar reembolso para suas atividades do programa de incentivo.
+O período de seis meses durante o qual você acumula seus ganhos se torna o **período de conquista**. Você deve usar esses ganhos em algum momento durante o **período de uso** de seis meses a seguir. Se você não usar seus ganhos no final do período de uso, você os perderá. O **período de reivindicação** é o período de seis meses durante o qual você pode solicitar reembolso para suas atividades do programa de incentivo.
 
 A tabela a seguir mostra os períodos de conquista, uso e reivindicação diferentes. Salvo indicação em contrário, os períodos se estendem do primeiro dia do primeiro mês até o último dia do último mês.
 

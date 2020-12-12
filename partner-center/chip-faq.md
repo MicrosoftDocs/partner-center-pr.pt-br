@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d90a98fa323af187dd86f3d2d9f585167cc817c
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 9395a64a5bdf5aa0219bb9457d581e71bef777c2
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570443"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354620"
 ---
 # <a name="solution-assessment-incentives-faq-for-the-channel-incentives-platform-chip"></a>Perguntas frequentes sobre incentivos de avaliação de solução para a plataforma de incentivos de canal 
+
+**Funções apropriadas**
+
+- Administrador primário de contato ou programa
 
 Encontre respostas para as perguntas frequentes abaixo.
 
