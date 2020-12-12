@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12310b8c89f593122cdd9caec0aa74a712953219
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
+ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175082"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "97153138"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Relatar um problema de serviço em nome de um cliente, incluindo quando e como fazer isso
 
@@ -31,11 +31,13 @@ Se o seu cliente estiver enfrentando um problema de serviço que você não pode
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Envie uma solicitação de serviço por um cliente
 
-1. Do menu **Centro de Parceiros**, selecione **Solicitações de serviço** e então **Solicitação do cliente**. 
+1. No menu do centro de parceiros, em CSP, selecione **clientes**
 
-2. Na página Solicitações do cliente, pesquise o cliente desejado.
+2. Na página clientes, selecione ou pesquise o cliente desejado
+    
+3. No menu cliente, selecione **solicitações de serviço**
 
-3. Do menu suspenso **Nova solicitação**, selecione **Azure** ou **Office 365, Dynamics 365, Enterprise Mobility Suite**. Você será redirecionado para o portal do Microsoft Azure ou para o centro de administração do Office 365.
+4. Do menu suspenso **Nova solicitação**, selecione **Azure** ou **Office 365, Dynamics 365, Enterprise Mobility Suite**. Você será redirecionado para o portal do Microsoft Azure ou para o centro de administração do Office 365.
 
 >[!NOTE]
 >Os parceiros de operações de suporte que transportam o Dynamics 365 no CSP são necessários para manter um contrato de suporte de plano de suporte avançado para parceiro (ASfP) ou superior. Esse contrato de suporte é necessário para enviar incidentes do Dynamics 365 em nome de um cliente CSP. [Saiba mais](https://partner.microsoft.com/support/partnersupport) sobre as opções do contrato de suporte.
