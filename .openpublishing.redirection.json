@@ -5,14 +5,19 @@
     "redirect_url": "https://www.21vbluecloud.com/partner-china/add-a-new-customer",
     "redirect_document_id": "FALSE"
   },
-{
+  {
     "source_path": "partner-center/tutorials/partner-security-requirements.yml",
     "redirect_url": "/partner-center/partner-security-requirements",
     "redirect_document_id": "FALSE"
   },
-{
+  {
     "source_path": "partner-center/implement-security-requirements.md",
     "redirect_url": "/partner-center/partner-security-requirements",
+    "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/incentives-unified-user-guide.md",
+    "redirect_url": "/partner-center/payout-statement",
     "redirect_document_id": "FALSE"
   },
   {
@@ -309,6 +314,11 @@
     "source_path": "partner-center/incentives-payouts.md",
     "redirect_url": "/partner-center/understand-incentive-payouts",
     "redirect_document_id": "FALSE"
+  },
+  {
+    "source_path": "partner-center/incentives-payout-tax-profile-faqs.md",
+    "redirect_url": "/partner-center/payout-faq",
+    "redirect_document_id": "TRUE"
   },
   {
     "source_path": "partner-center/faq-about-new-billing-features.md",
