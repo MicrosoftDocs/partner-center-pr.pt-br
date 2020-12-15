@@ -1,22 +1,30 @@
 ---
-title: Declaração de pagamento do Marketplace comercial no Partner Center
-description: Saiba mais sobre demonstrativos e resumos de pagamentos e como exibir e exportar seus dados de pagamento para o Marketplace comercial
+title: Demonstrativos de pagamento
+description: Saiba mais sobre demonstrativos e resumos de pagamentos e como exibir e exportar seus dados de pagamento do Microsoft Partner Center
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 09/23/2020
-ms.openlocfilehash: 34d7d162673992601267db03beaddda1573b73c0
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.date: 10/29/2020
+ms.openlocfilehash: f74dcdc240553cea2c9d226364a8bd6242acc200
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532048"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492629"
 ---
 # <a name="payout-statements"></a>Demonstrativos de pagamento
 
+**Funções apropriadas:**
+
+- Administrador de conta
+- Administrador global
+
 A **instrução pagamento** apresenta uma visão geral de seus pagamentos de ofertas vendidas por meio do Marketplace comercial. Ele mostra o histórico transacional de seus ganhos, estima seu próximo pagamento e mostra as tendências de pagamento. Você também pode baixar o histórico de transações e os demonstrativos de pagamento. Este artigo explica como acessar sua declaração de pagamento e as diferentes páginas de pagamento e downloads acessíveis para você no Partner Center.
+
+>[!NOTE]
+>Você só verá dados para IDs e programas MPN aos quais está associado. Se você quiser ver dados adicionais, trabalhe com o administrador da conta para obter permissões. 
 
 ## <a name="roles-and-permissions"></a>Funções e permissões
 
@@ -50,6 +58,7 @@ Você também pode usar a [API](https://apidocs.microsoft.com/services/partnerpa
 
 A página **histórico de transações** mostra o resumo dos seus ganhos, o próximo pagamento estimado e sua tendência de ganhos e pagamentos nos últimos 36 meses. Você também pode baixar detalhes de transações desta seção.
 
+
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="Visão geral da transação.":::
 
 - **Ganhos enviados neste ano** – total de ganhos e divisão de ganhos que foram pagos e serão pagos no próximo mês.
@@ -57,9 +66,11 @@ A página **histórico de transações** mostra o resumo dos seus ganhos, o pró
 - **Lucros e tendência de pagamento** – valores mensais de conquista e pagamento nos últimos 36 meses.
 - **Baixar** – baixar detalhes da transação no formato. csv ou. TSV.
 
-Use a seleção de intervalo de datas no canto superior direito da página para filtrar a saída da página para mostrar os últimos 3, 6, 12 ou 36 meses. Ou então, selecione um intervalo de datas personalizado de até 36 meses. O intervalo de datas padrão é de 12 meses.
+Use a seleção de intervalo de datas no canto superior direito da página para filtrar a saída da página para mostrar os últimos 3, 6, 12 ou 36 meses. Ou então, selecione um intervalo de datas personalizado de até 36 meses. O intervalo de datas padrão é de 12 meses. Você também pode filtrar por ID de registro, programa, ID de pagamento, tipo de conquista, alavanca e status. Os dados estão disponíveis para o ano fiscal atual (1º de julho a 30 de junho) e os dois anos fiscais anteriores.
 
 :::image type="content" source="images/payouts/search-filter.png" alt-text="O filtro de pesquisa na parte superior direita da página.":::
+
+Para ver mais detalhes sobre um ganho, selecione a seta para baixo no lado direito da página. Isso exibirá a alavanca, o valor da receita, o produto e o cliente. Se, por algum motivo, algum desses dados estiver indisponível, mas você precisar acessá-lo, entre em contato com o suporte. Se a conquista for o resultado de um ajuste, e não de uma transação, os campos Product e Customer não serão exibidos.
 
 ### <a name="transaction-history-summary"></a>Resumo do histórico de transações
 
@@ -74,13 +85,49 @@ Isso mostra a obtenção de detalhes, incluindo a origem da conquista do produto
     - **Futuro** – os ganhos estão no período de resfriamento pendente.
     - **Processado** – os ganhos são preparados para o próximo pagamento.
     - **Enviados** – os ganhos foram pagos.
-- **Mês de pagamento estimado** – o mês que espera-se que os ganhos sejam pagos.
+- **Mês de pagamento estimado** – o mês que espera-se que os ganhos sejam pagos. Consulte a [próxima seção](#estimated-payment-month) para obter mais informações.
 
 A transação de transações é mostrada depois que ela atende à qualificação do pagamento. Para entender por que você pode ter ganhos ausentes ou inesperados, consulte [perguntas comuns sobre pagamentos do Marketplace comercial](payout-faq.md#why-are-my-earnings-missing).
+
+#### <a name="estimated-payment-month"></a>Mês de pagamento estimado
+
+A página Histórico de transações agora inclui uma tabela que mostra os valores de pagamento estimados para os próximos meses. Você também pode exibir e baixar essas informações nas exportações histórico de transações e relatório de resumo. Essas informações tornam as reconciliações e as projeções de pagamento mais fáceis.
+
+O mês de pagamento estimado é calculado com base nas regras de configuração do programa e nas linhas do tempo e é processado no próximo ciclo de pagamento/futuro.
+
+O mês de pagamento estimado está disponível atualmente para todos os tipos de conquista, exceto cooperação, que será exibido como **não aplicável**. Para os ganhos antes de 1º de julho de 2020, o mês de pagamento estimado será exibido como **não disponível**.
+
+A tabela a seguir mostra um exemplo de mês de pagamento estimado.
+
+| Mês | Amount |
+| ------ | :-----------: |
+|  Setembro de 2020 |  $7273.99   |
+|  Outubro de 2020 | $8692.30  |
+|  Novembro de 2020 | $107.89  |
+
+O valor estimado pode variar do valor real por vários motivos:
+
+- Ganhando redeclaretion: se os ganhos forem recalculados, o valor real será diferente
+- Ajustes: o valor real varia dependendo dos ajustes que ocorreram ou foram enviados.
+- Alteração de regras: uma alteração nas regras pode refletir o recálculo em quantias reais pagas
+- A pagar: se ocorrer falha de pagamento, o valor real poderá ser diferente
+
+Observe que seu pagamento será liberado apenas no mês projetado se as regras de qualificação de pagamento e limite do programa forem atendidas. Essas regras incluem, mas não estão limitadas à lista abaixo:
+
+- Seu perfil de imposto deve estar atualizado
+- Seus ganhos devem atender ou exceder o limite mínimo de conquista definido no guia do programa.
+- Pagamento em espera: se você selecionar a opção "manter meu pagamento" na página de atribuição de perfis.
+- Instrumento de pagamento não disponível: o perfil de pagamento ou/e imposto não foi concluído.
 
 ### <a name="transaction-history-download"></a>Download do histórico de transações
 
 Para ver mais detalhes sobre uma conquista, selecione **baixar** na parte superior da página. A tabela a seguir explica cada coluna no relatório.
+
+>[!NOTE]
+>A exportação de download do histórico de transações tem dois novos campos a partir de agosto de 2020:
+>
+>- **lastPaymentCurrency**  A moeda na qual o pagamento mais recente foi recebido, em todo o MPNs ao qual o parceiro que está conectado no momento tem acesso. Se nenhum pagamento for recebido, a última moeda de pagamento será de US $100,00.
+>- **earningAmountInLastPaymentCurrency**  O valor de conquista na última moeda de pagamento.
 
 | Nome da coluna | Descrição | Aplicabilidade para programas de incentivo/Marketplaces |
 | --- | --- | --- |
@@ -114,7 +161,7 @@ Para ver mais detalhes sobre uma conquista, selecione **baixar** na parte superi
 | LicensingProgramName | Nome do programa de licenciamento |  |
 | LineItemId | Linha individual na fatura de um cliente |  |
 | localProviderSeller | Provedor/vendedor local do registro |  |
-| Mês de maturidade | O mês de pagamento estimado | Tudo |
+| Mês de maturidade | O mês de pagamento estimado | Todos |
 | OrderId | Está relacionado à fatura de um cliente  | marketplaces |
 | parentProductId | Identificador exclusivo do produto pai. Se não houver um produto pai na transação, ID do produto pai = ID do produto. | marketplaces |
 | parentProductName | O nome do produto pai. Se não houver um produto pai na transação, Nome do produto pai = Nome do produto. | marketplaces |
@@ -127,7 +174,7 @@ Para ver mais detalhes sobre uma conquista, selecione **baixar** na parte superi
 | paymentStatus | Status de pagamento | Todos |
 | paymentStatusDescription | Descrição amigável do status de pagamento | Todos |
 | productId | Identificador exclusivo do produto | marketplaces |
-| productName | Nome do produto vinculado à transação | Tudo |
+| productName | Nome do produto vinculado à transação | Todos |
 | productType | Tipo de produto, como aplicativo, complemento ou jogo | marketplaces |
 | Código do programa | Cadeia de caracteres para mapear com o nome do programa |  |
 | programName | Nome do programa de incentivo/loja | Todos |
@@ -163,6 +210,21 @@ Para ver mais detalhes sobre uma conquista, selecione **baixar** na parte superi
 | transactionType | Tipo de transação, como compra, reembolso, inversão ou estorno | marketplaces |
 | workload | Carga de trabalho | Incentivos – apenas alguns programas |
 |
+
+### <a name="transaction-adjustment-codes"></a>Códigos de ajuste de transação
+
+A tabela a seguir lista os códigos de motivo para ajustes e suas descrições.
+
+|**Código de motivo**   |**Descrição**   |
+|------------------|:-------------------------------------|
+| Conformidade com o AR | Ajuste que reduz os ganhos quando as faturas da Microsoft não são pagas no tempo pelo parceiro. |
+| Substituição de cooperação | Ajuste que transfere os ganhos de cooperação para outro período ou converte os ganhos de cooperação no reembolso. |
+| Ajuste de Ops | Ajuste que corrige erros de cálculo do sistema da Microsoft. |
+| Cálculo incorreto do Microsoft ajuste de Ops | Ajuste que corrige os incorretos de cálculos. |
+| Registro incorreto do Microsoft ajuste de Ops | Ajuste para o registro de inscrições relacionados. |
+| MCI/CSP de mapeamento de parceiro (assinatura) | Ajuste que corrige o desalinhamento da assinatura. |
+| Exceção de política | Ajuste que substitui uma regra de programa.  |
+| Ganhos do período anterior | Ajuste para ganhos fora do período de conquista atual. |
 
 ## <a name="payments"></a>Pagamentos
 
@@ -214,7 +276,7 @@ A tabela a seguir explica os diferentes status de conquista.
 
 ### <a name="payments-download"></a>Download de pagamentos
 
-Para ver mais detalhes sobre seus pagamentos, selecione **baixar** na parte superior da página. A tabela a seguir explica cada coluna no relatório.
+ A tabela a seguir explica cada coluna no relatório. Para ver mais detalhes sobre seus pagamentos, selecione **baixar** na parte superior da página de pagamentos.
 
 | Nome da coluna | Descrição |
 | --- | --- |
@@ -238,7 +300,7 @@ Para ver mais detalhes sobre seus pagamentos, selecione **baixar** na parte supe
 
 ## <a name="export-data"></a>Exportar dados
 
-A página **exportar dados** não é atualizada por conta própria. Talvez seja necessário atualizar a página manualmente para ver os dados mais recentes. Selecione entre as três guias para exportar o **histórico de transações** , os **pagamentos** , o **Resumo da transação** ou a **instrução histórica**.
+A página **exportar dados** não é atualizada por conta própria. Talvez seja necessário atualizar a página manualmente para ver os dados mais recentes. Selecione entre as três guias para exportar o **histórico de transações**, os **pagamentos**, o **Resumo da transação** ou a **instrução histórica**.
 
 O filtro pode resultar em um erro de **nenhum dado disponível** . Isso pode acontecer se você saiu do período de tempo padrão selecionado em três meses e, em seguida, selecionou uma ID de pagamento de uma conquista que está fora desse período. Se isso acontecer, expanda seu período de tempo e tente novamente.
 
@@ -285,14 +347,14 @@ A tabela a seguir explica cada coluna em uma instrução histórica.
 | Recebimentos líquidos | Valor da transação menos o imposto remetido |
 | Valor de armazenamento | O percentual dos recebimentos líquidos retidos pela Microsoft como valor pela disponibilização do aplicativo ou complemento na loja |
 | Lucros do aplicativo | Recebimentos líquidos menos o valor de armazenamento |
-| Impostos retidos | Valor do imposto de renda retido (ou seja, incluído no arquivo CSV **Reservado** ) |
+| Impostos retidos | Valor do imposto de renda retido (ou seja, incluído no arquivo CSV **Reservado**) |
 | Pagamento | Os lucros do aplicativo menos qualquer retenção de imposto sobre renda aplicável (valor mostrado na moeda da transação). Não incluído no arquivo CSV **Reservado**. |
 | Taxa de FX | Taxa de câmbio estrangeira usada para converter a moeda da transação na moeda de pagamento |
 | Moeda de pagamento | Moeda na qual seu pagamento é feito |
 | Pagamento convertido | Valor de pagamento convertido na moeda de pagamento usando a taxa de FX |
 | Modelo de pagamento de imposto | Parte responsável pelo pagamento de impostos (vendas, uso ou impostos sobre IVA/GST) |
-| Data e hora da qualificação | A data e a hora em que os lucros da transação se tornam qualificados para pagamento (UTC). Quando um pagamento é criado, ele inclui os lucros da transação com uma data e hora de qualificação antes da data de criação do pagamento (incluída apenas no arquivo CSV **Reservado** ). |
-| Charges | Mostra uma divisão de todo o detalhamento de preço agregado na coluna Valor da transação (incluído apenas para o Azure Marketplace; não incluído no arquivo CSV **Reservado** ). |
+| Data e hora da qualificação | A data e a hora em que os lucros da transação se tornam qualificados para pagamento (UTC). Quando um pagamento é criado, ele inclui os lucros da transação com uma data e hora de qualificação antes da data de criação do pagamento (incluída apenas no arquivo CSV **Reservado**). |
+| Charges | Mostra uma divisão de todo o detalhamento de preço agregado na coluna Valor da transação (incluído apenas para o Azure Marketplace; não incluído no arquivo CSV **Reservado**). |
 |||
 
 ## <a name="next-steps"></a>Próximas etapas

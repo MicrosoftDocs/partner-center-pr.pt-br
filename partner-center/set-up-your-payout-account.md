@@ -6,14 +6,19 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514751"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492680"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurar sua conta de pagamento e formulários de imposto
+
+**Funções apropriadas:**
+
+- Administrador de conta
+- Administrador global
 
 Para receber dinheiro de vendas de ofertas no Marketplace comercial, você precisa configurar sua conta de pagamento e preencher os formulários de impostos necessários no [Partner Center](https://partner.microsoft.com/dashboard).
 
@@ -32,19 +37,16 @@ Depois de configurar a conta, há duas coisas que você precisa fazer para poder
 
 ## <a name="tax-forms"></a>Formulário de impostos
 
-### <a name="fill-out-your-tax-forms"></a>Preencher seus formulários de imposto
+Você gerencia seu perfil de imposto e os formulários de impostos na página **pagamento e imposto** do Partner Center. As permissões de sua organização determinarão os perfis e as informações que você vê.
 
-Primeiro, você precisa criar um perfil de imposto e atribuí-lo aos programas de que participa. Você pode criar seu *perfil fiscal* para o Marketplace comercial com a conclusão das seguintes etapas:
+### <a name="create-or-update-your-tax-profile"></a>Criar ou atualizar seu perfil de imposto
 
-- Especifique seu país/região de residência e nacionalidade.
-- Preencha os formulários de imposto apropriados.
-
-Você pode preencher e enviar seus formulários de impostos eletronicamente no Partner Center; na maioria dos casos, você não precisa imprimir e enviar nenhum formulário por correio.
+Primeiro, você precisa criar um perfil de imposto e atribuí-lo aos programas de que participa. Use as etapas a seguir para criar ou atualizar seu *perfil de imposto* no Partner Center. Você pode concluir e enviar seus formulários de impostos eletronicamente no painel do Partner Center; na maioria dos casos, você não precisa imprimir e enviar nenhum formulário.
 
 > [!IMPORTANT]
 > Países e regiões diferentes têm requisitos de impostos diferentes. O valor exato que você deve pagar em impostos depende dos países e das regiões em que vende suas ofertas. Confira o [Contrato de fornecedor do Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560) para descobrir em quais países/regiões a Microsoft retém e usa impostos em seu nome. Em outros países/regiões, dependendo de onde você está registrado, talvez seja necessário pagar impostos sobre vendas e sobre o consumo de suas ofertas de venda diretamente para a autoridade tributária local. Além disso, os lucros sobre as vendas de aplicativos que você recebe podem ser tributáveis como renda. Recomendamos que você entre em contato com a autoridade pertinente do seu país ou sua região para ajudá-lo a determinar as informações de impostos incidentes sobre suas atividades de marketplace comercial.
 
-1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **configurações** no canto superior direito e, em seguida, **configurações de conta**.
+1. No [painel do Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **configurações** no canto superior direito e, em seguida, **configurações da conta**.
 
 2. No menu de navegação à esquerda, selecione **Pagamento e imposto** e selecione **Atribuições de pagamento e imposto**.
 

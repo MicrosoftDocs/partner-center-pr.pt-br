@@ -4,17 +4,17 @@ description: Se você for um revendedor indireto no programa CSP, este artigo o 
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.custom: contperfq2
+ms.custom: contperf-fy21q2
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 666bc745414829b23cc73ba34d2a45b5e7b5653d
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 5ad30c83381e03cf26304092a7e291495cf4342c
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354552"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492646"
 ---
 # <a name="connect-with-customers"></a>Conectar-se com clientes
 

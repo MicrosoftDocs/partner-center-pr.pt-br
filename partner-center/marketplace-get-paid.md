@@ -1,23 +1,28 @@
 ---
-title: Ser pago no marketplace comercial
-description: Saiba mais sobre como receber pagamentos de ganhos no Marketplace comercial – Azure Marketplace. Inclui política de pagamento, status de retenção de pagamento e instruções de pagamento.
+title: Sendo pago no Partner Center
+description: Saiba mais sobre como receber pagamentos de ganhos como um parceiro da Microsoft, como por meio de ofertas do Marketplace comercial, programas de incentivo e o programa do provedor de soluções na nuvem. Inclui política de pagamento, status de retenção de pagamento e instruções de pagamento.
 ms.service: marketplace
 ms.topic: conceptual
-ms.date: 09/28/2020
+ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: e998ae248b5b09340cb4a7b57c8fbd77b59731d4
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514717"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492442"
 ---
-# <a name="getting-paid-in-the-commercial-marketplace"></a>Ser pago no marketplace comercial
+# <a name="getting-paid-in-partner-center"></a>Sendo pago no Partner Center
+
+**Funções apropriadas:**
+
+- Administrador de conta
+- Administrador global
 
 Este artigo tem informações importantes sobre o recebimento de pagamentos para suas ofertas, Complementos e anúncios de publicidade. Ele resume a política de pagamento, as etapas necessárias antes de serem pagas e a visão geral da instrução de pagamento.
 
-## <a name="commercial-marketplace-payout-policies-and-agreements"></a>Contratos e políticas de pagamento do Marketplace comercial
+## <a name="payout-policies-and-agreements"></a>Contratos e políticas de pagamento
 
 A obtenção de pagamento exige que você respeite os contratos e a política de pagamento.
 
@@ -49,4 +54,4 @@ A instrução pagamento mostra os ganhos das vendas de suas ofertas e Complement
 ## <a name="next-steps"></a>Próximas etapas
 
 - [API de pagamentos de parceiros](https://apidocs.microsoft.com/services/partnerpayouts)
-- [Perguntas frequentes sobre pagamentos do Marketplace](payout-faq.md)
+- [Perguntas frequentes sobre pagamentos](payout-faq.md)

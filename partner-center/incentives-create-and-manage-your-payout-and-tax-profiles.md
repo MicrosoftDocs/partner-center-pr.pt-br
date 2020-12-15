@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 66177c6e3cd0091081866e1508d28346f49ec713
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626024"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492459"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Criar e gerenciar o pagamento de incentivos e perfis de impostos no Partner Center
 
@@ -62,7 +62,7 @@ As seções abaixo guiarão você pelo processo de criação e gerenciamento de 
 
    - Vários domínios podem ser registrados em uma conta do Azure AD. Entre em contato com seu administrador global para determinar quais domínios estão associados.
    - Se você só puder fazer logon com o @onmicrosoft.com domínio, entre em contato com o administrador da conta para adicionar outros domínios à conta do Azure AD.
-   - Se for solicitado que você selecione conta **corporativa ou de estudante** ou **conta pessoal** , selecione **conta corporativa ou de estudante**.
+   - Se for solicitado que você selecione conta **corporativa ou de estudante** ou **conta pessoal**, selecione **conta corporativa ou de estudante**.
 
 2. Selecione o ícone de engrenagem para abrir o menu **configurações** e, em seguida, selecione **configurações de parceiro**.
 
@@ -72,7 +72,7 @@ As seções abaixo guiarão você pelo processo de criação e gerenciamento de 
 
 1. Entre no [painel do Partner Center](https://partner.microsoft.com/dashboard/)e selecione o ícone de engrenagem para abrir o menu **configurações** . 
 
-2. Selecione **configurações de parceiro** , expanda a **seção pagamento e imposto** e selecione **atribuição de perfil de pagamento e imposto**. 
+2. Selecione **configurações de parceiro**, expanda a **seção pagamento e imposto** e selecione **atribuição de perfil de pagamento e imposto**. 
    
    Será exibida uma lista de seus programas. Selecione a seta ao lado de um programa para ver os detalhes do perfil. 
 
@@ -115,7 +115,7 @@ Os perfis bancários são criados em um nível de organização. Isso permite qu
 
 6. Quando os campos forem concluídos, selecione **concluir** e, em seguida, selecione **confirmar** para criar seu perfil bancário.
 
-Você será redirecionado para a página de **perfis de pagamento e impostos** . O status do seu novo perfil refletirá a **validação pendente da Microsoft** até que a validação tenha sido concluída. Esse processo pode levar até 48 horas. Após a conclusão da validação, o status do perfil refletirá **aprovado** ou **ação necessária**. Se a **ação for necessária** , repita as etapas acima fornecendo as informações necessárias. 
+Você será redirecionado para a página de **perfis de pagamento e impostos** . O status do seu novo perfil refletirá a **validação pendente da Microsoft** até que a validação tenha sido concluída. Esse processo pode levar até 48 horas. Após a conclusão da validação, o status do perfil refletirá **aprovado** ou **ação necessária**. Se a **ação for necessária**, repita as etapas acima fornecendo as informações necessárias. 
 
 ## <a name="create-your-tax-profile"></a>Criar seu perfil de imposto
 
@@ -152,4 +152,4 @@ Para empresas parceiras nas Américas, se você precisar de informações sobre 
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Perguntas frequentes sobre o pagamento de incentivos e o perfil fiscal](incentives-payout-tax-profile-faqs.md)
+- [Perguntas comuns sobre pagamentos e impostos](payout-faq.md)

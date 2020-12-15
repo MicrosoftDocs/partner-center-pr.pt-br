@@ -1,22 +1,27 @@
 ---
-title: Agendas de pagamento e detalhes de política-Azure Marketplace
-description: Saiba mais sobre os detalhes relacionados às políticas de pagamento do Marketplace comercial, incluindo agendas e revitória.
+title: Agendas e processos de pagamento
+description: Saiba mais sobre pagamentos e transações, como planos de pagamento e processos de revitória para o mercado comercial e outras transações.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/06/2020
-ms.openlocfilehash: bd8153ffd368c1f67b27eaeb44d383409bd59e97
-ms.sourcegitcommit: 2e880efb02a48afc4f234ec27da34519407f87c6
+ms.date: 11/25/2020
+ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96513272"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492663"
 ---
-# <a name="payout-schedules-and-policy-details"></a>Agendas de pagamento e detalhes da política
+# <a name="payout-schedules-and-processes"></a>Agendas e processos de pagamento
 
-Este artigo discute o processo de pagamento da Microsoft, o agendamento de pagamento, onde encontrar o status de um pagamento e o processo de não pagamento do cliente.
+**Funções apropriadas:**
+
+- Administrador de conta
+- Administrador global
+
+Este artigo aborda o plano de pagamento da Microsoft, onde encontrar o status de um pagamento e o processo de não pagamento de cliente.
 
 ## <a name="payment-schedules"></a>Agendamentos de pagamento
 
@@ -90,7 +95,7 @@ Veja a seguir um exemplo de agendamento:
 Normalmente, enviamos qualquer pagamento devido em um determinado mês no 15º dia desse mês, mas leva mais tempo para que o pagamento chegue à sua conta. O número de dias depende do método de pagamento que usamos para sua conta, conforme descrito abaixo.
 
 > [!NOTE]
-> Os dias mostrados abaixo são aproximados; qualquer pagamento pode levar um tempo maior ou menor para alcançar sua conta.
+> Os dias mostrados abaixo são aproximados; qualquer pagamento pode levar mais ou menos tempo para alcançar sua conta.
 
 | Método de pagamento     | Número de dias até chegar à conta de pagamento     |
 |--------------------|--------------------------------------------|
