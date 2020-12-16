@@ -326,11 +326,6 @@
     "redirect_document_id": "FALSE"
   },
   {
-    "source_path": "partner-center/mfa-for-users.md",
-    "redirect_url": "/partner-center/partner-security-requirements#implementing-multi-factor-authentication",
-    "redirect_document_id": "FALSE"
-  },
-  {
     "source_path": "partner-center/vvr-faq.md",
     "redirect_url": "/partner-center/software-assurance-dps",
     "redirect_document_id": "FALSE"
