@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 3b20f29fcde9c910fd72d0aa86a1242b9c00859c
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 6d8fca11f2db40e7f8b4ebcd4580d8f0aba115eb
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527809"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354518"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Consolide as contas da sua empresa ao migrar do PMC para o Partner Center
 
@@ -62,3 +62,9 @@ No PMC, cada local podia ter suas próprias competências, seus próprios MAPs e
 No Partner Center, todas as contas do local serão consolidadas em uma conta global. Isso significa que todas as ofertas de entrada no mercado, programas e competências também são consolidadas. Os kits de ferramentas de benefícios adicionais (ABTKs) não estarão disponíveis. No entanto, você pode organizar a distribuição de recursos, ofertas, programas de marketing e competências conforme necessário para a sua empresa. Quando você consolida, uma extensão é fornecida. Essa extensão permite que sua empresa aproveite os recursos, as ofertas e os programas de marketing usados no PMC por mais um ano.
 
 Para obter mais informações sobre as diferenças entre o PMC e o Partner [Center, leia migrando do](guide-to-migration.md)PMC para o Partner Center.
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Gerenciar sua conta do Partner Center](partner-center-account-setup.md)
+
+- [Gerenciar locais](manage-locations.md)
