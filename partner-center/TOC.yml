@@ -279,18 +279,12 @@
         - name: Noções básicas dos perfis de pagamento e de imposto
           href: incentives-create-and-manage-your-payout-and-tax-profiles.md
           displayName: incentives
-        - name: Perguntas frequentes sobre o perfil de pagamento e imposto
-          href: incentives-payout-tax-profile-faqs.md
-          displayName: incentives
         - name: Verificar a elegibilidade dos lucros
           href: incentives-confirm-your-earnings-eligibility.md
           displayName: incentives
-        - name: Exibir pagamentos e programas
+        - name: Exibir programas e pagamentos
           href: understand-incentive-payouts.md
           displayName: 'mpn, incentives'
-        - name: Acessar sua página de pagamentos
-          href: incentives-unified-user-guide.md
-          displayName: incentives
     - name: Planos e comprovantes de execução
       items:
         - name: Noções básicas de planos e provas de execução
@@ -433,23 +427,21 @@
       displayName: csp
 - name: Ser pago
   items:
+    - name: Receba pagamentos
+      href: marketplace-get-paid.md
+    - name: Demonstrativos de pagamento
+      href: payout-statement.md
     - name: 'Gerenciamento de não pagamento, fraude ou uso indevido'
       href: non-payment-fraud-misuse.md
     - name: Gerenciar os pagamentos não alocados
       href: unallocated-payment.md
-    - name: Pagamentos do marketplace comercial
-      items:
-        - name: Receba pagamento – marketplace
-          href: marketplace-get-paid.md
-        - name: Detalhes da política de pagamento
-          href: payout-policy-details.md
-        - name: 'Limites, métodos e períodos de pagamento'
-          href: payment-thresholds-methods-timeframes.md
-        - name: Demonstrativos de pagamento
-          href: payout-statement.md
-          displayName: invoice
-        - name: Perguntas frequentes sobre pagamentos
-          href: payout-faq.md
+    - name: Agendas e processos de pagamento
+      href: payout-policy-details.md
+    - name: 'Limites, métodos e períodos de pagamento'
+      href: payment-thresholds-methods-timeframes.md
+      displayName: invoice
+    - name: Perguntas frequentes sobre o perfil de pagamento e imposto
+      href: payout-faq.md
 - name: Conectar-se com clientes
   items:
     - name: Conectar-se com seus clientes
@@ -663,10 +655,12 @@
               displayName: 'indirect, reseller'
             - name: Treinamento
               href: pci-training-dashboard.md
-        - name: Problemas conhecidos
+        - name: Perguntas frequentes – Insights
           href: pci-known-issues.md
         - name: Baixar Relatórios de Insights
           href: pci-download-reports.md
+        - name: Definições de dados do Insights
+          href: pci-data-definitions.md
     - name: Indicadores de contribuição dos parceiros
       href: partner-contribution-indicators.md
       displayName: mpn
