@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 55046b21e70ad04f47bf4cd191736aa12335060e
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
+ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556439"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "97011512"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gerenciar sua conta do Partner Center – perfis da empresa, informações bancárias, funções, permissões e muito mais
 
@@ -41,9 +41,19 @@ Isso exibirá a página de configurações da conta.
 
 Independentemente de você ser um parceiro ou um desenvolvedor, use sua ID do MPN para situações como registrar tíquetes de suporte. Sua ID do MPN está localizada na página **Informações jurídicas**. Você também pode encontrá-la no **Perfil de identidade**.
 
+## <a name="account-settings---partners-resellers"></a>Configurações de conta – parceiros, revendedores
+
+Quando você seleciona o ícone **Configurações** e abre o menu **Configurações de conta**, a exibição padrão, se a sua empresa fizer parte do Programa Provedor de Soluções na Nuvem, será **Informações legais** exibindo duas guias, **Parceiro** e **Revendedor**. Cada guia inclui aspectos da sua empresa.
+
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="O menu mostra as guias Parceiros e Revendedores":::
+
+A guia Parceiro incluirá todas as informações de negócios legais, como a razão social e o endereço da sua empresa, bem como o contato principal e os locais físicos dos negócios. A guia Revendedor para parceiros que fazem negócios com CSP inclui o **Perfil de atendimento ao cliente**.
+
+Se a sua empresa não participar do CSP, a exibição padrão mostrará apenas a guia **Parceiros**, que incluirá o **Perfil de atendimento ao cliente**.
+
 ## <a name="organization-profile"></a>Perfil da organização
 
-Use essas páginas para gerenciar áreas como perfil comercial legal, perfil de parceiro e locais da empresa. Selecione guias como **Legal** ou **Locatários** (descritas mais detalhadamente abaixo) para editar essa área. Selecione a guia do programa em que você está interessado (MPN, CSP ou marketplace comercial) para ver as informações e o status de habilitação.
+Use essas páginas para gerenciar áreas detalhadas da sua empresa, incluindo o perfil de negócios legal, o perfil de parceiro e os locatários. Gerencie cada área separadamente. Eles são descritos abaixo. 
 
 :::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Menu Informações jurídicas.":::
 
@@ -81,7 +91,7 @@ A maneira como você trabalha no Partner Center e as áreas que pode atualizar o
 
 Para atualizar o email preferencial a fim de receber as notificações do Partner Center:
 
-1. Entre no [painel do Partner Center](https://partner.microsoft.com/dashboard).
+1. Entre no [Painel do Partner Center](https://partner.microsoft.com/dashboard).
 1. Acesse [**Preferência de participação**](https://partner.microsoft.com/dashboard/engagement/preference), selecione o link **Alterar**, atualize o endereço de email e escolha **Salvar**.
 
 ### <a name="find-your-user-role"></a>Localizar sua função de usuário

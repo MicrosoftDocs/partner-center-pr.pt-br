@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 10/29/2020
-ms.openlocfilehash: 882617433f7cf2bce01de8dce608951a9a13c77e
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.date: 12/15/2020
+ms.openlocfilehash: 7efd3ab2303f66fbd2b02e872e51be6c0e64993c
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360013"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514708"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Requisitos para registro como parceiro de cobrança direta do CSP
 
@@ -57,7 +57,6 @@ Se você decidir migrar de uma empresa de cobrança direta para um revendedor in
 
 - [Novo requisito de receita para parceiros de cobrança direta](./announcements/2020-october.md#13)
  
-
 - [Mais informações sobre como se tornar um revendedor indireto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 
-- [Perguntas frequentes sobre a transição de cobrança direta para revendedor indireto](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)
+- [Novo padrão de desempenho para requisitos de parceiro de cobrança direto no CSP](https://partner.microsoft.comresources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)

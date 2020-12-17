@@ -1,7 +1,7 @@
 ---
 title: O MPA (Contrato de Parceiro da Microsoft) para parceiros CSP
-ms.topic: article
-ms.date: 04/27/2020
+ms.topic: how-to
+ms.date: 12/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre os requisitos dos parceiros CSP da Microsoft para assinar e verificar esse MPA (Contrato de Parceiro da Microsoft) unificado e digitalmente aceito.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 7f9ab107a622cfe8cc7ef3f1d1d2877810f749ed
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869326"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514753"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Saiba mais sobre o MPA (Contrato de Parceiro da Microsoft) para parceiros do programa CSP
 
@@ -27,6 +27,9 @@ O Contrato de Parceiro da Microsoft fornece aos parceiros da Microsoft um contra
 Os parceiros do programa CSP (Provedor de Soluções na Nuvem), incluindo provedores indiretos, revendedores indiretos e parceiros de cobrança direta, poderão assinar a MPA online na Central de Parceiros. Os parceiros de provedores indiretos e de cobrança direta que operam na nuvem governamental também poderão assinar o MPA no Partner Center.
 
 Para continuar participando do programa CSP, você precisa assinar o MPA (Contrato de Parceiro da Microsoft) antes de 31 de janeiro de 2020. A Central de Parceiros lembrará você de que agora é possível assinar o contrato na Central de Parceiros.
+
+>[!NOTE]
+>O MPA deve ser assinado uma vez em cada região do CSP na qual sua empresa faz negócios com o CSP. Saiba mais sobre as [Regiões do CSP](regional-authorization-overview.md) 
 
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>Verifique se a ID do MPN está ativa e foi migrada para o Partner Center
 
@@ -53,7 +56,7 @@ Para continuar participando do programa CSP, você precisa assinar o MPA (Contra
 
 1. Em **Configurações**, clique em [Perfil do Parceiro](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
 
-1. Verifique a seção **Informações do Programa**. Caso as informações não mostrem o status de **Revendedor indireto**, você precisará [se registrar como um revendedor indireto](https://partner.microsoft.com/cloud-solution-provider/whats-required).
+1. Verifique a seção **Informações do Programa**. Caso as informações não mostrem o status de **Revendedor indireto**, você precisará [se registrar como um revendedor indireto](indirect-reseller-tasks-in-partner-center.md).
 
 1. Caso o status de **Revendedor indireto** esteja **Ativo**, você é um revendedor indireto ativo no Partner Center.
  
@@ -78,13 +81,13 @@ Para ver se você assinou o MPA:
 >Somente o administrador global da sua empresa pode ver e assinar o MPA. Se você não for o administrador global, precisará solicitar ao administrador global que confirme o MPA.
 
 
-## <a name="downloadable-step-by-step-guides"></a>Guias passo a passo para download
+## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Baixe o guia passo a passo certo para o ponto em que você se encontra no processo
 
-1. [Migre do PMC para o Partner Center e aceite o Contrato de Parceiro da Microsoft](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
+1. Se você estiver migrando sua conta do MPN do PMC para o Partner Center: [Migre do PMC para o Partner Center e aceite o Contrato de Parceiro da Microsoft](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
-2. [Integração para membros da MPN e o Contrato de Parceiro da Microsoft](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+2. Se você quiser se registrar como um revendedor indireto do CSP no Partner Center: [Integração para membros do MPN e Contrato de Parceiro da Microsoft](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
 
-3. [Verificar o status de aceitação do Contrato de Parceiro da Microsoft](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+3. Para verificar seu status de MPA no Partner Center depois de concluir a etapa 1 e/ou a etapa 2 acima: [Verificar o status de aceitação do Contrato de Parceiro da Microsoft](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
 ## <a name="next-steps"></a>Próximas etapas
 
