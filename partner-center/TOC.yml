@@ -738,6 +738,8 @@
     - name: Exigir MFA de seu locatário parceiro
       href: partner-security-requirements-mandating-mfa.md
       displayName: csp
+    - name: Configurar seus usuários com a MFA
+      href: mfa-for-users.md
     - name: Status de requisitos
       href: partner-security-compliance.md
       displayName: csp
