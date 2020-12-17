@@ -1,7 +1,7 @@
 ---
 title: Indicadores de contribuição de parceiros
 ms.topic: article
-ms.date: 11/03/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre sete indicadores de contribuição de parceiros (PCI) que mostram como você está fazendo com o engajamento do cliente do Dynamics 365 ou as operações e finanças do Dynamics 365.
@@ -9,14 +9,14 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5e3c0ad1a1abae49b05394d569b67840a01ecca
-ms.sourcegitcommit: fc4d94b2a9575808745f8fb8c7ee5ae88be6803c
+ms.openlocfilehash: 336481cf390fb467c4768edfff9d9c38e8dd8f31
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93344384"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636034"
 ---
-# <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>Indicadores de contribuição do parceiro (PCI) mostram impacto sobre o parceiro em sete principais medidas de sucesso do cliente
+# <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>PCIs (Indicadores de Contribuição do Parceiro) mostram o impacto para o parceiro das sete principais medidas de sucesso do cliente
 
 Este artigo descreve cada um dos sete principais indicadores de contribuição de parceiro (PCI) usados para avaliar o progresso de um parceiro na obtenção ou manutenção da competência MPN do CBA (Cloud Business Applications).
 
@@ -42,23 +42,23 @@ O PCI fornece uma visão sofisticada dos recursos técnicos de um parceiro, sua 
 
 *Indicadores de desempenho:*
 
-1. **Nova receita líquida** : net nova receita em todos os canais de vendas para produtos Microsoft Dynamics 365. (Para obter detalhes sobre essa métrica, confira [definições para nova receita de rede](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue).)
+1. **Nova receita líquida**: net nova receita em todos os canais de vendas para produtos Microsoft Dynamics 365. (Para obter detalhes sobre essa métrica, confira [definições para nova receita de rede](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue).)
 
-2. O **net Customer ADDS** : clientes .net adquiridos para o Dynamics 365 em todos os canais de vendas. (Para obter detalhes sobre essa métrica, consulte [definições para o net Customer ADDS](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds).)
+2. O **net Customer ADDS**: clientes .net adquiridos para o Dynamics 365 em todos os canais de vendas. (Para obter detalhes sobre essa métrica, consulte [definições para o net Customer ADDS](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds).)
 
 *Indicadores de funcionalidade:*
 
-3. **Consultores funcionais** : número de indivíduos que contêm uma certificação de associação de consultor funcional atualmente ativa para o Dynamics 365. (Para obter detalhes sobre essa métrica, consulte [definições para consultores funcionais](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants).)
+3. **Consultores funcionais**: número de indivíduos que contêm uma certificação de associação de consultor funcional atualmente ativa para o Dynamics 365. (Para obter detalhes sobre essa métrica, consulte [definições para consultores funcionais](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants).)
 
-4. **Crescimento funcional do consultor** : crescimento no número de associados de consultores funcionais.  O instantâneo de linha de base para a métrica de crescimento funcional do consultor em PCI agora será realizado em 1º de outubro de 2020. (Para obter detalhes sobre essa métrica, consulte [definições para o crescimento funcional do consultor](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).)
+4. **Crescimento funcional do consultor**: crescimento no número de associados de consultores funcionais. Há algumas opções para obter pontos para esse indicador. Uma opção exige que o instantâneo de linha de base para a métrica de crescimento funcional do consultor em PCI seja realizado em 1º de outubro de 2020. (Para obter detalhes sobre todas as opções para obter pontos para essa métrica, consulte [definições para o crescimento funcional do consultor](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).)
 
-5. **Desenvolvedores** : número de indivíduos que contêm uma certificação associada ao desenvolvedor atualmente ativa para o Dynamics 365. (Para obter detalhes sobre essa métrica, consulte [definições para desenvolvedores](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers).)
+5. **Desenvolvedores**: número de indivíduos que contêm uma certificação associada ao desenvolvedor atualmente ativa para o Dynamics 365. (Para obter detalhes sobre essa métrica, consulte [definições para desenvolvedores](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers).)
 
 *Indicadores de sucesso do cliente:*
 
-6. **Novas implantações grandes** : número de locatários de produção que cruzam o limite de uso alto nos últimos 12 meses. (Para obter detalhes sobre essa métrica, consulte [definições para novas implantações grandes](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments).)
+6. **Novas implantações grandes**: número de locatários de produção que cruzam o limite de uso alto nos últimos 12 meses. (Para obter detalhes sobre essa métrica, consulte [definições para novas implantações grandes](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments).)
 
-7. **Crescimento mensal ativo do usuário** : crescimento em usuários ativos mensais em todos os seus clientes nos últimos 12 meses. (Para obter detalhes sobre essa métrica, consulte [definições para o crescimento mensal ativo do usuário](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth).)
+7. **Crescimento mensal ativo do usuário**: crescimento em usuários ativos mensais em todos os seus clientes nos últimos 12 meses. (Para obter detalhes sobre essa métrica, consulte [definições para o crescimento mensal ativo do usuário](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth).)
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>Como a pontuação de PCI impacta a qualificação de competência
 Pontos são concedidos para cada indicador obtido, resultando em uma pontuação de PCI de número único. são possíveis pontos máximos de 100. 
@@ -98,12 +98,12 @@ Cada métrica de PCI tem limites definidos pela Microsoft que podem fazer com qu
 Os pontos em cada métrica são contratados para produzir uma pontuação de PCI distinta para o envolvimento do cliente e Finanças e operações. Essa pontuação será atualizada mensalmente.
 
 Os parceiros podem obter o máximo de pontos para uma determinada métrica se atingirem ou excederem os limites indicados abaixo. Os pontos parciais podem ser obtidos para todas as métricas, exceto para o crescimento funcional do consultor.
+
 Por exemplo, um parceiro de mercado desenvolvido com $150000 em nova receita líquida ganhará metade ($ 150000/$ 300000) do máximo de 10 pontos.
 
 Consulte as seguintes tabelas para obter detalhes:
 - [Tabela 1. Limites do engajamento do cliente](partner-contribution-indicators.md#table-1-customer-engagement-thresholds)
 - [Tabela 2. Limites de finanças e operações](partner-contribution-indicators.md#table-2-finance-and-operations-thresholds)
-- [Tabela 3. Crescimento funcional do consultor](partner-contribution-indicators.md#table-3-functional-consultant-growth)
 
 ### <a name="table-1-customer-engagement-thresholds"></a>Tabela 1 limites do compromisso com o cliente
 
@@ -114,7 +114,7 @@ Consulte as seguintes tabelas para obter detalhes:
 | **Vela** | USD 300.000 | 10 | 10 | *\* Consulte a observação* | 5 | 5 | 25% |
 | **Desenvolvimento** | $150000 | 5  | 5  |*\* Consulte a observação* | 2 | 1 | 25% |
 
-*\* Observação: os destinos de crescimento diferem com base no número de consultores de linha de base. Consulte a [tabela 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) para obter metas de crescimento.*
+*\* Observação: os destinos de crescimento diferem com base no número de consultores de linha de base e na opção específica que um parceiro usa para obter pontos. Para saber mais sobre as opções para obter pontos ou metas de crescimento específicas de cada opção, confira [definições para o crescimento funcional do consultor](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
 
 ### <a name="table-2-finance-and-operations-thresholds"></a>Tabela 2 limites financeiros e de operações
 
@@ -125,19 +125,7 @@ Consulte as seguintes tabelas para obter detalhes:
 | **Vela** | USD 300.000 | 3 | 15 | *\* Consulte a observação* | 5  | 3 | 25% |
 | **Desenvolvimento** | $150000 | 1 | 5 |*\* Consulte a observação* | 2 | 1 | 25% |
 
-*\* Observação: os destinos de crescimento diferem com base no número de consultores de linha de base. Consulte a [tabela 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) para obter metas de crescimento.*
-
-### <a name="table-3-functional-consultant-growth"></a>Tabela 3 crescimento funcional do consultor
-
->[!NOTE]
-> A tabela a seguir mostra uma coluna **desenvolvida** e **desenvolvendo** com a linha de base de consultor funcional necessária para ser elegível para ganhar pontos. A data do instantâneo de linha de base será feita em 1º de outubro de 2020.
-
-
-| Vela | Desenvolvimento | Crescimento necessário para ganhar todos os 15 pontos *
-|:---:|:---:|:---:|
-| 15-29 | 5-14 | 35% |
-| 30 a 49 | 15-24 | 25% |
-| 50 e acima | 25 e acima | 15% |
+*\* Observação: os destinos de crescimento diferem com base no número de consultores de linha de base e na opção específica que um parceiro usa para obter pontos. Para saber mais sobre as opções para obter pontos ou metas de crescimento específicas de cada opção, confira [definições para o crescimento funcional do consultor](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
 
 ## <a name="detailed-definitions-of-pci-metrics"></a>Definições detalhadas de métricas de PCI
 
@@ -208,13 +196,30 @@ Os consultores funcionais são um indicador de capacidade e um dos sete principa
 
 - Os consultores funcionais são definidos como o número de pessoas que mantêm uma certificação de associação de consultor funcional atualmente ativa, como uma certificação de consultor funcional de envolvimento do cliente ou uma certificação de consultor funcional e de operações de finanças.
 
-- A certificação de consultor funcional do engajamento do cliente requer um indivíduo para passar: MB-200 **e** um dos seguintes: mb-210, mb-220, mb-230, mb-240 ou MB6-898.
+- A certificação de consultor funcional do compromisso com o cliente requer um indivíduo para passar:
+  - MB-200 \* ou pl-200<br/>
+  **e** um dos seguintes exames:
+  - MB-210, MB-220, MB-230, MB-240 ou MB6-898 \* \* .
 
-- A certificação de consultor funcional e de operações de finanças requer um indivíduo para passar: MB-300 **e** uma das seguintes opções: mb-310, MB-320, mb-330, MB6-897 ou MB6-898.
+- A certificação de consultor funcional e de operações de finanças requer um indivíduo para passar:
+  - MB-300<br/>
+  **e** um dos seguintes exames:
+  - MB-310, MB-320, MB-330, MB-897 \* \* ou MB6-898 \* \* .
+
+> [!NOTE]
+> Os exames marcados com um asterisco ( \* ) estão sendo desativados ou substituídos nos próximos meses. Veja abaixo detalhes específicos:
+>
+> - Os exames marcados com um único asterisco ( \* ) serão desativados em 31 de dezembro de 2020. Os exames que estão sendo desativados em 31 de dezembro de 2020 permanecerão qualificados para obtenção de competência e renovação até 31 de dezembro de 2021, se forem tomados antes de serem desativados.
+> - Os exames marcados com dois asteriscos ( \* \* ) estão sendo desativados em 31 de janeiro de 2021. Os exames que estão sendo desativados em 31 de janeiro de 2021 permanecerão qualificados para obtenção de competência e renovação até 31 de janeiro de 2022, se forem tomados antes de serem desativados.
+
 
 ### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>Definições para o crescimento do consultor funcional de #4 de métricas de PCI
 
-O crescimento funcional do consultor é um indicador de capacidade e um dos sete principais indicadores de contribuição de parceiro [descritos anteriormente neste artigo](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Veja mais informações sobre como o indicador de crescimento funcional do consultor é definido e como os pontos dessa categoria são calculados:
+O crescimento funcional do consultor é um indicador de capacidade e um dos sete principais indicadores de contribuição de parceiro [descritos anteriormente neste artigo](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Um parceiro tem uma das duas opções para obter os pontos de tudo ou nada (15 ou 0 pontos) disponíveis para essa métrica. Nenhum ponto parcial será concedido. 
+
+Veja mais informações sobre como o indicador de crescimento funcional do consultor é definido e como os pontos dessa categoria são calculados.
+
+**Opção um para obter pontos:**
 
 - O crescimento funcional do consultor é definido como o crescimento no número de associados de consultores funcionais certificados desde um instantâneo de linha de base. A data do instantâneo de linha de base será feita em 1º de outubro de 2020.
 
@@ -224,7 +229,19 @@ O crescimento funcional do consultor é um indicador de capacidade e um dos sete
 
 - Para se qualificar para os pontos, você deve ter um mínimo de **15** associados de consultores funcionais para desenvolver parceiros de mercado e **5** para desenvolver parceiros de mercado quando o instantâneo de linha de base for tirado.
 
-- **Nenhum ponto parcial será concedido.** O crescimento na parte superior do instantâneo de linha de base deve atender ou exceder os limites indicados na [tabela 3. Crescimento funcional do consultor](partner-contribution-indicators.md#table-3-functional-consultant-growth).
+- **Nenhum ponto parcial será concedido.** O crescimento na parte superior do instantâneo de linha de base deve atender ou exceder os limites indicados na tabela a seguir. A tabela mostra uma coluna **desenvolvida** e **desenvolvendo** com a linha de base do consultor funcional necessária para ser elegível para ganhar pontos.
+
+  | Vela | Desenvolvimento | Crescimento necessário para ganhar todos os 15 pontos *
+  |:---:|:---:|:---:|
+  | 15-29 | 5-14 | 35% |
+  | 30 a 49 | 15-24 | 25% |
+  | 50 e acima | 25 e acima | 15% |
+
+**Opção dois para obter pontos:**
+
+- Os parceiros de mercado desenvolvidos podem certificar 50 ou mais consultores funcionais no tempo para seus primeiros aniversários de CBA baseados em PCI. (Desenvolver parceiros de mercado pode certificar 25 ou mais consultores funcionais no tempo para seus primeiros aniversários de CBA baseados em PCI.)
+
+- Se você atingir esse limite, receberá os 15 pontos completos para o crescimento funcional do consultor por 24 meses a partir dessa data. Isso significa que você obterá pontos máximos para o crescimento funcional de um consultor para dois aniversários CBA.
 
 ### <a name="definitions-for-pci-metric-5---developers"></a>Definições para PCI Metric #5-Developers
 
@@ -234,9 +251,21 @@ Os desenvolvedores são um indicador de capacidade e um dos sete principais indi
 
 - Os pontos para o indicador de desenvolvedores são baseados no instantâneo do mês atual com um máximo de 5 pontos disponíveis.
 
-- Os desenvolvedores de envolvimento do cliente recebem crédito quando passam MB-200 **e** um dos seguintes: MB-400 ou MB2-716.
+- Os desenvolvedores de envolvimento do cliente recebem crédito quando eles passam:
+  - PL-400<br/>**or**
+  - MB-200 \* **e** um dos seguintes exames:
+    - MB-400 \* ou MB2-716\*\*
 
-- Os desenvolvedores de finanças e operações recebem crédito quando passam MB-300 **e** um dos seguintes: MB-500 ou MB6-894.
+- Os desenvolvedores de operações e Finanças recebem crédito quando eles passam:
+  - MB-300<br/>
+  **e** um dos seguintes exames:
+  - MB-500 ou MB-894\*\*
+
+> [!NOTE]
+> Os exames marcados com um asterisco ( \* ) estão sendo desativados ou substituídos nos próximos meses. Veja abaixo detalhes específicos:
+>
+> - Os exames marcados com um único asterisco ( \* ) serão desativados em 31 de dezembro de 2020. Os exames que estão sendo desativados em 31 de dezembro de 2020 permanecerão qualificados para obtenção de competência e renovação até 31 de dezembro de 2021, se forem tomados antes de serem desativados.
+> - Os exames marcados com dois asteriscos ( \* \* ) estão sendo desativados em 31 de janeiro de 2021. Os exames que estão sendo desativados em 31 de janeiro de 2021 permanecerão qualificados para obtenção de competência e renovação até 31 de janeiro de 2022, se forem tomados antes de serem desativados.
 
 ### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>Definições para PCI Metric #6-novas implantações grandes
 
