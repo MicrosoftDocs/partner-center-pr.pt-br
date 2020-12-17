@@ -1,7 +1,7 @@
 ---
 title: Gerenciar oportunidades de venda conjunta
 ms.topic: article
-ms.date: 06/02/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Como um parceiro qualificado da Microsoft, você pode comercializar com a Microsoft. Saiba como definir as negociações, convidar a Microsoft para colaborar ou exibir as negociações enviadas.
@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61dab9f869d8bb9a26f1317fb1aec3013e915465
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 52a1ac20b0370e1dd4a1de85087303090c1b7eb4
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417261"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622194"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Gerenciar oportunidades de venda conjunta no Partner Center
 
@@ -44,13 +44,19 @@ Aproveite as oportunidades de venda conjunta.  As oportunidades de venda conjunt
 
 ## <a name="navigating-the-co-sell-section"></a>Navegando na seção de venda conjunta
 
-Há três guias de nível superior na seção de venda conjunta.
+Para acessar a seção de venda conjunta, siga estas etapas:
 
-**Entrada** – todas as oportunidades enviadas ao parceiro de vendedores da Microsoft para venda colaborativa estão disponíveis nesta guia.
+1. Faça logon no [painel](https://partner.microsoft.com/dashboard)do Partner Center.
 
-**Saída** – todas as oportunidades criadas pelo parceiro estão disponíveis nesta guia. Os parceiros podem criar três diferentes categorias de oportunidades – venda, privada e parceiro para parceiros.
+2. No menu de navegação à esquerda, selecione **referências** e, em seguida, **oportunidades de venda conjunta**.
 
-**Favoritos** – oportunidades marcadas como favoritos nas guias de oportunidades de venda de entrada ou saída são mostradas nesta guia. Marque qualquer oportunidade como favorita clicando no ícone de coração sobre a oportunidade na exibição de lista. Você pode remover a oportunidade dos favoritos clicando no mesmo ícone novamente.
+   Você verá três guias de nível superior nesta seção:
+
+   - **Entrada** – todas as oportunidades enviadas ao parceiro de vendedores da Microsoft para venda colaborativa estão disponíveis nesta guia.
+
+   - **Saída** – todas as oportunidades criadas pelo parceiro estão disponíveis nesta guia. Os parceiros podem criar três diferentes categorias de oportunidades – venda, privada e parceiro para parceiros.
+
+   - **Favoritos** – oportunidades marcadas como favoritos nas guias de oportunidades de venda de entrada ou saída são mostradas nesta guia. Marque qualquer oportunidade como favorita clicando no ícone de coração sobre a oportunidade na exibição de lista. Você pode remover a oportunidade dos favoritos clicando no mesmo ícone novamente.
 
 ## <a name="creating-a-co-sell-opportunity"></a>Criando uma oportunidade de venda conjunta
 
@@ -75,7 +81,7 @@ Insira os detalhes do contrato atual. Os campos, definidos abaixo, podem ser alt
 | **Nome do campo** | **Obrigatório/opcional** | **Detalhes** |
 |-------------|--------|-------|
 |**Nome da negociação** | Obrigatório | O nome amigável para identificar seu negócio em um momento posterior. |
-|**Localidade**| Obrigatório | O escopo de localização MPN da referência. Os usuários de referência com esse escopo de local podem exibir as referências se fizerem parte da equipe. Administradores de referência e administradores de referência com escopo global podem exibir as referências independentemente do local. O local não pode ser editado após a criação da referência.|
+|**Localização**| Obrigatório | O escopo de localização MPN da referência. Os usuários de referência com esse escopo de local podem exibir as referências se fizerem parte da equipe. Administradores de referência e administradores de referência com escopo global podem exibir as referências independentemente do local. O local não pode ser editado após a criação da referência.|
 |**Valor estimado** | Obrigatório | O valor do acordo com base nas informações disponíveis ao criar o negócio.|
 |**Data de fechamento estimada**| Obrigatório| A data pela qual você espera fechar o negócio com o cliente. |
 |**ID DO CRM**| Opcional | Marque o acordo com a ID da oportunidade em seu respectivo CRM para fins de acompanhamento.|
