@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/03/2020
-ms.openlocfilehash: a373a6a956e8c8a8e8052a946cc82a8d82213da0
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.date: 12/17/2020
+ms.openlocfilehash: ea08eb3ab860c0ed4c34ee3818b7db42307c3b4e
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622177"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666733"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,6 +22,11 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 | **Categoria** | **Comunicados de dezembro de 2020** | **Comunicado** |
 |---------|:---------|:---------|
+|Ofertas/mercados|[Software perpétuo no CSP:  novos produtos e novas geografias](2020-december.md#10)|17 de dezembro|
+|Amplie seus negócios|[Governo, acadêmico e sem fins lucrativos: continuando as alterações do programa Open License e a evolução do CSP](2020-december.md#9)|17 de dezembro|
+|Ofertas/mercados|[Alterações nos requisitos de integração do cliente do CSP (Provedor de Soluções na Nuvem)](2020-december.md#8)|17 de dezembro|
+|Amplie seus negócios|[Lembrete: software perpétuo no programa CSP (Provedor de Soluções na Nuvem) amplamente disponível a partir de janeiro de 2021](2020-december.md#7)|17 de dezembro|
+|Funcionalidades|[Guia de Autorização do Online Services e de Canais de Software](2020-december.md#6)|17 de dezembro|
 |Ofertas/mercados|[Já está disponível uma oferta promocional do Power Apps](2020-december.md#5)|16 de dezembro|
 |Funcionalidades|[Lançamento do SDK no .NET Standard (v1.16.3)](2020-december.md#4)|8 de dezembro|
 |Ofertas/mercados|[Notas sobre a versão da lista de preços baseada na licença de dezembro de 2020](2020-december.md#3)|8 de dezembro|
