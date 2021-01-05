@@ -6,18 +6,18 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 5769326965955762d2c262fd42a099cf745417e6
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 9559e1e2b0511d52b1535efa6513bbb61c6c5fec
+ms.sourcegitcommit: 0dfbb9717bd67f710652e4af11867857c930b2fa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007104"
+ms.lasthandoff: 12/25/2020
+ms.locfileid: "97771685"
 ---
-# <a name="what-is-microsoft-appsource"></a>O que é Microsoft AppSource?
+# <a name="what-is-microsoft-appsource"></a>O que é o Microsoft AppSource?
 
 Microsoft AppSource é uma loja online que contém milhares de aplicativos de negócios e serviços criados por provedores de software líderes do setor. Você pode usar o AppSource para encontrar, experimentar, comprar e implantar o software e os serviços de negócios que o ajudarão a executar seus negócios.
 
-O catálogo AppSource inclui aplicativos SaaS (software como serviço), soluções criadas para Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power apps e serviços de consultoria de parceiros da Microsoft. Você pode acessar o catálogo de produtos do AppSource em [https://appsource.microsoft.com](https://appsource.microsoft.com) , bem como por meio da experiência no produto no Microsoft 365, no Dynamics 365 e no Microsoft Power Platform. As soluções do AppSource também podem estar disponíveis nos revendedores da Microsoft no programa provedor de soluções na nuvem.
+O catálogo AppSource inclui aplicativos SaaS (software como serviço), soluções criadas para Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power apps e serviços de consultoria de parceiros da Microsoft. Acesse o catálogo de produtos do AppSource em [https://appsource.microsoft.com](https://appsource.microsoft.com) ou por meio da experiência no produto em Microsoft 365, Dynamics 365 e Microsoft Power Platform. As soluções do AppSource também podem estar disponíveis nos revendedores da Microsoft no programa provedor de soluções na nuvem.
 
 ## <a name="find-what-you-need-on-appsource"></a>Encontre o que você precisa no AppSource
 
@@ -44,12 +44,16 @@ Todos os produtos disponíveis no AppSource foram certificados de acordo com cri
 
 ## <a name="terms-and-conditions"></a>Termos e condições
 
-O fornecedor de software define o preço, o contrato de licença de usuário final e as políticas de privacidade. Cada oferta no AppSource inclui links para a política de privacidade e o contrato de licença do Publicador. A confirmação desses contratos, bem como a oportunidade de exibi-los, faz parte do fluxo de compra. Consulte [contratos legais](legal-contracts.md) para obter mais informações.
+O fornecedor de software define o preço, o contrato de licença de usuário final e as políticas de privacidade. Cada oferta no AppSource inclui links para a política de privacidade e o contrato de licença do Publicador. A exibição e a confirmação desses contratos faz parte do fluxo de compra. Para obter detalhes, consulte [contratos legais](legal-contracts.md).
+
+## <a name="discover-saas-and-m365-integrated-apps"></a>Descobrir aplicativos integrados de SaaS e M365
+
+Nossos parceiros podem vincular entre aplicativos SaaS e M365 integrados. Isso permite baixar e usar os aplicativos integrados quando você obtém o aplicativo SaaS vinculado. Nesse caso, o resultado da pesquisa pode retornar apenas o aplicativo SaaS mostrando os ícones dos aplicativos integrados que vêm com ele. Você pode navegar entre o SaaS e o aplicativo integrado na página de detalhes do produto de cada um. Se um aplicativo SaaS exigir a compra, consulte [como adquirir ofertas de SaaS em Microsoft AppSource](purchase-software-appsource.md).
 
 ## <a name="find-ratings-and-reviews"></a>Localizar classificações e análises
 
-Em todas as páginas de listagem, você encontrará classificações e análises de outros clientes. As classificações usam uma escala de 5 estrelas e a classificação média é exibida em cada cartão de oferta. As revisões idênticas também estão disponíveis para que você possa aprender sobre as experiências de outros clientes. Depois de adquirir uma solução, você também pode deixar uma classificação e uma revisão para ajudar outros clientes a tomar decisões.
+Em todas as páginas de listagem, você encontrará classificações e análises de outros clientes. As classificações usam uma escala de cinco estrelas e a classificação média é exibida em cada cartão de oferta. As revisões idênticas também estão disponíveis para que você possa aprender sobre as experiências de outros clientes. Depois de adquirir uma solução, você também pode deixar uma classificação e uma revisão para ajudar outros clientes a tomar decisões.
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Comprar software em Microsoft AppSource](purchase-software-appsource.md)
+- [Comprar software no Microsoft AppSource](purchase-software-appsource.md)

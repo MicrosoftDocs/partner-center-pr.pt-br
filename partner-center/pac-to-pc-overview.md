@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: da6a3ab2a2fab99f49b9f5ba22824e5e61f6d482
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: db35696483c8a1e67f173ec7953cfa33a428a022
+ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174898"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97720825"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>O Centro de Administração do Parceiro está migrando para o Partner Center
 
@@ -41,13 +41,10 @@ Durante abril de 2018, a PAC será desativada e os parceiros CSP começarão a s
 
 - Parceiros do provedor de soluções de nuvem: se você for um parceiro CSP, você será redirecionado automaticamente para o Partner Center a partir de abril de 2018.
 
-- Parceiros do Advisor (se você não fizer transações via CSP e usar o PAC para fornecer avaliações/Cotações para seus clientes): assim que decidirmos na linha do tempo para seu redirecionamento automático para o Partner Center, anunciaremos aqui.
+- Parceiros do Advisor (se você não fizer transações via CSP e usar o PAC para fornecer avaliações/Cotações para seus clientes): se você for um parceiro Advisor, nós o redirecionaremos automaticamente para o Partner Center a partir de junho de 2020.
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Comece a usar o Microsoft Partner Center agora!
 
 Comece [a usar o Microsoft Partner Center](https://partnercenter.microsoft.com/) agora mesmo para ficar pronto para a mudança do PAC.  Você usará as mesmas credenciais para o Partner Center que você usa para PAC.
 
-> [!IMPORTANT]  
-> Alguns recursos e funções que estavam disponíveis no PAC não estarão disponíveis no Partner Center.
-
- Leia a [Comparação lado a lado](moving-from-pac-to-pc.md) para entender e familiarizar-se com essas alterações. 
+Leia a [Comparação lado a lado](moving-from-pac-to-pc.md) para entender e familiarizar-se com essas alterações.

@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 81f64e117f9e0a4abc817746d11dc9acae887577
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: e792e4af2999924ba8be77ec0517ce56c1db7a27
+ms.sourcegitcommit: ed5c873d19f0464cc986fe6e852383cd4280daf6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94433335"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "97893199"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Transferir as assinaturas do plano do Azure de um cliente para um parceiro diferente
 
@@ -49,7 +49,7 @@ O cliente deve estar em conversa com os dois parceiros (atuais e futuros) antes 
 
 - O cliente participa do parceiro CSP atual em sua intenção de fazer a transição
 - O futuro parceiro CSP trabalha com o cliente para garantir que as necessidades do cliente possam ser atendidas
-- O parceiro CSP futuro estabelece uma relação com o cliente antes do início da transição  
+- O parceiro CSP futuro estabelece uma relação com o cliente e adquire um plano do Azure antes que a transição comece  
 - O cliente deve assinar o contrato do cliente da Microsoft com o futuro parceiro CSP
 - O parceiro CSP futuro deve ter assinado o Microsoft Partner Agreement para usar essa ferramenta
 
@@ -69,7 +69,7 @@ O parceiro futuro da assinatura precisa concluir um formulário de solicitação
 1.  No menu do centro de parceiros, selecione **clientes** e selecione o cliente para o qual você deseja concluir um formulário de solicitação de transferência em nome de.
 2.  No menu cliente, selecione **assinaturas**.
 3.  Selecione a seção **solicitação de transferência** .
-4.  Na **seção solicitação de transferência** , selecione **Adicionar nova solicitação**.
+4.  Na **seção solicitação de transferência**, selecione **Adicionar nova solicitação**.
 
     :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Seção de transferências":::
 
@@ -90,7 +90,7 @@ O parceiro futuro da assinatura precisa concluir um formulário de solicitação
 
 O agente de administrador do parceiro atual do cliente receberá um email informando que o cliente está solicitando uma transferência de suas assinaturas:
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Revisão":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Examinar":::
 
 Examine e aceite o formulário de solicitação de transferência do centro de parceiros para concluir a transferência da assinatura.
 

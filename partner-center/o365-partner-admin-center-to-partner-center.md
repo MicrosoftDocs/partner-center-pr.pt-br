@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a9270f405b58ee065a67427395a392128b3eda1
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 51dd9bc389077f4b472e2e13f1170214ad1d382d
+ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114589"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97720808"
 ---
 # <a name="office-365-partner-admin-center-partners---get-ready-to-move-business-operations-to-partner-center"></a>Parceiros do centro de administração de parceiros do Office 365 – Prepare-se para mover as operações de negócios para o Partner Center
 
@@ -36,9 +36,7 @@ Estamos trazendo os recursos do centro de administração de parceiros do Office
 - enviar convites de relacionamento aos clientes em seu próprio nome e em nome do seu provedor;
 - gerenciar usuários individuais e atribuir licenças mais facilmente.
 
-Você pode começar a usar o Partner Center imediatamente para muitas das tarefas para as quais você usa atualmente o Office 365 Partner Admin Center. 
-
-Por enquanto, os dois sites têm suporte, portanto, enquanto estiver fazendo a transição para o novo site, você ainda poderá usar o centro de administração de parceiros do Office 365. As alterações feitas em um local serão exibidas em ambos.
+Você será redirecionado para o Partner Center imediatamente para todas as tarefas nas quais você usa atualmente o centro de administração de parceiros do Office 365 para.
 
 ## <a name="find-office-365-partner-admin-center-features-in-partner-center"></a>Encontre recursos do Office 365 Partner Admin Center no Partner Center
 
@@ -46,9 +44,9 @@ A conclusão de tarefas no Partner Center é feita de forma diferente para o que
 
 | Recursos do Office 365 Partner Admin Center                       | Onde isso está no Partner Center? | 
 |   -----------------------------------------------  | -------------- |
-| Construa seus negócios: Crie oferta de compra | Trabalhe com seu provedor para vender ofertas aos seus clientes |
+| Construa seus negócios: Crie oferta de compra | Partner Center: avaliações e ofertas de compra > criar oferta de compra |
 | Construa seus negócios: Solicite permissões de administrador delegado | Centro de parceiros: os clientes > solicitar uma relação de revendedor |
-| Construa seus negócios: Crie convites de avaliação | Não disponível. Você ainda pode usar o Office 365 Partner Admin Center para isso |
+| Construa seus negócios: Crie convites de avaliação | Partner Center: avaliações e ofertas de compra > criar convite para avaliação |
 | Solicitações de serviço: Lista de cliente: Office 365 admin center | Partner Center: os clientes > administrar serviços |
 | Solicitações de serviço: Lista de cliente: Solicitações de serviço | Partner Center: solicitação de serviço > solicitações de cliente |
 | Solicitações de serviço: Sinalizado | Painel: clientes: selecione a estrela ao lado do nome da empresa |
