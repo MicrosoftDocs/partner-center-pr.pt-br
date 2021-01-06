@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: cdd840089d1937c3168c60a361e3d77e37c688ed
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
+ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916840"
+ms.locfileid: "97950579"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guia para a venda em conjunto no Partner Center (PC) para parceiros migrando do PSC (Partner Sales Connect)
 
@@ -321,7 +321,7 @@ O Partner Center não pode ser acessado pelo PDMs diretamente ao contrário do P
 - Usuário convidado no Partner Center-você pode adicionar sua conta do PDM @microsoft.com como um usuário convidado no Partner Center e atribuir a função de administrador de referência a eles para que eles possam exibir e agir em referências.
 - Criando um [novo usuário](./create-user-accounts-and-set-permissions.md#add-a-new-user) em seu locatário-você pode criar um novo usuário em seu próprio locatário e compartilhar esses detalhes com o PDM para que eles possam exibir e agir em referências semelhantes a outros usuários de referência em sua conta.
 
-## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-an-invalid-mpn"></a>Encontrando a ID de MPN correta se sua conta no PSC não estiver associada a um MPN inválido
+## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>Encontrando a ID de MPN correta se sua conta no PSC não estiver associada a um MPN válido
 
 Se você estiver aqui porque viu uma faixa no PSC mencionando "problema de associação de ID de MPN inválido do PSC", você está no lugar certo.
 
