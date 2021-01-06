@@ -2,25 +2,22 @@
 title: Como vender ofertas para clientes educacionais
 description: Saiba como criar um cliente educativo e vender ofertas para eles no Partner Center. Inclui a confirmação do status de verificação para o cliente de educação.
 ms.topic: how-to
-ms.date: 10/06/2020
+ms.date: 12/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f17493a55ebd7d1ff9de0570e867cdf38e2e3fb
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 5af6ae0d3c11d2ea59e4b8ef2224393e48d6a3df
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175076"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916857"
 ---
-# <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Como vender ofertas para clientes de educação & como criar um cliente de educação no Partner Center
+# <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Como vender ofertas para clientes educativos e como criar um cliente de educação no Partner Center
 
-**Aplica-se a**
-
-- Partner Center
 
 **Funções apropriadas**
 
@@ -28,7 +25,7 @@ ms.locfileid: "92175076"
 - Agente administrativo
 - Agente de vendas
 
-## <a name="create-an-education-customer"></a>Criar um cliente de educação
+## <a name="create-an-education-customer"></a>Criar um cliente educacional
 
 Este artigo explica como criar um cliente de educação no Partner Center e vender produtos educativos para eles. Ele também aborda como exibir o status de verificação e reenviar a solicitação de verificação, se necessário.
 
@@ -49,6 +46,10 @@ Este artigo explica como criar um cliente de educação no Partner Center e vend
 
    :::image type="content" source="images/eduaccountinfo.png" alt-text="Conta do cliente de educação":::
 
+4. Depois de confirmar a **revisão**, você receberá um status de **inanálise** se as informações enviadas forem válidas. 
+
+    :::image type="content" source="images/edu/create-review.png" alt-text="Conta do cliente de educação em análise"lightbox="images/edu/create-review-expanded.png":::
+
 ### <a name="confirm-your-education-customers-verification-status"></a>Confirmar o status de verificação do seu cliente de educação
 
 Na página **conta** do cliente, consulte **status de qualificação especial**.
@@ -56,15 +57,19 @@ Exemplos de status:
 
 - Se o cliente tiver passado a verificação: educação
 
-   :::image type="content" source="images/edupassedvetting.png" alt-text="Conta do cliente de educação":::
+   :::image type="content" source="images/edupassedvetting.png" alt-text="A verificação da educação foi bem-sucedida":::
 
 - Se o cliente não passou na verificação: não é um cliente de educação
 
-   :::image type="content" source="images/edudidnotpassvetting.png" alt-text="Conta do cliente de educação":::
+   :::image type="content" source="images/edu/fail-reason.png" alt-text="A verificação da educação não foi bem-sucedida" lightbox="images/edu/fail-reason-expanded.png":::
 
 - Se o cliente não tiver sido marcado como um cliente de educação: nenhum
 
-   :::image type="content" source="images/edunottagged.png" alt-text="Conta do cliente de educação":::
+   :::image type="content" source="images/edu/account-one.png" alt-text="o cliente de educação não está marcado como tal" lightbox="images/edu/account-one-expanded.png":::
+
+- Se o cliente estiver em análise como um cliente de educação: em análise
+
+    :::image type="content" source="images/edu/in-review.png" alt-text="o cliente de educação está em análise" lightbox="images/edu/in-review-expanded.png":::
 
 ## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>Corrigir as informações da conta do cliente e reenviar para verificação
 
