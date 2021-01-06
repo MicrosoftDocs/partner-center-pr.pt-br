@@ -359,6 +359,11 @@
     "source_path": "partner-center/find-domain-name.md",
     "redirect_url": "/partner-center/find-ids-and-domain-names",
     "redirect_document_id": "TRUE"
+  },
+  {
+    "source_path": "partner-center/co-sell-with-microsoft.md",
+    "redirect_url": "/partner-center/manage-co-sell-opportunities",
+    "redirect_document_id": "TRUE"
   }
   
  ]
