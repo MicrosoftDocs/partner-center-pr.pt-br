@@ -1,19 +1,19 @@
 ---
 title: O conector de televenda para o centro de parceiros do Salesforce CRM
 ms.topic: how-to
-ms.date: 09/29/2020
+ms.date: 01/06/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Sincronize suas referências no Partner Center com seu Salesforce CRM. Os vendedores podem, então, vender com a Microsoft de dentro de seus sistemas de CRM.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: b73f0b24538daa18b93fa206fce5eda1ab9bc9b9
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
+ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947844"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "97960944"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Conector de venda conjunta para o Salesforce CRM – visão geral
 
@@ -51,7 +51,7 @@ Para sincronizar as referências no Partner Center e no Salesforce CRM, a soluç
 
 3. No Salesforce, instale campos personalizados e objetos usando o instalador de pacote abaixo.
   
-Acesse [aqui](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006Vs9a) para instalar o pacote em qualquer empresa:
+Acesse [aqui](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) para instalar o pacote em qualquer empresa.
 
 
 Observação: se você estiver instalando em uma área restrita, deverá substituir a parte inicial da URL por http://test.salesforce.com
