@@ -8,20 +8,23 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 7cc78142e05667ca9072b25fb5ed94822d5f7c62
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.date: 01/04/2021
+ms.openlocfilehash: 754fbb58c2344ad09c6f9b72b36afc62eda38b71
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736523"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916806"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
 Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos essas informações com frequência, portanto, visite a página regularmente!
 
-| **Categoria** | **Comunicados de dezembro de 2020** | **Comunicado** |
+| **Categoria** | **Comunicados de janeiro de 2021** | **Comunicado** |
 |---------|:---------|:---------|
+|Funcionalidades|[Reprovação e desativação das APIs de Qualificação GET e PUT existentes para o processo de validação do cliente de Educação até o fim de fevereiro de 2021](2021-january.md#2)|5 de janeiro|
+|Ofertas/mercados|[Ofertas do Dynamics 365 para fevereiro de 2021](2021-january.md#1)|4 de janeiro|
+| **Categoria** | **Comunicados de dezembro de 2020** | **Comunicado** |
 |Ofertas|[Fundos de marketing cooperativo de incentivo de canal não utilizados (cooperativos) do período de uso do AF21 H1 a serem transferidos para o período de uso H2](2020-december.md#13)|22 de dezembro|
 |Funcionalidades|[Migração do DocuSign para a Adobe Sign em 2021 para parceiros que têm MPAs (Contratos de Parceiro da Microsoft)](2020-december.md#12)|22 de dezembro|
 |Ofertas/mercados|[Preços de janeiro de 2021 e agendas de catálogo](2020-december.md#11)|22 de dezembro|
@@ -40,7 +43,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 |Ofertas/mercados|[Office 365 E1 para promoção de médio porte (LATAM, APAC e Índia)](2020-november.md#12)|18 de novembro|
 |Funcionalidades|[Atualizações de API do Partner Center e aprimoramentos de IU (interface do usuário) para fortalecer a triagem do cliente em determinados países](2020-november.md#11)|17 de novembro|
 |Funcionalidades|[Alteração da moeda de cobrança do parceiro da EU/EFTA para novas ofertas de comércio](2020-november.md#10)|17 de novembro|
-|Capacidades|[Limitação de API para APIs do Partner Center](2020-november.md#9)|17 de novembro|
+|Funcionalidades|[Limitação de API para APIs do Partner Center](2020-november.md#9)|17 de novembro|
 |Funcionalidades|[409 erros devido a solicitações de MCA duplicadas](2020-november.md#8)|16 de novembro|
 |Funcionalidades|[Testes disponíveis: atualizações de API do Partner Center e aprimoramentos da IU (interface do usuário) para obter o processo de validação do cliente de Educação](2020-november.md#7)|10 de novembro|
 |Capacidades|[Expansão do conteúdo do parceiro de licenciamento comercial na Galeria de Preparação de Operações](2020-november.md#6)|2 de novembro|
@@ -76,10 +79,10 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 |Funcionalidades|[Atualização – APIs de uso de CSP do O365 e relatórios de uso da licença de CSP ](2020-september.md#13)|29 de setembro|
 |Funcionalidades|[Futuras alterações de IVA da lei federal da Rússia](2020-september.md#12)|25 de setembro|
 |Funcionalidades|[Lançamento SDK para .NET Standard v1.16.2](2020-september.md#11)|22 de setembro|
-|Funcionalidades|[Insights do Partner Center – seu recurso de relatório único para entender seus negócios com a Microsoft.](2020-september.md#10)|23 de setembro|
+|Capacidades|[Insights do Partner Center – seu recurso de relatório único para entender seus negócios com a Microsoft.](2020-september.md#10)|23 de setembro|
 |Ofertas/mercados|[Comunicado sobre a disponibilidade geral do SQL do Azure no Edge](2020-september.md#9)|22 de setembro|
 |Funcionalidades|[Alterações futuras nas APIs de uso do CSP O365 e nos relatórios de uso da Licença do CSP em 30 de setembro de 2020.](2020-september.md#8)|17 de setembro|
-|Capacidades|[Atualização de MPA de revendedor indireto. Ação necessária para usuários da API de MPA e novos relatórios de MPA](2020-september.md#7)|16 de setembro|
+|Funcionalidades|[Atualização de MPA de revendedor indireto. Ação necessária para usuários da API de MPA e novos relatórios de MPA](2020-september.md#7)|16 de setembro|
 |Ofertas/mercados|[As compras por autoatendimento para o Microsoft Project e o Microsoft Visio já estão disponíveis](2020-september.md#6)|15 de setembro|
 |Ofertas/mercados|[Novos SKUs oferecem o poder do Project Cortex e muito mais para os clientes](2020-september.md#5)|8 de setembro|
 |Capacidades|[Experiência de suporte aprimorada dos Incentivos e processo de criação de tíquete](2020-september.md#4)|2 de setembro|
@@ -98,16 +101,16 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 | **Categoria** | **Comunicados de julho de 2020** | **Data** |
 |Ofertas/mercados|[Alterações nas inicializações do Enterprise Voice e da Discagem Estendida de Audioconferência](2020-july.md#10)|31 de julho|
 |Capacidades|[Futuras alterações nas APIs do Partner Center](2020-july.md#9)|28 de julho|
-|Capacidades|[Lançamento de SDK na versão prévia do .NET Standard v1.16.1](2020-july.md#8)|21 de julho|
+|Funcionalidades|[Lançamento de SDK na versão prévia do .NET Standard v1.16.1](2020-july.md#8)|21 de julho|
 |Capacidades|[Incentivo do CSP (Provedor de Soluções na Nuvem) para ofertas qualificadas do marketplace comercial da Microsoft aprimorado para o ano fiscal de 2021](2020-july.md#7)|22 de julho|
 |Capacidades|[Novas funcionalidades adicionadas aos relatórios de Insights no Partner Center ](2020-july.md#6)|16 de julho|
 |Ofertas/mercados|[Software perpétuo no programa Provedor de Soluções na Nuvem ](2020-july.md#5)|15 de julho|
 | Ofertas/mercados | [As ofertas e os produtos novos e de finais da vida útil do Microsoft Dynamics 365 e do Power Platform](2020-july.md#3) | 1º de julho |
 | Ofertas/mercados | [A Microsoft encerrou as vendas do SKU autônomo do Microsoft Kaizala Pro](2020-july.md#2) | 1º de julho |
-| Capacidades | [Programas de incentivo do CSP estendidos até o 1º trimestre do ano fiscal de 2021](2020-july.md#1) | 1º de julho |
+| Funcionalidades | [Programas de incentivo do CSP estendidos até o 1º trimestre do ano fiscal de 2021](2020-july.md#1) | 1º de julho |
 | **Categoria** | **Comunicados de junho de 2020** | **Data** |
 | Ofertas/mercados | [ESU do Ano 2 do Windows 7 agora disponível para Parceiros CSP](2020-june.md#6) | 29 de junho |
-| Funcionalidades | [Atualização do recurso de remoção de relacionamento do Partner Center](2020-june.md#5) | 29 de junho |
+| Capacidades | [Atualização do recurso de remoção de relacionamento do Partner Center](2020-june.md#5) | 29 de junho |
 | Funcionalidades | [A frequência de cobrança padrão está mudando de anual para mensal](2020-june.md#4) | 17 de junho |
 | Ofertas/mercados | [Alterações no Microsoft 365 F1](2020-june.md#3) | 15 de junho |
 | Funcionalidades | [Atualização de mídia de assinaturas de software do Windows Server para CSP](2020-june.md#2) | 12 de junho |
