@@ -9,14 +9,24 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9d5d0841914f0a8a5dc155307b177606a4a6de6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 386df8e19a7c66403770f94f2656bc52feb15564
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000380"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979559"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Aplicar-se à venda em nuvens nacionais da Microsoft como parte do programa CSP
+
+**Aplica-se a**
+
+- Partner Center para nuvem do Microsoft governamental
+- Partner Center para Microsoft Cloud Alemanha
+
+
+**Funções apropriadas**
+
+- Administrador global
 
 Além de vender aos clientes como parte do programa Provedor de Soluções na Nuvem global, os parceiros qualificados da Microsoft também podem vender soluções de nuvem a clientes em três nuvens nacionais diferentes. Nuvens nacionais são instâncias físicas e lógicas isoladas de rede dos serviços de nuvem corporativos da Microsoft, que estão confinadas dentro das fronteiras geográficas de países específicos e são operadas por uma equipe local. 
 
@@ -24,7 +34,7 @@ Para obter mais informações sobre as ofertas de nuvens nacionais da Microsoft,
 
 A Microsoft disponibiliza estes serviços nas nuvens nacionais:
 
--   Os serviços em escopo do Microsoft Azure oferecem computação em hiperescala, armazenamento, rede e gerenciamento de identidades. O Azure protege os dados na nuvem no nível de segurança, privacidade, controle, conformidade e transparência exigido pelo governo.
+-   Microsoft Azure serviços dentro do escopo oferecem computação de hiperescala, armazenamento, rede e gerenciamento de identidade. O Azure protege os dados na nuvem no nível de segurança, privacidade, controle, conformidade e transparência exigido pelo governo.
 
 -   O Microsoft Dynamics 365 é uma solução de gerenciamento de relacionamento com o cliente (CRM) baseada em nuvem que fornece aos funcionários do governo relatórios de dados, modelagem e fluxos de trabalho, ao mesmo tempo em que fornece recursos de segurança que podem limitar o acesso a dados confidenciais.
 
@@ -49,3 +59,7 @@ Parceiros qualificados podem vender soluções na nuvem da Microsoft para os cli
     A Microsoft é o provedor de tecnologia, mas não opera o serviço; a 21Vianet opera, fornece e gerencia a entrega dos serviços em nuvem da Microsoft de forma independente. Ao licenciar tecnologias da Microsoft, a 21Vianet pode oferecer serviços e operar datacenters do Azure e Office 365 que mantêm os dados dentro da China continental. A 21Vianet também fornece serviços de cobrança e assinatura, bem como suporte.
 
     Para obter informações sobre como se inscrever e vender para clientes no Azure e Office 365 operados pela 21Vianet na China, consulte [Partner Center operado pela 21Vianet](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11)).
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Perguntas frequentes sobre o Partner Center para Microsoft Cloud for US Government](faq-for-us-govt-cloud.md)

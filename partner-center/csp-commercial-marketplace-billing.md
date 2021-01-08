@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c03ab358b8fb6ab0f23ea5f42b9d35c6f6c2b80c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 10592c7f8a3b1f075bc726161603859552b29961
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000420"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979525"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Cobrança de produtos e assinaturas do Marketplace comercial no Partner Center
 
-**Aplica-se a**
-
-- Partner Center
-- Parceiros no programa CSP
 
 **Funções apropriadas**
 

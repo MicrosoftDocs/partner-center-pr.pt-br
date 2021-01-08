@@ -1,7 +1,7 @@
 ---
 title: Preços e ofertas
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Consulte listas de preços atuais para serviços baseados em licença, como Office 365, Microsoft Dynamics CRM e Enterprise Mobility Suite, e serviços baseados em uso, como o Azure.
@@ -9,18 +9,15 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18c671b7903914bbbca49ded24f54b808833a92e
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: bf2630ffcdd36aee17b74a07ac03782ae4d9c9f0
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444798"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979814"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preços e ofertas para o Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure e muito mais
 
-**Aplica-se a**
-
-- Partner Center
 
 **Funções apropriadas**
 
@@ -92,7 +89,7 @@ O CSP oferece alguns serviços para segmentos de mercado especiais, por exemplo,
 |Educação|Cliente|Não, a qualificação do cliente será executada pela Microsoft |Somente baseado em licença|
 |Sem fins lucrativos|Cliente|Não, o cliente se qualifica fora do Partner Center|Somente baseado em licença|
 |GCC (Government Community Cloud)|Parceiro e cliente|Após o GCC habilitado, o parceiro pode criar clientes GCC| Somente baseado em licença|
-|Azure Government|Parceiro|Uma vez qualificado, o parceiro opera em um locatário do CSP específico para o Azure governamental|Recursos do Azure|
+|Azure Government|Partner (parceiro)|Uma vez qualificado, o parceiro opera em um locatário do CSP específico para o Azure governamental|Recursos do Azure|
 
 As margens do parceiro, a diferença entre o preço da lista e os preços de varejo estimados, pode variar de segmento para segmento. Normalmente, a educação e o não-lucro tendem a ter menos ou nenhuma margem para parceiros CSP. Consulte a lista de preços baseada em licenças para obter valores exatos. 
 
@@ -169,7 +166,7 @@ Veja abaixo um resumo de como essas ofertas funcionam:
 - A assinatura não é renovada e expira após 6 anos
 - A frequência de cobrança na oferta é mostrada como anual, mas o parceiro é cobrado antecipadamente em sua primeira fatura depois de adquirir a assinatura
 - As assinaturas de ofertas a1 de 72 meses são bloqueadas após a compra e não podem ser canceladas e as contagens de licenças não podem ser adicionadas à assinatura após a compra inicial
-- Os parceiros que precisam cancelar a necessidade de criar um tíquete de suporte com o motivo do cancelamento e a ID da assinatura com a qual precisam de ajuda.
+- Esta assinatura não é cancelável e não refundable.
 
 ## <a name="estimated-retail-price-erp"></a>Preço de varejo estimado (ERP)
 

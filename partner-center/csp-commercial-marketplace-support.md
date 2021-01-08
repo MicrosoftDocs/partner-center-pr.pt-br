@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86ae657725717fea06a6fdb18cadc069e9140ffa
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 140dd5b7ad8af0f29dabd452dd59f22e3314cdd5
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435035"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979542"
 ---
 # <a name="support-for-commercial-marketplace-products-in-the-csp-program"></a>Suporte para produtos do Marketplace comercial no programa CSP
 
-**Aplica-se a**
-
-- Partner Center
-- Parceiros no programa CSP
 
 **Funções apropriadas**
 
