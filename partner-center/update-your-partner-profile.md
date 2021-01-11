@@ -6,15 +6,15 @@ description: Saiba como verificar os detalhes da empresa, como contato principal
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
+ms.date: 12/17/2020
 ms.localizationpriority: high
-ms.date: 11/23/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9b23fc887b754bf4eb1d703026a24e294952f4c
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 938713a08b52d7f5d601ef7801f300eec223b921
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514700"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666784"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Verificar as informações sobre o perfil da organização no Partner Center
 
@@ -27,13 +27,13 @@ Na primeira vez que você entrar no Partner Center como administrador global, de
 
 Seu perfil de parceiro consiste em informações jurídicas, nome e email do contato principal, programas nas quais a sua empresa participa e, se relevante, suas outras empresas que agora se fundiram no seu negócio jurídico. Verifique se o nome e o endereço da empresa no perfil comercial legal não têm erros de ortografia nem abreviações e se correspondem exatamente aos registros comerciais formais da empresa. Se você estiver operando como Proprietário Único, precisará usar o nome da empresa como razão social.
 
-1. Acesse **Configurações** e selecione **Configurações da conta**.
+1. Acesse o ícone de **Configurações** e selecione **Configurações de conta**.
  
 1. Selecione **Perfil da organização**. 
 
 2. Verifique o **Perfil de negócios jurídico**, as **Informações do contato principal** e as **Informações do programa**.
 
-Se você mesclou as outras empresas no negócio jurídico, também pode verificar as informações delas nesta página. 
+Caso tenha fundido suas outras empresas em seu negócio jurídico, examine também essas informações. 
 
 ## <a name="update-your-legal-business-profile"></a>Atualizar seu perfil comercial jurídico
 
@@ -65,15 +65,11 @@ Se, durante a migração do Partner Membership Center para o Partner Center, o n
 
 Para atualizar a ID do MPN associada à sua conta do CSP:
 
-1. Entre no Painel do Partner Center.
+1. Entre no Painel do Partner Center e selecione **Configurações**.
  
-1. Selecione **Perfil da organização** em **Configurações da conta**.
+1. Selecione **Identificadores** em **Configurações de conta**.
 
-1. Ao lado da **ID do MPN Associado**, selecione **Atualizar**.
- 
-1. Selecione **Continuar**.
- 
-1. Adicione a ID do MPN.
+1. Na seção **CSP**, use o link **Atualizar** para atualizar a ID do MPN associada à sua conta do CSP 
 
 
 ## <a name="update-your-billing-address"></a>Atualizar endereço de cobrança

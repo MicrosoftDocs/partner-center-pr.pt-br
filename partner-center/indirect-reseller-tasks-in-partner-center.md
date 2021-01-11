@@ -1,7 +1,7 @@
 ---
 title: Trabalhar com provedores indiretos no programa CSP
 ms.topic: how-to
-ms.date: 12/11/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como revendedores indiretos no programa CSP podem trabalhar com provedores indiretos da Microsoft (ou distribuidores) para obter ajuda no cobrança e atendimento ao cliente.
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: c1929a68146c09beae16e5aabd96b1f192db3a31
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514732"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636017"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Aprenda como fazer parcerias com provedores indiretos no programa CSP (Provedor de Soluções na Nuvem)
 
@@ -69,10 +69,7 @@ A partir de outubro de 2020, todos os novos parceiros da Microsoft no CSP serão
 2. Reveja a **Página Inicial** para certificar-se de que tem as informações necessárias para o registro e, em seguida, selecione **Avançar**.
 
 3. Entre usando a conta corporativa – o nome de usuário e a senha que você usa para entrar como um administrador global do Office 365, do Microsoft Azure ou do Microsoft Dynamics CRM. Se você não tiver uma conta corporativa, selecione **Criar uma** para configurar uma agora. Depois de configurar uma conta corporativa, faça login usando as credenciais da sua nova conta.
-
-
-   > [!IMPORTANT]  
-   > Selecione a ID do MPN associada ao perfil ativo da empresa, localizado no mesmo país/na mesma região que o locatário do Azure AD.
+  
 
 4. Forneça ou atualize o perfil comercial jurídico, as informações de contato principal e suporte ao cliente da sua empresa. (Para encontrar as informações de negócios legais, selecione **Perfil da organização** e depois **Informações legais**.) Selecione **Registrar agora**.
 
@@ -81,7 +78,16 @@ A partir de outubro de 2020, todos os novos parceiros da Microsoft no CSP serão
    > [!IMPORTANT]  
    > Para ajudar a garantir a segurança e a privacidade da sua empresa, enviaremos um email para seu contato principal para verificar se (1) ele ou ela se inscreveu em uma conta do Partner Center e se (2) este endereço de email pertence à sua empresa. Depois que o contato principal verificar o endereço de email, continuaremos nossa análise das informações fornecidas por você. Nós enviaremos atualizações do status de inscrição ao contato principal.
 
-5. Quando sua conta do Partner Center estiver pronta para uso, verifique se que você foi adicionado ao grupo do agente administrador. Para concluir a configuração de sua conta, incluindo a adição de outros usuários, você deve ter permissões de agente administrador. Siga estas etapas para exibir ou atualizar suas permissões:
+5. Associe sua ID do MPN ao seu locatário da ID do Azure.
+
+    1. Selecione **Identificadores** em **Configurações de conta**.
+
+    1. Na seção **CSP**, use o link **Atualizar** para atualizar a ID do MPN associada à sua conta do CSP. 
+ 
+ > [!IMPORTANT]  
+   > Selecione a ID do MPN associada ao perfil ativo da empresa, localizado no mesmo país/na mesma região que o locatário do Azure AD.
+
+6. Quando sua conta do Partner Center estiver pronta para uso, verifique se que você foi adicionado ao grupo do agente administrador. Para concluir a configuração de sua conta, incluindo a adição de outros usuários, você deve ter permissões de agente administrador. Siga estas etapas para exibir ou atualizar suas permissões:
 
    1. No Painel do Partner Center, selecione o ícone **Configurações** e depois, em **Configurações de conta**, selecione **Gerenciamento de usuários**.
 

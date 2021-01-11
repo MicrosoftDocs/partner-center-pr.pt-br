@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514753"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916823"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Saiba mais sobre o MPA (Contrato de Parceiro da Microsoft) para parceiros do programa CSP
 
@@ -50,7 +50,7 @@ Para continuar participando do programa CSP, você precisa assinar o MPA (Contra
 
 ## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>Confirme se você está registrado como um revendedor indireto de CSP
 
-1. Se você ainda não tem um registro de [CSP Indirect Reseller](enrolling-in-the-csp-program.md) no Partner Center, precisa fazer isso primeiro. Conclua o restante das etapas depois de se registrar como CSP Indirect Reseller no Partner Center.
+1. Se você ainda não estiver registrado como um [CSP Indirect Reseller](indirect-reseller-tasks-in-partner-center.md) no Partner Center, faça isso primeiro. Conclua o restante das etapas depois de se registrar como CSP Indirect Reseller no Partner Center.
 
 1. Entre no Partner Center com suas credenciais da conta do administrador global do CSP.
 
