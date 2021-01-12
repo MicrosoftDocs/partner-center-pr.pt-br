@@ -1,7 +1,7 @@
 ---
 title: Adicionar locatários adicionais à sua conta do Partner Center
 ms.topic: article
-ms.date: 07/30/2020
+ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como adicionar, consolidar ou gerenciar vários locatários do Azure AD em sua conta do Partner Center. Saiba também sobre alguns dos motivos pelos quais você pode querer fazer isso.
@@ -9,18 +9,15 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9379ce6b27a8ef6e5d6894a0630745794e04e04
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 22f85bda0a651559da1717ae1e5365da40d62aff
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175162"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105538"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Adicionar e gerenciar vários locatários em sua conta do Partner Center
 
-**Aplica-se a**
-
-- Partner Center
 
 **Funções apropriadas**
 
@@ -50,7 +47,7 @@ Esse recurso permite que você gerencie vários locatários para sua empresa e c
 
 1. Como administrador global, entre no locatário que você deseja associar e confirme a associação. 
 
-:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="associar locatários"::: 
+:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="confirmar os locatários associados"::: 
 
 5. Depois de confirmar, você verá um aviso de **tudo definido** .  Selecione **retornar ao gerenciamento de locatário** e você verá o locatário recém-adicionado listado. 
  
@@ -58,7 +55,28 @@ Esse recurso permite que você gerencie vários locatários para sua empresa e c
 >[!NOTE]
 >Você não poderá associar um locatário a uma conta se ela já estiver associada a outra conta do Partner Center.
 
+
+## <a name="remove-a-tenant-from-your-account"></a>Remover um locatário de sua conta
  
+1. Como administrador global, entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center.
+
+1. No ícone **configurações** , selecione **configurações da conta** -> locatários e clique na guia **parceiro** .
+ 
+3. Clique em **remover** para o locatário que você deseja dissociar.
+
+4. Dissociar um locatário significa que os usuários nesse locatário não terão mais acesso à conta do Partner Center e isso poderá afetar suas competências. 
+
+O botão **remover** está habilitado para todos os locatários associados, exceto o locatário primário e o locatário ao qual você está conectado no momento.
+
+:::image type="content" source="images/disassociate.png" alt-text="locatários com o botão remover":::
+ 
+
 ## <a name="next-steps"></a>Próximas etapas
 
 - [Adicionar usuários](create-user-accounts-and-set-permissions.md)
+
+
+
+
+
+
