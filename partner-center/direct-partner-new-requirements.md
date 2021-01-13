@@ -9,22 +9,22 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 12/15/2020
-ms.openlocfilehash: 7efd3ab2303f66fbd2b02e872e51be6c0e64993c
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 9c2ec0c7204a275f6b32e75b86eae775eb87bb55
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514708"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105521"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Requisitos para registro como parceiro de cobrança direta do CSP
 
-**Aplica-se a**
+**Funções apropriadas**
 
-- Parceiros de cobrança direta do programa Provedor de Soluções na Nuvem
+- Administrador global
 
 ## <a name="enroll-as-a-direct-partner"></a>Registre-se como um parceiro direto
 
-Como um parceiro de cobrança direta, você tem a relação de ponta a ponta com o cliente e com a Microsoft. Como um parceiro de cobrança direta, você tem a relação de ponta a ponta com o cliente e com a Microsoft. Atualizamos os requisitos de registro para parceiros de cobrança direta em 27 de outubro de 2020. Esses requisitos ajudarão você a acelerar o crescimento dos seus negócios com o modelo certo do Provedor de Soluções na Nuvem e fortalecer seu relacionamento com os clientes com serviços e suporte de valor agregado.  
+Como um parceiro de cobrança direta, você tem a relação de ponta a ponta com o cliente e com a Microsoft. Atualizamos os requisitos de registro para parceiros de cobrança direta em 27 de outubro de 2020. Esses requisitos ajudarão você a acelerar o crescimento dos seus negócios com o modelo certo do Provedor de Soluções na Nuvem e fortalecer seu relacionamento com os clientes com serviços e suporte de valor agregado.  
 
 ### <a name="minimum-requirements"></a>Requisitos mínimos
 
