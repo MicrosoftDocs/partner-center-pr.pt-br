@@ -635,29 +635,39 @@
           href: pci-roles.md
         - name: Relatório de Insights
           items:
+            - name: Visão geral
+              href: pci-overview-report.md
+            - name: Cliente
+              href: pci-customer-report.md
+            - name: Desempenho do revendedor
+              href: pci-resellers-performance.md
+              displayName: 'indirect, reseller'
+            - name: Assinaturas de produto
+              href: pci-product-subscriptions-report.md
             - name: Uso do Azure
               href: pci-azure-usage-report.md
+            - name: Uso do Teams
+              href: pci-teams-usage-report.md
+            - name: Uso do Office 365
+              href: pci-office-365-usage-report.md
+            - name: Uso do Dynamics
+              href: pci-dynamics-usage-report.md
+            - name: Uso do Enterprise Mobility + Security
+              href: pci-enterprise-mobility-security-usage-report.md
+            - name: "Uso do Power\_BI"
+              href: pci-power-bi-usage-report.md
+            - name: Treinamento
+              href: pci-training-dashboard.md
+            - name: Análise do Microsoft Learn
+              href: ms-learn-analytics.md
+            - name: Competências
+              href: pci-competencies-report.md
             - name: Benefícios
               href: pci-benefits-report.md
             - name: Propensão do CloudAscent
               href: pci-customer-opportunities.md
-            - name: Competências
-              href: pci-competencies-report.md
-            - name: Cliente
-              href: pci-customer-report.md
-            - name: Análise do Microsoft Learn
-              href: ms-learn-analytics.md
-            - name: Visão geral
-              href: pci-overview-report.md
             - name: Licenças de produto
               href: pci-product-licenses-report.md
-            - name: Assinaturas de produto
-              href: pci-product-subscriptions-report.md
-            - name: Desempenho do revendedor
-              href: pci-resellers-performance.md
-              displayName: 'indirect, reseller'
-            - name: Treinamento
-              href: pci-training-dashboard.md
         - name: Perguntas frequentes – Insights
           href: pci-known-issues.md
         - name: Baixar Relatórios de Insights
