@@ -1,7 +1,7 @@
 ---
 title: Saiba mais sobre especializações avançadas
 ms.topic: article
-ms.date: 11/30/2020
+ms.date: 01/12/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Fortaleça seu perfil de negócios no diretório de parceiros da Microsoft. Saiba mais sobre as especializações avançadas que você pode obter junto com suas competências Gold e Silver existentes.
@@ -9,48 +9,61 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 385071811241009aa2eba26378e4f6aca5a28b99
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 6ce29c533869214a15f18852c8946f46c0656a38
+ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439146"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98204012"
 ---
-# <a name="earn-an-advanced-specialization-to-showcase-your-expertise"></a>Ganhe uma especialização avançada para demonstrar sua experiência
+# <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Ganhe uma especialização avançada para expor seus recursos validados
 
-Muitos parceiros que obtiveram uma [competência ouro](learn-about-competencies.md) em uma área principal passam a ganhar uma especialização avançada.
+**Funções apropriadas**
 
-As especializações avançadas permitem que você mostre melhor a experiência comprovada e verificável em um produto, área de solução ou serviço. Eles são uma validação adicional da sua capacidade de fornecer serviços de alta fidelidade em uma área de solução específica.
+- Administrador global
+- Administrador de conta do MPN
 
-As especializações avançadas também permitem que você se diferencie aos clientes. Depois de ganhar uma especialização avançada, os clientes verão sua competência ouro e sua especialização avançada em seu perfil de negócios no diretório de parceiros.
+As especializações avançadas da Microsoft se baseiam nas [competências Gold](learn-about-competencies.md) relacionadas que um parceiro pode ganhar. A conquista de competências Gold, juntamente com suas especializações avançadas relacionadas, permite que os parceiros diferenciem ainda mais seus recursos para os clientes.
+
+Para ganhar uma especialização avançada, um parceiro geralmente precisa atender a requisitos exigentes, como obter referências de clientes, passar por uma auditoria de terceiros, comprovar a obtenção de um conjunto de habilidades relevante e atender a certas medidas de desempenho.
+
+Atendendo a esses requisitos estritos, os parceiros podem validar seu conhecimento profundo, experiência extensiva e sucesso comprovado na entrega de soluções personalizadas de clientes para áreas de alta demanda e relevância de clientes.
+
+Os parceiros que obtiverem uma especialização avançada obterão um rótulo voltado para o cliente que podem ser exibidos em seu perfil comercial no [localizador do provedor de soluções da Microsoft](https://www.microsoft.com/solution-providers/home). Esse rótulo valida ainda mais os recursos do parceiro, oferecendo acesso a benefícios associados, alcance do cliente expandido e maior confiança do cliente.
 
 > [!NOTE]
-> Para saber mais sobre os benefícios das especializações avançadas e seus requisitos específicos, consulte [Microsoft Partner Network especializações avançadas](https://partner.microsoft.com/membership/advanced-specialization).
+> Para saber mais sobre as especializações avançadas, visite a [página Microsoft Partner Network especializações avançadas](https://partner.microsoft.com/membership/advanced-specialization).
 
 ## <a name="advanced-specialization-areas"></a>Áreas de especialização avançadas
 
-Você pode obter especializações avançadas em algumas das principais áreas de conhecimento:
+Cada Especialização avançada corresponde a uma área de solução:
 
 - Azure
+- Aplicativos de negócios
 - Trabalho moderno
 - Segurança
 
 As especializações avançadas **do Azure** incluem:
 
-- data warehouse migração para Microsoft Azure
-- Kubernetes em Microsoft Azure
+- Migração do Data Warehouse para o Microsoft Azure
+- Kubernetes no Microsoft Azure
 - Migração de bancos de dados de software livre e Linux para Microsoft Azure
-- Área de trabalho virtual do Microsoft Windows
+- Área de Trabalho Virtual do Windows da Microsoft
 - Modernização de aplicativos Web para Microsoft Azure
 - SAP no Microsoft Azure
-- Windows Server e SQL Server migração para Microsoft Azure
+- Migração do Windows Server e do SQL Server para Microsoft Azure
+
+**Business Applications** especializações avançadas incluem:
+
+- Desenvolvimento de aplicativos de código baixo
+- Gerenciamento de negócios de pequeno e médio porte
 
 As especializações avançadas de **trabalho moderno** incluem:
 
 - Adoção e gerenciamento de alterações
-- Chamando o Microsoft Teams
+- Chamar o Microsoft Teams
 - Reuniões e salas de reunião do Microsoft Teams
-- Implantação em equipe
+- Implantação de trabalho em equipe
 
 As especializações avançadas de **segurança** incluem:
 
@@ -58,7 +71,7 @@ As especializações avançadas de **segurança** incluem:
 - Proteção contra Ameaças
 
 > [!NOTE]
-> Para saber mais sobre cada Especialização avançada, juntamente com seus pré-requisitos e requisitos, confira [Microsoft Partner Network especializações avançadas](https://partner.microsoft.com/membership/advanced-specialization). Em seguida, quando você estiver pronto para se inscrever em uma especialização avançada e verificar seu progresso, vá para o [painel](https://partner.microsoft.com/dashboard)do Partner Center. Para saber mais sobre como acessar essa área do Partner Center, consulte [aplicar para uma especialização avançada](advanced-specializations-apply.md).
+> Para saber mais sobre cada Especialização avançada, juntamente com seus pré-requisitos e requisitos, visite a [página de especializações avançadas](https://partner.microsoft.com/membership/advanced-specialization). Quando você estiver pronto para se inscrever em uma especialização avançada, verifique seu progresso entrando no [painel](https://partner.microsoft.com/dashboard)do Partner Center. Para saber mais sobre como acessar essa área do Partner Center, consulte [aplicar para uma especialização avançada](advanced-specializations-apply.md).
 
 ## <a name="next-steps"></a>Próximas etapas
 
