@@ -8,12 +8,12 @@ ms.prod: marketplace-customer
 ms.devlang: azurepowershell
 ms.date: 11/24/2020
 ms.custom: devx-track-azurepowershell
-ms.openlocfilehash: c5b8b9fcc247818315887109e2163c0722bfbd97
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: d0021be17ab12b6e549b0e5263772a4a1e42f8a3
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96536072"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182334"
 ---
 # <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>Início rápido: gerenciar um Azure Marketplace privado usando o PowerShell
 
@@ -30,7 +30,7 @@ Este artigo descreve como você pode gerenciar ofertas em um Azure Marketplace p
   * [Instale o módulo Az PowerShell](/powershell/azure/install-az-ps).
   * Conecte-se à sua conta do Azure usando o cmdlet [Connect-AzAccount](/powershell/module/az.accounts/connect-azaccount).
 * Se você optar por usar o Azure Cloud Shell:
-  * Confira [Visão geral do Azure Cloud Shell](https://docs.microsoft.com/azure/cloud-shell/overview) para obter mais informações.
+  * Confira [Visão geral do Azure Cloud Shell](/azure/cloud-shell/overview) para obter mais informações.
 
   > [!IMPORTANT]
   > Embora o módulo do PowerShell **AZ. Marketplace** esteja em versão prévia, você deve instalá-lo separadamente usando o `Install-Module` cmdlet. Depois que esse módulo do PowerShell estiver em disponibilidade geral, ele fará parte das versões futuras do módulo Az PowerShell e estará disponível por padrão no Azure Cloud Shell.

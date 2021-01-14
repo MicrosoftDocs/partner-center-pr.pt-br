@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: cd17656c64a55b9b27784555d9ea2acaae3979d3
-ms.sourcegitcommit: c062209be8f7ed905ab33511675ae280e93dd839
+ms.openlocfilehash: a33ff22a448f407fe0b795c43953fef7ee21e1bd
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "97864318"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182504"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Exibir fundos de cooperação acumulados, reivindicados e restantes disponíveis
 
@@ -34,7 +34,7 @@ Você pode controlar, monitorar e reconciliar os fundos de incentivos cooperativ
 
 4. Para exibir todas as declarações enviadas para o período selecionado, role até a parte inferior da página.
 
-Se você acreditar que há discrepâncias nos valores exibidos no resumo, você pode baixar o relatório de transações do período anterior. Este relatório ajudará você a determinar a quantidade de fundos de cooperação obtidos para o período de uso selecionado. Para baixar relatórios de transação ou validar declarações enviadas para garantir que a quantidade restante de cooperação seja precisa, consulte [histórico de transações](/partner-center/payout-statement#transaction-history).
+Se você acreditar que há discrepâncias nos valores exibidos no resumo, você pode baixar o relatório de transações do período anterior. Este relatório ajudará você a determinar a quantidade de fundos de cooperação obtidos para o período de uso selecionado. Para baixar relatórios de transação ou validar declarações enviadas para garantir que a quantidade restante de cooperação seja precisa, consulte [histórico de transações](./payout-statement.md#transaction-history).
 
 Se você ainda tiver problemas para reconciliar valores ou se alguns fundos de cooperação não estiverem visíveis, você poderá abrir o tíquete de suporte. Para fazer isso, selecione o ícone de ponto de interrogação no canto superior direito da página e, em seguida, selecione **incentivos**.
 

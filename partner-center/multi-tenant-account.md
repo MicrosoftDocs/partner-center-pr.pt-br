@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22f85bda0a651559da1717ae1e5365da40d62aff
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: f9852b4e1c3997b82f744555db25fe64e1afc8ad
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105538"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182419"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Adicionar e gerenciar vários locatários em sua conta do Partner Center
 
@@ -22,6 +22,7 @@ ms.locfileid: "98105538"
 **Funções apropriadas**
 
 - Administrador global
+- Administrador de conta
 
 Esse recurso permite que você gerencie vários locatários para sua empresa e consolide-os em sua conta do Partner Center. Há muitas razões pelas quais você pode precisar gerenciar vários locatários do Azure AD em sua conta do Partner Center. Por exemplo:
 

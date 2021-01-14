@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6337d4998fea20eed756183a3eb3adfbfe70585b
-ms.sourcegitcommit: 0eae5734b0e50bd5a7ef39ec7738d1e997c5a02d
+ms.openlocfilehash: a5aaa7c7190615d1b7497fd92e0d844cc553c491
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "97389298"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182317"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Informações do parceiro – perguntas frequentes
 
@@ -26,15 +26,15 @@ Isso se relaciona a qualquer problema conhecido ao exibir ou renderizar relatór
 
 P) **não vejo o Hub de informações em minha conta do Partner Center. O que devo fazer?**
 
-A) Verifique se você fez logon na conta do MPN para sua organização. Você não pode acessar o painel de informações de sua conta do CSP. Além disso, verifique se você forneceu o Visualizador de relatórios ou o acesso de função do Visualizador de relatórios executivos por seu administrador global.  Para obter mais informações sobre funções, consulte [Este artigo](https://docs.microsoft.com/partner-center/pci-roles).
+A) Verifique se você fez logon na conta do MPN para sua organização. Você não pode acessar o painel de informações de sua conta do CSP. Além disso, verifique se você forneceu o Visualizador de relatórios ou o acesso de função do Visualizador de relatórios executivos por seu administrador global.  Para obter mais informações sobre funções, consulte [Este artigo](./pci-roles.md).
 
 P) **não consigo ver a receita cobrada ou os dados de receita consumida do Azure (ACR) em meus relatórios. Por quê?**
 
-A) a receita cobrada e os dados de ACR estão disponíveis somente para usuários que são visualizadores de relatórios executivos.  Para obter mais informações sobre funções, consulte [Este artigo](https://docs.microsoft.com/partner-center/pci-roles).
+A) a receita cobrada e os dados de ACR estão disponíveis somente para usuários que são visualizadores de relatórios executivos.  Para obter mais informações sobre funções, consulte [Este artigo](./pci-roles.md).
 
 P) **não consigo ver a receita cobrada ou os dados de receita consumida do Azure (ACR) em meus relatórios. Por quê?**
 
-A) a receita cobrada e os dados de ACR estão disponíveis somente para usuários que são visualizadores de relatórios executivos. Para obter mais informações sobre funções, consulte [Este artigo](https://docs.microsoft.com/partner-center/pci-roles).
+A) a receita cobrada e os dados de ACR estão disponíveis somente para usuários que são visualizadores de relatórios executivos. Para obter mais informações sobre funções, consulte [Este artigo](./pci-roles.md).
 
 P) **o país relatado para meu cliente parece estar incorreto. Por quê?**
 

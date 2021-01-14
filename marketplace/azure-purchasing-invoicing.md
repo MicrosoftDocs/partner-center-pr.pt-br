@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: b93ce1394326887b4265114c58527c36379101d9
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007095"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182470"
 ---
 # <a name="azure-marketplace-purchasing"></a>Compra no Azure Marketplace
 
@@ -25,7 +25,7 @@ Ao comprar por meio do Azure Marketplace, você elimina a complexidade de gerenc
 
 ## <a name="permission-to-purchase"></a>Permissão para comprar
 
-Depois de encontrar o aplicativo de software certo, concluir a compra é simples. No entanto, você precisará de permissões adequadas na assinatura do Azure. Como o Azure opera em um modelo de RBAC ( [controle de acesso baseado em função](https://docs.microsoft.com/azure/role-based-access-control/overview) ), sua conta precisa de **proprietário da assinatura** ou permissões de **colaborador** para fazer uma compra.
+Depois de encontrar o aplicativo de software certo, concluir a compra é simples. No entanto, você precisará de permissões adequadas na assinatura do Azure. Como o Azure opera em um modelo de RBAC ( [controle de acesso baseado em função](/azure/role-based-access-control/overview) ), sua conta precisa de **proprietário da assinatura** ou permissões de **colaborador** para fazer uma compra.
 
 Antes de concluir uma compra, verifique se o usuário tem a configuração correta no locatário do Azure. Isso ajudará a evitar erros durante a compra.
 
@@ -55,7 +55,7 @@ Essas configurações se aplicam a todos os usuários com acesso à sua assinatu
 
 ## <a name="cost-management"></a>Gerenciamento de custo
 
-À medida que você adquire produtos do Azure Marketplace, você deseja obter informações que ajudam a gerenciar os custos. O gerenciamento de custos do Azure é uma ferramenta gratuita para exibir informações sobre os produtos que você comprou. Você pode usar o gerenciamento de custos para ver os detalhes de quais serviços você está gastando com o tempo e como esses custos acompanham os orçamentos que você definiu. Além de definir orçamentos, você pode agendar relatórios e analisar os custos de assinatura. Saiba mais sobre o gerenciamento de custos do Azure ao concluir o módulo Microsoft Learn em [analisar custos e criar orçamentos com o gerenciamento de custos do Azure](https://docs.microsoft.com/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
+À medida que você adquire produtos do Azure Marketplace, você deseja obter informações que ajudam a gerenciar os custos. O gerenciamento de custos do Azure é uma ferramenta gratuita para exibir informações sobre os produtos que você comprou. Você pode usar o gerenciamento de custos para ver os detalhes de quais serviços você está gastando com o tempo e como esses custos acompanham os orçamentos que você definiu. Além de definir orçamentos, você pode agendar relatórios e analisar os custos de assinatura. Saiba mais sobre o gerenciamento de custos do Azure ao concluir o módulo Microsoft Learn em [analisar custos e criar orçamentos com o gerenciamento de custos do Azure](/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
 
 Veja seus encargos e suas faturas do Azure Marketplace na ferramenta de análise de custo em Gerenciamento de Custos do Azure.
 

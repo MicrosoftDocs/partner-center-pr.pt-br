@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
-ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
+ms.openlocfilehash: ad5cc0e9c8642ceb309cac3f5fc7c99534c3dcda
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "93189740"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182589"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Mesclar sua conta de parceiro com outra conta de parceiro
 
@@ -77,6 +77,8 @@ Se você decidir aceitar o convite para mesclar contas: · Suas IDs e locais de 
 
 - Os comprovantes do Software Assurance são mantidos em ambas as contas. 
 
+- Não há nenhum impacto na associação DPOR ou PAL. Todas as contribuições de receita associadas começarão a fluir para a nova conta global do parceiro
+
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>Convide uma empresa para mesclar sua conta do Partner Center com sua conta do Partner Center
 
 >[!Note]
@@ -84,11 +86,11 @@ Se você decidir aceitar o convite para mesclar contas: · Suas IDs e locais de 
 
 1. Selecione **configurações** no painel do Partner Center. 
 
-2. Selecione **mesclagem de conta** .
+2. Selecione **mesclagem de conta**.
 
 3. Adicione a ID de MPN localizada no **perfil de parceiro** da conta que você deseja convidar para mesclar com você. Você deve usar sua ID de MPN global do parceiro. Você não pode usar uma ID de MPN de local.
 
-4. Quando você seleciona **mesclar** , um convite é enviado para a empresa parceira. Ao aceitar sua solicitação, você pode iniciar a mesclagem de conta no Partner Center. Se a empresa rejeitar sua solicitação para mesclar contas, poderá explicar por que ela rejeitou a solicitação. Uma lista de todas as mesclagens de sua conta está disponível para você no **histórico de mesclagem** .
+4. Quando você seleciona **mesclar**, um convite é enviado para a empresa parceira. Ao aceitar sua solicitação, você pode iniciar a mesclagem de conta no Partner Center. Se a empresa rejeitar sua solicitação para mesclar contas, poderá explicar por que ela rejeitou a solicitação. Uma lista de todas as mesclagens de sua conta está disponível para você no **histórico de mesclagem**.
  
 ### <a name="example-of-two-companies-merging-accounts"></a>Exemplo de duas empresas que mesclam contas
 
