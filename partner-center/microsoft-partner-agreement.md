@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916823"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105504"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Saiba mais sobre o MPA (Contrato de Parceiro da Microsoft) para parceiros do programa CSP
 
@@ -54,7 +54,7 @@ Para continuar participando do programa CSP, você precisa assinar o MPA (Contra
 
 1. Entre no Partner Center com suas credenciais da conta do administrador global do CSP.
 
-1. Em **Configurações**, clique em [Perfil do Parceiro](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
+1. Em **Configurações**, selecione **Configurações da conta** e [Perfil do parceiro](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
 
 1. Verifique a seção **Informações do Programa**. Caso as informações não mostrem o status de **Revendedor indireto**, você precisará [se registrar como um revendedor indireto](indirect-reseller-tasks-in-partner-center.md).
 
@@ -80,6 +80,10 @@ Para ver se você assinou o MPA:
 >[!NOTE]
 >Somente o administrador global da sua empresa pode ver e assinar o MPA. Se você não for o administrador global, precisará solicitar ao administrador global que confirme o MPA.
 
+Você também pode ver se assinou o contrato selecionando **Contratos** de **Configurações da conta**.
+
+:::image type="content" source="images/agreements/agreements.png" alt-text="Indicação de que o MPA está assinado":::
+
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Baixe o guia passo a passo certo para o ponto em que você se encontra no processo
 
@@ -91,4 +95,4 @@ Para ver se você assinou o MPA:
  
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Registrar no programa de Provedor de Soluções na Nuvem](enrolling-in-the-csp-program.md)
+- [Registrar no programa de Provedor de Soluções na Nuvem](indirect-reseller-tasks-in-partner-center.md)

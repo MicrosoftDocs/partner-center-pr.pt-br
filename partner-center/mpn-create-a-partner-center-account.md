@@ -1,7 +1,7 @@
 ---
 title: Criar uma conta do Partner Center
 ms.topic: article
-ms.date: 08/07/2020
+ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como os membros do Microsoft Partner Network podem criar uma conta do Partner Center para gerenciar seus benefícios e competências de rede.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3f04708d3b7e2c86c88541931c120a6649674fb
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: c7aa97760be9fdb2cc004ffd5612826f777c05c5
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570783"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979729"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Criar uma conta do Partner Center para gerenciar os benefícios e as competências de rede
 
@@ -55,16 +55,20 @@ Verificaremos essas informações durante o processo de criação da conta. Para
 
     Caso a sua empresa não tenha uma conta corporativa, selecione **Criar uma** para configurar uma agora. Depois de criar uma conta corporativa, entre usando as credenciais de administrador global da conta corporativa recém-criada.
 
-3.  Forneça ou atualize o perfil de negócios jurídicos da sua empresa e as informações do contato principal e, em seguida, selecione **Registrar agora**. 
+3.  Forneça ou atualize o perfil comercial jurídico da sua empresa.
+
+    Você pode pesquisar o perfil da empresa ou inserir as informações da empresa manualmente. Se a empresa estiver registrada com [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), use a ID DUNS para pesquisar as informações dela. Se você quiser fornecer os detalhes da empresa, selecione **Manual**.
+
+4. Depois de ter fornecido as informações da empresa, insira as informações de contato principal e, em seguida, selecione **Registrar agora**.
 
     O contato principal deve ser a pessoa que podemos contatar na empresa sobre seu aplicativo (pode ser você ou outra pessoa da empresa). Também usaremos essas informações para verificar se essa pessoa trabalha na sua empresa e se ela se inscreveu em uma conta do Partner Center.
 
     > [!IMPORTANT]  
     > Para ajudar a garantir a segurança e a privacidade da sua empresa, enviaremos um email para seu contato principal para verificar se (1) ele ou ela se inscreveu em uma conta do Partner Center e se (2) este endereço de email pertence à sua empresa. Depois que o contato principal verificar o endereço de email, continuaremos nossa análise das informações fornecidas por você.
 
-4.  Leia e aceite os termos e condições do contrato do Microsoft Partner Network. 
+5.  Leia e aceite os termos e condições do contrato do Microsoft Partner Network. 
 
-5.  Verifique se você foi adicionado ao grupo de agente administrador. Para concluir a configuração de sua conta, incluindo a adição de outros usuários, você deve ter permissões de agente administrador. Siga estas etapas para exibir ou atualizar suas permissões:
+6.  Verifique se você foi adicionado ao grupo de agente administrador. Para concluir a configuração de sua conta, incluindo a adição de outros usuários, você deve ter permissões de agente administrador. Siga estas etapas para exibir ou atualizar suas permissões:
 
     a. No [painel](https://partner.microsoft.com/dashboard/home**) do Partner Center, selecione o ícone de **Configurações** e, em seguida, selecione **Gerenciamento de usuários**.  
 
