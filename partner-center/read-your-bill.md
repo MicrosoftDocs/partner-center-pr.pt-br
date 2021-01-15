@@ -9,19 +9,15 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edb2d25b49bd5c40dfd30e9f21d2d8537a5669c4
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444991"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215808"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Entenda sua fatura e seu arquivo de reconciliação-saiba como encontrá-las no Partner Center
 
-**Aplica-se a**
-
-- Partner Center
-- Partner Center do Microsoft Cloud for US Government
 
 **Funções apropriadas**
 
@@ -36,7 +32,7 @@ Sua **fatura** é um **Resumo de todos os seus encargos do Partner Center** (em 
 
 A Microsoft emitirá uma fatura para quaisquer encargos baseados em licença (como o Office 365) e encargos com base no uso (como o Azure) e uma fatura separada para cobranças individuais (como Azure RI, Marketplace ou plano do Azure).
 
-Por exemplo:  
+Por exemplo,  
 
 **Cenário 1 [moeda única]**: o parceiro tem compras para ofertas de 145P e licenças do O365,  
 
@@ -97,3 +93,7 @@ Para obter uma descrição detalhada de todos os campos em seu arquivo de nota f
 ## <a name="understand-reconciliation-files"></a>Entender os arquivos de reconciliação
 
  Os arquivos de reconciliação, que fornecem detalhes detalhados/discriminados de seus encargos, estão disponíveis para download junto com o PDF da fatura. Os arquivos de reconciliação incluem identificadores de cliente e identificadores de assinatura que você pode usar para criar faturas de cliente. Veja  [como usar os arquivos de reconciliação](use-the-reconciliation-files.md) para obter mais detalhes sobre os arquivos reconhecimento. 
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Como usar os arquivos de reconciliação](use-the-reconciliation-files.md)

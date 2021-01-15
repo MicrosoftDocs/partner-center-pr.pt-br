@@ -9,19 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 11d31ba8fc33c965be7d5a6eeb4b5a32e5a4fa77
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 48521424fd695f20192e69e11a980505873768c2
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377760"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215859"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Use promoções para atrair novos clientes e passar a economia para eles
 
-**Aplica-se a**
 
-- Partner Center
-- Parceiros no programa CSP (Provedor de Soluções na Nuvem)
 
 **Funções apropriadas**
 
@@ -67,3 +64,6 @@ Você pode ver a quais promoções você está qualificado, se houver, na págin
 6. Selecione **Enviar** para comprar. Seu cliente verá o preço com desconto em sua próxima fatura.  
 
 
+## <a name="next-steps"></a>Próximas etapas
+
+- [Venda a públicos especializados](sell-to-education-customers.md)

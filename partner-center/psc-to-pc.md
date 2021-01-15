@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
-ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
+ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97950579"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215944"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guia para a venda em conjunto no Partner Center (PC) para parceiros migrando do PSC (Partner Sales Connect)
 
@@ -26,7 +26,7 @@ ms.locfileid: "97950579"
 - Administrador do PSC (Partner Sales Connect)
 - Gerente de negociações do Partner Sales Connect (PSC)
 
-Este artigo orienta os parceiros que migram de vendas de parceiros conectam-se ao Partner Center para que possam continuar criando e gerenciando acordos de venda no Partner Center.
+Este artigo fornece diretrizes para parceiros que migram de vendas de parceiros conectam-se ao Partner Center para que eles possam continuar criando e gerenciando acordos de venda de produtos no Partner Center.
 
 Como você sabe, sua empresa perderá o acesso ao PSC após 31 de março de 2021. No entanto, você ainda encontrará tudo o que deseja fazer no Partner Center, como criar negociações de venda, gerenciar suas negociações e agir sobre as negociações enviadas para você pelos vendedores da Microsoft.
 
@@ -353,7 +353,6 @@ Se você ainda não leu os tópicos de ajuda de venda conjunta, os recursos a se
 
 ## <a name="next-steps"></a>Próximas etapas
 
-Siga estes recursos adicionais:
 
 - [Vendas de parceiros Conecte-se à pasta de trabalho do Partner Center](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) -pasta de trabalho para alinhar os processos de vendas e as funções dos parceiros com novos processos de vendas por meio do Partner Center versus parceiros de vendas.
 - [Guia de operações de covenda do Partner Center](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) -orientação para identificar um modelo operacional por meio do Partner Center para gerenciar clientes potenciais ou vender oportunidades de venda e registro de negócios.

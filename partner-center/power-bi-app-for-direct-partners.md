@@ -10,18 +10,16 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e58c8ed68e40e9ffb4f2ed5555dc780e21570a7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0d1cd25558cd7c0421398fc2cc9b93a1bcc57bbc
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000010"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215910"
 ---
 # <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Visão geral e perguntas frequentes para o aplicativo de análise do Partner Center para Power BI (parceiros diretos no CSP)
 
-**Aplica-se a**
 
-- Partner Center
 
 **Funções apropriadas**
 

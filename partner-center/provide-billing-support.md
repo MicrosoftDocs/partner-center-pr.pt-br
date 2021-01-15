@@ -9,30 +9,27 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 82eaf215bcbc107da6a3f9f5049e4eb89c952ab0
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 11a17550ed5c0ab2154ec0daa03818236b26e820
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949329"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215927"
 ---
-# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Fornecer suporte de cobrança para seus clientes e ajudar a responder suas perguntas de cobrança
+# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Fornecer suporte a cobrança para seus clientes e ajudar a responder às perguntas deles sobre cobrança
 
-**Aplica-se a**
-
-- Partner Center
-- Partner Center do Microsoft Cloud for US Government
 
 **Funções apropriadas**
+
 - Administrador global
 - Administrador de usuários
 - Agente de suporte técnico
 - Administrador de cobrança
 - Agente de vendas
 
-Você possui a relação de cobrança com seus clientes e é responsável por responder a dúvidas relacionadas à cobrança de seus clientes.
+Você possui a relação de cobrança com seus clientes e é responsável por responder às perguntas relacionadas à cobrança que seus clientes podem ter.
 
-- Você é responsável pelo pagamento em dia à Microsoft.
+- Você é responsável pelos pagamentos pontuais da Microsoft.
 
 - Recomendamos estabelecer uma política de cobrança clara que detalhe para os clientes seu processo de cobrança e quando o acesso às assinaturas, serviços ou software do cliente será afetado.
 
@@ -66,4 +63,7 @@ Cada serviço online tem requisitos específicos e detalhados para fornecer supo
 - [Assinaturas do Azure vendidas por meio de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
 - [Assinaturas do Office 365 vendidas por meio de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
- 
+ 
+## <a name="next-steps"></a>Próximas etapas
+
+- [Fornecer suporte técnico](provide-technical-support.md)
