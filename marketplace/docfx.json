@@ -42,9 +42,16 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "bilingual_type": "hover over",
       "breadcrumb_path": "/marketplace/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "feedback_system": "None",
+      "titleSuffix": "Microsoft marketplace",
+      "searchScope": [ "Azure", "Microsoft marketplace" ],
+      "disable_contribution_on_translation_quality": [
+        "MT",
+        "Blank"
+      ]
     },
     "fileMetadata": {},
     "template": [],
