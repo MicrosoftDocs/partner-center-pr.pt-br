@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: bc85c2537201c3fab95541798932fe1be0a9a231
-ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
+ms.openlocfilehash: aa06fa03b29bb43d5b3c9d2c64e7208ebe9a9d5f
+ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "98560486"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "98571645"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,6 +22,8 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 | **Categoria** | **Comunicados de janeiro de 2021** | **Comunicado** |
 |---------|:---------|:---------|
+|Amplie seus negócios|[Software perpétuo agora em disponibilidade geral no programa Provedor de Soluções na Nuvem](2021-january.md#11)|19 de janeiro|
+|Amplie seus negócios|[Lembrete: Introdução à limitação de API para parceiros que chamam as APIs do Partner Center](2021-january.md#10)|19 de janeiro|
 |Ofertas/mercados|[As iniciações de SCI (Segurança, Conformidade e Identidade) chegam em 1º de fevereiro de 2021](2021-january.md#9)|15 de janeiro|
 |Funcionalidades|[Migração do DocuSign para o Adobe Sign para os parceiros com MPA (Contrato de Parceiro da Microsoft)](2021-january.md#8)|15 de janeiro|
 |Ofertas/mercados|[Atualização de preço comercial para coroa norueguesa](2021-january.md#7)|14 de janeiro|
@@ -51,7 +53,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 |Funcionalidades|[Atualizações de API do Partner Center e aprimoramentos de IU (interface do usuário) para fortalecer a triagem do cliente em determinados países](2020-november.md#11)|17 de novembro|
 |Funcionalidades|[Alteração da moeda de cobrança do parceiro da EU/EFTA para novas ofertas de comércio](2020-november.md#10)|17 de novembro|
 |Funcionalidades|[Limitação de API para APIs do Partner Center](2020-november.md#9)|17 de novembro|
-|Funcionalidades|[409 erros devido a solicitações de MCA duplicadas](2020-november.md#8)|16 de novembro|
+|Capacidades|[409 erros devido a solicitações de MCA duplicadas](2020-november.md#8)|16 de novembro|
 |Funcionalidades|[Testes disponíveis: atualizações de API do Partner Center e aprimoramentos da IU (interface do usuário) para obter o processo de validação do cliente de Educação](2020-november.md#7)|10 de novembro|
 |Capacidades|[Expansão do conteúdo do parceiro de licenciamento comercial na Galeria de Preparação de Operações](2020-november.md#6)|2 de novembro|
 |Ofertas/mercados|[Lançamento de SKU das Salas do Microsoft Teams Premium](2020-november.md#5)|2 de novembro|
@@ -108,7 +110,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 | **Categoria** | **Comunicados de julho de 2020** | **Data** |
 |Ofertas/mercados|[Alterações nas inicializações do Enterprise Voice e da Discagem Estendida de Audioconferência](2020-july.md#10)|31 de julho|
 |Capacidades|[Futuras alterações nas APIs do Partner Center](2020-july.md#9)|28 de julho|
-|Funcionalidades|[Lançamento de SDK na versão prévia do .NET Standard v1.16.1](2020-july.md#8)|21 de julho|
+|Capacidades|[Lançamento de SDK na versão prévia do .NET Standard v1.16.1](2020-july.md#8)|21 de julho|
 |Capacidades|[Incentivo do CSP (Provedor de Soluções na Nuvem) para ofertas qualificadas do marketplace comercial da Microsoft aprimorado para o ano fiscal de 2021](2020-july.md#7)|22 de julho|
 |Capacidades|[Novas funcionalidades adicionadas aos relatórios de Insights no Partner Center ](2020-july.md#6)|16 de julho|
 |Ofertas/mercados|[Software perpétuo no programa Provedor de Soluções na Nuvem ](2020-july.md#5)|15 de julho|
