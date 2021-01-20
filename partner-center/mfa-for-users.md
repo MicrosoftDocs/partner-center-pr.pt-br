@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 355258fd20f867052fa8598e688630005262bb16
-ms.sourcegitcommit: ab2ca3c5990b7f920df4ecb9c611d5b1046ec111
+ms.openlocfilehash: f42c97be88a1a505f7e0ae9b8af0d4a9167d8447
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "97578280"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182368"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Configurar os usuários com a autenticação multifator
 
@@ -39,11 +39,10 @@ Isso habilitará a MFA para o usuário. A indicação Habilitado significa que o
 :::image type="content" source="images/MFA/securityverification.png" alt-text="Especificar a confirmação":::
 
 >[!NOTE]
->Você pode **Impor** aos usuários o uso da MFA usando as mesmas etapas acima e selecionando **Impor**. Para saber mais, leia [Habilitar a Autenticação Multifator do Azure por usuário para proteger eventos de entrada](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userstates). 
+>Você pode **Impor** aos usuários o uso da MFA usando as mesmas etapas acima e selecionando **Impor**. Para saber mais, leia [Habilitar a Autenticação Multifator do Azure por usuário para proteger eventos de entrada](/azure/active-directory/authentication/howto-mfa-userstates). 
 
 Todos os usuários começam com o estado **Desabilitado**. Quando você registra os usuários na Autenticação Multifator do Azure por usuário, o estado deles passa a ser **Habilitado**. Quando os usuários habilitados se conectam e concluem o processo de registro, o estado deles passa a ser **Imposto**. 
 
 ## <a name="next-steps"></a>Próximas etapas
 
 - [Atribuir funções e permissões a usuários](permissions-overview.md)
-

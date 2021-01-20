@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/21/2020
-ms.openlocfilehash: c186c61fa6a583284884020bf442517e9bb38182
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.openlocfilehash: f20015fff92e200bce1d17fd6fda7b7ced618e00
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736525"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182555"
 ---
 # <a name="december-2020-announcements"></a>Comunicados de dezembro de 2020
 
@@ -152,7 +152,7 @@ O novo Microsoft Edge é a nossa melhor expressão de um navegador moderno, e es
 **Impacto da alteração**
 
 - Desde **30 de novembro de 2020**, os clientes não podem mais se conectar ao aplicativo Web do Microsoft Teams no Internet Explorer 11. A Microsoft acredita que os clientes aproveitarão o máximo do Microsoft 365 e da melhor expressão de um navegador moderno ao usarem o [novo Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
-- Após **9 de março de 2021**, os aplicativos e os sites criados para a Versão Prévia do Microsoft Edge continuarão funcionando no novo Microsoft Edge. Porém, no caso de um problema de compatibilidade, você poderá contar com o suporte da [Garantia de Aplicativo](https://aka.ms/appassure).
+- Após **9 de março de 2021**, os aplicativos e os sites criados para a Versão Prévia do Microsoft Edge continuarão funcionando no novo Microsoft Edge. Porém, no caso de um problema de compatibilidade, você poderá contar com o suporte da [Garantia de Aplicativo](/fasttrack/products-and-capabilities#app-assure).
 - Após **17 de agosto de 2021**, os clientes terão uma experiência degradada ou não conseguirão se conectar aos aplicativos e aos serviços do Microsoft 365 no Internet Explorer 11. A Microsoft acredita que os clientes aproveitarão o máximo do Microsoft 365 e da melhor expressão de um navegador moderno ao usarem o [novo Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
 
 ### <a name="next-steps"></a>Próximas etapas
@@ -280,7 +280,7 @@ Veja abaixo o que também ocorrerá na mesma data:
 
 - A lista de preços de software perpétuo do CSP será publicada novamente no Partner Center. Você a encontrará na seção **Software** da página [Vender > Preços e Ofertas](https://partnercenter.microsoft.com/pcv/sales), que contém produtos e geografias adicionais. Veja mais detalhes [aqui](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
 
-- A capacidade de cumprimento de programas de software e chaves de licença do Partner Center será desativada (confira o [comunicado](https://docs.microsoft.com/partner-center/announcements/2020-september#17)) e, de agora em diante, os parceiros usarão o Centro de administração do Microsoft 365 exclusivamente para essa finalidade. Isso garantirá uma experiência mais segura e eficiente para os clientes. Saiba mais sobre o software do Centro de administração do Microsoft 365 examinando a [visão geral](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), as [tarefas comuns](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true) e as [funcionalidades de cumprimento de chaves de licença](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+- A capacidade de cumprimento de programas de software e chaves de licença do Partner Center será desativada (confira o [comunicado](./2020-september.md#17)) e, de agora em diante, os parceiros usarão o Centro de administração do Microsoft 365 exclusivamente para essa finalidade. Isso garantirá uma experiência mais segura e eficiente para os clientes. Saiba mais sobre o software do Centro de administração do Microsoft 365 examinando a [visão geral](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), as [tarefas comuns](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) e as [funcionalidades de cumprimento de chaves de licença](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
 
 ### <a name="perpetual-software-in-csp"></a>Software perpétuo no CSP
 
@@ -292,7 +292,7 @@ Examine os seguintes recursos e compartilhe-os com os contatos relevantes da sua
 
 - [Produtos de software perpétuo do CSP e geografias](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) a serem adicionados em 19 de janeiro de 2021
 
-- [Visão geral](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [tarefas comuns](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true) e [funcionalidades de cumprimento de chaves de licença](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf) do Centro de administração do Microsoft 365
+- [Visão geral](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [tarefas comuns](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) e [funcionalidades de cumprimento de chaves de licença](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf) do Centro de administração do Microsoft 365
 
 - [Expansão de oportunidades para parceiros do programa Provedor de Soluções na Nuvem](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) (comunicado para parceiros)
 
@@ -573,4 +573,4 @@ _ 31 de agosto de 2020:  Publicação original
 
 - 10 de novembro de 2020: Lembrete para inscrever-se para teste 
 
-- 3 de dezembro de 2020: Atualizações de API ao vivo 
+- 3 de dezembro de 2020: Atualizações de API ao vivo
