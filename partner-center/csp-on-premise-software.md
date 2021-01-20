@@ -1,7 +1,7 @@
 ---
 title: Vender software local por meio do CSP
 ms.topic: how-to
-ms.date: 05/05/2020
+ms.date: 01/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os parceiros no programa CSP podem comprar, gerenciar, vender e cancelar assinaturas de software local em nome dos clientes no Partner Center.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 179527f2edc710420be0b7119b758389dddf6947
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: b1d9cddd46ac6ee23a92fab41fc41b1e7eb613a1
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545607"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584168"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Vender software local por meio do programa CSP (provedor de soluções na nuvem)
 
@@ -40,17 +40,12 @@ Para comprar assinaturas de software em nome de um cliente, acesse a página de 
 Depois de adquirir seu software, você e seus clientes precisarão baixá-lo. Use o procedimento a seguir para fazer isso. 
 
 >[!NOTE]
->Você deve ser um agente administrador para obter as chaves e os downloads. 
+>Você deve ser um agente administrador para obter as chaves e os downloads.
 
-1. Acesse a página de detalhes do cliente e, em seguida, selecione **Software**. Você verá uma lista de todos os programas de software comprados em nome do cliente. 
-2.  Expanda o produto que deseja baixar. No campo **Selecionar produto**, selecione a **Versão**, o **Idioma** e o **Tipo de arquivo/sistema operacional** desejados. 
-3.  Selecione **Enviar** para exibir os produtos específicos. 
-4.  Selecione **Obter chaves e downloads**. 
-5.  Selecione **Baixar** para iniciar o download ou **Copiar link** para copiar o link e enviá-lo ao cliente. 
+1. Acesse a página de detalhes do cliente e, em seguida, selecione **Software**. Você verá uma lista de todos os programas de software comprados em nome do cliente.
+2. Copie o link de **link para chaves de produto de software e downloads** e compartilhe o link com o cliente. Quando eles selecionarem esse link, eles serão redirecionados para o portal de administração da Microsoft para baixar e obter suas chaves de produto.
 
->[!NOTE]
->Esse link vai expirar após duas semanas ou 50 downloads, o que ocorrer primeiro. Depois que o link expirar, retorne a essa página e selecione **Obter chaves e downloads** novamente para habilitar outras duas semanas ou 50 downloads. Você poderá fazer isso quantas vezes precisar. 
-
+Se você ou seus clientes quiserem saber mais sobre o download de chaves de licença, consulte [baixar software e chaves de licença de produto](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 
 ## <a name="cancel-a-purchase"></a>Cancelar uma compra
 

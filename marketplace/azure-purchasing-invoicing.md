@@ -5,13 +5,13 @@ ms.prod: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.date: 01/18/2021
+ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182470"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584204"
 ---
 # <a name="azure-marketplace-purchasing"></a>Compra no Azure Marketplace
 
@@ -53,13 +53,27 @@ Essas configurações se aplicam a todos os usuários com acesso à sua assinatu
 
 :::image type="content" source="media/overview/billing-profile-policy-settings.png" alt-text="Controlando a aquisição de ti por meio do portal do Azure":::
 
-## <a name="cost-management"></a>Gerenciamento de custo
+## <a name="cost-management"></a>Gerenciamento de custos
 
 À medida que você adquire produtos do Azure Marketplace, você deseja obter informações que ajudam a gerenciar os custos. O gerenciamento de custos do Azure é uma ferramenta gratuita para exibir informações sobre os produtos que você comprou. Você pode usar o gerenciamento de custos para ver os detalhes de quais serviços você está gastando com o tempo e como esses custos acompanham os orçamentos que você definiu. Além de definir orçamentos, você pode agendar relatórios e analisar os custos de assinatura. Saiba mais sobre o gerenciamento de custos do Azure ao concluir o módulo Microsoft Learn em [analisar custos e criar orçamentos com o gerenciamento de custos do Azure](/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
 
 Veja seus encargos e suas faturas do Azure Marketplace na ferramenta de análise de custo em Gerenciamento de Custos do Azure.
 
 :::image type="content" source="media/overview/azure-cost-management.png" alt-text="Use o gerenciamento de custos do Azure para obter informações sobre seus produtos comprados.":::
+
+## <a name="purchase-validation-checks"></a>Verificações de validação de compra
+
+A compra de uma oferta por meio do Azure Marketplace pode falhar por diferentes motivos. Usar a CLI (interface de linha de comando) para uma compra é mais provável que cause erros, já que você pode estar tentando comprar uma oferta que não está disponível ou visível no Azure Marketplace. A seguir estão as verificações que podem causar uma falha na compra:
+
+1. A assinatura pertence a um Enterprise Agreement (EA) e o administrador de EA desabilitou compras do Azure Marketplace.
+1. O administrador de EA habilitou compras apenas para ofertas gratuitas e a oferta é uma oferta paga.
+1. A oferta não foi encontrada no Marketplace.
+1. O ISV (fornecedor independente de software) parou de vender a oferta, pelo menos na sua região.
+1. A assinatura que você está usando pertence a uma conta de cobrança em uma região em que a oferta não está disponível.
+1. A conta de assinatura/cobrança não está associada a um instrumento de pagamento válido (como um cartão de crédito válido).
+1. A assinatura pertence a um CSP (provedor de soluções de nuvem) e o ISV recusou-se a vender por meio de um CSP.
+1. O Marketplace privado está habilitado para a assinatura e a oferta não está na lista de ofertas permitidas.
+1. A oferta é privada/visualização para clientes específicos e a assinatura não está na lista de clientes permitidos.
 
 ## <a name="next-steps"></a>Próximas etapas
 
