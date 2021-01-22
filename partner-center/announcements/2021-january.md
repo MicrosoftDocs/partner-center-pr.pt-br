@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/07/2021
-ms.openlocfilehash: 042ef617bfde17c1a28ab91d89ae9151e339cefc
-ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
+ms.date: 01/15/2021
+ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
+ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "98062443"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "98571662"
 ---
 # <a name="january-2021-announcements"></a>Comunicados de janeiro de 2021
 
@@ -23,6 +23,207 @@ Esta página fornece detalhes dos comunicados de janeiro de 2021 sobre o Microso
 Comunicados de 2021: janeiro
 
 Comunicados de 2020: [Maio](2020-may.md) | [Junho](2020-june.md) | [Julho](2020-july.md) | [Agosto](2020-august.md) | [Setembro](2020-september.md) | [Outubro](2020-October.md) | [Novembro](2020-november.md) | [Dezembro](2020-december.md)  
+
+________________
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> Software perpétuo agora em disponibilidade geral no programa Provedor de Soluções na Nuvem
+
+### <a name="categories"></a>Categorias
+
+- Data: 19-01-2021
+- Amplie seus negócios
+
+### <a name="impacted-audience"></a>Público-alvo afetado
+
+Todos os parceiros CSP
+
+### <a name="details"></a>Detalhes
+
+Conforme [anunciado](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) hoje, estamos animados para informar que as licenças perpétuas de softwares comerciais estão em disponibilidade geral para todos os parceiros CSP. A lista de preços de software perpétuo do CSP do Partner Center foi republicada e agora inclui produtos e geografias adicionais.
+
+Observe também que, a partir de hoje, a funcionalidade de preenchimento de software e chave de licença do Partner Center foi desativada e os parceiros devem usar o Centro de Administração do Microsoft 365 para essa finalidade.
+Veja abaixo mais detalhes e as próximas etapas.
+
+### <a name="next-steps"></a>Próximas etapas
+
+- Baixe a lista de preços de **Software perpétuo do CSP** na seção **Software** da página [Preços e Ofertas](https://partnercenter.microsoft.com/en-us/pcv/sales) do Partner Center. Uma lista dos produtos e geografias adicionados recentemente pode ser encontrada [aqui](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
+- Examine o [artigo de instruções para download de chaves de licença de produtos e software perpétuo no Centro de Administração do Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2152525) e compartilhe com seus clientes quando eles estiverem prontos para baixar seus softwares e chaves de licença.
+- Examine os materiais de preparação sobre [Software perpétuo no programa Provedor de Soluções na Nuvem](https://partner.microsoft.com/resources/collection/software-in-csp#/). Use este [mapa de preparação](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) para localizar de maneira rápida as informações corretas para sua função.
+
+### <a name="questions"></a>Perguntas?
+
+Em caso de dúvidas adicionais, confira as comunidades relevantes sobre o CSP no Yammer.
+
+_____________
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="10"></a> Lembrete: introdução à limitação de API para parceiros que chamam as APIs do Partner Center 
+
+### <a name="categories"></a>Categorias
+
+- Data: 19-01-2021
+- Amplie seus negócios
+
+### <a name="summary"></a>Resumo
+
+A Microsoft implementará a limitação de API para possibilitar um desempenho mais consistente dentro de um período de tempo para parceiros que chamam as APIs do Partner Center.
+
+### <a name="impacted-audience"></a>Público-alvo afetado
+
+Todos os parceiros que fazem transações pelo programa CSP (Provedor de Soluções na Nuvem)  
+
+### <a name="details"></a>Detalhes
+
+A partir de fevereiro de 2021, a Microsoft implementará a limitação de API para possibilitar um desempenho mais consistente dentro de um período de tempo para parceiros que chamam as APIs do Partner Center. A limitação restringe o número de solicitações para um serviço por um determinado período para evitar o uso excessivo de recursos. Quando um limite for excedido, o Partner Center limitará solicitações adicionais desse cliente durante um período de tempo.
+  
+**Benefícios do parceiro:** o Partner Center foi criado para lidar com um alto volume de solicitações, mas se um número excessivo delas for realizado por alguns parceiros, a limitação ajudará a manter o desempenho ideal e a confiabilidade para todos os parceiros.  
+
+- A limitação garante um tempo de inatividade mínimo.
+- A limitação reduz o número de solicitações de alto volume, ajudando a garantir um desempenho consistente para todos os parceiros.
+
+**APIs a serem limitadas:**
+
+| Operação | Documentação do Partner Center |
+| ------ | ------- |
+|{baseURL}/v1/customers/{ID_do_cliente}/subscriptions  | [Get-all-of-a-customer-s-subscriptions](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/customers/{ID_do_cliente}/subscriptions/{ID_da_assinatura}  | [Obter uma assinatura por ID](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/v1/customers/{ID_do_cliente}/orders  | [Obter todos os pedidos de clientes](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/v1/customers/{ID_do_cliente}/orders/{ID_do_pedido}  | [Obter uma ordem por ID](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/v1/customers/{ID_do_cliente}/orders/{ID_do_pedido}/provisioningstatus  | [Obter o status de provisionamento da assinatura](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/v1/customers/{ID_do_cliente}/subscriptions/{ID_da_assinatura}  | [Gerenciar pedidos e uma assinatura](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/v1/customers/{ID_do_cliente}/subscriptions/{ID_da_assinatura}/addons  | [Obter uma lista de complementos de uma assinatura](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/v1/customers/{ID_do_cliente}/subscriptions/{ID_da_assinatura}/azureEntitlements | [Obter uma lista de direitos do Azure para uma assinatura](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/v1/customers/{ID_do_cliente}/subscriptions/{ID_da_assinatura}/registrationstatus  | [Obter o status de registro de assinatura](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/v1/customers/{ID-do-locatário-do-cliente}/transfers  | [Obter todas as transferências de um cliente](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{ID-da-atualização}/status  | [Obter o status de atualização do produto](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/v1/customers/{ID-do-cliente}/subscriptions/{ID-da-assinatura}/conversions   | [Obter uma lista de ofertas de conversão de avaliação](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+É altamente recomendável que os parceiros considerem o uso da API do log de atividades para ter mais eficiência e evitar a limitação. Para obter mais informações sobre esse recurso, confira os detalhes [aqui](/partner-center/develop/api-throttling-guidance).  
+
+### <a name="next-steps"></a>Próximas etapas
+
+Examine os [recursos](/partner-center/develop/api-throttling-guidance) sobre este tópico e execute as etapas necessárias.  
+
+_____________
+
+## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>As iniciações de SCI (Segurança, Conformidade e Identidade) chegam em 1º de fevereiro de 2021 
+
+### <a name="categories"></a>Categorias
+
+- Data: 15-01-2021
+- Ofertas/mercados
+
+### <a name="summary"></a>Resumo
+
+Vários lançamentos do Microsoft 365 serão incluídos na versão prévia da lista de preços em janeiro e ficarão disponíveis a partir de 1º de fevereiro de 2021.
+
+### <a name="impacted-audience"></a>Público-alvo afetado
+
+Todos os parceiros que fazem transações pelo programa CSP (Provedor de Soluções na Nuvem)
+
+### <a name="details"></a>Detalhes
+
+#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[SKUs do componente de conformidade do Microsoft 365 G5 para o governo](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
+
+Lançaremos três novas ofertas de componentes para os clientes GCC (Nuvem da Comunidade Governamental) e GCC High, que estarão disponíveis a partir de 1º de fevereiro de 2021. Essas SKUs serão equivalentes à Proteção e Governança de Informações do Microsoft 365 E5, ao Gerenciamento de Riscos Internos do M365 E5 e ao eDiscovery e Auditoria do Microsoft 365 E5, disponíveis atualmente na versão Comercial. 
+
+   |**Nome da oferta**|**ID da oferta**|**ID do material**|
+   |-------------------|:------|:------|
+   |Governança e proteção de informações do Microsoft 365 E5 para GCC|9e5397ab-f309-4d90-97f3-6fb5d53074d6|8QL-00002|
+   |Descoberta eletrônica e auditoria do Microsoft 365 E5 para GCC|5c9ef884-6307-47e7-a914-f5092feae51e|8RI-00002|
+   |Gerenciamento de riscos para informações privilegiadas do Microsoft 365 E5 para GCC|11ccfdb3-80cb-4c80-8146-c9775045df17|8RF-00002|
+   |DLP (complemento) e proteção de informações do Microsoft 365 E5 para GCC|911d3177-53a9-42ec-a0e9-3b73fce527f0|8QY-00002|
+
+#### <a name="10-year-audit-log-retention-add-on"></a>[Complemento de retenção de logs de auditoria por 10 anos](/microsoft-365/compliance/)
+
+Um complemento disponível com um pré-requisito do Microsoft 365 E5 permitirá que os clientes armazenem seus dados por 10 anos. 
+
+   |**Nome da oferta**|**ID da oferta**|**ID do material**|
+   |-------------------|:------|:------|
+   |Complemento de retenção de logs de auditoria por 10 anos para EDU|879b5e1a-eaa2-4ea9-a628-0b429b2e8732|8LC-00002|
+   |Complemento de retenção de logs de auditoria por 10 anos|e14ce8d1-09f4-42d2-9b5e-ee85f32e7be4|8LB-00003|
+   
+#### <a name="frontline-worker-add-ons"></a>Complementos para trabalhadores de linha de frente
+
+A partir de 1º de fevereiro de 2021, os clientes podem comprar três novas ofertas programáticas de Segurança e Conformidade para trabalhadores de linha de frente como complementos para as [SKUs F1 e F3 do Microsoft 365](https://www.microsoft.com/microsoft-365/firstline-workers).
+
+Essas ofertas programáticas substituirão a promoção de [Segurança e Conformidade](https://microsoft.sharepoint.com/teams/M365LicensingNews/SitePages/Security-and-Compliance-Promotion-for-Firstline-Workers-Update.aspx) atual que vai expirar em **28 de fevereiro de 2021**. Diferente da promoção atual, os complementos do F5 oferecem aos clientes mais previsibilidade à medida que a força de trabalho deles de linha de frente cresce.
+
+   
+   |**Nome da oferta**|**ID da oferta**|**ID do material**|
+   |-------------------|:------|:------|
+   |Segurança do Microsoft 365 F5|a8fba59e-1fc2-4658-8684-5f3d0c71c490|8RQ-00003|
+   |Conformidade do Microsoft 365 F5|6dc6cb1d-7bcb-4234-80cc-9c7a9cded044|8RL-00003|
+   |Segurança e Conformidade do Microsoft 365 F5|ad396924-ee4e-4059-b779-efe43dfa24d2|8RU-00003|
+   
+### <a name="next-steps"></a>Próximas etapas
+
+Examine a versão prévia da lista de preços e compartilhe com os stakeholders apropriados em sua organização. Para saber mais, acesse [Segurança e Conformidade da Microsoft – Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-security-and/ct-p/MicrosoftSecurityandCompliance).
+
+### <a name="questions"></a>Perguntas?
+
+Em caso de dúvidas adicionais sobre essas ofertas, confira as comunidades relevantes no Yammer. 
+
+_____________ 
+
+## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="8"></a>Migração do DocuSign para o Adobe Sign para os parceiros com MPAs (Contratos de Parceiro da Microsoft) 
+
+### <a name="categories"></a>Categorias
+
+- Data: 15-01-2021
+- Funcionalidades
+
+### <a name="summary"></a>Resumo
+
+A Microsoft fará a transição de todo o processamento de assinatura eletrônica do DocuSign para o Adobe Sign.
+
+### <a name="impacted-audience"></a>Público-alvo afetado
+
+Parceiros CSP (Provedor de Soluções na Nuvem) indiretos e diretos que têm um MPA. Parceiros na Ucrânia, na Rússia e no Cazaquistão precisarão assinar de maneira física ou eletrônica a cláusula adicional anualmente.
+
+### <a name="details"></a>Detalhes
+
+Em fevereiro de 2021, a Microsoft iniciará a transição de todo o processamento de assinatura eletrônica do DocuSign para o Adobe Sign para parceiros CSP. 
+
+Você deverá esperar uma transição sem problemas. Após a migração, você receberá um email de adobesign@adobesign.com, em vez da DocuSign, sempre que sua assinatura eletrônica for necessária. Esse email fornecerá um link para a página da Web do Adobe Sign, em que você precisará assinar. Parceiros da Microsoft não precisarão assinar novamente contratos existentes, somente Contratos de Canal futuros. 
+
+Veja um exemplo de um email de solicitação de assinatura do Adobe Sign na [galeria de recursos](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf). 
+
+**Para ter a melhor experiência, não deixe de fazer o seguinte:**
+
+1. Adicione adobesign@adobesign.com à sua lista de remetentes seguros para evitar que emails dessa conta vão diretamente para a pasta de lixo eletrônico.
+2. Trabalhe com seu departamento de TI para:
+   - Atualizar o endereço de email adobesign@adobesign.com à lista de remetentes seguros para garantir que ele não seja incluído em nenhuma regra de phishing existente.
+   - Atualizar as políticas de segurança existentes para garantir que todos os destinatários necessários possam assinar a documentação com sua licença empresarial do Adobe Sign.
+
+O Adobe Sign é a ESS (Solução de Assinatura Eletrônica) preferencial da Microsoft. A transição para o Adobe Sign garantirá uma experiência de assinatura eletrônica segura e eficiente que oferecerá maior valor para nossos clientes e parceiros.
+
+Para saber mais sobre como assinar documentos eletronicamente e sobre a delegação de assinatura eletrônica, confira os seguintes **tutoriais**: 
+- [Assinar um documento eletronicamente | Tutoriais do Adobe Sign](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [Delegar alguém para assinar um documento | Tutoriais do Adobe Sign](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a>Próximas etapas
+
+Compartilhe essas informações com os stakeholders apropriados da sua organização.
+
+### <a name="questions"></a>Perguntas?
+
+Em caso de dúvidas, entre em contato com o Centro de Operações Regionais usando a [CLT (Ferramenta de Log de Chamadas)](https://clt.partners.extranet.microsoft.com/CLT) ou no [Explore MS](https://www.explore.ms/). Siga o processo padrão da CLT para que possamos resolver sua consulta o mais rápido possível.
+
+_____________ 
+
+## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="7"></a>Atualização de preço comercial para coroa norueguesa 
+
+### <a name="categories"></a>Categorias
+
+- Data: 14-01-2021
+- Ofertas/mercados
+
+### <a name="impacted-audience"></a>Público-alvo afetado
+
+Parceiros CSP que usam a coroa norueguesa.
+
+### <a name="details"></a>Detalhes
+
+A partir de 1º de março de 2021, os preços em coroas noruegueses para software comercial local e serviços online serão alterados a fim de realinhá-los aos níveis de preço predominantes na região.
+O comunicado completo está disponível somente para parceiros da Microsoft. [Conecte-se para acessar o comunicado completo](https://partner.microsoft.com/resources/detail/pricing-update-norway-partners-pdf).
 
 _____________ 
 

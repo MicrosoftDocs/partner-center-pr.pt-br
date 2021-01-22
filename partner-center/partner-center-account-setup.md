@@ -1,7 +1,7 @@
 ---
 title: Gerenciar sua conta do Partner Center
 ms.topic: conceptual
-ms.date: 11/20/2020
+ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como usar o Partner Center para gerenciar as informações bancárias, fiscais e de perfil da sua empresa, além de funções, permissões e muito mais.
@@ -9,16 +9,17 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
-ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
+ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "97011512"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235963"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gerenciar sua conta do Partner Center – perfis da empresa, informações bancárias, funções, permissões e muito mais
 
-**Funções apropriadas**: administrador global, administrador de MPN
+**Funções apropriadas** – administrador global
+- Administrador de conta do MPN
 
 A conta que você cria no Partner Center ao se inscrever é seu email de trabalho mais suas informações comerciais. Após a criação de uma conta, você concluirá a configuração do perfil completo da empresa, incluindo detalhes de suporte, isenções fiscais (se apropriado) e informações do contato principal. A conta da sua empresa também incluirá contas de usuário para qualquer pessoa que usar o Partner Center para adicionar ou gerenciar clientes, vender assinaturas, trabalhar com cobrança e faturamento, criar perfis comerciais, gerenciar indicações, trabalhar com programas de incentivos e fornecer suporte.
 
@@ -60,6 +61,10 @@ Use essas páginas para gerenciar áreas detalhadas da sua empresa, incluindo o 
 ### <a name="legal-info"></a>Informações jurídicas
 
 Quando você ingressa pela primeira vez no Partner Center, a empresa passa por um processo de verificação junto à Microsoft. Acompanhe o status de verificação na página **Informações jurídicas**. Ela mostra o contato principal (pessoa que a Microsoft buscará para sanar dúvidas sobre parceiros) e o contato jurídico principal (pessoa que gerencia as informações e o status jurídico). Todos os locais comerciais da sua empresa são listados e podem ser adicionados aqui.
+
+### <a name="primary-contact-email"></a>Email de contato principal
+
+Nós usaremos o email de contato principal para notificar você sobre a verificação de sua conta. É muito importante que o email fornecido para o contato principal seja gerenciado e observado regularmente.  
 
 Saiba mais sobre [Verificação e informações de conta](verification-responses.md).
 
@@ -122,9 +127,9 @@ Há muitos programas do Partner Center disponíveis. Cada programa tem requisito
 
 Para saber mais sobre o registro em determinados programas do Partner Center, confira a seguinte lista parcial:
 
-- [Programa do Marketplace Comercial](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [Programa do Marketplace Comercial](/azure/marketplace/partner-center-portal/create-account)
 - [Benefícios da associação ao Microsoft Partner Network](mpn-overview.md)
-- [Programa CSP](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [Programa CSP](./enrolling-in-the-csp-program.md)
 - [Office Store](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 Para saber mais sobre o registro em programas do Partner Center, confira também os [recursos de rede do parceiro](https://partner.microsoft.com/).

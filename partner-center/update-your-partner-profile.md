@@ -6,15 +6,15 @@ description: Saiba como verificar os detalhes da empresa, como contato principal
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 12/17/2020
+ms.date: 01/14/2021
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 938713a08b52d7f5d601ef7801f300eec223b921
-ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
+ms.openlocfilehash: 3dc16fe12a722a7e926dcb72d46eeb9be6b7d4ea
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "97666784"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235912"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Verificar as informações sobre o perfil da organização no Partner Center
 
@@ -27,6 +27,12 @@ Na primeira vez que você entrar no Partner Center como administrador global, de
 
 Seu perfil de parceiro consiste em informações jurídicas, nome e email do contato principal, programas nas quais a sua empresa participa e, se relevante, suas outras empresas que agora se fundiram no seu negócio jurídico. Verifique se o nome e o endereço da empresa no perfil comercial legal não têm erros de ortografia nem abreviações e se correspondem exatamente aos registros comerciais formais da empresa. Se você estiver operando como Proprietário Único, precisará usar o nome da empresa como razão social.
 
+>[!Important]
+>- Para contas do MPN, o administrador global e o administrador da conta podem atualizar a razão social da empresa.
+>- Para contas de revendedor do CSP Indirect, o administrador global pode atualizar a razão social da empresa. 
+
+## <a name="locate-the-legal-business-profile"></a>Localizar o perfil comercial jurídico
+
 1. Acesse o ícone de **Configurações** e selecione **Configurações de conta**.
  
 1. Selecione **Perfil da organização**. 
@@ -37,15 +43,15 @@ Caso tenha fundido suas outras empresas em seu negócio jurídico, examine tamb�
 
 ## <a name="update-your-legal-business-profile"></a>Atualizar seu perfil comercial jurídico
 
-Agora você pode atualizar seu endereço jurídico no Partner Center.
+Atualizar seu endereço jurídico no Partner Center.
 
-1. Acesse **Configurações** e selecione **Perfil da organização**
+1. Acesse **Configurações** e selecione **Perfil da organização**.
 
 
 2. Selecione **Jurídico** e escolha o perfil de negócio Jurídico que deseja usar.
 
 >[!Important]
->Se você for um parceiro CSP (Provedor de Soluções na Nuvem), não será possível alterar o país associado ao endereço jurídico da sua empresa. O país do endereço jurídico está vinculado ao locatário e aos serviços prestados, bem como à moeda com que você faz negócios. Se não estiver no programa CSP, você poderá alterar o país associado ao seu endereço jurídico. A razão social da empresa não poderá ser atualizada no Partner Center se o seu status de habilitação for "Autorizado". Será necessário [criar um tíquete de suporte](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
+>Se você for um parceiro CSP (Provedor de Soluções na Nuvem), não será possível alterar o país associado ao endereço jurídico da sua empresa. O país do endereço jurídico está vinculado ao locatário e aos serviços prestados, bem como à moeda com que você faz negócios. Se não estiver no programa CSP, você poderá alterar o país associado ao seu endereço jurídico. A razão social da empresa não poderá ser atualizada no Partner Center se o seu status de validação for "Autorizado". Se você precisar alterar o nome, será necessário [criar um tíquete de suporte](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
 3. Quando você selecionar **Enviar**, a identidade jurídica será reavaliada e você receberá outro email, o qual precisará aceitar.
 
@@ -78,10 +84,7 @@ Se você for o administrador global, o administrador de cobrança ou o agente ad
 
 ## <a name="next-steps"></a>Próximas etapas
 
-
 - [Examinar o status de verificação](verification-responses.md)
  
 - [Gerenciar locais do MPN](manage-locations.md)
-
-
 
