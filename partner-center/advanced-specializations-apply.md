@@ -1,7 +1,7 @@
 ---
 title: Aplicar para especializações avançadas
 ms.topic: how-to
-ms.date: 11/30/2020
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Fortaleça seu perfil de negócios no diretório de parceiros da Microsoft. Saiba como usar o Partner Center para se candidatar e ganhar especializações avançadas.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dea98a5268feecbbea448592637a24f180d8eff2
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96440036"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658409"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Usar o Partner Center para se candidatar a especializações avançadas e verificar seu status
 
@@ -60,20 +60,21 @@ Ambas as tarefas podem ser executadas no Partner Center.
 
 As especializações avançadas que exigem uma auditoria com um auditor de terceiros incluem:
 
-- data warehouse migração para Microsoft Azure
-- Kubernetes em Microsoft Azure
+- Análise em Microsoft Azure
+- Migração do Data Warehouse para o Microsoft Azure
+- Kubernetes no Microsoft Azure
 - Migração de banco de dados de software livre e Linux para Microsoft Azure
-- Área de trabalho virtual do Microsoft Windows
+- Área de Trabalho Virtual do Windows da Microsoft
 - Modernização de aplicativos Web para Microsoft Azure
-- Windows Server e SQL Server migração para Microsoft Azure
+- Migração do Windows Server e do SQL Server para Microsoft Azure
 
 As especializações avançadas que exigem referências de clientes incluem:
 
 - Adoção e gerenciamento de alterações
-- Chamando o Microsoft Teams
+- Chamar o Microsoft Teams
 - Reuniões e salas de reunião do Microsoft Teams
 - SAP no Azure
-- Implantação em equipe
+- Implantação de trabalho em equipe
 - Gerenciamento de Identidades e Acesso
 - Proteção contra Ameaças
 
