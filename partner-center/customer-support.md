@@ -1,20 +1,20 @@
 ---
 title: Como fornecer suporte para seus clientes
 ms.topic: article
-ms.date: 04/28/2020
+ms.date: 01/22/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba mais sobre as responsabilidades de atendimento ao cliente para parceiros no programa CSP, incluindo detalhes sobre cobrança, gerenciamento de assinaturas e problemas técnicos.
+description: Saiba mais sobre as responsabilidades de atendimento ao cliente para parceiros no programa CSP. Aborda o suporte para cobrança, gerenciamento de assinaturas e problemas técnicos.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: ec9c80d7e57e0252f68f7ed7f7b0f73f8812de9d
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: f32c9b2db500fabe982c364e24f94fc449bc5218
+ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92032039"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "98717667"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Fornecimento de diferentes tipos de suporte para os clientes
 
@@ -26,21 +26,19 @@ ms.locfileid: "92032039"
 
 ## <a name="microsoft-partner-support-guidance"></a>Diretrizes de suporte para parceiros da Microsoft
 
-Os parceiros que transformam o modelo de CSP são o conselheiro confiável para seus clientes e, se você for um parceiro de cobrança direto, é o proprietário de ponta a ponta. Revendedores indiretos devem trabalhar com seus provedores indiretos para dar suporte aos clientes. Essa relação inclui o suporte a seus clientes quando eles têm dúvidas ou problemas. Ao fornecer suporte aos seus clientes, você tem a oportunidade de saber mais sobre eles e seus negócios. Isso ajudará você a identificar novos serviços e soluções que conduzem valor.
+Os parceiros que transformam o modelo de CSP são o conselheiro confiável para seus clientes e, se você for um parceiro de cobrança direto, é o proprietário de ponta a ponta. Revendedores indiretos devem trabalhar com seus provedores indiretos para dar suporte aos clientes. Essa relação inclui o suporte a seus clientes quando eles têm dúvidas ou problemas. Ao fornecer suporte aos seus clientes, você tem a oportunidade de saber mais sobre eles e seus negócios. Isso ajuda a identificar novos serviços e soluções que conduzem valor.
 
-Para atender ao requisito de suporte, você pode revender o suporte de outra empresa, terceirizar toda ou parte da estrutura de suporte e/ou configurar uma estrutura para fornecer suporte diretamente. Você pode cobrar por todo ou parte do suporte fornecido aos clientes. Explique aos seus clientes os tipos de suporte que você fornecerá, as horas de serviço, o método de contato e o preço (se cobrar por suporte).
+Para atender ao requisito de suporte, você pode revender o suporte de outra empresa, terceirizar toda ou parte da estrutura de suporte e/ou configurar uma estrutura para fornecer suporte diretamente. Você pode cobrar por todo ou parte do suporte fornecido aos clientes. Lembre-se de informar aos clientes os tipos de suporte que você fornecerá, as horas de serviço, o método de contato e o preço (se cobrar por suporte).
 
 Os clientes do CSP não podem criar os próprios tíquetes de suporte. Eles precisam entrar em contato com você para obter suporte. Os parceiros CSP são obrigados a receber solicitações de suporte recebidas de seus clientes, diagnosticar problemas para o melhor de sua capacidade e, em seguida, resolver problemas que estão dentro do escopo dos limites de suporte de linha de base. Se não for possível resolver um problema, você poderá escalonar problemas para a Microsoft por meio dos seguintes veículos de suporte:
 
 - O suporte a problemas **comerciais** está disponível para todos os parceiros do programa CSP
 
-- O suporte a problemas **técnicos** está disponível por meio de:
+- Suporte **técnico** problema-você pode [comparar os planos de suporte do parceiro](https://partner.microsoft.com/support/partnersupport) ou veja abaixo mais detalhes sobre um plano de suporte específico:
 
-    - Suporte Premier para Parceiros (baseado em tarifas)
-
-    - Suporte Avançado para Parceiros (baseado em tarifas)
-
-    - Assinatura de Suporte à Nuvem (incluída na competência Gold/Silver)
+  - [Suporte Premier para parceiros](https://partner.microsoft.com/support/microsoft-services-premier-support) (base de taxas)
+  - [Suporte avançado para parceiros](https://partner.microsoft.com/support/advanced-cloud-support) (base de taxas)
+  - [Suporte à assinatura na nuvem](https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits) (incluído na competência Gold/prata)
 
 ## <a name="providing-billing-subscription-management-and-technical-support"></a>Como fornecer suporte técnico, gerenciamento de assinaturas e cobrança 
 
@@ -54,9 +52,9 @@ Cada serviço online tem requisitos específicos e detalhados para fornecer supo
 
 
 
- 
+ 
 
- 
+ 
 
 
 
