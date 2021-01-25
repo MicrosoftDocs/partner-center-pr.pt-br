@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: b1eb9eeed676cc07b042659dffd77d04ebd50326
-ms.sourcegitcommit: 4e8e5a18e6e64892761dadcf182e179a128dcbc7
+ms.openlocfilehash: 5c89ef94977882b72563763744c6437c6c7f368a
+ms.sourcegitcommit: 79e45aa581ad7785e2417660ed6c73689988f58b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98166691"
+ms.lasthandoff: 01/25/2021
+ms.locfileid: "98759866"
 ---
 # <a name="what-is-microsoft-appsource"></a>O que é o Microsoft AppSource?
 
@@ -46,7 +46,7 @@ Todos os produtos disponíveis no AppSource foram certificados de acordo com cri
 
 O fornecedor de software define o preço, o contrato de licença de usuário final e as políticas de privacidade. Cada oferta no AppSource inclui links para a política de privacidade e o contrato de licença do Publicador. A exibição e a confirmação desses contratos faz parte do fluxo de compra. Para obter detalhes, consulte [contratos legais](legal-contracts.md).
 
-## <a name="discover-saas-and-m365-integrated-apps"></a>Descobrir aplicativos integrados de SaaS e M365
+## <a name="discover-saas-and-microsoft-365-integrated-apps"></a>Descobrir aplicativos de SaaS e Microsoft 365 integrados
 
 Nossos parceiros podem vincular entre um aplicativo SaaS e seus suplementos correspondentes para Microsoft 365. Isso permite baixar e usar os suplementos de serviços específicos Microsoft 365 ou produtos quando você obtém um aplicativo SaaS vinculado a suplementos.
 
