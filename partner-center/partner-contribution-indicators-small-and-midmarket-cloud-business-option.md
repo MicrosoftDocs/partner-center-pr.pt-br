@@ -1,7 +1,7 @@
 ---
 title: Indicadores de contribuição do parceiro-SMMCS
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre os parceiros de PCI (indicadores de contribuição de parceiros) precisam ser atendidos antes que possam alcançar a competência de soluções de nuvem pequena e médio porte.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cbde581a5a2d0b79b92be54abfba4920b53cbba4
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: e7fc9961c74d11e3bb36332d0cfff5ea4f9378be
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204106"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861420"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Use indicadores de contribuição de parceiro para obter a competência de soluções de nuvem de pequeno e médio porte
 
@@ -157,13 +157,12 @@ A nova receita líquida é um [indicador de desempenho](partner-contribution-ind
 - A nova receita líquida é definida como líquida nova receita cobrada em todos os canais de vendas para produtos do Dynamics 365 qualificados.
 - A nova receita líquida é resumida em um período de 12 meses à direita, com um máximo possível de rendimento de 10 pontos.
 - Os pontos para a nova receita líquida são calculados como cobranças menos créditos e agregados em mais de 12 meses.
-- A nova receita líquida é calculada com base nos seguintes produtos qualificados que seguem o caminho do envolvimento do cliente ou o caminho financeiro e de operações:
+- A nova receita líquida é calculada com base em qualquer combinação dos seguintes produtos qualificados:
   - Contrato de cliente do Dynamics 365 – os produtos qualificados incluem: vendas, marketing, atendimento ao cliente, serviço de campo, Project Server, plano 1, automação, marketing, vendas de relações da Microsoft
-  - Os produtos de finanças e qualificação de operações incluem: Central de negócios, capacidade e armazenamento, finanças e operações (incluindo proteção contra fraudes, operações, varejo, RH, plano 2), realidade misturada, membro da equipe
-  - Dynamics 365 Business Central
-
-- Os canais de vendas incluem o EA (Enterprise Agreement), o CSP (provedor de soluções de nuvem) e o Web Direct.
-- Por Enterprise Agreement somente receita: essa receita inclui a receita do primeiro ano do contrato. A receita recorrente do segundo e do terceiro anos não está incluída.
+  - Os produtos de finanças e qualificação de operações incluem: Dynamics 365 Business central, capacidade e armazenamento, finanças e operações (incluindo proteção contra fraudes, operações, varejo, RH, plano 2), realidade misturada, membro da equipe
+  
+- Os canais de vendas incluem o EA (Contrato Enterprise), o CSP (provedor de soluções de nuvem) e o Web Direct.
+- Por Contrato Enterprise somente receita: essa receita inclui a receita do primeiro ano do contrato. A receita recorrente do segundo e do terceiro anos não está incluída.
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Definições para a métrica de PCI #2-net Customer ADDS
 
@@ -183,7 +182,7 @@ O net Customer ADDS é um [indicador de desempenho](partner-contribution-indicat
 
 - Pontos máximos e parciais podem ser obtidos para adições de clientes da net.
 
-- Os canais de vendas incluem o EA (Enterprise Agreement), o CSP (provedor de soluções de nuvem) e o Web Direct.
+- Os canais de vendas incluem o EA (Contrato Enterprise), o CSP (provedor de soluções de nuvem) e o Web Direct.
 
 - Para vários parceiros/mesmo cliente ou cliente trabalhando diretamente com a Microsoft: há diferentes cálculos de **acréscimos de clientes** e **clientes perdidos** para casos em que vários parceiros estão associados ao mesmo cliente por meio de assinaturas diferentes ou para casos em que o cliente já pode estar trabalhando diretamente com a Microsoft. Esses cálculos aparecem abaixo.
 

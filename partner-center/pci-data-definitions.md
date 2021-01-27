@@ -1,20 +1,20 @@
 ---
-title: Definições de dados do insights
+title: Definições de dados do Insights
 ms.topic: article
 ms.date: 12/14/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: O documento fornece a lista de vários relatórios e as definições de dados de cada relatório, que podem ser baixados na página de relatório de download do insights.
+description: O documento lista vários relatórios e suas definições de dados, que podem ser baixados na página de relatório de download do insights.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d4a805957fac7c7cff373d807347b7c6d0b13d6f
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 427ca3b60ec527a6a371a232538647448d03b084
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97501741"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861386"
 ---
 # <a name="export--data-definitions"></a>Exportar – definições de dados 
 
@@ -25,535 +25,534 @@ ms.locfileid: "97501741"
 
 ## <a name="introduction"></a>Introdução 
 
-O Hub baixar relatórios no painel do insights permite que você exporte os conjuntos de dados brutos.  
+Usando o Hub baixar relatórios no painel do insights, você pode exportar os conjuntos de valores brutos. 
 
-Os vários relatórios, que podem ser baixados junto com a definição de dados, são os seguintes: 
+Os vários relatórios, que você pode baixar juntamente com suas definições de dados, estão listados nas seguintes tabelas: 
 
-**Perfil de parceiro**: as definições de dados dos vários campos do relatório de perfil são: 
+### <a name="partner-profile-report"></a>**Relatório de perfil do parceiro**
 
+| Nome da coluna | Descrição dos dados | 
+| :--------- | :--------- | 
+| MPNId | Identificador de Microsoft Partner Network (MPN) | 
+| PartnerName | Nome do parceiro | 
+| PGA_MPNId | Identificador da conta global do parceiro MPN | 
+| PGA_PartnerName | Nome da conta global do parceiro | 
+| City | Local da cidade do parceiro | 
+| País | Local do país do parceiro | 
+| HierarchyLevel | Indica se é uma ID de MPN global ou uma ID de MPN de local | 
 
-| **Nome da Coluna** | **Descrição de dados** |
-|---------|:---------|
-|MPNId|ID de Microsoft Partner Network|
-|PartnerName|Nome do parceiro |
-|PGA_MPNId|ID de MPN da conta global do parceiro|
-|PGA_PartnerName|Nome da conta global do parceiro|
-|City|Local da cidade do parceiro |
-|País|Local do país do parceiro |
-|HierarchyLevel|Indica se é uma ID de MPN global ou uma ID de MPN de local|
+### <a name="customer-details-report"></a>**Relatório de detalhes do cliente**
 
-**Detalhes do cliente**: as definições de dados dos vários campos do relatório detalhes do cliente são:
+| Nome da coluna | Descrição dos dados | 
+| :--------- | :--------- | 
+| CustomerName | Nome do cliente que comprou a assinatura | 
+| CustomerTenantId | Identificador do locatário do cliente | 
+| CustomerTpid | Identificador do pai superior do cliente | 
+| CustomerSegment | Segmento de cliente | 
+| CustomerMarket | Mercado geográfico do cliente | 
+| CustomerStatus | Status do cliente (ativo ou inativo) | 
+| Produto | O produto vendido ao cliente por MPN: O365, DYNAMICS 365, Enterprise Mobility + Security, Power BI ou Microsoft Azure | 
+| SKU | SKU do Produto | 
+| Mês | Mês para o qual o uso e a receita são relatados | 
+| MPNId | Identificador de Microsoft Partner Network | 
+| PartnerName | Nome do parceiro | 
+| PartnerLocation | Localização geográfica do parceiro | 
+| PartnerAttributionType | Tipo de atribuição do parceiro | 
+| SalesChannel | Canal de vendas | 
+| AvailableSeats | Estações disponíveis | 
+| RevenueUSD | Receita em dólares americanos | 
 
-| **Nome da Coluna** | **Descrição de dados** |
-|---------|:---------|
-|CustomerName|Nome do cliente |
-|CustomerTenantId|ID de locatário do cliente |
-|CustomerTpid|Identificador pai superior do cliente |
-|CustomerSegment|Segmento de cliente |
-|CustomerMarket|Mercado geográfico do cliente  |
-|CustomerStatus|Status do cliente (Active/Inactive) |
-|Produto|O produto vendido ao cliente pelo MPN. Este será um dos O365, D365, Enterprise Mobility, Power BI Microsoft Azure.|
-|SKU|   SKU do Produto|
-|Mês| Mês para o qual o uso e a receita são relatados|
-|MPNId| ID de Microsoft Partner Network|
-|PartnerName|   Nome do parceiro|
-|PartnerLocation|   Localização geográfica do parceiro|
-|PartnerAttributionType|    Tipo de atribuição de parceiro|
-|SalesChannel|  Canal de vendas|
-|AvailableSeats|    Estações disponíveis| 
-|RevenueUSD|    Receita em USD|
-
-**Desempenho do revendedor**: as definições de dados dos vários campos dos relatórios de desempenho do revendedor são:
+### <a name="reseller-performance-report"></a>**Relatório de desempenho do revendedor**
 
 > [!Note]
-> Os dados de receita e ACR só estão disponíveis para usuários que são visualizadores de relatórios executivos.
+> Os dados de receita e ACR estão disponíveis apenas para usuários que são visualizadores de relatórios executivos.
 
-| **Nome da Coluna** | **Descrição de dados** |
-|---------|:---------|
-|ResellerMpnid|Identificador de Microsoft Partner Network do revendedor| 
-|ResellerName|Nome do revendedor|
-|ResellerMarket|País do revendedor do mercado| 
-|IndirectProviderMPNId|Identificador de Microsoft Partner Network de provedor indireto|
-|IndirectProviderName|Nome do provedor indireto|
-|Mês|Mês para o qual o uso e a receita são relatados|
-|Produto|Nome do Produto|
-|SubscriptionID|Identificador de assinatura|
-|AvailableSeats|Número de estações disponíveis|
-|AssignedSeats|Número de estações atribuídas|
-|BilledRevenueUSD|Receita cobrada (em $)|
-|CustomerName|Nome do cliente| 
-|CustomerTPid|Identificador pai superior do cliente| 
-|CustomerSegment|Segmento de cliente |
-|CustomerMarket|Mercado geográfico do cliente |
-|ResellerStatus|Status do revendedor| 
+| Nome da coluna | Descrição dos dados | 
+| :--------- | :--------- | 
+| ResellerMPNid | Identificador de Microsoft Partner Network do revendedor | 
+| ResellerName | Nome do revendedor | 
+| ResellerMarket | País do revendedor do mercado | 
+| IndirectProviderMPNId | Identificador do Microsoft Partner Network do provedor indireto | 
+| IndirectProviderName | Nome do provedor indireto | 
+| Mês | Mês para o qual o uso e a receita são relatados | 
+| Produto | Nome do produto | 
+| SubscriptionID | Identificador da assinatura | 
+| AvailableSeats | Número de estações disponíveis | 
+| AssignedSeats | Número de estações atribuídas | 
+| BilledRevenueUSD | Receita cobrada em dólares dos EUA | 
+| CustomerName | Nome do cliente que comprou a assinatura | 
+| CustomerTPid | Identificador do pai superior do cliente | 
+| CustomerSegment | Segmento de cliente | 
+| CustomerMarket | Mercado geográfico do cliente | 
+| ResellerStatus | Status do revendedor | 
 
-**Detalhes de assinaturas**: as definições de dados dos vários campos do relatório detalhes da assinatura são:
+### <a name="subscription-details-report"></a>**Relatório detalhes da assinatura**
 
 >[!Note]
->Os dados de receita e ACR só estão disponíveis para usuários que são visualizadores de relatórios executivos
+>Os dados de receita e ACR estão disponíveis apenas para usuários que são visualizadores de relatórios executivos.
 
-| **Nome da Coluna** | **Descrição de dados** |
-|---------|:---------|
-|SubscriptionId|    GUID da assinatura|
-|SubscriptionStartDate| Data de início da assinatura|
-|SubscriptionEndDate|   Data de término da assinatura|
-|SubscriptionState| Estado da assinatura (ativa ou com variação)|
-|Mês| Mês para o qual o uso e a receita são relatados|
-|IsAutoRenew|   Indica se a assinatura é renovada automaticamente ou não (s/N)|
-|CustomerName|  Nome do Cliente| 
-|CustomerTenantId|  GUID do cliente|
-|CustomerTpid|  Identificador pai superior do cliente| 
-|CustomerSegment|   Segmento de mercado do cliente| 
-|CustomerMarket|    Mercado geográfico do cliente|
-|Produto|   Produto vendido ao cliente pelo parceiro| 
-|SKU|   SKU do produto |
-|MPNId| ID de Microsoft Partner Network do parceiro |
-|PartnerName|   Nome do parceiro |
-|PartnerLocation|   Localização geográfica do parceiro |
-|PartnerAttributionType|    Tipo de atribuição para a assinatura|
-|SalesChannel|  Canal das vendas (direto/CSP, etc.) |
-|AvailableSeats|    Estação disponível atual|
-|RevenueUSD|    Receita em USD|
-|ID de registro| ID de registro da assinatura|
+| Nome da coluna | Descrição dos dados | 
+| :--------- | :--------- | 
+| SubscriptionId | GUID da assinatura | 
+| SubscriptionStartDate | Data de início da assinatura | 
+| SubscriptionEndDate | Data de término da assinatura | 
+| SubscriptionState | Estado da assinatura (ativa ou com variação) | 
+| Mês | Mês para o qual o uso e a receita são relatados | 
+| IsAutoRenew | Indica se a assinatura é renovar (Sim ou não) | 
+| CustomerName | Nome do cliente que comprou a assinatura | 
+| CustomerTenantId | GUID do cliente | 
+| CustomerTpid | Identificador pai superior do cliente | 
+| CustomerSegment | Segmento de mercado do cliente | 
+| CustomerMarket | Mercado geográfico do cliente | 
+| Produto | Produto vendido ao cliente pelo parceiro | 
+| SKU | SKU do produto | 
+| MPNId | ID de Microsoft Partner Network do parceiro | 
+| PartnerName | Nome do parceiro | 
+| PartnerLocation | Localização geográfica do parceiro | 
+| PartnerAttributionType | Tipo de atribuição para a assinatura | 
+| SalesChannel | Canal de vendas diretas, CSP (provedor de soluções de nuvem) e assim por diante | 
+| AvailableSeats | Estação disponível atual | 
+| RevenueUSD | Receita em dólares americanos | 
+| ID de registro | ID de registro da assinatura | 
 
-**Uso do Azure**: as definições de dados dos vários campos do relatório de uso do Azure são:
+### <a name="azure-usage-report"></a>**Relatório de uso do Azure**
 
-| **Nome da Coluna** | **Descrição de dados** |
-|---------|:---------|
-|SubscriptionId|    GUID da assinatura|
-|SubscriptionStartDate| A data do início da assinatura.|
-|SubscriptionEndDate|   A data em que a assinatura termina.|
-|SubscriptionState| Estado atual da assinatura (aberto/fechado/ativo/período de incarência)|
-|Mês| Data agregada por mês |
-|ServiceName|   Nome do serviço do Azure|
-|MeterCategory| Nome da categoria do medidor|
-|UsageUnits|    O número de unidades usadas durante o ciclo de cobrança |
-|CustomerName|  Nome do cliente |
-|CustomerTenantId|  ID do locatário do cliente |
-|CustomerTpid|  ID pai superior do cliente |
-|CustomerSegment|   Segmento do cliente |
-|CustomerMarket|    Mercado geográfico do cliente |
-|MPNId  |ID de Microsoft Partner Network do cliente |
-|PartnerName|   Nome do parceiro |
-|PartnerLocation    |Localização geográfica do país do parceiro |
-|PartnerAttributionType |Tipo de atribuição de parceiro|
-|SalesChannel|  Canal das vendas (direto/CSP direto/CSP direta, etc.) |
-|ACR_USD|   Receita consumida pelo Azure em USD|
-|ID de registro| ID de registro da assinatura do Azure|
+| Nome da coluna | Descrição dos dados | 
+| :--------- | :--------- | 
+| SubscriptionId | GUID da assinatura | 
+| SubscriptionStartDate | A data do início da assinatura | 
+| SubscriptionEndDate | A data do fim da assinatura | 
+| SubscriptionState | Estado atual da assinatura (aberto, fechado, ativo ou em período de carência) | 
+| Mês | Data agregada por mês | 
+| ServiceName | Nome do serviço do Azure | 
+| MeterCategory | Nome da categoria do medidor | 
+| UsageUnits | O número de unidades usadas durante o ciclo de cobrança | 
+| CustomerName | Nome do cliente que comprou a assinatura | 
+| CustomerTenantId | ID do locatário do cliente | 
+| CustomerTpid | ID pai superior do cliente | 
+| CustomerSegment | Segmento do cliente | 
+| CustomerMarket | Mercado geográfico do cliente | 
+| MPNId | ID de Microsoft Partner Network do cliente | 
+| PartnerName | Nome do parceiro | 
+| PartnerLocation | Localização geográfica do país do parceiro | 
+| PartnerAttributionType | Tipo de atribuição do parceiro | 
+| SalesChannel | Canal das vendas (direto/CSP, indireto/CSP, direto e assim por diante) | 
+| ACR_USD | Receita consumida do Azure (ACR) em dólares americanos | 
+| ID de registro | ID de registro da assinatura do Azure | 
 
-**Office 365-uso de licença**: as definições de dados dos vários campos do relatório de uso de licença do Office 365 são:
+### <a name="office-365-license-usage-report"></a>**Relatório de uso de licenças do Office 365**
 
-| **Nome da Coluna** | **Descrição de dados** |
-|---------|:---------|
-|CustomerTenantId|  ID do locatário do cliente| 
-|CustomerTpid|  ID pai superior do cliente |
-|Carga de trabalho|  SFB, equipes, EXO |
-|Mês| Mês para o qual o uso é relatado|
-|PaidAvailableUnits|    Número de unidades pagas disponíveis|
-|MonthlyActiveUsers|    Número de usuários ativos mensais|
-|CustomerName|  Nome do cliente|
-|CustomerMarket|    Localização geográfica do país do mercado do cliente |
-|CustomerSegment|   Segmento de cliente |
-|MPNId| ID de Microsoft Partner Network|
-|PartnerName|   Nome do parceiro|
-|PartnerLocation|   Localização geográfica do parceiro|
-|PartnerAttributionType|    Tipo de atribuição de parceiro|
+| Nome da coluna | Descrição dos dados | 
+| :--------- | :--------- | 
+| CustomerTenantId | ID do locatário do cliente | 
+| CustomerTpid | ID pai superior do cliente | 
+| Carga de trabalho | Skype for Business, Teams, Exchange Online | 
+| Mês | Mês para o qual o uso é relatado | 
+| PaidAvailableUnits | Número de unidades pagas disponíveis | 
+| MonthlyActiveUsers | Número de usuários ativos mensais | 
+| CustomerName | Nome do cliente que comprou a assinatura | 
+| CustomerMarket | Local do país geográfico do mercado do cliente | 
+| CustomerSegment | Segmento de cliente | 
+| MPNId | Identificador de Microsoft Partner Network | 
+| PartnerName | Nome do parceiro | 
+| PartnerLocation | Localização geográfica do parceiro | 
+| PartnerAttributionType | Tipo de atribuição do parceiro | 
 
-**Enterprise Mobility – uso de licença**: a definição de dados dos vários campos do EMS – relatório de uso de licença são:
+### <a name="enterprise-mobility-license-usage-report"></a>**Relatório de uso de licenças do Enterprise Mobility**
 
-| **Nome da Coluna** | **Descrição de dados** |
-|---------|:---------|
-|CustomerTenantId|  ID do locatário do cliente| 
-|CustomerTpid|  ID pai superior do cliente |
-|Carga de trabalho|  Nome da carga de trabalho do EMS |
-|Mês| Mês para o qual o uso é relatado|
-|PaidAvailableUnits|    Número de unidades pagas disponíveis|
-|MonthlyActiveUsers|    Número de usuários ativos mensais|
-|CustomerName|  Nome do cliente|
-|CustomerMarket|Localização geográfica do país do mercado do cliente |
-|CustomerSegment|   Segmento de cliente |
-|MPNId| ID de Microsoft Partner Network|
-|PartnerName|   Nome do parceiro|
-|PartnerLocation|   Localização geográfica do parceiro|
-|PartnerAttributionType|    Tipo de atribuição de parceiro|
+| Nome da coluna | Descrição dos dados | 
+| :--------- | :--------- | 
+| CustomerTenantId | ID do locatário do cliente | 
+| CustomerTpid | ID pai superior do cliente | 
+| Carga de trabalho | Nome da carga de trabalho do Enterprise Mobility + Security (EMS) | 
+| Mês | Mês para o qual o uso é relatado | 
+| PaidAvailableUnits | Número de unidades pagas disponíveis | 
+| MonthlyActiveUsers | Número de usuários ativos mensais | 
+| CustomerName | Nome do cliente que comprou a assinatura | 
+| CustomerMarket | Local do país geográfico do mercado do cliente | 
+| CustomerSegment | Segmento de cliente | 
+| MPNId | Identificador de Microsoft Partner Network | 
+| PartnerName | Nome do parceiro | 
+| PartnerLocation | Localização geográfica do parceiro | 
+| PartnerAttributionType | Tipo de atribuição do parceiro | 
 
-**Dynamics 365 – uso de licença**: a definição de dados dos vários campos do relatório de uso da licença Dynamics 365 – é:
+### <a name="dynamics-365-license-usage-report"></a>**Relatório de uso de licenças do Dynamics 365**
 
-| **Nome da Coluna** | **Descrição de dados** |
-|---------|:---------|
-|SubscriptionId|GUID da assinatura|
-|SubscriptionStartDate| Data de início da assinatura|
-|SubscriptionEndDate|   Data de término da assinatura|
-|SubscriptionStatus|    Estado da assinatura |
-|Mês| Mês para o qual o uso é relatado|
-|RevSumDivisionName|    Nome da divisão da soma da revisão|
-|RevSumCategoryName|    Nome da categoria da soma da revisão|
-|SKU|   SKU do produto |
-|SKUId| ID do SKU do produto |
-|FreeVsPaidSKU| Indica se é um SKU gratuito ou pago |
-|SalesModel|    Canal de vendas usado para vender a assinatura|
-|DetailedSalesModel|    Modelo de vendas detalhado para a assinatura|
-|CustomerName|  Nome do Cliente |
-|CustomerTenantId|  GUID de locatário do cliente |
-|CustomerTpid|  Identificador pai superior do cliente |
-|CustomerSegment|   Segmento de mercado do cliente |
-|CustomerMarket|    Mercado geográfico do cliente |
-|MPNId| ID da Microsoft Partner Network |
-|PartnerName|   Nome do parceiro |
-|PartnerLocation|   Localização geográfica do país do parceiro |
-|PartnerAttachType| Tipo de atribuição para a assinatura|
-|AvailableSeats|    Estação disponível atual|
-|AssignedSeats| Estação atribuída atual |
-|ActiveSeats|   Estações ativas atuais |
-|DeploymentOpportunity| Oportunidade de implantação atual|
-|ActiveUsagePercent|    Porcentagem de uso ativo atual|
- 
-**Power bi uso da licença**: a definição de dados dos vários campos do relatório de uso Power bi – licença são:
+| Nome da coluna | Descrição dos dados | 
+| :--------- | :--------- | 
+| SubscriptionId | GUID da assinatura | 
+| SubscriptionStartDate | Data de início da assinatura | 
+| SubscriptionEndDate | Data de término da assinatura | 
+| SubscriptionStatus | Estado da assinatura | 
+| Mês | Mês para o qual o uso é relatado | 
+| RevSumDivisionName | Nome da divisão da soma da revisão | 
+| RevSumCategoryName | Nome da categoria da soma da revisão | 
+| SKU | SKU do produto | 
+| SKUId | ID do SKU do produto | 
+| FreeVsPaidSKU | Indica se é um SKU gratuito ou pago | 
+| SalesModel | Canal de vendas que é usado para vender a assinatura | 
+| DetailedSalesModel | Modelo de vendas detalhado para a assinatura | 
+| CustomerName | Nome do cliente que comprou a assinatura | 
+| CustomerTenantId | GUID do locatário do cliente | 
+| CustomerTpid | Identificador pai superior do cliente | 
+| CustomerSegment | Segmento de mercado do cliente | 
+| CustomerMarket | Mercado geográfico do cliente | 
+| MPNId | Identificador de Microsoft Partner Network | 
+| PartnerName | Nome do parceiro | 
+| PartnerLocation | Localização geográfica do país do parceiro | 
+| PartnerAttachType | Tipo de atribuição para a assinatura | 
+| AvailableSeats | Estação disponível atual | 
+| AssignedSeats | Estação atribuída atual | 
+| ActiveSeats | Estações ativas atuais | 
+| DeploymentOpportunity | Oportunidade de implantação atual | 
+| ActiveUsagePercent | Percentual de uso ativo atual | 
 
-| **Nome da Coluna** | **Descrição de dados** |
-|---------|:---------|
-|SubscriptionId|    GUID da assinatura|
-|SubscriptionStartDate| Data de início da assinatura|
-|SubscriptionEndDate|   Data de término da assinatura|
-|SubscriptionStatus|    Estado da assinatura (ativo ou In-Active ou período de cortesia)|
-|Mês| Data agregada por mês |
-|SKU|   SKU do produto |
-|SKUId| ID do SKU do produto |
-|FreeVsPaidSKU| Diferenciador de SKU gratuito ou pago |
-|SalesModel|    Modelo de vendas usado para vender a assinatura|
-|DetailedSalesModel|    Modelo de vendas detalhado para a assinatura|
-|CustomerName|  Nome do Cliente |
-|CustomerTenantId|  GUID de locatário do cliente |
-|CustomerTpid|  Identificador pai superior do cliente| 
-|CustomerSegment|   Segmento de mercado do cliente |
-|CustomerMarket|    Mercado geográfico do cliente |
-|MPNId| ID de Microsoft Partner Network |
-|PartnerName|   Nome do parceiro |
-|PartnerLocation|   Localização geográfica do país do parceiro |
-|PartnerAttachType| Tipo de atribuição para a assinatura|
-|AvailableSeats|    Estações disponíveis atuais|
-|AssignedSeats| Estações atribuídas atuais|
-|ActiveSeats|   Estações ativas atuais|
-|DeploymentOpportunity| Oportunidade de implantação atual|
-|ActiveUsagePercent|    Porcentagem de uso ativo atual|
+### <a name="power-bi-license-usage-report"></a>**Relatório de uso de licença Power BI**
 
-**Uso de equipes – reuniões e chamadas**: as definições de dados dos vários campos são:
+| Nome da coluna | Descrição dos dados | 
+| :--------- | :--------- | 
+| SubscriptionId | GUID da assinatura | 
+| SubscriptionStartDate | Data de início da assinatura | 
+| SubscriptionEndDate | Data de término da assinatura | 
+| SubscriptionStatus | Estado da assinatura (ativo, inativo ou no período de carência) | 
+| Mês | Data agregada por mês | 
+| SKU | SKU do produto | 
+| SKUId | ID do SKU do produto | 
+| FreeVsPaidSKU | Diferenciador de SKU gratuito ou pago | 
+| SalesModel | Modelo de vendas usado para vender a assinatura | 
+| DetailedSalesModel | Modelo de vendas detalhado para a assinatura | 
+| CustomerName | Nome do cliente que comprou a assinatura | 
+| CustomerTenantId | GUID do locatário do cliente | 
+| CustomerTpid | Identificador do pai superior do cliente | 
+| CustomerSegment | Segmento de mercado do cliente | 
+| CustomerMarket | Mercado geográfico do cliente | 
+| MPNId | Identificador de Microsoft Partner Network | 
+| PartnerName | Nome do parceiro | 
+| PartnerLocation | Localização geográfica do país do parceiro | 
+| PartnerAttachType | Tipo de atribuição para a assinatura | 
+| AvailableSeats | Estações disponíveis atuais | 
+| AssignedSeats | Estações atribuídas atuais | 
+| ActiveSeats | Estações ativas atuais | 
+| DeploymentOpportunity | Oportunidade de implantação atual | 
+| ActiveUsagePercent | Percentual de uso ativo atual | 
 
-| **Nome da Coluna** | **Descrição de dados** |
-|---------|:---------|
-|CustomerTenantId|  ID do locatário do cliente |
-|CustomerTpid|  ID pai superior do cliente |
-|Mês| Mês para o qual o uso é relatado|
-|Subcarga de trabalho|   Subcarga de trabalho para a qual o uso é relatado (reuniões, chamadas, sistemas de telefone)|
-|Contagem de reuniões| Número de reuniões|
-|Duração da reunião|  Duração total da reunião em horas|
+### <a name="teams-meetings-and-calls-report"></a>**Relatório de reuniões e chamadas de equipes**
 
-**Equipes-detalhes de uso mensal**: as definições de dados dos vários campos são:
+| Nome da coluna | Descrição dos dados | 
+| :--------- | :--------- | 
+| CustomerTenantId | ID do locatário do cliente | 
+| CustomerTpid | Identificador do pai superior do cliente | 
+| Mês | Mês para o qual o uso é relatado | 
+| Subcarga de trabalho | Subcarga de trabalho para a qual o uso é relatado (reuniões, chamadas ou sistemas de telefone) | 
+| Contagem de reuniões | Número de reuniões | 
+| Duração da reunião | Duração total da reunião em horas | 
 
-| **Nome da Coluna** | **Descrição de dados** |
-|---------|:---------|
-|CustomerTenantId|  ID do locatário do cliente |
-|CustomerTpid|  ID pai superior do cliente |
-|Mês| Mês para o qual o uso é relatado|
-|Subcarga de trabalho|   Subcarga de trabalho para a qual o uso é relatado (reuniões, chamadas, sistemas de telefone)|
-|Usuários da área de trabalho| Número de usuários usando equipes no desktop|
-|Usuários Móveis|  Número de usuários usando equipes em dispositivos móveis|
-|Usuários da Web| Número de usuários usando equipes na Web|
-|AllUpParticipants| Número de usuários distintos de equipes para o mês|
+### <a name="teams-monthly-usage-report"></a>**Relatório de uso mensal de equipes**
 
-**Uso de equipes – aplicativos 3P**: as definições de dados dos vários campos são:
+| Nome da coluna | Descrição dos dados | 
+| :--------- | :--------- | 
+| CustomerTenantId | ID do locatário do cliente | 
+| CustomerTpid | Identificador do pai superior do cliente | 
+| Mês | Mês para o qual o uso é relatado | 
+| Subcarga de trabalho | Subcarga de trabalho para a qual o uso é relatado (reuniões, chamadas ou sistemas de telefone) | 
+| Usuários da área de trabalho | Número de usuários que usam equipes no desktop | 
+| Usuários Móveis | Número de usuários que usam equipes em dispositivos móveis | 
+| Usuários da Web | Número de usuários que usam equipes na Web | 
+| AllUpParticipants | Número de usuários exclusivos de equipes para o mês | 
 
-| **Nome da Coluna** | **Descrição de dados** |
-|---------|:---------|
-|CustomerTenantId|  ID do locatário do cliente| 
-|CustomerTpid|  ID pai superior do cliente |
-|Mês| Mês para o qual o uso é relatado|
-|Nome do aplicativo 3P|   Nome do aplicativo de equipes|
-|Contagem de usuários|    Número de usuários para o aplicativo|
+### <a name="teams-usage-3p-apps-report"></a>**Relatório de aplicativos 3P de uso de equipes**
+
+| Nome da coluna | Descrição dos dados | 
+| :--------- | :--------- | 
+| CustomerTenantId | ID do locatário do cliente | 
+| CustomerTpid | ID pai superior do cliente | 
+| Mês | Mês para o qual o uso é relatado | 
+| Nome do aplicativo 3P | Nome do aplicativo de equipes | 
+| Contagem de usuários | Número de usuários para o aplicativo | 
 
 
-**Detalhes de treinamento**: as definições de dados dos vários campos do relatório detalhes de treinamento são:
+### <a name="training-details-report"></a>**Relatório detalhes de treinamento**
 
-| **Nome da Coluna** | **Descrição de dados** |
-|---------|:---------|
-|TrainingActivityId|    Identificador do treinamento |
-|TrainingTitle| Título do treinamento |
-|Traintype|  Tipo de treinamento (certificação/exame)|
-|IndividualFirstName|   Nome do cliente| 
-|IndividualLastName|    Sobrenome do cliente| 
-|Email| ID de email pessoal do cliente|
-|CorpEmail| ID de email do Office do cliente|
-|TrainingCompletionDate|    Data de conclusão do treinamento |
-|Mês| Mês para o qual os dados são relatados|
-|IcMCP| Indica se o usuário é um Microsoft Certified Professional|
-|MCPID| ID do MCP do usuário|
-|MPNId| ID de Microsoft Partner Network |
-|PartnerName|   Nome do parceiro |
-|PartnerCityLocation|   Local da cidade geográfica do parceiro |
-|PartnerCountryLocation|    Localização geográfica do país do parceiro |
+| Nome da coluna | Descrição dos dados | 
+| :--------- | :--------- | 
+| TrainingActivityId | Identificador do treinamento | 
+| TrainingTitle | Título do treinamento | 
+| Traintype | Tipo de treinamento (certificação ou exame) | 
+| IndividualFirstName | Nome do cliente | 
+| IndividualLastName | Sobrenome do cliente | 
+| Email | ID de email pessoal do cliente | 
+| CorpEmail | ID de email do Office do cliente | 
+| TrainingCompletionDate | Data de conclusão do treinamento | 
+| Mês | Mês para o qual os dados são relatados | 
+| IcMCP | Indica se o usuário é um Microsoft Certified Professional (MCP) | 
+| MCPID | ID do MCP do usuário | 
+| MPNId | Identificador de Microsoft Partner Network | 
+| PartnerName | Nome do parceiro | 
+| PartnerCityLocation | Local da cidade geográfica do parceiro | 
+| PartnerCountryLocation | Localização geográfica do país do parceiro | 
 
-**Microsoft Learn**: as definições de dados dos vários campos do relatório de Microsoft Learn são:
+### <a name="microsoft-learn-report"></a>**Relatório de Microsoft Learn**
 
-| **Nome da Coluna** | **Descrição de dados** |
-|---------|:---------|
-|UserName|Nome do usuário| 
-|UserId|GUID do usuário |
-|Trainname|Nome do treinamento |
-|Traintype|Tipo de treinamento (caminho/Learning do módulo)|
-|Produtos|Produto ao qual o módulo de aprendizagem é aplicável|
-|Funções|Funções aplicáveis do treinamento |
-|CompletionDate|Data da conclusão do treinamento |
-|MPNId|ID de Microsoft Partner Network |
-|PartnerName|Nome do parceiro |
-|País|Localização geográfica do país do parceiro |
+| Nome da coluna | Descrição dos dados | 
+| :--------- | :--------- | 
+| UserName | Nome do usuário | 
+| UserId | GUID do usuário | 
+| Trainname | Nome do treinamento | 
+| Traintype | Tipo de treinamento (módulo ou roteiro de aprendizagem) | 
+| Produtos | Produto ao qual o módulo de aprendizagem é aplicável | 
+| Funções | Funções aplicáveis do treinamento | 
+| CompletionDate | Data de conclusão do treinamento | 
+| MPNId | Identificador de Microsoft Partner Network | 
+| PartnerName | Nome do parceiro | 
+| País | Localização geográfica do país do parceiro | 
 
-**Resumo de competência e histórico**: a definição de dados dos vários campos do relatório de Resumo de competência e histórico é:
+### <a name="competency-summary-and-history-report"></a>**Relatório de Resumo de competência e histórico**
 
-| **Nome da Coluna** | **Descrição de dados** |
-|---------|:---------|
-|Competêncianame|Nome da competência |
-|CompetencyLevel|Nível de competência (ouro/Silver)|
-|CompetencyStatus|Status atual de competência (ativo/inativo/em período de carência)|
-|CompetencyStartDate|Data de início de determinada competência| 
-|CompetencyEndDate|Data de término de determinada competência |
+| Nome da coluna | Descrição dos dados | 
+| :--------- | :--------- | 
+| Competêncianame | Nome da competência | 
+| CompetencyLevel | Nível de competência (ouro ou prata) | 
+| CompetencyStatus | Status atual da competência (ativo, inativo ou no período de carência) | 
+| CompetencyStartDate | Data de início da competência | 
+| CompetencyEndDate | Data de término da competência | 
 
-**Desempenho de competência**: as definições de dados dos vários campos do relatório de desempenho de competência são:
+### <a name="competency-performance-report"></a>**Relatório de desempenho de competência**
 
-| **Nome da Coluna** | **Descrição de dados** |
-|---------|:---------|
-|Competêncianame|    Nome da competência |
-|CompetencyAttainmentOptionName|    Nome da opção de obtenção de competência|
-|Mês| Mês para o qual as métricas são relatadas|
-|MetricName|    Nome da métrica relevante para a competência|
-|MetricMonthlyContribution| Contribuição mensal da métrica|
-|TTMAggregate|  Métrica agregada para os 12 meses à direita|
-|AnniversaryYearAggregate|  Métrica agregada para o ano de aniversário atual|
-|GoldThreshold| Requisito de desempenho para atender à competência ouro|
-|SilverThreshold|   Requisito de desempenho para atender à competência prateada|
+| Nome da coluna | Descrição dos dados | 
+| :--------- | :--------- | 
+| Competêncianame | Nome da competência | 
+| CompetencyAttainmentOptionName | Nome da opção de obtenção de competência | 
+| Mês | Mês para o qual as métricas são relatadas | 
+| MetricName | Nome da métrica que é relevante para a competência | 
+| MetricMonthlyContribution | Contribuição mensal da métrica | 
+| TTMAggregate | Métrica agregada para os 12 meses à direita | 
+| AnniversaryYearAggregate | Métrica agregada para o ano de aniversário atual | 
+| GoldThreshold | Requisito de desempenho para atender à competência ouro | 
+| SilverThreshold | Requisito de desempenho para atender à competência prateada | 
 
-Propensão **M365 da nuvem**: as definições de dados dos vários campos do relatório de propensão do Cloud ascendente M365 são:
+### <a name="cloud-ascent---microsoft-365-propensity-report"></a>**Relatório de propensão Microsoft 365 a nuvem ascendente**
 
-| **Nome da Coluna** | **Descrição de dados** |
-|---------|:---------|
-|ID MPN|    ID de Microsoft Partner Network|
-|Nome do parceiro|  Nome do parceiro|
-|ID do Cliente|   Número do identificador do cliente |
-|Número de DUNS|   O Dun & Bradstreet número do cliente que está sendo pontuado quanto à propensão|
-|Nome da Conta|  Nome da conta |
-|Domínio|    Domínio da conta|
-|Tamanho da organização|  Tamanho da organização|
-|Setor|  Setor  |
-|Vertical|  A vertical do cliente que está sendo pontuado pela propensão, conforme identificado pela Microsoft e por outros padrões do setor (D&B)|
-|Área|  Área geográfica do local|
-|Subsidiária|    A subsidiária do cliente que está sendo classificada quanto à propensão|
-|Território de Vendas|   A região de vendas do cliente que está sendo classificada quanto à propensão|
-|City|  Local da cidade geográfica |
-|Estado| Local do estado geográfico|
-|Código postal|   Código postal|
-|País|   Localização geográfica do país |
-|Segment|   Segmento de mercado |
-|Subsegmento|   Subsegmento de mercado |
-|Resumo do tipo SMC|  Tipo do SMC |
-|Superior não gerenciado-base de computação|  Principais clientes não gerenciados – computação|
-|Principal base de usuários não gerenciados| Principais clientes não gerenciados – usuário|
-|IsNonProfit|   Se não há lucro ou lucro (Sim/não)|
-|Habilitar o Exchange Online de destino de trabalho remoto|   Clientes que têm uma assinatura ativa do Exchange Online, que se revendam a M365|
-|Habilitar a aquisição remota de trabalho local (versão atual) com o CLAS propensation-+ 10 licenças|Cliente que tem o atual escritório local ou cliente do Win (ou seja, versões que são posteriores a produtos EOS). O cliente tem 10 ou mais licenças. Cliente que tem uma pontuação de propensação. Os parceiros devem ter como destino a conversão em M365.|
-|Habilitar a aquisição remota de trabalho local (versão atual) com a CLAS propensation-<10 licenças|Cliente que tem o atual escritório local ou cliente do Win (ou seja, versões que são posteriores a produtos EOS). O cliente tem menos de 10 licenças. Cliente que tem uma pontuação de propensação. Os parceiros devem ter como destino a conversão em M365.|
-|Habilitar a aquisição remota de trabalho local (versão atual) sem a CLAS propensation-+ 10 licenças| Cliente que tem o atual escritório local ou cliente do Win (ou seja, versões que são posteriores a produtos EOS). O cliente tem 10 ou mais licenças. O cliente não tem uma pontuação de propensação. Os parceiros devem ter como destino a conversão em M365.|
-|Habilitar a aquisição remota de trabalho local (versão atual) sem a CLAS propensation-<10 licenças| Cliente que tem o atual escritório local ou cliente do Win (ou seja, versões que são posteriores a produtos EOS). O cliente tem menos de 10 licenças. O cliente não tem uma pontuação de propensação. Os parceiros devem ter como destino a conversão em M365.|
-|Habilitar o EOS (aquisição remota de trabalho local) com CLAS propensation-+ 10 licenças|Cliente que tem um EOS local ou cliente de vitória (ou seja, versões anteriores a e incluindo produtos EOS. O cliente tem 10 ou mais licenças. O cliente tem uma pontuação de propensação. Os parceiros devem ter como destino a conversão em M365.|
-|Habilitar o EOS (aquisição remota de trabalho local) com CLAS propensation-<10 licenças|Cliente que tem um EOS local ou cliente de vitória (ou seja, versões anteriores a e incluindo produtos EOS. O cliente tem menos de 10 licenças. O cliente tem uma pontuação de propensação. Os parceiros devem ter como destino a conversão em M365.|
-|Habilitar o EOS (aquisição local remota) sem a CLAS da propensão-+ 10 licenças| Cliente que tem o atual escritório local ou cliente do Win (ou seja, versões anteriores a e incluindo produtos EOS). O cliente tem 10 ou mais licenças. O cliente não tem uma pontuação de propensação. Os parceiros devem ter como destino a conversão em M365.|
-|Habilitar o EOS (aquisição local remota) sem a CLASção da propensão-<10 licenças| Cliente que tem o atual escritório local ou cliente do Win (ou seja, versões anteriores a e incluindo produtos EOS). O cliente tem menos de 10 licenças. O cliente não tem uma pontuação de propensação. Os parceiros devem ter como destino a conversão em M365.|
-|Habilitar o cliente em potencial de propensão de trabalho remoto-alta para M365 (agir agora/avaliar)| Cliente cliente potencial com alta propensão para M365.|
-|Habilitar trabalho remoto – competição (zoom) com M365| Clientes com zoom e M365, destino para conversão para equipes|
-|Habilitar trabalho remoto – competição (zoom) sem M365|  Clientes com zoom, destino para conversão para equipes|
-|Reduzir o custo e gerenciar o M365 E3 direcionado para M365 e5| Cliente existente com M365 E3, alvo para M365 e5|
-|Reduzir custos e gerenciar-M365 BB e clientes de BS destinados a M365 BP|    Clientes M365 BB e BS existentes, direcione-os para M365 BP|
-|Transformar a produtividade organizacional – propensação da superfície|    O cliente está mostrando a propensão para a superfície.|
-|M365Cluster|Identifica as propensações do cliente para comprar o M365.  Os clusters atuam agora e avaliados devem ser direcionados, pois produzirão um rendimento maior.  Incentivá e instrua os clientes só devem ser direcionados se ainda houver capacidade depois de direcionar o Act agora e avaliar os clientes.|
-|M365Fit|   Pontos de dados internos e externos que definem firmographics. Ajustar a pontuação usa um modelo semelhante ao nosso melhor SMB para comparar os clientes e ver se eles são um ajuste potencial para Microsoft Cloud produtos. Ajustar Pontuação é atualizado trimestral.|
-|M365Intent|    Os sinais relacionados à mídia social e ao comportamento online de um cliente definem a intenção. A pontuação da intenção é sobreposta sobre ajustar para definir os clusters. A pontuação da intenção é atualizada mensalmente.|
-|SurfaceCluster|    Isso identifica a propensão do cliente para comprar a superfície ao consolidar as recomendações de ajuste e de intenção em um cluster.  Os clusters atuam agora e avaliados devem ser direcionados, pois produzirão um rendimento maior.  Incentivá e instrua os clientes só devem ser direcionados se ainda houver capacidade depois de direcionar o Act agora e avaliar os clientes.|
-|SurfaceFit|    Pontos de dados internos e externos que definem firmographics. Ajustar a pontuação usa um modelo semelhante ao nosso melhor SMB para comparar os clientes e ver se eles são um ajuste potencial para Microsoft Cloud produtos. Ajustar Pontuação é atualizado trimestral.|
-|SurfaceIntent| Os sinais relacionados à mídia social e ao comportamento online de um cliente definem a intenção. A pontuação da intenção é sobreposta sobre ajustar para definir os clusters. A pontuação da intenção é atualizada mensalmente.|
-|O365Cluster|   Isso identifica as propensações do cliente para comprar o O365.  Os clusters atuam agora e avaliados devem ser direcionados, pois produzirão um rendimento maior.  Incentivá e instrua os clientes só devem ser direcionados se ainda houver capacidade depois de direcionar o Act agora e avaliar os clientes.|
-|O365Fit|   Pontos de dados internos e externos que definem firmographics. Ajustar a pontuação usa um modelo semelhante ao nosso melhor SMB para comparar os clientes e ver se eles são um ajuste potencial para Microsoft Cloud produtos. Ajustar Pontuação é atualizado trimestral.|
-|O365Intent|    Os sinais relacionados à mídia social e ao comportamento online de um cliente definem a intenção. A pontuação da intenção é sobreposta sobre ajustar para definir os clusters. A pontuação da intenção é atualizada mensalmente.|
-|M365UpsellCustomer|    Isso identifica se o cliente está mostrando a propensão de venda para M365|
-|Tem Google|    Esse sinalizador identifica se um cliente está mostrando sinais competitivos para produtos pertencentes ao Google|
-|Tem AWS|   Esse sinalizador identifica se um cliente está mostrando sinais competitivos para produtos de AWS de propriedade|
-|Tem EA|    Isso identifica se uma renovação é um EA (Enterprise Agreement) ou uma assinatura EA|
-|Está aberto|  Isso identifica se uma renovação é um contrato aberto ou um valor aberto|
+| Nome da coluna | Descrição dos dados | 
+| :--------- | :--------- | 
+| ID MPN | ID de Microsoft Partner Network | 
+| Nome do parceiro | Nome do parceiro | 
+| ID do Cliente | Número do identificador do cliente | 
+| Número de DUNS | O Dun & Bradstreet (D&B) número do cliente que está sendo pontuado quanto à propensão | 
+| Nome da Conta | Nome da conta | 
+| Domínio | Domínio da conta | 
+| Tamanho da organização | Tamanho da organização | 
+| Setor | Setor ao qual a organização pertence | 
+| Vertical | A vertical do cliente que está sendo pontuada pela propensão, conforme identificado pela Microsoft, D&B e outros padrões do setor | 
+| Área | Área geográfica do local | 
+| Subsidiária | A subsidiária do cliente que está sendo pontuada quanto à propensão | 
+| Território de Vendas | A região de vendas do cliente que está sendo pontuada quanto à propensão | 
+| City | Local da cidade geográfica da organização | 
+| Estado | Local de estado geográfico da organização | 
+| Código postal | Código postal da organização | 
+| País | Localização geográfica do país da organização | 
+| Segment | Segmento de mercado | 
+| Subsegmento | Subsegmento de mercado | 
+| Resumo do tipo SMC | Tipo do SMC | 
+| Superior não gerenciado-base de computação | Principais clientes não gerenciados – computação | 
+| Principal base de usuários não gerenciados | Principais clientes não gerenciados – usuário | 
+| IsNonProfit | Indica se a organização não é de lucro (Sim ou não) | 
+| Habilitar o Exchange Online de destino de trabalho remoto | Clientes que têm uma assinatura ativa do Exchange Online, que se revendam a Microsoft 365 | 
+| Habilitar a aquisição remota de trabalho local (versão atual) com a propensação de elevação da nuvem-+ 10 licenças | Cliente que tem um escritório local ou cliente do Windows atual. Ou seja, a versão do cliente é posterior à versão do fim da vida útil (EOL). O cliente tem 10 ou mais licenças. Cliente que tem uma pontuação de propensação. O parceiro deve direcionar a conversão para Microsoft 365. | 
+| Habilitar a aquisição remota de trabalho local (versão atual) com a propensão de elevação da nuvem-<10 licenças | Cliente que tem um escritório local ou cliente do Windows atual (ou seja, uma versão posterior à EOL). O cliente tem menos de 10 licenças. Cliente que tem uma pontuação de propensação. O parceiro deve direcionar a conversão para Microsoft 365. | 
+| Habilitar a aquisição remota de trabalho local (versão atual) sem a propensão de elevação da nuvem-+ 10 licenças | Cliente que tem um escritório local ou cliente do Windows atual (ou seja, uma versão posterior à EOL). O cliente tem 10 ou mais licenças. O cliente não tem uma pontuação de propensação. O parceiro deve direcionar a conversão para Microsoft 365. | 
+| Habilitar a aquisição remota de trabalho local (versão atual) sem a propensão de elevação de nuvem-<10 licenças | Cliente que tem um escritório local ou cliente do Windows atual (ou seja, uma versão posterior à EOL). O cliente tem menos de 10 licenças. O cliente não tem uma pontuação de propensação. O parceiro deve direcionar a conversão para Microsoft 365. | 
+| Habilitar a aquisição remota de trabalho local (versão EOL) com a propensão de elevação da nuvem-+ 10 licenças | Cliente que tem um EOL do escritório local ou cliente do Windows (ou seja, uma versão do EOL ou anterior). O cliente tem 10 ou mais licenças. O cliente tem uma pontuação de propensação. O parceiro deve direcionar a conversão para Microsoft 365. | 
+| Habilitar a aquisição remota de trabalho local (versão EOL) com a propensão de elevação de nuvem-<10 licenças | Cliente que tem um EOL do escritório local ou cliente do Windows (ou seja, uma versão do EOL ou anterior). O cliente tem menos de 10 licenças. O cliente tem uma pontuação de propensação. O parceiro deve direcionar a conversão para Microsoft 365. | 
+| Habilitar a aquisição remota de trabalho local (versão de EOL) sem a propensão de elevação da nuvem-+ 10 licenças | Cliente que tem um escritório local ou cliente do Windows atual (ou seja, uma versão do EOL ou anterior). O cliente tem 10 ou mais licenças. O cliente não tem uma pontuação de propensação. O parceiro deve direcionar a conversão para Microsoft 365. | 
+| Habilitar a aquisição remota de trabalho local (versão de EOL) sem a propensão de elevação de nuvem-<10 licenças | Cliente que tem um escritório local ou cliente do Windows atual (ou seja, uma versão do EOL ou anterior). O cliente tem menos de 10 licenças. O cliente não tem uma pontuação de propensação. O parceiro deve direcionar a conversão para Microsoft 365. | 
+| Habilitar a prospecção de trabalho remoto-alta propensation para Microsoft 365 (Act NowithEvaluate) | Cliente cliente potencial com alta propensão para Microsoft 365 | 
+| Habilitar trabalho remoto – competição (zoom) com Microsoft 365 | Cliente com zoom e Microsoft 365, destino para conversão para equipes | 
+| Habilitar trabalho remoto – competição (zoom) sem Microsoft 365 | Cliente com zoom, destino para conversão para equipes | 
+| Reduzir o custo e gerenciar Microsoft 365 E3 direcionados para Microsoft 365 e5 | Cliente existente com Microsoft 365 E3, alvo para Microsoft 365 e5 | 
+| Reduzir custos e gerenciar-Microsoft 365 Business clientes básicos e comerciais padrão destinados ao Microsoft 365 Business Premium | Clientes existentes do Microsoft 365 Business Basic e Business Standard, visando Microsoft 365 Business Premium | 
+| Transformar a produtividade organizacional – propensação da superfície | O cliente mostra uma propensação para a superfície | 
+| M365Cluster | Identifica a propensão de um cliente para comprar Microsoft 365. Direcione o Act agora e avalie os clusters porque eles produzirão um rendimento maior. Direcione o incentivá e instrua os clientes somente se ainda houver capacidade após o Act Now e avaliar os clientes. | 
+| M365Fit | Pontos de dados internos e externos que definem firmographics. Ajustar a pontuação usa um modelo de lookalike para nossas melhores empresas de pequeno ou médio porte (SMBs) para comparar os clientes e ver se eles são uma possível adequação para os produtos de nuvem da Microsoft. Ajustar Pontuação é atualizado trimestral. | 
+| M365Intent | Os sinais relacionados à mídia social e ao comportamento online de um cliente definem a intenção. A pontuação da intenção é sobreposta em ajustar para definir os clusters. A pontuação da intenção é atualizada mensalmente. | 
+| SurfaceCluster | Identifica a propensão de um cliente para comprar a superfície consolidando as recomendações de ajuste e de intenção em um cluster. Direcione o Act agora e avalie os clusters porque eles produzirão um rendimento maior. Direcione o incentivá e instrua os clientes somente se ainda houver capacidade após o Act Now e avaliar os clientes. | 
+| SurfaceFit | Pontos de dados internos e externos que definem firmographics. Ajustar a pontuação usa um modelo de lookalike para nossos melhores SMBs para comparar os clientes e ver se eles são um ajuste potencial para os produtos de nuvem da Microsoft. Ajustar Pontuação é atualizado trimestral. | 
+| SurfaceIntent | Os sinais relacionados à mídia social e ao comportamento online de um cliente definem a intenção. A pontuação da intenção é sobreposta em ajustar para definir os clusters. A pontuação da intenção é atualizada mensalmente. | 
+| O365Cluster | Identifica as propensações do cliente para comprar o Office 365. Direcione o Act agora e avalie os clusters porque eles produzirão um rendimento maior. Direcione o incentivá e instrua os clientes somente se ainda houver capacidade após o Act Now e avaliar os clientes. | 
+| O365Fit | Pontos de dados internos e externos que definem firmographics. Ajustar a pontuação usa um modelo de lookalike para nossos melhores SMBs para comparar os clientes e ver se eles são um ajuste potencial para os produtos de nuvem da Microsoft. Ajustar Pontuação é atualizado trimestral. | 
+| O365Intent | Os sinais relacionados à mídia social e ao comportamento online de um cliente definem a intenção. A pontuação da intenção é sobreposta em ajustar para definir os clusters. A pontuação da intenção é atualizada mensalmente. | 
+| M365UpsellCustomer | Identifica se o cliente mostra a propensão de venda para Microsoft 365 | 
+| Tem Google | Identifica se o cliente mostra sinais competitivos para produtos pertencentes ao Google | 
+| Tem AWS | Identifica se o cliente mostra sinais competitivos para produtos de Amazon Web Services de propriedade (AWS) | 
+| Tem EA | Identifica se uma renovação é um EA (Enterprise Agreement) ou uma assinatura EA | 
+| Está aberto | Identifica se uma renovação é um contrato Open ou Open Value | 
 
-Propensão **D365 da nuvem**: as definições de dados dos vários campos do relatório de propensão do Cloud ascendente D365 são:
+### <a name="cloud-ascent---dynamics-365-propensity-report"></a>**Relatório de propensabilidade da nuvem ascendente-Dynamics 365**
 
-| **Nome da Coluna** | **Descrição de dados** |
-|---------|:---------|
-|ID MPN|    ID de Microsoft Partner Network|
-|Nome do parceiro|  Nome do parceiro|
-|ID do Cliente|   Número do identificador do cliente |
-|Número de DUNS|   O Dun & Bradstreet número do cliente que está sendo pontuado quanto à propensão|
-|Nome da Conta|  Nome da conta |
-|Domínio|    Domínio da conta|
-|Tamanho da organização|  Tamanho da organização|
-|Setor|  Setor  |
-|Vertical|  A vertical do cliente que está sendo pontuado pela propensão, conforme identificado pela Microsoft e por outros padrões do setor (D&B)
-|Área|  Área geográfica do local|
-|Subsidiária|    A subsidiária do cliente que está sendo classificada quanto à propensão|
-|Território de Vendas|   Território de Vendas|
-|City|  Local da cidade geográfica |
-|Estado| Local do estado geográfico|
-|Código postal|   Código postal|
-|País|   Localização geográfica do país |
-|Segment|   Segmento de mercado |
-|Subsegmento|   Subsegmento de mercado |
-|Resumo do tipo SMC|  A categorização de um cliente: as principais bases de usuários não gerenciadas são clientes com mais de 300 funcionários, a principal base de computação não gerenciada são clientes com US $10 mil no Azure de três anos em potencial, empresas de médio porte são clientes com 25 funcionários ou mais, pequenas empresas são clientes com menos de 25 funcionários|
-|Superior não gerenciado-base de computação   |Principais clientes não gerenciados – computação|
-|Principal base de usuários não gerenciados| Principais clientes não gerenciados – usuários|
-|IsNonProfit|   Se não há lucro ou lucro (Sim/não)|
-|Ativar vendas digitais – tamanho do M365-assento >= 25 estações (modelo de propensão SalesPro)|   Cliente sem D365. Tamanho do assento: 25 +. Os parceiros devem visar a venda cruzada de D365 Salespro|
-|Ativar vendas digitais-D365 SalesPro propensation (Act Now/Evaluate) |Clientes com alta propensão, sem D365.  Os parceiros devem ter como alvo D365 SalesPro.|
-|Gerenciando o risco financeiro & fraude-a instalação local do Dynamics-Navision (modelo de propensação de BC)|Cliente existente com o onlocal Navision.  O parceiro deve ter como alvo D365 BC|
-|Gerenciamento de riscos financeiros & fraude-a instalação local do Dynamics base-AX (modelo de propensão & F&O)    |Cliente existente com AX local.  O parceiro deve ser direcionado para D365 F&O|
-|Gerenciamento de riscos financeiros & fraude-base de instalação local do Dynamics – Great Plains (modelo de propensão de BC)|  Cliente existente com grande custo local.  O parceiro deve ter como alvo D365 BC|
-|Gerenciando o risco financeiro & fraude-base de instalação local do Dynamics-Solomon (modelo de propensão de BC)|Cliente existente com Solomon local.  O parceiro deve ter como alvo D365 BC|
-|Gerenciando o risco financeiro & fraude – base de instalação do Dynamics local-outros (modelo de propensão de BC) |Cliente existente com outras soluções locais não listadas acima.  O parceiro deve ter como alvo D365 BC|
-|Criar processos de negócios ágeis-base de instalação do Dynamics local-AX/GP/SL/NAV/Other (modelo de D365 propensation)|   Criar processos de negócios ágeis-base de instalação do Dynamics local-AX/GP/SL/NAV/Other (modelo de D365 propensation)|
-|Criar processos de negócios ágeis-base de concorrência do Dynamics-Mendix/outsubsystems/Salesforce (modelo de D365 propensation)| Criar processos de negócios ágeis-base de concorrência do Dynamics-Mendix/outsubsystems/Salesforce (modelo de D365 propensation)|
-|Criar processos de negócios ágeis-base de instalação do D365 F&O |Clientes D365 F&O existentes.  Parceiro para direcionar os aplicativos de energia.|
-|Criar processos de negócios ágeis-base de instalação do D365 BC| Clientes D365 BC existentes. Parceiro para direcionar os aplicativos de energia.|
-|Criar processos de negócios ágeis-base de instalação do D365 CE| Clientes D365 CE existentes. Parceiro para direcionar os aplicativos de energia.|
-|Crie uma cadeia de suprimentos resiliente – vença e ative a primeira carga de trabalho D365 como cadeia de fornecimento D365 com clientes não Oracle/SAP ERP|  Direcionar clientes para a cadeia de suprimentos D365.|
-|Crie uma cadeia de suprimentos resiliente-venda cruzada D365 cadeia de suprimentos e/ou varejo/comércio para clientes existentes do D365 CE |Clientes D365 CE existentes a serem alvo de venda cruzada D365 cadeia de suprimentos|
-|Crie uma cadeia de fornecimento resiliente – venda cruzada D365 sup. Cadeia e/ou varejo/comércio para D365 CE e (Oracle ou SAP)| Clientes D365 CE existentes com Oracle ou SAP para direcionar para a cadeia de suprimentos D365|
-|D365BCCluster| Isso identifica a propensão do cliente para comprar o D365 Business central.  Os clientes que mostram a propensão para BC estarão nas categorias média e pequena.  Os clusters atuam agora e avaliados devem ser direcionados, pois produzirão um rendimento maior.  Incentivá e instrua os clientes só devem ser direcionados se ainda houver capacidade depois de direcionar o Act agora e avaliar os clientes.|
-|D365BCFit| Pontos de dados internos e externos que definem firmographics. Ajustar a pontuação usa um modelo semelhante ao nosso melhor SMB para comparar os clientes e ver se eles são um ajuste potencial para Microsoft Cloud produtos. Ajustar Pontuação é atualizado trimestral.|
-|D365BCIntent|  Os sinais relacionados à mídia social e ao comportamento online de um cliente definem a intenção. A pontuação da intenção é sobreposta sobre ajustar para definir os clusters. A pontuação da intenção é atualizada mensalmente.|
-|D365FOCluster| Isso identifica a propensão do cliente para comprar operações e Finanças D365s.  Os clientes que mostrarem a propensão para O F&O estarão nas principais categorias não gerenciadas. Os clusters atuam agora e avaliados devem ser direcionados, pois produzirão um rendimento maior.  Incentivá e instrua os clientes só devem ser direcionados se ainda houver capacidade depois de direcionar o Act agora e avaliar os clientes.|
-|D365FOFit| Pontos de dados internos e externos que definem firmographics. Ajustar a pontuação usa um modelo semelhante ao nosso melhor SMB para comparar os clientes e ver se eles são um ajuste potencial para Microsoft Cloud produtos. Ajustar Pontuação é atualizado trimestral.|
-|D365FOIntent|  Os sinais relacionados à mídia social e ao comportamento online de um cliente definem a intenção. A pontuação da intenção é sobreposta sobre ajustar para definir os clusters. A pontuação da intenção é atualizada mensalmente.|
-|D365CECluster| Isso identifica a propensão do cliente para comprar o engajamento do cliente D365.  Os clientes que mostram a propensão para CE estarão nas categorias média e pequena.  Os clusters atuam agora e avaliados devem ser direcionados, pois produzirão um rendimento maior.  Incentivá e instrua os clientes só devem ser direcionados se ainda houver capacidade depois de direcionar o Act agora e avaliar os clientes.|
-|D365CEFit| Ajustar para D365 CE|
-|D365CEIntent|  Intenção do D365 CE|
-|DynamicsOnPremAXorCRM_HasOpenRenewal|  Isso identifica se um cliente tem uma renovação aberta para o Dynamics local ou o CRM.|
-|M365UpsellCustomer|    Isso identifica se o cliente está mostrando a propensão de venda para M365|
-|Tem Google|    Esse sinalizador identifica se um cliente está mostrando sinais competitivos para produtos pertencentes ao Google|
-|Tem AWS|   Esse sinalizador identifica se um cliente está mostrando sinais competitivos para produtos de AWS de propriedade|
-|Tem EA |Isso identifica se uma renovação é um EA (Enterprise Agreement) ou uma assinatura EA|
-|Está aberto|  Isso identifica se uma renovação é um contrato aberto ou um valor aberto|
+| Nome da coluna | Descrição dos dados | 
+| :--------- | :--------- | 
+| ID MPN | ID de Microsoft Partner Network | 
+| Nome do parceiro | Nome do parceiro | 
+| ID do Cliente | Número do identificador do cliente | 
+| Número de DUNS | O Dun & Bradstreet número do cliente que está sendo pontuado quanto à propensão | 
+| Nome da Conta | Nome da conta | 
+| Domínio | Domínio da conta | 
+| Tamanho da organização | Tamanho da organização | 
+| Setor | Setor ao qual a organização pertence | 
+| Vertical | A vertical do cliente que está sendo pontuada pela propensão, conforme identificado pela Microsoft, D&B e outros padrões do setor
+| Área | Área geográfica do local | 
+| Subsidiária | A subsidiária do cliente que está sendo pontuada quanto à propensão | 
+| Território de Vendas | A região de vendas do cliente que está sendo pontuada quanto à propensão | 
+| City | Local da cidade geográfica | 
+| Estado | Local do estado geográfico | 
+| Código postal | Código postal da organização | 
+| País | Localização geográfica do país | 
+| Segment | Segmento de mercado | 
+| Subsegmento | Subsegmento de mercado | 
+| Resumo do tipo SMC | A categorização de um cliente: as principais bases de usuários não gerenciadas são clientes com mais de 300 funcionários, as principais bases de computação não gerenciadas são clientes com USD10, 000 em potencial de três anos do Azure, empresas de médio porte são clientes com 25 funcionários ou mais, e pequenas empresas são clientes com menos de 25 funcionários. | 
+| Superior não gerenciado-base de computação | Principais clientes não gerenciados – computação | 
+| Principal base de usuários não gerenciados | Principais clientes não gerenciados – usuários | 
+| IsNonProfit | Indica se a organização não é de lucro (Sim ou não) | 
+| Ativar o tamanho de venda digital-Microsoft 365-Seat >= 25 estações (modelo de SalesPro propensation) | Cliente sem Dynamics 365. Tamanho do assento: 25 +. O parceiro deve visar a venda cruzada do Dynamics 365 SalesPro. | 
+| Ativar vendas digitais – Dynamics 365 SalesPro propensation (Act Now ou Evaluate) | Clientes de alta propensão sem o Dynamics 365. O parceiro deve ser direcionado para o Dynamics 365 SalesPro. | 
+| Gerenciando o risco financeiro & fraude-Dynamics local instalação base-Navision (modelo de propensão do Business central) | Cliente existente com o Navision local. O parceiro deve ter como alvo o Dynamics 365 Business central. | 
+| Gerenciando o risco financeiro & fraude-Dynamics local instalação base-Dynamics AX (Dynamics 365 Finance + operações modelo de propensation) | Cliente existente com o AX local. O parceiro deve ter como destino as operações do Dynamics 365 Finance +. | 
+| Gerenciando o risco financeiro & fraude-base de instalação do Dynamics local – Great Plains (modelo de propensão do Business central) | Cliente existente com excelentes Plains locais. O parceiro deve ter como alvo o Dynamics 365 Business central. | 
+| Gerenciando o risco financeiro & fraude-base de instalação do Dynamics local-Solomon (modelo de propensão do Business central) | Cliente existente com Solomon local. O parceiro deve ter como alvo o Dynamics 365 Business central. | 
+| Gerenciando o risco financeiro & fraude-base de instalação do Dynamics local-outros (modelo de propensão do Business central) | Cliente existente com outras soluções locais não listadas anteriormente. O parceiro deve ter como alvo o Dynamics 365 Business central. | 
+| Criar processos de negócios ágeis-base de instalação do Dynamics local-AX/GP/SL/NAV/Other (modelo de propensação do Dynamics 365) | Criar processos de negócios ágeis-base de instalação do Dynamics local-AX/GP/SL/NAV/Other (modelo de propensação do Dynamics 365) | 
+| Criar processos empresariais ágeis – base de concorrência dinâmica-Mendix/outsubsystems/Salesforce (modelo de propensação do Dynamics 365) | Criar processos empresariais ágeis – base de concorrência dinâmica-Mendix/outsubsystems/Salesforce (modelo de propensação do Dynamics 365) | 
+| Criar processos de negócios ágeis-base de instalação do Dynamics 365 Finance + Operations | Clientes existentes do Dynamics 365 Finance + Operations. Parceiro para direcionar os aplicativos de energia. | 
+| Criar processos de negócios ágeis-base de instalação do Dynamics 365 Business central | Clientes existentes do Dynamics 365 Business central. Parceiro para direcionar os aplicativos de energia. | 
+| Criar processos de negócios ágeis-base de instalação do compromisso com o cliente do Dynamics 365 | Clientes atuais do engajamento do cliente do Dynamics 365. Parceiro para direcionar os aplicativos de energia. | 
+| Crie uma cadeia de suprimentos resiliente-Windows e ative a primeira carga de trabalho do Dynamics 365 como o gerenciamento de cadeia de fornecimento do Dynamics 365 com clientes não Oracle ou SAP ERP (planejamento de recursos empresariais) | Direcionar clientes para o gerenciamento de cadeia de fornecedores do Dynamics 365 | 
+| Crie uma cadeia de fornecimento resiliente-venda cruzada de gerenciamento de cadeia de fornecedores do Dynamics 365 e/ou varejo ou comércio aos clientes existentes do engajamento do cliente do Dynamics 365 | Clientes atuais do engajamento do cliente do Dynamics 365 para visar a venda cruzada do gerenciamento de cadeia de fornecimento do Dynamics 365. | 
+| Crie uma cadeia de fornecimento resiliente-venda cruzada de gerenciamento de cadeia de fornecedores do Dynamics 365 e/ou varejo ou comércio ao Dynamics 365 compromisso com o cliente e Oracle ou SAP | Clientes atuais do engajamento do cliente do Dynamics 365 com Oracle ou SAP para direcionar o gerenciamento da cadeia de fornecedores do Dynamics 365 | 
+| D365BCCluster | Identifica as propensações do cliente para comprar o Dynamics 365 Business central. Os clientes que mostrarem uma propensão para o Business central estarão nas categorias média e pequena. Direcione o Act agora e avalie os clusters, pois eles produzirão mais rendimento. Direcione o incentivá e instrua os clientes somente se ainda houver capacidade depois de você direcionar o Act agora e avaliar os clientes. | 
+| D365BCFit | Pontos de dados internos e externos que definem firmographics. Ajustar a pontuação usa um modelo lookalike para nosso melhor SMB para comparar os clientes e ver se eles são um ajuste potencial para os produtos de nuvem da Microsoft. Ajustar Pontuação é atualizado trimestral. | 
+| D365BCIntent | Os sinais relacionados à mídia social e ao comportamento online de um cliente definem a intenção. A pontuação da intenção é sobreposta em ajustar para definir os clusters. A pontuação da intenção é atualizada mensalmente. | 
+| D365FOCluster | Identifica as propensações do cliente para comprar as operações e finanças do Dynamics 365. Os clientes que mostrarem uma propensão para finanças + operações estarão nas principais categorias não gerenciadas. Direcione o Act agora e avalie os clusters, pois eles produzirão mais rendimento. Direcione o incentivá e instrua os clientes somente se ainda houver capacidade depois de você direcionar o Act agora e avaliar os clientes. | 
+| D365FOFit | Pontos de dados internos e externos que definem firmographics. Ajustar a pontuação usa um modelo lookalike para nosso melhor SMB para comparar os clientes e ver se eles são um ajuste potencial para os produtos de nuvem da Microsoft. Ajustar Pontuação é atualizado trimestral. | 
+| D365FOIntent | Os sinais relacionados à mídia social e ao comportamento online de um cliente definem a intenção. A pontuação da intenção é sobreposta em ajustar para definir os clusters. A pontuação da intenção é atualizada mensalmente. | 
+| D365CECluster | Identifica as propensações do cliente para comprar o compromisso com o cliente do Dynamics 365. Os clientes que mostrarem uma propensação para o envolvimento do cliente estarão nas categorias média e pequena. Direcione o Act agora e avalie os clusters, pois eles produzirão mais rendimento. Direcione o incentivá e instrua os clientes somente se ainda houver capacidade depois de você direcionar o Act agora e avaliar os clientes. | 
+| D365CEFit | Indica o ajuste para o compromisso com o cliente do Dynamics 365 | 
+| D365CEIntent | Indica a intenção do compromisso com o cliente do Dynamics 365 | 
+| DynamicsOnPremAXorCRM_HasOpenRenewal | Identifica se o cliente tem uma renovação aberta para o Dynamics local AX ou CRM | 
+| M365UpsellCustomer | Identifica se o cliente mostra a propensão de venda para Microsoft 365 | 
+| Tem Google | Identifica se o cliente mostra sinais competitivos para produtos pertencentes ao Google | 
+| Tem AWS | Identifica se o cliente mostra sinais competitivos para produtos AWS de propriedade | 
+| Tem EA | Identifica se uma renovação é uma assinatura EA ou EA | 
+| Está aberto | Identifica se uma renovação é um contrato Open ou Open Value | 
 
-**Propensabilidade de Ascent-Azure de nuvem**: as definições de dados dos vários campos do relatório de propensão Ascent-Azure de nuvem são:
+### <a name="cloud-ascent---azure-propensity-report"></a>**Nuvem ascendente – relatório de propensão do Azure**
 
-|**Nome da Coluna** |**Descrição de dados** |
-|---------|:---------|
-|ID MPN|    ID de Microsoft Partner Network|
-|Nome do parceiro|  Nome do parceiro|
-|ID do Cliente|   Número do identificador do cliente |
-|Número de DUNS|   O Dun & Bradstreet número do cliente que está sendo pontuado quanto à propensão|
-|Nome da Conta|  Nome da conta |
-|Domínio|    Domínio da conta|
-|Tamanho da organização|  Tamanho da organização|
-|Setor|  Setor  |
-|Vertical|  A vertical do cliente que está sendo pontuado pela propensão, conforme identificado pela Microsoft e por outros padrões do setor (D&B)|
-|Área|  Área geográfica do local|
-|Subsidiária|    A subsidiária do cliente que está sendo classificada quanto à propensão|
-|Território de Vendas|   Território de Vendas|
-|City|  Local da cidade geográfica |
-|Estado| Local do estado geográfico|
-|Código postal|   Código postal|
-|País|   Localização geográfica do país |
-|Segment|   Segmento de mercado |
-|Subsegmento|   Subsegmento de mercado |
-|Resumo do tipo SMC|  Tipo do SMC |
-|Superior não gerenciado-base de computação|  Principais clientes não gerenciados – computação|
-|Principal base de usuários não gerenciados| Principais clientes não gerenciados – usuários|
-|IsNonProfit|   Se não há lucro ou lucro (Sim/não)|
-|Migrate-EOS Win Server-EOS Windows Server IB com CLAS propensation-5 + licenças|   Cliente que tem um servidor de vitória local EOS (ou seja, versões anteriores a e incluindo produtos EOS). O cliente tem 5 ou mais licenças. Cliente que tem uma pontuação de propensação.  Os parceiros devem direcionar esses clientes para a migração para o Azure.|
-|Migration-EOS Win Server-EOS Windows Server IB com CLAS propensation-<5 licenças|   Cliente que tem EOS (fim do serviço) servidor de vitória local (ou seja, versões anteriores a e incluindo produtos EOS). O cliente tem menos de 5 licenças. Cliente que tem uma pontuação de propensação.  Os parceiros devem direcionar esses clientes para a migração para o Azure.|
-|Migrate-EOS Win Server-EOS Windows Server IB sem CLAS propensation-5 + licenças |Cliente que tem um servidor de vitória local EOS (ou seja, versões anteriores a e incluindo produtos EOS). O cliente tem mais de 5 licenças. O cliente não tem uma pontuação de propensação. Os parceiros devem direcionar esses clientes para a migração para o Azure.|
-|Migration-EOS Win Server-EOS Windows Server IB sem CLAS propensation-<5 licenças|    Cliente que tem um servidor de vitória local EOS (ou seja, versões anteriores a e incluindo produtos EOS). Tem menos de 5 licenças. O cliente não tem uma pontuação de propensação. Os parceiros devem direcionar esses clientes para a migração para o Azure.|
-|Migration-EOS SQL-EOS SQL Server IB com CLAS propensation-5 + licenças|  Cliente que tem EOS SQL Server local (ou seja, versões anteriores a e incluindo produtos EOS). O cliente tem mais de 5 licenças. O cliente tem uma pontuação de propensação.  Os parceiros devem direcionar esses clientes para a migração para o Azure.|
-|Migration-EOS SQL-EOS SQL Server IB com CLAS propensation-<5 licenças|  Cliente que tem EOS SQL Server local (ou seja, versões anteriores a e incluindo produtos EOS). Tem menos de 5 licenças. Cliente que tem uma pontuação de propensação. Os parceiros devem direcionar esses clientes para a migração para o Azure.|
-|Migration-EOS SQL-EOS SQL Server IB sem a CLAS propensation-5 + licenças|   Cliente que tem EOS SQL Server local (ou seja, versões anteriores a e incluindo produtos EOS). O cliente tem 5 ou mais licenças. O cliente não tem uma pontuação de propensação. Os parceiros devem direcionar esses clientes para a migração para o Azure.|
-|Migration-EOS SQL-EOS SQL Server IB sem a CLAS propensation-<5 licenças|   Cliente que tem EOS SQL Server local (ou seja, versões anteriores a e incluindo produtos EOS). O cliente tem menos de 5 licenças. O cliente não tem uma pontuação de propensação. Os parceiros devem direcionar esses clientes para a migração para o Azure.|
-|Migrar – migrar o servidor win local-atual Windows Server IB com CLAS propensation-5 + licenças|   Cliente que tem o servidor win local atual (ou seja, versões que são posteriores a produtos EOS). O cliente tem mais de 5 licenças. O cliente tem uma pontuação de propensação. Os parceiros devem direcionar esses clientes para a migração para o Azure.|
-|Migrar – migrar o servidor win local – licenças atuais do Windows Server IB com CLAS propensation-<5|   Cliente que tem o servidor win local atual (ou seja, versões que são posteriores a produtos EOS). O cliente tem menos de 5 licenças. O cliente tem uma pontuação de propensação para o Azure. Os parceiros devem direcionar esses clientes para a migração para o Azure.|
-|Migrar – migrar o servidor win local-Server Server IB atual sem a CLAS propensation-5 + licenças|    Cliente que tem o servidor win local atual (ou seja, versões que são posteriores a produtos EOS). O cliente tem mais de 5 licenças. O cliente não tem uma pontuação de propensação. Os parceiros devem direcionar esses clientes para a migração para o Azure.|
-|Migrar – migrar o servidor win local – Windows Server IB atual sem a CLAS propensation-<5 licenças |Cliente que tem o servidor win local atual (ou seja, versões que são posteriores a produtos EOS). O cliente tem menos de 5 licenças. O cliente não tem uma pontuação de propensação. Os parceiros devem direcionar esses clientes para a migração para o Azure.|
-|Migrar – migrar para VMs SQL ou SQL do Azure-atual SQL Server IB com CLAS propensation-5 + licenças|  Cliente que tem o SQL Server local atual (ou seja, versões que são posteriores a produtos EOS). O cliente tem mais de 5 licenças. O cliente tem uma pontuação de propensação. Os parceiros devem direcionar esses clientes para a migração para o Azure.|
-|Migrar – migrar para VMs do SQL ou SQL do Azure-atual SQL Server IB com CLAS propensation-<5 licenças|  Cliente que tem o SQL Server local atual (ou seja, versões que são posteriores a produtos EOS). O cliente tem menos de 5 licenças. O cliente tem uma pontuação de propensação. Os parceiros devem direcionar esses clientes para a migração para o Azure.|
-|Migrar – migrar para VMs do SQL ou SQL do Azure-atual SQL Server IB sem a CLAS propensation-5 + licenças|   Cliente que tem o SQL Server local atual (ou seja, versões que são posteriores a produtos EOS). O cliente tem mais de 5 licenças. O cliente não tem uma pontuação de propensação. Os parceiros devem direcionar esses clientes para a migração para o Azure.|
-|Migrar – migrar para VMs do SQL ou SQL do Azure-atual SQL Server IB sem a propensão CLAS-<5 licenças|   Cliente que tem o SQL Server local atual (ou seja, versões que são posteriores a produtos EOS). O cliente tem menos de 5 licenças. O cliente não tem uma pontuação de propensação. Os parceiros devem direcionar esses clientes para a migração para o Azure.|
-|Migrar-OSS-migrar para o BD OSS| Cliente existente com qualquer um dos seguintes produtos concorrentes: PostgreSQL, MySQL, MariaDB. Os parceiros devem direcionar esses clientes para a migração para o Azure.|
-|Migrar-OSS-Linux no Azure |Cliente existente com o produto: Linux. Os parceiros devem direcionar esses clientes para a migração para o Azure.|
-|Migrar-SAP-SAP no Azure|  Cliente existente com o produto: SAP. Os parceiros devem direcionar esses clientes para a migração para o Azure.|
-|Migrar-WVD-RDS IB |Identifica os clientes com o Windows Serviços de Área de Trabalho Remota ativo. Os parceiros devem direcionar esses clientes para a migração para o Azure.|
-|Migrar-WVD-cross venda trabalho moderno para o Azure/WVD|   Identifica os clientes com o M365 e não tem o Azure. Os parceiros devem direcionar esses clientes para a migração para o Azure.|
-|Migrar-VMware IB|   Cliente existente com o produto: VMware. Os parceiros devem direcionar esses clientes para a migração para o Azure.|
-|Migrar – Citrix IB|   Cliente existente com o produto: Citrix Systems. Os parceiros devem direcionar esses clientes para a migração para o Azure.|
-|Inovações-Analytics-Power BI IB w/high-interrupções do Azure|   Os clientes com a assinatura do e do Active Power BI, incluindo: Power BI-M365-autônomos pro, Power BI-conjuntos do Azure, conjuntos de Power BI-Office, pacotes de Power BI|
-|Enable-DevOps com GitHub-VisualStudio/MSDN IB|    Clientes identificados com Visual estúdios ativo|
-|Versão padrão do Win Server|   Isso mostra a versão do Windows Server Standard compras pelo cliente|
-|Licença padrão do Win Server|   Isso mostra o tipo de licença do Windows Server Standard compras pelo cliente|
-|Versão do Data Center do Win Server|    Isso mostra a versão do Windows Data Center comprada pelo cliente|
-|Licença do Data Center do Win Server| Isso mostra o tipo de licença de compras do Data Center do Windows pelo cliente|
-|AzureFit|  Pontos de dados internos e externos que definem firmographics. Ajustar a pontuação usa um modelo semelhante ao nosso melhor SMB para comparar os clientes e ver se eles são um ajuste potencial para Microsoft Cloud produtos. Ajustar Pontuação é atualizado trimestral.|
-|AzureIntent|   Os sinais relacionados à mídia social e ao comportamento online de um cliente definem a intenção. A pontuação da intenção é sobreposta sobre ajustar para definir os clusters. A pontuação da intenção é atualizada mensalmente.|
-|AzureCluster|  Isso identifica as propensações do cliente para comprar o Azure, consolidando as recomendações de ajuste e de intenção em um cluster.  Os clusters atuam agora e avaliados devem ser direcionados, pois produzirão um rendimento maior.  Incentivá e instrua os clientes só devem ser direcionados se ainda houver capacidade depois de direcionar o Act agora e avaliar os clientes.|
-|WindowsServerDataCenter_HasOpenRenewal|    Isso identifica se um cliente tem uma renovação aberta para um Windows Server data center|
-|WindowsServerStandard_HasOpenRenewal|  Isso identifica se um cliente tem uma renovação aberta para um Windows Server Standard|
-|AzureUpsellCustomer|   Isso identifica se o cliente está mostrando a propensão de venda para o Azure|
-|Tem Google|    Esse sinalizador identifica se um cliente está mostrando sinais competitivos para produtos pertencentes ao Google|
-|Tem AWS|   Esse sinalizador identifica se um cliente está mostrando sinais competitivos para produtos de AWS de propriedade|
-|Tem EA |Isso identifica se uma renovação é um EA (Enterprise Agreement) ou uma assinatura EA|
-|Está aberto|  Isso identifica se uma renovação é um contrato aberto ou um valor aberto|
+| Nome da coluna | Descrição dos dados | 
+| :--------- | :--------- | 
+| ID MPN | ID de Microsoft Partner Network | 
+| Nome do parceiro | Nome do parceiro | 
+| ID do Cliente | Número do identificador do cliente | 
+| Número de DUNS | O Dun & Bradstreet número do cliente que está sendo pontuado quanto à propensão | 
+| Nome da Conta | Nome da conta | 
+| Domínio | Domínio da conta | 
+| Tamanho da organização | Tamanho da organização | 
+| Setor | Setor | 
+| Vertical | A vertical do cliente que está sendo pontuada pela propensão, conforme identificado pela Microsoft, D&B e outros padrões do setor | 
+| Área | Área geográfica do local | 
+| Subsidiária | A subsidiária do cliente que está sendo pontuada quanto à propensão | 
+| Território de Vendas | A região de vendas do cliente que está sendo pontuada quanto à propensão | 
+| City | Local da cidade geográfica | 
+| Estado | Local do estado geográfico | 
+| Código postal | Código postal da organização | 
+| País | Localização geográfica do país | 
+| Segment | Segmento de mercado | 
+| Subsegmento | Subsegmento de mercado | 
+| Resumo do tipo SMC | Tipo do SMC | 
+| Superior não gerenciado-base de computação | Principais clientes não gerenciados – computação | 
+| Principal base de usuários não gerenciados | Principais clientes não gerenciados – usuários | 
+| IsNonProfit | Indica se a organização não é de lucro (Sim ou não) | 
+| Migrate-EOL Windows Server-EOL Windows Server IB com o Cloud ascendence-5 + licenças | Cliente que tem um EOL do Windows Server local (ou seja, uma versão do EOL ou anterior). O cliente tem 5 ou mais licenças. Cliente que tem uma pontuação de propensação. O parceiro deve direcionar esse cliente para a migração para o Azure. | 
+| Migrate-EOL Windows Server-EOL Windows Server IB com Cloud elevação da nuvem-<5 licenças | Cliente que tem um EOL do Windows Server local (ou seja, uma versão do EOL ou anterior). O cliente tem menos de 5 licenças. Cliente que tem uma pontuação de propensação. O parceiro deve direcionar esse cliente para a migração para o Azure. | 
+| Migrate-EOL Windows Server-EOL Windows Server IB sem a nuvem de elevação de linha-5 + licenças | Cliente que tem um EOL do Windows Server local (ou seja, uma versão do EOL ou anterior). O cliente tem mais de 5 licenças. O cliente não tem uma pontuação de propensação. O parceiro deve direcionar esse cliente para a migração para o Azure. | 
+| Migrate-EOL Windows Server-EOL Windows Server IB sem Cloud elevação da nuvem-<5 licenças | Cliente que tem um EOL do Windows Server local (ou seja, uma versão do EOL ou anterior). Tem menos de 5 licenças. O cliente não tem uma pontuação de propensação. O parceiro deve direcionar esse cliente para a migração para o Azure. | 
+| Migrar-EOL SQL-EOL SQL Server IB com o Cloud ascendence propensation-5 + licenças | Cliente que tem um EOL local SQL Server (ou seja, uma versão de EOL ou anterior). O cliente tem mais de 5 licenças. O cliente tem uma pontuação de propensação. O parceiro deve direcionar esse cliente para a migração para o Azure. | 
+| Migrar-EOL SQL-EOL SQL Server IB com a propensação de nuvem ascendente-<5 licenças | Cliente que tem um EOL local SQL Server (ou seja, uma versão de EOL ou anterior). Tem menos de 5 licenças. Cliente que tem uma pontuação de propensação. O parceiro deve direcionar esse cliente para a migração para o Azure. | 
+| Migrate-EOL SQL-EOL SQL Server IB sem o Cloud elevação propensation-5 + licenças | Cliente que tem um EOL local SQL Server (ou seja, uma versão de EOL ou anterior). O cliente tem 5 ou mais licenças. O cliente não tem uma pontuação de propensação. O parceiro deve direcionar esse cliente para a migração para o Azure. | 
+| Migrate-EOL SQL-EOL SQL Server IB sem o Cloud elevação propensation-<5 licenças | Cliente que tem um EOL local SQL Server (ou seja, uma versão de EOL ou anterior). O cliente tem menos de 5 licenças. O cliente não tem uma pontuação de propensação. O parceiro deve direcionar esse cliente para a migração para o Azure. | 
+| Migrar – migrar o Windows Server local para o Windows Server IB atual com a propensão de elevação de nuvem-5 + licenças | Cliente que tem um Windows Server local atual (ou seja, uma versão posterior à EOL). O cliente tem mais de 5 licenças. O cliente tem uma pontuação de propensação. O parceiro deve direcionar esse cliente para a migração para o Azure. | 
+| Migrar – migrar o Windows Server local para o Windows Server IB atual com a propensão de elevação da nuvem-<5 licenças | Cliente que tem um Windows Server local atual (ou seja, uma versão posterior à EOL). O cliente tem menos de 5 licenças. O cliente tem uma pontuação de propensação para o Azure. O parceiro deve direcionar esse cliente para a migração para o Azure. | 
+| Migrar-migrar o Windows Server local-Windows Server IB atual sem o Cloud elevação da nuvem-5 + licenças | Cliente que tem um Windows Server local atual (ou seja, uma versão posterior à EOL). O cliente tem mais de 5 licenças. O cliente não tem uma pontuação de propensação. O parceiro deve direcionar esse cliente para a migração para o Azure. | 
+| Migrar-migrar o Windows Server local para o Windows Server IB atual sem a propensão de elevação da nuvem-<5 licenças | Cliente que tem um Windows Server local atual (ou seja, uma versão posterior à EOL). O cliente tem menos de 5 licenças. O cliente não tem uma pontuação de propensação. O parceiro deve direcionar esse cliente para a migração para o Azure. | 
+| Migrar – migrar para máquinas virtuais (VMs) SQL ou SQL do Azure – atual SQL Server IB com a propensão de elevação de nuvem-5 + licenças | Cliente que tem uma SQL Server local atual (ou seja, uma versão posterior à EOL). O cliente tem mais de 5 licenças. O cliente tem uma pontuação de propensação. O parceiro deve direcionar esse cliente para a migração para o Azure. | 
+| Migrar – migrar para VMs SQL ou SQL do Azure-atual SQL Server IB com propensão de elevação de nuvem-<5 licenças | Cliente que tem uma SQL Server local atual (ou seja, uma versão posterior à EOL). O cliente tem menos de 5 licenças. O cliente tem uma pontuação de propensação. O parceiro deve direcionar esse cliente para a migração para o Azure. | 
+| Migrar – migrar para VMs SQL ou SQL do Azure-atual SQL Server IB sem a propensão de elevação de nuvem-mais de 5 licenças | Cliente que tem uma SQL Server local atual (ou seja, uma versão posterior à EOL). O cliente tem mais de 5 licenças. O cliente não tem uma pontuação de propensação. O parceiro deve direcionar esse cliente para a migração para o Azure. | 
+| Migrar – migrar para VMs do SQL ou SQL do Azure-atual SQL Server IB sem a propensão de elevação da nuvem-<5 licenças | Cliente que tem uma SQL Server local atual (ou seja, uma versão posterior à EOL). O cliente tem menos de 5 licenças. O cliente não tem uma pontuação de propensação. O parceiro deve direcionar esse cliente para a migração para o Azure. | 
+| Migrar-OSS-migrar para o BD de código aberto de Shakespeare (OSS) | Cliente existente com qualquer um dos seguintes produtos concorrentes: PostgreSQL, MySQL, MariaDB. O parceiro deve direcionar esse cliente para a migração para o Azure. | 
+| Migrar-OSS-Linux no Azure | Cliente existente com o Linux. O parceiro deve direcionar esse cliente para a migração para o Azure. | 
+| Migrar-SAP-SAP no Azure | Cliente existente com SAP. O parceiro deve direcionar esse cliente para a migração para o Azure. | 
+| Migrar-área de trabalho virtual do Windows-Serviços de Área de Trabalho Remota IB | Identifica os clientes com o Windows Serviços de Área de Trabalho Remota ativo. O parceiro deve direcionar esse cliente para a migração para o Azure. | 
+| Migrar-área de trabalho virtual do Windows-vendas modernas de venda cruzada para Azure/WVD | Identifica os clientes com Microsoft 365 e não tem o Azure. O parceiro deve direcionar esse cliente para a migração para o Azure. | 
+| Migrar-VMware IB | Cliente existente com o produto: VMware. O parceiro deve direcionar esse cliente para a migração para o Azure. | 
+| Migrar – Citrix IB | Cliente existente com o produto: Citrix Systems. O parceiro deve direcionar esse cliente para a migração para o Azure. | 
+| Inovar-Analytics-Power BI IB com alta propensão do Azure | Os clientes com a assinatura do e do Active Power BI, incluindo: Power BI – pro autônomos, Power BI conjuntos do Azure, conjuntos de Power BI-Office, pacotes de Power BI-Microsoft 365 | 
+| Enable-DevOps com o GitHub – Visual Studio/MSDN IB | Identifica clientes com versões ativas do Visual Studio | 
+| Versão standard do Windows Server | Exibe a versão do Windows Server Standard compras pelo cliente | 
+| Licença Standard do Windows Server | Exibe o tipo de licença do Windows Server Standard compras pelo cliente | 
+| Versão do Data Center do Windows Server | Exibe a versão das compras do Data Center do Windows pelo cliente | 
+| Licença do Data Center do Windows Server | Exibe o tipo de licença de compras do Data Center do Windows pelo cliente | 
+| AzureFit | Pontos de dados internos e externos que definem firmographics. Ajustar a pontuação usa um modelo lookalike para nosso melhor SMB para comparar os clientes e ver se eles são um ajuste potencial para os produtos de nuvem da Microsoft. Ajustar Pontuação é atualizado trimestral. | 
+| AzureIntent | Os sinais relacionados à mídia social e ao comportamento online de um cliente definem a intenção. A pontuação da intenção é sobreposta em ajustar para definir os clusters. A pontuação da intenção é atualizada mensalmente. | 
+| AzureCluster | Identifica as propensações do cliente para comprar o Azure, consolidando as recomendações de ajuste e de intenção em um cluster. Direcione o Act agora e avalie os clusters, pois eles produzirão mais rendimento. Direcione o incentivá e instrua os clientes somente se ainda houver capacidade depois de você direcionar o Act agora e avaliar os clientes. | 
+| WindowsServerDataCenter_HasOpenRenewal | Identifica se o cliente tem uma renovação aberta para o Windows Server Datacenter | 
+| WindowsServerStandard_HasOpenRenewal | Identifica se o cliente tem uma renovação aberta para o Windows Server Standard | 
+| AzureUpsellCustomer | Identifica se o cliente mostra a propensão de venda para o Azure | 
+| Tem Google | Identifica se o cliente mostra sinais competitivos para produtos pertencentes ao Google | 
+| Tem AWS | Identifica se o cliente mostra sinais competitivos para produtos AWS de propriedade | 
+| Tem EA | Identifica se uma renovação é uma assinatura EA ou EA | 
+| Está aberto | Identifica se uma renovação é um contrato Open ou Open Value | 
 
-**Propensações de renovações de Ascent-Agreement de nuvem**: as definições de dados dos vários campos do relatório de propensações de renovações de contratos ascendentes da nuvem são:
+### <a name="cloud-ascent---agreement-renewal-propensity-report"></a>**Relatório de propensão de renovação do contrato de elevação da nuvem**
 
-|**Nome da Coluna** |**Descrição de dados** |
-|---------|:---------|
-|ID MPN|    ID de Microsoft Partner Network|
-|Nome do parceiro|  Nome do parceiro|
-|ID do Cliente|   Número do identificador do cliente |
-|Número de DUNS|   O Dun & Bradstreet número do cliente que está sendo pontuado quanto à propensão|
-|Nome da Conta|  Nome da conta |
-|Domínio|    Domínio da conta|
-|Tamanho da organização|  Tamanho da organização|
-|Setor|  Setor  |
-|Vertical|  A vertical do cliente que está sendo pontuado pela propensão, conforme identificado pela Microsoft e por outros padrões do setor (D&B)|
-|Área|  Área geográfica do local|
-|Subsidiária|    A subsidiária do cliente que está sendo classificada quanto à propensão|
-|Território de Vendas|   Território de Vendas|
-|City|  Local da cidade geográfica |
-|Estado| Local do estado geográfico|
-|Código postal|   Código postal|
-|País|   Localização geográfica do país |
-|Segment|   Segmento de mercado |
-|Subsegmento|   Subsegmento de mercado |
-|Resumo do tipo SMC|  Tipo do SMC |
-|Superior não gerenciado-base de computação|  Principais clientes não gerenciados – computação|
-|Principal base de usuários não gerenciados| Principais clientes não gerenciados – usuários|
-|IsNonProfit|Se não há lucro ou lucro (Sim/não)|
-|Tem Google|Esse sinalizador identifica se um cliente está mostrando sinais competitivos para produtos de AWS de propriedade|
-|Tem AWS|Esse sinalizador identifica se um cliente está mostrando sinais competitivos para produtos de AWS de propriedade|
-|Cluster do Azure|Isso identifica as propensações do cliente para comprar o Azure.  Os clusters atuam agora e avaliados devem ser direcionados, pois produzirão um rendimento maior.  Incentivá e instrua os clientes só devem ser direcionados se ainda houver capacidade depois de direcionar o Act agora e avaliar os clientes.|
-|Cluster D365 F&O|  Isso identifica a propensão do cliente para comprar operações e Finanças D365s.  Os clientes que mostrarem a propensão para O F&O estarão nas principais categorias não gerenciadas.  Os clusters atuam agora e avaliados devem ser direcionados, pois produzirão um rendimento maior.  Incentivá e instrua os clientes só devem ser direcionados se ainda houver capacidade depois de direcionar o Act agora e avaliar os clientes.|
-|Cluster D365 CE|   Isso identifica a propensão do cliente para comprar o engajamento do cliente D365.  Os clientes que mostram a propensão para CE estarão nas categorias média e pequena.  Os clusters atuam agora e avaliados devem ser direcionados, pois produzirão um rendimento maior.  Incentivá e instrua os clientes só devem ser direcionados se ainda houver capacidade depois de direcionar o Act agora e avaliar os clientes.|
-|Cluster D365 BC|   Isso identifica a propensão do cliente para comprar o D365 Business central.  Os clientes que mostram a propensão para BC estarão nas categorias média e pequena.  Os clusters atuam agora e avaliados devem ser direcionados, pois produzirão um rendimento maior.  Incentivá e instrua os clientes só devem ser direcionados se ainda houver capacidade depois de direcionar o Act agora e avaliar os clientes.|
-|Cluster M365|  Isso identifica a propensão do cliente para comprar o M365.  Os clusters atuam agora e avaliados devem ser direcionados, pois produzirão um rendimento maior.  Incentivá e instrua os clientes só devem ser direcionados se ainda houver capacidade depois de direcionar o Act agora e avaliar os clientes.|
-|Programa de licença|   Isso identifica o tipo de programa de licença para a renovação|
-|ID do contrato|  Identificador de contrato|
-|Data de término do contrato|    Data de término do contrato |
-|Tipo de Expiração|   Tipo de expiração|
-|Receita de vencimento|  Receita associada a assinaturas expiradas|
-|Tem EA|    Isso identifica se uma renovação é um EA (Enterprise Agreement) ou uma assinatura EA|
-|Está aberto|  Isso identifica se uma renovação é um contrato aberto ou um valor aberto|
-|Cliente de venda do Azure| Isso identifica se o cliente está mostrando a propensão de venda para o Azure|
-|Cliente de venda M365|  Isso identifica se o cliente está mostrando a propensão de venda para M365|
-|RevSumDivisionName|    Isso identifica o produto que está ativo para a renovação|
+| Nome da coluna | Descrição dos dados | 
+| :--------- | :--------- | 
+| ID MPN | ID de Microsoft Partner Network | 
+| Nome do parceiro | Nome do parceiro | 
+| ID do Cliente | Número do identificador do cliente | 
+| Número de DUNS | O Dun & Bradstreet número do cliente que está sendo pontuado quanto à propensão | 
+| Nome da Conta | Nome da conta | 
+| Domínio | Domínio da conta | 
+| Tamanho da organização | Tamanho da organização | 
+| Setor | Setor | 
+| Vertical | A vertical do cliente que está sendo pontuada pela propensão, conforme identificado pela Microsoft, D&B e outros padrões do setor | 
+| Área | Área geográfica do local | 
+| Subsidiária | A subsidiária do cliente que está sendo pontuada quanto à propensão | 
+| Território de Vendas | A região de vendas do cliente que está sendo pontuada quanto à propensão | 
+| City | Local da cidade geográfica | 
+| Estado | Local do estado geográfico | 
+| Código postal | Código postal da organização | 
+| País | Localização geográfica do país | 
+| Segment | Segmento de mercado | 
+| Subsegmento | Subsegmento de mercado | 
+| Resumo do tipo SMC | Tipo do SMC | 
+| Superior não gerenciado-base de computação | Principais clientes não gerenciados – computação | 
+| Principal base de usuários não gerenciados | Principais clientes não gerenciados – usuários | 
+| IsNonProfit | Indica se a organização não é de lucro (Sim ou não) | 
+| Tem Google | Identifica se o cliente mostra sinais competitivos para produtos AWS de propriedade | 
+| Tem AWS | Identifica se o cliente mostra sinais competitivos para produtos AWS de propriedade | 
+| Cluster do Azure | Identifica as propensações do cliente para comprar o Azure. Direcione o Act agora e avalie os clusters, pois eles produzirão mais rendimento. Direcione o incentivá e instrua os clientes somente se ainda houver capacidade depois de você direcionar o Act agora e avaliar os clientes. | 
+| D365 Finanças + cluster de operações | Identifica as propensações do cliente para comprar as operações e finanças do Dynamics 365. Os clientes que mostrarem uma propensão para finanças + operações estarão nas principais categorias não gerenciadas. Direcione o Act agora e avalie os clusters, pois eles produzirão mais rendimento. Direcione o incentivá e instrua os clientes somente se ainda houver capacidade depois de você direcionar o Act agora e avaliar os clientes. | 
+| Cluster D365 CE | Identifica as propensações do cliente para comprar o compromisso com o cliente do Dynamics 365. Os clientes que mostrarem uma propensação para o envolvimento do cliente estarão nas categorias média e pequena. Direcione o Act agora e avalie os clusters, pois eles produzirão mais rendimento. Direcione o incentivá e instrua os clientes somente se ainda houver capacidade depois de você direcionar o Act agora e avaliar os clientes. | 
+| Cluster D365 BC | Identifica as propensações do cliente para comprar o Dynamics 365 Business central. Os clientes que mostrarem uma propensão para o Business central estarão nas categorias média e pequena. Direcione o Act agora e avalie os clusters, pois eles produzirão mais rendimento. Direcione o incentivá e instrua os clientes somente se ainda houver capacidade depois de você direcionar o Act agora e avaliar os clientes. | 
+| Cluster Microsoft 365 | Identifica as propensações do cliente para comprar Microsoft 365. Direcione o Act agora e avalie os clusters, pois eles produzirão mais rendimento. Direcione o incentivá e instrua os clientes somente se ainda houver capacidade depois de você direcionar o Act agora e avaliar os clientes. | 
+| Programa de licença | Identifica o tipo de programa de licença para a renovação | 
+| ID do contrato | Identificador do contrato | 
+| Data de término do contrato | Data de término do contrato | 
+| Tipo de Expiração | Tipo de expiração | 
+| Receita de vencimento | Receita associada a assinaturas expiradas | 
+| Tem EA | Identifica se uma renovação é uma assinatura EA ou EA | 
+| Está aberto | Identifica se uma renovação é um contrato Open ou Open Value | 
+| Cliente de venda do Azure | Identifica se o cliente mostra a propensão de venda para o Azure | 
+| Cliente de venda Microsoft 365 | Identifica se o cliente mostra a propensão de venda para Microsoft 365 | 
+| RevSumDivisionName | Identifica o produto que está ativo para renovação | 
 
 ## <a name="next-steps"></a>Próximas etapas
 
-Para relatórios, consulte [baixar relatórios](pci-download-reports.md).
+Para obter mais informações, consulte [baixar relatórios](pci-download-reports.md).

@@ -6,13 +6,13 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.date: 12/04/2020
+ms.openlocfilehash: 09e1301cb106c9e1ed40ff1fb6f70da92d2695ee
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492663"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861403"
 ---
 # <a name="payout-schedules-and-processes"></a>Agendas e processos de pagamento
 
@@ -25,11 +25,11 @@ Este artigo aborda o plano de pagamento da Microsoft, onde encontrar o status de
 
 ## <a name="payment-schedules"></a>Agendamentos de pagamento
 
-As seções a seguir descrevem nosso processo de pagamento para transações de **Enterprise Agreement** e de **cartão de crédito/fatura** .
+As seções a seguir descrevem nosso processo de pagamento para transações de **contrato Enterprise** e de **cartão de crédito/fatura** .
 
-### <a name="enterprise-agreement-transactions"></a>Transações de Enterprise Agreement
+### <a name="enterprise-agreement-transactions"></a>Transações de Contrato Enterprise
 
-Quando um cliente adquire um produto do Microsoft AppSource ou do Azure Marketplace usando seus Enterprise Agreement da Microsoft existentes para transações, emitiremos pagamentos no próximo ciclo de pagamento de 30 dias após a fatura do cliente. As transações em que um cliente usa um cartão de crédito têm um período de manutenção de 30 dias antes do pagamento.
+Quando um cliente adquire um produto do Microsoft AppSource ou do Azure Marketplace usando seus Contrato Enterprise da Microsoft existentes para transações, emitiremos pagamentos no próximo ciclo de pagamento de 30 dias após a fatura do cliente. As transações em que um cliente usa um cartão de crédito têm um período de manutenção de 30 dias antes do pagamento.
 
 Muitas vezes, um pagamento ocorrerá antes que A Microsoft colete o pagamento do cliente. Consulte [processar para não pagamento de cliente](#process-for-customer-non-payment) abaixo para as ações que adotamos se o cliente não conseguir pagar a Microsoft, mas já tiver emitido um pagamento.
 
@@ -37,6 +37,7 @@ Muitas vezes, um pagamento ocorrerá antes que A Microsoft colete o pagamento do
 | --- | --- | --- | --- |
 | Uso ou mês de transação | O cliente usa ou compra um serviço. | Painel de [uso](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 1** |
 | A Microsoft calcula o valor da cobrança | Determinar o uso total, total de transações | Painel de [uso](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 2** |
+| Fatura paga pelo cliente | A Microsoft coleta o pagamento do cliente | Nenhuma alteração | **Mês 2** |
 | Pagamento Postado | Determinar a taxa da Agência e os ganhos de pagamento | Marcado como não processado no histórico de transações na [instrução de pagamento](payout-statement.md) | **Mês 3 (1ª semana)** |
 | Preparar pagamento | Os ganhos são preparados para pagamento mensal | Marcado como futuro no histórico de transações na [instrução de pagamento](payout-statement.md) | **Mês 3 (1ª semana)** |
 | **Pagamento enviado** | **O pagamento é enviado ao Publicador** | **Marcado como enviado no histórico de transações e na seção de pagamentos da [instrução de pagamento](payout-statement.md)** | **Mês 3 (não depois do 15º)** |
