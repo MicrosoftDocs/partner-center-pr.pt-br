@@ -1,5 +1,5 @@
 ---
-title: Perguntas frequentes sobre pagamentos e perfis de impostos
+title: Perguntas frequentes sobre o perfil de pagamento e imposto
 description: Obtenha respostas para perguntas comuns sobre pagamentos e detalhes de impostos no Partner Center. Inclui respostas sobre por que seus ganhos são diferentes do esperado.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/25/2020
-ms.openlocfilehash: 3b09f0a08cd974f88afe5c5708df307830491f3f
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492578"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924912"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Perguntas comuns sobre pagamentos e impostos
 
@@ -128,10 +128,6 @@ No download do histórico de transações, localize a coluna de modelo Imposto. 
 
 Acesse a página **Pagamento**, em seguida, a seção **Lista de pagamento**. Um link para o formulário de Encargos Fiscais é exibido para um pagamento que tem os Encargos Fiscais.
 
-#### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Como baixar um formulário de Retenção de Imposto em PDF?
-
-Acesse a página *Pagamento*, em seguida, a seção **Lista de pagamento**. Um link para um formulário de retenção de imposto é exibido ao lado de um pagamento.
-
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Onde posso encontrar os formulários de imposto de fim de ano?
 
 Acesse a página [Perfil](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) para exibir seus formulários de imposto de fim de ano.
@@ -170,7 +166,7 @@ Acesse a página **Pagamento**, em seguida, a seção **Lista de pagamento**. Um
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Como fazer baixar um formulário de imposto sobre retenção em PDF?
 
-Acesse a página **Pagamento**, em seguida, a seção **Lista de pagamento**. Um link para um formulário de retenção de imposto é exibido ao lado de um pagamento.
+Acesse a página **Pagamento**, em seguida, a seção **Lista de pagamento**. Um link para um formulário de retenção de imposto é exibido ao lado de um pagamento. Um formulário de imposto retido na fonte se aplica apenas aos programas de incentivos selecionados, não a um pagamento de mercado comercial.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Onde posso encontrar os formulários de imposto de fim de ano?
 
