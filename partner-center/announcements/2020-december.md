@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/21/2020
-ms.openlocfilehash: f20015fff92e200bce1d17fd6fda7b7ced618e00
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182555"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705038"
 ---
 # <a name="december-2020-announcements"></a>Comunicados de dezembro de 2020
 
@@ -280,7 +280,7 @@ Veja abaixo o que também ocorrerá na mesma data:
 
 - A lista de preços de software perpétuo do CSP será publicada novamente no Partner Center. Você a encontrará na seção **Software** da página [Vender > Preços e Ofertas](https://partnercenter.microsoft.com/pcv/sales), que contém produtos e geografias adicionais. Veja mais detalhes [aqui](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
 
-- A capacidade de cumprimento de programas de software e chaves de licença do Partner Center será desativada (confira o [comunicado](./2020-september.md#17)) e, de agora em diante, os parceiros usarão o Centro de administração do Microsoft 365 exclusivamente para essa finalidade. Isso garantirá uma experiência mais segura e eficiente para os clientes. Saiba mais sobre o software do Centro de administração do Microsoft 365 examinando a [visão geral](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), as [tarefas comuns](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) e as [funcionalidades de cumprimento de chaves de licença](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+- A funcionalidade de preenchimento de software e chaves de licença do Partner Center será desativada (confira o [comunicado](./2020-september.md#17)) e, de agora em diante, os parceiros usarão o Centro de Administração do Microsoft 365 exclusivamente para essa finalidade. Isso garantirá uma experiência mais segura e eficiente para os clientes. Saiba mais sobre o software do Centro de administração do Microsoft 365 examinando a [visão geral](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), as [tarefas comuns](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) e as [funcionalidades de cumprimento de chaves de licença](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
 
 ### <a name="perpetual-software-in-csp"></a>Software perpétuo no CSP
 

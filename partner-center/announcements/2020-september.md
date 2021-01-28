@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: ee876a479834b3538d2c0f8cf447a07fa2a59394
-ms.sourcegitcommit: 13d8e977f48448a7018747b39ec6eb3eeae123bc
+ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "94878793"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705004"
 ---
 # <a name="september-2020-announcements"></a>Comunicados de setembro de 2020
 
@@ -36,7 +36,7 @@ Todos os parceiros do CSP (Provedor de Soluções na Nuvem) que negociam ofertas
 
 ### <a name="details"></a>Detalhes
 
-Hoje, os parceiros podem usar o Partner Center ou o Centro de Administração do Microsoft 365 para obter o cumprimento de chave de licença e download de software para pedidos de software do CSP. A partir de **19 de janeiro de 2021**, a capacidade de cumprimento de softwares e chaves de licença do Partner Center será desativada e os parceiros usarão o **Centro de Administração do Microsoft 365** exclusivamente para essa finalidade. A página Software do Cliente do Partner Center conterá um "link profundo" para o Centro de Administração do Microsoft 365, onde será possível obter licenças do cliente e downloads de software. Isso ajudará a garantir uma experiência mais segura e eficiente para os clientes.
+Hoje, os parceiros podem usar o Partner Center ou o Centro de Administração do Microsoft 365 para obter o cumprimento de chave de licença e download de software para pedidos de software do CSP. A partir de **19 de janeiro de 2021**, a funcionalidade de preenchimento de software e chaves de licença do Partner Center será desativada, e os parceiros encaminharão os clientes para usar o **Centro de Administração do Microsoft 365** exclusivamente para essa finalidade. A página Software do Cliente do Partner Center conterá um "link profundo" para o Centro de Administração do Microsoft 365, para o qual você pode encaminhar os clientes a fim de obter licenças do cliente e downloads de software. Isso ajudará a garantir uma experiência mais segura e eficiente para os clientes.
 
 As chaves de licença de software e os links de download são ativos de propriedade intelectual valiosos e muito procurados. Caso sejam vazados, poderão esgotar rapidamente os limites de ativação e causar uma experiência negativa para clientes e parceiros. Portanto, é essencial que os parceiros usem a tecnologia mais segura e as práticas recomendadas para ajudar a proteger esses ativos valiosos, bem como os clientes.
 
@@ -596,7 +596,7 @@ Examine a guia Project Operations do [documento Excel Ofertas do Dynamics CSP �
 - Blog [Introdução ao Microsoft Dynamics 365 Project Service Automation](https://cloudblogs.microsoft.com/dynamics365/bdm/2020/02/20/introducing-microsoft-dynamics-365-project-operations/)
 - Material de treinamento [O que vem no Microsoft Dynamics 365 Project Service Automation](https://assetsprod.microsoft.com/mpn/what-is-coming-in-d365-project-service-automation-dyn767pal.pdf)
 
-#### <a name="expansion-of-business-central-offers-into-additional-countries"></a>Expansão das ofertas do Business Central para outros países/regiões
+#### <a name="expansion-of-business-central-offers-into-additional-countries"></a>Expansão das ofertas do Business Central para outros países
 
 Em 1º de outubro de 2020, a Microsoft expandirá as ofertas de nuvem do Business Central para o Brasil, a Groenlândia, as Ilhas Faroe, a Irlanda e a Lituânia.
 
