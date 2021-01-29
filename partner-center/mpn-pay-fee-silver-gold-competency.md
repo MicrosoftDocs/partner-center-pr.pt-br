@@ -1,19 +1,19 @@
 ---
 title: Pagar a taxa por uma competência MPN
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 01/28/2021
 description: Saiba como pagar a taxa ou atualizar detalhes de pagamento associados à obtenção ou renovação de uma ou mais competências Silver ou ouro.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ad807f958dd568fe098e341b80429bf517fb87d
-ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98921044"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042677"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Como pagar a tarifa associada a uma competência Silver ou ouro
 
@@ -25,7 +25,7 @@ ms.locfileid: "98921044"
 Este artigo descreve como e quando pagar a taxa associada à obtenção de uma competência de Microsoft Partner Network prata ou ouro. O artigo também descreve como alterar seu método de pagamento preferido, como cancelar um pedido e como receber um desconto de 25% na taxa de transferência de uma competência prata para ouro.
 
 > [!NOTE]
-> Para saber mais sobre os benefícios de obter uma competência prata ou ouro, as competências específicas disponíveis e seus requisitos exclusivos, confira [Microsoft Partner Network competências](https://partner.microsoft.com/membership/competencies). Você também pode verificar a Microsoft Partner Network [tabelas de licenças para competências] para ler mais sobre os benefícios de cada competência disponível.
+> Para saber mais sobre os benefícios de obter uma competência prata ou ouro, as competências específicas disponíveis e seus requisitos exclusivos, confira [Microsoft Partner Network competências](https://partner.microsoft.com/membership/competencies). Você também pode verificar as tabelas de licença de Microsoft Partner Network [para as competências](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) para ler mais sobre os benefícios de cada competência disponível.
 
 ## <a name="meet-a-competencys-requirements-and-pay-the-fee"></a>Atender aos requisitos de uma competência e pagar a taxa
 
@@ -43,7 +43,7 @@ Caso contrário, siga estas etapas para pagar a taxa por uma competência Silver
 
 2. Selecione [ofertas de associação](https://partner.microsoft.com/dashboard/mpn/offers) no menu de navegação. 
 
-3. Em **ofertas disponíveis para compra**, encontre o bloco Associação prata * * bloco ou **Associação Gold** associado à sua competência específica. 
+3. Em **ofertas disponíveis para compra**, localize o bloco de **Associação prata** ou o bloco de **Associação Gold** associado à sua competência específica. 
 
 4. Selecione a opção **assinar** localizada no canto inferior direito do bloco específico de associação prata ou ouro.
 
@@ -54,7 +54,7 @@ Caso contrário, siga estas etapas para pagar a taxa por uma competência Silver
 
 4. Na página **detalhes da compra** , examine e confirme seus detalhes.
 
-   (Saiba mais sobre como atualizar [as informações de **ID de imposto**](https://docs.microsoft.com/partner-center/organization-tax-info) da sua empresa ou a [ **cobrança/venda** da sua empresa para o endereço da empresa](https://docs.microsoft.com/partner-center/mpn-get-action-pack).
+   (Saiba mais sobre como atualizar [as informações de **ID de imposto**](https://docs.microsoft.com/partner-center/organization-tax-info) da sua empresa ou a [ **cobrança/venda** da sua empresa para o endereço da empresa](https://docs.microsoft.com/partner-center/mpn-get-action-pack).)
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="A associação oferece a página de detalhes de compra com preferências de pagamento." border="false":::
 
@@ -130,7 +130,7 @@ Se você pagar sua taxa de associação prata ou ouro por meio da transferência
 
    :::image type="content" source="images/offers/7-mpn-competency-payment-upload-proof.png" alt-text="Página de detalhes com campos para carregar a prova de exibição de uma opção selecionável, carregar a prova de pagamento, para cada oferta adquirida." border="false":::
 
-1. Preencha as informações para os outros campos relacionados à transação de transferência de fundos eletrônicos recentes, como **data de pagamento**, * pago para número de conta * * e **transação/referência não.**
+1. Preencha as informações para os outros campos relacionados à sua transação de transferência de fundos eletrônicos recentes, como **data de pagamento**, **paga ao número da conta** e **transação/referência não**.
 
   Pode aparecer uma mensagem verde para informar que sua solicitação foi concluída com êxito.
 
