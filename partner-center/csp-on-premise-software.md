@@ -1,7 +1,7 @@
 ---
 title: Vender software local por meio do CSP
 ms.topic: how-to
-ms.date: 01/15/2021
+ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os parceiros no programa CSP podem comprar, gerenciar, vender e cancelar assinaturas de software local em nome dos clientes no Partner Center.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1d9cddd46ac6ee23a92fab41fc41b1e7eb613a1
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: e0ca730da28f320de50a1990a1bcfe13b195bbbf
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584168"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098849"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Vender software local por meio do programa CSP (provedor de soluções na nuvem)
 
@@ -37,13 +37,16 @@ Para comprar assinaturas de software em nome de um cliente, acesse a página de 
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Ativar e gerenciar assinaturas de software
 
-Depois de adquirir seu software, você e seus clientes precisarão baixá-lo. Use o procedimento a seguir para fazer isso. 
+Depois de adquirir seu software, seus clientes precisam baixá-lo. Use o procedimento a seguir para fazer isso.
 
 >[!NOTE]
 >Você deve ser um agente administrador para obter as chaves e os downloads.
 
 1. Acesse a página de detalhes do cliente e, em seguida, selecione **Software**. Você verá uma lista de todos os programas de software comprados em nome do cliente.
-2. Copie o link de **link para chaves de produto de software e downloads** e compartilhe o link com o cliente. Quando eles selecionarem esse link, eles serão redirecionados para o portal de administração da Microsoft para baixar e obter suas chaves de produto.
+2. Copie o "link profundo" do **link para chaves de produto de software e downloads** e compartilhe o link com o cliente. Quando eles selecionarem esse link, eles serão redirecionados para o centro de administração da Microsoft para baixar e obter suas chaves de produto.
+
+>[!NOTE]
+>Somente os clientes podem ver as chaves do produto e as informações de download no centro de administração da Microsoft. Os parceiros não podem ver essas informações.
 
 Se você ou seus clientes quiserem saber mais sobre o download de chaves de licença, consulte [baixar software e chaves de licença de produto](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 
