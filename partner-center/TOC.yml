@@ -64,6 +64,8 @@
           displayName: 'renew, mpn'
         - name: Isenção de competência do desenvolvimento de aplicativo
           href: app-dev-isv.md
+        - name: Usar o relatório de habilidades
+          href: mpn-skills-report.md
     - name: Especializações avançadas
       items:
         - name: Demonstrar sua experiência
