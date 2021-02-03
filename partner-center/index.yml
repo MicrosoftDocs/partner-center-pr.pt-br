@@ -9,18 +9,20 @@ metadata:
   ms.topic: landing-page
   author: LauraBrenner
   ms.author: labrenne
-  ms.date: 11/19/2020
-  ms.openlocfilehash: 90f63b0411935c560ca4693cf372c3d2a3e1fafd
-  ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
+  ms.date: 02/01/2021
+  ms.openlocfilehash: 902c05a71776e74e735de16e3e464a1a816a5402
+  ms.sourcegitcommit: 299bd9948848c7012485b0ea45c2a319309d2b47
   ms.translationtype: HT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 11/20/2020
-  ms.locfileid: "94983310"
+  ms.lasthandoff: 02/02/2021
+  ms.locfileid: "99251906"
 landingContent:
 - title: Introdução ao Partner Center
   linkLists:
   - linkListType: get-started
     links:
+    - text: O que é o Partner Center?
+      url: overview.md
     - text: Comunicados do Partner Center
       url: announcements/index.md
     - text: Parceiro da Microsoft
@@ -29,8 +31,6 @@ landingContent:
       url: mpn-create-a-partner-center-account.md
     - text: Gerenciar benefícios e ofertas de membros do MPN
       url: manage-your-partner-network-benefits.md
-    - text: Saiba mais sobre as competências
-      url: learn-about-competencies.md
 - title: Amplie seu negócio
   linkLists:
   - linkListType: concept
@@ -51,6 +51,8 @@ landingContent:
   linkLists:
   - linkListType: concept
     links:
+    - text: Aceitar o Contrato de Parceiro da Microsoft
+      url: microsoft-partner-agreement.md
     - text: Requisitos de segurança do Partner Center
       url: partner-security-requirements.md
     - text: Criar um perfil de negócios
@@ -77,8 +79,6 @@ landingContent:
       url: partner-center-account-setup.md
     - text: Atribuir funções e permissões a usuários
       url: permissions-overview.md
-    - text: Gerenciar usuários e licenças de usuário
-      url: assign-licenses-to-users.md
     - text: Noções básicas sobre cobrança
       url: billing-basics.md
     - text: Configurar sua conta de pagamento e formulários de imposto
