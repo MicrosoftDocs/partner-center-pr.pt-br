@@ -1,7 +1,7 @@
 ---
 title: Indicadores de contribuição do parceiro – CBA
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 02/03/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre sete indicadores de contribuição de parceiros (PCI) que mostram aos parceiros como obter uma competência de Business Applications de nuvem prata ou ouro.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 853af76627fcd2554492fbc918e147b8464a3e1f
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204063"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530809"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Use indicadores de contribuição de parceiro para obter a competência de Business Applications de nuvem
 
@@ -125,7 +125,7 @@ Consulte as seguintes tabelas para obter detalhes:
 | Métrica de PCI | Indicador de desempenho: nova receita de rede | Indicador de desempenho: adições de novos clientes | Indicador de capacidade: consultores funcionais | Indicador de capacidade: crescimento funcional do consultor | Indicador de funcionalidade: desenvolvedores | Indicador de sucesso do cliente: novas implantações grandes | Indicador de sucesso do cliente: crescimento mensal ativo do usuário |
 |---|---|---|---|---|---|---|---|
 | **Máximo de pontos** | 10 pontos | 10 pontos | 15 pontos | 15 pontos | 5 pontos | 20 pontos | 25 pontos |
-| **Vela** | USD 300.000 | 10 | 10 | *\* Consulte a observação* | 5 | 5 | 25% |
+| **Vela** | USD 300.000 | 10 | 15 | *\* Consulte a observação* | 5 | 5 | 25% |
 | **Desenvolvimento** | $150000 | 5  | 5  |*\* Consulte a observação* | 2 | 1 | 25% |
 
 *\* Observação: os destinos de crescimento diferem com base no número de consultores de linha de base e na opção específica que um parceiro usa para obter pontos. Para saber mais sobre as opções para obter pontos ou metas de crescimento específicas de cada opção, confira [definições para o crescimento funcional do consultor](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
@@ -187,8 +187,8 @@ A nova receita líquida é um [indicador de desempenho](partner-contribution-ind
   - Envolvimento do cliente – os produtos qualificados incluem: vendas, atendimento ao cliente, serviço de campo, automação do serviço de projeto, marketing, vendas de relações da Microsoft, plano 1, talento e membro da equipe empresarial.
   - Os produtos de finanças e qualificação de operações incluem: operações unificadas, finanças, gerenciamento de cadeia de fornecedores, varejo, comércio, plano 2, realidade misturada, talento e membro da equipe empresarial.
 
-- Os canais de vendas incluem o EA (Enterprise Agreement), o CSP (provedor de soluções de nuvem) e o Web Direct.
-- Por Enterprise Agreement somente receita: essa receita inclui a receita do primeiro ano do contrato. A receita recorrente do segundo e do terceiro anos não está incluída.
+- Os canais de vendas incluem o EA (Contrato Enterprise), o CSP (provedor de soluções de nuvem) e o Web Direct.
+- Por Contrato Enterprise somente receita: essa receita inclui a receita do primeiro ano do contrato. A receita recorrente do segundo e do terceiro anos não está incluída.
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Definições para a métrica de PCI #2-net Customer ADDS
 
@@ -214,7 +214,7 @@ O net Customer ADDS é um [indicador de desempenho](partner-contribution-indicat
   > [!NOTE]
   > Para obter detalhes sobre os mercados desenvolvidos versus desenvolver, consulte essas [definições de Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
-- Os canais de vendas incluem o EA (Enterprise Agreement), o CSP (provedor de soluções de nuvem) e o Web Direct.
+- Os canais de vendas incluem o EA (Contrato Enterprise), o CSP (provedor de soluções de nuvem) e o Web Direct.
 
 - Para vários parceiros/mesmo cliente ou cliente trabalhando diretamente com a Microsoft: há diferentes cálculos de **acréscimos de clientes** e **clientes perdidos** para casos em que vários parceiros estão associados ao mesmo cliente por meio de assinaturas diferentes ou para casos em que o cliente já pode estar trabalhando diretamente com a Microsoft. Esses cálculos aparecem abaixo.
 

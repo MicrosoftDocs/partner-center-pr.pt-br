@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
-ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
+ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94983327"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530656"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Como relatar problemas com o Partner Center e enviar quaisquer informações de log ou diagnóstico
 
@@ -53,7 +53,7 @@ Se o problema exigir uma conversa com o defensor do suporte, você poderá agend
 
 2. O Partner Center verifica a disponibilidade do calendário do defensor do suporte.
 
-1. Quando você agenda um compromisso, o Partner Center envia a você um convite de calendário com informações sobre como o defensor do suporte entrará em contato com você, para que você possa acompanhar esse compromisso em seu próprio calendário de trabalho.
+1. Quando você agenda um compromisso, o Partner Center envia a você um convite de calendário com informações sobre como o defensor do suporte entrará em contato com você, para que você possa acompanhar esse compromisso em seu próprio calendário de trabalho.  Embora essa funcionalidade ainda esteja em versão prévia, o convite por email e calendário estará em inglês, mas o defensor será capaz de dar suporte a você no idioma que você selecionou ao criar seu tíquete.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Data e Hora":::
 

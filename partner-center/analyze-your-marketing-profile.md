@@ -9,14 +9,14 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c3ca88d367ea9dea8df1bb2bb4945ecc7b900b26
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776759"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530826"
 ---
-# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analise seus leads-Veja como você atrai clientes alvo e indicações potenciais
+# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analise seus leads – Veja como você atrai clientes-alvo e indicações potenciais
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
@@ -24,11 +24,6 @@ https://go.microsoft.com/fwlink/?linkid=849120
 **Funções apropriadas**
 
 - Administrador de indicações
-
-**Aplica-se a**
-
-- Leads do Marketplace
-- Clientes potenciais qualificados
 
 A página **clientes potenciais** na seção **análise** em referências permite que você veja como suas referências estão sendo executadas. Revise essas métricas regularmente para ajudar a identificar tendências ou áreas que precisam de atenção e comece a direcioná-las para as suas metas de negócios.
 
@@ -115,3 +110,7 @@ Pode haver várias razões pelas quais você está obtendo um gráfico em branco
 
 > [!TIP]
 > Para ver como suas oportunidades de venda conjuntas estão sendo executadas, examine a [página de informações sobre oportunidades de venda](referral-insights.md).
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Gerenciar vendas potenciais](manage-leads.md)
