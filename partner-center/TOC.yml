@@ -118,6 +118,9 @@
     - name: Contrato de Parceiro da Microsoft – CSPs
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
+    - name: Gerenciar locais
+      href: manage-locations.md
+      displayName: 'mpn, csp'
     - name: Como os provedores indiretos podem ajudar os revendedores a adotar a MPA
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -197,9 +200,6 @@
         - name: Atualizar seu perfil de parceiro
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Gerenciar locais
-          href: manage-locations.md
-          displayName: 'mpn, csp'
         - name: Ser um Fornecedor de Painel de Controle
           href: enroll-as-cpv.md
           displayName: csp
