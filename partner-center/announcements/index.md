@@ -8,20 +8,24 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/28/2021
-ms.openlocfilehash: 6e5a9f4bcc9918a78833121c22c410aac9fac79c
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.date: 02/03/2021
+ms.openlocfilehash: 9002e77d364985ffec170dbf3887dde0ab324746
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042694"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552417"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
 Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos essas informações com frequência, portanto, visite a página regularmente!
 
-| **Categoria** | **Comunicados de janeiro de 2021** | **Comunicado** |
+|**Categoria**|**Comunicados de fevereiro de 2021**|**Comunicado**|
 |---------|:---------|:---------|
+|Funcionalidades|[Responder à COVID-19: atualização do Microsoft Partner Network](2021-february.md#3)|4 de fevereiro|
+|Funcionalidades|[Novas atualizações para o módulo de referências no Partner Center](2021-february.md#2)|4 de fevereiro|
+|Local de trabalho moderno|[Reprovação e desativação das APIs de Qualificação PUT para o processo de validação do cliente de Educação até 25 de fevereiro de 2021 e de qualificação GET até 4 de maio de 2021](2021-february.md#1)|4 de fevereiro|
+| **Categoria** | **Comunicados de janeiro de 2021** | **Comunicado** |
 |Local de trabalho moderno|[Fase 1 agora ativa: Alteração da moeda de cobrança do parceiro da EU/EFTA e do Reino Unido para novas ofertas de comércio](2021-january.md#15)|28 de janeiro|
 |Local de trabalho moderno|[Alterações nos requisitos de integração do cliente do CSP (Provedor de Soluções na Nuvem)](2021-january.md#14)|28 de janeiro|
 |Funcionalidades|[MPA (Contrato de Parceiro da Microsoft) – Atualização para revendedores indiretos e novas perguntas frequentes](2021-january.md#13)|27 de janeiro|
