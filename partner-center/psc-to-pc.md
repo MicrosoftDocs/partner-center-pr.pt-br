@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: f84ceb4d17be7e02a4380e4da55d7ac199f43515
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215944"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588743"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guia para a venda em conjunto no Partner Center (PC) para parceiros migrando do PSC (Partner Sales Connect)
 
@@ -127,7 +127,70 @@ A tabela de migração de usuário tem os seguintes detalhes:
 3. O usuário já tem uma função de referência atribuída no Partner Center.
     - Você pode verificar a função existente do usuário. No canto superior direito do Partner Center, selecione **configurações** (o ícone de engrenagem) e, em seguida, **configurações de conta**. Quando você vir um segundo menu de navegação à esquerda, selecione **Gerenciamento de usuários** e procure o usuário.
 
-Depois de concluir a migração do usuário, use as seguintes diretrizes para decidir a estratégia de migração:
+## <a name="psc-deals-migration"></a>Migração de acordos do PSC
+
+Depois de concluir a migração do usuário, use o assistente de migração para negociações na página de oportunidades de venda para trazer todos os acordos abertos qualificados do PSC para o PC. **O link de migração de negociações será visível somente para administradores de referência com escopo de toda a organização no Partner Center.** Haverá um link chamado **"migração de acordo com o PSC"** no canto superior direito da página de oportunidades de venda conjunta, que abrirá o assistente de migração de negociações.
+
+Leia esta seção antes de iniciar a migração de negociações.
+
+**Qualificado para migração**
+
+Somente algumas ofertas estão qualificadas para a migração do PSC para o PC. Este assistente de migração foi criado para ajudar os parceiros a trazer seus negócios para o Partner Center, onde eles ainda estão trabalhando ativamente com seus clientes para fechar o negócio. **Somente as negociações que estão em estado aberto com detalhes válidos da conta de parceiro (ID de MPN válida) e que não estão em registro de negociação são elegíveis para a migração.**
+
+**Não qualificado para migração**
+
+- As negociações de avaliação de solução não estão qualificadas para a migração de negociações
+- As negociações de negócios de licenciamento OEM não estão qualificadas para a migração de negociações
+- Qualquer negociação marcada como ganha no PSC não é elegível para migração. O registro de negociações, se qualificado para as negociações marcadas como ganhas, deve ser concluído no PSC.
+
+## <a name="pre-requisites-for-deal-migration"></a>Pré-requisitos para a migração de negociações
+
+Antes de iniciar a migração do negócio do PC, siga as instruções abaixo para configurar as negociações no PSC para uma migração bem-sucedida.
+
+1. Todos os membros da equipe de vendas da sua empresa trabalhando nas negociações abertas são informados sobre essa migração.
+2. Os membros da equipe de vendas são treinados para usar o Partner Center para gerenciamento de negociações.
+3. As negociações têm todas as informações necessárias, conforme descrito abaixo.
+    - Detalhes da empresa do cliente, incluindo nome e endereço
+    - Detalhes de contato do cliente se for um negócio de venda conjunta
+    - Pelo menos uma solução
+    - Pelo menos um membro da equipe com todos os detalhes-primeiro nome, sobrenome, ID de email e número de telefone
+    - Valor da negociação
+    - Data de fechamento estimada do negócio
+    - Notas do parceiro
+
+Você pode usar os recursos de download e carregamento em massa no PSC para limpar os dados de todas as ofertas qualificadas.
+
+>[!Note]
+> A migração de negociações terá sucesso mesmo se os pré-requisitos acima não forem atendidos. Mas, você não poderá alterar o estado do negócio se qualquer um dos campos obrigatórios acima mencionados no Partner Center não estiver disponível. Em seguida, você precisará inserir todas as informações necessárias que estão faltando nas negociações no Partner Center para começar a trabalhar nelas. **É altamente recomendável limpar as negociações qualificadas no PSC antes de migrá-las para o Partner Center.**
+
+A migração de negociações no Partner Center é criada como uma experiência de clique. Tudo o que você precisa fazer é clicar no botão **"migrar negociações"** quando sua empresa estiver pronta para migrar os acordos qualificados. **Você não pode escolher as negociações que deseja migrar do PSC. Se você não quiser migrar qualquer um dos acordos para o Partner Center, mova-os para o estado fechado no PSC antes de iniciar a migração.**
+
+>[!Note]
+> Depois de iniciar a migração, **pode levar até 24 horas para que as negociações sejam migradas**.
+
+Quando a migração for concluída, a mensagem de faixa terá o status alterado para concluída com um link para o relatório de migração. Baixe o relatório para exibir os detalhes das negociações que foram migradas do PSC para o PC.
+
+O relatório inclui os detalhes abaixo.
+
+1. **ID do engajamento do Partner Center** -o identificador exclusivo no Partner Center para todas as negociações em um envolvimento. Há duas negociações – uma para o parceiro e uma para a Microsoft em um compromisso de venda covendedor no Partner Center.
+2. **ID de referência do Partner Center** -o identificador exclusivo no Partner Center para o negócio que pertence ao parceiro.
+3. **Nome do acordo** -identificador dado à negociação no PSC.
+4. **ID do acordo do PSC** -o identificador exclusivo no PSC para o negócio.
+5. **Erros** -para indicar se há algum erro ao migrar um negócio específico.
+
+Todas as negociações que foram migradas com êxito não estarão visíveis no PSC. Você pode trabalhar nas negociações migradas no PC. Não haverá nenhuma alteração nas interações com os vendedores da Microsoft para as negociações de venda conjuntas.
+
+As negociações migradas do PSC estarão disponíveis nas guias de entrada e saída com base na origem do negócio. Todas as negociações criadas por parceiros estarão disponíveis na guia saída e as negociações iniciadas pela Microsoft estarão disponíveis na guia de entrada do Partner Center. Haverá dois tipos de negociações que serão criadas após a migração.
+
+1. Os **negócios de venda conjuntas** – as negociações marcadas como covendas no PSC serão criadas como negociações de venda no Partner Center.
+2. Os negócios orientados por **parceiros** – as negociações que não estão marcadas como covendas serão criadas como negociações conduzidas por parceiros no Partner Center. Os negócios ministrados por parceiros são visíveis para os vendedores da Microsoft e podem ser atualizados para comercializar as negociações antes de atingir o estado do terminal (ganho, perdido). Além disso, as negociações conduzidas por parceiros são qualificadas para o registro de negociações se houver uma solução de incentivo qualificado no negócio.
+
+>[!Important]
+> Se houver erros devido a quais algumas negociações não puderam ser migradas, **você poderá reiniciar a migração do negócio clicando no botão "migrar negociações"**. Ele será habilitado somente se houver algumas negociações qualificadas que ainda devem ser migradas. Isso também será útil se você estiver na fase de transição em que algumas novas negociações serão criadas no PSC depois de iniciar a migração de negociações.
+
+Depois que todas as negociações forem migradas com êxito, haverá uma faixa mostrando **"não há negociações para migrar"** com o botão **"migrar negociações"** sendo **desabilitado**.
+
+Depois de concluir a migração de usuário e/ou a migração de acordo, use as seguintes diretrizes para decidir a estratégia de migração:
 
 Se sua empresa tiver um gerente de desenvolvimento de parceiros (PDM) – quando sua conta do Partner Center estiver configurada e os usuários tiverem se movido e tiverem funções e permissões, você poderá mover suas atividades de venda para o Partner Center. Informe ao PDM para fazer o comutador em vez de esperar até o prazo de conclusão da migração, o que permitirá que todas as suas novas negociações fluam para o Partner Center.
 
