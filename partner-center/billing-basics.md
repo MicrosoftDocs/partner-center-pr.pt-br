@@ -1,7 +1,7 @@
 ---
 title: Visão geral da cobrança do Partner Center
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 01/28/2021
 description: Conheça informações básicas sobre cobrança e fatura para parceiros CSP no Partner Center. Inclui como cobrar os clientes e como localizar e ler sua fatura.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570698"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042711"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Visão geral de cobrança para parceiros do programa CSP que trabalham no Partner Center 
 
@@ -53,7 +53,7 @@ Os tipos de cobrança da Central de Parceiros incluem a **cobrança baseada em l
 
 **Cobrança baseada em licença e em uso**: Você será cobrado por produtos na moeda do país ou da região em que está localizado. Você é cobrado igual, independentemente do local do cliente para quem você vendeu os produtos.
 
-**Cobrança única**: sua fatura será gerada no contexto da moeda do cliente. Isso significa que, se você for um parceiro que esteja realizando uma transação com clientes de diferentes moedas faturáveis, receberá uma fatura para cada tipo de moeda do cliente. Leia mais sobre a cobrança [única e recorrente](azure-plan-billing.md). 
+**Cobrança única**: Desde 28 de janeiro de 2021, os parceiros da região da EU/EFTA e do Reino Unido que têm novos clientes e clientes CSP existentes que adquiriram novas ofertas de comércio pela primeira vez cujos locatários foram criados antes de 11 de maio de 2020 estão sendo cobrados por essas compras na moeda da localização do parceiro.  Os parceiros localizados fora da região da EU/EFTA e do Reino Unido continuarão sendo cobrados na moeda da localização do parceiro. Leia mais sobre a cobrança [única e recorrente](azure-plan-billing.md). 
 
 ## <a name="invoices"></a>Faturas
 
@@ -86,6 +86,8 @@ Você verá **ajustes** e **créditos** em atraso em sua próxima fatura de cobr
 Os termos de pagamento são 60 dias corridos. As faturas devem ser pagas até data de vencimento (60 dias após a data de cobrança) ou sua conta estará inadimplente, o que pode afetar seu registro no CSP. 
 
 Você poderá recuperar funcionalidade completa de suas contas suspensas quando pagar o montante devido.
+
+Depois que as informações de cobrança corrigidas forem fornecidas, seu pagamento ficará visível na página de cobrança do Partner Center no prazo de 5 dias úteis.
 
 ### <a name="taxes-and-vat"></a>Impostos e IVA
 

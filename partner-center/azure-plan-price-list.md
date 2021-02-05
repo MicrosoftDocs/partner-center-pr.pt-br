@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: f11031c6071dadb427d2d5b93edd90af1a844131
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534719"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924963"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Lista de preços da nova experiência de comércio no CSP para Azure
 
@@ -27,7 +27,7 @@ ms.locfileid: "96534719"
 - Agente de vendas
 - Administrador de gerenciamento de usuário
 
-A lista de preços da nova experiência de comércio do Azure no CSP é publicada no Partner Center. A lista de preços é entregue dinamicamente em um arquivo preciso em tempo real e os preços são mostrados apenas em USD. No entanto, a cobrança é feita na moeda compatível, aplicável à moeda local do cliente. Para obter mais informações sobre a cobrança na moeda local do cliente, leia [Plano do Azure – cobrança](azure-plan-billing.md).
+A lista de preços da nova experiência de comércio do Azure no CSP é publicada no Partner Center. A lista de preços é entregue dinamicamente em um arquivo preciso em tempo real e os preços são mostrados apenas em USD. Desde 28 de janeiro de 2021, os parceiros da região da EU/EFTA e do Reino Unido que têm novos clientes e clientes CSP existentes que adquiriram novas ofertas de comércio pela primeira vez cujos locatários foram criados antes de 11 de maio de 2020 estão sendo cobrados por essas compras na moeda da localização do parceiro.  Os parceiros localizados fora da região da EU/EFTA e do Reino Unido continuarão sendo cobrados na moeda da localização do parceiro. Leia [Plano do Azure – cobrança](azure-plan-billing.md).
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Confira os preços das assinaturas nos preços do plano do Azure
 

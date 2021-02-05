@@ -1,7 +1,7 @@
 ---
 title: Vender assinaturas de software por meio do CSP
 ms.topic: how-to
-ms.date: 06/18/2020
+ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os parceiros do programa CSP podem usar o Partner Center para comprar, gerenciar, vender e cancelar as instâncias reservadas do Azure e as assinaturas do Server para os clientes.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd14a82472f1a102902f1962479640b1437ef495
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 07fdc40ae9232a5cf2636b309dae45a52538edf2
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000480"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098832"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vender assinaturas de software por meio do programa CSP (Provedor de Soluções na Nuvem)
 
@@ -86,33 +86,24 @@ Para comprar assinaturas de software em nome de um cliente:
 
 1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
-2. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
+2. No menu do centro de parceiros, **selecione** clientes e, em seguida, escolha um cliente na lista.
 
 3. Na página de detalhes do cliente, selecione **Adicionar produtos** e, em seguida, siga as instruções na tela para criar e fazer o pagamento do pedido. Todos os preços comerciais excluem impostos, com exceção da Austrália e do Brasil. Para a Austrália e o Brasil, o preço inclui impostos.
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Ativar e gerenciar assinaturas de software
 
-Depois de comprar a assinatura de software, siga as etapas a seguir para baixá-la.
+Depois de comprar seu software, os clientes precisarão baixá-lo. Use o procedimento a seguir para fazer isso.
 
 >[!NOTE]
->Você precisa ser um Agente administrativo para baixar o software e obter as chaves de ativação.
+>Você deve ser um agente administrador para obter as chaves e os downloads.
 
-1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
-
-2. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
-
-3. Acesse a página de detalhes do cliente e, em seguida, selecione **Software**. Você verá uma lista de todos os programas de software comprados em nome do cliente. 
-
-4. Expanda o produto que deseja baixar. No campo **Selecionar produto**, selecione a **Versão**, o **Idioma** e o **Tipo de arquivo/sistema operacional** desejados. 
-
-5. Selecione **Enviar** para exibir os produtos específicos. 
-
-6. Selecione **Obter chaves e downloads**. 
-
-7. Selecione **Baixar** para iniciar o download ou **Copiar link** para copiar o link e enviá-lo ao cliente. 
+1. Acesse a página de detalhes do cliente e, em seguida, selecione **Software**. Você verá uma lista de todos os programas de software comprados em nome do cliente.
+2. Copie o "link profundo" de **Link para chaves do produto (Product Keys) e downloads do Software** e compartilhe o link com o cliente. Quando selecionar esse link, ele será redirecionado para o Centro de Administração da Microsoft para baixar e obter as chaves do produto (Product Keys).
 
 >[!NOTE]
->Esse link vai expirar após duas semanas ou 50 downloads, o que ocorrer primeiro. Depois que o link expirar, retorne a essa página e selecione **Obter chaves e downloads** novamente para habilitar outras duas semanas ou 50 downloads. Você poderá fazer isso quantas vezes precisar. 
+>Somente os clientes podem ver as chaves do produto (Product Keys) e as informações de download no Centro de Administração da Microsoft. Os parceiros não podem ver essas informações.
+
+Se você ou seus clientes quiserem saber mais sobre o download das chaves de licença, confira [Baixar o software e as chaves de licença do produto](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Download de assinatura do servidor e chaves de licença disponíveis por meio do Centro de administração do Microsoft 365 para clientes 
 
@@ -155,7 +146,7 @@ Siga as etapas abaixo para cancelar uma compra:
 
 2. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
-3. No menu do centro de parceiros, **selecione**clientes e, em seguida, escolha um cliente na lista.
+3. No menu do centro de parceiros, **selecione** clientes e, em seguida, escolha um cliente na lista.
 
 4. Na página detalhes do cliente, selecione **Software** para ver a lista de programas de software comprados para o cliente. 
 

@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 819f90ca9a8467de4a8001a1b10f8409d3fb1b81
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658426"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924988"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nova experiência de comércio no CSP – Cobrança do Azure 
 
@@ -36,7 +36,7 @@ Este artigo explica como acessar e entender a estrutura do arquivo de reconcilia
 
 - **Condição de pagamento da fatura**: Líquido de 60 dias.
 
-- **Moeda da fatura**: Os parceiros continuarão sendo cobrados na moeda atribuída ao país do cliente. Por exemplo, se o parceiro cobrado estiver na Irlanda com clientes no Reino Unido, na Noruega e na Alemanha, ele receberá faturas/reconhecimentos em GBP, NOK e EUR.
+- **Moeda da fatura**: Desde 28 de janeiro de 2021, os parceiros da região da EU/EFTA e do Reino Unido que têm novos clientes e clientes CSP existentes que adquiriram novas ofertas de comércio pela primeira vez cujos locatários foram criados antes de 11 de maio de 2020 estão sendo cobrados por essas compras na moeda da localização do parceiro. Os parceiros localizados fora da região da EU/EFTA e do Reino Unido continuarão sendo cobrados na moeda da localização do parceiro.
 
 - **Incentivos para Parceiros**: pago 45 dias após o final do mês da fatura.
 
