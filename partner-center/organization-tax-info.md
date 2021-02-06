@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 4db0c81bf9f92975cc119215de76565e6acbadbd
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: b18f42f34951e09272d59c75b4588e962809ce62
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755615"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624197"
 ---
 # <a name="add-a-vat-id-to-your-billing-profile"></a>Adicionar uma ID de IVA ao seu perfil de cobrança
 
@@ -30,8 +30,8 @@ Você pode usar o procedimento a seguir para atualizar seu perfil de cobrança p
 
 ## <a name="update-your-billing-profile-with-your-vat-id"></a>Atualizar seu perfil de cobrança com sua ID de IVA
 
-1. Entre no painel do [Partner Center](https://partner.microsoft.com/dashboard/).
-2. No menu **configurações** (ícone de engrenagem), escolha **configurações de parceiro**.
+1. Entre no [Painel do Partner Center](https://partner.microsoft.com/dashboard/).
+2. No menu **configurações** (ícone de engrenagem), escolha **configurações de conta**.
 3. Na página **configurações da conta** , escolha **perfil de cobrança do parceiro** no menu da página.
 4. Na seção **dados financeiros** , escolha **Atualizar**.
 5. Para **ID de imposto da empresa**, especifique o número da ID de IVA.

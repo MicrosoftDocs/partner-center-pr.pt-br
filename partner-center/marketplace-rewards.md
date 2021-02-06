@@ -9,12 +9,12 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5822fbc1cb874f0199c4dc8e1e2c541a3ed3f9bd
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 7909b795be03bcd1b110da3f2c3b77019753730d
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114168"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624248"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Gerencie recompensas do Marketplace no Partner Center & ative os benefícios técnicos, de marketing e vendas
 
@@ -60,7 +60,7 @@ As informações de recompensas do Marketplace estão disponíveis por meio do l
 
 1. Como o administrador global ou administrador da conta, entre no PGA no Partner Center.
 
-2. Selecione **configurações** (no canto superior direito), **configurações de parceiro**, **locatários**. 
+2. Selecione **configurações** (no canto superior direito), **configurações de conta**, **locatários**. 
 
 3. Selecione **associar outro locatário do Azure ad** e selecione o locatário do Azure AD que você deseja associar ao PGA.
 

@@ -8,18 +8,15 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492459"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624231"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Criar e gerenciar o pagamento de incentivos e perfis de impostos no Partner Center
 
-**Aplica-se a:**
-
-- Partner Center
 
 **Funções apropriadas:**
 
@@ -64,7 +61,7 @@ As seções abaixo guiarão você pelo processo de criação e gerenciamento de 
    - Se você só puder fazer logon com o @onmicrosoft.com domínio, entre em contato com o administrador da conta para adicionar outros domínios à conta do Azure AD.
    - Se for solicitado que você selecione conta **corporativa ou de estudante** ou **conta pessoal**, selecione **conta corporativa ou de estudante**.
 
-2. Selecione o ícone de engrenagem para abrir o menu **configurações** e, em seguida, selecione **configurações de parceiro**.
+2. Selecione o ícone de engrenagem para abrir o menu **configurações** e, em seguida, selecione **configurações de conta**.
 
 3. No menu **configurações de conta** , selecione **pagamento e imposto**. 
 
@@ -72,7 +69,7 @@ As seções abaixo guiarão você pelo processo de criação e gerenciamento de 
 
 1. Entre no [painel do Partner Center](https://partner.microsoft.com/dashboard/)e selecione o ícone de engrenagem para abrir o menu **configurações** . 
 
-2. Selecione **configurações de parceiro**, expanda a **seção pagamento e imposto** e selecione **atribuição de perfil de pagamento e imposto**. 
+2. Selecione **configurações de conta**, expanda a **seção pagamento e imposto** e selecione **atribuição de perfil de pagamento e imposto**. 
    
    Será exibida uma lista de seus programas. Selecione a seta ao lado de um programa para ver os detalhes do perfil. 
 

@@ -9,18 +9,14 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c25bafc4b152ce0ca205860b3692293aaadf3636
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 24343b4cf7d51398410c33403efa7dc596adf891
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367170"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624044"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vender a setores especializados como educação, sem fins lucrativos e usuários do governo
-
-**Aplica-se a**
-
-- Partner Center
 
 **Funções apropriadas**
 
@@ -44,7 +40,7 @@ As etapas a seguir são aplicáveis somente a provedores indiretos e parceiros d
 
 1. No [painel](https://partner.microsoft.com/dashboard)do Partner Center, selecione o ícone de engrenagem no canto superior direito da janela para abrir **as configurações de conta**.
 
-2. No seu **Perfil de parceiro**, na seção **Informações sobre o programa**, procure pelas **Qualificações do revendedor**.
+2. Em seu **perfil legal**, na seção **informações do programa** , procure **qualificações do revendedor**.
 
 3. Se você não vir **Qualificações revendedor**, você ainda não foi autorizado a comprar as ofertas especiais.
 

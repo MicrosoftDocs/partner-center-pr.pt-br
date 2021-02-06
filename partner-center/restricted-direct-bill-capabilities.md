@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795757"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99623976"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Recursos de cobrança direta restritos e os requisitos necessários para parceiros de cobrança direto do CSP  
 
@@ -29,13 +29,13 @@ Os parceiros de cobrança direto devem atender aos novos [requisitos](direct-par
 
 Para confirmar se o acesso do locatário do parceiro de cobrança direto para direcionar recursos de cobrança foi restringido, siga estas etapas.
 
-1. Entre no painel do [Partner Center](https://partner.microsoft.com/dashboard).
+1. Entre no [Painel do Partner Center](https://partner.microsoft.com/dashboard).
 
-2. Vá para **configurações de parceiro**  ->  **perfil do parceiro** .
+2. Vá para **configurações de conta**  ->  **perfil legal**.
 
-3. Em **informações do programa** , procure **Microsoft Cloud status do provedor de solução** .
+3. Em **informações do programa**, procure **Microsoft Cloud status do provedor de solução**.
 
-4. Se o status do programa tiver um valor **restrito** , isso significa que o acesso do locatário do parceiro de cobrança direto aos recursos de cobrança direto foi restringido.
+4. Se o status do programa tiver um valor **restrito**, isso significa que o acesso do locatário do parceiro de cobrança direto aos recursos de cobrança direto foi restringido.
 
 ## <a name="affected-direct-bill-capabilities"></a>Recursos de fatura direta afetados
 
