@@ -1,19 +1,19 @@
 ---
 title: Perguntas frequentes sobre incentivos
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 02/05/2021
 description: Perguntas frequentes sobre os incentivos da Microsoft. Este artigo inclui perguntas sobre funções de usuário, como registrar ou o que fazer sobre mensagens de erro.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624214"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99835060"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Perguntas frequentes sobre incentivos
 
@@ -67,17 +67,11 @@ A razão provável para você não ver os incentivos é que você não tem as pe
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Alguns registros estão ausentes na página Visão geral de incentivos.
 
-Se você vir menos registros do que o esperado na página **visão geral** de incentivos, poderá fazer o seguinte.
+Se você tiver recebido um convite ou se tiver registrado no, um programa de incentivos que não está mais visível no painel, você deve verificar se tem o acesso apropriado. Somente usuários com função de administrador de incentivo ou de incentivo podem ver o programa. Consulte [localizar sua função](https://docs.microsoft.com/partner-center/find-your-role).
 
-1. Entre no painel [Partner Center](https://partner.microsoft.com/dashboard/).
+Se você precisar alterar sua função ou permissões, entre em contato com o administrador da conta ou global da sua empresa. Para saber quem são essas pessoas, leia [localizar seu administrador global](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin).
 
-2. Em **configurações**, selecione [Gerenciamento de usuários](https://partner.microsoft.com/pcv/users).
-
-3. Selecione seu nome para ver suas permissões.
-
-Se você precisar alterar sua função ou permissões, consulte o administrador global ou de conta da sua empresa.
-
-Observe que essa página exibirá apenas os registros associados à conta global do parceiro (PGA) associada ao locatário do Azure AD. Se sua empresa tiver mais de um PGA, você precisará ter credenciais diferentes para cada um.
+Observe que a página Visão geral exibirá apenas os registros associados à conta global do parceiro (PGA) associada ao locatário do Azure AD. Se sua empresa tiver mais de um PGA, você precisará ter credenciais diferentes para cada um.
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Quem devo entrar em contato se receber uma mensagem de erro ou precisar de ajuda durante o processo de registro?
 
