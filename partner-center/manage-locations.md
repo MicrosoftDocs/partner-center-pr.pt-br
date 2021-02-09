@@ -1,7 +1,7 @@
 ---
 title: Gerenciar locais na sua conta de parceiro
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 02/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como adicionar um novo local e como a ID do MPN do local é usada em programas de incentivo, negócios do CSP, assinaturas e outras transações.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21d82fc3ec4470d4941d3ca7436089d3e892439e
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098883"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624265"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Gerenciar os locais de sua conta do MPN e adicionar um novo local
 
@@ -47,6 +47,8 @@ Para adicionar uma nova conta para o negócio do CSP, primeiro verifique se voc�
  >Lembre-se de entrar usando as **novas** credenciais da **nova** conta do CSP. Não use suas credenciais existentes, pois o Partner Center reconhecerá que você já tem uma conta.
 
 2. Aceite o Contrato de Parceiro da Microsoft e ative a conta.
+
+1. Se você quiser se registrar como parceiro de fatura direta, leia [Requisitos para parceiros de fatura direta](direct-partner-new-requirements.md)
 
 ## <a name="view-your-mpn-locations"></a>Exibir seus locais do MPN
 
