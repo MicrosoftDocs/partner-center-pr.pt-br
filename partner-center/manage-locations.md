@@ -1,7 +1,7 @@
 ---
 title: Gerenciar locais na sua conta de parceiro
 ms.topic: how-to
-ms.date: 02/05/2021
+ms.date: 02/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como adicionar um novo local e como a ID do MPN do local é usada em programas de incentivo, negócios do CSP, assinaturas e outras transações.
@@ -9,14 +9,14 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 41ffaeaf0fb46659142949872295523546bb91c1
+ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624265"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "100005901"
 ---
-# <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Gerenciar os locais de sua conta do MPN e adicionar um novo local
+# <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Gerenciar os locais da sua conta do MPN e adicionar (ou excluir) um local
 
 
 **Funções apropriadas**
@@ -79,7 +79,11 @@ Para adicionar uma nova conta para o negócio do CSP, primeiro verifique se voc�
 :::image type="content" source="images/legal-biz.png" alt-text="Adicionar uma nova pessoa jurídica":::
 
 > [!NOTE]
-> Depois que um local for adicionado no Partner Center, ele não poderá ser removido. Você verá **MPN** no menu à esquerda do Partner Center se tiver usado a ID de MPN correta para entrar.
+> Depois que um local for adicionado no Partner Center, você não poderá removê-lo. Você verá **MPN** no menu à esquerda do Partner Center se tiver usado a ID de MPN correta para entrar.
+
+## <a name="delete-a-location"></a>Excluir um local
+
+Para excluir um local de sua conta, você precisará entrar em contato com o [Suporte a Parceiros](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b). Verifique se você entendeu o impacto que essa ação tem. Os locais excluídos não podem ser recuperados e qualquer coisa associada a essa ID de MPN específica não será mais reconhecida nem estará ativa para sua empresa.
 
 ## <a name="change-country-of-partner-global-account"></a>Alterar o país da conta global do parceiro 
 
