@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: e450e109205481ff9c973935583307bf965e02ee
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 7195dbd9bb9a862b7b3064ed641739f04bcab512
+ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098866"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "99974749"
 ---
 # <a name="january-2021-announcements"></a>Comunicados de janeiro de 2021
 
@@ -587,8 +587,8 @@ As listas de preços com base em licenças para janeiro e fevereiro de 2021 incl
 
 Moedas afetadas: 
 
-- Os problemas de preço do Microsoft 365 E3 eram limitados apenas a estas moedas: JPY (iene (Japão)), GBP (libra esterlina), EUR (União Europeia), AUD (dólar australiano). 
-- Os problemas de preço do Microsoft 365 Business eram limitados apenas ao US$ (dólar americano). 
+- Os problemas de preço do Microsoft 365 E3 eram limitados apenas a estas moedas: JPY (iene [Japão]), GBP (libra esterlina), EUR (União Europeia) e AUD (dólar australiano). 
+- Os problemas de preço do Microsoft 365 Business Basic eram limitados apenas ao US$ (dólar americano). 
 
 Os parceiros devem fazer referência às listas de preços prévias de janeiro e fevereiro disponíveis para encontrar os preços corretos. 
 

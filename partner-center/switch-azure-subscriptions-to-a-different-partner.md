@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 992dd7f9901efd0176395fb626e4048d5229e82b
-ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
+ms.openlocfilehash: 94df138eb94d79fb0e472744f19337ad536eb90d
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "91980237"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281249"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Saiba como transferir as assinaturas do Azure de um cliente para outro parceiro
 
@@ -53,9 +53,9 @@ Para alternar os serviços ou assinaturas do Azure de um cliente para um parceir
    
    5. Na etapa 2, selecione **C-impacto mínimo** e escolha **outras perguntas gerais** como o tipo de problema.
    
-   6. Faça o download do [formulário de transferência de assinatura do CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
+   6. Faça o download do [formulário de transferência de assinatura do CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC).
 
-3. O parceiro da assinatura: preencha o [formulário de transferência de assinatura de CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA), assine-o e envie-o para o cliente. 
+3. O parceiro da assinatura: preencha o [formulário de transferência de assinatura de CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC), assine-o e envie-o para o cliente. 
 
    Para preencher o formulário, você precisará das informações a seguir:
 
@@ -92,7 +92,7 @@ Para alternar os serviços ou assinaturas do Azure de um cliente para um parceir
      ```
 
      >[!NOTE]
-     > A ID de **locatário** do cliente aparece no Partner Center como a **ID da Microsoft**do cliente. Para localizar a ID da Microsoft (ID do locatário) de um cliente específico, entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center. Em seguida, selecione **clientes** no menu. Localize o cliente na lista. Selecione a seta para baixo para expandir a listagem do cliente. Você verá informações sobre o *nome de domínio* do cliente e a ID da **Microsoft**do cliente. Use a **ID da Microsoft** de 16 dígitos no commandlet do PowerShell.
+     > A ID de **locatário** do cliente aparece no Partner Center como a **ID da Microsoft** do cliente. Para localizar a ID da Microsoft (ID do locatário) de um cliente específico, entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center. Em seguida, selecione **clientes** no menu. Localize o cliente na lista. Selecione a seta para baixo para expandir a listagem do cliente. Você verá informações sobre o *nome de domínio* do cliente e a ID da **Microsoft** do cliente. Use a **ID da Microsoft** de 16 dígitos no commandlet do PowerShell.
 
    - Exibir funções na conta, incluindo parceiros CSP anteriores:
 

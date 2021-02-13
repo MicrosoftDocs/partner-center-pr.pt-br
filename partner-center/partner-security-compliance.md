@@ -9,27 +9,22 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 673728ad03d6617fa60ba4119f0ebbbaaa4ce328
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 3f521e05fbf0b3a6c209a84ed9ab53d2502960a5
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132956"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624146"
 ---
 # <a name="security-requirements-status-report"></a>Relatório de status dos requisitos de segurança
 
-**Aplica-se a**
-
-- Todos os parceiros no programa Provedor de Soluções na Nuvem
-- Todos os Fornecedores do Painel de Controle
-- Todos os consultores
-
-**Usuários apropriados**
-- Todos os usuários habilitados, incluindo usuários convidados
+**Funções apropriadas**
+- Fornecedores de painel de controle
+- Administradores globais
 
 Este artigo explica o relatório de status dos requisitos de segurança no Partner Center. Este relatório fornece métricas de conformidade nos [requisitos de segurança de parceiro](partner-security-requirements.md) para MFA (autenticação multifator) dos usuários no seu locatário do parceiro.
 
-Para acessar esse relatório no [Partner Center](https://partner.microsoft.com/dashboard), acesse **Configurações** > **Configurações de parceiro** > **Status de requisitos de segurança**. O relatório é atualizado diariamente e reflete os dados de logon dos últimos sete dias.
+Para acessar esse relatório no [Partner Center](https://partner.microsoft.com/dashboard), acesse **Configurações** > **Configurações de conta** > **Status de requisitos de segurança**. O relatório é atualizado diariamente e reflete os dados de logon dos últimos sete dias.
 
 >[!NOTE]
 >O relatório de status dos requisitos de segurança é compatível apenas com o Partner Center. Ele não está disponível no Microsoft Cloud for US Government nem no Microsoft Cloud Alemanha. É altamente recomendável que todos os parceiros que negociam em uma nuvem soberana (governo dos EUA e Alemanha) adotem esses novos requisitos de segurança imediatamente. No entanto, esses parceiros não precisam atender aos novos requisitos de segurança no momento. Futuramente, a Microsoft fornecerá detalhes adicionais sobre a imposição desses requisitos de segurança para nuvens soberanas.
@@ -107,7 +102,7 @@ Entenda se a implementação atual só impõe a MFA em condições específicas.
 
 Se estiver usando uma solução de MFA de terceiros, identifique como você a está integrando ao Azure AD. Em geral, há dois métodos, incluindo a federação e controles personalizados:
 
-* **Federação de identidade** – Quando o Azure AD receber uma solicitação de autenticação, ele redirecionará o usuário para o provedor de identidade federada para autenticação. Após a autenticação bem-sucedida, o provedor de identidade federada redirecionará o usuário de volta ao Azure AD juntamente com um token SAML. Para que o Azure AD reconheça que o usuário concluiu a verificação de MFA ao autenticar no provedor de identidade federada, o token SAML deve incluir a declaração *authenticationmethodsreferences* (com o valor *multipleauthn* ). Verifique se o provedor de identidade federada é compatível com a emissão de tal declaração. Em caso afirmativo, verifique se o provedor de identidade federada foi configurado para fazer isso. Se a declaração estiver ausente, o Azure AD (e, portanto, a Central de Parceiros) não saberá que o usuário concluiu a verificação da MFA e a declaração ausente poderá fazer com que a métrica não seja igual a 100%.
+* **Federação de identidade** – Quando o Azure AD receber uma solicitação de autenticação, ele redirecionará o usuário para o provedor de identidade federada para autenticação. Após a autenticação bem-sucedida, o provedor de identidade federada redirecionará o usuário de volta ao Azure AD juntamente com um token SAML. Para que o Azure AD reconheça que o usuário concluiu a verificação de MFA ao autenticar no provedor de identidade federada, o token SAML deve incluir a declaração *authenticationmethodsreferences* (com o valor *multipleauthn*). Verifique se o provedor de identidade federada é compatível com a emissão de tal declaração. Em caso afirmativo, verifique se o provedor de identidade federada foi configurado para fazer isso. Se a declaração estiver ausente, o Azure AD (e, portanto, a Central de Parceiros) não saberá que o usuário concluiu a verificação da MFA e a declaração ausente poderá fazer com que a métrica não seja igual a 100%.
 
 * **Controle Personalizado** – O Controle Personalizado do Azure AD não pode ser usado para identificar se um usuário concluiu a verificação da MFA por meio de uma solução de MFA de terceiros. Como resultado, todo usuário que tenha concluído a verificação da MFA por meio de um controle personalizado sempre aparecerá no Azure AD (e, em seguida, no Partner Center) como se não houvesse concluído a verificação da MFA. Sempre que possível, é recomendável que você alterne para o uso da Federação de Identidade em vez do Controle Personalizado ao se integrar com o Azure AD.
 

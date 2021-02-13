@@ -1,52 +1,36 @@
 ---
 title: Renovar suas ofertas do MPN
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 02/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Renovar as ofertas da Microsoft Partner Network (MPN) para Microsoft Action Pack e competências - a janela de renovação começa no aniversário da data da compra mais um dia.
+description: Renove as ofertas do MPN (Microsoft Partner Network) para competências e especializações avançadas. A janela de renovação começa no aniversário da data da compra mais um dia.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 20ea64ffa15ae5f2370e9194bd3f9907c498a4e9
-ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
+ms.openlocfilehash: f254c3353a49a8aa65703ef123e727b0a9ac4a85
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "88846916"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624129"
 ---
-# <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>Renove as ofertas de MPN para Microsoft Action Pack e competências durante a janela de renovação
+# <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Renovar suas ofertas do MPN para competências e especializações avançadas durante a janela de renovação
 
 ### <a name="applies-to"></a>Aplica-se a
 
 - Partner Center
 
-As competências de prata e ouro do Microsoft Action Pack são ofertas destinadas a membros do Microsoft Partner Network e que exigem renovação anual. Sua janela de renovação começa um dia depois do aniversário da data da compra. Por exemplo, se você comprou o Microsoft Action Pack em 1º de setembro de 2018, a janela de renovação começa em 2 de setembro de 2019. Você pode renovar o Microsoft Action Pack e as competências na Central de Parceiros. Em Ofertas de associação, você encontrará as ofertas que comprou e poderá localizar a data de aniversário delas na coluna de data de início da renovação. A associação ao Microsoft Partner Network em si não requer renovação anual. 
+## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Responder à COVID-19: atualização do Microsoft Partner Network
 
-Para saber mais, selecione o link apropriado abaixo: 
+A Microsoft está oferecendo a extensão de competência (com exceção da competência Cloud Business Applications) e da extensão de especialização avançada para os parceiros com DA (datas de aniversário) entre 1º de janeiro e 30 de junho de 2021. Examine nossa [postagem no blog do parceiro](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) para obter mais informações.
 
-- [Competências](learn-about-competencies.md)
-
-- [Microsoft Action Pack](mpn-get-action-pack.md)
-
-- [Como gerenciar seus benefícios](manage-your-partner-network-benefits.md)
-
-## <a name="renewal-reminders"></a>Lembretes de renovação 
+## <a name="renewal-reminders"></a>Lembretes de renovação
 
 Você tem 30 dias após a data de aniversário para renovar. Seus benefícios permanecem durante esse período. 15 dias antes da data de aniversário, a Microsoft o lembrará do seu futuro aniversário. Você receberá outro lembrete 23 dias após a data de aniversário. Se renovar durante essa janela de aniversário mais 30 dias, os benefícios permanecerão intactos. Se não renovar dentro da janela de renovação, você perderá seus benefícios e suas competências.
 
 Se você renovar durante a janela de renovação, a nova data de aniversário será 365 dias após o aniversário atual.
-
-## <a name="responding-to-covid-19"></a>Responder à COVID-19:
-
-Para ajudá-lo a se concentrar no suporte aos seus clientes: 
-
-- **se a data de aniversário de sua competência for entre 1º de julho e 31 de dezembro de 2020**, estenderemos a competência ou as competências existentes até a próxima data de aniversário em 2021. Seus lembretes de renovação de competência serão atualizados de acordo com essa nova oferta. 
-
-- **Se sua competência estiver chegando perto da renovação**, você verá na Central de Parceiros que os requisitos foram atendidos. Para renovar, você precisará pagar o valor de competência durante a janela de renovação na página de Ofertas de associação. 
-
-- **Se a janela de renovação já passou**, você pode reativar a competência e obter acesso a recursos e benefícios pagando o valor na página Ofertas de associação. Essa extensão estará disponível até 31 de dezembro de 2020.
 
 ### <a name="how-to-view-competency-renewal-information"></a>Como exibir informações sobre a renovação de competência
 
@@ -56,7 +40,13 @@ Para ajudá-lo a se concentrar no suporte aos seus clientes:
 
 3. Selecione uma de suas competências. Você verá um aviso de que recebeu uma isenção dos requisitos até a data da próxima renovação.
 
-4. Para aproveitar essa oferta, acesse **Ofertas de associação**. Talvez seja necessário pagar o valor de competência para concluir o processo, dependendo do status de compra ou renovação da sua competência. 
+4. Para aproveitar essa oferta, acesse **Ofertas de associação**. Talvez seja necessário pagar o valor de competência para concluir o processo, dependendo do status de compra ou renovação da sua competência.
 
 Para aproveitar a extensão, você precisa ter movido sua associação do PMC (Partner Membership Center) para a Central de Parceiros para poder renovar sua competência e pagar o valor. Se você não tiver movido sua associação, [obtenha mais informações](prepare-pmc-pc-migration.md) e [faça a transição](https://partners.microsoft.com/partnerprogram/Welcome.aspx) hoje mesmo.  
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Competências](learn-about-competencies.md)
+
+- [Como gerenciar seus benefícios](manage-your-partner-network-benefits.md)
 

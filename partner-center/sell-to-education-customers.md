@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5af6ae0d3c11d2ea59e4b8ef2224393e48d6a3df
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: a101c3d29b947950179ca0ae446f049ccf785bb8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916857"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281315"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Como vender ofertas para clientes educativos e como criar um cliente de educação no Partner Center
 
@@ -27,7 +27,7 @@ ms.locfileid: "97916857"
 
 ## <a name="create-an-education-customer"></a>Criar um cliente educacional
 
-Este artigo explica como criar um cliente de educação no Partner Center e vender produtos educativos para eles. Ele também aborda como exibir o status de verificação e reenviar a solicitação de verificação, se necessário.
+Este artigo explica como criar um cliente de educação no Partner Center e vender produtos educativos para eles. Ele também aborda como exibir o status de verificação e reenviar a solicitação de verificação, se necessário. As ofertas de educação estão atualmente **disponíveis apenas para serviços baseados em licença** , como Microsoft 365, Dynamics, Intune etc. Ele não está disponível para outros tipos (assinaturas de software, software permanente ou produtos do Azure).
 
 > [!IMPORTANT]
 > A Microsoft verifica cada locatário de cliente educativo recém-criado para garantir que eles sejam qualificados para ofertas educacionais.  Certifique-se de inserir as informações necessárias de forma mais precisa e total possível para evitar atrasos no processo de verificação.
