@@ -9,7 +9,7 @@
     - name: Parceiro da Microsoft
       href: mpn-overview.md
       displayName: mpn
-    - name: Criar uma conta do Partner Center
+    - name: Criar uma conta do MPN no Partner Center
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
     - name: Obter um email de trabalho
@@ -47,6 +47,9 @@
           displayName: 'renew, mpn'
         - name: Renovar suas ofertas
           href: renew-mpn-offers.md
+          displayName: mpn
+        - name: Solicitar um reembolso
+          href: mpn-refund-request.md
           displayName: mpn
         - name: Encontrar seus benefícios do MPN
           href: mpn-find-benefits.md
@@ -86,6 +89,9 @@
           displayName: mpn
         - name: Benefícios de entrada no mercado
           href: mpn-learn-about-go-to-market-benefits.md
+          displayName: mpn
+        - name: Demonstrações para parceiros do MPN
+          href: mpn-demos.md
           displayName: mpn
         - name: Perguntas frequentes sobre os benefícios
           href: benefits-faq.md
