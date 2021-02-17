@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/05/2021
-ms.openlocfilehash: 9dd646b693f718f47c2f5edd4778836694fb0954
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.openlocfilehash: 6698a56aa90c20db22c2dd6765cbec9b310bc40a
+ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588726"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "100490148"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,6 +22,9 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 |**Categoria**|**Comunicados de fevereiro de 2021**|**Comunicado**|
 |---------|:---------|:---------|
+|Funcionalidades|[Apresentação de Tópicos do Microsoft Viva](2021-february.md#7)|12 de fevereiro|
+|Ofertas/mercados|[Mudanças de preço do Microsoft 365 E3 disponíveis em março de 2021](2021-february.md#6)|11 de fevereiro|
+|Ofertas/mercados|[Lista de preços de versão prévia baseada em licença atualizada para NOK](2021-february.md#5)|10 de fevereiro|
 |Funcionalidades|[As avaliações Premium, um complemento para o Compliance Manager, estarão disponíveis em 1º de março de 2021](2021-february.md#4)|5 de fevereiro|
 |Funcionalidades|[Responder à COVID-19: atualização do Microsoft Partner Network](2021-february.md#3)|4 de fevereiro|
 |Funcionalidades|[Novas atualizações para o módulo de referências no Partner Center](2021-february.md#2)|4 de fevereiro|
@@ -63,7 +66,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 |Funcionalidades|[Alteração da moeda de cobrança do parceiro da EU/EFTA para novas ofertas de comércio](2020-november.md#10)|17 de novembro|
 |Funcionalidades|[Limitação de API para APIs do Partner Center](2020-november.md#9)|17 de novembro|
 |Funcionalidades|[409 erros devido a solicitações de MCA duplicadas](2020-november.md#8)|16 de novembro|
-|Capacidades|[Testes disponíveis: atualizações de API do Partner Center e aprimoramentos da IU (interface do usuário) para obter o processo de validação do cliente de Educação](2020-november.md#7)|10 de novembro|
+|Funcionalidades|[Testes disponíveis: atualizações de API do Partner Center e aprimoramentos da IU (interface do usuário) para obter o processo de validação do cliente de Educação](2020-november.md#7)|10 de novembro|
 |Capacidades|[Expansão do conteúdo do parceiro de licenciamento comercial na Galeria de Preparação de Operações](2020-november.md#6)|2 de novembro|
 |Ofertas/mercados|[Lançamento de SKU das Salas do Microsoft Teams Premium](2020-november.md#5)|2 de novembro|
 |Ofertas/mercados|[Novos SKUs de Comunicações Avançadas do Microsoft Teams para a GCC (Nuvem da Comunidade Governamental) estarão disponíveis em breve](2020-november.md#4)|2 de novembro|
@@ -119,7 +122,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 | **Categoria** | **Comunicados de julho de 2020** | **Data** |
 |Ofertas/mercados|[Alterações nas inicializações do Enterprise Voice e da Discagem Estendida de Audioconferência](2020-july.md#10)|31 de julho|
 |Funcionalidades|[Futuras alterações nas APIs do Partner Center](2020-july.md#9)|28 de julho|
-|Capacidades|[Lançamento de SDK na versão prévia do .NET Standard v1.16.1](2020-july.md#8)|21 de julho|
+|Funcionalidades|[Lançamento de SDK na versão prévia do .NET Standard v1.16.1](2020-july.md#8)|21 de julho|
 |Capacidades|[Incentivo do CSP (Provedor de Soluções na Nuvem) para ofertas qualificadas do marketplace comercial da Microsoft aprimorado para o ano fiscal de 2021](2020-july.md#7)|22 de julho|
 |Capacidades|[Novas funcionalidades adicionadas aos relatórios de Insights no Partner Center ](2020-july.md#6)|16 de julho|
 |Ofertas/mercados|[Software perpétuo no programa Provedor de Soluções na Nuvem ](2020-july.md#5)|15 de julho|
