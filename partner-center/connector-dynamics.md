@@ -1,19 +1,19 @@
 ---
 title: O conector de televenda para o centro de parceiros do Dynamics 365 CRM
 ms.topic: how-to
-ms.date: 05/27/2020
+ms.date: 02/16/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Sincronize as referências no Partner Center com seu conector de televenda para o Dynamics 365 CRM. Os vendedores podem, então, vender com a Microsoft de dentro de seus sistemas de CRM.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 18a54bf777cb987e8f486f85afcf277e04c1055c
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: e465130b96886cf2bb77bcd94f56c1a12545a5d5
+ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556354"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "100645669"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Conector de venda conjunta para Dynamics 365 CRM – visão geral
 
@@ -22,7 +22,7 @@ ms.locfileid: "96556354"
 - Administrador de indicações
 - Administrador do sistema ou personalizador do sistema no CRM
 
-O conector de televenda do Partner Center permite que seus vendedores covendam-se com a Microsoft de dentro de seus sistemas de CRM. Eles não precisarão ser treinados para usar o Partner Center para gerenciar acordos de venda. Use os conectores de venda conjunta, para criar uma nova referência de cooperação para envolver um vendedor da Microsoft, receber referências do vendedor da Microsoft, aceitar/recusar referências, modificar dados de negociações, como valor de negócio e data de fechamento. Você também pode receber todas as atualizações dos vendedores da Microsoft sobre esses acordos de venda conjunta. Você pode fazer todas as suas referências funcionarem no CRM de sua escolha, em vez de no Partner Center. 
+O conector de televenda do Partner Center permite que seus vendedores covendam-se com a Microsoft de dentro de seus sistemas de CRM. Eles não precisarão ser treinados para usar o Partner Center para gerenciar acordos de venda. Use os conectores de venda conjunta, para criar uma nova referência de cooperação para envolver um vendedor da Microsoft, receber referências do vendedor da Microsoft, aceitar/recusar referências, modificar dados de negociações, como valor de negócio e data de fechamento. Você também pode receber todas as atualizações dos vendedores da Microsoft sobre esses acordos de venda conjunta. Você pode gerenciar todas as suas referências no CRM de sua escolha, em vez de no Partner Center. 
 
 A solução baseia-se na solução de automatização de energia da Microsoft e usa as APIs do Partner Center.
 
@@ -33,8 +33,9 @@ A solução baseia-se na solução de automatização de energia da Microsoft e 
 |ID de Microsoft Partner Network |Você precisa de uma ID de MPN válida|Para ingressar no [MPN](https://partner.microsoft.com/)|
 |Covenda pronta|Sua solução de IP/serviços deve estar pronta para venda.|[Venda com a Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Conta do Partner Center|A ID de MPN associada ao locatário do Partner Center deve ser a mesma que a ID do MPN associada à sua solução de venda conjunta. Verifique se você pode ver suas referências de venda conjunta no portal do Partner Center antes de implantar os conectores.|[Gerenciar sua conta](create-user-accounts-and-set-permissions.md)|
-|Funções de usuário da Central de parceiros|O funcionário que irá instalar e usar os conectores deve ser um administrador de referências|[Atribuir permissões e funções de usuários](create-user-accounts-and-set-permissions.md)| |CRM do Dynamics 365|A função de usuário CRM é administrador do sistema ou personalizador do sistema|[Atribuir funções no Dynamics 365](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
-|Conta de fluxo de automatização de energia|Uma conta de [energia ativa automatizada](https://flow.microsoft.com) para o administrador do sistema do CRM ou o personalizador do sistema. Esse usuário deve entrar no [Power Automate](https://flow.microsoft.com) pelo menos uma vez antes da instalação.|
+|Funções de usuário da Central de parceiros|O funcionário que irá instalar e usar os conectores deve ser um administrador de referências|[Atribuir permissões e funções de usuários](create-user-accounts-and-set-permissions.md)| 
+|CRM do Dynamics 365|A função de usuário CRM é administrador do sistema ou personalizador do sistema|[Atribuir funções no Dynamics 365](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
+|Conta de fluxo de automatização de energia|Crie um novo ambiente de produção com o banco de dados para teste/preparo e produção. Se você tiver um ambiente de produção existente com o banco de dados, ele poderá ser usado novamente. O usuário que vai instalar a solução de conector precisa ter a licença automatizada de energia e acesso a esse ambiente. Você pode monitorar o progresso e obter mais detalhes se a instalação falhar na [automatização de energia](https://flow.microsoft.com/) clicando em ver histórico em soluções.|[Criar ou gerenciar ambiente](https://docs.microsoft.com/power-platform/admin/create-environment#create-an-environment-with-a-database)|
 
 ## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Instalar a sincronização de referências do Partner Center para o Dynamics 365 (solução de automatização de energia)
 
@@ -54,7 +55,8 @@ A solução baseia-se na solução de automatização de energia da Microsoft e 
 
 7. Isso abre a página onde você pode selecionar o ambiente CRM (Dynamics 365) para instalar o aplicativo.  Concorde com os termos e condições.
 
-8. Em seguida, você será direcionado para a página **gerenciar suas soluções** .  Navegue até "referências do Partner Center" usando os botões de seta na parte inferior da página. A **instalação agendada** deve aparecer ao lado da solução de referências do Partner Center. A instalação levará 10-15 minutos. 
+8. Você pode monitorar o progresso e obter mais detalhes se a instalação falhar na automatização de energia clicando em **Ver histórico** em **soluções**.
+ 
 
 9. Quando a instalação for concluída, navegue de volta para [Power Automate](https://flow.microsoft.com) e selecione **soluções** na área de navegação à esquerda. Observe que a **sincronização de referências do Partner Center para o Dynamics 365** está disponível na lista de soluções.
 
@@ -67,7 +69,7 @@ A solução baseia-se na solução de automatização de energia da Microsoft e 
 Antes de instalar, configurar e personalizar a solução de automatização de energia no ambiente de produção, certifique-se de testar a solução em uma instância de CRM de preparo.
 
 - Instale a solução de automatização de energia da Microsoft em uma instância de ambiente de preparo/CRM.
-- Faça uma cópia da solução e execute sua configuração e automatize as personalizações de fluxo no ambiente de preparo.
+- Configure e personalize a solução de automatização de energia da Microsoft no ambiente de preparo.
 - Teste a solução em uma instância de preparo/CRM. 
 - Em caso de sucesso, importe como solução gerenciada para a instância de produção. 
 
@@ -90,7 +92,7 @@ Antes de instalar, configurar e personalizar a solução de automatização de e
 
       2. Crie uma conexão clicando em **criar uma conexão**.
 
-         :::image type="content" source="images/cosellconnectors/dynamics1.png" alt-text="Criar conexão":::
+         :::image type="content" source="images/cosellconnectors/dynamics-1.png" alt-text="Criar conexão":::
 
       3. Procure por **referências do Partner Center (versão prévia)** na barra de pesquisa no canto superior direito.
 
@@ -99,25 +101,29 @@ Antes de instalar, configurar e personalizar a solução de automatização de e
       5. Em seguida, crie uma conexão de eventos do Partner Center para o usuário do Partner Center com as credenciais do administrador de referências.
 
       6. Crie uma conexão para Common Data Service (ambiente atual) para o usuário administrador do CRM.
-       
      
       7. Depois de adicionar todas as conexões, você deverá ver as seguintes conexões em seu ambiente:
 
-:::image type="content" source="images/cosellconnectors/dynamics2.png" alt-text="Conexões":::
+:::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Conexões":::
    
 ## <a name="edit-the-connections"></a>Editar as conexões
 
 1. Volte para a página **soluções** e selecione **solução padrão**. Selecione **referência de conexão (versão prévia)** clicando em **tudo**.
 
-:::image type="content" source="images/cosellconnectors/dynamics3.png" alt-text="Connect":::
+:::image type="content" source="images/cosellconnectors/dynamics-3.png" alt-text="Connect":::
 
 2. Edite cada uma das conexões uma por uma selecionando o ícone de três pontos. Adicione as conexões relevantes.
 
-:::image type="content" source="images/cosellconnectors/dynamics4.png" alt-text="Conexões listadas"::: 
+:::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Conexões listadas"::: 
 
-3.  Ative os fluxos na seguinte sequência:
+3.  Retorne à página soluções, selecione sincronização de referências do Partner Center para o Dynamics 365 e ative o fluxo clicando no ícone de três pontos ao lado de cada fluxo na sequência a seguir. Se você encontrar problemas ao ativar o fluxo, consulte as etapas de [personalização](connector-dynamics.md#customize-synchronization-steps) e [as etapas de solução de problemas](connectors-troubleshoot.md). 
+
+Ative os fluxos na seguinte sequência:
+
 - Registro do webhook do Partner Center (insider Preview)
 - Criar referência de co-venda – Dynamics 365 para o Partner Center (insider Preview)
+- Personalizar Criar ou obter detalhes do fluxo do Dynamics 365 
+- Partner Center para Dynamics 365-auxiliar (insider Preview)
 - Partner Center Microsoft co-vender atualizações de referência para o Dynamics 365 (insider Preview)
 - Partner Center para Dynamics 365 (insider Preview)
 - Dynamics 365 para o Partner Center (insider Preview)
@@ -129,101 +135,79 @@ Antes de instalar, configurar e personalizar a solução de automatização de e
 
 As APIs de webhook do Partner Center permitem que você se registre em eventos de alteração de recursos. Esses eventos de alteração são enviados para a URL como postagens HTTP.
 
-1. Para registrar sua URL, selecione o **registro do webhook do Partner Center (insider Preview)** fluxo automatizado de energia.
+1. Selecione **Partner Center para Dynamics 365 (insider Preview)**.
 
-2. Adicione conexões para o usuário do centro de parceiros (a) com referências credenciais de administrador (b.) os eventos do centro de parceiros conforme realçado abaixo
+2. Selecione o ícone **Editar** e selecione **quando uma solicitação HTTP é recebida**.
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Gatilho":::
-
-3. Ao fazer essas atualizações, você verá
-
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhooks":::
-
-4. Salve as alterações e selecione **Ativar**.
-
-   Para habilitar o parceiro do Partner Center a ouvir as alterações de evento, execute as seguintes etapas:
-
-5. Selecione **Partner Center para Dynamics 365 (insider Preview)**.
-
-6. Selecione o ícone **Editar** e selecione **quando uma solicitação HTTP é recebida**.
-
-7. Selecione o ícone de **cópia** para copiar a URL de postagem http fornecida.
+3. Selecione o ícone de **cópia** para copiar a URL de postagem http fornecida.
 
    :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="Copiar URL":::
 
-8. Agora, selecione o fluxo "registro do webhook do Partner Center (insider Preview)" automatizar fluxos de energia e selecione **executar**.
+4. Agora, selecione o fluxo "registro do webhook do Partner Center (insider Preview)" automatizar fluxos de energia e selecione **executar**.
 
-9. Verifique se a janela "executar fluxo" é aberta no painel direito e clique em **continuar**.
+5. Verifique se a janela "executar fluxo" é aberta no painel direito e clique em **continuar**.
 
-10. Insira os seguintes detalhes:
+6. Insira os seguintes detalhes:
 
-    1. **Ponto de extremidade de gatilho http**: URL copiada da etapa anterior
+   - **Ponto de extremidade de gatilho http**: URL copiada da etapa anterior
 
-    2. **Eventos a serem registrados**: "referência criada" e "referência atualizada"
+   - **Eventos a serem registrados**: selecione todos os eventos disponíveis ("referência criada", "referência-atualizada", "referência relacionada-criado", "relacionado à referência-atualizado")
 
-    3. **Substituir pontos de extremidade de gatilho existentes, se presente**: Sim (isso substitui todos os pontos de extremidade existentes.)
+   -**Substituir pontos de extremidade de gatilho existentes, se presente**: Sim, é importante observar que apenas uma URL pode ser registrada para um determinado evento de webhook. É importante observar que apenas uma URL pode ser registrada para um determinado evento de webhook. 
 
-11. Selecione **executar** e, em seguida, selecione **concluído.**
+7. Selecione **executar** e, em seguida, selecione **concluído.**
 
 O webhook agora pode escutar criar e atualizar eventos.
 
 ## <a name="customize-synchronization-steps"></a>Personalizar etapas de sincronização
 
-Quando as referências de venda cruzada são sincronizadas entre o Partner Center e o sistema CRM, os campos sincronizados no PC do Partner Center são listados aqui.
+Os sistemas de CRM são altamente personalizados e você pode personalizar a solução de automatização de energia com base na configuração do CRM.  Quando as referências de venda cruzada são sincronizadas entre o Partner Center e o sistema CRM, os campos que são sincronizados no PC do Partner Center são listados no [Guia de mapeamento de campo personalizado](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxL6S).
 
-Geralmente, os sistemas CRM são altamente personalizados. Você pode personalizar os fluxos de energia automatizada. Siga o guia de mapeamento de campo e, se necessário, faça as alterações apropriadas nas etapas de fluxos de energia automatizar.  Os mapeamentos do Microsoft Partner centers para CRM são fornecidos, mas com base no seu ambiente de CRM, você pode optar por personalizar ainda mais os campos.
+Siga o guia de mapeamento de campo e, se necessário, faça as alterações apropriadas em **[personalizar] criar ou obter detalhes de variáveis de ambiente ou fluxo do Dynamics 365**  . É recomendável não atualizar nenhum outro fluxo na solução Power Automate, pois isso pode afetar futuras atualizações da solução. 
 
-Várias etapas de cada um dos fluxos de energia automatizada podem ser personalizadas com base em suas necessidades. Veja a seguir exemplos de personalizações disponíveis:
+A seguir estão as personalizações disponíveis:
 
-1. Para personalizar os campos de criação ou atualização de eventos no Partner Center para a sincronização de referência do CRM: 
+- Marca de seleção no nome da oportunidade: por padrão, uma marca de seleção será exibida ao lado do nome da oportunidade para indicar que a sincronização entre o Partner Center e o Dynamics 365 CRM está ocorrendo com êxito. Da mesma forma, uma marca cruzada será exibida se a sincronização falhar. Para evitar adicionar verificação ou marca cruzada no nome da oportunidade, defina o valor atual da marca de seleção de exibição em nome da oportunidade variável de ambiente como não.
 
-    a. Selecione Partner Center para Dynamics 365 (insider Preview) ou Partner Center para Salesforce (insider Preview).
+- Valor de acordo: por padrão, o valor de negócio do Partner Center será sincronizado de e para **estimado** no CRM. Se você tiver um campo diferente no CRM para que o valor de acordo seja sincronizado:
 
-    b. Selecione **Editar** para editar/personalizar o fluxo de automatização de energia.
+    a.    Atualize o nome do campo de valor de acordo na variável de ambiente do Dynamics 365 com o nome do campo do CRM. Observe que você deve fornecer o nome do campo, não seu nome de exibição.
 
-    c. Selecione **(escopo) sincronizar o cliente potencial ou a oportunidade**.
+    b.    Edite **[Personalize] Crie ou Obtenha detalhes do fluxo do Dynamics 365**  e navegue até **criar ou atualizar** oportunidade no CRM e atualizar **criar uma nova oportunidade** e atualizar as ações de **oportunidade existentes** para atribuir o valor de **contrato** ao campo correto no CRM. Além disso, remova a **atribuição de dealvalue** do campo **receita estimada** .
 
-2. Para personalizar mapeamentos de campo de CRM (com base no guia mapeamentos de campo) para criar eventos, selecione **se for nova oportunidade compartilhada e, em seguida,**. Selecione a subetapa **se sim** e, em seguida, expanda **criando uma nova oportunidade no CRM**. Você pode editar os mapeamentos nesta seção usando o guia de mapeamento de campos.
+- Código do país da conta do cliente: é obrigatório fornecer um código de país de duas letras (ISO 3166) ao criar uma nova referência. Por padrão, o código do país será sincronizado de e para o campo de address1_country da conta no CRM. Se você tiver um campo diferente no CRM para o código do país para sincronizar:
 
-    d. Para personalizar os mapeamentos de campo do CRM (com base no guia mapeamentos de campo) para eventos de atualização, clique na etapa "(escopo) sincronizar o cliente potencial ou a oportunidade".
+   a.    Para um campo de código de país não pesquisado na conta que contém o código de duas letras:
 
-    e. Selecione **se for uma atualização para uma oportunidade e, em seguida,**. Selecione a subetapa **se sim** e, em seguida, expanda **se a diferença entre os objetos de oportunidade no Partner Center e no CRM, em seguida**.  
+   - Atualize o nome do campo de código do país da conta do cliente na variável de ambiente do Dynamics 365 com o nome do campo do CRM. Observe que você deve fornecer o nome do campo, não seu nome de exibição.
 
-    f. Selecione **se sim** seguido de **Atualizar oportunidade existente**
+   - Edite **[Personalize] Crie ou Obtenha detalhes do fluxo do Dynamics 365**  e navegue até criar ou obter conta de cliente na ação CRM para atribuir o valor país ao campo correto no CRM. Além disso, remova a atribuição de valor de país do campo endereço 1: país/região.
 
-3. Para personalizar os campos de sincronização de referência do CRM para PC para eventos de atualização:
+   b.    Para um campo de código de país baseado em pesquisa na conta:
 
-    a. Selecione **Editar**  para editar/personalizar o fluxo de automatização de energia.
+   - Adicione um novo campo personalizado em conta e preencha-o automaticamente com o código de país de duas letras (ISO 3166) com base no valor selecionado em campo baseado em pesquisa e vice-versa.
 
-    b. Selecione **(escopo) sincronizar a oportunidade**.
+   - Siga as etapas acima para campo de código de país não pesquisa para sincronizar o novo campo personalizado do CRM para o e do Partner Center.
 
-    c. Para personalizar mapeamentos de campo de CRM para eventos de atualização, selecione **se houver diferença entre os objetos de cliente potencial no Partner Center e no CRM**. 
+- Campos de oportunidade: se houver campos obrigatórios em oportunidade que precisem ser populados editar **[personalizar] criar ou obter detalhes do fluxo do Dynamics 365**  e navegue até **criar ou atualizar oportunidade** no CRM e atualizar **criar uma nova ação de oportunidade** para atribuir valores aos campos obrigatórios com base em seus requisitos de negócios.
 
-    d. Selecione a subetapa **se sim** e, em seguida, expanda a etapa **atualizar uma referência com dados de oportunidade**.
+- Campos de Lead: se houver campos obrigatórios no cliente potencial que precisem ser populados editar **[personalizar] criar ou obter detalhes do fluxo do Dynamics 365**  e navegue até **criar ou atualizar cliente potencial** no CRM e atualizar **criar uma nova ação de cliente potencial** para atribuir valores aos campos obrigatórios com base em seus requisitos de negócios.
 
-   Você pode editar os mapeamentos nesta seção com base no guia de mapeamento de campos.
+- Conta do cliente: quando uma nova referência é sincronizada do Partner Center para o CRM, a solução de automatização de energia tenta pesquisar uma conta existente no CRM usando o nome da empresa do cliente e o CEP. Se não encontrar uma, uma nova conta de cliente será criada no CRM. Para atualizar os critérios de pesquisa e novos detalhes de criação de conta, edite **[personalizar] criar ou obter detalhes do fluxo do Dynamics 365** e navegue até **criar ou obter conta de cliente** no CRM e **criar ação de conta de cliente**.
 
-4. Para personalizar os campos para a sincronização de referência do CRM para PC para criar eventos?
+## <a name="update-environment-variable"></a>Atualizar variável de ambiente
 
-   a. Selecione **Editar**  para editar/personalizar o fluxo de automatização de energia.
+Para atualizar um valor de variável de ambiente:
 
-   b. Selecione **(escopo) sincronizando referências.**
+1. Vá para a página de **soluções** e selecione **solução padrão**. Selecione a **variável de ambiente** clicando em tudo.
 
-   c. Para personalizar mapeamentos de campo de CRM (com base no guia mapeamentos de campo) para criar eventos, selecione **criar referência da Microsoft**.
+2. Selecione a variável de ambiente para o valor que precisa ser atualizado e clique no ícone **Editar** usando três pontos.
 
-   Você pode editar os mapeamentos nesta seção com base no guia de mapeamento de campos.
+3. Atualize o **valor atual** (não atualize o valor padrão) usando a opção **novo valor** e forneça o valor. O valor deve corresponder ao tipo de dados da variável, por exemplo, sim/nenhum tipo de dados aceitará Sim ou nenhum valor.
 
-Há duas variáveis de ambiente criadas:
+:::image type="content" source="images/cosellconnectors/dynamics-5.png" alt-text="Caixa de edição para valores padrão":::
 
-- Marca de seleção: significa se você precisará de um ícone de marca de seleção além das oportunidades sincronizadas bidirecionalmente entre o Partner Center e o Dynamics 365 CRM.
-
-- Sincronizar somente oportunidades de venda conjuntas: significa se você deseja sincronizar apenas as oportunidades de venda conjunta.
-
-Você pode optar por editar o valor padrão para as variáveis de ambiente.
-
-:::image type="content" source="images/cosellconnectors/dynamics5.png" alt-text="Caixa de edição para valores padrão":::
-
-## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>Sincronização de referência de cooperação bidirecional de ponta a ponta
+- Sincronização de referência de cooperação bidirecional de ponta a ponta
 
 Depois de instalar, configurar e personalizar a solução de automatização de energia, você pode testar a sincronização de referências de venda entre o Dynamics 365 e o Partner Center.
 
@@ -231,27 +215,38 @@ Depois de instalar, configurar e personalizar a solução de automatização de 
 
 Para sincronizar as referências no Partner Center e no Dynamics 365 CRM, a solução de energia automatizada claramente demarcates os campos de referência específicos da Microsoft. Essa identificação fornece às equipes do vendedor a capacidade de decidir quais referências eles desejam compartilhar com a Microsoft para fazer a venda.
 
-Um conjunto de campos personalizados está disponível como parte da entidade **oportunidade** . Um usuário administrador de CRM precisará criar uma seção de CRM separada com os campos personalizados de **oportunidade** .
+Um conjunto de campos e objetos personalizados será adicionado como parte da instalação da solução. Um usuário administrador de CRM precisará criar uma seção de CRM separada com os campos personalizados de **oportunidade** .
 
 Os campos personalizados a seguir devem fazer parte da seção CRM:
 
-- **Sincronizar com o Partner Center**: se deseja sincronizar a oportunidade com o Microsoft Partner Center
+- **Sincronizar com o Partner Center**: se deseja sincronizar a oportunidade com o Microsoft Partner Center. Por padrão, o valor desse campo é não e precisa ser definido explicitamente como sim pelo seu vendedor para compartilhar uma oportunidade com a Microsoft. As novas referências compartilhadas do Partner Center para o CRM terão esse valor de campo definido como Sim.
 
 - **Identificador de referência**: um campo de identificador somente leitura para a referência do Microsoft Partner Center
 
 - **Link de referência**: um link somente leitura para a referência no Microsoft Partner Center
+- **Como a Microsoft pode ajudar?**: a ajuda necessária da Microsoft para a referência. Para criar uma referência de covenda, selecione a ajuda apropriada necessária da Microsoft. Um contato de cliente deve estar associado à oportunidade de criar uma referência de covenda. Para criar uma referência não covendida, deixe esse campo desmarcado. Uma referência não covendida pode ser convertida em uma referência de covenda a qualquer momento, selecionando a opção apropriada de ajuda necessária.
 
-- **Como a Microsoft pode ajudar?**: ajuda necessária da Microsoft para a referência
+- **Visibilidade da referência do Microsoft Partner Center**: selecione visibilidade para a referência do Microsoft Partner Center. Tornando-o visível para os vendedores da Microsoft, uma referência não relacionada à venda pode ser convertida em uma venda conjunta. Quando a ajuda da Microsoft é necessária, a referência é visível para os vendedores da Microsoft por padrão. Depois de marcado como visível, este campo não pode ser revertido.
 
-- **Produtos**: lista de produtos associados a esta oportunidade
+- **Identificador do Microsoft CRM**: quando uma referência de parceria de venda é criada e aceita pela Microsoft, esse campo será preenchido com o identificador CRM da Microsoft.
+
+- **Produtos: obsoleto** – não use este campo ou adicione-o à seção CRM, ele estará disponível apenas para compatibilidade com versões anteriores. Em vez disso, use as soluções do Microsoft Partner Center.
 
 - **Auditoria**: uma trilha de auditoria somente leitura para sincronização com as referências do Partner Center
 
-Atualize o formulário oportunidade no Dynamics 365 CRM para incluir o campo soluções para produtos.
+- **Soluções do Microsoft Partner Center**: um objeto personalizado para associar soluções prontas para venda ou soluções da Microsoft com a oportunidade. Uma ou mais soluções podem ser adicionadas e/ou removidas da oportunidade. É obrigatório adicionar pelo menos uma solução de revenda pronta ou da Microsoft à oportunidade antes de compartilhá-la com a Microsoft. Para associar esse objeto à oportunidade, atualize o formulário de oportunidade no CRM:
 
-:::image type="content" source="images/cosellconnectors/dynamics6.png" alt-text="Formulário de oportunidade":::
+  Selecione a guia apropriada no formulário oportunidade e adicione uma subgrade, conforme mostrado abaixo:
 
-:::image type="content" source="images/cosellconnectors/dynamics7.png" alt-text="{alt-text}":::
+  :::image type="content" source="images/cosellconnectors/dynamics-6.png" alt-text="Formulário de oportunidade":::
+
+  :::image type="content" source="images/cosellconnectors/dynamics-7.png" alt-text="{alt-text}":::
+
+
+
+- Depois de adicionar as soluções da Microsoft, você pode preencher previamente os detalhes das soluções prontas para a venda para que seus vendedores não precisem adicioná-las. Para adicionar um novo detalhe da solução, vá para o objeto de detalhes da solução da Microsoft no CRM e clique em **adicionar registro** para adicionar uma entrada ou usar o **carregamento do Excel** para adicionar várias entradas.
+
+:::image type="content" source="images/dynamic-1a.png" alt-text="Detalhes da solução":::
 
 ### <a name="scenarios"></a>EXEMPLOS
 
@@ -259,25 +254,29 @@ Atualize o formulário oportunidade no Dynamics 365 CRM para incluir o campo sol
 
    1. Entre no ambiente do Dynamics 365 CRM com o usuário que tem visibilidade na seção **oportunidade** do CRM.
 
-   2. Verifique se a seção a seguir está presente quando você cria uma "nova oportunidade" no ambiente do Dynamics 365
+   2. Verifique se a seção Microsoft Partner Center está presente quando você cria uma "nova oportunidade" no ambiente do Dynamics 365
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Exemplo de seção de oportunidade mostrando informações do Microsoft Partner Center no Dynamics 365.":::
+   :::image type="content" source="images/dynamic-2a.png" alt-text="Nova oportunidade"::: 
 
-   3. Para sincronizar essa oportunidade com o Microsoft Partner Center, certifique-se de definir os seguintes campos no modo de exibição de cartão:
+   3. Para sincronizar essa oportunidade com o Partner Center, certifique-se de definir os seguintes campos no modo de exibição de cartão:
 
+      - **Como a Microsoft pode ajudar?**: para criar uma referência de covenda, selecione uma opção de ajuda apropriada.
+
+         :::image type="content" source="images/dynamic-3a.png" alt-text="Como obter os campos apropriados no modo de exibição de cartão":::
+
+      - **Contato do cliente**: para criar uma referência de venda conjunta, adicione um contato do cliente à oportunidade.
       - **Sincronizar com o Partner Center**: Sim
 
-      - **Como a Microsoft pode ajudar?**: selecione uma das seguintes opções:
+      - Soluções da Microsoft: para compartilhar uma referência com a Microsoft, adicione uma solução válida de covenda pronta ou Microsoft à oportunidade.
+       
+      
+      :::image type="content" source="images/dynamic-4a.png" alt-text="ID da solução":::
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Exemplo de seção de oportunidade no Dynamics 365 que mostra as opções de ajuda do Microsoft Partner Center ao lado de um campo chamado como a Microsoft pode ajudar?":::
+   4. Depois que a oportunidade for criada no Dynamics 365 com a opção sincronizar com o Partner Center definida como Sim, aguarde 10 minutos e entre em sua conta do Partner Center. Suas referências serão sincronizadas com o Dynamics 365 e o identificador de referência. O link de referência será preenchido. Em caso de falha, o campo de auditoria será preenchido com informações de erro.
+     
+    5. Da mesma forma, para uma oportunidade que tenha a opção "sincronizar com o Partner Center" definida como "Sim", se você atualizar a oportunidade no Dynamics 365 CRM, as alterações serão sincronizadas em sua conta do Partner Center.
 
-      - **Produtos**: IDs de solução do produto
-
-   4. Depois que a oportunidade for criada no Dynamics 365 com a opção **sincronizar com o Partner Center** definida como **Sim**, aguarde 10 minutos e entre em sua conta do Partner Center. Suas referências serão sincronizadas com o Dynamics 365.
-
-   5. Da mesma forma, para uma oportunidade que tenha a opção "sincronizar com o Partner Center" definida como "Sim", se você atualizar a oportunidade no Dynamics 365 CRM, as alterações serão sincronizadas em sua conta do Partner Center.
-
-   6. As oportunidades sincronizadas com êxito com o Partner Center serão identificadas com ✔ ícone no Dynamics 365.
+    6. As oportunidades sincronizadas com êxito com o Partner Center serão identificadas com ✔ ícone no Dynamics 365.
 
 2. Sincronização de referência quando a referência é criada ou atualizada no Microsoft Partner Center e sincronizada no ambiente do Dynamics 365:
 
@@ -285,7 +284,7 @@ Atualize o formulário oportunidade no Dynamics 365 CRM para incluir o campo sol
 
    2. Selecione **referências** no menu à esquerda.
 
-   3. Crie uma nova referência de revenda do Partner Center clicando na opção "novo negócio".
+   3. Crie uma nova referência de revenda do Partner Center selecionando a  **nova** opção de negócio.
 
    4. Entre no ambiente do Dynamics 365 CRM.
 

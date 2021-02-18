@@ -8,13 +8,13 @@ ms.custom: SEOMAY.20
 ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
-ms.date: 07/29/2020
-ms.openlocfilehash: 94df138eb94d79fb0e472744f19337ad536eb90d
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.date: 02/09/2021
+ms.openlocfilehash: b9058b00708e0ed745c7d6343dfd9c04382cfa9e
+ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281249"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "100645649"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Saiba como transferir as assinaturas do Azure de um cliente para outro parceiro
 

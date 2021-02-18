@@ -1,7 +1,7 @@
 ---
 title: Como os provedores indiretos podem ajudar seus revendedores a adotar o contrato de parceiro da Microsoft-perguntas frequentes
 ms.topic: article
-ms.date: 02/04/2021
+ms.date: 02/17/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Perguntas importantes sobre o contrato de parceiros da Microsoft respondidas
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c1c8ea56307dcac64842e2485099e525efa3145a
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 3572056d38966427f8970cf48268ac21a261b505
+ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624282"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "100645887"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-accept-the-microsoft-partner-agreement-mpa"></a>Como os provedores indiretos podem ajudar seus revendedores indiretos a aceitar o Microsoft Partner Agreement (MPA)
 
@@ -117,7 +117,7 @@ Se você tiver subsidiárias em países diferentes, poderá criar locais MPN nes
 
 •[Gerenciar locais em sua conta de parceiro](manage-locations.md)
 
-Em caso de problemas, gere um [tíquete de suporte](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) de dentro do Partner Center. 
+Se você tiver problemas, gere um [tíquete de suporte](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) no Partner Center. 
 
 
 #### <a name="i-dont-know-which-mpn-id-to-use-while-enrolling-into-csp-indirect-reseller-program"></a>Não sei qual ID de MPN usar durante o registro no programa de revendedor indireto CSP?
@@ -142,22 +142,22 @@ Se você for um revendedor indireto do CSP, você precisará fazer parceria com 
 
 #### <a name="why-cant-i-associate-my-mpn-id-to-my-tenant"></a>Por que não é possível associar minha ID do MPN ao meu locatário?
 
-**Resposta**  Se não for possível associar sua ID do MPN ao seu locatário e você vir um erro, significa que a ID do MPN e o locatário não estão no mesmo país. Para que a associação funcione, ambas precisam estar no mesmo país. Isso ocorre porque os incentivos da Microsoft são pagos por país e pelo nível de ID de MPN. Por exemplo, se você tiver uma conta de CSP na França, precisará de um local MPN (ID de MPN) também na França para obter incentivos pagos. Uma ID de MPN no Reino Unido não funcionará, embora estejam na mesma região do CSP. 
+**Resposta**  Se não for possível associar sua ID do MPN ao seu locatário e você vir um erro, significa que a ID do MPN e o locatário não estão no mesmo país. Para que a associação funcione, ambas precisam estar no mesmo país. Esse requisito é porque os incentivos da Microsoft são pagos por país e pelo nível de ID de MPN. Por exemplo, se você tiver uma conta de CSP na França, precisará de um local MPN (ID de MPN) também na França para obter incentivos pagos. Uma ID de MPN no Reino Unido não funcionará, embora estejam na mesma região do CSP. 
 
 Para resolver isso, crie um local MPN no mesmo país do país do CSP. Saiba mais sobre como [gerenciar locais MPNs](manage-locations.md).
 
 #### <a name="i-have-a-csp-indirect-reseller-account-in-france-can-i-partner-with-indirect-provider-in-germany"></a>Tenho uma conta de revendedor indireta do CSP na França. Posso fazer parceria com o provedor indireto na Alemanha?
 
-**Resposta** Ok. Depois que a conta de revendedor indireto do CSP estiver ativa em uma região do CSP, a mesma conta poderá ser usada para fazer negócios em toda a região. Saiba mais na [região do CSP](regional-authorization-overview.md).
+**Resposta** Ok. Depois que sua conta de revendedor indireta do CSP estiver ativa em uma região do CSP, a mesma conta poderá ser usada para fazer negócios em toda a região. Saiba mais na [região do CSP](regional-authorization-overview.md).
 
 #### <a name="i-am-an-indirect-reseller-in-the-us-can-i-partner-with-an-indirect-provider-in-uk"></a>Sou um revendedor indireto nos EUA. Posso fazer parceria com um provedor indireto no Reino Unido?
 
 **Resposta** Não. O CSP é um programa regional. A conta do CSP do revendedor indireto e do provedor indireto deve estar na mesma região do CSP para fazer negócios. Para resolver isso, você precisa criar uma nova conta de CSP na região europeia e criar um local MPN no mesmo país que o país da conta do CSP e, em seguida, aceitar a solicitação de relacionamento do seu provedor indireto. Por exemplo, você pode criar uma conta de revendedor indireto do CSP na França, criar um local MPN na França e, em seguida, aceitar o convite do provedor indireto que está na França ou em qualquer um dos outros países na região do CSP Europeu.
 
-#### <a name="can-i-have-more-than-1-mpn-and-csp-accounts-in-partner-center"></a>Posso ter mais de 1 MPN e contas de CSP no Partner Center?
+#### <a name="can-i-have-more-than-one-mpn-and-csp-accounts-in-partner-center"></a>Posso ter mais de uma conta de MPN e CSP no Partner Center?
 
-**Resposta** Você pode ter apenas uma conta do MPN (entrar) e uma ou várias contas do CSP (entradas) dependendo das regiões do CSP dos negócios que sua empresa está fazendo. Por exemplo, você pode ter sua conta do MPN nos EUA (HQ) com locais nos EUA (subsidiária), Reino Unido (subsidiária) e Austrália (subsidiária).
-Você pode ter uma conta de CSP (conta de trabalho do Office 365) nos EUA que tem as mesmas credenciais de entrada que sua conta do MPN. Você pode ter uma segunda conta de CSP no Reino Unido que tem credenciais de entrada diferentes para gerenciar negócios de CSP na região europeia e a terceira na Austrália que tem credenciais de entrada diferentes de outros dois para gerenciar negócios de CSP na Austrália.
+**Resposta** Você pode ter apenas uma conta do MPN (entrada) e uma ou várias contas do CSP (entradas) dependendo das regiões do CSP dos negócios que sua empresa está fazendo. Por exemplo, você pode ter sua conta do MPN nos EUA (HQ) com locais nos EUA (subsidiária), Reino Unido (subsidiária) e Austrália (subsidiária).
+Você pode ter uma conta de CSP (conta de trabalho do Office 365) nos EUA que tem as mesmas credenciais de entrada que sua conta do MPN. Você pode ter uma segunda conta de CSP no Reino Unido que tem credenciais de entrada diferentes para gerenciar negócios do CSP na região europeia e a terceira na Austrália que tem credenciais de entrada diferentes de outros dois para gerenciar os negócios do CSP na Austrália.
 
 Todas as três contas de CSP devem ser associadas a contas de local de ID MPN para fazer negócios e obter incentivos nessas subsidiárias. As competências e os benefícios do MPN podem ser gerenciados apenas pela conta do MPN.
 
@@ -169,9 +169,9 @@ Todas as três contas de CSP devem ser associadas a contas de local de ID MPN pa
 
 #### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>Quero migrar minha conta do MPN do parceiro Membership Center para o Partner Center. Como posso fazer isso? Não sei quem foi meu administrador do MPN na PMC, como posso migrar? 
 
-**Resposta** Baixe o guia passo a passo sobre como [migrar MPN de PMC para PC](guide-to-migration.md). Ele tem vários links para Hep que você migra. https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx"
+**Resposta** Baixe o guia passo a passo sobre como [migrar MPN de PMC para PC](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx).
 
-Depois de migrar a conta do MPN, saiba mais sobre como assinar a MPA, leia [Microsoft-Partner-Agreement] 9microsoft-Partner-Agreement. MD # download-The-passo-by-Step-Guide-que está à direita para-Where-in-the-MPa-Signing-processo)
+Depois de migrar sua conta do MPN, saiba mais sobre como assinar a MPA, leia [Microsoft-Partner-Agreement](microsoft-partner-agreement.md#download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process).
 
 Em caso de problemas, gere um [tíquete de suporte](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) de dentro do Partner Center.
 
@@ -179,7 +179,7 @@ Em caso de problemas, gere um [tíquete de suporte](https://partner.microsoft.co
 
 **Resposta**  Entre em sua conta do MPN com qualquer função (as credenciais de entrada do MPN e do CSP podem ser diferentes). 
 
-Em **configurações de conta**, selecione a página **perfil legal** na guia **parceiro** . Se você vir "status do programa MPN" em informações do programa, sua ID do MPN estará no Partner Center. Se você não vir a opção "status do programa MPN" na guia "parceiro", então você entrou com sua conta do CSP ou sua conta do MPN ainda não está no Partner Center. Talvez você ainda precise migrar sua conta do MPN do PMC para o PC.
+Em **configurações de conta**, selecione a página **perfil legal** na guia **parceiro** . Se você vir "status do programa MPN" em informações do programa, sua ID do MPN estará no Partner Center. Se você não vir o "status do programa MPN" na guia "parceiro", então você entrou com sua conta do CSP ou sua conta do MPN ainda não está no Partner Center. Talvez você ainda precise migrar sua conta do MPN do PMC para o PC.
 
 
 :::image type="content" source="images/legal-info-mpn.png" alt-text="Onde ver informações do programa MPN":::
@@ -204,11 +204,11 @@ Se você não conseguir corrigir o problema por conta própria, gere um tíquete
 
 #### <a name="i-enrolled-in-mpn-program--csp-indirect-reseller-program-but-my-legal-business-profile-verification-status-seems-to-be-stuck-in-the-pending-state-what-should-i-do"></a>Eu registrei no programa revendedor MPN Program/CSP, mas meu status de verificação de perfil comercial legal parece estar preso no estado pendente. O que devo fazer?
 
-**Resposta**  Se o perfil de negócios legal do revendedor indireto do CSP estiver em **qualificação pendente** após mais de cinco dias úteis, gere um tíquete de suporte no Partner Center clicando em [suporte do Partner Center](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=345795c0-26bd-dd95-d291-b78ed4a8edce).
+**Resposta**  Se o perfil de negócios legal do revendedor indireto do CSP estiver com o status de **qualificação pendente** após mais de cinco dias úteis, gere um tíquete de suporte no Partner Center clicando em [suporte do Partner Center](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=345795c0-26bd-dd95-d291-b78ed4a8edce).
 
 :::image type="content" source="images/pending.png" alt-text="O status está pendente":::
 
-## <a name="question-about-working-in-partner-center"></a>Pergunta sobre como trabalhar no Partner Center
+## <a name="questions-about-working-in-partner-center"></a>Perguntas sobre como trabalhar no Partner Center
 
 #### <a name="i-dont-know-who-the-partner-center-admin-is-who-can-accept-mpa-"></a>Não sei quem é o administrador do Partner Center quem pode aceitar o MPA?
 

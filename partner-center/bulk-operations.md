@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 831fbc294bfd82caef77489f74747bb32cf0b12c
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 16975e78c10aeb73bf141c1a1d0a215ac885039c
+ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100334566"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "100645632"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>Operações em massa para as oportunidades de venda conjunta usando arquivos CSV (valores separados por vírgula)
 
@@ -71,7 +71,7 @@ Linha de endereço do cliente 2|Não|Linha de endereço 2 da empresa do cliente.
 Cidade do cliente|Sim|Cidade onde a organização do cliente está localizada.|Redmond
 Estado do cliente|Não|Estado em que a organização do cliente está localizada.|Washington
 Código postal do cliente|Não|Código postal da região onde a organização do cliente está localizada.|98052
-País/Região do cliente|Sim|País/região onde a organização do cliente está localizada. Use os códigos de país de três letras, conforme mencionado [aqui]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes).|EUA
+País/Região do cliente|Sim|País/região onde a organização do cliente está localizada. Use os códigos de país de duas letras, conforme mencionado [aqui]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes).|EUA
 ID do cliente D-U-N-S|Não|Tente buscar a ID do DUNS da organização do cliente. Isso ajudará na correspondência mais rápida da organização do cliente no lado da Microsoft, o que ajuda a atribuir uma atribuição mais rápida ao vendedor. Você pode obter a ID do DUNS gratuitamente neste [site](https://www.dnb.com/duns-number/lookup.html).|81466849
 Nome do contato do cliente|Depende|O nome só será obrigatório se você precisar da ajuda da Microsoft. O primeiro nome do contato principal da organização do cliente que está trabalhando nessa dose.|John
 Sobrenome do contato do cliente|Depende|O sobrenome só será obrigatório se você precisar da ajuda da Microsoft. Sobrenome do contato principal da organização do cliente que está trabalhando nesse negócio.|Cliente
@@ -87,7 +87,7 @@ Currency|Sim|A moeda na qual o valor de acordo é inserido. Você pode encontrar
 Data de fechamento estimada|Sim|A data de fechamento estimada do negócio com base nas conversas iniciais com o cliente no formato MM/DD/AAAA. <br/> **A data deve estar no fuso horário UTC. Todas as datas exibidas na interface do usuário do Partner Center são baseadas em fusos locais. Pode haver uma diferença de +/-um dia na interface do usuário do Partner Center se você estiver olhando para a referência para a qual forneceu a data no fuso horário UTC.**|1/30/2020
 ID DO CRM|Não|Identificador dessa referência específica em seu sistema CRM, se houver. Este é um campo de entrada de texto de formato livre.|34234324-sdfsdf-345345-SFD
 ID da campanha de marketing|Não|Este campo indica a campanha de marketing, que resultou nessa referência específica. Normalmente usado para cálculo de ROI|BingSummer2020
-Anotações|Não|Observações detalhadas indicando as atualizações relacionadas à referência|Esta é uma observação de exemplo
+Observações|Não|Observações detalhadas indicando as atualizações relacionadas à referência|Esta é uma observação de exemplo
 Ajuda da Microsoft necessária?|Sim|Isso é para indicar se você deseja que a Microsoft o ajude a fazer esta solicitação de venda|Sim
 Que ajuda específica da Microsoft?|Depende|Uma das seis maneiras diferentes que a Microsoft pode ajudá-lo. Isso será aplicável somente se você escolher não para a pergunta "a ajuda da Microsoft é necessária? " <br/> **Insira um número com base nas opções abaixo** <br/><br/> **1**-proposta de valor específico de carga de trabalho  <br/> **2**-arquitetura técnica do cliente  <br/> **3**-prova de conceito de/demo  <br/> **4**-Cotações e licenciamento  <br/> sucesso do cliente de **5** pós-vendas  <br/> **6**-geral ou outro|1|
 Compartilhar com a equipe de vendas da Microsoft|Sim|Isso é para indicar se você deseja compartilhar os detalhes do negócio com a equipe de vendas da Microsoft ou não. Isso será aplicável somente se você escolher não para a pergunta "a ajuda da Microsoft é necessária? "|Sim
