@@ -159,7 +159,7 @@ O novo Microsoft Edge é a nossa melhor expressão de um navegador moderno, e es
 
 - Leia a postagem no blog para entender os detalhes do comunicado.
 - Use esta oportunidade para entrar em contato com seus parceiros e ajudar a implantar o novo Microsoft Edge.
-- Recursos adicionais e mais informações: [Edge no YouTube](https://www.youtube.com/channel/UCIGx7oT8p6-jUpOfg98yelA) ou [Adoção do Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
+- Recursos adicionais e mais informações: [Microsoft Edge no YouTube](https://www.youtube.com/channel/UCIGx7oT8p6-jUpOfg98yelA) ou [Adoção do Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
 
 ### <a name="questions"></a>Perguntas
 
@@ -201,7 +201,7 @@ Como parte do nosso compromisso de ajudar parceiros e clientes a administrar os 
 
 ### <a name="impacted-audience"></a>Público-alvo afetado
 
-Provedores indiretos e parceiros de cobrança direta do CSP que têm clientes novos ou existentes nos países listados na próxima seção
+Provedores indiretos e parceiros de cobrança direta do CSP que têm clientes novos ou existentes nos países/regiões listados na próxima seção
 
 ### <a name="details"></a>Detalhes
 
@@ -209,7 +209,7 @@ O trabalho da Microsoft é baseado em confiança. Temos o compromisso de fornece
 
 1. O parceiro tem um relacionamento de cobrança direta com a Microsoft (o que significa que ele é um parceiro de cobrança direta ou um provedor indireto).
 
-2. O parceiro faz negócios com clientes novos ou existentes nos seguintes países:
+2. O parceiro faz negócios com clientes novos ou existentes nos seguintes países/regiões:
     - Tailândia
     - Vietnã
     - Turquia
@@ -226,7 +226,7 @@ O trabalho da Microsoft é baseado em confiança. Temos o compromisso de fornece
 
 Os parceiros que atendem aos critérios precisarão enviar o **identificador legal** de um cliente (também conhecido como o **INN da organização** do cliente) e o **número de telefone** na próxima atualização ou na criação de uma assinatura para esse cliente. Esses parceiros também podem inserir um **segundo nome** opcional para o cliente.
 
-Os parceiros que fazem negócios com clientes novos ou existentes nos países a seguir já foram integrados a uma versão anterior em novembro de 2020.
+Os parceiros que fazem negócios com clientes novos ou existentes nos países/regiões a seguir já foram integrados a uma versão anterior em novembro de 2020.
 
 - Armênia
 - Azerbaijão
@@ -372,7 +372,7 @@ Os detalhes da oferta abaixo estão na matriz da lista de ofertas de janeiro de 
 - Contagem mínima de estações: 200
 - Contagem máxima de estações: 10.000.000
 - Limite da oferta: Nenhuma
-- Países permitidos: Territórios Insulares Ilhas Menores Distantes dos EUA, inglês (Territórios Franceses do Sul), Ilha Bouvet, Território Britânico do Oceano Índico, Iêmen, Ilhas Heard e McDonald, Wallis e Futuna, Vanuatu, Antártida, Tuvalu, Somália, Tokelau, Serra Leoa, Suazilândia, Santa Helena, Ascensão e Tristão da Cunha, São Tomé e Príncipe, Ilhas Pitcairn, Palau, Ilhas Salomão, Nauru, Niue, Ilha Norfolk, Mauritânia, Ilhas Marianas do Norte, Lesoto, Quiribati, Guiné Equatorial, Guiné-Bissau, Ilhas Cook, Eritreia, Ilha Christmas, Burquina Faso, República Centro-Africana, Kosovo, Ilhas Cocos (Keeling), Svalbard e Jan Mayen, Ilhas Aland, Sudão do Sul, Ilhas Geórgia do Sul e Sandwich do Sul, Samoa, São Bartolomeu, Ilhas Virgens Britânicas, São Pedro e Miquelon, Chade, Níger, Montserrat, Guiana, Haiti, Gâmbia, Guam, Guiné, Gabão, Granada, Gibraltar, Guernsey, Libéria, Micronésia, Ilhas Malvinas, Dominica, Djibuti, Congo, Congo (RDC), Zimbábue, Samoa Americana, Zâmbia, África do Sul, Mayotte, Vietnã, São Vicente e Granadinas, Ilhas Virgens Americanas, Venezuela, Santa Sé (Cidade do Vaticano), Ucrânia, Uganda, Uzbequistão, Estados Unidos, Uruguai, Tanzânia, Taiwan, Trinidad e Tobago, Turquia, Tunísia, Tonga, Timor-Leste, Turcomenistão, Tadjiquistão, Tailândia, Togo, El Salvador, Sint Maarten, Ilhas Turcas e Caicos, Suriname, Singapura, Eslovênia, San Marino, Senegal, Eslováquia, Suécia, Seicheles, Arábia Saudita, Sérvia, Ruanda, Rússia, Romênia, Reunião, Catar, Paraguai, Portugal, Filipinas, Território Palestino Ocupado, Polônia, Porto Rico, Paquistão, Peru, Panamá, Papua-Nova Guiné, Polinésia Francesa, Nova Zelândia, Omã, Nepal, Países Baixos, Noruega, Nigéria, Nicarágua, Nova Caledônia, Namíbia, Moçambique, Malásia, México, Martinica, Malaui, Maldivas, Maurício, Malta, Mianmar, RAE de Macau, Mongólia, Mali, Madagascar, Ilhas Marshall, Antiga República Iugoslava da Macedônia, Montenegro, Saint Martin, Marrocos, Mônaco, Moldova, Letônia, Líbia, Luxemburgo, Líbano, Santa Lúcia, Lituânia, Sri Lanka, Ilhas Cayman, Liechtenstein, Laos, Cazaquistão, Kuwait, Coreia do Sul, Comores, Camboja, São Cristóvão e Névis, Quênia, Quirguistão, Japão, Jordânia, Jamaica, Jersey, Itália, Islândia, Iraque, Irlanda, Índia, Indonésia, Ilha de Man, Honduras, Israel, Hungria, RAE de Hong Kong, Croácia, Guatemala, Grécia, Guadalupe, Guiana Francesa, Groenlândia, Gana, Ilhas Faroé, Reino Unido, Geórgia, França, Fiji, Etiópia, Finlândia, Espanha, Egito, Estônia, Equador, República Dominicana, Argélia, Alemanha, Dinamarca, Chipre, República Tcheca, Curaçao, Cabo Verde, Costa Rica, Chile, Camarões, Colômbia, Côte d’Ivoire, Canadá, Suíça, Belize, Belarus, Botsuana, Butão, Bahamas, Bonaire, Santo Eustáquio e Saba, Brasil, Benin, Brunei, Bermudas, Bolívia, Bélgica, Bulgária, Barein, Burundi, Bósnia e Herzegovina, Bangladesh, Barbados, Azerbaijão, Aruba, Austrália, Argentina, Áustria, Angola, Armênia, Afeganistão, Albânia, Anguila, Andorra, Emirados Árabes Unidos e Antígua e Barbuda
+- Países permitidos: Territórios Insulares Ilhas Menores Distantes dos EUA, inglês (Territórios Franceses do Sul), Ilha Bouvet, Território Britânico do Oceano Índico, Iêmen, Ilhas Heard e McDonald, Wallis e Futuna, Vanuatu, Antártida, Tuvalu, Somália, Tokelau, Serra Leoa, Suazilândia, Santa Helena, Ascensão e Tristão da Cunha, São Tomé e Príncipe, Ilhas Pitcairn, Palau, Ilhas Salomão, Nauru, Niue, Ilha Norfolk, Mauritânia, Ilhas Marianas do Norte, Lesoto, Quiribati, Guiné Equatorial, Guiné-Bissau, Ilhas Cook, Eritreia, Ilha Christmas, Burquina Faso, República Centro-Africana, Kosovo, Ilhas Cocos (Keeling), Svalbard e Jan Mayen, Ilhas Aland, Sudão do Sul, Ilhas Geórgia do Sul e Sandwich do Sul, Samoa, São Bartolomeu, Ilhas Virgens Britânicas, São Pedro e Miquelon, Chade, Níger, Montserrat, Guiana, Haiti, Gâmbia, Guam, Guiné, Gabão, Granada, Gibraltar, Guernsey, Libéria, Micronésia, Ilhas Malvinas, Dominica, Djibuti, Congo, Congo (RDC), Zimbábue, Samoa Americana, Zâmbia, África do Sul, Mayotte, Vietnã, São Vicente e Granadinas, Ilhas Virgens Americanas, Venezuela, Santa Sé (Cidade do Vaticano), Ucrânia, Uganda, Uzbequistão, Estados Unidos, Uruguai, Tanzânia, Taiwan, Trinidad e Tobago, Turquia, Tunísia, Tonga, Timor-Leste, Turcomenistão, Tadjiquistão, Tailândia, Togo, El Salvador, Sint Maarten, Ilhas Turcas e Caicos, Suriname, Singapura, Eslovênia, San Marino, Senegal, Eslováquia, Suécia, Seicheles, Arábia Saudita, Sérvia, Ruanda, Rússia, Romênia, Reunião, Catar, Paraguai, Portugal, Filipinas, Territórios Palestinos, Polônia, Porto Rico, Paquistão, Peru, Panamá, Papua-Nova Guiné, Polinésia Francesa, Nova Zelândia, Omã, Nepal, Países Baixos, Noruega, Nigéria, Nicarágua, Nova Caledônia, Namíbia, Moçambique, Malásia, México, Martinica, Malaui, Maldivas, Maurício, Malta, Mianmar, RAE de Macau, Mongólia, Mali, Madagascar, Ilhas Marshall, Antiga República Iugoslava da Macedônia, Montenegro, Saint Martin, Marrocos, Mônaco, Moldova, Letônia, Líbia, Luxemburgo, Líbano, Santa Lúcia, Lituânia, Sri Lanka, Ilhas Cayman, Liechtenstein, Laos, Cazaquistão, Kuwait, Coreia do Sul, Comores, Camboja, São Cristóvão e Névis, Quênia, Quirguistão, Japão, Jordânia, Jamaica, Jersey, Itália, Islândia, Iraque, Irlanda, Índia, Indonésia, Ilha de Man, Honduras, Israel, Hungria, RAE de Hong Kong, Croácia, Guatemala, Grécia, Guadalupe, Guiana Francesa, Groenlândia, Gana, Ilhas Faroé, Reino Unido, Geórgia, França, Fiji, Etiópia, Finlândia, Espanha, Egito, Estônia, Equador, República Dominicana, Argélia, Alemanha, Dinamarca, Chipre, República Tcheca, Curaçao, Cabo Verde, Costa Rica, Chile, Camarões, Colômbia, Côte d’Ivoire, Canadá, Suíça, Belize, Belarus, Botsuana, Butão, Bahamas, Bonaire, Santo Eustáquio e Saba, Brasil, Benin, Brunei, Bermudas, Bolívia, Bélgica, Bulgária, Barein, Burundi, Bósnia e Herzegovina, Bangladesh, Barbados, Azerbaijão, Aruba, Austrália, Argentina, Áustria, Angola, Armênia, Afeganistão, Albânia, Anguila, Andorra, Emirados Árabes Unidos e Antígua e Barbuda
 
 ### <a name="next-steps"></a>Próximas etapas
 
