@@ -1,22 +1,22 @@
 ---
-title: Verificar o perfil da organização
+title: Verificar o perfil da sua empresa
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como verificar os detalhes da empresa, como contato principal, endereço e informações do programa. Você também pode atualizar seus endereços jurídico e para cobrança.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 01/14/2021
-ms.localizationpriority: high
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 3dc16fe12a722a7e926dcb72d46eeb9be6b7d4ea
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.date: 03/03/2021
+ms.localizationpriority: medium
+ms.custom: contperf-fy21q3
+ms.openlocfilehash: 9cb0c94a97a7fb80ec3e8285bb1ed68628c9831b
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235912"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755789"
 ---
-# <a name="verify-your-organization-profile-information-in-partner-center"></a>Verificar as informações sobre o perfil da organização no Partner Center
+# <a name="verify-your-company-profile-information-in-partner-center"></a>Verificar as informações do perfil da sua empresa no Partner Center
 
 **Funções apropriadas**
 
@@ -27,9 +27,7 @@ Na primeira vez que você entrar no Partner Center como administrador global, de
 
 Seu perfil de parceiro consiste em informações jurídicas, nome e email do contato principal, programas nas quais a sua empresa participa e, se relevante, suas outras empresas que agora se fundiram no seu negócio jurídico. Verifique se o nome e o endereço da empresa no perfil comercial legal não têm erros de ortografia nem abreviações e se correspondem exatamente aos registros comerciais formais da empresa. Se você estiver operando como Proprietário Único, precisará usar o nome da empresa como razão social.
 
->[!Important]
->- Para contas do MPN, o administrador global e o administrador da conta podem atualizar a razão social da empresa.
->- Para contas de revendedor do CSP Indirect, o administrador global pode atualizar a razão social da empresa. 
+
 
 ## <a name="locate-the-legal-business-profile"></a>Localizar o perfil comercial jurídico
 
@@ -45,46 +43,48 @@ Caso tenha fundido suas outras empresas em seu negócio jurídico, examine tamb�
 
 Atualizar seu endereço jurídico no Partner Center.
 
+>[!Important]
+>- Para contas do MPN, o administrador global e o administrador da conta podem atualizar a razão social da empresa.
+>- Para contas de revendedor do CSP Indirect, somente o administrador global pode atualizar a razão social da empresa. 
+
 1. Acesse **Configurações** e selecione **Perfil da organização**.
 
-
 2. Selecione **Jurídico** e escolha o perfil de negócio Jurídico que deseja usar.
+ 
+1. Quando você selecionar **Enviar**, a identidade jurídica será reavaliada e você receberá outro email, o qual precisará aceitar.
 
 >[!Important]
->Se você for um parceiro CSP (Provedor de Soluções na Nuvem), não será possível alterar o país associado ao endereço jurídico da sua empresa. O país do endereço jurídico está vinculado ao locatário e aos serviços prestados, bem como à moeda com que você faz negócios. Se não estiver no programa CSP, você poderá alterar o país associado ao seu endereço jurídico. A razão social da empresa não poderá ser atualizada no Partner Center se o seu status de validação for "Autorizado". Se você precisar alterar o nome, será necessário [criar um tíquete de suporte](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
+>Se você for um parceiro CSP (Provedor de Soluções na Nuvem), não será possível alterar o país associado ao endereço jurídico da sua empresa. O país do endereço jurídico está vinculado ao locatário e aos serviços prestados, bem como à moeda com que você faz negócios. Se não estiver no programa CSP, você poderá alterar o país associado ao seu endereço jurídico. Os parceiros de cobrança Diretos e provedores Indiretos não podem alterar a razão social das respectivas empresas se o status de validação for "Autorizado". Se você precisar alterar o nome, será necessário [criar um tíquete de suporte](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
-3. Quando você selecionar **Enviar**, a identidade jurídica será reavaliada e você receberá outro email, o qual precisará aceitar.
+
 
 ## <a name="update-your-mpn-global-business-account"></a>Atualizar sua conta comercial global do MPN
 
-Se, durante a migração do Partner Membership Center para o Partner Center, o negócio incorreto tiver sido identificado como negócio jurídico, você poderá alterá-lo para o negócio jurídico correto.
+Se, durante a migração do Partner Membership Center para o Partner Center, a conta comercial incorreta tiver sido identificada como negócio jurídico, você poderá alterá-la para a conta comercial jurídica correta.
 
-1. Em **Configurações da conta**, acesse **Perfil da organização** e selecione **Jurídico**.
+Para fazer essas atualizações, você precisa ser o administrador global ou administrador da conta. Saiba como [gerenciar as contas de localização global do MPN](manage-locations.md)
 
-1.  Role a tela para baixo até **Locais** e verifique se o negócio que deseja ter como seu negócio jurídico está na lista. Se não estiver, você poderá adicioná-lo. Selecione **Adicionar local**. Adicione os detalhes do local e clique em **Salvar**.
-
-2. Em seguida, role a tela para cima até **Atualizar perfil do negócio jurídico**.
-
-3. Você verá o local que acabou de adicionar. Selecione o local e a empresa que deseja usar como seu negócio jurídico e clique em **Salvar**.
 
 ## <a name="update-your-mpn-id-associated-with-your-csp-account"></a>Atualizar sua ID do MPN associada à sua conta do CSP
 
 Para atualizar a ID do MPN associada à sua conta do CSP:
 
-1. Entre no Painel do Partner Center e selecione **Configurações**.
+1. Entre no [painel](https://partner.microsoft.com/en-us/dashboard/home) do Partner Center como administrador global com as credenciais da conta do CSP e selecione **Configurações**. (Suas credenciais do MPN e do CSP podem ser diferentes.)
  
 1. Selecione **Identificadores** em **Configurações de conta**.
 
 1. Na seção **CSP**, use o link **Atualizar** para atualizar a ID do MPN associada à sua conta do CSP 
 
 
-## <a name="update-your-billing-address"></a>Atualizar endereço de cobrança
+## <a name="update-your-csp-legal-billing-address"></a>Atualizar seu endereço para cobrança legal do CSP
 
 Se você for o administrador global, o administrador de cobrança ou o agente administrador, poderá alterar o endereço que aparece na fatura no **perfil Pagamento e impostos**. No entanto, você não pode alterar o nome da empresa na fatura devido a uma limitação do sistema de faturas.
+
+
 
 ## <a name="next-steps"></a>Próximas etapas
 
 - [Examinar o status de verificação](verification-responses.md)
- 
+
 - [Gerenciar locais do MPN](manage-locations.md)
 
