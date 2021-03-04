@@ -9,18 +9,14 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4bf1c7a2abceffc812666456ddae252fca70d8f1
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492714"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755861"
 ---
 # <a name="view-your-incentives-program-details"></a>Veja os detalhes do programa de incentivos
-
-**Aplica-se a**
-
-- Partner Center
 
 **Funções apropriadas**
 
@@ -37,7 +33,7 @@ Este artigo explica como acessar a página **visão geral de meus incentivos** ,
 
 ## <a name="access-the-incentives-overview-page"></a>Acessar a página Visão geral de incentivos
 
-1. Entre no painel do [Partner Center](https://partner.microsoft.com/dashboard).
+1. Entre no [Painel do Partner Center](https://partner.microsoft.com/dashboard).
 1. Selecione **incentivos** e, em seguida, **visão geral** no menu.
 1. Veja o resumo de ganhos e pagamentos na parte superior da página e mais detalhes na tabela a seguir. Você também pode classificar, agrupar e expandir a tabela que o acompanha:
 
@@ -76,4 +72,5 @@ Essas informações incluem ganhos de incentivos e pagamentos totais desde que v
 Você também pode usar a [API](https://apidocs.microsoft.com/services/partnerpayouts) de pagamento de parceiro para conectar-se e obter dados de transação e pagamentos diretamente. Consulte as [instruções de pagamento](payout-statement.md) para saber mais.
 
 ## <a name="next-steps"></a>Próximas etapas
+
 - [Demonstrativos de pagamento](payout-statement.md)

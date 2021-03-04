@@ -9,18 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd718377fad435b72ff62e61604f58a3d302dc11
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 064a5ea1e712ca66504536652543c0523fc73eae
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174932"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755732"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Receba crédito em sua conta do Partner Center para retenção de imposto
 
-Aplica-se a:
+**Funções apropriadas**
 
-- Partner Center
+- Administrador de conta
+- Administrador de cobrança
 
 ## <a name="overview"></a>Visão geral
 
@@ -45,7 +46,9 @@ Siga estas etapas para enviar uma nova retenção de imposto:
 
 4. Examine os detalhes da fatura para garantir que você está enviando a solicitação para a fatura correta.
 
-   :::image type="content" source="images/wht2.png" alt-text="Enviar nova retenção de imposto para uma fatura" é o valor que você espera que seja creditado.
+   :::image type="content" source="images/wht2.png" alt-text="Detalhes de retenção de imposto completos para uma fatura":::
+
+5. Insira o "total de retenção" em **detalhes de retenção de imposto**. O "total de retenção" é o valor que você espera que seja creditado.
 
 6. **Anexe** um certificado de imposto. Você precisará incluir uma **cópia digital** do seu **certificado de retenção** de imposto em sua solicitação de retenção de imposto. Você recebeu esse certificado de sua agência de impostos local ao pagar seus impostos à sua autoridade de imposto local. O valor do imposto sobre a fatura no certificado de retenção de imposto deve corresponder ao valor total em sua solicitação de retenção de imposto.
 
@@ -66,7 +69,7 @@ A equipe de revisão pode exigir que você faça correções e reenvie uma solic
 
 2. No menu à esquerda, escolha **cobrança**
 
-3. No **histórico de cobrança**da página de **cobrança** , localize a solicitação de retenção de imposto. As solicitações que precisam de atenção terão o status "ação de parceiro pendente".
+3. No **histórico de cobrança** da página de **cobrança** , localize a solicitação de retenção de imposto. As solicitações que precisam de atenção terão o status "ação de parceiro pendente".
 
 4. Clique na ID da solicitação de retenção de imposto e no status que levará você para a página da solicitação.
 

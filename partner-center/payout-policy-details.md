@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 09e1301cb106c9e1ed40ff1fb6f70da92d2695ee
-ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
+ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98861403"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756850"
 ---
 # <a name="payout-schedules-and-processes"></a>Agendas e processos de pagamento
 
@@ -37,7 +37,6 @@ Muitas vezes, um pagamento ocorrerá antes que A Microsoft colete o pagamento do
 | --- | --- | --- | --- |
 | Uso ou mês de transação | O cliente usa ou compra um serviço. | Painel de [uso](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 1** |
 | A Microsoft calcula o valor da cobrança | Determinar o uso total, total de transações | Painel de [uso](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 2** |
-| Fatura paga pelo cliente | A Microsoft coleta o pagamento do cliente | Nenhuma alteração | **Mês 2** |
 | Pagamento Postado | Determinar a taxa da Agência e os ganhos de pagamento | Marcado como não processado no histórico de transações na [instrução de pagamento](payout-statement.md) | **Mês 3 (1ª semana)** |
 | Preparar pagamento | Os ganhos são preparados para pagamento mensal | Marcado como futuro no histórico de transações na [instrução de pagamento](payout-statement.md) | **Mês 3 (1ª semana)** |
 | **Pagamento enviado** | **O pagamento é enviado ao Publicador** | **Marcado como enviado no histórico de transações e na seção de pagamentos da [instrução de pagamento](payout-statement.md)** | **Mês 3 (não depois do 15º)** |

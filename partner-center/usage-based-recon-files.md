@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 04ad6a0c2c7a6330d2e1230f046ee78b2a7405c8
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: d3941d09d6ec808f3d188521c4f0c51c9a6d0222
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949544"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755753"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Entender os arquivos de reconciliação com base no uso e seus campos específicos no Partner Center
 
@@ -21,7 +21,12 @@ Aplica-se a:
 - Partner Center
 - Partner Center do Microsoft Cloud for US Government
 
-Para reconciliar seus encargos em relação ao uso de um cliente, compare o **revendedorid**, o **revendedorname**e o **ResellerBillableAccount** do arquivo de reconciliação com o **nome do cliente** e a ID da **assinatura** do Partner Center.
+**Funções apropriadas**
+
+- Administrador de conta
+- Administrador de cobrança
+
+Para reconciliar seus encargos em relação ao uso de um cliente, compare o **revendedorid**, o **revendedorname** e o **ResellerBillableAccount** do arquivo de reconciliação com o **nome do cliente** e a ID da **assinatura** do Partner Center.
 
 ## <a name="fields-in-usage-based-reconciliation-files"></a>Campos em arquivos de reconciliação com base no uso
 
@@ -56,18 +61,22 @@ Os campos a seguir explicam quais serviços foram usados e a taxa.
 | PretaxCharges | Igual a **ListPrist** multiplicado por **OverageQuantity**, arredondado para a cento mais próxima. | *U$ 0,085* |
 | TaxAmount | Valor de imposto cobrado. Com base nas regras de imposto do mercado e em circunstâncias específicas. | *$0.08* |
 | PostTaxTotal | Total após impostos, quando o imposto é aplicável. | *$0.93* |
-| Currency | Tipo de moeda. Cada entidade de cobrança tem apenas uma moeda. Verifique se ele corresponde à sua primeira fatura e depois das principais atualizações da plataforma de cobrança. | *EUR* |
+| Moeda | Tipo de moeda. Cada entidade de cobrança tem apenas uma moeda. Verifique se ele corresponde à sua primeira fatura e depois das principais atualizações da plataforma de cobrança. | *EUR* |
 | PretaxEffectiveRate | Pretax preço por unidade. Igual a **PretaxCharges** dividido por **OverageQuantity**, arredondado para a cento mais próxima. | *$0.08* |
 | PostTaxEffectiveRate | Preço de imposto de POST por unidade. Igual a **PostTaxTotal** dividido por **OverageQuantity**, arredondado para a cento mais próxima. Ou, igual a **PretaxEffectiveRate** mais a taxa de imposto por valor de unidade, arredondada para a Centa mais próxima. | *$0.08* |
 | ChargeType | O [tipo de encargo](recon-file-charge-types.md) ou ajuste. | Consulte [tipos de cobrança](recon-file-charge-types.md). |
 | CustomerId | Identificador exclusivo da Microsoft para o cliente, no formato GUID. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | DomainName | Nome de domínio do cliente. Este campo pode aparecer em branco até o segundo ciclo de cobrança. | *example.onmicrosoft.com* |
 | BillingCycleType | Frequência de cobrança de tempo.| **Mensalmente**  |
-| Unidade | A unidade do **nome**do recurso. | *GB* ou *horas* |
+| Unidade | A unidade do **nome** do recurso. | *GB* ou *horas* |
 | CustomerBillableAccount | Identificador de conta exclusivo na plataforma de cobrança da Microsoft. | *1280018095* |
 | UsageDate | Data de implantação do serviço. | *2/1/2019 0:00* |
 | MeteredRegion | Identifica o local de um data center dentro da região (para serviços em que esse valor é aplicável e preenchido). | *Ásia Oriental*, *sul Ásia Oriental*, *Europa Setentrional*, *Europa Ocidental*, *norte EUA Central*, *Sul EUA Central* |
 | MeteredService | Identifica o uso individual do serviço do Azure quando ele não está especificamente identificado na coluna **ServiceName** . Por exemplo, as transferências de dados são relatadas como *Microsoft Azure-todos os serviços* na coluna **ServiceName** . | *AccessControl*, *CDN*, *computação*, *banco de dados*, *ServiceBus*, *armazenamento* |
-| MeteredServiceType | Subtítulo para o campo **MeteredService** que fornece esclarecimentos adicionais sobre o uso do serviço do Azure. | *TERCEIROS* |
+| MeteredServiceType | Subtítulo para o campo **MeteredService** que fornece esclarecimentos adicionais sobre o uso do serviço do Azure. | *EXTERNAL* |
 | Project | Nome definido pelo cliente para sua instância de serviço. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | ServiceInfo | O número de conexões do barramento de serviço do Azure que foram provisionadas e utilizadas em um determinado dia. | *1, 0 conexões/30 dias* (se você tiver uma conexão provisionada individualmente durante um mês de 30 dias), *25 conexões/30 dias – usado: 1, 0* (se você tiver um pacote de 25 pacotes de conexões de barramento de serviço provisionado e utilizado 1 durante esse dia) |
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Entender os campos em arquivos de reconciliação baseados em licença do Partner Center](license-based-recon-files.md)

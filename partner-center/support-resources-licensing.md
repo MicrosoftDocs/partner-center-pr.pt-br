@@ -1,29 +1,26 @@
 ---
 title: Recursos de licenciamento da Microsoft
 ms.topic: article
-ms.date: 08/25/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Como um parceiro da Microsoft, você pode ter dúvidas sobre o uso de diferentes programas de licenciamento da Microsoft. Este artigo oferece recursos que podem ajudar.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 70b9381cf67a54f2e8c7e1c7764610c91fca1b1b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: a00ae527b1ac89e14f33960517ec20f8a5bec624
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999750"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756812"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Guia para licenciar recursos para parceiros da Microsoft 
 
-**Aplica-se a**
-
-- Parceiros do Microsoft MPN, parceiros CSP e outros
 
 Este artigo compartilha recursos que podem ajudar a responder a perguntas de licenciamento de parceiros.
 
-Como um parceiro da Microsoft, você pode estar envolvido em um ou mais programas de licenciamento, canais ou contratos. Se você trabalha no painel do Partner Center, isso pode incluir programas como o programa CSP (provedor de soluções na nuvem) ou o programa Microsoft Partner Network (MPN). Outros programas de licenciamento incluem licenças do EA (Enterprise Agreement), o licenciamento por volume (VL), o programa de licença do OEM, o programa de treinamento ou de comprovantes do Software Assurance ou o programa de licenciamento aberto.
+Como um parceiro da Microsoft, você pode estar envolvido em um ou mais programas de licenciamento, canais ou contratos. Se você trabalha no painel do Partner Center, isso pode incluir programas como o programa CSP (provedor de soluções na nuvem) ou o programa Microsoft Partner Network (MPN). Outros programas de licenciamento incluem licenças do EA (Contrato Enterprise), o licenciamento por volume (VL), o programa de licença do OEM, o programa de treinamento ou de comprovantes do Software Assurance ou o programa de licenciamento aberto.
 
 Cada programa tem contratos e termos específicos associados a ele. Da mesma forma, os produtos específicos que você usa podem ter contratos de licença adicionais específicos do produto associados ao seu uso.
 
@@ -32,7 +29,7 @@ Se você tiver dúvidas sobre como esses programas funcionam, esses recursos pod
 > [!NOTE]
 > Se você precisar de ajuda com perguntas de licenciamento mais detalhadas ou com uma cotação de cliente, inicie com o provedor indireto atribuído do seu programa de licenciamento (para o programa CSP) ou o distribuidor do programa. Eles costumam ser seus pontos iniciais de contato mais adequados para perguntas de licença específicas ou perguntas sobre a criação de Cotações de clientes, compras de SKU ou pré-requisitos. Se você não tiver um parceiro que atende a essa função para você, consulte [encontrar um parceiro](find-a-partner.md) para localizar um.
 >
-> Você também pode entrar em contato com seus contatos da Microsoft para aproveitar uma equipe interna de especialistas em licenciamento. Se você não tiver contatos específicos da Microsoft, vá para [suporte ao parceiro](https://partner.microsoft.com/support/v2/?stage=1) e digite **Licenciamento** no campo **problemas** da página de suporte. Lá, você pode aprender sobre outros recursos de suporte de licenciamento que podem estar disponíveis para você. Se ainda precisar de ajuda, você também poderá registrar um tíquete de suporte para ajudar a responder perguntas de licença específicas ou ajudá-lo a encontrar a SKU do produto correta.
+> Você também pode entrar em contato com seus contatos da Microsoft para aproveitar uma equipe interna de especialistas em licenciamento. Se você não tiver contatos específicos da Microsoft, vá para [suporte ao parceiro](https://partner.microsoft.com/support/v2/?stage=1) e digite **Licenciamento** no campo **problemas** da página de suporte. 
 
 ## <a name="general-resources-about-licensing-and-license-training"></a>Recursos gerais sobre licenciamento e treinamento de licença
 
@@ -41,7 +38,7 @@ Você pode saber mais sobre os programas de licenciamento específicos dos recur
 >[!NOTE]
 > Talvez seja necessário ser registrado em determinados programas antes que você possa acessar todos os recursos mostrados aqui. Saiba mais sobre o registro no [programa MPN](https://partner.microsoft.com/membership) ou no [programa CSP](https://partner.microsoft.com/membership/cloud-solution-provider).
 
-|Para fazer isto  | Leia isto  |
+|Para fazer isso  | Leia isto  |
 |:------------------|:--------------- |
 |Comparar licenças do programa CSP a outros modelos de licenciamento *(visão geral de alto nível)* | Vá para a [página de registro do CSP](https://partner.microsoft.com/licensing/). Role para baixo até ver a seção *comparar o CSP a outros modelos de licenciamento*.  |
 |Comparar contratos de licença de parceiro diferentes para serviços de nuvem da Microsoft e software local *(exibição detalhada)*  | [Contratos de licenciamento da Microsoft](https://partner.microsoft.com/licensing/licensing-agreements)  |
@@ -54,7 +51,7 @@ Você pode saber mais sobre os programas de licenciamento específicos dos recur
 
 Você pode achar esses outros recursos úteis. Para acessar alguns desses recursos, você deve primeiro precisar ser registrado no [programa MPN](https://partner.microsoft.com/membership).
 
-|Para fazer isto  | Leia isto  |
+|Para fazer isso  | Leia isto  |
 |:------------------|:--------------- |
 |Revise ou baixe a versão atual dos termos de produto da Microsoft para produtos ou serviços no programa de licenciamento por volume da Microsoft. | [Pesquise seu produto ou serviço](https://www.microsoft.com/licensing/terms/) ou [Pesquise aqui](http://www.microsoftvolumelicensing.com/)  |
 |Saiba mais sobre o programa Software Assurance e a licença associada junto com o trabalho de pagamento e os comprovantes.  | [Visão geral do Software Assurance](https://www.microsoft.com/Licensing/licensing-programs/software-assurance-default.aspx) ou [benefícios e requisitos do Software Assurance](software-assurance-lp.md) |
@@ -66,10 +63,10 @@ Você pode achar esses outros recursos úteis. Para acessar alguns desses recurs
 
 Se você tiver dúvidas específicas sobre o cumprimento, pagamento ou financiamento de licenciamento, seu primeiro ponto de contato é seu provedor indireto (para o programa CSP) ou o distribuidor do programa. Você também pode encontrar os recursos a seguir úteis.
 
-|Para fazer isto  | Consulte  |
+|Para fazer isso  | Consulte  |
 |:------------------|:--------------- |
 |Responda a perguntas de preenchimento sobre a mídia de instalação no programa de licenciamento por volume. | [Página de preenchimento de licenciamento](https://www.microsoft.com/licensing/existing-customer/fulfillment.aspx)  |
-|Responda a perguntas de preenchimento sobre serviços online para os seguintes programas de registro: Enterprise Agreement (EA), registro de servidor e nuvem (SCE) e assinatura de valor aberto (OVS).  | [Treinamento e recursos do centro de licenciamento por volume da Microsoft](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources.aspx)  |
+|Responda a perguntas de preenchimento sobre serviços online para os seguintes programas de registro: Contrato Enterprise (EA), registro de servidor e nuvem (SCE) e assinatura de valor aberto (OVS).  | [Treinamento e recursos do centro de licenciamento por volume da Microsoft](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources.aspx)  |
 |Responda a perguntas de preenchimento sobre serviços online associado ao contrato de produtos e serviços da Microsoft (MPSA).  | [Treinamento e recursos do Microsoft Business Center](https://www.microsoft.com/licensing/existing-customer/business-center-training-and-resources.aspx#tab=2) ou a [visão geral do licenciamento do MPSA](https://www.microsoft.com/licensing/mpsa/default)  |  
 |Responda a perguntas de preenchimento sobre serviços online associado ao programa CSP (provedor de soluções de nuvem).  | [Como vender assinaturas do CSP para os clientes](customer-subscriptions.md)  |
 |Responda perguntas sobre as opções de pagamento e financiamento da Microsoft.  | [Perguntas frequentes do programa de financiamento da Microsoft](https://download.microsoft.com/download/3/9/0/390DF0B3-8B15-4E65-AF5E-71A7280E7682/Microsoft-Financing-Program-FAQ-Customer_en-US.pdf)  |
@@ -78,7 +75,7 @@ Se você tiver dúvidas específicas sobre o cumprimento, pagamento ou financiam
 
 Seu provedor indireto (para o programa CSP) ou o distribuidor do programa deve ser capaz de ajudar a responder a muitas de suas perguntas específicas sobre licenciamento ou fazer negociações com o cliente. Os recursos a seguir também podem ser de ajuda para você.
 
-|Para fazer isto  | Consulte  |
+|Para fazer isso  | Consulte  |
 |:------------------|:--------------- |
 |Encontre um parceiro ou distribuidor | [Encontre um parceiro que possa ajudar](find-a-partner.md)  |
 |Exibir preços e ofertas do programa CSP do painel do Partner Center *(deve ser registrado no programa CSP para ver esse painel)*  |[Preços do CSP e oferece](pricing-and-offers.md) [documentos e recursos de](csp-documents-and-learning-resources.md) visão geral ou CSP |

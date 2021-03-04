@@ -1,5 +1,5 @@
 ---
-title: Registre-se como um parceiro de aprendizagem
+title: Inscrever-se como um parceiro de aprendizado
 ms.topic: how-to
 ms.date: 02/05/2021
 description: Use o Partner Center para se registrar no programa de parceiros de aprendizagem. Você pode fazer isso com base no Action Pack de aprendizado ou na opção de aprendizado para competências Silver ou ouro.
@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: c7e4f2b395ac421c9c01a813689723901374124a
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99975655"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756132"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Use o Partner Center para se registrar como um parceiro de aprendizagem da Microsoft
 
@@ -40,7 +40,7 @@ Ao registrar-se no programa de parceiro de aprendizagem, aqui estão alguns pont
 
 **ATUALIZAÇÃO DO COVID-19**
 
-A Microsoft está oferecendo a extensão de competência (com exceção da competência de Business Applications de nuvem) e da extensão de Especialização avançada para parceiros com datas de aniversário (AD) entre 1º de janeiro de 2021 e 30 de junho de 2021. Leia nossa [postagem no blog do parceiro](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) para obter mais informações.
+A Microsoft está oferecendo a extensão de competência (com exceção da competência Cloud Business Applications) e da extensão de especialização avançada para os parceiros com DA (datas de aniversário) entre 1º de janeiro e 30 de junho de 2021. Examine nossa [postagem no blog do parceiro](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) para obter mais informações.
 
 Para se manter atualizado com os comunicados do programa de aprendizado, [Leia nosso blog](https://techcommunity.microsoft.com/t5/microsoft-learn/ct-p/MicrosoftLearn) e Confira nossa [página de parceiros de aprendizagem do Yammer](https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiI4NDU0NDI3In0/all). Você também pode encontrar documentos de programas e gravações mensais de chamadas à Comunidade em nossa [página de recursos de aprendizado](https://partner.microsoft.com/marketing/learning-resources#/).
 
@@ -115,7 +115,7 @@ A reunião de um KPI não está relacionada à duração do treinamento. Para sa
 
 ### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>Q. Por que eu não apareceu como um parceiro do Microsoft Learning no diretório de parceiros de aprendizagem?
 
-Talvez seja necessário adicioná-lo ao [diretório de parceiros de aprendizagem](https://docs.microsoft.com/learn/certifications/partners). Em seguida, você pode vincular ao seu site na página do diretório do parceiro de aprendizado.
+Talvez seja necessário adicioná-lo ao [diretório de parceiros de aprendizagem](/learn/certifications/partners). Em seguida, você pode vincular ao seu site na página do diretório do parceiro de aprendizado.
 
 Esse é um processo manual que é enviado apenas uma vez por mês, durante a terceira semana. A atualização subsequente será visível no final da primeira semana do mês seguinte. Para ajudá-lo a resolver a situação, entre em contato com o [suporte do Partner frente](https://partner.microsoft.com/support). Esteja preparado para fornecer os seguintes detalhes:
 

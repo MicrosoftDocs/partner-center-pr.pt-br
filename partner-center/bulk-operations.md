@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 16975e78c10aeb73bf141c1a1d0a215ac885039c
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: d601fec4bbdaad72f02c16b399cc320cc607d8ed
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645632"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756057"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>Operações em massa para as oportunidades de venda conjunta usando arquivos CSV (valores separados por vírgula)
 
@@ -77,13 +77,13 @@ Nome do contato do cliente|Depende|O nome só será obrigatório se você precis
 Sobrenome do contato do cliente|Depende|O sobrenome só será obrigatório se você precisar da ajuda da Microsoft. Sobrenome do contato principal da organização do cliente que está trabalhando nesse negócio.|Cliente
 Número de telefone de contato do cliente|Depende|O número de telefone só será obrigatório se você precisar da ajuda da Microsoft. Número de telefone do contato principal da organização do cliente que está trabalhando nesse negócio.|9999999999
 Endereço de email de contato do cliente|Depende|O endereço de email só será obrigatório se você precisar da ajuda da Microsoft. Endereço de email do contato principal da organização do cliente que está trabalhando nesse negócio.|john.customer@contoso.com
-Status de referência do parceiro|Sim|Indica o status do negócio da perspectiva da sua empresa. Necessário se você estiver tentando criar ou modificar uma referência. Use **novo** se você estiver tentando criar um novo negócio. Os valores aceitos são documentados [aqui](https://docs.microsoft.com/partner/develop/referral-resources#referralstatus).|Ativo
-Substatus de referência do parceiro|Sim|Indica o status exato do negócio. Use **aceito** se você estiver tentando criar um novo negócio. Ele também será necessário se você estiver modificando uma referência existente. Os valores aceitos são documentados [aqui](https://docs.microsoft.com/partner/develop/referral-resources#referralsubstatus).|Aceito
+Status de referência do parceiro|Sim|Indica o status do negócio da perspectiva da sua empresa. Necessário se você estiver tentando criar ou modificar uma referência. Use **novo** se você estiver tentando criar um novo negócio. Os valores aceitos são documentados [aqui](/partner/develop/referral-resources#referralstatus).|Ativo
+Substatus de referência do parceiro|Sim|Indica o status exato do negócio. Use **aceito** se você estiver tentando criar um novo negócio. Ele também será necessário se você estiver modificando uma referência existente. Os valores aceitos são documentados [aqui](/partner/develop/referral-resources#referralsubstatus).|Aceito
 Status de referência da Microsoft|Depende|Indica o status da solicitação de televenda que você enviou para a ajuda de busca da Microsoft. Este é um campo somente leitura. Qualquer alteração feita nesse campo durante a importação dos dados será ignorada.| Pendente
 Motivo recusado/perdido|Depende| Você precisará fornecer essas informações somente se estiver alterando o substatus do campo para recusado ou perdido. Caso contrário, você poderá ignorar essa coluna. <br/> **Insira um número com base nas opções abaixo** <br/><br/> **1**-o orçamento do projeto não é adequado  <br/> **2**-o cliente não respondeu  <br/> **3**-cliente escolheu outro fornecedor  <br/> **4** -requisito do cliente não atendido  <br/> **5** -não é um cliente <br/> **6**-a linha de tempo proposta era muito curta <br/> **7** -relatar como abuso, spam ou phishing <br/> **8** -outros |6|
-Estágio de Vendas|Não|Este é o campo para indicar o estágio de vendas detalhado da referência. Leia mais sobre os estágios de vendas [aqui](https://aka.ms/salesStages)|40
+Estágio de Vendas|Não|Este é o campo para indicar o estágio de vendas detalhado da referência. Leia mais sobre os estágios de vendas [aqui](./manage-co-sell-opportunities.md)|40
 Valor de negócio estimado|Sim|"O valor do acordo com base nas conversas iniciais com o cliente. Isso pode ser alterado até que o negócio atinja um dos Estados de terminal| venceu ou perdido ".|12563
-Currency|Sim|A moeda na qual o valor de acordo é inserido. Você pode encontrar os códigos de moeda [aqui](https://en.wikipedia.org/wiki/ISO_4217).|USD
+Moeda|Sim|A moeda na qual o valor de acordo é inserido. Você pode encontrar os códigos de moeda [aqui](https://en.wikipedia.org/wiki/ISO_4217).|USD
 Data de fechamento estimada|Sim|A data de fechamento estimada do negócio com base nas conversas iniciais com o cliente no formato MM/DD/AAAA. <br/> **A data deve estar no fuso horário UTC. Todas as datas exibidas na interface do usuário do Partner Center são baseadas em fusos locais. Pode haver uma diferença de +/-um dia na interface do usuário do Partner Center se você estiver olhando para a referência para a qual forneceu a data no fuso horário UTC.**|1/30/2020
 ID DO CRM|Não|Identificador dessa referência específica em seu sistema CRM, se houver. Este é um campo de entrada de texto de formato livre.|34234324-sdfsdf-345345-SFD
 ID da campanha de marketing|Não|Este campo indica a campanha de marketing, que resultou nessa referência específica. Normalmente usado para cálculo de ROI|BingSummer2020

@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99835060"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756708"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Perguntas frequentes sobre incentivos
 
@@ -67,9 +67,9 @@ A razão provável para você não ver os incentivos é que você não tem as pe
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Alguns registros estão ausentes na página Visão geral de incentivos.
 
-Se você tiver recebido um convite ou se tiver registrado no, um programa de incentivos que não está mais visível no painel, você deve verificar se tem o acesso apropriado. Somente usuários com função de administrador de incentivo ou de incentivo podem ver o programa. Consulte [localizar sua função](https://docs.microsoft.com/partner-center/find-your-role).
+Se você tiver recebido um convite ou se tiver registrado no, um programa de incentivos que não está mais visível no painel, você deve verificar se tem o acesso apropriado. Somente usuários com função de administrador de incentivo ou de incentivo podem ver o programa. Consulte [localizar sua função](./find-your-role.md).
 
-Se você precisar alterar sua função ou permissões, entre em contato com o administrador da conta ou global da sua empresa. Para saber quem são essas pessoas, leia [localizar seu administrador global](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin).
+Se você precisar alterar sua função ou permissões, entre em contato com o administrador da conta ou global da sua empresa. Para saber quem são essas pessoas, leia [localizar seu administrador global](./find-your-role.md#find-your-global-admin).
 
 Observe que a página Visão geral exibirá apenas os registros associados à conta global do parceiro (PGA) associada ao locatário do Azure AD. Se sua empresa tiver mais de um PGA, você precisará ter credenciais diferentes para cada um.
 

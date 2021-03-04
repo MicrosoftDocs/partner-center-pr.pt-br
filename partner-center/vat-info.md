@@ -6,19 +6,19 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 12/04/2020
-ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: 6ed9f7b9bbe33e209a2e482ab4f3035decb46245
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755632"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755748"
 ---
 # <a name="value-added-tax-vat-information"></a>Informações de IVA (imposto sobre valor agregado)
 
-**Aplica-se a:**
+**Funções apropriadas**
 
-- Partner Center
-- Marketplace comercial
+- Administrador de conta
+
 
 Se for necessário fornecer um número de ID de IVA durante o processo de registro do Partner Center, aqui estão algumas informações para você começar.
 
@@ -77,7 +77,8 @@ Observe que a Microsoft não fornece conselhos de impostos, e a tabela a seguir 
 |Eslovênia |-Formato do número de IVA: 2 letras e 8 dígitos<br/>-Código de país/região: SI<br/>-Exemplo: SI12345678<br/>-Observações: os primeiros caracteres serão sempre ' SI '. |
 |Espanha |-Formato do número de IVA: 9 dígitos<br/>-Código de país/região: ES<br/>-Exemplo: X12345678, 12345678X ou X1234567X<br/>-Observações: inclui 1 ou 2 letras: a primeira, a última ou a primeira e a última. |
 |Suécia |-Formato do número de IVA: 12 dígitos<br/>-Código de país/região: SE<br/>-Exemplo: 123456789001<br/>-Observações: os dois últimos caracteres devem ser ' 01 '. |
-|Reino Unido |-Formato do número de IVA: 9 ou 12 dígitos<br/>-Código de país/região: GB<br/>-Exemplo: 123456789 ou 123456789001<br/>-Observações: 9 dígitos geralmente, mas 12 dígitos se o número representar uma subempresa dentro de um grupo. |
+|United Kingdom |-Formato do número de IVA: 9 ou 12 dígitos<br/>-Código de país/região: GB<br/>-Exemplo: 123456789 ou 123456789001<br/>-Observações: 9 dígitos geralmente, mas 12 dígitos se o número representar uma subempresa dentro de um grupo. |
+
 ## <a name="next-steps"></a>Próximas etapas
 
 - [Informações de impostos sobre a empresa e como adicionar ou enviar IDs de IVA para compras do Partner Center](organization-tax-info.md)

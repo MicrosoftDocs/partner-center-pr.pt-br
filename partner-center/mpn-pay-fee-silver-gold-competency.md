@@ -8,12 +8,12 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 5ce5dadfc7fbb22ffc206e2dd48cccc0b274c499
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042677"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101757383"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Como pagar a tarifa associada a uma competência Silver ou ouro
 
@@ -37,7 +37,7 @@ Caso contrário, siga estas etapas para pagar a taxa por uma competência Silver
 
 - Você já atendeu aos [requisitos](https://partner.microsoft.com/membership/competencies) para obter uma competência de prata ou ouro específica.
 
-- Você recebeu a função do Partner Center do administrador [global ou do administrador do parceiro do MPN](https://docs.microsoft.com/partner-center/permissions-overview). Se você for um usuário convidado sem uma dessas funções, terá acesso negado a algumas das páginas do centro de parceiros descritas abaixo. Se isso acontecer, [entre em contato com seu administrador global](https://docs.microsoft.com/partner-center/find-your-role) e peça para atribuir a você a função apropriada. 
+- Você recebeu a função do Partner Center do administrador [global ou do administrador do parceiro do MPN](./permissions-overview.md). Se você for um usuário convidado sem uma dessas funções, terá acesso negado a algumas das páginas do centro de parceiros descritas abaixo. Se isso acontecer, [entre em contato com seu administrador global](./find-your-role.md) e peça para atribuir a você a função apropriada. 
 
 1. Usando as credenciais de conta corporativa da sua organização, entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center.
 
@@ -54,7 +54,7 @@ Caso contrário, siga estas etapas para pagar a taxa por uma competência Silver
 
 4. Na página **detalhes da compra** , examine e confirme seus detalhes.
 
-   (Saiba mais sobre como atualizar [as informações de **ID de imposto**](https://docs.microsoft.com/partner-center/organization-tax-info) da sua empresa ou a [ **cobrança/venda** da sua empresa para o endereço da empresa](https://docs.microsoft.com/partner-center/mpn-get-action-pack).)
+   (Saiba mais sobre como atualizar [as informações de **ID de imposto**](./organization-tax-info.md) da sua empresa ou a [ **cobrança/venda** da sua empresa para o endereço da empresa](./mpn-get-action-pack.md).)
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="A associação oferece a página de detalhes de compra com preferências de pagamento." border="false":::
 

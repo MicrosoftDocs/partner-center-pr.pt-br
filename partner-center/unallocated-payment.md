@@ -9,18 +9,19 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bddf0482e20817f9087a3610104652dabdef72c4
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: d3920cbdc52a844477aacac9c7ac2122c14edeba
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811116"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755817"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Gerenciar pagamentos não alocados na página de cobrança do Partner Center
 
-**Aplica-se a**
+**Funções apropriadas**
 
-- Partner Center
+- Administrador de cobrança
+- Administrador de conta
 
 Ocasionalmente, você poderá ver um pagamento não alocado em sua página de cobrança. Um pagamento não alocado é um pagamento que você fez à Microsoft que não aplicou a uma fatura específica.
 
@@ -35,3 +36,7 @@ Ocasionalmente, você poderá ver um pagamento não alocado em sua página de co
 Para aplicar esse valor a uma fatura específica, envie um email bposcapp@microsoft.com e informe a qual fatura aplicar este pagamento. Certifique-se de incluir todas as informações que você faria se estivesse fazendo um pagamento. Sua página de cobrança será atualizada em 5-6 dias. 
 
 Os pagamentos não alocados permanecem desalocados até que você os atribua a uma fatura. 
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Cobrança de produtos e assinaturas do Marketplace comercial no Partner Center](csp-commercial-marketplace-billing.md)

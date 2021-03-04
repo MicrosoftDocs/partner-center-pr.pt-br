@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d09c1e57d16937c5656579f3932e9c8feb3ecf24
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: d927b138c32b3e5f6f5d906db898e17f89a85aae
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488071"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755778"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Saiba como ler os itens de linha em seus arquivos de reconciliação do Partner Center
 
@@ -23,20 +23,20 @@ Aplica-se a:
 - Partner Center
 - Partner Center do Microsoft Cloud for US Government
 
-Você pode baixar seus arquivos de reconciliação do Partner Center para obter uma exibição detalhada de item de linha de cada encargo em um ciclo de cobrança. Os detalhes do item de linha incluem encargos para as assinaturas de cada cliente e eventos detalhados (como uma adição de licenças de médio prazo a uma assinatura).
-
-Funções apropriadas:
+**Funções apropriadas**
 
 - Administrador de cobrança
 - Administrador global
 
-Para obter informações sobre como ler sua **fatura** , consulte [ler sua fatura](read-your-bill.md).
+Você pode baixar seus arquivos de reconciliação do Partner Center para obter uma exibição detalhada de item de linha de cada encargo em um ciclo de cobrança. Os detalhes do item de linha incluem encargos para as assinaturas de cada cliente e eventos detalhados (como uma adição de licenças de médio prazo a uma assinatura).
+
+Para obter informações sobre como ler sua **fatura**, consulte [ler sua fatura](read-your-bill.md).
 
 ## <a name="understand-reconciliation-file-fields"></a>Entender os campos de arquivo de reconciliação
 
-- [Campos de arquivo de reconciliação com base em licença](license-based-recon-files.md)
-- [Campos de arquivo de reconciliação com base no uso](usage-based-recon-files.md)
-- [Campos de arquivo de reconciliação de uso com classificação diária](daily-rated-usage-recon-files.md)
+- [Campos do arquivo de reconciliação baseados na licença](license-based-recon-files.md)
+- [Campos do arquivo de reconciliação baseados no uso](usage-based-recon-files.md)
+- [Campos do arquivo de reconciliação de uso com classificação diária](daily-rated-usage-recon-files.md)
 - [Campos de arquivo de reconciliação do CSP de compra única](modern-invoice-reconciliation-file.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>Entender os tipos de encargo em arquivos de reconciliação
@@ -81,11 +81,11 @@ Os parceiros no **modelo indireto** podem usar esses campos adicionais em arquiv
 
 Se um parceiro CSP vendeu a assinatura diretamente ao cliente, sua **ID MPN** é listada duas vezes, como a **ID MPN** e a **ID de MPN do revendedor**.
 
-Se um parceiro CSP tiver um revendedor sem **ID MPN** , esse valor será definido como a ID de **MPN** do parceiro em vez disso.
+Se um parceiro CSP tiver um revendedor sem **ID MPN**, esse valor será definido como a ID de **MPN** do parceiro em vez disso.
 
-Se o parceiro CSP remover uma **ID de MPN do revendedor** , esse valor será definido como *-1*.
+Se o parceiro CSP remover uma **ID de MPN do revendedor**, esse valor será definido como *-1*.
 
-Para exibir ou atualizar a **ID de MPN do revendedor** :
+Para exibir ou atualizar a **ID de MPN do revendedor**:
 
 1. Conecte-se ao Partner Center.
 2. No menu Partner Center, selecione **Clientes**.
@@ -93,3 +93,7 @@ Para exibir ou atualizar a **ID de MPN do revendedor** :
 4. No menu cliente, selecione **assinaturas**.
 5. Escolha a assinatura na lista.
 6. Selecione **Atualizar** para alterar o **Revendedor (ID do MPN)**.
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Como ler o arquivo Bill & reconhecimento](read-your-bill.md) 

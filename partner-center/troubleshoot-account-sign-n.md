@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6bf3e3af8e0d1d87a63f86e892d8bddcd74b6460
-ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
+ms.openlocfilehash: 9622f02039360e8ab39f459c9a2fe082ec70c854
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "94381402"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756744"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Solucionar problemas de configuração de conta ou de renovação de MPN
 
-**Aplica-se a**
 
-- Partner Center
- 
 **Funções apropriadas**
 
 - Administrador global

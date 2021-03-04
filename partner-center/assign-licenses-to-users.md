@@ -1,7 +1,7 @@
 ---
 title: Gerenciar usuários para contas de clientes
 ms.topic: how-to
-ms.date: 05/13/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Gerenciar usuários para seus clientes no Partner Center – criar contas de usuário, adicionar ou remover licenças de usuário, redefinir senhas e excluir ou restaurar contas de usuário.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 0e2bb4ceb146174da83e9c08a9ff030380298bd0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570732"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756082"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gerenciar usuários e licenças de usuário para contas de clientes 
 
@@ -28,6 +28,9 @@ ms.locfileid: "96570732"
 Você pode criar e excluir novos usuários na conta de um cliente. Você também pode restaurar uma ou mais contas de usuário que você excluiu anteriormente dentro de 30 dias da exclusão. As atribuições de assinatura anteriores do usuário também serão restauradas (supondo que suas alocações anteriores estejam disponíveis).
 
 Quando você adquire novas assinaturas para um cliente, o cliente deve fornecer uma lista de todos os usuários que precisarão de contas, suas permissões de usuário e os serviços de que cada usuário precisa.  
+
+>[!NOTE]
+>A seção **usuários e licenças** da guia **cliente** mostra todos os usuários criados em um locatário específico do cliente, incluindo usuários que têm licenças adquiridas de outro parceiro CSP ou de outro canal de compra.
 
 Você pode [atribuir assinaturas a vários usuários](bulk-license-provisioning-for-multiple-users.md) ao mesmo tempo. Basta importar os nomes usando um [arquivo de planilha .csv compatível com o Excel](adding-multiple-users-to-a-customer-account.md).
 

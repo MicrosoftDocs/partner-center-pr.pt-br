@@ -1,7 +1,7 @@
 ---
 title: Indicadores de contribuição do parceiro – CBA
 ms.topic: article
-ms.date: 02/03/2021
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre sete indicadores de contribuição de parceiros (PCI) que mostram aos parceiros como obter uma competência de Business Applications de nuvem prata ou ouro.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530809"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756560"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Use indicadores de contribuição de parceiro para obter a competência de Business Applications de nuvem
 
@@ -155,7 +155,7 @@ Você só poderá receber o crédito dessas métricas de PCI para um determinado
 - Você é o CPOR (parceiro de registro) reivindicador de uma assinatura paga que pertence ao locatário do cliente
 - Você é um DPOR (parceiro de registro digital) para uma assinatura paga que pertence ao locatário do cliente
 
-Um parceiro se tornará o CPOR se tiver estabelecido a associação com um cliente no nível de assinatura por meio do incentivo do Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) ou da OSU (Dynamics 365 [Online Services Usage](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) ).
+Um parceiro se tornará o CPOR se tiver estabelecido a associação com um cliente no nível de assinatura por meio do incentivo do Dynamics 365 Online Services Advisor (OSA) ou da OSU (Dynamics 365 Online Services Usage). Para saber mais, confira [entender as associações do CPOR](incentives-customer-associations-intro.md).
 
 Um parceiro se tornará o DPOR se tiver estabelecido uma associação com um cliente no nível de assinatura no produto.
 

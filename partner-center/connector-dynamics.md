@@ -1,19 +1,19 @@
 ---
 title: O conector de televenda para o centro de parceiros do Dynamics 365 CRM
 ms.topic: how-to
-ms.date: 02/16/2021
+ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Sincronize as referências no Partner Center com seu conector de televenda para o Dynamics 365 CRM. Os vendedores podem, então, vender com a Microsoft de dentro de seus sistemas de CRM.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: e465130b96886cf2bb77bcd94f56c1a12545a5d5
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645669"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756799"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Conector de venda conjunta para Dynamics 365 CRM – visão geral
 
@@ -31,11 +31,11 @@ A solução baseia-se na solução de automatização de energia da Microsoft e 
 |**Tópicos**   |**Detalhes**   |**Links**   |
 |--------------|--------------------|------|
 |ID de Microsoft Partner Network |Você precisa de uma ID de MPN válida|Para ingressar no [MPN](https://partner.microsoft.com/)|
-|Covenda pronta|Sua solução de IP/serviços deve estar pronta para venda.|[Venda com a Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
+|Co-venda pronta|Sua solução de IP/serviços deve estar pronta para venda.|[Venda com a Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Conta do Partner Center|A ID de MPN associada ao locatário do Partner Center deve ser a mesma que a ID do MPN associada à sua solução de venda conjunta. Verifique se você pode ver suas referências de venda conjunta no portal do Partner Center antes de implantar os conectores.|[Gerenciar sua conta](create-user-accounts-and-set-permissions.md)|
 |Funções de usuário da Central de parceiros|O funcionário que irá instalar e usar os conectores deve ser um administrador de referências|[Atribuir permissões e funções de usuários](create-user-accounts-and-set-permissions.md)| 
 |CRM do Dynamics 365|A função de usuário CRM é administrador do sistema ou personalizador do sistema|[Atribuir funções no Dynamics 365](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
-|Conta de fluxo de automatização de energia|Crie um novo ambiente de produção com o banco de dados para teste/preparo e produção. Se você tiver um ambiente de produção existente com o banco de dados, ele poderá ser usado novamente. O usuário que vai instalar a solução de conector precisa ter a licença automatizada de energia e acesso a esse ambiente. Você pode monitorar o progresso e obter mais detalhes se a instalação falhar na [automatização de energia](https://flow.microsoft.com/) clicando em ver histórico em soluções.|[Criar ou gerenciar ambiente](https://docs.microsoft.com/power-platform/admin/create-environment#create-an-environment-with-a-database)|
+|Conta de fluxo de automatização de energia|Crie um novo ambiente de produção com o banco de dados para teste/preparo e produção. Se você tiver um ambiente de produção existente com o banco de dados, ele poderá ser usado novamente. O usuário que vai instalar a solução de conector precisa ter a licença automatizada de energia e acesso a esse ambiente. Você pode monitorar o progresso e obter mais detalhes se a instalação falhar na [automatização de energia](https://flow.microsoft.com/) clicando em ver histórico em soluções.|[Criar ou gerenciar ambiente](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
 
 ## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Instalar a sincronização de referências do Partner Center para o Dynamics 365 (solução de automatização de energia)
 
@@ -110,7 +110,7 @@ Antes de instalar, configurar e personalizar a solução de automatização de e
 
 1. Volte para a página **soluções** e selecione **solução padrão**. Selecione **referência de conexão (versão prévia)** clicando em **tudo**.
 
-:::image type="content" source="images/cosellconnectors/dynamics-3.png" alt-text="Connect":::
+:::image type="content" source="images/connection-reference-video.gif" alt-text="Editando as conexões":::
 
 2. Edite cada uma das conexões uma por uma selecionando o ícone de três pontos. Adicione as conexões relevantes.
 
@@ -141,9 +141,9 @@ As APIs de webhook do Partner Center permitem que você se registre em eventos d
 
 3. Selecione o ícone de **cópia** para copiar a URL de postagem http fornecida.
 
-   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="Copiar URL":::
+ :::image type="content" source="images/webhook-video.gif" alt-text="Usar WebHooks para registrar alterações de recursos":::
 
-4. Agora, selecione o fluxo "registro do webhook do Partner Center (insider Preview)" automatizar fluxos de energia e selecione **executar**.
+4. Selecione o fluxo "registro do webhook do Partner Center (insider Preview)" automatizar fluxos de energia e, em seguida, selecione **executar**.
 
 5. Verifique se a janela "executar fluxo" é aberta no painel direito e clique em **continuar**.
 
@@ -205,7 +205,7 @@ Para atualizar um valor de variável de ambiente:
 
 3. Atualize o **valor atual** (não atualize o valor padrão) usando a opção **novo valor** e forneça o valor. O valor deve corresponder ao tipo de dados da variável, por exemplo, sim/nenhum tipo de dados aceitará Sim ou nenhum valor.
 
-:::image type="content" source="images/cosellconnectors/dynamics-5.png" alt-text="Caixa de edição para valores padrão":::
+:::image type="content" source="images/environment-variables-video.gif" alt-text="Atualizar variáveis de ambiente":::
 
 - Sincronização de referência de cooperação bidirecional de ponta a ponta
 

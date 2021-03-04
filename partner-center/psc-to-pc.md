@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 84863e96278ba17ecc9922ff9589abc504ff1fe0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281364"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756181"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guia para a venda em conjunto no Partner Center (PC) para parceiros migrando do PSC (Partner Sales Connect)
 
@@ -28,12 +28,15 @@ ms.locfileid: "100281364"
 
 Este artigo fornece diretrizes para parceiros que migram de vendas de parceiros conectam-se ao Partner Center para que eles possam continuar criando e gerenciando acordos de venda de produtos no Partner Center.
 
-Como você sabe, sua empresa perderá o acesso ao PSC após 31 de março de 2021. No entanto, você ainda encontrará tudo o que deseja fazer no Partner Center, como criar negociações de venda, gerenciar suas negociações e agir sobre as negociações enviadas para você pelos vendedores da Microsoft.
-
-No entanto, haverá diferenças. As diretrizes a seguir podem ajudar a fazer sua transição para o Partner Center mais fácil e mais simples.
+>[!Note]
+> Se você estiver aqui porque viu uma faixa no PSC sobre a migração, você está no lugar certo. Este guia não se aplica aos parceiros comerciais de avaliação de solução (SA) e de licenciamento OEM que gerenciam suas negociações no PSC.
 
 >[!Important]
-> Se você estiver aqui porque viu uma faixa no PSC sobre a migração, você está no lugar certo. Este guia não é aplicável à SA (avaliação de solução) e a parceiros de IOT OEM que gerenciam suas negociações no PSC.
+> A partir de 1º de maio de 2021, sua empresa não será capaz de criar ou editar acordos no PSC. **Você ainda poderá baixar os dados de negócios existentes usando o recurso de exportação em massa no PSC. Você também pode [migrar acordos abertos](psc-to-pc.md#psc-deals-migration) do PSC para o Partner Center após essa data.** <br><br> Se houver acordos em que você está trabalhando ativamente e que contenham soluções elegíveis de incentivo de venda de IP, você tem duas opções: <br><br> 1. Marque o negócio como ganho e conclua o registro do negócio no PSC antes de 30 de abril de 2021. <br> 2. [migre as negociações para o](psc-to-pc.md#psc-deals-migration) Partner Center para que você obtenha mais tempo para trabalhar no negócio e inicie o registro de negócios.
+
+Como você sabe, **a empresa perderá o acesso ao PSC após 31 de maio de 2021**. No entanto, você ainda encontrará tudo o que deseja fazer no Partner Center, como criar negociações de venda, gerenciar suas negociações e agir sobre as negociações enviadas para você pelos vendedores da Microsoft.
+
+No entanto, haverá diferenças. As diretrizes a seguir podem ajudar a fazer sua transição para o Partner Center mais fácil e mais simples.
 
 ## <a name="before-you-move-things-you-need-to-know"></a>Antes de mover, as coisas que você precisa saber
 
@@ -90,7 +93,7 @@ Para localizar o administrador da conta da sua empresa:
 Depois de configurar sua conta no Partner Center, use o assistente de migração de usuário na página de oportunidades de venda para atribuir automaticamente funções do Partner Center aos funcionários de sua empresa.
 
 >[!Note]
-> A migração de usuário só pode ser executada por [Administradores de conta](permissions-overview.md#manage-mpn-membership-and-your-company) da sua empresa. Se você não tiver a função Administrador de conta, localize um administrador de conta que possa ajudar a configurar as contas de usuário com a ajuda do assistente de migração de usuário. A funcionalidade de migração do usuário estará disponível a partir de 18 de novembro de 2020.
+> A migração de usuário só pode ser executada por [Administradores de conta](permissions-overview.md#manage-mpn-membership-and-your-company) da sua empresa. Se você não tiver a função Administrador de conta, localize um administrador de conta que possa ajudar a configurar as contas de usuário com a ajuda do assistente de migração de usuário.
 
 :::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Imagem mostrando o assistente de migração de usuário.":::
 
@@ -135,7 +138,7 @@ Leia esta seção antes de iniciar a migração de negociações.
 
 **Qualificado para migração**
 
-Somente algumas ofertas estão qualificadas para a migração do PSC para o PC. Este assistente de migração foi criado para ajudar os parceiros a trazer seus negócios para o Partner Center, onde eles ainda estão trabalhando ativamente com seus clientes para fechar o negócio. **Somente as negociações que estão em estado aberto com detalhes válidos da conta de parceiro (ID de MPN válida) e que não estão em registro de negociação são elegíveis para a migração.**
+Somente algumas ofertas estão qualificadas para a migração do PSC para o PC. Este assistente de migração foi criado para ajudar os parceiros a trazer seus negócios para o Partner Center, onde eles ainda estão trabalhando ativamente com seus clientes para fechar o negócio. **Somente as negociações que estão em estado aberto são criadas a partir de 1º de janeiro de 2020 com detalhes válidos da conta de parceiro (ID de MPN válida) e o registro de negociação não está qualificado para migração.**
 
 **Não qualificado para migração**
 
@@ -200,7 +203,7 @@ Se sua empresa tiver um gerente de desenvolvimento de parceiros (PDM) – quando
 Se sua empresa não tiver um PDM, verifique se todas as contas de usuário estão configuradas e verificadas por todos os usuários. Você será notificado por meio de um email e uma faixa no PSC em relação à data exata quando puder começar a trabalhar com a venda no Partner Center. Lembre-se de que você ainda precisará gerenciar as negociações ativas existentes no PSC.
 
 >[!Important]
->As negociações ativas não serão migradas para o PC. Você tem até 31 de março de 2021 para fechar e registrar as negociações.
+> Você tem até 30 de abril de 2021 para registrar as negociações marcadas como ganhas.
 
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>Próximas etapas para administradores do PSC, gerentes de negócios do PSC e vendedores do PSC
 

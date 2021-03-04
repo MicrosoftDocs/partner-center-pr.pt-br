@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2ae635b77acc82ea705f3405d1c15aa7d02684dd
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: 944f02af414a2865cadf94cd4fbf41c2555e066b
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322093"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755707"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Diferentes maneiras pelas quais você pode trabalhar com outros parceiros no Partner Center
 
-**Aplica-se a**
+**Funções apropriadas**
 
-- Partner Center
+- administrador da conta
 
 O programa CSP (provedor de soluções na nuvem) da Microsoft oferece oportunidades para que os parceiros trabalhem juntos dessa maneira.
 
@@ -55,4 +55,4 @@ O recurso de vários canais do Partner Center dá suporte a cenários quando um 
 O suporte multi-canal também está disponível nas ofertas de nuvem nacionais da Microsoft.
 
 > [!IMPORTANT]  
-> Um parceiro no programa CSP não pode revender serviços online para outro parceiro que esteja no programa CSP atualmente. Essa restrição se aplica somente ao locatário usado para a realização de transações CSP. Os parceiros CSP que usam um locatário não CSP para seu uso corporativo podem comprar serviços online de outro parceiro CSP. A Microsoft revisa continuamente as políticas e competências de todos os programas. Quaisquer novidades sobre os lançamentos de recursos serão anunciadas por meio dos canais de comunicação normais, incluindo os [anúncios do Partner Center](announcements/index.md).
+> Um parceiro no programa CSP não pode revender serviços online para outro parceiro que esteja no programa CSP atualmente. Essa restrição se aplica somente ao locatário usado para a realização de transações CSP. Os parceiros CSP que utilizam um locatário não CSP para uso corporativo podem comprar serviços online de outro parceiro CSP. A Microsoft revisa continuamente as políticas e competências de todos os programas. Quaisquer novidades sobre os lançamentos de recursos serão anunciadas por meio dos canais de comunicação normais, incluindo os [anúncios do Partner Center](announcements/index.md).

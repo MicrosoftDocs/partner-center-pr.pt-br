@@ -1,7 +1,7 @@
 ---
 title: Relatar problemas em nome de um cliente
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba quando escalonar um problema de atendimento ao cliente para a Microsoft e como arquivar um tíquete de suporte para diferentes tipos de serviços da Microsoft.
@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97153138"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756444"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Relatar um problema de serviço em nome de um cliente, incluindo quando e como fazer isso
 
@@ -146,8 +146,6 @@ Se você entrar no centro de administração do Office 365 diretamente, você es
 Se você estiver enfrentando problemas relacionados a: assinaturas do plano do Dynamics 365, licenciamento, cobrança, finanças & operações, licenças de produto do Dynamics 365 ou precisar de mais suporte técnico:
  
 Contate o [Suporte do Dynamics](/dynamics365/customer-engagement/admin/contact-technical-support)
-
-Leia [Suporte do Microsoft Dynamics](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)
 
 ## <a name="next-steps"></a>Próximas etapas
 

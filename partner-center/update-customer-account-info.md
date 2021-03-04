@@ -9,19 +9,19 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89d685aef9fbaa004cfa5c7763d19c7ff03186d5
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: c291a2cf859d0c21570a06fab5bc36b19eccfda2
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811146"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755836"
 ---
 # <a name="update-customer-account-info-company-details-and-customer-billing-information-in-partner-center"></a>Atualizar informações de conta do cliente, detalhes da empresa e informação de cobrança do cliente no Partner Center
 
-**Aplica-se a**
+**Funções apropriadas**
 
-- Partner Center
-- Partner Center do Microsoft Cloud for US Government
+- Administrador global
+- Agente de vendas
 
 No Partner Center, você pode atualizar as informações de cobrança do cliente e outros detalhes da empresa. Você também pode [conceder ou remover sua permissão para que um cliente Compre seus próprios produtos ou serviços](give-customers-permission.md).
 
@@ -31,4 +31,8 @@ No Partner Center, você pode atualizar as informações de cobrança do cliente
 
 2. No menu do cliente, selecione **Conta** e, em seguida, **Atualizar**.
 
-3. Depois de fazer as alterações, selecione **Enviar **.
+3. Depois de fazer as alterações, selecione **Enviar**.
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Dê permissão aos clientes no Partner Center para comprar seus próprios produtos ou serviços](give-customers-permission.md)
