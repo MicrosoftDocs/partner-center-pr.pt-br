@@ -9,14 +9,14 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d805b3ba9ea25fcccc4c4e82d05e524d47b7fc72
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: c273de275ed2821b9441be69fd29b931992a1982
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101758417"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185291"
 ---
-# <a name="explore-technical-presales-and-deployment-services-tpd-benefits"></a>Explore os benefícios técnicos de TPD (pré-vendas e serviços de implantação)
+# <a name="explore-technical-presales-and-deployment-services-tpd"></a>Explorar as pré-vendas técnicas e os serviços de implantação (TPD) 
 
 ## <a name="develop-your-technical-know-how"></a>Desenvolva seu conhecimento técnico
 
@@ -39,7 +39,7 @@ Todas as soluções híbridas ou de nuvem têm suporte, além do Windows 10, Win
 
 Entre com qualquer conta de usuário associada ao MPN para **[criar uma solicitação de TPD (pré-vendas técnica e serviços de implantação)](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** (a ativação do benefício técnico não é necessária).
 
-  :::image type="content" source="images/technical-benefits.png" alt-text="Vantagens técnicas e benefícios da implantação" border="false":::
+  :::image type="content" source="images/technical-benefits.png" alt-text="Benefícios de pré-venda técnica e implantação" border="false":::
 
 ## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Enviar uma solicitação de pré-vendas técnicas e serviços de implantação 
 
