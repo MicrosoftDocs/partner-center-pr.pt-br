@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 84863e96278ba17ecc9922ff9589abc504ff1fe0
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756181"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124815"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guia para a venda em conjunto no Partner Center (PC) para parceiros migrando do PSC (Partner Sales Connect)
 
@@ -32,9 +32,9 @@ Este artigo fornece diretrizes para parceiros que migram de vendas de parceiros 
 > Se você estiver aqui porque viu uma faixa no PSC sobre a migração, você está no lugar certo. Este guia não se aplica aos parceiros comerciais de avaliação de solução (SA) e de licenciamento OEM que gerenciam suas negociações no PSC.
 
 >[!Important]
-> A partir de 1º de maio de 2021, sua empresa não será capaz de criar ou editar acordos no PSC. **Você ainda poderá baixar os dados de negócios existentes usando o recurso de exportação em massa no PSC. Você também pode [migrar acordos abertos](psc-to-pc.md#psc-deals-migration) do PSC para o Partner Center após essa data.** <br><br> Se houver acordos em que você está trabalhando ativamente e que contenham soluções elegíveis de incentivo de venda de IP, você tem duas opções: <br><br> 1. Marque o negócio como ganho e conclua o registro do negócio no PSC antes de 30 de abril de 2021. <br> 2. [migre as negociações para o](psc-to-pc.md#psc-deals-migration) Partner Center para que você obtenha mais tempo para trabalhar no negócio e inicie o registro de negócios.
+> A partir de 1º de abril de 2021, sua empresa não será capaz de criar ou editar acordos no PSC. **Você ainda poderá baixar os dados de negócios existentes usando o recurso de exportação em massa no PSC. Você também pode [migrar acordos abertos](psc-to-pc.md#psc-deals-migration) do PSC para o Partner Center após essa data.** <br><br> Se houver acordos em que você está trabalhando ativamente e que contenham soluções elegíveis de incentivo de venda de IP, você tem duas opções: <br><br> 1. Marque o negócio como ganho e conclua o registro do negócio no PSC antes de 31 de março de 2021. <br> 2. [migre as negociações para o](psc-to-pc.md#psc-deals-migration) Partner Center para que você obtenha mais tempo para trabalhar no negócio e inicie o registro de negócios.
 
-Como você sabe, **a empresa perderá o acesso ao PSC após 31 de maio de 2021**. No entanto, você ainda encontrará tudo o que deseja fazer no Partner Center, como criar negociações de venda, gerenciar suas negociações e agir sobre as negociações enviadas para você pelos vendedores da Microsoft.
+Como você sabe, **a empresa perderá o acesso ao PSC após 30 de abril de 2021**. No entanto, você ainda encontrará tudo o que deseja fazer no Partner Center, como criar negociações de venda, gerenciar suas negociações e agir sobre as negociações enviadas para você pelos vendedores da Microsoft.
 
 No entanto, haverá diferenças. As diretrizes a seguir podem ajudar a fazer sua transição para o Partner Center mais fácil e mais simples.
 
