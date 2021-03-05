@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/03/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 2527e57ea0c95c5d91728dd6198490365b264c6f
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: 7593ddab8d495e3edc67cb89255c9c7cba4772d3
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124764"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102220254"
 ---
 # <a name="verify-your-company-profile-information-in-partner-center"></a>Verificar as informações do perfil da sua empresa no Partner Center
 
@@ -54,8 +54,7 @@ Atualizar seu endereço jurídico no Partner Center.
 1. Quando você selecionar **Enviar**, a identidade jurídica será reavaliada e você receberá outro email, o qual precisará aceitar.
 
 >[!Important]
->Se você for um parceiro CSP (Provedor de Soluções na Nuvem), não será possível alterar o país associado ao endereço jurídico da sua empresa. O país do endereço jurídico está vinculado ao locatário e aos serviços prestados, bem como à moeda com que você faz negócios. Se não estiver no programa CSP, você poderá alterar o país associado ao seu endereço jurídico. Os parceiros de cobrança Diretos e provedores Indiretos não podem alterar a razão social das respectivas empresas se o status de validação for "Autorizado". Se você precisar alterar o nome, será necessário [criar um tíquete de suporte](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
-
+>Se você for um parceiro CSP (Provedor de Soluções na Nuvem), não será possível alterar o país associado ao endereço jurídico da sua empresa. O país do endereço jurídico está vinculado ao locatário e aos serviços prestados, bem como à moeda com que você faz negócios. Os parceiros de cobrança Diretos e provedores Indiretos não podem alterar a razão social das respectivas empresas se o status de validação for "Autorizado". Se você precisar alterar o nome, será necessário [criar um tíquete de suporte](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
 
 ## <a name="update-your-mpn-global-business-account"></a>Atualizar sua conta comercial global do MPN
