@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: 93ee3e142bf11c3b329fd27ec7320b93aea780b8
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.openlocfilehash: a59cf0b271a0ccf5fd5a1d8e3e85ff43818a3801
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532031"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247715"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Adicionar serviços compartilhados de parceiros do Azure para que os parceiros possam comprar assinaturas do Azure para seu próprio uso
 
@@ -25,7 +25,7 @@ ms.locfileid: "94532031"
 - Agente administrativo
 - Agente de vendas
 
-Os Serviços Compartilhados do Parceiro Azure são um novo tipo de oferta para parceiros no programa CSP, permitindo que os parceiros adquiram assinaturas do Azure para uso próprio.  Ele gera a oportunidade para os parceiros usarem um método uniforme de compra, rastreamento e gerenciamento do Azure, além da capacidade de consolidar seus contratos de licenciamento e revenda do Azure com a Microsoft. Com os serviços compartilhados de parceiros do Azure, os parceiros agora têm a mesma flexibilidade para usar as assinaturas do Azure no CSP, como no Microsoft Enterprise Agreement e nos programas Web Direct, abrindo cenários como: criar ambientes de desenvolvimento e teste, implantar cargas de trabalho internas e hospedar serviços compartilhados ou aplicativos multilocatários.  
+Os Serviços Compartilhados do Parceiro Azure são um novo tipo de oferta para parceiros no programa CSP, permitindo que os parceiros adquiram assinaturas do Azure para uso próprio.  Ele gera a oportunidade para os parceiros usarem um método uniforme de compra, rastreamento e gerenciamento do Azure, além da capacidade de consolidar seus contratos de licenciamento e revenda do Azure com a Microsoft. Com os serviços compartilhados de parceiros do Azure, os parceiros agora têm a mesma flexibilidade para usar as assinaturas do Azure no CSP, como no Microsoft Contrato Enterprise e nos programas Web Direct, abrindo cenários como: criar ambientes de desenvolvimento e teste, implantar cargas de trabalho internas e hospedar serviços compartilhados ou aplicativos multilocatários.  
 
 ## <a name="create-the-shared-services-tenant"></a>Criar o locatário de serviços compartilhados
 
@@ -45,7 +45,7 @@ Os Serviços Compartilhados do Parceiro Azure são um novo tipo de oferta para p
 
 - A assinatura Azure-Serviços Compartilhados/Internos é um novo tipo de oferta do Azure no CSP acessado por meio do Partner Center que os parceiros obtêm para seu próprio uso do Azure.
 
-- Azure-Serviços Compartilhados/Internos oferta é elegível para descontos e incentivos.  As assinaturas dos serviços compartilhados do parceiro do Azure são elegíveis e podem ser usadas para comprar o RIs.
+- As assinaturas dos serviços compartilhados do parceiro do Azure são elegíveis e podem ser usadas para comprar o RIs.
 
 - A oferta Azure - Serviços Compartilhados/Internos só pode ser aplicada ao locatário de serviços compartilhados.
 

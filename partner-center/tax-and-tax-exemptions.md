@@ -1,7 +1,7 @@
 ---
 title: Impostos regionais e isenções fiscais
 ms.topic: article
-ms.date: 12/04/2020
+ms.date: 03/05/2021
 description: Para parceiros do programa CSP, saiba mais sobre as responsabilidades do imposto por região, como enviar isenções fiscais para vendas do CSP e como obter suporte para perguntas sobre impostos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,15 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3777ea3dbf6d889787c942e584087b2378659adb
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: f423687cacb1f1b2d53750075ff7db9837e8125c
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755581"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247669"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Leia sobre impostos e detalhes de isenção de imposto por região ou país para parceiros no programa CSP
 
-Aplica-se a:
-
-- Partner Center
-- Partner Center do Microsoft Cloud for US Government
 
 O programa CSP (provedor de soluções na nuvem) é um canal de vendas focado na revenda de produtos do parceiro. Como resultado, a Microsoft nem sempre é obrigada a cobrar o imposto sobre vendas em faturas de parceiros. As regras variam de acordo com o país e/ou a região. Você pode examinar [detalhes específicos do país e da região para isenção de imposto](#country-and-region-tax-details).
 
@@ -33,9 +29,8 @@ Informações específicas relacionadas a impostos estão disponíveis para o Ca
 
 Se você estiver em outro país ou região que cobra impostos, consulte [as informações para outras regiões](#other-regions).
 
-Para perguntas adicionais, [solicite suporte no Partner Center](#support).
 
-### <a name="canada"></a>Canadá
+### <a name="canada"></a>Canada
 
 A maioria dos revendedores não está isento de HST/GST/QST. Consulte seu supervisor de imposto para determinar se você está qualificado para isenção e qual documentação você deve fornecer à Microsoft.
 

@@ -6,13 +6,13 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 03/05/2021
+ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924912"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247651"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Perguntas comuns sobre pagamentos e impostos
 
@@ -63,7 +63,14 @@ Se sua empresa for convidada para vários programas, você poderá usar a mesma 
 
 #### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Meu perfil de imposto expirou. Como fazer corrigir isso?
 
-Use as etapas em [criar ou atualizar seu perfil de imposto](set-up-your-payout-account.md#create-or-update-your-tax-profile) para atualizar seu perfil de imposto. Na página **perfil do imposto** , você pode ver os perfis expirados ou prestes a expirar na coluna **data de expiração** . 
+Se um perfil de imposto expirar ou estiver prestes a expirar, significa que o formulário de imposto que você forneceu à Microsoft precisa ser atualizado. Use as etapas a seguir para atualizar seu perfil de imposto:
+
+1. Entre no [painel](https://partner.microsoft.com/dashboard/home)do Partner Center e selecione o ícone de engrenagem para abrir o menu **configurações** .
+2. Selecione **configurações de conta**, expanda a seção **pagamento e imposto** e selecione **pagamento e** perfil de imposto.
+3. Selecionar perfil de **imposto**
+4. Verifique a **data de expiração** da coluna e navegue até o perfil de imposto expirado ou prestes a expirar.
+5. Selecione **Editar** para iniciar o processo de edição do perfil de imposto.
+6. Na seção formulário de imposto, forneça os detalhes atualizados.
 
 ## <a name="earnings-incorrect-or-missing"></a>Ganhos incorretos ou ausentes
 
