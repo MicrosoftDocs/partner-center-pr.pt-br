@@ -99,6 +99,9 @@
         - name: Azure e benefícios da nuvem
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
+        - name: Produtos de software
+          href: mpn-benefits-software.md
+          displayname: 'software, on-premise benefit, mpn'
         - name: Benefícios do Visual Studio
           href: mpn-benefits-visual-studio.md
           displayname: 'visual studio, mpn, activate'
