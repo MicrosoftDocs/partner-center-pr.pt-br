@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/03/2021
-ms.openlocfilehash: 5db9dc04f6ff4bf1020eb7a97778b152275d5ea5
-ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
+ms.date: 03/04/2021
+ms.openlocfilehash: 2911dadc6efb2ad03d775d4476c50e8ca887c174
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102029926"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185274"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,9 +22,10 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 |**Categoria**|**Comunicados de março de 2021**|**Comunicado**|
 |---------|:---------|:---------|
+|Funcionalidades|[Novos produtos e ofertas do Microsoft Dynamics 365 disponíveis em 1º de abril de 2021](2021-march.md#2)|4 de março|
 |Funcionalidades|[A Impressão Universal da Microsoft agora está disponível em alguns pacotes](2021-march.md#1)|3 de março|
 |**Categoria**|**Comunicados de fevereiro de 2021**|**Comunicado**|
-|Funcionalidades|[As APIs de Qualificação PUT estão desativadas, e a qualificação GET será desativada em maio](2021-february.md#14)|25 de fevereiro|
+|Funcionalidades|[As APIs de Qualificação PUT são desativadas, a qualificação GET será desativada em maio](2021-february.md#14)|25 de fevereiro|
 |Funcionalidades|[Compartilhe acordos de venda conjunta em escala usando a funcionalidade de operações em massa do Partner Center](2021-february.md#13)|25 de fevereiro|
 |Funcionalidades|[Migre os acordos do PSC (Partner Sales Connect) usando o novo recurso de migração de acordos](2021-february.md#12)|25 de fevereiro|
 |Funcionalidades|[Maior flexibilidade com acordos de venda conjunta liderados por parceiros](2021-february.md#11)|25 de fevereiro|
