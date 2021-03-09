@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/04/2021
-ms.openlocfilehash: 2911dadc6efb2ad03d775d4476c50e8ca887c174
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: c504c3b7ed0cffe8b698b308ca66ab591e55cccf
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185274"
+ms.locfileid: "102220260"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,10 +22,12 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 |**Categoria**|**Comunicados de março de 2021**|**Comunicado**|
 |---------|:---------|:---------|
+|Funcionalidades|[Cumprimento de chave de licença e download de software do Partner Center](2021-march.md#4)|5 de março|
+|Funcionalidades|[Migre seus negócios do PSC (Partner Sales Connect) para o Partner Center](2021-march.md#3)|5 de março|
 |Funcionalidades|[Novos produtos e ofertas do Microsoft Dynamics 365 disponíveis em 1º de abril de 2021](2021-march.md#2)|4 de março|
 |Funcionalidades|[A Impressão Universal da Microsoft agora está disponível em alguns pacotes](2021-march.md#1)|3 de março|
 |**Categoria**|**Comunicados de fevereiro de 2021**|**Comunicado**|
-|Funcionalidades|[As APIs de Qualificação PUT são desativadas, a qualificação GET será desativada em maio](2021-february.md#14)|25 de fevereiro|
+|Funcionalidades|[As APIs de Qualificação PUT estão desativadas, e a qualificação GET será desativada em maio](2021-february.md#14)|25 de fevereiro|
 |Funcionalidades|[Compartilhe acordos de venda conjunta em escala usando a funcionalidade de operações em massa do Partner Center](2021-february.md#13)|25 de fevereiro|
 |Funcionalidades|[Migre os acordos do PSC (Partner Sales Connect) usando o novo recurso de migração de acordos](2021-february.md#12)|25 de fevereiro|
 |Funcionalidades|[Maior flexibilidade com acordos de venda conjunta liderados por parceiros](2021-february.md#11)|25 de fevereiro|
