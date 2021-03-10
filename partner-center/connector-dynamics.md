@@ -8,12 +8,12 @@ description: Sincronize as referências no Partner Center com seu conector de te
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
+ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756799"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102532019"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Conector de venda conjunta para Dynamics 365 CRM – visão geral
 
@@ -104,7 +104,7 @@ Antes de instalar, configurar e personalizar a solução de automatização de e
      
       7. Depois de adicionar todas as conexões, você deverá ver as seguintes conexões em seu ambiente:
 
-:::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Conexões":::
+         :::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Conexões":::
    
 ## <a name="edit-the-connections"></a>Editar as conexões
 
@@ -141,7 +141,7 @@ As APIs de webhook do Partner Center permitem que você se registre em eventos d
 
 3. Selecione o ícone de **cópia** para copiar a URL de postagem http fornecida.
 
- :::image type="content" source="images/webhook-video.gif" alt-text="Usar WebHooks para registrar alterações de recursos":::
+   :::image type="content" source="images/webhook-video.gif" alt-text="Usar WebHooks para registrar alterações de recursos":::
 
 4. Selecione o fluxo "registro do webhook do Partner Center (insider Preview)" automatizar fluxos de energia e, em seguida, selecione **executar**.
 
@@ -205,7 +205,7 @@ Para atualizar um valor de variável de ambiente:
 
 3. Atualize o **valor atual** (não atualize o valor padrão) usando a opção **novo valor** e forneça o valor. O valor deve corresponder ao tipo de dados da variável, por exemplo, sim/nenhum tipo de dados aceitará Sim ou nenhum valor.
 
-:::image type="content" source="images/environment-variables-video.gif" alt-text="Atualizar variáveis de ambiente":::
+ :::image type="content" source="images/environment-variables-video.gif" alt-text="Atualizar variáveis de ambiente":::
 
 - Sincronização de referência de cooperação bidirecional de ponta a ponta
 
