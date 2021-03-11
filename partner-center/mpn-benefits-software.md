@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c3632d66dbbdf4f0f8eb93439325427b8319b955
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: b559c1e8493c274204f1bdd219eae8bab994953e
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102251041"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619368"
 ---
 # <a name="mpn-benefits---software"></a>Benefícios do MPN – software
 

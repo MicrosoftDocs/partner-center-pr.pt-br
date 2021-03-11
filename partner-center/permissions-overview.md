@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: 80aeb62ba875d4ecd7c11063663f7c2d29912bdf
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 964c0e6be3003c2b3c9da8828d6e896e2fff82f9
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492697"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756450"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Atribuir permissões e funções de usuários para os usuários de uma empresa que precisam trabalhar no Partner Center
 
@@ -128,9 +128,6 @@ Essas funções não são funções do Azure Active Directory. Essas funções g
 ||*    Ver os tíquetes de suporte do parceiro que você criar
 
 ## <a name="manage-referrals"></a>Gerenciar indicações
-
-> [!Note]
->A nova função de usuário Indicações está disponível desde 18 de novembro de 2020. Os administradores de indicações existentes manterão essa função no escopo de toda a empresa.
 
 |**Função** | **O que você pode fazer**|**Saiba mais**
 |------------------------------|:-------------------------|---|

@@ -1,19 +1,19 @@
 ---
 title: O conector de televenda para o centro de parceiros do Dynamics 365 CRM
+description: Sincronize as referências no Partner Center com seu conector de televenda para o Dynamics 365 CRM. Os vendedores podem, então, vender com a Microsoft de dentro de seus sistemas de CRM.
 ms.topic: how-to
-ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Sincronize as referências no Partner Center com seu conector de televenda para o Dynamics 365 CRM. Os vendedores podem, então, vender com a Microsoft de dentro de seus sistemas de CRM.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
-ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
+ms.date: 03/01/2021
+ms.openlocfilehash: 1b0f8f12cf60db0dcc03aae24316e869cbf34376
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 03/10/2021
-ms.locfileid: "102532019"
+ms.locfileid: "102619402"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Conector de venda conjunta para Dynamics 365 CRM – visão geral
 
@@ -88,7 +88,7 @@ Antes de instalar, configurar e personalizar a solução de automatização de e
 
    - Administrador de CRM com os fluxos de energia automatizada na solução.
 
-      1. Selecione **conexões** na barra de navegação à esquerda e selecione a solução "referências do Partner Center" na lista.
+      1. Selecione **conexões** na barra de navegação à esquerda e selecione a solução de **referências do Partner Center** na lista.
 
       2. Crie uma conexão clicando em **criar uma conexão**.
 
@@ -110,11 +110,11 @@ Antes de instalar, configurar e personalizar a solução de automatização de e
 
 1. Volte para a página **soluções** e selecione **solução padrão**. Selecione **referência de conexão (versão prévia)** clicando em **tudo**.
 
-:::image type="content" source="images/connection-reference-video.gif" alt-text="Editando as conexões":::
+   :::image type="content" source="images/connection-reference-video.gif" alt-text="Editando as conexões":::
 
 2. Edite cada uma das conexões uma por uma selecionando o ícone de três pontos. Adicione as conexões relevantes.
 
-:::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Conexões listadas"::: 
+   :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Conexões listadas"::: 
 
 3.  Retorne à página soluções, selecione sincronização de referências do Partner Center para o Dynamics 365 e ative o fluxo clicando no ícone de três pontos ao lado de cada fluxo na sequência a seguir. Se você encontrar problemas ao ativar o fluxo, consulte as etapas de [personalização](connector-dynamics.md#customize-synchronization-steps) e [as etapas de solução de problemas](connectors-troubleshoot.md). 
 
@@ -171,19 +171,19 @@ A seguir estão as personalizações disponíveis:
 
 - Valor de acordo: por padrão, o valor de negócio do Partner Center será sincronizado de e para **estimado** no CRM. Se você tiver um campo diferente no CRM para que o valor de acordo seja sincronizado:
 
-    a.    Atualize o nome do campo de valor de acordo na variável de ambiente do Dynamics 365 com o nome do campo do CRM. Observe que você deve fornecer o nome do campo, não seu nome de exibição.
+  a. Atualize o nome do campo de valor de acordo na variável de ambiente do Dynamics 365 com o nome do campo do CRM. Observe que você deve fornecer o nome do campo, não seu nome de exibição.
 
-    b.    Edite **[Personalize] Crie ou Obtenha detalhes do fluxo do Dynamics 365**  e navegue até **criar ou atualizar** oportunidade no CRM e atualizar **criar uma nova oportunidade** e atualizar as ações de **oportunidade existentes** para atribuir o valor de **contrato** ao campo correto no CRM. Além disso, remova a **atribuição de dealvalue** do campo **receita estimada** .
+  b. Edite **[Personalize] Crie ou Obtenha detalhes do fluxo do Dynamics 365**  e navegue até **criar ou atualizar** oportunidade no CRM e atualizar **criar uma nova oportunidade** e atualizar as ações de **oportunidade existentes** para atribuir o valor de **contrato** ao campo correto no CRM. Além disso, remova a **atribuição de dealvalue** do campo **receita estimada** .
 
 - Código do país da conta do cliente: é obrigatório fornecer um código de país de duas letras (ISO 3166) ao criar uma nova referência. Por padrão, o código do país será sincronizado de e para o campo de address1_country da conta no CRM. Se você tiver um campo diferente no CRM para o código do país para sincronizar:
 
-   a.    Para um campo de código de país não pesquisado na conta que contém o código de duas letras:
+   a. Para um campo de código de país não pesquisado na conta que contém o código de duas letras:
 
    - Atualize o nome do campo de código do país da conta do cliente na variável de ambiente do Dynamics 365 com o nome do campo do CRM. Observe que você deve fornecer o nome do campo, não seu nome de exibição.
 
    - Edite **[Personalize] Crie ou Obtenha detalhes do fluxo do Dynamics 365**  e navegue até criar ou obter conta de cliente na ação CRM para atribuir o valor país ao campo correto no CRM. Além disso, remova a atribuição de valor de país do campo endereço 1: país/região.
 
-   b.    Para um campo de código de país baseado em pesquisa na conta:
+   b. Para um campo de código de país baseado em pesquisa na conta:
 
    - Adicione um novo campo personalizado em conta e preencha-o automaticamente com o código de país de duas letras (ISO 3166) com base no valor selecionado em campo baseado em pesquisa e vice-versa.
 
@@ -205,7 +205,7 @@ Para atualizar um valor de variável de ambiente:
 
 3. Atualize o **valor atual** (não atualize o valor padrão) usando a opção **novo valor** e forneça o valor. O valor deve corresponder ao tipo de dados da variável, por exemplo, sim/nenhum tipo de dados aceitará Sim ou nenhum valor.
 
- :::image type="content" source="images/environment-variables-video.gif" alt-text="Atualizar variáveis de ambiente":::
+   :::image type="content" source="images/environment-variables-video.gif" alt-text="Atualizar variáveis de ambiente":::
 
 - Sincronização de referência de cooperação bidirecional de ponta a ponta
 
@@ -242,13 +242,11 @@ Os campos personalizados a seguir devem fazer parte da seção CRM:
 
   :::image type="content" source="images/cosellconnectors/dynamics-7.png" alt-text="{alt-text}":::
 
-
-
 - Depois de adicionar as soluções da Microsoft, você pode preencher previamente os detalhes das soluções prontas para a venda para que seus vendedores não precisem adicioná-las. Para adicionar um novo detalhe da solução, vá para o objeto de detalhes da solução da Microsoft no CRM e clique em **adicionar registro** para adicionar uma entrada ou usar o **carregamento do Excel** para adicionar várias entradas.
 
-:::image type="content" source="images/dynamic-1a.png" alt-text="Detalhes da solução":::
+  :::image type="content" source="images/dynamic-1a.png" alt-text="Detalhes da solução":::
 
-### <a name="scenarios"></a>EXEMPLOS
+### <a name="scenarios"></a>Cenários:
 
 1. Sincronização de referência quando a referência é criada ou atualizada no CRM e sincronizada no Partner Center:
 
@@ -265,6 +263,7 @@ Os campos personalizados a seguir devem fazer parte da seção CRM:
          :::image type="content" source="images/dynamic-3a.png" alt-text="Como obter os campos apropriados no modo de exibição de cartão":::
 
       - **Contato do cliente**: para criar uma referência de venda conjunta, adicione um contato do cliente à oportunidade.
+
       - **Sincronizar com o Partner Center**: Sim
 
       - Soluções da Microsoft: para compartilhar uma referência com a Microsoft, adicione uma solução válida de covenda pronta ou Microsoft à oportunidade.

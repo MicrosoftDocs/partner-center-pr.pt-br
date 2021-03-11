@@ -1,7 +1,7 @@
 ---
 title: Obter insights de indicação
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Revise seus dados de informações de referência regularmente na Central de parceiros para ver tendências para abordar ou melhorar áreas para ajudá-lo a alcançar suas metas de negócios.
@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3496e57e9a9947d725a64d70b317779182f77583
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: b09f661cfc091732dddb2d7cb79303af60d3919a
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422346"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756496"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenha informações de referência na Central de parceiros e descubra como estão suas referências
 
@@ -59,13 +59,13 @@ O percentual de métricas de alteração (mostrada em vermelho ou verde com um i
 
 Esta seção mostrará um indicador visual de como seus acordos estão mudando de estado por meio do ciclo de vida. Será possível exibir todo o ciclo de vida com base no volume de acordos, no valor deles em USD e na principal tabela dinâmica desta seção. A primeira seção é rotulada com o estado e o tipo de acordo para fornecer a você um indicador visual do volume ou valor por tipo. Também há uma seção chamada **Indicações passadas** que será usada para indicar os acordos nos quais você executou uma ação para aceitá-los/recusá-los ou marcá-los como conquistas/perdas no período selecionado para o relatório. Será possível aplicar filtros para exibir o progresso dos acordos em vários estágios do ciclo de vida.
 
-:::image type="content" source="images/referrals/cosellanalyticsfunnel.png" alt-text="Imagem mostrando o cartão de resumo da análise de oportunidades de venda conjunta.":::
+:::image type="content" source="images/referrals/cosellanalyticsfunnel.png" alt-text="Imagem mostrando um funil de conversão para as indicações.":::
 
 ## <a name="deals-by-geography"></a>Acordos por localização
 
 Esta seção mostrará os países/as regiões de origem dos acordos, juntamente com detalhes de cada país/região. Há uma exibição de tabela com os detalhes do acordo para cada país, junto com uma exibição de mapa de todos os países. Será possível clicar em um país específico na tabela ou clicar na exibição de mapa para aplicar zoom a um país específico.
 
-:::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Imagem mostrando o cartão de resumo da análise de oportunidades de venda conjunta.":::
+:::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Imagem mostrando a distribuição geográfica das indicações.":::
 
 ## <a name="deals-by-solutions"></a>Acordos por soluções
 
@@ -77,13 +77,13 @@ Com base na seleção da tabela dinâmica, será possível conferir o desempenho
 
 A tabela abrange todos os acordos que têm uma solução incluída, além dos estados correspondentes, como acordos conquistados, acordos perdidos e acordos expirados, juntamente com o valor total em USD de acordos conquistados e perdidos. Também há um grafo com a tendência dos acordos à direita da tabela que mostra a contagem total de acordos e o valor do acordo conquistado em USD com base na solução selecionada. A seleção padrão será Todas as soluções.
 
-:::image type="content" source="images/referrals/cosellanalyticssolutions.png" alt-text="Imagem mostrando o cartão de resumo da análise de oportunidades de venda conjunta.":::
+:::image type="content" source="images/referrals/cosellanalyticssolutions.png" alt-text="Imagem mostrando o desempenho das soluções.":::
 
 ## <a name="declined--lost-reasons"></a>Motivos de acordos recusados e perdidos
 
 Esta seção ajudará você a analisar por que sua empresa está marcando os acordos como **Recusados** ou **Perdidos**. As opções nestas representações têm os mesmos motivos pelos quais seus vendedores escolheram fechar um acordo como recusado ou perdido.
 
-:::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="Imagem mostrando o cartão de resumo da análise de oportunidades de venda conjunta.":::
+:::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="Imagem mostrando os motivos selecionados pelo parceiro ao recusar um acordo ou marcá-lo como perdido.":::
 
 ## <a name="comparison-charts"></a>Gráficos de comparação
 
@@ -96,13 +96,13 @@ As três dimensões que você pode escolher para comparar os dados são:
 
 Quando o Tipo de acordo for selecionado, você terá a opção de comparar o desempenho das indicações em relação às oportunidades de venda conjunta e aos acordos privados. Para obter os mercados e as soluções, será possível escolher até três opções diferentes para comparar o desempenho de cada uma delas. O primeiro grafo, que é um gráfico de barras, terá dados apresentados com uma tendência mês a mês baseada na tabela dinâmica principal, que representa o volume ou o valor de acordos conquistados. Também há um gráfico de pizza à direita do gráfico de barras, que mostrará a distribuição por percentual para obter os mesmos dados.
 
-:::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Imagem mostrando o cartão de resumo da análise de oportunidades de venda conjunta.":::
+:::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Imagem mostrando a seção de comparação.":::
 
 ## <a name="raw-data-table"></a>Tabela de dados brutos
 
 A tabela abaixo mostrará todos os dados brutos relacionados às oportunidades de venda conjunta e ajudará você a **exportar** os dados de maneira rápida para obter a análise detalhada ou personalizada que você desejar.
 
-:::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="Imagem mostrando o cartão de resumo da análise de oportunidades de venda conjunta.":::
+:::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="Imagem mostrando uma tabela de dados brutos para as indicações.":::
 
 ## <a name="no-data"></a>Sem dados
 
@@ -114,10 +114,10 @@ Pode haver vários motivos pelos quais você está obtendo um gráfico em branco
 - Não há registros correspondentes aos filtros que você aplicou. Tente redefinir os filtros.
 - Há um atraso entre a alteração de estado da oportunidade e a atualização da mesma no relatório de análise. Verifique o relatório após 24 horas.
 
-:::image type="content" source="images/referrals/nodata.png" alt-text="Imagem mostrando o cartão de resumo da análise de oportunidades de venda conjunta.":::
+:::image type="content" source="images/referrals/nodata.png" alt-text="Imagem mostrando que não há visualização de dados para as indicações.":::
 
 > [!NOTE]
-> A página de **Insights de indicações** mostra apenas dados para indicações geradas no Partner Center. Ele não mostra dados para indicações geradas por meio do [Partner Sales Connect](https://support.microsoft.com/help/3170447/learn-to-use-partner-center-sales-connect) nem por nenhum outro mecanismo.
+> A página de **Insights de indicações** mostra apenas dados para indicações geradas no Partner Center. Ele não mostra dados para indicações geradas por meio do [Partner Sales Connect](psc-to-pc.md) nem por nenhum outro mecanismo.
 
 > [!TIP]
 > Para ver como seu perfil de negócios está sendo executado na experiência [Encontrar um provedor de soluções](https://www.microsoft.com/solution-providers/home), confira a [página de insights do perfil de negócios](analyze-your-marketing-profile.md).

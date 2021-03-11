@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: adbe4bf9fd329f7443608dd1a1e123208212ef43
+ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124815"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "102770253"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guia para a venda em conjunto no Partner Center (PC) para parceiros migrando do PSC (Partner Sales Connect)
 
@@ -81,7 +81,7 @@ Para localizar o administrador da conta da sua empresa:
 
    A página exibirá todos os administradores de conta com seus respectivos endereços de email. Envie um email para ele e peça para atribuir a função de administrador de referências para sua conta corporativa.
 
-  :::image type="content" source="images/pscmigration/account-admin.png" alt-text="Imagem que mostra os administradores de conta na página de gerenciamento de usuário configurações de parceiro.":::
+  :::image type="content" source="images/pscmigration/account-admin.gif" alt-text="Imagem que mostra os administradores de conta na página de gerenciamento de usuário configurações de parceiro.":::
 
 >[!Important]
 >- Se sua função envolver apenas o gerenciamento de usuários no PSC, peça ao administrador da conta da sua empresa para atribuir a você a função de [administrador da conta](permissions-overview.md#manage-mpn-membership-and-your-company) no Partner Center. 
@@ -95,7 +95,7 @@ Depois de configurar sua conta no Partner Center, use o assistente de migração
 >[!Note]
 > A migração de usuário só pode ser executada por [Administradores de conta](permissions-overview.md#manage-mpn-membership-and-your-company) da sua empresa. Se você não tiver a função Administrador de conta, localize um administrador de conta que possa ajudar a configurar as contas de usuário com a ajuda do assistente de migração de usuário.
 
-:::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Imagem mostrando o assistente de migração de usuário.":::
+:::image type="content" source="images/pscmigration/user-migration.gif" alt-text="Imagem mostrando o assistente de migração de usuário.":::
 
 Os administradores de conta verão um link do assistente de migração de usuário do PSC na página de oportunidades de venda ao lado do guia de referências. Eles podem iniciar a migração do usuário selecionando o link. Para iniciar a migração de usuário, os administradores podem selecionar o link. Eles podem executar essa etapa de migração de usuário várias vezes até que todos os usuários recebam funções adequadas no Partner Center.
 

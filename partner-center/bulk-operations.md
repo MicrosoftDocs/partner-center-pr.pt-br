@@ -1,38 +1,38 @@
 ---
-title: Operações em massa por meio de arquivos do Excel em referências
+title: Exportação em massa e importação de oportunidades de venda de cooperação por meio de arquivos Excel/CSV em referências
+description: Saiba como baixar, criar ou atualizar oportunidades de venda conjunta usando arquivos do Excel (CSV) no Partner Center
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como baixar, criar ou atualizar oportunidades de venda conjunta usando arquivos do Excel
 author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: d601fec4bbdaad72f02c16b399cc320cc607d8ed
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 8b69b430344c64f3d74e0b5058d561358bdd2b45
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756057"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619385"
 ---
-# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>Operações em massa para as oportunidades de venda conjunta usando arquivos CSV (valores separados por vírgula)
+# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Operações em massa para as oportunidades de venda conjunta usando arquivos CSV (valores separados por vírgula)
 
 **Funções apropriadas**
 
 - Administrador de indicações
 - Usuário de indicações
 
-As operações em massa no Partner Center ajudarão sua empresa a exportar e importar dados de oportunidades de venda. Navegue até a página oportunidades de venda conjunta para localizar os links importar e exportar na parte superior direita da faixa título da página. Os usuários com as permissões **administrador de referências** e **referências de usuário** podem usar essa funcionalidade.
+As operações em massa no Partner Center ajudam sua empresa a exportar e importar dados de oportunidades de venda. Navegue até a página **oportunidades de venda conjunta** para localizar os links **importar** e **Exportar** na parte superior direita da faixa título da página. Os usuários com as permissões **administrador de referências** e **referências de usuário** podem usar essa funcionalidade.
 
 > [!IMPORTANT]
 > As ações criar/atualizar feitas por meio da importação em massa não são reversível. Tenha cuidado ao modificar ou criar um grande número de registros. Somente um subconjunto de campos pode ser modificado após a criação de um negócio. **Nenhuma ação será permitida quando qualquer negociação atingir um estado de terminal como recusado/expirado/ganha/perdido.**
 
-## <a name="exporting-co-sell-opportunities"></a>Exportando oportunidades de venda de cooperação
+## <a name="export-co-sell-opportunities"></a>Exportar oportunidades de venda de cooperação
 
-Abaixo estão os detalhes da funcionalidade de exportação
+As informações a seguir descrevem a funcionalidade de exportação:
 
-- Você pode exportar no **máximo 5000 registros** clicando no botão Exportar.
+- Você pode exportar no **máximo 5000 registros** clicando no botão **Exportar** .
 - As negociações que são baixadas serão baseadas em seus níveis de acesso. Administradores de referência e usuários de referência podem obter resultados diferentes com base em seu escopo e serem incluídos como membros da equipe nas negociações. Saiba mais sobre [as permissões de referências](permissions-overview.md#manage-referrals).
 - A função exportar leva em conta a guia atual na página oportunidades de venda e os filtros que foram aplicados.
 - Um arquivo CSV com todos os dados com base nos filtros aplicados será gerado.
@@ -40,7 +40,7 @@ Abaixo estão os detalhes da funcionalidade de exportação
 - Você não precisa aguardar a ação de download ser concluída. Mesmo que você navegue para outras páginas no Partner Center, o arquivo será baixado assim que a função de exportação for concluída.
 - Você pode reutilizar o arquivo baixado para modificar os detalhes de acordo e carregar para atualizar os registros.
 
-## <a name="importing-co-sell-opportunities"></a>Importando oportunidades de venda de cooperação
+## <a name="import-co-sell-opportunities"></a>Importar oportunidades de venda conjunta
 
 - Você pode criar ou atualizar um **máximo de 1000 registros** usando a funcionalidade de importação.
 - Você pode criar o modelo do zero baixando o modelo da página Importar no Partner Center.
@@ -95,3 +95,10 @@ Observações para a Microsoft|Não|Qualquer nota específica à Microsoft se vo
 Consentimento para compartilhar contato com o cliente/parceiro|Sim|Consentimento para compartilhar detalhes de contato do cliente e os funcionários de contato da empresa que estão trabalhando no negócio. **As negociações não serão criadas ou atualizadas se você escolher não para esta coluna.** |Sim
 Solução 1|Sim|ID da solução (obrigatória), a moeda (opcional) na qual o valor de acordo é inserido. Você pode encontrar os códigos de moeda [aqui](https://en.wikipedia.org/wiki/ISO_4217), o preço da SKU (opcional) e a quantidade da SKU (opcional)  |SOL-1234-PQRS, USD, 10, 100
 Membro da equipe 1|Sim|Nome, sobrenome, número de celular e ID de email do respectivo membro da equipe.| Bob, parceiro, 999999, Bob.partner@Contoso.com
+
+## <a name="next-steps"></a>Próximas etapas
+
+Você pode usar esses conectores de venda do Partner Center para fazer a venda conjunta com a Microsoft de dentro de seus sistemas de CRM.
+
+- [Conector de venda conjunta para Dynamics 365 CRM – visão geral](connector-dynamics.md)
+- [Conector de venda conjunta para o Salesforce CRM – visão geral](connector-salesforce.md)
