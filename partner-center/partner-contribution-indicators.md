@@ -1,7 +1,7 @@
 ---
 title: Indicadores de contribuição do parceiro – CBA
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 03/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre sete indicadores de contribuição de parceiros (PCI) que mostram aos parceiros como obter uma competência de Business Applications de nuvem prata ou ouro.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756560"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193640"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Use indicadores de contribuição de parceiro para obter a competência de Business Applications de nuvem
 
@@ -274,11 +274,11 @@ Um parceiro tem uma das duas opções para obter os pontos de tudo ou nada (15 o
 
 - **Nenhum ponto parcial será concedido.** O crescimento na parte superior do instantâneo de linha de base deve atender ou exceder os limites indicados na tabela a seguir. A tabela mostra uma coluna **desenvolvida** e **desenvolvendo** com a linha de base do consultor funcional necessária para ser elegível para ganhar pontos.
 
-  | Vela | Desenvolvimento | Crescimento necessário para ganhar todos os 15 pontos *
+  | Vela | Desenvolvimento | Crescimento necessário para ganhar todos os 15 pontos
   |:---:|:---:|:---:|
   | 15-29 | 5-14 | 35% |
   | 30 a 49 | 15-24 | 25% |
-  | 50 e acima | 25 e acima | 15% |
+  | 50 e acima | 25 e acima | Consulte as opções abaixo |
 
 **Opção dois para obter pontos:**
 
