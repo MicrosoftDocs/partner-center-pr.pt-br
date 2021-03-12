@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/09/2021
-ms.openlocfilehash: a524dbf8162886d88a4a9548653d32e094d8620f
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.date: 03/11/2021
+ms.openlocfilehash: 801ec42953279ca52d0f0a9631e41a811d09fd4c
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619419"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193606"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,6 +22,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 |**Categoria**|**Comunicados de março de 2021**|**Comunicado**|
 |---------|:---------|:---------|
+|Funcionalidades|[Migre suas soluções do OCP (One Commercial Partner) GTM (go-to-market) para o marketplace comercial da Microsoft](2021-march.md#6)|12 de março|
 |Funcionalidades|[Expandir a nova experiência de comércio no programa CSP (Provedor de Soluções na Nuvem) para o Azure na Rússia](2021-march.md#5)|10 de março|
 |Funcionalidades|[Cumprimento de chave de licença e download de software do Partner Center](2021-march.md#4)|5 de março|
 |Funcionalidades|[Migre seus negócios do PSC (Partner Sales Connect) para o Partner Center](2021-march.md#3)|5 de março|

@@ -9,12 +9,12 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: 6bb915681d65213c1180bab1f44f49372cb72697
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 27bdb4aab3c8092b1ffc458e4da29250e2dbf23e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570630"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756722"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Visão geral: Principais artigos de cobrança e imposto no Partner Center
 
@@ -25,7 +25,7 @@ ms.locfileid: "96570630"
 - Administrador global
 - Agente de vendas
 
-Este artigo fornece links para informações sobre cobrança e impostos no Partner Center, incluindo recursos de cobrança, faturas, cobrança de CSP e impostos.
+Este artigo fornece links para informações sobre cobrança e impostos no Partner Center, incluindo recursos de cobrança, faturas, cobrança do CSP e impostos.
 
 
 | Tópico | Descrição |

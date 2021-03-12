@@ -1,7 +1,7 @@
 ---
 title: Vender assinaturas de software por meio do CSP
 ms.topic: how-to
-ms.date: 01/29/2021
+ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os parceiros do programa CSP podem usar o Partner Center para comprar, gerenciar, vender e cancelar as instâncias reservadas do Azure e as assinaturas do Server para os clientes.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5355dd6229d22d154512be8536e5fd4ab9b900ad
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834849"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475187"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vender assinaturas de software por meio do programa CSP (Provedor de Soluções na Nuvem)
 
@@ -92,18 +92,25 @@ Para comprar assinaturas de software em nome de um cliente:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Ativar e gerenciar assinaturas de software
 
-Depois de comprar seu software, os clientes precisarão baixá-lo. Use o procedimento a seguir para fazer isso.
+Depois de adquirir seu software, você ou seus clientes precisarão baixá-lo (parceiros usando o Partner Center; clientes que usando o Centro de Administração do Microsoft 365). Use o procedimento a seguir para fazer isso. É importante entender os riscos associados à cópia de links e ao download de software. Para obter mais informações, confira **Usar o Partner Center para obter downloads de software e chaves de licença do cliente** no [Novo Guia de Operações de Comércio do Partner Center](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
 >[!NOTE]
->Você precisa ser um agente administrativo para obter o link para as chaves e os downloads.
+>Você precisa ser um agente administrativo no Partner Center para obter o link para as chaves e os downloads.
 
-1. Acesse a página de detalhes do cliente e, em seguida, selecione **Software**. Você verá uma lista de todos os programas de software comprados em nome do cliente.
-2. Copie o "link profundo" de **Link para chaves do produto (Product Keys) e downloads do Software** e compartilhe o link com o cliente. Quando selecionar esse link, ele será redirecionado para o Centro de Administração da Microsoft para baixar e obter as chaves do produto (Product Keys).
+1. Acesse a página de detalhes do cliente e selecione **Software**. Você verá uma lista de todos os programas de software comprados em nome do cliente.
+
+2. Escolha a **versão**, o **idioma** e o **bit** do produto e selecione **Obter chaves e downloads**. 
+
+3. Escolha **Obter Chave**, que exibirá o produto de 32 dígitos em uma caixa de diálogo pop-up que você pode copiar e enviar ao cliente. 
+
+4. Escolha **Baixar** para baixar os bits. 
+
+5. Escolha **Copiar Link** se desejar enviar ao cliente o link para o download dos bits. 
+
+6. Você também pode **Cancelar** o pedido do software e receber um crédito de 100% (se isso for feito dentro do período de 60 dias da política de cancelamento).
 
 >[!NOTE]
->Somente os clientes podem ver as chaves do produto (Product Keys) e as informações de download no Centro de Administração da Microsoft. Os parceiros não podem ver essas informações.
-
-Se você ou seus clientes quiserem saber mais sobre o download das chaves de licença, confira [Baixar o software e as chaves de licença do produto](https://go.microsoft.com/fwlink/p/?linkid=2152525).
+>Somente os clientes têm acesso para ver as chaves do produto (Product Key) e as informações de download no Centro de Administração do Microsoft 365 (função de Administrador Global necessária). Os parceiros precisam usar o Partner Center para ver essas informações.
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Download de assinatura do servidor e chaves de licença disponíveis por meio do Centro de administração do Microsoft 365 para clientes 
 

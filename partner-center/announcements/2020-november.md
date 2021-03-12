@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182538"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756408"
 ---
 # <a name="november-2020-announcements"></a>Comunicados de novembro de 2020
 
@@ -98,7 +98,7 @@ Estamos introduzindo uma nova Promoção do Office 365 E1 para mercados intermed
 Todos os parceiros que fazem transações pelo programa CSP (Provedor de Soluções na Nuvem) nos mercados participantes listados acima.
 
 ### <a name="details"></a>Detalhes
-A Promoção consiste em 30% de desconto no Office 365 E1 para CSP. Ela será iniciada em 1º de dezembro de 2020 e estará disponível por 6 meses, até 31 de maio de 2020. Essa Promoção está disponível apenas para novos clientes da nuvem MW e oferece até 500 usuários. Observe que a promoção é restrita aos mercados emergentes da LATAM, da Índia e do APAC, a fim de viabilizar a transição para a nuvem. 
+A Promoção consiste em 30% de desconto no Office 365 E1 para CSP. Ela será iniciada em 1º de dezembro de 2020 e estará disponível por 6 meses, até 31 de maio de 2021. Essa Promoção está disponível apenas para novos clientes da nuvem MW e oferece até 500 usuários. Observe que a promoção é restrita aos mercados emergentes da LATAM, da Índia e do APAC, a fim de viabilizar a transição para a nuvem. 
 
 #### <a name="offer-details"></a>Detalhes da oferta
 
@@ -284,7 +284,7 @@ ______________
 ### <a name="categories"></a>Categorias
 
 - Data 2020-11-17
-- Capacidades
+- Funcionalidades
 
 ### <a name="summary"></a>Resumo
 

@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/30/2020
-ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: 3702c362090b1764b6b9d6595fbe9f9a5f0aa55d
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705004"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102514078"
 ---
 # <a name="september-2020-announcements"></a>Comunicados de setembro de 2020
 
@@ -36,6 +36,9 @@ Todos os parceiros do CSP (Provedor de Soluções na Nuvem) que negociam ofertas
 
 ### <a name="details"></a>Detalhes
 
+>[!NOTE]
+>Devido aos comentários dos parceiros, estamos restabelecendo a capacidade de cumprimento do Partner Center para obter software e chaves de licença para pedidos de software de assinatura de servidor e perpétuas. Ela será restaurada para o estado anterior antes de ser removida em 19 de janeiro de 2021. Para saber mais, confira o [comunicado de março de 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+
 Hoje, os parceiros podem usar o Partner Center ou o Centro de Administração do Microsoft 365 para obter o cumprimento de chave de licença e download de software para pedidos de software do CSP. A partir de **19 de janeiro de 2021**, a funcionalidade de preenchimento de software e chaves de licença do Partner Center será desativada, e os parceiros encaminharão os clientes para usar o **Centro de Administração do Microsoft 365** exclusivamente para essa finalidade. A página Software do Cliente do Partner Center conterá um "link profundo" para o Centro de Administração do Microsoft 365, para o qual você pode encaminhar os clientes a fim de obter licenças do cliente e downloads de software. Isso ajudará a garantir uma experiência mais segura e eficiente para os clientes.
 
 As chaves de licença de software e os links de download são ativos de propriedade intelectual valiosos e muito procurados. Caso sejam vazados, poderão esgotar rapidamente os limites de ativação e causar uma experiência negativa para clientes e parceiros. Portanto, é essencial que os parceiros usem a tecnologia mais segura e as práticas recomendadas para ajudar a proteger esses ativos valiosos, bem como os clientes.
@@ -54,6 +57,12 @@ O Centro de Administração do Microsoft 365 aprimora a entrega segura de softwa
 
 Para fazer perguntas relacionadas a esta notificação, entre em contato com o [suporte do Partner Center](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
+### <a name="change-log"></a>Log de alterações:
+
+- 30 de novembro de 2020: publicação original 
+
+- 5 de março de 2021: adição de uma observação na parte superior sobre o restabelecimento da capacidade de cumprimento de chave de licença e software do Partner Center.
+
 ________________
 ## <a name="cloud-solution-provider-csp-program-evolution-and-open-license-program-changes-journey-to-a-better-partner-and-customer-experience"></a><a name="16"></a>Evolução do programa CSP (Provedor de Soluções na Nuvem) e alterações do programa Open License: Percurso para obter uma experiência aprimorada para parceiros e clientes
 
@@ -68,6 +77,9 @@ Todos os parceiros nos programas CSP e Open License
 
 ### <a name="details"></a>Detalhes
 
+>[!NOTE]
+>Devido aos comentários dos parceiros, estamos restabelecendo a capacidade de cumprimento do Partner Center para obter software e chaves de licença para pedidos de software de assinatura de servidor e perpétuas. Ela será restaurada para o estado anterior antes de ser removida em 19 de janeiro de 2021. Para saber mais, confira o [comunicado de março de 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+
 O programa CSP da Microsoft cresceu de modo exponencial, com mais de 90.000 empresas participantes. Ele é o nosso principal movimento de vendas de parceiro para pequenas e médias empresas e clientes corporativos menores dentro da nova experiência de comércio. Aproveitando essa dinâmica, anunciamos hoje que estamos expandindo as oportunidades para parceiros no programa CSP. Os detalhes estão em nossa [postagem no blog para parceiros](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/).
 
 ### <a name="next-steps"></a>Próximas etapas
@@ -80,6 +92,11 @@ O programa CSP da Microsoft cresceu de modo exponencial, com mais de 90.000 empr
 
 Para fazer perguntas relacionadas a esta notificação, entre em contato com o [Suporte do Partner Center](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
+### <a name="change-log"></a>Log de alterações:
+
+- 30 de setembro de 2020: publicação original.
+
+- 5 de março de 2021: adição de uma observação na parte superior sobre o restabelecimento da capacidade de cumprimento de chave de licença e software do Partner Center.
 
 ________________
 ## <a name="availability-of-new-subscriptions-transition-tool-between-partners-for-azure-plan"></a><a name="15"></a>Disponibilidade da nova ferramenta de transição de assinaturas entre parceiros para o plano do Azure 
