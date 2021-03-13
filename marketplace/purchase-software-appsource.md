@@ -1,17 +1,17 @@
 ---
 title: Como adquirir ofertas de SaaS no Microsoft AppSource
 description: Saiba como comprar aplicativos SaaS (software como serviço) de parceiros da Microsoft em Microsoft AppSource.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 2d5e406e159d0d919dbf8b3542e636376cffacf6
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 0a0bd1dff70ed18ed8f4fc45b78d8b935f24adaf
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007087"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412685"
 ---
 # <a name="how-to-purchase-saas-apps-on-microsoft-appsource"></a>Como comprar aplicativos SaaS no Microsoft AppSource
 
@@ -54,4 +54,4 @@ Depois que o pedido é recebido, pode levar alguns segundos para ele ser confirm
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- [O que é Microsoft AppSource?](appsource-overview.md)
+- [O que é o Microsoft AppSource?](appsource-overview.md)

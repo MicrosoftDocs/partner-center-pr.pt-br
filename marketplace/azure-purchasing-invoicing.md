@@ -1,17 +1,17 @@
 ---
 title: Comprando software e soluções do Azure Marketplace
 description: Saiba mais sobre as ferramentas que simplificam e simplificam as compras e o gerenciamento de software no Azure Marketplace.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 01/18/2021
-ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: ac20b3c0603f886104499ab8de6da1d3459bbd57
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584204"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412566"
 ---
 # <a name="azure-marketplace-purchasing"></a>Compra no Azure Marketplace
 
@@ -19,7 +19,7 @@ O Azure Marketplace tem várias ferramentas e recursos que simplificam e simplif
 
 ## <a name="simplified-procurement"></a>Aquisição simplificada
 
-O Azure Marketplace ajuda você a simplificar o processo de aquisição ao disponibilizar diferentes opções de compra. Se você comprar produtos usando um cartão de crédito associado à sua conta do Azure, todas as compras serão consolidadas em uma única fatura e cobradas para o cartão de crédito escolhido. Se você for um grande cliente, poderá comprar usando um Enterprise Agreement. Com um EA, todas as compras de software são incluídas automaticamente na sua fatura do Azure. A fatura vai conter primeiro os encargos de uso do Azure, seguidos pelos encargos do Azure Marketplace.
+O Azure Marketplace ajuda você a simplificar o processo de aquisição ao disponibilizar diferentes opções de compra. Se você comprar produtos usando um cartão de crédito associado à sua conta do Azure, todas as compras serão consolidadas em uma única fatura e cobradas para o cartão de crédito escolhido. Se você for um grande cliente, poderá comprar usando um Contrato Enterprise. Com um EA, todas as compras de software são incluídas automaticamente na sua fatura do Azure. A fatura vai conter primeiro os encargos de uso do Azure, seguidos pelos encargos do Azure Marketplace.
 
 Ao comprar por meio do Azure Marketplace, você elimina a complexidade de gerenciar relações e faturas individuais de fornecedores. Você Obtém uma única fatura mensal consolidada da Microsoft que inclui suas compras do Azure Marketplace e seus encargos do Azure.
 
@@ -53,7 +53,7 @@ Essas configurações se aplicam a todos os usuários com acesso à sua assinatu
 
 :::image type="content" source="media/overview/billing-profile-policy-settings.png" alt-text="Controlando a aquisição de ti por meio do portal do Azure":::
 
-## <a name="cost-management"></a>Gerenciamento de custos
+## <a name="cost-management"></a>Gerenciamento de custo
 
 À medida que você adquire produtos do Azure Marketplace, você deseja obter informações que ajudam a gerenciar os custos. O gerenciamento de custos do Azure é uma ferramenta gratuita para exibir informações sobre os produtos que você comprou. Você pode usar o gerenciamento de custos para ver os detalhes de quais serviços você está gastando com o tempo e como esses custos acompanham os orçamentos que você definiu. Além de definir orçamentos, você pode agendar relatórios e analisar os custos de assinatura. Saiba mais sobre o gerenciamento de custos do Azure ao concluir o módulo Microsoft Learn em [analisar custos e criar orçamentos com o gerenciamento de custos do Azure](/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
 
@@ -65,7 +65,7 @@ Veja seus encargos e suas faturas do Azure Marketplace na ferramenta de análise
 
 A compra de uma oferta por meio do Azure Marketplace pode falhar por diferentes motivos. Usar a CLI (interface de linha de comando) para uma compra é mais provável que cause erros, já que você pode estar tentando comprar uma oferta que não está disponível ou visível no Azure Marketplace. A seguir estão as verificações que podem causar uma falha na compra:
 
-1. A assinatura pertence a um Enterprise Agreement (EA) e o administrador de EA desabilitou compras do Azure Marketplace.
+1. A assinatura pertence a um Contrato Enterprise (EA) e o administrador de EA desabilitou compras do Azure Marketplace.
 1. O administrador de EA habilitou compras apenas para ofertas gratuitas e a oferta é uma oferta paga.
 1. A oferta não foi encontrada no Marketplace.
 1. O ISV (fornecedor independente de software) parou de vender a oferta, pelo menos na sua região.
