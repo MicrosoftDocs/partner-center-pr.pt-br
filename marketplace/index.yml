@@ -4,17 +4,17 @@ summary: Descubra como encontrar e comprar soluções, aplicativos e serviços d
 metadata:
   title: Seja bem-vindo(a) à documentação do cliente do Microsoft Marketplace
   description: Descubra como encontrar e comprar soluções, aplicativos e serviços de parceiros da Microsoft em nossas lojas online.
-  ms.service: marketplace
+  ms.service: marketplace-customer
   ms.topic: landing-page
   author: JasonWHowell
   ms.author: jasonh
-  ms.date: 11/17/2020
-  ms.openlocfilehash: 00d4786e234f9ede011032a71233fdafa6724ab8
-  ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+  ms.date: 03/12/2021
+  ms.openlocfilehash: febc75e7dde3441ba96436a85b713d8a03796f21
+  ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
   ms.translationtype: HT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 11/21/2020
-  ms.locfileid: "95006915"
+  ms.lasthandoff: 03/12/2021
+  ms.locfileid: "103412532"
 landingContent:
 - title: Microsoft AppSource
   linkLists:
