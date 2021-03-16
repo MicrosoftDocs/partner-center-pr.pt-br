@@ -1,5 +1,5 @@
 ---
-title: Relatar problemas com o Partner Center
+title: Ferramenta de diagnóstico e solicitações do portal do Partner Center
 ms.topic: how-to
 ms.date: 11/19/2020
 ms.service: partner-dashboard
@@ -9,14 +9,14 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: e680856c0bf1f1ed4e8eb5acea3833255576f5e3
+ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530656"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103582029"
 ---
-# <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Como relatar problemas com o Partner Center e enviar quaisquer informações de log ou diagnóstico
+# <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Ferramenta de diagnóstico e solicitações do portal do Partner Center
 
 **Aplica-se a**
 
@@ -26,6 +26,7 @@ ms.locfileid: "99530656"
 **Funções apropriadas**
 
 Todos os usuários registrados no Partner Center podem criar solicitações de suporte de parceiro. Os usuários só podem exibir as solicitações de suporte que foram enviadas após o logon no Partner Center.
+Contate o suporte do Partner Center se você encontrar problemas ou precisar de ajuda com erros do portal do Partner Center. Envie diagnóstico para permitir que o problema seja corrigido mais rapidamente.
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Relatar um problema com o Partner Center
 
