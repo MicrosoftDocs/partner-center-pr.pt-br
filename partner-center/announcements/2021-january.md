@@ -99,7 +99,7 @@ ________________
 
 ### <a name="impacted-audience"></a>Público-alvo afetado
 
-Provedores indiretos e parceiros de cobrança direta do CSP que têm clientes novos ou existentes nos países listados na próxima seção.
+Provedores indiretos e parceiros de cobrança direta do CSP que têm clientes novos ou existentes nos países/regiões listados na próxima seção.
 
 ### <a name="summary"></a>Resumo
 
