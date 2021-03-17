@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: 12c9ad9975be4be725d7b8c2fda77b0fdaa66887
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705038"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102514095"
 ---
 # <a name="december-2020-announcements"></a>Comunicados de dezembro de 2020
 
@@ -274,6 +274,9 @@ Todos os parceiros CSP
 
 ### <a name="details"></a>Detalhes
 
+>[!NOTE]
+>Devido aos comentários dos parceiros, estamos restabelecendo a funcionalidade de cumprimento do Partner Center para obter chaves de licença e software para pedidos de software de assinatura perpétua e de servidor. Ela será restaurada para o estado anterior à remoção em 19 de janeiro de 2021. Para obter mais informações, confira o [comunicado de março de 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+
 Desejamos lembrar você de que, **a partir de 19 de janeiro de 2021**, todos os parceiros registrados no programa CSP poderão vender licenças de software perpétuo comercial para a implantação local por meio do CSP. Isso proporcionará aos clientes a flexibilidade de licenciamento de que precisam como parte da transformação digital.
 
 Veja abaixo o que também ocorrerá na mesma data:
@@ -301,6 +304,12 @@ Examine os seguintes recursos e compartilhe-os com os contatos relevantes da sua
 ### <a name="questions"></a>Perguntas?
 
 Em caso de dúvidas adicionais sobre essas ofertas, confira as comunidades relevantes no Yammer.
+
+### <a name="change-log"></a>Log de alterações:
+
+- 17 de dezembro de 2020: publicação original 
+
+- 5 de março de 2021: adição de uma observação na parte superior sobre o restabelecimento da funcionalidade de cumprimento de chave de licença e software do Partner Center.
 
 ______________
 
