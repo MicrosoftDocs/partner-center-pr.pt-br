@@ -1,72 +1,52 @@
 ---
 title: Obter leads de vendas – Criar um perfil empresarial
 ms.topic: article
-ms.date: 05/13/2020
+ms.date: 03/09/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como obter leads de vendas da Microsoft. Uma etapa importante é criar um perfil empresarial no Partner Center que permite que os clientes te encontrem mais facilmente.
 author: rajap-ms
 ms.author: rajap
-ms.localizationpriority: high
+ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8425461747c2cf4978d13ee3c2961ac426231bd5
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 80f7882da44c8072db1dd287f6fbee4f79341d29
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000440"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570151"
 ---
-<!--
-FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
-FWLink2: https://go.microsoft.com/fwlink/?linkid=848635: Top of page (duplicate)
-FWLink3: https://go.microsoft.com/fwlink/?linkid=847631: #allow_us_to_endorse_areas_of_expertise
-FWLink4: https://go.microsoft.com/fwlink/?linkid=848063: #customer-preferences
-FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
--->
-
-
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Crie um perfil empresarial para obter leads de vendas da Microsoft e ajudar os clientes a encontrá-lo
-
-**Aplica-se a**
-
-- Partner Center
-- Parceiros do Microsoft Partner Network
-- Parceiros do programa Provedor de Soluções na Nuvem
 
 **Funções apropriadas**
 
-- Administrador de conta
 - Administrador de perfis de negócios
-- Administrador global
 - Administrador de indicações
 
 Como um parceiro qualificado da Microsoft, você pode criar um perfil de negócios para mostrar sua empresa a clientes que estejam procurando suas soluções exclusivas e seus conhecimentos para atender a necessidades de negócios.
 
 A Microsoft envolve milhões de clientes a cada ano por meio de esforços de marketing, de vendas e de serviço. A maior parte desses envolvimentos cria chances de indicações para nossos parceiros na forma de vendas potenciais. 
 
-Para aproveitar essas vendas potenciais, primeiramente você deve criar um perfil de negócios. Vamos mostrar seu perfil para os clientes que estejam procurando por parceiros que possam ajudá-los a implementar produtos e soluções da Microsoft, por meio de:
+A criação de um perfil comercial é a primeira etapa para obter referências. Vamos mostrar seu perfil para os clientes que estejam procurando por parceiros que possam ajudá-los a implementar produtos e soluções da Microsoft, por meio de:
 
 - **A experiência de pesquisa [Encontrar um provedor de soluções](https://www.microsoft.com/solution-providers/home)** . Os clientes em potencial podem pesquisar listas de parceiros por conta própria para localizar os parceiros que atendam aos critérios de pesquisa.
 
 - **Indicações dos funcionários de vendas e serviço da Microsoft**. Os clientes em potencial interessados na implantação de soluções de tecnologia com base em nuvem entram em contato com a Microsoft para ajudar a encontrar profissionais que podem atender às suas necessidades de negócios. Esses profissionais da Microsoft poderão então consultar os clientes em potencial para sua empresa.
 
-> [!IMPORTANT]  
-> Para ajudarmos nossos parceiros a simplificar as operações de negócios, estamos consolidando recursos e funcionalidades que costumavam estar espalhados por vários sites e ferramentas no Partner Center, este site. Como parte desse esforço, movemos todos os recursos relacionados a indicações para o Partner Center e desativamos os sites Pinpoint e C2PC. Se você usava o Pinpoint ou o C2PC no passado para obter e gerenciar indicações da Microsoft, precisará criar um novo perfil de negócios no Partner Center para continuar a obter indicações. A importação de perfis desses sites não é mais compatível. 
-
 ## <a name="create-a-profile"></a>Criar um perfil
 
 > [!NOTE]  
-> Antes de criar um perfil de negócios, você deverá ter uma conta do Partner Center. Se você ainda não tiver uma conta do Partner Center, confira [Criar uma conta do Partner Center](mpn-create-a-partner-center-account.md) a fim de obter ajuda para criar uma. 
+> Antes de criar um perfil de negócios, você deverá ter uma conta do Partner Center. Se você ainda não tiver uma conta do Partner Center, confira [Criar uma conta do Partner Center](mpn-create-a-partner-center-account.md) a fim de obter ajuda para criar uma.
 
-Crie perfis para cada região na qual tenha autorização para fazer negócios. 
+Crie perfis para cada região na qual tenha autorização para fazer negócios.
 
-1. No menu **Central de Parceiros**, selecione **Indicações** &gt; **Perfis de negócios** &gt; selecione um país/região > **[Criar um perfil de negócios](https://partnercenter.microsoft.com/pcv/publishing)** .
+1. No menu **Central de Parceiros**, selecione **Indicações** &gt; **Perfis de negócios** &gt; selecione um país/região > **[Criar um perfil de negócios](https://partner.microsoft.com/referrals/businessprofiles/)** .
 
 2. Na página **Criar um perfil de negócios**, selecione uma região e, em seguida, insira as informações do seu perfil.
    > [!NOTE]  
    >  Embora o Partner Center seja compatível com vários idiomas, é possível que alguns elementos, como a descrição e as marcações de forma livre, incluam texto de idiomas diferentes, como observado neste tópico.
 
-### <a name="partner-information"></a><a href="" id="partner_info"></a>Informações do parceiro
+### <a name="partner-information"></a>Informações sobre o parceiro
 
 Apresente sua empresa, adicionando um logotipo, uma breve descrição e um link para seu site. 
 
@@ -83,17 +63,17 @@ Sua descrição pode ter até 2.500 caracteres. Dicas para uma descrição otimi
 -  **Não faça referência a outra empresa parceira da Microsoft pelo nome**, a menos que ela seja uma subsidiária ou afiliada de alguma forma à sua empresa ou que você atualmente tenha um contrato com essa empresa para atuar em parceria e/ou promover uma a outra para oportunidades de trabalho compartilhado.
 -  **Para regiões com vários idiomas**, considere a inclusão de texto de vários idiomas na descrição.
 
-#### <a name="linkedin-company-page-more-ways-to-connect"></a><a href="" id="linkedin"></a> Página da empresa no LinkedIn: mais maneiras de se conectar
+#### <a name="linkedin-company-page-more-ways-to-connect"></a> Página da empresa no LinkedIn: mais maneiras de se conectar
 
 Adicione sua página de empresa do LinkedIn para fortalecer suas conexões de clientes em potencial. 
 
 Quando você incluir esse link, os clientes poderão ver rapidamente mais sobre sua organização por meio da plataforma do LinkedIn.
 
-Se você ainda não tiver uma página de empresa no LinkedIn, você poderá [criá-la agora](https://www.linkedin.com/company-beta/setup/new/).
+Se você ainda não tiver uma página de empresa no LinkedIn, você poderá [criá-la agora](https://www.linkedin.com/company/setup/new/).
 
 ### <a name="partner-expertise"></a>Competência do Parceiro
 
-As ferramentas de pesquisa Localizar um parceiro procuram por marcações de competência. Otimize essas marcações para ajudar seu perfil a ganhar visibilidade.
+As ferramentas de pesquisa **Localizar um parceiro** procuram por marcas de experiência. Otimize essas marcações para ajudar seu perfil a ganhar visibilidade.
 
 Comece adicionando suas próprias marcações na seção de Competência do Parceiro. Você pode adicionar as seguintes marcações: 
 
@@ -103,10 +83,11 @@ Comece adicionando suas próprias marcações na seção de Competência do Parc
 -  **Recursos, habilidades e funcionalidades**. Essas marcações são de forma livre e fornecem a você a capacidade de adicionar palavras-chave de pesquisa exclusivas para seus recursos.
 
 Outras marcações usadas em pesquisa:
+
 -  **Marcações de competência** são uma designação obtida através da apresentação das habilidades da sua empresa.
 -  **Marcações de endosso** são obtidas quando a Microsoft ou seus clientes que trabalharam com você endossam seu trabalho.
 
-#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a><a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Permitir que a Microsoft endosse minhas áreas de conhecimento
+#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a>Permitir que a Microsoft endosse minhas áreas de conhecimento
 
 É recomendável deixar essa configuração marcada. 
 
@@ -116,15 +97,15 @@ No entanto, se existirem produtos para os quais você fornece serviços que não
 
 ### <a name="customer-preferences"></a>Preferências do cliente
 
-#### <a name="target-size"></a><a href="" id="#target_size"></a>Tamanho do destino
+#### <a name="target-size"></a>Tamanho de destino
 
 Você poderá recusar as indicações geradas por empresas que não atendem ao seu porte de cliente de destino.
 
 Ao recusá-las, você terá mais tempo para dedicar às empresas compatíveis com sua proposta de trabalho.
 
-#### <a name="locations"></a><a href="" id="#locations"></a> Locais
+#### <a name="locations"></a>Locais
 
-Você pode adicionar até cinco dos principais locais da sua organização por região. Esses locais aparecem quando os clientes pesquisam por parceiros pela proximidade.
+Você pode adicionar até cinco dos principais locais da sua empresa por região. Esses locais aparecem quando os clientes pesquisam por parceiros pela proximidade.
 
 Indica locais oficiais da empresa e que podem ser validados. Selecione locais que sejam centrais para os mercados em que você atua e que melhor representem a capacidade de atendimento da sua empresa.
 
