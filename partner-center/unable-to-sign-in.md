@@ -9,18 +9,18 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a7cc7d6335cdda0cec19a7676d2b6103592842e
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: b60b86bec70b5c33d65532599fa0421604d9ba12
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584177"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712878"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>Se você não puder entrar no Partner Center e precisar redefinir sua senha
 
 **Funções apropriadas**
 
-- Usuários do Partner Center
+- Todos os parceiros interessados no Partner Center
 
 Se você esqueceu sua senha e não consegue entrar no Partner Center, será necessário entrar em contato com o suporte. Encontre o contato apropriado em [suporte para produtos de negócios](/microsoft-365/admin/contact-support-for-business-products). 
 

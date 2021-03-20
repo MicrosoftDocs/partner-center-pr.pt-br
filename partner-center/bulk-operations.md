@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 8b69b430344c64f3d74e0b5058d561358bdd2b45
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.openlocfilehash: 39a1370ad4e5da9120c74b46dfb0c20cd93df4e3
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619385"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712182"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Operações em massa para as oportunidades de venda conjunta usando arquivos CSV (valores separados por vírgula)
 
@@ -89,7 +89,7 @@ ID DO CRM|Não|Identificador dessa referência específica em seu sistema CRM, s
 ID da campanha de marketing|Não|Este campo indica a campanha de marketing, que resultou nessa referência específica. Normalmente usado para cálculo de ROI|BingSummer2020
 Observações|Não|Observações detalhadas indicando as atualizações relacionadas à referência|Esta é uma observação de exemplo
 Ajuda da Microsoft necessária?|Sim|Isso é para indicar se você deseja que a Microsoft o ajude a fazer esta solicitação de venda|Sim
-Que ajuda específica da Microsoft?|Depende|Uma das seis maneiras diferentes que a Microsoft pode ajudá-lo. Isso será aplicável somente se você escolher não para a pergunta "a ajuda da Microsoft é necessária? " <br/> **Insira um número com base nas opções abaixo** <br/><br/> **1**-proposta de valor específico de carga de trabalho  <br/> **2**-arquitetura técnica do cliente  <br/> **3**-prova de conceito de/demo  <br/> **4**-Cotações e licenciamento  <br/> sucesso do cliente de **5** pós-vendas  <br/> **6**-geral ou outro|1|
+Que ajuda específica da Microsoft?|Depende|Uma das seis maneiras diferentes que a Microsoft pode ajudá-lo. Isso é aplicável somente se você escolher Sim para a pergunta "a ajuda da Microsoft é necessária? " <br/> **Insira um número com base nas opções abaixo** <br/><br/> **1**-proposta de valor específico de carga de trabalho  <br/> **2**-arquitetura técnica do cliente  <br/> **3**-prova de conceito de/demo  <br/> **4**-Cotações e licenciamento  <br/> sucesso do cliente de **5** pós-vendas  <br/> **6**-geral ou outro|1|
 Compartilhar com a equipe de vendas da Microsoft|Sim|Isso é para indicar se você deseja compartilhar os detalhes do negócio com a equipe de vendas da Microsoft ou não. Isso será aplicável somente se você escolher não para a pergunta "a ajuda da Microsoft é necessária? "|Sim
 Observações para a Microsoft|Não|Qualquer nota específica à Microsoft se você precisar de ajuda da Microsoft|Precisa de ajuda com uma POC para o cliente da contoso
 Consentimento para compartilhar contato com o cliente/parceiro|Sim|Consentimento para compartilhar detalhes de contato do cliente e os funcionários de contato da empresa que estão trabalhando no negócio. **As negociações não serão criadas ou atualizadas se você escolher não para esta coluna.** |Sim

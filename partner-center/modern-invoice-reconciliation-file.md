@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: f1606cceaf9dec1f04850fd85b3924ef75bbfda0
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 74974c68c607ddcee4aff6abd53284a60653fb0b
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098798"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712249"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Campos de arquivo de reconciliação de compra única do CSP
 
@@ -64,6 +64,7 @@ Para obter mais informações sobre arquivos de reconciliação, consulte [usar 
 | PCToBCExchangeRateDate | A data na qual a moeda de preço para a moeda de cobrança é determinada. | *30/09/2020* |
 | MeterDescription | Descrição do medidor.  | *Tabelas – dados de LRS armazenados (GB/mês)* |
 | ReservationOrderId | A ID do pedido de reserva. | *E21A6344E398FFC1C4D7...* |
+| CreditReasonCode | A descrição do crédito. | *Crédito de consumo do Azure* |
 
 >[!NOTE]
 >Você pode reconciliar seu consumo do Azure em seu arquivo de reconhecimento de compra única. Para fazer isso, acesse o arquivo de reconhecimento de uso com classificação diária e procure sua SubscriptionId. Isso exibirá todos os custos associados à sua ID do plano do Azure. Sua assinatura do Azure é mostrada como o EntitlementID.

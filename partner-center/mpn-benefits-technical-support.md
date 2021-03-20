@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 85287746381ee0ac18bc570650cc310df7ef6219
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102186643"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712895"
 ---
 # <a name="technical-support-benefits"></a>Benefícios do suporte técnico
 
@@ -58,12 +58,10 @@ O suporte técnico fornece solução de problemas para um problema específico, 
 Como parte da Associação de Microsoft Partner Network, os parceiros estão qualificados para o seguinte suporte técnico
 
 
-|                           Suporte técnico                          |  Action Pack |                                      Competência prateada                                      |                                        Competência Gold                                        |   |
-|:--------------------------------------------------------------------:|:------------:|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-:|
-| Suporte a produtos da Microsoft<br>Para o recente local <br>somente produtos | 10 incidentes | 15 incidentes                                                                                | 20 incidentes                                                                                  |   |
-| Suporte à assinatura na nuvem<br>Somente para produtos de nuvem                   |              | Competências de nuvem:<br>Ilimitado<br>         <br>Outras competências:<br>5 incidentes         | Competências de nuvem:<br>Ilimitado<br>          <br>Outras competências:<br>10 incidentes   
-
-
+| Suporte técnico |  Action Pack | Competência prateada | Competência Gold |
+|:---:|:---:|:---:|:---:|
+| Suporte a produtos da Microsoft<br>Para o recente local <br>somente produtos | 10 incidentes | 15 incidentes  | 20 incidentes |
+| Suporte à assinatura na nuvem<br>Somente para produtos de nuvem |  | Competências de nuvem:<br>Ilimitado<br><br>Outras competências:<br>5 incidentes  | Competências de nuvem:<br>Ilimitado<br>          <br>Outras competências:<br>10 incidentes  |
 
 * As competências de nuvem incluem: competência de segurança, Business Applications de nuvem, plataforma de nuvem, produtividade na nuvem, gerenciamento de mobilidade empresarial, soluções de nuvem de pequeno e médio porte.
 

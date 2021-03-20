@@ -1,25 +1,21 @@
 ---
 title: Qualificação do programa de incentivos
-description: Verifique se o seu programa de incentivos está qualificado para que você possa ser pago. Esse processo inclui a verificação da qualificação no guia do programa.
+description: Verifique se você atendeu aos requisitos de qualificação para o programa de incentivos. Esse processo inclui a verificação da qualificação no guia do programa.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 89d523d637a5a7641e9a9a8be255a1525ca66752
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.date: 03/16/2021
+ms.openlocfilehash: 405f7603639a3d460a307fab467872550487e936
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175226"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712147"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Determinar a elegibilidade do programa de incentivos
-
-**Aplica-se a**:
-
-- Partner Center
 
 **Funções apropriadas**:
 
@@ -40,7 +36,11 @@ Encontre os requisitos de qualificação específicos para seu programa no guia 
 
 3. Selecione o programa desejado.
 
-4. No campo **Detalhes do programa**, selecione **Guia do programa**.
+4. No campo **status** , selecione **requisitos de qualificação**.
+
+   :::image type="content" source="images/incentives/eligibility.png" alt-text="Captura de tela é um exemplo de requisitos de incentivos.":::
+
+5. Você precisa concluir todas as áreas que estão desmarcadas para atender à qualificação. Cada programa de incentivos tem seu próprio conjunto de requisitos.
 
 ## <a name="next-steps"></a>Próximas etapas
 

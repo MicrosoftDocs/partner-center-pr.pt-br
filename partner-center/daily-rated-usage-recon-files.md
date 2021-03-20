@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b45ef4767e4bde28befd35c5294ed19149bf034
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 531f28ae2bceed2d854c6fb139d0abb837a047b5
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031959"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712232"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Saiba como ler arquivos de reconciliação de uso com classificação diária no Partner Center
 
@@ -64,7 +64,7 @@ Este artigo explica como ler arquivos de reconciliação de uso com classificaç
 | MeterSubCategory | O tipo de serviço do Azure, que pode afetar a taxa. |
 | MeterName | A unidade de medida para o medidor que está sendo consumido. |
 | MeterRegion | Esta coluna identifica o local de um data center dentro da região para serviços em que MeterRegion é aplicável e populado. |
-| Unit | A unidade do **nome**do recurso. |
+| Unidade | A unidade do **nome** do recurso. |
 | ResourceLocation | O data center onde o medidor está em execução. |
 | ConsumedService | O serviço da plataforma do Azure que você usou. |
 | ResourceGroup | Representa um contêiner que mantém recursos relacionados para uma solução do Azure. |
@@ -79,7 +79,7 @@ Este artigo explica como ler arquivos de reconciliação de uso com classificaç
 | PricingCurrency | A moeda na lista de preços. |
 | ServiceInfo1 | O número de conexões do barramento de serviço que foram provisionadas e usadas em um determinado dia. |
 | ServiceInfo2 | Um campo herdado que captura metadados específicos do serviço opcionais. |
-| Marcações | Representa uma organização lógica dos recursos do Azure definidos pelo usuário. |
+| Marcas | Representa uma organização lógica dos recursos do Azure definidos pelo usuário. |
 | AdditionalInfo | Informações adicionais não abordadas em outras colunas. |
 | EffectiveUnitPrice | O valor real cobrado por unidade, incluindo descontos, crédito acumulado e assim por diante. |
 | PCToBCExchangeRate | Taxa de câmbio aplicada para a moeda de preço à moeda de cobrança. |
@@ -87,7 +87,8 @@ Este artigo explica como ler arquivos de reconciliação de uso com classificaç
 | EntitlementId | Representa a ID da assinatura do Azure. |
 | EntitlementDescription | Representa o nome da ID da assinatura do Azure. |
 | PartnerEarnedCreditPercentage | Exibe o PartnerEarnedCredit para o item de linha. O crédito acumulado será de 0 ou 15 por cento |
-
+| CreditPercentage | Exibe o crédito de consumo do Azure. O crédito acumulado será de 0 a 100 por cento. |
+| Créditos | Tipo de crédito. Por exemplo, o **crédito do Azure é aplicado.** |
 >[!NOTE]
 >O uso com classificação diária normalmente leva 24 horas para aparecer no Partner Center ou para ser acessado por meio da API.
 
