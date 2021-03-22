@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/10/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 5ade6d7c587561cc1af4a7645d1e4b0cce9a505e
-ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
+ms.openlocfilehash: 6e9afa8689f34203bdbf1f56f69aa9289e38ae15
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "102770236"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712589"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Verificar ou atualizar as informações de perfil da sua empresa 
 
@@ -55,7 +55,7 @@ Atualize a razão social ou o endereço no Partner Center.
 
 1. Clique em **Atualizar** ao lado do nome/endereço da empresa e altere os detalhes.
  
-1. Quando você selecionar **Enviar**, a identidade jurídica será reavaliada.
+1. Quando você selecionar **Enviar**, a identidade jurídica será reavaliada. Reavaliamos apenas o que você alterou.
 
 1. Se a verificação falhar, saiba como [corrigir o problema](verification-responses.md).
 

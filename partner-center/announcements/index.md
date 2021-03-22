@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/15/2021
-ms.openlocfilehash: f7cca5e0d026ad78fb66c4a5eb623c279d3d2c98
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.date: 03/18/2021
+ms.openlocfilehash: 87d71434a44bcfe66f7a928291007237e9c958c6
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570168"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712283"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,6 +22,9 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 |**Categoria**|**Comunicados de março de 2021**|**Comunicado**|
 |---------|:---------|:---------|
+|Funcionalidades|[Oferta do marketplace comercial do CSP e incentivos do CSP FY21 para ofertas qualificadas](2021-march.md#12)|18 de março|
+|Funcionalidades|[Nome da oferta do Power BI Premium e atualização de pré-requisito](2021-march.md#11)|18 de março|
+|Ofertas/mercados|[Atualizações de preço de março para Microsoft 365 F3](2021-march.md#10)|16 de março|
 |Conduza Eficiência e Escala|[Atualizar um nome legal da empresa por meio do Partner Center](2021-march.md#9)|16 de março|
 |Capacidades|[Atualizar para a evolução do programa CSP (Provedor de Soluções na Nuvem) e para as alterações do programa Open License](2021-march.md#8)|15 de março|
 |Amplie seus negócios|[Atualizar para um comunicado anterior: Avaliações Premium, um complemento ao Gerenciador de Conformidade](2021-march.md#7)|15 de março|
