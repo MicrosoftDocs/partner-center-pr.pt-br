@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9622f02039360e8ab39f459c9a2fe082ec70c854
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 7d80651c4e5e4afb476dada388f23c118e0bdf25
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756744"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768696"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Solucionar problemas de configuração de conta ou de renovação de MPN
 
@@ -28,20 +28,20 @@ Aqui estão algumas sugestões para solucionar problemas comuns que surgem ao co
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>O que acontece se você estiver migrando do centro de associação de parceiro e não for possível editar os campos de informações da empresa
 
-Nos casos em que sua empresa já tem uma presença no Partner Center (digamos, conta CSP) – você verá uma tela somente leitura. Esta tela exibirá todas as informações sobre sua empresa, pois elas existem no Partner Center.
+Nos casos em que sua empresa já tem uma presença no Partner Center (por exemplo, uma conta CSP), você verá uma tela somente leitura. Esta tela exibirá todas as informações sobre sua empresa, pois elas existem no Partner Center.
 
 Você não pode alterar os detalhes nesta tela. Isso é por design e não é um erro.
 
 Selecione **aceitar** e **continuar** para continuar.
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Se o departamento de TI tiver desativado a **inscrição no Partner Center**.
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Se o departamento de TI tiver desativado a **inscrição no Partner Center**
 
 Você vê essa mensagem porque os usuários viral estão desabilitados ou porque a inscrição viral está desabilitada no locatário do Azure AD. O administrador global da sua conta do Azure AD pode habilitar os recursos necessários executando o seguinte comando do PowerShell:
 
 **Set-MsolCompanySettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
 
-Para obter mais informações, leia [inscrição de autoatendimento](/azure/active-directory/users-groups-roles/directory-self-service-signup)
+Para obter mais informações, leia [inscrição de autoatendimento](/azure/active-directory/users-groups-roles/directory-self-service-signup).
 
 ## <a name="you-forgot-your-password"></a>Você esqueceu sua senha
 

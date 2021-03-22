@@ -1,7 +1,7 @@
 ---
 title: Criar uma conta do MPN no Partner Center
 ms.topic: article
-ms.date: 02/08/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como os membros do Microsoft Partner Network podem criar uma conta do Partner Center para gerenciar seus benefícios e competências de rede.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 39ff18e82782dcc19e1bda5cd774012f241a0b3a
-ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
+ms.openlocfilehash: 16d19ce353c081359ab59a34bf0a21392fc7d484
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "100013683"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570202"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Criar uma conta do MPN no Partner Center para gerenciar os benefícios e as competências da rede
 
@@ -23,7 +23,7 @@ Se você está conhecendo o MPN (Microsoft Partner Network) agora e não tem uma
 
 ## <a name="prerequisites"></a>Pré-requisitos 
 
-Quando estiver pronto para criar uma conta no Partner Center, para começar, você precisará ter os itens a seguir disponíveis.  É recomendável coletar estes itens antes de começar:
+Quando estiver pronto para criar uma conta no Partner Center, você precisará ter os itens a seguir disponíveis.  É recomendável coletar estes itens antes de começar:
 
 - Email de trabalho da empresa OU conta corporativa do Office 365. Para obter mais informações, leia [A conta corporativa da sua empresa e o Partner Center](azure-active-directory-tenants-and-partner-center.md) 
  
@@ -40,7 +40,8 @@ Quando estiver pronto para criar uma conta no Partner Center, para começar, voc
 
 ## <a name="get-started"></a>Introdução
 
-1. Comece com seu email de trabalho fornecido pela sua empresa, como you@yourcompanyname.com.
+1. Na página [**Introdução**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership), comece com seu email de trabalho fornecido por sua empresa, como you@yourcompanyname.com.
+
  
     a.  O endereço de email precisa ser válido e acessível para você, pois enviaremos um código de verificação para continuar.
 
@@ -55,7 +56,7 @@ Quando estiver pronto para criar uma conta no Partner Center, para começar, voc
 
 3. Forneça os detalhes comerciais legais da sua empresa.
 
-Você pode pesquisar o perfil da empresa ou inserir as informações da empresa manualmente. Se a empresa estiver registrada com [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), use a ID DUNS para pesquisar as informações dela. Se você quiser fornecer os detalhes da empresa, selecione **Manual**.
+Você pode pesquisar o perfil da empresa ou inserir as informações da empresa manualmente. Se a empresa estiver registrada no [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), use a ID DUNS para pesquisar as informações dela. Se você quiser fornecer os detalhes da empresa, selecione **Manual**.
 
 Depois de fornecer as informações da empresa, insira as informações de contato principal e selecione **Registrar agora**.
 O contato principal deve ser a pessoa que podemos contatar na empresa sobre seu aplicativo (pode ser você ou outra pessoa da empresa).

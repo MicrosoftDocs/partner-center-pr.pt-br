@@ -9,18 +9,18 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ceaf3fd0819937177648814a02df4a2a266ee06f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 0e7676df62aa6ea91492f9904ac810397fb0e5aa
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624299"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768747"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transição do parceiro de fatura direto do CSP (Provedor de Soluções na Nuvem) para o revendedor indireto do CSP
 
 **Funções apropriadas**
 
-- Administradores globais
+- Administrador global
 
 >[!Note]
 >Este artigo destina-se a parceiros de cobrança direto que decidiram fazer a transição para revendedores indiretos. No entanto, mesmo que você ainda não tenha feito uma decisão explícita para se registrar como um revendedor indireto, os parceiros de cobrança diretos que não atendem aos novos [requisitos](direct-partner-new-requirements.md) para o programa de parceiro de cobrança direto do CSP serão informados pela Microsoft quando seus [recursos de fatura direta serão restritos](restricted-direct-bill-capabilities.md).
@@ -127,9 +127,9 @@ Você gerencia seus clientes de fatura direta e seus clientes de revendedores in
 
 ### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>Para identificar os clientes adquiridos como um parceiro de cobrança direto
 
-1. Selecionar **clientes**
+1. Selecione **Clientes**.
 
-2. Selecione um cliente para exibir seus detalhes
+2. Selecione um cliente para exibir seus detalhes.
 
 3. Se esse cliente for um adquirido como parceiro de cobrança direto, você verá opções para **Adicionar** ou **Exibir produtos** e verá suas assinaturas.
 
@@ -162,7 +162,7 @@ Você pode usar o recurso de extensão de relacionamento de revendedor para esta
 
 - Seu provedor indireto não será fornecido com [privilégios de administração delegados](customers-revoke-admin-privileges.md) para o locatário do cliente. Se o seu provedor indireto exigir privilégios de administração delegada, você deverá enviar um convite de revendedor indireto para o cliente em vez disso.
 
-- Depois que a relação do revendedor for estabelecida, o provedor indireto será exibido como um parceiro CSP para o cliente na página relacionamentos de parceiros no [M365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/partners) e no [Microsoft Store for Business](/microsoft-store/work-with-partner-microsoft-store-business).
+- Depois que a relação do revendedor for estabelecida, o provedor indireto será exibido como um parceiro CSP para o cliente na página relações de parceiro no [centro de administração Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/partners) e [Microsoft Store para empresas](/microsoft-store/work-with-partner-microsoft-store-business).
 
     > [!IMPORTANT]
     > Para evitar confusão e mal-entendido, você está contratualmente obrigado pelo seu contrato de parceiro para informar e obter consentimento do cliente de fatura direta antes de usar o recurso de extensão de relacionamento para estabelecer a relação de revendedor entre um cliente de fatura direto existente e um provedor indireto.
@@ -223,9 +223,9 @@ Microsoft Cloud contrato é válido até 31 de janeiro de 2020. Após essa data,
 
 Em modelo indireto do CSP, revendedores indiretos não têm relações de cobrança com a Microsoft. Em vez disso, revendedores indiretos obtêm assinaturas para seus clientes por meio de seus provedores indiretos. Ao fazer a transição de um parceiro de cobrança direto para o revendedor indireto, você precisa transferir as assinaturas existentes que você tem como parceiro de cobrança direto para seu provedor indireto. Você pode usar o recurso de transferência de assinatura autoservido no painel do Partner Center para fazer isso.
 
-### <a name="pre-requisites"></a>Pré-requisitos
+### <a name="prerequisites"></a>Pré-requisitos
 
-- Este recurso só está disponível para a transição de parceiros que concluíram o registro indireto do revendedor usando seus locatários de parceiro de conta direta existentes
+- Esse recurso só está disponível para a transição de parceiros que concluíram o registro indireto do revendedor usando seus locatários de parceiro de conta direta existentes.
 
 - Antes de transferir assinaturas associadas a um determinado cliente, o parceiro de transição deve mover o cliente para um provedor indireto.
 

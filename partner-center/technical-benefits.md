@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/24/2021
-ms.openlocfilehash: b3f62bb6d6d48e9dbcdcb906041a1653de436606
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 3e3f1d576c03e437c218f7902c7770a1203eba70
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022784"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768713"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Explorar as pré-vendas técnicas e os serviços de implantação (TPD) 
 
@@ -30,7 +30,7 @@ Todas as soluções híbridas ou de nuvem têm suporte, além do Windows 10, Win
 
 - Os parceiros Gold e Silver recebem assistência de pré-vendas ilimitada. 
 
-- Os membros da rede podem comprar [Action Pack](https://partner.microsoft.com/membership/action-pack) para receber cinco horas de consultoria  
+- Os membros da rede podem comprar [Action Pack](https://partner.microsoft.com/membership/action-pack) para receber cinco horas de consultoria.  
 
 |     Tipo de oferta    | Número de horas de consultoria |   Pré-vendas técnicas   |
 |:-----------------:|:------------------------:|:----------------------:|
@@ -46,7 +46,7 @@ Entre com qualquer conta de usuário associada ao MPN para **[criar uma solicita
 
 Seus benefícios técnicos de TPD (pré-vendas e serviços de implantação) são ativados e disponibilizados automaticamente para todos os usuários associados ao MPN. 
 
-Para exibir seus benefícios técnicos no Partner Center
+Para exibir seus benefícios técnicos no Partner Center:
 
 1. Entre com sua conta do MPN associada no [painel](https://partner.microsoft.com/dashboard)do Partner Center. 
 

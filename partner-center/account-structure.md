@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 316fee641e321311c13e29a01f2e9091c69e67a6
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 9ed503fbeee6264e1127163b7cc44b7b351d3b89
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474267"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768662"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>O Partner Center tem dois níveis de contas para parceiros MPN
 
@@ -37,10 +37,10 @@ Sua empresa tem dois níveis de contas no Partner Center.
 
 ## <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>A conta de segundo nível é a conta local chamada PLA (conta de local de parceiro).
 
-O PGA pode ter locais de negócios adicionais sob ele. Cada local tem sua própria ID de MPN ou PLA (conta de localização de parceiro). Você usa o local MPN ID para negócios transacionais e registro em programas de incentivo.
+Seu PGA pode ter locais de negócios adicionais sob ele. Cada local tem sua própria ID de MPN ou PLA (conta de localização de parceiro). Você usa o local MPN ID para negócios transacionais e registro em programas de incentivo.
 
 - Cada conta de local do parceiro pode ter seu próprio endereço legal e contato principal. Os locais também podem compartilhar o endereço legal com a conta global ou com outros locais.
-- Exiba a lista de contas de local de parceiro em locais de **configurações**  ->  **Locations**.
+- Exiba a lista de contas de local de parceiro em locais de **configurações**  ->  .
 - Todas as contas de local estão no mesmo nível e na conta global do parceiro.
 - Os administradores de contas podem adicionar locais.
 
