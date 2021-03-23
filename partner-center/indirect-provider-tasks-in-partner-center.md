@@ -8,13 +8,13 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.date: 07/01/2020
-ms.openlocfilehash: 12b902f8134a4fcf6d93439658da95fff6d80c4f
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.date: 03/23/2021
+ms.openlocfilehash: ece0e5f3bedf1496a252ac8e8c1545fb22ec8108
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567042"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880762"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Faça parceria com revendedores indiretos no programa Provedor de Soluções na Nuvem
 
@@ -76,7 +76,7 @@ Na página detalhes da assinatura, no campo revendedor (ID do MPN), adicione o r
 
 1. Selecione **revendedores indiretos** no menu do **Partner Center** .
 
-2. Na página **Revendedores indiretos** , selecione **Solicitar uma parceria**. Um rascunho de mensagem de e-mail é exibido.
+2. Na página **Revendedores indiretos**, selecione **Solicitar uma parceria**. Um rascunho de mensagem de e-mail é exibido.
 
 3. Selecione **Abrir no email** para abri-lo em seu aplicativo de email padrão ou selecione **Copiar para área de transferência** para copiar e colar, em seguida, a mensagem em um e-mail. Selecione **Concluído** ao terminar.
     > [!IMPORTANT]  
@@ -98,10 +98,10 @@ Para assinaturas existentes, se você decidir trabalhar com um revendedor indire
 
 - Na página detalhes da assinatura, no campo **revendedor (ID do MPN)** , adicione o revendedor com o qual você deseja trabalhar. Isso garante que o revendedor receberá os incentivos apropriados.
 
-| **Para fazer isso** | **Faça isto** | **Onde** |
+| **Para fazer isso** | **Fazer isso** | **Where** |
 |   ------------------   |   -------   |   -----   |
 | Habilitar o revendedor para gerenciar a conta de um cliente e ter permissões de administrador para gerenciar suas assinaturas | Associar um revendedor para uma conta do cliente ao adicionar um novo cliente | Na página **Novo cliente** |
-| Habilitar o revendedor para gerenciar uma conta de cliente do Azure|Associar um revendedor a uma conta de cliente do Azure ao adicionar um novo cliente|No **Portal de serviço do Azure** , selecione [Configurações de Usuário](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para fornecer permissões de **proprietário locatário** ao revendedor indireto|
+| Habilitar o revendedor para gerenciar uma conta de cliente do Azure|Associar um revendedor a uma conta de cliente do Azure ao adicionar um novo cliente|No **Portal de serviço do Azure**, selecione [Configurações de Usuário](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para fornecer permissões de **proprietário locatário** ao revendedor indireto|
 | Dê ao revendedor crédito para incentivos | Associar o revendedor à assinatura (nova ou existente) | Na página **Nova inscrição** |
 | Delegar atendimento ao cliente para assinaturas específicas ao revendedor | Selecione o revendedor da lista **Contato de suporte designados** | Na página de detalhes da assinatura: selecione o cliente na página de seus **clientes** e, em seguida, selecione a assinatura na página **assinaturas** do cliente |
 
@@ -136,13 +136,13 @@ Quando você associa um revendedor de uma nova conta do cliente, você está del
 
 2. Encontre o revendedor indireto que você deseja atribuir aos novos clientes e, em seguida, selecione **Adicionar novo cliente**. Observe que o revendedor indireto já está selecionado para você no formulário de detalhes do cliente. Forneça os detalhes do cliente e, em seguida, selecione **Avançar: assinaturas**.
 
-3. Na página **Nova assinatura** , selecione as assinaturas que o cliente quer comprar e, em seguida, insira o número de licenças que o cliente precisa.
+3. Na página **Nova assinatura**, selecione as assinaturas que o cliente quer comprar e, em seguida, insira o número de licenças que o cliente precisa.
 
 4. Selecione **Avançar: Análise**.
 
 5. Se o pedido estiver correto, selecione **Enviar**. Se a ordem estiver incorreta, selecione **Cancelar** para cancelar a operação inteira e recomeçar.
 
-6. Depois de enviar a ordem, a página **Confirmação** será exibida. Em **Informações de instalação** , o nome de conta de usuário do administrador e a senha temporária são exibidos. Copie as informações de nome e a senha de conta do usuário para que você possa enviá-los para o novo cliente.
+6. Depois de enviar a ordem, a página **Confirmação** será exibida. Em **Informações de instalação**, o nome de conta de usuário do administrador e a senha temporária são exibidos. Copie as informações de nome e a senha de conta do usuário para que você possa enviá-los para o novo cliente.
 
     > [!IMPORTANT]  
     > Anote o nome da conta de usuário e a senha, pois você não pode acessar essas informações novamente depois de fechar esta página.
@@ -157,7 +157,7 @@ Quando os clientes desejam comprar novas assinaturas, atualizar as existentes ou
 
 2. Localizar o cliente cuja conta você deseja alterar. Você pode filtrar a lista por revendedor indireto para limitar suas opções. Expanda o registro do cliente selecionando a seta para baixo e, em seguida, selecionando **Adicionar assinatura**.
 
-3. Na página **Nova assinatura** , selecione as assinaturas e insira o número de licenças que o cliente quiser comprar.
+3. Na página **Nova assinatura**, selecione as assinaturas e insira o número de licenças que o cliente quiser comprar.
 
 4. Para associar a assinatura a um revendedor, selecione o nome do revendedor na lista e, em seguida, selecione **Enviar**. Associar o revendedor com a assinatura permite que eles ganhem incentivos, se aplicável.
 
@@ -168,6 +168,10 @@ Quando os clientes desejam comprar novas assinaturas, atualizar as existentes ou
 7. Selecione **Enviar** quando terminado.
 
 ## <a name="next-steps"></a>Próximas etapas
+
+Encontre respostas para suas perguntas sobre o contrato de parceiro da Microsoft
+
+- [Como os provedores indiretos podem ajudar seus revendedores a adotar o contrato de parceiro da Microsoft-perguntas frequentes](mpa-indirect-provider-faq.md)
 
 Para obter mais informações sobre como gerenciar assinaturas e contas de cliente, consulte:
 

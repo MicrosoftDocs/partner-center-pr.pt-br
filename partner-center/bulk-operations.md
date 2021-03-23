@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 39a1370ad4e5da9120c74b46dfb0c20cd93df4e3
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: c8910b98e32abe10ae3bc86f24aae7bec2630741
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712182"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880711"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Operações em massa para as oportunidades de venda conjunta usando arquivos CSV (valores separados por vírgula)
 
@@ -61,40 +61,40 @@ As informações a seguir descrevem a funcionalidade de exportação:
 
 |**Nome da coluna**|**É obrigatório?**|**Descrição**|**Valor (es) de exemplo**|
 |-----|:-----|:---------|:---|
-Errors|Não|Erros se qualquer um relacionado às operações de criação/atualização w. r. t às referências será incluído nesta coluna. Se houver vários erros, todos eles serão listados separados por um ponto-e-vírgula.|Campo obrigatório solução 1 ausente|
-ID do Engagement|Não|A ID do Engagement é gerada pelo sistema de referências do Microsoft Partner Center. Não é necessário para a nova criação de referência. Você pode usar a ID do Engagement existente se estiver atualizando um registro.|f7eaae47-0b84-4ac4-b4ea-5b2587d42cee
-ID de referência|Não|A ID de referência é gerada pelo sistema de referências do Microsoft Partner Center. Não é necessário para a nova criação de referência. Preencha-o com a ID de referência se estiver atualizando um registro existente.|ebacdkdc-0b84-4ac4-b4ea-5b2587d42cee
-Nome da negociação|Sim|O nome amigável do negócio para sua referência.|Mola do Reino Unido
-Nome do Cliente|Sim|Nome da empresa do cliente. Use o nome legal da organização para correspondência rápida no lado da Microsoft.|Contoso Corporation
-Linha de endereço do cliente 1|Sim|Linha de endereço 1 da empresa do cliente. |Uma maneira da contoso
-Linha de endereço do cliente 2|Não|Linha de endereço 2 da empresa do cliente.|NE 148 Street
-Cidade do cliente|Sim|Cidade onde a organização do cliente está localizada.|Redmond
-Estado do cliente|Não|Estado em que a organização do cliente está localizada.|Washington
-Código postal do cliente|Não|Código postal da região onde a organização do cliente está localizada.|98052
-País/Região do cliente|Sim|País/região onde a organização do cliente está localizada. Use os códigos de país de duas letras, conforme mencionado [aqui]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes).|EUA
-ID do cliente D-U-N-S|Não|Tente buscar a ID do DUNS da organização do cliente. Isso ajudará na correspondência mais rápida da organização do cliente no lado da Microsoft, o que ajuda a atribuir uma atribuição mais rápida ao vendedor. Você pode obter a ID do DUNS gratuitamente neste [site](https://www.dnb.com/duns-number/lookup.html).|81466849
+Errors|No|Erros se qualquer um relacionado às operações de criação/atualização w. r. t às referências será incluído nesta coluna. Se houver vários erros, todos eles serão listados separados por um ponto-e-vírgula.|Campo obrigatório solução 1 ausente|
+ID do Engagement|No|A ID do Engagement é gerada pelo sistema de referências do Microsoft Partner Center. Não é necessário para a nova criação de referência. Você pode usar a ID do Engagement existente se estiver atualizando um registro.|f7eaae47-0b84-4ac4-b4ea-5b2587d42cee
+ID de referência|No|A ID de referência é gerada pelo sistema de referências do Microsoft Partner Center. Não é necessário para a nova criação de referência. Preencha-o com a ID de referência se estiver atualizando um registro existente.|ebacdkdc-0b84-4ac4-b4ea-5b2587d42cee
+Nome da negociação|Yes|O nome amigável do negócio para sua referência.|Mola do Reino Unido
+Nome do Cliente|Yes|Nome da empresa do cliente. Use o nome legal da organização para correspondência rápida no lado da Microsoft.|Contoso Corporation
+Linha de endereço do cliente 1|Yes|Linha de endereço 1 da empresa do cliente. |Uma maneira da contoso
+Linha de endereço do cliente 2|No|Linha de endereço 2 da empresa do cliente.|NE 148 Street
+Cidade do cliente|Yes|Cidade onde a organização do cliente está localizada.|Redmond
+Estado do cliente|No|Estado em que a organização do cliente está localizada.|Washington
+Código postal do cliente|No|Código postal da região onde a organização do cliente está localizada.|98052
+País/Região do cliente|Yes|País/região onde a organização do cliente está localizada. Use os códigos de país de duas letras, conforme mencionado [aqui]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes).|EUA
+ID do cliente D-U-N-S|No|Tente buscar a ID do DUNS da organização do cliente. Isso ajudará na correspondência mais rápida da organização do cliente no lado da Microsoft, o que ajuda a atribuir uma atribuição mais rápida ao vendedor. Você pode obter a ID do DUNS gratuitamente neste [site](https://www.dnb.com/duns-number/lookup.html).|81466849
 Nome do contato do cliente|Depende|O nome só será obrigatório se você precisar da ajuda da Microsoft. O primeiro nome do contato principal da organização do cliente que está trabalhando nessa dose.|John
 Sobrenome do contato do cliente|Depende|O sobrenome só será obrigatório se você precisar da ajuda da Microsoft. Sobrenome do contato principal da organização do cliente que está trabalhando nesse negócio.|Cliente
 Número de telefone de contato do cliente|Depende|O número de telefone só será obrigatório se você precisar da ajuda da Microsoft. Número de telefone do contato principal da organização do cliente que está trabalhando nesse negócio.|9999999999
 Endereço de email de contato do cliente|Depende|O endereço de email só será obrigatório se você precisar da ajuda da Microsoft. Endereço de email do contato principal da organização do cliente que está trabalhando nesse negócio.|john.customer@contoso.com
-Status de referência do parceiro|Sim|Indica o status do negócio da perspectiva da sua empresa. Necessário se você estiver tentando criar ou modificar uma referência. Use **novo** se você estiver tentando criar um novo negócio. Os valores aceitos são documentados [aqui](/partner/develop/referral-resources#referralstatus).|Ativo
-Substatus de referência do parceiro|Sim|Indica o status exato do negócio. Use **aceito** se você estiver tentando criar um novo negócio. Ele também será necessário se você estiver modificando uma referência existente. Os valores aceitos são documentados [aqui](/partner/develop/referral-resources#referralsubstatus).|Aceito
+Status de referência do parceiro|Yes|Indica o status do negócio da perspectiva da sua empresa. Necessário se você estiver tentando criar ou modificar uma referência. Use **novo** se você estiver tentando criar um novo negócio. Os valores aceitos são documentados [aqui](/partner/develop/referral-resources#referralstatus).|Ativo
+Substatus de referência do parceiro|Yes|Indica o status exato do negócio. Use **aceito** se você estiver tentando criar um novo negócio. Ele também será necessário se você estiver modificando uma referência existente. Os valores aceitos são documentados [aqui](/partner/develop/referral-resources#referralsubstatus).|Aceito
 Status de referência da Microsoft|Depende|Indica o status da solicitação de televenda que você enviou para a ajuda de busca da Microsoft. Este é um campo somente leitura. Qualquer alteração feita nesse campo durante a importação dos dados será ignorada.| Pendente
 Motivo recusado/perdido|Depende| Você precisará fornecer essas informações somente se estiver alterando o substatus do campo para recusado ou perdido. Caso contrário, você poderá ignorar essa coluna. <br/> **Insira um número com base nas opções abaixo** <br/><br/> **1**-o orçamento do projeto não é adequado  <br/> **2**-o cliente não respondeu  <br/> **3**-cliente escolheu outro fornecedor  <br/> **4** -requisito do cliente não atendido  <br/> **5** -não é um cliente <br/> **6**-a linha de tempo proposta era muito curta <br/> **7** -relatar como abuso, spam ou phishing <br/> **8** -outros |6|
-Estágio de Vendas|Não|Este é o campo para indicar o estágio de vendas detalhado da referência. Leia mais sobre os estágios de vendas [aqui](./manage-co-sell-opportunities.md)|40
-Valor de negócio estimado|Sim|"O valor do acordo com base nas conversas iniciais com o cliente. Isso pode ser alterado até que o negócio atinja um dos Estados de terminal| venceu ou perdido ".|12563
-Moeda|Sim|A moeda na qual o valor de acordo é inserido. Você pode encontrar os códigos de moeda [aqui](https://en.wikipedia.org/wiki/ISO_4217).|USD
-Data de fechamento estimada|Sim|A data de fechamento estimada do negócio com base nas conversas iniciais com o cliente no formato MM/DD/AAAA. <br/> **A data deve estar no fuso horário UTC. Todas as datas exibidas na interface do usuário do Partner Center são baseadas em fusos locais. Pode haver uma diferença de +/-um dia na interface do usuário do Partner Center se você estiver olhando para a referência para a qual forneceu a data no fuso horário UTC.**|1/30/2020
-ID DO CRM|Não|Identificador dessa referência específica em seu sistema CRM, se houver. Este é um campo de entrada de texto de formato livre.|34234324-sdfsdf-345345-SFD
-ID da campanha de marketing|Não|Este campo indica a campanha de marketing, que resultou nessa referência específica. Normalmente usado para cálculo de ROI|BingSummer2020
-Observações|Não|Observações detalhadas indicando as atualizações relacionadas à referência|Esta é uma observação de exemplo
-Ajuda da Microsoft necessária?|Sim|Isso é para indicar se você deseja que a Microsoft o ajude a fazer esta solicitação de venda|Sim
+Estágio de Vendas|No|Este é o campo para indicar o estágio de vendas detalhado da referência. Leia mais sobre os estágios de vendas [aqui](./manage-co-sell-opportunities.md)|40
+Valor de negócio estimado|Yes|O valor do acordo com base nas conversas iniciais com o cliente. Isso pode ser alterado até que a negociação atinja um dos Estados de terminal **vencidos** ou **perdidos.**|12563
+Moeda|Yes|A moeda na qual o valor de acordo é inserido. Você pode encontrar os códigos de moeda [aqui](https://en.wikipedia.org/wiki/ISO_4217).|USD
+Data de fechamento estimada|Yes|A data de fechamento estimada do negócio com base nas conversas iniciais com o cliente no formato MM/DD/AAAA. <br/> **A data deve estar no fuso horário UTC. Todas as datas exibidas na interface do usuário do Partner Center são baseadas em fusos locais. Pode haver uma diferença de +/-um dia na interface do usuário do Partner Center se você estiver olhando para a referência para a qual forneceu a data no fuso horário UTC.**|1/30/2020
+ID DO CRM|No|Identificador dessa referência específica em seu sistema CRM, se houver. Este é um campo de entrada de texto de formato livre.|34234324-sdfsdf-345345-SFD
+ID da campanha de marketing|No|Este campo indica a campanha de marketing, que resultou nessa referência específica. Normalmente usado para cálculo de ROI|BingSummer2020
+Observações|No|Observações detalhadas indicando as atualizações relacionadas à referência|Esta é uma observação de exemplo
+Ajuda da Microsoft necessária?|Yes|Isso é para indicar se você deseja que a Microsoft o ajude a fazer esta solicitação de venda|Yes
 Que ajuda específica da Microsoft?|Depende|Uma das seis maneiras diferentes que a Microsoft pode ajudá-lo. Isso é aplicável somente se você escolher Sim para a pergunta "a ajuda da Microsoft é necessária? " <br/> **Insira um número com base nas opções abaixo** <br/><br/> **1**-proposta de valor específico de carga de trabalho  <br/> **2**-arquitetura técnica do cliente  <br/> **3**-prova de conceito de/demo  <br/> **4**-Cotações e licenciamento  <br/> sucesso do cliente de **5** pós-vendas  <br/> **6**-geral ou outro|1|
-Compartilhar com a equipe de vendas da Microsoft|Sim|Isso é para indicar se você deseja compartilhar os detalhes do negócio com a equipe de vendas da Microsoft ou não. Isso será aplicável somente se você escolher não para a pergunta "a ajuda da Microsoft é necessária? "|Sim
-Observações para a Microsoft|Não|Qualquer nota específica à Microsoft se você precisar de ajuda da Microsoft|Precisa de ajuda com uma POC para o cliente da contoso
-Consentimento para compartilhar contato com o cliente/parceiro|Sim|Consentimento para compartilhar detalhes de contato do cliente e os funcionários de contato da empresa que estão trabalhando no negócio. **As negociações não serão criadas ou atualizadas se você escolher não para esta coluna.** |Sim
-Solução 1|Sim|ID da solução (obrigatória), a moeda (opcional) na qual o valor de acordo é inserido. Você pode encontrar os códigos de moeda [aqui](https://en.wikipedia.org/wiki/ISO_4217), o preço da SKU (opcional) e a quantidade da SKU (opcional)  |SOL-1234-PQRS, USD, 10, 100
-Membro da equipe 1|Sim|Nome, sobrenome, número de celular e ID de email do respectivo membro da equipe.| Bob, parceiro, 999999, Bob.partner@Contoso.com
+Compartilhar com a equipe de vendas da Microsoft|Yes|Isso é para indicar se você deseja compartilhar os detalhes do negócio com a equipe de vendas da Microsoft ou não. Isso será aplicável somente se você escolher não para a pergunta "a ajuda da Microsoft é necessária? "|Yes
+Observações para a Microsoft|No|Qualquer nota específica à Microsoft se você precisar de ajuda da Microsoft|Precisa de ajuda com uma POC para o cliente da contoso
+Consentimento para compartilhar contato com o cliente/parceiro|Yes|Consentimento para compartilhar detalhes de contato do cliente e os funcionários de contato da empresa que estão trabalhando no negócio. **As negociações não serão criadas ou atualizadas se você escolher não para esta coluna.** |Yes
+Solução 1|Yes|ID da solução (obrigatória), a moeda (opcional) na qual o valor de acordo é inserido. Você pode encontrar os códigos de moeda [aqui](https://en.wikipedia.org/wiki/ISO_4217), o preço da SKU (opcional) e a quantidade da SKU (opcional)  |SOL-1234-PQRS, USD, 10, 100
+Membro da equipe 1|Yes|Nome, sobrenome, número de celular e ID de email do respectivo membro da equipe.| Bob, parceiro, 999999, Bob.partner@Contoso.com
 
 ## <a name="next-steps"></a>Próximas etapas
 
