@@ -1,7 +1,7 @@
 ---
 title: Gerenciar sua conta do Partner Center
 ms.topic: conceptual
-ms.date: 01/14/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como usar o Partner Center para gerenciar as informações bancárias, fiscais e de perfil da sua empresa, além de funções, permissões e muito mais.
@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235963"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486983"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gerenciar sua conta do Partner Center – perfis da empresa, informações bancárias, funções, permissões e muito mais
 
@@ -26,7 +26,7 @@ A conta que você cria no Partner Center ao se inscrever é seu email de trabalh
 Confira também os artigos [Convidar funcionários para participar do Partner Center](guide-to-migration.md) e [Adicionar um novo usuário](create-user-accounts-and-set-permissions.md).
 
 >[!NOTE]
->O menu de configurações da conta será alterado dependendo dos programas em que você estiver inscrito. Por exemplo, se você for um parceiro do programa CSP (Provedor de Soluções na Nuvem), poderá gerenciar os serviços compartilhados do Azure em Configurações da conta.
+>O menu de configurações da conta será alterado dependendo dos programas em que você estiver inscrito. Por exemplo, se você for parceiro do programa CSP (Provedor de Soluções na Nuvem), poderá gerenciar os serviços compartilhados do Azure em **Configurações da conta**.
 
 ## <a name="account-management"></a>Gerenciamento de contas
 
@@ -51,6 +51,20 @@ Quando você seleciona o ícone **Configurações** e abre o menu **Configuraç�
 A guia Parceiro incluirá todas as informações de negócios legais, como a razão social e o endereço da sua empresa, bem como o contato principal e os locais físicos dos negócios. A guia Revendedor para parceiros que fazem negócios com CSP inclui o **Perfil de atendimento ao cliente**.
 
 Se a sua empresa não participar do CSP, a exibição padrão mostrará apenas a guia **Parceiros**, que incluirá o **Perfil de atendimento ao cliente**.
+
+### <a name="when-you-are-in-more-than-one-account"></a>Quando você está em mais de uma conta
+
+Você pode fazer parte de mais de uma conta. Você pode verificar se faz parte de várias contas pela presença do "seletor de conta" no menu de navegação esquerdo.
+
+:::image type="content" source="images/accountsettings/account-picker.png" alt-text="Identificar o seletor de conta":::
+
+Se você não vê o seletor de conta, você faz parte de apenas uma conta. 
+
+Quando você clica nesse seletor, todas as contas das quais você faz parte são exibidas como uma lista. Em seguida, você pode clicar em qualquer uma delas e alternar para essa conta. Depois disso, tudo será exibido no contexto dessa conta.  
+
+No exemplo a seguir, o usuário conectado faz parte das três contas realçadas. O usuário pode alternar entre elas clicando em uma conta.
+
+:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="As contas das quais você faz parte":::
 
 ## <a name="organization-profile"></a>Perfil da organização
 
@@ -90,7 +104,7 @@ Essa página contém seus detalhes de pagamento e impostos, incluindo informaç�
 
 ## <a name="user-management"></a>Gerenciamento de usuários
 
-A maneira como você trabalha no Partner Center e as áreas que pode atualizar ou ver dependem da sua função e das permissões anexadas a ela. Por exemplo, se você não for administrador de incentivos, não poderá alterar nada nas páginas de incentivos, mas poderá exibir os dados.
+A maneira como você trabalha no Partner Center e as áreas que pode atualizar ou ver dependem da sua função e das permissões anexadas a ela. Por exemplo, se você não for administrador de incentivos, não poderá alterar nada nas páginas de incentivos, mas poderá exibir os dados. Saiba mais sobre [funções e permissões](permissions-overview.md)
 
 ### <a name="update-preferred-email"></a>Atualizar o email preferencial
 

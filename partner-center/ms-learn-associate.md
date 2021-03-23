@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9828c791cf1b1ee99eb8a23ec84869472a2c8114
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 515a35584d8c31538b6722a282c53181c7809420
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756582"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022715"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Vincular ou desvincular uma MCID (ID de perfil de Certificação da Microsoft) a uma conta da MPN (Microsoft Partner Network)
 
@@ -33,8 +33,7 @@ Use o procedimento abaixo para obter acesso ao Partner University.
 
 1. Entre no painel [Partner Center](https://partner.microsoft.com/dashboard/).
 2. Selecione o ícone azul de **Meu Perfil** no canto superior direito
-3. No campo **Seu Aprendizado**, selecione **Obter Acesso ao Partner University**.
-Sua conta do Partner University agora estará associada à sua conta de usuário do Partner Center. Suas avaliações serão refletidas no relatório de habilidades do usuário do Partner Center no prazo de até 72 horas. As avaliações recém-aprovadas podem levar de 7 a 10 dias para serem refletidas no relatório.
+3. No campo **Seu Aprendizado**, selecione **Obter Acesso ao Partner University**. Você precisa inserir as credenciais da sua conta do Partner University (não a sua conta do Partner Center) Sua conta do Partner University será associada à sua conta de usuário do Partner Center. Suas avaliações serão refletidas no relatório de habilidades do usuário do Partner Center no prazo de até 72 horas. As avaliações recém-aprovadas podem levar de 7 a 10 dias para serem refletidas no relatório.
 4. Para remover a associação, selecione **Remover acesso**.
 
 ## <a name="associate-a-microsoft-learning-account"></a>Associar uma conta do Microsoft Learning
@@ -48,6 +47,10 @@ Use o procedimento a seguir para associar uma conta do Microsoft Learning.
 >[!NOTE]
 >Se as credenciais da conta do Microsoft Learning forem as mesmas das credenciais da conta do Partner University, selecione **Usar email@address para associar minha conta do Microsoft Learning**.
 
+## <a name="download-skills-report-microsoft-certification-list"></a>Baixar relatório de habilidades (lista de certificação da Microsoft)
+Se você precisar de detalhes, o relatório de habilidades poderá ser acessado e baixado por qualquer Administrador global ou Administrador de parceiros do MPN do Partner Center. Para [saber mais](https://docs.microsoft.com/partner-center/mpn-skills-report#view-skills-report-data).
+
+
 ## <a name="frequently-asked-questions-about-linking-accounts"></a>Perguntas frequentes sobre a vinculação de contas
 
 ### <a name="how-can-a-user-link-their-microsoft-certification-profile-id-mcid-with-the-microsoft-partner-network-mpn-organization-they-work-for"></a>Como um usuário pode vincular sua MCID (ID de perfil de Certificação da Microsoft) à organização da MPN (Microsoft Partner Network) para a qual ele trabalha?
@@ -60,7 +63,7 @@ Entre no Partner Center, navegue até **Meu Perfil** e selecione **Remover acess
 
 ### <a name="the-user-left-company-a-and-now-works-for-company-b-how-can-they-link-their-microsoft-certification-profile-id-mcid-with-company-b"></a>O usuário saiu da empresa A e agora trabalha para a empresa B. Como ele pode vincular a MCID (ID de perfil de Certificação da Microsoft) à empresa B?
 
-O usuário precisa vincular a MCID à empresa B seguindo o procedimento acima. Depois que o usuário vincular a MCID à empresa B, ele será desvinculado automaticamente da empresa A.
+O usuário precisa vincular a respectiva MCID à empresa B seguindo o procedimento acima. Depois que o usuário vincular a MCID à empresa B, ele será desvinculado automaticamente da empresa A.
 
 ### <a name="the-user-left-company-a-and-no-longer-has-access-to-partner-center-they-want-to-unlink-their-mcid-from-company-a-and-are-not-planning-to-link-it-with-another-mpn-organization-at-the-moment"></a>O usuário saiu da empresa A e não tem mais acesso ao Partner Center. Ele deseja desvincular a MCID da empresa A e, no momento, não pretende vinculá-la a outra organização da MPN.
 
