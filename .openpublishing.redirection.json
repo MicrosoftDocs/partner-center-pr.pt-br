@@ -11,6 +11,11 @@
     "redirect_document_id": "FALSE"
   },
   {
+    "source_path": "partner-center/marketplace/preferred-solutions.md",
+    "redirect_url": "/marketplace/appsource-overview#microsoft-preferred-solutions",
+    "redirect_document_id": "FALSE"
+  },
+  {
     "source_path": "partner-center/implement-security-requirements.md",
     "redirect_url": "/partner-center/partner-security-requirements",
     "redirect_document_id": "FALSE"
