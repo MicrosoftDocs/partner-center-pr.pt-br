@@ -9,19 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 40df034e88a1bba7829d6f73e0fb970795a2a0dd
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 38ab5b3ef871aa8a969e8da48e2cb6f4cfebf4c6
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811256"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028325"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Gerenciar sua lista de clientes – Pesquisar, atualizar ou exportar clientes no Partner Center
 
 **Aplica-se a**
 
-- Partner Center
-- Partner Center do Microsoft Cloud for US Government
+- Partner Center para nuvem do Microsoft governamental
 
 Os registros de clientes estão entre seus ativos de informação mais importantes no Partner Center. Você pode pesquisar seu banco de dados de contas de clientes, exportar o banco de dados de clientes inteiro ou exportar um subconjunto para um formato de arquivo de valores separados por vírgula (.csv) compatível com o Excel. Você também pode exportar as informações de assinaturas do cliente para um arquivo .csv.
 
@@ -29,16 +28,16 @@ Os logs de atividades também fornecem dados exportáveis sobre transações e a
 
 ## <a name="search-for-a-customer"></a>Procurar um cliente
 
-1.  No menu do **centro de parceiros** , selecione **clientes**.
-2.  Para procurar um cliente, insira o nome do cliente ou o nome do domínio na caixa de pesquisa.
-3.  Selecione a **seta para baixo** no final da linha de um cliente para ver a ID da Microsoft dele, bem como os links rápidos de assinaturas e serviços associados.
+1. No menu do **centro de parceiros** , selecione **clientes**.
+2. Para procurar um cliente, insira o nome do cliente ou o nome do domínio na caixa de pesquisa.
+3. Selecione a **seta para baixo** no final da linha de um cliente para ver a ID da Microsoft dele, bem como os links rápidos de assinaturas e serviços associados.
 
 ## <a name="update-a-customers-company-name"></a>Atualize o nome da empresa do cliente
 
 No menu do **centro de parceiros** , selecione **clientes**.
-2.  Para procurar um cliente, insira o nome do cliente ou o nome do domínio na caixa de pesquisa.
-3.  Selecione a **seta para baixo** no final da linha de um cliente para ver a ID da Microsoft dele, bem como os links rápidos de assinaturas e serviços associados.
-4.  Nas informações de **Cobrar de** do cliente, atualize o nome da empresa. Quando você salvar o novo valor, ele será refletido na lista de clientes. Isso irá alterar somente o nome da empresa para cobrança e o valor de lista de cliente. Ele não será refletido em nenhum outro lugar.
+2. Para procurar um cliente, insira o nome do cliente ou o nome do domínio na caixa de pesquisa.
+3. Selecione a **seta para baixo** no final da linha de um cliente para ver a ID da Microsoft dele, bem como os links rápidos de assinaturas e serviços associados.
+4. Nas informações de **Cobrar de** do cliente, atualize o nome da empresa. Quando você salvar o novo valor, ele será refletido na lista de clientes. Isso irá alterar somente o nome da empresa para cobrança e o valor de lista de cliente. Ele não será refletido em nenhum outro lugar.
 
 ## <a name="export-your-customer-list"></a>Exportar sua lista de clientes
 
