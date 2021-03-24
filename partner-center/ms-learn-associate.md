@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 515a35584d8c31538b6722a282c53181c7809420
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 32a41ac1695d40cf300b76af96ce824fcd48122d
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022715"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712793"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Vincular ou desvincular uma MCID (ID de perfil de Certificação da Microsoft) a uma conta da MPN (Microsoft Partner Network)
 
@@ -48,7 +48,7 @@ Use o procedimento a seguir para associar uma conta do Microsoft Learning.
 >Se as credenciais da conta do Microsoft Learning forem as mesmas das credenciais da conta do Partner University, selecione **Usar email@address para associar minha conta do Microsoft Learning**.
 
 ## <a name="download-skills-report-microsoft-certification-list"></a>Baixar relatório de habilidades (lista de certificação da Microsoft)
-Se você precisar de detalhes, o relatório de habilidades poderá ser acessado e baixado por qualquer Administrador global ou Administrador de parceiros do MPN do Partner Center. Para [saber mais](https://docs.microsoft.com/partner-center/mpn-skills-report#view-skills-report-data).
+Se você precisar de detalhes, o relatório de habilidades poderá ser acessado e baixado por qualquer Administrador global ou Administrador de parceiros do MPN do Partner Center. Para [saber mais](./mpn-skills-report.md#view-skills-report-data).
 
 
 ## <a name="frequently-asked-questions-about-linking-accounts"></a>Perguntas frequentes sobre a vinculação de contas

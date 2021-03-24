@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 02/25/2021
-ms.openlocfilehash: 43614ebde27b6b0df0878bd7041163f1b7ca8882
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: c4ea0af46aa2dee02e2270e1f2d58eeff0f59ff4
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124781"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712470"
 ---
 # <a name="february-2021-announcements"></a>Comunicados de fevereiro de 2021
 
@@ -77,7 +77,7 @@ Confira o artigo mencionado na próxima seção para obter detalhes completos.
 
 ### <a name="next-steps"></a>Próximas etapas
 
-Saiba mais sobre a capacidade de operações em massa lendo [Operações em massa para oportunidades de venda conjunta usando arquivos CSV (valores separados por vírgula)](https://docs.microsoft.com/partner-center/bulk-operations).
+Saiba mais sobre a capacidade de operações em massa lendo [Operações em massa para oportunidades de venda conjunta usando arquivos CSV (valores separados por vírgula)](../bulk-operations.md).
 
 ### <a name="questions"></a>Perguntas?
 
@@ -107,7 +107,7 @@ Confira o artigo mencionado na próxima seção para obter detalhes completos.
 
 ### <a name="next-steps"></a>Próximas etapas
 
-Saiba mais sobre o recurso de migração de acordos examinando a seção **Migração de acordos do PSC** no [Guia para a fazer venda conjunta no PC (Partner Center) para parceiros que estão fazendo a migração do PSC (Partner Sales Connect)](https://docs.microsoft.com/partner-center/psc-to-pc).
+Saiba mais sobre o recurso de migração de acordos examinando a seção **Migração de acordos do PSC** no [Guia para a fazer venda conjunta no PC (Partner Center) para parceiros que estão fazendo a migração do PSC (Partner Sales Connect)](../psc-to-pc.md).
 
 ### <a name="questions"></a>Perguntas?
 
@@ -139,7 +139,7 @@ Confira o artigo mencionado na próxima seção para obter detalhes completos.
 
 ### <a name="next-steps"></a>Próximas etapas
 
-Saiba mais exibindo nosso guia de [gerenciamento de oportunidades de venda conjunta no Partner Center](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities).
+Saiba mais exibindo nosso guia de [gerenciamento de oportunidades de venda conjunta no Partner Center](../manage-co-sell-opportunities.md).
 
 ### <a name="questions"></a>Perguntas?
 
@@ -155,7 +155,7 @@ ________________
 
 ### <a name="impacted-audience"></a>Público-alvo afetado
 
-Provedores indiretos e parceiros de cobrança direta do CSP que têm clientes novos ou existentes nos países listados na próxima seção.
+Provedores indiretos e parceiros de cobrança direta do CSP que têm clientes novos ou existentes nos países/regiões listados na próxima seção.
 
 ### <a name="summary"></a>Resumo
 

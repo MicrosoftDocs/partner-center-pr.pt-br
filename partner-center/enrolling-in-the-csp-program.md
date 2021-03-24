@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1753649f375c66027ecc6cd427a7506913d55e8d
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: 9c1296c0e28412bfece328be2d8033c2d080bfdc
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322076"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712266"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscrever-se no programa Provedor de Soluções na Nuvem
 
@@ -68,7 +68,7 @@ Como um parceiro de cobrança direta, você tem a relação de ponta a ponta com
 
 ### <a name="minimum-requirements"></a>Requisitos mínimos
 
-|**Requisito**|                             |
+|**Requisito**|  **Descrição**  |
 |--------------------------------|--------------------------------------------------------------|
 |**ID do MPN**   |Uma associação ativa no Microsoft Partner Network e a ID do MPN para o local onde deseja vender.    |
 |**Endosso**   |A autoridade de aceitar e assinar contratos legais em nome de sua organização.|

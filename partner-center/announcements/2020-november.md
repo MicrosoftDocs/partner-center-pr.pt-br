@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 08eb760769f86f6568703590b28142c1581583a8
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756408"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712521"
 ---
 # <a name="november-2020-announcements"></a>Comunicados de novembro de 2020
 
@@ -305,11 +305,11 @@ O Partner Center foi criado para lidar com um alto volume de solicitações, mas
 
 ### <a name="apis-to-be-throttled"></a>APIs a serem limitadas
 
-|**Operação**|**Documentação do Partner Center**|
+| **Operação** | **Documentação do Partner Center** |
 |-------------------------|----------------------------------|
 |{baseURL}/v1/customers/{ID_do_cliente}/subscriptions|[Obter as assinaturas de um cliente](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{ID_do_cliente}/subscriptions/{ID_da_assinatura}|[Obter uma assinatura por ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/customers/{ID_do_cliente}/orders||[Obter todos os pedidos de um cliente](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{ID_do_cliente}/orders|[Obter todos os pedidos de um cliente](/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/customers/{ID_do_cliente}/orders/{ID_do_pedido}|[Obter uma ordem por ID](/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/customers/{ID_do_cliente}/orders/{ID_do_pedido}/provisioningstatus|[Obter o status de provisionamento da assinatura](/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/customers/{ID_do_cliente}/subscriptions/{ID_da_assinatura}|[Gerenciar pedidos e uma assinatura](/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -318,7 +318,7 @@ O Partner Center foi criado para lidar com um alto volume de solicitações, mas
 |{baseURL}/v1/customers/{ID_do_cliente}/subscriptions/{ID_da_assinatura}/registrationstatus|[Obter o status de registro de assinatura](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/customers/{ID-do-locatário-do-cliente}/transfers|[Obter todas as transferências de um cliente](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/productUpgrades/{ID-da-atualização}/status|[Obter o status de atualização do produto](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/customers/{ID-do-cliente}/subscriptions/{ID-da-assinatura}/conversions|[Obter uma lista de ofertas de conversão de avaliação](/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/customers/{ID-do-cliente}/subscriptions/{ID-da-assinatura}/conversions|[Obter uma lista de ofertas de conversão de avaliação](/partner-center/develop/get-all-of-a-customer-s-transfers) |
   
 
 O objetivo deste comunicado é fazer os parceiros conhecerem antecipadamente as alterações futuras, permitindo, assim, que eles se preparem. É altamente recomendável que os parceiros se familiarizem com essas APIs e considerem o uso da API do log de atividades para ter mais eficiência e evitar a limitação. Para obter mais informações sobre esse recurso, veja os detalhes em [Diretrizes de limitação de API](/partner-center/develop/api-throttling-guidance). 
