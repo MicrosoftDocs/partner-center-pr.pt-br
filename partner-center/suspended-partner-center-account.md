@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d362e78cccf1372760a38f849b0a29a0a31c1ac
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 194ae71b026b3dc5419ad86d0988249223137462
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365732"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028240"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restaurar uma conta suspensa do Partner Center – saiba por que isso acontece e o que fazer a respeito
 
@@ -22,8 +22,7 @@ Este artigo explica o que fazer caso sua conta no Partner Center seja suspensa.
 
 **Aplica-se a**
 
--  Partner Center
--  Partner Center do Microsoft Cloud for US Government
+- Partner Center para nuvem do Microsoft governamental
 
 **Funções apropriadas**
 
@@ -37,7 +36,7 @@ Este artigo explica o que fazer caso sua conta no Partner Center seja suspensa.
 
 A Microsoft suspenderá uma conta do Partner Center por um dos seguintes motivos:
 
-- Quando o valor de cobrança atual está em atraso há mais de 60 dias 
+- Quando o valor de cobrança atual está em atraso há mais de 60 dias
 - Quando é detectado um abuso significativo da conta
 - Quando os problemas afetam as operações de provedor indireto e afetam negativamente sua conta (somente revendedores indiretos)
 - Quando seu perfil de conta está em um estado de falha ou rejeitado
@@ -48,7 +47,7 @@ Se você souber que sua conta está atualizada, verifique suas configurações d
 
 Se você não tiver certeza se sua conta está atualizada, selecione **cobrança** no menu do **centro de parceiros** para verificar sua fatura. A página de cobrança mostra seu histórico de cobrança e as tendências, o saldo devido do mês atual, links para sua fatura e arquivos de reconciliação, além de seu pagamento mais recente.
 
-Se sua conta estiver vencida, siga as instruções de sua fatura para organizar o pagamento e, em seguida, envie uma solicitação de suporte para solicitar que sua conta seja restaurada. 
+Se sua conta estiver vencida, siga as instruções em sua cobrança para organizar o pagamento e, em seguida, envie uma solicitação de suporte para restabelecer sua conta. 
 
 Para obter assistência adicional na reativação da sua conta, entre em contato com o [suporte](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create).
 
@@ -56,4 +55,4 @@ Para obter assistência adicional na reativação da sua conta, entre em contato
 
 - [Verifique o perfil do parceiro](update-your-partner-profile.md)
 
-- [Verifique as informações da sua conta ao se registrar em um novo programa do Partner Center](verification-responses.md)
+- [Verifique as informações da sua conta ao se inscrever em um novo programa do Partner Center](verification-responses.md)

@@ -9,16 +9,15 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: a59cf0b271a0ccf5fd5a1d8e3e85ff43818a3801
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 756fbfda3438933b50fc51936b396291986472a7
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247715"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028274"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Adicionar serviços compartilhados de parceiros do Azure para que os parceiros possam comprar assinaturas do Azure para seu próprio uso
 
- 
 **Funções apropriadas**
 
 - Administrador global
@@ -59,7 +58,7 @@ Você encontrará o consumo do Azure em sua fatura do CSP e no arquivo de reconc
 
 ## <a name="azure-partner-shared-services-pricing"></a>Preços dos Serviços Compartilhados do Parceiro Azure
 
-Para ver o novo arquivo de preços dos serviços compartilhados do parceiro do Azure, vá para **vender**  >  **preços e ofertas** e selecione a lista de preços do mês atual. Nas próximas semanas, também será lançada uma API de tabela de tarifas específica.
+Para ver o novo arquivo de preços dos serviços compartilhados do parceiro do Azure, acesse **vender**  >  **preços e ofertas** e selecione a lista de preços do mês atual. Nas próximas semanas, também será lançada uma API de tabela de tarifas específica.
 
 ## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Ofertas do Marketplace e serviços compartilhados de parceiros do Azure
 
