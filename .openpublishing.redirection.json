@@ -369,7 +369,18 @@
     "source_path": "partner-center/co-sell-with-microsoft.md",
     "redirect_url": "/partner-center/manage-co-sell-opportunities",
     "redirect_document_id": "TRUE"
+  },
+  {
+    "source_path": "partner-center/confirm-consent.md",
+    "redirect_url": "/partner-center/confirm-customer-agreement",
+    "redirect_document_id": "TRUE"
+  },
+  {
+    "source_path": "partner-center/attest-acceptance-customer-agreement.md",
+    "redirect_url": "/partner-center/confirm-customer-agreement",
+    "redirect_document_id": "False"
   }
+
   
  ]
 }
