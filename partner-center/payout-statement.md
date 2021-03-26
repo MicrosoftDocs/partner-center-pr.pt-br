@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 3/2/2021
-ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.date: 3/22/2021
+ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185342"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549236"
 ---
 # <a name="payout-statements"></a>Demonstrativos de pagamento
 
@@ -160,7 +160,7 @@ Para ver mais detalhes sobre uma conquista, selecione **baixar** na parte superi
 | LicensingProgramName | Nome do programa de licenciamento |  |
 | LineItemId | Linha individual na fatura de um cliente |  |
 | localProviderSeller | Provedor/vendedor local do registro |  |
-| Mês de maturidade | O mês de pagamento estimado | Todos |
+| Mês de maturidade | O mês de pagamento estimado | Tudo |
 | OrderId | Está relacionado à fatura de um cliente  | marketplaces |
 | parentProductId | Identificador exclusivo do produto pai. Se não houver um produto pai na transação, ID do produto pai = ID do produto. | marketplaces |
 | parentProductName | O nome do produto pai. Se não houver um produto pai na transação, Nome do produto pai = Nome do produto. | marketplaces |
@@ -169,11 +169,11 @@ Para ver mais detalhes sobre uma conquista, selecione **baixar** na parte superi
 | participantName | Nome do parceiro de ganho | Todos |
 | partnerCountryCode | Localização/país/região do parceiro de ganho | Todos |
 | partNumber | Está sempre em branco | Alguns programas de incentivo e Marketplaces |
-| paymentId | Identificador exclusivo do pagamento. Esse número é normalmente visível em seu extrato bancário | Somente pagamentos SAP |
+| paymentId | Identificador exclusivo para correlacionar todas as transações no relatório de transações com um pagamento específico no relatório de pagamento | Tudo |
 | paymentStatus | Status de pagamento | Todos |
 | paymentStatusDescription | Descrição amigável do status de pagamento | Todos |
 | productId | Identificador exclusivo do produto | marketplaces |
-| productName | Nome do produto vinculado à transação | Todos |
+| productName | Nome do produto vinculado à transação | Tudo |
 | productType | Tipo de produto, como aplicativo, complemento ou jogo | marketplaces |
 | Código do programa | Cadeia de caracteres para mapear com o nome do programa |  |
 | programName | Nome do programa de incentivo/loja | Todos |
@@ -263,7 +263,7 @@ A tabela a seguir explica os diferentes status de conquista.
 | Fatura de imposto pendente | Sua fatura de imposto está incompleta ou inválida. | Atualize sua fatura de imposto para ser pago |
 | Rejeitado durante a revisão | O pagamento foi rejeitado durante a revisão. | Entre em contato com o Suporte da Microsoft para detalhes |
 | Com falha | O pagamento falhou devido a um erro do sistema da Microsoft. | Contate o suporte da Microsoft para obter detalhes |
-| Em Andamento | O pagamento está em andamento. | Não |
+| Em andamento | O pagamento está em andamento. | Não |
 | Pagamento incorreto | A revitóriação de pagamento está em andamento. | Não |
 | Enviado | O pagamento foi enviado ao seu banco. | Não |
 | Em reprocessamento | O pagamento encontrou um erro de sistema da Microsoft e está sendo reprocessado. | Não |

@@ -9,19 +9,15 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7be44a0f67258989e4a55d6d34a93019712b341b
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: cf3514d394dc49efb967632baa277df94bbfdfbd
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220224"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105548981"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>Redefinir a senha de um usuário no Partner Center
 
-**Aplica-se a**
-
-- Partner Center
- 
 **Funções apropriadas**
 
 - Administrador global
@@ -39,7 +35,7 @@ Se os usuários se esquecerem das senhas deles, atribua a eles uma senha tempor�
 
 3. Escolha **Redefinir senha**, na parte inferior da página.
 
-4. Você verá uma tela de confirmação com uma senha temporária para a nova entrada. Você deve copiar isso e enviá-lo para o novo usuário-ele não estará acessível depois que você sair da tela. Quando eles se conectarem pela primeira vez, ele serão solicitados a atualizar sua senha.
+4. Você verá uma tela de confirmação com uma senha temporária. Copie a senha temporária e envie-a para o novo usuário-a senha temporária não estará acessível depois que você sair da tela. Quando o usuário entrar pela primeira vez, ele será solicitado a atualizar sua senha.
 
 ## <a name="next-steps"></a>Próximas etapas
 

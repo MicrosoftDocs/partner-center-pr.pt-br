@@ -9,23 +9,24 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e680856c0bf1f1ed4e8eb5acea3833255576f5e3
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 33955d85e4b3bd713d15807911067c643d12c912
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582029"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549168"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Ferramenta de diagnóstico e solicitações do portal do Partner Center
 
 **Aplica-se a**
 
-- Partner Center
-- Partner Center do Microsoft Cloud for US Government
+- Partner Center para nuvem do Microsoft governamental
 
 **Funções apropriadas**
 
-Todos os usuários registrados no Partner Center podem criar solicitações de suporte de parceiro. Os usuários só podem exibir as solicitações de suporte que foram enviadas após o logon no Partner Center.
+- Todos os parceiros interessados no Partner Center
+
+Todos os usuários registrados no Partner Center podem criar uma solicitação de suporte de parceiro. Os usuários só podem exibir as solicitações de suporte que foram enviadas após o logon no Partner Center.
 Contate o suporte do Partner Center se você encontrar problemas ou precisar de ajuda com erros do portal do Partner Center. Envie diagnóstico para permitir que o problema seja corrigido mais rapidamente.
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Relatar um problema com o Partner Center
@@ -77,7 +78,7 @@ Se ocorrer um erro enquanto você estiver em uma página do Partner Center, voc�
 
 Você pode visualizar as informações de diagnóstico e salvá-las em um arquivo que você pode anexar em sua solicitação de suporte. Para nos enviar as informações:
 
-3. Examine as informações do arquivo antes de enviá-las porque elas podem conter dados pessoalmente identificáveis que talvez você queira remover.
+3. Examine as informações no arquivo antes de enviá-lo, pois ele pode conter dados pessoais que talvez você queira remover.
 
     >[!NOTE]
     >Em alguns navegadores, a seção **Modo de Exibição de Página** na parte inferior da página **Visualização** pode aparecer vazia. Isso está correto.
