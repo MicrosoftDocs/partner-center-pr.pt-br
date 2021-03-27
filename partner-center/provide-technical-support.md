@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e7488720bf0028dcccd86ee51b18d2a42b753e76
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 2750e7ce06b04042c9f8953f65202a3c4ce718d0
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215825"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633838"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Fornecer suporte técnico para ajudar os clientes a configurar, gerenciar e usar suas assinaturas
 
@@ -22,7 +22,7 @@ ms.locfileid: "98215825"
 **Funções apropriadas**
 
 - Administrador global
-- Administrador de usuários
+- Administrador de gerenciamento de usuário
 - Agente de suporte técnico
 - Agente administrativo
 
@@ -45,9 +45,9 @@ No Partner Center, você pode:
 
 Os parceiros que estejam fazendo transações no modelo CSP são os consultores confiáveis dos clientes e possuem uma relação ponta a ponta, incluindo suporte quando o cliente tiver uma dúvida ou um problema. Por meio dos pontos de toque de suporte, os parceiros podem saber mais sobre o cliente e seus negócios para identificar novos serviços e soluções que agreguem valor.
 
-Para atender ao requisito de suporte, o parceiro pode revender o suporte de outra entidade, pode terceirizar toda ou parte de sua estrutura de suporte e/ou pode configurar uma estrutura para fornecer suporte diretamente.  O parceiro pode cobrar por todo ou parte do suporte fornecido aos clientes. O parceiro deve expor para seus clientes o suporte que será fornecido, as horas de atendimento e o método de contato, bem como o preço (se estiver cobrando pelo suporte). 
+Para atender ao requisito de suporte, o parceiro pode revender o suporte de outra entidade, pode terceirizar toda ou parte de sua estrutura de suporte e/ou pode configurar uma estrutura para fornecer suporte diretamente.  O parceiro pode cobrar por todo ou parte do suporte fornecido aos clientes. O parceiro deve articular seus clientes o suporte que eles fornecerão, as horas de serviço e o método de contato e o preço (se cobrar por suporte). 
 
-Os parceiros são obrigados a receber solicitações de suporte recebidas de clientes, diagnosticar problemas para o melhor da capacidade do parceiro e, em seguida, resolver problemas que estão dentro do escopo dos limites de suporte de linha de base. Se o parceiro for incapaz de resolver um problema, poderá encaminhá-lo à Microsoft por meio dos seguintes veículos de suporte:
+Os parceiros devem receber solicitações de suporte recebidas de clientes, diagnosticar problemas para o melhor da capacidade do parceiro e, em seguida, resolver problemas que estão dentro do escopo dos limites de suporte de linha de base. Se o parceiro for incapaz de resolver um problema, poderá encaminhá-lo à Microsoft por meio dos seguintes veículos de suporte:
 
 - O suporte a problemas **comerciais** está disponível para todos os parceiros do programa CSP
 

@@ -10,25 +10,27 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 754b3310918df9b38129cf1374ae3731d9d8062e
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: ad0c2f3ee7d130c49dea6ba354e6794e29fd9e9f
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215842"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633685"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instale e visualize o aplicativo de análise do Partner Center para Microsoft Power BI
 
 
 **Funções apropriadas**
--   Administrador global
--   Administrador de usuários
--   Agente de vendas
--   Agente administrativo
+
+- Administrador global
+- Administrador de gerenciamento de usuário
+- Agente de vendas
+- Agente administrativo
 
 ## <a name="before-you-begin"></a>Antes de começar
 
 Selecione o aplicativo que é mais relevante para seu negócio na seguinte lista de aplicativos de Power BI disponíveis:
+
 - [Provedor direto](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
 - [Provedor indireto](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
@@ -49,25 +51,25 @@ Antes de instalar a versão de visualização do aplicativo análises do Partner
 
 ## <a name="to-install-the-app"></a>Para instalar o aplicativo
 
-1. Clique no link de origem do aplicativo fornecido (provedor direto/provedor indireto/revendedor indireto) na seção acima.
+1. Selecione o link de origem do aplicativo fornecido (provedor direto/provedor indireto/revendedor indireto) na seção acima.
 
-2. Clique em **obter agora**. 
+2. Selecione **OBTENHA AGORA**. 
 
-3. Concorde com os termos e condições clicando em **continuar**.
+3. Concorde com os termos e condições selecionando **continuar**.
 
 4. Em Já tem uma conta?, selecione **Conecte-se**.
 
-5. Na próxima página, digite seu nome de usuário e senha do Partner Power BI e, em seguida, selecione Conecte-se.
+5. Na próxima página, digite seu nome de usuário e senha do Partner Power BI e, em seguida, selecione **Conecte-se**.
 
 6. Instale o espaço de trabalho fornecendo o nome do espaço de trabalho.
 
 7. Você pode encontrar os aplicativos de modelo instalados na seção aplicativos.
 
-8. Clique em aplicativos e escolha os aplicativos instalados.
+8. Selecione **aplicativos** e escolha os aplicativos instalados.
 
 9. Introdução à nova tela do aplicativo é aberta.
 
-10. Para se conectar aos dados, clique em **conectar**.
+10. Para se conectar aos dados, selecione **conectar**.
 
 11. Na janela pop-up **conectar ao Partner Center Analytics** , verifique se o **método de autenticação** está definido como **oAuth2** ou selecione **oAuth2** na lista, se não for. 
 
