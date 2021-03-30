@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: aefd5258c778fd8a7b92bfe49f245bf818497fb8
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633889"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730064"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Saiba como ler os itens de linha em seus arquivos de reconciliação do Partner Center
 
@@ -76,6 +76,15 @@ Se você for capaz de baixar um arquivo de reconciliação, mas não abri-lo no 
 4. Quando solicitado, abra o arquivo reconhecimento. Seus dados serão exibidos.
 5. No menu suspenso **carregar** , selecione **carregar para** e, em seguida, **OK**.
 6. Na caixa de diálogo **importar dados** , selecione **relatório de tabela dinâmica** para abrir o arquivo.
+
+## <a name="negative-amount-displayed"></a>Valor negativo exibido
+
+Você pode ver um valor negativo em seu arquivo de reconciliação. Isso provavelmente é causado por um dos seguintes itens:
+
+- Você cancelou recentemente ou reduziu seu número de licenças
+- Você recebeu crédito para um SLA (contrato de licença de serviço) ou para o consumo do Azure
+
+Para obter mais informações sobre essa transação, examine seu atributo de tipo de encargo em seu arquivo de reconciliação.
 
 ## <a name="map-taxes-or-vat"></a>Impostos do mapa ou IVA
 

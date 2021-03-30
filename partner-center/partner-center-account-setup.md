@@ -1,7 +1,7 @@
 ---
 title: Gerenciar sua conta do Partner Center
 ms.topic: conceptual
-ms.date: 03/15/2021
+ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como usar o Partner Center para gerenciar as informações bancárias, fiscais e de perfil da sua empresa, além de funções, permissões e muito mais.
@@ -9,19 +9,19 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
-ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
+ms.openlocfilehash: 514c8d1e1c94c0a500384502ad57bad977dcc368
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103486983"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712827"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gerenciar sua conta do Partner Center – perfis da empresa, informações bancárias, funções, permissões e muito mais
 
 **Funções apropriadas** – administrador global
 - Administrador de conta do MPN
 
-A conta que você cria no Partner Center ao se inscrever é seu email de trabalho mais suas informações comerciais. Após a criação de uma conta, você concluirá a configuração do perfil completo da empresa, incluindo detalhes de suporte, isenções fiscais (se apropriado) e informações do contato principal. A conta da sua empresa também incluirá contas de usuário para qualquer pessoa que usar o Partner Center para adicionar ou gerenciar clientes, vender assinaturas, trabalhar com cobrança e faturamento, criar perfis comerciais, gerenciar indicações, trabalhar com programas de incentivos e fornecer suporte.
+A conta que você cria no Partner Center ao se inscrever é seu email de trabalho mais suas informações comerciais. Após a criação de uma conta, você concluirá a configuração do perfil completo da empresa, incluindo detalhes de suporte, isenções fiscais (se apropriado) e informações do contato principal. A conta da sua empresa também incluirá contas de usuário para qualquer membro da sua equipe que precise usar o Partner Center. O trabalho que eles podem fazer inclui adicionar ou gerenciar clientes, vender assinaturas, trabalhar com cobrança e faturamento, criar perfis de negócios, gerenciar indicações, trabalhar com os programas de incentivos, fornecer suporte e muito mais.
 
 Confira também os artigos [Convidar funcionários para participar do Partner Center](guide-to-migration.md) e [Adicionar um novo usuário](create-user-accounts-and-set-permissions.md).
 
@@ -30,7 +30,7 @@ Confira também os artigos [Convidar funcionários para participar do Partner Ce
 
 ## <a name="account-management"></a>Gerenciamento de contas
 
-Para acessar o Gerenciamento de conta no Partner Center para todos os parceiros, comerciais e desenvolvedores, entre no [Painel do Partner Center](https://partner.microsoft.com/dashboard) e selecione **Configurações** (ícone de engrenagem) no canto superior direito da tela e **Configurações da conta**. Você não precisa mais escolher entre as configurações de Parceiro e Desenvolvedor, pois todos os perfis e configurações agora estão combinados.
+Todos os parceiros comerciais e desenvolvedores acessam o **Gerenciamento de conta** no Partner entrando no [painel](https://partner.microsoft.com/dashboard) do Partner Center e selecionando **Configurações** (ícone de engrenagem), no canto superior direito da tela, depois **Configurações de conta**. Você não precisa mais escolher entre as configurações de Parceiro e de Desenvolvedor. Todos os perfis e as configurações agora estão combinados.
 
 :::image type="content" source="images/accountsettings/opening.png" alt-text="Ícone de configurações":::
 
@@ -56,7 +56,7 @@ Se a sua empresa não participar do CSP, a exibição padrão mostrará apenas a
 
 Você pode fazer parte de mais de uma conta. Você pode verificar se faz parte de várias contas pela presença do "seletor de conta" no menu de navegação esquerdo.
 
-:::image type="content" source="images/accountsettings/account-picker.png" alt-text="Identificar o seletor de conta":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identificar o seletor de conta":::
 
 Se você não vê o seletor de conta, você faz parte de apenas uma conta. 
 
@@ -64,7 +64,7 @@ Quando você clica nesse seletor, todas as contas das quais você faz parte são
 
 No exemplo a seguir, o usuário conectado faz parte das três contas realçadas. O usuário pode alternar entre elas clicando em uma conta.
 
-:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="As contas das quais você faz parte":::
+:::image type="content" source="images/accountsettings/picker-two.png" alt-text="As contas das quais você faz parte":::
 
 ## <a name="organization-profile"></a>Perfil da organização
 
@@ -74,11 +74,17 @@ Use essas páginas para gerenciar áreas detalhadas da sua empresa, incluindo o 
 
 ### <a name="legal-info"></a>Informações jurídicas
 
-Quando você ingressa pela primeira vez no Partner Center, a empresa passa por um processo de verificação junto à Microsoft. Acompanhe o status de verificação na página **Informações jurídicas**. Ela mostra o contato principal (pessoa que a Microsoft buscará para sanar dúvidas sobre parceiros) e o contato jurídico principal (pessoa que gerencia as informações e o status jurídico). Todos os locais comerciais da sua empresa são listados e podem ser adicionados aqui.
+Quando você ingressa pela primeira vez no Partner Center, a empresa passa por um processo de verificação junto à Microsoft. Acompanhe o status de verificação na página **Informações jurídicas**. Ela mostra o contato principal (pessoa que a Microsoft buscará para sanar dúvidas sobre parceiros) e o contato jurídico principal (pessoa que gerencia as informações e o status jurídico). Todos os locais comerciais da sua empresa são listados e podem ser adicionados aqui. 
+
+### <a name="provide-your-companys-legal-business-details"></a>Fornecer os detalhes comerciais jurídicos da sua empresa
+
+Você pode pesquisar o perfil da empresa ou inserir as informações da empresa manualmente. Se a empresa estiver registrada no [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), use a ID DUNS para pesquisar as informações dela. Se você quiser fornecer os detalhes da empresa, selecione **Manual**.
+
+Se a sua empresa estiver localizada na **Armênia**, na **Hungria**, no **Quirguistão**, em **Moldávia**, no **Uzbequistão** ou na **Rússia** e você inserir o endereço manualmente, validaremos o seu endereço para você. Se o que você inserir, for diferente do validado, sugerimos que você use o endereço validado. A verificação confirma se o endereço está correto e se pode ser usado como o destino de remessas.
 
 ### <a name="primary-contact-email"></a>Email de contato principal
 
-Nós usaremos o email de contato principal para notificar você sobre a verificação de sua conta. É muito importante que o email fornecido para o contato principal seja gerenciado e observado regularmente.  
+Nós usaremos o email de contato principal para notificar você sobre a verificação da sua conta. É muito importante que o email fornecido como contato principal seja aquele que você checa e gerencia com frequência.  
 
 Saiba mais sobre [Verificação e informações de conta](verification-responses.md).
 

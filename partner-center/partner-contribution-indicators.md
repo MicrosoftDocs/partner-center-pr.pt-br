@@ -1,7 +1,7 @@
 ---
 title: Indicadores de contribuição do parceiro – CBA
 ms.topic: article
-ms.date: 03/11/2021
+ms.date: 03/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre sete indicadores de contribuição de parceiros (PCI) que mostram aos parceiros como obter uma competência de Business Applications de nuvem prata ou ouro.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.openlocfilehash: 8c050a14e258675369d8ff847c806192f44c7509
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193640"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730256"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Use indicadores de contribuição de parceiro para obter a competência de Business Applications de nuvem
 
@@ -25,6 +25,8 @@ ms.locfileid: "103193640"
 - Administrador de conta
 
 Este artigo descreve sete principais indicadores de contribuição de parceiro (PCI) usados para avaliar o progresso de um parceiro em relação à obtenção ou retenção de uma nuvem Silver ou ouro Business Applications competência.
+
+Você pode ver seu progresso de PCI no painel de contribuição do parceiro. Os dados são atualizados no dia 20 de cada mês, com dados do mês anterior. Por exemplo, os dados de fevereiro serão publicados em 20 de março.
 
 > [!NOTE]
 > Saiba como os parceiros podem usar um conjunto diferente de métricas do indicador de contribuição do parceiro para obter a competência de soluções de nuvem de médio e ouro, com a opção de SMB de Business Applications de nuvem. Para obter mais informações, consulte [usar indicadores de contribuição de parceiro para a competência de soluções de nuvem de pequeno e médio porte](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md). Você também pode [ler mais](https://partner.microsoft.com/membership/competencies) sobre as competências e seus requisitos.
@@ -109,6 +111,20 @@ A imagem a seguir oferece uma referência visual rápida.
 
 Cada métrica de PCI tem limites definidos pela Microsoft que podem fazer com que sua empresa ganhe o máximo possível de pontos. Esses limites são diferentes para o envolvimento do cliente e os caminhos de operações e Finanças usados para obter a competência de Business Applications de nuvem. Os limites também são diferentes para os parceiros que operam em mercados desenvolvidos em relação aos parceiros operando exclusivamente no desenvolvimento de mercados. A categorização de mercado **desenvolvida** ou **desenvolvendo** de um país baseia-se nas [definições de Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
+Observe que 4 métricas são medidas com base no local em que o parceiro faz negócios, e não onde o local MPN está registrado. Isso significa que um parceiro registrado em um mercado de desenvolvimento, que tem clientes de um mercado desenvolvido, precisará atender à pontuação de PCI para países desenvolvidos.
+
+A tabela a seguir mostra qual local se aplica por métrica.
+
+| Nome da métrica | Location |
+|:-------|:--------|
+| Nova receita líquida | Localização do cliente |
+| Adição de cliente net | Localização do cliente |
+| Consultor funcional | Localização do parceiro |
+| Desenvolvedor | Localização do parceiro |
+| Crescimento de consultores funcionais | Localização do parceiro |
+| Crescimento de MAU | Localização do cliente |
+| Novas implantações grandes | Localização do cliente |
+
 Os pontos em cada métrica são contratados para produzir uma pontuação de PCI distinta para o envolvimento do cliente e Finanças e operações. Essa pontuação será atualizada mensalmente.
 
 Os parceiros podem obter o máximo de pontos para uma determinada métrica se atingirem ou excederem os limites indicados abaixo. Os pontos parciais podem ser obtidos para todas as métricas, exceto para o crescimento funcional do consultor.
@@ -160,7 +176,7 @@ Um parceiro se tornará o CPOR se tiver estabelecido a associação com um clien
 Um parceiro se tornará o DPOR se tiver estabelecido uma associação com um cliente no nível de assinatura no produto.
 
 > [!NOTE]
-> Quando CPOR e DPOR existirem para uma determinada assinatura de cliente, o CPOR receberá crédito pelas métricas de PCI relevantes associadas a essa assinatura. Se a associação foi por meio do OSA, o CPOR receberá o crédito das novas receitas líquidas e do NET Customer. Se a associação foi via OSU, o CPOR recebe o crédito para novas implantações e o crescimento mensal ativo do usuário.
+> Quando CPOR e DPOR existirem para uma determinada assinatura de cliente, o CPOR receberá crédito pelas métricas de PCI relevantes associadas a essa assinatura. Se a associação tiver sido via OSA (declaração de receita), o CPOR receberá o crédito para a nova receita líquida e o net Customer Adds. Se a associação tiver sido via OSU (declaração de uso), o CPOR receberá o crédito de novas implantações e o crescimento mensal do usuário ativo. As declarações de pré-vendas não estão qualificadas para o PCI.
 
 ## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>Definições detalhadas de métricas de PCI para esta competência
 
@@ -324,9 +340,10 @@ Novas implantações grandes são um [indicador de sucesso do cliente](partner-c
   
   (Para obter detalhes sobre os mercados desenvolvidos versus desenvolver, consulte essas [definições de Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).)
 
-- Um locatário é considerado como tendo ultrapassado o limite de usuários ativos mensais se o locatário era: 
+- Um locatário é considerado como tendo ultrapassado o limite de usuários ativos mensais se o locatário era:
 
-  - Abaixo do limite especificado há 12 meses *e*
+  - Abaixo do limite especificado há 12 meses **e**
+
   - Ultrapassou esse limite pelo menos uma vez nos próximos 11 meses.
 
 - Os usuários ativos mensais são contados no nível do locatário e somados somente pelas assinaturas pagas no locatário.

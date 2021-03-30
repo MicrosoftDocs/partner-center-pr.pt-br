@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: d93a94ce1171770d76617a9ec8bed9a1dd96d287
-ms.sourcegitcommit: 1aeabd40513f06809cb111131b4e6bc188975ce6
+ms.openlocfilehash: 236cee00ec6a28468361c4893f7888882a17f5e4
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99065464"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880779"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Aprenda como fazer parcerias com provedores indiretos no programa CSP (Provedor de Soluções na Nuvem)
 
@@ -142,6 +142,10 @@ O local de negócios legal como um revendedor indireto do CSP determina os prove
 
 ## <a name="next-steps"></a>Próximas etapas
 
+- [Como os provedores indiretos podem ajudar seus revendedores a adotar o Contrato de Parceiro da Microsoft – Perguntas Frequentes](mpa-indirect-provider-faq.md)
+
+- [Contrato de Parceiro da Microsoft](microsoft-partner-agreement.md)
+
 - [O processo de verificação de conta](verification-responses.md)
 
 - [Gerenciar sua conta do Partner Center](partner-center-account-setup.md)
@@ -153,4 +157,4 @@ O local de negócios legal como um revendedor indireto do CSP determina os prove
 - [Saber mais sobre o processo de verificação](verification-responses.md)
 
 - [Conferir os requisitos para parceiros de cobrança direta](direct-partner-new-requirements.md)
-- [Contrato de Parceiro da Microsoft](microsoft-partner-agreement.md)
+
