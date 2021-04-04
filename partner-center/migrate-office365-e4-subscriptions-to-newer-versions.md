@@ -9,24 +9,21 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bbd2aceac62a7e726ed81a78305ea23213c94156
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 8a9662e0ce99fc054149dfbd4149532ce336eff6
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949047"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132614"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrar inscrições do Office 365 E4 para versões do Office 365 mais recentes
 
-**Aplica-se a**
-
--  Partner Center
-
 **Funções apropriadas**
--   Administrador global
--   Administrador de usuários
--   Agente administrativo
--   Agente de vendas
+
+- Administrador global
+- Administrador de gerenciamento de usuário
+- Agente administrativo
+- Agente de vendas
 
 O plano do Office 365 Enterprise E4 está desativado desde 7 de abril de 2017. Você não pode comprar novas assinaturas do Office 365 E4 após essa data, e assinaturas E4 existentes não serão renovadas automaticamente quando expirarem.
 
@@ -87,7 +84,7 @@ Siga estas etapas para migrar a assinatura do Office 365 Enterprise E4 de client
 
 1. No menu do **centro de parceiros** , selecione **clientes**, selecione o cliente que você deseja mover e, em seguida, selecione **usuários e licenças**. A página usuários e licenças do cliente é aberta.
 
-2. Para reatribuir licenças de usuário, selecione o usuário a ser reatribuído e selecione **Gerenciar licenças**.
+2. Para reatribuir licenças de usuário, selecione o usuário a ser reatribuído e, em seguida, selecione **gerenciar licenças**.
 
 3. Na página **Gerenciar licenças**, desmarque a caixa de seleção da licença do **Office 365 Enterprise E4** e selecione um novo plano de serviço para onde o cliente está movendo a assinatura.
 
@@ -109,7 +106,7 @@ A assinatura antiga será suspensa e a nova assinatura será ativada. A assinatu
 
 
 
- 
+ 
 
 
 

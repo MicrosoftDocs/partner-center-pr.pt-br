@@ -9,24 +9,23 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 728a1b7ec4d6b51174f1d3f6fcf21a6385fc4e7a
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: c2f8e4d3351c9905d7066534946b24bd9a8c8cd4
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322110"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132257"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Suporte a vários parceiros para clientes que desejam trabalhar com mais de um parceiro
 
 **Aplica-se a**
 
-- Partner Center
-- Partner Center do Microsoft Cloud for US Government
+- Partner Center para nuvem do Microsoft governamental
 
 **Funções apropriadas**
 
 - Administrador global
-- Administrador de usuários
+- Administrador de gerenciamento de usuário
 - Agente de vendas
 
 O recurso de vários parceiros do Partner Center dá suporte a cenários quando um cliente deseja trabalhar com mais de um parceiro. Por exemplo, um cliente pode querer contratar um parceiro por sua experiência em Office 365, mas contratar um parceiro diferente com especialização em Microsoft Azure.
@@ -46,4 +45,4 @@ A funcionalidade de vários parceiros não:
 - Mudar o parceiro de registro para uma inscrição
 
 > [!IMPORTANT]  
-> Um parceiro no programa CSP não pode revender serviços online para outro parceiro que esteja no programa CSP atualmente. Essa restrição se aplica somente ao locatário usado para a realização de transações CSP. Os parceiros CSP que usam um locatário não CSP para seu uso corporativo podem comprar serviços online de outro parceiro CSP. A Microsoft revisa continuamente as políticas e competências de todos os programas. Quaisquer novidades sobre os lançamentos de recursos serão anunciadas por meio dos canais de comunicação normais, incluindo os [anúncios do Partner Center](announcements/index.md).
+> Um parceiro no programa CSP não pode revender serviços online para outro parceiro que esteja no programa CSP atualmente. Essa restrição se aplica somente ao locatário usado para a realização de transações CSP. Os parceiros CSP que utilizam um locatário não CSP para uso corporativo podem comprar serviços online de outro parceiro CSP. A Microsoft revisa continuamente as políticas e competências de todos os programas. Quaisquer novidades sobre os lançamentos de recursos serão anunciadas por meio dos canais de comunicação normais, incluindo os [anúncios do Partner Center](announcements/index.md).

@@ -8,16 +8,17 @@ description: Veja o que você está fazendo bem e onde você pode melhorar a res
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 48577571e77bd0181b78e01558a07edd1a3b925d
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: c62e074c7329ada33390b77be13c523660344d49
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146562"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086270"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security relatório de uso disponível no painel do recepções do Partner Center
 
 **Funções apropriadas**
+
 - Administrador global
 - Agente administrativo
 - Visualizador de relatórios
@@ -54,7 +55,7 @@ A seção de resumo apresenta uma exibição de instantâneo dos principais indi
 
 ## <a name="enterprise-mobility--security-usage-by-geography"></a>Uso de Enterprise Mobility + Security por geografia
 
-O **uso de Enterprise Mobility + Security por geografia** ilustra a distribuição de mau (usuários ativos mensais) e pau (unidades pagas disponíveis) por país do cliente. MAU consulte o número de licenças usadas no mês anterior e PAU refere-se ao número de estações pagas vendidas ou gerenciadas durante o período de tempo selecionado. As cores mais claras no mapa representam valores mais baixos, enquanto as cores mais escuras representam valores mais altos. Você pode pesquisar e selecionar um país na grade. Você também pode ampliar para uma análise mais detalhada.
+O **uso de Enterprise Mobility + Security por geografia** ilustra a distribuição de mau (usuários ativos mensais) e pau (unidades pagas disponíveis) por país do cliente. MAU refere-se ao número de licenças usadas no mês anterior e PAU refere-se ao número de estações pagas vendidas ou gerenciadas durante o período de tempo selecionado. As cores mais claras no mapa representam valores mais baixos, enquanto as cores mais escuras representam valores mais altos. Você pode pesquisar e selecionar um país na grade. Você também pode ampliar para uma análise mais detalhada.
 
 O **número de tabelas de países/** regiões apresenta os países/regiões totais nos quais os eventos de uso do Azure são gerados.
 

@@ -9,23 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a51504a5e560f8a8041c448c3e5d9e7f0cfdae07
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 53f4a16ac5d0f33fd534d7fd9a13eaf5a25cf3ea
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999210"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132324"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Fornecer a clientes avaliações gratuitas de 30 dias de produtos da Microsoft
 
-**Aplica-se a**
-
-- Partner Center
-
 **Funções apropriadas**
--   Administrador global 
--   Administrador de usuários
--   Agente de vendas
+
+- Administrador global
+- Administrador de gerenciamento de usuário
+- Agente de vendas
 
 Uma boa maneira de apresentar os clientes a novos produtos da Microsoft é oferecendo avaliações gratuitas de 30 dias. Você pode se inscrever para as avaliações no catálogo da mesma forma que se inscreve em muitos outros serviços online. Todos os parceiros podem participar.
 
@@ -45,7 +42,7 @@ Atualmente, não existem **avaliações gratuitas** para ofertas governamentais,
 
 ## <a name="licenses-for-free-trial-offers"></a>Licenças para ofertas de avaliação gratuita
 
-Todas as avaliações gratuitas fornecem 25 licenças. Não é possível alterar esse número durante a avaliação. Você não pode adicionar ou remover licenças na avaliação gratuita. Depois que a avaliação for convertida em uma assinatura paga, você poderá adicionar licenças adicionais à assinatura.
+Todas as avaliações gratuitas fornecem 25 licenças. Não é possível alterar esse número durante a avaliação. Você não pode adicionar ou remover licenças na avaliação gratuita. Depois que a avaliação for convertida em uma assinatura paga, você poderá adicionar mais licenças à assinatura.
 
 As licenças de avaliação devem ser atribuídas aos usuários da mesma forma que a licença de serviços pagos são atribuídas.
 
@@ -54,12 +51,12 @@ As licenças de avaliação devem ser atribuídas aos usuários da mesma forma q
 Obtenha uma avaliação para seu cliente no Partner Center:
 
 1. Em **vender** no Partner Center, acesse **Catálogo**. 
-2. No catálogo, em **Frequência da cobrança**, clique em **Trial offer**. Isso exibe apenas as avaliações gratuitas e oculta ofertas que não são gratuitas. Avaliações aparecem na guia **Avaliações** no catálogo.
-3. Selecione a avaliação gratuita que você deseja oferecer e, em seguida, selecione **enviar**. Todas as avaliações são por trinta dias, durante as quais você não será cobrado. Você também pode convertê-la para uma assinatura paga a qualquer momento durante a avaliação.
+2. No catálogo, da **frequência de cobrança**, selecione **oferta de avaliação**. Isso exibe apenas as avaliações gratuitas e oculta ofertas que não são gratuitas. Avaliações aparecem na guia **Avaliações** no catálogo.
+3. Selecione a avaliação gratuita que você deseja oferecer e, em seguida, selecione **enviar**. Todas as avaliações são válidas por um período de 30 dias durante o qual você não será cobrado. Você também pode convertê-la para uma assinatura paga a qualquer momento durante a avaliação.
 
 ## <a name="converting-trials-to-paid-subscriptions"></a>Convertendo avaliações em assinaturas pagas
 
-Uma avaliação gratuita não é convertida automaticamente em uma assinatura paga. Após trinta dias, uma avaliação gratuita deverá ser convertida em uma assinatura paga ou ela [expirará](#expiring-offers). As avaliações gratuitas não podem ser estendidas.
+Uma avaliação gratuita não é convertida automaticamente em uma assinatura paga. Após 30 dias, uma avaliação gratuita deverá ser convertida em uma assinatura paga ou ela [expirará](#expiring-offers). As avaliações gratuitas não podem ser estendidas.
 
 Você precisará converter a avaliação em uma assinatura paga por conta própria. Você pode fazer isso [usando o Partner Center](#convert-trials-using-partner-center) ou [por meio das APIs do Partner Center](#convert-trials-using-apis).
 
@@ -73,7 +70,7 @@ Você pode converter Avaliações para assinaturas pagas usando o Partner Center
 1. Acesse a página de assinatura do cliente e selecione a avaliação gratuita.
 2. Selecione **Converter uma assinatura de avaliação em paga**.
 3. Insira a quantidade de licenças desejada e a frequência de cobrança e selecione **Aplicar**.
-4. A cobrança da assinatura paga começa na data de conversão e a assinatura Autorenova doze meses a partir da data de conversão. 
+4. A cobrança da assinatura paga começa na data de conversão e a assinatura é renovada por 12 meses a partir da data de conversão. 
 
 ### <a name="convert-trials-using-apis"></a>Converter avaliações usando APIs
 
@@ -88,7 +85,7 @@ Nem todas as avaliações podem ser convertidas em assinaturas pagas. Os parceir
 
 |**Avaliação**   |**Ofertas de pequenas empresas compatíveis**   |**Ofertas corporativas compatíveis**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Avaliação de nuvem comercial do Microsoft Teams (iniciada pelo usuário)   |Microsoft 365 Business Basic, Microsoft 365 Business Standard, Microsoft 365 Business Premium   | F3 (anteriormente F1), Office 365 para empresas (E1, E3 e E5), M365 F1/F3, M365 Enterprise (E3)   |
+|Avaliação de nuvem comercial do Microsoft Teams (iniciada pelo usuário)   |Microsoft 365 Business Basic, Microsoft 365 Business Standard, Microsoft 365 Business Premium   | F3 (anteriormente F1), Office 365 para empresas (E1, E3 e E5), Microsoft 365 F1/F3, Microsoft 365 Enterprise (E3)   |
 
 >[!NOTE]
 >As ofertas acima têm planos de serviço semelhantes com funcionalidade semelhante, no entanto, pode haver algumas diferenças entre as ofertas.
@@ -107,7 +104,7 @@ A cobrança anual e as avaliações gratuitas são as mesmas em nuvens soberanas
 
 As avaliações gratuitas podem ser usadas para assinaturas mensais e anuais cobradas. Você pode selecionar a frequência de cobrança ao converter a avaliação em uma assinatura paga.
 
-A data de início da assinatura é baseada na data de conversão. Se a avaliação gratuita for convertida em uma oferta paga com cobrança anual, a data de renovação da assinatura será de doze meses a partir da data de conversão. Se a avaliação gratuita for convertida em uma oferta paga com cobrança mensal, a data de renovação da assinatura será 12 meses a partir da data de cobrança após a data de conversão.
+A data de início da assinatura é baseada na data de conversão. Se a avaliação gratuita for convertida em uma oferta paga com cobrança anual, a data de renovação da assinatura será de 12 meses a partir da data de conversão. Se a avaliação gratuita for convertida em uma oferta paga com cobrança mensal, a data de renovação da assinatura será 12 meses a partir da data de cobrança após a data de conversão.
 
 ### <a name="invoices"></a>Faturas
 

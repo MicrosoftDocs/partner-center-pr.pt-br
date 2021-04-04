@@ -9,22 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8df91ec4072b1873a240d42fa2382ebcc00b9bc5
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 019e489b4738515639bf181591dfbc671e1b795d
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220324"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086185"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de assinaturas do produto disponível no painel do recepções do Partner Center
 
 **Funções apropriadas**
+
 - Administrador global
 - Agente administrativo
 - Visualizador de relatórios
 - Visualizador de relatórios executivos
 
-O relatório de assinaturas de produtos apresenta análises sobre assinaturas de nuvem que você vendeu ou que você gerencia para seus clientes. Este é um relatório específico do produto que inclui o desempenho de assinaturas associadas a produtos de nuvem, como o Office 365, o Azure, o Dynamics, etc.
+O relatório de assinaturas de produtos apresenta análises sobre assinaturas de nuvem que você vendeu ou que você gerencia para seus clientes. Este é um relatório específico do produto que inclui o desempenho de assinaturas associadas a produtos de nuvem, como o Office 365, o Azure, o Dynamics e outros.
 
 Você pode exibir as seções a seguir do relatório de assinaturas de produto.
 
@@ -44,7 +45,7 @@ A seção de resumo apresenta uma exibição de instantâneo dos KPIs (indicador
 
 :::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="Resumo do relatório de assinaturas":::
 
-Consulte abaixo para obter mais informações sobre cada seção do resumo.
+Para obter mais informações sobre cada seção do resumo, consulte abaixo:
 
 - Assinaturas:
   - Contagem atual das assinaturas de produtos de nuvem vendidas ou gerenciadas por você.
@@ -82,19 +83,19 @@ Você pode pesquisar e selecionar um país na grade para aplicar zoom ao local n
 
 Essa exibição apresenta uma tendência de assinaturas. Elas são divididas em categorias diferentes (novas, existentes, com rotatividade) para o intervalo de datas selecionado. O eixo X representa os meses do intervalo de datas selecionado. O eixo Y representa a contagem de assinaturas. As assinaturas com rotatividade são representadas na escala negativa do eixo Y. 
 
-O gráfico de colunas empilhadas apresenta uma divisão de assinaturas novas, existentes e com rotatividade para o mês. Você pode recriar o gráfico de colunas, dividido com itens de pilha específicos. Para fazer isso, selecione os itens específicos na legenda. Você também pode aproveitar o controle deslizante na parte superior do gráfico para aplicar zoom em um período específico.
+O gráfico de colunas empilhadas apresenta uma divisão de assinaturas novas, existentes e com rotatividade para o mês. Você pode recriar o gráfico de colunas, dividido com itens de pilha específicos. Para fazer isso, selecione os itens específicos na legenda. Você também pode usar o controle deslizante na parte superior do gráfico para aplicar zoom em um período específico.
 
 :::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="acréscimos e variações de assinatura":::
 
 ## <a name="subscription-distribution"></a>Distribuição de assinatura
 
-Essa exibição apresenta uma divisão de suas assinaturas atuais por seus locais MPNs, segmentos de clientes, modelo de preços do Azure/canal de vendas e o tipo de atribuição (por exemplo, DPOR, DAP, etc.). Clique nas respectivas guias para exibir a divisão por essas categorias. Para criar o gráfico de pizza com uma divisão de categorias de item específicas, selecione as categorias de item na legenda.
+Essa exibição apresenta uma análise de suas assinaturas atuais por seus locais MPNs, segmentos de clientes, modelo de preços do Azure/canal de vendas e o tipo de atribuição (por exemplo, DPOR, DAP e outros). Selecione as respectivas guias para exibir a divisão por essas categorias. Para criar o gráfico de pizza com uma divisão de categorias de item específicas, selecione as categorias de item na legenda.
 
 :::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="distribuição de assinatura":::
 
 ## <a name="subscription-state-distribution"></a>Distribuição de estado de assinatura
 
-Esta exibição mostra a distribuição de suas assinaturas de cliente atuais por estado de assinatura ou status. Isso inclui os seguintes Estados de assinatura: **ativo**, **desabilitado**, **desprovisionado**, **aberto**, **InGracePeriod**, **fechado**e **outros**.
+Esta exibição mostra a distribuição de suas assinaturas de cliente atuais por estado de assinatura ou status. Isso inclui os seguintes Estados de assinatura: **ativo**, **desabilitado**, **desprovisionado**, **aberto**, **InGracePeriod**, **fechado** e **outros**.
 
 :::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="distribuição de estado de assinatura":::
 

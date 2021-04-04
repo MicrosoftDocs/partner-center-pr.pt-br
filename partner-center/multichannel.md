@@ -9,24 +9,23 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f743834578b4a4b40453704a9ca1ef5adf4bc82
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 925532881b6f28b2e7a9d06372a92eed95716d48
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390643"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132716"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Suporte a vários canais-usando outros parceiros para dar suporte a assinaturas de clientes adquiridas em outro lugar
 
 **Aplica-se a**
 
-- Partner Center
-- Partner Center do Microsoft Cloud for US Government
+- Partner Center para nuvem do Microsoft governamental
 
 **Funções apropriadas**
 
 - Administrador global
-- Administrador de usuários
+- Administrador de gerenciamento de usuário
 - Agente de vendas
 
 O recurso de vários canais do Partner Center dá suporte a cenários quando um cliente deseja contratar um parceiro para gerenciar e dar suporte a uma assinatura comprada em outro lugar. O suporte multi-canal se aplica quando o cliente:

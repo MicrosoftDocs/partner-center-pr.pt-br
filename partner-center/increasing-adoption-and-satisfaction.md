@@ -9,24 +9,19 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 494c9d7ff8e726e8bd183456926761c3cebf10ee
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 7a42381e6c7f3b33acae887f78fb87b5d309279e
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691360"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178928"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Use as métricas no Partner Center para aumentar a adoção e a satisfação
-
-**Aplica-se a**
-
-- Partner Center
-- Programa Provedor de Soluções na Nuvem
 
 **Funções apropriadas**
 
 - Administrador global
-- Administrador de usuários
+- Administrador de gerenciamento de usuário
 - Agente administrativo
 - Agente de vendas
 
@@ -61,7 +56,7 @@ Você pode encontrar dados de licença e de usuário para um único cliente ou e
 
 Terminologia:
 
-- **Direito = uma** licença que o usuário tem direito de usar (não está suspensa para fraude ou não pagamento, ela não foi atualizada para uma licença diferente, ela não foi cancelada pelo usuário, etc.)
+- **Direito = uma** licença que o usuário tem direito de usar (não é suspensa para fraude ou não pagamento, ela não foi atualizada para uma licença diferente, ela não foi cancelada pelo usuário ou outro problema).
 
 - **Ativo** = se o usuário inscrito tiver usado o direito para uma tarefa nos últimos 28 dias do calendário.
 
@@ -69,7 +64,7 @@ Terminologia:
 
 - **Uso%** = usuários ativos/total de usuários
 
-   Às vezes, a % de uso está inflacionada ou maior do que 100%. Isso pode ocorrer por diversos motivos:
+   Às vezes, a % de uso está inflacionada ou maior do que 100%. Esse problema pode ocorrer por vários motivos:
 
   - Se o cliente teve rotatividade de funcionários e a licença foi transferida para um novo usuário.
 
@@ -77,7 +72,7 @@ Terminologia:
 
   - Se o cliente tiver uma assinatura de avaliação, a atividade será contabilizada, mas a assinatura não será contabilizada no total de direitos.
 
-  - Se alguns clientes estiverem usando o Yammer muito além do que eles têm direito de acordo com a licença, isso poderá causar uma distorção significativa nos dados.
+  - Se alguns clientes estiverem usando o Yammer significativamente mais do que têm direito a sua licença, ele poderá distorcer os dados drasticamente.
 
 ## <a name="next-steps"></a>Próximas etapas
 

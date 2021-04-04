@@ -1,21 +1,22 @@
 ---
 title: Sendo pago no Partner Center
-description: Saiba mais sobre como receber pagamentos de ganhos como um parceiro da Microsoft, como por meio de ofertas do Marketplace comercial, programas de incentivo e o programa do provedor de soluções na nuvem. Inclui política de pagamento, status de retenção de pagamento e instruções de pagamento.
-ms.service: marketplace
+description: Saiba mais sobre como receber pagamentos de ganhos como um parceiro da Microsoft, como por meio de ofertas do Marketplace comercial, programas de incentivo e o programa do provedor de soluções na nuvem. Inclui política de pagamento, status de espera de pagamento e instruções de pagamento.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 94ed17106b64b078c51de351d1e44e29d3745921
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492442"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133073"
 ---
 # <a name="getting-paid-in-partner-center"></a>Sendo pago no Partner Center
 
-**Funções apropriadas:**
+**Funções apropriadas**
 
 - Administrador de conta
 - Administrador global
@@ -38,7 +39,7 @@ Antes de ser pago pela primeira vez, você deve configurar sua conta de pagament
 
 ### <a name="payout-hold-status"></a>Status de retenção de pagamento
 
-Por padrão, enviamos os pagamentos mensalmente, conforme descrito acima. No entanto, você tem a opção de colocar seus pagamentos em um programa em espera, e a Microsoft não liberará seu pagamento para sua conta. Se você optar por colocar seus pagamentos em espera, continuaremos registrando quaisquer ganhos na página de **pagamentos** . No entanto, não enviaremos nenhum pagamento à sua conta até que você remova a espera.
+Por padrão, enviamos os pagamentos mensalmente, conforme descrito acima. No entanto, você pode colocar seus pagamentos em um programa em espera, e a Microsoft não liberará seu pagamento para sua conta. Se você optar por colocar seus pagamentos em espera, continuaremos registrando quaisquer ganhos na página de **pagamentos** . No entanto, não enviaremos nenhum pagamento à sua conta até que você remova a espera.
 
 Para posicionar seus pagamentos em espera, selecione o ícone de engrenagem **configurações** na parte superior direita e, em seguida, **configurações da conta**. Selecione **pagamento e imposto** no menu à esquerda e, na seção **atribuição de perfil de pagamento e imposto** , localize o programa para o qual deseja que os pagamentos sejam mantidos. Marque a caixa de seleção **manter meu pagamento** para manter os pagamentos deste programa. Você pode alterar o status de espera de pagamento a qualquer momento, mas sua decisão afetará o pagamento mensal seguinte. Por exemplo, se você quiser colocar o pagamento de abril em espera, defina o status de pagamento em espera para **Ativado** antes do final de março.
 

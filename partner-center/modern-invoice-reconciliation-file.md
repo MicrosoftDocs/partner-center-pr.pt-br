@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 74974c68c607ddcee4aff6abd53284a60653fb0b
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 66159d886914336180e8531ec07db3a9d8880a88
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712249"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103767"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Campos de arquivo de reconciliação de compra única do CSP
 
@@ -51,8 +51,8 @@ Para obter mais informações sobre arquivos de reconciliação, consulte [usar 
 | PublisherId | Um identificador exclusivo que o Partner Center usa para identificar o Publicador. | *NA* |
 | Descrição da assinatura | O nome da oferta de serviço comprada pelo cliente, conforme definido na tabela de preços. Esta coluna é um campo idêntico a oferecer. | *Plano do Azure* |
 | SubscriptionId | Identificador exclusivo de uma assinatura na plataforma de faturamento da Microsoft. Não usado para reconciliação. Observe que esse identificador não é o mesmo que a ID de assinatura no console do administrador do parceiro. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
-| ChargeStartDate | A data em que a central de parceiros cobra pela taxa de assinatura. Se a assinatura for comprada com um termo de cobrança anual e um plano de cobrança mensal, no primeiro arquivo de reconciliação, esse é o dia em que a assinatura é comprada. A partir do próximo arquivo de reconciliação, ele será incrementado em 30 dias. | *9/1/2020* |
-| Data final da cobrança | Dia de término dos encargos do ciclo de cobrança da assinatura. Se a assinatura for comprada com um termo de cobrança anual e um plano de cobrança mensal, no primeiro arquivo de reconciliação, este é o dia 30 após a compra da assinatura. A partir do próximo arquivo de reconciliação, ele será incrementado em 30 dias. | *30/09/2020* |
+| ChargeStartDate | A data em que o período de cobrança de uma assinatura é iniciado. | *9/1/2020* |
+| Data final da cobrança | A data em que o período de cobrança de uma assinatura termina. | *30/09/2020* |
 | TermAndBillingCycle | O compromisso de duração para continuar a assinatura no momento da compra. | *Dados armazenados (GB/mês)* |
 | EffectiveUnitPrice | O preço unitário rateado para calcular o custo do ciclo de cobrança. Os descontos, os ajustes nos dias de cobrança e outros fatores determinam o preço unitário efetivo. Para obter mais informações, veja [cálculo de preço unitário efetivo](./effective-unit-price-calculation.md).  | *0, 3825* |
 | UnitType | O tipo de unidade em que o medidor é cobrado. | *1 GB/mês* |

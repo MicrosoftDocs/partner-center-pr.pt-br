@@ -1,22 +1,22 @@
 ---
 title: Agendas e processos de pagamento
 description: Saiba mais sobre pagamentos e transações, como planos de pagamento e processos de revitória para o mercado comercial e outras transações.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756850"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086168"
 ---
 # <a name="payout-schedules-and-processes"></a>Agendas e processos de pagamento
 
-**Funções apropriadas:**
+**Funções apropriadas**
 
 - Administrador de conta
 - Administrador global
@@ -67,13 +67,13 @@ Todas as compras com um cartão de crédito ou uma nota fiscal mensal têm um pe
 
 ## <a name="process-for-customer-non-payment"></a>Processo de não pagamento de cliente
 
-Em raras ocasiões, a Microsoft não consegue coletar pagamentos de clientes para suas compras do Marketplace comercial. Quando um cliente não paga a Microsoft de acordo com seu agendamento de cobrança, começamos o processo de coleções. Esse processo leva aproximadamente quatro meses e envolve a comunicação persistente da Microsoft. Se o pagamento não for recebido no final deste processo, a Microsoft gravará os fundos como não coletáveis.
+Em raras ocasiões, a Microsoft não consegue coletar pagamentos de clientes para suas compras do Marketplace comercial. Quando um cliente não paga a Microsoft de acordo com seu agendamento de cobrança, começamos o processo de coleções. Esse processo leva aproximadamente quatro meses e envolve a comunicação persistente da Microsoft. Se o pagamento não for recebido pelo final deste processo, a Microsoft gravará os fundos como não coletáveis.
 
 De acordo com o processo de pagamento articulado aqui, a Microsoft pode já ter pago os fundos para os editores (você) que, por fim, não podem ser coletados. Portanto, temos um processo para reconciliar esses valores. Para garantir que você tenha um aviso de que o pagamento (já recebido) pode ser reconciliado, você será notificado quando um cliente estiver no processo de cobranças e as compras provavelmente serão gravadas.
 
 A Microsoft recuperará todos os pagamentos já pagos usando um dos seguintes métodos: (1) a Microsoft poderá subtrair os valores não pagos de pagamentos futuros; por exemplo, se $1000 em pagamentos forem considerados não colecionáveis e gravados, seus pagamentos futuros serão retidos até que a $1000 seja recuperada ou (2) a Microsoft poderá solicitar um reembolso ou Publicadores de notas fiscais por quaisquer valores não coletados.
 
-Veja a seguir um exemplo de agendamento:
+O agendamento a seguir é um exemplo:
 
 | Evento | Data aproximada * | Visibilidade do parceiro |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ Veja a seguir um exemplo de agendamento:
 
 ## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>Número de dias para os pagamentos chegarem a uma conta de pagamento
 
-Normalmente, enviamos qualquer pagamento devido em um determinado mês no 15º dia desse mês, mas leva mais tempo para que o pagamento chegue à sua conta. O número de dias depende do método de pagamento que usamos para sua conta, conforme descrito abaixo.
+Normalmente, enviamos qualquer pagamento devido em um determinado mês no 15º dia desse mês, mas leva outro tempo para que o pagamento chegue à sua conta. O número de dias depende do método de pagamento que usamos para sua conta, conforme descrito abaixo.
 
 > [!NOTE]
 > Os dias mostrados abaixo são aproximados; qualquer pagamento pode levar mais ou menos tempo para alcançar sua conta.

@@ -2,20 +2,22 @@
 title: Mesclar sua conta de parceiro com outra conta de parceiro
 description: Saiba como mesclar sua conta de parceiro com outra conta de parceiro no Partner Center-para empresas que estão ativas parceiros da Microsoft no Partner Center.
 ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: ad5cc0e9c8642ceb309cac3f5fc7c99534c3dcda
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 90d1fe9728c43d2f34b6cfe2d9e4c9613d865aeb
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182589"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133056"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Mesclar sua conta de parceiro com outra conta de parceiro
 
-**Funções aplicáveis**
+**Funções apropriadas**
 
 - Administrador de conta
 
@@ -35,7 +37,7 @@ Duas ou mais empresas que estão ativas parceiros da Microsoft e que têm contas
 
 - As funções do usuário são trazidas. Por exemplo, se um usuário tivesse sido o administrador de incentivos para um local específico, ele ainda teria essa função após a fusão e poderá ver os incentivos vistos antes da fusão.
 
-- Os locatários e as contas do CSP do Azure AD não são mesclados e não têm impacto.
+- Os locatários e as contas do CSP do Azure AD não são mesclados e não têm nenhum efeito.
 
 - As ofertas publicadas e os dados de pipeline de venda conjunta associados a ambas as empresas são preservados
 
@@ -65,7 +67,7 @@ Se você decidir aceitar o convite para mesclar contas: · Suas IDs e locais de 
 
   - Competência: a empresa parceira receberá um pacote de principais benefícios, associado à sua maior realização, além de benefícios específicos da competência que o parceiro está qualificado para cada conta global do parceiro.
 
-- Todos os benefícios estão sujeitos ao [Guia de uso de Microsoft Partner Network benefícios](https://aka.ms/partner-benefits-use-guide). Por exemplo: um token do O365 E3 ativado é funcional por doze (12) meses após a ativação. Depois que um token tiver sido ativado para licenças em um locatário, essas licenças não poderão ser movidas para outro locatário.
+- Todos os benefícios estão sujeitos ao [Guia de uso de Microsoft Partner Network benefícios](https://aka.ms/partner-benefits-use-guide). Por exemplo: um token do O365 E3 ativado é funcional por 12 meses após a ativação. Depois que um token tiver sido ativado para licenças em um locatário, essas licenças não poderão ser movidas para outro locatário.
 
 - As associações de ID do MCP para ambas as empresas serão retidas e associadas à ID do PGA MPN.
 
@@ -77,7 +79,7 @@ Se você decidir aceitar o convite para mesclar contas: · Suas IDs e locais de 
 
 - Os comprovantes do Software Assurance são mantidos em ambas as contas. 
 
-- Não há nenhum impacto na associação DPOR ou PAL. Todas as contribuições de receita associadas começarão a fluir para a nova conta global do parceiro
+- Não há nenhum efeito para a associação DPOR ou PAL. Todas as contribuições de receita associadas começarão a fluir para a nova conta global do parceiro
 
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>Convide uma empresa para mesclar sua conta do Partner Center com sua conta do Partner Center
 
@@ -94,33 +96,33 @@ Se você decidir aceitar o convite para mesclar contas: · Suas IDs e locais de 
  
 ### <a name="example-of-two-companies-merging-accounts"></a>Exemplo de duas empresas que mesclam contas
 
-1. A contoso tem 
+1. A contoso, Ltd. tem 
 
     a. uma [ID de MPN global de 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) e um [local subordinado MPN IDs de 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
   
     b. um locatário do Azure AD = @contoso.com
  
     c. uma competência Gold que expira em 1º de outubro de 2020
-2. Fabricam tem
+2. A Fabrikam, Inc. tem
  
     a.  uma ID de MPN global de 3333333 e duas IDs de MPN de local subordinado de 4444444 e 5555555
 
-    b.  um locatário do Azure AD = @fabricam.com
+    b.  um locatário do Azure AD = @fabrikam.com
 
     c.  duas competências Gold que expiram em 1º de dezembro de 2020
-3.  A contoso compra fabricam e vai [aqui](https://partner.microsoft.com/dashboard/account/merger) para iniciar uma solicitação de mesclagem.
-4.  Fabricam entra no Partner Center e vai para a mesma página que a contoso fez na etapa #3, para aprovar a solicitação da contoso.
+3.  A contoso compra a Fabrikam e vai [aqui](https://partner.microsoft.com/dashboard/account/merger) para iniciar uma solicitação de mesclagem.
+4.  A Fabrikam entra no Partner Center e vai para a mesma página que a contoso fez na etapa #3, para aprovar a solicitação da contoso.
 5.  A contoso revisa os detalhes da mesclagem na mesma página e fornece confirmação para prosseguir com a fusão de contas.
 6.  Após a fusão, a conta da empresa será exibida como:
 
     a.  Uma empresa chamada contoso com uma ID de MPN global de 1111111 e 4 IDs de MPN de local subordinado de 2222222, 3333333, 4444444 e 5555555
     
-    b.  Ele terá dois locatários do Azure AD ( @contoso.com + @fabricam.com ) que têm acesso à mesma conta do Partner Center
+    b.  Ele terá dois locatários do Azure AD ( @contoso.com + @fabrikam.com ) que têm acesso à mesma conta do Partner Center
     
     c.  Ele terá dois pacotes de benefícios de competência, um que expira em 1º de outubro de 2020 e outro que expira em 1º de dezembro de 2020. Eles poderão ser renovados como um pacote de benefícios de competência única em 1º de dezembro de 2020. Quando eles forem renovados, a contoso manterá todas as três competências, mesmo que elas possam manter apenas um único pacote de benefícios.
     
-7.  Os administradores da Contoso continuarão a gerenciar as funções do Partner Center para @contoso.com os usuários. Os administradores do fabricam continuarão a gerenciar as funções do Partner Center para @fabricam.com os usuários. Os administradores da Contoso só poderão administrar os usuários do fabricam se forem convidados como convidados no locatário do fabricam.
-8.  A Contoso pode decidir ignorar o @fabricam.com locatário e reemitir as novas credenciais dos funcionários fabricam @contoso.com com novas funções e permissões.
+7.  Os administradores da Contoso continuarão a gerenciar as funções do Partner Center para @contoso.com os usuários. Os administradores da Fabrikam continuarão a gerenciar as funções do Partner Center para @fabrikam.com os usuários. Os administradores da Contoso só poderão administrar os usuários da Fabrikam se forem convidados como convidados no locatário da Fabrikam.
+8.  A Contoso pode decidir ignorar o @fabrikam.com locatário e reemitir as novas credenciais da Fabrikam Employees @contoso.com com novas funções e permissões.
 
 ## <a name="next-steps"></a>Próximas etapas
 

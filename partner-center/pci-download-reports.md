@@ -9,16 +9,17 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c7b0be301b9c0fc56200c128b225fc849a2f04c2
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: b7d963bffcfeebed3b7540dfd02aadd876dfcaa6
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175270"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086219"
 ---
-# <a name="download-reports"></a>Baixar relatórios
+# <a name="download-reports"></a>Download de relatórios
 
 **Funções apropriadas**
+
 - Visualizador de relatórios executivos
 - Visualizador de relatórios
 
@@ -34,7 +35,7 @@ Para gerar um relatório, primeiro selecione o relatório na lista suspensa **se
 
 :::image type="content" source="images/pci/create-new-report.png" alt-text="Criar novo relatório":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="Criar novo relatório":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="Relatórios gerados":::
 
 >[!NOTE] 
 >Somente os usuários que são visualizadores de relatórios executivos podem baixar relatórios. Para obter mais informações sobre o acesso baseado em função aos relatórios do painel do insights, consulte [funções de PCI](pci-roles.md). 
@@ -43,7 +44,7 @@ Para gerar um relatório, primeiro selecione o relatório na lista suspensa **se
 
 Os relatórios a seguir estão disponíveis para download:
 
-**Perfil de parceiro** fornece os detalhes relacionados ao parceiro. Detalhes como ID de parceiro, nome do parceiro, cidade do parceiro, país do parceiro e assim por diante estão disponíveis no relatório. Nenhuma agregação ou lookback será aplicável para este relatório.
+**Perfil de parceiro** fornece os detalhes relacionados ao parceiro. Detalhes como ID de parceiro, nome do parceiro, cidade do parceiro e país do parceiro estão disponíveis no relatório. Nenhuma agregação ou lookback será aplicável para este relatório.
 
 Os **detalhes do cliente** fornecem os detalhes dos clientes aos quais um parceiro está associado. Ele também fornece métricas-chave como licenças vendidas, ACR agregado e assim por diante. O relatório é agregado mensalmente.
 

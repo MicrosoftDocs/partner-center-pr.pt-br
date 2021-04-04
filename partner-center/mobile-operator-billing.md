@@ -1,19 +1,19 @@
 ---
 title: Cobrança de operador móvel-Microsoft Store
 description: O Microsoft Store oferece cobrança de operador móvel como um método de pagamento para operadores móveis que dão suporte a esse recurso.
-ms.date: 05/29/2020
+ms.date: 04/01/2021
 ms.service: partner-dashboard
 ms.topic: article
 ms.author: hickeys
 author: hickeys
 keywords: windows 10, uwp, operadoras móveis, cobrança de celular, cobrança da operadora móvel
 ms.localizationpriority: medium
-ms.openlocfilehash: 010451506df0d6115a8e1b4781e6fb40ab8853bb
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 5556da39b252f5004cd7d1828310743875a8da7f
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91335629"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178809"
 ---
 # <a name="mobile-operator-billing"></a>Cobrança da operadora móvel
 
@@ -34,18 +34,20 @@ Os seguintes operadores móveis atualmente dão suporte à cobrança de operador
 | Austrália            | Optus                                                   |
 | Áustria              | A1 Telekom, Hutchison 3G Áustria, T-Mobile/tele. Ring  |
 | Bélgica              | Base, Proximus                                          |
-| Canada               | Telus                                                   |
-| Tchéquia              | T-Mobile                                                |
+| Canadá               | Telus                                                   |
+| Tchéquia              | T-Mobile, Vodafone, O2                                  |
 | Dinamarca              | 3, TDC / YouSee, Telenor, Telia                         |
 | Finlândia              | DNA, Elisa                                              |
 | França               | Laranja                                                  |
 | Alemanha              | O2, Telekom Deutschland, Vodafone                       |
 | Hungria              | Telenor                                                 |
-| Itália                | Tre, vento                                               |
+| Itália                | Tre, vento, Vodafone                                     |
+| Coreia do Sul                | SK Telecom                                              |
 | Malásia             | Digi                                                    |
-| Países Baixos          | KPN/Telfort                                           |
+| Países Baixos          | KPN/Telfort, Vodafone                                 |
 | Noruega               | Telenor/Talkmore, Telia/OneCall                     |
-| Polônia               | Laranja, reproduzir                                            |
+| Polônia               | Laranja, Play, T-Mobile                                  |
+| Arábia Saudita         | STC                                                     |
 | Singapura            | M1 Limited, StarHub                                     |
 | Eslováquia             | Slovak Telekom                                          |
 | África do Sul         | Vodacom                                                 |
@@ -56,4 +58,4 @@ Os seguintes operadores móveis atualmente dão suporte à cobrança de operador
 | Turquia               | Turkcell                                                |
 | Emirados Árabes Unidos | Etisalat                                                |
 | Estados Unidos        | Sprint, Verizon                                         |
-| Reino Unido       | 3 UK, EE, O2, Vodaphone                                 |
+| Reino Unido       | 3 UK, EE, O2, Vodafone                                 |

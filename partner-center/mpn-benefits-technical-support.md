@@ -9,19 +9,20 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 6adf7039f6ad389f61c9cd0b5e4ad9454db06a5b
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712895"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133022"
 ---
 # <a name="technical-support-benefits"></a>Benefícios do suporte técnico
 
 **Funções apropriadas**
--   Administrador global 
--   Administrador de parceiros do MPN 
--   Agente administrativo 
+
+- Administrador global
+- Administrador de parceiros do MPN
+- Agente administrativo
 
 ## <a name="overview"></a>Visão geral
 
@@ -38,11 +39,11 @@ Para exibir e ativar seus benefícios técnicos no Partner Center:
 2. Expanda benefícios no menu de navegação à esquerda, selecione **benefícios técnicos**. A página de benefícios técnicos é exibida com uma lista de benefícios de suporte técnico disponíveis para suas ofertas Gold, Silver ou Microsoft Action Pack Membership. 
 
     > [!NOTE]
-    >Se você não tiver ofertas de associação ativas, verá que a mensagem "parece que você ainda não tem nenhum benefício". Se sua empresa tiver ofertas de associação ativas, mas você não puder vê-las, você pode ter entrado usando a conta incorreta. Para verificar sua conta, clique no ícone de **conta** no canto superior direito da página e clique em **entrar com outra conta** (se necessário).
+    >Se você não tiver ofertas de associação ativas, verá que a mensagem "parece que você ainda não tem nenhum benefício". Se sua empresa tiver ofertas de associação ativas, mas você não puder vê-las, você pode ter entrado usando a conta incorreta. Para verificar sua conta, selecione o ícone de **conta** no canto superior direito da página e selecione **entrar com outra conta** (se necessário).
 
 3. Para começar a usar um suporte a produtos da Microsoft ou assinatura, você precisará ativar o benefício. A ID de acesso e a ID do contrato serão exibidas após a ativação bem-sucedida. 
 
-    -   Para ativar o benefício, clique no botão Ativar. A conta de usuário usada para ativação requer as funções de administrador global administrador ou MPN Partner. Aguarde alguns dias para processar sua solicitação de ativação. 
+    -   Para ativar o benefício, selecione o botão Ativar. A conta de usuário usada para ativação requer as funções de administrador global administrador ou MPN Partner. Aguarde alguns dias para processar sua solicitação de ativação. 
 
     - Você pode usar o suporte a produtos da Microsoft e assinaturas (Membros dourados e prata) quando a ID de acesso e a ID do contrato são exibidas. 
 
@@ -73,7 +74,7 @@ Você precisará da ID de acesso e da ID do contrato na primeira vez que usar o 
 
 Qualquer conta de usuário (AAD ou MSA) pode usar o suporte técnico para produtos locais se eles tiverem a ID de acesso e a ID do contrato
 
-Clique em [suporte para negócios](https://support.serviceshub.microsoft.com/supportforbusiness/create) para criar uma solicitação de suporte para um produto local.
+Selecione [suporte para negócios](https://support.serviceshub.microsoft.com/supportforbusiness/create) para criar uma solicitação de suporte para um produto local.
 
 ## <a name="signature-cloud-support-cloud-only"></a>Suporte à assinatura na nuvem (somente na nuvem)
 
@@ -83,7 +84,7 @@ Você precisará da ID de acesso e da ID do contrato na primeira vez que usar o 
 
 Os parceiros CSP que criam solicitações do Azure podem usar o plano de suporte "provedor de soluções de nuvem" sem adicionar um contrato de suporte.
 
-Usuários com a função **agente de administrador** podem selecionar [clientes](https://partner.microsoft.com/commerce/customers/list) no CSP no menu de navegação à esquerda, selecione **Gerenciamento de serviços** e clique em **nova solicitação**.  Quando você seleciona a carga de trabalho relevante, o portal específico da carga de trabalho será aberto e você adicionará um contrato de suporte e criará uma solicitação.
+Usuários com a função **agente de administrador** podem selecionar [clientes](https://partner.microsoft.com/commerce/customers/list) no CSP no menu de navegação à esquerda, selecione **Gerenciamento de serviços** e selecione **nova solicitação**.  Quando você seleciona a carga de trabalho relevante, o portal específico da carga de trabalho será aberto e você adicionará um contrato de suporte e criará uma solicitação.
 
 ## <a name="partner-support-plans"></a>Planos de suporte do parceiro
 

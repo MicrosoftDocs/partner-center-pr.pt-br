@@ -9,18 +9,19 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 42c7af80ab49cee6e7043587207e553d2ffaa3ac
-ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
+ms.openlocfilehash: 5b9a0ea8c4eefee1a87b9ccd626b1f2864234521
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/21/2020
-ms.locfileid: "92333808"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132308"
 ---
-# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>O relatório de análise de Microsoft Learn mostra o status dos aprendizes em sua empresa
+# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>O relatório de análise do Microsoft Learn mostra o status dos estudantes de sua empresa
 
 **Funções apropriadas**
--   Administrador global
--   Administrador de parceiros do MPN
+
+- Administrador global
+- Administrador de parceiros do MPN
 
 O relatório de Microsoft Learn fornece informações sobre os aprendizes em sua empresa, incluindo os módulos que eles concluíram e os caminhos de aprendizado em que estão. O relatório exibe o status de cada aprendiz individual. O administrador global e o administrador do MPN para sua empresa podem exibir os dados.
 
@@ -43,7 +44,7 @@ Por exemplo, se "módulo 1" for concluído por 15 indivíduos e o "módulo 2" ti
 **Contagem de conclusões de roteiros de aprendizagem**: contagem de conclusões de caminho de aprendizagem pelos aprendizes na empresa do parceiro durante o intervalo de datas selecionado.
 Por exemplo, se o roteiro de aprendizagem "caminho 1" for concluído por 20 indivíduos e o roteiro de aprendizagem "caminho 2" tiver sido concluído pelos mesmos 20 indivíduos, a contagem de conclusão do roteiro de aprendizagem será de 40. A data de conclusão do roteiro de aprendizagem deve estar dentro do intervalo de datas selecionado.
 
-A **tendência de conclusão do roteiro de aprendizagem**é o gráfico de tendências: mês acima do mês Contagem cumulativa das conclusões do roteiro de aprendizagem 
+A **tendência de conclusão do roteiro de aprendizagem** é o gráfico de tendências: mês acima do mês Contagem cumulativa das conclusões do roteiro de aprendizagem 
 
 ### <a name="trained-individuals-monthly-trend"></a>Tendência mensal de pessoas treinadas
 
@@ -73,7 +74,7 @@ O **eixo Y** é a contagem de preenchimentos de módulo nesse mês. Isso não é
 
 **Guia módulo**
 
-Esta guia inclui a divisão dos módulos concluídos em sua empresa pelos 5 principais nomes de módulo; o produto ao qual o módulo está associado; e a função de usuário pertinente ao módulo.  
+Essa guia inclui a divisão dos módulos concluídos em sua empresa pelos cinco principais nomes de módulo; o produto ao qual o módulo está associado; e a função de usuário pertinente ao módulo.  
 
 - Gráfico de rosca de preenchimentos de módulo: divisão das conclusões do módulo (contagem exibida na seção de resumo) pelos nomes de módulo.
 
@@ -89,7 +90,7 @@ O número exibido no centro do gráfico é o número de produtos distintos para 
 
 **Guia caminho de aprendizagem**   
 
-Esta guia inclui uma análise dos caminhos de aprendizado concluídos em sua empresa pelos 5 principais nomes de módulo; o produto ao qual o roteiro de aprendizagem está mapeado; e a função pertinente a este roteiro de aprendizagem.  
+Esta guia inclui uma análise dos caminhos de aprendizado concluídos em sua empresa pelos cinco principais nomes de módulo; o produto ao qual o roteiro de aprendizagem está mapeado; e a função pertinente a este roteiro de aprendizagem.  
 
 - Gráfico de rosca de conclusões de roteiros de aprendizado: análise das conclusões do roteiro de aprendizagem (contagem exibida na seção Resumo) por nome.
 
@@ -131,7 +132,7 @@ Depois que o administrador global adicionar um novo usuário, esse usuário prec
 
 3. Posso ver todos os usuários da empresa que entram no Microsoft Learn com uma conta MSA neste relatório?
 
-Atualmente, a melhor maneira de fazer isso é adicionar esses usuários ao seu locatário do Azure AD e adicioná-los ao Partner Center para que eles possam associar sua conta de Microsoft Learn por meio do **meu perfil** no Partner Center. 
+Atualmente, a melhor maneira de fazer isso é adicionar esses usuários ao seu locatário do Azure AD e, em seguida, adicioná-los ao Partner Center para que eles possam associar sua conta de Microsoft Learn por meio do **meu perfil** no Partner Center. 
 
 Para os usuários que usam apenas sua conta MSA para treinamento, em um futuro próximo, a equipe de Microsoft Learn permitirá que eles associem seus emails de trabalho ao seu perfil de Microsoft Learn. 
 

@@ -9,23 +9,20 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a7ed3ad04846b1e222d3827488a8ac188653cac
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: 064235ebdfee1e85a95908cf7a03f8e6fc676b00
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869275"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132597"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Migração do PAC (Centro de Administração do Parceiro) para o Partner Center
 
-**Aplica-se a**
-- Partner Center
-- Centro de Administração do Parceiro
-
 **Funções apropriadas**
+
 - Administrador global
 
-O Partner Center está evoluindo para o único lugar em que você gerenciará sua parceria com a Microsoft e com seus clientes. No Partner Center, você poderá gerenciar associações, indicações de clientes, incentivos e todos os outros aspectos do Programa Provedor de Soluções na Nuvem (CSP). Você também poderá fazer a maior parte do trabalho realizado no PAC no Partner Center, ainda que alguns dos recursos e ações funcionem de forma diferente.
+O Partner Center está evoluindo para o único lugar em que você gerenciará sua parceria com a Microsoft e com seus clientes. No Partner Center, você pode gerenciar a associação, as referências do cliente, os incentivos e todos os outros aspectos do CSP (programa de provedor de soluções na nuvem). Você poderá fazer a maior parte do trabalho que fez no PAC no Partner Center, embora alguns dos recursos ou das ações funcionem de forma diferente.
 
 
 |**Ação**   |**PAC**   |**Partner Center**   |

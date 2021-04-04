@@ -8,16 +8,17 @@ description: Veja o que você está fazendo e onde você pode melhorar a respeit
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 727c370fbb787f1a63f50b28b4ef6ae703b7f1a3
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: d1710215f5fd1d7058232c81ae68ae9cd1ba5240
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146560"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086303"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de uso do Office 365 disponível no painel do centro de informações do Partner Center
 
 **Funções apropriadas**
+
 - Administrador global
 - Agente administrativo
 - Visualizador de relatórios

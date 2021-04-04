@@ -9,21 +9,14 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84dcb87f4a5594fdcd3a7099e12331a9e4459b38
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 94bcde2402b7276bef8eaaf84975f2a5677723fe
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944473"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133107"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Gerenciar vendas potenciais diferentes, como consultas de clientes, clientes potenciais qualificados por marketing e clientes potenciais qualificados por vendas
-
-**Aplica-se a**
-
-- Partner Center
-- Indicações
-- Provedor de soluções da Microsoft
-- Perfis de negócios
 
 **Funções apropriadas**
 
@@ -46,9 +39,9 @@ O pré-requisito para receber clientes potenciais é [criar um perfil comercial]
 
 Há três guias de nível superior na seção leads. 
 
-**Leads do Marketplace** – todos os clientes potenciais provenientes de pesquisas de página do provedor de soluções da Microsoft, que são consultas de clientes.
+**Leads do Marketplace** – são todos os clientes potenciais provenientes de pesquisas de página do provedor de soluções da Microsoft, que são consultas de clientes.
 
-**Leads qualificados** – todos os clientes potenciais do tipo marketing qualificado e vendas qualificadas estão disponíveis nesta guia.
+**Clientes potenciais qualificados** – são todos os clientes potenciais do tipo marketing qualificado e vendas qualificadas.
 
 **Favoritos** – todos os clientes potenciais marcados como favoritos na guia leads do Marketplace ou Leads qualificados serão mostrados nesta guia. Você pode marcar qualquer cliente potencial como um favorito clicando no ícone de coração no cliente potencial no modo de exibição de lista. Você pode remover o cliente potencial dos favoritos clicando no mesmo ícone novamente.
 
@@ -62,7 +55,7 @@ Neste estágio, você recebeu um novo Lead diretamente do cliente ou de um funci
 
 Você pode executar duas ações neste estágio – aceitar ou recusar a referência:
 
-- **Aceitar:** Insira um nome para o negócio, o valor de negócio estimado e o período de tempo de compra estimado. Você também deve fornecer informações no campo **Observações** para explicar mais sobre o que o cliente está procurando. Opcionalmente, você pode inserir sua ID do CRM aqui (somente para sua referência), a ID da campanha de marketing, que resultou no respectivo líder e adicionar outros contatos de sua empresa. Quando tiver terminado, selecione **Avançar**. Moveremos a referência para o **próximo estágio**, o que significa que você planeja envolver ativamente o cliente para atender às suas necessidades. Também usaremos essas informações para ajudá-lo a encontrar acordos semelhantes no futuro. 
+- **Aceitar**: Insira um nome para o negócio, o valor de negócio estimado e o intervalo de tempo de compra estimado. Você também deve fornecer informações no campo **Observações** para explicar mais sobre o que o cliente está procurando. Opcionalmente, você pode inserir sua ID do CRM aqui (somente para sua referência), a ID da campanha de marketing, que resultou no respectivo líder e adicionar outros contatos de sua empresa. Quando tiver terminado, selecione **Avançar**. Moveremos a referência para o **próximo estágio**, o que significa que você planeja envolver ativamente o cliente para atender às suas necessidades. Também usaremos essas informações para ajudá-lo a encontrar acordos semelhantes no futuro. 
 
 - **Recusar**: selecione o motivo pelo qual você está recusando o negócio e adicione as anotações que deseja incluir e, em seguida, selecione **fechar** negócio. Vamos arquivá-lo como **recusado** e notificar o cliente para escolher um parceiro diferente.
 
@@ -79,21 +72,21 @@ Quando terminar, você poderá executar uma das duas ações, que estão marcand
 
 ### <a name="archived-stage"></a>Estágio Arquivado
 
-Esse é um estágio de terminal em que todas as oportunidades finalmente chegam. Você pode exibir todos os clientes potenciais que estão em **vitórias, perdidos, recusados**e **expirados** neste estágio. Não há ações que você possa executar neste estágio.
+Esse é um estágio de terminal em que todas as oportunidades finalmente chegam. Você pode exibir todos os clientes potenciais que estão em **vitórias, perdidos, recusados** e **expirados** neste estágio. Não há ações que você possa executar neste estágio.
 
 ## <a name="getting-more-leads"></a>Obtendo mais clientes potenciais
 
 Aqui estão algumas dicas para ajudá-lo a obter referências mais apropriadas:
 
-- **Escolha palavras-chave e preferências que representem seus conhecimentos e modelo de negócios exclusivos** em seu [perfil de negócios](create-a-marketing-profile.md). Remova as palavras-chave que geraram referências nas quais você não está interessado. Se você não estiver interessado em lidar com empresas de um determinado tamanho, atualize essa preferência.
+- **Escolha palavras-chave e preferências que representam seu conhecimento e modelo de negócios exclusivos em [seu perfil de negócios](create-a-marketing-profile.md)**. Remova as palavras-chave que geraram referências nas quais você não está interessado. Se você não estiver interessado em lidar com empresas de um determinado tamanho, atualize essa preferência.
 
-- **Examine suas informações de contato em seu [perfil comercial](create-a-marketing-profile.md) para cada local** Certifique-se de que sua equipe receba alertas de entrada.
+- **Examine suas informações de contato em seu [perfil comercial](create-a-marketing-profile.md) para cada local**. Certifique-se de que sua equipe receba alertas de entrada.
 
-- **Responder rapidamente às referências** Quando você responder em tempo hábil às solicitações de entrada, aumentaremos sua visibilidade em futuros resultados da pesquisa do cliente. Verifique se a sua equipe responde rapidamente com sua intenção.
+- **Responder rapidamente a indicações**. Quando você responder em tempo hábil às solicitações de entrada, aumentaremos sua visibilidade em futuros resultados da pesquisa do cliente. Verifique se a sua equipe responde rapidamente com sua intenção.
 
-- **Seja choosy com as ofertas que você aceita** Monitoramos os tipos de negócios que você aceita e recusa e usamos essas informações para ajudá-lo a encontrar acordos semelhantes. Aceitar as negociações que não são uma boa opção não melhorará os resultados da pesquisa e poderá afetar a qualidade dos clientes potenciais recebidos.
+- **Seja seletivo com as negociações que você aceita**. Monitoramos os tipos de negócios que você aceita e recusa e usamos essas informações para ajudá-lo a encontrar acordos semelhantes. Aceitar as negociações que não são uma boa opção não melhorará os resultados da pesquisa e poderá afetar a qualidade dos clientes potenciais recebidos.
 
-- **Relatar o status final de negociações, datas de fechamento e o status final de suas negociações** (ganhas ou perdidas). Usaremos essas informações para continuar a fornecer referências de qualidade.
+- **Relate os tamanhos estimados de negócios, datas de fechamento e o status final de suas negociações (ganhas ou perdidas)**. Usaremos essas informações para continuar a fornecer referências de qualidade.
 
 ## <a name="next-steps"></a>Próximas etapas
 

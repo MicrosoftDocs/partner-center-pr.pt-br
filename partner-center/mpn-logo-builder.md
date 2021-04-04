@@ -9,18 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a60d83a79151d90ff98ead8d5be00c259a9cf4b3
-ms.sourcegitcommit: 673c467aa8ef4e02ff24fbc3e7d4f904316141e4
+ms.openlocfilehash: 40b2867695a7692cb863a00062101c2b5521c657
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104909275"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132393"
 ---
 # <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>Como criar um logotipo de parceiro, uma carta certificada ou um prêmio usando o logotipo Builder
 
 **Funções apropriadas**
 
-- Todos os usuários do Partner Center interessados em aprender mais sobre o logo Builder
+- Todos os parceiros interessados em aprender mais sobre o logo Builder
 
 O valor de atingir uma competência prata ou ouro é a oportunidade de diferenciar os clientes. Um logotipo que você pode usar em seus materiais de vendas e marketing e seu perfil comercial no Partner Center para demonstrar a competência ou as competências que você atingiu foi incluído nos seus benefícios de competência. 
 
@@ -28,7 +28,7 @@ Se você foi aceito no programa MSP do especialista do Azure, recebeu um prêmio
 
 ## <a name="what-is-available-in-logo-builder"></a>O que está disponível no construtor de logotipo
 
-O que está disponível para sua empresa no construtor de logotipo está alinhado à sua associação de Microsoft Partner Network (MPN). Leva até 24 horas para que uma alteração em sua associação do MPN, como a obtenção de uma nova competência, seja refletida.  
+Os logotipos disponíveis para sua empresa no construtor de logotipo estão alinhados à sua associação de Microsoft Partner Network (MPN). Leva até 24 horas para que uma alteração em sua associação do MPN, como a obtenção de uma nova competência, seja refletida.
 
 Os ativos que você pode criar no construtor de logotipo incluem o seguinte:
 
@@ -44,7 +44,7 @@ Os ativos que você pode criar no construtor de logotipo incluem o seguinte:
 
 - Logotipo para parceiros que compraram o Microsoft Action Pack
 
-## <a name="create-a-logo-using-logo-builder"></a>Criar um logotipo usando o logotipo Builder
+## <a name="create-a-logo-using-logo-builder"></a>Criar um logotipo usando o Construtor de Logotipo
 
 Seu perfil do construtor de logotipo contém informações que o logotipo Builder armazena sobre sua organização e é apenas para suas informações.
 

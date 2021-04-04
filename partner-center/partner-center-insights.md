@@ -9,16 +9,17 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 2b1a09253b7a9e9c8863f07b729ad116689a4642
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: ba8389ff613b47b17b87a6769674e33948fdc37d
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490624"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086576"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Informações do Partner Center – um painel que mostra como um parceiro comercial da Microsoft está fazendo
 
 **Funções apropriadas**
+
 - Administrador global
 - Administrador de conta
 - Visualizador de relatórios executivos
@@ -26,7 +27,7 @@ ms.locfileid: "89490624"
 
 ## <a name="introduction"></a>Introdução
 
-O insights é um painel de relatório unificado no Partner Center para parceiros comerciais da Microsoft registrados no programa Microsoft Partner Network (MPN). O painel de informações fornece uma exibição de 360 do seu KPI (indicadores chave de desempenho) em produtos de nuvem, como o Office, o Azure, o Dynamics e os modelos de licenciamento como CSP e EA. Ele expõe um rico conjunto de relatórios de KPI que podem ajudá-lo a tomar decisões orientadas por dados para sua organização. 
+O painel de informações é um painel de relatório unificado no Partner Center para parceiros comerciais da Microsoft registrados no programa Microsoft Partner Network (MPN). O painel de informações fornece uma exibição de 360 do seu KPI (indicadores chave de desempenho) em produtos de nuvem, como o Office, o Azure, o Dynamics e os modelos de licenciamento como CSP e EA. Ele expõe um rico conjunto de relatórios de KPI que podem ajudá-lo a tomar decisões orientadas por dados para sua organização. 
 
 ## <a name="role-based-access-control-to-the-insights-dashboard"></a>Controle de acesso baseado em função para o painel do insights
 
@@ -78,7 +79,7 @@ Os relatórios a seguir estão disponíveis como parte do painel de informaçõe
 
 - Produtos: lista de todos os produtos de Microsoft Cloud vendidos/gerenciados por sua organização, por exemplo, O365, Azure, D365, EMS, Power BI, etc.
 - Mercados do cliente: lista de países do cliente
-- Atribuições de parceiros: seu tipo de associação com suas assinaturas de clientes, por exemplo, DPOR (parceiro digital de registro), privilégio de administrador delegado (DAP), link de administrador de parceiro (PAL) etc. 
+- Atribuições de parceiros: seu tipo de associação com as assinaturas de seus clientes, por exemplo, DPOR (parceiro digital de registro), privilégio de administrador delegado (DAP) e link de administrador de parceiro (PAL). 
 - Locais de parceiros: lista de todos os locais de MPN da sua organização.
 - Canais de vendas: todo o canal/preço de vendas por meio do qual você está comprando/Provisionando produtos e serviços, especificamente CSP, EA, CSP indireto, direto, Advisor, aberto, outros
 - Segmentos de clientes: lista de segmentos de clientes na base de clientes dos parceiros.

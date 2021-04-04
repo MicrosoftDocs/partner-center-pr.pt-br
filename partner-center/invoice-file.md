@@ -4,22 +4,24 @@ ms.topic: article
 ms.date: 05/18/2020
 description: Entenda os campos em seu arquivo de nota fiscal para cobrança do Partner Center. Estão incluídos campos e definições de todos os campos de fatura e campos de cobrança única.
 author: sodeb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e9eb392279c0a09b5e30395b38ab7030bfa87d4
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 44bda5256b14722f143a5bf937e73b2533b8c9f5
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556286"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178894"
 ---
 # <a name="understand-partner-center-billing-invoice-fields"></a>Entender os campos de fatura de cobrança do Partner Center
 
 **Funções apropriadas**
 
 - Administrador global
-- Administrador de usuários
+- Administrador de gerenciamento de usuário
 - Administrador de cobrança
 - Agente de suporte técnico
 
@@ -33,7 +35,7 @@ Os campos a seguir aparecem nos arquivos da fatura.
 | ----- | ---------- |
 | US FEIN | Seu número de identificação do empregador Federal (FEIN). Este é o seu número de identificador de imposto federal Estados Unidos. |
 | Número do cliente | Seu número de cliente. |
-| Enviar cobrança para | O endereço para onde enviamos sua fatura. Você pode alterar o nome e/ou o endereço da sua empresa no perfil de cobrança do Partner Center. |
+| Enviar cobrança para | O endereço para onde enviamos sua fatura. Você pode alterar o nome e o endereço da sua empresa em seu perfil de cobrança do Partner Center. |
 | Cobranças baseada em licença | As tarifas fixas mensais ou anuais para suas licenças baseadas em uso adquiridas, cobradas antes do serviço. Esse número é a soma de todos os encargos na coluna de **Subtotal** (coluna **T**) em seu arquivo de reconciliação baseado em licença. |
 | Encargos baseados em uso | Seu uso do Azure. Isso inclui novos serviços ou aplicativos habilitados e usados durante o período de cobrança. Esse número é a soma de todos os encargos na coluna **PretaxCharges** (coluna **Z**) em seu arquivo de reconciliação baseado em uso. |
 | Descontos | O desconto que o cliente recebe do preço normal da assinatura. Esse número é mostrado como um *valor fixo*, não como um preço por unidade ou licença. |
