@@ -8,20 +8,16 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 10/29/2020
-ms.openlocfilehash: 54c90cce33a1eabc87357048c348ffa2cc03de19
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 29e67bbeca2b136146a1d9d1ee7eef4d0f9d3b0c
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133143"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179149"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Gerenciar incentivos de reclamações de cooperação
 
-**Aplica-se a:**
-
-- Partner Center
-
-**Funções apropriadas:**
+**Funções apropriadas**
 
 - Administrador de incentivos
 
@@ -65,13 +61,13 @@ Se for determinado que os materiais fornecidos com sua declaração de cooperaç
 
 1. Entre no painel [Partner Center](https://partner.microsoft.com/dashboard/).
 
-2. Em **incentivos** , selecione **Gerenciamento de cooperação** .
+2. Em **incentivos**, selecione **Gerenciamento de cooperação**.
 
 3. Selecione a declaração de cooperação que você deseja contestar. A página de declaração de cooperação é aberta.
 
-4. Na parte inferior da página, selecione **Contestar** .
+4. Na parte inferior da página, selecione **Contestar**.
 
-A equipe de validação das declarações de cooperação analisará a declaração em cinco dias úteis. Durante esse tempo, o status será exibido como **Contestado** . Podemos entrar em contato com você para solicitar informações adicionais. Quando a revisão é concluída, a equipe de validação atualiza o status para **Aprovada** , **Rejeitada** ou **Requer ação do parceiro** .
+A equipe de validação das declarações de cooperação analisará a declaração em cinco dias úteis. Durante esse tempo, o status será exibido como **Contestado**. Podemos entrar em contato com você para solicitar informações adicionais. Quando a revisão é concluída, a equipe de validação atualiza o status para **Aprovada**, **Rejeitada** ou **Requer ação do parceiro**.
 
 ## <a name="next-steps"></a>Próximas etapas
 

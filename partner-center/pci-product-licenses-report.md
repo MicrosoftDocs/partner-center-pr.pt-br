@@ -9,22 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4f1709d9a95e3509edbc431a851a2f1fdc0aae01
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 14cd4664ecfb140b82dfd27994ff99c7a62d2261
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220295"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086899"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Relatório de licenças de produto no painel do recepções do Partner Center
 
 **Funções apropriadas**
+
 - Administrador global
 - Agente administrativo
 - Visualizador de relatórios
 - Visualizador de relatórios executivos
 
-O relatório de licenças de produto apresenta a análise de licença para produtos de nuvem baseados em licença, como O365, Dynamics, M365, Power BI, etc. As análises apresentadas aqui estão associadas ao uso das licenças que você vendeu ou que você gerencia para seus clientes. Você pode exibir as seções a seguir do relatório de licenças de produto.
+O relatório de licenças de produto apresenta a análise de licença para produtos de nuvem baseados em licença, como o Office 365, Dynamics, Microsoft 365, Power BI e outros. As análises apresentadas aqui estão associadas ao uso das licenças que você vendeu ou que você gerencia para seus clientes. Você pode exibir as seções a seguir do relatório de licenças de produto.
 
 - Resumo
 - Dispersão geográfica de licenças
@@ -40,10 +41,10 @@ A seção de resumo fornece uma exibição de instantâneo dos KPIs (indicadores
 
 :::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Resumo do relatório de licenças":::
 
-Consulte abaixo para obter mais informações sobre cada seção do resumo.
+Para obter mais informações sobre cada seção do resumo, consulte abaixo:
 
 - Licenses: 
-  - Contagem atual de todas as licenças vendidas ou gerenciadas por você para produtos de nuvem baseados em licença, como O365, Dynamics, M365, Power BI, etc.
+  - Contagem atual de todas as licenças vendidas ou gerenciadas por você para produtos de nuvem baseados em licença, como o Office 365, Dynamics, Microsoft 365, Power BI e outros.
   - Percentual de crescimento ou declínio dessas licenças no intervalo de datas selecionado.
   - Micro Chart de tendência de licença: o micro Chart apresenta a tendência mês a mês de contagens de licenças durante o intervalo de datas selecionado
 

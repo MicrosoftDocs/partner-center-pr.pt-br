@@ -8,20 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 37b64d686549562a26aa818a576bad6c85f86670
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 91ff0d9b0696e1ef77cf21ce288afbc51c3fe528
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714430"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179472"
 ---
 # <a name="manage-incentives-customer-associations"></a>Gerenciar as associações de clientes de incentivos
 
-**Aplica-se a:**
-
-- Partner Center
-
-**Funções apropriadas:**
+**Funções apropriadas**
 
 - Administrador de cobrança
 - Administrador global
@@ -87,7 +83,7 @@ Se passarem 30 dias e você ainda quiser contestar uma declaração rejeitada, v
 
 Há três motivos principais para uma declaração de associação CPOR ser rejeitada.
 
-**Solicitação de parceiro:** Os parceiros podem solicitar que sua associação seja rejeitada. Essa lógica é usada principalmente quando o parceiro criou uma declaração de associação CPOR por engano usando um MPN incorreto, escolheu uma atividade incorreta (exemplo...). Você escolheu a associação de receita em vez de pré-vendas) ou não está mais trabalhando com o cliente.
+**Solicitação de parceiro:** Os parceiros podem solicitar que sua associação seja rejeitada. Essa lógica é usada principalmente quando o parceiro criou uma declaração de associação CPOR por engano usando um MPN incorreto, escolheu uma atividade incorreta (por exemplo, você escolheu a associação de receita em vez de pré-vendas) ou não está trabalhando mais com o cliente.
 
 **Recusa do cliente:** Depois que a declaração de associação CPOR tiver passado pelo processo de aprovação PoE com êxito, seu status será alterado para aprovado enquanto o cliente tiver a oportunidade de negar o consentimento da associação. Se o cliente negar o consentimento, a associação será rejeitada.
 

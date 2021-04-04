@@ -2,27 +2,26 @@
 title: Cobrança baseada em licença
 description: Saiba como a cobrança baseada em licença difere da cobrança baseada em uso no Partner Center, incluindo como você é cobrado por licença (não por uso de licença).
 ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 1fd6d9e4a9115757382e79f884a14d23e4545419
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 007a15091a018755c60c4e02c394ad31868d4233
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367480"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179404"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Cobrança baseada em licença no Partner Center
 
-**Aplica-se a**
+**Funções apropriadas**
 
-- Partner Center
-- Parceiros no programa CSP
-
-**Funções apropriadas** – administrador global
-- Administrador de usuários
+- Administrador global
+- Administrador de gerenciamento de usuário
 - Administrador de cobrança
 - Agente administrativo
 
@@ -34,7 +33,7 @@ Você pode optar por ser cobrado por licenças uma vez por mês (**cobrança men
 
 ## <a name="billing-date-for-licenses"></a>Data de cobrança para licenças
 
-As assinaturas baseadas em licença são cobradas antecipadamente na **data de aniversário**da assinatura. A data de aniversário é o dia do mês em que você comprou a assinatura.
+As assinaturas baseadas em licença são cobradas antecipadamente na **data de aniversário** da assinatura. A data de aniversário é o dia do mês em que você comprou a assinatura.
 
 Por exemplo:
 
@@ -51,7 +50,7 @@ Você pode cancelar uma licença a qualquer momento durante o [prazo da licença
 
 Se você suspender uma assinatura no mês 1, será creditado em 100%.
 
-Se você suspender uma assinatura em meses de 2-12, você será creditado em uma base rateada.
+Se você suspender uma assinatura nos meses 2–12, você será creditado em uma base rateada.
 
 ## <a name="license-renewal"></a>Renovação de licença
 

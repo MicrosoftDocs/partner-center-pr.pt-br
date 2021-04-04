@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 94cf24309486628d92878e0d8d5038b45c7b85df
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: 7d2331cfb1b0edf25815de0070b5668d0b91df6f
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89280478"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086882"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Painel de desempenho do revendedor nas ideias do Partner Center
 
@@ -68,7 +68,7 @@ O micro gráfico apresenta a tendência de receita mês a mês durante o interva
 
 ## <a name="geographical-spread-of-resellers"></a>Dispersão geográfica de revendedores
 
-O modo de exibição * * revendedores por geografia fornece a distribuição geográfica de revendedores. Usando esse widget, os parceiros podem exibir os **revendedores**totais, **novos revendedores**e **USD (receita cobrada)**, divididos por várias regiões geográficas.
+O modo de exibição * * revendedores por geografia fornece a distribuição geográfica de revendedores. Usando esse widget, os parceiros podem exibir os **revendedores** totais, **novos revendedores** e **USD (receita cobrada)**, divididos por várias regiões geográficas.
 
 Você pode pesquisar e selecionar um país na grade para aplicar zoom ao local no mapa. Pressione a opção **página inicial** no mapa para reverter para a exibição original. Focalize o mapa para exibir a **receita cobrada (USD)** por país. O campo receita cobrada (USD) na grade é classificável.
 
@@ -76,7 +76,7 @@ Você pode pesquisar e selecionar um país na grade para aplicar zoom ao local n
 
 ## <a name="resellers-addchurns"></a>Adição/variações de revendedores
 
-Essa exibição fornece uma divisão mês a mês do número de **novos revendedores**, **revendedores com variação**e **revendedores existentes**. 
+Essa exibição fornece uma divisão mês a mês do número de **novos revendedores**, **revendedores com variação** e **revendedores existentes**. 
 
 - Novos revendedores: contagem de revendedores que foram inscritos recentemente com o provedor indireto durante o intervalo de datas selecionado.
 - Revendedores com rotatividade: contagem de revendedores que não tenham uma transação nos últimos seis meses, excluindo o mês atual.
@@ -92,7 +92,7 @@ Essa exibição fornece uma tendência mensal da divisão de receita (USD) cobra
 
 ## <a name="reseller-performance-by-products"></a>Desempenho do revendedor por produtos
 
-Essa exibição fornece uma divisão de métricas-chave como receita cobrada, contagem de assinaturas e contagem de licenças por vários produtos em um mês com base no mês. O gráfico de pizza à direita indica a divisão geral dessas métricas por vários produtos, para que o parceiro obtenha uma visão rápida do divisão por vários produtos que o revendedor está vendendo.
+Essa exibição fornece uma divisão de métricas-chave como receita cobrada, contagem de assinaturas e contagem de licenças por vários produtos em um mês ao mês. O gráfico de pizza à direita indica a divisão geral das métricas por vários produtos, para que o parceiro obtenha uma visão rápida do divisão por vários produtos que o revendedor está vendendo.
 
 :::image type="content" source="images/pci/pci-res-perf-resel-perf-product-1.png" alt-text="Desempenho do revendedor por produtos":::
 

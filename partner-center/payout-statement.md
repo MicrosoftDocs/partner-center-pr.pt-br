@@ -1,22 +1,22 @@
 ---
 title: Demonstrativos de pagamento
 description: Saiba mais sobre demonstrativos e resumos de pagamentos e como exibir e exportar seus dados de pagamento do Microsoft Partner Center
-ms.subservice: partnercenter-marketplace-publisher
-ms.service: marketplace
+ms.subservice: partnercenter-mpn
+ms.service: partner-dashboard
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: fd0aaeb84651a84aba4748795309512295f9485a
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549236"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087086"
 ---
 # <a name="payout-statements"></a>Demonstrativos de pagamento
 
-**Funções apropriadas:**
+**Funções apropriadas**
 
 - Administrador de conta
 - Administrador global
@@ -73,7 +73,7 @@ Para ver mais detalhes sobre um ganho, selecione a seta para baixo no lado direi
 
 ### <a name="transaction-history-summary"></a>Resumo do histórico de transações
 
-Isso mostra a obtenção de detalhes, incluindo a origem da conquista do produto vendido vendas, status e mês de pagamento estimado.
+Esta exibição mostra a obtenção de detalhes, incluindo a origem da conquista do produto vendido vendas, status e mês de pagamento estimado.
 
 :::image type="content" source="images/payouts/transaction-history.png" alt-text="Histórico de transações.":::
 
@@ -116,7 +116,7 @@ Observe que seu pagamento será liberado apenas no mês projetado se as regras d
 - Seu perfil de imposto deve estar atualizado
 - Seus ganhos devem atender ou exceder o limite mínimo de conquista definido no guia do programa.
 - Pagamento em espera: se você selecionar a opção "manter meu pagamento" na página de atribuição de perfis.
-- Instrumento de pagamento não disponível: o perfil de pagamento ou/e imposto não foi concluído.
+- Instrumento de pagamento não disponível: o perfil de pagamento ou/ou imposto não está concluído.
 
 ### <a name="transaction-history-download"></a>Download do histórico de transações
 
@@ -220,7 +220,7 @@ A tabela a seguir lista os códigos de motivo para ajustes e suas descrições.
 | Substituição de cooperação | Ajuste que transfere os ganhos de cooperação para outro período ou converte os ganhos de cooperação no reembolso. |
 | Ajuste de Ops | Ajuste que corrige erros de cálculo do sistema da Microsoft. |
 | Cálculo incorreto do Microsoft ajuste de Ops | Ajuste que corrige os incorretos de cálculos. |
-| Registro incorreto do Microsoft ajuste de Ops | Ajuste para o registro de inscrições relacionados. |
+| Registro incorreto do Microsoft ajuste de Ops | Ajuste para os inscrições relacionados ao registro. |
 | MCI/CSP de mapeamento de parceiro (assinatura) | Ajuste que corrige o desalinhamento da assinatura. |
 | Exceção de política | Ajuste que substitui uma regra de programa.  |
 | Ganhos do período anterior | Ajuste para ganhos fora do período de conquista atual. |
@@ -263,7 +263,7 @@ A tabela a seguir explica os diferentes status de conquista.
 | Fatura de imposto pendente | Sua fatura de imposto está incompleta ou inválida. | Atualize sua fatura de imposto para ser pago |
 | Rejeitado durante a revisão | O pagamento foi rejeitado durante a revisão. | Entre em contato com o Suporte da Microsoft para detalhes |
 | Com falha | O pagamento falhou devido a um erro do sistema da Microsoft. | Contate o suporte da Microsoft para obter detalhes |
-| Em andamento | O pagamento está em andamento. | Não |
+| Em Andamento | O pagamento está em andamento. | Não |
 | Pagamento incorreto | A revitóriação de pagamento está em andamento. | Não |
 | Enviado | O pagamento foi enviado ao seu banco. | Não |
 | Em reprocessamento | O pagamento encontrou um erro de sistema da Microsoft e está sendo reprocessado. | Não |

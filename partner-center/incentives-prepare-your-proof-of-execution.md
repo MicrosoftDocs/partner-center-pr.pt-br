@@ -8,20 +8,16 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 82c45a1edcc19dc26dfefff88f59c598ab9bc6ea
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: d0e5dca008f73a13fb25e9322c492a053037e633
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714380"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179438"
 ---
 # <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Criar e enviar documentos para sua PoE (prova de execução) de incentivos
 
-**Aplica-se a:**
-
-- Partner Center
-
-**Funções apropriadas:**
+**Funções apropriadas**
 
 - Administrador de incentivos
 
@@ -45,7 +41,7 @@ Antes de ser pago pelo trabalho de seus incentivos, você deve enviar uma prova 
    - **Data de início**  A data de execução. Essa data deve estar entre a data de início da campanha e a data de término da campanha.
    - **Valor**  A quantidade da declaração de cooperação.
 
-7. Clique em **Salvar**.
+7. Selecione **Salvar**.
 
 8. Na página de **declaração de nova prova de execução** , insira os campos obrigatórios.
 
@@ -58,7 +54,7 @@ Antes de ser pago pelo trabalho de seus incentivos, você deve enviar uma prova 
 
 10. Na página **informações de nota fiscal e despesa**, carregue um dos dois documentos a seguir:
     - **Fatura de terceiros**  No campo **fatura de terceiros** , selecione **arrastar ou procurar arquivos para carregar**. Adicione a nota fiscal e os detalhes de fatura necessários e, em seguida, selecione **salvar**.
-    - **Relatório do serviço de certificação**  Selecione **Adicionar relatório do serviço de certificação**. Na página **gerar um relatório de serviço de certificação** , preencha os campos obrigatórios e, em seguida, selecione **salvar**.
+    - **Relatório do serviço de certificação**  Selecione **Adicionar relatório do serviço de certificação**. Na página **gerar um relatório do serviço de certificação** , preencha os campos obrigatórios e, em seguida, selecione **salvar**.
 
 11. Você também pode carregar **documentos de prova** , se desejar. No campo **prova de documentos** , selecione **arrastar ou procurar arquivos para carregar**. Se você selecionar documentos de prova, deverá adicionar notas explicativas. Quando você tiver adicionado uma anotação, selecione **Salvar**.
 
@@ -81,6 +77,6 @@ Antes de ser pago pelo trabalho de seus incentivos, você deve enviar uma prova 
    - Aprovado
    - Rejeitado
 
-## <a name="next-steps"></a>Próximas etapas:
+## <a name="next-steps"></a>Próximas etapas
 
 - [Introdução aos incentivos](incentives-get-started-intro.md)

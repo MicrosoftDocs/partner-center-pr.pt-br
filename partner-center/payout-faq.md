@@ -1,28 +1,28 @@
 ---
 title: Perguntas frequentes sobre o perfil de pagamento e imposto
 description: Obtenha respostas para perguntas comuns sobre pagamentos e detalhes de impostos no Partner Center. Inclui respostas sobre por que seus ganhos são diferentes do esperado.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 03/05/2021
-ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 00cb707dd6d94cc6cbae889e2db1a700d246e2ed
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247651"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087035"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Perguntas comuns sobre pagamentos e impostos
 
-**Funções apropriadas**:
+**Funções apropriadas**
 
 - Administrador de conta
 - Administrador global
 - Administrador de incentivos
 
-Este artigo responde a perguntas frequentes sobre pagamentos e detalhes de impostos no Partner Center. os tópicos abordados incluem o tempo de pagamento, a verificação da elegibilidade de seus ganhos e a importância de configurar seus perfis de pagamento e de impostos corretamente.
+Este artigo responde a perguntas frequentes sobre pagamentos e detalhes de impostos no Partner Center. Os assuntos abordados incluem o tempo de pagamento, a verificação da elegibilidade de seus ganhos e a importância de configurar seus perfis de pagamento e de impostos corretamente.
 
 ## <a name="profile-management"></a>Gerenciamento de perfil
 
@@ -42,7 +42,7 @@ Pode ser que você não tenha as permissões corretas ou que esteja conectado co
 
 #### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Só posso entrar com meu @onmicrosoft.com domínio. O que devo fazer?
 
-Contate o administrador da conta para adicionar outros domínios à conta do AAD.
+Contate o administrador da conta para adicionar mais domínios à conta do AAD.
  
 #### <a name="my-organization-is-participating-in-multiple-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>Minha organização está participando de vários programas. Preciso fornecer meu pagamento e perfil de impostos várias vezes?
 
@@ -61,7 +61,7 @@ Se sua empresa for convidada para vários programas, você poderá usar a mesma 
 
 É responsabilidade da empresa garantir que a função do administrador de incentivos, que tem as permissões para editar essas informações, só é fornecida aos funcionários apropriados.
 
-#### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Meu perfil de imposto expirou. Como fazer corrigir isso?
+#### <a name="my-tax-profile-has-expired-how-do-i-fix-update-it"></a>Meu perfil de imposto expirou. Como fazer corrigir a atualização?
 
 Se um perfil de imposto expirar ou estiver prestes a expirar, significa que o formulário de imposto que você forneceu à Microsoft precisa ser atualizado. Use as etapas a seguir para atualizar seu perfil de imposto:
 
@@ -83,7 +83,7 @@ Se um perfil de imposto expirar ou estiver prestes a expirar, significa que o fo
 #### <a name="why-is-my-earnings-amount-different-than-what-i-expected"></a>Por que o valor dos meus ganhos é diferente do esperado?
 
 - Se o pedido foi parcialmente pago por seu cliente, seu valor de conquista será baseado no valor parcialmente pago após a dedução da taxa e do imposto apropriado.
-- Verifique a responsabilidade de remessa de imposto por país. No caso de países em que os impostos são de responsabilidade da Microsoft, a Microsoft coleta e deduz o imposto dos ganhos do editor. O valor da transação mostrado no demonstrativo é posterior ao valor do imposto. Confira [Detalhes do imposto](tax-details-marketplace.md).
+- Verifique a responsabilidade de remessa de imposto por país. Em países em que o imposto é responsável pela Microsoft, a Microsoft coleta e deduz o imposto dos ganhos do Publicador. O valor da transação mostrado no demonstrativo é posterior ao valor do imposto. Confira [Detalhes do imposto](tax-details-marketplace.md).
 - As ofertas de SaaS e IaaS têm uma tarifa de agência com desconto em 10% em vez do padrão de 20%, deixando uma taxa de ganhos de 90%. Essa promoção estará em vigor até 30 de junho de 2021.
 
 **Leitura adicional**: [contrato de editor do Marketplace comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), [detalhes da política de pagamento](payout-policy-details.md), [limite de pagamento, método e intervalo de tempo](payment-thresholds-methods-timeframes.md), [como receber pagamentos](marketplace-get-paid.md), [detalhes do imposto](tax-details-marketplace.md), instruções do [pagamento](payout-statement.md)
@@ -113,7 +113,7 @@ Use AssetID, orderID e ID de item de linha aparecendo no relatório de históric
 
 
 #### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>Como fazer definir minha conta para não receber o pagamento?
-Você pode manter pagamentos no [perfil de pagamento](https://partner.microsoft.com/dashboard/commercial-marketplace/overview); Basta marcar a lista **suspensa**. A Microsoft manterá o pagamento até você até que você libere a espera.
+Você pode manter pagamentos no [perfil de pagamento](https://partner.microsoft.com/dashboard/commercial-marketplace/overview). Para fazer isso, marque **manter** e a Microsoft manterá o pagamento para você até que você libere a espera.
 
 #### <a name="why-do-i-receive-in-a-different-currency-than-the-purchase-currency"></a>Por que recebo em uma moeda diferente da moeda de compra?
 
@@ -121,7 +121,7 @@ A moeda de pagamento é baseada na moeda selecionada no perfil de pagamento. A m
 
 #### <a name="how-do-i-reconcile-adjustments"></a>Como reconciliar ajustes?
 
-Os ajustes de pagamento são correções de pagamento para conciliar os ajustes de compensação, como problemas do sistema. No demonstrativo de pagamento, o ReasonCode especificará o motivo do ajuste. Eles não se destinam a reconciliar diretamente em transações individuais.
+Os ajustes de pagamento são correções de pagamento para conciliar os ajustes de compensação, como problemas do sistema. Na instrução pagamento, ReasonCode especifica o motivo do ajuste. Elas não devem ser reconciliadas diretamente em transações individuais.
 
 **Leitura adicional**: [contrato de editor do Marketplace comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), [detalhes da política de pagamento](payout-policy-details.md), detalhes do [imposto](tax-details-marketplace.md), [limite de pagamento, método e período de tempo](payment-thresholds-methods-timeframes.md)
 
@@ -199,7 +199,7 @@ Use a [API de pagamento do parceiro](https://apidocs.microsoft.com/services/part
 
 #### <a name="how-do-i-find-the-current-agency-fee-and-the-payout-rate"></a>Como encontrar a taxa de agenciamento e a taxa de pagamento atuais?
 
-- Verifique o contrato de editor do marketplace comercial. A taxa de agenciamento padrão é de 20%. O SaaS Co-Sell transações qualificadas tem uma taxa com desconto de 10%. Verifique se há anúncios de taxas de agenciamento promocionais.
+- Verifique o contrato de editor do marketplace comercial. A taxa de agenciamento padrão é de 20%. As transações qualificadas de revenda de SaaS têm uma taxa com desconto de 10%. Verifique se há anúncios de taxas de agenciamento promocionais.
 - Na sua declaração de pagamento, a taxa de conquista especifica a taxa de pagamento real para uma determinada transação.
 
 #### <a name="when-can-i-expect-a-payment-from-microsoft-once-earnings-appear-on-my-statement"></a>Quando posso esperar um pagamento da Microsoft, uma vez que os ganhos apareçam no meu demonstrativo?

@@ -1,4 +1,5 @@
 # [Comunicados do Partner Center](index.md)
+# [Abril de 2021](2021-april.md)
 # [Março de 2021](2021-march.md)
 # [Fevereiro de 2021](2021-february.md)
 # [Janeiro de 2021](2021-january.md)
@@ -11,6 +12,3 @@
 # [Junho de 2020](2020-june.md)
 # [Maio de 2020](2020-may.md)
 # [Abril de 2020](2020-april.md)
-# [Março de 2020](2020-march.md)
-# [Fevereiro de 2020](2020-february.md)
-# [Janeiro de 2020](2020-january.md)

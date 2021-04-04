@@ -8,19 +8,18 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 1c3cafa6b5ea280a924a0142da78483d54a18ab9
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756708"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179489"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Perguntas frequentes sobre incentivos
 
-**Funções apropriadas:**
+**Funções apropriadas**
 
 - Administrador de incentivos
-
 - Usuário de incentivos
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>Preciso ser o administrador global para se registrar em incentivos?
@@ -71,7 +70,7 @@ Se você tiver recebido um convite ou se tiver registrado no, um programa de inc
 
 Se você precisar alterar sua função ou permissões, entre em contato com o administrador da conta ou global da sua empresa. Para saber quem são essas pessoas, leia [localizar seu administrador global](./find-your-role.md#find-your-global-admin).
 
-Observe que a página Visão geral exibirá apenas os registros associados à conta global do parceiro (PGA) associada ao locatário do Azure AD. Se sua empresa tiver mais de um PGA, você precisará ter credenciais diferentes para cada um.
+A página Visão geral exibirá apenas os registros associados à conta global do parceiro (PGA) associada ao locatário do Azure AD. Se sua empresa tiver mais de um PGA, você precisará ter credenciais diferentes para cada um.
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Quem devo entrar em contato se receber uma mensagem de erro ou precisar de ajuda durante o processo de registro?
 

@@ -1,6 +1,6 @@
 ---
 title: Visão geral das associações de CPOR
-description: Leia sobre os recursos de parceiros para aqueles que precisam associar clientes a programas de incentivos específicos por meio do modelo de CPOR (parceiro de registro) reivindicação.
+description: Leia sobre os recursos para parceiros que precisam associar clientes a programas de incentivos específicos por meio do modelo de CPOR (parceiro de registro) reivindicação.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 6e420f4aa5353126c705c42836052d340ede6504
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 24c439d1c90663130e1676e8ceb6d503be5ea30d
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714460"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179183"
 ---
 # <a name="use-these-resources-to-make-customer-association-claims-for-specific-incentives-programs"></a>Use esses recursos para fazer declarações de associação de clientes para programas de incentivos específicos
-
-**Aplica-se a**
-
-- Partner Center
-- Parceiros na Microsoft Partner Network (MPN)
 
 **Funções apropriadas**
 
@@ -29,7 +24,7 @@ ms.locfileid: "90714460"
 
 Este artigo compartilha recursos para parceiros da Microsoft que atendem aos seguintes critérios:
 
-- Você faz parte do seguinte, os programas de incentivos da Microsoft: vendem (comunicado de serviços online). OSU (uso de serviços online)-Microsoft 365; e OSU-incentivos de aplicativos de negócios.
+- Você faz parte dos seguintes programas de incentivos da Microsoft: recomendação de serviços online (OSA) venda, OSU (uso de serviços online)-Microsoft 365 e OSU-Business incentivos de aplicativos.
 
 - Você trabalha com clientes Microsoft 365 ou Dynamics 365 e quer fazer referência ou reivindicar parte desse trabalho nos programas de incentivo acima.
 
@@ -39,7 +34,7 @@ Se você se adequar aos critérios, precisará usar o modelo de CPOR (parceiro d
 
 A Microsoft agora usa o modelo de CPOR (parceiro de registro) para gerenciar as associações que você tem com seus clientes Microsoft 365 e Dynamics 365.
 
-Esse modelo se aplica ao seu trabalho com clientes nos seguintes programas de incentivos: recomendação de serviços online (OSA) vender; OSU (uso de serviços online)-Microsoft 365; e OSU-incentivos de aplicativos de negócios.
+Esse modelo se aplica ao seu trabalho com clientes nos seguintes programas de incentivos: consultoria de serviços online (OSA), venda, OSU (uso de serviços online) – Microsoft 365 e OSU-Business incentivos de aplicativos.
 
 A Microsoft valida todas as declarações de incentivos.
 

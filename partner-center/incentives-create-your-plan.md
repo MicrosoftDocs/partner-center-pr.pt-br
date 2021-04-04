@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e3d2ec916a8c8a9d29b5ba82db6542d55bd84e8
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 1ad11a42a91cfacb625a05b850b0cdfee3d48d0b
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714480"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179251"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Gerar um plano de marketing para seu programa de incentivos
 
-**Aplica-se a:**
-
-- Partner Center
-
-**Funções apropriadas:**
+**Funções apropriadas**
 
 - Administrador de incentivos
 - Administrador de cobrança
@@ -46,7 +42,7 @@ Para obter mais informações sobre planos para seu programa de incentivos espec
 
 3. Na página **programa** , localize o mercado apropriado para seu plano e, em seguida, selecione **criar plano**. 
 
-4. Na página **novo plano** , preencha os campos obrigatórios. **Moeda** é o valor que você deseja que o plano reflita. O **email do revisor** deve ser o endereço de email da Microsoft do seu gerente de conta. Observe que apenas um plano pode ser criado por ID do MPN, fundo, programa e período. Clique em **Salvar**.
+4. Na página **novo plano** , preencha os campos obrigatórios. **Moeda** é o valor que você deseja que o plano reflita. O **email do revisor** deve ser o endereço de email da Microsoft do seu gerente de conta. Observe que apenas um plano pode ser criado por ID do MPN, fundo, programa e período. Selecione **Salvar**.
 
 5. Na página de status do plano, examine as informações exibidas. Selecione **Editar** para atualizar qualquer uma das informações.
 
@@ -58,7 +54,7 @@ Para obter mais informações sobre planos para seu programa de incentivos espec
 
 9. Na página **Nova atividade**, preencha os campos obrigatórios. Você pode selecionar vários países/regiões. Quando terminar, selecione **Salvar**. 
 
-10. Na página de status, examine as informações novamente. Depois de enviar um plano, não é possível editá-lo. Quando tiver terminado, selecione **Enviar** e, em seguida, selecione **Confirmar**.
+10. Na página de status, examine as informações novamente. Depois de enviar um plano, você não poderá editá-lo. Quando tiver terminado, selecione **Enviar** e, em seguida, selecione **Confirmar**.
 
 Agora o plano foi enviado. A Microsoft notificará o administrador de incentivos quando tiver sido aprovado ou se informações adicionais forem necessárias. Você pode exibir o progresso do plano na janela Status da página de status.
 
@@ -90,9 +86,9 @@ Você deve criar e enviar seu plano até o último dia do ano do programa. Se ne
 
 A Microsoft paga a você todos os meses com base em seus ganhos e nos limites do seu plano. Os pagamentos são feitos no dia 15 do mês seguinte.
 
-Por exemplo, se seu plano for aprovado para US$ 10.000 e você ganhou US$ 5.000 no mês de abril, você receberá US$ 5.000 em 15 de maio.
+Por exemplo, se seu plano for aprovado para $10000 e você ganhou $5000 no mês de abril, você receberá $5000 em 15 de maio.
 
-No mesmo plano, se você ganhar US$ 15.000 no mês de abril, receberá US$ 10.000 em 15 de maio porque US$ 10.000 foi o limite para seu plano. Para receber mais pagamentos, você precisa aumentar o limite do seu plano para o próximo mês.
+No mesmo plano, se você ganhar $15000 no mês de abril, receberá $10000 em 15 de maio porque $10000 foi o limite para seu plano. Para receber mais pagamentos, você precisa aumentar o limite do seu plano para o próximo mês.
 
 ## <a name="next-steps"></a>Próximas etapas
 

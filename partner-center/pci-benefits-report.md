@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 575c68a15838e67cc7123e756dc15206eb2e4d7d
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 5b730eb9c6689c9d779a2e3f16f70fd3232601da
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444887"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087001"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de benefícios disponível no painel do recepções do Partner Center
 
@@ -25,7 +25,7 @@ ms.locfileid: "87444887"
 - Visualizador de relatórios
 - Visualizador de relatórios executivos
 
-Como um parceiro da Microsoft, você pode acessar uma série de benefícios que usam a tecnologia e as inovações mais recentes para ajudá-lo a aprimorar as habilidades da sua equipe, melhorar a eficiência e aumentar seus negócios. Os pacotes de benefícios incluem: alocações de software licenciado, serviços de nuvem, assinaturas do Visual Studio e suporte. Esses pacotes também podem incluir determinados recursos, ofertas e programas de entrada no mercado. O relatório de benefícios apresenta tendências dos benefícios que você acessou e sua utilização durante o intervalo de datas selecionado.
+Como um parceiro da Microsoft, você pode acessar uma série de benefícios que usam a tecnologia e as inovações mais recentes para ajudá-lo a aprimorar as habilidades da sua equipe, melhorar a eficiência e aumentar seus negócios. Os pacotes de benefícios incluem: alocações de software licenciado, serviços de nuvem, assinaturas do Visual Studio e suporte. Esses pacotes também podem incluir determinados recursos, ofertas e programas de entrada no mercado. O relatório de benefícios apresenta as tendências dos benefícios que você acessou e seu uso durante o intervalo de datas selecionado.
 
 :::image type="content" source="images/pci/pci-benefits-intro-1.png" alt-text="Visão geral da página de benefícios":::
 
@@ -39,11 +39,11 @@ Você pode visualizar os seguintes gráficos no relatório de benefícios:
 - Ir para o mercado
 
  > [!NOTE]
- > Esse relatório está disponível no painel de informações. Para exibir esse relatório, você deve ser atribuído a uma função específica no Partner Center, como administrador global, administrador da conta, visualizador de relatórios ou Visualizador de relatórios do Executive. Para obter mais informações, consulte o administrador global da sua empresa. Tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de visualizador de relatórios executivos.
+ > Esse relatório está disponível no painel de informações. Para exibir esse relatório, você deve ser atribuído a uma função específica no Partner Center, como administrador global, administrador da conta, visualizador de relatórios ou Visualizador de relatórios do Executive. Para obter mais informações, consulte o administrador global da sua empresa. os tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de visualizador de relatórios executivos.
 
 ## <a name="summary"></a>Resumo
 
-A seção de resumo apresenta os benefícios concedidos em termos de software licenciado, serviços de nuvem (não Azure), assinaturas do Visual Studio, suporte técnico e determinados serviços ou ofertas de entrada no mercado.
+A seção de resumo apresenta os benefícios concedidos em termos de software licenciado, serviços de nuvem (não Azure), assinaturas do Visual Studio, suporte técnico e determinados serviços e ofertas de entrada no mercado.
 
 Exemplo: os parceiros de associação do Microsoft Partner Network (MPN) estão qualificados para o suporte técnico de produtos locais e produtos de nuvem. Parceiros que obtêm competência Silver recebem suporte técnico para 15 incidentes para produtos locais. Eles podem consumir esse suporte conforme necessário. 
 
@@ -66,7 +66,7 @@ Este gráfico apresenta a tendência mensal de licenças concedidas durante o in
 
 Este gráfico apresenta a tendência mensal de assinaturas do Visual Studio ativadas em relação a assinaturas que foram alocadas durante o intervalo de datas selecionado.
 
-Selecione uma guia na parte superior do gráfico para exibir a tendência de uma assinatura específica do Visual Studio que você recebe como benefícios. As colunas no gráfico representam as licenças consumidas para a assinatura. O grafo de linha representa as licenças gerais atribuídas para a assinatura.
+Selecione uma guia na parte superior do gráfico para exibir a tendência de uma assinatura específica do Visual Studio que você recebeu como benefícios. As colunas no gráfico representam as licenças consumidas para a assinatura. O grafo de linha representa as licenças gerais atribuídas para a assinatura.
 
 :::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Assinaturas do Visual Studio":::
 

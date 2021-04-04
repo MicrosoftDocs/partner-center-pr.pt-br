@@ -4,28 +4,28 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como o ISV (fornecedor independente de software) torna determinadas ofertas exclusivas e disponíveis somente para parceiros CSP específicos.
+description: Saiba como os ISVs (fornecedores independentes de software) tornam determinadas ofertas exclusivas e disponíveis somente para parceiros CSP específicos.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87863efd5c4d15c560a488f3cf6ec817c5e34ddc
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 53a166ec3cd380c8f9afd39c9b274f7022202500
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000110"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179455"
 ---
 # <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Ofertas exclusivas do Marketplace de fornecedores independentes de software
 
 **Funções apropriadas**
 
 - Administrador global
-- Administrador de usuários
+- Administrador de gerenciamento de usuário
 - Agente administrativo
 - Agente de vendas
 
-Um fornecedor independente de software (ISV) tem a opção de fazer ofertas exclusivas disponíveis apenas para determinados parceiros CSP.
+Um ISV (fornecedor independente de software) pode fazer ofertas exclusivas disponíveis apenas para determinados parceiros CSP.
 
 Os parceiros CSP podem exibir todas as ofertas de ISV no Marketplace comercial do Partner Center. As ofertas marcadas como **exclusivas**, no entanto, só podem ser adquiridas por parceiros específicos selecionados pelo ISV. Se uma oferta não for marcada como **exclusiva**, todos os parceiros poderão comprá-la.
 

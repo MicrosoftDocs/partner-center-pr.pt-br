@@ -8,16 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 03/16/2021
-ms.openlocfilehash: 405f7603639a3d460a307fab467872550487e936
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: cd54249e1fb53fdf3a753b38d1e9999008b9d79a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712147"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179200"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Determinar a elegibilidade do programa de incentivos
 
-**Funções apropriadas**:
+**Funções apropriadas**
 
 - Administrador global
 - Administrador de incentivos
@@ -40,7 +40,7 @@ Encontre os requisitos de qualificação específicos para seu programa no guia 
 
    :::image type="content" source="images/incentives/eligibility.png" alt-text="Captura de tela é um exemplo de requisitos de incentivos.":::
 
-5. Você precisa concluir todas as áreas que estão desmarcadas para atender à qualificação. Cada programa de incentivos tem seu próprio conjunto de requisitos.
+5. Conclua todas as áreas que estão desmarcadas para atender à qualificação. Cada programa de incentivos tem seu próprio conjunto de requisitos.
 
 ## <a name="next-steps"></a>Próximas etapas
 
