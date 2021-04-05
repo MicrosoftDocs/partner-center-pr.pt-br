@@ -9,18 +9,19 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: be4250864bd07e555b0eb2079c28f3dfb4920805
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: b267f89ec1c7b27e87eaaf3d7b594ebbd0fd6942
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999980"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633871"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Preparar a migração do PMC (Partner Membership Center) para o Partner Center
 
 **Funções apropriadas**
+
 - Administrador global
-- Administrador de usuários
+- Administrador de gerenciamento de usuário
 - Agente de vendas
 - Agente administrativo
 
@@ -158,7 +159,7 @@ Sua empresa poderá criar quantos perfis comerciais forem necessários para repr
 
 ### <a name="how-will-referrals-be-assigned-what-changes-can-i-expect-for-example-if-i-have-a-global-company-in-one-market-and-locations-in-other-markets-how-will-referrals-be-assigned"></a>Como as indicações serão atribuídas e quais alterações eu posso esperar? Por exemplo, se eu tiver uma empresa global em um mercado e localizações em outros mercados, como as indicações serão atribuídas?
 
-As indicações são atribuídas com base nos parâmetros de pesquisa definidos pelo cliente. Independentemente de você ter uma localização ou muitas, se os clientes especificarem uma localização desejada e você tiver uma empresa que atenda aos outros parâmetros, a indicação se deslocará para essa localização.
+As indicações são atribuídas com base nos parâmetros de pesquisa definidos pelo cliente. Independentemente de você ter uma localização ou muitas, se o cliente especificar uma localização desejada e você tiver uma empresa que atenda aos outros parâmetros, a indicação se deslocará para essa localização.
 
 ### <a name="i-am-migrating-to-partner-center-from-within-russia-i-get-an-error-message-about-web-direct-how-do-i-continue-with-the-migration"></a>Estou migrando para o Partner Center de dentro da Rússia. Recebi uma mensagem de erro sobre o Web Direct. Como fazer para continuar com a migração?
 

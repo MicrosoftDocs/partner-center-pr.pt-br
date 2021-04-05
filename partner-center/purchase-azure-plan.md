@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 04d47cef596b2c0a0ae13ff3f087d4b1b5f0437c
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 7645495e481010a92cc4f9cd95bf26f5e3783b70
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215893"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633821"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Adquira o plano do Azure para clientes e acesse os serviços mais recentes do Azure com taxas pré-pagas
 
 **Funções apropriadas**
 - Administrador global
-- Administrador de usuários
+- Administrador de gerenciamento de usuário
 - Agente de vendas
 
 Quando você adquire um plano do Azure para seus clientes sob o contrato do cliente da Microsoft, você tem acesso ao catálogo completo dos serviços do Azure mais recentes com tarifas pagas conforme o uso. Os parceiros CSP agora serão capazes de acessar qualquer serviço do Azure quando ele estiver disponível ao público geral. Um parceiro pode ter várias assinaturas do Azure em um único plano do Azure. 
@@ -79,7 +79,7 @@ As reservas do Azure devem estar associadas a um plano do Azure ativo. Escolha o
 >Se o cliente ainda não tiver um plano do Azure ativo, selecione Azure para adicionar um agora mesmo. Para obter mais instruções, leia [Comprar reservas do Azure](azure-reservations-buying.md#purchase-azure-reservations).
 
 >[!Note]
->O escopo da reserva só pode ser definido como **Compartilhado** no momento no Partner Center. Para selecionar o escopo de assinatura única ou atualizar de um escopo compartilhado para o escopo de assinatura única, acesse o **portal de Gerenciamento do Microsoft Azure** usando as seguintes instruções. 
+>O escopo da reserva só pode ser definido como **Compartilhado** no momento no Partner Center. Para selecionar o escopo de assinatura única ou atualizar de um escopo compartilhado para o escopo de assinatura única, acesse o **portal de Gerenciamento do Microsoft Azure** usando as instruções a seguir. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Configuração de reservas de escopo compartilhado":::
 

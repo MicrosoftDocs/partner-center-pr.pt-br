@@ -9,21 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b09f661cfc091732dddb2d7cb79303af60d3919a
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f58a7cc34b5b5b5755f652faf220d290ec2a355d
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756496"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549253"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenha informações de referência na Central de parceiros e descubra como estão suas referências
 
-**Aplica-se a**
-
-- Oportunidades de venda conjunta
-- Acordos privados
-
-A página **Oportunidades de venda conjunta** na seção **Análise** em Indicações permite conferir o desempenho de suas indicações. Revise essas métricas regularmente para ajudar a identificar tendências ou áreas que precisam de atenção e comece a direcioná-las para as suas metas de negócios.
+A página **Oportunidades de venda conjunta** na seção **Análise** em Indicações permite conferir o desempenho das suas indicações. Revise essas métricas regularmente para ajudar a identificar tendências ou áreas que precisam de atenção e comece a direcioná-las para as suas metas de negócios.
 
 Para conferir seus dados de insights sobre oportunidades de venda conjunta, acesse **Indicações > Análise > Oportunidades de venda conjunta** no menu do Partner Center.
 
@@ -32,9 +27,9 @@ Para conferir seus dados de insights sobre oportunidades de venda conjunta, aces
 
 ## <a name="apply-filters"></a>Aplicar filtros
 
-Próximo à parte superior da página **Oportunidades de venda conjunta**, será possível mostrar os dados do período que você deseja selecionar. A seleção padrão será **3M** (três meses). No entanto, em vez disso, será possível optar por mostrar dados de um período de seis meses ou um ano. Também será possível selecionar **Personalizado** para conferir os dados de todas as indicações em um período específico.
+Próximo à parte superior da página **Oportunidades de venda conjunta**, será possível mostrar os dados do período que você deseja selecionar. A seleção padrão será **3M** (três meses). No entanto, em vez disso, será possível optar por mostrar dados de seis meses ou um ano. Também será possível selecionar **Personalizado** para conferir os dados de todas as indicações em um período específico.
 
-Será possível clicar no botão Filtros para abrir o painel que permite filtrar todos os dados nesta página por Nome do cliente, País, Tipo de acordo, Direção do acordo, Nome da solução e Status. Veja abaixo mais detalhes sobre esses filtros.
+Será possível selecionar o botão **Filtros** para abrir o painel que permite filtrar todos os dados nesta página por Nome do cliente, País, Tipo de acordo, Direção do acordo, Nome da solução e Status. Veja abaixo mais detalhes sobre esses filtros.
 
 - **Nome do cliente**: o padrão será **Todos**. No entanto, será possível limitar os dados a um ou mais clientes que você selecionar.
 - **País**: o padrão será **Todos**. No entanto, será possível limitar os dados a um ou mais países do cliente que você selecionar.
@@ -43,7 +38,7 @@ Será possível clicar no botão Filtros para abrir o painel que permite filtrar
 - **Nome da solução**: o padrão será **Todos**. No entanto, será possível limitar os dados a indicações que contenham uma ou mais soluções que você selecionar.
 - **Status**: o padrão será **Todos**. No entanto, será possível limitar os dados a indicações que contenham um ou mais tipos de status da indicação que você selecionar, como aceito, recusado, expirado, perdido e conquistado.
 
-As informações de todos os gráficos listados abaixo refletem o intervalo de datas e todos os filtros selecionados, exceto pelo que é observado abaixo. Algumas seções também permitem que você aplique filtros adicionais, tais como a filtragem para uma solução específica.
+As informações de todos os gráficos listados abaixo refletem o intervalo de datas e todos os filtros selecionados, exceto pelo que é observado abaixo. Algumas seções também permitem que você aplique filtros extras, tais como a filtragem para uma solução específica.
 
 ## <a name="referrals-summary"></a>Resumo das indicações
 
@@ -63,7 +58,7 @@ Esta seção mostrará um indicador visual de como seus acordos estão mudando d
 
 ## <a name="deals-by-geography"></a>Acordos por localização
 
-Esta seção mostrará os países/as regiões de origem dos acordos, juntamente com detalhes de cada país/região. Há uma exibição de tabela com os detalhes do acordo para cada país, junto com uma exibição de mapa de todos os países. Será possível clicar em um país específico na tabela ou clicar na exibição de mapa para aplicar zoom a um país específico.
+Esta seção mostrará os países/as regiões de origem dos acordos, juntamente com detalhes de cada país/região. Há uma exibição de tabela com os detalhes do acordo para cada país, junto com uma exibição de mapa de todos os países. Será possível selecionar um país específico na tabela ou selecionar a exibição de mapa para aplicar zoom a um país específico.
 
 :::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Imagem mostrando a distribuição geográfica das indicações.":::
 
@@ -94,7 +89,7 @@ As três dimensões que você pode escolher para comparar os dados são:
 - Mercados
 - Soluções
 
-Quando o Tipo de acordo for selecionado, você terá a opção de comparar o desempenho das indicações em relação às oportunidades de venda conjunta e aos acordos privados. Para obter os mercados e as soluções, será possível escolher até três opções diferentes para comparar o desempenho de cada uma delas. O primeiro grafo, que é um gráfico de barras, terá dados apresentados com uma tendência mês a mês baseada na tabela dinâmica principal, que representa o volume ou o valor de acordos conquistados. Também há um gráfico de pizza à direita do gráfico de barras, que mostrará a distribuição por percentual para obter os mesmos dados.
+Quando o Tipo de acordo for selecionado, você poderá comparar o desempenho das indicações em relação às oportunidades de venda conjunta e aos acordos privados. Para obter os mercados e as soluções, será possível escolher até três opções diferentes para comparar o desempenho de cada uma delas. O primeiro grafo, que é um gráfico de barras, terá dados apresentados com uma tendência mês a mês baseada na tabela dinâmica principal, que representa o volume ou o valor de acordos conquistados. Também há um gráfico de pizza à direita do gráfico de barras, que mostrará a distribuição por percentual para obter os mesmos dados.
 
 :::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Imagem mostrando a seção de comparação.":::
 

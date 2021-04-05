@@ -9,18 +9,14 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f254c3353a49a8aa65703ef123e727b0a9ac4a85
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 9c0386d6cbaba1094659c76a3bd274d88e4fe948
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624129"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549100"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Renovar suas ofertas do MPN para competências e especializações avançadas durante a janela de renovação
-
-### <a name="applies-to"></a>Aplica-se a
-
-- Partner Center
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Responder à COVID-19: atualização do Microsoft Partner Network
 
@@ -42,7 +38,7 @@ Se você renovar durante a janela de renovação, a nova data de aniversário se
 
 4. Para aproveitar essa oferta, acesse **Ofertas de associação**. Talvez seja necessário pagar o valor de competência para concluir o processo, dependendo do status de compra ou renovação da sua competência.
 
-Para aproveitar a extensão, você precisa ter movido sua associação do PMC (Partner Membership Center) para a Central de Parceiros para poder renovar sua competência e pagar o valor. Se você não tiver movido sua associação, [obtenha mais informações](prepare-pmc-pc-migration.md) e [faça a transição](https://partners.microsoft.com/partnerprogram/Welcome.aspx) hoje mesmo.  
+Para aproveitar a extensão, você precisa ter movido sua associação do PMC (Partner Membership Center) para a Central de Parceiros para poder renovar sua competência e pagar o valor. Se você não tiver movido sua associação, [saiba mais](prepare-pmc-pc-migration.md) e [faça a transição](https://partners.microsoft.com/partnerprogram/Welcome.aspx) hoje mesmo.  
 
 ## <a name="next-steps"></a>Próximas etapas
 
