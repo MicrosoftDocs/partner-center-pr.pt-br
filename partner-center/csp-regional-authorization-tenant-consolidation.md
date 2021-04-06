@@ -10,19 +10,18 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ae107c005eaf6b8ff8a6d99a91075ebc560cf81
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 2171e2b10101e99bdd8d415a936ba98af65c2a1b
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006779"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502563"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instruções para a consolidação de locatários de autorização regional do CSP
 
 **Aplica-se a**
 
--  Partner Center
--  Partner Center do Microsoft Cloud for US Government
+- Partner Center do Microsoft Cloud for US Government
 
 **Funções apropriadas**
 
@@ -48,7 +47,7 @@ Você pode consolidar locatários para sua empresa. Use estas instruções para 
 
 2. Selecione **Clientes**.
 
-3. Clique em **Solicitar uma relação de revendedor**. Você verá uma mensagem de email padrão para enviar aos seus clientes. Essa mensagem contém uma URL com a ID da organização exclusiva para sua nova conta do Partner Center.
+3. Selecione **solicitar uma relação de revendedor**. Você verá uma mensagem de email padrão para enviar aos seus clientes. Essa mensagem contém uma URL com a ID da organização exclusiva para sua nova conta do Partner Center.
 
 4. **Ação do cliente:** Certifique-se de que cada um dos clientes ativos que você deseja migrar visite essa URL. Ao abrir a URL, o cliente será solicitado a entrar no portal do Office 365. O cliente entra usando a mesma ID da organização que ele usa para acessar os portais de administrador do Azure e do Office 365.
 
@@ -60,7 +59,7 @@ Os clientes serão exibidos na lista de clientes do parceiro depois que tiverem 
 
 1. Depois que o cliente assinar o contrato, você poderá recriar as assinaturas dele em seu locatário parceiro centralizado.
 
-2. No **Partner Center** , selecione **clientes**.
+2. No **Partner Center**, selecione **clientes**.
 
 3. Abra o nome da empresa do cliente que você deseja migrar.
 
@@ -70,7 +69,7 @@ Os clientes serão exibidos na lista de clientes do parceiro depois que tiverem 
 
    :::image type="content" source="images/regionalcustomer2.png" alt-text="lista de clientes":::
 
-6. Clique em **Enviar.**
+6. Selecione **Enviar.**
 
    Agora os serviços serão fornecidos para o cliente da conta de parceiro de **destino da transição**.
 
@@ -89,7 +88,7 @@ Desabilitar a assinatura de CSP sob as contas de parceiros de **destino da trans
 
 2. Abra o cliente com assinaturas para desabilitar e, em seguida, selecione a primeira oferta a ser desabilitada.
 
-3. Defina a assinatura como **suspensa** e clique em **enviar**.
+3. Defina a assinatura como **suspensa** e, em seguida, selecione **Enviar**.
 
    >[!Note]
    >A suspensão da assinatura garante que a cobrança dupla não ocorra.
@@ -102,7 +101,7 @@ Desabilitar a assinatura de CSP sob as contas de parceiros de **destino da trans
 
 ## <a name="migrating-azure-usage-based-subscriptions"></a>Migrando assinaturas baseadas em uso do Azure
 
-Ao contrário das assinaturas do CSP do Office 365, as assinaturas do CSP com base no uso do Azure não precisam ser migradas manualmente. Microsoft Azure suporte migrará as assinaturas do Azure, bem como todos os serviços ou recursos implantados da **transição de contas de** revendedor do CSP para a **transição para** a conta de revendedor do CSP. Não haverá qualquer interrupção do serviço para o cliente durante a transição.
+Ao contrário das assinaturas do CSP do Office 365, as assinaturas do CSP com base no uso do Azure não precisam ser migradas manualmente. Microsoft Azure suporte irá migrar as assinaturas do Azure e todos os serviços ou recursos implantados da **transição de contas de** revendedor do CSP para a **transição para** a conta de revendedor do CSP. Não haverá qualquer interrupção do serviço para o cliente durante a transição.
 
 1. Verifique se as contas de cliente que terão as assinaturas do Azure migradas aceitaram o contrato a ser associado à nova **transição para** a conta do CSP.
 
@@ -134,11 +133,11 @@ Ao contrário das assinaturas do CSP do Office 365, as assinaturas do CSP com ba
 
 Usando a **função Exportar**, você pode capturar as assinaturas que serão usadas em sua nova estrutura consolidada:
 
-1. Clique em **clientes** no Partner Center para ver a lista de clientes. 
+1. Selecione **clientes** no Partner Center para ver a lista de clientes. 
 
 2. Abra o nome do cliente desejado.
 
-3. Na página **Assinaturas**, clique em **Exportar Assinaturas** para exportar os detalhes das assinaturas para um arquivo do Excel.
+3. Na página **assinaturas** , selecione **Exportar assinaturas** para exportar detalhes de assinaturas para um arquivo do Excel.
 
 4. Use essa lista para recriar as assinaturas em seu novo locatário consolidado.
 

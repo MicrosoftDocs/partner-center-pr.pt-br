@@ -9,18 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dcac190570d42fa165d33226c3ad33ec836f521b
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 44f4e45b53d6da7c8ed08678f8b05719cc9c2d7a
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444624"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502439"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Cenários de cobrança comuns para parceiros do programa CSP trabalhando no Partner Center
-
-Aplica-se a:
-
-- Cobrança do programa CSP (provedor de soluções na nuvem)
 
 **Funções apropriadas**
 
@@ -29,7 +25,7 @@ Aplica-se a:
 - Agente de suporte técnico
 - Agente de vendas
 
-Estes tópicos explicam o que você deve esperar ver em sua fatura depois de adicionar novas assinaturas, ajustar o número de licenças para uma assinatura ou cancelar uma assinatura. Outros [tipos de cobrança do Partner Center](billing-different-types.md), como assinaturas baseadas em uso e de licença, são cobrados de forma diferente.
+Estes artigos explicam o que você deve esperar ver em sua fatura depois de adicionar novas assinaturas, ajustar o número de licenças para uma assinatura ou cancelar uma assinatura. Outros [tipos de cobrança do Partner Center](billing-different-types.md), como assinaturas baseadas em uso e de licença, são cobrados de forma diferente.
 
 | Tipo de cobrança | Cenários cobertos |
 | --------------- | ----------------- |

@@ -9,18 +9,14 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9b2f0b3acbbf3ad9648301b85cec3b8837e3e51e
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 9780aa80fdcaab6cfd240127b80155cbfb8dcd26
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132939"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502911"
 ---
 # <a name="create-and-manage-an-incentives-co-op-claim"></a>Criar e gerenciar uma declaração de cooperação de incentivos
-
-**Aplica-se a**
-
-- Partner Center
 
 **Funções apropriadas**
 
@@ -36,15 +32,15 @@ Você pode iniciar uma declaração de incentivos de dentro do Partner Center.
 
 3. Se você já tiver uma reivindicação em andamento, a página de visão geral das Reivindicações mostrará informações sobre o status das reivindicações existentes e dos fundos aprovados, reivindicados e os totais.
 
-4. Para criar uma nova declaração, selecione **criar uma declaração** .
+4. Para criar uma nova declaração, selecione **criar uma declaração**.
 
-5. Quando você tiver preenchido o formulário inicial e selecionado **criar declaração** , será levado para a página de detalhes da declaração, na qual você poderá adicionar notas fiscais, CSR, documentos e métricas. Você também pode incluir informações adicionais, se necessário.
+5. Quando você tiver preenchido o formulário inicial e selecionado **criar declaração**, será levado para a página de detalhes da declaração, na qual você poderá adicionar notas fiscais, CSR, documentos e métricas. Você também pode incluir informações adicionais, se necessário.
 
 A página de Detalhes da Solicitação permite solicitar que outras pessoas em sua organização carreguem documentação no formulário. Para cada um dos documentos de apoio que você carregar, é possível fornecer detalhes explicativos. 
 
 ### <a name="manage-your-claims"></a>Gerenciar suas reivindicações
 
-Você pode ver todas as atividades que vão para a criação de sua declaração no **histórico** . Cada vez que um colega adiciona um documento de suporte ou comentários sobre algo, a ação é armazenada no **histórico** . Até você enviar a reivindicação, o status será **edição** . O status de sua declaração muda à medida que percorre o processo de aprovação. Às vezes, durante a revisão de uma declaração, você pode receber comentários sobre um item específico em sua documentação de PoE (prova de execução). Os comentários e as solicitações de informações adicionais também aparecerão no histórico da reivindicação.
+Você pode ver todas as atividades que vão para a criação de sua declaração no **histórico**. Cada vez que um colega adiciona um documento de suporte ou comentários sobre algo, a ação é armazenada no **histórico**. Até você enviar a reivindicação, o status será **edição**. O status de sua declaração muda à medida que percorre o processo de aprovação. Às vezes, durante a revisão de uma declaração, você pode receber comentários sobre um item específico em sua documentação de PoE (prova de execução). Os comentários e as solicitações de informações adicionais também aparecerão no histórico da reivindicação.
 
 Você não poderá editar sua reivindicação depois de enviá-la, a menos que um revisor solicite informações adicionais.
 

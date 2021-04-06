@@ -9,26 +9,25 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 386df8e19a7c66403770f94f2656bc52feb15564
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: cf5c64893bd5a55d842b2c426d05480a5a943a36
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979559"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502894"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Aplicar-se à venda em nuvens nacionais da Microsoft como parte do programa CSP
 
 **Aplica-se a**
 
-- Partner Center para nuvem do Microsoft governamental
+- Partner Center do Microsoft Cloud for US Government
 - Partner Center para Microsoft Cloud Alemanha
-
 
 **Funções apropriadas**
 
 - Administrador global
 
-Além de vender aos clientes como parte do programa Provedor de Soluções na Nuvem global, os parceiros qualificados da Microsoft também podem vender soluções de nuvem a clientes em três nuvens nacionais diferentes. Nuvens nacionais são instâncias físicas e lógicas isoladas de rede dos serviços de nuvem corporativos da Microsoft, que estão confinadas dentro das fronteiras geográficas de países específicos e são operadas por uma equipe local. 
+Além de vender aos clientes como parte do programa Provedor de Soluções na Nuvem global, os parceiros qualificados da Microsoft também podem vender soluções de nuvem a clientes em três nuvens nacionais diferentes. Nuvens nacionais são instâncias físicas e lógicas isoladas de rede dos serviços de nuvem corporativos da Microsoft, que estão confinadas dentro das fronteiras geográficas de países específicos e são operadas por uma equipe local.
 
 Para obter mais informações sobre as ofertas de nuvens nacionais da Microsoft, consulte [Nuvens nacionais da Microsoft](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud).
 
@@ -56,7 +55,7 @@ Parceiros qualificados podem vender soluções na nuvem da Microsoft para os cli
     
 -   [**Azure e Office 365 operados pela 21Vianet na China**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) A Microsoft fornece serviços de nuvem na China através de uma parceria exclusiva com a Shanghai Blue Cloud Technology Co., Ltd. (21Vianet), uma subsidiária integral da Beijing 21Vianet Broadband Data Center Co., Ltd. 21Vianet é a maior provedora de Internet com neutralidade de operadora a oferecer serviços de infraestrutura de computação em nuvem, rede gerenciada, hospedagem e datacenter na China. 
 
-    A Microsoft é o provedor de tecnologia, mas não opera o serviço; a 21Vianet opera, fornece e gerencia a entrega dos serviços em nuvem da Microsoft de forma independente. Ao licenciar tecnologias da Microsoft, a 21Vianet pode oferecer serviços e operar datacenters do Azure e Office 365 que mantêm os dados dentro da China continental. A 21Vianet também fornece serviços de cobrança e assinatura, bem como suporte.
+    A Microsoft é o provedor de tecnologia, mas não opera o serviço; a 21Vianet opera, fornece e gerencia a entrega dos serviços em nuvem da Microsoft de forma independente. Ao licenciar tecnologias da Microsoft, a 21Vianet pode oferecer serviços e operar datacenters do Azure e Office 365 que mantêm os dados dentro da China continental. a 21Vianet também fornece serviços de assinatura e cobrança e suporte.
 
     Para obter informações sobre como se inscrever e vender para clientes no Azure e Office 365 operados pela 21Vianet na China, consulte [Partner Center operado pela 21Vianet](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11)).
 

@@ -4,25 +4,23 @@ ms.topic: how-to
 ms.date: 07/22/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como vender suas assinaturas de clientes para produtos publicados pela Microsoft, bem como produtos de SaaS publicados por ISVs de terceiros.
+description: Saiba como vender assinaturas para seus clientes para produtos publicados pela Microsoft, bem como produtos de SaaS publicados por ISVs de terceiros.
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 85a40974557817825d58246c2c010c7cf8a6a5e1
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 559d1fbd2efc1417ae89931279b9d3c9a1d67f7c
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038873"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502928"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Criar, suspender ou cancelar assinaturas de clientes
 
 **Aplica-se a**
 
-- Partner Center
 - Partner Center do Microsoft Cloud for US Government
-- Parceiros CSP
 
 **Funções apropriadas**
 
@@ -32,7 +30,7 @@ ms.locfileid: "96038873"
 - Agente de suporte técnico
 - Agente de vendas
 
-Depois de criar um registro de seu cliente no Partner Center, você pode vender as assinaturas para os produtos no catálogo. Isso inclui produtos publicados pela Microsoft, bem como produtos SaaS (software como serviço) publicados por ISVs (fornecedores de software independentes) de terceiros no [mercado comercial](https://azuremarketplace.microsoft.com/marketplace).
+Depois de criar um registro de seu cliente no Partner Center, você pode vender as assinaturas para os produtos no catálogo. Isso inclui produtos publicados pela Microsoft e por produtos SaaS (software como serviço) publicados por ISVs (fornecedores de software independentes) de terceiros no [mercado comercial](https://azuremarketplace.microsoft.com/marketplace).
 
 Algumas ofertas são limitadas a uma assinatura por cliente. Para ver uma lista das ofertas restritas, visite a página Ofertas e Preços do Partner Center.
 
@@ -80,7 +78,7 @@ Algumas ofertas são limitadas a uma assinatura por cliente. Para ver uma lista 
    
 ## <a name="update-subscriptions-with-add-ons"></a>Atualizar assinaturas com complementos 
 
-Para comprar um complemento, o cliente precisará primeiro ter uma assinatura base ativa.  Você não pode comprar complementos pelo catálogo.
+Para comprar um complemento, o cliente deve primeiro ter uma assinatura base ativa.  Você não pode comprar complementos pelo catálogo.
 
 1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
@@ -93,7 +91,7 @@ Para comprar um complemento, o cliente precisará primeiro ter uma assinatura ba
 5. Atualize a quantidade de licenças para cada complemento necessário. **Envie** suas alterações.
 
 A capacidade de comprar Complementos por meio do Partner Center só está disponível para provedores diretos de fatura e indiretos.
-Somente Complementos qualificados são exibidos com base nos requisitos básicos e na disponibilidade regional. Consulte a matriz de ofertas do revendedor de nuvem para mais informações sobre preços e ofertas.  Suspender a assinatura base fará com que os complementos associados sejam suspensos.
+Somente Complementos qualificados são exibidos com base nos requisitos básicos e na disponibilidade regional. Para obter mais informações sobre preços e ofertas, consulte a matriz de oferta de revendedor de nuvem. Suspender a assinatura base fará com que os complementos associados sejam suspensos.
 
 As datas de início dos complementos estão alinhadas à assinatura base e as cobranças são calculadas da data de início à data de término de cobrança, com taxas proporcionais na primeira fatura. Para obter informações adicionais, consulte [cobrança baseada em licença](license-based-billing.md).
 
@@ -120,7 +118,7 @@ Quando você suspende uma assinatura, a data que você vê abaixo **do** botão 
 
 ### <a name="cancel-a-subscription"></a>Cancelar uma assinatura
 
-Você tem a opção de cancelar assinaturas de SaaS baseadas em licença de editores de ISVs de terceiros no [Marketplace comercial](csp-commercial-marketplace-overview.md)do Partner Center. Desde que você Cancele dentro do período de cancelamento, você receberá um reembolso total.
+Você pode cancelar assinaturas SaaS baseadas em licenças de editores de ISVs de terceiros no [Marketplace comercial](csp-commercial-marketplace-overview.md)do Partner Center. Desde que você Cancele dentro do período de cancelamento, você receberá um reembolso total.
 
 Para ofertas de ISV cobradas mensalmente:
 
