@@ -7,24 +7,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5817e5bb010cee0ab280c83408167f28915a6237
-ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
+ms.openlocfilehash: 411932923e6bd35732e64521abe567f40f7499e9
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "90594451"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441482"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Impostos regionais, regulamentos para serviços PTSN (rede telefônica pública comutada)
 
-**Aplica-se a**
-
-- Partner Center
-- Parceiros do Office 365 transagindo Microsoft 365 produtos de voz
-
 **Funções apropriadas**
--    Administrador global
--    Administrador de usuários
--    Agente administrativo
+
+- Administrador global
+- Administrador de usuários
+- Agente administrativo
 
 Os serviços de rede telefônica pública comutada (PSTN) em algumas jurisdições podem estar sujeitos a requisitos especiais de impostos e regulamentares que podem afetar a ordem e o faturamento do parceiro. No Estados Unidos, incluindo Porto Rico, os serviços PSTN, que incluem a conferência de áudio, planos de chamada e créditos de comunicação, estão sujeitos a requisitos especiais de impostos e regulamentares. No Estados Unidos e Porto Rico, a Microsoft preços os serviços PSTN como impostos sobre o imposto.  Os impostos e as regulamentações de PSTN exclusivos afetarão os parceiros do Office 365 transformando Microsoft 365 produtos de voz.  Se um parceiro marcar o preço de um serviço PSTN da Microsoft, ele poderá ser responsável pelo cálculo e remissão de impostos e taxas do PSTN.
 
@@ -34,7 +30,7 @@ Envolva seu imposto e seu conselho jurídico para entender a responsabilidade da
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Apresentação de nota fiscal e arquivo de reconciliação do parceiro
 
-As notas fiscais do CSP e os arquivos de reconciliação do CSP no Estados Unidos, Porto Rico e Canadá que incluem o Skype for Business PSTN e Microsoft 365 Voice Services fornecerão itens de linha separados para os componentes PSTN e não PSTN.
+As notas fiscais do CSP e os arquivos de reconciliação do CSP no Estados Unidos, Porto Rico e Canadá, que incluem o PSTN do Skype for Business e os serviços de voz Microsoft 365, fornecerão itens de linha separados para os componentes PSTN e não PSTN.
 
 Além disso, as notas fiscais do CSP exibirão a seguinte nota de rodapé:
 

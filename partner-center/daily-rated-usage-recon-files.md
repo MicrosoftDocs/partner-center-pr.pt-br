@@ -3,22 +3,23 @@ title: Arquivos de reconciliação de uso com classificação diária
 ms.topic: article
 ms.date: 06/12/2020
 description: Saiba como ler arquivos de reconciliação de uso com classificação diária no Partner Center. Inclui descrições para campos específicos no arquivo reconhecimento.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 531f28ae2bceed2d854c6fb139d0abb837a047b5
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 89080cb580d9b451454d108c6ef0ce0a08c1bf0c
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712232"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441890"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Saiba como ler arquivos de reconciliação de uso com classificação diária no Partner Center
 
 **Aplica-se a**
 
-- Partner Center
 - Partner Center do Microsoft Cloud for US Government
 
 **Funções apropriadas**
@@ -79,7 +80,7 @@ Este artigo explica como ler arquivos de reconciliação de uso com classificaç
 | PricingCurrency | A moeda na lista de preços. |
 | ServiceInfo1 | O número de conexões do barramento de serviço que foram provisionadas e usadas em um determinado dia. |
 | ServiceInfo2 | Um campo herdado que captura metadados específicos do serviço opcionais. |
-| Marcas | Representa uma organização lógica dos recursos do Azure definidos pelo usuário. |
+| Marcações | Representa uma organização lógica dos recursos do Azure definidos pelo usuário. |
 | AdditionalInfo | Informações adicionais não abordadas em outras colunas. |
 | EffectiveUnitPrice | O valor real cobrado por unidade, incluindo descontos, crédito acumulado e assim por diante. |
 | PCToBCExchangeRate | Taxa de câmbio aplicada para a moeda de preço à moeda de cobrança. |

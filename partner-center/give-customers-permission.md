@@ -9,19 +9,14 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19f86ec5353abc21e14a3a8ac2ef17dd17924cfe
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4feaa8cba8ba17f553b5e936dcf892ffbf7ccc82
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000460"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441295"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Dê permissão aos clientes no Partner Center para comprar seus próprios produtos ou serviços
-
-**Aplica-se a**
-
-- Partner Center
-- Parceiros no programa CSP
 
 **Funções apropriadas**
 
@@ -119,7 +114,7 @@ Para ativar (ou desativar) as permissões de cliente no Partner Center:
 
 1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
-2. No menu de navegação à esquerda, selecione **CSP**e, em seguida, **clientes**. Uma lista de clientes é exibida.
+2. No menu de navegação à esquerda, selecione **CSP** e, em seguida, **clientes**. Uma lista de clientes é exibida.
 
 3. Selecione um nome de cliente específico.
 

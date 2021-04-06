@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19e7cf9442660a24d36b5f7c20fab156fdc0d59a
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 3aec8c8abe6184be48fd54e0f76bc7e0c08e4792
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626058"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441873"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Use a análise para saber mais sobre a receita da assinatura
 
@@ -38,7 +38,7 @@ Planejar formas de desenvolver seus negócios CSP inclui entender como seus clie
 
 A receita do CSP de 12 meses à direita representa a receita do programa do provedor de soluções na nuvem à direita em USD em um nível de conta global do parceiro. Os dados são atualizados no oitavo de cada mês, para exibir a receita de doze meses à direita até o mês anterior. Por exemplo, em 9 de setembro de 2020, você poderá ver o TTM do período fixo de 2019 de setembro a 2020 de agosto.
 
-A receita exibida no Partner Center é calculada por um intervalo de tempo fixo de doze meses e não pode ser modificada para um período de tempo menor.
+A receita exibida no Partner Center é calculada por um intervalo de tempo fixo de 12 meses e não pode ser modificada para um período de tempo menor.
 
 Para ver uma análise da receita no nível de conta do local do parceiro:
 
@@ -51,14 +51,14 @@ Para ver uma análise da receita no nível de conta do local do parceiro:
 
 A metade inferior da tela exibe um resumo das assinaturas. Use os filtros a seguir para ver os detalhes de assinatura necessários:  
 
-1. **Duração** : você pode optar por ver o resumo da assinatura para 
+1. **Duração**: você pode optar por ver o resumo da assinatura para 
 
 - 30D – últimos 30 dias
 - 3M – últimos 3 meses
 - 6 minutos – últimos 6 meses
 - 12M – últimos 12 meses
 
-2. **Tipo de Produto** :
+2. **Tipo de Produto**:
  
 - Office 365
 - Microsoft 365

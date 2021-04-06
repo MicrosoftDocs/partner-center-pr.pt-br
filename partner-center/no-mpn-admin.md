@@ -9,18 +9,20 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03cd603cf65b1e999cf95fd10d76e6ccc6c403e8
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 3702ebd5a9421036a053a9a142a2f40d3e488137
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999330"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441992"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>O que fazer se o único administrador de seu programa MPN tiver deixado a empresa?
 
-**Aplica-se a**
+**Funções apropriadas**
 
-- Partner Center
+- Administrador de parceiros do MPN
+- Administrador de conta
+- Administrador global
 
 O artigo a seguir orienta você por três cenários típicos sobre o que fazer se o administrador do MPN tiver deixado a empresa.
 

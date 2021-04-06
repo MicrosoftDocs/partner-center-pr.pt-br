@@ -9,18 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 33955d85e4b3bd713d15807911067c643d12c912
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 2b009d7131f9d6941513a04e866006d1908ba741
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549168"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441635"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Ferramenta de diagnóstico e solicitações do portal do Partner Center
 
 **Aplica-se a**
 
-- Partner Center para nuvem do Microsoft governamental
+- Partner Center do Microsoft Cloud for US Government
 
 **Funções apropriadas**
 
@@ -57,7 +57,7 @@ Se o problema exigir uma conversa com o defensor do suporte, você poderá agend
 
 1. Quando você agenda um compromisso, o Partner Center envia a você um convite de calendário com informações sobre como o defensor do suporte entrará em contato com você, para que você possa acompanhar esse compromisso em seu próprio calendário de trabalho.  Embora essa funcionalidade ainda esteja em versão prévia, o convite por email e calendário estará em inglês, mas o defensor será capaz de dar suporte a você no idioma que você selecionou ao criar seu tíquete.
 
-:::image type="content" source="images/support/ticket3.png" alt-text="Data e Hora":::
+:::image type="content" source="images/support/ticket3.png" alt-text="Data e hora":::
 
 ## <a name="hours-of-operation"></a>Horas de operação
 

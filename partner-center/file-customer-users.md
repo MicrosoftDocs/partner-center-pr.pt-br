@@ -9,18 +9,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07a28e5310716f3df11caa36e51339e877e65627
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 8ba08d97f1d360eae5af1941ed36753addd24939
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87528173"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441414"
 ---
 # <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>Adicionar vários usuários a uma conta de cliente criando um arquivo. csv
-
-**Aplica-se a**
-
-- Partner Center
 
 **Funções apropriadas**
 
@@ -46,8 +42,8 @@ Insira os seguintes dados no arquivo de dados:
 | Sobrenome  | Sobrenome do usuário (campo opcional)  | limite de 50 caracteres  |
 | Nome de exibição    | Nome exibido no Partner Center (campo obrigatório)                            | limite de 50 caracteres                         |
 | Email   | Endereço de email comercial do usuário na empresa do cliente (campo obrigatório)           | Cada usuário deve ter um endereço de e-mail exclusivo |
-| Atualização de status   | Usado para indicar se o novo registro de usuário foi ou não criado com êxito | \*\*Deixar vazio\*\*                        |
+| Atualização de status   | Usado para indicar se o novo registro de usuário foi criado com êxito | \*\*Deixar vazio\*\*                        |
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Como adicionar vários usuários a um cliente](adding-multiple-users-to-a-customer-account.md)
+- [Como adicionar vários usuários para um cliente](adding-multiple-users-to-a-customer-account.md)
