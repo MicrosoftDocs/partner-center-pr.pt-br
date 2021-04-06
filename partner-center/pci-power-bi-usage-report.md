@@ -8,16 +8,17 @@ description: Veja o que você está fazendo bem e onde você pode melhorar a res
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 03224c029104101c2187d07bfce720294e43cf88
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: e05ea33665ded2e52eae2ef8f096b30d3bfe9ee5
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146561"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086287"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI relatório de uso disponível no painel do recepções do Partner Center
 
 **Funções apropriadas**
+
 - Administrador global
 - Agente administrativo
 - Visualizador de relatórios
