@@ -1,7 +1,7 @@
 ---
 title: Gerenciar locais na sua conta de parceiro
 ms.topic: how-to
-ms.date: 02/08/2021
+ms.date: 04/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como adicionar um novo local e como a ID do MPN do local é usada em programas de incentivo, negócios do CSP, assinaturas e outras transações.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 41ffaeaf0fb46659142949872295523546bb91c1
-ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
+ms.openlocfilehash: 7ca8c866479fbe153c1e0192edd33e8258b9d6e7
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "100005901"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441313"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Gerenciar os locais da sua conta do MPN e adicionar (ou excluir) um local
 
@@ -26,9 +26,9 @@ ms.locfileid: "100005901"
 
 A ID de MPN do local identifica cada local específico de sua empresa. Você usa a ID de MPN de local para se registrar em programas de incentivo, para fazer transações com empresas do CSP (Provedor de Soluções na Nuvem) e para fazer outras transações de negócios. A ID de MPN global é usada para atividades não transacionais, como solicitações de suporte.
 
-## <a name="the-following-is-a-typical-scenario"></a>O seguinte é um cenário típico:
+## <a name="the-following-scenario-is-typical"></a>O seguinte cenário é típico:
 
-A Contoso tem sua PGA (Conta global de parceiro) no Reino Unido. Trata-se de seus negócios jurídicos registrados e sua ID de MPN global é usada para gerenciar todos os negócios não transacionais. A Contoso também tem PLAs (Contas de local de parceiro) equivalentes a subsidiárias ou a divisões em outros locais do Reino Unido, da França e dos EUA. Na estrutura de Conta do MPN, essas PLAs são representadas como IDs de MPN de local exclusivas. As PLAs são usadas para negócios transacionais, como programas de CSP ou de incentivos. Os pagamentos são vinculados a locais específicos. 
+A Contoso tem sua PGA (Conta global de parceiro) no Reino Unido. A PGA é o negócio jurídico registrado deles e a ID global do MPN da empresa é usada para gerenciar todos os negócios não transacionais. A Contoso também tem PLAs (Contas de local de parceiro) equivalentes a subsidiárias ou a divisões em outros locais do Reino Unido, da França e dos EUA. Na estrutura de Conta do MPN, essas PLAs são representadas como IDs de MPN de local exclusivas. As PLAs são usadas para negócios transacionais, como programas de CSP ou de incentivos. Os pagamentos são vinculados a locais específicos. 
 
 >[!NOTE]
 >Há uma relação um-para-um entre um locatário do CSP e uma ID de local do MPN.
@@ -56,13 +56,32 @@ Para adicionar uma nova conta para o negócio do CSP, primeiro verifique se voc�
  
 1. No ícone **Configurações**, selecione **Configurações da conta**, **Perfil da organização**, **Legal**. 
 
-1. Na guia **Parceiro**, verifique se não há uma mensagem de erro de banner solicitando que você corrija os locais migrados do PMC. Se houver, siga as instruções e corrija esses locais. 
+1. Na guia **Parceiro**, verifique se não há uma mensagem de erro de banner solicitando que você corrija os locais migrados do PMC.  Se os locais não tiverem sido configurados corretamente no PMC e ainda não tiverem sido transferidos para o PC, será necessário atualizar esses locais.
 
-3. Se não houver uma mensagem de erro, em **Configurações**, selecione **Configurações da Conta**, **Perfil da organização**, **Identificadores**.
+:::image type="content" source="images/locations/location-two.png" alt-text="A captura de tela mostra como atualizar o local.":::
+ 
+4.  Na tela **Examinar locais do PMC**, selecione **Atualizar**.
+Atualize os seguintes campos:
 
-4. Localize a ID do MPN com o tipo "local" que corresponde ao país dessa conta do CSP e use-a para pesquisar abaixo e concluir a associação.
+- **Campo Nome**: verifique se o nome do local da empresa está correto. Se for exibido um erro de duplicação, tente mudar, por exemplo, de Contoso para Contoso, Inc.
 
-5. Se você não encontrar a ID do MPN do local que corresponde à conta do CSP que deseja usar, será possível adicionar um novo local que criará uma ID do MPN. Confira **Adicionar um local do MPN** abaixo.
+- **Campo Pessoa jurídica**: verifique se você escolheu a pessoa jurídica à qual o local está vinculado
+
+- **Campos Linhas 1 e 2 de endereço**: verifique se o endereço está correto
+
+- **Campos Cidade e Estado/Província**: verifique se a combinação entre cidade e estado/província está correta. Para alguns países, será fornecido um menu suspenso para escolha de estado/província; para outros países, esse campo deverá ser preenchido manualmente.
+
+- **Campo CEP/Código postal**: verifique se o campo CEP corresponde ao país, à região, à cidade ou ao endereço indicado.
+
+- **Campos de Informações de contato principal**: verifique se os campos Nome e Sobrenome estão preenchidos e se o endereço de email indicado é de trabalho e não pessoal (por exemplo: @outlook.com, @live.com etc.)
+
+- **Campo Número de telefone**: verifique se o número de telefone NÃO contém caracteres especiais, espaços ou o código do país. O valor inserido no campo Número de telefone deverá conter sempre o máximo de 10 caracteres.
+
+5. Se não houver uma mensagem de erro, em **Configurações**, selecione **Configurações da Conta**, **Perfil da organização**, **Identificadores**.
+
+6. Localize a ID do MPN com o tipo "Local" que corresponde ao país dessa conta do CSP e use-a para concluir a associação.
+
+7. Se você não encontrar a ID do MPN do local que corresponda à conta do CSP que você deseja usar, será possível adicionar um local, que criará uma ID do MPN. Confira **Adicionar um local do MPN** abaixo.
 
 ## <a name="add-an-mpn-location"></a>Adicionar um local do MPN
 
@@ -81,9 +100,10 @@ Para adicionar uma nova conta para o negócio do CSP, primeiro verifique se voc�
 > [!NOTE]
 > Depois que um local for adicionado no Partner Center, você não poderá removê-lo. Você verá **MPN** no menu à esquerda do Partner Center se tiver usado a ID de MPN correta para entrar.
 
+
 ## <a name="delete-a-location"></a>Excluir um local
 
-Para excluir um local de sua conta, você precisará entrar em contato com o [Suporte a Parceiros](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b). Verifique se você entendeu o impacto que essa ação tem. Os locais excluídos não podem ser recuperados e qualquer coisa associada a essa ID de MPN específica não será mais reconhecida nem estará ativa para sua empresa.
+Para excluir um local da sua conta, será necessário entrar em contato com o [Suporte a Parceiros](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b). Verifique se você entendeu o impacto que essa ação tem. Os locais excluídos não podem ser recuperados e qualquer coisa associada a essa ID de MPN específica não será mais reconhecida nem estará ativa para sua empresa.
 
 ## <a name="change-country-of-partner-global-account"></a>Alterar o país da conta global do parceiro 
 

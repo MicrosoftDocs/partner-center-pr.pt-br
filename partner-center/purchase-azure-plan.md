@@ -9,16 +9,17 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7645495e481010a92cc4f9cd95bf26f5e3783b70
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: ec74076281d4c8e65de6818281a2852df264732c
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633821"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441618"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Adquira o plano do Azure para clientes e acesse os serviços mais recentes do Azure com taxas pré-pagas
 
 **Funções apropriadas**
+
 - Administrador global
 - Administrador de gerenciamento de usuário
 - Agente de vendas
