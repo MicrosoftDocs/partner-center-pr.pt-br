@@ -9,19 +9,19 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 56a8438ad2503ab22151ed4da7e8ef4b43794543
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: a60b75c9eee3601b488fd52fe22b4d2551b526e3
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474131"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557742"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Consultores: criar uma oferta de compra
 
  
 **Funções apropriadas**
 
-- Consultores
+- Supervisor
 
 
 > [!NOTE]
@@ -48,7 +48,7 @@ Se o cliente quiser um número diferente de licenças, envie-a uma nova oferta o
     - **Contagem de licenças**: quando você seleciona uma assinatura, digite o número de licenças que deseja incluir na oferta de compra.
     - **Administração delegada**: essa opção só está disponível para parceiros que estão certificados para oferecer administração delegada. Escolha esta opção se desejar oferecer a administração delegada do cliente. Se você fizer isso, o cliente poderá aceitar a oferta de compra com ou sem a aceitação da administração delegada.
 
-3. Clique em **Próximo**.
+3. Selecione **Avançar**.
 
 4. Na página **Enviar** , copie as informações e a URL da oferta de compra e cole-as em um email, um documento ou uma página da Web para criar uma oferta de compra personalizada.
 

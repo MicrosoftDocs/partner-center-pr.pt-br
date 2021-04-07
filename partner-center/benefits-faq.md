@@ -9,18 +9,18 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: f4ed4fe8946c6cacba1277921aececd84863c465
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 8a81e287412394427003e489352312faba6984b9
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514690"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557691"
 ---
 # <a name="benefits-faq"></a>Perguntas frequentes sobre os benefícios
 
 **Funções apropriadas**
 
-- Administrador do MPN
+- Administrador de parceiros do MPN
 
 Muitas perguntas comuns sobre os benefícios de Microsoft Partner Network (MPN) são abordadas neste artigo.
 
@@ -79,7 +79,7 @@ Não. As licenças de produto são emitidas para fins de demonstração. Seus fu
 
 ### <a name="q-im-having-trouble-assigning-users-in-azure-bulk-credit-what-should-i-do"></a>Q. Estou tendo problemas para atribuir usuários no crédito em massa do Azure. O que devo fazer
 
-Você não pode combinar ofertas de crédito em massa do Azure com outras ofertas. Se uma atribuição de usuário não estiver funcionando, provavelmente significa que o usuário que você deseja atribuir já está usando outras ofertas de licenciamento, pré-pagas ou de crédito, como o Microsoft Enterprise Agreement, o parceiro de solução de nuvem, Azure via Open, Azure Pass, Action Pack, etc. Se o usuário não tiver se inscrito em nenhum desses contratos ou planos e você ainda não puder atribuí-los, entre em contato com Suporte da Microsoft.
+Você não pode combinar ofertas de crédito em massa do Azure com outras ofertas. Se uma atribuição de usuário não estiver funcionando, provavelmente significa que o usuário que você deseja atribuir já está usando outras ofertas de licenciamento, pré-pagas ou de crédito, como o Microsoft Contrato Enterprise, o parceiro de solução de nuvem, Azure via Open, Azure Pass, Action Pack, etc. Se o usuário não tiver se inscrito em nenhum desses contratos ou planos e você ainda não puder atribuí-los, entre em contato com Suporte da Microsoft.
 
 ## <a name="visual-studio-benefits"></a>Benefícios do Visual Studio
 

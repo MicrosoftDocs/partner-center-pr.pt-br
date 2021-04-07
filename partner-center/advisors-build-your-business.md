@@ -9,19 +9,19 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 31d8be49e0270f32c472f3fbe0a54d5ceadc9098
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474165"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557725"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Consultores: Crie sua base de clientes com convites para avaliação do Office 365 e ofertas de compra
 
 
 **Funções apropriadas**
 
-- Consultores
+- Supervisor
 
 
 Como um Microsoft Advisor autorizado, o **Partner Center** oferece a você uma oportunidade de aumentar sua base de clientes e criar relações duradouras com seus clientes. Com o Partner Center, você pode enviar seus convites para avaliação de clientes e ofertas de compra e oferecer a eles serviços de administração delegados, dependendo dos serviços que você está autorizado a fornecer.
@@ -45,7 +45,7 @@ Para obter mais informações sobre convites de avaliação, consulte [criar um 
 > [!NOTE]
 > Esse recurso está disponível somente para parceiros da Microsoft que são consultores de assinatura autorizados.
 
-Depois que você enviar um convite para avaliação, contate seus clientes com uma oferta de compra. Você pode personalizar uma oferta para que ela inclua os serviços específicos de que seu cliente precisa, bem como o número correto de licenças de usuário. Se você estiver certificado para oferecer administração delegada, poderá adicionar uma opção à oferta de compra que permite administrar a assinatura em nome do cliente.
+Depois que você enviar um convite para avaliação, contate seus clientes com uma oferta de compra. Você pode personalizar uma oferta para que ela inclua os serviços específicos de que seu cliente precisa e o número correto de licenças de usuário. Se você estiver certificado para oferecer administração delegada, poderá adicionar uma opção à oferta de compra que permite administrar a assinatura em nome do cliente.
 
 Quando você cria a oferta de compra, uma URL personalizada é criada para você. A URL tem um código inserido que identifica você como o supervisor de assinatura. Você pode usar essa URL para um cliente ou muitos clientes. Envie a URL para o cliente em um email ou poste-a em seu site.
 

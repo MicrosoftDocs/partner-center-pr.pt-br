@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: e180485a6ee769c911b3d2119869661ea118ccc1
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 8c6f6cb5ba700618aebe773cffd566e4077a676d
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474148"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557708"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Consultores: Crie e envie um convite de avaliação para que os clientes experimentem o Office 365
 
 
 **Funções apropriadas**
 
-- Consultores
+- Supervisor
 
 > [!NOTE]
 > Esse recurso está disponível somente para parceiros da Microsoft que são consultores de assinatura autorizados.
@@ -44,7 +44,7 @@ Se você estiver certificado para oferecer administração delegada, poderá adi
     - **Assinaturas de avaliação**: a lista de assinaturas de avaliação que você pode escolher é determinada pelo local de uso do país ou da região do seu cliente.
     - **Administração delegada**: essa opção só está disponível para parceiros que estão certificados para oferecer administração delegada. Escolha esta opção se desejar oferecer a administração delegada do cliente. Se você fizer isso, o cliente poderá aceitar o convite de avaliação com ou sem a aceitação da administração delegada. Para obter mais informações sobre administração delegada, consulte [oferecer administração delegada](customers-revoke-admin-privileges.md).
 
-3. Clique em **Próximo**.
+3. Selecione **Avançar**.
 
 4. Na página **convite para avaliação** , copie as informações e a URL do convite de avaliação e cole-as em um email, um documento ou uma página da Web para criar um convite de avaliação personalizado.
 
