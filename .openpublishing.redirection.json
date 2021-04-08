@@ -379,8 +379,12 @@
     "source_path": "partner-center/attest-acceptance-customer-agreement.md",
     "redirect_url": "/partner-center/confirm-customer-agreement",
     "redirect_document_id": "False"
+  },
+  {
+    "source_path": "partner-center/billing-different-types.md",
+    "redirect_url": "/partner-center/billing-basics",
+    "redirect_document_id": "False"
   }
-
   
  ]
 }
