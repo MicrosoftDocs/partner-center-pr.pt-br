@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 44f4e45b53d6da7c8ed08678f8b05719cc9c2d7a
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 132a44e1e81f28dd28bdcd95cee209cb5c046ff6
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502439"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964392"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Cenários de cobrança comuns para parceiros do programa CSP trabalhando no Partner Center
 
@@ -26,6 +26,22 @@ ms.locfileid: "106502439"
 - Agente de vendas
 
 Estes artigos explicam o que você deve esperar ver em sua fatura depois de adicionar novas assinaturas, ajustar o número de licenças para uma assinatura ou cancelar uma assinatura. Outros [tipos de cobrança do Partner Center](billing-different-types.md), como assinaturas baseadas em uso e de licença, são cobrados de forma diferente.
+
+
+## <a name="change-billing-frequency"></a>Alterar a frequência de cobrança
+
+A frequência de cobrança é alterada no nível do pedido e, depois que a frequência for alterada, o ciclo de cobrança revisado será aplicado a todas as assinaturas desse pedido. 
+
+Para alterar a frequência de cobrança de um serviço online para um cliente:
+
+1. [Entre no painel do Partner Center](https://partner.microsoft.com/dashboard/home).
+2. No menu à esquerda, escolha **Clientes**.
+3. Selecione o cliente cuja frequência de cobrança de assinatura você deseja alterar.
+4. Na página **Assinaturas** do cliente, selecione a assinatura que você deseja alterar.
+5. Na página **Detalhes**, em **Frequência de cobrança**, selecione **Mensal** ou **Anual**. Você verá uma página de confirmação com informações importantes sobre como alterar a frequência de cobrança, bem como uma lista das assinaturas a serem alteradas.
+6. Escolha **OK** para fazer a alteração (ou **Cancelar** para desfazê-la).
+
+## <a name="billing-scenarios"></a>Cenários de cobrança
 
 | Tipo de cobrança | Cenários cobertos |
 | --------------- | ----------------- |

@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80f7882da44c8072db1dd287f6fbee4f79341d29
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: db9166b0d2c4fe1c9f61921a9632c9704eaca74d
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570151"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964380"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Crie um perfil empresarial para obter leads de vendas da Microsoft e ajudar os clientes a encontrá-lo
 
@@ -84,16 +84,7 @@ Comece adicionando suas próprias marcações na seção de Competência do Parc
 
 Outras marcações usadas em pesquisa:
 
--  **Marcações de competência** são uma designação obtida através da apresentação das habilidades da sua empresa.
--  **Marcações de endosso** são obtidas quando a Microsoft ou seus clientes que trabalharam com você endossam seu trabalho.
-
-#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a>Permitir que a Microsoft endosse minhas áreas de conhecimento
-
-É recomendável deixar essa configuração marcada. 
-
-Conforme demonstra sucesso com os clientes por meio do Partner Center ou por meio da participação em outras certificações da Microsoft ou programas, adicionaremos automaticamente endossos para seus produtos específicos, serviços e setores contribuindo para esse sucesso. Os endossos são um fator importante nos resultados da pesquisa.
-
-No entanto, se existirem produtos para os quais você fornece serviços que não deseja que sejam mostrados em seu perfil, será possível desmarcar essa caixa de seleção e gerenciar seu perfil manualmente. Esses endossos ficarão ocultos na sua exibição de clientes, mas você poderá adicioná-los ao seu perfil posteriormente, a qualquer momento.
+- **Marcações de competência** são uma designação obtida através da apresentação das habilidades da sua empresa.
 
 ### <a name="customer-preferences"></a>Preferências do cliente
 
@@ -121,13 +112,12 @@ Se você tiver cinco locais principais e precisar alterar um deles, **Exclua** o
 
 Depois que você publicar o seu perfil, as atualizações aparecerão nas pesquisas [Encontrar um parceiro](https://www.microsoft.com/solution-providers/home) dentro de 24 horas.
 
-## <a name="improve-the-visibility-of-your-profile"></a>Melhorar a visibilidade do seu perfil 
+## <a name="improve-the-visibility-of-your-profile"></a>Melhorar a visibilidade do seu perfil
 
 - **[Responda rapidamente às solicitações](manage-leads.md)** . Quando você receber uma indicação de cliente, uma resposta mais rápida pode levar a resultados melhores nas páginas de pesquisa para clientes futuros.
 
 - **Seja seletivo com suas marcações**.  É melhor ter menos marcações que representam melhor as ofertas, as soluções, as propostas de valor e a posição exclusiva da sua empresa, com as quais você possa demonstrar sucesso constante.  Isso trará benefícios nos resultados de pesquisa futuros.
 - **Conquiste marcações de competência** por meio da Microsoft para demonstrar suas habilidades em nossos produtos.
-- **Ganhe marcações de endosso** de clientes que apreciam seu trabalho.
 
 ## <a name="next-steps"></a>Próximas etapas
 

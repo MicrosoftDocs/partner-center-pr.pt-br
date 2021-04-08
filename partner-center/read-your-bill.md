@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: e93bc59d4ddb8ac2323807a716d7ba6404b00fce
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215808"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964350"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Entenda sua fatura e seu arquivo de reconciliação-saiba como encontrá-las no Partner Center
 
@@ -27,6 +27,20 @@ ms.locfileid: "98215808"
 
 
 Sua **fatura** é um **Resumo de todos os seus encargos do Partner Center** (em todo o programa, todos os produtos e todos os clientes). 
+
+## <a name="find-your-bill-and-reconciliation-file"></a>Localizar sua fatura e o arquivo de reconciliação 
+
+Você pode encontrar sua fatura na página de cobrança do painel no Partner Center. Você também pode encontrar seu histórico de cobrança, tendências de gastos e arquivos de reconciliação nesta página. 
+
+1. Entre no [painel](https://partner.microsoft.com/dashboard/home) do Partner Center. 
+
+2. No menu à esquerda, selecione **cobrança**. 
+
+3. Na página de status da cobrança, selecione uma nota fiscal ou um arquivo de reconciliação para exibir informações mais detalhadas. 
+
+Você pode encontrar um link para a fatura mais recente na parte superior da página em saldo de conta até a data da última nota fiscal. 
+
+Você pode encontrar notas fiscais anteriores na seção Histórico de cobrança. Escolha o ano apropriado e, em seguida, selecione a seta suspensa ao lado do período de cobrança apropriado. Selecione o link ao lado de notas fiscais (. pdf) para baixar a fatura do período. 
 
 ## <a name="invoice-types"></a>Tipos de fatura
 
@@ -52,19 +66,6 @@ Por exemplo,
 
 - O parceiro receberá outro PDF de fatura e um arquivo de reconciliação que abrange seus encargos para a oferta de 145p em EUR (ou moeda de cobrança do parceiro). 
 
-## <a name="find-your-bill"></a>Encontre sua fatura 
-
-Você pode encontrar sua fatura na página de cobrança do painel no Partner Center. Você também pode encontrar seu histórico de cobrança, tendências de gastos e arquivos de reconciliação nesta página. 
-
-1. Entre no [Painel](https://partner.microsoft.com/dashboard/home) do Partner Center. 
-
-2. No menu à esquerda, selecione **cobrança**. 
-
-3. Na página cobrança, selecione a fatura que você deseja baixar. 
-
-Você pode encontrar um link para a fatura mais recente na parte superior da página em saldo de conta até a data da última nota fiscal. 
-
-Você pode encontrar notas fiscais anteriores na seção Histórico de cobrança. Escolha o ano apropriado e, em seguida, selecione a seta suspensa ao lado do período de cobrança apropriado. Selecione o link ao lado de notas fiscais (. pdf) para baixar a fatura do período. 
 
 ## <a name="understanding-invoice-pdf"></a>Noções básicas sobre nota fiscal PDF 
 
