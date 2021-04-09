@@ -1,28 +1,37 @@
 ---
-title: Programa de comprovante de treinamento do Software Assurance
+title: Desativação do programa de comprovante de treinamento do Software Assurance
 ms.topic: article
-ms.date: 12/09/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Saiba como se registrar no programa de comprovante de treinamento do Software Assurance para que você possa se compensar em fornecer treinamento e planejamento para clientes corporativos.
+description: O programa de comprovante de treinamento do Software Assurance está sendo desativado.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926616"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024969"
 ---
-# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programa SATV (Software Assurance Training Voucher) no Partner Center
+# <a name="training-vouchers-program-retirement"></a>Desativação do programa de comprovantes de treinamento
 
-Expanda seus negócios registrando-se nos programas de parceiros do Software Assurance. A Microsoft compensa os parceiros para fornecer treinamento, planejamento e outros serviços para clientes corporativos que tenham Software Assurance.
+Os comprovantes de treinamento estão sendo totalmente retirados dos benefícios do Software Assurance, mas os clientes podem continuar usando dias de comprovante para treinamento ministrado por instrutor enquanto os comprovantes são válidos. Essas são as datas significativas que levam à desativação do programa: 
 
-Como um parceiro de treinamento do Software Assurance aprovado, a Microsoft compensa você por fornecer treinamento técnico aos clientes corporativos em troca de comprovantes que eles obtêm com o Software Assurance. Participar deste programa pode ajudá-lo a atrair mais clientes e se tornar parceiro de aprendizado confiável.
+- 1º de fevereiro de 2020: treinamento do Azure retirado do catálogo de comprovante de treinamento.
+- 1º de fevereiro de 2020: os comprovantes de treinamento não podem mais ser convertidos em dias de serviços de planejamento.  
+- 1º de fevereiro de 2021: os clientes não acumulam mais os benefícios de treinamento. 
+- 30 de junho de 2021: último dia para os clientes criarem/atribuirem comprovantes de treinamento. Todos os dias de comprovante de treinamento restantes serão removidos em 1º de julho de 2021.
+- 1º de janeiro de 2022: último dia para os parceiros resgatar os comprovantes de treinamento. O parceiro terá 60 dias após o resgate para concluir o processo de solicitação de pagamento.  
 
-## <a name="get-started"></a>Introdução
+>[!NOTE]
+>Não há nenhuma alteração no ciclo de vida do comprovante. Quando um comprovante é criado/atribuído, a reserva de comprovante, as sessões de treinamento e o resgate de comprovante devem ser concluídos em até 180 dias antes da expiração do comprovante.  Para obter mais informações sobre a desativação do comprovante de treinamento, consulte as perguntas frequentes encontradas [aqui](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) para obter mais informações (entrada necessária).  Consulte a lista completa de cursos de treinamento qualificados para o SATV no catálogo de produtos do benefício de treinamento.  Encaminhe perguntas para sua equipe de suporte de parceiro regional: [suporte para parceiros na EMEA](mailto:savoucher@msdirectservices.com); [Suporte geral a parceiros](https://partner.microsoft.com/dashboard/support/servicerequests).
+
+## <a name="until-june-30-2021"></a>Até 30 de junho de 2021
+
+### <a name="get-started"></a>Introdução
 
 Se você for novo nos serviços de treinamento do Software Assurance, siga todas as etapas abaixo. Se você já estiver ativo no programa de comprovante de treinamento, comece na etapa quatro (4) abaixo. 
 

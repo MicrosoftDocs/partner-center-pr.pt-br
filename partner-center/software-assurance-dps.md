@@ -1,31 +1,43 @@
 ---
-title: Serviços de planejamento do Software Assurance
+title: Aposentadoria dos serviços de planejamento do Software Assurance
 ms.topic: article
-ms.date: 12/02/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Saiba como registrar-se e se qualificar nos contratos do Microsoft Planning Services para que você possa fornecer treinamento e outros serviços aos clientes com o Software Assurance.
+description: Os serviços de planejamento da Microsoft estão sendo desativados.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b931f616417d8781b8864d7bcb9b0d6d47560ec
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028208"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024986"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a>Serviços de planejamento do Software Assurance no Partner Center
+# <a name="software-assurance-planning-services-retirement"></a>Aposentadoria dos serviços de planejamento do Software Assurance
 
 **Funções apropriadas**
 
 - Administrador global
 - Administrador de parceiros do MPN
 
-Como parceiro de serviços de planejamento aprovado, a Microsoft compensa você para fornecer compromissos de planejamento de pré-implantação para clientes empresariais. Participar deste programa pode ajudá-lo a atrair mais clientes, se tornar seu parceiro de planejamento confiável e levar a contratos de clientes adicionais.
 
-## <a name="get-started"></a>Introdução
+Os serviços de planejamento estão sendo totalmente retirados dos benefícios do Software Assurance, mas os clientes podem continuar trabalhando com parceiros para usar os serviços de planejamento para os compromissos, enquanto os comprovantes são válidos. Essas são as datas significativas que levam à desativação do programa: 
+
+- 1º de fevereiro de 2020: serviços de planejamento os contratos de nuvem foram desativados.  
+- 1º de fevereiro de 2020: os comprovantes de treinamento não podem mais ser convertidos em dias de serviços de planejamento.  
+- 1º de fevereiro de 2021: os clientes não acumulam mais os benefícios dos serviços de planejamento. 
+- 30 de junho de 2021: último dia para os clientes criarem/atribuir comprovantes de serviços de planejamento. Todos os dias restantes dos serviços de planejamento serão removidos em 1º de julho de 2021.
+- 1º de janeiro de 2022: último dia para os parceiros resgatar os comprovantes dos serviços de planejamento. O parceiro terá 60 dias após o resgate para concluir o processo de solicitação de pagamento.  
+
+>[!NOTE]
+>Não há nenhuma alteração no ciclo de vida do comprovante. Depois que um comprovante for criado/atribuído, a reserva de comprovante, o envolvimento do cliente e o resgate do comprovante deverão ser concluídos em até 180 dias antes da expiração do comprovante.  Para obter mais informações sobre a desativação do programa serviços de planejamento, consulte as perguntas frequentes encontradas [aqui](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) para obter mais informações (entrada necessária).  Encaminhe perguntas para sua equipe de suporte de parceiro regional: [suporte para parceiros na EMEA](mailto:savoucher@msdirectservices.com); [Suporte geral a parceiros](https://partner.microsoft.com/dashboard/support/servicerequests)
+
+## <a name="until-june-30-2021"></a>Até 30 de junho de 2021
+
+### <a name="get-started"></a>Introdução
 
 Se você não estiver familiarizado com os serviços de planejamento do Software Assurance, siga todas as etapas abaixo. Se você já estiver ativo nos programas do Planning Services, inicie cada novo compromisso na etapa quatro (4) abaixo.
 
@@ -62,8 +74,6 @@ Depois que sua empresa atender aos requisitos de qualificação, você estará p
 
 Primeiro, certifique-se de examinar todas as [políticas do programa Planning Services](https://go.microsoft.com/fwlink/?linkid=2115984). Em seguida, siga as instruções na [etapa 2](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho para concluir o processo de registro do Planning Services no Partner Center.
 
->[!NOTE]
-> Você precisará renovar seus requisitos e inscrever-se novamente nos programas de serviços de planejamento a cada ano.
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>Criar ou atualizar o perfil comercial da sua empresa (novos parceiros)
 
