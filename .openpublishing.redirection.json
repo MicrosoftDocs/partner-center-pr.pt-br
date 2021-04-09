@@ -384,7 +384,11 @@
     "source_path": "partner-center/billing-different-types.md",
     "redirect_url": "/partner-center/billing-basics",
     "redirect_document_id": "False"
+  },
+  {
+    "source_path": "partner-center/buy-email-domain.md",
+    "redirect_url": "/partner-center/mpn-create-a-partner-center-account",
+    "redirect_document_id": "False"
   }
-  
  ]
 }
