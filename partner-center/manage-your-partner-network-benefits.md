@@ -9,23 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c42533027977853322a0bf815e3b1d387d8ad88
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.openlocfilehash: 8fc5566b780c10a953cfb322ad13ce7373dc87cd
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932830"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133090"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Gerenciar as suas ofertas e benefícios de associação ao Microsoft Partner Network no Partner Center
-
-**Aplica-se a**
-
-- Partner Center
 
 **Funções apropriadas**
 
 - Administrador global
-- Administrador de usuários
+- Administrador de gerenciamento de usuário
 - Agente administrativo
 - Administrador de parceiros do MPN
 
@@ -45,7 +41,7 @@ Os pacotes de benefícios incluem alocações de software licenciado, serviços 
 
 Para ver e gerenciar todos os benefícios de associação, acesse a página [**Benefícios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (requer credenciais). Como alternativa, você pode entrar no [Painel](https://partner.microsoft.com/dashboard) do Partner Center, selecionar a [**opção Benefícios**] no menu à esquerda e, em seguida, selecionar as opções de benefícios exibidas.  
 
-Para ativar a maioria dos benefícios ou baixar as chaves de software relacionadas etc., o Partner Center geralmente exige alguém que exerça a função de administrador global ou administrador de parceiros do MPN. Se você não conseguir ver os benefícios nem os ativar, verifique com o administrador global do Partner Center se você tem as permissões necessárias. [Saiba mais sobre as funções do Partner Center](permissions-overview.md).
+Para ativar a maioria dos benefícios ou baixar as chaves de software relacionadas, o Partner Center geralmente exige alguém que exerça a função de administrador global ou administrador de parceiros do MPN. Se você não conseguir ver os benefícios nem os ativar, verifique com o administrador global do Partner Center se você tem as permissões necessárias. [Saiba mais sobre as funções do Partner Center](permissions-overview.md).
 
 ## <a name="manage-software-benefits"></a>Gerenciar os benefícios de software
 
@@ -76,7 +72,7 @@ Há dois tipos de assinaturas baseadas em uso que você pode receber, dependendo
 Você pode ser provisionado com:
 
 - US$ 100/mês (ou o equivalente em moeda local) de crédito Azure mensal; e/ou
-- US$ 6000, US$ 12000 e/ou US$ 13000/ano (ou o equivalente a cada um deles em moeda local) de crédito Azure em massa
+- US$ 6.000, US$ 12.000 e/ou US$ 13.000/ano (ou o equivalente a cada um deles em moeda local) de crédito Azure em massa
 
 Para ativar uma assinatura do Microsoft Azure no Partner Center, atribua acesso a um usuário dentro da empresa (incluindo usuários convidados), que tem uma entrada de usuário criada no seu Azure Active Directory.
 Para o crédito Azure mensal de US$ 100/mês (ou o equivalente em moeda local), você pode adicionar ou remover usuários dessa assinatura a qualquer momento. 
@@ -85,9 +81,9 @@ Para o crédito Azure em massa (anual), a opção remover não está disponível
 
 ## <a name="license-based-subscriptions"></a>Assinaturas baseadas em licença
 
-Na seção de assinaturas baseadas em licença da guia Produtos do Azure e de Nuvem, você vai encontrar todos os produtos de nuvem que exigem uma chave do produto para ativação, como Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic, Power BI etc., que são oferecidos a você dependendo do tipo de oferta que você tem ativa como parceiro MPN – MAPS, Silver ou Gold.
+A seção de assinaturas baseadas em licença da guia Produtos do Azure e de Nuvem lista todos os produtos de nuvem que exigem uma chave do produto (Product Key) para ativação, como Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic e Power BI. O tipo de oferta que você tem ativo como parceiro MPN (MAPS, Silver ou Gold) controla quais produtos aparecem na lista.
 
-Para ativar as assinaturas baseadas em licença, clique no símbolo suspenso em linha com o produto de interesse e leia as instruções sobre como resgatar as chaves. Depois de ler as instruções, selecione o link que redireciona você ao portal para resgatar chaves, bem como a chave atribuída ao produto.
+Para ativar as assinaturas baseadas em licença, clique no símbolo suspenso em linha com o produto de interesse e leia as instruções sobre como resgatar as chaves. Depois de ler as instruções, selecione o link que leva ao portal para resgatar chaves, bem como a chave atribuída ao produto.
 
 >[!IMPORTANT]
 >Observe que, após resgatar uma chave, ela não poderá ser resgatada pela segunda vez. Portanto, verifique se você realmente precisa adicionar mais licenças (usuários) ou estender a data de término. Se você optar por adicionar mais licenças e não estender a data de término, o sistema reduzirá o tempo de assinatura ativa para menos de 12 meses. Verifique se você está conectado com as credenciais corretas para ativar as chaves no locatário correto.

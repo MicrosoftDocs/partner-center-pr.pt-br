@@ -9,24 +9,24 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 010f74164b0428a5cd6ffcde5000b52ac6a6993f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 022e7aabd0d850660f8236dce9a4fab9069af01b
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99623993"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087120"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Como o crédito ganho pelo parceiro é calculado e pago
 
 **Funções apropriadas**
 
 - Administrador global
-- Administrador de usuários
+- Administrador de gerenciamento de usuário
 - Agente administrativo
 - Administrador de cobrança
 - Agente de vendas
 
-O PEC (crédito ganho pelo parceiro para serviços gerenciados) reconhece e recompensa os parceiros que têm o controle operacional de TI 24x7 e o gerenciamento de partes – ou da totalidade – do ambiente do Azure de seus clientes. Por padrão, no CSP, os parceiros recebem os direitos de acesso necessários à assinatura do cliente, permitindo que eles executem o gerenciamento operacional 24x7 e o controle dos recursos na assinatura. Outras maneiras pelas quais o cliente pode provisionar acesso aos parceiros das transações estão descritas na seção a seguir. O valor da fatura mensal é líquido de créditos ganhos pelo parceiro. Os parceiros podem ver os detalhes do PEC em seu arquivo de reconhecimento mensal. Para ver outras maneiras pelas quais um cliente pode provisionar acesso ao parceiro de transações, leia [Gerenciar assinaturas e recursos no âmbito do plano do Azure](azure-plan-manage.md).
+O PEC (crédito ganho pelo parceiro para serviços gerenciados) reconhece e recompensa os parceiros que têm o controle operacional de TI 24x7 e o gerenciamento de partes – ou da totalidade – do ambiente do Azure de seus clientes. Por padrão, no CSP, os parceiros recebem os direitos de acesso necessários à assinatura do cliente, permitindo que eles executem o gerenciamento operacional 24x7 e o controle dos recursos na assinatura. Outras maneiras pelas quais o cliente pode provisionar acesso aos parceiros das transações estão descritas na seção a seguir. O valor da fatura mensal é o valor líquido do crédito obtido por parceiro. Os parceiros podem ver os detalhes do PEC em seu arquivo de reconhecimento mensal. Para ver outras maneiras pelas quais um cliente pode provisionar acesso ao parceiro de transações, leia [Gerenciar assinaturas e recursos no âmbito do plano do Azure](azure-plan-manage.md).
 
 Leia também [Restabelecer privilégios de administrador para assinaturas do Azure CSP](revoke-reinstate-csp.md)
 
@@ -66,7 +66,7 @@ O ACM (Gerenciamento de Custos do Azure), pelo uso da análise de custos, permit
 
    A exibição de Análise de Custo exibirá os custos da sua conta de cobrança para todos os serviços comprados e consumidos segundo os preços que você paga à Microsoft.
 
-4. Selecione **PartnerEarnedCreditApplied** no menu suspenso em um gráfico dinâmico para ver os custos que têm o PEC aplicado. Quando a propriedade **PartnerEarnedCreditApplied** é True, o custo associado tem o benefício do crédito ganho do parceiro. 
+4. Selecione **PartnerEarnedCreditApplied** na lista suspensa em um gráfico dinâmico para ver os custos que têm o PEC aplicado. Quando a propriedade **PartnerEarnedCreditApplied** é True, o custo associado tem o benefício do crédito ganho do parceiro. 
 
    Quando a propriedade PartnerEarnedCreditApplied é False, o custo associado não atendeu à qualificação necessária para o crédito ou o serviço comprado não é elegível para crédito ganho do parceiro.
 
@@ -79,7 +79,7 @@ O ACM (Gerenciamento de Custos do Azure), pelo uso da análise de custos, permit
 
 - [Crédito ganho pelo parceiro – visão geral](partner-earned-credit.md)
 
-- Exemplos detalhados do cálculo dos créditos ganhos pelo parceiro estão localizados na lista de preços que você pode acessar por meio do Painel do Partner Center (requer credenciais).
+- Exemplos detalhados do cálculo do crédito obtido por parceiro estão localizados na lista de preços que você pode acessar por meio do Painel do Partner Center (requer credenciais).
 
 - [Migrar para o plano do Azure – introdução](azure-plan-get-started.md)
 

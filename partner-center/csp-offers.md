@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59e84162b85df197b135bcf5792fd2e730b53e56
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: e6b0de64a9ac3d86c77cc47f6b69b8a132606309
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943923"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502860"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Visão geral de ofertas de parceiros no programa Provedor de Soluções na Nuvem
-
-**Aplica-se a**
-
-- Parceiros CSP
 
 **Funções apropriadas**
 
@@ -28,7 +24,7 @@ ms.locfileid: "86943923"
 - Administrador global
 - Agente de vendas
 
-Os parceiros da Microsoft no programa CSP (Provedor de Soluções na Nuvem) têm um catálogo cada vez maior de ofertas disponíveis para eles. Você pode vender a gama completa de [serviços em nuvem da Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), bem como uma variedade de ofertas adicionais que mudam com frequência. Para ver as ofertas do CSP no mês atual, entre no Partner Center e, em seguida, acesse a página [**Preços e ofertas**](https://partnercenter.microsoft.com/pcv/sales).  
+Os parceiros da Microsoft no programa CSP (Provedor de Soluções na Nuvem) têm um catálogo cada vez maior de ofertas disponíveis para eles. Você pode vender a gama completa de [serviços em nuvem da Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services) e várias outras ofertas que mudam com frequência. Para ver as ofertas do CSP no mês atual, entre no Partner Center e, em seguida, acesse a página [**Preços e ofertas**](https://partnercenter.microsoft.com/pcv/sales).  
 
 Ainda não se registrou no programa Provedor de Soluções na Nuvem? Visite [Provedor de Soluções na Nuvem](https://partner.microsoft.com/cloud-solution-provider) para obter mais detalhes sobre como se registrar. 
 
@@ -53,7 +49,7 @@ No momento, você pode vender os seguintes tipos de produtos e serviços para se
 
 ### <a name="online-services"></a>Serviços online
 
-   *Serviços online* é o novo nome para o que atualmente é conhecido como *assinaturas*. Para tornar mais fácil para você pedir vários tipos de produtos em um só lugar, integramos o fluxo de tarefas "adicionar assinatura" ao fluxo de tarefas "adicionar produtos".
+   *Serviços online* é o novo nome das *assinaturas* atuais. Para tornar mais fácil para você pedir vários tipos de produtos em um só lugar, integramos o fluxo de tarefas "adicionar assinatura" ao fluxo de tarefas "adicionar produtos".
 
    Para obter mais informações, confira [Assinaturas de clientes](customer-subscriptions.md).
 
@@ -111,16 +107,16 @@ Para comprar produtos e serviços em nome dos seus clientes CSP, selecione os it
 
 ## <a name="rules-for-special-segments"></a>Regras para segmentos especiais
 
-Algumas ofertas baseadas em licença só podem ser adquiridas sob certas condições. As ofertas especiais do segmento incluem ofertas de Educação, sem fins lucrativos ou Nuvem da Comunidade Governamental (GCC). Detalhes sobre essas condições de compra podem ser encontrados no tópico [regras de compra para segmentos especiais](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).
+Algumas ofertas baseadas em licença só podem ser adquiridas sob certas condições. As ofertas especiais do segmento incluem ofertas de Educação, sem fins lucrativos ou GCC (Nuvem da Comunidade Governamental). Detalhes sobre essas condições de compra podem ser encontrados no tópico [regras de compra para segmentos especiais](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).
 
 ## <a name="troubleshooting-catalog-purchases"></a>Solucionar problemas de compras de catálogo
 
 Talvez você não encontre a oferta desejada no catálogo, e há diferentes motivos para isso. Veja a seguir o que você deve verificar se não encontrar a oferta desejada.
 
-- **Verifique se o cliente está qualificado**. Muitas ofertas exigem qualificações especiais para serem vendidas aos clientes. Esses segmentos especiais incluem Educação, Sem Fins Lucrativos e GCC (Nuvem da Comunidade Governamental). Antes de registrar um problema, primeiro verifique se as qualificações do cliente estão definidas da maneira apropriada. Para verificar isso, clique no cliente da lista de clientes e visualize a conta. A conta terá um conjunto de qualificações especiais, se aplicável. Se você estiver tentando comprar uma oferta de Educação para um cliente não qualificado, não a verá no catálogo. Confira a [documentação de segmentos especiais](get-special-pricing-for-offers.md) para saber mais sobre como qualificar os clientes.
-- **Decida se você está tentando comprar um complemento ou uma oferta base**. Muitos dos serviços baseados em licença, como Microsoft 365 e Dynamics 365, habilitam as compras de catálogo das ofertas de base, bem como Complementos. Somente as ofertas de base podem ser adquiridas no catálogo. Para comprar complementos, verifique se você comprou primeiro a oferta de base no catálogo, selecione o cliente na lista de clientes e, em seguida, selecione a assinatura para a oferta de base. Os complementos podem ser aplicados à oferta de base nesta página de gerenciamento de assinaturas. 
+- **Verifique se o cliente está qualificado**. Muitas ofertas exigem qualificações especiais para serem vendidas aos clientes. Esses segmentos especiais incluem Educação, Sem Fins Lucrativos e GCC (Nuvem da Comunidade Governamental). Antes de registrar um problema, primeiro verifique se as qualificações do cliente estão definidas da maneira apropriada. Para verificar isso, clique no cliente na lista de clientes e veja a conta. A conta terá um conjunto de qualificações especiais, se aplicável. Se estiver tentando comprar o segmento Educação de um cliente que não está qualificado, você não verá essas ofertas no catálogo. Para saber mais sobre a qualificação de clientes, confira a [documentação de segmentos especiais](get-special-pricing-for-offers.md).
+- **Decida se você está tentando comprar um complemento ou uma oferta de base**. Muitos dos serviços baseados em licença, como o Microsoft 365 e o Dynamics 365, habilitam a compra de ofertas base e de complementos no catálogo. Somente as ofertas de base podem ser adquiridas no catálogo. Para comprar complementos, compre primeiro a oferta base no catálogo e, em seguida, selecione o cliente na lista de clientes e a assinatura da oferta base. Os complementos podem ser aplicados à oferta de base nesta página de gerenciamento de assinaturas. 
 - **Verifique se os produtos estão disponíveis no seu mercado**. Muitos produtos e serviços são configurados para venda somente a clientes em países específicos. Você pode encontrar a lista de países compatíveis nos vários arquivos de lista de preços. Os países compatíveis com os serviços baseados em licença estão na Matriz da lista de ofertas na página de preços e ofertas.
-- **Verifique se as ofertas estão disponíveis na lista de preços**. A lista de ofertas disponíveis pode mudar a cada mês. Se você não encontrar uma oferta no catálogo, verifique se ele está disponível nas listas de preços atuais na página **Venda > Preços e ofertas**.
+- **Verifique se as ofertas estão disponíveis na lista de preços**. A lista de ofertas disponíveis pode mudar a cada mês. Se você não encontrar uma oferta no catálogo, verifique se ela está disponível nas listas de preços atuais, na página **Venda > Preços e ofertas**.
 
 ### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Documentos recomendados relacionados à compra de itens no Partner Center
 

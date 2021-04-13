@@ -9,22 +9,22 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3f521e05fbf0b3a6c209a84ed9ab53d2502960a5
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: d56b9675ea405b29190f68420037ea9a92f3d831
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624146"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086542"
 ---
 # <a name="security-requirements-status-report"></a>Relatório de status dos requisitos de segurança
 
 **Funções apropriadas**
-- Fornecedores de painel de controle
-- Administradores globais
+- Administrador do CPV
+- Administrador global
 
-Este artigo explica o relatório de status dos requisitos de segurança no Partner Center. Este relatório fornece métricas de conformidade nos [requisitos de segurança de parceiro](partner-security-requirements.md) para MFA (autenticação multifator) dos usuários no seu locatário do parceiro.
+Este artigo explica o relatório de status dos requisitos de segurança no Partner Center. Este relatório apresenta métricas sobre o cumprimento dos [requisitos de segurança de parceiro](partner-security-requirements.md) referentes à MFA (autenticação multifator) por parte dos usuários do locatário do parceiro.
 
-Para acessar esse relatório no [Partner Center](https://partner.microsoft.com/dashboard), acesse **Configurações** > **Configurações de conta** > **Status de requisitos de segurança**. O relatório é atualizado diariamente e reflete os dados de logon dos últimos sete dias.
+Para acessar esse relatório no [Partner Center](https://partner.microsoft.com/dashboard), acesse **Configurações** > **Configurações de conta** > **Status de requisitos de segurança**. O relatório é atualizado diariamente e reflete os dados de credenciais dos últimos sete dias.
 
 >[!NOTE]
 >O relatório de status dos requisitos de segurança é compatível apenas com o Partner Center. Ele não está disponível no Microsoft Cloud for US Government nem no Microsoft Cloud Alemanha. É altamente recomendável que todos os parceiros que negociam em uma nuvem soberana (governo dos EUA e Alemanha) adotem esses novos requisitos de segurança imediatamente. No entanto, esses parceiros não precisam atender aos novos requisitos de segurança no momento. Futuramente, a Microsoft fornecerá detalhes adicionais sobre a imposição desses requisitos de segurança para nuvens soberanas.
@@ -53,7 +53,7 @@ A métrica **Por meio do portal do Partner Center** está relacionada às ativid
 - No segundo dia, John se conectou ao Painel do Partner Center sem a verificação da MFA e fez cinco operações.
 - No terceiro dia, Jane se conectou ao Painel do Partner Center com a verificação da MFA e fez duas operações.
 - Nenhuma outra operação foi realizada pelos agentes nos quatro dias restantes.
-- Das dez operações feitas na janela de sete dias, duas foram feitas pelo usuário com a verificação de MFA. Portanto, a métrica mostrará 20%.
+- Das dez operações feitas no período de sete dias, duas foram feitas pelo usuário com a verificação de MFA. Portanto, a métrica mostrará 20%.
 
 Use o arquivo **Solicitações do portal sem MFA** para entender qual usuário fez logon no Painel do Partner Center sem ter a verificação de MFA e a hora da última visita durante a janela de relatório.
 
@@ -82,7 +82,7 @@ Alguns parceiros que implementaram o MFA podem ver as métricas de relatório ab
 
 ### <a name="implemented-mfa-for-your-partner-tenant"></a>MFA implementada para o seu locatário do parceiro
 
-Você precisará implementar a MFA para o seu locatário do parceiro para atingir a conformidade. Para obter detalhes sobre como implementar o MFA, confira [Requisitos de segurança para usar o Partner Center ou as APIs do Partner Center](partner-security-requirements.md).
+Você precisará implementar a MFA no locatário do parceiro para cumprir os requisitos. Para obter detalhes sobre como implementar o MFA, confira [Requisitos de segurança para usar o Partner Center ou as APIs do Partner Center](partner-security-requirements.md).
 
 >[!NOTE]
 > As métricas de MFA são calculadas diariamente e levam em conta as operações executadas nos últimos sete dias. Se você concluiu recentemente a implementação da MFA no seu locatário do parceiro, as métricas talvez ainda não mostrem 100%.

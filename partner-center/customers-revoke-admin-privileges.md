@@ -9,25 +9,21 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 6f99c9ed9fb43136bccf0d3024377ba2208ed1a1
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 624b66c7912af1f0109b6aadeffb67c5d4e9ea4b
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534872"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502490"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Obter permissões para gerenciar o serviço ou a assinatura de um cliente
-
-**Aplica-se a**
-
-- Partner Center
 
 **Funções apropriadas**
 
 - Agente administrativo
 - Agente de vendas
 
-Para gerenciar um serviço ou uma assinatura de um cliente em nome dele, o cliente precisa conceder a você as permissões de administrador nesse serviço. Para receber permissões de administrador de um cliente, envie um email a ele com uma solicitação de relacionamento de revendedor. Depois que o cliente aprovar sua solicitação, você poderá fazer logon no portal de administração do serviço e gerenciar o serviço em nome do cliente. 
+Para gerenciar um serviço ou uma assinatura de um cliente em nome dele, o cliente precisa conceder a você as permissões de administrador nesse serviço. Para receber permissões de administrador de um cliente, envie um email a ele com uma solicitação de relacionamento de revendedor. Depois que o cliente aprovar sua solicitação, você poderá entrar no portal de administração do serviço e gerenciar o serviço em nome do cliente. 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Convide um cliente para estabelecer uma relação de revendedor com você
 

@@ -9,17 +9,19 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 514c8d1e1c94c0a500384502ad57bad977dcc368
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 8e62462b6d35e8e6994e5e596ce433b37d222fc2
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712827"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132274"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gerenciar sua conta do Partner Center – perfis da empresa, informações bancárias, funções, permissões e muito mais
 
-**Funções apropriadas** – administrador global
-- Administrador de conta do MPN
+**Funções apropriadas** 
+
+- Administrador global
+- Administrador de conta
 
 A conta que você cria no Partner Center ao se inscrever é seu email de trabalho mais suas informações comerciais. Após a criação de uma conta, você concluirá a configuração do perfil completo da empresa, incluindo detalhes de suporte, isenções fiscais (se apropriado) e informações do contato principal. A conta da sua empresa também incluirá contas de usuário para qualquer membro da sua equipe que precise usar o Partner Center. O trabalho que eles podem fazer inclui adicionar ou gerenciar clientes, vender assinaturas, trabalhar com cobrança e faturamento, criar perfis de negócios, gerenciar indicações, trabalhar com os programas de incentivos, fornecer suporte e muito mais.
 
@@ -48,7 +50,7 @@ Quando você seleciona o ícone **Configurações** e abre o menu **Configuraç�
 
 :::image type="content" source="images/accountsettings/reseller.png" alt-text="O menu mostra as guias Parceiros e Revendedores":::
 
-A guia Parceiro incluirá todas as informações de negócios legais, como a razão social e o endereço da sua empresa, bem como o contato principal e os locais físicos dos negócios. A guia Revendedor para parceiros que fazem negócios com CSP inclui o **Perfil de atendimento ao cliente**.
+A guia Parceiro inclui todas as informações de negócios legais, como a razão social e o endereço da sua empresa, bem como o contato principal e os locais físicos dos negócios. A guia Revendedor para parceiros que fazem negócios com CSP inclui o **Perfil de atendimento ao cliente**.
 
 Se a sua empresa não participar do CSP, a exibição padrão mostrará apenas a guia **Parceiros**, que incluirá o **Perfil de atendimento ao cliente**.
 
@@ -60,7 +62,7 @@ Você pode fazer parte de mais de uma conta. Você pode verificar se faz parte d
 
 Se você não vê o seletor de conta, você faz parte de apenas uma conta. 
 
-Quando você clica nesse seletor, todas as contas das quais você faz parte são exibidas como uma lista. Em seguida, você pode clicar em qualquer uma delas e alternar para essa conta. Depois disso, tudo será exibido no contexto dessa conta.  
+Quando você seleciona esse seletor, todas as contas das quais você faz parte são exibidas como uma lista. Em seguida, você pode selecionar qualquer uma delas e alternar para essa conta. Depois disso, tudo será exibido no contexto dessa conta.  
 
 No exemplo a seguir, o usuário conectado faz parte das três contas realçadas. O usuário pode alternar entre elas clicando em uma conta.
 
@@ -80,7 +82,7 @@ Quando você ingressa pela primeira vez no Partner Center, a empresa passa por u
 
 Você pode pesquisar o perfil da empresa ou inserir as informações da empresa manualmente. Se a empresa estiver registrada no [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), use a ID DUNS para pesquisar as informações dela. Se você quiser fornecer os detalhes da empresa, selecione **Manual**.
 
-Se a sua empresa estiver localizada na **Armênia**, na **Hungria**, no **Quirguistão**, em **Moldávia**, no **Uzbequistão** ou na **Rússia** e você inserir o endereço manualmente, validaremos o seu endereço para você. Se o que você inserir, for diferente do validado, sugerimos que você use o endereço validado. A verificação confirma se o endereço está correto e se pode ser usado como o destino de remessas.
+Se a sua empresa estiver localizada na **Armênia**, na **Hungria**, no **Quirguistão**, em **Moldávia**, no **Uzbequistão** ou na **Rússia** e você inserir o endereço manualmente, validaremos o seu endereço para você. Caso o que você insira seja diferente do validado, sugerimos que você use o endereço validado. A verificação confirma se o endereço está correto e se pode ser usado como o destino de remessas.
 
 ### <a name="primary-contact-email"></a>Email de contato principal
 

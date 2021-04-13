@@ -8,17 +8,293 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/22/2021
-ms.openlocfilehash: a3172b78d41a966b52a824703a7f15f163467d63
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.date: 04/02/2021
+ms.openlocfilehash: 12954a5f7eafb138794de879a41026ef54c65da7
+ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880728"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "106374375"
 ---
 # <a name="march-2021-announcements"></a>Comunicados de março de 2021
 
 Esta página apresenta os comunicados de março de 2021 sobre o Microsoft Partner Center.
+
+________________
+## <a name="updated-csp-customer-address-validation-api-now-available-for-testing"></a><a name="18"></a>API de validação de endereço de cliente do CSP atualizada agora disponível para teste
+
+### <a name="categories"></a>Categorias
+
+- Data: 31/03/2021
+- Funcionalidades
+
+### <a name="summary"></a>Resumo
+
+Diante do nosso compromisso em ajudar os parceiros e os clientes a administrar os negócios com base na confiança, convidaremos parceiros em todo o mundo para testar as alterações na API ValidateAddress.
+
+### <a name="impacted-audience"></a>Público-alvo afetado
+
+Todos os parceiros de cobrança direta e provedores indiretos do CSP que criam ou atualizam os endereços de clientes
+
+### <a name="details"></a>Detalhes
+
+O trabalho da Microsoft é baseado em confiança. Temos o compromisso de oferecer um método seguro e em conformidade com os requisitos para o envio da validação de endereços de clientes para a comercialização de assinaturas no programa CSP. Hoje, dia 31 de março de 2021, lançamos alterações na API ValidateAddress que gostaríamos que você testasse antes que elas entrem em funcionamento em junho de 2021. 
+
+As alterações afetam apenas a API ValidateAddress. As APIs CreateCustomer e UpdateBillingProfile não foram afetadas.
+
+A resposta retornará uma das seguintes mensagens de status:
+
+| Status | Descrição | O número de endereços sugeridos retornados |
+|----------|-------------|-------------------|
+| VerifiedShippable | O endereço foi verificado e pode ser usado para entregas. | Único |
+| Verificado | O endereço foi verificado. | Único |
+| InteractionRequired | Os endereços sugeridos foram alterados significativamente e precisam de confirmação do usuário. | Único |
+| StreetPartial | A rua que consta no endereço é parcial e precisa de mais informações. | Múltiplo – máximo de três|
+| PremisesPartial | O local determinado (número de edifício, número do conjunto etc.) é parcial e precisa de mais informações. | Múltiplo – máximo de três |
+| Vários | Há vários campos parciais no endereço (pode incluir StreetPartial e PremisesPartial). | Múltiplo – máximo de três |
+| Nenhum | O endereço está incorreto. | Nenhum |
+| NotValidated | Não foi possível enviar o endereço pelo processo de validação.  | Nenhum |
+
+Depois que um endereço for enviado para validação por meio da API ValidateAddress, o seguinte esquema de resposta será retornado:
+
+```csharp
+
+// <summary>
+/// Object represents the address validation response.
+/// </summary>
+
+public class AddressValidationResponse
+{
+   /// <summary>
+   /// Gets or sets the original address
+   /// </summary>
+   /// <value>
+   /// Original Address
+   /// </value>
+   public Address OriginalAddress { get; set; }
+
+   /// <summary>
+   /// Gets or sets the suggested addresses
+   /// </summary>
+   /// <value>
+   /// Suggested Addresses
+   /// </value>
+   public List<Address> SuggestedAddresses { get; set; }
+
+   /// <summary>
+   /// Gets or sets the validation status
+   /// </summary>
+   /// <value>
+   /// Status
+   /// </value>
+   public string Status { get; set; }
+
+   /// <summary>
+   /// Gets or sets the validation message
+   /// </summary>
+   /// <value>
+   /// Validation Message
+   /// </value>
+   public string ValidationMessage { get; set; }
+   ```
+
+Observe este exemplo de resposta. Para os EUA, a resposta retornará um sufixo adicional de quatro dígitos na linha de código postal se você inserir apenas cinco dígitos para o CEP.
+
+```csharp
+
+"suggested_address": {
+    "Country": "US",
+    "region": "WA",
+    "city": "Redmond",
+    "address_line1": "1 Microsoft Way",
+    "postal_Code": "98052-8300"
+},
+"original_address": {
+    "Country": "US",
+    "region": "WA",
+    "city": "Redmond",
+    "address_line1": "1 Micro Way",
+    "postal_Code": "98052"
+},
+"status":  "InteractionRequired",
+"validation_message": "Address field invalid for property: ‘Street’"
+}
+```
+
+### <a name="next-steps"></a>Próximas etapas
+
+- Informe sua ID de locatário de área restrita ao SME (especialista no assunto) Ali Khaki para participar do teste da versão de pré-lançamento e começar a preparar-se para a atualização.
+
+- Se estiver usando uma solução de CPV (fornecedor de painel de controle), consulte seu CPV.
+
+### <a name="questions"></a>Perguntas?
+
+Se você tiver dúvidas ou precisar de suporte para as operações com a Microsoft, entre em contato com o grupo do Yammer de suporte ao parceiro.
+
+________________
+## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>Nova experiência do EAC (Centro de administração do Exchange)
+
+### <a name="categories"></a>Categorias
+
+- Data: 29/03/2021
+- Funcionalidades
+
+### <a name="summary"></a>Resumo
+
+A partir de 27 de abril de 2021, o EAC (Centro de administração do Exchange) lançará uma nova experiência que melhorará a eficiência diária dos usuários.
+
+### <a name="impacted-audience"></a>Público-alvo afetado
+
+Administradores delegados que acessam o Exchange por meio do Partner Center
+
+### <a name="details"></a>Detalhes
+
+A partir de 27 de abril de 2021, os parceiros que acessam o Exchange por meio do Partner Center serão redirecionados para o novo EAC.
+
+Para acessar a nova experiência, disponível atualmente como uma versão prévia, os administradores devem selecionar o botão de alternância no canto superior direito do EAC clássico. Outra opção para acessar o novo EAC é selecionar a faixa "Experimentar agora", exibida em todas as páginas.
+
+Os benefícios do novo EAC incluem:
+
+- Foram adicionados insights, relatórios e mecanismos de alerta para problemas relacionados ao fluxo de mensagens. 
+
+- Painéis personalizados para aumentar a produtividade.
+
+Para ajudar a usar a nova experiência, vídeos estão disponíveis na seção **Treinamento e guia** sobre a nova experiência do EAC. Eles apresentam uma visão geral para você usar melhor o novo portal.
+
+>[!NOTE]
+>Com essa alteração, a experiência clássica do EAC não será preterida. Você receberá uma notificação com bastante antecedência antes que alterações sejam implementadas.
+
+### <a name="next-steps"></a>Próximas etapas
+
+- Confira os [recursos sobre este tópico](https://partner.microsoft.com/resources/collection/new-exchange-admin-center-experience#/), em que você pode ver capturas de tela da nova experiência.
+
+- Compartilhe essas informações com os stakeholders apropriados da sua organização. 
+
+### <a name="questions"></a>Perguntas?
+
+Caso tenha dúvidas sobre essas alterações, confira as comunidades relevantes no Yammer.
+
+________________
+## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Operações da Microsoft: introdução ao calendário de lançamento de produtos
+
+### <a name="categories"></a>Categorias
+
+- Data: 25/03/2021
+- Ofertas | Local de trabalho moderno
+
+### <a name="summary"></a>Resumo
+
+Em resposta aos comentários dos parceiros, as Operações da Microsoft simplificarão as comunicações para lançamentos de produtos.
+
+### <a name="impacted-audience"></a>Público-alvo afetado
+
+Parceiros do CSP (Provedor de Soluções na Nuvem)
+
+### <a name="details"></a>Detalhes
+
+A Microsoft está comprometida em melhorar continuamente as experiências dos parceiros. Recebemos seus comentários de que vocês recebiam um número excessivo de comunicações da Microsoft, incluindo anúncios duplicados de lançamentos de produtos.
+
+Em resposta aos seus comentários, a Microsoft simplificou a experiência de preparação para o lançamento de produtos para ofertas novas e atuais.
+
+Agora, apresentamos uma exibição mensal única dos lançamentos de produtos, publicada na galeria de recursos de preparação de Operações. A [exibição mensal do calendário de lançamento de produtos](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) substituirá as comunicações individuais de lançamentos de produtos na galeria de recursos de preparação de Operações e nos anúncios do Partner Center.
+
+Você também pode acessar o [calendário de lançamento de produtos](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) em [coleções da comunidade](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/), [exibições de calendário](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated) e [boletins informativos do CSP](https://partner.microsoft.com/resources/collection/csp-monthly-update#/). Quando publicarmos o calendário de lançamento de produtos de cada mês, você receberá um comunicado na galeria de recursos de preparação de Operações.
+
+Você ainda encontra as informações sobre ofertas novas e atuais na visualização e nos logs de alterações da lista de preços, bem como nos blogs de produto, nos guias de licenciamento e nas páginas de marketing de produto.
+
+A alteração será aplicada aos lançamentos dos seguintes produtos:
+
+- Dynamics local
+- Microsoft 365
+- Microsoft Dynamics 365
+- Windows
+- Servidor  
+- Ferramentas
+- Equipes e telecomunicações
+
+Continuaremos a enviar anúncios específicos para lançamentos de produtos que exigem detalhes de preparação de Operações.
+
+### <a name="next-steps"></a>Próximas etapas
+
+Analise os recursos relacionados a este tópico e repasse as informações aos stakeholders apropriados da sua organização.
+
+### <a name="questions"></a>Perguntas?
+
+Em caso de dúvidas adicionais sobre essas ofertas, confira as comunidades relevantes no Yammer.
+
+________________
+## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="15"></a>Alterações nos requisitos de integração de cliente CSP
+
+### <a name="categories"></a>Categorias
+
+- Data: 25/03/2021
+- Funcionalidades
+
+### <a name="summary"></a>Resumo
+
+Como parte do nosso compromisso de ajudar parceiros e clientes a administrar os negócios com base na confiança, solicitaremos informações adicionais do cliente a partir do dia 25 de março de 2021.
+
+### <a name="impacted-audience"></a>Público-alvo afetado
+
+Os provedores indiretos e os parceiros de cobrança direta do CSP (Provedor de Soluções na Nuvem) que têm clientes novos ou atuais nos países/regiões listados na próxima seção
+
+### <a name="details"></a>Detalhes
+
+O trabalho da Microsoft é baseado em confiança. Temos o compromisso de fornecer um método de validação do cliente que esteja em conformidade e que seja seguro e protegido para realizar transações de assinatura de clientes no programa CSP. Em 25 de março de 2021, apresentaremos os aprimoramentos da IU (interface do usuário) e da API do Partner Center que afetarão os parceiros que atendem a estes dois critérios:
+
+1. O parceiro tem um relacionamento de cobrança direta com a Microsoft (o que significa que ele é um parceiro de cobrança direta ou um provedor indireto).
+
+2. O parceiro faz negócios com clientes novos ou existentes nos seguintes países/regiões:
+
+    - Tailândia
+    - Vietnã
+    - Turquia
+    - Polônia
+    - África do Sul
+    - Índia
+    - Brasil
+    - Iraque
+    - Myanmar
+    - Sudão do Sul
+    - Arábia Saudita
+    - Emirados Árabes Unidos
+    - Venezuela
+
+Os parceiros que atendem aos critérios precisarão enviar a **ID de registro da empresa** (também conhecido como o **INN da organização** do cliente) e o **número de telefone** do cliente ao integrar clientes ou modificar os detalhes deles. Esses parceiros também podem inserir um **segundo nome** opcional para o cliente.
+
+Observe que, ao adicionar a ID de registro da sua empresa, você deve usar o número de identificação de contribuinte da sua empresa e não a ID pessoal do cliente.
+
+Os parceiros que fazem negócios com clientes novos ou existentes nos países/regiões a seguir já foram integrados a uma versão anterior em novembro de 2020.
+
+- Armênia
+- Azerbaijão
+- Bielorrússia
+- Hungria
+- Cazaquistão
+- Quirguistão
+- Moldova
+- Rússia
+- Tadjiquistão
+- Ucrânia
+- Uzbequistão
+
+No dia 25 de março de 2021, os parceiros com clientes no restante do mundo poderão inserir a **ID de registro da empresa**, o **número de telefone** e o **segundo nome** dos clientes como detalhes opcionais.
+
+### <a name="next-steps"></a>Próximas etapas
+
+- Examine a documentação técnica e as perguntas frequentes na [coleção de parceiros dedicada](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) para obter diretrizes mais detalhadas.
+
+- Prepare-se para incorporar as alterações usando a experiência do usuário da Web e a API do Partner Center. A API e os SDKs estarão disponíveis para teste.
+
+- Lembre-se de enviar os dados adicionais ao integrar novos clientes ou modificar detalhes dos clientes existentes.
+
+- Se estiver usando uma solução de CPV (fornecedor de painel de controle), consulte seu CPV.
+
+### <a name="questions"></a>Perguntas?
+
+Entre em contato com seu consultor fiscal ou o escritório fiscal local em caso de dúvidas relacionadas ao identificador legal (também chamado de INN ou TIN). A Microsoft não pode fornecer diretrizes sobre questões fiscais.
+
+Caso precise obter suporte para suas operações com a Microsoft, [abra uma solicitação de serviço](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
 ________________
 ## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="14"></a>Correções feitas na lista de preços de software perpétuo de 1º de março de 2021

@@ -9,21 +9,22 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6fc3fbfbc5ebf874460fbf2f0065150089db39d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: dae147c45aca27657f1e88b6943279f9771313d6
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436805"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132988"
 ---
 # <a name="moving-from-partner-membership-center-pmc-to-partner-center"></a>Migrar do PMC (Partner Membership Center) para o Partner Center
 
 **Funções apropriadas**
--    Administrador global
+
+- Administrador global
 
 Estamos tornando mais fácil para você fazer negócios conosco, introduzindo um único site (Partner Center) que serve como um ponto central de envolvimento. Você descobrirá que tudo o que fazia no PMC (Partner Membership Center) pode ser realizado em seu painel no Partner Center. 
 
-Você também pode fazer muito mais, tudo sem sair de um único site da Web. No entanto, alguns dos recursos e a terminologia podem parecer diferentes. Para atenuar as preocupações iniciais sobre o local em que as coisas estão e o que são, faça o tour pelo site do seu painel.
+Você também pode fazer muito mais sem sair de um único site da Web. No entanto, alguns dos recursos e a terminologia podem parecer diferentes. Para saber em que locais realizar determinadas tarefas e quais recursos estão disponíveis, você deve fazer o tour pelo painel.
 
 Esta tabela apresenta algumas das diferenças entre o PMC e o Partner Center.
 
@@ -43,14 +44,14 @@ Esta tabela apresenta algumas das diferenças entre o PMC e o Partner Center.
 
 |**PMC**   |**Partner Center**|
 |----------------------|:-----------------------------|
-|Era possível usar suas credenciais de MSA (conta Microsoft) ou de conta pessoal (joe@outlook.com)|Você precisa usar suas credenciais de conta corporativa, (joe@joescompany.com). Para obter mais informações, confira [Sua conta corporativa e o Partner Center](azure-active-directory-tenants-and-partner-center.md).|
+|Era possível usar suas credenciais de MSA (conta Microsoft) ou de conta pessoal (joe@outlook.com)|Você precisa usar as credenciais da sua conta corporativa (por exemplo, joe@joescompany.com). Para obter mais informações, confira [Sua conta corporativa e o Partner Center](azure-active-directory-tenants-and-partner-center.md).|
 
 ## <a name="user-roles"></a>Funções de usuário
 
 |**PMC**   |**Partner Center**|
 |----------------------|:-----------------------------|
 |Muitas funções no PMC não são usadas no Partner Center|O administrador que realiza a migração para o Partner Center recebe automaticamente as funções de Administrador do MPN, Administrador da Conta e Administrador de Referências. Em seguida, eles podem atribuir outros usuários a funções de usuário.|
-|Os usuários eram gerenciados no nível de local|Os usuários são gerenciados no nível da empresa (PGA) em vez de no nível de local. A exceção é o Administrador de incentivos, que funciona no nível de local.|
+|Os usuários eram gerenciados no nível de local|Os usuários são gerenciados no nível da empresa (PGA) em vez de no nível de local. A exceção é o administrador de incentivos, que funciona no nível de local.|
 |   |O Partner Center tem dois amplos conjuntos de funções: as funções que administram o locatário do Azure AD e as funções que administram os negócios da empresa. Organize as funções da maneira que faz sentido para sua empresa. Uma pessoa pode fazer tudo ou várias pessoas podem receber funções e permissões separadas. Para obter mais informações, confira [Atribuir funções e permissões de usuário](permissions-overview.md). 
 
 ## <a name="how-competencies-and-benefits-are-accounted-for"></a>Como as competências e os benefícios são contabilizados
@@ -61,7 +62,7 @@ Esta tabela apresenta algumas das diferenças entre o PMC e o Partner Center.
 |Podia ter outros ABTKs (kits de ferramentas de benefícios adicionais) até que eles foram desativados em outubro de 2018.|Sem ABTKs; um MAPS por empresa; uma competência prata por empresa; uma competência ouro por empresa|
 ||Contanto que ainda não tenha o MAPS, você pode comprá-lo. A propriedade do MAPS não está vinculada a competências.  
 |Os benefícios foram acessados no PDD (Download Digital do Parceiro) |Todos os benefícios são acessados no Partner Center|
-|Competências e benefícios espalhados e divididos entre vários locais|Suas competências e seus benefícios de todos os seus locais são consolidados no nível da empresa (PGA) e ficarão retidos até sua data de aniversário. Nesse momento, será necessário comprar ou renovar no nível da empresa. Desempenho e habilidades, bem como competências, são agregados globalmente|
+|Competências e benefícios espalhados e divididos entre vários locais|Suas competências e seus benefícios de todos os seus locais são consolidados no nível da empresa (PGA) e ficarão retidos até sua data de aniversário. Nesse momento, será necessário comprar ou renovar no nível da empresa. O desempenho, as habilidades e as competências são agregados globalmente|
 |As declarações de comprovante do Software Assurance são feitas na ferramenta VRR (Voucher Validation and Redemption)|Agora você pode acessar e gerenciar os SAVTs (comprovantes de treinamento do Software Assurance) e/ou os DPSs (serviços de planejamento implantados) no Partner Center.  A ferramenta VVR herdada será desativada em 1º de outubro de 2019.  |
 
 ## <a name="associating-mcp-ids-to-partner-center"></a>Associar IDs do MCP ao Partner Center

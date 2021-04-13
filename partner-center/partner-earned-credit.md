@@ -9,19 +9,19 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 464a277cc62f8b3349e8f7957106b902081eded8
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 5561c2e183c1dc50b573f89769da27317c83ba00
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556388"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086525"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Crédito ganho pelo parceiro – uma visão geral sobre como ele funciona na nova experiência de comércio no CSP
 
 **Funções apropriadas**
 
 - Administrador global
-- Administrador de usuários
+- Administrador de gerenciamento de usuário
 - Agente administrativo
 - Administrador de cobrança
 - Agente de vendas
@@ -51,7 +51,7 @@ Esses serviços exigem que o parceiro esteja bem familiarizado com o ambiente do
 
 Seus clientes contam contigo para extrair o máximo de seus negócios hospedados no Azure. Com os serviços gerenciados, você pode fornecer regularmente aos seus clientes serviços diferenciados. Dentre as operações diárias e o suporte que você é capaz de fornecer, estão:
 
-- **Operações de nuvem e serviços de gerenciamento**: os clientes procuram parceiros da Microsoft para reduzir custos no Azure ao reproduzir o isolamento, as políticas de segurança e os modelos de auditoria que eles têm hoje. Eles também esperam que os parceiros tenham acesso a ferramentas maduras para identificar a adequação da carga de trabalho, bem como a implantação única e os custos operacionais contínuos do Azure. Além disso, os clientes precisam de suporte para automação e orquestração, atualizações de patches, gerenciamento de configuração, backup e recuperação de desastre e gerenciamento de identidades. 
+- **Operações de nuvem e serviços de gerenciamento**: os clientes procuram parceiros da Microsoft para reduzir custos no Azure ao reproduzir o isolamento, as políticas de segurança e os modelos de auditoria que eles têm hoje. Eles também esperam que os parceiros tenham acesso a ferramentas maduras para identificar a adequação da carga de trabalho, bem como o custo da implantação e os custos operacionais contínuos do Azure. Além disso, os clientes precisam de suporte para automação e orquestração, atualizações de patches, gerenciamento de configuração, backup e recuperação de desastre e gerenciamento de identidades. 
 
 - **Monitoramento de nuvem e suporte técnico**: em um mundo de consumo de nuvem, as ferramentas e os requisitos evoluíram, mas a preocupação de encontrar o recurso certo para gerenciar a infraestrutura de TI não mudou. A maioria das organizações simplesmente não tem o tempo, os recursos ou a equipe dedicada necessária para monitorar todos os aspectos de TI e é aí que você, como parceiro confiável, agrega mais valor. Embora o Azure ofereça vários recursos de monitoramento internos, são necessários parceiros que forneçam ferramentas de monitoramento adicionais e mais profundas, façam a triagem de falsos positivos entre os alertas reais e ajam proativamente sobre os alertas antes de perdas mensuráveis no desempenho. 
 
@@ -62,7 +62,7 @@ Seus clientes contam contigo para extrair o máximo de seus negócios hospedados
 
 - **Análise de logs e alertas**: Todo cliente, dispositivo e usuário que acessa uma rede produz dados que são registrados. A análise de logs pode oferecer uma percepção aprofundada do desempenho, da segurança, do consumo de recursos e de outras métricas significativas.
 
-- **Monitoramento de banco de dados**: Uma exibição do banco de dados do cliente que ajuda os parceiros a garantir a alta disponibilidade dos servidores de banco de dados. O processo envolve manter logs de tamanho, tempo de conexão e usuários de bancos de dados, analisar tendências de uso e aproveitar os dados para corrigir os problemas de maneira proativa.
+- **Monitoramento de banco de dados**: Uma exibição do banco de dados do cliente que ajuda os parceiros a garantir a alta disponibilidade dos servidores de banco de dados. O processo envolve manter logs de tamanho, tempo de conexão e usuários de bancos de dados, analisar tendências de uso e usar os dados para corrigir os problemas de maneira proativa.
 
 - **Monitoramento de desempenho do aplicativo**: Acompanhamento de ponta a ponta de todos os aspectos de um aplicativo (ou uma página da Web). O monitoramento de aplicativos envolve acompanhar todas as partes, desde os carrinhos de compras até as páginas de registro, dos aplicativos de um cliente quanto a problemas de desempenho para fornecer a melhor experiência de usuário possível.
 

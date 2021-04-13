@@ -390,8 +390,6 @@
     - name: Noções básicas sobre cobrança
       href: billing-basics.md
       displayName: invoice
-    - name: Tipos de cobrança no Partner Center
-      href: billing-different-types.md
     - name: Entenda sua fatura
       href: read-your-bill.md
       displayName: invoice

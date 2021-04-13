@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1296c0e28412bfece328be2d8033c2d080bfdc
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 8cc74ac7549dd9c58827eac4ca7ff780062cc519
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712266"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441805"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscrever-se no programa Provedor de Soluções na Nuvem
-
-**Aplica-se a**
-
-- Partner Center  
 
 **Funções apropriadas**
 
@@ -73,7 +69,7 @@ Como um parceiro de cobrança direta, você tem a relação de ponta a ponta com
 |**ID do MPN**   |Uma associação ativa no Microsoft Partner Network e a ID do MPN para o local onde deseja vender.    |
 |**Endosso**   |A autoridade de aceitar e assinar contratos legais em nome de sua organização.|
 |**Suporte**   |A capacidade de fornecer o primeiro nível de suporte a produtos em nuvem aos seus clientes. <br>Um plano de suporte da Microsoft, seja o Suporte Avançado para Parceiros (ASfP) ou o Suporte Premier para Parceiros (PSfP), dependendo das necessidades de suporte de seus clientes. [Compare os planos de suporte](https://partner.microsoft.com/support/partnersupport).<br> IMPORTANTE: Você deve obter aprovação em uma verificação de crédito antes de comprar um plano de suporte. Enviaremos um email a você quando você for aprovado na verificação de crédito. |
-|**Requisito de receita**|Precisa atender a pelo menos US$ 300 mil na receita anual do programa Provedor de Soluções na Nuvem durante os últimos 12 meses como revendedor indireto. Os parceiros podem examinar os últimos 12 meses de receita deles no Partner Center.<br/>As vendas que compõem sua receita de US$ 300 mil dos últimos 12 meses estão sujeitas a revisão e verificação realizadas pela Microsoft, e talvez você precise fornecer mais informações. O requisito de receita de US$ 300 mil é calculado com base na receita de nuvem e excluirá o software perpétuo no CSP.|
+|**Requisito de receita**|Precisa ter pelo menos US$ 300 mil de receita anual do programa Provedor de Soluções na Nuvem durante os últimos 12 meses como revendedor indireto. Os parceiros podem examinar os últimos 12 meses de receita deles no Partner Center.<br/>As vendas que compõem sua receita de US$ 300 mil dos últimos 12 meses estão sujeitas a revisão e verificação realizadas pela Microsoft, e talvez você precise apresentar mais informações. O requisito de receita de US$ 300 mil é calculado com base na receita de nuvem e excluirá o software perpétuo no CSP.|
 |**Contas a receber** |A infraestrutura organizacional no local para gerenciar a cobrança e o provisionamento do cliente.|
 |**Recomendação**|             |
 |**Serviço gerenciado**   |Pelo menos um serviço gerenciado, serviço IP ou aplicativo de solução de cliente. Saiba mais sobre como adicionar [serviços gerenciados](https://partner.microsoft.com/business-opportunities/managed-services-provider).|

@@ -8,16 +8,16 @@ description: Use o Partner Center para realizar negócios com a Microsoft e seus
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 3b5627e9ade9a1e7fd8b5576ed8fd80202b974eb
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 992e02e2ae27e4cf03071e114de22f42f11f7601
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582641"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132240"
 ---
 # <a name="what-is-partner-center"></a>O que é o Partner Center?
 
-##### <a name="appropriate-roles"></a>Funções apropriadas
+**Funções apropriadas**
 
 - Todos os parceiros interessados no Partner Center
 
@@ -53,7 +53,7 @@ Crie seu perfil de negócios para exibir as áreas de conhecimento da sua empres
 
 ## <a name="co-sell-with-microsoft-and-other-partners"></a>Venda conjunta com a Microsoft e outros parceiros
 
-A venda conjunta é o caminho para que os parceiros realizem a venda conjunta com a Microsoft e outros parceiros para fazer uma venda colaborativa que funciona melhor em conjunto e ter resultados positivos dos clientes. A venda conjunta permite que você aproveite a marca global da Microsoft, as equipes de vendas, as funcionalidades de geração de demanda e o marketplace comercial para alcançar novos clientes em todo o mundo. Venda com outros parceiros e conosco. Saiba mais em [Gerenciar oportunidades de venda conjunta](manage-co-sell-opportunities.md).
+A venda conjunta é o caminho para que os parceiros realizem a venda conjunta com a Microsoft e outros parceiros para fazer uma venda colaborativa que funciona melhor em conjunto e ter resultados positivos dos clientes. A venda conjunta permite que você use a marca global da Microsoft, as equipes de vendas, as funcionalidades de geração de demanda e o marketplace comercial para alcançar novos clientes em todo o mundo. Venda com outros parceiros e conosco. Saiba mais em [Gerenciar oportunidades de venda conjunta](manage-co-sell-opportunities.md).
 
 ## <a name="manage-customer-software-needs"></a>Gerenciar necessidades de software do cliente
 

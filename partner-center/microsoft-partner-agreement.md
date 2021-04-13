@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 34f43895da6b25ca62e32b0d56eaa401564cca92
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: a3c8b1df8b14d2a1647982ea8d6f27ca59ff6195
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880796"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441261"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Saiba mais sobre o MPA (Contrato de Parceiro da Microsoft) para parceiros do programa CSP
 
@@ -24,7 +24,7 @@ ms.locfileid: "104880796"
 
 O Contrato de Parceiro da Microsoft fornece aos parceiros da Microsoft um contrato unificado e digitalmente aceito. O Contrato de Parceiro da Microsoft contém um conjunto básico de termos perpétuos que ajudam a Microsoft, os parceiros e os clientes a oferecer suporte à privacidade e à segurança dos dados, a promover a conformidade e a incentivar práticas comerciais sólidas.
 
-Os parceiros do programa CSP (Provedor de Soluções na Nuvem), incluindo provedores indiretos, revendedores indiretos e parceiros de cobrança direta, poderão assinar a MPA online na Central de Parceiros. Os parceiros de provedores indiretos e de cobrança direta que operam na nuvem governamental também poderão assinar o MPA no Partner Center.
+Os parceiros do programa CSP (Provedor de Soluções na Nuvem), incluindo provedores indiretos, revendedores indiretos e parceiros de cobrança direta, poderão assinar a MPA online na Central de Parceiros. Os parceiros de provedores indiretos e de cobrança direta que operam no Microsoft Cloud for US Government também poderão assinar o MPA no Partner Center.
 
 Para continuar participando do programa CSP, você precisa assinar o MPA (Contrato de Parceiro da Microsoft) antes de 31 de janeiro de 2020. A Central de Parceiros lembrará você de que agora é possível assinar o contrato na Central de Parceiros.
 
@@ -64,7 +64,7 @@ Para continuar participando do programa CSP, você precisa assinar o MPA (Contra
  
 4. Caso o status de **Revendedor indireto** esteja **Qualificado**, acesse o [**Painel de visão geral**](https://partner.microsoft.com/pcv/dashboard/overview) para aceitar o MPA para ativar sua conta.
  
-1. Caso o status de Revendedor indireto seja **Rejeitado** ou **Recusado**, houve falha na verificação de sua conta. Leia o [Processo de verificação](verification-responses.md) para descobrir como resolver o problema de verificação.
+1. Caso o status de revendedor indireto seja **Rejeitado** ou **Recusado**, houve falha na verificação de sua conta. Leia o [Processo de verificação](verification-responses.md) para descobrir como resolver o problema de verificação.
 
 1. Caso já tenha sido movido para o Partner Center como um revendedor indireto, aceite o Contrato de Parceiro da Microsoft na visão geral do Painel do Partner Center usando credenciais de Administrador Global. É possível confirmar se o Contrato de Parceiro da Microsoft já foi assinado em [Perfil do Parceiro](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) **Informações do Programa** ou na notificação da faixa de notificação na página de Visão Geral do CSP.
 
@@ -75,7 +75,7 @@ Lembre-se de aceitar a solicitação de relacionamento do CSP com seu provedor I
 1. Entre no Partner Center com sua conta de CSP Indirect Reseller. Você precisa ser o administrador global.
 1. Acesse a página **[Visão geral do CSP](https://partner.microsoft.com/pcv/dashboard/overview)** .  Se você não vir **Aceitar e continuar** ou a faixa verde informando que o MPA está assinado, você não tem a função certa para assinar o MPA. Entre em contato com seu administrador global para assinar o MPA.
 
-1. Para exibir e baixar o **Contrato de Parceiro da Microsoft** antes de assiná-lo, clique no link do Contrato de Parceiro da Microsoft, conforme mostrado abaixo.
+1. Para exibir e baixar o **Contrato de Parceiro da Microsoft** antes de assiná-lo, selecione o link do Contrato de Parceiro da Microsoft, conforme mostrado abaixo.
 
 :::image type="content" source="images/agreement-three.png" alt-text="Novo local do contrato do MPA":::
 

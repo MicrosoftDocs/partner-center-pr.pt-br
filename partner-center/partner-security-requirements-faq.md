@@ -9,23 +9,18 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9f60b6e2624bd4f9020181a936842bdb46db8aa9
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: f2bf6823fdd976632fb8ad9c8f11ce99835d76a5
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133041"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087069"
 ---
 # <a name="common-questions-about-partner-security-requirements"></a>Perguntas comuns sobre os requisitos de segurança de parceiros
 
-**Aplica-se a**
+**Funções apropriadas**
 
-- Partner Center
-
-**Usuários apropriados**
-
-- Todos os usuários habilitados, incluindo usuários convidados
-
+- Todos os usuários do Partner Center
 
 Este artigo responde a algumas perguntas comuns sobre os [requisitos de segurança do parceiro](partner-security-requirements.md).
 
@@ -53,14 +48,14 @@ Não, não é possível excluir nenhuma conta de usuário do requisito de ter a 
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Como faço para saber se atendi aos requisitos de segurança do parceiro?
 
-Será necessário concluir as seguintes etapas:
+Concluir as seguintes etapas:
 
 - Você precisa atender a todos os requisitos descritos em [requisitos de segurança do parceiro](partner-security-requirements.md).
 - Você precisa garantir que a autenticação multifator seja imposta em todas as contas de usuário em seu locatário do parceiro.
 
 Para ajudar a identificar as principais áreas nas quais você pode executar ações, estamos fornecendo o [relatório de status dos requisitos de segurança](https://partner.microsoft.com/commerce/security/compliance), que está disponível por meio do Partner Center.
 
-Confira o [status dos requisitos de segurança do parceiro](partner-security-compliance.md) para obter mais informações sobre o relatório de status.
+Para mais informações sobre o relatório de status, confira o [status dos requisitos de segurança do parceiro](partner-security-compliance.md).
 
 ## <a name="required-actions"></a>Ações necessárias
 
@@ -77,7 +72,7 @@ Todos os parceiros do programa CSP (cobrança direta, provedor indireto e revend
     - os provedores indiretos precisarão trabalhar com os revendedores indiretos para se integrar ao Partner Center, caso ainda não o tenham feito, além de encorajar seus revendedores a atender aos requisitos.
     - A MFA do Azure está sendo disponibilizada para todos os usuários no locatário de parceiro sem nenhum custo por meio dos padrões de segurança do Azure AD com o único método de verificação de um aplicativo autenticador que dá suporte à TOTP (Senhas Avulsas por Tempo Limitado).
     - Há métodos de verificação adicional disponíveis por meio das SKUs do [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium), caso outros métodos – uma chamada telefônica ou mensagem e texto – sejam necessários.
-    - Os parceiros também podem aproveitar uma solução de MFA de terceiros para cada conta ao acessar os serviços de nuvem comercial da Microsoft.
+    - Os parceiros também podem usar uma solução de MFA de terceiros para cada conta ao acessar os serviços de nuvem comercial da Microsoft.
 
 2. **Adotar a estrutura do Modelo de Aplicativo Seguro**
 
@@ -98,7 +93,7 @@ Todos os parceiros do programa CSP (cobrança direta, provedor indireto e revend
 
 ### <a name="what-is-multi-factor-authentication-mfa"></a>O que é a MFA (autenticação multifator)?
 
-A MFA é um mecanismo de segurança por meio do qual os indivíduos são autenticados por mais de um procedimento obrigatório de validação e segurança. Ela funciona exigindo dois ou mais dos seguintes métodos de autenticação:
+O MFA é um mecanismo de segurança para autenticar indivíduos por meio de mais de um procedimento obrigatório de validação e de segurança. Ela funciona exigindo dois ou mais dos seguintes métodos de autenticação:
 
 - Algo que você sabe (geralmente uma senha)
 - Algo que você tem (um dispositivo confiável que não é duplicado facilmente, como um telefone)
@@ -145,7 +140,7 @@ Para obter mais informações, confira a [lista de compatibilidade da federaçã
 
 ### <a name="how-can-i-test-mfa-in-our-integration-sandbox"></a>Como posso testar a MFA em nossa área restrita de integração?
 
-O recurso de padrões de segurança do Azure AD deve ser habilitado ou, como alternativa, você pode aproveitar a solução de terceiros que utiliza a federação.
+Habilite o recurso de padrões de segurança do Azure AD ou use uma solução de terceiros que use federação.
 
 ### <a name="will-enabling-mfa-affect-how-i-interact-with-my-customers-tenant"></a>A habilitação da MFA afetará o meu modo de interação com o locatário do meu cliente?
 
@@ -165,7 +160,7 @@ Sim, os requisitos de segurança de parceiros se aplicam à área restrita de in
 
 ### <a name="how-do-i-configure-an-emergency-access-break-glass-account"></a>Como faço para configurar uma conta de acesso de emergência?
 
-É considerada uma melhor prática criar uma ou duas contas de acesso de emergência para impedir o bloqueio não intencional do seu locatário do Azure AD. Em relação aos requisitos de segurança de parceiros, é necessário que cada usuário seja autenticado usando a MFA. Esse requisito significa que você precisará modificar a definição da conta de acesso de emergência. Pode ser uma conta que esteja aproveitando uma solução de MFA de terceiros.
+É considerada uma melhor prática criar uma ou duas contas de acesso de emergência para impedir o bloqueio não intencional do seu locatário do Azure AD. Em relação aos requisitos de segurança de parceiros, é necessário que cada usuário seja autenticado usando a MFA. Esse requisito significa que você precisará modificar a definição da conta de acesso de emergência. Pode ser uma conta que esteja usando uma solução de MFA de terceiros.
 
 ### <a name="is-active-directory-federation-service-adfs-required-if-i-am-using-a-third-party-solution"></a>O ADFS (Serviço de Federação do Active Directory) será necessário se eu estiver usando uma solução de terceiros?
 
@@ -177,7 +172,7 @@ Não, não é obrigatório habilitar os padrões de segurança do Azure AD.
 
 ### <a name="can-conditional-access-be-used-to-meet-the-mfa-requirement"></a>O acesso condicional pode ser usado para atender ao requisito de MFA?
 
-Sim, você pode usar o acesso condicional para impor a MFA para cada usuário do seu locatário de parceiro, inclusive das contas de serviço. Contudo, considerando a natureza altamente privilegiada de um parceiro, precisamos garantir que cada usuário tenha um desafio de MFA a cada autenticação realizada. Isso significa que você não poderá aproveitar o recurso de acesso condicional que contorna o requisito de MFA.
+Sim, você pode usar o acesso condicional para impor a MFA para cada usuário do seu locatário de parceiro, inclusive das contas de serviço. Contudo, considerando a natureza altamente privilegiada de um parceiro, precisamos garantir que cada usuário tenha um desafio de MFA a cada autenticação realizada. Isso significa que você não poderá usar o recurso de acesso condicional que contorna o requisito de MFA.
 
 ### <a name="will-the-service-account-used-by-azure-ad-connect-be-impacted-by-the-partner-security-requirements"></a>A conta de serviço usada pelo Azure AD Connect será afetada pelos requisitos de segurança de parceiros?
 
@@ -187,7 +182,7 @@ Não, a conta de serviço usada pelo Azure AD Connect não será afetada pelos r
 
 ### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>Quem deve adotar o modelo de aplicativo seguro para atender aos requisitos?
 
-A Microsoft está introduzindo uma estrutura segura e escalonável para autenticar parceiros do CSP (Provedor de Soluções na Nuvem) e CPVs (Fornecedores de Painel de Controle) que aproveitam a Autenticação Multifator. Consulte o [guia do Modelo de Aplicativo Seguro](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) para obter mais informações. Todos os parceiros que desenvolveram uma integração personalizada usando qualquer API (como as APIs do Azure Resource Manager, do Microsoft Graph, do Partner Center, etc.) ou que implementaram uma automação personalizada usando ferramentas como o PowerShell, precisarão adotar a [estrutura do Modelo de Aplicativo Seguro](/partner-center/develop/enable-secure-app-model) para se integrar com os serviços em nuvem da Microsoft.
+A Microsoft está introduzindo uma estrutura segura e escalonável para autenticar parceiros do CSP (Provedor de Soluções na Nuvem) e CPVs (Fornecedores de Painel de Controle) que usam a autenticação multifator. Para mais informações, veja o [guia do Modelo de Aplicativo Seguro](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Todos os parceiros que desenvolveram uma integração personalizada usando qualquer API (como as APIs do Azure Resource Manager, do Microsoft Graph, do Partner Center, etc.) ou que implementaram uma automação personalizada usando ferramentas como o PowerShell, precisarão adotar a [estrutura do Modelo de Aplicativo Seguro](/partner-center/develop/enable-secure-app-model) para se integrar com os serviços em nuvem da Microsoft.
 
 ### <a name="what-is-the-secure-application-model"></a>O que é o Modelo de Aplicativo Seguro?
 

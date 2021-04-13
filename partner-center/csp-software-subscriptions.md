@@ -9,25 +9,21 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: ac6169ea6680ea0b36cd5caa3f3e8276f557bea2
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475187"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502545"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vender assinaturas de software por meio do programa CSP (Provedor de Soluções na Nuvem)
-
-**Aplica-se a**
-
-- Provedores de Soluções na Nuvem
 
 **Funções apropriadas**
 
 - Agente administrativo
 - Administrador global
 
-Com as reservas do Azure e as assinaturas do Server (assinaturas do Windows Server e do SQL Server), os parceiros do programa CSP podem lidar melhor com a demanda acelerada do cliente por soluções mais econômicas para processar cargas de trabalho na nuvem altamente previsíveis e persistentes. 
+Com as reservas do Azure e as assinaturas do Server (assinaturas do Windows Server e do SQL Server), os parceiros do programa CSP podem lidar melhor com a demanda acelerada do cliente por soluções mais econômicas para dar suporte a cargas de trabalho na nuvem altamente previsíveis e persistentes. 
 
 Agora é possível adquirir, provisionar e gerenciar reservas do Azure e assinaturas de servidor em nome de clientes comerciais por meio do Partner Center e do portal do Azure aproveitando o Benefício Híbrido do Azure.
 
@@ -101,7 +97,7 @@ Depois de adquirir seu software, você ou seus clientes precisarão baixá-lo (p
 
 2. Escolha a **versão**, o **idioma** e o **bit** do produto e selecione **Obter chaves e downloads**. 
 
-3. Escolha **Obter Chave**, que exibirá o produto de 32 dígitos em uma caixa de diálogo pop-up que você pode copiar e enviar ao cliente. 
+3. Escolha **Obter Chave** para exibir o produto de 32 dígitos em uma caixa de diálogo pop-up, que você pode copiar e enviar ao cliente. 
 
 4. Escolha **Baixar** para baixar os bits. 
 
@@ -114,7 +110,7 @@ Depois de adquirir seu software, você ou seus clientes precisarão baixá-lo (p
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Download de assinatura do servidor e chaves de licença disponíveis por meio do Centro de administração do Microsoft 365 para clientes 
 
-Seus clientes poderão obter as chaves de licença de assinatura do servidor CSP e downloads do Centro de administração do Microsoft 365. Para ver suas chaves de licença de assinatura do servidor CSP e downloads, o cliente deve acessar o Centro de administração do Microsoft 365 > **Cobrança > Seus produtos > guia Software**. Para saber mais detalhes, confira a [guia Software em Cobrança](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
+Seus clientes poderão obter as chaves de licença de assinatura do servidor CSP e downloads do Centro de administração do Microsoft 365. Para ver as chaves de licença de assinatura do servidor CSP e os downloads, o cliente deve acessar o Centro de administração do Microsoft 365 > **Cobrança > Seus produtos > guia Software**. Para saber mais detalhes, confira a [guia Software em Cobrança](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Exibir a atividade de acesso à chave de software e downloads de software
 

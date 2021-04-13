@@ -9,22 +9,16 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b6985054e927dd777d61ae30bd435ab4c6c4ea8c
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 21e0ebd58835be34f9cc161072ff3690b30abf57
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133093"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086355"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Como obrigar o uso da MFA (autenticação multifator) para o locatário do parceiro
 
-**Aplica-se a**
-
-- Todos os parceiros no programa Provedor de Soluções na Nuvem
-- Todos os Fornecedores do Painel de Controle
-- Todos os consultores
-
-**Funções afetadas**
+**Funções apropriadas**
 
 - Agente administrativo
 - Agente de vendas
@@ -46,8 +40,8 @@ Para ajudar os parceiros a proteger os negócios e os clientes deles contra roub
 
 Determinadas páginas no painel do Partner Center serão protegidas por MFA, incluindo:
 
-- Todas as páginas na guia **Clientes** , por exemplo, todas as páginas que podem ser acessadas por meio da seguinte URL: https://partner.microsoft.com/commerce/*
-- Todas as páginas na guia **Suporte > Solicitações do cliente** , por exemplo, a página acessada em https://partner.microsoft.com/dashboard/support/csp/customers/*
+- Todas as páginas na guia **Clientes**, por exemplo, todas as páginas que podem ser acessadas por meio da seguinte URL: https://partner.microsoft.com/commerce/*
+- Todas as páginas na guia **Suporte > Solicitações do cliente**, por exemplo, a página acessada em https://partner.microsoft.com/dashboard/support/csp/customers/*
 - Página de cobrança
 
 A tabela a seguir mostra quais tipos de usuários estão autorizados a acessar essas páginas protegidas por MFA e, portanto, serão afetados por esse recurso.
@@ -71,7 +65,7 @@ Para ilustrar como a verificação funciona no painel do Partner Center, conside
 
 2. Jane inicia uma nova sessão do navegador e navega até a página de visão geral do painel do Partner Center (que não é protegida por MFA). A Central de Parceiros redireciona Leila ao Azure AD para entrada.
 
-3. Devido à configuração existente do Azure AD MFA pela Contoso, Jane deve concluir a verificação da MFA. Após a entrada e a verificação de MFA bem-sucedidas, Leila é redirecionada novamente à página de visão geral do Painel da Central de Parceiros.
+3. Devido à configuração existente do Azure AD MFA pela Contoso, Jane deve concluir a verificação da MFA. Após a entrada e a verificação da MFA bem-sucedidas, Jane será redirecionada de volta à página de visão geral do painel do Partner Center.
 
 4. Jane tenta acessar uma das páginas protegidas por MFA no Partner Center. Como Jane já concluiu a verificação de MFA durante a entrada anterior, ela pode acessar a página protegida por MFA sem precisar passar pela verificação de MFA novamente.
 
@@ -81,7 +75,7 @@ Para ilustrar como a verificação funciona no painel do Partner Center, conside
 
 2. Trent inicia uma nova sessão do navegador e navega até a página de visão geral do painel do Partner Center (que não é protegida por MFA). A Central de Parceiros redireciona Matheus ao Azure AD para entrada.
 
-3. Como a Wingtip configurou a federação de identidades, o Azure AD redireciona Trent para o provedor de identidade federada para concluir a entrada e a verificação de MFA. Após a entrada e a verificação da MFA bem-sucedidas, Matheus é redirecionado novamente ao Azure AD e, em seguida, à página de visão geral do Painel da Central de Parceiros.
+3. Como a Wingtip configurou a federação de identidades, o Azure AD redireciona Trent para o provedor de identidade federada para concluir a entrada e a verificação de MFA. Após a entrada e a verificação da MFA bem-sucedidas, Trent será redirecionado de volta ao Azure AD e à página de visão geral do painel do Partner Center.
 
 4. Trent tenta acessar uma das páginas protegidas por MFA no Partner Center. Como Trent já concluiu a verificação de MFA durante a entrada anterior, ele pode acessar a página protegida por MFA sem precisar passar pela verificação de MFA novamente.
 
@@ -91,7 +85,7 @@ Para ilustrar como a verificação funciona no painel do Partner Center, conside
 
 2. John inicia uma nova sessão do navegador e navega até a página de visão geral do painel do Partner Center (que não é protegida por MFA). A Central de Parceiros redireciona Paulo ao Azure AD para entrada.
 
-3. Como a Fabrikam não implementou a MFA, John não precisa concluir a verificação de MFA. Após a entrada bem-sucedida, Paulo é redirecionado novamente à página de visão geral do Painel da Central de Parceiros.
+3. Como a Fabrikam não implementou a MFA, John não precisa concluir a verificação de MFA. Após a entrada bem-sucedida, John será redirecionado de volta à página de visão geral do painel do Partner Center.
 
 4. John tenta acessar uma das páginas protegidas por MFA no Partner Center. Como John não concluiu a verificação de MFA, o Partner Center o redireciona ao Azure AD para concluí-la. Como essa é a primeira vez que Paulo precisa concluir a MFA, também é solicitado que ele se [registre na MFA](#mfa-registration-experience). Após o registro e a verificação de MFA bem-sucedidos, John agora pode acessar a página protegida por MFA.
 
@@ -151,7 +145,7 @@ WWW-Authenticate: Bearer error="invalid_token"
 Date: Thu, 14 Feb 2019 21:54:58 GMT
 ```
 
-Quando a autenticação somente por aplicativo for usada, as APIs que dão suporte à autenticação somente por aplicativo trabalharão continuamente sem exigir a MFA.
+Quando a autenticação somente por aplicativo for usada, as APIs que dão suporte para autenticação somente por aplicativo funcionarão continuamente sem exigir a MFA.
 
 ## <a name="partner-delegated-administration"></a>Administração Delegada por Parceiro
 
@@ -163,9 +157,9 @@ Ao acessar os Portais do Microsoft Online Services usando os Privilégios de Adm
 
 Quando o Azure AD receber essas solicitações de autenticação, ele exigirá que a conta do parceiro conclua a verificação de MFA. Há duas experiências de usuário possíveis, dependendo se a conta do parceiro é uma identidade gerenciada ou federada:
 
-- Se a conta do parceiro for uma identidade **gerenciada** , o Azure AD solicitará ao usuário diretamente que ele conclua a verificação de MFA. Se a conta de parceiro não tiver sido registrada na MFA com o Azure AD anteriormente, o usuário deverá [concluir o registro da MFA](#mfa-registration-experience) primeiro.
+- Se a conta do parceiro for uma identidade **gerenciada**, o Azure AD solicitará ao usuário diretamente que ele conclua a verificação de MFA. Se a conta de parceiro não tiver sido registrada na MFA com o Azure AD anteriormente, o usuário deverá [concluir o registro da MFA](#mfa-registration-experience) primeiro.
 
-- Se a conta do parceiro for uma identidade **federada** , a experiência dependerá de como o administrador de parceiro configurou a federação no Azure AD. Ao configurar a federação no Azure AD, o administrador de parceiro pode indicar para o Azure AD se o provedor de identidade federada dá suporte à MFA ou não. Em caso afirmativo, o Azure AD redirecionará o usuário para o provedor de identidade federada para concluir a verificação de MFA. Caso contrário, o Azure AD solicitará diretamente que o usuário conclua a verificação da MFA. Se a conta de parceiro não tiver sido registrada na MFA com o Azure AD anteriormente, o usuário deverá [concluir o registro da MFA](#mfa-registration-experience) primeiro.
+- Se a conta do parceiro for uma identidade **federada**, a experiência dependerá de como o administrador de parceiro configurou a federação no Azure AD. Ao configurar a federação no Azure AD, o administrador de parceiro pode indicar para o Azure AD se o provedor de identidade federada dá suporte à MFA ou não. Em caso afirmativo, o Azure AD redirecionará o usuário para o provedor de identidade federada para concluir a verificação de MFA. Caso contrário, o Azure AD solicitará diretamente que o usuário conclua a verificação da MFA. Se a conta de parceiro não tiver sido registrada na MFA com o Azure AD anteriormente, o usuário deverá [concluir o registro da MFA](#mfa-registration-experience) primeiro.
 
 A experiência geral é semelhante ao cenário em que um locatário do cliente final implementou a MFA para os administradores dele. Por exemplo, o locatário do cliente habilitou os [padrões de segurança do Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults), o que exige que todas as contas com direitos administrativos entrem no locatário do cliente com verificação de MFA, incluindo Agentes Administrativos e Agentes de Suporte Técnico. Para fins de teste, os parceiros podem habilitar os [padrões de segurança do Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) no locatário do cliente e, em seguida, tentar usar Privilégios de Administração Delegada do Parceiro para acessar o locatário do cliente.
 
@@ -174,7 +168,7 @@ A experiência geral é semelhante ao cenário em que um locatário do cliente f
 
 ### <a name="using-service-apis"></a>Usar APIs de serviço
 
-Algumas APIs do Microsoft Online Services (como o Azure Resource Manager, o Azure AD Graph, o Microsoft Graph etc.) dão suporte a parceiros que usam Privilégios de Administração Delegada do Parceiro para gerenciar programaticamente os recursos do cliente. Para aproveitar os Privilégios de Administração Delegada do Parceiro com essas APIs, o aplicativo do parceiro deve incluir um token de acesso no cabeçalho de Autorização de solicitação da API, em que o token de acesso é obtido tendo uma conta de usuário parceiro para autenticar com o Azure AD, com o cliente do Azure AD definido como o contexto de autenticação. O aplicativo do parceiro precisa ter credenciais da conta do usuário parceiro no locatário do cliente.
+Algumas APIs do Microsoft Online Services (como o Azure Resource Manager, o Azure AD Graph, o Microsoft Graph etc.) dão suporte a parceiros que usam Privilégios de Administração Delegada do Parceiro para gerenciar programaticamente os recursos do cliente. Para usar os Privilégios de Administração Delegada do Parceiro com essas APIs, o aplicativo do parceiro deve incluir um token de acesso no cabeçalho de Autorização de solicitação da API. Para obter o token de acesso, é preciso ter uma conta de usuário do parceiro para autenticação com o Azure AD, com o Azure AD do cliente definido como o contexto de autenticação. O aplicativo do parceiro precisa ter credenciais da conta do usuário parceiro no locatário do cliente.
 
 Quando o Azure AD receber essa solicitação de autenticação, ele exigirá que a conta do usuário parceiro conclua a verificação da MFA. Se a conta do usuário parceiro ainda não tiver sido registrada na MFA, ela deverá concluir o registro de MFA primeiro.
 
@@ -192,7 +186,7 @@ Durante a verificação de MFA, se a conta do usuário parceiro ainda não tiver
 
 :::image type="content" source="images/MfaRegistration1.png" alt-text="Etapa 1 do registro de MFA":::
 
-Depois de clicar em **Avançar** , o usuário precisará escolher uma opção em uma lista de métodos de verificação.
+Depois de clicar em **Avançar**, o usuário precisará escolher uma opção em uma lista de métodos de verificação.
 
 :::image type="content" source="images/MfaRegistration2.png" alt-text="Etapa 2 do registro de MFA":::
 
@@ -205,7 +199,7 @@ Antes de se candidatar para uma [exceção técnica](#how-to-submit-a-request-fo
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>Problema 1: o parceiro precisa de mais tempo para implementar a MFA para os agentes do parceiro dele
 Um parceiro não iniciou ou ainda está no processo de implementação da MFA para os agentes do parceiro dele que precisam acessar os Portais do Microsoft Online Services usando Privilégios de Administração Delegada do Parceiro para gerenciar os recursos do cliente. O parceiro precisa de mais tempo para concluir a implementação da MFA. Esse problema é um motivo válido para exceção técnica?
 
-**Resposta** : Não. O parceiro precisa fazer planos para implementar a MFA para os usuários dele para evitar interrupções.
+**Resposta**: Não. O parceiro precisa fazer planos para implementar a MFA para os usuários dele para evitar interrupções.
 
 > [!NOTE]
 > Embora o parceiro não tenha implementado a MFA para os agentes parceiros dele, os agentes do parceiro ainda poderão acessar os Portais de Serviço Online da Microsoft usando os Privilégios de Administração Delegada do Parceiro, desde que possam concluir o registro e a verificação da MFA quando solicitado durante a entrada no locatário do cliente. Concluir o registro da MFA não habilita automaticamente o usuário para a MFA.
@@ -213,23 +207,23 @@ Um parceiro não iniciou ou ainda está no processo de implementação da MFA pa
 ##### <a name="issue-2-partner-has-not-implemented-mfa-for-user-accounts-not-using-delegated-admin-privileges"></a>Problema 2: o parceiro não implementou a MFA para contas de usuário que não usam Privilégios de Administração Delegada
 Um parceiro tem alguns usuários nos locatários dele que não precisam de acesso aos Portais do Microsoft Online Services para gerenciar os recursos do cliente usando os Privilégios de Administração Delegada do Parceiro. O parceiro está no processo de implementação da MFA para esses usuários e precisa de mais tempo para concluí-lo. Esse problema é um motivo válido para exceção técnica?
 
-**Resposta** : Não. Como essas contas de usuário não estão usando Privilégios de Administrador Delegado do Parceiro para gerenciar recursos do cliente, elas não precisarão entrar no locatário do cliente. Elas não serão afetadas pelo Azure AD que exige verificação de MFA durante a entrada no locatário do cliente.
+**Resposta**: Não. Como essas contas de usuário não estão usando Privilégios de Administrador Delegado do Parceiro para gerenciar recursos do cliente, elas não precisarão entrar no locatário do cliente. Elas não serão afetadas pelo Azure AD que exige verificação de MFA durante a entrada no locatário do cliente.
 
 ##### <a name="issue-3-partner-has-not-implemented-mfa-for-user-service-accounts"></a>Problema 3: o parceiro não implementou a MFA para contas de serviço de usuário
 Um parceiro tem algumas contas de usuário nos locatários parceiros dele, que estão sendo usadas por dispositivos como contas de serviço. Essas são contas com poucos privilégios que não exigem acesso ao Partner Center nem aos Portais do Microsoft Online Services para gerenciar recursos do cliente usando Privilégios de Administração Delegada do Parceiro. Esse problema é um motivo válido para exceção técnica?
 
-**Resposta** : Não. Como essas contas de usuário não estão usando Privilégios de Administrador Delegado do Parceiro para gerenciar recursos do cliente, elas não precisarão entrar no locatário do cliente. Elas não serão afetadas pelo Azure AD que exige verificação de MFA durante a entrada no locatário do cliente.
+**Resposta**: Não. Como essas contas de usuário não estão usando Privilégios de Administrador Delegado do Parceiro para gerenciar recursos do cliente, elas não precisarão entrar no locatário do cliente. Elas não serão afetadas pelo Azure AD que exige verificação de MFA durante a entrada no locatário do cliente.
 
 ##### <a name="issue-4-partner-cannot-implement-mfa-using-ms-authenticator-app"></a>Problema 4: o parceiro não consegue implementar a MFA usando o aplicativo MS Authenticator
 Um parceiro tem uma política de “clean desk”, que não permite que funcionários levem dispositivos móveis pessoais para a área de trabalho deles. Sem acesso aos respectivos dispositivos móveis pessoais, os funcionários não podem instalar o aplicativo MS Authenticator, que é a única verificação de MFA compatível com os padrões de segurança do Azure AD. Esse problema é um motivo válido para exceção técnica?
 
-**Resposta** : Não, esse não é um motivo válido para exceção técnica. O parceiro deve considerar as seguintes alternativas para que os funcionários dele ainda possam concluir a verificação de MFA ao acessar o Partner Center:
+**Resposta**: Não, esse não é um motivo válido para exceção técnica. O parceiro deve considerar as seguintes alternativas para que os funcionários dele ainda possam concluir a verificação de MFA ao acessar o Partner Center:
 - O parceiro também pode se inscrever no Azure AD Premium ou em soluções de MFA de terceiros (compatíveis com o Azure AD) que possam fornecer métodos de verificação adicional.
 
 ##### <a name="issue-5-partner-cannot-implement-mfa-due-to-the-use-of-legacy-authentication-protocols"></a>Problema 5: o parceiro não pode implementar a MFA devido ao uso de protocolos de autenticação herdados
 Um parceiro tem alguns agentes do parceiro que ainda estão usando protocolos de autenticação herdados, que não são compatíveis com MFA. Por exemplo, os usuários ainda estão usando o Outlook 2010, que é baseado em protocolos de autenticação herdados. Habilitar a MFA para esses agentes do parceiro interromperá o uso de protocolos de autenticação herdados.
 
-**Resposta** : Não, esse não é um motivo válido para exceção técnica. Os parceiros são incentivados a não usar protocolos de autenticação herdados devido a eventuais implicações de segurança, pois esses protocolos não podem ser protegidos com verificação de MFA e são muito mais suscetíveis ao comprometimento de credenciais. Se o não uso de protocolos de autenticação herdados não for uma opção, os parceiros deverão considerar inscrever-se no Azure AD Premium, que dá suporte ao uso de Senhas de Aplicativo. As Senhas de Aplicativo são senhas avulsas geradas pelo sistema e geralmente são mais fortes do que as senhas geradas por humanos. Usando Senhas de Aplicativo, os parceiros podem implementar a MFA para os usuários deles enquanto retornam para Senhas de Aplicativo apenas para protocolos de autenticação herdados.
+**Resposta**: Não, esse não é um motivo válido para exceção técnica. Os parceiros são incentivados a não usar protocolos de autenticação herdados devido a eventuais implicações de segurança, pois esses protocolos não podem ser protegidos com verificação de MFA e são muito mais suscetíveis ao comprometimento de credenciais. Se o não uso de protocolos de autenticação herdados não for uma opção, os parceiros deverão considerar inscrever-se no Azure AD Premium, que dá suporte ao uso de Senhas de Aplicativo. As Senhas de Aplicativo são senhas avulsas geradas pelo sistema e geralmente são mais fortes do que as senhas geradas por humanos. Usando Senhas de Aplicativo, os parceiros podem implementar a MFA para os usuários deles enquanto retornam para Senhas de Aplicativo apenas para protocolos de autenticação herdados.
 
 Leia a postagem sobre [Autenticação básica e Exchange Online](https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-auth-and-exchange-online-february-2020-update/ba-p/1191282) para conhecer o plano mais recente de suporte à autenticação herdada para o Outlook e siga o [blog da equipe do Exchange](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange) para receber as próximas notícias. 
 
@@ -239,7 +233,7 @@ Leia a postagem sobre [Autenticação básica e Exchange Online](https://techcom
 ##### <a name="issue-6-partner-has-implemented-third-party-mfa-that-isnt-recognized-by-azure-ad"></a>Problema 6: o parceiro implementou uma MFA de terceiros que não é reconhecida pelo Azure AD
 Um parceiro implementou a MFA para os usuários dele usando uma solução de MFA de terceiros. No entanto, o parceiro não consegue configurar corretamente a solução de MFA de terceiros para retransmitir ao Azure AD que a verificação de MFA foi concluída durante a autenticação do usuário. Esse é um motivo válido para exceção técnica?
 
-**Resposta** : Sim, esse problema pode ser considerado um motivo válido para exceção técnica. Antes de enviar uma solicitação de exceção técnica, confirme com o provedor de soluções de MFA de terceiros que a solução de MFA não pode ser configurada para fluir a declaração *authenticationmethodsreferences* (com o valor *multipleauthn* ) para o Azure AD, a fim de indicar que a verificação de MFA foi concluída durante a autenticação do usuário. Ao enviar uma solicitação de exceção técnica, você precisará fornecer detalhes da solução de MFA de terceiros usada e indicar o método de integração (por exemplo, por meio da federação de identidades ou do uso do controle personalizado do Azure AD) e fornecer as seguintes informações na solicitação de exceção técnica como os documentos de suporte:
+**Resposta**: Sim, esse problema pode ser considerado um motivo válido para exceção técnica. Antes de enviar uma solicitação de exceção técnica, confirme com o provedor de soluções de MFA de terceiros que a solução de MFA não pode ser configurada para fluir a declaração *authenticationmethodsreferences* (com o valor *multipleauthn*) para o Azure AD, a fim de indicar que a verificação de MFA foi concluída durante a autenticação do usuário. Ao enviar uma solicitação de exceção técnica, você precisará fornecer detalhes da solução de MFA de terceiros usada e indicar o método de integração (por exemplo, por meio da federação de identidades ou do uso do controle personalizado do Azure AD) e fornecer as seguintes informações na solicitação de exceção técnica como os documentos de suporte:
 
 - As configurações de MFA de terceiros.
 
@@ -253,13 +247,13 @@ Os parceiros poderão se candidatar para uma exceção técnica a fim de suprimi
 
 Para enviar uma solicitação de exceção técnica:
 
-1. Faça logon no Partner Center como Administrador Global ou Agente Administrativo.
+1. Entre no Partner Center como administrador global ou agente administrativo.
 
-2. Crie uma solicitação de serviço de parceiro navegando até **Suporte** > **Solicitações de suporte do parceiro** e clicando em **Nova solicitação**.
+2. Crie uma solicitação de serviço de parceiro. Para isso, navegue até **Suporte** > **Solicitações de suporte do parceiro** e clique em **Nova solicitação**.
 
 3. Procure **MFA – Solicitação de exceção** na caixa de pesquisa ou selecione **CSP** em Categoria, **Contas, Integração, Acesso** em Tópico, **MFA – Solicitação de exceção** em Subtópico e, em seguida, escolha **Próxima etapa**.
 
-4. Forneça os detalhes solicitados para enviar uma solicitação de serviço de exceção técnica e clique em **Enviar**.
+4. Informe os detalhes necessários para enviar uma solicitação de serviço de exceção técnica e selecione **Enviar**.
 
 A Microsoft pode levar até três dias úteis para fornecer uma resposta a uma solicitação de exceção técnica.
 
