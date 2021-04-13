@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: b08ac8d76324270f32db481a92387b20650f42f5
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024969"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266479"
 ---
 # <a name="training-vouchers-program-retirement"></a>Desativação do programa de comprovantes de treinamento
 
@@ -29,7 +29,7 @@ Os comprovantes de treinamento estão sendo totalmente retirados dos benefícios
 >[!NOTE]
 >Não há nenhuma alteração no ciclo de vida do comprovante. Quando um comprovante é criado/atribuído, a reserva de comprovante, as sessões de treinamento e o resgate de comprovante devem ser concluídos em até 180 dias antes da expiração do comprovante.  Para obter mais informações sobre a desativação do comprovante de treinamento, consulte as perguntas frequentes encontradas [aqui](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) para obter mais informações (entrada necessária).  Consulte a lista completa de cursos de treinamento qualificados para o SATV no catálogo de produtos do benefício de treinamento.  Encaminhe perguntas para sua equipe de suporte de parceiro regional: [suporte para parceiros na EMEA](mailto:savoucher@msdirectservices.com); [Suporte geral a parceiros](https://partner.microsoft.com/dashboard/support/servicerequests).
 
-## <a name="until-june-30-2021"></a>Até 30 de junho de 2021
+
 
 ### <a name="get-started"></a>Introdução
 

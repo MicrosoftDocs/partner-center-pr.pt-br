@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: 9ab6afc85a696b3b614ea5c3b5edc644d92bfc21
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024986"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266496"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>Aposentadoria dos serviços de planejamento do Software Assurance
 
@@ -35,7 +35,6 @@ Os serviços de planejamento estão sendo totalmente retirados dos benefícios d
 >[!NOTE]
 >Não há nenhuma alteração no ciclo de vida do comprovante. Depois que um comprovante for criado/atribuído, a reserva de comprovante, o envolvimento do cliente e o resgate do comprovante deverão ser concluídos em até 180 dias antes da expiração do comprovante.  Para obter mais informações sobre a desativação do programa serviços de planejamento, consulte as perguntas frequentes encontradas [aqui](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) para obter mais informações (entrada necessária).  Encaminhe perguntas para sua equipe de suporte de parceiro regional: [suporte para parceiros na EMEA](mailto:savoucher@msdirectservices.com); [Suporte geral a parceiros](https://partner.microsoft.com/dashboard/support/servicerequests)
 
-## <a name="until-june-30-2021"></a>Até 30 de junho de 2021
 
 ### <a name="get-started"></a>Introdução
 
