@@ -389,6 +389,26 @@
     "source_path": "partner-center/buy-email-domain.md",
     "redirect_url": "/partner-center/mpn-create-a-partner-center-account",
     "redirect_document_id": "False"
+  },
+  {
+    "source_path": "partner-center/azure-cost-management-app-for-csp-partners.md",
+    "redirect_url": "https://docs.microsoft.com/azure/cost-management-billing/costs/get-started-partners",
+    "redirect_document_id": "False"
+  },
+  {
+    "source_path": "partner-center/pac-to-pc-overview.md",
+    "redirect_url": "/partner-center/index",
+    "redirect_document_id": "False"
+  },
+  {
+    "source_path": "partner-center/moving-from-pac-to-pc.md",
+    "redirect_url": "/partner-center/index",
+    "redirect_document_id": "False"
+  }, 
+  {
+    "source_path": "partner-center/o365-partner-admin-center-to-partner-center.md",
+    "redirect_url": "/partner-center/index",
+    "redirect_document_id": "False"
   }
- ]
+]
 }
