@@ -6,15 +6,15 @@ description: Saiba como verificar os detalhes da empresa, como contato principal
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 03/10/2021
+ms.date: 04/12/2021
 ms.localizationpriority: medium
-ms.custom: contperf-fy21q3
-ms.openlocfilehash: 6e9afa8689f34203bdbf1f56f69aa9289e38ae15
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.custom: contperf-fy21q4
+ms.openlocfilehash: 08e35e24dc94c81db56807b4211874996f0f487e
+ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712589"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "107315857"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Verificar ou atualizar as informações de perfil da sua empresa 
 
@@ -92,6 +92,17 @@ Para atualizar a ID do MPN associada à sua conta do CSP:
 ## <a name="update-your-csp-legal-billing-address"></a>Atualizar seu endereço para cobrança legal do CSP
 
 Se você for o administrador global, o administrador de cobrança ou o agente administrador, poderá alterar o endereço que aparece na fatura no **perfil Pagamento e impostos**. No entanto, você não pode alterar o nome da empresa na fatura devido a uma limitação do sistema de faturas.
+
+:::image type="content" source="images/billing-profile.png" alt-text="Captura de tela da área em que as informações de cobrança são adicionadas":::
+
+|**Campo**  |**Descrição**|  
+|---------------------|:------------------|
+|Nome da empresa recebedora da fatura|O nome da empresa que aparece nas informações do recebedor da fatura em sua fatura do CSP.  Isso não é editável no Partner Center.  Para atualizar, crie um tíquete de suporte.|
+|Endereço do recebedor da fatura|O endereço para cobrança mostrado na fatura do CSP. É atualizável pelo [Perfil de cobrança](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|Contato de cobrança|Os detalhes de contato de cobrança (nome, sobrenome, número principal) para a conta do CSP.  É atualizável pelo [Perfil de cobrança](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|Número da OC|O número da ordem de compra exibido na fatura do parceiro.  É atualizável pelo [Perfil de cobrança](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|ID do imposto da empresa|As empresas em alguns países podem fornecer os respectivos [números de IVA (imposto sobre valor agregado) ou equivalente local](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number). Para atualizar sua ID de imposto/IVA, você deve ser um administrador global, um administrador de cobrança ou um agente de administrador.|
+|Moeda de Cobrança|A moeda de cobrança para a conta do CSP é determinada pelo país legal dessa conta.  Isso não pode ser alterado após a criação da conta do CSP.|
 
 
 ## <a name="next-steps"></a>Próximas etapas
