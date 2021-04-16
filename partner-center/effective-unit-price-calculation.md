@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a662e0b815c979b3454762c5b35eb510887c96ad
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.openlocfilehash: 6c3c3a672de015c9f38fa0e34232da8d9913177c
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374376"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528561"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Cálculo de preço unitário efetivo para consumo do plano do Azure
 
@@ -53,7 +53,9 @@ Na tabela, os seguintes valores se aplicam:
 - **Preço unitário efetivo** = BCU/BC
 
 >[!NOTE]
->O medidor neste exemplo não tem camadas em preços. Os fatores de preço unitário efetivo em percentuais de desconto e outros ajustes.
+
+>Observação: o medidor neste exemplo não tem camadas em preços ou outros descontos — os fatores de preço unitário efetivo em percentuais de desconto e outros ajustes.
+
 
 | Data | BCU (unidade de consumo Faturável) | BC (custo Faturável) | Preço unitário efetivo |
 | ------ | ----------- | ----------- | ----------- |  

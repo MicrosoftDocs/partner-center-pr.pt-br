@@ -1,7 +1,7 @@
 ---
 title: Mercados globais do CSP
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 04/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Consulte os países, regiões e moedas em que você pode vender ofertas de CSP, com base no local da sua empresa.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98ad8e3f78b8181013b21d6146744337de6976bd
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: 216103ae3e94b7ba1525f9fa1199d0bf0311fd0b
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926654"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528594"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Programa de provedor de soluções na nuvem mercados regionais e moedas em que você pode vender ofertas de CSP
 
@@ -24,10 +24,15 @@ Por exemplo, se sua empresa estiver localizada na Estados Unidos, você poderá 
 
 Antes que você faça um pedido de uma oferta no CSP em nome de um cliente, o cliente deve assinar o Contrato de Cliente da Microsoft. Você pode encontrar o contrato do cliente da Microsoft aplicável para sua região/país [aqui](agreements.md).
 
+## <a name="azure-plan-for-csp-region-availability"></a>Plano do Azure para disponibilidade de região do CSP  
+
+O Azure Plan para CSP está disponível em menos regiões do que o software do Azure para CSP.  Consulte  [comprar o plano do Azure](purchase-azure-plan.md) para ver as atualizações mais recentes sobre a disponibilidade regional do Azure Plan. 
+
 >[!IMPORTANT]
 > Você precisa confirmar que um cliente aceitou o contrato do cliente da Microsoft fornecendo informações sobre a pessoa que o assinou. Confira [Confirmar a aceitação do Contrato de Cliente da Microsoft por um cliente](confirm-consent.md) para obter mais detalhes.
 
 Para determinar onde você pode vender ofertas do CSP, localize o local da sua empresa em uma das listas abaixo. Você deve ter uma ID de MPN (Active Microsoft Partner Network) para o local em que deseja vender.  
+
 
 ## <a name="for-unsupported-countries"></a>Para países sem suporte
 
@@ -164,7 +169,7 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 
 |  País/Região | Moeda |
 |  -------------- |:--------:|
-|  Canada         |   CAD    |
+|  Canadá         |   CAD    |
 |  São Pedro e Miquelon|  CAD   |
 |
 
@@ -217,7 +222,7 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 |  Svalbard e Jan Mayen|NOK|
 |  Suécia         |   SEK    |
 |  Suíça    |   CHF    |
-|  REINO UNIDO             |   GBP    |
+|  Reino Unido             |   GBP    |
 |  Cidade do Vaticano   |          |
 |
 
