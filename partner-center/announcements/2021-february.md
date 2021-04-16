@@ -10,48 +10,52 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/02/2021
-ms.openlocfilehash: 79d492fa907f9d2b9318ba9fa9850401b61a2b7d
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.date: 04/08/2021
+ms.openlocfilehash: b72d736fdeafc438fbfa848c0b2b1e51ab66b261
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280897"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266462"
 ---
 # <a name="february-2021-announcements"></a>Comunicados de fevereiro de 2021
 
 Esta página fornece detalhes dos comunicados de fevereiro de 2021 sobre o Microsoft Partner Center.
 
 ________________
-## <a name="put-qualification-apis-are-retired-get-to-retire-in-may"></a><a name="14"></a> As APIs de Qualificação PUT estão desativadas e a GET será desativada em maio
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="14"></a>Lembrete: preterimento da qualificação GET em 4 de maio de 2021
 
 ### <a name="categories"></a>Categorias
 
-- Data: 25 de fevereiro de 2021
+- Data: 09/04/2021
 - Capacidades
 
 ### <a name="impacted-audience"></a>Público-alvo afetado
 
-Parceiros que vendem ofertas Acadêmicas, Sem Fins Lucrativos e GCC por meio do programa Provedor de Soluções na Nuvem usando a API do Partner Center
+Parceiros que vendem ofertas Acadêmicas, Sem Fins Lucrativos e GCC (Nuvem da Comunidade Governamental) por meio do programa Provedor de Soluções na Nuvem usando a API do Partner Center
 
 ### <a name="details"></a>Detalhes
 
-Este comunicado é um acompanhamento dos [aprimoramentos lançados em dezembro](2020-december.md#1) do Partner Center. Como parte dessa versão, as novas APIs de Qualificações GET e POST foram implantadas e, como resultado, as **APIs de Qualificação PUT existentes foram desativadas e a qualificação GET será desativada até 4 de maio de 2021**. Assim que isso ocorrer, você precisará fazer a transição usando as novas APIs POST do Partner Center para comprar ofertas de Educação. Da mesma forma, você precisará usar a nova API de Qualificações GET para comprar ofertas GCC e sem fins lucrativos pré-qualificadas.
+Este comunicado é um acompanhamento dos [aprimoramentos lançados em dezembro](https://docs.microsoft.com/partner-center/announcements/2020-december#1) do Partner Center. Como parte dessa versão, as novas APIs de Qualificações GET e POST foram implantadas e, como resultado, a qualificação GET será desativada até 4 de maio de 2021. Até lá, você precisará ter feito a transição para usar as novas APIs POST do Partner Center na compra de ofertas de Educação e a nova API de qualificações GET para comprar ofertas Sem Fins Lucrativos e GCC pré-qualificadas.
 
 ### <a name="next-steps"></a>Próximas etapas
 
-- **Atualize para as novas APIs** para uma transição bem-sucedida e em tempo hábil
-- **Examine as novas alterações da API do Partner Center e o Guia** nos recursos de Preparação de Operações: [Aprimoramentos do processo de validação do cliente de Educação do Partner Center](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
-- **Compartilhe essas informações com as equipes apropriadas** da sua organização e com seus revendedores para ajudá-los a se preparar para essas mudanças
+- Atualize para as novas APIs a fim de realizar uma transição bem-sucedida e em tempo hábil.
+
+- Examine as novas alterações da API do Partner Center e o Guia nos recursos de Preparação de Operações: [aprimoramentos do processo de validação do cliente de Educação do Partner Center](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+
+- Compartilhe essas informações com as equipes apropriadas da sua organização e com seus revendedores para ajudá-los a se preparar para essas mudanças.
 
 ### <a name="questions"></a>Perguntas?
 
-Para fazer perguntas relacionadas a esta notificação, entre em contato com o [suporte do Partner Center](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+Em caso de perguntas relacionadas a essa notificação, entre em contato com o [suporte do Partner Center](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
 ### <a name="change-log"></a>Log de alterações
 
+- Abril: lembrete do preterimento futuro da qualificação GET 
 - Fevereiro: atualização das linhas do tempo de reprovação das qualificações GET e PUT
 - Janeiro: lembrete das reprovações futuras das qualificações GET e PUT
+
 
 ________________
 ## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a> Compartilhar acordos de venda conjunta em escala usando a capacidade de operações em massa do Partner Center

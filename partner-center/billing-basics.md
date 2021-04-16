@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 051d638024200fe58ca5e07f42b758b304b58219
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042711"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964367"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Visão geral de cobrança para parceiros do programa CSP que trabalham no Partner Center 
 
@@ -67,11 +67,7 @@ Para a cobrança única e recorrente, o período de cobrança é alinhado ao mê
 
 As listas de preços são atualizadas mensalmente. As listas de preços de versão prévia estão disponíveis com 1 (um) mês de antecedência.
 
-Para exibir as listas de preços:
-
-1. [Entre no painel do Partner Center](https://partner.microsoft.com/dashboard/home).
-2. No menu à esquerda, escolha **Vender**, em seguida, selecione **Preços e ofertas**.
-3. Na página **Preços e ofertas**, você pode ver 6 meses de listas de preços (incluindo o mês atual) e listas de preços de versão prévia (quando aplicável).
+Para ver os programas e as ofertas mais recentes do Provedor de Soluções na Nuvem, no painel do Portal do Parceiro, acesse **Vender > Preços e ofertas**. Você encontrará listas de preços separadas para os diferentes tipos de produtos que estão disponíveis. As seguintes listas de preços estão disponíveis na página **Preços e ofertas**:
 
 Os preços **baseados em licença** são garantidos pelo termo de assinatura, geralmente 12 meses a partir da data de compra. 
 
@@ -99,19 +95,6 @@ Para **isenção do IVA (imposto sobre valor agregado)** , você deve enviar sua
 
 Você pode encontrar mais detalhes sobre impostos no escritório fiscal local ou de um consultor fiscal.
 
-### <a name="change-billing-frequency"></a>Alterar a frequência de cobrança
-
-A frequência de cobrança é alterada no nível do pedido e, depois que a frequência for alterada, o ciclo de cobrança revisado será aplicado a todas as assinaturas desse pedido. 
-
-Para alterar a frequência de cobrança de um serviço online para um cliente:
-
-1. [Entre no painel do Partner Center](https://partner.microsoft.com/dashboard/home).
-2. No menu à esquerda, escolha **Clientes**.
-3. Selecione o cliente cuja frequência de cobrança de assinatura você deseja alterar.
-4. Na página **Assinaturas** do cliente, selecione a assinatura que você deseja alterar.
-5. Na página **Detalhes**, em **Frequência de cobrança**, selecione **Mensal** ou **Anual**. Você verá uma página de confirmação com informações importantes sobre como alterar a frequência de cobrança, bem como uma lista das assinaturas a serem alteradas.
-6. Escolha **OK** para fazer a alteração (ou **Cancelar** para desfazê-la).
-
 ### <a name="adjustmentscreditscancellations"></a>Ajustes/créditos/cancelamentos
 
 Os créditos de cancelamento para os serviços baseados em licença são proporcionais aos dias não utilizados para cancelamentos no meio do ciclo, bem como para diminuição de licenças de acordo com esta fórmula:
@@ -121,6 +104,7 @@ Os créditos de cancelamento para os serviços baseados em licença são proporc
 A Microsoft não cobra valores de cancelamento antecipado dos serviços baseados em licença.
 
 ### <a name="billing-rules"></a>Regras de cobrança
+
 Atualmente, há dois tipos de frequências de cobrança: anual e mensal.  
 As taxas de serviço limitadas podem ser alteradas dentro do ciclo de fatura.
 
@@ -146,24 +130,6 @@ As taxas de serviço limitadas podem ser alteradas dentro do ciclo de fatura.
 
 - A fatura recebida terá apenas o preço acumulado para esse mês. 
 
-## <a name="manage-one-time-billing"></a>Gerenciar cobrança única
-
-### <a name="billing-status-invoices-and-reconciliation-files"></a>Status da cobrança, faturas e arquivos de reconciliação
-
-Para exibir o status de cobrança, as faturas e os arquivos de reconciliação:
-
-1. Entre no [Painel](https://partner.microsoft.com/dashboard/home) do Partner Center.
-2. No menu à esquerda, escolha **Cobrança** e, em seguida, selecione **Compras recorrentes e avulsas**.
-3. Na página de status da cobrança, selecione uma nota fiscal ou um arquivo de reconciliação para exibir informações mais detalhadas.
-
-### <a name="customer-order-history"></a>Histórico de pedidos do cliente
-
-Para exibir o histórico de pedidos de um cliente:
-
-1. Entre no [Painel](https://partner.microsoft.com/dashboard/home) do Partner Center.
-2. No menu à esquerda, escolha **Clientes**.
-3. Na página **Clientes**, localize o cliente cujo histórico de pedidos você deseja exibir. Selecione a seta para baixo para expandir o registro do cliente.
-4. Escolha **Exibir pedidos** para exibir o histórico de pedidos do cliente.
 
 ### <a name="credit-notes"></a>Notas de crédito
 
@@ -178,3 +144,6 @@ Talvez você precise solicitar um crédito ou uma nova cobrança pelos seguintes
 
 - [Entenda sua fatura e seu arquivo de reconciliação](read-your-bill.md)
 - [Cenários comuns de cobrança para parceiros do programa CSP](common-billing-scenarios.md)
+- [Alterar a frequência de cobrança](common-billing-scenarios.md)
+- [Histórico de pedidos do cliente](csp-offers.md) 
+- [Preços e ofertas](pricing-and-offers.md)

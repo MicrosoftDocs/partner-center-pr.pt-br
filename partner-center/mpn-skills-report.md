@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 419dba1490e19c8895fce35a031c7424114e5125
-ms.sourcegitcommit: 493130f8b8e9cf9b6ad31035bb4d7f78863788ac
+ms.openlocfilehash: 76b540364b1a47de66d0343f0646ab035b8de97c
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "99474239"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132427"
 ---
 # <a name="using-the-skills-report"></a>Como usar o relatório de habilidades
 
@@ -25,7 +25,7 @@ ms.locfileid: "99474239"
 
 O relatório de habilidades permite aos parceiros da Microsoft Partner Network avaliar as habilidades concluídas pelos usuários na respectiva empresa parceira. As habilidades do relatório podem incluir avaliações, certificações ou exames feitos pelos usuários técnicos do parceiro. 
 
-A conquista por uma empresa parceira desses tipos de habilidades é um dos requisitos para o parceiro alcançar o status Silver ou Gold em uma competência específica da Microsoft. As competências são usadas pelos parceiros para demonstrar as áreas de experiência técnica aos clientes atuais e novos. Elas também oferecem muitos benefícios aos parceiros que as obtêm. Para obter mais detalhes sobre as competências disponíveis e os respectivos benefícios, confira a página [Competências](https://partner.microsoft.com/membership/competencies) da Microsoft Partner Network.
+A conquista por uma empresa parceira desses tipos de habilidades é um dos requisitos para o parceiro alcançar o status Silver ou Gold em uma competência específica da Microsoft. As competências são usadas pelos parceiros para demonstrar as áreas de experiência técnica aos clientes atuais e novos. Elas também oferecem muitos benefícios aos parceiros que as obtêm. Para obter mais informações sobre as competências disponíveis e os respectivos benefícios, confira a página [Competências](https://partner.microsoft.com/membership/competencies) do Microsoft Partner Network.
 
 O ideal é que o administrador global ou o administrador de parceiros da MPN da sua empresa execute as seguintes tarefas relacionadas ao relatório de habilidades:
 
@@ -59,9 +59,9 @@ Siga estas etapas para exibir dados do relatório de habilidades no Partner Cent
 
 1. Usando a conta de usuário com a função apropriada do Partner Center, entre no [Painel](https://partner.microsoft.com/dashboard) do Partner Center.
 2. No menu de navegação à esquerda, selecione **MPN** seguido de **Competências**.
-3. Localize as seguintes opções no canto superior direito da página Competências:  **Relatório de desempenho de competência** e **Baixar relatório de habilidades**. Você tem a opção de ver os dados do relatório de habilidades na interface do usuário do Partner Center ou como uma planilha baixada.
+3. Localize as seguintes opções no canto superior direito da página Competências: **Relatório de desempenho da Competência** e **Baixar relatório de habilidades**. Você tem a opção de ver os dados do relatório de habilidades na interface do usuário do Partner Center ou como uma planilha baixada.
    :::image type="content" source="images/competencies/mpn-skills-report-1.png" alt-text="Página Competências do Partner Center com duas opções realçadas no canto superior direito." border="true":::
-   - Para uma exibição de fácil leitura dos dados do relatório de habilidades, selecione **Relatório de desempenho de competência** seguido de **Dados de habilidades do usuário** no canto superior esquerdo da página Relatório de competência. 
+   - Para uma exibição de fácil leitura dos dados do relatório de habilidades, selecione **Relatório de desempenho da Competência** seguido de **Dados de habilidades do usuário** no lado superior esquerdo da página Relatório de competência. 
       :::image type="content" source="images/competencies/mpn-skills-report-2.png" alt-text="Página Relatório de competência do Partner Center com a opção Dados de habilidades do usuário no canto superior esquerdo." border="true":::
    - Para baixar o relatório no formato de planilha, selecione **Baixar relatório de habilidades**. Depois que o arquivo for baixado e aberto, você verá uma tabela com detalhes sobre as habilidades de cada usuário. As colunas **Associadas ao PMC** e **Associadas ao PC** indicam se as habilidades do usuário já foram associadas à respectiva conta anterior do PMC (Partner Membership Center) e à conta do PC (Partner Center). Se ainda houver usuários operando no PMC, confira a seção mais adiante sobre os usuários do PMC.
    

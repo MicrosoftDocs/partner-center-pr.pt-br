@@ -1,7 +1,7 @@
 ---
 title: Criar uma conta do MPN no Partner Center
 ms.topic: article
-ms.date: 03/18/2021
+ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como os membros do Microsoft Partner Network podem criar uma conta do Partner Center para gerenciar seus benefícios e competências de rede.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 00d45b18dc4c2d55ec4af0456512a685ba111ee1
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712912"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266530"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Criar uma conta do MPN no Partner Center para gerenciar os benefícios e as competências da rede
 
@@ -25,7 +25,7 @@ Se você está conhecendo o MPN (Microsoft Partner Network) agora e não tem uma
 
 Quando estiver pronto para criar uma conta no Partner Center, você precisará ter os itens a seguir disponíveis.  É recomendável coletar estes itens antes de começar:
 
-- Email de trabalho da empresa OU conta corporativa do Office 365. Para obter mais informações, leia [A conta corporativa da sua empresa e o Partner Center](azure-active-directory-tenants-and-partner-center.md) 
+- Email de trabalho da empresa OU conta corporativa do Office 365. Sua empresa pode precisar comprar um domínio de email para permitir que você configure endereços de email de trabalho para seus funcionários. Para obter mais informações, confira [Sua conta corporativa e o Partner Center](azure-active-directory-tenants-and-partner-center.md). 
  
 - A razão social e o endereço da sua empresa.
 
