@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/08/2021
-ms.openlocfilehash: c2941c6dcda9551a97ca903f050488ea8fe363c1
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 9fd3dcb98ec0105e17fb107ba75c35916cd108db
+ms.sourcegitcommit: 4212cd168f3a9a73f6ed05109b0eecb96827ec04
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266445"
+ms.lasthandoff: 04/17/2021
+ms.locfileid: "107584196"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,6 +22,8 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 |**Categoria**|**Comunicados de abril de 2021**|**Comunicado**|
 |---------|:---------|:---------|
+|Funcionalidades|[Já disponível: Guia de preparação de promoções globais](2021-april.md#6)|16 de abril|
+|Comunidade: convites e lembretes|[Atualização e lembretes da Comunidade do CSP (Provedor de Soluções na Nuvem) de abril](2021-april.md#5)|16 de abril|
 |Funcionalidades|[Lembrete: substituição da qualificação GET em 4 de maio de 2021](2021-april.md#4)|9 de abril|
 |Funcionalidades|[Novo formato para a nova fatura de PDF de comércio no CSP](2021-april.md#3)|5 de abril|
 |Funcionalidades|[Alterações nos requisitos de integração do cliente do CSP (Provedor de Soluções na Nuvem)](2021-april.md#2)|2 de abril|
