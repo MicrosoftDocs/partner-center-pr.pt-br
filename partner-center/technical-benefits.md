@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: 6a03d06b858f2932621dc0e50a571a17708be3bc
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 3aacafcbf839ad2e862ef968ca0b2f132c55a825
+ms.sourcegitcommit: 7d1396a832517d5d8dddc45ca29481aac9b8dde5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086627"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "107742113"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Explorar os serviços de TPD (pré-venda técnica e implantação) 
 
@@ -41,6 +41,18 @@ Todas as soluções híbridas ou de nuvem têm suporte, além do Windows 10, do 
 Entre com qualquer conta de usuário associada ao MPN para **[Criar uma solicitação de serviços de TPD (pré-venda técnica e implantação)](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** (a ativação do benefício técnico não é necessária).
 
 :::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="Benefícios de pré-venda técnica e implantação" :::
+
+## <a name="in-scope-products-and-services"></a>Produtos e serviços no escopo
+
+Os seguintes produtos e serviços estão no escopo dos serviços de pré-venda técnica e implantação:
+- **Microsoft 365**: todos os componentes do Microsoft Office 365, como Microsoft Teams, Exchange Online, SharePoint Online, OneDrive, Yammer, Project Online, Skype for Business Server 2019, Enterprise Mobility + Security, Microsoft Intune, Azure Active Directory e Proteção de Informações do Azure
+  - *Fora do escopo: servidores do Office exclusivamente locais – Exchange e SharePoint*
+- **Aplicativos de negócios**: Microsoft Dynamics 365 (online) e Microsoft Power Platform (Power Apps, Power Automate e Power BI)
+  - *Fora do escopo: versões exclusivamente locais do Dynamics 365, GP, SL, AX e NAV*
+- **Microsoft Azure**: todas as soluções do Microsoft Azure e serviços relacionados, como infraestrutura como serviço, plataforma como serviço, Plataforma de Dados, Análise de BI, Serviços Cognitivos, Azure Machine Learning e Azure Stack
+- **Windows Server**: Windows Server com suporte base (conforme regido pelo **[ciclo de vida do produto](https://docs.microsoft.com/lifecycle/policies/fixed)** )
+  - O System Center inclui produtos relacionados, como o SCCM, caso tenham relação com cenários híbridos ou de nuvem
+- **Windows 10**: sistema operacional, dispositivos e aplicativos universais do Windows 10
 
 ## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Enviar uma solicitação de serviços de pré-venda técnica e implantação 
 
