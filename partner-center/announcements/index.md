@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/19/2021
-ms.openlocfilehash: b96832fe4450cadd2da83e4cf9697f1f16bc81a3
-ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
+ms.date: 04/20/2021
+ms.openlocfilehash: 47723bd4b2deed703e224f7151a1d85a478aa8a7
+ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "107728939"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "107823360"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,6 +22,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 |**Categoria**|**Comunicados de abril de 2021**|**Comunicado**|
 |---------|:---------|:---------|
+|Funcionalidades|[Aviso de expiração do link de download e política do período de devolução do software do CSP (Provedor de Soluções na Nuvem)](2021-april.md#8)|21 de abril|
 |Amplie seus negócios|[Programa de Licenciamento Open: transição de revendedores para o programa CSP (Provedor de Soluções na Nuvem)](2021-april.md#7)|19 de abril|
 |Funcionalidades|[Já disponível: Guia de preparação de promoções globais](2021-april.md#6)|16 de abril|
 |Comunidade: convites e lembretes|[Atualização e lembretes da Comunidade do CSP (Provedor de Soluções na Nuvem) de abril](2021-april.md#5)|16 de abril|
