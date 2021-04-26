@@ -9,14 +9,18 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: 67c1689136892443937748b6cc9e31e4f0ac9983
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: f395987ef647fa6f7ed264c6476ddae419eabc34
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028410"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002851"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrar assinaturas do Skype for Business Online Plano 1 para versões mais novas do Office 365
+
+**Funções apropriadas**
+
+- Agente de vendas
 
 O plano 1 do Skype for Business online será desativado, em vigor em 1º de agosto de 2018. Após essa data, os clientes não poderão mais adquirir novas assinaturas do Skype for Business Plano 1. As assinaturas existentes não serão renovadas automaticamente quando expirarem, e não haverá uma opção de renovação. Na página de detalhes da assinatura, o status da assinatura do Skype for Business Online Plano 1 foi alterado para "Expira em [data]" de "Renovação automática em [data]".  
 
@@ -37,10 +41,10 @@ Com os novos planos, seus os clientes podem aproveitar novos recursos e funciona
 
 |**Recurso**    |**Opção 1**   |**Opção 2**   |**Opção 3**   |
 |:-----------------|:-----------------|:-------------|:------------|
-|Obtenha todos os recursos incluídos no Skype for Business Online Plano 1|Sim   |Sim   |Sim   |
-|Mensagens Instantâneas e presença |Sim   |Sim   |Sim   |
-|Áudio e vídeo ponto a ponto sobre IP|Sim   |Sim   |Sim   
-|Participar de reuniões como um usuário autenticado| Sim   |Sim   |Sim   |
+|Obtenha todos os recursos incluídos no Skype for Business Online Plano 1|Sim   |Sim   |Yes   |
+|Mensagens Instantâneas e presença |Sim   |Sim   |Yes   |
+|Áudio e vídeo ponto a ponto sobre IP|Sim   |Sim   |Yes   
+|Participar de reuniões como um usuário autenticado| Sim   |Sim   |Yes   |
 
 ## <a name="transition-customers-to-new-product-plans"></a>Transição dos clientes para novos planos do produto
 
@@ -76,3 +80,8 @@ Depois de migrar a licença do usuário para o novo serviço, você pode cancela
 
 A assinatura antiga será suspensa e a nova assinatura será ativada. A assinatura suspensa será desprovisionada automaticamente após 120 dias. O cliente não pagará custos adicionais pela assinatura antiga.
 
+## <a name="next-steps"></a>Próximas etapas
+
+- [Consultores: Crie e envie um convite de avaliação para que os clientes experimentem o Office 365](advisors-create-a-trial-invitation.md)
+- [Consultores: Crie sua base de clientes com convites para avaliação do Office 365 e ofertas de compra](advisors-build-your-business.md)
+- [Consultores: criar uma oferta de compra](advisor-create-a-purchase-offer.md)

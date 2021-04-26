@@ -9,18 +9,23 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 244a8cfc661b371b611a19a5c90ddf131b42a46a
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 1791d415d0004520e8c7dc950decf540c91cf003
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441958"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002834"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Gerenciar sua lista de clientes – Pesquisar, atualizar ou exportar clientes no Partner Center
 
 **Aplica-se a**
 
 - Partner Center do Microsoft Cloud for US Government
+
+**Funções apropriadas**
+
+- Agente administrativo
+- Administrador global
 
 Os registros de clientes estão entre seus ativos de informação mais importantes no Partner Center. Você pode pesquisar seu banco de dados de contas de clientes, exportar o banco de dados de clientes inteiro ou exportar um subconjunto para um formato de arquivo de valores separados por vírgula (.csv) compatível com o Excel. Você também pode exportar as informações de assinaturas do cliente para um arquivo .csv.
 
