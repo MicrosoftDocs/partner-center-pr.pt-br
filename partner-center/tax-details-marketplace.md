@@ -5,13 +5,13 @@ ms.topic: conceptual
 ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
-ms.date: 04/16/2021
-ms.openlocfilehash: 8181a446bf279d059bca50ebd0c2e5b6c0f7c65b
-ms.sourcegitcommit: 8f9787c11f3b6a3d641c361e6b7cf1d64fea9d83
+ms.date: 04/26/2021
+ms.openlocfilehash: b63d252dd4a33d6ef9053aa4f93089b615f02ee8
+ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2021
-ms.locfileid: "107927740"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108067368"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Detalhes de impostos para editores do marketplace comercial
 
@@ -86,7 +86,7 @@ Nos **países revendedores**, a Microsoft atua como revendedor, em vez de como a
 |Bielorrússia|Alemanha|Malta|Eslovênia|
 |Bulgária|Grécia|Mônaco|África do Sul|
 |Bélgica|Hungria|Países Baixos|Coreia do Sul|
-|Canadá|Islândia|Nova Zelândia|Espanha|
+|Canada|Islândia|Nova Zelândia|Espanha|
 |Chile|Índia|Noruega|Suécia|
 |Colômbia|Indonésia|Polônia|Suíça|
 |Croácia|Irlanda|Portugal|Taiwan|
@@ -119,11 +119,44 @@ A Microsoft coleta impostos sobre taxas de armazenamento nos seguintes países e
 |**País**|**Marketplace comercial**|**Marketplace do consumidor**|
 |----------------|-----------------------------|-----------------------|
 |Austrália|Taxa de imposto sobre o serviço|Taxa de imposto sobre o serviço|
-|Canadá|Taxa de imposto sobre o serviço|Taxa de imposto sobre o serviço|
+|Canada|Taxa de imposto sobre o serviço|Taxa de imposto sobre o serviço|
 |México|N/D|Taxa de imposto sobre o serviço|
 |Nova Zelândia|Taxa de imposto sobre o serviço|Taxa de imposto sobre o serviço|
 |Singapura|Taxa de imposto sobre o serviço|Taxa de imposto sobre o serviço|
 
+## <a name="commercial-marketplace-payout-scenarios"></a>Cenários de pagamento do Marketplace comercial
+
+### <a name="end-customer-taxation"></a>Tributação do cliente final
+
+- Cenário um: cliente em uma oferta de compras de país gerenciada pelo Publicador
+
+  :::image type="content" source="images/tax/scenario-one.png" alt-text="Gráfico mostrando como o Publicador paga.":::
+
+- Cenário dois: cliente em uma oferta de compras do país gerenciado pela Microsoft (o país do Publicador é irrelevante)
+
+  :::image type="content" source="images/tax/scenario-two.png" alt-text="Gráfico mostrando a tributação no país gerenciado pela Microsoft":::
+
+- Cenário 3: o Publicador estrangeiro faz uma venda entre bordas para um cliente registrado por IVA da UE localizado em um país gerenciado pela Microsoft
+
+  :::image type="content" source="images/tax/scenario-three.png" alt-text="Gráfico mostrando como a UE-IVA afeta o imposto"::: 
+
+- Cenário quatro: o Publicador estrangeiro faz uma venda local para um cliente localizado em um país gerenciado pela Microsoft ou em uma venda não-local para um cliente na Suíça
+
+  :::image type="content" source="images/tax/scenario-four.png" alt-text="Gráfico mostrando como o IVA é tratado":::
+
+- Cenário cinco: cliente em uma oferta de compras de país gerenciado pela Microsoft, em que há imposto sobre a taxa de serviço de armazenamento
+
+  :::image type="content" source="images/tax/scenario-five.png" alt-text="Gráfico mostrando como a taxa de serviço da loja afeta o imposto":::
+
+### <a name="withholding-tax"></a>Retenção de impostos
+
+- Cenário um: Publicador estrangeiro (sem nenhum benefício de Tratado de imposto aplicável sobre o perfil de imposto) faz venda para o cliente dos EUA. 
+
+  :::image type="content" source="images/tax/withholding-one.png" alt-text="Gráfico mostrando a retenção de imposto sem tratados de imposto":::
+
+- Cenário dois: Publicador estrangeiro (com o valor de tratado pelo imposto aplicável sobre o perfil de imposto para taxa de porcentagem zero) com um tratado faz a venda para o cliente dos EUA. 
+
+  :::image type="content" source="images/tax/withholding-two.png" alt-text="Gráfico mostrando a retenção de imposto com a tratados de imposto":::
 
 ## <a name="next-steps"></a>Próximas etapas
 
