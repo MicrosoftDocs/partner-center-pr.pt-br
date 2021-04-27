@@ -9,14 +9,18 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 05ccc6016e9dcd6e7582cdd31dbc4d0054c43f8d
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99623976"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018060"
 ---
-# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Recursos de cobrança direta restritos e os requisitos necessários para parceiros de cobrança direto do CSP  
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Recursos de cobrança direta restritos e os requisitos necessários para parceiros de cobrança direto do CSP
+
+**Funções apropriadas**
+
+- Administrador global
 
 ## <a name="overview"></a>Visão geral
 
@@ -58,8 +62,8 @@ As assinaturas de fatura direta existentes não são afetadas. Eles permanecem v
 - Ajustar a contagem de licenças das assinaturas baseadas em licença existentes
 
 - Ajuste a contagem de licenças de Complementos existentes para uma assinatura. 
- 
-    >[!Note] 
+
+    >[!Note]
     >Você não pode adicionar novos Complementos às assinaturas existentes, pois elas são tratadas como uma nova compra.
 
 - Implante novos recursos do Azure e gerencie recursos existentes do Azure em assinaturas do Azure existentes. Isso inclui recursos, que estão disponíveis por meio das assinaturas do Azure Marketplace e do Visual Studio.
@@ -73,7 +77,7 @@ Além das novas compras, você não pode acessar os seguintes recursos de fatura
     >[!NOTE]
     >Como parte da transição do parceiro de cobrança direto para o revendedor indireto, se você já registrou seu locatário de parceiro de cobrança direto como revendedor indireto, você pode gerar um convite para o cliente solicitando a relação de revendedor indireto.
 
-- Você não pode criar um novo locatário de área restrita. Cada locatário de parceiro de cobrança direto pode criar um locatário de área restrita com a finalidade de integração direta da API de cobrança. Se você ainda não tiver criado um, não terá permissão para fazê-lo depois que o recurso do parceiro de cobrança direto tiver sido restrito.  
+- Você não pode criar um novo locatário de área restrita. Cada locatário de parceiro de cobrança direto pode criar um locatário de área restrita para integração direta da API de cobrança. Se você não tiver criado um anteriormente, não será permitido fazer isso depois que o recurso de parceiro de cobrança direto tiver sido restrito.  
 
 ## <a name="next-steps"></a>Próximas etapas
 
