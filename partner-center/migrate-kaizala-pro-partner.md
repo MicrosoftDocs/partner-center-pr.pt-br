@@ -1,20 +1,25 @@
 ---
-title: Migrar assinaturas do Kaizala pro para o Microsoft365
-description: Saiba como migrar assinaturas do Kaizala pro para as versões do Microsoft365 ou do Office 365. Leia este artigo para obter mais detalhes sobre a transição de seus clientes.
+title: Migrar assinaturas do Kaizala Pro para o Microsoft 365
+description: Saiba como migrar assinaturas do Kaizala pro para as versões Microsoft 365 ou Office 365. Leia este artigo para obter mais detalhes sobre a transição de seus clientes.
 ms.topic: article
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 0807931ae95b5c7d76f4ad33708cc8014412f55f
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 96d18c8f728c56b705d378ac56dcf46e777157f0
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175168"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172397"
 ---
-# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft365-or-office-365-versions"></a>Migrar assinaturas autônomas do Kaizala pro para as versões do Microsoft365 ou do Office 365
+# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>Migrar assinaturas autônomas do Kaizala pro para as versões Microsoft 365 ou Office 365
+
+**Funções apropriadas**
+
+- Agente de vendas
 
 A partir de 1º de julho de 2020, a Microsoft está terminando as vendas do serviço autônomo do Kaizala pro. Os clientes não poderão mais comprar novas assinaturas do Kaizala pro após essa data, e as assinaturas existentes do Kaizala pro não serão renovadas automaticamente quando expirarem.
 

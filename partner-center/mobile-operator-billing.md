@@ -3,29 +3,36 @@ title: Cobrança de operador móvel-Microsoft Store
 description: O Microsoft Store oferece cobrança de operador móvel como um método de pagamento para operadores móveis que dão suporte a esse recurso.
 ms.date: 04/01/2021
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.topic: article
 ms.author: hickeys
 author: hickeys
 keywords: windows 10, uwp, operadoras móveis, cobrança de celular, cobrança da operadora móvel
 ms.localizationpriority: medium
-ms.openlocfilehash: 5556da39b252f5004cd7d1828310743875a8da7f
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 20ce286814682277e375894e99f947d084206246
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178809"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172380"
 ---
 # <a name="mobile-operator-billing"></a>Cobrança da operadora móvel
+
+**Funções apropriadas**
+
+- Administrador global
 
 > [!NOTE]
 > Se você estiver procurando suporte em relação a pagamentos, incluindo a configuração de contas de pagamento, pagamentos ausentes, colocação de pagamentos em espera ou qualquer outra coisa, entre em contato com o suporte [aqui](https://developer.microsoft.com/windows/support).
 
-A Microsoft Store oferece a Cobrança da Operadora Móvel como um método de pagamento para dispositivos que executam o Windows 10, telefones que executam o Windows 10 Mobile e consoles Xbox One. Se a operadora móvel de um cliente oferecer suporte a essa funcionalidade, o cliente pode adicionar a Cobrança da Operadora Móvel como método de pagamento e usá-la para fazer compras na Store usando a conta do celular.
+O Microsoft Store oferece cobrança de operador móvel como um método de pagamento para dispositivos que executam o Windows 10, telefones que executam o Windows 10 Mobile e o Xbox One consoles. Se o operador móvel de um cliente oferecer suporte a esse recurso, o cliente poderá adicionar cobrança de operador móvel como um método de pagamento e usá-lo para fazer compras de armazenamento usando sua conta móvel.
 
 > [!TIP]
->  Se a operadora móvel de um cliente oferece a Cobrança da Operadora Móvel, mas o cliente não encontra essa opção em seu dispositivo, veja estas [etapas](https://support.microsoft.com/instantanswers/b25d6dd6-fb8b-3710-1e13-4d30eb01b51f).
+> Se o operador móvel de um cliente oferecer cobrança de operador móvel, mas o cliente não conseguir encontrar essa opção em seu dispositivo, examine essas [etapas](https://support.microsoft.com/instantanswers/b25d6dd6-fb8b-3710-1e13-4d30eb01b51f).
 
 Estamos trabalhando regularmente com as operadoras para expandir a disponibilidade desse método de pagamento. Se você quiser sugerir um operador móvel que você não veja listado abaixo, entre em contato com esse operador móvel e solicite que eles adicionem esse método de pagamento.
+
+## <a name="operators-that-support-mobile-operator-billing"></a>Operadores que dão suporte à cobrança de operador móvel
 
 Os seguintes operadores móveis atualmente dão suporte à cobrança de operador móvel.
 
@@ -34,7 +41,7 @@ Os seguintes operadores móveis atualmente dão suporte à cobrança de operador
 | Austrália            | Optus                                                   |
 | Áustria              | A1 Telekom, Hutchison 3G Áustria, T-Mobile/tele. Ring  |
 | Bélgica              | Base, Proximus                                          |
-| Canadá               | Telus                                                   |
+| Canada               | Telus                                                   |
 | Tchéquia              | T-Mobile, Vodafone, O2                                  |
 | Dinamarca              | 3, TDC / YouSee, Telenor, Telia                         |
 | Finlândia              | DNA, Elisa                                              |
@@ -58,4 +65,4 @@ Os seguintes operadores móveis atualmente dão suporte à cobrança de operador
 | Turquia               | Turkcell                                                |
 | Emirados Árabes Unidos | Etisalat                                                |
 | Estados Unidos        | Sprint, Verizon                                         |
-| Reino Unido       | 3 UK, EE, O2, Vodafone                                 |
+| United Kingdom       | 3 UK, EE, O2, Vodafone                                 |

@@ -8,18 +8,18 @@ description: Como um parceiro da Microsoft, você pode ter dúvidas sobre como a
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b056d21fd1581c9fa478f720addec0c1d4c3c87
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: df7ae61a88852d6ef2e4c1cb210b689a20235d0c
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89040983"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172329"
 ---
 # <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Encontre um parceiro ou provedor de soluções para responder a perguntas sobre programas, licenciamento ou negociações de clientes 
 
-**Aplica-se a**
+**Funções apropriadas**
 
-- Parceiros do Microsoft MPN, parceiros CSP e outros
+- Todos os parceiros da Microsoft
 
 Este artigo informa aos parceiros da Microsoft como encontrar outros parceiros que podem ajudá-los e seus clientes com sucesso com os produtos e serviços da Microsoft.
 
@@ -37,7 +37,7 @@ Para obter mais informações sobre relações de parceiros no programa CSP, con
 
 Consulte a tabela a seguir para ajudá-lo a localizar um parceiro ou distribuidor.
 
-|Para fazer isto  | Leia isto  |
+|Para fazer isso  | Leia isto  |
 |:------------------|:--------------- |
 |Localizar um provedor indireto CSP *(para revendedores indiretos do CSP que ainda não têm um provedor indireto atribuído)* | [Página de pesquisa do provedor Microsoft Partner Network indireto](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)  |
 |Localizar um provedor de solução do programa de licenciamento por volume ou distribuidor  | [Página de pesquisa do provedor de soluções da Microsoft](https://www.microsoft.com/solution-providers/home)  |
