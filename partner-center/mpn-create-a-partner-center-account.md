@@ -9,15 +9,18 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 00d45b18dc4c2d55ec4af0456512a685ba111ee1
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 27cd00b5475914019963fad381b36b47a017dcf1
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266530"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120793"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Criar uma conta do MPN no Partner Center para gerenciar os benefícios e as competências da rede
 
+**Funções apropriadas**
+
+- Administrador de parceiros do MPN
 
 Se você está conhecendo o MPN (Microsoft Partner Network) agora e não tem uma ID do MPN, inicie o registro seguindo as [instruções de registro](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
 
@@ -58,7 +61,7 @@ Quando estiver pronto para criar uma conta no Partner Center, você precisará t
 
 Você pode pesquisar o perfil da empresa ou inserir as informações da empresa manualmente. Se a empresa estiver registrada no [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), use a ID DUNS para pesquisar as informações dela. Se você quiser fornecer os detalhes da empresa, selecione **Manual**.
 
-Se a sua empresa estiver localizada na **Armênia**, na **Hungria**, no **Quirguistão**, em **Moldávia**, no **Uzbequistão** ou na **Rússia** e você inserir o endereço manualmente, validaremos o seu endereço para você. Se o que você inserir, for diferente do validado, sugerimos que você use o endereço validado. Isso garante que os elementos do endereço sejam padronizados conforme definido pela autoridade postal do país, que sejam formatados corretamente e que possam servir de destino para remessas.  
+Se a sua empresa estiver localizada na **Armênia**, na **Hungria**, no **Quirguistão**, em **Moldávia**, no **Uzbequistão** ou na **Rússia** e você inserir o endereço manualmente, validaremos o seu endereço para você. Caso o que você insira seja diferente do validado, sugerimos que você use o endereço validado. Isso garante que os elementos do endereço sejam padronizados conforme definido pela autoridade postal do país, que sejam formatados corretamente e que possam servir de destino para remessas.  
 
 Depois de fornecer os dados da empresa, insira as informações do contato principal. O contato principal deve ser a pessoa da empresa que podemos contatar a respeito do seu aplicativo (pode ser você ou qualquer outra pessoa da empresa).
 
