@@ -9,18 +9,25 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 980c086a2ab1ee0a21592ceb1e2e018c0e1159ae
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: a6af9c7d674d1956332a564628b6b2ea0b1796f6
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490604"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120776"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Controle de acesso baseado em função para o painel do recepções do Partner Center
 
+**Funções apropriadas**
+
+- Administrador global
+- Agente administrativo
+- Visualizador de relatórios
+- Visualizador de relatórios executivos
+
 O painel de informações usa duas novas funções no Partner Center para gerenciar o acesso dos funcionários aos relatórios-Visualizador de relatórios executivos e visualizador de relatórios.  Os usuários na função do Visualizador de relatórios executivos têm acesso a todos os conjuntos de dados de relatórios, enquanto os usuários na função do Visualizador de relatórios não terão acesso a conjuntos de dados confidenciais, como receita e dados pessoais de cliente/funcionário.  
 
-Assim como acontece com outras funções do centro de parceiros, o administrador global ou o administrador da conta poderá atribuir usuários a essas funções na página de gerenciamento de usuários. As funções podem ser aplicáveis em toda a empresa ou em local (s) MPN específicos. As funções atribuídas a locais MPN específicos limitam o usuário a exibir dados de relatório associados somente ao (s) local (es) MPN selecionados. O parceiro pode selecionar um ou vários locais na exibição abaixo.
+Assim como acontece com outras funções do centro de parceiros, o administrador global ou o administrador da conta poderá atribuir usuários a essas funções na página de gerenciamento de usuários. As funções podem ser aplicáveis em toda a empresa ou em local (s) MPN específicos. As funções atribuídas a local (s) MPN específicos limitam o usuário a exibir os dados de relatório associados somente ao (s) local (es) MPN selecionados. O parceiro pode selecionar um ou vários locais na exibição abaixo.
 
 :::image type="content" source="images/pci/roles.png" alt-text="Mostra as configurações de funções de informações do Partner Center específicas do local para o Visualizador de relatórios e o Visualizador de relatórios do Executive.":::
 

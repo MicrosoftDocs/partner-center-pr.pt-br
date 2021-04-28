@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 263211fc03d7579a229d8a6df8ed4ad7ca59ed93
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 54421817782f05eec1cc57c11cd02a51664c094b
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549185"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120742"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registre as negociações que você ganhou no Partner Center para poder obter mais oportunidades posteriormente
 
@@ -37,9 +37,9 @@ Na página **Nova negociação**, forneça as seguintes informações.
 - **Valor da solução**: o valor total da solução de nuvem que será usada para o negócio. Inclua todos os valores associados às tarifas de software e de manutenção, mas não inclua itens reembolsáveis, valores de personalização não recorrentes ou valores de licença do CSP associados diretamente pagos pela Microsoft.
 - **Implantado em**: selecione o **Azure** ou **outro**.
 - **Onde a solução será implantada?**: selecione o **locatário do cliente** ou o **locatário do parceiro**.
-- **Data de início do contrato**: a data em que o contrato será iniciado.
-- **Data de término do contrato**: se o contrato terminar em uma data específica, selecione **tem uma data de término** e forneça essa data. Caso contrário, selecione **Perpétua**.
-- **Data de inscrição do contrato**: a data em que o contrato final foi assinado por sua organização e pelo cliente.
+- **Data de início do contrato**: a data em que o contrato será iniciado. Para negociações PAYG (pré-pago), use a data da primeira fatura.
+- **Data de término do contrato**: se o contrato terminar em uma data específica, selecione **tem uma data de término** e forneça essa data. Se o contrato não tiver uma data de término específica, selecione **perpétua**. Para negociações PAYG (pré-pago), use a data da última nota fiscal ou mais recente.
+- **Data de inscrição do contrato**: a data em que o contrato final foi assinado por sua organização e pelo cliente. Para negociações PAYG (pré-pago), use a data da primeira fatura.
 - **Contato de registro**: **nome**, **sobrenome**, número de **telefone** e **email** para uma pessoa em sua organização que podemos contatar se precisar de mais detalhes sobre qualquer uma das informações fornecidas aqui.
 
 Quando você tiver concluído todas as seções da página, selecione **Registrar**. O registro da negociação será movido para a página **Em andamento**. Em seguida, a Microsoft revisará as informações fornecidas.
@@ -54,7 +54,7 @@ Você pode revisar os registros de negociações novos, ativos e fechados nas di
 
 Na página **Indicações > Registros de negociação > Ação necessária**, você verá novos registros que ainda não foram registrados ou que precisam de uma atualização. Você pode usar os filtros para mostrar apenas registros de negociação **Incompletos** ou **Atualização necessária**. Registros de negociação **Incompletos** são aqueles originados de indicações, mas que ainda não foram registrados. **Atualizar** os registros de negociação necessários são aqueles que foram criados e registrados, mas que exigem que você atualize as informações fornecidas.
 
-### <a name="in-progress"></a>Em andamento
+### <a name="in-progress"></a>Em Andamento
 
 Na página **Indicações > Registros de negociação > Em Andamento**, você verá os registros de negociação que a Microsoft está revisando. Se precisarmos de mais informações, usaremos as informações de **Contato de registro** fornecidas.
 

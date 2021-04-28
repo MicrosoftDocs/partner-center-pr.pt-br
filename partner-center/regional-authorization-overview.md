@@ -9,14 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 216103ae3e94b7ba1525f9fa1199d0bf0311fd0b
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 33d4a3745c8e9de87c9d1ef4ef86dec7c79db1b0
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528594"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120759"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Programa de provedor de soluções na nuvem mercados regionais e moedas em que você pode vender ofertas de CSP
+
+**Funções apropriadas**
+
+- Administrador global
 
 O local da sua empresa determina seu mercado. Seu mercado inclui regiões e/ou países em que você pode vender ofertas de programa CSP (provedor de soluções na nuvem).
 
@@ -26,7 +30,7 @@ Antes que você faça um pedido de uma oferta no CSP em nome de um cliente, o cl
 
 ## <a name="azure-plan-for-csp-region-availability"></a>Plano do Azure para disponibilidade de região do CSP  
 
-O Azure Plan para CSP está disponível em menos regiões do que o software do Azure para CSP.  Consulte  [comprar o plano do Azure](purchase-azure-plan.md) para ver as atualizações mais recentes sobre a disponibilidade regional do Azure Plan. 
+O plano do Azure para CSP está disponível em menos regiões do que o software do Azure para CSP. Para obter as atualizações mais recentes sobre a disponibilidade regional para o plano do Azure, consulte [comprar o plano do Azure](purchase-azure-plan.md).
 
 >[!IMPORTANT]
 > Você precisa confirmar que um cliente aceitou o contrato do cliente da Microsoft fornecendo informações sobre a pessoa que o assinou. Confira [Confirmar a aceitação do Contrato de Cliente da Microsoft por um cliente](confirm-consent.md) para obter mais detalhes.
@@ -40,7 +44,7 @@ Se não houver suporte para o seu país, estabeleça o relacionamento do CSP do 
 
 - Os parceiros de cobrança direto usam a seguinte URL: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . Substitua **partnertenantguid** pela sua ID de locatário. 
 
-- A URL para revendedores indiretos é: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . Você substituirá **IRtenantguid** pela sua ID de locatário. Substitua **IRMPNID** por sua ID do MPN e substitua **IPtenantguid** pela sua ID de locatário do provedor indireto.
+- A URL para revendedores indiretos é: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . Substitua **IRtenantguid** pela sua ID de locatário. Substitua **IRMPNID** por sua ID do MPN e substitua **IPTENANTGUID** pela sua ID de locatário do provedor indireto.
 
 ## <a name="africa-region-and-market"></a>Região e mercado da África
 
@@ -169,7 +173,7 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 
 |  País/Região | Moeda |
 |  -------------- |:--------:|
-|  Canadá         |   CAD    |
+|  Canada         |   CAD    |
 |  São Pedro e Miquelon|  CAD   |
 |
 

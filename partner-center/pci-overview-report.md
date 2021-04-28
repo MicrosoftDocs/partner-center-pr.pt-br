@@ -9,16 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91075e8aab1759904a1549dd38bee6fb886c1c65
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 14d280a65fa7c72ed382fd8b27e0354a4aa9e190
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220484"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120810"
 ---
-# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Visão geral dos relatórios do painel disponíveis em informações do Partner Center
+# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Visão geral dos relatórios do painel disponíveis em Insights do Partner Center
  
-O painel Visão geral do insights fornece uma exibição de instantâneo dos principais indicadores de desempenho, como clientes, assinaturas, receita de consumo do Azure, licenças etc. Você pode visualizar os gráficos a seguir no relatório de visão geral.
+**Funções apropriadas**
+
+- Administrador global
+- Agente administrativo
+- Visualizador de relatórios
+- Visualizador de relatórios executivos
+
+O painel Visão geral do insights fornece uma exibição de instantâneo dos principais indicadores de desempenho, como clientes, assinaturas, receita de consumo do Azure e licenças. Você pode visualizar os gráficos a seguir no relatório de visão geral.
 
 - Resumo  
 - Distribuição geográfica de seus clientes, assinaturas e licenças  
@@ -33,7 +40,7 @@ O resumo inclui informações sobre clientes, ACR (receita consumida do Azure), 
 
 :::image type="content" source="images/pci/summary.png" alt-text="Licenças de resumo":::
 
-Consulte abaixo para obter mais informações sobre cada seção do resumo.
+Veja a seguir mais informações sobre cada seção do resumo.
 
 ### <a name="customers"></a>Clientes
 
@@ -80,7 +87,7 @@ A área de **licenças implantadas** no resumo inclui:
 
 ## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Distribuição geográfica de seus clientes, assinaturas e licenças
 
-Essa exibição é uma distribuição geográfica do total de clientes, assinaturas e licenças por país do cliente. Clique nas guias diferentes para exibir cada uma dessas informações sobre o mapa. Você pode pesquisar e selecionar um país na grade para aplicar zoom ao local no mapa. Reverta para a exibição original pressionando o botão página inicial no mapa. Clicar em cada guia (por exemplo, clientes, assinaturas) mostra o valor da métrica para cada país, bem como o% do total do país.  
+Essa exibição é uma distribuição geográfica do total de clientes, assinaturas e licenças por país do cliente. Selecione as diferentes guias para exibir cada uma dessas informações no mapa. Você pode pesquisar e selecionar um país na grade para aplicar zoom ao local no mapa. Reverta para a exibição original pressionando o botão página inicial no mapa. Clicar em cada guia (por exemplo, clientes, assinaturas) mostra o valor da métrica para cada país e a porcentagem do total do país.  
 
 :::image type="content" source="images/pci/geosummary.png" alt-text="Resumo geográfico":::
 

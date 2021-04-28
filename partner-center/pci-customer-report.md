@@ -9,16 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30032a9b396a82f530c9497f96e4a9b1f6b46e00
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 28343b5754546b653bd5a3e6b4a53a002b408668
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220494"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120827"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Relatórios do painel de clientes de insights do Partner Center
 
-O painel de clientes apresenta dados de seus clientes que adquiriram produtos de nuvem, como Office, Azure, Dynamics, etc., por você ou que você usou para implantar e gerenciar esses produtos em seus locatários. 
+**Funções apropriadas**
+
+- Administrador global
+- Agente administrativo
+- Visualizador de relatórios
+- Visualizador de relatórios executivos
+
+O painel clientes apresenta dados de seus clientes que adquiriram produtos de nuvem, como Office, Azure, Dynamics, etc., por você ou que você usou para implantar e gerenciar esses produtos em seus locatários. 
  
 O painel clientes tem as seguintes seções: 
 
@@ -56,7 +63,7 @@ A seção de resumo apresenta uma exibição de instantâneo de vários KPIs rel
 
 ### <a name="customers-churned"></a>Clientes com variação
 - Contagem de todos os clientes com rotatividade de cada mês durante o período de tempo selecionado. Um cliente será considerado perdido se o cliente não tiver uma única assinatura com status ativo. 
-- % de clientes com variação durante o intervalo de datas selecionado 
+- Porcentagem de clientes com rotatividade durante o intervalo de datas selecionado 
 - O micro Chart apresenta uma tendência mês a mês de clientes com variação no período de tempo selecionado 
  
 ### <a name="customers-by-products"></a>Clientes por produtos
@@ -77,7 +84,7 @@ Tendência de clientes com divisão em novas, existentes e com variação para o
 
 ## <a name="customer-distribution"></a>Distribuição do cliente
 
-Divisão de seus clientes atuais por seus locais MPNs, segmentos de clientes, modelo de preços do Azure/canal de vendas e o tipo de atribuição (por exemplo, DPOR, DAP, etc.). Clique nas respectivas guias acima do gráfico para exibir a divisão por essas categorias. Você pode recriar o gráfico selecionando/desmarcando as dimensões específicas selecionando os itens da legenda. 
+Divisão de seus clientes atuais por seus locais MPNs, segmentos de clientes, modelo de preços do Azure/canal de vendas e o tipo de atribuição (por exemplo, DPOR, DAP). Selecione as respectivas guias acima do gráfico para exibir a divisão por essas categorias. Você pode recriar o gráfico selecionando/desmarcando as dimensões específicas selecionando os itens da legenda. 
 
 ## <a name="customers-by-products"></a>Clientes por produtos
 
@@ -87,7 +94,7 @@ Divisão da contagem de clientes atuais por produtos e SKUs/planos. Selecione um
 
 ## <a name="customer-distribution-trend"></a>Tendência de distribuição do cliente 
 
-Tendência mensal da distribuição de seus clientes durante o intervalo de datas selecionado por mercados, segmentos, seus locais MPN e produtos que eles adquiriram. Clique nas respectivas guias no gráfico para exibir a tendência por essas categorias. O eixo X representa os meses do intervalo de datas selecionado, e o eixo Y tem a contagem de clientes para a categoria selecionada (seleção de guia). Você pode focalizar as colunas do gráfico para exibir os valores divisão de cada pilha. Você pode aproveitar o controle deslizante na parte superior do gráfico para ampliar um período específico.   
+Tendência mensal da distribuição de seus clientes durante o intervalo de datas selecionado por mercados, segmentos, seus locais MPN e produtos que eles adquiriram. Selecione as respectivas guias no gráfico para exibir a tendência por essas categorias. O eixo X representa os meses do intervalo de datas selecionado, e o eixo Y tem a contagem de clientes para a categoria selecionada (seleção de guia). Você pode focalizar as colunas do gráfico para exibir os valores divisão de cada pilha. Você pode aproveitar o controle deslizante na parte superior do gráfico para ampliar um período específico.   
 
 :::image type="content" source="images/pci/customerdistri.png" alt-text="Captura de tela do relatório de tendências de distribuição do cliente mostrando gráficos de barras que você pode exibir por mercado, segmento, local do parceiro ou produtos.":::
 
