@@ -7,13 +7,13 @@ ms.subservice: partnercenter-csp
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.date: 09/18/2020
-ms.openlocfilehash: 2cdb63c8f7e29fc8a56e920b587e47c382c6eacb
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.date: 04/27/2021
+ms.openlocfilehash: 91f64faeec0b97be2797d489e152cb84cbb2e192
+ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086950"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "108213425"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>Relatórios de CloudAscent propensation disponíveis no painel do Partner Center
 
@@ -22,47 +22,48 @@ ms.locfileid: "106086950"
 - Visualizador de relatórios executivos
 - Visualizador de relatórios
 
-O painel do Partner Center fornece dados de propensação baixáveis do programa CloudAscent. Os dados mostram a propensão dos clientes para comprar produtos da Microsoft.  Este artigo descreve a divisão desses dados, como usar a pontuação e o que isso significa.
+O painel do Partner Center fornece dados de propensação baixáveis do programa CloudAscent. Os dados mostram a probabilidade dos clientes de comprar produtos da Microsoft.  Este artigo descreve a divisão desses dados, como usar a pontuação e o que isso significa.
 
 ## <a name="summary-definitions"></a>Definições de resumo
 
 - **Clientes do SMC**– este é o número total de clientes nos downloads de propensação.  Os clientes são identificados pelo parceiro do registro.
 - **Contratos de expiração**– dentro do ano fiscal atual, estamos fornecendo o número de contratos expirando.
-- **Receita de expiração**– a receita associada aos contratos expirados.
 - **Abrir receita de expiração**– a receita associada aos contratos expirados abertos.
 
-:::image type="content" source="images/pci/cust-oppor-1.png" alt-text="Captura de tela do painel de Resumo de oportunidades de clientes.":::
+:::image type="content" source="images/pci/cust-oppor-11.png" alt-text="Captura de tela do painel de Resumo de oportunidades de clientes.":::
 
 ## <a name="cloudascent-smb-segmentation"></a>Segmentação SMB do CloudAscent
 
-O segmento SMB (de pequeno a médio porte) é dividido em três subsegmentos distintos.
+O segmento SMB (Small to Medium Business) é dividido em três subsegmentos distintos.
 
 1. A **parte superior não gerenciada** inclui os maiores clientes SMB com mais oportunidade para a Microsoft. Os principais clientes não gerenciados compartilham características semelhantes às contas gerenciadas, com grande número de funcionários, grandes orçamentos de ti e gastos e grandes quantidades de receitas potenciais para a Microsoft.
 
-   Definimos duas maneiras principais não gerenciadas:
+   Definimos Top não gerenciado de duas maneiras:
 
    - **Com base em principais usuários não gerenciados**– inclui contas com 300 ou mais funcionários. User-Based contas são ótimos alvos para compra pela primeira vez ou expansão de produtos de assinatura baseados em usuário, como Microsoft 365, Dynamics 365 ou Surface.
    - **Base de computação não gerenciada superior** – inclui contas com o potencial do Azure maior que $10K. As contas baseadas em computação incluem o Azure existente. Acesse as contas com potencial do ano futuro e contas que ainda não compraram o Azure, mas têm potencial para o Azure com mais de US $10.000.
 
 2. Os **negócios médios** incluem clientes existentes e contas de clientes potenciais com 25 a 300 funcionários.
 
-3. A **pequena empresa** inclui todas as empresas restantes com menos de 25 funcionários.
+3. A **pequena empresa** inclui empresas com 10-25 funcionários.
+
+4. **Pequenas** empresas incluem empresas com 1-9 funcionários.
 
 :::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Cliente por tipo SMC.":::
 
 Os principais subsegmentos de negócios **não gerenciados** e **médios** representam clientes LTV (valor de tempo de vida alta) para a Microsoft e parceiros da Microsoft. Por isso, eles são as áreas potenciais de foco para impulsionar o crescimento nesse segmento. Nesses dois subsegmentos, estamos mais bem posicionados para adquirir o soquete com Microsoft 365, monetizar ainda mais com aplicativos de LOB (linha de negócios) D365/Azure e percebem um alto LTV para a Microsoft.
 
-Hoje temos duas áreas-chave de oportunidade – 1. nosso cliente adiciona crescimento; 2. Embora possamos adquirir os soquetes de nuvem que levam com Microsoft 365, temos uma grande oportunidade no D365 e no Azure.
+Hoje temos duas áreas-chave de oportunidade – 1. nosso cliente adiciona crescimento; 2. Embora possamos adquirir os soquetes de nuvem que levam com Microsoft 365, temos uma grande oportunidade no Dynamics 365 e no Azure.
 
-A captura de tela a seguir representa os três subsegmentos SMB e as rotas otimizadas para o mercado. CloudAscent priorize a criação de perfil, a pontuação e a modelagem de todas as principais contas de negócios não gerenciadas e médias.
+A captura de tela a seguir representa os quatro subsegmentos SMB. CloudAscent priorize a criação de perfil, a pontuação e a modelagem de todas as principais contas de negócios não gerenciadas e médias.
 
-:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="Captura de tela de subsegmentos SMB.":::
+:::image type="content" source="images/pci/cust-oppor-32.png" alt-text="Captura de tela de subsegmentos SMB.":::
 
 ## <a name="cloudascent-machine-learning"></a>Machine Learning CloudAscent
 
 O SMB usa a tecnologia de aprendizado de máquina para orientar as previsões de vendas e marketing dos clientes dentro dos principais segmentos de negócios não gerenciados e médios. Como os sinais são coletados e transformados nas recomendações de propensação?
 
-- **Coleta de dados**: os rastreadores da Web examinam e coletam bilhões de sinais de clientes ao executar ping nos domínios da empresa e monitoramento: Postagens de blog, Press Releases, fluxos sociais e fóruns técnicos.  Além dos sinais coletados, as informações de firmographics são coletadas de fontes internas e externas, como D&B, assinatura interna da Microsoft e dados transacionais.
+- **Coleta de dados**: os rastreadores da Web examinam e coletam bilhões de sinais de clientes ao executar ping nos domínios da empresa e monitorar postagens em Blogs, Press Releases, fluxos sociais e fóruns técnicos.  Além dos sinais coletados, as informações de firmographics são coletadas de fontes internas e externas, como D&B, assinatura interna da Microsoft e dados transacionais.
 
 - **Machine Learning**: os sinais são inseridos no modelo de aprendizado de máquina que gera um conjunto de dados estruturado de previsões de vendas e marketing para cada cliente por produto e cluster de nuvem.  Cada cliente é pontuado usando um modelo semelhante ao principal SMB da Microsoft que determina o ajuste do cliente e os algoritmos de aprendizado de máquina que integram o comportamento online do cliente, defina como intenção. A pontuação é mesclada em clusters que mostram a propensão de um cliente para comprar Microsoft Cloud produtos.
 
@@ -136,4 +137,6 @@ Os modelos de espaço em branco são compostos de previsões para clientes da Mi
 
 Os modelos de venda cruzada usam dados de transação para prever o potencial de venda no Azure e Microsoft 365 SKUs.
 
-O EOS compartilha o fim dos clientes de serviço para o Windows 7, o Office 2010, o SQL Server e o Windows Server. Os dados de EOS são extraídos da MS Sales e sobrepostos com a modelagem de propensão CloudAscent, quando disponível. Os dados de EOS residem no trabalho moderno e nas atividades de vendas do Azure.
+Esses clientes já terão o Azure ou o Microsoft 365 e o modelo de venda mostrará que é provável que eles comprem mais de sua SKU existente.
+
+EOS compartilha os clientes de fim de serviço (EOS) para o Win 7, o Office 2010, o SQL Server e o Windows Server. Os dados de EOS são extraídos da MS Sales e sobrepostos com a modelagem de propensão CloudAscent, quando disponível. Os dados de EOS residem no trabalho moderno e nas atividades de vendas do Azure.
