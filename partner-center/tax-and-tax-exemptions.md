@@ -9,15 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f423687cacb1f1b2d53750075ff7db9837e8125c
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 515591f37cb15e8af69acf8d30affd9300429e42
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247669"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284461"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Leia sobre impostos e detalhes de isenção de imposto por região ou país para parceiros no programa CSP
 
+**Funções apropriadas**
+
+- Administrador global
 
 O programa CSP (provedor de soluções na nuvem) é um canal de vendas focado na revenda de produtos do parceiro. Como resultado, a Microsoft nem sempre é obrigada a cobrar o imposto sobre vendas em faturas de parceiros. As regras variam de acordo com o país e/ou a região. Você pode examinar [detalhes específicos do país e da região para isenção de imposto](#country-and-region-tax-details).
 
@@ -30,7 +33,7 @@ Informações específicas relacionadas a impostos estão disponíveis para o Ca
 Se você estiver em outro país ou região que cobra impostos, consulte [as informações para outras regiões](#other-regions).
 
 
-### <a name="canada"></a>Canada
+### <a name="canada"></a>Canadá
 
 A maioria dos revendedores não está isento de HST/GST/QST. Consulte seu supervisor de imposto para determinar se você está qualificado para isenção e qual documentação você deve fornecer à Microsoft.
 
@@ -38,7 +41,7 @@ Para uma isenção de BC PST, o arquivo é uma isenção de imposto conforme des
 
 ### <a name="united-states"></a>Estados Unidos
 
-Todos os revendedores nos Estados Unidos devem fornecer uma documentação de isenção de imposto em até 30 dias depois de aceitar o Contrato de Revendedor da Microsoft. Cada estado tem certificados de isenção diferentes para revenda. Trabalhe com seu consultor de imposto para determinar o que é relevante para seu endereço legal e estados registrados.
+Todos os revendedores nos Estados Unidos devem fornecer uma documentação de isenção de imposto em até 30 dias depois de aceitar o Contrato de Revendedor da Microsoft. Cada estado tem certificados de isenção diferentes para revenda. Trabalhe com seu supervisor de imposto para determinar o que é relevante para seu endereço legal e Estados registrados.
 
 Isso pode incluir certificados de isenção de revenda que funcionam em vários Estados, como a *simplificação de vendas* e o *uso do certificado de contrato de imposto de isenção* ou *MTC vendas uniformes & usar o certificado de isenção de imposto*.
 

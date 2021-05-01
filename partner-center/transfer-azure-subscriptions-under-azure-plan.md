@@ -9,18 +9,20 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: e792e4af2999924ba8be77ec0517ce56c1db7a27
-ms.sourcegitcommit: ed5c873d19f0464cc986fe6e852383cd4280daf6
+ms.openlocfilehash: 12afa751d2e7cb6b6ef0cd7308f09746a8a43b52
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "97893199"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284495"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Transferir as assinaturas do plano do Azure de um cliente para um parceiro diferente
 
 **Funções apropriadas**
 
-- Parceiros no programa CSP (Provedor de Soluções na Nuvem)
+- Administrador de conta
+- Agente de vendas
+- Agente de cobrança
 
 Este artigo descreve como um cliente pode mudar suas assinaturas do Azure em um plano do Azure de um CSP (provedor de soluções de nuvem) para outro.
 
@@ -90,7 +92,7 @@ O parceiro futuro da assinatura precisa concluir um formulário de solicitação
 
 O agente de administrador do parceiro atual do cliente receberá um email informando que o cliente está solicitando uma transferência de suas assinaturas:
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Examinar":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Revisão":::
 
 Examine e aceite o formulário de solicitação de transferência do centro de parceiros para concluir a transferência da assinatura.
 

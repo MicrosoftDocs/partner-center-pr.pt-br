@@ -9,14 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ebcd04e5612de350e103cbfd5f8c7e272c19a785
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: deda7a351c79636dfb11c002810a8510782aca6d
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768679"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284444"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Mover clientes baseados em licença de outros canais & parceiros para o programa do provedor de soluções na nuvem
+
+**Funções apropriadas**
+
+- Administrador de conta
+- Agente de vendas
+- Agente de cobrança
 
 Se o cliente quiser contratar vários parceiros, transferir suas assinaturas para outro parceiro ou gerenciar suas assinaturas adquiridas em outro lugar, você poderá migrá-lo manualmente. Você também pode mover clientes para o Partner Center de outro canal.
 

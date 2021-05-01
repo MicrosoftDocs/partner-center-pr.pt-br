@@ -8,16 +8,16 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 03/01/2021
-ms.openlocfilehash: 2082424f8203f0d9c50726e1e5ef7b3e3c39d6c2
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: c399e00394208ec29dd59a41afe7cce1b1d07253
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768764"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284325"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>Visão geral do conector de venda conjunta para o Dynamics 365 CRM
 
-### <a name="appropriate-roles"></a>Funções apropriadas
+**Funções apropriadas**
 
 - Administrador de indicações
 - Administrador do sistema ou personalizador do sistema no CRM
@@ -110,7 +110,7 @@ Antes de instalar, configurar e personalizar a solução de automatização de e
 
    :::image type="content" source="images/connection-reference-video.gif" alt-text="Captura de tela que mostra a edição das conexões.":::
 
-1. Edite cada uma das conexões uma por uma selecionando o ícone de reticências. Adicione as conexões relevantes.
+1. Edite cada uma das conexões individualmente selecionando o ícone de reticências. Adicione as conexões relevantes.
 
    :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Captura de tela que mostra as conexões listadas.":::
 

@@ -9,20 +9,24 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0696a3820a873ca213b4c2e0be847c0518095466
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b0d8a560c048f1a1dbb783560cf419145754a6fe
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031949"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284291"
 ---
 # <a name="view-digitally-signed-invoices"></a>Exibir faturas assinadas digitalmente
 
 **Aplica-se a**
 
-- Partner Center
 - Centro-parceiro Índia
 
+**Funções apropriadas**
+
+- Administrador de conta
+- Agente de cobrança
+- Agente de vendas
 
 Os parceiros na Índia agora veem que a Microsoft assinou digitalmente as notas fiscais. Você deve usar a nuvem de documentos do Adobe Acrobat Reader (DC) para exibir uma assinatura.
 
@@ -36,17 +40,17 @@ Os parceiros na Índia agora veem que a Microsoft assinou digitalmente as notas 
  
  :::image type="content" source="images/digitalsig/digital1.png" alt-text="A nota fiscal de exemplo com uma faixa de notificação de assinatura válida mostrando a assinatura de marca de seleção verde e a frase dizendo, assinou e todas as assinaturas são válidas":::
 
-3. Clique na assinatura. O certificado que informa a validade será exibido.
+3. Selecione a assinatura. O certificado que informa a validade será exibido.
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="A nota fiscal de exemplo com uma faixa de notificação de assinatura válida mostrando a assinatura de marca de seleção verde e a frase dizendo, assinou e todas as assinaturas são válidas"::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="Caixa de diálogo assinatura assinada com campo de signatário autorizado e status de validação de assinaturas com detalhes, opção Propriedades da assinatura, opção cancelar."::: 
 
 4. Selecione **Propriedades da assinatura** para exibir mais detalhes sobre a validade da assinatura.
 
-:::image type="content" source="images/digitalsig/digital4.png" alt-text="A nota fiscal de exemplo com uma faixa de notificação de assinatura válida mostrando a assinatura de marca de seleção verde e a frase dizendo, assinou e todas as assinaturas são válidas"::: 
+:::image type="content" source="images/digitalsig/digital4.png" alt-text="Exibição de detalhes de propriedades de assinatura mostra informações sobre quem, em que, quando o documento foi assinado, seu processo de validação e certificado do signatário."::: 
 
 4. Você também pode garantir que os caminhos de certificação estejam corretos e que o certificado seja confiável.
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text="A nota fiscal de exemplo com uma faixa de notificação de assinatura válida mostrando a assinatura de marca de seleção verde e a frase dizendo, assinou e todas as assinaturas são válidas":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="A caixa de diálogo Visualizador de certificados mostra várias guias com mais detalhes sobre um certificado e sua cadeia de emissão inteira.":::
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>Informações adicionais sobre faturas e assinaturas digitais
 

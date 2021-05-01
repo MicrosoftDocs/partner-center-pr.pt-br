@@ -9,33 +9,31 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9ed503fbeee6264e1127163b7cc44b7b351d3b89
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: a32dba704482dad34b689b21da9e41de74a6e051
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768662"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284155"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>O Partner Center tem dois níveis de contas para parceiros MPN
-
 
 **Funções apropriadas**
 
 - Administrador de conta
-- Administrador de perfis de negócios
-
+- Administrador global
 
 Sua empresa tem dois níveis de contas no Partner Center.
 
-## <a name="the-top-level-is-the-partner-global-account-pga"></a>O nível superior é a conta global do parceiro (PGA).
+## <a name="the-top-level-account-is-the-partner-global-account-pga"></a>A conta de nível superior é a conta global do parceiro (PGA)
 
 - A conta global do parceiro contém o endereço comercial legal e o contato principal da sua empresa. 
-- Exiba os detalhes da sua conta global do parceiro em **configurações**  ->  **perfil da organização**, **perfil legal**.
+- Exiba os detalhes da sua conta global do parceiro em **configurações**  >    >  **perfil legal** perfil de organização.
 - Os detalhes também conterão a ID MPN da conta global do parceiro. 
 - O PGA é o pai da sua empresa e não é usado para associar a programas de incentivos ou ao provedor de soluções na nuvem. 
 - Os locais devem ser usados para essas associações.
 
-## <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>A conta de segundo nível é a conta local chamada PLA (conta de local de parceiro).
+## <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>A conta de segundo nível é a conta local chamada PLA (conta de local de parceiro)
 
 Seu PGA pode ter locais de negócios adicionais sob ele. Cada local tem sua própria ID de MPN ou PLA (conta de localização de parceiro). Você usa o local MPN ID para negócios transacionais e registro em programas de incentivo.
 

@@ -8,16 +8,16 @@ description: Sincronize suas referências no Partner Center com seu Salesforce C
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
-ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
+ms.openlocfilehash: 8139f89a37048b1790353e3bdd18ac1b44887219
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "97960944"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284376"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Conector de venda conjunta para o Salesforce CRM – visão geral
 
-### <a name="appropriate-roles"></a>Funções apropriadas
+**Funções apropriadas**
 
 - Administrador de indicações
 - Administrador do sistema ou personalizador do sistema no CRM
@@ -49,14 +49,12 @@ Para sincronizar as referências no Partner Center e no Salesforce CRM, a soluç
     - Defina as configurações conforme necessário.
 [Referência](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
 
-3. No Salesforce, instale campos personalizados e objetos usando o instalador de pacote abaixo.
-  
-Acesse [aqui](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) para instalar o pacote em qualquer empresa.
+3. No Salesforce, instale campos personalizados e objetos usando o [instalador de pacote](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV). Use isso para instalar o pacote em qualquer empresa.
 
+>[!NOTE]
+>Se você estiver instalando em uma área restrita, deverá substituir a parte inicial da URL por http://test.salesforce.com
 
-Observação: se você estiver instalando em uma área restrita, deverá substituir a parte inicial da URL por http://test.salesforce.com
-
-4. No Salesforce, adicione soluções da Microsoft à lista de **oportunidades** relacionadas. Depois de adicionado, clique no ícone de **chave inglesa** e atualize as propriedades
+4. No Salesforce, adicione soluções da Microsoft à lista de **oportunidades** relacionadas. Depois de adicionado, selecione o ícone de **chave inglesa** e atualize as propriedades
 
 ## <a name="best-practice-test-before-you-go-live"></a>Prática recomendada: teste antes de entrar no ar
 
@@ -78,7 +76,7 @@ Antes de instalar, configurar e personalizar a solução de automatização de e
 
 3. Selecione **soluções** na barra de navegação à esquerda.
 
-4. Clique no link **abrir AppSource** no menu superior.
+4. Selecione o link **abrir AppSource** no menu superior.
 
    :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Abrir AppSource":::
 
@@ -86,7 +84,7 @@ Antes de instalar, configurar e personalizar a solução de automatização de e
 
    :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
 
-6. Clique no botão **obter agora** e em **continuar**.
+6. Selecione o botão **obter agora** e, em seguida, **continuar**.
 
 7. Isso abre a página onde você pode selecionar o ambiente do Salesforce CRM para instalar o aplicativo.  Concorde com os termos e condições.
 
@@ -135,7 +133,7 @@ Antes de instalar, configurar e personalizar a solução de automatização de e
  
 :::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Iniciar edição do conector":::
 
-2. Edite cada uma das conexões uma por uma selecionando o ícone de três pontos. Adicione as conexões relevantes.
+2. Edite cada uma das conexões individualmente selecionando o ícone de três pontos. Adicione as conexões relevantes.
 
 :::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Editar conectores":::
 
@@ -177,7 +175,7 @@ As APIs de webhook do Partner Center permitem que você se registre em eventos d
 
 8. Agora, selecione o fluxo "registro do webhook do Partner Center (insider Preview)" automatizar fluxos de energia e selecione **executar**.
 
-9. Verifique se a janela "executar fluxo" é aberta no painel direito e clique em **continuar**.
+9. Verifique se a janela "executar fluxo" é aberta no painel direito e selecione **continuar**.
 
 10. Insira os seguintes detalhes:
 
@@ -209,7 +207,7 @@ Várias etapas de cada um dos fluxos de energia automatizada podem ser personali
 
 2. Para personalizar mapeamentos de campo de CRM para criar eventos, selecione **se for nova oportunidade compartilhada e, em seguida,**. Selecione a subetapa **se sim** e, em seguida, expanda **criando uma nova oportunidade no CRM**. Você pode editar os mapeamentos nesta seção usando o guia de mapeamento de campos.
 
-   1. Para personalizar mapeamentos de campo de CRM para eventos de atualização, clique na etapa "(escopo) sincronizar o cliente potencial ou a oportunidade".
+   1. Para personalizar mapeamentos de campo de CRM para eventos de atualização, selecione a etapa "(escopo) sincronizar o cliente potencial ou a oportunidade".
 
    2. Selecione **se for uma atualização para uma oportunidade e, em seguida,**. Selecione a subetapa **se sim** e, em seguida, expanda **se a diferença entre os objetos de oportunidade no Partner Center e no CRM, em seguida**.  
 

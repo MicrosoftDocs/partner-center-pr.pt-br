@@ -8,14 +8,18 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 42c5d6f0d31e6509253fe44d5b97606fc688f177
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 38d0748548dca4f46eb60d5d36e1a55ad5fa1d67
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712810"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284427"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Noções sobre os formulários fiscais da Receita Federal dos EUA emitidos pela Microsoft
+
+**Funções apropriadas**
+
+- Administrador global
 
 Você pode receber um ou mais formulários de impostos da Microsoft a cada ano. Isso depende do local e da quantidade de vendas ou dos pagamentos recebidos. A Microsoft é obrigada a emitir esses formulários e declará-los para a Receita Federal dos EUA.
 
@@ -69,7 +73,7 @@ Os formulários de imposto serão enviados a você por meio dos seguintes endere
 | **Pergunta** | **Resposta** |
 |---|---|
 | **Recebi um formulário 1042-S da Microsoft. Para quê?** | A Microsoft enviou um ou mais formulários 1042-S porque pagamos a você uma receita que é considerada declarável para as autoridades fiscais dos Estados Unidos e que foi sujeita à retenção de imposto.  O formulário 1042-S é usado para essa exigência de declaração. | 
-| **O que devo fazer com os formulários?** | Em geral, nenhuma ação específica é necessária de sua parte. O formulário 1042-S pode ser útil se você deseja entrar com pedido de alguma forma de crédito de imposto junto às autoridades fiscais locais.  Consulte seus próprios consultores de imposto para obter mais informações sobre este tópico. | 
+| **O que devo fazer com os formulários?** | Em geral, nenhuma ação específica é necessária de sua parte. O formulário 1042-S pode ser útil se você deseja entrar com pedido de alguma forma de crédito de imposto junto às autoridades fiscais locais.  Consulte seus próprios consultores de imposto para obter mais informações sobre esse assunto. | 
 | **Por que o imposto foi retido em minhas pagamentos quando preenchi um formulário W8?** | Impostos serão retidos se:<br/><br/>1. você não concluiu a seção de tratados de impostos do W8 corretamente ou <br/>2. você está residente em um país que não tem uma Tratado de imposto com o Estados Unidos.<br/><br/>Você pode visitar o Partner Center a qualquer momento para enviar um formulário W8 atualizado.<br/><br/> **Observação:** Nem toda a renda está sujeita à retenção de imposto. | 
 | **Enviei um formulário W8 atualizado com informações de tratados válidas. A Microsoft pode reembolsar o imposto que foi retido?** | Uma vez retido o imposto, ele não pode ser reembolsado. Entre em contato com seus consultores de imposto para discutir se você pode solicitar um crédito local para esses impostos ou se você pode buscar um reembolso do IRS. | 
 | **Quais vendas são declaradas no formulário 1042-S?** | Somente a vendas feitas **a compradores localizados nos Estados Unidos que foram classificados como sujeitos à retenção de imposto** devem ser declaradas.  Todas as outras vendas não são consideradas declaráveis. | 

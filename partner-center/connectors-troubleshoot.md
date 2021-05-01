@@ -8,16 +8,16 @@ description: Saiba mais sobre as respostas a perguntas comuns sobre como usar co
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: b8977f7c602b8587a619236b37a760a55bf87e53
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 939654202a370f6d9ba15d9e62a11be44884b613
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354535"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284206"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Solucionar problemas de conectores de referências de venda conjunta
 
-**Aplica-se a:**
+**Aplica-se a**
 
 - CRM do Dynamics 365
 - CRM do Salesforce
@@ -39,7 +39,7 @@ Os usuários que são administradores de sistema ou personalizadores de sistema 
 
 3. Os vendedores de parceiros precisam de funções especiais para trabalhar no Partner Center?
  
-Os vendedores do parceiro devem ser atribuídos à função "administrador de referências". Para obter mais informações, consulte o seguinte [Visão geral de permissões) (Create-User-Accounts-and-Set-Permissions).
+Os vendedores do parceiro devem ser atribuídos à função "administrador de referências". Para obter mais informações, consulte [visão geral de permissões](create-user-accounts-and-set-permissions.md).
 
 4. Quais campos precisam ser configurados primeiro em seu ambiente de CRM? 
 
@@ -131,7 +131,7 @@ E. Em registro de webhook do Flow Center de fluxo, selecione **executar**. Forne
 
 ## <a name="questions-and-answers-about-runmaintenance"></a>Perguntas e respostas sobre a execução/manutenção
 
-1. Como solucionar problemas em caso de falhas durante a execução do fluxo de energia automatizada?
+1. Como solucionar problemas de falhas durante a execução do fluxo de energia automatizada?
 
 Para garantir que seus fluxos de energia automatizada sejam executados conforme esperado e para solucionar falhas durante a execução, consulte [corrigir falhas de fluxo](/power-automate/fix-flow-failures).
 
@@ -163,7 +163,7 @@ Execute as seguintes etapas:
 
 - Verifique se o campo moeda de referência está configurado no ambiente do Salesforce. 
 
-4. O que você deve fazer se o conector for desconectado e você perder uma sincronização de referência. 
+4. O que você deve fazer se o conector for desconectado e você perder uma sincronização de referência.?
 
 A seguir estão algumas das opções que você pode experimentar:
 
@@ -191,17 +191,17 @@ Você precisará adicionar o código do país ISO de duas letras à conta do cli
 
 Para criar uma referência de venda conjunta, você precisa de uma solução de venda pronta da Microsoft. 
 
-8. O que você deve fazer ao ver as oportunidades de venda conjuntas criadas no Partner Center que não são sincronizadas com o CRM, mesmo que não haja nenhum erro de fluxo:
+8. O que você deve fazer quando você vê oportunidades de venda em conjunto criadas no Partner Center que não são sincronizadas com o CRM mesmo que não haja nenhum erro de fluxo?
 
 Faça o seguinte:
 
 - Depois de criar um novo negócio de revenda no Partner Center, verifique se o Partner Center para o fluxo do Dynamics 365 é invocado (ele pode ser invocado várias vezes).
 
-- Se o fluxo for invocado, verifique todos os fluxos invocados e identifique a execução do fluxo que atualizará o CRM. Você pode seguir as ações e verificar se ele atualizou o CRM ou encontrou um problema.
+- Se o fluxo for invocado, verifique todos os fluxos invocados e identifique a execução do fluxo que atualizaria o CRM. Você pode seguir as ações e verificar se ele atualizou o CRM ou encontrou um problema.
 
-- Verifique o *novo negócio** no Partner Center para ver se ele é preenchido com a ID do CRM.
+- Marque **novo negócio** no Partner Center para ver se ele é preenchido com a ID do CRM.
 
-- Certifique-se de que o negócio não seja fechado acidentalmente como "ganho" ou "perdido" no Partner Center.
+- Certifique-se de que o negócio não seja fechado acidentalmente como **ganho** ou **perdido** no Partner Center.
 
 ## <a name="next-steps"></a>Próximas etapas
 
