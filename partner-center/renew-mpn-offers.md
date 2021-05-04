@@ -9,18 +9,22 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c0386d6cbaba1094659c76a3bd274d88e4fe948
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 779f785899039765ba4a9da42d3e6bb4a828976d
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549100"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018077"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Renovar suas ofertas do MPN para competências e especializações avançadas durante a janela de renovação
 
+**Funções apropriadas**
+
+- Administrador de parceiros do MPN
+
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Responder à COVID-19: atualização do Microsoft Partner Network
 
-A Microsoft está oferecendo a extensão de competência (com exceção da competência Cloud Business Applications) e da extensão de especialização avançada para os parceiros com DA (datas de aniversário) entre 1º de janeiro e 30 de junho de 2021. Examine nossa [postagem no blog do parceiro](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) para obter mais informações.
+A Microsoft está oferecendo a extensão de competência (exceto para a competência Cloud Business Applications) e a extensão de especialização avançada para os parceiros com DA (datas de aniversário) entre 1º de janeiro e 30 de junho de 2021. Para obter mais informações, confira esta [postagem no blog do parceiro](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
 
 ## <a name="renewal-reminders"></a>Lembretes de renovação
 

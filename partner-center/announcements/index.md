@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/27/2021
-ms.openlocfilehash: 935aef8dd3b19462c162911c893a49c3d6c7d337
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: b6b16a8453d9e93e2600c53bedcef7dc29c14e16
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172412"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328025"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,6 +22,7 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 |**Categoria**|**Comunicados de abril de 2021**|**Comunicado**|
 |---------|:---------|:---------|
+|Preparação|[API de validação de endereço de cliente do CSP atualizada será ativada em junho; funcionalidade de teste agora disponível](2021-april.md#10)|30 de abril|
 |Funcionalidades|[Novo local para a documentação do Swagger da API do Partner Center](2021-april.md#9)|26 de abril|
 |Funcionalidades|[Aviso de expiração do link de download e política do período de devolução do software do CSP (Provedor de Soluções na Nuvem)](2021-april.md#8)|21 de abril|
 |Amplie seus negócios|[Programa de Licenciamento Open: transição de revendedores para o programa CSP (Provedor de Soluções na Nuvem)](2021-april.md#7)|19 de abril|

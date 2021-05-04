@@ -9,16 +9,16 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f536d975d3c644a7afa29a95a3cb45608f6b2c9f
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: 26768bdf33c03145a893fa445eab6ebf92ca9b1c
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315840"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018180"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Restabelecer privilégios de administrador para assinaturas de CSP do Azure de um cliente  
 
-**Funções aplicáveis**
+**Funções apropriadas**
 
 - Administrador global
 - Agente administrativo
@@ -29,17 +29,17 @@ Na condição de um parceiro CSP, muitas vezes os clientes esperam que você ger
 
 Há dois níveis de privilégios de administrador para o Azure no CSP.
 
-**Privilégios de administrador de nível de locatário** (**privilégios de administrador delegado**) – os parceiros CSP obtêm esses privilégios ao estabelecerem o relacionamento de revendedor CSP com os clientes. Os privilégios de administrador delegado fornecem aos parceiros CSP acesso aos locatários dos clientes deles, o que permite que eles executem funções administrativas, tais como adicionar/gerenciar usuários, redefinir senhas e gerenciar licenças de usuário.
+**Privilégios de administrador de nível de locatário** (**privilégios de administrador delegado**) – os parceiros CSP obtêm esses privilégios ao estabelecerem o relacionamento de revendedor CSP com os clientes. Os privilégios de administrador delegado oferecem aos parceiros CSP acesso aos locatários dos clientes deles, para que eles possam realizar funções administrativas, como adicionar/gerenciar usuários, redefinir senhas e gerenciar licenças de usuário.
 
 **Privilégios de administrador de nível de assinatura** – os parceiros CSP obtêm esses privilégios ao criar assinaturas do Azure CSP para os clientes deles. A posse desses privilégios fornece aos parceiros do CSP acesso completo a essas assinaturas, o que lhes permite provisionar e gerenciar recursos do Azure.
 
 ## <a name="reinstate-csp-partners-admin-privileges"></a>Restabelecer privilégios de administrador dos parceiros CSP
 
-O cliente é capaz de recriar a atribuição da função CSP, contanto que você forneça a ele a ID de objeto do grupo AdminAgents. Para restabelecer os privilégios de administrador delegado, você precisa trabalhar com o cliente.
+O cliente pode recriar a atribuição de função do CSP desde que você forneça a ele a ID de objeto do grupo AdminAgents. Para restabelecer os privilégios de administrador delegado, você precisa trabalhar com o cliente.
 
 1. Entre no Painel do Partner Center e, no menu do Partner Center, selecione **Clientes**.
 
-2. Selecione o cliente com o qual você está trabalhando e **solicite um relacionamento de revendedor.** Isso gera um link para o cliente que tem direitos de administrador de locatários.
+2. Selecione o cliente com o qual você está trabalhando e **solicite um relacionamento de revendedor.** Essa ação gera um link para o cliente que tem direitos de administrador de locatários.
 
 3. O cliente precisa selecionar o link e aprovar a solicitação de relacionamento do revendedor.
 
@@ -79,7 +79,7 @@ O cliente é capaz de recriar a atribuição da função CSP, contanto que você
     ```
 
 
-Se o desejo for conceder permissões de função de proprietário no nível do grupo de recursos ou no nível do recurso em vez do escopo da assinatura, os seguintes comandos poderão funcionar:
+Se você quer conceder permissões de função de proprietário no nível do grupo de recursos ou no nível do recurso, e não no escopo da assinatura, use os seguintes comandos:
 
 
 ```powershell
