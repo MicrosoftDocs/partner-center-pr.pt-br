@@ -404,10 +404,10 @@
     "source_path": "partner-center/moving-from-pac-to-pc.md",
     "redirect_url": "/partner-center/index",
     "redirect_document_id": "False"
-  }, 
+  },  
   {
-    "source_path": "partner-center/o365-partner-admin-center-to-partner-center.md",
-    "redirect_url": "/partner-center/index",
+    "source_path": "partner-center/test-drive-new-features.md",
+    "redirect_url": "/partner-center/partner-center-account-setup",
     "redirect_document_id": "False"
   }
 ]
