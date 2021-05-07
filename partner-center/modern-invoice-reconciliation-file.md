@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ff320124230ec8e0b3505b1c1dbbb7c811cb67f
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 559b5334eb23ad76fe8cc51fc1beeaa3a86c6fa1
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120708"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702783"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Campos de arquivo de reconciliação de compra única do CSP
 
@@ -33,12 +33,12 @@ Para obter mais informações sobre arquivos de reconciliação, consulte [usar 
 | CustomerId | Identificador exclusivo da Microsoft para o cliente no formato GUID. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
 | CustomerName | Nome da organização do cliente, conforme relatado na Central de parceiros. Essa coluna é importante para reconciliar a fatura com as informações do sistema. | *Johnny de cust DE2 moderno* |
 | CustomerDomainName | Nome de domínio do cliente. | *testcustomerdomain.onmicrosoft.com* |
-| CustomerCountry | O país onde o cliente está localizado. Consulte a [lista completa de países](./regional-authorization-overview.md) para sua região.  | *DEPRECIA* |
+| CustomerCountry | O país onde o cliente está localizado. Consulte a [lista completa de países](./regional-authorization-overview.md) para sua região.  | *DE* |
 | Número da Fatura | O número da nota fiscal associado ao arquivo de reconciliação.  | *G002297372* |
 | MpnId | Identificador de MPN do parceiro CSP. Para obter mais informações, consulte [como discriminar por parceiro](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *6034453* |
 | ResellerMpnId | Identificador MPN do revendedor do registro para a assinatura. | *6048879* |
 | OrderId | Identificador exclusivo para um pedido na plataforma de cobrança do Microsoft. Pode ser útil identificar a ordem ao contatar o suporte. Não usado para reconciliação. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
-| OrderDate | Data em que o pedido foi colocado. | *10/3/2020* |
+| OrderDate | Data em UTC em que a ordem foi colocada. | *10/3/2020* |
 | ProductId | O identificador exclusivo do produto. | *DZH318Z0BNZ5* |
 | SkuId | O identificador exclusivo do SKU. | *006G* |
 | AvailabilityId | O identificador exclusivo de disponibilidade. | *DZH318Z08B80* |

@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 12afa751d2e7cb6b6ef0cd7308f09746a8a43b52
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: f0abfdfd2fbb242f7cdbe0ded04d387ea712cce5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284495"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702715"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Transferir as assinaturas do plano do Azure de um cliente para um parceiro diferente
 
@@ -130,6 +130,7 @@ Examine e aceite o formulário de solicitação de transferência do centro de p
 >Para provedores indiretos: Informe seu revendedor indireto de que a solicitação de transferência foi aceita.
 
 ### <a name="managing-your-transferred-customer-subscriptions"></a>Gerenciando suas assinaturas de cliente transferidas
+
 - O acesso a usuários, grupos ou entidades de serviço existentes que foram atribuídos usando o RBAC (controle de acesso baseado em função) do Azure não é afetado durante a transição. O Azure [RBAC (](/azure/role-based-access-control/overview) controle de acesso baseado em função) ajuda seu cliente a gerenciar quem tem acesso aos recursos do Azure, o que eles podem fazer com esses recursos e em quais áreas eles têm acesso. Como o novo parceiro, você não recebe nenhum acesso de RBAC aos recursos do cliente após a transferência da assinatura. O parceiro anterior do seu cliente retém o acesso do RBAC. Trabalhe com seu cliente para entender quem tem informações sobre suas assinaturas e como fazer as alterações desejadas.
 
 - Consequentemente, é importante que o cliente remova o acesso RBAC do Azure para seu parceiro anterior e adicione acesso para o novo parceiro. Para obter mais informações sobre o cliente que oferece acesso novo, consulte [o que é o Azure RBAC (controle de acesso baseado em função)?](/azure/role-based-access-control/overview) Para obter mais informações sobre o cliente que remove o acesso RBAC do parceiro anterior, consulte [remover uma atribuição de função](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment).

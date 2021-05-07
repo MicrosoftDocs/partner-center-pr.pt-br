@@ -8,20 +8,27 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/27/2021
-ms.openlocfilehash: b6b16a8453d9e93e2600c53bedcef7dc29c14e16
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.date: 05/05/2021
+ms.openlocfilehash: 1aad6d1384e7043f13ad5f023d06f5e7fa1301e5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328025"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702766"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
 Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos essas informações com frequência, portanto, visite a página regularmente!
 
-|**Categoria**|**Comunicados de abril de 2021**|**Comunicado**|
+|**Categoria**|**Comunicados de maio de 2021**|**Comunicado**|
 |---------|:---------|:---------|
+|Funcionalidades|[Atualização: o lançamento do produto Agendador foi adiado](2021-may.md#6)|5 de maio|
+|Funcionalidades|[Software com CSP perpétua em breve na China](2021-may.md#5)|5 de maio|
+|Funcionalidades|[Lembrete: preterimento da qualificação GET em 6 de maio de 2021](2021-may.md#4)|4 de maio|
+|Ofertas/mercados|[Correções em 1 de maio de 2021 lista de preços de serviços baseados em Licença](2021-may.md#3)|4 de maio|
+|Funcionalidades|[Anúncio da qualificação de Entidade de Propriedade do Estado](2021-may.md#2)|4 de maio|
+| Ofertas/Aplicativos de Negócios|[Ver lançamentos e ofertas do produto neste mês](2021-may.md#1)|3 de maio|
+|**Categoria**|**Comunicados de abril de 2021**|**Comunicado**|
 |Preparação|[API de validação de endereço de cliente do CSP atualizada será ativada em junho; funcionalidade de teste agora disponível](2021-april.md#10)|30 de abril|
 |Funcionalidades|[Novo local para a documentação do Swagger da API do Partner Center](2021-april.md#9)|26 de abril|
 |Funcionalidades|[Aviso de expiração do link de download e política do período de devolução do software do CSP (Provedor de Soluções na Nuvem)](2021-april.md#8)|21 de abril|

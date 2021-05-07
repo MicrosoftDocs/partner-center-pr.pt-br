@@ -6,13 +6,13 @@ ms.subservice: partnercenter-incentives
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 03/05/2021
-ms.openlocfilehash: 00cb707dd6d94cc6cbae889e2db1a700d246e2ed
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.date: 05/06/2021
+ms.openlocfilehash: 74d62a794d95cbf7a5170ddbcfe474cc61fbf9b3
+ms.sourcegitcommit: 5780fab794d7a48c64ce27eeabd7a39d56706e9c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087035"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "109240509"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Perguntas comuns sobre pagamentos e impostos
 
@@ -50,26 +50,26 @@ Depende das necessidades da sua organização. Os perfis de pagamento são criad
 
 No entanto, pode haver exceções ao aplicar seu perfil bancário a diferentes países ou regiões, já que as regras fiscais ou de banco local podem ser aplicadas.
 
-Os perfis de impostos criados para um local MPN são reutilizados e preenchidos automaticamente quando o mesmo local MPN participa de outro programa. Mas pode haver exceções. Por exemplo, as regras de pagamento de um novo programa de incentivo podem exigir detalhes adicionais para o perfil fiscal.
+Os perfis de imposto criados para um local do MPN são reutilizados e preenchidos automaticamente quando o mesmo local do MPN participa de outro programa. Mas pode haver exceções. Por exemplo, as regras de pagamento de um novo programa de incentivo podem exigir detalhes adicionais para o perfil fiscal.
 
-#### <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>Posso usar o mesmo banco e detalhes de impostos para todos os programas de incentivos na Microsoft?
+#### <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>Posso usar os mesmos detalhes bancários e fiscais para todos os programas de incentivo na Microsoft?
 
-Se sua empresa for convidada para vários programas, você poderá usar a mesma conta de pagamento para todos os seus programas ou pode optar por ter diferentes contas de pagamento para os diferentes programas.
+Se sua empresa for convidada para vários programas, você poderá usar a mesma conta de pagamento para todos os seus programas ou pode optar por ter contas de pagamento diferentes para os diferentes programas.
 
 
-#### <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Como a Microsoft garante que as informações bancárias sejam realmente a da empresa, e não uma conta bancária pessoal para um funcionário?
+#### <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Como a Microsoft garante que as informações bancárias realmente são as da empresa e não uma conta bancária pessoal para um funcionário?
 
-É responsabilidade da empresa garantir que a função do administrador de incentivos, que tem as permissões para editar essas informações, só é fornecida aos funcionários apropriados.
+É responsabilidade da empresa garantir que a função de administrador de incentivos , que tenha as permissões para editar essas informações, seja concedida apenas aos funcionários apropriados.
 
-#### <a name="my-tax-profile-has-expired-how-do-i-fix-update-it"></a>Meu perfil de imposto expirou. Como fazer corrigir a atualização?
+#### <a name="my-tax-profile-has-expired-how-do-i-fix-update-it"></a>Meu perfil de imposto expirou. Como fazer correção atualize-o?
 
-Se um perfil de imposto expirar ou estiver prestes a expirar, significa que o formulário de imposto que você forneceu à Microsoft precisa ser atualizado. Use as etapas a seguir para atualizar seu perfil de imposto:
+Se um perfil de imposto tiver expirado ou estiver prestes a expirar, isso significa que o formulário de imposto que você forneceu à Microsoft precisa ser atualizado. Use as seguintes etapas para atualizar seu perfil de imposto:
 
-1. Entre no [painel](https://partner.microsoft.com/dashboard/home)do Partner Center e selecione o ícone de engrenagem para abrir o menu **configurações** .
-2. Selecione **configurações de conta**, expanda a seção **pagamento e imposto** e selecione **pagamento e** perfil de imposto.
-3. Selecionar perfil de **imposto**
-4. Verifique a **data de expiração** da coluna e navegue até o perfil de imposto expirado ou prestes a expirar.
-5. Selecione **Editar** para iniciar o processo de edição do perfil de imposto.
+1. Entre no painel Partner Center [e](https://partner.microsoft.com/dashboard/home)selecione o ícone de engrenagem para abrir o menu **Configurações.**
+2. Selecione **Configurações da conta**, expanda a **seção** Pagamento e imposto e, em seguida, selecione Perfil de **pagamento e** imposto.
+3. Selecione **Perfil de** imposto
+4. Verifique a coluna **Data de Validade** e navegue até o perfil fiscal que expirou ou está prestes a expirar.
+5. Selecione **Editar para** iniciar o processo de edição do perfil fiscal.
 6. Na seção formulário de imposto, forneça os detalhes atualizados.
 
 ## <a name="earnings-incorrect-or-missing"></a>Ganhos incorretos ou ausentes
@@ -78,25 +78,27 @@ Se um perfil de imposto expirar ou estiver prestes a expirar, significa que o fo
 
 - Talvez a ordem do cliente ainda não esteja qualificada para pagamento. Para pedidos de clientes não empresariais, a Microsoft deve receber o pagamento do cliente antes que os ganhos do editor se tornem qualificados. Para pedidos de clientes empresariais, os ganhos estarão disponíveis de um a dois dias após a data da ordem de compra. Verifique o status da ordem nos [Relatórios de ordens](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order).
 - Talvez os ganhos de transações anteriores a julho de 2019 não sejam mostrados no relatório de histórico de transações. Verifique os demonstrativos históricos em [Download de pagamentos](https://partner.microsoft.com/dashboard/payouts/reports/incentiveexport).
-- Verifique o período [do ciclo de pagamento](payment-thresholds-methods-timeframes.md) e entenda quando seus ganhos devem aparecer na instrução pagamento.
+- Verifique o [período do ciclo de pagamento e](payment-thresholds-methods-timeframes.md) entenda quando seus ganhos devem aparecer na instrução de pagamento.
 
-#### <a name="why-is-my-earnings-amount-different-than-what-i-expected"></a>Por que o valor dos meus ganhos é diferente do esperado?
+#### <a name="why-is-my-earnings-amount-different-than-what-i-expected"></a>Por que meu valor de ganho é diferente do que eu esperava?
 
-- Se o pedido foi parcialmente pago por seu cliente, seu valor de conquista será baseado no valor parcialmente pago após a dedução da taxa e do imposto apropriado.
+- Se o pedido foi parcialmente pago pelo cliente, o valor do ganho será baseado no valor parcialmente pago após a dedução do valor e do imposto apropriado.
 - Verifique a responsabilidade de remessa de imposto por país. Em países em que o imposto é responsável pela Microsoft, a Microsoft coleta e deduz o imposto dos ganhos do Publicador. O valor da transação mostrado no demonstrativo é posterior ao valor do imposto. Confira [Detalhes do imposto](tax-details-marketplace.md).
-- As ofertas de SaaS e IaaS têm uma tarifa de agência com desconto em 10% em vez do padrão de 20%, deixando uma taxa de ganhos de 90%. Essa promoção estará em vigor até 30 de junho de 2021.
+- As ofertas de SaaS e IaaS têm uma tarifa de agência com desconto em 10% em vez do padrão de 20%, deixando uma taxa de ganhos de 90%. Esse é um requisito de Co-Sell de IP. Essa promoção estará em vigor até 30 de junho de 2021. 
 
 **Leitura adicional**: [contrato de editor do Marketplace comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), [detalhes da política de pagamento](payout-policy-details.md), [limite de pagamento, método e intervalo de tempo](payment-thresholds-methods-timeframes.md), [como receber pagamentos](marketplace-get-paid.md), [detalhes do imposto](tax-details-marketplace.md), instruções do [pagamento](payout-statement.md)
 
 ## <a name="earnings-reconciliation"></a>Reconciliação de ganhos
 
 ### <a name="how-do-i-reconcile-payout-statements-to-order-or-usage-reports-in-analytics"></a>Como reconciliar as instruções de pagamento para relatórios de pedidos ou de uso no Analytics?
+
 Use AssetID, orderID e ID de item de linha aparecendo no relatório de histórico de transações de pagamento com ordens analíticas e relatórios de uso. Use este mapeamento:
 
 - Payout Transaction History.AssetID = order.OrderID
 - Payout Transaction History.OrderID & LineItem = Usage.UsageReferenceID [OrderID:LineItemID]
 
 ### <a name="how-do-i-know-when-to-expect-payments-for-my-customer-orders"></a>Como saber quando esperar pagamentos para meus pedidos de clientes?
+
 - Primeiro, usando seu AssetID, marque pedidos de clientes em [relatórios de pedidos](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order).
 - Verifique o canal de cliente para sua assinatura de cliente no [relatório de clientes](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/customer).
 - Para clientes corporativos, os ganhos do editor aparecem na instrução 1-2 dias após a data da ordem de compra.
@@ -142,44 +144,44 @@ Acesse a página [Perfil](https://partner.microsoft.com/dashboard/payee/profiles
 #### <a name="how-do-i-find-withholding-tax-for-a-transaction"></a>Como localizar a retenção de imposto de uma transação?
 A retenção de imposto é aplicável a editores norte-americanos que preencheram o formulário W-9. A retenção de imposto é calculada com base no pagamento mensal.
 
-**Leitura adicional**: [contrato de editor do Marketplace comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), [detalhes da política de pagamento](payout-policy-details.md)
+**Leitura posterior:** Contrato [do Editor do Marketplace Comercial,](https://go.microsoft.com/fwlink/p/?LinkID=699560)Detalhes da política de [pagamento](payout-policy-details.md)
 
 ## <a name="payout-statement-access"></a>Acesso à instrução de pagamento
 
 #### <a name="how-do-i-access-a-payout-statement"></a>Como acesso uma instrução de pagamento?
 
 1. Verifique suas funções. Você deve ter a função de *colaborador financeiro* ou *proprietário da conta* para acessar a instrução pagamento.
-2. Na barra de navegação superior direita, selecione o ícone de **pagamento** para exibir sua instrução de pagamento. Escolha entre o **histórico de transações**, o **pagamento** e o **Download**.
+2. No painel de navegação superior direito, selecione o **ícone Pagamento** para exibir sua instrução de pagamento. Escolha entre **Histórico de Transações,** **Pagamento** e **Baixar**.
 
-**Leitura adicional**: [funções de pagamento e permissões](payout-statement.md#roles-and-permissions), [instruções de pagamento](payout-statement.md) 
+**Leitura posterior:** [funções e permissões de pagamento,](payout-statement.md#roles-and-permissions)instruções de [pagamento](payout-statement.md) 
 
-## <a name="payout-statement-report"></a>Relatório de demonstrativo de pagamento
+## <a name="payout-statement-report"></a>Relatório de instrução de pagamento
 
 #### <a name="what-does-each-field-in-the-transaction-download-mean"></a>O que significa cada campo no download da transação?
 
-Consulte as [instruções de pagamento](payout-statement.md) para obter uma lista detalhada dos atributos e seus significados.
+Consulte [Instruções de pagamento](payout-statement.md) para ver uma lista detalhada dos atributos e seus significados.
 
 #### <a name="what-is-earning-status"></a>Qual é o status do ganho?
 
 Isso mostra seus ganhos como não processados, processados ou enviados.
 
-- Não **processado** – os ganhos estão em um período de caução até a data de vencimento.
-- **Processado** – os ganhos foram amadurecedos e estão preparados para um pagamento mensal. Os pagamentos são lançados por 15 a cada mês.
+- **Não processada** – os ganhos estão em um período de crescimento até a data de vencimento.
+- **Processado** – os ganhos amadureceram e estão preparados para um pagamento mensal. Os pagamentos são liberados até o dia 15 de cada mês.
 - **Enviado** – o pagamento foi liberado com êxito para seu banco com base em seu perfil de pagamento.
 
 #### <a name="how-do-i-download-service-fee-tax-forms"></a>Como baixar os formulários de Encargos Fiscais?
 
 Acesse a página **Pagamento**, em seguida, a seção **Lista de pagamento**. Um link para o formulário de Encargos Fiscais é exibido para um pagamento que tem os Encargos Fiscais.
 
-#### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Como fazer baixar um formulário de imposto sobre retenção em PDF?
+#### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Como fazer baixar um formulário de imposto retido na fonte em PDF?
 
-Acesse a página **Pagamento**, em seguida, a seção **Lista de pagamento**. Um link para um formulário de retenção de imposto é exibido ao lado de um pagamento. Um formulário de imposto retido na fonte se aplica apenas aos programas de incentivos selecionados, não a um pagamento de mercado comercial.
+Acesse a página **Pagamento**, em seguida, a seção **Lista de pagamento**. Um link para um formulário de retenção de imposto é exibido ao lado de um pagamento. Um formulário de imposto retido na fonte se aplica somente a programas de incentivo selecionados, não a um pagamento do marketplace comercial.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Onde posso encontrar os formulários de imposto de fim de ano?
 
 Acesse a página [Perfil](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) para exibir seus formulários de imposto de fim de ano.
 
-**Leitura adicional**: [instruções de pagamento](payout-statement.md), [download de histórico de transações](payout-statement.md#transaction-history-download)
+**Leitura posterior:** [instruções de pagamento,](payout-statement.md)download [do histórico de transações](payout-statement.md#transaction-history-download)
 
 ## <a name="historical-statements"></a>Demonstrativo do histórico
 
@@ -187,7 +189,7 @@ Acesse a página [Perfil](https://partner.microsoft.com/dashboard/payee/profiles
 
 O demonstrativo histórico mostrará o instantâneo dos dados de pagamento a partir de outubro de 2019. Infelizmente, as informações de pagamento aqui não são atualizadas. Para receber as informações mais recentes, envie um tíquete de suporte para os dados mais recentes.
 
-**Leitura adicional**: [instruções de pagamento](payout-statement.md), [download de histórico de transações](payout-statement.md#transaction-history-download)
+**Leitura posterior:** [instruções de pagamento,](payout-statement.md)download [do histórico de transações](payout-statement.md#transaction-history-download)
 
 ## <a name="payout-export-api"></a>API de exportação de pagamento
 

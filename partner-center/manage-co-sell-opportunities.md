@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ab3d1ab3f29e01303a9a039b9e9b21b9cfad07f
-ms.sourcegitcommit: 2c8d1bca0737a3d73f2888dfeaf099176bf9e9ae
+ms.openlocfilehash: 4e0f8834523770e5780395e685ca4ef45f5d2535
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "99480061"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702919"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Gerenciar oportunidades de venda conjunta no Partner Center
 
@@ -175,11 +175,13 @@ Abaixo está a tabela que mostra os estágios de vendas e as porcentagens corres
 
 Quando tiver terminado, você poderá executar uma das duas ações, que estão marcando o negócio como **ganho** ou **perdido** para relatar o resultado.
 
+Não é necessário que sua empresa siga os mesmos estágios de vendas. É assim que o Partner Center reconhece os estágios de vendas de negociações e mapeará automaticamente os estágios da sua empresa para esses estágios padrão, se você estiver passando esses valores usando a API. Se você estiver usando o UX do Partner Center, as porcentagens, conforme mostrado na tabela, serão usadas para marcar os estágios de vendas.
+
 > [!Note]
-> Não é necessário que sua empresa siga os mesmos estágios de vendas. É assim que o Partner Center reconhece os estágios de vendas de negociações e mapeará automaticamente os estágios da sua empresa para esses estágios padrão, se você estiver passando esses valores usando a API. Se você estiver usando o UX do Partner Center, as porcentagens, conforme mostrado na tabela, serão usadas para marcar os estágios de vendas.
+> Para determinadas soluções qualificadas, depois de selecionar ganha, você será solicitado a fornecer informações adicionais para registrar seu negócio. A Microsoft revisará as informações que você fornecer aqui e poderá solicitar detalhes adicionais durante o processo de revisão. Para obter mais informações, confira [Registrar suas negociações](register-deals.md).
 
 > [!Important]
-> Para determinadas soluções qualificadas, depois de selecionar ganha, você será solicitado a fornecer informações adicionais para registrar seu negócio. A Microsoft revisará as informações que você fornecer aqui e poderá solicitar detalhes adicionais durante o processo de revisão. Para obter mais informações, confira [Registrar suas negociações](register-deals.md).
+> Se o negócio estiver qualificado para o registro de negociações, verifique se há uma lacuna de 72 horas entre a criação do negócio e o negócio sendo marcado como ganho. Fechar o negócio como ganha antes disso pode resultar em registros de negociação sendo rejeitados.
 
 Um negócio será elegível para o registro de negociações somente se atender a todos os critérios abaixo.
 
