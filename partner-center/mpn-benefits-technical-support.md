@@ -1,20 +1,20 @@
 ---
-title: Benefícios do MPN – incidentes de suporte técnico
+title: Benefícios do MPN – Incidentes de suporte técnico
 ms.topic: article
 ms.date: 03/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Saiba mais sobre os benefícios de Microsoft Partner Network (MPN) para incidentes de suporte técnico
+description: Saiba mais sobre Microsoft Partner Network (MPN) para incidentes de suporte técnico
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e8f99028fbb26003c0f18a85c5a6d7e416fecd60
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 9aa451a3267cee70282aaad5e018e2f377edb82f
+ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172193"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "109630110"
 ---
 # <a name="technical-support-benefits"></a>Benefícios do suporte técnico
 
@@ -26,40 +26,40 @@ ms.locfileid: "108172193"
 
 ## <a name="overview"></a>Visão geral
 
-Este artigo é para membros de MPN (parceiros de Microsoft Partner Network) que precisam saber como um incidente de suporte técnico pode ser criado usando os benefícios do parceiro MPN
+Este artigo é para membros do MPN (parceiros Microsoft Partner Network) que precisam saber como um incidente de suporte técnico pode ser criado usando os benefícios do parceiro MPN
 
 ## <a name="view-and-activate-your-technical-support-benefits"></a>Exibir e ativar seus benefícios de suporte técnico 
 
-Para exibir e ativar seus benefícios técnicos no Partner Center:
+Para exibir e ativar seus benefícios técnicos Partner Center:
 
 1. Entre com sua conta associada ao MPN no [painel](https://partner.microsoft.com/dashboard)do Partner Center. 
     > [!NOTE]
-    > Se sua conta estiver associada somente ao CSP e não estiver associada a MPN, você verá uma mensagem de erro "você não está autorizado para esta ação". Você precisa ter uma conta associada ao MPN.
+    > Se sua conta estiver associada apenas ao CSP e não estiver associada ao MPN, você verá uma mensagem de erro "Você não está autorizado para essa ação". Você precisa ter uma conta associada ao MPN.
 
 2. Expanda Benefícios no menu de navegação à esquerda e selecione **Benefícios técnicos**. A página de benefícios técnicos será exibida com uma lista de benefícios de suporte técnico disponíveis para as ofertas de associação Gold, Silver ou Microsoft Action Pack. 
 
     > [!NOTE]
-    >Se você não tiver ofertas de associação ativas, verá que a mensagem "parece que você ainda não tem nenhum benefício". Se sua empresa tiver ofertas de associação ativas, mas você não conseguir vê-las, talvez você tenha entrado usando a conta errada. Para verificar sua conta, selecione o ícone de **conta** no canto superior direito da página e selecione **entrar com outra conta** (se necessário).
+    >Se você não tiver nenhuma oferta de associação ativa, verá a mensagem "Parece que você ainda não tem nenhum benefício". Se sua empresa tiver ofertas de associação ativas, mas você não conseguir vê-las, talvez você tenha entrado usando a conta errada. Para verificar sua conta, selecione **o** ícone Conta no canto superior direito da página e selecione Entrar **com outra conta** (se necessário).
 
-3. Para começar a usar um suporte a produtos da Microsoft ou assinatura, você precisará ativar o benefício. A ID de acesso e a ID do contrato serão exibidas após a ativação bem-sucedida. 
+3. Para começar a usar um Suporte a Produtos da Microsoft ou Suporte ao Produto de Assinatura, você precisa ativar o benefício. A ID de acesso e a ID do contrato serão exibidas após a ativação bem-sucedida. 
 
-    -   Para ativar o benefício, selecione o botão Ativar. A conta de usuário usada para ativação requer as funções de administrador global administrador ou MPN Partner. Aguarde alguns dias para processar sua solicitação de ativação. 
+    -   Para ativar o benefício, selecione o botão Ativar. A conta de usuário usada para a ativação requer as funções de Administrador Global ou Administrador de Parceiro do MPN. Aguarde alguns dias para processar sua solicitação de ativação. 
 
-    - Você pode usar o suporte a produtos da Microsoft e assinaturas (Membros dourados e prata) quando a ID de acesso e a ID do contrato são exibidas. 
+    - Você pode usar o Suporte a Produtos da Microsoft e o Suporte ao Produto de Assinatura (membros Gold e Silver) quando a ID de Acesso e a ID do Contrato são exibidas. 
 
- 4. Você precisará da ID de acesso e da ID do contrato na primeira vez que usar o suporte a produtos da Microsoft ou o suporte a produtos de assinatura.  
+ 4. Você precisará da ID de Acesso e da ID do Contrato na primeira vez que usar o Suporte a Produtos da Microsoft ou o Suporte ao Produto de Assinatura.  
 
 ## <a name="technical-support-entitlement-and-supported-products"></a>Direitos de suporte técnico e produtos com suporte
 
-O suporte técnico fornece solução de problemas para um problema específico, uma mensagem de erro ou uma funcionalidade que não está funcionando conforme o esperado.
+O suporte técnico fornece solução de problemas para um problema específico, mensagem de erro ou funcionalidade que não está funcionando conforme o esperado.
 
 > [!NOTE]
-> Os benefícios do suporte técnico devem ser ativados antes que você possa usá-los. 
+> Seus benefícios de suporte técnico devem ser ativados antes que você possa usá-los. 
 
-Como parte da Associação de Microsoft Partner Network, os parceiros estão qualificados para o seguinte suporte técnico
+Como parte da associação Microsoft Partner Network, os parceiros estão qualificados para o suporte técnico a seguir
 
 
-| Suporte técnico |  Action Pack | Competência prateada | Competência Gold |
+| Suporte técnico |  Action Pack | Competência prata | Competência Gold |
 |:---:|:---:|:---:|:---:|
 | Suporte a produtos da Microsoft<br>Para o recente local <br>somente produtos | 10 incidentes | 15 incidentes  | 20 incidentes |
 | Suporte à assinatura na nuvem<br>Somente para produtos de nuvem |  | Competências de nuvem:<br>Ilimitado<br><br>Outras competências:<br>5 incidentes  | Competências de nuvem:<br>Ilimitado<br>          <br>Outras competências:<br>10 incidentes  |
@@ -72,26 +72,26 @@ Você pode usar  **o suporte a produtos da Microsoft** para obter suporte técni
 
 Você precisará da ID de acesso e da ID do contrato na primeira vez que usar o benefício. Os benefícios estão associados à sua conta de usuário até que elas expirem ou não há mais incidentes de suporte restantes.
 
-Qualquer conta de usuário (AAD ou MSA) pode usar o suporte técnico para produtos locais se eles tiverem a ID de acesso e a ID do contrato
+Qualquer conta de usuário (AAD ou MSA) poderá usar o suporte técnico para produtos locais se eles têm a ID de acesso e a ID do contrato
 
-Selecione [suporte para negócios](https://support.serviceshub.microsoft.com/supportforbusiness/create) para criar uma solicitação de suporte para um produto local.
+Selecione [Suporte para Empresas](https://support.serviceshub.microsoft.com/supportforbusiness/create) para criar uma solicitação de suporte para um produto local.
 
-## <a name="how-many-partner-support-incidents-are-remaining"></a>Quantos incidentes de suporte do parceiro estão restantes
-Você só pode obter essas informações do suporte para o portal de suporte local de negócios. Infelizmente, os portais de nuvem, por exemplo, o Azure, o LCS, etc não mostram essas informações.
+## <a name="how-many-partner-support-incidents-are-remaining"></a>Quantos incidentes de suporte ao parceiro ainda existem
+Você só pode obter essas informações no portal de suporte local do Suporte para Empresas. Infelizmente, os portais de nuvem, por exemplo, Azure, LCS etc. não mostram essas informações.
 
-Você precisa usar o suporte para negócios e iniciar o processo para criar um incidente de suporte local. Não criamos uma solicitação de suporte porque não concluímos o processo. As informações de que precisamos são exibidas na etapa 2.
+Você precisa usar o Suporte para Empresas e iniciar o processo para criar um incidente de suporte local. Não criamos uma solicitação de suporte porque não concluimos o processo. As informações necessárias são exibidas na Etapa 2.
 
-Etapa 1 selecione Windows 10 e insira informações fictícias
+Etapa 1 Abra [o Suporte para Empresas,](https://support.serviceshub.microsoft.com/supportforbusiness/create) selecione Windows 10 e insira informações fi fiícias
 
-Etapa 2 Adicione o contrato de suporte usando a ID de acesso e a ID do contrato. Para obter suporte local, você pode ver o contrato de suporte do parceiro exibido e isso inclui a data de início, a data de término e os incidentes restantes. Expanda "você gostaria de ver os planos de suporte não disponíveis?" para ver as informações de assinatura do parceiro. Você só verá o suporte de parceiro exibido aqui se os contratos tiverem expirado, você não tiver nenhum incidente restante ou tiver selecionado um produto local antigo (consulte [aka.ms/n-1](https://aka.ms/n-1) para produtos de suporte)
+Etapa 2 Se o contrato de suporte já estiver associado à sua conta, você deverá ver incidentes de suporte exibidos. Para suporte local, você deve ver o contrato de Suporte do Parceiro exibido (a menos que ele não seja mais válido) e isso inclui a data de início, a data de término e os incidentes restantes. Se você precisar associar seu contrato de suporte, expanda "Você precisa comprar ou adicionar mais planos de suporte" e clique no botão Adicionar Contrato para inserir sua ID de Acesso e ID do Contrato. Expanda "Você gostaria de ver planos de suporte indisponíveis?" para ver as informações de Assinatura do Parceiro. Você só verá o Suporte ao Parceiro exibido aqui se os contratos expiraram, se não tiver [](https://aka.ms/n-1) nenhum incidente restante ou se tiver selecionado um produto local antigo (consulte aka.ms/n-1 para produtos de suporte)
 
-**Para obter informações mais detalhadas, consulte quantos [incidentes de suporte do parceiro estão restantes?](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3)** 
+**Para obter informações mais detalhadas, [consulte Quantos incidentes de suporte do parceiro ainda existem?](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3)** 
 
-## <a name="signature-cloud-support-cloud-only"></a>Suporte à assinatura na nuvem (somente na nuvem)
+## <a name="signature-cloud-support-cloud-only"></a>Suporte à Assinatura na Nuvem (somente nuvem)
 
-Os parceiros de competência Gold ou Silver podem usar o **suporte à nuvem de assinatura** para suporte técnico em produtos de nuvem. 
+Os parceiros de competência Gold ou Silver podem usar **Suporte à Assinatura na Nuvem** suporte técnico em produtos de nuvem. 
 
-Você precisará da ID de acesso e da ID do contrato na primeira vez que usar o benefício. Os benefícios estão associados à sua conta de usuário até que elas expirem ou não há mais incidentes de suporte restantes.
+Você precisará da ID de Acesso e da ID do Contrato na primeira vez que usar o benefício. Os benefícios são associados à sua conta de usuário até que eles expirem ou não haja mais incidentes de suporte restantes.
 
 Os parceiros CSP que criam solicitações do Azure podem usar o plano de suporte "provedor de soluções de nuvem" sem adicionar um contrato de suporte.
 
@@ -109,9 +109,9 @@ Você verá o "ID de acesso já associado..." acima erro se você associar um co
 
 1. Se você tiver benefícios técnicos dourados ou prata e tiver adicionado anteriormente o contrato para o suporte local, use o portal do Azure e adicione o contrato uma segunda vez à mesma conta. Você só precisa associar o contrato de suporte a uma conta e, portanto, não precisa vincular os benefícios de suporte no Azure. Se você usar os benefícios de suporte de link quando o contrato já estiver associado à conta, você verá o erro e ele deverá ser ignorado. Use + novo Solicitação de suporte e crie um incidente de suporte como normal e o plano de suporte será exibido.
 
-2. Se o contrato de suporte tiver expirado ou a assinatura 10pack (competência híbrida Gold) ou a assinatura 5pack (competência híbrida prateada) não tiver nenhum incidente restante, o contrato de suporte será ocultado porque é inválido. Se você vincular os benefícios de suporte novamente, verá o erro porque o contrato já está associado. Você precisa comprar um novo plano de suporte para obter os incidentes de suporte do Azure. 
+2. Se o contrato de suporte tiver expirado ou a Assinatura 10pack (competência híbrida Gold) ou a Assinatura 5pack (competência híbrida Prata) não tiver nenhum incidente restante, o contrato de suporte ficará oculto porque ele é inválido. Se você Vincular benefícios de suporte novamente, verá o erro porque o contrato já está associado. Você precisa comprar um novo plano de suporte para obter incidentes de suporte do Azure. 
 
-Consulte os planos de suporte do parceiro abaixo para obter ofertas de suporte pago pelo parceiro
+Consulte Planos de suporte do parceiro abaixo para ofertas de suporte pago pelo parceiro
 
 ## <a name="partner-support-plans"></a>Planos de suporte do parceiro
 
@@ -119,11 +119,11 @@ Você pode obter suporte pago da Microsoft que inclui suporte técnico e uma var
 
 Você pode [comparar os planos de suporte do parceiro](https://partner.microsoft.com/support/partnersupport) ou ver abaixo os planos específicos do parceiro:
 
-- [Suporte Premier para parceiros](https://partner.microsoft.com/support/microsoft-services-premier-support) – o nível superior de suporte técnico da Microsoft
-- [Suporte avançado para parceiros](https://partner.microsoft.com/support/advanced-cloud-support) – somente produtos de nuvem
+- [Suporte Premier para Parceiros –](https://partner.microsoft.com/support/microsoft-services-premier-support) o nível superior de suporte técnico da Microsoft
+- [Suporte avançado para parceiros –](https://partner.microsoft.com/support/advanced-cloud-support) somente produtos de nuvem
 
 
 ## <a name="next-steps"></a>Próximas etapas
 
 - [Gerenciar os benefícios e as ofertas do Microsoft Partner Network](manage-your-partner-network-benefits.md)
-- [Ativar os benefícios técnicos para membros do Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)
+- [Ativar benefícios técnicos para membros Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)
