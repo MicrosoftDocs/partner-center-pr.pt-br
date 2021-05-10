@@ -1,7 +1,7 @@
 ---
 title: Inscrever-se no programa Provedor de Soluções na Nuvem
 ms.topic: how-to
-ms.date: 11/29/2020
+ms.date: 04/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como se registrar no modelo de vendas do programa CSP (Provedor de Soluções na Nuvem) mais adequado para os seus negócios, como revendedor indireto ou parceiro de cobrança direta.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8cc74ac7549dd9c58827eac4ca7ff780062cc519
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9307f57c0d356dbbce16de2f1566b4491867c361
+ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441805"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "108213373"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscrever-se no programa Provedor de Soluções na Nuvem
 
@@ -92,6 +92,38 @@ Consulte [Transição do parceiro de fatura direto do CSP (Provedor de Soluçõe
 
 O local da sua empresa determina seu mercado. Seu mercado inclui regiões e/ou países em que você pode vender ofertas de CSP. Confira [Mercados regionais e moedas do programa de Provedor de Soluções na Nuvem](regional-authorization-overview.md) para localizações de mercado e moedas.
 Certifique-se de ler os [Pré-requisitos a fim de adicionar um novo local para negócios do CSP](manage-locations.md).
+
+## <a name="provide-partner-registration-id-number-for-specific-countries"></a>Fornecer o número de ID de registro do parceiro para países específicos
+
+Se você é um provedor indireto, parceiro de cobrança direta ou revendedor indireto e está fazendo negócios com clientes novos ou existentes nos países a seguir, precisa fornecer números de ID de registro para sua empresa. Se o país onde você está fazendo negócios não está listado abaixo, a ID de registro é opcional.
+
+- Armênia 
+- Azerbaijão 
+- Bielorrússia 
+- Brasil 
+- Hungria 
+- Índia 
+- Iraque 
+- Cazaquistão 
+- Quirguistão 
+- Moldova 
+- Myanmar 
+- Polônia 
+- Rússia 
+- Arábia Saudita 
+- África do Sul 
+- Sudão do Sul  
+- Tadjiquistão 
+- Tailândia
+- Turquia 
+- Ucrânia 
+- Emirados Árabes Unidos 
+- Uzbequistão 
+- Venezuela
+- Vietnã 
+
+
+Para saber mais, leia [Informações sobre o número da ID de registro](reg-number-id.md)
 
 ## <a name="next-steps"></a>Próximas etapas
 

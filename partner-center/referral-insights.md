@@ -1,7 +1,7 @@
 ---
 title: Obter insights de indicação
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 04/30/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Revise seus dados de informações de referência regularmente na Central de parceiros para ver tendências para abordar ou melhorar áreas para ajudá-lo a alcançar suas metas de negócios.
@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a8227fecae05d3752d65651dea4cdc62c9ea672
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 5793e865105b59b2772fd6af5187a92115659e1d
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120844"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328076"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenha informações de referência na Central de parceiros e descubra como estão suas referências
 
@@ -27,7 +27,7 @@ A página **Oportunidades de venda conjunta** na seção **Análise** em Indica�
 Para conferir seus dados de insights sobre oportunidades de venda conjunta, acesse **Indicações > Análise > Oportunidades de venda conjunta** no menu do Partner Center.
 
 > [!Important]
-> O filtro Tipo de acordo será pré-aplicado com o tipo **Venda conjunta** selecionado para todos os dados. Remova o filtro se quiser analisar os dados relacionados a acordos privados e liderados pelo parceiro.
+> O filtro de tipo de acordo é pré-aplicado com o tipo **Venda conjunta** selecionado para todos os dados. Remova o filtro se quiser analisar os dados relacionados a acordos privados e liderados pelo parceiro.
 
 ## <a name="apply-filters"></a>Aplicar filtros
 
@@ -76,7 +76,7 @@ Esta seção mostrará os países/as regiões de origem dos acordos, juntamente 
 
 ## <a name="deals-by-solutions"></a>Acordos por soluções
 
-Este gráfico permite conferir quais soluções estão impulsionando a maioria das indicações e o maior volume de acordos. A tabela tem três pilares: venda conjunta, liderado pelo parceiro e privado.
+Este gráfico permite conferir quais soluções estão impulsionando a maioria das indicações e o maior volume de acordos. A tabela tem três pilares: Venda conjunta, Liderado pelo parceiro e Privado.
 Com base na seleção da tabela dinâmica, será possível conferir o desempenho dos acordos agregados por solução.
 
 > [!NOTE]
@@ -94,8 +94,7 @@ Esta seção ajudará você a analisar por que sua empresa está marcando os aco
 
 ## <a name="comparison-charts"></a>Gráficos de comparação
 
-A seção de comparação ajudará você a comparar os dados relacionados às indicações na tabela dinâmica com base em várias dimensões, como no volume e no valor dos acordos conquistados em USD.
-As três dimensões que você pode escolher para comparar os dados são:
+A seção de comparação ajudará você a comparar os dados relacionados às indicações na tabela dinâmica com base em várias dimensões, como no volume e no valor dos acordos conquistados em USD. As três dimensões que você pode escolher para comparar os dados são:
 
 - Tipo de acordo
 - Mercados
@@ -128,3 +127,8 @@ Pode haver vários motivos pelos quais você está obtendo um gráfico em branco
 
 > [!TIP]
 > Para ver como seu perfil de negócios está sendo executado na experiência [Encontrar um provedor de soluções](https://www.microsoft.com/solution-providers/home), confira a [página de insights do perfil de negócios](analyze-your-marketing-profile.md).
+
+## <a name="next-steps"></a>Próximas etapas
+
+- [Expandir seus negócios com as indicações da Microsoft](referrals.md)
+- [Analisar clientes potenciais](analyze-your-marketing-profile.md)
