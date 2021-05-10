@@ -1,53 +1,53 @@
 ---
-title: Solucionar problemas de configuração da conta do Partner Center ou dos problemas de renovação do MPN
+title: Solucionar problemas de configuração de sua Partner Center ou problemas de renovação do MPN
 ms.topic: how-to
 ms.date: 08/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Solucionar problemas ao tentar se registrar no Partner Center. Responde a desafios de endereços com métodos de pagamento, esquecer senhas e muito mais.
+description: Solucionar problemas ao tentar se registrar no Partner Center. As respostas abordam desafios com formas de pagamento, esquecer senhas e muito mais.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d80651c4e5e4afb476dada388f23c118e0bdf25
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: f34adc57e668caecb69af37afc72b5153f667335
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768696"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686255"
 ---
-# <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Solucionar problemas de configuração de conta ou de renovação de MPN
+# <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Solucionar problemas de configuração de conta ou renovação do MPN
 
 
 **Funções apropriadas**
 
 - Administrador global
-- Administrador de parceiros do MPN 
+- Administrador de parceiros do MPN
  
-Aqui estão algumas sugestões para solucionar problemas comuns que surgem ao configurar sua conta do Partner Center.
+Aqui estão algumas sugestões para solucionar problemas comuns que surgem ao configurar sua Partner Center conta.
 
-## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>O que acontece se você estiver migrando do centro de associação de parceiro e não for possível editar os campos de informações da empresa
+## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>O que acontece se você estiver migrando do Partner Membership Center e não puder editar nenhum campo de informações da empresa
 
-Nos casos em que sua empresa já tem uma presença no Partner Center (por exemplo, uma conta CSP), você verá uma tela somente leitura. Esta tela exibirá todas as informações sobre sua empresa, pois elas existem no Partner Center.
+Nos casos em que sua empresa já tem uma presença Partner Center (por exemplo, uma conta CSP) – você receberá uma tela somente leitura. Esta tela exibirá todas as informações sobre sua empresa como ela existe Partner Center.
 
-Você não pode alterar os detalhes nesta tela. Isso é por design e não é um erro.
+Você não pode alterar os detalhes nesta tela. Isso ocorre por design e não por um erro.
 
-Selecione **aceitar** e **continuar** para continuar.
+Selecione **Aceitar** e **Continuar** para continuar.
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Se o departamento de TI tiver desativado a **inscrição no Partner Center**
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Se o departamento de IT tiver desligado **Inscrever-se para Partner Center**
 
-Você vê essa mensagem porque os usuários viral estão desabilitados ou porque a inscrição viral está desabilitada no locatário do Azure AD. O administrador global da sua conta do Azure AD pode habilitar os recursos necessários executando o seguinte comando do PowerShell:
+Você verá essa mensagem porque os usuários vírus estão desabilitados ou porque a Assinatura Viral está desabilitada no locatário do Azure AD. O administrador global da sua conta do Azure AD pode habilitar os recursos necessários executando o seguinte comando do PowerShell:
 
-**Set-MsolCompanySettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
+**Set-MsolCompanySettings -AllowEmailVerifiedUsers $true -AllowAdHocSubscriptions $true**
 
-Para obter mais informações, leia [inscrição de autoatendimento](/azure/active-directory/users-groups-roles/directory-self-service-signup).
+Para obter mais informações, leia [Inscrever-se por autoatend site.](/azure/active-directory/users-groups-roles/directory-self-service-signup)
 
 ## <a name="you-forgot-your-password"></a>Você esqueceu sua senha
 
-Se você esqueceu sua senha, selecione o link **não consegue acessar sua conta?** na página de entrada. Essa opção permite que você Redefina sua senha ou peça ao administrador global para atribuir novas credenciais.
+Se você esqueceu sua senha, selecione o link **Não é possível acessar sua conta?** na página de entrada. Essa opção permite que você redefina sua senha ou peça ao administrador global para atribuir novas credenciais.
 
-## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Na tela "Conte-nos sobre sua empresa", você recebe um erro "algo deu errado"
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Na tela "Conte-nos sobre sua empresa", você receberá um erro "Algo deu errado"
 
 Essa mensagem de erro geralmente aparece se você usar inadvertidamente caracteres especiais, espaços ou código de país no número de telefone da empresa. O valor inserido no campo número de telefone pode conter apenas um máximo de 10 caracteres.
 

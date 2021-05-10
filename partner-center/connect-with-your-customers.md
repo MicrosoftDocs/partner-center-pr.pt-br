@@ -9,17 +9,17 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 5ad30c83381e03cf26304092a7e291495cf4342c
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: adea177bd190fa3fd22b9ba60b5643b9d466ee4d
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492646"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686187"
 ---
 # <a name="connect-with-customers"></a>Conectar-se com clientes
 
 
- **Funções apropriadas**
+**Funções apropriadas**
 
 - Administrador global
 - Agente administrativo

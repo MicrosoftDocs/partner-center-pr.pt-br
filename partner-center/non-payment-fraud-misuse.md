@@ -9,16 +9,16 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: 9b3beef70052ad204327dd53c4aa9f477056bbcb
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: c3b7db95bbbd039f8328ddd2785579bb533197cc
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441856"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686289"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gerenciamento de não pagamento, fraude ou uso indevido no Partner Center
 
-Aplica-se a:
+**Aplica-se a**
 
 - Partner Center do Microsoft Cloud for US Government
 
@@ -68,28 +68,28 @@ Exemplos desses riscos de transação online podem incluir:
 
 ## <a name="managing-online-risk"></a>Gerenciando riscos online
 
-Você pode usar as seguintes recomendações para ajudá-lo a desenvolver políticas e práticas para reduzir sua exposição a riscos de transações online no ciclo de vida de suas relações com o cliente.
+Você pode usar as recomendações a seguir para ajudá-lo a desenvolver políticas e práticas para reduzir sua exposição a riscos de transação online no ciclo de vida de suas relações com o cliente.
 
 ### <a name="onboarding-new-customers"></a>Integração de novos clientes
 
-Sugestões para reduzir riscos online ao integrar novos clientes incluem:
+As sugestões para reduzir os riscos online durante a integração de novos clientes incluem:
 
-- Estabeleça relações pessoais com os clientes quando possível (por exemplo, contato com clientes por telefone).
-- Verifique as credenciais e o plano de fundo dos clientes por meio de métodos melhores (como o uso de centrais de créditos ou agências de relatórios comerciais comerciais).
-- Use a autenticação multifator (como verificação de SMS) durante a inscrição para minimizar a exposição à criação e à compra da conta robótica.
-- Gerencie e acompanhe identidades usando serviços (como serviços de identidade digital).
-- Avalie a força financeira do cliente por meio de sistemas de detecção de fraudes de cartão de crédito.
-- Estabeleça uma política de coleções claras. Detalhe o processo de coleções e quando o acesso a assinaturas será afetado por não pagamento. (Você pode desabilitar o acesso ou [suspender as assinaturas de um cliente](create-a-new-subscription.md#suspend-a-subscription) para não pagamento.)
+- Estabelecer relações pessoais com os clientes quando possível (por exemplo, entrar em contato com os clientes por telefone).
+- Verifique as credenciais e a experiência dos clientes por meio de métodos melhores (como usar agências de crédito ou agências de relatório comerciais).
+- Use a autenticação multifa factor (como verificação por SMS) durante a assinatura para minimizar a exposição à criação e à compra de contas robóticas.
+- Gerenciar e rastrear identidades usando serviços (como serviços de identidade digital).
+- Avaliar a força financeira do cliente por meio de rigorosos sistemas de detecção de fraudes de cartão de crédito.
+- Estabeleça uma política clara de coleções. Detalhar o processo de suas coleções e quando o acesso às assinaturas será afetado por não pagamento. (Você pode desabilitar o acesso [ou suspender as assinaturas de](create-a-new-subscription.md#suspend-a-subscription) um cliente por não pagamento.)
 
 ### <a name="managing-customer-accounts"></a>Gerenciar contas de clientes
 
 As sugestões para gerenciar contas de clientes após a compra incluem:
 
-- Implemente um processo para receber, revisar, agir e responder às notificações da Microsoft rapidamente.
-- Trabalhe com os clientes para entender suas necessidades de negócios de uso de nuvem enquanto configurações limites de monitoramento apropriados. (Por exemplo, você pode [definir um orçamento mensal de gastos do Azure](set-an-azure-spending-budget-for-your-customers.md) no Partner Center. Essa compreensão permite que você monitore o uso do cliente durante o mês e seja notificado quando os clientes estiverem próximos do orçamento.)
-- Monitore [os logs de atividade do cliente](activity-logs.md) regularmente para ajudar a detectar fraudes antecipadamente.
-- Faça uma ação rápida quando atividades suspeitas forem detectadas.
-- Evite dar aos clientes acesso administrativo total a assinaturas sem primeiro implementar os controles de mitigação de risco.
+- Implemente um processo para receber, revisar, agir e responder rapidamente às notificações da Microsoft.
+- Trabalhe com os clientes para entender suas necessidades de negócios de uso de nuvem enquanto configura os limites de monitoramento apropriados. (Por exemplo, você pode definir um orçamento mensal de gastos do [Azure](set-an-azure-spending-budget-for-your-customers.md) em Partner Center. Essa compreensão permite que você monitore o uso do cliente durante o mês e seja notificado quando os clientes estão próximos do orçamento.)
+- Monitore [os logs de atividades do](activity-logs.md) cliente regularmente para ajudar a detectar fraudes no início.
+- Tome uma ação rápida quando atividades suspeitas são detectadas.
+- Evite dar aos clientes acesso administrativo completo às assinaturas sem primeiro implementar controles de mitigação de risco.
 
 ### <a name="managing-customer-billing"></a>Gerenciando cobrança de clientes
 

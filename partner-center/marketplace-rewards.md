@@ -9,16 +9,16 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7909b795be03bcd1b110da3f2c3b77019753730d
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: e279ad8299def820287207c36c670c6051e26f2f
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624248"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686238"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Gerencie recompensas do Marketplace no Partner Center & ative os benefícios técnicos, de marketing e vendas
 
-Funções apropriadas:
+**Funções apropriadas**
 
 - Administrador de parceiros do MPN
 - Administrador global

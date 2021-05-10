@@ -9,18 +9,18 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: 2c44581b1c2d7fcf2e4a10de9194a8c7288791a2
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: ae39190e47b48a69e103da6d899b11c224a56d22
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172261"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686136"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Fornecimento de diferentes tipos de suporte para os clientes
 
 **Aplica-se a**
 
--  Partner Center do Microsoft Cloud for US Government
+- Partner Center do Microsoft Cloud for US Government
 
 **Funções apropriadas**
 
@@ -44,7 +44,7 @@ Os clientes do CSP não podem criar os próprios tíquetes de suporte. Eles prec
 
   - [Suporte à assinatura na nuvem](manage-your-partner-network-benefits.md) (incluído com os benefícios do MPN para competências Gold ou Silver, use apenas para produtos de nuvem)
 
-  - [Incidentes de suporte a produtos](manage-your-partner-network-benefits.md) (incluídos nos benefícios do MPN para parceiros Gold, prata ou Microsoft Action Pack, use apenas para produtos locais recentes)
+  - [Incidentes de suporte a](manage-your-partner-network-benefits.md) produtos (incluídos com benefícios do MPN para parceiros Gold, Silver ou Microsoft Action Pack, use somente para produtos locais recentes)
 
 ## <a name="providing-billing-subscription-management-and-technical-support"></a>Como fornecer suporte técnico, gerenciamento de assinaturas e cobrança 
 
