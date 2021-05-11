@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 17b0100bf5e45e931a765a73fb98afddf6dba656
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 643b1eeb96a47ee4c438f733efe3be22234d02ff
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172244"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740277"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Localizar IDs importantes para um usuário
 
@@ -32,7 +32,7 @@ Este artigo descreve como usar o [portal do Azure](https://portal.azure.com/) pa
 
 ## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Localizar a ID de locatário Microsoft Azure AD e o nome de domínio primário
 
-Siga estas etapas para localizar a ID de locatário do Azure AD ou o nome de domínio primário dentro do portal do Azure. (Se você quiser encontrar uma ID de locatário programaticamente, consulte [Localizar ID de locatário com PowerShell ou CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell).)
+Siga estas etapas para localizar a ID de locatário do Azure AD ou o nome de domínio primário dentro do portal do Azure. (Se você quiser encontrar uma ID de locatário programaticamente, consulte [Localizar ID de locatário com PowerShell ou CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant#find-tenant-id-with-powershell).)
 
 > [!NOTE]
 > A ID do locatário pode ser chamada de nomes diferentes em aplicativos ou recursos diferentes. Por exemplo, a ID do locatário pode ser referida como a ID do diretório, o locatário do Azure Active Directory (Azure AD), a ID da Microsoft ou para determinados relatórios, até mesmo o *tenantguid*.
@@ -49,37 +49,37 @@ Siga estas etapas para localizar a ID de locatário do Azure AD ou o nome de dom
 
 4. Você pode encontrar a ID do locatário na portal do Azure de algumas outras maneiras. Selecione **Azure Active Directory** no menu. Em seguida, localize a seção **gerenciar** no menu e selecione **Propriedades**.
 
-   A página Propriedades também exibe a ID de locatário associada do usuário.
+   A página Propriedades também exibe a ID de Locatário associada do usuário.
 
-   :::image type="content" source="images/id/3-find-id-azure-portal-aad-properties-tenant-id-partial.png" alt-text="Mostra a página de propriedades com o campo ID de locatário realçado.":::
+   :::image type="content" source="images/id/3-find-id-azure-portal-aad-properties-tenant-id-partial.png" alt-text="Mostra a página Propriedades com o campo ID do Locatário realçada.":::
 
-## <a name="find-the-user-object-id"></a>Localizar a ID de objeto de usuário
+## <a name="find-the-user-object-id"></a>Encontrar a ID do objeto de usuário
 
-Apenas encontrar o nome de domínio e a ID de locatário nem sempre pode ser suficiente. Talvez você também precise localizar a ID de objeto específica atribuída a um usuário. Siga estas etapas para localizar a ID de objeto de um usuário no portal do Azure:
+Encontrar apenas o nome de domínio e a ID do locatário pode nem sempre ser suficiente. Talvez você também precise localizar a ID de objeto específica atribuída a um usuário. Siga estas etapas para encontrar a ID de objeto de um usuário no portal do Azure:
 
 1. Entre no [portal do Azure](https://portal.azure.com/).
 
 2. Selecione **Azure Active Directory** no menu.
 
-3. Localize a seção **gerenciar** no menu e, em seguida, selecione **usuários**.
+3. Localize **a seção** Gerenciar no menu e, em seguida, selecione **Usuários**.
 
-      :::image type="content" source="images/id/4-find-id-azure-portal-aad-manage-users-option.png" alt-text="Mostra Azure Active Directory menu com a opção Users realçada.":::
+      :::image type="content" source="images/id/4-find-id-azure-portal-aad-manage-users-option.png" alt-text="Mostra Azure Active Directory menu com realçada, opção Usuários.":::
 
-4. Na página usuários, digite o nome do usuário na caixa de pesquisa.
+4. Na página Usuários, digite o nome do usuário na caixa de pesquisa.
 
-      :::image type="content" source="images/id/5-find-id-azure-portal-aad-all-users-search.png" alt-text="Mostra a página de usuários com a caixa de pesquisa para procurar um usuário específico.":::
+      :::image type="content" source="images/id/5-find-id-azure-portal-aad-all-users-search.png" alt-text="Mostra a página Usuários com a caixa de pesquisa para pesquisar um usuário específico.":::
 
-5. Selecione o nome do usuário onde ele aparece na lista.  
+5. Selecione o nome do usuário em que ele aparece na lista.  
 
-      :::image type="content" source="images/id/6-find-id-azure-portal-select-user-name-partial.png" alt-text="Mostra a página do usuário exibindo uma linha para o usuário pesquisado.":::
+      :::image type="content" source="images/id/6-find-id-azure-portal-select-user-name-partial.png" alt-text="Mostra a página Usuário exibindo uma linha para o usuário pesquisado.":::
 
-6. Localize a seção identidade na página de perfil do usuário. O campo ID de objeto aparece aqui com a ID de objeto exclusiva do usuário.
+6. Localize a seção Identidade na página Perfil do usuário. O campo ID do objeto aparece aqui com a ID de objeto exclusiva do usuário.
 
-      :::image type="content" source="images/id/7-find-id-azure-portal-aad-user-profile-object-id.png" alt-text="Mostra a página de perfil do usuário com a seção de identidade e um campo realçado para a ID de objeto.":::
+      :::image type="content" source="images/id/7-find-id-azure-portal-aad-user-profile-object-id.png" alt-text="Mostra a página Perfil do Usuário com a seção Identidade e um campo realçado para A ID do Objeto.":::
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Localize sua ID de locatário programaticamente com o PowerShell ou a CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
+- [Encontrar sua ID de locatário programaticamente com o PowerShell ou a CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 - [Saiba mais sobre perfis de usuário no Azure Active Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
-- [Descubra como os parceiros podem ver ou exportar detalhes do cliente no Partner Center](see-your-customer-list.md)
+- [Descubra como os parceiros podem ver ou exportar detalhes do cliente Partner Center](see-your-customer-list.md)
 
