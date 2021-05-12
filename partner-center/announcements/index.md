@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/07/2021
-ms.openlocfilehash: 0263522eed42dbbdd11dc43f6aed490ce61b261d
-ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
+ms.openlocfilehash: dd0823e56371347bb212122b79e31fbc124dff2e
+ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "109630127"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109712508"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,6 +22,9 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 |**Categoria**|**Comunicados de maio de 2021**|**Comunicado**|
 |---------|:---------|:---------|
+|Funcionalidades|[Análise para ofertas de venda conjunta conduzidas por parceiros](2021-may.md#9)|10 de maio|
+|Funcionalidades|[Programas Incentivo de Hospedagem e Incentivo de Revendedor de SPLA estendidos até 30 de setembro de 2021](2021-may.md#8)|7 de maio|
+|Funcionalidades|[A funcionalidade de perfil bancário padrão está disponível no Partner Center para o registro em incentivos](2021-may.md#7)|7 de maio|
 |Funcionalidades|[Atualização: o lançamento do produto Agendador foi adiado](2021-may.md#6)|5 de maio|
 |Funcionalidades|[Software com CSP perpétua em breve na China](2021-may.md#5)|5 de maio|
 |Funcionalidades|[Lembrete: preterimento da qualificação GET em 6 de maio de 2021](2021-may.md#4)|4 de maio|
