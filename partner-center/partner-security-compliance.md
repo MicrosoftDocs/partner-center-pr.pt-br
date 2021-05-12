@@ -9,16 +9,17 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d56b9675ea405b29190f68420037ea9a92f3d831
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: e9ff61b34a9154cf305efbb42147e99b9579a17f
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086542"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686272"
 ---
 # <a name="security-requirements-status-report"></a>Relatório de status dos requisitos de segurança
 
 **Funções apropriadas**
+
 - Administrador do CPV
 - Administrador global
 

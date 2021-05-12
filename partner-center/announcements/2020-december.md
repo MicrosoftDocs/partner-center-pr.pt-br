@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2021
-ms.openlocfilehash: 7e6082c645a4c5bcc3e0f766ffe7d82e73d46c15
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.openlocfilehash: 9d34a8e7674d178dc3217e36cee25b2d9ad6c36a
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280914"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740345"
 ---
 # <a name="december-2020-announcements"></a>Comunicados de dezembro de 2020
 
@@ -419,15 +419,15 @@ Desde 8 de dezembro de 2020, os parceiros poderão baixar a versão do [Microsof
  
 **SelfServePolicies – nova funcionalidade adicionada**
 
-- [GetSelfServePolicies](/partner-center/develop/get-a-self-serve-policy-by-id.md)
-- [GetListOfSelfServicePolicies](/partner-center/develop/get-a-list-of-self-serve-policies.md)
-- [CreateSelfServePolicies](/partner-center/develop/create-a-self-serve-policy.md)
-- [UpdateSelfServePolicies](/partner-center/develop/update-a-self-serve-policy.md)
-- [DeleteSelfServePolicies](/partner-center/develop/delete-a-self-serve-policy.md)
+- [GetSelfServePolicies](/partner-center/develop/get-a-self-serve-policy-by-id)
+- [GetListOfSelfServicePolicies](/partner-center/develop/get-a-list-of-self-serve-policies)
+- [CreateSelfServePolicies](/partner-center/develop/create-a-self-serve-policy)
+- [UpdateSelfServePolicies](/partner-center/develop/update-a-self-serve-policy)
+- [DeleteSelfServePolicies](/partner-center/develop/delete-a-self-serve-policy)
  
 **Perfil corporativo dos clientes**
 
-- [OrganizationRegistrationNumber](/partner-center/develop/create-a-customer.md) adicionado
+- [OrganizationRegistrationNumber](/partner-center/develop/create-a-customer) adicionado
  
 **CustomerBillingProfile.DefaultAddress**
 

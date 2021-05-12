@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2021
-ms.openlocfilehash: 9f0292efc6646e4abd85a6fab1e53ac9e139a915
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.openlocfilehash: bd081c190b3bccb151c2c0cd5e470ad869eb78dd
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280829"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740294"
 ---
 # <a name="january-2021-announcements"></a>Comunicados de janeiro de 2021
 
@@ -383,7 +383,7 @@ o Partner Center foi criado para lidar com um alto volume de solicitações, mas
 
 | Operação | Documentação do Partner Center |
 | ------ | ------- |
-|{baseURL}/v1/customers/{ID_do_cliente}/subscriptions  | [Get-all-of-a-customer-s-subscriptions](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/customers/{ID_do_cliente}/subscriptions  | [Get-all-of-a-customer-s-subscriptions](/partner-center/develop/get-all-of-a-customer-s-subscriptions) |
 |{baseURL}/v1/customers/{ID_do_cliente}/subscriptions/{ID_da_assinatura}  | [Obter uma assinatura por ID](/partner-center/develop/get-a-subscription-by-id) |
 |{baseURL}/v1/customers/{ID_do_cliente}/orders  | [Obter todos os pedidos de clientes](/partner-center/develop/get-all-of-a-customer-s-orders) |
 |{baseURL}/v1/customers/{ID_do_cliente}/orders/{ID_do_pedido}  | [Obter uma ordem por ID](/partner-center/develop/get-an-order-by-id) |
