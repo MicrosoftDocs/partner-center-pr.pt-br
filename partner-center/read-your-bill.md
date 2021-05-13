@@ -1,60 +1,56 @@
 ---
-title: Como ler o arquivo Bill & reconhecimento
+title: Como ler seu arquivo de & reconhecimento
 ms.topic: article
 ms.date: 06/05/2020
-description: Saiba mais sobre sua fatura & arquivos de reconciliação. Sua fatura mostra cobranças do Partner Center entre o programa, os produtos e os clientes por esse período mensal.
+description: Saiba mais sobre sua fatura & arquivos de reconciliação. Sua fatura mostra Partner Center encargos em todo o programa, produtos e clientes para esse período mensal.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e93bc59d4ddb8ac2323807a716d7ba6404b00fce
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: f16b619aba838da1d1da0c5eb13648ebb107c802
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964350"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855906"
 ---
-# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Entenda sua fatura e seu arquivo de reconciliação-saiba como encontrá-las no Partner Center
+# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Entender seu arquivo de cobrança e reconciliação – saiba como encontrá-los Partner Center
 
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de cobrança
-- Agente administrativo
+**Funções apropriadas:** administrador global | Administrador de cobrança | Agente administrador
 
 
-Sua **fatura** é um **Resumo de todos os seus encargos do Partner Center** (em todo o programa, todos os produtos e todos os clientes). 
+Sua **fatura** é um **resumo de todas as suas Partner Center (em** todo o programa, todos os produtos e todos os clientes). 
 
-## <a name="find-your-bill-and-reconciliation-file"></a>Localizar sua fatura e o arquivo de reconciliação 
+## <a name="find-your-bill-and-reconciliation-file"></a>Encontrar seu arquivo de cobrança e reconciliação 
 
-Você pode encontrar sua fatura na página de cobrança do painel no Partner Center. Você também pode encontrar seu histórico de cobrança, tendências de gastos e arquivos de reconciliação nesta página. 
+Você pode encontrar sua fatura na página Cobrança do painel Partner Center. Você também pode encontrar seu histórico de cobrança, tendências de gastos e arquivos de reconciliação nesta página. 
 
 1. Entre no [painel](https://partner.microsoft.com/dashboard/home) do Partner Center. 
 
-2. No menu à esquerda, selecione **cobrança**. 
+2. No menu à esquerda, selecione **Cobrança**. 
 
 3. Na página de status da cobrança, selecione uma nota fiscal ou um arquivo de reconciliação para exibir informações mais detalhadas. 
 
-Você pode encontrar um link para a fatura mais recente na parte superior da página em saldo de conta até a data da última nota fiscal. 
+Você pode encontrar um link para sua fatura mais recente na parte superior da página em Saldo da conta a partir da data da última fatura. 
 
-Você pode encontrar notas fiscais anteriores na seção Histórico de cobrança. Escolha o ano apropriado e, em seguida, selecione a seta suspensa ao lado do período de cobrança apropriado. Selecione o link ao lado de notas fiscais (. pdf) para baixar a fatura do período. 
+Você pode encontrar faturas anteriores na seção Histórico de cobrança. Escolha o ano apropriado e, em seguida, selecione a seta para baixo ao lado do período de Cobrança apropriado. Selecione o link ao lado de Faturas (.pdf) para baixar a fatura desse período. 
 
 ## <a name="invoice-types"></a>Tipos de fatura
 
-A Microsoft emitirá uma fatura para quaisquer encargos baseados em licença (como o Office 365) e encargos com base no uso (como o Azure) e uma fatura separada para cobranças individuais (como Azure RI, Marketplace ou plano do Azure).
+A Microsoft emitirá uma fatura para quaisquer encargos baseados em licença (como o Office 365) e encargos baseados em uso (como o Azure) e uma fatura separada para cobranças avuárias (como RI do Azure, Marketplace ou plano do Azure).
 
 Por exemplo,  
 
-**Cenário 1 [moeda única]**: o parceiro tem compras para ofertas de 145P e licenças do O365,  
+**Cenário 1 [Moeda Única]**: o parceiro tem compras para a oferta de 145P e licenças O365,  
 
-- O parceiro obterá um PDF de nota fiscal e 2 arquivos de reconciliação que abrangem os encargos do O365 e do Azure (145p).  
+- O parceiro receberá um PDF da fatura e dois arquivos de reconciliação que abrangem os encargos do O365 e do Azure (145p).  
 
-**Cenário 2 [moeda única]**: o parceiro tem compras para o Azure ri, o Marketplace e/ou o plano do Azure, juntamente com as compras do 145p.
+**Cenário 2 [Moeda Única]**: o parceiro tem compras para o plano de RI, Marketplace e/ou Azure do Azure, juntamente com compras de 145p.
 
-- O parceiro obterá um PDF de nota fiscal e um arquivo de reconciliação que abrange os encargos do Azure (145p). 
+- O parceiro receberá um PDF da fatura e um arquivo de reconciliação que abrange os encargos do Azure (145p). 
 
 - O parceiro receberá outro PDF de fatura e um arquivo de reconciliação que abrange seus encargos para o Azure RI, Marketplace, plano do Azure. 
 
@@ -93,7 +89,7 @@ Para obter uma descrição detalhada de todos os campos em seu arquivo de nota f
 
 ## <a name="understand-reconciliation-files"></a>Entender os arquivos de reconciliação
 
- Os arquivos de reconciliação, que fornecem detalhes detalhados/discriminados de seus encargos, estão disponíveis para download junto com o PDF da fatura. Os arquivos de reconciliação incluem identificadores de cliente e identificadores de assinatura que você pode usar para criar faturas de cliente. Veja  [como usar os arquivos de reconciliação](use-the-reconciliation-files.md) para obter mais detalhes sobre os arquivos reconhecimento. 
+ Os arquivos de reconciliação, que fornece um detalhamento/detalhes de seus encargos, estão disponíveis para download junto com o PDF da fatura. Os arquivos de reconciliação incluem identificadores de cliente e identificadores de assinatura que você pode usar para criar faturas do cliente. Consulte Como usar  [os arquivos de reconciliação](use-the-reconciliation-files.md) para obter mais detalhes sobre os arquivos de reconhecimento. 
 
 ## <a name="next-steps"></a>Próximas etapas
 

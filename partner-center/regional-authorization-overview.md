@@ -9,18 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 33d4a3745c8e9de87c9d1ef4ef86dec7c79db1b0
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 15203b24188bd8303f61f362ff5f0f901714a813
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120759"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855770"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Programa de provedor de soluções na nuvem mercados regionais e moedas em que você pode vender ofertas de CSP
 
-**Funções apropriadas**
-
-- Administrador global
+**Funções apropriadas**: administrador global
 
 O local da sua empresa determina seu mercado. Seu mercado inclui regiões e/ou países em que você pode vender ofertas de programa CSP (provedor de soluções na nuvem).
 
@@ -44,11 +42,11 @@ Se não houver suporte para o seu país, estabeleça o relacionamento do CSP do 
 
 - Os parceiros de cobrança direto usam a seguinte URL: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . Substitua **partnertenantguid** pela sua ID de locatário. 
 
-- A URL para revendedores indiretos é: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . Substitua **IRtenantguid** pela sua ID de locatário. Substitua **IRMPNID** por sua ID do MPN e substitua **IPTENANTGUID** pela sua ID de locatário do provedor indireto.
+- A URL para revendedores indiretos é: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . Substitua **IRtenantguid pela** sua ID de locatário. Substitua **IRMPNID pela** ID do MPN e substitua **IPtenantguid** pela ID de locatário do provedor indireto.
 
 ## <a name="africa-region-and-market"></a>Região e mercado da África
 
-Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas do CSP para clientes em todos os locais na lista.
+Se a localização da sua empresa estiver na lista abaixo, você poderá vender ofertas do CSP para clientes em todos os locais da lista.
 
 | País/Região           | Moeda |
 | ------------------------ |:--------:|
@@ -103,7 +101,7 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 
 ## <a name="asia-and-pacific-region-and-market"></a>Região e mercado da Ásia e do Pacífico
 
-Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas do CSP para clientes em todos os locais na lista.
+Se a localização da sua empresa estiver na lista abaixo, você poderá vender ofertas do CSP para clientes em todos os locais da lista.
 
 | País/Região     | Moeda |
 | --------------     |:--------:|
@@ -127,9 +125,9 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 |  Vietnã           |   USD    |
 |
 
-## <a name="australia-region-and-market"></a>Região da Austrália e mercado
+## <a name="australia-region-and-market"></a>Região e mercado da Austrália
 
-Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas do CSP para clientes em todos os locais na lista.
+Se a localização da sua empresa estiver na lista abaixo, você poderá vender ofertas do CSP para clientes em todos os locais da lista.
 
 |  País/Região        | Moeda |
 |  --------------        |:--------:|
@@ -160,7 +158,7 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 
 ## <a name="brazil-region-and-market"></a>Região e mercado do Brasil
 
-Se o local da sua empresa for o Brasil, você poderá vender ofertas de CSP para clientes no Brasil.
+Se a localização da sua empresa for o Brasil, você poderá vender ofertas do CSP para clientes no Brasil.
 
 |  País/Região | Moeda |
 |  -------------- |:--------:|
@@ -169,17 +167,17 @@ Se o local da sua empresa for o Brasil, você poderá vender ofertas de CSP para
 
 ## <a name="canada-region-and-market"></a>Região e mercado do Canadá
 
-Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas do CSP para clientes em todos os locais na lista.
+Se a localização da sua empresa estiver na lista abaixo, você poderá vender ofertas do CSP para clientes em todos os locais da lista.
 
 |  País/Região | Moeda |
 |  -------------- |:--------:|
-|  Canada         |   CAD    |
+|  Canadá         |   CAD    |
 |  São Pedro e Miquelon|  CAD   |
 |
 
 ## <a name="europe-region-and-market"></a>Região e mercado da Europa
 
-Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas do CSP para clientes em todos os locais na lista.
+Se a localização da sua empresa estiver na lista abaixo, você poderá vender ofertas do CSP para clientes em todos os locais da lista.
 
 |  País/Região | Moeda  |
 |  -------------- |:--------:|
@@ -232,7 +230,7 @@ Se o local da sua empresa estiver na lista abaixo, você poderá vender ofertas 
 
 ## <a name="india-region-and-market"></a>Região e mercado da Índia
 
-Se o local da sua empresa for a Índia, você poderá vender ofertas de CSP para clientes da Índia.
+Se o local da sua empresa for a Índia, você poderá vender ofertas do CSP para clientes na Índia.
 
 |  País/Região | Moeda |
 |  -------------- |:--------:|
@@ -241,16 +239,16 @@ Se o local da sua empresa for a Índia, você poderá vender ofertas de CSP para
 
 ## <a name="japan-region-and-market"></a>Região e mercado do Japão
 
-Se o local da sua empresa for o Japão, você poderá vender ofertas de CSP para clientes no Japão.
+Se o local da sua empresa for o Japão, você poderá vender ofertas do CSP para clientes no Japão.
 
 |  País/Região | Moeda |
 |  -------------- |:--------:|
 |  Japão          |   JPY    |
 |
 
-## <a name="korea-republic-of-region-and-market"></a>Coreia, República da região e mercado
+## <a name="korea-republic-of-region-and-market"></a>Coreia do Sul, República da região e mercado
 
-Se o local da sua empresa for Coréia, República do, você poderá vender ofertas de CSP para clientes na Coreia, República do.
+Se a localização da sua empresa for Coreia do Sul, Republica de, você poderá vender ofertas do CSP para clientes na Coreia do Sul, República da.
 
 |  País/Região    | Moeda |
 |  --------------    |:--------:|

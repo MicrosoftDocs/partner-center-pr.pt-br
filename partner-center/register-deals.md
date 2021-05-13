@@ -9,18 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96c0b320850b4ee648e98fc5da97d9f25faaf405
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 8f8b3a086f968ed00deefa718d3abc18223ba600
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172414"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855736"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registre as negociações que você ganhou no Partner Center para poder obter mais oportunidades posteriormente
 
-**Funções apropriadas**
-
-- Administrador de indicações
+**Funções apropriadas**: administrador de referências
 
 Você pode registrar negociações que ganhou no Partner Center fornecendo mais informações sobre o contrato. Essas informações nos ajudam a oferecer mais oportunidades para você no futuro.
 
@@ -44,7 +42,7 @@ Na página **Nova negociação**, forneça as seguintes informações.
 - **Data de início do contrato**: a data em que o contrato será iniciado. Para negociações PAYG (pré-pago), use a data da primeira fatura.
 - **Data de término do contrato**: se o contrato terminar em uma data específica, selecione **tem uma data de término** e forneça essa data. Se o contrato não tiver uma data de término específica, selecione **perpétua**. Para negociações PAYG (pré-pago), use a data da última nota fiscal ou mais recente.
 - **Data de inscrição do contrato**: a data em que o contrato final foi assinado por sua organização e pelo cliente. Para negociações PAYG (pré-pago), use a data da primeira fatura.
-- **Contato de registro**: **nome**, **sobrenome**, número de **telefone** e **email** para uma pessoa em sua organização que podemos contatar se precisar de mais detalhes sobre qualquer uma das informações fornecidas aqui.
+- **Contato de** registro: **o** nome **,** **sobrenome,** número de telefone e **Email** para uma pessoa em sua organização que possamos contatar se precisarmos de mais detalhes sobre qualquer uma das informações fornecidas aqui.
 
 Quando você tiver concluído todas as seções da página, selecione **Registrar**. O registro da negociação será movido para a página **Em andamento**. Em seguida, a Microsoft revisará as informações fornecidas.
 
@@ -56,7 +54,7 @@ Você pode revisar os registros de negociações novos, ativos e fechados nas di
 
 ### <a name="action-required"></a>Ação requerida
 
-Na página **Indicações > Registros de negociação > Ação necessária**, você verá novos registros que ainda não foram registrados ou que precisam de uma atualização. Você pode usar os filtros para mostrar apenas registros de negociação **Incompletos** ou **Atualização necessária**. Registros de negociação **Incompletos** são aqueles originados de indicações, mas que ainda não foram registrados. **Atualizar** os registros de negociação necessários são aqueles que foram criados e registrados, mas que exigem que você atualize as informações fornecidas.
+Na página **Indicações > Registros de negociação > Ação necessária**, você verá novos registros que ainda não foram registrados ou que precisam de uma atualização. Você pode usar os filtros para mostrar apenas registros de negociação **Incompletos** ou **Atualização necessária**. Registros de negociação **Incompletos** são aqueles originados de indicações, mas que ainda não foram registrados. **Os registros de** negociação necessários são aqueles que foram criados e registrados, mas que exigem que você atualize as informações fornecidas.
 
 ### <a name="in-progress"></a>Em Andamento
 
@@ -66,4 +64,4 @@ Se qualquer informação precisar ser atualizada, poderemos mover o registro de 
 
 ### <a name="closed"></a>Fechadas
 
-Nas **referências > registros de negociações > página fechada** , você verá as negociações que foram registradas e revisadas com êxito pela Microsoft. Você pode usar os filtros para mostrar apenas registros de negociação **Aprovados** ou **Recusados**.
+Na página **Indicações > contratos > fechado,** você verá as negociações que foram registradas e revisadas com êxito pela Microsoft. Você pode usar os filtros para mostrar apenas registros de negociação **Aprovados** ou **Recusados**.

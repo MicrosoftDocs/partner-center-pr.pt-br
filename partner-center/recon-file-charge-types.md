@@ -9,24 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f1fb7fdcc4ec56f0d5cf0eb26b62294235a5b908
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 5a1f45de59fc9dac6a443bb8a14c3a80b36ba3f7
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441584"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855872"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Entender os diferentes tipos de encargo em arquivos de reconciliação do Partner Center
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center | Partner Center para Microsoft Cloud do governo dos EUA
 
-- Partner Center do Microsoft Cloud for US Government
-
-**Funções apropriadas**
-
-- Agente administrativo
-- Administrador de cobrança
-- Administrador global
+**Funções apropriadas**: agente de administração | Administrador de cobrança | Administrador global
 
 Este artigo descreve os mapeamentos entre uma seção de fatura e os tipos de encargos associados que podem estar em seu arquivo de reconciliação. Sua fatura fornece um resumo de encargos. O arquivo de reconciliação fornece uma divisão detalhada das transações de item de linha, incluindo tipos de encargo. Para obter mais informações sobre arquivos de reconciliação, consulte [como usar arquivos de reconciliação](use-the-reconciliation-files.md).
 
@@ -49,32 +43,32 @@ Para mapear esses encargos baseados em licenças para sua fatura, some a coluna 
 | Taxa de cancelamento | Encargos rateado reembolsados ao cliente quando as licenças associadas são alteradas. |
 | Cancelar ocorrência proporcional | Encargos rateado cancelados quando o cliente com a assinatura mensal tem assinatura suspensa e as licenças associadas foram alteradas no mesmo mês. |
 | Taxa do Ciclo | Cobranças periódicas de uma assinatura. |
-| Proporcional à instância do ciclo | Encargos rateado avaliados do cliente quando as licenças associadas são alteradas. |
-| Taxas proporcionais durante o cancelamento | Reembolso rateado para parte não usada do serviço após o cancelamento. |
-| Taxa de taxas ao converter da oferta atual | Encargos rateado após a conversão da assinatura mensal atual em uma assinatura anual. |
-| Taxas de taxa ao converter em uma nova oferta | Encargos rateado após a conversão de uma assinatura mensal em uma nova assinatura anual. |
-| Taxas proporcionais na compra | O tipo de encargo para uma assinatura ao usar a cobrança mensal ou anual. |
-| Taxa proporcional ao renovar | Taxas rateada após a renovação da assinatura. |
+| Proporcional à instância do ciclo | Encargos rateados avaliados pelo cliente quando as licenças associadas são alteradas. |
+| Taxas proporcionais durante o cancelamento | Reembolso rateado por parte nãoutilizada do serviço após o cancelamento. |
+| Taxas de taxa de taxa ao converter fora da oferta atual | Encargos rateados após a conversão da assinatura mensal atual em uma assinatura anual. |
+| Taxas de taxa ao converter em uma nova oferta | Encargos rateados depois de converter uma assinatura mensal em uma nova assinatura anual. |
+| Taxas proporcionais na compra | O tipo de cobrança de uma assinatura ao usar a cobrança mensal ou anual. |
+| Taxa proporcional ao renovar | Valores rateados após a renovação da assinatura. |
 | Taxa de renovação | Cobrança para renovação de uma assinatura |
-| Taxas proporcionais ao ativar | Taxas rateada da ativação até o término do período de cobrança. |
+| Taxas proporcionais ao ativar | Valores rateados da ativação até o final do período de cobrança. |
 
-## <a name="one-time-charges"></a>Encargos de uso único
+## <a name="one-time-charges"></a>Encargos único
 
-Para mapear esses encargos de uma vez para sua fatura, some a coluna de **valor** do arquivo baseado em licença.
+Para mapear esses encargos de uso único para sua fatura, soma a **coluna Valor** do arquivo baseado em licença.
 
-| Descrição da cobrança (coluna Chargetype no arquivo de reconciliação) | Explicação da cobrança |
+| Descrição da cobrança (coluna ChargeType no arquivo de reconciliação) | Explicação da cobrança |
 | ------------------------------------------------------------- | ------------------ |
 | Novo | Usado quando uma nova compra é criada. |
-| addQuantity | Usado tanto no reembolso da compra original quanto na nova quantidade após um aumento. |
-| removeQuantity | Usado tanto no reembolso da compra original quanto na nova quantidade após uma diminuição. |
+| addQuantity | Usado no reembolso da compra original e na nova quantidade após um aumento. |
+| removeQuantity | Usado no reembolso da compra original e na nova quantidade após uma diminuição. |
 | Cancelar | Usado quando uma assinatura é cancelada. |
 | Converter | Usado quando uma licença é atualizada, mas o número de licenças permanece inalterado. |
 
 ## <a name="usage-charges"></a>Encargos de uso
 
-Para mapear esses encargos de uso para sua fatura, some a coluna **PretaxCharges** do arquivo baseado em uso.
+Para mapear esses encargos de uso para sua fatura, soma a **coluna PretaxCharges** do arquivo baseado em uso.
 
-| Descrição da cobrança (coluna Chargetype no arquivo de reconciliação) | Explicação da cobrança |
+| Descrição da cobrança (coluna ChargeType no arquivo de reconciliação) | Explicação da cobrança |
 | ------------------------------------------------------------- | ------------------ |
 | Avaliar a taxa de uso ao cancelar | Taxa de uso de acesso ao cancelamento para uso não pago durante o período de faturamento atual. |
 | Avalie a taxa de uso para o ciclo atual | Taxa de uso de acesso para o período de faturamento atual. |

@@ -4,45 +4,43 @@ ms.topic: article
 ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Crie associações de clientes com o modelo de CPOR (parceiro de registro) de reivindicação. Ajuda a gerenciar vendas, uso e incentivos para os clientes Microsoft 365 & Dynamics 365.
+description: Crie associações de clientes com o modelo Parceiro de Registro de Solicitações (CPOR). Ajuda a gerenciar vendas, uso e incentivos para Microsoft 365 & clientes do Dynamics 365.
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7a7e3ed40dcc6b1248f008201bff667a9eb9a0f8
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 9526a47d0b6d734bde48f403c11fa84d734511c1
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028308"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856093"
 ---
-# <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Associações de clientes por meio do modelo CPOR (parceiro de registro) solicitado para Microsoft 365 e Dynamics 365
+# <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Associações de clientes por meio do modelo CPOR (Parceiro de Registro Solicitado) para Microsoft 365 e Dynamics 365
 
 
-**Funções apropriadas**
+**Funções apropriadas:** Administrador de incentivos
 
-- Administrador de incentivos
-
-Em 1º de outubro de 2019, a Microsoft começou a usar o modelo de CPOR (parceiro de registro) para gerenciar as associações que você tem com os clientes do Microsoft 365 e do Dynamics 365 em relação à venda de serviços online (OSA), Microsoft 365 o uso do Online Services (OSU) e OSU-Business incentivos de aplicativos.
+Em 1º de outubro de 2019, a Microsoft começou a usar o modelo CPOR (Parceiro de Registro de Solicitações) para gerenciar as associações que você tem com seus clientes do Microsoft 365 e do Dynamics 365 em relação aos incentivos de Venda de SERVIÇOS Online (OSA), Uso de Serviços Online (OSU) Microsoft 365 e OSU-Business Application.
 
 >[!Important]
-> As declarações de CPOR (Associação de cliente) se aplicam apenas ao aviso de venda do serviço online (OSA), uso de serviços online (OSU)-Microsoft 365 e OSU-Business os programas de incentivos de aplicativos. Se você estiver enviando uma declaração de cooperação para outro programa, como provedor de soluções de nuvem, revendedor gerenciado, hospedagem ou superfície, consulte o processo de declarações de cooperação descrito aqui. <br><br>Quando você envia sua declaração, a Microsoft a valida. Poderemos solicitar mais informações neste ponto. Também notificaremos o cliente sobre sua solicitação de associação. Os clientes têm cinco dias úteis para recusar. Se eles não recusarem, sua associação com esse locatário e carga de trabalho específicos será oficial. Neste ponto, você terá acesso aos dados de uso do cliente. 
+> As declarações de CPOR (Associação de Clientes) aplicam-se somente aos programas de incentivo de Venda de Serviços Online (OSA), Uso de Serviços Online (OSU) Microsoft 365 e OSU-Business aplicativo. Se você estiver enviando uma declaração de cooperação para outro programa, como Provedor de Soluções na Nuvem, Managed Reseller, Hospedagem ou Superfície, consulte o processo de declarações de cooperação descrito aqui. <br><br>Quando você envia sua declaração, a Microsoft a valida. Podemos solicitar mais informações neste ponto. Também notificaremos o cliente sobre sua solicitação de associação. Os clientes têm cinco dias úteis para ressutar. Se eles não optarem, sua associação com esse locatário e carga de trabalho específicos será oficial. Neste ponto, você terá acesso aos dados de uso do cliente. 
 
 Você precisará das seguintes informações para concluir uma declaração:
 
-- A **ID de MPN** da sua entidade que faz a declaração
+- A **ID do MPN** para sua entidade que faz a declaração
 
-- O **nome de domínio** do cliente [encontra isso](find-ids-and-domain-names.md)
+- Nome de domínio **do cliente** [Localizar este](find-ids-and-domain-names.md)
 
-- A **ID do diretório** ou a **ID de locatário** do cliente [encontra esta](find-ids-and-domain-names.md)
+- **ID** do diretório do cliente ou **ID do locatário** [Localizar isso](find-ids-and-domain-names.md)
 
-- A **área da solução**, como Business Applications ou Microsoft 365
+- A **área solução**, como Business Applications ou Microsoft 365
 
-- A **atividade** que você realizou e o tipo de declaração que deseja fazer, como pré-vendas, uso ou associação de receita
+- A **atividade** que você realizou e o tipo de declaração que você deseja fazer, como pré-vendas, uso ou associação de receita
 
-- O nome do **contato** do seu cliente, o título e o endereço de email
+- Nome de contato **do** cliente, título e endereço de email
 
-- Para o Dynamics 365, você também precisa fornecer o nome do **contato técnico** do cliente, o título e o endereço de email
+- Para o Dynamics 365, você também  precisa fornecer o nome de contato técnico, o título e o endereço de email do cliente
 
 - O **nome de contato** e o endereço de email da sua própria empresa
 
