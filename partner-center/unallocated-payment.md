@@ -9,19 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d3920cbdc52a844477aacac9c7ac2122c14edeba
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 018416585ea141d4842ec0787b59fd7e214c9999
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755817"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818619"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Gerenciar pagamentos não alocados na página de cobrança do Partner Center
 
-**Funções apropriadas**
-
-- Administrador de cobrança
-- Administrador de conta
+**Funções apropriadas**: administrador de cobrança | Administrador da conta
 
 Ocasionalmente, você poderá ver um pagamento não alocado em sua página de cobrança. Um pagamento não alocado é um pagamento que você fez à Microsoft que não aplicou a uma fatura específica.
 

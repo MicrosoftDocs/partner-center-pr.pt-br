@@ -9,25 +9,18 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: c3b7db95bbbd039f8328ddd2785579bb533197cc
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: 1d8e59ea2d2e8d40163ea06b305845c37a356f16
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686289"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818653"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gerenciamento de não pagamento, fraude ou uso indevido no Partner Center
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center | Partner Center para Microsoft Cloud do governo dos EUA
 
-- Partner Center do Microsoft Cloud for US Government
-
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de gerenciamento de usuário
-- Agente administrativo
-- Administrador de cobrança
+**Funções apropriadas**: Administração Global | Administrador de gerenciamento de usuários | Agente de administração | Administrador de cobrança
 
 Você permanece financeiramente responsável por compras fraudulentas de seus clientes e/ou falta de pagamento de serviços comprados pelo cliente. Portanto, é *altamente recomendável que você coloque controles de mitigação de risco de detecção e prevenção de fraudes*.
 
@@ -63,8 +56,8 @@ Exemplos desses riscos de transação online podem incluir:
 - Transações que não ocorrem pessoalmente (transações de "cartão de crédito não presente")
 - Identidades fraudulentas
 - Serviços provisionados e usados antes de o pagamento inicial ser recebido
-- Mercados emergentes e/ou regiões de alto risco para fraudes online
-- Automatizar a criação e a compra de contas por atores ruins
+- Mercados emergentes e/ou regiões de alto risco para fraude online
+- Automatizar a criação e a compra de conta por atores ruins
 
 ## <a name="managing-online-risk"></a>Gerenciando riscos online
 
@@ -88,8 +81,8 @@ As sugestões para gerenciar contas de clientes após a compra incluem:
 - Implemente um processo para receber, revisar, agir e responder rapidamente às notificações da Microsoft.
 - Trabalhe com os clientes para entender suas necessidades de negócios de uso de nuvem enquanto configura os limites de monitoramento apropriados. (Por exemplo, você pode definir um orçamento mensal de gastos do [Azure](set-an-azure-spending-budget-for-your-customers.md) em Partner Center. Essa compreensão permite que você monitore o uso do cliente durante o mês e seja notificado quando os clientes estão próximos do orçamento.)
 - Monitore [os logs de atividades do](activity-logs.md) cliente regularmente para ajudar a detectar fraudes no início.
-- Tome uma ação rápida quando atividades suspeitas são detectadas.
-- Evite dar aos clientes acesso administrativo completo às assinaturas sem primeiro implementar controles de mitigação de risco.
+- Faça uma ação rápida quando atividades suspeitas forem detectadas.
+- Evite dar aos clientes acesso administrativo total a assinaturas sem primeiro implementar os controles de mitigação de risco.
 
 ### <a name="managing-customer-billing"></a>Gerenciando cobrança de clientes
 

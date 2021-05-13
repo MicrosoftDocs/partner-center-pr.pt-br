@@ -8,21 +8,16 @@ description: Veja o que você está fazendo bem e onde você pode melhorar a res
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: e05ea33665ded2e52eae2ef8f096b30d3bfe9ee5
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 9626ceda405b54ea2043814fef3d7f5c81bc35af
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086287"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854580"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI relatório de uso disponível no painel do recepções do Partner Center
 
-**Funções apropriadas**
-
-- Administrador global
-- Agente administrativo
-- Visualizador de relatórios
-- Visualizador de relatórios executivos
+**Funções apropriadas**: Administração Global | Agente de administração | Visualizador de relatórios | Visualizador de relatórios executivos
 
 O relatório uso de Power BI fornece dados de uso para as assinaturas de Power BI que você vendeu ou gerencia para seus clientes. Você pode exibir as seções a seguir no relatório de uso Power BI.
 
@@ -51,37 +46,37 @@ A seção de resumo apresenta uma exibição de instantâneo dos principais indi
 
    O micro Chart apresenta uma tendência mensal de estações ativas mensais no período de tempo selecionado.
 
-- % De uso ativo: número total de estações ativas expressas como uma porcentagem das estações disponíveis para o período de tempo selecionado. 
+- %de uso ativo: número total de lugares ativos expressos como um percentual dos lugares disponíveis para o período selecionado. 
 
-   O micro Chart apresenta uma tendência mensal de porcentagem de uso ativo no período de tempo selecionado.
+   O micro gráfico apresenta uma tendência mensal de percentual de uso ativo durante o período selecionado.
 
-:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Resumo de uso de Power BI":::
+:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Power BI de uso":::
 
-## <a name="power-bi-usage-by-geography"></a>Uso de Power BI por geografia
+## <a name="power-bi-usage-by-geography"></a>Power BI uso por geografia
 
-O **uso de Power bi por geografia** ilustra a distribuição de estações disponíveis e estações ativas por país do cliente. As cores mais claras no mapa representam valores mais baixos, enquanto as cores mais escuras representam valores mais altos. Você pode pesquisar e selecionar um país na grade para aplicar zoom.
+O **Power BI uso por geografia ilustra** a distribuição de lugares disponíveis e de lugares ativos por país do cliente. Cores mais claras no mapa representam valores inferiores, enquanto cores mais escuras representam valores mais altos. Você pode pesquisar e selecionar um país na grade para ampliar.
 
-O **número de tabelas de países/** regiões apresenta os países/regiões totais nos quais os eventos de uso do Azure são gerados.
+A **tabela Número de países/regiões** apresenta o total de países/regiões em que os eventos de uso do Azure são gerados.
 
-Você pode pesquisar e selecionar um país na grade para aplicar zoom ao local no mapa. Selecione a opção **início** no mapa para reverter para a exibição original.
+Você pode pesquisar e selecionar um país na grade para ampliar o local no mapa. Selecione a **opção** Página Inicial no mapa para reverter para a exibição original.
 
-:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="Uso de Power BI por geografia":::
+:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="Power BI uso por geografia":::
 
-## <a name="power-bi-usage-by-sku"></a>Uso de Power BI por SKU
+## <a name="power-bi-usage-by-sku"></a>Power BI uso por SKU
 
-O uso de Power BI por SKU representa a tendência mensal de estações disponíveis, estações ativas e estações atribuídas por SKUs.
+O Power BI uso por SKU descreve a tendência mensal de estações disponíveis, estações ativas e estações atribuídas por SKUs.
 
-:::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="Uso de Power BI por SKU":::
+:::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="Power BI uso por SKU":::
 
 ## <a name="subscriptions-performance"></a>Desempenho de assinaturas
 
-O desempenho das assinaturas representa a tendência mensal de uso ativo por assinatura do cliente. Os dados dos principais clientes 100 por receita cobrada são mostrados na tabela e você pode pesquisar por qualquer cliente ou baixar os dados brutos para exibir detalhes de todas as assinaturas.
+O desempenho de Assinaturas ilustra a tendência mensal de uso ativo por assinatura do cliente. Os dados dos 100 principais clientes por receita cobrada são mostrados na tabela e você pode pesquisar qualquer cliente ou baixar os dados brutos para exibir detalhes de todas as assinaturas.
 
-:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Desempenho da assinatura do Power BI":::
+:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Power BI de assinatura":::
 
-## <a name="power-bi-usage-distribution"></a>Distribuição de uso do Power BI
+## <a name="power-bi-usage-distribution"></a>Power BI de uso
 
-A distribuição de uso de Power BI descreve a divisão de estações disponíveis, estações ativas e estações atribuídas por SKUs.
+A Power BI distribuição de uso descreve o detalhamento de lugares disponíveis, bancos ativos e lugares atribuídos por SKUs.
 
 :::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Distribuição de uso do Power BI":::
 

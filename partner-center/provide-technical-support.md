@@ -9,22 +9,17 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2750e7ce06b04042c9f8953f65202a3c4ce718d0
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: f25dda14ff056918ef29ab5cfeaa72894b4d4fea
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633838"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854988"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Fornecer suporte técnico para ajudar os clientes a configurar, gerenciar e usar suas assinaturas
 
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de gerenciamento de usuário
-- Agente de suporte técnico
-- Agente administrativo
+**Funções apropriadas**: Administração Global | Administrador de gerenciamento de usuários | Agente de assistência técnica | Agente de administração
 
 Como parceiro de provedor de soluções de nuvem, você delegou privilégios de administrador que lhe dão acesso aos ambientes de seus clientes. Esses privilégios fornecem a capacidade de dar suporte, configurar e gerenciar diretamente as assinaturas de seus clientes.
 

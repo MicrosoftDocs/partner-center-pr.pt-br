@@ -9,19 +9,16 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9ab6afc85a696b3b614ea5c3b5edc644d92bfc21
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 8d5154ad63066cb9d1d3eda8cf78fc059217ca99
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266496"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854784"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>Aposentadoria dos serviços de planejamento do Software Assurance
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de parceiros do MPN
+**Funções apropriadas**: Administração Global | Administrador do parceiro do MPN
 
 
 Os serviços de planejamento estão sendo totalmente retirados dos benefícios do Software Assurance, mas os clientes podem continuar trabalhando com parceiros para usar os serviços de planejamento para os compromissos, enquanto os comprovantes são válidos. Essas são as datas significativas que levam à desativação do programa: 
@@ -69,51 +66,51 @@ Para ajudar a verificar a qualificação da sua empresa para se registrar em um 
 
 ## <a name="enroll-new-partners"></a>Registrar (novos parceiros)
 
-Depois que sua empresa atender aos requisitos de qualificação, você estará pronto para assinar o contrato de programa do Software Assurance Planning Services e se registrar em uma ou mais ofertas de programa.
+Depois que sua empresa atender aos requisitos de qualificação, você estará pronto para assinar o contrato de programa Software Assurance Planning Services e inscrever-se em uma ou mais ofertas de programa.
 
-Primeiro, certifique-se de examinar todas as [políticas do programa Planning Services](https://go.microsoft.com/fwlink/?linkid=2115984). Em seguida, siga as instruções na [etapa 2](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho para concluir o processo de registro do Planning Services no Partner Center.
+Primeiro, certifique-se de revisar todas as [políticas de programa dos Serviços de Planejamento](https://go.microsoft.com/fwlink/?linkid=2115984). Em seguida, siga as instruções na [etapa 2](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho para concluir o processo de registro dos Serviços de Planejamento Partner Center.
 
 
-## <a name="create-or-update-your-companys-business-profile-new-partners"></a>Criar ou atualizar o perfil comercial da sua empresa (novos parceiros)
+## <a name="create-or-update-your-companys-business-profile-new-partners"></a>Criar ou atualizar o perfil de negócios da sua empresa (novos parceiros)
 
-Maximize sua exposição a clientes potenciais. Siga [as instruções e orientações](create-a-marketing-profile.md) para criar ou atualizar o perfil de negócios da sua empresa no Partner Center.
+Maximize sua exposição a clientes potenciais. Siga [as instruções e as diretrizes](create-a-marketing-profile.md) para criar ou atualizar o perfil de negócios da sua empresa Partner Center.
 
-## <a name="customer-creates-and-assigns-voucher-existing-partners"></a>O cliente cria e atribui comprovante (parceiros existentes)
+## <a name="customer-creates-and-assigns-voucher-existing-partners"></a>O cliente cria e atribui o comprovante (parceiros existentes)
 
-Antes de começar um contrato de serviços de planejamento, o cliente deve executar as seguintes ações:
+Antes de começar um compromisso dos Serviços de Planejamento, seu cliente deve tomar as seguintes ações:
 
-1. Os clientes devem primeiro ativar o benefício dos serviços de planejamento.
-2. Os clientes devem criar um comprovante de serviços de planejamento e atribuí-lo a um gerente de projeto em sua empresa.
+1. Os clientes devem primeiro ativar o benefício dos Serviços de Planejamento.
+2. Os clientes devem criar um comprovante dos Serviços de Planejamento e atribuí-lo a um gerente de projeto em sua empresa.
 
-Para obter instruções detalhadas que o cliente deve executar para criar o comprovante e atribuí-lo a você, consulte a [etapa 4](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho. Para obter uma visão geral da experiência do cliente, consulte o [Guia do VLSC Software Assurance](https://download.microsoft.com/download/A/7/D/A7D04694-1B1E-4B18-918F-0EDCD43BA2E5/VLSC-Software-Assurance-Guide_en-US.pdf).
+Para obter instruções detalhadas que o cliente deve seguir para criar o comprovante e atribuí-lo a você, consulte a [etapa 4](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho. Para ter uma visão geral da experiência do cliente, consulte o [Guia de Software Assurance VLSC.](https://download.microsoft.com/download/A/7/D/A7D04694-1B1E-4B18-918F-0EDCD43BA2E5/VLSC-Software-Assurance-Guide_en-US.pdf)
 
-## <a name="validate-and-reserve-voucher-existing-partners"></a>Validar e reservar comprovante (parceiros existentes)
+## <a name="validate-and-reserve-voucher-existing-partners"></a>Validar e reservar o comprovante (parceiros existentes)
 
-Depois que um cliente atribui um comprovante à sua empresa no [VLSC (Volume Licensing Service Center)](https://www.microsoft.com/Licensing/servicecenter/default.aspx), o cliente recebe um email que inclui a ID do comprovante. O cliente precisa encaminhar este email para você para que você tenha as informações necessárias para reservar o comprovante.
+Depois que um cliente atribui um comprovante à sua empresa no [VLSC (Centro](https://www.microsoft.com/Licensing/servicecenter/default.aspx)de Serviços de Licenciamento por Volume), o cliente recebe um email que inclui a ID do comprovante. O cliente precisa encaminhar esse email para você ter as informações necessárias para reservar o comprovante.
 
-Quando tiver os detalhes do comprovante, você poderá reservar o comprovante e agendar o compromisso de planejamento. Consulte a [etapa 5](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho para obter diretrizes detalhadas sobre como fazer isso no painel do Partner Center.
+Quando você tiver os detalhes do comprovante, poderá reservar o comprovante e agendar a participação no planejamento. Consulte [a etapa 5](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho para obter diretrizes detalhadas sobre como fazer isso no painel Partner Center dados.
 
-## <a name="complete-engagement-and-provide-deliverables-to-your-customer-existing-partners"></a>Concluir o envolvimento e fornecer resultados ao seu cliente (parceiros existentes)
+## <a name="complete-engagement-and-provide-deliverables-to-your-customer-existing-partners"></a>Conclua o envolvimento e forneça entregas para seu cliente (parceiros existentes)
 
-Para estar qualificado a entregar um contrato de serviços de planejamento, o consultor deve ter concluído uma ou mais avaliações técnicas ou exames necessários para a competência de qualificação do engajamento. (Para saber mais sobre as avaliações ou os exames necessários, [Veja requisitos de qualificação para contratos de serviços de planejamento](software-assurance-dps-requirements.md).)
+Para ser qualificado para fornecer um compromisso dos Serviços de Planejamento, o consultor deve ter concluído uma ou mais das avaliações técnicas ou exames necessários para a competência qualificada do envolvimento. (Para saber mais sobre as avaliações ou os exames necessários, veja os requisitos de qualificação para os [compromissos dos Serviços de Planejamento.)](software-assurance-dps-requirements.md)
 
-Depois que sua empresa concluiu o envolvimento e forneceu os entregas finais, concluídos ao cliente, você precisa preencher e enviar o relatório de conclusão online.
+Depois que sua empresa concluir o compromisso e fornecer os resultados finais e concluídos para o cliente, você precisará preencher e enviar o relatório de conclusão online.
 
-Consulte a [etapa 6](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho para obter diretrizes detalhadas.
+Consulte [a etapa 6](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho para obter diretrizes detalhadas.
 
 ## <a name="redeem-voucher"></a>Resgatar comprovante
 
-Antes de faturar a Microsoft para o engajamento entregue, você deve primeiro resgatar seu comprovante. Consulte a [etapa 7](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho para obter diretrizes detalhadas.
+Antes de faturar a Microsoft pelo compromisso entregue, primeiro você deve resgatar seu comprovante. Consulte [a etapa 7](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho para obter diretrizes detalhadas.
 
 ## <a name="request-payment-from-microsoft-existing-partners"></a>Solicitar pagamento da Microsoft (parceiros existentes)
 
-Depois de resgatar os comprovantes de serviços de planejamento, você deve faturar a Microsoft para pagamento. Os pagamentos são tratados por meio da ferramenta de pagamento online SAVB (benefício do comprovante de Software Assurance).
+Depois de resgatar os comprovantes dos Serviços de Planejamento, você deve faturar a Microsoft para pagamento. Os pagamentos são tratados por meio Software Assurance SAVB (Benefício de Comprovante) Online.
 
 Para enviar uma fatura à Microsoft por meio do SAVB, siga as instruções na [etapa 8](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho.
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Fluxo de trabalho dos serviços de planejamento do Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115983)
-- [Perguntas frequentes sobre serviços de planejamento do Software Assurance](https://go.microsoft.com/fwlink/?linkid=2116077)
-- [Políticas de serviços de planejamento do Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115984)
-- [Compromissos desativados do serviço de planejamento do Software Assurance](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)
+- [Software Assurance de trabalho dos Serviços de Planejamento](https://go.microsoft.com/fwlink/?linkid=2115983)
+- [Software Assurance perguntas frequentes sobre os Serviços de Planejamento](https://go.microsoft.com/fwlink/?linkid=2116077)
+- [Software Assurance do Planning Services](https://go.microsoft.com/fwlink/?linkid=2115984)
+- [Software Assurance de planejamento dos Serviços de Planejamento foram retirados](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)

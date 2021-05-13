@@ -9,23 +9,17 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b369cd263f1852c54c260fa39860e7acafae5f90
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: dd8a9b09d4dbd45c0d76bce1674babfd5e17cdbe
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633651"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854121"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Fornecer suporte a cobrança para seus clientes e ajudar a responder às perguntas deles sobre cobrança
 
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de gerenciamento de usuário
-- Agente de suporte técnico
-- Administrador de cobrança
-- Agente de vendas
+**Funções apropriadas**: Administração Global | Administrador de gerenciamento de usuários | Agente de assistência técnica | Administrador de cobrança | Agente de vendas
 
 Você possui a relação de cobrança com seus clientes e é responsável por responder às perguntas relacionadas à cobrança que seus clientes podem ter.
 

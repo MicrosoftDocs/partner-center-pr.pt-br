@@ -4,58 +4,56 @@ ms.topic: article
 ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba mais sobre os requisitos de parceiro de cobrança direto do CSP e o que fazer para evitar que os recursos sejam restritos. Descubra se seus recursos foram restritos.
+description: Saiba mais sobre os requisitos do parceiro de cobrança direta do CSP e o que fazer para evitar que as funcionalidades se restrinam. Descubra se suas funcionalidades foram restritas.
 author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05ccc6016e9dcd6e7582cdd31dbc4d0054c43f8d
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: b3b1f3e1593f7e35bd3b9ed6c56ea28683bff95a
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018060"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855481"
 ---
-# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Recursos de cobrança direta restritos e os requisitos necessários para parceiros de cobrança direto do CSP
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Recursos restritos de cobrança direta e os requisitos necessários para parceiros de cobrança direta do CSP
 
-**Funções apropriadas**
-
-- Administrador global
+**Funções apropriadas:** Administrador global
 
 ## <a name="overview"></a>Visão geral
 
-Os parceiros de cobrança direto devem atender aos novos [requisitos](direct-partner-new-requirements.md) para permanecerem no programa de parceiro de cobrança direto do CSP. Caso contrário, o acesso às funcionalidades de cobrança direta acabará sendo restrito, e eles não poderão mais executar tarefas específicas, como fazer novas compras para clientes.
+Os parceiros de cobrança direta devem atender aos [novos requisitos](direct-partner-new-requirements.md) para permanecerem no programa de parceiros de cobrança direta do CSP. Caso contrário, o acesso às funcionalidades de cobrança direta acabará sendo restrito, e eles não poderão mais executar tarefas específicas, como fazer novas compras para clientes.
 
 > [!Note]
-> Os parceiros de cobrança direto que não atendem aos novos requisitos para o programa de parceiro de cobrança direto do CSP serão informados pela Microsoft quando seus recursos de fatura direta serão restritos. Isso se aplica a todos os parceiros de cobrança diretos, se eles optaram por fazer [a transição de um parceiro de cobrança direto para revendedores indiretos](transition-direct-to-indirect.md) ou não.  
+> Os parceiros de cobrança direta que não atenderem aos novos requisitos do programa de parceiros de cobrança direta do CSP serão informados pela Microsoft quando seus recursos de cobrança direta serão restritos. Isso se aplica a todos os parceiros de cobrança direta, quer eles tenham optado pela transição do parceiro de cobrança direta para [revendedores indiretos](transition-direct-to-indirect.md) ou não.  
 
-## <a name="how-to-tell-if-your-direct-bill-capabilities-has-been-restricted"></a>Como saber se seus recursos de fatura direta foram restritos
+## <a name="how-to-tell-if-your-direct-bill-capabilities-has-been-restricted"></a>Como saber se as funcionalidades de cobrança direta foram restritas
 
-Para confirmar se o acesso do locatário do parceiro de cobrança direto para direcionar recursos de cobrança foi restringido, siga estas etapas.
+Para confirmar se o acesso do locatário do parceiro de cobrança direta aos recursos de cobrança direta foi restrito, siga estas etapas.
 
 1. Entre no [Painel do Partner Center](https://partner.microsoft.com/dashboard).
 
-2. Vá para **configurações de conta**  ->  **perfil legal**.
+2. Acesse **Configurações da conta**  ->  **Perfil Jurídico**.
 
-3. Em **informações do programa**, procure **Microsoft Cloud status do provedor de solução**.
+3. Em **Informações do programa,** procure Provedor de Soluções na Nuvem da Microsoft **status**.
 
-4. Se o status do programa tiver um valor **restrito**, isso significa que o acesso do locatário do parceiro de cobrança direto aos recursos de cobrança direto foi restringido.
+4. Se o status do programa tiver valor **restrito,** isso significa que o acesso do locatário do parceiro de cobrança direta aos recursos de cobrança direta foi restrito.
 
-## <a name="affected-direct-bill-capabilities"></a>Recursos de fatura direta afetados
+## <a name="affected-direct-bill-capabilities"></a>Recursos de cobrança direta afetados
 
-Se seus recursos de fatura direta foram restritos, você não poderá mais fazer novas compras para seus clientes no Partner Center. Essa restrição inclui:
+Se suas funcionalidades de cobrança direta foram restritas, você não poderá mais fazer novas compras para seus clientes Partner Center. Essa restrição inclui:
 
 - Assinaturas do Azure
 
 - Assinaturas baseadas em licença
 
-- Adicione novos Complementos a assinaturas baseadas em licença existentes.
+- Adicione novos complementos a assinaturas baseadas em licença existentes.
 
-- Faça compras unidirecionais de produtos de software e Reserva (por exemplo, assinaturas de software, software permanente e instâncias de máquinas virtuais reservadas do Azure).
+- Faça compras avursas de software e produtos de reserva (por exemplo, assinaturas de software, software perpétuo e instâncias de Máquina Virtual Reservada do Azure).
 
-Você também não pode usar a [oferta de serviços compartilhados de parceiro do Azure](shared-services.md) no programa CSP para comprar novas assinaturas do Azure para seu próprio uso.
+Você também não pode usar a oferta de serviços compartilhados de parceiros do [Azure](shared-services.md) no programa CSP para comprar novas assinaturas do Azure para seu próprio uso.
 
-As assinaturas de fatura direta existentes não são afetadas. Eles permanecem válidos e são renovados automaticamente. Você continuará sendo cobrado diretamente pela Microsoft até que eles sejam cancelados. Você ainda pode gerenciar assinaturas existentes das seguintes maneiras:
+As assinaturas de cobrança direta existentes não são afetadas. Eles permanecem válidos e são renovados automaticamente. Você continuará sendo cobrado diretamente pela Microsoft até que eles sejam cancelados. Você ainda pode gerenciar assinaturas existentes das seguintes maneiras:
 
 - Suspender assinaturas existentes
 

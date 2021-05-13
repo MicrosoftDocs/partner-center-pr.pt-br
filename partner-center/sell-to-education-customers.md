@@ -1,6 +1,6 @@
 ---
-title: Como vender ofertas para clientes educacionais
-description: Saiba como criar um cliente educativo e vender ofertas para eles no Partner Center. Inclui a confirmação do status de verificação para o cliente de educação.
+title: Como vender ofertas para clientes de educação
+description: Saiba como criar um cliente de educação e vender ofertas para ele Partner Center. Inclui a confirmação do status de verificação para seu cliente de educação.
 ms.topic: how-to
 ms.date: 12/17/2020
 ms.service: partner-dashboard
@@ -9,37 +9,33 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e0c8812683a038ce1f869cb3cb6750424d49ec05
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 1b1b89841faf77a78c8cc268357daaaf95307223
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028360"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855396"
 ---
-# <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Como vender ofertas para clientes educativos e como criar um cliente de educação no Partner Center
+# <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Como vender ofertas para clientes de educação e como criar um cliente de educação no Partner Center
 
-**Funções apropriadas**
-
-- Administrador global
-- Agente administrativo
-- Agente de vendas
+**Funções apropriadas:** administrador global | Agente administrador | Agente de vendas
 
 ## <a name="create-an-education-customer"></a>Criar um cliente educacional
 
-Este artigo explica como criar um cliente de educação no Partner Center e vender produtos educativos para eles. Ele também aborda como exibir o status de verificação e reenviar a solicitação de verificação, se necessário. As ofertas de educação estão atualmente **disponíveis apenas para serviços baseados em licença** , como Microsoft 365, Dynamics, Intune etc. Ele não está disponível para outros tipos (assinaturas de software, software permanente ou produtos do Azure).
+Este artigo explica como criar um cliente de educação no Partner Center e vender produtos de educação para ele. Ele também aborda como exibir o status de verificação e reabrir a solicitação de verificação, se necessário. Atualmente, as ofertas de educação estão disponíveis apenas **para serviços** baseados em licença, como Microsoft 365, Dynamics, Intune etc. Ele não está disponível para outros tipos (assinaturas de software, software perpétuo ou produtos do Azure).
 
 > [!IMPORTANT]
-> A Microsoft verifica cada locatário de cliente educativo recém-criado para garantir que eles sejam qualificados para ofertas educacionais.  Certifique-se de inserir as informações necessárias de forma mais precisa e total possível para evitar atrasos no processo de verificação.
+> A Microsoft verifica cada locatário de cliente de educação recém-criado para garantir que eles sejam qualificados para ofertas de educação.  Insira as informações necessárias da maneira mais precisa e completa possível para evitar atrasos no processo de verificação.
 
 1. Conecte-se ao Partner Center.
 
-2. Selecione **clientes** e, em seguida, selecione **Adicionar um cliente**. Selecione **educação** na lista suspensa **qualificações especiais** .  Preencha o restante das informações da conta, conforme necessário.  Os campos de chave que auxiliam o processo de verificação incluem:
+2. Selecione **Clientes** e, em **seguida, selecione Adicionar um cliente.** Selecione **Educação** na **lista de qualificações** especiais.  Preencha o restante das informações da conta conforme necessário.  Os principais campos que auxiliam o processo de verificação incluem:
 
-   - **Nome da empresa**: Insira o nome da entidade legal – obrigatório para verificação
-   - **País/região e linhas de endereço**: Insira o endereço para correspondência de entidade completa – necessário para verificação
-   - **Endereço de email**: Insira o email de propriedade da entidade – não é um email gratuito ou on.Microsoft.com – necessário para verificação
-   - **Informações de contato do cliente**: esses detalhes serão usados como parte do processo de verificação
-   - **Nome de domínio primário**: usado para criar a conta e os endereços de email do cliente.  Escolha um nome semelhante ao nome da empresa sem espaços ou caracteres especiais.  Esse nome não pode ser alterado posteriormente.
+   - **Nome da** empresa: INSIRA O NOME DA ENTIDADE LEGAL – Necessário para verificação
+   - **Linhas de país/região e endereço:** INSIRA ENDEREÇO DE EMAIL DE ENTIDADE COMPLETO – necessário para verificação
+   - **Endereço de email:** insira o email de propriedade da entidade – não um email on.microsoft.com gratuito – necessário para verificação
+   - **Informações de contato do** cliente: esses detalhes serão usados como parte do processo de verificação
+   - **Nome de domínio primário:** usado para criar endereços de email e conta do cliente.  Escolha um nome semelhante ao nome da empresa sem espaços ou caracteres especiais.  Esse nome não pode ser alterado posteriormente.
 
 3. Quando tiver terminado, selecione **examinar**.
 
@@ -78,25 +74,25 @@ Se o cliente falhar na verificação inicial, agora você poderá corrigir as in
 
 Você deve ter privilégios de administrador global para atualizar as informações do cliente. Você atualiza as informações no portal do Office 365 porque esses dados não podem ser atualizados no portal do Partner Center.
 
-1. Na página **conta** , você verá informações informando que a qualificação do cliente é considerada "não é um cliente educacional".
+1. Na página **Conta,** você verá informações informando que a qualificação do cliente é considerada "Não um cliente de educação".
 
-2. Atualize o navegador para redefinir a página. Haverá um botão de **atualização** e o **status de qualificações especiais** será definido como **nenhum**.
+2. Atualize o navegador para redefinir a página. Haverá um botão Atualizar **e** o **status de Qualificações especiais** será definido como **Nenhum.**
 
-3. Selecione **Atualizar**. Na página **Gerenciamento de serviços** , selecione **Office 365**.
+3. Selecione **Atualizar**. Na página **Gerenciamento de** Serviços, selecione **Office 365**.
 
-4. Você será redirecionado para o centro de administração do Office 365 em uma nova guia do seu navegador. Talvez seja solicitado que você entre com suas credenciais.
+4. Você será redirecionado para o centro de administração do Office 365 em uma nova guia do navegador. Talvez você seja solicitado a entrar com suas credenciais.
 
 5. Selecione **Configurações**.
 
-6. Selecione a guia **perfil da organização** na parte superior da tela e, em seguida, informações da **organização**. Agora você pode atualizar os detalhes do cliente.
+6. Selecione a **guia Perfil da** organização na parte superior da tela e, em **seguida, Informações da organização.** Agora você pode atualizar os detalhes do cliente.
 
-7. Selecione **salvar alterações** na parte inferior da barra lateral.  
+7. Selecione **Salvar alterações** na parte inferior da barra lateral.  
 
-### <a name="resubmit-for-verification"></a>Reenviar para verificação
+### <a name="resubmit-for-verification"></a>Retransmitir para verificação
 
-1. Navegue até a guia do centro do parceiro e para a página **conta** do cliente. Atualize o navegador e verifique se a página da empresa foi atualizada para as novas informações. Selecione o botão **Atualizar** para solicitar a nova verificação de educação.
+1. Navegue até a Partner Center e para a página **Conta do** cliente. Atualize o navegador e verifique se a página Empresa foi atualizada para as novas informações. Selecione **o botão** Atualizar para solicitar a nova verificação de educação.
 
-2. Se os detalhes atualizados do cliente estiverem qualificados para ofertas educacionais, você verá as **qualificações especiais** atualizadas para **educação**. Se você ainda **não vir um cliente educativo**, entre em contato com o suporte para verificação manual.
+2. Se os detalhes atualizados do cliente estão qualificados para ofertas de Educação, você verá as **Qualificações especiais atualizadas** para **Educação.** Se você ainda vir Not **an Education Customer**, entre em contato com o Suporte para verificação manual.
 
 ## <a name="next-steps"></a>Próximas etapas
 

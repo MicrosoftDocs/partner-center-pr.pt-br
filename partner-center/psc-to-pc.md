@@ -9,22 +9,16 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: adbe4bf9fd329f7443608dd1a1e123208212ef43
-ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
+ms.openlocfilehash: 584f8a7f2794cb64be49fe7f790904eff50c4c26
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "102770253"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855090"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guia para a venda em conjunto no Partner Center (PC) para parceiros migrando do PSC (Partner Sales Connect)
 
-**Funções apropriadas**
-
-- Administrador de conta
-- Administrador de indicações
-- Vendedor do PSC (Partner Sales Connect)
-- Administrador do PSC (Partner Sales Connect)
-- Gerente de negociações do Partner Sales Connect (PSC)
+**Funções apropriadas**: administrador da conta | Administrador de referências | Vendedor do PSC (Partner Sales Connect) | Administrador de Partner Sales Connect (PSC) | Gerente de negociações do Partner Sales Connect (PSC)
 
 Este artigo fornece diretrizes para parceiros que migram de vendas de parceiros conectam-se ao Partner Center para que eles possam continuar criando e gerenciando acordos de venda de produtos no Partner Center.
 
@@ -43,35 +37,35 @@ No entanto, haverá diferenças. As diretrizes a seguir podem ajudar a fazer sua
 ### <a name="if-you-are-a-psc-admin"></a>Se você for um administrador do PSC
 
 - Você precisa de um email de trabalho para entrar no [Partner Center](https://partner.microsoft.com/).
-- Configure sua conta com a ajuda do [administrador da conta](permissions-overview.md)do Partner Center.
-- Saiba como fazer uma venda conjunta no Partner Center lendo este documento.
-- Configure contas de usuário no Partner Center para todos os usuários do PSC (funções de administrador, gerente de negociações e vendedor) e atribua a eles [funções de administrador de referência](permissions-overview.md).
+- Configurar sua conta com a ajuda do administrador Partner Center [conta.](permissions-overview.md)
+- Saiba como fazer a venda em Partner Center lendo este documento.
+- Configurar contas de usuário no Partner Center para todos os usuários PSC (funções de Administrador, Gerente de Oferta e Vendedor) e atribua a eles funções de administrador [de indicação](permissions-overview.md).
 
 >[!IMPORTANT]
-> Verifique se a ID de MPN mostrada na faixa PSC está disponível na lista de locais MPN no Partner Center.
+> Certifique-se de que a ID do MPN mostrada na faixa PSC está disponível na lista de locais do MPN Partner Center.
 
-:::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Imagem mostrando a faixa do PSC em que os parceiros podem encontrar a ID do MPN.":::
+:::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Imagem mostrando a faixa PSC em que os parceiros podem encontrar a ID do MPN.":::
 
- Para verificar se a ID do MPN aparece como um local do MPN do Partner Center, entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center e selecione **configurações** (o ícone de engrenagem) na parte superior direita da tela, seguida pelas **configurações da conta**. No segundo nível, menu de navegação à esquerda, selecione **locais** para ver a lista de todas as IDs e locais MPN associados à conta do Partner Center.
+ Para verificar se a ID do MPN aparece como um local do MPN do Partner Center, entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center e selecione Configurações **(o** ícone de Engrenagem) no canto superior direito da tela, seguido por Configurações da **Conta**. No menu de navegação à esquerda  de segundo nível, selecione Locais para ver a lista de todas as IDs e locais do MPN associados à Partner Center segurança.
 
-### <a name="if-you-are-a-psc-deal-manager-or-seller"></a>Se você for um gerente de negociações do PSC ou vendedor
+### <a name="if-you-are-a-psc-deal-manager-or-seller"></a>Se você for um gerente ou vendedor de negociações PSC
 
-- Você precisa de um email de trabalho para entrar no [painel](https://partner.microsoft.com/dashboard)do Partner Center.
-- Se você estiver usando uma conta que não seja de trabalho no PSC ou seu email de trabalho for para uma empresa diferente da empresa parceira, entre em contato com o administrador do PSC para obter ajuda de configuração de conta.
-- Verifique com o administrador do PSC se a configuração da sua conta do Partner Center está concluída, independentemente da conta que você usa para entrar no PSC.
-- Verifique se você tem acesso ao Partner Center e à seção referências.
+- Você precisa de um email de trabalho para entrar no painel Partner Center [.](https://partner.microsoft.com/dashboard)
+- Se você estiver usando uma conta não comercial no PSC ou seu email de trabalho for para uma empresa diferente da empresa parceira, entre em contato com o administrador do PSC para ter ajuda com a configuração da conta.
+- Verifique com o administrador do PSC se Partner Center configuração da conta de Partner Center estiver concluída, independentemente da conta que você usa para entrar no PSC.
+- Verifique se você tem acesso ao Partner Center e à seção Indicações.
 - Leia este documento para entender os fluxos de trabalho e as alterações no Partner Center.
 
-## <a name="as-an-admin-in-psc-these-are-your-next-steps"></a>Como administrador no PSC, estas são as próximas etapas
+## <a name="as-an-admin-in-psc-these-are-your-next-steps"></a>Como administrador no PSC, essas são as próximas etapas
 
-No menu de navegação esquerdo do Partner Center, selecione a opção **referências** . Confirme que você pode acessar as páginas de referências.
+No menu Partner Center à esquerda, selecione a **opção Indicações.** Confirme se você pode acessar as páginas Indicações.
 
   >[!Note]
-  > Talvez você precise sair do Partner Center e entrar novamente para atualizar suas credenciais para acessar as páginas de referências.
+  > Talvez seja necessário sair do Partner Center e entrar novamente para atualizar suas credenciais para acesso às páginas de Indicações.
 
-Se você não vir a opção **referências** no menu do Partner Center ou em páginas relacionadas a referências, entre em contato com o [administrador da conta](permissions-overview.md) da sua empresa e peça para conceder acesso à opção **referências** e à área relacionada.
+Se você não vir a opção Indicações no menu Partner Center ou páginas relacionadas a [](permissions-overview.md) indicações, entre em contato  com o administrador da conta da sua empresa e peça que ele lhe dê acesso à opção Indicações e à área relacionada. 
 
-Para localizar o administrador da conta da sua empresa:
+Para encontrar o administrador da conta da sua empresa:
 
 1. Selecione **configurações de conta** no ícone de engrenagem na parte superior direita do painel do Partner Center.
 
@@ -101,22 +95,22 @@ Os administradores de conta verão um link do assistente de migração de usuár
 
 A tabela de migração de usuário tem os seguintes detalhes:
 
-- Conta de usuário-ID de email do funcionário
-- Conta de parceiro do PSC-a conta à qual o funcionário está associado no PSC
-- Função de usuário do PSC – uma das três funções atribuídas ao no PSC.
-- Local MPN do PC – o local para o qual o usuário receberá as funções relevantes do computador. A conta de parceiro do PSC MPN é usada para localizar o local equivalente do MPN no Partner Center para atribuir permissões. Toda a organização denota a ID de MPN vOrg.
-- Função de usuário do computador-os funcionários recebem funções com base em suas funções de usuário do PSC. O administrador no PSC será atribuído às funções de administrador de referências no PC. O vendedor será atribuído à função de usuário de indicações no PC. Saiba mais sobre as funções do PC e o que os usuários com essas funções podem fazer no Partner Center [aqui](permissions-overview.md#manage-referrals)
-- Locatário do AAD do PC-o locatário ao qual os usuários são atribuídos no Partner Center
-- Status-há três estados possíveis para o status da migração
-    - **Não migrado** -o usuário não tem nenhuma função de referências do PC atribuída
-    - **Migrado** -o usuário foi migrado com êxito com a função relevante atribuída conforme mostrado na tabela
-    - **Erro** -não é possível concluir a migração devido a algum erro
+- Conta de usuário – ID de email do funcionário
+- Conta de parceiro PSC – a conta à qual o funcionário está associado no PSC
+- Função de usuário PSC – uma das três funções atribuídas ao no PSC.
+- Local do MPN do pc – o local para o qual o usuário receberá funções de computador relevantes. O MPN da conta de parceiro PSC é usado para localizar o local do MPN equivalente Partner Center atribuir permissões. Toda a organização indica a ID do MPN do vOrg.
+- Função de usuário do pc – os funcionários são atribuídos a funções com base em suas funções de usuário PSC. O administrador no PSC receberá funções de administrador de indicações no PC. O vendedor receberá a função de usuário de indicações no PC. Saiba mais sobre as funções de PC e o que os usuários com essas funções podem fazer no Partner Center [aqui](permissions-overview.md#manage-referrals)
+- Locatário do PC AAD – o locatário ao qual os usuários são atribuídos Partner Center
+- Status – Há três estados possíveis para o status da migração
+    - **Não migrado** – o usuário não tem nenhuma função de indicações de COMPUTADOR atribuída
+    - **Migrado** – o usuário foi migrado com êxito com a função relevante atribuída, conforme mostrado na tabela
+    - **Erro** – Não é possível concluir a migração devido a algum erro
 
 Às vezes, a migração pode falhar e resultar em erros. Aqui estão alguns motivos pelos quais uma migração pode causar um erro e algumas das maneiras de resolver o problema:
 
-1. Os usuários do PSC podem estar usando uma conta que não seja de trabalho.
+1. Os usuários do PSC podem estar usando uma conta que não é de trabalho.
 
-2. O usuário do PSC pode estar usando uma conta de um domínio diferente daquele que você usa no Partner Center.
+2. O usuário PSC pode estar usando uma conta de um domínio diferente do que você usa no Partner Center.
 
    Para resolver erros relacionados aos cenários 1 e 2, peça ao usuário para entrar no Partner Center usando sua conta de trabalho anexada ao seu locatário do Azure AD. O [administrador global](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) pode ajudar.
    
@@ -138,30 +132,30 @@ Leia esta seção antes de iniciar a migração de negociações.
 
 **Qualificado para migração**
 
-Somente algumas ofertas estão qualificadas para a migração do PSC para o PC. Este assistente de migração foi criado para ajudar os parceiros a trazer seus negócios para o Partner Center, onde eles ainda estão trabalhando ativamente com seus clientes para fechar o negócio. **Somente as negociações que estão em estado aberto são criadas a partir de 1º de janeiro de 2020 com detalhes válidos da conta de parceiro (ID de MPN válida) e o registro de negociação não está qualificado para migração.**
+Somente algumas ofertas estão qualificadas para a migração do PSC para o PC. Esse assistente de migração foi criado para ajudar os parceiros a Partner Center em que eles ainda estão trabalhando ativamente com seus clientes para fechar a transação. **Somente as negociações que estão em estado aberto criadas a partir de 1º de janeiro de 2020 com detalhes válidos da conta de parceiro (ID do MPN válida) e que não estão passando pelo registro de negociação são qualificadas para migração.**
 
 **Não qualificado para migração**
 
-- As negociações de avaliação de solução não estão qualificadas para a migração de negociações
-- As negociações de negócios de licenciamento OEM não estão qualificadas para a migração de negociações
-- Qualquer negociação marcada como ganha no PSC não é elegível para migração. O registro de negociações, se qualificado para as negociações marcadas como ganhas, deve ser concluído no PSC.
+- Os acordos de avaliação de solução não estão qualificados para a migração de negociações
+- Os negócios de licenciamento do OEM não estão qualificados para a migração de ofertas
+- Qualquer negociação que tenha sido marcada como ganha no PSC não está qualificada para migração. O registro de negociação, se elegíveis para as negociações marcadas como ganhas, deve ser concluído no PSC.
 
-## <a name="pre-requisites-for-deal-migration"></a>Pré-requisitos para a migração de negociações
+## <a name="pre-requisites-for-deal-migration"></a>Pré-requisitos para migração de negociação
 
-Antes de iniciar a migração do negócio do PC, siga as instruções abaixo para configurar as negociações no PSC para uma migração bem-sucedida.
+Antes de iniciar a migração de oferta do PC, siga as instruções abaixo para configurar as negociações no PSC para uma migração bem-sucedida.
 
-1. Todos os membros da equipe de vendas da sua empresa trabalhando nas negociações abertas são informados sobre essa migração.
-2. Os membros da equipe de vendas são treinados para usar o Partner Center para gerenciamento de negociações.
+1. Todos os membros da equipe de vendas em sua empresa que trabalham em ofertas abertas são informados sobre essa migração.
+2. Os membros da equipe de vendas são treinados para usar Partner Center gerenciamento de ofertas.
 3. As negociações têm todas as informações necessárias, conforme descrito abaixo.
     - Detalhes da empresa do cliente, incluindo nome e endereço
-    - Detalhes de contato do cliente se for um negócio de venda conjunta
+    - Detalhes de contato do cliente se for uma negociação de venda em cooperação
     - Pelo menos uma solução
-    - Pelo menos um membro da equipe com todos os detalhes-primeiro nome, sobrenome, ID de email e número de telefone
+    - Pelo menos um membro da equipe com todos os detalhes – nome, sobrenome, ID de email e número de telefone
     - Valor da negociação
     - Data de fechamento estimada do negócio
-    - Notas do parceiro
+    - Observações do parceiro
 
-Você pode usar os recursos de download e carregamento em massa no PSC para adicionar todos os detalhes que estão faltando no negócio para todas as ofertas qualificadas.
+Você pode usar os recursos de download e upload em massa no PSC para adicionar todos os detalhes ausentes na oferta para todas as negociações qualificadas.
 
 >[!Note]
 > A migração de negociações terá sucesso mesmo se os pré-requisitos acima não forem atendidos. Mas, você não poderá alterar o estado do negócio se qualquer um dos campos obrigatórios acima mencionados no Partner Center não estiver disponível. Em seguida, você precisará inserir todas as informações necessárias que estão faltando nas negociações no Partner Center para começar a trabalhar nelas. **É altamente recomendável limpar as negociações qualificadas no PSC antes de migrá-las para o Partner Center.**
@@ -183,22 +177,22 @@ O relatório inclui os detalhes abaixo.
 
 Todas as negociações que foram migradas com êxito não estarão visíveis no PSC. Você pode continuar trabalhando nas negociações migradas no PC, incluindo a conclusão do registro de negociações no PC. Não haverá nenhuma alteração nas interações com os vendedores da Microsoft para as negociações de venda conjuntas.
 
-As negociações migradas do PSC estarão disponíveis nas guias de entrada e saída com base na origem do negócio. Todas as negociações compartilhadas pela sua empresa estarão disponíveis na guia saída e as negociações iniciadas pela Microsoft estarão disponíveis na guia de entrada do Partner Center. Haverá dois tipos de negociações que serão criadas após a migração.
+As negociações migradas do PSC estarão disponíveis nas guias Entrada e Saída com base na origem da oferta. Todas as negociações compartilhadas por sua empresa estarão disponíveis na guia Saída e as negociações iniciadas pela Microsoft estarão disponíveis na guia Entrada do Partner Center. Haverá dois tipos de acordos que serão criados após a migração.
 
-1. Os **negócios de venda conjuntas** – as negociações marcadas como covendas no PSC serão criadas como negociações de venda no Partner Center.
-2. Os negócios orientados por **parceiros** – as negociações que não estão marcadas como covendas serão criadas como negociações conduzidas por parceiros no Partner Center. Os negócios ministrados por parceiros são visíveis para os vendedores da Microsoft e podem ser atualizados para comercializar as negociações antes de atingir o estado do terminal (ganho, perdido). Além disso, as negociações conduzidas por parceiros são qualificadas para o registro de negociações se houver uma solução de incentivo qualificado no negócio.
+1. **Acordos de venda em cooperação** – as negociações marcadas como venda em PSC serão criadas como negociações de venda em Partner Center.
+2. **Ofertas conduzidas por** parceiros – as negociações que não estão marcadas como venda co-venda serão criadas como ofertas de parceiros no Partner Center. As negociações conduzidas por parceiros são visíveis para vendedores da Microsoft e podem ser atualizadas para acordos de venda de co-venda antes de atingir o estado do terminal (ganho, perdido). Além disso, as negociações conduzidas por parceiros serão qualificadas para o registro de negociação se houver uma solução qualificada para incentivos na negociação.
 
 >[!Important]
-> Se houver erros devido a quais algumas negociações não puderam ser migradas, **você poderá reiniciar a migração do negócio clicando no botão "migrar negociações"**. Ele será habilitado somente se houver algumas negociações qualificadas que ainda devem ser migradas. Isso também será útil se você estiver na fase de transição em que algumas novas negociações serão criadas no PSC depois de iniciar a migração de negociações.
+> Se houver erros devido aos quais algumas negociações não puderam ser migradas, você poderá reatar a migração de oferta clicando no botão **"Migrar ofertas".** Ela só será habilitada se houver algumas negociações qualificadas ainda a serem migradas. Isso também será útil se você estiver na fase de transição em que algumas novas negociações serão criadas no PSC depois de iniciar a migração de negociações.
 
-Depois que todas as negociações forem migradas com êxito, haverá uma faixa mostrando **"não há negociações para migrar"** com o botão **"migrar negociações"** sendo **desabilitado**.
+Depois que todas as negociações são migradas com êxito, haverá uma faixa mostrando "Nenhuma oferta **para migrar"** com o botão **"Migrar ofertas"** sendo **desabilitado.**
 
-Depois de concluir a migração de usuário e/ou a migração de acordo, use as seguintes diretrizes para decidir a estratégia de migração:
+Depois de concluir a migração de usuário e/ou a migração de negociação, use as seguintes diretrizes para decidir a estratégia de migração:
 
-Se sua empresa tiver um gerente de desenvolvimento de parceiros (PDM) – quando sua conta do Partner Center estiver configurada e os usuários tiverem se movido e tiverem funções e permissões, você poderá mover suas atividades de venda para o Partner Center. Informe ao PDM para fazer o comutador em vez de esperar até o prazo de conclusão da migração, o que permitirá que todas as suas novas negociações fluam para o Partner Center.
+Se sua empresa tiver um PDM (Partner Development Manager) – quando sua conta do Partner Center estiver configurada e os usuários mudarem e têm funções e permissões, você poderá mover suas atividades de venda de parceiros para Partner Center. Informe o PDM para fazer a opção em vez de aguardar até que a migração seja concluída, o que permitirá que todas as novas negociações fluam para Partner Center.
 
 >[!Note]
->Depois de fazer essa opção, você só poderá agir sobre as negociações ativas existentes no PSC. Você não pode criar novas negociações nem receber nenhuma medida de vendedores da Microsoft no PSC.
+>Depois de fazer essa opção, você só poderá agir nos acordos ativos existentes no PSC. Você não pode criar novas negociações nem receber nenhuma medida de vendedores da Microsoft no PSC.
 
 Se sua empresa não tiver um PDM, verifique se todas as contas de usuário estão configuradas e verificadas por todos os usuários. Você será notificado por meio de um email e uma faixa no PSC em relação à data exata quando puder começar a trabalhar com a venda no Partner Center. Lembre-se de que você ainda precisará gerenciar as negociações ativas existentes no PSC.
 
@@ -216,13 +210,13 @@ Esta é uma etapa importante, que ajudará você a se preparar para a venda em c
 |-----|:-----|:-----|
 |Funções de usuário|O PSC tem funções de administrador, gerente de negociações e vendedor.|O PC tem apenas a função [administrador de referências](permissions-overview.md#manage-referrals) que fornece permissão de leitura e gravação para todas as negociações.|
 |Convidando a Microsoft em um negócio de venda conjunta|Iniciado pelo vendedor da Microsoft, não há nenhuma pergunta explícita pelo parceiro.|O parceiro terá que fazer uma [solicitação explícita](manage-co-sell-opportunities.md#add-solutions) se uma ajuda do Microsoft seller for necessária para um negócio. O vendedor da Microsoft tem uma opção para recusar a solicitação.|
-|Expiry|Não há nenhum conceito de expiração de uma negociação.|Os acordos de entrada do parceiro expiram em 14 dias se não forem aceitos pelo parceiro. O mesmo é o caso de negócios de saída de parceiros onde eles podem entrar no estado expirado se o vendedor da Microsoft não agir em 14 dias.|
-|Detalhes do vendedor da Microsoft|Visível assim que um acordo é criado.|Os detalhes do vendedor da Microsoft serão compartilhados com o parceiro somente se o vendedor aceitar explicitamente o convite para a venda de vendas do parceiro.|
-|[Pipeline privado](manage-co-sell-opportunities.md#types-of-co-sell-opportunities)|Não disponível.|Os parceiros podem compartilhar seus pipelines sem dar visibilidade aos vendedores da Microsoft.|
-|Soluções|As soluções que pertencem a apenas uma lista de preços podem ser adicionadas a um negócio.|O parceiro pode adicionar [soluções](manage-co-sell-opportunities.md#add-solutions) que pertencem às listas a seguir. a) as soluções de suas próprias soluções b) do catálogo de primeira parte da Microsoft (semelhante à função de negócio de transação no PSC) e c) comercializar soluções de outros parceiros de terceiros (semelhante à função de negócio de ISV no PSC).|
-|Atribuição de negociações|Somente o vendedor atribuído pode exibir e agir sobre as negociações.|Os membros da equipe podem ser adicionados a um negócio para especificar as pessoas que trabalham em um negócio, não há nenhum bloqueio de outros administradores de referência de exibir ou agir nessas negociações.|
-|Organização do cliente|Entrada de texto de formato livre.|Você pode pesquisar a [organização do cliente](manage-co-sell-opportunities.md#select-your-customer) no [banco de dados D&B](https://www.dnb.com/) digitando apenas alguns caracteres. O nome e o endereço legais são preenchidos automaticamente com base na escolha.|
-|Contato do cliente|Não obrigatório.|Não obrigatório para compartilhamento de pipeline privado. Necessário se o vendedor da Microsoft for convidado a participar de uma solicitação de venda de uma parceria.|
+|Expiry|Não há nenhum conceito de expiração de uma negociação.|Os acordos de entrada de parceiro expiram em 14 dias se não são aceitos pelo parceiro. O mesmo ocorre com os acordos de saída do parceiro em que eles podem entrar no estado expirado se o vendedor da Microsoft não agir sobre eles em 14 dias.|
+|Detalhes do vendedor da Microsoft|Visível assim que um acordo é criado.|Os detalhes do Vendedor da Microsoft serão compartilhados com o Parceiro somente se o vendedor aceitar explicitamente o convite para venda em parceria.|
+|[Pipeline privado](manage-co-sell-opportunities.md#types-of-co-sell-opportunities)|Não disponível.|Os parceiros podem compartilhar seu pipeline sem dar visibilidade aos vendedores da Microsoft.|
+|Soluções|Soluções que pertencem a apenas uma lista de preços podem ser adicionadas a uma oferta.|O parceiro pode adicionar [soluções](manage-co-sell-opportunities.md#add-solutions) que pertencem às listas a seguir. a) Suas próprias soluções b) Soluções do catálogo de primeira parte da Microsoft (semelhantes à função transação deal no PSC) e c) soluções de venda co-venda de outros parceiros de terceiros (semelhante à função isv deal no PSC).|
+|Atribuição de negociação|Somente o vendedor atribuído pode exibir e agir sobre as negociações.|Os membros da equipe podem ser adicionados a um acordo para especificar as pessoas que trabalham em um acordo, não há nenhum bloqueio de outros administradores de indicações de exibir ou agir sobre esses acordos.|
+|Organização do cliente|Entrada de texto de formulário livre.|Você pode pesquisar a [organização do cliente](manage-co-sell-opportunities.md#select-your-customer) no banco de dados&[B](https://www.dnb.com/) apenas digitando alguns caracteres. O nome legal e o endereço são preenchidos automaticamente com base na escolha.|
+|Contato do cliente|Não obrigatório.|Não é obrigatório para o compartilhamento de pipeline privado. Necessário se o vendedor da Microsoft for convidado a participar de uma solicitação de venda de uma parceria.|
 |API pública|Não disponível.|[API pública](/partner/develop/referrals) para gerenciar programaticamente as referências do Partner Center.|
 
 ## <a name="map-the-fields-in-psc-to-the-corresponding-fields-in-partner-center"></a>Mapear os campos no PSC para os campos correspondentes no Partner Center
@@ -247,26 +241,26 @@ Os mapeamentos de campo do centro do PSC para o parceiro são mostrados para as 
 1. Exibição de atribuição de função de usuário do PSC mapeada para a exibição de atribuição de função do Partner Center
 1. Exibição de notificações do PSC mapeada para a exibição de notificações do Partner Center
 
-### <a name="1---psc-home-page-mapped-to-the-partner-center-co-sell-opportunities-default-view"></a>1-PSC home page mapeado para a exibição padrão de oportunidades de venda do Partner Center
+### <a name="1---psc-home-page-mapped-to-the-partner-center-co-sell-opportunities-default-view"></a>1 - PSC home page mapeado para a exibição padrão de oportunidades de venda Partner Center venda de dados
 
-Compare os círculos correspondentes numerados entre a captura de tela principal do PSC e a captura de tela do Partner Center abaixo dele. Os números correspondentes mostram onde você pode encontrar o recurso ou atributo relacionado ao PSC no Partner Center. Círculos vermelhos indicam que não há nenhum campo do Partner Center correspondente.  
+Compare os círculos numerados correspondentes entre a captura de tela superior do PSC e a Partner Center de tela abaixo dele. Os números correspondentes mostram onde você pode encontrar o recurso ou atributo relacionado ao PSC Partner Center. Círculos vermelhos indicam que não há nenhuma correspondência Partner Center campo.  
 
-:::image type="content" source="images/pscmigration/homepage.png" alt-text="Imagem mostrando os mapeamentos de campo entre o home page de vendas do parceiro Connect e a exibição padrão de oportunidades de venda conjunta no Partner Center." lightbox="images/pscmigration/home-page-expanded.png":::
+:::image type="content" source="images/pscmigration/homepage.png" alt-text="Imagem mostrando os mapeamentos de campo entre a home page do Partner Sales Connect e a exibição padrão das oportunidades de venda em Partner Center." lightbox="images/pscmigration/home-page-expanded.png":::
 
-### <a name="2---psc-grid-view-mapped-to-the-partner-center-deal-view"></a>2-exibição de grade do PSC mapeada para a exibição de negócio do Partner Center
+### <a name="2---psc-grid-view-mapped-to-the-partner-center-deal-view"></a>2 - Exibição de grade PSC mapeada para a exibição Partner Center de negócios
 
-Compare os círculos correspondentes numerados entre a captura de tela principal do PSC e a captura de tela do Partner Center abaixo dele. Os números correspondentes mostram onde você pode encontrar o recurso ou atributo relacionado ao PSC no Partner Center. Círculos vermelhos indicam que não há nenhum campo do Partner Center correspondente.  
+Compare os círculos numerados correspondentes entre a captura de tela superior do PSC e a Partner Center de tela abaixo dele. Os números correspondentes mostram onde você pode encontrar o recurso ou atributo relacionado ao PSC Partner Center. Círculos vermelhos indicam que não há nenhuma correspondência Partner Center campo.  
 
 > [!NOTE]
 > Outras considerações aparecem abaixo das capturas de tela.
 
-:::image type="content" source="images/pscmigration/gridview.png" alt-text="Imagem mostrando os mapeamentos de campo entre a exibição de grade do PSC (Partner Sales Connect) e a exibição de negociações do Partner Center." lightbox="images/pscmigration/grid-view-expanded.png":::
+:::image type="content" source="images/pscmigration/gridview.png" alt-text="Imagem mostrando os mapeamentos de campo entre a exibição de grade do PSC (Partner Sales Connect) e a exibição Partner Center de negócios." lightbox="images/pscmigration/grid-view-expanded.png":::
 
 **Considerações especiais:**
 
-- Não há nenhuma exibição de lista no Partner Center como a do PSC.  Todas as negociações são listadas com base na data mais recente recebida ou criada com as informações do cliente e o tipo de negócio. A primeira negociação na exibição é selecionada por padrão. A maioria dos valores exibidos no formato de tabela do PSC está disponível na exibição de detalhes do negócio no PC.
-- A função de negócio não é um campo obrigatório no PC. Ele não é exibido nem capturado em nenhum dos fluxos de trabalho. Ele é derivado automaticamente no lado do vendedor da Microsoft com base nas soluções adicionadas ao negócio.
-- A data da última modificação não é exibida na página de detalhes de referência no PC. Os parceiros podem usar a funcionalidade de classificação para classificar as negociações com base na data da última atualização.
+- Não há nenhuma exibição de lista Partner Center como a do PSC.  Todas as negociações são listadas com base na data mais recente recebida ou criada com as informações do cliente e o tipo da oferta. A primeira oferta na exibição é selecionada por padrão. A maioria dos valores exibidos no formato de tabela PSC está disponível na exibição detalhada da oferta no PC.
+- A função deal não é um campo obrigatório no PC. Ele não é exibido ou capturado em nenhum dos fluxos de trabalho. Ele é derivado automaticamente no lado do vendedor da Microsoft com base nas soluções adicionadas à oferta.
+- A data da última modificação não é exibida na página de detalhes da indicação no PC. Os parceiros podem usar a funcionalidade de classificação para classificar as negociações com base na data da última atualização.
 
 ### <a name="3---psc-deal-details-view-mapped-to-partner-center"></a>3-modo de exibição de detalhes de acordo com o PSC mapeado para o Partner Center
 
@@ -288,30 +282,30 @@ Compare os círculos correspondentes numerados na captura de tela superior (PSC)
 >[!Note]
 >Qualquer negociação marcada como ganha ou perdida não pode ser editada posteriormente. Tenha cuidado ao mover um negócio para um desses Estados de terminal.
 
-### <a name="4---psc-add-products-view-mapped-to-the-partner-center-add-solutions-view"></a>4-a exibição ' Adicionar produtos ' do PSC está mapeada para a exibição ' Adicionar soluções ' do Partner Center
+### <a name="4---psc-add-products-view-mapped-to-the-partner-center-add-solutions-view"></a>4 - Exibição "Adicionar Produtos" do PSC mapeada para a exibição Partner Center "Adicionar soluções"
 
-Compare os círculos correspondentes numerados na captura de tela superior (PSC) com a captura de tela do Partner Center abaixo dele. Os números correspondentes mostram onde você pode encontrar o recurso ou atributo relacionado ao PSC no Partner Center. Círculos vermelhos indicam que não há nenhum campo ou área correspondente no Partner Center.
+Compare os círculos numerados correspondentes na captura de tela superior (PSC) com a Partner Center de tela abaixo dela. Os números correspondentes mostram onde você pode encontrar o recurso ou atributo relacionado ao PSC Partner Center. Círculos vermelhos indicam que não há campo ou área correspondente Partner Center.
   
-:::image type="content" source="images/pscmigration/products.png" alt-text="Imagem mostrando os mapeamentos de campo entre a exibição Adicionar produtos do PSC (Partner Sales Connect) e o modo de exibição Adicionar soluções do Partner Center." lightbox="images/pscmigration/products-expanded.png":::
+:::image type="content" source="images/pscmigration/products.png" alt-text="Imagem mostrando os mapeamentos de campo entre o PSC (Partner Sales Connect) adicionar exibição de produtos e a exibição Partner Center adicionar soluções." lightbox="images/pscmigration/products-expanded.png":::
 
-### <a name="5---user-management-in-psc-versus-partner-center"></a>5-gerenciamento de usuário no PSC versus Partner Center
+### <a name="5---user-management-in-psc-versus-partner-center"></a>5 - Gerenciamento de usuários no PSC versus Partner Center
 
-Compare os círculos correspondentes numerados na captura de tela superior (PSC) com a captura de tela do Partner Center abaixo dele. Os números correspondentes mostram onde você pode encontrar o recurso ou atributo relacionado ao PSC no Partner Center. Círculos vermelhos indicam que não há nenhum campo ou área correspondente no Partner Center.  
+Compare os círculos numerados correspondentes na captura de tela superior (PSC) com a Partner Center de tela abaixo dela. Os números correspondentes mostram onde você pode encontrar o recurso ou atributo relacionado ao PSC Partner Center. Círculos vermelhos indicam que não há campo ou área correspondente Partner Center.  
 
- :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Imagem mostrando os mapeamentos de campo entre a página de gerenciamento de usuário do PSC (Partner Sales Connect) e o modo de exibição de usuário do Partner Center na área de configurações da conta."  lightbox="images/pscmigration/user-management-expanded.png":::
+ :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Imagem mostrando os mapeamentos de campo entre a página inicial de gerenciamento de usuários do PSC (Partner Sales Connect) e a exibição Partner Center Página de gerenciamento de usuários na área Configurações da conta."  lightbox="images/pscmigration/user-management-expanded.png":::
 
-### <a name="6---user-role-assignment-in-psc-versus-partner-center"></a>6-atribuição de função de usuário no PSC versus Partner Center
+### <a name="6---user-role-assignment-in-psc-versus-partner-center"></a>6 - Atribuição de função de usuário no PSC versus Partner Center
 
-Compare os círculos correspondentes numerados na captura de tela superior (PSC) com a captura de tela do Partner Center abaixo dele. Os números correspondentes mostram onde você pode encontrar o recurso ou atributo relacionado ao PSC no Partner Center. Círculos vermelhos indicam que não há nenhum campo ou área correspondente no Partner Center.  
+Compare os círculos numerados correspondentes na captura de tela superior (PSC) com a Partner Center de tela abaixo dela. Os números correspondentes mostram onde você pode encontrar o recurso ou atributo relacionado ao PSC Partner Center. Círculos vermelhos indicam que não há campo ou área correspondente Partner Center.  
 
-:::image type="content" source="images/pscmigration/roles.png" alt-text="Imagem que mostra os mapeamentos de campo entre o modo de exibição de atribuição de função do PSC (Partner Sales Connect) e a exibição de atribuição de função do Partner Center." lightbox="images/pscmigration/roles-expanded.png":::
+:::image type="content" source="images/pscmigration/roles.png" alt-text="Imagem mostrando os mapeamentos de campo entre a exibição de atribuição de função do PSC (Partner Sales Connect) e a exibição Partner Center de atribuição de função." lightbox="images/pscmigration/roles-expanded.png":::
 
 **Considerações especiais:**
 
-- A função equivalente para o administrador do PSC é a função de administrador da conta no Partner Center.
-- Há apenas uma função no Partner Center para gerenciamento de negociações de venda. Essa função é a função de administrador de referência.
+- A função equivalente para o administrador do PSC é a função de administrador da conta Partner Center.
+- Há apenas uma função no Partner Center para o gerenciamento de negociações de venda em cooperação. Essa função é a função de administrador de indicação.
 
-### <a name="7---notifications-in-psc-versus-partner-center"></a>7-notificações no PSC versus Partner Center
+### <a name="7---notifications-in-psc-versus-partner-center"></a>7 - Notificações no PSC versus Partner Center
 
 Compare os círculos correspondentes numerados na captura de tela superior (PSC) com a captura de tela do Partner Center abaixo dele. Os números correspondentes mostram onde você pode encontrar o recurso ou atributo relacionado ao PSC no Partner Center. Círculos vermelhos indicam que não há nenhum campo ou área correspondente no Partner Center.  
 
@@ -335,33 +329,33 @@ O [administrador da conta](permissions-overview.md#manage-mpn-membership-and-you
 
 Isso só ocorrerá se não houver soluções prontas para venda coexistentes conectadas à organização MPN que você está usando no Partner Center. Entre em contato com o PDM para obter a ID do MPN de suas soluções corrigidas ou criar um tíquete de suporte mencionando o problema, "novo botão de negociação esmaecido após a migração do PSC".
 
-### <a name="4---can-i-assign-deals-to-a-specific-person-from-our-organization-like-psc"></a>4-posso atribuir negociações a uma pessoa específica de nossa organização, como o PSC?
+### <a name="4---can-i-assign-deals-to-a-specific-person-from-our-organization-like-psc"></a>4 - Posso atribuir acordos a uma pessoa específica de nossa organização, como PSC?
 
-Você pode atribuir membros da equipe a um negócio específico. Ele não impede que outros administradores de referência exibam ou atuem nessas negociações.
+Você pode atribuir membros da equipe a um negócio específico. Ele não bloqueia a exibição ou a ação de outros administradores de indicações nessas negociações.
 
-### <a name="5---is-there-a-view-of-all-the-deals-assigned-to-me"></a>5-há uma exibição de todas as negociações atribuídas a mim?
+### <a name="5---is-there-a-view-of-all-the-deals-assigned-to-me"></a>5 - Há uma exibição de todos os acordos atribuídos a mim?
 
-Você pode usar o recurso favoritos, que é uma guia no nível do usuário. Você pode marcar todas as negociações atribuídas a você como favoritos para obter acesso rápido às negociações.
+Você pode usar o recurso favoritos, que é uma guia no nível do usuário. Você pode marcar todas as negociações atribuídas a você como favoritos para obter um acesso rápido às negociações.
 
-### <a name="6---is-there-a-read-only-view-for-the-deals"></a>6-há uma exibição somente leitura para as negociações?
+### <a name="6---is-there-a-read-only-view-for-the-deals"></a>6 - Há uma exibição somente leitura para as negociações?
 
-Não, não há nenhuma exibição somente leitura das negociações na seção referências. Todos os administradores de referência terão acesso completo de leitura e gravação a todas as negociações.
+Não, não há nenhuma exibição somente leitura dos acordos na seção de indicações. Todos os administradores de indicação terão acesso completo de leitura e gravação a todas as ofertas.
 
-### <a name="7---how-can-i-register-a-deal-after-marking-it-as-won"></a>7-como posso registrar um negócio depois de marcá-lo como ganho?
+### <a name="7---how-can-i-register-a-deal-after-marking-it-as-won"></a>7 - Como posso registrar um negócio depois de marcar como ganho?
 
-Se o negócio atender aos critérios abaixo, vamos exibir um pop-up para iniciar o [registro de negociações](./register-deals.md).
+Se o acordo atender aos critérios abaixo, exibiremos um pop-up para iniciar o [registro de negociação.](./register-deals.md)
 
-- Há uma solução qualificada de incentivo anexada ao negócio.
-- O vendedor da Microsoft é convidado para participar do negócio ou convidou você para o negócio.
-- O cartão da Microsoft está no estado aceito ou ganho no Partner Center.
+- Há uma solução qualificada para incentivos anexada à oferta.
+- O vendedor da Microsoft é convidado a participar da negociação ou ele o convida para a oferta.
+- O cartão da Microsoft está no estado Aceito ou Ganho Partner Center.
 
-### <a name="8---i-get-an-error-message-when-i-select-the-new-deal-registration-button-in-the-deal-registration-section-how-can-i-register-my-deals"></a>8-recebo uma mensagem de erro quando seleciono o botão "+ novo registro de negociações" na seção registro de negociações. Como posso registrar minhas negociações?
+### <a name="8---i-get-an-error-message-when-i-select-the-new-deal-registration-button-in-the-deal-registration-section-how-can-i-register-my-deals"></a>8 - Eu receber uma mensagem de erro ao selecionar o botão "+Novo registro de oferta" na seção Registro de Oferta. Como posso registrar minhas ofertas?
 
-O botão **+ novo registro de negociação** é usado somente pelos parceiros registrados no programa ISV Connect para registrar um negócio sem nenhuma oportunidade de venda correspondente no Partner Center. Para o registro de negócios com uma oportunidade de venda conjunta, um pop-up será exibido quando o negócio for marcado como ganho e se atender aos critérios para o registro de negociações.
+O **botão +Novo** registro de oferta deve ser usado somente pelos parceiros registrados no programa ISV Connect para registrar um negócio sem oportunidade de venda de venda correspondente no Partner Center. Para registrar acordos com uma oportunidade de venda em cooperação, um pop-up será exibido quando o negócio for marcado como ganho e se ele atender aos critérios de registro de negociação.
 
-### <a name="9---is-adding-a-customer-organization-mandatory"></a>9-está adicionando uma organização de cliente obrigatória?
+### <a name="9---is-adding-a-customer-organization-mandatory"></a>9 - A adição de uma organização do cliente é obrigatória?
 
-Sim, adicionar uma [organização do cliente](./manage-co-sell-opportunities.md#select-your-customer) é obrigatório no Partner Center. Primeiro, comece pesquisando o local onde o cliente é o local. Com base nos detalhes que você tem; Você pode ser específico, incluindo o nome exato da construção ou apenas fornecer detalhes da cidade. A pesquisa da organização buscará todas as entidades legais que correspondem ao nome inserido para que você não precise inserir os detalhes do endereço. Todos os detalhes são preenchidos automaticamente com base na organização selecionada.
+Sim, a adição [de uma organização do](./manage-co-sell-opportunities.md#select-your-customer) cliente é obrigatória Partner Center. Primeiro, comece pesquisando o local em que o cliente está localizado. Com base nos detalhes que você tem; Você pode ser específico, incluindo o nome exato da construção ou apenas fornecer detalhes da cidade. A pesquisa da organização buscará todas as entidades legais que correspondem ao nome inserido para que você não precise inserir os detalhes do endereço. Todos os detalhes são preenchidos automaticamente com base na organização selecionada.
 
 ### <a name="10---are-customer-contact-details-mandatory"></a>10-os detalhes de contato do cliente são obrigatórios?
 
@@ -377,30 +371,30 @@ Os vendedores da Microsoft são atribuídos somente depois de corresponder ao re
 
 ### <a name="13---where-can-i-find-the-opportunity-id"></a>13-onde posso encontrar a ID da oportunidade?
 
-A ID da oportunidade no PSC é igual à ID do negócio no PC. Você pode encontrar a ID do negócio ao lado do nome da negociação ao abrir qualquer negócio.
+A ID da oportunidade no PSC é a mesma que a ID de negociação no PC. Você pode encontrar a ID da negociação ao lado do nome da negociação ao abrir qualquer acordo.
 
-### <a name="14---how-can-my-pdm-get-access-to-pc"></a>14-como meu PDM pode obter acesso ao PC?
+### <a name="14---how-can-my-pdm-get-access-to-pc"></a>14 - Como meu PDM pode obter acesso ao PC?
 
-O Partner Center não pode ser acessado pelo PDMs diretamente ao contrário do PSC. Há várias opções para habilitar esse recurso, que são mencionados abaixo.
+Partner Center pode ser acessado por seus PDMs diretamente ao contrário do PSC. Há várias opções para habilitar essa funcionalidade, que são mencionadas abaixo.
 
-- Provisões do OCP – se PDMs estiver apenas exibindo as negociações e o progresso relacionados a elas, eles poderão usar o portal do insights OCP para obter a exibição da sua organização. Essa é uma ferramenta interna e só está disponível para PDMs. Observe que o OCP insights não está disponível para os usuários da sua empresa.
-- Usuário convidado no Partner Center-você pode adicionar sua conta do PDM @microsoft.com como um usuário convidado no Partner Center e atribuir a função de administrador de referência a eles para que eles possam exibir e agir em referências.
-- Criando um [novo usuário](./create-user-accounts-and-set-permissions.md#add-a-new-user) em seu locatário-você pode criar um novo usuário em seu próprio locatário e compartilhar esses detalhes com o PDM para que eles possam exibir e agir em referências semelhantes a outros usuários de referência em sua conta.
+- Insights do OCP – se os PDMs estão apenas exibindo os acordos e o progresso relacionados a eles, eles podem usar o portal do OCP Insights para obter a exibição da sua organização. Essa é uma ferramenta interna e está disponível apenas para PDMs. Observe que os insights do OCP não estão disponíveis para os usuários da sua empresa.
+- Usuário convidado no Partner Center – você pode adicionar sua conta pdm como um usuário convidado no partner center e atribuir a ele a função de administrador de indicação para que ele possa exibir e agir em @microsoft.com indicações.
+- Criando [um](./create-user-accounts-and-set-permissions.md#add-a-new-user) novo usuário em seu locatário – você pode criar um novo usuário em seu próprio locatário e compartilhar esses detalhes com o PDM para que ele possa exibir e agir em indicações semelhantes a outros usuários de indicação em sua conta.
 
-## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>Encontrando a ID de MPN correta se sua conta no PSC não estiver associada a um MPN válido
+## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>Localizar a ID do MPN correta se sua conta no PSC não estiver associada a um MPN válido
 
-Se você estiver aqui porque viu uma faixa no PSC mencionando "problema de associação de ID de MPN inválido do PSC", você está no lugar certo. Sua conta pode ter sido vinculada a uma ID de MPN inválida devido aos seguintes motivos
+Se você estiver aqui porque viu uma faixa no PSC mencionando 'Problema de associação de ID de MPN inválida do PSC', você está no lugar certo. Sua conta pode ter sido vinculada a uma ID de MPN inválida devido aos seguintes motivos
 
-- Sua empresa não tem uma conta do Partner Center.
-- Seu PDM cometeu um erro ao inserir a ID de MPN da sua conta nos sistemas internos que vinculam sua conta do PSC à sua conta do Partner Center (MPNID).
-- Sua empresa não concluiu a migração do Partner Association Center (PMC) para o PC.
+- Sua empresa não tem uma conta Partner Center conta.
+- Seu PDM errou ao inserir a ID do MPN de sua conta nos sistemas internos que vinculam sua conta PSC à sua conta Partner Center (MPNID).
+- Sua empresa não concluiu a migração Partner Membership Center (PMC) para PC.
 
-Primeiro, localize a ID de MPN correta seguindo as etapas abaixo
+Primeiro, encontre a ID do MPN correta seguindo as etapas abaixo
 
-- Faça logon em sua conta do Partner Center
-- Use as diretrizes fornecidas na [documentação de configurações de conta](./partner-center-account-setup.md#locate-your-mpn-id) para localizar a ID de MPN.
+- Faça logoff em sua Partner Center conta
+- Use as diretrizes fornecidas na [documentação de configurações da conta](./partner-center-account-setup.md#locate-your-mpn-id) para localizar a ID do MPN.
 
-Veja abaixo uma captura de tela mostrando o local exato onde você pode encontrar a ID do MPN do Partner Center
+Abaixo está uma captura de tela mostrando o local exato em que você pode encontrar sua ID Partner Center MPN
 
 :::image type="content" source="images/pscmigration/findingMPNID.png" alt-text="Imagem mostrando as configurações de conta em que o parceiro pode encontrar sua ID de MPN."  lightbox="images/pscmigration/findingMPNID.png":::
 
@@ -429,6 +423,6 @@ Se você ainda não leu os tópicos de ajuda de venda conjunta, os recursos a se
 
 
 - [Vendas de parceiros Conecte-se à pasta de trabalho do Partner Center](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) -pasta de trabalho para alinhar os processos de vendas e as funções dos parceiros com novos processos de vendas por meio do Partner Center versus parceiros de vendas.
-- [Guia de operações de covenda do Partner Center](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) -orientação para identificar um modelo operacional por meio do Partner Center para gerenciar clientes potenciais ou vender oportunidades de venda e registro de negócios.
-- [Gerenciamento de referências deck](https://partner.microsoft.com/resources/detail/referral-management-in-partner-center-pptx) -instruções passo a passo para gerenciar clientes potenciais e comercializar oportunidades por meio do Partner Center.
-- [Publicação e gerenciamento no Marketplace comercial](https://partner.microsoft.com/resources/detail/publishing-and-managing-co-sell-offers-in-commercial-marketplace-pptx) – instruções passo a passo visualizadas para criar, gerenciar e publicar ofertas por meio do Partner Center no mercado comercial.
+- [Partner Center](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) guia operacional de venda em cooperação – diretrizes para identificar um modelo operacional por meio do Partner Center para gerenciar oportunidades de venda ou venda em cooperação e registrar ofertas.
+- [Baralho de gerenciamento de](https://partner.microsoft.com/resources/detail/referral-management-in-partner-center-pptx) indicações – instrução passo a passo visualizada para gerenciar leads e oportunidades de venda co-venda por meio Partner Center.
+- [Publicação e gerenciamento](https://partner.microsoft.com/resources/detail/publishing-and-managing-co-sell-offers-in-commercial-marketplace-pptx) no marketplace comercial – instrução passo a passo visualizada para criar, gerenciar e publicar ofertas por meio de Partner Center no marketplace comercial.

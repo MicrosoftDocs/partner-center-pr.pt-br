@@ -1,45 +1,42 @@
 ---
-title: Problemas conhecidos do recepções do Partner Center
+title: Partner Center insights conhecidos
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Leia sobre todos os problemas conhecidos associados aos relatórios de PCI (Partner Center insights). As informações podem incluir problemas de renderização conhecidos ou limitações de relatórios.
+description: Leia sobre os problemas conhecidos associados aos relatórios Partner Center Insights (PCI). As informações podem incluir problemas conhecidos de renderização ou limitações de relatórios.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5ca9a00c5eafcbc155df20b08269cefd93c14d3
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 9c85ff428fd6ffb6ced38be16f4bd163c2b0b548
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086865"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855209"
 ---
-# <a name="partner-insights--frequently-asked-questions"></a>Informações do parceiro – perguntas frequentes
+# <a name="partner-insights--frequently-asked-questions"></a>Partner Insights – Perguntas frequentes
 
-**Funções apropriadas**
+**Funções apropriadas:** visualizador de relatório | Visualizador de relatório executivo
 
-- Visualizador de relatórios
-- Visualizador de relatórios executivos
+Este artigo aborda problemas conhecidos para exibir ou renderizar relatórios associados ao Insights.
 
-Este artigo aborda problemas conhecidos para exibir ou renderizar relatórios associados a informações.
+P) **Não vejo o hub insights em minha conta Partner Center dados. O que devo fazer?**
 
-P) **não vejo o Hub de informações em minha conta do Partner Center. O que devo fazer?**
+A) Certifique-se de que você fez logon na conta do MPN da sua organização. Você não pode acessar o painel insights de sua conta do CSP. Além disso, verifique se você foi fornecido acesso à função Visualizador de Relatório ou Visualizador de Relatório Executivo pelo administrador global.  Para obter mais informações sobre funções, consulte [este artigo](./pci-roles.md).
 
-A) Verifique se você fez logon na conta do MPN para sua organização. Você não pode acessar o painel de informações de sua conta do CSP. Além disso, verifique se você forneceu o Visualizador de relatórios ou o acesso de função do Visualizador de relatórios executivos por seu administrador global.  Para obter mais informações sobre funções, consulte [Este artigo](./pci-roles.md).
+P) Não consigo ver os dados de Receita Cobrada **ou Receita Consumida do Azure (ACR) em meus relatórios. Por que isso é?**
 
-P) **não consigo ver a receita cobrada ou os dados de receita consumida do Azure (ACR) em meus relatórios. Por quê?**
+A) Os dados de Receita Cobrada e ACR estão disponíveis somente para usuários que são Visualizadores de Relatório Executivo.  Para obter mais informações sobre funções, consulte [este artigo](./pci-roles.md).
 
-A) a receita cobrada e os dados de ACR estão disponíveis somente para usuários que são visualizadores de relatórios executivos.  Para obter mais informações sobre funções, consulte [Este artigo](./pci-roles.md).
+P) Não consigo ver os dados de Receita Cobrada **ou Receita Consumida do Azure (ACR) em meus relatórios. Por que isso é?**
 
-P) **não consigo ver a receita cobrada ou os dados de receita consumida do Azure (ACR) em meus relatórios. Por quê?**
+A) Os dados de Receita Cobrada e ACR estão disponíveis somente para usuários que são Visualizadores de Relatório Executivo. Para obter mais informações sobre funções, consulte [este artigo](./pci-roles.md).
 
-A) a receita cobrada e os dados de ACR estão disponíveis somente para usuários que são visualizadores de relatórios executivos. Para obter mais informações sobre funções, consulte [Este artigo](./pci-roles.md).
+P) **O país relatado para meu cliente parece estar incorreto. Por que isso é?**
 
-P) **o país relatado para meu cliente parece estar incorreto. Por quê?**
-
-A) o país do cliente é derivado do país da organização global pai desse cliente. Este país pode ser diferente do país do cliente com quem você pode ter transacionado. Portanto, o país relatado pelo cliente pode ser diferente do que você espera que seja.
+R) O país do cliente é derivado do país da organização pai global desse cliente. Esse país pode ser diferente do país do cliente com o qual você pode ter transacionado. Portanto, o país relatado pelo cliente pode ser diferente do que você espera que seja.
 
 P) vejo **que alguns nomes de clientes estão ofuscados nos relatórios. É esperado?**
 

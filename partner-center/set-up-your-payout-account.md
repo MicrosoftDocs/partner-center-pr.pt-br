@@ -7,19 +7,16 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 8f680753216ea9cd515c8082495b390c7bf95a62
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 255ae28af5b29645b06ad0ae6a1f9660ad334c3c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702800"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854836"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurar sua conta de pagamento e formulários de imposto
 
-**Funções apropriadas**
-
-- Administrador de conta
-- Administrador global
+**Funções apropriadas:** conta de administrador | Administrador global
 
 Para receber dinheiro de vendas de ofertas no Marketplace comercial, você precisa configurar sua conta de pagamento e preencher os formulários de impostos necessários no [Partner Center](https://partner.microsoft.com/dashboard).
 
@@ -34,20 +31,20 @@ Depois de configurar a conta, há duas coisas que você precisa fazer para poder
 - [Configurar sua conta de pagamento](#payout-account)
 
 > [!NOTE]
-> Para obter detalhes sobre como e quando você será pago pelo dinheiro que sua oferta faz, consulte [sendo pago no mercado comercial](marketplace-get-paid.md).
+> Para obter detalhes sobre como e quando você será pago pelo dinheiro que sua oferta ganhar, consulte [Sendo pago no marketplace comercial.](marketplace-get-paid.md)
 
 ## <a name="tax-forms"></a>Formulário de impostos
 
-Você gerencia seu perfil de imposto e os formulários de impostos na página **pagamento e imposto** do Partner Center. As permissões de sua organização determinarão os perfis e as informações que você vê.
+Gerencie seu perfil fiscal e formulários de imposto na **página Pagamento** e imposto do Partner Center. As permissões da sua organização determinarão os perfis e as informações que você vê.
 
 ### <a name="create-or-update-your-tax-profile"></a>Criar ou atualizar seu perfil de imposto
 
-Primeiro, você precisa criar um perfil de imposto e atribuí-lo aos programas de que participa. Use as etapas a seguir para criar ou atualizar seu *perfil de imposto* no Partner Center. Você pode concluir e enviar seus formulários de impostos eletronicamente no painel do Partner Center; na maioria dos casos, você não precisa imprimir e enviar nenhum formulário.
+Primeiro, você precisa criar um perfil de imposto e atribuí-lo aos programas de que participa. Use as etapas a seguir para criar ou atualizar seu perfil *de imposto* no Partner Center. Você pode concluir e enviar seus formulários de imposto eletronicamente no painel de Partner Center; na maioria dos casos, você não precisa imprimir nem enviar formulários por email.
 
 > [!IMPORTANT]
 > Países e regiões diferentes têm requisitos de impostos diferentes. O valor exato que você deve pagar em impostos depende dos países e das regiões em que vende suas ofertas. Confira o [Contrato de fornecedor do Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560) para descobrir em quais países/regiões a Microsoft retém e usa impostos em seu nome. Em outros países/regiões, dependendo de onde você está registrado, talvez seja necessário pagar impostos sobre vendas e sobre o consumo de suas ofertas de venda diretamente para a autoridade tributária local. Além disso, os lucros sobre as vendas de aplicativos que você recebe podem ser tributáveis como renda. Recomendamos que você entre em contato com a autoridade pertinente do seu país ou sua região para ajudá-lo a determinar as informações de impostos incidentes sobre suas atividades de marketplace comercial.
 
-1. No [painel do Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **configurações** no canto superior direito e, em seguida, **configurações da conta**.
+1. No painel [Partner Center ,](https://partner.microsoft.com/dashboard)selecione  o ícone de engrenagem Configurações no canto superior direito e, em seguida, **Configurações da conta**.
 
 2. No menu de navegação à esquerda, selecione **Pagamento e imposto** e selecione **Atribuições de pagamento e imposto**.
 
@@ -55,7 +52,7 @@ Primeiro, você precisa criar um perfil de imposto e atribuí-lo aos programas d
 
 4. Se você quiser usar um perfil fiscal existente, selecione-o na lista suspensa. Caso contrário, selecione **Criar perfil** e pressione **Enviar**. Você será levado para a página de perfis fiscais.
 
-5. Selecione o botão **Editar** para editar suas informações de imposto.
+5. Selecione o **botão Editar** para editar suas informações fiscais.
 
 6. Selecione o botão de opção apropriado e, caso seja solicitado, selecione seu país/sua região. Esta etapa determina a pessoa jurídica da Microsoft que será usada para fazer pagamentos em sua conta.
 
@@ -84,7 +81,7 @@ Uma conta de pagamento é a conta bancária para onde enviamos os rendimentos de
 
 ### <a name="create-a-payment-profile"></a>Criar um perfil de pagamento
 
-1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **configurações** no canto superior direito e, em seguida, **configurações de conta**.
+1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o **ícone de engrenagem** Configurações no canto superior direito e, em seguida, **Configurações da conta**.
 2. Embaixo do cabeçalho *Pagamento e imposto*, selecione **Atribuição de perfil de pagamento e imposto**.
 
     > [!NOTE]
@@ -92,7 +89,7 @@ Uma conta de pagamento é a conta bancária para onde enviamos os rendimentos de
 
 3. Selecione a forma de pagamento que você deseja configurar.
 
-4. Selecione um perfil de pagamento existente ou selecione **criar um novo perfil de pagamento** para criar um novo perfil para o método de pagamento escolhido.
+4. Selecione um perfil de pagamento existente ou selecione **Criar um novo perfil de pagamento** para criar um novo perfil para a forma de pagamento escolhida.
 
 ### <a name="create-a-bank-based-payment-profile"></a>Criar um perfil de pagamento bancário
 
@@ -112,7 +109,7 @@ Se optou por usar uma conta bancária para receber pagamentos, você concluirá 
 
 5. Você precisará selecionar um perfil de pagamento para cada programa do qual participa, mas pode usar o mesmo perfil em vários programas.
 
-6. Selecione Enviar para salvar as alterações.
+6. Selecione Enviar para salvar suas alterações.
 
    > [!NOTE]
    > A Microsoft pode levar até 48 horas para validar as informações em seu perfil. Quando esse processo for concluído, o *status de verificação* aparecerá como **Concluído**
@@ -127,14 +124,14 @@ Para ter certeza de que seu pagamento será bem-sucedido, verifique se:
 
 Você poderá editar os perfis de pagamento existentes se precisar fazer alterações ou corrigir informações incorretas.
 
-1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **configurações** no canto superior direito e, em seguida,  **configurações de conta**.
+1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o **ícone de engrenagem** Configurações no canto superior direito e, em seguida,  **Configurações da conta**.
 
 2. Embaixo do cabeçalho *Pagamento e imposto*, selecione **Perfis de pagamento e imposto**.
 
-3. Seus perfis de pagamento serão listados junto com o status. Localize o perfil que você deseja editar e selecione **Editar** na extrema direita
+3. Seus perfis de pagamento serão listados junto com o status. Encontre o perfil que você deseja editar e selecione **Editar** na extrema direita
 
 > [!IMPORTANT]
-> A alteração da conta de pagamento pode atrasar os pagamentos em até um ciclo de pagamento. Esse atraso ocorre porque precisamos confirmar a alteração da conta, como fizemos na primeira configuração da conta de pagamento. Você ainda receberá o valor total após a verificação de sua conta; os pagamentos atrasados do ciclo de pagamento atual serão adicionados ao próximo. Confira [a obtenção de pagamento no mercado comercial](marketplace-get-paid.md)para obter mais informações.
+> A alteração da conta de pagamento pode atrasar os pagamentos em até um ciclo de pagamento. Esse atraso ocorre porque precisamos confirmar a alteração da conta, como fizemos na primeira configuração da conta de pagamento. Você ainda receberá o valor total após a verificação de sua conta; os pagamentos atrasados do ciclo de pagamento atual serão adicionados ao próximo. Consulte [Getting paid in the commercial marketplace (Recebendo pagamento no marketplace comercial)](marketplace-get-paid.md)para obter mais informações.
 
 ### <a name="paypal-info"></a>Informações de PayPal
 
@@ -204,7 +201,7 @@ Se optou por usar uma conta bancária para receber pagamentos, você concluirá 
 3. Forneça os detalhes do beneficiário.
 4. De volta à página *Atribuição de perfil*, selecione a moeda que você gostaria de usar ao emitir seus pagamentos.
 5. Você precisará selecionar um perfil de pagamento para cada programa do qual participa, mas pode usar o mesmo perfil em vários programas.
-6. Selecione Enviar para salvar as alterações.
+6. Selecione Enviar para salvar suas alterações.
 
 ## <a name="next-steps"></a>Próximas etapas
 

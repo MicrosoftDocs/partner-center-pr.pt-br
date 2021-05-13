@@ -8,21 +8,16 @@ description: Veja o que você está fazendo bem e onde você pode melhorar a res
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 2292e9640224a2bdf333cb8ddb0e2245f34564e9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: c4bf8a3aa0365b30d7de56cb599e3db087cb4c05
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086712"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855175"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de uso de equipes disponível no painel do Partner Center insights
 
-**Funções apropriadas**
-
-- Administrador global
-- Agente administrativo
-- Visualizador de relatórios
-- Visualizador de relatórios executivos
+**Funções apropriadas**: Administração Global | Agente de administração | Visualizador de relatórios | Visualizador de relatórios executivos
 
 O relatório uso de equipes apresenta métricas relacionadas às suas cargas de trabalho de equipes que você vendeu ou gerencia para seus clientes. Você pode exibir as seções a seguir no relatório uso de equipes.
 

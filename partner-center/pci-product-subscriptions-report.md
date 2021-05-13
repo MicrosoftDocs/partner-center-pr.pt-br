@@ -9,21 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 019e489b4738515639bf181591dfbc671e1b795d
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 89806b08485bc4bd286c2e14a19924ca0e281b6d
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086185"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854461"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de assinaturas do produto disponível no painel do recepções do Partner Center
 
-**Funções apropriadas**
-
-- Administrador global
-- Agente administrativo
-- Visualizador de relatórios
-- Visualizador de relatórios executivos
+**Funções apropriadas**: Administração Global | Agente de administração | Visualizador de relatórios | Visualizador de relatórios executivos
 
 O relatório de assinaturas de produtos apresenta análises sobre assinaturas de nuvem que você vendeu ou que você gerencia para seus clientes. Este é um relatório específico do produto que inclui o desempenho de assinaturas associadas a produtos de nuvem, como o Office 365, o Azure, o Dynamics e outros.
 
@@ -50,28 +45,28 @@ Para obter mais informações sobre cada seção do resumo, consulte abaixo:
 - Assinaturas:
   - Contagem atual das assinaturas de produtos de nuvem vendidas ou gerenciadas por você.
   - Percentual de crescimento ou declínio de assinaturas durante o intervalo de datas selecionado.
-  - O micro Chart apresenta uma tendência do mês a mês da contagem de assinaturas durante o intervalo de datas selecionado.
+  - O micro gráfico apresenta uma tendência mensal da contagem de assinaturas durante o intervalo de datas selecionado.
 
 - Assinaturas ativas:
-  - Contagem atual de assinaturas de produtos de nuvem com uso ativo medido com base na telemetria do produto. Isso exclui todas as assinaturas de avaliação no caso de assinaturas do Azure.
-  - Percentual de crescimento ou declínio de assinaturas ativas no período de tempo selecionado.
-  - O micro Chart apresenta uma tendência de mês a mês de assinaturas ativas durante o intervalo de datas selecionado.
+  - Contagem atual de assinaturas de produtos de nuvem com Uso ativo medido com base na telemetria do produto. Isso exclui todas as assinaturas de avaliação no caso de assinaturas do Azure.
+  - Percentual de crescimento ou redução de assinaturas ativas durante o período selecionado.
+  - O micro gráfico apresenta uma tendência mensal de assinaturas ativas durante o intervalo de datas selecionado.
 
 - Assinaturas adicionadas:
-  - Total de assinaturas de cliente adicionadas (vendidas ou gerenciadas) por você durante o intervalo de datas selecionado. Novas assinaturas com estado **ativo** ou **renovado** são contadas como assinaturas adicionadas.
-  - Percentual de crescimento ou declínio de assinaturas adicionadas no último mês inteiro em comparação com o primeiro mês inteiro.
-  - O micro Chart apresenta uma tendência mensal de assinaturas adicionadas durante o intervalo de datas selecionado.
+  - Total de assinaturas do cliente adicionadas (vendidas ou gerenciadas) por você durante o intervalo de datas selecionado. Novas assinaturas com **estado Ativo** **ou Renovado** são contadas como Assinaturas adicionadas.
+  - Percentual de crescimento ou redução de assinaturas adicionadas no último mês completo em comparação com o primeiro mês completo.
+  - O micro gráfico apresenta uma tendência mensal de assinaturas adicionadas durante o intervalo de datas selecionado.
 
-- Assinaturas com variação:
-  - Total de assinaturas de cliente em variação durante o intervalo de datas selecionado. As assinaturas com o estado **desprovisionado** ou **suspenso** nesse mês são contadas como uma assinatura com rotatividade.  
-  - Porcentagem de assinaturas com variação durante o intervalo de datas selecionado.
-  - O micro Chart apresenta uma tendência mensal de assinaturas com variação no intervalo de datas selecionado.
+- Assinaturas rotativas:
+  - Total de assinaturas de cliente rotatividade durante o intervalo de datas selecionado. As assinaturas com estado **Desprovisionado** **ou Suspenso** nesse mês são contadas como uma assinatura rotatividade.  
+  - Percentual de assinaturas rotativas durante o intervalo de datas selecionado.
+  - O micro gráfico apresenta uma tendência mensal de assinaturas rotativas ao longo do intervalo de datas selecionado.
 
-- Assinaturas por produtos: divisão da contagem de assinaturas atual por produtos de nuvem.
+- Assinaturas por produtos: detalhamento da contagem de assinaturas atual por produtos de nuvem.
 
-## <a name="geographical-spread-of-subscriptions"></a>Dispersão geográfica de assinaturas
+## <a name="geographical-spread-of-subscriptions"></a>Distribuição geográfica de assinaturas
 
-A exibição de **assinaturas por geografia** mostra a distribuição geográfica de assinaturas totais por mercados de clientes. O valor total da assinatura inclui assinaturas vendidas e assinaturas ativas.
+A **exibição Assinaturas por** geografia mostra a distribuição geográfica do total de assinaturas por mercados de clientes. O valor total da assinatura inclui assinaturas vendidas e assinaturas ativas.
 
 O **número de tabelas de países/** regiões apresenta o total de países/regiões em que você tem assinaturas e o valor por país do total e das assinaturas ativas.
 
@@ -89,30 +84,30 @@ O gráfico de colunas empilhadas apresenta uma divisão de assinaturas novas, ex
 
 ## <a name="subscription-distribution"></a>Distribuição de assinatura
 
-Essa exibição apresenta uma análise de suas assinaturas atuais por seus locais MPNs, segmentos de clientes, modelo de preços do Azure/canal de vendas e o tipo de atribuição (por exemplo, DPOR, DAP e outros). Selecione as respectivas guias para exibir a divisão por essas categorias. Para criar o gráfico de pizza com uma divisão de categorias de item específicas, selecione as categorias de item na legenda.
+Essa exibição apresenta uma análise de suas assinaturas atuais por seus locais MPNs, segmentos de clientes, modelo de preços do Azure/canal de vendas e o tipo de atribuição (por exemplo, DPOR, DAP e outros). Selecione as respectivas guias para exibir a divisão por essas categorias. Para criar o gráfico de pizza com um detalhamento de categorias de item específicas, selecione essas categorias de item na legenda.
 
 :::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="distribuição de assinatura":::
 
-## <a name="subscription-state-distribution"></a>Distribuição de estado de assinatura
+## <a name="subscription-state-distribution"></a>Distribuição de estado da assinatura
 
-Esta exibição mostra a distribuição de suas assinaturas de cliente atuais por estado de assinatura ou status. Isso inclui os seguintes Estados de assinatura: **ativo**, **desabilitado**, **desprovisionado**, **aberto**, **InGracePeriod**, **fechado** e **outros**.
+Essa exibição mostra a distribuição das assinaturas atuais do cliente por estado ou status da assinatura. Isso inclui os seguintes estados de assinatura: **Ativo,** Desabilitado, **Desprovisionado,** **Abrir**, **InGracePeriod,** **Fechado** e **Outros.**
 
-:::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="distribuição de estado de assinatura":::
+:::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="distribuição de estado da assinatura":::
 
 ## <a name="products-trend"></a>Tendência de produtos
 
-Esta exibição mostra um gráfico de barras e dois gráficos de pizza. O gráfico de barras apresenta uma tendência mensal de assinaturas divididas por produtos comerciais, como Azure, Office, Dynamics, etc.
+Esta exibição mostra um gráfico de barras e dois gráficos de pizza. O gráfico de barras apresenta uma tendência mensal de assinaturas divididas por produtos comerciais, como Azure, Office, Dynamics etc.
 
-Os dois gráficos de pizza mostram uma divisão de suas assinaturas de cliente atuais. O primeiro gráfico de pizza divide as assinaturas por produtos. O segundo gráfico de pizza divide as assinaturas por SKUs ou planos. Quando você seleciona um produto no gráfico de pizza divisão **por produtos** , o gráfico de pizza adjacente lhe mostrará uma análise das assinaturas do produto pelas SKUs.
+Os dois gráficos de pizza mostram um detalhamento das assinaturas atuais do cliente. O primeiro gráfico de pizza divide as assinaturas por produtos. O segundo gráfico de pizza divide as assinaturas por SKUs ou planos. Quando você seleciona um  produto no gráfico de pizza detalhamento por Produtos, o gráfico de pizza adjacente mostrará um detalhamento das assinaturas desse produto por SKUs.
 
 :::image type="content" source="images/pci/pci-sub-report-prods-trend-6.png" alt-text="tendência de produtos":::
 
 > [!NOTE]
- > A contagem de assinaturas dividida por SKUs pode nem sempre corresponder à contagem total de assinaturas para esse produto. Isso pode ocorrer se um cliente tiver comprado várias SKUs sob a mesma assinatura de produto.
+ > A contagem de assinaturas dividida por SKUs nem sempre pode corresponder à contagem total de assinaturas desse produto. Isso poderá ocorrer se um cliente tiver comprado vários SKUs na mesma assinatura do produto.
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- Para obter mais relatórios, consulte os [insights do Partner Center](partner-center-insights.md).
+- Para obter mais relatórios, [consulte Partner Center Insights.](partner-center-insights.md)
 
 >[!NOTE] 
-> Você pode baixar os dados brutos, capacitando esse relatório na seção baixar relatórios no painel do insights. [Saiba mais](pci-download-reports.md) 
+> Você pode baixar os dados brutos que agem neste relatório na seção Baixar Relatórios no painel Insights. [Saiba mais](pci-download-reports.md) 

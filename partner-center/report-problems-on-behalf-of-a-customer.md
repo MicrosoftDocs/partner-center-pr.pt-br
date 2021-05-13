@@ -9,32 +9,28 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f67a3b6a403f09cb773a5ca663d6cf6db1b03e2e
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: 6ba25d0bfc4796ca43d36bb34bf6d9e82889881c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018111"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855702"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Relatar um problema de serviço em nome de um cliente, incluindo quando e como fazer isso
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center | Partner Center para Microsoft Cloud do governo dos EUA
 
-- Partner Center do Microsoft Cloud for US Government
-
-**Funções apropriadas**
-
-- Administrador global
+**Funções apropriadas**: administrador global
 
 Se o seu cliente estiver enfrentando um problema de serviço que você não pode resolver e que atenda aos critérios descritos em [escalonar problemas para a Microsoft](escalate-problems-to-microsoft.md), seu provedor indireto poderá arquivar um tíquete de suporte para eles. Esse processo também é útil para encaminhar problemas ou controvérsias relativos a cobrança e preocupações com fraude.
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Envie uma solicitação de serviço por um cliente
 
-1. No menu do centro de parceiros, em CSP, selecione **clientes**
+1. A partir do Centro de parceiros em CSP, selecione **Clientes**
 
 2. Na página clientes, selecione ou pesquise o cliente desejado
     
-3. No menu cliente, selecione **solicitações de serviço**
+3. A partir do menu de cliente, selecione **Solicitações de serviço**
 
 4. Do menu suspenso **Nova solicitação**, selecione **Azure** ou **Office 365, Dynamics 365, Enterprise Mobility Suite**. Você será redirecionado para o portal do Microsoft Azure ou para o centro de administração do Office 365.
 
@@ -134,15 +130,15 @@ Não, o suporte ao telefone não é oferecido para este programa.
 
 Se você entrar no portal do Microsoft Azure diretamente, você está visualizando o centro em seu próprio contexto, não no contexto de um cliente. É por isso que você só deve entrar diretamente no portal do Microsoft Azure ao criar uma solicitação de serviço para suas próprias assinaturas.
 
-O direito de suporte do programa CSP não fornece suporte para sua própria assinatura de parceiro. Por isso, você precisa fornecer seu direito de plano de suporte válido ao criar uma solicitação de serviço que se preocupa com sua própria assinatura de parceiro. Os exemplos incluem ID do contrato MPN, Premier ou um plano de suporte do Azure. Para obter mais informações, consulte as [perguntas frequentes sobre o suporte do Azure](https://go.microsoft.com/fwlink/?LinkId=717532).
+O direito de suporte do programa CSP não fornece suporte em sua própria assinatura de Parceiro. Por isso, você precisa fornecer seu direito de plano de suporte válido ao criar uma solicitação de serviço que diz respeito à sua própria assinatura de Parceiro. Os exemplos incluem a ID do contrato do MPN, Premier ou um plano de suporte do Azure. Para obter mais informações, consulte [as Suporte do Azure perguntas frequentes.](https://go.microsoft.com/fwlink/?LinkId=717532)
 
-### <a name="what-happens-if-i-sign-into-the-office-365-admin-center-portal-and-bypass-partner-center"></a>O que acontece se eu entrar no portal do centro de administração do Office 365 e ignorar o Partner Center?
+### <a name="what-happens-if-i-sign-into-the-office-365-admin-center-portal-and-bypass-partner-center"></a>O que acontece se eu entrar no portal do centro de administração do Office 365 e ignorar Partner Center?
 
-Se você entrar no centro de administração do Office 365 diretamente, você está exibindo o centro em seu próprio contexto, não no contexto de um cliente. É por isso que você só deve assinar diretamente no centro de administração do Office 365 ao criar uma solicitação de serviço para suas próprias assinaturas.
+Se você entrar diretamente no centro de administração do Office 365, você exibirá o centro em seu próprio contexto, não no contexto de um cliente. É por isso que você só deve entrar diretamente no centro de administração do Office 365 ao criar uma solicitação de serviço para suas próprias assinaturas.
 
 ### <a name="how-do-i-get-additional-dynamics-365-support"></a>Como obter suporte adicional ao Dynamics 365?
 
-Se você estiver enfrentando problemas relacionados a: assinaturas do plano do Dynamics 365, licenciamento, cobrança, finanças & operações, licenças de produto do Dynamics 365 ou precisar de mais suporte técnico:
+Se você estiver enfrentando problemas relacionados a: Assinaturas do Plano do Dynamics 365, Licenciamento, Cobrança, Operações de Finanças &, Licenças de produto do Dynamics 365 ou você precisa de mais suporte técnico:
  
 Contate o [Suporte do Dynamics](/dynamics365/customer-engagement/admin/contact-technical-support)
 

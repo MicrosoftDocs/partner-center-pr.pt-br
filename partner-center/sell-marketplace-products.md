@@ -9,18 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b339c0eec72d2184e15301270633305682799461
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 4ab3aca1ef576501fcc6b912b83cfeccbf029022
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002868"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855379"
 ---
 # <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Usar o Partner Center para vender assinaturas de produtos do marketplace comercial a clientes
 
-**Funções apropriadas**
-
-- Agente de vendas
+**Funções apropriadas**: agente de vendas
 
 Como um parceiro no programa CSP, você pode usar o Partner Center para vender assinaturas de clientes para produtos SaaS (software como serviço) que foram publicados no Marketplace comercial ([Microsoft AppSource](https://appsource.microsoft.com/) e [Azure Marketplace](https://azuremarketplace.microsoft.com/)) por fornecedores independentes de software (ISVs).
 

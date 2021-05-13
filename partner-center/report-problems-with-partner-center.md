@@ -1,51 +1,47 @@
 ---
-title: Ferramenta de diagnóstico e solicitações do portal do Partner Center
+title: Partner Center de diagnóstico e solicitações do portal
 ms.topic: how-to
 ms.date: 11/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Saiba como relatar problemas com o Partner Center e como coletar informações de diagnóstico para a equipe de suporte do parceiro.
+description: Saiba como relatar problemas com o Partner Center e como coletar informações de diagnóstico para a equipe de Suporte do Parceiro.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b009d7131f9d6941513a04e866006d1908ba741
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 5d71d3efe10d38cfc0b5ce8dd60c3c51e2be9f1b
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441635"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855600"
 ---
-# <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Ferramenta de diagnóstico e solicitações do portal do Partner Center
+# <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Partner Center de diagnóstico e solicitações do portal
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Partner Center do Microsoft Cloud for US Government
+**Funções apropriadas:** todos os parceiros interessados em Partner Center
 
-**Funções apropriadas**
-
-- Todos os parceiros interessados no Partner Center
-
-Todos os usuários registrados no Partner Center podem criar uma solicitação de suporte de parceiro. Os usuários só podem exibir as solicitações de suporte que foram enviadas após o logon no Partner Center.
-Contate o suporte do Partner Center se você encontrar problemas ou precisar de ajuda com erros do portal do Partner Center. Envie diagnóstico para permitir que o problema seja corrigido mais rapidamente.
+Todos os usuários conectados Partner Center podem criar uma solicitação de suporte de parceiro. Os usuários só podem exibir as solicitações de suporte enviadas depois de fazer logo Partner Center.
+Entre em Partner Center suporte se você encontrar problemas ou precisar de ajuda com Partner Center do portal. Envie diagnóstico para permitir que o problema seja corrigido mais rapidamente.
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Relatar um problema com o Partner Center
 
-1. No painel do **Partner Center** , selecione **suporte** e, em seguida, selecione **solicitações de suporte do parceiro**.
+1. No painel **Partner Center,** selecione Suporte **e,** em seguida, selecione **Solicitações de suporte do parceiro**.
 
-2. Selecione **nova solicitação** e procure o tipo de problema que melhor descreva seu problema. Selecione o tipo de problema e **examine as soluções**.
+2. Selecione **Nova solicitação** e pesquise o tipo de problema que melhor descreve o problema. Selecione o tipo de problema e **Revise as soluções**.
 
-3. Examine a página **soluções recomendadas** para ver as etapas ou os documentos relacionados que podem ajudá-lo a resolver seu problema.
+3. Revise a **página Soluções recomendadas** para ver as etapas ou documentos relacionados que podem ajudá-lo a resolver o problema.
 
-4. Se as **soluções recomendadas** resolverem o problema, você poderá selecionar **retornar ao painel**. Se você ainda precisar de ajuda, poderá continuar e **fornecer detalhes do problema**.
+4. Se as **soluções recomendadas** resolverem o problema, você poderá selecionar **retornar ao Painel**. Se você ainda precisar de ajuda, poderá continuar e Fornecer **detalhes do problema.**
 
-5. Preencha os **detalhes do problema** e **envie**. Um representante do Suporte do Parceiro entrará em contato com você.
+5. Conclua os **detalhes do problema** e, em **seguida, Envie**. Um representante do Suporte do Parceiro entrará em contato com você.
 
 ## <a name="schedule-a-support-appointment"></a>Agendar um compromisso de suporte 
 
-**Atualmente em visualização*
+**Atualmente em versão prévia*
 
-Se o problema exigir uma conversa com o defensor do suporte, você poderá agendar o compromisso nos detalhes do seu tíquete.
+Se o problema exigir uma conversa com seu defensor de suporte, você poderá agendar o compromisso com os detalhes do tíquete.
 
 :::image type="content" source="images/support/ticket.png" alt-text="Agendar um compromisso de suporte":::
 
@@ -57,7 +53,7 @@ Se o problema exigir uma conversa com o defensor do suporte, você poderá agend
 
 1. Quando você agenda um compromisso, o Partner Center envia a você um convite de calendário com informações sobre como o defensor do suporte entrará em contato com você, para que você possa acompanhar esse compromisso em seu próprio calendário de trabalho.  Embora essa funcionalidade ainda esteja em versão prévia, o convite por email e calendário estará em inglês, mas o defensor será capaz de dar suporte a você no idioma que você selecionou ao criar seu tíquete.
 
-:::image type="content" source="images/support/ticket3.png" alt-text="Data e hora":::
+:::image type="content" source="images/support/ticket3.png" alt-text="Data e Hora":::
 
 ## <a name="hours-of-operation"></a>Horas de operação
 

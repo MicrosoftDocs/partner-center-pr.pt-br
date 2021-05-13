@@ -4,41 +4,39 @@ ms.topic: troubleshooting
 ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Solucionar possíveis causas e aprender sobre soluções para quando você não puder entrar no Partner Center-saiba mais sobre como redefinir senhas, verificar funções e verificar credenciais.
+description: Solucionar possíveis causas e saber mais sobre as soluções para quando não é possível entrar no Partner Center – saiba mais sobre como redefinir senhas, verificar funções e verificar credenciais.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17087727afcaf3dbcf47801f8668388c370758e7
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: f4af8c48e2bbe65f58549b542447c80b699332be
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266564"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818789"
 ---
-# <a name="troubleshoot-sign-in-issues-for-partner-center"></a>Solucionar problemas de entrada para o Partner Center
+# <a name="troubleshoot-sign-in-issues-for-partner-center"></a>Solucionar problemas de login para Partner Center
 
-**Funções apropriadas**
+**Funções apropriadas:** todos os parceiros interessados em Partner Center
 
-- Todos os parceiros interessados no Partner Center
+Este artigo contém soluções para problemas comuns de Partner Center.
 
-Este artigo contém soluções para problemas comuns de conexão para o Partner Center.
+## <a name="youve-forgotten-your-password-for-partner-center"></a>Você esqueceu sua senha por Partner Center
 
-## <a name="youve-forgotten-your-password-for-partner-center"></a>Você esqueceu sua senha para o Partner Center
+Se você esqueceu sua senha e não pode entrar no Partner Center, entre em contato com o Suporte. Encontre o contato apropriado em Suporte [para produtos de negócios.](/microsoft-365/admin/contact-support-for-business-products)
 
-Se você esqueceu sua senha e não consegue entrar no Partner Center, contate o suporte. Encontre o contato apropriado em [suporte para produtos de negócios](/microsoft-365/admin/contact-support-for-business-products).
+Se você for um parceiro do MPN, peça ao administrador global para criar uma nova senha para você. Se você for um revendedor indireto do CSP, peça ao seu provedor indireto para criar um novo administrador global para você em seu locatário do Azure AD ou crie uma nova senha para você usando seus privilégios de administrador delegados.
 
-Se você for um parceiro MPN, peça ao administrador global para criar uma nova senha para você. Se você for um revendedor indireto do CSP, peça ao seu provedor indireto que crie um novo administrador global para você no seu locatário do Azure AD ou crie uma nova senha para você usando seus privilégios de administrador delegados.
+Para saber mais sobre como redefinir sua senha e recuperar o acesso à sua conta de trabalho, leia Redefinir sua senha de trabalho ou [de estudante usando informações de segurança](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password).
 
-Para saber mais sobre como você pode redefinir sua senha e restabelecer o acesso à sua conta corporativa, leia [redefinir sua senha corporativa ou de estudante usando informações de segurança](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password).
+## <a name="you-cant-view-or-manage-the-expected-pages-or-capabilities-in-partner-center"></a>Você não pode exibir ou gerenciar as páginas ou funcionalidades esperadas no Partner Center
 
-## <a name="you-cant-view-or-manage-the-expected-pages-or-capabilities-in-partner-center"></a>Não é possível exibir ou gerenciar as páginas ou os recursos esperados no Partner Center
+O acesso às páginas Partner Center é controlado pelas funções atribuídas. Para verificar quais funções você está atribuído, no Partner Center selecione o ícone Configurações, selecione Configurações da conta e, em Configurações da conta, selecione Gerenciamento de **usuários**. Em Pesquisar, digite seu nome e, em seguida, veja os resultados.
 
-O acesso às páginas no Partner Center é controlado pelas funções que você está atribuído. Para verificar quais funções você está atribuído, no Partner Center, selecione o ícone de configurações, selecione **configurações de conta** e, em seguida, em configurações de conta, selecione **Gerenciamento de usuário**. Em Pesquisar, digite seu nome e exiba os resultados.
+Se você não conseguir exibir ou gerenciar as competências, clientes, incentivos ou usuários esperados, experimente as seguintes soluções:
 
-Se você não conseguir exibir ou gerenciar as competências, os clientes, os incentivos ou os usuários esperados, tente as seguintes soluções:
-
-- Para obter acesso aos recursos de MPN, CSP e referências, entre em contato com seu administrador global ou administrador de conta. Para saber mais sobre as funções e as tarefas que elas habilitam no Partner Center, consulte [atribuir funções & permissões a usuários](permissions-overview.md).
+- Para acesso aos recursos do MPN, do CSP e das indicações, entre em contato com o administrador global ou o administrador da conta. Para saber mais sobre as funções e as tarefas que elas habilitam no Partner Center, consulte Atribuir funções [& permissões aos usuários.](permissions-overview.md)
 - Para obter acesso aos recursos do Marketplace comercial e do Windows & Xbox, Office Store, Microsoft Edge e programas de desenvolvedores de hardware, entre em contato com a pessoa na função de proprietário ou gerente em sua organização. Para saber mais sobre funções e permissões, consulte [como gerenciar uma conta do Marketplace comercial no Microsoft Partner Center](/azure/marketplace/partner-center-portal/manage-account#define-user-roles-and-permissions).
 
 ## <a name="you-cant-see-your-offer-or-benefits-in-partner-center"></a>Você não pode ver sua oferta ou benefícios no Partner Center

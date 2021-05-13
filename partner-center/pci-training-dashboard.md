@@ -1,41 +1,38 @@
 ---
-title: Painel de treinamento do insights
+title: Painel de Treinamento de Insights
 ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Explore o painel de treinamento do Partner Center. O treinamento é um dos relatórios disponíveis na área de informações de parceiros do Partner Center (PCI).
+description: Explore Partner Center Painel de treinamento. O treinamento é um dos relatórios disponíveis na área Partner Center Insights (PCI).
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bad11a2f480aaa229708a3e9a108466a130b4127
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: e3beb1d051d2407229deebbb94b938a8f8b7218e
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086236"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854546"
 ---
 # <a name="trainings-dashboard"></a>Painel de treinamentos
 
-**Funções apropriadas**
+**Funções apropriadas:** visualizador de relatório executivo | Visualizador de relatório
 
-- Visualizador de relatórios executivos
-- Visualizador de relatórios
-
-O painel de treinamentos fornece informações sobre as certificações, avaliações e exames feitos pela empresa de funcionários da empresa. O painel de treinamentos inclui as seguintes seções:
+O painel Treinamentos fornece insights sobre as certificações, avaliações e exames feitos por sua empresa de funcionários da empresa. O painel Treinamentos inclui as seguintes seções:
 
 - Resumo
-- Divisão de desempenho de treinamento por certificações, avaliações, exames
+- Desempenho de treinamento dividido por certificações, avaliações, exames
 - Indivíduos por credenciais como certificações, avaliações, exames
 - Detalhes da atividade
 
 >[!NOTE] 
->Esse relatório está disponível no Hub do insights no Partner Center. Para exibir esse relatório, você deve receber a função do Visualizador de relatórios ou do Visualizador de relatórios executivos. Algumas seções deste relatório só estarão visíveis para usuários que são visualizadores de relatórios executivos. Para obter mais informações sobre o controle de acesso para os relatórios do insights, consulte [funções de PCI](pci-roles.md).
+>Este relatório está disponível no hub Insights no Partner Center. Para exibir esse relatório, você deve ter a função de Visualizador de Relatório ou Visualizador de Relatório Executivo. Algumas seções deste relatório só estarão visíveis para usuários que são Visualizadores de Relatório Executivo. Para obter mais informações sobre o controle de acesso para os relatórios do Insights, consulte [Funções PCI.](pci-roles.md)
 
 ## <a name="summary"></a>Resumo
 
-A seção de resumo apresenta uma exibição de instantâneo numérico de vários indicadores de desempenho relacionados aos seus treinamentos. Os vários indicadores de desempenho são indivíduos certificados, certificações, indivíduos com credenciais de exames, credenciais de exames, indivíduos com credenciais de avaliação e credenciais de avaliação. Os dados nesta seção são atualizados com base no intervalo de datas selecionado, que pode ser de três meses (3M), seis meses (6 minutos) e 12 meses (1Y) ou um intervalo de dados personalizado (personalizado). 
+A seção de resumo apresenta uma exibição de instantâneo numérico de vários indicadores de desempenho relacionados aos seus treinamentos. Os vários indicadores de desempenho são Indivíduos Certificados, Certificações, Indivíduos com Credenciais de Exame, Credenciais de Exame, Indivíduos com Credenciais de Avaliação e Credenciais de Avaliação. Os dados nesta seção são atualizados com base no intervalo de datas selecionado, que pode ser de três meses (3M), seis meses (6M) e 12 meses (1Y) ou um intervalo de dados personalizado (Personalizado). 
 
 :::image type="content" source="images/pci/td-summary.png" alt-text="Resumo":::
 

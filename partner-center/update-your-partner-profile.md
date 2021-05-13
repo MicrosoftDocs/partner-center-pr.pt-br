@@ -9,19 +9,16 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 08e35e24dc94c81db56807b4211874996f0f487e
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: c700176ced0710f621dbdfab65513767976aff3d
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315857"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818602"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Verificar ou atualizar as informações de perfil da sua empresa 
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de conta do MPN
+**Funções apropriadas**: administrador global | administrador de conta do MPN
 
 Na primeira vez que você entrar no Partner Center como administrador global, deverá confirmar se todos os detalhes da empresa estão corretos. Isso inclui contato principal, razão social, endereço jurídico e informações do programa. Se sua empresa tiver mais de um local, verifique se os dados do local estão corretos. Como administrador global, administrador de cobrança ou agente administrador, você também poderá ver e atualizar as informações de cobrança e imposto.
 

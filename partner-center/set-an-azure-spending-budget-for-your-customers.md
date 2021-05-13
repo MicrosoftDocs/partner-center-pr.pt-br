@@ -9,18 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eaf54898d7a130ca38e5a2aaeba279fb722c9e66
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 14e901f51841e58b28a3cbbb1b7a19ce89d7c324
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712742"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855345"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Definir, verificar ou remover orçamentos mensais de gastos do Azure para clientes no Partner Center
 
-**Funções apropriadas**
-
-- Agente administrativo
+**Funções apropriadas**: agente de administração
 
 Você pode [definir um orçamento de gastos do Azure mensal para seus clientes](#set-azure-spending-budget) no Partner Center. Isso ajuda seus clientes a gerenciar seus gastos com o Azure. Essa opção permite que você compare os gastos do Azure dos clientes com o orçamento durante o mês. Ele também ajuda seus clientes a orçar seus gastos do Azure para que sua fatura mensal não seja maior do que a previsão.
 
@@ -41,51 +39,51 @@ Você também pode [remover um orçamento de gastos do Azure](#remove-azure-spen
 
 Os dados de gastos do Azure são uma *estimativa* e *valores de cobrança reais podem variar*. O valor dos dados *não reflete* impostos, créditos, ajustes ou outros encargos que podem ser aplicados.
 
-Os dados de gastos são *atualizados uma vez por dia*. Os clientes podem continuar a usar (e serem cobrados) os serviços e recursos do Azure, a menos que você altere as configurações de conta no portal do Azure.
+Os dados de gastos são *atualizados uma vez por dia*. Seus clientes podem continuar a usar (e ser cobrados por) serviços e recursos do Azure, a menos que você altere suas configurações de conta no portal do Azure.
 
-## <a name="set-azure-spending-budget"></a>Definir orçamento de gastos do Azure
+## <a name="set-azure-spending-budget"></a>Definir o orçamento de gastos do Azure
 
-Você pode *definir um orçamento de gastos do Azure mensal* para vários clientes no Partner Center:
+Você pode definir um orçamento mensal de gastos do *Azure* para vários clientes Partner Center:
 
 1. Entre no [Painel do Partner Center](https://partner.microsoft.com/dashboard/).
 
-2. No menu à esquerda, em **CSP**, escolha **gastos do Azure**.
+2. No menu à esquerda, em **CSP,** escolha **Gastos do Azure.**
 
-3. Na página **gastos do Azure** , em **clientes com assinaturas Microsoft Azure**, selecione os clientes para os quais você deseja definir um orçamento.
+3. Na página de gastos do **Azure,** em Clientes com **Microsoft Azure assinaturas,** selecione os clientes para os quais você deseja definir um orçamento.
 
-4. Insira um valor para o **orçamento mensal**.
+4. Insira um valor para **Orçamento mensal.**
 
-5. Escolha **aplicar** para salvar as alterações.
+5. Escolha **Aplicar** para salvar suas alterações.
 
-Você também pode *definir um orçamento para um cliente individual* em suas configurações de assinatura:
+Você também pode *definir um orçamento para um cliente individual em* suas configurações de assinatura:
 
 1. Entre no Painel do Partner Center.
 
-2. No menu à esquerda, em **CSP**, escolha **clientes**.
+2. No menu à esquerda em **CSP,** escolha **Clientes**.
 
-3. Na página **clientes** , selecione o **nome da empresa** do cliente.
+3. Na página **Clientes,** selecione o Nome da empresa **do cliente.**
 
-4. Na página **assinaturas** do cliente, em **assinatura baseada em uso**, escolha **alterar orçamento**.
+4. Na página **Assinaturas** do cliente, em Assinatura **baseada em uso,** escolha **Alterar orçamento.**
 
 5. Insira um valor para o orçamento.
 
-6. Escolha **aplicar** para salvar as alterações.
+6. Escolha **Aplicar** para salvar suas alterações.
 
-## <a name="remove-azure-spending-budget"></a>Remover orçamento de gastos do Azure
+## <a name="remove-azure-spending-budget"></a>Remover o orçamento de gastos do Azure
 
-Você pode *remover um orçamento de gastos do Azure mensal* para seus clientes no Partner Center:
+Você pode remover um orçamento mensal de gastos do *Azure* para seus clientes Partner Center:
 
 1. Entre no [Painel do Partner Center](https://partner.microsoft.com/dashboard/).
 
-2. No menu à esquerda, em **CSP**, escolha **gastos do Azure**.
+2. No menu à esquerda, em **CSP,** escolha **Gastos do Azure.**
 
-3. Na página **gastos do Azure** , em **clientes com assinaturas Microsoft Azure**, selecione os clientes cujo orçamento você deseja remover.
+3. Na página de gastos do **Azure,** em Clientes com **assinaturas Microsoft Azure**, selecione os clientes cujo orçamento você deseja remover.
 
-4. Escolha **remover orçamento**.
+4. Escolha **Remover orçamento**.
 
 ## <a name="check-current-azure-spending"></a>Verificar os gastos atuais do Azure
 
-Você pode *acompanhar os gastos atuais dos clientes do Azure e os orçamentos mensais* a qualquer momento:
+Você pode *acompanhar os gastos atuais do Azure e os orçamentos mensais* de seus clientes a qualquer momento:
 
 1. Entre no [Painel do Partner Center](https://partner.microsoft.com/dashboard/).
 

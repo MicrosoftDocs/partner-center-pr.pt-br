@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2cf45807c6347ad62ad343d2be8a477ab8ea9d33
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 844a795330a0c10ef51f6b47ce15afa37d3d71f5
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028257"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855243"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Exibir requisitos de qualificação para contratos de serviços de planejamento
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de parceiros do MPN
+**Funções apropriadas**: Administração Global | Administrador do parceiro do MPN
 
 Este artigo ajuda você a saber mais sobre os requisitos de qualificação que você precisa satisfazer antes que sua empresa possa registrar ou fornecer contratos de serviços de planejamento do Software Assurance para a Microsoft.
 
@@ -38,13 +35,13 @@ Para saber mais sobre esses requisitos de competência específicos do Engagemen
 |:--- |:--- |:--- |
 | Planejamento de implantação do Windows e do Office  | Dispositivos e janelas Silver ou Gold  |  [Compromissos do DDPS (serviços de planejamento de implantação de desktop)](https://go.microsoft.com/fwlink/?linkid=2116072)
 | Planejamento de implantação de produtividade móvel  | Gerenciamento de mobilidade empresarial prata ou Gold ou dispositivos e Windows  | [Compromissos do DDPS (serviços de planejamento de implantação de desktop)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
-| Prova de conceito de segurança empresarial moderna |  Gerenciamento de mobilidade empresarial Silver ou Gold  | [Compromissos do DDPS (serviços de planejamento de implantação de desktop)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
-| Atualizando o Microsoft Dynamics 365 para o compromisso com o cliente  | Business Applications de nuvem Silver ou Gold ou gerenciamento de relacionamento com o cliente de nuvem  | [Compromissos do DYDPS (serviços de planejamento de implantação) do Dynamics](https://go.microsoft.com/fwlink/?linkid=2116073)
-| Migrando para o Microsoft Dynamics 365 for Customer Engagement  | Business Applications de nuvem Silver ou Gold ou gerenciamento de relacionamento com o cliente de nuvem  | [Compromissos do DYDPS (serviços de planejamento de implantação) do Dynamics](https://go.microsoft.com/fwlink/?linkid=2116073)
-| Atualizando o Microsoft Dynamics 365 para finanças e operações  | ERP (planejamento de recursos empresariais) Gold  | [Compromissos do DYDPS (serviços de planejamento de implantação) do Dynamics](https://go.microsoft.com/fwlink/?linkid=2116073)  |
-| Modernizando a plataforma Windows Server | Datacenter prata ou ouro | [Contratações de nuvem privada, gerenciamento e serviços de planejamento de virtualização (PVDPS)](https://go.microsoft.com/fwlink/?linkid=2115982) |
-| Planejamento de implantação do SharePoint  | Colaboração e conteúdo prata ou ouro  | [Engajamentos do SDPS (serviços de planejamento de implantação) do SharePoint](https://go.microsoft.com/fwlink/?linkid=2116074)  |
-| Planejamento da solução de gerenciamento de projetos e de portfólio (PPM)  | Projeto prata ou ouro e gerenciamento de portfólio (PPM)  | [Engajamentos do SDPS (serviços de planejamento de implantação) do SharePoint](https://go.microsoft.com/fwlink/?linkid=2116074)  |
+| Prova de conceito de segurança empresarial moderna |  Silver ou Gold Enterprise Mobility Management  | [Compromissos do DDPS (Serviços de Planejamento de Implantação de Área de Trabalho)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
+| Atualizando o Microsoft Dynamics 365 for Customer Engagement  | Gerenciamento de relacionamento com o cliente silver ou gold cloud Business Applications OU nuvem  | [Compromissos do DYDPS (Dynamics Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116073)
+| Migrando para o Microsoft Dynamics 365 for Customer Engagement  | Gerenciamento de relacionamento com o cliente silver ou gold cloud Business Applications OU nuvem  | [Compromissos do DYDPS (Dynamics Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116073)
+| Atualizando o Microsoft Dynamics 365 for Finance and Operations  | ERP (Gold Enterprise Resource Planning)  | [Compromissos do DYDPS (Dynamics Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116073)  |
+| Modernizando sua plataforma Windows Server | Datacenter Silver ou Gold | [PVDPS (Serviços de Planejamento de Virtualização, Gerenciamento e Nuvem Privada)](https://go.microsoft.com/fwlink/?linkid=2115982) |
+| Planejamento de implantação do SharePoint  | Colaboração e conteúdo silver ou gold  | [Compromissos do SDPS (Serviços de Planejamento de Implantação) do SharePoint](https://go.microsoft.com/fwlink/?linkid=2116074)  |
+| Planejamento de solução ppm (gerenciamento de projetos e portfólio)  | PPM (Silver ou Gold Project and Portfolio Management)  | [Compromissos do SDPS (Serviços de Planejamento de Implantação) do SharePoint](https://go.microsoft.com/fwlink/?linkid=2116074)  |
 | Planejamento de implantação do Exchange  | Mensagens Silver ou Gold  | [Contratos do EDPS (serviços de planejamento de implantação) do Skype for Business e do Exchange](https://go.microsoft.com/fwlink/?linkid=2116075)  |
 Planejamento de implantação do Skype for Business  | Comunicações Silver ou Gold  | [Contratos do EDPS (serviços de planejamento de implantação) do Skype for Business e do Exchange](https://go.microsoft.com/fwlink/?linkid=2116075)  |
 | Modernização do estado de dados  | Análise de dados Gold ou plataforma de dados  | [SQL Server os compromissos do SSDPS (serviços de planejamento de implantação)](https://go.microsoft.com/fwlink/?linkid=2116076)  |

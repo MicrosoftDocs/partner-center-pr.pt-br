@@ -8,21 +8,16 @@ description: Veja o que você está fazendo bem e onde você pode melhorar a res
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: c62e074c7329ada33390b77be13c523660344d49
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 8b0784e2d81b4483eb374120be2411729d922a47
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086270"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854614"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security relatório de uso disponível no painel do recepções do Partner Center
 
-**Funções apropriadas**
-
-- Administrador global
-- Agente administrativo
-- Visualizador de relatórios
-- Visualizador de relatórios executivos
+**Funções apropriadas**: Administração Global | Agente de administração | Visualizador de relatórios | Visualizador de relatórios executivos
 
 O relatório uso de Enterprise Mobility + Security fornece dados de uso para as assinaturas de Enterprise Mobility + Security que você vendeu ou gerencia para seus clientes. Você pode exibir as seções a seguir no relatório de uso Enterprise Mobility + Security.
 
@@ -53,31 +48,31 @@ A seção de resumo apresenta uma exibição de instantâneo dos principais indi
 
 :::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="Resumo de uso do EMS":::
 
-## <a name="enterprise-mobility--security-usage-by-geography"></a>Uso de Enterprise Mobility + Security por geografia
+## <a name="enterprise-mobility--security-usage-by-geography"></a>Enterprise Mobility + Security uso por geografia
 
-O **uso de Enterprise Mobility + Security por geografia** ilustra a distribuição de mau (usuários ativos mensais) e pau (unidades pagas disponíveis) por país do cliente. MAU refere-se ao número de licenças usadas no mês anterior e PAU refere-se ao número de estações pagas vendidas ou gerenciadas durante o período de tempo selecionado. As cores mais claras no mapa representam valores mais baixos, enquanto as cores mais escuras representam valores mais altos. Você pode pesquisar e selecionar um país na grade. Você também pode ampliar para uma análise mais detalhada.
+O **Enterprise Mobility + Security uso** por geografia ilustra a distribuição de MAU (Usuários Ativos Mensais) e PAU (Unidades Pagas Disponíveis) por país do cliente. MAU refere-se ao número de licenças usadas no mês anterior e PAU refere-se ao número de lugares pagos vendidos ou gerenciados durante o período selecionado. Cores mais claras no mapa representam valores inferiores, enquanto cores mais escuras representam valores mais altos. Você pode pesquisar e selecionar um país na grade. Você também pode ampliar para uma aparência mais próxima.
 
-O **número de tabelas de países/** regiões apresenta os países/regiões totais nos quais os eventos de uso do Azure são gerados.
+A **tabela Número de países/regiões** apresenta o total de países/regiões em que os eventos de uso do Azure são gerados.
 
-Você pode pesquisar e selecionar um país na grade para aplicar zoom ao local no mapa. Selecione a opção **início** no mapa para reverter para a exibição original.
+Você pode pesquisar e selecionar um país na grade para ampliar o local no mapa. Selecione a **opção** Página Inicial no mapa para reverter para a exibição original.
 
-:::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="Uso de EMS por geografia":::
+:::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="Uso do EMS por geografia":::
 
-## <a name="enterprise-mobility--security-usage-by-sku"></a>Uso de Enterprise Mobility + Security por SKU
+## <a name="enterprise-mobility--security-usage-by-sku"></a>Enterprise Mobility + Security uso por SKU
 
-O uso de Enterprise Mobility + Security por SKU representa a análise mensal de MAU e PAU por SKUs.
+O Enterprise Mobility + Security uso por SKU descreve o detalhamento mensal de MAU e PAU por SKUs.
 
 :::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="Uso do EMS por SKU":::
 
 ## <a name="subscriptions-performance"></a>Desempenho de assinaturas
 
-O desempenho das assinaturas representa a divisão de MAU e PAU por SKUs por assinatura do cliente. Os dados dos principais clientes 100 por receita cobrada são mostrados na tabela e você pode pesquisar por qualquer cliente ou baixar os dados brutos para exibir detalhes de todos os clientes.
+O desempenho de Assinaturas ilustra o detalhamento de MAU e PAU por SKUs por assinatura do cliente. Os dados dos 100 principais clientes por receita cobrada são mostrados na tabela e você pode pesquisar qualquer cliente ou baixar os dados brutos para exibir detalhes de todos os clientes.
 
 :::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="Desempenho da assinatura do EMS":::
 
-## <a name="enterprise-mobility--security-usage-distribution"></a>Distribuição de uso do Enterprise Mobility + Security
+## <a name="enterprise-mobility--security-usage-distribution"></a>Enterprise Mobility + Security de uso
 
-A distribuição de uso de Enterprise Mobility + Security descreve a divisão de PAU e assinaturas por SKUs.
+A Enterprise Mobility + Security de uso mostra o detalhamento de PAU e assinaturas por SKUs.
 
 :::image type="content" source="images/pci/pci-ems-usage-distribution.png" alt-text="Distribuição de uso do EMS":::
 

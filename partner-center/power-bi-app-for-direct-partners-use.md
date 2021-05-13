@@ -10,23 +10,18 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5bdb166562593b970f40c23921dc80b2a1cb8ad
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 96fe57f6e89928a69051c2e201c444882500b844
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633855"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855022"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Visualize seus dados de negócio com o aplicativo de análise do Partner Center para Microsoft Power BI
 
 
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de gerenciamento de usuário
-- Agente de vendas
-- Agente administrativo
+**Funções apropriadas**: Administração Global | Administrador de gerenciamento de usuários | Agente de vendas | Agente de administração
 
 ## <a name="view-your-business-data"></a>Visualize seus dados de negócio
 
@@ -146,21 +141,21 @@ Obtenha uma representação visual de seus dados corporativos com o aplicativo d
 
 - **Clientes baseados em uso nos últimos 12 meses**: tendência de mês a mês de novos clientes baseados em uso e clientes baseados em uso com variação agregados mensalmente durante o período dos últimos 12 meses
 
-- **Assinaturas baseadas em uso nos últimos 12 meses**: tendência de mês a mês de novas assinaturas baseadas em uso e assinaturas baseadas em uso com rotatividade agregadas mensalmente durante o período dos últimos 12 meses
+- Assinaturas baseadas em uso nos últimos **12** meses: tendência mensal de novas assinaturas baseadas em uso e assinaturas baseadas em uso rotativas agregadas mensalmente durante o período dos últimos 12 meses
 
-- **Custo estimado de uso pelo cliente nos últimos 60 dias**: clientes com base no uso classificados por valor estimado em dólar de nota fiscal de imposto agregado no período dos últimos 60 dias. Esse status indica os principais clientes baseados em uso que trazem a maior parte da receita
+- Custo estimado de uso pelo cliente nos últimos **60** dias: clientes baseados em uso classificaram pelo valor estimado em dinheiro da fatura pré-fiscal agregada ao longo do período dos últimos 60 dias. Esse status indica os principais clientes baseados em uso que trazem a maior parte da receita
 
-- **Custo estimado de uso por categoria nos últimos 60 dias**: categorias de medidores de assinaturas baseadas em uso classificadas pelo valor estimado de dólar da nota fiscal de imposto sobre o período dos últimos 60 dias.
+- Custo estimado de uso por categoria nos últimos **60** dias: categorias de medidores de assinaturas baseadas em uso, classificação pelo valor estimado em dinheiro da fatura pré-fiscal agregada ao longo do período dos últimos 60 dias.
 
-- **Custo estimado de uso por assinatura nos últimos 60 dias**: assinaturas com base no uso pelo valor estimado em dólar de nota fiscal de imposto agregado no período dos últimos 60 dias.
+- Custo estimado de uso por assinatura nos últimos **60** dias: assinaturas baseadas em uso pelo valor estimado em dinheiro da fatura pré-fiscal agregada ao longo do período dos últimos 60 dias.
 
 - **Custos estimados de uso de cliente por orçamento de gastos**: Clientes classificados por percentual de seu orçamento de gastos com uso atual excedendo o limite (100%).
 
 ### <a name="azure-resource-usage-report"></a>Relatório de uso de recurso Azure:
 
-- **Uso de recursos do Azure por dia para o período selecionado**: unidades de consumo diário para cada recurso medido em cada assinatura baseada em uso para o período selecionado nos últimos 60 dias.
+- **Uso de recursos do Azure** por dia para o período selecionado: unidades de consumo diário para cada recurso limitado em cada assinatura baseada em uso para o período selecionado nos últimos 60 dias.
 
-- **Custo estimado de uso dos recursos do Azure para o período selecionado**: custo estimado com base no cartão de taxas mais recente para cada recurso medido em cada assinatura baseada em uso para o período selecionado nos últimos 60 dias. 
+- Custo de uso estimado dos recursos do **Azure** para o período selecionado: custo estimado com base no cartão de taxa mais recente para cada recurso limitado em cada assinatura baseada em uso para o período selecionado nos últimos 60 dias. 
 
 ## <a name="next-steps"></a>Próximas etapas
 

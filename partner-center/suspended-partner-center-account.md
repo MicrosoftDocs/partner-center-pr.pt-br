@@ -9,22 +9,18 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d9366ccb7c091fded16387c963dc2f2eab4b2d88
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: da1b93e757ad923f8a1c11e21ed2b957ecf1ad11
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002817"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854750"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restaurar uma conta suspensa do Partner Center – saiba por que isso acontece e o que fazer a respeito
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Partner Center do Microsoft Cloud for US Government
-
-**Funções apropriadas**
-
-- Administrador global
+**Funções apropriadas:** Administrador global
 
 Este artigo explica o que fazer caso sua conta no Partner Center seja suspensa.
 
@@ -37,18 +33,18 @@ A Microsoft suspenderá uma conta do Partner Center por um dos seguintes motivos
 
 - Quando o valor de cobrança atual está em atraso há mais de 60 dias
 - Quando é detectado um abuso significativo da conta
-- Quando os problemas afetam as operações de provedor indireto e afetam negativamente sua conta (somente revendedores indiretos)
-- Quando seu perfil de conta está em um estado de falha ou rejeitado
+- Quando os problemas afetam as operações do provedor indireto e afetam negativamente sua conta (somente revendedores indiretos)
+- Quando seu perfil de conta está em um estado com falha ou rejeitado
 
 ## <a name="what-to-do-if-your-account-is-suspended"></a>O que fazer se sua conta for suspensa
 
-Se você souber que sua conta está atualizada, verifique suas configurações de [perfil de parceiro](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) para confirmar se as informações ativas estão concluídas. 
+Se você sabe que sua conta é atual, verifique as [configurações do perfil](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) do parceiro para confirmar que suas informações ativas estão concluídas. 
 
-Se você não tiver certeza se sua conta está atualizada, selecione **cobrança** no menu do **centro de parceiros** para verificar sua fatura. A página de cobrança mostra seu histórico de cobrança e as tendências, o saldo devido do mês atual, links para sua fatura e arquivos de reconciliação, além de seu pagamento mais recente.
+Se você não tiver certeza se sua  conta está atual, selecione Cobrança no **menu** Partner Center para verificar sua fatura. A página de cobrança mostra seu histórico de cobrança e as tendências, o saldo devido do mês atual, links para sua fatura e arquivos de reconciliação, além de seu pagamento mais recente.
 
-Se sua conta estiver vencida, siga as instruções em sua cobrança para organizar o pagamento e, em seguida, envie uma solicitação de suporte para restabelecer sua conta. 
+Se sua conta estiver vencida, siga as instruções em sua fatura para organizar o pagamento e envie uma solicitação de suporte para restabelecer sua conta. 
 
-Para obter assistência adicional na reativação da sua conta, entre em contato com o [suporte](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create).
+Para obter assistência adicional para reativar sua conta, entre em contato com [o Suporte do](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create).
 
 ## <a name="next-steps"></a>Próximas etapas
 

@@ -9,19 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 1046d8afc8889461f75fb4c837d0e5af94c13e9f
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: 74dd5c2c9457961f07dd0dd8d5a6ead9047c5579
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018145"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855549"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Como e quando solicitar um crédito de SLA (contrato de nível de serviço) da Microsoft
 
-**Funções apropriadas**
-
-- Agente administrativo
-- Administrador global
+**Funções apropriadas**: agente de administração | Administrador global
 
 Você pode solicitar **créditos de SLA (contrato de nível de serviço)** da Microsoft se um serviço que você está fornecendo para seus clientes tiver uma interrupção.
 
@@ -47,31 +44,31 @@ Antes de [Enviar uma solicitação de crédito de SLA](#submit-sla-credit-reques
 
 - O GUID do locatário do cliente
 - O [identificador do incidente de interrupção](#outage-incident-identifier)?
-- Evidências de que o cliente foi afetado pela interrupção e solicitou um crédito de SLA.
-- As assinaturas afetadas foram adquiridas por meio do CSP? (*Sim* ou *não*)
+- Evidência de que o cliente foi afetado pela paralisação e solicitou um crédito SLA.
+- As assinaturas impactadas foram adquiridas por meio do CSP? (*sim* ou *não*)
 
-#### <a name="evidence-that-proves-customer-impact"></a>Evidência que comprova o impacto sobre o cliente
+#### <a name="evidence-that-proves-customer-impact"></a>Evidência que prova o impacto do cliente
 
-- Informações sobre a hora e a duração do tempo de inatividade
-- O número e o local (s) dos usuários afetados (se aplicável)
+- Informações sobre o tempo e a duração do tempo de inatividade
+- O número e os locais dos usuários afetados (se aplicável)
 - Descrições de suas tentativas de resolver o incidente no momento da ocorrência
-- Um email do cliente afetado solicitando suporte e, subsequentemente, crédito
-- O número do tíquete de suporte e os detalhes do contato do cliente em relação à resolução do impacto do serviço
+- Um email do cliente afetado solicitando suporte e, posteriormente, crédito
+- O número do tíquete de suporte e os detalhes do contato do cliente em relação à resolução do impacto no serviço
 
 
-#### <a name="outage-incident-identifier"></a>Identificador de incidente de interrupção
+#### <a name="outage-incident-identifier"></a>Identificador de incidente de falha
 
-Você pode encontrar o identificador para o incidente de interrupção na página **integridade do serviço** no centro de administração do Microsoft 365. A **ID do incidente de interrupção** é um número precedido por uma abreviação de duas letras que indica o serviço afetado (por exemplo, *EX25194* para uma interrupção do Exchange Online). A tabela a seguir descreve as abreviações de serviço comuns:
+Você pode encontrar o identificador do incidente de falha na página **De Saúde** do Serviço no centro Microsoft 365 administrador. A **ID do Incidente** de Paralisação é um número precedido por uma abreviação de duas letras que indica o serviço afetado (por exemplo, *EX25194* para uma paralisação do Exchange Online). A tabela a seguir descreve as abreviações de serviço comuns:
 
-| Abreviação de duas letras | Serviço da Microsoft |
+| Abreviação de duas letras | Serviço Microsoft |
 | ----------------------- | ----------------- |
 | EX | Exchange Online |
 | FO | Proteção do Exchange Online |
-| SB | Skype for Business online (anteriormente Lync Online) |
+| SB | Skype for Business Online (anteriormente Lync Online) |
 | Sistema operacional | Assinatura do Office |
 | PB | Power BI para Office 365 |
 | SP | SharePoint online |
-| YA | Yammer Enterprise |
+| Você | Yammer Enterprise |
 | MO | Erro do portal |
 
 ### <a name="submit-sla-credit-request"></a>Enviar solicitação de crédito de SLA
