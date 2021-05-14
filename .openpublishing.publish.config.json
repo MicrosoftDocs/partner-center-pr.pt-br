@@ -53,7 +53,7 @@
     ""
   ],
   "branches_to_filter": [
-    "live",
+    "live-sxs",
     "master",
     "master-sxs"
   ],
