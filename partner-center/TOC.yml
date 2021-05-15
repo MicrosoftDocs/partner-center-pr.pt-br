@@ -390,6 +390,8 @@
       href: modern-invoice-reconciliation-file.md
     - name: Cálculo de preço unitário efetivo
       href: effective-unit-price-calculation.md
+    - name: Imposição de limite de crédito
+      href: credit-limit-enforcement.md
     - name: Cenários comuns de cobrança
       href: common-billing-scenarios.md
       displayName: 'trial, subscription'

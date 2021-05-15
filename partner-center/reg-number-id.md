@@ -4,34 +4,32 @@ ms.topic: article
 ms.date: 05/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Saiba o que são números de ID de registro e se eles são obrigatórios para seu país.
+description: Saiba o que são números de ID de registro e se eles são obrigatórios para o seu país.
 author: ParthP
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d84f67edd38b9e8f665a18699fb1f03c9888549d
-ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
+ms.openlocfilehash: deb9a0af8c0b398d3bb9761a3aa1e7db382d1093
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109712491"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855821"
 ---
 # <a name="registration-id-number-information"></a>Informações de número da ID de registro
 
-**Funções apropriadas**
-
-- Administrador global
+**Funções apropriadas**: administrador global
  
-Se você é um provedor indireto, parceiro de cobrança direta ou revendedor indireto e está fazendo negócios com clientes novos ou existentes nos países a seguir, precisa fornecer números de ID de registro para sua empresa. Usamos a ID de registro para revisar os detalhes da sua conta. Se o país onde você está fazendo negócios não está listado abaixo, a ID de registro é opcional.
+Se você é um provedor indireto, parceiro de cobrança direta ou revendedor indireto e está fazendo negócios com clientes novos ou existentes nos países a seguir, você precisa fornecer números de ID de registro para a sua empresa. Usamos a ID de registro para revisar os detalhes da sua conta. Se o país onde você está fazendo negócios não está listado abaixo, a ID de registro é opcional.
 
 ## <a name="countries-where-registration-id-is-required"></a>Países em que a ID de registro é obrigatória
 
 | **País ou região** | **Detalhes** |
 |:--|:--|
-| **Armênia** | INN – número de identificação de contribuinte<br>Número do IVA – também conhecido como número de registro do IVA. É o número exclusivo que identifica uma pessoa tributável (empresa) ou uma pessoa jurídica não tributável registrada para IVA.<br>Número de serviço público |
+| **Armênia** | INN – número de identificação de contribuinte<br>Número do IVA – também conhecido como número de registro do IVA. Este valor é o número exclusivo que identifica uma pessoa tributável (empresa) ou uma pessoa jurídica não tributável registrada para IVA.<br>Número de serviço público |
 | **Azerbaijão**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) – número de identificação de contribuinte<br>INN – número de identificação de contribuinte |
-| **Bielorrússia**  | UNP – é um número de nove dígitos (numérico para organizações, alfanumérico para indivíduos) que contém um identificador de região, uma série por região e um dígito de verificação. |
-|**Brasil** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – Cadastro Nacional de Pessoa Jurídica. Este é um número de identificação emitido para empresas brasileiras pela Receita Federal do Brasil  |
+| **Bielorrússia**  | UNP – este valor é um número de nove dígitos (numérico para organizações, alfanumérico para indivíduos) que contém um identificador de região, uma série por região e um dígito de verificação. |
+|**Brasil** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – Cadastro Nacional de Pessoa Jurídica. Este valor é um número de identificação emitido para empresas brasileiras pela Receita Federal do Brasil  |
 | **China** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) – número de identificação de contribuinte |
 | **Hungria**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) – número de identificação de contribuinte |
 | **Índia** | ID do contribuinte<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) – (Presence Across Nation) A participação no PAN Índia significa que uma organização opera em vários locais da Índia. |
@@ -45,11 +43,11 @@ Se você é um provedor indireto, parceiro de cobrança direta ou revendedor ind
 | **Arábia Saudita** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) – número de identificação de contribuinte |
 | **África do Sul** | TRN – número de registro de tráfego |
 | **Sudão do Sul** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – número de identificação de contribuinte |
-| **Tadjiquistão**  | INN – número de identificação de contribuinte<br>EIN – número de identificação de empregador<br>KPP – é um código que reflete o motivo do registro da organização. |
+| **Tadjiquistão**  | INN – número de identificação de contribuinte<br>EIN – número de identificação de empregador<br>KPP – este valor é um código que reflete o motivo do registro da organização. |
 | **Tailândia** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – número de identificação de contribuinte |
 | **Turquia** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – número de identificação de contribuinte<br>NIN |
 | **Ucrânia**  | EGRPOU<br>EDRPOU – ID local |
-| **Emirados Árabes Unidos** | ID do contribuinte<br>[Número do IVA](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) – também conhecido como número de registro do IVA. É o número exclusivo que identifica uma pessoa tributável (empresa) ou uma pessoa jurídica não tributável registrada para IVA. |
+| **Emirados Árabes Unidos** | ID do contribuinte<br>[Número do IVA](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) – também conhecido como número de registro do IVA. Este valor é o número exclusivo que identifica uma pessoa tributável (empresa) ou uma pessoa jurídica não tributável registrada para IVA. |
 | **Estados Unidos** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) – número de identificação de empregador |
 | **Uzbequistão**  | INN – número de identificação de contribuinte |
 | **Vietnã** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – número de identificação de contribuinte |
