@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/29/2021
-ms.openlocfilehash: d26d1af994ae9a3f951ee9428ee6fd092b2c91d8
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: 798dcb1570a0f6dfc94c7b45fc3c2e152f55cbe5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328042"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702817"
 ---
 # <a name="april-2021-announcements"></a>Comunicados de abril de 2021
 
@@ -308,11 +308,12 @@ A sessão mensal de perguntas e respostas da Chamada da Comunidade do CSP é o m
 Para obter mais informações, entre em contato com o [Suporte](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp).
 
 ________________
-## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Lembrete: preterimento da qualificação GET em 4 de maio de 2021
+## <a name="final-reminder-deprecation-of-get-qualification-on-may-6-2021"></a><a name="4"></a>Lembrete final: preterimento da qualificação GET em 6 de maio de 2021
 
 ### <a name="categories"></a>Categorias
 
-- Data: 09/04/2021
+- Data: 04/05/2021
+
 - Capacidades
 
 ### <a name="impacted-audience"></a>Público-alvo afetado
@@ -321,13 +322,13 @@ Parceiros que vendem ofertas Acadêmicas, Sem Fins Lucrativos e GCC (Nuvem da Co
 
 ### <a name="details"></a>Detalhes
 
-Este comunicado é um acompanhamento dos [aprimoramentos lançados em dezembro](https://docs.microsoft.com/partner-center/announcements/2020-december#1) do Partner Center. Como parte dessa versão, as novas APIs de Qualificações GET e POST foram implantadas e, como resultado, a qualificação GET será desativada até 4 de maio de 2021. Até lá, você precisará ter feito a transição para usar as novas APIs POST do Partner Center na compra de ofertas de Educação e a nova API de qualificações GET para comprar ofertas Sem Fins Lucrativos e GCC pré-qualificadas.
+Este comunicado é um acompanhamento dos [aprimoramentos lançados em dezembro](https://docs.microsoft.com/partner-center/announcements/2020-december#1) do Partner Center. Como parte dessa versão, as novas APIs de Qualificações GET e POST foram implantadas e, como resultado, **a qualificação GET será desativada até 6 de maio de 2021**. Nesse momento, você precisará ter feito a transição para as novas APIs POST do Partner Center. As novas APIs POST permitirão que você compre ofertas de Educação, enquanto as novas APIs GET permitirão que você compre ofertas sem fins lucrativos e GCC pré-qualificadas.
 
 ### <a name="next-steps"></a>Próximas etapas
 
-- Atualize para as novas APIs a fim de realizar uma transição bem-sucedida e em tempo hábil.
+- **Atualize para as novas APIs** para uma transição bem-sucedida e em tempo hábil.
 
-- Examine as novas alterações da API do Partner Center e o Guia nos recursos de Preparação de Operações: [aprimoramentos do processo de validação do cliente de Educação do Partner Center](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+- **Examine as novas alterações e o Guia da API do Partner Center** nos recursos de Preparação de Operações: [aprimoramentos do processo de validação do cliente de Educação do Partner Center](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
 
 - Compartilhe essas informações com as equipes apropriadas da sua organização e com seus revendedores para ajudá-los a se preparar para essas mudanças.
 
@@ -337,8 +338,12 @@ Em caso de perguntas relacionadas a essa notificação, entre em contato com o [
 
 ### <a name="change-log"></a>Log de alterações
 
-- Abril: lembrete do preterimento futuro da qualificação GET 
+- 4 de maio de 2021: lembrete final do futuro preterimento da qualificação GET
+
+- 9 de Abril de 2021: lembrete do futuro preterimento da qualificação GET 
+
 - Fevereiro: atualização das linhas do tempo de reprovação das qualificações GET e PUT
+
 - Janeiro: lembrete das reprovações futuras das qualificações GET e PUT
 
 ________________
