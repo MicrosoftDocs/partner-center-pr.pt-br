@@ -4,36 +4,33 @@ ms.topic: article
 ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Use o Partner Center para responder às referências e gerenciar clientes potenciais e referências novos, existentes e arquivados. Saiba também como obter mais referências no futuro.
+description: Use Partner Center para responder a indicações e gerenciar referências e indicações novas, existentes e arquivadas. Saiba também como obter mais indicações no futuro.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 94bcde2402b7276bef8eaaf84975f2a5677723fe
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: dd34a30cf21a90ac7781ed84945a208df13b3700
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133107"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146537"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Gerenciar vendas potenciais diferentes, como consultas de clientes, clientes potenciais qualificados por marketing e clientes potenciais qualificados por vendas
 
-**Funções apropriadas**
+**Funções apropriadas:** administrador de parceiros do MPN | Administrador de indicações
 
-- Administrador de parceiros do MPN
-- Administrador de indicações
+A Microsoft envia milhões de leads por ano para seus parceiros. Você tem a oportunidade de receber leads da Microsoft e criar seus negócios. Esta seção ajudará você a entender como gerenciar os leads que você recebe da página do provedor de soluções da Microsoft e agir sobre eles.
 
-A Microsoft envia milhões de clientes potenciais por ano para seus parceiros. Você tem a oportunidade de receber clientes potenciais da Microsoft e criar seus negócios. Esta seção ajudará você a entender como gerenciar os clientes potenciais que você recebe da página do provedor de soluções da Microsoft e agir sobre eles.
+O pré-requisito para receber leads é [criar um perfil de negócios](create-a-marketing-profile.md) para sua empresa. O perfil de negócios criado para sua empresa ajudará você a ficar visível para clientes potenciais, outros parceiros e vendedores da Microsoft na página da Web do provedor de soluções [da Microsoft.](https://www.microsoft.com/solution-providers/home) Suas informações de perfil de negócios são combinadas com as informações de associação da sua empresa, como os dados de competência e endossos adicionais da Microsoft, fornecendo um perfil rico para os clientes quando eles pesquisam um parceiro para trabalhar. Todas as solicitações originadas da listagem de perfil na página  do provedor  de soluções da Microsoft estão disponíveis na seção Leads na guia Referências no painel de navegação esquerdo.
 
-O pré-requisito para receber clientes potenciais é [criar um perfil comercial](create-a-marketing-profile.md) para sua empresa. O perfil comercial criado para sua empresa ajudará você a ficar visível para clientes potenciais, outros parceiros e vendedores da Microsoft na página da Web do [provedor de soluções da Microsoft](https://www.microsoft.com/solution-providers/home) . Suas informações de perfil de negócios são combinadas com as informações de associação da sua empresa, como os dados de competência e os endossos adicionais da Microsoft, fornecendo um perfil avançado para os clientes quando eles pesquisam um parceiro com o qual trabalhar. Todas as solicitações originadas na lista de perfis na página do provedor de soluções da Microsoft estão disponíveis na seção **leads** na guia **referências** no painel de navegação esquerdo.
+## <a name="types-of-leads"></a>Tipos de leads
 
-## <a name="types-of-leads"></a>Tipos de clientes potenciais
+**Consultas de clientes** – esses são clientes que se originam diretamente dos clientes. Uma empresa pesquisou e encontrou o perfil da empresa e preencheu o formulário informando a necessidade e os detalhes do contato.
 
-**Consultas de clientes** – são clientes potenciais que se originam diretamente dos clientes. Uma empresa pesquisou e encontrou o perfil de sua empresa e preencheu o formulário que informa a necessidade e os detalhes de contato.
+**Marketing qualificado** – esses são clientes clientes que são enviados para sua empresa por funcionários da Microsoft que receberam a solicitação do cliente por meio de um dos vários canais de marketing.
 
-**Marketing qualificado** – esses clientes potenciais são enviados à sua empresa por funcionários da Microsoft que receberam a solicitação do cliente por meio de um dos vários canais de marketing.
-
-**Vendas qualificadas** – esses clientes potenciais são enviados para você por vendedores da Microsoft que coletam os requisitos de um cliente e estão ajudando-os a encontrar o parceiro certo para resolver um problema do cliente. Esses leads não são os mesmos que as oportunidades de venda conjuntas, em que um representante de vendas da Microsoft está ativamente envolvido com o parceiro e o cliente até o fechamento da negociação.
+**Vendas qualificadas** – esses são clientes clientes que são enviados a você por vendedores da Microsoft que coletam os requisitos de um cliente e estão ajudando-os a encontrar o parceiro certo para resolver um problema do cliente. Esses clientes clientes clientes não são iguais às oportunidades de venda em que um representante de vendas da Microsoft está ativamente envolvido com o parceiro e o cliente até o fechamento do negócio.
 
 ## <a name="navigating-the-leads-section"></a>Navegando na seção leads
 
@@ -62,29 +59,29 @@ Você pode executar duas ações neste estágio – aceitar ou recusar a referê
 - Se você não responder dentro do tempo alocado (atualmente 14 dias), o Arquivaremos como **expirado** e notificaremos a Microsoft ou o parceiro que enviou essa oportunidade.
 
 > [!TIP]
-> Um cliente tem a opção de solicitar explicitamente que parceiros interessados entrem em contato com ele diretamente. Se for o caso, você verá um alerta na parte superior da página com um ícone de chama. É altamente recomendável entrar em contato com o cliente o mais rápido possível para melhorar suas chances de ganhar o negócio. Após 72 horas, a indicação continuará ativa, mas o ícone e a mensagem mudarão. Você ainda deverá entrar em contato com o cliente se estiver interessado em buscar a indicação.
+> Um cliente tem a opção de solicitar explicitamente que parceiros interessados entrem em contato com ele diretamente. Se for o caso, você verá um alerta na parte superior da página com um ícone de chama. É recomendável entrar em contato com o cliente o mais rápido possível para melhorar suas chances de ganhar a oferta. Após 72 horas, a indicação continuará ativa, mas o ícone e a mensagem mudarão. Você ainda deverá entrar em contato com o cliente se estiver interessado em buscar a indicação.
 
 ### <a name="accepted-stage"></a>Estágio aceito
 
-Ao trabalhar para fechar o negócio, se você quiser alterar qualquer informação que forneceu para uma referência aceita, selecione **Editar**. Em seguida, você pode atualizar o nome da negociação, a data de compra estimada, o valor estimado, as observações, a ID do CRM e/ou a ID da campanha de marketing.  Você também pode selecionar **adicionar seus funcionários** para fornecer o nome, o número de telefone e os endereços de email de outras pessoas que estão trabalhando no negócio.
+Ao trabalhar para fechar o negócio, se você quiser alterar qualquer uma das informações fornecidas para uma indicação aceita, selecione **Editar**. Em seguida, você pode atualizar o nome da oferta, a data de compra estimada, o valor estimado, as notas, a ID do CRM e/ou a ID da campanha de marketing.  Você também pode selecionar **Adicionar seus funcionários** para fornecer o nome, o número de telefone e os endereços de email de qualquer pessoa adicional que está trabalhando na oferta.
 
-Quando terminar, você poderá executar uma das duas ações, que estão marcando o negócio como **ganho** ou **perdido** para relatar o resultado para que possamos arquivá-lo adequadamente.
+Quando terminar, você poderá tomar uma das duas ações, que  estão  marcando a negociação como Ganha ou Perdida para relatar o resultado para que possamos arquivar isso de acordo.
 
-### <a name="archived-stage"></a>Estágio Arquivado
+### <a name="archived-stage"></a>Estágio arquivado
 
-Esse é um estágio de terminal em que todas as oportunidades finalmente chegam. Você pode exibir todos os clientes potenciais que estão em **vitórias, perdidos, recusados** e **expirados** neste estágio. Não há ações que você possa executar neste estágio.
+Esse é um estágio terminal em que todas as oportunidades finalmente chegam. Você pode exibir todos os leads que estão em **ganhos, perdidos, recusados** e **expirados** neste estágio. Não há nenhuma ação que você possa tomar neste estágio.
 
-## <a name="getting-more-leads"></a>Obtendo mais clientes potenciais
+## <a name="getting-more-leads"></a>Obter mais leads
 
-Aqui estão algumas dicas para ajudá-lo a obter referências mais apropriadas:
+Aqui estão algumas dicas para ajudá-lo a obter indicações mais apropriadas:
 
-- **Escolha palavras-chave e preferências que representam seu conhecimento e modelo de negócios exclusivos em [seu perfil de negócios](create-a-marketing-profile.md)**. Remova as palavras-chave que geraram referências nas quais você não está interessado. Se você não estiver interessado em lidar com empresas de um determinado tamanho, atualize essa preferência.
+- **Escolha palavras-chave e preferências que representam sua [](create-a-marketing-profile.md)experiência exclusiva e seu** modelo de negócios em seu perfil de negócios. Remova palavras-chave que gerariam indicações nas que você não está interessado. Se você não estiver interessado em lidar com empresas de um determinado tamanho, atualize essa preferência.
 
-- **Examine suas informações de contato em seu [perfil comercial](create-a-marketing-profile.md) para cada local**. Certifique-se de que sua equipe receba alertas de entrada.
+- **Revise suas informações de contato em seu [perfil de negócios](create-a-marketing-profile.md) para cada local**. Certifique-se de que sua equipe recebe alertas de entrada.
 
-- **Responder rapidamente a indicações**. Quando você responder em tempo hábil às solicitações de entrada, aumentaremos sua visibilidade em futuros resultados da pesquisa do cliente. Verifique se a sua equipe responde rapidamente com sua intenção.
+- **Responder rapidamente a indicações**. Quando você responder em tempo hábil às solicitações de entrada, aumentaremos sua visibilidade nos resultados futuros da pesquisa do cliente. Verifique se a sua equipe responde rapidamente com sua intenção.
 
-- **Seja seletivo com as negociações que você aceita**. Monitoramos os tipos de negócios que você aceita e recusa e usamos essas informações para ajudá-lo a encontrar acordos semelhantes. Aceitar as negociações que não são uma boa opção não melhorará os resultados da pesquisa e poderá afetar a qualidade dos clientes potenciais recebidos.
+- **Seja seletivo com as negociações que você aceita**. Monitoramos os tipos de acordos aceitos e recusados e usamos essas informações para ajudar a encontrar acordos semelhantes. Aceitar ofertas que não são um bom ajuste não melhorará os resultados da pesquisa e poderá afetar a qualidade dos leads recebidos.
 
 - **Relate os tamanhos estimados de negócios, datas de fechamento e o status final de suas negociações (ganhas ou perdidas)**. Usaremos essas informações para continuar a fornecer referências de qualidade.
 

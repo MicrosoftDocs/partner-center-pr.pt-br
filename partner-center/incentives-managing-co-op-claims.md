@@ -8,18 +8,16 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 10/29/2020
-ms.openlocfilehash: 29e67bbeca2b136146a1d9d1ee7eef4d0f9d3b0c
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 952a6b327dd31b1155efe3c08bb52f9b300b0a93
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179149"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146758"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Gerenciar incentivos de reclamações de cooperação
 
-**Funções apropriadas**
-
-- Administrador de incentivos
+**Funções apropriadas**: administrador de incentivos
 
 O conteúdo a seguir fornece informações para gerenciar as declarações de cooperação, incluindo cronogramas, regras e como contestar uma declaração de cooperação rejeitada.
 

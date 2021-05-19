@@ -8,18 +8,16 @@ ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 96d18c8f728c56b705d378ac56dcf46e777157f0
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 583e9c40bb8d161c30440f12331dc8dcbf3db417
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172397"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146418"
 ---
 # <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>Migrar assinaturas autônomas do Kaizala pro para as versões Microsoft 365 ou Office 365
 
-**Funções apropriadas**
-
-- Agente de vendas
+**Funções apropriadas**: agente de vendas
 
 A partir de 1º de julho de 2020, a Microsoft está terminando as vendas do serviço autônomo do Kaizala pro. Os clientes não poderão mais comprar novas assinaturas do Kaizala pro após essa data, e as assinaturas existentes do Kaizala pro não serão renovadas automaticamente quando expirarem.
 
@@ -74,11 +72,11 @@ Agora, o cliente deve ter assinaturas antigas e novas, a antiga assinatura autô
 
 ### <a name="b-reassign-current-user-licenses"></a>B. Reatribuir as licenças de usuário atuais
 
-1. Para reatribuir as licenças dos usuários do cliente, no menu do **centro de parceiros** , selecione **clientes**, selecione o cliente que você está movendo e, em seguida, selecione **usuários e licenças**. A página usuários e licenças do cliente é aberta.
+1. Para reatribuir as licenças dos usuários do cliente, no menu **Partner Center,** selecione Clientes **,** selecione o cliente que você está movendo e, em seguida, selecione Usuários **e licenças**. A página Usuários e Licenças do cliente é aberta.
 
-2. Para reatribuir a licença de usuário, selecione o usuário a ser reatribuído e, em seguida, selecione **gerenciar licenças**.
+2. Para reatribuir a licença de usuário, selecione o usuário para reatribuir e, em **seguida, selecione Gerenciar licenças**.
 
-3. Na página **gerenciar licenças** , desmarque a caixa de seleção licença do Kaizala pro standalone e selecione um novo plano de serviço para a assinatura à qual o cliente está se movendo.
+3. Na página **Gerenciar licenças, des** marque a caixa de seleção Licenças autônomas do Kaizala Pro e selecione um novo plano de serviço para a assinatura para a quais o cliente está mudando.
 
 4.  Selecione **Enviar**. Uma página de confirmação lista as novas atribuições de licença. Continue esse mesmo processo para outros usuários que precisam de atribuições de licença.
 
@@ -86,7 +84,7 @@ Agora, o cliente deve ter assinaturas antigas e novas, a antiga assinatura autô
 
 Depois de migrar a licença do usuário para o novo serviço, você pode cancelar com segurança a assinatura desativada no nível do cliente.
 
-1.  No menu do **centro de parceiros** , selecione **clientes**. Selecione o cliente cuja assinatura você está cancelando.
+1.  No menu **Partner Center,** selecione **Clientes**. Selecione o cliente cuja assinatura você está cancelando.
 
 2.  Na página de detalhe da assinatura, defina o status da assinatura como **Suspensa**.
 

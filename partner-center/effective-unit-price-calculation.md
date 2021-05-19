@@ -9,18 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1473b3c0b90cca1152b4dab0b8efec86dbc3d22d
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 84beac77d41b8c11be9ac3cad87460eec9632ac4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172210"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147115"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Cálculo de preço unitário efetivo para consumo do plano do Azure
 
-**Funções apropriadas**
-
-- Administrador de cobrança
+**Funções apropriadas**: administrador de cobrança
 
 ## <a name="the-effective-unit-price"></a>O preço unitário efetivo
 
@@ -48,24 +46,24 @@ A tabela a seguir fornece um exemplo de como calculamos o preço unitário efeti
 
 Na tabela, os seguintes valores se aplicam: 
 
-- **Up** = preço unitário do recurso/hora = 0,868
+- **UP** = Preço unitar do recurso/hora = 0,868
 
-- **BCU** = unidade de consumo Faturável para o medidor
+- **BCU** = unidade de consumo de cobrança para o medidor
 
-- **BC** = custo Faturável para o medidor = BCU * UP * 0,85. Isso reflete um ajuste para o desconto de 15% do PEC. Em seguida, usamos o limite inferior da função para limitar o valor a dois dígitos após o ponto decimal, a fim de cobrar o valor mínimo. 
+- **BC** = Custo cobrado pelo medidor = BCU * UP * 0,85. Isso reflete um ajuste para o desconto de PEC de 15%. Em seguida, usamos o limite inferior da função para limitar o valor a dois dígitos após o ponto decimal, para cobrar a quantidade mínima. 
 
-- **Preço unitário efetivo** = BCU/BC
+- **Preço unitártico** efetivo = BCU/BC
 
 >[!NOTE]
 
->Observação: o medidor neste exemplo não tem camadas em preços ou outros descontos — os fatores de preço unitário efetivo em percentuais de desconto e outros ajustes.
+>Observação: o medidor neste exemplo não tem camadas em preços ou outros descontos— os fatores de Preço Unitário Efetivo em percentuais de desconto e outros ajustes.
 
 
-| Data | BCU (unidade de consumo Faturável) | BC (custo Faturável) | Preço unitário efetivo |
+| Data | BCU (unidade de consumo de cobrança) | BC (custo cobrado) | Preço unitidade efetivo |
 | ------ | ----------- | ----------- | ----------- |  
-| 3 de agosto | 29 | 21,39 | 0.737586206896552 |
-| 10 de agosto | 210,950039 | 155,63 | 0.737757626107858 |
-| 25 de agosto | 555,950039 | 410,17 | 0.737782122900436 |
+| 3 de agosto | 29 | 21.39 | 0.737586206896552 |
+| 10 de agosto | 210.950039 | 155.63 | 0.737757626107858 |
+| 25 de agosto | 555.950039 | 410.17 | 0.737782122900436 |
 
 ## <a name="next-steps"></a>Próximas etapas
 

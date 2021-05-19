@@ -1,37 +1,34 @@
 ---
-title: Cobrança de produtos do Marketplace comercial
+title: Cobrança de produtos do marketplace comercial
 ms.topic: article
 ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como a cobrança funciona para produtos SaaS de ISV ou assinaturas adquiridas para clientes do Marketplace comercial no Partner Center.
+description: Saiba como funciona a cobrança de produtos saaS isv ou assinaturas adquiridas para clientes do marketplace comercial no Partner Center.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10592c7f8a3b1f075bc726161603859552b29961
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: c25d4ab3077c6a0f648c767472e8b7b60ef53a9c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979525"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148016"
 ---
-# <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Cobrança de produtos e assinaturas do Marketplace comercial no Partner Center
+# <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Cobrança de produtos e assinaturas do marketplace comercial Partner Center
 
 
-**Funções apropriadas**
+**Funções apropriadas:** administrador global | Administrador de cobrança
 
-- Administrador global
-- Administrador de cobrança
+Como um parceiro no programa CSP, você pode usar o Partner Center para comprar produtos SaaS baseados em licença de editores ISV no marketplace comercial. Depois de fazer isso, você pode acessar uma fatura para esses tipos de compras. O período de cobrança começa no primeiro dia do mês do calendário e termina no último dia do mês do calendário. As faturas são disponibilizadas no 8º dia do mês seguinte.
 
-Como um parceiro no programa CSP, você pode usar o Partner Center para comprar produtos SaaS baseados em licença de editores ISV no mercado comercial. Depois de fazer isso, você pode acessar uma fatura para esses tipos de compras. O período de cobrança começa no primeiro dia do mês do calendário e termina no último dia do mês do calendário. As notas fiscais são disponibilizadas no oitavo dia do mês seguinte.
+Você pode acessar faturas no painel Partner Center [ou](https://partner.microsoft.com/dashboard/) usando [Partner Center APIs .](/partner-center/develop/)
 
-Você pode acessar as faturas no [painel](https://partner.microsoft.com/dashboard/) do Partner Center ou usando as [APIs do Partner Center](/partner-center/develop/).
-
-Os parceiros no programa CSP são cobrados pelas soluções do ISV Commercial Marketplace adquiridas para um cliente quando compram esses produtos da central de parceiros ou da portal do Azure (usando o locatário do Azure do cliente antes, adquirido pelo CSP).
+Os parceiros no programa CSP são cobrados pelas soluções do marketplace comercial isv adquiridas para um cliente quando compram esses produtos do Partner Center ou do portal do Azure (usando o locatário do Azure adquirido pelo CSP anterior do cliente).
 
 >[!NOTE]
->Se os clientes usam seu próprio locatário do Azure AD (não adquirido de um parceiro no programa CSP), os clientes também podem optar por comprar sua própria solução de SaaS de ISV diretamente do ([Microsoft AppSource](https://appsource.microsoft.com/) ou [do Azure Marketplace](https://azuremarketplace.microsoft.com/)). Se fizerem isso, eles receberão sua própria conta diretamente da Microsoft. Da mesma forma, se um parceiro no programa CSP vender uma assinatura do Azure ou o novo plano do Azure para o cliente e conceder ao cliente (ou revendedor indireto) o [acesso baseado em função](/azure/role-based-access-control/built-in-roles) a esse locatário (atribuindo qualquer função ao cliente além do **leitor**), esse cliente (ou revendedor indireto) também poderá adquirir ofertas do Marketplace comercial sem aprovação prévia ou notificação ao parceiro CSP Nesses casos, a Microsoft não notificará diretamente os parceiros no programa CSP sobre as compras feitas por seus clientes. No entanto, a Microsoft oferece um mecanismo de [Azure monitor](/azure/azure-monitor/platform/alerts-activity-log) opcional que você pode usar para definir alertas ou notificações sobre a atividade em uma assinatura do Azure.
+>Se os clientes usarem seu próprio locatário do Azure AD (não um adquirido de um parceiro no programa CSP), os clientes também poderão optar por comprar sua própria solução de SaaS isv diretamente de ([Microsoft AppSource](https://appsource.microsoft.com/) [ou Azure Marketplace](https://azuremarketplace.microsoft.com/)). Se fizerem isso, eles receberão sua própria fatura diretamente da Microsoft. Da mesma forma, se um parceiro no programa CSP vender uma assinatura do Azure ou o novo plano do Azure para o cliente e conceder ao cliente (ou revendedor [indireto)](/azure/role-based-access-control/built-in-roles) acesso baseado em função a esse locatário (atribuindo qualquer função ao cliente além de **Leitor),** esse cliente (ou revendedor indireto) também poderá comprar ofertas do marketplace comercial sem aprovação ou notificação prévia para o parceiro CSP. Nesses casos, a Microsoft não notificará diretamente os parceiros no programa CSP sobre as compras feitas por seus clientes. No entanto, a Microsoft oferece um mecanismo de [Azure monitor](/azure/azure-monitor/platform/alerts-activity-log) opcional que você pode usar para definir alertas ou notificações sobre a atividade em uma assinatura do Azure.
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>Acessar informações de cobrança para produtos do Marketplace comercial
 
@@ -47,7 +44,7 @@ O administrador global ou de cobrança da sua empresa receberá um email quando 
 
     - Guia **compras recorrentes e de uso único** : mostra a fatura e os arquivos de reconciliação do plano do Azure, reservas do Azure, produtos de software e Marketplace comercial.
   
-3. Selecione a guia **compras recorrentes e de uso único** . Se você comprou assinaturas de um cliente em uma moeda diferente, verá uma guia para cada moeda. Você pode fazer algumas coisas fr: om esta página:
+3. Selecione a guia **compras recorrentes e de uso único** . Se você comprou assinaturas de um cliente em uma moeda diferente, verá uma guia para cada moeda. Você pode fazer algumas coisas desta página:
 
     - Para ver a última nota fiscal e o arquivo de reconciliação, selecione **Nota Fiscal** ou **arquivo de reconciliação**. (Se desejar, você também pode acessar os dados de arquivo de nota fiscal e reconhecimento mais recentes usando as [APIs do Partner Center](/partner-center/develop/).
 
@@ -101,9 +98,9 @@ No caso de ofertas de avaliação gratuitas do ISV:
 
 - Quando você adquire e implanta um produto qualificado de avaliação gratuita de um ISV para seu cliente, o cliente é registrado automaticamente na avaliação gratuita pelo editor ISV. O período de avaliação gratuita termina automaticamente após o período definido pelo editor ISV. Depois que o período terminar, o cliente será cobrado. Isso significa que o arquivo de reconciliação pode mostrar duas linhas para um produto qualificado para avaliação: um que acompanha o período de avaliação e outro que acompanha a oferta paga (que exibirá um custo de $0 até o término do período de avaliação). Quando a avaliação terminar, a linha que mostra a oferta paga começará a mostrar os encargos. 
 
-Para obter mais informações sobre o que cada coluna representa, consulte [usar seus arquivos de reconciliação](use-the-reconciliation-files.md). Consulte também [tipos de cobrança no Partner Center](billing-different-types.md)
+Para obter mais informações sobre o que cada coluna representa, consulte [usar seus arquivos de reconciliação](use-the-reconciliation-files.md). Consulte também [tipos de cobrança no Partner Center](./billing-basics.md)
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Gerenciar produtos do Marketplace comercial para clientes](csp-commercial-marketplace-manage.md)
-- [Saiba mais sobre o suporte para produtos do Marketplace comercial](csp-commercial-marketplace-support.md)
+- [Gerenciar produtos do marketplace comercial para clientes](csp-commercial-marketplace-manage.md)
+- [Saiba mais sobre o suporte para produtos do marketplace comercial](csp-commercial-marketplace-support.md)

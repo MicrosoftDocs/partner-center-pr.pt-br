@@ -1,6 +1,6 @@
 ---
 title: Conectar-se com seus clientes
-description: Se você for um revendedor indireto no programa CSP, este artigo o ajudará a se conectar com seus clientes novos e existentes.
+description: Se você for um revendedor indireto no programa CSP, este artigo ajudará você a se conectar com seus clientes novos e existentes.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,20 +9,17 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: adea177bd190fa3fd22b9ba60b5643b9d466ee4d
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: 6fe2eb7af3fbfa826496c1de409675cd84d92ef5
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686187"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148424"
 ---
 # <a name="connect-with-customers"></a>Conectar-se com clientes
 
 
-**Funções apropriadas**
-
-- Administrador global
-- Agente administrativo
+**Funções apropriadas:** administrador global | Agente administrador
 
 
 Para transações com clientes no Partner Center, os clientes devem ter contas do Partner Center e você deve estabelecer relações de revendedor com eles. Para permitir que seu provedor indireto adquira assinaturas e serviços em nome do cliente, o provedor indireto também deve ter uma relação de revendedor com seus clientes.
@@ -59,7 +56,7 @@ Para gerenciar assinaturas e serviços em nome de um cliente, você precisa ter 
 
 Para obter as permissões de administrador a fim de gerenciar assinaturas e serviços de um novo cliente **e** permitir que seu provedor indireto envie novos pedidos em nome dele, você pode convidar o cliente para estabelecer uma relação de revendedor com você e seu provedor ao mesmo tempo.
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>Convide um cliente para estabelecer uma relação de revendedor com você e seu provedor indireto ao mesmo tempo
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>Convidar um cliente para estabelecer uma relação de revendedor com você e seu provedor indireto ao mesmo tempo
 
 1. Selecione **Provedores indiretos** no seu **menu do Partner Center**.
 

@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 841308d535d4071ee0a8eabf3e70325edea5777c
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 3f5cf4895fa4d66c65215989d808a1dd18ef9064
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979708"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147846"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Comprar produtos do Marketplace comercial para seus clientes no Partner Center
 
 
-**Funções apropriadas**
-
-- Administrador global
-- Agente administrativo
+**Funções apropriadas**: Administração Global | Agente de administração
 
 Como parceiro no programa CSP (provedor de soluções na nuvem), você pode usar o Marketplace comercial para comprar assinaturas para seus clientes para determinados produtos de SaaS (software como serviço) oferecidos por fornecedores independentes de software (ISVs).
 
@@ -39,26 +36,26 @@ Para comprar uma assinatura de SaaS limitada ou com base em licença no Partner 
 Você também pode usar [as APIs](/partner-center/develop/) do Partner Center para criar assinaturas do Marketplace comercial para seus clientes. (Para obter mais informações sobre como usar as APIs do Partner Center, consulte [criar uma assinatura para produtos do Marketplace comercial](/partner-center/develop/create-subscription-azure-marketplace-products).)
 
 >[!IMPORTANT]
-> Como um parceiro no programa CSP, você pode comprar assinaturas SaaS **limitadas** ou **baseadas em licença** de editores ISV no Partner Center. Isso significa que você pode comprar qualquer oferta de SaaS **limitada** ou **baseada em licença** que o editor ISV tenha disponibilizado para você, incluindo [ofertas exclusivas](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) às quais você tem acesso. Para comprar ou gerenciar outras ofertas de Marketplace comercial de ISVs (como ofertas baseadas em uso que envolvem aplicativos, contêineres ou VMs do Azure), você deve ir para a [portal do Azure](https://portal.azure.com/).
+> Como um parceiro no programa CSP, você pode comprar assinaturas SaaS **limitadas** ou **baseadas em licença** de editores ISV no Partner Center. Isso significa que você pode comprar qualquer oferta de SaaS **limitada** ou **baseada em licença** que o editor ISV tenha disponibilizado para você, incluindo [ofertas exclusivas](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) às quais você tem acesso. Para comprar ou gerenciar outras ofertas do marketplace comercial de ISVs (como ofertas baseadas em uso que envolvem aplicativos do Azure, contêineres ou VMs), você deve ir para o [portal do Azure](https://portal.azure.com/).
 
-## <a name="purchase-usage-based-subscriptions-in-the-azure-portal"></a>Comprar assinaturas baseadas no uso no portal do Azure
+## <a name="purchase-usage-based-subscriptions-in-the-azure-portal"></a>Comprar assinaturas baseadas em uso no portal do Azure
 
-Ao contrário das assinaturas SaaS baseadas em licença de editores de ISVs de terceiros, as assinaturas baseadas em uso primeiro exigem que um cliente tenha uma assinatura do Azure. Cobrança para o Marketplace comercial, os recursos baseados em uso se enquadram na assinatura do Azure do cliente. Depois que o cliente tiver uma assinatura do Azure, um parceiro no programa CSP poderá seguir estas etapas para comprar uma assinatura do Marketplace comercial para elas:
+Ao contrário das assinaturas SaaS baseadas em licença de editores ISV de terceiros, as assinaturas baseadas em uso primeiro exigem que um cliente tenha uma assinatura do Azure. A cobrança para o marketplace comercial, recursos baseados em uso, fica abaixo da assinatura do Azure do cliente. Depois que o cliente tiver uma assinatura do Azure, um parceiro no programa CSP poderá seguir estas etapas para comprar uma assinatura do marketplace comercial para eles:
 
-1. Entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center e selecione **clientes** no menu à esquerda.
+1. Entre no painel Partner Center [e](https://partner.microsoft.com/dashboard)selecione **Clientes** no menu à esquerda.
 
-2. Selecione o cliente específico e, em seguida, selecione **assinaturas**.  
+2. Selecione o cliente específico e, em seguida, **selecione Assinaturas.**  
 
-3. Em **assinaturas baseadas em uso**, selecione **todos os recursos**. Isso leva você para o portal de gerenciamento do Azure.
+3. Em **Assinaturas baseadas em uso,** selecione **Todos os recursos**. Isso leva você ao portal de Gerenciamento do Azure.
 
-4. No portal de gerenciamento do Azure, selecione **criar um recurso** no menu à esquerda.
+4. No portal de Gerenciamento do Azure, **selecione Criar um recurso** no menu à esquerda.
 
-5. Selecione **ver tudo** na parte superior da lista do Azure Marketplace.
+5. Selecione **Ver tudo** na parte superior da Azure Marketplace lista.
 
-6. Para restringir sua lista, use filtros na parte superior da lista do Marketplace. Por exemplo, você pode selecionar **Microsoft** ou **Partner** na lista suspensa **Publicador** para exibir apenas ofertas da Microsoft ou de um editor ISV.
+6. Para restringir sua lista, use filtros na parte superior da lista do Marketplace. Por exemplo, você pode selecionar  **Microsoft** ou **Partner** na lista suspenso Publicador para exibir apenas ofertas da Microsoft ou aquelas de um publicador ISV.
 
-7. Escolha uma oferta específica e, em seguida, selecione **criar**.
+7. Escolha uma oferta específica e, em seguida, **selecione Criar**.
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Gerenciar ofertas do Marketplace comercial](csp-commercial-marketplace-purchase.md)
+- [Gerenciar ofertas do marketplace comercial](csp-commercial-marketplace-purchase.md)

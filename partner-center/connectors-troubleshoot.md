@@ -4,46 +4,40 @@ ms.topic: how-to
 ms.date: 09/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba mais sobre as respostas a perguntas comuns sobre como usar conectores de venda conjunta. Leia estas perguntas frequentes sobre como solucionar problemas de conectores de televenda.
+description: Saiba respostas para perguntas comuns sobre como usar conectores de venda em comum. Leia essas perguntas frequentes sobre como solucionar problemas de conectores de venda em cooperação.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 939654202a370f6d9ba15d9e62a11be44884b613
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 49a2b6e5461dacbe87c34b36805a5c240c2e5fd1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284206"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148339"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Solucionar problemas de conectores de referências de venda conjunta
 
-**Aplica-se a**
+**Aplica-se a**: Dynamics 365 CRM | Salesforce CRM
 
-- CRM do Dynamics 365
-- CRM do Salesforce
+**Funções apropriadas:** indicações de administrador | Administrador do sistema ou personalizador de sistema no CRM
 
-**Funções apropriadas**
+ ## <a name="questions-and-answers-about-pre-requisites"></a>Perguntas e respostas sobre pré-requisitos
 
-- Administrador de indicações
-- Administrador do sistema ou personalizador do sistema no CRM
+1. Você pode usar uma solução de conectores de indicações de venda co-venda de avaliação para seu ambiente?
 
- ## <a name="questions-and-answers-about-pre-requisites"></a>Perguntas e respostas sobre os pré-requisitos
+Se você estiver no ambiente de teste/preparação, poderá optar pela solução de avaliação. A versão paga dos Conectores está disponível no AppSource por US$ 15/mês. Com a conexão paga, você receberá chamadas à API de 10 mil por dia. Os Conectores são wrappers sobre as APIs Partner Center referência. Sempre que as soluções  de conector são executados para um evento Criar ou Atualizar nas oportunidades no lado Partner Center crm, uma chamada à API é feita. 
 
-1. É possível usar uma solução de avaliação de conectores de indicações para o seu ambiente?
+2. Qual função você precisa para criar seções no ambiente crm?
 
-Se você estiver no ambiente de teste/preparo, poderá optar pela solução de avaliação. A versão paga dos conectores está disponível em AppSource a US $15/mês. Com a conexão paga, você receberá chamadas de API de 10K por dia. Os conectores são wrappers sobre as APIs de referência do Partner Center. Sempre que as soluções de conector são executadas para um evento de **criação** ou **atualização** nas oportunidades no lado do parceiro ou do CRM, é feita uma chamada à API.
+Os usuários que são administradores do sistema ou personalizadores do sistema podem aplicar alterações a todos. No entanto, todos os usuários do aplicativo podem personalizar o sistema e até mesmo compartilhar algumas de suas personalizações com outras pessoas. 
 
-2. Que função você precisa para criar seções no ambiente CRM?
-
-Os usuários que são administradores de sistema ou personalizadores de sistema podem aplicar alterações para todos. No entanto, todos os usuários do aplicativo podem personalizar o sistema e até compartilhar algumas de suas personalizações com outras pessoas. 
-
-3. Os vendedores de parceiros precisam de funções especiais para trabalhar no Partner Center?
+3. Os vendedores parceiros precisam de funções especiais para trabalhar Partner Center?
  
-Os vendedores do parceiro devem ser atribuídos à função "administrador de referências". Para obter mais informações, consulte [visão geral de permissões](create-user-accounts-and-set-permissions.md).
+Os vendedores parceiros devem ser atribuídos à função "Administrador de indicações". Para obter mais informações, consulte [Visão geral de permissões.](create-user-accounts-and-set-permissions.md)
 
-4. Quais campos precisam ser configurados primeiro em seu ambiente de CRM? 
+4. Quais campos precisam ser definidos primeiro em seu ambiente crm? 
 
-• Verifique se sua moeda é apropriada para seu local e se está em seu ambiente CRM com precisão. • Sua equipe de vendas deve estar listada em seu ambiente de CRM como usuários do CRM.
+• Verifique se a moeda é apropriada para sua localização e se está em seu ambiente crm com precisão. • Sua equipe de vendas deve estar listada em seu ambiente de CRM como usuários do CRM.
 
 5. Quais pré-requisitos são necessários para a criação do ambiente de automatização de energia?
 
@@ -183,25 +177,25 @@ Verifique se as funções apropriadas existem
 
 - Verifique se a energia automatizar os logs de usuário da conta de fluxo em https://flow.microsoft.com pelo menos uma vez antes
 
-6. Se você vir que o **código do país da conta do cliente** está ausente durante a criação de uma oportunidade de venda conjunta, o que você deve fazer?
+6. Se você vir que **o código do país** da conta do cliente está ausente durante a criação de uma oportunidade de venda de venda, o que você deve fazer?
 
 Você precisará adicionar o código do país ISO de duas letras à conta do cliente no CRM.
 
-7. O que você deve fazer se você vir o erro de que a **ID da solução é necessária** ao criar uma oportunidade de venda conjunta?
+7. O que você deve fazer se vir o erro de que a **ID da Solução é necessária** durante a criação de uma oportunidade de venda co-venda?
 
-Para criar uma referência de venda conjunta, você precisa de uma solução de venda pronta da Microsoft. 
+Para criar uma indicação de venda em cooperação, você precisa de uma solução pronta para venda em cooperação da Microsoft. 
 
-8. O que você deve fazer quando você vê oportunidades de venda em conjunto criadas no Partner Center que não são sincronizadas com o CRM mesmo que não haja nenhum erro de fluxo?
+8. O que você deve fazer quando vir oportunidades de venda de Partner Center criadas no Partner Center que não estão sincronizadas com o CRM, mesmo que não haja erros de fluxo?
 
 Faça o seguinte:
 
-- Depois de criar um novo negócio de revenda no Partner Center, verifique se o Partner Center para o fluxo do Dynamics 365 é invocado (ele pode ser invocado várias vezes).
+- Depois de criar uma nova oferta de venda em Partner Center, verifique se Partner Center para o fluxo do Dynamics 365 é invocado (ele pode ser invocado várias vezes).
 
-- Se o fluxo for invocado, verifique todos os fluxos invocados e identifique a execução do fluxo que atualizaria o CRM. Você pode seguir as ações e verificar se ele atualizou o CRM ou encontrou um problema.
+- Se o fluxo for invocado, verifique todos os fluxos invocados e identifique a run de fluxo que atualizaria o CRM. Você pode seguir as ações e verificar se ele atualiza o CRM ou se encontrou um problema.
 
-- Marque **novo negócio** no Partner Center para ver se ele é preenchido com a ID do CRM.
+- Verifique **Nova oferta** no Partner Center para ver se ela é preenchida com a ID do CRM.
 
-- Certifique-se de que o negócio não seja fechado acidentalmente como **ganho** ou **perdido** no Partner Center.
+- Certifique-se de que o negócio não foi fechado acidentalmente **como Won** ou **Lost** no Partner Center.
 
 ## <a name="next-steps"></a>Próximas etapas
 

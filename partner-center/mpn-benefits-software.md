@@ -1,45 +1,42 @@
 ---
-title: Benefícios do MPN – software
+title: Benefícios do MPN – Software
 ms.topic: article
 ms.date: 03/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Saiba mais sobre os produtos de software local oferecidos como benefícios de Microsoft Partner Network (MPN)
+description: Saiba mais sobre os produtos de software locais oferecidos como benefícios Microsoft Partner Network (MPN)
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b559c1e8493c274204f1bdd219eae8bab994953e
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.openlocfilehash: 846bad6bdde080288bc7dd916e389dd86b5315f0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619368"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146282"
 ---
-# <a name="mpn-benefits---software"></a>Benefícios do MPN – software
+# <a name="mpn-benefits---software"></a>Benefícios do MPN – Software
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de parceiros do MPN
+**Funções apropriadas:** administrador global | Administrador de parceiro do MPN
 
 ## <a name="overview"></a>Visão geral
 
-Este artigo descreve os benefícios de software local disponíveis para parceiros no Partner Center. Para ver todos os produtos de software aos quais você está qualificado como parte da sua oferta de registro ativo, acesse  [MPN>benefícios e, em seguida, selecione a guia software](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software) no menu do Partner Center.  
+Este artigo descreve os benefícios de software local disponíveis para parceiros de dentro Partner Center. Para ver todos os produtos de software aos quais você tem direito como parte de sua oferta de registro ativo, acesse Benefícios do  [MPN>](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software) e selecione a guia Software no menu Partner Center.  
 
 ## <a name="manage-software-products-and-product-keys"></a>Gerenciar produtos de software e chaves de produto
 
 Selecione o produto de software de interesse e encontre as instruções específicas para cada produto clicando no símbolo suspenso em linha com o nome do produto.
 
-Se um produto exigir uma chave de produto para instalação, será solicitado que você insira uma chave do produto durante o processo de instalação. Você pode obter do mesmo painel no Partner Center, em que você escolheu a versão do software que deseja baixar.
+Se um produto exigir uma chave do produto (Product Key) para instalação, você será solicitado a inserir uma chave do produto (Product Key) durante o processo de instalação. Você pode obter no mesmo painel no Partner Center em que você escolheu a versão do software que deseja baixar.
 
-A ativação do produto é necessária para os **sistemas operacionais** **Windows Server** e cliente e **todos os aplicativos cliente do Microsoft Office**. Nem todos os produtos exigem a ativação do produto.
+A ativação do produto é necessária **para o Windows Server** e sistemas operacionais **cliente** e todos **Microsoft Office aplicativos cliente.** Nem todos os produtos exigem ativação do produto.
 
-:::image type="content" source="images/benefits/mpn-software-benefits-1.png" alt-text="Os benefícios do produto de software estão disponíveis no MPN." border="false":::
+:::image type="content" source="images/benefits/mpn-software-benefits-1.png" alt-text="Benefícios do produto de software disponíveis para você no MPN." border="false":::
 
 ## <a name="how-activations-are-counted"></a>Como as ativações são contadas
 
-O número de ativações contadas em uma chave do produto baseia-se nos seguintes cenários
+O número de ativações contadas em uma chave do produto (Product Key) baseia-se nos cenários a seguir
 
 - Se o software estiver instalado em um novo computador, a contagem de ativação do produto em relação à chave será incrementada em um.
  
@@ -49,9 +46,9 @@ O número de ativações contadas em uma chave do produto baseia-se nos seguinte
 
 ## <a name="troubleshooting-scenarios"></a>Cenários de solução de problemas
 
-- **Mensagem "não há mais detalhes disponíveis" exibida para os benefícios das CALs (licença de acesso para cliente do Windows Server)**
+- **Mensagem "Não há mais detalhes disponíveis" exibida para benefícios de CALs (Licença de Acesso ao Cliente do Windows Server)**
 
-    As CALs não são um produto que pode ser baixado. A ativação de CALs é gerenciada no próprio produto do servidor.
+    AS CALs não são um produto que pode ser baixado. A ativação de CALs é gerenciada no próprio produto do servidor.
 
 - **Você recebe uma mensagem que informa que você atingiu o máximo de ativações disponíveis para uma chave do produto ao tentar ativar o software.**
 
@@ -60,7 +57,7 @@ O número de ativações contadas em uma chave do produto baseia-se nos seguinte
 
  ## <a name="next-steps"></a>Próximas etapas
 
-- [Gerencie seus benefícios e ofertas de Microsoft Partner Network](manage-your-partner-network-benefits.md)
+- [Gerenciar os benefícios e as ofertas do Microsoft Partner Network](manage-your-partner-network-benefits.md)
 
 - [Use incidentes de suporte técnico para obter suporte técnico específico ao produto](mpn-benefits-technical-support.md)
 

@@ -8,31 +8,27 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 1ad11a42a91cfacb625a05b850b0cdfee3d48d0b
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 31bed9eabcd63f80c7924b264e7abf04dab4b543
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179251"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146792"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Gerar um plano de marketing para seu programa de incentivos
 
-**Funções apropriadas**
+**Funções apropriadas:** incentivos de administrador | Administrador de cobrança | Administrador global
 
-- Administrador de incentivos
-- Administrador de cobrança
-- Administrador global
-
-Um plano de declarações de cooperação é a série de campanhas de marketing, atividades e outros detalhes que descrevem como você tornará o seu programa um sucesso. Depois de criar seu plano, você o enviará à Microsoft para aprovação.
+Um plano de declarações de cooperação é a série de campanhas de marketing, atividades e outros detalhes que descrevem como você fará com que seu programa seja bem-sucedido. Depois de criar seu plano, você o enviará à Microsoft para aprovação.
 
 ## <a name="create-your-incentives-plan"></a>Criar seu plano de incentivos
 
-Você pode exibir seus planos selecionando **Gerenciamento** de planos na página **incentivos** e, em seguida, abrindo o programa desejado.
+Você pode exibir seus planos selecionando **Gerenciamento de** Planos na **página Incentivos** e, em seguida, abrindo o programa que deseja.
 
 >[!NOTE]
->Talvez você não veja o gerenciamento de planos na sua página de incentivos. Isso ocorre porque o painel do Partner Center é dinâmico e exibe apenas o que é apropriado para sua função e suas atividades específicas. Se você não vir o gerenciamento de planos na sua página de incentivos, isso provavelmente significa que você não está inscrito no momento em um programa que tenha planos. Contate o administrador de incentivos para obter assistência.
+>Talvez você não veja o Gerenciamento de Planos na página Incentivos. Isso acontece porque o Partner Center painel é dinâmico e exibe apenas o que é apropriado para sua função e atividades específicas. Se você não vir o Gerenciamento de Planos na página Incentivos, isso provavelmente significa que você não está atualmente inscrito em um programa que tenha planos. Entre em contato com o administrador de Incentivos para assistência.
 
-Para obter mais informações sobre planos para seu programa de incentivos específicos, consulte o guia do programa.
+Para obter mais informações sobre planos para seu Programa de incentivos específico, consulte o guia do programa.
 
 ## <a name="how-to-submit-a-plan"></a>Como enviar um plano
 
@@ -40,15 +36,15 @@ Para obter mais informações sobre planos para seu programa de incentivos espec
 
 2. Em **Incentivos** na barra de navegação esquerda, selecione **Programa** e, em seguida, selecione o programa. 
 
-3. Na página **programa** , localize o mercado apropriado para seu plano e, em seguida, selecione **criar plano**. 
+3. Na página **Programa,** localize o mercado apropriado para seu plano e, em seguida, **selecione Criar plano**. 
 
-4. Na página **novo plano** , preencha os campos obrigatórios. **Moeda** é o valor que você deseja que o plano reflita. O **email do revisor** deve ser o endereço de email da Microsoft do seu gerente de conta. Observe que apenas um plano pode ser criado por ID do MPN, fundo, programa e período. Selecione **Salvar**.
+4. Na página **Novo plano,** preencha os campos necessários. **Moeda** é o valor que você deseja que o plano reflita. **O email do revisador** deve ser o endereço de email da Microsoft do seu gerente de conta. Observe que apenas um plano pode ser criado por ID do MPN, fundo, programa e período. Selecione **Salvar**.
 
 5. Na página de status do plano, examine as informações exibidas. Selecione **Editar** para atualizar qualquer uma das informações.
 
-6. Quando as informações desta página estiverem corretas, selecione **nova campanha**.
+6. Quando as informações nesta página estão corretas, selecione **Nova campanha**.
 
-7. Preencha os campos obrigatórios na página **nova campanha** e, em seguida, selecione **salvar**.
+7. Preencha os campos necessários na **página** Nova campanha e, em seguida, **selecione Salvar**.
 
 8. Na página de status, selecione **Nova atividade**. 
 

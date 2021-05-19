@@ -9,18 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf0d3c38b301c363a4a990db5258cf2a3f30d487
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: da3fc23a51cc70eec91a304f14189eb191c71339
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109819201"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148101"
 ---
 # <a name="credit-limit-enforcement-cle"></a>Imposição de limite de crédito (CLE)
 
-**Funções apropriadas**
-
-- Administrador de cobrança
+**Funções apropriadas**: administrador de cobrança
 
 ## <a name="your-credit-limit-and-how-it-works"></a>Seu limite de crédito e como ele funciona
 

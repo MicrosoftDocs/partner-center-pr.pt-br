@@ -1,47 +1,42 @@
 ---
-title: Entender as notas fiscais de cobrança do Partner Center
+title: Entender Partner Center faturas de cobrança
 ms.topic: article
 ms.date: 05/18/2020
-description: Entenda os campos em seu arquivo de nota fiscal para cobrança do Partner Center. Estão incluídos campos e definições de todos os campos de fatura e campos de cobrança única.
+description: Entenda os campos em seu arquivo de fatura para Partner Center cobrança. Incluídos estão campos e definições para todos os campos da fatura e campos de cobrança única.
 author: sodeb
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 44bda5256b14722f143a5bf937e73b2533b8c9f5
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 5cb60c775bd8de38b8d7ca69c4dd97cf11b919fd
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178894"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146605"
 ---
-# <a name="understand-partner-center-billing-invoice-fields"></a>Entender os campos de fatura de cobrança do Partner Center
+# <a name="understand-partner-center-billing-invoice-fields"></a>Entender Partner Center de fatura de cobrança
 
-**Funções apropriadas**
+**Funções apropriadas:** administrador global | Administrador de gerenciamento de usuários | Administrador de cobrança | Agente de helpdesk
 
-- Administrador global
-- Administrador de gerenciamento de usuário
-- Administrador de cobrança
-- Agente de suporte técnico
+Você pode usar as tabelas a seguir para entender os campos em Partner Center de fatura.
 
-Você pode usar as tabelas a seguir para entender os campos em arquivos de notas fiscais do Partner Center.
+## <a name="invoice-file-fields"></a>Campos de arquivo da fatura
 
-## <a name="invoice-file-fields"></a>Campos de arquivo de fatura
-
-Os campos a seguir aparecem nos arquivos da fatura.
+Os campos a seguir aparecem em seus arquivos de fatura.
 
 | Campo | Definição |
 | ----- | ---------- |
-| US FEIN | Seu número de identificação do empregador Federal (FEIN). Este é o seu número de identificador de imposto federal Estados Unidos. |
+| US FEIN | Seu FEIN (Número de Identificação do Seu Funcionário Federal). Esse é o seu Estados Unidos de identificador de imposto federal. |
 | Número do cliente | Seu número de cliente. |
-| Enviar cobrança para | O endereço para onde enviamos sua fatura. Você pode alterar o nome e o endereço da sua empresa em seu perfil de cobrança do Partner Center. |
-| Cobranças baseada em licença | As tarifas fixas mensais ou anuais para suas licenças baseadas em uso adquiridas, cobradas antes do serviço. Esse número é a soma de todos os encargos na coluna de **Subtotal** (coluna **T**) em seu arquivo de reconciliação baseado em licença. |
-| Encargos baseados em uso | Seu uso do Azure. Isso inclui novos serviços ou aplicativos habilitados e usados durante o período de cobrança. Esse número é a soma de todos os encargos na coluna **PretaxCharges** (coluna **Z**) em seu arquivo de reconciliação baseado em uso. |
-| Descontos | O desconto que o cliente recebe do preço normal da assinatura. Esse número é mostrado como um *valor fixo*, não como um preço por unidade ou licença. |
-| Credits | Créditos ou ajustes para alterações feitas em assinaturas (por exemplo, a licença aumenta ou diminui). |
+| Enviar cobrança para | O endereço para onde enviamos sua fatura. Você pode alterar o nome e o endereço da sua empresa em seu Partner Center de cobrança. |
+| Cobranças baseada em licença | Os encargos mensais ou anuais simples para suas licenças baseadas em uso adquiridas, cobradas com antecedência do serviço. Esse número é a soma de todos os encargos na **coluna Subtotal** (coluna **T**) no arquivo de reconciliação baseado em licença. |
+| Encargos baseados em uso | Seu uso do Azure. Isso inclui novos serviços ou aplicativos habilitados e usados durante o período de cobrança. Esse número é a soma de todos os encargos na **coluna PretaxCharges** (coluna **Z**) em seu arquivo de reconciliação baseado em uso. |
+| Descontos | O desconto que o cliente recebe do preço normal da assinatura. Esse número é mostrado como um *valor simples,* não como um preço por unidade ou licença. |
+| Credits | Créditos ou ajustes para alterações feitas em assinaturas (por exemplo, aumentos ou diminuições de licença). |
 | Subtotal | Total antes de impostos e encargos e créditos sem imposto. |
-| Imposto | O imposto total para seus encargos atuais, conforme totalizado na seção de **detalhes** que começa na página 2 da fatura. Esse número é a soma de todos os encargos na coluna **TaxAmount** (coluna **AA**) em seu arquivo de reconciliação baseado em uso e a coluna de **impostos** (coluna **U**) em seu arquivo de reconciliação baseado em licença. |
+| Imposto | O imposto total para os encargos atuais, conforme total na seção **Detalhes,** começando na página 2 da sua fatura. Esse número é a soma de todos os encargos na coluna **TaxAmount** (coluna **AA**) em seu arquivo de reconciliação baseado em uso e a coluna de **impostos** (coluna **U**) em seu arquivo de reconciliação baseado em licença. |
 | Outros créditos | Créditos sem imposto. |
 | Total de encargos atuais | O valor devido em sua moeda de cobrança para o período de cobrança. Esses encargos são devidos à data de vencimento do pagamento. |
 | Instruções de pagamento | Descrição de como pagar sua fatura, com base em sua região. *Sempre certifique-se de incluir o número da fatura ao fazer um pagamento.* |

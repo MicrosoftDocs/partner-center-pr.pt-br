@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5e6ca188aeb50cec6f847afb08be4a9d62b36984
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: e1bb2752dad5325478496c83fc368943780d8afb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979669"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147897"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Gerenciar produtos e ofertas do Marketplace comercial para seus clientes
 
 
-**Funções apropriadas**
-
-- Administrador global
-- Agente administrativo
+**Funções apropriadas**: Administração Global | Agente de administração
 
 Os parceiros no programa CSP (provedor de soluções de nuvem) podem usar o portal do Partner Center para comprar muitas ofertas ou assinaturas de SaaS de ISV para seus clientes a partir do mercado comercial. Depois de comprar uma oferta, você tem várias maneiras de gerenciá-la.
 
@@ -80,37 +77,37 @@ O Publicador deve fornecer um link personalizado e um código de autorização q
 
     - O editor ISV atribuiu com êxito as licenças apropriadas
 
-    - O editor ISV confirmou à Microsoft (por meio de uma API de preenchimento de SaaS separada) que a configuração da conta foi concluída com êxito
+    - O publicador ISV confirmou à Microsoft (por meio de uma API de atendimento saaS separada) que a configuração da conta foi concluída com êxito
 
-## <a name="cancel-a-license-based-saas-subscription-from-an-isv-publisher"></a>Cancelar uma assinatura SaaS baseada em licença de um editor ISV
+## <a name="cancel-a-license-based-saas-subscription-from-an-isv-publisher"></a>Cancelar uma assinatura saaS baseada em licença de um publicador ISV
 
-Ao assinar um produto SaaS baseado em licença oferecido por um editor ISV dentro do mercado comercial, você tem a opção de cancelar a assinatura em seu período de cancelamento designado. Esse período de cancelamento é alterado dependendo se você tem uma assinatura mensal ou anual. Você também pode escolher se deseja ou não renovar automaticamente a assinatura.
+Ao assinar um produto SaaS baseado em licença oferecido por um publicador ISV no marketplace comercial, você tem a opção de cancelar a assinatura dentro do período de cancelamento designado. Esse período de cancelamento muda dependendo se você tem uma assinatura mensal ou anual. Você também pode escolher se deseja ou não renovar automaticamente a assinatura.
 
-Para obter mais informações sobre períodos de cancelamento que se aplicam, como cancelar ou como renovar uma assinatura automaticamente, consulte:
+Para obter mais informações sobre períodos de cancelamento que se aplicam, como cancelar ou como renovar automaticamente uma assinatura, consulte:
 
 - [Cancelar uma assinatura](create-a-new-subscription.md#cancel-a-subscription)
 
-- [Renovar automaticamente uma assinatura do Marketplace comercial](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
+- [Renovar automaticamente uma assinatura do marketplace comercial](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
 
 ## <a name="add-or-remove-licenses-for-a-saas-subscription"></a>Adicionar ou remover licenças para uma assinatura de SaaS
 
-Para ofertas de Marketplace comercial de SaaS, você pode adicionar ou remover licenças de usuário para uma assinatura de cliente.
+Para ofertas do marketplace comercial de SaaS, você pode adicionar ou remover licenças de usuário para uma assinatura do cliente.
 
-1. Entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center e selecione **clientes** no menu de navegação à esquerda.
+1. Entre no painel Partner Center [e](https://partner.microsoft.com/dashboard)selecione **Clientes** no menu de navegação à esquerda.
 
-2. Selecione um cliente apropriado e, em seguida, selecione **assinaturas**. Isso lista todas as assinaturas baseadas em licença que você comprou para o cliente.
+2. Selecione um cliente apropriado e, em seguida, **selecione Assinaturas.** Isso lista todas as assinaturas baseadas em licença que você comprou para o cliente.
 
-3. Na coluna **assinatura** , selecione a assinatura que você deseja modificar.
+3. Na coluna **Assinatura,** selecione a assinatura que você deseja modificar.
 
-4. Na página detalhes da assinatura, localize o campo **quantidade** . É aí que você pode aumentar ou diminuir o número de licenças.
+4. Na página de detalhes da assinatura, localize **o campo** Quantidade. É aqui que você pode aumentar ou diminuir o número de licenças.
 
-5. Altere a quantidade e, em seguida, selecione **Enviar**.
+5. Altere a quantidade e, em seguida, **selecione Enviar**.
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>Gerenciar assinaturas usando APIs do Partner Center
 
-Você também pode usar as APIs do Partner Center para executar o gerenciamento do ciclo de vida e gerenciar faturas para suas assinaturas. Para obter mais informações, consulte [criar uma assinatura para produtos do Marketplace comercial](/partner-center/develop/create-subscription-azure-marketplace-products).
+Você também pode usar apIs Partner Center para executar o gerenciamento do ciclo de vida e gerenciar faturas para suas assinaturas. Para obter mais informações, [consulte Criar uma assinatura para produtos do marketplace comercial.](/partner-center/develop/create-subscription-azure-marketplace-products)
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Comprar ofertas do Marketplace comercial](csp-commercial-marketplace-purchase.md)
-- [Saiba mais sobre cobrança no Marketplace comercial](csp-commercial-marketplace-billing.md)
+- [Comprar ofertas do marketplace comercial](csp-commercial-marketplace-purchase.md)
+- [Saiba mais sobre a cobrança no marketplace comercial](csp-commercial-marketplace-billing.md)

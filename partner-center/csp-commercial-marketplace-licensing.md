@@ -4,91 +4,88 @@ ms.topic: how-to
 ms.date: 04/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como configurar e gerenciar o licenciamento para suas ofertas de Marketplace comercial de ISV.
+description: Saiba como configurar e gerenciar o licenciamento para suas ofertas do marketplace comercial do ISV.
 author: petand123
 ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f049ffda4c3d9476c09257fc814e5acac393cb54
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: c128b99b034564bcaa100ca975253f8b1bad7a42
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328008"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147948"
 ---
 # <a name="manage-licensing-in-marketplace-offers"></a>Gerenciar o licenciamento em ofertas do Marketplace
 
-**Funções apropriadas**
+**Funções apropriadas:** administrador global | Administrador da conta
 
-- Administrador global
-- Administrador de conta
-
-Este artigo orienta você pelo processo de configuração de uma oferta no Partner Center, disponibilizando-o em Microsoft AppSource e, em seguida, gerenciando licenças para essa oferta.  
+Este artigo orienta você pelo processo de configuração de uma oferta no Partner Center, disponibilizando-a no Microsoft AppSource e, em seguida, gerenciando licenças para essa oferta.  
 
 >[!IMPORTANT]
->Os recursos neste artigo estão atualmente em visualização pública.
+>Os recursos neste artigo estão atualmente em Visualização Pública.
 
 ## <a name="before-you-begin"></a>Antes de começar
 
-### <a name="commercial-marketplace-basics"></a>Noções básicas do Marketplace comercial
+### <a name="commercial-marketplace-basics"></a>Noções básicas do marketplace comercial
 
-Antes de começar esse processo, você deve se familiarizar com os conceitos básicos do Marketplace comercial. Os artigos na tabela a seguir ajudarão você a começar. 
+Antes de começar esse processo, você deve se familiarizar com os conceitos básicos do marketplace comercial. Os artigos na tabela abaixo ajudarão você a começar. 
 
 | Tópico  | Artigo  |
 |-------|--------|
-|Planos do Marketplace comercial | [Planos e preços para ofertas de Marketplace comercial](/azure/marketplace/plans-pricing)    |
-|Ofertas do Marketplace comercial  | [Tipos de listagem](/azure/marketplace/determine-your-listing-type)    |
-|Contas do Marketplace comercial |  [Criar uma conta do Marketplace comercial no Partner Center](/azure/marketplace/create-account) |
+|Planos do marketplace comercial | [Planos e preços para ofertas comerciais do marketplace](/azure/marketplace/plans-pricing)    |
+|Ofertas do marketplace comercial  | [Tipos de listagem](/azure/marketplace/determine-your-listing-type)    |
+|Contas do marketplace comercial |  [Criar uma conta do Marketplace comercial no Partner Center](/azure/marketplace/create-account) |
 
-### <a name="determine-your-offer-id"></a>Determinar sua ID de oferta
+### <a name="determine-your-offer-id"></a>Determinar sua ID da oferta
 
-Nos procedimentos abaixo, você será solicitado a inserir uma ID de oferta. Reserve algum tempo agora para criar uma ID de oferta adequada, tendo em mente os seguintes pontos:
+Nos procedimentos abaixo, você será solicitado a inserir uma ID da Oferta. Agora, leve algum tempo para ter uma ID de oferta adequada, tendo em mente os seguintes pontos:
 
 - Essa ID é visível para os clientes no endereço da Web para a oferta do Marketplace e nos modelos do Azure Resource Manager, se aplicável.
-- A ID da oferta combinada com a ID do Publicador deve ter menos de 40 caracteres de comprimento.
-- Use apenas letras minúsculas e números. A ID da oferta pode incluir hifens e sublinhados, mas sem espaços. Por exemplo, se sua ID de editor for `testpublisherid` e você inserir `test-offer-1` , o endereço Web da oferta será `https://appsource.microsoft.com/product/dynamics-365/testpublisherid.test-offer-1` .
-- Essa ID não pode ser alterada depois que você seleciona **criar**.
+- A ID da oferta combinada com a ID do distribuidor deve ter menos de 40 caracteres.
+- Use apenas letras minúsculas e números. A ID da Oferta pode incluir hifens e sublinhados, mas sem espaços. Por exemplo, se a ID do Publicador for `testpublisherid` e você inserir , o endereço Web da oferta será `test-offer-1` `https://appsource.microsoft.com/product/dynamics-365/testpublisherid.test-offer-1` .
+- Essa ID não poderá ser alterada depois que você selecionar **Criar**.
 
-### <a name="determine-your-offer-alias"></a>Determinar seu alias de oferta
+### <a name="determine-your-offer-alias"></a>Determinar o alias da oferta
 
-O alias da oferta é o nome usado para a oferta no Partner Center. Você também precisará de um alias de oferta apropriado que siga as diretrizes abaixo:
+O alias da oferta é o nome usado para a oferta em Partner Center. Você também precisará de um alias de oferta apropriado que siga as diretrizes abaixo:
 
 - Esse nome não é usado no Marketplace e é diferente do nome da oferta e de outros valores mostrados aos clientes.
-- Esse nome não pode ser alterado depois que você seleciona criar.
+- Esse nome não pode ser alterado depois que você selecionar Criar.
 
 ## <a name="create-your-offer"></a>Criar sua oferta
 
-A primeira etapa do processo de licenciamento é criar sua oferta do Marketplace comercial. 
+A primeira etapa no processo de licenciamento é criar sua oferta do marketplace comercial. 
 
 1. Entre no painel [Partner Center](https://partner.microsoft.com/dashboard/).
-2. No menu de navegação à esquerda, selecione **Marketplace comercial/visão geral**.
-3. Na parte superior da página Visão geral, selecione **nova oferta** e, em seguida, selecione **Dynamics 365 para compromisso com o cliente & PowerApps**.
-4. Insira a **ID da oferta** e o **alias da oferta** que você criou anteriormente.
+2. No menu de navegação à esquerda, selecione **Marketplace Comercial/Visão geral.**
+3. Na parte superior da página Visão geral, selecione Nova oferta e, em seguida, selecione **Dynamics 365 for Customer Engagement & PowerApps.**
+4. Insira a **ID da oferta** **e o alias da** oferta que você criou anteriormente.
 5. Selecione **Criar** para gerar a oferta e continuar.
 6. Escolha suas opções de licenciamento.
 
-    - Para habilitar o gerenciamento de licenças para sua oferta, selecione **habilitar o gerenciamento de licenças de aplicativos por meio da Microsoft**. Essa é uma configuração única, e você não poderá alterá-la depois que sua oferta for publicada.
+    - Para habilitar o gerenciamento de licenças para sua oferta, selecione **Habilitar o gerenciamento de licenças de aplicativo por meio do Microsoft**. Essa é uma configuração única e você não poderá alterá-la depois que sua oferta for publicada.
 
-    - Você também pode permitir que os clientes executem a funcionalidade base do aplicativo sem uma licença e executem recursos premium depois de adquirirem uma licença. Para fazer isso, selecione **permitir que os clientes instalem meu aplicativo mesmo se as licenças não forem atribuídas**.
+    - Você também pode permitir que os clientes executem a funcionalidade base do aplicativo sem uma licença e executem recursos premium depois que comprarem uma licença. Para fazer isso, selecione Permitir que os clientes instalem meu aplicativo **mesmo que as licenças não sejam atribuídas.**
 
-    - Se você não quiser que sua oferta tenha o gerenciamento de licenças habilitado, selecione **obtê-lo agora (gratuito)**, **avaliação gratuita** ou **entre em contato comigo**.
+    - Se você não quiser que sua oferta tenha o gerenciamento de licença habilitado, selecione Obter agora **(Gratuito),** Avaliação **gratuita** ou **Entre em contato comigo.**
 
 ## <a name="create-your-plan"></a>Criar o plano
 
-Nestas etapas, você definirá o plano ou planos que deseja habilitar para sua oferta.
+Nestas etapas, você definirá o plano ou os planos que deseja habilitar para sua oferta.
 
-1. No menu de navegação à esquerda, selecione **visão geral do plano** e, em seguida, selecione **criar novo plano**.
-2. Insira uma **ID do plano** e o **nome do plano** e, em seguida, selecione **criar**.
-3. Na página de **listagem do plano** , insira a descrição do **plano**.
-4. Para salvar a descrição e concluir mais tarde, selecione **salvar rascunho**.
+1. No menu de navegação à esquerda, selecione **Visão geral do** plano e, em seguida, selecione Criar novo **plano**.
+2. Insira uma **ID do Plano** **e o Nome do plano** e, em seguida, selecione **Criar**.
+3. Na página **Listagem de planos,** insira a **descrição do plano**.
+4. Para salvar a descrição e concluir mais tarde, selecione **Salvar rascunho.**
 
-5. Quando tiver terminado, selecione **revisar e publicar**. As informações do plano agora serão exibidas em appsource.microsoft.com Em listagem de oferta (seção planos).
+5. Quando terminar, selecione Revisar **e publicar**. As informações do plano agora serão exibidas no appsource.microsoft.com lista de ofertas (seção planos).
 
-6. Depois de criar todos os planos para esta oferta, você precisará copiar a ID de serviço de cada plano. Selecione **visão geral do plano** na parte superior da página de listagem do plano. Copie a ID de serviço de cada plano para um local seguro.
+6. Depois de criar todos os planos para essa oferta, você precisará copiar a ID de serviço de cada plano. Selecione **Visão geral do** plano na parte superior da página Listagem de planos. Copie a ID do Serviço de cada plano para um local seguro.
 
 ## <a name="add-service-ids-to-your-solution"></a>Adicionar IDs de serviço à sua solução
 
-A próxima etapa é atualizar sua solução adicionando as IDs de serviço para cada plano que você acabou de copiar. Para obter diretrizes sobre isso, consulte [criar um pacote AppSource para sua solução](https://docs.microsoft.com/powerapps/developer/data-platform/create-package-app-appsource).
+A próxima etapa é atualizar sua solução adicionando as IDs de serviço para cada plano que você acabou de copiar. Para obter diretrizes sobre isso, consulte [criar um pacote AppSource para sua solução](/powerapps/developer/data-platform/create-package-app-appsource).
 
 ## <a name="upload-your-package-and-publish-your-offer"></a>Carregue seu pacote e publique sua oferta
 
@@ -101,7 +98,7 @@ Depois de publicar a oferta, vamos revisar e verificar suas informações. Se ho
 
 ## <a name="make-your-offer-live-in-partner-center"></a>Torne sua oferta ativa no Partner Center
 
-O procedimento a seguir orienta você pelo processo de tornar sua oferta ativa no AppSource. Para saber mais sobre esse processo, consulte [introdução às opções de listagem](https://docs.microsoft.com/azure/marketplace/determine-your-listing-type).
+O procedimento a seguir orienta você pelo processo de tornar sua oferta ativa no AppSource. Para saber mais sobre esse processo, consulte [introdução às opções de listagem](/azure/marketplace/determine-your-listing-type).
 
 >[!NOTE]
 >Depois de publicar sua oferta, levará 4-6 horas para entrar em tempo real.
@@ -109,30 +106,30 @@ O procedimento a seguir orienta você pelo processo de tornar sua oferta ativa n
 1. Entre no painel [Partner Center](https://partner.microsoft.com/dashboard/).
 2. No menu de navegação à esquerda, selecione **Marketplace comercial/visão geral**.
 3. Na página **visão geral** , localize a oferta que você está procurando. As ofertas prontas para serem publicadas terão um status de versão **prévia**. Selecione a oferta.
-4. Na página **visão geral da oferta** , selecione **entrar em tempo real**.
-A oferta será ativa em 4-6 horas.
-5. Para ver sua listagem de ofertas em AppSource, selecione o link **AppSource** na parte inferior da página **visão geral da oferta** .
+4. Na página **Visão geral da** oferta, selecione Ir ao **vivo.**
+A oferta estará em tempo de 4 a 6 horas.
+5. Para ver sua listagem de ofertas no AppSource, selecione o link **AppSource** na parte inferior da **página Visão** geral da oferta.
 
-    - **Para ofertas habilitadas para licença**: se sua oferta exigir uma verificação de licença, os usuários só poderão inserir um cliente potencial clicando **em entrar em contato comigo**, para que você possa se comunicar com eles.
+    - **Para ofertas** habilitadas para licença: se sua oferta exigir uma verificação de licença, os usuários só poderão inserir um lead clicando em Entrar em Contato **comigo** para que você possa se comunicar com eles.
 
-    - **Para ofertas com licença habilitada com a opção de instalação gratuita**: se sua oferta não exigir uma verificação de licença, os usuários administradores verão um botão **obter agora** , além de **entrar em contato comigo**. Os usuários que desejam experimentar sua opção de instalação gratuita devem clicar em **obter agora**, o que os levará para instalar a oferta no centro de administração do Power Platform. Os usuários ainda poderão usar **entrar em contato comigo** se tiverem alguma dúvida ou se quiserem atualizar para um plano pago.
+    - **Para ofertas** habilitadas para licença com **a** opção de instalação gratuita: se sua oferta não exigir uma verificação de licença, os usuários administradores verão um botão Obter Agora, além de Entrar em **contato comigo.** Os usuários que quiserem experimentar sua opção de instalação gratuita devem clicar em Obter **Agora,** o que os levará para instalar a oferta no Power Platform Admin Center. Os usuários ainda poderão **usar Entrar** em contato comigo se tiver dúvidas ou se quiserem atualizar para um plano pago.
 
-## <a name="register-isv-connect-deal-in-deal-registration"></a>Registrar o contrato do ISV Connect no registro de negociações
+## <a name="register-isv-connect-deal-in-deal-registration"></a>Registrar a oferta do ISV Connect no Registro de Oferta
 
-Antes de poder atribuir licenças a um cliente, cada venda precisa ser registrada no Partner Center. Para fazer isso, consulte [registrar suas negociações](register-deals.md).
+Antes de atribuir licenças a um cliente, cada venda precisa ser registrada em Partner Center. Para fazer isso, consulte [Registrar suas ofertas.](register-deals.md)
 
 ## <a name="invite-the-customer"></a>Convidar o cliente
 
-Use o procedimento a seguir para convidar o cliente a participar desse negócio.  
+Use o procedimento a seguir para convidar o cliente para participar dessa oferta.  
 
 1. Entre no painel [Partner Center](https://partner.microsoft.com/dashboard/).
-2. No menu de navegação à esquerda, selecione **Marketplace comercial/visão geral**.
-3. No menu de navegação à esquerda, selecione **referências** e, em seguida, selecione **registro de negociações**.
-4. Filtrar para negociações **enviadas** , selecione a guia **em andamento** e, em seguida, selecione o negócio desejado.
-5. Na página Visão geral desse negócio, selecione **gerenciar licenças**.
-6. Na janela **gerenciar licenças** , selecione o cliente na lista suspensa **detalhes do cliente** . Se a relação do cliente ainda não existir, selecione **+ convidar um novo cliente para consentir**.
-7. Copie o link que é exibido.
-8. Envie este link por email para o administrador de cobrança ou administrador global do seu cliente e faça com que eles usem esse link para acessar o admin.microsoft.com e aceitar e autorizar a relação que você está estabelecendo.
+2. No menu de navegação à esquerda, selecione **Marketplace Comercial/Visão geral.**
+3. No menu de navegação esquerdo, selecione **Indicações** e, em seguida, selecione **Registro de Negociação.**
+4. Filtre **por Ofertas** enviadas, selecione **a guia** Em Andamento e, em seguida, selecione a oferta que você deseja.
+5. Na página de visão geral dessa oferta, selecione **Gerenciar licenças.**
+6. Na janela **Gerenciar licenças,** selecione o cliente na **lista suspenso Detalhes do** cliente. Se a relação de cliente ainda não existir, selecione **+Convidar um novo cliente para consentir**.
+7. Copie o link exibido.
+8. Envie este link por email para o administrador de cobrança do cliente ou administrador global e use este link para acessar o admin.microsoft.com e aceite e autorize a relação que você está estabelecendo.
 
     >[!NOTE]
     >A relação não será estabelecida até que o cliente execute esta etapa.

@@ -1,50 +1,47 @@
 ---
-title: Benefícios do Azure e da nuvem-MPN
+title: Benefícios do Azure e da nuvem – MPN
 ms.topic: article
 ms.date: 01/28/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Saiba mais sobre os benefícios de Microsoft Partner Network (MPN) para o Azure e os produtos de nuvem, incluindo como ativar assinaturas.
+description: Saiba mais sobre Microsoft Partner Network (MPN) para produtos do Azure e nuvem, incluindo como ativar assinaturas.
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8f54956f71912b2b55bdbfa6be60baf92f417378
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: 1f575a79039ae78e64e28c680a8b533d575200bc
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185325"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146350"
 ---
-# <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>Explore a área de benefícios de produtos do Azure e de nuvem no Partner Center
+# <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>Explore a área de benefícios do Azure e produtos de nuvem Partner Center
 
-**Funções apropriadas**
+**Funções apropriadas:** administrador global | Administrador de parceiro do MPN
 
-- Administrador global
-- Administrador de parceiros do MPN
-
-Este artigo descreve os benefícios específicos do Azure e da nuvem disponíveis para parceiros no Partner Center. Você também aprenderá a ativar determinados tipos de assinaturas do Azure e de nuvem.
+Este artigo descreve os benefícios específicos do Azure e da nuvem disponíveis para parceiros de dentro Partner Center. Você também aprenderá a ativar determinados tipos de assinaturas do Azure e da nuvem.
  
 ## <a name="overview"></a>Visão geral
 
-Como parceiro na Microsoft Partner Network, você pode ter acesso a muitos benefícios técnicos e de entrada no mercado para diferentes áreas. Se você tiver recebido uma das funções acima no Partner Center, poderá explorar muitos desses benefícios diretamente no painel do Partner Center.
+Como um parceiro no Microsoft Partner Network, você pode ter acesso a muitos benefícios técnicos e de entrada no mercado para diferentes áreas. Se você tiver sido atribuído a uma das funções acima no Partner Center, poderá explorar muitos desses benefícios diretamente no painel Partner Center dados.
 
 > [!NOTE]
-> Para acessar a área de benefícios do Partner Center, você só precisa entrar no [painel](https://partner.microsoft.com/dashboard) do Partner Center e selecionar **MPN** no menu de navegação à esquerda. Em seguida, selecione **benefícios** no menu, seguido da opção de benefícios específicos ou da área que você deseja explorar.
+> Para acessar a área Partner Center Benefícios, basta entrar no painel [](https://partner.microsoft.com/dashboard) Partner Center e selecionar **MPN** no menu de navegação à esquerda. Em seguida, **selecione Benefícios** no menu, seguido pela opção ou área de benefícios específica que você deseja explorar.
 
-Uma das opções de benefícios que podem estar disponíveis para você é o **Azure & produtos de nuvem**. Quando você seleciona **Azure & Cloud** no menu de **benefícios** do Partner Center, a página de **produtos de nuvem do Azure &** é exibida.
+Uma das opções de benefícios que podem estar disponíveis para você é o **Azure & na nuvem.** Quando você seleciona **o Azure & nuvem** no menu Partner Center **Benefícios,** a página & de nuvem do **Azure** é exibida.
 
 Esta página mostra os seguintes detalhes:
 
-- Vários benefícios de assinatura de produtos de nuvem do Azure & disponíveis para você, sejam assinaturas baseadas em licença ou assinaturas baseadas em uso
-- Quantidade de licenças atribuída para cada produto
+- Vários benefícios de assinatura do produto & nuvem do Azure disponíveis para você, sejam assinaturas baseadas em licença ou assinaturas baseadas em uso
+- Quantidade de licença atribuída para cada produto
 - O tipo de oferta que provisionou um produto de benefício específico para você
-- O tipo de benefício (se ele vier de núcleo ou incremental)
+- O tipo de benefício (seja ele de núcleo ou incremental)
 - A data em que um benefício específico expira
 
-:::image type="content" source="images/benefits/mpn-benefits-azure-cloud-1.png" alt-text="Página de produtos do Azure e de nuvem listando os benefícios de assinatura disponíveis para você." border="false":::
+:::image type="content" source="images/benefits/mpn-benefits-azure-cloud-1.png" alt-text="Página de produtos do Azure e da nuvem listando os benefícios de assinatura disponíveis para você." border="false":::
 
-## <a name="usage-based-vs-license-based-subscriptions"></a>Assinaturas baseadas em uso vs. com base em licença
+## <a name="usage-based-vs-license-based-subscriptions"></a>Assinaturas baseadas em uso versus baseadas em licença
 
 A página de **produtos de nuvem & do Azure** lista dois tipos de benefícios de assinatura que são provisionados para você:
 - Assinaturas baseadas em uso (Microsoft Azure crédito) 
@@ -72,27 +69,27 @@ Para ativar uma assinatura Microsoft Azure no Partner Center, você precisa atri
 
    :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-2.png" alt-text="Página de produtos do Azure e de nuvem mostrando a área de atribuição de usuário." border="false":::
 
-- Quando você atribui um crédito mensal do Azure de algo como $100 por mês (ou equivalente em moeda local), observe que você pode adicionar ou remover usuários dessa assinatura a qualquer momento.
+- Ao atribuir um crédito mensal do Azure de algo como US$ 100 por mês (ou equivalente em moeda local), observe que você pode adicionar ou remover usuários dessa assinatura a qualquer momento.
 
-- Quando você atribui o crédito em massa do Azure (anual), observe que a opção **remover** não está disponível no Partner Center. Em vez disso, você precisa transferir o crédito em massa para outra pessoa durante o ano de registro. A assinatura de crédito em massa do Azure (anual) também não pode ser combinada com outras ofertas de licenciamento, pré-pagas ou de crédito (por exemplo, Microsoft Contrato Enterprise, provedor de soluções de nuvem, Azure via Open, Azure Pass, Microsoft Action Pack, etc.).
+- Ao atribuir o crédito em massa (anual) do Azure, observe que a **opção** Remover não está disponível no Partner Center. Em vez disso, você precisa transferir o crédito em massa para outra pessoa durante o ano de registro. A assinatura de crédito em massa (anual) do Azure também não pode ser combinada com outras ofertas de licenciamento, pré-pagas ou de crédito (por exemplo, Microsoft Enterprise Agreement, Provedor de Soluções na Nuvem, Azure via Open, Azure Pass, Microsoft Action Pack etc.).
 
 ### <a name="license-based-subscriptions"></a>Assinaturas baseadas em licença
 
-Na seção assinaturas baseadas em licença da página de produtos do Azure e de nuvem, você encontrará todos os produtos de nuvem que exigem uma chave do produto para ativação, como Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic, Power BI, etc. Esses produtos são oferecidos com base no tipo de oferta ativa disponível para você como um parceiro na Microsoft Partner Network. Essas ofertas podem incluir o Microsoft Action Pack, a associação de competência Silver ou a associação de competência Gold.
+Na seção assinaturas baseadas em licença da página produtos do Azure e nuvem, você encontrará todos os produtos de nuvem que exigem uma chave do produto (Product Key) para ativação, como Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD basic, Power BI etc. Esses produtos são oferecidos com base no tipo de oferta ativa disponível para você como um parceiro no Microsoft Partner Network. Essas ofertas podem incluir microsoft Action Pack, associação de competência prata ou associação de competência gold.
 
 Para ativar uma assinatura baseada em licença: 
 
-1. Localize a assinatura específica na página de produtos do Azure e da nuvem. 
+1. Localize a assinatura específica na página Azure e produtos de nuvem. 
 
-1. Selecione a seta suspensa à direita, exiba a coluna **detalhes** para essa assinatura. 
+1. Selecione a seta para baixo à direita, Exibir **coluna de** detalhes para essa assinatura. 
 
 1. Leia as instruções na página subsequente. Isso lhe dirá mais sobre como resgatar as chaves. 
 
-   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-3.png" alt-text="Página do Azure e produtos de nuvem com detalhes da exibição." border="false":::
+   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-3.png" alt-text="Página de produtos do Azure e da nuvem com detalhes de exibição." border="false":::
 
 
-1. Quando você estiver pronto para resgatar a chave, selecione a opção de **ativação instruções** na parte inferior desta página.
-   - Se você quiser ativar uma nova assinatura ou se sua assinatura existente estiver desabilitada/expirada, abra um **navegador privado ou Incognito** e, em seguida, copie e cole o link a seguir e siga as instruções:
+1. Quando você estiver pronto para resgatar a chave, selecione a opção Passo a passo **de** ativação encontrada na parte inferior desta página.
+   - Se você quiser ativar uma nova assinatura ou se **sua** assinatura existente estiver desabilitada/expirada, abra um navegador privado ou anônimo e copie e copie o seguinte link e siga as instruções:
 
       [https://signup.microsoft.com/productkeystart](https://signup.microsoft.com/productkeystart)
       
@@ -149,21 +146,21 @@ Siga estas etapas se você estiver ativando uma assinatura pela primeira vez. Vo
 
 1. Insira a chave de 25 dígitos obtida no Partner Center e, em seguida, selecione **Avançar**.
 
-2. Verifique os detalhes do produto exibido, o número de licenças e a duração da assinatura. Quando estiver pronto, selecione **resgatar** para ativar a assinatura.
+2. Verifique os detalhes do produto exibidos, o número de licenças e a duração da assinatura. Quando estiver pronto, selecione **Resgatar para** ativar a assinatura.
 
-   A assinatura recentemente ativada estará disponível na guia **produtos** do centro de administração do M365.
+   A assinatura recém-ativada estará disponível na **guia Seus** Produtos do Centro de Administração do M365.
 
 ## <a name="licensing-scenarios"></a>Cenários de licenciamento
 
-Esta seção descreve alguns cenários de licenciamento de exemplo para assinaturas associadas ao Azure e a produtos de nuvem. Nesses cenários, você aprenderá como as datas de término da assinatura são calculadas.
+Esta seção descreve alguns cenários de licenciamento de exemplo para assinaturas associadas ao Azure e produtos de nuvem. Nesses cenários, você aprenderá como as datas de término da assinatura são calculadas.
 
 ### <a name="scenario-1"></a>Cenário 1
 
-Se você tiver 100 licenças ativas em uma assinatura e estiver tentando estender a data de término usando uma chave com 25 licenças, a data de término será estendida por três (3) meses para a assinatura com licenças 100.
+Se você tiver 100 licenças ativas em uma assinatura e estiver tentando estender a data de término usando uma chave com 25 licenças, a data de término será estendida por três (3) meses para a assinatura com 100 licenças.
 
 ### <a name="scenario-2"></a>Cenário 2
 
-Se você tiver 100 licenças ativas em uma assinatura e estiver tentando estender a data de término usando uma chave com licenças de 100, a data de término será estendida por 12 meses.
+Se você tiver 100 licenças ativas em uma assinatura e estiver tentando estender a data de término usando uma chave com 100 licenças, a data de término será estendida por 12 meses.
 
 ### <a name="scenario-3"></a>Cenário 3
 
@@ -171,14 +168,14 @@ Se você tiver cinco (5) licenças ativas em uma assinatura e estiver tentando e
 
 ### <a name="scenario-4"></a>Cenário 4
 
-Se você estiver tentando estender a data de término usando uma chave com mais de 3x licenças/estações ativas, a seguinte mensagem de erro será exibida. Esta mensagem é por design, pois a data de término da assinatura pode ser estendida por um máximo de 3 anos.
+Se você estiver tentando estender a data de término usando uma chave com mais de 3x licenças/estações ativas, a mensagem de erro a seguir será exibida. Essa mensagem é por design, pois a data de término da assinatura pode ser estendida por um máximo de 3 anos.
 
-:::image type="content" source="images/benefits/mpn-benefits-azure-cloud-6.png" alt-text="Mensagem de erro de produtos do Azure e de nuvem." border="false":::
+:::image type="content" source="images/benefits/mpn-benefits-azure-cloud-6.png" alt-text="Mensagem de erro de produtos do Azure e da nuvem." border="false":::
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- Saiba mais sobre [a migração do Office 365 E3 para o Microsoft 365 Business Premium](/microsoft-365/business/migrate-from-e3)
+- Saiba mais [sobre como migrar do Office 365 E3 para o Microsoft 365 Business Premium](/microsoft-365/business/migrate-from-e3)
    
-- Leia mais sobre [Microsoft 365 Business voz](/microsoftteams/business-voice/whats-business-voice)
+- Leia mais sobre [o Microsoft 365 Business Voice](/microsoftteams/business-voice/whats-business-voice)
   
-- Saiba mais sobre [a disponibilidade de país e região para Business Voice](/microsoftteams/business-voice/country-region-availability)
+- Saiba mais sobre [a disponibilidade de país e região para o Business Voice](/microsoftteams/business-voice/country-region-availability)

@@ -4,41 +4,39 @@ ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como vender assinaturas de clientes para ofertas de software como serviço (SaaS) de fornecedores independentes de software (ISVs) no Marketplace.
+description: Saiba como vender assinaturas de clientes para ofertas de SaaS (Software como Serviço) de ISVs (Fornecedores Independentes de Software) no marketplace.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6b914d6dbd69f374976584d1261382ef8fe9ded9
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 7c18f69a62e8f8d126a0756911d2fbcdfdb85d8d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979440"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147863"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Visão geral do marketplace comercial no Partner Center
 
-**Funções apropriadas**
+**Funções apropriadas**: administrador global
 
-- Administrador global
+Ser um parceiro no programa CSP (Provedor de Soluções na Nuvem) permite agrupar e vender produtos da Microsoft, juntamente com soluções publicadas por ISVs (Fornecedores independentes de software) de terceiros. Ser capaz de agrupar soluções dessa maneira permite atender melhor os clientes finais e expandir seus negócios de serviços do CSP.
 
-Ser um parceiro no programa CSP (provedor de soluções na nuvem) permite que você agrupe e venda produtos da Microsoft junto com soluções publicadas por ISVs (fornecedores independentes de software). Ser capaz de agrupar soluções dessa maneira permite que você atenda melhor aos clientes finais e expanda seus negócios de serviços CSP.
+Como um parceiro no programa CSP, você pode usar Partner Center para comprar muitas soluções de ISV do marketplace comercial da Microsoft. Isso oferece a você e seus clientes várias vantagens principais:
 
-Como um parceiro no programa CSP, você pode usar o Partner Center para comprar muitas soluções de ISV do Marketplace comercial da Microsoft. Isso oferece a você e a seus clientes várias vantagens importantes:
-
-- Acesso a um catálogo de soluções de software otimizadas para tecnologias e ambientes da Microsoft.
-- Aquisição simplificada e ciclo de aquisição reduzido.
-- Uma única integração com as APIs do Partner Center. (Essa integração permite ainda mais o acesso a um catálogo de soluções de ISV, reduz o custo de operações e engenharia e simplifica o gerenciamento de assinaturas de vários fornecedores e cobrança por meio de um único provedor.)
+- Acesso a um catálogo de soluções de software otimizadas para ambientes e tecnologias da Microsoft.
+- Contrato simplificado e ciclo de compras reduzido.
+- Uma única integração com Partner Center APIs. (Essa integração permite ainda mais o acesso a um catálogo de soluções ISV, reduz o custo de operações e engenharia e simplifica o gerenciamento de várias assinaturas de fornecedores e cobrança por meio de um único provedor.)
 - Implantação e provisionamento simplificados no locatário do Azure do cliente (para soluções baseadas em máquina virtual).
-- Reduz os possíveis desafios com a compra ou o contratação de ISVs diretas, a integração e a configuração de soluções da Microsoft e a necessidade de gerenciar ou consolidar faturas recorrentes de vários fornecedores.
+- Reduz possíveis desafios com compra ou contratação direta de ISV, configuração e integração de soluções da Microsoft e a necessidade de gerenciar ou consolidar faturas recorrentes de vários fornecedores.
 
-## <a name="overview-of-csp-offers-in-the-commercial-marketplace"></a>Visão geral das ofertas do CSP no Marketplace comercial
+## <a name="overview-of-csp-offers-in-the-commercial-marketplace"></a>Visão geral das ofertas do CSP no marketplace comercial
 
-Se você for um parceiro no programa CSP, haverá muitas atividades comerciais do Marketplace que talvez você queira executar em relação às ofertas de ISVs. Consulte a tabela a seguir para saber mais sobre cada atividade.
+Se você for um parceiro no programa CSP, há muitas atividades do marketplace comercial que talvez você queira executar com relação às ofertas de ISV. Consulte a tabela a seguir para saber mais sobre cada atividade.
 
 |**Se você quiser**  |**Ler**   |
 |:------------------------------------|:------------------|
-|Saiba como exibir ou Pesquisar ofertas disponíveis, preços, detalhes do produto ou informações de contato do Publicador | [Ofertas de descoberta](csp-commercial-marketplace-discover.md) | 
+|Saiba como exibir ou pesquisar ofertas, preços, detalhes do produto ou informações de contato do editor disponíveis | [Descobrir ofertas](csp-commercial-marketplace-discover.md) | 
 |Saiba como comprar e implantar uma oferta   | [Ofertas de compra](csp-commercial-marketplace-purchase.md)   | 
 |Saiba como cancelar ou renovar uma assinatura ou adicionar ou remover licenças  | [Gerenciar ofertas](csp-commercial-marketplace-manage.md) |
 |Saiba mais sobre como a cobrança funciona para compras do Marketplace comercial | [Entender a cobrança](csp-commercial-marketplace-billing.md) |
@@ -85,5 +83,5 @@ Para saber onde concluir uma atividade específica do Marketplace para ofertas d
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Descubra ou exiba ofertas de Marketplace comercial](csp-commercial-marketplace-discover.md)
-- [Comprar ofertas do Marketplace comercial](csp-commercial-marketplace-purchase.md)
+- [Descobrir ou exibir ofertas do marketplace comercial](csp-commercial-marketplace-discover.md)
+- [Comprar ofertas do marketplace comercial](csp-commercial-marketplace-purchase.md)

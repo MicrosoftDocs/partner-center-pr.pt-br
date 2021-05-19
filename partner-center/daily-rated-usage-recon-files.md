@@ -9,25 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89080cb580d9b451454d108c6ef0ce0a08c1bf0c
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9b5daf91646324a9d4ace92d25736cfd0361ad6c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441890"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147268"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Saiba como ler arquivos de reconciliação de uso com classificação diária no Partner Center
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center | Partner Center para Microsoft Cloud do governo dos EUA
 
-- Partner Center do Microsoft Cloud for US Government
-
-**Funções apropriadas**
-
-- Agente administrativo
-- Administrador de cobrança
-- Agente de vendas
-- Agente de suporte técnico
+**Funções apropriadas**: agente de administração | Administrador de cobrança | Agente de vendas | Agente de assistência técnica
 
 Este artigo explica como ler arquivos de reconciliação de uso com classificação diária.
 
@@ -53,26 +46,26 @@ Este artigo explica como ler arquivos de reconciliação de uso com classificaç
 | SkuName | O título de uma SKU em particular. |
 | ProductName | O nome do produto. |
 | PublisherName | O nome do publicador. |
-| PublisherId | O identificador do Publicador no formato GUID. |
-| Descrição da assinatura | O nome da oferta de serviço comprada pelo cliente, conforme definido na tabela de preços. (Essa coluna é um campo idêntico a **offername**). |
-| SubscriptionId | Identificador exclusivo de uma assinatura na plataforma de faturamento da Microsoft. Não usado para reconciliação. *Esse identificador não é o mesmo que a **ID de assinatura** no console de administração do parceiro.* |
-| ChargeStartDate | Data de início do ciclo de cobrança (exceto ao apresentar datas de dados de uso latentes anteriormente não cobrados do ciclo de cobrança anterior). A hora sempre é o início do dia, 0h00. |
-| Data final da cobrança | Data de término do ciclo de cobrança (exceto ao apresentar datas de dados de uso latentes anteriormente não cobrados do ciclo de cobrança anterior). A hora é sempre o fim do dia, 23:59. |
+| PublisherId | O identificador do publicador no formato GUID. |
+| Descrição da assinatura | O nome da oferta de serviço comprada pelo cliente, conforme definido na tabela de preços. (Esta coluna é um campo idêntico a **OfferName**). |
+| SubscriptionId | Identificador exclusivo de uma assinatura na plataforma de faturamento da Microsoft. Não usado para reconciliação. *Esse identificador não é o mesmo que a **ID da Assinatura** no console de administração do parceiro.* |
+| ChargeStartDate | Data de início do ciclo de cobrança (exceto ao apresentar datas de dados de uso latente não cobrados anteriormente do ciclo de cobrança anterior). A hora sempre é o início do dia, 0h00. |
+| Data final da cobrança | Data de término do ciclo de cobrança (exceto ao apresentar datas de dados de uso latente não cobrados anteriormente do ciclo de cobrança anterior). A hora é sempre o fim do dia, 23:59. |
 | UsageDate | Data de uso do serviço. |
 | MeterType | O tipo de medidor. |
 | MeterCategory | O serviço de nível superior para o uso. |
 | MeterId | O identificador do medidor que está sendo usado. |
 | MeterSubCategory | O tipo de serviço do Azure, que pode afetar a taxa. |
 | MeterName | A unidade de medida para o medidor que está sendo consumido. |
-| MeterRegion | Esta coluna identifica o local de um data center dentro da região para serviços em que MeterRegion é aplicável e populado. |
-| Unidade | A unidade do **nome** do recurso. |
-| ResourceLocation | O data center onde o medidor está em execução. |
+| MeterRegion | Essa coluna identifica o local de um data center dentro da região para serviços em que MeterRegion é aplicável e populado. |
+| Unidade | A unidade do nome do **recurso.** |
+| ResourceLocation | O data center em que o medidor está em execução. |
 | ConsumedService | O serviço da plataforma do Azure que você usou. |
-| ResourceGroup | Representa um contêiner que mantém recursos relacionados para uma solução do Azure. |
+| ResourceGroup | Representa um contêiner que contém recursos relacionados para uma solução do Azure. |
 | ResourceURI | O URI do recurso que está sendo usado. |
 | ChargeType | O tipo de preço ou ajuste.  |
-| UnitPrice | Preço por licença, conforme publicado na lista de preços no momento da compra. Verifique se esse preço corresponde às informações armazenadas em seu sistema de cobrança durante a reconciliação. |
-| Quantidade | Número de licenças. Verifique se esse preço corresponde às informações armazenadas em seu sistema de cobrança durante a reconciliação. |
+| UnitPrice | Preço por licença, conforme publicado na lista de preços no momento da compra. Certifique-se de que esse preço corresponde às informações armazenadas em seu sistema de cobrança durante a reconciliação. |
+| Quantidade | Número de licenças. Certifique-se de que esse preço corresponde às informações armazenadas em seu sistema de cobrança durante a reconciliação. |
 | UnitType | O tipo de unidade em que o medidor é cobrado.  |
 | BillingPreTaxTotal | Valor total de cobrança antes dos impostos.<br/> _**BillingPreTaxTotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
 | BillingCurrency | A moeda na região geográfica do cliente. |
@@ -86,10 +79,10 @@ Este artigo explica como ler arquivos de reconciliação de uso com classificaç
 | PCToBCExchangeRate | Taxa de câmbio aplicada para a moeda de preço à moeda de cobrança. |
 | PCToBCExchangeRateDate | A data na qual a moeda de preço para a moeda de cobrança é determinada. |
 | EntitlementId | Representa a ID da assinatura do Azure. |
-| EntitlementDescription | Representa o nome da ID da assinatura do Azure. |
-| PartnerEarnedCreditPercentage | Exibe o PartnerEarnedCredit para o item de linha. O crédito acumulado será de 0 ou 15 por cento |
-| CreditPercentage | Exibe o crédito de consumo do Azure. O crédito acumulado será de 0 a 100 por cento. |
-| Créditos | Tipo de crédito. Por exemplo, o **crédito do Azure é aplicado.** |
+| EntitlementDescription | Representa o nome da ID da Assinatura do Azure. |
+| PartnerEarnedCreditPercentage | Exibe o PartnerEarnedCredit para o item de linha. O crédito ganho será de 0 ou 15% |
+| CreditPercentage | Exibe o Crédito de Consumo do Azure. O crédito ganho será de 0 ou 100%. |
+| CreditType | Tipo do crédito. Por exemplo, **Crédito Azure Aplicado.** |
 >[!NOTE]
 >O uso com classificação diária normalmente leva 24 horas para aparecer no Partner Center ou para ser acessado por meio da API.
 

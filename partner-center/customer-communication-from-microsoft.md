@@ -9,22 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 6de0d50364930999a7d0f335016a7c5a1864d8ab
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 407b133d37d3f1c3ca46c8a9c15b3a75e93f2922
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284342"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147438"
 ---
 # <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Diretrizes para comunicação bem-sucedida do cliente com a Microsoft
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center | Partner Center para Microsoft Cloud do governo dos EUA
 
-- Partner Center do Microsoft Cloud for US Government
-
-**Funções apropriadas**
-
-- Agente de suporte técnico
+**Funções apropriadas**: agente de assistência técnica
 
 Em geral, esperamos que todas as comunicações com o cliente venham do parceiro CSP (Provedor de Soluções na Nuvem). Porque você possui a relação de cobrança do cliente, a Microsoft não enviará comunicações diretamente aos seus clientes relacionadas às suas assinaturas.
 

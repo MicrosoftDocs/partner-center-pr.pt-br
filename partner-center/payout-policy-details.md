@@ -1,43 +1,40 @@
 ---
 title: Agendas e processos de pagamento
-description: Saiba mais sobre pagamentos e transações, como planos de pagamento e processos de revitória para o mercado comercial e outras transações.
-ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+description: Saiba mais sobre pagamentos e transações, como agendamentos de pagamento e processos de recoupmentação para o marketplace comercial e outras transações.
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: f2ba8132677eb0a0368021b6d7065f5202589f24
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086168"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146945"
 ---
 # <a name="payout-schedules-and-processes"></a>Agendas e processos de pagamento
 
-**Funções apropriadas**
+**Funções apropriadas:** conta de administrador | Administrador global
 
-- Administrador de conta
-- Administrador global
-
-Este artigo aborda o plano de pagamento da Microsoft, onde encontrar o status de um pagamento e o processo de não pagamento de cliente.
+Este artigo aborda a agenda de pagamento da Microsoft, onde encontrar o status de um pagamento e o processo de não pagamento do cliente.
 
 ## <a name="payment-schedules"></a>Agendamentos de pagamento
 
-As seções a seguir descrevem nosso processo de pagamento para transações de **contrato Enterprise** e de **cartão de crédito/fatura** .
+As seções a seguir descrevem nosso processo de pagamento para **Enterprise Agreement** e **transações de cartão de crédito/fatura.**
 
-### <a name="enterprise-agreement-transactions"></a>Transações de Contrato Enterprise
+### <a name="enterprise-agreement-transactions"></a>Enterprise Agreement transações
 
-Quando um cliente adquire um produto do Microsoft AppSource ou do Azure Marketplace usando seus Contrato Enterprise da Microsoft existentes para transações, emitiremos pagamentos no próximo ciclo de pagamento de 30 dias após a fatura do cliente. As transações em que um cliente usa um cartão de crédito têm um período de manutenção de 30 dias antes do pagamento.
+Quando um cliente comprar um produto do Microsoft AppSource ou Azure Marketplace usando o Microsoft Enterprise Agreement existente para transações, emitiremos pagamentos no próximo ciclo de pagamento 30 dias após a fatura do cliente. As transações em que um cliente usa um cartão de crédito têm um período de 30 dias antes do pagamento.
 
-Muitas vezes, um pagamento ocorrerá antes que A Microsoft colete o pagamento do cliente. Consulte [processar para não pagamento de cliente](#process-for-customer-non-payment) abaixo para as ações que adotamos se o cliente não conseguir pagar a Microsoft, mas já tiver emitido um pagamento.
+Um pagamento geralmente ocorrerá antes que a Microsoft colete o pagamento do cliente. Confira [Processar o não pagamento do](#process-for-customer-non-payment) cliente abaixo para as ações que tomaremos se o cliente não pagar a Microsoft, mas já emitirmos um pagamento.
 
-| Evento | Descrição | Visibilidade de relatórios | Periodic |
+| Evento | Descrição | Visibilidade do relatório | Tempo* |
 | --- | --- | --- | --- |
-| Uso ou mês de transação | O cliente usa ou compra um serviço. | Painel de [uso](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 1** |
-| A Microsoft calcula o valor da cobrança | Determinar o uso total, total de transações | Painel de [uso](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 2** |
-| Pagamento Postado | Determinar a taxa da Agência e os ganhos de pagamento | Marcado como não processado no histórico de transações na [instrução de pagamento](payout-statement.md) | **Mês 3 (1ª semana)** |
+| Uso ou mês da transação | O cliente usa ou compra um serviço. | [Painel uso](/azure/marketplace/partner-center-portal/usage-dashboard) [ou](/azure/marketplace/partner-center-portal/orders-dashboard) pedido | **Mês 1** |
+| A Microsoft calcula o valor da cobrança | Determinar o uso total, total de transações | [Painel uso](/azure/marketplace/partner-center-portal/usage-dashboard) [ou](/azure/marketplace/partner-center-portal/orders-dashboard) pedido | **2º mês** |
+| Pagamento postado | Determinar a taxa da Agência e os ganhos de pagamento | Marcado como não processado no histórico de transações na [instrução de pagamento](payout-statement.md) | **Mês 3 (1ª semana)** |
 | Preparar pagamento | Os ganhos são preparados para pagamento mensal | Marcado como futuro no histórico de transações na [instrução de pagamento](payout-statement.md) | **Mês 3 (1ª semana)** |
 | **Pagamento enviado** | **O pagamento é enviado ao Publicador** | **Marcado como enviado no histórico de transações e na seção de pagamentos da [instrução de pagamento](payout-statement.md)** | **Mês 3 (não depois do 15º)** |
 | Fatura paga pelo cliente | A Microsoft coleta o pagamento do cliente | Nenhuma alteração | **Mês 4 a 12** |
@@ -53,11 +50,11 @@ Todas as compras com um cartão de crédito ou uma nota fiscal mensal têm um pe
 
 | Evento | Descrição | Visibilidade de relatórios | Periodic |
 | --- | --- | --- | --- |
-| Uso ou mês de transação | O cliente usa ou compra um serviço. | Painel de [uso](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 1** |
-| Fatura paga pelo cliente | Determinar o uso total, o valor total da transação e o cliente paga fatura | Painel de [uso](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 2** |
-| Pagamento Postado | Determinar a taxa da Agência e os ganhos de pagamento | Marcado como não processado no histórico de transações na [instrução de pagamento](payout-statement.md) | **Mês 2** |
-| período de manutenção de 30 dias | Garanta a coleta de fundos, possíveis chargeback e solicitações de reembolso | Marcado como não processado no histórico de transações na [instrução de pagamento](payout-statement.md) | **Mês 3** |
-| Preparar pagamento | Os ganhos são preparados para pagamento mensal | Marcado como futuro no histórico de transações na [instrução de pagamento](payout-statement.md) | **Mês 4 (1ª semana)** |
+| Uso ou mês da transação | O cliente usa ou compra um serviço. | [Painel uso](/azure/marketplace/partner-center-portal/usage-dashboard) [ou](/azure/marketplace/partner-center-portal/orders-dashboard) pedido | **Mês 1** |
+| Fatura paga pelo cliente | Determinar o uso total, o valor total da transação e a fatura paga pelo cliente | [Painel uso](/azure/marketplace/partner-center-portal/usage-dashboard) [ou](/azure/marketplace/partner-center-portal/orders-dashboard) pedido | **2º mês** |
+| Pagamento postado | Determinar os ganhos de tarifa de agência e pagamento | Marcado como Não Processado no Histórico de Transações na [instrução de pagamento](payout-statement.md) | **2º mês** |
+| Período de espera de 30 dias | Garantir a coleta de fundos, possíveis esbarrões e solicitações de reembolso | Marcado como Não Processado no Histórico de Transações na [instrução de pagamento](payout-statement.md) | **Mês 3** |
+| Preparar o pagamento | Os ganhos são preparados para pagamento mensal | Marcado como Futuro no Histórico de Transações na [instrução de pagamento](payout-statement.md) | **Mês 4 (1ª semana)** |
 | **Pagamento enviado** | **O pagamento é enviado ao Publicador** | **Marcado como enviado no histórico de transações e na seção de pagamentos da [instrução de pagamento](payout-statement.md)** | **Mês 4 (não depois do 15º)** |
 |
 
@@ -77,14 +74,14 @@ O agendamento a seguir é um exemplo:
 
 | Evento | Data aproximada * | Visibilidade do parceiro |
 | --- | --- | --- |
-| Data de pagamento de exemplo | 10/15/2020 | Marcado como **enviado** no histórico de transações e na seção de pagamentos no painel de pagamento |
-| <font color="red">Se o cliente não pagar a Microsoft</font> | 12/2/2020 – 12/5/2020 | Nenhuma alteração, igual à acima |
+| Data de pagamento de exemplo | 10/15/2020 | Marcado como **Enviado no** Histórico de Transações e na seção Pagamentos no Painel de Pagamento |
+| <font color="red">Se o cliente não pagar à Microsoft</font> | 12/2/2020 – 12/5/2020 | Nenhuma alteração, a mesma que acima |
 | O cliente recebe o primeiro email de pagamento atrasado | 12/6/2020 | Nenhum |
-| O cliente recebe emails regulares de maior urgência | 12/7/2020 – 1/31/2021 | Nenhum |
-| A gravação notificada do Publicador é provavelmente | 1/7/2021 | Notificação por email enviada ao Publicador de que seu cliente ainda não enviou o pagamento. A ID da transação e o valor de dólar estão incluídos. |
-| O cliente recebe aviso de encerramento | 2/1/2021 | Nenhum |
-| O processo de coleta termina/fundos são gravados | 2/15/2021 | Notificação por email enviada ao Publicador de que os fundos foram gravados. A ID da transação e o valor de dólar estão incluídos. |
-| Pagamento deduzido | 01/03/2021 | O Publicador verá uma transação negativa na instrução pagamento do Partner Center |
+| O cliente recebe emails regulares de crescente urgência | 12/7/2020 – 1/31/2021 | Nenhum |
+| É provável que o editor seja notificado sobre a ressarção | 1/7/2021 | Notificação por email enviada ao editor de que seu cliente ainda não enviou o pagamento. ID da transação e valor em dólar estão incluídos. |
+| O cliente recebe um aviso de encerramento | 2/1/2021 | Nenhum |
+| O processo de coleta termina/os fundos são gravados | 2/15/2021 | Notificação por email enviada ao editor de que os fundos foram gravados. ID da transação e valor em dólar estão incluídos. |
+| O pagamento é deduzido | 01/03/2021 | O publicador verá uma transação negativa Partner Center instrução de pagamento |
 | Pagamento retido | 3/15/2021 | Pagamentos futuros serão mostrados na instrução pagamento do centro de parceiros. O Publicador não receberá o pagamento até que o saldo não seja mais negativo.  |
 |||
 

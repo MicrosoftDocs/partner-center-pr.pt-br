@@ -4,40 +4,37 @@ ms.topic: article
 ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba mais sobre os diferentes relacionamentos de parceiros e cenários de transação com suporte para parceiros no programa CSP.
+description: Saiba mais sobre diferentes relações de parceiro e cenários de transação com suporte para parceiros no programa CSP.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cbba669cbccf96fe9addc6d4b7c7ac4b86c15ddf
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: b70f8f152bc3711e5a715b6a4f0316f8aaa9b903
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434895"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147506"
 ---
 # <a name="learn-how-partners-can-work-with-other-partners-in-the-csp-program"></a>Saiba como os parceiros podem trabalhar com outros parceiros no programa CSP
 
-**Aplica-se a**
+**Funções apropriadas:** todos os parceiros interessados em saber mais sobre o CSP
 
-- Partner Center
-- Parceiros no programa CSP
+Este artigo descreve os principais tipos de relações de parceiro no programa Provedor de Soluções na Nuvem da Microsoft (CSP). Ele também descreve vários casos de uso, benefícios e cenários de transação com suporte para parceiros do programa CSP.
 
-Este artigo descreve os principais tipos de relações de parceiro no programa CSP (provedor de solução Microsoft Cloud). Ele também descreve vários casos de uso, benefícios e cenários de transação com suporte para parceiros do programa CSP.
+Ser um parceiro no programa CSP permite que você vá além das licenças de revenda para que você possa estar mais envolvido nos negócios de seus clientes. O programa CSP coloca os parceiros no centro da relação com o cliente. Isso leva a um envolvimento mais profundo com seus clientes, uma visão interna dos negócios de um cliente e a chance de descobrir novas oportunidades de vendas. Ele pode até mesmo ajudá-lo a acelerar a transformação digital do cliente.
 
-Ser um parceiro no programa CSP permite que você vá além de revender as licenças para que você possa estar mais envolvido nos negócios dos seus clientes. O programa CSP coloca os parceiros no centro da relação com o cliente. Isso leva a um envolvimento mais profundo com seus clientes, uma visão de insider para os negócios de um cliente e a chance de descobrir novas oportunidades de vendas. Ele pode até mesmo ajudá-lo a acelerar a transformação digital do seu cliente.
+Ser um parceiro do programa CSP também significa que você pode aproveitar fluxos de rentabilidade adicionais. Você pode fazer isso integrando ofertas da Microsoft (de terceiros) e ofertas de terceiros com seus próprios serviços com valor agregado. Isso expande seu portfólio de negócios e melhores posições para atender às crescentes demandas dos clientes.
 
-Ser um parceiro do programa CSP também significa que você pode aproveitar fluxos de rentabilidade adicionais. Você pode fazer isso integrando ofertas da Microsoft (de terceiros) e ofertas de terceiros com seus próprios serviços de valor agregado. Isso expande seu portfólio de negócios e o posiciona melhor para atender às crescentes demandas dos clientes.
+## <a name="types-of-partner-relationships-in-the-csp-program"></a>Tipos de relações de parceiro no programa CSP
 
-## <a name="types-of-partner-relationships-in-the-csp-program"></a>Tipos de relacionamentos de parceiros no programa CSP
-
-Como um parceiro no programa CSP, você pode decidir como deseja interagir com a Microsoft e com outras pessoas. O programa CSP atualmente dá suporte a três tipos principais de relação transacional:
+Como um parceiro no programa CSP, você pode decidir como deseja interagir com a Microsoft e com outras pessoas. Atualmente, o programa CSP dá suporte a três tipos principais de relação transacional:
 
 - Provedores indiretos
 - Revendedores indiretos
 - Parceiros de cobrança direta
 
-**Provedores indiretos** (também conhecidos como distribuidores) adquirem ofertas de terceiros e ofertas de terceiros do Microsoft Marketplace. Como um provedor indireto, você pode comprar e integrar essas ofertas em seu próprio comércio ou Marketplace existente. Isso permite que os revendedores indiretos adquiram essas ofertas e as revendem para seus próprios clientes. Ser um provedor indireto significa que você tem a infraestrutura e os recursos para dar suporte a revendedores indiretos em escala. Isso também significa que você pode fornecer serviços adicionais aos clientes em nome de seus revendedores indiretos, como atendimento ao cliente e cobrança. Para saber mais sobre como os provedores indiretos se conectam com revendedores indiretos, consulte [parceiro com revendedores indiretos no programa CSP](indirect-provider-tasks-in-partner-center.md).
+**Provedores indiretos** (também conhecidos como distribuidores) compram ofertas de terceiros e ofertas de terceiros do Microsoft Marketplace. Como um provedor indireto, você pode comprar e integrar essas ofertas em seu próprio comércio ou marketplace existente. Isso permite que seus revendedores indiretos adquirirem essas ofertas e revendê-las para seus próprios clientes. Ser um provedor indireto significa que você tem a infraestrutura e os recursos para dar suporte a revendedores indiretos em escala. Isso também significa que você pode fornecer serviços adicionais aos clientes em nome de seus revendedores indiretos, como atendimento ao cliente e cobrança. Para saber mais sobre como os provedores indiretos se conectam com revendedores indiretos, consulte [parceiro com revendedores indiretos no programa CSP](indirect-provider-tasks-in-partner-center.md).
 
 **Revendedores indiretos** são parceiros no programa CSP que variam em tamanho e escopo de negócios, mas que não têm uma relação de cobrança direta com a Microsoft. Como um revendedor indireto, você depende de provedores indiretos para o Transact no programa CSP. Alguns revendedores indiretos também podem oferecer serviços gerenciados, suporte e soluções de cobrança aos clientes. Você pode receber vários benefícios de sua parceria com provedores indiretos. Ao trabalhar com provedores de tecnologia experientes, você pode ir para o mercado sem precisar fazer um grande investimento de capital. Como revendedor indireto, você também pode acessar um portfólio mais amplo de soluções da Microsoft e de terceiros. Para saber mais sobre como se tornar um revendedor indireto, confira [tarefas indiretas do revendedor no Partner Center](indirect-reseller-tasks-in-partner-center.md).
 
@@ -47,34 +44,34 @@ Como um parceiro no programa CSP, você pode decidir como deseja interagir com a
 
 Como parte dos aprimoramentos contínuos do programa de provedor de soluções na nuvem, atualizamos os contratos existentes para parceiros que desejam ingressar no programa CSP.
 
-O **Microsoft Partner Agreement (MPa)** oferece aos parceiros um contrato digital e simplificado que dá suporte a novos cenários de negócios, uma necessidade reduzida para vários contratos de parceiros e conformidade mais fácil com requisitos legais globais.
+O **Contrato de Parceiro da Microsoft (MPA)** fornece aos parceiros um contrato digital simplificado que dá suporte a novos cenários de negócios, uma necessidade reduzida de vários contratos de parceiros e conformidade mais fácil com requisitos legais globais.
 
 >[!IMPORTANT]
-> A partir de 1º de fevereiro de 2020, o contrato de parceiro da Microsoft deve ser assinado por todos os parceiros que estão no programa CSP. Isso inclui provedores indiretos, parceiros de fatura direta e revendedores indiretos.
+> A partir de 1º de fevereiro de 2020, o Contrato de Parceiro da Microsoft deve ser assinado por todos os parceiros que transacionarem no programa CSP. Isso inclui provedores indiretos, parceiros de cobrança direta e revendedores indiretos.
 
 Um revendedor indireto precisa assinar o MPA antes que o revendedor possa participar das seguintes atividades:
 
-- Antes que um provedor indireto possa associar a ID de MPN do revendedor indireto a uma nova assinatura do CSP
-- Antes que um provedor indireto possa negociar novos negócios com esse revendedor
+- Antes que um provedor indireto possa associar a ID do MPN do revendedor indireto a uma nova assinatura do CSP
+- Antes que um provedor indireto possa realizar novos negócios com esse revendedor
 
-Na verdade, os revendedores indiretos precisam fazer três coisas antes de poderem ser novos negócios no programa de provedor de soluções de nuvem:
+Na verdade, os revendedores indiretos precisam fazer três coisas antes que possam fazer transações de novos negócios no programa Provedor de Soluções na Nuvem:
 
-- Integração com o Partner Center
+- Integração ao Partner Center
 - Inscrever-se como um revendedor indireto
-- Assinar o Microsoft Partner Agreement (MPA)
+- Assinar o Contrato de Parceiro da Microsoft (MPA)
 
-Para obter mais informações, consulte [Microsoft Partner Agreement (MPa) para parceiros CSP](microsoft-partner-agreement.md).
+Para obter mais informações, [consulte Contrato de Parceiro da Microsoft (MPA) para parceiros do CSP.](microsoft-partner-agreement.md)
 
-## <a name="supported-partner-transactions-in-the-csp-program"></a>Transações de parceiros com suporte no programa CSP
+## <a name="supported-partner-transactions-in-the-csp-program"></a>Transações de parceiro com suporte no programa CSP
 
-Os parceiros no programa CSP são oferecidos a muitas oportunidades para trabalhar juntos. A seção a seguir descreve como alguns cenários de parceiros de exemplo podem ou não ter suporte no programa CSP.
+Os parceiros no programa CSP são oferecidos muitas oportunidades para trabalhar juntos. A seção a seguir descreve como alguns cenários de parceiros de exemplo podem ou não ter suporte no programa CSP.
 
-**Cenário de exemplo 1:** E se um parceiro quiser vender para o cliente, possuir a relação de ponta a ponta e ser responsável por cobrança e suporte ao cliente?
+**Cenário de exemplo 1:** E se um parceiro quiser vender para o cliente, possuir a relação de ponta a ponta e ser responsável pela cobrança e pelo atendimento ao cliente?
 
-Esse cenário tem suporte de dois tipos de relacionamento transacional:
+Esse cenário tem suporte em dois tipos de relação transacional:
 
-- **Relação 1:** A Microsoft vende-se para o parceiro Direct-Bill. O parceiro de cobrança direto Então vende para o cliente final.<br>
-- **Relação 2:** A Microsoft vende-se para o provedor indireto. O provedor indireto, em seguida, vende para o revendedor indireto. O revendedor indireto vende para o cliente final.</br>
+- **Relação 1:** A Microsoft vende para o parceiro de cobrança direta. Em seguida, o parceiro de cobrança direta é vendido para o cliente final.<br>
+- **Relação 2:** A Microsoft vende para o provedor indireto. Em seguida, o provedor indireto é vendido para o revendedor indireto. Em seguida, o revendedor indireto é vendido para o cliente final.</br>
 
 **Cenário de exemplo 2:** E se um parceiro tiver um cliente que precisa de um serviço ou solução específica oferecido por outro parceiro do programa CSP?
 

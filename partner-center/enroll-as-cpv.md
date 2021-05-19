@@ -1,6 +1,6 @@
 ---
 title: Inscreva-se como um Fornecedor de Painel de Controle
-description: Saiba como registrar-se como um fornecedor do painel de controle (CPV) no Partner Center para que você possa integrar melhor os sistemas de parceiros CSP com as APIs do Partner Center.
+description: Saiba como se registrar como um CPV (fornecedor Painel de Controle) no Partner Center para que você possa integrar melhor os sistemas de parceiros do CSP com Partner Center APIs.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,35 +9,33 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 01/15/2021
-ms.openlocfilehash: 5fd2267d53641fe4a0b6181217a35f0470e5bbe5
-ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
+ms.openlocfilehash: edc0ea8f0fda58f23cbce82bc7023a3277517cc3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "98560503"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147132"
 ---
 # <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>Inscreva-se como um Fornecedor de Painel de Controle para ajudar a integrar sistemas de parceiros CSP com as APIs do Partner Center
 
 
-**Funções apropriadas**
+**Funções apropriadas**: administrador global
 
-- Administrador global
+Um CPV (fornecedor de Painel de Controle) é um fornecedor de software independente que desenvolve aplicativos para uso por parceiros do Provedor de Soluções na Nuvem (CSP) para permitir que eles integrem seus sistemas às APIs Partner Center. Um Painel de Controle fornecedor não é um Parceiro CSP com acesso direto ao painel Partner Center ou às APIs Partner Center.
 
-Um fornecedor do painel de controle (CPV) é um fornecedor de software independente que desenvolve aplicativos para uso por parceiros do CSP (provedor de soluções na nuvem) para permitir que eles integrem seus sistemas com as APIs do Partner Center. Um fornecedor do painel de controle não é um parceiro CSP com acesso direto ao painel do Partner Center ou às APIs do Partner Center.
+Se você é um CPV (fornecedor de Painel de Controle) atual ou um novo CPV que deseja trabalhar com parceiros da Microsoft, a Microsoft agora exige que você se registre no Partner Center para registrar seus aplicativos e dar suporte a parceiros Provedor de Soluções na Nuvem. Para criar uma conta, um parceiro CPV pode usar um locatário de parceiro CSP existente ou um locatário CPV existente ou pode criar um novo locatário como parte do processo de integração. Se o parceiro CPV optar por usar o locatário CSP existente, ele precisará criar aplicativos multi locatário separados e registrá-los no Partner Center para atividades de CPV. Um aplicativo não pode ser registrado como um aplicativo CSP e CPV. Depois de se registrar no Partner Center e registrar seus aplicativos, você terá acesso às APIs Partner Center aplicativo.  Entre em contato com a Microsoft por meio Suporte da Microsoft solicitação se precisar de uma conta de área sandbox. Se você já tiver uma conta de área sandbox, continue usando-a. Você não precisará de uma nova área sandbox
 
-Seja você um fornecedor atual do painel de controle (CPV) ou um novo CPV que queira trabalhar com parceiros da Microsoft, a Microsoft agora exige que você se registre no Partner Center para registrar seus aplicativos e dar suporte a parceiros do provedor de soluções na nuvem. Para criar uma conta, um parceiro CPV pode usar um locatário de parceiro CSP existente ou um locatário CPV existente ou pode criar um novo locatário como parte do processo de integração. Se o parceiro CPV optar por usar o locatário CSP existente, ele precisará criar aplicativos separados de vários locatários e registrá-los no Partner Center para atividades do CPV. Um aplicativo não pode ser registrado como um CSP e um aplicativo CPV. Depois de inscrever-se no Partner Center e registrar seus aplicativos, você terá acesso às APIs do Partner Center.  Contate a Microsoft por meio de uma solicitação de Suporte da Microsoft se você precisar de uma conta de área restrita. Se você já tiver uma conta de área restrita, continue a usá-la. Você não precisará de uma nova área restrita
-
-Examinar o [contrato de fornecedor do painel de controle da Microsoft](https://go.microsoft.com/fwlink/?linkid=2055198)
+Revisar o [contrato do Fornecedor Painel de Controle Microsoft](https://go.microsoft.com/fwlink/?linkid=2055198)
 
 
 ## <a name="working-in-partner-center"></a>Trabalhando no Partner Center
 
-Depois que você se inscreveu na experiência de CPV do Partner Center e aceitou o contrato CPV, você pode:
+Depois de se registrar na experiência de Partner Center CPV e aceitar o contrato de CPV, você poderá:
 
-- Gerencie aplicativos multilocatários (adicione aplicativos para portal do Azure, registrar e cancelar o registro de aplicativos no Partner Center).
+- Gerencie aplicativos multilocatárias (adicione aplicativos para portal do Azure, registre e registre e registre aplicativos no Partner Center).
 
     >[!Note] 
-    >CPVs deve registrar seus aplicativos no Partner Center para ser autorizado para APIs do Partner Center. Apenas adicionar aplicativos ao portal do Azure não autoriza os aplicativos de CPV a usarem as APIs do Partner Center. 
+    >As CPVs devem registrar seus aplicativos Partner Center para obter autorização para apIs Partner Center dados. Apenas adicionar aplicativos ao portal do Azure não autoriza os aplicativos de CPV a usarem as APIs do Partner Center. 
 
 - Exibir e gerenciar seu perfil de CPV 
 
@@ -45,4 +43,4 @@ Depois que você se inscreveu na experiência de CPV do Partner Center e aceitou
 
 ## <a name="next-steps"></a>Próximas etapas
 
--[Adicionar locatários adicionais à sua conta do Partner Center](multi-tenant-account.md)
+-[Adicionar locatários adicionais à sua Partner Center conta](multi-tenant-account.md)

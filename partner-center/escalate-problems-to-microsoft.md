@@ -1,6 +1,6 @@
 ---
 title: Reporte os problemas à Microsoft
-description: Saiba quais problemas os parceiros da Microsoft devem se resolver para seus clientes e quais problemas eles podem precisar escalonar para a Microsoft.
+description: Saiba quais problemas os parceiros da Microsoft devem resolver para seus clientes e quais problemas eles talvez precisem escalonar para a Microsoft.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,25 +9,18 @@ ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 4422c5b002f8233f9d6225e7d4e7a82f6e37a280
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9504f66a53b2dc2303303e3f82020b591ce1f94f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441839"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146962"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Escale problemas para a Microsoft e saiba quais problemas são mais adequados ao escalonamento para a Microsoft  
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Partner Center do Microsoft Cloud for US Government
-
-**Funções apropriadas**
-
-- Agente administrativo
-- Administrador global
-- Agente de vendas
-- Agente de suporte técnico
+**Funções apropriadas:** agente administrador | Administrador global | Agente de vendas | Agente de helpdesk
 
 Espera-se que você resolva os problemas em nome de seus clientes. Seus primeiros passos devem ser [verificar a integridade do serviço](check-service-health.md) para problemas existentes e documentados. Se isso não resolver o problema do cliente, você então pode usar seus privilégios de administrador para solucionar problemas com software, definições e configuração.
 
@@ -47,20 +40,20 @@ No entanto, há várias categorias de problemas que você precisa passar para a 
 
 1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
-2. No menu do centro de parceiros, selecione **clientes** e, em seguida, selecione o cliente que precisa de suporte.
+2. No menu Partner Center, selecione **Clientes** e, em seguida, selecione o cliente que precisa de suporte.
 
 3. Selecione **Gerenciamento de serviços** e selecione **Solicitações de serviço**.
 
 4. Selecione **Nova solicitação** e, em seguida, selecione **Microsoft Office 365**.
 
-5. Você é levado para o portal do Office 365, no qual você precisa entrar usando suas credenciais do Partner Center.
+5. Você será levado para o portal do Office 365, no qual precisará entrar usando suas Partner Center de usuário.
 
-6. Selecione **suporte**, **nova solicitação de serviço** no menu à esquerda.
+6. Selecione **Suporte**, **Nova solicitação de serviço** no menu à esquerda.
 
 7. Selecione o tópico de suporte.
 
 >[!NOTE]
->É importante iniciar no painel do Partner Center para que a relação entre o parceiro e o cliente seja mantida. 
+>É importante começar no painel de Partner Center para que a relação entre o parceiro e o cliente seja mantida. 
 
 Para obter informações sobre como relatar problemas em nome do cliente, consulte [Relatar problemas em nome de um cliente](report-problems-on-behalf-of-a-customer.md).
 

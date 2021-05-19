@@ -1,6 +1,6 @@
 ---
-title: Os 10 conceitos básicos para trabalhar com incentivos
-description: Siga estas 10 sugestões para melhorar a experiência do seu programa de incentivo e receber pagamentos mais cedo.
+title: Os 10 fundamentos para trabalhar com incentivos
+description: Siga estas 10 sugestões para melhorar sua experiência do programa de incentivos e receber pagamentos mais cedo.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,37 +8,34 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 6000ba464a7751a159d8a390b13d2af6ffb59894
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 5aead530797d8d122ea871a693c774439b412171
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179098"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146707"
 ---
-# <a name="the-10-essentials-for-working-with-incentives"></a>Os 10 conceitos básicos para trabalhar com incentivos
+# <a name="the-10-essentials-for-working-with-incentives"></a>Os 10 fundamentos para trabalhar com incentivos
 
-**Funções apropriadas**
+**Funções apropriadas:** incentivos de administrador | Usuário de incentivos
 
-- Administrador de incentivos
-- Usuário de incentivos
+O Microsoft Programa de incentivos é uma ferramenta poderosa que recompensa os parceiros por envolver clientes com produtos e serviços da Microsoft. Quanto mais você entender o programa, melhor será sua chance de sucesso.
 
-O programa Microsoft incentivos é uma ferramenta poderosa que recompensa os parceiros que envolvem clientes com produtos e serviços da Microsoft. Quanto mais você entender o programa, melhor suas chances de sucesso.
+Recomendamos que você faça os 10 fundamentos listados abaixo **antes** de começar a usar o programa de incentivos. Eles ajudarão a garantir que sua experiência de incentivos seja uma boa e ajudarão a evitar atrasos em seus pagamentos de incentivos.
 
-Recomendamos que você faça o 10 Essentials listado abaixo **antes** de começar a usar o programa de incentivos. Eles ajudarão a garantir que sua experiência de incentivos seja uma boa e ajude a evitar atrasos em seus pagamentos de incentivos.
+## <a name="1-join-the-microsoft-partner-network"></a>1. Ingressar no Microsoft Partner Network
 
-## <a name="1-join-the-microsoft-partner-network"></a>1. ingresse no Microsoft Partner Network
+Se você ainda não for um parceiro da Microsoft, precisará ingressar no MPN para aproveitar os incentivos e outros benefícios. Para saber mais, confira [Microsoft Partner Network Associação.](https://partner.microsoft.com/membership)
 
-Se você ainda não é um parceiro da Microsoft, precisará ingressar no MPN para tirar proveito dos incentivos e outros benefícios. Para saber mais, confira [associação Microsoft Partner Network](https://partner.microsoft.com/membership).
+## <a name="2-read-your-incentives-program-guide"></a>2. Leia o Guia do Programa de Incentivos
 
-## <a name="2-read-your-incentives-program-guide"></a>2. Leia o guia do programa de incentivos
+Cada programa de incentivo tem seu próprio guia de programa detalhado. Neste guia, você encontrará requisitos de qualificação e registro, oportunidades de ganho e outras informações exclusivas para seu programa. Para acessar o guia do programa, siga [este procedimento.](incentives-determined-your-program-eligibility.md#determining-your-program-eligibility)
 
-Cada programa de incentivo tem seu próprio guia de programa detalhado. Neste guia, você encontrará os requisitos de qualificação e registro, ganhando oportunidades e outras informações exclusivas para seu programa. Para acessar o guia do programa, siga [este procedimento](incentives-determined-your-program-eligibility.md#determining-your-program-eligibility).
+## <a name="3-set-up-your-tax-and-banking-profile"></a>3. Configurar seu perfil bancário e de imposto
 
-## <a name="3-set-up-your-tax-and-banking-profile"></a>3. configurar seu perfil de imposto e de banco
+Quase todos os atrasos de pagamento ou outras interrupções no processo de incentivos são resultado de um perfil fiscal e bancário impreciso ou incompleto. Certifique-se de que seu perfil está em boa forma antes de iniciar o programa de incentivos. Para saber mais, confira [Perfis de pagamento e imposto no Partner Center](incentives-create-and-manage-your-payout-and-tax-profiles.md).
 
-Quase todos os atrasos de pagamento ou outras interrupções no processo de incentivos são o resultado de um imposto impreciso ou incompleto e um perfil bancário. Verifique se seu perfil está em bom formato antes de iniciar seu programa de incentivos. Para saber mais, confira [perfis de pagamento e de impostos no Partner Center](incentives-create-and-manage-your-payout-and-tax-profiles.md).
-
-## <a name="4-learn-about-roles-and-permissions"></a>4. saiba mais sobre as funções e permissões
+## <a name="4-learn-about-roles-and-permissions"></a>4. Saiba mais sobre funções e permissões
 
 É importante ter uma compreensão sólida das funções e das permissões envolvidas no programa incentivos. Depois de fazer isso, você pode decidir quais funções devem ser atribuídas às pessoas em sua empresa. Para saber mais, consulte [quais funções de usuário estão disponíveis?](incentives-faq.md#what-user-roles-are-available)
 
@@ -64,7 +61,7 @@ Há muitos artigos bons disponíveis sobre os incentivos da Microsoft e o Partne
 
 ## <a name="10-read-the-partner-center-online-help"></a>10. Leia a ajuda online do Partner Center
 
-Você encontrará procedimentos detalhados para fazer todas as tarefas listadas acima. Você pode ler toda a seção de incentivos em cerca de uma hora e a maioria dos artigos leva apenas um minuto ou dois. Para começar a ler a ajuda, consulte [Guia de introdução](incentives-get-started-intro.md).
+Você encontrará procedimentos detalhados para realizar todas as tarefas listadas acima. Você pode ler toda a seção Incentivos em cerca de uma hora e a maioria dos artigos leva apenas um minuto ou dois. Para começar a ler a ajuda, consulte [Getting started](incentives-get-started-intro.md).
 
 ## <a name="next-steps"></a>Próximas etapas
 

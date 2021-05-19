@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8614b321b453d280b8af0c548ea61c049708a6db
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 442ba27776786bbd153360d20cb93574a3d4d4ec
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979630"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147693"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>GCC do Office 365 governamental para parceiros CSP e critérios de qualificação para clientes 
 
-**Funções apropriadas**
-
-- Administrador global
-- Agente administrativo
-- Agente de vendas
+**Funções apropriadas**: Administração Global | Agente de administração | Agente de vendas
 
 >[!NOTE]
 >O processo e os critérios de validação descritos abaixo são específicos para parceiros de cobrança direta. Os parceiros de cobrança direta incluem revendedores diretos e provedores indiretos.  Se você for um Revendedor Indireto, trabalhe com seu Provedor Indireto.

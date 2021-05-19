@@ -9,21 +9,16 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: 6ba6fce58df6ab6047a5ec6e7c46e1538b49756d
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: bd11b65fb1f11839cba50d8bc1da94668009c56c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178945"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146673"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Faça parceria com revendedores indiretos no programa Provedor de Soluções na Nuvem
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de gerenciamento de usuário
-- Agente administrativo
-- Agente de vendas
+**Funções apropriadas**: Administração Global | Administrador de gerenciamento de usuários | Agente de administração | Agente de vendas
 
 Com uma mudança complexa e rápida no mercado de tecnologia, os clientes querem a borda competitiva que as soluções de tecnologia podem oferecer a eles. No ambiente, faz sentido para os parceiros investirem no contrato de parceiro-a-parceiro para estender as ofertas e permitir que os clientes façam ainda mais.
 
@@ -74,15 +69,15 @@ Para estabelecer uma parceria, mande uma solicitação de parceria por e-mail ao
 
 Na página detalhes da assinatura, no campo revendedor (ID do MPN), adicione o revendedor com o qual você deseja trabalhar. Certifique-se de usar a ID de MPN associada à conta de local de parceiro do revendedor que ele costumava carregar para o Partner Center. Isso garante que o revendedor receba os incentivos apropriados e que eles tenham um contrato de parceiro da Microsoft ativo para envolver a transação.
 
-1. Selecione **revendedores indiretos** no menu do **Partner Center** .
+1. Selecione **Revendedores indiretos** no menu **Partner Center** dados.
 
 2. Na página **Revendedores indiretos**, selecione **Solicitar uma parceria**. Um rascunho de mensagem de e-mail é exibido.
 
 3. Selecione **Abrir no email** para abri-lo em seu aplicativo de email padrão ou selecione **Copiar para área de transferência** para copiar e colar, em seguida, a mensagem em um e-mail. Selecione **Concluído** ao terminar.
     > [!IMPORTANT]  
-    >  Você pode editar o texto na mensagem de email, mas não se esqueça de incluir o link como ele é personalizado para sua conta do Partner Center.
+    >  Você pode editar o texto na mensagem de email, mas não se esqueça de incluir o link, pois ele é personalizado para sua Partner Center conta.
 
-4. Depois que o revendedor aceitar sua solicitação de parceria, ela aparecerá em sua lista de revendedores indiretos e você poderá:
+4. Depois que o revendedor aceitar sua solicitação de parceria, eles aparecerão na sua lista de revendedores indiretos e, em seguida, você poderá:
 
    - Adicionar novos clientes no nome dele
 
@@ -96,31 +91,31 @@ Dependendo do nível de acesso e envolvimento que deseja que o revendedor tenha,
 
 Para assinaturas existentes, se você decidir trabalhar com um revendedor indireto, poderá atualizar os detalhes da assinatura para incluir o revendedor indireto.
 
-- Na página detalhes da assinatura, no campo **revendedor (ID do MPN)** , adicione o revendedor com o qual você deseja trabalhar. Isso garante que o revendedor receberá os incentivos apropriados.
+- Na página de detalhes da assinatura, no campo **Revendedor (ID do MPN),** adicione o revendedor com o que você deseja trabalhar. Isso garante que o revendedor receba os incentivos apropriados.
 
-| **Para fazer isso** | **Fazer isso** | **Where** |
+| **Para fazer isso** | **Faça isto** | **Where** |
 |   ------------------   |   -------   |   -----   |
-| Habilitar o revendedor para gerenciar a conta de um cliente e ter permissões de administrador para gerenciar suas assinaturas | Associar um revendedor para uma conta do cliente ao adicionar um novo cliente | Na página **Novo cliente** |
+| Permitir que o revendedor gerencie a conta de um cliente e tenha permissões de administrador para gerenciar suas assinaturas | Associar um revendedor para uma conta do cliente ao adicionar um novo cliente | Na página **Novo cliente** |
 | Habilitar o revendedor para gerenciar uma conta de cliente do Azure|Associar um revendedor a uma conta de cliente do Azure ao adicionar um novo cliente|No **Portal de serviço do Azure**, selecione [Configurações de Usuário](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para fornecer permissões de **proprietário locatário** ao revendedor indireto|
 | Dê ao revendedor crédito para incentivos | Associar o revendedor à assinatura (nova ou existente) | Na página **Nova inscrição** |
-| Delegar atendimento ao cliente para assinaturas específicas ao revendedor | Selecione o revendedor da lista **Contato de suporte designados** | Na página de detalhes da assinatura: selecione o cliente na página de seus **clientes** e, em seguida, selecione a assinatura na página **assinaturas** do cliente |
+| Delegar atendimento ao cliente para assinaturas específicas ao revendedor | Selecione o revendedor da lista **Contato de suporte designados** | Na página de detalhes da assinatura: selecione o cliente na página **Clientes** e, em seguida, selecione a assinatura na página **Assinaturas do** cliente |
 
 ## <a name="remove-partnership-with-indirect-resellers"></a>Remover parceria com revendedores indiretos
 
 Para remover a parceria com o revendedor indireto existente, siga as etapas abaixo. 
 
-1. No menu do centro de parceiros no painel, selecione **revendedores indiretos**. 
+1. No menu Partner Center no painel, selecione **Revendedores indiretos.** 
 
-2. Na página **revendedores indiretos** , selecione **remover parceria**. Será exibida uma mensagem que solicita confirmação. Para continuar, selecione **Sim**.
+2. Na página **Revendedores indiretos,** selecione **Remover parceria.** Será exibida uma mensagem solicitando confirmação. Para continuar, selecione **Sim.**
 
 :::image type="content" source="images/ip-ir-relationship.png" alt-text="Remover parceria":::
 
 >[!IMPORTANT]
->Os clientes associados ao revendedor indireto não serão removidos. Todos os privilégios de administrador delegados concedidos permanecerão inalterados.
->Você representa que a decisão de descontinuar sua relação com o parceiro foi feita em boa fé, para uma finalidade de negócios legítima e de acordo com seu contrato com seu cliente ou parceiro, e você concorda em defender e manter a Microsoft inofensiva de e contra qualquer reivindicação de terceiros para o contrário.
+>Os clientes associados ao revendedor indireto não serão removidos. Todos os privilégios de administrador delegado concedidos permanecerão inalterados.
+>Você representa que a decisão de descontinuar sua relação com o parceiro foi tomada com boa boa intenção, para uma finalidade comercial legítima e de acordo com o seu contrato com seu cliente ou parceiro, e você concorda em defender e responsabilizar a Microsoft de e contra quaisquer declarações de terceiros em contrário.
 >Você deverá fornecer um aviso legal de encerramento ao cliente ou parceiro se o contrato assim exigir. Essa ferramenta não gera nenhum aviso ao cliente ou parceiro.
 
-3. O revendedor indireto cuja parceria que você removeu não aparecerá na lista.
+3. O revendedor indireto cuja parceria você removeu não aparecerá na lista.
 Dependendo do nível de acesso e envolvimento, talvez você queira se comunicar com o revendedor indireto, bem como com o cliente final sobre essa alteração.
 
 

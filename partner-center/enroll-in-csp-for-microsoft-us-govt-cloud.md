@@ -10,22 +10,18 @@ ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 10/05/2020
-ms.openlocfilehash: 8fb6d3ec54b2cbcbc23a09cf122da0129afb7fbb
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: e2b206b049050efa520099d74230d8535ac93793
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91763354"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147166"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscrever-se no programa Provedor de Soluções na Nuvem do Microsoft Cloud for US Government
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center para Microsoft Cloud do governo dos EUA
 
-- Partner Center do Microsoft Cloud for US Government
-
-**Funções apropriadas**
-
-- Administrador global
+**Funções apropriadas**: administrador global
 
 Os parceiros da Microsoft agora podem vender soluções de nuvem da Microsoft e serviços para entidades federais, estaduais, locais e tribais dos EUA por meio do programa CSP (Provedor de Soluções na Nuvem) para Microsoft Cloud for US Government.
 

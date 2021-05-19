@@ -4,29 +4,25 @@ ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba quando e onde os clientes podem executar o autoatendimento para gerenciar suas próprias contas e quando devem entrar em contato com seu parceiro de provedor de soluções na nuvem.
+description: Saiba quando e onde os clientes podem realizar o autoatend suporte para gerenciar suas próprias contas e quando eles devem entrar em contato com seu Provedor de Soluções na Nuvem parceiro.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51936e900374e4213d0eb40fe2dc90d813e81582
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 89d7cf65d34911cc4098206dbc70d72cd2998e7f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284172"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147455"
 ---
-# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Auto-suporte ao cliente por meio do centro de administração Microsoft Office 365 ou por meio do portal do Azure
+# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Autoatend suporte ao cliente Microsoft Office centro de administração do 365 ou por meio do portal do Azure
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Partner Center do Microsoft Cloud for US Government
+**Funções apropriadas:** agente de helpdesk
 
-**Funções apropriadas**
-
-- Agente de suporte técnico
-
-Os clientes podem entrar em seu próprio Microsoft Office centro de administração 365 ou na portal do Azure para gerenciar suas próprias contas:
+Os clientes podem entrar em seus próprios Microsoft Office de administração do 365 ou no portal do Azure para gerenciar suas próprias contas:
 
 - Exiba comunicações e notificações no produto, como informações de integridade, no Message Center.
 

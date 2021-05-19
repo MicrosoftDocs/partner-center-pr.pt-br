@@ -8,18 +8,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 90d1fe9728c43d2f34b6cfe2d9e4c9613d865aeb
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 8c47204d54cf05113eae73cede4afedf106ac121
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133056"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146503"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Mesclar sua conta de parceiro com outra conta de parceiro
 
-**Funções apropriadas**
-
-- Administrador de conta
+**Funções apropriadas**: administrador da conta
 
 Duas ou mais empresas que estão ativas parceiros da Microsoft e que têm contas no Partner Center podem optar por mesclar suas contas.
 
@@ -53,23 +51,23 @@ Se você decidir aceitar o convite para mesclar contas: · Suas IDs e locais de 
 
 - Os benefícios e as competências existentes serão preservadas para ambas as empresas após a refusão até a renovação. Na renovação, as contas serão tratadas como uma empresa e as regras de renovação padrão serão aplicadas.
 
-## <a name="understand-the-impacts-to-programs-and-benefits-when-partners-elect-to-merge-accounts"></a>Entenda os impactos nos programas e nos benefícios quando os parceiros optam por mesclar contas
+## <a name="understand-the-impacts-to-programs-and-benefits-when-partners-elect-to-merge-accounts"></a>Entender os impactos em programas e benefícios quando os parceiros optam por mesclar contas
 
-- Todas as competências existentes (Gold/prata), compras (como o Microsoft Action Pack) e benefícios associados são preservadas durante a consolidação. Se ambas as empresas têm a mesma competência, mas uma é ouro e outra prata, a competência com mais alto nível de proficiência será concedida e os parceiros terão um conjunto de benefícios prata e um conjunto de benefícios dourados para essa competência até a próxima renovação. 
+- Todas as competências existentes (Gold/Silver), compras (como Microsoft Action Pack) e benefícios associados são preservados durante a consolidação. Se ambas as empresas têm a mesma competência, mas uma é ouro e a outra prata, a competência com o nível de proficiência mais alto será concedida e os parceiros terão um conjunto de benefícios pratas e um conjunto de benefícios ouro para essa competência até a próxima renovação. 
 
-- A data de aniversário mais alta para o Microsoft Action Pack será mantida após a fusão. Por exemplo, se a data de aniversário da empresa 1 for de junho de 2020 para renovação de Action Pack e a data de aniversário para Action Pack renovação para a empresa 2 for de outubro de 2020, a Microsoft usará a data de outubro de 2020 como a nova data de aniversário da empresa mesclada.
+- A data de aniversário mais alta para o Microsoft Action Pack será mantida após a fusão. Por exemplo, se a data de aniversário da empresa 1 for junho de 2020 para renovação do Action Pack e a data de aniversário da renovação do Action Pack para a empresa 2 for outubro de 2020, a Microsoft usará a data de outubro de 2020 como a nova data de aniversário para a empresa mesclada.
 
-- Durante a fusão de contas e até sua próxima renovação, cada conta reterá seus benefícios de Action Pack e/ou competência. Nas regras de renovação, Action Pack padrão e renovação de competência se aplicam.
+- Durante a fusão da conta e até a próxima renovação, cada conta manterá seus Action Pack e/ou benefícios de competência. Na renovação, as regras de Action Pack padrão e de renovação de competência se aplicam.
 
-- Após a renovação, os benefícios incluídos com a obtenção de competência e Action Pack são implementados para a conta global do parceiro da empresa parceira:
+- Após a renovação, os benefícios que estão incluídos com a Action Pack de competência são implementados para a conta global de parceiro da empresa parceira:
 
-  - Microsoft Action Pack: a empresa parceira poderá comprar uma Action Pack por conta global de parceiro.
+  - Microsoft Action Pack: a empresa parceira poderá comprar uma conta Action Pack por parceiro global.
 
-  - Competência: a empresa parceira receberá um pacote de principais benefícios, associado à sua maior realização, além de benefícios específicos da competência que o parceiro está qualificado para cada conta global do parceiro.
+  - Competência: a empresa parceira receberá um pacote de principais benefícios, associados à sua maior realização, além de benefícios específicos de competência que o parceiro está qualificado para cada conta global de parceiro.
 
-- Todos os benefícios estão sujeitos ao [Guia de uso de Microsoft Partner Network benefícios](https://aka.ms/partner-benefits-use-guide). Por exemplo: um token do O365 E3 ativado é funcional por 12 meses após a ativação. Depois que um token tiver sido ativado para licenças em um locatário, essas licenças não poderão ser movidas para outro locatário.
+- Todos os benefícios estão sujeitos ao guia [de uso Microsoft Partner Network benefícios.](https://aka.ms/partner-benefits-use-guide) Por exemplo: um token O365 E3 ativado é funcional por 12 meses após a ativação. Depois que um token tiver sido ativado para licenças em um locatário, essas licenças poderão não ser movidas para outro locatário.
 
-- As associações de ID do MCP para ambas as empresas serão retidas e associadas à ID do PGA MPN.
+- As associações de ID do MCP para ambas as empresas serão mantidas e associadas à ID do MPN do PGA.
 
 - As vantagens para o mercado e os benefícios técnicos são oferecidas como um benefício principal de competência. Após a mesclagem, é recomendável que você verifique suas informações bancárias e fiscais para garantir a exatidão.
 
@@ -130,4 +128,4 @@ Se você decidir aceitar o convite para mesclar contas: · Suas IDs e locais de 
 
 - [Verifique suas informações de perfil do parceiro](update-your-partner-profile.md)
 
-- [Adicionar serviços compartilhados de parceiros do Azure para que os parceiros possam comprar assinaturas do Azure para seu próprio uso](shared-services.md)
+- [Adicione Serviços Compartilhados com Parceiros do Azure para que os parceiros possam comprar assinaturas do Azure para uso próprio](shared-services.md)
