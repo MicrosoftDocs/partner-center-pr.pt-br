@@ -9,21 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e83c06c11638bdde508fd27904038bcb6d8c9e9c
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 8232ab165ea68ebefdfbb30f3ac52c907e1b7278
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132631"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151518"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Migrar as ofertas do Dynamics 365 Business Edition para versões mais recentes
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de gerenciamento de usuário
-- Agente administrativo
-- Agente de vendas
+**Funções apropriadas**: Administração Global | Administrador de gerenciamento de usuários | Agente de administração | Agente de vendas
 
 A partir de 1º de janeiro de 2019, os clientes com as assinaturas do Dynamics 365 Business Edition não podem mais renovar essas ofertas herdadas; as assinaturas existentes não serão renovadas automaticamente quando expirarem. Na página de detalhes da assinatura, o status da assinatura será alterado para "expira em [data]" de "renovações automáticas em [data]".
 
@@ -55,17 +50,17 @@ Os clientes do Dynamics 365 Business Edition estão qualificados a receber preç
 2. Selecione **Adicionar assinatura**.
 3. Selecione a assinatura que deseja comprar no catálogo (nesse caso, uma das opções acima), insira o número de licenças e selecione **Enviar**. 
 
-Agora, seu cliente terá a assinatura antiga e a nova. A próxima etapa é reatribuir licenças aos usuários do cliente.
+Seu cliente agora terá a assinatura antiga e a nova. A próxima etapa é reatribuir licenças aos usuários do cliente.
 
-1. Selecione **clientes** na barra de navegação à esquerda e, em seguida, selecione o cliente que você está movendo.
-2. Selecione **usuários e licenças**.
-3. Para reatribuir uma licença a um usuário, selecione o usuário e, em seguida, selecione **gerenciar licenças**. 
-4. Na página **gerenciar licenças** , desmarque a caixa de seleção Dynamics 365 para vendas/plano de envolvimento do cliente da licença básica (oferta qualificada) e selecione um novo plano de serviço para a assinatura à qual o cliente está se movendo. 
+1. Selecione **Clientes** no nav à esquerda e, em seguida, selecione o cliente que você está movendo.
+2. Selecione **Usuários e licenças**.
+3. Para reatribuir uma licença a um usuário, selecione o usuário e, em seguida, **selecione Gerenciar licenças**. 
+4. Na página Gerenciar **licenças, des** marque a caixa de seleção Dynamics 365 for Sales/Customer Engagement Plan da licença Básica (Oferta Qualificada) e selecione um novo plano de serviço para a assinatura para a qual o cliente está mudando. 
 5. Selecione **Enviar**. Você fará isso para cada usuário que precisa da nova licença. 
 
-Depois de mover as licenças para a nova assinatura, você poderá cancelar a assinatura antiga. 
+Depois de ter movido as licenças para a nova assinatura, você pode cancelar a assinatura antiga. 
 
-1. Selecione **clientes** na barra de navegação à esquerda e, em seguida, selecione o cliente que você está movendo.
-2. Na página detalhes da assinatura, defina a assinatura antiga como **suspensa** e selecione **Enviar**.
+1. Selecione **Clientes** no nav à esquerda e, em seguida, selecione o cliente que você está movendo.
+2. Na página de detalhes da assinatura, de definir a assinatura antiga como **Suspensa** e selecione **Enviar**.
 
-A assinatura antiga agora está suspensa e a nova assinatura está ativa. A assinatura suspensa será desprovisionada automaticamente após 120 dias. Seu cliente não incorrerá em nenhum custo adicional para a assinatura antiga.
+A assinatura antiga agora está suspensa e a nova assinatura está ativa. A assinatura suspensa será desprovisionada automaticamente após 120 dias. Seu cliente não incorre em custos adicionais para a assinatura antiga.

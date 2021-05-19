@@ -4,46 +4,38 @@ ms.topic: article
 ms.date: 10/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: O Partner Center para Microsoft Cloud Alemanha é o portal de negócios para parceiros que desejam oferecer soluções de nuvem da Microsoft para clientes nos países da UE e do EFTA.
+description: Partner Center para Microsoft Cloud Alemanha é o portal de negócios para parceiros que querem oferecer soluções de nuvem da Microsoft para clientes em países da UE e EFTA.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f36d7c0e99600d9de63d4e6377a2b3688a043885
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 19753f4fb848262fc8bed146427f0652096f6902
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086508"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151076"
 ---
-# <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>Partner Center da Microsoft Cloud Alemanha for Partners que vende para clientes na UE & países EFTAs
+# <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>Partner Center para Microsoft Cloud Alemanha para parceiros que vendem para clientes em países & EFTA da UE
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center para Microsoft Cloud Alemanha
 
-- Partner Center do Microsoft Cloud Germany
+**Funções apropriadas:** administrador global | Administrador de gerenciamento de usuários | Agente administrador | Agente de vendas | Administrador de cobrança
 
-**Funções apropriadas**
+o Microsoft Cloud Alemanha foi projetada para atender aos rígidos requisitos de proteção de dados da Alemanha e inclui um objeto de confiança de dados alemão que controla o acesso físico e lógico a dados de clientes de acordo com a legislação alemã. Todos os dados do cliente e os sistemas que processam ou controlam o acesso aos dados do cliente residem em data centers alemão. A rede entre esses data centers é isolada e dedicada na Alemanha.
 
-- Administrador global
-- Administrador de gerenciamento de usuário
-- Agente administrativo
-- Agente de vendas
-- Administrador de cobrança
-
-o Microsoft Cloud Alemanha foi projetada para atender aos rígidos requisitos de proteção de dados da Alemanha e inclui um objeto de confiança de dados alemão que controla o acesso físico e lógico a dados de clientes de acordo com a legislação alemã. Todos os dados do cliente e os sistemas que processam ou controlam o acesso aos dados do cliente, residem em data centers em alemão. A rede entre esses data centers é isolada e dedicada na Alemanha.
-
-Microsoft Cloud a Alemanha fornece uma instância separada do [Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992), entregue de data centers na Alemanha. Consequentemente, os clientes comerciais da UE (União Europeia) e da EFTA (Associação Europeia de Livre Comércio) podem armazenar e gerenciar dados do cliente em conformidade com as leis e os regulamentos alemães aplicáveis, bem como as principais normas internacionais. Os funcionários da Microsoft não podem acessar dados do cliente sem a aprovação e a supervisão do cliente ou do objeto de confiança de dados alemão.
+O Microsoft Cloud Alemanha fornece uma instância separada [do Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992), entregue de data centers na Alemanha. Consequentemente, os clientes comerciais da UE (União Europeia) e da EFTA (Associação Europeia de Livre Comércio) podem armazenar e gerenciar dados do cliente em conformidade com as leis e os regulamentos alemães aplicáveis, bem como as principais normas internacionais. Os funcionários da Microsoft não podem acessar dados do cliente sem a aprovação e a supervisão do cliente ou do objeto de confiança de dados alemão.
 
 > [!IMPORTANT]
-> Com base na evolução das necessidades dos clientes, nossa estratégia de nuvem para a Alemanha se concentrará na entrega das novas regiões de nuvem na Alemanha que são consistentes com nossa oferta de nuvem global. Com esse foco, não iremos mais aceitar novos clientes ou implantar novos serviços da Microsoft Cloud Alemanha disponível no momento. Os clientes existentes podem continuar a usar os serviços de nuvem atuais disponíveis hoje, o que manteremos com as atualizações de segurança necessárias.
+> Com base na evolução nas necessidades dos clientes, nossa estratégia de nuvem para a Alemanha se concentrará na entrega das novas regiões de nuvem na Alemanha que são consistentes com nossa oferta de nuvem global. Com esse foco, não aceitaremos mais novos clientes nem implantaremos novos serviços do Microsoft Cloud Germany disponível no momento. Os clientes existentes podem continuar a usar os serviços de nuvem atuais disponíveis atualmente, que manteremos com as atualizações de segurança necessárias.
 >
-> Avançando, novos clientes têm a opção de usar as regiões da Europa disponíveis no momento ou as novas regiões na Alemanha quando elas estiverem disponíveis. Para obter mais informações, consulte [a Microsoft para fornecer serviços de nuvem de novos data centers na Alemanha](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/). 
+> Avançando, novos clientes têm a opção de usar as regiões europeias disponíveis no momento ou as novas regiões na Alemanha quando eles se tornarem disponíveis. Para obter mais informações, consulte [Microsoft para fornecer serviços de nuvem de novos data centers na Alemanha.](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/) 
 
-## <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Migre clientes do Microsoft Cloud Alemanha para outra região europeia
+## <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Migrar clientes do Microsoft Cloud Alemanha para outra região europeia
 
-Antes de migrar uma assinatura de cliente do Microsoft Cloud Alemanha para outra região europeia, você deve ter uma conta existente do CSP (provedor de soluções na nuvem) que está localizada nessa região e está ativa. Se você não tiver uma, será solicitado a criar uma durante a seleção da conta do CSP no Partner Center. Depois de criar a nova conta, seus clientes serão associados ao locatário selecionado.
+Antes de migrar uma assinatura de cliente do Microsoft Cloud Alemanha para outra região europeia, você deve ter uma conta CSP (Provedor de Soluções na Nuvem) existente que está localizada nessa região e está ativa. Se você não tiver uma, será solicitado que você crie uma durante a seleção da conta do CSP Partner Center. Depois de criar a nova conta, seus clientes serão associados ao locatário selecionado.
 
-### <a name="you-already-have-a-csp-account"></a>Você já tem uma conta de CSP
+### <a name="you-already-have-a-csp-account"></a>Você já tem uma conta do CSP
 
 1. Entre em seu CSP Microsoft Cloud locatário da Alemanha como administrador global.
 
@@ -84,7 +76,7 @@ Antes de migrar uma assinatura de cliente do Microsoft Cloud Alemanha para outra
 7. Selecione **já tenho um locatário na região europeia** e siga as instruções.
 
 
-## <a name="selling-german-cloud-solutions-in-eu-and-efta"></a>Venda de soluções de nuvem em alemão na UE e no EFTA
+## <a name="selling-german-cloud-solutions-in-eu-and-efta"></a>Vendas de soluções de nuvem alemã na UE e EFTA
 
 Depois de se registrar no programa CSP (Provedor de Solução na Nuvem) do Microsoft Cloud Alemanha, você usará o Partner Center para vender soluções na nuvem específicas da Alemanha e serviços para clientes em países/regiões da união Europeia e da EFTA.
 
@@ -95,7 +87,7 @@ Recurso ou funcionalidade | Concluir tarefas em
 Gerenciamento de usuários do parceiro | Centro de administração do Office 365 ou portal de administração do Azure do Microsoft Cloud Alemanha
 Gerenciamento de usuários do cliente | Centro de administração do Office 365 ou portal de administração do Azure do Microsoft Cloud Alemanha
 Redefinir senha de usuário | Portal de administração do Azure do Microsoft Cloud Alemanha
-Gerenciamento de licenças | Centro de administração do Office 365 ou centro de administração do Office 365 ou Microsoft Cloud o portal de licenciamento da Alemanha Azure Active Directory
+Gerenciamento de licenças | Centro de administração do Office 365 ou centro de administração do Office 365 ou portal de licenciamento do Microsoft Cloud Germany Azure Active Directory
 
 ## <a name="next-steps"></a>Próximas etapas
 

@@ -8,19 +8,16 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: de833ae713fe88335103e9dbaa96153ad20ec84e
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 5043e26b578f2d2dcaa45cd86105e4c540a82ab8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133039"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151433"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Use o Partner Center para se registrar como um parceiro de aprendizagem da Microsoft
 
-**Funções apropriadas**
-
-- Administrador de parceiros do MPN
-- Administrador de conta
+**Funções apropriadas**: administrador do parceiro MPN | Administrador da conta
 
 Este artigo descreve as várias maneiras como um parceiro na Microsoft Partner Network pode se registrar no programa de parceiros de aprendizagem.
 
@@ -46,29 +43,29 @@ Para se manter atualizado com os comunicados do programa de aprendizado, [Leia n
 
 ## <a name="enroll-with-the-learning-action-pack"></a>Registrar-se no Action Pack de aprendizado
 
-O Learning Action Pack é a entrada de nível base no programa de parceiro de aprendizagem. Se você for novo na linha de negócios de aprendizado e sua organização não tiver feito nenhum treinamento de cursos da Microsoft antes, a Microsoft lhe dará a oportunidade de se registrar como um parceiro de aprendizado da Microsoft. Você só precisa comprar o Action Pack de aprendizado.
+O Learning Action Pack é a entrada de nível base no programa de parceiro de aprendizagem. Se você for novo na linha de negócios learning e sua organização não tiver feito nenhum treinamento do Microsoft Courseware antes, a Microsoft lhe dará essa oportunidade de se inscrever como um parceiro Microsoft Learning. Você só precisa comprar o learning Action Pack.
 
-O Learning Action Pack dá suporte a parceiros que desejam fornecer serviços de treinamento, ofertas ou descontos no Marketplace do curso e benefícios para ajudar os parceiros a se tornarem especialistas em várias linhas de produtos da Microsoft.
+O Learning Action Pack dá suporte a parceiros que querem fornecer serviços de treinamento, ofertas ou descontos no marketplace de courseware e benefícios para ajudar os parceiros a se tornarem especialistas em várias linhas de produtos da Microsoft.
 
-Os parceiros que não são de aprendizagem podem adquirir o curso com preço total apenas para treinamento interno. Se você quiser entregar o conteúdo fora de sua organização, precisará de um Microsoft Certified Trainer (um MCT) e terá que se inscrever para o Action Pack de aprendizado.
+Os parceiros que não são de aprendizado podem comprar o courseware a preço total apenas para treinamento interno. Se você quiser entregar o conteúdo fora de sua organização, precisará de um Microsoft Certified Trainer (um MCT) e precisará se inscrever para o Learning Action Pack.
 
-Depois de atingir os KPIs necessários, você pode concluir os requisitos adicionais e ter a opção de atualizar para uma opção de aprendizado prata/ouro.
+Depois de alcançar os KPIs necessários, você poderá concluir os requisitos adicionais e ter a opção de atualizar para uma Opção de Aprendizado Silver/Gold.
 
-- Para se qualificar para Action Pack de aprendizado no Partner Center, você deve ter pelo menos um (1) MCT. Você não precisa atender a nenhum outro KPI de aprendizagem.
-- Para ativar seu Action Pack de aprendizado, use as seguintes etapas:
-   1. Siga as etapas descritas em [comprar ou renovar uma assinatura do Microsoft Action Pack](mpn-get-action-pack.md).
-   2. Contate a equipe de [suporte do Partner frente](https://partner.microsoft.com/support) para ajudá-lo a configurar um novo perfil de conta. Isso lhe dará acesso ao treinamento do curso Microsoft sobre o Marketplace do curso.
+- Para se qualificar para Action Pack de Partner Center, você deve ter pelo menos um (1) MCT. Você não precisa atender a nenhum outro KPIs de aprendizado.
+- Para ativar sua conta de Action Pack, use as seguintes etapas:
+   1. Siga as etapas descritas em [Comprar ou renovar uma assinatura do Microsoft Action Pack](mpn-get-action-pack.md).
+   2. Entre em contato [com a equipe de Suporte do Partner Frontline](https://partner.microsoft.com/support) para ajudá-lo a configurar um novo perfil de conta. Isso lhe dará acesso ao treinamento do Microsoft Courseware Marketplace de cursos.
 
-## <a name="enroll-with-a-silver-competency-learning-option"></a>Registrar com uma opção de aprendizado de competência prateada
+## <a name="enroll-with-a-silver-competency-learning-option"></a>Registrar com uma opção de aprendizado de competência prata
 
-Os parceiros de aprendizagem que desejam obter um nível Prata de associação podem se registrar na opção de aprendizado prata associada a uma competência específica. Para fazer isso, eles precisam atender aos requisitos da opção de aprendizado prata para essa competência específica.
+Os parceiros de aprendizado que quiserem obter um nível prata de associação podem se registrar na opção Silver Learning associada a uma competência específica. Para fazer isso, eles precisam atender aos requisitos de opção do Silver Learning para essa competência específica.
 
 > [!NOTE]
-> Para saber mais sobre quais competências oferecem uma opção de aprendizado prata ou ouro, consulte a [página competências](https://partner.microsoft.com/membership/competencies)mais recentes. 
+> Para saber mais sobre quais competências oferecem uma opção Silver ou Gold Learning, consulte a página [de competências mais recente](https://partner.microsoft.com/membership/competencies). 
 
-Para qualificar e registrar-se em uma opção de aprendizado de competência prateada específica, examine os requisitos Silver da competência para garantir que você os atenda. Então, siga estas etapas:
+Para se qualificar e se registrar em uma opção de aprendizado de competência silver específica, revise os requisitos de prata dessa competência para garantir que você os conheça. Então, siga estas etapas:
 
-- Confirme os **requisitos de desempenho** descritos nas diretrizes de desempenho do programa de aprendizado. Essas diretrizes estão disponíveis no [site de recursos de aprendizado](https://partner.microsoft.com/marketing/learning-resources#/).
+- Fazer commit dos **Requisitos de Desempenho** descritos nas Diretrizes de desempenho do Programa de Aprendizagem. Essas diretrizes estão disponíveis no [site de recursos de aprendizado](https://partner.microsoft.com/marketing/learning-resources#/).
 
 - Conheça os **requisitos do MCT (Microsoft Certified Trainer)**
 
@@ -91,31 +88,31 @@ Inscrever-se no (ou renovar) uma opção de aprendizado de competência Gold tem
 
 Não. No Partner Center, não é necessário ter um plano de aplicativo de negócios para obter uma competência por meio da opção de aprendizado. Você precisa atender a KPIs de aprendizado do primeiro ano de registro.
 
-### <a name="q-if-i-am-a-net-new-partner-and-decide-to-buy-courseware-trainings-or-certifications-before-applying-for-the-learning-option-will-the-kpis-be-recognized-by-partner-center-automatically"></a>P: se eu for um novo parceiro de rede e optar por comprar o curso, treinamentos ou certificações antes de aplicar a opção de aprendizado, os KPIs serão reconhecidos pelo Partner Center automaticamente?
+### <a name="q-if-i-am-a-net-new-partner-and-decide-to-buy-courseware-trainings-or-certifications-before-applying-for-the-learning-option-will-the-kpis-be-recognized-by-partner-center-automatically"></a>P: Se eu for um parceiro net-new e decidir comprar o courseware, treinamentos ou certificações antes de se inscrever na Opção de Aprendizado, os KPIs serão reconhecidos pelo Partner Center automaticamente?
 
-Sim, os KPIs devem ser reconhecidos no Partner Center.
+Sim, os KPIs devem ser reconhecidos Partner Center.
 
-### <a name="q-where-should-i-go-in-case-there-is-a-discrepancy-between-kpis-in-partner-center-under-the-learning-option-and-my-kpi-dashboard"></a>Q. Onde devo entrar no caso de haver uma discrepância entre os KPIs no Partner Center sob a opção de aprendizado e meu painel de KPIs?
+### <a name="q-where-should-i-go-in-case-there-is-a-discrepancy-between-kpis-in-partner-center-under-the-learning-option-and-my-kpi-dashboard"></a>Q. Para onde devo ir caso haja uma discrepância entre KPIs no Partner Center na Opção de Aprendizado e meu Painel de KPI?
 
-Contate o [suporte do parceiro frente](https://partner.microsoft.com/support). Você precisará fornecer os seguintes detalhes (no seu painel de KPI) para nos ajudar a acompanhar seus KPIs:
+Entre em [contato com o Suporte do Partner Frontline.](https://partner.microsoft.com/support) Você precisará fornecer os seguintes detalhes (no painel de KPI) para nos ajudar a acompanhar seus KPIs:
 
 - Mês
 - Ano
-- Tipo de OMLP
+- Tipo OMLP
 - Unidade de compra
 - Nº da Fatura
-- Valor do KPI
+- Valor de KPI
 - Valor da receita
 
-Os relatórios de KPI são atualizados uma vez por mês durante o meio do mês. A qualificação da renovação do programa de aprendizagem é medida para KPIs obtidos durante os 12 meses anteriores de atividade de desempenho, com base na sua data de aniversário. Por exemplo, a partir de 15 de janeiro de 2020, os dados do KPI seriam exibidos para o período de 2019 de janeiro a 2019 de dezembro. Se sua fatura tiver sido datada de 1º de janeiro de 2020, os KPIs correspondentes estarão visíveis a partir de 15 de fevereiro de 2019. **Confirmações de pedidos e relatórios de parceiros não serão aceitos.** Somente as faturas reais serão aceitas.
+Os relatórios de KPI são atualizados uma vez por mês durante o meio do mês. A qualificação de renovação do Programa de Aprendizagem é medida para KPIs obtidos durante os 12 meses anteriores de atividade de desempenho, com base na data de aniversário. Por exemplo, a partir de 15 de janeiro de 2020, os dados de KPI seriam exibidos para o período de janeiro de 2019 a dezembro de 2019. Se sua fatura tiver data de janeiro de 2020, os KPIs correspondentes estarão visíveis a partir de 15 de fevereiro de 2019. **Confirmações de pedido e relatórios de parceiros não serão aceitos.** Somente faturas reais serão aceitas.
 
 ### <a name="q-does-a-one-day-training-equate-to-one-kpi"></a>Q. Um treinamento de um dia equivale a um KPI?
 
-A reunião de um KPI não está relacionada à duração do treinamento. Para saber mais sobre como os KPIs são medidos, verifique os exemplos de desempenho no [Guia de registro do parceiro de aprendizagem](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/).
+Atender a um KPI não está relacionado à duração do treinamento. Para saber mais sobre como os KPIs são medidos, confira os exemplos de desempenho no Guia [de Registro do Parceiro de Aprendizagem](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/).
 
-### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>Q. Por que eu não apareceu como um parceiro do Microsoft Learning no diretório de parceiros de aprendizagem?
+### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>Q. Por que não aparece como um parceiro Microsoft Learning no diretório Parceiro de Aprendizagem?
 
-Talvez seja necessário adicioná-lo ao [diretório de parceiros de aprendizagem](/learn/certifications/partners). Em seguida, você pode vincular ao seu site na página do diretório do parceiro de aprendizado.
+Talvez seja necessário adicioná-lo ao diretório [Parceiro de Aprendizagem](/learn/certifications/partners). Em seguida, você pode vincular ao seu site na página do diretório Parceiro de Aprendizagem.
 
 Esse é um processo manual que é enviado apenas uma vez por mês, durante a terceira semana. A atualização subsequente será visível no final da primeira semana do mês seguinte. Para ajudá-lo a resolver a situação, entre em contato com o [suporte do Partner frente](https://partner.microsoft.com/support). Esteja preparado para fornecer os seguintes detalhes:
 

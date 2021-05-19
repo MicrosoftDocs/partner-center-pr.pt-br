@@ -9,36 +9,30 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 931b169b3b2794f6a83a14007a50184fa6676102
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: b41d3ee33b789c8f839ff1b3b5f5d8fd27c23f02
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441788"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151144"
 ---
-# <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Suporte a vários parceiros para clientes que desejam trabalhar com mais de um parceiro
+# <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Suporte de vários parceiros para clientes que querem trabalhar com mais de um parceiro
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Partner Center do Microsoft Cloud for US Government
+**Funções apropriadas:** administrador global | Administrador de gerenciamento de usuários | Agente de vendas
 
-**Funções apropriadas**
+O Partner Center de vários parceiros do Partner Center dá suporte a cenários em que um cliente deseja trabalhar com mais de um parceiro. Por exemplo, um cliente pode querer contratar um parceiro por sua experiência em Office 365, mas contratar um parceiro diferente com especialização em Microsoft Azure.
 
-- Administrador global
-- Administrador de gerenciamento de usuário
-- Agente de vendas
+Um CSP do Azure locatário pode incluir uma assinatura adicional do Azure de um parceiro CSP diferente.
 
-O recurso de vários parceiros do Partner Center dá suporte a cenários quando um cliente deseja trabalhar com mais de um parceiro. Por exemplo, um cliente pode querer contratar um parceiro por sua experiência em Office 365, mas contratar um parceiro diferente com especialização em Microsoft Azure.
-
-Um locatário do Azure CSP pode incluir uma assinatura adicional do Azure de um parceiro CSP diferente.
-
-Para usar o recurso de vários parceiros no Partner Center, convide o cliente para fornecer privilégios de administração delegados. Consulte [Solicitar uma relação com um cliente](request-a-relationship-with-a-customer.md) para obter informações sobre como estabelecer uma relação com um cliente que já está trabalhando com um parceiro.
+Para usar o recurso de vários parceiros no Partner Center, convide o cliente para lhe dar privilégios de administração delegados. Consulte [Solicitar uma relação com um cliente](request-a-relationship-with-a-customer.md) para obter informações sobre como estabelecer uma relação com um cliente que já está trabalhando com um parceiro.
 
 A funcionalidade de vários parceiros não:
 
 - Alterar qualquer uma das assinaturas existentes do cliente
 
-- Fazer a transição da propriedade da conta ou das assinaturas existentes do cliente
+- Fazer a transição das assinaturas existentes do cliente ou da propriedade da conta
 
 - Alterar os termos ou as obrigações do cliente para qualquer uma de suas assinaturas existentes
 

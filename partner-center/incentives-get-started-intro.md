@@ -8,19 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 1b595afdba9ab9192c859c00fc35757ea2e24244
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 53ae5c3cf47ab74ad7dc61777ce512b37f4269fa
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179115"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152028"
 ---
 # <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Use estes recursos como incentivos para ajudá-lo a começar
 
-**Funções apropriadas**
-
-- Administrador de incentivos
-- Usuário de incentivos
+**Funções apropriadas**: administrador de incentivos | Usuário de incentivos
 
 Este artigo oferece uma rápida introdução aos programas de incentivos da Microsoft e descreve alguns recursos de incentivos para ajudá-lo a começar.
 
@@ -44,7 +41,7 @@ Antes de poder ser pago pelo seu trabalho em um programa de incentivos, você pr
 | Localize e forneça os dados que a Microsoft exige antes que você possa receber seus pagamentos de incentivos | [Criar e gerenciar perfis fiscais e de pagamento no Partner Center](incentives-create-and-manage-your-payout-and-tax-profiles.md)  |
 | Confirme que você forneceu todos os detalhes de que precisa estar qualificado para receber os ganhos de incentivos | [Confirmar a qualificação para lucros](incentives-confirm-your-earnings-eligibility.md)  |
 | Veja todos os dados e relatórios para seu programa de incentivos | [Exibir seus pagamentos e programas de incentivo](understand-incentive-payouts.md)  |
-| Acesse sua página de pagamentos de incentivos específicos do programa | [Acessar sua instrução de pagamento](payout-statement.md)  |
+| Acessar sua página de pagamento de incentivos específica do programa | [Acessar sua instrução de pagamento](payout-statement.md)  |
 
 ## <a name="next-steps"></a>Próximas etapas
 

@@ -4,45 +4,41 @@ ms.topic: article
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Permita que os clientes experimentem produtos de assinatura da Microsoft por 30 dias. Inscreva-se nessas avaliações gratuitas no catálogo, assim como muitas outras serviços online.
+description: Permitir que os clientes experimentem produtos de assinatura da Microsoft por 30 dias. Inscreva-se para essas avaliação gratuitas no catálogo, assim como muitas outras serviços online.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53f4a16ac5d0f33fd534d7fd9a13eaf5a25cf3ea
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 1d6fda82464b9abc30714798a2ee3999d8f93db5
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132324"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151127"
 ---
-# <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Fornecer a clientes avaliações gratuitas de 30 dias de produtos da Microsoft
+# <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Dar aos clientes 30 dias de avaliação gratuita de produtos da Microsoft
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de gerenciamento de usuário
-- Agente de vendas
+**Funções apropriadas:** administrador global | Administrador de gerenciamento de usuários | Agente de vendas
 
 Uma boa maneira de apresentar os clientes a novos produtos da Microsoft é oferecendo avaliações gratuitas de 30 dias. Você pode se inscrever para as avaliações no catálogo da mesma forma que se inscreve em muitos outros serviços online. Todos os parceiros podem participar.
 
 ## <a name="available-trial-offers"></a>Ofertas de avaliação disponíveis
 
-Você pode encontrar todas as suas ofertas de avaliação pendentes na página do **cliente** . Esta página lista todas as assinaturas, incluindo avaliações gratuitas e assinaturas pagas. (Esse recurso não está disponível atualmente na China.)
+Você pode encontrar todas as suas ofertas de avaliação pendentes na **página** Cliente. Esta página lista todas as assinaturas, incluindo avaliação gratuita e assinaturas pagas. (Esse recurso não está disponível atualmente na China.)
 
-Cada cliente tem direito a uma avaliação gratuita para cada oferta disponível. Por exemplo, eles podem obter uma avaliação gratuita para Microsoft 365 Business Standard e uma avaliação gratuita do Office 365 E3. No entanto, se o cliente já possuir a oferta, ele não poderá usar uma avaliação gratuita para essa oferta.
+Cada cliente tem direito a uma avaliação gratuita para cada oferta disponível. Por exemplo, eles podem obter uma avaliação gratuita para Microsoft 365 Business Standard e uma avaliação gratuita para o Office 365 E3. No entanto, se o cliente já tiver a oferta, ele não poderá usar uma avaliação gratuita para essa oferta.
 
 ### <a name="available-products"></a>Produtos disponíveis
 
-As avaliações gratuitas estão disponíveis para as ofertas mais abrangentes e populares baseadas em licesen. Novas ofertas de avaliação podem ser introduzidas mensalmente.
+As avaliação gratuitas estão disponíveis para as ofertas mais abrangentes e populares baseadas em licesen. Novas ofertas de avaliação podem ser introduzidas mensalmente.
 
-Os parceiros podem encontrar avaliações na lista de preços mensais na página **preços e ofertas** no Partner Center. As ofertas de avaliação terão "avaliação" listada na coluna **tipo de licença secundária** da lista de preços.
+Os parceiros podem encontrar avaliação na lista de preços mensal na página **de preços e ofertas** Partner Center. As ofertas de avaliação terão "TRIAL" listado na lista de preços **Tipo de Licença** Secundária coluna.
 
-Atualmente, não existem **avaliações gratuitas** para ofertas governamentais, ofertas de treinamento ou ofertas complementares.
+Atualmente, não há **nenhuma avaliação gratuita para ofertas** governamentais, ofertas de educação ou ofertas de complemento.
 
 ## <a name="licenses-for-free-trial-offers"></a>Licenças para ofertas de avaliação gratuita
 
-Todas as avaliações gratuitas fornecem 25 licenças. Não é possível alterar esse número durante a avaliação. Você não pode adicionar ou remover licenças na avaliação gratuita. Depois que a avaliação for convertida em uma assinatura paga, você poderá adicionar mais licenças à assinatura.
+Todas as avaliação gratuitas fornecem 25 licenças. Você não pode alterar esse número durante a avaliação. Você não pode adicionar ou remover licenças na avaliação gratuita. Depois que a avaliação for convertida em uma assinatura paga, você poderá adicionar mais licenças à assinatura.
 
 As licenças de avaliação devem ser atribuídas aos usuários da mesma forma que a licença de serviços pagos são atribuídas.
 

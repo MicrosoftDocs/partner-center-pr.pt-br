@@ -9,21 +9,16 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0787056d8d32db4a2975f7488bb65141c240ff88
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 2c9973bf82957cd017abfc59c25b0c17173cb3f8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132648"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151586"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Movendo várias empresas para o Partner Center do Partner Membership Center (PMC)
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de gerenciamento de usuário
-- Agente administrativo
-- Agente de vendas
+**Funções apropriadas**: Administração Global | Administrador de gerenciamento de usuários | Agente de administração | Agente de vendas
 
 Quando você move a conta da sua empresa do PMC para o Partner Center, talvez esteja movendo várias contas. No Partner Center, essas contas serão consolidadas em uma conta global (PGA). A primeira conta que você moverá será considerada a conta global do parceiro e todas as contas subsequentes serão consolidadas na primeira conta como locais. Inicie a movimentação com a conta PMC para a sede da sua empresa. Para obter mais informações, consulte [guia para migrar do PMC para o Partner Center](guide-to-migration.md) ou assista a essas [contas de vários locais de vídeo simplificadas](https://vimeo.com/290335248).
 

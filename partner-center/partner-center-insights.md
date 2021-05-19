@@ -1,6 +1,6 @@
 ---
 title: Insights do Partner Center
-description: Explore este painel de relatório unificado do Partner Center. Veja como você está fazendo em KPIs para vendas e implantação, desenvolvimento de clientes e muito mais.
+description: Explore este painel Partner Center relatório unificado. Veja como você está fazendo em KPIs para vendas e implantação, desenvolvimento de clientes e muito mais.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,40 +9,35 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: ba8389ff613b47b17b87a6769674e33948fdc37d
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 6661fb013b25e55785dac9156e5f3561f5b50c97
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086576"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151008"
 ---
-# <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Informações do Partner Center – um painel que mostra como um parceiro comercial da Microsoft está fazendo
+# <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Insights – um painel que mostra como um parceiro comercial da Microsoft está se saindo
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de conta
-- Visualizador de relatórios executivos
-- Visualizador de relatórios
+**Funções apropriadas:** administrador global | Conta de administrador | Visualizador de relatório executivo | Visualizador de relatório
 
 ## <a name="introduction"></a>Introdução
 
-O painel de informações é um painel de relatório unificado no Partner Center para parceiros comerciais da Microsoft registrados no programa Microsoft Partner Network (MPN). O painel de informações fornece uma exibição de 360 do seu KPI (indicadores chave de desempenho) em produtos de nuvem, como o Office, o Azure, o Dynamics e os modelos de licenciamento como CSP e EA. Ele expõe um rico conjunto de relatórios de KPI que podem ajudá-lo a tomar decisões orientadas por dados para sua organização. 
+O painel insights é um painel de relatórios unificado Partner Center para parceiros comerciais da Microsoft que estão inscritos no programa Microsoft Partner Network (MPN). O painel insights fornece uma exibição de 360 graus de seus KPI (indicadores chave de desempenho) em produtos de nuvem, como Office, Azure, Dynamics e modelos de licenciamento, como CSP e EA. Ele expõe um conjunto rico de relatórios de KPI que podem ajudá-lo a tomar decisões controladas por dados para sua organização. 
 
-## <a name="role-based-access-control-to-the-insights-dashboard"></a>Controle de acesso baseado em função para o painel do insights
+## <a name="role-based-access-control-to-the-insights-dashboard"></a>Controle de acesso baseado em função para o painel insights
 
-Há duas novas funções no Partner Center projetadas especificamente para acessar informações: **Visualizador de relatórios** e visualizador de **relatórios executivos**. Os usuários na função do Visualizador de relatórios executivos têm acesso a todos os conjuntos de dados de relatórios, enquanto os usuários na função Visualizador de relatórios não terão acesso a conjuntos de dados confidenciais, como receita e dados pessoais de cliente/funcionário. 
+Há duas novas funções no Partner Center especificamente para acesso ao **Insights:** Visualizador de Relatório e **Visualizador de Relatório Executivo.** Os usuários na função Visualizador de Relatórios Executivos têm acesso a todos os conjuntos de dados de relatório, enquanto os usuários na função Visualizador de Relatórios não terão acesso a conjuntos de dados confidenciais, como receita e dados pessoais de clientes/funcionários. 
 
-O administrador global ou o administrador da conta pode atribuir usuários a essas funções e são atribuídos para toda a empresa ou para um local MPN específico.  
+O administrador global ou o administrador da conta pode atribuir aos usuários essas funções e são atribuídos a toda a empresa ou a um local específico do MPN.  
 
 >[!Note] 
->Os usuários que foram MPN administradores a partir de 20 de janeiro de 2020 foram adicionados automaticamente à função de visualizador de relatórios em toda a empresa. Eles podem acessar os relatórios como um visualizador de relatórios sem a ação explícita exigida pelo administrador global ou pelo administrador da conta. Os administradores globais ou o administrador da conta podem substituir essas atribuições, se necessário. 
+>Os usuários que eram administradores do MPN a partir de 20 de janeiro de 2020 foram adicionados automaticamente à função de visualizador de relatório de toda a empresa. Eles podem acessar os relatórios como um visualizador de relatórios sem nenhuma ação explícita exigida pelo administrador global ou administrador da conta. Os administradores globais ou administradores da conta podem substituir essas atribuições, se necessário. 
 
 ## <a name="reports-available"></a>Relatórios disponíveis
 
-Os relatórios a seguir estão disponíveis como parte do painel de informações.
+Os relatórios a seguir estão disponíveis como parte do painel insights.
 
-**Visão geral**: o relatório de visão geral apresenta uma exibição de instantâneo de vários KPIs de seu interesse, como contagem de clientes, contagem de assinaturas ativas, receita de consumo do Azure, licenças ativas etc.
+**Visão** geral: o relatório Visão geral apresenta uma exibição de instantâneo de vários KPIs de seu interesse, como Contagem de clientes, contagem de Assinaturas Ativas, Receita de Consumo do Azure, Licenças ativas etc.
 
 **Cliente**: o relatório do cliente apresenta análises sobre seus clientes, como dados de aquisição do cliente, clientes ativos etc.
 
@@ -73,28 +68,28 @@ Os relatórios a seguir estão disponíveis como parte do painel de informaçõe
 
 - Filtros selecionados serão exibidos na parte superior da página. 
 
-:::image type="content" source="images/pci/filters.png" alt-text="Captura de tela parcial mostrando a barra filtros aplicados com seleções de filtro para produtos, mercados de clientes, atribuições de parceiros e canais de vendas.":::
+:::image type="content" source="images/pci/filters.png" alt-text="Captura de tela parcial mostrando a barra Filtros aplicados com seleções de filtro para produtos, mercados de clientes, atribuições de parceiro e canais de vendas.":::
 
 ### <a name="filters-definitions"></a>Definições de filtros:
 
-- Produtos: lista de todos os produtos de Microsoft Cloud vendidos/gerenciados por sua organização, por exemplo, O365, Azure, D365, EMS, Power BI, etc.
-- Mercados do cliente: lista de países do cliente
-- Atribuições de parceiros: seu tipo de associação com as assinaturas de seus clientes, por exemplo, DPOR (parceiro digital de registro), privilégio de administrador delegado (DAP) e link de administrador de parceiro (PAL). 
-- Locais de parceiros: lista de todos os locais de MPN da sua organização.
-- Canais de vendas: todo o canal/preço de vendas por meio do qual você está comprando/Provisionando produtos e serviços, especificamente CSP, EA, CSP indireto, direto, Advisor, aberto, outros
-- Segmentos de clientes: lista de segmentos de clientes na base de clientes dos parceiros.
+- Produtos: lista de todos os produtos do Microsoft Cloud vendidos/gerenciados por sua organização, por exemplo, O365, Azure, D365, EMS, Power BI etc.
+- Mercados de clientes: lista de países do cliente
+- Atribuições de parceiro: seu tipo de associação com as assinaturas de seus clientes, por exemplo, DPOR (Parceiro digital de registro), DAP (privilégio de administrador delegado) e PAL (link de administrador do parceiro). 
+- Locais de parceiros: lista de todos os locais do MPN da sua organização.
+- Canais de vendas: todos os canais de vendas/preços por meio dos quais você está comprando/provisionando produtos e serviços, ou seja, CSP, EA, CSP indireto, Direto, Advisor, Aberto, outros
+- Segmentos de clientes: lista de segmentos de clientes entre a base de clientes de parceiros.
 
-## <a name="read-about-each-of-the-dashboards-and-reports"></a>Leia sobre cada um dos relatórios e Dashboards:
+## <a name="read-about-each-of-the-dashboards-and-reports"></a>Leia sobre cada um dos dashboards e relatórios:
 
-- [Informações do Partner Center-painel Visão geral](pci-overview-report.md)
+- [Partner Center Insights – Painel de visão geral](pci-overview-report.md)
 
 - [Insights do Partner Center – painel de clientes](pci-customer-report.md)
 
-- [Recepções do Partner Center – relatório de assinaturas](pci-product-subscriptions-report.md)
+- [Partner Center Insights – Relatório de assinaturas](pci-product-subscriptions-report.md)
 
-- [Relatórios do Partner Center-relatório de licenças](pci-product-licenses-report.md)
+- [Partner Center Insights – Relatório de licenças](pci-product-licenses-report.md)
 
-- [Informações do Partner Center-relatório de uso do Azure](pci-azure-usage-report.md)
+- [Partner Center Insights – Relatório de uso do Azure](pci-azure-usage-report.md)
 
 - [Insights do Partner Center – relatório Competências](pci-competencies-report.md)
 

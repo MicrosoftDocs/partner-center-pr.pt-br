@@ -9,23 +9,18 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 007a15091a018755c60c4e02c394ad31868d4233
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 8232ab784611a04990044049c16e84c1a47b9567
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179404"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151824"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Cobrança baseada em licença no Partner Center
 
-**Funções apropriadas**
+**Funções apropriadas**: Administração Global | Administrador de gerenciamento de usuários | Administrador de cobrança | Agente de administração
 
-- Administrador global
-- Administrador de gerenciamento de usuário
-- Administrador de cobrança
-- Agente administrativo
-
-Ao comprar produtos ou serviços online no Partner Center que exigem **licenças**, você será cobrado *por cada licença* que comprar. Você *não é cobrado* pelo uso dessas licenças. (Para obter informações sobre cobrança baseada em uso e outros tipos de cobrança, consulte [tipos de cobrança no Partner Center](billing-different-types.md).)
+Ao comprar produtos ou serviços online no Partner Center que exigem **licenças**, você será cobrado *por cada licença* que comprar. Você *não é cobrado* pelo uso dessas licenças. (Para obter informações sobre cobrança baseada em uso e outros tipos de cobrança, consulte [tipos de cobrança no Partner Center](./billing-basics.md).)
 
 ## <a name="license-billing-frequency"></a>Frequência de cobrança da licença
 
@@ -60,6 +55,6 @@ Todas as assinaturas baseadas em licença são renovadas automaticamente 12 mese
 
 - [Visão geral da cobrança do Partner Center](billing-basics.md)
 
-- [Tipos de cobrança no Partner Center](billing-different-types.md)
+- [Tipos de cobrança no Partner Center](./billing-basics.md)
 
-- [Principais artigos de cobrança e imposto](billing.md)
+- [Principais artigos de cobrança e impostos](billing.md)

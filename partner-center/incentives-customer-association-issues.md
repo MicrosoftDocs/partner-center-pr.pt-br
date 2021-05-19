@@ -8,20 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 30639725c0a852046251e83c3791f56d788931c1
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 8f1c087911e6dd7e58182c99e2b97b7a6b2246d8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179201"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152164"
 ---
 # <a name="issues-with-claimed-partner-of-record-cpor-customer-associations"></a>Problemas com associações de cliente reivindicadas de CPOR (parceiro de registro)
 
-**Funções apropriadas**
-
-- Administrador de cobrança
-- Administrador global
-- Administrador de incentivos
+**Funções apropriadas**: administrador de cobrança | Administrador global | Administrador de incentivos
 
 O conteúdo abaixo ajudará você a resolver problemas que podem surgir quando você trabalha com associações de clientes.
 
@@ -64,30 +60,30 @@ A plataforma de reivindicação CPOR permite declarações de associação CPOR 
 
 ## <a name="which-mpn-do-i-choose"></a>Qual MPN escolho?
 
-No fluxo de declaração de associação do CPOR, você será solicitado a escolher um MPN da empresa que deve ser associado ao trabalho que você está reivindicando no cliente final. Sua empresa pode ter muitos MPNs, alguns dos quais podem ser registrados em programas de incentivo e outros associados a um tipo de parceiro, como o FRP FastTrack. O fluxo de declaração de associação do CPOR identificará qual MPNs será registrado em um programa de incentivo, mas não dirá se ele é um tipo de parceiro específico MPN. É importante selecionar o MPN correto para evitar ter que recuperar no futuro. Reivindicar com um MPN incorreto pode resultar em ganhos de qualificação e de incentivos perdidos.
+No fluxo de declaração de associação do CPOR, você será solicitado a escolher um MPN da empresa que deve ser associado ao trabalho que você está reivindicando no cliente final. Sua empresa pode ter muitos MPNs, alguns dos quais podem ser inscritos em programas de incentivo e outros associados a um tipo de parceiro, como o FRP FastTrack. O fluxo de declaração de associação de CPOR identificará quais MPNs estão inscritos em um programa de incentivo, mas não dirá se ele é um tipo de parceiro específico MPN. É importante selecionar o MPN correto para evitar a recuperação no futuro. A declaração com um MPN incorreto pode resultar em ganhos de qualificação e incentivos perdidos.
 
-Se você não souber qual MPN usar, entre em contato com seu administrador global.
+Se você não sabe qual MPN usar, entre em contato com seu administrador global.
 
-Se o MPN que você deseja usar não estiver registrado, você poderá gerenciá-lo na [guia Visão geral de incentivos](https://partner.microsoft.com/dashboard/incentives/enrollment/summary) (entrada necessária).
+Se o MPN que você deseja usar não estiver inscrito, você poderá gerenciá-lo na guia Visão geral de [Incentivos](https://partner.microsoft.com/dashboard/incentives/enrollment/summary) (é necessário entrar).
 
-## <a name="choosing-a-product-vs-entering-a-subscription"></a>Escolhendo um produto vs inserindo uma assinatura
+## <a name="choosing-a-product-vs-entering-a-subscription"></a>Escolhendo um produto versus inserindo uma assinatura
 
-Quando um produto do Dynamics é declarado e aprovado, o parceiro pode exibir a ID da assinatura na própria declaração de associação CPOR. Quando essa assinatura é reivindicada, ela está em status ativo ou de cortesia, mas pode haver um horário em que a assinatura termina, e as novas assinaturas precisarão ser reivindicadas em uma declaração de associação CPOR separada.
+Quando um produto dynamics é reivindicado e aprovado, o parceiro pode exibir a ID da assinatura na própria declaração de associação do CPOR. Quando essa assinatura é reivindicada, ela está em status ativo ou de carência, mas pode haver um momento em que a assinatura termina e as novas assinaturas precisarão ser reivindicadas em uma declaração de associação CPOR separada.
 
 ## <a name="competing-claims"></a>Declarações concorrentes
 
-Se você estiver criando uma declaração de associação CPOR para um cliente e seus produtos que já estão associados a outro parceiro, sua declaração passará pela arbitragem:
+Se você estiver criando uma declaração de associação CPOR para um cliente e seus produtos que já estão associados a outro parceiro, sua declaração passará por uma mediação:
 
 1. Depois de criar uma nova associação de cliente, a Microsoft verificará os detalhes da associação e da prova de execução fornecida para garantir sua exatidão.
 
-2. Se você e outro parceiro alegarem o mesmo cliente e produto/carga de trabalho, a Microsoft examinará a documentação de prova de execução de cada parceiro para determinar qual parceiro aprovar.
+2. Se você e outro parceiro reivindicar o mesmo cliente e produto/carga de trabalho, a Microsoft revisará a documentação de prova de execução de cada parceiro para determinar qual parceiro aprovar.
 
-3. Informações adicionais podem ser solicitadas de ambos os parceiros, o que pode causar atrasos no processamento de sua solicitação de associação.
+3. Informações adicionais podem ser solicitadas de ambos os parceiros, o que pode causar atrasos no processamento da solicitação de associação.
 
-4. Sua declaração de associação do CPOR ainda será revisada dentro de cinco dias úteis, embora seu status possa ficar _em análise_ por um período de tempo maior. Esse cenário pode acontecer quando a Microsoft trabalha com o parceiro que atualmente possui o produto/carga de trabalho. Você será notificado dentro da seção de comentários de sua declaração, se esse for o caso. 
+4. Sua declaração de associação de CPOR ainda será revisada dentro de cinco dias úteis, embora seu status possa permanecer como Em Revisão _por_ um período mais longo. Esse cenário pode acontecer quando a Microsoft trabalha com o parceiro que atualmente possui o produto/carga de trabalho. Você será notificado na seção de comentários de sua declaração, se esse for o caso. 
 
 >[!IMPORTANT]
->Se exigirmos informações adicionais para verificar a PoE (prova de execução) da associação do CPOR, entraremos em contato com você por meio da seção comentários de declaração de associação do CPOR.
+>Se precisarmos de informações adicionais para verificar sua PoE (prova de execução) de associação CPOR, entraremos em contato com você por meio da seção comentários de declaração de associação CPOR.
 
 ## <a name="next-steps"></a>Próximas etapas
 

@@ -8,20 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 91ff0d9b0696e1ef77cf21ce288afbc51c3fe528
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: e0c79fb70c5b439968302353c70907f37aaa09a7
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179472"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151926"
 ---
 # <a name="manage-incentives-customer-associations"></a>Gerenciar as associações de clientes de incentivos
 
-**Funções apropriadas**
-
-- Administrador de cobrança
-- Administrador global
-- Administrador de incentivos
+**Funções apropriadas**: administrador de cobrança | Administrador global | Administrador de incentivos
 
 A plataforma reivindicada de CPOR (parceiro de registro) é usada para que os parceiros se associem aos clientes finais para os quais eles estão influenciando o uso ou a compra de produtos da Microsoft. Atualmente, a plataforma CPOR dá suporte aos produtos Business Applications e Microsoft 365. Os parceiros usam esse método de associação para obter informações sobre o desempenho do cliente, receberem pagamentos de incentivos por meio dos programas OSU e OSA e ganharão a associação de receita como um influenciador de negócios.  
 
@@ -38,22 +34,22 @@ Se sua declaração de associação do CPOR for aprovada e qualificada para ince
 - Enviado: ele estará no estado enviado por até cinco dias úteis até que a Microsoft inicie o processo de aprovação.
 - Em análise: a Microsoft tem cinco dias úteis para tomar uma decisão com base na prova de execução que você fornecer.
 - Ação de parceiro necessária: se um revisor enviar comentários e uma solicitação de informações adicionais, você terá cinco dias úteis para responder. Uma decisão deve ser feita em sua declaração de associação CPOR dentro de 10 dias com base no SLA do revisor, além da quantidade de tempo que leva para fornecer revisores de PoE (prova de execução) com informações adicionais.
-- Aprovado: sua declaração de associação do CPOR foi aprovada. Depois que sua associação for aprovada, uma notificação será enviada ao cliente, dando-lhes a oportunidade de negar sua associação. O cliente terá, então, sete dias para recusar. Depois que esse período de consentimento tiver passado, a declaração será enviada para avaliar a qualificação para programas de incentivo.
+- Aprovado: sua declaração de associação do CPOR foi aprovada. Depois que sua associação for aprovada, uma notificação será enviada ao cliente, dando a ele a oportunidade de negar sua associação. Em seguida, o cliente terá sete dias para ressutar. Depois que esse período de consentimento tiver passado, a declaração será enviada para avaliar a qualificação de programas de incentivo.
 
-## <a name="view-the-status-of-your-cpor-association-claim"></a>Exibir o status de sua declaração de associação do CPOR
+## <a name="view-the-status-of-your-cpor-association-claim"></a>Exibir o status de sua declaração de associação CPOR
 
-Você pode verificar o status da sua declaração de associação do CPOR a qualquer momento usando o [painel de associações do cliente](https://partner.microsoft.com/dashboard/incentives/claims/associations) (entrada necessária).
+Você pode verificar o status de sua declaração de associação CPOR a qualquer momento usando o Painel de Associações de Clientes [(é](https://partner.microsoft.com/dashboard/incentives/claims/associations) necessário entrar).
 
 Aqui estão os status e seus significados:
 
 | Status da declaração | Aparece quando |
 | ------ | ----------- | 
-|  Edição  | Sua declaração de associação do CPOR foi criada. Ele permanece nesse estado até que você carregue o documento de prova de execução e envie a declaração para aprovação.   |
+|  Edição  | Sua declaração de associação CPOR foi criada. Ele permanece nesse estado até que você carregue o documento de prova de execução e envie a declaração para aprovação.   |
 |  Enviado  | O parceiro enviou com êxito sua declaração de associação CPOR, mas a Microsoft ainda não iniciou o processo de revisão.   |
-|  Em revisão  | A Microsoft começou a validar sua documentação PoE. Poderemos contatá-lo para obter mais detalhes. O SLA do processo de revisão é de cinco dias úteis.  |
-|  Rejeitado  | Sua PoE era insuficiente ou você não respondeu dentro de cinco dias úteis de acordo com as diretrizes de revisão de PoE e a declaração foi negada.   |
-|  Aprovado  | A declaração foi aprovada. Após a aprovação da Microsoft, o cliente deu a oportunidade de negar sua associação. O cliente tem sete dias para recusar após a aprovação da Microsoft. Embora sua declaração seja mostrada como aprovada, ela só será enviada para avaliação de incentivo depois que o período de consentimento tiver passado.   |
-|  Ação de parceiro necessária  | A Microsoft analisou sua CPOR de declaração de associação e precisa de mais informações relacionadas à sua PoE para os produtos/cargas de trabalho que você declarou. Você tem cinco dias úteis para fornecer as informações solicitadas e reenviar sua declaração ou ela será rejeitada. Abaixo estão as possíveis razões pelas quais informações adicionais podem ser necessárias:
+|  Em revisão  | A Microsoft começou a validar sua documentação de PoE. Podemos entrar em contato com você para obter mais detalhes. O SLA do processo de revisão é de cinco dias úteis.  |
+|  Rejeitado  | Seu PoE era insuficiente ou você não respondeu dentro de cinco dias úteis de acordo com as diretrizes de revisão de PoE e a declaração foi negada.   |
+|  Aprovado  | A declaração foi aprovada. Após a aprovação da Microsoft, o cliente deu a oportunidade de negar sua associação. O cliente tem sete dias para ressutar após a aprovação da Microsoft. Embora sua declaração seja aprovada, ela só será enviada para avaliação de incentivo depois que o período de consentimento tiver passado.   |
+|  Ação de parceiro necessária  | A Microsoft analisou sua poE de declaração de associação do CPOR e precisa de mais informações relacionadas ao seu PoE para os produtos/cargas de trabalho que você declarou. Você tem cinco dias úteis para fornecer informações solicitadas e reabrir sua declaração ou ela será rejeitada. Abaixo estão as possíveis razões pelas quais informações adicionais podem ser necessárias:
 
 - Ausência da PoE – PoE ausente porque um arquivo incorreto carregado ou não pertencente à declaração de associação CPOR
 
@@ -93,10 +89,10 @@ Outros motivos possíveis para rejeição:
 
 - Consentimento de cliente ausente na PoE
 - Produtos ausentes
-- Nenhuma resposta de parceiro
+- Sem resposta do parceiro
 - PoE indisponível
 
-## <a name="edit-your-cpor-association-claim"></a>Editar sua declaração de associação do CPOR
+## <a name="edit-your-cpor-association-claim"></a>Editar sua declaração de associação CPOR
 
 Você pode editar campos específicos em sua declaração de associação do CPOR. Você poderá ser solicitado a remover os produtos/cargas de trabalho se os revisores fornecerem diretrizes de que a PoE enviada é insuficiente. Para editar, sua declaração de associação de CPOR deve estar nos estados de envio ou de Requer ação de parceiro.
 
@@ -109,15 +105,15 @@ Campos que você pode editar:
 
 ## <a name="customer-consent-notification"></a>Notificação de consentimento do cliente
 
-Depois que a declaração de associação do CPOR for aprovada, uma notificação será enviada ao cliente, dando-lhes a oportunidade de negar sua associação. O cliente terá, então, sete dias para recusar. Seu status durante esse período aparece como aprovado. Se o cliente negar o consentimento, a associação será rejeitada. Depois que o período de consentimento tiver passado e o cliente não tiver negado o consentimento, a declaração será enviada para avaliar a elegibilidade para programas de incentivo.
+Depois que sua declaração de associação CPOR for aprovada, uma notificação será enviada ao cliente, dando a ele a oportunidade de negar sua associação. Em seguida, o cliente terá sete dias para ressutar. Seu status durante esse período aparece como Aprovado. Se o cliente negar o consentimento, a associação será rejeitada. Depois que o período de consentimento tiver passado e o cliente não tiver negado o consentimento, a declaração será enviada para avaliar a qualificação de programas de incentivo.
 
-## <a name="how-to-communicate-with-poe-reviewers"></a>Como se comunicar com revisores PoE
+## <a name="how-to-communicate-with-poe-reviewers"></a>Como se comunicar com revisadores de PoE
 
-Depois que os revisores tiverem passado por meio de sua PoE, eles poderão determinar que são necessárias informações adicionais. Nesse caso, eles entrarão em contato com você pela seção de comentários de sua declaração. Você também pode respondê-las na seção comentários.
+Depois que os revisadores passam por sua PoE, eles podem determinar que informações adicionais são necessárias. Em caso afirmacional, eles entrarão em contato com você por meio da seção Comentários de sua declaração. Você também pode responder a eles na seção Comentários.
 
-## <a name="view-claim-history"></a>Exibir histórico de declarações
+## <a name="view-claim-history"></a>Exibir histórico de declaração
 
-Na declaração de associação CPOR, no lado superior direito, há um botão de **histórico** que permite que você veja todas as alterações, comentários e ações executadas nessa declaração de uma perspectiva de parceiro e revisor.
+Na declaração de associação CPOR, no lado superior  direito, há um botão Histórico que permite que você veja todas as alterações, comentários e ações tomadas nessa declaração de uma perspectiva de parceiro e revisador.
 
 ## <a name="next-steps"></a>Próximas etapas
 

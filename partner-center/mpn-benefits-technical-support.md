@@ -9,20 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9aa451a3267cee70282aaad5e018e2f377edb82f
-ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
+ms.openlocfilehash: fa99b66e9b30c349be8fc5cca6dfeeed9eca34ae
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "109630110"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151399"
 ---
 # <a name="technical-support-benefits"></a>Benefícios do suporte técnico
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de parceiros do MPN
-- Agente administrativo
+**Funções apropriadas:** administrador global | Administrador de parceiros do MPN | Agente administrador
 
 ## <a name="overview"></a>Visão geral
 
@@ -61,37 +57,37 @@ Como parte da associação Microsoft Partner Network, os parceiros estão qualif
 
 | Suporte técnico |  Action Pack | Competência prata | Competência Gold |
 |:---:|:---:|:---:|:---:|
-| Suporte a produtos da Microsoft<br>Para o recente local <br>somente produtos | 10 incidentes | 15 incidentes  | 20 incidentes |
-| Suporte à assinatura na nuvem<br>Somente para produtos de nuvem |  | Competências de nuvem:<br>Ilimitado<br><br>Outras competências:<br>5 incidentes  | Competências de nuvem:<br>Ilimitado<br>          <br>Outras competências:<br>10 incidentes  |
+| Suporte a produtos da Microsoft<br>Para locais recentes <br>somente produtos | 10 Incidentes | 15 Incidentes  | 20 Incidentes |
+| Suporte à Assinatura na Nuvem<br>Somente para produtos de nuvem |  | Competências de nuvem:<br>Ilimitado<br><br>Outras competências:<br>5 Incidentes  | Competências de nuvem:<br>Ilimitado<br>          <br>Outras competências:<br>10 Incidentes  |
 
-* As competências de nuvem incluem: competência de segurança, Business Applications de nuvem, plataforma de nuvem, produtividade na nuvem, gerenciamento de mobilidade empresarial, soluções de nuvem de pequeno e médio porte.
+*As competências de nuvem incluem: Competência de Segurança, Cloud Business Applications, Cloud Platform, Cloud Productivity, Enterprise Mobility Management, Small and Midmarket Cloud Solutions.
 
 ## <a name="microsoft-product-support-on-premises"></a>Suporte a produtos da Microsoft (local)
 
-Você pode usar  **o suporte a produtos da Microsoft** para obter suporte técnico em produtos locais recentes. 
+Você pode usar  **o Suporte a Produtos da Microsoft** para suporte técnico em produtos locais recentes. 
+
+Você precisará da ID de Acesso e da ID do Contrato na primeira vez que usar o benefício. Os benefícios estão associados à sua conta de usuário até que elas expirem ou não há mais incidentes de suporte restantes.
+
+Qualquer conta de usuário (AAD ou MSA) pode usar o suporte técnico para produtos locais se eles tiverem a ID de acesso e a ID do contrato
+
+Selecione [suporte para negócios](https://support.serviceshub.microsoft.com/supportforbusiness/create) para criar uma solicitação de suporte para um produto local.
+
+## <a name="how-many-partner-support-incidents-are-remaining"></a>Quantos incidentes de suporte do parceiro estão restantes
+Você só pode obter essas informações do suporte para o portal de suporte local de negócios. Infelizmente, os portais de nuvem (por exemplo, Azure, LCS e outros) não mostram essas informações.
+
+Você precisa usar o suporte para negócios e iniciar o processo para criar um incidente de suporte local. Não criamos uma solicitação de suporte porque não concluímos o processo. As informações de que precisamos são exibidas na etapa 2.
+
+Etapa 1 Abra o [suporte para negócios](https://support.serviceshub.microsoft.com/supportforbusiness/create) e selecione Windows 10 e insira informações fictícias
+
+Etapa 2 se seu contrato de suporte já estiver associado à sua conta, você deverá ver os incidentes de suporte exibidos. Para obter suporte local, você deve ver o contrato de suporte do parceiro exibido (a menos que ele não seja mais válido) e isso inclui a data de início, a data de término e os incidentes restantes. Se você precisar associar seu contrato de suporte, expanda "você precisa comprar ou adicionar mais planos de suporte" e clique no botão Adicionar contrato para inserir sua ID de acesso e a ID do contrato. Expanda "você gostaria de ver os planos de suporte não disponíveis?" para ver as informações de assinatura do parceiro. Você só verá o suporte de parceiro exibido aqui se os contratos tiverem expirado, você não tiver nenhum incidente restante ou tiver selecionado um produto local antigo (consulte [aka.ms/n-1](https://aka.ms/n-1) para produtos de suporte)
+
+**Para obter informações mais detalhadas, consulte quantos [incidentes de suporte de parceiros estão restantes?](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3)** 
+
+## <a name="signature-cloud-support-cloud-only"></a>Suporte à assinatura na nuvem (somente na nuvem)
+
+Os parceiros de competência Gold ou Silver podem usar o **suporte à nuvem de assinatura** para suporte técnico em produtos de nuvem. 
 
 Você precisará da ID de acesso e da ID do contrato na primeira vez que usar o benefício. Os benefícios estão associados à sua conta de usuário até que elas expirem ou não há mais incidentes de suporte restantes.
-
-Qualquer conta de usuário (AAD ou MSA) poderá usar o suporte técnico para produtos locais se eles têm a ID de acesso e a ID do contrato
-
-Selecione [Suporte para Empresas](https://support.serviceshub.microsoft.com/supportforbusiness/create) para criar uma solicitação de suporte para um produto local.
-
-## <a name="how-many-partner-support-incidents-are-remaining"></a>Quantos incidentes de suporte ao parceiro ainda existem
-Você só pode obter essas informações no portal de suporte local do Suporte para Empresas. Infelizmente, os portais de nuvem, por exemplo, Azure, LCS etc. não mostram essas informações.
-
-Você precisa usar o Suporte para Empresas e iniciar o processo para criar um incidente de suporte local. Não criamos uma solicitação de suporte porque não concluimos o processo. As informações necessárias são exibidas na Etapa 2.
-
-Etapa 1 Abra [o Suporte para Empresas,](https://support.serviceshub.microsoft.com/supportforbusiness/create) selecione Windows 10 e insira informações fi fiícias
-
-Etapa 2 Se o contrato de suporte já estiver associado à sua conta, você deverá ver incidentes de suporte exibidos. Para suporte local, você deve ver o contrato de Suporte do Parceiro exibido (a menos que ele não seja mais válido) e isso inclui a data de início, a data de término e os incidentes restantes. Se você precisar associar seu contrato de suporte, expanda "Você precisa comprar ou adicionar mais planos de suporte" e clique no botão Adicionar Contrato para inserir sua ID de Acesso e ID do Contrato. Expanda "Você gostaria de ver planos de suporte indisponíveis?" para ver as informações de Assinatura do Parceiro. Você só verá o Suporte ao Parceiro exibido aqui se os contratos expiraram, se não tiver [](https://aka.ms/n-1) nenhum incidente restante ou se tiver selecionado um produto local antigo (consulte aka.ms/n-1 para produtos de suporte)
-
-**Para obter informações mais detalhadas, [consulte Quantos incidentes de suporte do parceiro ainda existem?](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3)** 
-
-## <a name="signature-cloud-support-cloud-only"></a>Suporte à Assinatura na Nuvem (somente nuvem)
-
-Os parceiros de competência Gold ou Silver podem usar **Suporte à Assinatura na Nuvem** suporte técnico em produtos de nuvem. 
-
-Você precisará da ID de Acesso e da ID do Contrato na primeira vez que usar o benefício. Os benefícios são associados à sua conta de usuário até que eles expirem ou não haja mais incidentes de suporte restantes.
 
 Os parceiros CSP que criam solicitações do Azure podem usar o plano de suporte "provedor de soluções de nuvem" sem adicionar um contrato de suporte.
 
@@ -109,9 +105,9 @@ Você verá o "ID de acesso já associado..." acima erro se você associar um co
 
 1. Se você tiver benefícios técnicos dourados ou prata e tiver adicionado anteriormente o contrato para o suporte local, use o portal do Azure e adicione o contrato uma segunda vez à mesma conta. Você só precisa associar o contrato de suporte a uma conta e, portanto, não precisa vincular os benefícios de suporte no Azure. Se você usar os benefícios de suporte de link quando o contrato já estiver associado à conta, você verá o erro e ele deverá ser ignorado. Use + novo Solicitação de suporte e crie um incidente de suporte como normal e o plano de suporte será exibido.
 
-2. Se o contrato de suporte tiver expirado ou a Assinatura 10pack (competência híbrida Gold) ou a Assinatura 5pack (competência híbrida Prata) não tiver nenhum incidente restante, o contrato de suporte ficará oculto porque ele é inválido. Se você Vincular benefícios de suporte novamente, verá o erro porque o contrato já está associado. Você precisa comprar um novo plano de suporte para obter incidentes de suporte do Azure. 
+2. Se o contrato de suporte tiver expirado ou a assinatura de 10 pacotes (competência híbrida Gold) ou assinatura 5-Pack (competência híbrida prateada) não tiver nenhum incidente restante, o contrato de suporte será ocultado porque é inválido. Se você vincular os benefícios de suporte novamente, verá o erro porque o contrato já está associado. Você precisa comprar um novo plano de suporte para obter os incidentes de suporte do Azure. 
 
-Consulte Planos de suporte do parceiro abaixo para ofertas de suporte pago pelo parceiro
+Consulte os planos de suporte do parceiro abaixo para obter ofertas de suporte pago pelo parceiro
 
 ## <a name="partner-support-plans"></a>Planos de suporte do parceiro
 
@@ -119,11 +115,11 @@ Você pode obter suporte pago da Microsoft que inclui suporte técnico e uma var
 
 Você pode [comparar os planos de suporte do parceiro](https://partner.microsoft.com/support/partnersupport) ou ver abaixo os planos específicos do parceiro:
 
-- [Suporte Premier para Parceiros –](https://partner.microsoft.com/support/microsoft-services-premier-support) o nível superior de suporte técnico da Microsoft
-- [Suporte avançado para parceiros –](https://partner.microsoft.com/support/advanced-cloud-support) somente produtos de nuvem
+- [Suporte Premier para parceiros](https://partner.microsoft.com/support/microsoft-services-premier-support) – o nível superior de suporte técnico da Microsoft
+- [Suporte avançado para parceiros](https://partner.microsoft.com/support/advanced-cloud-support) – somente produtos de nuvem
 
 
 ## <a name="next-steps"></a>Próximas etapas
 
 - [Gerenciar os benefícios e as ofertas do Microsoft Partner Network](manage-your-partner-network-benefits.md)
-- [Ativar benefícios técnicos para membros Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)
+- [Ativar os benefícios técnicos para membros do Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)

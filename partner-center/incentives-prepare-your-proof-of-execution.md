@@ -1,6 +1,6 @@
 ---
 title: Preparar o comprovante de execução
-description: Entenda a importância da sua PoE (prova de execução), cronogramas, status de exibição e diretrizes de envio.
+description: Entenda a importância da poE (prova de execução), das linhas do tempo, da exibição do status e das diretrizes de envio.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
@@ -8,22 +8,20 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: d0e5dca008f73a13fb25e9322c492a053037e633
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: a81962de16b56329167338012cc66e160fffafe8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179438"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151875"
 ---
 # <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Criar e enviar documentos para sua PoE (prova de execução) de incentivos
 
-**Funções apropriadas**
+**Funções apropriadas:** Administrador de incentivos
 
-- Administrador de incentivos
+Antes de ser pago pelo trabalho de incentivos, você deve enviar uma PoE (prova de execução) detalhada. Este artigo orienta você pelo processo de criação de uma prova de execução eficaz.
 
-Antes de ser pago pelo trabalho de seus incentivos, você deve enviar uma prova de execução detalhada (PoE). Este artigo orienta você pelo processo de criação de uma prova de execução eficaz.
-
-## <a name="how-to-submit-a-poe"></a>Como enviar uma PoE
+## <a name="how-to-submit-a-poe"></a>Como enviar um PoE
 
 1. Entre no painel [Partner Center](https://partner.microsoft.com/dashboard/).
 
@@ -31,29 +29,29 @@ Antes de ser pago pelo trabalho de seus incentivos, você deve enviar uma prova 
 
 3. Na seção **Planos**, selecione o plano desejado. A página de status deste plano será aberta.
 
-4. Na seção **campanhas** , localize a atividade desejada.
+4. Na seção **Campanhas,** encontre a atividade que você deseja.
 
-5. Na coluna **prova de execução** , selecione **Adicionar Poe**.
+5. Na coluna **Prova de execução,** selecione **Adicionar PoE**.
 
-6. Na **página nova prova de execução**, insira os campos obrigatórios.
+6. Na página **Nova prova de execução**, insira os campos necessários.
 
-   - **Nome**  do  Um nome amigável para a declaração de cooperação.
-   - **Data de início**  A data de execução. Essa data deve estar entre a data de início da campanha e a data de término da campanha.
+   - **Nome**  Um nome amigável para a declaração de cooperação.
+   - **Data**  A data de execução. Essa data deve estar entre a data de início da campanha e a data de término da campanha.
    - **Valor**  A quantidade da declaração de cooperação.
 
 7. Selecione **Salvar**.
 
-8. Na página de **declaração de nova prova de execução** , insira os campos obrigatórios.
+8. Na página **Nova declaração de prova de** execução, insira os campos necessários.
 
-   - **Nome**  do  Um nome amigável para a declaração de cooperação.
-   - **Data de início**  A data de execução. Essa data deve estar entre a data de início da campanha e a data de término da campanha.
-   - **Impressões estimadas**   O alcance estimado desta atividade; número de pessoas.
-   - **ID de pré-aprovação**   Esta é a ID que a Microsoft envia depois que aprovamos seus materiais de marketing.
+   - **Nome**  Um nome amigável para a declaração de cooperação.
+   - **Data**  A data de execução. Essa data deve estar entre a data de início da campanha e a data de término da campanha.
+   - **Impressões estimadas**   O alcance estimado dessa atividade; número de pessoas.
+   - **ID de pré-aprovação**   Essa é a ID que a Microsoft envia depois que aprovamos seus materiais de marketing.
 
 9. Quando terminar, selecione **Criar declaração**.
 
 10. Na página **informações de nota fiscal e despesa**, carregue um dos dois documentos a seguir:
-    - **Fatura de terceiros**  No campo **fatura de terceiros** , selecione **arrastar ou procurar arquivos para carregar**. Adicione a nota fiscal e os detalhes de fatura necessários e, em seguida, selecione **salvar**.
+    - **Fatura de terceiros**  No campo **Fatura de** terceiros, selecione Arrastar ou procurar arquivos **para carregar**. Adicione a nota fiscal e os detalhes de fatura necessários e, em seguida, selecione **salvar**.
     - **Relatório do serviço de certificação**  Selecione **Adicionar relatório do serviço de certificação**. Na página **gerar um relatório do serviço de certificação** , preencha os campos obrigatórios e, em seguida, selecione **salvar**.
 
 11. Você também pode carregar **documentos de prova** , se desejar. No campo **prova de documentos** , selecione **arrastar ou procurar arquivos para carregar**. Se você selecionar documentos de prova, deverá adicionar notas explicativas. Quando você tiver adicionado uma anotação, selecione **Salvar**.

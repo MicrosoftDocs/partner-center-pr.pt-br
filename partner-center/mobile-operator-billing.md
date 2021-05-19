@@ -9,18 +9,16 @@ ms.author: hickeys
 author: hickeys
 keywords: windows 10, uwp, operadoras móveis, cobrança de celular, cobrança da operadora móvel
 ms.localizationpriority: medium
-ms.openlocfilehash: 20ce286814682277e375894e99f947d084206246
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 70d1d05911c927832ae82a402b0c17be52e39cfa
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172380"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151535"
 ---
 # <a name="mobile-operator-billing"></a>Cobrança da operadora móvel
 
-**Funções apropriadas**
-
-- Administrador global
+**Funções apropriadas**: administrador global
 
 > [!NOTE]
 > Se você estiver procurando suporte em relação a pagamentos, incluindo a configuração de contas de pagamento, pagamentos ausentes, colocação de pagamentos em espera ou qualquer outra coisa, entre em contato com o suporte [aqui](https://developer.microsoft.com/windows/support).
@@ -41,7 +39,7 @@ Os seguintes operadores móveis atualmente dão suporte à cobrança de operador
 | Austrália            | Optus                                                   |
 | Áustria              | A1 Telekom, Hutchison 3G Áustria, T-Mobile/tele. Ring  |
 | Bélgica              | Base, Proximus                                          |
-| Canada               | Telus                                                   |
+| Canadá               | Telus                                                   |
 | Tchéquia              | T-Mobile, Vodafone, O2                                  |
 | Dinamarca              | 3, TDC / YouSee, Telenor, Telia                         |
 | Finlândia              | DNA, Elisa                                              |
@@ -65,4 +63,4 @@ Os seguintes operadores móveis atualmente dão suporte à cobrança de operador
 | Turquia               | Turkcell                                                |
 | Emirados Árabes Unidos | Etisalat                                                |
 | Estados Unidos        | Sprint, Verizon                                         |
-| United Kingdom       | 3 UK, EE, O2, Vodafone                                 |
+| United Kingdom       | 3 Reino Unido, EE, O2, Vodafone                                 |

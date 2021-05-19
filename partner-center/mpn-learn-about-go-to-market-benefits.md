@@ -9,19 +9,16 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d4f06f1983ab4bf3b6f9f77d02e7ae94817feeab
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: 1b22075c91d7a19c555223409ed9410522e010d2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475255"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152232"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Explore seu lançamento no mercado com as ofertas da Microsoft
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de parceiros do MPN
+**Funções apropriadas**: Administração Global | Administrador do parceiro do MPN
 
 Ao se tornar um membro Microsoft Partner Network, você obterá acesso a benefícios de associação que podem ajudá-lo a criar e expandir seus negócios. Entrar no mercado com recursos, ofertas e programas da Microsoft estão entre os [vários benefícios](https://partner.microsoft.com/manage-your-partner-network-benefits) que você recebe como um membro Microsoft Partner Network.
 
@@ -45,38 +42,34 @@ As ofertas adicionais de entrada no mercado estão disponíveis para aqueles com
 - Otimização de perfil de negócios e gerenciamento de referência
 - Como comercializar com a Microsoft
 
-Ofertas adicionais de entrada no mercado disponíveis para parceiros com níveis de competência **Gold** e/ou parceiros de ISV com a oferta de incentivo qualificado de venda conjunta:
+Ofertas adicionais de Go-To-Market disponíveis para parceiros com níveis de competência **Gold** e/ou parceiros ISV com oferta qualificada para incentivo de venda em parceria:
 
-- Todos os recursos padrão de entrada no mercado do MPN
-- Todas as ofertas de mercado de prata/ISV estão prontas para venda
-- Co-marca um-pager
-- Apresentação co-marca
-- Estudo de caso de co-marca
-- Pressione liberar com a cotação executiva da Microsoft
-- Marketing social de marca conjunta
+- Todos os recursos de go-to-market padrão do MPN
+- Todas as ofertas go-to-market prontas para venda de Silver/ISV
+- Caixa de ferramentas de entrada no mercado do parceiro 
 
-## <a name="view-go-to-market-membership-offers-in-partner-center"></a>Exibir ofertas de associação de entrada no mercado no Partner Center
+## <a name="view-go-to-market-membership-offers-in-partner-center"></a>Exibir ofertas de associação do Go-To-Market Partner Center
 
-Para exibir suas ofertas de volta ao mercado:
+Para exibir suas ofertas do Go-To-Market:
 
 1. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
 
-2. No menu à esquerda, selecione **MPN**. Em seguida, execute uma das seguintes etapas:
+2. No menu à esquerda, selecione **MPN**. Em seguida, faça uma das seguintes etapas:
 
-   - Selecione **Visão geral**. Role até a seção **links rápidos** e selecione a guia **ir para o mercado** .
+   - Selecione **Visão geral**. Role até a **seção Links** Rápidos e selecione a guia Ir **para o** mercado.
 
      ou
 
-   - Selecione os **benefícios** seguidos do **go-to-Market**.
+   - Selecione **Benefícios** seguido por **Go-To-Market.**
 
-Você verá uma lista de ofertas de entrada no mercado que já estão ativas ou que estão disponíveis para ativação.
+Você verá uma lista de ofertas go-to-market que já estão ativas ou que estão disponíveis para ativação.
 
-## <a name="manage-or-activate-go-to-market-offers-in-partner-center"></a>Gerenciar ou ativar ofertas de entrada no mercado no Partner Center
+## <a name="manage-or-activate-go-to-market-offers-in-partner-center"></a>Gerenciar ou ativar ofertas go-to-market no Partner Center
 
-Para ativar ou gerenciar suas ofertas de entrada no mercado, consulte [como gerenciar suas ofertas de volta ao mercado](manage-your-partner-network-benefits.md#manage-go-to-market-offers). Parte do processo de ativação exige que você atribua uma pessoa de marketing como o contato para emails de acompanhamento e comunicações sobre as ofertas de entrada no mercado que você ativa.
+Para ativar ou gerenciar suas ofertas do Go-To-Market, confira como gerenciar suas ofertas [go-to-market.](manage-your-partner-network-benefits.md#manage-go-to-market-offers) Parte do processo de ativação exige que você atribua uma pessoa de marketing como o contato para emails de acompanhamento e comunicações sobre as ofertas de Entrada no Mercado que você ativar.
 
 >[!IMPORTANT]
->Você precisa ser administrador global ou administrador do parceiro MPN para ativar ofertas específicas de entrada no mercado e atribuir um contato de marketing relacionado. Se necessário, você pode se tornar um administrador global seguindo as instruções em sua [página de **benefícios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (entrada necessária). Talvez sua empresa já tenha um administrador global; portanto, verifique isso com a sua equipe.
+>Você precisa ser o administrador global ou administrador de parceiros do MPN para ativar ofertas específicas do Go-To-Market e atribuir um contato de marketing relacionado. Se necessário, você pode se tornar um administrador global seguindo as instruções na página [ **Benefícios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (entrada necessária). Talvez sua empresa já tenha um administrador global; portanto, verifique isso com a sua equipe.
 
 ## <a name="next-steps"></a>Próximas etapas
 
@@ -86,4 +79,4 @@ Para ativar ou gerenciar suas ofertas de entrada no mercado, consulte [como gere
 
 - [Saiba mais sobre as competências](learn-about-competencies.md)
 
-- [Venda com a Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)
+- [Vender com a Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)

@@ -9,19 +9,17 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17fe2496c88adf4a1e271f1dc8275e7e0643e16a
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 3890f3fe314dcd1bfbbb0d86bf496683d80c5cd9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818636"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145806"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>Ativar Microsoft Partner Network benefícios técnicos fora do Partner Center
 
 
-**Funções apropriadas**
-
-- Todos os usuários do Partner Center
+**Funções apropriadas:** todos os Partner Center usuários
 
 Este artigo é para membros Microsoft Partner Network (MPN) que ainda usam Partner Membership Center (PMC). Esses membros precisam de ajuda para ativar determinados benefícios de associação do MPN, como benefícios técnicos, fora do painel [Partner Center atual.](https://partner.microsoft.com/dashboard)
 
@@ -45,7 +43,7 @@ Se você for um usuário do PMC, consulte esta tabela para ajudar a ativar seus 
 
 \*Somente para parceiros na Europa, no Oriente Médio e na África **(EMEA) :** Ao enviar o Regform por email, inclua: ID de Parceiro, endereço de email associado ao MPN, nome, nome da empresa, telefone, cidade e país. Use Regform para ajudar na criação ou na ativação de contratos de suporte. Se você tiver outros problemas relacionados ao MPN, entre em contato [com o Suporte do Partner Frontline.](https://partner.microsoft.com/support?issueid=300-0042)
 
-Depois que o benefício tiver sido ativado, o contato do programa associado aos principais benefícios da sua empresa receberá IDs de suporte do produto para esse benefício. Essas IDs incluirão uma **ID de acesso** e uma **ID de contrato**. 
+Após a ativação do seu benefício, o contato do programa associado aos principais benefícios da sua empresa receberá as IDs de suporte do produto para esse benefício. Essas IDs incluirão uma **ID de acesso** e uma **ID de contrato**. 
 
 Você ou os usuários da sua empresa podem precisar compartilhar essas IDs de suporte do produto na primeira vez que você enviar uma solicitação de suporte para determinados tipos de produtos ou serviços.
 

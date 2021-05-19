@@ -1,40 +1,37 @@
 ---
-title: Reembolso para um benefício de MPN
+title: Reembolso de um benefício do MPN
 ms.topic: article
 ms.date: 02/05/2021
-description: Saiba como solicitar um reembolso para um benefício MPN e os critérios necessários para serem qualificados.
+description: Saiba como solicitar um reembolso para um benefício do MPN e os critérios necessários para se qualificar.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 39a925bbfccb720951a63f4e11207df4a3252200
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 919a0187d3d999e935667bdbd6d565fb093fe6dd
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132903"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151314"
 ---
-# <a name="request-a-refund-for-an-mpn-benefit"></a>Solicitar um reembolso para um benefício MPN
+# <a name="request-a-refund-for-an-mpn-benefit"></a>Solicitar um reembolso para um benefício do MPN
 
-**Funções apropriadas**
+**Funções apropriadas:** administrador de parceiros do MPN | Administrador da conta
 
-- Administrador de parceiros do MPN
-- Administrador de conta
-
-Este artigo lista os critérios que você deve atender ao solicitar um reembolso para um benefício MPN.
+Este artigo lista os critérios que você deve atender ao solicitar um reembolso para um benefício do MPN.
 
 ## <a name="criteria-for-a-refund"></a>Critérios para um reembolso
-Ao solicitar um reembolso para um benefício MPN (Action Pack, nível prata ou nível ouro) que você comprou, sua solicitação deve corresponder aos seguintes critérios:
+Ao solicitar um reembolso para um benefício mpn (Action Pack nível prata ou ouro) que você comprou, sua solicitação deve corresponder aos seguintes critérios:
 
 - A compra foi feita nos últimos 30 dias
 - Todos os benefícios não devem ser ativados/usados
-- As chaves do produto não devem ser exibidas (mesmo se não estiverem ativadas)
+- As chaves do produto não devem ser exibidas (mesmo que elas não sejam ativadas)
 
-Os reembolsos de impostos, para parceiros isentos de impostos, estão disponíveis por um ano.
+Reembolsos fiscais, para parceiros isentos de impostos, estão disponíveis por um ano.
 
 >[!NOTE]
->Se você tiver uma oferta de associação prata e tiver usado o desconto de 25% de participação Gold para atualizar para uma oferta de associação Gold, não será elegível para um reembolso prata (mesmo que você tenha pago pela Associação Silver dentro de 30 dias e não tenha usado os benefícios).
+>Se você tiver uma oferta de associação Silver e tiver usado o desconto de associação Gold de 25% para atualizar para uma oferta de associação Gold, não estará qualificado para um reembolso Silver (mesmo se você tiver pago pela associação Silver dentro de 30 dias e não tiver usado os benefícios).
 
 ## <a name="next-steps"></a>Próximas etapas
 
