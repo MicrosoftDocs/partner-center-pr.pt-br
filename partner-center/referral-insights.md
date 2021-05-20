@@ -9,18 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5793e865105b59b2772fd6af5187a92115659e1d
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: b1bb86a493ce81cb02b14c9555f82767d10f841c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328076"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855940"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenha informações de referência na Central de parceiros e descubra como estão suas referências
 
-**Funções apropriadas**
-
-- Administrador de indicações
+**Funções apropriadas**: Administrador de indicações
 
 A página **Oportunidades de venda conjunta** na seção **Análise** em Indicações permite conferir o desempenho das suas indicações. Revise essas métricas regularmente para ajudar a identificar tendências ou áreas que precisam de atenção e comece a direcioná-las para as suas metas de negócios.
 

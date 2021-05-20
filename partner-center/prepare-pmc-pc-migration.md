@@ -9,21 +9,16 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b267f89ec1c7b27e87eaaf3d7b594ebbd0fd6942
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 7f533240d5236f03fe277d4c6dfa02ed1c58b63c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633871"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855005"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Preparar a migração do PMC (Partner Membership Center) para o Partner Center
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de gerenciamento de usuário
-- Agente de vendas
-- Agente administrativo
+**Funções apropriadas**: Administrador global | Administrador de gerenciamento de usuários | Agente de vendas | Agente administrativo
 
 Estamos migrando o gerenciamento de associação do PMC (Partner Membership Center) para o Partner Center, o único local para gerenciar seu relacionamento comercial com a Microsoft. Queremos que a sua migração para o Partner Center seja a mais eficiente e fácil possível. Identificamos algumas áreas em que o Partner Center é distinto do PMC e acreditamos ser útil entendê-las e se preparar para elas antes que você faça a migração.
 

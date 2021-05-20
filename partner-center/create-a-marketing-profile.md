@@ -9,19 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db9166b0d2c4fe1c9f61921a9632c9704eaca74d
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: f66a5c32f145be5a80de838dae2cd1926e6aebce
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964380"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148187"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Crie um perfil empresarial para obter leads de vendas da Microsoft e ajudar os clientes a encontrá-lo
 
-**Funções apropriadas**
-
-- Administrador de perfis de negócios
-- Administrador de indicações
+**Funções apropriadas**: Administrador de perfil de negócios | Administrador de indicações
 
 Como um parceiro qualificado da Microsoft, você pode criar um perfil de negócios para mostrar sua empresa a clientes que estejam procurando suas soluções exclusivas e seus conhecimentos para atender a necessidades de negócios.
 
