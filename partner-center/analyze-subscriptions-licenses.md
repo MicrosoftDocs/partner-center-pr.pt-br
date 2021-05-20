@@ -1,6 +1,6 @@
 ---
 title: Analisar as assinaturas e as licenças
-description: Saiba como usar as métricas na página assinatura e análise de licença para identificar seus sucessos e áreas que precisam de mais atenção.
+description: Saiba como usar as métricas na página Assinatura e análise de licença para identificar seus sucessos e áreas que precisam de mais atenção.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: amitravat
@@ -9,31 +9,26 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 03/31/2021
-ms.openlocfilehash: 3f84026cc6402bea71837b06a5e330f2c879a06b
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 45a0ebb70f6e139b1e130c3cfc1d24eb79b41a0d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103784"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150141"
 ---
-# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analise assinaturas e licenças para ajudá-lo a impulsionar decisões de negócios e novas metas
+# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analisar assinaturas e licenças para ajudá-lo a impulsionar decisões de negócios e novas metas
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de gerenciamento de usuário
-- Agente administrativo
-- Agente de vendas
+**Funções apropriadas:** administrador global | Administrador de gerenciamento de usuários | Agente administrador | Agente de vendas
 
 Os dados impulsionam as decisões de negócios. Use as métricas na página **Análise de assinatura e licença** para identificar seu êxitos e as áreas que precisam de mais atenção. Use essas informações ao planejar novas metas de negócios.
 
-**Receita TTM do CSP (USD)**: essa métrica representa a receita cobrada do CSP agregada (USD) para os doze meses à direita (TTM) para as contas de local do parceiro e a conta global do parceiro (PGA) à qual esta conta do CSP está associada. Se você tiver outras contas de CSP com um PGA diferente, deverá entrar em cada uma delas para exibir a receita de TTM agregada correspondente.  Clique no link detalhes de download para obter uma análise da receita de TTM (USD) por ID de MPN.
+**Receita TTM do CSP (USD)**: essa métrica representa a receita cobrada do CSP agregada (USD) para os doze meses à frente (TTM) para as Contas de Localização do Parceiro e a PGA (Conta Global do Parceiro) à qual essa conta do CSP está associada. Se você tiver outras contas CSP com um PGA diferente, entre em cada uma delas para exibir a receita TTM agregada correspondente.  Clique no link de detalhes de download para obter um detalhamento da receita TTM (USD) por ID do MPN.
 
 >[!NOTE]
->Os preços de moedas locais (comércio de legado herdado) em comercial são gerenciados para dentro de +/-5% de dólares americanos. A taxa de câmbio de comércio herdada (FX) é diferente das taxas de cobrança FX usadas pelo Azure na experiência de comércio moderna. As taxas de cobrança FX do comércio moderno são baseadas em taxas do Microsoft P&L (taxas do Reuters FX do feed do tesouro). As taxas de comércio FX herdadas são confidenciais da Microsoft.
+>Os preços de moeda local (FX de Comércio Herddo) em Comercial são gerenciados para dentro de +/-5% de dólares americanos. A taxa de câmbio de Comércio Herdado (FX) é diferente das taxas FX de cobrança usadas pelo Azure na experiência de Comércio Moderno. As taxas FX de cobrança do Comércio Moderno baseiam-se nas taxas de L do Microsoft P&(taxas FX de Reuters do feed do Tesouro). As taxas FX de Comércio Herdou são confidenciais da Microsoft.
 
 
-O restante do relatório pode ser dinamizado com base nos seguintes produtos:
+O restante do relatório pode ser girado com base nos seguintes produtos:
 
  - **Dynamics 365**: dados do Dynamics 365  
  - **EMS**: dados de Serviços de Gerenciamento Empresarial  
@@ -56,7 +51,7 @@ Estamos monitorando as seguintes métricas:
  
  - **Assinaturas suspensas**: contagem das assinaturas suspensas, não há filtro de datas  
 
-**Divisão do produto**
+**Detalhamento do produto**
   
  - **Contagem de assinaturas**: cinco principais produtos classificados por assinaturas vendidas  
  
@@ -91,4 +86,4 @@ Estamos monitorando as seguintes métricas:
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Analise o desempenho de seus revendedores indiretos](analyze-indirect-resellers.md)
+- [Analisar o desempenho de seus revendedores indiretos](analyze-indirect-resellers.md)

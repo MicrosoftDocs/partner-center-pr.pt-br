@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9395a64a5bdf5aa0219bb9457d581e71bef777c2
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: d46b37aa903d10ec97b780eec9dde1deec623277
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354620"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148968"
 ---
 # <a name="solution-assessment-incentives-faq-for-the-channel-incentives-platform-chip"></a>Perguntas frequentes sobre incentivos de avaliação de solução para a plataforma de incentivos de canal 
 
-**Funções apropriadas**
-
-- Administrador primário de contato ou programa
+**Funções apropriadas**: administrador de contato primário ou de programa
 
 Encontre respostas para as perguntas frequentes abaixo.
 
@@ -41,23 +39,23 @@ Leia [navegando no chip](chip-intro.md) para obter instruções passo a passo so
 
 ## <a name="my-deal-status-has-been-approved-in-chip-why-hasnt-it-been-paid-yet"></a>Meu status de acordo foi aprovado no CHIP. Por que ainda não foi pago?
 
-Além do status do acordo, o status de POE também deve ser aprovado em CHIP antes que a oportunidade possa ser enviada para pagamento. Examine sua oportunidade em CHIP para garantir que a POE foi carregada e aprovada pela equipe de validação de POE em CHIP. Para exibir o status de POE, entre no CHIP e selecione **Pesquisar negócios** na tela **eu preciso...** . Insira a **ID da oportunidade** e selecione **Pesquisar**. Nos resultados da pesquisa, selecione o hiperlink ' Editar ' em POE. Na página resultante, role até a seção "revisar" para ver o status de POE. Examine também o campo ' comentários ' caso a equipe POE tenha solicitado informações adicionais sobre a POE.
+Além do status do acordo, o status de POE também deve ser aprovado em CHIP antes que a oportunidade possa ser enviada para pagamento. Revise sua oportunidade no CHIP para garantir que o LTD tenha sido carregado e aprovado pela Equipe de Validação doEI no CHIP. Para exibir o status DOIS, entre no CHIP e selecione **Pesquisar Ofertas** **no I Need To...** . Insira a **ID da oportunidade** e selecione **Pesquisar.** Nos resultados da pesquisa, selecione o hiperlink 'Editar' em LTD. Na página resultante, role até a seção "Revisão" para ver o status DOLS. Além disso, revise o campo 'Comentários' caso a equipe de SEMPRE tenha solicitado informações adicionais sobre o LTD.
 
-## <a name="why-did-i-not-receive-any-payment-for-milestone-1-for-my-opportunity"></a>Por que não recebi nenhum pagamento para a etapa 1 para minha oportunidade?
+## <a name="why-did-i-not-receive-any-payment-for-milestone-1-for-my-opportunity"></a>Por que não recebi nenhum pagamento pelo Marco 1 para minha oportunidade?
 
-A partir de 15 de agosto de 2020, a etapa 1 será paga em 0% do nível de incentivo aprovado e da etapa 2 paga em 100% do nível de incentivo aprovado. Todos os compromissos registrados no CHIP aberto antes de 15 de agosto de 2020 continuarão a ser pagos sob as diretrizes de FY20. Examine as [perguntas frequentes do parceiro](https://assetsprod.microsoft.com/solution-assessment-incentive-program-faq.pdf) para obter diretrizes sobre as alterações no processo da etapa.
+A partir de 15 de agosto de 2020, o Marco 1 é pago em 0% do nível de incentivo aprovado e o Marco 2 paga em 100% do nível de incentivo aprovado. Todos os compromissos abertos registrados no CHIP antes de 15 de agosto de 2020 continuarão sendo pagos de acordo com as diretrizes do FY20. Revise as [Perguntas frequentes sobre parceiros](https://assetsprod.microsoft.com/solution-assessment-incentive-program-faq.pdf) para obter diretrizes sobre as alterações no processo do Marco.
 
-## <a name="how-to-i-dispute-an-opportunity-or-payment-i-received"></a>Como fazer para contestar uma oportunidade ou um pagamento que recebi?
+## <a name="how-to-i-dispute-an-opportunity-or-payment-i-received"></a>Como contestar uma oportunidade ou pagamento que recebi?
 
-Entre em contato com a sua SAS que pode fornecer orientações sobre essa solicitação.
+Entre em contato com sua SAS que pode fornecer diretrizes com essa solicitação.
 
-## <a name="the-opportunity-is-closed-in-chip-which-is-preventing-me-from-uploading-poe-what-can-i-do-to-get-the-opportunity-paid"></a>A oportunidade é fechada no CHIP, o que está me impedindo de carregar a POE. O que posso fazer para que a oportunidade seja paga?
+## <a name="the-opportunity-is-closed-in-chip-which-is-preventing-me-from-uploading-poe-what-can-i-do-to-get-the-opportunity-paid"></a>A oportunidade é fechada no CHIP, o que está me impedindo de carregar o UPLOAD. O que posso fazer para obter a oportunidade paga?
 
-Quando uma oportunidade é fechada, ela não fica mais qualificada para incentivos. Alcance sua SAS para obter mais diretrizes.
+Depois que uma oportunidade é fechada, ela não está mais qualificada para incentivos. Entre em contato com sua SAS para obter mais diretrizes.
 
 ## <a name="how-do-i-add-a-new-adminuser-to-chip"></a>Como fazer adicionar um novo administrador/usuário ao CHIP?
 
-O contato do parceiro principal (administrador) tem a responsabilidade de convidar todos os outros usuários da empresa para se registrarem em CHIP. Eles também são responsáveis pelo acesso do usuário, incluindo a desativação de todos os usuários que deixam a empresa. Leia o [Guia de plataforma de incentivos de canal](chip-intro.md).
+O Contato principal do parceiro (administrador) tem a responsabilidade de convidar todos os outros usuários da empresa para se registrarem no CHIP. Eles também são responsáveis pelo acesso do usuário, incluindo a desativação de todos os usuários que saem da empresa. Leia o Guia [da Plataforma de Incentivos de Canal](chip-intro.md).
 
 ## <a name="the-primary-admin-has-left-our-company-how-do-we-change-my-primary-admin-in-chip"></a>O administrador primário saiu de nossa empresa. Como mudamos meu administrador primário no CHIP?
 

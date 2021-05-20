@@ -1,50 +1,45 @@
 ---
-title: Personalizar a experiência de uso inicial do dispositivo
+title: Personalizar a experiência de configuração de um dispositivo
 ms.topic: how-to
 ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Antes de entregar um novo dispositivo do cliente, você pode usar os perfis do Windows AutoPilot para personalizar ou pré-configurar a OOBE (configuração inicial do usuário) do dispositivo.
+description: Antes de fornecer o novo dispositivo de um cliente, você pode usar Windows Autopilot para personalizar ou pré-configurar a OOBE (experiência de configuração prévia) do dispositivo.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 12057d50e4456dd2450ff497e00c89a9afa5dc4d
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 5294495403be729adecb5a7814ade4f9d454a0f6
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534975"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149818"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Usar perfis do Windows Autopilot em novos dispositivos para personalizar a experiência imediata do cliente
 
-**Funções apropriadas**
+**Funções apropriadas:** agente administrador | Administrador global | Agente de vendas | Administrador de gerenciamento de usuários
 
-- Agente administrativo
-- Administrador global
-- Agente de vendas
-- Administrador de gerenciamento de usuário
+Se você gerenciar dispositivos de cliente, talvez seja necessário personalizar a OOBE (experiência de configuração) para os usuários do cliente. Você pode pré-configurar novos dispositivos com perfis Windows Autopilot antes de entregar os dispositivos aos clientes e aplicar novos perfis aos dispositivos que os clientes já compraram. 
 
-Se você gerenciar dispositivos de clientes, talvez seja necessário personalizar a OOBE (experiência inicial do usuário) para os usuários do cliente. Você pode pré-configurar novos dispositivos com os perfis do Windows AutoPilot antes de entregar os dispositivos aos clientes e aplicar novos perfis a dispositivos que os clientes já adquiriram. 
+Observe que os OEMs começaram a incluir uma etiqueta de remessa fora da caixa de dispositivo do Autopilot que mostra a **PKID (ID** da Chave do Produto) do dispositivo.  Esse código de barras 1dimensional e acessível fornece aos parceiros downstream uma maneira de registrar dispositivos para o Autopilot sem precisar unbox os dispositivos e coletar a ID do dispositivo por meios alternativos.
 
-Observe que os OEMs começaram a incluir um rótulo de remessa no fora da caixa de dispositivo do piloto automático que mostra a **ID de chave do produto (PKID)** do dispositivo.  Este código de barras legível e unidimensional fornece aos parceiros downstream uma maneira de registrar dispositivos para o AutoPilot sem precisar unboxr os dispositivos e coletar a ID do dispositivo por meios alternativos.
+Este artigo explica como criar e aplicar perfis do Autopilot a dispositivos Partner Center.
 
-Este artigo explica como criar e aplicar perfis do AutoPilot a dispositivos no Partner Center.
-
-Se você ainda não estiver familiarizado com o piloto automático, revise as informações nestes artigos:
+Se você ainda não estiver familiarizado com o Autopilot, revise as informações nestes artigos:
 
 - [Visão geral do Windows Autopilot.](/windows/deployment/windows-10-auto-pilot)
-- [Guia de referência de implantação do AutoPilot](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
+- [Guia de referência de implantação do Autopilot](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>Visão geral
 
-Com o recurso de piloto automático do Windows no Partner Center, você pode criar perfis personalizados para aplicar aos dispositivos do cliente. As seguintes configurações de perfil estavam disponíveis no momento em que este artigo foi publicado:
+Com o Windows Autopilot em Partner Center, você pode criar perfis personalizados para aplicar aos dispositivos do cliente. As seguintes configurações de perfil estavam disponíveis no momento em que este artigo foi publicado:
 
-- Ignore as configurações de privacidade. Essa configuração opcional do perfil de piloto automático permite que as organizações não perguntem sobre as configurações de privacidade durante o processo OOBE.
+- Ignore as configurações de privacidade. Essa configuração opcional de perfil do Autopilot permite que as organizações não perguntem sobre as configurações de privacidade durante o processo OOBE.
 
-- Desabilite a criação da conta de administrador local no dispositivo. As organizações podem decidir se o usuário que está configurando o dispositivo deve ter acesso de administrador quando o processo for concluído.
+- Desabilite a criação de conta de administrador local no dispositivo. As organizações podem decidir se o usuário que está configurando o dispositivo deve ter acesso de administrador após a conclusão do processo.
 
-- Configurar automaticamente o dispositivo para trabalho ou escola. Todos os dispositivos registrados com o piloto automático serão considerados dispositivos corporativos ou de estudante automaticamente, portanto, essa pergunta não será feita durante o processo OOBE.
+- Configurar automaticamente o dispositivo para trabalho ou escola. Todos os dispositivos registrados com o Autopilot serão automaticamente considerados dispositivos de trabalho ou de estudante, portanto, essa pergunta não será perguntada durante o processo OOBE.
 
 - Ignore as páginas de configuração de registro do Cortana, do OneDrive e do OEM. Todos os dispositivos registrados com o AutoPilot irão ignorar automaticamente essas páginas durante o processo de OOBE (experiência inicial do uso).
 
@@ -130,48 +125,48 @@ Quando o dispositivo do cliente se conecta à Internet, ele baixa a versão mais
 
 2. Na página de detalhes do cliente, selecione **dispositivos**.
 
-3. Em **perfis do Windows AutoPilot** , selecione o perfil que você precisa atualizar. Faça as alterações necessárias e, em seguida, selecione **Enviar**.
+3. Em **perfis do Windows AutoPilot** , selecione o perfil que você precisa atualizar. Faça as alterações necessárias e, em seguida, **selecione Enviar**.
 
-Para excluir esse perfil, selecione **excluir perfil** no canto superior direito da página.
+Para excluir esse perfil, selecione **Excluir perfil** no canto superior direito da página.
 
 ### <a name="add-devices-to-a-customers-account"></a>Adicionar dispositivos à conta de um cliente
 
 >[!NOTE]
->Agentes de vendas e agentes de Administração podem adicionar dispositivos à conta de um cliente.
+>Agentes de vendas e agentes administradores podem adicionar dispositivos à conta de um cliente.
 
-Antes de aplicar perfis de AutoPilot personalizados a dispositivos de cliente, você deve ser capaz de acessar a lista de dispositivos do cliente.
+Antes de aplicar perfis personalizados do Autopilot aos dispositivos do cliente, você deve ser capaz de acessar a lista de dispositivos do cliente.
 
-Se você planeja usar o nome do OEM, o número de série e a combinação de modelos, esteja atento a essas limitações:
+Se você planeja usar o nome do OEM, o número de série e a combinação de modelos, esteja ciente dessas limitações:
 
-- Essa tupla funciona apenas para dispositivos mais recentes (hashes de 4K, por exemplo) e não tem suporte para hashes 128B (RS2 e dispositivos anteriores).
+- Essa tupla funciona apenas para dispositivos mais novos (hashes de 4k, por exemplo) e não tem suporte para hashes de 128b (RS2 e dispositivos anteriores).
 
-- O registro de tupla diferencia maiúsculas de minúsculas e, portanto, os dados no arquivo devem corresponder ao modelo e nomes de fabricantes **_exatamente_* _, conforme fornecido pelo provedor OEM (provedor de hardware).
+- O registro de tupla faz a confidencialidade de minúsculas,  portanto, os dados no arquivo devem corresponder aos nomes do modelo e do fabricante exatamente conforme fornecido pelo provedor OEM (provedor de hardware).
 
 Siga as instruções abaixo para adicionar dispositivos à conta de um cliente no Partner Center.
 
-1. Selecione _ *Customers** no menu do Partner Center e, em seguida, selecione o cliente cujos dispositivos você deseja gerenciar.
+1. Selecione **Clientes** no menu Partner Center e, em seguida, selecione o cliente cujos dispositivos você deseja gerenciar.
 
-2. Na página de detalhes do cliente, selecione **dispositivos**.
+2. Na página de detalhes do cliente, selecione **Dispositivos**.
 
-3. Em **aplicar perfis a dispositivos** , selecione **Adicionar dispositivos**.
+3. Em **Aplicar perfis a dispositivos,** **selecione Adicionar dispositivos**.
 
-4. Insira um nome para a lista de dispositivos e, em seguida, selecione **procurar** para carregar a lista do cliente (no formato de arquivo. csv) para o centro de parceiros.
+4. Insira um nome para a  lista de dispositivos e selecione Procurar para carregar a lista do cliente (no formato de arquivo .csv) para Partner Center.
 
     >[!NOTE]
-    >Você deve ter recebido esse arquivo. csv com a compra do dispositivo. Se você não recebeu um arquivo. csv, você pode criar um por conta própria seguindo as etapas em [adicionando dispositivos ao Windows AutoPilot](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell).  
+    >Você deve ter recebido esse arquivo .csv com a compra do dispositivo. Se você não recebeu um arquivo .csv, poderá criar um por conta própria seguindo as etapas em Adicionar dispositivos ao [Windows Autopilot](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell).  
 
-5. Carregue o arquivo. csv e, em seguida, selecione **salvar**.
+5. Carregue o arquivo .csv e selecione **Salvar**.
 
-Se você receber uma mensagem de erro ao tentar carregar o arquivo .csv, verifique o formato do arquivo. Você pode usar somente o hash de hardware ou o nome do OEM, o número de série e o modelo (na ordem da coluna) ou a ID de Produto do Windows. Você também pode usar o arquivo. csv de exemplo fornecido no link ao lado de **Adicionar dispositivos** para criar uma lista de dispositivos.
+Se você receber uma mensagem de erro ao tentar carregar o arquivo .csv, verifique o formato do arquivo. Você pode usar somente o hash de hardware ou o nome do OEM, o número de série e o modelo (na ordem da coluna) ou a ID de Produto do Windows. Você também pode usar o arquivo .csv de exemplo fornecido no link ao lado de **Adicionar dispositivos** para criar uma lista de dispositivos.
 
-Seu arquivo. csv deve ser semelhante a este:
+O arquivo .csv deve ter esta aparência:
 
-> **Número de série do dispositivo, ID do produto do Windows, hash de hardware, nome do fabricante, modelo do dispositivo**
+> **Número de Série do Dispositivo, ID do Produto do Windows, Hash de Hardware, Nome do fabricante, Modelo de dispositivo**
 
-> **{serialNumber},,, Microsoft Corporation, laptop Surface**
+> **{serialNumber},,,Microsoft Corporation,Surface Laptop**
 
 >[!NOTE]
-> "Nome do fabricante" e "modelo do dispositivo" diferenciam maiúsculas de minúsculas.
+> "Nome do fabricante" e "Modelo de dispositivo" são sensíveis a minúsculas.
 
 Se você não souber qual valor deve ser colocado para o nome do fabricante e o modelo do dispositivo, poderá executá-lo no dispositivo para reunir os valores corretos:
 

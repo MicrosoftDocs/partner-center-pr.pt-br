@@ -4,28 +4,23 @@ ms.topic: article
 ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Explore a cobrança ao adicionar novas assinaturas, ajustar a quantidade de licenças ou cancelar uma assinatura. Veja como as assinaturas baseadas em uso e licença são diferentes.
+description: Explore a cobrança ao adicionar novas assinaturas, ajustar a quantidade de licenças ou cancelar uma assinatura. Veja como as assinaturas baseadas em uso e baseadas em licença diferem.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 132a44e1e81f28dd28bdcd95cee209cb5c046ff6
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 54f3afc36e51299b6b8656eecdeff67628128580
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964392"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148543"
 ---
-# <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Cenários de cobrança comuns para parceiros do programa CSP trabalhando no Partner Center
+# <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Cenários comuns de cobrança para parceiros do programa CSP que trabalham Partner Center
 
-**Funções apropriadas**
+**Funções apropriadas:** agente administrador | Administrador de cobrança | Agente de ajuda | Agente de vendas
 
-- Agente administrativo
-- Administrador de cobrança
-- Agente de suporte técnico
-- Agente de vendas
-
-Estes artigos explicam o que você deve esperar ver em sua fatura depois de adicionar novas assinaturas, ajustar o número de licenças para uma assinatura ou cancelar uma assinatura. Outros [tipos de cobrança do Partner Center](billing-different-types.md), como assinaturas baseadas em uso e de licença, são cobrados de forma diferente.
+Esses artigos explicam o que você deve esperar ver em sua fatura depois de adicionar novas assinaturas, ajustar o número de licenças a uma assinatura ou cancelar uma assinatura. Outros [Partner Center tipos de cobrança,](./billing-basics.md)como assinaturas baseadas em uso e baseadas em licença, são cobrados de forma diferente.
 
 
 ## <a name="change-billing-frequency"></a>Alterar a frequência de cobrança
@@ -47,5 +42,5 @@ Para alterar a frequência de cobrança de um serviço online para um cliente:
 | --------------- | ----------------- |
 | [Cobrança mensal](common-billing-scenarios-monthly.md) | Adicionar novas assinaturas, alterar a quantidade de licenças e suspender assinaturas. |
 | [Cobrança anual](common-billing-scenarios-annual.md) | Adicionar novas assinaturas, adicionar licenças antes da data de cobrança, alterar a quantidade de licenças e suspender e reativar assinaturas. |
-| [Cobrança por uma única vez e selecionar compras recorrentes](common-billing-scenarios-onetime-recurring.md) | Aquisição de assinaturas, adição de mais assinaturas, adição e remoção de licenças. |
-| [Cobrança para assinaturas SaaS baseadas em licença](common-billing-scenarios-saas.md) | Avaliações gratuitas para assinaturas de SaaS (software como serviço) baseadas em licença. Compra e cancelamento de assinaturas de SaaS de medidor personalizado. |
+| [Cobrança única e seleção de compras recorrentes](common-billing-scenarios-onetime-recurring.md) | Comprando assinaturas, adicionando mais assinaturas, adicionando e removendo licenças. |
+| [Cobrança de assinaturas SaaS baseadas em licença](common-billing-scenarios-saas.md) | Avaliação gratuita para assinaturas saaS (software como serviço) baseadas em licença. Compra e cancelamento de assinaturas SaaS de medidor personalizado. |

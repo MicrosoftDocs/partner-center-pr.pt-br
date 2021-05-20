@@ -2,25 +2,23 @@
 title: Adicionar usuários à sua conta da CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Saiba como adicionar usuários à sua conta plaform (CHIP) de incentivos de canal. Observe que a plataforma do CHIP será desativada no final de 2021.
+description: Saiba como adicionar usuários à sua conta de CHIP (plataforma de incentivos) de canal. Observe que a plataforma do CHIP será desativada no final de 2021.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 954011221af9c2c8d1da06de6fa6853a38252f2d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: e037d616fff8416fc15e59b4c58639f647c16841
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570510"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148781"
 ---
 # <a name="add-users-to-your-channel-incentives-platform-chip-account"></a>Adicionar usuários à sua conta de CHIP (plataforma de incentivos) de canal
 
-**Funções apropriadas**
-
-- Administrador do CHIP de contato primário
+**Funções apropriadas**: administrador do chip de contato principal
  
 >[!NOTE]
 >A plataforma do CHIP será desativada no final de 2021.

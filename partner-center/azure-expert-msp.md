@@ -4,33 +4,28 @@ ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como se candidatar ao programa de provedor de serviços gerenciados do especialista do Azure para se destacar de outros parceiros e obter a prioridade mais alta no mecanismo de referência.
+description: Saiba como aplicar o programa Provedor de Serviços Gerenciados Especialista em Azure para se destacar de outros parceiros e obter a prioridade máxima no mecanismo de indicação.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 364add7e25052ce97bfb26b84b26c5fcc430637d
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 45908ef67beaf2f84ae4cddfe11bfdfe8886ab96
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534651"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149801"
 ---
 # <a name="azure-expert-managed-services-provider-program"></a>Programa Provedor de serviços gerenciados de Especialistas do Azure
 
-**Funções apropriadas**
+**Funções apropriadas:** conta de administrador | Administrador de perfil de negócios | Administrador global | Administrador de parceiro do MPN
 
-- Administrador de conta
-- Administrador de perfis de negócios
-- Administrador global
-- Administrador de parceiros do MPN
+Se sua empresa for uma boa pessoa para vender e gerenciar serviços do Azure para os clientes, confira a aplicação ao programa Provedor de Serviços Gerenciados Especialista em Azure cliente. MSP Especialista em Azure parceiros recebem uma selo exclusivo que os diferencia de outros parceiros da Microsoft e têm prioridade máxima no mecanismo de indicação. Eles são priorizados para participação de venda em cooperação, recebem suporte ao desenvolver novas práticas e podem participar de eventos exclusivos.
 
-Se sua empresa for uma astro em vender e gerenciar serviços do Azure para os clientes, examine a aplicação do programa de provedor de serviços gerenciados por especialistas do Azure. Os parceiros do Azure expert MSP recebem uma notificação exclusiva, diferenciando-os de outros parceiros da Microsoft e ganham prioridade no mecanismo de referência. Eles são priorizados para os compromissos de venda conjunta, recebem suporte ao desenvolver novas práticas e podem participar de eventos exclusivos.
+Para iniciar o processo de aplicação ao MSP do Azure, no nav à esquerda. selecione **Competências e programas e,** em **seguida, selecione MSP Especialista em Azure**. Saiba mais sobre [os pré-requisitos e o processo do aplicativo.](https://partner.microsoft.com/membership/azure-expert-msp) 
 
-Para iniciar o processo de aplicação no MSP do Azure, na barra de navegação à esquerda. Selecione **competências e programas** e, em seguida, selecione o **especialista do Azure MSP**. Saiba mais sobre [os pré-requisitos e o processo do aplicativo](https://partner.microsoft.com/membership/azure-expert-msp). 
-
-Se você ainda não estiver qualificado, ainda poderá criar sua parceria com a Microsoft por meio de aprimoramentos de associação, treinamento e outras oportunidades de crescimento.
-Saiba mais sobre as etapas que você pode seguir para [desenvolver seu negócio e sua experiência](https://partner.microsoft.com/membership/azure-expert-msp).
+Se você ainda não se qualificar, ainda poderá criar sua parceria da Microsoft por meio de aprimoramentos de associação, treinamento e outras oportunidades de crescimento.
+Saiba mais sobre as etapas que você pode seguir [para desenvolver seus negócios e sua experiência.](https://partner.microsoft.com/membership/azure-expert-msp)
 
 ## <a name="next-steps"></a>Próximas etapas
 

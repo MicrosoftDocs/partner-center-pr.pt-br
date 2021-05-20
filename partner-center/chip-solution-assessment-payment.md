@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f005db5d69fe6febf79720544642ee9f3d8c2e75
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 4184d155ceff22a34e1a85d2909f4e1b17a46daa
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354399"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148866"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>Informações de cálculo e status de pagamento de avaliação de solução
 
-**Funções apropriadas**
-
-- Administrador primário de contato ou programa
+**Funções apropriadas**: administrador de contato primário ou de programa
 
 Você pode examinar o status de pagamento de um status de oportunidade de avaliação de solução em CHIP.
 
@@ -44,15 +42,15 @@ Você pode examinar o status de pagamento de um status de oportunidade de avalia
 
 ## <a name="calculations-for-solutions-assessment"></a>Cálculos para avaliação de soluções
 
-Usando os planos de tarifas definidos, os Microsoft regional Operations centers calcularão e processarão as taxas de incentivos associadas, com pagamentos sendo emitidos mensalmente.
+Usando as agendas de tarifa definidas, os Centros de Operações Regionais da Microsoft calcularão e processarão os valores de incentivo associados, com os pagamentos sendo emitidos mensalmente.
 
-As oportunidades devem ter todos os seguintes atributos para que apareçam neste relatório de aprovação de pagamento:
+As oportunidades devem ter todos os seguintes atributos para aparecer neste relatório de aprovação de pagamento:
 
-1. O incentivo de avaliação da solução deve ser aprovado.
+1. O Incentivo à Avaliação da Solução deve ser aprovado.
 
-1. O nível de taxa do atributo local do nível do compromisso de avaliação de solução é definido para o envolvimento no momento em que o incentivo é aprovado no MSX.
+1. O nível de taxa do atributo local nível de participação da avaliação da solução é definido para o envolvimento no momento em que o Incentivo é aprovado no MSX.
  
-1. A caixa de seleção "em revisão" deve ser marcada e enviada em em CHIP.
+1. A caixa de seleção "Revisão em" deve ser marcada e enviada pelo EM no CHIP.
 
 ## <a name="next-steps"></a>Próximas etapas
 

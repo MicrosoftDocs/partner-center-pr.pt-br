@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d40b09ee8b452cb75be216f83ddc700596b93d7
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: acf7e19d98b6d3a9c48277f0b3276b26816572e8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354466"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148798"
 ---
 # <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Requisitos de qualificação para o programa de incentivos de avaliação de solução
 
-**Funções apropriadas**
-
-- Administrador primário de contato ou programa
+**Funções apropriadas**: administrador de contato primário ou de programa
 
 Os parceiros com status ativo e registrado no programa de incentivo de avaliação de solução no FY20 continuarão qualificados para incentivos no FY21 se tiverem uma associação de MPN ativa e uma competência de MPN prata ou ouro ativo. As qualificações do parceiro são revisadas anualmente. Se os parceiros estabelecidos não cumprirem os requisitos de qualificação e participação no ano atual, eles serão removidos na próxima revisão anual. Todos os novos parceiros são integrados por meio da SAS (especialista em avaliação da solução local) em sua área. A SAS identificará os parceiros a serem integrados com base na correspondência de habilidades e experiência na empresa parceira e nas necessidades comerciais das subsidiárias com suporte da SAS.
 
@@ -38,13 +36,13 @@ Os parceiros atualmente não registrados em um programa de incentivo devem atend
 
 |**Requisito de participação**|**Critérios**|
 |-------------------------|-------------------------------------|
-|Atividade de incentivo|Os parceiros devem participar ativamente do programa de incentivo de avaliação de solução no ano fiscal atual para permanecer qualificados para ganhar incentivos de avaliação de soluções no seguinte ano fiscal. Isso equivale a pelo menos um acordo de incentivo de avaliação da solução aprovada.|
+|Atividade de incentivo|Os parceiros devem participar ativamente do programa de Incentivo à Avaliação de Solução no ano fiscal atual para permanecer qualificados para ganhar incentivos de Avaliação de Solução no ano fiscal a seguir. Isso equivale a pelo menos um contrato de incentivo de Avaliação de Solução aprovado.|
 
-## <a name="work-with-solution-assessment-specialist"></a>Trabalhar com especialista em avaliação de solução
+## <a name="work-with-solution-assessment-specialist"></a>Trabalhar com o especialista em Avaliação de Solução
 
-Depois que a elegibilidade de um parceiro para a participação no programa de incentivo de avaliação de solução for verificada, ele receberá um convite de seu especialista em avaliação de solução (SAS) para participar do processo de integração mensal.
+Depois que a qualificação de um parceiro para participação no Programa de Incentivo à Avaliação da Solução for verificada, ele receberá um convite do SAS (Especialista em Avaliação de Soluções) para participar do processo de integração mensal.
 
-Para obter detalhes adicionais ou informações sobre o programa de incentivos de avaliação de solução, entre em contato com seu especialista em avaliação de solução (SAS).
+Para obter detalhes adicionais ou informações sobre o Solution Assessment Incentives, entre em contato com seu SAS (Especialista em Avaliação de Soluções).
 
 ## <a name="next-steps"></a>Próximas etapas
 

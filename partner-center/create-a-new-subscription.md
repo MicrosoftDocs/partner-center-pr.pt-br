@@ -1,7 +1,7 @@
 ---
 title: Criar assinaturas de cliente no Partner Center
 ms.topic: how-to
-ms.date: 05/17/2021
+ms.date: 05/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como vender assinaturas para seus clientes para produtos publicados pela Microsoft, bem como produtos de SaaS publicados por ISVs de terceiros.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 3269fa994d704c0a0dae067087bad8589a7ce031
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9052954c81ef55a2bfa06778ace651c9d0f9b26f
+ms.sourcegitcommit: e0444145d7720df948b9d02ae2469206db48dba5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148186"
+ms.locfileid: "110201401"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Criar, suspender ou cancelar assinaturas de clientes
 
@@ -29,6 +29,9 @@ Algumas ofertas são limitadas a uma assinatura por cliente. Para ver uma lista 
 >[!IMPORTANT]
 > Como um parceiro no programa CSP, você pode comprar assinaturas SaaS **limitadas** ou **baseadas em licença** de editores ISV no Partner Center. Isso significa que você pode comprar qualquer oferta de SaaS **limitada** ou **baseada em licença** que o editor ISV tenha disponibilizado para você, incluindo [ofertas exclusivas](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) às quais você tem acesso. Para comprar ou gerenciar outras ofertas de Marketplace comercial de ISVs (como ofertas baseadas em uso que envolvem aplicativos, contêineres ou VMs do Azure), você deve ir para a [portal do Azure](https://portal.azure.com/).
 
+>[!NOTE]
+>Todas as datas e horas no Partner Center são fornecidas no padrão de tempo UTC (tempo Universal Coordenado). Isso pode ser diferente em até 24 horas a partir de sua hora local.
+
 ## <a name="create-a-new-subscription"></a>Criar uma nova assinatura
 
 1. Entre no painel [Partner Center](https://partner.microsoft.com/dashboard).
@@ -42,7 +45,7 @@ Algumas ofertas são limitadas a uma assinatura por cliente. Para ver uma lista 
    - **Tipo de cobrança**: selecione o tipo de cobrança de assinatura que você deseja usar: **licença** ou **uso**. Consulte [cobrança baseada em licença](license-based-billing.md) para obter informações que o ajudarão a decidir entre a frequência de cobrança mensal e anual.
    - **Categoria**: escolha **Enterprise**, **Small Business** ou **Trial**. Para obter informações sobre assinaturas de avaliação, consulte [oferecer a seus clientes avaliações de produtos da Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
-5. Selecione as assinaturas de produto que você deseja comprar para o cliente. Os produtos que você vê dependem do tipo de segmento de cliente (educação, governo, etc.) e dos filtros que você aplicou. Algumas ofertas mostradas no Marketplace nem sempre podem estar disponíveis para um cliente específico ou um parceiro CSP específico. Isso pode ser porque:
+5. Selecione as assinaturas de produto que você deseja comprar para o cliente. Os produtos que você vê dependem do tipo de segmento de cliente (educação, governo etc.) e dos filtros que você aplicou. Algumas ofertas mostradas no Marketplace nem sempre podem estar disponíveis para um cliente específico ou um parceiro CSP específico. Isso pode ser porque:
 
    - O cliente já tem uma assinatura para esse produto e só tem permissão para uma
 
@@ -66,7 +69,7 @@ Algumas ofertas são limitadas a uma assinatura por cliente. Para ver uma lista 
     >[!NOTE]
     > Nem você nem seu cliente receberão um email com instruções para concluir a configuração/provisionamento da conta para esse tipo de assinatura isv.)
 
-    - Se sua assinatura for fornecidas com uma avaliação gratuita de 30 dias, o período de avaliação gratuita será aplicado automaticamente. Como um parceiro no programa CSP, você não pode abrir mão do período de avaliação gratuita em ofertas que você compra para clientes. Depois que o período de avaliação gratuita terminar, o período de assinatura começará e a assinatura será convertida em status pago. A assinatura será renovada automaticamente de acordo com a mesma agenda.
+    - Se sua assinatura for fornecidas com uma avaliação gratuita de 30 dias, o período de avaliação gratuita será aplicado automaticamente. Como um parceiro no programa CSP, você não pode abrir mão do período de avaliação gratuita em ofertas que você compra para clientes. Depois que o período de avaliação gratuita terminar, o prazo da assinatura será iniciado e a assinatura será convertida em status pago. A assinatura será renovada automaticamente de acordo com a mesma agenda.
    
 ## <a name="update-subscriptions-with-add-ons"></a>Atualizar assinaturas com complementos 
 
@@ -130,7 +133,7 @@ Para ofertas cobradas anualmente:
 Depois que esses períodos terminarem, você não verá mais a opção de cancelar a assinatura.
 
 > [!NOTE]
-> Os serviços ISV de terceiros baseados em uso e limitados (que usam máquinas virtuais ou contêineres, por exemplo) não são elegíveis para retorno. Os serviços baseados em uso podem ser des provisionados como um método de cancelamento. Como os encargos são cobrados após o uso, esses serviços não são qualificados para um reembolso.
+> Serviços ISV de terceiros baseados em uso e monitorados (que usam máquinas virtuais ou contêineres, por exemplo) não são qualificados para retorno. Os serviços baseados em uso podem ser des provisionados como um método de cancelamento. Como os encargos são cobrados após o uso, esses serviços não são qualificados para um reembolso.
 
 Para cancelar uma assinatura de SaaS baseada em licença de um publicador ISV, faça o seguinte:
 

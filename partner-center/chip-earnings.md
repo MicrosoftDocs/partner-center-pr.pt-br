@@ -2,46 +2,44 @@
 title: Exibir lucros na CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Saiba como exibir sua declaração de incentivos e seus ganhos na ferramenta CHIP (plataforma de incentivos de canal).
+description: Saiba como exibir a instrução de incentivos e os ganhos na ferramenta CHIP (Plataforma de Incentivos de Canal).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 09ed80e4be53f210341279193bae71dc47f87eec
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 74606a4c7f52e5aa23f7e963cab27e491c436b59
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354483"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149019"
 ---
-# <a name="view-earnings-using-the-chip-tool"></a>Exibir ganhos usando a ferramenta de CHIP
+# <a name="view-earnings-using-the-chip-tool"></a>Exibir ganhos usando a ferramenta CHIP
 
-**Funções apropriadas**
+**Funções apropriadas:** contato principal ou administrador do programa
 
-- Administrador primário de contato ou programa
-
-Você pode acessar sua declaração de incentivos por meio da ferramenta de plataforma de incentivos de canal (CHIP).
+Você pode acessar sua instrução de incentivos por meio da ferramenta CHIP (Plataforma de Incentivos de Canal).
 
 ## <a name="view-earnings"></a>Exibir ganhos
 
-1. Entre no CHIP usando seu conta Microsoft (Live ID anterior).
+1. Entre no CHIP usando seu conta Microsoft (ID ao vivo anterior).
 
 2. Selecione o programa de incentivos em que você está interessado.
 
-3. Em **Resumo do programa** , selecione período ou mês. 
-1. Selecione detalhes de cálculo na lista suspensa.
-1.  Clique em **abrir** na barra de notificação para abrir sua instrução.
+3. Em **Resumo do Programa,** selecione período ou mês. 
+1. Selecione Detalhes do Cálculo na lista lista listada.
+1.  Clique **em Abrir** na barra de notificação para abrir sua instrução.
 
-### <a name="explanation-of-details-tabs"></a>Explicação de guias de detalhes
+### <a name="explanation-of-details-tabs"></a>Explicação das guias de detalhes
 
-|**Guia**|**Definição**|
+|**Tab**|**Definição**|
 |-------------|--------------------------|
-|DetailReport-Flatfile|Inclui detalhes do programa incentivos para o período de tempo selecionado, incluindo nome do cliente, contrato, detalhes da alavanca|
-|DeltaReport-pivô|Atualizações da última instrução publicada somente para empresas|
-|DetailReport-pivô|Resumo dos detalhes de pagamento, incluindo moeda e valor de pagamento|
-|Detalhes da realização|Valor da linha de base, realização e percentual de crescimento somente para SPLAR|
+|DetailReport-Flatfile|Inclui detalhes do programa de incentivos para o período de tempo selecionado, incluindo nome do cliente, contrato, detalhes da alavanca|
+|DeltaReport-pivot|Atualizações da última instrução publicada somente para Enterprise|
+|DetailReport-pivot|Resumo dos detalhes do pagamento, incluindo moeda e valor do pagamento|
+|Detalhes da conquista|Valor de linha de base, conquista e percentual de crescimento apenas para SPLAR|
 
 ## <a name="next-steps"></a>Próximas etapas
 

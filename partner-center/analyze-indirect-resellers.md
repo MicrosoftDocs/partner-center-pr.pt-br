@@ -1,6 +1,6 @@
 ---
 title: Analisar o desempenho de revendedores indiretos
-description: Use a análise para saber como seus revendedores indiretos estão fazendo, ambos os sucessos e as áreas que podem precisar de mais atenção.
+description: Use a análise para saber como seus revendedores indiretos estão fazendo, seus sucessos e áreas que podem precisar de mais atenção.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: shganesh
@@ -9,27 +9,24 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: b7158f0ba52cece8b143cbaf592f3b0c4667fe27
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 50a527f8fd3690ff73b198e572b356706889e72b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474046"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150175"
 ---
-# <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Use a análise para analisar o desempenho de seus revendedores indiretos
+# <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Usar a análise para analisar o desempenho de seus revendedores indiretos
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de gerenciamento de usuário
+**Funções apropriadas:** administrador global | Administrador de gerenciamento de usuários
 
 
 Os dados impulsionam as decisões de negócios. Use as métricas na página **Análise do revendedor** para identificar seu êxitos, os êxitos de seus clientes e as áreas que precisam de mais atenção. Use essas informações ao planejar novas metas de negócios.
 
 > [!NOTE]
-> A análise indireta do revendedor está disponível somente para provedores indiretos no programa do provedor de soluções na nuvem.
+> A análise de revendedor indireto está disponível somente para provedores indiretos no Provedor de Soluções na Nuvem de distribuição.
 
-## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>Tipos de métricas de análise de revendedor que você pode exibir
+## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>Tipos de métricas de análise do revendedor que você pode exibir
 
 Estamos monitorando as seguintes métricas:
 
@@ -64,18 +61,18 @@ Estamos monitorando as seguintes métricas:
  - **Assinaturas**: número de assinaturas que o revendedor vendeu  
  - **Licenças**: número total de licenças vendidas pelo revendedor em todas as assinaturas  
 
-**Status assinado por MPA**
+**Status assinado do MPA**
 
-Esta seção fornece o status do status da MPA assinado dos revendedores indiretos do CSP.
+Esta seção fornece o status do status assinado pelo MPA dos Revendedores Indiretos do CSP.
 
- - **Nome do revendedor**: nome do revendedor indireto do CSP
- - **ID de MPN**: ID de MPN do revendedor indireto
- - **Região**: região em que o revendedor indireto Opera
- - **Status do MPN habilitação**: habilitação status do revendedor indireto
- - **Status assinado por MPa**: status de assinatura de MPa para o revendedor indireto
+ - **Nome do revendedor:** nome do revendedor indireto do CSP
+ - **ID do MPN:** ID do MPN do revendedor indireto
+ - **Região**: região em que o revendedor indireto opera
+ - **Status de verificação do MPN:** Status de verificação do revendedor indireto
+ - **Status assinado do MPA: status** de assinatura do MPA para o revendedor indireto
 
-Clique no ícone de download no gráfico para baixar os dados de status assinados do MPA com dimensões adicionais
+Clique no ícone de download no gráfico para baixar dados de status assinados pelo MPA com dimensões adicionais
   
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Analise assinaturas e licenças para ajudar a impulsionar decisões de negócios](analyze-subscriptions-licenses.md)
+- [Analisar assinaturas e licenças para ajudar a impulsionar decisões de negócios](analyze-subscriptions-licenses.md)

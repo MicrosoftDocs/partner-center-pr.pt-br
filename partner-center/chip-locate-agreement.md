@@ -1,57 +1,55 @@
 ---
-title: Localizar contagem de área de trabalho e nível de taxa
+title: Encontrar contagem de área de trabalho e nível de taxa
 ms.topic: how-to
 ms.date: 02/18/2021
-description: Saiba como usar a plataforma de incentivos de canal (CHIP) para localizar a contagem de desktops e as informações de nível de taxa de um contrato.
+description: Saiba como usar a chip (plataforma de incentivos de canal) para encontrar as informações de nível de taxa e contagem de área de trabalho para um contrato.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e433b44f158c3e4cefe22027e7f7d3b845991308
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 64dbbbae0087275fa8d0c5fd4f364079623efe63
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756115"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148985"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Localizar a contagem de desktops e o nível de taxas para um contrato
 
-**Funções apropriadas**
+**Funções apropriadas:** contato principal ou administrador do programa
 
-- Administrador primário de contato ou programa
-
-Você pode fazer logon no [Explore.ms](https://www.explore.ms/) para revisar o contrato ou baixar um arquivo fornecendo detalhes do contrato para contagem de desktops e nível de taxa.
+Você pode fazer logo [explore.ms](https://www.explore.ms/) para revisar o contrato ou baixar um arquivo que fornece detalhes do contrato para contagem de área de trabalho e nível de tarifa.
 
 ## <a name="to-locate-the-information"></a>Para localizar as informações
 
 ### <a name="method-1--explorems"></a>Método 1 – Explore.ms
 
-1. Abra o [Explore.ms](https://www.explore.ms/) no Internet Explorer. 
+1. Abra [explore.ms](https://www.explore.ms/) em Internet Explorer. 
 
 >[!Note]
->Não é possível executar essa função no Google Chrome ou no Microsoft Edge.
+>Você não pode executar essa função no Google Chrome ou Microsoft Edge.
 
-2. Faça logon com sua conta corporativa/de estudante ou Live ID.  
+2. Faça logoff com sua conta de Trabalho/Escola ou ID ao vivo.  
 
-3. No campo **relatórios** , selecione **contratos**.
+3. No campo **Relatórios,** selecione **Contratos**.
 
-4. Na página resultante, insira o número do contrato no campo de **pesquisa** e selecione colunas de **selecionar/ordenar**.
+4. Na página resultante, insira o número do contrato no **campo** Pesquisa e selecione **Selecionar/Ordenar Colunas**.
 
-5. Na janela pop-up, selecione **contagem de áreas de trabalho de contrato** na lista colunas disponíveis e, em seguida, selecione a seta para a direita para adicionar a coluna. Selecione **OK**.
+5. Na janela pop-up, selecione Contagem de **Área** de Trabalho do Contrato na lista de colunas disponíveis e, em seguida, selecione a seta para a direita para adicionar a coluna. Selecione **OK**.
 
 6. Selecione **Pesquisar.**
 
-7. Na tela resultante, percorra os resultados para localizar a coluna **contagem de área de trabalho do contrato** . 
+7. Na tela resultante, role pelos resultados para encontrar a coluna Contagem de Área de **Trabalho do** Contrato. 
 
-8. Use a contagem de desktops para determinar o nível de taxa com base na tabela de taxas abaixo.  
+8. Use a contagem da área de trabalho para determinar o nível de taxa com base na tabela de taxa abaixo.  
 
-| Nível de taxa | Contagem de desktops |
+| Nível de taxa | Contagem de área de trabalho |
 | ------ | :-----------: |
-|  A | 0 a 2.399    |
-|  B | 2.400 – 5.999    |
-|  C | 6.000 – 14.999    |
+|  A | 0 – 2,399    |
+|  B | 2,400 – 5,999    |
+|  C | 6,000 – 14,999    |
 |  D | 15000 +   |
 
 >[!NOTE]

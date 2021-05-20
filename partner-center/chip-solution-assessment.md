@@ -1,48 +1,46 @@
 ---
-title: Status da oportunidade de avaliação da solução de CHIP
+title: Status da Oportunidade de Avaliação da Solução CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Saiba como encontrar o status da oportunidade de avaliação de solução na plataforma de incentivos de canal (CHIP).
+description: Saiba como encontrar o status da oportunidade de Avaliação de Solução na CHIP (Plataforma de Incentivos de Canal).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: df7418e48832344fd6de052a7387a2f5c8368363
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 620490dfdd63b40957421e6df6432d480584658a
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354586"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148832"
 ---
-# <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>Encontre seu status de oportunidade de avaliação de solução no CHIP
+# <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>Encontrar o status da oportunidade de avaliações de solução no CHIP
 
-**Funções apropriadas**
+**Funções apropriadas:** contato principal ou administrador do programa
 
-- Administrador primário de contato ou programa
+Os parceiros podem revisar um status de oportunidade de Avaliações de Solução no CHIP.
 
-Os parceiros podem examinar o status de uma oportunidade de avaliações de solução no CHIP.
+## <a name="determine-the-status-of-your-deal"></a>Determinar o status da sua oferta
 
-## <a name="determine-the-status-of-your-deal"></a>Determinar o status do seu negócio
+Verifique se seu negócio atingiu o Estágio de Vendas qualificado e foi aprovado pelo SAS (Especialista em Avaliação de Soluções). Verifique esta sua conta do CHIP.
 
-Certifique-se de que seu negócio tenha atingido o estágio de vendas qualificada e seja aprovado pelo especialista em avaliação de solução (SAS). Verifique esta conta de CHIP.
-
-1. Entre no CHIP com sua conta da Microsoft (Live ID anterior).
-1. No campo **ID da oportunidade** , digite ou cole o número de ID da oportunidade.
+1. Entre no CHIP com sua Conta da Microsoft (ID ao Vivo anterior).
+1. No campo **ID da** Oportunidade, digite ou colar o número da ID da oportunidade.
 3. Clique em Pesquisar.
 
-1. Clique em **Exibir** na coluna **Poe** para exibir os detalhes da oportunidade. Examine o status da oportunidade. Se a oportunidade estiver no status de **envio** , os documentos Poe (prova de execução) precisarão ser enviados para avançar no processo de pagamento.
+1. Clique **em Exibir** na coluna **ÂMBITO** para exibir os detalhes da oportunidade. Revise o status da oportunidade. Se a oportunidade estiver **no** status Enviar, os documentos de COMPROVAÇÃO de Execução precisarão ser enviados para avançar no processo de pagamento.
  
-1. Clique no link editar para verificar se todos os documentos POE foram carregados. Tome nota se houver POE carregada e se a caixa de aprovação em está marcada.
+1. Clique no link Editar para verificar se todos os documentos DOLS foram carregados. Anote se há UPLOAD DE UPLOAD e se a caixa Aprovação em está marcada.
  
-1. Retorne aos resultados da pesquisa e clique no nome da negociação relevante para recuperar os detalhes do acordo. 
+1. Retorne aos resultados da pesquisa e clique no nome do acordo relevante para recuperar os detalhes do negócio. 
 
-1. Com base nas informações encontradas nas etapas 4 a 6, determine se os requisitos mínimos para a conquista de incentivo foram atendidos. Se algum requisito não tiver sido atendido, faça o seguinte:
+1. Com base nas informações encontradas nas etapas 4 a 6, determine se os requisitos mínimos para ganho de incentivo foram atendidos. Se algum requisito não tiver sido atendido, faça o seguinte:
  
-     - Se POE não tiver sido carregado, você precisará carregá-lo no CHIP.
+     - Se o LTD não tiver sido carregado, você precisará carregue-o no CHIP.
  
-     - Abra o CHIP e entre com sua conta da Microsoft (Live ID anterior).
+     - Abra o CHIP e entre com sua Conta da Microsoft (ID ao Vivo anterior).
  
      - Selecione **incentivos de avaliações de soluções.**
 

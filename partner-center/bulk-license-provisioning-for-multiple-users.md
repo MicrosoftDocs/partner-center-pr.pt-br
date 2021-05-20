@@ -9,22 +9,16 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: b2c59bc40b5092a4a2ee6e06bcb2e49a86e0201d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 79f66e759385f6c7c7928dba58e052ea8699cf21
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570647"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149206"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Atribuir ou revogar licenças ao mesmo tempo para vários usuários em uma conta de cliente
 
-**Funções apropriadas**
-
-- Agente administrativo
-- Administrador global
-- Agente de suporte técnico
-- Agente de vendas
-- Administrador de gerenciamento de usuário
+**Funções apropriadas**: agente de administração | Administrador global | Agente de assistência técnica | Agente de vendas | Administrador de gerenciamento de usuários
 
 Você pode atribuir licenças e serviços a um usuário ou a vários usuários ao mesmo tempo em uma conta de cliente e revogar atribuições de licença para os usuários.
 
@@ -62,7 +56,7 @@ O Partner Center rastreia e mostra todos os direitos de licença de Propriedade 
 
 6. Em **Atribuir e revogar licenças**, selecione as licenças do produto para os novos usuários. 
 
-   Por exemplo, se nenhum dos usuários selecionados tiver licenças do Office 365 Enterprise e você quiser adicioná-los, marque a caixa de seleção. Você precisa de licenças suficientes para cada produto selecionado.
+   Por exemplo, se nenhum dos usuários selecionados tiver licenças do Office 365 Enterprise e você quiser adicioná-las, marque a caixa de seleção. Você precisa de licenças suficientes para cada produto selecionado.
 
 7. Selecione mais de um produto para os usuários marcando a caixa de seleção de cada produto.
     -   Selecione **Exibir planos de serviço** para qualquer produto, para ver e selecionar os planos de serviço de que os usuários precisam.
@@ -90,7 +84,7 @@ O Partner Center rastreia e mostra todos os direitos de licença de Propriedade 
 
    Por exemplo, se todos os usuários selecionados tiverem licenças do Office 365 Enterprise e você quiser revogá-las, marque a caixa de seleção para desmarcá-la.
 
-7. Clique em **Salvar**.
+7. Selecione **Salvar**.
 
 ## <a name="next-steps"></a>Próximas etapas
 

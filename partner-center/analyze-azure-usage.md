@@ -1,6 +1,6 @@
 ---
-title: Analise o uso do Azure para ajudar a aumentar seus negócios
-description: Saiba como usar o Partner Center para obter dados sobre o uso de assinaturas do Azure de seus clientes. Os dados incluem assinaturas vendidas, em risco e em uso.
+title: Analisar o uso do Azure para ajudar a expandir seus negócios
+description: Saiba como usar o Partner Center para obter dados sobre o uso das assinaturas do Azure de seus clientes. Os dados incluem assinaturas vendidas, em risco e em uso.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: amitravat
@@ -9,30 +9,25 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 0a7bc34ded62eb9e19dbbad8e214eb30534b8ea6
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: e2acdb777e0ef77ebf9d08eed3d3842c74af9e18
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439124"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150226"
 ---
-# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Obtenha dados sobre o quão bem seus clientes e assinaturas do Azure estão fazendo
+# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Obter dados sobre como seus clientes e assinaturas do Azure estão se saindo bem
 
 
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de gerenciamento de usuário
-- Agente administrativo
-- Agente de vendas
+**Funções apropriadas:** administrador global | Administrador de gerenciamento de usuários | Agente administrador | Agente de vendas
 
 Os dados impulsionam as decisões de negócios. Use as métricas na página **Uso do Azure** para identificar seu êxitos e as áreas que precisam de mais atenção. Use essas informações ao planejar novas metas de negócios.
 
-Para acessar o **uso do Azure**, entre no [painel](https://partner.microsoft.com/dashboard)do Partner Center. Selecione **análise** no menu do centro de parceiros e selecione **uso do Azure**.
+Para obter o uso **do Azure,** entre Partner Center [painel](https://partner.microsoft.com/dashboard). Selecione **Análise** no menu Partner Center e, em seguida, selecione **Uso do Azure.**
 
 > [!NOTE]
-> A análise de uso do Azure está disponível somente para parceiros no programa de provedor de soluções na nuvem.
+> A análise de uso do Azure está disponível apenas para parceiros no programa Provedor de Soluções na Nuvem aplicativo.
 
 Estamos monitorando as seguintes métricas:
 
@@ -48,11 +43,11 @@ Estamos monitorando as seguintes métricas:
 
 ## <a name="azure-subscriptions-at-risk"></a>Assinaturas do Azure em risco
 
-Esta seção indica o risco de rotatividade prevista para assinaturas do Azure. Essas informações podem ser usadas por parceiros para se envolver com clientes e minimizar a rotatividade
+Esta seção indica o risco de rotatividade previsto para assinaturas do Azure. Essas informações podem ser usadas por parceiros para interagir com os clientes e minimizar a rotatividade
 
 ## <a name="subscriptions-without-usage"></a>Assinaturas sem uso
 
-- Lista de assinaturas específicas sem uso do Azure no período de tempo especificado  
+- Lista de assinaturas específicas sem o uso do Azure no período de tempo especificado  
 
 ## <a name="azure-subscription-churn"></a>Variação da assinatura do Azure
 
@@ -69,4 +64,4 @@ Esta seção indica o risco de rotatividade prevista para assinaturas do Azure. 
 
  ## <a name="next-steps"></a>Próximas etapas
 
-- [Adquira o plano do Azure para os clientes & acessar os serviços mais recentes do Azure em tarifas pagas conforme o uso](purchase-azure-plan.md)
+- [Comprar o plano do Azure para clientes & os serviços mais recentes do Azure com taxas pagas conforme o uso](purchase-azure-plan.md)

@@ -4,46 +4,43 @@ ms.topic: how-to
 ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Fortaleça seu perfil de negócios no diretório de parceiros da Microsoft. Saiba como usar o Partner Center para se candidatar e ganhar especializações avançadas.
+description: Fortalecer seu perfil de negócios no diretório de parceiros da Microsoft. Saiba como usar o Partner Center para se inscrever e ganhar especializações avançadas.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 62dab81a265a4bf1fe926cd1a8f583153821d0ef
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 44574f49d49a8300c65432463de16841af483ca4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557776"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150498"
 ---
-# <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Usar o Partner Center para se candidatar a especializações avançadas e verificar seu status
+# <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Use Partner Center para aplicar especializações avançadas e verificar seu status
 
-**Funções apropriadas**
+**Funções apropriadas:** administrador global | Administrador da conta
 
-- Administrador global
-- Administrador de conta
+Este artigo descreve como usar o painel Partner Center para se aplicar [a](advanced-specializations.md)uma especialização avançada, verificar seu progresso e concluir as etapas e validações necessárias. Você também verá exemplos de como usar Partner Center para obter determinadas especializações avançadas que exigem uma auditoria ou referências de clientes.
 
-Este artigo descreve como usar o painel do Partner Center para aplicar uma [Especialização avançada](advanced-specializations.md), verificar seu progresso e concluir as etapas e validações necessárias. Você também verá exemplos de como usar o Partner Center para obter determinadas especializações avançadas que exigem uma auditoria ou referências de clientes.
+Para saber mais sobre os benefícios das especializações avançadas e seus requisitos específicos, [consulte Microsoft Partner Network especializações avançadas.](https://partner.microsoft.com/membership/advanced-specialization)
 
-Para saber mais sobre os benefícios das especializações avançadas e seus requisitos específicos, consulte [Microsoft Partner Network especializações avançadas](https://partner.microsoft.com/membership/advanced-specialization).
+## <a name="use-partner-center-to-apply-for-advanced-specializations-or-check-their-status"></a>Use Partner Center para aplicar especializações avançadas ou verificar seu status
 
-## <a name="use-partner-center-to-apply-for-advanced-specializations-or-check-their-status"></a>Usar o Partner Center para se candidatar a especializações avançadas ou verificar seu status
+Para se qualificar para uma especialização avançada, primeiro você precisa atender a determinados pré-requisitos, como uma [competência](https://partner.microsoft.com/membership/competencies) Gold em uma área relacionada. Em seguida, você precisa aplicar em Partner Center etapas principais, requisitos e validações da Microsoft para essa especialização avançada.
 
-Para se qualificar para uma especialização avançada, primeiro você precisa atender a determinados pré-requisitos, como uma [competência](https://partner.microsoft.com/membership/competencies) Gold em uma área relacionada. Em seguida, você precisará aplicar o Partner Center e concluir as etapas principais, os requisitos e as validações da Microsoft para essa Especialização avançada.
+Grande parte do processo está disponível no painel Partner Center dados. No entanto, somente usuários com uma determinada Partner Center [podem](permissions-overview.md) acessar essa Partner Center área.
 
-Grande parte do processo está disponível no painel do Partner Center. No entanto, somente os usuários com uma determinada [função](permissions-overview.md) do Partner Center podem acessar essa área do centro de parceiros.
-
-Para acessar essa área, você deve receber a função de **administrador de conta MPN** ou **administrador global** para a conta de parceiro da Microsoft da sua organização.
+Para acessar essa área, você deve ter a função de Administrador da Conta do **MPN** ou Administrador **Global** para a conta de parceiro da Microsoft da sua organização.
 
 ### <a name="follow-these-steps-to-access-this-area"></a>Siga estas etapas para acessar esta área:
 
 1. Entre no [Painel](https://partner.microsoft.com/dashboard/home) do Partner Center.
 
-2. Selecione a seção **MPN** do menu do Partner Center, seguida por **avçd. especializations**. O menu se expande para mostrar todas as especializações avançadas disponíveis para você.
+2. Selecione a **seção MPN** do menu Partner Center, seguida por **Adv. Especializações.** O menu expande para mostrar todas as especializações avançadas disponíveis para você.
 
-3. Para exibir detalhes, selecione o nome da especialização avançada. Você verá requisitos e etapas específicos, seu status atual e links para etapas ou recursos adicionais.
+3. Para exibir detalhes, selecione o nome da especialização avançada. Você verá requisitos e etapas específicos, seu status atual e links para outras etapas ou recursos.
 
-   Você pode retornar a essa área do Partner Center para ver seu status atual em relação à obtenção de qualquer Especialização avançada.
+   Você pode retornar a essa área de Partner Center para ver seu status atual para obter qualquer especialização avançada.
 
 4. Depois de concluir todos os requisitos para uma especialização avançada, verifique esta área do Partner Center novamente para ver se o status foi alterado para **ativo** para uma especialização avançada específica.
 
@@ -115,12 +112,12 @@ Em seguida, siga estas etapas para fornecer referências de clientes no Partner 
 
    :::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Página pré-requisitos de especializações avançadas de exemplo que requer referências de clientes.":::
 
-4. Até que você atenda a todos os pré-requisitos mostrados nesta página e forneça referências de clientes, seu status permanecerá **não iniciado**. Depois que todos os pré-requisitos forem atendidos, seu status será alterado para **ativo**.
+4. Até que você atenda a todos os pré-requisitos mostrados nesta página e forneça referências de clientes, seu status permanecerá **não iniciado**. Depois que todos os pré-requisitos são atendidos, seu status será altere para **Ativo.**
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- Saiba mais sobre [especializações avançadas, seus benefícios e requisitos exclusivos](https://partner.microsoft.com/membership/advanced-specialization).
+- Saiba mais sobre [especializações avançadas, seus benefícios e requisitos exclusivos.](https://partner.microsoft.com/membership/advanced-specialization)
 
-- Saiba mais sobre a [obtenção de competências de Associação Microsoft Silver ou Gold](learn-about-competencies.md).
+- Saiba mais sobre [como obter as competências de associação silver ou gold da Microsoft.](learn-about-competencies.md)
 
-- Saiba mais sobre as [competências de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+- Saiba mais sobre [Microsoft Partner Network competências](https://partner.microsoft.com/membership/competencies).

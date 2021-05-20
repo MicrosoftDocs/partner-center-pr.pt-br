@@ -4,54 +4,49 @@ ms.topic: article
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Cenários comuns no Partner Center quando você usa a cobrança mensal – inclui adicionar novas assinaturas, alterar a quantidade de licenças e suspender assinaturas.
+description: Cenários comuns no Partner Center quando você usa cobrança mensal – inclui adicionar novas assinaturas, alterar a quantidade de licenças e suspender assinaturas.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4fe5c33fe549604f25500dd333d187e6b70ad73e
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 66c9ec09f707d87248fdef31e4cf66f4ca927ce1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502507"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148645"
 ---
-# <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Cenários de cobrança mensal de exemplo para novas assinaturas, alteração de valores de licença ou suspensão
+# <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Cenários de cobrança mensal de exemplo para novas assinaturas, alteração de valores de licença ou suspensões
 
-**Funções apropriadas**
+**Funções apropriadas:** agente administrador | Administrador de cobrança | Agente de ajuda | Agente de vendas
 
-- Agente administrativo
-- Administrador de cobrança
-- Agente de suporte técnico
-- Agente de vendas
-
-Esses [cenários de cobrança comuns](common-billing-scenarios.md) de exemplo são aplicáveis se você usar a cobrança mensal no Partner Center.
+Esses [exemplos de cenários comuns de](common-billing-scenarios.md) cobrança serão aplicáveis se você usar a cobrança mensal em Partner Center.
 
 ## <a name="new-monthly-subscription"></a>Nova assinatura mensal
 
-Sua data de cobrança é no 15º dia de cada mês. Em 13 de Janeiro, você compra uma nova assinatura com uma licença para US $4/mês e seleciona cobrança mensal. O arquivo de reconciliação com base em licença de 15 de janeiro conterá as seguintes linhas de cobrança:
+Sua data de cobrança é no 15º dia de cada mês. Em 13 de janeiro, você compra uma nova assinatura com uma licença de US$ 4/mês e seleciona a cobrança mensal. O arquivo de reconciliação baseado em licença de 15 de janeiro conterá as seguintes linhas de cobrança:
 
-|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Valor |
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/01/2018         |12/02/2018    |Taxa do Ciclo   |4,00       |1        |4,00 |
 
-O arquivo de reconciliação com base em licença de 15 de fevereiro conterá a seguinte linha de cobrança:
+O arquivo de reconciliação baseado em licença de 15 de fevereiro conterá a seguinte linha de cobrança:
 
-|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Valor |
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/02/2018         |12/03/2018    |Taxa do Ciclo   |4,00       |1        |4,00 |
 
 ## <a name="change-license-quantity"></a>Alterar a quantidade de licenças
 
-Sua data de cobrança é no 15º dia de cada mês. Em 13 de Janeiro, você compra uma nova assinatura com uma licença para US $4/mês e seleciona cobrança mensal. O arquivo de reconciliação com base em licença de 15 de janeiro conterá as seguintes linhas de cobrança:
+Sua data de cobrança é no 15º dia de cada mês. Em 13 de janeiro, você compra uma nova assinatura com uma licença de US$ 4/mês e seleciona a cobrança mensal. O arquivo de reconciliação baseado em licença de 15 de janeiro conterá as seguintes linhas de cobrança:
 
-|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Valor |
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/01/2018         |12/02/2018    |Taxa do Ciclo   |4,00       |1        |4,00    |
 
-Em 1º de fevereiro, você aumenta a quantidade de licenças de um para dois. O arquivo de reconciliação com base em licença de 15 de fevereiro conterá as seguintes linhas de cobrança:
+Em 1º de fevereiro, você aumenta a quantidade de licenças de um para dois. O arquivo de reconciliação baseado em licença de 15 de fevereiro conterá as seguintes linhas de cobrança:
 
-|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Valor |
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 | 13/01/2018        |12/02/2018    |Proporcional à Instância do Ciclo   |-4,00       |1        |-4,00   |
 |13/01/2018         |31/01/2018    | Proporcional à Instância do Ciclo   |2.45       |1        |2.45    |
@@ -70,35 +65,35 @@ Preço unitário proporcional = 1,54 = 12 x 0,129
 
 ## <a name="suspend-before-30-days"></a>Suspender antes de 30 dias
 
-Sua data de cobrança é no 15º dia de cada mês. Em 13 de Janeiro, você compra uma nova assinatura com uma licença para US $4/mês e seleciona cobrança mensal. O arquivo de reconciliação com base em licença de 15 de janeiro conterá as seguintes linhas de cobrança:
+Sua data de cobrança é no 15º dia de cada mês. Em 13 de janeiro, você compra uma nova assinatura com uma licença de US$ 4/mês e seleciona a cobrança mensal. O arquivo de reconciliação baseado em licença de 15 de janeiro conterá as seguintes linhas de cobrança:
 
-|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Valor |
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/01/2018         |12/02/2018    |Taxa do Ciclo   |4,00       |1        |4,00    |
 
-Em 1º de fevereiro, você suspende uma assinatura. O arquivo de reconciliação com base em licença de 15 de fevereiro conterá a seguinte linha de cobrança:
+Em 1º de fevereiro, você suspende uma assinatura. O arquivo de reconciliação baseado em licença de 15 de fevereiro conterá a seguinte linha de cobrança:
 
-|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Valor |
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/01/2018|12/02/2018|Taxa de cancelamento|-4,00|1|-4,00
 
 ## <a name="suspend-after-30-days"></a>Suspender após 30 dias
 
-Sua data de cobrança é no 15º dia de cada mês. Em 13 de Janeiro, você compra uma nova assinatura com uma licença para US $4/mês e seleciona cobrança mensal. O arquivo de reconciliação com base em licença de 15 de janeiro conterá as seguintes linhas de cobrança:
+Sua data de cobrança é no 15º dia de cada mês. Em 13 de janeiro, você compra uma nova assinatura com uma licença de US$ 4/mês e seleciona a cobrança mensal. O arquivo de reconciliação com base em licença de 15 de janeiro conterá as seguintes linhas de cobrança:
 
-|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Valor |
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/01/2018|12/02/2018|Taxa do Ciclo|4,00|1|4,00
 
 O arquivo de reconciliação com base em licença de 15 de fevereiro conterá a seguinte linha de cobrança:
 
-|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Valor |
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/02/2018|12/03/2018|Taxa do Ciclo|4,00|1|4,00
 
 Em 1º de março, você suspendeu a assinatura. O arquivo de reconciliação com base em licença de 15 de março conterá a seguinte linha de cobrança:
 
-|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Valor |
+|Data de Início da Cobrança |Data de Término da Cobrança |Tipo de Cobrança |Preço Unitário |Quantidade |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 01/03/2018|12/03/2018|Taxa de cancelamento|-1,72|1|-1,72
 

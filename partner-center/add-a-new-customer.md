@@ -9,21 +9,16 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: cd7567a53f517d770bf51c734f5a1ace7b6ec94b
-ms.sourcegitcommit: 25336c9e4ff1e76669ac71539265f79d1b2b29f5
+ms.openlocfilehash: 234e183ae814dc30f8d7d00c5dddb1ffea612825
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "107941768"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150549"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Como adicionar um novo registro de cliente no Partner Center
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de gerenciamento de usuário
-- Agente administrativo
-- Agente de vendas
+**Funções apropriadas**: Administração Global | Administrador de gerenciamento de usuários | Agente de administração | Agente de vendas
 
 Este artigo descreve como adicionar um novo cliente à sua lista de clientes no Partner Center. Essas etapas são necessárias para que você possa vender assinaturas, gerenciar a cobrança ou fornecer suporte a um cliente.
 
@@ -57,11 +52,11 @@ Este artigo descreve como adicionar um novo cliente à sua lista de clientes no 
 6. Na página **revisão** , verifique a precisão das entradas e, em seguida, selecione **Enviar** se as informações estiverem corretas.
 
    >[!NOTE]
-   >Se precisar alterar os detalhes do cliente, selecione **Atualizar** na seção **informações da conta** . Se você precisar alterar as ofertas selecionadas, selecione **Atualizar** na seção **assinaturas** .
+   >Se você precisar alterar os detalhes do cliente, selecione **Atualizar** na **seção Informações da** conta. Se você precisar alterar as ofertas selecionadas, selecione **Atualizar** na **seção** Assinaturas.
 
-7. Selecione **concluído** quando tiver terminado de adicionar as informações do cliente e comprado as assinaturas necessárias.
+7. Selecione **Concluído** quando terminar de adicionar as informações do cliente e comprar as assinaturas necessárias.
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- Para obter mais informações sobre o que você pode vender aos clientes por meio do programa provedor de soluções na nuvem, consulte [ofertas de parceiros no programa provedor de soluções na nuvem](csp-offers.md)
+- Para obter mais informações sobre o que você pode vender aos clientes por meio do programa Provedor de Soluções na Nuvem, consulte [Ofertas](csp-offers.md) de parceiros no programa Provedor de Soluções na Nuvem
 
