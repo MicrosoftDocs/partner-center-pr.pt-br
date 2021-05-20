@@ -8,19 +8,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 04/27/2021
-ms.openlocfilehash: 91f64faeec0b97be2797d489e152cb84cbb2e192
-ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
+ms.openlocfilehash: 430aea81964d1b75514b6e1377bd2ba1af41b538
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "108213425"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153031"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>Relatórios de CloudAscent propensation disponíveis no painel do Partner Center
 
-**Funções apropriadas**
-
-- Visualizador de relatórios executivos
-- Visualizador de relatórios
+**Funções apropriadas**: Visualizador de relatórios executivos | Visualizador de relatórios
 
 O painel do Partner Center fornece dados de propensação baixáveis do programa CloudAscent. Os dados mostram a probabilidade dos clientes de comprar produtos da Microsoft.  Este artigo descreve a divisão desses dados, como usar a pontuação e o que isso significa.
 
@@ -40,28 +37,28 @@ O segmento SMB (Small to Medium Business) é dividido em três subsegmentos dist
 
    Definimos Top não gerenciado de duas maneiras:
 
-   - **Com base em principais usuários não gerenciados**– inclui contas com 300 ou mais funcionários. User-Based contas são ótimos alvos para compra pela primeira vez ou expansão de produtos de assinatura baseados em usuário, como Microsoft 365, Dynamics 365 ou Surface.
-   - **Base de computação não gerenciada superior** – inclui contas com o potencial do Azure maior que $10K. As contas baseadas em computação incluem o Azure existente. Acesse as contas com potencial do ano futuro e contas que ainda não compraram o Azure, mas têm potencial para o Azure com mais de US $10.000.
+   - **Com base em principais usuários não gerenciados**– inclui contas com 300 ou mais funcionários. User-Based contas são ótimos destinos para compra pela primeira vez ou expansão de produtos de assinatura baseados no usuário, como Microsoft 365, Dynamics 365 ou Surface.
+   - **Top Unmanaged Compute Based** – inclui contas com potencial do Azure maior que US$ 10 mil. Contas baseadas em computação incluem o Azure existente. contas com potencial futuro significativo e contas que ainda não compraram o Azure, mas têm potencial para o Azure maior que US$ 10 mil.
 
-2. Os **negócios médios** incluem clientes existentes e contas de clientes potenciais com 25 a 300 funcionários.
+2. **O Medium Business** inclui clientes e contas potenciais existentes com 25 a 300 funcionários.
 
-3. A **pequena empresa** inclui empresas com 10-25 funcionários.
+3. **O Small Business** inclui empresas com 10 a 25 funcionários.
 
-4. **Pequenas** empresas incluem empresas com 1-9 funcionários.
+4. **A Very Small Business** inclui empresas com 1 a 9 funcionários.
 
 :::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Cliente por tipo SMC.":::
 
-Os principais subsegmentos de negócios **não gerenciados** e **médios** representam clientes LTV (valor de tempo de vida alta) para a Microsoft e parceiros da Microsoft. Por isso, eles são as áreas potenciais de foco para impulsionar o crescimento nesse segmento. Nesses dois subsegmentos, estamos mais bem posicionados para adquirir o soquete com Microsoft 365, monetizar ainda mais com aplicativos de LOB (linha de negócios) D365/Azure e percebem um alto LTV para a Microsoft.
+**Os principais subsegmentos** de Negócios Médios e Não Planejados representam clientes ltV (alto valor de tempo de vida) para a Microsoft e parceiros da Microsoft.  Por isso, eles são as principais áreas de foco para impulsionar o crescimento nesse segmento. Nesses dois subsegmentos, estamos mais bem posicionados para adquirir o soquete com o Microsoft 365, monetizar ainda mais com aplicativos DE LOB (linha de negócios) do Azure/D365 e realizar um LTV alto para a Microsoft.
 
-Hoje temos duas áreas-chave de oportunidade – 1. nosso cliente adiciona crescimento; 2. Embora possamos adquirir os soquetes de nuvem que levam com Microsoft 365, temos uma grande oportunidade no Dynamics 365 e no Azure.
+Hoje, temos duas áreas principais de oportunidade – 1. nosso cliente adiciona crescimento; 2. enquanto adquirimos bem os soquetes de nuvem à Microsoft 365, temos uma grande oportunidade no Dynamics 365 e no Azure.
 
-A captura de tela a seguir representa os quatro subsegmentos SMB. CloudAscent priorize a criação de perfil, a pontuação e a modelagem de todas as principais contas de negócios não gerenciadas e médias.
+A captura de tela a seguir representa os quatro Subseções SMB. A CloudAscent prioriza a criação de perfil, a pontuação e a modelagem de todas as principais contas de negócios médias e nãomanutivas.
 
-:::image type="content" source="images/pci/cust-oppor-32.png" alt-text="Captura de tela de subsegmentos SMB.":::
+:::image type="content" source="images/pci/cust-oppor-32.png" alt-text="Captura de tela de subseções SMB.":::
 
-## <a name="cloudascent-machine-learning"></a>Machine Learning CloudAscent
+## <a name="cloudascent-machine-learning"></a>CloudAscent Machine Learning
 
-O SMB usa a tecnologia de aprendizado de máquina para orientar as previsões de vendas e marketing dos clientes dentro dos principais segmentos de negócios não gerenciados e médios. Como os sinais são coletados e transformados nas recomendações de propensação?
+O SMB usa a tecnologia de aprendizado de máquina para impulsionar as previsões de clientes de vendas e marketing nos principais segmentos de Negócios NãoManagedos e Médios. Como os sinais são coletados e transformados em recomendações de propensão?
 
 - **Coleta de dados**: os rastreadores da Web examinam e coletam bilhões de sinais de clientes ao executar ping nos domínios da empresa e monitorar postagens em Blogs, Press Releases, fluxos sociais e fóruns técnicos.  Além dos sinais coletados, as informações de firmographics são coletadas de fontes internas e externas, como D&B, assinatura interna da Microsoft e dados transacionais.
 
@@ -89,7 +86,7 @@ Usando sinais coletados por meio de rastreadores da Web e dados fornecidos de v�
 
    - Os sinais relacionados à mídia social e ao comportamento online de um cliente definem a intenção.
 
-   - A pontuação da intenção é sobreposta sobre ajustar para definir os clusters.
+   - A pontuação da intenção é sobressprovida de ajuste para definir os clusters.
 
    - A pontuação da intenção é atualizada mensalmente.
 
@@ -97,23 +94,23 @@ Usando sinais coletados por meio de rastreadores da Web e dados fornecidos de v�
 
 3. Clustering
 
-   Os sinais para ajuste e intenção são consolidados em uma pontuação de clustering. O CloudAscent tem quatro clusters:
+   Os Sinais para ajuste e intenção são consolidados em uma pontuação de clustering. CloudAscent tem quatro clusters:
 
-      - Clientes do Act Now-Sales Ready
-      - Avaliar-clientes prontos para marketing
-      - Campanhas de reconhecimento de incentivá
-      - Instrua-instrua e monitore para a intenção
+      - Agir agora – clientes prontos para vendas
+      - Avaliar – clientes prontos para marketing
+      - Incentivar – impulsionar campanhas de reconhecimento
+      - Instrua – instrua e monitore a intenção
 
-   O clustering permite que os usuários direcionem clientes específicos para iniciativas de vendas e marketing com base em fatores de segmento, por exemplo: produto, geográfico, setor e vertical.
+   O clustering permite aos usuários direcionar clientes específicos para iniciativas de vendas e marketing com base em fatores de segmento, por exemplo: produto, área geográfica, setor e vertical.
 
-   A guia **modelo** de propensão nas pastas de trabalho CloudAscent compartilha a propensão e a receita de espaço em branco estimada. Para definir o clustering de ajuste e intenção, percorreremos as seguintes etapas:
+   A **guia Modelo de propensão** nas Workbooks CloudAscent compartilha a propensão e a receita estimada de espaço em branco. Para definir o clustering de Ajuste e Intenção, vamos passar pelas seguintes etapas:
 
-      1. Usando modelos de ML, primeiro calculamos a pontuação de ajuste do cliente e a pontuação de intenção em uma escala de 100.  As pontuações exatas variarão com base nos modelos de ML.  Pontuação de exemplo abaixo:
+      1. Usando modelos de ML, primeiro calculamos a Pontuação de Ajuste do Cliente e a Pontuação da intenção em uma escala de 100.  As pontuações exatas variam de acordo com os modelos de ML.  Pontuações de exemplo abaixo:
 
          |**Classificação**|**Pontuação**|
          |---------|:---------|
-         |Alto|75-100|
-         |Médio|55-74|
+         |Alto|75 - 100|
+         |Médio|55 - 74|
          |Baixo|30 - 54|
          |Muito baixo|0 - 29|
 

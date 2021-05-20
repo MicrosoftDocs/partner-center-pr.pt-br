@@ -2,17 +2,17 @@
 title: Configurar a conta de pagamento e os formulários de impostos – Microsoft Marketplace comercial
 description: Para receber dinheiro das vendas de ofertas no Marketplace comercial, saiba como configurar sua conta de pagamento e preencher os formulários de imposto necessários.
 ms.topic: conceptual
-ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 255ae28af5b29645b06ad0ae6a1f9660ad334c3c
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2dbbab72ea68246bf0cb99d57a5ce3640f25c867
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854836"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152912"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurar sua conta de pagamento e formulários de imposto
 
@@ -42,7 +42,7 @@ Gerencie seu perfil fiscal e formulários de imposto na **página Pagamento** e 
 Primeiro, você precisa criar um perfil de imposto e atribuí-lo aos programas de que participa. Use as etapas a seguir para criar ou atualizar seu perfil *de imposto* no Partner Center. Você pode concluir e enviar seus formulários de imposto eletronicamente no painel de Partner Center; na maioria dos casos, você não precisa imprimir nem enviar formulários por email.
 
 > [!IMPORTANT]
-> Países e regiões diferentes têm requisitos de impostos diferentes. O valor exato que você deve pagar em impostos depende dos países e das regiões em que vende suas ofertas. Confira o [Contrato de fornecedor do Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560) para descobrir em quais países/regiões a Microsoft retém e usa impostos em seu nome. Em outros países/regiões, dependendo de onde você está registrado, talvez seja necessário pagar impostos sobre vendas e sobre o consumo de suas ofertas de venda diretamente para a autoridade tributária local. Além disso, os lucros sobre as vendas de aplicativos que você recebe podem ser tributáveis como renda. Recomendamos que você entre em contato com a autoridade pertinente do seu país ou sua região para ajudá-lo a determinar as informações de impostos incidentes sobre suas atividades de marketplace comercial.
+> Países e regiões diferentes têm requisitos de impostos diferentes. O valor exato que você deve pagar em impostos depende dos países e das regiões em que vende suas ofertas. Confira o [Contrato de fornecedor do Microsoft Azure Marketplace](/legal/marketplace/msft-publisher-agreement) para descobrir em quais países/regiões a Microsoft retém e usa impostos em seu nome. Em outros países/regiões, dependendo de onde você está registrado, talvez seja necessário pagar impostos sobre vendas e sobre o consumo de suas ofertas de venda diretamente para a autoridade tributária local. Além disso, os lucros sobre as vendas de aplicativos que você recebe podem ser tributáveis como renda. Recomendamos que você entre em contato com a autoridade pertinente do seu país ou sua região para ajudá-lo a determinar as informações de impostos incidentes sobre suas atividades de marketplace comercial.
 
 1. No painel [Partner Center ,](https://partner.microsoft.com/dashboard)selecione  o ícone de engrenagem Configurações no canto superior direito e, em seguida, **Configurações da conta**.
 
@@ -169,7 +169,7 @@ Depois que o pagamento tiver sido enviado ao seu banco, você terá 30 dias para
 Se você for um fornecedor que mora na Rússia, talvez seja necessário enviar documentação ao seu banco antes que ele deposite os fundos na sua conta. Quando você estiver qualificado para ser pago, enviaremos a seguinte documentação em uma mensagem de email:
 
 - Certificado de aceitação (AC): contém o valor do pagamento que está sendo transferido para sua conta.
-- [Contrato de Fornecedor do Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560): uma cópia assinada do contrato de fornecedor que precisa ter contra-assinatura.
+- [Contrato de Fornecedor do Microsoft Azure Marketplace](/legal/marketplace/msft-publisher-agreement): uma cópia assinada do contrato de fornecedor que precisa ter contra-assinatura.
 
 Para ter certeza de que seu pagamento será bem-sucedido, verifique se:
 
@@ -183,7 +183,7 @@ Para ter certeza de que seu pagamento será bem-sucedido, verifique se:
 Se você for um fornecedor que mora na Ucrânia, talvez seja necessário enviar documentação ao seu banco antes que ele deposite fundos na sua conta. Quando você estiver qualificado para ser pago, enviaremos a seguinte documentação em uma mensagem de email:
 
 - Certificado de aceitação (AC): contém o valor do pagamento que está sendo transferido para sua conta.
-- [Contrato de Fornecedor do Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560): uma cópia assinada do contrato de fornecedor que precisa ter contra-assinatura.
+- [Contrato de Fornecedor do Microsoft Azure Marketplace](/legal/marketplace/msft-publisher-agreement): uma cópia assinada do contrato de fornecedor que precisa ter contra-assinatura.
 - Alteração contratual (AA): documento que pode ser usado pelo seu banco para ajudar a identificar seus fundos de pagamento.
 
 A Microsoft fornece todos os três documentos na primeira tentativa de pagamento. Nos pagamentos subsequentes, você receberá apenas o documento AC. Mantenha os documentos ADA e AA caso você precise deles para receber pagamentos futuros do seu banco.

@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: c700176ced0710f621dbdfab65513767976aff3d
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 46c2371e3a95b8840f14ebc5063d90bd5926fb8f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818602"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153048"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Verificar ou atualizar as informações de perfil da sua empresa 
 
@@ -98,9 +98,8 @@ Se você for o administrador global, o administrador de cobrança ou o agente ad
 |Endereço do recebedor da fatura|O endereço para cobrança mostrado na fatura do CSP. É atualizável pelo [Perfil de cobrança](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
 |Contato de cobrança|Os detalhes de contato de cobrança (nome, sobrenome, número principal) para a conta do CSP.  É atualizável pelo [Perfil de cobrança](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
 |Número da OC|O número da ordem de compra exibido na fatura do parceiro.  É atualizável pelo [Perfil de cobrança](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
-|ID do imposto da empresa|As empresas em alguns países podem fornecer os respectivos [números de IVA (imposto sobre valor agregado) ou equivalente local](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number). Para atualizar sua ID de imposto/IVA, você deve ser um administrador global, um administrador de cobrança ou um agente de administrador.|
+|ID do imposto da empresa|As empresas em alguns países podem fornecer os respectivos [números de IVA (imposto sobre valor agregado) ou equivalente local](./organization-tax-info.md). Para atualizar sua ID de imposto/IVA, você deve ser um administrador global, um administrador de cobrança ou um agente de administrador.|
 |Moeda de Cobrança|A moeda de cobrança para a conta do CSP é determinada pelo país legal dessa conta.  Isso não pode ser alterado após a criação da conta do CSP.|
-
 
 ## <a name="next-steps"></a>Próximas etapas
 

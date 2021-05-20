@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 74dd5c2c9457961f07dd0dd8d5a6ead9047c5579
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 100a3d2988c19d57f7426c7212b7464d8e96dc94
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855549"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152946"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Como e quando solicitar um crédito de SLA (contrato de nível de serviço) da Microsoft
 
@@ -34,7 +34,7 @@ Os créditos de SLA da Microsoft são determinados com base em quais serviços f
 *O parceiro CSP (provedor de soluções na nuvem) deve enviar a declaração e todas as informações necessárias ao final do mês do calendário após o mês em que o incidente ocorreu.* Por exemplo, se o incidente ocorreu em 15 de fevereiro, a Microsoft deve receber a declaração e todas as informações necessárias até 31 de março. Clientes finais e revendedores indiretos não podem enviar declarações de crédito de SLA; o provedor indireto ou o parceiro de cobrança direto deve enviar declarações em seu nome.
 
 >[!NOTE]
->Os incidentes de consultoria ([como verificar Microsoft 365 integridade do serviço](https://docs.microsoft.com/microsoft-365/enterprise/view-service-health?&preserve-view=trueo365-worldwide#incidents-and-advisories)) não são elegíveis para créditos de SLA.
+>Os incidentes de consultoria ([como verificar Microsoft 365 integridade do serviço](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)) não são elegíveis para créditos de SLA.
 
 ### <a name="required-information"></a>Informações necessárias
 
@@ -67,7 +67,7 @@ Você pode encontrar o identificador do incidente de falha na página **De Saúd
 | SB | Skype for Business Online (anteriormente Lync Online) |
 | Sistema operacional | Assinatura do Office |
 | PB | Power BI para Office 365 |
-| SP | SharePoint online |
+| SP | SharePoint Online |
 | Você | Yammer Enterprise |
 | MO | Erro do portal |
 

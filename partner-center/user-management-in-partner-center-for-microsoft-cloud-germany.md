@@ -10,16 +10,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3889d0af73cfc683f1d45737a136a8e0c5a42656
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: bca5c5ff58ae222d06ac0de5f4aebde13cd87b0c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794965"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153014"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gerenciamento de usuário e licença no Partner Center for Microsoft Cloud Germany
 
-**Aplica-se a**: Partner Center | Partner Center para Microsoft Cloud Alemanha
+**Aplica-se a**: Partner Center para Microsoft Cloud Alemanha
 
 **Funções apropriadas:** administrador global | Administrador da conta
 

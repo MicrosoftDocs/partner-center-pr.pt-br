@@ -1,6 +1,6 @@
 ---
 title: Vender para setores especializados
-description: Saiba mais sobre os preços especiais e reduzidos da Microsoft para determinados grupos de clientes, incluindo clientes educativos, clientes sem fins lucrativos e usuários do governo.
+description: Saiba mais sobre os preços especiais e reduzidos da Microsoft para determinados grupos de clientes, incluindo clientes de educação, clientes sem fins lucrativos e usuários governamentais.
 ms.topic: how-to
 ms.date: 05/04/2021
 ms.service: partner-dashboard
@@ -9,44 +9,40 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bff69796cb753f93225bb44324629180d981a721
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 38985e48923bb0a3c6ad54eb600a44d419b5ad85
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702681"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150787"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vender a setores especializados como educação, sem fins lucrativos e usuários do governo
 
-**Funções apropriadas**
+**Funções apropriadas:** administrador global | Agente administrador | Agente de vendas
 
-- Administrador global
-- Agente administrativo
-- Agente de vendas
-
-A Microsoft fornece preços especiais e reduzidos para grupos de clientes selecionados, incluindo clientes educacionais, clientes sem fins lucrativos, pequenas empresas e entidades governamentais. Você e seu cliente devem ser qualificados para que você possa oferecer preços especiais a eles. Atualmente, essas ofertas com preços especiais estão **disponíveis apenas para serviços baseados em licença** , como Microsoft 365, Dynamics, Intune etc. Ele não está disponível para outros tipos (assinaturas de software, software permanente ou produtos do Azure).
+A Microsoft fornece preços especiais e reduzidos para grupos de clientes selecionados, incluindo clientes educacionais, clientes sem fins lucrativos, pequenas empresas e entidades governamentais. Você e seu cliente devem ser qualificados para que você possa oferecer preços especiais a eles. Atualmente, essas ofertas  com preços especiais só estão disponíveis para serviços baseados em licença, como Microsoft 365, Dynamics, Intune etc. Ele não está disponível para outros tipos (assinaturas de software, software perpétuo ou produtos do Azure).
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>Requisitos para vender para setores especializados
 
 |**Preço especial**   |**Qualificações necessárias para o revendedor**   |**Qualificações necessárias para o cliente**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Educação   |Nenhum   | Deve ser um [usuário de Educação qualificado](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
-|Governamental   |Para vender o Azure, registre-se usando o [formulário de validação de nuvem do governo dos EUA da Microsoft](https://azuregov.microsoft.com/csp). Para vender assinaturas baseadas em licença ao governo, não há qualificação necessária.|   Nenhum|
-|Sem fins lucrativos  |Nenhum<br/> Deve ter um locatário do Azure Active Directory sem fins lucrativos.<br/> Saiba mais sobre [ofertas especiais sem fins lucrativos](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Inscreva-se por meio do [programa sem fins lucrativos da Microsoft](https://nonprofit.microsoft.com/#/register) para estar qualificado.   |
+|Educação   |Nenhum   | Deve ser um [Usuário de Educação Qualificada.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
+|Governo   |Para vender o Azure, inscreva-se usando o formulário validação de [nuvem do Microsoft US Government.](https://azuregov.microsoft.com/csp) Para vender assinaturas baseadas em licença ao governo, não há qualificação necessária.|   Nenhum|
+|Sem fins lucrativos  |Nenhum<br/> Deve ter um locatário do Azure Active Directory sem fins lucrativos.<br/> Saiba mais sobre [ofertas especiais sem fins lucrativos](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Inscreva-se por meio [do programa sem fins lucrativos da Microsoft](https://nonprofit.microsoft.com/#/register) para ser qualificado.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Verificar suas qualificações de revendedor
 
-As etapas a seguir são aplicáveis somente a provedores indiretos e parceiros de cobrança direto. Revendedores indiretos precisam se conectar a um provedor indireto para fornecer ofertas com preço acadêmico a usuários de educação qualificados.
+As etapas a seguir são aplicáveis somente a provedores indiretos e parceiros de cobrança direta. Os revendedores indiretos precisam se conectar com um provedor indireto para fornecer ofertas com preços acadêmicos para usuários de educação qualificados.
 
-1. No [painel](https://partner.microsoft.com/dashboard)do Partner Center, selecione o ícone de engrenagem no canto superior direito da janela para abrir **as configurações de conta**.
+1. No painel Partner Center [,](https://partner.microsoft.com/dashboard)selecione o ícone de engrenagem no canto superior direito da janela para abrir **Configurações da conta**.
 
-2. Em seu **perfil legal**, na seção **informações do programa** , procure **qualificações do revendedor**.
+2. Em seu **perfil jurídico,** na seção **Informações do** programa, procure **Qualificações de revendedor.**
 
 3. Se você não vir **Qualificações revendedor**, você ainda não foi autorizado a comprar as ofertas especiais.
 
 ## <a name="check-the-customer-qualifications"></a>Verificar as qualificações do cliente
 
-1. No menu do **centro de parceiros** , selecione **clientes**. Escolha o cliente na lista.
+1. No menu **Partner Center,** selecione **Clientes**. Escolha o cliente na lista.
 
 2. No menu do cliente, selecione **Conta**. Na seção **Informações da empresa**, procure por **Special qualifications**.
 
@@ -60,12 +56,12 @@ Quando você e seu cliente estiverem qualificados para um programa de ofertas es
 
 Os parceiros só poderão vender ofertas especiais para os clientes se atenderem a determinados critérios. 
 
-- As ofertas de educação só poderão ser adquiridas se o cliente estiver autorizado como uma instituição educacional. Um cliente de educação só pode receber ofertas comerciais e de educação, mas não é um GCC (nuvem de comunidade governamental) e não lucrativo.
-- Os parceiros só podem comprar assinaturas GCC para clientes GCC. Quando um cliente tem uma assinatura GCC, os parceiros não podem comprar assinaturas comerciais, educacionais ou sem fins lucrativos.
-- Os parceiros podem adquirir apenas assinaturas comerciais ou não-lucrativas para clientes sem fins lucrativos. Os parceiros não podem adquirir assinaturas GCC nem educacionais para clientes sem fins lucrativos.
-- Entidades de Propriedade do estado devem atender aos [critérios de qualificação](https://www.microsoft.com/legal/compliance/anticorruption/criteria).
+- As ofertas de educação só poderão ser adquiridas se o Cliente estiver autorizado como uma instituição educacional. Um cliente de Educação só pode receber ofertas de Educação e Comercial, mas não de GCC (nuvem da comunidade governamental) sem fins lucrativos.
+- Os parceiros só podem comprar assinaturas GCC para clientes GCC. Quando um cliente tem uma assinatura GCC, os parceiros não podem comprar assinaturas comerciais, de educação ou sem fins lucrativos.
+- Os parceiros só podem comprar assinaturas comerciais ou sem fins lucrativos para clientes sem fins lucrativos. Os parceiros não podem comprar assinaturas GCC nem de educação para clientes sem fins lucrativos.
+- As Entidades De Propriedade do Estado devem atender [aos critérios de Qualificação](https://www.microsoft.com/legal/compliance/anticorruption/criteria).
 
-Regras de compra para venda de ofertas especiais aos clientes:
+Regras de compra para vender ofertas especiais aos clientes:
 
 |**Tipo de cliente**   |**Pode ser vendido**   |**Não pode ser vendido**   |
 |:----------------------------|:---------------------------------|:------------------------------------------|

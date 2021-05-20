@@ -1,53 +1,48 @@
 ---
-title: Informações do Partner Center-relatório de clientes
+title: Partner Center Insights – Relatório do cliente
 ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Descubra maneiras de melhorar seus negócios. Veja suas tendências específicas do cliente por geografia, por produto e outros atributos.
+description: Descubra maneiras de melhorar seus negócios. Confira suas tendências específicas do cliente por geografia, por produto e outros atributos.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 28343b5754546b653bd5a3e6b4a53a002b408668
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 8a9207e793865bcf7fa2f205fc69b0b5def65b4d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120827"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152895"
 ---
-# <a name="customers-dashboard-reports-from-partner-center-insights"></a>Relatórios do painel de clientes de insights do Partner Center
+# <a name="customers-dashboard-reports-from-partner-center-insights"></a>Relatórios do painel de clientes do Partner Center Insights
 
-**Funções apropriadas**
+**Funções apropriadas:** administrador global | Agente administrador | Visualizador de | Visualizador de relatório executivo
 
-- Administrador global
-- Agente administrativo
-- Visualizador de relatórios
-- Visualizador de relatórios executivos
-
-O painel clientes apresenta dados de seus clientes que adquiriram produtos de nuvem, como Office, Azure, Dynamics, etc., por você ou que você usou para implantar e gerenciar esses produtos em seus locatários. 
+O painel Clientes apresenta dados de seus clientes que adquiriram produtos de nuvem como Office, Azure, Dynamics etc. por meio de você ou usaram você para implantar e gerenciar esses produtos em seus locatários. 
  
-O painel clientes tem as seguintes seções: 
+O painel Clientes tem as seguintes seções: 
 
 - Resumo  
-- Dispersão geográfica de seus clientes 
-- Tendências de adição/rotatividade de clientes 
+- Distribuição geográfica de seus clientes 
+- Tendências de adoção/rotatividade dos clientes 
 - Distribuição de clientes por locais de parceiros, segmentos de clientes, canal de vendas, tipo de atribuição de parceiro 
-- Distribuição de clientes por produto 
+- Distribuição do cliente por produto 
 - Tendências de distribuição de clientes por locais de parceiros, segmentos de clientes, modelo de preços, tipo de atribuição de parceiro 
 - Tendência de clientes ativos 
 
 ## <a name="summary"></a>Resumo
 
-A seção de resumo apresenta uma exibição de instantâneo de vários KPIs relacionados a seus clientes, como clientes, clientes ativos, assinaturas, clientes adicionados, clientes com rotatividade e clientes de cada produto. Os filtros de nível de página são aplicáveis a cada seção.
+A seção de resumo apresenta uma exibição de instantâneo de vários KPIs relacionados aos seus clientes, como clientes, clientes ativos, assinaturas, clientes adicionados, clientes rotativos e clientes por cada produto. Os filtros no nível da página são aplicáveis para cada seção.
 
-:::image type="content" source="images/pci/customerproduct.png" alt-text="Captura de tela do painel de Resumo de clientes mostra gráficos de barras e números de clientes ativos, recentemente adicionados, perdidos/com rotatividade ou por produto específico.":::
+:::image type="content" source="images/pci/customerproduct.png" alt-text="Captura de tela do painel Resumo dos Clientes mostra gráficos de barras e números de clientes ativos, adicionados recentemente, perdidos/rotativos ou por produto específico.":::
 
 ### <a name="customers"></a>Clientes
 
-- Contagem atual de todos os clientes que sua organização está associada por meio de diferentes tipos de atribuição em todos os produtos de nuvem, como Office, Azure, Dynamics, etc. Um cliente será contado se tiver pelo menos uma assinatura com status ativo.  
-- Recusar% de clientes durante o intervalo de datas selecionado 
-- Micro Chart apresenta a tendência mês a mês da contagem de clientes em relação ao intervalo de datas selecionado
+- Contagem atual de todos os clientes que sua organização está associada por meio de diferentes tipos de atribuição em todos os produtos de nuvem, como Office, Azure, Dynamics etc. Um cliente será contado se tiver pelo menos uma assinatura com status Ativo.  
+- Percentual de recusa de clientes durante o intervalo de datas selecionado 
+- O micro gráfico apresenta a tendência mês a mês da contagem de clientes no intervalo de datas selecionado
 
 ### <a name="active-customers"></a>Clientes ativos
 
@@ -94,19 +89,19 @@ Divisão da contagem de clientes atuais por produtos e SKUs/planos. Selecione um
 
 ## <a name="customer-distribution-trend"></a>Tendência de distribuição do cliente 
 
-Tendência mensal da distribuição de seus clientes durante o intervalo de datas selecionado por mercados, segmentos, seus locais MPN e produtos que eles adquiriram. Selecione as respectivas guias no gráfico para exibir a tendência por essas categorias. O eixo X representa os meses do intervalo de datas selecionado, e o eixo Y tem a contagem de clientes para a categoria selecionada (seleção de guia). Você pode focalizar as colunas do gráfico para exibir os valores divisão de cada pilha. Você pode aproveitar o controle deslizante na parte superior do gráfico para ampliar um período específico.   
+Tendência mensal da distribuição de seus clientes durante o intervalo de datas selecionado por mercados, segmentos, seus locais MPN e produtos que eles adquiriram. Selecione as respectivas guias no gráfico para exibir a tendência por essas categorias. O eixo X representa os meses para o intervalo de datas selecionado e o eixo Y tem a contagem de clientes para a categoria selecionada (seleção de tabulação). Você pode passar o mouse sobre as colunas do gráfico para exibir os valores de cada pilha. Você pode aproveitar o controle deslizante na parte superior do gráfico para ampliar para um período específico.   
 
-:::image type="content" source="images/pci/customerdistri.png" alt-text="Captura de tela do relatório de tendências de distribuição do cliente mostrando gráficos de barras que você pode exibir por mercado, segmento, local do parceiro ou produtos.":::
+:::image type="content" source="images/pci/customerdistri.png" alt-text="Captura de tela do relatório de tendência de distribuição do cliente mostrando gráficos de barras que você pode exibir por mercado, segmento, local do parceiro ou produtos.":::
 
 ## <a name="active-customers"></a>Clientes ativos
 
-Gráfico de tendência mensal comparando clientes ativos e totais para o intervalo de datas selecionado. As colunas representam contagens de clientes ativos a cada mês e a linha representa o total de clientes por mês. 
+Gráfico de tendência mensal comparando os clientes ativos e totais para o intervalo de datas selecionado. As colunas representam contagens de clientes ativas a cada mês e a linha representa o total de clientes por mês. 
 
-:::image type="content" source="images/pci/activecustomer.png" alt-text="Captura de tela do relatório de clientes ativos do Partner Center insights mostrando gráficos de barras ao longo do tempo dos clientes ativos.":::
+:::image type="content" source="images/pci/activecustomer.png" alt-text="Captura de tela do relatório Partner Center Insights Ativos mostrando gráficos de barras ao longo do tempo de clientes ativos.":::
 
 ## <a name="next-steps"></a>Próximas etapas
 
-Para obter mais relatórios, consulte os [insights do Partner Center](partner-center-insights.md).
+Para obter mais relatórios, [consulte Partner Center Insights.](partner-center-insights.md)
 
 >[!NOTE]
-> Você pode baixar os dados brutos, capacitando esse relatório na seção baixar relatórios no painel do insights. [Saiba mais](pci-download-reports.md) 
+> Você pode baixar os dados brutos que agem neste relatório na seção Baixar Relatórios no painel Insights. [Saiba mais](pci-download-reports.md) 

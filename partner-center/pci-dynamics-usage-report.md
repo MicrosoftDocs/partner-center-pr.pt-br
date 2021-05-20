@@ -1,30 +1,25 @@
 ---
-title: Relatório de uso do Dynamics do Partner Center insights
+title: Relatório de uso dinâmico do Partner Center Insights
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Veja o que você está fazendo bem e onde você pode melhorar a respeito do uso de assinaturas do Dynamics que você vende ou gerencia para seus clientes.
+description: Veja o que você está fazendo bem e onde pode melhorar em relação ao uso de assinaturas do Dynamics que você vende ou gerencia para seus clientes.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 60c0eebccff963858b1af09318b5202016ea5291
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 0e2880f8548b220d708c61c08a0ea9fb37700240
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086916"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152793"
 ---
-# <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de uso do Dynamics disponível no painel do centro de informações do Partner Center
+# <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de uso do Dynamics disponível no painel Partner Center Insights
 
-**Funções apropriadas**
+**Funções apropriadas:** administrador global | Agente administrador | Visualizador de | Visualizador de relatório executivo
 
-- Administrador global
-- Agente administrativo
-- Visualizador de relatórios
-- Visualizador de relatórios executivos
-
-O relatório de uso do Dynamics fornece dados de uso para as assinaturas do Dynamics 365 que você vendeu ou gerencia para seus clientes. Você pode exibir as seções a seguir do relatório de uso do Dynamics.
+O relatório de uso do Dynamics fornece dados de uso para as assinaturas do Dynamics 365 que você vende ou gerencia para seus clientes. Você pode exibir as seções a seguir no relatório de uso do Dynamics.
 
 - Resumo
 - Uso do Dynamics por geografia
@@ -33,23 +28,23 @@ O relatório de uso do Dynamics fornece dados de uso para as assinaturas do Dyna
 - Distribuição de uso do Dynamics
 
  > [!NOTE]
- > Esse relatório está disponível no painel de informações. Para exibir esse relatório, você deve ser atribuído a uma função específica no Partner Center, como administrador global, administrador da conta, visualizador de relatórios ou Visualizador de relatórios do Executive. Para obter mais informações, consulte o administrador global da sua empresa. os tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de visualizador de relatórios executivos.
+ > Este relatório está disponível no painel insights. Para exibir esse relatório, você deve ter uma função específica no Partner Center, como Administrador Global, Administrador da Conta, Visualizador de Relatório ou Visualizador de Relatório Executivo. Para obter mais informações, consulte Administrador Global da sua empresa. Tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de Visualizador de Relatório Executivo.
 
 ## <a name="summary"></a>Resumo
 
-A seção de resumo apresenta uma exibição de instantâneo dos principais indicadores relacionados às assinaturas de uso do Dynamics que você vendeu ou gerencia para seus clientes.  
+A seção de resumo apresenta uma exibição de instantâneo dos principais indicadores relacionados às assinaturas de uso do Dynamics que você vende ou gerencia para seus clientes.  
 
-- Estações disponíveis: o número total de licenças vendidas durante o período de tempo selecionado.
+- Lugares disponíveis: número total de licenças vendidas durante o período selecionado.
 
-   O micro gráfico apresenta uma tendência mês a mês da contagem de estações disponíveis para o intervalo de datas selecionado.
+   O micro gráfico apresenta uma tendência mensal da contagem de estações disponíveis para o intervalo de datas selecionado.
 
-- Estações atribuídas: número total de licenças atribuídas durante o período de tempo selecionado.
+- Lugares atribuídos: número total de licenças atribuídas durante o período de tempo selecionado.
 
-   O micro gráfico apresenta uma tendência mês a mês da contagem de estações atribuídas durante o intervalo de datas selecionado.
+   O micro gráfico apresenta uma tendência mensal da contagem de estações atribuídas durante o intervalo de datas selecionado.
 
-- Estações ativas: o número total de licenças que tinham uso durante o período de tempo selecionado. 
+- Estações ativas: número total de licenças que tiveram uso durante o período selecionado. 
 
-   O micro Chart apresenta uma tendência mensal de estações ativas mensais no período de tempo selecionado.
+   O micro gráfico apresenta uma tendência mensal de estações ativas mensais durante o período selecionado.
 
 - % De uso ativo: número total de estações ativas expressas como uma porcentagem das estações disponíveis para o período de tempo selecionado. 
 
@@ -81,12 +76,12 @@ O desempenho das assinaturas mostra a tendência mensal de uso ativo por assinat
 
 ## <a name="dynamics-usage-distribution"></a>Distribuição de uso do Dynamics
 
-A distribuição de uso do Dynamics representa a divisão de estações disponíveis, estações ativas e estações atribuídas por SKUs.
+A distribuição de uso do Dynamics descreve o detalhamento de lugares disponíveis, bancos ativos e lugares atribuídos por SKUs.
 
 :::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Distribuição de uso do Dynamics":::
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- Para obter mais relatórios, consulte os [insights do Partner Center](partner-center-insights.md).
+- Para obter mais relatórios, [consulte Partner Center Insights.](partner-center-insights.md)
 
-- Você pode baixar os dados brutos, capacitando esse relatório na seção baixar relatórios no painel do insights. [Saiba mais](pci-download-reports.md) 
+- Você pode baixar os dados brutos que agem neste relatório na seção Baixar Relatórios no painel Insights. [Saiba mais](pci-download-reports.md) 

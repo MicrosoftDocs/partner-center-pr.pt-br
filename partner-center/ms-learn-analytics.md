@@ -1,52 +1,49 @@
 ---
-title: Análises de Microsoft Learn do Partner Center
+title: Partner Center insights Microsoft Learn análise
 ms.topic: article
 ms.date: 08/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Acompanhe os aprendizes em sua empresa aproveitando os dados em treinamento individual, módulos concluídos, caminhos de aprendizado concluídos e muito mais.
+description: Acompanhe os alunos em sua empresa aproveitando dados sobre treinamento individual, módulos concluídos, caminhos de aprendizagem concluídos e muito mais.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5b9a0ea8c4eefee1a87b9ccd626b1f2864234521
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 132583352e1697a2f9dfa624eb9532692be6d734
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132308"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152623"
 ---
 # <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>O relatório de análise do Microsoft Learn mostra o status dos estudantes de sua empresa
 
-**Funções apropriadas**
+**Funções apropriadas:** administrador global | Administrador de parceiro do MPN
 
-- Administrador global
-- Administrador de parceiros do MPN
-
-O relatório de Microsoft Learn fornece informações sobre os aprendizes em sua empresa, incluindo os módulos que eles concluíram e os caminhos de aprendizado em que estão. O relatório exibe o status de cada aprendiz individual. O administrador global e o administrador do MPN para sua empresa podem exibir os dados.
+O Microsoft Learn relatório fornece informações sobre os alunos em sua empresa, incluindo os módulos que eles concluíram e os caminhos de aprendizagem em que estão. O relatório exibe o status de cada aluno individual. O administrador global e o administrador do MPN para sua empresa podem exibir os dados.
 
 ## <a name="how-to-read-the-report"></a>Como ler o relatório
 
 ### <a name="summary-charts"></a>Gráficos de resumo
 
-Esses gráficos resumem a contagem e as tendências cumulativas mensais para indivíduos treinados, preenchimentos de módulo e roteiros de aprendizagem.
+Esses gráficos resumem a contagem e as tendências cumulativas mensais para indivíduos treinados, preenchimentos de módulo e caminhos de aprendizagem.
 
 
-**Contagem de indivíduos treinados**: uma contagem de todos os aprendizes distintos que concluíram pelo menos um módulo durante o intervalo de datas selecionado 
+**Contagem de indivíduos treinados:** uma contagem de todos os alunos distintos que concluíram pelo menos um módulo durante o intervalo de datas selecionado 
 
-A **pessoa treinada Trend mini Chart**: Contagem cumulativa mês a mês dos aprendizes ativos 
+**Mini gráfico de tendência de indivíduos treinados:** contagem cumulativa de mês a mês dos alunos ativos 
 
-**Contagem de preenchimentos de módulo**: contagem de preenchimentos de módulo pelos aprendizes na empresa do parceiro durante o intervalo de datas selecionado.
-Por exemplo, se "módulo 1" for concluído por 15 indivíduos e o "módulo 2" tiver sido concluído pelos mesmos 15 indivíduos, a contagem de preenchimentos de módulo será 30. A data de conclusão do módulo deve estar no intervalo de datas selecionado.
+**Contagem de preenchimentos de** módulo: contagem de preenchimentos de módulo pelos alunos na empresa do parceiro durante o intervalo de datas selecionado.
+Por exemplo, se "Módulo 1" for concluído por 15 indivíduos e o "Módulo 2" tiver sido concluído pelos mesmos 15 indivíduos, a contagem de preenchimentos do módulo será de 30. A data de conclusão do módulo deve estar no intervalo de datas selecionado.
 
-**Trimódulo de tendências de preenchimentos de módulos**: mês acima do mês Contagem cumulativa das conclusões do módulo 
+**Mini gráfico de tendência de preenchimentos de módulo:** contagem cumulativa de mês a mês das conclusão do módulo 
 
-**Contagem de conclusões de roteiros de aprendizagem**: contagem de conclusões de caminho de aprendizagem pelos aprendizes na empresa do parceiro durante o intervalo de datas selecionado.
-Por exemplo, se o roteiro de aprendizagem "caminho 1" for concluído por 20 indivíduos e o roteiro de aprendizagem "caminho 2" tiver sido concluído pelos mesmos 20 indivíduos, a contagem de conclusão do roteiro de aprendizagem será de 40. A data de conclusão do roteiro de aprendizagem deve estar dentro do intervalo de datas selecionado.
+**Contagem de conclusão do caminho de** aprendizagem: contagem de preenchimentos do caminho de aprendizagem pelos alunos na empresa do parceiro durante o intervalo de datas selecionado.
+Por exemplo, se o Caminho de Aprendizagem "Caminho 1" for concluído por 20 indivíduos e o Caminho de Aprendizagem "caminho 2" tiver sido concluído pelos mesmos 20 indivíduos, a contagem de conclusão do Caminho de Aprendizagem será de 40. A data de conclusão do caminho de aprendizagem deve estar dentro do intervalo de datas selecionado.
 
-A **tendência de conclusão do roteiro de aprendizagem** é o gráfico de tendências: mês acima do mês Contagem cumulativa das conclusões do roteiro de aprendizagem 
+**Mini gráfico de tendência de conclusão do caminho de aprendizagem:** contagem cumulativa de mês a mês das conclusão do caminho de aprendizagem 
 
-### <a name="trained-individuals-monthly-trend"></a>Tendência mensal de pessoas treinadas
+### <a name="trained-individuals-monthly-trend"></a>Tendência mensal de indivíduos treinados
 
 Esses dados são a tendência dos usuários de sua empresa que concluíram um módulo pela primeira vez nesse mês. 
 
@@ -80,29 +77,29 @@ Essa guia inclui a divisão dos módulos concluídos em sua empresa pelos cinco 
 
 O número exibido no centro do gráfico é o total de módulos concluídos
 
-- Conclusões por função: divisão das conclusões do módulo pela função do módulo. Se um módulo estiver associado a várias funções, cada uma das funções será adicionada à contagem de preenchimentos de módulo.
+- Preenchimentos por função: detalhamento das conclusão do módulo pela função do módulo. Se um módulo estiver associado a várias funções, cada uma das funções será adicionada à contagem de preenchimentos do módulo.
 
-O número exibido no centro do gráfico é o número de funções distintas para as conclusões do módulo. 
+O número exibido no centro do gráfico é o número de funções distintas para as conclusão do módulo. 
 
-- Conclusões por produto: divisão das conclusões do módulo pelo produto ao qual o módulo está mapeado. Se um módulo estiver associado a vários produtos, cada um dos produtos será adicionado à contagem de preenchimentos de módulo.    
+- Preenchimentos por produto: detalhamento das conclusão do módulo pelo produto para o que o módulo é mapeado. Se um módulo estiver associado a vários produtos, cada um dos produtos será adicionado à contagem de preenchimentos do módulo.    
 
-O número exibido no centro do gráfico é o número de produtos distintos para as conclusões do módulo.  
+O número exibido no centro do gráfico é o número de produtos distintos para as conclusão do módulo.  
 
-**Guia caminho de aprendizagem**   
+**Guia Caminho de aprendizagem**   
 
-Esta guia inclui uma análise dos caminhos de aprendizado concluídos em sua empresa pelos cinco principais nomes de módulo; o produto ao qual o roteiro de aprendizagem está mapeado; e a função pertinente a este roteiro de aprendizagem.  
+Essa guia inclui um detalhamento dos caminhos de aprendizagem concluídos em sua empresa pelos cinco principais nomes de módulo; o produto para o quais o caminho de aprendizagem é mapeado; e a função pertinente a esse caminho de aprendizagem.  
 
-- Gráfico de rosca de conclusões de roteiros de aprendizado: análise das conclusões do roteiro de aprendizagem (contagem exibida na seção Resumo) por nome.
+- Gráfico de rosca de preenchimentos de caminhos de aprendizagem: detalhamento das conclusão do caminho de aprendizagem (contagem exibida na seção de resumo) por nome.
 
-- Conclusões por função *: a divisão dos caminhos de aprendizado é concluída pela função. Se um módulo estiver associado a várias funções, cada uma das funções será adicionada à contagem de preenchimentos de módulo.
+- Preenchimentos por função*: detalhamento dos caminhos de aprendizagem concluídos pela função. Se um módulo estiver associado a várias funções, cada uma das funções será adicionada à contagem de preenchimentos do módulo.
 
-- Conclusões por produto: a divisão dos caminhos de aprendizado é concluída pelo produto ao qual o roteiro de aprendizagem está mapeado. Se um módulo estiver associado a vários produtos, cada um dos produtos será adicionado à contagem de preenchimentos de módulo.
+- Preenchimentos por produto: detalhamento dos caminhos de aprendizagem concluídos pelo Produto para o qual o caminho de aprendizagem é mapeado. Se um módulo estiver associado a vários produtos, cada um dos produtos será adicionado à contagem de preenchimentos do módulo.
 
-### <a name="completions-by-learning-individuals"></a>Conclusões por indivíduos de aprendizagem
+### <a name="completions-by-learning-individuals"></a>Preenchimentos por indivíduos de aprendizado
 
-Isso lista os usuários treinados em sua empresa e os detalhes de seus módulos e roteiros de aprendizado concluídos.
+Isso lista os usuários treinados em sua empresa e os detalhes de seus módulos concluídos e caminhos de aprendizagem.
 
-Microsoft Learn identifica os aprendizes com uma ID de objeto de usuário. Na **guia módulos**, todos os aprendizes são classificados pelos módulos concluídos. Eles são exibidos com seus Microsoft Learn nome de usuário, ID de objeto e contagem de módulos. Você pode pesquisar usando o nome de usuário. 
+Microsoft Learn identifica os alunos com uma ID de Objeto de Usuário. Na guia **Módulos ,** todos os alunos são classificação pelos módulos concluídos. Eles são exibidos com sua Microsoft Learn nome de usuário, ID de objeto e contagem de módulos. Você pode pesquisar usando o nome de usuário. 
 
 Na **guia caminhos de aprendizado** , todos os aprendizes classificados por caminhos de aprendizado concluídos são exibidos com o nome de exibição do aprendiz, a ID do objeto e a contagem de módulos.
 

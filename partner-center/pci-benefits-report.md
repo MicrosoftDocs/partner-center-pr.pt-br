@@ -1,53 +1,48 @@
 ---
-title: Relatório de benefícios do recepções do Partner Center
+title: Partner Center de benefícios do Insights
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Veja quais tipos de benefícios de parceiros da Microsoft foram concedidos para ajudar a aumentar seus negócios, melhorar a eficiência e aprimorar as habilidades da sua equipe.
+description: Veja quais tipos de benefícios do Microsoft Partner você recebeu para ajudar a expandir seus negócios, melhorar a eficiência e aprimorar as habilidades da sua equipe.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5b730eb9c6689c9d779a2e3f16f70fd3232601da
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 488d5641422de3036cb36818c0aa21bdc81a3628
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087001"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152538"
 ---
-# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de benefícios disponível no painel do recepções do Partner Center
+# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de benefícios disponível no painel Partner Center Insights
 
-**Funções apropriadas**
+**Funções apropriadas:** administrador global | Agente administrador | Visualizador de | Visualizador de relatório executivo
 
-- Administrador global
-- Agente administrativo
-- Visualizador de relatórios
-- Visualizador de relatórios executivos
+Como parceiro da Microsoft, você pode acessar uma série de benefícios que usam a tecnologia e as inovações mais recentes para ajudá-lo a aprimorar as habilidades da sua equipe, melhorar a eficiência e expandir seus negócios. Os pacotes de benefícios incluem: alocações de software licenciado, serviços de nuvem, Visual Studio assinaturas e suporte. Esses pacotes também podem incluir determinados recursos, ofertas e programas go-to-market. O relatório Benefícios apresenta tendências dos benefícios que você acessou e seu uso durante o intervalo de datas selecionado.
 
-Como um parceiro da Microsoft, você pode acessar uma série de benefícios que usam a tecnologia e as inovações mais recentes para ajudá-lo a aprimorar as habilidades da sua equipe, melhorar a eficiência e aumentar seus negócios. Os pacotes de benefícios incluem: alocações de software licenciado, serviços de nuvem, assinaturas do Visual Studio e suporte. Esses pacotes também podem incluir determinados recursos, ofertas e programas de entrada no mercado. O relatório de benefícios apresenta as tendências dos benefícios que você acessou e seu uso durante o intervalo de datas selecionado.
+:::image type="content" source="images/pci/pci-benefits-intro-1.png" alt-text="visão geral da página de benefícios":::
 
-:::image type="content" source="images/pci/pci-benefits-intro-1.png" alt-text="Visão geral da página de benefícios":::
-
-Você pode visualizar os seguintes gráficos no relatório de benefícios:
+Você pode visualizar os seguintes gráficos no relatório Benefícios:
 
 - Resumo
 - Serviços de nuvem concedidos
 - Produtos de software
 - Assinaturas do Visual Studio
 - Benefícios técnicos
-- Ir para o mercado
+- Entrar no mercado
 
  > [!NOTE]
- > Esse relatório está disponível no painel de informações. Para exibir esse relatório, você deve ser atribuído a uma função específica no Partner Center, como administrador global, administrador da conta, visualizador de relatórios ou Visualizador de relatórios do Executive. Para obter mais informações, consulte o administrador global da sua empresa. os tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de visualizador de relatórios executivos.
+ > Este relatório está disponível no painel insights. Para exibir esse relatório, você deve ter uma função específica no Partner Center, como Administrador Global, Administrador da Conta, Visualizador de Relatório ou Visualizador de Relatório Executivo. Para obter mais informações, consulte Administrador Global da sua empresa. Tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de Visualizador de Relatório Executivo.
 
 ## <a name="summary"></a>Resumo
 
-A seção de resumo apresenta os benefícios concedidos em termos de software licenciado, serviços de nuvem (não Azure), assinaturas do Visual Studio, suporte técnico e determinados serviços e ofertas de entrada no mercado.
+A seção Resumo apresenta os benefícios concedidos em termos de software licenciado, serviços de nuvem (não Azure), assinaturas de Visual Studio, suporte técnico e determinados serviços ou ofertas Go-To-Market.
 
-Exemplo: os parceiros de associação do Microsoft Partner Network (MPN) estão qualificados para o suporte técnico de produtos locais e produtos de nuvem. Parceiros que obtêm competência Silver recebem suporte técnico para 15 incidentes para produtos locais. Eles podem consumir esse suporte conforme necessário. 
+Exemplo: Microsoft Partner Network membros do MPN (parceiros associados) são qualificados para suporte técnico de produtos locais e produtos de nuvem. Os parceiros que atingem a competência Silver têm suporte técnico para 15 incidentes para produtos locais. Eles podem consumir esse suporte conforme necessário. 
 
-:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="Resumo dos benefícios":::
+:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="resumo de benefícios":::
 
 ## <a name="cloud-services-granted"></a>Serviços de nuvem concedidos
 
@@ -82,10 +77,10 @@ Selecione uma guia na parte superior do gráfico para exibir a tendência de um 
 
 Este gráfico apresenta a tendência mensal de ofertas de lançamento no mercado ou serviços ativados em relação ao alocados durante o intervalo de datas selecionado e para uma oferta do serviço de lançamento de mercado ou categoria de serviços selecionada.
 
-Selecione uma oferta de entrada no mercado ou categoria de serviço na lista suspensa na parte superior do gráfico para exibir a tendência dos serviços de entrada para o mercado selecionados concedidos à sua empresa. As colunas no gráfico representam ofertas de entrada no mercado ou serviços ativados. O grafo de linha representa as ofertas gerais de lançamento no mercado ou os serviços concedidos à sua empresa.
+Selecione uma oferta de entrada no mercado ou categoria de serviço na lista suspensa na parte superior do gráfico para exibir a tendência dos serviços de entrada para o mercado selecionados concedidos à sua empresa. As colunas no gráfico representam ofertas de Go-To-Market ou serviços ativados. O grafo de linha representa as ofertas gerais de Go-To-Market ou os serviços concedidos à sua empresa.
 
-:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Ofertas de entrada no mercado":::
+:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Ofertas go-to-market":::
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- Para obter mais relatórios, consulte os [insights do Partner Center](partner-center-insights.md).
+- Para obter mais relatórios, [consulte Partner Center Insights.](partner-center-insights.md)
