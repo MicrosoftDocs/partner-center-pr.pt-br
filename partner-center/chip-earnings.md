@@ -2,47 +2,45 @@
 title: Exibir lucros na CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Saiba como exibir sua declaração de incentivos e seus ganhos na ferramenta CHIP (plataforma de incentivos de canal).
+description: Saiba como exibir a instrução de incentivos e os ganhos na ferramenta CHIP (Plataforma de Incentivos de Canal).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 09ed80e4be53f210341279193bae71dc47f87eec
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 74606a4c7f52e5aa23f7e963cab27e491c436b59
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354483"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149019"
 ---
-# <a name="view-earnings-using-the-chip-tool"></a><span data-ttu-id="3abff-103">Exibir ganhos usando a ferramenta de CHIP</span><span class="sxs-lookup"><span data-stu-id="3abff-103">View earnings using the CHIP tool</span></span>
+# <a name="view-earnings-using-the-chip-tool"></a><span data-ttu-id="2b084-103">Exibir ganhos usando a ferramenta CHIP</span><span class="sxs-lookup"><span data-stu-id="2b084-103">View earnings using the CHIP tool</span></span>
 
-<span data-ttu-id="3abff-104">**Funções apropriadas**</span><span class="sxs-lookup"><span data-stu-id="3abff-104">**Appropriate roles**</span></span>
+<span data-ttu-id="2b084-104">**Funções apropriadas:** contato principal ou administrador do programa</span><span class="sxs-lookup"><span data-stu-id="2b084-104">**Appropriate roles**: Primary contact or program admin</span></span>
 
-- <span data-ttu-id="3abff-105">Administrador primário de contato ou programa</span><span class="sxs-lookup"><span data-stu-id="3abff-105">Primary contact or program admin</span></span>
+<span data-ttu-id="2b084-105">Você pode acessar sua instrução de incentivos por meio da ferramenta CHIP (Plataforma de Incentivos de Canal).</span><span class="sxs-lookup"><span data-stu-id="2b084-105">You can access your incentives statement via the Channel Incentives Platform tool (CHIP).</span></span>
 
-<span data-ttu-id="3abff-106">Você pode acessar sua declaração de incentivos por meio da ferramenta de plataforma de incentivos de canal (CHIP).</span><span class="sxs-lookup"><span data-stu-id="3abff-106">You can access your incentives statement via the Channel Incentives Platform tool (CHIP).</span></span>
+## <a name="view-earnings"></a><span data-ttu-id="2b084-106">Exibir ganhos</span><span class="sxs-lookup"><span data-stu-id="2b084-106">View earnings</span></span>
 
-## <a name="view-earnings"></a><span data-ttu-id="3abff-107">Exibir ganhos</span><span class="sxs-lookup"><span data-stu-id="3abff-107">View earnings</span></span>
+1. <span data-ttu-id="2b084-107">Entre no CHIP usando seu conta Microsoft (ID ao vivo anterior).</span><span class="sxs-lookup"><span data-stu-id="2b084-107">Sign into CHIP using your Microsoft account (previous Live ID).</span></span>
 
-1. <span data-ttu-id="3abff-108">Entre no CHIP usando seu conta Microsoft (Live ID anterior).</span><span class="sxs-lookup"><span data-stu-id="3abff-108">Sign into CHIP using your Microsoft account (previous Live ID).</span></span>
+2. <span data-ttu-id="2b084-108">Selecione o programa de incentivos em que você está interessado.</span><span class="sxs-lookup"><span data-stu-id="2b084-108">Select the incentives program you're interested in.</span></span>
 
-2. <span data-ttu-id="3abff-109">Selecione o programa de incentivos em que você está interessado.</span><span class="sxs-lookup"><span data-stu-id="3abff-109">Select the incentives program you're interested in.</span></span>
+3. <span data-ttu-id="2b084-109">Em **Resumo do Programa,** selecione período ou mês.</span><span class="sxs-lookup"><span data-stu-id="2b084-109">Under **Program Summary** select period or month.</span></span> 
+1. <span data-ttu-id="2b084-110">Selecione Detalhes do Cálculo na lista lista listada.</span><span class="sxs-lookup"><span data-stu-id="2b084-110">Select Calculation Details from the drop-down list.</span></span>
+1.  <span data-ttu-id="2b084-111">Clique **em Abrir** na barra de notificação para abrir sua instrução.</span><span class="sxs-lookup"><span data-stu-id="2b084-111">Click **Open** on the notification bar  to open your statement.</span></span>
 
-3. <span data-ttu-id="3abff-110">Em **Resumo do programa** , selecione período ou mês.</span><span class="sxs-lookup"><span data-stu-id="3abff-110">Under **Program Summary** select period or month.</span></span> 
-1. <span data-ttu-id="3abff-111">Selecione detalhes de cálculo na lista suspensa.</span><span class="sxs-lookup"><span data-stu-id="3abff-111">Select Calculation Details from the drop-down list.</span></span>
-1.  <span data-ttu-id="3abff-112">Clique em **abrir** na barra de notificação para abrir sua instrução.</span><span class="sxs-lookup"><span data-stu-id="3abff-112">Click **Open** on the notification bar  to open your statement.</span></span>
+### <a name="explanation-of-details-tabs"></a><span data-ttu-id="2b084-112">Explicação das guias de detalhes</span><span class="sxs-lookup"><span data-stu-id="2b084-112">Explanation of details tabs</span></span>
 
-### <a name="explanation-of-details-tabs"></a><span data-ttu-id="3abff-113">Explicação de guias de detalhes</span><span class="sxs-lookup"><span data-stu-id="3abff-113">Explanation of details tabs</span></span>
-
-|<span data-ttu-id="3abff-114">**Guia**</span><span class="sxs-lookup"><span data-stu-id="3abff-114">**Tab**</span></span>|<span data-ttu-id="3abff-115">**Definição**</span><span class="sxs-lookup"><span data-stu-id="3abff-115">**Definition**</span></span>|
+|<span data-ttu-id="2b084-113">**Tab**</span><span class="sxs-lookup"><span data-stu-id="2b084-113">**Tab**</span></span>|<span data-ttu-id="2b084-114">**Definição**</span><span class="sxs-lookup"><span data-stu-id="2b084-114">**Definition**</span></span>|
 |-------------|--------------------------|
-|<span data-ttu-id="3abff-116">DetailReport-Flatfile</span><span class="sxs-lookup"><span data-stu-id="3abff-116">DetailReport-Flatfile</span></span>|<span data-ttu-id="3abff-117">Inclui detalhes do programa incentivos para o período de tempo selecionado, incluindo nome do cliente, contrato, detalhes da alavanca</span><span class="sxs-lookup"><span data-stu-id="3abff-117">Includes details for the incentives program for selected time period including customer name, agreement, lever details</span></span>|
-|<span data-ttu-id="3abff-118">DeltaReport-pivô</span><span class="sxs-lookup"><span data-stu-id="3abff-118">DeltaReport-pivot</span></span>|<span data-ttu-id="3abff-119">Atualizações da última instrução publicada somente para empresas</span><span class="sxs-lookup"><span data-stu-id="3abff-119">Updates from last published statement for Enterprise only</span></span>|
-|<span data-ttu-id="3abff-120">DetailReport-pivô</span><span class="sxs-lookup"><span data-stu-id="3abff-120">DetailReport-pivot</span></span>|<span data-ttu-id="3abff-121">Resumo dos detalhes de pagamento, incluindo moeda e valor de pagamento</span><span class="sxs-lookup"><span data-stu-id="3abff-121">Summary of payment details including currency and payment amount</span></span>|
-|<span data-ttu-id="3abff-122">Detalhes da realização</span><span class="sxs-lookup"><span data-stu-id="3abff-122">Achievement details</span></span>|<span data-ttu-id="3abff-123">Valor da linha de base, realização e percentual de crescimento somente para SPLAR</span><span class="sxs-lookup"><span data-stu-id="3abff-123">Baseline value, achievement, and growth percentage for SPLAR only</span></span>|
+|<span data-ttu-id="2b084-115">DetailReport-Flatfile</span><span class="sxs-lookup"><span data-stu-id="2b084-115">DetailReport-Flatfile</span></span>|<span data-ttu-id="2b084-116">Inclui detalhes do programa de incentivos para o período de tempo selecionado, incluindo nome do cliente, contrato, detalhes da alavanca</span><span class="sxs-lookup"><span data-stu-id="2b084-116">Includes details for the incentives program for selected time period including customer name, agreement, lever details</span></span>|
+|<span data-ttu-id="2b084-117">DeltaReport-pivot</span><span class="sxs-lookup"><span data-stu-id="2b084-117">DeltaReport-pivot</span></span>|<span data-ttu-id="2b084-118">Atualizações da última instrução publicada somente para Enterprise</span><span class="sxs-lookup"><span data-stu-id="2b084-118">Updates from last published statement for Enterprise only</span></span>|
+|<span data-ttu-id="2b084-119">DetailReport-pivot</span><span class="sxs-lookup"><span data-stu-id="2b084-119">DetailReport-pivot</span></span>|<span data-ttu-id="2b084-120">Resumo dos detalhes do pagamento, incluindo moeda e valor do pagamento</span><span class="sxs-lookup"><span data-stu-id="2b084-120">Summary of payment details including currency and payment amount</span></span>|
+|<span data-ttu-id="2b084-121">Detalhes da conquista</span><span class="sxs-lookup"><span data-stu-id="2b084-121">Achievement details</span></span>|<span data-ttu-id="2b084-122">Valor de linha de base, conquista e percentual de crescimento apenas para SPLAR</span><span class="sxs-lookup"><span data-stu-id="2b084-122">Baseline value, achievement, and growth percentage for SPLAR only</span></span>|
 
-## <a name="next-steps"></a><span data-ttu-id="3abff-124">Próximas etapas</span><span class="sxs-lookup"><span data-stu-id="3abff-124">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="2b084-123">Próximas etapas</span><span class="sxs-lookup"><span data-stu-id="2b084-123">Next steps</span></span>
 
-- [<span data-ttu-id="3abff-125">Verificar o status do pagamento na CHIP</span><span class="sxs-lookup"><span data-stu-id="3abff-125">Check payment status in CHIP</span></span>](chip-payment-status.md)
+- [<span data-ttu-id="2b084-124">Verificar o status do pagamento na CHIP</span><span class="sxs-lookup"><span data-stu-id="2b084-124">Check payment status in CHIP</span></span>](chip-payment-status.md)
