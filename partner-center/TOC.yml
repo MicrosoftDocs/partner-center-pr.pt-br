@@ -134,6 +134,8 @@
     - name: Transição do parceiro do CSP Direct Bill Partner para revendedor do CSP Indirect Reseller
       href: transition-direct-to-indirect.md
       displayName: csp
+    - name: Os parceiros não podem mais se registrar como consultores
+      href: advisors-no-csp.md
 - name: Contratos do CSP
   href: microsoft-partner-agreement.md
   items:
