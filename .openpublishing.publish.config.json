@@ -64,7 +64,7 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes.MSDN.PartnerCenter",
-      "url": "https://github.com/Microsoft/templates.msdn.partnercenter.pt-br",
+      "url": "https://github.com/Microsoft/templates.msdn.partnercenter",
       "branch": "master",
       "branch_mapping": {}
     },
