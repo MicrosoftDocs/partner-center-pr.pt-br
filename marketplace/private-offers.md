@@ -5,46 +5,42 @@ ms.service: marketplace-customer
 ms.topic: article
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 72e886a7cfad067b40674f30a9a21810d832994a
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 06/03/2021
+ms.openlocfilehash: 55d0716b183e9e8905e631447e547396d6f55404
+ms.sourcegitcommit: 9cb6bc9df20540f812b7932f88e520976c1aa85a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412651"
+ms.lasthandoff: 06/06/2021
+ms.locfileid: "111534210"
 ---
-# <a name="private-offers-in-azure-marketplace"></a>Ofertas privadas no Azure Marketplace
+# <a name="private-plans-in-azure-marketplace"></a>Planos privados no Azure Marketplace
 
-As ofertas privadas são como os editores fornecem planos personalizados para clientes específicos. Atualmente, essa opção tem suporte apenas na experiência do Azure Marketplace no portal do Azure. As ofertas privadas só estão disponíveis para ofertas pagas que podem ser adquiridas e instaladas diretamente do portal do Azure. O Publisher não pode criar ofertas privadas para serviços de consultoria, qualquer serviço que tenha **contato comigo** como um plano de ação ou qualquer serviço gratuito, independentemente de poder ser instalado ou não no Portal.
+Os planos privados são como os editores fornecem planos personalizados para clientes específicos. Os planos privados só estão disponíveis para ofertas pagas que podem ser adquiridas e instaladas diretamente do portal do Azure. Os Publicadores não podem criar planos privados para serviços de consultoria, qualquer serviço que tenha **contato comigo** como um plano de ação ou qualquer serviço gratuito, independentemente de ele poder ser instalado ou não no Portal.
 
-## <a name="find-private-offers-in-the-azure-portal"></a>Encontre ofertas privadas no portal do Azure
+## <a name="find-private-plans-in-the-azure-portal"></a>Localizar planos privados no portal do Azure
 
-Quando um parceiro publica uma oferta privada, ele fica visível somente para usuários qualificados na seção **Marketplace** do portal do Azure. Esses usuários são definidos pela ID de assinatura ou ID de locatário, dependendo do tipo de oferta. Se você estiver qualificado para ofertas privadas, há duas maneiras de encontrá-las no Portal.
+Quando um parceiro publica um plano privado, ele fica visível somente para usuários qualificados na seção **Marketplace** do portal do Azure. Esses usuários são definidos pela ID de assinatura ou ID de locatário, dependendo do tipo de oferta. Se você estiver qualificado para planos privados, há duas maneiras de encontrá-los no Portal.
 
 > [!NOTE]
-> As ofertas privadas atualmente não são pesquisáveis ou filtráveis (por categoria) no portal do Azure.
+> Os planos privados são pesquisáveis, mas não podem ser filtrados (por categoria) no portal do Azure.
 
-Na portal do Azure, selecione **+ criar um recurso** ou pesquise "Marketplace" para ir para a página do **Marketplace** . Se você estiver qualificado para ofertas privadas, verá a faixa **você tem as ofertas privadas disponíveis** na parte superior da página. Selecione **Exibir ofertas privadas** para ir para sua página de ofertas particulares.
+Na portal do Azure, selecione **+ criar um recurso** ou pesquise "Marketplace" para ir para a página do **Marketplace** . Se você estiver qualificado para planos privados, verá a faixa **você tem planos privados disponíveis** na parte superior da página. Selecione **Exibir ofertas privadas + planos** para ir para sua página de planos particulares.
 
-:::image type="content" source="media/private-offers/private-offers-banner.png" alt-text="A faixa que é exibida quando você tem ofertas privadas disponíveis.":::
-
-Como alternativa, se você vir a faixa ofertas particulares, também poderá rolar até a parte inferior da página Galeria de produtos e verá um subconjunto de suas ofertas privadas. Selecione o link para **Ver mais** para acessar sua página de ofertas particulares.
-
-:::image type="content" source="media/private-offers/see-more-link.png" alt-text="Mostra as ofertas privadas na parte inferior da tela, juntamente com o link Ver mais.":::
+:::image type="content" source="media/private-offers/private-offers-banner.png" alt-text="A faixa que é exibida quando você tem planos privados disponíveis.":::
 
 ## <a name="review-private-plans"></a>Examinar planos privados
 
-Uma oferta privada é, na verdade, um plano privado dentro de uma oferta. Cada oferta pode ter vários planos, públicos e privados, mas os planos privados são mostrados em uma listagem separada dos planos públicos.
+Um plano privado faz parte de vários planos em uma oferta. Cada oferta pode ter vários planos, públicos e privados, mas os planos privados são mostrados em uma listagem separada dos planos públicos.
 
 Você pode ver os planos privados disponíveis na guia **planos** , marcados com um selo **particular** distintivo:
 
 :::image type="content" source="media/private-offers/private-badge.png" alt-text="Uma página de planos marcados como particulares.":::
 
-Se você tiver mais de uma assinatura, verá todas as ofertas privadas disponíveis para todas as suas assinaturas. Ao selecionar **criar**, você será encaminhado para a página de criação de recursos para começar a configurar o recurso.
+Se você tiver mais de uma assinatura, verá todos os planos privados disponíveis para todas as suas assinaturas. Ao selecionar **criar**, você será encaminhado para a página de criação de recursos para começar a configurar o recurso.
 
-Se você selecionar **criar** e tiver várias assinaturas, mas nem todas elas forem adicionadas ao plano privado, sua assinatura padrão poderá não ser a assinatura qualificada para esta oferta privada. Nesse caso, selecione a assinatura correta.
+Se você selecionar **criar** e tiver várias assinaturas, mas nem todas elas forem adicionadas ao plano privado, sua assinatura padrão poderá não ser a assinatura qualificada para esse plano privado. Nesse caso, selecione a assinatura correta.
 
-:::image type="content" source="media/private-offers/select-correct-subscription.png" alt-text="O link mostrando que há mais ofertas privadas disponíveis.":::
+:::image type="content" source="media/private-offers/select-correct-subscription.png" alt-text="O link mostrando que há mais planos privados disponíveis.":::
 
 ## <a name="next-steps"></a>Próximas etapas
 
