@@ -409,6 +409,36 @@
     "source_path": "partner-center/test-drive-new-features.md",
     "redirect_url": "/partner-center/partner-center-account-setup",
     "redirect_document_id": "False"
+  },
+  {
+    "source_path": "partner-center/prepare-pmc-pc-migration.md",
+    "redirect_url": "/partner-center/partner-membership-center-retirement-faq",
+    "redirect_document_id": "False"
+  },
+  {
+    "source_path": "partner-center/guide-to-migration.md",
+    "redirect_url": "/partner-center/partner-membership-center-retirement-faq",
+    "redirect_document_id": "False"
+  },
+  {
+    "source_path": "partner-center/move-pmc-pc-map.md",
+    "redirect_url": "/partner-center/partner-membership-center-retirement-faq",
+    "redirect_document_id": "False"
+  },
+  {
+    "source_path": "partner-center/move-multiple-companies.md",
+    "redirect_url": "/partner-center/partner-membership-center-retirement-faq",
+    "redirect_document_id": "False"
+  },
+  {
+    "source_path": "partner-center/consolidate-accounts.md",
+    "redirect_url": "/partner-center/partner-membership-center-retirement-faq",
+    "redirect_document_id": "False"
+  },
+  {
+    "source_path": "partner-center/partner-membership-center-tech-benefits-activate.md",
+    "redirect_url": "/partner-center/partner-membership-center-retirement-faq",
+    "redirect_document_id": "False"
   }
 ]
 }
