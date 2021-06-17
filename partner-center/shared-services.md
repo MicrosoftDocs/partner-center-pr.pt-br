@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: 929907c7c6f238fb84a13622227534797f0ac949
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: ffec50d53b50bdb6aa2690f1dfcc1bc7312cc3cb
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855328"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277293"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Adicione Serviços Compartilhados com Parceiros do Azure para que os parceiros possam comprar assinaturas do Azure para uso próprio
 
@@ -30,11 +30,11 @@ Os Serviços Compartilhados do Parceiro Azure são um novo tipo de oferta para p
 
 2. Se você ainda não tiver um locatário de serviços compartilhados, clique em **Criar serviços compartilhados**.
 
-   :::image type="content" source="images/sharedservices3.png" alt-text="Criar serviços compartilhados":::
+   :::image type="content" source="images/sharedservices3.png" alt-text="Criar serviços compartilhados.":::
 
 3. Isso cria um locatário serviços compartilhados e compra a assinatura de Serviços Compartilhados do Azure CSP para serem usados para recursos compartilhados e carga de trabalho interna.
 
-   :::image type="content" source="images/sharedservices5.png" alt-text="Criar o locatário e comprar a assinatura":::
+   :::image type="content" source="images/sharedservices5.png" alt-text="Crie o locatário e compre a assinatura.":::
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>Sobre a oferta dos Serviços Compartilhados/Internos do Azure
 

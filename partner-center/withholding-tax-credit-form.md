@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 63aea520279dc6d126253969cb3175a253b9b3c6
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 8674dfa337f0620b6c916f685fced9882134032a
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109795016"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276358"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Receba crédito em sua conta do Partner Center para retenção de imposto
 
@@ -39,32 +39,32 @@ Siga estas etapas para enviar uma nova retenção de imposto:
 
 3. Clique em **Enviar novo** ao lado da fatura para a qual você deseja enviar um espaço. O link enviar novo levará você para a **nova** página de solicitação de retenção de imposto.
 
-   :::image type="content" source="images/wht1.png" alt-text="Enviar nova retenção de imposto para uma fatura":::
+   :::image type="content" source="images/wht1.png" alt-text="Enviar nova retenção de imposto para uma fatura.":::
 
 4. Examine os detalhes da fatura para garantir que você está enviando a solicitação para a fatura correta.
 
-   :::image type="content" source="images/wht2.png" alt-text="Detalhes completos de retenção de imposto para uma fatura":::
+   :::image type="content" source="images/wht2.png" alt-text="Detalhes de retenção de imposto completos para uma fatura.":::
 
-5. Insira o "Total de retenção" em Detalhes **da retenção de imposto.** O "Total de retenção" é o valor que você espera que seja creditado.
+5. Insira o "total de retenção" em **detalhes de retenção de imposto**. O "total de retenção" é o valor que você espera que seja creditado.
 
-6. **Anexar** um certificado de imposto. Você precisará incluir uma cópia digital do certificado **de** imposto retido na fonte **na** sua solicitação de retenção de imposto. Você recebeu esse certificado de sua agência de impostos local ao pagar seus impostos para sua autoridade fiscal local. O valor do imposto da fatura no certificado de imposto retido na fonte deve corresponder ao valor total na sua solicitação de retenção de imposto.
+6. **Anexe** um certificado de imposto. Você precisará incluir uma **cópia digital** do seu **certificado de retenção** de imposto em sua solicitação de retenção de imposto. Você recebeu esse certificado de sua agência de impostos local ao pagar seus impostos à sua autoridade de imposto local. O valor do imposto sobre a fatura no certificado de retenção de imposto deve corresponder ao valor total em sua solicitação de retenção de imposto.
 
    > [!IMPORTANT]
-   > O valor total que o parceiro fornece deve corresponder ao item de linha da fatura do certificado fiscal anexado. Os arquivos de certificado de imposto anexados devem estar em um dos seguintes formatos de arquivo: . Somente PDF ou Imagem (. Jpeg. PNG e . GIF). Além disso, os nomes de arquivos não devem conter espaços ou caracteres especiais. Os tamanhos de arquivo não podem exceder 1 MB.
+   > A quantidade de totais que o parceiro fornece deve corresponder ao item de linha da fatura do certificado de imposto anexado. Os arquivos de certificado de imposto anexado devem estar em um dos seguintes formatos de arquivo: somente .PDF ou imagem (. JPEG, .PNG e .GIF). Além disso, os nomes de arquivos não devem conter espaços ou caracteres especiais. Os tamanhos de arquivo não podem exceder 1 MB.
 
-7. **Envie a** solicitação de retenção de imposto.
+7. **Envie** a solicitação de retenção de imposto.
 
-   Depois de enviada, a solicitação irá para o processo de aprovação em que ela será aprovada para conclusão ou enviada de volta para você se as correções são necessárias. Veja a ID da solicitação e o status de suas solicitações e no histórico **de** cobrança do qual você enviou a nova solicitação.
+   Depois de enviado, a solicitação entrará no processo de aprovação, onde será aprovada para conclusão ou enviada para você se as correções forem necessárias. Exiba a ID de solicitação e o status de suas solicitações e no **histórico de cobrança** para o qual você enviou a nova solicitação.
 
-   Se a solicitação for enviada de volta para você, você poderá alterar o valor de retenção e substituir o certificado se houver um problema com ele.
+   Se sua solicitação for enviada de volta para você, você poderá alterar a quantidade de retenção e substituir o certificado se houver um problema com ele.
 
-## <a name="update-request-and-resubmit"></a>Atualizar solicitação e reabrir
+## <a name="update-request-and-resubmit"></a>Atualizar solicitação e reenviar
 
-A equipe de revisão pode exigir que você faça correções e reaprove uma solicitação antes que ela possa ser aprovada. Eles alterarão o status para **Ação de parceiro pendente.** Para corrigir e reabrir a solicitação:
+A equipe de revisão pode exigir que você faça correções e reenvie uma solicitação antes que ela possa ser aprovada. Eles alterarão o status para a **ação de parceiro pendente**. Para corrigir e reenviar a solicitação:
 
 1. Entre no [Painel](https://partner.microsoft.com/dashboard/home) do Partner Center.
 
-2. No menu à esquerda, escolha **Cobrança**
+2. No menu à esquerda, escolha **cobrança**
 
 3. No **histórico de cobrança** da página de **cobrança** , localize a solicitação de retenção de imposto. As solicitações que precisam de atenção terão o status "ação de parceiro pendente".
 
@@ -95,17 +95,17 @@ Se você tiver dúvidas sobre o processo de solicitação de crédito de retenç
 
 ## <a name="german-tax-withholding"></a>Retenção de imposto alemão
 
-Os parceiros que enviam solicitações de retenção de imposto alemão devem se lembrar de enviar cópias impressas de seu certificado de imposto retido na fonte para o seguinte endereço:
+Os parceiros que enviam solicitações de retenção de imposto em alemão devem se lembrar de enviar cópias físicas do seu certificado de imposto retido na fonte para o seguinte endereço:
 
-- ATTN: Equipe de impostos do EOC– Gannon
-- Centro de Operações do Microsoft EMEA
-- One Microsoft Place,
-- South County Business Park
-- China, Dublin 18, Irlanda
+- ATTN: equipe de impostos do EOC Marianne Gannon
+- Centro de operações da EMEA da Microsoft
+- Um local da Microsoft,
+- Parque de negócios do condado do Sul
+- Leopardstown, Dublin 18, Irlanda
 
 ### <a name="questions-and-assistance-for-tax-withholding-requests"></a>Perguntas e assistência para solicitações de retenção de imposto
 
-Os parceiros devem usar o novo processo detalhado acima para enviar novas solicitações e não usar mais a criação de solicitações de suporte para novas solicitações de retenção de imposto. Os parceiros com perguntas adicionais sobre solicitações de retenção de imposto podem [enviar solicitações de suporte](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed). As solicitações de suporte destinam-se a ajudar os parceiros para solicitações existentes, portanto, eles precisarão ter sua **ID** de Solicitação para enviar um novo tíquete. Se os parceiros não puderem enviar uma solicitação usando o novo processo, eles deverão inserir algum número (todos os 1s) no formulário de solicitação de suporte. 
+Os parceiros devem usar o novo processo detalhado acima para enviar novas solicitações e não usar mais a criação de solicitação de suporte para novas solicitações de retenção de imposto. Parceiros com perguntas adicionais sobre solicitações de retenção de imposto podem [enviar solicitações de suporte](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed). As solicitações de suporte destinam-se a ajudar parceiros em solicitações existentes para que eles precisem ter sua **ID de solicitação** para enviar um novo tíquete. Se os parceiros não puderem enviar uma solicitação usando o novo processo, eles deverão inserir algum número (todos os 1) no formulário de solicitação de suporte. 
 
    > [!IMPORTANT]
-   > Os parceiros não precisarão entrar em contato com o suporte se o status da solicitação for **Concluído.** Esse status aparece no histórico **de cobrança ao** lado da fatura para o envio. **Os últimos valores** de pagamento ao lado da fatura devem refletir o valor da retenção de imposto até dez dias após a solicitação ser marcada como **Concluída.**
+   > Os parceiros não precisam contatar o suporte se o status da solicitação for **concluído**. Esse status aparece no histórico de **cobrança** ao lado da fatura para o envio. Os últimos valores de **pagamento** ao lado da fatura devem refletir o valor de retenção de imposto dentro de dez dias após a solicitação ser marcada como **concluída**.

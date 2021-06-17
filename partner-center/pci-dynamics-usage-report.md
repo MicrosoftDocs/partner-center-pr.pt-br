@@ -8,12 +8,12 @@ description: Veja o que você está fazendo bem e onde pode melhorar em relaçã
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e2880f8548b220d708c61c08a0ea9fb37700240
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2c0b90fdeaf8bf1715d89221959aeb49e186d150
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152793"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277497"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de uso do Dynamics disponível no painel Partner Center Insights
 
@@ -46,39 +46,39 @@ A seção de resumo apresenta uma exibição de instantâneo dos principais indi
 
    O micro gráfico apresenta uma tendência mensal de estações ativas mensais durante o período selecionado.
 
-- % De uso ativo: número total de estações ativas expressas como uma porcentagem das estações disponíveis para o período de tempo selecionado. 
+- %de uso ativo: número total de lugares ativos expressos como um percentual dos lugares disponíveis para o período selecionado. 
 
-   O micro Chart apresenta uma tendência mensal de porcentagem de uso ativo no período de tempo selecionado.
+   O micro gráfico apresenta uma tendência mensal de percentual de uso ativo durante o período selecionado.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Resumo de uso do Dynamics":::
+:::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Resumo de uso do Dynamics.":::
 
 ## <a name="dynamics-usage-by-geography"></a>Uso do Dynamics por geografia
 
-O **uso do Dynamics por geografia** representa a distribuição de estações disponíveis e estações ativas por país do cliente. As cores mais claras no mapa representam valores mais baixos, enquanto as cores mais escuras representam valores mais altos. Você pode pesquisar e selecionar um país na grade. Você também pode ampliar para uma análise mais detalhada.
+O **uso do Dynamics por geografia ilustra** a distribuição de lugares disponíveis e de lugares ativos por país do cliente. Cores mais claras no mapa representam valores inferiores, enquanto cores mais escuras representam valores mais altos. Você pode pesquisar e selecionar um país na grade. Você também pode ampliar para uma aparência mais próxima.
 
-O **número de tabelas de países/** regiões apresenta os países/regiões totais nos quais os eventos de uso do Azure são gerados.
+A **tabela Número de países/regiões** apresenta o total de países/regiões em que os eventos de uso do Azure são gerados.
 
-Você pode pesquisar e selecionar um país na grade para aplicar zoom ao local no mapa. Selecione a opção **início** no mapa para reverter para a exibição original.
+Você pode pesquisar e selecionar um país na grade para ampliar o local no mapa. Selecione a **opção** Página Inicial no mapa para reverter para a exibição original.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="Uso do Dynamics por geografia":::
+:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="Uso do Dynamics por geografia.":::
 
 ## <a name="dynamics-usage-by-sku"></a>Uso do Dynamics por SKU
 
-O uso do Dynamics por SKU representa a tendência mensal de estações disponíveis, estações ativas e estações atribuídas por SKUs.
+O uso do Dynamics por SKU descreve a tendência mensal de estações disponíveis, estações ativas e estações atribuídas por SKUs.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="Uso do Dynamics por SKU":::
+:::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="Uso do Dynamics por SKU.":::
 
 ## <a name="subscriptions-performance"></a>Desempenho de assinaturas
 
-O desempenho das assinaturas mostra a tendência mensal de uso ativo por assinatura do cliente. Os dados dos principais clientes 100 por receita cobrada são mostrados na tabela e você pode pesquisar por qualquer cliente ou baixar os dados brutos para exibir detalhes de todas as assinaturas.
+O desempenho de Assinaturas ilustra a tendência mensal de Uso Ativo por assinatura do cliente. Os dados dos 100 principais clientes por receita cobrada são mostrados na tabela e você pode pesquisar qualquer cliente ou baixar os dados brutos para exibir detalhes de todas as assinaturas.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Desempenho da assinatura do Dynamics":::
+:::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Desempenho da assinatura do Dynamics.":::
 
 ## <a name="dynamics-usage-distribution"></a>Distribuição de uso do Dynamics
 
 A distribuição de uso do Dynamics descreve o detalhamento de lugares disponíveis, bancos ativos e lugares atribuídos por SKUs.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Distribuição de uso do Dynamics":::
+:::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Distribuição de uso do Dynamics.":::
 
 ## <a name="next-steps"></a>Próximas etapas
 

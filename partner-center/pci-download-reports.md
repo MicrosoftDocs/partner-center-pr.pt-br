@@ -1,49 +1,49 @@
 ---
-title: Painel de Relatório de Download do Insights
+title: Painel de relatório de download do insights
 ms.topic: article
 ms.date: 10/14/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como baixar e exportar dados do painel Partner Center relatório unificado e de relatórios Partner Center Insights.
+description: Saiba como baixar e exportar dados do painel de relatório unificado do Partner Center e de relatórios do Partner Center insights.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 266baf0eb3501cba984ec0fbaed4508366b92b8b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 6124e20efe16e134c441bb1fd72f022e841083b0
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152776"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276227"
 ---
 # <a name="download-reports"></a>Download de relatórios
 
-**Funções apropriadas:** visualizador de relatório executivo | Visualizador de relatório
+**Funções apropriadas**: Visualizador de relatórios executivos | Visualizador de relatórios
 
 ## <a name="introduction"></a>Introdução
 
-O hub Baixar Relatórios no painel insights permite exportar os conjuntos de dados brutos que capacitam os relatórios do Partner Center Insights, no formato TSV (valor separado por tabulação). Isso permite que você faça uma análise mais profunda sobre os dados, com base nas necessidades de negócios.
+O Hub baixar relatórios no painel do insights permite que você exporte os conjuntos de dados brutos que capacitam os relatórios de informações do Partner Center, no formato TSV (valor separado por tabulação). Isso permite que você faça uma análise mais profunda dos dados, com base nas necessidades de negócios.
 
-Depois de gerado, o relatório  estará disponível na seção Relatórios gerados para baixar e analisar usando ferramentas como o Microsoft Excel.
+Depois de gerado, o relatório estará disponível na seção **relatórios gerados** para você baixar e analisar usando ferramentas como o Microsoft Excel.
 
 **Criar novo relatório**
 
-Para gerar um relatório, primeiro selecione o relatório **na** listada Selecionar relatório. Em seguida, selecione o intervalo de datas na lista suspenso Selecionar **intervalo de** datas. Selecione **Gerar**. O relatório será gerado no formato TSV (valor separado por tabulação)  e estará disponível para download na seção Relatórios gerados em alguns minutos. Os relatórios gerados durante os 14 dias anteriores estarão disponíveis para download.
+Para gerar um relatório, primeiro selecione o relatório na lista suspensa **selecionar relatório** . Em seguida, selecione o intervalo de datas na lista suspensa **selecionar intervalo de datas** . Selecione **Gerar**. O relatório será gerado no formato TSV (valor separado por tabulação) e estará disponível para download na seção **relatórios gerados** em alguns minutos. Os relatórios gerados durante os 14 dias anteriores estarão disponíveis para download.
 
-:::image type="content" source="images/pci/create-new-report.png" alt-text="Criar novo relatório":::
+:::image type="content" source="images/pci/create-new-report.png" alt-text="Criar novo relatório.":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="Relatórios gerados":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="Relatórios gerados.":::
 
 >[!NOTE] 
->Somente os usuários que são visualizadores de relatórios executivos podem baixar relatórios. Para obter mais informações sobre o acesso baseado em função aos relatórios do painel insights, consulte funções [PCI](pci-roles.md). 
+>Somente os usuários que são visualizadores de relatórios executivos podem baixar relatórios. Para obter mais informações sobre o acesso baseado em função aos relatórios do painel do insights, consulte [funções de PCI](pci-roles.md). 
 
 ## <a name="available-reports"></a>Relatórios disponíveis
 
-Os seguintes relatórios estão disponíveis para download:
+Os relatórios a seguir estão disponíveis para download:
 
-**O perfil** de parceiro fornece os detalhes relacionados ao parceiro. Detalhes como ID de Parceiro, Nome do parceiro, cidade do parceiro e país do parceiro estão disponíveis no relatório. Nenhuma agregação ou lookback será aplicável a este relatório.
+**Perfil de parceiro** fornece os detalhes relacionados ao parceiro. Detalhes como ID de parceiro, nome do parceiro, cidade do parceiro e país do parceiro estão disponíveis no relatório. Nenhuma agregação ou lookback será aplicável para este relatório.
 
-**Os detalhes** do cliente fornece os detalhes dos clientes associados a um Parceiro. Ele também fornece métricas-chave como licenças vendidas, ACR agregado e assim por diante. O relatório é agregado mensalmente.
+Os **detalhes do cliente** fornecem os detalhes dos clientes aos quais um parceiro está associado. Ele também fornece métricas-chave como licenças vendidas, ACR agregado e assim por diante. O relatório é agregado mensalmente.
 
 **Detalhes de assinaturas** fornece os detalhes das assinaturas vendidas ou gerenciadas pelo parceiro, juntamente com as informações do cliente. O relatório é agregado mensalmente.
 
@@ -57,11 +57,11 @@ O **uso do Azure** fornece os detalhes de uso do Azure. Esses detalhes são para
 
 **Power bi-o uso de licença** fornece os detalhes de uso de Power bi licenças vendidas ou gerenciadas pelo parceiro. Ele também fornece informações de clientes e métricas-chave, como MAU (usuários ativos mensais), direitos qualificados e assim por diante. O relatório é agregado mensalmente.
 
-Os treinamentos fornece detalhes como exames, certificações, avaliações, **faixas, cursos** concluídos ou preenchidos por funcionários do parceiro.
+Os **treinamentos** fornecem detalhes como exames, certificações, avaliações, faixas, cursos concluídos ou consumidos por funcionários do parceiro.
 
-**Microsoft Learn** fornece os detalhes sobre os módulos, detalhes de conclusão do caminho de aprendizagem, juntamente com os detalhes do usuário para o parceiro.
+**Microsoft Learn** fornece os detalhes sobre os módulos, detalhes de conclusão de roteiro de aprendizagem junto com os detalhes do usuário para o parceiro.
 
-**Competências – o resumo** e o histórico fornece detalhes de todas as competências que estão ativas, em andamento ou em risco para esse Parceiro. Também inclui o histórico de todas as competências alcançadas pelo parceiro.
+**Competências – Resumo e histórico** fornece detalhes de todas as competências que estão ativas, em andamento ou em risco para esse parceiro. Também inclui o histórico de todas as competências obtidas pelo parceiro.
 
-**Competências – detalhes de** desempenho fornece detalhes sobre como o parceiro está se saindo em relação aos KPIs para alcançar um determinado conjunto de competências.
+**Competências – detalhes de desempenho** fornece detalhes sobre como o parceiro está fazendo em relação aos KPIs para alcançar um determinado conjunto de competências.
 

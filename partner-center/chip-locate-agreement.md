@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64dbbbae0087275fa8d0c5fd4f364079623efe63
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 288e4ebb224d3ff1b0d4050691b733e678ec29a3
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148985"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276922"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Localizar a contagem de desktops e o nível de taxas para um contrato
 
@@ -47,34 +47,34 @@ Você pode fazer logo [explore.ms](https://www.explore.ms/) para revisar o contr
 
 | Nível de taxa | Contagem de área de trabalho |
 | ------ | :-----------: |
-|  A | 0 – 2,399    |
+|  Um | 0 – 2,399    |
 |  B | 2,400 – 5,999    |
 |  C | 6,000 – 14,999    |
-|  D | 15000 +   |
+|  D | 15,000+   |
 
 >[!NOTE]
->Os níveis de incentivos empresariais são baseados na contagem de área de trabalho ou de usuário (o que for maior) em registros de PS (setor público) e comerciais. Para registros sem contagem de desktops ou usuários associados naturais, a Microsoft aplica uma contagem de área de trabalho com base na contagem de desktops ou na contagem de usuários do EA que o acompanha. <br><br>Se não houver EA acompanhante, o nível de taxa será baseado no nível de preço do registro. O nível de preço do negócio também pode ser exibido em [www.Explore.ms](https://www.explore.ms/). <br><br>Se houver vários níveis de preço e/ou de pool no EA/EAS existente, a Microsoft pagará incentivos no nível de preço/pool mais alto atribuído, com nível um sendo o mais baixo e o nível D sendo o mais alto.
+>Os níveis de Incentivo Empresarial são baseados na contagem de usuários ou área de trabalho (o que for maior) em registro de PS (Setor Comercial e Público). Para os registro sem nenhuma contagem de usuários ou área de trabalho associada natural, a Microsoft aplica uma contagem de área de trabalho com base na contagem de área de trabalho ou na contagem de usuários do EA que o acompanha. <br><br>Se não houver nenhum EA que o acompanhe, o Nível de Taxa será baseado no nível de preço do registro. O nível de preço da oferta também pode ser exibido [www.explore.ms](https://www.explore.ms/). <br><br>Se houver vários níveis de pool e/ou preços no EA/EAS existente, a Microsoft pagará incentivos no nível de preço/pool atribuído mais alto, com o nível A sendo o mais baixo e o nível D o mais alto.
 
-#### <a name="pool-and-pricing-levels"></a>Níveis de preço e de pool
+#### <a name="pool-and-pricing-levels"></a>Pool e níveis de preços
 
-Depois de procurar o número do contrato em explore.ms usando as etapas descritas acima, selecione o número do contrato. Isso levará você à página de detalhes do contrato, que mostrará o **Resumo do contrato** e as **ofertas**. A seção ofertas contém os níveis de preços.
+Depois de pesquisar o número do contrato explore.ms as etapas descritas acima, selecione o número do contrato. Isso levará você para a página de detalhes do contrato, que mostrará o Resumo **do Contrato** e **as Ofertas**. A seção de ofertas contém os níveis de preço.
 
-## <a name="method-2---chip"></a>Método 2-CHIP
+## <a name="method-2---chip"></a>Método 2 – CHIP
 
-1. Entre no CHIP e selecione incentivos de LSP.
+1. Entre no CHIP e selecione Incentivos LSP.
 
-2. Na página **Resumo de pagamento do parceiro** , selecione o mês de relatório que você deseja exibir e, em seguida, selecione **detalhes de cálculo** na lista suspensa em **exportar para o Excel**:
+2. Na página **Resumo do Pagamento do** Parceiro, selecione o  mês de relatório que você deseja exibir e, em seguida, selecione Detalhes de Cálculo na lista suspenso em Exportar para **o Excel:**
 
-:::image type="content" source="images/chip/chiplocate.png" alt-text="Localizar detalhes do programa":::
+:::image type="content" source="images/chip/chiplocate.png" alt-text="Localize os detalhes do programa.":::
 
-3. A exportação será iniciada e você poderá abrir o arquivo ou salvar/salvar como em um destino.
+3. A exportação será iniciar e você poderá abrir o arquivo ou salvar/salvar como em um destino.
 
-4. Quando o relatório estiver aberto, navegue até a guia **DetailReport-Flatfile** no canto inferior esquerdo:
+4. Quando o relatório estiver aberto, navegue até a **guia DetailReport-FlatFile** na parte inferior inferior esquerda:
 
-:::image type="content" source="images/chip/flatfile.png" alt-text="Download de arquivo simples":::
+:::image type="content" source="images/chip/flatfile.png" alt-text="Download de arquivo simples.":::
 
-Agora você pode pesquisar o número do contrato que está procurando na coluna J. você encontrará a contagem de área de trabalho atribuída na coluna R, rotulada Agreement_DesktopCount. Você também pode confirmar o nível de taxa deste contrato na camada rotulada da coluna ' AI '.
+Agora você pode pesquisar o número do contrato que está procurando na coluna J e encontrará a contagem de área de trabalho atribuída na coluna R, rotulada como Agreement_DesktopCount. Você também pode confirmar o Nível de Taxa para este contrato na coluna 'IA' rotulada Camada.
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Solucionar problemas de acesso ao CHIP](chip-access-trouble.md)
+- [Solucionar problemas de acesso do CHIP](chip-access-trouble.md)

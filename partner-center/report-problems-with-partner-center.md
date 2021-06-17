@@ -1,65 +1,65 @@
 ---
-title: Partner Center de diagnóstico e solicitações do portal
+title: Ferramenta de diagnóstico e solicitações do portal do Partner Center
 ms.topic: how-to
 ms.date: 11/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Saiba como relatar problemas com o Partner Center e como coletar informações de diagnóstico para a equipe de Suporte do Parceiro.
+description: Saiba como relatar problemas com o Partner Center e como coletar informações de diagnóstico para a equipe de suporte do parceiro.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d71d3efe10d38cfc0b5ce8dd60c3c51e2be9f1b
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 07ff4df4b6d91b84af40e9b2b32d991f4ad09062
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855600"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277786"
 ---
-# <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Partner Center de diagnóstico e solicitações do portal
+# <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Ferramenta de diagnóstico e solicitações do portal do Partner Center
 
-**Aplica-se a**: Partner Center | Partner Center for Microsoft Cloud for US Government
+**Aplica-se a**: Partner Center | Partner Center para Microsoft Cloud do governo dos EUA
 
-**Funções apropriadas:** todos os parceiros interessados em Partner Center
+**Funções apropriadas**: todos os parceiros interessados no Partner Center
 
-Todos os usuários conectados Partner Center podem criar uma solicitação de suporte de parceiro. Os usuários só podem exibir as solicitações de suporte enviadas depois de fazer logo Partner Center.
-Entre em Partner Center suporte se você encontrar problemas ou precisar de ajuda com Partner Center do portal. Envie diagnóstico para permitir que o problema seja corrigido mais rapidamente.
+Todos os usuários registrados no Partner Center podem criar uma solicitação de suporte de parceiro. Os usuários só podem exibir as solicitações de suporte que foram enviadas após o logon no Partner Center.
+Contate o suporte do Partner Center se você encontrar problemas ou precisar de ajuda com erros do portal do Partner Center. Envie diagnóstico para permitir que o problema seja corrigido mais rapidamente.
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Relatar um problema com o Partner Center
 
-1. No painel **Partner Center,** selecione Suporte **e,** em seguida, selecione **Solicitações de suporte do parceiro**.
+1. No painel do **Partner Center** , selecione **suporte** e, em seguida, selecione **solicitações de suporte do parceiro**.
 
-2. Selecione **Nova solicitação** e pesquise o tipo de problema que melhor descreve o problema. Selecione o tipo de problema e **Revise as soluções**.
+2. Selecione **nova solicitação** e procure o tipo de problema que melhor descreva seu problema. Selecione o tipo de problema e **examine as soluções**.
 
-3. Revise a **página Soluções recomendadas** para ver as etapas ou documentos relacionados que podem ajudá-lo a resolver o problema.
+3. Examine a página **soluções recomendadas** para ver as etapas ou os documentos relacionados que podem ajudá-lo a resolver seu problema.
 
-4. Se as **soluções recomendadas** resolverem o problema, você poderá selecionar **retornar ao Painel**. Se você ainda precisar de ajuda, poderá continuar e Fornecer **detalhes do problema.**
+4. Se as **soluções recomendadas** resolverem o problema, você poderá selecionar **retornar ao painel**. Se você ainda precisar de ajuda, poderá continuar e **fornecer detalhes do problema**.
 
-5. Conclua os **detalhes do problema** e, em **seguida, Envie**. Um representante do Suporte do Parceiro entrará em contato com você.
+5. Preencha os **detalhes do problema** e **envie**. Um representante do Suporte do Parceiro entrará em contato com você.
 
 ## <a name="schedule-a-support-appointment"></a>Agendar um compromisso de suporte 
 
-**Atualmente em versão prévia*
+**Atualmente em visualização*
 
-Se o problema exigir uma conversa com seu defensor de suporte, você poderá agendar o compromisso com os detalhes do tíquete.
+Se o problema exigir uma conversa com o defensor do suporte, você poderá agendar o compromisso nos detalhes do seu tíquete.
 
-:::image type="content" source="images/support/ticket.png" alt-text="Agendar um compromisso de suporte":::
+:::image type="content" source="images/support/ticket.png" alt-text="Agendar um compromisso de suporte.":::
 
 1.  Na página detalhes do tíquete no Partner Center, selecione uma data e hora disponíveis no calendário do defensor do suporte. Você verá apenas as datas e os horários disponíveis em seu fuso horário local.
 
-:::image type="content" source="images/support/ticket2.png" alt-text="Agendar compromisso":::
+:::image type="content" source="images/support/ticket2.png" alt-text="Agendar compromisso.":::
 
 2. O Partner Center verifica a disponibilidade do calendário do defensor do suporte.
 
 1. Quando você agenda um compromisso, o Partner Center envia a você um convite de calendário com informações sobre como o defensor do suporte entrará em contato com você, para que você possa acompanhar esse compromisso em seu próprio calendário de trabalho.  Embora essa funcionalidade ainda esteja em versão prévia, o convite por email e calendário estará em inglês, mas o defensor será capaz de dar suporte a você no idioma que você selecionou ao criar seu tíquete.
 
-:::image type="content" source="images/support/ticket3.png" alt-text="Data e Hora":::
+:::image type="content" source="images/support/ticket3.png" alt-text="Data e hora.":::
 
 ## <a name="hours-of-operation"></a>Horas de operação
 
 **Suporte a parceiros**
 
-:::image type="content" source="images/support/hoop.png" alt-text="Horas de suporte da operação":::
+:::image type="content" source="images/support/hoop.png" alt-text="Horas de suporte da operação.":::
 
 ## <a name="send-diagnostics"></a>Enviar diagnóstico
 

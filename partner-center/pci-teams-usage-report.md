@@ -1,25 +1,25 @@
 ---
-title: Relatório de uso de equipes do Partner Center insights
+title: Relatório de uso das equipes de insights do Partner Center
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Veja o que você está fazendo bem e onde você pode melhorar a respeito do uso de assinaturas de equipes que você vende ou gerencia para seus clientes.
+description: Veja o que você está fazendo bem e onde pode melhorar em relação ao uso de assinaturas do Teams que você vende ou gerencia para seus clientes.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: c4bf8a3aa0365b30d7de56cb599e3db087cb4c05
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 230419aa1142dc8c4dd58dc8effee9678527c923
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855175"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277327"
 ---
-# <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de uso de equipes disponível no painel do Partner Center insights
+# <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de uso do Teams disponível no painel Partner Center Insights
 
-**Funções apropriadas**: Administração Global | Agente de administração | Visualizador de relatórios | Visualizador de relatórios executivos
+**Funções apropriadas:** administrador global | Agente administrador | Visualizador de | Visualizador de relatório executivo
 
-O relatório uso de equipes apresenta métricas relacionadas às suas cargas de trabalho de equipes que você vendeu ou gerencia para seus clientes. Você pode exibir as seções a seguir no relatório uso de equipes.
+O relatório Uso do Teams apresenta métricas relacionadas às cargas de trabalho do Teams que você vende ou gerencia para seus clientes. Você pode exibir as seções a seguir no relatório Uso do Teams.
 
 - Resumo
 - Tendência de conversas
@@ -27,44 +27,44 @@ O relatório uso de equipes apresenta métricas relacionadas às suas cargas de 
 - Principais clientes por uso
 
  > [!NOTE]
- > Esse relatório está disponível no painel de informações. Para exibir esse relatório, você deve ser atribuído a uma função específica no Partner Center, como administrador global, administrador da conta, visualizador de relatórios ou Visualizador de relatórios do Executive. Para obter mais informações, consulte o administrador global da sua empresa. os tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de visualizador de relatórios executivos.
+ > Este relatório está disponível no painel insights. Para exibir esse relatório, você deve ter uma função específica no Partner Center, como Administrador Global, Administrador da Conta, Visualizador de Relatório ou Visualizador de Relatório Executivo. Para obter mais informações, consulte Administrador Global da sua empresa. Tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de Visualizador de Relatório Executivo.
 
 ## <a name="summary"></a>Resumo
 
-A seção de resumo apresenta uma exibição de instantâneo dos principais indicadores relacionados às cargas de trabalho das equipes vendidas ou gerenciadas por você para seus clientes.  
+A seção de resumo apresenta uma exibição de instantâneo dos principais indicadores relacionados às cargas de trabalho do Teams vendidas ou gerenciadas por você para seus clientes.  
 
-- Clientes: contagem distinta de clientes usando equipes como uma carga de trabalho para a duração selecionada.
+- Clientes: contagem distinta de clientes que usam o Teams como uma carga de trabalho durante a duração selecionada.
 
-- Contagem de reuniões: número de reuniões de equipes conduzidas por seus clientes.
+- Contagem de reuniões: número de reuniões do Teams realizadas por seus clientes.
 
-- Contagem média diária de reuniões por cliente: contagem média diária de reuniões por cliente. 
+- Contagem média diária de reunião por cliente: contagem média diária de reunião por cliente. 
 
 - Duração da reunião (horas): duração total da reunião em horas. 
 
 - Duração média da reunião (minutos): duração média da reunião em minutos. 
 
-:::image type="content" source="images/pci/pci-teams-usage-summary.png" alt-text="Resumo de uso de equipes":::
+:::image type="content" source="images/pci/pci-teams-usage-summary.png" alt-text="Resumo de uso do Teams.":::
 
 ## <a name="conversations-trend"></a>Tendência de conversas
 
-O relatório tendência de conversas mostra a tendência mensal de reuniões, chamadas e sistemas de telefone da equipe, juntamente com a duração média da reunião em minutos.
+O relatório tendência Conversas mostra a tendência mensal de reuniões, chamadas e sistemas de telefone do Teams, juntamente com a duração média da reunião em minutos.
 
-:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="tendências de conversa de uso de equipes":::
+:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="tendências de conversa de uso do teams.":::
 
 ## <a name="teams-usage-by-workloads"></a>Uso de equipes por cargas de trabalho
 
-O relatório uso de equipes por cargas de trabalho mostra a divisão mensal de desktops, móveis e usuários da Web de equipes divididas por cargas de trabalho.
+O relatório Uso do Teams por cargas de trabalho mostra a divisão mensal de usuários da área de trabalho, móveis e da Web do Teams divididos por cargas de trabalho.
 
-:::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Uso de equipes por cargas de trabalho":::
+:::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Uso de equipes por cargas de trabalho.":::
 
 ## <a name="top-customers-by-usage"></a>Principais clientes por uso
 
-O relatório principais clientes por uso mostra o uso de principais clientes para reuniões de equipes, chamadas e sistemas de telefone e aplicativos de terceiros.
+O relatório Principais clientes por uso mostra o uso dos principais clientes para reuniões, chamadas e sistemas de telefone do Teams e aplicativos de terceiros.
 
-:::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Principais clientes por uso":::
+:::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Principais clientes por uso.":::
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- Para obter mais relatórios, consulte os [insights do Partner Center](partner-center-insights.md).
+- Para obter mais relatórios, [consulte Partner Center Insights.](partner-center-insights.md)
 
-- Você pode baixar os dados brutos, capacitando esse relatório na seção baixar relatórios no painel do insights. [Saiba mais](pci-download-reports.md) 
+- Você pode baixar os dados brutos que agem neste relatório na seção Baixar Relatórios no painel Insights. [Saiba mais](pci-download-reports.md) 

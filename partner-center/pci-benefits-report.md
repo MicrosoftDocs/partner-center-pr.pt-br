@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 488d5641422de3036cb36818c0aa21bdc81a3628
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 94b8c493689130ff2e61331495d4dee9f0e1d06e
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152538"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277582"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de benefícios disponível no painel Partner Center Insights
 
@@ -22,7 +22,7 @@ ms.locfileid: "110152538"
 
 Como parceiro da Microsoft, você pode acessar uma série de benefícios que usam a tecnologia e as inovações mais recentes para ajudá-lo a aprimorar as habilidades da sua equipe, melhorar a eficiência e expandir seus negócios. Os pacotes de benefícios incluem: alocações de software licenciado, serviços de nuvem, Visual Studio assinaturas e suporte. Esses pacotes também podem incluir determinados recursos, ofertas e programas go-to-market. O relatório Benefícios apresenta tendências dos benefícios que você acessou e seu uso durante o intervalo de datas selecionado.
 
-:::image type="content" source="images/pci/pci-benefits-intro-1.png" alt-text="visão geral da página de benefícios":::
+:::image type="content" source="images/pci/pci-benefits-intro-1.png" alt-text="visão geral da página de benefícios.":::
 
 Você pode visualizar os seguintes gráficos no relatório Benefícios:
 
@@ -42,44 +42,44 @@ A seção Resumo apresenta os benefícios concedidos em termos de software licen
 
 Exemplo: Microsoft Partner Network membros do MPN (parceiros associados) são qualificados para suporte técnico de produtos locais e produtos de nuvem. Os parceiros que atingem a competência Silver têm suporte técnico para 15 incidentes para produtos locais. Eles podem consumir esse suporte conforme necessário. 
 
-:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="resumo de benefícios":::
+:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="resumo de benefícios.":::
 
 ## <a name="cloud-services-granted"></a>Serviços de nuvem concedidos
 
-Este gráfico apresenta a tendência mensal de licenças concedidas durante o intervalo de datas selecionado para assinaturas baseadas em licenças do serviço de nuvem selecionado.
-Selecione um serviço de nuvem na guia **Serviços** para exibir o gráfico de um serviço de nuvem específico. O grafo de linha representa as licenças gerais concedidas à sua empresa.
+Este gráfico apresenta a tendência mensal de licenças concedidas durante o intervalo de datas selecionado para assinaturas baseadas em licença do serviço de nuvem selecionado.
+Selecione um serviço de nuvem na **guia Serviços** para exibir o gráfico de um serviço de nuvem específico. O grafo de linha representa as licenças gerais concedidas à sua empresa.
 
-:::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="serviços de nuvem concedidos":::
+:::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="serviços de nuvem concedidos.":::
 
 ## <a name="software-products"></a>Produtos de software
 
-Este gráfico apresenta a tendência mensal de licenças concedidas durante o intervalo de datas selecionado para um produto de software específico. Selecione um produto de software na lista suspensa na parte superior do gráfico para exibir a tendência de um produto de software específico que você recebe como benefícios. O grafo de linha representa as licenças gerais concedidas à sua empresa.
+Este gráfico apresenta a tendência mensal de licenças concedidas durante o intervalo de datas selecionado para um produto de software específico. Selecione um produto de software na lista suspenso na parte superior do gráfico para exibir a tendência de um produto de software específico que você recebeu como benefícios. O grafo de linha representa as licenças gerais concedidas à sua empresa.
 
-:::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="produtos de software concedidos":::
+:::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="produtos de software concedidos.":::
 
 ## <a name="visual-studio-subscriptions"></a>Assinaturas do Visual Studio
 
-Este gráfico apresenta a tendência mensal de assinaturas do Visual Studio ativadas em relação a assinaturas que foram alocadas durante o intervalo de datas selecionado.
+Este gráfico apresenta a tendência mensal de Visual Studio assinaturas ativadas em assinaturas que foram alocadas durante o intervalo de datas selecionado.
 
-Selecione uma guia na parte superior do gráfico para exibir a tendência de uma assinatura específica do Visual Studio que você recebeu como benefícios. As colunas no gráfico representam as licenças consumidas para a assinatura. O grafo de linha representa as licenças gerais atribuídas para a assinatura.
+Selecione uma guia na parte superior do gráfico para exibir a tendência de uma assinatura Visual Studio específica que você recebeu como benefícios. As colunas no gráfico representam licenças consumidas para a assinatura. O grafo de linha representa as licenças gerais atribuídas para a assinatura.
 
-:::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Assinaturas do Visual Studio":::
+:::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Visual Studio assinaturas.":::
 
 ## <a name="technical-benefits"></a>Benefícios técnicos
 
-Este gráfico apresenta a tendência mensal de benefícios de suporte concedidos durante o intervalo de datas selecionado.
+Este gráfico apresenta a tendência mensal de Benefícios de suporte concedidos durante o intervalo de datas selecionado.
 
 Selecione uma guia na parte superior do gráfico para exibir a tendência de um benefício de suporte específico que você recebeu. O grafo de linha representa as horas gerais de suporte atribuídas para o benefício de suporte selecionado.
 
-:::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="benefícios técnicos":::
+:::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="benefícios técnicos.":::
 
-## <a name="go-to-market-offers-or-services"></a>Ofertas de lançamento no mercado ou serviços
+## <a name="go-to-market-offers-or-services"></a>Ofertas ou serviços go-to-market
 
-Este gráfico apresenta a tendência mensal de ofertas de lançamento no mercado ou serviços ativados em relação ao alocados durante o intervalo de datas selecionado e para uma oferta do serviço de lançamento de mercado ou categoria de serviços selecionada.
+Este gráfico apresenta a tendência mensal de ofertas ou serviços go-to-market ativados em relação a alocados durante o intervalo de datas selecionado e para uma oferta ou categoria de serviço Go-To-Market selecionada.
 
-Selecione uma oferta de entrada no mercado ou categoria de serviço na lista suspensa na parte superior do gráfico para exibir a tendência dos serviços de entrada para o mercado selecionados concedidos à sua empresa. As colunas no gráfico representam ofertas de Go-To-Market ou serviços ativados. O grafo de linha representa as ofertas gerais de Go-To-Market ou os serviços concedidos à sua empresa.
+Selecione uma oferta de Go-To-Market ou uma categoria de serviço na lista suspenso na parte superior do gráfico para exibir a tendência dos serviços de Go-To-Market selecionados concedidos à sua empresa. As colunas no gráfico representam ofertas de Go-To-Market ou serviços ativados. O grafo de linha representa as ofertas gerais de Go-To-Market ou os serviços concedidos à sua empresa.
 
-:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Ofertas go-to-market":::
+:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Ofertas do Go-To-Market.":::
 
 ## <a name="next-steps"></a>Próximas etapas
 

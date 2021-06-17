@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5efd157078acd72ca47418aaa9559a678fc5b129
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 21042169a33d9a413f17f951c4daad0c5fc86a17
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151161"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277667"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>O que fazer se o único administrador do programa MPN tiver deixado a empresa?
 
@@ -38,7 +38,7 @@ Se você acessar  a página Gerenciamento de Usuários e filtrar para Administra
 1. Selecione a **opção Ajuda +** Suporte na barra de navegação do menu à esquerda.
 1. Na próxima página, selecione Novo **Solicitação de suporte** e Tipo de Problema Técnico no menu suspenso, insira quaisquer detalhes adicionais e clique em  **Próximo: Soluções.**
 
-:::image type="content" source="images/accountsettings/adminfinder.png" alt-text="Localizar o administrador no portal do Azure":::
+:::image type="content" source="images/accountsettings/adminfinder.png" alt-text="Localize o administrador portal do Azure.":::
 
 4. Depois de revisar as Soluções recomendadas na próxima página, selecione **Próximo: Detalhes** e preencha os campos necessários.
 1. Revise e crie a solicitação de suporte.

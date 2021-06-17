@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb2488f9a82e261997703c22bca7c3cd9e761db0
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: f10de32f544c74d5d751a66fbc2ba6c4d4cb7fba
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150651"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276528"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>O Partner Center tem dois níveis de contas para parceiros MPN
 
@@ -39,8 +39,8 @@ Seu PGA pode ter locais de negócios adicionais sob ele. Cada local tem sua pró
 - Todas as contas de local estão no mesmo nível e na conta global do parceiro.
 - Os administradores de contas podem adicionar locais.
 
-:::image type="content" source="images/accountstructure.png" alt-text="Estrutura da conta" border="false":::
+:::image type="content" source="images/accountstructure.png" alt-text="Estrutura de conta." border="false":::
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- Para obter mais informações sobre como gerenciar locais, leia [Gerenciar sua conta de parceiro: Locais](manage-locations.md).
+- Para obter mais informações sobre como gerenciar locais, leia [gerenciar sua conta de parceiro: locais](manage-locations.md).

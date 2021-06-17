@@ -1,55 +1,55 @@
 ---
-title: Painel de visão geral de informações do Partner Center
+title: painel Partner Center Visão geral do Partner Center Insights
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Veja um instantâneo de como você está fazendo com vendas e implantação, crescimento do cliente e crescimento da receita com licenças, assinaturas e consumo do Azure.
+description: Veja um instantâneo de como você está fazendo com vendas e implantação, crescimento do cliente e crescimento de receita com licenças, assinaturas e consumo do Azure.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e274b0a637c7fd4944a395ba7e38154e36d2a9e3
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: aea78f2a9b60f5d8adcc7962d15749479424c9f1
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855192"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277480"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Visão geral dos relatórios do painel disponíveis em Insights do Partner Center
  
-**Funções apropriadas**: Administração Global | Agente de administração | Visualizador de relatórios | Visualizador de relatórios executivos
+**Funções apropriadas:** administrador global | Agente administrador | Visualizador de | Visualizador de relatório executivo
 
-O painel Visão geral do insights fornece uma exibição de instantâneo dos principais indicadores de desempenho, como clientes, assinaturas, receita de consumo do Azure e licenças. Você pode visualizar os gráficos a seguir no relatório de visão geral.
+O painel Visão geral do Insights fornece uma exibição de instantâneo dos Principais indicadores de desempenho, como Clientes, Assinaturas, Receita de Consumo do Azure e Licenças. Você pode visualizar os gráficos a seguir no relatório Visão geral.
 
 - Resumo  
 - Distribuição geográfica de seus clientes, assinaturas e licenças  
 - Tendência de crescimento dos clientes 
 - Tendência de crescimento de assinaturas 
-- Tendência de crescimento da receita consumida pelo Azure 
+- Tendência de crescimento da receita consumida do Azure 
 - Tendência de crescimento de licenças 
 
 ## <a name="summary"></a>Resumo
 
-O resumo inclui informações sobre clientes, ACR (receita consumida do Azure), assinaturas vendidas, assinaturas ativas e licenças implantadas. 
+O Resumo inclui informações sobre clientes, Receita Consumida do Azure (ACR), assinaturas vendidas, assinaturas ativas e licenças implantadas. 
 
-:::image type="content" source="images/pci/summary.png" alt-text="Licenças de resumo":::
+:::image type="content" source="images/pci/summary.png" alt-text="Licenças de resumo.":::
 
-Veja a seguir mais informações sobre cada seção do resumo.
+Mais informações sobre cada seção do Resumo a seguir.
 
 ### <a name="customers"></a>Clientes
 
-A área **clientes** inclui:
+A **área** Clientes inclui:
 
 - A contagem atual de todos os clientes com pelo menos uma assinatura ativa associada à sua empresa por meio de diferentes tipos de atribuição e em todos os produtos de nuvem.
-- O percentual de crescimento de clientes durante o intervalo de datas selecionado.
-- O micro gráfico apresenta a tendência mês a mês da contagem de clientes dentro do intervalo de datas selecionado.
+- O percentual de crescimento dos clientes durante o intervalo de datas selecionado.
+- O micro gráfico apresenta a tendência de mês a mês da contagem de clientes dentro do intervalo de datas selecionado.
 
-### <a name="azure-consumed-revenue-acr"></a>Receita consumida do Azure (ACR)
+### <a name="azure-consumed-revenue-acr"></a>Receita Consumida do Azure (ACR)
 
-A área de **receita consumida do Azure (ACR)** no resumo inclui:
+A **Receita Consumida do Azure (ACR)** no Resumo inclui:
 
-- A receita total consumida do Azure (em US $) atribuída a você no intervalo de datas selecionado.
+- O total Receita Consumida do Azure (em US $) atribuído a você no intervalo de datas selecionado.
 - O percentual de crescimento ou diminuição no ACR atribuído (em US $) durante o intervalo de datas selecionado.
 - O micro gráfico apresenta uma tendência mensal de US$ do ACR atribuído a você durante o intervalo de datas selecionado 
 
@@ -82,36 +82,36 @@ A **área Licenças implantadas** no Resumo inclui:
 
 ## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Distribuição geográfica de seus clientes, assinaturas e licenças
 
-Essa exibição é uma distribuição geográfica do total de clientes, assinaturas e licenças por país do cliente. Selecione as diferentes guias para exibir cada uma dessas informações no mapa. Você pode pesquisar e selecionar um país na grade para aplicar zoom ao local no mapa. Reverta para a exibição original pressionando o botão página inicial no mapa. Clicar em cada guia (por exemplo, clientes, assinaturas) mostra o valor da métrica para cada país e a porcentagem do total do país.  
+Essa exibição é uma distribuição geográfica do total de clientes, assinaturas e licenças por país do cliente. Selecione as diferentes guias para exibir cada um desses insights no mapa. Você pode pesquisar e selecionar um país na grade para ampliar o local no mapa. Reverta para a exibição original pressionando o botão Página Inicial no mapa. Clicar em cada guia (por exemplo, Clientes, Assinaturas) mostra o valor da métrica para cada país e o percentual do Total para o país.  
 
-:::image type="content" source="images/pci/geosummary.png" alt-text="Resumo geográfico":::
+:::image type="content" source="images/pci/geosummary.png" alt-text="Resumo geográfico.":::
 
 ## <a name="customers-growth-trend"></a>Tendência de crescimento dos clientes
 
-Tendência mensal de contagens totais de clientes para o intervalo de datas selecionado. O eixo X representa meses do intervalo de datas selecionado e eixo Y representa a contagem total de clientes para esse mês. 
+Tendência mensal do total de contagens de clientes para o intervalo de datas selecionado. O eixo X representa meses do intervalo de datas selecionado e o eixo Y representa a contagem total de clientes para esse mês. 
 
-:::image type="content" source="images/pci/customergrowth.png" alt-text="tendência de crescimento dos clientes":::
+:::image type="content" source="images/pci/customergrowth.png" alt-text="tendência de crescimento dos clientes.":::
 
 ## <a name="subscriptions-growth-trend"></a>Tendência de crescimento de assinaturas
 
-Isso indica a tendência de sua contagem de assinaturas de cliente para o intervalo de datas selecionado. Eixo X representa meses do intervalo de datas selecionado e eixo Y representa a contagem de assinaturas do produto selecionado. Percorra o controle deslizante na parte superior do gráfico para aplicar zoom no gráfico para um período de tempo específico. 
+Isso indica a tendência da contagem de assinaturas do cliente para o intervalo de datas selecionado. O eixo X representa meses do intervalo de datas selecionado e o eixo Y representa a contagem de assinaturas do produto selecionado. Role o controle deslizante na parte superior do gráfico para ampliar o gráfico para um período de tempo específico. 
 
-:::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Tendência de crescimento da assinatura":::
+:::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Tendência de crescimento da assinatura.":::
 
-## <a name="azure-consumed-revenue-growth-trend"></a>Tendência de crescimento da receita consumida pelo Azure
+## <a name="azure-consumed-revenue-growth-trend"></a>Receita Consumida do Azure de crescimento
 
-Tendência mensal de receita consumida pelo Azure US $ atribuída a você no intervalo de datas selecionado. O eixo X representa os meses do intervalo de datas selecionado e o eixo Y representa a receita total consumida do Azure US $ atribuídas a você durante o mês.
+Tendência mensal da receita consumida do Azure US$ atribuída a você durante o intervalo de datas selecionado. O eixo X representa meses do intervalo de datas selecionado e o eixo Y representa a receita total consumida do Azure US$ atribuída a você durante o mês.
 
 > [!NOTE]
-> A receita consumida do Azure (ACR) só ficará visível para os usuários aos quais foi atribuída a função de visualizador de relatórios executivos. 
+> Receita Consumida do Azure (ACR) só estará visível para os usuários que foram atribuídos à Função de Visualizador de Relatório Executivo. 
 
-:::image type="content" source="images/pci/azureconsumed.png" alt-text="Consumo do Azure":::
+:::image type="content" source="images/pci/azureconsumed.png" alt-text="Consumo do Azure.":::
 
 ## <a name="licenses-growth-trend"></a>Tendência de crescimento de licenças
  
 Tendência de licenças atribuídas por todos os clientes durante o intervalo de datas selecionado. O eixo X representa meses do intervalo de datas selecionado e o eixo Y representa a contagem de licenças do produto selecionado. Role o controle deslizante na parte superior do gráfico para ampliar o gráfico para um período de tempo específico.  
 
-:::image type="content" source="images/pci/licensesgrowth.png" alt-text="licenças":::
+:::image type="content" source="images/pci/licensesgrowth.png" alt-text="Licenças.":::
 
 ## <a name="next-steps"></a>Próximas etapas
 

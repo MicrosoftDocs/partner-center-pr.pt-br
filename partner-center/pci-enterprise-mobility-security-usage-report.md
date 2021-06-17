@@ -1,52 +1,52 @@
 ---
-title: Relatório de uso de Enterprise Mobility + Security de informações do Partner Center
+title: Partner Center insights Enterprise Mobility + Security de uso
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Veja o que você está fazendo bem e onde você pode melhorar a respeito do uso de Enterprise Mobility + Security assinaturas que você vende ou gerencia para seus clientes.
+description: Veja o que você está fazendo bem e onde pode melhorar em relação ao uso Enterprise Mobility + Security assinaturas que você vende ou gerencia para seus clientes.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b0784e2d81b4483eb374120be2411729d922a47
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: d230f8abfa01f0c00494af9f626f26fb35b80c1c
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854614"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277820"
 ---
-# <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security relatório de uso disponível no painel do recepções do Partner Center
+# <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security relatório de uso disponível no painel Partner Center Insights
 
-**Funções apropriadas**: Administração Global | Agente de administração | Visualizador de relatórios | Visualizador de relatórios executivos
+**Funções apropriadas:** administrador global | Agente administrador | Visualizador de | Visualizador de relatório executivo
 
-O relatório uso de Enterprise Mobility + Security fornece dados de uso para as assinaturas de Enterprise Mobility + Security que você vendeu ou gerencia para seus clientes. Você pode exibir as seções a seguir no relatório de uso Enterprise Mobility + Security.
+O Enterprise Mobility + Security de uso fornece dados de uso para Enterprise Mobility + Security assinaturas que você vende ou gerencia para seus clientes. Você pode exibir as seções a seguir no relatório Enterprise Mobility + Security uso.
 
 - Resumo
-- Uso de Enterprise Mobility + Security por geografia
-- Uso de Enterprise Mobility + Security por SKU
+- Enterprise Mobility + Security uso por geografia
+- Enterprise Mobility + Security uso por SKU
 - Desempenho de assinaturas
-- Distribuição de uso do Enterprise Mobility + Security
+- Enterprise Mobility + Security de uso
 
  > [!NOTE]
- > Esse relatório está disponível no painel de informações. Para exibir esse relatório, você deve ser atribuído a uma função específica no Partner Center, como administrador global, administrador da conta, visualizador de relatórios ou Visualizador de relatórios do Executive. Para obter mais informações, consulte o administrador global da sua empresa. os tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de visualizador de relatórios executivos.
+ > Este relatório está disponível no painel insights. Para exibir esse relatório, você deve ter uma função específica no Partner Center, como Administrador Global, Administrador da Conta, Visualizador de Relatório ou Visualizador de Relatório Executivo. Para obter mais informações, consulte Administrador Global da sua empresa. Tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de Visualizador de Relatório Executivo.
 
 ## <a name="summary"></a>Resumo
 
-A seção de resumo apresenta uma exibição de instantâneo dos principais indicadores relacionados a assinaturas de uso de Enterprise Mobility + Security que você vendeu ou gerencia para seus clientes. 
+A seção de resumo apresenta uma exibição de instantâneo dos principais indicadores relacionados Enterprise Mobility + Security assinaturas de uso que você vende ou gerencia para seus clientes. 
 
-- Novas assinaturas: o número total de assinaturas vendidas ou gerenciadas durante o período de tempo selecionado.
+- Novas assinaturas: número total de assinaturas vendidas ou gerenciadas durante o período selecionado.
 
-   O micro Chart apresenta uma tendência mês a mês da nova assinatura para o intervalo de datas selecionado.
+   O micro gráfico apresenta uma tendência de mês a mês da nova assinatura para o intervalo de datas selecionado.
 
-- Estações disponíveis: o número total de licenças vendidas durante o período de tempo selecionado.
+- Lugares disponíveis: número total de licenças vendidas durante o período selecionado.
 
    O micro gráfico apresenta uma tendência de mês a mês da contagem de estações disponíveis durante o intervalo de datas selecionado.
 
-- Uso ativo mensal: número de licenças que foram usadas durante o mês anterior.
+- Uso Ativo Mensal: número de licenças que foram usadas durante o mês anterior.
 
-   O micro Chart apresenta uma tendência mensal de licenças usadas no período de tempo selecionado.
+   O micro gráfico apresenta uma tendência mensal de licenças usadas durante o período selecionado.
 
-:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="Resumo de uso do EMS":::
+:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="Resumo de uso do EMS.":::
 
 ## <a name="enterprise-mobility--security-usage-by-geography"></a>Enterprise Mobility + Security uso por geografia
 
@@ -56,28 +56,28 @@ A **tabela Número de países/regiões** apresenta o total de países/regiões e
 
 Você pode pesquisar e selecionar um país na grade para ampliar o local no mapa. Selecione a **opção** Página Inicial no mapa para reverter para a exibição original.
 
-:::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="Uso do EMS por geografia":::
+:::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="Uso do EMS por geografia.":::
 
 ## <a name="enterprise-mobility--security-usage-by-sku"></a>Enterprise Mobility + Security uso por SKU
 
 O Enterprise Mobility + Security uso por SKU descreve o detalhamento mensal de MAU e PAU por SKUs.
 
-:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="Uso do EMS por SKU":::
+:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="Uso do EMS por SKU.":::
 
 ## <a name="subscriptions-performance"></a>Desempenho de assinaturas
 
 O desempenho de Assinaturas ilustra o detalhamento de MAU e PAU por SKUs por assinatura do cliente. Os dados dos 100 principais clientes por receita cobrada são mostrados na tabela e você pode pesquisar qualquer cliente ou baixar os dados brutos para exibir detalhes de todos os clientes.
 
-:::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="Desempenho da assinatura do EMS":::
+:::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="Desempenho da assinatura do EMS.":::
 
 ## <a name="enterprise-mobility--security-usage-distribution"></a>Enterprise Mobility + Security de uso
 
 A Enterprise Mobility + Security de uso mostra o detalhamento de PAU e assinaturas por SKUs.
 
-:::image type="content" source="images/pci/pci-ems-usage-distribution.png" alt-text="Distribuição de uso do EMS":::
+:::image type="content" source="images/pci/pci-ems-usage-distribution.png" alt-text="Distribuição de uso do EMS.":::
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- Para obter mais relatórios, consulte os [insights do Partner Center](partner-center-insights.md).
+- Para obter mais relatórios, [consulte Partner Center Insights.](partner-center-insights.md)
 
-- Você pode baixar os dados brutos, capacitando esse relatório na seção baixar relatórios no painel do insights. [Saiba mais](pci-download-reports.md) 
+- Você pode baixar os dados brutos que agem neste relatório na seção Baixar Relatórios no painel Insights. [Saiba mais](pci-download-reports.md) 
