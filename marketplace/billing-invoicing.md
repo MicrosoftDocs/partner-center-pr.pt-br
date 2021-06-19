@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 0d03554f96acf6cd2953d3b968192ffbb23185ce
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: d45d301abfea03e06a8fc67e759012d4275d7dec
+ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412600"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "112373449"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Cobrança e faturamento do Azure Marketplace
 
@@ -47,6 +47,9 @@ Você será cobrado pelas compras recorrentes no período em que você a comprou
 
 >[!NOTE]
 > O período de serviço é o período para o qual você pagou usar o serviço. Ele será renovado automaticamente no e do período de serviço, a menos que você cancele com antecedência.
+
+> [!NOTE]
+> Vamos ajustar para o último dia do mês de cobrança se a data do mês de renovação não puder ser igual à data do mês de compra. Ou seja, se alguém se inscrever em 1/31, a data de término da cobrança de fevereiro será 2/27, com o novo período de cobrança a partir de 2/28 (2/28 e 2/29 se for iniciado em um ano bissexto).
 
 ## <a name="invoices"></a>Faturas
 
