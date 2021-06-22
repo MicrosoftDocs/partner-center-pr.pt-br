@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f4af8c48e2bbe65f58549b542447c80b699332be
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 2b67201355e748f9280d28413a8737a9b07db5c6
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818789"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431497"
 ---
 # <a name="troubleshoot-sign-in-issues-for-partner-center"></a>Solucionar problemas de login para Partner Center
 
@@ -26,7 +26,7 @@ Este artigo contém soluções para problemas comuns de Partner Center.
 
 Se você esqueceu sua senha e não pode entrar no Partner Center, entre em contato com o Suporte. Encontre o contato apropriado em Suporte [para produtos de negócios.](/microsoft-365/admin/contact-support-for-business-products)
 
-Se você for um parceiro do MPN, peça ao administrador global para criar uma nova senha para você. Se você for um revendedor indireto do CSP, peça ao seu provedor indireto para criar um novo administrador global para você em seu locatário do Azure AD ou crie uma nova senha para você usando seus privilégios de administrador delegados.
+Se você for um parceiro Microsoft Partner Network (MPN), peça ao administrador global para criar uma nova senha para você. Se você for um revendedor indireto Provedor de Soluções na Nuvem (CSP), peça ao seu provedor indireto para criar um novo administrador global para você em seu locatário do Azure Active Directory (AD) ou crie uma nova senha para você usando seus privilégios de administrador delegado.
 
 Para saber mais sobre como redefinir sua senha e recuperar o acesso à sua conta de trabalho, leia Redefinir sua senha de trabalho ou [de estudante usando informações de segurança](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password).
 
@@ -37,11 +37,11 @@ O acesso às páginas Partner Center é controlado pelas funções atribuídas. 
 Se você não conseguir exibir ou gerenciar as competências, clientes, incentivos ou usuários esperados, experimente as seguintes soluções:
 
 - Para acesso aos recursos do MPN, do CSP e das indicações, entre em contato com o administrador global ou o administrador da conta. Para saber mais sobre as funções e as tarefas que elas habilitam no Partner Center, consulte Atribuir funções [& permissões aos usuários.](permissions-overview.md)
-- Para obter acesso aos recursos do Marketplace comercial e do Windows & Xbox, Office Store, Microsoft Edge e programas de desenvolvedores de hardware, entre em contato com a pessoa na função de proprietário ou gerente em sua organização. Para saber mais sobre funções e permissões, consulte [como gerenciar uma conta do Marketplace comercial no Microsoft Partner Center](/azure/marketplace/partner-center-portal/manage-account#define-user-roles-and-permissions).
+- Para acessar os recursos do Marketplace Comercial e os programas de desenvolvedor do Windows & Xbox, Office Store, Microsoft Edge e Desenvolvedor de hardware, entre em contato com a pessoa na função Proprietário ou Gerente em sua organização. Para saber mais sobre funções e permissões, consulte Como gerenciar uma conta do marketplace comercial [no Microsoft Partner Center](/azure/marketplace/partner-center-portal/manage-account#define-user-roles-and-permissions).
 
-## <a name="you-cant-see-your-offer-or-benefits-in-partner-center"></a>Você não pode ver sua oferta ou benefícios no Partner Center
+## <a name="you-cant-see-your-offer-or-benefits-in-partner-center"></a>Você não pode ver sua oferta ou benefícios Partner Center
 
-Confirme se você está usando as credenciais corretas para entrar. Por exemplo, suas contas corporativas e pessoais podem ter a mesma aparência (como abc@contoso.com ), mas uma conta pessoal que você criou e outra pode ser uma conta comercial configurada em seu nome. Nesse caso, se você estiver conectado, mas não conseguir exibir os recursos esperados relacionados ao MPN, CSP, Marketplace comercial, tente selecionar sua conta corporativa.
+Confirme se você está usando as credenciais corretas para entrar. Por exemplo, suas contas pessoais e de trabalho podem ter a mesma aparência (como ), mas uma pode ser uma conta pessoal que você criou e outra pode ser uma conta de negócios configurada em abc@contoso.com seu nome. Nesse caso, se você estiver entre, mas não conseguir exibir os recursos esperados relacionados ao MPN, ao CSP, ao Marketplace Comercial, tente selecionar sua conta de trabalho.
 
 ## <a name="next-steps"></a>Próximas etapas
 

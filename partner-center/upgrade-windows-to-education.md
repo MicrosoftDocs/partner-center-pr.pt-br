@@ -1,60 +1,60 @@
 ---
-title: Atualizar Windows 10 Home para Windows 10 Education
+title: Atualizar o Windows 10 Home para Windows 10 Education
 ms.topic: article
 ms.date: 10/28/2020
-description: Saiba como Provedor de Soluções na Nuvem parceiros (CSP) podem atualizar alguns de seus clientes de Educação Windows 10 Home para Windows 10 Education
+description: Saiba como os parceiros do CSP (provedor de soluções na nuvem) podem atualizar alguns de seus clientes educacionais do Windows 10 Home para o Windows 10 Education
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 806ddcd6e55a72ac2e1d15bdbec7c27c604917dc
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 4835a620cd414370525a5c441e0db5a7de1bfed1
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818687"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431519"
 ---
-# <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Atualizar alguns clientes de Educação do Windows 10 Home para Windows 10 Education
+# <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Atualize alguns clientes educativos do Windows 10 Home para o Windows 10 Education
 
-**Funções apropriadas:** agente administrador | Administrador de cobrança
+**Funções apropriadas**: agente de administração | Administrador de cobrança
 
 ## <a name="overview"></a>Visão geral
 
-A partir de 1º de novembro de 2020, os CSPs que compraram assinaturas do Microsoft 365 A3 ou A5 ou Windows 10 Enterprise A3 ou A5 podem ajudar seus clientes de Educação a atualizar do Windows 10 Home para o Windows 10 Education, que foi projetado para a sala de aula e o aprendizado remoto.
+A partir de 1º de novembro de 2020, os CSPs (provedores de serviços de nuvem) que compraram Microsoft 365 a3 ou a5 ou assinaturas do Windows 10 Enterprise a3 ou a5 podem ajudar seus clientes educacionais a fazer a atualização do Windows 10 Home para o Windows 10 Education, que foi projetado para a sala de aula e o aprendizado remoto.
 
-Em 1º de novembro de 2020, o Windows 10 Home será um sistema operacional qualificado para clientes do Education licenciados pelo Contrato de Microsoft Cloud (por meio do CSP). Essa qualificação, que até agora só estava disponível em programas educacionais de VL (Licenciamento por Volume), foi habilitada por meio do suporte do portal de administração do Microsoft 365. 
+De 1º de novembro de 2020, o Windows 10 Home será um sistema operacional qualificado para clientes educativos licenciados por meio do contrato de Microsoft Cloud (por meio do programa CSP). Essa qualificação, que até agora só estava disponível em programas educacionais de VL (Licenciamento por Volume), foi habilitada por meio do suporte do portal de administração do Microsoft 365. 
 
 ## <a name="how-the-upgrade-process-works"></a>Como funciona o processo de atualização
 
-Os Parceiros CSP podem ajudar os clientes a atualizar enviando uma solicitação de suporte em nome deles. Suporte da Microsoft revisará a solicitação para garantir que o cliente se qualifica; depois que a solicitação for aprovada, o suporte fornecerá a chave Windows 10 Pro Education para o parceiro que pode, em seguida, for give-lo ao cliente.
+Os parceiros CSP podem ajudar seus clientes a fazer a atualização enviando uma solicitação de suporte em seu nome. Suporte da Microsoft examinará a solicitação para garantir que o cliente seja qualificado; Depois que a solicitação for aprovada, o suporte fornecerá a chave do Windows 10 pro Education para o parceiro que pode, em seguida, fornecê-la ao cliente.
 
 Quando o cliente instalar a chave e o dispositivo for ingressado no domínio do locatário por meio do AAD (Azure Active Directory), o dispositivo será atualizado automaticamente para o Windows 10 Education (assinatura).   
 
-## <a name="step-by-step-process-for-customers-to-get-windows-10-education"></a>Processo passo a passo para os clientes obterem Windows 10 Education
+## <a name="step-by-step-process-for-customers-to-get-windows-10-education"></a>Processo passo a passo para os clientes obterem o Windows 10 Education
 
-Os parceiros devem criar uma solicitação de suporte e obter chaves do Suporte. Em seguida, os parceiros compartilham essas chaves com seus clientes.
+Os parceiros devem criar uma solicitação de suporte e obter as chaves do suporte. Os parceiros compartilham essas chaves com seus clientes.
 
 ### <a name="partners--how-to-get-the-keys"></a>Parceiros – como obter as chaves:
 
 1. Entre no painel [Partner Center](https://partner.microsoft.com/dashboard).
 
-2. No menu Partner Center, selecione **Clientes** e, em seguida, selecione o cliente que precisa de suporte.
+2. No menu do centro de parceiros, selecione **clientes** e, em seguida, selecione o cliente que precisa de suporte.
 
 3. Selecione **Gerenciamento de serviços** e selecione **Solicitações de serviço**.
 
-4. Selecione **Nova solicitação** e, em **seguida, selecione Office 365 e Enterprise Mobility Suite.**
+4. Selecione **nova solicitação** e, em seguida, selecione **Office 365 e Enterprise Mobility Suite**.
 
-5. Você será levado para o portal do Office 365, no qual precisará entrar usando suas Partner Center de usuário.
+5. Você é levado para o portal do Office 365, no qual você precisa entrar usando suas credenciais do Partner Center.
 
-6. Selecione **Suporte, Nova solicitação** de serviço no menu à esquerda.
+6. Selecione **suporte, Nova** solicitação de serviço no menu à esquerda.
 
-7. Inclua os detalhes abaixo na Solicitação de suporte:
+7. Inclua os detalhes abaixo no Solicitação de suporte:
 
-- **Título:** Windows 10 Home atualizar Windows 10 Education chave do produto (Product Key)
-- **Descrição:** Solicitando chaves [inserir número] para habilitar a atualização para Windows 10 Education. (Observe que o número de chaves solicitadas não deve ser maior que suas licenças de assinatura Microsoft 365 A3/A5 ou Windows 10 Enterprise A3/A5.) ID da assinatura do cliente [INSERIR GUID de ID de assinatura de clientes para seu Microsoft 365 A3/A5 ou Windows 10 Enterprise assinatura A3/A5.]
-- **Número de contato:** Isso será preenchido previamente; revisar para confirmar ou atualizar.
+- **Título:** Chave do produto de atualização de educação do Windows 10 Home para Windows 10
+- **Descrição:** Solicitando chaves [Insert number] para habilitar a atualização para o Windows 10 Education. (Observe que o número de chaves solicitadas não deve ser maior do que suas licenças de assinatura Microsoft 365 a3/a5 ou Windows 10 Enterprise a3/a5.) ID da assinatura do cliente [Insira o GUID da ID de assinatura dos clientes para suas Microsoft 365 a3/a5 ou assinatura do Windows 10 Enterprise a3/a5.]
+- **Número de contato:** Isso será preenchido previamente; Examine para confirmar ou atualizar.
 - **Email:** Isso será preenchido previamente e deverá ser o email que você usa como administrador do portal da Microsoft (administrador global ou administrador de cobrança somente).
 - **Método de contato preferencial**: escolha **telefone** ou **agende um retorno de chamada**.
 
@@ -81,17 +81,17 @@ Os clientes do CSP que se qualificam como acadêmicos e têm as assinaturas de l
 Não, os clientes do VL que licenciam por meio de EES (registro para soluções educacionais), OVS-ES (assinatura de valor aberto para soluções educacionais) e escola devem acessar o [VLSC](https://www.microsoft.com/Licensing/servicecenter/default.aspx) para baixar produtos e chaves. 
 
 **Meu cliente precisa de mais chaves do que o solicitado originalmente. Como posso obtê-los?**
-Você pode enviar uma solicitação de suporte adicional para chaves para os dispositivos Windows 10 Home do seu cliente. A quantidade total entre várias solicitações não deve ser maior que suas licenças ativas totais de Microsoft 365 A3/A5 ou Windows 10 Enterprise assinaturas A3/A5.
+Você pode enviar uma solicitação de suporte adicional para chaves para os dispositivos Windows 10 Home do seu cliente. A quantidade total entre várias solicitações não deve ser maior que o total de licenças ativas de Microsoft 365 a3/a5 ou assinaturas do Windows 10 Enterprise a3/a5.
 
-**Meu cliente está prestes a comprar mais Windows 10 Home dispositivos. Eles podem obter mais atualizações?**
-Os clientes de educação devem considerar dispositivos de Windows 10 Education de baixo custo por meio de nosso [programa Shape the Future](https://www.microsoft.com/education/products/windows/shapethefuture.aspx) e eliminar a necessidade de atualizar Windows 10 Home dispositivos. Se eles comprarem mais Windows 10 Home, os parceiros deverão enviar uma nova solicitação de suporte por meio do portal de administração da Microsoft.
+**Meu cliente está prestes a comprar mais dispositivos Windows 10 Home. Eles podem obter mais atualizações?**
+Os clientes educacionais devem considerar dispositivos de educação do Windows 10 de baixo custo por meio [de nossa forma o programa futuro](https://www.microsoft.com/education/products/windows/shapethefuture.aspx) e eliminar a necessidade de atualizar dispositivos Windows 10 Home. Se eles comprarem mais dispositivos Windows 10 Home, os parceiros deverão enviar uma nova solicitação de suporte por meio do portal de administração da Microsoft.
 
-**Há um prazo para quando contatar o Suporte e receber a chave de atualização?**
-A Windows 10 Education atualização é baseada nas assinaturas de licença Microsoft 365 A3/A5 ou Windows 10 Enterprise A3/A5 do cliente. Se o cliente não estender ou renovar a assinatura, a qualificação para atualizar também será final.
+**Há um prazo para quando contatar o suporte e receber a chave de atualização?**
+A atualização do Windows 10 Education é baseada nas assinaturas de licença do Active Microsoft 365 a3/a5 ou do Windows 10 Enterprise a3/a5 do cliente. Se o cliente não estender ou renovar a assinatura, a qualificação para atualizar também terminará.
 
 ## <a name="next-steps"></a>Próximas etapas
 
-**Onde os parceiros podem saber mais sobre Windows 10 Education?**
+**Onde os parceiros podem saber mais sobre o Windows 10 Education?**
 
-- [Recursos do Windows Eduction](https://www.microsoft.com/education/products/windows/features)
-- [Hub de Educação do Windows](/education/windows/)
+- [Recursos do Windows instrução](https://www.microsoft.com/education/products/windows/features)
+- [Hub do Windows Education](/education/windows/)

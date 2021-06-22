@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 755881d0bd96b9d601346ebb6271bd524c31d0a3
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 1a7d5f3169c4b338a07475a7e246e87841b8dcfb
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794948"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431566"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Saiba como ler os itens de linha em seus arquivos Partner Center reconciliação
 
@@ -41,37 +41,37 @@ Ocasionalmente, um arquivo de reconciliação pode conter problemas de formataç
 
 Siga estas etapas para corrigir problemas de formatação em seus arquivos de reconciliação:
 
-1. Abra o arquivo de reconciliação (no formato .csv) no Microsoft Excel.
+1. Abra o arquivo de reconciliação (no .csv) no Microsoft Excel.
 2. Selecione a primeira coluna no arquivo.
 3. Abra o **Assistente para Converter Texto em Colunas**. Na faixa de opções, selecione **Dados** e, em **seguida, selecione Texto em Colunas.**
 4. No assistente, selecione **Tipo de arquivo delimitado**. Em seguida, selecione **Avançar**.
-5. No campo **delimitadores** , selecione **vírgula**. (Se a **guia** já estiver selecionada, você poderá deixar essa opção selecionada.) Em seguida, selecione **Avançar**.
-6. No campo **formato de dados da coluna** , selecione **Data: MDY**. Em seguida, selecione **Avançar**.
-7. No campo **formato de dados da coluna** , selecione **texto** para todas as colunas de valor. Em seguida, selecione **Concluir**.
+5. No campo **Delimitadores,** selecione **Vírgula**. (Se **Tab** já estiver selecionado, você poderá deixar essa opção selecionada.) Em seguida, selecione **Próximo.**
+6. No campo **Formato de dados da** coluna, selecione **Data:MDY.** Em seguida, selecione **Avançar**.
+7. No campo **Formato de dados de** coluna, selecione Texto **para** todas as colunas de valor. Em seguida, selecione **Concluir**.
 
 ## <a name="download-reconciliation-files-programmatically"></a>Baixar arquivos de reconciliação programaticamente
 
-Os arquivos de reconciliação podem ser muito grandes e, às vezes, são difíceis de baixar. Para baixar arquivos de reconciliação programaticamente, consulte [obter itens de linha da fatura](/partner-center/develop/get-invoiceline-items).
+Os arquivos de reconciliação podem ser muito grandes e, às vezes, são difíceis de baixar. Para baixar arquivos de reconciliação programaticamente, consulte [Obter itens de linha da fatura](/partner-center/develop/get-invoiceline-items).
 
 ## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Se o arquivo exceder o limite de linha no Excel
 
-Se você for capaz de baixar um arquivo de reconciliação, mas não abri-lo no Microsoft Excel, provavelmente significa que o arquivo contém mais linhas do que o Excel permitirá. Se isso acontecer, você poderá usar qualquer um dos procedimentos abaixo para abrir o arquivo.
+Se você conseguir baixar um arquivo de reconciliação, mas não abri-lo no Microsoft Excel, isso provavelmente significa que o arquivo contém mais linhas do que o Excel permitirá. Se isso acontecer, você poderá usar qualquer um dos procedimentos abaixo para abrir o arquivo.
 
-### <a name="open-a-recon-file-in-power-bi"></a>Abrir um arquivo reconhecimento no Power BI
+### <a name="open-a-recon-file-in-power-bi"></a>Abra um arquivo de reconhecimento no Power BI
 
 1. Baixe o arquivo de reconciliação como faria normalmente.
-2. Baixe, instale e abra uma instância do Power BI.
-3. Na guia Power BI **página inicial** , selecione **obter dados**.
-4. Na lista de **fontes de dados comuns**, selecione **texto/CSV**.
-5. Quando solicitado, abra o arquivo reconhecimento.
+2. Baixe, instale e abra uma instância do Microsoft Power BI.
+3. Na guia Power BI **Página** Base, selecione **Obter dados**.
+4. Na lista de fontes **de dados comuns,** selecione **Texto/CSV.**
+5. Quando solicitado, abra o arquivo de reconhecimento.
 
-### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Abrir um arquivo reconhecimento em uma tabela dinâmica do Excel
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Abrir um arquivo de reconhecimento em uma tabela dinâmica do Excel
 
 1. Baixe o arquivo de reconciliação como faria normalmente.
 2. Abra um novo arquivo no Microsoft Excel.
-3. Na guia **dados** , selecione **obter dados**, selecione **do arquivo** e, em seguida, selecione **texto/CSV**.
+3. Na guia **Dados,** selecione **Obter dados,** selecione **Do arquivo** e, em seguida, **selecione Texto/CSV.**
 4. Quando solicitado, abra o arquivo de reconhecimento. Seus dados serão exibidos.
-5. No menu **suspenso** Carregar, selecione **Carregar para** e, em seguida, **OK.**
+5. No menu **suspenso** Carregar, selecione **Carregar para** e, em seguida, selecione **OK.**
 6. Na caixa **de diálogo Importar** Dados, selecione Relatório de Tabela **Dinâmica** para abrir o arquivo.
 
 ## <a name="negative-amount-displayed"></a>Valor negativo exibido
@@ -107,15 +107,15 @@ Se um parceiro CSP tiver um revendedor sem ID do **MPN,** esse valor será defin
 
 Se o parceiro CSP remover uma **ID do MPN** do Revendedor, esse valor será definido como *-1*.
 
-Para exibir ou atualizar a **ID de MPN do revendedor**:
+Para exibir ou atualizar a **ID do MPN do Revendedor:**
 
 1. Conecte-se ao Partner Center.
 2. No menu Partner Center, selecione **Clientes**.
 3. Escolha o cliente na lista.
-4. No menu cliente, selecione **assinaturas**.
+4. No menu do cliente, selecione **Assinaturas**.
 5. Escolha a assinatura na lista.
 6. Selecione **Atualizar** para alterar o **Revendedor (ID do MPN)**.
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Como ler o arquivo Bill & reconhecimento](read-your-bill.md) 
+- [Como ler seu arquivo de & reconhecimento](read-your-bill.md) 
