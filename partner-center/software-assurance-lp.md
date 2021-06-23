@@ -9,18 +9,18 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 212eef8294b7d293a9bc9f55b56498e12e3f402a
-ms.sourcegitcommit: 9292a85c4c142109e46462ee4088bd95efb62456
+ms.openlocfilehash: cccb1701e196781b2e002ef6bb37f0e47521b2b5
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "88711808"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489927"
 ---
 # <a name="participate-in-software-assurance-programs-including-training-vouchers-and-planning-services"></a>Participe de programas de Software Assurance, incluindo comprovantes de treinamento e serviços de planejamento
 
 A participação nos programas de Software Assurance, incluindo comprovantes de treinamento de Software Assurance (SATV) e serviços de planejamento, oferece a você uma oportunidade de aumentar seus negócios com os clientes corporativos da Microsoft. 
 
-- Como parceiro de comprovantes de treinamento do Software Assurance, a Microsoft compensará você a fornecer treinamento de sala de aula técnico ministrado por instrutor desenvolvido por especialistas da Microsoft. 
+- Como um parceiro SATV, a Microsoft compensará você a fornecer treinamento em sala de aula técnico ministrado por instrutor desenvolvido por especialistas da Microsoft. 
 
 - Como parceiro de serviços de planejamento, a Microsoft compensará você a liderar compromissos predefinidos de planejamento de implementação. 
 

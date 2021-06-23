@@ -7,12 +7,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80cb5503323f483c13c983375559baf70f9d0b6f
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 85eefb49cf62c4bcfa5533683abd8ddb0e854463
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854716"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490063"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Impostos regionais, regulamentos para serviços PTSN (rede telefônica pública comutada)
 
@@ -26,7 +26,7 @@ Envolva seu imposto e seu conselho jurídico para entender a responsabilidade da
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Apresentação de nota fiscal e arquivo de reconciliação do parceiro
 
-As notas fiscais do CSP e os arquivos de reconciliação do CSP no Estados Unidos, Porto Rico e Canadá, que incluem o PSTN do Skype for Business e os serviços de voz Microsoft 365, fornecerão itens de linha separados para os componentes PSTN e não PSTN.
+As faturas do CSP (provedor de soluções na nuvem) e os arquivos de reconciliação do CSP no Estados Unidos, Porto Rico e Canadá, que incluem o PSTN do Skype for Business e os serviços de voz Microsoft 365, fornecerão itens de linha separados para os componentes PSTN e não PSTN.
 
 Além disso, as notas fiscais do CSP exibirão a seguinte nota de rodapé:
 
@@ -34,18 +34,18 @@ Além disso, as notas fiscais do CSP exibirão a seguinte nota de rodapé:
 
 ## <a name="reconciliation-file-example"></a>Exemplo de arquivo de reconciliação
 
-O Office 365 Enterprise E5 apresenta no arquivo de reconciliação como dois itens de linha com nomes idênticos e IDs idênticas, mas cada item de linha tem um preço unitário exclusivo (exemplo: US$ 28,40 e US$ 2,00). Isso separa o componente Conferência do Skype for Business da oferta do Office 365, portanto, você pode aplicar impostos corretamente.
+O Office 365 Enterprise E5 apresenta o arquivo de reconciliação como dois itens de linha com nomes idênticos e IDs idênticas, mas cada item de linha tem um preço unitário exclusivo (exemplo: $28.40 e $2). Isso separa o componente Conferência do Skype for Business da oferta do Office 365, portanto, você pode aplicar impostos corretamente.
 
-**Exemplo de reconciliação #1 parceiro (selecionar colunas):**
+**Exemplo de reconciliação de parceiro #1 (selecionar colunas):**
 
-|**ID_oferta_durável**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_price**|
+|**ID_oferta_durável**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Taxa do Ciclo   |28,40   |
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Taxa do Ciclo   |2,00   |
 
 **Exemplo de reconciliação de parceiro #2**
 
-Microsoft 365 Business Voice disponível no Canadá tem componentes adicionais que podem ser impostos por PSTN consolidados na fatura do CSP (semelhante ao Office 365 E5, dois itens de linha são apresentados, um para componentes PSTN e outro para componentes não PSTN).  O arquivo de Reconciliação do CSP para Microsoft 365 Business Voice exibirá todos os componentes taxáveis do PSTN individualmente (componentes PSTN individuais não serão consolidados no . Ferramenta de API ou CSV).  A soma dos detalhes do pedido e dos valores cobrados para os clientes encontrados no arquivo de reconciliação corresponderá à nota fiscal do CSP.
+Microsoft 365 Business voz disponível no Canadá tem componentes adicionais de PSTN que são consolidados na nota fiscal do CSP (semelhante ao Office 365 e5, dois itens de linha são apresentados, um para componentes PSTN e outro para componentes não PSTN).  O arquivo de reconciliação CSP para Microsoft 365 Business voz exibirá todos os componentes tributáveis de PSTN individualmente (componentes PSTN individuais não serão consolidados em .CSV ou ferramenta de API).  A soma dos detalhes do pedido e dos valores cobrados para os clientes encontrados no arquivo de reconciliação corresponderá à nota fiscal do CSP.
 
 ## <a name="additional-resources"></a>Recursos adicionais
 Para obter mais detalhes, visite o site [Microsoft 365 para parceiros](https://www.microsoft.com/microsoft-365/partners/) .

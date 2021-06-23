@@ -9,16 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e6db20296075774a6254116df898e15ecc50034
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 93d2f4c2a1fb1f4c6de1cb8759cab0df85c3ceea
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856025"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489910"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Leia sobre os detalhes de impostos e isenção de impostos por região ou país para parceiros no programa CSP
 
-**Funções apropriadas:** Administrador global
+**Funções apropriadas**: administrador global
 
 O programa Provedor de Soluções na Nuvem (CSP) é um canal de vendas voltado para a revenda de produtos pelo parceiro. Como resultado, a Microsoft nem sempre é necessária para cobrar imposto sobre vendas em faturas de parceiros. As regras variam de acordo com o país e/ou a região. Você pode revisar os [detalhes específicos do país e específicos da região para obter isenções de imposto.](#country-and-region-tax-details)
 
@@ -33,9 +33,9 @@ Se você estiver em outro país ou região que cobra impostos, consulte [as info
 
 ### <a name="canada"></a>Canadá
 
-A maioria dos revendedores não está isento de HST/GST/QST. Consulte seu consultor fiscal para determinar se você está qualificado para isenção e qual documentação você deve fornecer à Microsoft.
+A maioria dos revendedores não é isenta do GST (imposto sobre bens e serviços)/imposto sobre vendas (HST)/QST (imposto sobre vendas) de Quebec. Consulte seu consultor fiscal para determinar se você está qualificado para isenção e qual documentação você deve fornecer à Microsoft.
 
-Para uma Isenção de BC PST, arquiva uma isenção de imposto conforme descrito. Forneça seu nº BC PST ou um *Certificado de Isenção Geral* preenchido e assinado.
+Para uma isenção de PST (imposto sobre vendas) bc bc, descreva uma isenção de imposto conforme descrito. Forneça seu nº BC PST ou um *Certificado de Isenção Geral* preenchido e assinado.
 
 ### <a name="united-states"></a>Estados Unidos
 
@@ -57,15 +57,15 @@ Antes de preencher uma isenção de imposto, certifique-se de entender os seguin
 
 - Você precisa registrar uma isenção de imposto para cada locatário do CSP.
 
-- Você precisará enviar seu número de ID do imposto ou número de identificação do empregador (FEIN). Esse número geralmente aparece em seu certificado de imposto.
+- Você precisará enviar seu número de ID de imposto ou o FEIN (Número de Identificação do Funcionário Federal). Esse número geralmente aparece em seu certificado de imposto.
 
-- Dependendo de seu país, região ou estado, sua isenção de imposto sobre vendas tem diretrizes legais específicas para o departamento local de receita de imposto (ou departamento semelhante) e precisa ser gerenciada de acordo. Embora muitos locais tenham certificados de impostos em aberto que são renovados anualmente, alguns locais podem ser renovados em dois ou mais anos. Você deve verificar essa e outras informações verificando seu certificado ou contatando sua autoridade de imposto local.
+- Dependendo do seu país, região ou estado, sua isenção de imposto de vendas tem diretrizes legais específicas para o Departamento de Receita Fiscal local (ou departamento semelhante) e precisa ser gerenciada de acordo. Embora muitos locais tenham certificados fiscais reajustados anualmente, alguns locais podem ser renovados em dois ou mais anos. Você deve verificar essa e outras informações verificando seu certificado ou contatando sua autoridade fiscal local.
 
-Quando estiver pronto para arquivar sua isenção de imposto, abra um tíquete com [suporte da Microsoft](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=92930319-ced6-c18b-d7a6-d62b22d60aa5) e forneça as informações apropriadas.
+Quando estiver pronto para registrar sua isenção de imposto, abra um tíquete [com](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=92930319-ced6-c18b-d7a6-d62b22d60aa5) Suporte da Microsoft e fornecer as informações apropriadas.
 
 ## <a name="support"></a>Suporte
 
-Para perguntas sobre isenção de impostos e reembolsos ou outras perguntas relacionadas a impostos, solicite o suporte no Partner Center. Aguarde duas semanas para a Microsoft entrar em contato e resolver o problema.
+Para perguntas sobre isenções e reembolsos de impostos ou outras perguntas relacionadas a impostos, solicite suporte Partner Center. Aguarde duas semanas para a Microsoft entrar em contato e resolver o problema.
 
 ## <a name="next-steps"></a>Próximas etapas
 
