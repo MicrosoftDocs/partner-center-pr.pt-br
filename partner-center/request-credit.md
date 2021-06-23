@@ -2,48 +2,48 @@
 title: Solicitar um crédito de SLA da Microsoft
 ms.topic: article
 ms.date: 03/31/2021
-description: Conheça os benefícios, as restrições e os procedimentos para solicitar um crédito de SLA (contrato de nível de serviço) da Microsoft se seus clientes sofrerem uma interrupção de serviço.
+description: Conheça os benefícios, restrições e procedimentos para solicitar um crédito SLA (contrato de nível de serviço) da Microsoft se seus clientes experimentarem uma paralisação de serviço.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 100a3d2988c19d57f7426c7212b7464d8e96dc94
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 4a8e785de051aa6f722a1bfddc4ad83d6502bbb3
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152946"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551649"
 ---
-# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Como e quando solicitar um crédito de SLA (contrato de nível de serviço) da Microsoft
+# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Como e quando solicitar um crédito SLA (contrato de nível de serviço) da Microsoft
 
-**Funções apropriadas**: agente de administração | Administrador global
+**Funções apropriadas:** agente administrador | Administrador global
 
-Você pode solicitar **créditos de SLA (contrato de nível de serviço)** da Microsoft se um serviço que você está fornecendo para seus clientes tiver uma interrupção.
+Você pode solicitar **créditos SLA (Contrato** de Nível de Serviço) da Microsoft se um serviço que você está fornecendo para seus clientes tiver uma paralisação.
 
-## <a name="sla-credit-calculation"></a>Cálculo de crédito de SLA
+## <a name="sla-credit-calculation"></a>Cálculo de crédito SLA
 
-Os créditos de SLA da Microsoft são determinados com base em quais serviços foram afetados. Por exemplo, se o cliente tiver um pacote do Office 365, mas tiver apenas uma interrupção do SharePoint, o crédito de SLA será aprovado apenas para o SharePoint e não para o plano inteiro do cliente.
+Os créditos SLA da Microsoft são determinados com base em quais serviços foram afetados. Por exemplo, se o cliente tiver um pacote do Office 365, mas tiver apenas uma interrupção do SharePoint, o crédito SLA será aprovado somente para SharePoint e não para todo o plano do cliente.
 
-*Os créditos são classificados pelo pro com base no serviço afetado e na duração da interrupção.* Para ver os tipos de cenários que se qualificam para créditos de SLA, consulte o [documento SLA consolidado de serviços online](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37). Essas informações também se aplicam a serviços vendidos por meio do programa provedor de soluções na nuvem.
+*Os créditos são proporcionalmente com base no serviço afetado e na duração da paralisação.* Para ver os tipos de cenários qualificados para créditos SLA, consulte o documento [SLA](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37)Consolidado dos Serviços Online . Essas informações também se aplica aos serviços vendidos por meio do programa Provedor de Soluções na Nuvem (CSP).
 
 
-## <a name="request-an-sla-credit"></a>Solicitar um crédito de SLA
+## <a name="request-an-sla-credit"></a>Solicitar um crédito SLA
 
-*O parceiro CSP (provedor de soluções na nuvem) deve enviar a declaração e todas as informações necessárias ao final do mês do calendário após o mês em que o incidente ocorreu.* Por exemplo, se o incidente ocorreu em 15 de fevereiro, a Microsoft deve receber a declaração e todas as informações necessárias até 31 de março. Clientes finais e revendedores indiretos não podem enviar declarações de crédito de SLA; o provedor indireto ou o parceiro de cobrança direto deve enviar declarações em seu nome.
+*O parceiro CSP deve enviar a declaração e todas as informações necessárias até o final do mês do calendário após o mês em que o incidente ocorreu.* Por exemplo, se o incidente ocorreu em 15 de fevereiro, a Microsoft deve receber a declaração e todas as informações necessárias até 31 de março. Os clientes finais e revendedores indiretos não podem enviar declarações de crédito SLA; O provedor indireto ou o parceiro de cobrança direta deve enviar declarações em seu nome.
 
 >[!NOTE]
->Os incidentes de consultoria ([como verificar Microsoft 365 integridade do serviço](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)) não são elegíveis para créditos de SLA.
+>Incidentes de consultoria ([Como verificar Microsoft 365 de serviço](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)) não estão qualificados para créditos SLA.
 
 ### <a name="required-information"></a>Informações necessárias
 
-O nome do cliente, o identificador do locatário, o n º do tíquete de parceiro e o carimbo de data/hora criado pelo tíquete não são suficientes para que uma declaração seja processada.
+O nome do cliente, o identificador de locatário, o tíquete do parceiro# e o carimbo de data/hora criados pelo tíquete não são suficientes para que uma declaração seja processada.
 
-Antes de [Enviar uma solicitação de crédito de SLA](#submit-sla-credit-request) para a Microsoft, você deve reunir **todas** as seguintes informações para incluir em seu tíquete de suporte:
+Antes de [enviar uma solicitação de crédito SLA](#submit-sla-credit-request) para a Microsoft, você deve reunir **todas** as seguintes informações para incluir no tíquete de suporte:
 
-- O GUID do locatário do cliente
-- O [identificador do incidente de interrupção](#outage-incident-identifier)?
+- GUID do locatário do cliente
+- O [identificador de incidente de falha](#outage-incident-identifier)?
 - Evidência de que o cliente foi afetado pela paralisação e solicitou um crédito SLA.
 - As assinaturas impactadas foram adquiridas por meio do CSP? (*sim* ou *não*)
 
@@ -67,22 +67,22 @@ Você pode encontrar o identificador do incidente de falha na página **De Saúd
 | SB | Skype for Business Online (anteriormente Lync Online) |
 | Sistema operacional | Assinatura do Office |
 | PB | Power BI para Office 365 |
-| SP | SharePoint Online |
+| SP | SharePoint online |
 | Você | Yammer Enterprise |
 | MO | Erro do portal |
 
-### <a name="submit-sla-credit-request"></a>Enviar solicitação de crédito de SLA
+### <a name="submit-sla-credit-request"></a>Enviar solicitação de crédito SLA
 
-Para enviar sua solicitação de crédito de SLA para a Microsoft por meio do painel do Partner Center:
+Para enviar sua solicitação de crédito SLA à Microsoft por meio do painel Partner Center:
 
 1. Entre no Painel do Partner Center.
-2. No menu à esquerda, escolha solicitações de **serviço** e, em seguida, selecione **solicitações de suporte do parceiro**.
-3. Na página **solicitação do parceiro** , escolha **nova solicitação**.
-4. Na página **iniciar a solicitação** , localize a seção **CSP-Customers, Orders e subscriptions**. Nesta seção, escolha **selecionar um tipo de problema** e, em seguida, selecione solicitações de crédito de atendimento **ao cliente**.
-5. Na página **soluções recomendadas** , em **você precisa de mais ajuda?**, escolha **Sim**.
-6. Na página **detalhes** , preencha a seção **detalhes do problema** . Na caixa de texto **detalhes** , certifique-se de inserir as [informações necessárias](#required-information) que você coletou anteriormente.
-7. Escolha **Enviar** para enviar em sua solicitação de crédito de SLA.
+2. No menu à esquerda, escolha Solicitações **de serviço** e, em seguida, selecione **Solicitações de suporte do parceiro**.
+3. Na página **Solicitação de** parceiro, escolha **Nova solicitação**.
+4. Na página **Iniciar a solicitação,** encontre a seção **CSP – clientes, pedidos e assinaturas**. Nesta seção, escolha Selecionar **um tipo de problema** e, em seguida, selecione **Solicitações de crédito de serviços de clientes**.
+5. Na página **Soluções recomendadas,** em **Você precisa de mais ajuda?**, escolha **Sim.**
+6. Na página **Detalhes,** preencha a seção **Detalhes do** problema. Na caixa **de** texto Detalhes, insira as [informações](#required-information) necessárias coletadas anteriormente.
+7. Escolha **Enviar** para enviar em sua solicitação de crédito SLA.
 
 ## <a name="next-steps"></a>Próximas etapas
 
-- [Relatar problemas em nome do seu cliente](report-problems-on-behalf-of-a-customer.md)
+- [Relatar problemas em nome do cliente](report-problems-on-behalf-of-a-customer.md)
