@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c85ff428fd6ffb6ced38be16f4bd163c2b0b548
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5b3976d34cbe70b3d26577fbda86751ebda29fbd
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855209"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565059"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Partner Insights – Perguntas frequentes
 
@@ -24,32 +24,32 @@ Este artigo aborda problemas conhecidos para exibir ou renderizar relatórios as
 
 P) **Não vejo o hub insights em minha conta Partner Center dados. O que devo fazer?**
 
-A) Certifique-se de que você fez logon na conta do MPN da sua organização. Você não pode acessar o painel insights de sua conta do CSP. Além disso, verifique se você foi fornecido acesso à função Visualizador de Relatório ou Visualizador de Relatório Executivo pelo administrador global.  Para obter mais informações sobre funções, consulte [este artigo](./pci-roles.md).
+A) Certifique-se de que você fez logon na conta Microsoft Partner Network (MPN) da sua organização. Você não pode acessar o painel insights de sua Provedor de Soluções na Nuvem (CSP). Além disso, verifique se você foi fornecido acesso à função visualizador de relatório ou visualizador de relatório executivo pelo administrador global.  Para obter mais informações sobre funções, consulte [este artigo](./pci-roles.md).
 
 P) Não consigo ver os dados de Receita Cobrada **ou Receita Consumida do Azure (ACR) em meus relatórios. Por que isso é?**
 
-A) Os dados de Receita Cobrada e ACR estão disponíveis somente para usuários que são Visualizadores de Relatório Executivo.  Para obter mais informações sobre funções, consulte [este artigo](./pci-roles.md).
+A) Os dados de Receita Cobrada e ACR estão disponíveis somente para usuários que são visualizadores de relatório executivo.  Para obter mais informações sobre funções, consulte [este artigo](./pci-roles.md).
 
 P) Não consigo ver os dados de Receita Cobrada **ou Receita Consumida do Azure (ACR) em meus relatórios. Por que isso é?**
 
-A) Os dados de Receita Cobrada e ACR estão disponíveis somente para usuários que são Visualizadores de Relatório Executivo. Para obter mais informações sobre funções, consulte [este artigo](./pci-roles.md).
+A) Os dados de Receita Cobrada e ACR estão disponíveis somente para usuários que são visualizadores de relatório executivo. Para obter mais informações sobre funções, consulte [este artigo](./pci-roles.md).
 
 P) **O país relatado para meu cliente parece estar incorreto. Por que isso é?**
 
 R) O país do cliente é derivado do país da organização pai global desse cliente. Esse país pode ser diferente do país do cliente com o qual você pode ter transacionado. Portanto, o país relatado pelo cliente pode ser diferente do que você espera que seja.
 
-P) vejo **que alguns nomes de clientes estão ofuscados nos relatórios. É esperado?**
+P) **Vejo que alguns nomes de clientes estão ofuscados nos relatórios. Isso é esperado?**
 
-A) os nomes de clientes são ofuscados para determinadas assinaturas devido a motivos de conformidade. No entanto, o cliente TPID está disponível e você pode usar essa pesquisa de nomes de clientes a partir dele.
+A) Os nomes de clientes são ofuscados para determinadas assinaturas devido a motivos de conformidade. No entanto, a TPID (ID Pai Superior) do cliente está disponível e você pode usar os nomes de clientes que o procurarem.
 
-P) **qual é a latência típica dos relatórios?**
+P) **Qual é a latência típica dos relatórios?**
 
-A) os dados de assinaturas e clientes são atualizados diariamente e os dados são relatados com uma latência de uma semana. Os dados de uso do Azure são relatados com uma latência de uma semana. Os dados de uso do Office365, Teams, Dynamic365, EMS e Power BI são relatados com uma latência de um mês.
+R) Os dados de Assinaturas e Clientes são atualizados diariamente e os dados são relatados com uma latência de uma semana. Os dados de uso do Azure são relatados com uma latência de uma semana. Os dados de uso do Office 365, Teams, Dynamics 365, ENTERPRISE Mobility and Security (EMS) e Power BI são relatados com uma latência de um mês.
 
-P) **os relatórios não estão renderizando no Internet Explorer – isso é esperado?**
+P) **Os relatórios não estão sendo render Internet Explorer – isso é esperado?**
 
-A) os relatórios têm problemas de processamento com o Internet Explorer. Eles funcionam bem com o Microsoft Edge e outros navegadores.
+R) Os relatórios têm problemas de renderização com Internet Explorer. Eles funcionam bem com Microsoft Edge e outros navegadores.
 
 **Próximas etapas**
 
-- Saiba mais sobre as informações do [Partner Center](partner-center-insights.md).
+- Saiba mais sobre [o Partner Center Insights.](partner-center-insights.md)

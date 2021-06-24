@@ -9,41 +9,41 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1cf69258b507258e1186514c54fa11ebf8a57d36
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: d9eac83c2b2ef2d83b7b9aaec0c6dce7e24ee8b7
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854512"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565026"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preços e ofertas para o Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure e muito mais
 
 
 **Funções apropriadas**: Administração Global | Administrador de gerenciamento de usuários | Agente de administração | Administrador do parceiro do MPN | Agente de vendas | Administrador de cobrança
 
-Para ver os programas e as ofertas mais recentes do Provedor de Soluções na Nuvem, no painel do Portal do Parceiro, acesse **Vender > Preços e ofertas**. Você encontrará listas de preços separadas para os diferentes tipos de produtos que estão disponíveis. As seguintes listas de preços estão disponíveis na página **Preços e ofertas**:
+Para ver os programas e ofertas mais recentes do CSP (provedor de soluções de nuvem), no painel do portal do parceiro, acesse **vender > preços e ofertas**. Você encontrará listas de preços separadas para os diferentes tipos de produtos que estão disponíveis. As seguintes listas de preços estão disponíveis na página **Preços e ofertas**:
 
-- Os **serviços baseados em licença** incluem informações de preços para o Office 365, Enterprise Mobility e segurança E3, bem como para o Dynamics 365. A seção de preços baseada em licenças inclui os preços atual e de visualização, bem como a matriz da lista de ofertas. As listas de preços incluem o preço da lista e os preços de varejo estimados (ERP) para ofertas em todas as moedas com suporte. A matriz da lista de ofertas inclui a disponibilidade do mercado e outras informações importantes sobre as ofertas. Esses arquivos são atualizados no primeiro dia de cada mês.
-- Os **serviços baseados em uso** incluem informações de preços para Microsoft Azure e o Visual Studio. Você também pode usar os [Serviços do Azure na calculadora de preços do CSP](https://azure.microsoft.com/pricing/calculator/). O download baseado em uso inclui as listas de preços do CSP para todas as moedas com suporte, bem como os arquivos de preços dos serviços compartilhados no ERP. Esses arquivos são atualizados no primeiro dia de cada mês.
+- Os **serviços baseados em licença** incluem informações de preços para o Office 365, Enterprise Mobility e Security E3 e o Dynamics 365. A seção de preços baseada em licenças inclui os preços atual e de visualização e a matriz da lista de ofertas. As listas de preços incluem o preço da lista e os preços de varejo estimados (ERP) para ofertas em todas as moedas com suporte. A matriz da lista de ofertas inclui a disponibilidade do mercado e outras informações importantes sobre as ofertas. Esses arquivos são atualizados no primeiro dia de cada mês.
+- Os **serviços baseados em uso** incluem informações de preços para Microsoft Azure e o Visual Studio. Você também pode usar os [Serviços do Azure na calculadora de preços do CSP](https://azure.microsoft.com/pricing/calculator/). O download baseado em uso inclui as listas de preços do CSP para todas as moedas com suporte e os arquivos de preços dos serviços compartilhados no ERP. Esses arquivos são atualizados no primeiro dia de cada mês.
 - **Microsoft Azure instâncias reservadas** incluem informações de preço para todas as moedas com suporte para instâncias reservadas do Azure. O download de preços também inclui os preços dos serviços compartilhados no ERP. Esses arquivos são atualizados no primeiro dia de cada mês.
-- As **assinaturas de software** incluem preços para assinaturas de software com base em termos para todas as moedas com suporte. O arquivo de preço inclui todas as moedas com suporte com o preço de lista e MSRP. Esses arquivos são atualizados no primeiro dia de cada mês.
-- Os **preços do plano do Azure** incluem informações de preços para serviços de consumo do plano do Azure, bem como preços de reserva do plano do Azure. Os preços são preços diretos ou ERP e podem ser recuperados para qualquer mercado com suporte específico. Os dados nesses arquivos são atualizados todos os dias.
-- **As taxas de câmbio** estrangeiras são usadas para calcular a cobrança cobrada entre USD e a moeda local dos parceiros. As taxas são atualizadas no primeiro dia de cada mês e são válidas para o mês determinado em que as taxas são disponibilizadas. Esses arquivos são atualizados no primeiro dia de cada mês.
-- **O Marketplace** inclui preços para soluções isv do marketplace comercial da Microsoft. Os preços são recuperados por mercado. Os dados nesses arquivos são atualizados todos os dias.
+- As **assinaturas de software** incluem preços para assinaturas de software com base em termos para todas as moedas com suporte. O arquivo de preço inclui todas as moedas com suporte com preço de lista e preço de varejo sugerido pelo fabricante (MSRP). Esses arquivos são atualizados no primeiro dia de cada mês.
+- O **preço do plano do Azure** inclui informações de preços para serviços de consumo do plano do Azure e preços de reserva do plano do Azure. Os preços são preços diretos ou ERP e podem ser recuperados para qualquer mercado com suporte específico. Os dados nesses arquivos são atualizados todos os dias.
+- As **taxas de câmbio estrangeiras** são usadas para calcular a cobrança cobrada entre USD e a moeda local dos parceiros. As tarifas são atualizadas no primeiro período de cada mês e são verdadeiras para o mês determinado em que as tarifas são disponibilizadas. Esses arquivos são atualizados no primeiro dia de cada mês.
+- O **Marketplace** inclui preços para soluções ISV (fornecedores independentes de software) do Marketplace comercial da Microsoft. Os preços são recuperados por mercado. Os dados nesses arquivos são atualizados todos os dias.
 
 > [!Note] 
-> Somente parceiros CSP com a capacidade de realizar transações podem exibir e baixar listas de preços. Os revendedores indiretos devem entrar [em contato com o provedor do CSP para]( https://partner.microsoft.com/cloud-solution-provider/find-a-provider) solicitar detalhes sobre preços
+> Somente os parceiros CSP com a capacidade de fazer o Transact podem exibir e baixar listas de preços. Revendedores indiretos devem [entrar em contato com seu provedor CSP]( https://partner.microsoft.com/cloud-solution-provider/find-a-provider) para solicitar detalhes sobre os preços
 
-## <a name="price-list-preview-and-change-frequency"></a>Visualização da lista de preços e frequência de alteração 
+## <a name="price-list-preview-and-change-frequency"></a>Visualização da lista de preços e alteração de frequência 
 
-Os serviços baseados em licença incluem uma versão prévia da lista de preços, fornecida 30 dias antes de qualquer alteração. Para ver a versão prévia da lista de preços, acesse **Vender > preços e ofertas.** Não há nenhuma visualização de preço para serviços baseados em uso, pois esses serviços são dinâmicos. A tabela a seguir explica como ler a tabela da lista de preços.
+Os serviços baseados em licença incluem uma visualização da lista de preços, desde 30 dias antes de qualquer alteração. Para ver a visualização da lista de preços, acesse **vender > preços e ofertas**. Não há nenhuma visualização de preço para serviços baseados em uso, já que esses serviços são dinâmicos. A tabela a seguir explica como ler a tabela de lista de preços.
 
 |**Item**        |**Definição**      |
 |:-----------   |:-----------   |
-|ADD   |Um novo item para a lista de preços|
-|CHG   |Alterações no preço da lista de mês a mês. Outras alterações não relacionadas ao preço da lista podem ocorrer; os parceiros devem comparar listas de preços entre meses para determinar as alterações em outras propriedades.|
+|ADD   |Um novo item à lista de preços|
+|CHG   |Alterações no preço de lista de mês a mês. Outras alterações não relacionadas ao preço da lista podem ocorrer, os parceiros devem comparar as listas de preços entre meses para determinar alterações em outras propriedades.|
 |DEL   |Um item removido da lista de preços|
-|UNC   |Listar o preço inalterado da lista de preços do mês anterior  |
+|UNC   |Preço de lista inalterado na lista de preços do mês anterior  |
 |Válido a partir de   |A primeira data em que uma oferta pode ser adquirida    |
 |Válido até   |A última data em que uma oferta pode ser adquirida   |
 |Nome de exibição da oferta   |O nome voltado para o cliente da oferta   |
@@ -66,12 +66,12 @@ No entanto, o preço com base no uso do Azure não tem nenhuma versão prévia. 
 |Baseado em licença|Office, Dynamics, Intune, Windows Enterprise|30 dias|Listar alterações de preço marcadas como CHNG em listas de preços de visualização|
 |Baseado em uso|Recursos do Azure|Não disponível|Log de alterações disponível na guia **histórico de alterações** da lista de preços do mês anterior|
 |Software||Não disponível|Comparar listas de preços manualmente do mês para o mês|
-|Reservas|Máquinas virtuais, pré-paga|Não disponível|Comparar listas de preços manualmente de mês a mês|
+|Reservas|Máquinas virtuais, pré-paga|Não disponível|Comparar listas de preços manualmente do mês para o mês|
 
-Os preços baseados em uso podem mudar ao longo de um mês. Para obter preços diários "atuais" para esses recursos do Azure, os parceiros precisam chamar a API RateCard. 
+Os preços com base no uso podem ser alterados ao longo de um mês. Para obter o preço diário "atual" para esses recursos do Azure, os parceiros precisam chamar a API RateCard. 
 
 > [!Note] 
-> As alterações de preço da assinatura se aplicam somente durante uma renovação. A cobrança mensal de um parceiro é determinada pelo preço da compra ou pelo preço no momento da criação de uma assinatura. Se um preço aumentar ou diminuir após a aquisição do prazo anual, o parceiro não será cobrado pelo preço alterado até a renovação , normalmente no prazo de 12 meses.
+> As alterações de preço da assinatura aplicam-se somente durante uma renovação. A cobrança mensal de um parceiro é determinada pelo preço da compra ou pelo preço no momento da criação de uma assinatura. Se um preço aumentar ou diminuir após a aquisição do prazo anual, o parceiro não será cobrado pelo preço alterado até a renovação , normalmente no prazo de 12 meses.
 
 ## <a name="pricing-and-special-segments"></a>Preços e segmentos especiais
 
@@ -81,18 +81,18 @@ O CSP oferece alguns serviços para segmentos de mercado especiais, por exemplo,
 |-------------------|-----------------------|----------------------------|-----------------------------|
 |Educação|Cliente|Não, a qualificação do cliente será executada pela Microsoft |Somente com base em licença|
 |Sem fins lucrativos|Cliente|Não, o cliente se qualifica fora do Partner Center|Somente com base em licença|
-|GCC (Government Community Cloud)|Parceiro e cliente|Após o GCC habilitado, o parceiro pode criar clientes GCC| Somente baseado em licença|
-|Azure Government|Partner (parceiro)|Uma vez qualificado, o parceiro opera em um locatário do CSP específico para o Azure governamental|Recursos do Azure|
+|GCC (Government Community Cloud)|Parceiro e cliente|Depois que a GCC é habilitada, o parceiro pode criar clientes GCC| Somente com base em licença|
+|Azure Government|Partner (parceiro)|Uma vez qualificado, o parceiro opera em um locatário do CSP específico para Azure Governamental|Recursos do Azure|
 
-As margens do parceiro, a diferença entre o preço da lista e os preços de varejo estimados, pode variar de segmento para segmento. Normalmente, a educação e o não-lucro tendem a ter menos ou nenhuma margem para parceiros CSP. Consulte a lista de preços baseada em licenças para obter valores exatos. 
+As margens do parceiro, a diferença entre o preço da lista e os preços de varejo estimados, podem variar de segmento para segmento. Normalmente, educação e sem fins lucrativos tendem a ter margens menores ou nenhuma para parceiros do CSP. Consulte a lista de preços baseados em licença para ver os valores exatos. 
 
 ## <a name="add-on-offer-types"></a>Tipos de oferta de complemento
 
-Os serviços baseados em licença podem ser adquiridos como ofertas base ou Complementos. Somente as ofertas básicas são detectáveis e compráveis por meio do catálogo do Partner Center. Você deve aplicar Complementos depois de adquirir as ofertas básicas. A coluna **tipo de licença secundária** lista de preços baseada em licença inclui informações sobre cada oferta e seu tipo. As ofertas básicas têm valores **não específicos** na coluna tipo de licença secundária da lista de preços e podem ser comprados no catálogo. Os valores do tipo de licença secundária do **complemento** não podem ser comprados no catálogo. Para comprar estes complementos:
+Os serviços baseados em licença podem ser adquiridos como ofertas base ou complementos. Somente as ofertas base podem ser descobertas e podem ser comprados por meio do Partner Center de dados. Você deve aplicar complementos depois de comprar as ofertas base. A coluna Tipo de licença **secundária** da lista de preços baseada em licença inclui informações sobre cada oferta e seu tipo. As ofertas base **têm valores não** específicos na coluna tipo de licença secundária da lista de preços e podem ser adquiridas no catálogo. Os valores de tipo de licença secundária **do complemento** não podem ser comprados no catálogo. Para comprar esses complementos:
 
-1. Consulte a matriz da lista de ofertas para ver a lista de IDs de oferta que precisam ser adquiridas antes que você possa comprar um complemento.
+1. Consulte a matriz de lista de ofertas para ver a lista de IDs de oferta que precisam ser adquiridas antes de comprar um complemento.
 2. Comprar a oferta base do catálogo
-3. Navegue até o cliente na lista de clientes. Clique na assinatura da oferta base que você acabou de adquirir. Na página Gerenciar assinatura, você verá Complementos disponíveis que podem ser aplicados à oferta base.
+3. Navegue até seu cliente na lista de clientes. Selecione a assinatura da oferta base que você acabou de comprar. Na página gerenciar assinatura, você verá complementos disponíveis que podem ser aplicados à oferta base.
 
 > [!Note] 
 > Algumas ofertas base **têm valores de tipo** de unidade de **licenças de complemento**. Para uma oferta base, isso simplesmente significa que você não atribui licenças de usuário após a compra. Se a oferta puder ser adquirida no catálogo, ela será uma **oferta base,** independentemente do tipo de unidade na interface do usuário.
@@ -115,22 +115,22 @@ Se você tiver dúvidas sobre a lista de preços ou matriz de ofertas, envie uma
 
 ## <a name="offer-limits"></a>Limites da oferta
 
-Algumas ofertas baseadas em licença têm determinadas regras e limitações que proíbem várias compras para o mesmo cliente. Essas regras se aplicam à maioria das avaliações e muitas das pequenas ofertas de negócios. As **ofertas de pequenas empresas** são definidas por essas ofertas que têm uma contagem máxima de licenças inferior a 300.
+Algumas ofertas baseadas em licença têm determinadas regras e limitações que proíbem várias compras para o mesmo cliente. Essas regras se aplicam à maioria das avaliação e muitas das ofertas de pequenas empresas. **As ofertas de** pequenas empresas são definidas por essas ofertas que têm uma contagem máxima de licenças menor que 300.
 
-Essas restrições de compra são definidas como parte da configuração da oferta e podem ser encontradas com a análise da matriz da lista de ofertas. Duas colunas de dados funcionam em conjunto para definir a imposição: 1. Escopo de limite de oferta e 2. Limite da oferta. As restrições são impostas durante uma compra. O catálogo no Partner Center permitirá que um parceiro adquira mais ofertas do que as regras permitem. Qualquer tentativa de violar as restrições resultará em um erro.
+Essas restrições de compra são definidas como parte da configuração da oferta e podem ser encontradas observando a matriz de lista de ofertas. Duas colunas de dados funcionam juntas para definir a imposição: 1. Escopo de limite de oferta e 2. Limite da oferta. As restrições são impostas durante uma compra. O catálogo no Partner Center não permitirá que um parceiro compra mais ofertas do que as regras permitem. Qualquer tentativa de violar as restrições resultará em um erro.
 
-O escopo de limite de oferta é registrado como uma coluna na matriz da lista de ofertas e pode ter valores de nenhum, tempo de vida ou simultâneo. 
+O escopo de limite da oferta é registrado como uma coluna na matriz de lista de ofertas e pode ter valores de Nenhum, Tempo de Vida ou Simultâneo. 
 
-- As ofertas com **nenhum** podem ser adquiridas sem restrições.
-- As ofertas de **tempo de vida** podem ser adquiridas apenas uma vez.
-- Ofertas **simultâneas** podem ser adquiridas quantas vezes forem permitidas pelo valor de **limite de oferta** para essa oferta. A maioria das avaliações tem um escopo de limite de oferta de tempo de vida com um limite de oferta de "1". A maioria das ofertas de pequenas empresas tem um escopo de limite de oferta simultâneo com um limite de oferta de "2".
+- Ofertas **com Nenhum** podem ser adquiridas sem restrições.
+- **As ofertas** de tempo de vida podem ser adquiridas apenas uma vez.
+- **As ofertas** simultâneas podem ser adquiridas quantas vezes for permitido pelo valor **limite** da oferta para essa oferta. A maioria das avaliação tem um escopo de limite de oferta de tempo de vida com um limite de oferta de "1". A maioria das pequenas ofertas de negócios tem um escopo de limite de oferta simultânea com um limite de oferta de "2".
 
 > [!IMPORTANT]
-> Os limites de simultaneidade são aplicados mesmo se uma oferta for cancelada. Uma oferta deve ser completamente cancelada e, em seguida, desprovisionada para liberar espaço adicional, permitindo outra compra.
+> Os limites de simultnância são aplicados mesmo que uma oferta seja cancelada. Uma oferta deve ser completamente cancelada e, em seguida, desprovisionada para liberar um espaço adicional, permitindo outra compra.
 
 ### <a name="taxes-and-pricing"></a>Impostos e preços
 
-Todos os preços em listas de preços do CSP do Partner Center são incluídos no imposto. Para obter mais informações sobre os impostos do documento do Partner Center [e as isenções fiscais](tax-and-tax-exemptions.md).
+Todos os preços nas listas de preços do CSP do Partner Center são impostos inclusivos. Para obter mais informações no documento Partner Center [impostos e isenções de impostos](tax-and-tax-exemptions.md).
 
 ## <a name="multi-year-term-offers"></a>Ofertas de termo de vários anos
 
@@ -140,18 +140,18 @@ Há aproximadamente 50 ofertas do Dynamics que têm termos de três anos. Eles s
 
 - Os termos são de 36 meses, as assinaturas serão renovadas automaticamente após três anos
 - Os parceiros podem cancelar ou alterar o número de licenças durante o período da assinatura
-- A renovação anual estará no preço do tempo de compra para o prazo de três anos
+- A renovação anual terá o preço do tempo de compra para o termo de três anos
 - A frequência de cobrança ainda é anual ou mensal
 
-### <a name="72-month-offers"></a>Ofertas de 72 meses
+### <a name="72-month-offers"></a>ofertas de 72 meses
 
-Microsoft 365 oferta base A1 tem um prazo de seis anos.  Os complementos do Office 365 A1 estão disponíveis após a compra dessa oferta base. 
+Microsoft 365 oferta de base a1 tem um período de seis anos.  Os complementos do Office 365 a1 estão disponíveis após a compra dessa oferta base. 
 
 |**Nome da oferta**   |**ID da oferta**   |**Tipo**|
 |-------------------|-----------------------|----------------------------|
 |Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Oferta base|
-|Office 365 A1 para docentes (para Dispositivo)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Complemento|
-|Office 365 A1 para alunos (para Dispositivo)|bae285a9-d56b-4384-b02f-38adc61a6f12|Complemento|
+|Office 365 a1 para docentes (para dispositivo)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Complemento|
+|Office 365 a1 para estudantes (para dispositivo)|bae285a9-d56b-4384-b02f-38adc61a6f12|Complemento|
 
 Veja abaixo um resumo de como essas ofertas funcionam:
 
@@ -172,10 +172,10 @@ A maioria das listas de preços inclui um preço de lista, o preço que o parcei
 |Serviços baseados em licença  |Listado como ERP nas listas de preços com base em licença  |
 |Serviços baseados no uso do Azure  |Pode ser encontrado nas listas de preços equivalentes dos serviços compartilhados  |
 |Reservas do Azure  |Pode ser encontrado nas listas de preços equivalentes dos serviços compartilhados  |
-|Uso baseado no plano do Azure  |Os preços são revendedores não descontados em folhas de preços  |
-|Reservas de plano do Azure  |Referenciar listas de preços de serviços compartilhados de reservas do Azure  |
-|Assinaturas de software  |Listado como MSRP em listas de preços de assinaturas de software  |
-|Marketplace  |Listado como MSRP nas listas de preços do Marketplace  |
+|Uso baseado no plano do Azure  |Os preços são varejo, sem desconto em tabelas de preços  |
+|Reservas do Azure Plan  |Consultar listas de preços dos serviços compartilhados das reservas do Azure  |
+|Assinaturas de software  |Listadas como MSRP nas listas de preços de assinaturas de software  |
+|Marketplace  |Listado como MSRP em listas de preços do Marketplace  |
 
 Mais recursos: 
 

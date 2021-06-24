@@ -1,31 +1,31 @@
 ---
-title: Usar a análise do Partner Center para Power BI
+title: Usar Partner Center Analytics para Power BI
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como exibir seus dados de negócios usando o aplicativo de análise do Partner Center para Power BI (para parceiros diretos no CSP).
+description: Saiba como exibir seus dados empresariais usando o aplicativo Análise do Partner Center para Power BI (para parceiros diretos no programa Provedor de Soluções na Nuvem (CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96fe57f6e89928a69051c2e201c444882500b844
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 95eb018a3284d2de98c0ce6a9cd0ce6299d5571a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855022"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112564974"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Visualize seus dados de negócio com o aplicativo de análise do Partner Center para Microsoft Power BI
 
 
 
-**Funções apropriadas**: Administração Global | Administrador de gerenciamento de usuários | Agente de vendas | Agente de administração
+**Funções apropriadas**: Administrador global | Administrador de gerenciamento de usuários | Agente de vendas | Agente administrativo
 
 ## <a name="view-your-business-data"></a>Visualize seus dados de negócio
 
-Obtenha uma representação visual de seus dados corporativos com o aplicativo de análise do Partner Center para Power BI, incluindo:
+Obter uma representação visual dos dados de negócios com o aplicativo Partner Center Analytics para Microsoft Power BI, incluindo:
 
 - Crescimento de sua base de clientes, assinaturas e licenças
 
@@ -35,15 +35,15 @@ Obtenha uma representação visual de seus dados corporativos com o aplicativo d
 
 - Custo estimado (com base na tabela de tarifas mais recente)
 
-- Capacidade de exportar conjuntos de clientes e criar relatórios personalizados, incluindo por cliente.
+- Capacidade de exportar conjuntos de dados e criar relatórios personalizados, incluindo por cliente.
 
 ### <a name="about-the-partner-center-analytics-app-preview-release"></a>Sobre a versão de visualização do aplicativo de análises do Partner Center
 
-- Este aplicativo é apenas para provedores diretos no programa Provedor de Soluções na Nuvem Outros parceiros no CSP (revendedores indiretos, por exemplo) não poderão se conectar.
+- Este aplicativo é destinado somente a parceiros diretos no programa Provedor de Soluções na Nuvem (CSP). Outros parceiros no CSP (revendedores indiretos, por exemplo) não poderão se conectar.
 
 - Todos os custos estimados são pré-taxados na cobrança/ dados da fatura, e não são vinculados legalmente. Os Custos estimados destinam-se a ser usados somente para percepções.
 
-- As informações do cliente são baseadas em assinaturas. Todos os clientes para os quais você criou contas recentemente, mas que ainda não têm assinaturas, não são incluídos em contagens.
+- As informações do cliente são baseadas em assinaturas. Todos os clientes para os que você criou contas recentemente, mas que ainda não têm assinaturas, não estão incluídos em contagens.
 
 - Os custos estimados baseiam-se na tabela de taxa mais recente, que baseia-se nos preços CSP.
 
@@ -51,11 +51,11 @@ Obtenha uma representação visual de seus dados corporativos com o aplicativo d
 
 ### <a name="business-insights-report"></a>Relatório de ideias de negócios
 
-- **Locatários do cliente**: Número de locatários Azure distintos de clientes que adquiriram assinaturas
+- **Locatários do** cliente: número de locatários Azure Active Directory (Azure AD) distintos de clientes que compraram assinaturas
 
 - **Novo (últimos 30 dias)**: Novos clientes comprando pelo menos uma assinatura nos últimos 30 dias
 
-- **Rotatividade (últimos 30 dias)**: clientes sem nenhuma assinatura "ativa", "em cortesia" ou "desabilitada"
+- **Variação (últimos 30 dias)**: clientes sem assinaturas "ativas", "em carência" ou "desabilitadas"
 
 - **Novo (últimas 24 horas)**: Novos clientes comprando pelo menos uma assinatura nos últimas 24 horas
 
@@ -65,19 +65,19 @@ Obtenha uma representação visual de seus dados corporativos com o aplicativo d
 
 - **Clientes nos últimos 12 meses**: Tendência mês a mês de novos clientes e clientes de variação agregados mensalmente durante o período de últimos 12 meses
 
-- **Custo mensal por cliente estimado nos últimos 12 meses**: Clientes classificados pelo valor pré-taxado em dólar estimado para a fatura agregado mensalmente durante o período dos últimos 12 meses. Esse status indica os principais clientes que trazem mais receita.
+- **Custo mensal por cliente estimado nos últimos 12 meses**: Clientes classificados pelo valor pré-taxado em dólar estimado para a fatura agregado mensalmente durante o período dos últimos 12 meses. Esse status indica os principais clientes que trazem a maior parte da receita.
 
 - **Contagem de cliente por produto**: Produtos vendidos classificados por clientes associados. Esse status indica os principais produtos vendidos para a maioria dos clientes.
 
 ### <a name="subscription-insights-report"></a>Relatório de ideias de assinatura
 
-- **Status da assinatura**:
+- **Status da assinatura:**
 
-- Ativo: assinaturas pertencentes ao estado "ativo" ou "em carência"
+- Ativo: assinaturas que pertencem ao estado "ativo" ou "em carência"
 
   - Suspenso: assinaturas que pertencem ao estado "desabilitado"
 
-  - Desprovisionado: assinaturas que pertencem ao status "desprovisionado" ou "expirado"
+  - Des provisionado: assinaturas que pertencem ao status "des provisionado" ou "expirado"
 
 - **Status de expiração**:
 
@@ -87,7 +87,7 @@ Obtenha uma representação visual de seus dados corporativos com o aplicativo d
 
   - Expiram em 30 dias: Assinaturas que expirarão nos próximos 30 dias (onde data de término da assinatura é entre hoje e os próximos 30 dias)
 
-- **Total de assinaturas**: assinaturas no status "ativo", "em carência" ou "desabilitado"
+- **Total de assinaturas:** assinaturas no status "ativo", "em carência" ou "desabilitado"
 
 - **Novo (últimos 30 dias)**: Novas assinaturas compradas por clientes nos últimos 30 dias
 
@@ -95,19 +95,19 @@ Obtenha uma representação visual de seus dados corporativos com o aplicativo d
 
 - **Expira em 30 dias**: Assinaturas que expirarão nos próximos 30 dias
 
-- **Rotatividade (últimos 30 dias)**: Assinaturas que tiveram o provisionamento cancelado ou que foram suspensas (desabilitadas) nos últimos 30 dias
+- **Variação (últimos 30 dias)**: assinaturas que foram des provisionadas ou suspensas (desabilitadas) nos últimos 30 dias
 
-- **Distribuição por tipos de assinatura**:% de distribuição de assinaturas totais por licença com base em tipo de assinatura baseada em uso
+- **Distribuição por tipos de assinatura:**% de distribuição do total de assinaturas por tipo de assinatura baseado em licença e com base no uso
 
 - **Contagem de assinatura ativa por produto**: Produtos vendidos classificados por contagem de assinaturas ativas
 
 - **Assinaturas nos últimos 12 meses**: Tendência mês a mês de novas assinaturas e assinaturas com rotatividade agregadas mensalmente durante o período de últimos 12 meses
 
-- **Detalhes da assinatura do cliente**: exibição detalhada dos clientes, assinaturas e ofertas
+- **Detalhes da assinatura do** cliente: exibição detalhada dos clientes, assinaturas e ofertas
 
 ### <a name="license-insights-report"></a>Relatório de ideias de licença:
 
-- **Total de licenças**: o número total de licenças agregadas em todas as assinaturas baseadas em licença
+- **Total de licenças:** número total de licenças agregadas em todas as assinaturas baseadas em licença
 
 - **Novo (últimos 30 dias)**: Adição de licenças nos últimos 30 dias
 
@@ -119,9 +119,9 @@ Obtenha uma representação visual de seus dados corporativos com o aplicativo d
 
 - **Contagem de licença ativa por produto**: Produtos vendidos classificados por contagem de licenças ativas
 
-- **Contagem de licenças ativas por cliente**: clientes classificados por contagem de licenças ativas
+- **Contagem de licenças ativas por cliente:** clientes classificaram por contagem de licenças ativas
 
-- **Detalhes do evento de licença do cliente nos últimos 90 dias**: exibição detalhada dos clientes, assinaturas e eventos de assinatura, incluindo data do evento, nome do evento, quantidade e alteração na quantidade.
+- Detalhes do evento de licença do cliente nos últimos **90** dias: exibição detalhada dos clientes, assinaturas e eventos de assinatura, incluindo data do evento, nome do evento, quantidade e alteração na quantidade.
 
 ### <a name="licenses-usage-report"></a>Relatório de uso de licenças:
 
@@ -139,7 +139,7 @@ Obtenha uma representação visual de seus dados corporativos com o aplicativo d
 
 ### <a name="azure-insights-report"></a>Relatório de ideias do Azure:
 
-- **Clientes baseados em uso nos últimos 12 meses**: tendência de mês a mês de novos clientes baseados em uso e clientes baseados em uso com variação agregados mensalmente durante o período dos últimos 12 meses
+- Clientes baseados em uso nos últimos **12** meses: tendência mês a mês de novos clientes baseados em uso e clientes baseados em uso rotativos agregados mensalmente ao longo do período dos últimos 12 meses
 
 - Assinaturas baseadas em uso nos últimos **12** meses: tendência mensal de novas assinaturas baseadas em uso e assinaturas baseadas em uso rotativas agregadas mensalmente durante o período dos últimos 12 meses
 

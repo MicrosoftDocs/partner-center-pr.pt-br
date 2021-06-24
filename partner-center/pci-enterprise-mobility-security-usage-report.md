@@ -8,12 +8,12 @@ description: Veja o que você está fazendo bem e onde pode melhorar em relaçã
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: d230f8abfa01f0c00494af9f626f26fb35b80c1c
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 38eeb13c04edca803321e4ccc532b204af5bb9bf
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277820"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565382"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security relatório de uso disponível no painel Partner Center Insights
 
@@ -28,7 +28,7 @@ O Enterprise Mobility + Security de uso fornece dados de uso para Enterprise Mob
 - Enterprise Mobility + Security de uso
 
  > [!NOTE]
- > Este relatório está disponível no painel insights. Para exibir esse relatório, você deve ter uma função específica no Partner Center, como Administrador Global, Administrador da Conta, Visualizador de Relatório ou Visualizador de Relatório Executivo. Para obter mais informações, consulte Administrador Global da sua empresa. Tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de Visualizador de Relatório Executivo.
+ > Este relatório está disponível no painel insights. Para exibir esse relatório, você deve ter uma função específica no Partner Center, como Administrador global, Administrador da conta, Visualizador de relatório ou Visualizador de relatório executivo. Para obter mais informações, consulte Administrador global da sua empresa. Tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de visualizador de relatório executivo.
 
 ## <a name="summary"></a>Resumo
 

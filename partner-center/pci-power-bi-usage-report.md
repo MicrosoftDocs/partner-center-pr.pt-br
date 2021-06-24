@@ -8,18 +8,18 @@ description: Veja o que você está fazendo bem e onde pode melhorar em relaçã
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 36993633ab2e2be0a726c70bf930f842bfaf890f
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 75aa86ebc768b9d6d252a29eb84aef97ab99ab0c
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276290"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565331"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI relatório de uso disponível no painel Partner Center Insights
 
 **Funções apropriadas:** administrador global | Agente administrador | Visualizador de | Visualizador de relatório executivo
 
-O Power BI de uso fornece dados de uso para Power BI assinaturas que você vende ou gerencia para seus clientes. Você pode exibir as seções a seguir no relatório Power BI uso.
+O Power BI de uso fornece dados de uso para as assinaturas do Microsoft Power BI que você vende ou gerencia para seus clientes. Você pode exibir as seções a seguir no relatório Power BI uso.
 
 - Resumo
 - Power BI uso por geografia
@@ -28,7 +28,7 @@ O Power BI de uso fornece dados de uso para Power BI assinaturas que você vende
 - Power BI de uso
 
  > [!NOTE]
- > Este relatório está disponível no painel insights. Para exibir esse relatório, você deve ter uma função específica no Partner Center, como Administrador Global, Administrador da Conta, Visualizador de Relatório ou Visualizador de Relatório Executivo. Para obter mais informações, consulte Administrador Global da sua empresa. Tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de Visualizador de Relatório Executivo.
+ > Este relatório está disponível no painel insights. Para exibir esse relatório, você deve ter uma função específica no Partner Center, como Administrador global, Administrador da conta, Visualizador de relatório ou Visualizador de relatório executivo. Para obter mais informações, consulte Administrador global da sua empresa. Tipos específicos de dados neste relatório também podem estar disponíveis somente para usuários com privilégios de visualizador de relatório executivo.
 
 ## <a name="summary"></a>Resumo
 

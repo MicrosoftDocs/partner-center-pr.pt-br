@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 803c299311f129c4842a92a27abd9b9addb49f17
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: fb06a863218446b0e88b38af242b4dac044560c0
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854427"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565297"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Controle de acesso baseado em função para o painel Partner Center Insights
 
@@ -22,12 +22,12 @@ ms.locfileid: "109854427"
 
 O painel Insights usa duas novas funções no Partner Center para gerenciar o acesso de funcionários aos relatórios – Visualizador de Relatórios Executivo e Visualizador de Relatórios.  Os usuários na função Visualizador de Relatórios Executivos têm acesso a todos os conjuntos de dados de relatório, enquanto os usuários na função Visualizador de Relatórios não terão acesso a conjuntos de dados confidenciais, como receita e dados pessoais de clientes/funcionários.  
 
-Assim como com outras Partner Center, o administrador global ou o administrador da conta poderá atribuir usuários a essas funções na página Gerenciamento de usuários. As funções podem ser aplicáveis em toda a empresa ou em locais específicos do MPN. As funções atribuídas para localizações específicas do MPN limitam o usuário à exibição de dados de relatório associados somente aos locais do MPN selecionados. O parceiro pode selecionar um ou vários locais na exibição abaixo.
+Assim como com outras Partner Center, o administrador global ou o administrador da conta poderá atribuir usuários a essas funções na página Gerenciamento de usuários. As funções podem ser aplicáveis em toda a empresa ou para locais Microsoft Partner Network (MPN) específicos. As funções atribuídas para localizações específicas do MPN limitam o usuário à exibição de dados de relatório associados somente aos locais do MPN selecionados. O parceiro pode selecionar um ou vários locais na exibição abaixo.
 
 :::image type="content" source="images/pci/roles.png" alt-text="Mostra as configurações de funções Partner Center Insights específicas do local para o Visualizador de Relatório e o Visualizador de Relatório Executivo.":::
 
 >[!Note]
-> Os usuários que são administradores do MPN a partir de 20 de  janeiro de 2020 são adicionados automaticamente à função de Visualizador de Relatório Executivo de toda a empresa para todos os locais desse locatário. Portanto, esses usuários podem acessar os relatórios como um visualizador de Relatórios Executivos sem nenhuma ação explícita exigida pelo administrador global ou administrador da conta. Os administradores globais e administradores de conta podem substituir as funções atribuídas automaticamente desses usuários para aumentar ou limitar ainda mais seus recursos.
+> Os usuários que são administradores de parceiros do MPN a partir de 20  de janeiro de 2020 são adicionados automaticamente à função de Visualizador de Relatório Executivo de toda a empresa para todos os locais desse locatário. Portanto, esses usuários podem acessar os relatórios como um visualizador de Relatórios Executivos sem nenhuma ação explícita exigida pelo administrador global ou administrador da conta. Os administradores globais e administradores de conta podem substituir as funções atribuídas automaticamente desses usuários para aumentar ou limitar ainda mais seus recursos.
 
 ## <a name="next-steps"></a>Próximas etapas
 
