@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38985e48923bb0a3c6ad54eb600a44d419b5ad85
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e715ec2c787ea3df623256904f8af1e7d8f4e9c8
+ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150787"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112915568"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vender a setores especializados como educação, sem fins lucrativos e usuários do governo
 
@@ -27,7 +27,8 @@ A Microsoft fornece preços especiais e reduzidos para grupos de clientes seleci
 |**Preço especial**   |**Qualificações necessárias para o revendedor**   |**Qualificações necessárias para o cliente**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Educação   |Nenhum   | Deve ser um [Usuário de Educação Qualificada.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
-|Governo   |Para vender o Azure, inscreva-se usando o formulário validação de [nuvem do Microsoft US Government.](https://azuregov.microsoft.com/csp) Para vender assinaturas baseadas em licença ao governo, não há qualificação necessária.|   Nenhum|
+| Governo Federal dos EUA   |Para vender o Azure, inscreva-se usando o formulário validação de [nuvem do Microsoft US Government.](https://azuregov.microsoft.com/csp) Para vender assinaturas baseadas em licença ao governo, não há qualificação necessária.|   Nenhum|
+| Todas as outras entidades governamentais | Nenhum<br />Os parceiros devem provisioná-los usando ofertas "corporativas". | Nenhum
 |Sem fins lucrativos  |Nenhum<br/> Deve ter um locatário do Azure Active Directory sem fins lucrativos.<br/> Saiba mais sobre [ofertas especiais sem fins lucrativos](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Inscreva-se por meio [do programa sem fins lucrativos da Microsoft](https://nonprofit.microsoft.com/#/register) para ser qualificado.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Verificar suas qualificações de revendedor
@@ -65,16 +66,15 @@ Regras de compra para vender ofertas especiais aos clientes:
 
 |**Tipo de cliente**   |**Pode ser vendido**   |**Não pode ser vendido**   |
 |:----------------------------|:---------------------------------|:------------------------------------------|
-| Comercial |Comercial | Nuvem da Comunidade governamental, de educação ou sem fins lucrativos |
-| Sem fins lucrativos |Comercial, sem fins lucrativos | Nuvem da Comunidade do governo ou da educação |
-| Educação |Comercial, educação | Nuvem da Comunidade governamental ou sem fins lucrativos |
-| Nuvem da Comunidade governamental |Nuvem da Comunidade governamental | Sem fins lucrativos, educacionais ou comerciais |
-| Entidade de Propriedade do estado  | Comercial  | Nuvem da Comunidade governamental, de educação ou sem fins lucrativos  |
-| Se entidade de educação e estado de propriedade | Comercial, educação | Nuvem da Comunidade governamental ou sem fins lucrativos |
-| Se a entidade de Propriedade do estado e a nuvem da Comunidade governamental | Nuvem da Comunidade governamental | Sem fins lucrativos, educacionais ou comerciais |
+| Comercial |Comercial | Sem fins lucrativos, educação ou Nuvem da Comunidade Governamental |
+| Sem fins lucrativos |Comercial, sem fins lucrativos | Educação ou Nuvem da Comunidade Governamental |
+| Educação |Comercial, Educação | Sem fins lucrativos ou Nuvem da Comunidade Governamental |
+| Nuvem da Comunidade Governamental |Nuvem da Comunidade Governamental | Sem fins lucrativos, educação ou comercial |
+| Entidade de propriedade do estado  | Comercial  | Sem fins lucrativos, educação ou Nuvem da Comunidade Governamental  |
+| Se entidade de educação e estado | Comercial, Educação | Sem fins lucrativos ou Nuvem da Comunidade Governamental |
+| Se entidade de propriedade de estado e Nuvem da Comunidade Governamental | Nuvem da Comunidade Governamental | Sem fins lucrativos, educação ou comercial |
 
 ## <a name="next-steps"></a>Próximas etapas
 
 - [Vender assinaturas do Minecraft: Education Edition para clientes da área de educação](minecraft-subscriptions.md)
-
 - [Partner Center do Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
