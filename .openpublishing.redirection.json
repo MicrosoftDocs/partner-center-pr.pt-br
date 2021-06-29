@@ -1,444 +1,449 @@
 {
     "redirections": [
-  {
-    "source_path": "china/add-a-new-customer.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/add-a-new-customer",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/tutorials/partner-security-requirements.yml",
-    "redirect_url": "/partner-center/partner-security-requirements",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/marketplace/preferred-solutions.md",
-    "redirect_url": "/marketplace/appsource-overview#microsoft-preferred-solutions",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/implement-security-requirements.md",
-    "redirect_url": "/partner-center/partner-security-requirements",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/incentives-unified-user-guide.md",
-    "redirect_url": "/partner-center/payout-statement",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/enroll-in-csp-for-microsoft-cloud-germany.md",
-    "redirect_url": "/partner-center/partner-center-for-microsoft-cloud-germany",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/add-licenses-or-services-to-an-existing-subscription.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/add-licenses-or-services-to-an-existing-subscription",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/assign-licenses-to-users.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/assign-licenses-to-users",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/billing.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/billing",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/check-service-health.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/check-service-health",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/common-billing-scenarios.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/common-billing-scenarios",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/create-user-accounts-and-set-permissions.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/create-user-accounts-and-set-permissions",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/csp-program-guide-and-agreements.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/csp-program-guide-and-agreements",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/customer-accounts.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/customer-accounts",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/customer-self-support.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/customer-self-support",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/customer-subscriptions.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/customer-subscriptions",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/customer-support.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/customer-support",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/customize-the-catalog.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/customize-the-catalog",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/develop-for-partner-center.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/develop-for-partner-center",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/enrolling-in-the-csp-program.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/enrolling-in-the-csp-program",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/index.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/index",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/non-payment-fraud-or-misuse.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/non-payment-fraud-or-misuse",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/partner-center-account-setup.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/partner-center-account-setup",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/provide-billing-support.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/provide-billing-support",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/provide-technical-support.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/provide-technical-support",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/read-your-bill.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/read-your-bill",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/report-problems-on-behalf-of-a-customer.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/report-problems-on-behalf-of-a-customer",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/report-problems-with-partner-center.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/report-problems-with-partner-center",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/request-a-relationship-with-a-customer.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/request-a-relationship-with-a-customer",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/reset-a-user-password.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/reset-a-user-password",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/see-offers-and-pricing.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/see-offers-and-pricing",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/see-your-customer-list.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/see-your-customer-list",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/suspend-a-subscription.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/suspend-a-subscription",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/update-customer-account-info.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/update-customer-account-info",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/update-your-partner-profile.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/update-your-partner-profile",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/use-the-reconciliation-files.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/use-the-reconciliation-files",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "china/work-with-other-partners.md",
-    "redirect_url": "https://www.21vbluecloud.com/partner-china/work-with-other-partners",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/third-party-offers.md",
-    "redirect_url": "/partner-center/sell-marketplace-products",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/third-party-help.md",
-    "redirect_url": "/partner-center/sell-marketplace-products",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/connect-with-third-party.md",
-    "redirect_url": "/partner-center/sell-marketplace-products",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/search-third-party.md",
-    "redirect_url": "/partner-center/sell-marketplace-products",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/competencies.md",
-    "redirect_url": "/partner-center/learn-about-competencies",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/competency-application-development.md",
-    "redirect_url": "https://partner.microsoft.com/membership/competencies",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/competency-application-integration.md",
-    "redirect_url": "https://partner.microsoft.com/membership/competencies",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/competency-cloud-business-applications.md",
-    "redirect_url": "https://partner.microsoft.com/membership/competencies",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/competency-cloud-customer-relationship-management.md",
-    "redirect_url": "https://partner.microsoft.com/membership/competencies",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/competency-cloud-platform.md",
-    "redirect_url": "https://partner.microsoft.com/membership/competencies",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/competency-cloud-productivity.md",
-    "redirect_url": "https://partner.microsoft.com/membership/competencies",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/competency-collaboration-and-content.md",
-    "redirect_url": "https://partner.microsoft.com/membership/competencies",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/competency-communications.md",
-    "redirect_url": "https://partner.microsoft.com/membership/competencies",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/competency-data-analytics.md",
-    "redirect_url": "https://partner.microsoft.com/membership/competencies",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/competency-data-platform.md",
-    "redirect_url": "https://partner.microsoft.com/membership/competencies",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/competency-datacenter.md",
-    "redirect_url": "https://partner.microsoft.com/membership/competencies",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/competency-devops.md",
-    "redirect_url": "https://partner.microsoft.com/membership/competencies",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/competency-enterprise-mobility-management.md",
-    "redirect_url": "https://partner.microsoft.com/membership/competencies",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/competency-enterprise-resource-planning.md",
-    "redirect_url": "https://partner.microsoft.com/membership/competencies",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/competency-messaging.md",
-    "redirect_url": "https://partner.microsoft.com/membership/competencies",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/competency-project-and-portfolio-management.md",
-    "redirect_url": "https://partner.microsoft.com/membership/competencies",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/competency-small-and-midmarket-cloud-solutions.md",
-    "redirect_url": "https://partner.microsoft.com/membership/competencies",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/competency-windows-and-devices.md",
-    "redirect_url": "https://partner.microsoft.com/membership/competencies",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/calculate-partner-earned-credit.md",
-    "redirect_url": "/partner-center/partner-earned-credit-explanation",
-    "redirect_document_id": "true"
-  },
-  {
-    "source_path": "partner-center/suspend-a-subscription.md",
-    "redirect_url": "/partner-center/create-a-new-subscription#suspend-a-subscription",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/partner-contributions.md",
-    "redirect_url": "/partner-center/partner-contribution-indicators",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/incentives-payouts.md",
-    "redirect_url": "/partner-center/understand-incentive-payouts",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/incentives-payout-tax-profile-faqs.md",
-    "redirect_url": "/partner-center/payout-faq",
-    "redirect_document_id": "TRUE"
-  },
-  {
-    "source_path": "partner-center/faq-about-new-billing-features.md",
-    "redirect_url": "/partner-center/billing",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/vvr-faq.md",
-    "redirect_url": "/partner-center/software-assurance-dps",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/customers_revoke_admin_privileges.md",
-    "redirect_url": "/partner-center/customers-revoke-admin-privileges",
-    "redirect_document_id": "TRUE"
-  },
-  {
-    "source_path": "partner-center/dashboard/index.yml",
-    "redirect_url": "/partner-center/",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/responding-to-referrals.md",
-    "redirect_url": "/partner-center/manage-leads",
-    "redirect_document_id": "FALSE"
-  },
-  {
-    "source_path": "partner-center/non-payment--fraud--or-misuse.md",
-    "redirect_url": "/partner-center/non-payment-fraud-misuse",
-    "redirect_document_id": "TRUE"
-  },
-  {
-    "source_path": "partner-center/o365-partner-advisory.md",
-    "redirect_url": "/partner-center/tax-and-fees-voice-services",
-    "redirect_document_id": "TRUE"
-  },
-  {
-    "source_path": "partner-center/find-domain-name.md",
-    "redirect_url": "/partner-center/find-ids-and-domain-names",
-    "redirect_document_id": "TRUE"
-  },
-  {
-    "source_path": "partner-center/co-sell-with-microsoft.md",
-    "redirect_url": "/partner-center/manage-co-sell-opportunities",
-    "redirect_document_id": "TRUE"
-  },
-  {
-    "source_path": "partner-center/confirm-consent.md",
-    "redirect_url": "/partner-center/confirm-customer-agreement",
-    "redirect_document_id": "TRUE"
-  },
-  {
-    "source_path": "partner-center/attest-acceptance-customer-agreement.md",
-    "redirect_url": "/partner-center/confirm-customer-agreement",
-    "redirect_document_id": "False"
-  },
-  {
-    "source_path": "partner-center/billing-different-types.md",
-    "redirect_url": "/partner-center/billing-basics",
-    "redirect_document_id": "False"
-  },
-  {
-    "source_path": "partner-center/buy-email-domain.md",
-    "redirect_url": "/partner-center/mpn-create-a-partner-center-account",
-    "redirect_document_id": "False"
-  },
-  {
-    "source_path": "partner-center/azure-cost-management-app-for-csp-partners.md",
-    "redirect_url": "https://docs.microsoft.com/azure/cost-management-billing/costs/get-started-partners",
-    "redirect_document_id": "False"
-  },
-  {
-    "source_path": "partner-center/pac-to-pc-overview.md",
-    "redirect_url": "/partner-center/index",
-    "redirect_document_id": "False"
-  },
-  {
-    "source_path": "partner-center/moving-from-pac-to-pc.md",
-    "redirect_url": "/partner-center/index",
-    "redirect_document_id": "False"
-  },  
-  {
-    "source_path": "partner-center/test-drive-new-features.md",
-    "redirect_url": "/partner-center/partner-center-account-setup",
-    "redirect_document_id": "False"
-  },
-  {
-    "source_path": "partner-center/prepare-pmc-pc-migration.md",
-    "redirect_url": "/partner-center/partner-membership-center-retirement-faq",
-    "redirect_document_id": "False"
-  },
-  {
-    "source_path": "partner-center/guide-to-migration.md",
-    "redirect_url": "/partner-center/partner-membership-center-retirement-faq",
-    "redirect_document_id": "False"
-  },
-  {
-    "source_path": "partner-center/move-pmc-pc-map.md",
-    "redirect_url": "/partner-center/partner-membership-center-retirement-faq",
-    "redirect_document_id": "False"
-  },
-  {
-    "source_path": "partner-center/move-multiple-companies.md",
-    "redirect_url": "/partner-center/partner-membership-center-retirement-faq",
-    "redirect_document_id": "False"
-  },
-  {
-    "source_path": "partner-center/consolidate-accounts.md",
-    "redirect_url": "/partner-center/partner-membership-center-retirement-faq",
-    "redirect_document_id": "False"
-  },
-  {
-    "source_path": "partner-center/partner-membership-center-tech-benefits-activate.md",
-    "redirect_url": "/partner-center/partner-membership-center-retirement-faq",
-    "redirect_document_id": "False"
-  }
-]
+        {
+            "source_path": "china/add-a-new-customer.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/add-a-new-customer",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/add-licenses-or-services-to-an-existing-subscription.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/add-licenses-or-services-to-an-existing-subscription",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/assign-licenses-to-users.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/assign-licenses-to-users",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/billing.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/billing",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/check-service-health.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/check-service-health",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/common-billing-scenarios.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/common-billing-scenarios",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/create-user-accounts-and-set-permissions.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/create-user-accounts-and-set-permissions",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/csp-program-guide-and-agreements.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/csp-program-guide-and-agreements",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/customer-accounts.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/customer-accounts",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/customer-self-support.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/customer-self-support",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/customer-subscriptions.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/customer-subscriptions",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/customer-support.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/customer-support",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/customize-the-catalog.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/customize-the-catalog",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/develop-for-partner-center.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/develop-for-partner-center",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/enrolling-in-the-csp-program.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/enrolling-in-the-csp-program",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/index.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/index",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/non-payment-fraud-or-misuse.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/non-payment-fraud-or-misuse",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/partner-center-account-setup.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/partner-center-account-setup",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/provide-billing-support.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/provide-billing-support",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/provide-technical-support.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/provide-technical-support",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/read-your-bill.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/read-your-bill",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/report-problems-on-behalf-of-a-customer.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/report-problems-on-behalf-of-a-customer",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/report-problems-with-partner-center.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/report-problems-with-partner-center",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/request-a-relationship-with-a-customer.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/request-a-relationship-with-a-customer",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/reset-a-user-password.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/reset-a-user-password",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/see-offers-and-pricing.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/see-offers-and-pricing",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/see-your-customer-list.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/see-your-customer-list",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/suspend-a-subscription.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/suspend-a-subscription",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/update-customer-account-info.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/update-customer-account-info",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/update-your-partner-profile.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/update-your-partner-profile",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/use-the-reconciliation-files.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/use-the-reconciliation-files",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "china/work-with-other-partners.md",
+            "redirect_url": "https://www.21vbluecloud.com/partner-china/work-with-other-partners",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "marketplace/partner-integrations.md",
+            "redirect_url": "/azure/partner-solutions/overview",
+            "redirect_document_id": "False"
+        },
+        {
+            "source_path": "partner-center/attest-acceptance-customer-agreement.md",
+            "redirect_url": "/partner-center/confirm-customer-agreement",
+            "redirect_document_id": "False"
+        },
+        {
+            "source_path": "partner-center/azure-cost-management-app-for-csp-partners.md",
+            "redirect_url": "https://docs.microsoft.com/azure/cost-management-billing/costs/get-started-partners",
+            "redirect_document_id": "False"
+        },
+        {
+            "source_path": "partner-center/billing-different-types.md",
+            "redirect_url": "/partner-center/billing-basics",
+            "redirect_document_id": "False"
+        },
+        {
+            "source_path": "partner-center/buy-email-domain.md",
+            "redirect_url": "/partner-center/mpn-create-a-partner-center-account",
+            "redirect_document_id": "False"
+        },
+        {
+            "source_path": "partner-center/calculate-partner-earned-credit.md",
+            "redirect_url": "/partner-center/partner-earned-credit-explanation",
+            "redirect_document_id": "true"
+        },
+        {
+            "source_path": "partner-center/co-sell-with-microsoft.md",
+            "redirect_url": "/partner-center/manage-co-sell-opportunities",
+            "redirect_document_id": "TRUE"
+        },
+        {
+            "source_path": "partner-center/competencies.md",
+            "redirect_url": "/partner-center/learn-about-competencies",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/competency-application-development.md",
+            "redirect_url": "https://partner.microsoft.com/membership/competencies",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/competency-application-integration.md",
+            "redirect_url": "https://partner.microsoft.com/membership/competencies",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/competency-cloud-business-applications.md",
+            "redirect_url": "https://partner.microsoft.com/membership/competencies",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/competency-cloud-customer-relationship-management.md",
+            "redirect_url": "https://partner.microsoft.com/membership/competencies",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/competency-cloud-platform.md",
+            "redirect_url": "https://partner.microsoft.com/membership/competencies",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/competency-cloud-productivity.md",
+            "redirect_url": "https://partner.microsoft.com/membership/competencies",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/competency-collaboration-and-content.md",
+            "redirect_url": "https://partner.microsoft.com/membership/competencies",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/competency-communications.md",
+            "redirect_url": "https://partner.microsoft.com/membership/competencies",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/competency-data-analytics.md",
+            "redirect_url": "https://partner.microsoft.com/membership/competencies",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/competency-data-platform.md",
+            "redirect_url": "https://partner.microsoft.com/membership/competencies",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/competency-datacenter.md",
+            "redirect_url": "https://partner.microsoft.com/membership/competencies",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/competency-devops.md",
+            "redirect_url": "https://partner.microsoft.com/membership/competencies",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/competency-enterprise-mobility-management.md",
+            "redirect_url": "https://partner.microsoft.com/membership/competencies",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/competency-enterprise-resource-planning.md",
+            "redirect_url": "https://partner.microsoft.com/membership/competencies",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/competency-messaging.md",
+            "redirect_url": "https://partner.microsoft.com/membership/competencies",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/competency-project-and-portfolio-management.md",
+            "redirect_url": "https://partner.microsoft.com/membership/competencies",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/competency-small-and-midmarket-cloud-solutions.md",
+            "redirect_url": "https://partner.microsoft.com/membership/competencies",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/competency-windows-and-devices.md",
+            "redirect_url": "https://partner.microsoft.com/membership/competencies",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/confirm-consent.md",
+            "redirect_url": "/partner-center/confirm-customer-agreement",
+            "redirect_document_id": "TRUE"
+        },
+        {
+            "source_path": "partner-center/connect-with-third-party.md",
+            "redirect_url": "/partner-center/sell-marketplace-products",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/consolidate-accounts.md",
+            "redirect_url": "/partner-center/partner-membership-center-retirement-faq",
+            "redirect_document_id": "False"
+        },
+        {
+            "source_path": "partner-center/customers_revoke_admin_privileges.md",
+            "redirect_url": "/partner-center/customers-revoke-admin-privileges",
+            "redirect_document_id": "TRUE"
+        },
+        {
+            "source_path": "partner-center/dashboard/index.yml",
+            "redirect_url": "/partner-center/",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/enroll-in-csp-for-microsoft-cloud-germany.md",
+            "redirect_url": "/partner-center/partner-center-for-microsoft-cloud-germany",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/faq-about-new-billing-features.md",
+            "redirect_url": "/partner-center/billing",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/find-domain-name.md",
+            "redirect_url": "/partner-center/find-ids-and-domain-names",
+            "redirect_document_id": "TRUE"
+        },
+        {
+            "source_path": "partner-center/guide-to-migration.md",
+            "redirect_url": "/partner-center/partner-membership-center-retirement-faq",
+            "redirect_document_id": "False"
+        },
+        {
+            "source_path": "partner-center/implement-security-requirements.md",
+            "redirect_url": "/partner-center/partner-security-requirements",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/incentives-payout-tax-profile-faqs.md",
+            "redirect_url": "/partner-center/payout-faq",
+            "redirect_document_id": "TRUE"
+        },
+        {
+            "source_path": "partner-center/incentives-payouts.md",
+            "redirect_url": "/partner-center/understand-incentive-payouts",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/incentives-unified-user-guide.md",
+            "redirect_url": "/partner-center/payout-statement",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/marketplace/preferred-solutions.md",
+            "redirect_url": "/marketplace/appsource-overview#microsoft-preferred-solutions",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/move-multiple-companies.md",
+            "redirect_url": "/partner-center/partner-membership-center-retirement-faq",
+            "redirect_document_id": "False"
+        },
+        {
+            "source_path": "partner-center/move-pmc-pc-map.md",
+            "redirect_url": "/partner-center/partner-membership-center-retirement-faq",
+            "redirect_document_id": "False"
+        },
+        {
+            "source_path": "partner-center/moving-from-pac-to-pc.md",
+            "redirect_url": "/partner-center/index",
+            "redirect_document_id": "False"
+        },
+        {
+            "source_path": "partner-center/non-payment--fraud--or-misuse.md",
+            "redirect_url": "/partner-center/non-payment-fraud-misuse",
+            "redirect_document_id": "TRUE"
+        },
+        {
+            "source_path": "partner-center/o365-partner-advisory.md",
+            "redirect_url": "/partner-center/tax-and-fees-voice-services",
+            "redirect_document_id": "TRUE"
+        },
+        {
+            "source_path": "partner-center/pac-to-pc-overview.md",
+            "redirect_url": "/partner-center/index",
+            "redirect_document_id": "False"
+        },
+        {
+            "source_path": "partner-center/partner-contributions.md",
+            "redirect_url": "/partner-center/partner-contribution-indicators",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/partner-membership-center-tech-benefits-activate.md",
+            "redirect_url": "/partner-center/partner-membership-center-retirement-faq",
+            "redirect_document_id": "False"
+        },
+        {
+            "source_path": "partner-center/prepare-pmc-pc-migration.md",
+            "redirect_url": "/partner-center/partner-membership-center-retirement-faq",
+            "redirect_document_id": "False"
+        },
+        {
+            "source_path": "partner-center/responding-to-referrals.md",
+            "redirect_url": "/partner-center/manage-leads",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/search-third-party.md",
+            "redirect_url": "/partner-center/sell-marketplace-products",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/suspend-a-subscription.md",
+            "redirect_url": "/partner-center/create-a-new-subscription#suspend-a-subscription",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/test-drive-new-features.md",
+            "redirect_url": "/partner-center/partner-center-account-setup",
+            "redirect_document_id": "False"
+        },
+        {
+            "source_path": "partner-center/third-party-help.md",
+            "redirect_url": "/partner-center/sell-marketplace-products",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/third-party-offers.md",
+            "redirect_url": "/partner-center/sell-marketplace-products",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/tutorials/partner-security-requirements.yml",
+            "redirect_url": "/partner-center/partner-security-requirements",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/vvr-faq.md",
+            "redirect_url": "/partner-center/software-assurance-dps",
+            "redirect_document_id": "FALSE"
+        }
+    ]
 }
