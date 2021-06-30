@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 4a8e785de051aa6f722a1bfddc4ad83d6502bbb3
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: f521e55869d60987fb46cd5d570bf206939e0782
+ms.sourcegitcommit: 8235c89e789cdb5115fc1c19151fa8e97c743fe5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551649"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113080632"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Como e quando solicitar um crédito SLA (contrato de nível de serviço) da Microsoft
 
@@ -33,8 +33,8 @@ Os créditos SLA da Microsoft são determinados com base em quais serviços fora
 
 *O parceiro CSP deve enviar a declaração e todas as informações necessárias até o final do mês do calendário após o mês em que o incidente ocorreu.* Por exemplo, se o incidente ocorreu em 15 de fevereiro, a Microsoft deve receber a declaração e todas as informações necessárias até 31 de março. Os clientes finais e revendedores indiretos não podem enviar declarações de crédito SLA; O provedor indireto ou o parceiro de cobrança direta deve enviar declarações em seu nome.
 
->[!NOTE]
->Incidentes de consultoria ([Como verificar Microsoft 365 de serviço](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)) não estão qualificados para créditos SLA.
+> [!NOTE]
+> Incidentes de consultoria não são qualificados para créditos SLA. Um incidente postado no Painel de Saúde  do Serviço indica que um locatário pode ser afetado e representa as melhores informações que a Microsoft tem no momento da publicação. Os dados da página de saúde representam a disponibilidade geral de um serviço. O impacto, a mitigação e a resolução de serviço individuais podem variar. Você pode revisar a Postagem de Incidentes final e a Revisão pós-incidente para obter mais detalhes. Confira [Como verificar a Microsoft 365 do serviço](/microsoft-365/enterprise/view-service-health#incidents-and-advisories) para obter mais informações.
 
 ### <a name="required-information"></a>Informações necessárias
 
@@ -65,7 +65,7 @@ Você pode encontrar o identificador do incidente de falha na página **De Saúd
 | EX | Exchange Online |
 | FO | Proteção do Exchange Online |
 | SB | Skype for Business Online (anteriormente Lync Online) |
-| Sistema operacional | Assinatura do Office |
+| SO | Assinatura do Office |
 | PB | Power BI para Office 365 |
 | SP | SharePoint online |
 | Você | Yammer Enterprise |

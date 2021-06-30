@@ -1,85 +1,83 @@
 ---
 title: Registre suas negociações
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 06/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Quando você registra um negócio que ganhou no Partner Center, ele ajuda a Microsoft a fornecer mais oportunidades no futuro.
+description: Quando você registra um negócio que ganhou no Partner Center, isso ajuda a Microsoft a fornecer mais oportunidades no futuro.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 4709236b8887bc262cac3bf36b5dd7fcf3c17c92
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: eaa9bb6f8e57033669ef584e7c52c0d050a532e0
+ms.sourcegitcommit: 8235c89e789cdb5115fc1c19151fa8e97c743fe5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551139"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113080649"
 ---
-# <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registre as negociações que você ganhou no Partner Center para poder obter mais oportunidades posteriormente
+# <a name="register-deals-youve-won-in-partner-center"></a>Registre as negociações que você ganhou Partner Center
 
 **Funções apropriadas**: Administrador de indicações
 
 Você pode registrar negociações que ganhou no Partner Center fornecendo mais informações sobre o contrato. Essas informações nos ajudam a oferecer mais oportunidades para você no futuro.
 
-Para determinadas soluções qualificadas, depois de selecionar **ganhas** no [processo de resposta de referência](manage-leads.md), você será solicitado a fornecer informações adicionais para registrar seu negócio. A Microsoft revisará as informações que você fornecer e poderá solicitar mais detalhes durante o processo de revisão.
+Há dois caminhos que levam ao registro de negociação:
 
-Você também pode registrar novas negociações que ganhou que usam uma de suas soluções, mesmo se elas não foram originadas por meio de uma [indicação](referrals.md).
+- Você criou uma nova oferta na seção Oportunidades de venda em **cooperação** e sua oferta atende aos critérios de registro de oferta.
+- Você deseja relatar um negócio fechado do ISV Connect, que não foi vendido em cooperação com a Microsoft.
 
-## <a name="register-a-new-deal"></a>Registrar uma nova negociação
+## <a name="register-a-deal-originating-from-a-co-sell-opportunity"></a>Registrar uma oferta originada de uma oportunidade de venda em cooperação
 
-Para registrar um novo **negócio de venda conjunta de IP**, acesse a respectiva oportunidade de venda e selecione **registrar-se** na seção "andamento da sua empresa".
+Se você estiver procurando registrar uma negociação originada de uma oportunidade de venda reversível, sua oferta deverá atender aos seguintes requisitos de qualificação:
 
-Na página de **negociação do rascunho** , forneça as informações a seguir.
+- O tipo de negociação é co-venda ou por parceiro (você optou por permitir que os vendedores da Microsoft exigam essa oferta).
+- Há pelo menos uma solução qualificada para incentivos na oferta. Uma solução será qualificada para incentivos se contiver pelo menos uma das seguintes marcas:
+  - Venda co-venda de IP do Azure
+  - Business Applications Premium
+  - Business Applications Standard
+- O status do negócio é "Won".
+- Se o tipo de oferta for venda em cooperação, a Microsoft deverá ter aceito o convite ou marcado como ganho. Você pode ver o status da Microsoft observando o cartão da Microsoft abaixo dos detalhes do acordo.
 
-- **Status da transação do Marketplace**: marque a caixa para criar o registro de um negócio que será transacionado no Azure Marketplace.
-- **Data da transação do Marketplace**: se a caixa relacionada ao status da transação do Marketplace estiver marcada, esse campo estará disponível e deverá ser configurado. O valor é uma data de transação passada ou uma data futura estimada da transação.
-- **Valor total do contrato**: o valor total esperado para o envolvimento. Isso deve incluir todas as tarifas de software e de serviço, mas não os custos de hardware. Selecione a moeda adequada.
-- **Valor da solução**: o valor total da solução de nuvem que será usada para o negócio. Certifique-se de incluir todos os custos associados a taxas de manutenção e software, mas não inclua itens reembolsados, taxas de personalização não recorrentes ou taxas de licença do CSP (provedor de soluções na nuvem) diretamente associadas pagos pela Microsoft.
-- **Implantado em**: selecione o **Azure** ou **outro**.
-- **Onde a solução será implantada?**: selecione o **locatário do cliente** ou o **locatário do parceiro**.
-- **Data de inscrição do contrato**: a data em que o contrato final foi assinado por sua organização e pelo cliente. Para negociações PAYG (pré-pago), use a data da primeira fatura.
-- **Data de início do contrato**: a data em que o contrato será iniciado. Para negociações de PAYG, use a data da primeira fatura. Por design, o Partner Center não permitirá que você insira uma data de início anterior à data de inscrição do contrato. Isso pode afetar algumas negociações, como implantações de IP que começam antes da data de assinatura. Para inserir essas negociações com êxito, use a data de inscrição do contrato nos campos **data de entrada** e data de início quando estiver enviando. (O contrato deve declarar explicitamente a duração do negócio para que o ACV possa ser calculado corretamente.)
-- **Data de término do contrato**: se o contrato terminar em uma data específica, forneça essa data. Para as negociações de PAYG, use a data da última nota fiscal ou mais recente.
-- **Tipo de contrato**: não aplicável a acordos de venda conjunta de IP.
-- **Contato de registro**: **nome**, **sobrenome**, número de **telefone** e **email** para uma pessoa em sua organização que podemos contatar se precisar de mais detalhes sobre qualquer uma das informações fornecidas aqui.
+Se você tiver atendido aos requisitos de qualificação, será solicitado **automaticamente** que registre seu negócio com um botão Registrar agora mostrado na barra de progresso do negócio:
 
-Quando você tiver concluído todas as seções da página, selecione **Registrar**. O registro de negociações será então movido para o status **enviado** . Em seguida, a Microsoft revisará as informações fornecidas depois que o negócio for movido para o status de **revisão** . Você pode usar os filtros para exibir as negociações com base em seu status.
+:::image type="content" source="images/register-deals.png" alt-text="Captura de tela mostrando a barra de progresso do negócio.":::
 
-Para registrar um negócio fechado do **ISV Connect**, selecione **+ relatar negócio do ISV Connect fechado**
+> [!NOTE]
+> Se o item **de registro deal** não aparecer na barra de progresso do acordo para seu negócio, a oferta não atenderá a todos os requisitos para o registro de negociação.
 
-Na página **Nova negociação**, forneça as seguintes informações.
+Depois de **clicar** em Registrar agora , você será redirecionado para a página Registro de Oferta e solicitado a preencher um formulário com o qual inclua informações preenchidas previamente para seu cliente e solução. Preencha o formulário usando as instruções abaixo e clique em **Registrar**.
 
-- **Detalhes do cliente**: Insira o **nome da empresa** para o cliente e selecione seu **país/região**. Em seguida, insira a **Cidade** e o **Estado/província** dele(a).
-- **Solução**: selecione a solução que será usada para o negócio. Se você não vir a solução correta listada, entre em contato com o suporte.
-- **Tipo de contrato**: especifique se este é um **novo** contrato ou uma **renovação** de um contrato anterior.
-- **Valor total do contrato**: o valor total esperado para o envolvimento. Isso deve incluir todas as tarifas de software e de serviço, mas não os custos de hardware. Selecione a moeda adequada.
-- **Valor da solução**: o valor total da solução de nuvem que será usada para o negócio. Inclua todos os valores associados às tarifas de software e de manutenção, mas não inclua itens reembolsáveis, valores de personalização não recorrentes ou valores de licença do CSP associados diretamente pagos pela Microsoft.
-- **Implantado em**: selecione o **Azure** ou **outro**.
-- **Onde a solução será implantada?**: selecione o **locatário do cliente** ou o **locatário do parceiro**.
-- **Data de início do contrato**: a data em que o contrato será iniciado. Para negociações de PAYG, use a data da primeira fatura. Por design, o Partner Center não permitirá que você insira uma data de início anterior à data de inscrição do contrato. Isso pode afetar algumas negociações, como implantações de IP que começam antes da data de assinatura. Para inserir essas negociações com êxito, use a data de inscrição do contrato nos campos data **de entrada e** data de início quando estiver enviando. (O contrato deve declarar explicitamente a duração do negócio para que o ACV possa ser calculado corretamente.)
-- **Data de término do contrato**: se o contrato terminar em uma data específica, selecione **tem uma data de término** e forneça essa data. Se o contrato não tiver uma data de término específica, selecione **perpétua**. Para negociações PAYG (pré-pago), use a data da última nota fiscal ou mais recente.
-- **Data de inscrição do contrato**: a data em que o contrato final foi assinado por sua organização e pelo cliente. Para negociações de PAYG, use a data da primeira fatura.
-- **Contato de registro**: **nome**, **sobrenome**, número de **telefone** e **email** para uma pessoa em sua organização que podemos contatar se precisar de mais detalhes sobre qualquer uma das informações fornecidas aqui.
+Após o registro, haverá um ou dois registros de registro de negociação criados dependendo da solução.
 
-Quando você tiver concluído todas as seções da página, selecione **Registrar**. O registro da negociação será movido para a página **Em andamento**. Em seguida, a Microsoft revisará as informações fornecidas.
+- Se sua solução estiver qualificada para o ISV Connect, um registro de registro de negociação do ISV Connect será criado. Esse registro de negociação será usado para faturamento.
+- Se sua solução estiver qualificada para incentivos de venda de IP, um registro de registro de oferta de venda de venda de IP será criado. Esse registro de negociação será revisado e aprovado ou rejeitado pela equipe de revisão de negociação de venda em cooperação.
 
-Você pode usar os filtros para mostrar apenas registros de negociação **Incompletos** ou **Atualização necessária**.
+## <a name="report-a-closed-isv-connect-deal"></a>Relatar um negócio fechado do ISV Connect
 
-## <a name="viewing-active-and-closed-deal-registrations"></a>Exibir registros de negociação ativos e fechados
+Para relatar um negócio fechado do ISV Connect, vá para a guia Registro **de** negociação e clique **em + Relatório fechado oferta do ISV Connect**. Preencha os campos necessários e clique em **Registrar**. Esse registro de negociação será usado para faturamento.
 
-Você pode examinar os registros de negociações novos, ativos e fechados com Estados diferentes em **referências > registro de negociações** usando o filtro de status na seção filtro situada no canto superior direito da página.
+## <a name="fill-out-the-deal-registration-form"></a>Preencha o formulário de registro de negociação
 
-### <a name="action-required"></a>Ação requerida
+> [!NOTE]
+> Você pode filtrar as negociações por nome do cliente, status e tipo de acordo. Para fazer isso, clique no **botão Filtrar** na parte superior da página Registro de Oferta.
 
-Na página registros de negociações, filtre o estado de ação necessária, você verá novos registros que ainda não foram registrados ou que precisam de uma atualização. Você pode usar os filtros para mostrar apenas registros de negociação **Incompletos** ou **Atualização necessária**. Registros de negociação **Incompletos** são aqueles originados de indicações, mas que ainda não foram registrados. **Atualizar** os registros de negociação necessários são aqueles que foram criados e registrados, mas que exigem que você atualize as informações fornecidas.
+Se você tiver vindo para lidar com o registro de uma oportunidade de venda em cooperação ou se está relatando uma negociação fechada do ISV Connect, que não foi vendida em cooperação com a Microsoft, você será solicitado a preencher os campos a seguir no formulário de registro de negociação.
 
-### <a name="under-review"></a>Em revisão
+- **Detalhes do** cliente: insira o **Nome da empresa** para seu cliente e selecione seu **País/Região.** Em seguida, insira a **Cidade** e o **Estado/província** dele(a).
+- **Solução:** selecione a solução que será usada para a negociação. Se você não vir a solução correta listada, entre em contato com o suporte.
+- **Tipo de** contrato: especifique se essa oferta é um **Novo** contrato ou uma **Renovação** de um contrato anterior.
+- **Valor total do contrato:** o valor total esperado para a participação. Esse valor deve incluir todos os valores de software e serviço, mas não os custos de hardware. Selecione a moeda adequada.
+- **Valor da** solução: o valor total da solução de nuvem que será usada para o negócio. Inclua todos os valores associados às tarifas de software e de manutenção, mas não inclua itens reembolsáveis, valores de personalização não recorrentes ou valores de licença do CSP associados diretamente pagos pela Microsoft.
+- **A solução será implantada no Azure? Caso contrário, escolha Outro:** selecione **Azure** ou **Outro.**
+- **O consumo da solução será executado no** locatário do parceiro ou no locatário do cliente? : selecione o locatário cliente **ou** o **locatário do parceiro**.
+- **Data de início do** contrato: a data em que o contrato será iniciada. Para ofertas pay-as-you-go (PAYG), use a data da primeira fatura. Por design, Partner Center permitirá que você insira uma data de início anterior à data de assinatura do contrato. Isso pode afetar alguns acordos, como implantações de IP que começam antes da data de assinatura. Para inserir essas negociações com êxito, use  a data de assinatura do contrato para os campos de data de assinatura e data de início quando você estiver enviando. (O contrato deve explicitamente sinalizar a duração da negociação para que o ACV possa ser calculado corretamente.)
+- **Data de término do** contrato: se o contrato terminar em uma data específica, selecione Tem **uma data de término** e forneça essa data. Se o contrato não tiver uma data de término específica, selecione **Perpétuo.** Para ofertas pay-as-you-go (PAYG), use a data da última ou mais recente fatura.
+- **Data de assinatura do** contrato: a data em que o contrato final foi assinado pela sua organização e pelo cliente. Para ofertas pay-as-you-go (PAYG), use a data da primeira fatura.
+- **Contato de** registro: **o** nome **,** **sobrenome,** número de telefone e **Email** para uma pessoa em sua organização que possamos contatar se precisarmos de mais detalhes sobre qualquer uma das informações fornecidas aqui.
 
-Na página registros de negociações, filtre para em estado de revisão, você verá os registros de negociações que a Microsoft está revisando. Se precisarmos de mais informações, usaremos as informações de **Contato de registro** fornecidas.
+Quando tiver concluído todas as seções da página, clique em **Registrar**.
 
-Se alguma informação precisar ser atualizada, poderemos mover o registro de negociações para o estado de **ação necessária** .
+- Se a oferta for uma oferta do ISV Connect, você observará que o status da oferta é "Enviado, Concluído". Não há mais nenhuma ação necessária nesse registro de registro de negociação. Esse registro será usado para faturamento.
+- Se a oferta for uma venda de venda de IP, você observará que o status da oferta é "Enviado". A equipe de revisão de negociações de venda co-venda da Microsoft revisará as informações fornecidas neste registro de negociação. A equipe de revisão solicitará mais ação de você, se necessário, ou aprovará/rejeitará o acordo diretamente.
+- Se você estiver registrando uma oferta originada de uma oportunidade de venda em cooperação e vir que dois registros de registro de negociação foram criados, isso significa que a solução em seu negócio está qualificada para o ISV Connect e para a venda de IP. O registro do ISV Connect será usado para faturamento. O registro de venda co-venda de IP será revisado pela equipe de validação de negociação de venda em conjunto.
 
-### <a name="closed"></a>Fechado
-
-Na página registros de negociações, filtre o estado fechado, você verá as negociações que foram registradas com êxito e revisadas pela Microsoft. Você pode usar os filtros para mostrar apenas registros de negociação **Aprovados** ou **Recusados**.
