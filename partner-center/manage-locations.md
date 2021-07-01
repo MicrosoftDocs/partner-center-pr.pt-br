@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 13d6e7dc4722227035be2b24df48427f2008bb14
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
-ms.translationtype: HT
+ms.openlocfilehash: 3d30f250d6635758f3bef8e06c6f57ba0a0be744
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151773"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276817"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Gerenciar os locais da sua conta do MPN e adicionar (ou excluir) um local
 
@@ -30,7 +30,7 @@ A Contoso tem sua PGA (Conta global de parceiro) no Reino Unido. A PGA é o neg�
 >[!NOTE]
 >Há uma relação um-para-um entre um locatário do CSP e uma ID de local do MPN.
 
-:::image type="content" source="images/locations/locations1.png" alt-text="Estrutura dos locais do MPN":::
+:::image type="content" source="images/locations/locations1.png" alt-text="Estrutura dos locais do MPN.":::
 
 ## <a name="prerequisites-in-order-to-add-a-new-account-for-a-csp-business"></a>Pré-requisitos para adicionar uma nova conta para um negócio do CSP
 
@@ -92,7 +92,7 @@ Atualize os seguintes campos:
  
 1. Selecione **Adicionar local**. Isso criará uma ID de MPN para o novo local, que você pode usar para transações e incentivos do CSP.
 
-:::image type="content" source="images/legal-biz.png" alt-text="Adicionar uma nova pessoa jurídica":::
+:::image type="content" source="images/legal-biz.png" alt-text="Adicionar uma nova pessoa jurídica.":::
 
 > [!NOTE]
 > Depois que um local for adicionado no Partner Center, você não poderá removê-lo. Você verá **MPN** no menu à esquerda do Partner Center se tiver usado a ID de MPN correta para entrar.
@@ -143,7 +143,7 @@ Para excluir um local da sua conta, será necessário entrar em contato com o [S
  
 1. Selecione **Alterar seu país** ao lado da lista suspensa **País/região** e siga as etapas. 
 
-:::image type="content" source="images/lbp.png" alt-text="Submenu de dados do perfil de pessoa jurídica":::
+:::image type="content" source="images/lbp.png" alt-text="Submenu de dados do perfil comercial jurídico.":::
 
 5. Selecione **Salvar**.
 
