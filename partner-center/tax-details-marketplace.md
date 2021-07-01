@@ -1,97 +1,96 @@
 ---
 title: Detalhes de impostos do marketplace comercial da Microsoft
-description: Saiba mais sobre as considerações fiscais para seleção de preços, implicações de pagamento e responsabilidade fiscal para seus países/regiões de distribuição.
+description: Saiba mais sobre as considerações de imposto sobre a seleção de preços, as implicações de pagamento e a responsabilidade de impostos para seus países/regiões de distribuição.
 ms.topic: conceptual
 ms.service: partner-dashboard
-author: mingshen-ms
-ms.author: mingshen
-ms.date: 04/26/2021
-ms.openlocfilehash: 673620843ea8d469f1a665982f2a120b4b1e2d7e
-ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
+author: jasongroce
+ms.author: davjan
+ms.date: 06/29/2021
+ms.openlocfilehash: 66f60f88c1e7aa0d6af49f90a2def165f6eb39b5
+ms.sourcegitcommit: c7ab71d9e7fdbf6141c24f535b0144cfcb0403ea
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112490012"
+ms.lasthandoff: 07/01/2021
+ms.locfileid: "113129101"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Detalhes de impostos para editores do marketplace comercial
 
 **Funções apropriadas**: administrador global
 
-Esta página define as responsabilidades fiscais e considerações fiscais para Editores do Marketplace Comercial (Publicores) e Desenvolvedores do Marketplace do Consumidor (Desenvolvedores) em conexão com compras do cliente final de produtos publicadores/desenvolvedores, de acordo com o Contrato de Publicador do [Microsoft Azure Marketplace](/legal/marketplace/msft-publisher-agreement) e o [Contrato de Desenvolvedor de Aplicativos,](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)respectivamente.  As informações abaixo são adicionais e não se destinam a substituir os termos e condições no Contrato do Editor da Microsoft e no Contrato de Desenvolvedor de Aplicativos.  A menos que o contrário seja notado, as informações abaixo se aplicarão aos Editores do Marketplace Comercial e aos Desenvolvedores do Marketplace do Consumidor que disponibilizam seus produtos/ofertas para venda por meio do Microsoft Marketplaces. 
+Esta página define as responsabilidades de impostos e as considerações de impostos para editores de mercado comercial (Publicadores) e desenvolvedores de Marketplace de consumidor (desenvolvedores) em conexão com compras de clientes finais de produtos de editor/desenvolvedor, de acordo com o [Microsoft Azure Marketplace contrato de editor](/legal/marketplace/msft-publisher-agreement) e o [contrato de desenvolvedor de aplicativos](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH), respectivamente.  As informações a seguir são além de, e não pretendem substituir, os termos e condições do contrato do Microsoft Publisher e o contrato de desenvolvedor do aplicativo.  Salvo indicação em contrário, as informações abaixo se aplicam aos editores de mercado comercial e aos desenvolvedores do Marketplace do consumidor que disponibilizam seus produtos/ofertas para venda por meio do Microsoft Marketplaces. 
 
-## <a name="end-customer-taxation"></a>Taxa do Cliente Final
+## <a name="end-customer-taxation"></a>Tributação do cliente final
 
-Cada responsabilidade dos editores e editores da Microsoft para vendas, uso, bens e serviços, valor adicionado ou impostos semelhantes, se for o caso, nas vendas do cliente final **(** Taxa do Cliente Final ) depende do país no qual os Editores/Desenvolvedores optam por disponibilizar produtos/ofertas para venda aos clientes finais por meio dos Microsoft Marketplace(s). A tabela a seguir define as circunstâncias e a responsabilidade pela Taxa do Cliente Final em países com vendas qualificadas por meio de Microsoft Marketplace(s)  As informações a seguir estão sujeitas a alterações e editores/desenvolvedores são responsáveis por revisar esta página para obter informações atuais e precisas.
+Cada uma das responsabilidades da Microsoft e dos publicadores '/developers ' para vendas, uso, bens e serviços, valor agregado ou impostos semelhantes, se houver, em vendas de clientes finais (**tributação do cliente final**) depende do país em que os editores/desenvolvedores optam por tornar produtos/ofertas disponíveis para venda aos clientes finais por meio das Microsoft Marketplace. A tabela a seguir define as circunstâncias e a responsabilidade da tributação do cliente final em países com vendas qualificadas por meio de Microsoft Marketplace.  As informações abaixo estão sujeitas a alterações e os editores/desenvolvedores são responsáveis por revisar esta página para obter informações atuais e precisas.
 
-Em **países gerenciados pelo Publicador/Desenvolvedor,** a Microsoft atua como agente ou comissionário (conforme aplicável) do Publicador/Desenvolvedor. Os editores/desenvolvedores reconhecem e concordam que os Editores/Desenvolvedores têm a responsabilidade exclusiva de determinar toda a conformidade necessária para e gerenciar a Taxa do Cliente Final, incluindo, entre outros, o registro, o cálculo de impostos, a cobrança de impostos, a remessa de impostos, a validação do status de negócios dos clientes e o fornecimento de faturas fiscais aos clientes. Os editores/desenvolvedores reconhecem que, em relação a qualquer venda em um País Gerenciado pelo Publicador/Desenvolvedor, atualmente, a Microsoft pode não conseguir fornecer os detalhes da transação necessários para que editores/desenvolvedores forneçam faturas fiscais aos clientes. 
+Em **países gerenciados pelo editor/desenvolvedor**, a Microsoft atua como um agente ou comissionário (conforme aplicável) do editor/desenvolvedor. Editores/desenvolvedores reconhecem e concordam que editores/desenvolvedores têm responsabilidade exclusiva de determinar toda a conformidade necessária para o e gerenciar a tributação do cliente final, incluindo, mas não se limitando a, registro, cálculo de impostos, coleta de impostos, remessa de impostos, validação de status de negócios de clientes e fornecimento de faturas fiscais aos clientes. Editores/desenvolvedores reconhecem que, em relação a qualquer venda em um país gerenciado por um Publicador/desenvolvedor, a Microsoft atualmente não poderá fornecer os detalhes da transação necessários para que os editores/desenvolvedores forneçam aos clientes faturas fiscais. 
 
-Em **países gerenciados pela Microsoft,** a Microsoft atua como um Agente do Publicador/Desenvolvedor. A Microsoft assume a responsabilidade de gerenciar a Taxa de Cliente Final, incluindo calcular, coletar e/ou remitir determinados impostos. Para o Marketplace Comercial, isso também pode incluir a validação do status comercial dos clientes finais obtendo números de registro de imposto ou certificados de isenção. A Microsoft gerencia a Taxa de Cliente Final por meio de afiliadas locais ou de afiliadas remotas registradas localmente. Faturas da Microsoft no número de registro da Microsoft. A Microsoft inclui todos os impostos coletados dos clientes finais na declaração de imposto da Microsoft.
+Em **países gerenciados pela Microsoft**, a Microsoft atua como um agente do editor/desenvolvedor. A Microsoft assume a responsabilidade por gerenciar a tributação do cliente final, incluindo o cálculo, a coleta e/ou a remessa de determinados impostos. Para o Marketplace comercial, isso também pode incluir a validação do status comercial dos clientes finais por meio da obtenção de números de registro de imposto ou certificados de isenção. A Microsoft gerencia a tributação do cliente final por meio de afiliadas locais ou afiliadas remotas registradas localmente. Notas fiscais da Microsoft sob o número de registro da Microsoft. A Microsoft inclui quaisquer impostos coletados de clientes finais no retorno de imposto da Microsoft.
 
-A Microsoft não faz nenhuma garantia de que as ações da Microsoft atenderão completamente às obrigações do Publicador/Desenvolvedor em países gerenciados pela Microsoft.  Para todos os países gerenciados pela Microsoft, a Microsoft recomenda fortemente que editores/desenvolvedores trabalhem com seus próprios consultores fiscais para verificar se a remessa de imposto gerenciada pela Microsoft atende suficientemente aos requisitos de conformidade dos Editores/Desenvolvedores. Isso é particularmente crítico para todos os países gerenciados pela Microsoft dos quais editores/desenvolvedores vendem seus produtos/ofertas.  A Microsoft atua como um agente do Publicador/Desenvolvedor em países gerenciados pela Microsoft.
+A Microsoft não garante que as ações da Microsoft satisfaçam completamente as obrigações do editor/desenvolvedor em países gerenciados pela Microsoft.  Para todos os países gerenciados pela Microsoft, a Microsoft recomenda enfaticamente que editores/desenvolvedores trabalhem com seus próprios consultores de impostos para determinar se a remessa de impostos gerenciada pela Microsoft atende suficientemente aos requisitos de conformidade de editores '/developers '. Isso é particularmente crítico para todos os países gerenciados pela Microsoft dos quais os editores/desenvolvedores vendem seus produtos/ofertas.  A Microsoft atua como um agente de editor/desenvolvedor em países gerenciados pela Microsoft.
 
-Em países **do** Revendedor, a Microsoft atua como um revendedor, em vez de como agente do Publicador/Desenvolvedor, ao disponibilizar produtos/ofertas do Publicador/Desenvolvedor para venda aos clientes finais por meio dos Microsoft Marketplace(s).  Editores/Desenvolvedores são responsáveis por vendas, uso, bens e serviços, valor adicionado ou impostos semelhantes, se algum, na venda de produtos/ofertas para a Microsoft e a Microsoft é responsável por toda a Taxa do Cliente Final na revenda para os clientes finais.
+Nos **países revendedores**, a Microsoft atua como revendedor, em vez de como agente do editor/desenvolvedor, para tornar os produtos/ofertas de Publicador/desenvolvedor disponíveis para venda aos clientes finais por meio das Microsoft Marketplace.  Editores/desenvolvedores são responsáveis por vendas, uso, bens e serviços, valor agregado ou impostos semelhantes, se houver, na venda de produtos/ofertas para a Microsoft, e a Microsoft é responsável por toda a tributação do cliente final na revenda aos clientes finais.
 
 
-### <a name="publisherdeveloper-managed-countries"></a>Editor/países gerenciados pelo desenvolvedor: 
+### <a name="publisherdeveloper-managed-countries"></a>Países gerenciados pelo editor/desenvolvedor: 
 
-| Países | Países (continuação) | Países (continuação) | Países (continuação) |
-|---------------|:------------------|:--------|:----------|
-|Ilhas Virgens Americanas|Congo (RDC)|Jersey|Ilha Norfolk|
-|Afeganistão|Ilhas Cook|Jordânia|Macedônia do Norte|
-|Albânia|Costa Rica|Cazaquistão|Ucrânia|
-|Argélia|Cote d'Ivore|Quênia|Vanuatu|
-|Samoa Americana|Curaçao|Kiribati|Cidade do Vaticano|
-|Andorra|Dübouti|Kuwait|Venezuela|
-|Angola|Dominica|Quirguistão|Vietnã|
-|Anguilla|República Dominicana|Laos|Wallis & Futuna|
-|Antártica|Equador|Líbano|Iêmen|
-|Antigua & Queuda|Egito|Lesoto|Zâmbia|
-|Aruba|El Salvador|Libéria|Uruguai|
-|Azerbaijão|Guiné Equatorial|Líbia|
-|Bangladesh|Eritreia|Macau |
-|Barbados|Etiópia|Madagascar|
-|Belize|Ilhas Malvinas|Malaui|
-|Benin|Ilhas Faroés|Maldivas|
-|Bermuda|Fiji|Mali|
-|Butão|Gabão|Ilhas Marshall|
-|Bolívia|Gana|Martinica|
-|Bonaire|Geórgia|Mauritânia|
-|Bósnia & Herzegovina|Gibraltar|Maurício|
-|Botsuana|Groelândia|OTE ma|
-|Ilha Bouvet|Granada|Micronésia|
-|Ilhas Virgens Britânicas|Guadalupe|Moldova
-|Brunei|Guão|Mongólia|
-|Burkina Faso|Guatemala|Montenegro|
-|Burundi|Guernsey|Montserrat|
-|Cabo Verde|Guiné|Marrocos|
-|Camboja|Guiné Bissau|Moçambique|
-|Camarões|Guiana|Myanmar|
-|Ilhas Cayman|Haiti|Namíbia|
-|República Centro-Africana|Ilha Heard & Ilhas McDonald|Nauru|
-|Chade|Honduras|Nepal|
-|Ilha Christmas|Iraque|Nicarágua|
-|Ilhas Cocos (Keeling)|Israel|Níger|
-|Comores|Jamaica|Nigéria|
-|Congo|Japão|Niue|
-
+| Países                | Países (continuação)             | Países (continuação) | Países (continuação) |
+|--------------------------|-----------------------------------|-----------------------|-----------------------|
+| Afeganistão              | Congo                             | Jamaica               | Niue                  |
+| Albânia                  | Congo (RDC)                       | Japão                 | Ilha Norfolk        |
+| Argélia                  | Ilhas Cook                      | Jersey                | Macedônia do Norte       |
+| Samoa Americana           | Costa Rica                        | Jordânia                | Paquistão              |
+| Andorra                  | Côte d'Ivore                      | Cazaquistão            | Autoridade Palestina |
+| Angola                   | Curaçao                           | Quênia                 | Panamá                |
+| Anguilla                 | Dübouti                           | Kiribati              | Paraguai              |
+| Antártica               | Dominica                          | Kuwait                | Peru                  |
+| Argentina                | República Dominicana                | Quirguistão            | Filipinas           |
+| Antígua & Barbuda        | Equador                           | Laos                  | São Cristóvão e Nevis |
+| Aruba                    | Egito                             | Líbano               | Senegal               |
+| Azerbaijão               | El Salvador                       | Lesoto               | Sri Lanka             |
+| Bangladesh               | Guiné Equatorial                 | Libéria               | Tajikstan             |
+| Barbados                 | Eritreia                           | Líbia                 | Tanzânia              |
+| Belize                   | Etiópia                          | Macau                 | Tailândia              |
+| Benin                    | Ilhas Malvinas                  | Madagascar            | Trinidad e Tobago   |
+| Bermuda                  | Ilhas Faroés                     | Malaui                | Tunísia               |
+| Butão                   | Fiji                              | Maldivas              | Turcomenistão          |
+| Bolívia                  | Gabão                             | Mali                  | Uganda                |
+| Bonaire                  | Gana                             | Ilhas Marshall      | Ucrânia               |
+| Bósnia e Herzegovina   | Geórgia                           | Martinica            | Uruguai               |
+| Botsuana                 | Gibraltar                         | Mauritânia            | Ilhas Virgens Americanas     |
+| Ilha Bouvet            | Groelândia                         | Maurício             | Uzbequistão            |
+| Ilhas Virgens Britânicas   | Granada                           | Ma Ote                | Vanuatu               |
+| Brunei                   | Guadalupe                        | Micronésia            | Cidade do Vaticano          |
+| Bulgária                 | Guão                              | Moldova               | Venezuela             |
+| Burkina Faso             | Guatemala                         | Mongólia              | Vietnã               |
+| Burundi                  | Guernsey                          | Montenegro            | Wallis e Futuna     |
+| Cabo Verde               | Guiné                            | Montserrat            | Iêmen                 |
+| Camboja                 | Guiné Bissau                     | Marrocos               | Zâmbia                |
+| Camarões                 | Guiana                            | Moçambique            | Zimbábue              |
+| Ilhas Cayman           | Haiti                             | Myanmar               |                       |
+| República Centro-Africana | Ilhas Heard e McDonald | Namíbia               |                       |
+| Chade                     | Honduras                          | Nauru                 |                       |
+| Ilha Christmas         | RAE de Hong Kong                     | Nepal                 |                       |
+| Ilhas Cocos (Keeling)  | Iraque                              | Nicarágua             |                       |
+| Comores                  | Israel                            | Níger                 |                       |
 
 ### <a name="microsoft-managed-countries"></a>Países gerenciados pela Microsoft
 
-| Países | Países (continuação) | Países (continuação) | Países (continuação) |
-|---------|-----------|--------|----|
-|Armênia|Finlândia|Luxemburgo|Singapura|
-|Áustria|França|Malásia|Eslováquia|
-|Bielorrússia|Alemanha|Malta|Eslovênia|
-|Bulgária|Grécia|Mônaco|África do Sul|
-|Bélgica|Hungria|Países Baixos|Coreia do Sul|
-|Canadá|Islândia|Nova Zelândia|Espanha|
-|Chile|Índia|Noruega|Suécia|
-|Colômbia|Indonésia|Polônia|Suíça|
-|Croácia|Irlanda|Portugal|Taiwan|
-|Chipre|Itália|Romênia|Turquia|
-Tchéquia|Letônia|Rússia|EAU|
-|Dinamarca|Liechtenstein|Arábia Saudita|Reino Unido|
-|Estônia|Lituânia|Sérvia|Estados Unidos incluindo Porto Rico|
+| Países                | Países (continuação)             | Países (continuação) | Países (continuação)               |
+|--------------------------|-----------------------------------|-----------------------|-------------------------------------|
+| Armênia                  | Finlândia                           | Luxemburgo            | Singapura                           |
+| Áustria                  | França                            | Malásia              | Eslováquia                            |
+| Bielorrússia                  | Alemanha                           | Malta                 | Eslovênia                            |
+| Bulgária                 | Grécia                            | Mônaco                | África do Sul                        |
+| Bélgica                  | Hungria                           | Países Baixos           | Coreia do Sul                         |
+| Canada                   | Islândia                           | Nova Zelândia           | Espanha                               |
+| Chile                    | Índia                             | Noruega                | Suécia                              |
+| Colômbia                 | Indonésia                         | Polônia                | Suíça                         |
+| Croácia                  | Irlanda                           | Portugal              | Taiwan                              |
+| Chipre                   | Itália                             | Romênia               | Turquia                              |
+| Tchéquia                  | Letônia                            | Rússia                | Emirados Árabes Unidos                |
+| Dinamarca                  | Liechtenstein                     | Arábia Saudita          | United Kingdom                      |
+| Estônia                  | Lituânia                         | Sérvia                | Estados Unidos incluindo Porto Rico |
 
 
 ### <a name="end-customer-taxation-with-differences-in-marketplace"></a>Taxa do cliente final com diferenças no marketplace
@@ -100,10 +99,11 @@ Tchéquia|Letônia|Rússia|EAU|
 |------------------|:-----------------|:---------------|
 |Brasil|Revendedor, exceto: Publicador gerenciado para compras feitas por meio Provedor de Soluções na Nuvem de compra do cliente (CSP)|Desenvolvedor gerenciado, exceto: Revendedor para compras feitas por meio de dispositivos em execução Windows 10|
 |México|Gerenciado pela Microsoft, exceto: Revendedor para compras por meio do cenário de compra de cliente do contrato enterprise|Gerenciado pela Microsoft|
-|Austrália|Gerenciado pela Microsoft, exceto: Revendedor para compras por meio do cenário de compra de cliente do contrato enterprise|Gerenciado pela Microsoft|
+|Austrália|Gerenciado pela Microsoft, exceto: Publicador Gerenciado para compras por meio do cenário de compra do cliente do contrato enterprise|Gerenciado pela Microsoft|
 China|Marketplace não habilitado|Revendedor habilitado, exceto: desenvolvedor gerenciado para dispositivos de comunicação móvel que executam o Windows Phone 7.x e em computadores pessoais que executam Windows 8.x|
-|Bahrein|Publicador gerenciado|Gerenciado pela Microsoft|
-|Omã|Publicador gerenciado|Gerenciado pela Microsoft|
+| Bahrein | Publicador gerenciado | Gerenciado pela Microsoft                      |
+| Omã | Publicador gerenciado | Gerenciado pela Microsoft                         |
+| Nigéria | Publicador gerenciado | Gerenciado pela Microsoft                      |
 
 
 ## <a name="tax-considerations-on-payouts"></a>Considerações fiscais sobre pagamentos
@@ -117,7 +117,7 @@ A Microsoft coleta impostos sobre tarifas da loja nos seguintes países em que e
 |**País**|**Marketplace comercial**|**Marketplace do consumidor**|
 |----------------|-----------------------------|-----------------------|
 |Austrália|Imposto sobre o valor do serviço|Imposto sobre o valor do serviço|
-|Canadá|Imposto sobre o valor do serviço|Imposto sobre o valor do serviço|
+|Canada|Imposto sobre o valor do serviço|Imposto sobre o valor do serviço|
 |México|N/D|Imposto sobre o valor do serviço|
 |Nova Zelândia|Imposto sobre o valor do serviço|Imposto sobre o valor do serviço|
 |Singapura|Imposto sobre o valor do serviço|Imposto sobre o valor do serviço|
