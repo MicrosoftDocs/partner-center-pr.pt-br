@@ -1,131 +1,131 @@
 ---
-title: O conector de televenda para o centro de parceiros do Salesforce CRM
+title: O conector de venda co-venda para o Salesforce CRM Partner Center
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Sincronize suas referências no Partner Center com seu Salesforce CRM. Os vendedores podem, então, vender com a Microsoft de dentro de seus sistemas de CRM.
+description: Sincronizar suas indicações no Partner Center com o Salesforce CRM. Em seguida, os vendedores podem fazer a venda em cooperação com a Microsoft de dentro de seus sistemas crm.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 06/28/2021
-ms.openlocfilehash: f8cb4cd2488e55ab64cf7b7cdce4a3e950b266de
-ms.sourcegitcommit: 6a6e8f9af0a58b32770c7fce9f567dd4795b9797
+ms.openlocfilehash: 726e9071347e1590885b4bf82676f7767311f945
+ms.sourcegitcommit: c4601069340445135b551fa96bee6d9923d8aa97
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "113029033"
+ms.lasthandoff: 07/01/2021
+ms.locfileid: "113173675"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Conector de venda conjunta para o Salesforce CRM – visão geral
 
-**Funções apropriadas**: administrador de referências | Administrador do sistema ou personalizador do sistema no CRM
+**Funções apropriadas:** indicações de administrador | Administrador do sistema ou personalizador de sistema no CRM
 
-O conector de televenda do Partner Center permite que seus vendedores covendam-se com a Microsoft de dentro de seus sistemas de CRM. Eles não precisarão ser treinados para usar o Partner Center para gerenciar acordos de venda. Usando os conectores de venda conjunta, você pode criar uma nova referência de covenda para envolver um vendedor da Microsoft, receber referências do vendedor da Microsoft, aceitar/recusar referências, modificar dados de negociações, como valor de negócio e data de fechamento.  Você também pode receber todas as atualizações dos vendedores da Microsoft sobre esses acordos de venda conjunta. Você pode fazer todas as suas referências funcionarem enquanto trabalha no CRM de sua escolha em vez de no Partner Center.
+Partner Center conector de venda co-venda permite que os vendedores vendam com a Microsoft de dentro de seus sistemas CRM. Eles não precisam ser treinados para usar o Partner Center gerenciar acordos de venda em cooperação. Usando os conectores de venda de co-venda, você pode criar uma nova indicação de venda co-venda para envolver um vendedor da Microsoft, receber indicações do vendedor da Microsoft, aceitar/recusar indicações, modificar dados de negociação, como valor da oferta e data de fechamento.  Você também pode receber atualizações dos vendedores da Microsoft nesses acordos de venda em cooperação. Você pode fazer todas as suas indicações funcionarem enquanto trabalham dentro do CRM de sua escolha em vez de em Partner Center.
 
-A solução baseia-se na solução de automatização de energia da Microsoft e usa as APIs do Partner Center.
+A solução é baseada na Solução microsoft Power Automate e usa apIs Partner Center aplicativo.
 
-## <a name="before-you-install---pre-requisites"></a>Antes de instalar-pré-requisitos
+## <a name="before-you-install---pre-requisites"></a>Antes de instalar – pré-requisitos
 
 |**Tópicos**|**Detalhes**|**Links**|
 |--------------|--------------------|------|
-|ID de Microsoft Partner Network |Você precisa de uma ID de MPN válida|Para ingressar no [MPN](https://partner.microsoft.com/)|
-|Pronto para venda conjunta|Sua solução de IP/serviços deve estar pronta para venda.|[Venda com a Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)|
-|Conta do Partner Center|A ID de MPN associada ao locatário do Partner Center deve ser a mesma que a ID do MPN associada à sua solução de venda conjunta. Verifique se você pode ver suas referências de venda conjunta no portal do Partner Center antes de implantar os conectores.|[Gerenciar sua conta](create-user-accounts-and-set-permissions.md)|
-|Funções de usuário da Central de parceiros|O funcionário que irá instalar e usar os conectores deve ser um administrador de referências|[Atribuir permissões e funções de usuários](create-user-accounts-and-set-permissions.md)|
-|CRM do Salesforce|A função de usuário CRM é administrador do sistema ou personalizador do sistema|[Atribuir funções no Salesforce CRM](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
-|Conta de fluxo de automatização de energia|Crie um novo ambiente de produção com um banco de dados para teste, preparo e produção. Se você tiver um ambiente de produção existente com um banco de dados, ele poderá ser reutilizado. O usuário que vai instalar a solução de conector deve ter uma licença automatizada de energia e acesso a esse ambiente. Você pode monitorar o progresso e obter mais informações na [automatização de energia](https://flow.microsoft.com/) se a instalação falhar. Selecione **Ver histórico** em **soluções**.|[Criar ou gerenciar ambiente](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
+|Microsoft Partner Network ID |Você precisa de uma ID de MPN válida|Para ingressar no [MPN](https://partner.microsoft.com/)|
+|Pronto para venda conjunta|Sua solução de IP/Serviços deve estar pronta para venda em cooperação.|[Vender com a Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)|
+|Conta do Partner Center|A ID do MPN associada ao locatário Partner Center deve ser igual à ID do MPN associada à sua solução de venda co-venda. Verifique se você pode ver suas indicações de venda em Partner Center portal antes de implantar os conectores.|[Gerenciar sua conta](create-user-accounts-and-set-permissions.md)|
+|Funções de usuário da Central de parceiros|O funcionário que instalará e usará os conectores deve ser um administrador de indicações|[Atribuir permissões e funções de usuários](create-user-accounts-and-set-permissions.md)|
+|Salesforce CRM|A função de usuário crm é Administrador do sistema ou Personalizador do sistema|[Atribuir funções no Salesforce CRM](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
+|Power Automate Flow conta|Crie um novo ambiente de produção com um banco de dados para teste, preparação e produção. Se você tiver um ambiente de produção existente com um banco de dados, ele poderá ser reutilizado. O usuário que instalará a solução do conector deve ter uma licença Power Automate e acesso a esse ambiente. Você pode monitorar o progresso e obter mais informações em [Power Automate](https://flow.microsoft.com/) se a instalação falhar. Selecione **Ver histórico** em **Soluções.**|[Criar ou gerenciar o ambiente](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
 
-## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Instalação do pacote do Salesforce para campos personalizados da Microsoft
+## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Instalação do pacote salesforce para campos personalizados da Microsoft
 
-Para sincronizar as referências no Partner Center e no Salesforce CRM, a solução de automatização de energia precisa identificar claramente os campos de referência específicos da Microsoft. Essa demarcação fornece às equipes do vendedor do parceiro a capacidade de decidir quais referências eles desejam compartilhar com a Microsoft para venda.
+Para sincronizar as indicações entre o Partner Center e o Salesforce CRM, Power Automate solução precisa identificar claramente os campos de indicação específicos da Microsoft. Essa demarcação fornece às equipes de vendedores parceiros a capacidade de decidir quais indicações elas querem compartilhar com a Microsoft para venda em parceria.
 
-1. No Salesforce, ative as **anotações** e adicione-as à lista de oportunidades relacionadas. [Referência](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
+1. No Salesforce, ative **as Notas** e adicione-as à lista de oportunidades relacionadas. [Referência](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
 
-1. Ative as **equipes de oportunidades** seguindo as etapas:
-    - Na instalação, use a caixa **localização rápida** para localizar as configurações da equipe de oportunidade.
+1. Ative **as equipes de** oportunidade seguindo as etapas:
+    - Em Instalação, use a **caixa Localização Rápida** para localizar a Equipe de Oportunidade Configurações.
     - Defina as configurações conforme necessário. [Referência](https://help.salesforce.com/articleView?id=sf.opp_team_manage.htm&type=5)
 
-1. No Salesforce, instale campos personalizados e objetos usando o [instalador de pacote](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV). Use este instalador para instalar o pacote em qualquer empresa.
+1. No Salesforce, instale objetos e campos personalizados usando o [instalador de pacote](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV). Use esse instalador para instalar o pacote em qualquer empresa.
 
     >[!NOTE]
-    >Se você estiver instalando em uma área restrita, deverá substituir a parte inicial da URL por `http://test.salesforce.com` .
+    >Se você estiver instalando em uma área sandbox, deverá substituir a parte inicial da URL por `http://test.salesforce.com` .
 
-1. No Salesforce, adicione soluções da Microsoft à lista de **oportunidades** relacionadas. Depois de adicionado, selecione o ícone de **chave inglesa** e atualize as propriedades
+1. No Salesforce, adicione Soluções da Microsoft à **lista relacionada** à oportunidade. Depois de adicionado, selecione o ícone **de chave inglesa** e atualize as propriedades
 
-## <a name="best-practice-test-before-you-go-live"></a>Prática recomendada: teste antes de entrar no ar
+## <a name="best-practice-test-before-you-go-live"></a>Melhor prática: testar antes de entrar no ar
 
-Antes de instalar, configurar e personalizar a solução de automatização de energia no ambiente de produção, certifique-se de testar a solução em uma instância de CRM de preparo.
+Antes de instalar, configurar e personalizar a solução Power Automate no ambiente de produção, teste a solução em uma instância de CRM de preparação.
 
-- Instale a solução de automatização de energia da Microsoft em uma instância de ambiente de preparo/CRM.
+- Instale a solução Power Automate Microsoft em um ambiente de preparação/instância crm.
 
-- Faça uma cópia da solução e execute sua configuração e automatize as personalizações de fluxo no ambiente de preparo.
+- Faça uma cópia da solução e execute sua configuração e Power Automate personalizações de fluxo no ambiente de preparação.
 
-- Teste a solução em uma instância de preparo/CRM.
+- Teste a solução em uma instância de preparação/CRM.
 
 - Em caso de sucesso, importe como uma solução gerenciada para a instância de produção.
 
-## <a name="install-partner-center-referrals-synchronization-for-salesforce-crm"></a>Instalar a sincronização de referências do Partner Center para o Salesforce CRM
+## <a name="install-partner-center-referrals-synchronization-for-salesforce-crm"></a>Instalar Partner Center sincronização de indicações do Salesforce CRM
 
-1. Vá para [energia automatizada](https://flow.microsoft.com) e selecione **ambientes** no canto superior direito. Isso mostrará as instâncias do CRM disponíveis.
+1. Vá para [Power Automate](https://flow.microsoft.com) e selecione **Ambientes** no canto superior direito. Isso mostrará as instâncias de CRM disponíveis.
 
-1. Selecione a instância apropriada do CRM na lista suspensa no canto superior direito.
+1. Selecione a instância de CRM apropriada na listada no canto superior direito.
 
-1. Selecione **soluções** na barra de navegação à esquerda.
+1. Selecione **Soluções** na barra de navegação à esquerda.
 
-1. Selecione o link **abrir AppSource** no menu superior.
+1. Selecione o link **Abrir AppSource** no menu superior.
 
-   :::image type="content" source="images/cosellconnectors/open-appsource.png" alt-text="Abrir AppSource":::
+   :::image type="content" source="images/cosellconnectors/open-appsource.png" alt-text="Abra AppSource.":::
 
-1. Procure **conectores de referências do Partner Center para Salesforce** na tela pop-up.  
+1. **Pesquise Partner Center conectores de indicações para Salesforce** na tela pop-up.  
 
-   :::image type="content" source="images/salesforce/salesforce-get-it-now.png" alt-text="Captura de tela de obter agora.":::
+   :::image type="content" source="images/salesforce/salesforce-get-it-now.png" alt-text="Captura de tela de Obter Agora.":::
 
-1. Selecione o botão **obter agora** e, em seguida, selecione **continuar**.
+1. Selecione o **botão Obter agora** e, em seguida, selecione **Continuar.**
 
-1. Na página seguinte, selecione o ambiente do Salesforce CRM para instalar o aplicativo. Concorde com os termos e condições.
+1. Na próxima página, selecione o ambiente salesforce CRM para instalar o aplicativo. Concorde com os termos e condições.
 
-1. Em seguida, você será direcionado para a página **gerenciar suas soluções** .  Navegue até "referências do Partner Center" usando os botões de seta na parte inferior da página. A **instalação agendada** deve aparecer ao lado da solução de referências do Partner Center. A instalação levará 10-15 minutos.
+1. Em seguida, você será direcionado para a **página Gerenciar suas soluções.**  Navegue até "Partner Center indicações" usando os botões de seta na parte inferior da página. **A instalação agendada** deve aparecer ao lado Partner Center de indicações. A instalação levará de 10 a 15 minutos.
 
-1. Após a conclusão da instalação, navegue de volta para [Power Automate](https://flow.microsoft.com) e selecione **soluções** na área de navegação à esquerda. Observe que a **sincronização de referências do Partner Center para Salesforce** agora está disponível na lista de soluções.
+1. Depois que a instalação for concluída, navegue de [volta para Power Automate](https://flow.microsoft.com) e selecione **Soluções** na área de navegação esquerda. Observe que **Partner Center sincronização de indicações para Salesforce** agora está disponível na lista Soluções.
 
-1. Selecione **sincronização de referências do Partner Center para Salesforce**. Os fluxos e as entidades automatizados de energia a seguir estão disponíveis:
+1. Selecione **Partner Center sincronização de indicações para o Salesforce.** As seguintes Power Automate fluxos e entidades estão disponíveis:
 
-   :::image type="content" source="images/cosellconnectors/partner-center-referrals-synchronization.png" alt-text="Fluxos do Salesforce":::
+   :::image type="content" source="images/cosellconnectors/partner-center-referrals-synchronization.png" alt-text="Fluxos do Salesforce.":::
 
 ## <a name="configure-the-solution"></a>Configurar a solução
 
-1. Depois de instalar a solução em sua instância do CRM, navegue de volta para o [Power Automate](https://flow.microsoft.com/).
+1. Depois de instalar a solução em sua instância do CRM, navegue de volta para [Power Automate](https://flow.microsoft.com/).
 
-1. Na lista suspensa **ambientes** no canto superior direito, selecione a instância de CRM na qual você instalou a solução de energia automatizada.
+1. Na lista **de ambientes** no canto superior direito, selecione a instância crm em que você instalou a solução Power Automate aplicativo.
 
 1. Você precisará criar conexões que associem as três contas de usuário:
 
-   - Usuário do Partner Center com credenciais de administrador de referências
+   - Partner Center usuário com credenciais de administrador de indicações
    - Eventos do Partner Center
-   - Administrador de CRM com os fluxos de energia automatizada na solução
+   - Administrador de CRM com Power Automate fluxos na solução
 
-   1. Selecione **conexões** na barra de navegação à esquerda e selecione a solução de **referências do Partner Center** na lista.
+   1. Selecione **Conexões** na barra de navegação esquerda e selecione a **solução Partner Center Indicações** na lista.
 
-   1. Crie uma conexão selecionando **criar uma conexão**.
+   1. Crie uma conexão selecionando **Criar uma conexão**.
 
-        :::image type="content" source="images/cosellconnectors/dynamics-1.png" alt-text="Captura de tela que mostra criar uma conexão.":::
+        :::image type="content" source="images/cosellconnectors/dynamics-1.png" alt-text="Captura de tela que mostra Criar uma conexão.":::
 
-   1. Procure por **referências do Partner Center (versão prévia)** na barra de pesquisa no canto superior direito.
+   1. **Pesquise Partner Center Indicações (versão prévia)** na barra de pesquisa no canto superior direito.
 
-   1. Crie uma conexão para o usuário do Partner Center com a função de credenciais do administrador de referências.
+   1. Crie uma conexão para seu Partner Center usuário com a função de credenciais do administrador de indicações.
 
-   1. Em seguida, crie uma conexão de eventos do Partner Center para o usuário do Partner Center com as credenciais do administrador de referências.
+   1. Em seguida, crie uma conexão Partner Center eventos para seu Partner Center com as credenciais de administrador de indicações.
 
    1. Crie uma conexão para o Salesforce para o usuário administrador do CRM.
   
-   1. Crie uma conexão para o Microsoft dataverso para o usuário administrador do CRM.
+   1. Crie uma conexão para o Microsoft Dataverse para o usuário administrador do CRM.
 
-   1. Depois de adicionar todas as conexões, você deverá ver as seguintes conexões em seu ambiente:
+   1. Depois de adicionar todas as Conexões, você deverá ver as seguintes conexões em seu ambiente:
 
-        :::image type="content" source="images/cosellconnectors/salesforce-connections.png" alt-text="Captura de tela que mostra como observar conexões.":::
+        :::image type="content" source="images/cosellconnectors/salesforce-connections.png" alt-text="Captura de tela que mostra como observar as conexões.":::
 
 ### <a name="edit-the-connections"></a>Editar as conexões
 
-1. Volte para a página **soluções** e selecione **solução padrão**. Selecione **referência de conexão (versão prévia)** clicando em **tudo**.
+1. Retorne à página **Soluções** e selecione **Solução Padrão.** Selecione **Referência de Conexão (versão prévia)** clicando em **Todos.**
 
    :::image type="content" source="images/connection-reference-video.gif" alt-text="Captura de tela que mostra a edição das conexões.":::
 
@@ -227,7 +227,7 @@ Para atualizar um valor de variável de ambiente:
 
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>Sincronização de indicação de venda co-direcional de ponta a ponta
 
-Depois de instalar, configurar e personalizar a solução de Power Automate, você poderá testar a sincronização de indicações de venda em cooperação entre o Salesforce CRM e Partner Center.
+Depois de instalar, configurar e personalizar a solução Power Automate, você poderá testar a sincronização de indicações de venda em cooperação entre o Salesforce CRM e Partner Center.
 
 ### <a name="pre-requisites"></a>Pré-requisitos
 
@@ -245,60 +245,60 @@ Os seguintes campos personalizados devem fazer parte da seção CRM:
 
 - **Como a Microsoft pode ajudar:** ajuda necessária da Microsoft para a indicação. Para criar uma indicação de venda em cooperação, selecione a ajuda apropriada necessária da Microsoft. Um contato do cliente deve estar associado à oportunidade de criar uma indicação de venda em cooperação. Para criar uma indicação de não venda co-venda, não selecione este campo. Uma indicação de não venda co-venda pode ser convertida em uma indicação de venda em co-venda a qualquer momento selecionando a opção apropriada de ajuda necessária.
 
-- **Visibilidade Partner Center referência** da Microsoft: selecione visibilidade para a Partner Center referência. Tornando-o visível para os vendedores da Microsoft, uma referência de não-venda pode ser convertida em uma venda conjunta. Quando a ajuda da Microsoft é necessária, a referência é visível para os vendedores da Microsoft por padrão. Depois que esse campo é marcado como visível, ele não pode ser revertido.
+- **Visibilidade Partner Center referência** da Microsoft: selecione visibilidade para a Partner Center referência. Ao tornar-o visível para vendedores da Microsoft, uma indicação de não venda co-venda pode ser convertida em venda em co-venda. Quando a ajuda da Microsoft é necessária, a indicação fica visível para os vendedores da Microsoft por padrão. Depois que esse campo é marcado como visível, ele não pode ser revertido.
 
-- **Identificador do Microsoft CRM**: quando uma referência de parceria de venda é criada e aceita pela Microsoft, esse campo será preenchido com o identificador CRM da Microsoft.
+- **Microsoft CRM Identificador**: quando uma indicação de venda co-venda é criada e aceita pela Microsoft, esse campo será preenchido com o identificador crm da Microsoft.
 
-- **Soluções do Microsoft Partner Center**: um objeto personalizado para associar soluções prontas para venda ou soluções da Microsoft com a oportunidade. Uma ou mais soluções podem ser adicionadas ou removidas da oportunidade. É obrigatório adicionar pelo menos uma solução de revenda pronta ou da Microsoft à oportunidade antes de compartilhá-la com a Microsoft. Para associar esse objeto à oportunidade, atualize o formulário **oportunidade** no CRM.
+- **Soluções Partner Center Microsoft:** um objeto personalizado para associar soluções prontas para venda em comum ou soluções da Microsoft com a oportunidade. Uma ou mais soluções podem ser adicionadas ou removidas da oportunidade. É obrigatório adicionar pelo menos uma solução pronta para venda em cooperação ou da Microsoft à oportunidade antes de compartilhá-la com a Microsoft. Para associar esse objeto à oportunidade, atualize o **formulário Oportunidade** no CRM.
 
-- **Auditoria**: uma trilha de auditoria somente leitura para sincronização com as referências do Partner Center
+- **Auditoria:** uma trilha de auditoria somente leitura para sincronização com Partner Center indicações
 
-### <a name="scenarios"></a>EXEMPLOS
+### <a name="scenarios"></a>Cenários
 
-1. Sincronização de referência quando a referência é criada ou atualizada no CRM e sincronizada no Partner Center:
+1. Sincronização de indicação quando a indicação é criada ou atualizada no CRM e sincronizada Partner Center:
 
-   1. Entre no ambiente do Salesforce CRM com o usuário que tem visibilidade na seção **oportunidade** do CRM.
+   1. Entre em seu ambiente do Salesforce CRM com o usuário que tenha visibilidade na **seção Oportunidade** do CRM.
 
-   1. Verifique se a seção **Microsoft Partner Center** está presente quando você cria uma **nova oportunidade** no ambiente do Salesforce CRM.
+   1. Verifique se a seção Microsoft **Partner Center** está presente quando você cria uma **nova oportunidade** no ambiente do Salesforce CRM.
 
    1. As oportunidades sincronizadas com êxito com o Partner Center serão identificadas com ✔ ícone no Salesforce CRM.
       :::image type="content" source="images/salesforce/salesforce-environment.png" alt-text="Captura de tela do ambiente do Salesforce.":::
 
-   1. Para sincronizar essa oportunidade com o Microsoft Partner Center, certifique-se de definir os seguintes campos no modo de exibição de cartão:
+   1. Para sincronizar essa oportunidade com o Microsoft Partner Center, certifique-se de definir os seguintes campos na exibição de cartão:
 
-      - **Como a Microsoft pode ajudar?**: para criar uma referência de covenda, selecione uma opção de ajuda apropriada.
+      - **Como a Microsoft pode ajudar?**: para criar uma indicação de venda em cooperação, selecione uma opção de ajuda apropriada.
 
-        :::image type="content" source="images/salesforce/salesforce-help-option.png" alt-text="Captura de tela que mostra como obter os campos apropriados no modo de exibição de cartão.":::
+        :::image type="content" source="images/salesforce/salesforce-help-option.png" alt-text="Captura de tela que mostra como obter os campos apropriados na exibição de cartão.":::
 
-      - **Sincronizar com o Partner Center**: Sim
-      - **Contato do cliente**: para criar uma referência de venda conjunta, adicione um contato do cliente à oportunidade.
-      - **Soluções da Microsoft**: para compartilhar uma referência à Microsoft, adicione uma solução válida de covenda pronta ou Microsoft à oportunidade.
+      - **Sincronizar com Partner Center**: Sim
+      - **Contato do** cliente: para criar uma indicação de venda em cooperação, adicione um contato do cliente à oportunidade.
+      - **Soluções da Microsoft:** para compartilhar uma indicação com a Microsoft, adicione uma solução válida pronta para venda em comum ou da Microsoft à oportunidade.
 
-   1. Depois de definir a opção sincronização de oportunidade **com o Partner Center** como **Sim**, aguarde 10 minutos e entre em sua conta do Partner Center. Suas referências serão sincronizadas com o Salesforce CRM e o link de referência será preenchido. Se houver uma falha, o campo de auditoria será preenchido com informações de erro.
+   1. Depois de definir a opção **Sincronizar com Partner Center** oportunidade como **Sim,** aguarde 10 minutos, entre em sua Partner Center. Suas indicações serão sincronizadas com o Salesforce CRM e o Link de Indicação será preenchido. Se houver uma falha, o campo Auditoria será preenchido com informações de erro.
 
-   1. Da mesma forma, quando a opção **sincronizar com o Partner Center** for definida como **Sim**, se você atualizar a oportunidade no Salesforce CRM, as alterações serão sincronizadas com sua conta do Partner Center.
+   1. Da mesma forma, quando **a** opção Sincronizar com Partner Center estiver definida como **Sim,** se você atualizar a oportunidade no Salesforce CRM, as alterações serão sincronizadas com sua Partner Center cliente.
 
-2. Sincronização de referência quando a referência é criada ou atualizada no Microsoft Partner Center e sincronizada no ambiente do Salesforce CRM:
+2. Sincronização de indicação quando a indicação é criada ou atualizada no Microsoft Partner Center sincronizada no ambiente salesforce CRM:
 
-    1. Entre no [painel](https://partner.microsoft.com/dashboard/home)do Partner Center.
+    1. Entre em seu painel Partner Center [.](https://partner.microsoft.com/dashboard/home)
 
-    1. Selecione **referências** no menu à esquerda.
+    1. Selecione **Indicações** no menu à esquerda.
 
-    1. Crie uma nova referência de revenda do Partner Center clicando na opção "novo negócio".
+    1. Crie uma nova indicação de venda de Partner Center clicando na opção "Nova oferta".
 
-    1. Entre no ambiente do Salesforce CRM.
+    1. Entre em seu ambiente do Salesforce CRM.
 
-    1. Navegue até **oportunidades abertas**. A referência criada no Microsoft Partner Center agora está sincronizada no Salesforce CRM.
+    1. Navegue até **Abrir Oportunidades**. A indicação criada no Microsoft Partner Center agora está sincronizada no Salesforce CRM.
 
-    1. Quando você seleciona uma referência sincronizada, os detalhes da exibição do cartão são preenchidos.
+    1. Quando você seleciona uma indicação sincronizada, os detalhes da exibição de cartão são preenchidos.
 
        :::image type="content" source="images/salesforce/salesforce-casino.png" alt-text="Captura de tela da página de oportunidade do Salesforce.":::
 
 >[!NOTE]
 >**Precisa de ajuda com a implantação?**
->Para obter assistência com a implantação do conector de referência de sua venda, você pode participar de um consultor técnico do parceiro. Eles podem fornecer assistência de implantação e práticas recomendadas para uma implementação bem-sucedida.
+>Para assistência com a implantação do conector de indicação de venda em cooperação, você pode envolver um Consultor Técnico de Parceiro. Eles podem fornecer assistência de implantação e práticas recomendadas para uma implementação bem-sucedida.
 >
->Para obter mais informações, consulte [como enviar uma solicitação de pré-vendas técnica e serviços de implantação](technical-benefits.md)
+>Para obter mais informações, consulte Como enviar uma solicitação técnica de [pré-vendas e serviços de implantação](technical-benefits.md)
 
 ## <a name="next-steps"></a>Próximas etapas
 

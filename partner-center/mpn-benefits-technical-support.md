@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: 7cdb5e04482f32d1b57346c86fa9db218cb11452
-ms.sourcegitcommit: 5d5747d245bdd967fd82df4bcc0a1f8a30a55cea
+ms.openlocfilehash: fae1f29f2fdc804764a29f81f2cddb7353dbf7f7
+ms.sourcegitcommit: c4601069340445135b551fa96bee6d9923d8aa97
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "113105032"
+ms.lasthandoff: 07/01/2021
+ms.locfileid: "113173656"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Suporte técnico para produtos locais ou na nuvem
 
@@ -54,20 +54,20 @@ Como exibir ou ativar seus benefícios técnicos no Partner Center:
 
 2. Expanda **benefícios** no menu de navegação à esquerda, selecione [**benefícios técnicos**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical). A página de benefícios técnicos exibirá suas organizações ativas Gold, Silver ou Microsoft Action Pack Membership Offers.
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="Os benefícios técnicos então expandem os benefícios" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="Em seguida, os benefícios técnicos aumentam os benefícios." :::
 
    > [!NOTE]
    > Se você não tiver ofertas de associação ativas, verá que a mensagem "parece que você ainda não tem nenhum benefício". Se sua empresa tiver ofertas de associação ativas, mas você não puder vê-las, você se conectou usando a conta incorreta. Para verificar sua conta, selecione o ícone de **conta** no canto superior direito da página e selecione **entrar com outra conta** (se necessário).
 
 3. Para usar o suporte a produtos da Microsoft ou o suporte a produtos de assinatura, você precisa ativar o benefício. Para ativar o benefício, selecione o botão **Ativar** . A conta de usuário usada para ativação requer as funções de administrador global administrador ou MPN Partner.
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="Benefícios técnicos selecionar Ativar" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="Benefícios técnicos selecione ativar." :::
 
 4. A ID de acesso e a ID do contrato serão exibidas para todos os usuários após a ativação bem-sucedida. Você pode usar o suporte a produtos da Microsoft e assinaturas (Membros dourados e prata) quando a ID de acesso e a ID do contrato são exibidas.
 
    Se o botão Ativar estiver esmaecido, sua conta não terá a função de segurança administrador global ou administração de parceiro MPN. Use o  [Gerenciamento de usuários](https://partner.microsoft.com/dashboard/account/v3/usermanagement#users) e filtre o administrador global ou o MPN Partner admin para encontrar um usuário para ativar seus benefícios.
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="Os benefícios técnicos ativados mostram a ID de acesso e a ID do contrato" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="Os benefícios técnicos ativados mostram a ID de acesso e a ID do contrato." :::
 
    > [!NOTE]
    > Você precisará da ID de acesso e da ID do contrato na primeira vez que usar o suporte a produtos da Microsoft ou o suporte a produtos de assinatura para cada conta. Depois que os benefícios forem associados à sua conta, você não precisará usar a ID de acesso e a ID do contrato novamente.  
@@ -86,7 +86,7 @@ Como parte da Associação de Microsoft Partner Network, os parceiros estão qua
 | Suporte a produtos da Microsoft<br>Para o recente local <br>somente produtos | 10 incidentes | 15 incidentes | 20 incidentes |
 | Suporte à assinatura na nuvem<br>Somente para produtos de nuvem | | Competências de nuvem:<br>Ilimitado<br><br>Outras competências:<br>5 incidentes | Competências de nuvem:<br>Ilimitado<br>          <br>Outras competências:<br>10 incidentes   | 
 
-As competências de nuvem incluem: competência de segurança, Business Applications de nuvem, plataforma de nuvem, produtividade de nuvem, gerenciamento de mobilidade empresarial, soluções de nuvem de pequeno e médio porte.
+as competências de nuvem incluem: competência de segurança, Business Applications de nuvem, plataforma de nuvem, produtividade de nuvem, gerenciamento de mobilidade Enterprise, soluções de nuvem de pequeno e médio porte.
 
 ## <a name="microsoft-product-support-on-premises"></a>Suporte a produtos da Microsoft (local)
 
@@ -121,7 +121,7 @@ Você precisará da ID de acesso e da ID do contrato na primeira vez que usar o 
 > [!NOTE]  
 > Ao usar o portal do Azure de uso. Se o contrato de suporte já estiver associado à conta, você verá uma mensagem de erro "a ID de acesso já está associada..." Quando você adiciona a ID de acesso e a ID do contrato. Veja abaixo
 
-Os parceiros CSP que criam solicitações do Azure podem usar o plano de suporte "provedor de soluções de nuvem" sem adicionar um contrato de suporte.
+os parceiros CSP que criam solicitações do Azure podem usar o plano de suporte "Provedor de Soluções na Nuvem" sem adicionar um contrato de suporte.
 
 Usuários com a função **agente de administrador** podem selecionar [clientes](https://partner.microsoft.com/commerce/customers/list) no CSP no menu de navegação à esquerda, selecione **Gerenciamento de serviços** e selecione **nova solicitação**.  Quando você seleciona a carga de trabalho relevante, o portal específico da carga de trabalho será aberto e você adicionará um contrato de suporte e criará uma solicitação.
 
