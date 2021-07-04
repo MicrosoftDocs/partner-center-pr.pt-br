@@ -9,12 +9,12 @@ metadata:
   author: JasonWHowell
   ms.author: jasonh
   ms.date: 03/12/2021
-  ms.openlocfilehash: febc75e7dde3441ba96436a85b713d8a03796f21
-  ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+  ms.openlocfilehash: c64dad786e392c5931648e335e64f47f0e3df5dc
+  ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
   ms.translationtype: HT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 03/12/2021
-  ms.locfileid: "103412532"
+  ms.lasthandoff: 06/29/2021
+  ms.locfileid: "113013277"
 landingContent:
 - title: Microsoft AppSource
   linkLists:
@@ -38,8 +38,8 @@ landingContent:
       url: billing-invoicing.md
     - text: Qualificação para transferência de assinatura
       url: transfer-eligibility.md
-    - text: Integrações de parceiros do Azure Marketplace
-      url: partner-integrations.md
+    - text: Estender o Azure com soluções de parceiros
+      url: /azure/partner-solutions/overview
   - linkListType: how-to-guide
     links:
     - text: Criar e gerenciar o Azure Marketplace Privado (versão prévia)

@@ -9,20 +9,17 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb6b167cafec3574906377281cf4699b0a15c32e
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 94425b0695ed0e3ec89e5953f648f5de7a199432
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570715"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149291"
 ---
 # <a name="verify-your-domain-ownership-to-become-global-admin"></a>Verifique a propriedade de seu domínio para se tornar um administrador global 
 
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de conta
+**Funções apropriadas**: Administrador global | Administrador de conta do MPN
 
 Para trabalhar no Partner Center, primeiro você deve verificar a propriedade do seu domínio e se tornar um administrador global da sua empresa. Além disso, os funcionários não terão as funções necessárias para começar a trabalhar.  Para trabalhar no Partner Center, todos precisam ter uma função, que inclua permissões, atribuída a eles.  
 

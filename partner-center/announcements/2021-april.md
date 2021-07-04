@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/29/2021
-ms.openlocfilehash: 798dcb1570a0f6dfc94c7b45fc3c2e152f55cbe5
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 13b8ec9ddd82b38a265606809b8c39c07436e548
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702817"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150124"
 ---
 # <a name="april-2021-announcements"></a>Comunicados de abril de 2021
 
@@ -79,7 +79,7 @@ _______________
 
 ### <a name="summary"></a>Resumo
 
-Os documentos do Swagger da API do Partner Center foram migrados do [site anterior de documentação do Swagger](https://apidocs.microsoft.com/services/partnercenter) para um [novo site de documentação do Swagger](https://docs.microsoft.com/rest/api/partner-center-rest/).
+Os documentos do Swagger da API do Partner Center foram migrados do [site anterior de documentação do Swagger](https://apidocs.microsoft.com/services/partnercenter) para um [novo site de documentação do Swagger](/rest/api/partner-center-rest/).
 
 ### <a name="impacted-audience"></a>Público-alvo afetado
 
@@ -87,11 +87,11 @@ Parceiros de cobrança direta e provedores indiretos que participam do programa 
 
 ### <a name="details"></a>Detalhes
 
-Desde 26 de abril de 2021, a documentação do Swagger da API do Partner Center, incluindo o conteúdo relacionado à API REST, está em um [novo site](https://docs.microsoft.com/rest/api/partner-center-rest/). O site antigo ficará inacessível após algumas semanas.
+Desde 26 de abril de 2021, a documentação do Swagger da API do Partner Center, incluindo o conteúdo relacionado à API REST, está em um [novo site](/rest/api/partner-center-rest/). O site antigo ficará inacessível após algumas semanas.
 
 ### <a name="benefits"></a>Benefícios
 
-A documentação do Swagger da API do Partner Center fornecerá uma função **Experimente**. Para usar essa função, você precisará de um token de portador, que pode ser gerado seguindo as etapas listadas em [Autenticação do Partner Center](https://docs.microsoft.com/partner-center/develop/partner-center-authentication#app--user-authentication).
+A documentação do Swagger da API do Partner Center fornecerá uma função **Experimente**. Para usar essa função, você precisará de um token de portador, que pode ser gerado seguindo as etapas listadas em [Autenticação do Partner Center](/partner-center/develop/partner-center-authentication#app--user-authentication).
 
 ### <a name="next-steps"></a>Próximas etapas
 
@@ -322,13 +322,13 @@ Parceiros que vendem ofertas Acadêmicas, Sem Fins Lucrativos e GCC (Nuvem da Co
 
 ### <a name="details"></a>Detalhes
 
-Este comunicado é um acompanhamento dos [aprimoramentos lançados em dezembro](https://docs.microsoft.com/partner-center/announcements/2020-december#1) do Partner Center. Como parte dessa versão, as novas APIs de Qualificações GET e POST foram implantadas e, como resultado, **a qualificação GET será desativada até 6 de maio de 2021**. Nesse momento, você precisará ter feito a transição para as novas APIs POST do Partner Center. As novas APIs POST permitirão que você compre ofertas de Educação, enquanto as novas APIs GET permitirão que você compre ofertas sem fins lucrativos e GCC pré-qualificadas.
+Este comunicado é um acompanhamento dos [aprimoramentos lançados em dezembro](./2020-december.md#1) do Partner Center. Como parte dessa versão, as novas APIs de Qualificações GET e POST foram implantadas e, como resultado, **a qualificação GET será desativada até 6 de maio de 2021**. Nesse momento, você precisará ter feito a transição para as novas APIs POST do Partner Center. As novas APIs POST permitirão que você compre ofertas de Educação, enquanto as novas APIs GET permitirão que você compre ofertas sem fins lucrativos e GCC pré-qualificadas.
 
 ### <a name="next-steps"></a>Próximas etapas
 
 - **Atualize para as novas APIs** para uma transição bem-sucedida e em tempo hábil.
 
-- **Examine as novas alterações e o Guia da API do Partner Center** nos recursos de Preparação de Operações: [aprimoramentos do processo de validação do cliente de Educação do Partner Center](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+- **Examine as novas alterações da API do Partner Center e o Guia** nos recursos de Preparação de Operações: [aprimoramentos do processo de validação do cliente de Educação do Partner Center](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
 
 - Compartilhe essas informações com as equipes apropriadas da sua organização e com seus revendedores para ajudá-los a se preparar para essas mudanças.
 
@@ -390,7 +390,7 @@ Os seguintes elementos não serão afetados:
 
 ### <a name="next-steps"></a>Próximas etapas
 
-Examine as informações sobre o tópico na [galeria de recursos de preparação de Operações](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/) no site de parceiros da Microsoft. Para mais informações sobre tópicos relacionados a cobrança e imposto, incluindo recursos de cobrança, faturas, cobrança do CSP e impostos, visite a [seção Cobrança](https://docs.microsoft.com/partner-center/billing) do Partner Center.
+Examine as informações sobre o tópico na [galeria de recursos de preparação de Operações](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/) no site de parceiros da Microsoft. Para mais informações sobre tópicos relacionados a cobrança e imposto, incluindo recursos de cobrança, faturas, cobrança do CSP e impostos, visite a [seção Cobrança](../billing.md) do Partner Center.
 
 ________________
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="2"></a>Alterações nos requisitos de integração do cliente do CSP (Provedor de Soluções na Nuvem)
