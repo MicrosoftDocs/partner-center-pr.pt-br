@@ -1,7 +1,7 @@
 ---
 title: Aplicar para especializações avançadas
 ms.topic: how-to
-ms.date: 01/21/2021
+ms.date: 07/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Fortaleça seu perfil de negócios no diretório de parceiros da Microsoft. Saiba como usar o Partner Center para se candidatar e ganhar especializações avançadas.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c617d3bde3bbfe17896631b3c761c01fe2f299a
-ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
+ms.openlocfilehash: 76500ebf1b594e6097040ee810a94635cbb65eb7
+ms.sourcegitcommit: 312f3800d0a0464af9df4d7ffb0d9faec273fd74
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "112125966"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113489819"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Usar o Partner Center para se candidatar a especializações avançadas e verificar seu status
 
@@ -64,16 +64,18 @@ As especializações avançadas que exigem uma auditoria com um auditor de terce
 - Área de Trabalho Virtual do Windows da Microsoft
 - Modernização de aplicativos Web para Microsoft Azure
 - Migração do Windows Server e do SQL Server para Microsoft Azure
-- IA e Machine Learning no Microsoft Azure
-- Infraestrutura de nuvem híbrida com o HCI Microsoft Azure Stack
-- Operações híbridas e gerenciamento com Microsoft Azure Arc
-- Solução Microsoft Azure VMware
+- ia e Machine Learning no Microsoft Azure
+- infraestrutura de nuvem híbrida com HCI de pilha de Microsoft Azure
+- operações híbridas e gerenciamento com Microsoft Azure Arc
+- Microsoft Azure Solução VMware
+- DevOps com GitHub no Microsoft Azure
+- Serviços de rede no Microsoft Azure
 
 As especializações avançadas que exigem referências de clientes incluem:
 
 - Adoção e gerenciamento de alterações
 - Chamar o Microsoft Teams
-- Reuniões e salas de reunião do Microsoft Teams
+- Reuniões e salas de reunião para Microsoft Teams
 - SAP no Azure
 - Implantação de trabalho em equipe
 - Gerenciamento de Identidades e Acesso
@@ -117,7 +119,7 @@ Em seguida, siga estas etapas para fornecer referências de clientes no Partner 
 
 2. Selecione a seção **MPN** do menu do Partner Center, seguida por **avçd. especializations**. O menu se expande para mostrar todas as especializações avançadas disponíveis para você.
 
-3. Selecione o nome da especialização avançada que exige que você forneça referências de clientes. Por exemplo, digamos que você selecione **reuniões e salas de reunião para o Microsoft Teams**.
+3. Selecione o nome da especialização avançada que exige que você forneça referências de clientes. Por exemplo, digamos que você selecione **reuniões e salas de reunião para Microsoft Teams**.
 
    A página pré-requisitos é exibida para essa Especialização avançada. Além de competência Gold, certificações e um requisito de desempenho, essa Especialização avançada também exige que você forneça três referências de clientes que demonstram sua capacidade de implantar e gerenciar.
 
@@ -147,52 +149,59 @@ Em seguida, siga estas etapas para fornecer referências de clientes no Partner 
 **Filtros de receita de consumo do Azure para especialização avançada**
 
 - Migração do Data Warehouse para o Microsoft Azure
-    - ACR do SQL DW: nível de serviço 1 = bancos de dados e nível de serviço 2 = SQL Data Warehouse
+    - ACR do Azure Synapse Analytics: grupo de serviços 3 = SQL DW
 - Kubernetes no Microsoft Azure
     - ACR do AKS (serviço kubernetes do Azure): influenciador de serviço = AKS, AKS-Engine
-- Área de trabalho virtual do Microsoft Windows
-    - ACR da área de trabalho virtual do Windows: influenciador de serviço = WVD nativo
+    - ACR OpenShift do Azure RedHat: grupo de serviços 3 = toa, nível de serviço 2 = todos exceto "desconhecido"
+- área de trabalho Virtual do Microsoft Windows
+    - Windows ACR de área de trabalho virtual: influenciador de serviço = WVD nativo
 - Modernização de aplicativos Web para Microsoft Azure
     - ACR de serviço de Azure App: nível de serviço 1 = computação e nível de serviço 2 = serviço Azure App
+    - ACR do Azure Spring Cloud:
+        - Tipo de ajuste de ACR = N/A
+        - Grupo de serviços 2 = desenvolvimento de aplicativo
+        - Grupo de serviços 3 = Spring Cloud 
+        - Nível de serviço 2 = todos exceto "desconhecido"
+
 - Análise em Microsoft Azure
     - ACR do Azure Synapse Analytics: grupo de serviços 3 = SQL DW
     - ACR Data Lake: grupo de serviços 3 = Azure Data Lake
     - ACR do databricks: serviço Grupo3 = databricks, VM do databricks
     - ACR Azure Data Factory: Service Grupo3 = Data Factory  
-- Infraestrutura de nuvem híbrida com o HCI Microsoft Azure Stack
+- infraestrutura de nuvem híbrida com HCI de pilha de Microsoft Azure
     - ACR Azure Stack HCI: nível de serviço 2 = Azure Stack HCI
-- Solução Microsoft Azure VMware
+- Microsoft Azure Solução VMware
     - ACR do Azure VMware Solutions (AVS): nível de serviço 4 = solução Azure VMware, solução VMware do Azure por CloudSimple, solução Azure VMware da Virtustream, solução especializada do Azure VMware Solution
-- Operações híbridas e gerenciamento com Microsoft Azure Arc 
+- operações híbridas e gerenciamento com Microsoft Azure Arc 
     - ACR de servidor habilitado para arco: nível de serviço 4 = Azure Policy
     - ACR kubernetes habilitado para Arc: nível de serviço 4 = arco do Azure
-- IA e Machine Learning no Microsoft Azure
+- ia e Machine Learning no Microsoft Azure
     - ACR de ia: grupo de serviços 2 = ia
 
 
 - Migração do Windows Server e do SQL Server para Microsoft Azure
-    - ACR do Windows: 
+    - Windows ACR 
         - Tipo de ajuste ACR = N/A, COMPUTE Core SW = Core,
         - Computação OS = WINDOWS e, em seguida, o atributo do sistema operacional de computação = WINDOWS, desconhecido ou sistema operacional de computação = LINUX e, em seguida, o atributo de sistema
         - Nível de serviço 2 = serviços de nuvem, instâncias de contêiner, registro de contêiner, computação especializada, máquinas virtuais, licenças de máquinas virtuais
-    - ACR do banco de dados SQL (DB): grupo de serviços 3 = SQLDB
-    - ACR do SQL Instância Gerenciada (MI): grupo de serviços 3 = banco de BD SQL MI
-    - ACR de VM do SQL: grupo de serviços 3 = SQL em IaaS, SQL na VM IaaS
+    - ACR de Banco de Dados SQL (DB): grupo de serviços 3 = SQLDB
+    - SQL ACR de Instância Gerenciada (MI): grupo de serviços 3 = SQL DB mi
+    - SQL ACR de VM: grupo de serviços 3 = SQL em IaaS, SQL na VM iaas
 - Migração de banco de dados Linux e Open-Source para Microsoft Azure
     - ACR de Máquinas Virtuais do Linux (VM):
         - Opção 1:
-            - Tipo de ajuste de ACR = N/A, nível de serviço 2 = máquinas virtuais, sistema operacional de computação = Linux, atributo de sistema operacional de computação = não Windows, desconhecido, Windows
-            - Nível de serviço 4 = todos, exceto os serviços de nuvem MS Series, máquinas virtuais MS Series, máquinas virtuais MS Series Windows, máquinas virtuais MSv2 Series, máquinas virtuais MSv2 Series Windows, hosts dedicados do MS Series, host dedicado da série MSv2
+            - tipo de ajuste de ACR = N/A, nível de serviço 2 = máquinas virtuais, sistema operacional de computação = Linux, atributo de sistema operacional de computação = não Windows, desconhecido Windows
+            - nível de serviço 4 = todos, exceto os serviços de nuvem ms series, máquinas virtuais ms series, máquinas virtuais ms series Windows, máquinas virtuais MSv2 series, máquinas virtuais MSv2 series Windows, host dedicado do ms series, host dedicado da série MSv2
         - Opção 2: exigir apenas filtros no nível de serviço 4, outros campos, como OS atributos do sistema operacional de computação/computação não são necessários
-            - Nível de serviço 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux com HA, SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server para HPC Priority, SUSE Linux Enterprise Server para HPC Standard, SuSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server Standard
+            - nível de serviço 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux com HA, SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server para HPC Priority, SUSE Linux Enterprise Server para HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server Standard
     - Banco de dados do Azure (BD) para MariaDB ACR: nível de serviço 1 = bancos de dados e nível de serviço 2 = banco de dados do Azure para MariaDB
     - BD do Azure para MySql ACR: nível de serviço 1 = bancos de dados e nível de serviço 2 = banco de dados do Azure para MySQL e banco de dados MySQL no Azure
-    - Azure DB para Postgre SQL ACR: nível de serviço 1 = bancos de dados e nível de serviço 2 = PostgreSQL
+    - bd do Azure para Postgre SQL ACR: nível de serviço 1 = bancos de dados e nível de serviço 2 = PostgreSQL
     - ACR do Azure COSMOS DB: nível de serviço 1 = bancos de dados e nível de serviço 2 = CosmosDB
 - Proteção contra Ameaças
     - ACR do Azure Sentinel: nível de serviço 4 = sentinela
 - Segurança de nuvem
-    - XDR de ambiente híbrido e ACR de segurança de rede: nível de serviço 4 = Azure defender para SQL, Azure defender para registros de contêiner, Azure defender para kubernetes, Azure defender para armazenamento, gateway de aplicativo WAF v2, gateway de aplicativo WAF, Azure Active Directory B2C, Azure Active Directory Domain Services, Azure Active Directory para identidades externas, bastiões do Azure, proteção contra DDOS do Azure, firewall do Azure , Gerenciador de firewall do Azure, serviço de porta frontal do Azure, Azure defender para IoT, HSM dedicado do Azure, Key Vault, observador de rede, Azure defender para serviço de aplicativo, Azure defender para servidores, Sentinela
+    - XDR do ambiente híbrido e ACR de segurança de rede: nível de serviço 4 = azure defender para SQL, azure defender para registros de contêiner, azure defender para Kubernetes, Azure Defender para Armazenamento, gateway de aplicativo WAF v2, gateway de aplicativo WAF, Azure Active Directory B2C, Azure Active Directory serviços de domínio, Azure Active Directory para identidades externas, bastiões do azure, proteção contra DDOS do azure, Firewall do azure, gerenciador de Firewall do azure, serviço de porta frontal do azure, azure defender para IoT, HSM dedicado do azure, Key Vault, observador de rede, azure defender para serviços
 
 ## <a name="next-steps"></a>Próximas etapas
 

@@ -1,6 +1,6 @@
 ---
 title: Dimensionamento da VM do Azure para uso máximo de reserva
-description: Saiba como dimensionar uma VM (máquina virtual) para as necessidades de computação de seus clientes ao comprar Microsoft Azure reservas para elas.
+description: saiba como dimensionar uma VM (máquina virtual) para as necessidades de computação de seus clientes ao comprar Microsoft Azure reservas para elas.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,25 +9,25 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 2d8bc76e0da51abf433e49028445b398c6a1db31
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 650618de7460f4667c60ac58cbe6716530db7f16
+ms.sourcegitcommit: b55f63a029d88c73cd5190bbac2df1b5990e6e44
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276987"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113510186"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Dimensionamento de VM do Microsoft Azure para uso máximo de reserva do Azure
 
 **Funções apropriadas**: agente de administração | Agente de vendas
 
-Este artigo explica como dimensionar uma VM (máquina virtual) para as necessidades de computação de seus clientes ao comprar Microsoft Azure reservas para elas.
+este artigo explica como dimensionar uma VM (máquina virtual) para as necessidades de computação de seus clientes ao comprar Microsoft Azure reservas para elas.
  
 > [!NOTE]
-> Este artigo se aplica somente a parceiros no programa CSP (provedor de soluções na nuvem). Os clientes que usam outros tipos de assinaturas (como pagamento conforme o uso, individuais, contrato de cliente da Microsoft ou assinaturas de Contrato Enterprise) devem ler [essa documentação de reservas do Azure](/azure/cost-management-billing/reservations).
+> este artigo se aplica somente a parceiros no programa Provedor de Soluções na Nuvem (CSP). os clientes que usam outros tipos de assinaturas (como pagamento conforme o uso, individuais, contrato de cliente da Microsoft ou assinaturas de Enterprise Agreement) devem ler [essa documentação de reservas do Azure](/azure/cost-management-billing/reservations).
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Determinar o tamanho da VM para a reserva do Azure de um cliente
 
-Ao comprar Microsoft Azure reservas em nome de seus clientes, você precisará escolher uma VM (máquina virtual) dimensionada para atender às necessidades de computação do cliente. Você pode encontrar essas informações usando um destes métodos:
+ao comprar Microsoft Azure reservas em nome de seus clientes, você precisará escolher uma VM (máquina virtual) dimensionada para atender às necessidades de computação do cliente. Você pode encontrar essas informações usando um destes métodos:
 
 - API de utilização do Azure
 - O Portal do Azure
@@ -52,7 +52,7 @@ As instruções para o uso de cada um desses métodos estão listadas a seguir. 
 
 1. No Partner Center, vá para a página de seus **clientes** .
 
-2. Localize o cliente que deseja comprar as reservas de VM do Azure e, em seguida, selecione a seta para baixo para expandir as informações do cliente. Selecione **portal de gerenciamento do Microsoft Azure** para abrir o registro do cliente no portal do Azure.
+2. Localize o cliente que deseja comprar as reservas de VM do Azure e, em seguida, selecione a seta para baixo para expandir as informações do cliente. selecione **Microsoft Azure Portal de Gerenciamento** para abrir o registro do cliente no portal do Azure.
 
 3. Selecione **Máquinas virtuais** no menu do portal e então selecione a VM para a qual você deseja comprar uma reserva.
 
@@ -70,7 +70,7 @@ Use as informações na imagem abaixo para obter a localização e o tamanho da 
 
 1. Usando o ARMClient ou as APIs ARM, chame o cliente ARM para a VM para a qual você deseja comprar uma reserva.
 
-2. /subscriptions/<Subscription ID>/resourceGroups/<Resource group name>/providers/Microsoft.Compute/virtualMachines/<VM Instance Name>?api-version=2017-12-01
+2. `/subscriptions/<Subscription ID>/resourceGroups/<Resource group name>/providers/Microsoft.Compute/virtualMachines/<VM Instance Name>?api-version=2017-12-01`
 
 3. A chamada retorna os valores de **vmSize** e **location**, como ilustrado abaixo.
 
@@ -91,11 +91,11 @@ As instruções para o uso de cada um desses métodos estão listadas a seguir.
 >[!NOTE]
 >Somente a API de utilização do Azure mostra a qual máquina virtual o desconto está sendo aplicado.  
 
-### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Verificar o uso de reserva do cliente no portal do Microsoft Azure
+### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>verificar o uso de reserva do cliente no portal de Microsoft Azure
 
 1. No Partner Center, vá para a página de seus **clientes** .
 
-2. Localize o cliente cujo desconto e uso de reserva você deseja verificar e, em seguida, selecione a seta para baixo para expandir as informações do cliente. Selecione **portal de gerenciamento do Microsoft Azure** para abrir o registro do cliente no portal do Azure.
+2. Localize o cliente cujo desconto e uso de reserva você deseja verificar e, em seguida, selecione a seta para baixo para expandir as informações do cliente. selecione **Microsoft Azure Portal de Gerenciamento** para abrir o registro do cliente no portal do Azure.
 3. Selecione **Reservas** no menu do portal e então selecione a reserva cujo uso você deseja verificar.
 4. Na página **visão geral** , verifique o grafo de utilização da reserva, que mostra quanto da reserva foi aplicada às máquinas virtuais.
 

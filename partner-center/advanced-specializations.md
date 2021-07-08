@@ -1,7 +1,7 @@
 ---
 title: Saiba mais sobre especializações avançadas
 ms.topic: article
-ms.date: 01/21/2021
+ms.date: 07/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Fortalecer seu perfil de negócios no diretório de parceiros da Microsoft. Saiba mais sobre as especializações avançadas que você pode obter junto com suas competências Gold e Silver existentes.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91c182f2eb42bbe834926c7985d343524305485a
-ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
+ms.openlocfilehash: 779e6d344d9fc75a45a4d89a65ebff3ace8ce8cb
+ms.sourcegitcommit: 312f3800d0a0464af9df4d7ffb0d9faec273fd74
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "112125915"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113489802"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Ganhar uma especialização avançada para demonstrar seus recursos validados
 
@@ -53,7 +53,10 @@ Cada especialização avançada corresponde a uma área de solução:
 - IA e Machine Learning em Microsoft Azure
 - Infraestrutura de nuvem híbrida com Microsoft Azure Stack HCI
 - Operações híbridas e gerenciamento com Microsoft Azure Arc
-- Microsoft Azure solução VMware
+- Microsoft Azure Solução VMware
+- DevOps com GitHub no Microsoft Azure
+- Serviços de rede no Microsoft Azure
+
 
 **Business Applications** especializações avançadas incluem:
 
