@@ -8,20 +8,17 @@ author: vinayks
 ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.date: 11/25/2019
-ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.date: 6/17/2021
+ms.openlocfilehash: 69aa45de55a4356eaab1bcd4cd309feb14de9f6e
+ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534787"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112318054"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Criar uma conta corporativa que vincula a sua empresa à sua conta do Partner Center
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de gerenciamento de usuário
+**Funções apropriadas**: Administrador global | Administrador de gerenciamento de usuários
 
 ## <a name="why-you-need-a-work-account"></a>Por que você precisa de uma conta corporativa
 
@@ -34,7 +31,7 @@ Sua conta corporativa ou seu email de trabalho é o endereço de email fornecido
 Caso você tenha mais de um email de trabalho válido, use aquele associado à sua sede corporativa em vez do departamento regional, por exemplo, use seu email `contoso.com` em vez do endereço `contoso.uk`.
 
 > [!NOTE]  
-> Antes de decidir usar uma conta corporativa existente, pense sobre quantos usuários da conta precisarão trabalhar no Partner Center. Caso você tenha usuários da conta que não precisem trabalhar no Partner Center, considere a possibilidade de criar uma conta só para os usuários que precisarão trabalhar no Partner Center.
+> Antes de usar uma conta corporativa, pense em quantos usuários na conta corporativa precisarão acessar o Partner Center. Caso você tenha usuários da conta corporativa que não precisem de acesso ao Partner Center, considere a possibilidade de criar uma conta só para os usuários que precisarão de acesso ao Partner Center.
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Não tem certeza se a sua empresa já tem uma conta corporativa?
 
@@ -42,7 +39,7 @@ Caso não tenha certeza se a sua empresa tem uma conta corporativa, siga estas e
 
 1. Entre no [portal do Azure](https://portal.azure.com).
 
-2. Selecione Azure Active Directory no menu e, em seguida, selecione Nomes de Domínio.
+2. Selecione o Azure Active Directory no menu de navegação e selecione **Nomes de Domínio Personalizados**.
 
 3. Caso você já tenha uma conta corporativa, seu nome de domínio estará listado.
 

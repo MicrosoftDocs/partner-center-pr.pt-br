@@ -9,19 +9,16 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b59d18a62ce6a775e97f88708467d07e9c351a66
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: 19b9378e3e2de0742ea6bc7d6fb96cf58bd5c3de
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740379"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277701"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gerenciar sua conta do Partner Center – perfis da empresa, informações bancárias, funções, permissões e muito mais
 
-**Funções apropriadas** 
-
-- Administrador global
-- Administrador de conta
+**Funções apropriadas**: Administrador global | Administrador de conta do MPN
 
 A conta que você cria no Partner Center ao se inscrever é seu email de trabalho mais suas informações comerciais. Após a criação de uma conta, você concluirá a configuração do perfil completo da empresa, incluindo detalhes de suporte, isenções fiscais (se apropriado) e informações do contato principal. A conta da sua empresa também incluirá contas de usuário para qualquer membro da sua equipe que precise usar o Partner Center. O trabalho que eles podem fazer inclui adicionar ou gerenciar clientes, vender assinaturas, trabalhar com cobrança e faturamento, criar perfis de negócios, gerenciar indicações, trabalhar com os programas de incentivos, fornecer suporte e muito mais.
 
@@ -34,7 +31,7 @@ Confira também os artigos [Convidar funcionários para participar do Partner Ce
 
 Todos os parceiros comerciais e desenvolvedores acessam o **Gerenciamento de conta** no Partner entrando no [painel](https://partner.microsoft.com/dashboard) do Partner Center e selecionando **Configurações** (ícone de engrenagem), no canto superior direito da tela, depois **Configurações de conta**. Você não precisa mais escolher entre as configurações de Parceiro e de Desenvolvedor. Todos os perfis e as configurações agora estão combinados.
 
-:::image type="content" source="images/accountsettings/opening.png" alt-text="Ícone de configurações":::
+:::image type="content" source="images/accountsettings/opening.png" alt-text="Ícone de configurações.":::
 
 Isso exibirá a página de configurações da conta.
 
@@ -48,7 +45,7 @@ Independentemente de você ser um parceiro ou um desenvolvedor, use sua ID do MP
 
 Quando você seleciona o ícone **Configurações** e abre o menu **Configurações de conta**, a exibição padrão, se a sua empresa fizer parte do Programa Provedor de Soluções na Nuvem, será **Informações legais** exibindo duas guias, **Parceiro** e **Revendedor**. Cada guia inclui aspectos da sua empresa.
 
-:::image type="content" source="images/accountsettings/reseller.png" alt-text="O menu mostra as guias Parceiros e Revendedores":::
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="O menu mostra as guias para Parceiros e revendedores.":::
 
 A guia Parceiro inclui todas as informações de negócios legais, como a razão social e o endereço da sua empresa, bem como o contato principal e os locais físicos dos negócios. A guia Revendedor para parceiros que fazem negócios com CSP inclui o **Perfil de atendimento ao cliente**.
 
@@ -58,7 +55,7 @@ Se a sua empresa não participar do CSP, a exibição padrão mostrará apenas a
 
 Você pode fazer parte de mais de uma conta. Você pode verificar se faz parte de várias contas pela presença do "seletor de conta" no menu de navegação esquerdo.
 
-:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identificar o seletor de conta":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identificar o seletor de conta.":::
 
 Se você não vê o seletor de conta, você faz parte de apenas uma conta. 
 
@@ -66,7 +63,7 @@ Quando você seleciona esse seletor, todas as contas das quais você faz parte s
 
 No exemplo a seguir, o usuário conectado faz parte das três contas realçadas. O usuário pode alternar entre elas clicando em uma conta.
 
-:::image type="content" source="images/accountsettings/picker-two.png" alt-text="As contas das quais você faz parte":::
+:::image type="content" source="images/accountsettings/picker-two.png" alt-text="As contas das quais você parte.":::
 
 ## <a name="organization-profile"></a>Perfil da organização
 

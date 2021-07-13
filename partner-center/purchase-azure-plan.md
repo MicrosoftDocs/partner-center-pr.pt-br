@@ -9,18 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 004044902b21c223af75414a1ec999173b481058
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e0a5626c4c1efd5eb07a8e948694b84d48b66f3b
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854954"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013328"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Adquira o plano do Azure para clientes e acesse os serviços mais recentes do Azure com taxas pré-pagas
 
+**Aplica-se a**: Partner Center 
+
 **Funções apropriadas**: Administrador global | Administrador de gerenciamento de usuários | Agente de vendas
 
-Quando você adquire um plano do Azure para seus clientes sob o contrato do cliente da Microsoft, você tem acesso ao catálogo completo dos serviços do Azure mais recentes com tarifas pagas conforme o uso. Os parceiros CSP agora serão capazes de acessar qualquer serviço do Azure quando ele estiver disponível ao público geral. Um parceiro pode ter várias assinaturas do Azure em um único plano do Azure. 
+Quando você adquire um plano do Azure para seus clientes sob o contrato do cliente da Microsoft, você tem acesso ao catálogo completo dos serviços do Azure mais recentes com tarifas pagas conforme o uso. Os parceiros do CSP (Provedor de Soluções na Nuvem) agora poderão acessar qualquer serviço do Azure quando entrar em disponibilidade geral. Um parceiro pode ter várias assinaturas do Azure em um único plano do Azure. 
 
 ## <a name="countryregion-availability"></a>Disponibilidade do país/da região
 
@@ -31,9 +33,9 @@ A nova experiência de comércio no CSP para Azure está atualmente agendada par
 A maneira como você adquire o plano do Azure é semelhante à compra de qualquer outra assinatura. A principal diferença é que, antes de realmente fazer seu pedido, você precisa confirmar que seu cliente assinou o Contrato de Cliente da Microsoft.
 
 1. Selecione **Segmento comercial** e digite **Microsoft Azure** 
-2. Em plano do Azure, selecione **Adicionar ao carrinho**
+2. No plano do Azure, selecione **Adicionar ao carrinho**
 
-:::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Adquirir":::
+:::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Comprar.":::
 
 O parceiro deve confirmar se o cliente examinou e aceitou os termos do Contrato de Cliente da Microsoft. Para obter mais informações sobre como o parceiro pode fazer isso, leia [Confirmar a aceitação pelo cliente do Contrato de Cliente da Microsoft](confirm-customer-agreement.md). Esses recursos estão disponíveis na [galeria de recursos](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
 
@@ -78,7 +80,7 @@ As reservas do Azure devem estar associadas a um plano do Azure ativo. Escolha o
 >[!Note]
 >O escopo da reserva só pode ser definido como **Compartilhado** no momento no Partner Center. Para selecionar o escopo de assinatura única ou atualizar de um escopo compartilhado para o escopo de assinatura única, acesse o **portal de Gerenciamento do Microsoft Azure** usando as instruções a seguir. 
 
-:::image type="content" source="images/azure/addprods1.png" alt-text="Configuração de reservas de escopo compartilhado":::
+:::image type="content" source="images/azure/addprods1.png" alt-text="Configuração de reservas de escopo compartilhado.":::
 
 Para gerenciar a reserva do cliente no portal do Azure: 
 
@@ -90,12 +92,12 @@ Para gerenciar a reserva do cliente no portal do Azure:
 
 Na página **Assinaturas**, na seção com base no uso, expanda **plano do Azure** para ver as assinaturas do Azure associadas no âmbito plano do Azure.
 
-:::image type="content" source="images/azure/addprods2.png" alt-text="Exibir lista de assinaturas do Azure"::: 
+:::image type="content" source="images/azure/addprods2.png" alt-text="Exibir lista de assinaturas do Azure."::: 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Adicionar assinaturas e configurar recursos
 
-Você adicionará assinaturas e configurará recursos para o seu cliente no portal do Azure. Você também poderá separar o ambiente do cliente por carga de trabalho ou projeto. É possível gerenciar assinaturas por meio do [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/), bem como do portal do Azure. 
+Você adicionará assinaturas e configurará recursos para o seu cliente no portal do Azure. Você também poderá separar o ambiente do cliente por carga de trabalho ou projeto. É possível gerenciar assinaturas por meio do [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) e do portal do Azure. 
 
 Para gerenciar os recursos e as assinaturas do cliente, você precisará de privilégios **AOBO (Administrador em nome de)** . Para obter informações sobre como gerenciar o seu acesso, leia [Gerenciar assinaturas e recursos no âmbito do plano do Azure](azure-plan-manage.md)
 

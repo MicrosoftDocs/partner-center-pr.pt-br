@@ -9,21 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e7ff0ae1f5ca99cee25e3fa8740212d0b697f70
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 6edd8d18610947f61f88af8c3e3563508244586e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132937"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152215"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Seja um parceiro da Microsoft e descubra os benefícios da associação
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de parceiros do MPN
-- Administrador de gerenciamento de usuário
-- Agente administrativo
+**Funções apropriadas**: Administrador global | Administrador de parceiros do MPN | Administrador de gerenciamento de usuários | Agente administrativo
 
 O MPN (Microsoft Partner Network) oferece a mais ampla variedade de produtos do setor, bem como opções de programas para diferenciar seus negócios, entrar no mercado e vender suas soluções. Ingresse gratuitamente e escolha como investir em sua parceria com um Microsoft Action Pack, um kit de início ou uma competência.
 

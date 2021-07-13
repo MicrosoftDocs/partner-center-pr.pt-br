@@ -9,19 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ac6169ea6680ea0b36cd5caa3f3e8276f557bea2
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 309a3578edcd06770c818722f2164a4d10a945da
+ms.sourcegitcommit: 32ef8d43902357a85df420b48b0ec1d63ad073e4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502545"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "110754470"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vender assinaturas de software por meio do programa CSP (Provedor de Soluções na Nuvem)
 
-**Funções apropriadas**
-
-- Agente administrativo
-- Administrador global
+**Funções apropriadas**: Agente administrativo | Administrador global
 
 Com as reservas do Azure e as assinaturas do Server (assinaturas do Windows Server e do SQL Server), os parceiros do programa CSP podem lidar melhor com a demanda acelerada do cliente por soluções mais econômicas para dar suporte a cargas de trabalho na nuvem altamente previsíveis e persistentes. 
 
@@ -103,7 +100,7 @@ Depois de adquirir seu software, você ou seus clientes precisarão baixá-lo (p
 
 5. Escolha **Copiar Link** se desejar enviar ao cliente o link para o download dos bits. 
 
-6. Você também pode **Cancelar** o pedido do software e receber um crédito de 100% (se isso for feito dentro do período de 60 dias da política de cancelamento).
+6. Você também pode **Cancelar** o pedido do software e receber um crédito de 100% (se isso for feito dentro do período de 30 dias da política de cancelamento).
 
 >[!NOTE]
 >Somente os clientes têm acesso para ver as chaves do produto (Product Key) e as informações de download no Centro de Administração do Microsoft 365 (função de Administrador Global necessária). Os parceiros precisam usar o Partner Center para ver essas informações.
@@ -129,22 +126,20 @@ Para fins de auditoria ou de conformidade, talvez seja necessário verificar uma
 
 ## <a name="cancel-a-purchase"></a>Cancelar uma compra
 
-Você pode cancelar uma compra de software em até 60 dias após a data da compra. Se você fizer o cancelamento dentro desse primeiro período de 60 dias, não será cobrada uma taxa de rescisão antecipada. Após 60 dias, você não poderá mais cancelar uma compra. (Confira Observação para obter as principais restrições a essa regra de cancelamento. Para saber mais sobre o que acontece depois que você cancela uma compra de software, confira também a observação Importante após estas etapas.) 
+Você pode cancelar uma compra de software em até 30 dias após a data da compra. Se você fizer o cancelamento dentro desse primeiro período de 30 dias, não será cobrada uma taxa de rescisão antecipada. Após 30 dias, você não poderá mais cancelar uma compra. (Confira Observação para obter as principais restrições a essa regra de cancelamento. Para saber mais sobre o que acontece depois que você cancela uma compra de software, confira também a observação Importante após estas etapas.) 
 
 >[!NOTE]
->As etapas a seguir usadas para cancelar uma compra se aplicam somente ao software que se qualifica para o cancelamento dentro de uma janela de cancelamento específica, como nos primeiros 60 dias após a compra. Essas etapas também não se aplicam a um plano de software SUSE Linux ou Red Hat no Azure. No momento, não é possível cancelar nem trocar um plano de software SUSE ou Red Hat. [Saiba mais](/azure/virtual-machines/linux/prepay-suse-software-charges) sobre como usar os planos do SUSE Linux ou do Red Hat.
+>As etapas a seguir usadas para cancelar uma compra se aplicam somente ao software que se qualifica para o cancelamento dentro de uma janela de cancelamento específica, como nos primeiros 30 dias após a compra. Essas etapas também não se aplicam a um plano de software SUSE Linux ou Red Hat no Azure. No momento, não é possível cancelar nem trocar um plano de software SUSE ou Red Hat. [Saiba mais](/azure/virtual-machines/linux/prepay-suse-software-charges) sobre como usar os planos do SUSE Linux ou do Red Hat.
 
 Siga as etapas abaixo para cancelar uma compra:
 
 >[!NOTE]
 >Você precisa ser um Agente administrativo para cancelar uma compra. As etapas a seguir descrevem como cancelar uma compra no Painel do Partner Center. Faça isso também usando a [API do Partner Center](/partner-center/develop/cancel-software-purchases).
 
-1. Antes de iniciar o processo de cancelamento, verifique se você tem o seguinte:
+1. Antes de iniciar o processo de cancelamento, verifique se você tem as seguintes informações:
 
     - O nome do cliente, o GUID do locatário ou o nome de domínio
-
     - O nome do produto que deseja cancelar
-    
     - A ID do pedido
 
 2. Entre no [painel](https://partner.microsoft.com/dashboard) do Partner Center.
@@ -176,7 +171,7 @@ Quando você tenta cancelar um pedido, o Partner Center também pode fornecer ou
 
 Depois que você cancelar uma compra:
 
-- Todas as chaves de software e os links de download relacionados serão revogados. Isso significa que você nem o cliente podem usar as chaves de software e os links de download que não estão mais relacionados a essa compra. Você e o cliente são responsáveis por descontinuar o uso de todo o software cancelado. Você também é responsável por desinstalar o software cancelado e remover os downloads e os links de software relacionados.
+- Todas as chaves de software e os links de download relacionados serão revogados. Essa revogação significa que você e seu cliente não podem mais usar as chaves de software e os links de download relacionados a essa compra. Você e o cliente são responsáveis por descontinuar o uso de todo o software cancelado. Você também é responsável por desinstalar o software cancelado e remover os downloads e os links de software relacionados.
 
 - O item cancelado ainda será exibido na página Detalhes do software do cliente, mas a chave de ativação não estará disponível.
 
@@ -192,14 +187,11 @@ Se você tentou cancelar uma compra de software por meio do Partner Center, mas 
 
 3. Preencha os campos Impacto e Título.
 
-4. No campo Descrição, forneça o seguinte:
+4. No campo Descrição, forneça as seguintes informações:
 
     - O GUID do locatário do cliente ou o nome de domínio
-    
     - ID do Pedido ou ID da assinatura
-    
     - Motivo do reembolso
-
     - Valor solicitado
 
 5. No campo Contato, insira seu nome, seu endereço de email e seu número de telefone.

@@ -9,22 +9,16 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21e0ebd58835be34f9cc161072ff3690b30abf57
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 9fe1d894ec933072a64f2abdfbb795b6ef046168
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086355"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276001"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Como obrigar o uso da MFA (autenticação multifator) para o locatário do parceiro
 
-**Funções apropriadas**
-
-- Agente administrativo
-- Agente de vendas
-- Agente de suporte técnico
-- Administrador de cobrança
-- Administrador global
+**Funções apropriadas**: Agente administrativo | Administrador de vendas | Agente de ajuda | Administrador de cobrança | Administrador global
 
 Este artigo fornece exemplos detalhados e diretrizes para obrigar o uso de MFA (autenticação multifator) no Partner Center. A intenção desse recurso é ajudar os parceiros a proteger o acesso aos recursos do cliente contra o comprometimento das credenciais. Os parceiros são obrigados a impor a MFA em todas as contas de usuário no locatário do parceiro, incluindo os usuários convidados. Os usuários precisarão concluir a verificação de MFA nas seguintes áreas:
 
@@ -184,11 +178,11 @@ Todos os aplicativos do parceiro integrados a essas APIs que usam os Privilégio
 
 Durante a verificação de MFA, se a conta do usuário parceiro ainda não tiver sido registrada na MFA, o Azure AD solicitará que o usuário conclua o registro de MFA primeiro:
 
-:::image type="content" source="images/MfaRegistration1.png" alt-text="Etapa 1 do registro de MFA":::
+:::image type="content" source="images/MfaRegistration1.png" alt-text="Etapa 1 do registro do MFA.":::
 
 Depois de clicar em **Avançar**, o usuário precisará escolher uma opção em uma lista de métodos de verificação.
 
-:::image type="content" source="images/MfaRegistration2.png" alt-text="Etapa 2 do registro de MFA":::
+:::image type="content" source="images/MfaRegistration2.png" alt-text="Etapa 2 do registro do MFA.":::
 
 Após o registro bem-sucedido, o usuário precisará concluir a verificação de MFA com base na verificação escolhida pelo usuário.
  

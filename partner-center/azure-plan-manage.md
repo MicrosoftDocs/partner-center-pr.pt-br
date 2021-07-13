@@ -9,18 +9,16 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: a885d8bbbd7541e199365a7c732aba0b67128053
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534923"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277140"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Gerenciar assinaturas e recursos no âmbito do plano do Azure
 
-**Funções apropriadas**
-
-- Agente administrativo
+**Funções apropriadas**: Agente administrativo
 
 
 Este artigo explica como os parceiros CSP podem usar diferentes opções de RBAC (controle de acesso baseado em função) para obter controle operacional e gerenciamento dos recursos do Azure de um cliente. Ao fazer a transição de um cliente para o plano do Azure, você recebe direitos de administrador no Azure (direitos de proprietário da assinatura por meio do recurso Administrador em nome de) por padrão.
@@ -38,7 +36,7 @@ Este artigo explica como os parceiros CSP podem usar diferentes opções de RBAC
 
 A Microsoft recomenda que os usuários tenham as permissões mínimas necessárias para realizar seu trabalho como uma prática de segurança. Confira [Recursos do Azure Active Directory Privileged Identity Management](/azure/active-directory/privileged-identity-management/pim-configure).
 
-## <a name="link-your-partner-id-mpn-idto-your-credentials-for-managing-customers-azure-resources"></a>Vincular sua ID de parceiro (ID de MPN) às suas credenciais para gerenciar os recursos do Azure do cliente
+## <a name="link-your-partner-id-mpn-id-to-your-credentials-for-managing-customers-azure-resources"></a>Vincular sua ID de parceiro (ID do MPN) às suas credenciais para gerenciar os recursos do Azure do cliente
 
 A tabela a seguir mostra os métodos usados para associar sua ID de parceiro a várias opções de acesso RBAC.
 
@@ -61,11 +59,11 @@ Você precisa de acesso de administrador para gerenciar os serviços do cliente 
 
 1. Criar alerta.
 
-   :::image type="content" source="images/azure/azurealert1.png" alt-text="alerta do azure":::
+   :::image type="content" source="images/azure/azurealert1.png" alt-text="alerta do azure.":::
 
 2. Selecione o tipo de ação que deseja que o alerta execute. Por exemplo, se especificar que deseja um email, você receberá um email de notificação se ocorrer alguma exclusão de atribuição de função.
 
-   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="configurar alerta":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="configurar alerta.":::
 
 ### <a name="aobo-removal"></a>Remoção do AOBO
 

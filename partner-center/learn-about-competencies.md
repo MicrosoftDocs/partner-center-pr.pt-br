@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a642c9fc8b920668bd6883c01573e5fbf5523e53
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 74144defb1b5b5bfd0cf67c98e4b9401f22ea93d
+ms.sourcegitcommit: 41e34d6c97a45e6f0b76d76a797398cd06665634
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178860"
+ms.lasthandoff: 06/28/2021
+ms.locfileid: "112989335"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Diferencie seus negócios obtendo competências da Microsoft
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de gerenciamento de usuário
+**Funções apropriadas**: administrador global | Administrador de gerenciamento de usuários
 
 Demonstre seu conhecimento comprovado no fornecimento de soluções de qualidade em uma ou mais áreas de negócios especializadas. As competências da Microsoft foram projetadas para preparar você para atender às necessidades dos clientes e ajudar a atrair novos clientes que estejam procurando por provedores de soluções certificados pela Microsoft. Participe do nível de elite dos parceiros da Microsoft e destaque-se entre seus pares.
 
@@ -74,4 +71,4 @@ Para saber mais sobre o que é necessário para atingir os níveis de competênc
 
 - Veja um [relatório de competências](pci-competencies-report.md) de Insights do Partner Center que mostra o status atual de suas competências.
 
-- Veja as respostas para [perguntas frequentes](competencies-faq.md) sobre competências.
+- Veja as respostas para [perguntas frequentes](competencies-faq.yml) sobre competências.

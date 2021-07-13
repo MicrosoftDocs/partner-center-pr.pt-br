@@ -1,0 +1,69 @@
+### YamlMime:FAQ
+metadata:
+  title: Perguntas frequentes sobre o Solution Assessment Incentives
+  ms.topic: how-to
+  ms.date: 11/09/2020
+  description: Saiba mais sobre as perguntas frequentes sobre a Avaliação de Solução na CHIP (Plataforma de Incentivos de Canal).
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-incentives
+  author: Karthic83
+  ms.author: kashanum
+  ms.localizationpriority: medium
+  ms.custom: SEOMAY.20
+  ms.openlocfilehash: 60586dbabfc289d2ebc355e5d7bacf5bb11fcfe5
+  ms.sourcegitcommit: 0b6e24e54faf9ccd05d11e673bbd9add27c82567
+  ms.translationtype: MT
+  ms.contentlocale: pt-BR
+  ms.lasthandoff: 07/13/2021
+  ms.locfileid: "113657373"
+title: Perguntas frequentes sobre incentivos de Avaliação de Solução para a CHIP (Plataforma de Incentivos de Canal)
+summary: >
+  **Funções apropriadas:** contato principal ou administrador do programa
+
+
+  Encontre respostas para perguntas frequentes abaixo.
+sections:
+- name: Ignored
+  questions:
+  - question: >
+      Quais são os requisitos de qualificação para o programa de Incentivo à Avaliação de Solução?
+    answer: "Os parceiros com status ativo e inscrito no Programa de Incentivo à Avaliação de Solução no FY20 continuarão qualificados para incentivos no FY21 se eles têm uma associação ativa do MPN e uma competência ativa do MPN Silver ou Gold. As qualificações de parceiro serão revisadas para qualificação anualmente.  Se os parceiros estabelecidos não atingirem requisitos de qualificação e participação no ano atual, eles serão removidos na próxima revisão anual.  Todos os novos parceiros são integradas por meio do SAS (Especialista em Avaliação de Soluções) local em sua área.  A SAS identificará os parceiros a serem integrados com base na correspondência de habilidades e conhecimentos na empresa parceira e nas necessidades de negócios das subsidiárias com suporte da SAS.\nAntes de iniciar o processo de integração, os parceiros precisarão discutir com a SAS os recursos que sua empresa tem para dar suporte a avaliações em suas localidades. \n\nAtualmente, os parceiros não inscritos no programa de incentivo devem atender aos critérios de incentivo do FY21 abaixo para serem qualificados para integração do Incentivo à Avaliação da Solução. Para obter detalhes, leia [Qualificação da Avaliação de Solução](chip-solutions-assessment-eligible.md).\n"
+  - question: >
+      Como fazer inscrever-se no programa de incentivo de avaliações de solução?
+    answer: >
+      Entre em contato com o SAS (Especialista em Avaliação de Solução) local para iniciar o processo.
+  - question: >
+      Como fazer enviar meus detalhes bancários e fiscais?
+    answer: >
+      Leia [Navegando no CHIP](chip-intro.md) para obter instruções passo a passo sobre como enviar seus perfis bancários e fiscais.
+  - question: >
+      Meu status de negócio foi aprovado no CHIP. Por que ele ainda não foi pago?
+    answer: >
+      Além do status da negociação, o status DOLS também deve ser aprovado no CHIP antes que a oportunidade possa ser enviada para pagamento. Revise sua oportunidade no CHIP para garantir que o LTD tenha sido carregado e aprovado pela Equipe de Validação doEI no CHIP. Para exibir o status DOIS, entre no CHIP e selecione **Pesquisar Ofertas** **no I Need To...** . Insira a **ID da oportunidade** e selecione **Pesquisar.** Nos resultados da pesquisa, selecione o hiperlink 'Editar' em LTD. Na página resultante, role até a seção "Revisão" para ver o status DOLS. Além disso, revise o campo 'Comentários' caso a equipe de SEMPRE tenha solicitado informações adicionais sobre o LTD.
+  - question: >
+      Por que não recebi nenhum pagamento pelo Marco 1 para minha oportunidade?
+    answer: >
+      A partir de 15 de agosto de 2020, o Marco 1 é pago em 0% do nível de incentivo aprovado e o Marco 2 paga em 100% do nível de incentivo aprovado. Todos os compromissos abertos registrados no CHIP antes de 15 de agosto de 2020 continuarão sendo pagos de acordo com as diretrizes do FY20. Revise as [Perguntas frequentes sobre parceiros](https://assetsprod.microsoft.com/solution-assessment-incentive-program-faq.pdf) para obter diretrizes sobre as alterações no processo do Marco.
+  - question: >
+      Como contestar uma oportunidade ou pagamento que recebi?
+    answer: >
+      Entre em contato com sua SAS que pode fornecer diretrizes com essa solicitação.
+  - question: >
+      A oportunidade é fechada no CHIP, o que está me impedindo de carregar o UPLOAD. O que posso fazer para obter a oportunidade paga?
+    answer: >
+      Depois que uma oportunidade é fechada, ela não está mais qualificada para incentivos. Entre em contato com sua SAS para obter mais diretrizes.
+  - question: >
+      Como fazer adicionar um novo administrador/usuário ao CHIP?
+    answer: >
+      O Contato principal do parceiro (administrador) tem a responsabilidade de convidar todos os outros usuários da empresa para se registrarem no CHIP. Eles também são responsáveis pelo acesso do usuário, incluindo a desativação de todos os usuários que saem da empresa. Leia o Guia [da Plataforma de Incentivos de Canal](chip-intro.md).
+  - question: >
+      O administrador primário saiu de nossa empresa. Como podemos alterar meu administrador primário no CHIP?
+    answer: >
+      O administrador primário no CHIP deve ser o contato principal do parceiro no MPN. Verifique se o MPN foi atualizado com o novo contato e entre em contato com sua equipe de suporte regional para solicitar a alteração no CHIP.
+
+
+      No painel Partner Center, selecione **Suporte** no menu à esquerda. Selecione **Incentivos** como sua categoria ou pesquise o nome do programa na área "Procurar Tópicos".
+
+
+      Depois de exibir a ajuda específica do tópico disponível, se você ainda precisar de assistência, poderá criar um tíquete na opção Documentos Recomendados – Criar um **tíquete de** suporte.
+additionalContent: "\n## <a name=\"next-steps\"></a>Próximas etapas\n\n- [Navegar por CHIP](chip-intro.md)"

@@ -9,23 +9,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f11031c6071dadb427d2d5b93edd90af1a844131
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 1bc7973c3970d7c7258ab8645c72570b09d698e1
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924963"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277107"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Lista de preços da nova experiência de comércio no CSP para Azure
 
-**Funções apropriadas**
-
-- Agente administrativo
-- Administrador de cobrança
-- Administrador global
-- Agente de suporte técnico
-- Agente de vendas
-- Administrador de gerenciamento de usuário
+**Funções apropriadas**: Agente administrativo | Administrador de cobrança | Administrador global | Agente de assistência técnica | Agente de vendas | Administrador de gerenciamento de usuários
 
 A lista de preços da nova experiência de comércio do Azure no CSP é publicada no Partner Center. A lista de preços é entregue dinamicamente em um arquivo preciso em tempo real e os preços são mostrados apenas em USD. Desde 28 de janeiro de 2021, os parceiros da região da EU/EFTA e do Reino Unido que têm novos clientes e clientes CSP existentes que adquiriram novas ofertas de comércio pela primeira vez cujos locatários foram criados antes de 11 de maio de 2020 estão sendo cobrados por essas compras na moeda da localização do parceiro.  Os parceiros localizados fora da região da EU/EFTA e do Reino Unido continuarão sendo cobrados na moeda da localização do parceiro. Leia [Plano do Azure – cobrança](azure-plan-billing.md).
 
@@ -42,7 +35,7 @@ A lista de preços da nova experiência de comércio do Azure no CSP é publicad
 
 4. Ao lado de **Preço para a data**, selecione a data desejada – por exemplo, **Atual**.
 
-   :::image type="content" source="images/azure/pricingnew.png" alt-text="específico do país":::
+   :::image type="content" source="images/azure/pricingnew.png" alt-text="Específico do país.":::
 
 >[!NOTE] 
 >Você pode exportar duas listas de preços diferentes: Preços do plano do Azure e Preços de terceiros do Marketplace.

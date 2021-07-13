@@ -9,18 +9,18 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d12bb66574e6bcee60b2a1df1673dc9171fbee2
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 3698032a632384e8416664c9564819d7c4da9c38
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854920"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551547"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Adicionar um aplicativo do Azure AD (entidade de serviço) no Partner Center
 
 **Funções apropriadas**: administrador global
 
-No programa Marketplace Comercial no Partner Center agora é possível adicionar um aplicativo do Azure AD (entidade de serviço) como um usuário em sua conta do Partner Center. (Você conseguiu fazer isso anteriormente em sua conta do Cloud Partner Portal ou CPP. Agora que você migrou para o Partner Center, a conta do CPP é somente leitura.)
+No programa Marketplace Comercial no Partner Center, agora você pode adicionar um aplicativo do Microsoft Azure AD (Active Directory) (entidade de serviço) como usuário na sua conta do Partner Center. (Você podia fazer isso anteriormente em sua conta do CPP (Portal do Cloud Partner)). Agora que você migrou para o Partner Center, a conta do CPP é somente leitura.)
  
 >[!Note] 
 >A entidade de serviço equivale ao aplicativo do Azure AD.

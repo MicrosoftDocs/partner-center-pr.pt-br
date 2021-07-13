@@ -1,7 +1,7 @@
 ---
 title: Cobrança do plano do Azure – arquivos de reconciliação e fatura
 ms.topic: article
-ms.date: 01/20/2021
+ms.date: 05/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como acessar e entender a estrutura do arquivo de reconciliação e da fatura relacionada à cobrança do plano do Azure.
@@ -9,20 +9,16 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 819f90ca9a8467de4a8001a1b10f8409d3fb1b81
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: c7c06f5ed7b147625afb5020f63ead411ef58fa8
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924988"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551513"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nova experiência de comércio no CSP – Cobrança do Azure 
 
-**Funções apropriadas**
-
-- Agente administrativo
-- Administrador de cobrança
-- Administrador global
+**Funções apropriadas**: Agente administrativo | Administrador de cobrança | Administrador global
 
 Este artigo explica como acessar e entender a estrutura do arquivo de reconciliação e da fatura relacionada à cobrança do plano do Azure. A cobrança no âmbito do plano do Azure é uma experiência de cobrança simplificada usando uma data de cobrança única alinhada e um período de cobrança baseado no mês civil.
 
@@ -52,7 +48,7 @@ Para acessar o arquivo de fatura e reconciliação:
 
 3. Selecione a guia para a **Recorrente** e a **Única** e a moeda em que você está interessado.
 
-   :::image type="content" source="images/azure/billing3.png" alt-text="cobrança":::
+   :::image type="content" source="images/azure/billing3.png" alt-text="cobrança.":::
 
 4. Selecione **Fatura** ou **Arquivo de reconciliação**.  
 
@@ -106,7 +102,7 @@ Para acessar o arquivo de fatura e reconciliação:
 
 5. Examine o arquivo de reconhecimento de fatura e o arquivo de uso de classificação diária para obter detalhes adicionais de cobrança.
 
-   :::image type="content" source="images/azure/invoice1.png" alt-text="fatura":::
+   :::image type="content" source="images/azure/invoice1.png" alt-text="fatura.":::
 
 ## <a name="read-the-invoice-reconciliation-file"></a>Ler o arquivo de reconciliação/fatura
 
@@ -117,6 +113,9 @@ Para acessar o arquivo de fatura e reconciliação:
 3. Se não houver recursos para um medidor específico qualificado para o desconto ou créditos ganhos pelo parceiro, então o arquivo de reconciliação conterá apenas uma linha de cobrança e o preço unitário efetivo será o preço de varejo (que é o preço unitário).
 
 4. Se o medidor, ou os recursos que emitirem esse medidor, tiver se qualificado para **Créditos ganhos pelo parceiro para serviços gerenciados** em uma parte do mês, então o arquivo de reconciliação conterá duas linhas de cobrança. Uma linha representará os dias em que o medidor se qualificou, ao passo que a outra linha representará os dias em que o medidor não se qualificou.
+
+>[!NOTE]
+>Você pode reconciliar o consumo do Azure em seu arquivo único de reconhecimento de compra. Para fazer isso, acesse o arquivo de reconhecimento de uso com classificação diária e pesquise sua SubscriptionID. Isso exibirá todos os custos associados à sua ID do Plano do Azure. Sua SubscriptionID do Azure é mostrada como EntitlementID.
 
 ## <a name="read-the-daily-usage-file"></a>Ler o arquivo de uso diário
 
@@ -134,13 +133,15 @@ Para acessar o arquivo de fatura e reconciliação:
 
   - O medidor se qualificou para **Crédito ganho pelo parceiro para serviços gerenciados** de 08/07 – 31/07 (observe que o preço unitário efetivo é o preço de varejo menos os créditos ganhos pelo parceiro).
 
-   :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2":::
+   :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2.":::
 
 ## <a name="invoice-in-customer-currency"></a>Fatura na moeda do cliente
 
 Os serviços do Azure por meio de um plano do Azure serão precificados em USD e cobrados na moeda atribuída ao país do cliente. Se a moeda de cobrança não for USD, então a taxa de câmbio usada será mostrada na última página da fatura. As taxas de câmbio são determinadas mensalmente e aplicadas à fatura a seguir. Para obter uma lista completa de moedas por país, exiba a [matriz de moedas do cliente e a disponibilidade por país de novas ofertas de comércio](https://go.microsoft.com/fwlink/?linkid=2112354).
 
-A Microsoft segue a Bolsa de Valores de Londres para a conversão. Usamos a taxa de câmbio, que é igual à taxa de câmbio capturada no último segundo do último dia útil do mês na Bolsa de Valores de Londres. As taxas de câmbio serão atualizadas e disponibilizadas no dia anterior ao primeiro dia de cada mês em que forem aplicadas.
+A Microsoft aplica uma taxa de câmbio predeterminada aos preços base em USD para chegar aos encargos totais incorridos para serviços do Azure comprados ou consumidos a cada mês calendário. A taxa de câmbio mensal é a taxa média publicada pela Thomson Reuters (normalmente) dois dias úteis antes do fim do mês anterior às 16h GMT. 
+
+**Por exemplo,** a taxa de câmbio de dezembro da Microsoft seria a taxa média da Thomson Reuters no dia 29 de novembro ou perto dessa data para uma determinada moeda. Essa taxa será aplicada a todas as compras nessa moeda de 1º de dezembro a 31 de dezembro. 
 
 ## <a name="azure-reservations"></a>Reservas do Azure
 
@@ -158,7 +159,7 @@ A experiência de gastos do Azure existente é atualizada para dar suporte à no
 
 Já que o modelo de cobrança para os serviços do Azure por meio de um plano do Azure é o consumo pós-pago, para evitar uma cobrança maior do que o previsto, os parceiros podem aplicar um orçamento mensal e acompanhar o percentual de uso. Um orçamento pode ser aplicado a um cliente ou a vários clientes ao mesmo tempo. 
 
-:::image type="content" source="images/azure/azurespend.png" alt-text="Gastos do Azure":::
+:::image type="content" source="images/azure/azurespend.png" alt-text="Gastos do Azure.":::
 
 ## <a name="next-steps"></a>Próximas etapas
 

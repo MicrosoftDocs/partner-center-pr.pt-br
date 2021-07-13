@@ -9,23 +9,18 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 4e22386dc8bddd9662a0d80020a5c90c464e9d39
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 770df3cff40b8cc51eab16fb95d0bd43967a5a69
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534804"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013260"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Fazer a transição de clientes para o plano do Azure de ofertas do Azure no CSP existentes
 
-**Funções apropriadas**
+**Aplica-se a**: Partner Center 
 
-- Agente administrativo
-- Administrador de cobrança
-- Administrador global
-- Agente de suporte técnico
-- Agente de vendas
-- Administrador de gerenciamento de usuário
+**Funções apropriadas**: Agente administrativo | Administrador de cobrança | Administrador global | Agente de assistência técnica | Agente de vendas | Administrador de gerenciamento de usuários
 
 Este artigo explica como os parceiros CSP podem usar o Partner Center para migrar os clientes das ofertas existentes do Azure no CSP para os serviços do Azure no plano do Azure. Provedores indiretos e parceiros de cobrança diretos podem fazer a transição para a nova experiência de comércio disponível no Programa CSP (Provedor de Serviços de Nuvem) para o Azure. (Revendedores indiretos precisarão trabalhar por meio dos respectivos provedores indiretos.) Os clientes terão uma maneira simplificada de comprar serviços de nuvem, seja de parceiros, de vendedores da Microsoft ou diretamente na Web.
 

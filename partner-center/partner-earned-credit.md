@@ -9,22 +9,16 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5561c2e183c1dc50b573f89769da27317c83ba00
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: dad2a3a8f60135093c632466577a3e884daea715
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086525"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152606"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Crédito ganho pelo parceiro – uma visão geral sobre como ele funciona na nova experiência de comércio no CSP
 
-**Funções apropriadas**
-
-- Administrador global
-- Administrador de gerenciamento de usuário
-- Agente administrativo
-- Administrador de cobrança
-- Agente de vendas
+**Funções apropriadas**: Administrador global | Administrador de gerenciamento de usuários | Agente administrativo | Administrador de cobrança | Agende de vendas
 
 O Crédito ganho pelo parceiro na nova experiência de comércio no CSP é um modelo de negócios que realiza um preço do Azure uniforme simplificado nos veículos de Go-To-Market da Microsoft, ao mesmo tempo em que incentiva um ecossistema de parceiros que fornece serviços gerenciados com valor agregado. O Crédito ganho pelo parceiro também ajuda a eliminar qualquer competição de margens.
 
