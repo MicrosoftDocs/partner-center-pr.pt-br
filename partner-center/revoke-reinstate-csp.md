@@ -1,95 +1,139 @@
 ---
 title: Restabelecer privilégios de administrador para o CSP do Azure
 ms.topic: how-to
-ms.date: 04/08/2021
+ms.date: 05/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como ajudar os clientes a restabelecer os privilégios de administrador de um parceiro para que ele possa ajudar a gerenciar as assinaturas de CSP do Azure de um cliente.
+description: Saiba como ajudar os clientes a restabelecer os privilégios de administrador de um parceiro para que ele possa ajudar a gerenciar as assinaturas de CSP (Provedor de Soluções de Nuvem) do Azure de um cliente.
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ad29283001ec542944da4f0cac835c6a5d339251
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5d784aef33cce2a722583a77e73c35d5fc8136b1
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855413"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551581"
 ---
-# <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a><span data-ttu-id="b7665-103">Restabelecer privilégios de administrador para assinaturas de CSP do Azure de um cliente</span><span class="sxs-lookup"><span data-stu-id="b7665-103">Reinstate admin privileges for a customer's Azure CSP subscriptions</span></span>  
+# <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a><span data-ttu-id="86326-103">Restabelecer privilégios de administrador para assinaturas de CSP do Azure de um cliente</span><span class="sxs-lookup"><span data-stu-id="86326-103">Reinstate admin privileges for a customer's Azure CSP subscriptions</span></span>  
 
-<span data-ttu-id="b7665-104">**Funções apropriadas**: Administração global | Agente de administração</span><span class="sxs-lookup"><span data-stu-id="b7665-104">**Appropriate roles**: Global admin | Admin agent</span></span>
+<span data-ttu-id="86326-104">**Funções apropriadas**: Administração global | Agente de administração</span><span class="sxs-lookup"><span data-stu-id="86326-104">**Appropriate roles**: Global admin | Admin agent</span></span>
 
-<span data-ttu-id="b7665-105">Na condição de um parceiro CSP, muitas vezes os clientes esperam que você gerencie para eles o uso que eles fazem do Azure e os sistemas deles.</span><span class="sxs-lookup"><span data-stu-id="b7665-105">As a CSP partner your customers often expect that you will manage their Azure usage and their systems for them.</span></span> <span data-ttu-id="b7665-106">Isso exige que você tenha privilégios de administrador.</span><span class="sxs-lookup"><span data-stu-id="b7665-106">Doing so requires you to have admin privileges.</span></span> <span data-ttu-id="b7665-107">Alguns privilégios são concedidos quando seu relacionamento de revendedor com o cliente é estabelecido.</span><span class="sxs-lookup"><span data-stu-id="b7665-107">Some privileges are granted when your reseller relationship with the customer is established.</span></span> <span data-ttu-id="b7665-108">Outros são concedidos a você pelo cliente.</span><span class="sxs-lookup"><span data-stu-id="b7665-108">Others are granted to you by your customer.</span></span>
+<span data-ttu-id="86326-105">Na condição de um parceiro CSP (Provedor de Soluções na Nuvem), muitas vezes os clientes esperam que você gerencie para eles o uso que eles fazem do Azure e os sistemas deles.</span><span class="sxs-lookup"><span data-stu-id="86326-105">As a Cloud Solution Provider (CSP) partner, your customers often expect that you'll manage their Azure usage and their systems for them.</span></span> <span data-ttu-id="86326-106">Você precisa ter privilégios de administrador para fazer isso.</span><span class="sxs-lookup"><span data-stu-id="86326-106">You must have admin privileges to do so.</span></span> <span data-ttu-id="86326-107">Alguns privilégios são concedidos quando seu relacionamento de revendedor com o cliente é estabelecido.</span><span class="sxs-lookup"><span data-stu-id="86326-107">Some privileges are granted when your reseller relationship with the customer is established.</span></span> <span data-ttu-id="86326-108">Outros são concedidos a você pelo cliente.</span><span class="sxs-lookup"><span data-stu-id="86326-108">Others are granted to you by your customer.</span></span>
 
-## <a name="admin-privileges-for-azure-in-csp"></a><span data-ttu-id="b7665-109">Privilégios de administrador para o Azure no CSP</span><span class="sxs-lookup"><span data-stu-id="b7665-109">Admin privileges for Azure in CSP</span></span>
+## <a name="admin-privileges-for-azure-in-csp"></a><span data-ttu-id="86326-109">Privilégios de administrador para o Azure no CSP</span><span class="sxs-lookup"><span data-stu-id="86326-109">Admin privileges for Azure in CSP</span></span>
 
-<span data-ttu-id="b7665-110">Há dois níveis de privilégios de administrador para o Azure no CSP.</span><span class="sxs-lookup"><span data-stu-id="b7665-110">There are two levels of admin privileges for Azure in CSP.</span></span>
+<span data-ttu-id="86326-110">Há dois níveis de privilégios de administrador para o Azure no CSP.</span><span class="sxs-lookup"><span data-stu-id="86326-110">There are two levels of admin privileges for Azure in CSP.</span></span>
 
-<span data-ttu-id="b7665-111">**Privilégios de administrador de nível de locatário** (**privilégios de administrador delegado**) – os parceiros CSP obtêm esses privilégios ao estabelecerem o relacionamento de revendedor CSP com os clientes.</span><span class="sxs-lookup"><span data-stu-id="b7665-111">**Tenant level admin privileges** (**Delegated admin privileges**) -  CSP partners get these privileges while establishing CSP reseller relationship with customers.</span></span> <span data-ttu-id="b7665-112">Os privilégios de administrador delegado oferecem aos parceiros CSP acesso aos locatários dos clientes deles, para que eles possam realizar funções administrativas, como adicionar/gerenciar usuários, redefinir senhas e gerenciar licenças de usuário.</span><span class="sxs-lookup"><span data-stu-id="b7665-112">Delegated admin privileges give CSP partners access to their customers' tenants, which allows them to perform administrative functions such as add/manage users, reset passwords and manage user licenses.</span></span>
+- <span data-ttu-id="86326-111">**Privilégios de administrador de nível de locatário (privilégios de administrador delegado)** : os parceiros CSP obtêm esses privilégios ao estabelecerem o relacionamento de revendedor CSP com os clientes.</span><span class="sxs-lookup"><span data-stu-id="86326-111">**Tenant level admin privileges (Delegated admin privileges)**:  CSP partners get these privileges while establishing CSP reseller relationship with customers.</span></span> <span data-ttu-id="86326-112">Os privilégios de administrador delegado fornecem aos parceiros CSP acesso aos locatários dos clientes deles.</span><span class="sxs-lookup"><span data-stu-id="86326-112">Delegated admin privileges give CSP partners access to their customers' tenants.</span></span> <span data-ttu-id="86326-113">Esse acesso permite que eles desempenhem funções administrativas, como adicionar/gerenciar usuários, redefinir senhas e gerenciar licenças dos usuários.</span><span class="sxs-lookup"><span data-stu-id="86326-113">This access allows them to do administrative functions such as add/manage users, reset passwords and manage user licenses.</span></span>
+- <span data-ttu-id="86326-114">**Privilégios de administrador de nível de assinatura**: os parceiros CSP obtêm esses privilégios ao criar assinaturas do CSP do Azure para os clientes deles.</span><span class="sxs-lookup"><span data-stu-id="86326-114">**Subscription level admin privileges**: CSP partners get these privileges while creating Azure CSP subscriptions for their customers.</span></span> <span data-ttu-id="86326-115">A posse desses privilégios fornece aos parceiros do CSP acesso completo a essas assinaturas, o que lhes permite provisionar e gerenciar recursos do Azure.</span><span class="sxs-lookup"><span data-stu-id="86326-115">Having these privileges gives CSP partners complete access to these subscriptions, which allows them to provision and manage Azure resources.</span></span>
 
-<span data-ttu-id="b7665-113">**Privilégios de administrador de nível de assinatura** – os parceiros CSP obtêm esses privilégios ao criar assinaturas do Azure CSP para os clientes deles.</span><span class="sxs-lookup"><span data-stu-id="b7665-113">**Subscription level admin privileges** - CSP partners get these privileges while creating Azure CSP subscriptions for their customers.</span></span> <span data-ttu-id="b7665-114">A posse desses privilégios fornece aos parceiros do CSP acesso completo a essas assinaturas, o que lhes permite provisionar e gerenciar recursos do Azure.</span><span class="sxs-lookup"><span data-stu-id="b7665-114">Having these privileges gives CSP partners complete access to these subscriptions, which allows them to provision and manage Azure resources.</span></span>
+## <a name="reinstate-csp-a-partners-admin-privileges"></a><span data-ttu-id="86326-116">Reaplicar ao CSP os privilégios de administrador de um parceiro</span><span class="sxs-lookup"><span data-stu-id="86326-116">Reinstate CSP a partner's admin privileges</span></span>
 
-## <a name="reinstate-csp-partners-admin-privileges"></a><span data-ttu-id="b7665-115">Restabelecer privilégios de administrador dos parceiros CSP</span><span class="sxs-lookup"><span data-stu-id="b7665-115">Reinstate CSP partners' admin privileges</span></span>
+<span data-ttu-id="86326-117">O cliente poderá recriar a atribuição de função do CSP se você fornecer o `object ID` do grupo AdminAgents ao seu cliente.</span><span class="sxs-lookup"><span data-stu-id="86326-117">Your customer can re-create the CSP role assignment if you provide the `object ID` of the AdminAgents group to your customer.</span></span> <span data-ttu-id="86326-118">Para restabelecer os privilégios de administrador delegado, você precisa trabalhar com o cliente por meio das etapas a seguir.</span><span class="sxs-lookup"><span data-stu-id="86326-118">To regain delegated admin privileges, you need to work with your customer through the following steps.</span></span>
 
-<span data-ttu-id="b7665-116">O cliente pode recriar a atribuição de função do CSP desde que você forneça a ele a ID de objeto do grupo AdminAgents.</span><span class="sxs-lookup"><span data-stu-id="b7665-116">Your customer can re-create the CSP role assignment as long as you provide the object ID of the AdminAgents group to your customer.</span></span> <span data-ttu-id="b7665-117">Para restabelecer os privilégios de administrador delegado, você precisa trabalhar com o cliente.</span><span class="sxs-lookup"><span data-stu-id="b7665-117">To regain delegated admin privileges, you need to work with your customer.</span></span>
+1. <span data-ttu-id="86326-119">Entre no painel do Partner Center.</span><span class="sxs-lookup"><span data-stu-id="86326-119">Sign into the Partner Center dashboard.</span></span>
 
-1. <span data-ttu-id="b7665-118">Entre no Painel do Partner Center e, no menu do Partner Center, selecione **Clientes**.</span><span class="sxs-lookup"><span data-stu-id="b7665-118">Sign into the Partner Center dashboard and from the Partner Center menu, select **Customers**.</span></span>
+2. <span data-ttu-id="86326-120">No menu do Partner Center, selecione **Clientes**.</span><span class="sxs-lookup"><span data-stu-id="86326-120">On the Partner Center menu, select **Customers**.</span></span>
 
-2. <span data-ttu-id="b7665-119">Selecione o cliente com o qual você está trabalhando e **solicite um relacionamento de revendedor.**</span><span class="sxs-lookup"><span data-stu-id="b7665-119">Select the customer you are working with and **request a reseller relationship.**</span></span> <span data-ttu-id="b7665-120">Essa ação gera um link para o cliente que tem direitos de administrador de locatários.</span><span class="sxs-lookup"><span data-stu-id="b7665-120">This action generates a link to the customer who has tenant admin rights.</span></span>
+3. <span data-ttu-id="86326-121">Selecione o cliente com o qual você está trabalhando e **solicite um relacionamento de revendedor**.</span><span class="sxs-lookup"><span data-stu-id="86326-121">Select the customer you are working with and **request a reseller relationship**.</span></span> <span data-ttu-id="86326-122">Essa ação gera um link para o cliente que tem direitos de administrador de locatários.</span><span class="sxs-lookup"><span data-stu-id="86326-122">This action generates a link to the customer who has tenant admin rights.</span></span>
 
-3. <span data-ttu-id="b7665-121">O cliente precisa selecionar o link e aprovar a solicitação de relacionamento do revendedor.</span><span class="sxs-lookup"><span data-stu-id="b7665-121">That customer needs to select the link and approve the reseller relationship request.</span></span>
+4. <span data-ttu-id="86326-123">Seu cliente precisa selecionar o link e aprovar a solicitação de relacionamento do revendedor.</span><span class="sxs-lookup"><span data-stu-id="86326-123">Your customer needs to select the link and approve the reseller relationship request.</span></span>
 
-   :::image type="content" source="images/azure/revoke4.png" alt-text="Exemplo de email para criar relacionamento com o revendedor":::
+   :::image type="content" source="images/azure/revoke4.png" alt-text="Exemplo de email para criar relacionamento com o revendedor":::.
 
-4. <span data-ttu-id="b7665-123">Você, o parceiro, precisa se conectar ao locatário do parceiro para obter a ID de objeto do grupo AdminAgents.</span><span class="sxs-lookup"><span data-stu-id="b7665-123">You, the partner, need to connect to partner tenant to get the Object ID of the AdminAgents group.</span></span>
-
+5. <span data-ttu-id="86326-125">Você, o parceiro, precisa se conectar ao locatário do parceiro para obter a ID de objeto do grupo AdminAgents.</span><span class="sxs-lookup"><span data-stu-id="86326-125">You, the partner, need to connect to partner tenant to get the Object ID of the AdminAgents group.</span></span>
   
-    ```powershell
+   ```powershell
+   Connect-AzAccount -Tenant "Partner tenant"
+   # Get Object ID of AdminAgents group
+   Get-AzADGroup -DisplayName AdminAgents
+   ```
 
-    PS C:\WINDOWS\system32> Connect-AzAccount -Tenant "Partner tenant"
-      Get Object ID of AdminAgents group
-   
+6. <span data-ttu-id="86326-126">O cliente precisa executar as etapas a seguir usando o PowerShell ou a CLI do Azure.</span><span class="sxs-lookup"><span data-stu-id="86326-126">Your customer must then do the following steps using either PowerShell or Azure CLI.</span></span> <span data-ttu-id="86326-127">O cliente precisa ter:</span><span class="sxs-lookup"><span data-stu-id="86326-127">Your customer must have:</span></span>
+
+- <span data-ttu-id="86326-128">A função de **proprietário** ou **administrador de acesso do usuário**</span><span class="sxs-lookup"><span data-stu-id="86326-128">The role of **owner** or **user access administrator**</span></span> 
+- <span data-ttu-id="86326-129">Permissões para criar atribuições de função no nível da assinatura</span><span class="sxs-lookup"><span data-stu-id="86326-129">Permissions to create role assignments at the subscription level</span></span>
+
+   <span data-ttu-id="86326-130">a.</span><span class="sxs-lookup"><span data-stu-id="86326-130">a.</span></span> <span data-ttu-id="86326-131">Somente para o PowerShell, o cliente precisa atualizar o módulo `Az.Resources`.</span><span class="sxs-lookup"><span data-stu-id="86326-131">For PowerShell only, the customer must update the `Az.Resources` module.</span></span>
+   ```powershell
+   Update-Module Az.Resources
+   ```
+
+   <span data-ttu-id="86326-132">b.</span><span class="sxs-lookup"><span data-stu-id="86326-132">b.</span></span> <span data-ttu-id="86326-133">O cliente se conecta ao locatário em que a assinatura do CSP existe.</span><span class="sxs-lookup"><span data-stu-id="86326-133">The customer connects to the tenant where the CSP subscription exists.</span></span>
+   ```powershell
+   Connect-AzAccount -TenantID "<Customer tenant>"
+   ```
+   ```azurecli
+   az login --tenant <Customer tenant>
+   ```
+
+   <span data-ttu-id="86326-134">c.</span><span class="sxs-lookup"><span data-stu-id="86326-134">c.</span></span> <span data-ttu-id="86326-135">O cliente se conecta à assinatura.</span><span class="sxs-lookup"><span data-stu-id="86326-135">The customer connects to the subscription.</span></span> <span data-ttu-id="86326-136">Isso será aplicável *somente* se o usuário tiver permissões de atribuição de função em várias assinaturas no locatário.</span><span class="sxs-lookup"><span data-stu-id="86326-136">This is *only* applicable if the user has role assignment permissions over multiple subscriptions in the tenant.</span></span>
+
+   ```powershell
+   Set-AzContext -SubscriptionID <"CSP Subscription ID">
+   ```
+   ```azurecli
+   az account set --subscription <CSP Subscription ID>
+   ```
+
+   <span data-ttu-id="86326-137">d.</span><span class="sxs-lookup"><span data-stu-id="86326-137">d.</span></span> <span data-ttu-id="86326-138">O cliente criará a atribuição de função.</span><span class="sxs-lookup"><span data-stu-id="86326-138">The customer then creates the role assignment.</span></span>
     
+   ```powershell
+   New-AzRoleAssignment -ObjectID "<Object ID of the Admin Agents group provided by partner>" -RoleDefinitionName "Owner" -Scope "/subscriptions/'<CSP subscription ID>'"
+   ```
+   ```azurecli
+   az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "/subscriptions/<CSP Subscription Id>"
+   ```
 
-   S C:\WINDOWS\system32> Get-AzADGroup -DisplayName AdminAgents
-    ```
+<span data-ttu-id="86326-139">Em vez de conceder permissões de proprietário no escopo da assinatura, você pode conceder no nível de recurso ou grupo de recursos.</span><span class="sxs-lookup"><span data-stu-id="86326-139">Instead of granting owner permissions at the subscription scope, you can grant at the resource group or resource level.</span></span> 
 
+- <span data-ttu-id="86326-140">No nível do grupo de recursos</span><span class="sxs-lookup"><span data-stu-id="86326-140">At the resource group level</span></span>
 
-5. <span data-ttu-id="b7665-124">O cliente que tem a função de **proprietário ou administrador de acesso do usuário** e tem permissão para criar a atribuição de função no nível da assinatura, faz o seguinte:</span><span class="sxs-lookup"><span data-stu-id="b7665-124">Your customer who has the role of **owner or user access administrator** and has permission to create role assignment at the subscription level does the following:</span></span>
+   ```powershell
+   New-AzRoleAssignment -ObjectID "<Object ID from step 3>" -RoleDefinitionName Owner -Scope "/subscriptions/'SubscriptionID of CSP subscription'/resourceGroups/'Resource group name'"
+   ```
+   ```azurecli
+   az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "/subscriptions/<CSP Subscription Id>//resourceGroups/<Resource group name>"
+   ```
 
+- <span data-ttu-id="86326-141">No nível do recurso</span><span class="sxs-lookup"><span data-stu-id="86326-141">At the resource level</span></span>
 
-    1. <span data-ttu-id="b7665-125">Conecta-se ao locatário em que se encontra a assinatura do CSP.</span><span class="sxs-lookup"><span data-stu-id="b7665-125">Connects to the tenant where the CSP subscription exists.</span></span>
-      ```powershell
-        PS C:\WINDOWS\system32> Connect-AzAccount -TenantID "Customer tenant"
-      ```
+   ```powershell
+   New-AzRoleAssignment -ObjectID "<Object ID from step 3>" -RoleDefinitionName Owner -Scope "<Resource URI>"
+   ```
+   ```azurecli
+   az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "<Resource URI>"
+   ```
 
-    2. <span data-ttu-id="b7665-126">Conecta-se à assinatura (aplicável somente se o usuário tiver permissões de atribuição de função em várias assinaturas no locatário).</span><span class="sxs-lookup"><span data-stu-id="b7665-126">Connects to the subscription (only applicable if the user has role assignment permissions over multiple subscriptions in the tenant).</span></span>
-   
-         <span data-ttu-id="b7665-127">PS C:\WINDOWS\system32> Set-AzContext-SubscriptionId "CSP Subscription ID"</span><span class="sxs-lookup"><span data-stu-id="b7665-127">PS C:\WINDOWS\system32> Set-AzContext -SubscriptionID "CSP Subscription ID"\`</span></span>
-
-
-    3. <span data-ttu-id="b7665-128">Cria a atribuição de função</span><span class="sxs-lookup"><span data-stu-id="b7665-128">Creates the role assignment</span></span>
-    
-    ```powershell
-      PS C:\WINDOWS\system32> New-AzRoleAssignment -ObjectID "Object ID of the Admin Agents group- needs to be provided by partner" -RoleDefinitionName "Owner" -Scope "/subscriptions/CSP subscription ID"
-    ```
-
-
-<span data-ttu-id="b7665-129">Se você quer conceder permissões de função de proprietário no nível do grupo de recursos ou no nível do recurso, e não no escopo da assinatura, use os seguintes comandos:</span><span class="sxs-lookup"><span data-stu-id="b7665-129">If you want to grant owner role permission at resource group level or resource level instead of subscription scope, the following commands can work:</span></span>
-
+<span data-ttu-id="86326-142">Se as etapas acima não funcionarem ou se você receber erros ao tentar segui-las, experimente o procedimento "catch-all" a seguir para restabelecer os direitos de administrador para o cliente.</span><span class="sxs-lookup"><span data-stu-id="86326-142">If the above steps don't work or you get errors when attempting them, try the following "catch-all" procedure to reinstate admin rights for your customer.</span></span>
 
 ```powershell
-Grant owner role at resource group level
-
-   New-AzRoleAssignment -ObjectID "Object ID that you got from step 3" -RoleDefinitionName Owner -Scope "/subscriptions/"SubscriptionID of CSP subscription"/resourceGroups/"Resource group name"
-
-Grant owner role at resource level
-
-   New-AzRoleAssignment -ObjectID <Object ID that you got from step 3> -RoleDefinitionName Owner -Scope "Resource URI"
+Install-Module -Name Az.Resources -Force -Verbose
+Import-Module -Name Az.Resources -Verbose -MinimumVersion 4.1.1
+Connect-AzAccount -Tenant <customer tenant>
+Set-AzContext -SubscriptionId <customer subscriptions>
+New-AzRoleAssignment -ObjectId <principal ID> -RoleDefinitionName "Owner" -Scope "/subscriptions/<customer subscription>" -ObjectType "ForeignGroup"
 ```
 
+### <a name="troubleshooting"></a><span data-ttu-id="86326-143">Solução de problemas</span><span class="sxs-lookup"><span data-stu-id="86326-143">Troubleshooting</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="b7665-130">Próximas etapas</span><span class="sxs-lookup"><span data-stu-id="b7665-130">Next steps</span></span>
+<span data-ttu-id="86326-144">Se o cliente não conseguir concluir a etapa 6 acima, faça com que ele experimente o seguinte comando:</span><span class="sxs-lookup"><span data-stu-id="86326-144">If the customer is unable to complete step 6 above, have the customer try the following command:</span></span>
 
-- [<span data-ttu-id="b7665-131">Gerenciar assinaturas e recursos no âmbito do plano do Azure</span><span class="sxs-lookup"><span data-stu-id="b7665-131">Manage subscriptions and resources under the Azure plan</span></span>](azure-plan-manage.md)
+```powershell
+New-AzRoleAssignment -ObjectId <principal ID> -RoleDefinitionName "Owner" -Scope "/subscriptions/<costumer subscription>" -ObjectType "ForeignGroup" -Debug > newRoleAssignment.log
+```
+
+<span data-ttu-id="86326-145">Forneça o arquivo `newRoleAssignment.log` resultante à Microsoft para análise posterior.</span><span class="sxs-lookup"><span data-stu-id="86326-145">Provide the resulting `newRoleAssignment.log` file to Microsoft for further analysis.</span></span>
+
+<span data-ttu-id="86326-146">Se o procedimento "catch-all" falhar durante o `Import-Module`, experimente as seguintes etapas:</span><span class="sxs-lookup"><span data-stu-id="86326-146">If the "catch-all" procedure fails during the `Import-Module`, try the following steps:</span></span>
+- <span data-ttu-id="86326-147">Se a importação falhar porque o módulo está em uso, reinicie a sessão do PowerShell fechando e reabrindo todas as janelas.</span><span class="sxs-lookup"><span data-stu-id="86326-147">If the import fails because the module is in use, restart the PowerShell session by closing and reopening all windows.</span></span>
+- <span data-ttu-id="86326-148">Verifique a versão do `Az.Resources` com `Get-Module Az.Resources -ListAvailable`.</span><span class="sxs-lookup"><span data-stu-id="86326-148">Check version of `Az.Resources` with `Get-Module Az.Resources -ListAvailable`.</span></span>
+- <span data-ttu-id="86326-149">Se a versão 4.1.1 não estiver na lista disponível, você precisará usar `Update-Module Az.Resources -Force`.</span><span class="sxs-lookup"><span data-stu-id="86326-149">If version 4.1.1 is not within the available list, you must use `Update-Module Az.Resources -Force`.</span></span>
+- <span data-ttu-id="86326-150">Se o erro informar que `Az.Accounts` precisa ser uma versão específica, atualize esse módulo também, substituindo `Az.Resources` por `Az.Accounts`.</span><span class="sxs-lookup"><span data-stu-id="86326-150">If the error states that `Az.Accounts` needs to be a specific version, update that module as well, replacing `Az.Resources` with `Az.Accounts`.</span></span> <span data-ttu-id="86326-151">Em seguida, você precisa reiniciar a sessão do PowerShell.</span><span class="sxs-lookup"><span data-stu-id="86326-151">You must then restart the PowerShell session.</span></span>
+
+
+## <a name="next-steps"></a><span data-ttu-id="86326-152">Próximas etapas</span><span class="sxs-lookup"><span data-stu-id="86326-152">Next steps</span></span>
+
+- [<span data-ttu-id="86326-153">Gerenciar assinaturas e recursos no âmbito do plano do Azure</span><span class="sxs-lookup"><span data-stu-id="86326-153">Manage subscriptions and resources under the Azure plan</span></span>](azure-plan-manage.md)
