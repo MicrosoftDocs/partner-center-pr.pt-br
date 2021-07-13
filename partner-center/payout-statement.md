@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: 4dac00e420b8787d2c8f67072a45bc29cbe7a645
-ms.sourcegitcommit: e2256e60cd2d4d41b3653655e3b1931292234283
+ms.openlocfilehash: b905d422b10e0b82225966fa5379283ea0b83a69
+ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/11/2021
-ms.locfileid: "113599782"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "113684008"
 ---
 # <a name="payout-statements"></a>Demonstrativos de pagamento
 
@@ -83,7 +83,7 @@ Esta exibição mostra a obtenção de detalhes, incluindo a origem da conquista
     - **Enviado** – Os ganhos foram pagos.
 - **Mês de pagamento estimado** – o mês em que os ganhos devem ser pagos. Consulte a [próxima seção para](#estimated-payment-month) obter mais informações.
 
-As transações de ganho são mostradas depois que a transação atende à qualificação de pagamento. Para entender por que você pode ter ganhos ausentes ou inesperados, consulte [Perguntas comuns sobre pagamentos do marketplace comercial.](payout-faq.md#why-are-my-earnings-missing)
+As transações de ganho são mostradas depois que a transação atende à qualificação de pagamento. Para entender por que você pode ter ganhos ausentes ou inesperados, consulte [Perguntas comuns sobre pagamentos do marketplace comercial.](payout-faq.yml#why-are-my-earnings-missing-)
 
 #### <a name="estimated-payment-month"></a>Mês de pagamento estimado
 
@@ -147,30 +147,30 @@ Para ver mais detalhes sobre um ganho, selecione **Baixar** na parte superior da
 | earningRate | Taxa de incentivos aplicada no valor da transação para gerar um ganho | Todos |
 | earningType | Indica se é valor, desconto, cooperação, venda e assim por diante | Todos |
 | exchangeRateDate | Data da taxa de câmbio usada para calcular EarningAmount US$ | Todos |
-| externalReferenceId | Identificador exclusivo do programa | Programas de pagamento direto (incentivos e marketplaces) |
-| externalReferenceIdLabel | Rótulo de identificador exclusivo | Programas de pagamento direto (incentivos e marketplaces) |
+| externalReferenceId | Identificador exclusivo do programa | Programas de pagamento direto (incentivos e Marketplaces) |
+| externalReferenceIdLabel | Rótulo de identificador exclusivo | Programas de pagamento direto (incentivos e Marketplaces) |
 | instantRebateAmount |  |  |
 | invoiceDate |  |  |
-| invoiceNumber | Número da fatura (aplicável somente para empresas) | Incentivos e marketplaces – apenas alguns programas |
+| invoiceNumber | Número da nota fiscal (aplicável somente para empresas) | Incentivos e Marketplaces – apenas alguns programas |
 | lastPaymentCurrency | Moeda do último pagamento (o campo fica vazio se não houver pagamento anterior) |  |
 | alavanca | Indica a regra de negócios para o ganho | Todos |
 | LicensingProgramName | Nome do programa de licenciamento |  |
 | LineItemId | Linha individual na fatura de um cliente |  |
 | localProviderSeller | Provedor/vendedor local do registro |  |
-| Mês de maturidade | O mês de pagamento estimado | Todos |
+| Mês de maturidade | O mês de pagamento estimado | Tudo |
 | OrderId | Está relacionado à fatura de um cliente  | marketplaces |
 | parentProductId | Identificador exclusivo do produto pai. Se não houver um produto pai na transação, ID do produto pai = ID do produto. | marketplaces |
 | parentProductName | O nome do produto pai. Se não houver um produto pai na transação, Nome do produto pai = Nome do produto. | marketplaces |
 | participantId | A identidade principal do parceiro que ganha com o programa | Todos |
-| participantIdType | ID do programa principalmente para programas de incentivo e VENDEDOR IF para marketplaces | Todos |
+| participantIdType | Principalmente a ID do programa para programas de incentivo e vendedor se for Marketplace | Todos |
 | participantName | Nome do parceiro de ganho | Todos |
 | partnerCountryCode | Localização/país/região do parceiro de ganho | Todos |
-| partNumber | Está sempre em branco | Alguns programas de incentivo e marketplaces |
-| paymentId | Identificador exclusivo para correlacionar todas as transações no relatório de transações com um pagamento específico no relatório de pagamento | Todos |
+| partNumber | Está sempre em branco | Alguns programas de incentivo e Marketplaces |
+| paymentId | Identificador exclusivo para correlacionar todas as transações no relatório de transações com um pagamento específico no relatório de pagamento | Tudo |
 | paymentStatus | Status de pagamento | Todos |
 | paymentStatusDescription | Descrição amigável do status de pagamento | Todos |
 | productId | Identificador exclusivo do produto | marketplaces |
-| productName | Nome do produto vinculado à transação | Todos |
+| productName | Nome do produto vinculado à transação | Tudo |
 | productType | Tipo de produto, como aplicativo, complemento ou jogo | marketplaces |
 | Código do programa | Cadeia de caracteres para mapear com o nome do programa |  |
 | programName | Nome do programa de incentivo/loja | Todos |
@@ -247,7 +247,7 @@ A tabela **lista de pagamentos** mostra pagamentos pagos e pendentes. Você pode
 - **Imposto sobre a taxa de serviço (formulário PDF)** – disponível para os pagamentos sujeitos ao imposto sobre tarifa de serviço. Os impostos sobre tarifas de serviço são mostrados em **outros impostos**.
 - **Exibir** – redireciona para o histórico de transações com uma lista de ganhos incluídos no pagamento.
 
-Para entender por que você pode ter ganhos ausentes ou inesperados, consulte [perguntas comuns sobre pagamentos do Marketplace comercial](payout-faq.md#why-are-my-earnings-missing).
+Para entender por que você pode ter ganhos ausentes ou inesperados, consulte [perguntas comuns sobre pagamentos do Marketplace comercial](payout-faq.yml#why-are-my-earnings-missing-).
 
 ### <a name="payment-status"></a>Status de pagamento
 
@@ -260,7 +260,7 @@ A tabela a seguir explica os diferentes status de conquista.
 | Fatura de imposto pendente | Sua fatura de imposto está incompleta ou inválida. | Atualize sua fatura de imposto para ser pago |
 | Rejeitado durante a revisão | O pagamento foi rejeitado durante a revisão. | Entre em contato com o Suporte da Microsoft para detalhes |
 | Com falha | O pagamento falhou devido a um erro do sistema da Microsoft. | Contate o suporte da Microsoft para obter detalhes |
-| Em andamento | O pagamento está em andamento. | Não |
+| Em Andamento | O pagamento está em andamento. | Não |
 | Pagamento incorreto | A revitóriação de pagamento está em andamento. | Não |
 | Enviado | O pagamento foi enviado ao seu banco. | Não |
 | Em reprocessamento | O pagamento encontrou um erro de sistema da Microsoft e está sendo reprocessado. | Não |
@@ -309,22 +309,22 @@ Aqui está um exemplo de exportação de pagamentos:
 O resumo dos **dados de exportação** também fornece acesso a instruções históricas.
 
 > [!NOTE]
-> Uma instrução histórica é um instantâneo e não é atualizada. Entre em contato com o [suporte](https://partner.microsoft.com/support/v2/?stage=1) e solicite os dados mais recentes, se necessário.
+> Uma instrução histórica é um instantâneo e não é atualizada. Entre em contato [com o suporte](https://partner.microsoft.com/support/v2/?stage=1) e solicite os dados mais recentes, se necessário.
 
 :::image type="content" source="images/payouts/pc-export-statements.png" alt-text="Exportar instruções históricas.":::
 
-- O histórico de transações de antes de 1º de julho de 2019 é tratado separadamente e usa campos diferentes dos relatórios de histórico posteriores.
-- O histórico de transações herdadas tem uma coluna chamada "reservado" que corresponde à coluna "ganhos" no histórico moderno, exceto pelo fato de que ela exclui todos os ganhos com status igual a "pagamento enviado".
+- O histórico de transações de antes de 1º de julho de 2019 é tratado separadamente e usa campos diferentes de relatórios de histórico posteriores.
+- O histórico de transações herdadas tem uma coluna chamada "Reservado" que corresponde à coluna "Ganhos" no histórico moderno, exceto que exclui todos os ganhos com status igual a "Pagamento Enviado".
 - Filtros como 3M, 6M ou 12M não serão aplicados à seção Demonstrativos do histórico.
 
-### <a name="historical-statement-downloads"></a>Downloads de instruções históricas
+### <a name="historical-statement-downloads"></a>Downloads de instrução histórica
 
 A tabela a seguir explica cada coluna em uma instrução histórica.
 
 | Nome do campo | Descrição |
 | --- | --- |
 | Origem da receita | A origem de sua receita com base no local no qual a transação ocorreu, como Microsoft Store, Windows Phone Store, Windows Store 8 ou publicidade |
-| ID do pedido | Identificador exclusivo do pedido. Essa ID permite que você identifique as transações de compra com suas respectivas transações de não compra, como reembolsos ou estornos. Ambas terão a mesma ID de pedido. Além disso, se houver um encargo dividido onde vários métodos de pagamento foram usados para uma única compra, ele permitirá que você vincule as transações de compra. |
+| ID do pedido | Identificador exclusivo do pedido. Essa ID permite que você identifique as transações de compra com suas respectivas transações de não compra, como reembolsos ou estornos. Ambas terão a mesma ID de pedido. Além disso, se houver uma cobrança de divisão em que várias formas de pagamento foram usadas para uma única compra, ela permitirá vincular as transações de compra. |
 | ID da transação | Identificador exclusivo da transação. |
 | Data e hora da transação | A data e hora em que a transação ocorreu (UTC). |
 | ID do produto pai | Identificador exclusivo do produto pai. Se não houver um produto pai na transação, ID do produto pai = ID do produto. |
