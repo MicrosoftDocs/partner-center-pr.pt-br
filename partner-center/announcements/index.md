@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 06/30/2021
-ms.openlocfilehash: a6f249a83abb7dfb7a1e516864696e1bfcc6a853
-ms.sourcegitcommit: 1d09ccaaa54f167b0c63e99761172ebe84e89f2e
+ms.date: 07/09/2021
+ms.openlocfilehash: 664e8d1353a022e73a5d2f68d11dea4d7cfd438f
+ms.sourcegitcommit: e2256e60cd2d4d41b3653655e3b1931292234283
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "113221450"
+ms.lasthandoff: 07/11/2021
+ms.locfileid: "113599748"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,6 +22,10 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 |**Categoria**|**Comunicados de julho de 2021**|**Comunicado**|
 |---------|:---------|:---------|
+|Funcionalidades|[Manter suas certificações da Microsoft ativas com a ajuda Partner Center](2021-july.md#6)| 9 de julho |
+|Funcionalidades|[Lançamento do SDK no .NET Standard (v2.0.1)](2021-july.md#5)| 7 de julho |
+|Funcionalidades|[Comunicado sobre a transparência do desconto do cliente](2021-july.md#4)| 7 de julho |
+|Funcionalidades|[Problema de chave do produto (Product Key) do Windows 7 ESU (Atualizações de Segurança Estendidas) Ano 2 (2021) resolvido](2021-july.md#3)|2 de julho |
 |Funcionalidades|[Ver lançamentos e ofertas do produto neste mês](2021-july.md#2)|1º de julho|
 |Funcionalidades|[Promoção e desativação de ofertas com desconto da Migração na Nuvem do Dynamics 365](2021-july.md#1)|1º de julho|
 |**Categoria**|**Comunicados de junho de 2021**|**Comunicado**|
