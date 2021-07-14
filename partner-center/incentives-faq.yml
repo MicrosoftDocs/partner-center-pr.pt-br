@@ -1,0 +1,81 @@
+### YamlMime:FAQ
+metadata:
+  title: Perguntas frequentes sobre incentivos
+  ms.topic: how-to
+  ms.date: 02/05/2021
+  description: Perguntas frequentes sobre incentivos da Microsoft. Este artigo inclui perguntas sobre funções de usuário, como registrar ou o que fazer sobre mensagens de erro.
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-incentives
+  author: mseamons
+  ms.author: mseamons
+  ms.localizationpriority: medium
+  ms.openlocfilehash: 868b47431eb6d04c0885f82c13f7611bace24d2c
+  ms.sourcegitcommit: d1deaeb1703cf2c25119037c5fb624c44fca74b4
+  ms.translationtype: MT
+  ms.contentlocale: pt-BR
+  ms.lasthandoff: 07/14/2021
+  ms.locfileid: "113753532"
+title: Perguntas frequentes sobre incentivos
+summary: >
+  **Funções apropriadas:** incentivos de administrador | Usuário de incentivos
+sections:
+- name: Ignored
+  questions:
+  - question: >
+      Preciso ser o administrador global para me inscrever em incentivos?
+    answer: >
+      Não. O administrador global e o administrador da conta podem atribuir usuários como administradores de incentivos. Os administradores de incentivos gerenciam os programas de incentivos da empresa por meio Partner Center. Para obter mais informações, consulte [Visão geral de permissões.](permissions-overview.md)
+  - question: >
+      O que preciso fazer se descobrir que minha empresa já é membro do MPN (Microsoft Partner Network)?
+    answer: >
+      Se você tentar ingressar no MPN e sua empresa já for membro, o MPN reconhecerá o domínio e o associará à conta existente. A conta existente pode ser a mesma empresa ou uma empresa relacionada usando o mesmo domínio de email ou o mesmo Azure AD (Azure Activity Directory) para gerenciar vários domínios.
+
+
+      Você pode identificar o Contato Principal na página Perfil Jurídico. Se sua localização for o local do MPNHQ, você só precisará ser configurada com as permissões necessárias para gerenciar incentivos. Para obter mais informações sobre funções e permissões, consulte a Visão [geral de permissões](permissions-overview.md).
+
+
+      Se você não estiver localizado no mesmo país que o [](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) local do MPNHQ, consulte as Instruções para contas multi-nacionais para obter mais detalhes sobre esse cenário.
+  - question: >
+      Quais funções de usuário estão disponíveis?
+    answer: >
+      A pessoa que registra a empresa no Partner Center se torna o Contato Principal e o Administrador Global por padrão. O administrador pode convidar e gerenciar usuários no portal.
+
+
+      As principais funções para incentivos são Administrador de incentivos e Usuário de incentivos. O administrador de incentivos pode se registrar em programas de incentivo e gerenciar detalhes bancários e fiscais para o parceiro. O usuário de Incentivos pode exibir relatórios na ferramenta para ver o que foi pago e o detalhamento de cada pagamento, mas não pode exibir ou editar detalhes bancários. Ambas as funções podem ser aplicadas a todos os locais na conta global do parceiro.
+
+
+      Para obter mais informações, consulte [Visão geral de permissões.](permissions-overview.md)
+  - question: >
+      Como posso descobrir quem tem direitos de administrador global ou de conta para minha empresa?
+    answer: "Para encontrar um administrador global ou administrador de conta que possa fazer alterações de função ou atribuir funções a um novo usuário:\n\n1. No ícone Configurações da conta no canto superior direito do Partner Center, selecione **Gerenciamento de usuários.**\n2. Filtre por **Administrador global ou** Administrador da **conta.**\n3. Você também pode acessar **Meu perfil**  , selecionar Funções e permissões e ver uma lista dos diferentes administradores que podem ajudá-lo a elevar suas permissões.\n \nPara obter mais informações, consulte [Encontrar sua função](find-your-role.md).  \n"
+  - question: >
+      Não consigo acessar incentivos usando minhas credenciais.
+    answer: >
+      O motivo provável pelo qual você não pode ver incentivos é que você não tem as permissões corretas. Use o procedimento a seguir para corrigir isso.
+
+
+      1. Entre no painel [Partner Center com](https://partner.microsoft.com/dashboard/) suas credenciais de locatário do Azure AD (suas credenciais de trabalho). Se você não conseguir entrar, entre em contato com o administrador global da sua empresa.
+
+
+      2. Ao entrar, se for solicitado que você  selecione em sua conta de trabalho ou **conta** pessoal, selecione **Conta de trabalho.**
+
+
+      3. No menu Partner Center, selecione **Incentivos** e, em seguida, visão **geral.** Se você não tiver permissões de administrador de incentivos ou de usuário de Incentivos, você verá as informações de contato para todos os administradores globais e de conta de sua empresa. Entre em contato com um desses administradores para obter a função de incentivo para as IDs e programas de incentivo necessários do MPN.
+
+
+      4. Se você já tiver uma função de administrador de Incentivos, verá os registro de sua empresa para as IDs do MPN e os programas de incentivo aos quais você tem acesso.
+  - question: >
+      Alguns registro estão ausentes na página de visão geral de incentivos.
+    answer: >
+      Se você recebeu um convite ou se registrou em um programa de incentivo que não está mais visível no painel, verifique se você tem o acesso apropriado. Somente usuários com a função Administrador de Incentivo ou Usuário de Incentivo podem ver o programa. Consulte [Encontrar sua função](./find-your-role.md).
+
+
+      Se você precisar alterar sua função ou permissões, entre em contato com o administrador global ou de conta da sua empresa. Para saber quem são essas pessoas, leia [Encontrar seu administrador global.](./find-your-role.md#find-your-global-admin)
+
+
+      A página Visão geral exibirá apenas os registro associados à PGA (Conta Global do Parceiro) associada ao locatário do Azure AD. Se sua empresa tiver mais de um PGA, você precisará ter credenciais diferentes para cada uma delas.
+  - question: >
+      Who devo entrar em contato se receber uma mensagem de erro ou precisar de ajuda durante o processo de registro?
+    answer: >
+      Há um serviço de suporte online se você encontrar algum problema na seção Incentivos do Painel – consulte a opção de suporte (? Ícone) no canto superior direito.
+additionalContent: "\n## <a name=\"next-steps\"></a>Próximas etapas\n\n- [Introdução aos incentivos](incentives-get-started-intro.md)"
