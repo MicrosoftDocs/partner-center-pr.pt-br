@@ -1,80 +1,80 @@
 ### YamlMime:FAQ
 metadata:
   title: Perguntas frequentes sobre o perfil de pagamento e imposto
-  description: Obtenha respostas para perguntas comuns sobre pagamentos e detalhes de impostos no Partner Center. Inclui respostas sobre por que seus ganhos são diferentes do esperado.
+  description: Obter respostas para perguntas comuns sobre pagamentos e detalhes fiscais em Partner Center. Inclui respostas sobre por que seus ganhos são diferentes do esperado.
   ms.service: marketplace
   ms.subservice: partnercenter-marketplace-publisher
   ms.topic: article
   author: eunjkim520
   ms.author: eunjkim
   ms.date: 05/06/2021
-  ms.openlocfilehash: 30524899a85cff7439268d569e93810034109474
-  ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+  ms.openlocfilehash: 350c726467c3ba4342159a56b8ccfe77610c6b63
+  ms.sourcegitcommit: 207c86406e56346d01d85ce50ea494c0c293519a
   ms.translationtype: MT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 07/13/2021
-  ms.locfileid: "113686471"
+  ms.lasthandoff: 07/14/2021
+  ms.locfileid: "113798329"
 title: Perguntas comuns sobre pagamentos e impostos
 summary: >
-  **Funções apropriadas**: administrador da conta | Administrador global | Administrador de incentivos
+  **Funções apropriadas:** conta de administrador | Administrador global | Administrador de incentivos
 
 
-  Este artigo responde a perguntas frequentes sobre pagamentos e detalhes de impostos no Partner Center. Os assuntos abordados incluem o tempo de pagamento, a verificação da elegibilidade de seus ganhos e a importância de configurar seus perfis de pagamento e de impostos corretamente.
+  Este artigo responde a perguntas frequentes sobre pagamentos e detalhes de impostos Partner Center. Os assuntos abordados incluem o tempo de pagamentos, a verificação da qualificação de seus ganhos e a importância de configurar seus perfis de pagamento e imposto corretamente.
 sections:
 - name: Gerenciamento de perfil
   questions:
   - question: >
       Por que preciso fornecer ou atualizar meus detalhes de pagamento e/ou imposto?
     answer: >
-      Todos os parceiros registrados em um novo programa devem fornecer pagamento válido e detalhes de impostos para concluir seus pagamentos de registro e recebimento. Um registro é considerado completo somente depois que a Microsoft tiver validado seu pagamento e seu perfil de imposto.
+      Todos os parceiros que se inscrevem em um novo programa devem fornecer detalhes de pagamento e imposto válidos para concluir seu registro e receber pagamentos. Um registro é considerado concluído somente depois que a Microsoft valida seu perfil de pagamento e imposto.
 
 
-      Talvez você também precise atualizar suas informações se as regras do seu programa forem alteradas ou se os aspectos do seu perfil expirarem ou ficarem desatualizados. Se isso acontecer, sua página de visão geral mostrará um status de **ação necessária – atualizar banco e/ou perfil de imposto**.
+      Talvez você também precise atualizar suas informações se as regras do programa mudarem ou se os aspectos do seu perfil expirarem ou se tornarem desatualizados. Se isso acontecer, sua página Visão Geral mostrará um status de Ação necessária – Atualizar perfil **bancário e/ou fiscal.**
   - question: >
-      Como fazer localizar, configurar ou atualizar os detalhes de pagamento e impostos?
+      Como fazer, configurar ou atualizar detalhes de pagamento e imposto?
     answer: >
-      Para obter informações detalhadas sobre como atualizar os detalhes de pagamento e imposto no Partner Center, consulte [configurar sua conta de pagamento e formulários de impostos](set-up-your-payout-account.md).
+      Para obter informações detalhadas sobre como atualizar os detalhes de pagamento e imposto no Partner Center, consulte Configurar sua conta de pagamento [e formulários de imposto.](set-up-your-payout-account.md)
   - question: >
       Por que não vejo meus registros ao atribuir meu perfil de pagamento e imposto?
     answer: >
-      Pode ser que você não tenha as permissões corretas ou que esteja conectado com uma conta que não tenha essas permissões. Por exemplo, somente administradores de incentivos para seu local MPN podem criar ou gerenciar perfis de pagamento e impostos. Entre em contato com o administrador da organização para gerenciar as permissões bancárias e fiscais.
+      Pode ser que você não tenha as permissões apropriadas ou esteja conectado com uma conta que não tenha essas permissões. Por exemplo, somente administradores de incentivo para seu local do MPN podem criar ou gerenciar perfis de pagamento e imposto. Entre em contato com o administrador da organização para gerenciar as permissões bancárias e fiscais.
   - question: >
       Só posso entrar com meu @onmicrosoft.com domínio. O que devo fazer?
     answer: >
-      Contate o administrador da conta para adicionar mais domínios à conta do AAD.
+      Entre em contato com o administrador da conta para adicionar mais domínios à conta do AAD.
   - question: >
-      Minha organização está participando de vários programas. Preciso fornecer meu pagamento e perfil de impostos várias vezes?
+      Minha organização está participando de vários programas. Preciso fornecer meu perfil de pagamento e imposto várias vezes?
     answer: >
-      Depende das necessidades da sua organização. Os perfis de pagamento são criados em um nível de organização, o que permite que o mesmo perfil de banco seja atribuído em vários MPN e programas de uma organização. Na maioria dos casos, você pode reutilizar um perfil existente ou criar um novo.
+      Depende das necessidades da sua organização. Os perfis de pagamento são criados no nível da organização, o que permite que o mesmo perfil bancário seja atribuído em várias IDs e programas do MPN em uma organização. Na maioria dos casos, você pode reutilizar um perfil existente ou criar um novo.
 
 
       No entanto, pode haver exceções ao aplicar seu perfil bancário a diferentes países ou regiões, já que as regras fiscais ou de banco local podem ser aplicadas.
 
 
-      Os perfis de impostos criados para um local MPN são reutilizados e preenchidos automaticamente quando o mesmo local MPN participa de outro programa. Mas pode haver exceções. Por exemplo, as regras de pagamento de um novo programa de incentivo podem exigir detalhes adicionais para o perfil fiscal.
+      Os perfis de imposto criados para um local do MPN são reutilizados e preenchidos automaticamente quando o mesmo local do MPN participa de outro programa. Mas pode haver exceções. Por exemplo, as regras de pagamento de um novo programa de incentivo podem exigir detalhes adicionais para o perfil fiscal.
   - question: >
-      Posso usar o mesmo banco e detalhes de impostos para todos os programas de incentivos na Microsoft?
+      Posso usar os mesmos detalhes bancários e fiscais para todos os programas de incentivo na Microsoft?
     answer: >
-      Se sua empresa for convidada para vários programas, você poderá usar a mesma conta de pagamento para todos os seus programas ou pode optar por ter diferentes contas de pagamento para os diferentes programas.
+      Se sua empresa for convidada para vários programas, você poderá usar a mesma conta de pagamento para todos os seus programas ou pode optar por ter contas de pagamento diferentes para os diferentes programas.
   - question: >
-      Como a Microsoft garante que as informações bancárias sejam realmente a da empresa, e não uma conta bancária pessoal para um funcionário?
+      Como a Microsoft garante que as informações bancárias realmente são as da empresa e não uma conta bancária pessoal para um funcionário?
     answer: >
-      É responsabilidade da empresa garantir que a função do administrador de incentivos, que tem as permissões para editar essas informações, só é fornecida aos funcionários apropriados.
+      É responsabilidade da empresa garantir que a função de administrador de incentivos , que tenha as permissões para editar essas informações, seja concedida apenas aos funcionários apropriados.
   - question: >
-      Meu perfil de imposto expirou. Como fazer corrigir a atualização?
+      Meu perfil de imposto expirou. Como fazer correção atualize-o?
     answer: >
-      Se um perfil de imposto expirar ou estiver prestes a expirar, significa que o formulário de imposto que você forneceu à Microsoft precisa ser atualizado. Use as etapas a seguir para atualizar seu perfil de imposto:
+      Se um perfil de imposto tiver expirado ou estiver prestes a expirar, isso significa que o formulário de imposto que você forneceu à Microsoft precisa ser atualizado. Use as seguintes etapas para atualizar seu perfil de imposto:
 
 
-      1. entre no [painel](https://partner.microsoft.com/dashboard/home)do Partner Center e, em seguida, selecione o ícone de engrenagem para abrir o menu **Configurações** .
+      1. Entre no painel Partner Center [e](https://partner.microsoft.com/dashboard/home)selecione o ícone de engrenagem para abrir o menu **Configurações** aplicativo.
 
-      2. Selecione **configurações de conta**, expanda a seção **pagamento e imposto** e selecione **pagamento e** perfil de imposto.
+      2. Selecione **Configurações da conta**, expanda a **seção** Pagamento e imposto e, em seguida, selecione Perfil de **pagamento e** imposto.
 
-      3. Selecionar perfil de **imposto**
+      3. Selecione **Perfil de** imposto
 
-      4. Verifique a **data de expiração** da coluna e navegue até o perfil de imposto expirado ou prestes a expirar.
+      4. Verifique a coluna **Data de Validade** e navegue até o perfil fiscal que expirou ou está prestes a expirar.
 
-      5. Selecione **Editar** para iniciar o processo de edição do perfil de imposto.
+      5. Selecione **Editar para** iniciar o processo de edição do perfil fiscal.
 
       6. Na seção formulário de imposto, forneça os detalhes atualizados.
 - name: Ganhos incorretos ou ausentes
@@ -86,16 +86,16 @@ sections:
 
       - Talvez os ganhos de transações anteriores a julho de 2019 não sejam mostrados no relatório de histórico de transações. Verifique os demonstrativos históricos em [Download de pagamentos](https://partner.microsoft.com/dashboard/payouts/reports/incentiveexport).
 
-      - Verifique o período [do ciclo de pagamento](payment-thresholds-methods-timeframes.md) e entenda quando seus ganhos devem aparecer na instrução pagamento.
+      - Verifique o [período do ciclo de pagamento e](payment-thresholds-methods-timeframes.md) entenda quando seus ganhos devem aparecer na instrução de pagamento.
   - question: >
-      Por que o valor dos meus ganhos é diferente do esperado?
-    answer: "- Se o pedido foi parcialmente pago por seu cliente, seu valor de conquista será baseado no valor parcialmente pago após a dedução da taxa e do imposto apropriado.\n- Verifique a responsabilidade de remessa de imposto por país. Em países em que o imposto é responsável pela Microsoft, a Microsoft coleta e deduz o imposto dos ganhos do Publicador. O valor da transação mostrado no demonstrativo é posterior ao valor do imposto. Confira [Detalhes do imposto](tax-details-marketplace.md).\n- As ofertas de SaaS e IaaS têm uma tarifa de agência com desconto em 10% em vez do padrão de 20%, deixando uma taxa de ganhos de 90%. Esse é um requisito de Co-Sell de IP. Essa promoção estará em vigor até 30 de junho de 2021. \n\n**leitura adicional**: [contrato de Publisher comercial do Marketplace](/legal/marketplace/msft-publisher-agreement), [detalhes da política de pagamento](payout-policy-details.md), [limite de pagamento, método e intervalo de tempo](payment-thresholds-methods-timeframes.md), [como receber pagamentos](marketplace-get-paid.md), [detalhes do imposto](tax-details-marketplace.md), instruções do [pagamento](payout-statement.md)\n"
+      Por que meu valor de ganho é diferente do que eu esperava?
+    answer: "- Se o pedido foi parcialmente pago pelo cliente, o valor do ganho será baseado no valor parcialmente pago após a dedução do valor e do imposto apropriado.\n- Verifique a responsabilidade de reenmitir impostos por país. Em países em que o imposto é responsável pela Microsoft, a Microsoft coleta e deduz o imposto dos ganhos do editor. O valor da transação mostrado no demonstrativo é posterior ao valor do imposto. Confira [Detalhes do imposto](tax-details-marketplace.md).\n- As ofertas têm uma taxa de serviço de loja em 3%, deixando uma taxa de ganhos de 97%. \n\n**Leitura posterior:** Contrato [de Publisher](/legal/marketplace/msft-publisher-agreement)do Marketplace [Comercial,](payout-policy-details.md)detalhes da política de pagamento, Limite de [pagamento,](payment-thresholds-methods-timeframes.md)método e [período,](marketplace-get-paid.md)Recebendo [pagamento,](tax-details-marketplace.md)Detalhes do imposto, [Instruções de pagamento](payout-statement.md)\n"
 - name: Reconciliação de ganhos
   questions:
   - question: >
       Como reconciliar as instruções de pagamento para relatórios de pedidos ou de uso no Analytics?
     answer: >
-      Use AssetID, orderID e ID de item de linha aparecendo no relatório de histórico de transações de pagamento com ordens analíticas e relatórios de uso. Use este mapeamento:
+      Use AssetID, orderID e ID de item de linha que aparecem no relatório de histórico de transações de pagamento com pedidos de análise e relatórios de uso. Use este mapeamento:
 
 
       - Payout Transaction History.AssetID = order.OrderID
@@ -104,28 +104,28 @@ sections:
   - question: >
       Como saber quando esperar pagamentos para meus pedidos de clientes?
     answer: >
-      - Primeiro, usando seu AssetID, marque pedidos de clientes em [relatórios de pedidos](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order).
+      - Primeiro, usando sua assetID, verifique os pedidos de clientes em [Relatórios de pedidos.](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order)
 
-      - Verifique o canal de cliente para sua assinatura de cliente no [relatório de clientes](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/customer).
+      - Verifique o canal do cliente para sua assinatura do cliente no [relatório de clientes](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/customer).
 
-      - Para clientes corporativos, os ganhos do editor aparecem na instrução 1-2 dias após a data da ordem de compra.
+      - Para clientes corporativos, os ganhos do editor aparecem na instrução de 1 a 2 dias após a data da Ordem de Compra.
 
-      - Para clientes não empresariais, os ganhos do editor aparecem na instrução 1-2 dias após o pagamento do cliente ser recebido.
+      - Para clientes não empresariais, os ganhos do editor aparecem no instrução de 1 a 2 dias após o pagamento do cliente ser recebido.
 
 
-      **Leitura adicional**: [instruções de pagamento](payout-statement.md), [painel de pedidos na análise do Marketplace comercial](/azure/marketplace/partner-center-portal/orders-dashboard)
+      **Leitura posterior:** [instruções de pagamento,](payout-statement.md)painel [Pedidos na análise do marketplace comercial](/azure/marketplace/partner-center-portal/orders-dashboard)
 - name: Pagamentos e ajustes
   questions:
   - question: >
       Por que meu pagamento não foi efetuado?
     answer: >
-      - Verifique se o status do pagamento e o status do perfil de imposto são mostrados como *válidos* na [página Visão geral](https://partner.microsoft.com/dashboard/commercial-marketplace/overview).
+      - Verifique se o status de Pagamento e o Status do perfil de imposto são mostrados *como válidos* na página [de visão geral](https://partner.microsoft.com/dashboard/commercial-marketplace/overview).
 
       - Talvez você não tenha atingido o limite mínimo de pagamento. Os ganhos devem ser de pelo menos US$ 50,00 para que um pagamento seja recebido.
   - question: >
-      Como fazer definir minha conta para não receber o pagamento?
+      Como fazer minha conta para não receber pagamento?
     answer: >
-      Você pode manter pagamentos no [perfil de pagamento](https://partner.microsoft.com/dashboard/commercial-marketplace/overview). Para fazer isso, marque **manter** e a Microsoft manterá o pagamento para você até que você libere a espera.
+      Você pode manter os pagamentos no [Perfil de Pagamento](https://partner.microsoft.com/dashboard/commercial-marketplace/overview). Para fazer isso, verifique **Hold** e a Microsoft manterá o pagamento até que você libere a hold.
   - question: >
       Por que recebo em uma moeda diferente da moeda de compra?
     answer: >
@@ -133,10 +133,10 @@ sections:
   - question: >
       Como reconciliar ajustes?
     answer: >
-      Os ajustes de pagamento são correções de pagamento para conciliar os ajustes de compensação, como problemas do sistema. Na instrução pagamento, ReasonCode especifica o motivo do ajuste. Elas não devem ser reconciliadas diretamente em transações individuais.
+      Os ajustes de pagamento são correções de pagamento para conciliar os ajustes de compensação, como problemas do sistema. Na instrução payout, ReasonCode especifica o motivo do ajuste. Eles não se pretendem reconciliar diretamente com transações individuais.
 
 
-      **leitura adicional**: [contrato de Publisher do Marketplace comercial](/legal/marketplace/msft-publisher-agreement), [detalhes da política de pagamento](payout-policy-details.md), detalhes do [imposto](tax-details-marketplace.md), [limite de pagamento, método e período de tempo](payment-thresholds-methods-timeframes.md)
+      **Leitura posterior:** Contrato [de Publisher marketplace](/legal/marketplace/msft-publisher-agreement)comercial, detalhes da política de pagamento, Detalhes do imposto, Limite de [pagamento, método e período](payment-thresholds-methods-timeframes.md) [](payout-policy-details.md) [](tax-details-marketplace.md)
 - name: Impostos
   questions:
   - question: >
@@ -213,9 +213,9 @@ sections:
 - name: Políticas de pagamento do Marketplace comercial
   questions:
   - question: >
-      Como encontrar a taxa de agenciamento e a taxa de pagamento atuais?
+      Como fazer localizar a taxa do serviço de repositório atual e a taxa de pagamento?
     answer: >
-      - Verifique o contrato de editor do marketplace comercial. A taxa de agenciamento padrão é de 20%. As transações qualificadas de revenda de SaaS têm uma taxa com desconto de 10%. Verifique se há anúncios de taxas de agenciamento promocionais.
+      - A taxa do serviço de repositório é 3%.
 
       - Na sua declaração de pagamento, a taxa de conquista especifica a taxa de pagamento real para uma determinada transação.
   - question: >
