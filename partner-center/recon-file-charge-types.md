@@ -2,47 +2,47 @@
 title: Tipos de encargo de arquivos de reconciliação
 ms.topic: article
 ms.date: 06/05/2020
-description: Descubra os tipos de encargos (como, baseado em licença, com base no uso e em uma única vez), créditos e descontos em arquivos de reconciliação do Partner Center.
+description: Descubra os tipos de encargos (como, baseado em licença, baseado em uso e uma vez), créditos e descontos em Partner Center de reconciliação.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5a1f45de59fc9dac6a443bb8a14c3a80b36ba3f7
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 10438ba30c6eb5ba5b1daef1ad16521f1f8e77c6
+ms.sourcegitcommit: 70b8ebbe0d431c7a13529f9eabd1b24f40108a46
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855872"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "113989767"
 ---
-# <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Entender os diferentes tipos de encargo em arquivos de reconciliação do Partner Center
+# <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Entender os diferentes tipos de cobrança em arquivos Partner Center reconciliação
 
-**Aplica-se a**: Partner Center | Partner Center para Microsoft Cloud do governo dos EUA
+**Aplica-se a**: Partner Center | Partner Center para o Microsoft Cloud for US Government
 
-**Funções apropriadas**: agente de administração | Administrador de cobrança | Administrador global
+**Funções apropriadas**: Agente administrativo | Administrador de cobrança | Administrador global
 
-Este artigo descreve os mapeamentos entre uma seção de fatura e os tipos de encargos associados que podem estar em seu arquivo de reconciliação. Sua fatura fornece um resumo de encargos. O arquivo de reconciliação fornece uma divisão detalhada das transações de item de linha, incluindo tipos de encargo. Para obter mais informações sobre arquivos de reconciliação, consulte [como usar arquivos de reconciliação](use-the-reconciliation-files.md).
+Este artigo descreve os mapeamentos entre uma seção da fatura e os tipos de cobrança associados que podem estar em seu arquivo de reconciliação. Sua fatura fornece um resumo dos encargos. Seu arquivo de reconciliação fornece um detalhamento das transações de item de linha, incluindo tipos de cobrança. Para obter mais informações sobre arquivos de reconciliação, [consulte como usar arquivos de reconciliação](use-the-reconciliation-files.md).
 
-Os [arquivos de reconciliação com base no uso](usage-based-recon-files.md) e os [arquivos de reconciliação baseados em licença](license-based-recon-files.md) mostram apenas transações e encargos relacionados ao uso (unidades consumidas e encargos relacionados).
+Os [arquivos de reconciliação baseados](usage-based-recon-files.md) em uso e os arquivos de reconciliação baseados em licença mostram apenas transações e encargos relacionados ao uso (unidades consumidas e encargos relacionados). [](license-based-recon-files.md)
 
 > [!NOTE]
-> Créditos únicos, descontos ou reembolsos que aparecem na fatura como **ajustes** não são mostrados no arquivo de reconciliação.
+> Créditos, descontos ou reembolsos pontuais que aparecem na fatura como Ajustes não são **mostrados** no arquivo de reconciliação.
 
 ## <a name="map-charge-types-to-invoice-charges"></a>Mapear tipos de cobrança para encargos de fatura
 
-Para fazer referência cruzada de valores entre a fatura e o arquivo de reconciliação, use as opções de filtro no Microsoft Excel. Filtre por tipos de encargo em seu arquivo de reconciliação para mapear os encargos da fatura para um conjunto de divisões de cobrança no arquivo de reconciliação.
+Para fazer referência cruzada de valores de cobrança entre sua fatura e o arquivo de reconciliação, use as opções de filtro Microsoft Excel. Filtre por tipos de cobrança em seu arquivo de reconciliação para mapear os encargos da fatura para um conjunto de detalhamentos de encargos no arquivo de reconciliação.
 
 ## <a name="license-based-charges"></a>Cobranças baseada em licença
 
-Para mapear esses encargos baseados em licenças para sua fatura, some a coluna de **valor** do arquivo baseado em licença.
+Para mapear esses encargos baseados em licença para sua fatura, soma a **coluna Valor** do arquivo baseado em licença.
 
-| Descrição da cobrança (coluna Chargetype no arquivo de reconciliação) | Explicação da cobrança |
+| Descrição da cobrança (coluna ChargeType no arquivo de reconciliação) | Explicação da cobrança |
 | ------------------------------------------------------------- | ------------------ |
-| Taxa de ativação | O valor cobrado para o cliente quando ele usa a assinatura após a compra. |
-| Taxa de cancelamento | Encargos rateado reembolsados ao cliente quando as licenças associadas são alteradas. |
-| Cancelar ocorrência proporcional | Encargos rateado cancelados quando o cliente com a assinatura mensal tem assinatura suspensa e as licenças associadas foram alteradas no mesmo mês. |
-| Taxa do Ciclo | Cobranças periódicas de uma assinatura. |
+| Taxa de ativação | O valor cobrado ao cliente quando ele usa a assinatura após a compra. |
+| Taxa de cancelamento | Encargos rateados reembolsados ao cliente quando as licenças associadas são alteradas. |
+| Cancelar ocorrência proporcional | Encargos rateados cancelados quando o cliente com assinatura mensal tem a assinatura suspensa e as licenças associadas foram alteradas no mesmo mês. |
+| Taxa do Ciclo | Encargos periódicos para uma assinatura. |
 | Proporcional à instância do ciclo | Encargos rateados avaliados pelo cliente quando as licenças associadas são alteradas. |
 | Taxas proporcionais durante o cancelamento | Reembolso rateado por parte nãoutilizada do serviço após o cancelamento. |
 | Taxas de taxa de taxa ao converter fora da oferta atual | Encargos rateados após a conversão da assinatura mensal atual em uma assinatura anual. |
@@ -58,11 +58,13 @@ Para mapear esses encargos de uso único para sua fatura, soma a **coluna Valor*
 
 | Descrição da cobrança (coluna ChargeType no arquivo de reconciliação) | Explicação da cobrança |
 | ------------------------------------------------------------- | ------------------ |
-| Novo | Usado quando uma nova compra é criada. |
+| novo | Usado quando uma nova compra é criada. |
+| renovar | Usado quando uma assinatura é renovada após o final do termo. |
 | addQuantity | Usado no reembolso da compra original e na nova quantidade após um aumento. |
 | removeQuantity | Usado no reembolso da compra original e na nova quantidade após uma diminuição. |
-| Cancelar | Usado quando uma assinatura é cancelada. |
-| Converter | Usado quando uma licença é atualizada, mas o número de licenças permanece inalterado. |
+| cancelImmediate | Usado quando uma assinatura é cancelada. |
+| convert | Usado quando uma licença é atualizada. |
+| customerCredit | Usado quando créditos (por exemplo, Azure, SLA etc.) são dados em uma transação. |
 
 ## <a name="usage-charges"></a>Encargos de uso
 
@@ -77,18 +79,18 @@ Para mapear esses encargos de uso para sua fatura, soma a **coluna PretaxCharges
 
 Para mapear esses créditos para sua fatura:
 
-- Some o **TotalForCustomer** do arquivo baseado em licença.
-- Some a coluna **PostTaxTotal** do arquivo baseado em uso.
+- Soma o **TotalForCustomer do** arquivo baseado em licença.
+- Soma a **coluna PostTaxTotal** do arquivo baseado em uso.
 
-| Descrição da cobrança (coluna Chargetype no arquivo de reconciliação) | Explicação da cobrança |
+| Descrição da cobrança (coluna ChargeType no arquivo de reconciliação) | Explicação da cobrança |
 | ------------------------------------------------------------- | ------------------ |
 | Deslocando um item de linha | Reembolso parcial ou total para um item de linha, incluindo impostos. |
 
 ### <a name="usage-based-discounts"></a>Descontos baseados em uso
 
-Para mapear esses descontos com base no uso para sua fatura, some a coluna **PretaxCharges** do arquivo baseado em uso.
+Para mapear esses descontos baseados em uso para sua fatura, soma a **coluna PretaxCharges** do arquivo baseado em uso.
 
-| Descrição da cobrança (coluna Chargetype no arquivo de reconciliação) | Explicação da cobrança |
+| Descrição da cobrança (coluna ChargeType no arquivo de reconciliação) | Explicação da cobrança |
 | ------------------------------------------------------------- | ------------------ |
 | Desconto de ativação | Desconto aplicado quando a assinatura é ativada. |
 | Desconto de ciclo | Desconto aplicado em encargos periódicos. |
@@ -97,6 +99,6 @@ Para mapear esses descontos com base no uso para sua fatura, some a coluna **Pre
 
 ### <a name="license-based-discounts"></a>Descontos baseados em licença
 
-Para mapear descontos baseados em licença para sua fatura, some a coluna **TotalOtherDiscount** do arquivo baseado em licença.
+Para mapear descontos baseados em licença para sua fatura, soma a **coluna TotalOtherDiscount** do arquivo baseado em licença.
 
-*Os descontos baseados em licença podem ser aplicados a vários tipos de cobrança.*
+*Descontos baseados em licença podem ser aplicados a vários tipos de cobrança.*

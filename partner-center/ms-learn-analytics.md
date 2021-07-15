@@ -1,49 +1,48 @@
 ---
-title: Partner Center insights Microsoft Learn análise
+title: Insights do Partner Center Microsoft Learn analytics
 ms.topic: article
 ms.date: 08/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Acompanhe os alunos em sua empresa aproveitando dados sobre treinamento individual, módulos concluídos, caminhos de aprendizagem concluídos e muito mais.
+description: Acompanhe os aprendizes em sua empresa aproveitando os dados em treinamento individual, módulos concluídos, caminhos de aprendizado concluídos e muito mais.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 132583352e1697a2f9dfa624eb9532692be6d734
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e5d73582d3cfe0aa19483526d9b77e55a4c7e0a0
+ms.sourcegitcommit: 70b8ebbe0d431c7a13529f9eabd1b24f40108a46
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152623"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "113989750"
 ---
-# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>O relatório de análise do Microsoft Learn mostra o status dos estudantes de sua empresa
+# <a name="use-microsoft-learn-analytics-reports"></a>Usar relatórios de análise de Microsoft Learn
 
-**Funções apropriadas:** administrador global | Administrador de parceiro do MPN
+**Funções apropriadas**: Administração Global | Administrador do parceiro do MPN
 
-O Microsoft Learn relatório fornece informações sobre os alunos em sua empresa, incluindo os módulos que eles concluíram e os caminhos de aprendizagem em que estão. O relatório exibe o status de cada aluno individual. O administrador global e o administrador do MPN para sua empresa podem exibir os dados.
+O relatório de [Microsoft Learn](/learn/) fornece informações sobre os aprendizes em sua empresa, incluindo os módulos que eles concluíram e os caminhos de aprendizado em que estão. O relatório exibe o status de cada aprendiz individual. Administradores globais e administradores de MPN para uma empresa podem exibir os dados.
 
 ## <a name="how-to-read-the-report"></a>Como ler o relatório
 
 ### <a name="summary-charts"></a>Gráficos de resumo
 
-Esses gráficos resumem a contagem e as tendências cumulativas mensais para indivíduos treinados, preenchimentos de módulo e caminhos de aprendizagem.
+Esses gráficos resumem a contagem e as tendências cumulativas mensais para indivíduos treinados, preenchimentos de módulo e roteiros de aprendizagem.
 
+**Contagem de indivíduos treinados**: uma contagem de todos os aprendizes distintos que concluíram pelo menos um módulo durante o intervalo de datas selecionado 
 
-**Contagem de indivíduos treinados:** uma contagem de todos os alunos distintos que concluíram pelo menos um módulo durante o intervalo de datas selecionado 
+A **pessoa treinada Trend mini Chart**: Contagem cumulativa mês a mês dos aprendizes ativos 
 
-**Mini gráfico de tendência de indivíduos treinados:** contagem cumulativa de mês a mês dos alunos ativos 
+**Contagem de preenchimentos de módulo**: contagem de preenchimentos de módulo pelos aprendizes na empresa do parceiro durante o intervalo de datas selecionado.
+Por exemplo, se "módulo 1" for concluído por 15 indivíduos e o "módulo 2" tiver sido concluído pelos mesmos 15 indivíduos, a contagem de preenchimentos de módulo será 30. A data de conclusão do módulo deve estar no intervalo de datas selecionado.
 
-**Contagem de preenchimentos de** módulo: contagem de preenchimentos de módulo pelos alunos na empresa do parceiro durante o intervalo de datas selecionado.
-Por exemplo, se "Módulo 1" for concluído por 15 indivíduos e o "Módulo 2" tiver sido concluído pelos mesmos 15 indivíduos, a contagem de preenchimentos do módulo será de 30. A data de conclusão do módulo deve estar no intervalo de datas selecionado.
+**Trimódulo de tendências de preenchimentos de módulos**: mês acima do mês Contagem cumulativa das conclusões do módulo 
 
-**Mini gráfico de tendência de preenchimentos de módulo:** contagem cumulativa de mês a mês das conclusão do módulo 
+**contagem de conclusões de Learning caminho**: contagem de preenchimentos de Learning de caminho pelos aprendizes na empresa do parceiro durante o intervalo de datas selecionado.
+por exemplo, se Learning caminho "caminho 1" for concluído por 20 indivíduos e o caminho de Learning "caminho 2" tiver sido concluído pelos mesmos 20 indivíduos, a contagem de conclusão de caminho Learning será 40. a data de conclusão do caminho de Learning deve estar dentro do intervalo de datas selecionado.
 
-**Contagem de conclusão do caminho de** aprendizagem: contagem de preenchimentos do caminho de aprendizagem pelos alunos na empresa do parceiro durante o intervalo de datas selecionado.
-Por exemplo, se o Caminho de Aprendizagem "Caminho 1" for concluído por 20 indivíduos e o Caminho de Aprendizagem "caminho 2" tiver sido concluído pelos mesmos 20 indivíduos, a contagem de conclusão do Caminho de Aprendizagem será de 40. A data de conclusão do caminho de aprendizagem deve estar dentro do intervalo de datas selecionado.
+**Learning preenchimentos de caminho trend mini chart**: contagem cumulativa mês a mês das conclusões do roteiro de aprendizagem 
 
-**Mini gráfico de tendência de conclusão do caminho de aprendizagem:** contagem cumulativa de mês a mês das conclusão do caminho de aprendizagem 
-
-### <a name="trained-individuals-monthly-trend"></a>Tendência mensal de indivíduos treinados
+### <a name="trained-individuals-monthly-trend"></a>Tendência mensal de pessoas treinadas
 
 Esses dados são a tendência dos usuários de sua empresa que concluíram um módulo pela primeira vez nesse mês. 
 
@@ -59,7 +58,7 @@ Esses dados são a tendência dos módulos concluídos por todos os usuários da
 
 O **eixo Y** é a contagem das conclusões do módulo durante esse mês. Isso não é cumulativo.
 
-### <a name="learning-path-completions-monthly-trend"></a>Tendência mensal de conclusões do roteiro de aprendizagem
+### <a name="learning-path-completions-monthly-trend"></a>tendência mensal de preenchimentos de Learning caminho
 
 Esses dados são a tendência de caminhos de aprendizado concluídos pelos usuários da sua empresa durante esse mês. (não cumulativo) 
 
@@ -67,9 +66,9 @@ Esses dados são a tendência de caminhos de aprendizado concluídos pelos usuá
 
 O **eixo Y** é a contagem de preenchimentos de módulo nesse mês. Isso não é cumulativo.
 
-### <a name="learning-path-completion-tabs"></a>Guias de conclusão do roteiro de aprendizagem 
+### <a name="learning-path-completion-tabs"></a>Learning guias de conclusão de caminho
 
-**Guia módulo**
+#### <a name="module-tab"></a>Guia módulo
 
 Essa guia inclui a divisão dos módulos concluídos em sua empresa pelos cinco principais nomes de módulo; o produto ao qual o módulo está associado; e a função de usuário pertinente ao módulo.  
 
@@ -77,65 +76,68 @@ Essa guia inclui a divisão dos módulos concluídos em sua empresa pelos cinco 
 
 O número exibido no centro do gráfico é o total de módulos concluídos
 
-- Preenchimentos por função: detalhamento das conclusão do módulo pela função do módulo. Se um módulo estiver associado a várias funções, cada uma das funções será adicionada à contagem de preenchimentos do módulo.
+- Conclusões por função: divisão das conclusões do módulo pela função do módulo. Se um módulo estiver associado a várias funções, cada uma das funções será adicionada à contagem de preenchimentos de módulo.
 
-O número exibido no centro do gráfico é o número de funções distintas para as conclusão do módulo. 
+O número exibido no centro do gráfico é o número de funções distintas para as conclusões do módulo. 
 
-- Preenchimentos por produto: detalhamento das conclusão do módulo pelo produto para o que o módulo é mapeado. Se um módulo estiver associado a vários produtos, cada um dos produtos será adicionado à contagem de preenchimentos do módulo.    
+- Conclusões por produto: divisão das conclusões do módulo pelo produto ao qual o módulo está mapeado. Se um módulo estiver associado a vários produtos, cada um dos produtos será adicionado à contagem de preenchimentos de módulo.    
 
-O número exibido no centro do gráfico é o número de produtos distintos para as conclusão do módulo.  
+O número exibido no centro do gráfico é o número de produtos distintos para as conclusões do módulo.  
 
-**Guia Caminho de aprendizagem**   
+#### <a name="learning-path-tab"></a>guia caminho Learning
 
-Essa guia inclui um detalhamento dos caminhos de aprendizagem concluídos em sua empresa pelos cinco principais nomes de módulo; o produto para o quais o caminho de aprendizagem é mapeado; e a função pertinente a esse caminho de aprendizagem.  
+Esta guia inclui uma análise dos caminhos de aprendizado concluídos em sua empresa pelos cinco principais nomes de módulo; o produto ao qual o roteiro de aprendizagem está mapeado; e a função pertinente a este roteiro de aprendizagem.  
 
-- Gráfico de rosca de preenchimentos de caminhos de aprendizagem: detalhamento das conclusão do caminho de aprendizagem (contagem exibida na seção de resumo) por nome.
+- gráfico de rosca de conclusões de caminhos de Learning: divisão das conclusões de caminho de Learning (contagem exibida na seção de resumo) por nome.
 
-- Preenchimentos por função*: detalhamento dos caminhos de aprendizagem concluídos pela função. Se um módulo estiver associado a várias funções, cada uma das funções será adicionada à contagem de preenchimentos do módulo.
+- Conclusões por função: a divisão dos caminhos de aprendizado é concluída pela função. Se um módulo estiver associado a várias funções, cada uma das funções será adicionada à contagem de preenchimentos de módulo.
 
-- Preenchimentos por produto: detalhamento dos caminhos de aprendizagem concluídos pelo Produto para o qual o caminho de aprendizagem é mapeado. Se um módulo estiver associado a vários produtos, cada um dos produtos será adicionado à contagem de preenchimentos do módulo.
+- Conclusões por produto: a divisão dos caminhos de aprendizado é concluída pelo produto ao qual o roteiro de aprendizagem está mapeado. Se um módulo estiver associado a vários produtos, cada um dos produtos será adicionado à contagem de preenchimentos de módulo.
 
-### <a name="completions-by-learning-individuals"></a>Preenchimentos por indivíduos de aprendizado
+### <a name="completions-by-learning-individuals"></a>Conclusões por indivíduos de aprendizagem
 
-Isso lista os usuários treinados em sua empresa e os detalhes de seus módulos concluídos e caminhos de aprendizagem.
+Isso lista os usuários treinados em sua empresa e os detalhes de seus módulos e roteiros de aprendizado concluídos.
 
-Microsoft Learn identifica os alunos com uma ID de Objeto de Usuário. Na guia **Módulos ,** todos os alunos são classificação pelos módulos concluídos. Eles são exibidos com sua Microsoft Learn nome de usuário, ID de objeto e contagem de módulos. Você pode pesquisar usando o nome de usuário. 
+Microsoft Learn identifica os aprendizes com uma ID de objeto de usuário. Na **guia módulos**, todos os aprendizes são classificados pelos módulos concluídos. Eles são exibidos com seus Microsoft Learn nome de usuário, ID de objeto e contagem de módulos. Você pode pesquisar usando o nome de usuário. 
 
-Na **guia caminhos de aprendizado** , todos os aprendizes classificados por caminhos de aprendizado concluídos são exibidos com o nome de exibição do aprendiz, a ID do objeto e a contagem de módulos.
+na **guia caminhos Learning** todos os aprendizes classificados por caminhos de aprendizado concluídos, são exibidos com o nome de exibição do aprendiz, a ID do objeto e a contagem de módulos.
 
 Para obter detalhes de um aprendiz usando a ID de objeto de usuário: 
 
-1. Entre no [Gerenciador de gráficos](https://developer.microsoft.com/graph/graph-explorer ). (Você deve ser o administrador global do locatário do Azure AD da sua empresa.)
+1. entre no [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer ). (Você deve ser o administrador global do locatário do Azure AD da sua empresa.)
 
-2. Copie a ID de objeto de usuário para a [área realçada](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f) no Gerenciador de gráficos. 
+2. copie a ID de objeto de usuário para a [área realçada](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f) no Graph Explorer. 
 
-## <a name="faq"></a>Perguntas frequentes
+## <a name="frequently-asked-questions-faq"></a>Perguntas frequentes
 
 1. Não consigo ver os detalhes de aprendizado da minha empresa.
 
-Esse relatório está disponível para parceiros que têm uma conta no Partner Center. Se ainda estiver no centro de associação de parceiro, você não poderá ver esse relatório.
+   Esse relatório está disponível para parceiros que têm uma conta no Partner Center. Se ainda estiver no centro de associação de parceiro, você não poderá ver esse relatório.
 
-2.  Quem em nossa empresa pode exibir este relatório? 
+2. Who na minha empresa pode exibir este relatório? 
 
-O administrador global e o administrador do MPN podem exibir o relatório.
+   O administrador global e o administrador do MPN podem exibir o relatório.
 
 3. Como garantir que todos os usuários associem suas contas de Microsoft Learn à sua conta do Partner Center?
 
-Depois que o administrador global adicionar um novo usuário, esse usuário precisará acessar o **meu perfil** para associar sua conta de Microsoft learn.
+   *depois que o administrador global adicionar um novo usuário*, esse usuário deverá ir para [Microsoft Learn](/learn/) para vincular sua conta corporativa do Azure Active Directory (AD) ou conta de trabalho com sua conta do Learn. isso garante que a guia Insights Learning mostrará os cursos e as habilidades certos.
+   
+   O usuário precisa:
+   
+   1. Entre [Microsoft Learn](/learn/).
+   2. Selecione sua imagem de perfil e, em seguida, selecione **meu perfil**.
+   3. Selecione **Configurações**.
+   4. Em **Gerenciamento de contas**, adicione sua conta de trabalho em **contas vinculadas**.
 
-- Selecione o ícone de **sua conta** no canto direito do painel e, em seguida, selecione **meu perfil**. 
+4. Posso ver todos os usuários da empresa que entram no Microsoft Learn com uma conta MSA neste relatório?
 
--  Em **seu aprendizado** , um usuário poderá associar sua conta do Microsoft Learning e conectar seu conta Microsoft à University Partner.
+   Atualmente, a melhor maneira de fazer isso é adicionar esses usuários ao seu locatário do Azure AD e, em seguida, adicioná-los ao Partner Center para que eles possam associar sua conta de Microsoft Learn por meio do **meu perfil** no Partner Center. 
 
-3. Posso ver todos os usuários da empresa que entram no Microsoft Learn com uma conta MSA neste relatório?
-
-Atualmente, a melhor maneira de fazer isso é adicionar esses usuários ao seu locatário do Azure AD e, em seguida, adicioná-los ao Partner Center para que eles possam associar sua conta de Microsoft Learn por meio do **meu perfil** no Partner Center. 
-
-Para os usuários que usam apenas sua conta MSA para treinamento, em um futuro próximo, a equipe de Microsoft Learn permitirá que eles associem seus emails de trabalho ao seu perfil de Microsoft Learn. 
+   Para os usuários que usam apenas sua conta MSA para treinamento, em um futuro próximo, a equipe de Microsoft Learn permitirá que eles associem seus emails de trabalho ao seu perfil de Microsoft Learn. 
 
 ## <a name="next-steps"></a>Próximas etapas
 
-Para obter mais relatórios, consulte os [insights do Partner Center](partner-center-insights.md).
+Para obter mais relatórios, consulte [insights do Partner Center](partner-center-insights.md).
 
 >[!NOTE] 
-> Você pode baixar os dados brutos, capacitando esse relatório na seção baixar relatórios no painel do insights. [Saiba mais](pci-download-reports.md) 
+> você pode baixar os dados brutos que capacitam esse relatório na seção baixar relatórios no painel do Insights. [Saiba mais](pci-download-reports.md) 
