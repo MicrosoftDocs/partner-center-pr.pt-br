@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2021
-ms.openlocfilehash: bd081c190b3bccb151c2c0cd5e470ad869eb78dd
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.date: 07/02/2021
+ms.openlocfilehash: d0cf7815a38f5f98349cc67aecd2567cef906d43
+ms.sourcegitcommit: b0d1413ffa2099ddf11d013d41378afa50953f32
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740294"
+ms.lasthandoff: 07/05/2021
+ms.locfileid: "113297679"
 ---
 # <a name="january-2021-announcements"></a>Comunicados de janeiro de 2021
 
@@ -541,9 +541,7 @@ Parceiros do CSP que atuam na Índia.
 
 ### <a name="details"></a>Detalhes 
 
-A Microsoft está fazendo alterações na lista de preços em INR para alinhar os preços para software comercial e serviços online na Índia e na região asiática.
-
-O comunicado completo só está disponível para os parceiros da Microsoft. [Faça logon para acessar o comunicado completo](https://partner.microsoft.com/resources/detail/price-update-indian-rupee.pdf).
+A Microsoft está fazendo alterações na lista de preços em INR para alinhar os preços para software comercial e serviços online na Índia e na região asiática. Publicaremos mais detalhes à medida que forem disponibilizados. Se precisar de ajuda enquanto isso, entre em contato com o [suporte do Partner Center](https://partner.microsoft.com/support/?stage=1).
 
 ________________
 

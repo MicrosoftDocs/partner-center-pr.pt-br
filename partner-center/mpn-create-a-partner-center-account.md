@@ -9,18 +9,16 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8177222d2c39732ac36543e523f268313fb8c4e
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 7ee6f0cb6019dc68e4303a95bfa4f89727338b64
+ms.sourcegitcommit: a84c83bbd95156344b3d9b2778973f47a9f83141
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109795050"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "113353730"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Criar uma conta do MPN no Partner Center para gerenciar os benefícios e as competências da rede
 
-**Funções apropriadas**
-
-- Administrador de parceiros do MPN
+**Funções apropriadas**: Administrador de parceiros do MPN
 
 Se você está conhecendo o MPN (Microsoft Partner Network) agora e não tem uma ID do MPN, inicie o registro seguindo as [instruções de registro](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
 
@@ -38,8 +36,8 @@ Quando estiver pronto para criar uma conta no Partner Center, você precisará t
 
 - Para obter informações sobre o processo de verificação, confira [Verificação da conta](verification-responses.md).
 
->[!NOTE]
->Se a sua associação do Microsoft Partner Network ainda estiver no PMC (Partner Membership Center), você precisará migrar sua conta imediatamente para o Partner Center. Baixe o [guia passo a passo de migração](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx).
+> [!NOTE]
+> Se você tinha uma conta no PMC (Partner Membership Center), ela foi migrada para o Partner Center. Clique aqui para obter mais informações sobre a [desativação do Partner Membership Center](partner-membership-center-retirement-faq.md).
 
 ## <a name="get-started"></a>Introdução
 
@@ -112,7 +110,7 @@ Entre no Partner Center com as suas credenciais do MPN. Selecione [**Perfil do p
 
 Além disso, veja outras informações importantes como IDs do MPN, gerencie as localizações do MPN e veja o Contrato de Parceiro da Microsoft usando os links de menu à esquerda, conforme mostrado na captura de tela a seguir.
 
-:::image type="content" source="images/mpn-new.png" alt-text="Perfil do parceiro":::
+:::image type="content" source="images/mpn-new.png" alt-text="Perfil do parceiro.":::
 
 
 ## <a name="next-steps"></a>Próximas etapas

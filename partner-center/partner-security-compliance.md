@@ -9,19 +9,16 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e9ff61b34a9154cf305efbb42147e99b9579a17f
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: a429706848a469aace2704d4eaf3d57898ae578f
+ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686272"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112915619"
 ---
 # <a name="security-requirements-status-report"></a>Relatório de status dos requisitos de segurança
 
-**Funções apropriadas**
-
-- Administrador do CPV
-- Administrador global
+**Funções apropriadas**: Administrador do CPV | Administrador global
 
 Este artigo explica o relatório de status dos requisitos de segurança no Partner Center. Este relatório apresenta métricas sobre o cumprimento dos [requisitos de segurança de parceiro](partner-security-requirements.md) referentes à MFA (autenticação multifator) por parte dos usuários do locatário do parceiro.
 
@@ -115,4 +112,4 @@ Pode ser útil identificar quais usuários estão fazendo logon no Partner Cente
 
 - [Comunidade do grupo de diretrizes de segurança do Partner Center](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)
 - [Requisitos de segurança do Partner Center](partner-security-requirements.md)
-- [Perguntas Frequentes sobre os requisitos de segurança do Partner Center](partner-security-requirements-faq.md)
+- [Perguntas Frequentes sobre os requisitos de segurança do Partner Center](partner-security-requirements-faq.yml)

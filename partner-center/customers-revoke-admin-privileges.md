@@ -9,19 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 624b66c7912af1f0109b6aadeffb67c5d4e9ea4b
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 779e76d6bb3e8df679a5ca6fa8ce441e42529161
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502490"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147285"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Obter permissões para gerenciar o serviço ou a assinatura de um cliente
 
-**Funções apropriadas**
-
-- Agente administrativo
-- Agente de vendas
+**Funções apropriadas**: Agente administrativo | Agente de vendas
 
 Para gerenciar um serviço ou uma assinatura de um cliente em nome dele, o cliente precisa conceder a você as permissões de administrador nesse serviço. Para receber permissões de administrador de um cliente, envie um email a ele com uma solicitação de relacionamento de revendedor. Depois que o cliente aprovar sua solicitação, você poderá entrar no portal de administração do serviço e gerenciar o serviço em nome do cliente. 
 

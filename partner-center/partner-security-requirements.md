@@ -9,18 +9,16 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b7fa76999d2e071f80c0175a8dfcbc1afe527bfc
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 201ea34d30814974936da032805f1ee7dfa590be
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087052"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145840"
 ---
 # <a name="security-requirements-for-using-partner-center-or-partner-center-apis"></a>Requisitos de segurança para usar o Partner Center ou as APIs do Partner Center
 
-**Funções apropriadas**
-
-- Todos os usuários do Partner Center
+**Funções apropriadas**: todos os usuários do Partner Center
 
 Este artigo explica os requisitos de segurança obrigatórios para Assistentes, Fornecedores do Painel de Controle e parceiros que participam do programa do Provedor de Soluções na Nuvem, bem como opções de autenticação e outras considerações de segurança. As proteções de privacidade e de segurança estão entre nossas principais prioridades. Sabemos que a melhor defesa é a prevenção e que somos tão fortes quanto nosso vínculo mais fraco. É por isso que precisamos de todos em nosso ecossistema, para agir e garantir que as proteções de segurança adequadas estejam em vigor.
 

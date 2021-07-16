@@ -1,21 +1,20 @@
 ---
 title: Trabalhar com provedores indiretos no programa CSP
+description: Saiba como revendedores indiretos no programa CSP podem trabalhar com provedores indiretos da Microsoft (ou distribuidores) para obter ajuda no cobrança e atendimento ao cliente.
 ms.topic: how-to
-ms.date: 01/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como revendedores indiretos no programa CSP podem trabalhar com provedores indiretos da Microsoft (ou distribuidores) para obter ajuda no cobrança e atendimento ao cliente.
-ms.prod: ''
 ms.custom: contperf-fy21q2
+ms.localizationpriority: high
 author: vinayks
 ms.author: vinayks
-ms.localizationpriority: high
-ms.openlocfilehash: 236cee00ec6a28468361c4893f7888882a17f5e4
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.date: 01/27/2021
+ms.openlocfilehash: f460ab4a692c9e8b515e361f3a18c4c240177b62
+ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880779"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112450825"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Aprenda como fazer parcerias com provedores indiretos no programa CSP (Provedor de Soluções na Nuvem)
 
@@ -67,7 +66,6 @@ A partir de outubro de 2020, todos os novos parceiros da Microsoft no CSP serão
 2. Reveja a **Página Inicial** para certificar-se de que tem as informações necessárias para o registro e, em seguida, selecione **Avançar**.
 
 3. Entre usando a conta corporativa – o nome de usuário e a senha que você usa para entrar como um administrador global do Office 365, do Microsoft Azure ou do Microsoft Dynamics CRM. Se você não tiver uma conta corporativa, selecione **Criar uma** para configurar uma agora. Depois de configurar uma conta corporativa, faça login usando as credenciais da sua nova conta.
-  
 
 4. Forneça ou atualize o perfil comercial jurídico, as informações de contato principal e suporte ao cliente da sua empresa. (Para encontrar as informações de negócios legais, selecione **Perfil da organização** e depois **Informações legais**.) Selecione **Registrar agora**.
 
@@ -78,30 +76,26 @@ A partir de outubro de 2020, todos os novos parceiros da Microsoft no CSP serão
 
 5. Associe sua ID da MPN à sua conta do CSP. Sua conta do CSP e a ID da MPN associada precisam estar localizadas no mesmo país, e sua ID da MPN precisa estar no Partner Center.
   
+   1. Entre no Partner Center com as suas credenciais de conta da "MPN" (suas credenciais do MPN podem ser diferentes das credenciais do CSP).
 
-   a. Entre no Partner Center com as suas credenciais de conta da “MPN” (suas credenciais da MPN podem ser diferentes das credenciais do CSP).
-   
-   b. Acesse **Configurações** -> **Configurações da Conta** -> **Perfil da Organização** -> **Identificadores**.
- 
-    c. Localize a ID da MPN com o tipo "Localização" que corresponde ao país dessa conta do CSP. 
+   2. Acesse **Configurações** -> **Configurações da Conta** -> **Perfil da Organização** -> **Identificadores**.
 
-    d. Se você não encontrar a ID do MPN do local que corresponde à conta do CSP que deseja usar, será possível adicionar um novo local que criará uma ID do MPN. Saiba mais em [Gerenciar localizações](manage-locations.md).
+   3. Localize a ID da MPN com o tipo "Localização" que corresponde ao país dessa conta do CSP.
 
-    e. Você pode adiar essa etapa por enquanto, mas não poderá assinar o MPA (Contrato de Parceiro da Microsoft) nem fazer transações no CSP até concluir a associação da ID da MPN à sua conta do CSP.
+   4. Se você não encontrar a ID do MPN do local que corresponda à conta do CSP que deseja usar, será possível adicionar um novo local, que criará outra ID do MPN. Saiba mais em [Gerenciar localizações](manage-locations.md).
 
- > [!IMPORTANT]  
- > Selecione a ID da MPN que está disponível no Partner Center e no mesmo país da sua conta do CSP e verifique se a sua ID da MPN está no Partner Center.
+   5. Você pode adiar essa etapa por enquanto. Porém, só poderá assinar o MPA (Contrato de Parceiro da Microsoft) e fazer transações no CSP após concluir a associação da ID do MPN à sua conta do CSP.
+
+   > [!IMPORTANT]
+   > Selecione a ID da MPN que está disponível no Partner Center e no mesmo país da sua conta do CSP e verifique se a sua ID da MPN está no Partner Center.
 
 6. Depois que a Microsoft concluir a verificação de registro que leva de 3 a 5 dias úteis, assine o Contrato de Parceiro da Microsoft na [visão geral do Painel do Partner Center](https://partner.microsoft.com/pcv/dashboard/overview) usando as credenciais de administrador global. Para exibir e baixar o **Contrato de Parceiro da Microsoft** antes de assiná-lo, clique no link do Contrato de Parceiro da Microsoft, conforme mostrado abaixo.  Se a sua conta estiver parada na verificação após 5 dias úteis, leia [O processo de verificação da conta](verification-responses.md).
 
+   :::image type="content" source="images/agreement-three.png" alt-text="Novo local do contrato do MPA.":::
 
-:::image type="content" source="images/agreement-three.png" alt-text="Novo local do contrato do MPA":::
+7. Confirme se você assinou o Contrato de Parceiro da Microsoft na seção **Informações do Programa** do Perfil do parceiro. Além disso, você verá uma barra de notificação de confirmação na página Visão Geral do CSP.
 
- 
-7. Confirme se você assinou o Contrato de Parceiro da Microsoft na seção **Informações do Programa** do Perfil do parceiro. Além disso, você verá uma barra de notificação de confirmação na página Visão Geral do CSP. 
-
-:::image type="content" source="images/mpagreen.png" alt-text="Barra de notificação aceita em verde":::
-
+   :::image type="content" source="images/microsoft-partner-agreement-green.png" alt-text="Barra de notificação aceita em verde.":::
 
 8. Quando sua conta do Partner Center estiver pronta para uso, verifique se que você foi adicionado ao grupo do agente administrador. Para concluir a configuração de sua conta, incluindo a adição de outros usuários, você deve ter permissões de agente administrador. Siga estas etapas para exibir ou atualizar suas permissões:
 
@@ -139,7 +133,6 @@ Se um provedor indireto quiser se conectar com você no Partner Center, ele vai 
 
 O local de negócios legal como um revendedor indireto do CSP determina os provedores indiretos com os quais você pode trabalhar, bem como as regiões em que você pode fazer negócios com o CSP. Saiba mais lendo [Mercados regionais e moedas do programa de Provedor de Soluções na Nuvem em que você pode vender as ofertas do CSP](regional-authorization-overview.md).
 
-
 ## <a name="next-steps"></a>Próximas etapas
 
 - [Como os provedores indiretos podem ajudar seus revendedores a adotar o Contrato de Parceiro da Microsoft – Perguntas Frequentes](mpa-indirect-provider-faq.md)
@@ -157,4 +150,3 @@ O local de negócios legal como um revendedor indireto do CSP determina os prove
 - [Saber mais sobre o processo de verificação](verification-responses.md)
 
 - [Conferir os requisitos para parceiros de cobrança direta](direct-partner-new-requirements.md)
-

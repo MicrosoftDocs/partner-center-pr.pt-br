@@ -9,22 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 051d638024200fe58ca5e07f42b758b304b58219
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 7fe03aa2b1d30c1146b8a14b6659c82cdcc52d9d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964367"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149223"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Visão geral de cobrança para parceiros do programa CSP que trabalham no Partner Center 
 
-**Funções apropriadas**
-
-- Agente administrativo
-- Administrador de cobrança
-- Administrador global
-- Agente de suporte técnico
-- Agente de vendas
+**Funções apropriadas**: Agente administrativo | Administrador de cobrança | Administrador global | Agente de ajuda | Agente de vendas
 
 Este artigo fornece as informações básicas de cobrança e fatura para parceiros CSP no Partner Center, incluindo como cobrar os clientes e como encontrar e ler sua fatura.
 

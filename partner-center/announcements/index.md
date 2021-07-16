@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/09/2021
-ms.openlocfilehash: 664e8d1353a022e73a5d2f68d11dea4d7cfd438f
-ms.sourcegitcommit: e2256e60cd2d4d41b3653655e3b1931292234283
+ms.openlocfilehash: d44ea9cd6c39954a1299344634d22fd1d31ec773
+ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/11/2021
-ms.locfileid: "113599748"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "113684263"
 ---
 # <a name="partner-center-announcements"></a>Comunicados do Partner Center
 
@@ -22,6 +22,9 @@ Saiba mais sobre as atualizações importantes do Partner Center. Atualizamos es
 
 |**Categoria**|**Comunicados de julho de 2021**|**Comunicado**|
 |---------|:---------|:---------|
+|Funcionalidades|[Alteração de software no CSP (Provedor de Soluções na Nuvem) e Open License da MCCL (Microsoft China Corporation Limited)](2021-july.md#9)| 13 de julho |
+|Preparação|[Alterações na API de validação de endereço do cliente do CSP (Provedor de Soluções na Nuvem) que entraram em vigor em 13 de julho de 2021](2021-july.md#8)| 12 de julho |
+|Funcionalidades|[Lembretes e atualização da comunidade do CSP (Provedor de Soluções na Nuvem) de julho](2021-july.md#7)| 12 de julho |
 |Funcionalidades|[Manter suas certificações da Microsoft ativas com a ajuda Partner Center](2021-july.md#6)| 9 de julho |
 |Funcionalidades|[Lançamento do SDK no .NET Standard (v2.0.1)](2021-july.md#5)| 7 de julho |
 |Funcionalidades|[Comunicado sobre a transparência do desconto do cliente](2021-july.md#4)| 7 de julho |

@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2021
-ms.openlocfilehash: 9d34a8e7674d178dc3217e36cee25b2d9ad6c36a
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.date: 06/18/2021
+ms.openlocfilehash: 101d67e42970e0aab4b2ea8bf0bc230cf57109d1
+ms.sourcegitcommit: b7203f1393c3d8f8db4683acdebd09a89e086c3c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740345"
+ms.lasthandoff: 06/21/2021
+ms.locfileid: "112424985"
 ---
 # <a name="december-2020-announcements"></a>Comunicados de dezembro de 2020
 
@@ -113,7 +113,7 @@ Observe que todos os outros arquivos da lista de preços estão agendados para s
 
 ### <a name="next-steps"></a>Próximas etapas
 
-Em resumo, os arquivos de preços abaixo ficaram disponíveis como de costume em 31 de dezembro de 2020, aproximadamente às 18h PST:
+Em resumo, os arquivos de preços abaixo ficaram disponíveis, como de costume, em 31 de dezembro de 2020, aproximadamente às 18h PST:
 
 - Matriz da lista de ofertas e dos arquivos da lista de preços baseados em licença
 - Arquivos de preços baseados no uso, mas somente com atualizações até 21 de dezembro de 2020
@@ -368,7 +368,7 @@ A oferta Promocional do Power Apps inicialmente planejada para 1º de dezembro d
 - A oferta estará disponível para compra até 30 de junho de 2021.
 - Ela abrange um período de 12 meses a um preço reduzido, como as outras ofertas do CSP.
 - Essa oferta não é renovada automaticamente e expira no final do período de 12 meses. Inicialmente, a propriedade de renovação automática será definida como **True**, mas isso será alterado para que a oferta expire no final do período de 12 meses.
-- Os parceiros precisarão comprar a oferta com preço não promocional (ID da oferta: 5e1087b6-246b-4503-b88a-b60bdf0b3840) antes da expiração de 12 meses se quiserem continuar usando os serviços fornecidos pela oferta promocional inicial.
+- Os parceiros precisarão comprar a oferta com preço não promocional (ID da oferta: 5e1087b6-246b-4503-b88a-b60bdf0b3840) antes do fim dos 12 meses se quiserem continuar usando os serviços fornecidos pela oferta promocional inicial.
 
 **Detalhes de preço**
 
@@ -397,8 +397,7 @@ Os detalhes da oferta abaixo estão na matriz da lista de ofertas de janeiro de 
 
 ### <a name="next-steps"></a>Próximas etapas
 
-- A oferta promocional já está disponível na matriz oficial da lista de ofertas e preços baseados em licença de 1º de janeiro de 2021 no Partner Center do CSP. 
-- Perguntas sobre essa promoção podem ser postadas no [comunicado da comunidade da Microsoft](https://www.microsoftpartnercommunity.com/t5/Pricing-Licensing-Incentives/Announcing-a-new-Power-Apps-promotional-offer-to-accelerate-FY21/m-p/32540).
+- A oferta promocional já está disponível na matriz oficial da lista de ofertas e preços baseados em licença de 1º de janeiro de 2021 no Partner Center do CSP.
 
 ______________
 

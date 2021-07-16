@@ -5,23 +5,21 @@ ms.date: 12/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Use o Partner Center para realizar negócios com a Microsoft e seus clientes
-author: laurabrenner
-ms.author: labrenne
+author: jasongroce
+ms.author: jasongroce
 ms.localizationpriority: high
-ms.openlocfilehash: 992e02e2ae27e4cf03071e114de22f42f11f7601
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: cd9400915861667378ccf5545a6a8827a699d465
+ms.sourcegitcommit: a84c83bbd95156344b3d9b2778973f47a9f83141
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132240"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "113353713"
 ---
 # <a name="what-is-partner-center"></a>O que é o Partner Center?
 
-**Funções apropriadas**
+**Funções apropriadas**: todos os parceiros interessados no Partner Center
 
-- Todos os parceiros interessados no Partner Center
-
-O [Partner Center](https://partner.microsoft.com/dashboard/home) simplifica vários processos empresariais a fim de facilitar para os parceiros da Microsoft gerenciarem o relacionamento com a Microsoft e os clientes. O Partner Center permite o acesso fácil às ferramentas de que você precisa para realizar todos os trabalhos. Use o Partner Center para:
+O [Partner Center](https://partner.microsoft.com/dashboard/home) simplifica vários processos empresariais a fim de facilitar para os parceiros da Microsoft gerenciarem o relacionamento com a Microsoft e os clientes. O Partner Center permite seu acesso às ferramentas de que você precisa para realizar todos os trabalhos. Use o Partner Center para:
 
 - Gerenciar os usuários e a conta Microsoft
 - Interaja com os clientes
@@ -33,7 +31,7 @@ O [Partner Center](https://partner.microsoft.com/dashboard/home) simplifica vár
 - Contate o suporte
 - Publicar ou explorar ofertas no [Marketplace Comercial da Microsoft](/azure/marketplace), um catálogo com milhares de serviços e aplicativos operáveis voltados para o cliente, criados e fornecidos por nossos parceiros ISV (fornecedores independentes de software).
 
-:::image type="content" source="images/home.png" alt-text="Visão Geral do Partner Center":::
+:::image type="content" source="images/home.png" alt-text="Visão Geral do Partner Center.":::
 
 ## <a name="manage-your-account"></a>Gerenciar sua conta
 
@@ -70,7 +68,7 @@ Acesse vários tipos diferentes de relatórios de dados no painel do Partner Cen
 - PCIs (Indicadores de Contribuição do Parceiro) mostram o impacto para o parceiro das sete principais medidas de sucesso do cliente
 - Os relatórios de dados de Insights do Parceiro identificam onde as suas vendas estão altas, ajudam você a descobrir quais clientes implantaram as assinaturas deles ou precisam de suporte e mostram o desempenho dos produtos que você vende.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Determine o local das suas licenças":::
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Determine o local das suas licenças.":::
 
 ## <a name="next-steps"></a>Próximas etapas
 

@@ -9,21 +9,16 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: 27bdb4aab3c8092b1ffc458e4da29250e2dbf23e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 03880b4ae9483b4b49410364eabdafdccbcabcdc
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756722"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149189"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Visão geral: Principais artigos de cobrança e imposto no Partner Center
 
-**Funções apropriadas**
-
-- Agente administrativo
-- Administrador de cobrança
-- Administrador global
-- Agente de vendas
+**Funções apropriadas**: Agente administrativo | Administrador de cobrança | Administrador global | Agente de vendas
 
 Este artigo fornece links para informações sobre cobrança e impostos no Partner Center, incluindo recursos de cobrança, faturas, cobrança do CSP e impostos.
 
@@ -31,7 +26,7 @@ Este artigo fornece links para informações sobre cobrança e impostos no Partn
 | Tópico | Descrição |
 | ----- | ----------- |
 | [Noções básicas sobre cobrança](billing-basics.md) | Noções básicas da cobrança do Partner Center (incluindo pagamentos, faturas e arquivos de reconciliação). |
-| [Tipos de cobrança](billing-different-types.md) | Explicação sobre diferentes tipos de cobrança no Partner Center. |
+| [Tipos de cobrança](./billing-basics.md) | Explicação sobre diferentes tipos de cobrança no Partner Center. |
 | [Entender a fatura](read-your-bill.md) | Como ler e entender sua conta do Partner Center. |
 | [Avaliações gratuitas](offer-your-customers-trials-of-microsoft-products.md) | Como oferecer avaliações gratuitas para seus clientes e como essas avaliações são cobradas. |
 | [Arquivo de reconciliação](use-the-reconciliation-files.md) | Como ler e usar seu arquivo de reconciliação para itens de linha. |
