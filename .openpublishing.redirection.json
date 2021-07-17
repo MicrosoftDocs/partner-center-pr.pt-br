@@ -444,6 +444,101 @@
             "source_path": "partner-center/vvr-faq.md",
             "redirect_url": "/partner-center/software-assurance-dps",
             "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "partner-center/pci-azure-usage-report.md",
+            "redirect_url": "/partner-center/insights-azure-usage-report",
+            "redirect_document_id": "true"
+        },
+        {
+            "source_path": "partner-center/pci-benefits-report.md",
+            "redirect_url": "/partner-center/insights-benefits-report",
+            "redirect_document_id": "true"
+        },
+        {
+            "source_path": "partner-center/pci-competencies-report.md",
+            "redirect_url": "/partner-center/insights-competencies-report",
+            "redirect_document_id": "true"
+        },
+        {
+            "source_path": "partner-center/pci-customer-opportunities.md",
+            "redirect_url": "/partner-center/insights-customer-opportunities",
+            "redirect_document_id": "true"
+        },
+        {
+            "source_path": "partner-center/pci-customer-report.md",
+            "redirect_url": "/partner-center/insights-customer-report",
+            "redirect_document_id": "true"
+        },
+        {
+            "source_path": "partner-center/pci-data-definitions.md",
+            "redirect_url": "/partner-center/insights-data-definitions",
+            "redirect_document_id": "true"
+        },
+        {
+            "source_path": "partner-center/pci-download-reports.md",
+            "redirect_url": "/partner-center/insights-download-reports",
+            "redirect_document_id": "true"
+        },
+        {
+            "source_path": "partner-center/pci-dynamics-usage-report.md",
+            "redirect_url": "/partner-center/insights-dynamics-usage-report",
+            "redirect_document_id": "true"
+        },
+        {
+            "source_path": "partner-center/pci-enterprise-mobility-security-usage-report.md",
+            "redirect_url": "/partner-center/insights-enterprise-mobility-security-usage-report",
+            "redirect_document_id": "true"
+        },
+        {
+            "source_path": "partner-center/pci-known-issues.md",
+            "redirect_url": "/partner-center/insights-known-issues",
+            "redirect_document_id": "true"
+        },
+        {
+            "source_path": "partner-center/pci-office-365-usage-report.md",
+            "redirect_url": "/partner-center/insights-office-365-usage-report",
+            "redirect_document_id": "true"
+        },
+        {
+            "source_path": "partner-center/pci-overview-report.md",
+            "redirect_url": "/partner-center/insights-overview-report",
+            "redirect_document_id": "true"
+        },
+        {
+            "source_path": "partner-center/pci-power-bi-usage-report.md",
+            "redirect_url": "/partner-center/insights-power-bi-usage-report",
+            "redirect_document_id": "true"
+        },
+        {
+            "source_path": "partner-center/pci-product-licenses-report.md",
+            "redirect_url": "/partner-center/insights-product-licenses-report",
+            "redirect_document_id": "true"
+        },
+        {
+            "source_path": "partner-center/pci-product-subscriptions-report.md",
+            "redirect_url": "/partner-center/insights-product-subscriptions-report",
+            "redirect_document_id": "true"
+        },
+        {
+            "source_path": "partner-center/pci-resellers-performance.md",
+            "redirect_url": "/partner-center/insights-resellers-performance",
+            "redirect_document_id": "true"
+        },
+        {
+            "source_path": "partner-center/pci-roles.md",
+            "redirect_url": "/partner-center/insights-roles",
+            "redirect_document_id": "true"
+        },
+        {
+            "source_path": "partner-center/pci-teams-usage-report.md",
+            "redirect_url": "/partner-center/insights-teams-usage-report",
+            "redirect_document_id": "true"
+        },
+        {
+            "source_path": "partner-center/pci-training-dashboard.md",
+            "redirect_url": "/partner-center/insights-training-dashboard",
+            "redirect_document_id": "true"
         }
     ]
 }
